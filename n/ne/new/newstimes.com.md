@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204042925id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627232807id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsTimes
 
@@ -154,7 +154,10 @@ When you are on our Web Sites you may have the opportunity to visit, or link to,
 
 We participate in the News Registry, a service operated by the News Licensing Group, LLC (NLG). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NLG News Registry. Please refer to the NLG News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
 
-**L. Miscellaneous**
+**L. quadrantONE**  
+The quadrantONE platform adheres to the Self‐Regulatory Principles for Online Behavioral Advertising (the "Principles"), developed by the Digital Advertising Alliance, a group of leading online industry trade associations dedicated to applying consumer‐friendly standards to online behavioral advertising across the Internet. To learn more about the Principles and to exercise your choice to opt‐out from interest‐based advertising, please go to <http://www.aboutads.info/choices/>. You may opt‐out from the use of your information for Online Behavioral Advertising purposes by selecting quadrantONE from the list of participating companies and following the opt‐out instructions. 
+
+**M. Miscellaneous**
 
 **(i) Consent to Processing**
 
