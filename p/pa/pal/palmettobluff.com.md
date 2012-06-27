@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmettobluff.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220084312id_/http%3A//www.palmettobluff.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmettobluff.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627181632id_/http%3A//www.palmettobluff.com/privacy.aspx) for the most accurate reproduction.*
 
 # Palmetto Bluff
 
@@ -6,7 +6,7 @@
 
 **Equal Housing Opportunity**.
 
-Crescent Resources, LLC's (hereinafter "Crescent Resources") Privacy Policy ("Policy") sets out what information we collect, how we collect it, and what we do with it. Please contact us at 227 W. Trade Street, Suite 1000, Charlotte, NC 28202, or by phone at (980) 321-6000, or through our web site located at [www.crescent-resources.com/contact.asp](https://web.archive.org/web/20111220084312id_/http%3A//www.palmettobluff.com/www.crescent-resources.com/contact) if you have any questions or would like additional information regarding this Policy. We may update this Policy from time to time, so please check this Policy periodically for changes.
+Crescent Resources, LLC's (hereinafter "Crescent Resources") Privacy Policy ("Policy") sets out what information we collect, how we collect it, and what we do with it. Please contact us at 227 W. Trade Street, Suite 1000, Charlotte, NC 28202, or by phone at (980) 321-6000, or through our web site located at [www.crescent-resources.com/contact.asp](https://web.archive.org/web/20120627181632id_/http%3A//www.palmettobluff.com/www.crescent-resources.com/contact) if you have any questions or would like additional information regarding this Policy. We may update this Policy from time to time, so please check this Policy periodically for changes.
 
 **Your Information**  
 As a company that provides land management, commercial and residential services, we may collect non-public, personal information directly from our customers and visitors to our web site, including when visitors submit information through our web site located at www.crescent-resources.com and/or our website located at www.palmetto-bluff.com and/or our website located at www.palmetto-bluff.com. We define "personal information" as information that is unique to an individual and might include the following: name, contact information, email addresses, and telephone numbers. We will update your information whenever we can to keep it current, accurate and complete.
