@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the musictheory.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153345id_/http%3A//www.musictheory.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictheory.net privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627122249id_/http%3A//www.musictheory.net/privacy) for the most accurate reproduction.*
 
-# Ricci Adams' Musictheory.net
+# musictheory.net - Privacy
 
-****| [Lessons](https://web.archive.org/lessons) | [Exercises](https://web.archive.org/exercises) | [Tools](https://web.archive.org/tools) | [iPhone](https://web.archive.org/ios) | [Contact](https://web.archive.org/contact)  
+****| [Lessons](https://web.archive.org/lessons) | [Exercises](https://web.archive.org/exercises) | [Tools](https://web.archive.org/tools) | [Products](https://web.archive.org/products) | [Contact](https://web.archive.org/contact)  
 ---|---|---|---|---|---  
   
 We do not collect personally identifiable information about you, except when you provide it to us via the [contact form](https://web.archive.org/contact). We use this information to reply to you. 
