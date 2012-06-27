@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ropeofsilicon.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006202441id_/http%3A//www.ropeofsilicon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ropeofsilicon.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628004122id_/http%3A//www.ropeofsilicon.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - RopeofSilicon.com
 
