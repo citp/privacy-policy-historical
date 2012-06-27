@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trust.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228193641id_/http%3A//www.trust.org/learn-more-about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627173135id_/http%3A//www.trust.org/learn-more-about-us/privacy) for the most accurate reproduction.*
 
 # Learn More About Thomson Reuters Foundation - Trust.org
 
