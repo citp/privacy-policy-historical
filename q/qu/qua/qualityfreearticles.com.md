@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityfreearticles.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527051319id_/http%3A//qualityfreearticles.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityfreearticles.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627110000id_/http%3A//ww10.qualityfreearticles.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
