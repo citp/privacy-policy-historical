@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227214640id_/http%3A//www.founder2be.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627035200id_/http%3A//www.founder2be.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Founder2be
+# Your privacy is very important to Founder2be
 
 Your privacy is very important to us. We protect it from third parties and from other users of this service.
 
