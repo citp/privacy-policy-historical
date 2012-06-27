@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226185115id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627220348id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
@@ -18,6 +18,9 @@ If you have any questions about our privacy policy, please contact us as describ
   * How do Gap Companies collect and use pixel tags and similar technologies? 
   * How do Gap Companies collect and use IP addresses? 
   * How do I know personal information about me is secure? 
+  * What is "phishing"?
+  * I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
+  * I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?
   * What about links to other websites? 
   * How long do you retain my information?
   * How do I contact you?
@@ -106,6 +109,18 @@ back to top
 We do our best to provide you with a safe and convenient online experience. We have in place physical, electronic, contractual, and managerial safeguards to help protect the security and privacy of your personal information from unauthorized access, acquisition or disclosure. When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your personal information as it is transmitted to us. 
 
 Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us sensitive information through email. If you have reason to believe that your interaction with us is no longer secure, you must immediately notify us of the problem by contacting us as described in the section entitled, "How do I contact you?" below. If you choose to notify us by physical mail this will delay the time it takes for us to respond to the problem. 
+
+back to top
+
+"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.
+
+back to top
+
+We are aware of phony emails sent out under our brand names. These emails did not originate from Gap Inc., and individuals who received fraudulent order status emails have not been charged. For your protection, do not click links or open any files attached to suspicious, unsolicited emails. If you believe your personal computer has been compromised as a result of the scam, please consult an IT professional. For more information, contact the FBI's Internet Crimes Complaint Center: <http://www.ic3.gov/default.aspx>. We work with law enforcement on their investigations of these kinds of fraudulent emails.
+
+back to top
+
+No. Gap Inc. does not ask prospective job applicants for information about their bank accounts, credit history or passwords to financial accounts. If you are asked for personal financial or security information in response to a job application, this is likely a fraudulent job listing hosted by spammers posing as Gap Inc. to mislead job applicants. You can validate all Gap Inc. job postings on [gapinc.com/careers](http://www.gapinc.com/careers). Spammers also create phony aliases such as thegap-usa.com to mimic our company and/or brand names in an effort to commit identity theft or other forms of fraud. If you receive this type of suspicious email activity, please alert the FBI's Internet Crimes Complaint Center: <http://www.ic3.gov/default.aspx>
 
 back to top
 
