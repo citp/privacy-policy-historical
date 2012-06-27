@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208015601id_/http%3A//www.unicef.org.uk/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627034756id_/http%3A//www.unicef.org.uk/Privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | UNICEF UK
 
@@ -18,15 +18,15 @@ By entering your details in the fields requested, UNICEF UK will be able to prov
 
 ## 2\. **Cookies**
 
-During the course of any visit to our websites, the pages which you see, along with something called a cookie, are downloaded to your computer (see What is a cookie? below for more on this). Most, if not all, websites do this, and that's because cookies allow the website publisher to do useful things like find out whether the computer (and probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit. ****
+During the course of any visit to our websites, the pages which you see, along with something called a cookie, are downloaded to your computer (see What is a cookie? below for more on this). Most, if not all, websites do this, and that's because cookies allow the website publisher to do useful things like find out whether the computer (and probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
-### **What is a cookie?**
+**What is a cookie?**
 
 When you enter a site your computer will automatically be issued with a cookie. Cookies are text files which identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Many sites do this whenever a user visits their site, in order to track traffic flows. Cookies themselves only record which areas of the site have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time, although this of course means that certain personalised services cannot then be provided to that user. You should read the information that came with your browser software to see how you can do this.  Even assuming you have not set your computer to reject cookies, you can browse our sites anonymously until such time as you register for UNICEF services or information.
 
-Further information about cookies can be found at the Interactive Advertising Bureau’s website [www.allaboutcookies.org](http://www.allaboutcookies.org/). ****
+Further information about cookies can be found at the Interactive Advertising Bureau’s website [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-### **What do we use cookies for?**
+**What do we use cookies for?**
 
 We use cookies so that we can give you a better experience when you return to our websites.In particular we use cookies to:
 
@@ -37,6 +37,7 @@ We use cookies so that we can give you a better experience when you return to ou
   * ensure that you are not asked to register twice;
   * track preferences and to improve and update our websites; and
   * track the progress and number of entries in some of our promotions and competitions.
+  * Download a [directory of the cookies](https://web.archive.org/Documents/Website/cookies-unicef-uk.pdf) used by UNICEF UK (PDF).
 
 
 
@@ -92,7 +93,7 @@ No data transmission over the internet can be guaranteed to be 100% secure. As a
 
 ## 9\. **Fraudulent online activity**
 
-UNICEF endeavours to prevent online fraudulent activity taking place. In order to prevent this activity from happening we have put additional security checks in place on our website. As a result of these checks there are times when we will be unable to process card transactions on the first attempt due to missing or incorrect information. This could include an uncompleted field or missing/incorrect address information. On these occasions we will encourage the cardholder to contact our Helpdesk in order to complete the transaction or to try again online using a different card. If you would like to speak to someone about a transaction you have made please contact our Helpdesk on 0855 8012414 between 9:00am – 5:00pm from Monday to Friday, or you can email them at [helpdesk@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
+UNICEF endeavours to prevent online fraudulent activity taking place. In order to prevent this activity from happening we have put additional security checks in place on our website. As a result of these checks there are times when we will be unable to process card transactions on the first attempt due to missing or incorrect information. This could include an uncompleted field or missing/incorrect address information. On these occasions we will encourage the cardholder to contact our Helpdesk in order to complete the transaction or to try again online using a different card. If you would like to speak to someone about a transaction you have made please contact our Helpdesk on 0844 8012414 between 9:00am – 5:00pm from Monday to Friday, or you can email them at [helpdesk@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
 
 ## 10\. **Links**
 
