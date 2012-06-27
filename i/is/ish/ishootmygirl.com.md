@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishootmygirl.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102035036id_/http%3A//ishootmygirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishootmygirl.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627065033id_/http%3A//www.ishootmygirl.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
