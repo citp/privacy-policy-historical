@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the postcard.com privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225013257id_/http%3A//www.postcard.com/About/PrivacyAndSecurity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the postcard.com privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627223721id_/http%3A//www.postcard.com/About/PrivacyAndSecurity) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="keywords" content="postcard, mail postcard, one postcard, create postcard, postcard designs">
@@ -12,7 +12,7 @@
     
 </title><link href="../Content/css/reset.css" rel="stylesheet" type="text/css"><link href="../Content/css/base.css" rel="stylesheet" type="text/css"><link href="../Content/css/mainStyle.css" rel="stylesheet" type="text/css"><link href="../Content/Site.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.ico"><link rel="icon" type="image/gif" href="/animated_favicon1.gif">
 	
-	<script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Scripts/jquery.js"></script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Scripts/jquery.js"></script>
 	
 	<script type="text/javascript" src="/Scripts/easySlider1.5.js"></script>
 	
@@ -91,19 +91,17 @@
     
     <div class="wrap ">
         
-
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7686292-17']);
-  _gaq.push(['_setDomainName', '.postcard.com']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7686292-17']);
+    _gaq.push(['_setDomainName', '.postcard.com']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 </script>
-
 <!-- Start of Woopra Code -->
 <script type="text/javascript">
     var woo_settings = { idle_timeout: '300000', domain: 'postcard.com' };
@@ -117,23 +115,39 @@
     })();
 </script>
 <!-- End of Woopra Code -->
+<div id="fb-root">
+</div>
+<script>    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="header">
     <tbody><tr>
-        <td width="28%" style="padding-top:10px;" class="logo">
+        <td width="28%" style="padding-top: 10px;" class="logo">
             <a href="/">
                 <img src="../../Content/images/logo.gif" alt="logo" width="320" height="45">
             </a>
+            <div style="position: absolute; margin-left: 320px; margin-top: -20px;" class="fb-like" data-href="http://www.postcard.com" data-send="false" data-width="450" data-show-faces="false">
+            </div>
         </td>
-        <td width="72%" align="right" valign="top" id="HeaderLinks" style="padding-top:16px;">
+        <td width="72%" align="right" valign="top" id="HeaderLinks" style="padding-top: 16px;">
             
         </td>
     </tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tbody><tr>
         <td height="55" align="right" valign="top">
-            <div style="float:left; padding-top:16px;">
-              <p align="left" style="line-height:16px; color:#999; font-size:12px;"><strong>Design and mail a real postcard around the world for $1.29 or send an e-card for FREE! </strong></p></div><div class="BtnNav">
+            <div style="float: left; padding-top: 16px;">
+                <p align="left" style="line-height: 16px; color: #999; font-size: 12px;">
+                    <strong>Design and mail a real postcard around the world for $1.29 or send an e-card
+                        for FREE! </strong>
+                </p>
+            </div>
+            <div class="BtnNav">
                 <a href="/Projects/Create"><span>Create A Postcard</span></a></div>
             &nbsp;
         </td>
@@ -145,19 +159,18 @@
     </tr>
 </tbody></table>
 
-
 <script type="text/javascript">
 
     function refreshCartCount() {
-        $.get('/Account/GetCartCount', null, function(CartCount) {
+        $.get('/Account/GetCartCount', null, function (CartCount) {
             $("#CartCount").text(CartCount + " items");
         }, "text");
     }
 
     function getHeaderLinks() {
-        $("#HeaderLinks").load('/About/HeaderLinks', null, function() {
+        $("#HeaderLinks").load('/About/HeaderLinks', null, function () {
             refreshCartCount();
-            $("#HeaderLinks a.nyroModal").click(function() {
+            $("#HeaderLinks a.nyroModal").click(function () {
 
                 $(this).nyroModalManual({ url: $(this).attr("href"), modal: true });
 
@@ -168,13 +181,12 @@
         });
     }
 
-    $().ready(function() {
+    $().ready(function () {
 
         getHeaderLinks();
     });
     
 </script>
-
 
         <div class="section">
             
@@ -307,7 +319,7 @@ or you can reach us by telephone at 212-741-1070</p>
           <td valign="top"><p>
                     <a href="/About/PrivacyAndSecurity">Privacy &amp; Security</a></p></td>
           <td valign="top"><p>
-                    <a href="http://www.dreamakergifts.com/">DreamakerGifts.com</a></p></td>
+                    &nbsp;</p></td>
           <td valign="top">&nbsp;</td>
           <td valign="top"><p> 
           <a href="http://www.twitter.com/PostCardDotCom" target="_blank"><img align="left" src="../../Content/images/share_twitter.png" width="16" height="16">&nbsp;Follow Us on Twitter</a></p></td>
@@ -337,7 +349,7 @@ or you can reach us by telephone at 212-741-1070</p>
     </tbody></table>
 </div>
 <div class="copyTxt">
-    ©2011 All Rights Reserved.</div>
+    ©2012 All Rights Reserved.</div>
 
 <script type="text/javascript">
     $().ready(function() {
