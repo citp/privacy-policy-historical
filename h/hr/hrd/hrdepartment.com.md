@@ -1,42 +1,54 @@
-> *The following text is extracted and transformed from the hrdepartment.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607074339id_/http%3A//hrsmart.com/index.php/-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrdepartment.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627161820id_/http%3A//hiring.monster.com/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Human Resource Software | Applicant Tracking System
+# Your Privacy Rights
 
-Privacy Policy | Human Resource Software | Applicant Tracking System   
-  
-**[HRsmart Privacy Document](http://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%20%3Chttp://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%3E)**
+Monster collects personal information about you and distributes that information to help you connect with employers and other job seekers with similar interests and to provide other services to you. This policy describes how information is collected and distributed and your choices with respect to your personal information. Please review our full [Privacy Statement](https://web.archive.org/privacy/fullstatement.aspx "Privacy Statement") for detailed information on our information and privacy practices.
 
-**ASP PRIVACY POLICY**
+## How Information is Used
 
- _Effective March 1, 2006_
+Information you post in public areas of the site or placed in the searchable Resume database will be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to Monster.
 
-This statement discloses HRsmart, Inc.'s ("HRsmart's") privacy policy with respect to the personally identifiable information ("personal information") it may maintain while operating as an application service provider ("ASP") for its clients. Any information HRsmart collects by other means, such as through the website www.hrsmart.com or off-line, is subject to a different policy and practice.
+We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services include the display of personalized content and advertising on our site or other sites with which we have a business relationship. We may use your information to contact you about Monster site updates, conduct surveys, or informational and service-related communications, including important security updates.
 
-This privacy policy applies only to the personal information HRsmart maintains in its capacity as an ASP. HRsmart builds custom software applications to help clients manage their human resources information. HRsmart's clients use this software to store, manipulate and extract human resources data. Typically, clients input data to the application's database. HRsmart's clients also may permit other parties to input data, such as vendors and job applicants. Our clients, not HRsmart, control which parties may enter data to the database. Similarly, our clients, not HRsmart, control which parties, such as employees and vendors, may access the data stored in the database. If you have a question about how a particular client protects personal information, we encourage you to review its privacy policy.
+## Disclosure of Information to Others
 
-HRsmart adheres to the Safe Harbor Principles set forth by United States Department of Commerce regarding the collection, use, and retention of data from the European Union.
+We share your information with third parties who help us in the delivery of our own products and services to you. These third parties may not use that information for any purpose other than assisting us in providing those products and services. 
 
-**1\. Notice**  
-HRsmart does not collect personal information. Clients use our applications to store and manage data that often contains personal information. Individuals should consult our clients' privacy policies for information about how their personal information may be collected and used by our clients.
+If you have consented for us to do so, we may use your information to contact you about other products or services available from our affiliates. 
 
-  
-**2\. Choice**  
-HRsmart will maintain personal information in accordance with this privacy policy. If at any point we change our policy, we will post a notice on this webpage to advise the public of such revisions. HRsmart does not have the ability to provide individuals with a choice regarding to whom our clients may disclose individuals' personal information or whether it is used for a purpose that is compatible with the purpose for which it was originally collected. We recommend that individuals consult our clients' privacy policies if they have questions about how these companies may collect, retain, use or share personal information.
+If you have consented for us to do so, we may also share your information with third parties who may contact you about their products or services. 
 
-**3\. Onward Transfer**  
-We do not share any personal information with third parties. Our clients control the transfer, if any, of personal information to third parties. 
+We also share information where legally required. Information collected on our Sites is stored in whole or in part in the United States, and may be subject to U.S. law. 
 
-**4\. Security**  
-HRsmart strives to protect the personal information it maintains on behalf of its clients. We have implemented physical and technological safeguards to help protect against the loss, misuse, and unauthorized access, disclosure, alteration and destruction of personal information. 
+We may disclose and transfer information if our business is sold or acquired.
 
-**5\. Data Integrity**  
-HRsmart will not use the personal information it maintains in any manner. You should consult our clients' privacy policies for information about how they may use or process personal information.
+## Your Choices About Your Information
 
-**6\. Access**  
-We maintain personal information on behalf of our clients. We provide our clients with the technological capacity to grant and limit access to personal information in accordance with their business and privacy practices. To correct, amend or delete inaccurate personal information, you should contact the company to which you provided this information.
+You may review, correct, or delete the personal information you submit to us at any time. Simply [log into your account](https://web.archive.org/Login.aspx "log into your account"), go to your account profile, and make the necessary changes. We will delete your personal information, but will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymized form. If your personal information was previously accessed by others using the Sites, we are unable to delete the information from their systems. 
 
-**7\. Enforcement**  
-HRsmart has verified that it complies with this privacy policy. If you have any questions or complaints about this policy, please contact at [marketing@hrsmart.com](mailto:marketing@hrsmart.com) or mail at 2929 N. Central Expressway, Suite 110, Richardson, TX 75080. If we are unable to resolve your complaint, you may contact the appropriate Data Protection Authority in the European Union.
+Monster has no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their web sites and review and read the privacy policies and opt-out practices that govern their usage. 
 
- **[HRsmart Privacy Document  
-](http://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%20%3Chttp://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%3E)**
+If you change your mind about receiving communications from Monster or other parties, you may change your preferences by [logging into your account](https://web.archive.org/Login.aspx "logging into your account"). 
+
+You may also [turn off cookies](https://web.archive.org/privacy/fullstatement.aspx#6 "turn off cookies") in your browser. This may affect your use of the site. 
+
+## Important Information
+
+Please review the full [Privacy Statement](https://web.archive.org/privacy/fullstatement.aspx "Privacy Statement") for further information. 
+
+Our Sites are not intended for children under 13 years of age. 
+
+We participate in the U.S. Department of Commerce’s [Safe Harbor Framework](https://web.archive.org/privacy/fullstatement.aspx#7 "Safe Harbor Framework") and we are a member of [TRUSTe](https://web.archive.org/privacy/fullstatement.aspx#7 "TRUSTe").
+
+For more information on how to protect yourself online, click [here](http://my.monster.com/securitycenter/ "security center").
+
+## How to Contact Us
+
+You may [contact us](http://about.monster.com/privacy/emailform/) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1-800-MONSTER, or write to us at: 
+
+Privacy Office  
+Monster Worldwide, Inc.  
+5 Clocktower Place, 5th Floor  
+Maynard, MA 01754
+
+If your question is not properly addressed, you may contact [TRUSTe for assistance in resolving your issue](https://web.archive.org/privacy/fullstatement.aspx#9).
