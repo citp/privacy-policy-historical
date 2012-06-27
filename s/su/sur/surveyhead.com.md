@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228220327id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627045044id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Surveyhead.com Privacy Policy
 
@@ -60,7 +60,7 @@ Surveyhead does not sell or rent user information to anyone. We will notify you 
 
 **What is** **Surveyhead's** **policy on allowing me to update, correct, or delete my personally identifiable information?**
 
-You may edit your Surveyhead Account Information and your public Surveyhead Profile at any time by using your Surveyhead ID and password. If you have forgotten your password, please [ click here](https://web.archive.org/web/20111228220327id_/http%3A//www.surveyhead.com/forgot_password.php) . 
+You may edit your Surveyhead Account Information and your public Surveyhead Profile at any time by using your Surveyhead ID and password. If you have forgotten your password, please [ click here](https://web.archive.org/web/20120627045044id_/http%3A//www.surveyhead.com/forgot_password.php) . 
 
 Your Surveyhead account can be deleted or deactivated. Please contact [ support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com) for further instructions about deleting or deactivating your Surveyhead account. 
 
