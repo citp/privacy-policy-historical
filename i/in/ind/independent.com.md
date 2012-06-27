@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the independent.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223135044id_/http%3A//www.independent.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628000527id_/http%3A//www.independent.com/privacy_policy) for the most accurate reproduction.*
 
-# The Santa Barbara Independent Privacy Policy Statement
+# Privacy Policy Statement The Santa Barbara Independent
 
 This is the web site of _Independent.com_.
 
