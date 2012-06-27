@@ -1,0 +1,139 @@
+> *The following text is extracted and transformed from the livefyre.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627074135id_/http%3A//www.livefyre.com/privacy) for the most accurate reproduction.*
+
+# Livefyre | Privacy Policy
+
+Livefyre's Privacy Policy is designed to help you understand how we collect and use the personal information you share with us, and help you make informed decisions when using Livefyre services, which are located at [livefyre.com](http://livefyre.com/) and its directly associated domains or as made available by its partners at their domains and via their services (collectively, "Livefyre" or "Site"). By using or accessing Livefyre, you are accepting the practices described in this Privacy Policy.
+
+We built Livefyre to make it easy for you to share your opinions with your friends and cohorts online. We understand you may not want everyone in the world to have the profile information you share on Livefyre; that is why we give you control of your profile information. You choose what information you put in your profile and have the ability to block people from seeing your profile. Posts submitted within conversations on the Site are public and cannot be deleted. Recent posts you have made on Livefyre show up in your profile by default.
+
+## The Information We Collect
+
+When you visit Livefyre you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Site. 
+
+When you enter Livefyre, we collect your browser type and IP address. This information is gathered for all Livefyre visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Livefyre. You can remove or block this cookie using the settings in your browser if you want to disable the convenience of this feature.
+
+When you use Livefyre, you may set up your personal profile, perform searches and participate in conversations. We collect information about what you do when you use Livefyre so that we can provide you the Livefyre service and offer personalized features. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+
+You post User Content (as defined in the Livefyre Terms of Use) on the Site at your own risk. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages of the Site or if other Users have copied or stored your User Content.
+
+Any improper collection or misuse of information provided on Livefyre is a violation of the Livefyre Terms of Service and should be reported through the form on our privacy help page.
+
+If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as that person's email address, Facebook username or Twitter username. By providing us with the information of third parties, you represent that you have all necessary rights to share that information with us. Livefyre stores this information to send invitations and reminders and to track the success of our referral program. Your friend may contact us at [contact@livefyre.com](mailto:contact@livefyre.com) to request that we remove this information from our database.
+
+Livefyre may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Livefyre service through the operation of the service in order to provide you with more useful information and a more personalized experience.  
+By using Livefyre, you are consenting to have your personal data transferred to and processed in the United States. 
+
+## Children Under Age 13
+
+Livefyre does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Livefyre or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Livefyre. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@livefyre.com](mailto:privacy@livefyre.com).
+
+## Children Between the Ages of 13 and 18
+
+We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
+
+## Use of Information Obtained by Livefyre
+
+When you register with Livefyre, you create your own profile. Your profile information is displayed to the public to enable you to connect with people on Livefyre. We may occasionally use your name, Livefyre username, Twitter username or email address to send you notifications regarding new services offered by Livefyre that we think you may find valuable.
+
+Profile information is used by Livefyre primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information in accordance with your privacy settings.
+
+Profile information you submit to Livefyre will be available to users of Livefyre. Your profile information will be available in search results across the Livefyre network and it may also be made available to third party search engines. This is primarily so people with like interests can find you and connect with you on Livefyre. By submitting profile information to Livefyre, you expressly consent to the uses of that personal information that are described above.
+
+Livefyre may send you service-related announcements from time to time through the general operation of the service.
+
+Livefyre may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements and promotions so that we can provide you Livefyre. We believe this benefits you. We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, Livefyre Platform developers, Twitter, Facebook and other users of Livefyre, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile.
+
+## Sharing Your Information with Third Parties
+
+We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you as specified in this Privacy Policy. For example:
+
+We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Livefyre, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Livefyre-specified purposes.
+
+We occasionally provide demonstration accounts that allow non-users a glimpse into the Livefyre world. Such accounts have only limited capabilities and passwords are changed regularly to limit possible misuse.
+
+We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Livefyre service or using the Livefyre name, or to prevent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
+
+We may provide services jointly with other companies on Livefyre. You can tell when another company is involved in any service provided on Livefyre, and by using a joint service, you agree that we may share customer information with that company in connection with your use of that service.
+
+If the ownership of all or substantially all of the Livefyre business, or individual business units owned by Livefyre, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations.
+
+When you use Livefyre, all information you post or share in public areas such as personal information or other information, may be shared with other users. All such sharing of information is done at your own risk. Please keep the open nature of the Livefyre platform in mind when disclosing personal information and opinions.
+
+## Links
+
+Livefyre may contain links to other web sites. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Livefyre.
+
+## Third Party Advertising
+
+Advertisements that appear in connection with Livefyre may be delivered (or "served") directly to users by third party advertisers. When advertisements are served directly by third party advertisers, they automatically receive your IP address and may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Livefyre does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Livefyre unless you choose to share it with them.
+
+This privacy policy covers the use of cookies by Livefyre and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+
+## Changing or Removing Information
+
+Access and control over most personal information on Livefyre is readily available through the profile editing tools. Livefyre users may modify or delete profile information at any time by logging into their account. Information will be updated immediately. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Livefyre.
+
+Where you make use of the communication features of the service to share information with other individuals on Livefyre, however, you may not be able to "unshared" or remove all communications.
+
+## Security
+
+Livefyre takes appropriate precautions to protect our users' information. Please do not send private information to us by email or instant messaging services. If you have any questions about the security of Livefyre Web Site, please contact us at [privacy@livefyre.com](mailto:privacy@livefyre.com).
+
+## Terms of Use, Notices and Revisions
+
+Your use of Livefyre, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+
+## Contacting the Web Site
+
+If you have any questions about this privacy policy, please email us at [privacy@livefyre.com](mailto:privacy@livefyre.com).
+
+## Safety
+
+Livefyre aspires to be an environment where people can interact safely with their friends and the people around them. Children under 13 years old are not permitted access to Livefyre. In addition, parents of children 13 years and older should consider whether their child should be supervised during the child's use of the Livefyre site.
+
+Despite Livefyre's safety and privacy controls, Livefyre cannot guarantee that its site is entirely free of illegal, offensive, pornographic or otherwise inappropriate material, or that its members will not encounter inappropriate or illegal conduct from other members. Consequently, you may encounter such content and conduct. You can help Livefyre by notifying us of any nudity or pornography, or harassment or unwelcome contact by emailing us at [safety@livefyre.com](mailto:safety@livefyre.com).
+
+We need all users to report suspicious people and inappropriate content they encounter on Livefyre. And we strongly encourage users under the age of 18 to talk to their parents or a responsible adult immediately if someone online says or does something to make them feel uncomfortable or threatened in any way.
+
+Remember that although using fake names is a violation of the Livefyre Terms of Use, people are not always who they say they are. You should always be careful when contacting people you do not know in the real world. And it is always risky to meet anyone in person whom you don't know through real world friends.  
+Always follow these important safety tips when using Livefyre: 
+
+  * Never share your password with anyone;
+  * Be cautious about posting and sharing personal information, especially information that could be used to identify you or locate you offline;
+  * Report users and content that violate our Terms of Use; and
+  * Block and report anyone that sends you unwanted or inappropriate communications.
+
+
+
+## For Parents:
+
+Livefyre strongly urges parents to talk to their children about the dangers they may encounter online, and to make sure their children are using Livefyre in a safe manner. Parents may want to install monitoring software on home computers if they are concerned about what their children are doing online. Children must know that they should report any inappropriate or offensive Livefyre content to their parents and to Livefyre using the tools made available through the site. Parents should always remind their children to follow the important safety tips listed on this page when using Livefyre.
+
+More information regarding Internet safety can be found on the following sites:  
+
+
+  * [OnguardOnline.gov](http://onguardonline.gov/)
+  * [WiredSafety.org](http://wiredsafety.org/)
+  * [Commonsense.com](http://commonsense.com/)
+  * [Ncmec.org](http://ncmec.org/)
+  * [TRUSTe.org](http://truste.org/)
+  * [ConnectSafely.org](http://connectsafely.org/)
+  * [NetSmartz.org](http://netsmartz.org/)
+  * [WebWiseKids.org](http://webwisekids.org/)
+
+
+
+## U.S.-EU Safe Harbor Framework
+
+Livefyre complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Livefyre has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+Privacy Complaints by European Union Citizens:
+
+In compliance with the Safe Harbor Principles, Livefyre commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Livefyre at:
+
+> Jenna Langer  
+>  [support@livefyre.com](mailto:support@livefyre.com)  
+>  580 Howard Street  
+>  Suite 401, San Francisco, CA 94105
+
+Livefyre has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Livefyre, please visit the [BBB EU SAFE HARBOR web site](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
