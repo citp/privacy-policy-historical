@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsalvation.com privacy policy that was archived on 2011-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110930014808id_/http%3A//www.gadgetsalvation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsalvation.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627224450id_/http%3A//gadgetsalvation.com/privacy.php) for the most accurate reproduction.*
 
 # Gadget Salvation
 
