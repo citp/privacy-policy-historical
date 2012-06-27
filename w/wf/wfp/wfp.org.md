@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfp.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112441id_/http%3A//www.wfp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfp.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627184216id_/http%3A//www.wfp.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WFP | United Nations World Food Programme - Fighting Hunger Worldwide
 
@@ -55,3 +55,7 @@ The Site contains hypertext links to other sites. The World Food Programme assum
 ### Privileges and Immunities
 
 Nothing in or relating to this privacy policy or this Site shall be deemed a waiver of any of the privileges and immunities of the World Food Programme under the Convention on the Privileges and Immunities of the United Nations and the Convention on the Privileges and Immunities of the Specialized Agencies.
+
+### Content Sharing Terms
+
+By submitting the video content to the World Food Programme (WFP), you: (i) represent and warrant that you are of legal age of consent in the jurisdiction of your domicile; (ii) grant WFP a non-exclusive, worldwide, perpetual, irrevocable,  royalty-free  sublicenseable and transferable license to use, display, distribute, reproduce, modify, remix, transcode, excerpt, adapt, prepare derivative works of and compilations, publicly perform and publicly display such video content in any media format or medium for any purpose whatsoever in connection with WFP activities; (iii) represent and warrant that the video content is original or that you hold the necessary rights to publish the video content you submit and grant WFP the license hereunder; and (iv) agree to indemnify and hold WFP, its officers, agents and employees harmless from any claim or loss made by any third party due to or arising out of video content you submit.
