@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003825id_/http%3A//www.smud.org/en/legal/Pages/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627200135id_/https%3A//www.smud.org/en/about-smud/privacy.htm) for the most accurate reproduction.*
 
-# SMUD.org | English | Legal
-
- 
-
-  
-
+# smud.org
 
 ## Terms of use
 
@@ -54,7 +49,7 @@ Sacramento, CA 95852-1830
 
 ### Children's privacy notice for parents
 
-This Web site complies with guidelines specified by the Children's Online Privacy Rule which became effective on April 20, 2000. The FTC maintains a special [Web page](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/) with more information for children and parents.   
+This Web site complies with guidelines specified by the Children's Online Privacy Rule which became effective on April 20, 2000. The FTC maintains a special [Web page ](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)with more information for children and parents.   
 Currently, this Web site does not collect personal information from children under 13 years of age. Students who are 12 and younger may request information or register to attend SMUD's Science on Saturday or Summer Science classes in the Energy & Technology Center by mail. 
 
   
@@ -85,6 +80,7 @@ Information may be used by SMUD to insure successful participation in the activi
 
 Collected information is not stored on the Web server. All student information is maintained by:
 
+  
  **Alan Sulieman**  
 SMUD Energy & Technology Center  
 6301 S Street, MS A226  
@@ -103,7 +99,7 @@ Sacramento, CA 95852-1830
  _[rfrattu@smud.org](mailto:rfrattu@smud.org)_
 
 Identity of the requesting parent will be verified by SMUD using your account number by e-mail, phone call, or written letter. Cookies may be used for remembering user input on interactive pages, such as games.  
-SMUD [Children's Online Privacy Policy.](https://web.archive.org/en/Legal/Pages/childrens-privacy-policy.aspx)
+SMUD [Children's Online Privacy Policy.](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
 
 ## Security statement
 
@@ -118,6 +114,7 @@ A protocol is a set of rules or procedures.
   
 SSL technology takes a message and runs it through a set of steps that "scramble" the message. This is done so that the message cannot be read while it is being transferred. This "scrambling" is called Encryption. When the message is received by the intended recipient, SSL unscrambles the message, checks that it came from the correct sender ["Server Authentication"] and then verifies that it has not been tampered with ["Message Integrity"]. Your browser will give an indication that SSL security is being used by showing some sort of icon in the status bar area (e.g., a blue key or a closed lock icon) of your screen. See your browser's documentation for more information. If you have any questions about this security statement or the practices of this site, you can contact:
 
+  
  **Ralph Frattura**
 
 Sacramento Municipal Utility District  
@@ -139,9 +136,3 @@ Changes to SMUD legal notices and Web policies will be posted on this page.
 ### Accessibility
 
 It is intended that all information on this Web site be accessible to all visitors. If you use a voice browser you may request a text version of PDF files and the Greenergy® Power Content label. Send requests for text files and report other page formatting problems to [webstaff@smud.org](mailto:webstaff@smud.org). 
-
-close window
-
-print window
-
-Back to Top
