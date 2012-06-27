@@ -1,31 +1,28 @@
-> *The following text is extracted and transformed from the trusteer.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015202724id_/http%3A//www.trusteer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusteer.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627224705id_/http%3A//www.trusteer.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Trusteer
+# Privacy Policy | Support
 
 **Trusteer Privacy Policy**
 
-[**Trusteer Datenschutzgrundsätze**](http://www.trusteer.com/de/privacy-policy)
-
 IMPORTANT: BY USING THE TRUSTEER SERVICES (AS DEFINED BELOW) YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY TRUSTEER IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
 
-IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS SET FORTH HEREIN DO NOT USE TRUSTEER’S ON-LINE SERVICE, DOWNLOAD AND/OR INSTALL THE SOFTWARE AND PROMPTLY (within 3 days from the date you received this package) ERASE THE SOFTWARE AND ANY PART THEREOF, FROM YOUR COMPUTER AND DO NOT USE IT IN ANY MANNER WHATSOEVER
+IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS SET FORTH HEREIN DO NOT USE TRUSTEER’S ON-LINE SERVICE, DOWNLOAD AND/OR INSTALL THE SOFTWARE AND PROMPTLY (within 3 days from the date you received this package) ERASE THE SOFTWARE AND ANY PART THEREOF, FROM YOUR COMPUTER AND DO NOT USE IT IN ANY MANNER WHATSOEVER.
 
-At Trusteer Inc. and its affiliates (“Trusteer”), we recognize that privacy is important. This Policy applies to all of the software, services and products offered by Trusteer or its subsidiaries or affiliated companies (collectively, Trusteer 's "Services") and covers how personal and other information that Trusteer collects and receives, including information related to use of the Services, is treated.
+At Trusteer Inc. and its affiliates (“Trusteer,” “our” or “we”), we recognize that privacy is important. This Privacy Policy (“Policy”) applies to all of the software, services and products offered by Trusteer or its subsidiaries or affiliated companies (collectively, Trusteer's "Services"), and covers how personal and other information that Trusteer collects and receives, including information related to use of the Services, is treated.
 
 If you have any questions about this Policy, please feel free to contact us at: [Support@Trusteer.com](mailto:Support@Trusteer.com) Information we collect and how we use it:
 
-In order to provide our Services, we may collect the following types of information:
+In order to provide our Services, we may collect the following types of information: 
 
   * Security related Information - When you use our Services, we automatically receive and record information from your computer and browser regarding possible security risks. This information is collected as part of our malicious activity detection processes and to continuously improve our ability to protect against evolving threats and malware. Collected information includes IP address, software and hardware attributes, and additional information related to security events such as URLs visited which the software and services deem potentially fraudulent and files identified as potentially related to malicious activity. Such files and URLs may contain personally identifiable information that a potentially fraudulent website or malware attempt to obtain without your permission. We do not deliberately collect personally identifiable information and we do not store or correlate any personally identifiable information with data from your computer. We do not track your browsing behavior.
   * Status information - When you use the Services, our software collects status information regarding installation and operation of the software, and information about attempts to modify, reverse engineer, decompile, disassemble, and terminate our Services. This information indicates to Trusteer whether installation of the software was successfully completed and whether the software has encountered an error. Prior to collecting such information, the software will attempt to eliminate all personally identifiable information if such information is included in the name of the file or folder encountered by the software at the time of installation or error. The status information is collected by Trusteer for the purpose of evaluating and improving Trusteer’s product performance and installation success rate and will not be correlated with any personally identifiable information.
   * User communications, Personal and Contact & information – In some situations, such as when you communicate with our contact center, we may ask for contact information. We process such information only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. When you send email or other communication to Trusteer, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. 
 
-When you use our products and services, we may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Services may not function properly if your cookies are disabled. Trusteer may use Cookies information for activities such as automatically updating services on your system, monitoring aggregate site usage metrics such as total number of visitors and pages accessed, and personalizing the services we provide you. We do not use cookies to track your browsing behaviors. 
-
-Trusteer uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services as well as to track user-generated content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act. You may choose not to send information to us by configuring the software appropriately through the Rapport console, although this may result in reduced protection and limited functionality.
 
 
+When you use our products and services, we may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Services may not function properly if your cookies are disabled. Trusteer may use Cookies information for activities such as automatically updating services on your system, monitoring aggregate site usage metrics such as total number of visitors and pages accessed, and personalizing the services we provide you. We do not use cookies to track your browsing behaviors.
 
+Trusteer uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services as well as to track user-generated content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act. If you use our Rapport product, you may choose to limit the information sent to us to critical security information only (such as malware infection indications) by configuring the software appropriately through the Rapport console, although this may result in reduced protection and limited functionality.
 
 Trusteer will not share, sell, auction off or give away your personal information to any third-party or other organization other than as set forth herein.
 
@@ -33,23 +30,23 @@ Links from our Site - Links to other sites may be provided by Trusteer as a conv
 
 **Choices for personal information:**
 
-If we use this information in a manner different than the purpose for which it was collected or described in this policy, then we will notify you of the change through email or via our web site, and you will be able to opt out of the use of personal information for those other purposes.
+If we use this information in a manner different than the purpose for which it was collected or described in this Policy, then we will notify you of the change through email or via our web site, and you will be able to opt out of the use of personal information for those other purposes.
 
 **Information sharing:**
 
-Trusteer only shares personal information with other companies or individuals in the following limited circumstances:
+Trusteer shares personal information with other companies or individuals only in the following limited circumstances: ~~~~
 
   * We provide information to our customers with whom you have an account (such as your bank) for the purpose of protecting your account and personal information in case it has been subject to suspected malicious activity. Such information is secured such that it can be used only by the organization who manages your account and who prevents malicious activity on it, and cannot be used by anyone else including Trusteer to correlate the information with other personally identifiable information.
   * Trusteer uses all of the information that we collect to understand the usage trends and aggregate preferences of our users, to improve the Services, to create new features and functionality, and to continuously improve our ability to protect against evolving threats and malware. In order to promote awareness, detection and prevention of internet security risks, Trusteer may share certain anonymous information with research organizations and other security software vendors. Trusteer may also use statistics derived from the information to track and publish reports on security risk trends.
-  * Trusteer may disclose the collected information if asked to do so by law enforcement officials, as required or permitted by law or in response to a subpoena or other legal process.
+  * Trusteer may disclose the collected information if asked to do so by law enforcement officials, as required or permitted by law, in response to a subpoena or other legal process, or in litigation involving our company.
   * Trusteer may disclose the collected information to protect or defend our rights or property, or
-  * Trusteer may disclose the collected information- in the event of a merger of our company or any part of our company or its sale or transfer to another entity.
+  * Trusteer may disclose the collected information in the event of a merger of our company or any part of our company or its sale or transfer to another entity.
 
 
 
 **Information security:**
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
 
   * We strive to maintain the reliability, accuracy, completeness and currency of data that we collect and to protect the privacy and security of our customers. We keep collected information only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
   * We limit access to contact information about you to employees, contractors and agents who we believe reasonably need to come into contact with that information. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
@@ -73,10 +70,16 @@ Please contact us at the above address for any additional questions or to access
 
 Trusteer regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of personal information by contacting us as provided above. When we receive formal written complaints it is Trusteer 's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding our use of personal information.
 
+**Participation in the U.S.-E.U, and U.S. Switzerland Safe Harbor Programs:**
+
+Trusteer is a participant in the U.S.-E.U. and U.S.-Switzerland Safe Harbor programs developed by the U.S. Department of Commerce and the European Union and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S., the E.U. and Switzerland.  For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/") Web site. If you would like to contact Trusteer directly about the Safe Harbor program, please send an e-mail to [support@Trusteer.com](mailto:support@Trusteer.com "mailto:support@Trusteer.com")
+
+Trusteer’s Safe Harbor Privacy Policy is posted [here](http://www.trusteer.com/support/customer-safe-harbor-privacy-policy).
+
 **Changes to this Privacy Policy:**
 
-Trusteer may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.
+Trusteer may update this Policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.
 
 **Questions:**
 
-If you have any questions about this Privacy Policy or concerns about the way we process personal information, please contact us at [Support@Trusteer.com](mailto:Support@Trusteer.com)
+If you have any questions about this Policy or concerns about the way we process personal information, please contact us at [Support@Trusteer.com](mailto:Support@Trusteer.com)
