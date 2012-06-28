@@ -1,75 +1,53 @@
-> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204014023id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629003601id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# The Daily Mash - Privacy Policy
+# The Daily Mash | Privacy Policy
 
-07-06-07 
+## Privacy Policy
 
-This is the Privacy Policy which you agree to by using thedailymash.co.uk. 
+We’ve updated our privacy policy, not that you care in the slightest. Like every site out there we at thedailymash.co.uk collect some information online which we use to develop and enhance the services we offer to you. This involves the use of cookies. But don’t worry, any data collected is all anonymous so even if we wanted we couldn’t tell your wife, husband, civil partner, girlfriend, boyfriend or employer exactly what it is you’re ‘researching’ on the Net these days.
 
-At thedailymash.co.uk we use information collected online to develop and enhance the services we offer to you. We take privacy issues seriously and are open about the way data is collected and used. Please read this policy which outlines the principles we follow. 
+If you do not know what cookies are, or how to control or delete them, then we recommend you read on or visit [www.aboutcookies.org](http://www.aboutcookies.org/ "About cookies") or [www.youronlinechoices.com](http://www.youronlinechoices.com/ "Your Online Choices"). Deleting cookies may impair the functionality of this site and your enjoyment of it.
+
+We take privacy issues seriously and are open about the way data is collected and used. Please read this policy which outlines the principles we follow.
 
 We are committed to:  
 \- protecting the personal information you give us  
 \- telling you how we use the information we gather from you  
-\- getting your consent to our disclosure of your personal information 
+\- getting your consent to our disclosure of your personal information
 
-  *   
+This is the Privacy Policy you agree to by using thedailymash.co.uk.
 
+**We are committed to protecting your privacy.  
+**We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.  ****
 
+**Information Collected**  
+We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. ****
 
+**Information Use**  
+We use the information collected primarily to help us improve our site to make it enjoyable for you to visit. Data collected in the UK is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. ****
 
-**Why we collect information about you**
+**Cookies**  
+Your Internet browser has the in-built facility for storing small files- “cookies” – that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired. ****
 
-We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you.  
+We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) or [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) for detailed guidance. If you are not happy, then you should either not use this site, or you should delete cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, “Private Browsing” in Firefox and Safari etc.).
 
-Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free  
-
-In addition to the services we provide on this web site we want to offer you goods and services provided by us and others (with your consent) which are of interest to you  
-
-We compile anonymous records of user trends which we may make use of ourselves, or pass to unconnected parties.  
-
- **What data is collected and how is it used?**
-
-We may collect information from you when you fill in an online registration form for any of our web site services, (eg newsletters, forums, competitions etc) . We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, your mailing address, email address and telephone numbers. 
-
-To sign up with thedailymash.co.uk you need to provide us with your name, email address and password (if required) for authentication purposes. The email address may be used to send you information about your account and information about thedailymash.co.uk promotions which you have selected to receive information on during the registration process.  
-
-If you use a thedailymash.co.uk transactional service, our partner merchants will let us know details of the products or services bought or requested. We do this in order to understand what our users are buying, to develop our service and to promote our partners more effectively.  
-
-We may on occasions ask you to provide additional personal information about yourself such as your date of birth, gender, and/or mobile telephone number to enable you to participate in a competition or survey.  
-
- **Your consent  
 **  
-We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use, you will be given an opportunity to refuse consent for various uses of your information.
+Your consent  
+**Currently we use the following cookies and we operate an ‘implied consent’ policy which means that we assume you are happy with this usage.
 
-If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email.  
+**  
+Google Analytics –  **we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  ****
 
-We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest security systems means that we can never make this promise.  
+Quantcast – this cookie captures information on site traffic and usage so we can better understand our audience. User data is all anonymous. ****
 
-Please be aware that if you disclose information on web pages, ,forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.  
+Switch Concepts – this cookie is used to deliver & monitor performance of the display adverts on our site. User data is all anonymous.  See here for more info: <http://www.switchconcepts.com/privacy.html>  ****
 
-Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information. We also require compliance with such legislation by third parties with whom we have arrangements to offer goods or services through the "thedailymash.co.uk" website.  
+Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you. For more information on online behavioural advertising and about how to turn this feature off, please visit <http://www.youronlinechoices.com/uk>  ****
 
-Our web sites provide a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to anybody other than us.  
+**Disclosing Information**  
+We do not disclose any personal information obtained about you from this website to third parties unless you permit us to do so by ticking the relevant boxes in registration or competition forms. We may also use the information to keep in contact with you and inform you of developments associated with us. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.  ****
 
- **Disclosing your information to third parties**
+We may from time to time provide information of a general nature to third parties – for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals.  ****
 
-The personal information you give us is only disclosed to other businesses if we have your permission.
-
-We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
-
-We may forward your personal details to the Police or other regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any web site services.
-
-We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority other than us or our associated companies.
-
-thedailymash.co.uk  may employ other companies and individuals to work on our behalf. Examples include sending email, analysing data and providing customer service. Such agents have access to the personal information needed to perform their functions but may not use it for other purposes.  
-
- **Advertisers**
-
-Advertisers and advertising agencies that serve adverts onto thedailymash.co.uk may also attach cookies to your computer. In themselves, these cookies will contain no personally identifying information. If you want to find out about how these companies use these cookies, please refer to the privacy policies found on their websites.  
-
-thedailymash.co.uk reserves the right to change this Privacy Policy and continued use of our services signifies your agreement to any changes. In the event of material changes you will be contacted by email. 
-
-**Tell us what you think**
-
-If you have any comments or questions or wish to withdraw your consent please contact us at editor (at) thedailymash.co.uk. 
+**Contacting Us**  
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [help@thedailymash.co.uk.](mailto:help@thedailymash.co.uk.) You can also correct any factual errors in that information or require us to remove your details form any list under our control.
