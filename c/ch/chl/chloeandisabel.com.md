@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chloeandisabel.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006230955id_/http%3A//www.chloeandisabel.com/colophon/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chloeandisabel.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629010720id_/http%3A//www.chloeandisabel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Colophon
+# Privacy Policy | Chloe and Isabel
 
 Please read this Privacy Policy carefully prior to using this Site. By using the Site, you indicate your agreement with this Privacy Policy. If you do not agree with the Privacy Policy, do not use this Site. 
 
