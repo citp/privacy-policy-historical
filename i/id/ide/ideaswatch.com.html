@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ideaswatch.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101161313id_/http%3A//www.ideaswatch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideaswatch.com privacy policy that was archived on 2012-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628205023id_/http%3A//www.ideaswatch.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,400&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
@@ -24,8 +24,15 @@
 <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 
 	<title>IdeasWatch: Privacy policy</title>
-	<script type="text/javascript">
-
+	
+<!-- socialize.js script should only be included once -->
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_hY2VtFBqGQpxW45hZFXl0M-qEfCUx-oSNjVQbNkOVmbo1D7c1mkOyd0mthdbDve3">
+{
+	siteName: 'ideaswatch.com'
+	,enabledProviders: 'facebook,twitter,google,linkedin'
+}
+</script>
+<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18806456-3']);
   _gaq.push(['_trackPageview']);
@@ -40,6 +47,31 @@
 </head>
 <body>
 
+<script type="text/javascript">
+var login_params=
+{
+	showTermsLink: 'false'
+	,height: 30
+	,width: 100
+	,containerID: 'headerLogin'
+	,UIConfig: '<config><body><controls><snbuttons buttonsize="20" /></controls></body></config>'
+	,autoDetectUserProviders: ''
+	,facepilePosition: 'none'
+	,redirectURL:'/user-validation-social.aspx'		
+}
+</script>
+<div class="HideOnLogin" id="SignInBar">
+<div class="limit">
+You are not signed in. Welcome to do everything anonymously, but to engage with other like-minded Ideators, please sign in: 			
+<div id="headerLogin"></div>
+<script type="text/javascript">
+   gigya.services.socialize.showLoginUI(login_params);
+</script>	
+</div>
+</div>
+
+<div class="HideOnLogin" style="height:25px">
+</div>
 
 <div id="Feedback">
 <a href="/feedback"><img src="/img/layout/feedback.gif"></a>
@@ -50,9 +82,12 @@
 <img src="/img/layout/postit1-hover.jpg">
 <img src="/img/layout/postit2-hover.jpg">
 <img src="/img/layout/postit3-hover.jpg">
-<img src="/img/layout/tab-browse-hover.png">
-<img src="/img/layout/tab-send-hover.png">
-<img src="/img/layout/tab-cofounders-hover.png">
+<img src="/img/layout/tab-browse-on_hover.png">
+<img src="/img/layout/tab-browse-off_hover.png">
+<img src="/img/layout/tab-send-on_hover.png">
+<img src="/img/layout/tab-send-off_hover.png">
+<img src="/img/layout/tab-cofounders-on_hover.png">
+<img src="/img/layout/tab-cofounders-off_hover.png">
 <img src="/img/layout/support_hover.png">
 <img src="/img/layout/ajax-loader.gif">
 <img src="/img/layout/ajax-loader-light.gif">
@@ -71,7 +106,7 @@
 <center>
 <div id="limit">
 	<div id="masthead">
-		<div id="subtitle"><span class="note"><b>300+ startup ideas</b> already shared!</span></div>	
+		<div id="subtitle"><span class="note">Startup inspiration from the crowd</span></div>	
 		<a href="http://www.ideaswatch.com" title="IdeasWatch: Startup inspiration from the crowd">
 		<img id="logo" alt="IdeasWatch: Startup inspiration from the crowd" longdesc="IdeasWatch: Startup inspiration from the crowd" src="/img/layout/logo_small.png"></a> 
 			<div id="loginbar">
@@ -81,24 +116,27 @@
 			<a href="/ideasboard"> <b>My ideasboard</b></a> | <a href="/profile-settings">Profile settings</a> |
 				<a href="/ajax/ajax-signout.aspx">Log out</a></p>
 				</div>
-			<div id="signedoffbar" class="HideOnLogin preload"><a href="/signin.aspx?returnurl=/privacy-policy">Log in</a> | <a href="/signup"><b>Sign up for free</b></a></div>		
+			<div id="signedoffbar" class="HideOnLogin preload" style="padding-left:98px">
+			
+				</div>		
 		</div>
 		<div class="SearchBox">
 
 <form id="SearchFormInpage" name="SearchFormInpage" style="margin-top:0px;">
+
 <input id="q" name="q" type="text" class="pole" style="width:215px" value="">
-<a class="PurpleButton PBNormal" id="ButtonSearchInpage" style="margin-left:10px">Search</a>
+<a class="PurpleButton PBNormal" id="ButtonSearchInpage" style="margin-left:10px">Search ideas</a>
 </form>
 </div>
 	</div>	<div id="tabs">
 	<div id="top_nav">
-		<a href="#" id="tab-send"></a>
-		<a href="/browse" id="tab-browse"></a> 
-		<a href="/cofounders" id="tab-cofounders"></a> 
+		<a href="#" id="tab-send" class="off"></a>
+		<a href="/browse" id="tab-browse" class="off" title="Browse startup ideas"></a> 
+		<a href="/cofounders" id="tab-cofounders" class="off"></a> 
 	</div>
 	<div id="container">
 		<div id="right_col">
-	<img alt="" style="padding-top:10px" src="img/layout/zarovka.png">	
+	<img alt="" style="padding-top:10px" src="/img/layout/zarovka.png">	
 		</div>
 		<div id="ideasbox">
 			<div id="orangebox">
@@ -155,14 +193,14 @@
 <img id="BrowseAllHourGlass" class="hourglass" src="/img/layout/ajax-loader-light.gif" alt="Please wait"> 
 				<h3 style="margin-top:20px;">
 				<img src="/img/layout/h2-popular-topics.png" alt="Startup ideas topics"></h3>
-				<a href="/startup-ideas-about/app">app</a>, <a href="/startup-ideas-about/online">online</a>, <a href="/startup-ideas-about/mobile">mobile</a>, <a href="/startup-ideas-about/website">website</a>, <a href="/startup-ideas-about/internet">internet</a>, <a href="/startup-ideas-about/service">service</a>, <a href="/startup-ideas-about/home">home</a>, <a href="/startup-ideas-about/phone">phone</a>, <a href="/startup-ideas-about/city">city</a>, <a href="/startup-ideas-about/traveling">traveling</a>, <a href="/startup-ideas-about/facebook">Facebook</a>, <a href="/startup-ideas-about/shopping">shopping</a>, <a href="/startup-ideas-about/search">search</a>, <a href="/startup-ideas-about/social">social</a>, <a href="/startup-ideas-about/cleaning">cleaning</a>	
+				<a href="/startup-ideas-about/online-ideas">online ideas</a>, <a href="/startup-ideas-about/mobile-ideas">mobile ideas</a>, <a href="/startup-ideas-about/app">app</a>, <a href="/startup-ideas-about/internet">internet</a>, <a href="/startup-ideas-about/service-ideas">service ideas</a>, <a href="/startup-ideas-about/home">home</a>, <a href="/startup-ideas-about/phone">phone</a>, <a href="/startup-ideas-about/social">social</a>, <a href="/startup-ideas-about/city">city</a>, <a href="/startup-ideas-about/facebook">Facebook</a>, <a href="/startup-ideas-about/shopping">shopping</a>, <a href="/startup-ideas-about/traveling">traveling</a>, <a href="/startup-ideas-about/search">search</a>, <a href="/startup-ideas-about/"></a>, <a href="/startup-ideas-about/language">language</a>	
 				<p>
 <a class="PurpleButton PBNormal" href="/topics" target="_self" style="">Show all topics</a>
 
 <img id="BrowseAllHourGlass" class="hourglass" src="/img/layout/ajax-loader-light.gif" alt="Please wait"></p> 
 				<h3 style="margin-top:20px;margin-bottom:5px"><img src="/img/layout/h2-search-ideas.png" alt="Search startup ideas"></h3>
 				<form id="SearchForm" name="SearchForm" action=""><p><input id="q" name="q" type="text" class="pole" style="width:250px"> 
-<input type="button" class="PurpleButton  PBNormal" style="" id="ButtonSearch" name="ButtonSearch" value="Search">
+<input type="button" class="PurpleButton  PBNormal" style="" id="ButtonSearch" name="ButtonSearch" value="Search ideas">
 
 <img id="ButtonSearchHourGlass" class="hourglass" src="/img/layout/ajax-loader-light.gif" alt="Please wait"></p>				</form>
 				</div>
@@ -284,20 +322,22 @@ through your Web browser. These cookies do not collect personal information.</p>
 	&nbsp;</p>
 
 			</div>
-		<div id="footer">
-			<p style="margin-top:10px; float:right">©&nbsp;2011, created by <a target="_blank" href="http://www.maintop.biz"><img alt="Maintop Businesses" src="http://www.maintop.biz/maintop-biz-small-light.png" style="vertical-align: middle; margin-right:0px"></a></p>		
-		<b>
-	
-			<a href="http://www.ideaswatch.com" title="IdeasWatch: Startup ideas from the crowd">Home (share idea)</a> |			
-			<a href="/browse">Browse ideas</a> | 
-			<a href="/cofounders">Cofounders</a></b><br>
-			
-			<a href="/about">About</a> |
+		<div id="footer">					
+			<p style="margin-top:0px; float:right; text-align: right">	<a href="/signin">Log in</a> | <a href="/about">About</a> |
 			<a href="/media">Media</a> |
-			<a href="/startup-inspiration-report">Startup inspiration report</a> |
+			<a href="/irc">IRC </a> |
 			<a href="/privacy-policy">Privacy</a> | 
 			<a href="/terms-of-service">Terms</a> |
-			<a href="/how-to">Help</a> <br>
+			<a href="/how-to">Help</a>
+<br><br>©&nbsp;2012, Powered by
+			<a href="http://www.crowdgene.com" target="_blank">
+			<img alt="Crowdgene: Pre-build crowdsourcing platform" src="http://www.crowdgene.com/crowdgene.png" style="vertical-align: middle; margin-right:0px"></a></p>		
+		<b>
+	
+			<a href="http://www.ideaswatch.com" title="IdeasWatch: Startup ideas from the crowd">Share startup idea</a> |			
+			<a href="/browse">Browse new business ideas</a> | 
+			<a href="/cofounders">Cofounders</a></b>
+<br>
 
 <div id="FacebookPage"><p>
 	</p><p>
