@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the treatsmagazine.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122148id_/http%3A//treatsmagazine.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treatsmagazine.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628035233id_/http%3A//treatsmagazine.com/home/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Treats! Magazine
+# PRIVACY POLICY - Treats! Magazine | Treats! Magazine
 
 We are emphatically dedicated to protecting your privacy. We will not distribute, share or sell your name or personal information to any third party. Any information you provide to us will be held in the strictest of confidence. We use the information only in the following ways: 
 
