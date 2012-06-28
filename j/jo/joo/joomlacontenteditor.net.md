@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlacontenteditor.net privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628002410id_/http%3A//www.joomlacontenteditor.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlacontenteditor.net privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628041433id_/http%3A//www.joomlacontenteditor.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,10 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 
 We may collect, store and use the following kinds of personal information:
 
-  1. information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation;
-  2. information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including your name, company name, personal and business address and contact numbers but excluding any financial information such as credit card numbers.)
-  3. information that you provide to us for the purpose of registering with us (including your name, username and e-mail address)
-  4. information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including your name, username and e-mail address)
-  5. any other information that you choose to send to us
+  1. information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including your name, company name, personal and business address and contact numbers but excluding any financial information such as credit card numbers.)
+  2. information that you provide to us for the purpose of registering with us (including your name, username and e-mail address)
+  3. information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including your name, username and e-mail address)
+  4. any other information that you choose to send to us
 
 
 
@@ -20,11 +19,17 @@ We may collect, store and use the following kinds of personal information:
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
+We use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit, eg: if you have checked the Remember Me box when logging in.
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: [**http://www.google.com/privacypolicy.html**.](http://www.google.com/privacypolicy.html.)
+The following cookies may be set on visiting this site : 
+
+  * As a guest or when you logout a blank "session" cookie wil be set by the Content Management System that runs the site. This cookie contains no information about you or your browser. This cookie is removed when you close your browser.
+  * When you login a "session" cookie is set to record your login session. This cookie is removed when you logout or close your browser.
+  * When you login and check the "Remember Me" box a "persistent" cookie is set to keep you logged in when you leave the site or close your browser. This cookie is removed when you logout or when it expires.
+
+
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
@@ -50,7 +55,7 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services provider, 2Checkout.com. You can review the 2Checkout.com privacy policy at [**http://www.2checkout.com/documentation/privacy.html**.](http://www.2checkout.com/documentation/privacy.html.) We will share information with 2Checkout.com only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
+All our website financial transactions are handled through our payment services providers, 2Checkout.com and Paypal. You can review the 2Checkout.com privacy policy at [**http://www.2checkout.com/documentation/privacy.html**.](http://www.2checkout.com/documentation/privacy.html.) and the Paypal Privacy Policy at **<https://www.paypal.com/us/cgi-bin/marketingweb?cmd=p/gen/ua/policy_privacy-outside>.** We will share information with 2Checkout.com and Paypal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
 **(4) Disclosures**
 
