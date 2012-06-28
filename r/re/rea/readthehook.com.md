@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readthehook.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203083108id_/http%3A//www.readthehook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readthehook.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628121715id_/http%3A//www.readthehook.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Hook - Charlottesville's weekly newspaper, news magazine
 
@@ -16,6 +16,6 @@ Information we gather will not be sold, lent, rented, or otherwise shown to adve
 
 The Hook does not knowingly collect information from children under the age of 13, although we have no way of knowing if a child is posing as an adult. We ask for parents to fill in any online contests or registrations aimed at children.
 
-We typically allow user comments and ask users for their name and their email address in case a comment is questioned or challenged. The comments are not verified or necessarily supported by the journalists at the Hook, but the discussions may be moderated.
+We typically allow user comments and ask users for their name and their email address in case a comment is questioned or challenged, or in case a reporter wishes to inquire for more information. The comments are not verified or necessarily supported by the journalists at the Hook, but the discussions may be moderated.
 
 For questions or comments, contact the editor, Hawes Spencer, [editor@readthehook.com](mailto:editor@readthehook.com).
