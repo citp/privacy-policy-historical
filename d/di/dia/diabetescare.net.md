@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetescare.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125231052id_/http%3A//www.diabetescare.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetescare.net privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628024701id_/http%3A//www.diabetescare.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - DiabetesCare.Net
 
