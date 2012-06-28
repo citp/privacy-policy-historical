@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011022244id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628215441id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-MoneyMakingMommy.com's Privacy Policy
+MoneyMakingMommy.com's Privacy PolicyThis is the web site of MoneyMakingMommy.com, Inc.
 
-This is the web site of  **MoneyMakingMommy.com, Inc**.
-
-Our postal address is  
+Our postal address is:  
 **PO Box 2128**  
-**Weaverville, NC 28787**
-
-We can be reached via e-mail at: [Contact Form](https://web.archive.org/contact.htm)  
-or you can reach us by telephone at 800-836-5675
+**Weaverville, NC 28787**  
+We can be reached via e-mail at: [Contact Form](http://www.formstack.com/forms/moneymakingmommy-contact_form)  
+or you can reach us by telephone toll free at  (800) 836 5675
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -22,6 +19,8 @@ The information we collect is not shared with other organizations other than our
 With respect to cookies:  **We** do not set any cookies.
 
 However, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org
 
 If you do not want to receive e-mail from us in the future, please let us know by calling us at the above telephone number, or by simply clicking the “unsubscribe” link provided at the bottom of all of our mailings.
 
@@ -43,10 +42,16 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may [contact us](http://www.moneymakingmommy.com/contact-us/ "contact us") at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
 By visiting MoneyMakingMommy.com, it’s understood that your have read both our [disclaimer](http://www.moneymakingmommy.com/disclaimer/ "disclaimer") and our privacy policy. Thank you.
 
 ADDITIONAL INFORMATION
 
-We provide a [full disclaimer](http://www.moneymakingmommy.com/disclaimer/ "DISCLAIMER") as well.
+We provide a [full disclaimer](https://web.archive.org/disclaimer/ "DISCLAIMER") as well.
+
+* |   
+---|---  
+ 
+
+[ ](https://plus.google.com/106044383169010664855)
