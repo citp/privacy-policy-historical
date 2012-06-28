@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223001326id_/http%3A//www.smartrecruiters.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629010002id_/http%3A//www.smartrecruiters.com/static/privacy-policy) for the most accurate reproduction.*
 
-# SmartRecruiters - Free recruiting software - Privacy Policy | SmartRecruiters
+# Privacy Policy | SmartRecruiters Recruiting Software
 
 ## Our Privacy Policy describes how we treat personal information (applicant and user related) while usage of SmartRecruiters Applicant Tracking System (ATS), including information provided.
 
