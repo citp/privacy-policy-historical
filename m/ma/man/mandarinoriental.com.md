@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandarinoriental.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227235713id_/http%3A//www.mandarinoriental.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandarinoriental.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628203323id_/http%3A//www.mandarinoriental.com/privacy_policy) for the most accurate reproduction.*
 
 # Mandarin Oriental Hotel Group - Privacy Policy
 
