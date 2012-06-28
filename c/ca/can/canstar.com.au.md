@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121115836id_/http%3A//canstar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628103605id_/http%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CANSTAR CANNEX
+# Privacy Policy - CANSTAR
 
 **Version: 22 July 2009**
 
