@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmandia.org.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204032445id_/http%3A//www.gourmandia.org.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmandia.org.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628085103id_/http%3A//www.gourmandia.org.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # Gourmet Recipe videos from Michelin Ranked Epicurean Chefs- Gourmandia
 
@@ -19,6 +19,8 @@ Similarly, when you register to receive services on Gourmandia.com, we require t
 **Anonymous Information.** Gourmandia.com may also gather anonymous information, which may be used by Gourmandia.com or shared with third parties. This is information which does not personally identify you, but which may be helpful for marketing purposes or for improving the services we offer. Generally this information is collected through "traffic data" and may entail the use of "cookies," "IP addresses," or other numeric codes used to identify a computer. 
 
 **Cookies.** Gourmandia.com employs cookies to recognize you and your access privileges on the Web site, as well as to track site usage. Subscribers who do not accept cookies from the domain (e.g. "Gourmandia.com") cannot access most areas of Gourmandia.com's Web site. 
+
+This website may use other third party cookies such as but not limited to those set by AOL within the Creatives ( the "AOL Cookies"). For more information about the use of cookies, please refer to [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 **IP Addresses.** Gourmandia.com also logs IP addresses for systems administration and troubleshooting purposes. (Your IP address indicates the location of your computer on the Internet). We do not log IP addresses to track your session. 
 
