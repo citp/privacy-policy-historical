@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justgiving.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020816id_/http%3A//www.justgiving.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justgiving.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628053224id_/http%3A//www.justgiving.com/info/privacy) for the most accurate reproduction.*
 
 # JustGiving’s privacy policy - JustGiving
 
@@ -20,7 +20,7 @@ When you create a secure personal account on JG for the purpose of creating a Ju
   3. **The information we collect from you when you donate**  
 When you make a donation on JustGiving, we collect: your first and last name; your email address; your declaration of tax status; your credit or debit card details (including card type, card number and expiry date); and your billing address. 
     * **Your name.**  
-If you do not want your name to be publicly associated with your donation, please enter your name as “Anonymous” when filling out the donation. Your name then will not appear on the fundraiser’s JustGiving page, nor will it appear in any online search results. Your name will always be passed on to the fundraiser but, if you have made an anonymous donation, your name will only appear in their secure account area.
+If you do not want your name to be publicly associated with your donation, please enter your name as "Anonymous" when filling out the donation. Your name then will not appear on the fundraiser’s JustGiving page, nor will it appear in any online search results. Your name will always be passed on to the fundraiser but, if you have made an anonymous donation, your name will only appear in their secure account area.
     * **Your email address.**  
 We need your email address so we can confirm your donation or let you know if there’s been a problem. However, we never share your email address with any other party unless you explicitly say so. If you’d like, we can pass your email address on to your fundraiser friend and/or to the member charity you’re donating to so they can thank you and keep you updated. We will not do this unless you expressly ask us to do so. If your donation is to a non member charity, we will not pass your email address to them unless they have accepted your donation and entered into an agreement with us. That’s it.
     * **Payment details.**  
