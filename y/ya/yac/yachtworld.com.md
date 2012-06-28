@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122041650id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628064902id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - YachtWorld.com
 
@@ -63,10 +63,24 @@ If you have any questions about this privacy statement, please contact [policies
 > We may disclose personal information about our Site Visitors when legally required to do so, at the request of governmental authorities, or to verify or enforce compliance with the policies governing the Web site and applicable laws. We may also disclose Site Visitors' personal information where we believe disclosure is necessary to limit our legal liability or to protect the safety or enforce the rights of our Site Visitors.
 > 
 > We may sell, transfer or otherwise disclose Site Visitors' information in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change.
+> 
+> Additionally, we may share personally identifiable information with unaffiliated third parties to whom you explicitly ask us to send your information. If you prefer not to be contacted by any such Business Provider or other third party with whom we share your personally identifiable information, you may follow the "unsubscribe" instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with Business Providers and other third parties by following the instructions on our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
+> 
+> ## Third Party Promotions:
+> 
+> We may send offers to selected groups of customers on behalf of unaffiliated businesses that want to market their products or services to you, and as part of these promotional offers we may sell or disclose certain of your personally identifiable information to such unaffiliated businesses. If you prefer not to be contacted by any such business with whom we share your personally identifiable information, you may follow the "unsubscribe" instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with such businesses by following the instructions on our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
+> 
+> ## In-House Promotions:
+> 
+> We may on occasion combine information we receive online with outside records to enhance our ability to market our products and services that may be of interest to you. If you have signed up to receive our e-mails and prefer not to receive marketing information from our Website, please follow the "unsubscribe" instructions provided on any marketing e-mail you receive from our Website or by following the instructions in our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
 
 ### Partners:
 
-Some of our partners offer services on the Web site. To provide services, our partners collect personal information from Site Visitors. We exercise great care in choosing our partners but we neither control nor are we responsible for our partners' information collection practices. Site Visitors should view our partner's privacy statement to make an informed decision whether to provide personal information. 
+Some of our partners offer services on the Web site. To provide services, our partners collect personal information from Site Visitors. We exercise great care in choosing our partners but we neither control nor are we responsible for our partners' information collection practices. Site Visitors should view our partner's privacy statement to make an informed decision whether to provide personal information.
+
+### Third Party Online Advertising:
+
+We use third-party advertising companies to provide advertisements to you when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to show you advertisements tailored to your interests on this and other websites and other interactive media and/or to keep track of your response to each ad. For more information on this practice, or to opt out of having this information used by these companies, please visit the Network Advertising Initiative here: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ### Correcting/Updating Personal Information:
 
@@ -90,4 +104,5 @@ It is the Site Visitors responsibility to follow our privacy link, so Site Visit
 
 ### Copyright:
 
-Copyright ©2006 Dominion Enterprises. All rights reserved. 
+Copyright ©2012 Dominion Enterprises. All rights reserved.  
+Revised April 2012
