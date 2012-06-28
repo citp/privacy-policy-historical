@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623051242id_/http%3A//www.iap-interactive.com/PrivacyPolicy/tabid/147/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628065558id_/http%3A//www.iap-interactive.com/PrivacyPolicy/tabid/147/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Untitled Document
 
 ## How we use your information
 
@@ -24,7 +26,11 @@ Ipsos Interactive Services Limited, commonly known as IIS, is a company register
 
 ## 1\. What information do we collect about you?
 
-We collect the information you provide by email and in completing our recruitment questionnaire when you decide to join our panel. We also collect information when you voluntarily complete any of the surveys we invite you to participate in, or you provide feedback, comments or other information on our panel members website.
+We collect the information you provide by email and in completing our recruitment questionnaire when you decide to join our panel.
+
+We collect your Facebook basic profile information (meaning your name, e-mail address, gender, birthday and location) that you have consented to our using when you connect to, and use the Ipsos Access Panels Facebook Applications within your Facebook account.
+
+We also collect information when you voluntarily complete any of the surveys we invite you to participate in, or you provide feedback, comments or other information on our panel members’ website.
 
 ## 2\. How will we use the information you provide?
 
@@ -52,9 +58,9 @@ Or by letter sent to:
 
 > IAP Panel Support Team   
 >  Ipsos Interactive Services Ltd   
->  Kings House   
->  Kymberely Road   
->  Harrow HA1 1PT   
+>  79-81 Borough Road   
+>  London  
+>  SE1 1FY   
 >  UK 
 
 ## 3\. Children
@@ -95,9 +101,9 @@ Or by letter sent to:
 
 > Data Protection Department,   
 >  Ipsos Interactive Services Ltd   
->  Kings House,   
->  Kymberly Road,   
->  Harrow HA1 1PT   
+>  79-81 Borough Road   
+>  London  
+>  SE1 1FY   
 >  UK 
 
 Please quote the name of the panel and your panel membership number (if known) in your email or letter.
@@ -118,9 +124,9 @@ Or by letter sent to:
 
 > IAP Panel Support Team   
 >  Ipsos Interactive Services Ltd   
->  Kings House   
->  Kymberely Road   
->  Harrow HA1 1PT   
+>  79-81 Borough Road   
+>  London  
+>  SE1 1FY   
 >  UK 
 
 If you have any questions or require further information our privacy policy, our compliance with data protection laws or information we hold about you, please contact our Data Protection Department. They can be contacted:
@@ -131,9 +137,9 @@ Or write to us at:
 
 > Data Protection Department,   
 >  Ipsos Interactive Services Ltd   
->  Kings House,   
->  Kymberly Road,   
->  Harrow HA1 1PT   
+>  79-81 Borough Road   
+>  London  
+>  SE1 1FY   
 >  UK 
 
 Please quote the name of the panel and your panel membership number (if known) in your email or letter.
