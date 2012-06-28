@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akvis.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121121100id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akvis.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628191307id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.*
 
-# Image editing and photo restoration software by AKVIS. Privacy Policy
+# Image Editing Software By AKVIS: Privacy Policy
 
 [Open as PDF](https://web.archive.org/AKVIS_Privacy_Policy.pdf). 
 
