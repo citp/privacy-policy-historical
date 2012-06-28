@@ -1,53 +1,61 @@
-> *The following text is extracted and transformed from the lazytechguys.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625103509id_/http%3A//www.lazytechguys.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazytechguys.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628110912id_/http%3A//www.lazytechguys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lazy Tech Guys
+# Privacy Policy - Lazy Tech Guys
 
-**What information do we collect?**  
-We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.  When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. Advertising components from third party vendors, uses cookies to serve ads on your site. These cookies enable it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _privacy at lazytechguys dot com._
 
-**What do we use your information for?  
-**Any of the information we collect from you may be used in one of the following ways:
+At lazytechguys.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by lazytechguys.com and how we use it.
 
-  * To personalize your experience  \- your information helps us to better respond to your individual needs
-  * To improve our website  \- we continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To improve customer service – your information helps us to more effectively respond to your customer service requests and support needs
-  * To process transactions such as free giveaways, services and contributions
-  * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails 
-    * The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+**Log Files**  
+Like many other Web sites, lazytechguys.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+**Cookies and Web Beacons**  
+lazytechguys.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+
+**DoubleClick DART Cookie  
+**→ Google, as a third party vendor, uses cookies to serve ads on lazytechguys.com.
+
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to lazytechguys.com and other sites on the Internet.
+
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+**Our Advertising Partners  
+**Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
+
+  * Commission Junction
+  * Amazon
+  * Adbrite
+  * Kontera
+  * Ebay
+  * ValueClickMedia
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
-**How do we protect your information?**  
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
+You may consult this listing to find the privacy policy for each of the advertising partners of lazytechguys.com.
 
-**Do we use cookies?**  
-Yes.  Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on lazytechguys.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+lazytechguys.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**Third party links**  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Third Party Privacy Policies  
+**You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. lazytechguys.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-**Childrens Online Privacy Protection Act Compliance**  
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-**Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. Lazytechguys.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that lazytechguys.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-**Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+**Online Privacy Policy Only  
+**This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.
 
-**Your Consent**  
-By using our site, you consent to our online privacy policy.
+This policy does not apply to any information collected offline or via channels other than this website.
 
-**Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.  
-This policy was last modified on 3/16/2011
+**Consent  
+**By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the using [our online form](http://www.lazytechguys.com/about-us/contact-us/).
+**Update**  
+This Privacy Policy was last updated on: Monday, February 6th, 2012.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
