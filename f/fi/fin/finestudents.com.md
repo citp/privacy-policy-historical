@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finestudents.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228184130id_/http%3A//www.finestudents.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finestudents.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628143726id_/http%3A//www.finestudents.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to FineStudents.com
 
