@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209085340id_/http%3A//timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628144947id_/http%3A//timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
@@ -22,10 +22,8 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 
 
-We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement "click-throughs", and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personal identifiable information is collected by or transferred to any party other than the advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://www.valueclickmedia.com/member_privacy.shtml>
-
 ## Contacting the Website
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact: 
 
-Time and Date AS PO Box 27 Forus NO-4064 Stavanger Norway [webmaster@time ****anddate.com](https://web.archive.org/common/mailto.cgi?webmaster=timeanddate.com) Fax: +47 5163 2711
+Time and Date AS PO Box 27 Forus NO-4064 Stavanger Norway [webmaster@timeanddate.com](https://web.archive.org/common/mailto.cgi?webmaster=timeanddate.com) Fax: +47 5163 2711
