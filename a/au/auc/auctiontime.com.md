@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the auctiontime.com privacy policy that was archived on 2011-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110816232210id_/http%3A//www.auctiontime.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctiontime.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628044631id_/http%3A//www.auctiontime.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Sandhills Publishing Privacy Policy at AuctionTime.com
 
+|   
 ---  
   
 
@@ -21,7 +22,6 @@ Sandhills Publishing understands the concerns people have about privacy and safe
 4. | When people purchase issues or subscriptions at our site, it's important that the information they enter is secure. That's why we use SSL encryption and digital certificates to verify transactions.   
 5. | Sandhills Publishing uses a secure firewall to keep out unauthorized users and ensure the integrity of our systems. We are vigilant about protecting our site from unwanted intrusions.  
 6. | Sandhills Publishing does **not** sell, trade, or otherwise release any personal information on our site visitors or subscribers. We respect your desire for privacy and zealously protect any information you give us. Your information is safe with us!  
-7. | We are participants in the BBBOnLine® Reliability Program. Our company has been in business since 1978, and we have always strived to provide the best customer service available.  
   
 If you have any questions at all about our Privacy Policy or our Web site, [ **please send us a message**](mailto:feedback@sandhills.com). Thank you for visiting our site.
 
