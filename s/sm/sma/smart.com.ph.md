@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smart.com.ph privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224211445id_/http%3A//smart.com.ph/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smart.com.ph privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628112108id_/http%3A//smart.com.ph/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smart Communications
-
-[Home](https://web.archive.org/corporate/ "Home") › Privacy Policy
 
 The policies below are applicable to the Web site and affiliate sites of Smart Communications, Inc. (SMART) found at www.smart.com.ph . Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Web site. They do not apply to information that you may submit to us offline or to Web sites maintained by other companies or organizations to which we may link or may have link through us. 
 
@@ -25,11 +23,3 @@ The Web site is published in the Republic of the Philippines and is subject to l
 SMART may change this Privacy Policy to reflect, among others, changes in the way we collect visitor information.
 
 Questions and comments should be directed to this email address. Last updated: January 21, 2009 
-
-### Brands
-
-See which Smart product is for you!
-
-### Rewards
-
-Collect Your Rewards [](http://rewards.smart.net.ph/)
