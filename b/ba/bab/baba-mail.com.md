@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the baba-mail.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013120903id_/http%3A//baba-mail.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baba-mail.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628095821id_/http%3A//baba-mail.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
-
-[](https://web.archive.org/)
-
-### Privacy policy
 
 This document contains information regarding Baba-Mail privacy policy and it is brought to you inorder to make you feel confident that the service you are getting is absolutly safe. please take a minute of your time to read through this statement to make sure that you agree with our policy. by using Baba-Mail you agree to the use of the information given by you (as will be defined bellow) as stated in our privacy policy and terms of use.
 
@@ -57,4 +53,4 @@ Baba-Mail is permitted to update its privacy policy, from time to time. when suc
 
 If you believe that Baba-Mail has failed to follow these terms in regards to your personal details or if you have any other questions or concerns regarding this issue, please fill free to contact us at support@baba-mail.com.
 
-Close
+Close window
