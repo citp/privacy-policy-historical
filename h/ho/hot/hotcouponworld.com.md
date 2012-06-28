@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotcouponworld.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106042336id_/http%3A//www.hotcouponworld.com/community-rules/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcouponworld.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629002512id_/http%3A//www.hotcouponworld.com/community-rules/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - HotCouponWorld.com
+# Privacy Statement | HotCouponWorld.comHotCouponWorld.com
 
 **Privacy Protection at Hotcouponworld**
 
@@ -26,6 +26,5 @@ Use of this Service is subject to the CG User Agreement located at:
 
 For questions or concerns relating to privacy, please contact us through [www.hotcouponworld.com](http://www.hotcouponworld.com/) by using the following contact email address: [hotcouponmama@hotcouponworld.com](mailto:hotcouponmama@hotcouponworld.com)
 
-**Effective Date:** This Privacy Policy was last updated on September 18, 2010
+**Effective Date:** This Privacy Policy was last updated on September 18, 2010  
 
-Printable Version
