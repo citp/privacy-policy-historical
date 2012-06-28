@@ -1,43 +1,107 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154833id_/http%3A//www.rocklandtrust.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628202458id_/http%3A//www.rocklandtrust.com/Planning-Tools-And-Resources/Security-Center/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Rockland Trust
+# Rockland Trust
 
-This page includes Rockland Trust's Privacy Notice, Website Privacy Statement, and Privacy Frequently Asked Questions.
+**For a printed copy of this Privacy Notice, please**[ **click here >>**](https://web.archive.org/uploadDocs/1/2011_-PrivacyNotice.pdf) ****
 
-### Privacy Notice
+**     FACTS**
 
-**Rockland Trust - Guardian Of Your Privacy**  
-Rockland Trust Company is devoted to protecting your privacy. We have prepared this notice to outline the measures we take to protect your privacy.
+|  | **      WHAT DOES ROCKLAND TRUST DO WITH YOUR PERSONAL INFORMATION?**  
+---|---|---  
+**  
+Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
+---|---  
+**  
+What?** | 
 
-**The Information We Have About You**  
-In the normal course of business we receive information about you ("Your Information"), some of which may not be publicly available. Your Information may include:
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-  * Your name and address, Social Security number, and information about your job, income, other debt, credit references, and other information which we receive from you on applications, forms, in person, by telephone, electronically, or by other means; 
-  * Information about your transactions, including information about your account balances with us and other institutions, payment history, and account usage; 
-  * Information we receive from consumer reporting agencies, including information about your creditworthiness; and 
-  * Information from public sources, such as real estate records and telephone numbers. 
+  * Social Security 
+  * Payment history 
+  * Income 
+  * Credit history 
+  * Acount balances 
+  * Credit scores
+
+  
+When you are no longer our customer, we continue to share your information as described in this notice.   
+---|---  
+**  
+How?** | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Rockland Trust chooses to share; and whether you can limit this sharing.   
+---|---  
+**Reasons we can share your personal information** | **Does Rockland Trust Share?** | **Can you limit this sharing?**  
+---|---|---  
+**For our everyday business purposes -  
+** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | **Yes** | **NO**  
+**For our marketing purposes -  
+** to offer our products and services to you | **Yes** | **No**  
+**For joint marketing with other financial companies** | **Yes** | **No**  
+**For our affiliates' everyday business purposes -  
+** information about your transactions and experiences | **No** | **We don't share**  
+**For our affiliates' everyday business purposes -  
+** information about your creditworthiness | **No** | **We don't share**  
+**For our nonaffiliates to market to you** | **No** | **We don't share**  
+**Who We Are**  
+---  
+**Who is providing this notice?** | Rockland Trust means Rockland Trust Company.   
+**What We Do**  
+---  
+**How does Rockland Trust  
+protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. 
+
+We will maintain other physical, electronic, and procedural safeguards to protect this information and we limit access to information to those employees for whom access is appropriate.   
+  
+**How does Rockland Trust  
+collect my personal information?** | 
+
+We collect your personal information, for example, when you
+
+  * Open an account 
+  * Make deposit or withdrawals from your account 
+  * Apply for a loan 
+  * Use your credit or debit card 
+  * Provide account information
 
 
 
-**Your Information**  
-We use Your Information to protect you by, for example, confirming your identity at the time of a transaction. We may also use Your Information to serve you better by identifying products or services that may be of interest to you. As a consequence, we may disclose all of your information, as described in the previous section, to service providers in order to complete transactions that have been authorized by you, that perform marketing services on our behalf, or to other financial institutions with whom we have joint marketing agreements. 
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
+  
+**Why can't I limit all sharing?** | Federal law gives you the right to limit only 
 
-We may also share Your Information with our corporate affiliates in order to advise you about their services. Federal law gives you the right to limit marketing from Rockland Trust and/or its affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from Rockland Trust and/or its affiliates. You may limit Rockland Trust Affiliates from marketing their services to you based on your personal information that they receive from Rockland Trust Company. This information may include your income, your account history, and your credit score. You may similarly limit marketing to you from Rockland Trust Company that is based on your personal information that is received from Rockland Trust Affiliates. Your choice to limit marketing offers from Rockland Trust Company and/or its affiliates will apply until you tell us to change your choice. If you have already made a choice to limit marketing offers from Rockland Trust Company and/or its affiliates you do not need to act again unless you wish to alter that choice. 
-
-To limit marketing offers, contact us:  
-By telephone: 800.222.2299  
-By mail: Rockland Trust  
-Attn: Marketing Dept.  
-288 Union Street  
-Rockland, MA 02370  
+  * sharing for affiliates' everyday business purposes-information about your creditworthiness 
+  * affiliates from using your information to market to you 
+  * sharing for nonaffiliates to market to you
 
 
-We do not otherwise disclose your information, or nonpublic information about our former customers, to anyone, except as required or permitted by law, such as when responding to a subpoena or other court order, complying with regulatory requests, or providing information to consumer reporting agencies. 
 
-**Protect Your Privacy**  
-We restrict access to Your Information to only those employees who need it to provide products or services to you. All of our employees must adhere to strict policies designed to prevent any misuse of Your Information. We maintain physical, electronic, and procedural safeguards to guard Your Information.
+State laws and individual companies may give you additional rights to limit sharing.   
+See below for more on your rights under state law.   
+  
+**Definitions**  
+---  
+**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-### Website Privacy
+  * _Rockland Trust does not share with our affiliates._
+
+  
+**Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
+
+  * _Rockland Trust does not share with nonaffiliates so they can market to you._
+
+  
+**Joint Marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+
+  * __Our_ joint marketing partners include Credit card companies. _
+
+  
+  
+**Other Important Information**  
+---  
+For Massachusetts, Mississippi and New Jersey Customers. We will not share personal information from deposit or share relationships with nonaffiliates either for them to market to you or for joint marketing - without your authorization.   
+  
+### 
+
+ Website Privacy
 
 We invite you to review this statement so you'll know exactly how we handle any information we learn about you as a result of your visit to our Web site:
 
@@ -46,7 +110,9 @@ We invite you to review this statement so you'll know exactly how we handle any 
 
 
 
-We thank you for visiting our Web site and assure you we are committed to protecting your privacy.
+We thank you for visiting our Web site and assure you we are committed to protecting your privacy. 
+
+ 
 
 ### Rockland Trust Company's Statement of Compliance with Federal and State Laws and Regulations Regarding Protection of Non-Public Personal Information 
 
@@ -54,23 +120,59 @@ Rockland Trust is required by law to protect customers' non-public personal info
 
 Any private information given us is kept confidential. We collect only the information required to provide the information, services, and/or products that our customers request. Only our employees and vendors that have an actual need to access this information to fulfill their required duties have access to this information. Access to customers' personal information is restricted and safeguarded by physical, electronic, and procedural policies and controls. 
 
-Rockland Trust has a comprehensive Written Information Security Program in place that addresses all applicable federal and state laws and regulations. We are required to review our Information Security Program at least annually, and revise it in light of new products or services, any discovered or anticipated weaknesses, or new technology that becomes available. Our Board of Directors reviews and approves the Information Security Program annually. The Information Security Program, in conjunction with our technology and security policies, standards, and guidelines, not only describes the procedures, electronic, and physical controls we require, but also addresses the responsibility of our employees and imposes disciplinary action for any security or bank policy violation. Mandatory annual security awareness training is in place for all employees. A vendor management program is in place for the evaluation of third-party service providers. Rockland Trust's internal auditors regularly evaluate the effectiveness of internal controls and procedures regarding our Information Security Program. Further, independent auditors and bank examiners regularly examine and review our compliance with applicable laws, including those regarding the protection of non-public personal information on an ongoing basis. 
+Rockland Trust has a comprehensive Written Information Security Program in place that addresses all applicable federal and state laws and regulations. We are required to review our Information Security Program at least annually, and revise it in light of new products or services, any discovered or anticipated weaknesses, or new technology that becomes available. Our Board of Directors reviews and approves the Information Security Program annually. The Information Security Program, in conjunction with our technology and security policies, standards, and guidelines, not only describes the procedures, electronic, and physical controls we require, but also addresses the responsibility of our employees and imposes disciplinary action for any security or bank policy violation. Mandatory annual security awareness training is in place for all employees. A vendor management program is in place for the evaluation of third-party service providers. Rockland Trust's internal auditors regularly evaluate the effectiveness of internal controls and procedures regarding our Information Security Program. Further, independent auditors and bank examiners regularly examine and review our compliance with applicable laws, including those regarding the protection of non-public personal information on an ongoing basis. 
 
-### Privacy: Frequently Asked Questions
+### 
 
-These questions and answers are designed to prepare our employees to answer questions regarding our Privacy Notice and to otherwise assist customers who express privacy concerns.
+### Consumer 
 
-**Why am I suddenly receiving privacy notices from many different sources?**  
-A new Federal law requires that all financial institutions provide detailed annual disclosures to their customers describing their policies for collecting and disclosing non-public customer information on an annual basis.
+Protection under the Electronic Funds Transfer Act 
+
+Regulation E, which implements the Electronic Fund Transfer Act, provides consumers with certain protections when errors occur that involve electronic fund transfers (EFT). If you notify Rockland Trust that an error involving an EFT has occurred, Rockland Trust must investigate and resolve the claim within specified deadlines. An "EFT" includes any transfer of funds that is initiated through an electronic terminal, telephone or computer for the purpose of ordering, instructing or authorizing a withdrawal or deposit transaction on your account.  It includes, but is not limited to, ATM transfers, point-of-sale transfers, direct deposits or withdrawals of funds, telephone transfers, transfers resulting from debit card transactions, and one-time electronic withdrawals when information from a paper check is used to create an electronic withdrawal ("check conversion"). These protections are available for consumers and their consumer bank accounts, including those that may be accessed electronically through online banking. However, these protections are not available to business entities and the business accounts that they maintain. For more information please contact us at 800.222.2299. 
+
+**What is considered an Error?  
+**
+
+* When there was an unauthorized EFT; 
+* An incorrect EFT; 
+* When an EFT is improperly omitted from your statement; 
+* A computational or bookkeeping error regarding an EFT; 
+* When an incorrect withdrawal amount occurs from an ATM; 
+* When Rockland Trust improperly identifies an EFT on a statement; 
+* When a consumer requests documentation that was required to be given on a receipt or statement, or for clarification or additional information other than routine inquires. 
+
+### What is and isn't covered by the Regulation E Error Resolution Requirements  
+
+
+ **Electronic transactions that are covered include:**
+* Unauthorized debit card transactions that appear on a customer's personal account statement. 
+* Withdrawal transactions conducted against a customer's personal account at an ATM, when the machine dispenses an incorrect amount of cash. 
+
+**Transactions that are not covered include:**
+
+* Unauthorized debit card transactions that appear on a customer's business account statement. 
+* Debit card purchases that are authorized but result in a customer's dissatisfaction with the quality of the merchandise that was purchased.   
+
+
+### 
+
+### Privacy
+
+: Frequently Asked Questions 
+
+These questions and answers are designed to prepare our employees to answer questions regarding our Privacy Notice and to otherwise assist customers who express privacy concerns. 
+
+* **Why am I suddenly receiving privacy notices from many different sources?**  
+A new Federal law requires that all financial institutions provide detailed annual disclosures to their customers describing their policies for collecting and disclosing non-public customer information on an annual basis. 
 
 **Why did Rockland Trust Company not give me an opportunity to opt-in or opt-out of information sharing?**  
-Rockland Trust was not required to provide an "opt-out" or an "opt-in" because Rockland Trust currently does not give out customer information to telemarketers or otherwise share customer information in any way prohibited by law. Rockland Trust does not share any information about you with non-affiliated third parties, except as required or permitted by law, to process your transactions, or to provide additional products or services to you.
+Rockland Trust was not required to provide an "opt-out" or an "opt-in" because Rockland Trust currently does not give out customer information to telemarketers or otherwise share customer information in any way prohibited by law. Rockland Trust does not share any information about you with non-affiliated third parties, except as required or permitted by law, to process your transactions, or to provide additional products or services to you. 
 
 **For what customers/accounts do the privacy rules apply?**  
-The rules apply to customers who maintain a deposit account or loan account or safe deposit box for personal, family or household purposes. The rules therefore do not apply to our commercial customers.
+The rules apply to customers who maintain a deposit account or loan account or safe deposit box for personal, family or household purposes. The rules therefore do not apply to our commercial customers. 
 
 **Do you collect and use information on consumers who are not customers, such as non customers using your ATM and loan applicants who do not obtain loans?**  
-We only obtain the information that is necessary to complete the transaction, and retain only the information that we are required by law to retain. We do not make any information available to any third party except to complete or confirm your request transaction or upon request by you.
+We only obtain the information that is necessary to complete the transaction, and retain only the information that we are required by law to retain. We do not make any information available to any third party except to complete or confirm your request transaction or upon request by you. 
 
 **What third party marketing arrangements are currently in place?**  
 We offer securities and insurance products through LPL Financial and its affiliates, members of FINRA and SIPC. We also provide credit cards through our marketing partner FIA. We do not provide account numbers or transaction information to them but do inform them that you are a customer of the bank. 
@@ -79,17 +181,17 @@ We offer securities and insurance products through LPL Financial and its affilia
 The kind of information we collect depends upon your financial needs and the products and services you request. For example, when you apply for a loan or open an account with us, we need information about your financial status - such as your place of employment, income, monthly expenses and personal assets and outstanding debts - to process your requests. In addition, in order to make your banking as convenient and efficient as possible, we maintain information about your transactions with us, your account balance and repayment history. 
 
 **How do you obtain the information?**  
-We collect information from many sources. Much of the information comes directly from you when you complete a loan or account application. For a loan application, we also obtain information from credit bureaus and other creditors regarding your credit and repayment history. We retain communications from you (such as letters or e-mails) in order to handle questions you may have and to keep records of your request or concerns regarding our products and services. We also use your letters or e-mails to measure how effectively we have addressed your concerns. If you use our online banking service, we record your online sessions so that we can process and confirm your transactions and provide you with automatic online reports. We also obtain demographic and household information from outside sources such as database information firms.
+We collect information from many sources. Much of the information comes directly from you when you complete a loan or account application. For a loan application, we also obtain information from credit bureaus and other creditors regarding your credit and repayment history. We retain communications from you (such as letters or e-mails) in order to handle questions you may have and to keep records of your request or concerns regarding our products and services. We also use your letters or e-mails to measure how effectively we have addressed your concerns. If you use our online banking service, we record your online sessions so that we can process and confirm your transactions and provide you with automatic online reports. We also obtain demographic and household information from outside sources such as database information firms. 
 
 **Who has access to customer information?**  
-We have strict internal policies against unauthorized use or disclosure of customer information. Customer information is accessible only to employees who need it to conduct your financial affairs. We emphasize the importance of confidentiality through our Code of Conduct, employee training, and operating procedures. We maintain physical, electronic and procedural safeguards according to established security standards to protect our customers' information.
+We have strict internal policies against unauthorized use or disclosure of customer information. Customer information is accessible only to employees who need it to conduct your financial affairs. We emphasize the importance of confidentiality through our Code of Conduct, employee training, and operating procedures. We maintain physical, electronic and procedural safeguards according to established security standards to protect our customers' information. 
 
 **Why do you need this information?**  
-We maintain information and data about you to maintain the security of your accounts and to protect you and the entire institution against fraud. We need accurate information to be able to positively identify you and authenticate your transactions in order to prevent access to your accounts by unauthorized individuals.
+We maintain information and data about you to maintain the security of your accounts and to protect you and the entire institution against fraud. We need accurate information to be able to positively identify you and authenticate your transactions in order to prevent access to your accounts by unauthorized individuals. 
 
-We also collect and analyze customer information as the first step in offering new products and services. For example, if we know you are a homeowner and may be in need of additional financing, we can recommend a home equity loan or credit line as an alternative to an installment loan because of its potential lower costs and tax benefits.
+We also collect and analyze customer information as the first step in offering new products and services. For example, if we know you are a homeowner and may be in need of additional financing, we can recommend a home equity loan or credit line as an alternative to an installment loan because of its potential lower costs and tax benefits. 
 
-We are also required by laws and regulations to gather certain information. For example, we are required by federal regulation to obtain a tax identification number (generally a Social Security Number) for many of our accounts, including all savings, checking or investment accounts that pay interest.
+We are also required by laws and regulations to gather certain information. For example, we are required by federal regulation to obtain a tax identification number (generally a Social Security Number) for many of our accounts, including all savings, checking or investment accounts that pay interest. 
 
 **What do I do if I see any inaccurate information in my statements?**  
 We work to ensure that your information is current, accurate, and as complete as possible. If you see any inaccuracy in your statements or in any other communications from us, please write to us at:
@@ -98,28 +200,28 @@ Rockland Trust Company
 Attention: Deposit Services,  
 288 Union Street, Rockland, MA 02370; 
 
-or contact our Customer Information Center Representatives at **1-800-222-2299**.
+or contact our Customer Information Center Representatives at **1-800-222-2299**. 
 
 **Are there any regulations allowing disclosure of account information?**  
-Yes. Under current law, we are allowed to share certain information - such as your name, address and information about your accounts within our company. In some cases, such as fraud investigation or in response to a validly issued search warrant or subpoena, we may be required by law to provide certain information to law enforcement agencies. There are also laws and regulations that affect the sharing of information with outside firms such as check printers, data processors and marketing firms acting on behalf of the Bank.
+Yes. Under current law, we are allowed to share certain information - such as your name, address and information about your accounts within our company. In some cases, such as fraud investigation or in response to a validly issued search warrant or subpoena, we may be required by law to provide certain information to law enforcement agencies. There are also laws and regulations that affect the sharing of information with outside firms such as check printers, data processors and marketing firms acting on behalf of the Bank. 
 
 **What about my medical records?**  
-We neither collect nor share medical information.
+We neither collect nor share medical information. 
 
 **Why do you share information with outside third-party companies?**  
-We use third parties to help us process your financial transactions and to provide you with a full range of financial products and services. For example, we use third parties to print your checks, to process your account transactions, to help us market our products and services, and to mail account statements on our behalf. This means more efficient services and helps keep your costs as low as possible. In addition, when you open an account or apply for a credit card, loan or line of credit, we use various credit bureaus as part of the process for approving your application. We may also use outside companies to help us with fraud investigation.
+We use third parties to help us process your financial transactions and to provide you with a full range of financial products and services. For example, we use third parties to print your checks, to process your account transactions, to help us market our products and services, and to mail account statements on our behalf. This means more efficient services and helps keep your costs as low as possible. In addition, when you open an account or apply for a credit card, loan or line of credit, we use various credit bureaus as part of the process for approving your application. We may also use outside companies to help us with fraud investigation. 
 
 **What kind of information do you share with third-party companies?**  
 The information shared depends on the product or service we are providing to you. We may share your name, address, Social Security Number, loan or credit card repayment history, or overdraft history, depending on the situation. We will not share your account number, access codes, Social Security Number, or driver's license number with any third party for purpose of marketing their products or services to you. 
 
 **Will the third parties keep my information confidential?**  
-We will not share information with any company that does not agree to keep your information confidential. We carefully select the third-party companies we work with, and any information that is shared is always subject to strict confidentiality agreement(s). Moreover, it is a violation of federal law for a third party to reuse customer information received from us unless that information is also publicly available elsewhere.
+We will not share information with any company that does not agree to keep your information confidential. We carefully select the third-party companies we work with, and any information that is shared is always subject to strict confidentiality agreement(s). Moreover, it is a violation of federal law for a third party to reuse customer information received from us unless that information is also publicly available elsewhere. 
 
 **Is it possible to prevent information sharing with third parties?**  
-We do not sell, nor rent information to marketers or any third party. We do not share information with third parties such as insurance or investment firms, unless you initiate such a request. By law we would not be able to share your information without giving you the opportunity to "Opt-Out" - that is, you would be directing us not to make such disclosures (other than disclosures permitted by law). However, insofar as we do not share information with such parties, you do not need to take any action with Rockland Trust Company to prevent the sharing of such information.
+We do not sell, nor rent information to marketers or any third party. We do not share information with third parties such as insurance or investment firms, unless you initiate such a request. By law we would not be able to share your information without giving you the opportunity to "Opt-Out" - that is, you would be directing us not to make such disclosures (other than disclosures permitted by law). However, insofar as we do not share information with such parties, you do not need to take any action with Rockland Trust Company to prevent the sharing of such information. 
 
 **How can I reduce direct marketing from other companies?**  
-If you would like to reduce the amount of advertising you receive from companies other than Rockland Trust Company, you may request that the Direct Marketing Association (DMA) delete your name from telephone, mailing and e-mail lists used by their members in marketing products and services to you. Information on these lists is normally obtained from public sources. Your request lasts for five years and includes all versions of your name in which you currently receive information, your address and your telephone number.
+If you would like to reduce the amount of advertising you receive from companies other than Rockland Trust Company, you may request that the Direct Marketing Association (DMA) delete your name from telephone, mailing and e-mail lists used by their members in marketing products and services to you. Information on these lists is normally obtained from public sources. Your request lasts for five years and includes all versions of your name in which you currently receive information, your address and your telephone number. 
 
 To remove your name from many national or direct mail lists write to:  
 DMA Mail Preference Service  
@@ -131,4 +233,4 @@ DMA Telephone Preference Service
 P.O.Box 9014  
 Farmingdale, NY 11735-9014 
 
-For more information visit: [www.the-dma.org](http://www.the-dma.org/ "<h1>You are leaving the Rockland Trust Web Site.</h1><br>Rockland Trust does not control or warrant the content of any external web site. We advise you to explore the security and privacy information of any linked site. ").
+For more information visit: [_www.the-dma.org_](http://www.the-dma.org/ "<h1>You are leaving the Rockland Trust Web Site.</h1><br>Rockland Trust does not control or warrant the content of any external web site. We advise you to explore the security and privacy information of any linked site. "). 
