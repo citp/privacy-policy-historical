@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzcity.co.nz privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084505id_/http%3A//home.nzcity.co.nz/personalise/privacy.aspx%3Ffm%3Dsm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzcity.co.nz privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628114533id_/http%3A//home.nzcity.co.nz/personalise/privacy.aspx%3Ffm%3Dsm) for the most accurate reproduction.*
 
 # New Zealand City - Privacy Statement
 
