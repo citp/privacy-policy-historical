@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadvertiser.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120135533id_/http%3A//www.theadvertiser.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadvertiser.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628053846id_/http%3A//www.theadvertiser.com/section/privacy) for the most accurate reproduction.*
 
 # PRIVACY | The Advertiser | theadvertiser.com
 
@@ -96,3 +96,19 @@ Online Privacy Coordinator
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
+
+Enter your email and we will send you a link to reset your password.
+
+[](https://web.archive.org/ "Return to Homepage")
+
+Become a subscriber today to enjoy these benefits:
+
+  * Unlimited access to our Web site
+  * iPad-optimized edition
+  * Mobile site & iPhone app
+
+
+
+[View subscription options](https://web.archive.org/section/subscription-options)
+
+We're sorry, this account no longer has full access. You can still look at a limited number of articles per month.
