@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107064452id_/http%3A//wpmu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628173849id_/http%3A//wpmu.org/privacy) for the most accurate reproduction.*
 
-# Privacy | WordPress News at WPMU – The WP Experts
+# Privacy | Wordpress Themes, Plugins, Tutorials & More - WPMU.org
 
 ## When accessing our Website, WPMU.org will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
@@ -16,4 +16,4 @@ The information collected is for statistical purposes. WPMU.org may use software
 
 For site security purposes and to ensure that this service remains available to all users, WPMU.org uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-WPMU.org will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. 
+WPMU.org will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
