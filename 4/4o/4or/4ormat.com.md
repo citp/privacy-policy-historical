@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229200646id_/http%3A//4ormat.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628232918id_/http%3A//4ormat.com/privacy_policy) for the most accurate reproduction.*
 
-# 4ormat - Privacy Policy
+# Privacy Policy - 4ormat
 
 **Last Updated on 15.February.2011**
 
