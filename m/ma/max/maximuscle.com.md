@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximuscle.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101195748id_/http%3A//www.maximuscle.com/help/your_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximuscle.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629012815id_/http%3A//www.maximuscle.com/help/your_security.html) for the most accurate reproduction.*
 
 # Maximuscle - Your Security
 
@@ -52,7 +52,7 @@ requests the same document be sent using the HTTPS protocol which incorporates S
   * Maximuscle.com would like to provide you with a strong and compelling reason to visit our site again. Therefore, in order to help us provide an optimal site and service and increase our speed of site download time, we gather the following information in aggregate form: operating system (e.g.Macintosh, Windows - Mac/PC), browser type (e.g. Navigator, Internet Explorer), IP address, and Internet domain (e.g. Virgin, Freeserve, Demon, AOL). Cookies are used to record your purchase preferences each time you visit our site. Information gathered on our email registration form is simply your email address. This costs nothing to you but ensures we can update you with info on special offers that are not available to non registrants. 
   * We use customer contact information from the order form for accounting purposes and to contact the customer when/if necessary (e.g. for customer service issues). In the instance when Maximuscle uses a third party to fulfill the transaction, the following information is provided to the supplier in order to facilitate the transaction and/or exchange of goods: email address, phone numbers, fax number and payment details, including credit card information. Maximuscle also uses the order information to send the customer information about our company and our services. Demographic and profile data is used to provide aggregate customers profiles to our marketing partners and to help us create a better service. Demographic and profile data is used to tailor our visitors' experience at our site, showing content that we think might be of interest, and displaying the content according to these preferences. Customers can opt-out at any time of receiving these future mailings; see the un-subscribe section above. 
   * Information gathered from contests: occasionally we run contests on our site and the customer's contact information is used to contact the customer when necessary (e.g. to notify you if you have won) and customers are added to our mailing list for future products. Customers may opt-out at any time of receiving future mailings; see the un-subscribe section above. Abbreviated/censored customer names and/or e-mail addresses may be used on our contest winners' page as well. We do not sell, share, trade, rent, or give away any of your personal information on our email lists. 
-  * Emails sent to Maximuscle may occasionally be used for testimonial purposes but will be withdrawn from the web site if requested. Our site may from time to time contain links to other sites and Maximuscle is not responsible for the privacy practices or the content of such web sites. You can send mail to the following postal address: Maximuscle Ltd., Unit 1 Horizon Point, Swallowdale Lane, Hemel Hempstead, Herts,HP2 7FZ. Removal requests will be made within 11 working days of the request. If you have any questions about this privacy statement, the practices of this site, or your dealings with Maximuscle please contact us at [info@maximuscle.com](mailto:info@maximuscle.com)
+  * Emails sent to Maximuscle may occasionally be used for testimonial purposes but will be withdrawn from the web site if requested. Our site may from time to time contain links to other sites and Maximuscle is not responsible for the privacy practices or the content of such web sites. You can send mail to the following postal address: Maxinutrition, Unit 1 Horizon Point, Swallowdale Lane, Hemel Hempstead, Herts,HP2 7FZ. Removal requests will be made within 11 working days of the request. If you have any questions about this privacy statement, the practices of this site, or your dealings with Maximuscle please contact us at [info@maximuscle.com](mailto:info@maximuscle.com)
   * Only one voucher/coupon may be used per order. Minimum order value may apply, and coupons cannot be used on multiple orders unless stated. 
   * No contract will subsist between you and Maximusce Ltd for the sale by it to you of any order unless and until Maximuscle accepts your order by e-mail confirming that it has been dispatched. 
 
@@ -60,7 +60,7 @@ requests the same document be sent using the HTTPS protocol which incorporates S
 
 ### 1\. Place of performance and applicable law
 
-Maximuscle Ltd is a company registered in England. Unless otherwise specified, the materials on this site are directed solely at those who access this site from the United Kingdom mainland. Maximuscle makes no representation that any product referred to in the materials on this site is appropriate for use, or available, in other locations. Those who choose to access this site from other locations are responsible for compliance with local laws if and to the extent local laws are applicable. English law shall govern this Agreement. You and we each submit to the exclusive jurisdiction of the English courts in relation to disputes arising out of this Agreement. If any provision of this Agreement shall be unlawful, void or for any reason unenforceable then that provision shall be deemed severable and shall not affect the validity and enforceability of the remaining provisions. 
+Maximuscle is a trading name of GlaxoSmithKline UK Ltd, a company registered in England. Unless otherwise specified, the materials on this site are directed solely at those who access this site from the United Kingdom mainland. Maximuscle makes no representation that any product referred to in the materials on this site is appropriate for use, or available, in other locations. Those who choose to access this site from other locations are responsible for compliance with local laws if and to the extent local laws are applicable. English law shall govern this Agreement. You and we each submit to the exclusive jurisdiction of the English courts in relation to disputes arising out of this Agreement. If any provision of this Agreement shall be unlawful, void or for any reason unenforceable then that provision shall be deemed severable and shall not affect the validity and enforceability of the remaining provisions. 
 
 ### 2\. Content
 
@@ -150,25 +150,25 @@ Maxinutrition Ltd may change this policy from time to time by updating this page
 
 We may collect the following information:
 
-•         name
+• name
 
-•         contact information including email address
+• contact information including email address
 
-•         demographic information such as postcode, preferences and interests
+• demographic information such as postcode, preferences and interests
 
-•         other information relevant to customer surveys and/or offers
+• other information relevant to customer surveys and/or offers
 
 What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-•         Internal record keeping.
+• Internal record keeping.
 
-•         We may use the information to improve our products and services.
+• We may use the information to improve our products and services.
 
-•         We may periodically send emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+• We may periodically send emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-•         From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+• From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
  **Security**
 
@@ -192,12 +192,12 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-•         whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-•         if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at Unit 1, Horizon Point, Swallowdale Lane, Hemel Hempstead, Hertfordshire, HP2 7FZ, phoning us on 01442 418 500, or emailing us at customerservices@maximuscle.com 
+• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at Unit 1, Horizon Point, Swallowdale Lane, Hemel Hempstead, Hertfordshire, HP2 7FZ, phoning us on 01442 418 500, or emailing us at customerservices@maximuscle.com 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Unit 1, Horizon Point, Swallowdale Lane, Hemel Hempstead, Hertfordshire, HP2 7FZ 
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Unit 1, Horizon Point, Swallowdale Lane, Hemel Hempstead, Hertfordshire, HP2 7FZ 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
