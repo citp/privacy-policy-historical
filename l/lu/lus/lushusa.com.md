@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120014431id_/http%3A//www.lushusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628232525id_/http%3A//www.lushusa.com/Privacy-Policy/privacy-policy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
 
-# LUSH Fresh Handmade Cosmetics | USA
+# Privacy Policy
 
-This statement discloses the privacy practices and policies for LUSH’s website. If you have any questions about these practices and policies, please email us at **info@lush.com**.
+This statement discloses the privacy practices and policies for LUSH’s website. If you have any questions about these practices and policies, please email us at [info@lush.com](mailto:info@lush.com).
 
 LUSH respects your personal privacy. We believe ensuring the security of your personal information is an important part of our job, and we strive to protect any personal information you may provide us. If we ask you to provide any personal information, we will tell you the purposes for which we intend to use that information. Your personal information is not lent or sold to anyone for any purpose.
 
@@ -10,11 +10,11 @@ LUSH respects your personal privacy. We believe ensuring the security of your pe
 
 For additional information on privacy, security, and use of information at LUSH please view the following information:
 
-[Read the Website Terms of Use](https://web.archive.org/terms/)
+[Read the Website Terms of Use](http://www.lushusa.com/Terms-Conditions-of-Sale/terms,en_US,pg.html)
 
 ## Information Collection, Use, and Disclosure
 
-Information gathered on **lushusa.com** falls under the following categories:
+Information gathered on lushusa.com falls under the following categories:
 
   * Aggregate Site Use Information
   * Online Order Information and Security
@@ -32,7 +32,7 @@ We may, on occasion, provide portions of this aggregate information to vendors, 
 
 ### Cookie Use
 
-A cookie is a small text file stored on a user's hard drive. When you visit our site we use cookies. **Cookies are required to shop on our site**. We also use cookies to assist with anonymous site traffic analysis, which includes tracking the time/date of visits, pages viewed, and referring URLs.
+A cookie is a small text file stored on a user's hard drive. When you visit our site we use cookies. Cookies are required to shop on our site. We also use cookies to assist with anonymous site traffic analysis, which includes tracking the time/date of visits, pages viewed, and referring URLs.
 
 ## Online Order Information and Security
 
@@ -48,11 +48,11 @@ Email is not a secure means to send personal information, as it is not encrypted
 
 ## E-news Sign-up and Online Customer Forum
 
-Visitors to our site may choose to opt in to receive LUSH email. They may also choose to use our free online customer forum. 
+Visitors to our site may choose to opt in to receive LUSH email. They may also choose to use our free online customer forum.
 
 ### Customer Forum
 
-Visitors choosing to use our free online customer forum are bound by the user-provided content guidelines set out in our Terms of Use. 
+Visitors choosing to use our free online customer forum are bound by the user-provided content guidelines set out in our Terms of Use.
 
 ### E-news Sign-up
 
@@ -81,5 +81,3 @@ This page will be updated if information about the collection and use of your pe
 ## Changes to this Privacy Policy
 
 LUSH may update this privacy policy in the future. We will notify you about material changes to this privacy policy by placing a prominent notice on our website. All changes will remain in compliance with federal and provincial privacy legislation.
-
-* Only one e-gift card will be issued per order. Offer for $10 e-gift card is valid from November 1 - December 24th. All qualifying orders must be placed by 11.59 pm PST on December 24th to be eligible for the $10 LUSH e-gift card. The e-gift card can only be redeemed between February 1, 2012 - May 31, 2012. On February 1, 2012 you will receive the e-gift card via email at the address you used when you placed your order. E-gift cards can be redeemed online or in store, void at all LUSH Macy's locations. Gift cards, shipping and taxes do not count towards order total for offer eligibility.
