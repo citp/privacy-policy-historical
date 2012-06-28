@@ -1,29 +1,59 @@
-> *The following text is extracted and transformed from the millatfacebook.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207122746id_/http%3A//millatfacebook.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millatfacebook.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628035836id_/http%3A//mymfb.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » MFB - A Place to meet Over 1.57 Billion Muslims and Peaceful people from other religions
+# Privacy Policy » My - MFB - Uniting Over 1.6 Billion Muslims and Peaceful people from other Faiths
 
-**Information We Collect**
+                                                                                                                                      
 
-This notice applies to all the information that gets collected or submitted on the millatfacebook website through the registration. The following types of personal information are collected:
-
-  1. Name
-  2. Date of Birth  
-
-  3. Email Address
-  4. Timezone
-  5. Country  
+  
 
 
+ 
+
+ **Our Privacy Policy  
+**  
+**Our Commitment To Privacy**
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our footer menu. 
+
+**The Information We Collect:**
+
+This notice applies to all information collected or submitted on the millatfacebook(MyMfb.com) website. The types of personal information collected is: 
+
+Name   
+D.O.B                                                                                                                                                                                                      
+Phone number   
+Email Address
+
+  
 
 
-**How we use your information**
+**The Way We Use Information:**
 
-The personal information you provide when signing up is only used to complete site membership access. We do not distribute or sell any information such as email address, name, domain name, or even use it for spam, advertising, or disclose such information to other parties, marketing agencies, or any institution unless required by law. The email address that you provide in the registration form is used only to notify you. Strict Privacy policy and maintaining integrity of our members' data are also the distinguishing features of MFB .... the future of online social networking. Unlike someother social networks we DO NOT sell or compromise the privacy of our members' data. Maximum security of data is maintained at all levels. Privacy settings are in your own hands as you are provided with easy and straight-forward options.
+We use the information you provide about yourself when signing up to let you register for millatfacebook(MyMfb.com). We do not share this information with outside parties.
 
-**How to Access or Correct your Information**
+  
 
-You can make changes to your information throught the account settings. 
 
-**How to Contact us**
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-Should you have any further questions or concerns please contact us by emailing to mfb@gitv.pk
+You can register with our website if you would like to receive our newsletter as well as updates. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   
+**  
+How  You Can Access Or Correct Your Information **
+
+You can access all your personally identifiable information that we collect online and maintain by going to your account settings and privacy settings. 
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please contact us.
+
+*Updated January 25th, 2012 (1st Rabiul Awal 1433 Hijri)
+
+_Page has been viewed 85 times.._
