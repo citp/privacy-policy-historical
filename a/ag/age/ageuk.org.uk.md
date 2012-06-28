@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125034516id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628072145id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,11 @@ Age UK Group and its National Partners are committed to protecting and respectin
 
 This policy may change from time to time, so please check this page periodically. 
 
+[Read our full cookies policy](http://www.ageuk.org.uk/help/cookies-policy/ "Read our full cookies policy")
+
 #### Age UK
 
-Age UK is a registered charity (number 1128267) and company limited by guarantee (number 6825798). The registered address is 207-221 Pentonville Road, London N1 9UZ. 
+Age UK is a registered charity (number 1128267) and company limited by guarantee (number 6825798). The registered address is Tavis House, 1-6 Tavistock Square, London WC1H 9NA. 
 
 Age Concern England (registered charity number 261794) and Help the Aged (registered charity number 272786), and their trading and other associated companies merged on the 1st April 2009. Together they have formed Age UK Group, dedicated to improving the lives of people in later life. The three national Age Concerns in Scotland, Northern Ireland and Wales have also merged with Help the Aged in these nations to form three registered charities: Age Scotland, Age NI and Age Cymru (“National Partners”). 
 
@@ -40,7 +42,9 @@ The Age UK Group and its National Partners would like to keep in touch with you 
 
 If you do not wish to continue receiving information from us or carefully selected third parties please email us at [contact@ageuk.org.uk](mailto:contact@ageuk.org.uk) or telephone us at 0800 169 87 87. 
 
- Occasionally, we may share your data with other organisations that we work with. We will usually inform you (before collecting your data) if we intend to share your data with any third party. You can exercise your right to prevent such processing by ticking (or not ticking where applicable) certain boxes on the forms we use to collect your data. You can also exercise your right to ask us to stop processing your data in this way at any time by [contacting us](mailto:contact@ageuk.org.uk).
+We will not contact you about our products, services and the vital work we do for older people where you have provided personal information for a specific purpose (e.g. to receive an estimate of your pension benefits) and we have clearly stated that it will not be used for marketing purposes. 
+
+Occasionally, we may share your data with other organisations that we work with. We will usually inform you (before collecting your data) if we intend to share your data with any third party. You can exercise your right to prevent such processing by ticking (or not ticking where applicable) certain boxes on the forms we use to collect your data. You can also exercise your right to ask us to stop processing your data in this way at any time by [contacting us](mailto:contact@ageuk.org.uk).
 
 Age UK, a number of its trading and associated companies and its National Partners are registered as a Data Controller with the Information Commissioner. Age UK is the Data Controller for the purposes of collecting your information on our Site(s)
 
@@ -66,7 +70,7 @@ We may use this information in the following ways :
 
 We are committed to protecting the personal data of our supporters, customers and members. Any details you give us will be held in accordance with the Data Protection Act 1998. Age UK (including its associated and subsidiary companies and its national partners) is the sole owner of the information collected on this Site. We will not sell, share, or rent this information to third parties, unless we have your explicit permission to do so, or we are required to do so by law, for example, by a court order or for the purposes of prevention of fraud or other crime. Where you have given us permission we may contact you about other services and products or pass your details to similar organisations. 
 
-When you are using our secure online donation pages, your donation is processed by WorldPay plc, who specialise in the secure online capture and processing of credit/debit card transactions. If you have any questions regarding secure transactions, [email the webmanager](mailto:webmanager@ageuk.org.uk). We may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to enforce or apply our terms of use or to protect the rights, property or safety of our customers. However, we will take steps with the aim of ensuring that your privacy rights continue to be protected. 
+When you are using our secure online donation pages, your donation is processed by WorldPay plc, who specialise in the secure online capture and processing of credit/debit card transactions. If you have any questions regarding secure transactions, please [contact us](http://www.ageuk.org.uk/contact-us/). We may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to enforce or apply our terms of use or to protect the rights, property or safety of our customers. However, we will take steps with the aim of ensuring that your privacy rights continue to be protected. 
 
 #### 4\. How you can access, update or delete your information 
 
@@ -92,7 +96,9 @@ Age UK Group and its National Partners will not be responsible for the posting b
 
 Like many other websites, the Age UK Sites use cookies. 'Cookies' are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit. They collect statistical data about your browsing actions and patterns and does not identify you as an individual. For example, we use cookies to store your country preference. This helps us to improve the Site and deliver a better more personalised service. 
 
-It is possible to switch off cookies by setting your browser preferences. For more information on how to switch off cookies on your computer, visit the [ AboutCookies website](http://www.aboutcookies.org/). Turning cookies of may result in a loss of functionality when using our Sites. 
+It is possible to switch off cookies by setting your browser preferences. For more information on how to switch off cookies on your computer, visit the [ AboutCookies website](http://www.aboutcookies.org/). Turning cookies of may result in a loss of functionality when using our Sites.
+
+[Read our full cookies policy](http://www.ageuk.org.uk/help/cookies-policy/ "Read our full cookies policy")
 
 #### 8\. What happens when visitors link to another site? 
 
