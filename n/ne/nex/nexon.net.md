@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexon.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209010805id_/https%3A//www.nexon.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexon.net privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628100501id_/https%3A//www.nexon.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Nexon | Privacy Policy
 
