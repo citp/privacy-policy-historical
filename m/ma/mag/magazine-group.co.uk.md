@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the magazine-group.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211109id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-group.co.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628084341id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
 # Dennis Publishing - Privacy Notice
 
 ## Privacy Notice
 
-Last Updated April 2011
+Last Updated May 2012
+
+We have published a new [cookie policy](https://web.archive.org/cookie-policy). It explains what cookies are and how we use them on our site. To learn more about cookies and their benefits, please view our [cookie policy](https://web.archive.org/cookie-policy). If you'd like to disable cookies on this device, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) for more information on how to do this. Please be aware that parts of the site will not function correctly if you disable cookies. By using our websites you consent to our use of cookies on this device in accordance with our [cookie policy](https://web.archive.org/cookie-policy) unless you have disabled them.
 
 ### Dennis Publishing Privacy Notice
 
@@ -23,7 +25,11 @@ Dennis Publishing (UK) Ltd includes subsidiary companies Dennis Publishing Ltd, 
 Dennis Publishing (UK) Ltd had formed partnerships with a variety of carefully selected companies. Below is a non-exhaustive list of our key partners:   
 IPC Media Ltd   
 Jellyfish Online Marketing   
-Audience Science
+Audience Science  
+Hearst UK trading as The National Magazine Company  
+Hearst UK trading as Hachette Filipacchi  
+Magiq Limited which is part of the Speed-Trap Group of Companies  
+
 
 ## What information we collect
 
@@ -31,9 +37,7 @@ To provide you with the best possible customer experience we may ask you to subm
 Additionally we use web technologies e.g. cookies and web beacons, to automatically track and log limited personal data and link this with information you or other suppliers have provided. For detailed information on Cookies and how you can choose to allow or prevent sites accessing cookies, see [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
 Anonymous data will be recorded for the purpose of reporting web traffic statistics, advertisement 'click-throughs', and/or other activities on our sites.
 
-Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.com/uk  ](http://www.youronlinechoices.com/uk) . 
-
-Our iPad, Android and other ‘apps’ may use a service called Flurry Analytics to collect user data which we use to learn about our readers and improve the app. To find out more, visit <http://www.flurry.com/about-us/legal/privacy.html>. You can opt out at any time by visiting <http://www.flurry.com/resources/privacy.html>.
+Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.com/uk  ](http://www.youronlinechoices.com/uk) .
 
 **How we use your data**
 
@@ -42,9 +46,9 @@ The personal information we obtain will be used for the following purposes.
 Technical administration of the web site, enhancing your experience of the site, research and development, customer service, marketing, advertising targeting and making your personal data available to selected partners. This will include Dennis and our partners sending you information about products and services that will be relevant to you, by email, mobile messaging, postal mail or direct telephone contact. All of the above are subject to your stated preferences; we and our content partners will always make it clear how you can prevent i.e. opt-out of these uses.
 
 We may use third party suppliers to provide part of our service to you. In some circumstances these providers may be based in countries outside the European Economic Area whose laws provide for a different standard of protection for your personal information than that provided under UK Law. In such circumstances we will have in place strict contractual arrangements that will require your information is processed securely, at least to a standard equivalent to the UK Data Protection Act 1998.   
-Your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. Before we release data on this basis, we will ensure that the information is being provided to a genuine and properly authorised investigation. If we are not satisfied that there are valid grounds for releasing the information, the Data Protection Act does not oblige us to do so. If we refuse to release the information, law enforcement agencies may obtain a court order requiring us to provide it. ** **
+Your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. Before we release data on this basis, we will ensure that the information is being provided to a genuine and properly authorised investigation. If we are not satisfied that there are valid grounds for releasing the information, the Data Protection Act does not oblige us to do so. If we refuse to release the information, law enforcement agencies may obtain a court order requiring us to provide it. ****
 
-**Individual Choice** ** **
+**Individual Choice** ****
 
 You can change your personal information preferences and/or details at any time. As a magazine subscriber you can access your preferences by logging on to www.subsinfo.co.uk using your SubsInfo password. If you have registered on a Dennis Publishing (UK) Ltd website you can access your personal information preferences by logging in to our registration system and using the username and password details you selected. You can also unsubscribe to any/all lists by sending an email request to [privacy@dennis.co.uk](mailto:privacy@dennis.co.uk). (including your full name, postcode and magazine subscription / website registration / competition information). 
 
