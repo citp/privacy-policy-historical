@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125192648id_/http%3A//www.mellanox.com/content/pages.php%3Fpg%3Dlegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628025217id_/http%3A//www.mellanox.com/content/pages.php%3Fpg%3Dlegal_privacy) for the most accurate reproduction.*
 
 # Legal Privacy: Mellanox Technologies
 
@@ -75,14 +75,14 @@ This Website is protected by U.S. and international copyright and intellectual p
 
 Except as otherwise required by applicable law, no part of any copyrighted material may be reproduced, modified, translated, distributed, published, or transmitted by any means, electronic or mechanical, for any purpose, without our prior, written authorization or, if owned by a third party, the prior, written authorization of such third party.
 
-Mellanox is a registered trademark of Mellanox Technologies, Inc. and ConnectX, InfiniBlast, InfiniBridge, InfiniHost, InfiniRISC, InfiniScale, and InfiniPCI are trademarks of Mellanox Technologies, Inc. All other trademarks are property of their respective owners. 
+Mellanox, Mellanox logo, BridgeX, ConnectX, CORE-Direct, InfiniBridge, InfiniHost, InfiniScale, PhyX, SwitchX, Virtual Protocol Interconnect and Voltaire are registered trademarks of Mellanox Technologies, Ltd. FabricIT, MLNX-OS, Unbreakable-Link, UFM and Unified Fabric Manager are trademarks of Mellanox Technologies, Ltd. All other trademarks are property of their respective owners.
 
-Copyright © 1999-2010 by Mellanox Technologies, Ltd.  All rights reserved.
+Copyright © 1999 - 2012 by Mellanox Technologies, Ltd.  All rights reserved.
 
 #### **_Contact Us  
 _**
 
 If you have any questions about this Privacy Policy, please contact us at: [info@mellanox.com](mailto:info@mellanox.com)
 
-**_Policy last updated_** :  January 7, 2009  
+**_Policy last updated_** :  December 14, 2011  
 
