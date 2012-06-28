@@ -1,75 +1,81 @@
-> *The following text is extracted and transformed from the atkingdom.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221132912id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkingdom.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628094628id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
 
 # AMKINGDOM Privacy Policy
 
-**AMKINGDOM Privacy Policy**
+**PRIVACY POLICY** **** **  
+For Kingdom WWW Operations, Inc. d/b/a**
 
-This Privacy Policy governs your use and access to the following network of websites, which currently includes: (1) http://amkingdom.com; (2) http://AMKINGDOM.com; (3) http://amkingdom.com/hairy; (4) http://atkexotics.com; (5) http://atkarchives.com; (6) http://atkmovies.com; (7) http://www.atkpetites.com; (8) http://atklounge.com; and http://atkpremium.com (collectively, the "Sites" or individually, a "Site"). 
+1\. GENERAL
 
-We are committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Sites. By accessing and using our Sites, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Sites. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting. The Sites request that you read this Privacy Policy carefully and consult it regularly. 
+**1.1.** The operative parties referred to in this policy are Kingdom WWW Operations, Inc. d/b/ a the above listed websites (hereinafter “Kingdom” or “Company”) and You, the User of this Site.
 
-**Protecting Your Files on Your Computer**
+  * **1.1.1.** Kingdom WWW Operations, Inc. is the operator of the above listed websites. Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Kingdom WWW Operations, Inc. d/b/a the above Site(s), or as any other Site that We may choose to publish in the future. Additionally, when the terms “the Site(s)” or “Site(s)” are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy.
+  * **1.1.2.** You, the User – As the User of this Site, this policy will refer to the User as “You” or through any second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second- person pronouns.
+  * **1.2.** This Privacy Policy describes how We use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
 
-There are frequent instances where you may wish to maintain your privacy by keeping your Internet traces or sensitive files on your computer secure from others. We suggest that you consider privacy software such as PrivacyView.
 
-PrivacyView protects all your sensitive and private files. This software encrypts Internet surfing traces and sensitive data. PrivacyView's system of secure password protection works much better than manually deleting Internet history, cookies, favorites and temp files.
 
-In addition to privatizing the surfing experience, PrivacyView gives you the ability to conceal downloaded pictures and movies on your computer by encrypting and hiding the files. Once the downloaded content is stored, the images and movies can be searched and retrieved for viewing within PrivacyView.
+2\. REVISIONS TO THIS POLICY
 
-The software is inexpensive, comes with support and instantly gives you piece of mind. You can learn more about privacy software, or try PrivacyView for free, at [www.privacyview.com](http://www.privacyview.com/affiliate_page.aspx?a_id=1083&c=246). 
+We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this Webpage and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “Last Modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “Last Modified” date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
 
-[](http://www.privacyview.com/affiliate_page.aspx?a_id=1083&c=246)
+3\. PERSONAL INFORMATION THAT WE COLLECT
 
-**Information Collection and Use**
+Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows:
 
-In certain areas of the Sites, we may request that you provide us with certain personally identifiable information such as your name, address, telephone number, e-mail address,  birthdate, personal opinions, and personal preferences. We reserve the right to identify which informational items are mandatory and which are optional. We log all user's information when signing onto or using the Sites, including but not limited to IP address, URL of the Web page user was on before visiting the Sites, user's browser version, user's registration forms, surveys, cookie data, and communications transmitted through applications on the Sites.  We reserve the right to use this information to find ways to improve sales to a group of Site members, to increase the users experience according to their interests, or to formulate statistical models to accomplish the Sites' goals through surveys or contests. We are the sole owner of the information collected on the Sites. We will not sell, share, or rent this information to others without your express consent  . 
+  * **3.1. Members** \- Members are those Users who subscribe to Our services. Should You choose to become a Member We will require Your name, telephone number, date of birth, a valid email address, credit card information with a physical address, and any information that We, in Our sole discretion, feel is necessary to create a suitable account.
+  * **3.2. Browsers** \- Browsers are visitors to the Site who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Members. This information is restricted to passive information gathering devices.
 
-**Cookies**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. We will use cookies to track affiliate sales and referring URL's. In the future, we may use cookies to personalize services for members, to track browsers, to identify the most popular areas of our Sites, and to determine the effectiveness of our promotional activities. Please note that some of our business partners may also use cookies on our Sites (for example, advertisers). However, we have no access to or control over these cookies. 
 
-**Sharing**
+4\. HOW WE COLLECT INFORMATION FROM YOU
 
-We do not currently sell or otherwise make available personally identifiable information about our users to third parties. Nevertheless, we reserve the right to make such information available to third parties in the future in order to enhance and personalize our products and services to benefit users, or in the case of bankruptcy, sale of an asset, business or division, a merger or acquisition, or similar change of ownership. 
+**4.1. Passive Collection** – We use passive information gathering devices to collect information about You in order to enhance Your experience on the Site and for various statistical purposes. The information includes, but is not limited to, Your User IP address and geographic location.
 
-**Law Enforcement**
+**4.2.Active Collection** – We collect information from You when You complete the initial registration and/or membership subscription to Our Site. Please see above provisions 3.1-3.2.
 
-We will cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include compliance with discovery requests, subpoenas, court orders and writs. 
+5\. HOW WE USE YOUR INFORMATION
 
-**Links**
+**5.1.** The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You. Non-personal and cumulative information, such as that collected passively is used in order to improve User experience or to customize the use of Our Site for an aggregate group of customers.
 
-These Sites may contain links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware that when they leave our Sites they should read the privacy statements of each and every site that collects personally identifiable information. 
+**5.2.** We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription or other services, if applicable. We also use Your information for market research purposes – in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing/statistical purposes.
 
-**Security**
+6\. SPECIAL CASES
 
-We agree to use commercially reasonable efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures. We use SSL encryption on all billing and membership transactions. We do not and will not in the future keep sensitive billing information on our local servers. The billing processors will keep this information. We encourage you to contact us if you are interested in learning more about our security measures. 
+It is Our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about Browsers or Members, or information regarding Your use of the Services or websites accessible through Our Services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including, but not limited to:
 
-**Children**
+**6.1.** To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
 
-Our Sites are not intended for children under the age of 18 or 21, depending on the age of majority in your jurisdiction. Our Sites do not target children, nor do we solicit data, or knowingly collect personally identifiable information from them. We encourage parents and legal guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. 
+**6.2.** To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our User Agreement or other User policies;
 
-**Correction/Updating Personal Information**
+**6.3.** To operate Our Services properly;
 
-If a user's personally identifiable information changes  or if a user no longer desires our services, you should contact us to correct or update your information. 
+**6.4.** To protect Ourselves, Our Members, and the general public. We will always cooperate with law enforcement authorities when legally compelled to do so. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
 
-**Information Retention**
+**6.5.** Private-party litigants, governmental administrative or regulatory agencies, and investigative reporters or journalists will not be cooperated with unless We are legally compelled to do so.
 
-We retain all users' information in a secure database indefinitely. 
+**6.6.** If We have reason to believe that the User is not the owner of a credit card, even if the credit card use is authorized, We will provide information about You to the credit card holder. We will absolutely provide Your information to the credit card holder if We believe that fraud is a possibility. However, We do not require that there be fraud, as it is Our policy that the credit card holder always has an absolute right to access any and all of Your personal information.
 
-**Choice**
+TRANSMITTALS FROM US
 
-From time to time, we may send our users e-mail, e-mail newsletters, Site news updates, or other notices regarding new services, promotions, or other information which may be of general interest. Users who no longer wish to receive materials from us may opt-out of receiving these communications by choosing a "do not contact" option or by contacting us. We will comply with all requests for removal. 
+**7.1.** We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by contacting support@amkingdom or by clicking the opt-out link at the bottom of these emails, if applicable. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. For example, We may send You messages in response to a lost password request, when other members contact You via the Site’s services, or for other reasons associated with the features of the Site.
 
-**Notification of Changes**
+**7.2.** If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
 
-We reserve the right to modify this Privacy Policy at any time by posting such changes on our Sites. Any changes to this Privacy Policy will become effective upon posting such changes. If you access or use our Sites, you are required to periodically check our Privacy Policy for any changes. If you continue to access or use our Sites after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy. 
+8\. FORUMS & MEMBER COMMUNICATION
 
-If we decide to use your personally identifiable information in a manner materially different from that stated in the Privacy Policy at the time that such information was collected, we will attempt to notify you of such changes. You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy. The notice will provide you with an opportunity to "opt-out" so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information. If you do not affirmatively "opt-out" pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice. (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our Privacy Policy, which shall also disclose information about how you may "opt-out" so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information. If you do not affirmatively "opt-out" pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice). 
+Any information provided in a User profile, webcam session, forum message board, profile post, chat room, or other related service should be considered to be public information. Although You may be required to enter a valid email address and password to access such areas of the Site, such communication is not private. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium of communication.
 
-**Contact Information**
+9\. OUR COMMITMENT TO DATA SECURITY.
 
-If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, contact us by sending an e-mail. Please provide us with your name, mailing address, telephone number and e-mail address so we can service you quicker. 
+We take various measures to protect the transmission of all sensitive end-User information. We make every effort to ensure the integrity and security of Our network and systems by storing User data in an on-site encrypted network database. Your billing information is collected and retained by a third party, We do not have access to this data. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is 100% breach- proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
 
-Please send your e-mail to: [support@amkingdom.com](mailto:support@amkingdom.com)
+10\. HOW TO ACCESS OR MODIFY YOUR INFORMATION.
 
-© Kingdom World Wide Web Operations, Inc. (2005) 
+We offer Our Members the opportunity to access or modify information provided during registration. Users may log into their account at any time to access or modify such information.
+
+11\. WHERE TO DIRECT QUESTIONS ABOUT OUR PRIVACY POLICY.
+
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [support@amkingdom.com.](mailto:support@amkingdom.com)
+
+-End-
