@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the smugmug.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230012018id_/http%3A//www.smugmug.com/aboutus/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smugmug.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629000553id_/http%3A//www.smugmug.com/aboutus/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!-- pageon: Privacy -->
     <title>SmugMug Privacy  Policy</title>
@@ -12,10 +12,10 @@
     <meta name="keywords" content="photo sharing, online photo albums, photo backup, video sharing, online video, smugmug">
     <meta name="robots" content="all, index, follow, noodp, noydir">
     <meta http-equiv="imagetoolbar" content="no">
-    <link rel="SHORTCUT ICON" href="/favicon.ico">
-    <link type="text/css" rel="stylesheet" id="yui_core" href="http://cdn.smugmug.com/include/css/other//other/yui_core-26a4c3a0887e7092c76f281d4c710e85-stretch.css">
-    <link type="text/css" rel="stylesheet" id="smugmugBlackCSS" href="http://cdn.smugmug.com/include/css/other//other/smugmugBlack_bundle-8a319b2fb591a9e2bdf1df3b873fb3cc-stretch.css">
-    <link type="text/css" rel="stylesheet" id="pureSmugBlack" href="http://cdn.smugmug.com/include/css/other//other/pureSmugBlack-20110826110042-stretch.css">
+    <link foo="bar" rel="SHORTCUT ICON" href="/favicon.ico">
+    <link type="text/css" rel="stylesheet" id="yui_core" href="http://cdn.smugmug.com/include/css/other/0/other/yui_core-26a4c3a0887e7092c76f281d4c710e85-stretch.css">
+    <link type="text/css" rel="stylesheet" id="smugmugBlackCSS" href="http://cdn.smugmug.com/include/css/other/0/other/smugmugBlack_bundle-317fc87b9e7f7ef820cfd2cfa489dfaa-stretch.css">
+    <link type="text/css" rel="stylesheet" id="pureSmugBlack" href="http://cdn.smugmug.com/include/css/other/0/other/pureSmugBlack-20120621121026-stretch.css">
     <script type="text/javascript" id="sm_js_base">
       //SM namespace
       if (typeof SM === 'undefined') {
@@ -49,9 +49,9 @@
         skin: 'skins/sam/'
       };
       SM.env.yui3 = {
-        version: '3.4.1',
+        version: '3.5.0',
         base: '/include/',
-        root: 'yui/3.4.1/',
+        root: 'yui/3.5.0/',
         assets: 'assets/',
         skin: 'skins/sam/'
       };
@@ -66,6 +66,7 @@
       SM.hostConfig = {
         'httpPrefix': 'http://',
         'mainHost': 'www.smugmug.com',
+        'mainDomain': 'smugmug.com',
         'uploadHost': 'upload.smugmug.com',
         'cdnHost': 'cdn.smugmug.com',
         'photosHost': 'photos.smugmug.com',
@@ -88,7 +89,7 @@
       }
       SM.appVersion = {
         'MacDaddy' : '3.0.4.510',
-        'ShizamSlides' : '2011042105',
+        'ShizamSlides' : '2012031404',
         'ninjaLoader' : '2010100701',
         'ShizVidz' : '2011030702',
         'clipboardSmuggler' : '2008110602',
@@ -105,9 +106,9 @@
       };
       SM.pageDetails = [];
       SM.md5s = {
-      '/include/js/ga.js': '20110706115937',
-        '/include/js/quantcast.js': '20110706115943',
-        '/include/js/facebook_library.js': '20110623220039'
+        '/include/js/ga.js': '20120621121030',
+        '/include/js/quantcast.js': '20120621121033',
+        '/include/js/facebook_library.js': '20120621121029'
       };
       SM.tracking = {
         ga: {
@@ -152,8 +153,8 @@
       }
       document.oncontextmenu = rightProtect;
     </script>
-        <script src="http://cdn.smugmug.com/include/js/yui_core-2b74a123dff1c1f46d48829c7cb8aee9.js" class="js script yui_core" type="text/javascript" charset="utf-8"></script>
-        <script src="http://cdn.smugmug.com/include/js/smugmug_core-a57e1138043976bc8e91706753741a2b.js" class="js script smugmug_core" type="text/javascript" charset="utf-8"></script>
+        <script src="http://cdn.smugmug.com/include/js/yui_core-1c248c111ea9c41a4f2e2de6a893680d.js" class="js script yui_core" type="text/javascript" charset="utf-8"></script>
+        <script src="http://cdn.smugmug.com/include/js/smugmug_core-c4ff701415c00ed15c02af7fa0a38b7c.js" class="js script smugmug_core" type="text/javascript" charset="utf-8"></script>
     <meta property="fb:page_id" content="12550319602">
   </head>
 <body class="tempClass2 notLoggedIn pureSmugCSS bodyColor_Black">
@@ -172,11 +173,15 @@
                 || YD.hasClass(document.body,'popularGallery')
                 || YD.hasClass(document.body,'popularImage')
                 || YD.hasClass(document.body,'communityKeyword')) {
-              var goHere = SM.util.normalizeURL();
-              if (/\w+\-[a-zA-Z0-9]+\-LB$/.test(parts[1])) {
-                goHere += ('?c=1#' + parts[1]);
-              }
-              location.href = goHere;
+                var goHere = SM.util.normalizeURL();
+                if (/(\w+\-[a-zA-Z0-9]+\-LB$)|(&lb=1&s=[a-zA-Z0-9]+)/.test(parts[1])) {
+                    if (parts[1].charAt(0) == '!') {
+                        // If it's a hash bang url, encode it so the ampersands don't break it
+                        parts[1] = '!' + escape(parts[1].substr(1));
+                    }
+                    goHere += ('?c=1#' + parts[1]);
+                }
+                location.href = goHere;
             }
           })();
     </script>
@@ -193,7 +198,7 @@
   <div id="header">
     <a href="http://www.smugmug.com/" id="homelink" title="Photo Sharing &amp; Video Hosting by SmugMug"><img src="http://cdn.smugmug.com/img/spacer.gif" alt="Photo Sharing &amp; Video Hosting by SmugMug" title="Photo Sharing &amp; Video Hosting by SmugMug" width="116" height="24" hspace="0" vspace="0" border="0" class="smuglogo"></a>
     <div id="toolbar" class="nav">
-        &nbsp;&nbsp;<a href="http://www.smugmug.com/" class="nav" title="Photo Sharing">Photo Sharing</a>&nbsp;&nbsp;<a href="https://secure.smugmug.com/login.mg?goTo=http%3A%2F%2Fwww.smugmug.com%2Faboutus%2Fprivacy%2F" class="nav">Login</a>&nbsp;&nbsp;<a href="http://help.smugmug.com/" class="nav">Help</a>&nbsp;&nbsp;<form name="searchBox" id="searchBox" method="get" action="/search/" onsubmit="checkInput('Search','searchWords','')"><input name="searchWords" id="searchWords" type="text" value="Search" onclick="checkInput('Search', 'searchWords', '')" onblur="checkInput('', 'searchWords', 'Search')"><input type="hidden" name="searchType" value="global">&nbsp;<input type="image" src="http://cdn.smugmug.com/img/spacer.gif" alt="Search Photos" title="Search Photos" class="searchglass" onclick="if(document.searchBox.searchWords.value == 'Search') {document.searchBox.searchWords.value = ' ';}"></form>
+        &nbsp;&nbsp;<a href="http://www.smugmug.com/" class="nav" title="Photo Sharing">Photo Sharing</a>&nbsp;&nbsp;<a href="https://secure.smugmug.com/login.mg?goTo=http%3A%2F%2Fwww.smugmug.com%2Faboutus%2Fprivacy" class="nav">Login</a>&nbsp;&nbsp;<a href="http://help.smugmug.com/" class="nav">Help</a>&nbsp;&nbsp;<form name="searchBox" id="searchBox" method="get" action="/search/" onsubmit="checkInput('Search','searchWords','')"><input name="searchWords" id="searchWords" type="text" value="Search" onclick="checkInput('Search', 'searchWords', '')" onblur="checkInput('', 'searchWords', 'Search')"><input type="hidden" name="searchType" value="global">&nbsp;<input type="image" src="http://cdn.smugmug.com/img/spacer.gif" alt="Search Photos" title="Search Photos" class="searchglass" onclick="if(document.searchBox.searchWords.value == 'Search') {document.searchBox.searchWords.value = ' ';}"></form>
 &nbsp;
     </div>
     <div class="spacer"></div>
@@ -201,14 +206,20 @@
 </div>
  <!-- ----------------------- END CONTROLLED HEADER -----------------------  -->
  
- <div id="content">
+<style type="text/css">
+#header, #footer, #content { width: auto; max-width: 750px; }
+@media screen and (max-width: 749px) {
+    img.right { display: none; }
+}
+</style>
+<div id="content">
 <div class="box enclosedBox">
-	<div class="boxTop">                 	 	 
- 	 	 <h2 class="title notopmargin">SmugMug Privacy Policy</h2> 
- 	 	 <div class="spacer"></div>
-		 </div>
- 	<div class="boxBottom" style="position:relative"> 
- <h3 class="title notopmargin">(Last Updated: October 28, 2010)</h3>
+    <div class="boxTop">
+        <h2 class="title notopmargin">SmugMug Privacy Policy</h2>
+        <div class="spacer"></div>
+    </div>
+<div class="boxBottom" style="position:relative">
+<h3 class="title notopmargin">(Last Updated: October 28, 2010)</h3>
 <img src="/img/aboutus/privacy.jpg" alt="privacy" width="300" height="449" class="imgBorder right">
 <p>At SmugMug, Inc. ("SmugMug", "we", or "us"), we are passionately committed to the privacy of our customers.</p>
 <p>This Privacy Policy (this "Policy") describes how personal information is collected from users of SmugMug's website at www.smugmug.com (the "Site"), and how that information is used and disclosed by SmugMug.</p>
@@ -223,6 +234,8 @@
 <h3 class="title">Personal Information We Collect</h3>
 
 <p>Some third parties may place cookies in advertisements and in other locations on the Site, and may place Web beacons on the Site in conjunction with such cookies.  Information collected by these third parties is subject to those third parties' policies governing use and disclosure of personal information.  In addition, a third-party service is used to anonymously track traffic data on the Site through the use of a cookie that is not linked to, and does not track, any personally identifiable information about users of our Site. </p>
+
+<p>Personal information may be collected any time you:</p>
 
 <ul style="list-style-type: disc;">
     <li>create an account and subscribe to our digital photography, media hosting or other services ("Services")</li>
@@ -267,7 +280,7 @@
 <p>The Site may contain links to other Web sites. Links from our Site to other sites or content are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties or other sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.</p>
 
 <h3 class="title">Security</h3>
-<p>We have put into place reasonable security measures in an effort to prevent loss, misuse and alteration of information while it is under our control. We cannot, however, guarantee the protection of information against interception, misappropriation, misuse or alteration, nor can we promise that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Furthermore, we have no control over the security of other sites you might visit, interact with or do business with.</p>
+<p>We have put into place reasonable security measures in an effort to prevent loss, misuse and alteration of information while it is under our control. We cannot, however, guarantee the protection of information against interception, misappropriation, misuse or alteration, nor can we promise that your information may not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Furthermore, we have no control over the security of other sites you might visit, interact with or do business with.</p>
 
 <h3 class="title">Choice</h3>
 
@@ -317,21 +330,19 @@
 
         <div id="footer" class="nav" style="visibility: visible; display: block; ">
         <a href="http://www.smugmug.com/" class="nav" title="Photo Sharing">Photo Sharing</a> ·             <a href="http://www.smugmug.com/about/" class="nav">About SmugMug</a>  ·
+            <a href="http://wiki.smugmug.net/display/API/Home" class="nav">API</a> ·
             <a href="http://www.smugmug.com/browse/" class="nav">Browse Photos</a> ·
-            <a href="http://www.smugmug.com/prints/catalog/P" class="nav">Prints &amp; Gifts</a> ·
+            <a href="http://www.smugmug.com/prints/catalog/ABC" class="nav">Prints &amp; Gifts</a> ·
                         <a href="http://www.smugmug.com/aboutus/terms/" class="nav" rel="nofollow">Terms</a> ·
             <a href="http://www.smugmug.com/aboutus/privacy/" class="nav" rel="nofollow">Privacy</a> ·
     <a href="http://help.smugmug.com/" class="nav">Contact</a> ·
-            <a rel="nofollow" onmousedown="changeRedirectForAjax(this);" href="https://secure.smugmug.com/login.mg?goTo=http%3A%2F%2Fwww.smugmug.com%2Faboutus%2Fprivacy%2F" class="nav">Login</a>            <br>
-            <span class="text">© 2011 SmugMug, Inc.</span>
+            <a rel="nofollow" onmousedown="changeRedirectForAjax(this);" href="https://secure.smugmug.com/login.mg?goTo=http%3A%2F%2Fwww.smugmug.com%2Faboutus%2Fprivacy" class="nav">Login</a>            <br>
+            <span class="text">© 2012 SmugMug, Inc.</span>
                 </div>
             </div>
                     <!-- End Footer -->
-        
-
-
-        <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js";document.body.appendChild(e);};if(window.addEventListener){window.addEventListener('load',NREUMQ.f,false);}else if(window.attachEvent){window.attachEvent('onload',NREUMQ.f);}};NREUMQ.push(["nrf2","beacon-1.newrelic.com","d7cf326645",467408,"ZlIEMEJQCENYUhBeWl8YMxZZHgdSVkQQQkYeRxQNRlAFSRZYClNQSRkLAw==",0,19,new Date().getTime()])</script>
+        <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";document.body.appendChild(e);};if(window.addEventListener){window.addEventListener('load',NREUMQ.f,false);}else if(window.attachEvent){window.attachEvent('onload',NREUMQ.f);}};NREUMQ.push(["nrf2","beacon-1.newrelic.com","d7cf326645",467408,"ZlIEMEJQCENYUhBeWl8YMxZZHg9eXVQcGVhW",0,15,new Date().getTime()]);</script>
         
     
     
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js"></script></body></html>
