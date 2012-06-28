@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130500id_/http%3A//www.dancespirit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628104322id_/http%3A//www.dancespirit.com/privacy-statement) for the most accurate reproduction.*
 
-# Dance Spirit magazine – Inspiring. Trendy. Fun. Dream big. Dream now.
+# Privacy Statement | DanceMedia, LLC
 
-At Dance Spirit, we respect your right to privacy and we understand that users of the Dance Spirit Web site need to be in control of their personal information. "Personal information" includes, but is not limited to, name, address, telephone number, email address and credit card information. Dance Spirit does not sell, rent, swap or otherwise disclose any of this information. Dance Spirit adopted this Privacy Policy to inform users of the Dance Spirit Internet site how the site does collect, store and use personal information submitted via the site.
+At Dance Spirit, we respect your right to privacy and we understand that users of the Dance Spirit Web site need to be in control of their personal information. “Personal information” includes, but is not limited to, name, address, telephone number, email address and credit card information. Dance Spirit does not sell, rent, swap or otherwise disclose any of this information. Dance Spirit adopted this Privacy Policy to inform users of the Dance Spirit Internet site how the site does collect, store and use personal information submitted via the site.
 
   1. **Collection of Information**  
 Certain applications on the Dance Spirit Web site may require users to register or to provide personal information in order to make a commerce transaction, to enter a contest, or to subscribe to a newsletter. Such personal information is not shared or sold to third parties. To better understand the needs of our Web site users, we may also request demographic information. Entry of such information is optional and if you choose not to enter such information, you can successfully use these applications. If we request demographic information, we will not share information about you as an individual with any other entity. If we do share demographic information with third parties, we will give them aggregate information only.
@@ -19,4 +19,4 @@ This website is not directed to children or intended to be used by children unde
 
 
 
-Please address comments or questions regarding Dance Spirit's privacy practices to us on our [Contact Us](https://web.archive.org/contact/talk-to-us) page. 
+Please address comments or questions regarding Dance Spirit’s privacy practices to us on our [Contact Us](https://web.archive.org/web/20120628104322id_/http://www.dancespirit.com/privacy-statement/contact) page.
