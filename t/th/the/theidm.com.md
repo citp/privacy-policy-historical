@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227194353id_/http%3A//www.theidm.com/about/legal-stuff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628205958id_/http%3A//www.theidm.com/about/legal-stuff) for the most accurate reproduction.*
 
 # The legal stuff: privacy, policies, security and copyright
 
@@ -12,11 +12,7 @@ By visiting this or our other websites and in providing any data about yourself 
 
 ### What personal data do we collect?
 
-We log your Internet Protocol (IP) address in order to receive and send information from and to you over the internet (and see under 'Cookies'). You will be asked for personal data such as your name, address and email address when you register, join as a member, make an enquiry or order products and services from us. We track user log-ins to give us insight to site behaviour and usage.
-
-### Email communications
-
-We use 're-direct' tracking and also invisible gif images (in order to monitor general interactions such as 'clickthroughs' and message open rates).
+You will be asked for personal data such as your name, address and email address when you register, join as a member, make an enquiry or order products and services from us..
 
 ### How do we use your personal data?
 
@@ -41,9 +37,9 @@ The IDM does not sell, trade or rent your personal information to others. Your d
 
 Your personal data may be required to be passed to a third party if they need it in order to fulfil your order(s) for our goods and services, or to execute the communications we send to you. Except as set out above, we shall not disclose your personal information unless obliged to, or allowed to do so by law, or where we need to in order to run our business (e.g. where other people process data for us). In such circumstances, we ask those people to give us confidentiality or non-disclosure undertakings.
 
-### Direct marketing
+### Marketing messages
 
-You may at any time request us to stop using your personal data for direct marketing purposes. To do so, contact [servicesteam@theidm.com](mailto:servicesteam@theidm.com).
+You may at any time request us to stop using your personal data for marketing purposes. To do so, contact [servicesteam@theidm.com](mailto:servicesteam@theidm.com).
 
 ### Links
 
@@ -61,26 +57,38 @@ We endeavour to keep your personal data accurate and up to date. If you become a
 
 The IDM privacy policy may change at any time, so you may wish to check it each time you visit our website.
 
-  
- **A cookie is a small piece of data that is sent from our web server to your browser. It is stored on your hard drive. A cookie cannot read data off your hard disk or read cookie files created by other sites, and will not damage your system.**
+### What is a cookie?
 
-You can reset your browser to refuse cookies or alert you when a cookie is being sent. If you choose not to accept cookies, some features of this site might not work as intended (e.g. services accessed while logged in, and all transaction/checkout facilities). We do not use cookies to identify you personally, except when you opt to use the 'Remember me' facility on logging in.
+A cookie is a small piece of data that is sent from our web server to your browser. It is stored on your hard drive. A cookie cannot read data off your hard disk or read cookie files created by other sites, and will not damage your system. If you would like to know more about cookies please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-### What type of cookies do we use and when?
+### How do we use cookies on theidm.com?
 
-There are two broad classes of cookie: _session_ and _permanent_.
+The IDM use cookies to show us which areas of the site are popular and those that are not often visited, thus enabling us to use our website resources in the most effective way.  We do not use them to identify you.
 
-Session cookies are used to keep track of information needed by a user and their browser on their journey through a website. Session cookies have a short lifetime and expire within a few minutes of the user leaving the site. The IDM uses session cookies to keep you logged in for the duration of your visit, to enable you to complete transactions on this website and, for example, to pre-populate forms with information to save you keying in data that you have already provided.
+We use session cookies to keep you logged in for the duration of your visit, to enable you to complete transactions on this website and, for example, to pre-populate forms with information to save you keying in data that you have already provided.
 
-The IDM uses permanent cookies to record what you have added to your basket and to enable basic web traffic analysis using Google Analytics (showing us which areas of the site are popular and those that are not often visited, thus enabling us to use our website resources in the most effective way). We also use permanent cookies to 'remember you' when you return, but _only_ if you have ticked the 'Remember me' facility on logging in.
+We use permanent cookies to record basic web traffic analysis using Google Analytics and to remember you on your return to theidm.com, but only if you have ticked the 'Remember me' facility on logging in.
 
 ### Email communications
 
-The IDM uses cookies in its email communications to personalise the email and track whether that communication has been opened and read, and whether the recipient has used the onward links contained in the email. This allows us to monitor and improve our email communications.
+The IDM uses cookies in its email communications to track whether that communication has been opened and read, and whether the recipient has used the onward links contained in the email. This allows us to monitor and improve our email communications.
 
 ### What we do not use cookies for
 
 IDM cookies do not analyse visits to other website or any searches undertaken whilst on the IDM website. We do not use cookies for any third-party activities (other than Google Analytics as described above), or to insert any contextual advertising.
+
+### How can you manage the use of cookies on this website?
+
+You can reset your browser to refuse cookies or alert you when a cookie is being sent. If you choose not to accept cookies, some features of this site might not work as intended (e.g. services accessed while logged in, and all transaction/checkout facilities). We do not use cookies to identify you personally, except when you opt to use the 'Remember me' facility on logging in.
+
+You can find out further information at:
+
+  * <http://www.google.com/chrome/intl/en/more/privacy.html>
+  * <http://support.mozilla.com/en-US/kb/Cookies#w_cookie-settings>
+  * <http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies>
+  * <http://www.apple.com/safari/features.html#security>
+
+
 
   
  **Keeping your financial information secure: rest assured that any credit or debit card details you provide will be processed, transmitted and stored with the utmost care and security.**
