@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209205333id_/http%3A//www.number10.gov.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628040251id_/http%3A//www.number10.gov.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Number 10
 
@@ -49,7 +49,7 @@ These pieces of information are used to improve services for you through, for ex
 
   * enabling a service to recognise your device so you don’t have to give the same information several times during one task
   * recognising that you may already have given a username and password so you don’t need to do it for every web page requested
-  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast 
+  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast
 
 
 
@@ -57,23 +57,84 @@ You can manage these small files yourself and learn more about them through [Int
 
 #### Our use of cookies
 
-**Cookies for improving service**
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, your computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
 
-Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
+These pieces of information are used to improve services for you through, for example:
 
-The Number 10 site uses cookies for collecting non-personal user information from the site. The Number 10 site does not collect any information about you except that required for system administration of the website.
+  * recognising that you may already have given a username and password so you don’t need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast
+  * analysing anonymised data to help us understand how people interact with govt services so we can make them better
 
-Cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are stored in the cookie directory of your hard drive, and do not expire at the end of your session. Cookies do not contain any personal information about you and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website.
 
-Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow or disallow the cookie. Alternatively, you can set your computer not to accept any cookie.
 
-This site uses Google Analytics code to gather statistical information. For more information on how Google Analytics processes this information, visit [www.google.com/analytics](http://www.google.com/analytics).
+You can manage these small files and learn more about them from the article, [Internet Browser cookies- what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Cookies article")
 
-**Cookies on the Number 10 website from other companies & social networking websites**
+Learn how to [remove cookies set on your device](http://www.aboutcookies.org/Default.aspx?page=1%27Our%20use%20of%20cookies%27 "removing cookies")
 
-During your visit to the site you may notice some cookies that are not related to number10.gov.uk. This happens when you visit a page with content embedded from a third party (for example YouTube videos) or use some of the links to social networking sites (e.g. Share This). These websites may place cookies on your computer.
+There are two types of cookie you may encounter when using [www.number10.gov.uk](https://web.archive.org/) :
 
-Number 10 does not control how a third party uses their cookies. You should check these third party websites’ privacy policies for more information about their cookies if you are concerned about this.
+**First party cookies** : these are our own cookies, controlled by us and used to provide information about usage of our site.
+
+**Third party cookies** : these are cookies found in other companies’ internet tools which we are using to enhance our site, for example Facebook or Twitter have their own cookies, which are controlled by them.
+
+### First party cookies
+
+**Number 10 Gov**
+
+*.number10.gov.uk (Number 10 websites) uses cookies in several places – we’ve listed each of them below with more details about why we use them and how long they will last.
+
+We will endeavour to let you know before we store a cookie on your computer.
+
+**Cookies set by Number 10 website**
+
+**Name** | **Purpose** | **Typical content** | **Expires**  
+---|---|---|---  
+ci_session | Authentication session to prevent having to login multiple times in one browser session. | Hashed data of username and authentication status [only at transparency.number10.gov.uk] | Expires on exit  
+  
+### Third party cookies
+
+We use a number of suppliers who may also set cookies on their websites’ on its behalf. The Number 10 does not control the dissemination of these cookies. You should check the third party websites for more information about these.
+
+Provider | **Name** | **Purpose** | **More info**  
+---|---|---|---  
+Google Analytics | _utma  
+_utmb  
+_utmc  
+_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)  
+Share This | __uset  
+__stid | Tracks what is being shared and by whom | [Share This privacy](http://sharethis.com/privacy)  
+Storify | _chartbeat2  
+storify-session  
+mp_super_properties |  |   
+Cover It Live | sessionid_xxxxxxx | Session cookie for the Cover It Live events page | [Cover It Live Privacy policy](http://www.coveritlive.com/index.php?option=com_content&task=view&id=47)  
+YouTube | VISITOR_INFO1_LIVE |  | [Google Policies and Principles](http://www.google.co.uk/intl/en/policies/privacy/key-terms/#toc-terms-cookie)  
+Facebook | datr  
+lu | Facebook Social Plugin – embedding Facebook content | [Facebook privacy policy](http://www.facebook.com/about/privacy/)  
+Silverpop | SESSION  
+SP_PAGE_VISIT.236775  
+VIEW | Identify subscription to the newsletter | [Silverpop privacy policy](http://www.silverpop.com/marketing-company/trust/privacy/privacy.html)  
+ImageFlickr | uvc  
+uuid  
+clid  
+ipinfo  
+acs |  | [ImageFlickr privacy policy](http://imapflickr.com/privacy.aspx)  
+Google Map | NNID  
+PREF |  | [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)  
+  
+#### How to control and delete cookies
+
+We will not use cookies to collect personally identifiable information about you.
+
+However, if you wish to restrict or block the cookies which are set by our website, or indeed any other website, you can do this through your browser settings. The ‘Help’ function within your browser should tell you how.
+
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
+
+Please be aware that restricting cookies may impact on the functionality of our website.
+
+If you wish to view your cookie code, just click on a cookie to open it. You’ll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.  
+For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+To opt-out of third-parties collecting any data regarding your interaction on our website, please refer to their websites for further information.
 
 #### Log files
 
