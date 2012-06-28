@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222155322id_/http%3A//www.radian6.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628062424id_/http%3A//www.radian6.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Radian6 - Social Media Monitoring and Engagement
+# Privacy Policy « Radian6 - Social media monitoring tools, social media engagement software and social CRM and marketing from the industry leader in social analytics.
 
 **Last Updated: September 1, 2010**
 
