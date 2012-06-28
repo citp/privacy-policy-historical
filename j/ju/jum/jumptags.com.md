@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumptags.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907123928id_/http%3A//www.jumptags.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumptags.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628035438id_/http%3A//www.jumptags.com/go/privacy) for the most accurate reproduction.*
 
 # Jumptags.com - Privacy Policy
 
