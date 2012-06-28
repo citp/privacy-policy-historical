@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922225013id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628064352id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
 
 # Legends of America Privacy Policy
+
+[](http://www.facebook.com/legendsofamerica)[](http://www.twitter.com/legendsamerica)
 
 [ Legends Home](http://www.legendsofamerica.com/index.html)
 
 [ Site Map](http://www.legendsofamerica.com/loa-sitemap.html)
 
-[ What's New!!](http://www.legendsofamerica.com/whatsnew.html)[ ](http://www.legendsofamerica.com/whatsnew.html)
+[What's New!! ](http://www.legendsofamerica.com/whatsnew.html)
+
+Content Categories:
 
 [ American History](http://www.legendsofamerica.com/americanhistory.html)
+
+[ Destinations-States](http://www.legendsofamerica.com/destinations.html)
 
 [ Ghost Towns](http://www.legendsofamerica.com/ghosttowns.html)
 
@@ -18,39 +24,115 @@
 
 [ Native Americans](http://www.legendsofamerica.com/na-nativeamericans.html)
 
-[The Old West](http://www.legendsofamerica.com/oldwest.html)
-
-[ Photo Galleries](http://www.legendsofamerica.com/photogalleries.html)
-
-[** Roadside Attractions**](http://www.legendsofamerica.com/roadsideattractions.html)
-
-[ Rocky Mtn Store](http://www.legendsofamerica.com/rockymountaingeneralstore.html)
+[Old West](http://www.legendsofamerica.com/oldwest.html)
 
 [ Route 66](http://www.legendsofamerica.com/66-main.html)
 
-[ Travel Destinations](http://www.legendsofamerica.com/destinations.html)
+[Travel Center ](http://www.legendsofamerica.com/trv-travelcenter.html)
 
 **[ Treasure Tales](http://www.legendsofamerica.com/treasures.html)**
 
-[ **Legends Blog**](http://legendsofamerica.blogspot.com/)
+**
 
-**[ Free E-Newsletter](http://www.legendsofamerica.com/newsletter.html)**
-
-[ ](http://www.facebook.com/LegendsOfAmerica?ref=nf)[**Facebook   Fanpage**](http://www.legendsofamerica.com/facebook.html)
-
-**[Twittering](http://twitter.com/legendsamerica)**
+**[About Us](http://www.legendsofamerica.com/aboutus.html)**
 
 **
 
-[ ](http://www.legendsofamerica.com/rm-exclusive.html)
+**[Advertising](http://www.legendsofamerica.com/advertising.html)**
 
-[ Contact Us](http://www.legendsofamerica.com/contact.html)
+**[Article/Photo Use](http://www.legendsofamerica.com/loa-reproduction.html)**
+
+**[Copyright Information](http://www.legendsofamerica.com/copyright.html)**
 
 **
 
-**   ** Though we strive for accuracy, we do make mistakes. We welcome corrections & feedback.  Report  [ HERE](http://www.legendsofamerica.com/brokenlink.html) or  [Email](mailto:dave@legendsofamerica.com).
+**[ Blog](http://legendsofamerica.blogspot.com/)**
 
-**** | | 
+**
+
+[Facebook Page](http://www.facebook.com/legendsofamerica)
+
+[Forum](http://legends.websitetoolbox.com/)
+
+**
+
+**[Guestbook](http://www.legendsofamerica.com/guestbook.html)**
+
+**
+
+[Links](http://www.legendsofamerica.com/loa-links.html)
+
+**
+
+** [ Newsletter](http://www.legendsofamerica.com/newsletter.html)**
+
+**
+
+[Privacy Policy](http://www.legendsofamerica.com/loa-privacypolicy.html)
+
+[Site Map](http://www.legendsofamerica.com/loa-sitemap.html)
+
+** [Writing Credits](http://www.legendsofamerica.com/loa-credits.html)**
+
+****
+
+We welcome corrections
+
+and feedback!
+
+**
+
+[Contact Us](http://www.legendsofamerica.com/contact.html)
+
+**
+
+[Legends Of America's](http://store.legendsofamerica.com/)
+
+**
+
+[ ](http://www.store.legendsofamerica.com/)
+
+**
+
+  
+[ Old West Mercantile](http://store.legendsofamerica.com/index.php?l=product_list&c=122)
+
+[ Route 66 Emporium](http://store.legendsofamerica.com/index.php?l=product_list&c=123)
+
+[ TeePee Trading Post](http://store.legendsofamerica.com/index.php?l=product_list&c=124)
+
+[ Book Shelf](http://store.legendsofamerica.com/index.php?l=product_list&c=5)
+
+[ History Tech](http://store.legendsofamerica.com/index.php?l=product_list&c=174)  
+[ Postcard Rack](http://store.legendsofamerica.com/index.php?l=product_list&c=11)
+
+[ Wall Art](http://store.legendsofamerica.com/index.php?l=product_list&c=172)
+
+and [Much More](http://www.store.legendsofamerica.com/)!
+
+  [ ](http://store.legendsofamerica.com/index.php?l=cart_view)
+
+[Legends' Photo Prints ](http://photos.legendsofamerica.com/)
+
+[ ](http://photos.legendsofamerica.com/)  
+ 
+
+[Ghost Town Prints](http://photos.legendsofamerica.com/ghosttowns)
+
+[Native American Prints](http://photos.legendsofamerica.com/nativeamericans)
+
+[Old West Prints](http://photos.legendsofamerica.com/oldwest)
+
+[Route 66 Prints](http://photos.legendsofamerica.com/route66)
+
+and [Much More!](http://photos.legendsofamerica.com/main)!  
+ 
+
+[ ](http://photos.legendsofamerica.com/cart.html)
+
+[ ](http://www.familyfriendlysites.com/)
+
+**** **** | | 
 
 |    
 ---  
@@ -95,10 +177,10 @@ Legends of America  abides by the laws and guidelines of the Internet. We welcom
 
 We **DO NOT** sell or rent any of the information kept in our database.     
   
-**[ From the Rocky Mountain General Store](http://www.legendsofamerica.com/rockymountaingeneralstore.html)**
+**[ From the Rocky Mountain General Store](http://store.legendsofamerica.com/)**
 
-**[ ](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html)[Vintage Magazines](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html) \- **_[Legends of America](http://www.legendsofamerica.com/)_ and the [ Rocky Mountain General Store](http://www.legendsofamerica.com/rockymountaingeneralstore.html) has collected a number of [ Vintage Magazines](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html), including _True West_ , _Frontier Times_ , _Treasure_ and more for our [Old West](http://www.legendsofamerica.com/oldwest.html) and [Treasure Hunting](http://www.legendsofamerica.com/treasures.html) enthusiasts.  For most of these, we have only one available.  To see this varied collection, click [ HERE!](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html)
+**[ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)[Vintage Magazines](http://store.legendsofamerica.com/index.php?l=product_list&c=22) \- **_[Legends of America](http://www.legendsofamerica.com/)_ and the [ Rocky Mountain General Store](http://store.legendsofamerica.com/) has collected a number of [ Vintage Magazines](http://store.legendsofamerica.com/index.php?l=product_list&c=22), including _True West_ , _Frontier Times_ , _Treasure_ and more for our [Old West](http://www.legendsofamerica.com/oldwest.html) and [Treasure Hunting](http://www.legendsofamerica.com/treasures.html) enthusiasts.  For most of these, we have only one available.  To see this varied collection, click [ HERE!](http://store.legendsofamerica.com/index.php?l=product_list&c=22)
 
-_**[ ](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html)**_**_     [ ](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html)    _**_**[ ](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html)**_**_     [ ](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html)    [ ](http://www.legendsofamerica.com/book-descriptions/vintagemagazines.html)_**  
+_**[ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)**_**_     [ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)    _**_**[ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)**_**_     [ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)    [ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)_**  
   
  
