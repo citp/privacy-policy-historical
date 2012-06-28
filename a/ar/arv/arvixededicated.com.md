@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arvixededicated.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208135020id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvixededicated.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628053229id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
 
 # Arvixe Privacy Policy
 
-Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. In addition, Arvixe complies with the U.S.-EU Safe Harbor Framework as set forth by the United States Department of Commerce and the European Union (for more information on the Safe Harbor Program please visit [http://export.gov/safeharbor/](http://export.gov/safeharbor)). This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data. 
+Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. In addition, Arvixe complies with the U.S.-EU Safe Harbor and the U.S.-Switzerland Safe Harbor Framework as set forth by the United States Department of Commerce, the European Union, and Switzerland (for more information on the Safe Harbor Program please visit [http://export.gov/safeharbor/](http://export.gov/safeharbor)). This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data. 
 
 **Privacy:** Arvixe is devoted to creating and nurturing a trusting relationship with its Customers, built on the knowledge that any personal information collected is kept private and secure. In undertaking this commitment, Arvixe will do everything in its capacity to ensure that the integrity of its Customer's privacy is upheld.
 
@@ -36,28 +36,10 @@ It is important to note that the websites linked to by Arvixe are not, nor shoul
 
 It should be noted that there are programs, such as key-loggers and viruses, that can intercept this information from the computers used to access your Arvixe account. Caution should be taken when using computers other than your own, especially on those used by a number of other users, such as in public.
 
-**Safe Harbor:** Arvixe complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Arvixe has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We are committed to resolving any complaints about the privacy, collection, or use of your personal information, as such, anybody with inquiries or complaints regarding this privacy policy should first contact Arvixe at privacy@arvixe.com.
+**Safe Harbor:** Arvixe complies with the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries or Switzerland. Arvixe has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We are committed to resolving any complaints about the privacy, collection, or use of your personal information, as such, anybody with inquiries or complaints regarding this privacy policy should first contact Arvixe at privacy@arvixe.com.
 
-Arvixe has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor Program, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Arvixe, you may contact the BBB EU Safe Harbor Program at the address below:
-
-Council of Better Business Bureaus, Inc.  
-
-
-BBB EU Safe Harbor  
-
-
-4200 Wilson Boulevard, Suite 800  
-
-
-Arlington, VA 22203  
-
-
-Phone: 703-276-0100  
-
-
-Website: [Safe Harbor Complaints](https://web.archive.org/web/20111208135020id_/http%3A//www.arvixe.com/www.bbb.org/us/safe-harbor/complaints)  
-
+Arvixe has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU and Switzerland Safe Harbor Program, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Arvixe, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 **Questions:** Questions regarding the Arvixe Privacy Policy may be directed to **privacy@arvixe.com**.
 
-**Updated:** April 25th, 2011
+**Updated:** April 3rd, 2012
