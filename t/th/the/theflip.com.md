@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflip.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218204712id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflip.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628055424id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement Highlights - Cisco Systems
 
@@ -43,15 +43,16 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 ### Onward Transfer
 
-  * As a global company, we may transfer your personal information to Cisco in the United States, any Cisco subsidiary worldwide or to third parties acting on our behalf located outside of the country where the data is collected where data protection standards may be different.
+  * As a global company, we may transfer your personal information to Cisco in the United States, to any Cisco subsidiary worldwide or to third parties acting on our behalf located outside of the country where the data is collected where data protection standards may be different.
   * We do not transfer your personal information to third parties unless those third parties promise to give the information the equivalent level of protection that we provide.
 
 
 
-### Enforcement/Oversight
+### Important Information
 
-  * We follow privacy policies and data protection practices to comply with the law and to earn the trust and confidence in Cisco.
+  * We follow privacy policies and data protection practices not only to comply with the law but to earn the trust and confidence in Cisco.
   * We address inquiries or complaints regarding personal information promptly and courteously. Cisco is a member of TRUSTe ([www.truste.com](http://www.truste.com/)) so if you are not satisfied with our response, you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=).
+  * Cisco participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of the participation in the Safe Harbor, we have agreed to TRUSTe Watchdog dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
 
 
 
@@ -59,4 +60,4 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 To find out more about our privacy practices, see the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html). Also, for additional information about our privacy and security compliance program, we encourage you to visit our [Privacy Portal](http://www.cisco.com/web/about/doing_business/legal/privacy_compliance/index.html#~1,).
 
-_Last updated: November 2011_
+_Last updated: January 2012_
