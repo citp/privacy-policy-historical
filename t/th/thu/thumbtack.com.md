@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224223354id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628194932id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
 
-# Thumbtack Privacy Policy
+# Privacy Policy - Thumbtack
 
-This Privacy Policy was last updated: June 10, 2009  
+This Privacy Policy was last updated: June 18, 2012  
 This Privacy Policy is effective as of: January 15, 2009 This Privacy Policy describes how we handle your personal information, and the measures we take to protect it and use it responsibly.
 
-Thumbtack, Inc. ("Thumbtack") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance. This Privacy Policy details certain policies implemented throughout Thumbtack governing Thumbtack's use of personal data collected through Thumbtack's website located at [www.thumbtack.com](https://web.archive.org/web/20111224223354id_/http%3A//www.thumbtack.com/www.thumbtack.com) (the "Website") and the services provided by Thumbtack on the Website ("Services"). The Privacy Policy describes how we handle your personal information in connection with your use, and our operation, of the Website and Services, including the kind of personally identifiable information that we gather and how it is used and disclosed.
+Thumbtack, Inc. ("Thumbtack") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance. This Privacy Policy details certain policies implemented throughout Thumbtack governing Thumbtack's use of personal data collected through Thumbtack's website located at [www.thumbtack.com](https://web.archive.org/web/20120628194932id_/http%3A//www.thumbtack.com/www.thumbtack.com) (the "Website") and the services provided by Thumbtack on the Website ("Services"). The Privacy Policy describes how we handle your personal information in connection with your use, and our operation, of the Website and Services, including the kind of personally identifiable information that we gather and how it is used and disclosed.
 
 If you have any questions or comments about the Privacy Policy, please contact us at [support@thumbtack.com](mailto:support@thumbtack.com). Let us know if you have any questions or comments about this Privacy Policy.
 
@@ -29,7 +29,11 @@ We may collect aggregate information from your use of our Website and Services, 
 
   4. COLLECTION OF COOKIES INFORMATION 
 
-We may collect information from you by using cookies. A cookie is a small file stored on user's computer hard drive containing information about the user. The cookie helps us analyze web traffic or informs you about your use of a particular website. Cookies allow web applications to respond to you as an individual, tailoring its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. When you visit the Website, we may send one or more cookies (i.e., a small text file containing a string of alphanumeric characters) to your computer that identifies your browser. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you disable cookies you may be prevented from taking full advantage of the Website because it may not function properly if the ability to accept cookies is disabled. Like most other websites, Thumbtack collects information from your web browser using "cookies." We use cookies to tailor your use of Thumbtack to your preferences. If you don't want us to use cookies, simply disable them in your web browser.
+We may collect information from you by using cookies. A cookie is a small file stored on user's computer hard drive containing information about the user. The cookie helps us analyze web traffic or informs you about your use of a particular website. Cookies allow web applications to respond to you as an individual, tailoring its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. When you visit the Website, we may send one or more cookies (i.e., a small text file containing a string of alphanumeric characters) to your computer that identifies your browser.
+
+Some of these cookies may be connected to third-party companies or websites. The terms of use of such cookies are governed by this Privacy Policy and the privacy policy of the relevant third-party company or website. For example, Google measures the performance of advertisements by placing cookies on your computer when you click on ads. If you visit the Website when you have such a cookies on your computer, we and Google will be able to tell that you saw the ad delivered by Google. The terms of use of these cookies are governed by this Privacy Policy and [Google's Privacy Policy](http://www.google.com/policies/privacy/).
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you disable cookies you may be prevented from taking full advantage of the Website because it may not function properly if the ability to accept cookies is disabled. Like most other websites, Thumbtack collects information from your web browser using "cookies." We use cookies to tailor your use of Thumbtack to your preferences. If you don't want us to use cookies, simply disable them in your web browser.
 
 
 
@@ -108,7 +112,7 @@ We may disclose your personal information to prevent an emergency, protect or en
 
   2. INFORMATION DISCLOSED TO THIRD PARTY SERVICE PROVIDERS 
 
-We may contract with various third parties for the provision and maintenance of the Website, Services and our business operations, and Thumbtack may need to share your personally identifiable information [and data generated by cookies and aggregate information] with these vendors and service agencies. For example, we may provide your personally identifiable information to a credit card processing company to process your payment. The vendors and service agencies will not receive any right to use your personally identifiable information beyond what is necessary to perform its obligations to provide the Services to you.
+We may contract with various third parties for the provision and maintenance of the Website, Services and our business operations, and Thumbtack may need to share your personally identifiable information and data generated by cookies and aggregate information with these vendors and service agencies. For example, we may provide your personally identifiable information to a credit card processing company to process your payment. The vendors and service agencies will not receive any right to use your personally identifiable information beyond what is necessary to perform its obligations to provide the Services to you.
 
   3. INFORMATION DISCLOSED TO LAW ENFORCEMENT OR GOVERNMENT OFFICIALS 
 
@@ -163,5 +167,5 @@ THUMBTACK MAY, IN ITS SOLE AND ABSOLUTE DISCRETION, CHANGE THIS PRIVACY POLICY F
 Our computer systems are currently based in the United States, so your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create an Account with the Website as a visitor from outside the United States, by using the Website, you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
 
 Thumbtack, Inc.  
-1001 Page Street, Suite #45  
-San Francisco CA 94117
+454 Natoma St.  
+San Francisco CA 94103
