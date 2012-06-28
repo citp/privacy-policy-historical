@@ -1,143 +1,141 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212005918id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628210513id_/http%3A//www.twiends.com/privacy) for the most accurate reproduction.*
 
 # Twiends Privacy Policy
 
-### Privacy Policy
+### Privacy policy
 
-This Policy applies as to all products and services provided by twiends, Webcandy the owner and provider of twiends, and yourself the User of twiends. This Policy applies to our use of any and all Data collected by us in relation to your use of twiends and any Services or Systems therein.
+First and foremost, twiends is here to offer a good and honest service to those who want primarily to grow their reach on Twitter. We ask that you use the service fairly and honestly too. This Policy applies as to all products and services provided by twiends, Webcandy the owner and provider of twiends, and yourself the User of twiends. This Policy applies to our use of any and all Data collected by us in relation to your use of twiends and any Services or Systems therein. Please read the following carefully to understand our views and practices regarding your personal data and how we treat it. 
 
-##### 1\. Definitions and Interpretation 
+##### 1\. Definitions & interpretations
 
-In this Policy the following terms shall have the following meanings: 
+The following terms shall have the following meanings:
 
-“ **Account** ” means collectively the personal information, payment information and credentials used by Users to access material and / or any communications System on twiends;
+“ **Account** ” means collectively the personal information, payment information and credentials used by Users to access material and/or any communications System on twiends
 
-“ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of twiends;
+“ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of twiends
 
-“ **Cookie** ” means a small text file placed on your computer by twiends when you visit certain parts of the Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within twiends. 
+“ **Cookie** ” means a small text file placed on your computer by twiends when you visit certain parts of the Website. This allows us to identify recurring visitors and to analyse their browsing habits within twiends
 
-“ **Data** ” means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+“ **Data** ” means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems
 
-“ **Twiends** ” / “ **twiends** ” means the Web Site and Webcandy Limited, Parfitts Farm, Chequers Lane, Eversley, United Kingdom;
+“ **Twiends** ”/“ **twiends** ” (‘We’/‘Us’/‘Webcandy’) means the Website and Webcandy Limited, Registered Office: Parfitts Farm, Chequers Lane, Eversley, Hampshire, RG27 0NR United Kingdom; Company Number 07024033
 
-“ **Service** ” / “ **Services** ” means collectively any online facilities, tools, services or information that Webcandy makes available through twiends either now or in the future;
+“ **Service** ”/“ **Services** ” means collectively any online facilities, tools, services or information that Webcandy makes available through twiends either now or in the future
 
-“ **System** ” means any online communications infrastructure that twiends makes available through twiends either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
+“ **System** ” means any online communications infrastructure that twiends makes available through twiends either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links
 
-“ **User** ” / “ **Users** ” means any third party that accesses twiends and is not employed by twiends and acting in the course of their employment; 
+“ **User** ”/“ **Users** ” means any third party that accesses twiends and is not employed by twiends and acting in the course of their employment 
 
-“ **Web Site** ” means the website that you are currently using (twiends.com) and any sub-domains of this site (e.g. support.twiends.com unless expressly excluded).
+“ **Website** ” means the website that you are currently using (twiends.com) and any sub-domains of this site (e.g. support.twiends.com unless expressly excluded)
 
-“ **Webcandy** ” means Webcandy Limited, the owner of twiends, the Web Site, and the provider of the Services.
+“ **Webcandy** ” means Webcandy Limited, the owner of twiends, the Website, and the provider of the Services.
 
-##### 2\. Data Collected
+##### 2\. Protecting your privacy
 
-Without limitation, any of the following Data may be collected:
+We use the latest technologies and processes to ensure that any information (personal data) that you supply us is kept secure at all times.
 
-2.1 name;
+This policy (together with our [Terms](https://web.archive.org/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
-2.2 date of birth;
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is David Sumter at Webcandy Limited.
 
-2.3 gender;
+Our nominated representative for the purpose of the Act is Michael Coyle a Solicitor Advocate at Lawdit Solicitors.
 
-2.4 business industry;
+##### 3\. Information collected from you
 
-2.5 contact information such as email addresses and telephone numbers;
+This is the information you provide by filling in forms on http//www.twiends.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. This may include; your name; date of birth; gender; business industry; contact information such as email addresses and telephone numbers; demographic information such as post code, preferences and interests; website profile information.
 
-2.6 demographic information such as post code, preferences and interests;
+3.1 We may also ask you for information when you enter a competition or promotion sponsored by Webcandy, and when you report a problem with our site.
 
-2.7 Cookie information (see clause 10 below);
+3.2 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-2.8 financial information such as purchase history
+3.3 If you contact us, we may keep a record of that correspondence.
 
-2.9 IP address (automatically collected);
+3.4 Details of transactions you carry out through our site including purchase history and of the fulfilment of your orders.
 
-2.10 web browser type and version (automatically collected);
+3.5 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-2.11 operating system (automatically collected);
+3.6 Details of your use of our services, including the online social connections made or received by you through twiends.
 
-2.12 a list of URLS starting with a referring site, your activity on twiends, and the site you exit to (automatically collected); and
+3.7 Twitter profile information provided to us through the Twitter API with your express permission.
 
-2.13 Twitter profile information provided to us through the Twitter API and your express permission;
+3.8 Other automatically collected information will include; web browser type and version; operating system; a list of URLS starting with a referring site, your activity on twiends, and the site you exit to.
 
-2.14 Facebook profile information provided to us through the Facebook API and your express permission;
+##### 4\. Your IP address
 
-2.15 Youtube profile information provided to us through the YouTube API and your express permission;
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-2.16 Website profile information;
+##### 5\. Cookies
 
-2.17 Online social connections made or received by you through twiends.
+We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, such as the cookies we use to identify you when you log in. If you register with us or if you continue to use our site, you agree to our use of cookies. You also give consent to the use of cookies if you sign in with your twitter account. Please note that our advertisers may also use cookies, over which we have no control. More detail on the cookies we use can be found [here](https://web.archive.org/cookies).
 
-##### 3\. Our Use of Data
+##### 6\. How your data is stored
 
-3.1 Any personal Data you submit will be retained by twiends for as long as you use the Services and Systems provided on twiends. Data that you may submit through any communications System that we may provide may be retained for a longer period.
+The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-3.2 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. 
+All information you provide to us is stored on our secure servers. Any payment transactions will be handled by PayPal and encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. Fore more details on security, see clause 9 below.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-3.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
+##### 7\. How we use your information
 
-3.4.1 internal record keeping;
+We use information held about you in the following ways:
 
-3.4.2 improvement of our products / services;
+7.1 To ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-3.4.3 transmission by email of promotional materials that may be of interest to you;
+7.2 To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
 
-3.4.4 contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update twiends.
+7.3 To carry out our obligations arising from any contracts entered into between you and us. 
 
-##### 4\. Third Party Web Sites and Services
+7.4 To allow you to participate in interactive features of our service, when you choose to.
+
+7.5 To notify you about changes to our service.
+
+##### 8\. Third party websites & services
+
+We may use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you.
+
+If you are an existing member, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+
+If you are a new member, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
 Twiends may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of twiends. Any Data used by such parties is used only to the extent required by them to perform the services that twiends requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
 
-##### 5\. Changes of Business Ownership and Control
+If you do not want us to use your data in this way, please email a request to remove your information from our records to info@twiends.com.
 
-5.1 Twiends may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
+##### 9\. Disclosure of your information
 
-5.2 In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-##### 6\. Controlling Access to your Data
+The reasons we may disclose your personal information are:
 
-6.1 Wherever you are required to submit Data, you will not be given options to restrict our use of that Data.
+9.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-##### 7\. Your Right to Withhold Information
+9.2 If Webcandy or substantially all of its assets are acquired by a third party, in which case personal data held by it about its members will be one of the transferred assets.
 
-7.1 You may access certain areas of twiends without providing any Data at all. However, to use all Services and Systems available on twiends you may be required to submit Account information or other Data.
+9.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
 
-7.2 You may restrict your internet browser’s use of Cookies. For more information see clause 10.4 below.
+##### 10\. Your rights
 
-##### 8\. Accessing your own Data
+You may access certain areas of twiends without providing any Data at all. However, to use all Services and Systems available on twiends you may be required to submit Account information or other Data.
 
-8.1 You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at info@twiends.com.
 
-8.2 You have the right to ask for a copy of your personal Data on payment of a small administrative fee.
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-##### 9\. Security
+You have the right to opt out of receiving information from twiends at any time. You can turn-off notifications on the settings page if you don't want to receive system notifications.
 
-9.1 Data security is of great importance to twiends and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
+You have the right to delete your account on the [advanced settings](https://web.archive.org/advanced) page at any time; this will also terminate any future communications.
 
-##### 10\. Cookies
+You may contact us at any time via the [contact](https://web.archive.org/contact) page or [support](http://support.twiends.com/) page to terminate communications.
 
-10.1 Twiends may set and access Cookies on your computer.
+##### 11\. Access to your information
 
-10.2 A Cookie is a small file that resides on your computer’s hard drive and often contains an anonymous unique identifier and is accessible only by twiends that placed it there, not any other sites.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-10.3 You may delete Cookies, however you may lose any information that enables you to access twiends more quickly.
+##### 12\. Changes to our policy
 
-10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on twiends.
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-##### 11\. Opting-Out
+##### 13\. Contact us
 
-11.1 You may opt out of receiving information from twiends at any time.
-
-11.2 You may turn-off notifications on the [settings page](https://web.archive.org/settings/general) if you don't want to receive system notifications.
-
-11.3 Deleting your account on the [advanced settings page](https://web.archive.org/settings/advanced) will also terminate any future communications. 
-
-11.4 If you have signed up to our external newsletter you can terminate this at any time by clicking the unsubscribe link at the bottom of each email.
-
-11.5 You may contact us at any time via the [contact page](https://web.archive.org/contact) or [support page](http://support.twiends.com/) to terminate communications.
-
-##### 11\. Changes to this Policy
-
-Twiends reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on twiends and you are deemed to have accepted the terms of the Policy on your first use of twiends following the alterations.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@twiends.com. 
