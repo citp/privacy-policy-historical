@@ -1,160 +1,140 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215020851id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628060453id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy | Do Something
+# Privacy Policy | Do Something
 
-DoSomething.org is a not-for-profit organization for teens that want to change our world. This site is designed to offer resources to help teens change our world and has established online security measures to ensure the safety of every user.
+We at Do Something, Inc. and DoSomething.org (collectively " **Do Something** ") love teens. They are creative, active, wired… and frustrated that our world is so messed up. Do Something harnesses that awesome energy and unleashes it on causes teens care about. Almost every week, we launch a new national campaign. The call to action is always something that has a real impact and doesn't require money, an adult, or a car. With a goal of 5 million active members by 2015, Do Something is one of the largest organizations in the US for teens and social change.
 
-DoSomething.org has a privacy policy. It was created by the Do Something Board of Directors in Summer 2003 to protect one of our greatest assets: your trust. We’ve created this privacy statement in order to demonstrate our firm commitment to online privacy. The following discloses our online information gathering and dissemination practices.
+Because we believe in teens so much, we're also super-passionate about their safety, security, privacy, and other stuff like that.
 
-Our promise about your personal information: If we collect information from you, we use it only for the purposes for which it was collected, and the other limited purposes outlined below. We will not sell or share your personally identifiable information with any third party.
+Do Something has a privacy policy (" **Privacy Policy** ") that governs our website ([http://www.dosomething.org](http://www.dosomething.org/)) and any other products, services, and/or content provided by Do Something (collectively, the " **Services** "). It's here to protect one of our greatest assets: trust. We've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. The following explains our online information gathering and dissemination practices. (And we've tried to keep the lawyers' paws off it, instead writing it in a way that you can actually understand how much we genuinely care about your safety and what we're doing to protect it.)
 
-Here are the details of our privacy policies. This statement may change over time -- please review it periodically. 
+Our promise to you: If we collect information from you, we use it only for the purposes for which it was collected and the limited purposes outlined below. We will not sell or share your personally identifiable information with any third party. (Read: you're not going to be receiving random credit card offers in the mail because of us. Ew. We'd never do that.)
 
-### Types of Information Collected; Uses of Information
+Here are the details of our Privacy Policy. This policy may change over time, so please check back every once in a while. Like, the next time you are waiting in line to score Hunger Games movie tickets.
 
-We collect some non-personally identifiable information automatically and some in our registration forms and online surveys. Certain, non-personally identifiable information (including, but not limited to, your IP address, the type of browser and operating system you are using, the domain name from which you linked to our site) might be collected by our web servers to help diagnose technical problems and to help administer our website. We may share this information with our other business partners on an aggregated basis or for the expressed purposes of web site functionality.
+Do Something is a closed community and email addresses are requested to participate in some of our member-only features.
 
-Our site's registration form and online surveys may request or require users to give us personally identifiable information (like their name, telephone number, home address and e-mail address). 
+Finally, while as a non-for-profit organization exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code, Do Something is exempt from compliance with the Children's Online Privacy Protection Act of 1998, we take children's privacy seriously, and encourage users and their parents to review our Privacy Policy and Terms of Service to understand our information collection practices.
 
-We may use the information from our registration forms and surveys to contact the user, but users may opt-out of receiving future mailings (see the choice/opt-out section below). We will not sell or disclose your personally identifiable data to any third party unless we first obtain explicit permission from you. For instance: sometimes journalists want to talk with our BRICK Award winners (and other all-stars). Even that info we don’t hand out without express written permission.
+## 1\. When Does Do Something Collect My Personal Information?
 
-* * *
+When you share it with us by, for example: (1) sharing your email address, birthdate, phone number, or other information when subscribing to our newsletter or registering with us to form an account (" **Account** "), (2) sharing personal information when you submit a report via our contact form, (3) sharing personal information when you post comments, (4) sharing contact information (i.e., Twitter username and Facebook account name) through our contests or platform, (5) signing up to be a member online by email or Facebook Connect, (6) participating in a survey where an email address is requested; (7) sharing other personal information with us through forms, contest entries, or other communications with us. 
 
-### Cookies
+Also, whenever you visit the Services, we may passively collect certain information about your web browser, Internet Protocol Address (" **IP Address** "), or mobile device, through the use of "cookies" or other methods, as described more fully below.
 
-We may use "cookies" to determine whether you have visited our site previously and to save and remember any preferences that you set while using our site. Our cookies cannot retrieve any other data from a hard drive or obtain an e-mail address. Although a user has the ability to modify most browsers to either accept all cookies, notify the user when a cookie is sent, or reject all cookies, it may not be possible to utilize certain services at dosomething.org if cookies are rejected.
+In addition to that information, our analytics trackers may also collect other information. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer. (Why would we want such random information? Our geeks use this information to know what kind of stuff to build, so that it works on all your gadgets.)
 
-### Links
+## 2\. What Information We Collect and How We Use It
 
-DoSomething.org only links to other non-profit or for-profit organizations that qualify as strategic partners. This site contains links to other sites. DoSomething.org is not responsible for the privacy practices or the content of such Web sites. 
+**Accounts.** An Account on the Services has the standards: your username, password, and email address. You may also be required to provide us with your birthdate, which we use to verify your age and may use to personalize the Services for you. (Read: we might send you a coupon for a free ice cream cone on your birthday. Seriously. We're pitching companies right now. We love free ice cream.)
 
-### User Generated Content
+**Emails.** The email address you provided through our newsletter subscription form enables us to send you email communications. This subscription is entirely opt-in. (We are pro-freedom and liberty here. We think democracy is a pretty good system.) **Note that we will never email you to ask for your password or other Account information; if you receive such an email,** [forward it to us](mailto:help@dosomething.org). Seriously. (This is just a good lesson for every site and every email: if someone contacts you to tell you that you won a lottery in Nigeria, but first they need your email and passwords, ummm, think twice.) **Your Accounts on Third Party Services.** You can link your Account to certain websites or applications operated by third parties (i.e. Facebook) (" **Third Party Services** "). In order to do so, you may provide us with your username or other user ID on each of those Third Party Services. You may also be required to engage in an authorization process with each of those Third Party Services, where we receive a "token" that allows us to access those accounts so that we can post your content, to those Third Party Services. We do not receive your passwords for your accounts with Third Party Services unless the privacy policies or terms of use of those Third Party Services permit it; we would not store those passwords in any event.
 
-The views, opinions, and comments expressed on our message boards DO NOT reflect the views and opinions of DoSomething.org as an organization. DoSomething.org is a not-for-profit and does not directly support or push any political, social, or religious agendas. We love all of our users equally.
+**Information Obtained from Third Party Services.** In some cases, you may be able to connect your Account with your accounts on Third Party Services (i.e. Facebook). If you choose to connect your Account with such Third Party Services, we may obtain additional information about you from those Third Party Services. Such information could include any information you have disclosed to that third party and made available for Do Something to access, including, for example, username, photo or avatar, user ID, biographical or demographic information (e.g. school, gender, zip code, etc.), likes and interests, contacts/friends/associations, any other information that is publicly available on those Third Party Services. (Please review the privacy policies of the relevant Third Party Services to know what information they may provide to us; we have no control over how Third Party Services use or disclose information that you share with them.) To the extent that we obtain such information, such information will be governed by this Privacy Policy. We may use the information about you that we receive from Third Party Services to improve and personalize the Services. It's also in our Mama Bear nature to strongly urge you to make careful judgments about any personal information you disclose to Internet services, including Do Something, Third Party Services, or any other website, regardless of whether you choose to link your Account to any Third Party Services. (Think before you share, sweetie.)
 
-**Digital Millennium Copyright Act**
+**Information We Get from Surveys, Contests and Promotions.** The email address associated with your Account when you comment may be used in conjunction with contests and promotions hosted on the Services to notify you if you have won. Email addresses provided in comments may also be used as a customer service and policy violation contact mechanism.
 
-A. If you are a copyright owner or an agent thereof and believe that any Content infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing our Copyright Agent with the following information in  
-writing (see 17 U.S.C 512(c)(3) for further detail):
+We may at times request your participation in a survey. We may contact you via those email addresses that you provided in order to distribute prizes in associated giveaways, but we will not provide your email addresses to any third party.
 
-  * A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
-  * Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
-  * Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the service provider to locate the material;
-  * Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
-  * A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-  * A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-  * DoSomething.org's designated Copyright Agent to  
-receive notifications of claimed infringement is Peter Weinberg, 200 Park Avenue, New York, NY 10166, email: [copyright@dosomething.org](mailto:copyright@dosomething.org), fax: 212-254-2391. For clarity, only DMCA notices should go to the Copyright  
-Agent; any other feedback, comments, requests for technical support, and other communications should be directed to DoSomething.org user relations through [user@dosomething.org](mailto:user@dosomething.org). You acknowledge that if you fail to comply with all of the requirements of this Section 5(D),  
-your DMCA notice may not be valid.
+If you are under the age of 13, you must provide your parent or guardian's email address when entering a Do Something survey, contest, or promotion. We will notify your parent or guardian of your entry and give them the opportunity to cancel the entry. We are prohibited from conditioning a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in such activity. 
 
+**User Content.** By default, all sharing through the Services is public, and when you provide us with content it is published so that anyone can view it. (Hence the term worldwide web. Your granny in Florida might see that photo and so will anyone else with Internet access.) Content published and shared publicly is accessible to everyone (including search engines and your ex-boyfriend's mom), so you may lose any privacy rights you might have regarding that content. In addition, information shared publicly may be copied and shared throughout the Internet, including through features native to the Services. While you are free to delete your Account, content can be like a vampire and live on through re-blogging of your content by others, and due to technological limitations inherent to the Services, copies of that content may exist elsewhere and be retained indefinitely, including in our systems. Simply, you can wear a necklace of garlic, but once you've posted stuff, it's super hard to kill it, even if Buffy is your bff.
 
+**Information Related to Use of the Services.** We collect information about how people use the Services, including those with an Account. It's not to be creepy; it's to help provide you with content that you want. This information includes general usage information, and may include information such as the number and frequency of our visitors, which pages or features of the Services they have visited, which links on the Services they have clicked on, and the length of those visits. We may also use third-party applications and services, such as Google Analytics and Quantcast, to collect and analyze this information. This information enables us and third parties authorized by us to figure out how often individuals use the Services so that we can analyze and improve them. Some of this information may be associated with the IP Address used to access the Services, and some may be associated with your Account, such as the topics you search for and the help pages that you visit. We may also use some of this information in aggregate form, that is, as a statistical measure related to all of our users that would not identify you personally. We use information about your use of the Services to improve and enhance your experience on the Services. (This information tells us to write more often about One Direction, and maybe not so much about the Jonas Brothers.)
 
-B. Counter-Notice. If you believe that your Content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to post and use the material in your Content, you may send a counter-notice containing the following  
-information to the Copyright Agent:
+**Information Related to Your Web Browser.** We automatically receive and record information from your web browser when you interact with the Services, such as your browser type and version, what sort of device you are using, your operating system and version, your language preference, the Services or a service that referred you to the Services, the date and time of each web request you make, your screen display information, and information from any cookies we have placed on your web browser (as described below). We also sometimes detect whether you are using certain web browser extensions and store that information in a manner associated with your Account. Web browser-related information is used to enhance your experience with the Services (for example, by personalization) and to allow us to improve the Services; it is not, however, used in a manner that would identify you personally.
 
-  * Your physical or electronic signature;
-  * Identification of the Content that has been removed or to which access has been disabled and the location at which the Content appeared before it was removed or disabled;
-  * A statement that you have a good faith belief that the Content was removed or disabled as a result of mistake or a misidentification of the Content; and
-  * Your name, address, telephone number, and e-mail address, a statement that you consent to the jurisdiction of the federal court in New York, New York, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+**IP Address Information.** Under certain circumstances, such as when you log into the Services, load a web page from the Services, or send an "Ask" message anonymously, we may collect and store your IP Address. We generally use IP Address information to fight spam, malware, and identity theft; we also may use it, in the future, to personalize the Services for you. IP Address information is also used by us to generate aggregate, non-identifying, information about use of the Services.
 
+**Location Information.** In some cases we collect and store information about where you are located, such as by converting your IP Address into a rough geolocation. We may use location information to improve and personalize the Services for you.
 
+**Information Related to Your Mobile Device.** We may collect and store information related to your mobile device, such as your phone number, if you provide it to us. We may use this information to improve the Services, such as by allowing you to verify your Account by text message. Again, you can dump us anytime you like. Just simply text STOP to 38383 and we'll be sad, but we'll understand and stop texting you.
 
-If a counter-notice is received by the Copyright Agent, DoSomething.org may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed Content or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the  
-Content provider, member or user, the removed Content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at DoSomething.org's sole discretion.
+**Information Collected Using Cookies.** While we'd prefer to eat warm white chocolate chunk cookies with a nice hot cocoa, we'll settle with using computer "cookies" to determine whether you have visited the Services previously and to save and remember any preferences that you set while using the Services. Our cookies cannot retrieve any other data from a hard drive or obtain an email address. Although a user has the ability to modify most browsers to either accept all cookies, notify the user when a cookie is sent, or reject all cookies, it may not be possible to utilize certain parts of the Services if cookies are rejected.
 
-Content and pictures posted on DoSomething.org may be reused across the site and in promotional materials. DoSomething reserves the right to use photographs uploaded to the site in order to promote and publicize itself and its mission. If you have questions email [help@dosomething.org](mailto:help@dosomething.org)
+**Derived Information.** We wanna get to know you. We analyze your actions on the Services in order to derive or infer characteristics that may be descriptive of you. These characteristics are used to improve and personalize the Services. 
 
-### Message Boards 
+**Email Tracking.** We don't count our eggs before they hatch, so we may place information in our emails to you (such as a web beacon) that allows us to measure our email deliverability.
 
-**Message Board Do’s**
+## 3\. How Does Do Something Use My Personal Information?
 
-  * Use message boards to discuss causes you care about
-  * Have open, honest debates about issues that matter
-  * Post opinions, information and news summaries relevant to making the world a better place
-  * Report messages that violate our policy
-  * Use message boards to give DoSomething.org feedback on its completely flawless website
+Depending on the portion of the Services that you have interacted with, we may use your information in a number of ways. **We will never sell your email information nor will we ever sell or publish personally identifiable information. (And we think it's really icky that other organizations do this. Ick.)**
 
+We don't share information we receive from you unless: (a) we have your permission to share that information; (b) we have given you prior notice that the information will be shared, and with whom; or (c) that information is aggregate information or other information that does not identify you.
 
+**Information Shared with the Public Through the Services.** As noted above, by default, content published through the Services is shared with the public, and this is an important feature of the Services. Because this kind of information can be seen by anyone and may be indexed by search engines, you should be careful in what you choose to disclose publicly and make sure it is information you want to share with everyone.
 
-**Message Board Don’ts**
+**Information Shared Between the Services.** We may, if possible, aggregate information about your use of multiple Services and use that consolidated information to improve how the Services operate, and to develop new Services.
 
-  * Share personal or private info
-  * Threaten fellow message boarders
-  * Offend any specific race, religion, sexual orientation, or culture
-  * Post or distribute sexually explicit, vulgar, or obscene content
-  * Impersonate another message boarder, DoSomething.org Staff Member, or anyone else you are not
-  * Post copyrighted material or material created by others with out direct permission
-  * Post direct solicitations for funds or advertisements for any goods or services
-  * Post offensive material of any kind
-  * Post links to external websites 
+**Information You Share with Third Party Services.** You may access certain Third Party Services through the Services. You may also choose to share information that you provide to us with those Third Party Services. Note that if you share information with Third Party Services, the Third Parties operating those Third Party Services will not be bound by this Privacy Policy. This Privacy Policy only governs information we collect and you are responsible for reading and understanding those Third Party Services' privacy policies.
 
+**Information We May Share with Third Parties.** We may share or disclose non-private information, aggregate information, or other information that does not personally identify you with people and entities that we do business with.
 
+**Information Disclosed for Our Protection and the Protection of Others.** We believe in freedom of expression, and, to the extent reasonable, we try to protect our community from baseless legal demands. That said, we also reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues (including exchanging information with other companies and organizations for fraud protection and spam/malware prevention), (iv) respond to user support requests, or (v) protect the rights, property, health, or safety of us, our users, any third parties, or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm.
 
-DoSomething.org can decide, in its sole discretion, what is inappropriate for our message boards and can send users to the Sin Bin (restrict your access) or delete your account at any time. 
+## 4\. The Security of Your Information
 
-**Message Board Link Policy = Do not directly link to external sites**
+Your Account information is protected by a password for your privacy and security. (Read: we aren't afraid to whoop computer-hacker booty.) You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account on the Services.
 
-2 Reasons why:
+We use reasonable efforts to protect your information (including your Account information) to ensure that it is kept private; however, we can't guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-  * We do not want our message boards to become a junkyard of random links. Over time news articles and other web links on any service change, by properly quoting or summarizing articles, posts will be clearer and will last longer as a resource for other members. 
-  * Safety, we only want to link to approved (partnered) organizations that have passed our partnership criteria. 
+## 5\. What Information You Can Access
 
+If you are a registered user, you can access and delete most information associated with your Account by logging into the Services and checking your Account Settings page. Registered and unregistered users can access and delete cookies through their web browser settings. **Your California Privacy Rights.** Under California Civil Code sections 1798.83, California resident customers with whom we have an established business relationship are entitled, once per calendar year, to ask us for a notice identifying the categories of personal information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to us at the following address: DoSomething.org, 19 West 21st Street, 8th Floor, New York, NY 10010.
 
+## 6\. How to Delete Your Account and What Happens When You Delete Your Account
 
-Direct site addresses will be edited, or rephrased on a case by case basis by DoSomething.org moderators. ****
+If you want to delete your Account (L), you can do so from your [Preferences page](http://www.dosomething.org/user) or by [emailing us](mailto:help@dosomething.org) and providing proof of authority over the Account. What constitutes "proof of authority" will vary depending on the circumstances, but generally will require sufficient identifying information so that we can be confident you are the Account owner. Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account information may not be immediately removed. In addition, given the nature of sharing on the Services, some of the public activity on your Account prior to deletion may remain stored on our servers and accessible to the public.
 
-### Consequences –the Sin Bin
+## 7\. Content
 
-Users that post 3 or more messages that violate the ‘Do’s and Don’ts’ of the message board will be emailed and then get their accounts suspended for 2 weeks. Further violations of message board policy will result in permanent suspension of the user’s account and blocking of user’s IP address.
+We <3 free speech, and we don't censor content based on political or ideological point of view or of a critical nature. We do reserve the right to delete content that is off-topic, "spammy" in nature, abusive, uses excessive foul language, or includes ad hominem attacks. Frankly, we want content to be nice, constructive thoughts on how to create more great social change! So when we see someone post an ad for a free credit report score, we yank it. And, if you see content like this, please help us maintain our community by flagging it.
 
-### Moderation
+All content contributed to Do Something must adhere to the following policy, and may be edited or removed at Do Something's discretion if it is deemed to be in violation of this policy.
 
-Every member of the DoSomething.org community acts as a moderator through the abuse-reporting system. Members are asked to ‘if they see something, do something’ about inappropriate content. When inappropriate user generated content is found the owner is contacted and the post is edited or removed as needed.
+  * **Personal Attacks.** It's not cool to launch personal attacks. Seriously. We're a charity trying to make the world a better place! Be nice to authors, other users, or any individual. We also don't tolerate persistent trolling or mindless abuse. The Do Something community discusses topics by furthering the conversation maturely and informing the participants with resourceful and constructive ideas.
+  * **Hate speech.** Racism, sexism and homophobia will not be tolerated!
+  * **Language and Threats.** Please watch your language and respect other people's views, beliefs and emotions. We reserve the right to remove any content that might be found extremely offensive or threatening. (Hopefully you learned the whole "play nice with others" thing a long time ago.)
+  * **No Spam.** Spam in all forms is gross. It will be removed from our fridge, our shelves, our website, and anywhere else we find it lurking.
+  * **Smear Tactics.** Although we acknowledge criticism of our articles, our writers, and any other content or person represented on the Services, we will not allow misrepresentation. We will distinguish between constructive arguments and smear tactics.
+  * **Relevancy.** Please keep conversations relevant. Off-topic content is subject to removal in order to keep the thread on track.
+  * **Quality.** We encourage you to take responsibility for the quality of the conversations in which you're participating. Maintain intelligent discussions in the Do Something community by being respectful and considerate.
+  * **Help us.** Maintain an inviting interaction space by self-policing threads and flagging spam. Although we have a hands-on approach to community engagement, we do sometimes miss problem content providers or trolls. We appreciate your efforts to keep the Do Something community environment inviting, insightful and constructive. Let the conversations be quality ones.
 
-There is one full time DoSomething.org staff member who moderates users, content and content policy. This staff member oversees a network of volunteer youth moderators that monitor every post for content and edit/hide/delete messages where appropriate. 
 
-In the case of a message that suggests a user may be in danger (either from themselves or someone else), they will be referred to a DoSomething.org approved emergency help line or appropriate organization. This information is publicly available and all moderators are authorized to refer users to these pre-approved services: <http://www.dosomething.org/hotlines>
 
-  * Childhelp
-  * National Alcohol Hotline
-  * Alcoholism Council of New York
-  * National Clearinghouse for Alcohol and Drug Abuse Information
-  * National Eating Disorders Association
-  * Rape, Abuse, and Incest National Network
-  * The Trevor Project
-  * America’s Pregnancy Helpline
-  * National Runaway Switchboard
-  * National Suicide Hotline
-  * National Alliance for the Mentally Ill
-  * KIDS Helpline
-  * Covenant House
-  * Girls and Boys Town
+Content may also be considered for removal (i) in response to legal process, for example, in response to a court order, (ii) in response to a law enforcement agency's request, or (iii) where we believe removal is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our Privacy Policy or Terms of Use, or as otherwise required by law.
 
+As a user, you are responsible for your own communications and are responsible for the consequences of posting. The views, opinions, and comments expressed on our message boards DO NOT reflect the views and opinions of Do Something as an organization. Do Something is a not-for-profit and does not directly support or push any political, social, or religious agendas. The world is a diverse place, and we love all of our users equally. (Unless Ryan Reynolds became a Do Something user. We might love him slightly more. But only slightly.)
 
+Content and pictures posted on the Services may be reused across the Services and in promotional materials. We reserve the right to use photographs uploaded to the Services in order to promote and publicize ourselves, our causes, and our mission. If you have questions email [help@dosomething.org](mailto:help@dosomething.org).
 
-### Comment Fields
+## 8\. Community Moderation
 
-These are the areas for users to add input to causes and say something to people who post projects. These areas all have the same rules that apply for the message boards and will also be monitored to maintain relevant content and foster a positive community. 
+Every user in the Do Something community acts as a moderator through the abuse-reporting system. Users are asked to 'if they see something, do something' about inappropriate content. When inappropriate user generated content is found the owner may be contacted and the post may be edited or removed as needed.
 
-## Security
+In the case of a message that suggests a user may be in danger (either from themselves or someone else), the user may be referred to a Do Something approved emergency help line or appropriate organization. Information regarding these organizations is publicly available and all moderators are authorized to refer users to these pre-approved services: <http://www.dosomething.org/hotlines>.
 
-While there is no such thing as "perfect" security on the Internet, we will take all reasonable steps to ensure the safety of your personally identifiable information. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. These measures include dedicated fire walled servers, password encrypted SQL databases, and restrictions on user-to-user data visibility. However, we do not assume any liability for third-party usage of your personal information, whether obtained legally or illegally from our system.
+## 9\. Parents/Teachers/Old People/Other
 
-## Parents/Teachers/Old people/other?
+We still care about you, so please check out the "Old People" link on the bottom of every page. Minors may only participate in the Services with the blessings of their parents or guardians, but we also hope that these parents and guardians become involved with Do Something too! If we discover that a child under the age of 13 has provided us with personally identifiable information, we will use commercially reasonable efforts to either delete that child's personally identifiable information, or obtain verifiable consent from that user's parent or guardian to the collection and use of that child's information. A parent or guardian may notify us by email at [help@dosomething.org](mailto:help@dosomething.org) to request the deletion of his or her child's personally identifiable information from our records.
 
-DoSomething.org is not really for you. But we still care about you, so please check out the “Old People” on the bottom of every page. DoSomething.org seeks to collect information from children over the age of 13. With respect to minors between the ages of 13 and 18, it is our hope that children participate in DoSomething.org with the blessings of parents and guardians, but also that these parents and guardians become involved with DoSomething.org too! If any child (13-18) provides us with personally identifiable information, a parent or guardian may notify us and such information will be deleted from our records.   
-  
+## 10\. Opt Out
 
+Users have the opportunity to opt out of receiving communications from us and our partners. You can opt out of our newsletter at any time by clicking the "Unsubscribe" link that is present on every email at the very bottom of the newsletter. To opt out from email communications from us and/or our partners, please email [help@dosomething.org](mailto:help@dosomething.org). To opt out of SMS communications from us, text STOP to 38383. (Read: this means you can dump us anytime. We will be totally sad to see you go, but it's your right to do so.) Opt-out requests will be honored within 10 business days.
 
-## Choice/Opt-Out
+## 11\. Correct/Update
 
-Users have the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. To opt-out, please email [help@dosomething.org](mailto:help@dosomething.org).
+To change/modify your information, go to your user profile after logging in.
 
-## Correct/Update
+## 12\. Changes to Privacy Policy
 
-To change/modify information, go to your user profile after logging in.
+We reserve the right to change this Privacy Policy at any time and without prior notice, by posting a revised version on the Services. Such changes shall be effective immediately upon the time that such changes are posted on the Services. Your continued access or use of the Services after those changes are posted shall be deemed your acceptance of those changes. You agree to review this Privacy Policy periodically to confirm your acceptance.
 
-## Contacting the Website
+## 13\. Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: [help@dosomething.org](mailto:help@dosomething.org)
+If you have any questions about this Privacy Policy, our practices, or your dealings with the Services, you can contact us at [help@dosomething.org](mailto:help@dosomething.org).
+
+## 14\. Effective Date
+
+This Privacy Policy was last updated on April 23, 2012.
