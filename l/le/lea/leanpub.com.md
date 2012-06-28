@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leanpub.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207172715id_/http%3A//leanpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanpub.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628085210id_/http%3A//leanpub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Leanpub
+# Privacy Policy
 
 _This Privacy Policy is effective as of October 30, 2009._
 
