@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps3crunch.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229164906id_/http%3A//www.ps3crunch.net/forum/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3crunch.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628191401id_/http%3A//www.ps3crunch.net/forum/privacy_policy.php) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
 
@@ -43,6 +43,8 @@ To try and bring you offers that are of interest to you, we have relationships w
 [ **Google**](http://www.google.com/privacypolicy.html) **  
 [vBulletin](http://www.vbulletin.org/forum/info.php?do=privacy)**[](http://www.vbulletin.org/forum/info.php?do=privacy)  
  **If you have any questions about security on our Web site, you can send email:[Here](http://www.ps3crunch.net/forum/sendmessage.php)**
+
+Our website PS3Crunch.net also contains some affiliate marketing links, which means we get paid commission on sales of those products or services we write about. Our editorial content is not influenced by advertisers or affiliate partnerships. We use a 3rd Party to enable these affiliate partnerships. You can read their [Privacy Policy](http://skimlinks.com/privacy-policy#users) and find more information on [the cookies they use](http://skimlinks.com/user-cookies). You can disable this feature called 'SkimLinks' in your user control panel!
 
   
 
