@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaarly.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206005904id_/http%3A//www.zaarly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaarly.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628161629id_/http%3A//www.zaarly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zaarly
 
@@ -92,4 +92,10 @@ We are committed to protecting the security of your Personal Information. We use
 
 If you have questions or concerns about our Privacy Policy, please contact us here http://help.zaarly.com/customer/portal/emails/new.
 
-This Privacy Policy is subject to occasional revision at our discretion, and if we make any material changes in the way we use your Personal Information, we will post an alert on this page or may otherwise post an alert on Zaarly blog available at http://blog.zaarly.com. If you object to any such changes, you must cease using Zaarly. Continued use of Zaarly following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+This Privacy Policy is subject to occasional revision at our discretion, and if we make any material changes in the way we use your Personal Information, we will post an alert on this page or may otherwise post an alert on Zaarly blog available at http://blog.zaarly.com/corporate. If you object to any such changes, you must cease using Zaarly. Continued use of Zaarly following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+
+## Contact us at our headquarters:
+
+Zaarly, Inc.  
+14 Mint Plaza, Suite 400  
+San Francisco, CA 94103
