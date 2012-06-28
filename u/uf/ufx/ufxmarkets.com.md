@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ufxmarkets.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225012021id_/http%3A//www.ufxmarkets.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufxmarkets.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629013723id_/http%3A//www.ufxmarkets.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | UFXMarkets.com
 
 We are committed to the security of the information which you submit to the company. UFX may acquire this information during the course of providing its services. It is the Company's policy not to disclose customer's information to non-affiliated third parties, except with the consent of the customer or when required by law. The Company is providing this Privacy Policy to help you understand how we protect the privacy of your financial and other non-public personal information.
 
