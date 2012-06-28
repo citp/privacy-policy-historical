@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statshow.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214031140id_/http%3A//www.statshow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statshow.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628162101id_/http%3A//www.statshow.com/privacy.html) for the most accurate reproduction.*
 
 # StatShow - Privacy
 
@@ -7,7 +7,7 @@
 
 ### Our Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [feedback](http://www.statshow.com/feedback.html) form. At StatShow, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by statshow.com and how it is used.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [feedback](https://web.archive.org/web/20120628162101id_/http%3A//www.statshow.com/%7B$SITE_URL%7Dfeedback.html) form. At StatShow, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by statshow.com and how it is used.
 
 ### Log Files
 
@@ -30,6 +30,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
   * Google, as a third party vendor, uses cookies to serve ads on our site.
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to your sites and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
 
 
