@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityinn.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230173651id_/http%3A//www.choicehotels.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityinn.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628053803id_/http%3A//www.choicehotels.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Choice Hotels Privacy and Security Policy
 
@@ -82,7 +82,7 @@ We respect the right of each visitor to control how his or her personal informat
 
 \- OR -
 
-If you do not have an online profile and do not wish to create one, [click here](https://secure.choicehotels.com/ires/en-US/html/PrivacyProfile?sid=xm7He.ur2h9g1cH.9) to provide us with your privacy preferences.
+If you do not have an online profile and do not wish to create one, [click here](https://secure.choicehotels.com/ires/en-US/html/PrivacyProfile?sid=xeXvYg.ZkmM3gRh.13) to provide us with your privacy preferences.
 
 \- OR -
 
