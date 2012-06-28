@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imeche.org privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109014532id_/http%3A//www.imeche.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeche.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628130353id_/http%3A//www.imeche.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and disclaimer | Institution of Mechanical Engineers
 
@@ -24,8 +24,8 @@ The IMechE is committed to protecting your privacy. The IMechE is registered und
 
 IMechE collects information about users of the Website for two main reasons:
 
-  * to help the IMechE improve the Website and the services the IMechE offers; and
-  * to obtain aggregate statistics to help the IMechE achieve its constitutional purposes.
+  * to help the IMechE improve the Website and the services the IMechE offers; and 
+  * to obtain aggregate statistics to help the IMechE achieve its constitutional purposes. 
 
 
 
@@ -37,9 +37,9 @@ The IMechE may collect information about your computer, including where availabl
 
 For the same reason, the IMechE may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help the IMechE to improve this site and to deliver a better and more personalised service. They enable the IMechE to:
 
-  * to estimate audience size and usage patterns;
-  * to store preferences information to allow for Website customising; and
-  * to recognise members’ log in details for return visits to the IMechE Website.
+  * to estimate audience size and usage patterns; 
+  * to store preferences information to allow for Website customising; and 
+  * to recognise members’ log in details for return visits to the IMechE Website. 
 
 
 
@@ -57,10 +57,10 @@ Unfortunately, the transmission of information via the internet is not completel
 
 IMechE will use information held about you in the following ways:
 
-  * to process membership applications and renewals and for all other membership administration;
-  * to provide you with information, products or services that you request from IMechE or which IMechE feels may interest you, where you have consented to be contacted for such purposes;
-  * to carry out our obligations arising from any contracts entered into between you and IMechE; and
-  * to notify you about changes to IMechE services.
+  * to process membership applications and renewals and for all other membership administration; 
+  * to provide you with information, products or services that you request from IMechE or which IMechE feels may interest you, where you have consented to be contacted for such purposes; 
+  * to carry out our obligations arising from any contracts entered into between you and IMechE; and 
+  * to notify you about changes to IMechE services. 
 
 
 
