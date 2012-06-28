@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230012018id_/http%3A//www.smugmug.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629000553id_/http%3A//www.smugmug.com/aboutus/privacy) for the most accurate reproduction.*
 
 # SmugMug Privacy Policy
 
@@ -23,6 +23,8 @@ Personal information does not include "aggregate" information. Aggregate informa
 ### Personal Information We Collect
 
 Some third parties may place cookies in advertisements and in other locations on the Site, and may place Web beacons on the Site in conjunction with such cookies. Information collected by these third parties is subject to those third parties' policies governing use and disclosure of personal information. In addition, a third-party service is used to anonymously track traffic data on the Site through the use of a cookie that is not linked to, and does not track, any personally identifiable information about users of our Site. 
+
+Personal information may be collected any time you:
 
   * create an account and subscribe to our digital photography, media hosting or other services ("Services")
   * purchase prints or other products or services
@@ -67,7 +69,7 @@ The Site may contain links to other Web sites. Links from our Site to other site
 
 ### Security
 
-We have put into place reasonable security measures in an effort to prevent loss, misuse and alteration of information while it is under our control. We cannot, however, guarantee the protection of information against interception, misappropriation, misuse or alteration, nor can we promise that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Furthermore, we have no control over the security of other sites you might visit, interact with or do business with.
+We have put into place reasonable security measures in an effort to prevent loss, misuse and alteration of information while it is under our control. We cannot, however, guarantee the protection of information against interception, misappropriation, misuse or alteration, nor can we promise that your information may not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Furthermore, we have no control over the security of other sites you might visit, interact with or do business with.
 
 ### Choice
 
