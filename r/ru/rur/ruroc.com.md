@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227020952id_/http%3A//www.ruroc.com/info/4/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629011628id_/http%3A//www.ruroc.com/info/4/privacy-policy) for the most accurate reproduction.*
 
 # Ride Ruroc: Extreme Protection!
 
@@ -21,9 +21,49 @@ Ruroc Web sites will disclose your personal information, without notice, only if
 
 ## Use of Cookies
 
-The Ruroc Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.  
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Ruroc pages, or register with Ruroc site or services, a cookie helps Ruroc to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Ruroc Web site, the information you previously provided can be retrieved, so you can easily use the Ruroc features that you customized.  
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Ruroc services or Web sites you visit.
+The Website use "cookies" to help you personalize your online experience. For more information please read About Cookies below.
+
+### Cookies Used
+
+The Website uses the following essential cookies.
+
+"Session" Cookies  
+---  
+PHPSESSID | Removed when you close your browser. | We use a session cookie to remember your log-in for you and what you've put in the shopping basket etc. We deem these strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken. | More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>  
+ccUser | Saved for 2 days after first set to allow you to return to your basket.  
+Google Analytics  
+__utma | We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. These we deem necessary in order to improve our website and provide data to ensure any improvements are effective. | You can find out more about Google's position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
+__utmb  
+__utmc  
+__utmd  
+  
+## Email tracking.
+
+Some emails that we send you have no tracking in at all e.g. service emails with invoices attached. Other emails we send may contain tracking so that we can tell how much traffic those emails send to our site. We do not know who has clicked so the data is anonymous.
+
+Some emails we can track, at an individual level, such as whether the user has opened and clicked on the email. We rarely use the information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. If you want to be sure that none of your email activity is tracked then you should opt out of our emails which you can do via the unsubscribe link at the bottom of each email.
+
+## Social buttons.
+
+On many of the pages of the site you will see 'social buttons'. These enable users to share or bookmark the web pages. For example there are buttons for: Twitter, Google+, and Facebook. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website.
+
+You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this site. In some cases these sites will be registering the fact that you are visiting our website, and the specific pages you are on, even if you don't click on the button if you are logged into their services, like Google and Facebook.
+
+You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+
+## Social Plugins.
+
+On some pages within the site we use 'socail plugins'. These enable you to utilize your existing Facebook account to login to the site or post comments. They are there to enhance your experience and make interacting with the site easier. In order to implement these plugins, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website.
+
+## About Cookies
+
+A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the Website pages, or register with the Website or services, a cookie helps the Website to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on.
+
+When you return to the same Website, the information you previously provided can be retrieved, so you can easily use the Website features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Websites you visit.
 
 ## Security of your Personal Information
 
@@ -35,23 +75,23 @@ Ruroc will occasionally update this Statement of Privacy to reflect company and 
 
 ## Contact Information
 
-Ruroc welcomes your comments regarding this Statement of Privacy. If you believe that Ruroc has not adhered to this Statement, please contact Ruroc at admin@ruroc.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Ruroc welcomes your comments regarding this Statement of Privacy. If you believe that Ruroc has not adhered to this Statement, please contact Ruroc at admin@ruroc.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 ## Haftungsausschluss:
 
-WINGPRINT übernimmt keinerlei Gewähr für die Aktualität, Richtigkeit, Vollständigkeit oder Qualität der bereitgestellten Informationen.  
-Wir behalten es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Für etwaige Schäden, die beim Aufrufen oder Herunterladen von Daten durch Computerviren oder der Installation oder Nutzung von Software verursacht werden übernimmt WINGPRINT keine Haftung.
+RUROC übernimmt keinerlei Gewähr für die Aktualität, Richtigkeit, Vollständigkeit oder Qualität der bereitgestellten Informationen.  
+Wir behalten es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Für etwaige Schäden, die beim Aufrufen oder Herunterladen von Daten durch Computerviren oder der Installation oder Nutzung von Software verursacht werden übernimmt RUROC keine Haftung.
 
 ## Verweise und Links
 
-WINGPRINT ist nur für die eigenen Inhalte verantwortlich. Bei direkten oder indirekten Verweisen auf fremde Internetseiten ("Links"), die außerhalb des Verantwortungsbereiches von WINGPRINT liegen, kann eine Haftungsverpflichtung nur in Kraft treten, wenn WINGPRINT von den Inhalten Kenntnis hat und es technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.   
+RUROC ist nur für die eigenen Inhalte verantwortlich. Bei direkten oder indirekten Verweisen auf fremde Internetseiten ("Links"), die außerhalb des Verantwortungsbereiches von RUROC  liegen, kann eine Haftungsverpflichtung nur in Kraft treten, wenn RUROC von den Inhalten Kenntnis hat und es technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.   
 Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der gelinkten/verknüpften Seiten haben wir keinerlei Einfluss. Für illegale oder fehlerhafte Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart der Informationen entstehen, haftet allein der Anbieter der jeweiligen Seite.
 
 ## Urheber und Kennzeichenrecht
 
-WINPRINT ist bestrebt, in allen Publikationen die Urheberrechte zu beachten, von ihm selbst erstellte Grafiken, Texte oder dergleichen zu nutzen oder auf lizenzfreie Grafiken, Bilder und Texte zurückzugreifen.  
+RUROC ist bestrebt, in allen Publikationen die Urheberrechte zu beachten, von ihm selbst erstellte Grafiken, Texte oder dergleichen zu nutzen oder auf lizenzfreie Grafiken, Bilder und Texte zurückzugreifen.  
 Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!  
-Das Copyright für veröffentlichte, selbst erstellte Objekte bleibt allein bei WINGPRINT. Eine Vervielfältigung oder Verwendung in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung nicht gestattet.
+Das Copyright für veröffentlichte, selbst erstellte Objekte bleibt allein bei RUROC. Eine Vervielfältigung oder Verwendung in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung nicht gestattet.
 
 ## Datenschutz
 
