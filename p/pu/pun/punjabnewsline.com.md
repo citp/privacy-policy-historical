@@ -1,18 +1,13 @@
-> *The following text is extracted and transformed from the punjabnewsline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210601id_/http%3A//punjabnewsline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabnewsline.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628091448id_/http%3A//www.punjabnewsline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy @ www.punjabnewsline.com
-
-This statement describes what you can expect from us regarding personal data on Punjabnewsline.com, and your associated rights and responsibilities. This statement is a part of the Punjabnewsline.com user agreement but trumps any conflicts with the agreement. This statement does not address anyone else's practices or our practices beyond the Punjabnewsline.com site.
+# Privacy Policy | www.punjabnewsline.com
 
 We respect your privacy and consider it an important element of our business.  We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us.
-
-Special Note About Google Advertising  
-
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.  
 
 
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end userâs browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. (link to:  http://www.google.com/privacy_ads.html )
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end userâs browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. (link to:  <http://www.google.com/privacy_ads.html> )
 
 Email-Only Registration.  
 You may subscribe to emails or newsletters by providing only your email address and password and mobile number(if demanded), which we use to create a username and account for you. For privacy purposes, an email-only account acts like a registered account. 
