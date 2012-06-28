@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2011-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110705124216id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629004137id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
 
-# Rich Dad PowerPack Privacy Statement | Rich Dad PowerPack
+# Rich Dad World PowerPack Privacy Statement | Rich Dad World PowerPack
 
 ## Please review our privacy policy below
 
