@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritybabyscoop.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124544id_/http%3A//www.celebritybabyscoop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritybabyscoop.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628033811id_/http%3A//www.celebritybabyscoop.com/privacy_policy) for the most accurate reproduction.*
 
 # CelebrityBabyScoop.com Privacy Policy | Celebrity Baby Scoop
 
@@ -46,7 +46,7 @@ We reserve the rights to amend this Privacy Policy at any time. If we amend this
 
 9\. Contact
 
-If you have any questions regarding this Privacy Policy, you can contact us directly by emailing [lisa@celebritybabyscoop.com](mailto:lisa@celebritybabyscoop.com). You may also write to us at the following address:
+If you have any questions regarding this Privacy Policy, you can contact us directly by emailing lisa@celebritybabyscoop.com. You may also write to us at the following address:
 
 Celebrity Baby Scoop, LLC  
 515 West Shore Trail  
