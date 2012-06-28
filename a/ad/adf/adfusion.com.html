@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adfusion.com privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227221157id_/http%3A//www.adfusion.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adfusion.com privacy policy that was archived on 2012-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628022433id_/http%3A//www.adfusion.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy
@@ -10,6 +10,21 @@
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.adfusion.com/js/jquery-1.5.1.min.js"></script>
 
     <script type="text/javascript" src="http://www.adfusion.com/js/script.js"></script>
+    
+    <script type="text/javascript">
+        $(function() {
+            $('#footerContent').append(getFooterText());
+        });
+    
+        function getFooterText() {
+            var time = new Date()
+            var yr = time.getFullYear();
+            var retVal = '<a href="http://www.adfusion.com/Privacy-Policy.aspx">Privacy Policy</a> &copy;'
+            retVal += yr;
+            retVal += ' Adfusion. All Rights Reserved.';
+            return retVal;
+        }
+    </script>
 
     
 
@@ -70,16 +85,16 @@
             <li class="parent"><a href="http://www.adfusion.com/advertising-solutions/">Solutions</a>
                 <ul>
                     <li><a href="http://www.adfusion.com/advertising-solutions/Targeting.aspx">Targeting</a></li>
-                    <li><a href="http://www.adfusion.com/advertising-solutions/Brand-Advertising.aspx">Brand Advertising</a></li>
+                    <li><a href="http://www.adfusion.com/advertising-solutions/Brand-Advertising.aspx">Panoramic</a></li>
                     <li><a href="http://www.adfusion.com/advertising-solutions/Mobile-Advertising.aspx">Mobile Advertising</a></li>
                     <li><a href="http://www.adfusion.com/advertising-solutions/Direct-Response.aspx">Direct Response</a></li>
                 </ul>
             </li>
             <li class="parent"><a href="http://www.adfusion.com/newsroom/">Newsroom</a>
                 <ul>
-                    <li><a href="http://blog.adfusion.com/">Blog</a></li>
+                    
                     <li><a href="http://www.adfusion.com/newsroom/Media.aspx">Media</a></li>
-                    <li><a href="http://industrynews.adfusion.com/">Industry News</a></li>
+                    
                     <li><a href="http://www.adfusion.com/newsroom/Press-Releases.aspx">Press Releases</a></li>
                 </ul>
             </li>
@@ -217,7 +232,6 @@
         </div>
         <div id="footer">
             <div id="footerContent" class="contentContainer">
-                <a href="http://www.adfusion.com/Privacy-Policy.aspx">Privacy Policy</a> ©2011 Adfusion. All Rights Reserved.
             </div>
         </div>
     </div>
