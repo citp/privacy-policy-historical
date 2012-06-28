@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129052832id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628061426id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # moshtix | Privacy Policy
 
-[**PRIVACY POLICY**](https://web.archive.org/web/20111129052832id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx)         [**TERMS & CONDITIONS**](https://web.archive.org/web/20111129052832id_/http%3A//www.moshtix.com.au/faq/Terms_And_Conditions_Of_Use.aspx)
+[**PRIVACY POLICY**](https://web.archive.org/web/20120628061426id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx)         [**TERMS & CONDITIONS**](https://web.archive.org/web/20120628061426id_/http%3A//www.moshtix.com.au/faq/Terms_And_Conditions_Of_Use.aspx)
 
 * * *
 
-**Last updated: June 25, 2010**
+**Last updated: December 14, 2011**
 
-Moshtix’s primary role is to provide event publishing, registration, ticketing and related software and services to Australian, New Zealand, US, UK and other International users of Moshtix and the Moshtix platform. 
+Moshtix primary role is to provide event publishing, registration, ticketing and related software and services to Australian, New Zealand, US, UK and other International users of Moshtix and the Moshtix platform. 
 
-Moshtix recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
+Moshtix recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. For the purposes of the Privacy Statement, the phrase ‘EVENT ORGANISER’ means the venue operators and/or promoter(s) of a particular event. 
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act. 
 
@@ -20,29 +20,29 @@ We collect personal information when we provide our services to you. Generally w
 
 We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents. 
 
-If you have registered a Moshtix account with us, we will hold your contact and billing details. Those details are primarily used to send you information about the Moshtix platform, any upgrades that become available, new developments, upgrades and forthcoming features and to charge you for service fees. If you have booked or registered for events that are listed by an EVENT ORGANISER using Moshtix and the Moshtix platform, we keep a record of your booking data to report to the EVENT ORGANISER. This booking data may be used in future event marketing campaigns by the EVENT ORGANISER and Moshtix. We will also keep a record of your billing information to allow you to make quick purchases by simply using an email address and password to login to your Moshtix account. 
-
-You can opt-out of receiving email campaigns during the ticket purchase or registration process by logging into your moshfile at [www.moshtix.com.au](http://www.moshtix.com.au/) and unchecking the EVENT ORGANISER radio button on the MAILING LISTS tab. 
-
-You can opt-out of receiving your customised moshguide by logging into your moshfile at [www.moshtix.com.au](http://www.moshtix.com.au/) and under the MOSHGUIDE tab setting your guide to "Do not send". 
-
-You can opt-in to receive SMS campaigns during the ticket purchase or registration process by checking the 'I prefer to be contacted by: SMS' check box. 
-
-If you have booked through a Moshtix Retail Associate and then registered your Moshtix moshcard, where you have opted-in to receive updates by email or SMS, this registration data may be used in future event marketing campaigns by the EVENT ORGANISER for which the moshcard was allocated tickets, by the Moshtix Retail Associate through which you purchased your tickets to update you on store based information and by Moshtix. You can opt-in to receiving these campaigns during the moshcard registration process. 
-
-All moshcard registrations are managed online. You can use the link which is at the bottom of every email to log in to your moshfile at [www.moshtix.com.au](http://www.moshtix.com.au/). All SMS messages are sent with an opportunity to reply and unsubscribe from future broadcasts in your expressed category of interest. 
-
 **Use of Information**
 
 We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
 
-We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication. 
+We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Your contact details may be used to contact you to inform you of important information related to an event you have purchased tickets to, for example time or event changes or event cancellation. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication. 
 
 We may share your information with other companies which are related to News Limited, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
 
+If you have registered a Moshtix account with us, we will hold your contact and billing details. Those details are primarily used to provide you with the ticketing services you have requested and to send you information about the Moshtix platform, any upgrades that become available, new developments and forthcoming features and to charge you for service fees in relation to tickets you have acquired through the Moshtix platform. If you have booked or registered for events that are listed by an EVENT ORGANISER using Moshtix and the Moshtix platform, we keep a record of your booking data to report to the EVENT ORGANISER. Your booking data will be provided to the event organiser if requested for their records and analysis. This booking data does not include your personal contact details which are only given to EVENT ORGANISERS if, at the time of purchase, you agree to receiving information and offers about future events directly from the Event Organiser. We will also keep a record of your billing information to allow you to make quick purchases by simply using an email address and password to login to your Moshtix account. 
+
+You can opt-out of receiving email campaigns from Moshtix and our partners either during the ticket purchase or registration process or by logging into your Moshtix profile at [www.moshtix.com.au](http://www.moshtix.com.au/) and unselecting the various options relating to weekly newsletters, special offers, and special offers from partners. Our partners include third party businesses we have entered into contracts with for marketing and client relationship purposes. 
+
+**Use By Event Organiser**
+
+If at the time of purchase you agreed to receive information and offers about future events directly from the venue operator and/or promoter(s) of the event, then we may provide your contact details to the EVENT ORGANISER for this purpose. Event Organisers may use these details to contact you with information and offers regarding future events and promotions. If you wish to change this choice you can contact us but it may be necessary to contact the EVENT ORGANISER directly if your contact details have already been provided to them. EVENT ORGANISERS will use your personal information in accordance with their own privacy policies. If the EVENT ORGANISER contacts you and you wish to unsubscribe from this communication or have any questions regarding their privacy policy you should contact the EVENT ORGANISER directly. 
+
+If you have booked through a Moshtix Retail Associate and then registered your Moshtix moshcard, where you have opted-in to receive updates by email or SMS, this registration data may be used in future event marketing campaigns by the EVENT ORGANISER for which the moshcard was allocated tickets, by the Moshtix Retail Associate through which you purchased your tickets to update you on store based information and by Moshtix. You can opt-in to receiving these campaigns during the moshcard registration process. 
+
+All moshcard registrations are managed online. You can use the link which is at the bottom of every email to log in to your moshfile at www.moshtix.com.au. All SMS messages are sent with an opportunity to reply and unsubscribe from future broadcasts in your expressed category of interest. 
+
 **Use by Third Parties**
 
-Moshtix may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. Examples of such third party service providers and contractors include call centre operators, software contractors and email/sms broadcast providers. We insist that any such third parties abide by Australian and US privacy law. We may also share your information with third parties who provide prizes for competitions or special offers. If we do this we generally require these parties to protect your information in the same way we do. 
+Moshtix may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. Examples of such third party service providers and contractors include call centre operators, software contractors and email/sms broadcast providers. We may also share your information with third parties who provide prizes for competitions or special offers. If we do this we generally require these parties to protect your information in the same way we do. 
 
 **Use of Aggregate Data**
 
@@ -92,13 +92,10 @@ Please contact our Privacy Officer to ask for access to your information or if y
 
 Privacy Officer  
 News Digital Media  
-Contact us through this [online form](https://web.archive.org/faq/contact.aspx)  
 Tel: 02 8114 7400  
-Level 23  
-175 Liverpool St  
-Sydney, NSW, 2001  
+Level 23 175 Liverpool St Sydney, NSW, 2001  
 
 
 Not a member? Don't miss out on loads of free giveaways and your very own personalised weekly moshguide. [Register here](https://web.archive.org/user/register.aspx)
 
-[ ](https://web.archive.org/moshpix/gallery.aspx?key=AA1DD2BD45 "CLAP YOUR HANDS SAY YEAH \(USA\) + SPECIAL... - November 14, 2011 - Oxford Art Factory, Darlinghurst NSW")
+[ ](https://web.archive.org/moshpix/gallery.aspx?key=63A774CFB1 "The Gemini Tour feat. Founds + Fire!Santa... - June 15, 2012 - The Standard, Surry Hills NSW")
