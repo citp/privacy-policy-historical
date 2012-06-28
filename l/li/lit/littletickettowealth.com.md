@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littletickettowealth.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224518id_/http%3A//www.littletickettowealth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletickettowealth.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628155212id_/http%3A//www.littletickettowealth.com/privacy.php) for the most accurate reproduction.*
 
 # Little Ticket To Wealth
 
@@ -96,9 +96,9 @@
 > 
 > Privacy Policy For www.LITTLETICKETTOWEALTH.com
 
-© Copyright 2011, Little Ticket To Wealth. All Rights Reserved.
+© Copyright 2012, Little Ticket To Wealth. All Rights Reserved.
 
-Cash Rich Empire  
+Little Ticket To Wealth  
 2789 E. State St.  
 Suite 185  
 Salem Ohio 44460
