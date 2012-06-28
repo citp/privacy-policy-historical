@@ -1,21 +1,83 @@
-> *The following text is extracted and transformed from the younews.in privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221212154id_/http%3A//www.younews.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younews.in privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628195510id_/http%3A//younews.in/static/privacy) for the most accurate reproduction.*
 
-# Younews
+# Privacy Policy | Younews.in
 
-## **Younews Privacy Policy**
+**What information do we collect?**
 
-**Younews** is commited to protecting your privacy and takes utmost care in using the personal information you provide us. To better help protect your privacy, Younews provides you with this privacy policy that details what information about you is available to Younews and how it is used.
+We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-## **The information we collect**
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-Younews collects your email and a password when you register with the site as an user. All other details are optional. Passwords are encrypted when stored to better protect your identity. Younews might store 'cookies' or some information about you on your computer. Cookies do not contain any personal information but can be accessed by our site during your normal course of interaction with our website.
+ **What do we use your information for?**
 
-##  **What we do with the informaton**
+Any of the information we collect from you may be used in one of the following ways: 
 
-Your email and a password are used to identify you and log you into the website. All other information you have in your profile are presented to the outside world when Younews users or visitors access your profile page. All the information you provide is accessible to Younews staff and we will take utmost care in protecting them. Cookies are used along with some information you provide us in your profile to better serve you as you use our website.
+* To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-##  **This Privacy Policy**
+* To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-As a condition to using the Service, you agree to the terms of the Younews Privacy Policy as it may be updated from time to time. Younews understands that privacy is important to you. You do, however, agree that Younews may monitor, edit or disclose your personal information, including the content of your emails, if required to do so in order to comply with any valid legal process or governmental request (such as a search warrant, subpoena, statute, or court order), or as otherwise provided in these Terms of Use and the Younews Privacy Policy. Personal information collected by Younews may be stored and processed in the United States or any other country in which parent company Younews or its agents maintain facilities. By using Younews, you consent to any such transfer of information outside of your country.
+* To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
+* To administer a contest, promotion, survey or other site feature
+
+* To send periodic emails
+
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Profile' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://younews.in/static/terms>
+
+**Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://younews.in/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 25 January 2012
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://younews.in  
+[contact us]()
