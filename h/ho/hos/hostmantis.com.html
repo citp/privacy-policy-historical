@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hostmantis.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101105525id_/http%3A//www.hostmantis.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hostmantis.com privacy policy that was archived on 2012-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628052540id_/http%3A//www.hostmantis.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title>HostMantis - Privacy Policy</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,6 +11,8 @@
 
 
   <link media="screen" href="http://www.hostmantis.com/css/styles.css" type="text/css" rel="stylesheet">
+  <link media="screen" href="http://www.hostmantis.com/css/featured-content-slider.css" type="text/css" rel="stylesheet">
+  <link media="screen" href="http://www.hostmantis.com/css/testimonialslider.css" type="text/css" rel="stylesheet">
   <link type="image/png" href="favicon.ico" rel="icon">
   <link rel="SHORTCUT ICON" href="http://www.hostmantis.com/favicon.ico">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://my.hostmantis.com/menucontents.js"></script>
@@ -27,6 +29,8 @@
 anylinkmenu.init("menuanchorclass")
 
 </script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+
 
 
 
@@ -38,7 +42,7 @@ anylinkmenu.init("menuanchorclass")
 <div id="header"><!-- header -->
 
   <div id="logo"><!-- hostmantis logo -->
-  <a href="http://www.hostmantis.com"><img src="images/logo_hostmantis.jpg" alt="HostMantis Affordable Web Hosting"></a>
+  <a href="http://www.hostmantis.com"><img src="images/logo_hostmantis.png" alt="HostMantis Affordable Web Hosting"></a>
   </div><!-- end hostmantis logo -->
   
   <hr class="hidden">
@@ -47,7 +51,7 @@ anylinkmenu.init("menuanchorclass")
   <div id="top-links"><!-- header links -->
   <ul>
   <li id="link-affiliates"><a href="http://affiliates.hostmantis.com">Affiliates</a></li>
-  <li id="link-contact"><a href="http://my.hostmantis.com/submitticket.php?step=2&amp;deptid=1">Contact</a></li>
+  <li id="link-contact"><a href="http://my.hostmantis.com/contact.php">Contact</a></li>
   <li id="link-forum"><a href="http://community.hostmantis.com">Community</a></li>
   <li id="link-login"><a href="https://my.hostmantis.com/clientarea.php">Client Login</a></li>
   </ul>
@@ -62,7 +66,7 @@ anylinkmenu.init("menuanchorclass")
 <script type="text/javascript" src="https://my.hostmantis.com/modules/livehelp/plugins/whmcs/jquery.livehelp.js"></script>
 <!--  END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY IMAGE MAP/CODE/LINKS //-->
 <a href="#" target="_blank" class="LiveHelpButton">
-<img src="https://my.hostmantis.com/modules/livehelp/include/status.php" id="LiveHelpStatus" name="LiveHelpStatus" class="LiveHelpStatus" border="0" alt="Live Help">
+<img src="https://my.hostmantis.com/modules/livehelp/include/status.php" id="LiveHelpStatus" name="LiveHelpStatus" class="LiveHelpStatus" border="0" alt="Live Chat">
 </a>
 
   </div><!-- end live support -->
@@ -153,7 +157,7 @@ HostMantis.com is unable to deliver ads tailored to your Web preferences and usa
 patterns. 
 Please note that if you buy a new computer, upgrade or change Web browsers or 
 delete this "opt out" cookie, you will need to perform this process again.
-To opt out of all NAI member networks' behavioral tracking, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">the NAI 
+To opt out of all NAI member networks' behavioral tracking, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank" rel="nofollow">the NAI 
 opt-out page.</a></p><br>
 <p>The Right to Change This Policy
 HostMantis.com reserves the right to modify this privacy statement at any time, so 
@@ -224,30 +228,86 @@ security audits.</p><br>
   <div id="sidebar"><!-- sidebar -->
   
   <div id="whats-included"><!-- what's included -->
-  <h3>What's Included</h3>
+  <h3>Why HostMantis?</h3>
   <ul>
-  <li>24/7 Sales &amp; Support</li>
-  <li>Unlimited E-Mail Accounts</li>
-  <li>Unlimited Sub Domains</li>
-  <li>Unlimited FTP Accounts</li>
-  <li>POP3, FTP, Statistics</li>
-  <li>CGI, Perl, PHP, MySQL</li>
+  <li>24/7 Technical Support</li>
+  <li>99.9% Network Uptime</li>
+  <li>Instant Activation</li>
+  <li>30-Day Guarantee</li>
+  <li>CloudLinux Stability</li>
+  <li>IMAP, FTP, Statistics</li>
+  <li>CGI, Perl, PHP 5.3, MySQL</li>
+  <li>Trendy Sitebuilder</li>
   <li>Softaculous</li>
   <li>Fantastico</li>
   <li>FFMpeg</li>
   </ul>
   </div><!-- end what's included -->
 
+<script type="text/javascript">
+
+
+
+(function($){
+    $.fn.extend({ 
+        //plugin name - rotaterator
+        rotaterator: function(options) {
+ 
+            var defaults = {
+                fadeSpeed: 600,
+                pauseSpeed: 100,
+				child:null
+            };
+             
+            var options = $.extend(defaults, options);
+         
+            return this.each(function() {
+                  var o =options;
+                  var obj = $(this);                
+                  var items = $(obj.children(), obj);
+				  items.each(function() {$(this).hide();})
+				  if(!o.child){var next = $(obj).children(':first');
+				  }else{var next = o.child;
+				  }
+				  $(next).fadeIn(o.fadeSpeed, function() {
+						$(next).delay(o.pauseSpeed).fadeOut(o.fadeSpeed, function() {
+							var next = $(this).next();
+							if (next.length == 0){
+									next = $(obj).children(':first');
+							}
+							$(obj).rotaterator({child : next, fadeSpeed : o.fadeSpeed, pauseSpeed : o.pauseSpeed});
+						})
+					});
+            });
+        }
+    });
+})(jQuery);
+
+ $(document).ready(function() {
+        $('#rotate').rotaterator({fadeSpeed:1200, pauseSpeed:6000});
+    }); 
+
+</script>
   
   <div id="testimonial"><!-- testimonial -->
   <h3>Testimonials</h3>
 <br>
-  <q>I moved from my old host because their servers were becoming very slow. Started the whole search for the best hosting for a little price thing. Ran across HostMantis - found that they had their servers in the Planets network and I used to work with some companies that hosted their servers at the planet, so I knew that their internet connection to the internet was fast. Tested out my first domain and it was rock solid. I don't typically recommend things but from snail crawling to Lightning fast I had to tell someone. 
-
-Also - every time I've had to contact them they have responded immediately without delay. 
-
-Thanks HostMantis and look forward to continued Up time!</q> <br><strong>Scott S.</strong> <br><a href="http://www.tutsrus.com" target="_blank">www.tutsrus.com</a><br>
-<a href="http://www.hostmantis.com/testimonials.php" id="testimonials" style="display:block;text-align:right;">Read More</a>
+<div style="height:110px;" id="rotate">
+	<div>
+		<q>I have had 0 downtime with HostMantis. Before I had like 50 hosts and none were like HostMantis. Thank you HostMantis! I also sent a support ticket for something I didn't personally knew how to do, and they actually helped me out.</q> <br><strong>Andre Y.</strong> <br>
+	</div>
+	<div>
+		<q>I've had no problems since coming to HostMantis, great service, great uptime, Quick Customer Support response time, Great Hosting plans, love the specs you get with every package. In the end it's a truely great host, Hostmantis Ftw!</q> <br><strong>Dustin M.</strong> <br>
+	</div>
+	<div>
+		<q>Am not an It expert, actually a novice. After I tried everything, and couldnt get it to work, they jumped in and did it for me. Would recommend Hm to friends.</q> <br><strong>Alan M.</strong> <br>
+		</div>
+	<div>
+		<q>Its only with Hostmantis that I get the immediate support I needed without waiting for another minute. I had been with 3 other web hosting services before Hostmantis and the reason I stick with Hostmantis is their fantastic and first class support service. </q> <br><strong>Rey A.</strong> <br>
+	</div>
+</div><!--end testimonials-->
+<br>
+<a href="http://www.hostmantis.com/testimonials.php" style="display:block;text-align:right;">Read More</a>
   </div><!-- end testimonial -->
   
   <div id="twitter"><!-- twitter -->
@@ -259,17 +319,24 @@ Thanks HostMantis and look forward to continued Up time!</q> <br><strong>Scott S
 
 
 
-<a href="http://twitter.com/HostMantis" target="_blank" id="twitter-link" style="display:block;text-align:right;">Follow us on Twitter</a>
+<a href="http://twitter.com/HostMantis" target="_blank" rel="nofollow" id="twitter-link" style="display:block;text-align:right;">Follow us on Twitter</a>
   </div><!-- end twitter -->
   
   
   <div id="seals">
+<div><center>
+<a href="https://privacy.truste.com/privacy-seal/HostMantis/validation?validationId=787c0e2b-a292-4057-863d-6bab0b455c55" title="HostMantis Privacy Seal Certification" target="_blank"><img style="border:none" alt="TRUSTe Certified Privacy Seal" src="https://privacy-policy.truste.com/privacy-seal/hostmantis.com/TRUSTe-Certified-Privacy-Seal.png"></a>
+</center></div>
     <div><img src="images/money_back_30.jpg" alt="30 Days Money Back Guarantee"> <img src="images/paypal_verified.jpg" alt="Paypal Verified"></div>
     <div><img src="images/amazon-payments.gif" alt="Amazon Payments"></div>
     <div><img src="images/google_checkout.jpg" alt="Google Checkout"></div>
-    <div><img src="images/starfield_verified.jpg" alt="Starfield Secure Verified"></div>
-    <div><img src="images/globalsign-logo-authorized.jpg" alt="GlobalSign Authorized Partner"></div>
+    <div><img src="images/starfield_verified.jpg" alt="AlertPay"></div>
+    <div><a href="http://www.hostmantis.com/cheap-ssl.php"><img src="images/thawte-logo.jpg" alt="Thawte SSL Certificates"></a></div>
+<div>&nbsp;</div>
+    <div><a href="http://www.hostmantis.com/trendy-site-builder.php"><img src="images/trendysitebuilder.png" width="160px" height="90px" alt="Trendy Site Builder"></a></div>
   </div>
+<div>&nbsp;</div>
+
   
   </div><!-- end sidebar -->  </div>
 </div><!-- end content -->
@@ -295,27 +362,27 @@ Thanks HostMantis and look forward to continued Up time!</q> <br><strong>Scott S
   
   <div id="links-col">
   <ul id="links-col1">
-  <li><a href="http://blog.hostmantis.com">Web Hosting Blog</a></li>
-  <li><a href="hosting.php">Affordable Web Hosting</a></li>
-  <li><a href="network.php">Our Network</a></li>
+  <li><a href="http://blog.hostmantis.com">Announcements</a></li>
+  <li><a href="http://www.hostmantis.com/company.php">About Us</a></li>
+  <li><a href="http://www.hostmantis.com/network.php">Our Network</a></li>
   <li><a href="http://dir.hostmantis.com">Link Directory</a></li>
   <li><a href="https://my.hostmantis.com/cart.php">Order Hosting</a></li>
   </ul>
   
   <ul id="links-col2">
-  <li><a href="hosting.php">Reliable Cheap Hosting</a></li>
-  <li><a href="hosting.php">Cheap Hosting Provider</a></li>
-  <li><a href="hosting.php">Cheap Linux Hosting</a></li>
-  <li><a href="hosting.php">Cheap Web Hosting Domain</a></li>
-  <li><a href="hosting.php">Unlimited Domains Hosting</a></li>
+  <li><a href="http://www.hostmantis.com/video-tutorials.php">Video Tutorials</a></li>
+  <li><a href="https://my.hostmantis.com/knowledgebase.php">Knowledgebase</a></li>
+  <li><a href="http://www.hostmantis.com/affiliate.php">Affiliate Program</a></li>
+  <li><a href="http://www.hostmantis.com/testimonials.php">Testimonials</a></li>
+  <li><a href="http://community.hostmantis.com/">Community</a></li>
   </ul>
   
   <ul id="links-col3">
   <li><a href="https://my.hostmantis.com/clientarea.php">Client Login</a></li>
   <li><a href="https://my.hostmantis.com">Support</a></li>
-  <li><a href="http://my.hostmantis.com/submitticket.php?step=2&amp;deptid=1">Contact Us</a></li>
-  <li><a href="privacy.php">Privacy Policy</a></li>
-  <li><a href="tos.php">Terms of Service</a></li>
+  <li><a href="https://my.hostmantis.com/contact.php">Contact Us</a></li>
+  <li><a href="https://privacy.truste.com/reseller/privacy-policy/HostMantis/certified/44b870a4-e809-48aa-9ad4-63ea696e7ce8" rel="nofollow" target="_blank">Privacy Policy</a></li>
+  <li><a href="http://www.hostmantis.com/tos.php">Terms of Service</a></li>
   </ul>
   </div>
   
@@ -327,8 +394,8 @@ Thanks HostMantis and look forward to continued Up time!</q> <br><strong>Scott S
 <div class="container"><!-- footer container -->
 <div id="footer">
 <div style="float: right; margin-top: -5px;">
-<a href="http://www.facebook.com/pages/HostMantis/153802481321561" target="_blank"><img src="/images/facebook-footer.gif" border="0"></a>
-<a href="http://www.twitter.com/hostmantis" target="_blank"><img src="/images/twitter-footer.gif" border="0"></a>
+<a href="http://www.facebook.com/pages/HostMantis/153802481321561" target="_blank" rel="nofollow"><img src="/images/facebook-footer.gif" border="0"></a>
+<a href="http://www.twitter.com/hostmantis" target="_blank" rel="nofollow"><img src="/images/twitter-footer.gif" border="0"></a>
 </div>
 
 <ul id="footer-nav"><!-- footer nav -->
@@ -340,7 +407,7 @@ Thanks HostMantis and look forward to continued Up time!</q> <br><strong>Scott S
 </ul><!-- end footer nav -->
 
 <div id="copyright"><!-- copyright -->
-  <p>Copyright (C) 2005-2011. HostMantis.com. All rights reserved.</p>
+  <p>Copyright (C) 2005-2012. HostMantis.com. All rights reserved.</p>
 </div><!-- end copyright -->
 
 </div>
@@ -352,12 +419,7 @@ var sc_invisible=1;
 var sc_security="f8bb9e00"; 
 </script>
 
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="tumblr visitor"
-href="http://www.statcounter.com/tumblr/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/6198045/0/f8bb9e00/1/"
-alt="tumblr visitor" ></a></div></noscript>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
 <!-- End of StatCounter Code -->
 
 <script type="text/javascript" src="http://www.hostmantis.com/blogger.js"></script>
