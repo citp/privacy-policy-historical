@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216105753id_/http%3A//www.infoblox.com/en/company/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628100918id_/http%3A//www.infoblox.com/en/company/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Infoblox.com
 
@@ -6,7 +6,7 @@ Infoblox knows that you care about how your personal information is used and sha
 
 ## WHAT DOES THIS PRIVACY POLICY COVER?
 
-This Privacy Policy covers Infoblox's treatment of personally identifiable information ("Personal Information") that Infoblox gathers when you are accessing Infoblox's web site, or in connection with Infoblox sponsored events or Infoblox services. The types of Personal Information that may be collected include your full name, address, e-mail address, telephone number, and credit card information. Also, this Policy covers Infoblox's treatment of any Personal Information that Infoblox's business partners share with Infoblox. This policy does not apply to the practices of Infoblox's business affiliates, to processes that Infoblox does not own or control, or to entities that Infoblox does not employ or manage.
+This Privacy Policy covers Infoblox's treatment of personally identifiable information ("Personal Information") that Infoblox gathers when you are accessing Infoblox's web site, or in connection with Infoblox sponsored events or Infoblox services. The types of Personal Information that may be collected include your full name, address, e-mail address, telephone number, and credit card information, and Infoblox's treatment of any Personal Information that Infoblox's business partners share with Infoblox. In some circumstances, this Privacy Policy may also apply to certain product usage information that you provide when you elect to participate in Infoblox programs and services; Infoblox will notify you if this Privacy Policy applies at the time you elect to participate in such circumstances. This policy does not apply to the practices of Infoblox's business affiliates, to processes that Infoblox does not own or control, or to entities that Infoblox does not employ or manage.
 
 ## WHAT PERSONAL INFORMATION DOES INFOBLOX COLLECT?
 
@@ -22,7 +22,9 @@ We may receive and store certain types of information whenever you interact with
 
 Generally, our service may automatically collect usage information, such as the numbers and frequency of visitors to our site and its components. Infoblox only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the web site or services so that we can improve the website and services. As part of this use of information, we may also provide aggregate information to our partners about how our customers generally use our site. We share this type of statistical data so that our partners also understand how often people use their services and our web site, so that they, too, may provide you with an optimal online experience.
 
-Our product automatically gathers certain information related to the usage and effectiveness of our online self-service support. We only use such data in the aggregate, and not in a form that would identify you personally. This aggregate data helps us determine how effective support service is, so we can improve our self-service tools and make them as effective as possible.
+##### Product Information Collected Automatically:
+
+We may receive and store certain information related to the usage and effectiveness of our online self-service support and usage of Infoblox products. Such information may be gathered automatically when you use or access Infoblox services, or if you choose to activate reporting capabilities on Infoblox products. We only use such data internally. This data regarding services helps us determine how effective support service is, so we can improve our self-service tools and make them as effective as possible. Data relating to products helps us asses the usage patterns and reliability of our product platforms, and may be used to help us in our continuing efforts to develop more efficient, reliable products.
 
 ##### E-mail Communications:
 
@@ -70,11 +72,11 @@ As explained earlier, the majority of browsers allow you to monitor and restrict
 
 ## EFFECTIVE DATE OF THIS PRIVACY POLICY
 
-This Privacy Policy is effective as of May 15, 2006.
+This Privacy Policy is effective as of May 15, 2006, and as amended on March 31, 2012.
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-Infoblox may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement in the “About this site” section of our web site.
+Infoblox may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use Personal Information or other information under this Privacy Policy, we will notify you by posting an announcement in the “About this site” section of our web site.
 
 ## QUESTIONS OR CONCERNS
 
