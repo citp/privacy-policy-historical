@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentorg.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218101528id_/http%3A//www.mentor.com/terms_conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentorg.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628124318id_/http%3A//www.mentor.com/terms_conditions/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mentor Graphics
 
