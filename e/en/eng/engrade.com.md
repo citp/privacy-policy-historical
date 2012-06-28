@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224030700id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628060707id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
 
 # Engrade Help - Privacy Policy
 
@@ -10,7 +10,7 @@ When we collect personal information from you on our website, we follow the priv
 
 **2\. Grades.** Engrade does not and will never release any student's grades to any third party without the student's (or parents') express permission.
 
-**3\. Email, Internal Messaging, and SPAM.** Engrade only emails users about matters directly related to their Engrade account such as: sign up confirmation, lost log in information, and new message notifications. Engrade does not email users about third party commercial products. Engrade will never release a user's email address to any third party without the user's express permission. Engrade also provides users with its own internal messaging system. To prevent SPAM associated with other messaging systems, Engrade only allows users to message other users with whom they have a confirmed relationship (such as student-teacher).
+**3\. Email, Internal Messaging, and SPAM.** Engrade emails users about matters directly related to their Engrade account such as: sign up confirmation, lost log in information, new message notifications, or upgrade information. Engrade may also send a monthly newsletter, for which you may opt-out at any time. Engrade will never release a user's email address to any third party without the user's express permission. Engrade also provides users with its own internal messaging system. To prevent SPAM associated with other messaging systems, Engrade only allows users to message other users with whom they have a confirmed relationship (such as student-teacher).
 
 **4\. Choice and Sharing.** We’ll give you choices about the ways we use and share your personal information, and we’ll respect the choices you make. Engrade will never release any of our users' information to third parties without express permission.
 
