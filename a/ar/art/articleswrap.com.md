@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleswrap.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101131945id_/http%3A//articleswrap.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleswrap.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628075258id_/http%3A//articleswrap.com/policy.php) for the most accurate reproduction.*
 
-# :::articleswrp.com:::
+# ArticlesWrap Policy – Point to Accompany While Submitting Article
 
 Your privacy is very important to us and it is our responsibility to protect the data you provide to us in normal circumstances. This Privacy Policy provides you the explanation on how Articleswrap collects, uses, and discloses the personal information offered by you as a result of the use of Articleswrap.com. We hope that our complete privacy policy below will help you to better understand what data we collect and how we use it.
 
