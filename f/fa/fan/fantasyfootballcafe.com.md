@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fantasyfootballcafe.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220222114id_/http%3A//www.fantasyfootballcafe.com/utility_page.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballcafe.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628050233id_/http%3A//www.fantasyfootballcafe.com/utility_page.php) for the most accurate reproduction.*
 
-# Utility Page - Fantasy Football Cafe 2011
+# Utility Page - Fantasy Football Cafe 2012
 
 On this page, you can find out how to write for the Cafe, whom to contact for what as well as a statement on our firm commitment to privacy. Once you're here, we'd also be particularly happy if you would participate in our [Site Survey](https://web.archive.org/survey_start.php), which is located [here](https://web.archive.org/survey_start.php). Interested in having your football writing published? Want to share your thoughts with the fantasy community? Fantasy Football Cafe welcomes submissions of interesting, original, and well-written articles.
 
-Among the subjects we run in the Cafe's [Articles](https://web.archive.org/tips.php) section are: fantasy strategy, opinion and commentary on a wide range of football topics, as long as they are previously unpublished (humor is always a plus, and so is good writing style of course). We also welcome submissions for our [Sleepers](https://web.archive.org/sleepers.php) column, participation in the Cafe's [Player Rankings](https://web.archive.org/player_rankings.php) as well as a helping hand in the editing room.
+Among the subjects we run in the Cafe's [Articles](https://web.archive.org/tips.php) section are: fantasy strategy, opinion and commentary on a wide range of football topics, as long as they are previously unpublished (humor is always a plus and so is good writing style, of course). We also welcome submissions for our [Sleepers](https://web.archive.org/sleepers.php) column, participation in the Cafe's [Player Rankings](https://web.archive.org/player_rankings.php) as well as a helping hand in the editing room.
 
 For details, please check out the Cafe's [Pencil and Paper](https://web.archive.org/forums/viewforum.php?f=233) forum (you need to [register](https://web.archive.org/forums/ucp.php?mode=register) to view this place - takes a moment of your time but will hopefully be worth it), or send an email to [headscribe@fantasycafe.com](mailto:headscribe@fantasycafe.com) with any questions you may have.
 
@@ -22,7 +22,7 @@ Fantasy Football Cafe has created this privacy statement in order to demonstrate
 
 This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by those third-party ad companies, and we do not have access to this information. Ad companies may use non-personally identifiable information about your visits to this site in order to provide advertisements about goods and services that may be of interest to you. You can find more information about this practice and your choices concerning these practices at http://networkadvertising.org/managing/opt_out.asp. 
+We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by those third-party ad companies, and we do not have access to this information. Ad companies may use non-personally identifiable information about your visits to this site in order to provide advertisements about goods and services that may be of interest to you. You can find more information about this practice and your choices concerning these practices at <http://networkadvertising.org/managing/opt_out.asp>. 
 
 This site contains links to other sites. Fantasy Football Cafe is not responsible for the privacy practices or the content of such Web sites. 
 
