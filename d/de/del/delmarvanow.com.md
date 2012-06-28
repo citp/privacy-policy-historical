@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the delmarvanow.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003250id_/http%3A//www.delmarvanow.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delmarvanow.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628153243id_/http%3A//www.delmarvanow.com/section/privacy) for the most accurate reproduction.*
 
-# privacy | The Daily Times | delmarvanow.com
+# PRIVACY | The Daily Times | delmarvanow.com
 
 Last Updated: November 9, 2011
 
