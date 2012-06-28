@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvla.gov.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613162504id_/http%3A//www.dft.gov.uk/dvla/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla.gov.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628201740id_/http%3A//www.dft.gov.uk/dvla/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -6,7 +6,7 @@
 
 >> [Home](https://web.archive.org/dvla/default.aspx?sc_lang=en "Return to home page") > Privacy and Cookie Policy
 
-Last Updated: 01/06/2011
+Last Updated: 06/03/2012
 
 This statement covers the services provided by the DVLA web site: [www.dft.gov.uk/dvla/](http://www.dft.gov.uk/dvla/). 
 
