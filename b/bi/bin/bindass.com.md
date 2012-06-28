@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227204049id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628024614id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.*
 
-# Bindass.com - Be bindass! Be yourself!
+# Bindass.com - Rest Less
 
 [Home ](http://www.bindass.com/)Privacy Policies
 
@@ -34,7 +34,7 @@ Our Website uses a variety of technical methods for tracking purposes, including
 
 Links to other websites
 
-You should be aware that when you are on our Website you could be directed to other websites where the personal information collected is outside the control of UNML. For example, if you click on a banner advertisement the click may take you off the Site. The privacy policy of the new website will govern the information obtained from you on such website. 
+You should be aware that when you are on our Website you could be directed to other websites where the personal information collected is outside the control of UTV New Media Ltd (UNML) / GenX Entertainment Ltd. For example, if you click on a banner advertisement the click may take you off the Site. The privacy policy of the new website will govern the information obtained from you on such website. 
 
 Changes to this policy
 
@@ -44,10 +44,8 @@ Queries
 
 If you have queries about our use of personal information, you can write to us:
 
-GenX Entertainment Ltd
-
-15-19 Shah & Nahar Industrial Estate
-
-Off Dr E Moses Road, Worli Naka
-
-Mumbai 400 018
+GenX Entertainment Ltd   
+1171-1172, Solitaire Corporate Park   
+Guru Hargovindji Marg,   
+Chakala, Andheri (East)   
+Mumbai 400 093
