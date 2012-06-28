@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123095447id_/http%3A//www.gobignetwork.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628223059id_/http%3A//www.gobignetwork.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go BIG Network
 
@@ -27,6 +27,12 @@ Following registration, Go Big Network users will be prompted to complete a prof
 ###  Internet
 
 As part of our efforts to provide better services to Go Big Network users, Go Big Media collects certain information related to the Internet and your computer. In order for us to analyze trends and provide superior service to our users, Go Big Media retrieves the web address (URL) of both the website that you visited directly before and directly after visiting the Go Big Network site. We also receive certain other information about your personal computer such as the unique IP address. Go Big Media also follows a standard practice of using cookies and logs to analyze website usage. Cookies a extremely small files that are stored on your computer and help us to provide you with a better experience by automatically recalling your preferences each time you visit our site. Cookies will not harm your computer in any way and can be deleted at any time.
+
+  * Third party vendors, including Google, show your ads on sites on the internet.
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+
+
 
 ###  User Accounts
 
