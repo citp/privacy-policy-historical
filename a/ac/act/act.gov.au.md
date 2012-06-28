@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113221017id_/http%3A//act.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628221715id_/http%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
 
 # Condensed Privacy Statement | ACT Government Entry Point
 
 ### Scope
 
-This statement applies to the <http://www.act.gov.au/>, <http://www.canberraconnect.act.gov.au/>, [http://www.search.act.gov.au](http://www.search.act.gov.au/) and [http://www.emergencyinformation.act.gov.au](http://www.emergencyinformation.act.gov.au/) websites and includes the collection, use, security of and access to information that may be obtained through the use the Canberra Connect payment facility. 
+This statement applies to the <http://www.act.gov.au/>, <http://www.canberraconnect.act.gov.au/> and <http://www.search.act.gov.au/> websites and includes the collection, use, security of and access to information that may be obtained through the use the Canberra Connect payment facility. 
 
 These websites are managed by Canberra Connect, Territory and Municipal Services Directorate.
 
@@ -46,8 +46,6 @@ Credit card details are used by the banking system and are not stored by or pass
 
 Canberra Connect uses [Google Analytics](http://www.google.com/analytics/ "Google Analytics"), a web analytics service provided by Google Inc. (Google). Google Analytics uses cookies and JavaScript code to collect non personal information about usage of this website. Canberra Connect analyses this data to improve our services.
 
-Google will not collect personal information about you. 
-
 ### Your choices
 
 You can review any personal information collected about you by submitting a written request to [Canberra Connect](http://www.canberraconnect.act.gov.au/contact-us "Contact us"). You may recommend changes to your personal information that you believe to be incorrect. The obligation to correct information is subject to any applicable limitation in a law that provides a right to require the collection or amendment of documents.
@@ -70,7 +68,7 @@ Canberra Connect follows the [Guidelines for Federal and ACT Government Websites
 
 ### Disclaimer
 
-The <http://www.act.gov.au/>, [http://www.canberraconnect.act.gov.au](http://www.canberraconnect.act.gov.au/) and [http://www.emergencyinformation.act.gov.au](http://www.emergencyinformation.act.gov.au/) websites contain links to third party websites. These include links to websites operated by other government agencies, non-profit organisations and private businesses.When you select a link to another web site, you are subject to the privacy policy of the new site. Canberra Connect is not responsible for the privacy practices or the content of such websites. 
+The <http://www.act.gov.au/>, <http://www.canberraconnect.act.gov.au/> and <http://www.search.act.gov.au/> websites contain links to third party websites. These include links to websites operated by other government agencies, non-profit organisations and private businesses.When you select a link to another web site, you are subject to the privacy policy of the new site. Canberra Connect is not responsible for the privacy practices or the content of such websites. 
 
 Neither the ACT Government, nor any agency, officer nor employee of the ACT Government warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products or services linked from this system and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. 
 
