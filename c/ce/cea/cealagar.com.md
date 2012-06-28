@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cealagar.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224063738id_/http%3A//www.cealagar.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cealagar.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628155615id_/http%3A//www.cealagar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TV Movies And Sports Trends
+# Privacy Policy | Jeff Under The Sun
 
 At **_www.cealagar.com_** we respect your privacy. Here you will find details outlining our privacy policy.
 
