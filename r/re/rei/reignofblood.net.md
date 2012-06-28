@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101112756id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629004802id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
 
 # Reign Of Blood - Vampire Game Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ## Not yet a member of the free online vampire game Reign Of Blood?
 
-[ ](https://web.archive.org/web/20111101112756id_/http%3A//reignofblood.net/vampire_signup.php "Become a vampire") Contact: To contact us please email reignofblood.net [at] gmail.com
+[ ](https://web.archive.org/web/20120629004802id_/http%3A//reignofblood.net/vampire_signup.php "Become a vampire") Contact: To contact us please email reignofblood.net [at] gmail.com
 
 **Third Party Adverts:**  
 Reign Of Blood will contain adverts around various pages, many of these being 3rd party adverts. We take no responsibility for what these adverts may contain, but we do try and restrict the type of adverts shown.
