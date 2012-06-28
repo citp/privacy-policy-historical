@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslemployment.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007070810id_/http%3A//www.eslemployment.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslemployment.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629015657id_/http%3A//www.eslemployment.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ESLemployment
 
