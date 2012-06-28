@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveology.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213065746id_/http%3A//www.saveology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveology.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628200922id_/http%3A//www.saveology.com/privacy-policy) for the most accurate reproduction.*
 
 # Saveology - Privacy Policy
 
@@ -120,10 +120,10 @@ When you provide us with a friend’s name and email address either to invite th
 
 ## 7\. To Inspect, Change or Modify Your Personal Information
 
-Upon request, SaveologyDEALS, LLC will provide you with a readable copy of your personal information that we have on file, although we may require proof of your identity before doing so. To make such a request, contact us at support@deals.saveology.com. If you would like to modify the information that you have provided to us, you may do so via the “My Account” page.  or in writing to support@deals.saveology.com. 
+Upon request, SaveologyDEALS, LLC will provide you with a readable copy of your personal information that we have on file, although we may require proof of your identity before doing so. To make such a request, contact us at support@deals.saveology.com. If you would like to modify the information that you have provided to us, you may do so via the “My Account” page or in writing to support@deals.saveology.com. 
 
 ## 8\. For Additional Information.
 
-SaveologyDEALS, LLC maintains this Site from its headquarters in Ft. Lauderdale, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with as to your Personal Information, please contact us as at privacy@deals.saveology.com or by United States Mail at SaveologyDEALS, LLC, 3303 W Commercial Blvd, Suite 201, Fort Lauderdale, FL 33309 or call 1-877-503-8132. 
+SaveologyDEALS, LLC maintains this Site from its headquarters in Ft. Lauderdale, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with as to your Personal Information, please contact us as at privacy@deals.saveology.com or by United States Mail at SaveologyDEALS, LLC, 5259 Coconut Creek Parkway, Margate FL 33063 or call 1-877-503-8132. 
 
 If you no longer wish to receive daily deals from Saveology, you may [Unsubscribe Here](http://profile.saveology.com/sa_unsubscribe.jsp) . 
