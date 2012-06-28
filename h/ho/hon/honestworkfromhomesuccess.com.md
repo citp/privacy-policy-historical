@@ -1,43 +1,50 @@
-> *The following text is extracted and transformed from the honestworkfromhomesuccess.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128225922id_/http%3A//www.honestworkfromhomesuccess.com/forum/view_info_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestworkfromhomesuccess.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629015733id_/http%3A//www.honestworkfromhomesuccess.com/custompage.php) for the most accurate reproduction.*
 
-# Site Privacy Policy
+# Privacy Policy
 
-|  Site Help Pages  
----  
-  
-  * [**Site Privacy Policy**](https://web.archive.org/web/20091128225922id_/http%3A//www.honestworkfromhomesuccess.com/forum/view.php?pg=info_privacy)
+PRIVACY POLICY
 
-  
-  
-|  | 
+Honestworkfromhomesuccess.com, takes pride in creating richer, deeper interactive experiences that combines original, independent and user-generated content. 
 
-  * The information provided on **Internet Marketing Forum** is presented as and is intended for educational purposes and general knowledge for consumers.
-  * The information provided on **Internet Marketing Forum** is collected from visitors who may or may not have a bias unrelated to the owners of this website. It can also be false, inaccurate, wrong or doubtful. It reflects the author of it and is not necessarily be true.
-  * **Internet Marketing Forum** does not sell, rent, loan, trade, or share any personal information collected at our site. This policy includes email addresses of the members.
-  * In accessing this web site and the Internet generally, you assume all responsibility and risk for use. Users are responsible for implementing sufficient procedures to protect themselves and their own computer systems.
-  * This website sends harmless internet cookies to your computer to keep track of your visits, collects site statistics and remember your member information to save you from relogining in.
-  * Most of the site content (including many posts in the forums, user profiles etc.) are open to page visitor including search engines. Members shouldn't share personal information in their profiles or posts which they don't want to publish in the internet. We have no control over search engine results when such information is submitted to the site by our members.
-  * **Internet Marketing Forum** server may collect and log IP addresses, browser information, cookie information, user actions performed in our website to provide a better service and improve the value of the materials available on website. These web logs are not sold or shared with third parties.
-  * Yet we share aggregate demographic information with our business partners, including advertisers. This data is not linked to any personally identifiable information.
-  * **Internet Marketing Forum** may share any information it has if an auhority (police force, Court etc.) requests it. Our site also reserves right to share such information to a complainer if any of our site visitors or members stalks or disturbes this user in an unacceptible manner and we confirm this with our records.
-  * **Internet Marketing Forum** contains links to, and graphics from, third-party websites and/or content providers. This Policy does not extend to those parties, nor is **Internet Marketing Forum** responsible for the content linked to or provided.
-  * Most of the information in this website is kept in a database which contains posts, registration info, survey/poll results, private messages, logged IPs etc. All this information contained within the database belongs to the administrator of Internet Marketing Forum and it can be accesible by site administration whenever it is required. So even the private messages which are saved in the database are accessible by site administration if needed so members are warned and asked to not to share too private and personal information in the private messages which shouldn't read by anybody.
-  * This website keeps the email address of its members hidden, unless member reveals it himself with opt-in selections. Member email addresses can be accessible to third parties if member posts it inside a forum post or emails another member.
-  * **Internet Marketing Forum** reserves its right to change this privacy policy anytime. Changes will always be reflected to this page.
-  * This web site is provided without warranties of any kind, expressed or implied, including but not limited to, those of title, merchantability, fitness for a particular purpose or non-infringement or any warranty arising from a course of dealing, usage, or trade practice.
-  * **Internet Marketing Forum** will not be liable to you or anyone else for any decision made or action taken by you or anyone else in reliance upon the information provided.
+Overall privacy statement
 
-  
-  
----  
-| 
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate. 
 
-[Still Have A Question?](https://web.archive.org/web/20091128225922id_/http%3A//www.honestworkfromhomesuccess.com/forum/sendmessage.php)
+1\. What information does Honestworkfromhomesuccess.com collect? 
 
-| 
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in contests and email newsletters and participation in message boards.   
+We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. 
 
-**338** _times visited._  
-  
----|---  
-  
-All times are GMT. The time now is 10:59 PM.
+2\. What is Honestworkfromhomesuccess.com practice regarding cookies? 
+
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.   
+
+
+[](http://www.honestworkfromhomesuccess.com/#)3\. How does Honestworkfromhomesuccess.com use the information? 
+
+We use the information we gather for four general purposes: 
+
+  1. To customize the advertising and the content you see; 
+  2. To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you; 
+  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards; 
+  4. To send you information you agreed to receive about topics we think will be of interest to you. 
+
+
+
+4\. How does Honestworkfromhomesuccess.com share the information? 
+
+We never share your personal information EVER!
+
+5\. What are my options? 
+
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. 
+
+6\. How can I review and update my personally identifiable information? 
+
+You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. 
+
+Questions, Comments 
+
+If you have any questions at all please don’t hesitate to contact us: 
+
+webmaster@honestworkfromhomesuccess.com
