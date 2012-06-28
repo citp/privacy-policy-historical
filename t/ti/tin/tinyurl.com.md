@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228175711id_/http%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628031134id_/http%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
 
 # TinyURL.com - shorten that long URL into a tiny URL
 
@@ -7,7 +7,7 @@
 
 ## TinyURL.com Privacy Policy
 
-_**Effective February 1, 2011**_
+_**Effective May 8, 2012**_
 
 Welcome to the privacy section of TinyURL, LLC. **_TinyURL_** ( ** _"we"_** or **_"us"_** ) provides an URL shortening service available through [TinyURL.com](http://tinyurl.com/), and any other websites owned, operated or controlled by us, our social media networking webpages and mobile applications (together the **_"Sites"_** ). This Privacy Policy applies only to information that users provide to us through the Services.
 
@@ -39,7 +39,7 @@ The Services are not directed to children under 13. We do not knowingly collect 
 
 ### Use of Cookies
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. TinyURL and third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you don't accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. You can learn more about the use of cookies and how you can opt out of the marketing programs of third party advertisers in connection with their use of cookies and similar technologies, by visiting [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://www.selectout.org](http://www.selectout.org/)
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. TinyURL and third party advertisers on the Site may also place or read cookies on your browser. These cookies may collect information that can be used to tailor advertising to you on TinyURL, other websites and other forms of media. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you don't accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. You can learn more about the use of cookies and how you can opt out of the marketing programs of third party advertisers in connection with their use of cookies and similar technologies, by visiting [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://www.selectout.org](http://www.selectout.org/)
 
 ### Links to Other Sites
 
