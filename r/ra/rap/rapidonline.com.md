@@ -1,41 +1,148 @@
-> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108042306id_/http%3A//www.rapidonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628185317id_/http%3A//www.rapidonline.com/privacy) for the most accurate reproduction.*
 
-# Rapid Electronics Privacy Policy
+# Rapid Electronics Privacy & Cookie Policy
 
-## Privacy and Security Policy
+## Privacy and Cookies Policy
 
 Overview
 
 The Data Protection Act 1998 regulates the processing of information relating to you and grants you various rights in relation to your personal data.
 
-Rapid Electronics Limited is committed to ensuring that your privacy is protected and that it complies its obligations under the Data Protection Act 1998.
+Rapid Electronics Limited is committed to ensuring that your privacy is protected and that it complies with its obligations under the Data Protection Act 1998.
 
-The Statement explains how we will treat any personal information that you provide to us when you use this site. It also outlines some of the security measures that we take in order to protect your privacy and gives certain assurances on things we will not do.
+The Privacy and Cookies Policy explains how we will treat any personal information that you provide to us when you use this site. It also outlines how we use internet cookies and some of the security measures that we take in order to protect your privacy, as well as giving certain assurances on things we will not do.
 
 The information we collect and how we use it
 
-When you register on our web site at [www.rapidonline.com](http://www.rapidonline.com/), we collect information about your organisation such as company name and address, areas that interest the company as well as personal information from you, such as your name, job title, e-mail address and business phone number.
+When you register on our website at www.rapidonline.com, we collect information about you and your organisation such as company name, address, job title, e-mail address and phone number.
 
-We gather this information to allow us to process your registration and to send you promotional material and catalogues where requested, as well as using it to develop and improve our services.
+We gather this information to allow us to process your registration and efficiently administer transactions and deliveries, as well as using it to develop and improve our services.
 
 We may use aggregated information for the purposes of tracking the usage of our services and in order to help us develop and improve the website and such services. We may pass this information to third parties. The aggregated information and statistics will not, however, include details that can be used to identify you.
 
-We (directly or through our trusted affiliates) would also like to provide you, from time to time, with information by e-mail about other Rapid Electronics services and products, which we think may be of interest to you. You can elect not to receive this information by changing your privacy settings in the My Account area of the website.
+We may have received personal information about you from other companies and organisations (for example, marketing purposes) and we rely on these third parties to obtain your consent for us to use this information.
 
-Security
+We use a number of different cookies on our website. 
 
-Any personal data saved is held safely on our servers with security systems preventing unauthorised access and we always aim to ensure that it is treated confidentially.
+A cookie is a text file that tracks our users' navigation of the site and stores that information on the hard drives of their PC, mobile phone or other web-connected device. There is nothing malicious about the use of cookies - in fact they are essential for websites to operate efficiently and to the best expectations of their users.
 
-Rapid does not accept credit card numbers in email messages. Never under any circumstances include your credit card number or CCV security code in an email. If our servers detect a message of this nature, it will not be delivered.
+Cookies allow us to understand our visitors' habits and preferences, enabling Rapid Electronics to customise its web services and provide an enhanced user experience. The use of cookies is standard in many industries and you will find them in use on most major websites. We may, for example, use cookies to store registration information so that you do not have to provide it to use on subsequent visits.
 
-Cookies
+Cookies on Rapidonline
 
-Please note that we use Cookies on the site. A cookie is a text file that tracks our users' navigation of the site and stores that information on their hard drives. This allows us to understand our users' habits and preferences which enables us to customise our services for our users to provide an enhanced user experience. The use of cookies is standard in many industries and you will find them in use on most major websites. We may, for example, use cookies to store registration information so that you do not have to provide it to use on subsequent visits.
+**Strictly Necessary Cookies**  
+  
+---  
+  
+  * BasketId 
+  * BasketSessionId
+  * UserId
+  * ASP.NET_SessionId
 
-If you do not want a cookie to be created by your PC, certain web browsers provide an option to disable them. Please bear in mind that some services on this website may not be available if you choose to disable cookies.
+| 
 
-Updating your personal information
+These cookies are essential to enable you to move around our website and use its features, such as adding products to your basket, or logging into your account securely.  Without these cookies, our website cannot work properly.  
+  
+**Functionality Cookies**  
+  
+  * Currency
+  * loginEmail
+  * loginPassword
+  * vat ****
 
-If any of the information that you have provided to us changes, please let us know the correct details by emailing us at [sales@rapidelec.co.uk](mailto:sales@rapidelec.co.uk)
+| 
 
-On payment of a small fee you are entitled to receive a copy of the information we hold about you. If at any time you have any questions or concerns about our Terms & Conditions or this Statement, please email us at [sales@rapidelec.co.uk](mailto:sales@rapidelec.co.uk) or write to: Rapid Electronics Limited, Severalls Lane, Colchester, Essex CO4 5JS. 
+These cookies allow us to remember the choices you make and your personalised features such as what currency you choose to view the site in, your VAT preferences, and your login and password if you choose to save them.  
+  
+**Performance Cookies**  
+  
+  * _utma
+  * _utmb
+  * _utmc
+  * _utmv
+  * _utmz
+
+| 
+
+These cookies from Google Analytics collect information about how you use our websites, for instance, which pages you go to most often and if you get error messages from those pages.  We only use these cookies to improve how our websites work.  [Click here for an overview of the Google privacy policy](http://www.google.com/analytics/learn/privacy.html)  
+  
+**Advertising or Tracking Cookies**  
+  
+  * _csoot
+  * _csuid
+  * __atuvc ****
+
+| 
+
+We do not accept advertising from any other organisation on our website. We do however allow you to share our content via social media and these cookies are used by AddThis, one of our technology partners, to help track which of the social networking options you use. ****  
+  
+If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
+
+From 26 May 2012 website owners in the UK became required by law to inform their visitors of the cookies they use on their site and what purpose they have. They must also provide users with the necessary information and guidance in order to disable cookies. 
+
+Gaining your consent
+
+How do you consent to the use of cookies? 
+
+If you continue to use this site without changing your settings, we will take this to mean that you are giving your consent to the use of cookies on [www.rapidonline.com](http://www.rapidonline.com/). This is in accordance with the most recent guidance by the Information Commissioner’s Office.
+
+If you choose not to allow cookies, you will do so on the understanding that certain parts of the site will not function correctly and we will have to ask you for your preferences every time you visit the site. 
+
+The parts of the site with functionality that will be affected without the acceptance of cookies include the following:
+
+  * Contents of shopping baskets will be lost between sessions
+  * Log-in details will not be stored
+  * Currency and VAT preferences cannot be remembered between sessions
+
+
+
+How do I disable cookies?
+
+Cookies can be disabled or removed from your computer using your browser settings. Please follow the instructions below to navigate to the settings on your browser in which you can disable cookies:
+
+Manage cookies in Internet Explorer  
+<http://support.microsoft.com/kb/196955>
+
+Manage cookies Firefox  
+<http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>
+
+Manage cookies in Google Chrome  
+[http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
+
+Managing cookies in Safari  
+<http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html>
+
+Manage cookies in Opera  
+<http://www.opera.com/browser/tutorials/security/privacy/>
+
+Manage cookies in Blackberry  
+<http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp>
+
+Manage cookies in mobile Google  
+[http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
+
+Links to other websites
+
+This privacy policy only covers the activity and operation of www.rapidonline.com. Rapid Electronics Limited accepts no responsibility or liability for the third party websites we provide links to. We recommend that visitors consult the respective privacy policies of these websites. 
+
+Unsubscribing from promotional emails
+
+Customers who wish to stop receiving marketing email communications or amend their preferences can do so quickly and easily. All marketing emails include an 'Unsubscribe' and 'Update your preferences' link. Alternatively an email with the subject line of 'Unsubscribe' can be sent to [feedback@rapidelec.co.uk](mailto:feedback@rapidelec.co.uk). Your email address will be removed from all our mailing lists used for marketing purposes. Please note that emails relating to the status of orders or transactions will still be sent and received.
+
+Payment card information
+
+Rapid Electronics conform to PCI (Payment Card Industry) Legislation regarding the protection of cardholders data and personal information. All transactions take place within a secure area of the website. Personal payment card information is not published in any form on the website and is not accessible to staff of Rapid Electronics.
+
+Changes to this privacy policy
+
+This privacy and cookie policy is reviewed regularly and any changes to it will be published on this page. The privacy policy was last updated on 10 May 2012. 
+
+How to contact us
+
+If you have any concerns or queries relating to your personal information, cookies or any aspect of our privacy policy, please write to us at the address below:
+
+Rapid Electronics Limited  
+Severalls Lane  
+Colchester  
+Essex  
+CO4 5JS
