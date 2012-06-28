@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siriuscanada.ca privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226174136id_/http%3A//www.sirius.ca/en/auxiliary/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriuscanada.ca privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628063142id_/http%3A//www.sirius.ca/en/auxiliary/privacy.aspx) for the most accurate reproduction.*
 
-# SIRIUS Satellite Radio Canada - Privacy
+# SIRIUS Satellite Radio Canada -
 
 **SIRIUS PRIVACY POLICY**
 
@@ -93,3 +93,5 @@ Sirius reserves the right to modify or supplement this Privacy Policy statement 
 Questions? Concerns?
 
 If you have any questions or concerns about this Privacy Policy or about the collection, use and disclosure of your personal information by Sirius please contact our Privacy Officer as set out at the beginning of this policy and we will try to address your concerns.
+
+Read the [XM Canada Privacy Policy](http://www.xmradio.ca/about/privacy-policy.cfm)
