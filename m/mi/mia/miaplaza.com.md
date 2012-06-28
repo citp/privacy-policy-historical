@@ -1,153 +1,115 @@
-> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124183518id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629005557id_/http%3A//www.always-icecream.com/help/privacy) for the most accurate reproduction.*
 
-# miaplaza - Privacy Policy
+# Always Icecream - Privacy Policy
 
-## Privacy Policy
+Always Icecream is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Always Icecream adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Always Icecream has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 530 587 7550 or privacy [at] always-icecream [dot] com. If you have further concerns after you have contacted Always Icecream, you can contact Privo directly at privacy@privo.com. 
 
-Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy: 
+We will use reasonable efforts to comply with the stated privacy principles and will take prompt corrective action when we learn of any failure to comply with them. We sometimes release alpha and beta versions of our products, which are further refined before the release of the final version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome user feedback on any privacy concerns you may have. In light of the above and because of the complex and constantly changing nature of our technology and business, Always Icecream does not guarantee error-free performance under this privacy policy. Always Icecream or Miaplaza, Inc., shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy. 
 
-  * We will not rent or sell your personally identifiable information to third parties for marketing purposes 
-  * We will not share your contact information with another user unless both of you choose to contact one another and/or otherwise provide such contact information to each other 
-  * We recognize the importance of privacy and use reasonable efforts to secure your information for unauthorized disclosure 
+Please read this privacy policy to learn more about:   
+1\. What personally identifiable information of yours is collected by Always Icecream.   
+2\. The use of cookies and log files.   
+3\. Children’s use of the site.   
+4\. How the information is used.   
+5\. With whom the information may be shared.   
+6\. How you can access and change your Account information.   
+7\. What security procedures are in place to protect the loss, misuse or alteration of information collected by Always Icecream.   
+8\. How to contact us. 
 
+Always Icecream offers for its members a community designed for young girls, where they can interact with friends, practice school material, engage in learning activities, play games and view videos. The Service is provided through Always Icecream’s web site currently located at www.always-icecream.com ("Site"). Always Icecream is a service provided by miaplaza, Inc. (“Miaplaza”, also referred to in this Privacy Policy as “Miaplaza" or "Always Icecream”) of Menlo Park, California, USA. 
 
+Please note that this privacy policy is provided under, and subject to, the Always Icecream User Agreement. 
 
-We will use reasonable efforts to comply with these privacy principles and will take prompt corrective action when we learn of any failure to comply with them. We sometimes release alpha and beta versions of our products, which are further refined before the release of the final version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome user feedback on any privacy concerns you may have. In light of the above and because of the complex and constantly changing nature of our technology and business, **mia** plaza does not guarantee error-free performance under this privacy policy. **mia** plaza shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy.
+Effective Date: This policy was last updated on August 27, 2010. 
 
-Please read this privacy policy to learn more about:
+**Information Collection**   
+Trial Registration:   
+In order to become an Always Icecream trial user, one must first create a girl’s account on this web site. To create an account, a girl is required to provide the following information: her first name and last name initial, plus a password for her account. She also is asked to provide an email account for the parent. The parent is then sent an email and is asked to click on a link to verify the email account; however this verification is not required for the girl to start her trial membership. A parent that clicks on the verification link will be offered to register for a fully verified parental account, as discussed below in the Full Registration section. 
 
-  1. What personally identifiable information of yours is collected by **mia** plaza. 
-  2. The use of cookies and log files. 
-  3. The prohibition on children’s use of the site. 
-  4. How the information is used. 
-  5. With whom the information may be shared. 
-  6. How you can access and change your Account information. 
-  7. What security procedures are in place to protect the loss, misuse or alteration of information collected by **mia** plaza. 
-  8. How to contact us. 
+All girls with trial registration status only see messages that have been pre-monitored by Always Icecream. See the discussion of monitoring in the section “Communication between Users” below. Trial registration members cannot become “Best Friends” as described below in the section “Always Icecream Friends.” 
 
+If a parent email is verified, when the associated girl later logs on to the site, she is offered to provide her own email address. This email address may be used to notify her of pending, pre-monitored messages or of new offerings on the site. She is also offered to share her birth date, which allows customization of her experience on Always Icecream. 
 
+Full Registration:   
+In order to become an Always Icecream Fully Registered, paying user, one must create a parent account on this web site. To create a parent account, a parent is required to provide the following information about the parent or guardian of the girl user: parent/guardian first name and last name, email address and an account password. Further the parent is required to make at least a symbolic payment through a third-party payment service; however, Always Icecream never receives this credit card information. The payment is required to verify adult status and establish the parent’s identity. 
 
-**mia** plaza enables members to more effectively link to families and friends, as well as to serve in their communities. **mia** plaza is a commercial enterprise that collects or may in the future collect revenues through advertising, permission-based referrals to other sites or services, and upgrades to premium member services.
+The girl is asked for the same sets of information with Full Registration as with Trial Registration, as discussed above. In addition, the girl user is provided a code that can be exchanged with friends to form Always Icecream Best Friends relationships, as described in the “Always Icecream Friends” section below. 
 
-Please note that his privacy policy is provided under, and subject to, the **mia** plaza User Agreement.
+For either registration type, Trial or Full, the girl may also provide information about herself in the child’s Profile section, such as her favorite color and what she’s doing now. Parts of this Profile are viewable by all users, while certain sections can only be seen by the girl’s friends or her own Best Friends. As noted below, apart from communication between mutual Best Friends, these information postings are pre-moderated for appropriateness. See below on interactions between users that are allowed for Best Friends and Regular Friends. 
 
-**Effective Date:** This policy was last updated on 9/22/2009. 
+Always Icecream does not condition a child’s participation in an activity on the disclosure of more information than is reasonably necessary to participate. 
 
-**mia** plaza enables members to more effectively link to families and friends, as well as to serve their communities. **mia** plaza is a commercial enterprise that collects or may in the future collect revenues through advertising, commissions for sales through affiliate programs such as through Amazon.com, and upgrades to premium member services.
+Always Icecream Friends:   
+Girls want to connect with friends and it's important for building social skills; thus, we want to encourage social interaction, but we want it to be in a safer setting than is typical for the Internet. There are two types of friends on Always Icecream. 
 
-**Information Collection**
+1\. Friends/Regular Friends - Girls can become friends on Always Icecream by inviting each other to start a friendship. All communication between friends is reviewed by a site moderator (i.e., pre-moderated) before it can be read by the intended recipients to prevent inappropriate commentary and divulging of personal information. 
 
-_Registration:_
+2\. Best Friends - Best Friends are friends that girls already have outside of Always Icecream. On Always Icecream Best Friends can chat with each other and engage in other person-to-person communication that is not necessarily monitored by a site moderator. To become linked as Best Friends on Always Icecream, both girls have to exchange their individual personal friendship codes. We currently take measures to get this to happen outside of Always Icecream. In the future we may alter this procedure, as we may come up with new, good ways of protecting the girls while encouraging social interaction. If we do, we’ll notify you first. 
 
-In order to become a **mia** plaza user, you must first create an account on this web site. To create an account you are required to provide the following information: name, email address, country, ZIP/postal code, and you must choose a password and a preferred language.
+A user can see, without pre-moderation, only postings made by a given user’s own Best Friends. Moderator approval is required before Regular Friends see all other postings, such as those posted by a Regular Friend who happens also to be the Best Friend of the user’s Best Friend. 
 
-You may also provide information on your postal address, phone numbers, website URL, and birthdate. This information can be made available to your Direct Contacts, at your discretion, but will not be available for others.
-
-You may provide additional information about yourself in the Interests section, and you can specify that this be made available to other members at **mia** plaza. You may also submit a picture and make this available to other members at **mia** plaza.
-
-_Information about your Contacts:_
-
-In order to invite others to connect with you directly in **mia** plaza, you will enter their names and email addresses. This information will be used by **mia** plaza to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send the one invitation and any reminders you ask us to send either at the time of the first invitation or later; they will not be used by **mia** plaza to contact them for any other reason. Should the person you invite wish that their email information be removed from miaplaza files, the person wishing their information removed can contact us at any time. 
+A girl can end an Always Icecream friend or Best Friend connection at any time using the friends management features of the site. 
 
 **Cookies & Log Files**
 
-Like most web sites, **mia** plaza uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows **mia** plaza to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile settings, cookie and log file data is used to customize your experience on the web site.
+Like most web sites, Always Icecream uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Always Icecream to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile settings, cookie and log file data is used to customize your experience on the web site. 
 
-**mia** plaza uses what is called a "session" cookie, which identifies a particular visit to the **mia** plaza site. Session cookies expire after a short time or when you close your web browser.
+Always Icecream uses what is called a "session" cookie, which identifies a particular visit to the Always Icecream site. Session cookies expire after a short time or when you close your web browser. 
 
-In addition, if you enable the automatic login feature, a "persistent" cookie stays on your computer between sessions to allow **mia** plaza to recognize your user account the next time you visit. This cookie is removed if you turn off this automatic login or if you switch users. At this time **mia** plaza does not use other "persistent" cookies.
+In addition, if you enable the automatic login feature, a "persistent" cookie stays on your computer between sessions to allow Always Icecream to recognize your user account the next time you visit. This cookie is removed if you turn off this automatic login or if you switch users. At this time Always Icecream does not use other "persistent" cookies. 
 
-Due to the communications standards on the Internet, when you visit the **mia** plaza web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave **mia** plaza. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the **mia** plaza service, but is not linked to personally identifiable information in any way.
+Due to the communication standards on the Internet, when you visit the Always Icecream web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Always Icecream. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Always Icecream service, but is not linked to personally identifiable information in any way.   
+**Information Use**   
+The information you choose to provide on this site is used to help you describe yourself to other users. In addition, Always Icecream collects certain types of information in order to operate and improve our service to you and other users. For example, we use third party tools to gather aggregate data on how many visit what Always Icecream pages, what paths are taken by members to get to Always Icecream, which browsers are used most, and other statistics. Miaplaza, Inc. is the sole owner of the information collected on this site. 
 
-**Children**
+We transfer Information and Personally Identifiable Information between Europe (Germany) and the United States. By visiting our Web site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own jurisdiction. Please note that Always Icecream’s own policies adhere to all requirements of the United States for its users from the USA. By providing us with your data, you consent to the transfer of such data. 
 
-Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.
+**Always Icecream Communications**   
+Always Icecream will communicate with you through email and notices posted on this website. These include occasional emails to inform you about various features of the service. 
 
-**Information Use**
+**Customized Content**   
+Information you provide at registration or in your Account Management section is also used to customize your experience on the web site. For example, the language used for many menu items is changed according to the setting on your Account Management page. 
 
-The information you choose to provide on this site is used to help you describe yourself to other users. In addition, **mia** plaza collects certain types of information in order to operate and improve our service to you and other users. For example, we use third party tools to gather aggregate data on how many visit what **mia** plaza pages, what paths are taken by members to get to **mia** plaza, which browsers are used most, and other statistics. **mia** plaza, Inc. is the sole owner of the information collected on this site.
+**Information Sharing**   
+Sharing Information with Third Parties:   
+Always Icecream takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions, to provide specific services. For instance, we use a payment and credit card processing company to bill users for subscription fees. We also use third party software development firms and server hosting services. None of these third parties retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information. 
 
-We transfer Information and Personally Identifiable Information outside of Europe to the United States. By visiting our Web site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data.
+Communication between Users:   
+Certain parts of the site allow for text communication between any Always Icecream user, including a member’s:   
+• Profile   
+• Comments to games and videos   
+• Submissions to “motto” chats 
 
-**_mia_ plaza Communications**
+Only a member’s friends see what is written in:   
+• Emails   
+• Certain elements of the member's Profile   
+• Guestbook comments 
 
-**mia** plaza will communicate with you through email and notices posted on this website. These includes occasional emails to inform you about various features of the service. Please note that you can opt out of any or all types emails from **mia** plaza by changing preferences on your Manage Communications Settings page, which you can get to using the link provided on the bottom of each email (login is required). If you have difficulties changing these settings, please contact us.
+Only a member's Best Friends see:   
+• A chat between herself and the Best Friend member   
+• The birthday (without year) of the friend 
 
-**Customized Content**
+With the exception of communication between Best Friends, all communication on Always Icecream is reviewed by site moderators before it is published (pre-moderation). This is to prevent inappropriate commentary and divulging of personal information to others. While our site monitors are diligent, some questionable comments may slip through; thus, please let us know if you register communication between girls that is not appropriate. 
 
-Information you provide at registration or in your Account Management section is also used to customize your experience on the web site. For example, the language used for many menu items is changed according to the setting on your Account Management page.
+If the member uses any of the communication function within this website and discloses personally identifiable information, you should be aware that such information could be read, collected or used by other users. While we have moderation functions, some filters and other measures in place to hinder it, we and our systems are not perfect. By verifying your account, you agree to work with us to address problems with personally identifiable information slipping through and entering the site, and you agree that Always Icecream cannot be held liable for inadvertent errors. 
 
-**Information Sharing**
+Emails initiated by a girl, such as invitation emails to join her on Always Icecream, will never list her personal information apart from what is written by her for that email specifically, nor will it specify the people to whom she is directly connected unless she has added this information. Note that the sender’s first name will be added to the email so that the recipient can understand who it is from. Email text added by the girl will be pre-moderated before being included in an email. 
 
-_Sharing Information with Third Parties:_
+We will not knowingly release personal information or unmoderated user submissions to those who are not Always Icecream members. 
 
-**mia** plaza takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions and to provide specific services. For instance, we use a payment and credit card processing company to bill users for subscription fees. We also use third party software development firms and server hosting services. None of these third parties retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.
+Legal Disclaimer:   
+It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims. 
 
-_Communications between Users:_
-
-Emails you initiate will never list personal information about you apart from what your write for that email specifically, nor will it specify the people to whom you are directly connected unless you have added this information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish a direct link as a “ **mia** plaza friend” and you set preferences to allow sharing of your contact information. You can end a direct link to a miaplaza friend using the Friends Management section of ****the site. You can also restrict who sees your profile information, element by element, using the Profile section of **mia** plaza.
-
-_Legal Disclaimer:_
-
-It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
-
-**Information Safeguards**
-
+**Information Safeguards**   
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you please contact us. 
+If you have any questions about security on our Web site, you please contact us mp-feedback[at]miaplaza.com 
 
-**Accessing and Changing Your Account Information**
+**Accessing and Changing Your Account Information**   
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your Always Icecream account, at any time by logging in to your account on the Always Icecream website and editing the account and profile information. To request that we close your account and remove your information, please send us your request and we will take care of it. Please send your request using an email account that you have registered with Always Icecream under your name. You will receive a response to requests sent to us within five business days of our receiving it. 
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your **mia** plaza account, at any time by logging in to your account on the **mia** plaza website and editing the information on your Manage Account page. To request that we close your account and remove your information please send us your request and we will take care of it. Please send your request using an email account that you have registered with **mia** plaza under your name. You will receive a response to requests sent to us within five business days of our receiving it.
+**Changes to this Privacy Policy**   
+Always Icecream may update this privacy policy. In the event there are significant changes in the way we treat your personal information, we will send a notice to the primary email address specified in your Always Icecream account or by displaying a prominent notice on this site. However, it is your responsibility to review the privacy policy from time to time so you will be aware of changes. 
 
-**Changes to this Privacy Policy**
-
-**mia** plaza may update this privacy policy. In the event there are significant changes in the way we treat your personal information, we will send a notice to the primary email address specified in your **mia** plaza account or by displaying a prominent notice on this site. However, it is your responsibility to review the privacy policy from time to time so you will be aware of changes.
-
-**Questions or Comments**
-
-If you have questions or comments about this privacy policy, please contact us. We can be reached by mail at PO Box 183; Menlo Park, CA 94026, USA.
-
-## MIAPLAZA COPYRIGHT AND INTELLECTUAL PROPERTY POLICY
-
-Notification of Copyright Infringement:  
-Miaplaza, Inc. (“Miaplaza”) respects the intellectual property rights of others and expects its users to do the same. It is Miaplaza’s policy, in appropriate circumstances and at its discretion, to disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others. In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf, Miaplaza will respond expeditiously to claims of copyright infringement committed using the Miaplaza website or other online network accessible through a mobile device or other type of device (the “Sites”) that are reported to Miaplaza’s Designated Copyright Agent, identified in the sample notice below. If you are a copyright owner, or are authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the Sites by completing the following DMCA Notice of Alleged Infringement and delivering it to Miaplaza’s Designated Copyright Agent. Upon receipt of the Notice as described below, Miaplaza will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged material from the Sites.
-
-DMCA Notice of Alleged Infringement (“Notice”)  
-1\. Identify the copyrighted work that you claim has been infringed, or - if multiple copyrighted works are covered by this Notice - you may provide a representative list of the copyrighted works that you claim have been infringed.  
-2\. Identify the material that you claim is infringing (or to be the subject of infringing activity) and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material, including at a minimum, if applicable, the URL of the link shown on the Site(s) where such material may be found.  
-3\. Provide your mailing address, telephone number, and, if available, email address.  
-4\. Include both of the following statements in the body of the Notice:  
-o “I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”  
-o “I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”  
-5\. Provide your full legal name and your electronic or physical signature.  
-Deliver this Notice, with all items completed, to Miaplaza’s Designated Copyright Agent:  
-Copyright Agent  
-c/o Miaplaza  
-David Hansen  
-Address: 41908 Via San Luis Rey, Fremont CA 94539  
-Phone / Fax: 51O-498-8264  
-Electronic mail: dmca.agent[at]miaplaza[dot]com
-
-Notification of Trademark Infringement:  
-If you believe that your trademark (the “Mark”) is being used on the Site by a user in a way that constitutes trademark infringement, please provide Miaplaza’s Designated Copyright Agent (specified above) with the following information:   
-1\. Your full legal name and your electronic or physical signature.   
-2\. Information reasonably sufficient to permit Miaplaza to contact you or your authorized agent, including a name, mailing address, telephone number and, if available, an email address.  
-3\. Identification of the Mark(s) alleged to have been infringed, including (i) for registered Marks, a copy of each relevant federal trademark registration certificate or (ii) for common law or other Marks, evidence sufficient to establish your claimed rights in the Mark, including the nature of your use of the Mark, and the time period and geographic area in which the Mark has been used by you.   
-4\. Information reasonably sufficient to permit Miaplaza to identify the use being challenged.  
-5\. Include both of the following statements in the body of the Notice:  
-o “I hereby state that I have not authorized the challenged use, and I have a good- faith belief that the challenged use is not authorized by law.”   
-o “I hereby state under penalty of perjury that all of the information in the notification is accurate and that I am the owner of the Mark, or authorized to act on behalf of the owner of the Mark.”   
-Upon receipt of notice as described above, Miaplaza will seek to confirm the existence of the Mark on the Sites, notify the registered user who posted the content including the Mark, and take whatever action, in its sole discretion, it deems appropriate, including temporary or permanent removal of the Mark from the Sites. 
-
-Notification of Other Intellectual Property (“IP”) Infringement:  
-If you believe that some other IP right of yours is being infringed by a user, please provide Miaplaza’s Designated Copyright Agent (specified above) with the following information:   
-1\. Your full legal name and your electronic or physical signature.  
-2\. Information reasonably sufficient to permit Miaplaza to contact you or your authorized agent, including a name, mailing address, telephone number and, if available, an email address.   
-3\. Identification of the IP alleged to have been infringed, including (i) a complete description or explanation of the nature of the IP, (ii) evidence that you own the IP in the relevant jurisdiction, including copies of relevant patents, registrations, certifications or other documentary evidence of your ownership, and (iii) a showing sufficient for Miaplaza to determine without unreasonable effort that the IP has been infringed;.   
-4\. Information reasonably sufficient to permit Miaplaza to identify the use being challenged.  
-5\. Include both of the following statements in the body of the Notice:  
-• “I hereby state that I have not authorized the challenged use, and I have a good- faith belief that the challenged use is not authorized by law.”   
-• “I hereby state under penalty of perjury that all of the information in the notification is accurate and that I am the owner of the IP, or authorized to act on behalf of the owner of the IP.”   
-Upon receipt of notice as described above, Miaplaza will seek to confirm the existence of the IP on the Sites, notify the user who posted the content including the IP, and take whatever action, in its sole discretion, it deems appropriate, including temporary or permanent removal of the IP from the Sites. 
+**Questions or Comments**   
+If you have questions or comments about this privacy policy, please contact Johannes Ziegler, CEO Miaplaza Inc. as website operator and your point person for any concerns about privacy on Always Icecream. He can be reached at (530) 587-7550, via email johannes [dot] ziegler [at] miaplaza [dot] com, or by mail at PO Box 183, Menlo Park, CA 94026, USA. 
