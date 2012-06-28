@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the vitalmtb.com privacy policy that was archived on 2011-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224144714id_/http%3A//www.vitalmtb.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalmtb.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629001623id_/http%3A//www.vitalmtb.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="mtb" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link href="http://assets.vitalmedianet.com/images/_mtb/favicon.ico" rel="shortcut icon"> 
+
+
 
 <title>Vital MTB</title>
 <meta name="description" content="">
@@ -12,7 +14,7 @@
 
 
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" charset="utf-8">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" charset="utf-8">
   var thisUserID = '';
   var thisUserName = '';
   var thisUserURL = '';
@@ -24,22 +26,50 @@
 </script>
 
 
-<script src="http://assets.vitalmedianet.com/javascripts/jquery.vital.min.js?1291675373" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://assets.vitalmedianet.com/javascripts/require-1.08.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://assets.vitalmedianet.com/javascripts/jquery-libs.vital.min.js"></script>
+
 <script type="text/javascript" charset="utf-8">
-  var isDST = false;
+  var isDST = true;
   $j = jQuery.noConflict();
 
-var wallpaper_ads = {
-	def: 'none'
-}
+  require.config({
+    baseUrl: "http://assets.vitalmedianet.com/javascripts",
+    waitSeconds: 2
+  });
 </script>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<script src="http://assets.vitalmedianet.com/javascripts/111221_vital.apps.min.js" type="text/javascript"></script>
-<!-- CSS -->
-<link href="http://assets.vitalmedianet.com/stylesheets/main.min.css?1319561030" media="screen" rel="stylesheet" type="text/css">
-<link href="http://assets.vitalmedianet.com/stylesheets/111221_wide.min.css" media="screen" rel="stylesheet" type="text/css">
+<script src="http://assets.vitalmedianet.com/javascripts/vital.apps.js?1339632657" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+  require([
+       "order!http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0.beta2/handlebars.min.js",
+	"order!underscore.js/1.3.1/underscore-min",
+	"120305_vital.comments",
+	"http://platform.twitter.com/widgets.js"
+  ], function() {});
+
+  if (window.location.pathname == '/') {
+      var float_ad = false;
+      require(["111223_vital.homepage.min"]);
+  }
+</script>
+
+<script type="text/javascript" charset="utf-8">
+(function(j$) {
+	$j.content = {"user_notification":false};
+	$j.user || ($j.user = {});
+	$j.extend($j.user, null);
+})(jQuery);
+</script>
+<link href="http://assets.vitalmedianet.com/stylesheets/120111_main.min.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE]><link href="http://assets.vitalmedianet.com/stylesheets/ie.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-<!-- // CSS --> 
+<link href="http://assets.vitalmedianet.com/stylesheets/120305_comments.min.css " media="screen" rel="stylesheet" type="text/css">
+
+
+
+
+
 
 
 <link href="http://assets.vitalmedianet.com/stylesheets/111221_mtb.css" media="screen" rel="stylesheet" type="text/css">
@@ -47,6 +77,16 @@ var wallpaper_ads = {
 
 
 
+
+<link href="https://plus.google.com/104753134562655402798" rel="publisher">
+<script type="text/javascript">
+window.___gcfg = {lang: 'en'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();</script>
 
 <meta property="fb:app_id" content="119061684797208">
 <meta property="og:site_name" content="Vital MTB"> 
@@ -67,6 +107,29 @@ var addthis_config = {
 };
 </script>
 
+<!-- expanding ad JS -->
+<script src="http://www.vitalmtb.com/javascripts/vital.exp_ad.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+	var opt = { items: [
+		{ 'ids': [3746,3747,3748,3749,3750], 'adslots': ['MTB_SRAM_WC_gallery_1128x250', 'MTB_SRAM_WC_gallery_1128x53'] },
+		{ 'ids': [3822,3823,3824], 'adslots': ['MTB_SRAM_WC_gallery_1128x250_Scotland', 'MTB_SRAM_WC_gallery_1128x53_Scotland'] },
+		{ 'ids': [3881,3882], 'adslots': ['MTB_SRAM_WC_gallery_1128x250_Quebec', 'MTB_SRAM_WC_gallery_1128x53_Quebec'] },
+		{ 'ids': [3883,3884], 'adslots': ['MTB_SRAM_WC_gallery_1128x250_Windham', 'MTB_SRAM_WC_gallery_1128x53_Windham'] },
+		{ 'ids': [3885,3886], 'adslots': ['MTB_SRAM_WC_gallery_1128x250_France', 'MTB_SRAM_WC_gallery_1128x53_France'] },
+		{ 'ids': [3890,3891], 'adslots': ['MTB_SRAM_WC_gallery_1128x250_Norway', 'MTB_SRAM_WC_gallery_1128x53_Norway'] },
+		{ 'ids': [3887,3888,3889], 'adslots': ['MTB_SRAM_WC_gallery_1128x250_WorldChamps', 'MTB_SRAM_WC_gallery_1128x53_WorldChamps'] }
+	], url_regex: /^\/photos\//gi, cookie_name: 'sram_01' };
+	
+	if (window.location.pathname == '/' && $j.app.inDateRange(['Wed Jun 13 2012 16:00:00 GMT-0700','Fri Jun 15 2012 23:59:00 GMT-0700'], ['Tue Jun 19 2012 00:00:00 GMT-0700','Wed Jun 20 2012 23:59:00 GMT-0700'], ['Tue Jun 26 2012 00:00:00 GMT-0700','Wed Jun 27 2012 23:59:00 GMT-0700'])) {
+		opt = { items: [
+			{ 'adslots': ['MTB_1128x250', 'MTB_1128x53'] }
+		], url_regex: /^\/$/gi, check_ids: false, cookie_name: 'trestle_01' };
+	}
+	
+	var exp_ad_adslots = expanding_ad(opt).init();
+</script>
+<!-- // expanding ad JS -->
+
 <script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript"> 
 </script>
 <script type="text/javascript"> 
@@ -82,51 +145,87 @@ var addthis_config = {
   GA_googleAddSlot("ca-pub-6522912635984550", "MTB_homepage_bottom_728");
 
 
+  GA_googleAddSlot("ca-pub-6522912635984550", "MTB_wallpaper_left_ROS_600x1080");
+  GA_googleAddSlot("ca-pub-6522912635984550", "MTB_wallpaper_right_ROS_601x1080");
+
+  if (exp_ad_adslots.tall !== undefined) GA_googleAddSlot("ca-pub-6522912635984550", exp_ad_adslots.tall);
+  if (exp_ad_adslots.pencil !== undefined) GA_googleAddSlot("ca-pub-6522912635984550", exp_ad_adslots.pencil);
 </script>
 <script type="text/javascript"> 
   GA_googleFetchAds();
 </script>
 
 <script type="text/javascript">
-  window.google_analytics_uacct = "UA-561000-15";
-  var _gaq = _gaq || [];
-  if (typeof Cookie.get == 'function' && typeof Cookie.set == 'function') {
-    if (Cookie.get('__utmz_reset') == null) {
-      _gaq.push(function() {
-        var utmz = Cookie.get('__utmz');
-        Cookie.set('__utmz', utmz, 7200);
-        Cookie.set('__utmz_reset',1, 15724800);
-      });
+  function getInternetExplorerVersion() {
+    var rv = -1;
+    if (navigator.appName == 'Microsoft Internet Explorer')
+    {
+      var ua = navigator.userAgent;
+      var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+      if (re.exec(ua) != null)
+        rv = parseFloat( RegExp.$1 );
     }
+    return rv;
   }
 
-  _gaq.push(['_setCampaignCookieTimeout', 7200000]);
-  _gaq.push(['_addIgnoredOrganic', 'vital mtb']);
-  _gaq.push(['_addIgnoredOrganic', 'vitalmtb']);
-  _gaq.push(['_addIgnoredOrganic', 'vitalmtb.com']);
-  _gaq.push(['_addIgnoredOrganic', 'http://www.vitalmtb.com/']);
-  _gaq.push(['_addIgnoredOrganic', 'www.vitalmtb.com']);
-  _gaq.push(['_addIgnoredOrganic', 'http://vitalmtb.com/']);
-  _gaq.push(['_setVar', user.getSegment()]);  
-  _gaq.push(['_setAccount', 'UA-561000-15']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_setAccount', 'UA-561000-17']);
-	_gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-  })();
-</script>
+  window.google_analytics_uacct = "UA-561000-15";
+  
+  if(document.referrer == '' && getInternetExplorerVersion() > -1) {
+    
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    
+    function asyncGAInit () {
+      pageTracker = _gat._getTracker('UA-561000-15');
+      pageTracker._initData();
+      pageTracker._setCampaignCookieTimeout(7200000);
+      pageTracker._addIgnoredOrganic('vital mtb');
+      pageTracker._addIgnoredOrganic('vitalmtb');
+      pageTracker._addIgnoredOrganic('vital mtb.com');
+      pageTracker._addIgnoredOrganic('http://www.vitalmtb.com/');
+      pageTracker._addIgnoredOrganic('www.vitalmtb.com');
+      pageTracker._addIgnoredOrganic('http://vitalmtb.com/');
+      pageTracker._trackPageview();
+      pageTracker = _gat._getTracker('UA-561000-17');
+      pageTracker._initData();
+      pageTracker._trackPageview();
+      pageTracker._trackPageLoadTime;
+      $j.post('/unblock_ie_bots');
+    	detach(window,"mousemove",arguments.callee);
+    	detach(window,"scroll",arguments.callee);
+    	detach(document,"keydown",arguments.callee);
+    }
+    
+    attach(window,"mousemove", asyncGAInit );
+    attach(window,"scroll", asyncGAInit );
+    attach(document,"keydown", asyncGAInit );
+    
+  } else {
+    var _gaq = _gaq || [];
+    _gaq.push(['_setCampaignCookieTimeout', 7200000]);
+    _gaq.push(['_addIgnoredOrganic', 'vital mtb']);
+    _gaq.push(['_addIgnoredOrganic', 'vitalmtb']);
+    _gaq.push(['_addIgnoredOrganic', 'vitalmtb.com']);
+    _gaq.push(['_addIgnoredOrganic', 'http://www.vitalmtb.com/']);
+    _gaq.push(['_addIgnoredOrganic', 'www.vitalmtb.com']);
+    _gaq.push(['_addIgnoredOrganic', 'http://vitalmtb.com/']);
+    _gaq.push(['_setAccount', 'UA-561000-15']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_setAccount', 'UA-561000-17']);
+  	_gaq.push(['_trackPageview']);
+  	_gaq.push(['_trackPageLoadTime']);
+  	(function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+	}
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
 
 </head>
 
-<body id="privacy_policy">
-<script type="text/javascript">
-vitalPage.initBgAd();
-</script>
+<body id="privacy_policy" class="small_scrn">
+<script type="text/javascript">if (navigator.userAgent && navigator.userAgent.match(/(iphone|ipad)/gi)) { document.body.style.backgroundImage = ''; document.body.style.background = '#000000'; }</script>
 <!-- Facebook SDK -->
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div> 
 <script> 
@@ -147,10 +246,16 @@ vitalPage.initBgAd();
 </script>
 <!-- end Facebook SDK -->
 
+<script type="text/javascript">
+if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPhone/i)) {
+	document.getElementsByTagName('body')[0].className = 'small_scrn';
+}
+</script>
+
 <div id="fixed_top">
   <!-- header -->
 <div id="header_wrapper">
-  <div id="header" class="clearfix">
+  <div id="header" class="clearfix" style="display: block;">
     <div id="logo">
       
       <a href="/">Vital MTB</a>
@@ -172,11 +277,40 @@ vitalPage.initBgAd();
   </div>  
 </div>
 <!-- // header -->
+
+<script type="text/javascript">
+var Supersession = {
+	timeStarts: new Date('Sat Mar 24 2012 00:00:00 GMT-0700'),
+	timeEnds: new Date('Tue Mar 27 2012 13:00:00 GMT-0700'),
+	timeIsBetween: function(ds,de) {
+		return (new Date()) > ds && (new Date()) < de;
+	},
+	timeIsAfter: function(ds) {
+		return (new Date()) > ds;
+	},
+	useSSHeader: function() {
+		var h = document.getElementById('header');
+		h.innerHTML = '';
+		h.style.height = '118px';
+		h.style.backgroundColor = '#000';
+		h.style.backgroundImage = 'url(http://assets.vitalmedianet.com/images/_mtb/super_session_2012.gif)';
+		h.style.backgroundPosition = '50% 0';
+		h.style.backgroundRepeat = 'no-repeat';
+		return false;
+	},
+	init: function() {
+		if (this.timeIsAfter(this.timeStarts) && document.title.toLowerCase().indexOf('super session') !== -1) this.useSSHeader();
+		else if (this.timeIsBetween(this.timeStarts, this.timeEnds) && window.location.pathname == '/') this.useSSHeader();
+		var h = document.getElementById('header');
+		h.style.display = 'block';
+	}
+};
+Supersession.init();
+</script>
 </div>
-<!-- main navigation -->
 <div id="main_nav_wrapper">
   <div id="main_nav">
-    <ul>
+    <ul class="clearfix">
       
       <li id="main_nav_home">
         
@@ -203,15 +337,30 @@ vitalPage.initBgAd();
         
         <li><a href="/photos/main?scope=feature">Feature Photos</a></li>
         
-        <li><a href="/features/Interbike-2011-Vital-MTBs-Complete-Guide,198">Interbike 2011</a></li>
+        <li><a href="/2012uciworldcup">2012 UCI World Cup</a></li>
+        
+        <li class="is_indented"><a href="http://www.vitalmtb.com/photos/features/2012-UCI-World-Cup-Val-di-Sole-Day-1,3746/VAL-DI-SOLE-WORLD-CUP-IS-ON,36113/sspomer,2">Val di Sole Day 1</a></li>
+        
+        <li class="is_indented"><a href="http://www.vitalmtb.com/photos/features/2012-UCI-World-Cup-Val-di-Sole-Day-2,3747/Sam-Hill-on-the-new-S-Works-Demo-at-Val-di-Sole,36195/sspomer,2">Val di Sole Day 2</a></li>
+        
+        <li class="is_indented"><a href="http://www.vitalmtb.com/photos/features/2012-UCI-World-Cup-Fort-WIlliam-Scotland-Day-1,3822/World-Cup-Team-Truck-Caravan,36719/sspomer,2">Fort WIlliam Scotland, Day 1</a></li>
+        
+        <li class="is_indented"><a href="http://www.vitalmtb.com/photos/features/2012-UCI-World-Cup-Fort-WIlliam-Scotland-Day-2,3823/Sam-Hills-Pink-Demo-and-TLD-Kit-are-up-for-Auction,36762/sspomer,2">Fort WIlliam Scotland, Day 2</a></li>
+        
+        <li class="is_indented"><a href="http://www.vitalmtb.com/photos/features/2012-UCI-World-Cup-Mont-Sainte-Anne-Day-1,3881/Steve-Peat-38-Years-Young-at-Mont-Sainte-Anne,37415/sspomer,2">Mont Sainte Anne, Day 1</a></li>
+        
+        <li class="is_indented"><a href="http://www.vitalmtb.com/photos/features/2012-UCI-World-Cup-Mont-Sainte-Anne-Day-2,3882/Rude-Awakening-at-Mont-Sainte-Anne,37506/sspomer,2">Mont Sainte Anne, Day 2</a></li>
         
         <li><a href="/features/2011-UCI-World-Cup-Round-Up,187">2011 UCI World Cup</a></li>
+        
+        <li><a href="/features/Interbike-2011-Vital-MTBs-Complete-Guide,198">Interbike 2011</a></li>
+        
+        <li><a href="/deitybestwhipphotocontest">Deity Best Whip Photo Contest</a></li>
         
         <li><a href="/features/Vital-MTB-Desktop-Wallpapers,169">Wallpapers</a></li>
         
         <li><a href="/profile_manager/photo_albums">Add Photos</a></li>
         
-        <div class="clearfix"></div>
         </ul>
         
       </li>
@@ -225,27 +374,24 @@ vitalPage.initBgAd();
         
         <li><a href="/videos/main">All Videos</a></li>
         
-        <li><a href="/17questions">17 Questions</a></li>
+        <li><a href="/seaotterclassic2012">2012 Sea Otter Classic</a></li>
         
-        <li><a href="/bikechecks">Bike Checks</a></li>
+        <li><a href="/17questions">17 Questions</a></li>
         
         <li><a href="/videos/commercials">Commercials</a></li>
         
         <li><a href="/videos/main?scope=feature">Feature Videos</a></li>
         
-        <li><a href="/freeridecontests">Freeride Contests</a></li>
-        
         <li><a href="/jra">JRA</a></li>
         
-        <li><a href="/pointers">Pointers</a></li>
+        <li><a href="/bikesandproducts">Product / Technical</a></li>
         
         <li><a href="/trailguide">Trail Guide</a></li>
         
-        <li><a href="/uciworldcup">UCI World Cup</a></li>
+        <li><a href="/videovault">Video Vault</a></li>
         
         <li><a href="/videos/new">Add a Video</a></li>
         
-        <div class="clearfix"></div>
         </ul>
         
       </li>
@@ -257,31 +403,34 @@ vitalPage.initBgAd();
         
         <ul>
         
+        <li><a href="/product/reviews">Latest Reviews</a></li>
+        
+        <li><a href="/product/top_reviewers">Top Reviewers</a></li>
+        
         <li><a href="/product/main">All Products</a></li>
         
-        <li><a href="/product/category/Bikes,1">All Mountain Bikes</a></li>
+        <li class="is_indented"><a href="/product/category/Bikes,1">All Mountain Bikes</a></li>
         
-        <li><a href="/product/category/Bikes,3/riding_type/cross_country">Cross-Country Bikes</a></li>
+        <li class="is_indented"><a href="/product/category/Bikes,3/riding_type/cross_country">Cross-Country Bikes</a></li>
         
-        <li><a href="/product/category/Bikes,3/riding_type/dirt_jump_urban">Dirt Jumping Bikes</a></li>
+        <li class="is_indented"><a href="/product/category/Bikes,3/riding_type/dirt_jump_urban">Dirt Jumping Bikes</a></li>
         
-        <li><a href="/product/category/Bikes,3/riding_type/downhill">Downhill Bikes</a></li>
+        <li class="is_indented"><a href="/product/category/Bikes,3/riding_type/downhill">Downhill Bikes</a></li>
         
-        <li><a href="/product/category/Bikes,3/riding_type/freeride">Freeride Bikes</a></li>
+        <li class="is_indented"><a href="/product/category/Bikes,3/riding_type/freeride">Freeride Bikes</a></li>
         
-        <li><a href="/product/category/Bikes,3/riding_type/all_mountain">Trail Bikes</a></li>
+        <li class="is_indented"><a href="/product/category/Bikes,3/riding_type/all_mountain">Trail Bikes</a></li>
         
-        <li><a href="/product/category/Frames,7/riding_type/dirt_jump_urban">Dirt Jumping Frames</a></li>
+        <li class="is_indented"><a href="/product/category/Frames,7/riding_type/dirt_jump_urban">Dirt Jumping Frames</a></li>
         
-        <li><a href="/product/category/Frames,7/riding_type/downhill">Downhill Frames</a></li>
+        <li class="is_indented"><a href="/product/category/Frames,7/riding_type/downhill">Downhill Frames</a></li>
         
-        <li><a href="/product/category/Suspension-Forks,33">Suspension Forks</a></li>
+        <li class="is_indented"><a href="/product/category/Suspension-Forks,33">Suspension Forks</a></li>
         
-        <li><a href="/product/category/Full-Face-Helmets,52">Full-Face Helmets</a></li>
+        <li class="is_indented"><a href="/product/category/Full-Face-Helmets,52">Full-Face Helmets</a></li>
         
-        <li><a href="/product/category/Handlebars,38">Handlebars</a></li>
+        <li class="is_indented"><a href="/product/category/Handlebars,38">Handlebars</a></li>
         
-        <div class="clearfix"></div>
         </ul>
         
       </li>
@@ -317,26 +466,26 @@ vitalPage.initBgAd();
     </ul>
   </div>
 </div>
-<script type="text/javascript"> 
-vitalPage.mainNavInit();
-</script> 
-<!-- // main navigation -->
 
-<!-- Background ad --> 
-<div style="width:100%; overflow:hidden; z-index:1; position:absolute; top:149px; left:0; display:none;" id="bgAdWrapper"> 
-  <div style="position:relative; left:50%;" id="bgAdContainer"> 
-    <div style="width:600px; min-height:600px; display:block; float:left; position:relative; overflow:hidden" class="bgAd" id="bgAdLeft"></div> 
-    <div style="display:block; height:600px; min-height:600px; float:left;" id="bgAdCenter"></div> 
-    <div style="width:600px; min-height:600px; display:block; float:left; position:relative; overflow:hidden" class="bgAd" id="bgAdRight"></div> 
-  </div> 
-</div> 
-<script type="text/javascript">
-vitalPage.showBgAd();
-$j(document).ready(function() { vitalPage.adjustBgAdHeight(); });
-</script> 
-<!-- // Background ad -->
+
+<!-- Wallpaper ad ROS --> 
+<div id="wpadWrapper">
+  <div id="wpadContainer">
+    <div class="wpadUnit" id="wpadUnitL"><script type="text/javascript">GA_googleFillSlot("MTB_wallpaper_left_ROS_600x1080");</script></div>
+    <div id="wpadCenter"></div>
+    <div class="wpadUnit" id="wpadUnitR"><script type="text/javascript">GA_googleFillSlot("MTB_wallpaper_right_ROS_601x1080");</script></div>
+  </div>
+</div>
+<!-- // Wallpaper ad ROS -->
+
+
 
 <div id="container">
+<script type="text/javascript">
+if (navigator.userAgent && navigator.userAgent.match(/(iphone|ipad)/gi) && $j('#wpadWrapper')) $j('#wpadWrapper').remove();
+else vitalPage.showWallpaperAd();
+</script>
+
   <div id="user_menu">
     <div class="search_form">
   <form method="get" action="/search" id="googleSearchForm"> 
@@ -361,7 +510,7 @@ $j(document).ready(function() { vitalPage.adjustBgAdHeight(); });
   
 <div class="fb_share_info:hide_tmp" id="message_bar"> 
   <div class="inner"> 
-	<a href="https://graph.facebook.com/oauth/authorize?client_id=119061684797208&amp;redirect_uri=http://www.vitalmtb.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://static.ak.fbcdn.net/rsrc.php/zB6N8/hash/4li2k73z.gif" width="169"></a> &nbsp; 
+	<a href="https://graph.facebook.com/oauth/authorize?client_id=119061684797208&amp;redirect_uri=http://www.vitalmtb.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://assets.vitalmedianet.com/images/4li2k73z.gif" width="169"></a> &nbsp; 
 	<span><strong>Share your Vital activity on Facebook</strong> (<a href="/fb_connect/faq">More info</a>)</span> 
 	<div class="post_txt"></div> 
 	<span class="close"> 
@@ -374,6 +523,26 @@ vitalPage.messageBarInit();
 </script>
 
   <div class="content">
+    <!-- expanding ad -->
+<div class="exp_ad_wrapper" id="exp_ad_wrapper">
+	<div class="exp_ad_inner">
+        <div class="exp_ad__pencil">
+        <script type="text/javascript">
+        GA_googleFillSlot(exp_ad_adslots.pencil);
+        </script>        
+                </div>
+            	<div class="exp_ad__tall">
+        <script type="text/javascript">
+        GA_googleFillSlot(exp_ad_adslots.tall);
+        </script>        
+        </div>
+        <div class="exp_ad__toggle">
+        	<a href="#toggle" class="exp_ad__toggle_link">Toggle</a>
+        </div>
+    </div>
+</div>
+<div class="exp_ad_ready" id="exp_ad_ready"></div>
+<!-- // expanding ad -->
     
     
     
@@ -529,13 +698,82 @@ Irvine, CA 92612
 </ul>
 </div>
 
+<script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=vitalbrad"></script>
   
 </div>
 <script type="text/javascript">
 vitalPage.adjustBgAdHeight();
 prepOutboundLinks();
 </script>
+<!-- Survey -->
+<div id="floatover" class="hide">
+  <div class="fb_logo"> 
+    <a href="#" id="floatover_close">[X] Close</a> 
+  </div> 
+  <div class="fb_content"> 
+    <p>Hello Vital <span class="site_letters"></span> user,</p> 
+    <p>We're conducting a survey and we'd appreciate your input. The survey should take just a few minutes to complete.</p> 
+    <p>Five lucky people will be selected at random to win a&nbsp;Vital&nbsp;<span class="site_letters"></span> t-shirt.</p> 
+    <p>Thanks in advance,</p> 
+    <p>The Vital <span class="site_letters"></span> Crew</p> 
+    <p align="center"><a href="http://www.surveymonkey.com/s/XXXXXXX" onclick="" target="_blank" id="survey_button"><span>Take Survey</span></a></p> 
+  </div> 
+</div> 
+<style type="text/css"> 
+div#floatover {
+    width:400px; height:300px; overflow:hidden; padding:23px;
+	background:url(/images/floatover_bg.png) center center no-repeat;
+	width: 400px;
+	position: absolute;
+	top: 156px;
+	left: -223px;
+	margin-left:-223px;
+	z-index: 1000;
+}
+div#floatover div.fb_logo { width:400px; height:58px; line-height:58px; background:#000 url(/images/floatover_sprite.gif) 0 -116px no-repeat; }
+div#floatover div.fb_logo a, div#floatover div.fb_logo a:hover { color:#fff !important; background-color:#000 !important; float:right; padding-right:15px; }
+div#floatover div.fb_content { padding:15px; font-size:14px; }
+div#floatover div.fb_content p { line-height:1.3em; padding-bottom:11px; }
+div#floatover div.fb_content p a#survey_button { display:block; width:98px; height:23px; background:url(/images/floatover_sprite.gif) 0 -174px no-repeat; }
+div#floatover div.fb_content p a:hover#survey_button { background-position:-294px -174px; }
+div#floatover div.fb_content p a#survey_button span { visibility:hidden; }
+/* site-specific styles */
+div#floatover.bmx div.fb_logo { background-position: 0 -116px; }
+div#floatover.mtb div.fb_logo { background-position: 0 -58px; }
+div#floatover.mx div.fb_logo { background-position: 0 0; }
+div#floatover.bmx div.fb_content p a#survey_button { background:#0077bb url(http://assets.vitalmedianet.com/images/floatover_sprite.gif) 0 -174px no-repeat; }
+div#floatover.mtb div.fb_content p a#survey_button { background:#990000 url(http://assets.vitalmedianet.com/images/floatover_sprite.gif) -98px -174px no-repeat; }
+div#floatover.mx div.fb_content p a#survey_button { background:#228b22 url(http://assets.vitalmedianet.com/images/floatover_sprite.gif) -196px -174px no-repeat; }
+</style> 
+<script type="text/javascript">
+var survey_cookie = 'audience_survey';
+var survey_urls = {
+	'bmx': 'http://www.surveymonkey.com/s/K3S6SMH',
+	'mtb': 'http://www.surveymonkey.com/s/K3PGXVT',
+	'mx': 'http://www.surveymonkey.com/s/K33ZYNV'
+}
+$j('#floatover').addClass(vitalPage.getSite());
+$j('.site_letters').each(function() { 
+	$j(this).text(vitalPage.getSite().toUpperCase()); 
+});
+$j('#survey_button').attr('href', survey_urls[vitalPage.getSite()]);
 
+if (!!Cookie && !!Cookie.get) {
+	var bmx_survey_cookie = Cookie.get(survey_cookie);
+	if (bmx_survey_cookie == null) $j('#floatover').show().animate({left: "50%"}, 1500);
+	
+	$j('#floatover_close').click(function(event) {
+		event.preventDefault();
+		Cookie.set(survey_cookie, 'hide', 5*86400);
+		$j('#floatover').fadeOut();
+	});
+	$j('#survey_button').click(function() {
+		Cookie.set(survey_cookie, 'hide', 365*86400);
+		$j('#floatover').fadeOut();
+	});
+}
+</script>
+<!-- // Survey -->
 <!-- Begin comScore Tag -->
 <script>
     document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
@@ -592,5 +830,9 @@ qacct:"p-5bUjnbj6Bo8KU"
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
+<!-- Handlebars templates -->
+<script type="text/x-handlebars-template" id="user-widget-new-tmpl"><div class="user_widget"><div class="user_widget__inner"><div class="widget_header"><div class="widget_header__userpic"><a href="{{url}}" title="View{{nickname}}'s profile"><img alt="{{nickname}}" src="{{userpic}}" width="48" height="48"></a></div><div class="widget_header__username"><p class="cmmnt_username"><a href="{{url}}" title="View{{nickname}}'s profile">{{nickname}}</a></p><p class="cmmnt_timestamp timestamp">Member since:{{member_since}}</p></div><div class="x_close_link"><a title="Hide">Close</a></div></div><div class="widget_section">{{#if location}}<p>Location: <strong>{{location}}</strong></p>{{/if}}{{#if summary.stories}}<p>Posts: <a href="{{url}}#stories">{{summary.stories}}</a></p>{{/if}}{{#if summary.friends}}<p>Friends: <a href="{{url}}#friends">{{summary.friends}}</a></p>{{/if}}{{#if summary.photos}}<p>Photos: <a href="{{url}}#photos">{{summary.photos}}</a></p>{{/if}}{{#if summary.videos}}<p>Videos: <a href="{{url}}#videos">{{summary.videos}}</a></p>{{/if}}{{#if summary.setup_link}}<p>Setup: <a href="{{summary.setup_link}}">view</a></p>{{/if}}{{#if summary.forum_new_topics}}<p>Forum topics started: <a href="{{url}}#forum">{{summary.forum_new_topics}}</a></p>{{/if}}{{#if summary.forum_replies}}<p>Forum replies: <a href="{{url}}#forum">{{summary.forum_replies}}</a></p>{{/if}}{{#if summary.comments}}<p>Comments: <a href="{{url}}#comments">{{summary.comments}}</a></p>{{/if}}{{#if summary.reviews}}<p>Reviews: <a href="{{url}}#reviews">{{summary.reviews}}</a></p>{{/if}}{{#if summary.profile_comments}}<p>Profile comments: <a href="{{url}}#profile-comments">{{summary.profile_comments}}</a></p>{{/if}}</div>{{#if send_message_url}}<div class="widget_section"><p><a href="{{send_message_url}}" class="admin_link"><span>Send Message</span></a></p></div>{{/if}}</div></div></script>
+
+
 
 </body></html>
