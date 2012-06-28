@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229110635id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629014752id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
 
 # Shaadi.com Matrimonials - The No.1 Matrimonial Services Provider - Privacy Policy
 
@@ -6,10 +6,9 @@
 ---  
  | Help Topics  
  |  | [About Shaadi.com](https://web.archive.org/introduction/about-us.php)  
- |  | [Shaadi.com On Dish TV](http://ww2.shaadi.com/customer-relations/faq/registration-dishtv)  
  |  | [Getting Started](http://ww2.shaadi.com/customer-relations/faq/registration)  
  |  | [Login / Password](http://ww2.shaadi.com/customer-relations/faq/login)  
- |  | [Partner Search](http://ww2.shaadi.com/customer-relations/faq/match_making)  
+ |  | [Partner Search](http://ww2.shaadi.com/customer-relations/faq/match-making)  
  |  | [Profile Management](http://ww2.shaadi.com/customer-relations/faq/profile)  
  |  | [Shortlists and more](http://ww2.shaadi.com/customer-relations/faq/shortlist)  
  |  | [Photographs](http://ww2.shaadi.com/customer-relations/faq/photo)  
@@ -28,7 +27,7 @@
  |  | [Technical Issues](http://ww2.shaadi.com/customer-relations/faq/technical)  
  |  | [ISO 9001:2008 certification](https://web.archive.org/customer_relations/faq/iso-certification.php)  
  |  | [Privacy & Security Tips](http://ww2.shaadi.com/customer-relations/faq/privacy-tips)  
- |  | [Write to Customer Relations](https://web.archive.org/customer_relations/matrimonial_help/index.php)  
+ |  | [Write to Customer Relations](http://ww2.shaadi.com/customer-relations/faq/write-to-us)  
  |  | [Calling Customer Relations](https://web.archive.org/customer_relations/faq/toll-free.php)  
   |  |  |  |   
 ---|---|---  
@@ -235,7 +234,7 @@ People Interactive (I) Pvt. Ltd.
 Next to TATA Motors,  
 Off Dr. E. Moses Road,  
 Worli, Mumbai - 400018  
-Phone: +91-22-44883456 |   
+Phone:  |   
   
   
 | Back to top |   
