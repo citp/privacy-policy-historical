@@ -1,36 +1,39 @@
-> *The following text is extracted and transformed from the thetechjournal.com privacy policy that was archived on 2002-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021220075422id_/http%3A//www.autospeed.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechjournal.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628212240id_/http%3A//thetechjournal.com/privacy-policy) for the most accurate reproduction.*
 
-# AutoSpeed - The World's Best High Performance Online Magazine
+# Privacy Policy | TheTechJournal
 
-AutoSpeed is published by Web Publications Pty Limited (ABN 38 084 463 507) of 3/10 Floriston Rd, Boronia Victoria 3155, Australia.
+**Privacy Policy For _[TheTechJournal.com](http://thetechjournal.com/)_**  
+The privacy of our visitors to _[TheTechJournal.com](http://thetechjournal.com/)_ is important to us.  
+As a Technological News Site, [TheTechJournal.com](http://thetechjournal.com/) is committed to the security of your information and pledges to follow the terms set out in this privacy policy (“Privacy Policy”).
 
-If you have concerns about your privacy while visiting our web site you may contact us as follows:
+**Website Information Usage**  
+We use web stat services and analytics software to track the referral, location, browser, operating system and screen resolution of our visitors, but not private information about each individual (such as your name of email address). E-mail addresses are only ever provided by the user voluntarily through the commenting process or via e-mail communications. Note: E-mail addresses that are entered in the required “e-mail” field in the comments area, are not publicly displayed. We aggregate user-specific information on what pages consumers access or visit, and information volunteered by readers, such as survey information and/or Website registrations. The information we collect is used to improve the content of our Website in a technical fashion only and not for marketing purposes.
 
-Email: [enquiries@autospeed.com](mailto:enquiries@autospeed.com)
+**Public Information**  
+Our Website enables you to post information to be accessed by others through our comments. When you do so, other visitors may collect your data and attempt to contact you off the site. Techi cannot be held liable for any offsite communications that result from your posting of personal information on our site. If you do not wish to be contacted offsite by other _[TheTechJournal.com](http://thetechjournal.com/)_ visitors, do not give your e-mail address or website address in the content when leaving a comment. Please note: Although you are required to provide your e-mail address in the specified field when entering a comment, your e-mail address will only be available to the Techi website administrators and will not be publicly visible. We have used Disqus platform for managing our Comments. Please Refer to their Policy & Terms for more details [here](http://docs.disqus.com/kb/terms-and-policies/), When you are commenting you have to agree to both our and Disqus’s terms.
 
-#### About the information we collect
+**Advertisers**  
+Third-party advertisers featured on _[TheTechJournal.com](http://thetechjournal.com/)_ may collect tracking information in a different manner than is set out in this Privacy Policy. The only information that they will be able to track is basic Website usage information; e-mail addresses are not passed on to advertisers for any reason even if they are provided to _[TheTechJournal.com](http://thetechjournal.com/)_ voluntarily.
 
-When you visit our web site our web server automatically logs certain non-personally identifiable data about your visit. This data consists of the time of your visit, your domain name or IP address, the browser and the operating system you use, the pages you visit and any links you follow to or within our web site.
+**Affiliate Marketing:**  
+Our website contains some affiliate marketing links, which means we get paid commission on sales of those products or services we write about. Our editorial content is not influenced by advertisers or affiliate partnerships. We use a 3rd Party to enable these affiliate partnerships. You can read their [Privacy Policy](http://skimlinks.com/privacy-policy#users) and find more information on [the cookies they use](http://skimlinks.com/user-cookies).
 
-If you use any of the services provided on our web site we may request you provide information about yourself including your name, address and details of how we can contact you. This information is generally required to enable us to fulfil the service you have requested effectively. No other personally identifiable information is collected from you without your knowledge. 
+**Cookies**  
+We use cookies to store visitor preferences, record user-specific information on what pages users access or visit, customize Website content based on visitor browser type or other information that the visitor sends. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site. Google, through their Adsense Program, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to RedmonePie.com users based on their visit to this and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
 
-From time to time we may also collect non-personally identifiable information during your visit such as the pages you view on the web site. This information may be collated to provide us with a statistical analysis of our navigation tools and to determine the popularity of different pages or section of the web site.
+**Use of Information Provided By User**  
+We do not use the information provided by users, such as e-mail addresses and contents of e-mail, for any marketing purposes. Your personal information is not used by subsidiary organizations or businesses related to _[TheTechJournal.com](http://thetechjournal.com/)_ , unless clearly disclosed for specific situations.
 
-#### How we use the information collected
+**Information Ownership**  
+All e-mails, comments or other forms of communication received by _[TheTechJournal.com](http://thetechjournal.com/)_ are the property of _[TheTechJournal.com](http://thetechjournal.com/)_ and may be used for editorial or technical improvements to the Website at our discretion without any form of compensation being owed to the sender of said communications.
 
-Personally identifiable information we collect from you is used to fulfil the service you have requested from us such as a purchase or an enquiry. If the information is to be used for any other purpose this use will be clearly stated at the time we collect the information. If the information provided is not necessary to fulfil the service completion of the details will be optional.
+**Information Security**  
+We have appropriate security measures in place in our physical facilities and the facilities of our service providers to protect against the loss, misuse or alteration of information that we have collected from you at our Website.
 
-Fulfilment of the service may require your personally identifiable information to be provided to a third party such as the provider of the service, supplier of a product or the goods carrier in the case of a purchase and Autobytel.com.au and the relevant car dealer in the case of new and used vehicle enquiries. 
+Information provided by Website visitors is held in confidence and used for editorial and technical improvements to the Website.
 
-#### Third Party Advertising
+**Privacy Contact**  
+If you feel that this Website is not following this Privacy Policy, you may [contact us](http://thetechjournal.com/contact) at with your concerns.
 
-We use various third party ad servers including DoubleClick's DART and DoubleClick's Audience Network to display advertisements to you. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. This information is provided to the Ad-Server and is used by the Ad-Server to create anonymous interest profiles. This information does not include and is never merged with personally identifiable information (such as name, address or email address) or any information that is considered sensitive or controversial or that would compromise your privacy. The Ad-Server(s') profiles may be accessed by the website and marketers to tailor site content, promotions and advertising, and to perform marketing research. Consumers can opt-out from these profiles at any time. 
-
-If you would like more information about this practice and to know your choices about not having this information used by these companies visit the following pages:
-
-[DoubleClick](http://www.doubleclick.net/us/corporate/privacy/)  
-
-
-#### Third Party Cookies
-
-In the course of serving advertisements to this site, third-party advertisers may place or recognize a unique "cookie" on your browser."
+**Copyrights**  
+Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please [contact us](http://thetechjournal.com/contact) immediately.
