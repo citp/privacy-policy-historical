@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ourproperties.com.au privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231104913id_/http%3A//www.ourproperties.com.au/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ourproperties.com.au privacy policy that was archived on 2012-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628181001id_/http%3A//www.ourproperties.com.au/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <title>
@@ -29,7 +29,94 @@
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.ourproperties.com.au/wp-content/themes/RealEstate/library/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="http://www.ourproperties.com.au/wp-content/themes/RealEstate/library/js/blogger.js"></script>
 
+<script type="text/javascript">
+//if(typeof(autocomplete) == 'undefined'){
+//    this.autocomplete = 0;
+//}
+//$(function (){load_js("http://www.ourproperties.com.au/wp-content/themes/RealEstate/library/js/jquery.autocomplete.js", this.autocomplete);});
+//
+//function load_js(file, identity){
+//    if(this.identity != 1){
+//        this.identity = 1;
+//        $("<scri"+"pt>"+"</scr"+"ipt>").attr({src:file,type:'text/javascript',id:'load'}).appendTo($('head').remove('#loadScript'));
+//    }
+//}
+</script>
+<script type="text/javascript" src="http://www.ourproperties.com.au/wp-content/themes/RealEstate/library/js/jquery.autocomplete.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.ourproperties.com.au/wp-content/themes/RealEstate/library/js/jquery.autocomplete.css">
+<script type="text/javascript" src="http://www.ourproperties.com.au/wp-content/themes/RealEstate/library/js/jquery.json-2.3.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    $("#s_keyword").autocomplete('/solr_client', { 
+            extraParams: { 
+                	'type':'autocomplete',
+            }, 
+            hightlight: false, 
+            max: 30, 
+            max: 8,
+            multiple: false,
+            multipleSeparator: ";",
+            matchContains : 1,
+            formatItem: function(row, i, n) { 
+                    return row; 
+            }, 
+            parse: function(data) {
+                if(data != ""){
+                	var suggMap = explode(data,';;', false);
+                    console.log(data);
+                    var suggest = [];
+                    var j = 0;
+                    for (i=0; i<suggMap.length; i++) {
+    	 				suggest[i] = { 
+                                        data: suggMap[i], 
+                                        value: suggMap[i], 
+                                        result: suggMap[i] 
+                                } 
+                        } 
+                                
+                    return suggest; 
+                }
+            } 
+    }); 
+}); 
 
+
+function explode(inputstring, separators, includeEmpties) {
+	 
+	 inputstring = new String(inputstring);
+	  separators = new String(separators);
+
+	  if(separators == "undefined") {
+	    separators = " :;";
+	  }
+
+	  fixedExplode = new Array(1);
+	  currentElement = "";
+	  count = 0;
+
+	  for(x=0; x < inputstring.length; x++) {
+	    str = inputstring.charAt(x);
+	    if(separators.indexOf(str) != -1) {
+	        if ( ( (includeEmpties <= 0) || (includeEmpties == false)) && (currentElement == "")) {
+	        }
+	        else {
+	            fixedExplode[count] = currentElement;
+	            count++;
+	            currentElement = "";
+	        }
+	    }
+	    else {
+	        currentElement += str;
+	    }
+	  }
+
+	  if (( ! (includeEmpties <= 0) && (includeEmpties != false)) || (currentElement != "")) {
+	      fixedExplode[count] = currentElement;
+	  }
+	  return fixedExplode;
+	}
+
+</script>
 <!-- For Menu -->
 
 </head>
@@ -144,7 +231,7 @@
 
 </script>    </div> 
     <div class="menu div_border_box">
-      <ul><li class="hometab current_page_item"><a href="/">Home</a></li><li class="hometab "><a href="/?page=buy">Buy</a></li><li class="hometab "><a href="/?page=rent">Rent</a></li><li class="hometab "><a href="/?page=map_search" target="_blank">Map Search</a></li><li class="hometab "><a href="/?page=farm" class="farm_bg">Farm</a></li><li class="hometab "><a href="/?page=luxury" class="luxury_bg">Luxury</a></li><li class="hometab "><a href="/?page=agents">Agents</a></li><li class="hometab "><a href="/?page=video">Video</a></li><li class="hometab "><a href="/?page=about_us">About Us</a></li></ul>
+      <ul><li class="hometab current_page_item"><a href="/">Home</a></li><li class="hometab "><a href="/?page=buy">Buy</a></li><li class="hometab "><a href="/?page=rent">Rent</a></li><li class="hometab "><a href="/?page=map_search" target="_blank">Map Search</a></li><li class="hometab "><a href="/?page=farm" class="farm_bg">Farm</a></li><li class="hometab "><a href="/?page=luxury" class="luxury_bg">Luxury</a></li><li class="hometab "><a href="/?page=project" class="project_bg">Project</a></li><li class="hometab "><a href="/?page=developer" class="developer_bg">New Homes</a></li><li class="hometab "><a href="/?page=agents">Agents</a></li><li class="hometab "><a href="/?page=video">Video</a></li></ul>
     </div>
   </div><!-- #header end -->
   <div class="clear"></div>
@@ -210,16 +297,16 @@ Email: privacy@ourproperties.com.au</p>
     <div class="footnav">
       <dl>
         <dd style="border-left:none">
-                  <a href="/?page=about_us">About Us</a>
-                </dd>
+          <a href="/?page=about_us">About Us</a>
+        </dd>
         <dd><a href="/?page=contact_us">Contact Us</a></dd>
         <dd><a href="/aboutus/advertise-with-us">Advertise With Us</a></dd>
         <dd><a href="/careers">Careers</a></dd>
         <dd><a href="/privacy_policy/">Privacy</a></dd>
         <dd><a href="/disclaimer/">Disclaimer</a></dd>
-        <dd><a href="/terms/">Terms</a></dd>
         <!--dd><a href="/?page=help">Help</a></dd-->
                 <dd><a href="/?page=partners">Partners</a></dd>
+        <dd><a href="/sitemap.xml">Site Map</a></dd>
       </dl>
     </div>
     <div class="copyrights">
