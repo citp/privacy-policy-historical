@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homestead.com privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206120037id_/http%3A//www.homestead.com/%7Esite/Legal/privacy.ffhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homestead.com privacy policy that was archived on 2012-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628133003id_/http%3A//www.homestead.com/%7Esite/Legal/privacy.ffhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html><head>
 
@@ -70,6 +70,11 @@ line-height: 1.4em;
 color: #000000;
 padding: 7px 14px 7px 14px;
 }
+.disabledChat
+{
+pointer: none;
+color: #AAAAAA;
+}
 img.moreArrow_hs
 {
 width: 12px;
@@ -81,6 +86,12 @@ img.moreArrow_iws
 width: 12px;
 height: 12px;
 background:url(/~site/jws/images/myWebsites/more_arrow_white.png) 0px 0px;
+}
+.rActiveMenu > .HBold13Link_iws > img.moreArrow_iws
+{
+width: 12px;
+height: 12px;
+background:url(/~site/jws/images/myWebsites/more_arrow_gray.png) 0px 0px;
 }
 img.moreArrow_vz
 {
@@ -115,6 +126,9 @@ text-decoration: none;
 
 <link rel="stylesheet" href="/~site/jws/css/madPow_layout.css" type="text/css">
 <link rel="stylesheet" href="/~site/jws/css/madPow_leftNav.css" type="text/css">
+<!--[if IE 7]>
+<LINK REL="stylesheet" HREF="/~site/jws/css/madPow_leftNav_IE7.css" TYPE="text/css">
+<![endif]-->
 
 
 <link rel="stylesheet" href="/~site/jws/css/customerVertical.css" type="text/css">
@@ -203,6 +217,7 @@ top.location.href = self.location.href;
 </div>
 </div>
 </div>
+<div class="clear"></div>
 
 
 <div id="content-bare-tos">
@@ -505,7 +520,7 @@ The TRUSTe program covers only information that is collected through this Web si
 
 
 
-<div id="copyright">© 2011 Homestead Technologies Inc. All Rights Reserved.</div>
+<div id="copyright">© 2012 Homestead Technologies Inc. All Rights Reserved.</div>
 
 
 </div>
@@ -584,6 +599,8 @@ else if (partnerID == 3)
 {
 group = "iws";
 }
+var prop9value = "";
+
 /* External Campaigns */
 var xcid = s.getQueryParam("xcid");
 var scid = s.getQueryParam("scid","","f");
@@ -603,7 +620,7 @@ s2.eVar4 = s2.prop4 = siteCode+"|" + group + "|convince";
 // s2.prop6 = ""; // Free use
 // s2.prop7 = ""; // Free use
 // s2.prop8 = ""; // Free use
-// s2.prop9 = ""; // Merchandising Categories (TBD)
+s2.prop9 = prop9value; // QS66 GYB FTU phase1
 s2.eVar10 = s2.prop10 = s2.pageName;
 
 s2.prop15 = ""; // Free use
@@ -681,15 +698,22 @@ lpAddExtendedVar();
 
 
 </div>
-<!-- Tue Dec 06 04:00:37 2011
- (1323172837) //-->
+<!-- Thu Jun 28 06:30:03 2012
+ (1340890203) //-->
 <script type="text/javascript" src="/~site/javascript/jquery.rickymenu.js"></script>
-<script>
+<script type="text/javascript">
+$(document).ready(function(){
 $(".rMenu").each(function() {
 var opts = {};
 if ($(this).hasClass("rRightMenu")) opts.align = "right";
+if ($(this).hasClass("rMenu")) opts.align = "right";
 if ($(this).hasClass("rHoverMenu")) opts.open = "hover";
 $(this).rickyMenu(opts)
+});
+// need this since css isn't getting loaded.
+if($.browser.msie){
+$(".rMenuOpener").css('zoom', 1);
+}
 });
 </script>
 
