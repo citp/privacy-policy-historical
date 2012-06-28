@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nrdconline.org privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231203522id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nrdconline.org privacy policy that was archived on 2012-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628033148id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>NRDC Privacy Policy</title>
@@ -10,94 +10,95 @@
 
 <body>
 <a name="top"></a><!--NavTopBase.asp-->
+<style type="text/css" media="all">
+	@import url(/stylesheets/frame.css);
+	@import url(/stylesheets/main.css);
+	@import url(/stylesheets/lightwindow.css);
+	@import url(/stylesheets/nrdc_quick_search.css);
+</style>
+<style type="text/css" media="print">
+	@import url(/stylesheets/print.css);
+</style>
+<link type="text/css" media="screen" rel="stylesheet" href="/include/colorbox/colorbox.css">
 
-    <style type="text/css" media="all">
-    	@import url(/stylesheets/frame.css);
-
-    	@import url(/stylesheets/main.css);
-
-		@import url(/stylesheets/lightwindow.css);
-		@import url(/stylesheets/nrdc_quick_search.css);
-		
-    </style>
-    <style type="text/css" media="print">
-		@import url(/stylesheets/print.css);
-	</style>
-    <link type="text/css" media="screen" rel="stylesheet" href="/include/colorbox/colorbox.css">
-
-<div id="container">
+<div id="viewport">
+	<div id="container">
 
     <div id="header">
     
-    <p id="skip"><a href="#content">Skip to main content</a></p>
+    <p class="hide focusable"><a href="#content">Skip to main content</a></p>
     
     <div id="logo"><a href="/"><img src="/_images/header-footer/logo-nrdc.gif" alt="Natural Resources Defense Council"></a></div>
 	
-    <div id="laondaverda"><b><a href="/laondaverde/">La Onda Verda (Español)</a></b></div>
+	<ul class="nav top">
+	<li class="toprated"><a href="/joingive/default.asp">NRDC is a top rated charity</a></li>
+	<li class="laondaverde"><a href="/laondaverde/">La Onda Verda EspaÃ±ol</a></li>
+	</ul>
     
-    <div id="searchbox">
+	
+	<div class="search">
 
-	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-	<script type="text/javascript">
-	  google.load('search', '1');
-	  google.setOnLoadCallback(function() {
-  		google.search.CustomSearchControl.attachAutoCompletion(
-  		  '001024953138106184952:levppyfplwy',
-  		  document.getElementById('searchfield'),
-  		  'cse-search-box-initiator');
-  		
-  		//this one is for the searchbox on the search page
-      if(jQuery("#searchpage-q").length > 0) {
-    		google.search.CustomSearchControl.attachAutoCompletion(
-    		  '001024953138106184952:levppyfplwy',
-    		  document.getElementById('searchpage-q'),
-    		  'cse-search-box');
-      }    
-  	});
-	</script>
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+  
+  if(jQuery('#searchtext').length > 0) {
+  	google.search.CustomSearchControl.attachAutoCompletion(
+  	  '001024953138106184952:levppyfplwy',
+  	  document.getElementById('searchtext'),
+  	  'cse-search-box-initiator');
+	}
+  
+  if(jQuery('#searchpage-q').length > 0) {
+	//this one is for the searchbox on the search page
+  	google.search.CustomSearchControl.attachAutoCompletion(
+  	  '001024953138106184952:levppyfplwy',
+  	  document.getElementById('searchpage-q'),
+  	  'cse-search-box');
+  }
+  });
+</script>
+<script type="text/javascript" src="http://www.google.com/uds/?file=search&amp;v=1"></script><link rel="stylesheet" type="text/css" href="http://www.google.com/uds/api/search/1.0/473bb688d0c0dd605119ad983f5a4386/default+en.css"><script type="text/javascript" src="http://www.google.com/uds/api/search/1.0/473bb688d0c0dd605119ad983f5a4386/default+en.I.js"></script>
+
+<form id="cse-search-box-initiator" method="get" action="/search.asp">
+  <div>
+	<input type="hidden" value="FORID:11" name="cof">
+	<input type="hidden" value="UTF-8" name="ie">
+	<label class="hide focusable" for="searchtext">Search</label>
+	<input type="text" onfocus="javascript:if(this.value=='Search the Site')this.value='';" value="Search the Site" autocomplete="off" id="searchtext" name="q" class="text">
+	<input type="image" alt="Go" src="/_images/header-footer/bg-searchbox-go.png" name="sa">
+	<input type="hidden" value="001024953138106184952:levppyfplwy" name="cx">
+	<input type="hidden" value="-inurl:https" name="hq">
+	<input type="hidden" value="iframe" name="t">
+  </div>
+</form>
+
+</div><script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 	
-	<form action="/search.asp" method="get" id="cse-search-box-initiator">
-	  <div>
-		<input type="hidden" name="cof" value="FORID:11">
-		<input type="hidden" name="ie" value="UTF-8">
-		<input class="text" type="text" id="searchfield" name="q" size="31" autocomplete="off" value="Enter Search Here" onfocus="javascript:if(this.value=='Enter Search Here')this.value='';">
-		<input id="submit" name="sa" type="image" src="/_images/bg-submit.gif" alt="Go"><br>
-		<input type="hidden" name="cx" value="001024953138106184952:levppyfplwy">
-		<input type="hidden" name="hq" value="-inurl:https">
-		<input type="hidden" name="t" value="iframe">
-	  </div>
-	</form>
-    </div>
-    <script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-	
-	<div id="nrdc-teaser"><b><a href="/joingive/default.asp">NRDC gets top ratings from the charity watchdogs</a></b></div>
 	
     <div id="nav">
     <ul>
     
-    <li id="nav-abo"><a href="/about/">About Us</a></li>
-    <li id="nav-new"><a href="/news/">News</a></li>
-    <li id="nav-iss"><a href="/issues/">Issues</a></li>
-    <li id="nav-pol"><a href="/policy/">Policy</a></li>
-    <li id="nav-liv"><a href="/living/">Smarter Living</a></li>
-    <li id="nav-bus"><a href="/business/">Smarter Business</a></li>
-    <li id="nav-mul"><a href="/tv/">Multimedia</a></li>
-    <li id="nav-blo"><a href="/blogs">Blogs</a></li>
-    <li id="nav-don"><a href="https://www.nrdc.org/joingive/Default.asp?&amp;utm_source=nrdc&amp;utm_medium=topnav&amp;utm_campaign=donate">Donate</a></li>
-    <li id="nav-act"><a href="/action/">Take Action</a></li>
+	<li class="nav-abo"><a onclick="raiseGAEvent('topnav', 'click', 'about')" href="/about/">About Us</a></li>
+	<li class="nav-iss"><a onclick="raiseGAEvent('topnav', 'click', 'issues')" href="/issues/">Issues</a></li>
+	<li class="nav-pol"><a onclick="raiseGAEvent('topnav', 'click', 'policy')" href="/policy/">Policy</a></li>
+	<li class="nav-act"><a onclick="raiseGAEvent('topnav', 'click', 'actnow')" href="/action/">Take Action</a></li>
+	<li class="nav-don"><a onclick="raiseGAEvent('topnav', 'click', 'donate')" href="https://www.nrdc.org/joingive/Default.asp">Donate</a></li>
     </ul>
     </div> 
 	
     
     </div>
     
-    <div id="content">
+		<div id="content-wrapper">
+	
+	<div id="content">
 
     <div id="col-left">
     <div id="section-nav"></div>
     </div> 
-
-        <div id="col-main" class="nonlegacy">
+<div id="col-main" class="nonlegacy">
 
 <!--NavTop.asp-->
 
@@ -155,8 +156,8 @@ When you donate to NRDC via our website your donation information is encrypted a
         //-->
         </script>
         <form action="http://www.nrdc.org/scripts/convio_api.asp" method="post" onsubmit="popupform(this, 'join')" name="nrdcJoinEmailVal">
-	<input name="return_url" value="http://www.nrdcaction.org/thankspop.html" type="hidden">
-	<input name="error_url" value="http://www.nrdcaction.org/errorpop.html" type="hidden"> 
+	<input name="return_url" value="http://www.nrdc.org/thankspop.html" type="hidden">
+	<input name="error_url" value="http://www.nrdc.org/errorpop.html" type="hidden"> 
 	<input name="source" value="nrdc_subscribeno" type="hidden">        
 	<input name="add_interest_ids" value="1481" type="hidden">
 	<label>Email Address</label>
@@ -166,24 +167,16 @@ When you donate to NRDC via our website your donation information is encrypted a
         </div>
         <p class="more"><a href="/newsletter/">See the latest issue &gt;</a></p>
         </div> <!-- end module -->
-		<div class="module"><a href="http://www.nrdc.org/joingive/"><img height="100" alt="Donate to NRDC" width="183" border="0" src="/_images/col-right/button-donate-wolves2.jpg"></a>
-</div><div class="module action"><h2>Take Online Action Now!</h2>
-<p><br></p>
-<ul><li><a href="https://secure.nrdconline.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=1695">Tell Interior Secretary Salazar to uphold federal protections for Yellowstone’s grizzly bears</a></li>
-</ul></div><div class="module action"><h2>NRDC Gets Top Ratings from the Charity Watchdogs</h2>
+		<div class="module action moduleid-174"><h2>NRDC Gets Top Ratings from the Charity Watchdogs</h2>
 <p><img alt="" src="/_images/right-column/4stars.gif"></p>
 <dl><dt><a href=""></a></dt>
-<dd><a href="http://www.charitynavigator.org/index.cfm?keyword_list=nrdc&amp;Submit2=GO&amp;bay=search.results" target="win2">Charity Navigator</a> awards NRDC its 4-star top rating.</dd>
+<dd><a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=4207" target="win2">Charity Navigator</a> awards NRDC its 4-star top rating.</dd>
 <dt><a href=""></a></dt>
 <dd><i>Worth</i> magazine named NRDC one of America's 100 best charities.</dd>
 <dt><a href=""></a></dt>
 <dd>NRDC meets the highest standards of the <a href="http://charityreports.bbb.org/public/Report.aspx?CharityID=129" target="win2">Wise Giving Alliance</a> of the Better Business Bureau.</dd>
 </dl><p class="more"><br>
-<a href="/joingive/default.asp">Donate now &gt;</a></p></div><div class="module"><h2>Victories</h2>
-
-<dl><dd class="source">For more than three decades, NRDC has fought successfully to defend wilderness and wildlife and to protect clean air, clean water and a healthy environment.</dd>
-<dd><a href="/about/victories.asp">read more &gt;</a></dd>
-</dl></div>
+<a href="/joingive/default.asp">Donate now &gt;</a></p></div>
     </div>
 
     <div id="share">
@@ -193,10 +186,6 @@ var addthis_share = {
     templates: {
 	    twitter: ' from @NRDC: {{url}}'
     }
-};
-var addthis_config = {
-    data_ga_property: 'UA-532044-1',
-    data_ga_social : true
 };
 </script>
 <div style="left: 380px; position: relative; width: 300px;" class="addthis_toolbox addthis_default_style">
@@ -211,32 +200,91 @@ var addthis_config = {
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=nrdcweb"></script>
     </div>
 
-    <div id="nrdcsites">
-    <h2>Find Your Favorite NRDC website</h2>
-    <dl><dt>Get Involved:</dt><dd class="first"><a href="http://www.savebiogems.org">Save BioGems</a></dd><dd><a href="http://www.nrdc.org/action">Action Center</a></dd><dd><a href="http://www.nrdcactionfund.org">NRDC Action Fund</a></dd><dd><a href="http://www.nrdcgreengifts.org?s_src=ggorgft&amp;utm_source=footer&amp;utm_medium=link&amp;utm_campaign=nrdcorg">Green Gifts</a></dd><dd><a href="http://www.greendaynrdc.com">GreenDay+NRDC</a></dd><dd><a href="http://www.e2.org">Environmental Entrepreneurs (E2)</a></dd></dl><dl><dt>News:</dt><dd class="first"><a href="http://www.onearth.org">OnEarth</a></dd><dd><a href="http://switchboard.nrdc.org">Switchboard</a></dd><dd><a href="http://www.nrdc.org/naturesvoice/default.asp">Nature's Voice</a></dd><dt>International:</dt><dd class="first"><a href="http://www.nrdc.org/laondaverde/">La Onda Verde</a></dd><dd><a href="http://www.nrdc.cn/english/E_index.php">China's Green Future</a></dd><dt>For Kids:</dt><dd class="first"><a href="http://www.nrdc.org/greensquad/default.htm">Green Squad</a></dd></dl>
-    </div>
-    
-    <div>
-    <dl id="social"><dt>Find NRDC on</dt><dd class="first"><a class="facebook" href="http://www.facebook.com/nrdc.org">Facebook</a></dd><dd><a class="twitter" href="http://twitter.com/nrdc">Twitter</a></dd><dd><a class="youtube" href="http://www.youtube.com/NRDCFlix">YouTube</a></dd></dl>
-    </div>
+    </div><!-- end div id="content" --> 
+	
+	
+		</div><!-- end div id="content-wrapper" --> 
+	
+	<div id="footer">
+	<div class="row"><div class="tagcloud moduleid-1204"><h2>Popular Issues</h2>
 
-    </div> 
-    
-    <div id="footer">
-    
-    <p>© Natural Resources Defense Council</p>
-    
-    <ul><li class="first"><a href="/default.asp">Home</a></li><li><a href="/about/default.asp">About Us/Contact Us</a></li><li><a href="/sitemap/default.asp">Site Map</a></li><li><a href="/jobs/default.asp">Jobs</a></li><li><a href="/privacy/default.asp">Privacy</a></li><li><a href="/reference/default.asp">Reference/Links</a></li><li><a href="http://www.nrdcaction.org/subscribe.html">Subscriptions</a></li><li><a class="rss" href="/rss/default.asp">RSS</a></li></ul>
+<ul><li><a class="size1" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=biogems&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">biogems</a></li><li><a class="size3" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=clean+air+act&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">clean air act</a></li><li><a class="size2" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=clean+energy&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">clean energy</a></li><li><a class="size1" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=climate+change&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe&amp;sa.x=40&amp;sa.y=16">climate change</a></li><li><a class="size2" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=drilling&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">drilling</a></li><li><a class="size2" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=energy&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">energy</a></li><li><a class="size3" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=energy+efficiency&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">energy efficiency</a></li><li><a class="size1" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=EPA&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">EPA</a></li><li><a class="size3" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=fracking&amp;sa=Search&amp;cx=001024953138106184952%3Alevppyfplwy&amp;sort=&amp;t=iframe&amp;siteurl=www.nrdc.org%2Fsearch.asp%3Fcof%3DFORID%253A11%26ie%3DUTF-8%26">fracking</a></li><li><a class="size2" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=gas+prices&amp;sa.x=0&amp;sa.y=0&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">gas prices</a></li><li><a class="size2" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=global+warming&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe&amp;sa.x=15&amp;sa.y=17">global warming</a></li><li><a class="size3" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=Keystone+XL&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe&amp;sa.x=18&amp;sa.y=27">Keystone XL</a></li><li><a class="size3" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=mercury&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe&amp;sa.x=12&amp;sa.y=17">mercury</a></li><li><a class="size1" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=natural+gas&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe&amp;sa.x=9&amp;sa.y=25">natural gas</a></li><li><a class="size1" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=oil&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">oil</a></li><li><a class="size1" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=renewable+energy&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">renewable energy</a></li><li><a class="size2" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=smart+growth&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">smart growth</a></li><li><a class="size1" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=transportation&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe&amp;sa.x=23&amp;sa.y=16">transportation</a></li><li><a class="size2" href="http://www.nrdc.org/search.asp?cof=FORID%3A11&amp;ie=UTF-8&amp;q=water&amp;cx=001024953138106184952%3Alevppyfplwy&amp;hq=-inurl%3Ahttps&amp;t=iframe">water</a></li></ul></div><div class="difference  moduleid-1203"><h2>Tell your friends you're making a difference:</h2>
+<p>"Protect our natural resources for our health and future generations. Join me and take action."</p>
+<div class="addthis_toolbox addthis_default_style" addthis:description="Protect our natural resources for our health and future generations. Join me and take action." addthis:title="Protect our natural resources for our health and future generations. Join me and take action @NRDC.">
+
+   <a onclick="raiseGAEvent('tell_your_friends', 'click', 'facebook');" class="addthis_button_facebook" addthis:url="http://www.nrdc.org/?utm_source=facebook&amp;utm_medium=post&amp;utm_campaign=tafbox"><img src="/_images/home/logofacebookf_share_01_47x20.gif"></a> 
+   <a onclick="raiseGAEvent('tell_your_friends', 'click', 'tweet');" class="addthis_button_tweet" addthis:url="http://bit.ly/uElXyV" tw:counturl="http://www.nrdc.org" addthis:template="{twitter: 'We must protect our natural resources for our health and future generations. Join me and take action @NRDC.'}"></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=nrdcweb"></script>
+</div></div>
+	<div class="row">
+
+		<ul class="nav">
+			<li><a onclick="raiseGAEvent('footer', 'click', 'home')" href="/default.asp">Home</a></li>
+			<li><a onclick="raiseGAEvent('footer', 'click', 'about')" href="/about/contact-us.asp">Contact Us</a></li>
+			<li><a onclick="raiseGAEvent('footer', 'click', 'map')" href="/sitemap/default.asp">Site Map</a></li>
+			<li><a onclick="raiseGAEvent('footer', 'click', 'jobs')" href="/jobs/default.asp">Jobs</a></li>
+			<li><a onclick="raiseGAEvent('footer', 'click', 'privacy')" href="/privacy/default.asp">Privacy</a></li>
+			<li><a onclick="raiseGAEvent('footer', 'click', 'subs')" href="http://www.nrdcaction.org/subscribe.html">Subscriptions</a></li>
+			<li><a onclick="raiseGAEvent('footer', 'click', 'rss')" class="rss" href="/rss/default.asp">RSS</a></li>
+		</ul>
+
+		<p class="copyright">© Natural Resources Defense Council</p>
+
+	</div> <!-- .row -->
+
     
     </div>
 
 </div> <!-- end container -->
+</div> <!-- end viewport -->
+<script type="text/javascript">
+/* Fix for IE 8 -- some issue with the async loading of ga.js. The fix requires
+having _gaq defined before the async load is triggered. - phensley */
+var _gaq = _gaq || [];
+</script>
 
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		_uacct = "UA-532044-1";
-		urchinTracker();
-		</script>
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	
+	var addthis_config = {
+		data_ga_property: 'UA-532044-1',
+		data_ga_social : true
+	};
+	
+	try {
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-532044-1']);
+		_gaq.push(['_setDomainName', 'nrdc.org']);
+		_gaq.push(['_setAllowLinker', true]);
+		_gaq.push(['_trackPageview']);
+	} catch(err) {}
+	
+	function raiseGAEvent(group, evt, item){
+		_gaq.push(['_setAccount', 'UA-532044-1']);
+		_gaq.push(['_trackEvent', group, evt, item]);
+	}
+
+    jQuery(document).ready(function($) {
+
+		// Add onClick _link to all <a> elements on page where href contains example-A.com
+		$("a[href*='nrdconline.org'], a[href*='nrdcaction.org']").click(function() {
+			_gaq.push(['_link', this.href]);
+			return false;
+		});
+
+		// Add onSubmit _linkByPost to all <form> elements on page where action contains example-A.com
+		$("form[action*='nrdconline.org'], form[href*='nrdcaction.org']").attr("onSubmit","_gaq.push(['_linkByPost', this])");
+		
+		//add onclick anallytics tracking to generic c4 ads
+		$(".c4.ad a[href*='nrdcactionfund.org']").click(function(){
+			raiseGAEvent('c4ads', 'click', 'general');
+		});
+	});
+	
+</script>
 
 
 
