@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the audiencescience.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216205406id_/http%3A//www.audiencescience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiencescience.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628053742id_/http%3A//www.audiencescience.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AudienceScience
 
-[View the Privacy Policy Highlights](https://web.archive.org/web/20111216205406id_/http%3A//www.audiencescience.com/privacy-highlights)  |  [View archive version](https://web.archive.org/web/20111216205406id_/http%3A//www.audiencescience.com/privacy-archive)
+[View the Privacy Policy Highlights](https://web.archive.org/web/20120628053742id_/http%3A//www.audiencescience.com/privacy-highlights)  |  [View archive version](https://web.archive.org/web/20120628053742id_/http%3A//www.audiencescience.com/privacy-archive)
 
-AudienceScience is committed to protecting your privacy. Our technology and the way we use it meets or exceeds all industry standards and legal requirements for protecting your privacy online. This privacy policy applies to all AudienceScience web sites, products and services worldwide that display or link to this notice. The purpose of this privacy policy is to give consumers comprehensive information about the information we collect, how we use that information, and inform you of your choices with respect to the collection and use of data for online behavioral advertising. A shorter version of this policy is available in our [Privacy Policy Highlights document](https://web.archive.org/web/20111216205406id_/http%3A//www.audiencescience.com/privacy-highlights). You can also learn more in our [Consumer Guide to Audience Based Advertising](https://web.archive.org/web/20111216205406id_/http%3A//www.audiencescience.com/videos/consumer-guide-audience-based-advertising) video.
+AudienceScience is committed to protecting your privacy. Our technology and the way we use it meets or exceeds all industry standards and legal requirements for protecting your privacy online. This privacy policy applies to all AudienceScience web sites, products and services worldwide that display or link to this notice. The purpose of this privacy policy is to give consumers comprehensive information about the information we collect, how we use that information, and inform you of your choices with respect to the collection and use of data for online behavioral advertising. A shorter version of this policy is available in our [Privacy Policy Highlights document](https://web.archive.org/web/20120628053742id_/http%3A//www.audiencescience.com/privacy-highlights). You can also learn more in our [Consumer Guide to Audience Based Advertising](https://web.archive.org/web/20120628053742id_/http%3A//www.audiencescience.com/videos/consumer-guide-audience-based-advertising) video.
 
 ### About Our Online Behavioral Advertising Services
 
@@ -26,10 +26,13 @@ Anyone who has provided personal contact information through the AudienceScience
 
 For our online behavioral advertising (OBA) services, we collect only non-personally identifiable information. All data collected for those services is anonymous. We do not collect any personally identifiable information (PII) for use with OBA.
 
-We collect information through the use of common internet technologies, such as cookies and beacons, on the web sites of those companies that participate in our online behavioral advertising services. We do not install software on users' computers or track keystrokes.
+We collect information through the use of common internet technologies, such as cookies and beacons, on the web sites of those companies that participate in our online behavioral advertising services. We do not install software on users' computers or track keystrokes. We may also use third parties cookies or web beacons to collect Non-Personal identifiable information on our or other websites.
 
 **Cookies**  
-When you visit a participating web site, AudienceScience places one or more cookies on your computer. Cookies are small text files that can be used by a web site to store information on a users' machine and later retrieve it. We use cookies to store information that can be used to serve ads relevant to your interests. We do not store any personally identifiable information in the cookies. We also use cookies when you opt-out via the industry opt-out page. Should you choose to opt-out, we delete all previously collected information from the cookies, and put new information in the cookie which tells us to stop collecting information from that device. 
+When you visit a participating web site, AudienceScience places one or more cookies on your computer. Cookies are small text files that can be used by a web site to store information on a users' machine and later retrieve it. We use cookies to store information that can be used to serve ads relevant to your interests. We do not store any personally identifiable information in the cookies. We also use cookies when you opt-out via the industry opt-out page. Should you choose to opt-out, we delete all previously collected information from the cookies, and put new information in the cookie which tells us to stop collecting information from that device.
+
+**Third Party Cookies**  
+The use of cookies by our [partners, affiliates, tracking utility company, service providers] is/is not covered by our privacy statement. We do/do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.]
 
 **Web Beacons**  
 Web sites and web pages contain links to other web sites. These might be links to images, videos, other web pages, ads or other types of content. We collect data from web sites that place a link to our web servers on their web site. We call this link a beacon. (They are also known as an action tag, clear gif or tracking pixel). A beacon is designed to allow the site owner or a third party to monitor or collect information about a site visitor. The type of information collected might include the IP address of the computer, the web page being viewed, the date/time it was viewed, and user activity on the page. We may use the IP address to infer information, such as geolocation. We do not use the IP address to identify users. We do not collect PII. 
@@ -46,7 +49,7 @@ We provide consumers with a means to opt-out of data collection. To opt-out, ple
 **Sensitive Information**  
 AudienceScience does not create nor use any sensitive data segments to tailor ads on behalf of our advertiser clients. However, we recognize that consumers may have differing opinions regarding which data segments are sensitive. In order to provide transparency around potentially sensitive data segments collected and used by AudienceScience, we will provide some examples of them here. For example, we may use health related segments such as Cholesterol and Dental, Oral Care or finance related segments such as Retirement Planners or Real Estate and Mortgage Shoppers.
 
-While we don’t consider any of the above data segments to be sensitive, we think its important to provide this transparency to help you have a better idea of which segments might be collected by us, so you can make informed decisions. And we don’t use any data segments to determine credit worthiness, for insurance underwriting or similar purposes.
+While we don't consider any of the above data segments to be sensitive, we think its important to provide this transparency to help you have a better idea of which segments might be collected by us, so you can make informed decisions. And we don't use any data segments to determine credit worthiness, for insurance underwriting or similar purposes.
 
 **Children**  
 We do not target children under the age of thirteen (13). Children under the age of 13 may be placed into one of our general audience segments, based on the web activity of the computer/browser they are using. We are unable to prevent this as we do not collect personally identifiable information and we don't collect information with the intent of identifying users as being under the age of 13.
@@ -114,17 +117,23 @@ In the United Kingdom, AudienceScience conforms to the standards of [IAB UK Good
 | [](http://www.youronlinechoices.co.uk/)  
   
 **TRUSTe Web Privacy Seal**  
-AudienceScience is a licensee of the TRUSTe Web Privacy Seal program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Our participation in this program indicates that we have agreed to have our privacy policy and practices reviewed for compliance by TRUSTe. TRUSTe also provides third-party dispute resolution. More information is provided in the How to Contact Us section of this privacy policy.
+AudienceScience has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.audiencescience.com](http://www.audiencescience.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@audiencescience.com](mailto:privacy@audiencescience.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 | [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.audiencescience.com/seal_m "Validate TRUSTe privacy certification")  
   
-**EU Safe Harbor**  
-AudienceScience complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. AudienceScience is also a licensee of the TRUSTe EU Safe Harbor Seal. 
+**ePrivacy Seal**  
+AudienceScience has been awarded the ePrivacy Seal. The ePrivacy seal is an initiative of ePrivacyConsult, an independent center for privacy protection. The certification and seal verifies that AudienceScience's audience delivery platform conforms to strict European data protection standards established by [ePrivacyConsult](http://www.eprivacyconsult.com/). 
 
-| [](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.audiencescience.com/seal_m "TRUSTe online privacy certification")  
+| 
+
+[](http://www.eprivacyconsult.com/)  
   
-**Europe**  
-In Europe, the AudienceScience products “Custom” and “Connect” have received the widely recognized Data Protection Seal from Germany’s leading public monitoring agency ULD (Unabhaengiges Landeszentrum für Datenschutz). Those products have also received the European Privacy Seal from EuroPriSe.  
+**EU Safe Harbor**  
+AudienceScience complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. AudienceScience has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AudienceScience certification, please visit <http://www.export.gov/safeharbor/>
+
+| 
+
+[](https://privacy.truste.com/privacy-seal/Audience-Science,-Inc-/validation?rid=ed1fe1f0-fc42-4dcb-b097-3e1f59604884 "TRUSTe European Safe Harbor certification")  
   
 **Testimonials**  
 We post customer testimonials on our Web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If a user desires to remove his/her name from appearing along with their testimonial, he/she can do so by sending an e-mail to [privacy@audiencescience.com](mailto:privacy@audiencescience.com).
@@ -142,10 +151,8 @@ AudienceScience, Inc.
 Bellevue, WA 98004  
 425.201.3900
 
-If contacting us does not resolve your inquiry or complaint, you may raise your complaint with TRUSTe by Internet at <http://watchdog.truste.com/pvr.php?page=complaint>, fax at 415-618-3421, or mail at Watchdog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint to be shared with us. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://watchdog.truste.com/pvr.php?page=complaint> or request this information from TRUSTe at the address listed above. The TRUSTe dispute resolution process shall be conducted in English.
-
 ### Changes to Privacy Policy
 
 This Privacy Policy may change from time to time. In the event that we make material changes to the Privacy Policy which require either more prominent notification or your explicit consent, we will do so. 
 
-Our Privacy Policy was last updated on August 25, 2011. The Privacy Policy was changed to present the information in a more user friendly way, and through the addition of a Privacy Policy Highlights document which accompanies this full Privacy Policy. There were no material changes to our collection and use of data. [View archived versions](https://web.archive.org/web/20111216205406id_/http%3A//www.audiencescience.com/privacy-archive). 
+Our Privacy Policy was last updated on June 7, 2012. The Privacy Policy was changed to present the information in a more user friendly way, and through the addition of a Privacy Policy Highlights document which accompanies this full Privacy Policy. There were no material changes to our collection and use of data. [View archived versions](https://web.archive.org/web/20120628053742id_/http%3A//www.audiencescience.com/privacy-archive). 
