@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directorycentral.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229054731id_/http%3A//www.directorycentral.com/privacy.php%3Fwidth%3D600%26height%3D600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorycentral.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628233333id_/http%3A//www.directorycentral.com/privacy.php%3Fwidth%3D600%26height%3D600) for the most accurate reproduction.*
 
-# DirectoryCentral.com - Local Business Listings with Networking
+# Privacy | www.DirectoryCentral.com
 
 **Effective December 15, 2008:**
 
@@ -73,11 +73,3 @@ Whenever possible, SocialTerrain Members may review the Registration PERSONALLY 
 If you ask SocialTerrain to stop using your PERSONALLY IDENTIFIABLE INFORMATION, SocialTerrain will honor that request while retaining any record of your PERSONALLY IDENTIFIABLE INFORMATION that is necessary to comply with applicable federal, state or local law. 
 
 If you would like to communicate with us about this Privacy Policy or SocialTerrain's collection and use of your PERSONALLY IDENTIFIABLE INFORMATION please contact SocialTerrain at: 
-
-Email:  
-Support@Socialterrain.com
-
-Mail:  
-SocialTerrain, Inc  
-127 Peachtree Street, STE 500  
-Atlanta, GA 30303
