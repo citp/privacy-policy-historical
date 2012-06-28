@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usa-people-search.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210305id_/http%3A//www.usa-people-search.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa-people-search.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628194537id_/http%3A//www.usa-people-search.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# USA People Search Privacy Policy and User Information Guidelines
 
 **Information Collected and Use**  
 USA People Search is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others without your explicit permission.   
