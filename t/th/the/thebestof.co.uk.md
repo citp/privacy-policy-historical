@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebestof.co.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216172330id_/http%3A//www.thebestof.co.uk/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestof.co.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628091128id_/http%3A//www.thebestof.co.uk/privacy/default.aspx) for the most accurate reproduction.*
 
-# Nigel Botterill
+# thebestof - Privacy Policy and Information
 
 **How we use your information**
 
