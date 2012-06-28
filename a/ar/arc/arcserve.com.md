@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211094349id_/http%3A//arcserve.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628080754id_/http%3A//www.arcserve.com/us/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ARCserve
 
