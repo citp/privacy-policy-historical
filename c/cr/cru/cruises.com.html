@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the cruises.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228202819id_/http%3A//www.cruises.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cruises.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629201134id_/http%3A//www.cruises.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head profile="http://www.w3.org/2005/10/profile">
+
+
 
 
 
@@ -58,22 +60,30 @@
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 
+
+
+
+
+
 	<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-30167-60");
 		pageTracker._trackPageview();
 	</script>
+
+
+
 	<script language="JavaScript">
    
     function CallUrchin(event_name)
     {
     		pageTracker._trackPageview(event_name);
-			//alert(event_name);
+			/*alert(event_name);*/
 		return true;
     }
     function CallTracker(cat, cat2, value)
     {
     		pageTracker._trackEvent(cat, cat2, value);
-			//alert(event_name);
+			/*alert(event_name);*/
 		return true;
     }
     function CallTrackerServerError(cat, cat2, value)
@@ -86,38 +96,44 @@
 		pageTracker._trackEvent(cat, cat2, value);
 		return true;
     }
+</script>
+      
     
-    /**
-    Asynchronous tracking of page views
-    New recommended approach by GA. Imporves performance
     
-    **/
+    
+	<script language="JavaScript">   
     function CallUrchinAsync(event_name)
     {
-    	_gaq.push(['_trackPageview',event_name]);
+    	_gaq.push(['_trackPageview',event_name]);    	
 		return true;
     }
-    /**
-    Asynchronous tracking of events
-    New recommended approach by GA. Imporves performance
+    </script>
+
+
     
-    **/
+
+
+	<script language="JavaScript">   
     function CallTrackerAsync(cat, cat2, value)
     {
     		_gaq.push(['_trackEvent',cat, cat2, value]);			
 		return true;
     }
+	</script>
+
+
+	<script language="JavaScript">   
     function addGATrans(booknumber,bookprice){    
 		try {		  
 		  pageTracker._addTrans(
-		    booknumber,  									// Order ID
-		    "",                            					// Affiliation
-		    bookprice, 										// Total
-		    "",                                    		 // Tax
-		    "",                                          // Shipping
-		    "",                                			 // City
-		    "",                              			 // State
-		    ""                                       	 // Country
+		    booknumber,  									/* Order ID */
+		    "",                            					/* Affiliation */
+		    bookprice, 										/* Total */
+		    "",                                    		 	/* Tax */
+		    "",                                          	/* Shipping */
+		    "",                                			 	/* City */
+		    "",                              			 	/* State */
+		    ""                                       	 	/* Country */
 		  );		  
 		
 		  pageTracker._trackTrans();
@@ -125,10 +141,34 @@
 		}
     
  	/* http://code.google.com/apis/analytics/docs/tracking/gaTrackingCustomVariables.html */   
-    function setGACustomVar(slot,varName,varValue,scope) {
+     function setGACustomVar(slot,varName,varValue,scope) {
     	pageTracker._setCustomVar(slot,varName,varValue,scope); 
     }    
  </script>  
+
+
+
+
+
+
+
+	<!-- start coremetrics tracking here -->
+	<script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
+	
+	<script type="text/javascript">
+		var domainname = "www.cruises.com";
+		
+		var coremetricsSubClientID = domainname.toUpperCase();
+		var coremetricsClientID = "50040000|" + coremetricsSubClientID;
+		var coremetricsDataCollectionDomain = "data.coremetrics.com";
+		var coremetricsCookieDomain = domainname;
+		
+		//alert("cmSetClientID(" + coremetricsClientID + ", true, " + coremetricsDataCollectionDomain + ", " + coremetricsCookieDomain + ");");
+		cmSetClientID(coremetricsClientID, true, coremetricsDataCollectionDomain, coremetricsCookieDomain);
+		cmSetupNormalization(null,"tab,i");
+	</script>
+	<!-- end coremetrics tracking here -->
+
 
 
 
@@ -156,8 +196,7 @@
 
 
 <script language="javascript" src="/lib/JavaScript/general/browserdetect_lite.js"></script>
-
-	
+<script language="JavaScript" src="/code/javaScript/JSPopup.js"></script>
 </head>
 
 
@@ -166,7 +205,7 @@
 
 
 <!--
-	server and timestamp info:blweb23:Wed Dec 28 15:28:19 EST 2011
+	server and timestamp info:blweb23:Fri Jun 29 16:11:33 EDT 2012
   -->
 	
 
@@ -297,101 +336,210 @@ html > body .ietopmargin {margin-top:0px;}
                
                
                     <ul id="nav" class="no_navpad">
-                        <li id="navHome"><a id="ctl00_Home" accesskey="1" href="http://www.cruises.com" class="nav2">home</a></li>
-                        <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
-                        <li id="navGroups"><a id="ctl00_Groups" href="http://www.cruises.com/groupcruises/">
-                            group cruises</a>
-                            
-                        </li>
-                        <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
+
                         <li id="navArr"><span id="darr">↓</span></li>
+
+                        <li id="navCruiseLines"><a id="ctl00_CruiseLines" href="http://www.cruises.com/c/cruisemain.asp">
+
+                           cruise lines</a>
+
+                           <ul class="no_navpad">
+
+								<li><a id="ctl00_Carnival" href="http://www.cruises.com/promotion/carnival-cruises.do" class="link">Carnival Cruise Lines</a></li>
+
+								<li><a id="ctl00_Celebrity" href="http://www.cruises.com/promotion/celebrity-cruises.do" class="link">Celebrity Cruises</a></li>
+
+								<li><a id="ctl00_Costa" href="http://www.cruises.com/promotion/costa-cruises.do" class="link">Costa Cruises</a></li>
+
+								<li><a id="ctl00_Disney" href="http://www.cruises.com/promotion/disney-cruises.do" class="link">Disney Cruise Line</a></li>
+
+								<li><a id="ctl00_Holland" href="http://www.cruises.com/promotion/holland-america-cruises.do" class="link">Holland America Line</a></li>
+
+								<li><a id="ctl00_MSC" href="http://www.cruises.com/promotion/msc-cruises.do" class="link">MSC Cruises</a></li>
+
+								<li><a id="ctl00_Norwegian" href="http://www.cruises.com/promotion/norwegian-cruises.do" class="link">Norwegian Cruise Line</a></li>
+
+								<li><a id="ctl00_Princess" href="http://www.cruises.com/promotion/princess-cruises.do" class="link">Princess Cruises</a></li>
+
+								<li><a id="ctl00_Royal" href="http://www.cruises.com/promotion/royal-caribbean-cruises.do" class="link">Royal Caribbean</a></li>
+
+						    
+
+                                <li><a id="ctl00_AllLines" href="http://www.cruises.com/c/cruisemain.asp">&gt;&gt;See All Cruise Lines</a></li>
+
+                            </ul>
+
+                        </li>
+
+                        <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
+
+                        <li id="navArr"><span id="darr">↓</span></li>
+
+                        <li id="navDestinations"><a id="ctl00_Destinations" href="http://www.cruises.com/promotion/crudotcom/cruise-destinations.asp">
+
+                           destinations</a>
+
+                           <ul class="no_navpad">
+
+								<li><a id="ctl00_Alaska" href="http://www.cruises.com/promotion/alaska-cruises.do">Alaska Cruises</a></li>
+
+                                <li><a id="ctl00_Bahamas" href="http://www.cruises.com/promotion/bahamas-cruises.do">Bahamas Cruises</a></li>
+
+                                <li><a id="ctl00_Bermuda" href="http://www.cruises.com/promotion/bermuda-cruises.do">Bermuda Cruises</a></li>
+
+                                <li><a id="ctl00_Canada" href="http://www.cruises.com/promotion/canada-new-england-cruises.do">Canada/NE Cruises</a></li>
+
+                                <li><a id="ctl00_Caribbean" href="http://www.cruises.com/promotion/caribbean-cruises.do">Caribbean Cruises</a></li>
+
+                                <li><a id="ctl00_Europe" href="http://www.cruises.com/promotion/europe-cruises.do">Europe Cruises</a></li>
+
+                                <li><a id="ctl00_Hawaii" href="http://www.cruises.com/promotion/hawaii-cruises.do">Hawaii Cruises</a></li>
+
+                                <li><a id="ctl00_Mexico" href="http://www.cruises.com/promotion/mexico-cruises.do">Mexico Cruises</a></li>
+
+                                <li><a id="ctl00_AllDestinations" href="http://www.cruises.com/promotion/crudotcom/cruise-destinations.asp">&gt;&gt;See All Destinations</a></li>
+
+
+
+                            </ul>
+
+                        </li>
+
+                        <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
+
+                    	<li id="navArr"><span id="darr">↓</span></li>
+
                         <li id="navCruiseDeals"><a id="ctl00_CruiseDeals" href="http://www.cruises.com/promotion/crudotcom/deals/cruise-deals.asp">
+
                            cruise deals</a>
+
                             <ul class="no_navpad">
+
                                 <li><a id="ctl00_Balcony" href="http://www.cruises.com/promotion/balcony-suite-cruises.do">Balcony &amp; Suite Deals</a></li>
+
                                 <li><a id="ctl00_Cheap" href="http://www.cruises.com/promotion/cheap-cruises.do"> Cheap Cruises</a></li>
-                                <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/regional/default.asp">Close to Home Deals</a></li>
+
+                                <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/ports/regional-cruises.do">Close To Home Deals</a></li>
+
+                                <li><a id="ctl00_NewYork" href="http://www.cruises.com/promotion/ports/cruises-from-new-york.do">Cruise From New York</a></li>
+
                                 <li><a id="ctl00_Family" href="http://www.cruises.com/promotion/family-cruises.do">Family Cruises</a></li>
+
                                 <li><a id="ctl00_Holiday" href="http://www.cruises.com/promotion/holiday-cruises.do">Holiday Cruises</a></li>
+
                                  <li><a id="ctl00_Honeymoon" href="http://www.cruises.com/promotion/romantic-cruises.do">Honeymoon Cruises</a></li>
+
 								<li><a id="ctl00_LastMinute" href="http://www.cruises.com/promotion/lastminutecruises/moresailings.asp?lmpgroupid=22">Last Minute Deals</a></li>
+
                                 <li><a id="ctl00_Luxury" href="http://www.cruises.com/promotion/crudotcom/luxury/luxury-cruises.asp">Luxury Cruises</a></li>	                               
+
                                 <li><a id="ctl00_Newships" href="http://www.cruises.com/promotion/crudotcom/newships/new-cruise-ships.asp">New Cruise Ships</a></li>
+
                                 <li><a id="ctl00_Single" href="http://www.cruises.com/promotion/singles-cruises.do">Single - Cruising Solo?</a></li>
+
                                 <li><a id="ctl00_Summer" href="http://www.cruises.com/promotion/summer-cruises.do">Summer Cruises</a></li>
+
                                 <li><a id="ctl00_Top10" href="http://www.cruises.com/promotion/crudotcom/best-ships/best-cruise-ships.asp">Top 10 Best Cruise Ships</a></li>
+
                                 <li><a id="ctl00_Weekend" href="http://www.cruises.com/promotion/weekend-cruises.do">Weekend Cruises</a></li>
+
                                 <li><a id="ctl00_CustomerHeader_existingreservations" href="http://www.cruises.com/promotion/crudotcom/deals/cruise-deals.asp">&gt;&gt;See All Cruise Deals</a></li>
 
                                     
-                            </ul>
-                        </li>
-                        <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
-                        <li id="navArr"><span id="darr">↓</span></li>
-                        <li id="navDestinations"><a id="ctl00_Destinations" href="http://www.cruises.com/promotion/crudotcom/cruise-destinations.asp">
-                           destinations</a>
-                           <ul class="no_navpad">
-								<li><a id="ctl00_Alaska" href="http://www.cruises.com/promotion/alaska-cruises.do">Alaska Cruises</a></li>
-                                <li><a id="ctl00_Bahamas" href="http://www.cruises.com/promotion/bahamas-cruises.do">Bahamas Cruises</a></li>
-                                <li><a id="ctl00_Bermuda" href="http://www.cruises.com/promotion/bermuda-cruises.do">Bermuda Cruises</a></li>
-                                <li><a id="ctl00_Canada" href="http://www.cruises.com/promotion/canada-new-england-cruises.do">Canada/NE Cruises</a></li>
-                                <li><a id="ctl00_Caribbean" href="http://www.cruises.com/promotion/caribbean-cruises.do">Caribbean Cruises</a></li>
-                                <li><a id="ctl00_Europe" href="http://www.cruises.com/promotion/europe-cruises.do">Europe Cruises</a></li>
-                                <li><a id="ctl00_Hawaii" href="http://www.cruises.com/promotion/hawaii-cruises.do">Hawaii Cruises</a></li>
-                                <li><a id="ctl00_Mexico" href="http://www.cruises.com/promotion/mexico-cruises.do">Mexico Cruises</a></li>
-                                <li><a id="ctl00_AllDestinations" href="http://www.cruises.com/promotion/crudotcom/cruise-destinations.asp">&gt;&gt;See All Destinations</a></li>
 
                             </ul>
+
                         </li>
+
                         <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
+
                         <li id="navArr"><span id="darr">↓</span></li>
-                        <li id="navCruiseLines"><a id="ctl00_CruiseLines" href="http://www.cruises.com/c/cruisemain.asp">
-                           cruise lines</a>
-                           <ul class="no_navpad">
-                                
-								<li><a href="http://www.cruises.com/promotion/azamara-cruises.do" class="link">Azamara Club Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/carnival-cruises.do" class="link">Carnival Cruise Lines</a></li>
-						    <li><a href="http://www.cruises.com/promotion/celebrity-cruises.do" class="link">Celebrity Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/costa-cruises.do" class="link">Costa Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/crystal-cruises.do" class="link">Crystal Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/cunard-cruises.do" class="link">Cunard Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/disney-cruises.do" class="link">Disney Cruise Line</a></li>
-						    <li><a href="http://www.cruises.com/promotion/holland-america-cruises.do" class="link">Holland America Line</a></li>
-						    <li><a href="http://www.cruises.com/promotion/msc-cruises.do" class="link">MSC Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/norwegian-cruises.do" class="link">Norwegian Cruise Line</a></li>
-						    <li><a href="http://www.cruises.com/promotion/oceania-cruises.do" class="link">Oceania Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/paul-gauguin-cruises.do" class="link">Paul Gauguin Cruises</a></li>						    
-						    <li><a href="http://www.cruises.com/promotion/princess-cruises.do" class="link">Princess Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/regent-cruises.do" class="link">Regent Seven Seas Cruises</a></li>						    
-						    <li><a href="http://www.cruises.com/promotion/royal-caribbean-cruises.do" class="link">Royal Caribbean</a></li>
-						    <li><a href="http://www.cruises.com/promotion/seabourn-cruises.do" class="link">Seabourn Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/seadream-cruises.do" class="link">SeaDream Yacht Club</a></li>
-						    <li><a href="http://www.cruises.com/promotion/silversea-cruises.do" class="link">Silversea Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/uniworld-cruises.do" class="link">Uniworld River Cruises</a></li>
-						    <li><a href="http://www.cruises.com/promotion/viking-river-cruises.do" class="link">Viking River Cruises</a></li>
-						    
-                                <li><a id="ctl00_AllLines" href="/c/cruisemain.asp">&gt;&gt;See All Cruise Lines</a></li>
-							</ul>
-                        </li>
-                        <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
+
                         <li id="navLuxury"><a id="lux" href="/promotion/crudotcom/luxury/luxury-cruises.asp">
+
                             luxury cruises</a>
+
+                             <ul class="no_navpad">
+
+								<li><a id="ctl00_AMA" href="http://www.cruises.com/promotion/ama-river-cruises.do" class="link">AmaWaterways Cruises</a></li>
+
+								<li><a id="ctl00_Avalon" href="http://www.cruises.com/promotion/avalon-river-cruises.do" class="link">Avalon Waterways Cruises</a></li>
+
+    							<li><a id="ctl00_Azamara" href="http://www.cruises.com/promotion/azamara-cruises.do" class="link">Azamara Club Cruises</a></li>
+
+								<li><a id="ctl00_Crystal" href="http://www.cruises.com/promotion/crystal-cruises.do" class="link">Crystal Cruises</a></li>
+
+								<li><a id="ctl00_Cunard" href="http://www.cruises.com/promotion/cunard-cruises.do" class="link">Cunard Cruises</a></li>
+
+ 								<li><a id="ctl00_Oceania" href="http://www.cruises.com/promotion/oceania-cruises.do" class="link">Oceania Cruises</a></li>
+
+								<li><a id="ctl00_Gauguin" href="http://www.cruises.com/promotion/paul-gauguin-cruises.do" class="link">Paul Gauguin Cruises</a></li>						    
+
+								<li><a id="ctl00_Regent" href="http://www.cruises.com/promotion/regent-cruises.do" class="link">Regent Seven Seas Cruises</a></li>						    
+
+								<li><a id="ctl00_Seabourn" href="http://www.cruises.com/promotion/seabourn-cruises.do" class="link">Seabourn Cruises</a></li>
+
+								<li><a id="ctl00_SeaDream" href="http://www.cruises.com/promotion/seadream-cruises.do" class="link">SeaDream Yacht Club</a></li>
+
+								<li><a id="ctl00_Silversea" href="http://www.cruises.com/promotion/silversea-cruises.do" class="link">Silversea Cruises</a></li>
+
+								<li><a id="ctl00_Uniworld" href="http://www.cruises.com/promotion/uniworld-cruises.do" class="link">Uniworld River Cruises</a></li>
+
+								<li><a id="ctl00_Viking" href="http://www.cruises.com/promotion/viking-river-cruises.do" class="link">Viking River Cruises</a></li>
+
+                                <li><a id="ctl00_luxrurycruises" href="/promotion/luxury-cruises.do">&gt;&gt;See All Luxury Cruises</a></li>
+
+                     
+
                             
+
+                            </ul>
+
                         </li>
+
                         <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
-                        <li id="navHotels"><a id="ctl00_hotels" href="http://www.rooms.com" target="newwindow">
-                            hotels</a> 
-                        </li>
-                        <li id="navHotelsnew"><a id="ctl00_hotels" href="http://www.rooms.com" target="newwindow">
-                            <span class="pricecolor" style="color:#ff0000;"> NEW  </span></a>                   
-                        </li>
-                         <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
-                        <li id="navShoreExcursions"><a id="ctl00_ShoreExcursions" href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1690" target="newwindow">
-                            shore excursions</a>
+
+                        <li id="navGroups"><a id="ctl00_Groups" href="/groupcruises/">
+
+                            group cruises</a>
+
                             
+
                         </li>
-						              
+
+                       <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
+
+                       <li id="navShoreExcursions"><a id="ctl00_ShoreExcursions" href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1690" target="newwindow">
+
+                            shore excursions</a>
+
+                            
+
+                        </li>
+
+                        <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
+
+                        <li id="navHotels"><a id="ctl00_hotels" href="http://www.rooms.com" target="newwindow">
+
+                            hotels</a> 
+
+                        </li>
+
+                        <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
+
+                        <li id="navCars"><a id="ctl00_cars" href="http://www.rooms.com/promotion/rooms/carrental/default.asp" target="newwindow">
+
+                            car rentals</a> 
+
+                        </li>
+
+                        
+
+                      
+
                     </ul>
+
+
                     
                 </div>
              </div>
@@ -625,7 +773,7 @@ html > body .ietopmargin {margin-top:0px;}
 	</ul>
 	</div>
 
-	<div id="copyright">© 2011&nbsp; Cruises.com is a registered trademark of NLG. All Rights Reserved.</div>
+	<div id="copyright">© 2012&nbsp; Cruises.com is a registered trademark of NLG. All Rights Reserved.</div>
 	<div id="footer_tnc">
 	<!--<a href="">Best Cruise Deals</a> | <a href="/promotion/crudotcom/last_minute/default.asp">Last Minute Cruises</a> | <a href="/c/cruiseline.asp?lineid=1">Carnival Cruises</a> | <a href="http://http://www.cruises.com" />/c/cruiseline.asp?lineid=11">Celebrity Cruises</a> | 
 <a href="http://http://www.cruises.com/c/cruiseline.asp?lineid=14">Costa Cruises</a> | <a href="/c/cruiseline.asp?lineid=17">Crystal Cruises</a> | <a href="http://http://www.cruises.com/c/cruiseline.asp?lineid=18">Cunard Cruises</a><BR /><a href="http://http://www.cruises.com/c/cruiseline.asp?lineid=20">Disney Cruises</a> | <a href="http://http://www.cruises.com/c/cruiseline.asp?lineid=24">Holland 
@@ -731,6 +879,73 @@ _marinTrack.trackPage();
 	</tr>
 </tbody></table>
 </div>
+
+
+
+
+
+	<!-- start coremetrics tracking here -->
+	
+	<script type="text/javascript">	
+		var domainname = "www.cruises.com";
+		var pathname = document.location.pathname;
+		
+		var tabStartIndex = pathname.indexOf(";jsessionid=");
+		if(tabStartIndex > 0){
+			pathname = pathname.substring(0, tabStartIndex);
+		}
+		
+		var coremetricsPageId = domainname + ":" + pathname;
+		if(pathname == "/sc.do"){
+			var tabName = "itin";
+			
+			var search = document.location.search;
+			var tabStartIndex = search.indexOf("tab=");
+			if(tabStartIndex > 0){
+				var tabEndIndex = search.indexOf("&", tabStartIndex);
+				tabName = search.substring(tabStartIndex + 4, tabEndIndex);
+			}
+			
+			coremetricsPageId = coremetricsPageId + ":" + tabName;
+		}
+	
+		var coremetricsCategoryId = domainname;
+		
+		//alert("cmCreatePageviewTag(" + coremetricsPageId + ", " + coremetricsCategoryId + ");");
+		if(pathname != "/invoicecontent.do"){
+			cmCreatePageviewTag(coremetricsPageId, coremetricsCategoryId);
+		}
+	</script>
+
+
+	<script type="text/javascript">
+		var pathname = document.location.pathname;
+		if(pathname == "/b/c/confirmation.do"){
+			var coremetricsOrderID = "";
+			var coremetricsSubTotal = "";
+			var coremetricsCustomerID = "";
+			var coremetricsCustomerCity = "";
+			var coremetricsCustomerState = "";
+			var coremetricsCustomerPostcode = "";
+			
+			//alert("cmCreateOrderTag(" + coremetricsOrderID + ", " + coremetricsSubTotal + ", 0, " + coremetricsCustomerID + ", " + coremetricsCustomerCity + ", " + coremetricsCustomerState + ", " + coremetricsCustomerPostcode + ");");
+			cmCreateOrderTag(coremetricsOrderID, coremetricsSubTotal, "0", coremetricsCustomerID, coremetricsCustomerCity, coremetricsCustomerState, coremetricsCustomerPostcode);
+			cmCreateRegistrationTag(coremetricsCustomerID, coremetricsCustomerID, coremetricsCustomerCity, coremetricsCustomerState, coremetricsCustomerPostcode, "US");
+			
+		}else if(pathname == "/invoicecontent.do"){
+			var coremetricsOrderID = 'null';
+			var coremetricsSubTotal = 'null';
+			var coremetricsCustomerID = "";
+
+			//alert("cmCreateOrderTag(" + coremetricsOrderID + ", " + coremetricsSubTotal + ", 0, " + coremetricsCustomerID + ");");			
+			cmCreateOrderTag(coremetricsOrderID, coremetricsSubTotal, "0", coremetricsCustomerID, "", "", "");
+			cmCreateRegistrationTag(coremetricsCustomerID, coremetricsCustomerID);
+		}
+	</script>
+
+	<!-- end coremetrics tracking here -->
+
+
 
 
 
