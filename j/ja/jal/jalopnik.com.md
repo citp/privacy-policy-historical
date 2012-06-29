@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jalopnik.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209165732id_/http%3A//advertising.gawker.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jalopnik.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629032254id_/http%3A//advertising.gawker.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Gawker Media - Privacy Policy
 
