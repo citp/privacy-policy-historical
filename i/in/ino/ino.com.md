@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143927id_/http%3A//www.ino.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629112631id_/http%3A//www.ino.com/help/privacy.html) for the most accurate reproduction.*
 
 # INO.com Help - Privacy Policy
 
@@ -12,7 +12,7 @@ Personal information tendered to INO.com is used for a number of reasons, includ
 
 Where custom portfolio services are concerned, the use of cookies may also be used to facilitate the login process. Please note that nothing in a cookie allows anyone to identify you individually.
 
-With e-mail, we will only add you to one of our e-mail lists if you have requested it. In addition, all of INO.com's e-mail services are accompanied by a simple-to-use facility for unsubscribing. 
+With e-mail, we will only add you to one of our e-mail lists if you have requested it. In addition, all of INO.com's e-mail services are accompanied by a simple-to-use facility for unsubscribing. You may click the unsubscribe link at the bottom of any e-mail. This will take you to a page where you can remove yourself from any or all subscribed lists. We will attempt to process this request within 24 business hours. You may also manage your subscriptions at <http://www.ino.com/email/>. 
 
 We are committed to serve you in a discreet and professional manner.
 
