@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011040105id_/http%3A//specificmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629021253id_/http%3A//www.specificmedia.com/privacy) for the most accurate reproduction.*
 
 # Specific Media is a digital media company driving viewership for content owners, engagement for brands and relevance for consumers | Specific Media
 
