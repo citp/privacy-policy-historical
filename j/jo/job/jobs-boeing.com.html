@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobs-boeing.com privacy policy that was archived on 2011-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111111042747id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobs-boeing.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629094406id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- This file is NOT XML, Manual update needed. -->
@@ -23,6 +23,258 @@
 
 <link rel="stylesheet" type="text/css" media="print" href="http://www.boeing.com/css/2010/print.css">
 
+<script type="text/javascript" src="http://www.boeing.com/js/eluminate.js"></script>
+<script src="http://admin.brightcove.com/js/APIModules_all.js"> </script>
+<script type="text/javascript">
+cmSetupOther({"cm_UseCookie":false}); 
+cmSetClientID("90378194",true,"data.coremetrics.com","boeing.com"); 
+</script>
+<script type="text/javascript">
+var bcExp;
+var modVP;
+var modExp;
+var modCon;
+var _mediaComplete = true;
+var _mediaBegin = false;
+ 
+// called when template loads, this function stores a reference to the player and modules.
+// Then event listeners will be added for when the template is ready and when a user 
+// clicks on a video.
+function onTemplateLoaded(experienceID) {
+    bcExp = brightcove.getExperience(experienceID);
+     
+    modVP = bcExp.getModule(APIModules.VIDEO_PLAYER);
+	modCon = bcExp.getModule(APIModules.CONTENT);
+	modExp = bcExp.getModule(APIModules.EXPERIENCE);
+  
+    modVP.addEventListener(BCMediaEvent.BEGIN, onMediaBegin);
+	modVP.addEventListener(BCMediaEvent.PLAY, onMediaPlay);
+	modVP.addEventListener(BCMediaEvent.PROGRESS, onMediaProgress);
+	modVP.addEventListener(BCMediaEvent.STOP, onMediaStop);
+	modVP.addEventListener(BCMediaEvent.CHANGE, onMediaChange);
+	modVP.addEventListener(BCMediaEvent.COMPLETE, onMediaComplete);
+
+}
+
+function onMediaBegin(evt) {
+	if(!_mediaBegin)
+	{				
+		_mediaBegin = true;
+		_mediaComplete = false;
+				
+		vidPosition = 0;
+	
+		currentVideo = modVP.getCurrentVideo();
+		vidID = currentVideo.id;
+		mediaDTO = modCon.getMedia(currentVideo.id);
+		vidLength = Math.round(mediaDTO.length/1000);
+		vidName = mediaDTO.displayName;
+		vidPlaylist = mediaDTO.lineupId;	
+		if (vidPlaylist !=0) {
+			MediaCollectionDTO = modCon.getMediaCollection(vidPlaylist);
+			vidPlaylistName = MediaCollectionDTO.displayName;
+		}
+		else
+			vidPlaylistName = 'NO PLAYLIST';
+		vidPlayerName = modExp.getPlayerName();
+		experienceId = modExp.getExperienceID(); //playerId
+		referrerURL = window.location.href;
+	
+		vidName = vidName.substr(0, 50);
+	
+		vidAction = "0";
+			
+			attributes =  ""
+						+ vidID
+						+ "-_-" + experienceId
+						+ "-_-" + vidPlayerName
+						+ "-_-" + vidPlaylist 
+						+ "-_-" + vidPlaylistName
+						+ "-_-" + referrerURL
+						+ "-_-"
+						+ "-_-"   
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" + vidAction  
+						+ "-_-" + vidPosition
+						+ "-_-" + vidLength 
+						
+						;
+		
+		cmCreateElementTag(vidName,"BOEING VIDEO",attributes);
+	}
+}
+
+function onMediaPlay(evt) {
+	  if(!_mediaBegin)
+	  {
+		  onMediaBegin(evt);
+	  }
+	  else
+	  {
+		  //unpause
+		vidPosition = Math.round(modVP.getVideoPosition());
+	
+		currentVideo = modVP.getCurrentVideo();
+		vidID = currentVideo.id;
+		mediaDTO = modCon.getMedia(currentVideo.id);
+		vidLength = Math.round(mediaDTO.length/1000);
+		vidName = mediaDTO.displayName;
+		vidPlaylist = mediaDTO.lineupId;	
+		if (vidPlaylist !=0) {
+			MediaCollectionDTO = modCon.getMediaCollection(vidPlaylist);
+			vidPlaylistName = MediaCollectionDTO.displayName;
+		}
+		else
+			vidPlaylistName = 'NO PLAYLIST';
+		vidPlayerName = modExp.getPlayerName();
+		experienceId = modExp.getExperienceID(); //playerId
+		referrerURL = window.location.href;
+	
+		vidName = vidName.substr(0, 50);
+	
+		vidAction = "2";
+	
+		attributes =  ""
+						+ vidID
+						+ "-_-" + experienceId
+						+ "-_-" + vidPlayerName
+						+ "-_-" + vidPlaylist 
+						+ "-_-" + vidPlaylistName
+						+ "-_-" + referrerURL
+						+ "-_-"
+						+ "-_-"   
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" + vidAction  
+						+ "-_-" + vidPosition
+						+ "-_-" + vidLength 
+						
+						;
+		
+		cmCreateElementTag(vidName,"BOEING VIDEO",attributes);
+	 }
+}
+
+function onMediaProgress(evt) {
+			if((evt.duration - evt.position < 10) && !_mediaComplete)
+			{
+				onMediaComplete(evt);
+			}
+}
+
+function onMediaStop(evt) {
+
+	if(!_mediaComplete)
+	{
+		//pause
+		vidPosition = Math.round(modVP.getVideoPosition());
+	
+		currentVideo = modVP.getCurrentVideo();
+		vidID = currentVideo.id;
+		mediaDTO = modCon.getMedia(currentVideo.id);
+		vidLength = Math.round(mediaDTO.length/1000);
+		vidName = mediaDTO.displayName;
+		vidPlaylist = mediaDTO.lineupId;	
+		if (vidPlaylist !=0) {
+			MediaCollectionDTO = modCon.getMediaCollection(vidPlaylist);
+			vidPlaylistName = MediaCollectionDTO.displayName;
+		}
+		else
+			vidPlaylistName = 'NO PLAYLIST';
+		vidPlayerName = modExp.getPlayerName();
+		experienceId = modExp.getExperienceID(); //playerId
+		referrerURL = window.location.href;
+	
+		vidName = vidName.substr(0, 50);
+	
+		vidAction = "1";
+	
+			attributes =  ""
+						+ vidID
+						+ "-_-" + experienceId
+						+ "-_-" + vidPlayerName
+						+ "-_-" + vidPlaylist 
+						+ "-_-" + vidPlaylistName
+						+ "-_-" + referrerURL
+						+ "-_-"
+						+ "-_-"   
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" + vidAction  
+						+ "-_-" + vidPosition
+						+ "-_-" + vidLength 
+						
+						;
+		
+		cmCreateElementTag(vidName,"BOEING VIDEO",attributes);
+	}
+}
+
+
+
+function onMediaChange(evt) {
+}
+
+function onMediaComplete(evt) {
+
+	if(!_mediaComplete)
+	{
+		_mediaBegin = false;
+		_mediaComplete = true;
+
+		currentVideo = modVP.getCurrentVideo();
+		vidID = currentVideo.id;
+		mediaDTO = modCon.getMedia(currentVideo.id);
+		vidLength = Math.round(mediaDTO.length/1000);
+		vidName = mediaDTO.displayName;
+		vidPlaylist = mediaDTO.lineupId;	
+		if (vidPlaylist !=0) {
+			MediaCollectionDTO = modCon.getMediaCollection(vidPlaylist);
+			vidPlaylistName = MediaCollectionDTO.displayName;
+		}
+		else
+			vidPlaylistName = 'NO PLAYLIST';
+		vidPlayerName = modExp.getPlayerName();
+		experienceId = modExp.getExperienceID(); //playerId
+		referrerURL = window.location.href;
+	
+		vidName = vidName.substr(0, 50);
+	
+		vidAction = "3";
+	
+			attributes =  ""
+						+ vidID
+						+ "-_-" + experienceId
+						+ "-_-" + vidPlayerName
+						+ "-_-" + vidPlaylist 
+						+ "-_-" + vidPlaylistName
+						+ "-_-" + referrerURL
+						+ "-_-"
+						+ "-_-"   
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" 
+						+ "-_-" + vidAction  
+						+ "-_-" + vidLength
+						+ "-_-" + vidLength 
+						
+						;
+		
+		cmCreateElementTag(vidName,"BOEING VIDEO",attributes);
+	
+	}
+}
+</script> 
+
+
 </head>
 <body onload="window.defaultStatus='The Boeing Company'">
 <!--[if gte IE 8]>
@@ -44,12 +296,7 @@
 <script type="text/javascript" src="http://www.boeing.com/js/cufon-yui.js"></script>
 
 <script type="text/javascript" src="http://www.boeing.com/js/Helvetica_300-Helvetica_700-Helvetica_italic_300-Helvetica_italic_700.font.js"></script>
-
-<script type="text/javascript">Cufon.replace('h1');</script>
-
-<script type="text/javascript">Cufon.replace('h2'); </script>
-
-<script type="text/javascript">Cufon.replace('#pageName'); </script>
+<script type="text/javascript">Cufon.replace('h1, h2, #pageName, .Slide');</script>
 
 <script src="http://www.boeing.com/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
 
@@ -367,6 +614,8 @@ $('#content2').slideToggle("slow");
 
               and Branding</a></li>
 
+            <li><a href="http://www.boeing.com/aboutus/international/index.html">Boeing International</a></li>
+
             <li><a href="http://www.boeing.com/aboutus/culture/index.html">Culture</a></li>
 
             <li><a href="http://www.boeing.com/aboutus/diversity/index.html">Diversity</a></li>
@@ -417,7 +666,7 @@ $('#content2').slideToggle("slow");
 
                 <li><a href="http://www.boeing.com/commercial/products.html">About Our Products</a></li>
 
-                <li><a href="http://www.boeing.com/commercial/aviationservices/index.html">About Our Services and Support</a></li>
+                <li><a href="http://www.boeing.com/commercial/aviationservices/index.html">The Boeing Edge</a></li>
 
                 <li><a href="http://www.boeing.com/commercial/other_services.html">Other Services</a></li>
 
@@ -700,18 +949,16 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/SpryAssets/SpryMen
   <!-- end mod_4 -->
   <!--Quick Links-->
   <div class="bottom_links">
-    <p> <!--<a href="http://www.boeing.com/bcc/">Boeing Capital Corporation</a> |--> <a href="/aboutus/diversity/">Diversity</a> | <a href="/companyoffices/aboutus/community/">Global Corporate Citizenship</a> | <a href="http://www.boeing.com/aboutus/environment/">Environment</a> | <a href="/aboutus/govt_ops/">Government Operations</a> | <a href="/videos/video.html">Videos</a> | <a href="/multimedia/index.html">Images</a></p>
+    <p> <!--<a href="http://www.boeing.com/bcc/">Boeing Capital Corporation</a> |--> <a href="/aboutus/diversity/">Diversity</a> | <a href="/companyoffices/aboutus/community/">Corporate Citizenship</a> | <a href="http://www.boeing.com/aboutus/environment/">Environment</a> | <a href="/aboutus/govt_ops/">Government Operations</a> | <a href="/videos/video.html">Videos</a> | <a href="/multimedia/index.html">Images</a></p>
   </div>
   <!--end Quick Links-->
   <div class="clear"></div>
   <!--Footer-->
   <div class="footer_home">
-    <p> Copyright © 1995 - 
-<script type="text/javascript">
+    <p> Copyright © 1995 - <script type="text/javascript">
 var d = new Date()
 document.write(d.getFullYear())
-</script>2020 
-Boeing. All Rights Reserved. <a href="/companyoffices/aboutus/site_terms.html">Site Terms</a> | <a href="/companyoffices/aboutus/privacy.html">Privacy Policy</a> | <a href="/contactus.html">Contact Us</a> | <a href="/faqs.html">FAQ</a> </p>
+</script>2020 Boeing. All Rights Reserved.    <a href="/companyoffices/aboutus/site_terms.html">Site Terms</a> | <a href="/companyoffices/aboutus/privacy.html">Privacy Policy</a> | <a href="/contactus.html">Contact Us</a> | <a href="/faqs.html">FAQ</a> </p>
   </div>
 <script type="text/javascript"> Cufon.now(); </script>
   <!-- End Footer-->
@@ -719,5 +966,9 @@ Boeing. All Rights Reserved. <a href="/companyoffices/aboutus/site_terms.html">S
 </div> 
 
 </div>
+
+	<script type="text/javascript"> 
+         cmCreatePageviewTag("Privacy Page","www.boeing.com");
+    </script>
 
 </body></html>
