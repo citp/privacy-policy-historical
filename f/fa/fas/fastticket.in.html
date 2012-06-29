@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fastticket.in privacy policy that was archived on 2011-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127130602id_/http%3A//fastticket.in/newindex.jsp%3Fform%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fastticket.in privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629221155id_/http%3A//fastticket.in/newindex.jsp%3Fform%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <link sizes="32x32" href="images/FTSHome/favicon.png" rel="icon">
@@ -22,6 +22,12 @@
                 var autoHideMenu="null";
                 initNewFts(selMenu,autoHideMenu);
                 initGuestEvents();
+                //**This Code is for redirect page to Display our Outlet List.
+                var a_formname = "PrivacyPolicy";
+                if(a_formname == "Our Channel Partners"){
+                    window.location = "newindex.jsp?otherform=RetailOutlets&mode=search&autohide=true&city=0000&usertype=FRENCHISEE";
+                }
+                //***********//
             });           
         </script>
     </head>
@@ -34,13 +40,17 @@
 
 <div class="a_header">
     <div class="a_logo" title="Go To Home" onclick="navigateToHomePage()">&nbsp;</div>
-    <div class="a_callOn"><div class="fbLike"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Fastticketin/120776464661784" send="false" width="150" show_faces="false" layout="button_count" font=""></fb:like></div></div>
+    <div class="a_h_right">
+       <a class="a_btnSignUp" href="javascript:void(0);" onclick="showBecomeOutletPopup();"></a><a class="a_text_or"></a><a class="a_btnLogin" href="javascript:void(0);"></a>
+        <div class="a_clr"></div>
+        <div class="a_enquiry"><span>Booking &amp; Enquiry :</span> 922 757 8888, 922 777 1457</div>
+   </div>
     <div class="a_clr"></div>
     <div class="a_menu">
         <ul>
             <li class="a_ex">&nbsp;</li>
             <li class="a_spliter">&nbsp;</li>
-            <li class="a_home" onclick="navigateToHomePage()">&nbsp;</li>
+            <li class="a_home a_sel" onclick="navigateToHomePage()">&nbsp;</li>
             <li class="a_spliter">&nbsp;</li>
             <li><a title="Moviemenu" href="UserHomeNew.jsp?form=Booking&amp;GUEST_MODE=true">Movie</a></li>
 <li class="a_spliter">&nbsp;</li>
@@ -50,48 +60,65 @@
 <li class="a_spliter">&nbsp;</li>
 <li><a title="Paybillmenu" href="newindex.jsp?form=PaybillHome.jsp">Paybill</a></li>
 <li class="a_spliter">&nbsp;</li>
-<li><a title="Busmenu" href="newindex.jsp?form=BusScheduleHome.jsp">Bus</a></li>
+<li><a title="Busmenu" href="UserHomeNew.jsp?form=GSRTC Bus Booking&amp;GUEST_MODE=true">Bus</a></li>
 <li class="a_spliter">&nbsp;</li>
 <li><a title="Railwaymenu" href="newindex.jsp?form=RailwayHome.jsp">Railway</a></li>
 <li class="a_spliter">&nbsp;</li>
 <li><a title="DTHmenu" href="newindex.jsp?form=DTHHome.jsp">DTH</a></li>
 <li class="a_spliter">&nbsp;</li>
-<li><a title="FTSmenu" href="newindex.jsp?form=AboutUs">FTS</a></li>
-<li class="a_spliter">&nbsp;</li>
 <li><a title="Schememenu" href="newindex.jsp?form=Member Scheme">Scheme</a></li>
 <li class="a_spliter">&nbsp;</li>
 <li><a title="Associatesmenu" href="newindex.jsp?form=Associates.jsp">Associates</a></li>
 <li class="a_spliter">&nbsp;</li>
+<li><a title="Our Outletsmenu" href="newindex.jsp?form=Our Channel Partners">Our Outlets</a></li>
+<li class="a_spliter">&nbsp;</li>
 
-            <!--            <li>Movie</li>
-                        <li class="a_spliter">&nbsp;</li>            -->
         </ul>
     </div>
-    <div class="a_menuSel" style="left: 800.906px; top: 100px; display: block;">
+    <div class="a_menuSel">
         <div class="a_t"></div>
-        <div class="a_c">FTS</div>
+        <div class="a_c"></div>
         <div class="a_b"></div>
     </div>
     
-    <div class="a_submenu">
-        <div class="a_top"></div>
-        <div class="a_center">
-            <div class="FTS">
-                <a href="newindex.jsp?form=AboutUs">About Us</a><a>|</a>
-<a href="newindex.jsp?form=Career">Career</a><a>|</a>
-<a href="newindex.jsp?form=Benefits">Benefits</a><a>|</a>
-<a href="newindex.jsp?form=TermsAndConditions">Terms And Conditions</a><a>|</a>
-<a href="newindex.jsp?form=PrivacyPolicy" class="a_sel">Privacy Policy</a><a>|</a>
-<a href="newindex.jsp?form=Disclaimer">Disclaimer</a><a>|</a>
-<a href="newindex.jsp?form=FAQ">FAQs</a><a>|</a>
-<a href="newindex.jsp?form=ContactUs">Contact Us</a><a>|</a>
-<a href="newindex.jsp?form=HelpSupport">Help And Support</a>
+</div>
 
-            </div>
+<div class="a_login_pop">
+    <div class="a_popup">
+        <div>
+            <div class="a_pTopL"></div>
+            <div class="a_pTopC"><span>User Login</span></div>
+            <div class="a_pTopR"><div class="a_close"></div></div>
         </div>
-        <div class="a_bottom"></div>
+        <div class="a_pCenter">
+            <div class="a_pCenterL"></div>
+            <div class="a_pCenterC a_data">
+                <div id="errorMessagePanel" class="loginError"></div>
+                <table cellpadding="0" width="100%">
+                    <tbody><tr>
+                        <td class="a_label">Username</td>
+                        <td><input type="text" style="width:200px" name="username" onkeypress="testEnterKey(event)" onkeyup="trimInput('username')"></td>
+                    </tr>
+                    <tr>
+                        <td class="a_label">Password</td>
+                        <td><input type="password" style="width:200px" name="password" onkeypress="testEnterKey(event)" onkeyup="trimInput('password')"></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td style="padding-top: 5px;"><div class="a_btn" onclick="ftsLogin();"><a href="#">Login</a><div></div></div>
+                            <a href="newindex.jsp?form=Forgot%20Password&amp;autohide=true" class="forgotLink">Forgot Password ?</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <div class="a_pCenterR"></div>
+        </div>
+        <div>
+            <div class="a_pBotL"></div>
+            <div class="a_pBotC"></div>
+            <div class="a_pBotR"></div>
+        </div>
     </div>
-    
 </div>
             <div class="a_d_container">
                 
@@ -106,7 +133,7 @@
         </div>
         <div class="a_dataContainer">
             <div class="a_homedesc">
-                <p><b>FTS (Fast Ticket Services)</b> respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.</p>
+                <p><b>Fast Ticket</b> respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.</p>
 
                 <p>In general, you can visit <b>fastticket.in</b> website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.</p>
 
@@ -116,16 +143,16 @@
 
                 <h5>Your personal information may be used to:</h5>
                 <p class="descAeroN">Verify your identity</p>
-                <p class="descAeroN">Assist you to subscribe to FTS´ services</p>
+                <p class="descAeroN">Assist you to subscribe to Fast Ticket</p>
                 <p class="descAeroN">Provide the services you require</p>
                 <p class="descAeroN">Administer and manage those services, including charging, billing and collecting debts</p>
                 <p class="descAeroN">Inform you of ways the services provided to you could be improved</p>
                 <p class="descAeroN">Conduct appropriate checks for credit-worthiness</p>
-                <p class="descAeroN">Gain an understanding of your information and communication needs in order for FTS to provide you with a better service. </p>
+                <p class="descAeroN">Gain an understanding of your information and communication needs in order for Fast Ticket to provide you with a better service. </p>
 
-                <p><b>FTS</b> will not sell, trade or disclose to third parties any information derived from the registration for, or use of, any online service (including names and addresses) without the consent of the user or customer (except as required by or other legal process or in the case of imminent physical harm to the user or others).</p>
-                <p>FTS will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. FTS will continue to enhance our security procedures as new technology becomes available.</p>
-                <p>If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. FTS will attempt to respond to all reasonable concerns or inquiries at the earliest. </p>
+                <p><b>Fast Ticket</b> will not sell, trade or disclose to third parties any information derived from the registration for, or use of, any online service (including names and addresses) without the consent of the user or customer (except as required by or other legal process or in the case of imminent physical harm to the user or others).</p>
+                <p>Fast Ticket will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Fast Ticket will continue to enhance our security procedures as new technology becomes available.</p>
+                <p>If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Fast Ticket will attempt to respond to all reasonable concerns or inquiries at the earliest. </p>
             </div>
         </div>
         <div class="a_homebot"></div>
@@ -139,10 +166,6 @@
 </div>
 
             </div>
-            <div class="fbLike_box">
-                <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Fastticketin/120776464661784" width="300" height="180" show_faces="true" border_color="#FFFFFF" stream="false" header="false"></fb:like-box>
-            </div>
-            <div class="footerAdd" onclick="window.location='UserHomeNew.jsp?form=EasyRecharge&amp;GUEST_MODE=true';"><img src="images/FTSHome/footerAdd.jpg" alt="Fast Ticket" height="192px" width="662px"></div>
             <div class="a_clr"></div>
             <div class="a_footer">
                 <div class="a_fBorder"></div>
@@ -155,7 +178,7 @@
                     <a class="a_f" href="newindex.jsp?form=PrivacyPolicy">Privacy Policy</a>
                     <a class="a_f" href="newindex.jsp?form=Disclaimer">Disclaimer</a>
                     <a class="a_f" href="newindex.jsp?form=HelpSupport">Help &amp; Support</a>
-                    <a class="a_f" href="newindex.jsp?form=FAQ">FAQ</a>
+<!--                    <a class="a_f" href="newindex.jsp?form=FAQ">FAQ</a>-->
                     <a class="a_f" href="newindex.jsp?form=ContactUs">Contact us</a>
                 </div>
                 <div class="a_fBorder"></div>
