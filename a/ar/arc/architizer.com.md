@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architizer.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106150102id_/http%3A//www.architizer.com/en_us/intern/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architizer.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629142436id_/http%3A//www.architizer.com/en_us/intern/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Architizer - Empowering Architecture: architects, buildings, interior design, materials, jobs, competitions, design schools
+# Privacy Policy - Architizer
 
 Architizer, LLC (“Architizer”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Architizer website located at www.architizer.com (the “Site”), you are accepting the practices outlined in this Privacy Policy. 
 
