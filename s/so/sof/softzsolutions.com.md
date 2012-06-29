@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softzsolutions.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227093214id_/http%3A//www.softzsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softzsolutions.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629152312id_/http%3A//www.softzsolutions.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Softz Solutions | Digital Marketing Agency India
+# Privacy Policy – Softz Solutions | Digital Marketing Agency India
 
-## Privacy Policy
+## Privacy Policy of Softz Solutions
 
 This Privacy Policy sets out how "Softz Solutions" uses and protects any information that you give "Softz Solutions" when you use this website.
 
@@ -11,7 +11,7 @@ This policy is effective from October 1, 2008.
 
 "Softz Solutions" has the right to change this policy at any time so please check this document regularly if you are at all concerned about "Softz Solutions" and their handling of your personal information.
 
-**Personal information we may collect through the normal use of our website:**
+## Personal information we may collect through the normal use of our website:
 
 We may collect the following information: 
 
@@ -21,7 +21,7 @@ We may collect the following information:
 
 
 
-**Where and why we gather information:**
+## Where and why we gather information:
 
 The only reason "Softz Solutions" would purposely collect or view your data is via our website forms, for example our contact for on our contact page,or indirectly through website analytics. The following is what we do with this information: 
 
@@ -32,23 +32,20 @@ The only reason "Softz Solutions" would purposely collect or view your data is v
 
 
 
-**Your Security**  
+Your Security  
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have implemented and maintain suitable physical, managerial and procedural actions to ensure the safety and security of the information we collect online.
 
-**How Cookies can be Used**   
+How Cookies can be Used   
 If your computer is set to accept Cookies, a cookie "file" will be placed on your hard drive when visiting a website. The Cookie then collects information as you use the website or the internet and uses the information it collects to tailor the web experience to you. An example of this may be the Cookie’s ability to "autocomplete" your name when typing it into a field on an internet form.
 
 We use traffic log Cookies for statistical purposes only. By viewing traffic log Cookies, we can analyze web patterns on our website and improve our website thereby giving our visitor a better overall experience. Please be aware that cookies give us absolutely no personal information about you not do they give us any type of access whatsoever to your computer or any of its components or hardware.
 
 Most web browsers and applications automatically accept Cookies. You can turn Cookies off yourself, usually by entering the "Options" or "Security" area of your web browser or application. By turning Cookies off you may not get the full experience of the websites you visit.
 
-**Outbound Links**  
-Any links pointing from any of our pages to other websites or pages are there as points of interest. Once you click a link that takes you away from our page we are no longer responsible for your privacy or protection. This Privacy Policy is only binding while you are exclusively visiting our site. Although we use these outbound links to provide additional resources in good faith, we are not responsible for, nor do we necessarily agree, with the content you may find on those pages. 
-
-**Outbound Links**  
+Outbound Links  
 Any links pointing from any of our pages to other websites or pages are there as points of interest. Once you click a link that takes you away from our page we are no longer responsible for your privacy or protection. This Privacy Policy is only binding while you are exclusively visiting our site. Although we use these outbound links to provide additional resources in good faith, we are not responsible for, nor do we necessarily agree, with the content you may find on those pages.
 
-**Collection of Information Options**  
+Collection of Information Options  
 You can stop the collection of your information by this website by not filling out any of the forms on this website's pages. If you have already filled out a form and do not want "Softz Solutions" to use your information for any reason including emails and promotions, you can simply email us at sandipkar[at]softzsolutions[dot]com.
 
 We will never sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.   
