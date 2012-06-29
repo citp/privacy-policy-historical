@@ -1,63 +1,46 @@
-<!--The following is the downloaded HTML source of the specificmedia.com privacy policy that was archived on 2011-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011040105id_/http%3A//specificmedia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the specificmedia.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629021253id_/http%3A//www.specificmedia.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/transitional.dtd"><html><head>
 	<title>Specific Media is a digital media company driving viewership for content owners, engagement for brands and relevance for consumers | Specific Media</title><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="description" content="With capabilities spanning original programming, cross-channel distribution and addressable advertising, we connect audiences, content and brands, adding meaning to each touch-point.">
 <meta name="keywords" content="specific media, online advertising, digital media, interactive advertisements">
-<meta name="copyright" content="Specific Media - 2011">
+<meta name="copyright" content="Specific Media - 2012">
 <meta name="author" content="Specific Media">
 <meta name="Charset" content="US-ASCII">
 <meta name="Distribution" content="Global">
 <meta name="Rating" content="General">
 <meta name="Robots" content="INDEX,FOLLOW">
 <meta name="Revisit-after" content="1 Day">
-<meta name="expires" content="never"><link href="/assets/favicon.ico" rel="icon">
-<link href="/styles/layout.master.css?v=1.1.6" media="screen" rel="stylesheet" type="text/css">
+<meta name="expires" content="never">
+<meta name="WT.cg_n" content="index">
+<meta name="WT.cg_s" content="privacy"><link href="/assets/favicon.ico" rel="icon">
+<link href="/styles/layout.master.css?v=1.1.35" media="screen" rel="stylesheet" type="text/css">
+<link href="http://cloud.webtype.com/css/17b6f2f6-a768-4f9e-b727-92dfa97d7c77.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/styles/layout.sprite.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/styles/jquery.themes/ui-custom-current/jquery-ui-1.8.16.custom.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/styles/jquery-ui.selectmenu.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/styles/jquery-simplemodal.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.5.1.min.js"></script>
-<script type="text/javascript" src="/scripts/jquery/plugins/jquery.timeago.js"></script>
+<link href="/styles/jquery-simplemodal.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/styles/jquery-tiptip.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/styles/jquery-jcarousel-ad-formats.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.5.1.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery/plugins/jquery.simplemodal.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery/plugins/jquery.tiptip.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery/plugins/jquery.form.js"></script>
 <script type="text/javascript" src="/scripts/jquery/plugins/jquery.validate.js"></script>
 <script type="text/javascript" src="/scripts/jquery/jquery-ui-1.8.14.custom.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery/jquery-ui.selectmenu.js"></script>
-<script type="text/javascript" src="/scripts/application.js"></script><style>
-	#heading {
-		margin-bottom:0px;	
-	}
-</style>
-<script>
-$(function() {
-	$(window).bind('scroll', function() {
-		if ($(this).scrollTop() > 0 ) {
-			$('#page_header').addClass('page-header-expanded');
-		} else {
-			$('#page_header').removeClass('page-header-expanded');
-		}
-		
-	});	
-});
-</script>
-</head>
+<script type="text/javascript" src="/scripts/application.js?v=1.1.35"></script></head>
 <body>	
 	<div id="global_header">
 		<div class="page_container">
-			<script>
+			<script type="text/javascript">
 	$(function() {
 
 		$('#i18n_menu_options').val('http://www.specificmedia.com/').selectmenu({
+			maxHeight:175,
 			width:140,
 			change: function(e) {
 				window.location = e.target.value;
-			},
-			open: function(e, ui) {
-				$('#i18n_menu_options-menu').show();
-			},
-			close: function(e, ui) {
-				$('#i18n_menu_options-menu').hide();
 			}
 		});
 
@@ -71,9 +54,31 @@ $(function() {
 			}	
 		}).bind('keypress', function(event) {
 			if (event.which == 13) {
-				$('#header-search-form').submit();
+				if (!validSearch($(this).val())) {
+					event.preventDefault();
+					return;
+				}
+				$('#search-form').submit();
 			}
 		});
+
+		$('#search-trigger').bind('click', function() {
+			if (!validSearch($('#search input').val())) {
+				return;
+			}
+			$('#search-form').submit();
+		});
+
+		$(window).bind('scroll', function() {
+			$('#i18n_menu_options').selectmenu('close');
+		});
+
+		function validSearch(q) {
+			if (q.length < 3 || q == 'Search') {
+				return false;
+			}
+			return true;
+		}
 	});	
 </script>
 <!--[if IE 7]>
@@ -91,6 +96,7 @@ $(function() {
 	<div id="search">
 	<form id="search-form" method="GET" action="/search">
 		<input type="text" name="q" value="Search">
+		<span id="search-trigger"></span>
 	</form>
 	</div>
 	<div id="i18n">
@@ -111,7 +117,7 @@ $(function() {
 	<div class="clear"></div>
 	<div id="topnavigation">
 		<script type="text/javascript" src="/scripts/jquery/jquery-ui.sm-nav.js"></script>
-<script>
+<script type="text/javascript">
 $(document).ready(function() {
 	$('#navigation').smnav();
 });
@@ -122,19 +128,19 @@ $(document).ready(function() {
 			<li>
 							  	<div class="topnav-highlighted-link"><a href="/advertising">Advertising</a></div>
 							  	<div class="subnav-wrapper">
-								  <ul class="sub-navigation"><li class=""><a href="/advertising/addressable-advertising" class="">Addressable Advertising</a></li><li class=""><a href="/advertising/media-solutions" class="">Media Solutions</a></li><li class=""><a href="/advertising/premium-network" class="">Premium Network</a></li><li class="last"><a href="/advertising/innovative-ad-formats" class="last">Innovative Ad Formats</a></li><li class="hidden"><a href="/advertising/ad-specifications" class="hidden">Ad Specifications</a></li><li class="hidden"><a href="/advertising/rome-ad-specifications" class="hidden">Rome Ad Specifications</a></li><li class="hidden"><a href="/lp/ad-option-icon" class="hidden">Ad Option Icon</a></li></ul></div></li><li>
+								  <ul class="sub-navigation"><li class=""><a href="/advertising/addressable-advertising" class="">Addressable Advertising</a></li><li class=""><a href="/advertising/media-solutions" class="">Media Solutions</a></li><li class=""><a href="/advertising/premium-network" class="">Premium Network</a></li><li class="last"><a href="/advertising/innovative-ad-formats" class="last">Innovative Ad Formats</a></li><li class="hidden"><a href="/advertising/ad-specifications" class="hidden">Ad Specifications</a></li><li class="hidden"><a href="/lp/ad-option-icon" class="hidden">Ad Option Icon</a></li></ul></div></li><li>
 							  	<div class="topnav-highlighted-link"><a href="/original-programming">Original Programming</a></div>
 							  	<div class="subnav-wrapper">
-								  <ul class="sub-navigation"><li class="last"><a href="/lp/sponsorship" class="last">Sponsorship</a></li></ul></div></li><li>
+								  <ul class="sub-navigation"><li class="last"><a href="/trailers" class="last">Trailers</a></li></ul></div></li><li>
 							  	<div class="topnav-highlighted-link"><a href="/insights">Insights</a></div>
 							  	<div class="subnav-wrapper">
 								  <ul class="sub-navigation"><li class=""><a href="/insights/analytics-reports" class="">Analytics Reports</a></li><li class=""><a href="/insights/research" class="">Research</a></li><li class="last"><a href="/insights/case-studies" class="last">Case Studies</a></li></ul></div></li><li>
 							  	<div class="topnav-highlighted-link"><a href="/news">News</a></div>
 							  	<div class="subnav-wrapper">
-								  <ul class="sub-navigation"><li class=""><a href="/news/press" class="">Press Releases</a></li><li class="last"><a href="/news/articles" class="last">Article Links</a></li></ul></div></li><li>
+								  <ul class="sub-navigation"><li class=""><a href="/news/press" class="">Press Releases</a></li><li class="last"><a href="/news/media-coverage" class="last">Media Coverage</a></li></ul></div></li><li>
 							  	<div class="topnav-highlighted-link"><a href="/about">About Us</a></div>
 							  	<div class="subnav-wrapper">
-								  <ul class="sub-navigation"><li class=""><a href="/about/the-team" class="">The Team</a></li><li class=""><a href="/about/careers" class="">Careers</a></li><li class="last"><a href="/contact/email" class="last">Contact Us</a></li></ul></div></li>		
+								  <ul class="sub-navigation"><li class=""><a href="/about/the-team" class="">The Team</a></li><li class=""><a href="/careers" class="">Careers</a></li><li class="last"><a href="/contact" class="last">Contact Us</a></li></ul></div></li>		
 		</ul>
 	</div>
 	<div id="topnav-right" class="topnav-close"></div>
@@ -143,20 +149,19 @@ $(document).ready(function() {
 <div class="clear"></div>
 
 		</div>
-	</div>
-	
-	<div id="page_header">
-		<div id="banner">
-			<h1>Privacy Policy</h1>
+		
+		<div id="page_header">
+			<div id="banner">
+							
+					<h1></h1>
+							</div>
 		</div>
 	</div>
 	
 	<div id="page_content">
 		<div class="page_container">
-			<div id="main">
-				<div id="content">
-					<div class="fullpage_panel">
-						<style>
+			<div id="content">
+				<style>
 	ul.privacy_list {
 		list-style-type:disc;
 		margin-left:40px;
@@ -168,10 +173,10 @@ $(document).ready(function() {
 		font-style:italic;
 	}
 </style>
-<script>
+<script type="text/javascript">
 
-	var rand_id   = '4e93bf8121f02';
-	var remote_ip = '207.241.237.221';
+	var rand_id   = '4fed0f25d285d';
+	var remote_ip = '207.241.226.109';
 
 	$(function() {
 		$('#buttonmap').bind('click', function() {
@@ -294,18 +299,11 @@ $(document).ready(function() {
 	Specific Media LLC<br>
 	4 Park Plaza, Suite 1500<br>
 	Irvine, CA 92614
-</p>					</div>
-				</div>
-			</div>
+</p>			</div>
 		</div>
 	</div>
 		
-	<script>
-	$(function() {
-		$('ul.footnavigation a.europe_office_locations').parent().hide();
-	});
-</script>
-<div id="global_footer">
+	<div id="global_footer">
 	<div id="gf_bar">
 		<div class="page_container">
 			<div id="gf_bar_items">
@@ -327,27 +325,27 @@ $(document).ready(function() {
 			<ul class="footnavigation">
 	<li>
 					  	<a class="top_level_nav_item" href="/advertising">Advertising</a>
-					  	  <ul><li><a href="/advertising/addressable-advertising">Addressable Advertising</a></li><li><a href="/advertising/media-solutions">Media Solutions</a></li><li><a href="/advertising/premium-network">Premium Network</a></li><li><a href="/advertising/innovative-ad-formats">Innovative Ad Formats</a></li><li><a href="/advertising/ad-specifications">Ad Specifications</a></li><li><a href="/advertising/rome-ad-specifications">Rome Ad Specifications</a></li><li><a href="/lp/ad-option-icon">Ad Option Icon</a></li></ul></li><li>
+					  	  <ul><li><a href="/advertising/addressable-advertising">Addressable Advertising</a></li><li><a href="/advertising/media-solutions">Media Solutions</a></li><li><a href="/advertising/premium-network">Premium Network</a></li><li><a href="/advertising/innovative-ad-formats">Innovative Ad Formats</a></li><li><a href="/advertising/ad-specifications">Ad Specifications</a></li><li><a href="/lp/ad-option-icon">Ad Option Icon</a></li></ul></li><li>
 					  	<a class="top_level_nav_item" href="/original-programming">Original Programming</a>
-					  	  <ul><li><a href="/lp/sponsorship">Sponsorship</a></li></ul></li><li>
+					  	  <ul><li><a href="/trailers">Trailers</a></li></ul></li><li>
 					  	<a class="top_level_nav_item" href="/insights">Insights</a>
 					  	  <ul><li><a href="/insights/analytics-reports">Analytics Reports</a></li><li><a href="/insights/research">Research</a></li><li><a href="/insights/case-studies">Case Studies</a></li></ul></li><li>
 					  	<a class="top_level_nav_item" href="/news">News</a>
-					  	  <ul><li><a href="/news/press">Press Releases</a></li><li><a href="/news/articles">Article Links</a></li></ul></li><li>
+					  	  <ul><li><a href="/news/press">Press Releases</a></li><li><a href="/news/media-coverage">Media Coverage</a></li></ul></li><li>
 					  	<a class="top_level_nav_item" href="/about">About Us</a>
-					  	  <ul><li><a href="/about/the-team">The Team</a></li><li><a href="/about/careers">Careers</a></li><li><a href="/contact/email">Contact Us</a></li></ul></li><li><a class="top_level_nav_item" href="/">Client Login</a><ul><li><a href="http://reporting.specificmedia.com/">Premium Clients</a></li><li><a href="http://leads.specificmedia.com/">Performance Clients</a></li></ul></li>	
+					  	  <ul><li><a href="/about/the-team">The Team</a></li><li><a href="/careers">Careers</a></li><li><a href="/contact">Contact Us</a></li></ul></li><li><a class="top_level_nav_item" href="/">Client Login</a><ul><li><a href="http://reporting.specificmedia.com/">Premium Clients</a></li><li><a href="http://cm.specificmedia.com/affiliate_signup.aspx">Performance Clients</a></li></ul></li>	
 </ul>		</div>	
 	</div>
 
 	<div class="page_container">
 		<div id="gf_links">
 			<div class="left copyright">
-				<span>© 2011 Specific Media LLC. All Rights Reserved</span>
+				<span>© 2012 Specific Media LLC. All Rights Reserved</span>
 				<span>All names and logos are trademarks or registered trademarks of their respective owners.</span>	
 			</div>
 			<div class="right links">
 				<ul class="piped">
-					<li class="first"><a href="/contact/email">Contact</a></li>
+					<li class="first"><a href="/contact">Contact</a></li>
 					<li><a href="/privacy">Privacy</a></li>
 					<li><a href="/sitemap">Site Map</a></li>
 				</ul>
@@ -404,5 +402,6 @@ _tag.dcsCollect();
 	<div id="gallery_lightbox" style="display:none;">
 		<div class="ajax_loader"></div>
 	</div>
+	<iframe name="submit-frame" height="1" width="1" style="display:none; margin:0px; padding:0px; border:0;"></iframe>
 
 </body></html>
