@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210165203id_/https%3A//www.uti.edu/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629121502id_/http%3A//www.uti.edu/Privacy-Policy) for the most accurate reproduction.*
 
 # Universal Technical Institute Privacy Policy | UTI.edu
 
 Universal Technical Institute (UTI) includes Custom Training Group, NASCAR Technical Institute, Motorcycle Mechanics Institute and Marine Mechanics Institute, which are subsidiaries of Universal Technical Institute,Inc. 
 
 **Postal Address** :   
-20410 N. 19th Ave. Suite 200  
-Phoenix, AZ 85027 
+16220 N. Scottsdale Rd., Suite 100  
+Scottsdale, AZ 85254
 
 ### Privacy
 
