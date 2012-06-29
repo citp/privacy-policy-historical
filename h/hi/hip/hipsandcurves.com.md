@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219191729id_/http%3A//www.hipsandcurves.com/plus-size-lingerie/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629065352id_/http%3A//www.hipsandcurves.com/plus-size-lingerie/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Hips & Curves plus size lingerie
 
