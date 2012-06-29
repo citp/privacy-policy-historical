@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roia.biz privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210144846id_/http%3A//trackingsoft.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roia.biz privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629193218id_/http%3A//trackingsoft.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
@@ -50,7 +50,7 @@ TrackingSoft is fully committed to data security. To prevent unauthorized access
 
 ### Contacting Us
 
-If you have any questions regarding this privacy policy please feel to [contact us](https://web.archive.org/web/20111210144846id_/http%3A//trackingsoft.com/contacts.shtml).
+If you have any questions regarding this privacy policy please feel to [contact us](https://web.archive.org/web/20120629193218id_/http%3A//trackingsoft.com/contacts.shtml).
 
 ### Company Commitment to Privacy
 
