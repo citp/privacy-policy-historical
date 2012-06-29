@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208201602id_/http%3A//www.evga.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629172521id_/http%3A//www.evga.com/privacy.asp) for the most accurate reproduction.*
 
 # EVGA | Intelligent Innovation | e-Store Policies
 
-  * EVGA.com, Inc. will not release your personal data to anyone else without your consent.
+  * EVGA Corporation will not release your personal data to anyone else without your consent.
   * EVGA.com, Inc does not monitor individual traffic patterns on our site - only aggregate user behavior is collected.
   * You may change the status of whether you wish to receive EVGA.com, Inc offers and communications at any time.
 
