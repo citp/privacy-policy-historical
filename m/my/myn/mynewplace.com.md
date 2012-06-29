@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226181540id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629065709id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyNewPlace
 
