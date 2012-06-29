@@ -1,8 +1,12 @@
-<!--The following is the downloaded HTML source of the allvoices.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230060600id_/http%3A//www.allvoices.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allvoices.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629072432id_/http%3A//www.allvoices.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
+	
+
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cache6.allvoices.com/javascripts/ckeditor/ckeditor.js" type="text/javascript"></script>
+
+
 	 <!-- %age: nil -->
 	<script type="text/javascript">
 
@@ -20,10 +24,157 @@
 
 	</script>
 
-	<!-- canonical url reference for google seo purposes http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html -->
-    
-	<meta name="robots" content="index,follow">
+        <script>
+
+/**
+ * Namespace.
+ * @type {Object}.
+ */
+var _ga = _ga || {};
+
+
+/**
+ * Ensure global _gaq Google Analytics queue has been initialized.
+ * @type {Array}
+ */
+var _gaq = _gaq || [];
+
+
+/**
+ * Tracks social interactions by iterating through each tracker object
+ * of the page, and calling the _trackSocial method. This function
+ * should be pushed onto the _gaq queue. For details on parameters see
+ * http://code.google.com/apis/analytics/docs/gaJS/gaJSApiSocialTracking.html
+ * @param {string} network The network on which the action occurs.
+ * @param {string} socialAction The type of action that happens.
+ * @param {string} opt_target Optional text value that indicates the
+ *     subject of the action.
+ * @param {string} opt_pagePath Optional page (by path, not full URL)
+ *     from which the action occurred.
+ * @return a function that iterates over each tracker object
+ *    and calls the _trackSocial method.
+ * @private
+ */
+_ga.getSocialActionTrackers_ = function(
+    network, socialAction, opt_target, opt_pagePath) {
+  return function() {
+    var trackers = _gat._getTrackers();
+    for (var i = 0, tracker; tracker = trackers[i]; i++) {
+      tracker._trackSocial(network, socialAction, opt_target, opt_pagePath);
+    }
+  };
+};
+
+
+/**
+ * Tracks Facebook likes, unlikes and sends by suscribing to the Facebook
+ * JSAPI event model. Note: This will not track facebook buttons using the
+ * iframe method.
+ * @param {string} opt_pagePath An optional URL to associate the social
+ *     tracking with a particular page.
+ */
+_ga.trackFacebook = function(opt_pagePath) {
+  try {
+    if (FB && FB.Event && FB.Event.subscribe) {
+      FB.Event.subscribe('edge.create', function(opt_target) {
+        _gaq.push(_ga.getSocialActionTrackers_('facebook', 'like',
+            opt_target, opt_pagePath));
+      });
+      FB.Event.subscribe('edge.remove', function(opt_target) {
+        _gaq.push(_ga.getSocialActionTrackers_('facebook', 'unlike',
+            opt_target, opt_pagePath));
+      });
+      FB.Event.subscribe('message.send', function(opt_target) {
+        _gaq.push(_ga.getSocialActionTrackers_('facebook', 'send',
+            opt_target, opt_pagePath));
+      });
+    }
+  } catch (e) {}
+};
+
+
+/**
+ * Handles tracking for Twitter click and tweet Intent Events which occur
+ * everytime a user Tweets using a Tweet Button, clicks a Tweet Button, or
+ * clicks a Tweet Count. This method should be binded to Twitter click and
+ * tweet events and used as a callback function.
+ * Details here: http://dev.twitter.com/docs/intents/events
+ * @param {object} intent_event An object representing the Twitter Intent Event
+ *     passed from the Tweet Button.
+ * @param {string} opt_pagePath An optional URL to associate the social
+ *     tracking with a particular page.
+ * @private
+ */
+_ga.trackTwitterHandler_ = function(intent_event, opt_pagePath) {
+  var opt_target; //Default value is undefined
+  if (intent_event && intent_event.type == 'tweet' ||
+          intent_event.type == 'click') {
+    if (intent_event.target.nodeName == 'IFRAME') {
+      opt_target = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+    }
+    var socialAction = intent_event.type + ((intent_event.type == 'click') ?
+        '-' + intent_event.region : ''); //append the type of click to action
+    _gaq.push(_ga.getSocialActionTrackers_('twitter', socialAction, opt_target,
+        opt_pagePath));
+  }
+};
+
+/**
+ * Binds Twitter Intent Events to a callback function that will handle
+ * the social tracking for Google Analytics. This function should be called
+ * once the Twitter widget.js file is loaded and ready.
+ * @param {string} opt_pagePath An optional URL to associate the social
+ *     tracking with a particular page.
+ */
+_ga.trackTwitter = function(opt_pagePath) {
+  intent_handler = function(intent_event) {
+    _ga.trackTwitterHandler_(intent_event, opt_pagePath);
+  };
+
+  //bind twitter Click and Tweet events to Twitter tracking handler
+  twttr.events.bind('click', intent_handler);
+  twttr.events.bind('tweet', intent_handler);
+};
+
+
+/**
+ * Extracts a query parameter value from a URI.
+ * @param {string} uri The URI from which to extract the parameter.
+ * @param {string} paramName The name of the query paramater to extract.
+ * @return {string} The un-encoded value of the query paramater. undefined
+ *     if there is no URI parameter.
+ * @private
+ */
+_ga.extractParamFromUri_ = function(uri, paramName) {
+  if (!uri) {
+    return;
+  }
+  var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+  var params = regex.exec(uri);
+  if (params != null) {
+    return unescape(params[1]);
+  }
+  return;
+};
+
+</script>
+
+
 	<!-- Begin comScore Tag -->
+	        <script>
+	          var _comscore = _comscore || [];
+	          _comscore.push({ c1: "2", c2: "8572396" });
+	          (function() {
+	            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	            el.parentNode.insertBefore(s, el);
+	          })();
+	        </script>
+	        <noscript>
+	          <img src="http://b.scorecardresearch.com/p?c1=2&c2=8572396&cv=2.0&cj=1" />
+	        </noscript>
+	  <!-- End comScore Tag -->
+	
 	<script type="text/javascript">
 	  var fb_divs = new Array();
 	  var fb_div_layouts = new Array();
@@ -51,49 +202,90 @@
 	
 
 	
-	<link href="http://cache6.allvoices.com/assets/min_stylesheet-bc73f0e3091a56964f7d8b5d2d524743.css" media="screen" rel="stylesheet" type="text/css">
-	<link href="http://cache2.allvoices.com/assets/jquery-incl-7abd6c534449c6b336e7f8acd28c45da.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://cache4.allvoices.com/assets/min_stylesheet-5eaa7ab56565934535c2d9011d78fee3.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://cache5.allvoices.com/assets/jquery-incl-d03a6ba86d798d969fb588ff33e36c84.css" media="screen" rel="stylesheet" type="text/css">
 	
 	
-    <link href="http://cache6.allvoices.com/assets/print_only-0e2651eac0d38bd18adacd586aee514b.css" media="print" rel="stylesheet" type="text/css">
+        <link href="http://cache1.allvoices.com/assets/print_only-56e4a2f76637b07fc115bdcbbac0a49c.css" media="print" rel="stylesheet" type="text/css">
 	
 	
 	
    	
 		
-	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+		<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
 </script>
 <script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-0571285362585437");
-GS_googleEnableAllServices();
+  googletag.cmd.push(function() {
+    googletag.pubads().set("adsense_background_color", "FFFFFF");
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+	
+	    	googletag.defineSlot("/1066621/av_static_leaderboard", [728, 90], "google_ad_av_static_leaderboard")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/av_static_leaderboard_btf", [728, 90], "google_ad_av_static_leaderboard_btf")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/av_static_mid_rect", [300, 250], "google_ad_av_static_mid_rect")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/av_static_mid_rect_btf", [300, 250], "google_ad_av_static_mid_rect_btf")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/av_static_vidsynd", [300, 166], "google_ad_av_static_vidsynd")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/av_report_uge_undef_mid_rect_comments", [300, 250], "google_ad_av_report_uge_undef_mid_rect_comments")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/av_report_uge_undef_mid_rect_centre", [300, 250], "google_ad_av_report_uge_undef_mid_rect_centre")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/av_adbld_report_uge_right_mid_rect", [300, 250], "google_ad_av_adbld_report_uge_right_mid_rect")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/av_adbld_report_uge_center_wide_rect", [300, 250], "google_ad_av_adbld_report_uge_center_wide_rect")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+	
+	    	googletag.defineSlot("/1066621/image_player_ad", [300, 250], "google_ad_image_player_ad")
+			.addService(googletag.pubads()) 
+			.setTargeting("Prod", "true"); 
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
 </script>
 
-<script type="text/javascript">
-		var techno_sect_id = "595478";
-		
-		GA_googleAddAttr("logged_in", "false");
-</script>
-
-<script type="text/javascript">
-    GA_googleUseIframeRendering();
-    GA_googleAddAdSensePageAttr("google_color_bg", "F0F0F0");
-    //GA_googleAddAdSenseSlotAttr("AdUnitName", "google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "av_static_leaderboard","google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "av_static_leaderboard_btf","google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "av_static_mid_rect","google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "av_static_mid_rect_btf","google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "av_report_uge_undef_mid_rect_comments","google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "av_report_uge_undef_mid_rect_centre","google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "av_adbld_report_uge_right_mid_rect","google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "av_adbld_report_uge_center_wide_rect","google_color_bg", "F0F0F0");
-	  GA_googleAddAdSenseSlotAttr( "image_player_ad","google_color_bg", "F0F0F0");
-</script>
 	
 
 
     <script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
     <script type="text/javascript" language="javascript">var recaptcha_pub_key ='6LfO5AYAAAAAAJntlXxtIbkFipKlE9jKMKGMD49R'; </script>
-    <script src="http://cache3.allvoices.com/assets/application-4798a66035ee536d77ab920ca7950b42.js" type="text/javascript"></script>
+    <script src="http://cache3.allvoices.com/assets/application-1c2857fe49c81cbdda9d64d54d35bda1.js" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript">
+      set_ckeditor(true);
+    </script>
     
 	
     
@@ -113,14 +305,15 @@ GS_googleEnableAllServices();
 	<meta http-equiv="Content-Language" content="en-gb">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta property="fb:app_id" content="129198347115424">
-	<meta name="copyright" content="Copyright Allvoices, Inc 2008-2011. All rights reserved.">
+	<meta name="copyright" content="Copyright Allvoices, Inc 2008-2012. All rights reserved.">
 	
-	 
+	
     
     
     
     
-    
+
+
 
 
 
@@ -133,24 +326,28 @@ GS_googleEnableAllServices();
   
 
 	
+	
 	<script>
 	/* Global configuration for Ajax requests */
 	jQuery.ajaxSetup({
 	   timeout: 30000
 	});
 	</script>
+
           
-</head>
+<script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script></head>
 
 <body id="body1" onload="jsLoaded();">
-	<div class="popupDialogWindow" id="popupDialogWindow"></div>
-  <script type="text/javascript">
+  <div class="OUTBRAIN" data-src="http://www.allvoices.com/privacy" data-widget-id="AR_3" data-ob-template="allvoices"></div>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+		<div class="popupDialogWindow" id="popupDialogWindow"></div>
+   <script type="text/javascript">
     var jsLoaded = function(){
 		//facebookButtonsLoad() ;
 	};
 	
   </script>
-	  <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+  	  <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 	  <script>
 	    window.fbAsyncInit = function() {
 	    FB.init({appId: '129198347115424', status: true, cookie: true, xfbml: true});
@@ -185,6 +382,7 @@ GS_googleEnableAllServices();
            }());
 
 	  </script>
+
        
   <!-- %age: nil -->
     
@@ -204,11 +402,11 @@ GS_googleEnableAllServices();
     <iframe src="http://www.allvoices.com/javascript_required" frameborder="0" class="noScriptFrame"> </iframe>
 </noscript>
 
-    
-
-<div id="wrapper">
 
 
+	<div id="wrapper">
+                
+	
 		
 
 
@@ -227,7 +425,7 @@ GS_googleEnableAllServices();
 </div>
 
 <!-- login box shell -->
-<div id="popupLoginBox" class="popupForm popupFormLogin" style=" z-index: 110; display: none;">
+<div id="popupLoginBox" class="popupForm popupFormLogin" style=" z-index: 100000; display: none;">
     <div class="popupFormArrow"> </div>
     <div class="popupFormContentHolder" id="popupLoginBoxContent">
             <div class="ajaxArrowSpinner popupWaitSpinner">Loading login form...</div>
@@ -284,7 +482,7 @@ GS_googleEnableAllServices();
         
 <div class="popupFormHeading">Invite your friends</div>
 
-<a class="popupFormClose" href="#" onclick="this.parentNode.parentNode.hide(); return false;"><img alt="Cancel" height="15" src="http://cache6.allvoices.com/images/clear.png" width="14"></a>
+<a class="popupFormClose" href="#" onclick="this.parentNode.parentNode.hide(); return false;"><img alt="Cancel" height="15" src="http://cache2.allvoices.com/assets/clear.png" width="14"></a>
 
 <div id="sendInvitationErrorMessage" style="display: none;" class="popupFormError"></div>
 
@@ -298,7 +496,7 @@ GS_googleEnableAllServices();
     </div>
     
 	<div id="inviteContacts" class="popupContactList">
-		<form accept-charset="UTF-8" action="/privacy?html%5Bid%5D=inviteContact&amp;html%5Bname%5D=inviteContact&amp;html%5Bonsubmit%5D=if+%28%24%28%27skipSendInvite%27%29.value%21%3D%27yes%27+%26%26+%21hasSelectedContact%28%27%27%2C+%24%28%27contactsCheckAll%27%29%29%29+%7B+showNoContactSelected%28%27%27%29%3Breturn+false%3B%7D&amp;html%5Bstyle%5D=display%3Anone%3B&amp;remote=true&amp;url%5Baction%5D=post_registration_process&amp;url%5Bcontroller%5D=user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="HBjK45misgt4jwx2O/SrcTpSvg51ofgLuOxim9LvH2c="></div>
+		<form accept-charset="UTF-8" action="/privacy?html%5Bid%5D=inviteContact&amp;html%5Bname%5D=inviteContact&amp;html%5Bonsubmit%5D=if+%28%24%28%27skipSendInvite%27%29.value%21%3D%27yes%27+%26%26+%21hasSelectedContact%28%27%27%2C+%24%28%27contactsCheckAll%27%29%29%29+%7B+showNoContactSelected%28%27%27%29%3Breturn+false%3B%7D&amp;html%5Bstyle%5D=display%3Anone%3B&amp;remote=true&amp;url%5Baction%5D=post_registration_process&amp;url%5Bcontroller%5D=user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="U4JDZFCdxFeudrBiGiKhrch9QaxBR84KATfzsHnGiuQ="></div>
 			 <p>Personal Message (optional):</p>
 			 <p><textarea name="personal_message" rows="5" cols="35" id="personal_message">I've become a citizen journalist on Allvoices.com, the fastest growing grassroots news network. Sign up, become my fan and join me in changing the face of online news!</textarea></p>
 
@@ -379,9 +577,11 @@ GS_googleEnableAllServices();
             <div class="ajaxArrowSpinner popupWaitSpinner">Wait while we load the booster form...</div>
         </div>
 	</div>
+     
         <div class="pageLeader">
-            	<a class="pageLogo" title="Home" href="/" rel="nofollow" onclick="reset_app_data();"><img alt="Home" height="31" src="http://cache6.allvoices.com/images/clear.png" width="221"></a>
-              <img alt="Local to Global News" class="pageTagLine" height="12" src="http://cache6.allvoices.com/images/clear.png" width="176">
+            	<a class="pageLogo" title="Home" href="/" rel="nofollow" onclick="reset_app_data();"><img alt="Home" height="31" src="http://cache2.allvoices.com/assets/clear.png" width="221"></a>
+              <img alt="Local to Global News" class="pageTagLine" height="12" src="http://cache2.allvoices.com/assets/clear.png" width="176">
+                
 
             <input type="hidden" id="redirectUrl" name="redirectUrl" value="">
             <input type="hidden" id="loggedIn" name="loggedIn" value="0">
@@ -391,12 +591,12 @@ GS_googleEnableAllServices();
                  
               <!--<div class="facebookConnect" id="facebookConnectButton"><fb:login-button onclick="showBox('');" onlogin="create_check_facebook_connect_user(this);" perms="email" length="short"></fb:login-button></div>-->
               <div class="facebookConnect" id="facebookConnectButton">
-                <fb:login-button button_version="1" length="xlong" size="large">&nbsp;Connect&nbsp;</fb:login-button>
+                <fb:login-button button_version="1" length="xlong" size="large" data-scope="email,user_checkins"> Login </fb:login-button>
                 
               </div>
               <!--
               <div style="float:right;padding-right: 8px;padding-top: 7px;">
-                <a href="/user/generate_twitter_signin_button">  <img src="images/twitter/twitter_button.gif"></img> </a>
+                <a href="/user/generate_twitter_signin_button">  <img src="/assets/twitter/twitter_button.gif"></img> </a>
               </div>
               -->
             <div class="pageLeaderLinks">
@@ -411,12 +611,17 @@ GS_googleEnableAllServices();
 
             </div>
                         <div class="leaderAdWrapper">
-                              <a href="/register_now"><img alt="Sign up now!" class="takeTheTour" height="90" src="http://cache6.allvoices.com/images/clear.png" title="Sign up now!" width="264"></a>
-                                    		<div class="globalAdLeaderBoard">
-	<script type="text/javascript"> 
-	GA_googleFillSlotWithSize("ca-pub-0571285362585437", "av_static_leaderboard", 728, 90);
-	</script> 
-	</div>
+                              <a href="/register_now"><img alt="Sign up now!" class="takeTheTour" height="90" src="http://cache2.allvoices.com/assets/clear.png" title="Sign up now!" width="264"></a>
+                                       	  		
+	<div id="google_ad_av_static_leaderboard" class="globalAdLeaderBoard">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display('google_ad_av_static_leaderboard');
+    });
+    </script>
+  </div>
+
+
 
 
 
@@ -426,10 +631,13 @@ GS_googleEnableAllServices();
                         </div>
         </div>
 
+			
 
 
+                  
 
-            <div class="mainNav">
+        <link href="http://cache1.allvoices.com/assets/navigation_old-28a53703cfd903230ed55b0b11130e51.css" media="screen" rel="stylesheet" type="text/css">
+                <div class="mainNav">
                     
 <ul class="navButtons" id="navigationList">
 		<li class="navItem selected">
@@ -532,14 +740,14 @@ GS_googleEnableAllServices();
      enableNavigationHover("navigationList");
 //-->
 </script>
-              
-                <form accept-charset="UTF-8" action="/search/quicksearch" class="navSearch" data-remote="true" id="quickSearchForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="HBjK45misgt4jwx2O/SrcTpSvg51ofgLuOxim9LvH2c="></div>
+
+                <form accept-charset="UTF-8" action="/search/quicksearch" class="navSearch" data-remote="true" id="quickSearchForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="U4JDZFCdxFeudrBiGiKhrch9QaxBR84KATfzsHnGiuQ="></div>
 			        <input type="hidden" name="search_url" id="search_url" value="">
 					<input type="hidden" name="partner_name" value="">
-			        <input class="searchButton" src="http://cache6.allvoices.com/images/clear.png" tabindex="2" type="image" value="Search">
+			        <input class="searchButton" src="http://cache2.allvoices.com/assets/clear.png" tabindex="2" type="image" value="Search">
 
 			        <input tabindex="1" type="text" class="searchBoxAjax" name="search_box" id="search_box" value="Location or Keyword..." onclick="this.value='';" onkeyup="$('#location_search_auto_complete').hide();">
-			        <span id="location_search_wait" class="searchBoxSpin" style="display:none;" title="Please wait while we search for your location..."><img alt="" height="16" src="http://cache2.allvoices.com/images/ajax/ajax-location.gif" width="16"></span>
+			        <span id="location_search_wait" class="searchBoxSpin" style="display:none;" title="Please wait while we search for your location..."><img alt="" height="16" src="http://cache6.allvoices.com/assets/ajax/ajax-location.gif" width="16"></span>
 
 			        <div id="location_search_auto_complete" class="locationSearchFound" style="display: none;">
 	                </div>
@@ -551,8 +759,12 @@ GS_googleEnableAllServices();
               $('#location_search_wait').show();
             });
             </script>
+
+
+		</div>
                 
-		    </div>
+                
+		
             <div class="mainNav" style="padding:0px;width:1008px;">
   <div class="clearFix"></div>
   <style type="text/css">
@@ -715,13 +927,18 @@ GS_googleEnableAllServices();
 
 </div>
 
-	<div class="clearFix" id="empty_div_before_footer_ad">&nbsp;</div>
+ 		<div class="clearFix" id="empty_div_before_footer_ad">&nbsp;</div>
 
-        			<div class="globalAdFooter">
-	<script type="text/javascript"> 
-	GA_googleFillSlotWithSize("ca-pub-0571285362585437", "av_static_leaderboard_btf", 728, 90);
-	</script> 
-	</div>
+        		  		
+	<div id="google_ad_av_static_leaderboard_btf" class="globalAdFooter">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display('google_ad_av_static_leaderboard_btf');
+    });
+    </script>
+  </div>
+
+
 
 
 
@@ -748,7 +965,6 @@ GS_googleEnableAllServices();
                 <li><a href="/contributors" title="Contributors">Contributors</a></li>
                 <li><a href="/images" title="Images">Images</a></li>
                 <li><a href="/videos" title="Videos">Videos</a></li>
-                <li><a href="/partner/ap" title="Partner News">Partner News</a></li>
                 <!--<li><a href="/q_and_a" title="Questions">News Questions</a></li>-->
                 <li><a href="/cartoons" title="Cartoons">Cartoons</a></li>
                 <li><a href="/feeds" rel="nofollow" title="RSS Feeds">RSS Feeds</a><br></li>
@@ -787,10 +1003,10 @@ GS_googleEnableAllServices();
             <ul>
                 <li><a href="/post_event" rel="nofollow" title="Report Your News" onclick="$('#redirectUrl').val('/post_event');showLoginBox($(this));return false;">Report Your News</a><br><br></li>
                 <li><a href="/leader_board">User Leader Board</a><br><br></li>
-                <li>Add your voice and contribute via your cellphone - check out how to <a href="/report-news-via-your-cellphone" title="Report News via Your Cellphone">Report News via Your Cellphone</a><br><br></li>
+                <li style="font-family:arial,helvetica,sans-serif;">Add your voice and contribute via your cellphone - check out how to <a href="/report-news-via-your-cellphone" title="Report News via Your Cellphone">Report News via Your Cellphone</a><br><br></li>
                 <li><a href="/blog_widget" rel="nofollow" title="Blog Widget">Blog Widget</a></li>
                 <li><a href="/widget-for-blog-owner" rel="nofollow" title="Widget for Blog Owner">Widget for Blog Owner</a><br><br></li>
-                <li><a href="/contest/holidaycontest2011" rel="nofollow" title="Holiday Contest">Holiday Contest</a><br><br></li>
+                <li><a href="/election2012" title="American Pundit">American Pundit</a><br><br></li>
             </ul>
         </div>
 
@@ -822,7 +1038,7 @@ GS_googleEnableAllServices();
 </div>
 
 
-<div class="footerCopyRights" id="footerCopyRights"><br>Use of this site is governed by our <a href="/terms" rel="nofollow">Terms of Use Agreement</a> and <a href="/privacy" rel="nofollow">Privacy Policy</a>.<br><br>© Allvoices, Inc 2008-2011. All rights reserved.</div>
+<div class="footerCopyRights" id="footerCopyRights"><br>Use of this site is governed by our <a href="/terms" rel="nofollow">Terms of Use Agreement</a> and <a href="/privacy" rel="nofollow">Privacy Policy</a>.<br><br>© Allvoices, Inc 2008-2012. All rights reserved.</div>
 
 
     
@@ -867,9 +1083,11 @@ GS_googleEnableAllServices();
 
     
 
- </div>
 
 
+
+	</div>
+	
 	<script src="http://ad.allvoices.com/mint/?js" type="text/javascript"></script>
 
 
@@ -889,7 +1107,17 @@ GS_googleEnableAllServices();
 
 
 
-
+<script>
+  (function(){
+    var twitterWidgets = document.createElement('script');
+    twitterWidgets.type = 'text/javascript';
+    twitterWidgets.async = true;
+    twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+    // Setup a callback to track once the script loads.
+    twitterWidgets.onload = _ga.trackTwitter;
+    document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+</script>
 
 <script>    
       var track_user_activity = false;
@@ -897,16 +1125,13 @@ GS_googleEnableAllServices();
 
 
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","e35302c4b3",74151,"dgwKFkBXVAgDSktCRFQXDQEdSEoNEFkHSAI=",0,40,new Date().getTime(),"","","","",""])</script>
+
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<script type="text/javascript">_ga.trackFacebook();</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
   
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js"></script></body></html>
+</body></html>
