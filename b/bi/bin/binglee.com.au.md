@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214063425id_/http%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629172643id_/http%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -117,6 +117,22 @@ Bing Lee reserves the right to make changes to this Privacy Policy from time to 
 ## CONTACTING BING LEE
 
 To review and update your personal information or to obtain a copy of this Privacy Policy, please contact Bing Lee at [privacy@binglee.com.au](mailto:privacy@binglee.com.au) or by telephone on (02) 9781 3000. This Privacy Policy may also be found on Bing Lee's website [www.binglee.com.au](http://www.binglee.com.au/).
+
+## Cookies
+
+Cookies are small text files, which are stored on your computer by your browser when you visit web pages. We use cookies to allow us to store tracking information to make your user experience better. Cookie storage reasons include usage statistics, and your favourite products. This information is not shared, and expires after a reasonable period of time. 
+
+Bing Lee collect and store data in cookies which is sent securely to remarketing companies, whose algorithms may determine if you will see advertising related to your browsing on other websites. You are able to opt out of these adverts at any time (more information below).
+
+## Google Analytics
+
+We use Google Analytics to track visitor numbers and behaviour. This service is to help us continually improve our service and does not track any personally identifiable information. If you wish to opt out of this, you should disable cookies in your browser.
+
+## Remarketing Services
+
+After visiting Bing Lee you may find advertising banners on other websites associated with your browsing history. The technologies behind these services are based on cookies. Google and other third-party vendors use cookies to serve ads based upon your past visits to the Bing Lee website. This is a service offered to suggest alternate products and offers, which may be of interest to you. This is an anonymous service and no personal or identifiable information is recorded by this advertising method, however if you do not wish to view these types of adverts you can opt out of these services by using the following link: [ link:](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TChQE36MjyOiu-ha-3v8VnE_DUaAVlY3pc3Pa0LOdiIxsmucWzzSywLTRVmxN6-LJgHRthW_HRgH-PqK0ms7OodwBFOlig6Rk-eMUDSlqeJHZlwEnvEyW8We2HyEAnuEh7JQleDAdpLu6T9PyyVQtz2whmhmaG3Z8H4y-KV_VlSOSX3i4doFmdYLifGO6A6yZfEshptj5JASGBCDXZapPDB38VLUAvvzMBTnye2yHtn3im-1xOWmrSvbNGqbCz4uPLAF5vrY&hl=en)
+
+Bing Lee also uses a Google Dynamic Ad Serving feature, which utilizes the Terecent cookie to serve ads based upon your browsing history. You can opt out of the Teracent cookie by visiting the [following page:](http://www.teracent.com/about-us/opt-out/)
 
 **BING LEE ELECTRICS PTY LTD  
 ABN 61 000 733 488**
