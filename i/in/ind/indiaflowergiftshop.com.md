@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223155957id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629124407id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -18,10 +18,14 @@ We use information we collect to communicate with you, to process your orders, t
 **Your Security**   
 We do not collect and store your credit card information. We do not get any idea of Credit Card number. During the purchasing process, you will enter your credit card information directly into the form posted by the credit card payment gateway. Hence, all your credit card information will be collected and secured by the credit card payment gateway directly in most secured way.
 
+ _ **Your Online Payment**_ **  
+****Online transaction you do through this website is _100 % Secure and highly protected by VeriSign Secured Payment Gateway and further protected with PCI  Control_. Our Paypal Merchant Account is also a Verified and 100% Secured Payment Account. All Credt Card/Debit Card/Netbanking/Done Card Payments are accepted through EBS**
+
+  
 **Your Inputs:**  
 We welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [ifgscustomercare@gmail.com](mailto:ifgscustomercare@gmail.com)
 
   
 
 
-    || Step 1: Please Choose Your Delivery City and start your Shopping ||    Same Day Delivery Accepted till 4 PM IST ||    Free Shipping Over 125 Cities, Door Step Delivery Services over 300 Cities Indiawide ||    || Send Flowers and Gifts All Over India. Call +91 9836364260 24*7 for any assistance ||    International Delivery Over 80 Countries, Call +91 9836364260 Now ||    IFGS is an online portal of Floret Creations ||    Click on Any Product Name to see complete description about the Item ||
+    || Step 1: Please Choose Your Delivery City and start your Shopping ||    Same Day Delivery Accepted till 4 PM IST ||    Free Shipping Over 150 Cities, Door Step Delivery Services over 300 Cities Indiawide ||    || Send Flowers and Gifts All Over India. ||    Click on Any Product Name to see complete description about the Item ||
