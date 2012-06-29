@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230005429id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2520Privacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629074950id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2520Privacy%2520Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/" lang="en-GB" itemscope="" itemtype="http://schema.org/Organization" class=" webkit chrome linux js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" webkit chrome linux js"><head>
 <meta name="google-site-verification" content="rZEQPD3gaU-hLCTigQuK6DilfHKMsWjh1FOpgTZ-58c">
 <title>LessonPix Privacy Policy</title>
   <link rel="stylesheet" href="/cssCG/reset.css" type="text/css">
@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="/css/star_rating.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/dash.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/home.css" type="text/css">
+  <link rel="stylesheet" href="/cssCG/jquery.colourPicker.css" type="text/css">
+
 <!--
   <link type="text/css" href="/css/overcast/jquery-ui-1.8.14.custom.css" rel="stylesheet" />
   <script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
@@ -19,9 +21,13 @@
 -->
 
   <link type="text/css" href="/cssCG/jquery-ui-1.css" rel="stylesheet">	
+<link rel="stylesheet" type="text/css" href="/css/tableStyle.css">
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jsCG/jquery-1.js"></script>
   <script type="text/javascript" src="/jsCG/jquery-ui-1.js"></script>
+  <script type="text/javascript" src="/js/jquery.colourPicker.js"></script>
+
 <script type="text/javascript">// <![CDATA[
+
 
   // HOTFIX: We can't upgrade to jQuery UI 1.8.6 (yet)
   // This hotfix makes older versions of jQuery UI drag-and-drop work in IE9
@@ -82,10 +88,18 @@ function EvalSound(soundobj) {
 
 // ]]>
 </script>
+<script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/js/jquery.colourPicker.js"></script>
 <script type="text/javascript">
    $(function(){
+       $('.tablesorter').tablesorter();
        $('#carousel').infiniteCarousel({displayThumbnails: false, imagePath: '/js/infinitecarousel/images/', textholderHeight: '.20'});
        $('div.thumb').parent().css({'margin':'0 auto','width':'650px', 'margin-bottom': '5px'});
+
+       $('select.colorPicker').colourPicker({
+	 ico:	'/images/jquery.colourPicker.gif', 
+	 title:false
+	     });
 
 
 //       $('body').supersleight({shim: '/images/x.gif'});
@@ -183,6 +197,7 @@ _gaq.push(['_setCustomVar',
 </script>
 <link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
 <link rel="SHORTCUT ICON" href="/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" title="LessonPix Search" href="http://lessonpix.com/search.xml">
 </head>
 
 <body>
@@ -265,16 +280,19 @@ _gaq.push(['_setCustomVar',
 <li><a href="/articles/7/For+Parents" title="For Parents">For Parents</a></li>
 <li><a href="/articles/5/For+Teachers" title="For Teachers">For Teachers</a></li>
 <li><a href="/articles/9/For+Special+Education" title="For Special Education">For Special Education</a></li>
-<li><a href="/articles/6/For+Speech+Therapy" title="For Speech Therapy">For Speech Therapy</a></li>
+<li><a href="/articles/6/For+OTs+PTs+and+SLPs" title="For OTs PTs and SLPs">For OTs PTs and SLPs</a></li>
+<li><a href="/articles/12/In+the+News" title="In the News">In the News</a></li>
 <li class="selected"><a href="/articles/11/About+Us" title="About Us">About Us</a></li>
 <ul id="articleList">
 <li><a href="/articles/11/48/LessonPix+Pricing+and+Benefits" title="LessonPix Pricing and Benefits">LessonPix Pricing and Benefits</a></li>
 <li><a href="/articles/11/26/LessonPix+Privacy+Policy" title="LessonPix Privacy Policy">LessonPix Privacy Policy</a></li>
 <li><a href="/articles/11/29/LessonPix+Refund+Policy" title="LessonPix Refund Policy">LessonPix Refund Policy</a></li>
 <li><a href="/articles/11/28/LessonPix+Terms+and+Conditions" title="LessonPix Terms and Conditions">LessonPix Terms and Conditions</a></li>
+<li><a href="/articles/11/78/Sharing+LessonPix+Materials" title="Sharing LessonPix Materials">Sharing LessonPix Materials</a></li>
 <li><a href="/articles/11/46/What+is+LessonPix%3F" title="What is LessonPix?">What is LessonPix?</a></li>
 </ul>
 </ul>
+<div id="tryItNowBut"><a href="/TryItNow"><strong>Try It Now For Free</strong></a></div>
 </div>
 <div class="colShadow"></div>
 </div>
@@ -386,4 +404,4 @@ _gaq.push(['_setCustomVar',
 
 
 
-</div></div></body></html>
+</div></div><div id="jquery-colour-picker" style="display: none;"></div></body></html>
