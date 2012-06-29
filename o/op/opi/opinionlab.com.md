@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214032839id_/http%3A//www.opinionlab.com/content/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629034636id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « OpinionLab—Voice of Customer Feedback Anytime Anywhere
+# privacy policy – OpinionLab - Voice of Customer Feedback Anytime, Anywhere ™
 
 General Statement for the OpinionLab Website ([http://www.opinionlab.com](http://www.opinionlab.com/)): OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the Website: [http://www.opinionlab.com](http://www.opinionlab.com/).
 
@@ -46,9 +46,7 @@ Under no circumstances will we use this information for anything not described i
 
 
 OpinionLab, Inc.  
-600 Central Avenue
-
-Suite 265
+600 Central Avenue Suite 265
 
 Highland Park, IL 60035  
 [info@opinionlab.com](mailto:info@opinionlab.com)  
