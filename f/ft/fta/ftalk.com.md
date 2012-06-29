@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the ftalk.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217010729id_/http%3A//www.ftalk.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftalk.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630010422id_/http%3A//www.ftalk.com/privacy_policy.php) for the most accurate reproduction.*
 
-# fTalk – Free Facebook Chat Messenger for your desktop.
+# fTalk - Free Facebook Chat Messenger for your desktop.
 
 ## Privacy Policy
 
-("fTalk") takes your privacy very seriously. Please read the following to learn more about fTalk's Privacy Policy ("Policy"). This Policy details how fTalk receives, collects and uses information in connection with their website located at ftalk.com and software provided on the ftalk.com website (the website and software collectively referred to herein as "Site").
+Koyote-Lab Inc. ("fTalk") takes your privacy very seriously. Please read the following to learn more about fTalk's Privacy Policy ("Policy"). This Policy details how fTalk receives, collects and uses information in connection with their website located at ftalk.com and software provided on the ftalk.com website (the website and software collectively referred to herein as "Site").
 
 **Collection and Use of Information**
+
+  
+
 
 fTalk does not automatically collect any personally identifiable information, such as names, e-mail, age, gender, address, telephone numbers, login names and passwords or other self-identifying information ("Personal Information"). fTalk may request that a user provide an e-mail address if such user wishes to be contacted regarding any offers, updates, newsletters and service related announcements. If a user provides an e-mail address to fTalk, such user authorizes fTalk to send user communications.
 
@@ -40,4 +43,7 @@ If a user's e-mail address changes, a user may correct such information by sendi
 
 **Contact Information**
 
-Please direct all questions in connection with this Policy via e-mail to [privacy@ftalk.com](mailto:privacy@ftalk.com) or by writing to , Attention: Privacy Policy Administrator, 40 Kimonos St.3095 Limassol, Cyprus
+  
+
+
+Please direct all questions in connection with this Policy via e-mail to [privacy@ftalk.com](mailto:privacy@ftalk.com) or by writing to Koyote-Lab Inc., Attention: Privacy Policy Administrator, 40 Kimonos St.3095 Limassol, Cyprus
