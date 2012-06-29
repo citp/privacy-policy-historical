@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vmturbo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231004155id_/http%3A//www.vmturbo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmturbo.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232604id_/http%3A//www.vmturbo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | VMTurbo
 
 VMTurbo, Inc. (“us”, “we”, “VMTurbo”) is committed to respecting the privacy of our customers, visitors, and other users of the VMTurbo website (“Site”). This notice describes our privacy policy (“Privacy Policy”), which covers the personal and other information that we collect on the Site. By visiting our Site, you accept the practices outlined in this Privacy Policy. We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy. If we do, we will notify you by posting the amended policy on our Site and, if we are authorized to send you email, notifying you of the nature of the modifications along with a link to the modified document so that you can review it. In all cases, use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
 
@@ -30,6 +30,6 @@ If you have any comments, concerns or questions about this Privacy Policy, pleas
 Last Updated on January 21, 2011.
 
 **VMTurbo, Inc.**  
-400 Columbus Avenue  
-Valhalla, NY 10595  
+1 Burlington Woods Dr., Suite 101  
+Burlington, MA 01803  
 United States of America
