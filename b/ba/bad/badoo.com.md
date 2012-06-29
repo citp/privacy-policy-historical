@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124091405id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629055408id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
-This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be are governed by and construed in accordance with English law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail.
+This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with English law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail.
 
 ## What’s this all about then?
 
@@ -29,7 +29,7 @@ Badoo reserves the right to change our Policy at any time and without notice, so
 
 IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT ACCESS OR USE THE SITE.
 
-## 1\. Badoo users and visitors to our site
+## 1. Badoo users and visitors to our site
 
 #### What information does Badoo collect if I decide to join the Badoo social community?
 
@@ -95,15 +95,51 @@ We may use material that you post on the open access areas of Badoo in advertisi
 
 We use your personal information to resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](http://badoo.com/terms/).
 
-#### How does Badoo collect information about me?
+#### What are 'cookies' and what 'cookies' does Badoo use?
 
-We collect information by placing cookies on your computer or mobile. A cookie is a piece of text stored on your computer or mobile by your web browser. When you visit the publicly available sections of Badoo, a session ID cookie is placed on your computer that only lasts while your visiting. We also place persistent cookies on members computers, so that Badoo remembers them and makes their login experience faster and easier.
+We collect information by placing cookies on your computer or mobile. A cookie is a piece of text stored on your computer or mobile by your web browser. They are basically a tool that stores information about website visits, recognises you and your preferences each time you visit Badoo, and ensures site functionality and enables us to provide the services our members request.
 
-Some of our business partners use cookies on our site. We have no access to or control over these cookies, once we have given permission to them to set cookies and the practices of those business partners are subject to their own policies.
+When you visit the publicly available sections of Badoo, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known an local storage devices) on members’ computers, so that Badoo remembers them and makes their login experience faster and easier. You may set your browser to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
 
-If however, you want to stop cookies being stored on your computer in future, or limit the type of cookies you allow, please refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. For more information about deleting and controlling cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/). Flash cookies (also known as local shared objects) operate differently to browser cookies and cookie management tools available in a web browser will not remove flash cookies. To learn more about and manage flash cookies you can visit adobe.com and make changes at the privacy settings panel. If you disable cookies you may lose some of the features and functionality of our site.
+Badoo uses cookies and local storage devices for a number of reasons, including to ensure the security of our site, to provide you with features you have requested and to analyse how members and visitors use Badoo. Badoo’s use of cookies and local storage devices basically falls into three categories:
 
-## 2\. Friends and other Badoo users
+  * those that are strictly necessary to deliver the services and products you have requested, such as, for example purchasing Super Powers
+  * cookies related to the performance of Badoo’s site, such as analytics that help us determine how our site is performing and ensuring a smooth and trouble free experience for our members and visitors
+  * cookies related to the functionality of Badoo’s site, such as remembering your preferences at log in or your preferred language or allowing you to chat, add photos and instant message Badoo members 
+  * third parties cookies that also relate to functionality and that you request via social plugins, links to other social networks or viewing of videos
+
+
+
+Badoo’s uses of cookies and local shared devices so that we know who you are, what interests you and so that you can do the things online that you want to do, like chat with new people, share your content and buy Super Powers knowing that your data will be secure. Below is a table to explain Badoo’s cookie functions and why they’re used.
+
+Cookie Functions | Cookie Purposes  
+---|---  
+Analytics and research | Badoo uses Google Analytics to collect information about how visitors use the Badoo website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit <http://www.google.com/intl/en/policies/>  
+Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy Badoo’s offerings, experiences and various features, such as uploading photographs, chatting and can localise your experience, such as when you’ve requested to view Badoo’s site in your local language or when you’ve asked Badoo to ‘remember me’. These cookies also help to remember who invited you to join Badoo.  
+Security and site integrity | We use cookies and other devices, such as CAPTCHAs, to help keep Badoo and our members safe and secure. These cookies do things like protect Badoo users from spam and fraud, by ensuring the safety of your personal data when you shop on Badoo for things like Super Powers.  
+Site features and services | 
+
+These cookies and local storage devices provide the functionality that our Badoo members enjoy, such as uploading of photographs, chats, instant messaging, your account settings and your request to have Badoo as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Badoo with your other favourite social networks.
+
+In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Badoo recommends that you read their privacy policies. Third parties who place cookies on your device when you use Badoo include, and we have included a link to their privacy policies:
+
+Twitter, <https://twitter.com/privacy> Facebook, <http://www.facebook.com/about/privacy/your-info-on-other#socialplugin> YouTube, <http://www.google.co.uk/intl/en/policies/privacy/> AddThis, <http://www.addthis.com/privacy>  
+  
+Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for Badoo services.  
+  
+Our use of cookies and local share devices, including the specific cookie names, may change over time, but will generally fall into the above categories. Please visit this page regularly so that you are aware of any changes.
+
+If you would like to know more about cookies, including flash cookies/local storage devices, the following websites provide useful information:
+
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
+
+
+
+For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+
+## 2. Friends and other Badoo users
 
 #### When I put information about myself on Badoo, what do the other users see?
 
@@ -115,11 +151,11 @@ Use it to meet new friends and make new contacts! Beware that you may not use ot
 
 #### What information does Badoo collect about my friends and contacts?
 
-You can choose to invite your friends to join Badoo to make sure that they also get the benefits of ameeting new people. To make it easier to search and find friends and acquaintances on Badoo, users may search for other members using first and last name, email address and location. If you want to invite your friends and contacts to become a Badoo member, we will send an email invitation from Badoo in your name to your friends and contacts encouraging them to sign up to Badoo. If any of the individuals you have invited do not register within a few days, Badoo may occasionally send reminder emails on your behalf to those individuals. You can choose to invite all your friends or only a select few by simply unticking the names of those friends you do not wish to invite, but please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Badoo invite.
+You can choose to invite your friends to join Badoo to make sure that they also get the benefits of meeting new people. To make it easier to search and find friends and acquaintances on Badoo, users may search for other members using first and last name, email address and location. If you want to invite your friends and contacts to become a Badoo member, we will send an email or an SMS, if you've used our Android or iPhone app, invitation from Badoo in your name to your friends and contacts encouraging them to sign up to Badoo. If any of the individuals you have invited do not register within a few days, Badoo may occasionally send reminder emails or SMS on your behalf to those individuals. You can choose to invite all your friends or only a select few by simply unticking the names of those friends you do not wish to invite, but please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Badoo invite.
 
-When we send an email invite to your friend or contact, we store their email address so that we can automatically connect you and your friend. Badoo does not sell these email addresses or use them to send any other communication besides invitations. The friend may contact Badoo to request the removal of their information from our database by visiting [Feedback page](http://badoo.com/feedback/). Any such request will only apply to addresses we have at the time of the request and not to any addresses that the member/user provides to us later.
+When we send an email or sms invite to your friend or contact, we store their name and email address or their mobile number, if we've sent an SMS on your behalf so that we can automatically connect you and your friend. Badoo does not sell these email addresses or mobile numbers or use them to send any other communication besides invitations. The friend may contact Badoo to request the removal of their information from our database by visiting Feedback page. Any such request will only apply to addresses or mobile numbers we have at the time of the request and not to any addresses that the member/user provides to us later.
 
-## 3\. Third parties
+## 3. Third parties
 
 #### Does Badoo sell my information to other parties?
 
@@ -135,13 +171,13 @@ Badoo also wishes to maintain a healthy community, and we will cooperate with al
 
 In the event that Badoo or any of its affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organisation, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal information.
 
-## 4\. Data storage
+## 4. Data storage
 
 #### Where is my personal information kept?
 
 Badoo is a global website operating through servers located in a number of countries around the world, including the United States. If you live in a country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of residence. By submitting your personal information, or by choosing to upgrade the services you use, or by making use of the applications available on Badoo, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations.
 
-## 5\. Security
+## 5. Security
 
 #### How does Badoo protect my personal information?
 
@@ -155,7 +191,7 @@ We cannot guarantee the security of your personal data while it is being transmi
 
 You may not disclose your password to any third parties or share it with any third parties. If you lose your password or give it out, your personal information may be compromised. If that happens, please report it to Support via [Feedback page](http://badoo.com/feedback/). You must change your password immediately via your “Settings” page. Badoo cannot be held responsible for your failure to keep your password secure and failure to do so may violate our [Terms and Conditions of Use](http://badoo.com/terms/).
 
-## 6\. Your rights
+## 6. Your rights
 
 #### How do I change my Profile?
 
@@ -208,6 +244,4 @@ You might also want to take a look at the following pages:
 
 
 
-## Effective date
-
-This Privacy Policy was last updated on 3 June 2011.
+This Privacy Policy was last updated on 23 May 2012.
