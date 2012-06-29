@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ad.ly privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219074823id_/http%3A//adly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad.ly privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629153735id_/http%3A//adly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Adly - Influencer Marketing Platform
+# Privacy Policy | Adly - Celebrity Endorsements in Social Media
 
 **Last updated July 19, 2011**
 
 **Our Privacy Commitment**
 
-ADLY Inc. (“ADLY,” “we,” “us” or “our”) is committed to respecting the privacy rights and concerns of all users of the ADLY (http://Adly.com) and LOOKSY ([http://looksy.com](http://looksy.com/)) websites where this Privacy Policy is posted (the “Site(s)”) (we refer to the Site(s) and the services made available through the Site(s), collectively, as the “ADLY Features”). As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the ADLY Features how we use and protect the information we collect through the Site(s). By visiting the Site(s) or using any of the ADLY Features, you consent to ADLY’s collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
+ADLY Inc. (“ADLY,” “we,” “us” or “our”) is committed to respecting the privacy rights and concerns of all users of the ADLY (http://Adly.com) websites where this Privacy Policy is posted (the “Site(s)”) (we refer to the Site(s) and the services made available through the Site(s), collectively, as the “ADLY Features”). As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the ADLY Features how we use and protect the information we collect through the Site(s). By visiting the Site(s) or using any of the ADLY Features, you consent to ADLY’s collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
 
 This policy answers the following questions:
 
