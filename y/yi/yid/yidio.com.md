@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124251id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629164810id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
 
 # Yidio Privacy Policy
 
@@ -50,6 +50,10 @@ We have established safeguards to help prevent unauthorized access to or misuse 
 **Special Note for Parents**
 
 Yidio is intended for a general audience. Registration for certain services on Yidio may not be available for children under the age of 13.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging your user account page http://www.yidio.com/user_account.php. 
 
 **How to Contact Us**
 
