@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the comcast.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209073038id_/http%3A//xfinity.comcast.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcast.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629050121id_/http%3A//xfinity.comcast.net/privacy) for the most accurate reproduction.*
 
-# Comcast.net Privacy Policy
+# XFINITY Privacy Policy
 
-**Effective October 7, 2011[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
+**Effective April 3, 2012[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
+
+ _Note about the mobile version of Comcast.net_ : Our mobile site, [http://m.comcast.net](http://m.comcast.net/), may contain advertising provided by Google.  
+Google collects and uses information pursuant to its own privacy policy, available here:  
+<http://www.google.com/intl/en/policies/privacy/>
+
+More information about opting out of Google's information collection and use practices is available here:  
+<https://www.google.com/settings/ads/onweb/>
 
 ## Summary (Jump to Full Policy)
 
@@ -10,7 +17,7 @@ The Web Services Privacy Policy describes the information Comcast collects about
 
 This summary gives you some key points from the Privacy Policy, but you should read the whole Privacy Policy to get a full understanding of our privacy practices.
 
-Please note: the Privacy Policy _does not_ tell you what information we collect and how we use it when you use other Comcast services (Comcast Digital Cable with On Demand, Comcast Digital Voice, Comcast High Speed Internet, XFINITY TV, XFINITY Voice, or XFINITY Internet). These services have their own privacy policy, which we post at <http://www.comcast.com/customerprivacy/> and mail to subscribers.
+Please note: the Privacy Policy _does not_ tell you what information we collect and how we use it when you use other Comcast services (XFINITY TV, XFINITY Voice, or XFINITY Internet). These services have their own privacy policy, which we post at <http://www.comcast.com/customerprivacy/> and mail to subscribers.
 
 [](http://www.truste.org/ivalidate.php?url=www.comcast.net&sealid=101)
 
@@ -84,7 +91,7 @@ This Privacy Policy explains how Comcast will use the information that you provi
 
 ## What is outside the scope of this Privacy Policy? 
 
-This Privacy Policy **_does not apply_** to your use of any other products or services provided by Comcast such as Comcast Digital Cable with On Demand, Comcast Digital Voice, Comcast High Speed Internet, XFINITY TV, XFINITY Voice, or XFINITY Internet. If you subscribe to or use one or more of these services, you can see the privacy policy that applies to the residential versions of these services by visiting <http://www.comcast.com/customerprivacy/>.
+This Privacy Policy **_does not apply_** to your use of any other products or services provided by Comcast such as XFINITY TV, XFINITY Voice, or XFINITY Internet. If you subscribe to or use one or more of these services, you can see the privacy policy that applies to the residential versions of these services by visiting <http://www.comcast.com/customerprivacy/>.
 
 This Privacy Policy also **_does not apply_** to Comcast's use of information provided by you when you sign up for or use the XFINITY TV Store (xfinitytvstore.comcast.net). Comcast's use of the information you provide through the XFINITY TV Store is described in the XFINITY TV Store Privacy Policy, available at <http://xfinitytvstore.comcast.net/PrivacyPolicy.aspx>.
 
@@ -96,7 +103,7 @@ Some of the Comcast Web Services contain links to other Websites, including Webs
 
 Comcast has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and the practices set forth in it have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at CIM_privacy at Comcast dot com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-TRUSTe does not review or certify the privacy practices related to any other Comcast Websites, software programs, products, or services including Comcast Digital Cable with On Demand, Comcast Digital Voice, Comcast High Speed Internet, XFINITY TV, XFINITY Voice, XFINITY Internet, or the XFINITY TV Store.
+TRUSTe does not review or certify the privacy practices related to any other Comcast Websites, software programs, products, or services including XFINITY TV, XFINITY Voice, XFINITY Internet, or the XFINITY TV Store.
 
 3\. Collection of Information 
 
@@ -177,7 +184,7 @@ Comcast may use Web Log Data, Preferences Data, and Your Data in these forms for
 
 Comcast may also use Web Log Data, Preferences Data, and Your Data to customize the Comcast Sites and Services and make them more relevant to you. For example, Comcast may use such data to determine which news articles, movies, or television shows to recommend to you.
 
-Comcast may use your Registration Data to verify that you are the person authorized to use the Comcast Web Services or to manage your account. Comcast may also use your Registration Data to determine whether your Comcast Digital Cable with On Demand subscription allows you to access premium content or services offered through some of the Comcast Sites. For example, Comcast may use this subscription information to permit you to access, via one or more of the Comcast Web Services, certain programming included in your Comcast Digital Cable with On Demand package or to recommend additional Comcast products and services that it thinks may be of interest to you.
+Comcast may use your Registration Data to verify that you are the person authorized to use the Comcast Web Services or to manage your account. Comcast may also use your Registration Data to determine whether your XFINITY TV subscription allows you to access premium content or services offered through some of the Comcast Sites. For example, Comcast may use this subscription information to permit you to access, via one or more of the Comcast Web Services, certain programming included in your XFINITY TV package or to recommend additional Comcast products and services that it thinks may be of interest to you.
 
 5\. Sharing of Information
 
@@ -185,7 +192,7 @@ Comcast uses third parties to assist us in delivering parts of the Comcast Web S
 
 Comcast may also share Web Log Data and Preference Data, which do not contain Personally Identifiable Information, with third parties. For example, Comcast may share traffic data for one of the Comcast Sites with a third party that analyzes and publishes Website traffic surveys. Or, Comcast may share Web Log Data and Preference Data with one of the providers of movies on xfinitytv.comcast.net, so that Comcast and the provider can determine what additional movies that provider should show on xfinitytv.comcast.net.
 
-Comcast may also share Web Log Data, Preference Data, and Your Data within its internal family of companies solely to provide you with the Comcast Web Services, other cross-platform services, and advertising it thinks may be of interest to you. For example, Comcast will share your Registration Data within its internal family of companies to provide you with online access to content from premium networks that are part of your Comcast Digital Cable with On Demand subscription if you have signed up for that service, and to make you aware of other Comcast products and services it thinks may be of interest to you. This sharing occurs when you sign up for and use these other services, and may be necessary for us to provide them. If you do not want Your Data shared with a specific service, then you may choose not to sign up for that service or stop using it at any time if you have already signed up for it.
+Comcast may also share Web Log Data, Preference Data, and Your Data within its internal family of companies solely to provide you with the Comcast Web Services, other cross-platform services, and advertising it thinks may be of interest to you. For example, Comcast will share your Registration Data within its internal family of companies to provide you with online access to content from premium networks that are part of your XFINITY TV subscription if you have signed up for that service, and to make you aware of other Comcast products and services it thinks may be of interest to you. This sharing occurs when you sign up for and use these other services, and may be necessary for us to provide them. If you do not want Your Data shared with a specific service, then you may choose not to sign up for that service or stop using it at any time if you have already signed up for it.
 
 You may authorize other Internet sites such as MySpace or Facebook to access and publish on their Websites some of Your Data, including your Activity Data. For example, you may enable a Facebook widget to access and publish to your Facebook page what shows you watch on xfinitytv.comcast.net. In addition, certain Comcast Web Services allow you to use your contact lists from Internet sites such as MySpace or Facebook to share portions of Your Data, including your Activity Data, with others. For example, www.tunerfish.com may allow you to "check-in" to your favorite television show on xfinitytv.comcast.net, and then let all of your Facebook friends know what you are watching. If you provide Comcast with your credentials for this kind of Internet service and use the features of the Comcast Service that share information across these Internet services, or, if one of these Internet service contacts Comcast using your Comcast Web Services credentials and asks to have access to certain portions of Your Data, Comcast will treat this as your authorization to share such portions of Your Data with that Internet service.
 
@@ -299,7 +306,7 @@ Comcast reserves the right to change this Privacy Policy from time to time consi
 
 You understand and agree that if you use the Comcast Web Services after the effective date of the updated Privacy Policy, Comcast will consider your use as acceptance of the updated Privacy Policy.
 
-19\. International Visitors 
+19\. International Visitors
 
 Our computer systems are currently based in the United States, so your PII will be processed by us in the United States, where data protection and privacy regulations may be different than other parts of the world, such as the European Union. If you create an online account to use the Comcast Sites as a visitor from outside the United States, you will have agreed to the terms of the Privacy Policy and our Web Services Terms of Service and you will have consented to the transfer to and processing of all such information in the United States, which many not offer an equivalent level of protection of that in the European Union or certain other countries. 
 
@@ -309,4 +316,4 @@ You can direct questions regarding this Privacy Policy to Comcast by e-mailing u
 
 You can find customer support and help information at <http://customer.comcast.com/Pages/Help.aspx>. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your computer's or network's settings, or collect information from your computer or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
-Revised and Effective: October 7, 2011
+Revised and Effective: April 3, 2012
