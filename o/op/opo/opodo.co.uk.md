@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104220608id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629024534id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
 
 # Opodo
 
@@ -18,7 +18,7 @@ We ask you for personal information in a variety of circumstances:
 
 To make Opodo work even better for you, we also use 'cookies' to collect information about your use of the website. Cookies are a feature of web browser software that allows web servers to temporarily store information within your browser, which in turn allows us to recognise the computer used to access Opodo. Most browsers automatically accept cookies but you can delete existing cookies from your browser. You can also edit your browser options to choose not to receive cookies in future. For further information on cookies, we recommend you visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-To establish how customers reach our site, we employ a third party to collect information through cookies. No personal information (i.e that can identify you) is collected during this process.
+Please read our Cookie policy <http://promos.opodo.co.uk/cookies> for more information about the cookies used on www.opodo.co.uk. By using the Opodo site, you implicitly accept our Cookie policy.
 
 **How do we use your data?**
 
@@ -78,5 +78,5 @@ If you wish us to stop sending you newsletters or details of other offers and pr
 ---|---  
   
 **How safe are my details?**  
-To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp;jsessionid=EE7745FF70F088C13400B5E7CF4F3C92.jbossFenlive2nodeD6?pageName=privacy&Int_Id=PS_1.0&locale=en_GB_123)  
-and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp;jsessionid=EE7745FF70F088C13400B5E7CF4F3C92.jbossFenlive2nodeD6?pageName=security&Int_Id=PS_1.0&locale=en_GB_123)  policies
+To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp?pageName=privacy&Int_Id=PS_1.0&locale=en_GB_123)  
+and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp?pageName=security&Int_Id=PS_1.0&locale=en_GB_123)  policies
