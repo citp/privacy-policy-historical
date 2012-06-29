@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyber12.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219104840id_/http%3A//www.cyber12.com/page-Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyber12.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629165915id_/http%3A//www.cyber12.com/page-Privacy_Policy.html) for the most accurate reproduction.*
 
-# Free Anime Download Resource - Provide HQ and LQ format. - Privacy Policy
+# Free Anime Download - Privacy Policy
 
 **Cyber12.com Privacy Statement**
 
