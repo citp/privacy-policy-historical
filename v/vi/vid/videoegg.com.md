@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoegg.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201152938id_/http%3A//www.saymedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoegg.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629021257id_/http%3A//www.saymedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Say Media / Privacy Policy
 
@@ -12,7 +12,7 @@ Your opt-out was successful. Please keep the following in mind:
 
   * SAY Media will no longer place and recognize flash cookies for the purpose of delivering relevant advertising.
   * If you use more than one computer, you will need to complete this opt-out process on each computer that you use.
-  * The opt-out works by placing a flash cookie on your computer that notifies SAY Media that no other cookies should be placed. If this cookie is deleted, then you will need to complete this opt-out process again.
+  * The opt-out works by placing a cookie on your computer that notifies SAY Media that no other cookies should be placed. If this cookie is deleted, then you will need to complete this opt-out process again.
   * The opt-out does not mean that you will no longer see online advertisements, it means only that advertisements delivered by SAY Media will not be based on your internet usage or anonymous data received from third parties.
 
 
@@ -72,7 +72,7 @@ Personally identifiable information. SAY Media may share personally identifiable
 
 If you do not want SAY Media to gather non-personally identifiable information when you encounter ads we deliver through our Network, please click here.
 
-The opt–out works by placing a flash cookie on your computer that notifies SAY Media that no other cookies should be placed on the applicable computer. If this cookie is deleted, then you will need to complete this opt–out process again. 
+The opt–out works by placing a cookie on your computer that notifies SAY Media that no other cookies should be placed on the applicable computer. If this cookie is deleted, then you will need to complete this opt–out process again. 
 
 If you use more than one computer, you will need to complete this opt–out process on each computer that you use. 
 
