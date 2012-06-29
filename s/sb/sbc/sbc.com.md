@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the sbc.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629150831id_/http%3A//www.att.com/gen/privacy-policy%3Fpid%3D2506) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbc.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629024943id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
-#### Privacy Commitments
+## Privacy Commitments
 
-AT&T takes your privacy very seriously. Our customers told us they want to see clear, easy-to-read information about our privacy commitments and policies. We have made our privacy policies easier to find and easier to read. And we're listening. We welcome your questions and feedback on our privacy policies, and invite you to [contact us](https://web.archive.org/Common/about_us/privacy_policy/contact_us_form.html) with your thoughts. 
+AT&T takes your privacy very seriously. Our customers told us they want to see clear, easy-to-read information about our privacy commitments and policy. We have made our privacy policy easier to find and easier to read. And we're listening. We welcome your questions and feedback on our privacy policy, and invite you to [contact us](https://web.archive.org/gen/privacy-policy?pid=13692#contact "contact us").
 
-Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with AT&T – including customers (wireless, Internet, digital TV, and telephone) and Web site visitors. 
+Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with AT&T — including customers (wireless, Internet, digital TV, and telephone) and Web site visitors. 
 
   * We will protect your privacy and keep your personal information safe. We use powerful encryption and other security safeguards to protect customer data. 
   * We will not sell your personal information to anyone, for any purpose. Period.
-  * We will fully disclose our privacy policies in plain language, and make our policies easily accessible to you.
-  * We will notify you of any revisions to our privacy policy, in advance. No surprises.
+  * We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
+  * We will notify you of revisions to our privacy policy, in advance. No surprises.
   * You have choices about how AT&T uses your information for marketing purposes. Customers are in control. 
-  * We're listening. You can send us [questions or feedback](https://web.archive.org/Common/about_us/privacy_policy/contact_us_form.html) on any of our privacy policies.
+  * We're listening. You can send us questions or feedback on our privacy policy.
 
 
 
-#### Privacy Policy
+### Privacy Policy
 
 ### Privacy Policy Scope
 
