@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stumble-upon.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230125457id_/http%3A//www.stumbleupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumble-upon.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629234803id_/http%3A//www.stumbleupon.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | StumbleUpon.com
 
 StumbleUpon, Inc. (“ **StumbleUpon** “, “ **us** ” or “ **we** “) respects the privacy of the visitors to the Website, the home page of which is located at [http://www.stumbleupon.com](http://www.stumbleupon.com/).
 
@@ -14,14 +14,12 @@ We collect and use Personal Information and Anonymous Information as described i
 
 ### User Consent
 
-By submitting information through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and you agree to the StumbleUpon Terms of Service located at [http://www.stumbleupon.com/terms/](https://web.archive.org/web/20111230125457id_/http%3A//terms/).  
+By submitting information through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and you agree to the StumbleUpon Terms of Service located at [http://www.stumbleupon.com/terms/](https://web.archive.org/web/20120629234803id_/http%3A//terms/).  
 Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
 ### Personal Information You Provide to Us
 
-StumbleUpon does not collect any Personal Information about you (such as your name, email address, age, preferences, etc.) except when you specifically and knowingly provide such information.  The Personal Information we gather from you helps us learn about our members and potential members of our community and the users of the Toolbar.  We collect Personal Information that you submit to us voluntarily through our Service and/or the Toolbar. The types of Personal
-
-Information we collect are:
+StumbleUpon does not collect any Personal Information about you (such as your name, email address, age, preferences, etc.) except when you specifically and knowingly provide such information.  The Personal Information we gather from you helps us learn about our members and potential members of our community and the users of the Toolbar.  We collect Personal Information that you submit to us voluntarily through our Service and/or the Toolbar. The types of Personal Information we collect are:
 
   * When you sign up for our StumbleUpon Services, we will collect your email address and date of birth.
   * When you personalize your StumbleUpon Profile, we will collect any information you provide, such as your name or gender, and any other optional information about you, your lifestyle, and your interests.
