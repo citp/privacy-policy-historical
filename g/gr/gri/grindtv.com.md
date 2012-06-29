@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grindtv.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205955id_/http%3A//www.grindtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grindtv.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629214701id_/http%3A//www.grindtv.com/privacy) for the most accurate reproduction.*
 
 # GrindTV.com Privacy Policy
 
