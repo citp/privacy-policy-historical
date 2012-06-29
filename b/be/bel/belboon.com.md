@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belboon.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226001303id_/http%3A//www.belboon.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belboon.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630012447id_/http%3A//www.belboon.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -21,7 +21,11 @@ belboon-adbutler GmbH can not match these data with specific persons. A combinat
 
 ## Cookies
 
-So-called 'cookies' are used by websites in a number of areas. They help us to make our services more user-friendly, effective and safe. Cookies are small text files which are placed on your computer and saved by your browser. Most of the cookies used by us are so called "session cookies" and "tracking cookies". They are automatically deleted a few days after your visit. Cookies do not cause any damage to your computer and they do not contain viruses. Cookies from belboon-adbutler GmbH can not be read by any third-party website
+So-called 'cookies' are used by websites in a number of areas. They help us to make our services more user-friendly, effective and safe. Cookies are small text files which are placed on your computer and saved by your browser. Most of the cookies used by us are so called "session cookies" and "tracking cookies". They are automatically deleted a few days after your visit. Cookies do not cause any damage to your computer and they do not contain viruses. Cookies from belboon-adbutler GmbH can not be read by any third-party website.
+
+The Usage of some of our services and offers is also possible without cookies. In your respective browser you can deactivate the storing of cookies under Tools/Internet Options, limit this to specific websites or set your browser such that it informs you as soon as a cookie is sent. You can also delete cookies from the hard drive of your PC at any time - e.g. Internet Explorer: Tools > Internet Options > Delete Browsing History / Cookies or in Firefox: Tools > Options > Privacy > Show Cookies > Remove Cookie / Remove All Cookies.   
+The belboon domains are: belboon.com und belboon.de.   
+Please note, however, that when so doing you must reckon with restricted presentation of the site and limited user guidance.
 
 ## Personal information and Emails
 
