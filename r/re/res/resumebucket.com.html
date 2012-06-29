@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the resumebucket.com privacy policy that was archived on 2011-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218205506id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the resumebucket.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629090855id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Online Resume Storage - ResumeBucket.com</title>
         
-        <link rel="stylesheet" type="text/css" href="/cssjs/style-min,container,menu,datatable,92.css">
+        <link rel="stylesheet" type="text/css" href="/cssjs/style-min,container,menu,datatable,93.css">
         
         
         <!--[if lt IE 7]>
@@ -26,7 +26,27 @@
                         </li>
                         
                         <li class="last">
-                            <a href="/members/login/" rel="nofollow" class="last">Login</a>
+                            <a href="/members/login/" rel="nofollow" class="last signin" id="signin_link"><span>Login</span></a>
+<fieldset id="signin_menu">
+    <form method="post" id="signin" action="/members/login">
+      <label for="email">Email</label>
+      <input type="text" id="email" name="login_email" value="" title="email" tabindex="4">
+      <p></p>
+      <p>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="login_password" value="" title="password" tabindex="5">
+      </p>
+      <p class="remember">
+        <input type="submit" id="signin_submit" value="Sign in" tabindex="6">
+        <input type="checkbox" id="remember" name="remember_me" value="1" tabindex="7">
+        <label for="remember">Remember me</label>
+      </p>
+      <p class="forgot"> <a href="/members/login" id="resend_password_link">Forgot your password?</a> </p>
+      <!--
+      <p class="forgot-username"> <a id="forgot_username_link" title="If you remember your password, try logging in with your email" href="#">Forgot your username?</a> </p>
+      -->
+    </form>
+  </fieldset>
                         </li>
                         
                     </ul>
@@ -54,14 +74,15 @@
     
     
     <div class="ResumeCount">
-        Resumes Online: <span class="Count">1,428,836</span>
+        Resumes Online: <span class="Count">1,898,109</span>
     </div>
     
 </div>
 
             </div>
             <div id="MainContent">
-                <div class="SearchBar" id="SearchBar">
+                
+<div class="SearchBar" id="SearchBar">
 <form name="resume_search_form" id="resume_search_form" action="/resumes/" style="display: none;">
     <div id="job_search"></div>
     <div class="SearchBarResumes"> 
@@ -113,6 +134,7 @@
     </div> 
 </form>
 </div> 
+
 
                 
 
@@ -403,7 +425,7 @@
     <div id="overlay" style="display: 'none'; height: 0px; width: 0px;"></div>
     
 
-<script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cssjs/yuiloader-dom-event,newsignup-min,json-min,connection-min,container-min,36.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cssjs/yuiloader-dom-event,newsignup-min,json-min,connection-min,container-min,38.js"></script>
 
     <script type="text/javascript">
     Y = YAHOO; U = Y.util; D = U.Dom; E = U.Event;
@@ -833,13 +855,12 @@ function get_blog_feed(function_to_format_result){
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+    window.onerror = function(message, file, line) { 
+       var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message; 
+       _gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, true]);
+    }
     </script>
-    <script type="text/javascript">
-      var _bizo_data_partner_id = "1568";  
-    </script>
-    <script type="text/javascript">
-    (function(){(function(){var b,a;a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=""+(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();})();
-    </script>
+    
 
 
 
@@ -866,7 +887,7 @@ function get_blog_feed(function_to_format_result){
     <ul class="right">
         <li><a href="/advertising">Advertisers/Publishers</a></li>        
     </ul>    
-    <p>Copyright © 2011 ResumeBucket</p>
+    <p>Copyright © 2012 ResumeBucket</p>
 </div>
  
             
@@ -880,6 +901,33 @@ function get_blog_feed(function_to_format_result){
             </span>            
             
         </div>
+<script>
+var signin_link = D.getElementsByClassName('signin', 'a', 'Header');
+var signin_menu = D.get('signin_menu');
+E.on(signin_link, 'click', function(e) { 
+    E.stopEvent(e);
+    if(D.hasClass('signin_link', 'menu-open')) {
+      D.removeClass('signin_link', 'menu-open');
+      signin_menu.style.display = 'none';
+    }
+    else {
+      D.addClass('signin_link', 'menu-open');
+      signin_menu.style.display = 'block';
+    }
+
+});
+E.on(document, 'click', function(e) {
+    //if(E.getTarget(e)!=signin_menu && D.hasClass('signin_link', 'menu-open')) {
+    if(E.getTarget(e)!=signin_menu && !D.isAncestor(signin_menu,E.getTarget(e))  && D.hasClass('signin_link', 'menu-open')) {
+      D.removeClass('signin_link', 'menu-open');
+      D.get("signin_menu").style.display = 'none';
+    }
+});
+
+</script>      
+
+
+
 
 
 <script>
