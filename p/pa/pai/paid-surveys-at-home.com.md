@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paid-surveys-at-home.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231115231id_/http%3A//www.paid-surveys-at-home.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paid-surveys-at-home.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232345id_/http%3A//www.paid-surveys-at-home.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Paid Surveys at Home
 
@@ -15,11 +15,11 @@ Secondly, we use cookies as part of our authenticaton system when you login to y
 While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies in their web browser. Most browsers are initially set to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent.
 
 Information Gathering  
-This web site collects online contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary.  
+This web site collects online contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used by us and our partners to send mail, email, or call the user with selected retail opportunities, or to get in touch with the user when necessary.  
 Users may opt-out of receiving future mailings; see the opt-out/modify section below.
 
 Information Dissemination  
-We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via email. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
+We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via mail, email or by phone. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
 
 Links to Other Sites  
 "Paid Surveys at Home" expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame of content that is actually created or hosted by a third party. 
@@ -43,4 +43,4 @@ If you have any questions about this privacy statement, the practices of this we
 Policy Changes  
 "Paid Surveys at Home" reserves the right to change this privacy policy at any time. 
 
-This Privacy Policy was last revised on February 1, 2010. 
+This Privacy Policy was last revised on February 7, 2012. 
