@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acs.org.au privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213025503id_/http%3A//www.acs.org.au/index.cfm%3Faction%3Dshow%26conID%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs.org.au privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629051401id_/http%3A//www.acs.org.au/index.cfm%3Faction%3Dshow%26conID%3Dprivacypolicy) for the most accurate reproduction.*
 
-# ACS (Australian Computer Society) - Membership, Professionalism and Leadership for ICT Professionals and the ICT Community
+# ACS (Australian Computer Society) - Privacy Policy
 
   | 
 
