@@ -1,23 +1,31 @@
-> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201193450id_/http%3A//raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629190621id_/http%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
 
-# The Official City of Raleigh Portal - Web Privacy Policy
+# Web Privacy Policy - The Official City of Raleigh Portal
 
-## Web Privacy Policy
+### Privacy practices regarding information collected from the City of Raleigh website.
 
-This policy describes privacy practices regarding information collected from the City of Raleigh web site. It contains information about what data is collected and how that information is used. This policy may be updated periodically, so please check back from time to time. 
+Last Modified: March 28, 2012
 
+This privacy policy contains information about what data is collected and how that information is used. This policy may be updated periodically.  
 This policy applies only to the official City of Raleigh web site. When you follow a link to another web site, even the site of another governmental agency, you are subject to the privacy policy of that site. You should check the privacy policies of each of these other sites if you have questions about how they handle personally identifiable information.
+
+  * Automatic Collection of Certain Information
+  * If You Send Us Personal Information
+  * Security
+  * Use of Cookies
+  * Public Records
+  * Children
+
+
 
 ### Automatic Collection of Certain Information
 
-No personally identifiable information is collected from visitors who simply browse this site or who download information from it. While our web servers maintain logs of user activity to help us manage the web site, information stored in these logs or in cookies does not identify you personally. The logs store things such as the domain name and IP address from which you accessed our site, the type of browser and operating system you used, the date and time you accessed our site, the pages visited, and the address of the site that you linked to us from (if you linked to our web site from another web site). 
-
+No personally identifiable information is collected from visitors who simply browse this site or who download information from it. While our web servers maintain logs of user activity to help us manage the web site, information stored in these logs or in cookies does not identify you personally. The logs store things such as the domain name and IP address from which you accessed our site, the type of browser and operating system you used, the date and time you accessed our site, the pages visited, and the address of the site that you linked to us from (if you linked to our web site from another web site).  
 We use this information to learn how many visitors we have, where they are coming from, which parts of our web site are of most interest to visitors, and other facts that will help us improve the web site and the services we offer.
 
 ### If You Send Us Personal Information
 
-Visitors who request services through this site may be required to furnish additional information in order for us to provide the service requested. The additional information collected will be no more specific than if the visitor were requesting the service by any other means, including by telephone or an in-person visit to a City facility. If you participate in a survey, send us an email, or submit an online form, your email address and the other information you volunteered will be collected. We may share this information with other governmental agencies or organizations to provide the help you are requesting. We may also use that information to help assess user needs and analyze trends. 
-
+Visitors who request services through this site may be required to furnish additional information in order for us to provide the service requested. The additional information collected will be no more specific than if the visitor were requesting the service by any other means, including by telephone or an in-person visit to a City facility. If you participate in a survey, send us an email, or submit an online form, your email address and the other information you volunteered will be collected. We may share this information with other governmental agencies or organizations to provide the help you are requesting. We may also use that information to help assess user needs and analyze trends.  
 If you use this web site for electronic commerce, we may collect, process, and disclose your name, address, and payment information (if applicable) to the extent necessary to complete the online transaction and for record-keeping activities such as billing, permits, and licenses.
 
 ### Security
@@ -31,6 +39,8 @@ Cookies or other technology may transfer information from this web site to your 
 ### Public Records
 
 The City of Raleigh is governed by the North Carolina public records laws. This means that the information we receive online will be disclosed to any person making a public records request, unless the record is exempted from disclosure. Only very narrowly defined types of information (such as electronic payment information and Social Security numbers) are exempt from disclosure as public records. If you have questions about the North Carolina public records laws, refer to [N.C. Gen.Stat. Chapter 132](http://www.ncga.state.nc.us/gascripts/Statutes/StatutesTOC.pl?Chapter=0132). For purposes of determining whether information is a public record, information sent to us through this web site is treated the same as information sent to us by mail or delivered to us in person.
+
+All electronic communications with the City of Raleigh are subject to the requirements of North Carolina public records law. While it is the policy of the City of Raleigh to not provide copies of electronic mail lists of individual subscribers, state law classifies these lists as public records and the City must make them available for inspection upon request.
 
 ### Children
 
