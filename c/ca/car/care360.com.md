@@ -1,37 +1,58 @@
-> *The following text is extracted and transformed from the care360.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229002732id_/http%3A//www.medplus.com/company/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care360.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629054423id_/http%3A//www.questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
 
-# MedPlus : Company : Privacy Policy
+# Online Privacy Policy : Online Privacy Policy
 
-| 
+**Quest Diagnostics Online Privacy Policy**
 
-  * [email page]()
-  * [print friendly](https://web.archive.org/web/20071229002732id_/http%3A//www.medplus.com/company/_printver.cfm?page=privacy-policy.cfm&print=1)
+Quest Diagnostics and its wholly-owned subsidiaries (collectively "Quest Diagnostics") believe that privacy is important to the success and use of the Internet.  This statement sets forth Quest Diagnostics policy and describes the practices that we will follow with respect to the privacy of the information of users of this site.  Should you have any questions about this policy or our practices, please send an email to [**Privacy@QuestDiagnostics.com**](http://legacy.questdiagnostics.com/brand/contactus/jsp/mail.jsp?type=35) or write to us at: 
 
-  
-  
----|---  
-  
-## MedPlus Privacy Statement  
+Quest Diagnostics   
+Attention: Privacy Officer  
+1290 Wall Street West  
+Lyndhurst, NJ 07071
 
+You can also call us at 800-222-0446, ext. 8954.
 
-MedPlus, Inc., the healthcare information technology subsidiary of Quest Diagnostics® Incorporated, is a leading software developer and integrator of clinical connectivity and healthcare data management solutions.  MedPlus is committed to protecting the privacy of your information. 
+**What Personal Information We Collect  
+**  
+Quest Diagnostics collects your personal information online when you voluntarily provide it to us. If you choose to register online, we ask you to provide limited personal information, such as your name, address, telephone number and/or email address. We also collect information that will allow you to establish a username and password if you would like to do that. 
 
-Our Online Privacy Policy describes what information we collect online, how we protect it and what choices you have about how that information is used. We urge you to read this Online Privacy Policy carefully so that you will understand our commitment to you and your privacy. 
+**How We Use Personal Information That We Collect Online**
 
-#### What Personal Information We Collect
+Privacy Choices
 
-MedPlus will collect information that identifies you ("personal information") online only when you voluntarily provide it to us through our site. For example, when you choose to register on our site, we may ask you to provide some personal information, such as your first and last name, mailing address, telephone number and/or e-mail address. We also may collect information that will allow you to establish a username and password. In addition, we may collect information that you voluntarily provide to us through responses to questionnaires, such as customer satisfaction surveys. 
+When you register online for one of our services, you must provide your consent before we will contact you by mail or email about our services.  For example, you will need to consent to receive an appointment reminder.  You may change your preferences within your registration profile at any time. 
 
-#### How We Use Personal Information We Collect Online
+Internal Uses **  
+**  
+We may use your personal information within Quest Diagnostics: (1) to provide you with the services and products you request; (2) to answer questions about our services; billing, payment methods or use of our website; (3) to process or collect payments for our services and, (4) to conduct customer surveys. 
 
-##### A)  Internal Uses
+Disclosure of Personal Information to Third Parties
 
-We may use your personal information within MedPlus (1) to provide you with the products information you request, (2) to assist with your questions about our products and services or use of our web site, and (3) to evaluate our services and products and to conduct customer surveys. 
+We will not disclose any personal information to any third party, unless (1) you have authorized us to do so; (2) we are legally required to do so, for example, in response to a subpoena, court order or other legal process and/or, (3) it is necessary to protect our property rights related to this website. We also may share aggregate, non-personal information about website usage with unaffiliated third parties. This aggregate information does not contain any personal information about our users. 
 
-We also may use your information, with your consent, to send you information that may be of interest to you.  When you register online for one of our services, you may be given the option of receiving periodic informational/promotional mail or email from MedPlus. You choose whether or not to receive correspondence when you provide this information or by changing your preferences within your registration profile at any time. 
+**Cookie Placement**
 
-##### B) Disclosure of Personal Information to Third Parties
+Certain Quest Diagnostics websites, like many other commercial sites, may use a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a website operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set. We may use cookies to keep track of information about your current web browsing session which will be discarded as soon as you log out or close your web browser. This information also allows us to statistically monitor how many people are using our site and for what purpose. We may also make use of “persistent or memory based” cookies, which remain on your computer’s hard drive until you delete them. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize our services if you reject cookies.
 
-We will not give, sell, rent, loan or otherwise disclose any personal information to any third party, unless (1) you have authorized us to do so, (2) we are legally required to do so, for example, in response to a subpoena, court order or other legal process, and/or (3) it is necessary to do so in order to protect and defend the rights or property of this web site. 
+**How We Protect Information Online  
+**  
+We exercise great care to protect your personal information. This includes, among other things, using industry standard techniques such as firewalls, encryption, and intrusion detection.   As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via email since we have no way of protecting that information until it reaches us since email does not have the security features that are built into our websites. 
 
-We also may share aggregate, non-personal information about web site usage with unaffiliated third parties. This aggregate information does not contain any personal information about our users. 
+In addition, we limit Quest Diagnostics' employees and contractors' access to personal information. Only those employees and contractors with a business reason to know have access to this information. We educate our employees about the importance of maintaining confidentiality of customer information. 
+
+We review our security arrangements from time to time as we deem appropriate.
+
+**How can you help protect your information?  
+**  
+If you are using a Quest Diagnostics website for which you registered and choose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of the Quest Diagnostics website and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer.
+
+**Links to Other Sites**
+
+We want to provide site visitors valuable information, services and products. Featured programs and other site content within the Quest Diagnostics site may link our users to third party sites. Quest Diagnostics does not control and is not responsible for practices of any third-party websites. 
+
+**Note**
+
+From time to time, we may change this privacy statement. For example, as we update and improve our services, new features may require modifications to the privacy statement. Accordingly, please check back periodically.
+
+Date: March 1, 2012
