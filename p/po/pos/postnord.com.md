@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postnord.com privacy policy that was archived on 2011-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110722205535id_/http%3A//www.postnord.com/en/Information/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postnord.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629195832id_/http%3A//www.postnord.com/en/Information/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - PostNord
 
@@ -31,7 +31,3 @@ We also use web beacons, small transparent graphic images, with the aim to monit
 
 If you do not accept the use of cookies when you visit our website, you may either disable the use of cookies in your browser, or to discontinue the use of this website. If you choose to disable the use of cookies in your browser settings, we cannot guarantee that all services and functions on our website will work as intended.  
 
-
-* * *
-
-Last update: **12 Apr 2011 10:12**
