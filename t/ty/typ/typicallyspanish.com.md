@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203170026id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629051225id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Typically Spanish
 
@@ -29,7 +29,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 ###  Cookies 
 
-Our site uses cookies to keep track of your classified ads and your logins. We can also use cookies to ensure you do not see the same ad repeatedly. 
+The only cookies used in our site is in our directory where users register and submit a link. Cookies are used for when you return to the site to see what links you have placed. Our third party advert serving system with Double Click and Google ads also uses cookies. (see below) 
 
 ###  Advertisers 
 
@@ -37,11 +37,11 @@ We use a third party advertising company to display ads on our site. While we us
 
 ###  Google 
 
-We use third-party advertising companies to place ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other sites, in order to provide advertisements targeted to your preferences in goods and services. For more information about this practice and inform you of your options if you do not want these companies to use this information, [click here](http://translate.google.com/translate?hl=es&sl=es&tl=en&prev=hp&u=http://www.google.es/privacypolicy.html) . 
+We use third-party advertising companies to place ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other sites, in order to provide advertisements targeted to your preferences in goods and services. For more information about this practice and inform you of your options if you do not want these companies to use this information, [click here](http://www.google.com/intl/en-GB/policies/privacy/) . 
 
 ###  Direct Advertisers 
 
-In order to issue an official invoice, we ask everyone who purchases banner ads or any other advertising or sponsorship on our site, to provide the full corporate name, address and CIF. We charge 16% VAT on all invoices to companies located in Spain. The VAT is not charged to firms located outside Spain. The information collected in this manner is maintained by us and never made available to third parties. 
+In order to issue an official invoice, we ask everyone who purchases banner ads or any other advertising or sponsorship on our site, to provide the full corporate name, address and CIF. We charge 18% VAT on all invoices to companies located in Spain. The VAT is not charged to firms located outside Spain. The information collected in this manner is maintained by us and never made available to third parties. 
 
 ###  Payments and Credit Cards 
 
@@ -58,12 +58,6 @@ The Privacy Policy of Google is in the <http://www.google.es/privacypolicy.html>
 The Privacy Policy for Feedjit is at <https://feedjit.com/static/TOS.html>
 
 With this information we can analyse the visitor numbers of www.typicallyspanish.com from the connection data and determine the most visited sections and pages. 
-
-###  Email Communications and Tools 
-
-You consent to receive commercial communications from us in your email or any other similar means, unless you notify us that prefer not to receive such communications. If you do not want to receive commercial communications, simply follow the instructions provided in each communication. 
-
-You may not use www.typicallyspanish.com as a communication tool to collect addresses, send spam or violate any of our Terms and Conditions or our Privacy Policy. We may revise or filter your messages automatically or manually to monitor malicious activity or prohibited content but we do not store messages permanently. If the user uses our tools to send content to friends, we do not permanently store the addresses or use or disclose this data for sending commercial communications. Please contact urgent@typicallyspanish.com to report the spam made by other users. 
 
 ###  Feedback from users of Typically Spanish 
 
