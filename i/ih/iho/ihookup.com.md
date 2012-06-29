@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihookup.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225022224id_/http%3A//www.ihookup.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihookup.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629195222id_/http%3A//www.ihookup.com/main/privacy_policy) for the most accurate reproduction.*
 
 # iHookup | Casual Dating | Meet Local Singles | Hot Girls & Guys
 
