@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229103800id_/http%3A//www.julep.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629233426id_/http%3A//www.julep.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-    * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
-    * We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
-    * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
-    * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
-    * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
-    * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
-    * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
-    * We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+
 
 **Making a Purchase  
 **When you buy something on Julep.com, you have to supply a billing address, phone number, shipping address, and credit card information. By making a purchase, you become a registered user of Julep.com. You can choose to store information needed to make a purchase, such as your credit card number, shipping and billing addresses in the My Account - Profile page. If you change your mind about storing this information, you can amend or delete it by going to the relevant area of the My Account - Profile page and following the instructions. You can access this section using your registration password. 
@@ -27,6 +29,9 @@ The use of any features made available to you on our Sites by a third party may 
 
 Facebook's "Like" feature is a good example. (Other third parties have or may have similar ways for you to express positive opinions about our products, now or in the future.) We have agreed to allow Facebook's "Like" feature to run alongside images of our products so you can "like" one of our products and to see how many other Facebook users "like" each of our products. You should know that Facebook may collect or register the fact that you "like" a product and may post that information to your "News Feed" on Facebook and to your Facebook profile's "Wall" and "Info" pages. So, the fact that you "like" one or more of our products may be made known to members of your Facebook network. This would be true for your friends too. If they "like" one of our products, you will see it on his or her News Feed, Wall or Info pages. Finally, by "liking" one of our products, you consent to the display of that information by us. If you do not wish this to happen, you should not click that you "like" a product and you should review your privacy settings on Facebook (or similar Third Party Site). Note that we are not obligated to display someone's name, profile photo or other "public" Facebook profile information on our website even if that Facebook user "likes" one of our products. We reserve the right to remove the information of any person which we deem to be inconsistent with our ideals or otherwise inappropriate for public association with our company. We may remove from our Sites, in our sole discretion, any product offering or any photo or product description relating thereto. 
 
+**Tracking Anonymous Site Behavior  
+**We use technology that tracks anonymous (non personally-identifiable) traffic data on Julep.com. This technology uses 1st party (Julep.com) "cookies" that collect anonymous information about how the site is used by our customers. We do this in order to improve both the experience on Julep.com and how we serve our customers in general. These cookies do NOT collect, store, or transmit any personally-identifying information. For example, your email address, billing information, or IP address are NOT collected by these cookies.
+
 **Questions About This Policy  
 **If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact Julep directly at: 
 
@@ -35,6 +40,3 @@ Julep Nail Parlor Company
 Privacy  
 P.O. Box 19523  
 Seattle, WA 98109  
-
-
-
