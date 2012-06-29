@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favequilts.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230162342id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favequilts.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629225233id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FaveQuilts.com
 
@@ -162,12 +162,10 @@ Please Wait
 
 ##### Something worth saving?
 
-[Register now](https://web.archive.org/section/account/action/login) to:
+[Register now for FREE](https://web.archive.org/section/account/action/login) to:
 
-  * save all your favorite patterns
-  * add personal notes
-  * quickly reference your patterns
+  * SAVE all your favorite patterns
+  * ADD personal notes
+  * QUICKLY reference your patterns
 
-  
-  
----|---|---
+
