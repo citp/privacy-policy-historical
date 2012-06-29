@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brother2brother.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227194307id_/http%3A//www.brother2brother.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother2brother.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629075854id_/http%3A//www.brother2brother.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | brother2brother
 
