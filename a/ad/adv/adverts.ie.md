@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012834id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629153354id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
 
 # Privacy and Info
 
-Updated November 30th 2010
+Updated February 17th 2012
 
 You should carefully read our full Privacy Policy before deciding to become a member of Adverts.ie. 
 
@@ -56,8 +56,6 @@ Adverts.ie promises to only use your data in complete accordance with the follow
   * We will clearly state why we are collecting personal information and how it will be used.
 
 
-
-This website does not use cookies, apart from temporary "session" cookies which enable a visitor's web browser to remember which pages on this website have already been visited. Visitors can use this website with no loss of functionality if cookies are disabled from the web browser. 
 
 Technical details in connection with visits to this website are logged by our internet service provider for our statistical purposes. No information is collected that could be used by us to identify website visitors. The technical details logged are confined to the following items: 
 
@@ -117,6 +115,51 @@ We will explicitly ask you when we need information to identify you. We may requ
 
 We will retain your information for a reasonable period or for as long as is required by law. 
 
+#### Cookies and tracking
+
+Like many websites, we use "cookies" to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. 
+
+Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used that help us to monitor and improve the service. We cannot identify you from your log files. 
+
+Here is a list of all the cookies that we set and how we use them: 
+
+Cookie Name | Typical Value | Purpose | Expires  
+---|---|---|---  
+advertsid | Randomly generated hexadecimal string | Used to identify user session | On browser exit  
+adverts_uid | Randomly generated number | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
+adverts_uid_hash | Randomly generated hexadecimal string | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
+touch_off | "1" | Disables the touch site and forces the use of the full site | On browser exit  
+strap_*_* | "1" | Ensure a strapline won't be seen after being dismissed | 3 years  
+iePinning_www.adverts.ie | "hidden" | Remembers when the user has dismissed the prompt to use the "site pinning" feature in Internet Explorer 9. | 30 days  
+fb_login | "1" | Indicates that the user logged in via Facebook | On user logout or browser exit  
+fbsr_116958691666039 | Alphanumeric string | The user's Facebook session information, if the user is logged in via Facebook | On user logout or browser exit  
+ajs_cid | Comma-separated list of numbers | A list of categories the user has recently visited | 30 days  
+  
+In addition to the above cookies set by Adverts.ie, cookies may also be set by a number of our site partners: 
+
+Adtech.de (Ad serving)  
+---  
+CfP | "1" | This is a unique ID for the browser, so we know if an ad has already been seen | On browser exit  
+JEB2 | Alphanumeric string | This is a unique ID for the browser, so we know if an ad has already been placed | 2 years  
+Delivery.FlashpointMedia.com (Ad serving)  
+OAID | Alphanumeric string | Online advertising user tracking | 1 year  
+DoubleClick.net (Ad serving)  
+id | Hexadecimal||t=numerical|et=numerical|cs=hexadecimal | User id | 2 years  
+_drt_ | "NO DATA" | DART data. | 1 day  
+Google Analytics (Audience Measurement)  
+__utma | Randomly generated number | Usage stats | 2 years  
+__utmb | Randomly generated number | Usage stats | 30 minutes  
+__utmc | Randomly generated number | Usage stats | On browser exit  
+__utmz | Randomly generated number | Usage stats | 6 months  
+ie-stat.bmmetrix.com (Audience Measurement)  
+Bm_map | string | Identify location of user  | 01/01/2030  
+Cid | Alphanumeric string:numerical string | Client id | 01/01/2030  
+Sid | Alphanumeric string:numerical string | Session id | On browser exit  
+  
+We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing location-based advertisements) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [ http://www.doubleclick.com/privacy/dart_adserving.aspx ](http://www.doubleclick.com/privacy/dart_adserving.aspx "DART ad serving opt-out")
+
 #### Terms of Use
 
 Your use of Adverts.ie is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. 
@@ -139,8 +182,5 @@ We welcome your feedback on this document and thank you for using Adverts.ie!.
 
   * **Web browser** \- The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator and Opera. 
   * **IP address** \- The identifying details for your computer (or your internet company's computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made. 
-  * **Cookies** \- Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. 
 
 
-
-Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such 
