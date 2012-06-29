@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solarpowerworldonline.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127042223id_/http%3A//www.solarpowerworldonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarpowerworldonline.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629031545id_/http%3A//www.solarpowerworldonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Solar Power World
 
-Browse >[Home](http://www.solarpowerworldonline.com/ "Browse to: Home") / Privacy Policy
+### Privacy Policy
 
 WTWH Media LLC (“WTWH”, “we”, or “us”) is committed to ensuring the privacy of our users. The following is our privacy policy and we hope it clarifies how WTWH processes and uses certain information collected via the Windpower Engineering website. By using our Site, you consent to the terms of this Policy.
 
