@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politicsdaily.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223222id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicsdaily.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629164527id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ When you visit and interact with the Site, certain information may be collected 
   * your bandwidth speed and information about the software programs that are installed on your computer;
   * aggregated data about email click-through rates and user video viewing;
   * standard server log information; and
-  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20111231223222id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html).
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20120629164527id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html).
 
 
 
@@ -78,15 +78,15 @@ With your consent, we may use your mobile number to send you promotions, notific
 
 **Advertising:**
 
-In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20111231223222id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html).   
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20120629164527id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html).   
 
 
-Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third party advertising](https://web.archive.org/web/20111231223222id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html). Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.  
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third party advertising](https://web.archive.org/web/20120629164527id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html). Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.  
 
 
 **User Accounts:**
 
-To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators. For more information on this process, please see our [FAQ section](http://www.huffingtonpost.com/p/frequently-asked-question.html) about comment moderation guidelines.   
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators. For more information on this process, please see our [FAQ section](http://www.huffingtonpost.com/faq/) about comment moderation guidelines.   
 
 
 **Request Fulfillment:**
@@ -124,7 +124,7 @@ The Huffington Post values your privacy, and shares information about our users 
 
 
 
-Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other technologies](https://web.archive.org/web/20111231223222id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html) and [third party advertising](https://web.archive.org/web/20111231223222id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html).   
+Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other technologies](https://web.archive.org/web/20120629164527id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html) and [third party advertising](https://web.archive.org/web/20120629164527id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html).   
 
 
   5. **Third-party services**
@@ -165,7 +165,7 @@ You can deactivate your account at any time by visiting the [preferences page](h
 
 **Cookies and other technologies**
 
-As discussed in the sections on [cookies and other technologies](https://web.archive.org/web/20111231223222id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html) and [third party advertising](https://web.archive.org/web/20111231223222id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html), some information is collected about you automatically through cookies and other technologies. 
+As discussed in the sections on [cookies and other technologies](https://web.archive.org/web/20120629164527id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html) and [third party advertising](https://web.archive.org/web/20120629164527id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html), some information is collected about you automatically through cookies and other technologies. 
 
   * _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
 
@@ -179,7 +179,7 @@ As discussed in the sections on [cookies and other technologies](https://web.arc
 If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.   
 
 
-Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third party advertising](https://web.archive.org/web/20111231223222id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html) and visit the [NAI's website](http://www.networkadvertising.org/managing/opt_out.asp).   
+Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third party advertising](https://web.archive.org/web/20120629164527id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html) and visit the [NAI's website](http://www.networkadvertising.org/managing/opt_out.asp).   
 
 
   7. **Access**
@@ -203,35 +203,28 @@ Please note that no data transmission or storage can be guaranteed to be 100% se
 
 
 
-The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.   
+The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States. European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.   
 
 
-  10. **California visitors**
-
-
-
-Residents of the State of California may request a list of all third parties to which the Site has disclosed certain information for the third parties' direct marketing purposes during the preceding year. If you are a California resident and would like a copy of this list, please contact us at [privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com). For all requests, you must put the phrase "Your California Privacy Rights" in the body of your request and include the name of the Site, your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.   
-
-
-  11. **Children under 13**
+  10. **Children under 13**
 
 
 
 We do not knowingly collect personal information from children under 13. If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible. If you believe that we may have collected information from a child under 13, please contact us at [privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com). 
 
-  12. **Changes to the privacy policy**
+  11. **Changes to the privacy policy**
 
 
 
 We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the "Effective Date." We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary email address specified in your account.   
 
 
-  13. **Questions and suggestions**
+  12. **Questions and suggestions**
 
 
 
 If you have questions about this privacy policy, please contact our privacy team at [privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com).   
 
 
-_Effective Date: December 31, 2011_   
+_Effective Date: May 15, 2012_   
 
