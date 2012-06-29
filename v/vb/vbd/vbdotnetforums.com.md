@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111091008id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630011738id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
 
 # NC Software Privacy Statement
 
@@ -84,7 +84,7 @@ Attn: Privacy Policy Officer
 PMB 5115, Suite 120   
 Wilmington, DE 19808   
 Email: [legal@nc-software.com](mailto:legal@nc-software.com)   
-Facsimile: (804) 205-5189
+Facsimile: (804) 323-1229
 
 \-- 
 
@@ -94,6 +94,6 @@ Material Modifications since January 1, 2011: none.
   
 Subscribe to our Newsletter:
 
-© 2011 NC Software, Inc. All rights reserved.  
+© 2012 NC Software, Inc. All rights reserved.  
 Logbook Pro® is a registered trademark of NC Software, Inc.  
 All other trademarks or registered trademarks are property of their respective owners
