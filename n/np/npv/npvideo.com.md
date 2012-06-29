@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npvideo.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016172709id_/http%3A//www.npvideo.com/cms/2_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npvideo.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629055358id_/http%3A//www.npvideo.com/cms/2_privacypolicy) for the most accurate reproduction.*
 
 # Npvideo.com
 
@@ -11,14 +11,14 @@ npVideo provides an online video service offering a selection of Live streaming 
 
 The Content is available for permissible viewing on or through the following (collectively, the "Properties"):
 
-  1. the [NpVideo.com](https://web.archive.org/web/20111016172709id_/http%3A/) website(the "NpVideo Site");
+  1. the [NpVideo.com](https://web.archive.org/web/20120629055358id_/http%3A/) website(the "NpVideo Site");
   2. NpVideo's affiliate and partner websites;
   3. other websites where users or website operators are permitted to embed the Video Player; and
   4. NpVideo authorized applications, features or devices.
 
 
 
-Use of the NpVideo Services (including access to the Content) on the Properties is subject to compliance with these [Terms of Use](https://web.archive.org/web/20111016172709id_/http%3A/cms.php?id=3) and any end user license agreement that might accompany a NpVideo application, feature or device.
+Use of the NpVideo Services (including access to the Content) on the Properties is subject to compliance with these [Terms of Use](https://web.archive.org/web/20120629055358id_/http%3A/cms.php?id=3) and any end user license agreement that might accompany a NpVideo application, feature or device.
 
 Certain NpVideo Services are provided to you free-of-charge. There are some other NpVideo Services that, if you are interested in accessing them, will require payment by you. The NpVideo Services that may be accessed after payment are referred to currently as "NpVideo subscription." References to "NpVideo Services" throughout this Privacy Policy include NpVideo subscrpition.
 
@@ -62,7 +62,7 @@ Some of the advertisements that appear in connection with the NpVideo Services m
 
 We only use payment information, such as credit card numbers, as necessary for completing a particular transaction or fulfilling a service (for example, processing payments from our NpVideo Subscription subscribers).
 
-We use the other information we collect about you in order to establish and enhance our relationship with you and to help deliver a first-class user experience. NpVideo's use of this information includes the following general purposes: contacting you; customizing the content and advertising you view; fulfilling your requests for products or services; identifying the comments you post on the NpVideo Site; improving our services; conducting research; compiling aggregate data for internal and external business purposes; preventing potentially illegal activities; protecting our rights; and other uses in accordance with our [Terms of Use](https://web.archive.org/web/20111016172709id_/http%3A/cms.php?id=3); and for any other purpose disclosed to you at the time we collect your personally identifiable information.
+We use the other information we collect about you in order to establish and enhance our relationship with you and to help deliver a first-class user experience. NpVideo's use of this information includes the following general purposes: contacting you; customizing the content and advertising you view; fulfilling your requests for products or services; identifying the comments you post on the NpVideo Site; improving our services; conducting research; compiling aggregate data for internal and external business purposes; preventing potentially illegal activities; protecting our rights; and other uses in accordance with our [Terms of Use](https://web.archive.org/web/20120629055358id_/http%3A/cms.php?id=3); and for any other purpose disclosed to you at the time we collect your personally identifiable information.
 
 We may use your personally identifiable information to:
 
@@ -73,7 +73,7 @@ We may use your personally identifiable information to:
 
 We use your first name and last name as your user ID on the NpVideo Site and in connection with the NpVideo Services. Therefore, if you register with NpVideo and provide this form of personally identifiable information, as well as other information that you do not set as private and we elect to display, it will be visible by other users or the public. We will not treat information that you voluntarily make available to other users — including, for example, in a review or discussion that you post on the NpVideo Services — as private.
 
-In addition, this information will be revealed anytime you post information to the NpVideo Site in the future. Please note that you are not required to agree to have this information appear as your user ID, but if you do not agree, you will not be able to access some of the NpVideo Services. Once you have included your full name in your user ID, you will not be able to remove it, but you can always cancel your NpVideo account if you wish to do so via the link accessible on the Privacy and Settings page. NpVideo Subscription subscribers should review our Terms of Use for our policies on cancellations and refunds, available [here](https://web.archive.org/web/20111016172709id_/http%3A/cms.php?id=3).
+In addition, this information will be revealed anytime you post information to the NpVideo Site in the future. Please note that you are not required to agree to have this information appear as your user ID, but if you do not agree, you will not be able to access some of the NpVideo Services. Once you have included your full name in your user ID, you will not be able to remove it, but you can always cancel your NpVideo account if you wish to do so via the link accessible on the Privacy and Settings page. NpVideo Subscription subscribers should review our Terms of Use for our policies on cancellations and refunds, available [here](https://web.archive.org/web/20120629055358id_/http%3A/cms.php?id=3).
 
 **With whom does NpVideo share the information it collects about me?**
 
@@ -105,7 +105,7 @@ NpVideo respects users' privacy. You may opt out of receiving alerts or email up
 
 Regardless of your choices with respect to promotional communications and updates regarding content, we may send you administrative messages, service announcements, terms and conditions of your account, or other similar communications, without offering you the opportunity to opt out of receiving them. This is important in case we need to communicate with you about items such as your account, billing, payments, terms of use, pricing changes for NpVideo Subscription, website maintenance, and other non-promotional matters. 
 
-NpVideo Subscription subscribers should review our Terms of Use for our policies on cancellations and refunds, available [here](https://web.archive.org/web/20111016172709id_/http%3A/cms.php?id=3). Please note that, if you cancel your account, we may retain some information about you but we will remove your profile and other public postings from the NpVideo Site. 
+NpVideo Subscription subscribers should review our Terms of Use for our policies on cancellations and refunds, available [here](https://web.archive.org/web/20120629055358id_/http%3A/cms.php?id=3). Please note that, if you cancel your account, we may retain some information about you but we will remove your profile and other public postings from the NpVideo Site. 
 
 **How does NpVideo protect the information it collects about me?**
 
@@ -123,11 +123,7 @@ Information that npVideo.com collects may be stored and processed in and transfe
 
 **What happens when NpVideo changes its Privacy Policy?**
 
-From time to time, we may revise this Privacy Policy to reflect industry initiatives or changes in the law or to the scope of the NpVideo Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted at [http://www.npVideo.com/privacy](https://web.archive.org/web/20111016172709id_/http%3A/cms.php?id=2) each time you visit the NpVideo Site or use any of the NpVideo Services to ensure you are familiar with the most updated policies and practices. If we make any material revisions to this Privacy Policy, we will notify you by posting notice on the NpVideo Site or by sending you an email to the email address you most recently provided to us prior to such revisions taking effect. If the material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personally identifiable information, we will obtain your consent before taking any action inconsistent with those representations.
+From time to time, we may revise this Privacy Policy to reflect industry initiatives or changes in the law or to the scope of the NpVideo Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted at [http://www.npVideo.com/privacy](https://web.archive.org/web/20120629055358id_/http%3A/cms.php?id=2) each time you visit the NpVideo Site or use any of the NpVideo Services to ensure you are familiar with the most updated policies and practices. If we make any material revisions to this Privacy Policy, we will notify you by posting notice on the NpVideo Site or by sending you an email to the email address you most recently provided to us prior to such revisions taking effect. If the material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personally identifiable information, we will obtain your consent before taking any action inconsistent with those representations.
 
-**Who can I contact if I have concerns about this Privacy Policy?** ****If you have concerns regarding this Privacy Policy, including if you believe that NpVideo may have incorrect information for you or if you would like your personally identifiable information to be removed from our database, you may email us at[privacy(at)npVideo.com](mailto:%20privacy@npvideo.com). You may also contact us by mail or facsimile at:
+**Who can I contact if I have concerns about this Privacy Policy?** ****If you have concerns regarding this Privacy Policy, including if you believe that NpVideo may have incorrect information for you or if you would like your personally identifiable information to be removed from our database, you may email us at[privacy(at)npVideo.com](mailto:%20privacy@npvideo.com). You may also contact us by mail or facsimile at:  
 
-**npvideo.com**  
-771 Farmington Ave, Suite 7  
-West Hartford, CT 06119  
-USA
