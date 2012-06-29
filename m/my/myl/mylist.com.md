@@ -1,50 +1,96 @@
-> *The following text is extracted and transformed from the mylist.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211203133id_/http%3A//mylist.com/aboutus/index.cfm%3FsPage%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylist.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629202231id_/http%3A//mylist.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# youknowbest.com - About Us
+# myList: Privacy Policy
 
-Our Privacy Policy
+Though lists are shared with friends (that’s the fun of myList), your personal information belongs to you, and you determine when/if it will be shared.
 
-We are very serious about privacy at youknowbest. We have done our best to provide information about every aspect of our site and our software downloads myList, the Best Price Toolbar and BestGrid. If you'd like to know more or have a question, please e-mail us at [privacy@youknowbest.com](mailto:privacy@youknowbest.com). 
+myList™ Privacy Policy
 
-Your personal information 
+Effective January 2012
 
-You are always in control of personal information with the myList tools. Personalizing your experience is up to you. You may create and save lists of your favorite products by clicking "Add to list" at any time while using myList, the Best Price Toolbar and BestGrid. 
+myList provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the myList Application. This Privacy Policy applies only to information that you provide to us through use of the Application. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy within the Application. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our myList Terms of Service.
 
-We do not require any information about you to be stored on our servers, other than a member name and password to access your account. If you choose to store personal information on our servers, we will not provide this personal information to any third party. Information you could choose to store includes your name, e-mail address, product information, and Web site links. 
+As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
-When you are using myList and the Best Price Toolbar for product research, **Web addresses (URLs) that you visit are anonymously sent back to us** to make sure we provide you with up to date product and pricing information. While myList is in beta, the entire URL is sent to us. These URLs may sometimes contain personally identifiable information like log-in names for non-secure vendor sites. If myList does not recognize products on a Web page, we do not store any data from that page and automatically delete any record of it. 
+Information Collection and Use
 
-**We do not associate these URLs with your account** and automatically discard them after the price matching process. (When myList beta testing is complete, we will only transmit non-personally identifiable data in the URL to determine the best price.)If you save a product in myList, we recognize that you have saved a product and associate it with your account, which may contain any personally identifiable information that you choose to disclose. 
+Our primary goals in collecting information are to provide and improve our Application, services, features and content, to provide you with the most relevant information for your needs and to enable users to enjoy and easily navigate the Application.
 
-**We do not sell or otherwise share your personally identifiable information with third parties** , but may release anonymous product data (for example: the most popular digital camera saved by myList members). 
+Personally Identifiable Information (PII).
 
-We do not collect demographic information. We may give you the option to provide some or all of your information for aggregated marketing research in the future. The decision to participate is up to you. In order for us to conduct purchases on your behalf, we will collect and store transaction details. We do not accept additional information about you from third parties and will not do so without your prior consent. 
+When you successfully install the myList Application, you consent to share certain PII provided to us from Facebook including information that can be used to identify or contact you. PII includes, but is not limited to, your name, your location, and other basic information you have shared with Facebook. By using this Application, you are allowing myList to access your Facebook information and you are agreeing to the Facebook Terms of Use regarding your use of the Application via Facebook.
 
-We may store your individual purchasing history for products and services purchased through myList in the future. For business management and reporting purposes, we may track and report individual and aggregated purchases of products and services. We never personally identify these transactions, except for the purposes of providing you with purchase history tracking. 
+  1. We use your PII primarily to provide the Service and administer your inquiries.
 
-Your password locks your information. Others cannot open your information without your permission. 
 
-When you send us an e-mail, we may collect your e-mail address. This address is used only to respond to your inquiry. We do not sell or share this information with any third parties and will never send unsolicited e-mail messages to you. All communication between you and the myList services is voluntary -- you may choose at any time to opt-out of updates and special offers by changing your preference settings. When you choose to share product information through youknowbest, the party you are sharing with will be able to view your e-mail address. 
+  2. We also collect the other information that you provide as part of the administration and personalization of your experience on myList (e.g., without limitation, age, friend list information, and individual preferences) (“Non-Identifying Information”).
 
-We may send out a periodic e-mail informing you of technical service issues, new feature announcements and news about myList products and services. These e-mails are considered essential to the service you have requested. Upon receiving the first of these types of messages, however, you will be given the option to unsubscribe to these mailings by replying to the e-mail message with "Remove" in the subject line. 
 
-youknowbest vendors, content affiliates and manufacturers each have their own privacy policies. We encourage you to read these policies before doing business with a site. We provide vendor ratings on the "See Prices" page for each product for your convenience. 
+  3. We use your PII (in some cases, in conjunction with your Non-Identifying Information) primarily to provide the Service, personalize your user experience, and administer your inquiries.
 
-The site is not intended for use by children under the age of 13. We do not provide any method for the collection of data for those under 13. 
 
-Security 
+  4. Certain Non-Identifying Information would be considered a part of your PII if it were combined with other identifiers in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your PII with Non-Identifying Information and aggregate it with information collected from other myList Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Application is used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver information to you according to your preferences.
 
-To set up an account, go to [www.mylist.com](https://web.archive.org/web/20011211203133id_/http%3A//mylist.com/index) and click Create a New Account. Create your own member name and password to personalize your account. Once you have done this, your account will be active immediately. At this time, we do not require a minimum password length for your account. However, we recommend that you select a password at least 8 characters long, containing a mix of letters, numbers and cases to provide added protection for your personal information . 
 
-If you do not wish to sign in each time you use myList, check the "Remember my name and password on this computer" option. If you have forgotten your password, you can obtain your password by clicking on Forgot your password? at the sign-in screen for your myList account. Enter your myList member name and we will e-mail your password to the e-mail address you provided upon creating the account. You can change the e-mail address and other information associated with your account by choosing "View myList options" from your open list, selecting "myAccount" from the left menu choices and choosing "myProfile." 
+  5. We may also use your PII to contact you with myList messages, marketing or promotional information from myList and/or the suppliers of the things in your list and other communications that may be of interest to you. myList may also post on your behalf. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. You may, at any time, change the information and rights granted to myList by using the Facebook-provided myList app settings page. Some of the information provided is required to use myList and while you may elect not to provide this information, this choice will disable the App. 
 
-Currently, we do not provide security / digital certificates for pages where personal information is being submitted. We plan to provide security for these pages in the future. Until that time, we caution you that any personal information you choose to enter on the site may not be secure. This does not apply to transaction made at individual vendor sites. Each vendor is individually responsible for maintaining secure ordering and information transfer for items purchased through myList and otherwise from his site. 
 
-All information collected, such as member name, password, name, zip code and e-mail address, is stored by youknowbest.com, Inc. This information is stored on databases in encrypted form in our Web infrastructure. These databases are closed off from the Internet. 
+  6. Log Data. When you visit the Application, our servers record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as the browser type or the webpage you were visiting before you came to our Application, pages of our Application that you visit, the time spent on those pages, information you search for within our Application, access times and dates, and other statistics. We use this information to monitor and analyze use of the Application and the Service and for the Application’s technical administration, to increase our Application’s functionality and to better tailor our Application to our visitors’ needs. For example, some of this information is collected so that when you visit the Application again, it will recognize you and serve information appropriate to your interests. We do not treat Log Data as PII nor use it in association with other PII, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
 
-If you have questions about this privacy policy, please e-mail us at [privacy@youknowbest.com](mailto:privacy@youknowbest.com). Thanks for visiting myList.com. 
 
-youknowbest.com, Inc. reserves the right to alter our privacy guarantee as required. Any alterations to this guarantee will be posted on our Web site in a timely manner. 
 
-  
+Facebook Cookies
 
+Like many websites, our Application use “cookies”; to collect information. A cookie is a small data file that we transfer to your computer or mobile device’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Application. Second, we utilize session ID cookies to enable certain features of the Application, to better understand how you interact with the Application and to monitor aggregate usage by myList Users and web traffic routing on the Application. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site, Application and Service and then close your browser. Third party advertisers on the Application may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Application or all functionality of the Service.
+
+Phishing
+
+Identity theft and the practice currently known as “phishing” are highly objectionable to myList. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
+
+Information Sharing and Disclosure
+
+When you use the myList Application, other myList Users will see your name, your lists, including the name you give your lists, things you added, and information that you share. If you choose to provide PII within the thing itself or in the list names, other myList Users will see this additional PII. We strongly recommend that you guard your sensitive information and not provide any information in myList that you would not want shared with others. 
+
+Aggregate Information and Non-Identifying Information. 
+
+We may share aggregated information that does not include PII and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your PII.
+
+Service Providers. 
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Application-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Application’s features) or to assist us in analyzing how our Application and Services are used. These third parties have access to your PII only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+Facebook API 
+
+We allow the Application on behalf of users to post information and invitations to Facebook. When information is posted by the Application, your Facebook settings will determine where and how the information is shared. You may, at any time, change the information and rights granted to myList by using the Facebook-provided myList app settings page. Some of the information provided is required to use myList and while you may elect not to provide this information, this choice will disable the App. 
+
+Compliance with Laws and Law Enforcement. 
+
+myList cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including, but not limited to, subpoenas), to protect the property and rights of myList or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+
+Business Transfers. 
+
+myList may sell, transfer or otherwise share some or all of its assets, including your PII, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.  In this event, the owner of these assets will be bound by the terms of this Privacy Policy and the Terms of Service.  
+
+Deleting Your Information
+
+You may delete the myList application completely using the Remove App function in the Facebook App Settings page. We may retain an archived copy of your information as required by law, or to provide additional services for you and/or for other legitimate business purposes.
+
+Security
+
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored PII (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site or via the Application in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+International Transfer
+
+Your PII may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to use myList, myList transfers PII to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Links to Other Sites
+
+Our Application contains links to other websites. If you choose to leave the myList Application by “clicking on” a thing shown on myList, banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+Our Policy Toward Children
+
+You are required to log in to Facebook in order to use myList. As an application within Facebook, myList is not available to children under the age of 13.  We do not knowingly collect PII from children under the age of 13.  If a parent or guardian becomes aware that his or her child has provided us with PII without their consent, he or she should contact us at privacy@mylist.com.  
+
+Contacting Us
+
+If you have any questions about this Privacy Policy, please contact us at [privacy@mylist.com](mailto:privacy@mylist.com?Subject=Privacy%20Policy).
