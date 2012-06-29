@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the governorsballmusicfestival.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230062448id_/http%3A//governorsballmusicfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governorsballmusicfestival.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629221455id_/http%3A//governorsballmusicfestival.com/privacy-policy) for the most accurate reproduction.*
 
-# The Governors Ball Music Festival | Privacy Policy
+# The Governors Ball NYC Music Festival | Privacy Policy
 
 **This Privacy Policy.**  
 This privacy policy describes Governors Ball’s current policies and practices with regard to personal data collected by Governors Ball Music Festival through its website govball.com. This privacy policy is independent from Governors Ball’s offline personal data collection practices. The term “personal data” refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.
