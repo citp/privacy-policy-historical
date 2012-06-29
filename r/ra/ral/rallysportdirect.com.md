@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rallysportdirect.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230054104id_/http%3A//www.rallysportdirect.com/policies_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallysportdirect.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629085044id_/http%3A//www.rallysportdirect.com/policies_privacy.cfm) for the most accurate reproduction.*
 
 # RallySportDirect.com - Performance Car Parts Online
 
