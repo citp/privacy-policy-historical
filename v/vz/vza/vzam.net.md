@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vzam.net privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117094156id_/http%3A//www.verizonwireless.com/b2c/globalText%3FcontentType%3DglobalContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzam.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629050156id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.*
 
 # Verizon | About Verizon - Privacy Policy Summary
 
