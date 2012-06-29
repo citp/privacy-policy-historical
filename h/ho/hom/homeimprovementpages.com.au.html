@@ -1,29 +1,24 @@
-<!--The following is the downloaded HTML source of the homeimprovementpages.com.au privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101140113id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homeimprovementpages.com.au privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629051447id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<title>Home Improvement Pages, Privacy Policy</title>
-	
+
 	<!--googleoff: snippet-->
-	
 	<meta name="description" content=" Home Improvement Pages, a home building and renovation resource featuring contractors directory, house and garden improvement articles">
 	<meta name="keywords" content=" Home Improvement Pages Australia, renovation,home,garden,kitchen,bathroom,building,home building,house,design,renovating,garden design,architecture,home finance,drafting,inspection,surveying,decorating,painting,electrical,lighting,pest control,building,flooring,plastering,cabinet making,glass,glazing,plumbing,carpenting,heating,cooling,concreting,security,carpentry,tiling,cleaning,maintenance,windows,doors,excavating,guttering,pools,spas,fencing,gates,irrigation,roofing,gardening,paving,tree services,garden nurseries,storage,moving insurance,contractors,house,sydney,melbourne,brisbane,perth,adelaide,canberra,hobart,darwin,auckland,wellington,christchurch,SA,VIC,ACT,NSW,TAS,QLD,WA,NT,NZ,city,professional,internal,external,DIY,moving,tree,services,nurseries,furniture,lifestyle,articles,homeimprovementpages.com.au">
-	 
 	<!--googleon: snippet-->
-	
-	
-		<link rel="stylesheet" href="http://www.homeimprovementpages.com.au//style/default/combined.css?ver=1317709827" type="text/css" media="all">
-		
-	<script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
-		
-	<script language="JavaScript" type="text/javascript" src="http://www.homeimprovementpages.com.au//js/combined.js?ver=1317011570"></script>	
-	
-	<script language="JavaScript" type="text/javascript" src="http://www.homeimprovementpages.com.au//js/short_list.php?ver=1.4"></script>
+	<link rel="stylesheet" href="http://www.homeimprovementpages.com.au/style/default/combined.css?ver=1334212876" type="text/css" media="all">
+	<link rel="stylesheet" type="text/css" href="http://fw.viteknologies.com.au/css/combined_framework_hip.css?v=5.3" media="all">	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script language="JavaScript" type="text/javascript" src="http://www.homeimprovementpages.com.au/js/combined.js?ver=1340678286"></script>	
+	<script language="JavaScript" type="text/javascript" src="http://www.homeimprovementpages.com.au/js/short_list.php?ver=1.4"></script>	
 	<meta name="revisit-after" content="3">
-	
-	
+	<meta property="fb:app_id" content="350814692312">	
+		<meta property="og:site_name" content="Home Improvement Pages">
+
 	<meta name="robots" content="ALL">
-	
+
 	<meta name="classification" content="Home Improvement">
 	<meta name="author" content="Home Improvement Pages Australia">
 	<meta name="Reply-to" content="info@homeimprovementpages.com.au">
@@ -37,67 +32,131 @@
 	<meta name="mobile" content="">
 	<meta name="location" content="">
 	<meta name="state" content="">
-	<meta name="google-site-verification" content="HYQ5pTf_0aP1EJqNci1IBZX6i5vxIPI_n6B9qe2meHI">
-	<meta property="fb:app_id" content="350814692312">	
-		<meta property="og:site_name" content="Home Improvement Pages">
+	<meta name="google-site-verification" content="HYQ5pTf_0aP1EJqNci1IBZX6i5vxIPI_n6B9qe2meHI">	
 
 	
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" ref="http://feeds.feedburner.com/hipages">
-	<script type="text/javascript" src="/js/base.js"></script>
+	
 </head>
 <body onload="this.focus();">
 
 <!-- ClickTale Top part --> 
 <script type="text/javascript"> 
+var isPhone='';
 var WRInitTime=(new Date()).getTime(); 
+
+//if it is not phone, truncate phone or mobile number by last 3 digits
+jQuery(document).ready(function(){
+
+   if(isPhone!=='1'){
+    $('.vtk_phone_track_link').each(function(index) {
+        var phone_no_str=$(this).attr("data");
+		if($('strong span',this).length > 0)
+		{
+	        $('strong',this).html($.trim($('strong',this).html().substring(0, $('strong',this).html().length-2))+' ..');
+		}
+		else if($('span span',this).length > 0)
+		{
+	        $('span',this).html($.trim($('span',this).html().substring(0, $('span',this).html().length-2))+' ..');
+		}
+		else
+		{
+			$('strong',this).html($.trim(phone_no_str.substring(0, phone_no_str.length-2))+' ..');
+	        $('span',this).html($.trim(phone_no_str.substring(0, phone_no_str.length-2))+' ..');
+		}
+    });
+     
+   }
+});
 </script> 
 <!-- ClickTale end of Top part --> 
 
-<link rel="stylesheet" type="text/css" href="http://fw.viteknologies.com.au/css/combined_framework_hip.css?v=1.9" media="all">
-<script type="text/javascript">
-jQuery(document).ready(function(){
-	if (jQuery.browser.msie && jQuery.browser.version.substr(0,1)<7) 
-	{
-		  //search for selectors you want to add hover behavior to
-		  jQuery('li.header_searchbar_selector').hover(
-			    function() {
-			      jQuery(this).addClass('over');	
-			    },
-			    function() {
-			      jQuery(this).removeClass('over');
-	      		}
-	      );
-	}
-});
+
+<div id="css_revamp">
+
+		<!-- start of header -->
+		<div id="mobile_btn"></div>
+			
+
+		
+	
+	<script type="text/javascript">
+	jQuery(document).ready(function(){
+		if (jQuery.browser.msie && jQuery.browser.version.substr(0,1)<7) 
+		{
+			  //search for selectors you want to add hover behavior to
+			  jQuery('li.user_menu_selector').hover(
+					function() {
+						jQuery(this).addClass('over');							
+					},
+					function() {
+						jQuery(this).removeClass('over');
+					}
+			  );
+		}
+	});
+	</script>
+
+	<div class="unit width_full bg_grey_tint_light bbssgtd">
+		<div class="container_24">			
+			<div class="unit_extend">
+				<ul class="hlist clearfix unit grey_darker">	
+						<li class="mvs phl"><span class="pan mvs inline_block">Welcome to hipages!</span>
+									<a id="header_login_id" href="http://www.homeimprovementpages.com.au/login" class="inline_block btn_plain pvt phm mls mtt">Login</a>
+								</li>
+								<li class="mvs phm brssghn">
+									<a href="http://www.homeimprovementpages.com.au/account/?m=shortlist" class="pan mvs inline_block no_underline grey_darker">Shortlist (<span id="header_shortlist_number">0</span>)</a>
+								</li>
+								<li class="mvs plm">
+									<a href="/consumer/register" class="pan mvs inline_block no_underline primary">Register now!</a>
+									<span class="pan mvs inline_block">or Sign in with <script type="text/javascript">
+function openFbWindow(link)
+{
+    window.open(link, "loginWindow", "location=1,status=1,scrollbars=1, width=640, height=400");
+    return false;
+}
+function trackFbConnect()
+{
+    return getGAEventTrackingCode('Facebook', 'Register', 'Connect');
+}
 </script>
-
-<!-- start of header -->
-<div id="css_revamp">	
-
-	<div class="container_16 pos_relative">		
-		<a href="http://www.homeimprovementpages.com.au/" class="block man pan header_logo pos_absolute" onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Home', 'Header Menu - Other');">hipages.com.au</a>
+<a href="https://www.facebook.com/dialog/oauth?client_id=102132386588242&amp;redirect_uri=http%3A%2F%2Fwww.homeimprovementpages.com.au%2Fconsumer%2Ffbconnect%3Ffbconnect%3D1&amp;state=7d5e34ca790e88d376804cb7caef60a6&amp;scope=email&amp;display=popup" onclick="trackFbConnect();
+	 return openFbWindow(this.href);
+	" target="_top" class="vtk_fb_button_mini">
+	<span>facebook</span>
+</a></span>
+								</li>				</ul>
+							</div>
+		</div>
+	</div>
+			
+	<div class="clear_left width_full">
+		<div class="container_24 clearfix">				
+			<a href="http://www.homeimprovementpages.com.au/" class="unit block mln mrs pan header_logo" onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Home', 'Header Menu - Other');">hipages.com.au</a>
+			<span class="unit_extend large important mtl ptsm mlm grey_darker">Australia's #1 Building &amp; Renovation Site</span>	
+		</div>
 	</div>
 	
-	<div class="width_full clearfix bg_black_grad">
+	<div class="width_full clearfix bg_grey_hue_darker mtl">
 		<div class="container_16 clearfix">				
 			
-									<ul class="hlist push_3 clearfix unit">	
-						<li class="inline"><a href="/find" class="header_menu_links solid_right_grey_darker  mls" onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Find A Tradie', 'Header Menu - Other');">Find a Tradie</a></li>
-						<li class="inline"><a href="/products" class="header_menu_links solid_right_grey_darker " onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Product Brochures', 'Header Menu - Other');">Product Brochures</a></li>
-						<li class="inline"><a href="/articles" class="header_menu_links solid_right_grey_darker " onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Articles', 'Header Menu - Other');">Browse Articles</a></li>
-						<li class="inline"><a href="/advertise?utm_source=HIP&amp;utm_medium=button&amp;utm_content=subpage-top-nav-list-your-business-light-blue&amp;utm_campaign=sign%20up" class="header_menu_link_standout no_underline rounded " onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Advertise With Us', 'Header Menu - Other');">List your business</a></li>
-					</ul>
+									<ul class="hlist unit">	
+						<li class="inline"><a href="/" class="header_menu_links" onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Home', 'Header Menu - Other');" title="Home"><span class="sprite sprite_home block">Home</span></a></li>
+						<li class="inline"><a href="/find" class="header_menu_links header_menu_link_selected text_shadow_light" onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Search Directory', 'Header Menu - Other');">Search Directory</a></li>
+						<li class="inline"><a href="/articles" class="header_menu_links " onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Articles', 'Header Menu - Other');">Browse Articles</a></li>
+						<li class="inline"><a href="/products" class="header_menu_links " onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Product Brochures', 'Header Menu - Other');">Product Brochures</a></li>
+						<li class="inline"><a href="/photos" class="sprite sprite_new_tab header_menu_links header_menu_links_new " onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked Browse Photos', 'Header Menu - Other');">Browse Photos</a></li>
+						<li><a href="/advertise?utm_source=HIP&amp;utm_medium=button&amp;utm_content=home-top-nav-list-your-business&amp;utm_campaign=sign%20up" class="header_menu_link_standout rounded_bot " onclick="getGAEventTrackingCode('Header Menu', 'Header Menu - Clicked List Your Business', 'Header Menu - Other');">List your business</a></li>					</ul>
 						
 									
 		</div>
 	</div>
-	<div class="width_full clearfix bg_primary_grad">
-		<div class="container_16 clearfix white">	
-			
-			<div id="directory_searchbar_counter">
-				<p class="grid_3 pan mtl mbm align_centre important"><span class="block x_large">28986</span> Trade Professionals</p>
-				<div class="grid_10 alpha mrl mtl mbm">
-<script language="javascript" type="text/javascript" src="/js/custom.postcode.lookup.js.php?v=1"></script>
+						
+	<div class="width_full bg_primary_grad unit">
+				<div class="container_24 white">
+					 <div id="directory_searchbar_counter">
+						<div class="grid_16 alpha mrl mtl pbm">
+<script language="javascript" type="text/javascript" src="/js/custom.postcode.lookup.js.php?v=2"></script>
 
 <form name="form_local_directory" autocomplete="off" action="/index.php?m=search&amp;a=search_results" method="get" class="pan man clearfix">
 	<input type="hidden" name="m" value="search">
@@ -110,143 +169,24 @@ jQuery(document).ready(function(){
 	<input type="hidden" name="relative_path" value="%2Fprivacy">
 	
 	<input type="radio" name="loctype" style="display:none" value="zip" checked="">
-	
-	<ul class="list unit" id="header_searchbar_selector_menu">
-		<li class="header_searchbar_selector">
-			<ul class="list header_hidden_searchbar_selector">
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#brochure_searchbar_counter', '#directory_searchbar_counter');" class="no_underline">Brochures</a></li>
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#article_searchbar_counter', '#directory_searchbar_counter');" class="no_underline">Articles</a></li>
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#sitesearch_searchbar_counter', '#directory_searchbar_counter');" class="no_underline">Site Search</a></li>
-			</ul>	
-			<span class="grey_darkest block mtt pasm bg_primary_lighter rounded_left no_underline width_90 pos_relative">
-				Directory<img src="/images/arrow_down.gif" border="0" class="ptt prt pos_absolute right">
-			</span>
-		</li>		
-	</ul>
-	
-	<input type="text" class="predictive_category_associate unit important rounded_right solid_border_white pasm mtt medium" name="search_str" value="eg. plumbers, architects" onfocus="if(this.value=='eg. plumbers, architects') this.value='';" onblur="if(this.value=='')this.value='eg. plumbers, architects';" maxlength="2048" style="width:225px; margin-left:-4px;"><input type="text" class="predictive_lookup_associate unit important rounded solid_border_white border_none pasm medium mtt mlsm" name="search_zip" value="eg. Glebe, 2010" onfocus="if(this.value=='eg. Glebe, 2010') this.value='';" onblur="if(this.value=='')this.value='eg. Glebe, 2010';" maxlength="30">	
-	<a href="javascript:keywords_search_submit();" class="btn_search unit phsm pvsm mls mtt mbn mrn" title="Start Your Search/Find"><span class="block sprite header_search_btn">Search</span></a>
-</form>	</div>
-			</div><div id="brochure_searchbar_counter" class="hidden">
-				<p class="grid_3 pan mtl mbm align_centre important"><span class="block x_large">3643</span> Product Brochures</p>
-				<div class="grid_10 alpha mrl mtl mbm">
-<script type="text/javascript">
+		
+	<div class="grid_9 alpha omega clearfix clear_text_resize">
+					<label class="block man pan white text_shadow_light important">Search 33004 Trade Professionals</label><input type="text" class="predictive_category_associate grid_9 alpha omega input_field_bg_reverse important pasm" name="search_str" value="Builders" maxlength="2048"><span class="block small primary_tint_dark plsm">e.g. plumbers, architects</span></div><div class="unit mls mbs">
+					<label class="block man pan white text_shadow_light important">Where?</label>
+						
+					<div class="grid_5 alpha omega clearfix"><input type="text" class="predictive_lookup_associate important input_field_bg_reverse pasm" name="search_zip" value="All States" onblur="if(this.value=='')this.value='All States';" maxlength="30" style="width:180px;"><span class="block small primary_tint_dark plsm">e.g. Glebe, 2010</span>
+					</div>
 
-	function validate()
-	{
-		if (document.search.keywords.value=='' || document.search.keywords.value=='enter keywords' ) 
-		{
-			alert('Please enter keywords!'); 
-		}
-		else
-		{
-			document.search.submit();
-		}
-	}
-</script>
+					<a href="javascript:keywords_search_submit();" class="mls mrn btn_search unit phm pvsm" title="Search">Search</a>
 
-<form name="search" method="post" action="/products" class="pan man clearfix">
-	<input type="hidden" name="search_type" value="category">
-	<ul class="list unit" id="header_searchbar_selector_menu">
-		<li class="header_searchbar_selector">
-			<ul class="list header_hidden_searchbar_selector">
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#directory_searchbar_counter', '#brochure_searchbar_counter');" class="no_underline">Directory</a></li>
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#article_searchbar_counter', '#brochure_searchbar_counter');" class="no_underline">Articles</a></li>
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#sitesearch_searchbar_counter', '#brochure_searchbar_counter');" class="no_underline">Site Search</a></li>
-			</ul>	
-			<span class="grey_darkest block mtt pasm bg_primary_lighter rounded_left no_underline width_90 pos_relative">
-				Brochures
-				<img src="/images/arrow_down.gif" border="0" class="ptt prt pos_absolute right">
-			</span>
-		</li>		
-	</ul>
-	
-	<input id="vtk_ac_1" type="text" autocomplete="off" tabindex="1" name="keywords" value="enter keywords" class="predictive_keywords important rounded_right solid_border_white pasm mtt medium grid_7 alpha" maxlength="100" onfocus="if(this.value=='enter keywords')this.value='';" onblur="if(this.value=='') this.value='enter keywords';"><script type="text/javascript">
-						$(document).ready(function() { 
-						    setTimeout(function () {
-							vtk_ac_one = new VTKAutoComplete();
-							vtk_ac_one.init(
-							{
-								"queryFieldId": "vtk_ac_1",
-								"initValue": "enter keywords",
-								"queryFieldHelpInfo": "enter keywords",
-								"lookupURLPrefix": "/system/ajax_handlers/vtk.ac.hip.server.php?query=",
-								"formName":"search",
-						   	    "formAutoSubmit": true,
-								"divWidthAdjustment": 4,
-								"otherFieldName": "search_type",
-								"hiddenDivId": "vtk_ac_pd_home_id"
-							});
-							},0);
-												
-						});
-						</script>	<a href="javascript:validate();" class="btn_search inline_block phsm pvsm mtt mhn" title="Start Your Search/Find"><span class="block sprite header_search_btn">Search</span></a>
-</form>	</div>
-			</div><div id="article_searchbar_counter" class="hidden">
-				<p class="grid_3 pan mtl mbm align_centre important"><span class="block x_large">4054</span> Articles</p>
-				<div class="grid_10 alpha mrl mtl mbm"><script>
-function validateSearchArticles()
-{	var form = document.search_articles_form;
-		form.q.value = trim(form.q.value);
-	var q = form.q.value;
-	if (q ==''){
-		alert("Please enter keywords!");
-		form.q.focus();
-		return false;
-	}else{
-		form.submit();
-	}
-}
-</script>
-	
-<form name="search_articles_form" action="/articles" method="get" class="pan man clearfix" onsubmit="return validateSearchArticles();">
-	<input type="hidden" name="c" value="article_topics">
-	<ul class="list unit" id="header_searchbar_selector_menu">
-		<li class="header_searchbar_selector">
-			<ul class="list header_hidden_searchbar_selector">
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#directory_searchbar_counter', '#article_searchbar_counter');" class="no_underline">Directory</a></li>
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#brochure_searchbar_counter', '#article_searchbar_counter');" class="no_underline">Brochures</a></li>
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#sitesearch_searchbar_counter', '#article_searchbar_counter');" class="no_underline">Site Search</a></li>
-			</ul>	
-			<span class="grey_darkest block mtt pasm bg_primary_lighter rounded_left no_underline width_90 pos_relative">
-				Articles
-				<img src="/images/arrow_down.gif" border="0" class="ptt prt pos_absolute right">
-			</span>
-		</li>		
-	</ul>
-	
-	<input type="text" class="predictive_keywords important rounded_right solid_border_white pasm mtt medium grid_7 alpha" name="q" value="enter keywords" maxlength="50" onfocus="if(this.value=='enter keywords') this.value='';" onblur="if(this.value=='') this.value='enter keywords';">	<a class="btn_search inline_block phsm pvsm mtt mhn" href="javascript: if(document.search_articles_form.q.value=='' || document.search_articles_form.q.value=='enter keywords' ) {alert('Please enter keywords')} else {document.search_articles_form.submit();}" title="Start Your Search/Find"><span class="block sprite header_search_btn">Search</span></a>
-</form>	</div>
-			</div><div id="sitesearch_searchbar_counter" class="hidden">
-				<p class="grid_3 pan mtl mbm align_centre important"><span class="block x_large">28986</span> Trade Professionals</p>
-				<div class="grid_10 alpha mrl mtl mbm">
-<form name="site_search" method="get" action="/site_search" class="pan man clearfix">
-	<input type="hidden" name="c" value="all">
-	<ul class="list unit" id="header_searchbar_selector_menu">
-		<li class="header_searchbar_selector">
-			<ul class="list header_hidden_searchbar_selector">
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#directory_searchbar_counter', '#sitesearch_searchbar_counter');" class="no_underline">Directory</a></li>
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#brochure_searchbar_counter', '#sitesearch_searchbar_counter');" class="no_underline">Brochures</a></li>
-				<li class="width_90"><a href="javascript:showElementFromFirstArgument('#article_searchbar_counter', '#sitesearch_searchbar_counter');" class="no_underline">Articles</a></li>
-			</ul>	
-			<span class="grey_darkest block mtt pasm bg_primary_lighter rounded_left no_underline width_90 pos_relative">
-				Site Search<img src="/images/arrow_down.gif" border="0" class="ptt prt pos_absolute right">
-			</span>
-		</li>		
-	</ul>	
-	<input type="text" class="predictive_keywords important rounded_right solid_border_white pasm mtt medium grid_7 alpha" name="q" value="enter keywords" maxlength="50" onfocus="if(this.value=='enter keywords') this.value='';" onblur="if(this.value=='') this.value='enter keywords';">	<a class="btn_search inline_block phsm pvsm mtt mhn" href="javascript: if(document.site_search.q.value=='' || document.site_search.q.value=='enter keywords' ) {alert('Please enter keywords')} else {document.site_search.submit();}" title="Start Your Search/Find"><span class="block sprite header_search_btn">Search</span></a>
-</form>	</div>
-			</div>
-	<p class="unit omega align_right pan mvm strong"><span class="x_large">Welcome to hipages!</span><br>
-				   <a id="header_login_id" href="http://www.homeimprovementpages.com.au/login" class="white no_underline">Login</a>&nbsp;|&nbsp;
-				   <a href="http://www.homeimprovementpages.com.au/account/?m=shortlist" class="white no_underline">Shortlist (<span id="header_shortlist_number">0</span>)</a></p>							
-		</div>
-	</div>
-
-<!-- end of header --><span id="headerTicker" class="block ptm pbn bg_primary_pale"><!--googleoff: all--> 
+			  </div></form>			</div>
+					</div>
+				</div>
+			</div><span id="headerTicker" class="block ptm pbn bg_primary_pale clear_left"><!--googleoff: all--> 
 <marquee height="23" direction="left" align="middle" width="100%" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();"><a href="/advertise?utm_source=HIP&amp;utm_medium=ticker&amp;utm_content=find-out-how&amp;utm_campaign=sign%20up">Find out how to add your business to Home Improvement Pages</a></marquee>
-<!--googleon: all--> </span>
-<div id="pageContentWrapper" class="clearfix">
+<!--googleon: all--> </span>			<!-- end of header -->
+		
+		<div id="pageContentWrapper" class="clearfix">
 <div id="majorContent">
 <div id="subMajorContent">
 
@@ -436,227 +376,278 @@ function validateSearchArticles()
 	<!-- begin ad tag -->
 	<script type="text/javascript">
 	//<![CDATA[
-	document.write('<script type="text/javascript" src="http://ad-apac.doubleclick.net/adj/hipages.com.au/contents/generic_contents;sect=generic_contents;tile=1;sz=160x600;ord=1320156071?"><\/script>');
+	document.write('<script type="text/javascript" src="http://ad-apac.doubleclick.net/adj/hipages.com.au/contents/generic_contents;sect=generic_contents;tile=1;sz=160x600;ord=1340946887?"><\/script>');
 	//]]>
-	</script><script type="text/javascript" src="http://ad-apac.doubleclick.net/adj/hipages.com.au/contents/generic_contents;sect=generic_contents;tile=1;sz=160x600;ord=1320156071?"></script>
-	<noscript><a href="http://ad-apac.doubleclick.net/jump/hipages.com.au/contents/generic_contents;sect=generic_contents;tile=1;sz=160x600;ord=1320156071" target="_blank" >
-	<img src="http://ad-apac.doubleclick.net/ad/hipages.com.au/contents/generic_contents;sect=generic_contents;tile=1;sz=160x600;ord=1320156071" border="0" alt="" /></a></noscript>
+	</script><script type="text/javascript" src="http://ad-apac.doubleclick.net/adj/hipages.com.au/contents/generic_contents;sect=generic_contents;tile=1;sz=160x600;ord=1340946887?"></script>
+	<noscript><a href="http://ad-apac.doubleclick.net/jump/hipages.com.au/contents/generic_contents;sect=generic_contents;tile=1;sz=160x600;ord=1340946887" target="_blank" >
+	<img src="http://ad-apac.doubleclick.net/ad/hipages.com.au/contents/generic_contents;sect=generic_contents;tile=1;sz=160x600;ord=1340946887" border="0" alt="" /></a></noscript>
 	<!-- end ad tag --></div>
 
-</div>
-
-<!--googleoff: index-->
+</div><!--googleoff: index-->
 
 	<div id="footerWrapper">
-		<div id="footerWhiteSpace">&nbsp;</div>
-		<div id="footerOrangeLine">&nbsp;</div>
-		<div id="footerWhiteSpace">&nbsp;</div>
-		<div id="footerLinksArea" style="height: auto !important;">
+		<div id="footerLinksArea" class="bg_grey_hue_darker btlsphn" style="height: auto !important;">
 		
-			<div class="footer_col_outer_wrapper" style="width:913px;margin-left:auto;margin-right:auto;margin-top:15px;position:relative;">
-				<div class="footer_col_wrapper">
-					<span class="footer_headings">About hipages.com.au</span>
-					<ul class="footer_link_lists">
-						<li><a href="http://www.homeimprovementpages.com.au/contactus" class="footer_links" title="Contact Us" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Contact Us', 'Footer - Other');">Contact Us</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/media_centre" class="footer_links" title="Media Centre" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Media Centre', 'Footer - Other');">Media Centre</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/content/career_opportunities" class="footer_links" title="Career Opportunities" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Career Opportunities', 'Footer - Other');">Career Opportunities</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/terms" class="footer_links" title="Terms &amp; Conditions" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Terms &amp; Conditions', 'Footer - Other');">Terms &amp; Conditions</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/privacy" class="footer_links" title="Privacy Policy" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Privacy Policy', 'Footer - Other');">Privacy Policy</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/sitemap" class="footer_links" title="Site map" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Site Map', 'Footer - Other');">Site map</a></li>
+			<div class="container_24 small pos_relative">
+
+				<div class="grid_4 alpha omega align_left dbrssgsn mtl pos_relative">
+					<span class="block h6 important white pbm">Useful Searches</span>
+					<ul class="list">
+						<li><a href="http://www.homeimprovementpages.com.au/find/handyman" class="primary" title="Handyman" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Handyman', 'Footer - Other');">Handyman</a></li>
+						<li><a href="http://www.homeimprovementpages.com.au/find/plumbers" class="primary" title="Plumbers" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Plumbers', 'Footer - Other');">Plumbers</a></li>
+						<li><a href="http://www.homeimprovementpages.com.au/find/electricians" class="primary" title="Electricians" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Electricians', 'Footer - Other');">Electricians</a></li>
+						<li><a href="http://www.homeimprovementpages.com.au/find/architects" class="primary" title="Architects" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Architects', 'Footer - Other');">Architects</a></li>
+						<li><a href="http://www.homeimprovementpages.com.au/find/drafters" class="primary" title="Drafting" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Drafting', 'Footer - Other');">Drafting</a></li>
+						<li><a href="http://www.homeimprovementpages.com.au/find/landscaper_gardener" class="primary" title="Landscape Design" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Landscape Design', 'Footer - Other');">Landscape Design</a></li>
+						<li><a href="http://www.homeimprovementpages.com.au/find/garden_maintenance" class="primary" title="Garden Maintenance" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Garden Maintenance', 'Footer - Other');">Garden Maintenance</a></li>
 					</ul>
-					
-					<div class="footer_social_media_badges">
-						<a href="http://twitter.com/hipages" target="_blank" class="footer_twitter_link" title="Follow us on Twitter" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Follow Us On Twitter', 'Footer - Other');">Follow us on Twitter</a>
-						<div class="spacer_10">&nbsp;</div>
-						<a href="http://www.facebook.com/hipages" target="_blank" class="footer_facebook_link" title="Find us on Facebook" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Follow Us On Facebook', 'Footer - Other');">Find us on Facebook</a>
-					</div>
-					
-					<span class="footer_headings">Resources</span>
-					<ul class="footer_link_lists">
-						<li><a href="http://www.homeimprovementpages.com.au/articles" class="footer_links" title="Articles / Hints and Tips" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Articles / Hints And Tips', 'Footer - Other');">Articles / Hints &amp; Tips</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/content/select_professional" class="footer_links" title="Hiring a Professional" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Hiring A Professional', 'Footer - Other');">Hiring a Professional</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/associations" class="footer_links" title="Trade Associations" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Trade Associations', 'Footer - Other');">Trade Associations</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/content/all_licensing&amp;title=Licensing" class="footer_links" title="Licensing" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Licensing', 'Footer - Other');">Licensing</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/content/council" class="footer_links" title="Council Regulations" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Council Regulations', 'Footer - Other');">Council Regulations</a></li>
-						<li><a href="http://www.homeimprovementpages.com.au/glossary" class="footer_links" title="Glossary" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Glossary', 'Footer - Other');">Glossary</a></li>
+				
+					<ul class="list mtm">
+						<li><a href="http://www.homeimprovementpages.com.au/tradesman_names" class="primary" title="Tradesmen by Name" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Tradesmen By Name', 'Footer - Other');">Tradesmen by Name</a></li>
+						<li><a href="http://www.homeimprovementpages.com.au/trade_business_names" class="primary" title="Trades by Business" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Trades By Business', 'Footer - Other');">Trades by Business</a></li>
 					</ul>
-								
+					<ul class="list mtm">
+                        <li><a href="http://www.homeimprovementpages.com.au/products/brands" class="primary" title="Product Brands" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Product Brands', 'Footer - Other');">Product Brands</a></li>
+						<li><a href="http://www.homeimprovementpages.com.au/local_categories/all " class="primary" title="Local Categories" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Local Categories', 'Footer - Other');">Local Categories</a></li>
+					</ul>					
 				</div>
-				<div class="footer_col_wrapper">
-					<div class="footer_col_div">
-						<span class="footer_headings">Useful Searches</span>
-						<ul class="footer_link_lists">
-							<li><a href="http://www.homeimprovementpages.com.au/find/handyman" class="footer_links" title="Handyman" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Handyman', 'Footer - Other');">Handyman</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/find/plumbers" class="footer_links" title="Plumbers" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Plumbers', 'Footer - Other');">Plumbers</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/find/electricians" class="footer_links" title="Electricians" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Electricians', 'Footer - Other');">Electricians</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/find/architects" class="footer_links" title="Architects" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Architects', 'Footer - Other');">Architects</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/find/drafters" class="footer_links" title="Drafting" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Drafting', 'Footer - Other');">Drafting</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/find/landscaper_gardener" class="footer_links" title="Landscape Design" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Landscape Design', 'Footer - Other');">Landscape Design</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/find/garden_maintenance" class="footer_links" title="Garden Maintenance" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Garden Maintenance', 'Footer - Other');">Garden Maintenance</a></li>
+
+				<div class="grid_4 alpha omega align_left dbrssgsn mtl pos_relative">
+					<div class="plm">						
+						<span class="block h6 important white pbm">Resources</span>
+						<ul class="list">
+							<li><a href="http://www.homeimprovementpages.com.au/articles" class="primary" title="Articles / Hints and Tips" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Articles / Hints And Tips', 'Footer - Other');">Articles / Hints &amp; Tips</a></li>
+							<li><a href="http://www.homeimprovementpages.com.au/content/select_professional" class="primary" title="Hiring a Professional" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Hiring A Professional', 'Footer - Other');">Hiring a Professional</a></li>
+							<li><a href="http://www.homeimprovementpages.com.au/associations" class="primary" title="Trade Associations" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Trade Associations', 'Footer - Other');">Trade Associations</a></li>
+							<li><a href="http://www.homeimprovementpages.com.au/content/all_licensing&amp;title=Licensing" class="primary" title="Licensing" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Licensing', 'Footer - Other');">Licensing</a></li>
+							<li><a href="http://www.homeimprovementpages.com.au/content/council" class="primary" title="Council Regulations" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Council Regulations', 'Footer - Other');">Council Regulations</a></li>
+							<li><a href="http://www.homeimprovementpages.com.au/glossary" class="primary" title="Glossary" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Resources - Glossary', 'Footer - Other');">Glossary</a></li>
 						</ul>
-						<div class="spacer_15">&nbsp;</div>
-						<ul class="footer_link_lists">
-							<li><a href="http://www.homeimprovementpages.com.au/tradesman_names" class="footer_links" title="Tradesmen by Name" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Tradesmen By Name', 'Footer - Other');">Tradesmen by Name</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/trade_business_names" class="footer_links" title="Trades by Business" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Trades By Business', 'Footer - Other');">Trades by Business</a></li>
+							
+						<span class="block h6 important white pbm mtl">Major Cities</span>
+						<ul class="list">
+							<li class="grid_2 alpha omega"><a href="http://www.homeimprovementpages.com.au/nsw/sydney" class="primary" title="Sydney" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Sydney', 'Footer - Other');">Sydney</a></li>
+							<li class="grid_2 alpha omega"><a href="http://www.homeimprovementpages.com.au/vic/melbourne" class="primary" title="Melbourne" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Melbourne', 'Footer - Other');">Melbourne</a></li>
+							<li class="grid_2 alpha omega"><a href="http://www.homeimprovementpages.com.au/sa/adelaide" class="primary" title="Adelaide" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Adelaide', 'Footer - Other');">Adelaide</a></li>
+							<li class="grid_2 alpha omega"><a href="http://www.homeimprovementpages.com.au/qld/brisbane" class="primary" title="Brisbane" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Brisbane', 'Footer - Other');">Brisbane</a></li>
+							<li class="grid_2 alpha omega"><a href="http://www.homeimprovementpages.com.au/tas/hobart" class="primary" title="Hobart" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Hobart', 'Footer - Other');">Hobart</a></li>
+							<li class="grid_2 alpha omega"><a href="http://www.homeimprovementpages.com.au/wa/perth" class="primary" title="Perth" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Perth', 'Footer - Other');">Perth</a></li>
+							<li class="grid_2 alpha omega"><a href="http://www.homeimprovementpages.com.au/nt/darwin" class="primary" title="Darwin" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Darwin', 'Footer - Other');">Darwin</a></li>
+							<li class="grid_2 alpha omega"><a href="http://www.homeimprovementpages.com.au/act/canberra" class="primary" title="Canberra" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Canberra', 'Footer - Other');">Canberra</a></li>
 						</ul>
-						<div class="spacer_15">&nbsp;</div>
-						<ul class="footer_link_lists">
-							<li><a href="http://www.homeimprovementpages.com.au/products/brands" class="footer_links" title="Product Brands" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Product Brands', 'Footer - Other');">Product Brands</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/local_categories/all " class="footer_links" title="Local Categories" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Searches - Local Categories', 'Footer - Other');">Local Categories</a></li>
-						</ul>
+					</div>
+				</div>
+
+				<div class="grid_5 alpha omega align_left dbrssgsn mtl pos_relative" id="business_owner_wrapper">					
+					<div class="plm">
+						<span class="block h6 important white pbm">For Business Owners</span>
+						<ul class="list">
+							<li class="unit mbm">
+								<a href="http://www.homeimprovementpages.com.au/advertise?utm_source=HIP&amp;utm_medium=button&amp;utm_content=footer-list-your-business&amp;utm_campaign=sign%20up" class="btn_tertiary align_center grid_4 alpha small" title="List your business" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - List Your Business', 'Footer - Other');">List your business</a>
+							</li>
+							<li class="unit mbm">
+								<a href="http://www.homeimprovementpages.com.au/advertise/pay_per_lead_banner_advertising?utm_source=HIP&amp;utm_medium=button&amp;utm_content=footer-targeted_banner_ads&amp;utm_campaign=sign%20up" class="btn_tertiary align_center grid_4 alpha small" title="Targeted Banner Ads" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - Targeted Banner Ads', 'Footer - Other');">Targeted banner ads</a>
+							</li>	
+							<li><a href="http://www.homeimprovementpages.com.au/login" class="primary" title="Login" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - Login', 'Footer - Other');">Advertiser Login</a></li>
+							<li><a href="http://www.homeimprovementpages.com.au/contactus" class="primary" title="Support" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - Support', 'Footer - Other');">Customer Support</a></li>							
+						</ul>	
 						
-						<div class="pad_top20" style="height:30px;">&nbsp;</div>
-						<span class="footer_headings">Major Cities</span>
-						<ul class="footer_link_lists">
-							<li><a href="http://www.homeimprovementpages.com.au/nsw/sydney" class="footer_links" title="Sydney" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Sydney', 'Footer - Other');">Sydney</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/vic/melbourne" class="footer_links" title="Melbourne" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Melbourne', 'Footer - Other');">Melbourne</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/sa/adelaide" class="footer_links" title="Adelaide" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Adelaide', 'Footer - Other');">Adelaide</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/qld/brisbane" class="footer_links" title="Brisbane" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Brisbane', 'Footer - Other');">Brisbane</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/tas/hobart" class="footer_links" title="Hobart" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Hobart', 'Footer - Other');">Hobart</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/wa/perth" class="footer_links" title="Perth" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Perth', 'Footer - Other');">Perth</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/nt/darwin" class="footer_links" title="Darwin" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Darwin', 'Footer - Other');">Darwin</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/act/canberra" class="footer_links" title="Canberra" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Cities - Canberra', 'Footer - Other');">Canberra</a></li>
-						</ul>
-						<div class="spacer_10">&nbsp;</div>
-					</div>
-				</div>
-				<div class="footer_col_three_wrapper container_24">
-					<div class="footer_col_div">
-						<span class="footer_headings">For Business Owners</span>
-						<ul class="footer_link_lists">
-							<li class="unit">
-								<a href="http://www.homeimprovementpages.com.au/advertise?utm_source=HIP&amp;utm_medium=button&amp;utm_content=footer-list-your-business&amp;utm_campaign=sign%20up" class="btn_bg_secondary_lightest align_center grid_4 alpha medium mbm" title="List your business" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - List Your Business', 'Footer - Other');">List your business</a>
-							</li>
-							<li class="unit">
-								<a href="http://www.homeimprovementpages.com.au/advertise?utm_source=HIP&amp;utm_medium=button&amp;utm_content=footer-advertise-on-hip&amp;utm_campaign=sign%20up" class="btn_bg_secondary_lightest align_center grid_4 alpha medium mbm" title="Advertise on hipages.com.au" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - Advertise On Hipages.com.au', 'Footer - Other');">Advertise with us</a>
-							</li>
-							<li class="clear_left"><a href="http://www.homeimprovementpages.com.au/content/share_hipages" class="footer_links" title="Badges for your site" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - Badges For Your Site', 'Footer - Other');">Badges for your site</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/contactus" class="footer_links" title="Support" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - Support', 'Footer - Other');">Support</a></li>
-							<li><a href="http://www.homeimprovementpages.com.au/login" class="footer_links" title="Login" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Business - Login', 'Footer - Other');">Login</a></li>
-						</ul>
-						<div class="spacer_10">&nbsp;</div>					
-					</div>
-					<div class="footer_col_div" style="border-left:1px solid #ffffff;">
-						<div class="spacer_10">&nbsp;</div>
-						<a href="http://www.homeimprovementpages.com.au/advertise?utm_source=HIP&amp;utm_medium=banner&amp;utm_content=footer-hitwise-2010&amp;utm_campaign=sign%20up" class="footer_hitwise_awards_p2" title="Hitwise - No.1 Website 2010" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Awards - 2010', 'Footer - Other');"></a>	
-						<div class="vertical_spacer_30">&nbsp;</div>					
-						<a href="http://www.homeimprovementpages.com.au/advertise?utm_source=HIP&amp;utm_medium=banner&amp;utm_content=footer-hitwise-2009&amp;utm_campaign=sign%20up" class="footer_hitwise_awards_p1 mtm" title="Hitwise - No.1 Website 2009" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Awards - 2009', 'Footer - Other');"></a>
-						<div class="clear_left_div spacer_15">&nbsp;</div>
-						<span class="footer_span_text">hipages.com.au ranks <strong>number one</strong> in the Hitwise Australia <br><strong>'Building and Construction'</strong> category.</span>
-						<span class="footer_span_text"><a href="http://www.homeimprovementpages.com.au/advertise?utm_source=HIP&amp;utm_medium=link&amp;utm_content=footer-see-all-our-awards&amp;utm_campaign=sign%20up" style="color:#666666;" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Awards - All Awards', 'Footer - Other');">See all our awards</a></span>
-					</div>
-					<div class="footer_col_div">
-						<div class="pad_top20" style="height:30px;">&nbsp;</div>
-						<span class="footer_headings">Download our iPhone App</span>
-						<div class="footer_iphone_app_download_wrapper">
-							<a href="http://itunes.apple.com/au/app/home-improvement-pages-hipages/id369786244?mt=8" target="_blank" class="footer_iphone_app_link" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Download IPhone App', 'Footer - Other');"><img src="/style/default/images/spacer.gif" width="72" height="130" border="0" alt=""></a>
-							<p class="light_grey_text footer_iphone_app_download_para">
-								Find businesses on the go with the <a href="http://itunes.apple.com/au/app/home-improvement-pages-hipages/id369786244?mt=8" target="_blank" title="Download hipages iPhone App" class="footer_links" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Download IPhone App', 'Footer - Other');">hipages iPhone app.</a>
-								<span class="footer_iphone_app_icon_wrapper"><a href="http://itunes.apple.com/au/app/home-improvement-pages-hipages/id369786244?mt=8" class="footer_iphone_app_icon" target="_blank" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Download IPhone App', 'Footer - Other');">Available on the iPhone App Store</a></span>
-							</p>						
+						<div class="media_block mtl">
+							<a href="http://www.homeimprovementpages.com.au/advertise?utm_source=HIP&amp;utm_medium=banner&amp;utm_content=footer-hitwise-2010&amp;utm_campaign=sign%20up" title="Hitwise - No.1 Website 2010" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Awards - 2010', 'Footer - Other');" class="sprite_footer sprite_footer_award block media"></a>	
+						
+							<div class="media_desc prn mtl">
+								<span class="white">We're ranked <strong>#1</strong> in the Hitwise Australia 'Building and Construction' category.</span>
+								<br><a href="javascript:void(0);" id="footer_award" class="primary" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Awards - All Awards', 'Footer - Other');">View awards</a>
+							</div>
 						</div>
-						<div class="spacer_10">&nbsp;</div>					
 					</div>
 				</div>
-				<div class="footer_col_four_wrapper">
-					<div class="footer_col_div">
-						<span class="footer_headings">Subscribe to our Newsletter</span>
-						<p class="light_grey_text" style="font-size:13px;">Enter your details to receive our weekly newsletter, packed with the latest home improvement hints, news, products and events.</p>
-						<form class="lpeRegForm formNotEmpty footer_subscribe_form" method="post" enctype="application/x-www-form-urlencoded" action="http://info.homeimprovementpages.com.au/index.php/leadCapture/save" id="mktForm_1009" name="mktForm_1009" onsubmit="if(validateSubscribeForm(document.mktForm_1009)){getGAEventTrackingCode('Footer', 'Footer - Clicked Subscribe To Newsletter', 'Footer - Other');;formSubmit(document.getElementById('mktForm_1009'));};return false;">
-							<ul class="mktLblLeft">
-								<li class="mktFormReq mktField" style="display: none;">
-									<label>Application (A):</label>
-									<span class="mktInput">
-										<input class="mktFormHidden" name="Application__c_account" id="Application__c_account" type="hidden" value="HIP">
-										<span class="mktFormMsg"></span>
-									</span>
-								</li>
-								<li class="mktFormReq mktField" style="display: none;">
-									<label>Email List - HIP Consumer:</label>
-									<span class="mktInput">
-										<input class="mktFormHidden" name="Email_List_HIP_Consumer__c" id="Email_List_HIP_Consumer__c" type="hidden" value="Yes">
-										<span class="mktFormMsg"></span>
-									</span>
-								</li>
-								<li class="mktFormReq mktField" style="display: none;">
+
+
+				<div class="grid_5 alpha omega align_left mtl plm">					
+					<span class="block h6 important white pbm">Download our iPhone App</span>
+					<a href="http://itunes.apple.com/au/app/home-improvement-pages-hipages/id369786244?mt=8" target="_blank" class="sprite_footer sprite_footer_iphone block unit" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Download IPhone App', 'Footer - Other');"></a>
+					<p class="white pan mtt mhm mbn">
+						Find businesses on the go with the <a href="http://itunes.apple.com/au/app/home-improvement-pages-hipages/id369786244?mt=8" target="_blank" title="Download hipages iPhone App" class="primary small" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Download IPhone App', 'Footer - Other');">hipages iPhone app.</a>							
+					</p>	
+					<span class="clear_left block h6 important white pbm ptl">Partner Sites</span>
+					<ul class="list">
+						<li><a href="http://www.naturaltherapypages.com.au" target="_blank" class="primary small" title="Natural Therapy Pages" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Partner Sites - NTP', 'Footer - Other');">Natural Therapy Pages</a></li>
+						<li><a href="http://www.petpages.com.au" target="_blank" class="primary small" title="Pet Pages" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Partner Sites - PET', 'Footer - Other');">Pet Pages</a></li>
+					</ul>
+				</div>
+
+				<div class="grid_6 alpha omega align_left bg_grey_shade_darker phn pvl">
+						<span class="block h6 important white pbm phm">Subscribe to our Newsletter</span>
+						<p class="white phm">Enter your details to receive our weekly newsletter, packed with the latest home improvement hints, news, products and events.</p>
+						<form class="lpeRegForm formNotEmpty man pan mtm phm" method="post" enctype="application/x-www-form-urlencoded" action="/index.php?m=public&amp;a=subscribe_newsletter" id="mktForm_1009" name="mktForm_1009" onsubmit="if(validateSubscribeForm(document.mktForm_1009)){getGAEventTrackingCode('Footer', 'Footer - Clicked Subscribe To Newsletter', 'Footer - Other');;};">
+							<ul class="list">
+								<li style="display: none;">
 									<label>First Name:</label>
-									<span class="mktInput">
-										<input class="mktFormText mktFormString mktFReq" name="FirstName" id="FirstName" type="hidden" value="" maxlength="255">									
+									<span>
+										<input name="FirstName" id="FirstName" type="hidden" value="" maxlength="255">									
 									</span>
 								</li>
-								<li class="mktFormReq mktField" style="display: none;">
+								<li style="display: none;">
 									<label>Last Name:</label>
-									<span class="mktInput">
-										<input class="mktFormText mktFormString mktFReq" name="LastName" id="LastName" type="hidden" value="" maxlength="255">									
+									<span>
+										<input name="LastName" id="LastName" type="hidden" value="" maxlength="255">									
 									</span>
 								</li>
-								<li class="mktFormReq mktField subscribe_row">
-									<label class="subscribe_form_label">Name:</label>
-									<span class="mktInput subscribe_mktInput">
-										<input class="mktFormText mktFormString mktFReq footer_subscribe_inputs" name="full_name" id="full_name" type="text" value="" size="15" maxlength="255">									
-										<span class="mktFormMsg" id="footer_subscribe_full_name"></span>
+								<li class="unit">
+									<label class="white mtm unit" style="width:60px;">Name:</label>
+									<span>
+										<input class="input_field unit" name="full_name" id="full_name" type="text" value="" size="14" maxlength="255">									
+										<span id="footer_subscribe_full_name"></span>
 									</span>
 								</li>						
-								<li class="mktFormReq mktField subscribe_row">
-									<label class="subscribe_form_label">Email:</label>
-									<span class="mktInput subscribe_mktInput">
-										<input class="mktFormText mktFormEmail mktFReq footer_subscribe_inputs" name="Email" id="Email" type="text" value="" size="15" maxlength="255">
-										<span class="mktFormMsg"></span>
+								<li class="unit">
+									<label class="white mtm unit" style="width:60px;">Email:</label>
+									<span>
+										<input class="input_field unit" name="Email" id="Email" type="text" value="" size="14" maxlength="255">
+										<span></span>
 									</span>
 								</li>
-								<li class="mktFormReq mktField subscribe_row">
-									<label class="subscribe_form_label">Postcode:</label>
-									<span class="mktInput subscribe_mktInput">
-										<input class="mktFormText mktFormString mktFReq footer_subscribe_inputs" name="PostalCode" id="PostalCode" type="text" value="" size="15" maxlength="4">
-										<span class="mktFormMsg"></span>
+								<li class="unit">
+									<label class="white mtm unit" style="width:60px;">Postcode:</label>
+									<span>
+										<input class="input_field unit" name="PostalCode" id="PostalCode" type="text" value="" size="14" maxlength="4">
+										<span></span>
 									</span>
 								</li>
-								<li id="mktFrmButtons" class="subscribe_row">
-									<label class="subscribe_form_label">&nbsp;</label>
-									<input id="mktFrmSubmit" type="submit" class="footer_subscribe_btn" value="Subscribe" name="submitButton" onclick="if(validateSubscribeForm(document.mktForm_1009)){getGAEventTrackingCode('Footer', 'Footer - Clicked Subscribe To Newsletter', 'Footer - Other');;formSubmit(document.getElementById('mktForm_1009'));};return false;">
+								<li id="mktFrmButtons" class="unit">
+									<label class="mtm unit" style="width:60px;">&nbsp;</label>
+									<input id="mktFrmSubmit" type="submit" class="btn_action medium" value="Subscribe" name="submitButton" onclick="if(validateSubscribeForm(document.mktForm_1009)){getGAEventTrackingCode('Footer', 'Footer - Clicked Subscribe To Newsletter', 'Footer - Other');;$('#mktForm_1009').submit();};return false;">
 								</li>     
 							  </ul>
 							  <span style="display:none;">
 								 <input type="text" name="_marketo_comments" value="">
 							  </span>
-							  <input type="hidden" name="lpId" value="-1">
-							  <input type="hidden" name="subId" value="44">
-							  <input type="hidden" name="kw" value="">
-							  <input type="hidden" name="cr" value="">
-							  <input type="hidden" name="searchstr" value="">
-							  <input type="hidden" name="lpurl" value="http://info.homeimprovementpages.com.au/subscribe_consumer_newsletter_footer.html?cr={creative}&amp;kw={keyword}">
-							  <input type="hidden" name="formid" value="1009">
-							  <input type="hidden" name="returnURL" value="http://www.homeimprovementpages.com.au/content/thank_you">
-							  <input type="hidden" name="retURL" value="http://www.homeimprovementpages.com.au/content/thank_you">
-							  <input type="hidden" name="_mkt_disp" value="return">
-							  <input type="hidden" name="_mkt_trk" value="">
 						</form>
-						<script type="text/javascript" src="http://info.homeimprovementpages.com.au/js/mktFormSupport.js"></script>
-						<script type="text/javascript">
-						function formSubmit(elt) {
-						  return Mkto.formSubmit(elt);
-						}					
-						</script>
-						<div class="spacer_10" style="clear:left">&nbsp;</div>
+
+
 					</div>
-					<div class="footer_hipages_info_wrapper">
-						<div class="footer_hipages_logo_wrapper">&nbsp;</div>
-						<div class="spacer_10" style="height:35px;">&nbsp;</div>
-						<span class="footer_copyright_text" style="text-align:right;">© 2010 Home Improvement Pages</span>
+
+					<div class="clear_left clearfix mtl ptl mbn white">						
+						<p class="unit prefix_4 mts">Haven't found what you're looking for? Try searching our entire site:</p><div class="unit align_left"><script>
+jQuery(document).ready(function() {
+		jQuery('#site_search_input').focus(function () {
+		    jQuery('#site_search_input').select().mouseup(function (e) {
+		        e.preventDefault();
+		        jQuery(this).unbind("mouseup");				
+		    });
+		});
+
+		jQuery('#site_search_input').keypress(function(event) {
+			//this is for changing the color of input fields in searchbar from default to darker
+			jQuery(this).css({'color':'#333','font-weight':'bold'});
+		});
+
+		jQuery('#site_search_input').blur(function(event) {
+			if (jQuery('#site_search_input').val() == '' || jQuery('#site_search_input').val() == 'enter keywords')
+			{
+				jQuery('#site_search_input').css({'color':'#999','font-weight':'normal'});
+			}
+		});
+	});
+</script>
+<form name="site_search" method="get" action="/site_search" class="pan man clearfix">
+	<input type="hidden" name="c" value="all">	
+	<input type="text" id="site_search_input" class="predictive_keywords input_field pat valign_middle" name="q" value="enter keywords" maxlength="50" onfocus="if(this.value=='enter keywords') this.value='';" onblur="if(this.value=='') this.value='enter keywords';">	<a class="btn_plain pat valign_middle" href="javascript: if(document.site_search.q.value=='' || document.site_search.q.value=='enter keywords' ) {alert('Please enter keywords')} else {document.site_search.submit();}" title="Search">Go</a>
+</form></div>					</div>
+
+					<div class="clear_left clearfix mtm mbl">
+						<a href="/" class="sprite_footer sprite_footer_logo block unit">&nbsp;</a>
+						<span class="white block unit mtm mlm">© 2012</span>
+						
+						<div class="unit mtm mll">
+							<a href="http://www.homeimprovementpages.com.au/contactus" class="primary brssphn phs" title="Contact Us" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Contact Us', 'Footer - Other');">Contact Us</a>
+							<a href="http://www.homeimprovementpages.com.au/content/career_opportunities" class="primary brssphn phs" title="Career Opportunities" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Career Opportunities', 'Footer - Other');">Career Opportunities</a>
+							<a href="http://www.homeimprovementpages.com.au/terms" class="primary brssphn phs" title="Terms &amp; Conditions" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Terms &amp; Conditions', 'Footer - Other');">Terms &amp; Conditions</a>
+							<a href="http://www.homeimprovementpages.com.au/privacy" class="primary brssphn phs" title="Privacy Policy" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Privacy Policy', 'Footer - Other');">Privacy Policy</a>
+							<a href="http://www.homeimprovementpages.com.au/sitemap" class="primary" title="Site map" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked About - Site Map', 'Footer - Other');">Site map</a>
+
+
+							<a href="http://www.facebook.com/hipages" target="_blank" class="mls pll primary" title="Find us on Facebook" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Follow Us On Facebook', 'Footer - Other');"><span class="inline_block sprite_footer sprite_footer_fb prs"><!-- fb --></span>Like us on Facebook</a>
+							<a href="http://twitter.com/hipages" target="_blank" class="pll primary" title="Follow us on Twitter" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Follow Us On Twitter', 'Footer - Other');"><span class="inline_block sprite_footer sprite_footer_twitter prs"><!-- twitter --></span>Follow us on Twitter</a>
+							
+						</div>
 					</div>
-				</div>
-				<div class="footer_partner_sites_wrapper" style="clear:left;text-align:left;position:absolute;top:440px;left:0px;">
-					<span class="footer_span_text">Partner Sites:</span>
-					<a href="http://www.ntpages.com.au" target="_blank" class="footer_links" title="Natural Therapy Pages" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Partner Sites - NTP', 'Footer - Other');">Natural Therapy Pages</a>&nbsp;|&nbsp;
-					<a href="http://www.petpages.com.au" target="_blank" class="footer_links" title="Pet Pages" onclick="getGAEventTrackingCode('Footer', 'Footer - Clicked Partner Sites - PET', 'Footer - Other');">Pet Pages</a>				
-				</div>
+					
 			</div>
-			<div class="clear_left_div pad_top20">&nbsp;</div>
 		</div>
 	</div>
 	</div>
 </div>
+
+<div class="hidden" id="awards_content"><div class="pal"><h3 class="man phn ptn pbl grey_darkest">Our Awards</h3><img src="http://images.hitwise.com/awards/top10/top1_award_2010.png" width="85" height="105" border="0" title="Hitwise Award Winner" alt="Loading..." usemap="#hitwise_award_2010">
+
+<img src="http://images.hitwise.com/awards/top10/top1_award_annual_cal_2009_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award No. 1 Website 2009" usemap="#hitwise_award_2009">
+
+<img src="http://images.hitwise.com/awards/top10/top1_award_annual_cal_2008_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award No. 1 Website 2008" usemap="#hitwise_award_2008_bc">
+
+<img src="http://images.hitwise.com/awards/top10/top10_award_oct_dec_2007_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award Top 10 Website - Oct - Dec 2007">
+
+<img src="http://images.hitwise.com/awards/top10/top10_award_jul_sep_2007_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award Top 10 Website - Jul - Sept 2007">
+
+<img src="http://images.hitwise.com/awards/top10/top10_award_apr_jun_2007_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award Top 10 Website - Apr - Jun 2007">
+
+<img src="http://images.hitwise.com/awards/top10/top10_award_jan_mar_2007_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award Top 10 Website - Jan - Mar 2007">
+
+<img src="http://images.hitwise.com/awards/top10/top10_award_oct_dec_2006_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award Top 10 Website - Oct - Dec 2006">
+
+<img src="http://images.hitwise.com/awards/top10/top10_award_jul_sep_2006_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award Top 10 Website - Jul - Sept 2006">
+
+<img src="http://images.hitwise.com/awards/top10/top10_award_apr_jun_2006_19.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Hitwise Award Top 10 Website - Apr - Jun 2006">
+
+<map name="hitwise_award_2010">
+    <area shape="poly" alt="" coords="32,14, 51,3, 91,26, 91,48, 95,48, 95,68, 91,68, 91,73, 50,97, 10,73, 10,68, 5,68, 5,48, 10,48, 10,26" href="#" onclick="window.open('http://www.hitwise.com/awards/popup.html?market=au&amp;sDomain=www.homeimprovementpages.com.au&amp;iDate=2010&amp;iCatnum=34&amp;Cal=1&amp;semi=');">
+</map> 
+
+<map name="hitwise_award_2009">
+	<area shape="poly" alt="" coords="32,14, 51,3, 91,26, 91,48, 95,48, 95,68, 91,68, 91,73, 50,97, 10,73, 10,68, 5,68, 5,48, 10,48, 10,26" href="#" onclick="javascript:window.open('http://www.hitwise.com/awards/popup.html?market=au&amp;sDomain=www.homeimprovementpages.com.au&amp;iDate=2009&amp;iCatnum=34&amp;Cal=1&amp;semi=', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420');">
+</map>
+
+<map name="hitwise_award_2008_bc">
+	<area shape="poly" alt="" coords="32,14, 51,3, 91,26, 91,48, 95,48, 95,68, 91,68, 91,73, 50,97, 10,73, 10,68, 5,68, 5,48, 10,48, 10,26" href="#" onclick="javascript:window.open('http://www.hitwise.com.au/awards/popup.html?sDomain=www.homeimprovementpages.com.au&amp;iDate=2008&amp;iCatnum=34&amp;Cal=1', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420');">
+</map></div></div>
+
 <!--googleon: index-->
+
+<script type="text/javascript">
+	function footerShowAwardsPopup(element_id, popup_id)
+	{	
+		var awards_message  = document.getElementById('awards_content').innerHTML;
+
+		jQuery("#"+popup_id).remove();
+		var footer_awards_popup = new clsLightPopup();
+		footer_awards_popup.publicFunctions.construct(footer_awards_popup, {
+			pageElements:{
+				container:"#business_owner_wrapper",
+				position:"#"+element_id
+			},
+			height:"auto",
+			width:"580px",
+			offsetLeft:-250,
+			offsetTop:-400,
+			identifier:popup_id,
+			alternative_style_class:" shadow bordered",
+			close_image:"transparent url(/style/default/images/fancy_box/fancy_closebox.png) repeat scroll 0 0",				
+			raw_content: awards_message
+		});
+
+		footer_awards_popup.publicFunctions.loadData(footer_awards_popup, function(data) {
+		footer_awards_popup.publicFunctions.show(footer_awards_popup);	
+		});		
+	}
+
+	jQuery(document).ready(function(){
+		jQuery("#footer_award").click(function(){
+			footerShowAwardsPopup("footer_award","footer_awards_popup");
+		 }); 
+	});	 
+
+</script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -669,22 +660,48 @@ pageTracker._initData();
 pageTracker._setCustomVar('3','Other','Other','3');
 pageTracker._trackPageview();
 </script>
-<script type="text/javascript" language="javascript" src="/js/check.referrer.cookie.php?v=1320156071"></script>
-<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/7936.js"></script> 
+
+<!-- SiteCatalyst code version: H.24.3.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+
+<script language="JavaScript" type="text/javascript">
+<!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="";
+s.channel="Other";
+s.server="";
+s.pageType="";
+s.prop2="www.homeimprovementpages.com.au/privacy";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.prop6="";
+s.prop7="";
+s.prop8="";
+s.prop9="";
+s.prop10="";
+s.prop11="";
+s.prop12="Anonymous";
+s.prop13="";
+s.prop14="";
+s.prop15="";
+s.prop16="";
+s.prop17="";
+s.prop18="";
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.24.3. -->
+<script type="text/javascript" language="javascript" src="/js/check.referrer.cookie.php?v=1340946887"></script>
 
 
-<!-- Munchkin Tracking -->
-<script type="text/javascript" src="http://munchkin.marketo.net/munchkin.js"></script>
-<script>mktoMunchkin("895-AQN-021");</script>
-<!-- End Munchkin Tracking -->
+
+
 
 <!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div> <script type="text/javascript"> document.write(unescape("%3Cscript%20src='"+
- (document.location.protocol=='https:'?
-  'https://clicktale.pantherssl.com/':
-  'http://s.clicktale.net/')+
- "WRb.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktale.pantherssl.com/WRb.js" type="text/javascript"></script>
+<div id="ClickTaleDiv" style="display: none;"></div> 
 <script type="text/javascript">
 var ClickTaleSSL=1;
 if(typeof ClickTale=='function') ClickTale(4371,0.0116,"www03"); </script>
@@ -706,6 +723,46 @@ var google_conversion_value = 0;
 <noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/961101904/?label=oQr1CNDPoAMQ0IClygM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<!-- Google Code for Footer From Main Account - 30 days Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1070458656;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "S2tjCKzEvwIQoM63_gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1070458656/?label=S2tjCKzEvwIQoM63_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<!-- Google Code for Footer From Main Account - 90 days Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1070458656;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "TsykCKTFvwIQoM63_gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1070458656/?label=TsykCKTFvwIQoM63_gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
 
