@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulis.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218232029id_/http%3A//fab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulis.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630011714id_/http%3A//fab.com/privacy) for the most accurate reproduction.*
 
 # Fab.com | daily design for everyone
 
@@ -6,7 +6,7 @@
 
 ##### Privacy Policy
 
-We at Fab, Inc. ("Fab", "we", or "us") know that our users ("you," "your," or "yourself") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the www.fab.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the "Website"), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy. Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Use](http://fab.com/terms/ "Terms of Use").
+We at Fab, Inc. ("Fab," "we," "us," or "our") know that our users ("you," "your," or "yourself") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. _By visiting or using the www.fab.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the "Website"), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy._ Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Use](http://fab.com/terms/ "Terms of Use").
 
   
 
@@ -15,7 +15,7 @@ We at Fab, Inc. ("Fab", "we", or "us") know that our users ("you," "your," or "y
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage, even if you have accessed the websites or services of those companies through our Website.
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our [Terms of Use](http://fab.com/terms/ "Terms of Use")). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@fab.com](mailto:support@fab.com).
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our [Terms of Use](http://fab.com/terms/ "Terms of Use")). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@fab.com](mailto:info@fab.com).
 
   
 
@@ -33,7 +33,8 @@ We may anonymize your Personal Information so that you cannot be individually id
 ##### B. Information Collected Automatically:
 
   * Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or device that allow us to recognize your browser or device and tell us how and when pages in our Website are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your computer’s or device’s acceptance of cookies, but doing so may prevent you from taking advantage of our Website’s best features. Our advertising partners may transmit cookies to your computer or device when you click on ads that appear on our site. This Privacy Policy does not cover cookies delivered to you by any of our advertisers.
-  * When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use such data in aggregate form, in a manner that assures your anonymity. We may provide this aggregate usage information to our partners; our partners may use such information to understand how often and in what ways people use our Website, so that our partners, too, can endeavor to provide you with an optimal online experience.
+  * When we collect usage information (such as the numbers and frequency of visitors to the Website and to which pages within the Website), we only use such data in aggregate form, in a manner that assures your anonymity. We may provide this aggregate usage information to our partners; our partners may use such information to understand how often and in what ways people use our Website, so that our partners, too, can endeavor to provide you with an optimal online experience. For example, we may place a cookie on your device that records what products you have viewed on our Website, and then provide that information, in non-personally-identifiable form, to a third party website, to allow such website to show you ads for similar products that are available from us or from third parties.
+  * We may also deliver a file to you through the Website (known as a "web beacon") from an advertising network we have contracted with. Web beacons allow advertising networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. These beacons may, for example, log that you have viewed a certain product on our Website, and then show you an ad for similar products when you browse to another website. Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site. Many ad networks participate in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards, and such NAI members may allow you to opt-out of cookies or beacons they deliver. Again, we do not control the policies of any third parties, including advertising networks.
 
 
 
@@ -90,14 +91,14 @@ The Website may contain links to other sites. We are not responsible for the pri
 
 Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
 
-  * Name, desired username, and password
+  * name and password
   * email address
   * shipping and billing information
   * user profile information and User Content, including images you have uploaded to the site
 
 
 
-The information you can view and update may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at [support@fab.com](mailto:support@fab.com). 
+The information you can view and update may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at [info@fab.com](mailto:info@fab.com). 
 
   
 
@@ -120,6 +121,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### VIII. QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@fab.com](mailto:support@fab.com). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [info@fab.com](mailto:info@fab.com). We will make every effort to resolve your concerns.
 
 _Effective Date: [May 23, 2011]_
