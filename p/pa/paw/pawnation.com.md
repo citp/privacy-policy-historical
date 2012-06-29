@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pawnation.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118082124id_/http%3A//about.aol.com/aolnetwork/aol_ppp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pawnation.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630012244id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
 # AOL Privacy
 
