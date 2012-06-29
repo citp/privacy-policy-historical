@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workonthesofa.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121225825id_/http%3A//workonthesofa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workonthesofa.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629141829id_/http%3A//workonthesofa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Work On The Sofa
+# Privacy Policy
 
 This privacy policy sets out how Indispensoft ltd uses and protects any information that you give  ****Indispensoft ltd when you use this website.
 
