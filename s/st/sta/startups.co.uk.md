@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213114907id_/http%3A//www.startups.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629201942id_/http%3A//www.startups.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Startups
 
@@ -6,7 +6,7 @@
 
 ##### Crimson Publishing Limited Privacy Policy Statement 
 
-We are startups.co.uk, trading as Crimson Publishing Limited
+We are Startups.co.uk, trading as Crimson Publishing Limited
 
 Our Postal address is:  
 Crimson  
@@ -52,9 +52,96 @@ Data transmission over the Internet is never totally secure and whilst Crimson P
 
 ###### Cookies and other tracking devices 
 
-Cookies are information that are sent to and stored on your computer. They are used to identify you when you visit our sites. Cookies are used to remember passwords, usernames, passwords and your preferences.  
-Crimson Publishing websites may contain advertisements created and provided by third parties. These advertisements may also place Cookies on your computer that collect information about your use of the Internet. Crimson Publishing does not control the collection or use of your information by such advertisers and our privacy policy does not apply to such information.   
-If you wish you can disable Cookies on your Internet browser. For further information about cookies, including how to delete them please visit [www.aboutcookies.org](http://www.aboutcookies.org/)
+Our site is primarily funded by advertising which relies on our use of cookies. By using our site, you consent to our use of cookies.
+
+Cookies are information that are sent to and stored on your computer. They are used to identify you when you visit our sites. Cookies are used to remember passwords, usernames, passwords and your preferences.They are also used to provide us with anonymous statistical information about how our site is used.
+
+If you wish, you can disable Cookies on your Internet browser (Internet Explorer, Firefox, Google Chrome etc) but this will affect all sites that you visit, and could mean that they no longer function for you.Instructions on how to switch cookies off can be found by using the Help option within your browser and searching for “switch off cookies”. Please be aware that you will need to switch off the cookies on every browser you use.For further information about cookies, including how to delete them please visit <http://www.aboutcookies.org/>
+
+###### Cookies in use on this site
+
+Our site is constantly evolving as we add new articles, content and tools to make sure our users find it as valuable as possible.As such, this list will be updated over time, so we suggest you check back regularly.
+
+Our cookies allow you to use our site and provide our advertisers and partners with anonymous reporting information.
+
+** Cookie **
+
+| 
+
+** Description  **  
+  
+---|---  
+  
+Startups ****
+
+| 
+
+These cookies make it possible for you to post in your forums and use your site by prefilling your details where appropriate.  Without these cookies, you will not be able to post in our forums and the site may not work properly for you.   
+  
+Disqus and mediacdn.disqus.com 
+
+| 
+
+Used by our comments management platform, this cookie recognises you and attributes your profile name to your posts.  Without these cookies, you will not be able to comment on our articles.  More information:  [ http://docs.disqus.com/help/30 ](http://docs.disqus.com/help/30)  
+  
+tubemogul.com
+
+| 
+
+This is used by our video player technology, Brightcove, to allow you to use the controls on our video player including play, pause, fast forward and rewind our videos.  Without this cookie you will not be able to watch our videos.  
+  
+emarketing.crimsonbusinessltd.co.uk
+
+| 
+
+This is used by our email newsletter management tool as you register for email promotions.  Without these cookies, you will not be able to sign-up for our email services.   
+  
+Google Analytics 
+
+| 
+
+This provides anonymous tracking of our site traffic to allow us to understand more about how our site is used, and which sections are popular.  In this way, we can monitor and track how to improve what we provide to our readers.  More information is available here:  [ https://www.google.co.uk/intl/en/policies/ ](https://www.google.co.uk/intl/en/policies/)  
+  
+Google Website optimiser
+
+| 
+
+This tool allows us to test different versions of our site automatically so that we can identify improvements that make it easier to use for you.  
+  
+Scorecardresearch.com
+
+| 
+
+Part of the ComScore family, this provides anonymous tracking of site traffic.   [ http://www.scorecardresearch.com/privacy.aspx ](http://www.scorecardresearch.com/privacy.aspx)  
+  
+Quantserve.com
+
+| 
+
+This also provides anonymous tracking of site traffic  [ http://www.quantcast.com/privacy ](http://www.quantcast.com/privacy)  
+  
+Dianomioffers.co.uk
+
+| 
+
+We track which of our reports and guides are of interest to our users using this cookie.  
+  
+Adtech.de
+
+| 
+
+This is our chosen advertisement delivery platform for banner advertisements.  This site is paid for by our advertisers and as such, our funding is based on providing advertisers with solutions with robust and accurate metrics on the performance of their campaigns.  This allows us to keep our site and our content free to use.  All data collected is always anonymous.  Without this technology, we would not be able to operate this site.  
+  
+intellitxt.com 
+
+| 
+
+This powers our in-article encyclopaedia where you highlight specific words and provide an associate advertisement is provided by Vibrant Media.  More information is here: [ http://www.vibrantmedia.com/privacy.asp ](http://www.vibrantmedia.com/privacy.asp)  
+  
+  
+In addition, we also provide a number of tools and content provided by approved third parties.Some of these tools rely on cookies to provide theservice. To find out more about their use of cookies, please refer to our partner’s sites. These cookies are only used when you use the tools, so if you have any concerns, we recommend you do not use the tools.
+
+Crimson Publishing websites may contain advertisements or content created and provided by third parties. These advertisements or content may also place Cookies on your computer. These cookies collect information about your use of the Internet. Crimson Publishing does not control the collection or use of your information by such advertisers and our privacy policy does not apply to such information. Please contact the advertiser directly if you have any concerns. 
 
 Contact Crimson Publishing:  
 Data Controller, Crimson Publishing Ltd  
