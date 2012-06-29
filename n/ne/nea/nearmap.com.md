@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearmap.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231102937id_/http%3A//www.nearmap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearmap.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629211119id_/http%3A//www.nearmap.com/legal/privacy) for the most accurate reproduction.*
 
 # NearMap - Privacy Policy
 
@@ -28,7 +28,7 @@ If you have any questions or comments about this privacy policy, or if you wish 
 
 ### Definition
 
-In this privacy policy, "we", "us" and "our" means NearMap Pty Limited (ABN 16 120 677 250) of PO Box 1926, West Perth, Western Australia 6872, Australia. 
+In this privacy policy, "we", "us" and "our" means NearMap Pty Limited (ABN 16 120 677 250) of PO Box 8130, West Perth, Western Australia 6872, Australia. 
 
 We appreciate that privacy is important to everyone, and we are committed to complying with the National Privacy Principles ( **NPPs** ) which are contained in the Australian Privacy Act 1988 (Cth). 
 
