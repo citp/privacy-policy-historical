@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060211id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629090529id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Athletic Shoes, Running Shoes, Basketball Shoes, Jordan Shoes, Nike Shox, Nike Air Force 1 | FinishLine.com | Customer Service
+# Customer Care | FinishLine.com |
 
 Last Updated: June 25, 2008
 
@@ -35,7 +35,7 @@ We will collect and store personally identifiable information whenever you do th
   7. Complete a survey or product review. On occasion, we may request that you complete a survey. Your participation in any survey is completely voluntary. If you complete a survey, we will use the information you provide to help us enhance our stores, the Site, and the products and services we offer. You may also wish to provide us with a review of a product you have purchased. If you provide us with a review, we will use the information to improve the products we offer and we may elect to anonymously post the review to assist other customers with their purchase decisions.
   8. Enter a contest or sweepstakes. From time to time, you may have the opportunity to enter a contest or sweepstakes that we offer, either on the Site, on your mobile phone or device, or in our stores. In order to enter a contest or sweepstakes, you may be required to provide certain personally identifiable information such as your name, email address, age, photograph, telephone number, mobile number and/or mailing address. We will use this information to notify contest winners of awards and prizes. We may also use the information to let you know about our products, services, special promotions or incentives that may be of interest to you. On occasion, we may join with a select third party to offer a contest or sweepstakes, in which case you may choose whether we may also share the information you provide on your entry form with our co-sponsor so that it can inform you of products or services that may be of interest.
   9. Email To A Friend or Email your Wish List. If you elect to use any "Email To A Friend" or "Email Your Wish List" feature on the Site for informing a friend about the Site or products you are interested in, we will ask for the email address of your friend. We use this information only for the purpose of forwarding the selected item(s) or your Wish List. We do not store this information.
-  10. Contact us with a question or concern. If you contact our customer service center, in order to better serve your needs, a representative will ask you to provide certain personal information like your name, mailing address, telephone number, mobile number, and/or email address.
+  10. Contact us with a question or concern. If you contact our customer care center, in order to better serve your needs, a representative will ask you to provide certain personal information like your name, mailing address, telephone number, mobile number, and/or email address.
 
 
 
@@ -95,9 +95,9 @@ HOW DO I OPT OUT OR CHANGE MY INFORMATION?
 
 You can change your preferences or access and update information in your account profile at the Site available at [www.finishline.com](http://www.finishline.com/) at any time by logging in with your email address and password. Once you have logged in, you can update your name, email, password, and/or change your address and preference to receive marketing information.
 
-We recognize that you may not want to receive offers or other information from Finish Line or its affiliated companies. At any time, you may request to discontinue receiving offers or other promotional information from us by contacting customer service toll-free at 1-888-777-3949. Please be sure to let us know specifically which information you no longer wish to receive. In the case of Finish Line email communications, you may also follow the instructions included in each email in order to discontinue receiving promotional emails from us. Due to production, mailing and system timelines, it may take some time to process your request.
+We recognize that you may not want to receive offers or other information from Finish Line or its affiliated companies. At any time, you may request to discontinue receiving offers or other promotional information from us by contacting customer care toll-free at 1-888-777-3949. Please be sure to let us know specifically which information you no longer wish to receive. In the case of Finish Line email communications, you may also follow the instructions included in each email in order to discontinue receiving promotional emails from us. Due to production, mailing and system timelines, it may take some time to process your request.
 
-Please note that, even if you request not to receive emails from Finish Line, you may still receive emails sent by a friend using "Email To A Friend" or "Email Your Wish List". In addition, we may still use your information to communicate with you for other purposes, such as your orders and purchases, for customer service, or regarding contests or sweepstakes you may have entered.
+Please note that, even if you request not to receive emails from Finish Line, you may still receive emails sent by a friend using "Email To A Friend" or "Email Your Wish List". In addition, we may still use your information to communicate with you for other purposes, such as your orders and purchases, for customer care, or regarding contests or sweepstakes you may have entered.
 
 CHILDREN'S POLICY
 
