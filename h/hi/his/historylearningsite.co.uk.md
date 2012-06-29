@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113005820id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629025718id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-  
-
-
-  
-[](http://www.lyricfinder.org/ "find lyrics by words")   
-  
-
-
-[Online College and University Degree Guide](https://web.archive.org/web/20111113005820id_/http%3A//www.historylearningsite.co.uk/online-college-degree.htm)
-
-  
-| 
+Privacy
 
 Privacy Policy 
 
@@ -50,13 +39,7 @@ We partner with ValueClick Media to serve ads and/or collect certain information
 [http://www.networkadvertising.org  
 ](http://www.networkadvertising.org/ "Opens external link in new window")
 
-  
+  * [History Learning Site](https://web.archive.org/web/20120629025718id_/http%3A//www.historylearningsite.co.uk/index.htm) > 
+  * [Privacy](https://web.archive.org/web/20120629025718id_/http%3A//www.historylearningsite.co.uk/privacy.htm)
 
 
-  
-
-
-|   
-[](http://www.twitter.com/historylearning)  
-  
-© 2000-2011 historylearningsite.co.uk
