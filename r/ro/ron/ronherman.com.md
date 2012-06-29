@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145552id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629055948id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
 
 # Shop Womens & Mens Clothes and Accessories Online from L.A.'s Ron Herman Boutique (www.RonHerman.com)
 
 **Privacy Policy**
 
-At Ron Herman, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Ron Herman. If you have questions or concerns regarding this statement, you should contact us by sending an email to [customer service](https://web.archive.org/web/20111204145552id_/http%3A//www.ronherman.com/8/contact-us.html) . 
+At Ron Herman, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Ron Herman. If you have questions or concerns regarding this statement, you should contact us by sending an email to [customer service](https://web.archive.org/web/20120629055948id_/http%3A//www.ronherman.com/8/contact-us.html) . 
 
 **Information Collection and Use**
 
-Ron Herman collects personally identifiable information when you request information from Ron Herman. On such occasions, Ron Herman asks for your name, email address, zip code and personal information concerning your interests, occupation, gender and other demographic information. Ron Herman also receives and records information from server logs from your browser including cookie information relation to pages requested and the like. This helps us better understand what our customers would like to see from us. We use this information internally regarding what our customers want and mailing of circulars and special offers from Ron Herman. We do not give or sell Personal Information to any other party. If at any time you do not want to receive offers and/or circulars from us. You can always remove yourself from our mailing list by sending an e-mail to [contact us](https://web.archive.org/web/20111204145552id_/http%3A//www.ronherman.com/8/contact-us.html). 
+Ron Herman collects personally identifiable information when you request information from Ron Herman. On such occasions, Ron Herman asks for your name, email address, zip code and personal information concerning your interests, occupation, gender and other demographic information. Ron Herman also receives and records information from server logs from your browser including cookie information relation to pages requested and the like. This helps us better understand what our customers would like to see from us. We use this information internally regarding what our customers want and mailing of circulars and special offers from Ron Herman. We do not give or sell Personal Information to any other party. If at any time you do not want to receive offers and/or circulars from us. You can always remove yourself from our mailing list by sending an e-mail to [contact us](https://web.archive.org/web/20120629055948id_/http%3A//www.ronherman.com/8/contact-us.html). 
 
 **Protecting Children**
 
@@ -16,7 +16,7 @@ Ron Herman is committed to protecting the privacy of children. Ron Herman recomm
 
 **Opt-out Email policy**
 
-We ask that you tell us when you do not wish to receive periodic emails from us. We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us. If at any time you wish to stop receiving email from us, you can always remove your name from our mailing list by sending an email to [contact us](https://web.archive.org/web/20111204145552id_/http%3A//www.ronherman.com/8/contact-us.html) stating that you wish to unsubscribe. 
+We ask that you tell us when you do not wish to receive periodic emails from us. We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us. If at any time you wish to stop receiving email from us, you can always remove your name from our mailing list by sending an email to [contact us](https://web.archive.org/web/20120629055948id_/http%3A//www.ronherman.com/8/contact-us.html) stating that you wish to unsubscribe. 
 
 **Use of Cookies**
 
