@@ -1,21 +1,55 @@
-> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204004818id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
+|   | 
+
+Dancing Physicist Talk  
+
+  * [Man and Woman ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/man_and_woman/dive_into_love.html)
+  * [The Science of Awareness](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/science_awareness/Does_meditation_need_methods.html)
+  * [ The Power of Mind](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/power_mind/Mind_computer.html)
+  * [Find Yourself](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/find_yourself/Grass_greener.html)
+  * [Two-Dimensional Science ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/two_dimensions/Abundance_both_worlds.html)
+  * [Dive Into Life ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/dive_life/Perfect_imperfect_life.html)
+  * [The Phenomenon of Emotions](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/emotions/Dive_into_anger.html)
+  * [Start From Physical Body](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/physical_body/Allow_nature_flow.html)[  
+](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/main.html)[   
+](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/main.html)
+
+
+
+Products & Services 
+
+  * [The Science of Success ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/Dimension_success/main.html)
+  * [Personal Success ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/365_personal/main.html)
+  * [Professional Success](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/365_professionals/main.html)
+  * [ Business Success ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/365_business/main.html)
+  * [365 Celebrations](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/celebrations/main.html)
+  * [The Dancing Physicist System](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/system/main.html)
+  * [Order](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/products.html)
+
+
+
+|   
+---  
+  
+|   
+---  
+   
+  
 **Privacy Policy**  
 
 
-(Last updated February 01, 2010)
+(Last updated November 01, 2011)
 
-Oleg Moskvine ("the Author") cares about the privacy of each user of the Author's web site.   
-The following provisions explain how the Author handles personal information.
+Oleg Moskvine ("the Author") cares about the privacy of each user of the Author's web site. The following provisions explain how the Author handles personal information.
 
 This Privacy Policy consists of several principles to protect and manage your (the customer's) personal information. This policy does not apply to the practices of companies that the Author does not own or control or to people that the Author does not employ or manage.
 
 Identifying the Purpose of Personal Information: 
 
-When you use this web site some basic information is collected.  
-The web site collects, at time of your registration and your sign-on to the web site, certain "personal information" that you voluntarily give the Author (information that personally identifies you) such as your name, email address, home or work address, telephone number.
+When you use this web site some basic information is collected. The web site collects, at time of your registration and your sign-on to the web site, certain "personal information" that you voluntarily give the Author (information that personally identifies you) such as your name, email address, home or work address, telephone number.
 
 The Author's web sites may automatically receive and record basic general non personally-identifiable information from your browser including IP address, browser type, access times, and page you requested for the limited purposes to compile statistics to improve the Author's web sites and make your use of the Author's web sites efficient 
 
@@ -29,8 +63,7 @@ Consent for Collection, Use or Disclosure
 
 The Author does not collect personal information without an individual's consent. 
 
-The Author makes every reasonable effort to make sure that an individual understands how her or his personal information will be used.   
-Registration for the the Author's web sites and the Author's services and products by a customer will constitute the customer's consent for the Author's web sites to collect, use and disclose personal information under this Privacy Policy. 
+The Author makes every reasonable effort to make sure that an individual understands how her or his personal information will be used. Registration for the the Author's web sites and the Author's services and products by a customer will constitute the customer's consent for the Author's web sites to collect, use and disclose personal information under this Privacy Policy. 
 
 The Author will normally seek a customer's consent for any new uses and disclosures of the customer's personal information, either at the same time it collects the personal information or after it has been collected but before it is used or disclosed for a new purpose. An individual may withdraw such consent for collection, use and disclosure at any time, on prior written notice.
 
@@ -72,7 +105,6 @@ The Author reserves the right to change and update this Policy from time to time
 
 Your continued use of the Author's web sites following the posting of changes to these terms will mean you accept those changes.
 
-**Copyright © Oleg Moskvine, 2010-2011. All Rights Reserved.**
+**Copyright © Oleg Moskvine, 2010-2012. All Rights Reserved.**
 
-[Home](https://web.archive.org/web/20111204004818id_/http%3A//www.365celebrations.com/index.htm)  
-
+| 
