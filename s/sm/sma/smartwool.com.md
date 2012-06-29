@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwool.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202073755id_/http%3A//www.smartwool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwool.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232856id_/http%3A//www.smartwool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -113,7 +113,7 @@ PO Box 774928
 3495 Airport Circle  
 Steamboat Springs, CO 80487
 
-800-550-9665
+888-879-9665
 
 customerservice@smartwool.com, [onlineservice@timberland.com](mailto:onlineservice@timberland.com)
 
