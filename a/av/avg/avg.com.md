@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avg.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231113730id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avg.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629023758id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
 
-# AVG - Privacy Policy
+# AVG | Privacy Policy
 
 ## Commitment to Privacy
 
@@ -8,7 +8,7 @@ As a security software producer, AVG Technologies knows that you care about how 
 
 ## What Information Does AVG Technologies Collect? 
 
-The type of information that we collect and retain depends upon your interaction with our Site. Here is a short overview of the two main types of interactions.
+The type of information that we collect and retain depends upon your interaction with our Site and/or our products. Here is a short overview of the two main types of interactions.
 
 ## Information You Give Us.
 
@@ -21,7 +21,7 @@ We collect the personally identifiable information you provide to us on our Site
 
 
 
-Our products can collect information about your PC, about files or applications you have and sites you have accessed when they identify threats or potential threats. This information, with your consent is transmitted back to AVG. It is possible that on rare occasions this may provide personal information. Be assured we a) never use this data for anything and b) as soon as we identify it as personal information, we seek to delete it from our systems as quickly as possible.
+Our products can collect information about your PC or other applicable device, about files or applications you have and sites you have accessed when they identify threats or potential threats. This information, with your consent is transmitted back to AVG. It is possible that on rare occasions this may provide personal information. Be assured we a) never use this data for anything and b) as soon as we identify it as personal information, we seek to delete it from our systems as quickly as possible.
 
 You have the final decision on whether to proceed with any activity that requests personal information.
 
@@ -34,7 +34,8 @@ When you interact with AVG Technologies products or Sites we may maintain a reco
   * The name of the file or the words you search, and the browser you use to access our website.
   * Information about malicious applications, files and other potential threats on your computer, their behavior and origin
   * Files and the content of files that contain threats or potential threats
-  * Information about your PC and the types and number of files and programs so that, where appropriate, AVG can suggest other products or services, including third party products and services, that you may find useful
+  * Information about your PC or other applicable device and the types and number of files and programs so that, where appropriate, AVG can suggest other products or services, including third party products and services, that you may find useful
+  * On mobiles, the serial numbers of SIM cards and the phone itself and the mobile network you use but not the phone number. And, if you have enabled the anti-theft feature, we will collect the phones most recent location – this is only used for the purpose of locating your phone. 
 
 
 
@@ -42,11 +43,7 @@ The information collected and stored automatically by our Site is used to measur
 
 ## Do We Use Cookies?
 
-_“Cookies”_ are small pieces of unique information, sent by a website, that are stored on your computer’s hard drive by your web browser. Cookies enable a website to tailor information presented to you based on your browsing preferences. AVG Technologies uses cookies to personalize your pages at our Site, when you seek service & support or to remember you when you register for products or services.
-
-AVG Technologies may also use cookies to track your visit to our Site. While our web servers may automatically log your IP address, the type of information we collect pertains to how you navigate, browse and purchase on our Site.
-
-If you do not want us to store this information the _“Help”_ facility on your browser will tell you how to prevent your browser from accepting new cookies or notify you when you receive a new cookie or how to disable cookies altogether. However, rejecting cookies may affect your ability to use some of the products and/or services at our Site.
+You can find comprehensive information on how AVG’s website uses cookies [here](http://www.avg.com/us-en/cookies)
 
 ## How Do We Use the Information We Collect? 
 
@@ -100,7 +97,7 @@ If you have provided personal information to AVG Technologies you may ask us to 
 
 ## AVG Update Bulletin and Other Communications
 
-Some AVG products enable AVG to transmit product and important service messages to your PC when you are connected to the AVG Server.
+Some AVG products enable AVG to transmit product and important service messages to your PC or other applicable device when you are connected to the AVG Server.
 
 If you do not wish to continue receiving our e-mail newsletters, bulletins, or other information from AVG Technologies, you can opt-out at any time by responding to any e-mail you receive from us and writing the word “unsubscribe” in the subject line of the response. Please be aware that our e-mails may include important or useful information about your product, including information about your License Number or the status of your orders or accounts.
 
@@ -122,4 +119,6 @@ If you have any questions or suggestions regarding our Privacy Policy, please em
 
 This website is maintained by AVG Technologies CZ, s.r.o. in Brno, the Czech Republic. AVG Technologies CZ, s.r.o. is a data collector. End user data may be considered personal information pursuant to the Czech Act no. 101/2000 Coll., on the protection of personal information, as amended, or under any other applicable relevant legislation.
 
-Last Updated 27 October 2010
+[Fair Processing Notice](http://www.avg.com/us-en/fpn)
+
+Last Updated 4 June 2012
