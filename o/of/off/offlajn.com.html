@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the offlajn.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228205636id_/http%3A//offlajn.com/common-content/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the offlajn.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629025244id_/http%3A//offlajn.com/common-content/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" class="dj_webkit dj_chrome dj_contentbox"><head>
 <script src="/templates/offlajn/js/dojo.js"></script>
@@ -14,29 +14,42 @@
   
   <title>Privacy Policy | Common content</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="http://offlajn.com//cache/mod_universal_ajaxlivesearch_theme/53/style.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_universal_ajaxlivesearch/cache/53/e342e2f8e19355f2f7d4a6ba9fd7697d.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_offlajn_login/style/login.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_virtuemart_cart/style/cart.css" type="text/css">
-  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
-  <script type="text/javascript" src="/modules/mod_universal_ajaxlivesearch/engine/engine.js"></script>
+  <script type="text/javascript" src="/modules/mod_universal_ajaxlivesearch/cache/53/af28c05556856a3e62a09ea57a58321c.js"></script>
   <script type="text/javascript" src="/modules/mod_offlajn_login/script/login.js"></script>
   <script type="text/javascript" src="/modules/mod_virtuemart_cart/script/cart.js"></script>
   <script type="text/javascript">
 
   dojo.addOnLoad(function(){
-      var ajaxSearch = new AJAXSearch({
-        node : dojo.byId('offlajn-ajax-search'),
+      new AJAXSearchelegant({
+        id : '53',
+        node : dojo.byId('offlajn-ajax-search53'),
+        searchForm : dojo.byId('search-form53'),
+        textBox : dojo.byId('search-area53'),
+        searchButton : dojo.byId('ajax-search-button53'),
+        closeButton : dojo.byId('search-area-close53'),
+        searchCategories : dojo.byId('search-categories53'),
         productsPerPlugin : 3,
-        searchRsWidth : 250,
-        resultElementHeight : 66,
+        searchRsWidth : 245,
         minChars : 2,
         searchBoxCaption : 'Search...',
         noResultsTitle : 'Results(0)',
         noResults : 'No results found for the keyword!',
-        searchFormUrl : 'http://offlajn.com/index2.php',
+        searchFormUrl : '/index2.php',
         enableScroll : '1',
-        showIntroText: '1'
+        showIntroText: '1',
+        scount: '10',
+        stext: 'No results found. Did you mean?',
+        moduleId : '53',
+        resultAlign : '1',
+        targetsearch: '0',
+        linktarget: '0',
+        keypressWait: '500',
+        catChooser : 1
       })
     });
   </script>
@@ -101,8 +114,8 @@
 			<input type="hidden" name="option" value="com_user">
 			<input type="hidden" name="task" value="login">
 			<input type="hidden" name="return" value="Lw==">
-						<input type="hidden" name="token" value="8c63a64bddafb3a16ed8d81a54bcfb74">
-			<input type="hidden" name="8c63a64bddafb3a16ed8d81a54bcfb74" value="1">
+						<input type="hidden" name="token" value="6656001991b05d483e14cab7490ed3d6">
+			<input type="hidden" name="6656001991b05d483e14cab7490ed3d6" value="1">
 			</div>
 		</form>
 					<ul><li><a href="/loginregister.html" onclick="return false;"><span id="login-button">Login</span></a></li></ul>
@@ -129,16 +142,26 @@
           </div>
           <div id="search">
                       
-<div id="offlajn-ajax-search">
-  <form id="search-form" action="http://offlajn.com/index2.php?option=com_universal_ajax_live_search" method="get" onsubmit="return false;">
-    <div>
-      <input type="text" name="keyword" id="search-area" value="" autocomplete="off">
-      <div id="search-area-close"></div>
-      <div id="ajax-search-button"><div class="magnifier"></div></div>
+<div id="offlajn-ajax-search53">
+  <div class="offlajn-ajax-search-container">
+  <form id="search-form53" action="/search.html" method="get" onsubmit="return false;">
+    <div class="offlajn-ajax-search-inner">
+    <div class="category-chooser"><div class="arrow"></div></div>            <input type="text" name="searchword" id="search-area53" value="" autocomplete="off">
+        <input type="hidden" name="option" value="com_search">
+              <div id="search-area-close53"></div>
+      <div id="ajax-search-button53"><div class="magnifier"></div></div>
       <div class="ajax-clear"></div>
     </div>
   </form>
-</div>             
+  <div class="ajax-clear"></div>
+  </div>
+        <div id="search-categories53">
+      <div class="search-categories-inner">
+        <div id="search-category-49" class="selected">Extensions</div><div id="search-category-61" class="selected">Knowledgebase</div><div id="search-category-45" class="selected">Blog Posts</div><div id="search-category-55" class="selected last">Free downloads</div>      </div>
+    </div>
+    </div>
+<div class="ajax-clear"></div>
+ 
           </div>
           <div class="clear"> </div>
         </div>
@@ -146,7 +169,7 @@
         <div class="content-wrapper">
                     
           					          <div id="main-column" class="full-width">
-            
+            <div id="WWMainPage">
 <table class="contentpaneopen">
 
 
@@ -275,7 +298,7 @@
 
 </tbody></table>
 <span class="article_separator">&nbsp;</span>
-
+</div>
                       </div>
                     <div class="clear"> </div>
         </div>
@@ -298,7 +321,7 @@
         <div id="footer-mid" class="footer">
           <div class="footer-mid-container">
             <h5>Quick <span class="end">Links</span></h5>
-            <ul class="menu"><li class="item8"><a href="http://offlajn.com/"><span>Offlajn Store - Professional Joomla extensions</span></a></li><li class="item1"><a href="/common-content/about-us.html"><span>About</span></a></li><li class="item3"><a href="/blog/latest.html"><span>Blog</span></a></li><li class="item4"><a href="/support.html"><span>Support</span></a></li><li class="item12"><a href="/references.html"><span>References</span></a></li><li class="item5"><a href="/products.html"><span>Products</span></a></li><li class="item6"><a href="http://master.demo.offlajn.com/demo.html"><span>Demo</span></a></li></ul><ul class="menu"><li id="current" class="active item13"><a href="/common-content/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item14"><a href="/common-content/terms-a-conditions.html"><span>Terms &amp; Conditions</span></a></li><li class="item19"><a href="/common-content/help.html"><span>Need some help?</span></a></li><li class="item16"><a href="/support.html"><span>Contact Us</span></a></li></ul>
+            <ul class="menu"><li class="item8"><a href="http://offlajn.com/"><span>Offlajn Store - Professional Joomla extensions</span></a></li><li class="item1"><a href="/common-content/about-us.html"><span>About</span></a></li><li class="item3"><a href="/blog/latest.html"><span>Blog</span></a></li><li class="item4"><a href="/support.html"><span>Support</span></a></li><li class="item12"><a href="/references.html"><span>References</span></a></li><li class="item5"><a href="/products.html"><span>Products</span></a></li><li class="item6"><a href="http://master.demo.offlajn.com/demo.html"><span>Demo</span></a></li></ul><ul class="menu"><li id="current" class="active item13"><a href="/common-content/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item14"><a href="/common-content/terms-a-conditions.html"><span>Terms &amp; Conditions</span></a></li><li class="item19"><a href="/common-content/help.html"><span>Need some help?</span></a></li><li class="item16"><a href="/contact-us.html"><span>Contact Us</span></a></li></ul>
           </div>
         </div>
         <div class="footer-separator"></div>
