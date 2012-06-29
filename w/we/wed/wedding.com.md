@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wedding.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123202814id_/http%3A//www.wedding.com/main.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629054156id_/http%3A//www.wedding.com/privacypolicy) for the most accurate reproduction.*
 
-# Wedding.com - Privacy
+# Privacy Policy - Wedding.com
 
 At Wedding.com, we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to write to our Webmaster at [support@wedding.com](mailto:support@wedding.com). This Privacy Policy applies to information collected through this website for both couples and wedding vendors. Wedding.com may update this policy from time to time. Please check our policy periodically for changes. Your use of this website, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law.
 
