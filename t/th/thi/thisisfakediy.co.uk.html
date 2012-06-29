@@ -1,177 +1,87 @@
-<!--The following is the downloaded HTML source of the thisisfakediy.co.uk privacy policy that was archived on 2011-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602064101id_/http%3A//www.thisisfakediy.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thisisfakediy.co.uk privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629222917id_/http%3A//www.thisisfakediy.co.uk/terms) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Privacy Policy | DIY</title>
+<!DOCTYPE html><html><head>
+<title>Terms &amp; Conditions / Privacy Policy | DIY</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Useful information for users of the This Is Fake DIY site.">
-<meta property="fb:app_id" content="198314006859818">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:site_name" content="This Is Fake DIY">
-<meta property="og:image" content="http://www.thisisfakediy.co.uk/images/logo.png">
-<link rel="stylesheet" type="text/css" href="/automin/reset-min.css">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.thisisfakediy.co.uk/?css=3/style.v.1306660982">
-
-
-
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
-
-<meta name="google-site-verification" content="wEhGbFsaUlTXf0kskosOjTL3F6kHxY9DsE14m8j2iJM">
-
-<link rel="alternate" type="application/rss+xml" title="DIY RSS Feed" href="/feeds/all">
-
-<!--[if lte IE 6]>
-	<script type="text/javascript" src="/scripts/supersleight-min.js"></script>
+<meta name="description" content="Useful info for users of DIY...">
+<meta name="google-site-verification" content="JJth3fJ7UORxSDjJ8xgBPa2pL-6eVGg3ZTbrn7NNwB8">
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/reset/reset-min.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.thisisfakediy.co.uk/?css=2012/style.v.1340959917">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.thisisfakediy.co.uk/?css=2012/ie.v.1333450408" />
 <![endif]-->
 
-<script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-
-
-
-
-<script src="/automin/a2719a1f62855eccd644420e850e215e.js" type="text/javascript"></script>
-		<script type="text/javascript">
-	
-		var theInt = null;
-		var $crosslink, $navthumb;
-		var curclicked = 0;
-		
-		theInterval = function(cur){
-			clearInterval(theInt);
-			
-			if( typeof cur != 'undefined' )
-				curclicked = cur;
-			
-			$crosslink.removeClass("active-thumb");
-			$navthumb.eq(curclicked).parent().addClass("active-thumb");
-				$(".stripNav ul li a").eq(curclicked).trigger('click');
-			
-			theInt = setInterval(function(){
-				$crosslink.removeClass("active-thumb");
-				$navthumb.eq(curclicked).parent().addClass("active-thumb");
-				$(".stripNav ul li a").eq(curclicked).trigger('click');
-				curclicked++;
-				if( 6 == curclicked )
-					curclicked = 0;
-				
-			}, 5000);
-		};
-		
-		$(function(){
-			
-			$("#main-photo-slider").codaSlider();
-			
-			$navthumb = $(".nav-thumb");
-			$crosslink = $(".cross-link");
-			
-			$navthumb
-			.click(function() {
-				var $this = $(this);
-				theInterval($this.parent().attr('href').slice(1) - 1);
-				return false;
-			});
-			
-			theInterval();
-		});
-	 
-</script>  
-
-
-
-
-
-
-<script type="text/javascript" src="/script.js"></script>
-</head>
-<body>
-
-<div id="wrapper">
-<div id="topblack">
-<div class="titleleft">Go to:</div>
-<div class="linksleft">DIY</div>
-<div class="linksleftlast"><a href="http://www.thisisfakediyrecords.co.uk">DIY Records</a></div>
-
-<div class="linksrightfirst"><form method="post" action="http://www.mailm.co.uk/15/form.php?form=5" id="frmSS5" onsubmit="return CheckForm5(this);">
-	<input type="text" name="email" value="" class="email"><input type="hidden" name="format" value="h"><input type="submit" class="submit" value="Go">
-</form>
+<script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+<script type="text/javascript" src="/index.php/2012/jquery.nivo.slider.pack.js"></script>
 
 <script type="text/javascript">
-// <![CDATA[
+$(window).load(function() {
+	$('#slider').nivoSlider({
+		effect: 'fade',
+		animSpeed: 500,
+		pauseTime: 7000,
+    	controlNavThumbs: true,
+    	controlNavThumbsFromRel: true,
+    	captionOpacity: 1
+	});
+});
 
-			function CheckMultiple5(frm, name) {
-				for (var i=0; i < frm.length; i++)
-				{
-					fldObj = frm.elements[i];
-					fldId = fldObj.id;
-					if (fldId) {
-						var fieldnamecheck=fldObj.id.indexOf(name);
-						if (fieldnamecheck != -1) {
-							if (fldObj.checked) {
-								return true;
-							}
-						}
-					}
-				}
-				return false;
-			}
-		function CheckForm5(f) {
-			var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
-			if (!email_re.test(f.email.value)) {
-				alert("Please enter your email address.");
-				f.email.focus();
-				return false;
-			}
-		
-				return true;
-			}
-		
-// ]]>
 </script>
-</div>
-<div class="titleright">Newsletter:</div>
-<div class="clear"></div>
-</div>
-<div id="header">
-<div id="logo"><a href="/"><span>This Is Fake DIY - Music news, album, single and live reviews, music videos, artist interviews and features.</span></a></div>
-<div id="banner-menu">
-<div id="banner"><!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: ThisisFakeDiy // Page: RUN OF SITE // Placement: Run of Site leader (3155535) // created at: Apr 8, 2011 2:08:32 PM-->
-<script language="javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
+
+
+
+
+
+
+<meta property="og:title" content="Terms &amp; Conditions / Privacy Policy">
+ 
+    <meta property="og:url" content="http://www.thisisfakediy.co.uk/terms">
+   
+    <meta property="og:site_name" content="DIY">
+    <meta property="og:description" content="Useful info for users of DIY...">
+
+<meta property="fb:app_id" content="198314006859818">
+
+
+</head>
+
+<body>
+
+
+<!-- Start of Woopra Code -->
+<script type="text/javascript">
+function woopraReady(tracker) {
+    tracker.setDomain('thisisfakediy.co.uk');
+    tracker.setIdleTimeout(3600000);
+    tracker.track();
+    return false;
 }
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155535|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=diy+privacy;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155535|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=diy+privacy;grp=514;misc=1580447046267"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|3155535|0|1|ADTECH;loc=300;key=diy+privacy" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|3155535|0|1|ADTECH;cookie=info;loc=300;key=diy+privacy" border="0" width="468" height="60"></a></noscript>
-<!-- End of JavaScript Tag -->
-</div>
+(function() {
+    var wsc = document.createElement('script');
+    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+    wsc.type = 'text/javascript';
+    wsc.async = true;
+    var ssc = document.getElementsByTagName('script')[0];
+    ssc.parentNode.insertBefore(wsc, ssc);
+})();
+</script>
+<!-- End of Woopra Code -->
 
-<div id="searchnew">
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "Z/oHe1aoim00Gb", domain:"thisisfakediy.co.uk"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Z/oHe1aoim00Gb" style="display:none" height="1" width="1" alt="" /></noscript>
 
-<div id="newsletter">
-<ul id="follow">
-<li>Follow DIY on</li>
-<li class="icon"><a href="http://www.twitter.com/thisisfakediy"><img src="/images/uploads/twittertop.png" border="0" height="16px" style="margin-top:4px;"></a></li>
-<li class="icon"><a href="http://www.facebook.com/thisisfakediy"><img src="/images/uploads/facebook.png" border="0" height="16px" style="margin-top:4px;"></a></li>
-<li class="icon"><a href="http://www.last.fm/group/This+Is+Fake+DIY"><img src="/images/uploads/lastfm.png" border="0" height="16px" style="margin-top:4px;"></a></li>
-<li class="icon"><a href="http://www.myspace.com/thisisfakediy"><img src="/images/uploads/myspace.png" border="0" height="16px" style="margin-top:4px;"></a></li>
-<li class="icon"><a href="http://thisisfakediy.tumblr.com"><img src="/images/uploads/tumblr.png" border="0" height="16px" style="margin-top:4px;"></a></li>
-<li class="iconlast"><a href="http://www.soundcloud.com/thisisfakediy"><img src="/images/uploads/soundcloud_32.png" border="0" height="16px" style="margin-top:4px;"></a></li>
-
-</ul>
-</div>
-
-
-<div id="searchbox">
-<form method="post" action="http://www.thisisfakediy.co.uk/">
+<div id="bar"><div id="bar-inside">
+<div id="subtitle"><h5>Music, Style &amp; Culture</h5>  |  Print : Web : Radio : Mobile</div>
+<div id="search"><form method="post" action="http://www.thisisfakediy.co.uk/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="19">
 <input type="hidden" name="XID" value="">
 <input type="hidden" name="RP" value="search">
-<input type="hidden" name="NRP" value="">
+<input type="hidden" name="NRP" value="search&amp;#47;noresults">
 <input type="hidden" name="RES" value="">
 <input type="hidden" name="status" value="">
-<input type="hidden" name="weblog" value="news|features|interviews|first-on|trackbytrack|soundtracks|photos|competitions|albums|tracks|live|eps|tv|videos|downloads|film|games|blogs|sessions">
+<input type="hidden" name="weblog" value="news|features|trackbytrack|soundtrack|interviews|sessions|first-on|albums|tracks|live|eps|photos|tv|film|games|blogs|extra|television">
 <input type="hidden" name="search_in" value="">
 <input type="hidden" name="where" value="all">
 <input type="hidden" name="show_future_entries" value="no">
@@ -179,67 +89,86 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 </div>
 
 
-<input type="text" name="keywords" id="keywords" value="Search DIY..." class="search-box" onfocus="this.value=''">
+<label for="keywords">Search:</label>
+<input type="text" name="keywords" id="keywords" value="" class="search-box" onfocus="this.value=''">
 <input type="submit" value="Go" class="submit">
-</form>
+</form></div>
+<div class="clear"></div>
+</div></div>
+
+
+
+
+<div id="takeover-extra">
+<!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: ThisisFakeDiy // Page: TAKEOVER // Placement: 1x1 takeover add on DIY (3860278) // created at: May 23, 2012 11:15:23 AM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3860278|0|16|ADTECH;cookie=info;loc=100;target=_blank;key=diy+terms;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3860278|0|16|ADTECH;cookie=info;loc=100;target=_blank;key=diy+terms;grp=847;misc=1580447047272"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|3860278|0|16|ADTECH;loc=300;key=diy+terms" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|3860278|0|16|ADTECH;cookie=info;loc=300;key=diy+terms" border="0" width="1" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>
+
+<div id="wrapper">
+<div id="header">
+<div id="logo"><a href="/"><span></span></a></div>
+<div id="banner-subscribe">
+<div id="seventwoeight">
+
+<!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: ThisisFakeDiy // Page: RUN OF SITE // Placement: Run of Site leader (3155535) // created at: Apr 8, 2011 2:08:32 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155535|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=diy+terms;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155535|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=diy+terms;grp=847;misc=1580447047275"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|3155535|0|1|ADTECH;loc=300;key=diy+terms" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|3155535|0|1|ADTECH;cookie=info;loc=300;key=diy+terms" border="0" width="468" height="60"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+
+</div>
+<div id="subscribe">
+<ul>
+<li><span class="arrow"></span><a href="/magazine/stockists">Find DIY Stockists</a></li>
+<li><span class="arrow"></span><a href="http://shop.thisisfakediy.co.uk/product/diy-12-month-subscription-united-kingdom">Subscribe To DIY</a></li>
+<li><span class="arrow"></span><a href="http://shop.thisisfakediy.co.uk/magazines">Back Issues</a></li>
+<li><span class="arrow"></span><a href="http://shop.thisisfakediy.co.uk">DIY Shop</a></li>
+<li><span class="arrow"></span><a href="/info">Contact DIY</a></li>
+</ul>
+</div>
 </div>
 <div class="clear"></div>
 </div>
 
-<ul id="subs">
-<li><img src="/images/uploads/arrow_right.png" style="margin-right:3px;" valign="bottom"><a href="/magazine/stockists">Stockists</a></li>
-<li><img src="/images/uploads/arrow_right.png" style="margin-right:3px;" valign="bottom"><a href="http://www.thisisfakediyrecords.co.uk">DIY Records</a></li>
-<li><img src="/images/uploads/arrow_right.png" style="margin-right:3px;" valign="bottom"><a href="http://shop.thisisfakediy.co.uk">DIY Records Shop</a></li>
-<li><img src="/images/uploads/arrow_right.png" style="margin-right:3px;" valign="bottom"><a href="http://www.thisisfakediy.co.uk/info/#advertising">Advertise On DIY</a></li>
-</ul>
-
-</div>
-
-
+<ul id="menu">
+<li class="bold"><a href="/">Home</a></li>
+<li><a href="/news">News</a></li>
+<li><a href="/features">Features</a></li>
+<li><a href="/blogs">Blogs</a></li>
+<li><a href="/first-on">First On</a></li>
+<li><a href="/reviews">Reviews</a></li>
+<li><a href="/photos">Photos</a></li>
+<li class="bold"><a href="/radio">DIY Radio</a></li>
+<li class="bold"><a href="/tv">DIY TV</a></li>
+<li class="bold"><a href="/events">DIY Presents</a></li>
+<li class="bold"><a href="/magazine">Magazine</a></li>
+<li class="black"><a href="/extra">Extra</a></li>
+<li class="black"><a href="/television">TV</a></li>
+<li class="black"><a href="/games">Games</a></li>
+<li class="black"><a href="/film">Film</a></li>
 <div class="clear"></div>
-
-<div id="newmenu">
-<div id="menutoplevel">
-<ul id="menunew">
-<li><a href="/"><img src="/images/uploads/home-icon-white.png" border="0" style="margin-top:8px;"></a></li> 
-<li><a href="/news">News</a></li> 
-<li><a href="/reviews">Reviews</a></li> 
-<li><a href="/features">Features</a></li> 
-<li><a href="/first-on">First On</a></li> 
-<li><a href="/photos">Photos</a></li> 
-<li><a href="/audio">Audio</a></li>
-<li><a href="/videos">Videos</a></li> 
-<li><a href="/sessions">Sessions</a></li>
-<li><a href="/film">Film</a></li>
-<li><a href="/television">TV</a></li>  
-<li><a href="/games">Games</a></li> 
-<li><a href="/extra">Extra</a></li>
-<li><a href="/magazine">Magazine</a></li> 
 </ul>
-</div>
-<div id="menubottomlevel">
-<ul id="menunewbottom">
-<li><a href="/festivals">Festivals 2011</a></li> 
-<li><a href="/releases">Release Schedule</a></li>
-<li><a href="/guide">Gig Guide</a></li> 
-<li><a href="http://itunes.apple.com/gb/app/diy/id318902033?mt=8" target="_blank">DIY iPhone App</a></li> 
-<li><a href="/mixtape">Free Mixtapes</a></li> 
-</ul>
-</div>
-</div>
-
-
-
-</div>
-
-
-
 <div id="main">
 
-<div id="left">
 <div id="content">
-<h1>Privacy Policy</h1>
-<b>We are committed to protecting your privacy.</b><br>We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. <br><br>
+<div id="left">
+<h1>Terms &amp; Conditions / Privacy Policy</h1>
+<div id="meta"></div>
+<span class="body"><b>We are committed to protecting your privacy.</b><br>We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. <br><br>
 <b>Information Collected</b><br>
 We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, and email address, together with data about your use of the website.  Other information that may be needed from time to time to process a request may also be collected as indicated on the website.<br><br>
 <b>Information Use</b><br>
@@ -249,120 +178,119 @@ Your Internet browser has the in-built facility for storing small files- "cookie
 <b>Disclosing Information</b><br>
 We do not disclose any personal information obtained about you from this website to third parties unless you permit us to do so by ticking the relevant boxes in registration or competition forms. We may also use the information to keep in contact with you and inform you of developments associated with us. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. <br><br>
 We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. <br><br>
+In addition DIY may work with third parties for the purpose of delivering targeted behavioural advertising to the DIY websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you. For more information on online behavioural advertising and about how to turn this feature off, please visit http://www.youronlinechoices.com/opt-out.<br><br>
 <b>Changes to this Policy</b><br>
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.<br><br>
 <b>Contacting Us</b><br>
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at <a href="mailto:editor@thisisfakediy.co.uk">editor@thisisfakediy.co.uk</a>. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
-</div>
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at <a href="mailto:editor@thisisfakediy.co.uk">editor@thisisfakediy.co.uk</a>. You can also correct any factual errors in that information or require us to remove your details form any list under our control.</span>
 
 </div>
-
 
 <div id="right">
 
-<div class="mpu" style="margin-bottom:20px;"> 
+<div class="sidebar-black">
+ 
+<h3>DIY Radio <span>Now Playing</span></h3><ul class="list-image-black">
+<li class="last">
+<img src="/images/uploads/diyradio.jpg" title="DIY Jukebox" alt="DIY Jukebox" class="shadowimage">
+<h4 style="line-height:14px;"><a href="javascript: void(0)" onclick="window.open('/radio/player/', 
+  'windowname2', 
+  'width=400, \
+   height=375, \
+   directories=no, \
+   location=no, \
+   menubar=no, \
+   resizable=no, \
+   scrollbars=0, \
+   status=no, \
+   toolbar=no'); 
+  return false;" id="cc_stream_info_song">Loading...</a></h4>
+<h5 class="button"><a href="javascript: void(0)" onclick="window.open('/radio/player/', 
+  'windowname2', 
+  'width=400, \
+   height=375, \
+   directories=no, \
+   location=no, \
+   menubar=no, \
+   resizable=no, \
+   scrollbars=0, \
+   status=no, \
+   toolbar=no'); 
+  return false;">Listen Now</a></h5><h5 class="button"><a href="/radio">More Info</a></h5></li></ul>
+
+
+
+
+</div>
+
+<div class="sidebar">
 <!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: ThisisFakeDiy // Page: RUN OF SITE // Placement: Run of Site top MPU (3155537) // created at: Apr 8, 2011 2:08:32 PM-->
 <script language="javascript">
 <!--
 if (window.adgroupid == undefined) {
 	window.adgroupid = Math.round(Math.random() * 1000);
 }
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=diy+privacy;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=diy+terms;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=diy+privacy;grp=514;misc=1580447046283"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|3155537|0|170|ADTECH;loc=300;key=diy+privacy" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=300;key=diy+privacy" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=diy+terms;grp=847;misc=1580447047278"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|3155537|0|170|ADTECH;loc=300;key=diy+terms" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=300;key=diy+terms" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag -->
 
 
-</div> 
-
-<div class="sidebar" style="margin-bottom:20px;">
-<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fthisisfakediy&amp;width=300&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:62px;" allowtransparency="true"></iframe>
-<iframe src="http://www.facebook.com/plugins/activity.php?site=thisisfakediy.co.uk&amp;width=300&amp;height=250&amp;header=false&amp;colorscheme=dark&amp;font&amp;border_color=%23111111&amp;recommendations=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowtransparency="true"></iframe>
 </div>
 
+<div class="sidebar">
+<h3><span>Elsewhere on</span> DIY</h3>
+<ul class="image">
 
+<li class="one"><img src="/images/uploads/adele75.jpg" title="Adele" alt="Adele">
+<span class="weblog"><a href="/news">News</a></span><h4><a href="/articles/news/adele-announces-shes-expecting-first-child/">Adele Announces She’s Expecting First Child</a></h4><p>Posted 3 hours ago</p>
+</li>
 
+</ul>
+<ul class="list">
 
+<li class="one"><h4>⇢ <a href="/articles/news/watch-green-day-release-tre-album-trailer/">News: Watch: Green Day Release ¡Tre! Album Trailer</a></h4></li>
 
+<li class="two"><h4>⇢ <a href="/articles/film/the-amazing-spider-man1/">Film Reviews: The Amazing Spider-Man</a></h4></li>
 
-<div class="sidebar-white">
-<h3>Elsewhere on DIY</h3>
-<ul class="list-image">
+<li class="tree"><h4>⇢ <a href="/articles/features/echo-lake-weve-started-writing-the-next-album/">Features: Echo Lake: ‘We’ve Started Writing The Next Album’</a></h4></li>
 
-<li class="one">
-<img src="/images/uploads//wdead75.jpg" title="Walking Dead Boss: Budget Cuts ‘Will Affect The Show Creatively’" alt="Walking Dead Boss: Budget Cuts ‘Will Affect The Show Creatively’">
-<h5 class="weblog"><a href="/television">TV</a></h5><h4><a href="/articles/television/walking-dead-boss-budget-cuts-will-affect-the-show-creatively">News: Walking Dead Boss: Budget Cuts ‘Will Affect The Show Creatively’</a></h4><p>Posted 1st June 2011</p></li>
+<li class="four"><h4>⇢ <a href="/articles/news/diy-pop-bubble-rock-get-ready-for-bristol/">News: DIY &amp; Pop, Bubble, Rock! Get Ready For Bristol</a></h4></li>
 
-<li class="two">
-<img src="/images/uploads//senna75.jpg" title="Interview: Senna Director Asif Kapadia" alt="Interview: Senna Director Asif Kapadia">
-<h5 class="weblog"><a href="/film">Film</a></h5><h4><a href="/articles/film/interview-senna-director-asif-kapadia">Features: Interview: Senna Director Asif Kapadia</a></h4><p>Posted 1st June 2011</p></li>
-
-<li class="last">
-<img src="/images/uploads//deusex1jun2.jpg" title="Deus Ex E3 Trailer" alt="Deus Ex E3 Trailer">
-<h5 class="weblog"><a href="/games">Games</a></h5><h4><a href="/articles/games/deus-ex-e3-trailer">Trailers: Deus Ex E3 Trailer</a></h4><p>Posted 1st June 2011</p></li>
+<li class="last"><h4>⇢ <a href="/articles/film/win-tickets-to-god-bless-america-london-premiere/">Film Features: Win Tickets To God Bless America London Premiere</a></h4></li>
 
 </ul>
 </div>
 
-
-
-
-
-<div class="sidebar-black">
-<h3 class="blackhead"><a href="/sessions">Latest Session</a></h3>
-
-
-<!-- Start of Brightcove Player -->
-
-<div style="display:none">
-
-</div>
-
+<div class="sidebar">
+<!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: ThisisFakeDiy // Page: RUN OF SITE // Placement: Run of Site top MPU (3155537) // created at: Apr 8, 2011 2:08:32 PM-->
+<script language="javascript">
 <!--
-By use of this code snippet, I agree to the Brightcove Publisher T and C 
-found at https://accounts.brightcove.com/en/terms-and-conditions/. 
--->
-
-<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script> 
-<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script> 
-<script language="javascript" type="text/javascript" src="/scripts/MobileCompatibility.js"></script> 
-<script language="javascript" type="text/javascript">
-var player;
-function onTemplateLoaded(id) {
-  player = brightcove.getExperience(id);
-  player.getModule(APIModules.EXPERIENCE).addEventListener(BCExperienceEvent.TEMPLATE_READY, onTemplateReady);
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
 }
-function onTemplateReady(event) {
-  player.getModule(APIModules.EXPERIENCE).removeEventListener(BCExperienceEvent.TEMPLATE_READY, onTemplateReady);
-  player.getModule(APIModules.VIDEO_PLAYER).mute();
-}
-</script>
-<object id="myExperience" class="BrightcoveExperience">
-  <param name="bgcolor" value="#FFFFFF">
-  <param name="width" value="270">
-  <param name="height" value="150">
-  <param name="playerID" value="846099571001">
-  <param name="playerKey" value="AQ~~,AAAAACVe7sg~,t9aQsDoJK0yQlsEyXsxj0auBMQ9QBlOn">
-  <param name="isVid" value="true">
-  <param name="isUI" value="true">
-  <param name="dynamicStreaming" value="true">
-  
-  <param name="@videoPlayer" value="968519571001">
-</object>
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=diy+terms;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=diy+terms;grp=847;misc=1580447047280"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|3155537|0|170|ADTECH;loc=300;key=diy+terms" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|3155537|0|170|ADTECH;cookie=info;loc=300;key=diy+terms" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag -->
 
 
-<script type="text/javascript">brightcove.createExperiences();</script>
+</div>
 
-<!-- End of Brightcove Player -->
+<div class="noborder">
+<h3><span>More on</span> DIY</h3>
+<ul class="image">
 
+<li class="one"><img src="/images/uploads/noel75.jpg" title="Noel Gallagher" alt="Noel Gallagher">
+<span class="weblog"><a href="/news">News</a></span><h4><a href="/articles/news/listen-two-noel-gallagher-demo-tracks-surface/">Listen: Two Noel Gallagher Demo Tracks Surface</a></h4><p>Posted 6 hours ago</p>
+</li>
 
-<h3 class="blackhead2"><a href="/sessions">More Sessions</a></h3>
+<li class="two"><img src="/images/uploads/theantlers75.jpg" title="The Antlers" alt="The Antlers"><span class="weblog"><a href="/features">Features</a></span><h4><a href="/articles/features/tracks-the-antlers-matt-kim-why-more/">Tracks: The Antlers, Matt &amp; Kim, Why? &amp; More</a></h4><p>Posted 6 hours ago</p>
+</li>
 
-<ul class="list-imageblack">
-
-<li class="last">
-<img src="/images/uploads//toyhorsesac75.jpg" title="Toy Horses" alt="Toy Horses">
-<h4><a href="/articles/sessions/toy-horses">Toy Horses</a></h4><p class="desc">Two acoustic tracks in a central London pub.</p><p>Posted 27th May 2011</p></li>
+<li class="last"><img src="/images/uploads/altj75.jpg" title="Alt J" alt="Alt J">
+<span class="weblog"><a href="/news">News</a></span><h4><a href="/articles/news/alt-j-post-teaser-trailer-for-new-tessellate-video/">Alt-J Post Teaser Trailer For New ‘Tessellate’ Video</a></h4><p>Posted 6 hours ago</p>
+</li>
 
 </ul>
 </div>
@@ -370,91 +298,70 @@ function onTemplateReady(event) {
 
 
 
-</div>
 
+
+</div>
 <div class="clear"></div>
 </div>
 
+<div id="footer">
 
-
-<div id="footer"> 
-<div class="footer"> 
-<h6><a href="/" title="Independent music news, reviews, interviews, features and more">This Is Fake DIY</a></h6> 
-<div class="footerleft"> 
-<ul class="footer"> 
+<div class="footer">
+<ul class="footer">
 <li><a href="/">Home</a></li> 
 <li><a href="/news">News</a></li> 
-<li><a href="/reviews">Reviews</a></li> 
 <li><a href="/features">Features</a></li> 
+<li><a href="/blogs">Blogs</a></li>
+<li><a href="/reviews">Reviews</a></li> 
 <li><a href="/first-on">First On</a></li> 
 <li><a href="/photos">Photos</a></li> 
-<li><a href="/audio">Audio</a></li> 
-<li><a href="/videos">Videos</a></li> 
-</ul> 
-</div> 
-<div class="footerright"> 
-<ul class="footer"> 
-<li><a href="/sessions">Sessions</a></li> 
-<li><a href="/guide">Gig Guide</a></li>  
-  <li><a href="/releases">Schedule</a></li> 
-<li><a href="/film" title="Film">Film</a></li> 
-<li><a href="/games" title="Film">Games</a></li> 
-<li><a href="/extra">Extra</a></li> 
-<li><a href="/magazine">Magazine</a></li> 
-</ul> 
-</div> 
-</div> 
-
-<div class="footer">
-
-<h6><a href="/feeds/all" title="RSS Feed">RSS Feeds</a></h6>
-<ul class="footer">
-<li><a href="/feeds/all" title="RSS Feed"><img src="/images/rss.png" alt="RSS Feed" class="rss">RSS Feed</a></li>
-<li><a href="/feeds/news" title="News Feed"><img src="/images/rss.png" alt="News RSS Feed" class="rss">News Feed</a></li>
-<li><a href="/feeds/reviews" title="Reviews Feed"><img src="/images/rss.png" alt="Reviews RSS Feed" class="rss">Reviews Feed</a></li>
-<li><a href="/feeds/downloads" title="Downloads Feed"><img src="/images/rss.png" alt="Downloads RSS Feed" class="rss">Downloads Feed</a></li>
 </ul>
 </div>
-<div class="footer">
-<h6>DIY Elsewhere</h6>
-<ul class="footer">
 
-<li><a href="http://www.thisisfakediyrecords.co.uk" title="This Is Fake DIY Records">This Is Fake DIY Records</a></li>
-<li><a href="http://shop.thisisfakediy.co.uk" title="This Is Fake DIY Shop">DIY Shop</a></li>
-<li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=318902033&amp;mt=8" title="DIY iPhone App" target="_blank">DIY iPhone App</a></li>
-<li><a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/IBmFVm/download/index.htm" target="_blank">DIY Toolbar</a>
-</li></ul>
-<h6><a href="/info">Info</a></h6>
+<div class="footer">
+<ul class="footer">
+<li><a href="/film">Film</a></li> 
+<li><a href="/games">Games</a></li> 
+<li><a href="/television">TV</a></li> 
+<li><a href="/extra">Extra</a></li> 
+<li class="bold"><a href="/radio">DIY Radio</a></li>
+<li class="bold"><a href="/tv">DIY TV</a></li>
+<li class="bold"><a href="/magazine">Magazine</a></li>
+</ul>
+</div>
+
+<div class="footer">
 <ul class="footer">
 <li><a href="/info">Contact / Staff List</a></li>
 <li><a href="/info/#advertising">Advertise On DIY</a></li>
-<li><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/jobs">Jobs</a></li>
+<li><a href="/terms">T&amp;Cs / Privacy Policy</a></li>
 </ul>
 </div>
-<div class="footerr">
-<h6>DIY on Twitter</h6>
-<ul class="social">
-<li><a href="http://www.twitter.com/thisisfakediy" target="_blank" title="DIY on Twitter"><img src="/images/social/diytw_32.jpg" alt="DIY on Twitter" title="DIY on Twitter"></a></li>
-<li><a href="http://www.twitter.com/diyfeed" target="_blank" title="DIY Feed on Twitter"><img src="/images/social/diyfeedtw_32.jpg" alt="DIY Feed on Twitter" title="DIY on Twitter"></a></li>
-<li><a href="http://www.twitter.com/diyfilms" target="_blank" title="DIY Film on Twitter"><img src="/images/social/diyfilms_32.jpg" alt="DIY Films on Twitter" title="DIY on Twitter"></a></li>
-<li><a href="http://www.twitter.com/diygames" target="_blank" title="DIY Games on Twitter"><img src="/images/social/diygames_32.jpg" alt="DIY Games on Twitter" title="DIY on Twitter"></a></li>
 
-</ul>
-<p><br></p>
-<h6>...and everywhere else</h6>
+<div class="footer">
+
 <ul class="social">
-<li><a href="http://www.facebook.com/thisisfakediy" target="_blank" title="DIY on Facebook"><img src="/images/social/facebook_32.png" alt="DIY on Facebook" title="DIY on Facebook"></a></li>
-<li><a href="http://thisisfakediy.tumblr.com/" target="_blank" title="DIY on Tumblr"><img src="/images/uploads//sendTumblr.png" alt="DIY on Tumblr" title="DIY on Tumblr"></a></li>
-<li><a href="http://www.myspace.com/thisisfakediy" target="_blank" title="DIY on MySpace"><img src="/images/social/myspace_32.png" alt="DIY on MySpace" title="DIY on MySpace"></a></li>
-<li><a href="http://www.last.fm/group/This+Is+Fake+DIY" target="_blank" title="DIY on Last.fm"><img src="/images/social/lastfm_32.png" alt="DIY on Last.fm" title="DIY on Last.fm"></a></li>
-<li><a href="http://soundcloud.com/thisisfakediy" target="_blank" title="DIY on SoundCloud"><img src="/images/uploads//soundcloud_32_0.png" alt="DIY on SoundCloud" title="DIY on SoundCloud"></a></li>
+<li><a href="http://www.twitter.com/thisisfakediy" target="_blank" title="DIY on Twitter"><img src="/images/twitter_icon1.png" alt="DIY on Twitter" title="DIY on Twitter"></a></li>
+<li><a href="http://www.facebook.com/thisisfakediy" target="_blank" title="DIY on Facebook"><img src="/images/facebook_icon1.png" alt="DIY on Facebook" title="DIY on Facebook"></a></li>
+<li><a href="http://thisisfakediy.tumblr.com/" target="_blank" title="DIY on Tumblr"><img src="/images/tumblr_icon1.png" alt="DIY on Tumblr" title="DIY on Tumblr"></a></li>
+<li><a href="http://www.last.fm/group/This+Is+Fake+DIY" target="_blank" title="DIY on Last.fm"><img src="/images/lastfm_icon1.png" alt="DIY on Last.fm" title="DIY on Last.fm"></a></li>
+<li><a href="http://soundcloud.com/thisisfakediy" target="_blank" title="DIY on SoundCloud"><img src="/images/soundcloud_icon1.png" alt="DIY on SoundCloud" title="DIY on SoundCloud"></a></li>
 </ul>
-<br><i>2002-2011 © This Is Fake DIY</i>
+<ul class="footer">
+<li><a href="/feeds/all" title="RSS Feed"><img src="/images/rsss.png" alt="RSS Feed" class="rss">RSS Feed</a></li>
+<li><a href="/feeds/news" title="News Feed"><img src="/images/rsss.png" alt="News RSS Feed" class="rss">News Feed</a></li>
+<li><a href="/feeds/reviews" title="Reviews Feed"><img src="/images/rsss.png" alt="Reviews RSS Feed" class="rss">Reviews Feed</a></li>
+</ul>
+
 </div>
+
+
+
 <div class="clear"></div>
 </div>
-
 </div>
+
 
 
 
@@ -468,56 +375,10 @@ var pageTracker = _gat._getTracker("UA-8012279-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-
-
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<script type="text/javascript">
-  window.fbAsyncInit = function() {
-    FB.init({appId: 'your app id', status: true, cookie: true,
-             xfbml: true});
-  };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
-</script>
-
-		<!--[if IE 6]>
-		<script type="text/javascript"> 
-			/*Load jQuery if not already loaded*/ if(typeof jQuery == 'undefined'){ document.write("<script type=\"text/javascript\"   src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js\"></"+"script>"); var __noconflict = true; } 
-			var IE6UPDATE_OPTIONS = {
-				icons_path: "ie6update/images/"
-			}
-		</script>
-		<script type="text/javascript" src="/scripts/ie6update.js"></script>
-		<![endif]-->
-		
-
-
-<!-- Start of Woopra Code -->
-<script type="text/javascript">
-var woo_settings = {idle_timeout:'1800000', domain:'thisisfakediy.co.uk'};
-(function(){
-var wsc = document.createElement('script');
-wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
-wsc.type = 'text/javascript';
-wsc.async = true;
-var ssc = document.getElementsByTagName('script')[0];
-ssc.parentNode.insertBefore(wsc, ssc);
-})();
-</script>
-<!-- End of Woopra Code -->
-
-<script type="text/javascript">
-if(document.location.protocol=='http:'){
- var Tynt=Tynt||[];Tynt.push('d9eZOKye4r4lGKadbi-bpO');Tynt.i={"ap":"Read more:"};
- (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
-}
-</script>
+<script language="javascript" type="text/javascript" src="http://shoutcast.internet-radio.org.uk/system/streaminfo.js"></script>
+<script language="javascript" type="text/javascript" src="http://shoutcast.internet-radio.org.uk/js.php/stephenackroyd/streaminfo/rnd0"></script>
 
 
 
 
-</body></html>
+</div></body></html>
