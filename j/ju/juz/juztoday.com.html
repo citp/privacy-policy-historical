@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the juztoday.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101084312id_/http%3A//www.juztoday.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juztoday.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629182001id_/http%3A//juztoday.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.2r1/build/reset/reset-min.css">
 <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/themes/ui-lightness/jquery-ui.css" type="text/css">
-<link rel="stylesheet" type="text/css" href="/css/common.2.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<link rel="stylesheet" type="text/css" href="/css/common.3.css">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=136651099722875"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 if (top.location != self.location) {
 	top.location = self.location.href;
 }
@@ -41,33 +41,86 @@ $(document).ready(function(){
 
 <body>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=136651099722875";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <div id="container">
 	<div id="header_row">
 		<div id="header">
-			<a href="/"><img id="logo" src="/img/juztoday.png" width="205" height="170"></a>
+			<a href="/"><img id="logo" src="/img/juztoday-h100.png"></a>
 			<div id="login" style="text-align:right;">
-								<span>Login with &gt;</span> &nbsp;
-				<a href="/facebook-connect.php"><img src="/img/facebook-32x32.png" width="32" height="32"></a> &nbsp;
-				<a href="/twitter-connect.php"><img src="/img/twitter-32x32.png" width="32" height="32"></a><br>
-				<a href="javascript:juztoday.LoadLogin();" class="small">Login with JuzToday account</a> |
-				<a href="javascript:juztoday.LoadForgotPassword();" class="small">Forgot your password?</a><br>
-				<form id="topSub" action="/ajax-process.php" method="post">
-				<input type="hidden" name="update_type" value="subscribe">
-				Email: <input type="text" name="email"> <button type="submit" class="blue">Subscribe</button>
+								<a href="/facebook-connect.php"><img src="/img/spacer.gif" class="social-login facebook"></a>
+				<a href="/twitter-connect.php"><img src="/img/spacer.gif" class="social-login twitter"></a>
+				<a href="javascript:juztoday.LoadLogin();">Login</a>
+				<a href="javascript:juztoday.LoadForgotPassword();" class="small">Forgot Password?</a>
+				<!--form id="topSub" action="/ajax-process.php" method="post">
+				<input type="hidden" name="update_type" value="subscribe" />
+				Email: <input type="text" name="email" /> <button type="submit" class="blue">Subscribe</button>
 				</form>
 				<script type="text/javascript">
 					$("#topSub").submit(function(){
 						juztoday.Subscribe("#topSub");
 						return false;
 					});
-				</script>
-				
-				<div class="clear"></div>
+				</script-->
 							</div>
+			<div id="subscribe">
+				<p>Subscribe to Dealsletter</p>
+				<form id="topSub" action="/ajax-process.php" method="post">
+					<input type="hidden" name="update_type" value="subscribe">
+					<input type="text" class="email" name="email" hint="Enter Your Email">
+					<input type="image" class="go" src="/img/go-32x32.png">
+				</form>
+				<script type="text/javascript">
+					$("#topSub").hint();
+					$("#topSub").submit(function(){
+						juztoday.Subscribe("#topSub");
+						$("#topSub").rehint();
+						return false;
+					});
+				</script>
+			</div>
+			<div id="follow">
+				<p>Follow JuzToday</p>
+				<a target="_blank" href="http://www.facebook.com/JuzToday"><img src="/img/facebook-32x32.png"></a>
+				<a target="_blank" href="http://twitter.com/juztoday"><img src="/img/twitter-32x32.png"></a>
+				<a target="_blank" href="http://www.juztoday.com/rss.php"><img src="/img/rss-32x32.png"></a>
+			</div>
 		</div>
+	</div>
+	<div id="menu_row">
+		<ul id="menu">
+			<li><a href="/">Today's Deals</a></li>
+			<li><a href="/past-deals.php">Past Deals</a></li>
+			<li><a href="/market/">JuzMarket <span class="new">New</span></a></li>
+			<!--li style="font-style:italic;" class="right"><a href="/newsletter/2012-03-06.html"><img src="/img/coach.png" style="position:relative; top:-1px; vertical-align:middle;" /> Sale <span class="label hot">Hot</span></a></li-->
+		</ul>
 	</div>
 	<div id="body_row">
 		<div id="body">
+			<div idx="0" id="banners">
+				<a idx="0" href="/market/"><img src="/img/ad/banner-1.jpg"></a>
+				<!--a idx="1" href="/market/" style="display:none;"><img src="/img/ad/banner-2.jpg" /></a-->
+				<a idx="1" href="/newsletter/2012-04-12.html?utm_source=juztoday&amp;utm_medium=banner&amp;utm_campaign=korean_skincare" style="display:none;"><img src="/img/ad/korean-skincare.jpg"></a>
+				<a idx="2" href="/market/search.php?category=Luxury+Apparel&amp;sub_category=&amp;brand=Coach&amp;utm_source=juztoday&amp;utm_medium=banner&amp;utm_campaign=cosmetics_sale" style="display:none;"><img src="/img/ad/coach-sale.jpg"></a>
+			</div>
+			<script type="text/javascript">
+				function RotateBanner() {
+					var old_idx = parseInt($("#banners").attr("idx"));
+					var idx = old_idx + 1;
+					var count = $("#banners > a").length;
+					if (idx >= count /*parseInt($("#banners").attr("count"))*/) { idx = 0; }
+					$("#banners").attr("idx",idx.toString());
+					$("#banners a[idx=" + old_idx.toString() + "]").fadeOut(500);
+					$("#banners a[idx=" + idx.toString() + "]").fadeIn(500);
+				}
+				setInterval("RotateBanner()",4000);
+			</script>
 
 	<div id="col1">
 		<div id="tab">
@@ -84,7 +137,7 @@ $(document).ready(function(){
 		<div id="content">
 			<h1>JuzToday's Privacy Policy</h1>
 			
-			<div class="date">Last Updated May 21, 2010</div>
+			<div class="date">Last Updated May 21, 2011</div>
 			
 			<p>
 				JuzToday Pte. Ltd. or “JuzToday.com”, the provider of the Website (referred to as 'us' or 'we'),
@@ -214,8 +267,6 @@ $(document).ready(function(){
 	
 	<div id="col2">
 		<div class="box orange">
-		<h2><div>Sign up to know our<br>upcoming deals</div></h2>
-		<div class="top"></div>
 		<div class="body" style="padding-top:10px;">
 			<div class="wrapper">
 				SIGN UP WITH <a href="/facebook-connect.php"><img class="social facebook" src="/img/spacer.gif"></a>
@@ -243,84 +294,204 @@ $(document).ready(function(){
 				});
 			</script>
 		</div>
-		<div class="bottom"></div>
 	</div>
 		
-		<div class="box white">
-		<h2><div>Other Deals</div></h2>
-		<div class="top"></div>
+			<div class="box white">
+		<h2>Other Deals</h2>
 		<div class="body" style="padding:5px 10px;">
-					<a href="/deal.php?id=159" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/159/img/our-solution-slimming.jpg" width="200" style="margin:5px auto;"><br>
-				95% OFF, $24 instead of $460 for 4 Sessions of Fat Buster Slimming + 2 Sessions of Slimming Rub + *$100 Product Voucher at Our Solution (Near Clementi MRT)!
+					<a href="/deal.php?id=519" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/519/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Change Your Hem as Often as You Change Your Shoes] Only $6.00 Instead of $25.90 for Hemming Style Snaps (16 pieces/box) + FREE Normal Postage!!
 			</a>
-					<a href="/deal.php?id=158" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/158/img/glacious-2.jpg" width="200" style="margin:5px auto;"><br>
-				ONLY $3 for 7oz Cup Frozen Yogurt with One Topping (Worth 6.30) at Glacious @ NEX Mall! 
+					<a href="/deal.php?id=516" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/516/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Choice of 500 Artistic Decorative Art Installation Designs For Your Home] Only $40 Instead of $125 for 3 Piece Colour Decorative Art Installation by Top Space !! 
 			</a>
-					<a href="/deal.php?id=131" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/131/img/ranadi.jpg" width="200" style="margin:5px auto;"><br>
-				[LAST DAY] 50% OFF, $519/ Couple instead of $1040 for 3D2N Stay at Award-winning One-Bedroom Ranadi Villa in Seminyak, Bali. Includes Daily Breakfast + Private Pool + Spa Treatment + 2-Way Airport Transfer!
+					<a href="/deal.php?id=479" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/479/img/spa-republic.jpg" width="200" style="margin:5px auto;"><br>
+				[LAST DAY] Resort World Sentosa Special: 75% OFF for 120mins Premium Rejuvenation Treats at Spa Republic @ Festive Hotel! Choose from Signature "BODY &amp; SOUL" or "FACE &amp; SOUL" Rejuvenation Combo Set!
 			</a>
-					<a href="/deal.php?id=152" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/152/img/friends.jpg" width="200" style="margin:5px auto;"><br>
-				74% OFF, Only $19.90 nett for 4-Course Set Meal at Award-Winning Friends Restaurant (Worth $76.50)! Enjoy Starters + Soup + Main Course + Dessert + Coffee/Tea!
+					<a href="/deal.php?id=520" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/520/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Define Jaw line, Non-Surgical &amp; Painless Necklift] Only $14.90 Instead of $35.90 for The Neckline Slimmer + FREE Normal Postage !!
 			</a>
-					<a href="/deal.php?id=142" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/142/img/in-style-nail-spa.jpg" width="200" style="margin:5px auto;"><br>
-				58% OFF Choice of (1) Classic Manicure and Pedicure + Sea Salt Foot Detox OR (2) Classic Manicure with Gelish Polish + Express Pedicure at In-Style Nail Spa @ Opposite Bugis Junction! Only $25 instead of $60
+					<a href="/deal.php?id=521" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/521/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Revolutionary Dryer Ball With The Power of Steam] Only $12.90 Instead of $25.90 for 1 Steam Wizard Dryer Ball + FREE Normal Postage !! 
 			</a>
-					<a href="/deal.php?id=157" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/157/img/asiatravel-sentosa.jpg" width="200" style="margin:5px auto;"><br>
-				54% OFF Sentosa TRIPLE COMBO Fun Package! Only $29.90nett per pax instead of $65 for ORIGINAL DUCKtours + 2 Rounds Segway® Fun Ride + Full Day Sentosa Rider!
+					<a href="/deal.php?id=517" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/517/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Label and Protect Your Goods] Only $12.90 Instead of $32.90 for Engrave-It Magic Pen + 1 Additional Engraving Nip + FREE Normal Postage!!
 			</a>
-					<a href="/deal.php?id=156" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/156/img/vhay-tique.jpg" width="200" style="margin:5px auto;"><br>
-				68% OFF L'Oreal Shine Rebonding + Wash + Blow at Vhay-Tique @ NEX Mall (Serangoon MRT)! Only $68 instead of $208
+					<a href="/deal.php?id=518" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/518/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Add or Reduce Waist Size with Ease] Only $12.90 Instead of $19.90 for Set of 8 Perfect Fit Button + FREE Normal Postage!!
 			</a>
-					<a href="/deal.php?id=153" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/153/img/new-york-skin-solutions.jpg" width="200" style="margin:5px auto;"><br>
-				[LAST DAY] 95% OFF, Only $18 instead of $368 for 1 Award-Winning Revitalising Skin Treatment + 1 Set of Skin Care Product Kit + 1 In-depth Skin Analysis at New York Skin Solutions (Available in 11 Outlets)! 
+					<a href="/deal.php?id=513" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/513/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				50% OFF Premium Set Meal @ Mouth Restaurant! Includes Double Boiled Shark’s Cartilage Soup with Conpoy + Mouth’s Fresh Pork Filling Steamed Xiao Long Bao + Shanghai Pan Fried Dumpling &amp; Many More! Highly Rated by Makansutra &amp; Hungrygowhere! Only $23.80 Instead of $47.80
 			</a>
-					<a href="/deal.php?id=137" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/137/img/shin-tokyo-sushi.jpg" width="200" style="margin:5px auto;"><br>
-				55% OFF, $15 instead of $33 for Eat-All-You-Can Sushi Buffet + Ramen of the day + Iced Green Tea at Shin Tokyo (Next to Clementi MRT)! Halal Certified
+					<a href="/deal.php?id=510" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/510/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Sculpt to a Sexier Figure] Only $19.90 Instead of $42 for Bamboo Charcoal Magic Body Sculpting + FREE Normal Postage !! 
+
 			</a>
-					<a href="/deal.php?id=155" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/155/img/nusa-dua.jpg" width="200" style="margin:5px auto;"><br>
-				Back by Popular Demand! 72% OFF Only $499/ Couple instead of $1808 for 3D2N in Villa with Private Pool at Nusa Dua Retreat Boutique Villa Resort &amp; Spa in Bali. Includes Daily Breakfast + Daily High Tea + 2-Hour Spa Treatment + 15 Minutes Massage + 2-Way Airport Transfer!
+					<a href="/deal.php?id=509" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/509/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Back By Popular Demand] Only $10.90 Instead of $24.90 for Hanging Handbag Organiser + FREE Normal Postage!!
 			</a>
-					<a href="/deal.php?id=151" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/151/img/sentosa.jpg" width="200" style="margin:5px auto;"><br>
-				43% OFF Super-Value Sentosa Package! Includes 2-Way Jewel Cable Car + Cable Car Museum + Sentosa Island Admission + Luge + Skyride + Butterfly Park + Bird Feeding + Pizza Tea Break! Only $36.50 Nett Instead of $63.50
+					<a href="/deal.php?id=514" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/514/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Smooth, Fair &amp; Radiant Bikini Line] Only $22 Instead of $108 for Brazilian Waxing + 15mins Head &amp; Shoulder Massage!! 
 			</a>
-					<a href="/deal.php?id=146" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/146/img/pink-studio.jpg" width="200" style="margin:5px auto;"><br>
-				CHRISTMAS SPECIAL - Learn Techniques on Makeup &amp; Placement of Color! Join 120min Hands-On Practice Makeup Workshop (Materials Provided) @ Bugis at Only at $25 instead of $75 now! Minimum 1 person to attend
+					<a href="/deal.php?id=511" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/511/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Keep The Memories Alive For Years to Come] Only $28 Instead of $238 for Baby/Kid Makeover: Includes 1 Fun Loving Makeup + 1 Simple Hairdo + 1 Outfit (Customer’s Own) + 10 Professional Shots with Instand Viewing &amp; Selection + 2 X 4R + 4 X 2R at deCHARACTER Image!! 
 			</a>
-					<a href="/deal.php?id=150" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/150/img/aroma-haus.jpg" width="200" style="margin:5px auto;"><br>
-				Only $18.80 instead of $50 for a 90-min Make Your Own Essential Oil Lip Balm Workshop + Take home 1 DIY Lip Balm!
+					<a href="/deal.php?id=508" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/508/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Stylish Bling Bling For Your iPhone] Only $18.80 Instead of $38.80 for a Sparkly Swarovski Elements Crystals Textured Quilt Effect iPhone 4/4S Case + FREE Audio Jack Cover + FREE Normal Postage!!
+
 			</a>
-					<a href="/deal.php?id=139" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/139/img/aircool.jpg" width="200" style="margin:5px auto;"><br>
-				Back by Popular Demand! 63% OFF, Only $15 for Aircon Servicing by Aircool! (Worth $40)
+					<a href="/deal.php?id=506" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/506/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Swarovski Element Crystals and Available in 5 Beautiful Colours] Only $15 Instead of $49.80 for 18K Rhodium Platinum Plated Eternity Love Ring Pendant with Diamante Crystal Heart + FREE Organza Pouch + FREE Postage !! 
 			</a>
-					<a href="/deal.php?id=138" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/138/img/silent-concept-car-studio.jpg" width="200" style="margin:5px auto;"><br>
-				63% OFF! ONLY $25 instead of $68 for Express Car Grooming! Includes Snow Wash + Vacuum + Tyre Shine + High Gloss Waxing!
+					<a href="/deal.php?id=507" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/507/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Stunning &amp; Beautiful, Comes in 5 Colours to Choose From] Only $12.80 Instead of $45.80 for Swarovski Elements Crystal Enchanting Ferris Wheel Rhodium Plated Pendant With Necklace + FREE Organza Pouch + FREE Normal Postage !! 
 			</a>
-					<a href="/deal.php?id=12" style="display:block; margin-bottom:10px;">
-				<img src="http://www.juztoday.com/deal/12/img/VivoCity.jpg" width="200" style="margin:5px auto;"><br>
-				$0 for $1000 VivoCity cash vouchers! (100% Off)
+					<a href="/deal.php?id=490" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/490/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Buy More Coupons For Longer Session] Only $10 Instead of $48 for 2 Hours KTV Session + 1 Soft Drink + 1 Choice of Titbits @ PARTY WORLD Available at 6 Locations !! 
+			</a>
+					<a href="/deal.php?id=505" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/505/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Organise &amp; Optimise Your Luggage Space] Only $19.90 Instead of $49.90 for 5 Piece Waterproof Luggage Organiser + FREE Normal Postage !! 
+			</a>
+					<a href="/deal.php?id=500" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/500/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				46% OFF 1 Day Malaysia LEGOLAND Theme Park Tour Combo: Includes 2 Way Coach Transfer + Sumptuous Chinese Restaurant Dinner + Premium Outlet Tour + Tour Guide Service + Group Insurance! Only $79 NETT Instead of $145
+			</a>
+					<a href="/deal.php?id=503" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/503/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Slim Your Way to a Slender You] Only $23.80 Instead of $49.90 for Men’s Slimming T-Shirt or Pants + Local Normal Mail !!
+			</a>
+					<a href="/deal.php?id=512" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/512/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				50% OFF 2D1N Sentosa Ride &amp; Show Family Fun Combo: Includes choice of 5 Star Hotels in Sentosa + Cineblast &amp; Desperados + Choice of Songs of The Sea OR MEMA @ Only $195 NETT per person instead of $400
+			</a>
+					<a href="/deal.php?id=501" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/501/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Smoother and Whiter Underarms] Only $18 Instead of $536 for 2 Sessions of XPL Underarms Hair Reduction Treatment + Whitening Scrub &amp; Whitening Essence + Optional $10 Top Up One 75mins Collagen Facial Worth $150 at Fresver Beauty @ Tampines, Orchard &amp; Hougang !! 
+			</a>
+					<a href="/deal.php?id=496" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/496/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Stunning Curls or Silky Straight Hair] Only $69.90 Instead of $120 for Shiseido Spa Perm OR Japanese Rebonding + Pre-Treatment + Wash + Cut + Blow at V&amp;A Salon @ Bishan MRT!!
+			</a>
+					<a href="/deal.php?id=504" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/504/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Get Slim, Reshape &amp; Tone Your Legs with Nano Silver &amp; Germanium Technology from Japan] Only $18.90 Instead of $30 for A Pair of Slimming Tights + FREE Postage!!
+
+			</a>
+					<a href="/deal.php?id=481" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/481/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Don’t Let Your Style Fall Through The Crack] Only $9.90 Instead of $29.90 for Hip Skirt + FREE Postage!!
+			</a>
+					<a href="/deal.php?id=492" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/492/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Classy &amp; Elegantly Chic] Only $12.80 Instead of $49.80 for Branded Coach Mirror with Gold OR Red Case + FREE Normal Postage !! 
+			</a>
+					<a href="/deal.php?id=491" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/491/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Must Have for Every Fashionista] Only $9.80 Instead of $45.80 for 1 Tory Burch Inspired Cosmetic/Wristlet Pouch + FREE Normal Postage!!
+			</a>
+					<a href="/deal.php?id=497" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/497/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Solar Powered Car Ventilator] Only $22.90 Instead of $45.90 for the Auto Fan + FREE Normal Postage !! 
+			</a>
+					<a href="/deal.php?id=487" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/487/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Relax &amp; Rejuvenate] Only $24 Instead of $120 for 60mins Shiatsu OR Swedish Aroma OR Tui Na Full Body Massage + FREE Head Gua Sha @ Our Solution (Near Clementi MRT)!!
+			</a>
+					<a href="/deal.php?id=483" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/483/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[The All Seeing Mirror] Only $10.90 Instead of $25 For Total View Mirrors (2 Pieces) + FREE Delivery !! 
+			</a>
+					<a href="/deal.php?id=486" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/486/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[BACK BY POPULAR DEMAND] Only $19 instead of $52 for 70mins Relaxing Foot Reflexology Session + 10mins Detox/Ginger/Ginseng Foot Soak @ Ancient Qi Foot Therapy @ Serangoon Garden!
+			</a>
+					<a href="/deal.php?id=472" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/472/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Back By Popular Demand] Only $29 Instead of $160 for 120min Hands-on Practice Korean Makeup &amp; Hair Styling Workshop @ Liang Court! Materials Provided !! 
+			</a>
+					<a href="/deal.php?id=473" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/473/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Stunning Four-Leaf Clover Swarovski Crystal Pendant Necklace Available in 16 Colours] Only $9.80 Instead of $32.80 for Lucky Four Leaf Clover Crystal Pendant, Hypoallergenic Platinum Rhodium Plating + FREE Organza Pouch + FREE Delivery !! 
+			</a>
+					<a href="/deal.php?id=461" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/461/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[High Shine Gloss &amp; Resistant to Wear] Only $20 Instead of $60 for Full Gelish Manicure + Return Soak Off at Instyle Nail Spa (Opp Bugis Junction) !! 
+			</a>
+					<a href="/deal.php?id=470" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/470/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Total Support, Total Comfort] Only $10.90 Instead of $24.90 for Total Pillow + FREE Delivery !! 
+
+			</a>
+					<a href="/deal.php?id=469" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/469/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Must Have For The Frequent Travellers] Only $12.90 Instead of $25.90 for TRAVEL MATE + Free Postage !! 
+			</a>
+					<a href="/deal.php?id=433" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/433/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				Only $15.80 Instead of $39.80 For 1 Branded Tote Bag (Two Designs: Fred Perry England Flag White &amp; Black OR Marc Jacobs Red Lining Black) + Free Postage !!
+			</a>
+					<a href="/deal.php?id=466" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/466/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				62% OFF, Only $21 Instead of $56 for One Day Batam Tour + 2 Way Ferry Ticket + One Day Batam City Shopping Tour + 7 Course Seafood Meal + Shopping Voucher of RP50000!!
+			</a>
+					<a href="/deal.php?id=434" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/434/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[5 Image Plates + 34 Designs] Only $10.90 Instead of $24.90 For Salon Express Manicure/Pedicure Design Kit + Free Delivery!
+			</a>
+					<a href="/deal.php?id=449" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/449/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[GREAT SINGAPORE SALE SPECIAL] Only $10 Instead of $780 for 4 Personalized Slimming Sessions + 4 EXTRA Sessions FREE + $200 Treatment Voucher at BottomSlim!!
+			</a>
+					<a href="/deal.php?id=456" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/456/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[5-in-1 Connection Reader For All iPad Models] Only $10.90 Instead of $32 for 5-in-1 Connection Kit + FREE Normal Delivery !!
+			</a>
+					<a href="/deal.php?id=457" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/457/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Look thinner, Boost Your Bust &amp; Shapes Your Butt] Only $25 Instead of $42 for LIPODRESS + FREE Delivery ! 
+			</a>
+					<a href="/deal.php?id=448" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/448/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Manicure &amp; Pedicure At Its Best] Only $19.80 Instead of $50 For Classic Manicure &amp; Pedicure @ The Nail Pageant (Dhoby Ghaut MRT) !
+			</a>
+					<a href="/deal.php?id=455" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/455/img/the-best-beauty.jpg" width="200" style="margin:5px auto;"><br>
+				76% OFF Eyebrow Embroidery + 1 Year Unlimited Eyebrow Trimming at The Best Beauty Centre @ 7 Locations! Only $68 instead of $280
+			</a>
+					<a href="/deal.php?id=430" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/430/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[BACK BY POPULAR DEMAND] Only $7.90 instead of $20.90 for Bubble Bra Washer + FREE Delivery: Prevents Damage to Your Delicates from Machine Wash now!
+			</a>
+					<a href="/deal.php?id=439" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/439/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				[Rejuvenate Mind, Body &amp; Soul] Only $26 instead of $256 for 90 mins Aromatic Oil/Red Wine Full Body Massage + Back Scrub + Tummy Mask OR 90 mins Oxygen Facial + Eye Treatment + Neck &amp; Shoulder Massage + Eye Brow Trimming at Maple World Beauty @ Orchard &amp; AMK!!
+			</a>
+					<a href="/deal.php?id=395" style="display:block; margin-bottom:10px;">
+				<img src="http://www.juztoday.com/deal/395/img/header.jpg" width="200" style="margin:5px auto;"><br>
+				97% OFF, Only $98 Instead of $3444 for 1-Year Unlimited IPL Upper Lip + Underarms OR Brazilian Hair Removal @ Dhoby Ghaut!
 			</a>
 				</div>
-		<div class="bottom"></div>
 	</div>
-		
+			
 	<div class="box white">
-		<h2><div>Business Partnership</div></h2>
-		<div class="top"></div>
+		<h2>Business Partnership</h2>
 		<div class="body" style="padding:5px 10px; text-align:left;">
 			<p>Internet usage is growing at 480% from 2000 to 2011.
 			Social media is growing even faster!</p>
@@ -331,46 +502,43 @@ $(document).ready(function(){
 				promote@juztoday.com
 			</a>
 		</div>
-		<div class="bottom"></div>
 	</div>
 
 	<div class="box white">
-		<h2><div>Our Social Apps Users</div></h2>
-		<div class="top"></div>
+		<h2>Our Social Apps Users</h2>
 		<div class="body">
 			<p>VISIT US ON</p>
 			<div class="wrapper">
-				<a href="http://www.facebook.com/apps/application.php?id=136651099722875" target="_blank"><img class="social facebook" src="/img/spacer.gif"></a>
+				<a href="http://www.facebook.com/JuzToday" target="_blank"><img class="social facebook" src="/img/spacer.gif"></a>
 				<a href="http://www.twitter.com/juztoday" target="_blank"><img class="social twitter" src="/img/spacer.gif"></a>
 			</div>
 			<p style="font-weight:normal;">
-				30781 users connected to<br>
+				41833 users connected to<br>
 				JuzToday.com through<br>
 				Facebook / Twitter
 			</p>
 			<div class="people-wrapper">
-								<a href="http://www.facebook.com/profile.php?id=528601919" title="Jace Koh" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/528601919/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=1333534984" title="Mindy Ng Grace" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/1333534984/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=524670535" title="Marcus Hah Kooi Yew" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/524670535/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=1644927205" title="Aidah Ahmad" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/1644927205/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=535366530" title="Simpson Lky" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/535366530/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=630724007" title="Chan Weiying" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/630724007/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=676862969" title="Sharon Goh" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/676862969/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=100000548371600" title="Chadette Borlagdan" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/100000548371600/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=892100453" title="Winter Law" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/892100453/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=784139997" title="Diana Thestressfulmom" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/784139997/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=1717826136" title="He Ruiming" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/1717826136/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=100001120380973" title="Hazel Anthony" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/100001120380973/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=659716315" title="Derek Yang" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/659716315/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=1306656346" title="O Poh Geok" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/1306656346/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=1212556259" title="Kristine Hiew" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/1212556259/picture) center center no-repeat;"></a>
-								<a href="http://www.facebook.com/profile.php?id=601959628" title="Irene Low" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/601959628/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=562677216" title="Goh Wan Lin" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/562677216/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=100001257723379" title="Sophia Tan" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/100001257723379/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=798373669" title="Wai Chee" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/798373669/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=1498022777" title="Raja Staf" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/1498022777/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=741579713" title="Omar Mukthar" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/741579713/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=674800362" title="Liang Jing" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/674800362/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=100003053062216" title="Brenda Lau" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/100003053062216/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=567282385" title="Ashlyn Lee" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/567282385/picture) center center no-repeat;"></a>
+								<a href="http://www.twitter.com/ljieying" title="Jieying" target="_blank"><img src="/img/spacer.gif" style="background:url(http://purl.org/net/spiurl/ljieying) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=714323704" title="Janice Tan" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/714323704/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=700819400" title="Liz Md Jr" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/700819400/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=637996275" title="Ceed Tan Hou Meng" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/637996275/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=100000886610864" title="Bryan Tan" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/100000886610864/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=1132264548" title="Frida Abba" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/1132264548/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=758830507" title="Justin See Toh" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/758830507/picture) center center no-repeat;"></a>
+								<a href="http://www.facebook.com/profile.php?id=413440" title="Annie Chiang" target="_blank"><img src="/img/spacer.gif" style="background:url(https://graph.facebook.com/413440/picture) center center no-repeat;"></a>
 							</div>
 		</div>
-		<div class="bottom"></div>
 	</div>
 
-	<div style="background-color:#fff; margin-top:20px;">
+	<div style="background-color:#fff; margin-top:20px;" class="box">
 	<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjuztoday&amp;width=230&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:427px;" allowtransparency="true"></iframe></div>
 	</div>			
 
@@ -379,7 +547,7 @@ $(document).ready(function(){
 		
 	</div>
 	<div id="footer_row">
-		<div id="footer">
+		<div id="footer" class="box">
 			<div id="footer_col1">
 				<a href="/"><img class="logo" src="/img/juztoday-footer.png" width="186" height="145"></a>
 				<div class="copyright">© 2011 JuzToday.com. All Right Reserved.</div>
@@ -417,15 +585,19 @@ $(document).ready(function(){
 		</div>
 	</div>
 </div>
-<div id="fb-root"></div>
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/css/stupid-ie.css" />
+<![endif]-->
+<!--div id="fb-root"></div>
 <script src="http://connect.facebook.net/en_US/all.js"></script>
 <script>
   FB.init({
     appId  : '136651099722875',
     status : true, // check login status
     cookie : true, // enable cookies to allow the server to access the session
-    xfbml  : true  // parse XFBML
+    xfbml  : true, // parse XFBML
+    oauth  : true
   });
-</script>
+</script-->
 
 </body></html>
