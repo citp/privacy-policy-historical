@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229204852id_/http%3A//www.altn.com/Company/Policies/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629211238id_/http%3A//www.altn.com/Company/Policies/PrivacyPolicy) for the most accurate reproduction.*
 
 # Alt-N Technologies: Privacy Policy
 
-Alt-N Technologies® and its subsidiaries and affiliates, including Research In Motion® Limited and its subsidiaries and affiliates (collectively "Alt-N Technologies") are committed to protecting your privacy. This Privacy Policy sets out Alt-N Technologies' policy with respect to our collection, use, and disclosure of personal information.
+Alt-N Technologies® is committed to protecting your privacy. This Privacy Policy sets out Alt-N Technologies' policy with respect to our collection, use, and disclosure of personal information.
 
 ## Contact Information
 
@@ -54,4 +54,4 @@ Alt-N Technologies will occasionally update this Privacy Policy to reflect compa
 Except as required by law, we will not use or disclose your personal information for any purpose for which you refuse us consent or later withdraw your consent. If you withdraw consent, you agree that in spite of this withdrawal we may continue to use the personal information previously provided to us to the extent that we are contractually obligated to do so and to the extent necessary to enforce any contractual obligations you may have to Alt-N Technologies. You also understand that although you can use our site for some purposes without providing us with any personal information, we need personal information about you for some services, including those that require payment or involve an ongoing relationship with Alt-N Technologies or our partners. If you refuse to provide us with the information we require or later withdraw your consent to use and disclose this information, we may no longer be able to provide you with these services.
 
 Current Version: 2.0  
-Date Updated: August 23, 2010
+Date Updated: February 06, 2012
