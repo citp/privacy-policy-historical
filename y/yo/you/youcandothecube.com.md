@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcandothecube.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114043657id_/http%3A//www.youcandothecube.com/constants/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcandothecube.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629123507id_/http%3A//www.youcandothecube.com/constants/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - You CAN Do the Rubik's Cube! Community
 
@@ -53,7 +53,7 @@ You can access and update the contact information provided to us during registra
 
 Email: info@youcandothecube.com  
 Phone: 617-379-2988  
-Address: You CAN Do the Rubik's Cube! 75 Sylvan Street, Suite C-104 Danvers, MA 01923
+Address: You CAN Do the Rubik's Cube! 10 Liberty Street, Danvers MA 01923
 
 Please include the child's member name and the parent's contact information including email address in the communication so that we can better assist you with your inquiry or request.
 
