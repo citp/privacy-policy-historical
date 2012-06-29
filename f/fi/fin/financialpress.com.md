@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the financialpress.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206191135id_/http%3A//financialpress.com/index.php%3Fpage_id%3D28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpress.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629192500id_/http%3A//financialpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Financial Press
+
+* * *
 
 Financial Press respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains Financial Press Inc.’s treatment of your personally identifiable information collected in connection with your activities on or related to all Financial Press websites referencing this Privacy Policy (the “Financial Press Sites”) and all services made available on the Financial Press Sites (collectively, unless noted otherwise, the “Financial Press Services”). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
 
