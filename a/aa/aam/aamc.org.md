@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127112622id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629051435id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - AAMC
 
-Last updated: January 31, 2011 
+_Last updated: January 31, 2011_
 
-#### **Our Commitment to Privacy**
+####  **Our Commitment to Privacy**
 
 We recognize that users of this Web site, AAMC programs and services, and surveys may have questions about how and why this information is collected. This privacy notice explains what kinds of information we collect through our Web site, Web-based applications, and other AAMC programs, and how we use this information.  
 
@@ -17,13 +17,13 @@ Your use of the AAMC Web site and participation in AAMC applications and surveys
 
 #### Personal Information 
 
-As part of AAMC applications, programs, and surveys, we collect certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, academic records, institutional affiliation, and other biographical information. These applications and programs include—but are not limited to—AMCAS, Careers in Medicine, ERAS, FindAResident, MedEdPORTAL, MCAT registration, and VSAS. These AAMC programs offer password-protected sites for information collection.  
+As part of AAMC applications, programs, and surveys, we collect certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, academic records, institutional affiliation, and other biographical information. These applications and programs include—but are not limited to—AMCAS®, Careers in Medicine®, ERAS®, FindAResident®, MedEdPORTAL®, MCAT® registration, and VSAS®. These AAMC programs offer password-protected sites for information collection.  
 
 
 In addition to using it to provide a particular program or service, information collected as part of the program applications also may be used for educational research or verification purposes by the AAMC or under restricted conditions by third parties as explained in [Data Sharing with Third Parties](https://www.aamc.org/44866/privacy.html). Personal identification information collected also may be used to pre-populate application forms for you when you apply or register for services or other programs to save you time and effort. Access to pre-populated Web applications is granted only after you sign in correctly. In order to reduce redundancies and facilitate the accuracy of data, the AAMC may pre-populate internal AAMC databases across systems.  
 
 
-AAMC surveys, such as FAMOUS, GME Track, the Graduation Questionnaire (GQ), the Matriculating Student Questionnaire (MSQ), and the Pre-MCAT Questionnaire (PMQ), collect data for educational and research purposes, including reporting to AAMC constituents, providing summary information to the U.S. Congress and other policymakers, and assisting members with institutional management issues. From time to time, the AAMC may contact you to participate in such a survey. Whenever the AAMC conducts research using personally identifiable data (human subjects research), that research is reviewed by an external (to the AAMC) institutional review board to ensure protection of your interests.
+AAMC surveys, such as FAMOUS®, GME Track®, the Graduation Questionnaire (GQ), the Matriculating Student Questionnaire (MSQ), and the Pre-MCAT Questionnaire (PMQ), collect data for educational and research purposes, including reporting to AAMC constituents, providing summary information to the U.S. Congress and other policymakers, and assisting members with institutional management issues. From time to time, the AAMC may contact you to participate in such a survey. Whenever the AAMC conducts research using personally identifiable data (human subjects research), that research is reviewed by an external (to the AAMC) institutional review board to ensure protection of your interests.
 
 The AAMC reserves the right to use personal information in its possession to investigate inappropriate or unauthorized use of AAMC services or assets or apparent threats to public safety.
 
@@ -33,7 +33,7 @@ Once your credit card information, including the CVV number, has been passed to 
 
 #### Web Site Usage Information 
 
-E-mail addresses, aggregate information about which pages visitors access, and information volunteered by site visitors — such as user survey responses and site registrations — are used to improve the content of the AAMC Web site. Some portions of our site use cookies to improve your experience. For example, cookies allow you to shop at the Publications site and browse to other areas without losing the contents of your shopping cart. We also use cookies to help us learn more about site traffic patterns. You can set your browser to notify you when you receive a cookie, giving you a chance to decide whether or not to accept it. AAMC editorial and publishing staff also use Web site visitor data to help shape and direct the creation and maintenance of content.
+E-mail addresses, aggregate information about which pages visitors access, and information volunteered by site visitors—such as user survey responses and site registrations—are used to improve the content of the AAMC Web site. Some portions of our site use cookies to improve your experience. For example, cookies allow you to shop at the Publications site and browse to other areas without losing the contents of your shopping cart. We also use cookies to help us learn more about site traffic patterns. You can set your browser to notify you when you receive a cookie, giving you a chance to decide whether or not to accept it. AAMC editorial and publishing staff also use Web site visitor data to help shape and direct the creation and maintenance of content.
 
 ####  **Data Sharing with Third Parties**
 
@@ -90,7 +90,7 @@ Certain AAMC services and surveys provide additional detailed information regard
 #### Privacy Policy   
   
 ---|---  
-Annual Development Survey| [Users' Guide 2008 Edition  ](https://www.aamc.org/download/69410/data/2008guide.pdf)  
+Annual Development Survey| [Users' Guide 2011 Edition ](https://www.aamc.org/download/269698/data/2011_developement_survey_users_guide.pdf)  
 AMCAS® (American Medical College Application Service®)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Medical Student and Applicant Data](https://www.aamc.org/students/applying/amcas/amcasresources/60768/amcas_datacollection.html)  
 ERAS® (Electronic Residency Application Service)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data  ](https://www.aamc.org/download/69376/data/erasdatapolicy.pdf)  
 Faculty Roster| [Privacy Policy](https://www.aamc.org/data/facultyroster/privacy_policy/69012/facultyroster_privacy.html)  
