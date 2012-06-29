@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportschatplace.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227201543id_/http%3A//sportschatplace.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportschatplace.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629235616id_/http%3A//sportschatplace.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Sports Chat Place
 
