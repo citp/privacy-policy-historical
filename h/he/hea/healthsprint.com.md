@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthsprint.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229233217id_/http%3A//healthsprint.com/General/privacysecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthsprint.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629043131id_/http%3A//www.healthsprint.com/General/privacysecurity.aspx) for the most accurate reproduction.*
 
 # Security And Privacy
 
@@ -88,7 +88,7 @@ vi. any actual or proposed assignee of the HealthSprint Networks or participant 
 
 e. The HealthSprint Networks retains the right to charge a reasonable fee for the processing of any data access request. 
 
-**[Contact Us](https://web.archive.org/web/20111229233217id_/http%3A//healthsprint.com/General/contactus.aspx) **
+**[Contact Us](https://web.archive.org/web/20120629043131id_/http%3A//www.healthsprint.com/General/contactus.aspx) **
 
 Requests for access to data or correction of data or for information regarding policies and practices and kinds of data held should be addressed to: 
 
