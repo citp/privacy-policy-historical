@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydealbag.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202165049id_/http%3A//mydealbag.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydealbag.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629203133id_/http%3A//mydealbag.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | mydealbag
+# mydealbag daily deals aggregator privacy | Local & Online group buying coupons
 
 This privacy policy (this "Policy") describes the practices of Mydealbag Media, and any affiliates we designate from time to time in this Policy (collectively "we", "us", "our") with respect to our collection, use, storage and disclosure of personal information provided to us from users of our Website. This Policy is incorporated by reference to the [Terms of Service Agreement](https://web.archive.org/legal/terms), and forms an integral part of it. Any capitalized term used but not defined in this Policy will have the meaning defined in the Terms of Service Agreement. All references to "Website" in this Policy refer to our website at [mydealbag.com](http://mydealbag.com/) and all of its sub-domains.
 
@@ -93,5 +93,3 @@ mydealbag Media
 302-718 Main St, Vancouver, B.C. V6A 0B1
 
 604-312-8992
-
-## Like us for exclusive giveaways!
