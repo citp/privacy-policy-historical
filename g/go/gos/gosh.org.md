@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228162720id_/http%3A//www.gosh.org/hidden/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629114025id_/http%3A//www.gosh.org/gen/hidden/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -43,7 +43,7 @@ Back to top
 
 We will use your personal information to provide you with the services, products or information you have requested, for administration purposes and to further our charitable aims, including for fundraising activities. We may need to share your information with our service providers, associated organisations and agents for these purposes.
 
-We may share your information with other organisations who are supportive of our aims and objectives. We only use your personal information for direct marketing purposes if we are allowed to do this by law or if we have your consent. You can change your mind at any time by contacting Great Ormond Street Hospital’s Children’s Charity, 40 Bernard Street, London WC1N 1LE or email: [webmaster@gosh.org](mailto:webmaster@gosh.org "webmaster@gosh.org").
+We may share your information with other organisations who are supportive of our aims and objectives. We only use your personal information for direct marketing purposes if we are allowed to do this by law or if we have your consent. You can change your mind at any time by contacting Great Ormond Street Hospital’s Children’s Charity, 40 Bernard Street, London WC1N 1LE or email: [webcontent@gosh.org](mailto:webcontent@gosh.org "webmaster@gosh.org").
 
 Great Ormond Street Hospital Children’s Charity is responsible for collecting your personal information. Any information we collect is stored and processed in the UK. Your personal information is not shared with third parties or used in any other way (other than described in this policy or as required by law) unless you agree. 
 
@@ -103,7 +103,7 @@ Great Ormond Street Hospital’s Children’s Charity
 London  
 WC1N 1LE
 
-[webmaster@gosh.org](mailto:webmaster@gosh.org "webmaster@gosh.org")
+[webcontent@gosh.org](mailto:webcontent@gosh.org "webmaster@gosh.org")
 
 Back to top
 
