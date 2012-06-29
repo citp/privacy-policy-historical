@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shareaholic.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230092342id_/http%3A//www.shareaholic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareaholic.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629112407id_/http%3A//www.shareaholic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Shareaholic
 
 Your Privacy is of the highest concern to us.
 
-Effective July 18, 2011
+Effective October 07, 2011
 
 The Really Big Picture
 
@@ -66,6 +66,7 @@ Shareaholic may use information from Web beacons in combination with Data About 
   * **Affiliated Shareaholic Services on other sites:** We offer some of our services on or through other websites. Personal information that you provide to those sites may be sent to Shareaholic in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies.
   * **Links:** Shareaholic may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our services.
   * **Location data:** Shareaholic may offer location-enabled services. If you use those services, Shareaholic may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
+  * **Local storage:** Shareaholic may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
   * **User Profile information:** Certain information collected during registration and subsequent visits, such as your full name and location, may be displayed to other Shareaholic users in your User Profile. The User Profile is the area on Shareaholic where we allow you to tell other Shareaholic users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the Settings section of your User Profile at any time.
   * **Member Directory:** The e-mail address that you submit upon registration may be searchable by other Shareaholic users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish a connection on Shareaholic. You may opt-out of this feature at any time by visiting the Settings section of your User Profile.
   * **Aggregated statistics:** We may share with third parties certain pieces of aggregated, non-personal information such as the number of users who engaged in a particular topic, correlations between sharing and item preferences, and how many users chose to share a piece of content. Such information does not identify you individually.
