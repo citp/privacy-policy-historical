@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qiqigames.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227093204id_/http%3A//www.qiqigames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiqigames.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630001428id_/http%3A//qiqigames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - QiQiGames.Com
 
