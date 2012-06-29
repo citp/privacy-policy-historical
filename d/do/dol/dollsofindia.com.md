@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230110711id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629193323id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
 
 # Indian Art Store : Privacy Policy
 
@@ -58,22 +58,22 @@ INDIA**
 
 [Click here](http://www.dollsofindia.com/library/) **for list of archives**
 
-[](http://www.dollsofindia.com/swaminarayan.htm)
+[](http://www.dollsofindia.com/hindu-yugas.htm)
 
-Swaminarayan is considered as being equal to the Purushottama or the Supreme Being... Swaminarayan had exhibited his scholastic prowess from a very young age. He is believed to have mastered all the major Hindu scriptures...by the tender age of seven... Swaminarayan believed in a practical approach to religion and spirituality... After taking over the leadership of the Sampraday, Sri Swaminarayan involved himself in a lot of social work... Sri Swaminarayan was indeed an Avatar Purush of his time, one that richly deserves all the respect, devotion and adoration showered on him...
+According to Hindu philosophy, the world is made up of four main "Yugas" - ages, epochs or cycles of time - each made up of tens of thousands of human years... Each of these four Yugas involves stages of change; of evolution; one in which not only the physical universe undergoes change, but the whole thought process and consciousness of mankind metamorphoses either for better or for worse, depending upon that particular Yuga... Kalachakra puts us through repeated cycles of joy and suffering, depending upon our individual levels of karma... when one cycle of creation ends, God withdraws all of his energies into himself and rests for a period of time, when he is utterly inactive. After this period of rest, God resumes his activity and begins to recreate a whole new world, manifesting himself in an infinite number of new living beings and life forms...
 
   
 
 
 ## Testimonials
 
-ur site is fabulous.informative.
+I received my order last week and wanted to say thank you. The packaging was excellent, and the jewelry set was more attractive than I had expected. Thank you for your prompt and most efficient...
 
-Ritu
+Vineeta Sharma
 
-I have enjoyed your paintings very much and with reasonable prices.
+I received my order and it's fantastic. Thank you very much for making this so easy.
 
-Isabel Iglesias 
+evan mager
 
   
 
@@ -86,10 +86,10 @@ Isabel Iglesias
 
 [](http://www.dollsofindia.com/writetous.php)
 
-#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Shiva Posters](http://www.dollsofindia.com/read/shiva-posters.htm) - [Sholapith Sculptures](http://www.dollsofindia.com/read/shola-pith-sculptures.htm) - [Indian Ivory Statues](http://www.dollsofindia.com/read/indianivorystatues.htm) - [Saraswati](http://www.dollsofindia.com/read/saraswati.htm) - [Murlidhar](http://www.dollsofindia.com/read/murlidhar.htm) - [Hinduism Books](http://www.dollsofindia.com/read/hinduism-books.htm) - [Bal Gopala Statue](http://www.dollsofindia.com/read/bal-gopala-statue.htm) - [Swastika](http://www.dollsofindia.com/read/swastika.htm) - [Brass Buddha](http://www.dollsofindia.com/read/brass-buddha.htm) - [Gents Kurta](http://www.dollsofindia.com/read/gents-kurta.htm) 
+#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Nitai Gaur](http://www.dollsofindia.com/read/nitai-gaur.htm) - [Musician Ganesha Sculpture](http://www.dollsofindia.com/read/musician-ganesha-sculpture.htm) - [Lakshmi Statue](http://www.dollsofindia.com/read/lakshmi-statue.htm) - [Indian Classical Dances](http://www.dollsofindia.com/read/indian-classical-dances.htm) - [Woman Statues](http://www.dollsofindia.com/read/woman-statues.htm) - [Lovers Of India](http://www.dollsofindia.com/read/lovers-of-india.htm) - [Patchwork Bag](http://www.dollsofindia.com/read/patchwork-bag.htm) - [Indian Costume Jewelry](http://www.dollsofindia.com/read/indian-costume-jewelry.htm) - [Ganesha Picture](http://www.dollsofindia.com/read/ganesha-picture.htm) - [Ashtha Vinayaka](http://www.dollsofindia.com/read/ashtha-vinayaka.htm) 
 
   
-**Copyright © 2011,[Dolls Of India](http://www.dollsofindia.com/)  
+**Copyright © 2012,[Dolls Of India](http://www.dollsofindia.com/)  
 Site designed and maintained by [UnlimitedFX](http://www.unlimitedfx.com/)**
 
   
