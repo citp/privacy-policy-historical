@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228203639id_/http%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629142705id_/http%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
 
 # Sports Betting and Gambling Odds Online
 
@@ -46,7 +46,7 @@ A Person's consent can be express, implied, or given through an authorized repre
 
 **Note:** If any Person has any questions or concerns about Covers Media Group Ltd's privacy practices, the Person can either: 
 
-i) Write to Customer Service - Privacy, Covers Media Group Ltd., Unit 6 The Sirius Centre, North Point, Tuam Road, Galway, Ireland 
+i) Write to Customer Service - Privacy, Covers Media Group Ltd., Victoria House, Victoria Place, Eyre Square, Galway, Ireland 
 
 ii) Provide information to Covers Media Group Ltd. through the form provided on our [ feedback page ](https://web.archive.org/includes/Email_us.aspx?uid=1). 
 
@@ -281,8 +281,8 @@ Covers Media Group Ltd. Privacy Policy.
 10.1 Covers Media Group Ltd. shall maintain procedures for addressing and responding to all inquiries or complaints from Persons about Covers Media Group Ltd's handling of their Personal Information. If any Person at any time has any questions or concerns about Covers Media Group Ltd's privacy practices, please contact us at:
 
 **Covers Media Group Ltd.  
-Unit 6 The Sirius Centre   
-North Point, Tuam Road, Galway  
+Victoria House, Victoria Place   
+Eyre Square, Galway, Ireland  
 Ireland**
 
 You may contact us through our [feedback page ](https://web.archive.org/includes/Email_us.aspx?uid=1)  
