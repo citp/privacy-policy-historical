@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055331id_/http%3A//www.sevelina.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630002111id_/http%3A//www.sevelina.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | • Sevelina Girls Games • | Free Online Dress Up Games
+# Privacy Policy | • Sevelina Girls Games •
 
 **Personal Information**
 
@@ -28,11 +28,11 @@ sevelina.org web site contains links to other partner’s sites and that is why 
 
 **Terms of Use**
 
-When visiting sevelina.com website and/or using its any software, game, you are fully agree with its “Privacy Policy” and “Terms of Use” conditions. Sevelina.org has the right to update and modify the policies at any time, so visitors always advised to check the “Privacy Policy” page updated changes.
+When visiting sevelina.org website and/or using its any software, game, you are fully agree with its “Privacy Policy” and “Terms of Use” conditions. Sevelina.org has the right to update and modify the policies at any time, so visitors always advised to check the “Privacy Policy” page updated changes.
 
 **Access Restrictions**
 
-sevelina.com website is suitable to visitors over 12 year age. For younger visitors we suggest to use its service and games together with their parents, or persons empowered by their parents.
+sevelina.org website is suitable to visitors over 12 year age. For younger visitors we suggest to use its service and games together with their parents, or persons empowered by their parents.
 
 **Proprietary Rights of the Games**
 
