@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetysign.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130174330id_/http%3A//www.safetysign.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetysign.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629201951id_/http%3A//www.safetysign.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Safetysign.com Privacy Policy
 
@@ -16,7 +16,7 @@ We have the following exceptions to these privacy policies: We will release spec
 
 Your information is protected by secure firewalls (communication management computers specially designed to keep information secure and inaccessible by other Internet users). 
 
-You're safe while you shop; and if you choose to store your personal information and credit card numbers with us by registering, it's always secure and protected by your own password. Total security includes firewalls, intruder detection, testing, and physical security.
+You're safe while you shop; and if you choose to store your personal information with us by registering, it's always secure and protected by your own password. Total security includes firewalls, intruder detection, testing, and physical security.
 
 » We'll use it to process your order(s).  
 » We'll use it to recognize you when you login to our site.  
