@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the co-operativetravel.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125154244id_/http%3A//www.co-operativetravel.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-operativetravel.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629050610id_/http%3A//www.co-operativetravel.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Co-operative Travel Privacy Policy
 
@@ -30,3 +30,13 @@ Your Data controller is: Co-op Group Travel 1 Limited. You are entitled to a cop
 In common with many other website operators, we do employ cookies (download of files to your PC to record your visits to the site) to measure site information. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored.
 
 Please note, if you do turn cookies off this will limit the service that we are able to provide to you and may affect your visitor experience. For further information on cookies and how to switch them off see [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+Cookies are small text files which are stored on your computer, mobile phone or device.  Cookies may be placed on your device when you visit a website or open a marketing email.
+
+The Co-operative Group uses cookies for a variety of reasons, such as to remember your preferences when you visit out sites, tailor your visit, monitor traffic to enable us to improve our sites, or to ensure we remember the contents of your shopping basket when you next visit the site.
+
+We also set third parties cookies to allow you to easily link to third parties you may be subscribed to, such as Facebook, Twitter and Youtube.  We do not control these cookies and how your information may be used, so please visit the third parties’ websites for more information on these cookies. 
+
+Our partners may also set cookies when they direct you to our site to buy a product.  These cookies allow us to pay our partners a referral fee based on the nature of any purchase you make. 
+
+To find out more information as to the cookies we use and why, then please [click here](http://www.co-operative.coop/terms/privacystatement/cookies "cookies") for a link to out Cookie’s List and How to Reject Cookies.
