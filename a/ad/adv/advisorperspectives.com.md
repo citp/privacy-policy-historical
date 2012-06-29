@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advisorperspectives.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020025id_/http%3A//advisorperspectives.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisorperspectives.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629181728id_/http%3A//www.advisorperspectives.com/privacy.php) for the most accurate reproduction.*
 
 # Advisor Perspectives
 
@@ -42,5 +42,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-© Copyright 2020, Advisor Perspectives, Inc. All rights reserved.
