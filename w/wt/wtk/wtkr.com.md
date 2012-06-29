@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtkr.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121025114id_/http%3A//www.wtkr.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtkr.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629142420id_/http%3A//privacy.tribune.com) for the most accurate reproduction.*
 
 # Privacy Policy - Tribune - privacy.tribune.com
 
@@ -86,7 +86,7 @@ We will make your information available to other companies, websites, applicatio
   * When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers’, operators’, or sponsors’ privacy policies or practices.
   * We may disclose your information in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
   * We may share your information with third-party advertisers and advertising networks or others with which we have a contractual relationship.
-  * We may disclose your information when we believe it appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](http://www.chicagotribune.com/terms), and/or to protect our rights and property.
+  * We may disclose your information when we believe it appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service for the Services you accessed, and/or to protect our rights and property.
 
 
 
