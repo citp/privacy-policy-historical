@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the guzzle.co.za privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226230522id_/http%3A//www.guzzle.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guzzle.co.za privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629201123id_/http%3A//www.guzzle.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — guzzle.co.za
+
+## Privacy policy
+
+You are here: [Home](https://web.archive.org/)Privacy policy 
 
 **YOUR INFORMATION**   
 Guzzle will only use your information to notify you of updates on specials. When you sign up for a Guzzle account, all information including names, email address and contact numbers will be stored in our secure database. 
