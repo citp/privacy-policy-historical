@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120539id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629025239id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -51,11 +51,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [pyccobalt.ru](http://pyccobalt.ru.dedicatedornot.com/)
-  2. [www.youyuan888.com](http://www.youyuan888.com.dedicatedornot.com/)
-  3. [khuphodem.com](http://khuphodem.com.dedicatedornot.com/)
-  4. [88.249.0.216](http://88.249.0.216.dedicatedornot.com/)
-  5. [kihyoe.com](http://kihyoe.com.dedicatedornot.com/)
-  6. [conscience.netfirms.com](http://conscience.netfirms.com.dedicatedornot.com/)
+  1. [www.antman.se](http://www.antman.se.dedicatedornot.com/)
+  2. [www.boldizsar.co.uk](http://www.boldizsar.co.uk.dedicatedornot.com/)
+  3. [www.mmadvocatenkantoor.nl](http://www.mmadvocatenkantoor.nl.dedicatedornot.com/)
+  4. [fuddlewords.com](http://fuddlewords.com.dedicatedornot.com/)
+  5. [www.bolletinen.se](http://www.bolletinen.se.dedicatedornot.com/)
+  6. [www.raebauer.de](http://www.raebauer.de.dedicatedornot.com/)
 
 
