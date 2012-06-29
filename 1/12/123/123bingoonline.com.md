@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 123bingoonline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205622id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123bingoonline.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629122823id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 123 Bingo Online Privacy Policy
 
 ### Collection and Use of Information.
 
-123Bingo is the exclusive and sole owner of all the information collected through various points of the site. We don’t sell, share or divulge this information to others under any circumstances. 123Bingo and its employees adhere strictly to this policy.
+123Bingoonline is the exclusive and sole owner of all the information collected through various points of the site. We don’t sell, share or divulge this information to others under any circumstances. 123Bingoonline and its employees adhere strictly to this policy.
 
 ### Registration
 
@@ -18,7 +18,7 @@ The information requested is used for billing purposes and to process any deposi
 
 ### Newsletter.
 
-123Bingo sends out weekly newsletters to the players who have subscribed to this service. Please note that you can unsubscribe at any time.
+123Bingoonline.com sends out weekly newsletters to the players who have subscribed to this service. Please note that you can unsubscribe at any time.
 
 ### Email Opt Out.
 
@@ -38,4 +38,4 @@ Finally, the servers that we store personally identifiable information on are ke
 
 ### Offers.
 
-We send all new accounts a welcome mail in order to verify information such as passwords and user name. Users who are already active members will receive from time to time emails in the shape of promotions, services, newsletters and any other personal and private notice(s). Since we strictly adhere to privacy policies, 123Bingo presents users the option to not receive these type of notices.
+We send all new accounts a welcome mail in order to verify information such as passwords and user name. Users who are already active members will receive from time to time emails in the shape of promotions, services, newsletters and any other personal and private notice(s). Since we strictly adhere to privacy policies, 123Bingoonline presents users the option to not receive these type of notices.
