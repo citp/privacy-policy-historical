@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215504id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629022720id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hushmail – Free Email with Privacy
 
@@ -8,7 +8,7 @@ Unless otherwise specified Hush Communications, referred to in this document as 
 
 ## How your data is used
 
-Hush is committed to protecting the privacy of all its Web site visitors. We do not share, sell, rent, trade or loan personal data to third parties for any purpose, but note that we may collect aggregate statistics for our own marketing research team. Any demographic information collected by Hush is used only to tailor advertising to users while they are connected to the Hush.com service. Hush abides by strict security protocols that limit access to internal information. Hush restricts user information and has protocols that allow only specific employees to have access to the user database itself.
+Hush is committed to protecting the privacy of all its Web site visitors. We do not share, sell, rent, trade or loan personal data to third parties unless compelled to do so under an order enforceable under the laws of British Columbia, Canada. For more information, read “[How secure is Hushmail?](https://web.archive.org/about/technology/security/)“. Any demographic information collected by Hush is used only to tailor advertising to users while they are connected to the Hush.com service. Hush abides by strict security protocols that limit access to internal information. Hush restricts user information and has protocols that allow only specific employees to have access to the user database itself.
 
 ## Web logs and cookies
 
@@ -28,4 +28,4 @@ Hush does not contact users unless the communication is account related. While a
 
 ## Contact us
 
-We value your opinions and appreciate your comments. If you have any questions or concerns please [contact us](https://web.archive.org/web/20111231215504id_/http://www.hushmail.com/contact/ "Contact us about our Privacy Policy").
+We value your opinions and appreciate your comments. If you have any questions or concerns please [contact us](https://web.archive.org/web/20120629022720id_/https://www.hushmail.com/contact/ "Contact us about our Privacy Policy").
