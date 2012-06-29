@@ -1,99 +1,95 @@
-> *The following text is extracted and transformed from the affiliatewebsitegenerator.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705100350id_/http%3A//affiliatewebsitegenerator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatewebsitegenerator.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630015611id_/http%3A//www.successetc.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Website Privacy Policy « Success Etc
 
-Privacy Policy
+## How We Protect Your Privacy
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+This website privacy policy tells you how we collect, use, and protect your personal information. By visiting our website ([http://successetc.com](http://successetc.com/)), you accept and agree to the terms and conditions of this website privacy policy. In particular, you consent to our collection and use of your personal information as described in this website privacy policy.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")- those who access some of our services but do not have accounts ("visitors") as well as those who may purchase products and/or pay a monthly service fee to subscribe to the service ("members")- what we do with the information we collect, and the choices visitors and members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+## Minors
 
-**3rd Party Disclosure** \- This statement informs the customer of what information you plan on disclosing to 3rd parties. In most cases this statement applies to partner companies that you work closely with in order to process or deliver various products to your clients.
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-Here's a sample statement that you can either use as-is or edit to fit your current policy.  
-Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
+## This Policy Is Part Of Our Terms And Conditions Of Use
 
-\----------  
+Our website privacy policy is a part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
 
+## The type of information we collect from you and interest-based advertising.
 
-**Private Information Security** \- This statement addresses what you do with a customer's private information after an order is placed. Note: Private information is different than public information. Private information refers to information like credit card numbers, social security numbers, financial statements, etc., which must be securely stored and managed if you plan on storing it on your own server. If you're like most businesses, the only private information gathered from the customer is credit card information, which is typically stored on your payment gateway provider's secure servers on your behalf (IE. Companies like Authorize.net, Linkpoint, Paypal, 2CheckOut, etc.).
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-Basically you have two options. If you don't store credit cards or other private information on your server (which is most likely the case), then you'll want to add something similar to option a) below. On the other hand, if you do store credit cards or other private information on your own server (which is rare), you'll need to go with something similar to option b) and provide more detailed information. Feel free to use the sample statements below:
+And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-a) For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, (insert providers name/s here), keeps this information encrypted and secure on your behalf.
+We may also collect any data that you provide us by posting it at our website or by sending to us via email. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
 
-\--or--
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-b) Private customer information (credit cards, S.S. Numbers, financials, etc.) may be stored on our servers, in order to...... (Please make sure to enter 1) the reason why the private information needs to be stored on your server, 2) how long you plan on storing this information, and 3) how you protect this information while it is being stored.)  
+## What We Do With Your Information
 
+We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new products and services, special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
 
-Remember, customers need to know how their information is going to be kept secure and what measures you take to secure it, so the more information you can provide the better. Also, if you are storing private information, particularly credit card numbers on your own server, you should look into PCI scanning services.
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-\----------  
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
 
-**Email Usage** \- This statement refers to the issue of email notifications. If you plan on sending email specifically related to a customers order or a product that a customer has ordered, or if you plan on sending occasional email updates, you typically don't need to provide an opt-in / opt-out option. However, if you have a mailing list, or plan on sending your customers regular or ongoing emails that are not directly related to a product or service that they have purchased from you, you need to include an opt-in area where they physically subscribe and agree to receive email from you, and you need to include an opt-out / unsubscribe option or have instructions as to how they can unsubscribe in the emails you send. Below are some different sample statements that you can use. Please select the option that best fits your websites needs: a) The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-b) The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
+## Interest-Based Advertising
 
-\--and if you have an opt-in or mailing list option, please add the following option in addition to one of the options above--
+When you visit our website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like.
 
-c) If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by (please enter the opt-out or unsubscribe process here. This may be something like clicking the unsubscribe button at the bottom of your emails.
+This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google privacy policies and its DoubleClick DART cookie used to generate interest-based advertising, go to http://www.google.com/privacy/ads/.
 
-**Personal Information Our Company Collects and How It Is Used**
+Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-Introduction. Our company collects information in different ways from visitors and members who access the various parts of our Services and the network of Web sites accessible through our service.
+## User Names And Passwords
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as credit card number), and the type of personal computer being used to access the services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances.
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain information, such as the name, address, and username of the persons who subscribed to the Services as a result of the joint promotion for the purpose of offering you other products and goods.
+## Your Use Of Information And Unsolicited Commercial Email
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 
-Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the that business partner company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies. At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party.
+We hate junk email (spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial email or to send unsolicited commercial communications via our website’s posting or other communication systems.
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of there products and services, the partner may need to collect and maintain personal information.
+## Your Voluntary Disclosure Of Information To Third Parties Who Are Not Our Suppliers
 
-Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases you may be asked to provide contact information such as your name, address, phone number, and credit/debit card information.
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipients name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so.
+## Autoresponders
 
-In you order services or products directly from our company, we use the personal information you provide to process that order. We do not share this information with outside parties that we do business with.
+We may use autoresponders to communicate with you by email. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an email to support[at]successetc.com, or sending us mail to the address listed below.
 
-Online Advertisements: Our company may display our online advertisements. In those cases we share information about our Visitors and Members through the registration process as well as through online surveys and promotions with these advertisers.
+## Policy Changes
 
-Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and us and advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by email, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive.
+If you are concerned about the topic covered by this website privacy policy, you should read it each time before you use our website.
 
-Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us improve the types of products and services we offer and how we provide them to you.
+## Questions or Concerns
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+Any questions or concerns about this website privacy policy should be brought to our attention by sending an email to support[at]successetc.com and providing us with information relating to your concern.
 
-Special Cases: It is our company's policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses.
+You may also mail your concerns to us at the following address:
 
-Also, we may disclose personal information about Visitors or Members, or information regarding your use of the services or Websites accessible through our Services, for any reason if, in our sole desecration, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or brign legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our members.
+SuccessEtc.com LLC  
+10280 W. Ustick Rd.
 
-Notice to California Residents Your California Privacy Rights
+Boise, Id 83704  
+United States
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we shared information about you and your family for their marketing purposes during the pervious calendar year, and a description of the categories of personal information shared. To make such a request please send an email to [Privacy@PrivacyRequest.com](mailto:Privacy@PrivacyRequest.com) and please include the phrase "California Privacy Request" in the subject line, the domain name of the Website you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+## California Privacy Rights
 
-"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed your hard drive when you visit certain websites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an email to support[at]successetc.com or write us at the following address:
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibilty for information collected through them.
+SuccessEtc.com LLC  
+10280 W. Ustick Rd.
 
-Our company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Childrens Online Privacy Protection of 1998 and all other applicable laws. Therefore we restrict our website of persons eighteen years or older.
+Boise, Id 83704  
+United States
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEBSITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEBSITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEBSITE, NO INFORMATION OBTAINED BY THIS WEBSITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.
+This website privacy policy was last updated on February 28, 2012.
 
-Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-
-Our Company's Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third party hackers from illegally obtaining this information.
-
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
-
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgment and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
-
-Last updated: January 8, 2009
-
-Copyright 2003-2009 InternetMarketingLawProducts.com for DotComSecrets.com,Inc
+This document is Copyright © 2008-2012 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at [http://successetc.com](http://successetc.com/). All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
