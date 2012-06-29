@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the impactradius.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219220245id_/http%3A//www.impactradius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactradius.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629164054id_/http%3A//www.impactradius.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Impact Radius
+# Impact Radius - Impact Radius
 
 Impact Radius aims to be the industry leader in offering our customers superior protection of their personal information as well as the business data that we collect. We are committed to ensuring that our employees do not have access to your business data, removing the temptation to use that information for their own gains or for the gains others. Our security measures are amongst the strictest on the Internet. We want you to feel comfortable using our technology for all of your valuable performance advertising relationships. Our objectives are to:
 
@@ -15,7 +15,8 @@ We welcome your comments, questions and suggestions regarding our performance in
 
 Sincerely,   
 Wade Crang, Todd Crawford, Roger Kjensrud, Per Pettersen and Lisa Riolo   
-Impact Radius Founders 
+Impact Radius Founders  
+
 
 **Impact Radius Privacy Policy**
 
@@ -62,11 +63,11 @@ We may outsource some of these activities to our business partners. To the exten
 
 We reserve the right to retain and use your contact information as long as we deem necessary to communicate with you and preserve or disclose your contact information as reasonably necessary to comply with our contractual obligations to you and applicable privacy and/or data protection legislation. 
 
-If in the future you decide that you do not want us to contact you regarding other services and products we offer or information regarding upcoming Impact Radius events, please opt-out by letting us know in writing by email to[privacy@impactradius.com](mailto:privacy@impactradius.com). 
+If in the future you decide that you do not want us to contact you regarding other services and products we offer or information regarding upcoming Impact Radius events, please opt-out by letting us know in writing by email to [privacy@impactradius.com](mailto:privacy@impactradius.com). 
 
 _(c)     Collection and use of email addresses_ We collect the email addresses of those who communicate with us by email. Generally, the email addresses we collect are used to contact existing or potential business customers for the purpose of providing services, information and assistance. We may use the email address to contact existing or potential business customers to introduce new products or services, provide notification of website changes, or provide general business information. If you contact us through the Contact Us form, we reserve the right to retain and use the email address and contact information as long as we deem necessary to communicate with you and preserve or disclose your information as reasonably necessary to comply with our contractual obligations to you and applicable privacy and/or data protection legislation. 
 
-If in the future you decide that you do not want us to email you regarding new products or services, provide notification of website changes, or provide general business information, please opt-out by letting us know in writing by email to[privacy@impactradius.com](mailto:privacy@impactradius.com). 
+If in the future you decide that you do not want us to email you regarding new products or services, provide notification of website changes, or provide general business information, please opt-out by letting us know in writing by email to [privacy@impactradius.com](mailto:privacy@impactradius.com). 
 
 **7\. Cookies** _(a) All visitors_ "Cookies" are small text files that contain a string of alpha-numeric characters and are used to associate an action taken by a browser with subsequent actions taken by that browser. Web beacons are small strings of HTML code that are placed in a Web page, and are sometimes called "clear GIFs" (Graphics Interchange Format) or "pixel tags." Web beacons are most often used in conjunction with cookies. 
 
@@ -97,4 +98,4 @@ Please be advised that, although we take every reasonable precaution available t
 
 **11\. Changes to this Privacy Policy** This privacy policy is subject to change. If we make any material or substantive changes in the way that we treat the information collected at this Website, we will post a clear and conspicuous notice of these changes on this Website and in this Privacy Policy. 
 
-**12\. More Information** If you have further questions or concerns relating to this Website's privacy practices, please email[privacy@impactradius.com](mailto:privacy@impactradius.com). 
+**12\. More Information** If you have further questions or concerns relating to this Website's privacy practices, please email [privacy@impactradius.com](mailto:privacy@impactradius.com). 
