@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the suncountry.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101120140id_/http%3A//www.suncountry.com/page/1/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suncountry.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630001020id_/http%3A//www.suncountry.com/page/1/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head data-template-set="html5-reset">
 
@@ -89,6 +89,17 @@
       
         
 
+
+
+
+
+
+  
+    
+  
+  
+
+
 <header>
   <h1 id="logo">
       
@@ -117,13 +128,10 @@
           <ul class="subnav">
             <li><a href="http://book.suncountry.com/SCA/reservations/flightsCities.jsf">Flights</a></li>
             <li><a href="http://www.suncountryvacations.com/SCV/">Packages</a></li>
-            <li><a href="http://www.suncountryvacations.com/SCV/?ho=active">Hotels</a></li>
+            
             <li><a href="/page/1/deals.jsp?tab=cruise">Cruises</a></li>
 
-              
-              
-            <li><a href="/page/1/cars.jsp">Cars</a></li>
-            <li><a href="http://www.partner.viator.com/en/8189">Tickets &amp; Attractions</a></li>
+            
             <li>
                 
                 
@@ -178,13 +186,15 @@
           <a href="https://ufly.suncountry.com/program_overview.cfm">UFly Rewards</a>
 
           <ul class="subnav">
-            <li><a href="https://ufly.suncountry.com/program_overview.cfm">UFly Rewards</a></li>
+            <li><a href="https://ufly.suncountry.com/enroll.cfm">Enroll Now</a></li>
+            <li><a href="https://ufly.suncountry.com/program_overview.cfm">Program Overview</a></li>
             <li><a href="https://ufly.suncountry.com/earning_points.cfm">Earning Points</a></li>
             <li><a href="https://ufly.suncountry.com/redeeming_points.cfm">Redeeming Points</a></li>
-            <li><a href="https://ufly.suncountry.com/faqs.cfm">FAQs</a></li>
+            <li><a href="https://ufly.suncountry.com/faqs.cfm">FAQ's</a></li>
             <li><a href="https://ufly.suncountry.com/terms.cfm">Terms &amp; Conditions</a></li>
             <li><a href="https://ufly.suncountry.com/consumer">Manage Account</a></li>
             <li><a href="https://uflyplus.suncountry.com/index.aspx">Ufly Rewards Plus</a></li>
+            <li><a href="/page/1/contact-us.jsp">Contact Us</a></li>
           </ul>
       </li>
     </ol>
@@ -246,7 +256,7 @@
         
 
         
-          <a href="/ads/1700" class="promo"><img src="/media/image/1/costaricanonstopservice2012.jpg" alt="Costa Rica non-stop service 2012" height="70" width="328"></a>
+          <a href="/ads/201329" class="promo"><img src="/media/image/1/firstclass336x280.gif" alt="First Class 336x280" height="280" width="336"></a>
         
     
   
@@ -542,6 +552,34 @@
       input.css('color','#000');
     }
 
+ function launchDialog() {
+    var action  = $(this).attr("href");
+    var title   = $(this).attr("title");
+    var inlineId   = $(this).attr("id") +"Div";
+    var h       = parseInt( $.urlParam('height', action) );   // must be of type int, or the height/width doesn't take
+    var w       = parseInt( $.urlParam('width', action) );
+    if ( h == 0 ) h = '400';
+    if ( w == 0 ) w = '400';
+
+    var opts = {                        // options for dialog
+      height: h,
+      width: w,
+      title: title,
+      modal: true                      // always modal to trigger the overlay
+    }
+
+    if ( inlineId ) { // display contents of an inline div instead of external page url
+      var inlineContent = ($("#" + inlineId).clone()).attr('class','');
+      $("#uiDialog").html(inlineContent).dialog(opts);
+    } else {
+      $("#uiDialog").load(action, function(data){}).dialog(opts);
+    }
+    return false;
+  }
+
+  $(document).ready(function() {
+ 	
+  });
    </script>
 
 </body></html>
