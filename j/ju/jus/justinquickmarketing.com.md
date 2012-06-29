@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the justinquickmarketing.com privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001120906id_/http%3A//www.justinquickmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinquickmarketing.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630014528id_/http%3A//www.justinquickmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Justin Quick Marketing
 
 **PRIVACY POLICY**
 
-Welcome to www.JustinQuickMarketing.com (the “Site”).
+Welcome to www.justinquickmarketing.com (the “Site”).
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.JustinQuickMarketing.com (collectively, “Services”) (“Authorized Customers”).
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.justinquickmarketing.com (collectively, “Services”) (“Authorized Customers”).
 
 **Personally Identifiable Information**
 
@@ -31,7 +31,7 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 **How is Personally Identifiable Information stored?**
 
-Personally Identifiable Information collected by www.JustinQuickMarketing.com is securely stored and is not accessible to third parties or employees of www.JustinQuickMarketing.com except for use as indicated above.
+Personally Identifiable Information collected by www.justinquickmarketing.com is securely stored and is not accessible to third parties or employees of www.justinquickmarketing.com except for use as indicated above.
 
 What choices are available to Visitors regarding collection, use and distribution of the information?
 
@@ -41,13 +41,13 @@ Visitors and Authorized Customers may opt out of receiving unsolicited informati
 
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-How does www.JustinQuickMarketing.com use login information?
+How does www.justinquickmarketing.com use login information?
 
-www.JustinQuickMarketing.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+www.justinquickmarketing.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-www.JustinQuickMarketing.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+www.justinquickmarketing.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
 **How does the Site keep Personally Identifiable Information secure?**
 
