@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toprooms.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926204319id_/http%3A//www.toprooms.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprooms.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629042504id_/http%3A//www.toprooms.com/Privacy) for the most accurate reproduction.*
 
-# Privacy - toprooms.com - stay original. Real hotel rooms for real people
+# Privacy - toprooms.com
 
 1\. Your consent
 
