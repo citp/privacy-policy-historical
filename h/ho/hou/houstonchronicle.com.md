@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstonchronicle.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202011205id_/http%3A//www.chron.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonchronicle.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630001259id_/http%3A//www.chron.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Houston Chronicle
 
@@ -122,7 +122,11 @@ When you are on our Web Site you may have the opportunity to visit, or link to, 
 **K.   News Registry**   
 We participate in the News Registry, a service operated by the News Licensing Group, LLC (NLG). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NLG News Registry. Please refer to the NLG News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
 
-**L.   Miscellaneous**
+**L. quadrantONE**
+
+The quadrantONE platform adheres to the Self‐Regulatory Principles for Online Behavioral Advertising (the "Principles"), developed by the Digital Advertising Alliance, a group of leading online industry trade associations dedicated to applying consumer‐friendly standards to online behavioral advertising across the Internet. To learn more about the Principles and to exercise your choice to opt‐out from interest‐based advertising, please go to <http://www.aboutads.info/choices/>. You may opt‐out from the use of your information for Online Behavioral Advertising purposes by selecting quadrantONE from the list of participating companies and following the opt‐out instructions.
+
+**M.   Miscellaneous**
 
 > **(i)   Consent to Processing**  
 >  We control and operate the Web Site from our offices in the United States of America.  By providing Personal Information to this Web Site, you understand and consent to such collection, maintenance, processing and transfer of such information.  We do not represent that materials on the Web Site are appropriate or available for use in other locations.  Persons who choose to access the Web Site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.  All parties to this Privacy Policy waive their respective rights to a trial by jury. 
