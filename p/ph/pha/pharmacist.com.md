@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229083320id_/http%3A//www.pharmacist.com/AM/Template.cfm%3Fsection%3DPrivacy_Policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630013514id_/http%3A//www.pharmacist.com/AM/Template.cfm%3Fsection%3DPrivacy_Policy1) for the most accurate reproduction.*
 
 # Pharmacist.com | Privacy Policy
 
@@ -8,9 +8,7 @@
 
 The American Pharmacists Association (APhA), the owners and operators of [www.pharmacist.com](https://web.archive.org/), respect your privacy as a user of this Web site. Please read this Privacy Policy so that you can understand what information is collected on pharmacist.com, how that information is used, with whom it is shared, and how it is protected against unauthorized access. To make this notice easy to locate, we make it available on our home page and throughout the site.
 
-Note that this Privacy Policy may be updated from time to time. You should check it regularly to make certain that you are kept up to date. Questions about this Privacy Policy should be directed to: 
-
-[_infocenter@aphanet.org_](mailto:infocenter@aphanet.org)
+Note that this Privacy Policy may be updated from time to time. You should check it regularly to make certain that you are kept up to date. Questions about this Privacy Policy should be directed to: [infocenter@aphanet.org](mailto:infocenter@aphanet.org)
 
   **II. What information is collected on pharmacist.com?**
 
@@ -32,11 +30,7 @@ You may also provide, at your option, a secondary address, telephone number, or 
 
 In order to take continuing education (CE) exams on pharmacist.com, you will also be required to provide your Social Security Number for tracking purposes.
 
-If you decide to enroll as an APhA member on the site, you will also be asked for the college(s) of pharmacy or other educational institutions from which you have earned degrees, your date(s) of graduation, and the 
-
-APhA  Academy
-
-and Section you wish to join. APhA members may also elect to join one or more Practitioner Interest Groups and to receive certain e-newsletters that are provided as a benefit of membership. APhA members may opt in or out of APhA e-newsletters by updating their profiles on pharmacist.com. After logging into the site, click on "My Account" then "Edit my Preferences."
+If you decide to enroll as an APhA member on the site, you will also be asked for the college(s) of pharmacy or other educational institutions from which you have earned degrees, your date(s) of graduation, and the APhA  Academyand Section you wish to join. APhA members may also elect to join one or more Practitioner Interest Groups and to receive certain e-newsletters that are provided as a benefit of membership. APhA members may opt in or out of APhA e-newsletters by updating their profiles on pharmacist.com. After logging into the site, click on "My Account" then "Edit my Preferences."
 
 When you place an order on pharmacist.com, we may also collect information you provide about someone else to whom you wish to ship products. We do not share this information with outside parties except to the extent necessary to complete that order.
 
@@ -56,23 +50,11 @@ This section of the Privacy Policy describes how the information you provide on 
 
 Name and address, telephone or fax number, e-mail address, and credit card information may be provided to third parties operating under contract to APhA for such purposes as fulfilling product orders, handling meeting registrations, or providing CE exam grading services. Contract terms specifically forbid these third parties from making any other use of your information. These third parties are selected and monitored by either APhA, as are the arrangements that the third parties make to secure your information against unauthorized use. Credit card information provided on pharmacist.com is not permanently stored by APhA, or the third parties that perform the functions listed in this paragraph.
 
-Name and address information collected on pharmacist.com may be made available for limited, one-time use by organizations seeking to contact you with information about products, programs, or services relevant to the professional or educational needs of pharmacists, pharmacy technicians, or pharmacy students. E-mail addresses are not made available to any such third party. Requests for such use of your address information are reviewed to ensure that the information that is to be provided is consistent with the professional nature of APhA and the professional and educational needs of the pharmacy community. You may specify that your name and address information not be used for the purposes enumerated in this paragraph by sending an e-mail with the subject "no informational mailings" to 
+Name and address information collected on pharmacist.com may be made available for limited, one-time use by organizations seeking to contact you with information about products, programs, or services relevant to the professional or educational needs of pharmacists, pharmacy technicians, or pharmacy students. E-mail addresses are not made available to any such third party. Requests for such use of your address information are reviewed to ensure that the information that is to be provided is consistent with the professional nature of APhA and the professional and educational needs of the pharmacy community. You may specify that your name and address information not be used for the purposes enumerated in this paragraph by sending an e-mail with the subject "no informational mailings" to [infocenter@aphanet.org](mailto:infocenter@aphanet.org).
 
-[ _infocenter@aphanet.org_](mailto:infocenter@aphanet.org)
+APhA may provide name and address, telephone, or e-mail information collected on pharmacist.com to research firms operating under contract to either or both organizations, to researchers at colleges of pharmacy or other recognized educational, or to research organizations seeking to conduct studies on pharmacy practice, education, or training on a voluntary basis (that is, you may be asked but never required to participate in such studies). Such organizations will be permitted to use personally identifiable information only to contact you regarding the study. You may specify that your name and address information not be used for the purposes enumerated in this paragraph by sending an e-mail with the subject "no surveys" to [infocenter@aphanet.org](mailto:infocenter@aphanet.org).
 
-.
-
-APhA may provide name and address, telephone, or e-mail information collected on pharmacist.com to research firms operating under contract to either or both organizations, to researchers at colleges of pharmacy or other recognized educational, or to research organizations seeking to conduct studies on pharmacy practice, education, or training on a voluntary basis (that is, you may be asked but never required to participate in such studies). Such organizations will be permitted to use personally identifiable information only to contact you regarding the study. You may specify that your name and address information not be used for the purposes enumerated in this paragraph by sending an e-mail with the subject "no surveys" to 
-
-[ _infocenter@aphanet.org_](mailto:infocenter@aphanet.org)
-
-.
-
-Name and address information collected on pharmacist.com may be made available to a small number of providers of professional liability or other insurance products, credit card, banking, or investment services, telephone discount, or automobile rental companies for the purpose of sending you mail about their products, programs, and services. You may specify that your name and address information not be used for the purposes enumerated in this paragraph by sending an e-mail with the subject "no offers" to 
-
-[ _infocenter@aphanet.org_](mailto:infocenter@aphanet.org)
-
-.
+Name and address information collected on pharmacist.com may be made available to a small number of providers of professional liability or other insurance products, credit card, banking, or investment services, telephone discount, or automobile rental companies for the purpose of sending you mail about their products, programs, and services. You may specify that your name and address information not be used for the purposes enumerated in this paragraph by sending an e-mail with the subject "no offers" to [infocenter@aphanet.org](mailto:infocenter@aphanet.org).
 
 Pharmacist.com may disclose personally identifiable information in special cases if we find it necessary to identify, contact, or bring legal action against someone who may be violating the policies of pharmacist.com or causing injury to or interference with pharmacist.com, its users, or anyone else that could be harmed by such activities. Pharmacist.com also may disclose personally identifiable information as is required or appropriate in order to comply with the law.
 
@@ -102,7 +84,7 @@ You are also given the option of visiting pharmacist.com without offering any i
 
  **VIII. Acceptance of Privacy Policy by user**
 
-The use of this site and submission of personal data to pharmacist.com constitute the User's acknowledgement that he or she has read, understood, and accepted this Privacy Policy, and agrees to its terms.
+The use of this site and submission of personal data to pharmacist.com constitute the User's acknowledgement that he or she has read, understood, and accepted this Privacy Policy and the [Terms of Use](https://web.archive.org/Content/NavigationMenu3/UtilityLInks/TermsofUse/Terms_of_Use.htm), and agrees to their terms.
 
 APhA reserves the right to modify or supplement this Privacy Policy statement at any time. If we make a material change, we will post a notice on our home page with a link to the updated Privacy Policy. Please read any such notice and the new Privacy Policy. Your continued use of this site after we post such notice will constitute your acceptance of the new terms and their application to your use of this Web site and the information disclosed for such use, including information previously furnished to us, as if they were the original terms.
 
@@ -110,11 +92,7 @@ Pharmacist.com contains links to other Web sites. Pharmacist.com has no control 
 
 I **X. For additional information/questions/comments**
 
-Requests for additional information, questions, or comments about this Privacy Policy may be directed to 
-
-[ _infocenter@aphanet.org_](mailto:infocenter@aphanet.org)
-
-.
+Requests for additional information, questions, or comments about this Privacy Policy may be directed to [infocenter@aphanet.org](mailto:infocenter@aphanet.org).
 
   * [APhA Antitrust Statement](https://web.archive.org/AM/Template.cfm?Section=Privacy_Policy1&Template=/CM/ContentDisplay.cfm&ContentID=24512) 
 
