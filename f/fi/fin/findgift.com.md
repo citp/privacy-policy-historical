@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206085204id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629092356id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
 
 # FindGift.com Privacy Policy
 
