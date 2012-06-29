@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the 4videosoft.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231024259id_/http%3A//www.4videosoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4videosoft.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629060000id_/http%3A//www.4videosoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of 4Videosoft
 
-Privacy Policy of 4Videosoft
-
 4Videosoft Studio is committed to protecting your privacy. Your privacy is a priority at 4Videosoft. We go to great lengths to protect it. This Customer Privacy Policy covers why we collect your personal information, what information we collect, what we use it for and how we protect it.
 
-Why we collect your personal information?
+## Why we collect your personal information?
 
 We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
 
-What information do we collect? What do we use it for?
+## What information do we collect? What do we use it for?
 
   * 4Videosoft takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
   * 4Videosoft uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt the entire customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information.
@@ -18,11 +16,11 @@ What information do we collect? What do we use it for?
 
 
 
-RegNow
+## RegNow
 
-RegNow is the software industry’s premier registration commerce provider. 4Videosoft uses RegNow to provide you with very secure and fast online purchase.
+RegNow is the software industry's premier registration commerce provider. 4Videosoft uses RegNow to provide you with very secure and fast online purchase.
 
-Cookies
+## Cookies
 
 In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses. 
 
