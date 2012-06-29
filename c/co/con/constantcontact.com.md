@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the constantcontact.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229222001id_/http%3A//www.constantcontact.com/privacy_guarantee.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constantcontact.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629055326id_/http%3A//www.constantcontact.com/privacy_guarantee.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - Constant Contact ®
 
-Effective December 2, 2011   
-Please note that on January 2, 2012 we will be changing the way in which we link information to cookies. Please see below for details. 
+Effective January 2, 2012   
+
 
 At Constant Contact, we respect and protect the privacy of our customers and those who use our website and our products and services. This privacy statement provides details about how your personal information is collected and used. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information that is associated with the foregoing. This privacy statement applies to the Constant Contact website, products and services that are located in the roving.com and constantcontact.com domains and any other sites owned or operated by Constant Contact (the "Sites"). Constant Contact, Inc. is located at 1601 Trapelo Road, Waltham, MA 02451. 
 
@@ -96,7 +96,7 @@ Back to Top
 
 ## Access to Personal Information
 
-You can update your account information, including your organizational information and email address, by logging in and then clicking on the My Settings tab. Account information, such as your user name and password, can be changed by logging in and then clicking on the My Account link at the top of page. The My Account page is also where you can manage product subscriptions and billing information, such as your credit card number. If you would like to deactivate your account or obtain further information about or access to your personal information, you can do so by contacting customer support by email at [support@constantcontact.com](mailto:support@constantcontact.com) or by telephone at (866) 289-2101 if you are located in the U.S. or (781) 472-8140 if you are located outside of the U.S. 
+You can update your account information, including your organizational information and email address, by logging in and then clicking on the My Settings tab. Account information, such as your username and password, can be changed by logging in and then clicking on the My Account link at the top of page. The My Account page is also where you can manage product subscriptions and billing information, such as your credit card number. If you would like to deactivate your account or obtain further information about or access to your personal information, you can do so by contacting customer support by email at [support@constantcontact.com](mailto:support@constantcontact.com) or by telephone at (866) 289-2101 if you are located in the U.S. or (781) 472-8140 if you are located outside of the U.S. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@constantcontact.com](mailto:support@constantcontact.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. 
 
