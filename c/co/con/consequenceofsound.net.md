@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229164941id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629074322id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Consequence of Sound
 
@@ -8,21 +8,21 @@ This is the web site of Consequence of Sound (<http://consequenceofsound.net/>)
 
 We can be reached via e-mail at [info@consequenceofsound.net](mailto:info@consequenceofsound.net).
 
-Consequence of Sound is the sole owner of the Website and any “Material”, content and information posted on the Website.
+Consequence of Sound is the sole owner of the Website, Mobile App, and any “Material”, content and information posted on the Website or Mobile App.
 
-Consequence of Sound and its Websites, including Festival Outlook and Cluster 1 are committed to respecting the privacy rights of all users and visitors. Therefore, we will not disclose to any unauthorized third party a user’s name or contact information.
+Consequence of Sound and its Websites, including Festival Outlook and Mobile App are committed to respecting the privacy rights of all users and visitors. Therefore, we will not disclose to any unauthorized third party a user’s name or contact information.
 
-This Website is operated in the United States of America. If you are located outside of the United States, please be aware that any information you provide will be transferred to the United States. By using this Website you consent to this transfer.
+This Website and Mobile App are operated in the United States of America. If you are located outside of the United States, please be aware that any information you provide will be transferred to the United States. By using this Website and Mobile App you consent to this transfer.
 
 ### What information do we collect?
 
-We collect information from you when you register on our Website, comment on our Website, send us an email..
+We collect information from you when you register on our Website or Mobile App, comment on our Website, send us an email..
 
 We collect information from you when you register and/or participate in Contests, Giveaways, and Promotions.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+When ordering or registering on our Website or Mobile App, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Website or Mobile App. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
 ### What do we use your information for?
 
@@ -31,16 +31,16 @@ Any of the information we collect from you may be used in one of the following w
 To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-To improve our Website  
-(we continually strive to improve our Website offerings based on the information and feedback we receive from you)
+To improve our Website or Mobile Application (Mobile App)  
+(we continually strive to improve our Website an Mobile App offerings based on the information and feedback we receive from you)
 
 To administer a contest, promotion, survey or other site feature
 
-To send periodic emails
+To send periodic emails or Mobile push notifications
 
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-If you decide to opt-in to our mailing list, you will receive weekly emails (newsletters) that may include company news, updates, related product or service information, etc. All individuals who participate in CoS Contests, Giveaways, and other Promotions will automatically be included in email updates. Individuals will be given option to opt out of mailing list at their discretion.
+If you decide to opt-in to our mailing list, you will receive weekly emails (newsletters) that may include company news, updates, related product or service information, etc. All individuals who participate in CoS Contests, Giveaways, and other Promotions will automatically be included in email updates and Mobile push notifications. Individuals will be given option to opt out of mailing list at their discretion.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -78,7 +78,7 @@ By using our Website, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on April 21, 2011.
+This policy was last modified on March 4, 2012.
 
 ### Contacting Us
 
