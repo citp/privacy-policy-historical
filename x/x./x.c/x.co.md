@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the x.co privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229214548id_/http%3A//www.godaddy.com/gdshop/legal_agreements/show_doc.asp%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x.co privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629073554id_/http%3A//www.godaddy.com/gdshop/legal_agreements/show_doc.asp%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
 
 # Legal Agreement
 
-**Last Revised: December 23, 2011**
+**Last Revised: January 20, 2012**
 
 Go Daddy Respects your privacy
 
@@ -34,13 +34,13 @@ We do not ask you for, access, or track any location-based information from your
 
 This Site and our mobile application contain links to other websites. Unfortunately, Go Daddy is not responsible for the privacy practices or the content of such sites.
 
-**For Near.ME and AdSpace Users Only**
+**For Near.me and Online Advertising Users Only**
 
-When you enter your name, telephone number, email address, and/or questions/comments onto a Near.ME site "Ad Page," you are granting Go Daddy express permission to share that information with the business owner that owns that Ad Page.  By providing your information to a business owner, you are not granting that business owner consent to use your information for marketing or any other purpose unless you specifically "opt in" to do so. Go Daddy has agreements with the business owners on Near.ME requiring them to maintain the privacy of your information; however, Go Daddy is not responsible for improper use by business owners of your information.
+When you enter your name, telephone number, email address, and/or questions/comments onto a Near.me site Online Advertising Page, you are granting Go Daddy express permission to share that information with the business owner that owns that Online Advertising Page.  Go Daddy is not responsible for improper use by business owners of your information.
 
-Any telephone calls or emails initiated by you through the Near.ME site will be used (and in the case of telephone calls, recorded) for marketing purposes.  If you do not agree to such use, do not initiate any telephone calls or emails through the Near.ME site.  
+Any telephone calls or emails initiated by you through the Near.me site will be used (and in the case of telephone calls, recorded) for marketing purposes.  If you do not agree to such use, do not initiate any telephone calls or emails through the Near.me site.  
 
-If you are a business owner that has created an Ad Page to advertise your business on the Near.ME site, you will be prompted to enter information about your business, including your business name, business address, and business hours. The business information that you enter will be publicly displayed on your Near.ME Ad Page.
+If you are a business owner that has created an Online Advertising Page to advertise your business, you will be prompted to enter information about your business, including your business name, business address, and business hours. The business information that you enter will be publicly displayed on your Online Advertising Page.
 
 **Security**
 
