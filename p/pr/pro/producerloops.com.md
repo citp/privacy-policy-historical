@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019110413id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629020347id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Statement - Producer Loops
 
@@ -50,4 +50,4 @@ Download 300MB of Samples, Loops & Reason Refills for FREE when you sign up to o
 
 0800 098 8607
 
-[ ](http://www.producerloops.com/loopmasters) [ ](http://www.producerloops.com/Prime-Loops/)
+[ ](http://www.producerloops.com/Prime-Loops/)
