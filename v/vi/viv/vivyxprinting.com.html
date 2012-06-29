@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vivyxprinting.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231113612id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivyxprinting.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629233004id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.-->
 
 <html><head>
 	    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -8,20 +8,27 @@
     	<meta name="Description" content="Your photo as a full size poster!  Best Prices!  No min quantity.  Professional quality.">
     	<meta name="Keywords" content="poster printing, cheap poster prints, custom posters, 24x36 poster printing, giclee poster printing, photo enlargements">
     	
-		<link href="http://www.VivyxPrinting.com/style.css" rel="stylesheet">
+		<link href="http://www.VivyxPrinting.com/style2.css" rel="stylesheet">
         <link rel="shortcut icon" href="http://www.VivyxPrinting.com/favicon.ico">
 
         <script type="text/javascript" src="ajaxroutine.js"></script>
+		
+		    <script type="text/javascript" src="jquery.js"></script>
+		
 		
         <link rel="stylesheet" href="windowfiles/dhtmlwindow.css" type="text/css">
         <script type="text/javascript" src="windowfiles/dhtmlwindow.js"></script></head><body><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
         <link rel="stylesheet" href="modalfiles/modal.css" type="text/css">
         <script type="text/javascript" src="modalfiles/modal.js"></script><div id="interVeil"></div>
+        <script type="text/javascript">var switchTo5x=true;</script>
+        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({publisher:'c5b2f2a8-8ea0-4d68-a420-1fb9a0caedfe'});</script>
+        
 		<script>
 		    var sRootURL = "http://www.VivyxPrinting.com";
 		    var sImageURL = "http://www.VivyxPrinting.com/Images";
 		    var oncartrefresh = "";
-		    var vASID = "1577330";
+		    var vASID = "2108301";
 		    var vACID = "";
 		    var iKLInt = 0;
 		    var iKLCount=19;
@@ -35,10 +42,13 @@ aQtyDiscounts[aQtyDiscounts.length] = new Array(200,0.85);
 
 		    
         	function formatAsCurrency(vNumber){
-        		var vValue = vNumber.toString();
+        		//var vValue = vNumber.toString();
+        		var vtemp = (Math.round(vNumber * 100) / 100)
+        		var vValue = vtemp.toString();
+        		
         		var vDecimal = vValue.indexOf(".");
         		var vLength = vValue.length;
-        		
+
         		if(vDecimal > 0){
         			if((vLength - vDecimal) == 2){
         				//only one char after decimal
@@ -74,10 +84,12 @@ aQtyDiscounts[aQtyDiscounts.length] = new Array(200,0.85);
     						}
     						ares = myajax.responseText.split("|");
     						if(!isNaN(ares[0])){
-        						if((ares[0] * 1) > 0){
+    						    document.getElementById("cartcount").innerHTML = ares[0];
+    						    
+        						//if((ares[0] * 1) > 0){
         						    if(sScriptName != "shoppingcart.asp"){
         						        document.getElementById("cartcell").style.display = "block";
-        						    }
+        						    //}
         						}else{
         						    document.getElementById("cartcell").style.display = "none";
         						}
@@ -123,32 +135,53 @@ aQtyDiscounts[aQtyDiscounts.length] = new Array(200,0.85);
 	
 	    <div class="container">
 	        <div class="headerwrapper">
-	            <div class="logo"><a href="http://www.VivyxPrinting.com/home.asp"><img src="images/header_logo.gif"></a></div>
-	            <div>
-    	            <div class="headernav">
-    	                <ul>
-    	                    <li><a href="http://www.VivyxPrinting.com/home.asp">Home</a></li>
-    	                    <li><a href="http://www.VivyxPrinting.com/faq.asp">FAQs</a></li>
-    	                    <li><a href="http://www.VivyxPrinting.com/contact.asp">Contact Us</a></li>
-    	                    <li><a href="http://www.VivyxPrinting.com/account.asp">My Account</a></li>
-    	                    <li style="padding-right:0px;"><img src="http://www.VivyxPrinting.com/Images/header_share-us.gif" style="margin-right:3px;"><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.ViVYXPrinting.com" target="_New" title="Post Link on Facebook!"><img src="http://www.VivyxPrinting.com/Images/icon_facebook.gif"></a>
-    	                        <a href="http://twitter.com/share?url=http%3A%2F%2Fwww.ViVYXPrinting.com" target="_New" title="Tweet about ViVYX!"><img src="http://www.VivyxPrinting.com/Images/icon_twitter.gif"></a>
-    	                        <a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.ViVYXPrinting.com" target="_New" title="Share on StumbleUpon!"><img src="http://www.VivyxPrinting.com/Images/icon_stumbleupon.gif"></a>
-    	                        <a href="http://www.VivyxPrinting.com/InviteAFriend.asp" title="Email Invitation to Friends!"><img src="http://www.VivyxPrinting.com/Images/icon_email.gif"></a>
-    	                    </li>
-    	                </ul>
-    	            </div>
-    	            
-    	            <div class="cartbox" id="cartcell" style="display:none;">
-    	                <div style="float:right;width:111px;margin-top:4px;margin-right:4px;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp?RequestID=12%2F31%2F2011+4%3A42%3A50+AM"><img src="images/button_checkout.gif" style=""></a></div>
-    	                <div style="float:right;margin-right:10px;font-size:1.3em;width:80px;font-weight:bold;padding-top:12px;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp?RequestID=12%2F31%2F2011+4%3A42%3A50+AM" style="color:#579e25;">My Cart</a></div>
-    	                <div style="clear:both;"></div>
-    	            </div>
-    	            <div style="clear:both;"></div>
-    	        </div>
+	            <div style="float:left;width:375px;"><a href="http://www.VivyxPrinting.com/home.asp"><img src="images/1pixel.gif" width="375" height="90"></a></div>
+	            <div style="float:right;width:400px;height:102px;position:relative;">
+	                <div style="padding:4px 6px;font-size:10pt;text-align:center;margin-right:3px;color:#DDEAF2;width:245px;float:right;">
+	                    <a href="http://www.VivyxPrinting.com/OrderStatus.asp" style="color:#ffffff;">Track Order</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="http://www.VivyxPrinting.com/Contact.asp" style="color:#ffffff;">Get Help</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="http://www.VivyxPrinting.com/account.asp" style="color:#ffffff;">My Account</a>
+	                </div>
+	                <div id="cartcell" style="display:none;position:absolute;font-size:20pt;height:50px;width:245px;left:152px;top:49px;background-image:url(http://www.VivyxPrinting.com/Images/check-background-home.png);background-repeat:no-repeat;">
+	                    <div style="position:absolute;height:38px;width:36px;top:6px;left:12px;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp"><img src="http://www.VivyxPrinting.com/Images/Shopping-cart-home.gif"></a></div>
+	                    <div style="position:absolute;height:34px;width:81px;top:8px;left:50px;font-size:8pt;color:#858585;text-align:center;">
+	                        <div style="color:#17B71E;font-size:9pt;font-weight:bold;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp" style="color:#17B71E;">My Cart</a></div>
+	                        <div style="padding-top:3px;"><span id="cartcount">0</span> items</div>
+	                    </div>
+	                    <div style="position:absolute;height:34px;width:109px;top:8px;left:127px;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp"><img src="http://www.VivyxPrinting.com/Images/checkout_home_button.gif"></a></div>
+	                </div>
+	                <div style="clear:both;"></div>
+	            </div>
+	            <div style="clear:both;"></div>
 	        </div>
 	        
-	        <div class="contentwrapper">        <script>
+	        <div class="headernav">
+	            <div style="float:left;width:900px;">
+    	            <ul>
+                        
+                            <li><a href="http://www.VivyxPrinting.com/home.asp" style="">HOME</a></li>
+                        
+                            <li><a href="http://www.VivyxPrinting.com/About.asp" style="">WHY VIVYX?</a></li>
+                        
+                            <li><a href="http://www.VivyxPrinting.com/poster-printing-paper-quality.asp">PAPERS &amp; OPTIONS</a></li>
+                        
+                            <li><a href="http://www.VivyxPrinting.com/custom-poster-printing-price-quote.asp">PRICE QUOTE</a></li>
+                        
+                            <li><a href="http://www.VivyxPrinting.com/custom-printed-poster-packaging-shipping.asp">PROCESSING &amp; SHIPPING</a></li>
+                        
+                            <li><a href="http://www.VivyxPrinting.com/CustomerReviews.asp">CUSTOMER REVIEWS</a></li>
+                        
+                            <li><a href="http://www.VivyxPrinting.com/faq.asp">FAQS</a></li>
+                        
+    	            </ul>
+    	            <div style="clear:both;"></div>
+	            </div>
+	            <div style="float:right;width:90px;padding-top:3px;">
+	                <span class="st_sharethis_button" displaytext="ShareThis"></span>
+	            </div>
+	            <div style="clear:both;"></div>
+	        </div>
+	        
+	        <div class="contentwrapper">
+        <script>
 	        var dprice = .02546;
 	        var iMinDimension = 10;
 	        var iMaxDimension = 120;
@@ -240,81 +273,15 @@ aQtyDiscounts[aQtyDiscounts.length] = new Array(200,0.85);
                 
             }
 		</script>
+		
+		
 		<script src="http://www.VivyxPrinting.com/balloontip.js"></script>
 		<script type="text/javascript" src="http://www.VivyxPrinting.com/swfupload.js"></script>
 		<script type="text/javascript" src="http://www.VivyxPrinting.com/swfupload.cookies.js"></script>
 		<script type="text/javascript" src="http://www.VivyxPrinting.com/initializeSWFU.js"></script>
     
-    <div style="float:left;width:260px;">
-        <div style="">
-                        <div><img src="http://www.VivyxPrinting.com/Images/border-top-260.gif"></div>
-            <div style="background-color:white;border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin-right:1px;background-image:url(images/left_nav-background-260.gif);background-repeat:repeat-x;">
-                <div style="padding:20px;padding-top:5px;padding-bottom:5px;">
-                    <div style="padding-bottom:4px;border-bottom:1px solid #e5e5e5;"><b>INFORMATION CENTER:</b></div>
-                    <ul style="padding:0;margin:0;list-style-type:none;padding-left:20px;margin-bottom:15px;">
-                        <li style="padding-top:6px;"><a href="About.asp">About VivyxPrinting.com</a></li>
-                        <li style="padding-top:6px;"><a href="CustomerReviews.asp">Reviews by Our Customers</a></li>
-                        <li style="padding-top:6px;"><a href="Contact.asp">Contacting Us</a></li>
-                        <li style="padding-top:6px;"><a href="Policies.asp#Orders">Order &amp; Guarantee Policy</a></li>
-                        <li style="padding-top:6px;"><a href="ExpeditedProcessing.asp">Order Processing Time</a></li>
-                        <li style="padding-top:6px;"><a href="how-big-can-i-print-my-digital-picture.asp">Maximum Print Sizes</a></li>
-                        <li style="padding-top:6px;"><a href="Policies.asp#Privacy">Privacy &amp; Security Policies</a></li>
-                        <li style="padding-top:6px;"><a href="GetShippingQuote.asp">Shipping Options &amp; Rates</a></li>
-                        <li style="padding-top:6px;"><a href="Short-Run-Wide-Format-Quantity-Discounts.asp"><b>Quantity Discounts</b></a></li>
-                    </ul>
-                    
-                    <div style="padding-bottom:4px;border-bottom:1px solid #e5e5e5;"><b>MY STUFF:</b></div>
-                    <ul style="padding:0;margin:0;list-style-type:none;padding-left:20px;">
-                        <li style="padding-top:6px;"><a href="Account.asp">My Account</a></li>
-                        <li style="padding-top:6px;"><a href="OrderStatus.asp">Check Order Status</a></li>
-                        <li style="padding-top:6px;"><a href="Album.asp">My Photo Album</a></li>
-                        <li style="padding-top:6px;"><a href="Login.asp?Action=ForgotPassword">What's My Password?</a></li>
-                        <li style="padding-top:6px;"><a href="ChangePassword.asp">Change My Password</a></li>
-                        
-                    </ul>
-                    
-                </div>
-            </div>
-            <div><img src="http://www.VivyxPrinting.com/Images/border-bottom-260.gif"></div>
-        </div>
 
-        <div style="margin-top:10px;">
-            <div><img src="http://www.VivyxPrinting.com/Images/border-top-260.gif"></div>
-            <div style="background-color:white;border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin-right:1px;background-image:url(images/left_nav-background-260.gif);background-repeat:repeat-x;">
-                <div style="padding-top:5px;text-align:center;">
-                    <img src="images/get_started_header_sml.gif">
-                </div>
-                <div style="padding-top:5px;text-align:center;">
-                    <div id="UploadButton" style="width:249px;height:65px;"></div>
-                </div>
-                <div style="padding:10px;padding-top:0px;font-family:arial;font-size:10pt;color:#858585;text-align:center;">
-                    <font style="font-size:1.2em;"><b>Select up to 5 at a time!<br>(Max 100MB Each)</b></font><br>
-                    <font style="font-size:1em;">.jpg, .png, .gif, .tif, .bmp, .pdf, .eps, .psd</font>
-                </div>
-            </div>
-            <div><img src="http://www.VivyxPrinting.com/Images/border-bottom-260.gif"></div>
-        </div>
-
-        <div style="margin-top:10px;">
-            <div><img src="http://www.VivyxPrinting.com/Images/border-top-260.gif"></div>
-            <div style="background-color:white;border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin-right:1px;background-image:url(images/left_nav-background-260.gif);background-repeat:repeat-x;">
-                <div><a href="javascript:nada();" rel="sizesprices"><img src="images/compare_header_sml.gif" border="0"></a></div>
-                <div style="font-family:arial;font-size:14pt;color:#858585;text-align:center;line-height:1.3em;margin-top:6px;">
-                    18" x 24" ................ $12.10<br>
-                    24" x 36" ................ $24.20
-                </div>
-                <div style="text-align:center;margin-top:4px;">
-                    <a href="javascript:nada();" rel="sizesprices"><img src="images/button_how-much-for-size.gif" border="0"></a>
-                </div>  
-            </div>
-            <div><img src="http://www.VivyxPrinting.com/Images/border-bottom-260.gif"></div>
-        </div>
-        
-        <div style="margin-top:10px;">
-            <a href="http://www.VivyxPrinting.com/Short-Run-Wide-Format-Quantity-Discounts.asp"><img src="http://www.VivyxPrinting.com/Images/promos/promo_qty-discounts_small.gif" border="0"></a>
-        </div>
-    </div>
-    <div style="float:right;width:726px;">
+    <div style="float:left;width:726px;">
         <div><img src="images/right-border-top-726.gif"></div>
         <div style="border-left:2px solid #d0d0d0;border-right:2px solid #d0d0d0;background-color:white;">
             <div style="padding:15px;padding-top:0px;">
@@ -378,13 +345,109 @@ We are committed to strict anti-SPAM policies. You will only receive emails from
 Further, as part of our privacy policy, we do not subscribe you to third party newsletters or share our subscriber database with any third party.             </p></div>
         </div>
         <div><img src="images/right-border-bottom-726.gif"></div>
+    </div>
+    <div style="float:right;width:260px;">
+        <div style="">
+            <div><img src="http://www.VivyxPrinting.com/Images/border-top-260.gif"></div>
+            <div style="background-color:white;border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin-right:1px;background-image:url(images/left_nav-background-260.gif);background-repeat:repeat-x;">
+                <div style="padding-top:5px;text-align:center;">
+                    <img src="images/get_started_header_sml.gif">
+                </div>
+                <div style="padding-top:5px;text-align:center;">
+                    <div id="UploadButton" style="width:249px;height:65px;"></div>
+                </div>
+                <div style="padding:10px;padding-top:0px;font-family:arial;font-size:10pt;color:#858585;text-align:center;">
+                    <font style="font-size:1.2em;"><b>Select up to 5 at a time!<br>(Max 100MB Each)</b></font><br>
+                    <font style="font-size:1em;">.jpg, .png, .gif, .tif, .bmp, .pdf, .eps, .psd</font>
+                </div>
+            </div>
+            <div><img src="http://www.VivyxPrinting.com/Images/border-bottom-260.gif"></div>
+        </div>
+        
+        
+        <div style="margin-top:10px;">
+            <div><img src="http://www.VivyxPrinting.com/Images/border-top-260.gif"></div>
+            <div style="background-color:white;border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin-right:1px;background-image:url(images/left_nav-background-260.gif);background-repeat:repeat-x;">
+                <div style="text-align:center;padding-bottom:5px;"><img src="http://www.VivyxPrinting.com/Images/compare_header_sml.gif"></div>
+                <div style="float:left;width:120px;margin-left:5px;">
+                    <div class="pricepromo" style="width:110px;">
+                        <div class="pad">
+                            <div class="size">18" x 24"</div>
+                            <div class="price">$12.10</div>
+                        </div>
+                    </div>
+                    <div class="pricepromo" style="margin:10px auto;width:110px;">
+                        <div class="pad">
+                            <div class="size" style="color:green;">24" x 36"</div>
+                            <div class="price" style="color:green;">$24.20</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="float:right;width:120px;margin-right:5px;">
+                    <div class="pricepromo" style="width:110px;">
+                        <div class="pad">
+                            <div class="size">20" x 30"</div>
+                            <div class="price">$16.80</div>
+                        </div>
+                    </div>
+                    <div class="pricepromo" style="margin:10px auto;width:110px;">
+                        <div class="pad">
+                            <div class="size">36" x 54"</div>
+                            <div class="price">$54.44</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="clear:both;"></div>
+                <div style="text-align:center;"><a href="custom-poster-printing-price-quote.asp"><img src="http://www.VivyxPrinting.com/Images/get-a-quote-sml-BTN.gif"></a></div>
+                <div style="text-align:center;color:#0898DF;padding-top:6px;">
+                    <span style="font-size:18pt;"><a href="custom-poster-printing-price-quote.asp">Save Up to 50%</a></span><br>
+                    <a href="custom-poster-printing-price-quote.asp" style="text-decoration:underline;">with easy quantity discounts</a>
+                </div>
+            </div>
+            <div><img src="http://www.VivyxPrinting.com/Images/border-bottom-260.gif"></div>
+        </div>
+        
+        
+        
+        <div style="margin-top:10px;">
+                        <div><img src="http://www.VivyxPrinting.com/Images/border-top-260.gif"></div>
+            <div style="background-color:white;border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin-right:1px;background-image:url(images/left_nav-background-260.gif);background-repeat:repeat-x;">
+                <div style="padding:20px;padding-top:5px;padding-bottom:5px;">
+                    <div style="padding-bottom:4px;border-bottom:1px solid #e5e5e5;"><b>INFORMATION CENTER:</b></div>
+                    <ul style="padding:0;margin:0;list-style-type:none;padding-left:20px;margin-bottom:15px;">
+                        <li style="padding-top:6px;"><a href="About.asp">About VivyxPrinting.com</a></li>
+                        <li style="padding-top:6px;"><a href="CustomerReviews.asp">Reviews by Our Customers</a></li>
+                        <li style="padding-top:6px;"><a href="Contact.asp">Contacting Us</a></li>
+                        <li style="padding-top:6px;"><a href="Policies.asp#Orders">Order &amp; Guarantee Policy</a></li>
+                        <li style="padding-top:6px;"><a href="ExpeditedProcessing.asp">Order Processing Time</a></li>
+                        <li style="padding-top:6px;"><a href="how-big-can-i-print-my-digital-picture.asp">Maximum Print Sizes</a></li>
+                        <li style="padding-top:6px;"><a href="Policies.asp#Privacy">Privacy &amp; Security Policies</a></li>
+                        <li style="padding-top:6px;"><a href="GetShippingQuote.asp">Shipping Options &amp; Rates</a></li>
+                        <li style="padding-top:6px;"><a href="Short-Run-Wide-Format-Quantity-Discounts.asp"><b>Quantity Discounts</b></a></li>
+                    </ul>
+                    
+                    <div style="padding-bottom:4px;border-bottom:1px solid #e5e5e5;"><b>MY STUFF:</b></div>
+                    <ul style="padding:0;margin:0;list-style-type:none;padding-left:20px;">
+                        <li style="padding-top:6px;"><a href="Account.asp">My Account</a></li>
+                        <li style="padding-top:6px;"><a href="OrderStatus.asp">Check Order Status</a></li>
+                        <li style="padding-top:6px;"><a href="Album.asp">My Photo Album</a></li>
+                        <li style="padding-top:6px;"><a href="Login.asp?Action=ForgotPassword">What's My Password?</a></li>
+                        <li style="padding-top:6px;"><a href="ChangePassword.asp">Change My Password</a></li>
+                        
+                    </ul>
+                    
+                </div>
+            </div>
+            <div><img src="http://www.VivyxPrinting.com/Images/border-bottom-260.gif"></div>
+        </div>
+        
     </div>                <div style="clear:both;"></div>
                 
     	            
     	            
                     <div style="margin-top:10px;"><img src="images/border_review-top.gif"></div>
                     <div style="border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin-left:1px;margin-right:2px;background-color:white;">
-                        <div style="padding:10px;"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"> - "<i>The turnaround time was incredible. The quality was very good, although I was hoping for a bit better, but considering the incredible price, I shouldn't be too fussy. Overall, really recommend Vivyx as very pleased with the entire experience. </i>" by Martin on 9/18/2010</div>
+                        <div style="padding:10px;"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"> - "<i>I had a poster that I had trouble printing somewhere else and I came to Vivyx Printing and it came out beautiful. THANK YOU!</i>" by Jo on 9/2/2010</div>
                         <div style="padding:10px;padding-top:0px;"><a href="http://www.VivyxPrinting.com/CustomerReviews.asp" style="text-decoration:underline;">See All Reviews!</a></div>
                     </div>
                     <div><img src="images/border_review-bottom.gif"></div>
