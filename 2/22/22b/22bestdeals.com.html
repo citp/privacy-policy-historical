@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 22bestdeals.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230054152id_/http%3A//www.22bestdeals.com/pages/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 22bestdeals.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629222132id_/http%3A//www.22bestdeals.com/pages/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -137,105 +137,15 @@ Privacy Policy - 22BestDeals.com</title>
 
 	});
 </script>
-
-
-<script type="text/javascript">
-$(document).ready(function() {	
-
-				
-		var id = '#dialog';
-	
-		//Get the screen height and width
-		var maskHeight = $(document).height();
-		var maskWidth = $(window).width();
-	
-		//Set heigth and width to mask to fill up the whole screen
-		$('#mask').css({'width':maskWidth,'height':maskHeight});
-		
-		//transition effect		
-		$('#mask').fadeIn(1000);	
-		$('#mask').fadeTo("slow",0.8);	
-	
-		//Get the window height and width
-		var winH = $(window).height();
-		var winW = $(window).width();
-              
-		//Set the popup window to center
-		$(id).css('top',  winH/2-$(id).height()/2);
-		$(id).css('left', winW/2-$(id).width()/2);
-	
-		//transition effect
-		$(id).fadeIn(10); 	
-	
-	//if close button is clicked
-	$('.window .close').click(function (e) {
-		//Cancel the link behavior
-		e.preventDefault();
-		
-		$('#mask').hide();
-		$('.window').hide();
-	});		
-	
-	//if mask is clicked
-	$('#mask').click(function () {
-		$(this).hide();
-		$('.window').hide();
-	});
-		$('#openlightboxeyed').click(function() {	
-       
-		var id = '#dialog';
-	
-		//Get the screen height and width
-		var maskHeight = $(document).height();
-		var maskWidth = $(window).width();
-	
-		//Set heigth and width to mask to fill up the whole screen
-		$('#mask').css({'width':maskWidth,'height':maskHeight});
-		
-		//transition effect		
-		$('#mask').fadeIn(1000);	
-		$('#mask').fadeTo("slow",0.8);	
-	
-		//Get the window height and width
-		var winH = $(window).height();
-		var winW = $(window).width();
-              
-		//Set the popup window to center
-		$(id).css('top',  winH/2-$(id).height()/2);
-		$(id).css('left', winW/2-$(id).width()/2);
-	
-		//transition effect
-		$(id).fadeIn(10); 	
-	
-	//if close button is clicked
-	$('.window .close').click(function (e) {
-		//Cancel the link behavior
-		e.preventDefault();
-		
-		$('#mask').hide();
-		$('.window').hide();
-	});		
-	
-	//if mask is clicked
-	$('#mask').click(function () {
-		$(this).hide();
-		$('.window').hide();
-	});		
-	
-});		
-	
-});
-
-</script>
 <script type="text/javascript">
 function submit_feedback()
 {
-if(document.customer_feedback.c_name.value==''){
+if(document.customer_feedback.c_name.value=='' || document.customer_feedback.c_name.value==0){
  alert('Please Enter Your Name');
  document.customer_feedback.c_name.focus();
  return false;
 }
-if(document.customer_feedback.c_email.value==''){
+if(document.customer_feedback.c_email.value=='' || document.customer_feedback.c_email.value==0){
  alert('Please Enter Your Email Id');
  document.customer_feedback.c_email.focus();
  return false;
@@ -252,7 +162,7 @@ if (!frmEmailformat.test(frmEmail1))
 	}
 		
 }
-if(document.customer_feedback.c_feedback.value==''){
+if(document.customer_feedback.c_feedback.value=='' || document.customer_feedback.c_feedback.value==0){
  alert('Please Enter Your Feedback');
  document.customer_feedback.c_feedback.focus();
  return false;
@@ -314,36 +224,14 @@ qacct:"p-f3l07n001Ij9o"
 <!--End Quantcast Tag -->
 
 
-<div id="outerDivHome"> <script language="javascript">
-function get_search(form){
-var xmlhttp;
-if (window.XMLHttpRequest)
-{// code for IE7+, Firefox, Chrome, Opera, Safari
-xmlhttp=new XMLHttpRequest();
-}
-else
-{// code for IE6, IE5
-xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-}
-xmlhttp.onreadystatechange=function()
-{
-if (xmlhttp.readyState==4 && xmlhttp.status==200)
-{
-alert(form.search.value);
-}
-}
-xmlhttp.open("GET","index.php?c=search&m=track_user_search&v_keyword="+document.getElementById('search_1').value,true);
-xmlhttp.send();	
-}
-</script>
-<div class="topMenu">
-<div class="contactUs"><a href="http://www.22bestdeals.com/pages/contact-us.html">Contact Us</a></div><img src="http://www.22bestdeals.com//images/call_us.png" alt="Call Us : 09310508880" style="margin:5px 0px 0px 305px; float:left; display:inline;" class="png">
+<div id="outerDivHome"> <div class="topMenu">
+<div class="contactUs" style="margin:5px 0px 0px 628px;"><!--<a href="http://www.22bestdeals.com/pages/contact-us.html">Contact Us</a>--></div><!--<img src="images/call_us.png" alt="Call Us : 09310408880" style="margin:5px 104px 0px 338px; float:left; display:inline;" class="png"/>-->
 
 <div class="fbsign">
-
-
-	    <a href="http://www.22bestdeals.com/signin.html" style="color:#fff;">Log In</a>
-	
+        <a href="http://www.22bestdeals.com/signin.html" style="color:#fff;">Log In</a>
+	/ <a href="http://www.22bestdeals.com/signin.html" style="color:#fff;">Register</a>
+	 |<a href="http://www.22bestdeals.com/my_account.html" style="color:#fff; margin:4px">My Account</a>
+	 |<a href="http://www.22bestdeals.com/contact-us.html" style="color:#fff; margin:4px">Need Help?</a>
 	 	 
 	 
 </div>
@@ -376,41 +264,31 @@ xmlhttp.send();
 	    
 	    window.fbAsyncInit = function() {FB.init({appId: 185233561531820, status: true, cookie: true, xfbml: true});};(function() {var e = document.createElement('script'); e.async = true;e.src = document.location.protocol +'//connect.facebook.net/en_US/all.js';document.getElementById('fb-root').appendChild(e);}());</script><a href="javascript:" onclick="fbActionConnect();"><img src="http://www.22bestdeals.com/images/fb_bt_small.png" alt="Facebook Icon" border="0">
 </a></div>
-<div style=" float:left; padding:5px 10px 0px 10px;"> <!-- Place this render call where appropriate -->
-	    <g:plusone size="medium" annotation="none"></g:plusone>
-		<script type="text/javascript">
-		(function() {
-		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		po.src = 'https://apis.google.com/js/plusone.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-		})();
-		</script></div>
-
 </div>
 <div class="logoSearch">
-<div class="logo"><a href="http://www.22bestdeals.com/"><img src="http://www.22bestdeals.com/images/22bestlogo.png" width="244" height="75" alt="22Bestdeals Logo " class="png" border="0"></a></div>
-<form method="get" action="http://www.22bestdeals.com/">
-<input type="text" class="searchInputBox" id="search_1" name="search_val" onfocus="if(this.value=='What are you looking for?')this.value='';" onblur="if(this.value=='')this.value='What are you looking for?';" value="What are you looking for?">
-<input name="Submit" type="submit" value=" " class="topSearchButtom" onclick="return get_search(this);">
+<!--<div class="dontMiss"><img id="openlightboxeyed" src="images/cash.jpg"  alt="Don't Miss Rs. 100 Cash Discount" border="0" class="disco" style="cursor:pointer;" /></div>-->
+<!--<a href="javascript:void(window.open('http://www.22bestdeals.com/livezilla/chat.php','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="images/live.png"  alt="Live Chat" class="chat png"/></a>-->
 
-</form>
-<div class="dontMiss"><img id="openlightboxeyed" src="http://www.22bestdeals.com/images/cash.jpg" alt="Don't Miss Rs. 100 Cash Discount" border="0" class="disco" style="cursor:pointer;">
-<!--<a href="javascript:void(window.open('http://www.22bestdeals.com/livezilla/chat.php','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="images/live.png"  alt="Live Chat" class="chat png"/></a>--></div>
-
-</div>  <div class="menuBody"> <div class="mainMenu">
-<ol>
-<li><a href="http://www.22bestdeals.com/c-electronics-computers-1.html">Electronics &amp; Computers</a></li>
-<li><a href="http://www.22bestdeals.com/c-mobiles-2.html">Mobiles</a></li>
-
-<li><a href="http://www.22bestdeals.com/c-fashion-jewelery-3.html">Fashion &amp; Jewelery</a></li>
-<li><a href="http://www.22bestdeals.com/c-flowers-gifts-4.html">Flowers &amp; Gifts</a></li>
-<li><a href="http://www.22bestdeals.com/c-toys-games-5.html">Toys &amp; Games</a></li>
-<li><a href="http://www.22bestdeals.com/c-health-household-6.html">Health &amp; Household</a></li>
-<li class="bgNone" style="padding:13px 25px 9px 13px;"><a style="font:bold 15px Arial, Helvetica, sans-serif; color: #fff;" href="http://www.22bestdeals.com/all-best-deals.html">Best 22 deals</a></li>
-
-</ol>
-
+</div>  <div class="menuBody"> <div class="logo"><a href="http://www.22bestdeals.com/"><img src="http://www.22bestdeals.com/images/22bestlogo.png" alt="22Bestdeals Logo " border="0" class="png"></a></div>
+<div class="logoSearch">
 </div>
+<a href="http://www.22bestdeals.com/index.php?c=front&amp;m=checkout" title="Items in your cart">
+<div id="shoping">
+0 Item(s)
+</div></a>
+<div class="mainMenu">
+  <ol>
+    <li><img src="http://www.22bestdeals.com/images/menu_left.png"><a href="http://www.22bestdeals.com/">Today's Deals</a><img src="http://www.22bestdeals.com/images/menu_right.png"></li>
+    <li><img src="http://www.22bestdeals.com/images/menu_left.png"><a href="http://www.22bestdeals.com/previous_deals.html">Previous Deals</a><img src="http://www.22bestdeals.com/images/menu_right.png"></li>
+    <li><img src="http://www.22bestdeals.com/images/menu_left.png"><a href="http://www.22bestdeals.com/all-best-deals.html">Best 22 Deals</a><img src="http://www.22bestdeals.com/images/menu_right.png"></li>
+    <li><img src="http://www.22bestdeals.com/images/menu_left.png"><a href="http://www.22bestdeals.com/other-deals.html">Other Deals</a><img src="http://www.22bestdeals.com/images/menu_right.png"></li>
+  </ol>
+</div>
+<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/today_deals_new.jpg">
+<!--<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/today_deals.jpg" />-->
+<!--<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/pre_deals.jpg" />-->
+<!--<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/product_landing_banner.png" />-->
+<!--<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/other_deals.jpg" />-->
     <div class="bodyNewHome "> <!-- Main Div Start Here-->
 <div id="about">
   <div class="top"></div>
@@ -432,152 +310,98 @@ xmlhttp.send();
 </div>
 <!-- Main Div End Here--> </div>
   </div>
-  <div id="footer">
+  <script language="Javascript">
+      <!--
+      function isNumberKey(evt)
+      {
+         var charCode = (evt.which) ? evt.which : event.keyCode
+         if (charCode > 31 && (charCode < 48 || charCode > 57))
+            return false;
+
+         return true;
+      }
+      //-->
+</script>
+<div id="footer">
   <div class="footerMiddle">
-    <div class="helpPart">
-      <form method="post" id="help">
-        <label>Full Name :</label>
-        <input name="full_name" id="full_name" type="text" class="inputFooter">
-        <label>Phone No :</label>
-        <input name="phone_no" id="phone_no" type="text" class="inputFooter">
-        <label>Subject :</label>
-        <select name="subject" class="inputDropdown">
-          <option value="Customer care">Customer Care</option>
-          <option value="Sales">Sales </option>
-		  <option value="Business">Business </option>
-        </select>
-        <label>Comment :</label>
-        <textarea name="comment" id="comment" cols=" " rows="3" class="inputTextarea"></textarea>
-        <input name="submit" type="submit" class="submitButton" value=" ">
-      </form>
-      <div class="eMail"><a href="mailto:hello@22bestdeals.com">hello@22bestdeals.com</a> <a href="mailto:wecare@22bestdeals.com">wecare@22bestdeals.com</a></div>
-    </div>
+    <div class="payment">
+	<div class="payment_option">
+	<div class="brand"> <img src="http://www.22bestdeals.com/images/creditcard.jpg" alt="credit card" border="0"> <img src="http://www.22bestdeals.com/images/debitcard.jpg" alt="debit card" border="0"> <img src="http://www.22bestdeals.com/images/cheque.jpg" alt="bank cheque" border="0"> <img src="http://www.22bestdeals.com/images/netbanking.jpg" alt="net banking" border="0"> <img src="http://www.22bestdeals.com/images/dd.jpg" alt="demand draft" border="0"> <img src="http://www.22bestdeals.com/images/bank_deposit.jpg" alt="bank deposit" border="0"> <img src="http://www.22bestdeals.com/images/cod.jpg" alt="cash on delivery" border="0"> </div>
+	</div>
+	</div>
     <div class="corLink padBottomBrand">
       <div class="topLink">
         <ul>
           <li><a href="http://www.22bestdeals.com/pages/about-22best-deals.html">About 22bestdeals</a></li>
           <li><a href="http://www.22bestdeals.com/pages/partner-with-us.html">Partner With Us</a></li>
-          <li><a href="http://www.22bestdeals.com/pages/contact-us.html">Contact Us</a></li>
+          <li><a href="http://www.22bestdeals.com/contact-us.html">Contact Us</a></li>
           <li><a href="http://www.22bestdeals.com/pages/terms-and-conditions.html">Terms &amp; Conditions</a></li>
           <li><a href="http://www.22bestdeals.com/pages/privacy-policy.html">Privacy Policy</a></li>
+		  <!--<li><a href="http://www.22bestdeals.com/suggest-a-deal.html">Suggest a Deal</a></li>-->
         </ul>
       </div>
     </div>
     <div class="corLink padBottomBrand">
       <div class="topLink someLink">
         <ul>
-		  <li><a href="http://www.22bestdeals.com/all-best-deals.html">Best 22 deals</a></li>
-          <li><a href="http://www.22bestdeals.com/pages/all-category.html">All Categories</a></li>
+          <!--<li><a href="pages/all-category.html">All Categories</a></li>-->
           <li><a href="http://www.22bestdeals.com/pages/sitemap.html">Sitemap</a></li>
-          <li><a href="http://www.22bestdeals.com/pages/help-center.html">Help Center</a></li>
-          <li><a href="http://www.22bestdeals.com/ro.html">Reader's Offer</a></li>
-          <li><a href="http://www.22bestdeals.com/pages/know-karma-points.html">Know Karma Points</a></li>
-         </ul>
+          <!--<li><a href="http://www.22bestdeals.com/pages/help-center.html">Help Center</a></li>-->
+		  <li><a href="http://www.22bestdeals.com/">Today's Deals</a></li>
+		  <li><a href="http://www.22bestdeals.com/previous_deals.html">Previous Deals</a></li>
+		  <li><a href="http://www.22bestdeals.com/all-best-deals.html">Best 22 Deals</a></li>
+		  <li><a href="http://www.22bestdeals.com/other-deals.html">Other Deals</a></li>
+        </ul>
       </div>
     </div>
     <div class="news22best">
       <div class="links"> <span>Enter your Name &amp; email ID to sign up for our special offers and product promotions:</span>
         <form method="post" id="subscribe_newsletter">
-          <label>Name :</label>
-          <input name="newsletter_name" id="newsletter_name" type="text" class="inputFooter">
+          <!--<label>Name :</label>
+          <input name="newsletter_name" id="newsletter_name" type="text" class="inputFooter" />-->
           <label>E-Mail ID :</label>
           <input name="newsletter_email" id="newsletter_email" type="text" class="inputFooter">
           <input name="news_submit" type="submit" class="submitButton" value=" ">
         </form>
         <p>Connect With Us:</p>
-        <a href="http://www.facebook.com/22shoppe" target="_blank"><img src="http://www.22bestdeals.com/images/facebookIcon.gif" alt="Facebook" border="0"></a> <a href="http://www.youtube.com/22bestdeals" target="_blank"><img src="http://www.22bestdeals.com/images/youtubeIcon.gif" alt="YouTube" border="0"></a> <a href="https://twitter.com/22bdeals" target="_blank"><img src="http://www.22bestdeals.com/images/twitterIcon.gif" alt="Twitter" border="0"></a> <a href="http://www.22bestdeals.com/rss_22.html" target="_blank"><img src="http://www.22bestdeals.com/images/rssicon.jpg" alt="RSS" border="0"></a></div>
-      <span class="copyColor ">Copyright © 2010 - 2011 22bestdeals.com</span> </div>
-    <div class="allCat">
-      <div class="allCatg">
-          <div class="boxLink">
-            <h5><a href="http://www.22bestdeals.com/c-electronics-computers-1.html">Electronics &amp; Computers</a></h5>
-            <ul>
-                                 <li><a href="http://www.22bestdeals.com/c-electronics-7.html">Electronics</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-computers-9.html">Computers</a></li>
-                        </ul>
-          </div>
-          <div class="boxLink">
-            <h5><a href="http://www.22bestdeals.com/c-mobiles-2.html">Mobile</a></h5>
-            <ul>
-                                  <li><a href="http://www.22bestdeals.com/c-gsm-26.html">GSM</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-cdma-27.html">CDMA</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-accessories-28.html">Accessories</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-dual-sim-129.html">Dual SIM</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-connectivity-1052.html">Connectivity</a></li>
-                        </ul>
-          </div>
-          <div class="boxLink">
-            <h5><a href="http://www.22bestdeals.com/c-fashion-jewelery-3.html">Fashion &amp; Jewelery</a></h5>
-            <ul>
-                                  <li><a href="http://www.22bestdeals.com/c-mens-wear-29.html">Men's Wear</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-womens-wear-30.html">Women's  Wear</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-shoes-33.html">Shoes</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-accessories-34.html">Accessories</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-jewelery-122.html">Jewelery</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-combo-deals-1235.html">Combo Deals</a></li>
-                        </ul>
-          </div>
-          <div class="boxLink">
-            <h5><a href="http://www.22bestdeals.com/c-flowers-gifts-4.html">Flowers &amp; Gifts</a></h5>
-            <ul>
-                                  <li><a href="http://www.22bestdeals.com/c-flowers-52.html">Flowers</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-cakes-cookies-53.html">Cakes &amp; Cookies</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-gift-packs-54.html">Gift Packs</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-baskets-vases-136.html">Baskets &amp; Vases</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-chocolates-1023.html">Chocolates</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-new-year-special-1241.html">New Year Special</a></li>
-                        </ul>
-          </div>
-          <div class="boxLink">
-            <h5><a href="http://www.22bestdeals.com/c-toys-games-5.html">Toys &amp; Games</a></h5>
-            <ul>
-                                  <li><a href="http://www.22bestdeals.com/c-toys-56.html">Toys</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-games-57.html">Games</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-infant-gears-65.html">Infant Gears</a></li>
-                        </ul>
-          </div>
-          <div class="boxLink">
-            <h5><a href="http://www.22bestdeals.com/c-health-household-6.html">Health &amp; Household</a></h5>
-            <ul>
-                                  <li><a href="http://www.22bestdeals.com/c-home-appliances-71.html">Home Appliances</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-kitchen-appliances-72.html">Kitchen Appliances</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-home-improvement-73.html">Home Improvement</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-luggage-bags-74.html">Luggage &amp; Bags</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-health-beauty-75.html">Health &amp; Beauty</a></li>
-                                <li><a href="http://www.22bestdeals.com/c-health-wellness-108.html">Health &amp; Wellness</a></li>
-                        </ul>
-          </div>
-        </div>
+        <a href="http://www.facebook.com/22shoppe" target="_blank"><img src="http://www.22bestdeals.com/images/facebookIcon.gif" alt="Facebook" border="0"></a> <a href="http://www.youtube.com/22bestdeals" target="_blank"><img src="http://www.22bestdeals.com/images/youtubeIcon.gif" alt="YouTube" border="0"></a> <a href="https://twitter.com/22bdeals" target="_blank"><img src="http://www.22bestdeals.com/images/twitterIcon.gif" alt="Twitter" border="0"></a> <a href="http://www.22bestdeals.com/rss_22.html" target="_blank"><img src="http://www.22bestdeals.com/images/rssicon.jpg" alt="RSS" border="0"></a>
+		<div style="float:right; margin-top:10px;"> <!-- Place this render call where appropriate -->
+	    <g:plusone size="medium" annotation="none"></g:plusone>
+		<script type="text/javascript">
+		(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script></div>
+		<span class="copyColor ">Copyright © 2010 - 2011 22bestdeals.com</span> </div>
+		</div>
       
-      <div class="allCatg" style="margin-top:10px; border-top:dotted 1px #CCCCCC; padding-top:10px;"> 22bestdeals.com, a venture of Twenty Two Infomedia group. 22bestdeals.com offers online shopping in India &amp; is one of its own kind, where you can get exclusive 22 best deals all across the web. 22bestdeals has the widest range of <a href="http://www.22bestdeals.com/c-electronics-computers-1.html" title="Buy Online Consumer Electronics Products"><b>Consumer Electronics</b></a> items at lowest prices ranging from digital cameras &amp; camcorders like Sony Cybershot, Canon, Nikon, SLR Camcorders, Handycams, <a href="http://www.22bestdeals.com/c-mobiles-2.html" title="Buy Online Mobile Phones"><b>Mobile Phones</b></a> and accessories across various brands like Nokia, Sony Ericsson, Motorola, Blackberry, HTC, Samsung, Lava, Josh, Videocon, Wespro, Auvio, Fujezone, Micromax, LG, Apple, Vodafone, GSM, CDMA, MP3 and Mp4 Players, Apple Ipod Touch, LCD, Home Theaters, DVD Players etc. The <a href="http://www.22bestdeals.com/c-computers-9.html" title="Buy Online Computers &amp; Laptops"><b>Computer</b></a> section includes with a wide range of Desktops, Laptops, Notebooks and Netbooks like Dell, Auvio, HP and Acer at discounted prices. The <a href="http://www.22bestdeals.com/c-fashion-jewelery-3.html" title="Buy Online Fashion &amp; Jewelry"><b>Fashion &amp; Jewelry</b></a> section includes a wide range of Reebok, Casio, Talking Tulip, Archies, Jpearls, RL Wallets N Bags, Timex, Polo, Killer, Aapno Rajasthan, Lawman PG3, Belmonte, Peter England, Casio, Numero Uno, MTV, Nike etc.<br>
-        <br>
-        Gift your near and dear ones on special occasion like birthday, anniversary weddings, valentine etc. Express yourself by sending flowers &amp; gifts within India. The <a href="http://www.22bestdeals.com/c-flowers-gifts-4.html" title="Buy Online Flowers &amp; Gifts"><b>Flowers &amp; Gifts</b></a> section includes with a range of flowers &amp; gifts like Ferns n Petals, Talking Tulips, Archies, Bikanerwala etc. The <a href="http://www.22bestdeals.com/c-toys-games-5.html" title="Buy Online Toys &amp; Games"><b>Toys &amp; Games</b></a> section includes with wide a range of Indoor and Outdoor games, pc games like Novalogic, EA Sports, Disney, Codemasters, Sunbaby, Barbie, Little Mommy etc. The <a href="http://www.22bestdeals.com/c-health-household-6.html" title="Buy Online Health &amp; Household Products"><b>Health &amp; Household</b></a> section includes with a wide range of home and kitchen appliances like furniture, cookwares, utensils from our best selling brands like Black &amp; Decker, Inalsa, Benetton, Haier, Jaipan, VLCC and many others. We have stored something for everyone.<br>
-        <br>
-        Apart from all the deals and discounts 22bestdeals keeps you updated about all the latest deals with its mailer. Regular contests, facebook update and other interactive activities keep you involved with 22bestdeals. We believe in customer satisfaction and provide you with the best. With our 100% safe payment gateway your money and personal details are absolutely safe and secure. It's Fast, Easy, Secure &amp; Saves Money. So, your wait is finally over, come and be a part of India's most trusted online shopping portal and grab a treat for yourself. Save more &amp; Shop on the hottest shopping destination, 22bestdeals.com, best deals on brands &amp; more. </div>
-    </div>
+    
   </div>
 </div>
 <form name="form1">
  <input type="hidden" name="rrttuu" id="rrttuu" value="">
 </form> </div>
-<div id="slide-out-div">
+<!--<div id="slide-out-div">
             <a class="handle">Content</a>
-			<div id="sideBarContents">  
+			<div id="sideBarContents">
+			<div id="target" class="delete" style="cursor:pointer"><img src="http://www.22bestdeals.com/images/delete.png"></div>  
 		<form name="customer_feedback">
       
-            <label> Name: </label>
-            <input name="c_name" id="c_name" type="text">
+            <label style="margin-top:0px !important"> Name: </label>
+            <input style="margin-top:0px !important" name="c_name" id="c_name"  type="text">
           
 			<label> Email: </label>
             <input name="c_email" id="c_email" type="text">
            
           <label> Feedback: </label>
-            <textarea name="c_feedback" rows="3" cols="4"></textarea>
+            <textarea  name="c_feedback" rows="3" cols="4"></textarea>
             <label> </label>
-            <input class="get_bttn" type="button" name="feed_submit" value=" " onclick="return submit_feedback();">
+            <input class="get_bttn" type="button" name="feed_submit" value=" " onclick="return submit_feedback();" />
         </form>
             </div>
-</div>
+</div>-->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
