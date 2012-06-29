@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205004059id_/http%3A//www.polycom.com/website/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629213502id_/http%3A//www.polycom.com/website/privacy_policy.html) for the most accurate reproduction.*
 
 # Your Privacy - Polycom
 
@@ -12,7 +12,7 @@ In some cases we collect this information from you directly and we may also rece
 
 In connection with these activities, we may collect personal information, including, but not limited to, your name, business address, email address, telephone number, fax number, and other contact information, user name and/or password associated with the use of our Website, occupation, company name, name of position within company, the type of product you are seeking, the type and number of products you and your business purchase, and other information necessary to conduct business with you or which we, or our business partners may ask you to provide.
 
-When you browse our Website we may also collect/obtain certain non personal information from you including, but not limited to, your browser type (eg Netscape or Internet Explorer), operating system (eg Windows or Macintosh), Internet service provider, IP address, websites visited, and the domain name from which you accessed the Website (eg yahoo.com). Like many other commercial websites, our Website may use standard technologies, such as “cookies”, web beacons and other HTML tools, to collect information about how you use the Website or to record that you opened an email marketing message. Polycom may also use customized links or other similar technologies to track email links that you click. We may associate that information with your personal information in order to provide you more focused service communications.
+When you browse our Website we may also collect/obtain certain non personal information from you including, but not limited to, your browser type (eg Netscape or Internet Explorer), operating system (eg Windows or Macintosh), Internet service provider, IP address, websites visited, and the domain name from which you accessed the Website (eg yahoo.com). Like many other commercial websites, our Website may use standard technologies, such as "cookies", web beacons and other HTML tools, to collect information about how you use the Website or to record that you opened an email marketing message. Polycom may also use customized links or other similar technologies to track email links that you click. We may associate that information with your personal information in order to provide you more focused service communications.
 
 Please go to What are "cookies" and web beacons? below for more information.  
 
@@ -66,6 +66,10 @@ A Note to Children and Parents: We do not intend to collect information relating
 Children: Before sending any information about yourself to us or anyone else, be sure to ask your parents for permission.
 
 Parents: Polycom recommends that parents take an active role in their children's use of the Internet. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet.
+
+#### Safe Harbor
+
+With respect to the personal data it receives from countries in the European Economic Area and Switzerland, Polycom complies with, and has certified its adherence to, the Safe Harbor Principles as set forth by the U.S. Department of Commerce, as agreed upon with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, which can be found at <http://www.export.gov/safeharbor>. To view our Safe Harbor Policy, please check our certification at <https://safeharbor.export.gov/list.aspx> or email [safeharbor@polycom.com](mailto:safeharbor@polycom.com) to request a copy.
 
 #### Tell us what you think
 
