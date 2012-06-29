@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopaserver.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203205943id_/http%3A//www.shopaserver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopaserver.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629120615id_/http%3A//www.shopaserver.com/privacy.html) for the most accurate reproduction.*
 
 # terms and conditions
 
@@ -9,7 +9,7 @@ We are committed to protecting your privacy We collect the minimum amount of inf
 **Information Collected**  
 We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website.   
 **Information Use**  
-We use the information collected primarily to process the task for which you visited the website. All reasonable precautions are taken to prevent unauthorized access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. Shopaserver may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.   
+We use the information collected primarily to process the task for which you visited the website. All reasonable precautions are taken to prevent unauthorized access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. Shopaserver may use your email to send special offers or its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.   
 **Cookies**  
 Your Internet browser has the in-built facility for storing small files - "cookies" - that hold information which allows a website to recognize your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.   
 **Disclosing Information**  
