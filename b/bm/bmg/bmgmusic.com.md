@@ -1,86 +1,126 @@
-> *The following text is extracted and transformed from the bmgmusic.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228092920id_/http%3A//www.yourmusic.com/help/index_sub.html%3Ffaq_section%3D8%26sub_section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmgmusic.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630012511id_/http%3A//www.bmg.com/privacy-policy) for the most accurate reproduction.*
 
-# Yourmusic.com
+# Privacy Policy | BMG Music Rights Management
 
-Privacy Policy
+## Privacy Policy Statement for the BMG Website
 
-This Web site, located at yourmusic.com (this "Site") is operated by yourmusic.com, a subscription music service owned by Direct Brands, Inc. (referred to collectively herein, along with its affiliates, as "yourmusic.com" or "we" or "us" or "our"). 
+Welcome to the website of BMG which BMG Rights Management GmbH, Germany, (“BMG”) operates on behalf of all members of the BMG group of companies. Protecting our users’ personal data is an important concern for BMG. BMG is subject to statutory supervision by the Berlin Commissioner for Data Protection and Freedom of Information. All of BMG’s activities on and in connection with our website “[bmg.com](http://www.bmg.com/)” comply with the applicable German data protection legislation, in particular the Telemedia Act and the Federal Data Protection Act. This privacy policy informs you on how and for what purpose we process personal data in connection with your visit to, and use of, our website.
 
-_Your privacy is important._
+## I. Collection and Processing of Personal Data
 
-At yourmusic.com, we know that your privacy is important to you. It's important to us, too. That's why we want you to know about the personal information we collect, how we use that information and with whom it may be shared, in connection with your use of this Site. 
+We collect and process personal data, i.e. information that identifies, or at least makes it possible to identify, you as a natural person (e.g. your name, your address or your e-mail) when you decide to actively communicate with us, when you subscribe to email newsletters or other services we may provide, and when you use our Online Client Platform (the “Platform”) as a writer, publisher or other contracting partner of BMG (jointly “BMG Partner(s)”) in the “[my.bmg](http://my.bmg.com/)” section of our website (see sections I.1. and I.2. below). Furthermore, we collect and process certain technical data that results from you visiting our website (see section II. below).
 
-You're always in control:  
-Except as otherwise provided in this Privacy Policy, the only information that we collect from you is information that you give us when you register and when you make purchases or otherwise use this Site. We use that information, for example, to service your account and to personalize your experience at this Site. Other than as set forth in this Privacy Policy and/or in the Terms and Conditions, we'll never share your e-mail address with third parties interested in e-mailing you, or send you our own promotional e-mails, without your consent (either communicated to us or to a company that we have since acquired), except in connection with your transactions on this site. However, if you became a yourmusic.com subscriber after June 1, 2006 (or if you were a yourmusic.com subscriber before that date but have since opted-in to this Privacy Policy) we may send you promotional messages without your consent, but you may opt-out by visiting Subscription Preferences at yourmusic.com and changing your e-mail preferences. 
+## 1\. The Public Section of the Website
 
-To see (or change) your current subscriber information in your user account, click "Your Account." (You will need to do this for each account, if you have more than one account.) If you wish to change information offline, or if there are circumstances in which you wish to have your spouse, relative, or other trusted friend have access to your information, please write to us at yourmusic.com, 6550 East 30th Street, Indianapolis, IN 46291. 
+There are certain data that you may – but by no means must – submit to us when using the public parts of our website.
 
-**For information about how you can change your preferences regarding the use and disclosure of your contact information for marketing purposes, see the Your Opt-Out Rights section below.**
+1.1 When you subscribe to newsletters or other services that we may offer our users from time to time you will obviously have to submit your email address as well as any other data necessary for the provision of the service. Also, there are means on our website to get in touch with us directly, especially our contact form, which in turn requires you to submit personal data, such as your name and your email address, but also the very content of your request.
+1.2 We collect, store and use such data in order to fulfil your corresponding request. Your data will not be collected, stored or used in any other way or for any other purpose. Hence, as an example, if you submit your email address via our contact form with a request for certain information, we will use only your email address to get back to you with – so we hope – the information you requested. Hence, you fully control the information you provide BMG about yourself and how it may be used.
+1.3 Should you no longer wish to receive a newsletter or other ongoing service, you may unsubscribe at any time.
 
-Here's the information we gather:   
-When you register at this Site, we ask for certain basic information to service your account: for example, name, shipping and billing addresses, e-mail address, phone number, credit card or PayPal account and other payment information. We may also collect certain demographic information such as your music preferences, age, gender, geographical location, language, time zone, income and education. (Some of the information we ask for may be optional.) 
 
-We may also ask you to indicate your Listening Preferences. This enables us to customize your shopping experience when you come to this Site. You may change your Listening Preferences at any time. To change your current Listening Preference, click "Subscription Preferences." 
+## 2\. Our Online Client Platform
 
-You may have the option to use certain services, such as Tell A Friend, which may require you to provide us with transmittal information for your friends or family. 
+The Platform under “[my.bmg.com](http://my.bmg.com/)” is a service for BMG Partners who wish to stay fully informed and up to date on their royalty earnings. For BMG Partners we provide an online interface to our corresponding databases.
 
-Naturally, we also pay attention to what you buy, we keep track of your shopping, purchases, traffic patterns, the pages you visit, and related site usage inside our website. This helps us to understand your musical tastes more fully and to present you with better recommendations, more relevant offers, important news about artists and other announcements we think may interest you. 
+2.1 To ensure that only you as a BMG Partner may gain access to the corresponding information we conduct an offline registration process. If you have decided to get in touch with the designated contact person and have received your login data, you may login to your account on the Platform.
+2.2 You are not required to submit any extra personal data before or while using the Platform (see section 2.3, though). Please, be aware, however, that the data you can retrieve on the Platform is personal and confidential. If you pass on your login data to anyone else, or if it gets passed on to anyone else, that person can access the data just as you can, unless and until you tell us to block your login data.
+2.3 While not being required to submit personal data through the Platform, you can edit certain personal data in the settings section of the Platform. We will store and use edited personal data to, as applicable, continue providing the services of the Platform for you and/or to fulfil our obligations towards you. For example, by informing us on a new postal address, you allow us to send you any statements or other documents we may owe you to that address, unless stipulated otherwise in your contractual documentation.
 
-We may conduct some or all of these activities through our third party service providers, who provide these services on our behalf. 
 
-Your credit card information:   
-We'll keep your credit card information on file, but we have designed our site not to display the entire credit card information. Plus, you can always choose to change to a new card or delete one of your credit cards entirely from our files. To see (or change) your current credit card status, click "Billing/Preferences" in "Your Account." 
+## II. Log Files and Cookies ****
 
-When you sign up for a subscription you authorize yourmusic.com to place a temporary, $1 authorization charge on your card. This temporary charge _will not_ be converted into an actual charge to you; it is used only to verify your billing address and the validity of your card. The temporary charge will reduce the amount available on your card by $1 for a short period of time. 
+## 1\. General and Error Log Files
 
-Why your transactions are secure:   
-We use industry standard encryption technology to safeguard your credit card or PayPal account information. The technology used is SSL (Secure Socket Layer), which is supported by all web browsers that are version 4.0 or newer. Your credit card or PayPal account information is encrypted as it travels over the Internet using encryption strengths that are standard in the industry. Upon our receipt, it is stored on restricted-access computers located at restricted-access sites. Notwithstanding this, due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from a user, will be free from unauthorized access. Please be careful whenever sending personal information to us via the "Contact Customer Service" feature on this Site or by e-mail. For example, do not send us your account password or credit card or PayPal account information via these methods, as they may not be a secure means of transferring information. By using this Site, you acknowledge that you understand and agree to assume these risks. 
+When you visit our website, our webservers store certain data in log files.
 
-Our employees with access to your personal information are trained to follow specific practices concerning its proper handling. 
+1.1 The general log files may tell us which Internet browser and operating system you were using and which (masked) IP address was allocated to your Internet access when you were visiting the site, the URL of the internet page from which you arrived at our website, the exact time when you accessed and left our website, the amount of data transmitted, and the pages you accessed on our website. The last octet (8-bit byte) of the IP address in the general log files will be masked, however, so that making the connection from the IP address to your specific Internet access is made absolutely impossible (i.e. not only for us but for anyone).
+1.2 Should our web server(s) detect an error in processing requests, it will send the corresponding information to an error log file. Those log files for technical reasons also record the client IP address from which the request was sent, i.e. your IP address if your request caused the error.
+1.3 We have no means, and no interest in, identifying you through the general or error log file data. We use the general log file data for statistical purposes. The information we can from time to time retrieve from the files relates to, for example, peak times of the use of our website, which information our users are most interested in on the website, how users navigate on our website and which browsers and operating system our users use. We use that information to improve the technical setup as well as the design of our website. The error log files are used to diagnose and fix the error.
 
-We have designed this Site not to display your full credit card or PayPal account information. Your account is password-protected. You must use your password to submit an order or view your personal information in your account. This Site is designed to sign you out automatically if your session remains inactive for more than 20 minutes. If you share a computer, we recommend that you always sign out before leaving it unattended. 
 
-In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. 
+## 2\. Platform Log Files
 
-Technical Information:  
-When you visit this Site, we may collect technical information that does not, by itself, identify a specific individual. This information may include, for example, the address (or "URL") of the website that you came from before visiting this Site, which pages you visit on this Site, which computer platform, monitor, web browser and related software and settings you used to view this Site and any search terms you have entered on this Site or a referral site. This technical data is aggregated and used to measure and improve the effectiveness of this Site. We may collect your IP (Internet Protocol) address and/or domain name to help diagnose problems with our server, administer our site, see where our site traffic is coming from and identify our users. We may also collect other information via this Site, such as site usage activity and preferences, also known as demographic or profile data. We may combine these types of technical data with your personal information. We may conduct some or all of these activities through our third party service providers, who provide these services on our behalf. 
+In addition to the general and error log files, we keep log files of all logins to and logouts from, and downloads of documents from, the Platform under my.bmg.com in order to protect you and ourselves from any misuse of the service. For that purpose we also display the exact time and date of you latest login in the settings section of your account on the Platform which we store in our database.
 
-We may use "cookies" (described in more detail below) and clear GIFs in this Site or in our communications with you to enhance the functionality of this Site and to make your transactions and other activities more customized, convenient and efficient. We may use cookies, for example, to remember user preferences, to minimize the need for you to re-enter information, and to store information about your activities on this Site and other technical information. Cookies and/or clear GIFs may be placed by our third party service providers, who provide these services on our behalf. 
+## 3\. Cookies
 
-What you should know about cookies:  
-Cookies are small pieces of information that we may send through your browser or other software to your hard drive. A cookie lets us recognize you and provide a more meaningful and personalized shopping experience when you come back to our site. 
+3.1 Our website uses http cookies. A http cookie is a piece of text stored on your computer by your web browser. Cookies are sent as a field in the header of the http response by our web server(s). It is then sent back by your browser every time it accesses the respective web server.
 
-Most web browsers are set to accept cookies automatically, but you can change this setting. However, you may need to leave your cookies "on" in order to take full advantage of the features of this Site. If your cookies are "off," see your browser's "help topics" to learn how to change the setting. Additionally, in the event that we use Flash cookies, your Flash player can be set to accept, reject or delete them. 
+  * • [bmg.com](http://www.bmg.com/) uses session and persistent cookies in order to provide you with an easy and comfortable to use web service. They allow us to, for example, display the German contact information any time you visit our website if your first visit to the site came from Germany.
 
-With whom is information shared?  
-We may release specific personal information for the following reasons: We may use outside companies to host and maintain this Site, to provide you with certain merchandise you purchase, to provide some of the services you use on our sites as well as for managing some of our internal operations such as data analysis and e-mails. As a result, these companies do have access to specific information necessary to perform these services, but we require them to keep this information confidential and not to use it for any other reason. We will release your personal information to the proper persons when we believe, in good faith, that we are required to comply with a law or legal process, cooperate with or participate in legal investigations, enforce our user agreements or protect the rights, property or safety of yourmusic.com or other persons or entities. 
 
-Aggregate statistics:  
-From time to time we provide aggregate statistics about our customers, site traffic, sales and other site-related information to reputable companies. Of course, if you have registered in an outside customer reward program in which yourmusic.com is a participating merchant, we will provide your reward program with the necessary information about your purchases so that you can be awarded your points or other rewards. 
+  * • The Platform under [my.bmg.com](http://my.bmg.com/) uses session cookies (which are automatically deleted at the end of each session) that for example, allow us to identify you as the same user (but no more) over a session on our website and to “keep” certain data across more than one webpage so that you don’t have to reinsert the same data or set your personal settings over and over again. Also, my.bmg.com sets a persistent cookie to keep the particular language that you prefer so that you can use the Platform in that language without having to change your settings each time you access to Platform.
 
-**Your Opt-Out Rights:**
+3.2 Should you, however, wish to generally discontinue the use of cookies, you may use your browser settings to prevent the acceptance and storage of new cookies. To find out how this works with your browser, resort to the browser’s help function or contact the manufacturer. However, we recommend leaving the cookies functions switched on as only if you do will you retain the full benefit of the high level of user comfort we keep striving for. In addition, the use of the Platform requires us to be able to set cookies.
 
-E-mail addresses:  
-We never sell or rent your name and e-mail address to other online marketers of products or services without your consent. You make the decisions on how you would like to hear from us (in addition to the monthly e-mails and transactional e-mails that are part of your subscription) and if you are interested in receiving valuable offers from other reputable marketers of products and services. You can change your preferences at any time by going to the "Subscription Preferences" section of this Site. In addition, all promotional e-mail that you receive from yourmusic.com (not including service e-mails, such as the monthly e-mails that are part of your subscription) will always allow you to unsubscribe to future e-mail promotions from yourmusic.com if you decide to do so at a later date. 
 
-Postal mailing lists:  
-We make our postal mailing list available to selected companies whose products and services we think you will enjoy. Once again, you have the option of removing your name and address from our mailing list by simply writing to us at yourmusic.com, P.O. Box 1958, Indianapolis, IN 46291-0010. Or you can go to the Customer Service section of this Site and send us an e-mail requesting we remove your name from our mailing list. Please do not forget to include your account number (but not your password or any other sensitive information!). 
+## 4\. Web Analytics
 
-External sites:  
-yourmusic.com may run sweepstakes with select companies or place advertisements or other promotional offers from select companies on our website or in our e-mails. When you choose to participate in these sweepstakes or promotional offers, you may link to these businesses' websites and be asked to give them personal information, or we may send over your personal information if you enter it on this Site. These businesses operate independently from yourmusic.com. Any personal information that is given to them is at your option and is no longer controlled by us or our Privacy Policy. 
+Our website may use Google Analytics. Google Analytics is a web analytics service provided by Google, Inc., of Mountain View, CA 94043, U.S.A. („Google“). Google Analytics uses cookies (cf. section 3 above) that enable an analysis of your use of the website. The information generated by the cookie about your use of our website (such as when you visited the website, the referrer URL, details on the configuration of your operating system, your browser and your access provider) are generally transmitted to, and stored on, a server of Google located in the U.S.A. As we are using Google Analytics’ “_anonymizeIp()” function, your IP address will be shortened within members states of the European Union or in other states of the European Economic Area. It is only in exceptional circumstances that your IP address is transmitted to the U.S.A. and shortened there. Google will use the information on our behalf to analyze your use of the website, to compile reports on website activity, and to provide us with additional services related to the use of the website as well as Internet use. The IP address collected within the framework of Google Analytics will not be combined with other Google data.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as "single pixel gifs" or "web beacons") to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags in generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. 
+You will find further information on Google and Google Analytics at [http://www.google.com](http://www.google.com/), and Google’s Privacy Policy at <http://www.google.com/intl/en/privacy/>  
+or <http://www.google.com/intl/de/privacypolicy.html#information>.
 
-Children's Online Privacy Protection Act (COPPA): 
+As already explained above, you can use your browser settings to prevent the acceptance and storage of new cookies. Should you disagree with the analysis of your use of our website you can also deactivate Google Analytics and thus declare your objection to the collection and processing of the respective data. To do this, please download and install the browser plugin that Google provides for this purpose.
 
-This Site is a website directed to the general public. We do not knowingly collect information from children under 13. 
+The plugin is available at [**http://tools.google.com/dlpage/gaoptout?hl=de]**](http://tools.google.com/dlpage/gaoptout?hl=de\]).
 
-Consent: By using this Site and providing us with your personal information, you are accepting the privacy practices described in this Privacy Policy. 
+Once the plugin has been installed, it will prevent the recollection of the data related to your use of our website that has been generated by the cookie (including your IP address).
 
-We may update our Privacy Policy from time to time. We will notify you of such updates by posting the updated policy on this Site, and, depending on the nature of the change, we may also notify you by e-mail. Please check back here occasionally. You will always find the latest version posted here. 
+## 5\. Social Media Plugins
 
-Please note that because a customer information database is customarily considered a business asset, yourmusic.com shall have the right to transfer it in a merger, sale of some or all of its company, consolidation, change in control, reorganization, liquidation or in an action for bankruptcy. 
+On certain webpages of our website we may implement so-called social media plugins, in particular Facebook, Inc.’s “like” button, Google’s “+1” button and Twitter, Inc.’s Twitter buttons. When you visit a page that displays one or more of such buttons your browser will establish a direct connection to the respective Facebook, Google and/or Twitter server and load the button from there. At the same time Facebook, Google and/or Twitter will know that the respective page on our website has been visited.
 
-Comments: If you have any questions or comments about our Privacy Policy, please send us an e-mail by clicking on Contact Customer Service. 
+We have no influence on the data that Facebook, Google and Twitter collect on the basis of the buttons. According to the available information, however, if you do not click on the respective buttons no personal data will be collected and stored unless you have logged onto to your Facebook, Google or Twitter account. In that case certain user data (including your IP address at the time) may be collected and linked to the account information already present at Facebook, Google or Twitter, respectively. If you wish to prevent this, please log out of your social media accounts before visiting our website.
 
-Date of Last Update to Privacy Policy: 11/21/2008 
+In addition, clicking a button may also lead to a collection of certain data, such as the user’s IP address. Facebook, Google or Twitter may set cookies, as well, unless you have disabled the acceptance and storage of cookies in your browser settings (see above).
+
+We receive no information from Facebook. Google or Twitter about which social media buttons you may have clicked or seen on our website, but, if at all, a summarized, non-person-related statistical report on the use of the buttons.
+
+If you wish to obtain more information on the subject go to:
+
+  * • Facebook’s Privacy Policy at <http://en-gb.facebook.com/about/privacy/> or  
+<http://de-de.facebook.com/about/privacy/>
+
+
+  * • Additional Information on Facebook’s Social Plugins at <http://en-gb.facebook.com/about/privacy/your-info-on-other#socialplugin> or <http://de-de.facebook.com/about/privacy/your-info-on-other#socialplugin>
+
+
+  * • Google’s +1 Button Privacy Policy at <http://www.google.com/intl/de/+/policy/+1button.html> or <http://www.google.com/intl/en/+/policy/+1button.html>
+
+
+  * • Twitter’s Privacy Policy at <http://twitter.com/privacy>
+
+
+
+## III. No disclosure of personal data
+
+We will not disclose your personal data, be it by transmission or otherwise, to third parties except where
+
+  * • such disclosure is necessary to fulfill existing obligations towards or assert and enforce claims against you;
+
+
+  * • we are bound to do so by law;
+
+
+  * • federal or competent state authorities, in particular law enforcement and/or data protection supervisory agencies, request such disclosure, if an inasmuch as such disclosure is necessary to counter dangers to public safety and order or for the investigation and persecution of criminal acts.
+
+
+
+## 4\. Security
+
+BMG takes great care to ensure the security of personal data. Your data is conscientiously protected from loss, destruction, distortion/falsification, manipulation and unauthorized access or unauthorized disclosure through appropriate technical measures.
+
+## 5\. Right to Information
+
+If you have questions concerning our privacy protection policy or how your personal data is processed, please feel free to contact our external Privacy Protection representative:
+
+Bertelsmann AG  
+Data Protection Department  
+Hannes Oenning  
+Carl-Bertelsmann-Str. 270  
+D-33311 Gütersloh  
+Germany
+
+Upon request, you will promptly be informed – in writing and pursuant to applicable legislation – which of your personal data, if any, was collected and stored during your visits to our website. Also, you may at any time have the data of your user account and, consequently, your personal data corrected, blocked or cancelled with the only exceptions of those data we need for the performance of our obligations and assertion of our rights towards you, if any, as well as the data we are required to keep stored pursuant to statutory provisions. In the latter case, however, the data concerned will be blocked.
