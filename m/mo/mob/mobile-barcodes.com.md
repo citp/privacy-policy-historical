@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile-barcodes.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084419id_/http%3A//www.mobile-barcodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-barcodes.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629214537id_/http%3A//www.mobile-barcodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobile-Barcodes.com
 
@@ -10,7 +10,7 @@ In the future, this privacy policy may change. Please frequently visit this page
 
 ## What We Collect?
 
-We do not collect any details other than used via email contact.
+Mobile-Barcodes.com has access to it's log files, which reveal general information such as your IP (internet protocol) address, your ISP (internet service provider), your browser, referred agent, the time you visited our site and which pages you visited throughout our site. This information is used to help us to improve our site design to best match the needs of the visitors.
 
 ## Security
 
@@ -18,11 +18,12 @@ We are committed to ensuring your personal inforamtion is secure and private. We
 
 ## Cookies
 
-We do not use cookies
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums or blog.  
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites.
 
 ## Links
 
-Within the website, there may be various links to external websites. You can idetify these with the [orange highlighting](http://www.mobile-barcodes.com/). We try and editorially review each link on a regular basis to ensure that all websites we may refer users to is safe and secure. At times, these websites may change resulting in a poor user experience. We are not responsible for any external websites and cannot be held liable for their contents at any time.
+Within the website, there may be various links to external websites. We try and editorially review each link on a regular basis to ensure that all websites we may refer users to is safe and secure. At times, these websites may change resulting in a poor user experience. We are not responsible for any external websites and cannot be held liable for their contents at any time.
 
 ## Advertising
 
