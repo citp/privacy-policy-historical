@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questional.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107130640id_/http%3A//questional.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questional.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629231755id_/http%3A//questional.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
