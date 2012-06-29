@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219102403id_/http%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629150854id_/http%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UK, US & AU | realbuzz
 
@@ -10,9 +10,9 @@ Thank you for visiting the realbuzz.com Shop and/or realbuzz.com (either or both
 
 Your use of the Website is subject to the terms of this Privacy policy and the Website’s Terms of use, so please read this Privacy policy and each Website’s Terms of use before using the Website.
 
-[realbuzz.com Terms of use](https://web.archive.org/web/terms-of-use/)
+[realbuzz.com Terms of use](https://web.archive.org/web/20120629150854id_/terms-of-use/)
 
-[ realbuzz.com Shop Terms of use](https://web.archive.org/web/shop-terms-of-use/)
+[ realbuzz.com Shop Terms of use](https://web.archive.org/web/20120629150854id_/shop-terms-of-use/)
 
 **Personal information**
 
@@ -80,7 +80,7 @@ Notwithstanding anything to the contrary, the Website may release your personal 
 
 **Protecting yourself**
 
-The Website has Forums, Blogs, Calendar, Map Your Passion and Photos & Videos etc. ("Public Areas") where users can post personal content. When you disclose personal information in Public Areas, that information can be collected and used by others in various ways, including by sending unsolicited messages. You are solely responsible for any postings you make in Public Areas on the Website, and for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
+The Website has Forums, Blogs, Calendar, Maps and Photos & Videos etc. ("Public Areas") where users can post personal content. When you disclose personal information in Public Areas, that information can be collected and used by others in various ways, including by sending unsolicited messages. You are solely responsible for any postings you make in Public Areas on the Website, and for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
 
 You can help to protect your information by safeguarding your Website password, using caution and discretion when posting information on public areas of the Website. In addition, it is important that you keep us updated with your most current contact information. To review and make changes to your profile, please visit the applicable Website registration page.
 
@@ -122,4 +122,4 @@ We may update this policy at any time at our sole discretion. The Website will a
 
 **How to contact us**
 
-If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/web/contact-us/).
+If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/web/20120629150854id_/contact-us/).
