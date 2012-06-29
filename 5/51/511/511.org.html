@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 511.org privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225133210id_/http%3A//www.511.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 511.org privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629085902id_/http%3A//511.org/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/2-column.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -23,7 +23,11 @@ include virtual="/inc/css-block.asp" -->
 
 <body>
 
-<div id="container">
+<!--[if lt IE 7]><div id="container" class="lt-ie7"><![endif]-->
+<!--[if IE 7]><div id="container" class="ie7"><![endif]-->
+<!--[if IE 8]><div id="container" class="ie8"><![endif]-->
+<!--[if IE 9]><div id="container" class="ie9"><![endif]-->
+<!--[if gt IE 9]><!--> <div id="container" class="non-ie"> <!--<![endif]-->
 
     <div id="skipto"><a href="#contentarea" class="skip_nav" accesskey="z">Skip to Content</a></div>
     
@@ -31,7 +35,7 @@ include virtual="/inc/css-block.asp" -->
     
 		<style type="text/css">
         #autoRefreshLink {
-			font-family: "Lucida Grande", Arial, Helvetica, sans-serif;
+			font-family: Arial, Helvetica, sans-serif;
 			font-size: 10px;
 			font-weight: bold;
 			position: absolute;
@@ -99,7 +103,7 @@ include virtual="/inc/css-block.asp" -->
 			position: absolute;
 			top: 5px;
 			left: 80px;
-			font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+			font-family: Arial,Helvetica,sans-serif;
 			font-size: 15px;
 			font-weight: bold;
 			text-align: left;
@@ -130,9 +134,10 @@ include virtual="/inc/css-block.asp" -->
         <li><a href="http://traffic.511.org/default.asp?refresh=5">Traffic</a></li>
         <li><a href="http://rideshare.511.org/">Rideshare</a></li>
         <li><a href="http://bicycling.511.org/">Bicycling</a></li>
+        <li><a href="http://trafficbeta.511.org/Parking/Index">Parking</a></li>
       </ul>
       
-      <ul id="internal-top-nav">
+      <ul id="internal-top-nav" class="enhanced-planner">
         <li class="hilite"><a href="/default.asp">511 Home</a>
         </li>
 
@@ -184,6 +189,7 @@ include virtual="/inc/css-block.asp" -->
         </li>
         <li class="hilite"><a href="/apps.asp">Mobile &amp; Apps</a>
           <ul>
+            <li><a href="/apps-transit.asp">511 Transit App</a></li>
           	<li><a href="/apps-511-mobile.asp">511 Mobile</a></li>
             <li><a href="/apps-dept-times-texting.asp">511 Departure Times Texting</a></li>
             <li><a href="/apps-3rd-party-apps.asp">Third Party Apps</a></li>
@@ -199,6 +205,12 @@ include virtual="/inc/css-block.asp" -->
             <li><a href="/developer-resources_driving-times-api.asp">511 Driving Times API</a></li>
             <li><a href="/developer-resources_transit-api.asp">511 Real-time Transit Departures API</a></li>
           </ul>
+        </li>
+        <li class="hilite"><a href="http://enhancedtripplanner.transit.511.org/TransitMMTP/tripplanner/index.aspx">Enhanced Planner <span class="Beta">Beta</span></a>
+        	<ul>
+            	<li><a href="http://511.org/enhanced-trip-planner.asp">Overview</a></li>
+                <li><a href="http://511.org/enhanced-trip-planner-faq.asp">FAQ</a></li>
+            </ul>
         </li>
       </ul>
     </div><!-- END header -->
@@ -244,6 +256,12 @@ include virtual="/inc/css-block.asp" -->
         }
         if (url.indexOf('apps') > -1) {
             aryClassElements[5].className = 'active';
+        }
+		if (url.indexOf('developer-resources') > -1) {
+            aryClassElements[6].className = 'active';
+        }
+		if (url.indexOf('enhanced-trip-planner') > -1) {
+            aryClassElements[7].className = 'active';
         }
     }
     //END Set the main nav elements to get the active treatment if the URLs match
@@ -390,18 +408,18 @@ Metropolitan Transportation Commission<br>
 511 Privacy Policy<br><br>
 
 The effective date of this Privacy Policy is November 16, 2011<br>
-Last updated November 16, 2011
+Last updated June 7, 2012
 </strong></h2>
 <br><br>
 <br><br>
                          
 <p><strong><u><strong>Overview</strong></u></strong><br><br>
                               
-The Metropolitan Transportation Commission (MTC) is committed to ensuring 511 user privacy and security. Specifically: (1) MTC will not provide personally identifiable information (“PII”) from 511 users to any third party without express customer consent, except as described in the Privacy Policy; (2) PII from 511 users will never be provided to advertisers for their use; and (3) MTC will maintain a secure environment for customer personal information.</p>
+The Metropolitan Transportation Commission (MTC) is committed to ensuring 511 user privacy and security.  Specifically:  (1) MTC will not provide personally identifiable information (“PII”) from 511 users to any third party without express customer consent, except as described in the Privacy Policy; (2) PII from 511 users will never be provided to advertisers for their use; and (3) MTC will maintain a secure environment for customer personal information.</p>
 
-<p>This Privacy Policy is intended to provide an understanding of how MTC handles PII collected by the 511 program. Among other things, this policy explains the types of information collected from 511 users; the third parties with whom MTC may share this information; and the process by which 511 users are notified about material changes to this Policy.</p>  
+<p>This Privacy Policy is intended to provide an understanding of how MTC handles PII collected by the 511 program.  Among other things, this policy explains the types of information collected from 511 users; the third parties with whom MTC may share this information; and the process by which 511 users are notified about material changes to this Policy.</p>
 
-<p>MTC contracts with Science Applications International Corporation (“SAIC”), PB Americas, Inc., and Civic Resource Group to operate and maintain 511. Collectively, these contractors are referred to in this 511 Privacy Policy as the “511 Contractors”. MTC oversees the 511 Contractors. 511’s Terms of Use <a href="http://www.511.org/terms.asp" title="511 Terms">http://www.511.org/terms</a> notify users that by using the 511 system, the user is allowing MTC, the 511 Contractors and other third parties referenced herein, to process personal information according to the provisions set forth in 511’s Terms of Use and this Privacy Policy.</p>
+<p>MTC contracts with Science Applications International Corporation (“SAIC”), PB Americas, Inc., and Civic Resource Group to operate and maintain 511.  Collectively, these contractors are referred to in this 511 Privacy Policy as the “511 Contractors”.  MTC oversees the 511 Contractors.  511’s Terms of Use <a href="http://www.511.org/terms.asp">http://www.511.org/terms.asp</a> notify users that by using the 511 system, the user is allowing MTC, the 511 Contractors and other third parties referenced herein, to process personal information according to the provisions set forth in 511’s Terms of Use and this Privacy Policy.</p>
 
 <p><strong><u><strong>Definitions</strong></u></strong><br><br>
 
@@ -411,7 +429,7 @@ The following definitions apply:</p>
 
 <p><strong>Travel Pattern Data</strong>: Travel Pattern Data is information concerning a 511 user’s trip start and end points, travel day(s) and time(s) of day, as well as details of when MY 511 alerts are requested.</p> 
   
-<p><strong>Aggregate Data or Aggregate Information</strong>: Aggregate Data or Aggregate Information is statistical information that is derived from collective data that relates to a group or category of persons from which PII has been removed. Aggregate Data reflects the characteristics of a large group of anonymous people. MTC may use Aggregate Data to generate 511 Driving Times and statistical reports for the purpose of managing the 511 program. MTC may also provide Aggregate Data to third parties.</p> 
+<p><strong>Aggregate Data or Aggregate Information</strong>: Aggregate Data or Aggregate Information is statistical information that is derived from collective data that relates to a group or category of persons from which PII has been removed.  Aggregate Data reflects the characteristics of a large group of anonymous people. MTC may use Aggregate Data to generate 511 Driving Times and statistical reports for the purpose of managing the 511 program.  MTC may also provide Aggregate Data to third parties.</p> 
 
 <p><strong><u><strong>Collection of Personally Identifiable Information</strong></u></strong><br><br>
 
@@ -423,7 +441,7 @@ MTC uses the PII provided by customers to effectively and efficiently process en
 
 <p>For the 511 RideMatch, SchoolPool and Bike Buddy services, MTC uses PII to provide database participants’ first and last names, e-mail addresses, employer or school names, telephone numbers and the approximate geographic locations of trip start and end points to other members within the respective client database. This information is mailed via United States Postal Service on paper “matchlists,” e-mailed, or provided online (during a registered user’s account session) in response to a user’s web- or phone-based request. Trip start and end points are provided as either the nearest cross streets or as points on a map showing the general location. Specific home or work addresses are not provided. PII is used only to facilitate carpool, vanpool or BikeBuddy matches and to provide information about products, services and campaigns that encourage the use of alternatives to driving alone. Additionally, database participants may receive e-mails or phone calls from 511 program administrators requesting participants to review and update their PII and/or to assist the formation of carpools, vanpools, or bike buddies.</p>
 
-<p>Regarding MY 511, MTC uses PII to provide traveler information as customized by the MY 511 registrant. This may include, if set up by the registrant, automatic e-mailing or texting of driving times and transit departures at times of day or traffic-severity levels determined by the participant. Periodically, MTC may send e-mails to all MY 511 registrants providing general system information. If registrants have signed up for 511 news, MTC will periodically send e-mails that could include such things as 511 marketing of new features and invitations to participate in 511 surveys and/or focus groups.</p>
+<p>Regarding MY 511, MTC uses PII to provide traveler information as customized by the MY 511 registrant. This may include, if set up by the registrant, automatic e-mailing or texting of driving times and transit departures at times of day or traffic-severity levels determined by the participant.  Periodically, MTC may send e-mails to all MY 511 registrants providing general system information.  If registrants have signed up for 511 news, MTC will periodically send e-mails that could include such things as 511 marketing of new features and invitations to participate in 511 surveys and/or focus groups.</p>
 
 <p>PII is only utilized as described in this Privacy Policy.</p> 
 
@@ -433,33 +451,33 @@ MTC hires third party service providers (the 511 Contractors) for the purpose of
 
 <p>MTC also shares Rideshare PII (PII related to the RideMatch, SchoolPool and Bike Buddy  programs) with other government-funded rideshare agencies, such as the Bay Area Air Quality Management District, 511 Contra Costa, the Peninsula Traffic Congestion Relief Alliance, the San Francisco Department of the Environment, Solano/Napa Commuter Information, the Transportation Agency of Monterey County, the Association of Monterey Bay Area Governments, the Council of San Benito County Governments, and the Santa Cruz County Regional Transportation Commission for ridesharing purposes only.</p>
 
-<p>MTC may also share Rideshare PII with select employers. These select employers have been granted access to the Rideshare Matching database because they wish to take a more active role in facilitating carpools and/or vanpools among their employees. As such, employers with access to the Rideshare Matching database only have access to PII for their employees.</p>
+<p>MTC may also share Rideshare PII with select employers.  These select employers have been granted access to the Rideshare Matching database because they wish to take a more active role in facilitating carpools and/or vanpools among their employees.  As such, employers with access to the Rideshare Matching database only have access to PII for their employees.</p>
 
-<p>In addition, comments and inquiries, which usually contain some PII such as name and e-mail address, may be shared with third parties for review, comment and/or action in order to appropriately respond to the specific concern. For example, comments and inquiries received by 511 that are related to services provided by other public agencies (e.g., transit agencies) are forwarded to those agencies for their response.  Likewise, a 511 Contractor may need to share the comment with a subcontractor, if necessary, to troubleshoot technical issues.</p>  
+<p>In addition, comments and inquiries, which usually contain some PII such as name and e-mail address, may be shared with third parties for review, comment and/or action in order to appropriately respond to the specific concern.  For example, comments and inquiries received by 511 that are related to services provided by other public agencies (e.g., transit agencies) are forwarded to those agencies for their response.  Likewise, a 511 Contractor may need to share the comment with a subcontractor, if necessary, to troubleshoot technical issues.</p>  
 
 <p>Besides these entities, PII will not be disclosed to any other third party without express customer consent, except as required to comply with laws or legal processes served on MTC.</p>
 
 <p><strong><u><strong>Retention of Personally Identifiable Information</strong></u></strong><br><br>
 
-MTC, through the 511 Contractors, shall only store the PII of a 511 user that is necessary to provide the requested service. All Rideshare PII shall be discarded no more than seven years from the date a 511 registered user removes him/herself from the system, or is automatically (based on inactivity) or manually (at the registered user’s request or other reason) removed from the system. All MY 511 PII is deleted from 511 databases no more than seven years from a user’s removal of his/her account from MY 511 or upon Contractor’s removal of an account at the registered user’s request. PII incorporated in customer comments shall be deleted no more than seven years after the comment has been addressed.</p>
+MTC, through the 511 Contractors, shall only store the PII of a 511 user that is necessary to provide the requested service.  All Rideshare PII shall be discarded no more than seven years from the date a 511 registered user removes him/herself from the system, or is automatically (based on inactivity) or manually (at the registered user’s request or other reason) removed from the system.  All MY 511 PII is deleted from 511 databases no more than seven years from a user’s removal of his/her account from MY 511 or upon Contractor’s removal of an account at the registered user’s request.  PII incorporated in customer comments shall be deleted no more than seven years after the comment has been addressed.</p>
 
 <p><strong><u><strong>Security of 511 Personally Identifiable Information</strong></u></strong><br><br>
 
-MTC is committed to the security of participants’ PII. MTC, together with the 511 Contractors, stores the PII provided by 511 users on computer servers that are located in secure, controlled facilities. Servers are designed with software, hardware and physical security measures in place to prevent unauthorized access.</p>  
+MTC is committed to the security of participants’ PII.  MTC, together with the 511 Contractors, stores the PII provided by 511 users on computer servers that are located in secure, controlled facilities.  Servers are designed with software, hardware and physical security measures in place to prevent unauthorized access.</p>  
 
 <p>Access to PII is controlled through the following administrative, technical, and physical security measures. By contract, third parties with whom MTC shares PII are also required to implement adequate security measures to maintain the confidentiality of such information.</p>
 
 <p>Administrative:</p>
 
 <ul class="green-dot-bullet">
-	<li>Access to PII is limited only to certain employees for limited, approved purposes based on their specific work responsibilities. Employees’ use of 511 Rideshare customer databases is limited via authentication and authorization mechanisms.</li>
-	<li>Privacy and security training is required for employees with access to PII, upon hire. In addition, regular periodic refresher training is required for those employees.</li>
+	<li>Access to PII is limited only to certain employees for limited, approved purposes based on their specific work responsibilities.  Employees' use of 511 Rideshare customer databases is limited via authentication and authorization mechanisms.</li>
+	<li>Privacy and security training is required for employees with access to PII, upon hire.  In addition, regular periodic refresher training is required for those employees.</li>
 </ul>
 
 <p>Technical:</p>
 
 <ul class="green-dot-bullet">
-	<li>511 network perimeters are protected with firewalls.</li> 
+	<li>511 network perimeters are protected with firewalls. </li> 
 	<li>511 systems are implemented to ensure PII is segregated from Aggregate Information.</li>
 	<li>PII is stored in limited-access databases that require proper authentication and authorization for access. MY 511 user passwords are encrypted.</li>
 	<li>Electronic connections containing PII between both the MY 511 and the 511 RideMatching System web applications and a users’ browser are fully encrypted using SSL (secure sockets layer) technology. User sign-up of 511 Application Program Interfaces (“APIs”) is not encrypted.</li>
@@ -473,19 +491,20 @@ MTC is committed to the security of participants’ PII. MTC, together with the 
 	<li>Data center access to approved technical personnel is restricted via photo / passcode authentication, and other security protocols.</li>
 </ul>
 
-<p>In addition to MTC’s policies and procedures implementing PII security, the 511 user must also do such things as safeguard passwords, PINs, and other authentication information that may be used to access a 511 account. 511 users should not disclose authentication information to any third party and should notify MTC of any unauthorized use of their passwords. MTC cannot secure PII that is released by 511 users or PII that customers request MTC to release. In addition, there is a risk that unauthorized third parties may engage in illegal activity by such things as hacking into MTC’s security system or the 511 Contractors’ security systems or by intercepting transmissions of personal information over the Internet.</p>
+<p>In addition to MTC’s policies and procedures implementing PII security, the 511 user must also do such things as safeguard passwords, PINs, and other authentication information that may be used to access a 511 account. 511 users should not disclose authentication information to any third party and should notify MTC of any unauthorized use of their passwords. MTC cannot secure PII that is released by 511 users or PII that customers request MTC to release.  In addition, there is a risk that unauthorized third parties may engage in illegal activity by such things as hacking into MTC’s security system or the 511 Contractors’ security systems or by intercepting transmissions of personal information over the Internet.</p>
 
-<p>Please note that the 511 Contractors will never ask 511 users to provide or confirm any information in connection with 511 including PII, unless the customer is a subscriber to 511 services.  If a 511 user ever has any doubt about the authenticity of an e-mail regarding 511, the user should either (1) open a new web browser, log into the 511 user’s account, and then perform the requested activity or (2) contact 511, by sending a message via the <a href="http://www.511.org" title="511">www.511.org</a> suggestion form (<a href="http://www.511.org/about-511-suggestions.asp" title="511 Suggestions">http://www.511.org/about-511-suggestions</a>) to verify the purpose and authenticity of the message.</p>
+<p>
+Please note that the 511 Contractors will never ask 511 users to provide or confirm any information in connection with 511 including PII, unless the customer is a subscriber to 511 services.  If a 511 user ever has any doubt about the authenticity of an e-mail regarding 511, the user should either (1) open a new web browser, log into the 511 user’s account, and then perform the requested activity or (2) contact 511, by sending a message via the <a href="http://www.511.org" title="511">www.511.org</a> suggestion form (<a href="http://www.511.org/about-511-suggestions.asp" title="511 Suggestions">http://www.511.org/about-511-suggestions</a>) to verify the purpose and authenticity of the message.</p>
 
-<p><strong><u><strong>Account Access and Controls</strong></u></strong><br><br>
+<p><strong><u><strong>Account access and controls</strong></u></strong><br><br>
 
-Creating an account with 511 is in the customer’s discretion. The required account information consists of PII such as name, business or workplace name, mailing address(es), e-mail address, telephone number, user name, password, and trip start and end points. MTC may request other optional information, such as alternate contact information, but, in such instances, clearly indicates that such information is optional.</p> 
+Creating an account with 511 is in the customer’s discretion.  The required account information consists of PII such as name, business or workplace name, mailing address(es), e-mail address, telephone number, user name, password, and trip start and end points.  MTC may request other optional information, such as alternate contact information, but, in such instances, clearly indicates that such information is optional.</p> 
 
-<p>Customers can review and update personal account information at any time. PII can be reviewed and edited online as discussed below under “Updating Personally Identifiable Information.” 511 users can close their MY 511 or Ridematch account at any time on line. In such case, all MY 511 account information will be deleted no more than seven years after the customer closes his/her account. All Rideshare account information will be deleted no later than seven years after the date a 511 registered user removes him/herself from the system, or is automatically (based on inactivity) or manually (at the registered user’s request or other reason) removed from the system.</p> 
+<p>Customers can review and update personal account information at any time. PII can be reviewed and edited online as discussed below under “Updating Personally Identifiable Information.”  511 users can close their MY 511 or Ridematch account at any time on line.  In such case, all MY 511 account information will be deleted no more than seven years after the customer closes his/her account. All Rideshare account information will be deleted no later than seven years after the date a 511 registered user removes him/herself from the system, or is automatically (based on inactivity) or manually (at the registered user’s request or other reason) removed from the system.</p> 
 
 <p><strong><u><strong>Uses of FasTrak<sup>®</sup> Toll Tag Data</strong></u></strong><br><br>
 
-The Metropolitan Transportation Commission (MTC) / 511.org operates a traffic data collection system based on FasTrak<sup>®</sup> toll tags to provide better information about the transportation network to Bay Area travelers, transportation managers, and transportation planners through the 511 Driving Times<sup>SM</sup>  service. Encryption software is used to mask each toll tag identification number to ensure that toll tag information is treated anonymously in the traffic data collection process. Only after encryption are the tag IDs stored. The encrypted tag IDs will be retained for no longer than twenty-four hours and then discarded.  No historical database of the encrypted IDs will be maintained beyond that time period. No FasTrak<sup>®</sup> customer PII is shared by MTC, or its third-party contractors, with MTC for 511 Driving Times<sup>SM</sup>.  Further, a customer has the option not to have his or her transponder read by the data collection system by placing the transponder in the mylar bag provided with the transponder. For more information on the 511 Driving Times<sup>SM</sup> service, please refer to <a href="http://www.511.org" title="511">www.511.org</a>.</p>
+The Metropolitan Transportation Commission (MTC) / 511.org operates a traffic data collection system based on FasTrak<sup>®</sup> toll tags to provide better information about the transportation network to Bay Area travelers, transportation managers, and transportation planners through the 511 Driving Times<sup>SM</sup>  service.  Encryption software is used to mask each toll tag identification number to ensure that toll tag information is treated anonymously in the traffic data collection process.  Only after encryption are the tag IDs stored.  The encrypted tag IDs will be retained for no longer than twenty-four hours and then discarded.  No historical database of the encrypted IDs will be maintained beyond that time period. No FasTrak<sup>®</sup> customer PII is shared by MTC, or its third-party contractors, with MTC for 511 Driving Times<sup>SM</sup>.  Further, a customer has the option not to have his or her transponder read by the data collection system by placing the transponder in the mylar bag provided with the transponder.  For more information on the 511 Driving Times<sup>SM</sup>  service, please refer to <a href="http://www.511.org" title="511">www.511.org</a>.</p>
 
 <p><strong><u><strong>Aggregate Data</strong></u></strong><br><br>
 
@@ -495,9 +514,13 @@ MTC may also combine the PII provided by 511 users in a non-identifiable format 
 
 The 511 websites <a href="http://www.511.org" title="511">(www.511.org)</a> store “cookies” (small data elements) on users’ computers. The 511 website uses cookies to facilitate customer website use (e.g. remember login names and passwords until the session ends). The 511 website does not require users to enable cookies in order to use the 511 website, nor does it store “third party” cookies on users’ computers.</p>
 
-<p>511 website users should review the privacy policies of websites they may visit or link to from 511.org to understand how these external sites utilize cookies and how the information is collected by these cookies.</p> 
+<p>511 website users should review the privacy policies of websites they may visit or link to from <a href="http://www.511.org" title="511">www.511.org</a> to understand how these external sites utilize cookies and how the information is collected by these cookies. </p> 
 
 <p>MTC does not knowingly engage in business with any company or vendor that uses Spyware or Malware. MTC does not market detailed information collected from web sessions that can be directly tied to personal information. Further, MTC does not provide 511 users with downloadable software that collects or utilizes any PII.</p>
+
+<p><strong><u><strong>511 Transit App</strong></u></strong><br><br>
+
+The 511 Transit App was developed by Mentz Datenverarbeitung GmbH (“Mentz”), a subcontractor to SAIC.  When a 511 user downloads or accesses the 511 Transit App, the user may enable his or her Global Positioning System location information (“location information”) to be used by the 511 Transit App, which will allow the user’s location to be automatically registered when he or she requests transit information.  This feature can be disabled or enabled on the user’s mobile device.   Neither MTC, Mentz, nor the 511 Contractors collect location information about the user.   However, location information may be collected by the mobile device’s platform provider and/or the user’s data carrier.  Before a 511 user downloads or accesses the 511 Transit App, he or she should review the terms of use and privacy policy of the user’s platform provider and data carrier to determine how they collect, use, and/or retain location information, or any other PII.  MTC is not responsible for the terms of use or privacy policies of the platform providers or data carriers, or the use of PII, including location information, by such entities.</p>
 
 <p><strong><u><strong>Externally-Linked Websites</strong></u></strong><br><br>
 
@@ -509,9 +532,9 @@ The 511 website contains links to third-party websites operated by entities that
 
 PII can be reviewed and edited online. The 511 website uses functions that have the ability to collect and store self-reported data. These functions enable 511 users to revise, update or review previously submitted information by going back to the applicable function, logging-in and making the desired changes.</p>    
 
-<p>Complaints or problems regarding updating personal information should be submitted via the Comment Form. The 511 Contractors will either resolve the issue or forward the complaint to an appropriate MTC staff member for response or resolution. MTC strives to answer all queries within five business days, but it may not always be feasible to do so.</p> 
+<p>Complaints or problems regarding updating personal information should be submitted via the Comment Form.  The 511 Contractors will either resolve the issue or forward the complaint to an appropriate MTC staff member for response or resolution. MTC strives to answer all queries within five business days, but it may not always be feasible to do so.</p> 
 
-<p>If an adequate resolution is not received, please contact MTC’s Privacy Officer at:</p> 
+<p>If an adequate resolution is not received, please contact MTC's Privacy Officer at:</p> 
 
 <p>
 Metropolitan Transportation Commission<br>
@@ -531,21 +554,23 @@ Material Changes – If MTC makes material changes to the 511 Privacy Policy, MT
 
 <p>MTC reserves the right to modify this Privacy Policy at any time, so the policy needs to be reviewed frequently by 511 users.</p> 
 
-<p>When MTC revises the Privacy Policy, the “last updated” date at the top of the Privacy Policy will reflect the date of the last change. We encourage 511 users to review this Privacy Policy periodically to stay informed about how MTC protects the security of PII collected for the 511 Program. Continued use of the 511 Program constitutes the customer’s agreement to this Privacy Policy and any updates.</p> 
+<p>When MTC revises the Privacy Policy, the "last updated" date at the top of the Privacy Policy will reflect the date of the last change. We encourage 511 users to review this Privacy Policy periodically to stay informed about how MTC protects the security of PII collected for the 511 Program. Continued use of the 511 Program constitutes the customer’s agreement to this Privacy Policy and any updates.</p> 
                            
 <p><strong><u><strong>E-mails Sent to MTC</strong></u></strong><br><br>                                
                            
-This Privacy Policy does not apply to the content of e-mails transmitted directly to MTC. Please do not send PII in an email directly to MTC, if you want to keep content or data private.</p>                               
+This Privacy Policy does not apply to the content of e-mails transmitted directly to MTC.  Please do not send PII in an email directly to MTC, if you want to keep content or data private.</p>                               
 
 <p><strong><u><strong>Contact Information</strong></u></strong><br><br>
                               
-MTC welcomes your comments on the 511 Privacy Policy. For questions about this statement, please contact the MTC Privacy Officer at the address, e-mail or phone number listed above.</p>                               
+MTC welcomes your comments on the 511 Privacy Policy.  For questions about this statement, please contact the MTC Privacy Officer at the address, e-mail or phone number listed above.</p>                               
                                 
 <p><strong><u><strong>History of Changes to Privacy Policy</strong></u></strong><br><br>                             
                                 
 November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
 
-<p>November 16, 2011&nbsp;&nbsp;&nbsp;&nbsp;Revisions to Privacy Policy</p>                              
+<p>November 16, 2011&nbsp;&nbsp;&nbsp;&nbsp;Revisions to Privacy Policy</p>  
+
+<p>June 7, 2012&nbsp;&nbsp;&nbsp;&nbsp;Revisions to address 511 Transit App</p>                            
                                 
                           <!-- END left -->
                                   <!--<div class="right">
@@ -589,7 +614,7 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
     
     <div class="clear"></div>
     
-    <div id="footer">
+    <div id="footer" class="parking parking-01">
     
       <div class="footer-menu width-220 border-none">
         <p>In This Section</p>
@@ -599,16 +624,20 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
               <li class="right-align"><a href="/default.asp">511 Home</a></li>
               <li class="right-align"><a href="/get-around.asp">Get Around</a></li>
               <li class="right-align"><a href="/go-green.asp">Go Green</a></li>
-
             </ul>
           </div><!-- END left -->
           <div class="right">
             <ul>
               <li class="left-align"><a href="/call-511.asp">Call 511</a></li>
-              <li class="left-align"><a href="/about-511.asp">About 511</a></li>
+              <li class="left-align"><a href="http://511.org/about-511.asp">About 511</a></li>
               <li class="left-align"><a href="/about-511-suggestions.asp">Suggestions</a></li>
             </ul>
           </div><!-- END right -->
+          <div class="left-n-right">
+          	<ul>
+            	<li><a href="http://enhancedtripplanner.transit.511.org/transitmmtp/tripplanner/index.aspx">Enhanced Trip Planner</a></li>
+            </ul>
+          </div><!-- END left-n-right -->
         </div><!-- END center-menu -->
       </div><!-- END footer-menu -->
       
@@ -617,9 +646,10 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
         <div class="center-menu">
           <div class="left">
             <ul>
-              <li class="right-align"><a href="/default.asp">Bay Area 511</a></li>
+              <li class="right-align"><a href="/default.asp">511 SF Bay</a></li>
               <li class="right-align"><a href="http://tripplanner.transit.511.org/mtc/XSLT_TRIP_REQUEST2?language=en">Transit</a></li>
               <li class="right-align"><a href="http://traffic.511.org/default.asp?refresh=5">Traffic</a></li>
+              <li class="left-align"><a href="/apps.asp">Mobile &amp; Apps</a></li>
             </ul>
           </div><!-- END left -->
           <div class="right">
@@ -627,6 +657,7 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
               <li class="left-align"><a href="http://www.my511.org/">MY 511</a></li>
               <li class="left-align"><a href="http://rideshare.511.org/">Rideshare</a></li>
               <li class="left-align"><a href="http://bicycling.511.org/">Bicycling</a></li>
+              <li class="right-align"><a href="http://trafficbeta.511.org/Parking/Index">Parking</a></li>
             </ul>
           </div><!-- END right -->
         </div><!-- END center-menu -->
@@ -637,18 +668,18 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
         <div class="center-menu">
           <div class="left">
             <ul>
-              <li class="right-align"><a href="http://traffic.511.org/traffic_map.asp">Traffic Map</a></li>
-              <li class="right-align"><a href="http://traffic.511.org/traffic_text.asp">Driving Times</a></li>
+              <li class="right-align"><a href="http://traffic.511.org/default.asp?refresh=5">Traffic &amp; Driving Times</a></li>
+              <li class="right-align"><a href="http://trafficbeta.511.org/Parking/Index">Parking</a></li>
               <li class="right-align"><a href="https://www.ridematch.511.org/">RideMatch Service</a></li>
-              <li class="right-align"><a href="/call-511-faq.asp">511 Phone Help</a></li>
+              <li class="right-align"><a href="http://mtcgis.mtc.ca.gov/btp/Default.aspx">BikeMapper</a></li>
             </ul>
           </div><!-- END left -->
           <div class="right">
             <ul>
+              <li class="left-align"><a href="http://enhancedtripplanner.transit.511.org/transitmmtp/tripplanner/index.aspx">Enhanced Trip Planner</a></li>
               <li class="left-align"><a href="http://tripplanner.transit.511.org/mtc/XSLT_TRIP_REQUEST2?language=en&amp;itdLPxx_homepage=secondStep">Transit Trip Planner</a></li>
               <li class="left-align"><a href="http://transit.511.org/schedules/index.aspx#m1=S&amp;m2=bus">Routes &amp; Schedules</a></li>
               <li class="left-align"><a href="http://transit.511.org/511departuretimes.aspx">Departure Times</a></li>
-              <li class="left-align"><a href="http://bicycling.511.org/bikemapper.htm">BikeMapper</a></li>
             </ul>
           </div><!-- END right -->
         </div><!-- END center-menu -->
@@ -669,7 +700,7 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
           <div class="left">
             <ul>
               <li class="right-align"><a href="/511brandtoolbox/main.asp">Brand Toolbox</a></li>
-              <li class="right-align"><a href="/about-MTC.asp">About MTC</a></li>
+              <li class="right-align"><a href="http://511.org/about-511.asp">About 511</a></li>
               <li class="left-align"><a href="/terms.asp">Terms of Use</a></li>
               <li class="left-align"><a href="/privacy.asp">Privacy Policy</a></li>
             </ul>
@@ -679,7 +710,7 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
               
               
               <li class="left-align"><a href="/accessibility.asp">Accessibility</a></li>
-              <li class="left-align"><a href="/apps.asp">Mobile &amp; Apps</a></li>
+              <li class="left-align"><a href="http://511.org/call-511-faq.asp">511 Phone Help</a></li>
               <li class="left-align"><a href="/developer-resources.asp">Dev Resources</a></li>
               <div style="margin-top: 3px;"></div>
               <li class="left-align"><a href="http://www.facebook.com/511SFBay" target="_blank"><img src="/img/global/facebook16x16.gif" alt="facebook.com/511sfbay" title="facebook.com/511sfbay" border="0"></a>&nbsp;&nbsp;<a href="http://twitter.com/511SFBay" target="_blank"><img src="/img/global/twitter16x16.gif" alt="twitter.com/511sfbay" title="twitter.com/511sfbay" border="0"></a></li>
@@ -693,7 +724,7 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
     </div><!-- END mainContent -->
     
     <div id="copy-subfooter">
-      <p><a href="http://www.mtc.ca.gov/" target="_blank">©2011 Metropolitan Transportation Commission</a></p>
+      <p><a href="http://www.mtc.ca.gov/" target="_blank">©2012 Metropolitan Transportation Commission</a></p>
     </div>
 
 </div><!-- END container -->
