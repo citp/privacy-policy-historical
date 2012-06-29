@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisisfakediy.co.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602064101id_/http%3A//www.thisisfakediy.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisfakediy.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629222917id_/http%3A//www.thisisfakediy.co.uk/terms) for the most accurate reproduction.*
 
-# Privacy Policy | DIY
+# Terms & Conditions / Privacy Policy | DIY
 
 **We are committed to protecting your privacy.**  
 We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
@@ -19,8 +19,10 @@ We do not disclose any personal information obtained about you from this website
 
 We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
 
+In addition DIY may work with third parties for the purpose of delivering targeted behavioural advertising to the DIY websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you. For more information on online behavioural advertising and about how to turn this feature off, please visit http://www.youronlinechoices.com/opt-out.
+
 **Changes to this Policy**  
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
 **Contacting Us**  
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [editor@thisisfakediy.co.uk](mailto:editor@thisisfakediy.co.uk). You can also correct any factual errors in that information or require us to remove your details form any list under our control. 
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [editor@thisisfakediy.co.uk](mailto:editor@thisisfakediy.co.uk). You can also correct any factual errors in that information or require us to remove your details form any list under our control.
