@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogyarchives.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229135819id_/http%3A//www.archives.com/%3F_act%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogyarchives.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629174542id_/http%3A//www.archives.com/%3F_act%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Archives
 
@@ -45,7 +45,7 @@ We do not rent, sell, or share personal information about you with other people 
   * You can edit your Account Information within our members' area by clicking "My Account" and then "Make Changes".
   * To exclude yourself from commercial emails and alerts sent by us, simply click the "Unsubscribe" link provided in any commercial email message.
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them.
-  * We make opting-out of our living people search database easy and free. Just visit the [Opt-Out Request](https://web.archive.org/web/20111229135819id_/http%3A//www.archives.com/GA.aspx?_act=Optout "Opt-Out Request") page and submit the requested information. Please allow 1 to 7 business days for processing your request.
+  * Archives.com allows you to suppress your personal information from living person search results displayed on this website. To do this, please submit the [opt-out request form](https://web.archive.org/web/20120629174542id_/http%3A//www.archives.com/GA.aspx?_act=Optout "Opt-Out Request"). Your request will be processed in 1 to 7 business days.
 
 
 
@@ -69,7 +69,11 @@ We may update this policy. We will notify you about significant changes in the w
 
 **How You Can Contact Us about Privacy Questions**
 
-If you have questions or concerns regarding this policy, you should contact us at privacy@archives.com or by writing to us at Archives.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. Archives.com maintains offices in Redwood Shores, CA.
+If you have questions or concerns regarding this policy, you can contact us by emailing privacy@archives.com, calling 1-888-896-4442 or writing to us at Archives.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. Archives.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065.
+
+**To Unsubscribe from Email Communications**
+
+If you would like to stop receiving newsletters and marketing message emails from Archives.com, please provide us with the email address you would like to unsubscribe by emailing privacy@archives.com or calling 1-888-896-4442. Please note that you may still receive account and billing notices from us, if applicable.
 
 Find your ancestors, discover new connections, and trace your family tree as far back as possible with Archives!  
 Click the button below to try it for free!
