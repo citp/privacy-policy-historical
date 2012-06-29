@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the dressbazar.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313102717id_/http%3A//www.dressbazar.com/pages/view/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressbazar.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629090511id_/http%3A//www.dressbazar.com/pages/view/privacy-policy.html) for the most accurate reproduction.*
 
-# Dress Bazar :: privacy-policy
+# Privacy Policy :: Dress Bazar
 
-## privacy policy
+## 
 
-This is the Privacy Policy governing your use of the Dressbazar.com Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Dressbazar.com which by use of this Site you agree to accept. 
+privacy policy
+
+[](http://www.addthis.com/bookmark.php?v=250&pubid=dressbazar)
+
+This is the Privacy Policy which will govern the customer use of the Dressbazar.com Site. By using this Site, the customer consent to the company’s Privacy Policy has been set out below. All terms, not defined in this document, have the meanings ascribed to them in the Terms of Use Agreement between the customer and Dressbazar.com which by use of this Site you agree to accept. 
 
 ### The Information We Collect
 
@@ -12,11 +16,11 @@ This is the Privacy Policy governing your use of the Dressbazar.com Site. By usi
 
 **Publishing Information:** If you submit any information to Dressbazar.com to be published on the Site through the publishing tools, including but not limited to Company Profile, Product Catalog, Trade Leads, Profile and any discussion forum, then you are deemed to have given consent to the publication of such information ("Publishing Information"). 
 
-Payment Information: If you establish a credit account with us or our providers or if you purchase a product or service from Dressbazar.com or a vendor available through Dressbazar.com, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders ("Payment Information"). 
+**Payment Information:** If you establish a credit account with us or our providers or if you purchase a product or service from Dressbazar.com or a vendor available through Dressbazar.com, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders ("Payment Information"). 
 
-Statistical Information: In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions, unique visitors and so forth ("Statistical Information"). 
+**Statistical Information:** In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, and number of sessions, unique visitors and so forth ("Statistical Information"). 
 
-Registration Information: Publishing Information, Payment Information, Statistical Information and any information we may collect from you through the use of cookies (see Section 5 below), or any other means, shall collectively be referred to as "Collected Information". 
+**Registration Information:** Publishing Information, Payment Information, Statistical Information and any information we may collect from you through the use of cookies (see Section 5 below), or any other means, shall collectively be referred to as "Collected Information". 
 
 ### How We Use Your Information
 
@@ -40,7 +44,7 @@ If we have reason to believe that a User is in breach of the Terms of User Agree
 
 ### Relations with Co-Brands
 
-We have established relationships with other parties to offer you the benefit of other products and services which we ourselves do not offer. We offer you access to these other parties either through the use of hyperlinks to their sites from our Site, or through offering "co-branded" sites in which both ourselves and these other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit information for purposes of registering or applying for products or services provided by such third parties or co-branded partners. The privacy policy of such other parties may differ from ours, and we may not have any control over the information that you submit to such third parties or co-branded sites. We therefore encourage you to read that policy before responding to any offers, products or services provided by such other parties. 
+We have established relationships with other parties to offer you the benefit of other products and services which we ourselves do not offer. We offer you access to these other parties either through the use of hyperlinks to their sites from our Site, or through offering "co-branded" sites in which both ourselves and these other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit information for purposes of registering or applying for products or services provided by such third parties or co-branded partners. The privacy policy of such other parties may differ from ours, and we may not have any control over the information that you submit to such third parties or co-branded sites. We therefore encourage you to read that policy before responding to any offers, products or services provided by such other parties.
 
 ### Cookies
 
@@ -54,9 +58,7 @@ The Site and its contents are not intended to be targeted to minors under applic
 
 ### Safety Measures
 
-We employ commercially reasonable security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information. 
-
-As a Registered User, your Registration Information, Publishing Information and Payment Information (if any) can be viewed and edited through your Account which is protected by Password. We recommend that you do not divulge your Password to anyone. Our personnel will never ask you for your Password in an unsolicited phone call or in an unsolicited e-mail. If you share a computer with others, you should not choose to save your log-in information (e.g., User ID and Password) on the computer. Remember to sign out of your Account and close your browser window when you have finished your session. 
+We employ commercially reasonable security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information. As a Registered User, your Registration Information, Publishing Information and Payment Information (if any) can be viewed and edited through your Account which is protected by Password. We recommend that you do not divulge your Password to anyone. Our personnel will never ask you for your Password in an unsolicited phone call or in an unsolicited e-mail. If you share a computer with others, you should not choose to save your log-in information (e.g., User ID and Password) on the computer. Remember to sign out of your Account and close your browser window when you have finished your session. 
 
 No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. As a result, while we try to protect your information, no web site or company, including ourselves, can absolutely ensure or guarantee the security of any information you transmit to us and you do so at your own risk. 
 
