@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206114258id_/http%3A//www.pace.com/Universal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629201027id_/http%3A//www.pace.com/Universal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pace
 
@@ -50,19 +50,159 @@ If you submit a third party's details to us for any reason, for example, if you 
 
 To obtain a copy of the personal information we hold about you, please write to the Company Secretary at Pace plc, Victoria Road, Saltaire, BD18 3LF, enclosing a cheque or postal order for £10 made payable to Pace plc to cover our administration costs. As soon as we are satisfied as to your identity we will send you, within 40 days of receipt of your written request and the fee, a copy of all the personal information we hold about you which we are legally required to disclose to you.
 
-**Use of Cookies and Email Tracking**
+**Use of Cookies  
+**
 
-From time to time, we may use cookies on our Website. Cookies are small pieces of information sent by a web server (such as that used to run the Website) to an individual's computer, which are then stored on that computer's hard drive.
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-Cookies may be used to identify when a user of your computer visits the Website and to keep track of your browsing patterns. We might also use a "temporary cookie" each time you log on. This enables us to show you personalised views of information on the Website and also means that if at any time, we require you to have a password to be able to enter any particular parts of the Website, you won't have to re-enter your password every time. This temporary cookie is erased completely as soon as you close down your browser.
+The table below explains the cookies we use and why.
 
-From time to time, we might also use cookies if you receive marketing emails from us, so that we can track when you have opened the emails and which links contained in the emails you choose to use.
+**Cookie** | **Name** | **Purpose** | **More Information**  
+---|---|---|---  
+  
+Essential site cookie
 
-Our cookies are restricted for use only on the Website and may be used to assist us for the purposes set out in this Privacy Policy. Most browsers allow you to prevent cookies being stored on your computer. If you want to know how to do this, please look at the help menu on your browser. Please note that doing so may restrict your ability to use some of the functions on the Website.
+| 
+
+ASP.NET_SessionId  
+(First party cookie)
+
+| 
+
+To remember your selections or preferences that you’ve already made during your current visit to the Pace site.
+
+| 
+
+Set upon your arrival to the Pace site.
+
+Expires when you exit your browser.
+
+Stores a randomly generated twenty character string that uniquely identifies your browser session, for the duration of your current visit to the Pace site.
+
+For further information see [How and why session IDs are reused in ASP.NET](http://support.microsoft.com/kb/899918)  
+  
+Essential site cookie
+
+| 
+
+RegionCookie  
+(First party cookie)
+
+| 
+
+To remember your region preference made during your first visit to the Pace site.
+
+| 
+
+Set upon your first arrival to the Pace site.
+
+Expires never.
+
+Stores either ‘global’ or ‘americas’ that identifies your region preference to the Pace site.
+
+Your region preference is set by either: 
+
+1\. Automatically using your browsers IP address block to associate a region.   
+2\. Requesting you to select a region.  
+  
+Google Analytics
+
+| 
+
+_utma  
+_utmb  
+_utmc  
+_utmz  
+(First party cookies)
+
+| 
+
+To collect information about how visitors use the Pace site.
+
+We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+| 
+
+Set upon your first arrival to the Pace site.
+
+_utma expires after two years  
+_utmb expires after thirty minutes  
+_utmc expires when you exit the browser  
+_utmz expires after six month
+
+Stores a randomly generated number that uniquely identifies your browser session, for the duration of your visit to the Pace site and for each of your visits to the Pace site.
+
+For further information see [Google Analytics Overview and Privacy Policy](http://www.google.co.uk/intl/en/analytics/privacyoverview.html).  
+  
+AddThis
+
+| 
+
+di   
+dt   
+loc   
+psc   
+ssh   
+sshs   
+uid   
+uit   
+(Third party cookies for domain .addthis.com)
+
+| 
+
+To integrate the Pace site with third party social media sites.
+
+AddThis gives end users a simple and easy way to share content across the social web, and provides publishers with increased web traffic and in-depth analytics.
+
+| 
+
+Set upon your first arrival to any Pace site page that has the “Bookmark & Share” feature.
+
+di expires after two years   
+dt expires after one month   
+loc expires after three months   
+psc expires after two years  
+ssh expires after two years  
+sshs expires after two years  
+uid expires after two years  
+uit expires after one day
+
+For further information see [AddThis Privacy & Data Practices](http://www.addthis.com/privacy).
+
+Selecting one of the “Bookmark & Share” links will open a page to a social media site that may use additional cookies.  
+  
+Hemscott IR
+
+| 
+
+JSESSIONID   
+_utma   
+_utmb   
+_utmc   
+_utmz   
+(Third party cookies for domain .hemscottir.com)
+
+| 
+
+To display up to date Pace share price information for the “Investors” area of the Pace site.
+
+| 
+
+Set upon your first arrival to the Pace site page “Investors > Share Price”.
+
+JSESSIONID expires when you exit the browser.   
+_utma expires after two years  
+_utmb expires after thirty minutes  
+_utmc expires when you exit the browser  
+_utmz expires after six months  
+  
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
 **What about third party websites that you can access via our Website**
 
-The Website contains links to our other Pace website at [www.pace.com/Americas](http://www.pace.com/americas).The information which is provided to us using those websites is also covered by this Privacy Policy.
+The Website contains links to our other Pace website at [www.pace.com/americas](http://www.pace.com/americas).The information which is provided to us using those websites is also covered by this Privacy Policy.
 
 However, our Website also contains links to third party websites which are outside our control and which are not covered by this Privacy Policy. Links to those websites are provided for your convenience only. If you access other websites using the links provided, the operators of those websites may collect personal information from you, which may be used in accordance with any privacy policies which they may provide. We recommend that you read any such privacy policies on third party websites. We are not liable for the practices of such third party website operators in respect of your personal information and any information which you submit shall be a matter solely for you to determine.  
 
