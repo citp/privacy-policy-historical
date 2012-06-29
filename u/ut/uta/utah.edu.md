@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225101237id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629163633id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Utah
 
@@ -64,7 +64,7 @@ Here's how to review or change your personal profile information (address, home 
 
 ### Health Information Privacy
 
-The University, and those who work, teach, and learn here, value the privacy of the health information you provide us. The [Health Sciences Center HIPAA Privacy Office](http://www.compliance.utah.edu/privacy/patients/en/index.html) website explains how we handle the personal information that you share with us as a patient, health/benefits plan member, or participant in a research study. The website also provides information explaining the rights you have regarding that information and how to exercise those rights. We provide the notices to make you aware of these practices and to comply with the law, including the Health Insurance Portability and Accountability Act (HIPAA) of 1996.
+The University, and those who work, teach, and learn here, value the privacy of the health information you provide us. The [Information Security and Privacy Office](http://privacy.utah.edu/) website explains how we handle the personal information that you share with us as a patient, health/benefits plan member, or participant in a research study. The website also provides information explaining the rights you have regarding that information and how to exercise those rights. We provide the notices to make you aware of these practices and to comply with the law, including the Health Insurance Portability and Accountability Act (HIPAA) of 1996.
 
 University policies are subject to change. We encourage you to check back for updates from time to time. If you have additional questions about this privacy statement, we invite you to contact:
 
