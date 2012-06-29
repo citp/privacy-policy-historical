@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211010824id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629150746id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
 
 # vayama | privacy
 
@@ -6,7 +6,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to your p
 
 AirTrade International, Inc. is a licensee of the **TRUSTe** Privacy Program. **TRUSTe** is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vayama.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by **TRUSTe**.
 
-If you have questions or concerns regarding this statement, you should first contact Kimberly Pointer at [privacy@vayama.com.](mailto:privacy@vayama.com) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Vayama at [privacy@vayama.com.](mailto:privacy@vayama.com) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
 
 ## What kind of information we collect from you:
 
@@ -28,6 +28,8 @@ One of our goals in collecting this information is to help customize your user e
 ### Web Beacons
 
 We and our third-party tracking service partners employ a software technology called Web beacons that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+
+If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We may also use Web beacon in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out." 
 
