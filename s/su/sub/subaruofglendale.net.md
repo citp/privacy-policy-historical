@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subaruofglendale.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215171825id_/http%3A//www.subaruofglendale.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaruofglendale.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629120404id_/http%3A//www.subaruofglendale.net/privacy.htm) for the most accurate reproduction.*
 
-# Dealer Content
+# Subaru of Glendale | Vehicles for sale in Glendale, CA 91204
 
 Our dealership takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our sites, we have developed a privacy statement to help you understand the terms and conditions surrounding the collection and use of that information. This statement discloses the types of information we gather, how it is used, and how you can gain access to and edit any data that we've collected about you at any time.
 
@@ -12,7 +12,7 @@ Our dealership maintains a strict "no-spam" policy. Subscribers to our e-mail se
 
 ##### Non-Personally Identifiable Data:
 
-Anytime you visit our Web site, we may gather certain non-personally identifiable information regarding the means you use to access our site. This information may include the type and version of your browser, your service provider, your IP address and any search engine you may have used to locate the site. We use this information to help diagnose problems with our server, administer the Web site, and compile broad statistical data. In addition, we gather certain navigational information about where you go on our Web sites. This information enables us to determine which areas of the Web sites are most frequently visited and helps us to tailor the sites to the needs and interests of our online visitors. Such information is gathered by us in the aggregate and will not be associated with a specific individual without that individual's consent.
+Anytime you visit our Web site, we may gather certain non-personally identifiable information regarding the means you use to access our site. This information may include the type and version of your browser, your service provider, your IP address and any search engine you may have used to locate the site. We use this information to help diagnose problems with our server, administer the Web site, and compile broad statistical data. In addition, we gather certain navigational information about  the site you visited just before coming to our Web site, where you go on our site, and where you go after leaving our Web site. This information enables us to determine which areas of the Web sites are most frequently visited and helps us to tailor the sites to the needs and interests of our online visitors. Such information is gathered by us in the aggregate and will not be associated with a specific individual without that individual's consent.
 
 ##### Information Voluntarily Provided:
 
