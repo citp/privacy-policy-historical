@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogproblems.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014816id_/http%3A//www.dogproblems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogproblems.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629081107id_/http%3A//www.dogproblems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,4 +37,4 @@ If you’re using DoubleClick’s remarketing pixels, your privacy policy may in
 
 Because advertiser sites and laws across countries/territories vary, we’re unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative (NAI) for guidance on drafting a privacy policy.
 
-If you have questions regarding our privacy policy, feel free to [contact us](http://access.dogproblems.com/public/department6.cfm "contact us").
+If you have questions regarding our privacy policy, feel free to contact us.
