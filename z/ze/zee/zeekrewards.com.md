@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeekrewards.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231124902id_/http%3A//zeekrewards.com/privacy.asp%3Fusername%3DMaster) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeekrewards.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630005333id_/http%3A//www.zeekrewards.com/privacy.asp%3Fusername%3DMaster) for the most accurate reproduction.*
 
 # NewNetMail - Privacy Policy
 
