@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2011-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110815203045id_/http%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629035907id_/http%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
 
 # International Development
 
