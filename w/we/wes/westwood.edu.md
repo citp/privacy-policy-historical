@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229055912id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630012133id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
 
 # Westwood College Privacy Policy
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.westwood.edu/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en//seal_m "Validate TRUSTe privacy certification")
 
 ### General
 
@@ -14,22 +14,22 @@ Alta Colleges (Westwood) has been awarded TRUSTe’s Privacy Seal signifying tha
 
 Alta Colleges will collect personally identifiable information about you such as your name, address, telephone number, or email address. We will collect additional information such as your social security number, date of birth, ethnicity and emergency contact information when you register for our online admission center. We collect information that you provide to us for the following uses, unless otherwise stated:
 
-  * We will use it to contact you and respond to your request for information.
-  * We may store and process the information to better understand your needs and how we can improve our web site and services.
-  * We will use this information to create an account for you when you register with our online admission center.
-  * To provide you access to your online account so that you may register for classes, update information, or receive information that you have requested.
-  * To send you email notifications as they pertain to your account, site updates, and upcoming events.
-  * To allow you to apply for a job
+  * We will use it to contact you and respond to your request for information. 
+  * We may store and process the information to better understand your needs and how we can improve our web site and services. 
+  * We will use this information to create an account for you when you register with our online admission center. 
+  * To provide you access to your online account so that you may register for classes, update information, or receive information that you have requested. 
+  * To send you email notifications as they pertain to your account, site updates, and upcoming events. 
+  * To allow you to apply for a job 
 
 
 
 Additionally:
 
-  * We will not sell, share, rent, or trade your individual information with third parties other than as disclosed within this privacy policy.
-  * We will maintain the confidentiality of your personal information and it will only be used to support your relationship with Alta Colleges.
-  * We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-  * We may disclose your personal information if Alta Colleges is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-  * We may provide your personal information to companies that provide services to help us with our business activities such as sending out email communications on our behalf or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+  * We will not sell, share, rent, or trade your individual information with third parties other than as disclosed within this privacy policy. 
+  * We will maintain the confidentiality of your personal information and it will only be used to support your relationship with Alta Colleges. 
+  * We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+  * We may disclose your personal information if Alta Colleges is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+  * We may provide your personal information to companies that provide services to help us with our business activities such as sending out email communications on our behalf or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
 
 
@@ -59,14 +59,16 @@ When using our job application page(s), these pages are hosted by our third part
 
 In addition to the information you provide to us when you request information, we may automatically collect information about you that is not personally identifiable. Examples of this type of information include:
 
-  * Your Internet browser.
-  * Your computer's operating system.
-  * Your navigation path, including the domain name of the website that linked you to our site and which of our pages you visited.
-  * When you view one of our web sites, we may store cookies on your computer. These cookies allow us to tailor a web site or advertisement to better match your interests and preferences. With most Internet browsers you can block cookies, receive a warning about cookies, or erase all cookies from your hard drive. Please refer to your browser instructions or Help screen to learn more about these functions. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-  * The use of cookies by our tracking utility company is not covered by our privacy policy. We do not have access or control over these cookies.
-  * Our third party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+  * Your Internet browser. 
+  * Your computer's operating system. 
+  * Your navigation path, including the domain name of the website that linked you to our site and which of our pages you visited. 
+  * When you view one of our web sites, we may store cookies on your computer. These cookies allow us to tailor a web site or advertisement to better match your interests and preferences. With most Internet browsers you can block cookies, receive a warning about cookies, or erase all cookies from your hard drive. Please refer to your browser instructions or Help screen to learn more about these functions. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+  * The use of cookies by our tracking utility company is not covered by our privacy policy. We do not have access or control over these cookies. 
+  * Our third party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
   * Targeted or Behavioral Advertising:  
 Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which Alta College advertisement should be displayed to a particular individual on websites other than an Alta Colleges site. For example, if you have shown a preference for nursing while visiting Alta Colleges.com, you may be served an advertisement from Alta Colleges.com for nursing related programs when you visit a site other than Alta Colleges.com. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from an Alta Colleges site or through third party website publishers. If you would like to opt out of targeted advertising from Alta Colleges that occurs when visiting our third party advertising publishers, please [click here](http://preferences.truste.com/truste/ "TRUSTe opt-out"). Please note that this will opt you out of targeted ads from Alta Colleges and any other participating advertisers. If you opt out, you will continue to receive online advertising from Alta Colleges; however, these ads may not be as relevant to you.
+  * Web Analytics Tools:   
+Our web sites use Google Analytics and Yahoo! Web Analytics to analyze web site use and activity. These tools use web-beacons and cookies to capture data about visitors to the web site. Your web browser sends this data to Google and/or Yahoo! as part of your interaction with the web site. The data typically includes the time spent viewing the website and any links or images on these pages that are clicked on. The cookies used by Google and/or Yahoo! contain no personal details such as your name, age or telephone number. Google and/or Yahoo! may also transfer this information to third parties where required to do so by law. If you prefer not to have these web site analytics tools collect data about your web site visit, you may: (1) Install the [Google Analytics Opt-out Add-on](http://tools.google.com/dlpage/gaoptout) in your browser, which prevents Google Analytics from collecting information about your visits to our web sites; and (2) [Follow this link](https://reports.web.analytics.yahoo.com/optout,OptOut.vm) to opt out of data collection by Yahoo! Web Analytics.
 
 
 
@@ -99,4 +101,4 @@ Denver, CO 80237
 
 [information@westwood.edu](mailto:information@westwood.edu)
 
-Effective: 5/12/2011
+Effective: 2/6/2012
