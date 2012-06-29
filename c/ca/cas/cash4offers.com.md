@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226181058id_/http%3A//www.cash4offers.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629121946id_/http%3A//www.cash4offers.com/pages/privacy) for the most accurate reproduction.*
 
 # Cash4Offers® - Make Money Online for Reading Paid Email, Taking Surveys and More!
 
