@@ -1,534 +1,1085 @@
-<!--The following is the downloaded HTML source of the marks.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101152310id_/http%3A//www2.marks.com/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marks.com privacy policy that was archived on 2012-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629091317id_/http%3A//www2.marks.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-	    <title>Mark's Work Wearhouse :: Clothes that don't compromise on performance or fashion.</title>
+		
+	    <title>Mark's - Smart Clothes, Everyday Living</title>
 	    
-	    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1">
-	    <meta name="description" content="Clothes that don't compromise on function or fashion.  Always 100% guaranteed to perform better.">
-	    <meta name="googlebot" content="NOODP">
+	    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
+	    <meta name="description" content="">
+	    <meta name="keywords" content="">
+	    <meta name="robots" content="index, follow">
 	    
-	    <link rel="shortcut icon" href="/favicon.ico">
-		<link rel="icon" type="image/gif" href="/favicon1.gif">
-	    
-	    <link rel="stylesheet" type="text/css" href="/css/main.css?19201113558" media="all">
-	    <link rel="stylesheet" type="text/css" href="/css/legacy-styles.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/css/ui-lightness/jquery-ui-1.7.2.custom.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/css/jquery.fancybox.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/css/jquery-tooltip/jquery.tooltip.css">
-	    
-		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script language="Javascript" src="/scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
-		<script language="Javascript" src="/scripts/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
-		<script type="text/javascript" src="/scripts/jquery.fancybox-1.2.1.pack.js"></script>
-		<script type="text/javascript" src="/scripts/jquery-tooltip/jquery.tooltip.js"></script>
-        <script type="text/javascript" src="/scripts/jquery.cycle.all.min.js"></script>
+	   
+	    <link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon">
+	    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+	    <link rel="stylesheet" type="text/css" href="/css/main.css">
+	    <link rel="stylesheet" type="text/css" href="/css/jquery.fancybox-1.3.4.css">
         
-        <script language="JavaScript" src="/scripts/mainscripts.js" type="text/javascript"></script>
-		<script language="JavaScript" src="/scripts/overlib.js" type="text/javascript"><!-- overLIB (c) Erik Bosrup --></script> 
+	    
+
+	    
+	    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+	    <!-- load local copy if above fails to load -->
+	    <script>!window.jQuery && document.write(unescape('%3Cscript type="text/javascript" src="scripts/jquery-1.6.4.min.js"%3E%3C/script%3E'))</script><script type="text/javascript" src="scripts/jquery-1.6.4.min.js"></script>
+	    <script>//!window.jQuery && document.write(unescape('%3Cscript type="text/javascript" src="scripts/jquery-1.6.4.min.js"%3E%3C/script%3E'))</script>
+
+		<script type="text/javascript" src="/scripts/curvycorners.js"></script>
+		<script type="text/javascript" src="/scripts/jquery.fancybox-1.3.4.js"></script>
+		<script type="text/javascript" src="/scripts/jquery.easing-1.3.pack.js"></script>
+        <script type="text/javascript" src="/scripts/jquery.cycle.lite.1.0.min.js"></script>
         
-		<script type="text/javascript">
-			$(document).ready( function() {
-				$("ul.leftMenuItems li ul").hide();
-				$("ul.leftMenuItems li ul.default_shown").show();
+	    
+	    <script type="text/javascript">
+		
+			
+			function getInternetExplorerVersion()
+			// Returns the version of Internet Explorer or a -1
+			// (indicating the use of another browser).
+			{
+			  var rv = -1; // Return value assumes failure.
+			  if (navigator.appName == 'Microsoft Internet Explorer')
+			  {
+				var ua = navigator.userAgent;
+				var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+				if (re.exec(ua) != null)
+				  rv = parseFloat( RegExp.$1 );
+			  }
+			  return rv;
+			}
+			function checkVersion()
+			{
+			  var msg = "You're not using Internet Explorer.";
+			  var ver = getInternetExplorerVersion();
+			
+			  if ( ver > -1 )
+			  {
+				if ( ver >= 7.0 ) 
+				  msg = "You're using a recent copy of Internet Explorer."
+				else
+					window.location = 'upgradeIE.asp';
+				  //msg = "You should upgrade your copy of Internet Explorer.";
+			  }
+			  //alert( msg );
+			}
+			
+
+	    	$(document).ready( function() {
 				
-				$("ul.leftMenuItems li a.has_children").click( function() {
-					var jListElement = $(this).next();
-					if (jListElement.css("display") == "block") {
-						jListElement.hide();
+				checkVersion();
+				
+	    		curvyCornersVerbose = false;
+	    		
+	    		$(".mega_menu").mouseover(function() {
+	    			//remove the active from any that currently has it
+	    			$(".nav ul li a").each(function() {
+	    				if($(this).hasClass("active"))
+	    				{
+	    					$(this).removeClass("active");
+	    					$(this).addClass("active_temporarily_removed");
+	    					//alert($(this).html());
+	    				}
+	    			});
+	    			
+	    			$(this).parent().children().first().addClass("active");
+				});
+				
+				$(".mega_menu").mouseout(function() {
+	    			
+	    			$(this).parent().children().first().removeClass("active");
+
+	    			$(".nav ul li a").each(function() {
+	    				if($(this).hasClass("active_temporarily_removed"))
+	    				{
+	    					$(this).removeClass("active_temporarily_removed");
+	    					$(this).addClass("active");
+	    				}
+	    			});
+				
+				});
+				
+	    		// this helps to hide the pipe (border-right) that is on the previous 'li > a' element when a nav item's hover state is triggered 
+	    		$("#nav a").hover( function() {
+	    			$(this).parent().next().addClass("nav_prev_sibling_hovered");
+	    		}, function() {
+	    			$(this).parent().next().removeClass("nav_prev_sibling_hovered");
+	    		});
+				
+				$("#nav a.active").parent().next().addClass("nav_prev_sibling_active");
+	    		
+	    		// clear default text from text boxes when user enters text box
+	    		// replace default text if no text is entered
+	    		$(".text_input input[type='text']").focus( function() {
+	    			if ( $(this).val().toLowerCase() == $(this).attr("title") )
+	    				$(this).val("");
+	    			else
+	    				$(this).select();
+	    		});
+	    		$(".text_input input[type='text']").blur( function() {
+	    			if ( $(this).val().length <= 0 )
+	    				$(this).val($(this).attr("title"));
+	    		});
+	    		
+				if ($("#rotator").length > 0)  {
+					initRotator();
+					initRotatorPagination();
+				}
+				
+				adjustBackgroundHeight();
+				setTimeout("adjustBackgroundHeight()", 1000);
+	    	});
+			
+			function adjustBackgroundHeight() {
+				if ($("#general_background").length > 0) {
+					$("#general_background").height($("#content").height() + 135); /* add 70px for #nav, 40px for #content padding, 25px for bottom #content padding */
+				}
+				else if ($("#rotator").length > 0) {
+					$("#rotator").height($("#content").height() + 135); /* add 70px for #nav, 20px for #content padding, 5px for bottom #content padding */
+				}
+			}
+				
+			var rotatorTimer = null;
+			function initRotatorPagination() {
+				$("#rotator_pagination a").click( function() {
+					if (!$(this).hasClass("active")) {
+						var nextRotatorID = $(this).attr("id").replace("rotator_page_", "rotator_");
+						rotateItem($("#" + nextRotatorID));
 					}
-					else {
-						jListElement.show();
-					}
+					
+					// Stop the transitioning
+					clearInterval(rotatorTimer);
+					
 					return false;
 				});
-						
-				$("ul.leftMenuItems li a.leftLinkOn").parents("ul").show();
-			});
+			}
+			function initRotator() {
+				$("#rotator div").removeClass("active").hide();
+				$("#rotator div:first").addClass("active").show();
+				$("#rotator_pagination ul li a:first").addClass("active");
+				$("#rotator_content .rotator_content_item:first").show();
+				
+				rotatorTimer = setInterval("rotateItem()", 7000);
+				
+				// use setTimeout() vs setInterval because we need to reset the timer whenever someone clicks on an rotator pagination item
+				//rotatorTimer = setTimeout("rotateItem()", 7000); 
+			}
+			function rotateItem(nextRotator) {
+				// clearTimeout(rotatorTimer);
+			
+				var fadeDuration = 1500;	
+				var activeRotator = $("#rotator div.active").first();
+				
+				if (nextRotator == null)
+					nextRotator = activeRotator.next();
+					
+				if (nextRotator.length == 0)
+					nextRotator = $("#rotator div:first");
+				
+				activeRotatorIDVal = activeRotator.attr("id").replace("rotator_", "");
+				nextRotatorIDVal = nextRotator.attr("id").replace("rotator_", "");
+					
+				activeRotator.fadeOut(fadeDuration).removeClass("active");
+				nextRotator.fadeIn(fadeDuration).addClass("active");
+				
+				$("#rotator_content_item_" + activeRotatorIDVal).fadeOut(fadeDuration);
+				$("#rotator_content_item_" + nextRotatorIDVal).fadeIn(fadeDuration);
+				
+				$("#rotator_pagination ul li a").removeClass("active");
+				$("#rotator_page_" + nextRotatorIDVal).addClass("active");
+			}
+			
+			(function($){
+				 $.fn.extend({
+				 
+					customStyle : function(onChangeCallback) {
+					return false;
+					  if((!$.browser.msie || ($.browser.msie&&$.browser.version>6)) && (!($.browser.mozilla ))){
+					  
+					  return this.each(function() {
+					  
+							var currentSelected = $(this).find(':selected');
+							$(this).after('<span class="customStyleSelectBox"><span class="customStyleSelectBoxInner" ><span class="customStyleSelectBoxInner2" style="padding: 3px 0px 4px 4px; font-weight: normal;">'+currentSelected.text()+'</span></span></span>').css({position:'absolute', opacity:0,fontSize:$(this).next().css('font-size')});
+							var selectBoxSpan = $(this).next();
+							var selectBoxWidth = parseInt($(this).width()) - parseInt(selectBoxSpan.css('padding-left')) -parseInt(selectBoxSpan.css('padding-right'));			
+							var selectBoxSpanInner = selectBoxSpan.find(':first-child');
+							var selectBoxSpanInner2 = selectBoxSpanInner.find(':first-child');
+							selectBoxSpan.css({display:'inline-block'});
+							var selectBoxHeight = parseInt(selectBoxSpan.height()) + parseInt(selectBoxSpan.css('padding-top')) + parseInt(selectBoxSpan.css('padding-bottom'));
+							selectBoxSpanInner.css({width:selectBoxWidth, display:'inline-block'});
+							
+							$(this).height(selectBoxHeight).change(function(){
+								selectBoxSpanInner2.text($(this).find(':selected').text()).parent().addClass('changed');
+								if(onChangeCallback != null)
+									onChangeCallback();
+							});
+							
+					  });
+					  }
+					}
+				 });
+				})(jQuery);
+			
+			function change_parent_url(url)
+			{
+				document.location=url;
+			}	
+
 		</script>
 		
-	    <style type="text/css">
-			div.message {
-				background-color:#EEF0EB;
-				border:1px solid #333333;
-				color:#FF0000;
-				margin-bottom:1.5em;
-				padding:10px;
-			}
-			div.message span {
-				background-color:transparent;
-				background-position:left top;
-				background-repeat:no-repeat;
-				clear:both;
-				display:block;
-				padding-left:25px;
-				background-image:url('/images/icons/information.png');
-			}
-		</style>
+		<script type="text/javascript">var switchTo5x=true;</script>
+		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher:'70b56670-58ad-4202-b2be-30a5b08f68ad'});</script>		
+
+	    
 	</head>
-
-	<body>
-
-		<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
-		<div id="black_bg" style="position: absolute; top: 0; left: 0; opacity: 0; filter:alpha(opacity=0); background-color: #000000; z-index: 1000; width: 0; height: 0; display: none;"></div>
 	
-		<div id="container">
+	<!--[if lt IE 7 ]>  	<body class="ie6">		<![endif]-->
+	<!--[if IE 7 ]>     	<body class="ie7">		<![endif]-->
+	<!--[if IE 8 ]>			<body class="ie8">		<![endif]-->
+	<!--[if IE 9 ]>     	<body class="ie9">		<![endif]-->
+    <!--[if (gt IE 9) ]>	<body class="modern">	<![endif]-->
+	<!--[!(IE)]><!--> <body class="notIE modern">	<!--<![endif]-->
 		
-	
-	
-			<div id="header">
-				<div id="nav1">
-					<table cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td><a href="http://www2.marks.com/FindAStore.asp" class="odd">find a store</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_blank" href="http://www2.marks.com/careers/english/index.html" onclick="window.open(this.href, 'new_window', 'width=800,height=600,scrollbars=1,resizable=1'); return false;" class="odd">careers</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/RewardsClub.asp" class="even">rewards club</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/About.asp" class="odd">about marks</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_blank" href="http://www.imagewear.ca" class="even">imagewear</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/CSRHome.asp" class="odd">ethical sourcing program</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/ContactUs.asp" class="even">contact us</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www.lequipeur.com/" class="odd">l'equipeur.com</a></td>
-						</tr>
-					</tbody></table>
-				</div>
-				<div id="banner_bar">
+	<a name="top"></a>
+		<div id="container">
+			<div id="header_outer">
+				<div id="header">
+					<div id="dock" class="clearfix">
+						<ul class="left">
+                           	<li class="first"><a href="http://www.imagewear.ca/">imagewear</a></li>
+                        	<li class="last"><a href="http://www.flyertown.ca/flyers/marksworkwearhouse?type=1&amp;locale=EN" target="_blank">latest flyer</a></li>
+						</ul>
+						<ul class="right">
+							<li class="first"><a href="/SignUp.asp">email sign up</a></li>
+							<li class="last"><a href="/ContactUs.asp">contact us</a></li>
+						</ul>
+					</div>
 					
+					<div id="nav_bar" class="clearfix">
+						<div id="logo">
+							<a href="/"><img src="/images/css/marks-logo.png" alt="Mark's logo"></a>
+						</div>
+						<div id="nav" class="nav">
+							 
+								<ul>
+                                	
+									<li class=" first" id="mega_menu_1">
+										<a href="/CategoryListing.asp?categoryID=1"><span>men's</span></a>
+										<div class="mega_menu_bar"></div>
+										<div class="mega_menu">
+											
+											<div class="mm_contents clearfix">
+												
+                                                	
+                                                	<div class="sub_menu">
+														
+                                                        
+                                                            <ul class="clearfix">
+                                                                
+                                                                <li>
+                                                                    <h3>Collections</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=191">Dh3</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=198">Denver Hayes Vintage</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=189">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Shirts</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=15">Casual And Dress Shirts</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=16">Hoodies</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=17">Polos</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=18">T-shirts</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=14">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Pants</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=11">Casual  And Dress Pants</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=12">Jeans</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=196">Shorts</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=10">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Outerwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=9">Jackets And Vests</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=8">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Footwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=20">Casual And Dress Shoes</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=21">Hikers</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=192">Sandals</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=19">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Accessories</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=125">Gloves</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=4">Sleep And Lounge</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=5">Socks</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=7">Underwear</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=98">Summer Accessories</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=3">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Workwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=24">Accessories</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=28">Footwear</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=36">Overalls</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=34">Outerwear</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=37">Pants</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=38">Shirts</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=23">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                
+                                                            </ul>
+														
+                                                     </div>
+												
+												<div class="mm_promos">
+													<div class="mm_promos_shadow_overlay"></div>
+													<div class="featured_filters">
+                                                        <ul>
+                                                            <li class="first"><h3>Featured</h3></li>
+                                                            <li class="sale"><a href="ProductListing.asp?categoryID=1&amp;onsale=1">SALE</a></li>
+                                                            
+                                                                <li><a href="ProductListing.asp?categoryID=1&amp;filter=2">Big &amp; Tall</a></li>
+                                                            	
+                                                                <li><a href="ProductListing.asp?categoryID=1&amp;filter=9">Top Picks</a></li>
+                                                            	
+                                                            <li><a href="ProductListing.asp?categoryID=1">View All Men's</a></li>
+                                                        </ul>
+													</div>
+                                                   
+                                                    <div class="featured_promos">
+                                                    	<div class="promo_box" style="width: 700px; height: 180px; position: absolute; top: 0; left: 161px; ">
+															<ul>
+															 
+        <li class="promo" style="background-image: url('/images/dbPromos/megaNavCLP/39.jpg');">
+        	<a href="/ProductListing.asp?categoryID=89&amp;innovations=22&amp;filter=7">
+	            <span class="action white" style="right: 20px; top: 158px;">View All</span>
+            </a>
+        </li>
+	
+        <li class="promo" style="background-image: url('/images/dbPromos/megaNavCLP/42.jpg');">
+        	<a href="/ProductListing.asp?categoryID=86">
+	            <span class="action white" style="right: 20px; top: 158px;">View All</span>
+            </a>
+        </li>
+	           
+															</ul>
+														</div>
+														<!--
+                                                    	<div class="promo_1" style="background: url('images/mega-menu-promos/customer-appreciation.png') left top no-repeat transparent;">
+                                                        	<a href="" style="top: 150px; left: 180px;">Learn More</a>
+                                                        </div>
+                                                        <div class="promo_2 find_a_store">
+                                                        	<a href="">Learn More</a>
+                                                        </div>
+                                                        -->
+                                                    </div>
+                                                    
+												</div>
+                                                
+											</div>
+                                            
+											<div class="mm_bottom"></div>
+										</div>
+									</li>
+                                    
+									<li class="" id="mega_menu_39">
+										<a href="/CategoryListing.asp?categoryID=39"><span>women's</span></a>
+										<div class="mega_menu_bar"></div>
+										<div class="mega_menu">
+											
+											<div class="mm_contents clearfix">
+												
+                                                	
+                                                	<div class="sub_menu">
+														
+                                                        
+                                                            <ul class="clearfix">
+                                                                
+                                                                <li>
+                                                                    <h3>Tops</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=181">Shirts</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=193">T Shirts</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=194">Sweaters</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=195">Tank Tops</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=60">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Bottoms</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=48">Casual And Dress Pants</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=171">Jeans</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=200">Shorts</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=197">Skirts </a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=46">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Outerwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=56">Jackets And Vests</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=55">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Footwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=183">Rubber Boots</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=184">Athletic &amp; Hiking</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=185">Sandals</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=188">Casual</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=57">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Accessories</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=43">Socks</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=104">Summer Accessories</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=187">Underwear</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=42">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Healthwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=54">Scrubs</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=53">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Yogawear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=141">Yogawear</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=103">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                
+                                                            </ul>
+														
+                                                     </div>
+												
+												<div class="mm_promos">
+													<div class="mm_promos_shadow_overlay"></div>
+													<div class="featured_filters">
+                                                        <ul>
+                                                            <li class="first"><h3>Featured</h3></li>
+                                                            <li class="sale"><a href="ProductListing.asp?categoryID=39&amp;onsale=1">SALE</a></li>
+                                                            
+                                                                <li><a href="ProductListing.asp?categoryID=39&amp;filter=9">Top Picks</a></li>
+                                                            	
+                                                            <li><a href="ProductListing.asp?categoryID=39">View All Women's</a></li>
+                                                        </ul>
+													</div>
+                                                   
+                                                    <div class="featured_promos">
+                                                    	<div class="promo_box" style="width: 700px; height: 180px; position: absolute; top: 0; left: 161px; ">
+															<ul>
+															 
+        <li class="promo" style="background-image: url('/images/dbPromos/megaNavCLP/53.jpg');">
+        	<a href="/ProductListing.asp?categoryID=83">
+	            <span class="action white" style="left: 20px; top: 158px;">View All</span>
+            </a>
+        </li>
+	
+        <li class="promo" style="background-image: url('/images/dbPromos/megaNavCLP/49.jpg');">
+        	<a href="/ProductListing.asp?categoryID=82&amp;innovations=25">
+	            <span class="action white" style="right: 20px; top: 158px;">View All</span>
+            </a>
+        </li>
+	           
+															</ul>
+														</div>
+														<!--
+                                                    	<div class="promo_1" style="background: url('images/mega-menu-promos/customer-appreciation.png') left top no-repeat transparent;">
+                                                        	<a href="" style="top: 150px; left: 180px;">Learn More</a>
+                                                        </div>
+                                                        <div class="promo_2 find_a_store">
+                                                        	<a href="">Learn More</a>
+                                                        </div>
+                                                        -->
+                                                    </div>
+                                                    
+												</div>
+                                                
+											</div>
+                                            
+											<div class="mm_bottom"></div>
+										</div>
+									</li>
+                                    
+									<li class="" id="mega_menu_65">
+										<a href="/CategoryListing.asp?categoryID=65"><span>industrial</span></a>
+										<div class="mega_menu_bar"></div>
+										<div class="mega_menu">
+											
+											<div class="mm_contents clearfix">
+												
+                                                	
+                                                	<div class="sub_menu">
+														
+                                                        
+                                                            <ul class="clearfix">
+                                                                
+                                                                <li>
+                                                                    <h3>Workwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=143">Carhartt®</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=144">Work Shirts</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=145">Work Pants</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=146">Overalls</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=179">Women's Workwear</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=120">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Footwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=71">6 Inch Workboots</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=72">8 Inch Workboots</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=73">Industrial Casuals</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=201">Industrial Hikers</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=74">Rubber Boots</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=75">Women's Safety Footwear</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=70">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Outerwear</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=77">Jackets And Vests</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=180">Rainwear</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=76">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <h3>Accessories</h3>
+                                                                    
+                                                                    
+                                                                    <ul>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=67">Gloves</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=68">Work Socks</a></li>
+                                                                        
+                                                                        <li><a href="/ProductListing.asp?categoryID=149">Work Accessories</a></li>
+                                                                        
+                                                                        <li class="last"><a href="/ProductListing.asp?categoryID=66">View All</a></li>
+                                                                    </ul>
+                                                                    
+                                                                </li>
+                                                                
+                                                                
+                                                            </ul>
+														
+                                                     </div>
+												
+												<div class="mm_promos">
+													<div class="mm_promos_shadow_overlay"></div>
+													<div class="featured_filters">
+                                                        <ul>
+                                                            <li class="first"><h3>Featured</h3></li>
+                                                            <li class="sale"><a href="ProductListing.asp?categoryID=65&amp;onsale=1">SALE</a></li>
+                                                            
+                                                            <li><a href="ProductListing.asp?categoryID=65">View All Industrial</a></li>
+                                                        </ul>
+													</div>
+                                                   
+                                                    <div class="featured_promos">
+                                                    	<div class="promo_box" style="width: 700px; height: 180px; position: absolute; top: 0; left: 161px; ">
+															<ul>
+															 
+        <li class="promo" style="background-image: url('/images/dbPromos/megaNavCLP/54.jpg');">
+        	<a href="/ProductListing.asp?categoryID=85">
+	            <span class="action white" style="left: 20px; top: 158px;">View All</span>
+            </a>
+        </li>
+	
+        <li class="promo" style="background-image: url('/images/dbPromos/megaNavCLP/46.jpg');">
+        	<a href="/ProductListing.asp?categoryID=85">
+	            <span class="action white" style="right: 20px; top: 158px;">View All</span>
+            </a>
+        </li>
+	           
+															</ul>
+														</div>
+														<!--
+                                                    	<div class="promo_1" style="background: url('images/mega-menu-promos/customer-appreciation.png') left top no-repeat transparent;">
+                                                        	<a href="" style="top: 150px; left: 180px;">Learn More</a>
+                                                        </div>
+                                                        <div class="promo_2 find_a_store">
+                                                        	<a href="">Learn More</a>
+                                                        </div>
+                                                        -->
+                                                    </div>
+                                                    
+												</div>
+                                                
+											</div>
+                                            
+											<div class="mm_bottom"></div>
+										</div>
+									</li>
+                                    
+                                    <li><a href="/FindAStore.asp"><span>find a store</span></a></li>
+								</ul>
+											
+						</div>
+						<div id="search_box_top">
+							<form name="search_form" id="search_form_top" action="ProductListing.asp" method="get">
+                                
+								<div class="text_input"><input type="text" name="search" id="product_search_top" value="search" title="search"><button type="submit" id="btn_search_top" class="search_button"></button></div>
+							</form>
+						</div>
+						<div id="shopping_cart_top">
+                        	
+                        	<a href="/ShoppingCart.asp" class="">
+                                <span class="cart_title">cart</span>
+                                
+                                <span class="cart_item_quantity" id="cart_item_quantity">0</span>
+							</a>
+						</div>
+					</div>
                     
-                    <a href="http://www2.marks.com/Rewards.asp"><img src="/images/RotatingBanners/coming-soon-banner-3.jpg" alt=""></a>
+                     
+                        <div id="site_breadcrumb">
+                            <a href="./">HOME</a> \ PRIVACY POLICY
+                        </div>
                     
-                  
-                    
-                    
-                    
-				</div>
-				<div id="nav2">
-					<table cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td><a target="_top" href="http://www2.marks.com/" class="odd">home</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/Category.asp?categoryID=1">men</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/Category.asp?categoryID=137">women</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/Category.asp?categoryID=195">industrial</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/Category.asp?categoryID=349">healthwear</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/Category.asp?categoryID=231">innovations</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><span class="a">product search</span></td>
-							<td>&nbsp;</td>
-							<td>
-								<form target="_top" method="get" name="searchForm" action="http://www2.marks.com/SearchResult.asp">
-								<span id="product_search_bar">
-									<input type="text" id="product_search_text" name="terms" value="">
-									<input type="submit" id="product_search_submit" name="" value="GO">
-								</span>
-								</form>
-							</td>
-						</tr>
-					</tbody></table>
+					
 				</div>
 			</div>
-		
 			
-			<div id="main">
-					
-				
-				<div style="background: url('images/main-bg.gif') top left repeat-y transparent; width: 760px;">
-					<table border="0" cellpadding="0" cellspacing="0" width="760">
-						<tbody><tr>
-							<td width="115" align="left" valign="top" rowspan="2">
-								<div id="leftBar">
-									
-	
-	<div id="rewards_signup_box" class="bar_box">
-		<h2>E-CAST<br>OFFERS</h2>
-		<a href="RewardsClub.asp">Sign Up Now &gt;</a>
-	</div>
-
-	
-	
-	<div id="left_bar_menus">
-	
-		
-	
-	</div>
-	
-	<div id="add_this_button">	
-		<!-- AddThis Button BEGIN -->
-		<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=markssocial"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=markssocial"></script>
-		<!-- AddThis Button END -->
-	</div>
-	
-	<div class="divider"></div>
-	
-	<div class="sideItem">
-		<a href="/fastFind.asp"><img src="/images/fast-find-logo.gif" border="0" alt=""></a>
-	</div>
-		
-		
-	
-								</div>
-							</td>
-							
-							<td width="21" rowspan="2"><img src="/images/pixel.gif" width="21" height="1" border="0"></td>
-							
-							<td align="left" valign="top" style="background-color: #fff;">
-								<div id="content">
-										
-				
-
-<div id="privacy_policy">
-
-	<h1>Privacy Policy</h1>
-	
-	
-	<h2>Governing Privacy Statement: </h2>
-	<p>At Mark's, we express our customer commitment by respecting your privacy, and are committed to protecting business integrity for our internal and external customers.</p>
-
-	<h2>Mark's Work Wearhouse Customer Privacy Policy </h2>
-	<p>To view this policy in French, please <a href="privacyFrench.asp">click here</a>.</p>
-	<p>Mark's Work Wearhouse ("Marks") is a member of the Canadian Tire Family of companies. This Policy is guided by the Canadian Tire Corporation, Limited Privacy Policy, which Mark's is committed to following. This policy covers all Mark's Work Wearhouse corporate stores and franchisees.</p>
-	<p>Marks recognizes that the privacy of your personal information is important, and we are committed to protecting it. This privacy policy explains to you what personal information Mark's collects about you, and the use to which that information is put. The policy will also explain how your personal information is kept safe and secure and handled appropriately.</p>
-	<p>While Mark's has always focused on ensuring that your personal information is appropriately protected, this privacy policy is also designed to comply with Canada's Personal Information Protection and Electronics Documents Act, and corresponding provincial privacy legislation.</p>
-
-	<h3>What is personal information?</h3>
-	<p>Personal information is information that refers to an individual specifically and is recorded in any form. Personal information includes such things as age, income, date of birth, ethnic origin, medical records and credit records. Information about individuals contained in the following documents is not considered personal information:</p>
-	<ul>
-		<li>public telephone directories, where the subscriber can refuse to be listed</li>
-		<li>professional and business directories available to the public</li>
-		<li>certain public registries and court records</li>
-		<li>certain other publicly available printed and electronic publications.</li>
-	</ul>
-
-	<ol class="no_indent">
-		<li>
-			<p>
-				<strong>We are accountable to you.</strong>
-				<br>
-				Mark's identifies the purpose for which your personal information is collected. We do this before or at the time the information is actually being collected. Types of information collected include:
-			</p>
-			<ol class="lettered">
-				<li>
-					<p>
-						<strong>Individual Purchases</strong>
-						<br>
-						Mark's ensures that it limits its requests for information to what is required to ensure excellent service. Most of the information Mark's collects about you is very basic information that we need to complete a purchase, or to provide you with a refund or exchange. Examples of information that may be collected to complete an in-person purchase or refund may include things such as your name, address, and telephone number, your driver's license, your credit or debit card information, information printed on your personal cheque, and a description of the item requested or purchased.
-					</p>
-					<p>Generally, we request your address and phone number only if the item will be sent to you at a later date, or if you are receiving a refund. We do ask for your postal code every time you make a purchase, but this information cannot be linked to individuals and is requested only to track geographical buying patterns.</p>
-				</li>
-				<li>
-					<p>
-						<strong>Internet Shopping</strong>
-						<br>
-						You may visit our website just to browse, or you may actually make an online purchase. If you make a purchase, we collect personal information such your name, address, e-mail address, phone number, and credit card information. Even if you do not make a purchase, we have the ability to track usage of our website. We can keep track of the number of times our website is visited, as well as the server from which the site was visited. 
-					</p>
-					<p>This type of general usage information cannot be linked back to you personally. This is done through the use of "Cookies". Cookies are small files placed on your computer by websites. <a href="http://www2.marks.com">www.marks.com</a> uses cookies to connect your computer to the information stored in our database regarding your order and shopping preferences.</p>
-					<p>At <a href="http://www2.marks.com">www.marks.com</a>, we use cookies only for tracking your shopping preferences (e.g. sizes in the big and tall section) and for tracking your shopping basket. Without cookies enabled, you cannot shop online at <a href="http://www2.marks.com">www.marks.com</a>.</p>
-					<p>No personal information is used to generate or store the cookie, and your cookie file will expire after your visit to the website.</p>
-				</li>
-				<li>
-					<p>
-						<strong>Internet Database</strong>
-						<br>
-						In order to better serve you, our customer, Mark's has also created an Internet database. Customers may register on the database, so that you can keep track of your own purchases at Mark's. For example, customers may register their preferred style of clothing and size so they know what to look for next time they make a purchase. Registration is entirely voluntary and customers may correct their information or remove themselves from the database at any time.
-					</p>
-				</li>
-				<li>
-					<p>
-						<strong>Corporate Purchases - "Image Wear"</strong>
-						<br>
-						Mark's may also collect personal information about employees of various companies who are Mark's corporate clients. For example, a company may contract with Mark's to supply all of its employee uniforms. When the employee comes in to make his or her purchase, Mark's collects information about the nature of that employee's purchases, and may provide that information to the employer.
-					</p>
-				</li>
-				<li>
-					<p>
-						<strong>Information Voluntarily Provided</strong>
-						<br>
-						Sometimes you may voluntarily provide information to Mark's. This occurs when you fill out a "How Did We Do Card" (customer response card), providing your name and address, or perhaps when you provide feedback to Mark's through communications such as e-mail, or a letter. Mark's uses that information to respond to your query, and to keep track of customer feedback, which enables us to continuously improve.
-					</p>
-				</li>
-				<li>
-					<p>
-						<strong>Marketing</strong>
-						<br>
-						Mark's does not sell or otherwise share your personal information with anyone else, such as advertising agencies or marketing companies. Mark's sends individually addressed flyers or brochures only to those customers who specifically request that they be added to the mailing list. This information is sent to customers by regular mail or e-mail, depending on the customer's election, in addition Mark's flyers are sometimes included in bulk flyer distributions throughout the year.
-					</p>
-				</li>
-				<li>
-					<p>
-						<strong>Surveillance</strong>
-						<br>
-						Many of Mark's retail stores are equipped with surveillance cameras. These cameras are in place for your safety as a customer, as well as for our own protection against shoplifting. If a Mark's store has a camera, there will be signs posted alerting you to that. Video tapes that record your image are routinely destroyed and not shared with third parties unless there is suspicion of a crime, in which case they are turned over to the police.
-					</p>
-				</li>
-			</ol>
-		</li>
-		<li>
-			<p>
-				<strong>We let you know why we collect your personal information</strong>
-				<br>
-				Mark's identifies the purpose for which your personal information is collected. We do this before or at the time the information is actually being collected.
-			</p>
-		</li>
-		<li>
-			<p>
-				<strong>We obtain your consent to collect, use or disclose your personal information:</strong>
-				<br>
-				Mark's will obtain your consent, to collect and use your personal information. We will not disclose your personal information to any outside party without your written consent, unless we are required by law to do so.
-			</p>
-		</li>
-		<li>
-			<p>
-				<strong>We limit collection of your personal information</strong>
-				<br>
-				Mark's collects only the information required to offer products and services to you. If the personal information we require is collected for a reason other than what is required for a transaction, your consent will be obtained before or at the time the information is collected. Mark's will only collect personal information by clear, fair and lawful means.
-			</p>
-			<p>Examples of why we collect personal information include:</p>
-			<ul>
-				<li>Communicating with you generally</li>
-				<li>Protecting against fraud or error</li>
-				<li>Providing product and services requested by you</li>
-				<li>To comply with appropriate legal and governmental requirements.</li>
-			</ul>
-			<br>
-		</li>
-		<li>
-			<p>
-				<strong>We limit use, disclosure and retention of your personal Information</strong>
-				<br>
-				Mark's retains your personal information only as long as it is required to provide products and services to you or as required by federal and provincial laws. In some cases, Mark's is required by law to keep your personal information for a specified period of time.
-			</p>
-			<p>For those customers who request to be added to mailing lists or who register on Mark's internet database, personal information is kept until the customer notifies Mark's that it no longer wishes to participate in these programs.</p>
-			<p>We may use service providers outside of Canada, and, if applicable, your personal information may be processed and stored in other countries and therefore may be subject to disclosure under the laws of those countries.</p>
-		</li>
-		<li>
-			<p>
-				<strong>We keep your personal information up to date and accurate</strong>
-				<br>
-				We are committed to maintaining the accuracy of your personal information for as long as it is being used for the purposes we have identified. To help Mark's keep your personal information up to date, we rely on you to notify us of address or telephone number changes, which will help us, provide you with the best possible service. For those customers who are registered on our Internet database service, customers are given the ability to update their personal information as it changes.
-			</p>
-		</li>
-		<li>
-			<p>
-				<strong>Security of personal information</strong>
-				<br>
-				The security of your personal information is a priority for us. We have security processes and procedures in place to keep your personal information safe, including:
-			</p>
-			<ul>
-				<li>physical security measures such as restricted access and locked filing cabinets</li>
-				<li>electronic security measures for computerized personal information such as password protection, database encryption and personal identification numbers.</li>
-				<li>organizational processes such as limiting access to your personal information to a selected group of individuals. Only those staff members who need the information to respond to your requests are given access to it.</li>
-			</ul>
+            
+				<div id="general_background">
+				</div>
+            
 			
-			<br>
-		</li>
-		<li>
-			<p>
-				<strong>We are open about our privacy and security policy</strong>
-				<br>
-				Information about our policies and practices relating to the management of your personal information will be made readily available to you. This policy is available at all times on our website, <a href="http://www2.marks.com">www.marks.com</a>, or on request. To contact us please refer to the "How to contact us" section below.
-			</p>
-		</li>
-		<li>
-			<p>
-				<strong>We provide access to your personal information stored by Mark's</strong>
-				<br>
-				You can request access to your personal information stored by Mark's. To contact us, refer to the "How to contact us" section below. Upon receiving such a request, Mark's will:
-			</p>
-			<ul>
-				<li>Inform you about what type of personal information we have on record or in our control, how it is used and to whom it may have been disclosed</li>
-				<li>Provide you with access to your information so you can review and verify the accuracy and completeness and request changes to the information</li>
-				<li>Make any necessary updates to your personal information.</li>
-			</ul>
-			<p>Mark's is committed to ensuring that we have no personal information about customers that is not absolutely necessary in order to provide them with excellent service. Mark's is also committed to ensuring that information about our customers is accurate and up to date.</p>
-		</li>
-		<li>
-			<p>
-				<strong>We respond to your questions, concerns and complaints about privacy</strong>
-				<br>
-				In order to ensure compliance, Mark's has appointed a Privacy Advisor to oversee all aspects of its privacy policy and practices. Mark's will respond in a timely manner to your questions, concerns or requests about the privacy of your personal information and our privacy policies.
-			</p>
-		</li>
-	</ol>
+			<div id="content">
+            	
 
-	<h2>How to Contact us: </h2>
+<div class="static_content_wrapper clearfix">
 
-	<p>
-		<strong>Mark's Privacy Advisor</strong><br>
-		#30 1035 64th Ave SE<br>
-		Calgary, AB T2H 2J7<br>
-		<a href="mailto:Privacy.feedback@marks.com">Privacy.feedback@marks.com</a><br>
-		1-800-663-6275
-	</p>
+    
 
-	<p>If your questions, concerns or complaints have not been resolved to your satisfaction or, if you have further questions, you can contact Canadian Tire's Chief Privacy Officer by mail at Chief Privacy Officer c/o Canadian Tire Corporation, Limited, 2180 Yonge Street, P.O. Box 770, Station K, Toronto, ON M4P 2V8.</p>
-	
-	<div class="divider"></div>
+<div id="left_menu">
+    <div class="filter_box main_filter box_shadow_container">
+        <div class="box_shadow"></div>
+        <div class="box_content">
+            <div class="title">Corporate</div>
+            <div class="filters">
+                <ul class="by_categories">
+                    <li>
+                    	<a href="/About.asp">Company Information</a>
+                        <ul>
+		                    <li class=""><a href="/About.asp">About Mark's</a></li>
+                            <li class=""><a href="/Careers.asp">Careers</a></li>
+                            <li class="">
+                                <a href="/EthicalSourcingProgram.asp">Ethical Sourcing Program</a>
+                                <ul>
+                                    <li class=""><a href="/SocialComplianceProcess.asp">Social Compliance Process</a></li>
+                                    <li class=""><a href="/EthicalSourcingProgramPolicies.asp">Ethical Sourcing Policies</a></li>
+                                    <li class="last "><a href="/FactoryAuditInformation.asp">Factory Audit Information</a></li>
+                                </ul>
+                            </li>
+                            <li class=""><a href="/TermsOfUse.asp">Terms of Use</a></li>
+                            <li class="active"><a href="/PrivacyPolicy.asp">Privacy Policy</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                    	<a href="/FastFind.asp">Customer Service</a>
+                        <ul>
+                        	<li class=""><a href="/FastFind.asp">Fast Find</a></li>
+                            <li class=""><a href="/Signup.asp">Signup</a></li>
+                            <li class=""><a href="/ContactUs.asp">Contact Us</a></li>
+                            <li class=""><a href="/FindAStore.asp">Find a Store</a></li>
+                            <li class=""><a href="/Signup.asp">Email Sign Up</a></li>
+                            <li class=""><a href="/FAQs.asp">Frequently Asked Questions</a></li>
+                            <li><a href="/documents/CanadianTireCustomerServiceAccessibilityPolicy.pdf" target="_blank">Customer Service Accessibility Policy PDF(350KB)</a></li>
+                        </ul>
+					</li>
+                    <li>
+                    	<a href="/ShippingPolicy.asp">Shipping &amp; Returns</a>
+                        <ul>
+                        	<li class=""><a href="/ShippingPolicy.asp">Shipping Policy</a></li>
+                            <li class=""><a href="/ReturnPolicy.asp">Return Policy</a></li>
+                            <li class=""><a href="/DeliveryInformation.asp">Delivery Information</a></li>
+                            <li class=""><a href="/Guarantee.asp">100% Guarantee</a></li>
+                        </ul>
+					</li>                   
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    
+    <div class="static_content box_shadow_container">
+		<div class="box_shadow"></div>
+        <div class="box_content">
+
+            <h1>Your Privacy is Important to us</h1>
+            
+            <p>Mark's Work Wearhouse (Mark's) abides by the Canadian Tire Corporation, Limited Privacy
+Charter.</p>
+    		
+            <p>Canadian Tire Corporation, Limited and its family of companies including Canadian Tire Financial
+Services Limited, Canadian Tire Bank, Canadian Tire Real Estate Limited, Mark's, The Forzani
+Group Ltd., Canadian Tire Petroleum and PartSource, are committed to protecting the privacy
+and security of your personal information obtained by reason of your doing business with us.</p>
+
+			<p>Certain Mark's stores are owned and operated by independent dealers or franchisees. As
+independent businesses, these dealers and franchisees are responsible for adopting their own
+privacy policies to protect your personal information in a manner consistent with this Privacy
+Charter.</p>
+
+			<p>Our Privacy Charter explains the types of customer personal information we collect, how it is
+used and the steps we take to ensure your personal information is handled appropriately.</p>
+
+			<p>Each member of the Canadian Tire family of companies collects information necessary to do
+business with you. For more specific details on what information each company may collect and
+how we use it, we refer you to the Frequently Asked Questions (FAQs) section.</p>
+
+			<h2>Privacy Charter</h2>
+            
+            <p>The Privacy Charter is our commitment to you. It is our organization wide policy on how all
+companies in the Canadian Tire family protect your personal information.<br>
+			<a href="/documents/ctcPrivacyCharter.pdf" target="_blank">View Charter</a>
+</p>
+
+
+
+			<h2>Privacy Statement</h2>
+            
+            <p>Our privacy statement provides a quick reference to the key privacy points of the Privacy Charter.
+It also provides you information on your choices and important contact information.<br>
+			<a href="/documents/ctcPrivacyStatement.pdf" target="_blank">View Statement</a></p>
+
+			<h2>Privacy Frequently Asked Questions (FAQs)</h2>
+            
+            <p>Our FAQs provide answers to important questions you may have regarding your information and
+your privacy. The FAQs provide additional detail on what information is collected by each
+company. The information may vary according to company. If there are further questions you
+would like answered, feel free to contact us anytime.<br>
+			<a href="/documents/ctcFAQs.pdf" target="_blank">View FAQs</a></p>
+           
+           
+           
+           
+           <!--
+            
+            <h2>How to Contact us:</h2>
+            <p>
+            	<strong>Mark's Privacy Advisor</strong><br/>
+	            #30 1035 64th Ave SE<br/>
+    	        Calgary, AB T2H 2J7<br/>
+        	    Privacy.feedback@marks.com<br/>
+            	1-800-663-6275
+            </p>
+            <p>If your questions, concerns or complaints have not been resolved to your satisfaction or, if you have further questions, you can contact Canadian Tire's Chief Privacy Officer by mail at Chief Privacy Officer c/o Canadian Tire Corporation, Limited, 2180 Yonge Street, P.O. Box 770, Station K, Toronto, ON M4P 2V8.</p>
+            
+            -->
+            
+        </div>
+        
+    </div>
+
 </div>
 
 
 
-								</div>
-							</td>
-							
-							<td width="21" rowspan="2"><img src="/images/pixel.gif" width="21" height="1" border="0"></td>
-							<td width="115" align="left" valign="top" rowspan="2">
-								<div id="rightBar">
-									
 	
-	<div>
-		
-		<div class="sideItem">
-			
-			<a href="http://www2.marks.com/category.asp?categoryID=137"><img src="/items/images/431.jpg" border="0" width="115"></a><br>
-			
-			<span class="sideItemTitle">Women's Apparel and Footwear</span><br>
-			
-		</div>
-		
-		<div class="sideItem">
-			
-			<a href="http://www2.marks.com/category.asp?categoryID=349"><img src="/items/images/285.jpg" border="0" width="115"></a><br>
-			
-			<span class="sideItemTitle">Healthwear</span><br>
-			
-		</div>
-		
-	</div>
-	
-
-								</div>
-							</td>
-							
-						</tr>
-					</tbody></table>
-				</div>
 				
-			
 			</div>
 			
-			
-						
-			<div id="footer">
-				
-				<div id="footer_links">
-					<div id="footer_divider">
-						<img src="/images/Template/footer-divider.jpg" alt="">
+			<div id="footer_outer">
+				<div id="footer_top_bar"></div>
+				<div id="footer_top_shadow"></div>
+				<div id="footer">
+                
+                
+                
+                	
+					<div id="fast_find">
+                    
+                    	
+                        
+                            <a id="ff_fast_delivery_jan2012" href="/DeliveryInformation.asp"></a>
+                       	    <a id="ff_100_percent_satisfaction_jan2012" href="/guarantee.asp"></a>   
+                            <img src="/images/css/footer-fast-find-jan2012.png" alt="Fast Find - Fast Delivery - 100% Satisfaction Guaranteed">
+
+                        
+                        
+                        
+                   
 					</div>
-					<div id="footer_buttons">
-						
-
-	<ul>
-		
-	<li>
-    	<a href="http://www.flyertown.ca/flyers/marksworkwearhouse?type=1&amp;locale=EN" target="_blank">
-			<span class="button_label">latest flyer</span>
-            
-            
-			<img src="/images/Buttons/Flyers/oct1-latest-flyer.jpg" alt="View our latest flyer">
-			
-		</a>
-	</li>
-	
-	
-	<li>
-		<a href="/Category.asp?categoryID=231" target="_top">
-			<span class="button_label">innovations</span>
-			<img src="/images/Buttons/innovationsMay2011.png" alt="Mark's Innovations That Work">
-		</a>
-	</li>
-    
-
-        
-		<li>
-			<span class="button_label">fall lookbook</span>
-			<img src="/images/Buttons/lookbook-fall2011.jpg" alt="Fall Lookbook" usemap="#btn-lookbook">
-			<map name="btn-lookbook">
-				<area id="" class="" target="_top" href="/lookbook/" coords="86,135,180,152" alt="" shape="rect">
-				<area id="" class="" target="_top" href="/lookbook/makingof/?playlist=all-fall2011" coords="128,155,174,169" alt="" shape="rect">
-			</map>
-		</li>
-		
-	<li class="last">
-		<a href="/InnovationTV.asp">
-			<span class="button_label">Innovation TV</span>
-			<img src="/images/Buttons/innovation-tv-2011.jpg" alt="Click here to view our latest TV commercials">
-		</a>
-	</li>
-		
-	</ul>
-
-
-						<div class="clear"></div>
+                    
+					<div id="stay_connected" class="clearfix">
+						<ul id="email_update_signup">
+							<li>Sign up for email updates:</li>
+							<li class="last">
+								<form name="" action="SignUp.asp">
+                                	<input type="hidden" value="1" name="fromHome">
+									<div class="text_input"><input type="text" name="email" id="email_signup_bottom" value="email address" title="email address" style="width:142px; padding-right:5px;"><button type="submit" name="btn_signup_email_updates" id="btn_signup_email_updates" style="height:28px; top:0px;"></button></div>
+								</form>
+							</li>
+						</ul>
+						<ul id="social_media">
+							<li>Follow us:</li>
+							<li class="last">
+								<ul>
+									<li><a href="http://www.facebook.com/smartclothes" target="_blank"><img src="/images/css/social-facebook.png" alt="Facebook"></a></li>
+									<li><a href="http://twitter.com/#!/marksww" target="_blank"><img src="/images/css/social-twitter.png" alt="Twitter"></a></li>
+									<!--<li class="last"><a href=""><img src="/images/css/social-youtube.png" alt="Youtube" /></a></li>-->
+								</ul>
+							</li>
+						</ul>
 					</div>
-					<div id="footer_logos">
-						<div id="ct-logo"><a href="http://www.canadiantire.ca/" target="_blank"><img src="/images/Template/ct-logo.png" alt="Canadian Tire Family of Canadian Retailers"></a></div>
-						
-						<div class="clear"></div>
-					</div>	
+					<div id="footer_nav">
+						<ul class="clearfix">
+							<li>
+								<h3>Shop</h3>
+								<ul>
+									<li><a href="/CategoryListing.asp?categoryID=1">Men</a></li>
+									<li><a href="/CategoryListing.asp?categoryID=39">Women</a></li>
+									<li><a href="/CategoryListing.asp?categoryID=65">Industrial</a></li>
+									<li><a href="/CategoryListing.asp?categoryID=81">Innovations</a></li>
+									<li><a href="http://www.flyertown.ca/flyers/marksworkwearhouse?type=1&amp;locale=EN" target="_blank">Latest Flyers</a></li>
+									<li><a href="/ProductDetails.asp?productID=724">Gift Cards</a></li>
+									<li><a href="/ProductListing.asp?onsale=1">Sales</a></li>
+								</ul>
+							</li>
+							<li>
+								<h3>Company Information</h3>
+								<ul>
+									<li><a href="/About.asp">About Mark's</a></li>
+									<li><a href="/Careers.asp">Careers</a></li>
+									<li><a href="/EthicalSourcingProgram.asp">Ethical Sourcing Program</a></li>
+									<li><a href="/TermsOfUse.asp">Terms of Use</a></li>
+									<li><a href="/PrivacyPolicy.asp">Privacy Policy</a></li>
+								</ul>
+							</li>
+							<li>
+								<h3>Customer Service</h3>
+								<ul>
+									<li><a href="/FastFind.asp">Fast Find</a></li>
+									<li><a href="/ContactUs.asp">Contact Us</a></li>
+									<li><a href="/FindAStore.asp">Find a Store</a></li>
+									<li><a href="/SignUp.asp">E-mail Sign Up</a></li>
+                                    <li><a href="/FAQs.asp">FAQs</a></li>
+                                    <li><a href="/documents/CanadianTireCustomerServiceAccessibilityPolicy.pdf" target="_blank">Customer Service Accessibility Policy PDF(350KB)</a></li>
+								</ul>
+							</li>
+							<li>
+								<h3>Shipping &amp; Returns</h3>
+								<ul>
+									<li><a href="/ShippingPolicy.asp">Shipping Policy</a></li>
+									<li><a href="/returnPolicy.asp">Returns Policy</a></li>
+									<li><a href="/DeliveryInformation.asp">Delivery Information</a></li>
+									<li><a href="/Guarantee.asp">100% Guarantee</a></li>
+								</ul>
+							</li>
+							<li class="last">
+								<h3>Related Sites</h3>
+								<ul>
+									<li><a href="http://www.imagewear.ca" target="_blank">Imagewear</a></li>
+									<li><a href="http://www.lequipeur.com" target="_blank">L'Equipeur</a></li>
+									<li><a href="http://www.canadiantire.ca" target="_blank">Canadian Tire</a></li>
+									<li><a href="http://www.canadiantire.ca" target="_blank"><img src="/images/css/ct-family-logo.png" alt="Canadian Tire Family of Canadian Retailers" class="ct_family_logo"></a></li>
+                                    <li><a href="/jumpstart.asp"><img src="/images/JumpstartMainPageButton.png" alt="Jumpstart" class="js_logo"></a></li>
+                                    <!--http://mediaservicesgroup.net/marks/ecast/jstart_ecast/index.html-->
+								</ul>
+							</li>
+						</ul>
+						<div id="copyright">©2011 Mark's Work Wearhouse. All Rights Reserved.</div>
+					</div>
 				</div>
-			
-				<div id="nav_footer">
-					<table cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td><a target="_top" href="http://www2.marks.com/TermsOfUse.asp">terms of use</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/Privacy.asp">privacy</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/CSRHome.asp">ethical sourcing program</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/ReturnPolicy.asp">return policy</a></td>
-						</tr>
-					</tbody></table>
-				</div>
+				<div id="footer_bottom_shadow"></div>
 			</div>
-		
-		
-				
-		</div> <!-- end container -->
-
-		<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-			var pageTracker = _gat._getTracker("UA-4988459-1");
-			pageTracker._initData();
-			pageTracker._trackPageview();
-		</script>
-		<script type="text/javascript">
-			var addthis_config = {
-				data_track_clickback: true,
-			    data_ga_tracker: pageTracker
-			}
-			var addthis_share = {
-				  templates: { twitter: 'check out {{title}} @ {{url}} from @MarksWW' }
-				}
-		</script>
-		
-		<!-- Begin comScore Tag -->
-		<script>
-		  var _comscore = _comscore || [];
-		  _comscore.push({ c1: "2", c2: "6035827" });
-		  (function() {
-		    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-		    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-		    el.parentNode.insertBefore(s, el);
-		  })();
-		</script>
-		<noscript>
-		  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035827&cv=2.0&cj=1" />
-		</noscript>
-		<!-- End comScore Tag -->
+		</div>
 	
+		
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+
+  
+
+
+  _gaq.push(['_setAccount', 'UA-4988459-3']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
 
 	
-	<div id="fancy_overlay"></div><div id="fancy_wrap"><div class="fancy_loading" id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg fancy_bg_n"></div><div class="fancy_bg fancy_bg_ne"></div><div class="fancy_bg fancy_bg_e"></div><div class="fancy_bg fancy_bg_se"></div><div class="fancy_bg fancy_bg_s"></div><div class="fancy_bg fancy_bg_sw"></div><div class="fancy_bg fancy_bg_w"></div><div class="fancy_bg fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div></div></div></div></body></html>
+	
+	
+
+	</body></html>
