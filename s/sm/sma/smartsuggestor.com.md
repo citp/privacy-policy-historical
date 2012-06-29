@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the smartsuggestor.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621023212id_/http%3A//www.smartsuggestor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsuggestor.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629072829id_/http%3A//www.smartsuggestor.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Legal
+# Privacy Policy - Smart Suggestor Web Browser Add-on
 
 ## Privacy Policy 
 
-This policy describes how and why THINK TANK LABS LLC. Incorporated in THE UNITED STATES ("dba SMART SUGGESTOR") collects data from users and website visitors to SMART SUGGESTOR’s website (HTTP://WWW.SMARTSUGGESTOR.COM), and how that data will be used. Think Tank Labs is committed to respecting the privacy of non-personal identifiable data gathered. Typically, this information is collected to:-
+This policy describes how and why THINK TANK LABS LLC. Incorporated in THE UNITED STATES ("dba SMART SUGGESTOR") collects non-personally identifable data from users and website visitors to SMART SUGGESTOR’s website (HTTP://WWW.SMARTSUGGESTOR.COM), and how that data will be used. Think Tank Labs is committed to respecting the privacy of non-personal identifiable data gathered. 
 
 #### Use of Data
 
-SMART SUGGESTOR uses data collected from users and website visitors in order to:
+SMART SUGGESTOR uses non-personally identifable data collected from users and website visitors in order to:
 
 -To improve the quality and functionality of the Software and the website, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for other internal and statistical purposes;  
 -To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages and you visit and online services that you use;  
