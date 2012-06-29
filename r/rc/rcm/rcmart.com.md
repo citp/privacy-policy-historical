@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcmart.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605114022id_/http%3A//www.rcmart.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcmart.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629023052id_/http%3A//www.rcmart.com/privacy.php) for the most accurate reproduction.*
 
-# DINBALL rcMart
+# RCMart.com
 
 Our Pledge to You, Our Customers 
 
