@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypable.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202173344id_/http%3A//www.hypable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypable.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629165418id_/http%3A//www.hypable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hypable
+# Privacy Policy • Hypable
 
 **Personal Information  
 **  
@@ -54,7 +54,7 @@ If you do not want information collected through the use of cookies, there is a 
 
 **Advertising**
 
-In addition to possible online banner advertisements displayed by Hypable, Hypable may allow other companies, called third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+In addition to possible online banner advertisements displayed by Hypable, Hypable may allow other companies, called third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Links to Other Sites**
 
@@ -71,6 +71,3 @@ In case you wish to correct, update, or remove your personal information, we wil
 **Acceptance of These Terms**
 
 By using this Site, you signify your consent to the Hypable Privacy Policy. If you do not agree to this policy, please do not use our site(s). Your continued use of our site(s) following the posting of changes to these terms will mean you accept those changes.
-
-  
-
