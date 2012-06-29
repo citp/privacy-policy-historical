@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gadgetfolder.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227214716id_/http%3A//www.gadgetfolder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetfolder.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629055827id_/http%3A//www.gadgetfolder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gadget Folder Page Free Gadget Review
+# Privacy Policy | Page GadgetFolder.Com
+
+## Privacy Policy
 
 **GadgetFolder.Com Privacy Statement**
 
@@ -46,3 +48,5 @@ If you have any questions regarding our privacy policy, please contact us.
 Stay Updates with this Blog. Get Free email newsletter updates, **Enter your Email here:**
 
 Don't forget to confirm your email subcription
+
+[](https://plus.google.com/117071497990214841121?prsrc=1) [](http://www.facebook.com/gadgetfoldercom) [](http://twitter.com/gadgetfolder) [](http://feeds.feedburner.com/gadgetfolder)
