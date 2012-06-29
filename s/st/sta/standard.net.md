@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standard.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122126id_/http%3A//www.standard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629035924id_/http%3A//www.standard.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Standard-Examiner
 
@@ -96,4 +96,4 @@ Users of our site are notified when their information is being collected by any 
 
 If we decide to change our privacy policy, we will post those changes on our home page so our users are aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
-This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+This Web site uses services provided by NewsRight. NewsRight collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of NewsRight. Please refer to the NewsRight privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
