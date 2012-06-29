@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221192837id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629131317id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.*
 
-# SpiceJet Privacy Policy | SpiceJet Corporate Information | SpiceJet Airlines
+# Low Cost Air Tickets, International Flight Tickets, Airline Tickets to India, Cheap Flights | SpiceJet Airlines
 
 We, at SpiceJet, value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web site. 
 
