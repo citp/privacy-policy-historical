@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearbooks.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222150304id_/http%3A//www.clearbooks.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearbooks.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629031819id_/http%3A//www.clearbooks.co.uk/privacy) for the most accurate reproduction.*
 
 # Clear Books Privacy Policy » Clear Books | Online Accounting to free your time
 
@@ -62,4 +62,4 @@ As required by law Fubra is registered on the public register of data controller
 
 ### Contacting Clear Books
 
-If you have any questions about this privacy statement, the practices of this Website, or your dealings with this Website, please [contact us](https://web.archive.org/web/20111222150304id_/http://www.clearbooks.co.uk/privacy/support/about/contact-us/).
+If you have any questions about this privacy statement, the practices of this Website, or your dealings with this Website, please [contact us](https://web.archive.org/web/20120629031819id_/http%3A//www.clearbooks.co.uk/support/about/contact-us/).
