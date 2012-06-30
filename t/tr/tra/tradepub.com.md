@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204401id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113314id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
 
 # Free Business, Computer, Engineering and Trade Magazines, White Papers, Reports, and eBooks
 
 TradePub.com Privacy Policy   
----  
 | 
 
 NetLine Corporation is committed to protecting your privacy while on TradePub.com and our branded websites. Please read our policy to understand how your personal information will be used while on our sites and how we work to make your online experience with us secure.   
