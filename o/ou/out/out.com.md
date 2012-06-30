@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209172226id_/http%3A//www.heremedia.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630023421id_/http%3A//www.heremedia.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Here Media
 
@@ -51,4 +51,4 @@ Due to changes in legislation, best practices, or enhancements to functionality 
 
 Here Media Inc    |    10990 Wilshire Boulevard, Penthouse    |    Los Angeles, CA 90024    |    Phone: (310) 806-4288    |    Fax: (310) 806-4268 
 
-© 2011, Here Media Inc. All Rights Reserved.
+© 2012, Here Media Inc. All Rights Reserved.
