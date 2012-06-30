@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tadawulfx.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524035034id_/http%3A//www.tadawulfx.com/public/about-tdfx/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadawulfx.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630164744id_/http%3A//www.tadawulfx.com/public/about-tdfx/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Online Forex Broker Tadawul FX
 
