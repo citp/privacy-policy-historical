@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the voicedailydeals.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227155802id_/http%3A//www.voicedailydeals.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicedailydeals.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630135755id_/http%3A//www.voicedailydeals.com/pages/privacy) for the most accurate reproduction.*
 
 # VOICE Daily Deals - Privacy Policy
 
 ## Voice Daily Deals
 
-This Privacy Policy is effective as of May 24, 2011
+This Privacy Policy is effective as of January 9th, 2012
 
 This Privacy Policy describes the practices that Voice Daily Deals ("Voice Daily Deals") follows with respect to the collection, maintenance and use of information submitted on deals.villagevoice.com (the "Site"). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of Voice Daily Deals. By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us.
 
@@ -36,7 +36,7 @@ We do not and cannot use cookies or IP address tracking to retrieve personally i
 
 ## Use and Disclosure of Information
 
-We maintain and use personally identifiable information for the purpose or purposes for which it is provided. For example, we may maintain and use personally identifiable information to send newsletters and text messages that you have opted to receive; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor.
+We maintain and use personally identifiable information for the purpose or purposes for which it is provided. For example, we may maintain and use personally identifiable information to send newsletters and text messages; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor. If you do not wish to receive these communications, you may opt-out or unsubscribe by updating your preferences in your profile.
 
 We may also maintain and use your personally identifiable information to attribute your comments, letters to the editor and/or other submissions to the Site to you. As has traditionally been the case with our print editions, we may require that you supply certain information to us (such as your real name, daytime telephone number and/or e-mail address) in connection with comments and other submissions to the Site. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us comments or other submissions, we reserve the right to publish them in print or display them on this Site in full or in edited form. We normally honor requests to withhold your name and address when provided in connection with comments and other submissions, both in print and on-line, but we reserve the right to use, discuss and report facts that we consider newsworthy relating to submissions even if it might reveal or tend to reveal the poster's identity.
 
