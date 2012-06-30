@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227060113id_/http%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630061011id_/http%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eHealthInsurance
 
 ###   eHealthInsurance's Privacy Pledge
 
-[](http://www.truste.org/ivalidate.php?url=www.ehealthinsurance.com&sealid=101)
+[ ](https://privacy.truste.com/privacy-seal/eHealthInsurance-Services,-Inc-/validation?rid=67cffd36-31f2-4567-beea-4b1fe294b5f8 "TRUSTe online privacy certification")
 
 At eHealthInsurance, we are strongly committed to protecting your privacy. To serve as your licensed insurance agent, we will ask you to provide us with personal information about you. We only use your personal information to help you find and, if you choose to do so, apply for health insurance and other products that may be of interest to you and your family. **We do not sell, trade or give away your personal information to anyone.** Additionally, we use industry-leading technologies to ensure the security and confidentiality of the personal information you provide us.
 
-We are also a registered licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we regularly have our information privacy practices reviewed and audited for compliance by TRUSTe. 
+eHealthInsurance has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the Web sites (with the URL of either [www.ehealthinsurance.com](https://web.archive.org/web/20120630061011id_/http%3A//www.ehealthinsurance.com/about-ehealth/www.ehealthinsurance.com), [www.ehealth.com](https://web.archive.org/web/20120630061011id_/http%3A//www.ehealthinsurance.com/about-ehealth/www.ehealth.com) or [www.ehealthmedicare.com](https://web.archive.org/web/20120630061011id_/http%3A//www.ehealthinsurance.com/about-ehealth/www.ehealthmedicare.com)) you are currently visiting.and does not cover information that may be collected through any mobile applications or behind the log in on our website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [ privacy@ehealthinsurance.com](mailto:privacy@ehealthinsurance.com). If you are not satisfied with our response you can contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>
 
 You can find out more about our commitment to privacy and how your personal information is collected and used in the eHealthInsurance Privacy Policy below.
 
@@ -39,7 +39,7 @@ We may disclose or report your personal information when we believe, in good fai
   3. We collect personal information in the normal course of business in order to process your insurance application and to serve you better. 
     * #### Registering With Us.
 
-We begin collecting personal information from you when you register with us. You may register with us through our website by entering your email address and, if you are creating an account, choosing your password. Under our current process, you must create an account before starting an application for a health insurance or other product offered on our website. You may also register with us through our Customer Care Center by providing certain personal or contact information (e.g., email address, phone number, gender, date of birth) to one of our customer service representatives.
+We begin collecting personal information from you when you register with us. You may register with us through our website by entering your email address and, if you are creating an account, choosing your password. You may also register with us through our Customer Care Center by providing certain personal or contact information (e.g., email address, phone number, gender, date of birth) to one of our customer service representatives.
 
     * #### Applying for Health Insurance and Other Products.
 
@@ -60,7 +60,8 @@ We or our wholly-owned subsidiaries may contact you to survey your satisfaction 
   5. We protect the confidentiality and security of your personal information.
     * We maintain physical, electronic and procedural safeguards to protect your personal information. For a more detailed discussion of the electronic safeguards on our website, please see below.
   6. We continue to evaluate our efforts to protect your personal information and make every effort to keep your personal information accurate and up to date.
-    * If you want to correct or update your contact information, you may contact us by email at [customerservice@ehealthinsurance.com](mailto:customerservice@ehealthinsurance.com) or by mail at Customer Service, eHealthInsurance.com, 11919 Foundation Place Suite 100 Gold River, CA 95670. Additionally, you may update your name, email address and password by clicking on the "My Account" link on this website and signing in using your email address and password.
+    * If your personally identifiable information changes, If you want to correct or update your contact information, you may contact us by email at [customerservice@ehealthinsurance.com](mailto:customerservice@ehealthinsurance.com) or by mail at Customer Service, eHealthInsurance.com, 11919 Foundation Place Suite 100 Gold River, CA 95670. Additionally, you may update your name, email address and password by clicking on the "Sign in" or "My Account" link on this website and signing in using your email address and password.
+    * We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
     * Please note that once your application has been submitted to your chosen health insurance company, you may have to contact the insurance company directly to update your application.
   7. We will provide notice of changes in our information privacy practices.
     * If we are going to use your personal information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your personal information in this different manner. In addition, if we make any material changes to our information privacy practices that do not affect the personal information already stored in our database, we will post a prominent notice in the privacy portion of our website notifying users of the change.
@@ -69,7 +70,7 @@ We or our wholly-owned subsidiaries may contact you to survey your satisfaction 
     * If you want to opt out of these surveys and/or notices, you may contact us by email at [customerservice@ehealthinsurance.com ](mailto:customerservice@ehealthinsurance.com)or by mail at Customer Service, eHealthInsurance.com, 11919 Foundation Place Suite 100 Gold River, CA 95670.
     * Please note that you will still receive communications from us regarding your insurance quote, application or policy even if you opt out of receiving our surveys and/or notices of additional products and services. 
   9. We are available to answer any questions you may have about our privacy policy or our information privacy practices.
-    * If you have any questions, please email us at [privacy@ehealthinsurance.com](mailto:privacy@ehealthinsurance.com). 
+    * If you have any questions, please email us at[ privacy@ehealthinsurance.com](mailto:privacy@ehealthinsurance.com). We will respond to your questions within 30 days. 
     * If we have not responded to your inquiry, or if your inquiry has not been addressed to your satisfaction, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> .
   10. This privacy policy applies to this website, and may not apply to other websites that are owned and/or operated by eHealthInsurance.
     * The information privacy practices described in this privacy policy apply only to applications initiated on this website. Accordingly, all of the personal information you submit to us after initiating an application on this website shall be governed by this privacy policy. Additionally, all of the anonymous information collected from this website shall be governed by this privacy policy. 
@@ -95,7 +96,7 @@ We or our wholly-owned subsidiaries may contact you to survey your satisfaction 
 
 "Clear gifs" are tiny graphics with a unique identifier, similar in function to cookies, that are used to track the online movements of website users. The main difference between the two is that clear gifs are invisible on the page and are much smaller than cookies. We do not collect any personal information from clear gifs. Further, no information we collect from clear gifs can be linked back to your personal information. 
 
-We use third party web analytics services to track and analyze anonymous usage and volume statistical information from visitors to help us administer our website, improve our website's performance and to report website traffic. These web analytics services use cookies, clear gifs and other web monitoring technologies to help track visitor behavior on our behalf. These services do not use these technologies to collect any personally identifiable information from website visitors. 
+We use third party web analytics services to track and analyze anonymous usage and volume statistical information from visitors to help us administer our website, analyze trends,improve our website's performance and to report website traffic. These web analytics services use cookies, clear gifs, log files and other web monitoring technologies to help track visitor behavior on our behalf. These services do not use these technologies to collect any personally identifiable information from website visitors. 
 
 #### Browsers and Internet Security
 
