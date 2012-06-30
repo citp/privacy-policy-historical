@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229201608id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630181618id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,13 +58,19 @@ By providing personal information on our site, you are giving consent to the Mus
 
 If you decide to give us personal information for a particular purpose, you may be contacted about other Museum programs or opportunities to support Museum programs. For example, if you do one of the activities on our Web site, such as post a comment, you may be given the option to subscribe to our e-newsletters or to donate funds in support of Museum programs. You will always have an immediate opportunity to decline further communication.
 
+If you make a tribute gift, the Museum may provide your name and postal address to the family of the person who was honored by your gift. If you wish that your name or address not be shared for this purpose, please contact our Membership Division at the telephone number or email address given below.
+
 Donors who have provided the Museum with an e-mail address or whose postal address is matched to an e-mail address will receive the Museum’s general news e-newsletter. If you wish to decline the e-communication benefits, please follow one of the opt-out procedures described below.
 
 Our site has pages on which members of the public are invited to comment or provide feedback, such as message boards. Any information (comments, photos, sounds) posted on these pages becomes public information. Please exercise caution when deciding to disclose personal information.
 
 ## Children’s Privacy Policy
 
-The Museum may occasionally provide an online program for children under the age of 13, and collect personal information from these children to enable their participation in the program. To register for such programs, a child under the age of 13 may have to provide an e-mail address that we will store and use only for the purposes of the program. The child will also have to complete a “parent’s or teacher’s e-mail approval” box so that the Museum may notify the adult of the registration and the Museum’s privacy policy. That e-mail will also allow the adult to consent to the Museum’s collection and use of the child’s personal information for the program, or to request that the child’s registration be revoked and personal information deleted.
+Some of the Museum’s online programs and applications may offer educational content of interest to children under the age of 13, and the Museum may occasionally receive personally identifiable information from a child in order to respond to a one-time request or communication. We do not use the information for any other purpose and will delete the information as soon as practical. For example, a child may use his or her e-mail address to send us a photograph for a Museum Web page for students. We will use the e-mail address to send the child confirmation that we have received the photo and the e-mail address will then be deleted.
+
+The Museum may occasionally provide an online interactive program for children under the age of 13, and collect personal information from these children to enable their ongoing participation in the program. To register for such programs, a child under the age of 13 may have to provide an e-mail address that we will store and use only for the purposes of the program. The child will also have to complete a “parent’s or teacher’s e-mail approval” box so that the Museum may notify the adult of the registration and the Museum’s privacy policy. That e-mail will also allow the adult to consent to the Museum’s collection and use of the child’s personal information for the program, or to request that the child’s registration be revoked and personal information deleted.
+
+If the Museum becomes aware that a child has posted personally identifiable information on any of our Web pages, we will delete the information as soon as practical.
 
 The Museum is concerned about protecting children’s privacy, and we encourage parents to contact us with any questions or concerns they may have via the Web form at <http://www.ushmm.org/museum/contact/>. Parents may also use this Web address to request the deletion of any collected personal information about their children under the age 13.
 
@@ -116,7 +122,7 @@ If you wish to review or change your contact information for the purposes of you
 If you have made a gift to the Museum, you may request a review of or correction to your account information in one of two ways.
 
   1. Send an e-mail to [Membership@ushmm.org](mailto:%20Membership@ushmm.org)
-  2. Call our Member Services line at (202) 488-2642
+  2. Call our Member Services line at 1-866-998-7466
 
 
 
@@ -124,7 +130,7 @@ If you are a member or donor, you can choose to limit the postal mail exchange o
 
   1. Indicate “do not exchange” or “do not rent” on any of your membership mail packages and return in the pre-addressed envelope.
   2. Send an e-mail to [Membership@ushmm.org](mailto:%20Membership@ushmm.org)
-  3. Call our Member Services line at (202) 488-2642.
+  3. Call our Member Services line at 1-866-998-7466.
 
 
 
