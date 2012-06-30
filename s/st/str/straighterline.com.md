@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215554id_/http%3A//www.straighterline.com/help/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233322id_/http%3A//www.straighterline.com/help/privacy-policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - StraighterLine
+# StraighterLine Privacy Policy - StraighterLine
 
 Usage Eligibility
 
