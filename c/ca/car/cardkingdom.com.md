@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardkingdom.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117131950id_/http%3A//www.cardkingdom.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardkingdom.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225627id_/http%3A//www.cardkingdom.com/static/privacy) for the most accurate reproduction.*
 
 # Magic The Gathering, magic cards, singles, card lists, deck ideas.
 
@@ -6,7 +6,7 @@
 
 Card Kingdom takes your privacy very seriously. We only use personal information collected on our checkout form for order completion and for contacting customers regarding issues with order completion. 
 
-You may receive an email newsletter containing new products or site updates if you have subscribed to our newsletter via our homepage. You will also receive our newsletter if you have selected the email newsletter preference at checkout. If you have received unwanted email from Card Kingdom, please [click here](https://web.archive.org/web/20111117131950id_/http%3A//www.cardkingdom.com/static/index.php?sid=425942681&main=maillist&mode=unsubscribe) to unsubscribe from all Card Kingdom email lists. 
+You may receive an email newsletter containing new products or site updates if you have subscribed to our newsletter via our homepage. You will also receive our newsletter if you have selected the email newsletter preference at checkout. If you have received unwanted email from Card Kingdom, please [click here](https://web.archive.org/web/20120630225627id_/http%3A//www.cardkingdom.com/static/index.php?sid=425942681&main=maillist&mode=unsubscribe) to unsubscribe from all Card Kingdom email lists. 
 
 Card Kingdom will never under any circumstance sell or distribute the email address or personal information of any customer. 
 
