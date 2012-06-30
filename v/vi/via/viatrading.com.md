@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viatrading.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117235459id_/http%3A//www.viatrading.com/category.jhtm%3Fcid%3D333) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viatrading.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630185404id_/http%3A//www.viatrading.com/wholesale/333/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Via Trading Privacy Policy
 
