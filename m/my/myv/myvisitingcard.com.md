@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvisitingcard.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214559id_/http%3A//www.myvisitingcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvisitingcard.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233419id_/http%3A//www.myvisitingcard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Breaking News
 
