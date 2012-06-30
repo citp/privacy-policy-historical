@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgblog.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213211919id_/http%3A//www.omgblog.com/2003/07/_omg_blog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgblog.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630022245id_/http%3A//www.omgblog.com/2003/07/_omg_blog_privacy_policy.php) for the most accurate reproduction.*
 
 # !! omg blog !! Privacy Policy [!! omg blog !!]
 
@@ -14,6 +14,8 @@ If you do not wish to receive such mailings, please let us know by clicking the 
 !! omg blog !! is protected by federal copyright law and material published in print or online may not be reproduced in whole or part without the permission of the publishers. !! omg blog !! assumes no responsibility for unsolicited materials submitted for publication. !! omg blog !! is also not responsible for claims made by advertisers or materials provided by advertisers or their agents.
 
 If you have questions or comments regarding !! omg blog !! privacy practices, you can contact us at "tips [at] omgblog [dot] com".
+
+[](http://pinterest.com/pin/create/button/?url=http://www.omgblog.com/2003/07/_omg_blog_privacy_policy.php&media=&description=!!%20omg%20blog%20!!%20Privacy%20Policy)
 
 **» READ THESE RELATED ENTRIES:**  
 [OMG you've got mail!](http://www.omgblog.com/2005/07/omg_youve_got_mail.php)  
