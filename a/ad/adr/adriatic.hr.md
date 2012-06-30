@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227155723id_/http%3A//www.adriatic.hr/zastita_privatnosti.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630122054id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
 
-# Adriatic.hr - Privacy policy
+# Privacy Policy » Useful Info » Adriatic.hr
 
 Privacy statement serves us for protection of privacy of our users. You can look at Adriatic.hr pages for free, without any commitment of revealing your identity or leaving any kind of your private data. In case that you decide to use our services, it's necessary to leave us your personal data, so that we could complete your reservation and to lease asked service. Your personal data remains protected. We assure you that we are collecting only information that we need to complete our procedure of reservation of our service. In that process we are using only information that we receive directly from you.
 
@@ -15,6 +15,8 @@ We are pointing out that our Web server does not collect your E-mail address or 
   * When you visit our pages you can complete our survey, which we are using to develop design of our pages using your answers. Completing surveys is optional, so you are completing them with your free will. You don't have to answer the asked questions, and all the data you have left is remaining secret. Only when we want to analyze our survey we are giving group results of survey to the third parties.
   * Occasionally we organize games and contests on our Web pages. Their rules are available on our site while the game or contest is on. When you are signing-in for the contest, you are automatically agreeing with published rules of that contest. We want to point out that one of the rules of the games or contests is a publication of the name of the winner, even without asking for her or his permission.
 
+
+
 **Use of collected information**
 
 We use your personal information:
@@ -23,6 +25,8 @@ We use your personal information:
   * to send you on your home address all the relevant material and information about selected service (direction how to reach your destination, voucher...).
   * to pass your personal data to a person who will give you directly the service for which you have made a reservation, even before consumption of the selected service. Through that direct contact you will be able to solve all dilemmas or misunderstandings that you have about the service in the best possible way.
   * to inform you occasionally about changes in our offer, special rates, upgraded information...and to provide you with all the information about the growth of our site.
+
+
 
 We are not going to use collected information for purposes that are not mentioned in this statement. Your personal data, travel agency "Adriatic.hr" does not sell, trade, rent or give to third parties, unless it's necessary for the procedure of the realization of selected service.
 
