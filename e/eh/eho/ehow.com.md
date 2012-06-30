@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023151259id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630180333id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eHow.com
 
@@ -81,7 +81,7 @@ Any transfer of your PII is done in circumstances ensuring that your data is pro
 
 We utilize the self-assessment approach to assure our compliance with our privacy statement. We periodically verify that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Principles. We encourage interested persons to raise any concerns with us using the contact information below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this policy.
 
-**Privacy Concerns**. If you have any concern or complaint about privacy at the Site, please contact us at Demand Media, Inc. Legal Department, 15801 NE 24th Street, Bellevue, WA 98008, U.S.A or email us at [legal@demandmedia.com](mailto:legal@demandmedia.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns. In the unfortunate and unlikely event that we cannot resolve your concerns, we have contracted with BBBOnline as a dispute resolution provider. You can contact the BBBOnline at <http://www.bbbonline.org/consumer/complaint.asp> and follow their guidelines for initiating their dispute resolution procedures. 
+**Privacy Concerns**. If you have any concern or complaint about privacy at the Site, please contact us at Demand Media, Inc. Legal Department, 5808 Lake Washington Blvd. Ste. 300, Kirkland, WA 98033, U.S.A or email us at [legal@demandmedia.com](mailto:legal@demandmedia.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns. In the unfortunate and unlikely event that we cannot resolve your concerns, we have contracted with BBBOnline as a dispute resolution provider. You can contact the BBBOnline at <http://www.bbbonline.org/consumer/complaint.asp> and follow their guidelines for initiating their dispute resolution procedures. 
 
 **Customer Services**. For customer service matters (including questions relating to this Policy), you may email via our [contact form](http://help.ehow.com/home).
 
