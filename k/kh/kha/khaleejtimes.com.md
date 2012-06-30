@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khaleejtimes.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216110039id_/http%3A//www.khaleejtimes.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khaleejtimes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630095645id_/http%3A//www.khaleejtimes.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Khaleej Times Home - No.1 News Website in Gulf for Breaking News, Views, Classified Ads, Sports, Business, City Times, UAE news, Jobs in Dubai, Used Cars, Gold Rates, Bank Rates, Forex, Property Search and all the latest top stories in Middle East region
+# Khaleej Times - Privacy Policy
 
 Khaleej Times is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Khaleej Times Web site (www.khaleejtimes.com) and governs data collection and usage. By using the Khaleej Times website, you consent to the data practices described in this statement.
 
