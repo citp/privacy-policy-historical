@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210738id_/http%3A//www.lta.org.uk/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630231938id_/http%3A//www.lta.org.uk/Footer/Privacy-Policy) for the most accurate reproduction.*
 
 # LTA - Privacy policy
 
