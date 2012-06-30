@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreeknitting.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210746id_/http%3A//www.allfreeknitting.com/index.php/hct/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreeknitting.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630231932id_/http%3A//www.allfreeknitting.com/index.php/hct/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeKnitting.com
 
@@ -203,12 +203,10 @@ Please Wait
 
 ##### Something worth saving?
 
-[Register now](https://web.archive.org/section/account/action/login) to:
+[Register now for FREE](https://web.archive.org/section/account/action/login) to:
 
-  * save all your favorite patterns
-  * add personal notes
-  * quickly reference your patterns
+  * SAVE all your favorite patterns
+  * ADD personal notes
+  * QUICKLY reference your patterns
 
-  
-  
----|---|---
+
