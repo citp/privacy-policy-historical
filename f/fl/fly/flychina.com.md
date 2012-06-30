@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126104451id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233519id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
 
 # FlyChina Privacy Statement
 
  | 
 
-This privacy policy covers the site www.flychina.com. Your privacy is important to us, by visiting the website you are accepting the practices described in the following Privacy Policy. To demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices. This Privacy policy is an integral part of our website and the services offered to you and cannot, in any way, be separated from the User Agreement, usage or transaction process. If you do not agree to our privacy policy in whole, you must not use our website. 
+This privacy policy covers the site www.flychina.com. Your privacy is important to us. By visiting the website you are accepting the practices described in the following Privacy Policy. To demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices. This Privacy policy is an integral part of our website and the services offered to you and cannot, in any way, be separated from the User Agreement, usage or transaction process. If you do not agree to our privacy policy in whole, you must not use our website. 
 
 **Information Collected Online About You and Information that you provide us.**
 
-When using FlyChina you provide your name, login name, password, address, telephone number, fax number, email address, credit card number and billing information. This information is collected for several reasons including but not limited to: (a) personal identification; (b) to complete air, hotel and car reservations; (c) to allow us to contact you for customer service; (d) customize the content of our site to meet your needs; and (e) make product improvements. Your email address is collected to send you an email confirming your reservation. You may receive faxes confirming your reservation. You may occasionally receive updates about special offers, new services, and other news items. However, you may always decline to receive these emails and fax messages. Please see our Opt Out policy described below. 
+When using FlyChina you provide your name, login name, password, address, telephone number, fax number, email address, credit card number and billing information. This information is collected for several reasons, including but not limited to: (a) personal identification; (b) to complete air, hotel and car reservations; (c) to allow us to contact you for customer service; (d) to customize the content of our site to meet your needs; and (e) to make product improvements. Your email address is collected to send you an email confirming your reservation. You may receive faxes confirming your reservation. You may occasionally receive updates about special offers, new services, and other news items. However, you may always decline to receive these emails and fax messages. Please see our Opt Out policy described below. 
 
 **Reservations**
 
-When using our site, we ask you to provide personally identifiable information. This information includes your name, home or work telephone number, fax number, email address, and your credit card number, expiration date and billing information. This information is used to process and book your reservation and to notify you by email, fax or telephone and is used to access to your reservation information. We may also ask you for personally identifiable information about other people for whom you are booking reservations. This information is to reserve the room with the hotel or other services. 
+When using our site, we ask you to provide personally identifiable information. This information includes your name, home or work telephone number, fax number, email address, and your credit card number, expiration date and billing information. This information is used to process and book your reservation and to notify you by email, fax or telephone and is used to access your reservation information. We may also ask you for personally identifiable information about other people for whom you are booking reservations. This information is to reserve a room with the hotel or other services. 
 
 **Cookies**
 
@@ -20,15 +20,15 @@ Cookies are small pieces of information stored on your computer tied to informat
 
 **Log Files**
 
-Like most standard Website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, diagnose problems with our servers and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Like most standard Website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, diagnose problems with our servers and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 **Advertisers and Third Party Intermediaries**
 
-Some of our business partners use cookies and log files on our site (for example, advertisers/links/banners). However, we have no access to or control over these. We use an outside credit card / bank processing and software companies to bill and provide user goods and services. These companies do not share or use personally identifiable information for any secondary purposes. This privacy policy covers FlyChina only and does not cover use of information by any others.
+Some of our business partners use cookies and log files on our site (for example, advertisers/links/banners). However, we have no access to or control over these. We use outside credit card / bank processing and software companies to bill and provide users goods and services. These companies do not share or use personally identifiable information for any secondary purposes. This privacy policy covers FlyChina only and does not cover use of information by any others.
 
 **Newsletter**
 
-If a user wishes to subscribe to our newsletter, we collect information such as name, address, telephone and email address. Users who no longer wish to receive our newsletter may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at customercare@FlyChina.com. 
+If a user wishes to subscribe to our newsletter, we collect information such as name, address, telephone and email address. Users who no longer wish to receive our newsletter may opt-out of receiving these communications by clicking a link in the email to unsubscribe.
 
 **Changing/Updating Information**
 
@@ -46,19 +46,19 @@ We provide information about your activities to the suppliers who fulfill your t
 
 **Affiliated Websites**
 
-If you were referred to FlyChina from another website, we may personally identifiable information about you to the referring website. We believes that the website companies from which you were referred to us are reputable companies, we have not placed limitations on the referring websites companies from using or disclosing your information without your permission.
+If you were referred to FlyChina from another website, we may provide personally identifiable information about you to the referring website. We believe that the online companies from which you were referred to us are reputable companies. We have not placed limitations on the referring websites from using or disclosing your information without your permission.
 
 **Opt-out**
 
-Our users may 'opt-out' of having their information used for purposes not directly related to our site or services. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at hqFlyChina.com. 
+Our users may 'opt-out' of having their information used for purposes not directly related to our site or services. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by clicking a link in the email to unsubscribe. 
 
 **Surveys & Contests **
 
-From time-to-time our site requests information from users via completely voluntary surveys or contests. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). This information will be used to notify the winners, award prizes, monitoring or improving the use and satisfaction of this website. We may use an intermediary to conduct these surveys or contests, they may not use user' personally identifiable information for any secondary purposes. 
+From time-to-time our site requests information from users via completely voluntary surveys or contests. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). This information will be used to notify the winners, award prizes, monitoring or improving the use and satisfaction of this website. We may use an intermediary to conduct these surveys or contests, but they may not use users' personally identifiable information for any secondary purposes. 
 
 **Security**
 
-FlyChina takes every precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line. Reservation order form asks users to enter sensitive information (such as credit card number and billing information), that information is encrypted and is protected with the best encryption software. 
+FlyChina takes every precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line. The reservation order form asks users to enter sensitive information (such as credit card number and billing information). That information is encrypted and is protected with the best encryption software. 
 
 **Contact Information**
 
