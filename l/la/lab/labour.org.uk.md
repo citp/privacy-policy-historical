@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231045714id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630035814id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | The Labour Party
+# Privacy | The Labour Party | The Labour Party
 
 **IP addresses and log file data**  
 The Labour Party site does not automatically capture or store personal information, other than logging the user's IP Address or the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. (If you are connected to the Internet you have an IP address, for example an IP address might read "154.198.99.9"). We also use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the site.
@@ -46,8 +46,8 @@ Our Data Protection Officer can be contacted at the following address: 
 
 Compliance Unit  
 Labour Party   
-39 Victoria Street  
+One Brewer's Green  
 London  
-SW1H 0HA
+SW1H 0RH
 
 We will continue to evaluate our efforts to protect your information and will update our privacy policy whenever necessary.
