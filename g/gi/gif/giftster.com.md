@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftster.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228001022id_/http%3A//www.giftster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftster.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113412id_/http%3A//www.giftster.com/privacy) for the most accurate reproduction.*
 
 # Giftster | privacy policy | free wish list, gift registry and event calendar for family and friends
 
@@ -10,7 +10,7 @@ We treat your information as we would want our information treated. That is the 
 
 ### Our Policy
 
-Giftster does not sell, rent, or loan any identifiable information regarding its customers to any third party. Any information you give us is held in strict confidence and security, and we will not use it in ways to which you have not consented. When you purchase products from Giftster or register at Giftster, we automatically place you on our list to receive e-mail regarding updates about new rates, special offers, new products and, new services. If you do not wish to receive e-mail updates, please send an e-mail to [support@Giftster.com](mailto:support@Giftster.com)
+Giftster does not sell, rent, or loan any identifiable information regarding its customers to any third party. Any information you give us is held in strict confidence and security, and we will not use it in ways to which you have not consented. When you register at Giftster, we automatically place you on our list to receive e-mail regarding updates about new features or to ask for your input. If you do not wish to receive e-mail updates, please send an e-mail to [support@Giftster.com](mailto:support@Giftster.com)
 
 ### Use of Information
 
