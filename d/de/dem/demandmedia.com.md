@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandmedia.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206053033id_/http%3A//www.demandmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandmedia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225903id_/http%3A//www.demandmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Demand Media
 
@@ -90,15 +90,6 @@ In compliance with the Safe Harbor Principles, Demand Media, Inc. commits to res
 The company complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>.   
 
 
-Demand Media, Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Demand Media, Inc., you may contact:  
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)  
-
+Demand Media, Inc. has further committed to refer unresolved privacy complaints under the US-EU [and EU-Swiss] Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Demand Media, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 Copyright © 2010. Demand Media, Inc.
