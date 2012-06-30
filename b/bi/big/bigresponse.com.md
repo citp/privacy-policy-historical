@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bigresponse.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226062016id_/http%3A//www.bigresponse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigresponse.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630062612id_/http%3A//www.bigresponse.com/privacy.php) for the most accurate reproduction.*
 
 # Email Marketing & Autoresponders - Big Response
+
+BigResponse will be discontinued on July 1st 2012. We recommend exporting your data and moving to a new system.
 
 This is the web site of **Big Response**.  
 
