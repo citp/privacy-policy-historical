@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationpackagestogo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232850id_/http%3A//vacationpackagestogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationpackagestogo.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101000id_/http%3A//vacationpackagestogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Vacation packages to go
 
@@ -21,10 +21,3 @@ When you contact Vacation packages to go online site, you will be asked to provi
 Opt-out provision when we first collect information about you, we will offer you the opportunity to opt-out of having any communication sent to you other than what is necessary for us to fulfill your travel requirements. (Except to the extent required by law, court order, or as requested by other government or law enforcement authority.) In addition, if you do not want Vacation packages to go to send you e-mail or postal mail about our products and services, you can opt-out at the time of registration or information collection. If, at a later date, you choose to have your name removed from our database, you can do so by sending e-mail to [contact@Vacationpackagestogo.com](mailto:contact@vacationpackagestogo.com).
 
 Safeguarding your personally identifiable information we will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of that personal information.
-
-   
----  
-   
-|   
----  
- 
