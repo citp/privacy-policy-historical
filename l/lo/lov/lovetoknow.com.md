@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovetoknow.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202210053id_/http%3A//www.lovetoknow.com/lovetoknow-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetoknow.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630162032id_/http%3A//www.lovetoknow.com/lovetoknow-privacy-policy.htm) for the most accurate reproduction.*
 
 # LoveToKnow Privacy Policy
 
