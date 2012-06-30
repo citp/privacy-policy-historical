@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collegenet.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617010749id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegenet.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630211813id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-(Last Updated: March 11, 2011)
+(Last Updated: June 21, 2012)
 
 ### Introduction
 
@@ -56,7 +56,7 @@ We use personal information that you provide to us to complete the transactions 
 
 We do not rent or sell personal information to third parties. We may disclose personal information that you provide to us in connection with USAcademy or our Scholarship Election System to the person or school that you designate. 
 
-When you provide information to us in forms that we host for client institutions, we transmit your personal information (excluding your electronic payment information, if applicable) to those parties identified in the applications, contributions, scholarships, or other forms you choose to submit. Those parties may initiate transmission of your data to third parties through CollegeNET-served technologies. We also disclose your electronic payment information to our payment processor in order to complete any online payment of admission application fees, contributions, or other fees to the parties you have selected. 
+When you provide information to us in forms that we host for client institutions, we transmit your personal information (excluding your electronic payment information, if applicable) to those parties identified in the applications, contributions, scholarships, or other forms you choose to submit and, if applicable, to the third party service providers specified by the client institutions. Client institutions may initiate transmission of your data to third parties through CollegeNET-served technologies. We also disclose your electronic payment information to our payment processor in order to complete any online payment of admission application fees, contributions, or other fees to the parties you have selected. 
 
 Except as set forth in this Statement, CollegeNET will not disclose your personal information to third parties. CollegeNET may disclose your personal information to third parties when CollegeNET reasonably believes it is necessary to do so in order to prevent abuse, fraud, or unlawful use of our Web sites or our services, protect our rights, safety, or property, or protect the rights, safety, or property of our client institutions or other end users; or when we believe doing so is necessary to comply with the law. We also may disclose personal information in connection with any merger, acquisition, or sale of our assets, as well as in the event of an insolvency, bankruptcy, or receivership in which personal information could be transferred to third parties as part of our business. Finally, we may also disclose personal information to third party vendors and service providers who assist us in performing internal functions necessary to operate our business (for example, analyzing data, processing electronic payments, and fulfilling or delivering orders or other materials). 
 
