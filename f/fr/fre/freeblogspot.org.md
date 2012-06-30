@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeblogspot.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230235507id_/http%3A//freeblogspot.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeblogspot.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630170658id_/http%3A//freeblogspot.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Create a free Blog Free Blogs Websites Blogging Sites
 
@@ -38,5 +38,3 @@ FreeBlogSpot.org may contain links to outside sites. FreeBlogSpot.org is not acc
 Privacy policy updates or other changes
 
 As FreeBlogSpot.org progresses, or situations in development arise, changes to our privacy policy may come about. Should changes be made, we will post them in complete form on our site to make FreeBlogSpot.org users conscious of what the changes are. This will allow the FreeBlogSpot.org community to continually become aware of what information FreeBlogSpot.org collects, how it is used, and when it would be disclosed. All FreeBlogSpot.org bloggers and users are bound by any minor changes to the policy when they use the site after those changes have been posted. What’s more, if we are going to use users’ individually identifiable information in a method considerably different from what is stated at the time of compilation, we will notify by posting a notice on our website for an adequate amount of time or through email communications.
-
-[Report This Post](http://freeblogspot.org/?moderation_action=report_form&object_type=post&object_id=565&width=250&height=300 "Report This Post")
