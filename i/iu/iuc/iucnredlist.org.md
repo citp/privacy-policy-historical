@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iucnredlist.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212656id_/http%3A//www.iucnredlist.org/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iucnredlist.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110220id_/http%3A//www.iucnredlist.org/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,15 +6,15 @@ IUCN is committed to ensuring that your privacy is protected. This privacy polic
 
 ## Information
 
-In some areas of the Red List website we ask you to provide information in order for you to become a registered User of the data export function, or information is provided via the Feedback form. When you do so, we ask you to give us your name, e-mail address and/or other personal information.
+In some areas of The IUCN Red List website we ask you to provide information in order for you to become a registered User of the data export function, or information is provided via the Feedback form. When you do so, we ask you to give us your name, e-mail address and/or other personal information.
 
 ## Use of data
 
-The personal information provided when registering as a User gives us a better profile of our user community and some idea of how the Red List data are being used. The Feedback form enables us to correct and improve the information presented. We may use your personal data to contact you about any feedback you have provided, or to follow-up on particular data exports you may have requested.
+The personal information provided when registering as a User gives us a better profile of our user community and some idea of how the IUCN Red List data are being used. The Feedback form enables us to correct and improve the information presented. We may use your personal data to contact you about any feedback you have provided, or to follow-up on particular data exports you may have requested.
 
 ## Third parties
 
-We may share your data (in particular any feedback) with our partners who are responsible for some of the information presented on the Red List website. If you do not wish us to use this information in this way please e-mail us at [redlist@iucn.org](mailto:redlist@iucn.org).
+We may share your data (in particular any feedback) with our partners who are responsible for some of the information presented on The IUCN Red List website. If you do not wish us to use this information in this way please e-mail us at [redlist@iucn.org](mailto:redlist@iucn.org).
 
 ## To alter your details
 
