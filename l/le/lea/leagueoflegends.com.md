@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagueoflegends.com privacy policy that was archived on 2011-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110719002514id_/http%3A//www.leagueoflegends.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueoflegends.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105505id_/http%3A//www.leagueoflegends.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LoL - League of Legends
 
@@ -76,9 +76,9 @@ Riot Games will send its notice to the address it has on file to the extent that
 
 If you are a resident of any country that is a current member of the European Union, should you have a dispute or claim arising out of, or relating to, this Policy, you may report your claim to the European Union Data Protection Authorities located in your jurisdiction.
 
-## VII. EUROPEAN COMMISSION’S DIRECTIVE ON DATA PROTECTION - SAFE HARBOR
+## VII. SAFE HARBOR CERTIFICATION
 
-We adhere to the Safe Harbor principles established by the U.S. Department of Commerce in consultation with the European Union to comply with the European Commission’s Directive on Data Protection.
+Riot Games complies with the U.S. - EU Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries and Switzerland. Riot Games has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Riot Games’ certification, please visit <http://www.export.gov/safeharbor>.
 
 ## VIII. CONTACT INFORMATION AND POLICY UPDATES
 
