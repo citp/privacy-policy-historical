@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223749id_/http%3A//www.food52.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234854id_/http%3A//www.food52.com/home/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - food52 - food community, recipe search and cookbook contests
+# Privacy Policy - Food52 - food community, recipe search and cookbook contests
 
 ### Privacy Policy
 
