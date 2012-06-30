@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the carbonated.tv privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231210953id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carbonated.tv privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630231908id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/prototype.js?3.0.17"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=143827429007224"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.carbonated.tv/scripts/prototype.js?3.0.18"></script>
 	
-<link rel="SHORTCUT ICON" href="/images/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/css/carbo_style.css?3.0.17"><link rel="stylesheet" type="text/css" href="/css/topNav.css?3.0.17"><link rel="stylesheet" type="text/css" href="/css/paging.css?3.0.17"><title>
+<link rel="SHORTCUT ICON" href="http://www.carbonated.tv/images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/carbo_style.css?3.0.18"><link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/topNav.css?3.0.18"><link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/paging.css?3.0.18"><title>
 			Carbonated TV </title>
 		
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,6 +16,7 @@
 <meta name="google-site-verification" content="PwcIN9sg72wkXT6KPpxwY4u3J8-i2St-L3WM_6hKpUk">		
 		<meta property="og:title" content="Breaking News, Entertainment, Politics, International, Videos, Stories and Blogs on  Carbonated TV">
     	<meta property="og:site_name" content="Carbonated.TV">
+    	<meta property="fb:app_id" content="143827429007224">
     	
     	<meta name="google-site-verification" content="NE93O5QkApdJ8-1F4UT1zbHPfrvz6RT9EEgs8_mAfa4">
     	<meta name="y_key" content="fd6f458ab443b7a0">
@@ -24,10 +25,10 @@
 		<meta name="robots" content="index, follow">
 
 		<link rel="image_src" href="http://thumbs.carbonated.tv/0.jpg">
-		<link rel="stylesheet" type="text/css" href="/css/carbo_index.css"><script type="text/javascript">
+		<link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/carbo_index.css"><script type="text/javascript">
 		
 			var applicationId = 143827429007224; 
-			var contextPath = '';
+			var contextPath = 'http://www.carbonated.tv';
 			var mediaTypeVideo = 1;
 			var mediaTypeImage = 2;
 			var mediaTypeEpisode = 4;
@@ -47,7 +48,15 @@
 			}
 			function searchVideoClick(){searchVideo();}
 			function searchVideo(){
-				if (  !($F('q') == "Type to Search") && !$F('q').blank() ){					
+				if (  !(($F('q') == "Type to Search")||($F('q') == "Invalid Search")) && !$F('q').blank()){
+					if($F('q').length > 24 && $F('q').indexOf(' ') == -1){
+						var textbox = document.getElementById('q');
+						textbox.value = 'Invalid Search' ;
+						setTimeout(function() {
+							textbox.value = 'Type to Search' ;
+						}, 3000 );
+						return ;										
+					}
 						$('SearchVideoForm').submit();	
 				} 
 				return ;	
@@ -66,7 +75,7 @@
 	<body>
 
 	
-	<form action="/logoutUser" method="post" id="logoutForm" style="display: none;"> 
+	<form action="/logoutUser;jsessionid=8EF7F107EE1F424DF52941A583BB7F90" method="post" id="logoutForm" style="display: none;"> 
 	<input type="submit">
 	</form>
 	
@@ -89,20 +98,20 @@
 			<td width="100px" align="left">Username</td>
 			<td>
 				<input type="text" id="username-check" name="username-check" onblur="checkUsernameAvailability()" style="width: 250px">
-				<span id="username_check_valid" class="lookingGood" style="display:none;"> <img alt="carbonated.tv" src="/images/accept.gif" class="att"> Ok </span>
-				<span id="username_check_blank" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="/images/error.gif" class="att"> User name is blank </span>
-				<span id="username_check_invalid" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="/images/error.gif" class="att"> User name is invalid </span>
-				<span id="username_check_taken" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="/images/error.gif" class="att"> User name is already taken </span>
+				<span id="username_check_valid" class="lookingGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/accept.gif" class="att"> Ok </span>
+				<span id="username_check_blank" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> User name is blank </span>
+				<span id="username_check_invalid" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> User name is invalid </span>
+				<span id="username_check_taken" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> User name is already taken </span>
 			</td>
 		</tr>
 		<tr>
 			<td width="100px" align="left">Email</td>
 			<td>
 				<input type="text" id="useremail-check" name="useremail-check" onblur="checkEmailAvailability()" onclick="checkUsernameAvailability()" style="width: 250px">
-				<span id="useremail_valid" class="lookingGood" style="display:none;"> <img alt="carbonated.tv" src="/images/accept.gif" class="att"> Ok </span>
-				<span id="useremail_blank" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="/images/error.gif" class="att"> Email address is blank </span>
-				<span id="useremail_invalid" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="/images/error.gif" class="att"> Invalid email address </span>
-				<span id="useremail_taken" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="/images/error.gif" class="att"> Email Address is already taken </span>
+				<span id="useremail_valid" class="lookingGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/accept.gif" class="att"> Ok </span>
+				<span id="useremail_blank" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> E-mail address is blank </span>
+				<span id="useremail_invalid" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Invalid E-mail address </span>
+				<span id="useremail_taken" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> E-mail Address is already taken </span>
 		</td>
 		</tr>
 		<tr>
@@ -116,24 +125,24 @@
 			<td>
 				<a id="submitDis" class="button_black_dis"><span>Submit</span></a>
 				<a id="submitEnb" class="button_black" href="javascript:submitRequest(true);" style="display: none;"><span>Submit</span></a>
-				&nbsp; <img id="loadingImg" src="/images/loading-animated-circle_new.gif" style="display: none;">
+				&nbsp; <img id="loadingImg" src="http://www.carbonated.tv/images/loading-animated-circle_new.gif" style="display: none;">
 			</td>
 		</tr>
 	</tbody></table>
 </div>
-<div id="loginOverlayForm" style="display: none;">
+<div id="lgOvFrm" style="display: none;">
 	<div style="width: 1002px; margin: 0 auto; padding: 0; position: relative;">
-		<div id="mainDiv" class="loginPopup">
+		<div id="mainDiv" class="lpopup">
 			<div id="closeBtnFlash" class="closeBtnPopup">
-				<a href="javascript:void(0)" onclick="cancelLogin();" style="display: block; width: 24px; height: 24px;">
-					<img src="/images/spacer.gif" width="24" height="24" border="0">
+				<a href="javascript:void(0)" onclick="cnclLgn();" style="display: block; width: 24px; height: 24px;">
+					<img src="http://www.carbonated.tv/images/spacer.gif" width="24" height="24" border="0">
 				</a>
 			</div>
 			<div class="signin">
 				<table width="100%" border="0" cellspacing="15" cellpadding="0">
 					<tbody><tr>
 						<td width="305" valign="top">
-							<form id="userLoginForm" onsubmit="return false;" method="post" action="" style="padding:0px; margin:0px;">
+							<form id="usrLgFrm" onsubmit="return false;" method="post" action="" style="padding:0px; margin:0px;">
 								<table width="100%" border="0" cellspacing="0" cellpadding="0">
 									<tbody><tr>
 										<td align="left" height="33" valign="top">
@@ -145,7 +154,7 @@
 														</h1>
 													</td>
 													<td width="50%" align="right">
-														<p id="login-status" style="margin:8px 15px 0 0;"></p>
+														<p id="lgnstatus" style="margin:8px 15px 0 0;"></p>
 													</td>
 												</tr>
 											</tbody></table>
@@ -154,7 +163,7 @@
 									<tr>
 										<td align="left">
 											<div class="textField_bg">
-												<input type="text" name="aUserName" id="aUserName" value="username" onclick="this.value=''" class="textField_field" onkeydown="focusPasswordOnKey(event);" onblur="this.value=(this.value=='')?'username':this.value" onkeypress="submitLoginOnKey(event);">
+												<input type="text" name="aUserName" id="aUserName" value="username" onclick="this.value=''" class="textField_field" onkeydown="focusPasswordOnKey(event);" onblur="this.value=(this.value=='')?'username':this.value" onkeypress="submitLgnOnKey(event);">
 											</div>
 										</td>
 									</tr>
@@ -168,7 +177,7 @@
 									<tr>
 										<td align="left">
 											<div class="textField_bg">
-												<input type="password" name="aPassword" id="aPassword" value="password" onclick="this.value=''" onblur="this.value=(this.value=='')?'password':this.value" onkeypress="submitLoginOnKey(event);" class="textField_field">
+												<input type="password" name="aPassword" id="aPassword" value="password" onclick="this.value=''" onblur="this.value=(this.value=='')?'password':this.value" onkeypress="submitLgnOnKey(event);" class="textField_field">
 											</div>
 										</td>
 									</tr>
@@ -184,7 +193,7 @@
 											<table width="100%" border="0" cellspacing="0" cellpadding="0">
 												<tbody><tr>
 													<td width="48%" align="left">
-														<a href="javascript:submitLogin();"><img src="/images/loginBtn.jpg" width="98" height="26" border="0">
+														<a href="javascript:sbmtLgn();"><img src="http://www.carbonated.tv/images/loginBtn.jpg" width="98" height="26" border="0">
 														</a>
 													</td>
 													<td width="52%" align="left">
@@ -208,7 +217,7 @@
 									</tr>
 									<tr>
 										<td align="left">
-											<a href="/forgotPassword">Forgot Username or Password?</a>
+											<a href="/forgotPassword;jsessionid=8EF7F107EE1F424DF52941A583BB7F90">Forgot Username or Password?</a>
 										</td>
 									</tr>
 								</tbody></table>
@@ -223,7 +232,7 @@
 								</tr>
 								<tr>
 									<td align="left">
-										<a href="/registerUser">Register</a> or login using one of these accounts:
+										<a href="javascript:void[0]" onclick="registerUser();">Register</a> or login using one of these accounts:
 									</td>
 								</tr>
 								<tr>
@@ -233,19 +242,19 @@
 								</tr>
 								<tr>
 									<td height="28" align="left" valign="top">
-										<a href="javascript:facebook()"><img src="/images/faceBook.jpg" width="106" height="25" border="0">
+										<a href="javascript:facebook()"><img src="http://www.carbonated.tv/images/faceBook.jpg" width="106" height="25" border="0">
 										</a>
 									</td>
 								</tr>
 								<tr>
 									<td height="28" align="left" valign="top">
-										<a href="javascript:void(0)" id="twitter-login-main-overlay"><img src="/images/twitter.jpg" width="106" height="25" border="0">
+										<a href="javascript:void(0)" id="twitter-lg-main-overlay"><img src="http://www.carbonated.tv/images/twitter.jpg" width="106" height="25" border="0">
 										</a>
 									</td>
 								</tr>
 								<tr>
 									<td height="28" align="left" valign="top">
-										<a href="javascript:connectViaGoogle();"><img src="/images/googleNew.jpg" width="106" height="25" border="0">
+										<a href="javascript:connectViaGoogle();"><img src="http://www.carbonated.tv/images/googleNew.jpg" width="106" height="25" border="0">
 										</a>
 									</td>
 								</tr>
@@ -260,6 +269,212 @@
 									</td>
 								</tr>
 							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+		</div>
+	</div>
+	<div class="overlay" style="height: 1600px; z-index: 3000;"></div>
+	<div id="isFromReview" style="display:none;"></div>
+</div><div id="registerOverlayForm" style="display: none;">
+	<div id="frame" style="width: 100px; margin: 0 auto; padding: 0; position: relative;">
+		<div id="registerMainDiv" class="lpopup" style="top: 70px;">
+			<div id="closeBtnFlash" class="closeBtnPopup">
+				<a href="javascript:void(0)" onclick="javascript:cancelRegister();" style="display: block; width: 24px; height: 24px;"><img src="http://www.carbonated.tv/images/spacer.gif" width="24" height="24" border="0">
+				</a>
+			</div>
+			<div class="signin">
+				<table width="100%" border="0" cellspacing="14" cellpadding="0">
+					<!-- First Column -- START -->
+					<tbody><tr>
+						<td width="325" valign="top">
+							<form id="registerUserAjax" name="registerUserAjax" namespace="/" onsubmit="return false;" method="post" action="registerUserAjax">
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td align="left">
+										<h1>
+											Create Account
+										</h1>
+									</td>
+									<td width="50%" align="right">
+											<p id="registertatus" style="margin:8px 15px 0 0;"></p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<span id="register_mininfo_invalid" class="lookingOdd" style="display:none;align:left"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Please provide the minimum information</span>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<span id="register_system_good" class="lookingGood" style="display:none;align:left"> &nbsp;<img alt="carbonated.tv" src="http://www.carbonated.tv/images/accept.gif" class="att" align="absmiddle"> You can now submit the information </span>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										Username
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<div class="textField_bg">
+											<input name="userName" type="text" class="textField_field" id="userName_register" maxlength="100" onblur="check_userName_register();">
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<span id="register_userName_valid" class="lookingGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/accept.gif" class="att"> Ok </span>
+										<span id="register_userName_blank" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> User name is blank </span>
+										<span id="register_userName_invalid" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> User name is invalid </span>
+										<span id="register_userName_taken" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> User name is already taken </span>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" valign="top">
+										&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										Password
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<div class="textField_bg">
+											<input name="password" type="password" class="textField_field" id="password_register" maxlength="100" onblur="check_password_register();">
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<span id="register_password_valid" class="lookingGood" style="display:none;"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/accept.gif" class="att"> Ok </span>
+										<span id="register_password_min" class="lookingOdd" style="display:none;"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Password must contain atleast 6 characters</span>
+										<span id="register_password_inequal" class="lookingOdd" style="display:none;"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Passwords do not match</span>
+										<span id="register_password_invalid" class="lookingOdd" style="display:none;"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Passwords do not match</span>															
+									</td>
+								</tr>
+								<tr>
+									<td align="left" valign="top">
+										&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										Confirm Password
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<div class="textField_bg">
+											<input name="passwordc" type="password" class="textField_field" id="passwordc" maxlength="100" onblur="check_passwordc_register();">
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<span id="register_passwordc_valid" class="lookingGood" style="display:none;"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/accept.gif" class="att"> Ok</span>
+										<span id="register_passwordc_min" class="lookingOdd" style="display:none;"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Password must contain atleast 6 characters</span>
+										<span id="register_passwordc_inequal" class="lookingOdd" style="display:none;"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Passwords do not match</span>
+										<span id="register_passwordc_invalid" class="lookingOdd" style="display:none;"><img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Passwords do not match</span>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" valign="top">
+										&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										Email
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<div class="textField_bg">
+											<input name="email" type="text" class="textField_field" id="emailId" maxlength="100" onblur="javascript:check_email_register();">
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<span id="register_email_valid" class="lookingGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/accept.gif" class="att"> Ok </span>
+										<span id="register_email_blank" class="lookingOdd" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> E-mail address is blank </span>
+										<span id="register_email_invalid" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> Invalid E-mail address </span>
+										<span id="register_email_taken" class="lookingNotSoGood" style="display:none;"> <img alt="carbonated.tv" src="http://www.carbonated.tv/images/error.gif" class="att"> E-mail Address is already taken </span>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" valign="top">
+										&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<div id="register_gobuttondis" style="margin-right:5px; float:left;" align="left"><a class="button_black_dis" href="javascript:void(0)" style="width:200px;"><span>Please provide the minimum information</span></a></div>
+										<div id="register_gobuttonenb" style="display:none;margin-right:5px; float:left;" align="left"><a href="javascript:submitRegister();"><span><img src="http://www.carbonated.tv/images/registerBtn.jpg" width="98" height="26" border="0"></span></a></div>																					
+									</td>
+								</tr>
+								
+							</tbody></table>
+							</form>
+						</td>
+						<!-- First Column -- END -->
+						
+						<!-- Second Column -- START -->
+						<td width="220" align="right" valign="top" class="borderLeft">
+							<table width="85%" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td align="left">
+										Or login using one of these accounts:
+									</td>
+								</tr>
+								<tr>
+									<td align="left" valign="top">
+										&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td height="28" align="left" valign="top">
+										<a href="javascript:facebook()">
+											<img width="106" height="25" border="0" src="http://www.carbonated.tv/images/faceBook.jpg"> 
+										</a>
+									</td>
+								</tr>
+								<tr>
+									<td height="28" align="left" valign="top">
+										<a id="twitter-lg-main-overlay" href="javascript:void(0)">
+											<img width="106" height="25" border="0" src="http://www.carbonated.tv/images/twitter.jpg"> 
+										</a>
+									</td>
+								</tr>
+								<tr>
+									<td height="28" align="left" valign="top">
+										<a href="javascript:connectViaGoogle();">
+											<img width="106" height="25" border="0" src="http://www.carbonated.tv/images/googleNew.jpg"> 
+										</a>
+									</td>
+								</tr>
+								<tr>
+									<td height="28" align="left" valign="top">
+										&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td align="left" valign="top">
+										&nbsp;
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<!-- Second Column -- END -->
+					<tr>
+						<td colspan="2" valign="top" class="termsfont">
+							By clicking "register" you agree to Carbonated.tv's
+							<a href="http://www.carbonated.tv/termsOfService">terms of service.</a>
 						</td>
 					</tr>
 				</tbody></table>
@@ -289,26 +504,26 @@
 												</tr>
 												<tr>
 													<td width="40%" style="vertical-align: bottom;">
-													<a href="/">
-															<img src="/images/logo.png" alt="" width="401" height="47" border="0" class="logo">
+													<a href="/;jsessionid=8EF7F107EE1F424DF52941A583BB7F90">
+															<img src="http://www.carbonated.tv/images/logo.png" alt="" width="401" height="47" border="0" class="logo">
 														</a>
 													</td>
 													<td width="60%" align="right" valign="top">
 														<table width="100%" border="0" cellspacing="0" cellpadding="0">
 															<tbody><tr>
-																<td class="loginRegister" align="right">
+																<td class="lregstr" align="right">
 																	<div id="signoutLinks" class="white" style="margin-top:7px;  ">
 																		<div style="width: 562px; float: left; margin: 0; padding: 0;">
 																			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 																				<tbody><tr>
 																					<td align="right">
-																						<a href="javascript:facebook()"><img src="/images/facebookSmall.png" style="vertical-align: bottom; border: 0px;"></a>&nbsp;
-																						<a href="javascript:void(0)" id="twitter-login-main"><img src="/images/twitterSmall.png" style="vertical-align: bottom; border: 0px;"></a>&nbsp;
-																						<a href="javascript:connectViaGoogle();"><img src="/images/googleSmall.png" style="vertical-align: bottom; border: 0px; padding-right:5px;"></a>
-																						<a href="javascript:void[0]" onclick="loginUser();" class="white">LOGIN</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
-																						<a href="/registerUser" class="white">REGISTER</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
-																						<a href="/upload" class="bold white">UPLOAD STORY </a>
-																						<a href="/upload"><img style="vertical-align: bottom; padding: 0 0 0 2px;" src="/images/icon_upload.png" width="16" height="16" border="0"> </a>
+																						<a href="javascript:facebook()"><img src="http://www.carbonated.tv/images/facebookSmall.png" style="vertical-align: bottom; border: 0px;"></a>&nbsp;
+																						<a href="javascript:void(0)" id="twitter-login-main"><img src="http://www.carbonated.tv/images/twitterSmall.png" style="vertical-align: bottom; border: 0px;"></a>&nbsp;
+																						<a href="javascript:connectViaGoogle();"><img src="http://www.carbonated.tv/images/googleSmall.png" style="vertical-align: bottom; border: 0px; padding-right:5px;"></a>
+																						<a href="javascript:void[0]" onclick="lginUsr();" class="white">LOGIN</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
+																						<a href="javascript:void[0]" onclick="registerUser();" class="white">REGISTER</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
+																						<a href="javascript:void[0]" onclick="lginUsr();" class="bold white">UPLOAD STORY </a>
+																						<a href="javascript:void[0]" onclick="lginUsr();"><img style="vertical-align: bottom; padding: 0 0 0 2px;" src="http://www.carbonated.tv/images/icon_upload.png" width="16" height="16" border="0"> </a>
 																					</td>
 																				</tr>
 																			</tbody></table>
@@ -319,15 +534,16 @@
 																	<div id="signinLinks" class="white" style="padding: 9px 0 0 0; display: none; height:18px;">
 																		<div style=" float: left; width: 100%;  ">
 																			<span id="adminPanel" style="display:none">
-																				<a href="/backstage/approver" class="white">BACKSTAGE</a>&nbsp;<img style="vertical-align:top;" src="/images/icon_new.gif" border="0"> &nbsp;<span class="white">|</span>&nbsp;&nbsp;
-																				<a href="/admin/login" class="white">ADMIN PANEL</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;&nbsp;
+																				<a href="http://www.carbonated.tv/backstage/approver" class="white">BACKSTAGE</a>&nbsp;<img style="vertical-align:top;" src="http://www.carbonated.tv/images/icon_new.gif" border="0"> &nbsp;<span class="white">|</span>&nbsp;&nbsp;
+																				<a href="http://www.carbonated.tv/admin/login" class="white">ADMIN PANEL</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;&nbsp;
 																			</span>
-																			<a href="/logoutUser" id="logoutlink" onclick="delete_cookie();" class="white">LOGOUT</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
-																			<a href="/upload" class="bold white">UPLOAD STORY</a>
-																			<a href="/upload"><img style="vertical-align: bottom; padding: 0 0 0 2px;" src="/images/icon_upload.png" width="16" height="16" border="0"> </a>
+																			<a href="/logoutUser;jsessionid=8EF7F107EE1F424DF52941A583BB7F90" id="logoutlink" onclick="delete_cookie();" class="white">LOGOUT</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
+																			<a href="http://www.carbonated.tv/upload" class="bold white">UPLOAD STORY</a> 
+																			
+																			<a href="http://www.carbonated.tv/upload"><img style="vertical-align: bottom; padding: 0 0 0 2px;" src="http://www.carbonated.tv/images/icon_upload.png" width="16" height="16" border="0"> </a>
 																		</div>
 																		<div class="white" style="margin:10px 18px 0 0; float: left; width: 100%">Welcome &nbsp;
-																			<a id="userAccount" href="/user/" class="white" style="text-transform:uppercase"></a>
+																			<a id="userAccount" href="http://www.carbonated.tv/user/" class="white" style="text-transform:uppercase"></a>
 																		</div>
 																	</div>
 																</td>
@@ -342,7 +558,7 @@
 																<td width="677" align="left">
 																	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="logo"><tbody><tr><td width="129"> <a href="http://www.carbonated.tv/news"> <img style="vertical-align: bottom;" width="129" height="33" border="0" src="http://www.carbonated.tv//images/topNav/newsPolitics_m.png" onmouseover="javascript:this.src='http://www.carbonated.tv/images/topNav/newsPolitics_m_h.png'" onmouseout="javascript:this.src='http://www.carbonated.tv/images/topNav/newsPolitics_m.png'"> </a></td><td width="122"> <a href="http://www.carbonated.tv/entertainment"> <img style="vertical-align: bottom;" width="122" height="33" border="0" src="http://www.carbonated.tv//images/topNav/entertainment_m.png" onmouseover="javascript:this.src='http://www.carbonated.tv/images/topNav/entertainment_m_h.png'" onmouseout="javascript:this.src='http://www.carbonated.tv/images/topNav/entertainment_m.png'"> </a></td><td width="58"> <a href="http://www.carbonated.tv/wow"> <img style="vertical-align: bottom;" width="58" height="33" border="0" src="http://www.carbonated.tv//images/topNav/wow_m.png" onmouseover="javascript:this.src='http://www.carbonated.tv/images/topNav/wow_m_h.png'" onmouseout="javascript:this.src='http://www.carbonated.tv/images/topNav/wow_m.png'"> </a></td><td width="72"> <a href="http://www.carbonated.tv/sports"> <img style="vertical-align: bottom;" width="72" height="33" border="0" src="http://www.carbonated.tv//images/topNav/sports_m.png" onmouseover="javascript:this.src='http://www.carbonated.tv/images/topNav/sports_m_h.png'" onmouseout="javascript:this.src='http://www.carbonated.tv/images/topNav/sports_m.png'"> </a></td><td width="88"> <a href="http://www.carbonated.tv/biztech"> <img style="vertical-align: bottom;" width="88" height="33" border="0" src="http://www.carbonated.tv//images/topNav/bizTech_m.png" onmouseover="javascript:this.src='http://www.carbonated.tv/images/topNav/bizTech_m_h.png'" onmouseout="javascript:this.src='http://www.carbonated.tv/images/topNav/bizTech_m.png'"> </a></td><td width="73"> <a href="http://www.carbonated.tv/lifestyle"> <img style="vertical-align: bottom;" width="73" height="33" border="0" src="http://www.carbonated.tv//images/topNav/lifeStyle_m.png" onmouseover="javascript:this.src='http://www.carbonated.tv/images/topNav/lifeStyle_m_h.png'" onmouseout="javascript:this.src='http://www.carbonated.tv/images/topNav/lifeStyle_m.png'"> </a></td><td width="69"> <a href="http://www.carbonated.tv/shows"> <img style="vertical-align: bottom;" width="69" height="33" border="0" src="http://www.carbonated.tv//images/topNav/shows_m.png" onmouseover="javascript:this.src='http://www.carbonated.tv/images/topNav/shows_m_h.png'" onmouseout="javascript:this.src='http://www.carbonated.tv/images/topNav/shows_m.png'"> </a></td><td width="63"> <a href="http://www.carbonated.tv/blogs"> <img style="vertical-align: bottom;" width="63" height="33" border="0" src="http://www.carbonated.tv//images/topNav/blogs_m.png" onmouseover="javascript:this.src='http://www.carbonated.tv/images/topNav/blogs_m_h.png'" onmouseout="javascript:this.src='http://www.carbonated.tv/images/topNav/blogs_m.png'"> </a></td><td width="18">&nbsp;</td></tr></tbody></table></td>
 																<td width="291" align="right">
-																	<form id="SearchVideoForm" name="SearchVideoForm" action="/search" onsubmit="return false;" style="padding:0px; margin:0px;">
+																	<form id="SearchVideoForm" name="SearchVideoForm" action="http://www.carbonated.tv/search" onsubmit="return false;" style="padding:0px; margin:0px;">
 																		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 																			<tbody><tr>
 																				<td width="8%">
@@ -383,7 +599,7 @@
 								<table width="968" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td height="15" align="center">
-<img src="/images/spacer.gif" width="1" height="15"></td>
+<img src="http://www.carbonated.tv/images/spacer.gif" width="1" height="15"></td>
 </tr>
 <tr>
 <td class="innerBgBig">
@@ -557,7 +773,7 @@ Carbonated.TV’s Privacy Policy is to share personal information only with the 
 </tr>
 <tr>
 <td align="center">
-<img src="/images/spacer.gif" width="1" height="14">
+<img src="http://www.carbonated.tv/images/spacer.gif" width="1" height="14">
 </td>
 </tr>
 </tbody></table></td>
@@ -591,7 +807,8 @@ google_ad_height = 60;
 						<table width="95%" border="0" align="center" cellpadding="10" cellspacing="0" id="footer">
 							<tbody><tr>
 								<td width="16%" align="left" valign="top" style="line-height: normal; padding-top: 14px;">
-									© 2011 Carbonated.tv.
+									©	 2012
+									 Carbonated.tv.
 									<br>
 									All rights reserved.
 									<br>
@@ -606,32 +823,32 @@ google_ad_height = 60;
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/news">News and Politics</a>
+												<a href="http://www.carbonated.tv/news">News and Politics</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/entertainment">Entertainment</a>
+												<a href="http://www.carbonated.tv/entertainment">Entertainment</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/wow">WOW</a>
+												<a href="http://www.carbonated.tv/wow">WOW</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/sports">Sports</a>
+												<a href="http://www.carbonated.tv/sports">Sports</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/biztech">Biz &amp; Tech</a>
+												<a href="http://www.carbonated.tv/biztech">Biz &amp; Tech</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/lifestyle">Lifestyle</a>
+												<a href="http://www.carbonated.tv/lifestyle">Lifestyle</a>
 											</td>
 										</tr>
 									</tbody></table>
@@ -645,32 +862,32 @@ google_ad_height = 60;
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/shows/truth-serum">Truth Serum</a>
+												<a href="http://www.carbonated.tv/shows/truth-serum">Truth Serum</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/shows/the-catch-up">The Catch Up</a>
+												<a href="http://www.carbonated.tv/shows/the-catch-up">The Catch Up</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/shows/biz-tech-round-up">Biz Tech Round Up</a>
+												<a href="http://www.carbonated.tv/shows/biz-tech-round-up">Biz Tech Round Up</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/shows/the-style-list">Style List</a>
+												<a href="http://www.carbonated.tv/shows/the-style-list">Style List</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/shows/star-struck">Star Struck</a>
+												<a href="http://www.carbonated.tv/shows/star-struck">Star Struck</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/shows/the-single-life">The Single Life</a>
+												<a href="http://www.carbonated.tv/shows/the-single-life">The Single Life</a>
 											</td>
 										</tr>
 									</tbody></table>
@@ -684,7 +901,7 @@ google_ad_height = 60;
 										</tr>
 										<tr>
 											<td width="21" align="left">
-												<a target="_blank" href="http://twitter.com/carbonatedtv"><img src="/images/icon_twitter_footer.gif" width="16" height="16" border="0" alt=""> </a>
+												<a target="_blank" href="http://twitter.com/carbonatedtv"><img src="http://www.carbonated.tv/images/icon_twitter_footer.gif" width="16" height="16" border="0" alt=""> </a>
 											</td>
 											<td width="95" align="left">
 												<a target="_blank" href="http://twitter.com/carbonatedtv">Twitter</a>
@@ -692,7 +909,7 @@ google_ad_height = 60;
 										</tr>
 										<tr>
 											<td align="left">
-												<a target="_blank" href="http://www.facebook.com/carbonated.tv"><img src="/images/icon_facebook_footer.gif" width="16" height="16" border="0" alt=""> </a>
+												<a target="_blank" href="http://www.facebook.com/carbonated.tv"><img src="http://www.carbonated.tv/images/icon_facebook_footer.gif" width="16" height="16" border="0" alt=""> </a>
 											</td>
 											<td align="left">
 												<a target="_blank" href="http://www.facebook.com/pages/carbonatedtv/344071029011?ref=ts#!/pages/carbonatedtv/344071029011?v=wall&amp;ref=ts">Facebook</a>
@@ -700,7 +917,7 @@ google_ad_height = 60;
 										</tr>
 										<tr>
 											<td align="left">
-												<a target="_blank" href="http://carbonatedtv.wordpress.com/"><img src="/images/icon_blog_footer.gif" width="16" height="16" border="0" alt=""> </a>
+												<a target="_blank" href="http://carbonatedtv.wordpress.com/"><img src="http://www.carbonated.tv/images/icon_blog_footer.gif" width="16" height="16" border="0" alt=""> </a>
 											</td>
 											<td align="left">
 												<a target="_blank" href="http://carbonatedtv.wordpress.com/">Blog</a>
@@ -708,7 +925,7 @@ google_ad_height = 60;
 										</tr>
 										<tr>
 											<td align="left">
-												<a target="_blank" href="http://www.youtube.com/user/carbonatedTV"><img src="/images/icon_youtube_footer.gif" width="16" height="16" border="0" alt=""> </a>
+												<a target="_blank" href="http://www.youtube.com/user/carbonatedTV"><img src="http://www.carbonated.tv/images/icon_youtube_footer.gif" width="16" height="16" border="0" alt=""> </a>
 											</td>
 											<td align="left">
 												<a target="_blank" href="http://www.youtube.com/user/carbonatedTV">Youtube</a>
@@ -730,32 +947,27 @@ google_ad_height = 60;
 										</tr> -->
 										<tr>
 											<td align="left">
-												<a href="/privacyPolicy">Privacy policy</a>
+												<a href="http://www.carbonated.tv/privacyPolicy">Privacy policy</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/termsOfService">Terms of use</a>
+												<a href="http://www.carbonated.tv/termsOfService">Terms of use</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/cNews">News</a>
+												<a href="http://www.carbonated.tv/career">Career</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/career">Career</a>
+												<a href="http://www.carbonated.tv/contactus">Contact us</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="left">
-												<a href="/contactus">Contact us</a>
-											</td>
-										</tr>
-										<tr>
-											<td align="left">
-												<a href="/sitemap">Sitemap</a>
+												<a href="http://www.carbonated.tv/sitemap">Sitemap</a>
 											</td>
 										</tr>
 									</tbody></table>
@@ -771,7 +983,7 @@ google_ad_height = 60;
 										</tr>
 										<tr>
 											<td colspan="2">
-											            <form action="/subscribeNewsLetter" method="post" id="subscribeNewsLetterFormFooter" name="subscribeNewsLetterFormFooter" onsubmit="return false;">
+											            <form action="http://www.carbonated.tv/subscribeNewsLetter" method="post" id="subscribeNewsLetterFormFooter" name="subscribeNewsLetterFormFooter" onsubmit="return false;">
             
 												           
 												          
@@ -806,10 +1018,10 @@ google_ad_height = 60;
 										</tr>
 										<tr>
 											<td width="14%" align="left">
-												<a href="/rssfeed"><img src="/images/icon_rss.gif" width="16" height="16" border="0" alt=""> </a>
+												<a href="http://www.carbonated.tv/rssfeed"><img src="http://www.carbonated.tv/images/icon_rss.gif" width="16" height="16" border="0" alt=""> </a>
 											</td>
 											<td width="86%" align="left">
-												<a href="/rssfeed">RSS Subscribe</a>
+												<a href="http://www.carbonated.tv/rssfeed">RSS Subscribe</a>
 											</td>
 										</tr>
 									</tbody></table>
@@ -834,7 +1046,7 @@ google_ad_height = 60;
 					<table width="100%" border="0" cellspacing="0" cellpadding="0">
 						<tbody><tr>
 							<td width="33" valign="top">
-								<img src="/images/footerLeftImg.png" width="33" alt="" height="13" border="0">
+								<img src="http://www.carbonated.tv/images/footerLeftImg.png" width="33" alt="" height="13" border="0">
 							</td>
 							<td height="13" class="footerBg">
 								&nbsp;
@@ -852,7 +1064,7 @@ google_ad_height = 60;
 				</td>
 			</tr>
 		</tbody></table>
-			<form action="/getXRDS" method="post" id="openidform" style="display: none;"> 
+			<form action="http://www.carbonated.tv/getXRDS" method="post" id="openidform" style="display: none;"> 
 				<input type="hidden" name="redirectTo" value="http://www.carbonated.tv/privacyPolicy">
 				<input type="submit">
 			</form>
@@ -901,7 +1113,7 @@ style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 	
 	
 
-	<script type="text/javascript" src="/scripts/common.js?3.0.17"></script><script type="text/javascript" src="/scripts/stars.js?3.0.17"></script><script type="text/javascript" src="/scripts/loginUserAjax.js?3.0.17"></script><script type="text/javascript" src="/scripts/subscribe.js?3.0.17"></script><script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&amp;login=carbonated&amp;apiKey=R_b42221c3152f0681b810d07e0f865bda">
+	<script type="text/javascript" src="http://www.carbonated.tv/scripts/common.js?3.0.18"></script><script type="text/javascript" src="http://www.carbonated.tv/scripts/stars.js?3.0.18"></script><script type="text/javascript" src="http://www.carbonated.tv/scripts/loginUserAjax.js?3.0.18"></script><script type="text/javascript" src="http://www.carbonated.tv/scripts/registerUserAjax.js?3.0.18"></script><script type="text/javascript" src="http://www.carbonated.tv/scripts/subscribe.js?3.0.18"></script><script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&amp;login=carbonated&amp;apiKey=R_b42221c3152f0681b810d07e0f865bda">
 	
 <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script src="http://platform.twitter.com/anywhere.js?id=K23e2zzIOMiNfaQdWleDUA&amp;v=1" type="text/javascript"></script>
@@ -922,7 +1134,7 @@ style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 	}
 
 	a#uservoice-feedback-tab {
-		background-image:url(/images/facebookIcon.gif);
+		background-image:url(http://www.carbonated.tv/images/facebookIcon.gif);
 		right:0;
 		outline:none;
 	}
@@ -940,7 +1152,7 @@ style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 		z-index:100001 !important; 
 		right:0;	
 		outline:none;
-		background-image:url(/images/facebookIcon.gif);
+		background-image:url(http://www.carbonated.tv/images/facebookIcon.gif);
 	}
 	
 </style>
@@ -948,8 +1160,16 @@ style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 	<div id="uservoice-feedback">
 	<a href="javascript:facebook()" class="fb_button fb_button_large"><span class="fb_button_text">Login</span></a>
 	</div>
-	<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-<script type="text/javascript" src="/scripts/connect.js?3.0.17"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=143827429007224";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script> -->
+<script type="text/javascript" src="http://www.carbonated.tv/scripts/connect.js?3.0.18"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 
 
