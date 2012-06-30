@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060922id_/http%3A//templatezone.com/templatezone-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630064940id_/http%3A//www.templatezone.com/templatezone-privacy-policy) for the most accurate reproduction.*
 
 # TemplateZone - 30 Day Money-Back Guarantee & Privacy Policy
 
@@ -32,14 +32,6 @@ This site has password security measures to protect against the loss, misuse and
 Norton Safe Search provides a Web site’s safety and shopping rating for all your search results, automatically filters out known risky sites and warns you about sites with potentially dangerous downloads. 
 
 [Click here for more info >](http://safeweb.norton.com/report/show?url=http://www.templatezone.com/ "Norton Safe Web")  
-  
-[](http://www.bbb.org/boston/business-reviews/computer-software-publishers-and-developers/kmt-software-inc-in-cambridge-ma-115969/ "Accredited by the Better Business Bureau") | 
-
-### **Commitment To Our Customers**
-
-TemplateZone is accredited by the **Better Business Bureau** to give you peace of mind when making your purchase.
-
-The Better Business Bureau awarded TemplateZone an A+ rating & determined we meet [accreditation standards](http://boston.bbb.org/Business-Accreditation/ "Better Business Bureau Accreditation Standards") which include a commitment to make a good faith effort to resolve any consumer complaints.   
   
 ### **Your Privacy Is Important to Us**
 
