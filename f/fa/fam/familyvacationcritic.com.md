@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055745id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630092945id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
 
 # Privacy - Family Vacation Critic
 
@@ -21,7 +21,7 @@ We have adopted the following Principles of Privacy, which summarize and clarify
 
 6\. Information Collected by Third Parties. Third parties, such as vendors, advertising entities, and business partners, may use cookies and other technologies to collect information about your online activities. The purposes for collecting this information include: to measure usage of our site; to analyze, modify, and personalize advertising content on this and other sites; and to provide ads about goods and services that may be of interest to you. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy. Some of these third parties may be third-party network advertisers that offer you the option of not having this information collected. To learn more, please visit [NetworkAdvertising.org](http://www.networkadvertising.org/).
 
-7\. Email newsletters. If you wish to unsubscribe from our email newsletters at any time, please visit <http://www.familyvacationcritic.com/newsletter/manage.php> or contact the [Community Manager](mailto:community@familyvacationcritic.com).
+7\. Email newsletters. If you wish to unsubscribe from our email newsletters at any time, please utilize the Update Profile link at the bottom of any of our mailings.
 
 The Independent Traveler, Inc.  
 7 Tree Farm Road  
@@ -39,9 +39,11 @@ Family Vacation Critic
   
 
 
-© Copyright 2011. The Independent Traveler, Inc.  
+© Copyright 2012. The Independent Traveler, Inc.  
 All rights reserved. This file may be downloaded for personal  
 use only. Other copying or reproduction is expressly prohibited. 
 
   
 
+
+[ ](https://web.archive.org/newsletter/manage.php?referral=popup_050812)
