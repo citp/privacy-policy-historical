@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117003920id_/http%3A//www.powermax.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630064225id_/http%3A//www.powermax.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PowerMax
-
-[Home](https://web.archive.org/) » [Customer Help Center](https://web.archive.org/help/) » Privacy Policy
 
 Your privacy is extremely important to us. We realize how important peace of mind is to the web user, and to that end, we have included this information for your benefit.
 
