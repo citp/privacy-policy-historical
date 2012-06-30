@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucy.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212045228id_/http%3A//www.lucy.com/Privacy%2520Policy/CUSTOMER_SERVICE_PRIVACYPOLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucy.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233554id_/http%3A//www.lucy.com/Privacy-Policy/CUSTOMER_SERVICE_PRIVACYPOLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # lucy activewear | privacy policy
 
@@ -73,5 +73,5 @@ We reserve the right, in our sole discretion, to revise, change, or modify this 
 If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below: 
 
 lucy Activewear  
-222 SW Columbia Street, Suite 300  
-Portland, OR 97201 
+2701 Harbor Bay Parkway  
+Alameda, CA 94502 
