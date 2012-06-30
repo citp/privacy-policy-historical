@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiocalico.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234352id_/http%3A//www.studiocalico.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiocalico.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234634id_/http%3A//www.studiocalico.com/about/privacy) for the most accurate reproduction.*
 
 # Studio Calico Privacy Policy - StudioCalico.com | Scrapbooking Kits, Paper & Supplies, Ideas & More at StudioCalico.com!
 
@@ -64,7 +64,7 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Studio Calico   
 Attention: Privacy Statement Personal   
-585 Cumberland Ridge Way   
-Bowling Green, KY 42103
+420 Old Morgantown Rd   
+Bowling Green, KY 42101
 
 Studio Calico will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
