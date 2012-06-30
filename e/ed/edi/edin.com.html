@@ -1,7 +1,11 @@
-<!--The following is the downloaded HTML source of the edin.com privacy policy that was archived on 2010-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100602071459id_/http%3A//www.educationalinsights.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edin.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630225509id_/http%3A//www.educationalinsights.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
 
 <html><head>
+
+
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
@@ -23,6 +27,10 @@
 
 
 
+
+
+
+
   
 
 
@@ -34,6 +42,10 @@
 
 
 
+
+
+
+  
     <title>
       
         Privacy and Security
@@ -45,20 +57,53 @@
       - Educational Insights®
     </title>
   
+  
 
 
 
+
+  
     <meta name="description" content="Privacy and Security">
   
+  
 
 
 
+
+  
     <meta name="keywords" content=" ">
   
+  
+
+
+
+
+
+
+
+	<link rel="canonical" href="http://www.educationalinsights.com/category/customer+service/privacy+and+security.do">
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/jquery/jquery-1.4.min.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.popDown.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.validate-1.7.min.js"></script>
+
+<!--ClientSideValidation-->
+<script type="text/javascript" src="/mod/clientsidevalidation/includes/javascripts/clientSideValidation.js"></script>
+<link href="/mod/clientsidevalidation/includes/themes/clientsidevalidation.css" rel="stylesheet" type="text/css">
+
+
 <script src="/mod/productquickview/includes/pqv.compressed.js"></script>
 
 <link href="/mod/productquickview/includes/themes/default.css" rel="stylesheet" type="text/css">
 <link href="/mod/productquickview/includes/themes/pqv.css" rel="stylesheet" type="text/css">
+
+
+
+
 
 <link rel="stylesheet" type="text/css" href="/p2p/personalization/Personalization.css" title="style">
 
@@ -82,6 +127,10 @@
 
 
 
+
+
+
+
   
 
 
@@ -90,11 +139,28 @@
 
 
 
+
+
+
+
+  
+  
+
+  
+  
     <link rel="stylesheet" type="text/css" href="/includes/stylesheet_EDUCATIONALINSIGHTS.css" title="style">
   
 
+  
+  
+
+
+
 <link rel="shortcut icon" href="http://images.educationalinsights.com/images/set_b/en_us/favicon.ico" type="image/vnd.microsoft.icon">
 <script type="text/javascript" src="/includes/headerScripts.js"></script>
+<script type="text/javascript" src="/includes/popUpLR.js"></script>
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="/includes/AC_RunActiveContent.js" language="javascript"></script>
 
 <script type="text/javascript" src="/nav/menu/milonic_src.js"></script>
 <script type="text/javascript">
@@ -103,6 +169,10 @@
 				else _d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenudom.js><\/scr"+"ipt>");
 				 -->
 				</script><script language="JavaScript" src="/nav/menu/mmenudom.js"></script><script>function $9(ap){return 0}</script>
+<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script> -->
+<script type="text/javascript" src="/includes/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/includes/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/includes/fancybox/jquery.fancybox-1.3.4.css" media="screen">
 </head>
 <body class="main">
 <table width="960" border="0" cellpadding="0" cellspacing="0" align="center">
@@ -134,6 +204,10 @@
 
 
 
+
+
+
+
   
 
 
@@ -142,6 +216,12 @@
 
 
 
+
+
+
+
+  
+  
   	
     	<!--TopNav Start-->
 
@@ -163,7 +243,14 @@
 
 
 
+
+
+
+
   
+
+
+
 
 
 
@@ -188,7 +275,14 @@
 
 
 
+
+
+
+
   
+
+
+
 
 
 
@@ -233,11 +327,70 @@
     }
   }
 </script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var nsAutoComplete = null;
+	jQuery(document).ready(function(){
+		// match the width of the search text field
+		var iSearchBoxWidth = jQuery('#navsearchbox').css("width").replace(/\D/g, "")/1;
+		var widthDiff = (jQuery("#navsearchboxwrapper").width() - iSearchBoxWidth)/2;
+		if (widthDiff%2 != 0) widthDiff = widthDiff + 1;
+		if (widthDiff < iSearchBoxWidth) {		  
+			iSearchBoxWidth = jQuery("#navsearchbox").width() + widthDiff;
+		} else {
+			iSearchBoxWidth = iSearchBoxWidth + 4;
+		}
+		
+		// init the autocomplete
+		nsAutoComplete = jQuery('#navsearchbox').autocomplete({
+            serviceUrl: '/search.do',
+            params: { action:'ac' },
+			width: (iSearchBoxWidth),
+			minChars: 3
+		});
+	});
+</script>
+
+
 <div class="navheaderbg">
 <table border="0" width="960" cellpadding="0" cellspacing="0">
 <tbody><tr>
-	<td width="332" id="top_logo" rowspan="2"><a href="/home.do"><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalnav/logo01.gif" border="0" alt="Educational Insights"></a></td>
-	<td width="407" valign="top" class="ancillarypadding"><div class="top_links">
+	<td width="332" id="top_logo" rowspan="2"><a href="/home.do"><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalnav/logo01.gif" border="0" alt="Educational Insights">  </a></td>
+	<td width="407" valign="top" class="ancillarypadding"><div class="contact_info">We're here if you need us: (800) 995 4436</div><div class="top_links">
 	<ul>
 	
 	<li><div id="top_customerserv"><a href="/category/customer+service.do"><span>Customer Service</span></a></div></li>
@@ -251,7 +404,9 @@
 	<li><div id="top_cqs"><a href="/catalogQuickShop.do"><span>Quick Shop</span></a></div></li>
 	
 	
-	<li><div id="top_emailsignup"><a href="/ancillary/emailsignup.do"><span>Email Signup</span></a></div></li>
+	<li><div id="top_emailsignup"><a id="fancybox_email_signup_EI" href="/ancillary/emailsignup.do"><span>Email Signup</span></a></div></li>
+	<li class="paddingseperator">|</li>
+	<li><div id="top_catalogrequest"><a href="/ancillary/catalogrequest.do"><span>Catalog Request</span></a></div></li>
 	<li class="paddingseperator">|</li>
 	
 	
@@ -280,6 +435,10 @@
 
 
 
+
+
+
+
   
 
 
@@ -290,20 +449,27 @@
 
 
 
+
+
+
+
+	
+
+
+	
 			
-	</div>
+	
+</div>
 	<div class="paddingsearch">
 	<table border="0" cellpadding="0" cellspacing="0">
-	<form name="searchForm" method="post" action="http://www.educationalinsights.com/p2p/basicSearch.do" onsubmit="return checkKeyword(this.keyword);"></form>
+	<form name="searchForm" method="post" action="http://www.educationalinsights.com/search.do" onsubmit="return checkKeyword(this.keyword);"></form>
 		<tbody><tr>
-			<td align="right"><input type="text" name="keyword" value="Product keyword / item#" size="10" maxlength="30" class="navsearchbox" onfocus="this.value=checkIfDefault(this.value);"></td>
-			<td><input type="Image" name="Search" src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/search_btn.gif" border="0" alt="Go"></td>
+			<td align="right"><input type="text" name="keyword" value="Product keyword / item#" size="10" maxlength="30" class="navsearchbox" id="navsearchbox" onfocus="this.value=checkIfDefault(this.value);" autocomplete="off"></td>
+			<td><input type="Image" name="Search" src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/search_btn.gif" border="0" alt="Go">
+			
+			</td>
         </tr>
-        
-            <tr>
-                <td colspan="2" id="top_advancedsearch" align="right"><a href="/p2p/advancedSearch.do?init=true"><span>Advanced Search</span></a></td>
-            </tr>
-        
+       
 		
 	</tbody></table>
 	</div>
@@ -311,13 +477,36 @@
 </tr>
 </tbody></table>
 </div>
+<script type="text/javascript">
+			jQuery("#fancybox_email_signup_EI").fancybox({
+				'width'				: 772,
+				'height'			: 491,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe'
+				
+			});
+</script>
 <!--TopNav End-->
 
     
   
+
+  
+  
+
+  
+  
+
+
 </div>
 		
-			<div class="categorynavbg" id="catNavBg">
+			<div class="categorynavbg_2" id="catNavBg">
+
+
+
+
 
 
 
@@ -344,8 +533,18 @@
 
 
 
+
+
+
+
+  
+  
   	
-    	<!--CatNav Start-->
+    	
+
+
+
+
 
 
 
@@ -369,6 +568,20 @@
 
 
 
+
+
+
+
+
+    
+        
+    
+    
+
+
+
+
+<!--CatNav Start-->
 
 
 <div id="CatTopNavContainer">
@@ -376,6 +589,7 @@
 <div class="CatTopNav">
 <div id="globalCart_topNav">
 
+ 
 		<table border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td><div id="top_globalcart">
@@ -397,93 +611,89 @@
 
 
 
+
+
+
+
+
   
 
 
- 
+
+
+
+
+
+
+
 
 
 
 <script type="text/javascript">
-/*
-Milonic DHTML Menu - JavaScript Website Navigation System.
-Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
-Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
-This is a commercial software product, please visit http://www.milonic.com/ for more information.
-See http://www.milonic.com/license.php for Commercial License Agreement
-All Copyright statements must always remain in place in all files at all times
-*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
-*/
- fixMozillaZIndex=true; //Fixes Z-Index problem  with Mozilla browsers but causes odd scrolling problem, toggle to see if it helps
-_menuCloseDelay=80   // The time delay for menus to remain visible on mouse out
-_menuOpenDelay=80     // The time delay before menus open on mouse over
-_subOffsetTop=0       // Sub menu top offset
-_subOffsetLeft=0     // Sub menu left offset
-with(menuStyleTopCart=new mm_style()){
-  itemwidth="254";
-  onclass="GlobalCartOn";
-  offclass="GlobalCartOff";
-  bordercolor="#FFFFFF";
-  borderstyle="solid";
-  borderwidth="0";
-}
-with(menuStyleCart=new mm_style()){
-  itemwidth="254";
-  onclass="GlobalCartItemOn";
-  offclass="GlobalCartItemOff";
-  bordercolor="#21419a";
-  borderstyle="solid";
-  borderwidth="1";
-  outfilter="Blinds(Bands=1,direction=up, duration=0.3)";overfilter="Blinds(bands=1, direction=down, duration=0.3)";              
-}
-with(milonic=new menuname('MenuCart')){
-style=menuStyleCart;
-
-  aI("text=`<table cellspacing=0 cellpadding=0><tr><td class=cartnoitems>Your shopping basket is empty.</td></tr></table>`;pointer=default;");
-
-}
-function changeStyle (divid, stylesheetclass){
-document.getElementById(divid).className=stylesheetclass;
-}
+jQuery(document).ready(function(){
+	jQuery("#globalBasket").popDown({navLink:"/basket.do?nav=%2Fcategory%2Fid%2F117049&gc=1",navOverClass:"globalCartNavOver",closeDelay:"300"});
+	jQuery(".popDownLayer .globalCartItemInfo").each(function(){
+		jQuery(this).mouseover(function(){
+			jQuery(this).removeClass("globalCartItemInfo");
+			jQuery(this).addClass("globalCartItemInfoHover");
+		}).mouseout(function(){
+			jQuery(this).removeClass("globalCartItemInfoHover");
+			jQuery(this).addClass("globalCartItemInfo");
+		})
+	})
+	
+});
 </script>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top">
-    <td align="center"><script type="text/javascript">
-          with(milonic=new menuname("MenuCartTop")){
-            style=menuStyleTopCart;
-            alwaysvisible=1;
-            position="relative";
-            orientation="horizontal";
-            horizontalMenuDelay = true;
-            
-           aI("showmenu=MenuCart;opendelay=80;closedelay=80;text=`<table cellspacing=0 cellpadding=0 border=0><tr><td class=GlobalCartLeft><img src=http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/basketicon.gif border=0 alt=Shopping Basket></td><td class=GlobalCartRight><div><b>0</b> items <b>$0.00</b></div></td></tr></table>`;url=/basket.do?nav=%2Fcategory%2Fid%2F117041%2F117049");
-          
-       }
-      drawMenus();
-            </script><div class="GlobalCartItemOff" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return 0" id="menu0" style="padding:0px;;border:1px solid #21419a;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="GlobalCartOff" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return 0" id="menu1" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 254px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl1"><tbody><tr><td width="254" class="GlobalCartOff" id="el1" onmouseover="h$(1)" style=""><a onmouseup="$K(1)" name="mM1" onfocus="_iF0C(1)" href="/basket.do?nav=%2Fcategory%2Fid%2F117041%2F117049" class="GlobalCartOff" id="lnk1" style="border:none;background:transparent;display:block;   "><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="GlobalCartLeft"><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/basketicon.gif" border="0" alt="Shopping" basket=""></td><td class="GlobalCartRight"><div><b>0</b> items <b>$0.00</b></div></td></tr></tbody></table></a></td></tr></tbody></table> <a name="mM1" id="mmlink1" href="#" onmouseout="hidetip()" onmouseup="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
-      </td>
-  </tr>
-</tbody></table>
+
+<div id="globalBasket" class="popDownWrapper globalCartWrapper">
+	<div class="popDownNav globalCartNav">
+		<div class="globalCartBasketImg"><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/basketicon.gif" border="0" alt="Shopping" basket=""></div>
+		<div class="globalCartBasketInfo"><span class="navQty"><b>0</b> items</span> <span class="navTotal"><b>$0.00</b></span></div>
+	</div>
+	<div class="popDownLayer globalCartLayer">
+
+		
+		  
+		  
+			<div class="globalCartEmpty">Your shopping basket is empty.</div>
+		  
+				
+		
+	</div>
+</div>
 </div></td>
 			</tr>
 		</tbody></table>
+
 	
 	</div>
 	<div>
-<ul id="sel_">
+<ul id="sel_115578">
         
             
+                
+                
                     <li><div id="tnc_115134" class="catNav115134 topNav_1"><a href="http://www.educationalinsights.com/category/parents.do"><span>Parents</span></a></div></li>
                 
+            
         
             
-                    <li><div id="tnc_115578" class="catNav115578 topNav_2"><a href="http://www.educationalinsights.com/category/teachers.do"><span>Teachers</span></a></div></li>
                 
+                    <li><div id="tnc_115578" class="catNav115578 topNav_2"><a href="http://www.educationalinsights.com/category/teachers.do" class="current"><span>Teachers</span></a></div></li>
+					<script type="text/javascript">
+						document.getElementById("catNavBg").className="categorynavbg_2";
+					</script>
+                
+                
+            
         
             
-                    <li><div id="tnc_117062" class="catNav117062 topNav_3"><a href="http://www.educationalinsights.com/category/classroom+jeopardy%21--174-.do"><span>CLASSROOM JEOPARDY!®</span></a></div></li>
                 
+                
+                    <li><div id="tnc_117062" class="catNav117062 topNav_3"><a href="http://www.educationalinsights.com/category/classroom+jeopardy%21--174-.do"><span>Classroom Jeopardy!®</span></a></div></li>
+                
+            
         
       
 </ul>
@@ -494,11 +704,71 @@ document.getElementById(divid).className=stylesheetclass;
 <!--CatNav End-->
     
   
+
+  
+  
+
+  
+  
+
+
 </div>
 		</td>
 	</tr>
 	<tr>
-		<td class="defaultCat subcatnavbg" colspan="3" id="sel__cat"><!--CatNav Start-->
+		<td class="defaultCat subcatnavbg" colspan="3" id="sel_115578_cat"><!--CatNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+		
+  	
+
+    
+
+
+
+
+
+
 
 
 
@@ -522,42 +792,19 @@ document.getElementById(divid).className=stylesheetclass;
 
 
 
-
-
-
-
-
-
-    
-
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 
 
 <!-- milonic menu start -->	  
+
+
+
+
+
+
+    
+        
+    
+    
 
 
 
@@ -625,9 +872,9 @@ with(menuStyle0=new mm_style()){
   separatorcolor="#FFffff";			   
 }
 
-with(milonic=new menuname("Menu115134")){style=menuStyle0;aI("text=`Subject`;showmenu=Menu115135;;url=http://www.educationalinsights.com/category/parents/subject.do;");aI("text=`Category`;showmenu=Menu115195;;url=http://www.educationalinsights.com/category/parents/category.do;");aI("text=`Theme`;showmenu=Menu115381;;url=http://www.educationalinsights.com/category/parents/theme.do;");aI("text=`Brand`;showmenu=Menu115414;;url=http://www.educationalinsights.com/category/parents/brand.do;");aI("text=`Sale`;showmenu=Menu115441;;url=http://www.educationalinsights.com/category/parents/sale.do;");aI("text=`Support &#38; Share`;showmenu=Menu115459;;url=http://www.educationalinsights.com/category/parents/support+--38-+share.do;");}with(milonic=new menuname("Menu115135")){style=menuStyle0;aI("text=`Early Learners &#38; Preschool`;showmenu=Menu117092;;url=http://www.educationalinsights.com/category/parents/subject/early+learners+--38-+preschool.do;");aI("text=`Math`;showmenu=Menu117104;;url=http://www.educationalinsights.com/category/parents/subject/math.do;");aI("text=`Time &#38; Money`;showmenu=Menu117112;;url=http://www.educationalinsights.com/category/parents/subject/time+--38-+money.do;");aI("text=`Reading &#38; Language Arts`;showmenu=Menu115167;;url=http://www.educationalinsights.com/category/parents/subject/reading+--38-+language+arts.do;");aI("text=`Science`;showmenu=Menu115173;;url=http://www.educationalinsights.com/category/parents/subject/science.do;");aI("text=`Social Studies`;showmenu=Menu115181;;url=http://www.educationalinsights.com/category/parents/subject/social+studies.do;");aI("text=`Special Needs`;showmenu=Menu115186;;url=http://www.educationalinsights.com/category/parents/subject/special+needs.do;");}with(milonic=new menuname("Menu115195")){style=menuStyle0;aI("text=`Reference Books`;showmenu=Menu117128;;url=http://www.educationalinsights.com/category/parents/category/reference+books.do;");aI("text=`New Products`;showmenu=Menu115196;;url=http://www.educationalinsights.com/category/parents/category/new+products.do;");aI("text=`Active Learning`;showmenu=Menu115212;;url=http://www.educationalinsights.com/category/parents/category/active+learning.do;");aI("text=`Active Play`;showmenu=Menu115217;;url=http://www.educationalinsights.com/category/parents/category/active+play.do;");aI("text=`Activity Sets & Books`;showmenu=Menu115218;;url=http://www.educationalinsights.com/category/parents/category/activity+sets+-+books.do;");aI("text=`Construction`;showmenu=Menu115262;;url=http://www.educationalinsights.com/category/parents/category/construction.do;");aI("text=`Creative Play`;showmenu=Menu115264;;url=http://www.educationalinsights.com/category/parents/category/creative+play.do;");aI("text=`Discovery & Exploration`;showmenu=Menu115266;;url=http://www.educationalinsights.com/category/parents/category/discovery+-+exploration.do;");aI("text=`Early Skill Development`;showmenu=Menu115274;;url=http://www.educationalinsights.com/category/parents/category/early+skill+development.do;");aI("text=`Electronic Toys &#38; Accessories`;showmenu=Menu115284;;url=http://www.educationalinsights.com/category/parents/category/electronic+toys+--38-+accessories.do;");aI("text=`Games & Puzzles`;showmenu=Menu115286;;url=http://www.educationalinsights.com/category/parents/category/games+-+puzzles.do;");aI("text=`Imaginative & Role Play`;showmenu=Menu115322;;url=http://www.educationalinsights.com/category/parents/category/imaginative+-+role+play.do;");aI("text=`Special Needs`;showmenu=Menu115333;;url=http://www.educationalinsights.com/category/parents/category/special+needs.do;");aI("text=`Learning Toys`;showmenu=Menu115376;;url=http://www.educationalinsights.com/category/parents/category/learning+toys.do;");}with(milonic=new menuname("Menu115381")){style=menuStyle0;aI("text=`Creative Play`;showmenu=Menu117136;;url=http://www.educationalinsights.com/category/parents/theme/creative+play.do;");aI("text=`Family Games`;showmenu=Menu117138;;url=http://www.educationalinsights.com/category/parents/theme/family+games.do;");aI("text=`Strategy Games`;showmenu=Menu117139;;url=http://www.educationalinsights.com/category/parents/theme/strategy+games.do;");aI("text=`Word Games`;showmenu=Menu117137;;url=http://www.educationalinsights.com/category/parents/theme/word+games.do;");aI("text=`Maps &#38; Globes`;showmenu=Menu117135;;url=http://www.educationalinsights.com/category/parents/theme/maps+--38-+globes.do;");aI("text=`Letters &#38; Numbers`;showmenu=Menu115382;;url=http://www.educationalinsights.com/category/parents/theme/letters+--38-+numbers.do;");aI("text=`Shapes &#38; Colors`;showmenu=Menu115390;;url=http://www.educationalinsights.com/category/parents/theme/shapes+--38-+colors.do;");aI("text=`Time &#38; Money`;showmenu=Menu115391;;url=http://www.educationalinsights.com/category/parents/theme/time+--38-+money.do;");aI("text=`Food &#38; Kitchen`;showmenu=Menu115397;;url=http://www.educationalinsights.com/category/parents/theme/food+--38-+kitchen.do;");aI("text=`Animals, Insects &#38; Plants`;showmenu=Menu115399;;url=http://www.educationalinsights.com/category/parents/theme/animals%2C+insects+--38-+plants.do;");aI("text=`Space &#38; Weather`;showmenu=Menu115400;;url=http://www.educationalinsights.com/category/parents/theme/space+--38-+weather.do;");aI("text=`Nutrition &#38; Human Body`;showmenu=Menu115412;;url=http://www.educationalinsights.com/category/parents/theme/nutrition+--38-+human+body.do;");aI("text=`Rocks, Minerals &#38; Fossils`;showmenu=Menu115413;;url=http://www.educationalinsights.com/category/parents/theme/rocks%2C+minerals+--38-+fossils.do;");}with(milonic=new menuname("Menu115414")){style=menuStyle0;aI("text=`Foamfetti&#8482;`;showmenu=Menu117223;;url=http://www.educationalinsights.com/category/parents/brand/foamfetti--8482-.do;");aI("text=`Educational Insights Gift Cards`;showmenu=Menu117362;;url=http://www.educationalinsights.com/category/parents/brand/educational+insights+gift+cards.do;");aI("text=`GeoSafari&#174; `;showmenu=Menu115415;;url=http://www.educationalinsights.com/category/parents/brand/geosafari--174-+.do;");aI("text=`GeoVision&#8482;`;showmenu=Menu115419;;url=http://www.educationalinsights.com/category/parents/brand/geovision--8482-.do;");aI("text=`Hot Dots&#174;`;showmenu=Menu117345;;url=http://www.educationalinsights.com/category/parents/brand/hot+dots--174-.do;");aI("text=`PlayFoam&#174;`;showmenu=Menu115420;;url=http://www.educationalinsights.com/category/parents/brand/playfoam--174-.do;");aI("text=`Smart Games&#8482;`;showmenu=Menu115423;;url=http://www.educationalinsights.com/category/parents/brand/smart+games--8482-.do;");aI("text=`Smencils&#174;`;showmenu=Menu117343;;url=http://www.educationalinsights.com/category/parents/brand/smencils--174-.do;");}with(milonic=new menuname("Menu115441")){style=menuStyle0;aI("text=`New to Sale`;showmenu=Menu115442;;url=http://www.educationalinsights.com/category/parents/sale/new+to+sale.do;");aI("text=`Clearance - Save up to 60% Off`;showmenu=Menu115453;;url=http://www.educationalinsights.com/category/parents/sale/clearance+-+save+up+to+60-+off.do;");}with(milonic=new menuname("Menu115459")){style=menuStyle0;aI("text=`Videos`;showmenu=Menu117212;;url=http://www.educationalinsights.com/category/parents/support+--38-+share/videos.do;");aI("text=`Product instructions`;showmenu=Menu117213;;url=http://www.educationalinsights.com/category/parents/support+--38-+share/product+instructions.do;");aI("text=`Product demos`;showmenu=Menu117214;;url=http://www.educationalinsights.com/category/parents/support+--38-+share/product+demos.do;");}with(milonic=new menuname("Menu115578")){style=menuStyle0;aI("text=`Subject`;showmenu=Menu115579;;url=http://www.educationalinsights.com/category/teachers/subject.do;");aI("text=`Category`;showmenu=Menu115847;;url=http://www.educationalinsights.com/category/teachers/category.do;");aI("text=`Theme`;showmenu=Menu116256;;url=http://www.educationalinsights.com/category/teachers/theme.do;");aI("text=`Brand`;showmenu=Menu116287;;url=http://www.educationalinsights.com/category/teachers/brand.do;");aI("text=`Sale`;showmenu=Menu116363;;url=http://www.educationalinsights.com/category/teachers/sale.do;");aI("text=`Support &#38; Share`;showmenu=Menu116417;;url=http://www.educationalinsights.com/category/teachers/support+--38-+share.do;");}with(milonic=new menuname("Menu115579")){style=menuStyle0;aI("text=`Early Childhood`;showmenu=Menu115636;;url=http://www.educationalinsights.com/category/teachers/subject/early+childhood.do;");aI("text=`Math`;showmenu=Menu115667;;url=http://www.educationalinsights.com/category/teachers/subject/math.do;");aI("text=`Language`;showmenu=Menu115739;;url=http://www.educationalinsights.com/category/teachers/subject/language.do;");aI("text=`ESL/ELL`;showmenu=Menu115782;;url=http://www.educationalinsights.com/category/teachers/subject/esl-ell.do;");aI("text=`Spanish`;showmenu=Menu115798;;url=http://www.educationalinsights.com/category/teachers/subject/spanish.do;");aI("text=`Science`;showmenu=Menu115814;;url=http://www.educationalinsights.com/category/teachers/subject/science.do;");aI("text=`Social Studies`;showmenu=Menu115846;;url=http://www.educationalinsights.com/category/teachers/subject/social+studies.do;");}with(milonic=new menuname("Menu115847")){style=menuStyle0;aI("text=`New Products`;showmenu=Menu115984;;url=http://www.educationalinsights.com/category/teachers/category/new+products.do;");aI("text=`Pocket Charts`;showmenu=Menu116000;;url=http://www.educationalinsights.com/category/teachers/category/pocket+charts.do;");aI("text=`Flip Charts`;showmenu=Menu116006;;url=http://www.educationalinsights.com/category/teachers/category/flip+charts.do;");aI("text=`Creative Play`;showmenu=Menu116008;;url=http://www.educationalinsights.com/category/teachers/category/creative+play.do;");aI("text=`Activity Kits`;showmenu=Menu116073;;url=http://www.educationalinsights.com/category/teachers/category/activity+kits.do;");aI("text=`Discovery & Exploration`;showmenu=Menu116083;;url=http://www.educationalinsights.com/category/teachers/category/discovery+-+exploration.do;");aI("text=`Early Skill Development`;showmenu=Menu116094;;url=http://www.educationalinsights.com/category/teachers/category/early+skill+development.do;");aI("text=`ESL/ELL`;showmenu=Menu116106;;url=http://www.educationalinsights.com/category/teachers/category/esl-ell.do;");aI("text=`Games & Puzzles`;showmenu=Menu116122;;url=http://www.educationalinsights.com/category/teachers/category/games+-+puzzles.do;");aI("text=`Imaginative & Role Play`;showmenu=Menu116134;;url=http://www.educationalinsights.com/category/teachers/category/imaginative+-+role+play.do;");aI("text=`Manipulatives`;showmenu=Menu116141;;url=http://www.educationalinsights.com/category/teachers/category/manipulatives.do;");aI("text=`Publications`;showmenu=Menu116157;;url=http://www.educationalinsights.com/category/teachers/category/publications.do;");aI("text=`Replacement Parts`;showmenu=Menu116168;;url=http://www.educationalinsights.com/category/teachers/category/replacement+parts.do;");aI("text=`Special Needs`;showmenu=Menu116185;;url=http://www.educationalinsights.com/category/teachers/category/special+needs.do;");aI("text=`Teacher Resources`;showmenu=Menu116236;;url=http://www.educationalinsights.com/category/teachers/category/teacher+resources.do;");}with(milonic=new menuname("Menu116256")){style=menuStyle0;aI("text=`Stamps &#38; Stamp Pads`;showmenu=Menu117178;;url=http://www.educationalinsights.com/category/teachers/theme/stamps+--38-+stamp+pads.do;");aI("text=`Letters &#38; Numbers`;showmenu=Menu116257;;url=http://www.educationalinsights.com/category/teachers/theme/letters+--38-+numbers.do;");aI("text=`Shapes &#38; Colors`;showmenu=Menu116265;;url=http://www.educationalinsights.com/category/teachers/theme/shapes+--38-+colors.do;");aI("text=`Animals, Insects &#38; Plants`;showmenu=Menu116266;;url=http://www.educationalinsights.com/category/teachers/theme/animals%2C+insects+--38-+plants.do;");aI("text=`Time &#38; Money`;showmenu=Menu116267;;url=http://www.educationalinsights.com/category/teachers/theme/time+--38-+money.do;");aI("text=`Space &#38; Weather`;showmenu=Menu116271;;url=http://www.educationalinsights.com/category/teachers/theme/space+--38-+weather.do;");aI("text=`Nutrition &#38; Human Body`;showmenu=Menu116274;;url=http://www.educationalinsights.com/category/teachers/theme/nutrition+--38-+human+body.do;");aI("text=`Patterns, Sorting &#38; Lacing`;showmenu=Menu116280;;url=http://www.educationalinsights.com/category/teachers/theme/patterns%2C+sorting+--38-+lacing.do;");aI("text=`School &#38; Community`;showmenu=Menu116284;;url=http://www.educationalinsights.com/category/teachers/theme/school+--38-+community.do;");aI("text=`Rocks, Minerals &#38; Fossils`;showmenu=Menu116285;;url=http://www.educationalinsights.com/category/teachers/theme/rocks%2C+minerals+--38-+fossils.do;");aI("text=`Maps &#38; Globes`;showmenu=Menu116286;;url=http://www.educationalinsights.com/category/teachers/theme/maps+--38-+globes.do;");}with(milonic=new menuname("Menu116287")){style=menuStyle0;aI("text=`Classroom Jeopardy!&#174;`;showmenu=Menu116311;;url=http://www.educationalinsights.com/category/teachers/brand/classroom+jeopardy%21--174-.do;");aI("text=`Educational Insights Gift Cards`;showmenu=Menu117552;;url=http://www.educationalinsights.com/category/teachers/brand/educational+insights+gift+cards.do;");aI("text=`Foamfetti&#8482;`;showmenu=Menu117222;;url=http://www.educationalinsights.com/category/teachers/brand/foamfetti--8482-.do;");aI("text=`Hot Dots&#174;`;showmenu=Menu116289;;url=http://www.educationalinsights.com/category/teachers/brand/hot+dots--174-.do;");aI("text=`GeoSafari&#174;`;showmenu=Menu116297;;url=http://www.educationalinsights.com/category/teachers/brand/geosafari--174-.do;");aI("text=`GeoVision&#8482;`;showmenu=Menu116308;;url=http://www.educationalinsights.com/category/teachers/brand/geovision--8482-.do;");aI("text=`Language Tutor&#8482; Learning System`;showmenu=Menu117332;;url=http://www.educationalinsights.com/category/teachers/brand/language+tutor--8482-+learning+system.do;");aI("text=`ReMARKable&#8482;`;showmenu=Menu116309;;url=http://www.educationalinsights.com/category/teachers/brand/remarkable--8482-.do;");aI("text=`Smart Games&#8482;`;showmenu=Menu116353;;url=http://www.educationalinsights.com/category/teachers/brand/smart+games--8482-.do;");aI("text=`Smart Talk&#8482;`;showmenu=Menu116354;;url=http://www.educationalinsights.com/category/teachers/brand/smart+talk--8482-.do;");aI("text=`Smencils&#174;`;showmenu=Menu117344;;url=http://www.educationalinsights.com/category/teachers/brand/smencils--174-.do;");aI("text=`Teaching Tiles&#8482;`;showmenu=Menu116323;;url=http://www.educationalinsights.com/category/teachers/brand/teaching+tiles--8482-.do;");}with(milonic=new menuname("Menu116363")){style=menuStyle0;aI("text=`New to Sale`;showmenu=Menu116364;;url=http://www.educationalinsights.com/category/teachers/sale/new+to+sale.do;");aI("text=`Clearance - Save up to 60% off`;showmenu=Menu116411;;url=http://www.educationalinsights.com/category/teachers/sale/clearance+-+save+up+to+60-+off.do;");}with(milonic=new menuname("Menu116417")){style=menuStyle0;aI("text=`Videos`;showmenu=Menu117224;;url=http://www.educationalinsights.com/category/teachers/support+--38-+share/videos.do;");aI("text=`Product instructions`;showmenu=Menu117225;;url=http://www.educationalinsights.com/category/teachers/support+--38-+share/product+instructions.do;");aI("text=`Product demos`;showmenu=Menu117227;;url=http://www.educationalinsights.com/category/teachers/support+--38-+share/product+demos.do;");}with(milonic=new menuname("Menu117062")){style=menuStyle0;aI("text=`Register`;showmenu=Menu117502;;url=http://www.educationalinsights.com/category/classroom+jeopardy%21--174-/register.do;");aI("text=`Learn More!`;showmenu=Menu117503;;url=http://www.educationalinsights.com/category/classroom+jeopardy%21--174-/learn+more%21.do;");aI("text=`FAQ`;showmenu=Menu117504;;url=http://www.educationalinsights.com/category/classroom+jeopardy%21--174-/faq.do;");aI("text=`User Comments`;showmenu=Menu117505;;url=http://www.educationalinsights.com/category/classroom+jeopardy%21--174-/user+comments.do;");aI("text=`Teacher Tips`;showmenu=Menu117506;;url=http://www.educationalinsights.com/category/classroom+jeopardy%21--174-/teacher+tips.do;");aI("text=`Member Log-in`;showmenu=Menu117507;;url=http://www.educationalinsights.com/category/classroom+jeopardy%21--174-/member+log-in.do;");}with(milonic=new menuname("Menu117502")){style=menuStyle0;}with(milonic=new menuname("Menu117503")){style=menuStyle0;}with(milonic=new menuname("Menu117504")){style=menuStyle0;}with(milonic=new menuname("Menu117505")){style=menuStyle0;}with(milonic=new menuname("Menu117506")){style=menuStyle0;}with(milonic=new menuname("Menu117507")){style=menuStyle0;}
+with(milonic=new menuname("Menu115135")){style=menuStyle0;aI("text=`Early Learners &#38; Preschool`;showmenu=Menu117092;url=/category/parents/subject/early+learners+--38-+preschool.do?nType=1;");aI("text=`Math`;showmenu=Menu117104;url=/category/parents/subject/math.do?nType=1;");aI("text=`Time &#38; Money`;showmenu=Menu117112;url=/category/parents/subject/time+--38-+money.do?nType=1;");aI("text=`Reading &#38; Language Arts`;showmenu=Menu115167;url=/category/parents/subject/reading+--38-+language+arts.do?nType=1;");aI("text=`Science`;showmenu=Menu115173;url=/category/parents/subject/science.do?nType=1;");aI("text=`Social Studies`;showmenu=Menu115181;url=/category/parents/subject/social+studies.do?nType=1;");aI("text=`Special Needs`;showmenu=Menu115186;url=/category/parents/subject/special+needs.do?nType=1;");}with(milonic=new menuname("Menu115195")){style=menuStyle0;aI("text=`Top Rated Products`;showmenu=Menu118242;url=/category/parents/category/top+rated+products.do?nType=1;");aI("text=`New Products`;showmenu=Menu118062;url=/category/parents/category/new+products.do?nType=1;");aI("text=`Active Learning`;showmenu=Menu115212;url=/category/parents/category/active+learning.do?nType=1;");aI("text=`Active Play`;showmenu=Menu115217;url=/category/parents/category/active+play.do?nType=1;");aI("text=`Activity Sets & Books`;showmenu=Menu115218;url=/category/parents/category/activity+sets+-+books.do?nType=1;");aI("text=`Construction`;showmenu=Menu115262;url=/category/parents/category/construction.do?nType=1;");aI("text=`Creative Play`;showmenu=Menu115264;url=/category/parents/category/creative+play.do?nType=1;");aI("text=`Discovery & Exploration`;showmenu=Menu115266;url=/category/parents/category/discovery+-+exploration.do?nType=1;");aI("text=`Early Skill Development`;showmenu=Menu115274;url=/category/parents/category/early+skill+development.do?nType=1;");aI("text=`Electronic Toys &#38; Accessories`;showmenu=Menu115284;url=/category/parents/category/electronic+toys+--38-+accessories.do?nType=1;");aI("text=`Games & Puzzles`;showmenu=Menu115286;url=/category/parents/category/games+-+puzzles.do?nType=1;");aI("text=`Imaginative & Role Play`;showmenu=Menu115322;url=/category/parents/category/imaginative+-+role+play.do?nType=1;");aI("text=`Learning Toys`;showmenu=Menu115376;url=/category/parents/category/learning+toys.do?nType=1;");aI("text=`Reference Books`;showmenu=Menu117128;url=/category/parents/category/reference+books.do?nType=1;");aI("text=`Special Needs`;showmenu=Menu115333;url=/category/parents/category/special+needs.do?nType=1;");}with(milonic=new menuname("Menu115381")){style=menuStyle0;aI("text=`Creative Play`;showmenu=Menu117136;url=/category/parents/theme/creative+play.do?nType=1;");aI("text=`Family Games`;showmenu=Menu117138;url=/category/parents/theme/family+games.do?nType=1;");aI("text=`Strategy Games`;showmenu=Menu117139;url=/category/parents/theme/strategy+games.do?nType=1;");aI("text=`Word Games`;showmenu=Menu117137;url=/category/parents/theme/word+games.do?nType=1;");aI("text=`Maps &#38; Globes`;showmenu=Menu117135;url=/category/parents/theme/maps+--38-+globes.do?nType=1;");aI("text=`Letters &#38; Numbers`;showmenu=Menu115382;url=/category/parents/theme/letters+--38-+numbers.do?nType=1;");aI("text=`Shapes &#38; Colors`;showmenu=Menu115390;url=/category/parents/theme/shapes+--38-+colors.do?nType=1;");aI("text=`Time &#38; Money`;showmenu=Menu115391;url=/category/parents/theme/time+--38-+money.do?nType=1;");aI("text=`Food &#38; Kitchen`;showmenu=Menu115397;url=/category/parents/theme/food+--38-+kitchen.do?nType=1;");aI("text=`Animals, Insects &#38; Plants`;showmenu=Menu115399;url=/category/parents/theme/animals%2C+insects+--38-+plants.do?nType=1;");aI("text=`Space &#38; Weather`;showmenu=Menu115400;url=/category/parents/theme/space+--38-+weather.do?nType=1;");aI("text=`Nutrition &#38; Human Body`;showmenu=Menu115412;url=/category/parents/theme/nutrition+--38-+human+body.do?nType=1;");aI("text=`Rocks, Minerals &#38; Fossils`;showmenu=Menu115413;url=/category/parents/theme/rocks%2C+minerals+--38-+fossils.do?nType=1;");}with(milonic=new menuname("Menu115414")){style=menuStyle0;aI("text=`Educational Insights Gift Cards`;showmenu=Menu117362;url=/category/parents/brand/educational+insights+gift+cards.do?nType=1;");aI("text=`GeoSafari&#174; `;showmenu=Menu115415;url=/category/parents/brand/geosafari--174-+.do?nType=1;");aI("text=`Hot Dots&#174;`;showmenu=Menu117345;url=/category/parents/brand/hot+dots--174-.do?nType=1;");aI("text=`Playfoam&#174;`;showmenu=Menu115420;url=/category/parents/brand/playfoam--174-.do?nType=1;");aI("text=`Smencils&#174;`;showmenu=Menu117343;url=/category/parents/brand/smencils--174-.do?nType=1;");}with(milonic=new menuname("Menu115441")){style=menuStyle0;}with(milonic=new menuname("Menu115459")){style=menuStyle0;aI("text=`Award Winning Products`;showmenu=Menu118313;url=/category/parents/support+--38-+share/award+winning+products.do?nType=1;");aI("text=`Videos`;showmenu=Menu117212;url=/category/parents/support+--38-+share/videos.do?nType=1;");aI("text=`Product instructions`;showmenu=Menu117213;url=/category/parents/support+--38-+share/product+instructions.do?nType=1;");aI("text=`Product demos`;showmenu=Menu117214;url=/category/parents/support+--38-+share/product+demos.do?nType=1;");}with(milonic=new menuname("Menu115579")){style=menuStyle0;aI("text=`Early Childhood`;showmenu=Menu115636;url=/category/teachers/subject/early+childhood.do?nType=1;");aI("text=`Math`;showmenu=Menu115667;url=/category/teachers/subject/math.do?nType=1;");aI("text=`Language`;showmenu=Menu115739;url=/category/teachers/subject/language.do?nType=1;");aI("text=`ESL/ELL`;showmenu=Menu115782;url=/category/teachers/subject/esl-ell.do?nType=1;");aI("text=`Spanish`;showmenu=Menu115798;url=/category/teachers/subject/spanish.do?nType=1;");aI("text=`Science`;showmenu=Menu115814;url=/category/teachers/subject/science.do?nType=1;");aI("text=`Social Studies`;showmenu=Menu115846;url=/category/teachers/subject/social+studies.do?nType=1;");}with(milonic=new menuname("Menu115847")){style=menuStyle0;aI("text=`Top Rated Products`;showmenu=Menu118246;url=/category/teachers/category/top+rated+products.do?nType=1;");aI("text=`New Products`;showmenu=Menu118071;url=/category/teachers/category/new+products.do?nType=1;");aI("text=`Pocket Charts`;showmenu=Menu116000;url=/category/teachers/category/pocket+charts.do?nType=1;");aI("text=`Flip Charts`;showmenu=Menu116006;url=/category/teachers/category/flip+charts.do?nType=1;");aI("text=`Creative Play`;showmenu=Menu116008;url=/category/teachers/category/creative+play.do?nType=1;");aI("text=`Activity Kits`;showmenu=Menu116073;url=/category/teachers/category/activity+kits.do?nType=1;");aI("text=`Discovery & Exploration`;showmenu=Menu116083;url=/category/teachers/category/discovery+-+exploration.do?nType=1;");aI("text=`Early Skill Development`;showmenu=Menu116094;url=/category/teachers/category/early+skill+development.do?nType=1;");aI("text=`ESL/ELL`;showmenu=Menu116106;url=/category/teachers/category/esl-ell.do?nType=1;");aI("text=`Games & Puzzles`;showmenu=Menu116122;url=/category/teachers/category/games+-+puzzles.do?nType=1;");aI("text=`Imaginative & Role Play`;showmenu=Menu116134;url=/category/teachers/category/imaginative+-+role+play.do?nType=1;");aI("text=`Manipulatives`;showmenu=Menu116141;url=/category/teachers/category/manipulatives.do?nType=1;");aI("text=`Publications`;showmenu=Menu116157;url=/category/teachers/category/publications.do?nType=1;");aI("text=`Replacement Parts`;showmenu=Menu116168;url=/category/teachers/category/replacement+parts.do?nType=1;");aI("text=`Special Needs`;showmenu=Menu116185;url=/category/teachers/category/special+needs.do?nType=1;");aI("text=`Teacher Resources`;showmenu=Menu116236;url=/category/teachers/category/teacher+resources.do?nType=1;");}with(milonic=new menuname("Menu116256")){style=menuStyle0;aI("text=`Stamps &#38; Stamp Pads`;showmenu=Menu117178;url=/category/teachers/theme/stamps+--38-+stamp+pads.do?nType=1;");aI("text=`Letters &#38; Numbers`;showmenu=Menu116257;url=/category/teachers/theme/letters+--38-+numbers.do?nType=1;");aI("text=`Shapes &#38; Colors`;showmenu=Menu116265;url=/category/teachers/theme/shapes+--38-+colors.do?nType=1;");aI("text=`Animals, Insects &#38; Plants`;showmenu=Menu116266;url=/category/teachers/theme/animals%2C+insects+--38-+plants.do?nType=1;");aI("text=`Time &#38; Money`;showmenu=Menu116267;url=/category/teachers/theme/time+--38-+money.do?nType=1;");aI("text=`Space &#38; Weather`;showmenu=Menu116271;url=/category/teachers/theme/space+--38-+weather.do?nType=1;");aI("text=`Nutrition &#38; Human Body`;showmenu=Menu116274;url=/category/teachers/theme/nutrition+--38-+human+body.do?nType=1;");aI("text=`Patterns, Sorting &#38; Lacing`;showmenu=Menu116280;url=/category/teachers/theme/patterns%2C+sorting+--38-+lacing.do?nType=1;");aI("text=`School &#38; Community`;showmenu=Menu116284;url=/category/teachers/theme/school+--38-+community.do?nType=1;");aI("text=`Rocks, Minerals &#38; Fossils`;showmenu=Menu116285;url=/category/teachers/theme/rocks%2C+minerals+--38-+fossils.do?nType=1;");aI("text=`Maps &#38; Globes`;showmenu=Menu116286;url=/category/teachers/theme/maps+--38-+globes.do?nType=1;");}with(milonic=new menuname("Menu116287")){style=menuStyle0;aI("text=`Hot Dots&#174;`;showmenu=Menu116289;url=/category/teachers/brand/hot+dots--174-.do?nType=1;");aI("text=`GeoSafari&#174;`;showmenu=Menu116297;url=/category/teachers/brand/geosafari--174-.do?nType=1;");aI("text=`Classroom Jeopardy!&#174;`;showmenu=Menu116311;url=/category/teachers/brand/classroom+jeopardy%21--174-.do?nType=1;");aI("text=`Educational Insights Gift Cards`;showmenu=Menu117552;url=/category/teachers/brand/educational+insights+gift+cards.do?nType=1;");aI("text=`Language Tutor&#8482; Learning System`;showmenu=Menu117332;url=/category/teachers/brand/language+tutor--8482-+learning+system.do?nType=1;");aI("text=`ReMARKable&#8482;`;showmenu=Menu116309;url=/category/teachers/brand/remarkable--8482-.do?nType=1;");aI("text=`Smart Talk&#8482;`;showmenu=Menu116354;url=/category/teachers/brand/smart+talk--8482-.do?nType=1;");aI("text=`Smencils&#174;`;showmenu=Menu117344;url=/category/teachers/brand/smencils--174-.do?nType=1;");aI("text=`Teaching Tiles&#8482;`;showmenu=Menu116323;url=/category/teachers/brand/teaching+tiles--8482-.do?nType=1;");}with(milonic=new menuname("Menu116363")){style=menuStyle0;}with(milonic=new menuname("Menu116417")){style=menuStyle0;aI("text=`Videos`;showmenu=Menu117224;url=/category/teachers/support+--38-+share/videos.do?nType=1;");aI("text=`Product instructions`;showmenu=Menu117225;url=/category/teachers/support+--38-+share/product+instructions.do?nType=1;");aI("text=`Product demos`;showmenu=Menu117227;url=/category/teachers/support+--38-+share/product+demos.do?nType=1;");aI("text=`Downloadable Content`;showmenu=Menu117982;url=/category/teachers/support+--38-+share/downloadable+content.do?nType=1;");aI("text=`Award Winning Products`;showmenu=Menu118312;url=/category/teachers/support+--38-+share/award+winning+products.do?nType=1;");}with(milonic=new menuname("Menu118423")){style=menuStyle0;aI("text=`8000 - New for 2011`;showmenu=Menu118682;url=/category/classroom+jeopardy%21--174-/about/8000+-+new+for+2011.do?nType=1;");aI("text=`7910 - Original Version`;showmenu=Menu118683;url=/category/classroom+jeopardy%21--174-/about/7910+-+original+version.do?nType=1;");}with(milonic=new menuname("Menu117505")){style=menuStyle0;}with(milonic=new menuname("Menu118382")){style=menuStyle0;aI("text=`8000 - New for 2011 downloads`;showmenu=Menu118592;url=/category/classroom+jeopardy%21--174-/free+games/8000+-+new+for+2011+downloads.do?nType=1;");aI("text=`7910 - Original Version downloads`;showmenu=Menu118601;url=/category/classroom+jeopardy%21--174-/free+games/7910+-+original+version+downloads.do?nType=1;");aI("text=`Upload Games`;showmenu=Menu118472;url=/category/classroom+jeopardy%21--174-/free+games/upload+games.do?nType=1;");}with(milonic=new menuname("Menu118668")){style=menuStyle0;aI("text=`8000 - New for 2011`;showmenu=Menu118669;url=/category/classroom+jeopardy%21--174-/support/8000+-+new+for+2011.do?nType=1;");aI("text=`7910 - Original Version`;showmenu=Menu118670;url=/category/classroom+jeopardy%21--174-/support/7910+-+original+version.do?nType=1;");}with(milonic=new menuname("Menu118482")){style=menuStyle0;}with(milonic=new menuname("Menu118432")){style=menuStyle0;aI("text=`Contest Winners`;showmenu=Menu118961;url=/category/classroom+jeopardy%21--174-/win/contest+winners.do?nType=1;");}with(milonic=new menuname("Menu118882")){style=menuStyle0;}
 drawMenus();
-</script><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return 0" id="menu2" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(3)" onselectstart="return 0" id="menu3" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(4)" onselectstart="return 0" id="menu4" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(5)" onselectstart="return 0" id="menu5" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(6)" onselectstart="return 0" id="menu6" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(7)" onselectstart="return 0" id="menu7" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(8)" onselectstart="return 0" id="menu8" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(9)" onselectstart="return 0" id="menu9" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(10)" onselectstart="return 0" id="menu10" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(11)" onselectstart="return 0" id="menu11" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(12)" onselectstart="return 0" id="menu12" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(13)" onselectstart="return 0" id="menu13" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(14)" onselectstart="return 0" id="menu14" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(15)" onselectstart="return 0" id="menu15" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(16)" onselectstart="return 0" id="menu16" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
+</script><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return 0" id="menu0" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return 0" id="menu1" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return 0" id="menu2" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(3)" onselectstart="return 0" id="menu3" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(5)" onselectstart="return 0" id="menu5" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(6)" onselectstart="return 0" id="menu6" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(7)" onselectstart="return 0" id="menu7" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(8)" onselectstart="return 0" id="menu8" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(9)" onselectstart="return 0" id="menu9" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(11)" onselectstart="return 0" id="menu11" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(12)" onselectstart="return 0" id="menu12" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(14)" onselectstart="return 0" id="menu14" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(15)" onselectstart="return 0" id="menu15" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(17)" onselectstart="return 0" id="menu17" style="padding:0px;background:#fff;border:1px solid #00aeef;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
 <!-- milonic menu end -->
 <table border="0" cellspacing="0" cellpadding="0">
  <tbody><tr>
@@ -647,44 +894,65 @@ drawMenus();
 		position="relative";
 
 
+ 
 	
 	
 		
             
-				aI("text=<div class='menuItemNV'>Subject</div>;url=http://www.educationalinsights.com/category/parents/subject.do;showmenu=Menu115135;"); 
                 
+                
+				aI("text=<div class='menuItemNV'>Subject</div>;url=/category/teachers/subject.do;showmenu=Menu115579;"); 
+                
+            
         
 		
             
-				aI("text=<div class='menuItemNV'>Category</div>;url=http://www.educationalinsights.com/category/parents/category.do;showmenu=Menu115195;"); 
                 
+                
+				aI("text=<div class='menuItemNV'>Category</div>;url=/category/teachers/category.do;showmenu=Menu115847;"); 
+                
+            
         
 		
             
-				aI("text=<div class='menuItemNV'>Theme</div>;url=http://www.educationalinsights.com/category/parents/theme.do;showmenu=Menu115381;"); 
                 
+                
+				aI("text=<div class='menuItemNV'>Theme</div>;url=/category/teachers/theme.do;showmenu=Menu116256;"); 
+                
+            
         
 		
             
-				aI("text=<div class='menuItemNV'>Brand</div>;url=http://www.educationalinsights.com/category/parents/brand.do;showmenu=Menu115414;"); 
                 
+                
+				aI("text=<div class='menuItemNV'>Brand</div>;url=/category/teachers/brand.do;showmenu=Menu116287;"); 
+                
+            
         
 		
             
-				aI("text=<div class='menuItemNV'>Sale</div>;url=http://www.educationalinsights.com/category/parents/sale.do;showmenu=Menu115441;"); 
                 
+                
+				aI("text=<div class='menuItemNV'>Sale</div>;url=/category/teachers/sale.do;showmenu=Menu116363;"); 
+                
+            
         
 		
 			
 		
             
-				aI("text=<div class='menuItemNVY'>Support &#38; Share</div>;url=http://www.educationalinsights.com/category/parents/support+--38-+share.do;showmenu=Menu115459;"); 
                 
+                
+				aI("text=<div class='menuItemNVY'>Support &#38; Share</div>;url=/category/teachers/support+--38-+share.do;showmenu=Menu116417;"); 
+                
+            
         
 	}
           drawMenus();
-          </script><div class="eimenuitemOff" onmouseout="$I()" onmouseover="$J(23)" onselectstart="return 0" id="menu23" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 810px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl23"><tbody><tr><td class="eimenuitemOff" nowrap="" id="el117" onmouseover="h$(117)" style=""><a onmouseup="$K(117)" name="mM1" onfocus="_iF0C(117)" href="http://www.educationalinsights.com/category/parents/subject.do" class="eimenuitemOff" id="lnk117" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Subject</div></a></td><td class="eimenuitemOff" nowrap="" id="el118" onmouseover="h$(118)" style=""><a onmouseup="$K(118)" name="mM1" onfocus="_iF0C(118)" href="http://www.educationalinsights.com/category/parents/category.do" class="eimenuitemOff" id="lnk118" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Category</div></a></td><td class="eimenuitemOff" nowrap="" id="el119" onmouseover="h$(119)" style=""><a onmouseup="$K(119)" name="mM1" onfocus="_iF0C(119)" href="http://www.educationalinsights.com/category/parents/theme.do" class="eimenuitemOff" id="lnk119" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Theme</div></a></td><td class="eimenuitemOff" nowrap="" id="el120" onmouseover="h$(120)" style=""><a onmouseup="$K(120)" name="mM1" onfocus="_iF0C(120)" href="http://www.educationalinsights.com/category/parents/brand.do" class="eimenuitemOff" id="lnk120" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Brand</div></a></td><td class="eimenuitemOff" nowrap="" id="el121" onmouseover="h$(121)" style=""><a onmouseup="$K(121)" name="mM1" onfocus="_iF0C(121)" href="http://www.educationalinsights.com/category/parents/sale.do" class="eimenuitemOff" id="lnk121" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Sale</div></a></td><td class="eimenuitemOff" nowrap="" id="el122" onmouseover="h$(122)" style=""><a onmouseup="$K(122)" name="mM1" onfocus="_iF0C(122)" href="http://www.educationalinsights.com/category/parents/support+--38-+share.do" class="eimenuitemOff" id="lnk122" style="border:none;background:transparent;display:block;   "><div class="menuItemNVY">Support &amp; Share</div></a></td></tr></tbody></table> <a name="mM1" id="mmlink23" href="#" onmouseout="hidetip()" onmouseup="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
+          </script><div class="eimenuitemOff" onmouseout="$I()" onmouseover="$J(19)" onselectstart="return 0" id="menu19" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 810px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl19"><tbody><tr><td class="eimenuitemOff" nowrap="" id="el100" onmouseover="h$(100)" style=""><a onmouseup="$K(100)" name="mM1" onfocus="_iF0C(100)" href="/category/teachers/subject.do" class="eimenuitemOff" id="lnk100" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Subject</div></a></td><td class="eimenuitemOff" nowrap="" id="el101" onmouseover="h$(101)" style=""><a onmouseup="$K(101)" name="mM1" onfocus="_iF0C(101)" href="/category/teachers/category.do" class="eimenuitemOff" id="lnk101" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Category</div></a></td><td class="eimenuitemOff" nowrap="" id="el102" onmouseover="h$(102)" style=""><a onmouseup="$K(102)" name="mM1" onfocus="_iF0C(102)" href="/category/teachers/theme.do" class="eimenuitemOff" id="lnk102" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Theme</div></a></td><td class="eimenuitemOff" nowrap="" id="el103" onmouseover="h$(103)" style=""><a onmouseup="$K(103)" name="mM1" onfocus="_iF0C(103)" href="/category/teachers/brand.do" class="eimenuitemOff" id="lnk103" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Brand</div></a></td><td class="eimenuitemOff" nowrap="" id="el104" onmouseover="h$(104)" style=""><a onmouseup="$K(104)" name="mM1" onfocus="_iF0C(104)" href="/category/teachers/sale.do" class="eimenuitemOff" id="lnk104" style="border:none;background:transparent;display:block;   "><div class="menuItemNV">Sale</div></a></td><td class="eimenuitemOff" nowrap="" id="el105" onmouseover="h$(105)" style=""><a onmouseup="$K(105)" name="mM1" onfocus="_iF0C(105)" href="/category/teachers/support+--38-+share.do" class="eimenuitemOff" id="lnk105" style="border:none;background:transparent;display:block;   "><div class="menuItemNVY">Support &amp; Share</div></a></td></tr></tbody></table> <a name="mM1" id="mmlink19" href="#" onmouseout="hidetip()" onmouseup="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
  
+ 
+
 </td></tr>
 </tbody></table>
 <!--CatNav End--></td>
@@ -698,7 +966,7 @@ drawMenus();
 		<div><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/spacer01.gif" width="926" height="20" border="0"></div>
 		<div>
 		
-		
+        
 
 
 
@@ -708,8 +976,19 @@ drawMenus();
 				<td>
 				<table border="0" cellpadding="0" cellspacing="0">
 					<tbody><tr>
-						<td><a href="/category/customer+service.do"><img src="http://images.educationalinsights.com/images/set_b/en_us/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></a></td>
-						<td>
+                  <td>
+										
+											
+											
+												<div><img src="http://images.educationalinsights.com/images/set_b/en_us/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></div>
+											
+														  
+								  </td>
+                  <td>
+
+
+
+
 
 
 
@@ -729,6 +1008,9 @@ drawMenus();
 
 
   
+
+
+
 
 
 
@@ -749,40 +1031,74 @@ drawMenus();
 <select name="subCatdd" onchange="changeCat(this.form,this)">
     
     
+        
+        
+            <option value="/category/customer+service/tax+exempt.do">Tax Exempt</option>
+        
+    
+    
+    
+        
+        
             <option value="/category/customer+service/how+to+order.do">How To Order</option>
         
     
     
+    
+        
+        
             <option value="/category/customer+service/shipping.do">Shipping</option>
         
     
     
+    
+        
+        
             <option value="/category/customer+service/pricing+-+out-of-stock+items.do">Pricing &amp; Out-of-Stock Items</option>
         
     
     
+    
+        
+        
             <option value="/category/customer+service/returns+-+exchanges.do">Returns &amp; Exchanges</option>
         
     
     
-            <option value="/category/customer+service/privacy+and+security.do?sortby=bestSellers" selected="">Privacy and Security</option>
+    
+        
+            <option value="/category/customer+service/privacy+and+security.do?sortby=ourPicks" selected="">Privacy and Security</option>
+        
         
     
     
+    
+        
+        
             <option value="/category/customer+service/faq.do">FAQ</option>
         
     
     
+    
+        
+        
             <option value="/category/customer+service/terms+of+use.do">Terms of Use</option>
         
     
     
+    
+        
+        
             <option value="/category/customer+service/contact+us.do">Contact Us</option>
         
     
     
+    
+        
+        
             <option value="/category/customer+service/custom+product+inquiries.do">Custom Product Inquiries</option>
         
+    
     
 </select>
 
@@ -824,7 +1140,14 @@ drawMenus();
 
 
 
+
+
+
+
   
+
+
+
 
 
 <table width="228" border="0" cellspacing="0" cellpadding="0">
@@ -832,6 +1155,48 @@ drawMenus();
    <td>
      
        
+         
+           <div class="subcat"><a href="/category/customer+service/tax+exempt.do">Tax Exempt</a></div>
+		   
+           
+         
+           <div class="subcat"><a href="/category/customer+service/how+to+order.do">How To Order</a></div>
+		   
+           
+         
+           <div class="subcat"><a href="/category/customer+service/shipping.do">Shipping</a></div>
+		   
+           
+         
+           <div class="subcat"><a href="/category/customer+service/pricing+-+out-of-stock+items.do">Pricing &amp; Out-of-Stock Items</a></div>
+		   
+           
+         
+           <div class="subcat"><a href="/category/customer+service/returns+-+exchanges.do">Returns &amp; Exchanges</a></div>
+		   
+           
+         
+           <div class="subcat"><a href="/category/customer+service/privacy+and+security.do?sortby=ourPicks">Privacy and Security</a></div>
+		   
+           
+         
+           <div class="subcat"><a href="/category/customer+service/faq.do">FAQ</a></div>
+		   
+           
+             
+           
+         
+           <div class="subcat"><a href="/category/customer+service/terms+of+use.do">Terms of Use</a></div>
+		   
+           
+         
+           <div class="subcat"><a href="/category/customer+service/contact+us.do">Contact Us</a></div>
+		   
+           
+         
+           <div class="subcat"><a href="/category/customer+service/custom+product+inquiries.do">Custom Product Inquiries</a></div>
+		   
+           
          
        
 	 
@@ -843,7 +1208,7 @@ drawMenus();
 						<td width="1" class="verticalrule"><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
 						<td><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/spacer01.gif" width="10" height="4" border="0"></td>
 						<td valign="top" width="72%">
-						<div class="default">
+                                                        <div class="default">
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -939,6 +1304,10 @@ drawMenus();
 
 
 
+
+
+
+
   
 
 
@@ -947,6 +1316,12 @@ drawMenus();
 
 
 
+
+
+
+
+  
+  
   	
     	<!--BottomNav Start-->
 
@@ -968,7 +1343,14 @@ drawMenus();
 
 
 
+
+
+
+
   
+
+
+
 
 
 
@@ -1001,13 +1383,35 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,lo
 					<tbody><tr>
 						<td class="emailupdatesin">
 						<table class="emailupdatesin" align="center" cellspacing="0" cellpadding="0">
-							<form id="emailSignUp" method="post" action="/ancillary/emailsignup.do"></form>
+							<script type="text/javascript">
+								function openEmailFancy(frm){
+									var fURL="/ancillary/emailsignup.do?emailAddress="+frm.emailAddress.value;
+									jQuery.fancybox({
+										'width'				: 772,
+										'height'			: 491,
+										'autoScale'			: false,
+										'transitionIn'		: 'none',
+										'transitionOut'		: 'none',
+										'type'				: 'iframe',
+										'content'			:fURL
+									});
+									return false;
+							}
+							</script>
+							<form id="emailSignUp" method="get" action="/ancillary/emailsignup.do" onsubmit="return openEmailFancy(this);"></form>
 							<tbody><tr>
-								<td colspan="2"><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/emailsignup.gif" border="0" alt="Email Updates"></td>
+								<td colspan="2">
+						
+								<img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/emailsignup.gif" border="0" alt="Email Updates">
+									
+								</td>
 							</tr>
 							<tr>
 								<td><input name="emailAddress" type="text" value="Your Email Address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='Your Email Address')this.value='';" onfocusout="if(this.value=='')this.value='Your Email Address';"></td>
-								<td><input type="image" name="emailSubmit" src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Sign Up"></td>
+								<td>
+								
+								<input type="image" name="emailSubmit" src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Sign Up"></td>
+                                
 							</tr>
 							
 						</tbody></table>
@@ -1036,7 +1440,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,lo
 				<td><a href="/category/customer+service/contact+us.do"><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalnav/contactus.gif" border="0" alt="Contact Us"></a></td>
 			</tr>
 			<tr>
-				<td><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalnav/phone.gif" border="0" alt="(888) 800-7893"></td>
+				<td><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalnav/phone.gif" border="0" alt="(800) 995-4436"></td>
 			</tr>
 		</tbody></table>
 		</td>
@@ -1050,7 +1454,8 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,lo
 				<td>
 				<table width="100%" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
-						<td class="footer"><a href="/category/company+information.do">Company Info</a> | <a href="/text/pwrei/pwr/product-reviews/c/index.html">Customer Reviews</a> | <a href="/category/press+center.do">Press Center</a><br> <a href="/ancillary/sitemap.do">Site Map</a> | <a href="/category/company+information/employment+opportunities.do">Careers</a> | <a href="/category/customer+service/custom+product+inquiries.do">Custom Product Inquiries</a><br><a href="/category/company+information/product+submission+form.do">Product Submission Form</a> | <a href="/category/customer+service/privacy+and+security.do">Privacy &amp; Security</a><br><a href="/category/customer+service/terms+of+use.do">Terms of Use</a></td></tr>
+						<!-- Merge code for request #SP-2011-04445 -->
+						<td class="footer"><a href="/category/company+information/company+information.do">Company Info</a> | <a href="/category/press+center.do">Press Center</a><br> <a href="/ancillary/sitemap.do">Site Map</a> | <a href="http://www.fairwaytalent.com">Join our Team</a> | <a href="/category/customer+service/custom+product+inquiries.do">Custom Product Inquiries</a><br><a href="/category/company+information/product+submission+form.do">Product Submission Form</a> | <a href="/category/customer+service/privacy+and+security.do">Privacy &amp; Security</a><br><a href="/category/customer+service/terms+of+use.do">Terms of Use</a></td></tr>
 				</tbody></table>
 				</td>
 			</tr>
@@ -1059,7 +1464,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,lo
 		<td valign="top"><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/spacer01.gif" width="30" height="1" border="0"></td>
 		<td valign="top" width="182">
 		<div class="hackerslogo"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.educationalinsights.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.educationalinsights.com/12.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a></div>
-		<div align="right" class="copyrightmsg"><span> ©2010&nbsp;Educational Insights</span></div></td>
+		<div align="right" class="copyrightmsg"><span> ©2012&nbsp;Educational Insights</span></div></td>
 		<td><img src="http://images.educationalinsights.com/images/set_b/en_us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
 	</tr>
 </tbody></table>
@@ -1067,6 +1472,14 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,lo
 
     
   
+
+  
+  
+
+  
+  
+
+
 
 		
 		</td>
@@ -1102,7 +1515,14 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,lo
 
 
 
+
+
+
+
   
+
+
+
 
 
 
@@ -1141,7 +1561,14 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,lo
 
 
 
+
+
+
+
   
+
+
+
 
 
 
@@ -1168,36 +1595,49 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,lo
 
 
 
+
+
+
+
   
 
 
 
 
+
+
+
 <!-- Omniture Reporting Support -->
-<!-- SiteCatalyst code version: H.17.
-Copyright 1997-2008 Omniture, Inc. More info available at
+<!-- SiteCatalyst code version: H.23.8.
+Copyright 1997-2009 Omniture, Inc. More info available at
 http://www.omniture.com -->
 
 <script language="JavaScript">
 function getId() {
-  return "mleducationalinsightsprod"
+  return "mlei552prod "
+}
+function getSerializationID() {
+  return "963961"
 }
 </script>
-
 <script language="JavaScript" type="text/javascript" src="/omniture/s_code.js"></script>
+<script language="JavaScript" type="text/javascript" src="/omniture/parseOmnitureJSON.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 
-s.pageName='Product Groups Customer Service Privacy and Security';
 
+
+    var oOmnitureJSON = {"eVar4":"Customer Service","eVar5":"Customer Service: Privacy and Security","pageName":"Customer Service - Privacy and Security","eVar3":"Customer Service","prop2":"Customer Service: Privacy and Security","prop1":"Customer Service","eVar6":"Customer Service: Privacy and Security","prop3":"Customer Service: Privacy and Security","channel":"Customer Service"};
+
+    parseOmnitureJSON(oOmnitureJSON);
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://mleducationalinsightsprod.122.2O7.net/b/ss/mleducationalinsightsprod/1/H.17--NS/0"
+src="http://mlei552prod .122.2O7.net/b/ss/mlei552prod /1/H.23.8--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.17. -->
+<!-- End SiteCatalyst code version: H.23.8. -->
 <!-- End, Omniture Reporting Support -->
 
 
@@ -1222,26 +1662,58 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 
 
+
+
+
+
   
+
+
+
 
 
 
 
 <!-- Google Analytics Reporting Support -->
 <!-- Google Analytics More info available at http://www.google.com/analytics/index.html -->
+<script language="JavaScript" type="text/javascript" src="/googleanalytics/parseGoogleAnalyticsJSON.js"></script>
 <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-  var pageTracker = _gat._getTracker("UA-295543-8");
-  pageTracker._initData();
-  pageTracker._trackPageview();
+   var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-295543-8']); 
+  _gaq.push(['_setDomainName', '.educationalinsights.com']); 
+  _gaq.push(['_trackPageview']); 
   
+  
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+'http://www') + '.google-analytics.com/ga.js'; 
+    var s = document.getElementsByTagName('script')[0]; 
+	s.parentNode.insertBefore(ga, s); 
+  })(); 
 </script>
 <!-- End, Google Analytics Reporting Support -->
 
 
+
+	
+
+
+<!-- Begin SP-2012-05431 Tagging for EI.com only -->
+<!-- Begin SearchRev LEAD Tag -->
+<script type="text/javascript" src="http://s1.srtk.net/www/delivery/srtag.v1.js"></script>
+<noscript>
+<img src='https://s1.srtk.net/www/delivery/ti.php?bannerid=694&trackerid=1949&cb=349606615&_sr_ab_testing=0&_sr_tracktype=0' width='1' height='1' border='0'/>
+</noscript>
+<script type="text/javascript">
+var _sr_ab_testing='0';
+var _sr_tracktype='0';
+var sr_tagtype="LEAD";
+var fpc=1;
+sr_tag(1949,694);
+</script>
+<!-- End SearchRev Tag -->
+<!-- End SP-2012-05431 -->
 
 
 
@@ -1253,4 +1725,4 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <script type="text/javascript" src="/includes/footerScripts.js"></script>
 
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div id="AutocompleteContainter_8d017" style="position: absolute; z-index: 9999; top: 57px; left: 947px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_8d017" style="display: none; width: 76px; max-height: 300px;"></div></div></div></body></html>
