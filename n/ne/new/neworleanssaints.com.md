@@ -1,23 +1,18 @@
-> *The following text is extracted and transformed from the neworleanssaints.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222918id_/http%3A//www.neworleanssaints.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleanssaints.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235205id_/http%3A//www.neworleanssaints.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # New Orleans Saints | Privacy Policy
 
-[ ](http://www.truste.org/ivalidate.php?url=www.neworleanssaints.com&sealid=102)  
+[ ](http://www.truste.org/ivalidate.php?url=www.neworleanssaints.com&sealid=102)
 
-
-New Orleans Saints Website Privacy Policy (Last Updated: 7/02/07)
+New Orleans Saints Website Privacy Policy (Last Updated: 5/30/12)
 
 This privacy policy applies to the NewOrleansSaints' website located at www.NewOrleansSaints.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by Cypress Consulting on behalf of the New Orleans Saints (collectively, the "Saints", "we", "our", or "us"). Cypress Consulting does not own any information submitted through this website and cannot use this information for its own purposes.
 
-New Orleans Saints is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.NewOrleansSaints.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+New Orleans Saints has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.NewOrleansSaints.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at (504) 733-0255.If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-If you have questions or concerns regarding this statement, you should first contact **Vicky Neumeyer, VP/General Counsel at New Orleans Saints; 5800 Airline Drive; Metairie, LA 70003**. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
-
-This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+The New Orleans Saints complies with the U.S. – E.U.  Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries.  The New Orleans Saints have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view New Orleans Saints certification, please visit <http://www.export.gov/safeharbor/>
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -42,11 +37,11 @@ Types of Information That May be Collected
 
 The following are the types of information we may collect:
 
-Information You Provide Us: In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, or fax number, unique identifiers, such as your user password, demographic information, such as your date of birth, age, gender, ticket holder status or similar information (such as a friend's email address when forwarding an article from the site by e-mail -- This is a ONE TIME email and the data is not collected or stored by the site, so it cannot be used for further communications by the site. 
+Information You Provide Us: In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, or fax number, unique identifiers, such as your user password, demographic information, such as your date of birth, age, gender, ticket holder status or similar information (such as a friend's email address when forwarding an article from the site by e-mail -- This is a ONE TIME email and the data is not collected or stored by the site, so it cannot be used for further communications by the site.
 
 Site Usage Information: We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and your IP address.
 
-Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive. 
+Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
 [Back to Link](http://www.neworleanssaints.com/footer/privacy-policy.html#top)
 
@@ -56,7 +51,7 @@ How Information May be Collected
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
-Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. 
+Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
 Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email or by emailing the club at comments@saints.nfl.com.
 
@@ -68,6 +63,10 @@ Games: When you register to play games on our Website, you may be asked to provi
 
 Cookies: As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Cookies ARE NOT tied to personal information.
 
+Third Party Cookies: The use of cookies by our [partners, affiliates, tracking utility company, service providers] is/is not covered by our privacy statement.  We do/do not have access or control over these cookies.  Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.]   
+
+Web beacons : Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
 IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
 [Back to Link](http://www.neworleanssaints.com/footer/privacy-policy.html#top)
@@ -78,13 +77,13 @@ How We Use the Information Collected
 
 As applicable, the information you provide to us may be used to:
 
-  * contact you about the Website; 
-  * contact you relating to your membership status; 
-  * inform you of a prize you have won; 
-  * monitor or improve the use of the Website; 
-  * customize the advertising and content you see; 
-  * monitor compliance with our terms and conditions of use of the Website; and 
-  * send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties. 
+  * contact you about the Website;
+  * contact you relating to your membership status;
+  * inform you of a prize you have won;
+  * monitor or improve the use of the Website;
+  * customize the advertising and content you see;
+  * monitor compliance with our terms and conditions of use of the Website; and
+  * send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
 
 
 
@@ -153,7 +152,7 @@ The Internet offers children wonderful educational and entertainment resources. 
 
 * * *
 
-Your Acceptance of the Privacy Policy and Notification of Changes to the Policy 
+Your Acceptance of the Privacy Policy and Notification of Changes to the Policy
 
 By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
@@ -161,13 +160,15 @@ By using this Website, you signify your agreement to the terms of our privacy po
 
 * * *
 
-Correcting/Updating Personal Information 
+Correcting/Updating Personal Information
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt-out message in an email, or by emailing us at comments@saints.nfl.com. We will respond to your request within 10-20 business days.
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update, delete or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt-out message in an email, or by emailing us at comments@saints.nfl.com. We will respond to your request within 10-20 business days.
 
 [Back to Link](http://www.neworleanssaints.com/footer/privacy-policy.html#top)
 
 * * *
+
+Data Retention: We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address].  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
 
 Your California Privacy Rights
 
@@ -190,5 +191,4 @@ If you have any questions about this privacy policy or the privacy practices of 
 **Questions regarding this statement should be directed to:  
 New Orleans Saints, 5800 Airline Drive; Metairie, LA 70003   
 Attn: Website Privacy Policy   
-**  
-
+**
