@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211528id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110159id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Victoria University | Melbourne Australia
 
-This page outlines the Victoria University (VU) Website Privacy Statement, and details about Freedom of Information (FOI).
-
-##  Website Privacy Statement
+## Website Privacy Statement
 
 As a user of the VU websites, your privacy is protected by the Information Privacy Act 2000 (Vic) and the University's [Privacy Policy](http://wcf.vu.edu.au/GovernancePolicy/PDF/POU090123000.PDF).  This statement provides you with information on how the University handles your information when you access its websites.
 
@@ -19,9 +17,6 @@ As a user of the VU websites, your privacy is protected by the Information Priva
 ### Security Information
 
 University sites have security measures in place against the loss, misuse and alteration of information. A login name and password are required to visit secure areas. Staff and students should ensure that passwords are kept confidential.
-
-
-
 
 ### Cookies
 
@@ -47,7 +42,7 @@ Some University sites may have chat rooms, forums, on-line teaching environments
 
 
 
-##  Freedom of Information (FOI)
+## Freedom of Information (FOI)
 
 Under the Victorian Freedom of Information Act (1982), you have general rights to request information held by VU.
 
