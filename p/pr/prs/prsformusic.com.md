@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211232id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630103519id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -31,6 +31,8 @@ A cookie is a small piece of information sent by a web server to a web browser, 
 We use cookies to identify you when you visit this website and to keep track of your browsing patterns and build up a demographic profile. We also use cookies to remember your log-in details and to allow registered users to carry out transactions and have access to information about their account.
 
 Most browsers allow you to turn off cookies.  If you want to know how to do this please look at the help menu on your browser.  However, switching off cookies will restrict your use of our web site.
+
+[View more information about using and deleting cookies](https://web.archive.org/aboutus/essentialinformation/Pages/Usinganddeletingcookies.aspx)
 
 ##   
 Registered users
