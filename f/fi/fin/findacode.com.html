@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101201909id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630225755id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script src="https://c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js" type="text/javascript" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -13,15 +13,15 @@ if (iframed != false) {
 <title>Privacy Policy</title>
 
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<meta name="description" content="Privacy Policy for FindACode.com - Internet Database Development.">
-<meta name="keywords" content="website privacy policy, bizinfosys.com">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Privacy Policy for FindACode.com - Internet Database Development."><meta name="keywords" content="website privacy policy, bizinfosys.com"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en-us">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <meta http-equiv="rating" content="general">
 <meta http-equiv="robots" content="Index, All, Follow">
 <meta name="Distribution" content="Global">
-<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+<meta property="og:image" content="http://www.findacode.com/fac-profile-logo.jpg">
+<meta property="og:title" content="Privacy Policy"><link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
 
 <!-- Our styles and javascript -->
 <link type="text/css" href="/static/v1a/css/global.css" rel="stylesheet">
@@ -36,7 +36,7 @@ if (iframed != false) {
 <!-- Test if jqueryui issue for ie6? <script type="text/javascript" src="/static/v1a/jquery/jquery-ui-1.8.5.custom.min.js"></script> -->
 <script type="text/javascript" src="/static/v1a/jquery/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript" src="/static/v1a/jquery/jquery.pngFix.js"></script> 
-
+<script type="text/javascript" src="/static/jquery/jquery-ui-findacode-autocomplete.js"></script>
 <script type="text/javascript">
 function show_menu(menu_id,li_obj) {
   li_obj.style.zIndex = 999;
@@ -58,8 +58,9 @@ $(document).ready(function() {
      out: removeMega
   };
   $("li.mega").hoverIntent(megaConfig);
-});
-$(document).ready(function(){ 
+  
+  $('input.autocomplete').findacode_autocomplete();
+  
   if($.browser.msie && parseFloat($.browser.version)<7) {
 //  Abandon hope all ye who are stuck with a crappy browser.
     $(document).pngFix();
@@ -72,8 +73,38 @@ $(document).ready(function(){
     $("#lady-coder").css("margin-top","6px");
     $("#subscribe_button").css("margin-right","0px");
   }
-});
-$(function(){
+
+  //Date setter (quarter picker)
+  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2010-01-1',maxDate:'2012-06-30'});
+  $('#quarter_date_picker').dialog({
+    autoOpen:false,
+    modal:true,
+    width:350,
+    position:['center', 75],
+    buttons : {
+      'Save' : function(){ 
+        $.post('/account/ajax_quarter_switcher.php', $('#quarter_date_picker_form').serialize(), function(data){
+          if (data && data.success) {
+            alert(data.info);
+            window.location.reload();
+          } else {
+            alert(data.info);
+          }
+        }, 'json');
+        
+      },
+      'Cancel' : function(){ $(this).dialog('close'); }
+    }
+  })
+  $('#viewing_date').bind('change click', function() {
+    $('#d_specify').attr('checked','checked');
+  });
+  $('a.pick_date').live('click',function(){
+    $('#quarter_date_picker').dialog('open');
+    return false;
+  });
+  
+  
   $('a:contains(Sign In)').click(function(){return signin_popopen();});
   });
 function signin_popopen(no_animate) {
@@ -126,6 +157,7 @@ ul#menu li.mega div.menu_pop {
 .fac-icon-syringe2-22{ background-position: 0 -448px; width: 22px; height: 22px; } 
 .fac-icon-tool_clipboard{ background-position: 0 -480px; width: 22px; height: 22px; } 
 .fac-icon-viewmag{ background-position: 0 -512px; width: 22px; height: 22px; } 
+.new_item { font-weight:bold;color:red;font-size:8pt;vertical-align:super;line-height:0px; }
 </style>
 </head>
 
@@ -200,17 +232,17 @@ ul#menu li.mega div.menu_pop {
 <div class="page_category page_category_first">
   <span class="fac-icon fac-icon-khelpcenter"></span>&nbsp; Helps &amp; Guides&nbsp;
 </div>
-<a href="/pdf.html?id=Product-Overview" class="page_box_link" title="Find-A-Code Overview">
-  Find-A-Code™ Overview <sup><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
-</a>
-<a href="/pdf.html?id=Finding-Codes" class="page_box_link" title="Finding Codes in Find-A-Code">
-  Finding Codes in Find-A-Code™ <sup><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
+<a href="/aboutus/pdf-tutorials.html" class="page_box_link" title="Find-A-Code Tutorials">
+  Find-A-Code™ Tutorials
 </a>
 <a href="/cms1500-claim-form/cms1500-guide.html" class="page_box_link" title="CMS1500 Claim Form Guide with NUCC &amp; Medicare Instructions + Tips">
   CMS1500 Guide <small>- NUCC &amp; Medicare Instr.</small>
 </a>    
-<a href="/icd-9/icd-9-cm-2010-guide.html" class="page_box_link" title="ICD-9-CM Official Guidelines for Coding and Reporting">
+<a href="/icd-9/icd-9-cm-guidelines.html" class="page_box_link" title="ICD-9-CM Official Guidelines for Coding and Reporting">
   ICD-9-CM Official Guidelines
+</a>
+<a href="/cpt/cpt-e-m-guidelines-manuals.html" class="page_box_link" title="AMA E and M Guidelines">
+  AMA's E&amp;M Guidelines&nbsp;<small><small>(Green Pages)</small></small> 
 </a>
 <a href="/cpt/integrating-npp-into-e-m.html" class="page_box_link" title="Integrating NPP into E/M for Compliance and Quality Care Guide">
   Integrating NPP into E/M
@@ -224,8 +256,13 @@ ul#menu li.mega div.menu_pop {
 <a href="/medicare/medicare-quarterly-provider-compliance-newsletter.html" class="page_box_link" title="Medicare's Provider Compliance Newsletter">
   Medicare Provider Compliance
 </a>
-<!--<a href="/aha-coding-clinic-icd-9" class="page_box_link" title="">AHA Coding Clinic - ICD-9 <small>+Archives</small></a>-->
-<!--<a href="/aha-coding-clinic-hcpcs" class="page_box_link" title="">AHA Coding Clinic - HCPCS <small>+Archives</small></a>-->
+<a href="/aha-coding-clinic/" class="page_box_link" style="white-space:nowrap;">
+  AHA Coding Clinic® <small>ICD9 &amp; HCPCS</small> <sup style="font-weight:bold;color:red;font-size:8pt;line-height:0;"><span>NEW!</span></sup>
+</a>
+<a href="/decision-health/" class="page_box_link">
+  DecisionHealth® <small>Articles </small> <sup style="font-weight:bold;color:red;font-size:8pt;line-height:0;"><span>NEW!</span></sup>
+</a>
+
 <!--
 <a href="/medicare/mln-newsletter.html" class="page_box_link" title="Medicare's MLN Newsletter">
   Medicare MLN Newsletter
@@ -248,7 +285,7 @@ ul#menu li.mega div.menu_pop {
   NCDs <small>- National Coverage Determinations</small>
 </a>
 <a href="/medicare/pqri/index.html" class="page_box_link" title="Medicare PQRI - Physician Quality Reporting Initiative">
-  PQRI Program
+  PQRS Program
 </a>
 <a href="/medicare/medicare-info.html" class="page_box_link" style="margin-bottom:5px;" title="Medicare PUB100 Manuals &amp; Documents">
   More... <small>(Forms, FAQs, NCCI, etc.)</small>
@@ -261,7 +298,10 @@ ul#menu li.mega div.menu_pop {
   Healthcare Legislation
 </a>
 <a href="/dictionaries/dorlands-appendix.php" class="page_box_link" title="Dorlands Dictionary Appendicies">
-  Dorland's Dictionary Appendices <sup><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
+  Dorland's Dictionary Appendices
+</a>
+<a href="/dictionaries/stedmans-appendices.html" class="page_box_link" title="Stedmans Dictionary Appendices">
+  Stedman's Dictionary Appendices
 </a>        </div>
       </li>
       <li class="mega" style="width:99px;">
@@ -283,7 +323,7 @@ ul#menu li.mega div.menu_pop {
 <a href="/tools/build-a-code.php" class="page_box_link" title="Build a Medical Billing Code List">
   Build-A-Code™  <small>- Code list builder.</small>
 </a>
-<a href="/tools/icd-gem-lookup.php" class="page_box_link" title="ICD-10 GEMs crosswalks, bridge to ICD-9 Codes">
+<a href="/tools/icd-gem-translator.php" class="page_box_link" title="ICD-10 GEMs crosswalks, bridge to ICD-9 Codes">
   Cross-A-Code™ ICD-9/10 GEMs
 </a>
 <a href="/tools/npi-lookup.html" class="page_box_link" title="NPI Lookup - National Provider Identification Number Lookup">
@@ -291,14 +331,20 @@ ul#menu li.mega div.menu_pop {
 </a><div class="page_category">
   <span class="fac-icon fac-icon-mytools"></span>&nbsp;My Tools&nbsp;
 </div>
-<a href="/my-codes.php" class="page_box_link" title="Customized Lists of Medical Codes">
-  My Code Lists <small>- Locality-based code lists.</small>
+<a href="/my-codes.php" class="page_box_link" title="Medical Code Details and Fees">
+  My Code Lists <small>- Code Details &amp; Fees.</small>
 </a>
-<a href="/tools/my-code-notes.php" class="page_box_link" title="Custom Medical Code Notes">
+<!--a href="/tools/my-code-notes.php" class="page_box_link" title="Custom Medical Code Notes">
   My Code Notes <small>- Your code notes.</small>
+</a-->
+<a href="/tools/code-lists-manage.php" class="page_box_link" title="Customized Lists of Medical Codes">
+  Manage Code Lists <small></small> <sup style="line-height:0px;"><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
 </a>
 <a href="/account/index.php" class="page_box_link" title="My Find-A-Code Account">
   My Account <small>- Personalize Find-A-Code.</small>
+</a>
+<a href="/pqri-wizard/" class="page_box_link" title="PQRIwizard(SM)">
+  PQRI<i>wizard</i><sup style="line-height:0px"> <small>SM</small></sup> - <small>Submit to PQRS online!</small>
 </a>
 <!--<a href="/tools/my-notes.php" class="page_box_link" title="Custom Medical Coding Notes">
   My Other Notes <small>- Your other notes.</small>
@@ -320,8 +366,17 @@ ul#menu li.mega div.menu_pop {
 <div class="page_category">
   <img src="/static/images/education.png"> Education &amp; Training&nbsp;
 </div>
+<a href="/anatomy-physiology-online/" class="page_box_link" title="Anatomy and Physiology Online for Coders">
+  Anatomy/Physiology Online for Coders
+</a>
+<a href="/medical-coding-billing-courses.html" class="page_box_link" title="Medical Coding and Billing Courses and Training">
+  Coding Courses <sup style="font-weight:bold;color:red;font-size:8pt;line-height:0;"><span>NEW!</span></sup>
+</a>
 <a href="/anatomy-and-physiology.html" class="page_box_link" title="Anatomy and Physiology Study Guides, Tools and Games">
-  Anatomy &amp; Physiology<sup><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
+  Anatomy &amp; Physiology
+</a>
+<a href="/videos.html" class="page_box_link" title="ICD-10 Videos">
+  ICD-10 Videos <small>- Funny!</small>
 </a>
       
         </div>
@@ -332,7 +387,7 @@ ul#menu li.mega div.menu_pop {
           <div class="page_category page_category_first">
             <img src="/static/v1a/images/icons/findacode-com.png" style="border:0px;" alt="FindACode.com"> FindACode.com&nbsp;
           </div>
-          <a href="/aboutus/news.html" title="FindACode.com News &amp; Updates">News &amp; Updates</a>
+          <a href="/news/index.html" title="FindACode.com News &amp; Updates">News &amp; Updates</a>
           <a href="/medical-code-sets/annual-code-changes.html" title="Annual Medical Code Changes &amp; Updates">Annual Code Changes &amp; Updates</a>
           <a href="/aboutus/what-is-find-a-code.html" title="What is Find-A-Code?">What is Find-A-Code?</a>
           <a href="/medical-code-sets/medical-code-sets.html" title="Medical Code Sets in Find-A-Code">Medical Code Sets</a>
@@ -359,7 +414,7 @@ ul#menu li.mega div.menu_pop {
                 	<a href="#" onclick="document.getElementById('header_body_code_sets').style.display='block';return false;" style="text-decoration:none;color:white;font-size:8pt;">Find-A-Code:</a>
                 </td>
                 <td>
-        			<input name="str" type="text" id="str" value="" maxlength="255" style="width:180px;height:16px;font-size:10pt;background-color:white;border:1px solid #777;padding:1px;margin-left:3px;" title="Enter a word or phrase.">
+        			<input name="str" type="text" id="str" class="autocomplete" value="" maxlength="255" style="width:180px;height:16px;font-size:10pt;background-color:white;border:1px solid #777;padding:1px;margin-left:3px;" title="Enter a word or phrase.">
                 </td>
         		<td>
         			<input type="image" id="pagesearch" src="/static/v1a/images/smlSearchBtn.jpg" value="submit" style="margin-left:3px;margin-bottom:2px;border:0px;padding:0px;">
@@ -418,12 +473,11 @@ ul#menu li.mega div.menu_pop {
        	<tbody>
          <tr>
           <td style="padding: 0;"><a href="/" title="Medical Billing Codes"><img src="/static/v1a/images/findacodeLogo.jpg" style="margin-right:5px;height:51px;width:250px;border:0px;" border="0" align="left" alt="Medical Billing and Coding"></a></td>
-                  <td style="padding: 8px 0px 0px 45px;"><a href="/free-trial-demos.html" title="Find a Code Free Trial and Demos"><img src="/static/v1a/images/trialBtn.jpg" alt="Demos and Free Trials" border="0"></a></td>
-          <td style="padding: 8px 0px 0px 10px;"><a href="/videos.html" title="Find a Code Videos"><img src="/static/v1a/images/videosBtn2.jpg" alt="Watch Find a Code Videos" border="0"></a></td>
-          <!--<td style="padding: 8px 0px 0px 10px;"><script type="text/javascript" src="//www.findacode.com/chat/js/phplive.js.php?d=1&base_url=%2F%2Fwww.findacode.com%2Fchat&text="></script></td>-->
-          <td style="padding: 8px 0px 0px 10px;"><a href="/aboutus/contactus.html" class="footer_menu" title="Contact Find-A-Code"><img src="/static/images/contactBtn.jpg" border="0"></a></td>
+                  <td style="padding: 8px 0px 0px 45px;"><a href="/free-trial-demos.html" title="Find-A-Code Free Trial and Demos"><img src="/static/v1a/images/trialBtn.jpg" alt="Demos and Free Trials" border="0"></a></td>
+          <td style="padding: 8px 0px 0px 10px;"><a href="/aboutus/tutorials.html" title="Learn How to Use Find-A-Code"><img src="/static/v1a/images/trainingBtn.jpg" alt="Find-A-Code Tutorials" border="0"></a></td>
+                
+                          <td style="padding: 8px 0px 0px 10px;"><!-- BEGIN PHP Live! code, (c) OSI Codes Inc. --><span id="phplive_btn_1330464762" onclick="phplive_launch_chat_1(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer;"><script type="text/javascript" async="" src="//t1.phplivesupport.com/facchat/js/phplive_v2.js.php?q=1|1330464762|0|"></script></span><script type="text/javascript">(function() { var phplive_e_1330464762 = document.createElement("script") ; phplive_e_1330464762.type = "text/javascript" ; phplive_e_1330464762.async = true ; phplive_e_1330464762.src = "//t1.phplivesupport.com/facchat/js/phplive_v2.js.php?q=1|1330464762|0|" ; document.getElementById("phplive_btn_1330464762").appendChild( phplive_e_1330464762 ) ; })() ;</script><!-- END PHP Live! code, (c) OSI Codes Inc. --></td>
                   </tr>
-        
         </tbody>
        </table>
         
@@ -431,10 +485,8 @@ ul#menu li.mega div.menu_pop {
        
       </div>
 
-      <div class="header_body_right">
-&nbsp;Guest&nbsp;-&nbsp;Viewing:&nbsp;2011Q4&nbsp;&nbsp;
-        &nbsp; 
-
+      <div class="header_body_right" style="padding:0;margin-top:8px;">
+&nbsp;Guest<br>Viewing: &nbsp;Jun 30, 2012
     </div>
     
     <div id="header_signin" style="display:none;clear:both;text-align:center;height:140px;width:900px;border:1px solid #aaa;margin:10px auto;background-image: url('/static/v1a/images/green-gradient.jpg') !important; background-repeat: repeat-x;">
@@ -564,7 +616,7 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
   <div align="center" style="letter-spacing:0px;margin-top:5px;margin-bottom:10px;">
     <a href="/" class="footer_menu" title="Medical Billing and Hostpital Codes Online">Home</a>&nbsp;&nbsp;&nbsp;
     <a href="/search/search.php" class="footer_menu" title="Medical Code Search &amp; Lookup">Search</a>&nbsp;&nbsp;&nbsp;
-    <a href="/aboutus/news.html" class="footer_menu" title="Find-A-Code News">News</a>&nbsp;&nbsp;&nbsp;
+    <a href="/news/index.html" class="footer_menu" title="Find-A-Code News">News</a>&nbsp;&nbsp;&nbsp;
     <a href="/aboutus/faq.html" class="footer_menu" title="Frequently Asked Questions">FAQ</a>&nbsp;&nbsp;&nbsp;
     <a href="/aboutus/tutorials.html" class="footer_menu" title="Medical Coding Tutorials">Tutorials</a>&nbsp;&nbsp;&nbsp;
     <a href="/aboutus/testimonials.html" class="footer_menu" title="Medical Coding Testimonials">Testimonials</a>&nbsp;&nbsp;&nbsp;
@@ -626,8 +678,8 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
             Phone 801-770-4203 (9-5 Mountain) - Fax (801) 770-4428
           </div>
           <div style="margin-bottom:7px;">
-          CPT<sup><small>®</small></sup> copyright 2010 American Medical Association - All Rights Reserved<br>
-          <a href="/aboutus/copyright.html">Copyright</a> © 2000-2011 Find A Code, LLC - All Rights Reserved
+          CPT<sup><small>®</small></sup> copyright 2011 American Medical Association - All Rights Reserved<br>
+          <a href="/aboutus/copyright.html">Copyright</a> © 2000-2012 Find A Code, LLC - All Rights Reserved
           </div>
         </div>
 
@@ -645,42 +697,44 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
 	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#555555');
 }
         </style>
-        <table cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr>
-        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
-          <a href="/aboutus/secure-certificate.html" title="FindACode.com Secure Certificate">
-          <img src="/static/images/showsiteseal_new.png" style="border:0px;" alt="FindACode.com Secure Certificate">
-          </a>
-        </td>
-        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
-          <a href="http://www.privacypolice.org/findacode.htm" target="_blank" title="PrivacyPolice.org Privacy Registration">
-          <img src="/static/images/privacy-police.png" width="61" height="61" alt="PrivacyPolice.org Privacy Registration" style="border:0px;">
-          </a>
-        </td>
-        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
-          <a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1100506111244587">
-          <img title="Click to verify BBB accreditation and to see a BBB report." src="/static/images/bbbsealh2.gif" alt="Click to verify BBB accreditation and to see a BBB report." class="shadow" style="border:0px;">
-          </a>
-        </td>
-        </tr>
-        <tr>
-        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
-          <a href="http://order.1and1.com/xml/order/popupGreenPower" title="FindACode.com's Green Web Servers by 1and1.com">
-          <img src="/static/images/0901_GreenHosting_RGB_Shadow1.png" style="border:0px;" alt="FindACode.com's Green Web Servers by 1and1.com">
-          </a>
-        </td>
-        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
-          <a href="/made-in-usa.html" title="FindACode.com - Made in the USA">
-          <img src="/static/images/made-in-usa-logo-web.jpg" class="shadow" style="border:1px solid #aaa;" alt="Made in the USA - FindACode.com">
-          </a>
-        </td>
-        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
-          <a href="/powered-by-findacode.html" title="Powered by FindACode.com">
-          <img src="/static/images/fac-pb-logo-120x35.gif" class="shadow" style="border:1px solid #aaa;;" alt="Powered by FindACode.com">
-          </a>
-        </td>
-        </tr>
+        <div style="float: right; margin: 0px auto;width: 255px;vertical-align: top;">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 0px 0px;display: block-inline;height: 55px;width: 75px;">
+			  <a href="/aboutus/secure-certificate.html" title="FindACode.com Secure Certificate" style="height: 55px; display: block;">
+			  <!--<img src="/static/images/showsiteseal_new.png" style="border:0px;" alt="FindACode.com Secure Certificate" /> -->
+			  </a>
+			</td>
+			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 87px 0px;display: block-inline;height: 55px;width: 75px;">
+			  <a href="http://www.privacypolice.org/findacode.htm" target="_blank" title="PrivacyPolice.org Privacy Registration" style="height: 55px; display: block;">
+			  <!--<img src="/static/images/privacy-police.png" width="61" height="61" alt="PrivacyPolice.org Privacy Registration" style="border:0px;" /> -->
+			  </a>
+			</td>
+			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 184px 0px;display: block-inline;height: 55px;width: 75px;">
+			  <a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1100506111244587" style="height: 55px; display: block;">
+			  <!--<img title="Click to verify BBB accreditation and to see a BBB report." src="/static/images/bbbsealh2.gif" alt="Click to verify BBB accreditation and to see a BBB report." class="shadow" style="border:0px;" /> -->
+			  </a>
+			</td>
+			</tr>
+			<tr>
+			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 0px 64px;display: block-inline;height: 55px;width: 75px;">
+			  <a href="http://order.1and1.com/xml/order/popupGreenPower" title="FindACode.com's Green Web Servers by 1and1.com" style="height: 55px; display: block;">
+			  <!--<img src="/static/images/0901_GreenHosting_RGB_Shadow1.png" style="border:0px;" alt="FindACode.com's Green Web Servers by 1and1.com" /> -->
+			  </a>
+			</td>
+			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 181px 65px;display: block-inline;height: 55px;width: 75px;">
+			  <a href="/made-in-usa.html" title="FindACode.com - Made in the USA" style="height: 55px; display: block;">
+			  <!--<img src="/static/images/made-in-usa-logo-web.jpg" class="shadow" style="border:1px solid #aaa;" alt="Made in the USA - FindACode.com" /> -->
+			  </a>
+			</td>
+			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 89px 65px;display: block-inline;height: 55px;width: 75px;">
+			  <a href="/powered-by-findacode.html" title="Powered by FindACode.com" style="height: 55px; display: block;">
+			  <!--<img src="/static/images/fac-pb-logo-120x35.gif" class="shadow" style="border:1px solid #aaa;;" alt="Powered by FindACode.com" /> -->
+			  </a>
+			</td>
+			</tr>
         </tbody></table>
+	</div>
       </td>
 
       
@@ -728,7 +782,7 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
       <input type="hidden" name="FirstName" value="">
       <input type="hidden" name="LastName" value="Guest">
       <input type="hidden" name="Email" value="guest@findacode.com">
-      <input type="hidden" name="Date" value="Tuesday 1st of November 2011 02:25:31 PM">
+      <input type="hidden" name="Date" value="Saturday 30th of June 2012 04:57:57 PM">
       <input type="hidden" name="Browser" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
       <input type="hidden" name="Cur_Page" value="/aboutus/privacy-policy.html">
       <input type="hidden" name="Cur_Uid" value="0">
@@ -784,5 +838,6 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
       if (e) { e.parentNode.insertBefore(s, e); }
   }());
   </script>
+
 
 </body></html>
