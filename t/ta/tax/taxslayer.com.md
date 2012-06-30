@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211043025id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630055845id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer.com Tax Software
 
 ####  YOUR PRIVACY IS A PRIORITY TO US 
 
-[ ](http://www.truste.org/ivalidate.php?url=www.taxslayer.com&sealid=101) TaxSlayer.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions 
+##  [ ](http://www.truste.org/ivalidate.php?url=www.taxslayer.com&sealid=101) TaxSlayer.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions 
 
 The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.
 
