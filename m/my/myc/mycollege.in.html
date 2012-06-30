@@ -1,131 +1,164 @@
-<!--The following is the downloaded HTML source of the mycollege.in privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224353id_/http%3A//mycollege.in/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycollege.in privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630100132id_/http%3A//mycollege.in/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 <meta name="google-site-verification" content="iZYd9b-G5jz5IcDFJigbhNRMSj-jBfpoYowAZX_FHrY">
 <meta name="y_key" content="1ab809898e63ecd6">
-<title>Privacy Policy -Mycollege.in</title><meta name="keywords" content="Privacy Policy -Mycollege.in"><meta name="description" content="Privacy Policy -Mycollege.in"><link rel="StyleSheet" type="text/css" href="http://mycollege.in/college-style.css">
+<title>Privacy Policy -Mycollege.in</title><meta name="keywords" content="Privacy Policy -Mycollege.in"><meta name="description" content="Privacy Policy -Mycollege.in"><style type="text/css">
+</style>
+<link rel="StyleSheet" type="text/css" href="http://mycollege.in/college-style.css">
 <link rel="StyleSheet" type="text/css" href="http://mycollege.in/batchmate/my_friends.css">
 <link rel="shortcut icon" href="http://mycollege.in/images/favicon.gif">
+<link href="http://mycollege.in/horiz-drop-down.css" rel="stylesheet" type="text/css" media="all">
 <script type="text/javascript" src="http://mycollege.in/jquery.js"></script>
+
 <script type="text/javascript">
-function display(currentdiv) {
-  var divs = document.getElementsByTagName("div");
-  for (var i = 0; i < divs.length; i++) {
-   if (divs[i].className == "nav_menu" || divs[i].className == "top_menu"){
-       if (divs[i].id == currentdiv) {
-	    $(divs[i]).removeClass('nav_menu').addClass('menu_active');
-	    $(divs[i]).removeClass('top_menu').addClass('menu_active');
-      }
-      else {
-         divs[i].style.background = 'url(http://mycollege.in/images/menu_bg.jpg)';
-    //$(divs[i]).removeClass('menu_active').addClass('nav_menus');
-      }
-    }
-  }
+	var timeout         = 1000;
+	var closetimer		= 0;
+	var ddmenuitem      = 0;
 
-}
+	function jsddm_open()
+	{	//jsddm_canceltimer();
+		jsddm_close();
+		currentdiv = "";
+		nowhov = $(this).attr("id");
+		ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');
+	}
+	function jsddm_close()
+	{	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
 
+	function jsddm_timer()
+	{	
+		//closetimer = window.setTimeout(jsddm_close, timeout);
+		jsddm_close();
+		currentdiv = "";   
+		if(currentdiv=="menu7") {
+			ddmenuitem = $("#list7").find('ul').eq(0).css('visibility', 'visible');
+			$("#list7").find('ul').eq(0).css('top', '165px');
+		}
+		if(currentdiv=="menu8") {
+			ddmenuitem = $("#list8").find('ul').eq(0).css('visibility', 'visible');
+			$("#list8").find('ul').eq(0).css('top', '165px');
+		}
+		if(currentdiv=="menu9") {
+			ddmenuitem = $("#list9").find('ul').eq(0).css('visibility', 'visible');	
+			$("#list9").find('ul').eq(0).css('top', '165px');
+		}                     
+	//	display();
+	}
+	function jsddm_canceltimer()
+	{	if(closetimer)
+		{	window.clearTimeout(closetimer);
+			closetimer = null;}}
+	$(document).ready(function()
+	{	$('#jsddm > li').bind('mouseover', jsddm_open);
+		$('#jsddm > li').bind('mouseout',  jsddm_timer);
+		$('#jsddm1 > li').bind('mouseover', jsddm_open);
+		$('#jsddm1 > li').bind('mouseout',  jsddm_timer);
+	});
+	function display() {
+	  currentdiv = "";
+	  var divs = document.getElementsByTagName("a");
+	  for (var i = 0; i < divs.length; i++) {
+	   if (divs[i].className == "nav_menu" || divs[i].className == "sm"){
+	       if (divs[i].id == currentdiv) {
+		    $(divs[i]).removeClass('nav_menu').addClass('active');
+		    if(currentdiv=="menu7") {
+			ddmenuitem = $("#list7").find('ul').eq(0).css('visibility', 'visible');
+			$("#list7").find('ul').eq(0).css('top', '165px');
+		    }
+		    if(currentdiv=="menu8") {
+			ddmenuitem = $("#list8").find('ul').eq(0).css('visibility', 'visible');
+			$("#list8").find('ul').eq(0).css('top', '165px');
+		    }
+		    if(currentdiv=="menu9") {
+			ddmenuitem = $("#list9").find('ul').eq(0).css('visibility', 'visible');	
+			$("#list9").find('ul').eq(0).css('top', '165px');
+		    }
+	      }
+	    }
+	  }
 
-$(document).ready(function() {
-$("#menu1,#menu2,#menu3,#menu4,#menu5,#menu6,#menu7,#menu8,#menu9,#menu10,#menu11,#menu12,#menu13,#menu14,#menu15").bind("click",function(){
-   v = this.id;
-   val = "nav"+v;
-   $.post("http://mycollege.in/store-session.php", {"menuval":val});
-   display(val);
-});
-});
-
-
-$(document).ready(function() {
-$("#navmenu1,#navmenu2,#navmenu3,#navmenu4,#navmenu5,#navmenu6,#navmenu7,#navmenu8,#navmenu9,#navmenu10,#navmenu11,#navmenu12,#navmenu13,#navmenu14,#navmenu15").click(function() {
-   val = this.id;
-    $.post("http://mycollege.in/store-session.php", {"menuval":val});
-    display(val);
-});
-});
+	}
 </script>
 </head>
-
 <body>
-<div class="header_wrapper">
-<div style="width:1000px; height:auto; margin:0 auto; background:url(http://mycollege.in/images/college_head.jpg) no-repeat; ">
-<table style=" width:998px; margin:0;" border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; width:1000px;">
 <tbody><tr>
-<td>
-    <table width="1000" border="0" cellspacing="0" cellpadding="0" class="navigation">
-      <tbody><tr>
-        <td width="200">&nbsp;</td>
-        <td align="center">
-        <table width="90%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td>
-                <div class="top_menu" id="navmenu1" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/batchmate/index.php" id="menu1">Batchmates</a></div>                <div class="top_menu" id="navmenu2" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/addcollege.php" id="menu2">Add College</a></div>
-                <div class="top_menu" id="navmenu3" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://forums.mycollege.in" id="menu3">Discussion</a></div>
-                <div class="top_menu" id="navmenu4" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/partner-withus.php" id="menu4">Partners</a></div>
-                <div class="top_menu" id="navmenu5" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/invite.php" id="menu5">Invite a friend</a></div>
-                <div class="top_menu" id="navmenu6" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/web-resource.php" id="menu6">Web Resource</a></div>
-                <div class="top_menu" id="navmenu7" style="border: none; background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/feedback.php" id="menu7">Feedback</a></div>
-                
-            </td>
-          </tr>
-        </tbody></table>
-
-       
-        </td>
-      </tr>
-      </tbody></table>
-</td>
-</tr>
-<tr>
-<td>
-     <table width="100%" height="102" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-           <td width="70%" align="right"><a href="http://mycollege.in"><img src="http://mycollege.in/images/college_24.jpg" border="0" alt="Education in India,Indian Colleges,Institutions, Universities"></a></td>
-           <td>
-		<form action="http://mycollege.in/search.php" id="cse-search-box">
-		  <div class="search_box">
+<td align="right" valign="top">
+<div class="header_wrapper">
+    <table width="725" border="0" cellspacing="0" cellpadding="0" class="navigation" id="gallery">
+    <tbody><tr>
+    <td class="nav_menu" style="height:35px;" valign="top">
+            <ul id="jsddm1">
+    <li><a class="nav_menu" id="menu13" href="http://mycollege.in/discussions/index.php">Discussions</a></li>
+    <li><a class="nav_menu" id="menu1" href="http://mycollege.in/education-loans.php">Education Loan</a></li>
+    <li><a class="nav_menu" id="menu2" href="http://mycollege.in/list-of-indian-universities.php">Universities</a></li>
+    <li><a class="nav_menu" id="menu3" href="http://mycollege.in/partner-withus.php">Partners</a></li>
+    <li><a class="nav_menu" id="menu4" href="http://mycollege.in/invite.php">Invite a friend</a></li>
+    <li><a class="nav_menu" id="menu5" href="http://mycollege.in/feedback.php">Feedback</a></li>
+    </ul>
+    </td>
+    </tr>
+    </tbody></table>
+    <div class="clr"></div>
+    <table width="740" style="height:87px;" border="0" cellspacing="0" cellpadding="0" class="navigation">
+    <tbody><tr><td><a href="http://mycollege.in"><img src="http://mycollege.in/images/mycollege_in.png" alt="Education in India" border="0"></a></td>
+    <td> <div class="search_box"><form action="http://mycollege.in/search.php" id="cse-search-box">
 		    <input type="hidden" name="cx" value="partner-pub-3229609591361912:0177068216">
 		    <input type="hidden" name="cof" value="FORID:10">
 		    <input type="hidden" name="ie" value="UTF-8">
 		    <input type="text" name="q" size="25">
-		    <input type="submit" name="sa" value="Search">
+		    <input type="submit" name="sa" value="Search">		</form>
 		  </div>
-		</form>
-
-		<script type="text/javascript" src="http://www.google.co.in/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-           </td>
-        </tr>
-     </tbody></table>
+	<script type="text/javascript" src="http://www.google.co.in/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+    </td>
+    </tr>
+    </tbody></table>
+    <div class="clr"></div>
+    <table width="840" border="0" style="height:60px;" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td valign="top">
+    <ul id="jsddm">
+    <li><a id="menu6" class="sm" href="http://mycollege.in/index.php">Home</a></li>
+    <li id="list7"><a id="menu7" class="sm" href="http://mycollege.in/colleges/index.php">Indian Colleges</a>
+	<ul>
+                    <li id="smenu1"><a id="subsmenu1" href="http://mycollege.in/colleges/index.php">Indian Colleges</a><span style="color:white;">|</span></li>
+                    <li id="smenu2"><a id="subsmenu2" href="http://mycollege.in/top-ranked-colleges.php">Top Ranked Colleges</a><span style="color:white;">|</span></li>
+                    <li id="smenu3"><a id="subsmenu3" href="http://mycollege.in/plustwo.php">Careers and Courses</a><span style="color:white;">|</span></li>
+                    <li id="smenu4"><a id="subsmenu4" href="http://mycollege.in/addcollege.php">Add New College</a><span style="color:white;">|</span></li>
+                    <li id="smenu5"><a id="subsmenu5" href="http://mycollege.in/courses-in-india.php">List of UG and PG courses</a></li>                                                              
+                    <!--<li><a href="http://mycollege.in/advance-search.php">Advanced Search</a></li> id="menu8" class="nav_menu"  id="menu9" class="nav_menu"-->
+                </ul>            
+            </li>
+    <li id="list8"><a id="menu8" class="sm" href="http://mycollege.in/schools/index.php">Indian Schools</a>
+	<ul style="padding-left:320px;">
+                    <li id="smenu8"><a id="subsmenu8" href="http://mycollege.in/schools/index.php">Indian Schools</a><span style="color:white;">|</span></li>
+                    <li id="smenu6"><a id="subsmenu6" href="http://mycollege.in/exams-in-indian-states.php">Time Tables</a><span style="color:white;">|</span></li>
+                    <li id="smenu7"><a id="subsmenu7" href="http://mycollege.in/displaycutoff.php">Cutoff</a><span style="color:white;">|</span></li>
+		    <li id="smenu9"><a id="subsmenu9" href="http://mycollege.in/schools/add-school.php">Add School</a></li>
+        </ul> 
+   </li>
+    <li id="list9"><a id="menu9" class="sm" href="http://mycollege.in/job-itcompanies.php">IT Companies</a>
+    </li>
+    <li><a id="menu10" class="nav_menu" href="http://mycollege.in/links.html">Interview Tips</a></li>
+    <li><a id="menu11" class="nav_menu" href="http://mycollege.in/exams/exams.php">Exams In India</a></li>
+    <li><a id="menu12" class="nav_menu" href="http://mycollege.in/batchmate/index.php">Batchmates</a></li>
+    </ul>
+    </td>
+    </tr>
+    </tbody></table>
+</div>
 </td>
 </tr>
+
 <tr>
-<td align="center">
-      <table width="95%" height="32" border="0" cellspacing="0" cellpadding="0" class="navigation">
-      <tbody><tr>
-        <td colspan="2">
-                <div class="nav_menu" id="navmenu8" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/index.php" id="menu8">Indian Colleges</a></div>
-               <div class="nav_menu" id="navmenu9" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/job-itcompanies.php" id="menu9">IT Jobs</a></div>
-                <div class="nav_menu" id="navmenu10" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/exams/exams.php" id="menu10">Exams in India</a></div>
-                <div class="nav_menu" id="navmenu11" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/top-ranked-colleges.php" id="menu11">Top Ranked Colleges</a></div>
-                <div class="nav_menu" id="navmenu12" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/education-loans.php" id="menu12">Education Loan</a></div>
-                <div class="nav_menu" id="navmenu13" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/links.html" id="menu13">Interview Tips</a></div>
-                <div class="nav_menu" id="navmenu14" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/plustwo.php" id="menu14">Careers &amp; Courses</a></div>
-		<div class="nav_menu" id="navmenu15" style="background: url(&quot;http://mycollege.in/images/menu_bg.jpg&quot;);"><a href="http://mycollege.in/displaycutoff.php" id="menu15">Cutoff</a></div>
-        </td>
-       </tr>
-       </tbody></table>
-</td>
-</tr>
-
-<tr><td colspan="2">
+		<td class="main_wrapper" style="padding-top:6px;">
 	<table width="1000" cellpadding="0" cellspacing="0" border="0">
+
 	<tbody><tr>
-	<td colspan="2" style="background:url(http://mycollege.in/images/head_shade.jpg) repeat-x; width:1000px; height:13px;"></td>
-	</tr>
-	<tr>
-	<td style="padding-left:50px;">	
+	<td style="padding-left:30px;">	
 	<script type="text/javascript"><!--
 	google_ad_client = "ca-pub-3229609591361912";
 	/* mycollege-728-90 */
@@ -136,22 +169,13 @@ $("#navmenu1,#navmenu2,#navmenu3,#navmenu4,#navmenu5,#navmenu6,#navmenu7,#navmen
 	</script>
 	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 	</script>
-	</td><td style="padding-left:20px;"><div><a href="http://cricruns.com" target="_blank"><img src="http://mycollege.in/images/cricruns.jpg" border="0" alt="Live Cricket Scores"></a></div><div style="padding-top:5px;"><a href="http://newsreporter.in" target="_blank"><img src="http://mycollege.in/images/news_reporter.jpg" border="0" alt="Indian Flash News"></a></div></td></tr></tbody></table>
-	 </td>
-				
-	  </tr>
-	</tbody></table>
-
-</div>
-		<script type="text/javascript">
-		//checkMenuColor();
-		currentdiv = "";
-
-		display(currentdiv);
+	</td><td style="padding-left:5px;padding-right:10px;"><div><a href="http://cricruns.com" target="_blank"><img src="http://mycollege.in/images/cricruns.jpg" border="0" alt="Live Cricket Scores"></a></div><div style="padding-top:5px;"><a href="http://newsreporter.in" target="_blank"><img src="http://mycollege.in/images/news_reporter.jpg" border="0" alt="Indian Flash News"></a></div></td></tr></tbody></table>
+			<script type="text/javascript">
+		//$("#"+	currentdiv).addClass('active');
+		display();
 		</script>
-
     <!-- main -->
-    <table width="1002" cellpadding="0" cellspacing="0"><tbody><tr>
+    <table width="1000" cellpadding="0" cellspacing="0"><tbody><tr>
 
 <td style="height:100%">
 <!-- main center -->
@@ -180,78 +204,56 @@ From time to time, this Privacy Policy may be modified. Updates will be posted i
 
       </td></tr>
     </tbody></table>
-<br>
+<br><script type="text/javascript" src="batchmate/validate-email.js"></script>
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr style="height:30px;"><td width="32"><img src="http://mycollege.in/images/r-y-left.jpg" alt="i colleges"></td>
-<td align="center" class="font2">&nbsp;</td></tr>
+<tbody><tr style="height:30px;"><td width="32"><img src="http://mycollege.in/images/r-y-left.jpg" alt=""></td>
+<td align="center" class="font3">&nbsp;</td></tr>
 <tr><td width="32"></td>
 <td align="left" class="row2">
 
 <table cellpadding="0" cellspacing="0" align="center" width="100%">
 <tbody><tr><td width="49%" align="right">
 <script type="text/javascript"><!--
-google_ad_client = "ca-pub-3229609591361912";
+google_ad_client = "ca-pub-5279176980875369";
 /* mycollege-336-280 */
-google_ad_slot = "5039465304";
+google_ad_slot = "7492893355";
 google_ad_width = 336;
 google_ad_height = 280;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td><td width="2%">&nbsp;</td>
+</script> 
+</td><td width="2%">&nbsp;</td>
 <td width="49%" align="left">
 <script type="text/javascript"><!--
-google_ad_client = "ca-pub-3229609591361912";
+google_ad_client = "ca-pub-5279176980875369";
 /* mycollege-336-280 */
-google_ad_slot = "5039465304";
+google_ad_slot = "7492893355";
 google_ad_width = 336;
 google_ad_height = 280;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+</script> 
 </td></tr>
 </tbody></table>
-
-
-<script type="text/javascript">
-/*
-
-<
-google_ad_client = "pub-3229609591361912";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as";
-google_ad_type = "text_image";
-google_ad_channel ="0298333219";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "006600";
-google_color_url = "FFCC66";
-google_color_text = "000033";
->
-*/
-</script>
-<!--script type="text/javascript"
-  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script-->
 
 </td></tr>
 </tbody></table>
 
 <br>
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr style="height:30px;"><td width="32"><img src="http://mycollege.in/images/r-y-left.jpg" alt="i colleges"></td>
-<td align="center" class="font2"> User Comments </td></tr>
+<tbody><tr style="height:30px;"><td width="32"><img src="http://mycollege.in/images/r-y-left.jpg" alt=""></td>
+<td align="center" class="font3"> User Comments </td></tr>
 <tr><td width="32"></td>
 <td align="center" class="row2"> 
 
-<table width="95%" cellpadding="0" cellspacing="0"></table>
-<form name="xx" action="http://mycollege.in/addcomment.php" method="post">
+
+<form name="xx" action="addcomment.php" method="post" onsubmit="return checkMailId(document.xx.email.value);">
 <textarea name="com" rows="3" cols="60"></textarea><br>
 Name : <input type="text" name="nam"> &nbsp; &nbsp;
 Email : <input type="text" name="email" size="25">
-<input type="hidden" value="/privacy-policy.php" name="url">
+<input type="hidden" value="%2Fprivacy-policy.php" name="url">
 <input type="submit" value="add">
 </form>
 
@@ -263,35 +265,29 @@ Note: Please note that we, "mycollege.in", have no affiliation with any of the l
 
 </td></tr></tbody></table>
 <!-- main center-->
-</td>
-
-<!--td width=100 align=right height=100% style="background-image: url('http://mycollege.in/images/arrow-left.jpg'); 
-background-position: top center; background-repeat: repeat-y;">
-&nbsp;</td-->
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 <!--<div style="width:1017px; height:auto; border:1px solid #F00;">-->
-<table style="background:url(http://mycollege.in/images/footer.jpg) no-repeat; width:1000px; height:120px; margin:0;" border="0" cellspacing="0" cellpadding="0">
+<table style="background:url(http://mycollege.in/images/footer.jpg) no-repeat; width:1000px; height:120px;" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td>
-<div align="center"><a href="http://mycollege.in/terms-and-condition.php" style="text-decoration:none;color:#333333;	font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;
-" target="_blank">Terms and Condition</a>  ||  <a href="http://mycollege.in/privacy-policy.php" style="text-decoration:none;color:#333333;	font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;" target="_blank">Privacy Policy</a>  ||  <a href="http://mycollege.in/sitemap.xml" style="text-decoration:none;color:#333333; font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;" target="_blank">Sitemap</a></div>
-<div align="center"><a href="http://hioxindia.com" class="linkcourse">Web Hosting </a> <span style="font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;
-color:#333333;">by HIOX INDIA</span></div>
-<br>
-<div align="center">
-<!--<a href=http://100pulse.com title="Website Monitoring by 100pulse" target="_BLANK"><img src="http://100pulse.com/images/uptime/up11.gif" alt=" Website Monitoring Service by 100pulse" usemap="#monitor" border=0></a><map name="monitor" id="monitor"><area shape="rect" coords="100,135,180,30" href="http://100pulse.com/publicReport.jsp?id=6003504409&auth=73231e53eeef362c814c8522f5257286" target="_BLANK"/></map>-->
+<td style="height:20px;width:800px;padding-top:10px;">
+<div align="center" style="font:normal 11px/22px Arial, Helvetica, sans-serif;"><span style="color:#000">
+© Copyright <a href="http://mycollege.in">Mycollege.in</a> - An online students educational resource portal. Find details on top ranked schools, colleges and IT companies in India.</span></div></td></tr>
 
-<a href="http://100pulse.com/publicReport.jsp?id=1073607979&amp;auth=967990de5b3eac7b87d49a13c6834978" title="Website Monitoring service by 100pulse" target="_BLANK"><img src="http://100pulse.com/buttons/up3607.png" alt=" Website Monitoring Service" border="0"></a>
-</div>
+<tr><td valign="top"><table style="width:1000px;"><tbody><tr><td valign="top" style="width:800px;padding-top:2px;padding-left:300px;">
+<a href="http://mycollege.in/terms-and-condition.php" style="text-decoration:none;color:#333333;	font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;
+" target="_blank">Terms and Condition</a>  ||  <a href="http://mycollege.in/privacy-policy.php" style="text-decoration:none;color:#333333;	font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;" target="_blank">Privacy Policy</a>  ||  <a href="http://mycollege.in/sitemap.xml" style="text-decoration:none;color:#333333; font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;" target="_blank">Sitemap</a>  ||  <a href="http://mycollege.in/web-resource.php" style="text-decoration:none;color:#333333; font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;" target="_blank">Web Resource</a>
+<div style="padding-left:100px;padding-top:3px;"><a href="http://hioxindia.com" class="linkcourse">Web Hosting </a> <span style="font:bold 12px/18px &quot;Times New Roman&quot;, Times, serif;
+color:#333333;">by HIOX INDIA</span></div></td><td style="width:200px;padding-right:20px;padding-top:10px;" valign="top" align="right">
+<a href="http://100pulse.com/publicReport.jsp?id=1073607979&amp;auth=967990de5b3eac7b87d49a13c6834978" title="Website Monitoring service by 100pulse" target="_BLANK"><img src="http://100pulse.com/button/16.png" alt=" Website Monitoring Service" border="0"></a></td></tr></tbody></table>
 </td>
 </tr>
 </tbody></table>
 <!-- main -->
+</td></tr>
+
+</tbody></table>
 
 
 
-
-
-
-</div></body></html>
+</body></html>
