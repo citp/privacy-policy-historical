@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebunnybleu.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128123456id_/http%3A//lebunnybleu.com/newyork/info/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebunnybleu.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630144526id_/http%3A//lebunnybleu.com/newyork/info/policy.html) for the most accurate reproduction.*
 
 # Le Bunny Bleu Romantic & Vintage Flat Shoes
 
