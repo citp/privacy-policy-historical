@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212835id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111609id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mendeley
 
@@ -21,17 +21,17 @@ Whatever personal data and original content you upload to your Mendeley account 
 
 From all registered and signed-in users' individual accounts, we anonymously aggregate document details, tags and statistics, some of which will be made available to the Mendeley community. Nothing about you personally can be inferred from the aggregated statistics. One example: The Mendeley community will be able to see that a certain paper had 7,153 readers and was the most popular paper in Biology last week. However, nobody except you will know whether you were one of these 7,153 readers.
 
-Mendeley also uses information extracted from files imported into signed-in users’ Mendeley software to help improve the discovery of published research on the Mendeley service. Snippets of documents in signed-in users’ Mendeley software may in the future form part of the search and recommendation results displayed by Mendeley. Mendeley does not display the full-text of such documents without the user’s or the publisher’s permission. If you do not want snippets of documents to appear in such results on Mendeley, you should not import these documents into your Mendeley software while you are signed in to the service.
+In certain cases, we anonymously aggregate this data on an institutional level or other relevant segmenting and make that information available to the Mendeley community. For instance, customers who license the Mendeley Institutional Edition (the "MIE") will be able to see aggregated statistics broken out by institution. Again, nothing about you personally can be inferred from the information. One example: The MIE customers will be able to see that a certain paper had 1,543 readers within your institution. However, nobody except you will know whether you were one of these 1,543 readers.Mendeley also uses information extracted from files imported into signed-in users’ Mendeley software to help improve the discovery of published research on the Mendeley service. Snippets of documents in signed-in users’ Mendeley software may in the future form part of the search and recommendation results displayed by Mendeley. Mendeley does not display the full-text of such documents without the user’s or the publisher’s permission. If you do not want snippets of documents to appear in such results on Mendeley, you should not import these documents into your Mendeley software while you are signed in to the service.
 
 We believe that aggregating the data in this way benefits both you and the academic community at large, because it
 
   * improves the automatic document recognition in Mendeley Desktop (see [Automatic Document Details Extraction](https://web.archive.org/faq/#automatic-metadata-extraction "Automatic Document Details Extraction")),
-  * allows you unprecedented insights into the statistics and research trends of your academic discipline,
+  * allows you unprecedented insights into the statistics and research trends of your academic discipline and your institution,
   * gives you a better understanding of your own research habits and document collection,
   * enables us to provide you with a research paper recommendation engine,
   * lets you evaluate your impact on the research community,
   * enables you to discover the most interesting people in your academic discipline,
-  * helps to create the world's largest academic database, open and accessible to everyone.
+  * helps to create one of the world's largest academic databases, open and accessible to everyone.
 
 
 
@@ -56,7 +56,7 @@ If you choose to download the Mendeley software ("our software"), it will create
   * allowing you to manage your article database online and synchronize it across multiple devices;
   * generating recommendations for you including articles that you may be interested in reading and these recommendations are displayed in your private account;
   * preparing individualized statistical information which will only be made available to you via your private account; and
-  * generating anonymous aggregate statistical information regarding all users' interests, habits and reading patterns. This statistical data does not contain any personally identifiable information and is made available to other users and interested third parties (such as publishers) on an anonymous and aggregated basis. 
+  * generating anonymous aggregate statistical information regarding all users' interests, habits and reading patterns, broken down in some cases on an institutional level or other relevant segmenting. This statistical data does not contain any personally identifiable information and is made available to other users and interested third parties (such as institutions and publishers) on an anonymous and aggregated basis. 
 
 
 * TOP
@@ -68,6 +68,7 @@ As a general principle, you provide us with two types of information: personal i
 We may collect and process the following data about you:
 
   * information that you provide to us by filling in forms on our website www.mendeley.com (our "Site") or uploading information about yourself to the Site. This may include any information provided at the time of registering to use our Site, contacting us for any reason, posting and uploading content and material (including your personal profile and any forums in which you participate), communicating with other users through our Site or requesting further services or information;
+  * information provided to us by your institution as part of the MIE license, in accordance with the privacy policy of your institution;
   * if you contact us, we may keep a record of that correspondence and your contact details. We may also ask you for information if you complain or report a problem with our Site;
   * we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
   * details and information in the way that you use the Site including the pages you visit and the time you spend at our Site;
@@ -124,7 +125,7 @@ We use information held about you in the following ways:
 
 We may use aggregate statistical data to help advertisers reach the kind of audience they want to target (for example, persons located in central London). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. We do not pass any personally identifiable information to our advertisers, only anonymised aggregate statistical data about our users' browsing actions and patterns.
 
-We may also use aggregate statistical information regarding users' interests, habits and reading patterns. This statistical data does not contain any personally identifiable information and is made available to registered users and other interested third parties (such as publishers) on an anonymous and aggregated basis.
+We may also use aggregate statistical information regarding users' interests, habits and reading patterns, broken down in some cases on an institutional level or other relevant segmenting. This statistical data does not contain any personally identifiable information and is made available to registered users and other interested third parties (such as publishers) on an anonymous and aggregated basis.
 
 To help provide our service to you, we may engage infrastructure service providers temporary and limited access to some of your personal information (which will never include your research activity but which may include, for example, your e-mail address). Mendeley will: (i) inform such infrastructure service providers of Mendeley’s privacy policy; (ii) instruct providers to never process or use your personal information for any other purpose except for providing services to Mendeley; (iii) instruct providers to delete all information when Mendeley ceases to use the service or services provided.
 
@@ -171,14 +172,7 @@ White Bear Yard
 London, EC1R 5DF  
 United Kingdom
 
-Mendeley has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mendeley, you may contact the BBB EU SAFE HARBOR program at the address below:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU SAFE HARBOR  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints/)
+Mendeley has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mendeley, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints/) for more information and to file a complaint.
 
 * TOP
 
@@ -198,4 +192,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to .
 
-This Privacy Policy was last updated on 15 April 2010.
+This Privacy Policy was last updated on 14 March 2012.
