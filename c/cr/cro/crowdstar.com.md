@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crowdstar.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229032916id_/http%3A//www.crowdstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdstar.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630222458id_/http%3A//www.crowdstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CrowdStar Games!
 
 Last updated: May 23, 2011
 
-CrowdStar, Inc. and its related entities (collectively "CrowdStar", “us”, “our” or "we") is dedicated to protecting the privacy rights of our users ("users" or "you"). This Privacy Policy describes the ways we collect, store, use, and manage the information you provide in connection with our website at www.crowdstar.com (the “Site”) or any CrowdStar game or application provided on other websites or other third party sources (collectively, the "Service"). Please note that the scope of this Privacy Policy is limited to information collected by CrowdStar through your use of the Service.
+CrowdStar, Inc. and its related entities (collectively "CrowdStar", “us”, “our” or "we") is dedicated to protecting the privacy rights of our users ("users" or "you"). This Privacy Policy describes the ways we collect, store, use, and manage the information you provide in connection with our website at [http://www.crowdstar.com](https://web.archive.org/) (the “Site”) or any CrowdStar game or application provided on other websites or other third party sources (collectively, the "Service"). Please note that the scope of this Privacy Policy is limited to information collected by CrowdStar through your use of the Service.
 
 By using the Service, you are agreeing to the collection and use of your information as outlined in this Privacy Policy. We may update this Privacy Policy from time to time. You are responsible for periodically reading this Privacy Policy. If you use our Service after we have updated this Privacy Policy, you acknowledge that you have read the updated terms and consent to our revised privacy practices. Use of the Service after changes are made to the Privacy Policy will be considered your consent to the new terms.
 
@@ -40,7 +40,7 @@ We may collect information using Web beacons. Web beacons or “gifs”, are ele
 
 ## Information for Opting-Out of Cookies and Web Beacons
 
-You may click on the following link: http://www.networkadvertising.org (or such other URL as may be specified by us from time to time) for information on how to opt-out of the use of cookies or Web beacons.
+You may click on the following link: [http://www.networkadvertising.org](http://www.networkadvertising.org/) (or such other URL as may be specified by us from time to time) for information on how to opt-out of the use of cookies or Web beacons.
 
 ## Disclosure of Your Personal Information
 
@@ -62,9 +62,9 @@ The Service may also contain third party tracking tools from service providers, 
 
 ## Changing or Deleting Your Information
 
-You may review, update, correct or delete any Personal Information by changing the applicable information through the SN Website. If you completely delete all this information, your account may become deactivated. If you would like us to delete your record in our system, please contact us at support@crowdstar.com. You may opt out of receiving promotional emails from CrowdStar by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+You may review, update, correct or delete any Personal Information by changing the applicable information through the SN Website. If you completely delete all this information, your account may become deactivated. If you would like us to delete your record in our system, please contact us at [support@crowdstar.com](mailto:support@crowdstar.com). You may opt out of receiving promotional emails from CrowdStar by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
-Under California law, California Residents who have an established business relationship with us may choose to opt out of the disclosure of personal information about them to third parties for such third parties’ direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email support@crowdstar.com.
+Under California law, California Residents who have an established business relationship with us may choose to opt out of the disclosure of personal information about them to third parties for such third parties’ direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email [support@crowdstar.com](mailto:support@crowdstar.com).
 
 ## Security
 
@@ -80,4 +80,4 @@ The Service is not geared toward children under the age of 14 and we do not know
 
 ## Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at support@crowdstar.com.
+If you have any questions about this Privacy Policy, please contact us at [support@crowdstar.com](mailto:support@crowdstar.com).
