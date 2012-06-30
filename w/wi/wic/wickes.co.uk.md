@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163044id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630161511id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Services - Wickes
 
@@ -22,6 +22,8 @@ We may use other companies to provide services on our behalf, such as fulfilling
 We may use your information to contact you for your views on our services, as well as to occasionally notify you about important changes or developments to our site or services. Furthermore, we may also use your information to let you know about our other products and services which may be of interest to you. Depending on your elected means of communication, we may contact you by post, telephone or e-mail. If you decide that you do not want to receive any further communications from Wickes, please let us know by sending an e-mail to Customer Services.
 
 Where you have consented to receive such information, we may allow other companies in our group to occasionally contact you about products and services which may be of interest to you. Depending on your elected means of communication, they may contact you by post, telephone or e-mail. If you decide you do not want to receive any further communications from these companies, please let us know by sending an e-mail to Customer Services.
+
+In addition to the points listed above, telephone calls you make to Wickes may be recorded for training and quality purposes.
 
 Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
 
@@ -64,9 +66,7 @@ Any personal information or account details you give us will be securely protect
 
 ## Cookies
 
-Cookies are small amounts of information which are automatically set by our website on your computer. They are generally used to remember the choices you make while on the site and are harmless to your computer system.
-
-Unless you have specifically refused to accept cookies when disclosing your details to us, our system will automatically issue one or more cookies to your computer when you log on and use this website. Should you elect to set your computer to not accept cookies, you may not be able to use certain features on this website.
+To obtain further information relating to the Cookies operating on our website, please [click here](https://web.archive.org/pcat/cookies).
 
 **Back to top**
 
