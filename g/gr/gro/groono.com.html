@@ -1,0 +1,1105 @@
+<!--The following is the downloaded HTML source of the groono.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630184332id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">--> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Free Classifieds - Groono online classifieds</title>
+<meta name="keywords" content="free classifieds,jobs, employment, apartments, rental, roommate, musician, personals, services, massage, forums, Groono, free local classified ads, free online classified ads, free classified ad sites, post free classified">
+<meta name="description" content="free classifieds,jobs, employment, apartments, rental, roommate, musician, personals, services, massage, forums, Groono, free local classified ads, free online classified ads, free classified ad sites, post free classified">
+
+
+
+<meta name="verify-v1" content="qWagqbapc9aNivxUmQsKP4rJ6kIHrjnX5kFTfysrT5o=">
+<meta name="robots" content="index,follow">
+
+
+<link rel="shortcut icon" href="http://www.groono.com/favicon.ico">
+
+
+
+<link href="http://www.groono.com/css/dropdownhead.css" rel="stylesheet">
+<link href="http://www.groono.com/css/jquery.fancybox-1.3.1.css" rel="stylesheet" type="text/css">
+<link href="http://www.groono.com/css/main.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="http://www.groono.com/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.groono.com/js/jquery.single-ddm.js"></script>
+<script type="text/javascript" src="http://www.groono.com/js/base64.js"></script>
+<script type="text/javascript" src="http://www.groono.com/js/jquery.fancybox-1.3.1.pack.js"></script>
+<script type="text/javascript" id="phindittMainJs" src="http://www.groono.com/js/main.js?root=aHR0cDovL3d3dy5ncm9vbm8uY29tLw=="></script>
+
+<script type="text/javascript">
+var isMem = false;
+var isMemId = 0;
+</script>
+
+
+<script type="text/javascript">
+
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+
+function setCookie(cookieName,cookieValue,nDays) {
+ var today = new Date();
+ var expire = new Date();
+ if (nDays==null || nDays==0) nDays=1;
+ expire.setTime(today.getTime() + 3600000*24*nDays);
+ //expire.setTime(today.getTime() + 1000 * 2 * 60);
+ document.cookie = cookieName+"="+escape(cookieValue)
+                 + ";expires="+expire.toGMTString();
+}
+
+function focusWindow(popUp) {
+
+}
+
+
+
+
+
+
+
+function openHomeOne(popUp) { 
+if(getCookie('homeDone') == ''){
+//setCookie ("homeDone", "roger",1);
+//open('http://www.groono.com/');
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+<script type="text/javascript">
+
+jQuery(document).ready(function(){
+var mainCat4meNeutral;
+var subCat4meNeutral;
+
+jQuery("#phind4menoshow_newtral").click(function(){
+if(jQuery("#phind4menoshow_newtral").is(':checked')){
+setCookieP('noPhind4me','noShow',10,'/');
+$.fancybox.close();
+}
+});
+
+$(".phind4me_newtral").click(function(){
+									  
+if(!isMem){
+	window.location = "http://www.groono.com/cls_sign_up.php?notice=Please login before using Phind4me";
+}
+})
+
+$(".phind4me_newtral").fancybox({
+	"padding":0,
+	"centerOnScroll":true,
+	"margin":0
+});
+
+
+jQuery(".rdoLoc_newtral").change(function(){
+	//alert(jQuery(".rdoLoc:checked").val());
+	
+	if(jQuery(".rdoLoc_newtral:checked").val() == "USA"){
+		jQuery("#worlwide_newtral").fadeOut("normal",function(){
+		jQuery(".worldInp_newtral").attr("disabled","disabled");
+		jQuery(".usaInp_newtral").removeAttr("disabled");	
+		jQuery("#usa_newtral").fadeIn("normal");
+		});
+
+		jQuery(".emtire_state_newtral_JS").fadeIn("normal");
+		jQuery("#entire_state_alerts_newtral_JS").removeAttr("disabled");			
+
+	}
+	
+	if(jQuery(".rdoLoc_newtral:checked").val() == "world"){
+		jQuery("#usa_newtral").fadeOut("normal",function(){
+		jQuery(".usaInp_newtral").attr("disabled","disabled");	
+		jQuery(".worldInp_newtral").removeAttr("disabled");
+		jQuery("#worlwide_newtral").fadeIn("normal");
+		});
+		
+		jQuery(".emtire_state_newtral_JS").fadeOut("normal");		
+		jQuery("#entire_state_alerts_newtral_JS").attr("disabled","disabled");	
+	}
+
+});
+
+
+jQuery("#cmbCountry_newtral").change(function(){
+var CurVal = jQuery("#cmbCountry_newtral").val();
+
+
+if(CurVal == 2){
+	$("#cmbWOption_newtral").attr("name","phindOneState");
+}else if(CurVal == 8 || CurVal == 10){
+	$("#cmbWOption_newtral").attr("name","phindOneCity");
+}else{
+	$("#cmbWOption_newtral").attr("name","phindOneOption");	
+}
+
+$.post("http://www.groono.com/ajax_4_phind4_me.php", {worldSubPlace: CurVal},
+   function(data){
+		$("#cmbWOption_newtral").html(data);
+});
+});
+
+jQuery("#cmbWCategory_newtral").change(function(){
+var CurVal = jQuery("#cmbWCategory_newtral").val();
+mainCat4meNeutral = CurVal;
+
+if(mainCat4meNeutral == 8 || mainCat4meNeutral == 2)
+{
+	jQuery(".price_newtral_inp").removeAttr("disabled");
+	jQuery(".price_newtral").show();
+}else{
+	jQuery(".price_newtral_inp").attr("disabled","disabled");
+	jQuery(".price_newtral").hide();
+}
+
+if(mainCat4meNeutral == 6 || mainCat4meNeutral == 7)
+{
+jQuery("#include_remote_newtral").removeAttr("disabled");
+jQuery(".includeRemote_JS").show();
+}else{
+jQuery(".includeRemote_JS").hide();	
+jQuery("#include_remote_newtral").attr("disabled","disabled");
+}
+
+if(mainCat4meNeutral == 8){
+jQuery("#include_selling_online_newtral").removeAttr("disabled");	
+	jQuery(".includeselling_JS").show();
+}else{
+jQuery("#include_selling_online_newtral").attr("disabled","disabled");
+jQuery(".includeselling_JS").hide();
+}
+
+$.post("http://www.groono.com/ajax_4_phind4_me.php", {worldCat: CurVal},
+   function(data){
+		$("#cmbWSubCategory_newtral").html(data);
+});
+});
+
+
+jQuery("#cmbState_newtral").change(function(){
+
+var CurVal = jQuery("#cmbState_newtral").val();
+$.post("http://www.groono.com/ajax_4_phind4_me.php", {usState: CurVal},
+   function(data){
+		$("#cmbCity_newtral").html(data);
+});
+});
+
+jQuery("#cmbCategory_newtral").change(function(){
+var CurVal = jQuery("#cmbCategory_newtral").val();
+mainCat4meNeutral = CurVal;
+
+
+if(mainCat4meNeutral == 8 || mainCat4meNeutral == 2)
+{
+	jQuery(".price_newtral_inp").removeAttr("disabled");
+	jQuery(".price_newtral").show();
+}else{
+	jQuery(".price_newtral_inp").attr("disabled","disabled");
+	jQuery(".price_newtral").hide();
+}
+
+
+
+if(mainCat4meNeutral == 6 || mainCat4meNeutral == 7)
+{
+jQuery("#include_remote_newtral").removeAttr("disabled");
+jQuery(".includeRemote_JS").show();
+}else{
+jQuery(".includeRemote_JS").hide();	
+jQuery("#include_remote_newtral").attr("disabled","disabled");
+}
+
+if(mainCat4meNeutral == 8){
+jQuery("#include_selling_online_newtral").removeAttr("disabled");	
+	jQuery(".includeselling_JS").show();
+}else{
+jQuery("#include_selling_online_newtral").attr("disabled","disabled");
+jQuery(".includeselling_JS").hide();
+}
+
+$.post("http://www.groono.com/ajax_4_phind4_me.php", {usCat: CurVal},
+   function(data){
+		$("#cmbSubCategory_newtral").html(data);
+});
+});
+
+
+
+
+jQuery("#cmbSubCategory_newtral").change(function(){
+var CurVal = jQuery("#cmbSubCategory_newtral").val();
+subCat4meNeutral = CurVal;
+
+if(subCat4meNeutral == 152 || subCat4meNeutral == 142 || subCat4meNeutral == 11 || subCat4meNeutral == 17 || subCat4meNeutral == 23 || subCat4meNeutral == 25 || subCat4meNeutral == 26 || subCat4meNeutral == 29 || subCat4meNeutral == 31 || subCat4meNeutral == 34 || subCat4meNeutral == 35  || subCat4meNeutral == 37 || subCat4meNeutral == 39 || subCat4meNeutral == 40 || subCat4meNeutral == 41 || subCat4meNeutral == 124 || subCat4meNeutral == 130 || subCat4meNeutral == 153 || subCat4meNeutral == 148 || subCat4meNeutral == 144 || subCat4meNeutral == 146 || subCat4meNeutral == 145  || subCat4meNeutral == 147 || subCat4meNeutral == 125 || subCat4meNeutral == 131 || subCat4meNeutral == 66 || subCat4meNeutral == 67 || subCat4meNeutral == 70 || subCat4meNeutral == 71 || subCat4meNeutral == 72 || subCat4meNeutral == 76 || subCat4meNeutral == 79 || subCat4meNeutral == 12 || subCat4meNeutral == 14 || mainCat4meNeutral == 6 || mainCat4meNeutral == 7 )
+{
+jQuery("#include_remote_newtral").removeAttr("disabled");
+jQuery(".includeRemote_JS").show();	
+}else{
+jQuery("#include_remote_newtral").attr("disabled","disabled");
+jQuery(".includeRemote_JS").hide();	
+}
+
+});
+
+
+jQuery("#cmbWSubCategory_newtral").change(function(){
+var CurVal = jQuery("#cmbWSubCategory_newtral").val();
+subCat4meNeutral = CurVal;
+
+if(subCat4meNeutral == 152 || subCat4meNeutral == 142 || subCat4meNeutral == 11 || subCat4meNeutral == 17 || subCat4meNeutral == 23 || subCat4meNeutral == 25 || subCat4meNeutral == 26 || subCat4meNeutral == 29 || subCat4meNeutral == 31 || subCat4meNeutral == 34 || subCat4meNeutral == 35  || subCat4meNeutral == 37 || subCat4meNeutral == 39 || subCat4meNeutral == 40 || subCat4meNeutral == 41 || subCat4meNeutral == 124 || subCat4meNeutral == 130 || subCat4meNeutral == 153 || subCat4meNeutral == 148 || subCat4meNeutral == 144 || subCat4meNeutral == 146 || subCat4meNeutral == 145  || subCat4meNeutral == 147 || subCat4meNeutral == 125 || subCat4meNeutral == 131 || subCat4meNeutral == 66 || subCat4meNeutral == 67 || subCat4meNeutral == 70 || subCat4meNeutral == 71 || subCat4meNeutral == 72 || subCat4meNeutral == 76 || subCat4meNeutral == 79 || subCat4meNeutral == 12 || subCat4meNeutral == 14 || mainCat4meNeutral == 6 || mainCat4meNeutral == 7 )
+{
+jQuery("#include_remote_newtral").removeAttr("disabled");
+jQuery(".includeRemote_JS").show();	
+}else{
+jQuery("#include_remote_newtral").attr("disabled","disabled");
+jQuery(".includeRemote_JS").hide();	
+}
+
+});
+
+});
+
+
+
+function checkphind_four_newtral(f){
+
+var str = '';
+
+jQuery(document).ready(function(){
+								
+if($("#phindOneEmail_newtral").val() == ''){
+str += "Please mention your email.\n";
+}else if(!isEmail($("#phindOneEmail_newtral").val())){
+str += "Please mention valid email.\n";	
+}
+
+if($("#phindOneTitle_newtral").val() == ""){
+str += "Please mention title.\n";
+}								
+
+if((jQuery("#cmbState_newtral").val() == '' || jQuery("#cmbState_newtral").val() == 0) && jQuery("#cmbState_newtral").is(':disabled') == false){
+str += "Please select State\n";	
+}else{
+if((jQuery("#cmbCity_newtral").val() == '' || jQuery("#cmbCity_newtral").val() == 0) && jQuery("#cmbCity_newtral").is(':disabled') == false){
+str += "Please select city\n";	
+}
+}
+
+if((jQuery("#cmbCountry_newtral").val() == '' || jQuery("#cmbCountry_newtral").val() == 0) && jQuery("#cmbCountry_newtral").is(':disabled') == false){
+str += "Please select Region\n";	
+}else{
+if((jQuery("#cmbWOption_newtral").val() == '' || jQuery("#cmbWOption_newtral").val() == 0) && jQuery("#cmbWOption_newtral").is(':disabled') == false){
+
+if(jQuery("#cmbCountry_newtral").val() == 2){
+str += "Please select State\n";	
+}else if(jQuery("#cmbCountry_newtral").val() == 8 || jQuery("#cmbCountry_newtral").val() == 10){
+str += "Please select City\n";		
+}else{
+str += "Please select Country\n";		
+}
+
+}
+}
+
+if((jQuery("#cmbCategory_newtral").val() == '' || jQuery("#cmbCategory_newtral").val() == 0) && jQuery("#cmbCategory_newtral").is(':disabled') == false){
+str += "Please select Main category\n";	
+}
+
+if((jQuery("#cmbSubCategory_newtral").val() == '' || jQuery("#cmbSubCategory_newtral").val() == 0) && jQuery("#cmbSubCategory_newtral").is(':disabled') == false){
+str += "Please select Sub category\n";	
+}
+
+if((jQuery("#cmbWCategory_newtral").val() == '' || jQuery("#cmbWCategory_newtral").val() == 0) && jQuery("#cmbWCategory_newtral").is(':disabled') == false){
+str += "Please select Main category\n";	
+}
+
+if((jQuery("#cmbWSubCategory_newtral").val() == '' || jQuery("#cmbWSubCategory_newtral").val() == 0) && jQuery("#cmbWSubCategory_newtral").is(':disabled') == false){
+str += "Please select Sub category\n";	
+}
+
+
+});
+	
+if(str != ''){
+	alert(str);
+	return false;
+}else{
+	return true;	
+}
+
+
+}
+
+
+</script>
+
+</head>
+<body id="bodyPhinditt">
+
+
+
+<div class="none">
+
+
+<div class="phindone1" id="phindOneDiv_newtral">
+<form method="get" name="frmPhind4me" action="http://www.groono.com/phind4me_activation.php" onsubmit="return checkphind_four_newtral(this);">
+<input type="hidden" name="act" value="phind4meValues">
+<div class="phindone1_txt">Let us find your classified ad!</div>
+
+<div class="clr"><!-- --></div>
+
+
+<div class="phindone1imp_txt">Your Email:  <span style="color:#F00;"> - (You will need to confirm your email address) </span></div>
+<div class="phindone1imp_txtimp inpbg"><input id="phindOneEmail_newtral" name="phindOneEmail" value="" type="text"></div>
+
+<div class="phindone1imp_txt2">Title:<span style="color:#03F;"> - (what are you searching for ?) </span></div>
+<div class="phindone1imp_txtimp inpbg"><input name="phindOneTitle" id="phindOneTitle_newtral" type="text" value=""></div>
+
+
+<div class="clr"></div>
+
+
+
+<div class="txtg58s m5b price_newtral none">&nbsp;&nbsp;&nbsp;Price</div>
+
+<div class="clr price_newtral none">
+<div class="left txf5s2 p10l m10l p5r ">$</div>
+<div class="left txf5s2inp p5r inpbg">&nbsp;&nbsp;<input disabled="" name="phindOneMin" id="" class="price_newtral_inp" type="text"></div>
+<div class="left txf5s2 p10l ">to</div><div class="left txf5s2 p5l p10r ">$</div>
+<div class="left txf5s2inp p10l inpbg ">&nbsp;&nbsp;<input disabled="" name="phindOneMax" id="" class="price_newtral_inp" type="text"></div>
+<div class="clr"><!-- --></div>
+
+<div class="txtg58s">minimum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maximum</div>
+
+<div class="clr"><!-- --></div>
+</div>
+
+
+<div>
+
+<div class="div_lef left">
+<div class="txtvkd5e5">Select Location</div>
+<div class="txtvkd5"></div>
+<div style="margin-bottom:10px;"><input type="radio" name="rdoLoc" class="rdoLoc_newtral" value="USA" checked="checked"> Usa &nbsp;&nbsp;<input type="radio" name="rdoLoc" value="world" class="rdoLoc_newtral"> Worlwide</div>
+</div>
+
+
+<div class="left" style="width:240px;margin-top:15px;">
+<div class="txjd4">"Get email alerts"</div>
+
+<div class="txjd4grey">We'll notify you when we<br>
+find what  your looking for.</div>
+</div>
+
+<div class="clr"><!-- --></div>
+</div>
+
+
+<div style="margin-left:26px;">
+
+<div id="usa_newtral">
+<select name="phindOneState" id="cmbState_newtral" class="left m10r usaInp_newtral">
+<option value="0">-- Choose State --</option>
+<option value="1">Alabama</option><option value="2">Alaska</option><option value="3">Arizona</option><option value="4">Arkansas</option><option value="5">California</option><option value="6">Colorado</option><option value="7">Connecticut</option><option value="8">Delaware</option><option value="9">Florida</option><option value="10">Georgia</option><option value="11">Hawaii</option><option value="12">Idaho</option><option value="13"> Illinois</option><option value="14">Indiana</option><option value="15">Iowa</option><option value="16">Kansas</option><option value="17">Kentucky</option><option value="18">Louisiana</option><option value="19">Maine</option><option value="20">Maryland</option><option value="21">Massachusetts</option><option value="22">Michigan</option><option value="23">Minnesota</option><option value="24">Mississippi</option><option value="25">Missouri</option><option value="26">Montana</option><option value="27">Nebraska</option><option value="28">Nevada</option><option value="29">New Hampshire</option><option value="30">New Jersey</option><option value="31">New Mexico</option><option value="32">New York</option><option value="33">North Carolina</option><option value="34">North Dakota</option><option value="35">Ohio</option><option value="36">Oklahoma</option><option value="37">Oregon</option><option value="38">Pennsylvania</option><option value="39"> Rhode Island</option><option value="40">South Carolina</option><option value="41">South Dakota</option><option value="42">Tennessee</option><option value="43">Texas</option><option value="44">Utah</option><option value="45">Vermont</option><option value="46">Virginia</option><option value="47">Washington</option><option value="48">West Virginia</option><option value="49">Wisconsin</option><option value="50">Wyoming</option></select>
+
+<select name="phindOneCity" id="cmbCity_newtral" class="left m10r usaInp_newtral">
+<option value="0">-- Choose City --</option>
+</select>
+
+<div class="clr p5"><!-- --></div>
+
+<select name="phindOneMainCat" id="cmbCategory_newtral" class="left m10r usaInp_newtral">
+<option value="0">-- Main Category --</option>
+<option value="1">Jobs</option><option value="2">Real Estate/Housing</option><option value="3">Pets</option><option value="4">Community</option><option value="5">Services</option><option value="6">Musician XChange</option><option value="7">Filmmakers</option><option value="8">For Sale</option><option value="9">Gigs</option><option value="141">Resume</option><option value="143">Investments/funding</option></select>
+
+ 
+<select name="phindOneSubCat" id="cmbSubCategory_newtral" class="left m10r usaInp_newtral">
+<option value="0">-- Sub Category --</option>
+</select>
+ 
+
+</div>
+
+<div class="none" id="worlwide_newtral">
+<select name="phindOneRegion" id="cmbCountry_newtral" class="left m10r worldInp_newtral" disabled="disabled">
+<option value="0">-- Choose Region --</option>
+<option value="2">Canada</option><option value="3">Asia</option><option value="4">Americas</option><option value="5">Europe</option><option value="6">Africa</option><option value="7">AU / NZ</option><option value="8">Int'l Cities</option><option value="10">Ca Cities</option></select>
+
+<select name="phindOneOption" id="cmbWOption_newtral" class="left m10r worldInp_newtral" disabled="disabled">
+<option value="0">-- Choose Country --</option>
+
+</select>
+
+<div class="clr p5"><!-- --></div>
+
+<select name="phindOneMainCat" id="cmbWCategory_newtral" class="left m10r worldInp_newtral" disabled="disabled">
+<option value="0">-- Main Category --</option>
+<option value="1">Jobs</option><option value="2">Real Estate/Housing</option><option value="3">Pets</option><option value="4">Community</option><option value="5">Services</option><option value="6">Musician XChange</option><option value="7">Filmmakers</option><option value="8">For Sale</option><option value="9">Gigs</option><option value="141">Resume</option><option value="143">Investments/funding</option></select>
+
+ 
+<select name="phindOneSubCat" id="cmbWSubCategory_newtral" class="left m10r worldInp_newtral" disabled="disabled">
+<option value="0">-- Sub Category --</option>
+</select>
+
+</div>
+
+</div>
+
+<div class="clr"><!-- --></div>
+
+
+<div class="dflcl4"><input type="submit" value="Submit"></div>
+
+<div class="phind4menoshow  p5"><input type="checkbox" class="link" id="phind4menoshow_newtral" value="">&nbsp;Don't show this again.</div>
+
+
+<div class="includeRemote includeselling_JS p5 none"><input name="include_selling_online" disabled="" id="include_selling_online_newtral" value="Y" type="checkbox" class="link">&nbsp;Include selling online ads</div>
+
+
+<div class="includeRemote includeRemote_JS p5 none"><input name="include_remote" disabled="" id="include_remote_newtral" value="Y" type="checkbox" class="link">&nbsp;Include remote ads</div>
+
+<div class="includeRemote emtire_state_newtral_JS p5"><input name="entire_state_alerts" id="entire_state_alerts_newtral_JS" value="Y" type="checkbox" class="link">&nbsp;Get alerts from entire state</div>
+
+<div class="clr"></div>
+<div>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0594947656324722";
+/* horizontal txt ads for skipnote ppl, */
+google_ad_slot = "4090011044";
+google_ad_width = 460;
+google_ad_height = 100;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+</div>
+
+
+</form>
+</div>
+
+</div>
+<a href="#phindOneDiv_newtral" class="phind4me_newtral"></a>
+
+<div class="sideTabsHober none">
+<div><a href="http://advertise.groono.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','http://www.groono.com/images/phinditads_rightlogo_ho.png',0)"><img src="http://www.groono.com/images/phinditads_rightlogo.png" name="Image10" width="55" height="169" border="0"></a></div><br>
+<div><a href="http://www.groono.com/ad_exchange.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','http://www.groono.com/images/bannerExchan587_ho.jpg',0)"><img src="http://www.groono.com/images/bannerExchan587.jpg" name="Image9" width="55" height="146" border="0"></a></div>
+<br>
+</div>
+
+
+<div class="container" id="container">
+
+
+<table id="notice" border="0" cellspacing="0" align="center" class="noticeHold none" cellpadding="0.">
+  <tbody><tr><td><img src="http://www.groono.com/images/noticeL.png" class=""></td>
+    <td class="noticeM">
+		deleted</td>
+<td><img onclick="fadeNotice();" src="http://www.groono.com/images/noticeR.png" class="link"></td>
+</tr></tbody></table>
+
+<script type="text/javascript">
+setNotice();
+ 
+ 
+</script>
+
+
+
+
+<div class="none">
+
+<div id="multiPostDiv" class="multiPostDivCls">
+<div class="multiPostDivClsHead">Posting Location</div>
+<div class="multiPostDivClsWhite">Where would you like to multipost?</div>
+<div class="multiPostDivClsGrey">
+<div class="left usaMulti"><div class="postBtnsAd usaMarPop"><a href="http://www.groono.com/classifieds/postad/selectcity/index.php?sort=usa">USA</a></div></div>
+<div class="left orMulti">or</div>
+<div class="left worldMulti"><div class="postBtnsAd"><a href="http://www.groono.com/classifieds/postad/selectcity/index.php?sort=world">Worldwide</a></div></div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="none">
+
+<div id="anthonyDiv" class="multiPostDivCls">
+<div class="multiPostDivClsHead">Add Anthony as a friend on Facebook.</div>
+<div class="multiPostDivClsWhite">Go to</div>
+<div class="multiPostDivClsGrey">
+<div class="" align="center"><div class="postBtnsAd"><a href="http://www.facebook.com/phinditt">Facebook</a></div></div>
+
+</div>
+
+
+<div style="text-align:center;background:#EAEAEA;" class="p5b">Encourage Andrew to join Facebook&nbsp;<img src="http://www.groono.com/images/smily.png"></div>
+
+</div>
+
+
+</div>
+
+<div class="none">
+
+<div id="meetownerdiv" class="multiPostDivCls">
+<div class="multiPostDivClsHead">Meet the owners</div>
+<div class="multiPostDivClsWhite">Go to</div>
+<div class="multiPostDivClsGrey">
+<div class="" style="padding-left:146px;" align="center">
+
+<div class="postBtnsAd left"><a href="http://www.groono.com/skipnote/anthony">Anthony</a></div>
+<div class="left orMulti" style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OR</div>
+<div class="postBtnsAd left"><a href="http://www.groono.com/skipnote/andrew">Andrew</a></div>
+
+<div class="clr"><!--  --></div>
+</div>
+
+</div>
+</div>
+
+
+</div>
+
+
+
+
+<div class="header">
+<div class="headerTop">
+
+<div class="logo left"><a href="http://www.groono.com/"><img src="http://www.groono.com/images/logo_btn_dk45.png"></a></div>
+<div class="topTabs left">
+
+
+<div style="height:20px;"></div>
+
+<ul class="reltedCityTop">
+
+<li class="topHover topHoverSel" onmouseover="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)" onmouseout="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)">
+ 
+<a href="http://www.groono.com/classifieds/postad/selectcity"><div class="btn_cd58_r"><div class="btn_cd58_l"><div class="btn_cd58_m">Post An Ad</div></div></div></a>
+ 
+
+</li>
+
+
+<li class="topHover" onmouseover="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)" onmouseout="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)"><a class="multiPostId" href="#multiPostDiv">
+<div class="btn_cd58_r"><div class="btn_cd58_l"><div class="btn_cd58_m">
+Multi-Post
+</div></div></div>
+</a></li>
+<li class="topHover" onmouseover="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)" onmouseout="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)"><a href="http://www.groono.com/?show=usa#usa">
+<div class="btn_cd58_r"><div class="btn_cd58_l"><div class="btn_cd58_m">
+USA
+</div></div></div>
+</a></li>
+<li class="topHover" onmouseover="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)" onmouseout="tabHover(this,&quot;topHover&quot;,&quot;topHoverSel&quot;)"><a href="http://www.groono.com/#Worldwide">
+<div class="btn_cd58_r"><div class="btn_cd58_l"><div class="btn_cd58_m">
+Worldwide
+</div></div></div>
+</a></li>
+</ul>
+
+ 
+<div class="left adTabLink"><a href="http://www.groono.com/skipnote/">Skipnote</a></div>
+ 
+
+
+<div class="clr"></div></div>
+
+
+<div class="topHeadRightBox right">
+<div class="signInBox">
+<a href="http://www.groono.com/cls_sign_up.php">Sign in</a> or <a href="http://www.groono.com/cls_sign_up.php">Register</a>
+
+</div>
+
+
+<div class="tpSSerachForm right">
+
+<div style="display: none;margin:49px 0 0 34px;" id="suggestions" class="suggestionsBox">
+        <img alt="upArrow" style="position: relative; top: -22px; left: 0px;" src="http://www.groono.com/sayjoe/images/upArrow.png">
+<div class="suggestionList" id="autoSuggestionsList">
+            <div class="" id="suggestion_locals"></div>
+            <div class="" id="suggestion_ads"></div>
+</div>
+</div>
+
+<div>
+
+
+<form action="http://www.groono.com/sayjoe/sayjoesearchresultsadvertisementsponsored.php" method="get" name="frmTopSearch" id="frmTopSearch" onsubmit="return fnTopSearchform(document.frmTopSearch)">
+<input type="hidden" name="src" value="header">
+<input type="hidden" name="filter" value="all">
+<input type="hidden" name="searNum" value="11">
+
+<div class="left inline"><img src="http://www.groono.com/images/bdr_cls_s585_l.png"></div>
+
+<div class="tpSSerachFormOne left inline"><input type="text" name="q" onfocus="tempTxtFocus(this,'Begin Searching for classified Ads...');" onblur="tempTxtBlur(this,'Begin Searching for classified Ads...');" onkeyup="lookupSayjoe(this.value,'suggestions','suggestion_locals','suggestion_ads','http://www.groono.com/sayjoe/searchAjax.php','cls_header');" autocomplete="off" id="inputString" class="combonw" value="Begin Searching for classified Ads...">
+
+</div>
+
+<div class="left inline">
+<input type="submit" class="subHeaderBtn link" value="">
+</div>
+
+
+</form>
+</div>
+<div class="clr"></div></div>
+
+
+
+
+</div>
+
+
+
+<div class="clr"></div></div>
+
+
+<div class="mainNav">
+<div class="menu_fs_4_l"></div>
+<div class="menu_fs_4_m">
+<ul>  
+<li><a href="http://www.groono.com/" style="color:#FFFFFF;">Home</a></li>
+
+<li>
+
+<div class="dropBTnMyacc left">
+<ul class="ddmenu ddmenuHeader_new">
+<li> 
+
+<a style="" href="">All Groono <span style="color:#1b58fa;">Products</span></a>
+
+<ul>
+<li class="tobdr"></li>
+<li><a id="meetowner" href="#meetownerdiv"><img src="http://www.groono.com/images/moIcon.png" align="absmiddle">&nbsp; Meet the Owners</a></li>
+<li><a href="http://www.groono.com/ad_exchange.php"><img src="http://www.groono.com/images/beEx.png" align="absmiddle">&nbsp; Banner Exchange</a></li>
+<li><a href="http://www.groono.com/sayjoe/"><img src="http://www.groono.com/images/sayjowl.png" align="absmiddle">&nbsp; SayJoe</a></li>
+<li><a href="http://www.groono.com/myimportz/"><img src="http://www.groono.com/images/myImp.png" align="absmiddle">&nbsp; Myimportz</a></li>
+<li><a href="http://advertise.groono.com/"><img src="http://www.groono.com/images/PhinIm.png" align="absmiddle">&nbsp; GroonoAds</a></li>
+<li><a href="http://www.groono.com/phindservices/"><img src="http://www.groono.com/images/PhinServi.png" align="absmiddle">&nbsp; PhindServices</a></li>
+<li class="none"><a href="http://www.groono.com/phinditt_videos.php"><img src="http://www.groono.com/images/PhinVids.png" align="absmiddle">&nbsp; Groono Videos</a></li>
+<li><a href="http://www.groono.com/site_directory.php"><img src="http://www.groono.com/images/sdIcon.png" align="absmiddle">&nbsp; Site directory</a></li>
+<li><a href="#phindOneDiv_newtral" class="phind4me_newtral"><img src="http://www.groono.com/images/p4Icon.png" align="absmiddle">&nbsp; Phind4me</a></li>
+<li><a href="http://www.groono.com/investment.php"><img src="http://www.groono.com/images/investico.png" align="absmiddle">&nbsp; Invest</a></li>
+<li><a href="http://www.groono.com/archives_history.php"><img src="http://www.groono.com/images/phindarchive.png" align="absmiddle">&nbsp; Groono archives history</a></li>
+<li><a href="http://www.groono.com/submit_logo.php"><img src="http://www.groono.com/images/createLogo.png" align="absmiddle">&nbsp; Create Groono's logo</a></li>
+
+</ul>
+
+
+</li>
+</ul>
+</div>
+
+
+
+</li>
+
+<li><a href="http://www.groono.com/classifieds/postad/selectcity/">Post An Ad</a></li>
+
+<li><a href="http://www.groono.com/tell_friend.php">Tell A Friend</a></li>
+
+<li><a href="http://www.groono.com/sayjoe/" onclick="focusWindow('ON');">Sayjoe</a></li>
+
+<li><a href="http://www.groono.com/clsmyaccount.php">My Account</a></li>
+
+<li><a href="http://www.groono.com/promote.php">Promote</a></li>
+
+<li><a href="http://www.groono.com/?show=usa#usa">USA</a></li>
+<li><a href="http://www.groono.com/#Worldwide">Worldwide</a></li>
+
+ 
+<li><a class="multiPostId" href="#multiPostDiv">Multipost</a></li>
+ 
+
+</ul>
+</div>
+<div class="menu_fs_4_r"></div>
+</div>
+<div class="clr"></div></div><!--  Header block ends  -->
+
+
+<div class="content">
+
+<div class="leftFeaBoxHold" id="leftFeaBoxHold">
+<iframe allowtransparency="true" id="leftFramePhinditt" src="http://www.groono.com/leftfeaFrame.php" scrolling="no" width="160" height="568" frameborder="0"></iframe>
+</div>
+<div class="hed5r5">Privacy policy</div>
+
+<div class="priCon">
+
+                <p align="justify">Groono handles your personal information with care. Groono respects your privacy 
+                  
+                  and is committed to protecting the personal information that you share with us. 
+                  
+                  You can browse through our website without giving us any information about yourself. 
+                  
+                  Groono uses your information to provide our services with quality. We will help 
+                  
+                  to resolve any disputes or problems. We promote safe trading and keep you up-to-date 
+                  
+                  about our services. We are the owners of the information collected on this site. 
+                  
+                  We only have access to your information; Groono will not sell or rent this information 
+                  
+                  to anyone.</p>
+                  <p align="justify">Please take note that as a user, if you post personal information in any public 
+                    
+                    areas of the Groono website, that information will be made public by you and 
+                    
+                    available to viewers. Do not post information in public areas that you want 
+                    
+                    to keep private. Information you post, share, or list with third parties like 
+                    
+                    your buddies or any members of the social network about yourself may be shared 
+                    
+                    with other users at your own risk.</p>
+                  <p>Your information is safe: </p>
+                  <p align="justify">We will not share your information with any third party outside of our organization, 
+                    
+                    other than as necessary to fulfill your request. No contact info should be listed 
+                    
+                    or given out that you do not want seen while using Groono.com. Groono collects 
+                    
+                    personal information when you register and when you use our products or services. </p>
+                  <p>Information submitted by Users on Groono:</p>
+                  <p>• First name or first and last names <br>
+                    • Gender<br>
+                    • Age<br>
+                    • Occupation<br>
+                    • Location (city and state) <br>
+                    • Photos<br>
+                    • Videos or other shared content uploaded by the members </p>
+                  <p align="justify"><br>
+                    Your Duty as a user: </p>
+                  <p align="justify">Groono may make changes to our privacy policy and the responsibility falls 
+                    
+                    on the users to regularly review the privacy policy at all times.<br>
+                  </p>
+                  
+</div>
+<div class="p10"></div>
+<div class="clr"><!-- --></div>
+</div> <!--  Content ends  -->
+
+
+<div class="footer">
+<div class="p10"></div>
+
+
+
+
+
+<div class="">
+
+<div class="left cls_s5s7">
+
+<a class="sq_bg" target="_blank" href="http://advertise.groono.com/tripple_decker.php?act=counter_admin">
+<div class="sq_bg_in1">Advertise here</div>
+<div class="sq_bg_in3">Get Unlimited Clicks</div>
+</a>
+
+</div>
+
+<div class="left cls_s5s4">
+<a class="sq_bg" target="_blank" href="http://advertise.groono.com/tripple_decker.php?act=counter_admin">
+<div class="sq_bg_in1">Advertise here</div>
+<div class="sq_bg_in3">Get Unlimited Clicks</div>
+</a>
+</div>
+
+<div class="left cls_s5s7">
+
+<a class="sq_bg" target="_blank" href="http://advertise.groono.com/tripple_decker.php?act=counter_admin">
+<div class="sq_bg_in1">Advertise here</div>
+<div class="sq_bg_in3">Get Unlimited Clicks</div>
+</a>
+
+</div>
+
+<div class="clr"></div>
+</div>
+
+
+
+
+
+
+
+<div class="p10">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0594947656324722";
+/* horizontal txt ads for skipnote ppl, */
+google_ad_slot = "4090011044";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+
+
+
+<div class="footer_links">
+   
+<div class="first_ul">
+<div class="left">
+        <div class="li_foo_link m5r" style="color: #989898;">© 2012 Groono</div>
+        <div class="li_foo_link" style="color: #989898;">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/">Free Classifieds</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/about.php">About Us</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/site_directory.php">Site Directory</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/terms.php" onclick="focusWindow('ON');">Terms</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/privacy.php">Privacy</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/tell_friend.php">Tell A Friend</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://advertise.groono.com/">Advertising</a></div>
+         <div class="clr_only"></div> 
+</div>
+
+<div class="right">
+		<div class="li_foo_link"><a href="http://www.groono.com/journal_entries.php">Journal Entries<span style="color:#FF0000;font-size:10px;">&nbsp;New</span></a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/contact_us.php">Contact Us</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/promote.php">Promote</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="mailto:press@groono.com">Press</a></div>
+    <div class="clr_only"></div>   
+    </div>     
+       <div class="clr_only"></div>    
+    </div>
+    
+<div class="clr"></div>   
+<div style="padding-top:10px;"></div>
+
+    
+<div class="third_ul left">
+        <div class="li_foo_link">Groono Products:</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/">Groono</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://advertise.groono.com/">Groono Ads</a></div>
+
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/skipnote/">Skipnote</a></div>        
+        
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/sayjoe/">Sayjoe</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/myimportz/">Myimportz</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/investment.php">Invest</a></div>        
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/ad_exchange.php">Banner exchange</a></div>
+        <div class="li_foo_link">•</div> 
+        <div class="li_foo_link"><a href="#phindOneDiv_newtral" class="phind4me_newtral">Phind4me</a></div>
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://www.groono.com/phindservices/">Phindservices</a></div>                
+        <div class="clr_only"></div>
+    </div>
+
+<div class="right">
+	<div class="left m5r"><a href="http://www.groono.com/skipnote/andrew" target="_blank"><img src="http://www.groono.com/images/skipnote_small_ico.png"></a></div>
+	<div class="left"><a href="http://www.groono.com/skipnote/anthony" target="_blank"><img src="http://www.groono.com/images/skipnote_small_ico.png"></a></div>
+<div class="clr"></div> 
+</div>
+
+<div class="clr"></div> 
+
+
+    
+    <div class="clr_only"></div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div class="sharTabscls">
+
+
+
+<div class="left"><a href="http://twitter.com/share?url=http://www.groono.com/&amp;count=horizontal" class="twitter-share-button">Tweet</a>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+
+<div class="left">
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<fb:like href="http://www.groono.com/" layout="button_count" show_faces="false" width="50"></fb:like>
+</div>
+
+
+
+<div class="left">
+<a name="fb_share" rel="nofollow" share_url="http://www.groono.com/" style="width:57px;height:57px;" type="button_count"></a>
+</div>
+
+
+<script type="text/javascript" src="http://static.ak.fbcdn.net/connect.php/js/FB.Share"></script>
+
+
+<div class="left p10l">
+<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone href="http://www.groono.com/" size="medium"></g:plusone>
+</div>
+
+
+<div class="clr"><!--  --></div>
+</div>
+
+
+
+
+
+<div class="clr"><!-- --></div>
+</div>
+
+
+
+<div class="none">
+
+<div id="viwDetDiv">
+<div id="discountHintFoo" class="discountHintImg2">
+<div class="clsorangeTxt">No other pay per click company gives you 15 days of free advertising</div>
+<div class="clsSubTxt">Save 50% by pre-purchasing a advertisment campaign for one month</div>
+<div class="txtprice"></div>
+</div>
+</div>
+
+</div>
+
+
+
+<div class="viwDet"></div>
+
+
+
+
+	<div class="tranBarHold">
+<div class="tranBarLeft">
+
+<div class="tran_yel left">Click to</div>
+<div class="tran_whti left clr">Translate</div>
+
+<div id="translate_Div">
+<div class="transLate">
+<div id="google_translate_element" class="tranlatElem"></div>
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script>
+<script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+</div>
+
+<div class="clr"><!-- --></div>
+
+</div>
+
+<img id="translatecloese" src="http://www.groono.com/images/tranClose.png">
+<img id="translateSlideIn" src="http://www.groono.com/images/slideOut.png"></div>
+
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+if(getCookie('botBarClose') != 'yes'){
+$("#bodyPhinditt").append('<div id="botClsUpDID" class="botClsUp"><div class="botRemoteBoxHold" id="botRemoteBoxHold" ><iframe id="botPhinditt" src="http://www.groono.com/bottomRemoteFrame.php" allowtransparency="true" scrolling="no" width="100%" height="94" frameborder="0" ></iframe></div></div>');						   
+}
+});
+
+</script>
+<div id="btnfooDiv" class="btnfooDiv">
+
+<div class="botTool" id="botTool">
+<div class="botTool_in">
+<div class="left p5l"><a target="_blank" href="http://advertise.groono.com/"><img src="http://www.groono.com/images/blank.gif" width="150" height="50"></a></div>
+
+<div class="right">
+<div class="right txtfoof58"><a target="_blank" href="http://advertise.groono.com/">15 Days Free advertising on<br>any Banner or text campaign</a></div>
+<div class="txtVeif58 clr"><a href="#viwDetDiv" class="viwDet">View details</a></div>
+</div>
+</div></div>
+</div>
+
+<!--<script src="http://cdn.wibiya.com/Toolbars/dir_0256/Toolbar_256555/Loader_256555.js" type="text/javascript"></script>-->
+
+
+<div class="none">
+<a href="http://www.alexa.com/siteinfo/"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url="></script></a>
+</div>
+
+
+
+<script type="text/JavaScript">var TFN='';var TFA='';var TFI='0';var TFL='0';var tf_RetServer="rt.trafficfacts.com";var tf_SiteId="2a0665f28ab6aab492f113a08a3cd5a69be8dc39";var tf_ScrServer=document.location.protocol+"//rt.trafficfacts.com/tf.php?k=2a0665f28ab6aab492f113a08a3cd5a69be8dc39;c=s;v=5";document.write(unescape('%3Cscript type="text/JavaScript" src="'+tf_ScrServer+'">%3C/script>'));</script><script type="text/JavaScript" src="https://rt.trafficfacts.com/tf.php?k=2a0665f28ab6aab492f113a08a3cd5a69be8dc39;c=s;v=5"></script><noscript><img src="http://rt.trafficfacts.com/ns.php?k=2a0665f28ab6aab492f113a08a3cd5a69be8dc39" height="1" width="1" alt=""/></noscript>
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9707087-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+                  </body></html>
