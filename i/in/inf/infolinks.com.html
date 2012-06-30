@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the infolinks.com privacy policy that was archived on 2011-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209132238id_/http%3A//www.infolinks.com/infolinks-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infolinks.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630164221id_/http%3A//www.infolinks.com/infolinks-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Infolinks Privacy Policy | INFOLINKS</title>
   
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://publishers.infolinks.com:80/script/login-status.js" type="text/javascript"></script>
-  <link type="text/css" rel="stylesheet" media="all" href="http://www.infolinks.com/sites/default/files/css/css_f001dc27a6fedae199e7142db033c1d5.css">
+  <link type="text/css" rel="stylesheet" media="all" href="http://www.infolinks.com/sites/default/files/css/css_dcd8dc38e9c91f72ce6968a6653bd0b3.css">
     <!--[if lte IE 8]>
     <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/infoline/styles/ie-fix.css" />
     <![endif]-->
         <!--[if lte IE 7]>
     <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/infoline/styles/ie-older-fix.css" />
     <![endif]-->
-  <script type="text/javascript" src="http://www.infolinks.com/sites/default/files/js/js_605f4981665f45e06f457ea37e2b0c01.js"></script>
+  <script type="text/javascript" src="http://www.infolinks.com/sites/default/files/js/js_ee7d9b1f7ac6b74bfefbf080a76d01e7.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","cron":{"basePath":"\/poormanscron","runNext":1323436998}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","cron":{"basePath":"\/poormanscron","runNext":1341075002}});
 //--><!]]>
 </script>
 </head>
@@ -46,7 +46,26 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","cron":{"basePath":"\/poormanscr
   <div id="block-block-35" class="clear-block block block-block block-block-35">
 
 
-  <div class="content"><p><a class="your-status-account" href="http://publishers.infolinks.com:80/reports.html">my account</a><a class="your-status-sign-out" href="http://publishers.infolinks.com:80/logout.html">sign out</a></p></div>
+  <div class="content"><p><a class="your-status-account" href="http://publishers.infolinks.com:80/members/reports">my account</a><a class="your-status-sign-out" href="http://publishers.infolinks.com:80/logout">sign out</a></p>
+<script>
+function logout(obj){
+	if(obj.successful){
+         window.location.reload();
+      }else{
+        alert('There seems to have been a problem logging out.\nPlease contact us for support.');
+      }
+}
+ 
+$(document).ready(function(){
+$(".your-status-sign-out").click(function(){
+var script = document.createElement( 'script' );
+script.type = 'text/javascript';
+script.src = 'http://publishers.infolinks.com:80/logout?jp=logout&xaccept=application/json';
+$('head').append( script );
+  return false;
+});
+});
+</script></div>
 </div>
   <div id="block-block-7" class="clear-block block block-block block-block-7">
 
@@ -67,7 +86,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","cron":{"basePath":"\/poormanscr
   <div id="block-internetdevels-1" class="clear-block block block-internetdevels ">
 
 
-  <div class="content"><form action="http://publishers.infolinks.com:80/login.html" accept-charset="UTF-8" method="post" id="internetdevels-custom-login-form">
+  <div class="content"><form action="http://publishers.infolinks.com:80/login" accept-charset="UTF-8" method="post" id="internetdevels-custom-login-form">
 <div><div class="form-item" id="edit-email-wrapper">
  <label for="edit-email">Email: </label>
  <input type="text" maxlength="128" name="email" id="edit-email" size="60" value="" class="form-text">
@@ -78,7 +97,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","cron":{"basePath":"\/poormanscr
 </div>
 <p>&nbsp;</p><input type="hidden" name="errurl" id="edit-errurl" value="http://www.infolinks.com/login-error">
 <input type="submit" name="op" id="edit-submit" value="Login" class="form-submit">
-<div class="form-forgot"><a href="/password-recovery">Forgot password?</a></div><input type="hidden" name="form_build_id" id="form-01710ff20f863c0b0133469f8e41a8d8" value="form-01710ff20f863c0b0133469f8e41a8d8">
+<div class="form-forgot"><a href="/password-recovery">Forgot password?</a></div><input type="hidden" name="form_build_id" id="form-7e6ea328536e763b6862c22362609113" value="form-7e6ea328536e763b6862c22362609113">
 <input type="hidden" name="form_id" id="edit-internetdevels-custom-login-form" value="internetdevels_custom_login_form">
 
 </div></form>
