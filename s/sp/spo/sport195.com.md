@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204919id_/http%3A//sport195.com/home/site_documents/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232419id_/http%3A//www.sport195.com/home/site_documents/Privacy%2520Policy) for the most accurate reproduction.*
 
-# About Us: All Sports | All Levels| All Coutries|Sport195
+# SPORT195 - About us - People - Investors
 
 Sport195, Inc. (“Sport195” or “we”) operates Sport195.com. This Privacy Policy describes Sport195’s use and sharing of Personal Information identifiable information (“Personal Information”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to Sport195 when they register (also known as “Registration Personal Information”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by Sport195, including any Sport195-branded URL (the “Sport195 Website”), the Sport195 instant messaging service, the Sport195 application developer service and other features (for example the video embedded players), Sport195 mobile services, and any other features, content, or applications offered from time to time by Sport195 in connection with the Sport195 Website (collectively, the “Sport195 Services”). The Sport195 Services are hosted in the United States.
 
