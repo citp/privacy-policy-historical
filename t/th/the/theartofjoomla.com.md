@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartofjoomla.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193812id_/http%3A//www.theartofjoomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartofjoomla.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630182013id_/http%3A//www.theartofjoomla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
