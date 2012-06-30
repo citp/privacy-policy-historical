@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkwheeler.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224635id_/http%3A//www.linkwheeler.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkwheeler.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100912id_/http%3A//www.linkwheeler.com/privacy.php) for the most accurate reproduction.*
 
 # LinkWheeler | Privacy
 
@@ -15,3 +15,5 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 ****Controlling Your Privacy****
 
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+
+Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone.
