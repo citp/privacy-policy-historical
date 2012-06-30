@@ -1,26 +1,9 @@
-> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204338id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112926id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSP Custom Firmware - PSP CFW - PS Vita CFW
 
 **Privacy Policy Statement  
 This is the web site of Pspcustomfirmware **
-
-President  
-Roger Escobar
-
-Vice President  
-Yahaira Velez
-
-Our postal address is
-
-**PSP Custom Firmware  
-Admin: Yahaira Velez  
-35 Fort Washington Ave  
-New York , New York , 10032**
-
-We can be reached via e-mail at info@pspcustomfirmware.com
-
-Or Via Telephone : 917-508-6047
 
 For each visitor to our Web page, our Web server automatically recognizes the  
 consumer’s domain name and e-mail address (where possible).
@@ -116,19 +99,19 @@ Use and handling of content, including video games, to reduce the likelihood of 
 (v) take a 15-minute break during each hour of play; or  
 (vi) avoid playing when you are tired or require sleep.
 
-#### Incoming search terms:
+President  
+Roger Escobar
 
-  * ???????
-  * flash hen cfw
-  * sos psp 3004 למכירה
-  * jpcsp הסבר
-  * פריצה מלאה 6 20 B9
-  * מדריך פריצה מלאה לPSP 6 20 pro b10
-  * sommeil psp
-  * psp 620 cfw nasil atilir
-  * PSP 6 60me 1 7
-  * percentuale batteria psp per aggiornamento firmware
+Vice President  
+Yahaira Velez
 
+Our postal address is
 
+**PSP Custom Firmware  
+Admin: Yahaira Velez  
+35 Fort Washington Ave  
+New York , New York , 10032**
 
-Gravatars are small images that can show your personality. You can get your [**gravatar**](http://gravatar.com/) for free today!
+We can be reached via e-mail at info@pspcustomfirmware.com
+
+Or Via Telephone : 917-508-6047
