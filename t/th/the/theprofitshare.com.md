@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprofitshare.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205147id_/http%3A//www.theprofitshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprofitshare.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630133018id_/http%3A//www.theprofitshare.com/privacy-policy) for the most accurate reproduction.*
 
 # The Profit Share Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We understand that privacy online is important to users of our Site, especially when conducting business.
 
-This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by The Profit Share (collectively, “Services”) (“Authorised Customers”).
+This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by The Profit Share Ltd (collectively, “Services”) (“Authorised Customers”).
 
 ### “Personally Identifiable Information”
 
@@ -32,14 +32,13 @@ Personally Identifiable Information about Authorised Customers may be shared wit
 
 ### How is Personally Identifiable Information stored?
 
-Personally Identifiable Information collected by The Profit Share is securely stored and is not accessible to third parties or employees of The Profit Share except for use as indicated above.
+Personally Identifiable Information collected by The Profit Share Ltd is securely stored and is not accessible to third parties or employees of The Profit Share Ltd except for use as indicated above.
 
 ### What choices are available to Visitors regarding collection, use and distribution of the information?
 
 Visitors and Authorised Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at:
 
-Wayne Lambert  
-The Profit Share  
+The Profit Share Ltd  
 17 Baxter Gardens  
 Spalding  
 Lincolnshire  
@@ -52,11 +51,11 @@ Cookies are used for a variety of reasons. We use Cookies to obtain information 
 
 ### How does The Profit Share use login information?
 
-The Profit Share uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+The Profit Share Ltd uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
 ### What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorised Customers on the Site?
 
-The Profit Share has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.
+The Profit Share Ltd has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.
 
 Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorised Customers for service eligibility.
 
@@ -72,8 +71,8 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 Visitors and Authorised Customers may contact us to update Personally Identifiable Information about them or to correct inaccuracies by emailing us at:
 
-Wayne Lambert  
-The Profit Share  
+info[@]theprofitshare.com  
+The Profit Share Ltd  
 17 Baxter Gardens  
 Spalding  
 Lincolnshire  
@@ -88,6 +87,6 @@ We provide Visitors and Authorised Customers with a mechanism to delete/deactiva
 
 We will let our Visitors and Authorised Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorised Customer has previously requested not be disclosed, we will contact such Visitor or Authorised Customer to allow such Visitor or Authorised Customer to prevent such disclosure.
 
- **Links:**
+**Links:**
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
