@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the blueglobalmedia.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231205618id_/http%3A//www.blueglobalmedia.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blueglobalmedia.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630232048id_/http%3A//www.blueglobalmedia.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+<meta name="bankrate-site-verification" content="CDNGWULA">
 <meta content="Ciplex - http://www.ciplex.com" name="Author">
 <meta content="Global" name="Distribution">
 <meta content="10" name="Revisit">
@@ -28,7 +29,88 @@
 <script type="text/javascript" src="http://www.blueglobalmedia.com/themes/blueglobal/js/jquery.hoverIntent.js"></script>
 
 <script type="text/javascript" src="http://www.blueglobalmedia.com/themes/blueglobal/js/functions.home.jquery.js"></script>
+<script type="text/javascript" src="http://www.blueglobalmedia.com/themes/blueglobal/js/jquery.infieldlabel.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.rel label').inFieldLabels();
+	$('input#input_email').keyup(function() {
+		$('.cc-info').fadeOut(function() {
+		}, function() {
+			$('#row_first_name,#row_last_name').fadeIn();
+		});
+	});
+	
+	$('input').keyup(function() {
+		$(this).removeClass('error');
+	});
+	
+	$('#btn_submit').css({opacity: 0.0 });
+	$('#btn_submit').hover(function() {
+		$(this).animate({ opacity: 1.0 });
+	}, function() {
+		$(this).animate({ opacity: 0.0 });
+	});
 
+	$('#btn_submit').click(function () {
+		var fname = $('input[name=first_name]');
+		var lname = $('input[name=last_name]');
+		var email = $('input[name=email_address]');
+		var lists = $('input#chk_0');
+	
+		if(email.val() == '') {
+			$(email).addClass('error').focus();
+			return false;	
+		}
+		
+		if(fname.val() == '') {
+			$(fname).addClass('error').focus();
+			return false;	
+		}
+		
+		if(lname.val() == '') {
+			$(lname).addClass('error').focus();
+			return false;	
+		}
+       
+		email_regex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;           
+		if(!email_regex.test(email.val())){
+			valid = false;
+			email.addClass('error').focus();
+			return false;
+		} else {
+			email.removeClass('error');
+		}
+
+		var data = 'first_name=' + fname.val() + '&last_name=' + lname.val() + '&email_address=' + email.val() + '&lists[]=' + lists.val();
+		
+		$('.cc-info').fadeOut(500);
+		$('.loading').fadeIn(500);
+		$('#cc-form').fadeOut(500);
+
+		$.ajax({
+			url: "mailing-list/post.php",
+			type: "POST",
+			data: data,
+			cache: false,
+			success: function(html) {
+				if(html==0) {
+					$('.loading').fadeOut(500);
+					$('.cc-info').delay(500).fadeIn(500);
+					$('.cc-info').html('<span class="cc-success">Thanks ' + fname.val() + '!</span>');
+				} else {
+					$('.loading').fadeOut(500);
+					$('.cc-info').delay(500).fadeIn(500);
+					$('.cc-info').html('<span class="cc-error">Please Try Again</span>');
+					$('#cc-form').delay(500).fadeIn(500);
+					$('#cc-trouble').delay(500).fadeIn(500);
+				}
+			}      
+		});
+	
+		return false;
+	});
+});
+</script>
 	<style type="text/css">
 		#become-publisher,
 		#start-advertising { background-image: url(themes/blueglobal/images/sidebar_btn_sprite.png); }
@@ -48,10 +130,11 @@
 	<div class="social-wrap">
         <div class="social-plate">
             <ul>
-                <li id="rss"><a href="http://www.blueglobalmedia.com/blog/feed/" target="_blank"><span>Rss Feed</span></a></li>
+            	<li id="plusone"><a href="https://plus.google.com/104363880086905385708/posts" target="_blank"><span>Google +1</span></a></li>
+                <!--li id="rss"><a href="http://www.blueglobalmedia.com/blog/feed/" target="_blank"><span>Rss Feed</span></a></li-->
                 <li id="linkedin"><a href="http://www.linkedin.com/companies/blue-global-media" target="_blank"><span>LinkedIn</span></a></li>
                 <li id="twitter"><a href="http://twitter.com/BlueGlobalMedia" target="_blank"><span>Twitter</span></a></li>
-				<li id="facebook"><a href="http://www.facebook.com/BlueGlobalMedia/" target="_blank"><span>Facebook</span></a></li>
+				<li id="facebook"><a href="http://www.facebook.com/BlueGlobal" target="_blank"><span>Facebook</span></a></li>
             </ul>
         </div>
     </div>
@@ -60,7 +143,7 @@
 <div id="wrap">
 	<div id="header">
 		
-		<h1 id="logo"><a href="/">Blue Global Media</a></h1>
+		<h2 id="logo"><a href="/">Blue Global Media</a></h2>
 		
 		<div id="top">
 			
@@ -94,6 +177,7 @@
 <div>
 <ul>
 <li class=""><a href="partners.html">Team</a></li>
+<li class="document"><a href="careers.html">BGM Career Opportunities </a></li>
 </ul>
 <span class="bl">&nbsp;</span><span class="bm">&nbsp;</span><span class="br">&nbsp;</span></div>
 </li>
@@ -153,12 +237,12 @@
     </script-->
 		<div id="slideshow-wrap">
 			<div class="slideshow">
-            <a href="http://affiliate.bgmtracker.com/index.php?pgid=2">
-            <img src="http://www.blueglobalmedia.com/uploads/pages_imagesorg/bgm2012_cta.png" alt="Earn More with Blue Global Media - Join today's fastest growing affiliate network" width="914" height="200">
-            </a>
-            	<!--div id="flashbanner">
-                                                                        <a href="/"><img src="http://www.blueglobalmedia.com/uploads/pages_imagesorg/61_0_98_bgmheader.jpg" alt="61_0_98_bgmheader.jpg" width="914" height="200" /></a>
-                                                            </div-->
+            <!-- off a href="http://affiliate.bgmtracker.com/index.php?pgid=2">
+            <img src="http://www.blueglobalmedia.com/uploads/pages_imagesorg/bgm2012_cta.png" alt="Earn More with Blue Global Media - Join today's fastest growing affiliate network" width="914" height="200" />
+            </a  off-->
+            	<div id="flashbanner">
+                                                                        <a href="/"><img src="http://www.blueglobalmedia.com/uploads/pages_imagesorg/61_0_98_bgmheader.jpg" alt="61_0_98_bgmheader.jpg" width="914" height="200"></a>
+                                                            </div>
 			</div>
 		</div>
 					<div id="main">
@@ -195,8 +279,8 @@
 <div class="sideNavTop"></div>
 <a href="http://affiliate.bgmtracker.com/index.php?pgid=2" class="affiliates"> <img src="/uploads/sidebar/affiliates_txt.png" alt="Affiliates. Drive traffic and earn up to $100 per lead as a Blue Global Media affiliate." style="display:none;" border="0">
 <div class="ctaRelShort">
-<div class="ctaBtn">Become An Affiliate</div>
-<div class="ctaRollover">Become An Affiliate</div>
+<div class="ctaBtn">Affiliate Sign Up »</div>
+<div class="ctaRollover">Affiliate Sign Up »</div>
 </div>
 </a>
 <div class="hr">
@@ -204,13 +288,26 @@
 </div>
 <a href="http://affiliate.bgmtracker.com/index.php?pgid=25" class="advertisers"> <img src="/uploads/sidebar/advertisers_txt.png" alt="Advertisers. Discover the most powerful way to reach more customers online." style="display:none;" border="0">
 <div class="ctaRelShort">
-<div class="ctaBtn">Become An Advertiser</div>
-<div class="ctaRollover">Become An Advertiser</div>
+<div class="ctaBtn">Become An Advertiser »</div>
+<div class="ctaRollover">Become An Advertiser »</div>
 </div>
 </a>
 <div class="sideNavBottom"></div>
 </div>
-<!--/ .sideNav --> <!-- SIGN UP FORM --> <!-- END SIGN UP FORM -->
+<!--/ .sideNav --> <!-- SIGN UP FORM --> <form id="signupform" action="http://www.blueglobalmedia.com/mailing-list/post.php" method="post">
+<div id="bgm-sign-up"><img src="/uploads/sidebar/eml_header.jpg" alt="Make more money with inside Affiliate Marketing Tips from Blue Global Media!" border="0">
+<div class="cc-info" style="display:none;"></div>
+<div class="loading" style="display:none;"><img src="/uploads/sidebar/loading-contact.gif" alt="Loading..." border="0"></div>
+<div id="cc-form"><input name="lists[]" value="http://api.constantcontact.com/ws/customers/bgm2012/lists/4" id="chk_0" type="hidden">
+<div id="row_first_name" class="rel emlRow" style="display:none;"><label for="input_first">First name</label> <input id="input_first" class="required" name="first_name" maxlength="50" type="text"></div>
+<div id="row_last_name" class="rel emlRow" style="display:none;"><label for="input_last">Last name</label> <input id="input_last" class="required" name="last_name" maxlength="50" type="text"></div>
+<div class="rel emlRow"><label for="input_email" class="emlTrig">Enter email address</label> <input id="input_email" class="required email emlTrig" name="email_address" maxlength="50" autocomplete="off" type="text">
+<div id="input_submit" class="rel"><input id="btn_submit" name="submit" value="Submit" type="submit"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<a href="http://visitor.r20.constantcontact.com/d.jsp?llr=f9tdk9iab&amp;p=oi&amp;m=1108984581957" id="cc-trouble" target="_blank" style="display:none;"><span>Having trouble signing up?  Try here »</span></a> <!-- / #cc-form --></div>
+<!--/ #bgm-sign-up --> </form> <!-- END SIGN UP FORM -->
 <div class="sideBlog"><a href="/about-us.html" class="sIncRel">
 <div class="sInc500"></div>
 <div class="sInc500Rollover"></div>
@@ -226,17 +323,17 @@
 <div id="side-copy-shadow"></div>
 								<!--/li-->
 																		<!--/ul-->
-							</div>
+				            </div>
             			
 	</div>
-	
-	<div class="round-base"></div>
+		<div class="round-base"></div>
 
 
 	<div id="footer">
-		<p id="copyright">© 2005 - 2011 Blue Global Media <span class="spacer">|</span> <a href="http://www.blueglobalmedia.com/privacy-policy.html">Privacy Policy</a> <span class="spacer">|</span> <a href="http://www.blueglobalmedia.com/careers.html">Careers</a></p>
+		<p id="copyright">© 2005 - 2012 Blue Global Media <span class="spacer">|</span> <a href="http://www.blueglobalmedia.com/privacy-policy.html">Privacy Policy</a> <span class="spacer">|</span> <a href="http://www.blueglobalmedia.com/blog/feed/" target="_blank">RSS</a></p>
 		<p id="credit">Website Design by <a target="_blank" href="http://www.ciplex.com">Ciplex</a></p>					
 	</div>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -292,26 +389,26 @@
 	}
 	
 	function navOut() {
-		$('div.ctaBtn').fadeIn();
+		$(this).find('div.ctaBtn').fadeIn();
 		$(this).find('img').fadeOut(function() {
 			$(this).parent().animate({ height: '51px' }, 500, 'easeOutCubic');
 		});
 	}
 	
 	$('.sideNav a').hoverIntent(sideNav);
-	
+
 	$('.sIncRel').hover(function() {
 		$('.sInc500').fadeToggle(500, 'linear');
 		return false;
 	});
 	
 	$('.faq').hide();
-	$('.trigg:first').addClass('triggCap');
+	//$('.trigg:first').addClass('triggCap');
 	
 	$('.trigg').click(function() {
-		$('.faq').slideUp();
 		var name = $(this).attr('id');
 		
+		$(this).toggleClass('active');
 		$('.' + name).slideToggle();
 	});
 	
@@ -323,7 +420,7 @@
 	
 	$('#slideshow-wrap').css('background-image', 'url("/uploads/pages_imagesorg/bgm2012_cta_overlay.jpg")');
 	
-	$('.slideshow').hover(function() {
+	$('.slideshow a#fader').hover(function() {
 		$('.slideshow img').fadeOut(500);
 	}, function() {
 		$('.slideshow img').fadeIn(500);	
