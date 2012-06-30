@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010133212id_/http%3A//www.office.co.uk/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630052912id_/http%3A//www.office.co.uk/info/privacy.shtml) for the most accurate reproduction.*
 
 # Office Shoes | Privacy Policy
 
@@ -11,10 +11,11 @@ You can access our website homepage and browse our site without disclosing your 
 In this Privacy Policy, we, us and our, refer to O F F I C E Limited, registered in England & Wales. 
 
 Our registered office is:  
-OFFICE Ltd  
-9-10 Great Sutton Street  
-London  
-EC1V 0BX
+Office Holdings LTD  
+Classic House,  
+Martha's Buildings,  
+180 Old Street,  
+London EC1V 9BP
 
 Our company registration number is 1764341  
 Our VAT registration number is 340010335
@@ -65,21 +66,75 @@ From time to time, we may also use your information to contact you for market re
 
 If you change your mind and decide you do not wish to receive the O F F I C E weekly newsletter. You can unsubscribe by clicking on the 'unsubscribe' link at the bottom of any emails you receive from us, or by emailing us at [sales@office.co.uk](mailto:sales@office.co.uk).
 
-## About Cookies and the way we use them
+## About Cookies and how we use them
 
-In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at [www.allaboutcookies.org](http://www.allaboutcookies.org/)) but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We use this information for statistical analysis purposes and then the data is removed from the system.
-
-We use Post-Click Tracking tags to track customer activity following a marketing email linking to office.co.uk. The cookies will allow us to send targeted and relevant marketing emails to those customers opted in. The data collected will only contain email address, transaction quantity and transaction amount.
+Cookies are small pieces of information in the form of text files that are sent to your browser from our web server and are stored on your computer.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-Please note: We do not use cookies to store any of your personal or financial information on your computer.
+There are essentially 3 different types of cookies that we use on [Office.co.uk](https://web.archive.org/)
 
-## Where we store your personal data
+  * **Cookies essential to website operations** \- These cookies allow you to browse the Office website, search for products and add items to your basket.
+  * **Non essential but helpful cookies** \- These cookies help improve your experience on the site by allowing us to make alternative product suggestions based on which products you view.
+  * **Analytics and Marketing cookies** \- Analytical cookies monitor how you use our site and help us identify areas where we can improve the site. Marketing cookies are used when you visit the site via our emails or via other partner sites (affiliates) and give us visibility of how you found our site.
 
-All information that you supply us with is stored on our secured servers. Any payment details will be encrypted using SSL technology to try to prevent unauthorised access.
+
+
+If you wish, you can set up your computer so that it rejects cookies and you will find instructions on how to do this at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note that in doing so, in common with other online shopping sites, you will be unable to purchase from [office.co.uk](https://web.archive.org/). Alternatively, please view our section ‘Managing Cookies’ below.
+
+Full details of the cookies that we use (as of May 2012) are listed below.
+
+Cookies essential to website operations
+
+Non essential, but helpful cookies
+
+Analytics and Marketing
+
+## Managing Cookies
+
+If you don’t have cookies enabled on your computer, your shopping experience on our website will be limited to browsing and researching; you won't be able to add products to your shopping basket and buy from us online.
+
+## To enable cookies
+
+To verify the type and version of web browser you use to access the Internet:
+
+For PCs: click on 'Help' at the top of your browser window and select the 'About' option
+
+For Macs: with the browser window open and active, click on the Apple menu and select the 'About' option
+
+## How to check cookies are enabled for PCs
+
+## Google Chrome
+
+  * Click on 'Tools' at the top of your browser window and select Options
+  * Click the 'Under the Hood' tab, find the 'Privacy' section, and select the 'Content settings' button
+  * Select 'Allow local data to be set'
+
+
+
+## Microsoft Internet Explorer 6.0, 7.0, 8.0
+
+  * Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab 
+  * Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser 
+  * Please note that settings above ‘Medium’ will disable cookies 
+
+
+
+## Mozilla Firefox
+
+  * Click on 'Tools' at the top of your browser window and select Options
+  * Select the Privacy icon
+  * Click on Cookies, then select 'allow sites to set cookies'
+
+
+
+## Safari
+
+  * Click on the Cog icon at the top of your browser window and select the 'Preferences' option
+  * Click on 'Security', select the option that says 'Block third-party and advertising cookies'
+  * Click 'Save'
+
+
 
 ## Security
 
@@ -115,7 +170,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Data Protection Officer, Ecommerce Team, Office, 9-10 Sutton Street, London, EC1V 0BX. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Data Protection Officer, Ecommerce Team, Office Holdings LTD, Classic House, Martha's Buildings, 180 Old Street, London EC1V 9BP. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 ## Contact us
 
