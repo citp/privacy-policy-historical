@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finra.org privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231205630id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finra.org privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630225012id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
    var g_HttpRelativeWebRoot = "/web/";
@@ -113,11 +113,14 @@
 <!--SS_BEGIN_SNIPPET(fragment1,Header)-->				<link rel="stylesheet" type="text/css" href="/web/fragments/fnrw_logo/finra-base.css">
 <link rel="stylesheet" type="text/css" href="/web/fragments/fnrw_logo/finra-nav-em.css">
 <link rel="stylesheet" type="text/css" href="/web/fragments/fnrw_logo/finra-grid.css">
+<link rel="stylesheet" type="text/css" href="/web/fragments/fnrw_assets/css/finra-tables.css">
 <link rel="stylesheet" type="text/css" href="/web/fragments/fnrw_logo/print_grid.css" media="print">
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
- 		
-<script type="text/javascript" src="/web/fragments/fnrw_logo/finra_nav.js"></script>
+<script type="text/javascript" src="/web/fragments/fnrw_assets/init/search.js"></script>
+<script type="text/javascript" src="/web/fragments/fnrw_assets/resize/finra_nav_width.js"></script>
+<script type="text/javascript" src="/web/fragments/fnrw_assets/resize/old/finra_nav_breadcrumb.js"></script>
+<script type="text/javascript" src="/web/fragments/fnrw_assets/resize/old/finra_nav.js"></script>
 			<!--SS_END_SNIPPET(fragment1,Header)-->
 
 <!--SS_BEGIN_SNIPPET(fragment2,Header)-->
@@ -139,11 +142,11 @@
 			<!--SS_END_SNIPPET(fragment9,Header)-->
 
 <!--SS_BEGIN_SNIPPET(fragment13,Header)--><meta name="description" content="FINRA Website Privacy Policy">
-<meta name="keywords" content="FINRA Website Privacy Policy, FINRA, Website, Privacy, Policy">
 
 <link rel="P3Pv1" href="/w3c/p3p.xml"> 
 
 <script type="text/javascript" language="JavaScript">
+<!--
 function linkToPrimary(dDocName,nodeId)
 { var newUrl = ""; newUrl += g_httpCgiUrl; newUrl += "ssDocName=" + dDocName; newUrl += "&nodeId=" + nodeId; var currentUrl = "" + window.location; if( SSContributor )
 { var paramName = "SSContributor="; var pos = currentUrl.indexOf( paramName ); if( pos != -1 )
@@ -173,6 +176,23 @@ function windowLink(url, windowname, w, h)
 { window.open(url,windowname,'location=no,menubar=no,resizable=no,status=no,toolbar=no,width='+w+',height='+h+',scrollbars=no');}
 function exitLink(theurl)
 { window.open("http://apps.finra.org/exitpage/1/exitpage.aspx?url="+theurl);}
+function popMovie(pMP4,pThumb,pWidth,pHeight,pWebm,pOgv){
+if (arguments.length == 3) {pWidth = pThumb; pHeight = pWidth; pThumb = null;}
+pMP4 = pMP4.toUpperCase();
+var cWidth = (pWidth==null||pWidth==0)?795:pWidth;
+var cHeight = (pHeight==null||pHeight==0)?515:pHeight;
+var popup;
+var windowParams = "/Videos/"+pMP4;
+if (arguments.length != 1) {
+	var videoParams = "?img="+pThumb+"&mp4="+pMP4+"&webm="+pWebm+"&ogv="+pOgv;
+	windowParams = windowParams + videoParams + "&";
+}
+else { windowParams = windowParams + "?"; }
+windowParams = windowParams + "w="+cWidth+"&h="+cHeight;
+popup = window.open(windowParams, "popup", "width="+(cWidth)+", height="+(cHeight)+", scrollbars=no, resizable=no, location=no, toolbar=no, status=no, titlebar=no");
+popup.resizeTo((cWidth+10), (cHeight+25));
+}
+-->
 </script>
 
 <!-- Google Analytics Tags -->
@@ -202,11 +222,12 @@ _gaq.push(['_trackPageview']);
   <div id="finra-980">
     <div id="finra-960">
       
-<!--SS_BEGIN_SNIPPET(fragment1,HTML)-->				<div id="finra-header" class="finra">
+<!--SS_BEGIN_SNIPPET(fragment1,HTML)-->				<div id="finra-header" class="finra cf">
 	<div id="finra-topnav"> 
 	<div id="fn-logo-print"><img src="/web/groups/corporate/@corp/documents/web_asset/p075334.gif"></div>
 	<div id="fn-logo"><a href="/" class="altlogo"><span></span></a></div>
-	<div id="fn-logo-alttext"><span class="altlogo">FINRA Logo.</span><div class="ie6navbar"></div></div>
+    <div id="fn-logo-alttext"><span class="altlogo">FINRA Logo.</span><div class="ie6navbar"></div></div>
+ 
 			<!--SS_END_SNIPPET(fragment1,HTML)-->
 
 <!--SS_BEGIN_SNIPPET(fragment2,HTML)-->				    <div id="fn-topnavdiv">
@@ -240,8 +261,7 @@ _gaq.push(['_trackPageview']);
 
 <!--SS_BEGIN_SNIPPET(fragment5,HTML)-->				<div id="finra-banner">
 	    	<div id="finra-primary-nav" class="color-1" onselectstart="event.returnValue=false;"><div id="transparent-bar-left" class="color-2"></div>
-    			<ul class="finra-nav-primary">
-       	    	
+    		<ul class="finra-nav-primary">
       		</ul>
       		<div id="transparent-bar-right" class="color-2"></div>
     	</div>
@@ -264,63 +284,7 @@ _gaq.push(['_trackPageview']);
 
 <!--SS_END_OPENREGIONMARKER(region1)-->
 	<!--SS_BEGIN_ELEMENT(region1_element1)--><!--SS_END_ELEMENT(region1_element1)--><!--SS_BEGIN_ELEMENT(region1_element2)--><!--SS_END_ELEMENT(region1_element2)-->
-            <h1><!--SS_BEGIN_ELEMENT(region1_element3)-->FINRA Website Privacy Policy<!--SS_END_ELEMENT(region1_element3)--></h1><!--SS_BEGIN_ELEMENT(region1_element4)--><p>FINRA has created this security and privacy statement in order to demonstrate and communicate its commitment to the privacy of the users of FINRA's websites and to conducting business with the highest ethical standards and appropriate internal controls. The following discloses FINRA's information gathering and dissemination policies for the FINRA website:</p>
-
-<p>&nbsp;</p>
-
-<h2>Collection and Dissemination of Personal Information</h2>
-
-<p>FINRA uses standard web analytics tools to gather site usage information for the purpose of improving user experience. As part of this web analytics activity, FINRA may place cookies on users’ computers. FINRA may also place cookies on users’ computers to enable certain site features; users who block cookies may not be able to take advantage of all site functionality. Additionally, for specific sites or applications, FINRA may use web analytics to track usage to confirm compliance with the terms of use of those sites or applications.</p>
-
-<p>&nbsp;</p>
-
-<p>FINRA's websites may receive and maintain information such as user name, email address, telephone number and other personal information only when such information is personally submitted by users through an optional request form such as the request for more information form or the FINRA survey form. These forms and the information provided within the forms allow users to make specific inquiries or requests of FINRA or provide FINRA with feedback on its Web sites or services. Information gathered via this site is not shared with third parties unless the involved individual requests such sharing or unless disclosure is required by law. FINRA does not sell personal information to third parties for commercial purposes.</p>
-
-<p>&nbsp;</p>
-
-<p>FINRA reserves the right to disclose user information in special circumstances, where FINRA believes that the disclosure of such information is necessary to identify or contact someone who may be interfering with or violating FINRA's rights or property or other users or to protect or enforce FINRA's rights or obligations. FINRA may also disclose user information when such disclosure is required by law or regulation.</p>
-
-<p>&nbsp;</p>
-
-<h2>Third Party Links</h2>
-
-<p>FINRA websites may contain links to other sites, some of which are not owned by FINRA. FINRA is not responsible for the security or privacy practices of non-FINRA sites, the products or services offered by such sites, or the content appearing at such sites. Likewise, FINRA does not endorse any of the products or services marketed at non-FINRA sites.</p>
-
-<p>&nbsp;</p>
-
-<p>FINRA prohibits the framing of any materials available through the FINRA websites and unauthorized hypertext links to FINRA's websites. FINRA reserves the right to disconnect or otherwise disable any unauthorized frames or hypertext links.</p>
-
-<p>&nbsp;</p>
-
-<h2>Regulatory Policy</h2>
-
-<p>Certain FINRA websites, such as Web CRD/IARD E-Pay, require an authorized user (FINRA Members or FINRA Member Firms) to input personal information in order to fulfill a regulatory requirement. FINRA shall use such information consistent with its regulatory mission and its role as a member association. Such personal information may be made public or shared with third parties, consistent with FINRA's role as a self-regulatory organization.</p>
-
-<p>&nbsp;</p>
-
-<h2>Information Security</h2>
-
-<p>FINRA websites are protected with a variety of security measures such as change control procedures, passwords, and physical access controls. FINRA also employs a variety of other mechanisms to protect a user's data from being lost, misused, or altered inappropriately. These controls include data confidentiality policies and regular database backups. Although FINRA takes these measures to safeguard against unauthorized use of a user's data, FINRA cannot control Internet transmissions and cannot provide assurances that personal information transmitted to FINRA will never be compromised.</p>
-
-<p>&nbsp;</p>
-
-<h2>Policy Changes</h2>
-
-<p>FINRA reserves the right to modify or update this Privacy Policy or other terms and conditions of use of the FINRA websites at any time by updating the relevant link. Any modifications or updates shall be effective upon posting to the FINRA website(s).</p>
-
-<p>&nbsp;</p>
-
-<h2>Contact Information</h2>
-
-<p>FINRA<br>
-Attn: Privacy Policy - OGC<br>
-1735 K Street<br>
-Washington, D.C. 20006<br>
-<!--Email: <a href="javascript:email(145,'Privacy Policy');">Privacy Policy</a></p>--></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p><!--SS_END_ELEMENT(region1_element4)-->
+            <h1><!--SS_BEGIN_ELEMENT(region1_element3)-->FINRA Website Privacy Policy<!--SS_END_ELEMENT(region1_element3)--></h1><!--SS_BEGIN_ELEMENT(region1_element4)--><p>FINRA has created this security and privacy statement in order to demonstrate and communicate its commitment to the privacy of the users of FINRA's websites and to conducting business with the highest ethical standards and appropriate internal controls. The following discloses FINRA's information gathering and dissemination policies for the FINRA website:</p> <p>&nbsp;</p> <h2>Collection and Dissemination of Personal Information</h2> <p>FINRA uses a third party web analytics service to gather site usage information for the purpose of improving user experience. As part of this web analytics activity, FINRA places cookies on users' computers. Additionally, for specific sites or applications, FINRA may use web analytics to confirm compliance with the terms of use of those sites or applications. FINRA and its vendors may also place cookies on users' computers to enable certain site features such as the Market Data Watchlist, Fund Analyzer Favorites and BrokerCheck searches. Users who opt out of cookies by changing the setting of their browsers will not be able to take advantage of these and other site features.</p> <p>&nbsp;</p> <p>FINRA's websites may receive and maintain information such as user name, email address, telephone number and other personal information only when such information is personally submitted by users through an optional request form such as the request for more information form or the FINRA survey form. These forms and the information provided within the forms allow users to make specific inquiries or requests of FINRA or provide FINRA with feedback on its Web sites or services. Information gathered via this site is not shared with third parties unless the involved individual requests such sharing or unless disclosure is required by law. FINRA does not sell personal information to third parties for commercial purposes.</p> <p>&nbsp;</p> <p>FINRA reserves the right to disclose user information in special circumstances, where FINRA believes that the disclosure of such information is necessary to identify or contact someone who may be interfering with or violating FINRA's rights or property or other users or to protect or enforce FINRA's rights or obligations. FINRA may also disclose user information when such disclosure is required by law or regulation.</p> <p>&nbsp;</p> <h2>Third Party Links</h2> <p>FINRA websites may contain links to other sites, some of which are not owned by FINRA. FINRA is not responsible for the security or privacy practices of non-FINRA sites, the products or services offered by such sites, or the content appearing at such sites. Likewise, FINRA does not endorse any of the products or services marketed at non-FINRA sites.</p> <p>&nbsp;</p> <p>FINRA prohibits the framing of any materials available through the FINRA websites and unauthorized hypertext links to FINRA's websites. FINRA reserves the right to disconnect or otherwise disable any unauthorized frames or hypertext links.</p> <p>&nbsp;</p> <h2>Regulatory Policy</h2> <p>Certain FINRA websites, such as Web CRD/IARD E-Pay, require an authorized user (FINRA Members or FINRA Member Firms) to input personal information in order to fulfill a regulatory requirement. FINRA shall use such information consistent with its regulatory mission and its role as a member association. Such personal information may be made public or shared with third parties, consistent with FINRA's role as a self-regulatory organization.</p> <p>&nbsp;</p> <h2>Information Security</h2> <p>FINRA websites are protected with a variety of security measures such as change control procedures, passwords, and physical access controls. FINRA also employs a variety of other mechanisms to protect a user's data from being lost, misused, or altered inappropriately. These controls include data confidentiality policies and regular database backups. Although FINRA takes these measures to safeguard against unauthorized use of a user's data, FINRA cannot control Internet transmissions and cannot provide assurances that personal information transmitted to FINRA will never be compromised.</p> <p>&nbsp;</p> <h2>Policy Changes</h2> <p>FINRA reserves the right to modify or update this Privacy Policy or other terms and conditions of use of the FINRA websites at any time by updating the relevant link. Any modifications or updates shall be effective upon posting to the FINRA website(s).</p> <p>&nbsp;</p> <h2>Contact Information</h2> <p>FINRA<br> Attn: Privacy Policy - OGC<br> 1735 K Street<br> Washington, D.C. 20006<br> <!--Email: <a href="javascript:email(145,'Privacy Policy');">Privacy Policy</a></p>--></p> <p>&nbsp;</p> <p>This Privacy Policy was last updated in June 2012.</p> <p>&nbsp;</p><!--SS_END_ELEMENT(region1_element4)-->
 <!--SS_BEGIN_CLOSEREGIONMARKER(region1)--><!--SS_END_CLOSEREGIONMARKER(region1)-->
 
           </div>
@@ -342,7 +306,7 @@ Washington, D.C. 20006<br>
           <div id="col4cont"></div>
         </div>
       </div>
-<!--SS_BEGIN_SNIPPET(fragment9,HTML)-->          <div id="finra-footer">
+<!--SS_BEGIN_SNIPPET(fragment9,HTML)-->          <div id="finra-footer" class="cf">
             <ul class="finra-footer-nav">
                <li class="fn-footernav">
                 <a href="/Sitemap/">Sitemap</a>
@@ -354,10 +318,10 @@ Washington, D.C. 20006<br>
                 <a href="/Legal/">Legal</a>
               </li>
             </ul>
-               <div class="finra-footer-disclaimer"><p>©2011 FINRA. All rights reserved. FINRA is a registered trademark of the Financial Industry Regulatory Authority, Inc.</p></div>
+               <div class="finra-footer-disclaimer"><p>©2012 FINRA. All rights reserved. FINRA is a registered trademark of the Financial Industry Regulatory Authority, Inc.</p></div>
           </div>
           <div id="finra-print-footer">     
-               <div class="finra-footer-disclaimer"><p>©2011 FINRA. All rights reserved. FINRA is a registered trademark of the Financial Industry Regulatory Authority, Inc.</p></div>
+               <div class="finra-footer-disclaimer"><p>©2012 FINRA. All rights reserved. FINRA is a registered trademark of the Financial Industry Regulatory Authority, Inc.</p></div>
           </div>
 			<!--SS_END_SNIPPET(fragment9,HTML)-->
 
