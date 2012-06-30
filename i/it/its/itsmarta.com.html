@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itsmarta.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231211551id_/http%3A//www.itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itsmarta.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630110242id_/http%3A//www.itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>MARTA - Metropolitan Atlanta Rapid Transit Authority</title>
@@ -14,7 +14,7 @@
 		
 <link rel="stylesheet" href="../BOD_images/engine/css/visuallightbox.css" type="text/css" media="screen">
 <script src="../BOD_images/engine/js/jquery.min.js" type="text/javascript"></script>
-<script src="CalendarControl1.js" language="javascript" type="text/javascript"></script></head><body style="background-image:url(images/sitebackground/day.jpg);" onload="writeTimeDate();"><iframe id="CalendarControlIFrame" src="javascript:false;" frameborder="0" scrolling="no"></iframe><div id="CalendarControl"></div>
+<script src="CalendarControl1.js" language="javascript" type="text/javascript"></script></head><body style="background-image:url(images/sitebackground/sunset_back2.jpg);" onload="writeTimeDate();"><iframe id="CalendarControlIFrame" src="javascript:false;" frameborder="0" scrolling="no"></iframe><div id="CalendarControl"></div>
 <link href="trip_planner.css" rel="stylesheet" type="text/css"> 
 <link href="Workarea/csslib/search.css" rel="stylesheet" type="text/css">
 <link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon">
@@ -325,14 +325,14 @@ function SetContent22(tree)
         var ra = 0
         for (var i = 0; i < nodes; i++) 
         {
-            if(tree.childNodes[i].nodeName == 'bus')
+            if(tree.childNodes[i].nodeName == 'BUS')
             {
-                tickercontent22[ba]="<a href='alerts.aspx?id=" + tree.childNodes[i].getAttribute('id') + "&type=bus'>" + tree.childNodes[i].getAttribute('title') +"</a>";
+                tickercontent22[ba]="<a href='alerts.aspx?id=" + tree.childNodes[i].getAttribute('id') + "&type=BUS'>" + tree.childNodes[i].getAttribute('title') +"</a>";
                 ba = ba + 1;
             }
             else
             {
-                tickercontent2[ra]="<a href='alerts.aspx?id=" + tree.childNodes[i].getAttribute('id') + "&type=rail'>" + tree.childNodes[i].getAttribute('title') +"</a>";
+                tickercontent2[ra]="<a href='alerts.aspx?id=" + tree.childNodes[i].getAttribute('id') + "&type=RAIL'>" + tree.childNodes[i].getAttribute('title') +"</a>";
                 ra = ra + 1;
             }
         }
@@ -356,7 +356,7 @@ function verify22()
 
 function writeList22()
 {
-  var labels = xmlDoc1.getElementsByTagName('bus');
+  var labels = xmlDoc1.getElementsByTagName('BUS');
   var ol = document.createElement('OL');
 
   for (i=0; i < labels.length; i++)
@@ -371,12 +371,12 @@ function writeList22()
     }
     var labelId = document.createTextNode('(' +
       labels[i].getAttribute('id') + ')');
-      tickercontent22[i]="<a href='alerts.aspx?id=" + labels[i].getAttribute('id') +"&type=bus'>" + labels[i].getAttribute('title') +"</a>";
+      tickercontent22[i]="<a href='alerts.aspx?id=" + labels[i].getAttribute('id') +"&type=BUS'>" + labels[i].getAttribute('title') +"</a>";
     li.appendChild(labelId);
     ol.appendChild(li);
   }
     
-  var labels1 = xmlDoc1.getElementsByTagName('rail');
+  var labels1 = xmlDoc1.getElementsByTagName('RAIL');
   var ol1 = document.createElement('OL');
 
   for (i=0; i < labels1.length; i++)
@@ -391,7 +391,7 @@ function writeList22()
     }
     var labelId1 = document.createTextNode('(' +
       labels1[i].getAttribute('id') + ')');
-      tickercontent2[i]="<a href='alerts.aspx?id=" + labels1[i].getAttribute('id') +"&type=rail'>" + labels1[i].getAttribute('title') +"</a>";
+      tickercontent2[i]="<a href='alerts.aspx?id=" + labels1[i].getAttribute('id') +"&type=RAIL'>" + labels1[i].getAttribute('title') +"</a>";
     li1.appendChild(labelId1);
     ol1.appendChild(li1);
   }
@@ -440,7 +440,7 @@ pageTracker._trackPageview();
 
 <br>
 <form name="aspnetForm" method="post" action="tplGeneral.aspx?id=3429" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAgIBD2QWBGYPFgIeBGhyZWYFIHRleHR2ZXIvcHJpdmFjeS1kaXNjbGFpbWVycy5hc3B4ZAIBD2QWBAIBDw8WCh4ISW1hZ2VVcmwFFGNjaWNvbnMvMzJ4MzEvMzQucG5nHgVXaWR0aBsAAAAAAABAQAEAAAAeBkhlaWdodBsAAAAAAAA/QAEAAAAeDUFsdGVybmF0ZVRleHQFBEZhaXIeBF8hU0ICgANkZAIDDw8WBh4EVGV4dAUINjMmZGVnO0YeCENzc0NsYXNzBQR0ZW1wHwUCAmRkZGn8IBDxQ7PKYhveQQuvKDu2fljr">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAgIBD2QWAmYPFgIeBGhyZWYFIHRleHR2ZXIvcHJpdmFjeS1kaXNjbGFpbWVycy5hc3B4ZGQB8gSNCmKMVfnvKnMaeKvTTa2D7A==">
 
 <link rel="stylesheet" type="text/css" href="/WorkArea/csslib/global.css">
 
@@ -466,16 +466,7 @@ pageTracker._trackPageview();
 					   <td><div align="center"><a href="http://www.youtube.com/user/itsmartanews?feature=mhum">
 				       <img src="images/social-icons/youTube-new.jpg" alt="Click here to access our YouTube page" border="0"></a></div></td>
 					   
-					   <td>
-
-    <table cellpadding="0" cellspacing="0" width="100" border="0">
-        <tbody><tr>
-            <td align="right"><img id="ctl00_weathercontrol_ccImg" src="control/ccicons/32x31/34.png" alt="Fair" height="31" width="32" border="0"></td>
-            <td align="left" style="font-weight:bold;font-size:10px;"><span id="ctl00_weathercontrol_ccCurT" class="temp">63°F</span></td>
-        </tr> 
-    </tbody></table>
-
-</td>
+					   
 				   </tr>
 			   </tbody></table>
 			   
