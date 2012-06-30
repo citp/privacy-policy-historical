@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfmedicine.net privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220145327id_/http%3A//www.dfmedicine.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfmedicine.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630051305id_/http%3A//www.dfmedicine.net/policy.html) for the most accurate reproduction.*
 
 # DFMedicine
 
@@ -89,24 +89,6 @@ This Privacy Policy and our Terms of Use , both as posted on our Sites and throu
 
 [3rd Chakra](http://www.chakra-colors.com/Solar-Plexus-Chakra/) The Solar Plexus Chakra is located and inch or two above the navel. This Chakra is the focus point for our power and will. Our sense of power, ego and authority, as well as self-control and discipline are centered here.
 
-[Compare Bariatric Surgery](http://www.comparebariatricsurgery.co.uk/) Obesity levels have been creeping up over the last 10 years in the UK. Compare Bariatric Surgery is the UK's leading price comparison and information website for weight loss surgery. Find information about gastric band surgery as well as Incision free weight loss surgeries.
-
-[Laser Treatment](http://www.mapperleypark.co.uk/) The Mapperley Park Clinic was established in 1993 and is the region's leading cosmetic clinic providing a complete range of skin-health solutions. Whether it is laser treatment, injectable treatments for fine lines and wrinkles, plastic surgery or just the confidence to make the decision to do nothing at all - we are here to help.
-
-[Chiropractor Killeen](http://myhhchiro.com/) Chiropractic Killeen, Fort Hood, Harker Heights. Decompression Chiropractor in Texas (TX)
-
-[Pharmacovigilance](http://www.qsi.in/) Quantum Solutions India provides Pharmacovigilance Services, Drug Safety, PreClinical Research, Contract Research,Clinical Research, Pharmaceutical CRO and Medical Writing services to Pharma Companies across UK, Canada, USA, Asia and Europe. QSI is a Pharmacovigilance, Drug Safety Contract Research Organization (CRO) who works as Clinical Research Associates with Pharmaceutical Organizations. Visit QSI.in
-
-Sep11
-
-[Workout Programs](http://www.healthclubtv.com/) HealthClubTV lets you take the gym with you, providing you with instant, easy access to all your essential workouts, anytime, anywhere. Simply download the videos direct to your mobile or laptop and you are ready to go today.
-
-[Acne Scar Treatment](http://www.whitelotusantiaging.co.uk/) From a Derma Roller to Cellulite Treatment, White Lotus Anti-Aging has it all Acne Scar Treatment, Stretch Mark Treatment and a variety of Natural Anti-Aging products .
-
-Nov11
-
-[Mesothelioma Prognosis](http://www.mesotheliomaprognosis.net/) \- The mesothelioma association provides the latest information on treatments, doctors, and cancer centers for those afflicted by asbestos related diseases.
-
 Dec11
 
 [Prognosis Mesothelioma](http://www.mesotheliomaprognosis.net/) Provides cutting edge information for individuals who have received a mesothelioma prognosis, including a list of the latest clinical trials.
@@ -125,4 +107,28 @@ Dec11
 
 [ Vision Problem ](http://www.ehelps.org/) Buy high quality herbal supplements to cure sleep & vision problem, stomach pain, OPC, body cleansing, immune system & digestive problems, cure diabetes and anti aging products at ehelp.org.
 
-[used microscope](http://www.biosurplus.com/) | [San Diego Plastic Surgeon](http://www.bolithomd.com/) | [Dental care Toronto](http://www.ehealthcare.ca/) | [Medical laser equipment](http://www.lifelinemed.net/) | [Dependent eligibility audits](http://www.claimtechnologies.com/WhitePapers/dependent-eligibility.html) | [dallas cosmetic dentures](http://www.garysolomondds.com/) | [Naturopathy Clinics Toronto](http://www.ehealthcare.ca/) | Oct | [Lasik Braverman Eye Center](http://www.bravermaneyecenter.com/lasik.asp) | [E Cigarette](http://www.smokefree.in/) | [expressnaturals.com Vitalzym](http://www.expressnaturals.com/) | [Long Island Eye Doctor](http://www.optixeyecare.com/) | [cranberry pa chiropractor ](http://www.gricechiropractic.com/) | Nov11 | [herniated disc](http://www.deukspine.com/pages/herniated-disc) | [Allergy Specialist Chandgiarh](http://www.setallergy.com/) | [Invisible Braces London](http://www.smilebeautiful.co.uk/services/invisalign-invisible-orthodontics) | dec11 | [Dental Supply](http://www.hsdentalsupply.com/About-Us.htm)
+[Mesothelioma](http://www.mesothelioma.as/) : The mesothelioma association provides the latest information on treatments, doctors, and cancer centers for those afflicted by asbestos related diseases.
+
+[Headlight](http://www.loupedirect.com/led-dental-surgical-headlight.html): Find the great deals on Headlight, Dental Headlight, Surgical Headlight, Medical Headlight, Led Headlight and many more.
+
+[Eyewear Repair](http://www.trendtogo.com/blog/eyewear-prescriptions-repairs/eyewear-repair/): With the most advanced lab we'll guarantee that you'll be happy with our eyewear repair service. If we cant repair your glasses or sunglasses now one can.
+
+[more active for life](http://www.sexyslimmers.com/more-active-for-life.html) You need to arrange your schedule so that you take your dinner at least 2-3 hours before going to bed.
+
+[chic maternity clothes](http://www.seraphine.co/) Is So Comfortable You'll Want To Wear It After Pregnancy.
+
+[Alternative Medicine Speaker](http://www.vishwaprakash.com/) Vishwa Prakash is a professional alternative medicine speaker specializes in public speaking on spirituality, inspirational & motivational quotes and have often gained nationwide fame.
+
+[Infertility Treatment Delhi](http://www.ridgeivf.com/) Ridge IVF - Best Infertility Clinic in Delhi.RidgeIVF is a leading practise of Infertility Treatment specialist in India.
+
+[Skin Specialist Delhi](http://www.skinspecialistindelhi.com/) Dr Rohit Batra is a Skin Specialist Delhi, India. DermaWorld is a dermatology clinic offering cosmetic skin rejuvenating treatments, wrinkle cures, laser skin treatments, botox treatments, hair removal and mole removal in Delhi, India.
+
+[Liposuction in India](http://www.vaserindia.com/) Dr Gupta is a well experienced liposuction surgeon in the field of Vaser liposuction in India. He has the largest experience of Vaser Liposuction Surgery in North India
+
+[phentramin-d reviews](http://www.phentramin-d.us/phentramin-d-reviews.html) Phentramin-d reviewed at phentramin-d.us. Learn why Phentramin-d is the best non-prescription diet pill that you can buy online.
+
+March2012
+
+[first aid training](http://www.adamssafety.com/) Adams Safety Training provides First Aid training and cpr classes to the entire San Francisco Bay Area including San Francisco, Oakland, San Jose, Walnut Creek, Concord, Fremont, Hayward, Berkeley, Emerville, Pleasanton, Livermore, San Ramon and surrounding communities.
+
+Ap 
