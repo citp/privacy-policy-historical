@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocacolazero.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231004125id_/http%3A//www.thecoca-colacompany.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocacolazero.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630080515id_/http%3A//www.thecoca-colacompany.com/privacy.html) for the most accurate reproduction.*
 
 # Coca-Cola - Privacy Policy
 
