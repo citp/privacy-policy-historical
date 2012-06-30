@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldtvpc.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203133345id_/http%3A//www.worldtvpc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtvpc.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630093218id_/http%3A//www.worldtvpc.com/privacy.php) for the most accurate reproduction.*
 
 # Free tv, Internet TV Online, watch World TV on your PC, totally free satellite worldwide internet pc tv portal movies scifi cartoons adult news HDTV PCTV and many more channels
 
-By using this website, you agree to the Privacy Policy of worldtvpc.com. If you do not agree to the Policy, please do not use this site. We review our privacy policy periodically and reserves the right, at our discretion, to modify or remove portions of this policy. Please view this page periodically so that you are updated on any changes made. If you want to contact us regarding our policy, contact us at [sales@sksservices.co.uk](mailto:sales@sksservices.co.uk)
+By using this website, you agree to the Privacy Policy of worldtvpc.com. If you do not agree to the Policy, please do not use this site. We review our privacy policy periodically and reserves the right, at our discretion, to modify or remove portions of this policy. Please view this page periodically so that you are updated on any changes made. If you want to contact us regarding our policy, contact us at [sales@worldtvpc.com](mailto:sales@worldtvpc.com)[](mailto:sales@sksservices.co.uk)
 
 worldtvpc.com is an independent guide to streaming media available on the web. We do not provide streaming content ourselves. This site is designed to enable users of personal computers and other consumer electronic devices to easily find and access media content over the Internet.   
 If you make use of this site you agree to respect the rights of the content owners. If not you should leave this site. All links to external sites are opened in a new window.   
@@ -14,7 +14,7 @@ We make every effort to preserve user privacy, however we may need to disclose p
 
 ### Information Collection and Use
 
-worldtvpc.com is operated from the UK. We can be reached by e-mail at [ sales@sksservices.co.uk](mailto:sales@sksservices.co.uk)
+worldtvpc.com is operated from the UK. We can be reached by e-mail at [sales@worldtvpc.com](mailto:sales@worldtvpc.com)[](mailto:sales@sksservices.co.uk)
 
 We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. InformIT.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
 
@@ -46,11 +46,11 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 
 
-Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/), or NAI, which suggests the following language for data collection of non-personally identifying information:
+Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative, or NAI, which suggests the following language for data collection of non-personally identifying information:
 
 > We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here.
 
-You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
+You can find additional information in Appendix A of the NAI Self-Regulatory principles for publishers (PDF). Please note that the NAI may change this sample language at any time.
 
 ### Advertising
 
@@ -88,17 +88,17 @@ From time-to-time our site requests information from users via surveys or contes
 
 ### E-mail A Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. InformIT.com will automatically send the friend a one-time e-mail inviting them to visit the site. InformIT.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact worldtvpc.com at **[sales@sksservices.co.uk](mailto:sales@sksservices.co.uk)** to request the removal of this information from their database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. InformIT.com will automatically send the friend a one-time e-mail inviting them to visit the site. InformIT.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact worldtvpc.com at **[sales@worldtvpc.com](mailto:sales@worldtvpc.com)[](mailto:sales@sksservices.co.uk)** to request the removal of this information from their database.
 
 ### Security
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about the security at our web site, you can send an e-mail to **[sales@sksservices.co.uk](mailto:comments@informit.com)**.
+If you have any questions about the security at our web site, you can send an e-mail to [sales@worldtvpc.com](mailto:sales@worldtvpc.com)
 
 ### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your e-mail address), or if a user no longer desires our service, we provide a way to correct, update or remove that user's personal data provided to us. This can be done by e-mailing our Customer Support at **[sales@sksservices.co.uk](mailto:comments@informit.com)**.
+If a user's personally identifiable information changes (such as your e-mail address), or if a user no longer desires our service, we provide a way to correct, update or remove that user's personal data provided to us. This can be done by e-mailing our Customer Support at **[sales@worldtvpc.com](mailto:sales@worldtvpc.com)[](mailto:comments@informit.com)**.
 
 ### Choice/Opt-out
 
