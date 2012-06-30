@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101080344id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234945id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
 
 # Live Link Cafe - Free Exchange Link Network | Add My URL
 
@@ -12,7 +12,7 @@
   
 ---|---  
   
-Members: [ **10192** ]  
+Members: [ **1544** ]  
   
 * * *  
   
@@ -57,4 +57,4 @@ If at any time you wish to close your account you may email your request to [](m
 ---  
   
   
-[](http://bizoppers.com/?r=309608)
+[](http://activesafelist.com/bizoppers.htm)
