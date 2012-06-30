@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124809id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111154id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - internships.com
 
-**(as of September 30, 2011)**
+**(as of May 9, 2012)**
 
 1)    **Introduction**  
 
-a)        CareerArc Group LLC, with offices at 3400 W. Olive Avenue, Suite 220, Burbank, CA 91505 (referred to as, “CareerArc”, “we”, “us”, “our”) provides the [www.internships.com](http://www.internships.com/), [www.tweetmyjobs.com](http://www.tweetmyjobs.com/), [www.whodoyouknowapp.com](http://www.whodoyouknowapp.com/), [www.careersearch.net](http://www.careersearch.net/),  [www.searchexpo.net](http://www.searchexpo.net/), [www.careerbeam.com](http://www.careerbeam.com/), [www.careerarcgroup.com](http://www.careerarcgroup.com/), and other CareerArc websites (collectively, the “Site”).  The Site includes a variety of services, online and mobile applications, downloadable software, products and features, including, but not limited to, internships, tweetmyjobs, _who do you know?_ , careersearch, searchexpo, and careerbeam services, all available on various mediums or devices now known or hereafter developed  (collectively, the “Services”). 
+a)        CareerArc Group LLC, with offices at 2600 W. Olive Avenue, Suite 710, Burbank, CA 91505 (referred to as, “CareerArc”, “we”, “us”, “our”) provides the [www.internships.com](http://www.internships.com/), [www.tweetmyjobs.com](http://www.tweetmyjobs.com/), [www.thewhobutton.com](http://www.whodoyouknowapp.com/), [www.careersearch.net](http://www.careersearch.net/),  [www.searchexpo.net](http://www.searchexpo.net/), [www.careerbeam.com](http://www.careerbeam.com/), [www.careerarcgroup.com](http://www.careerarcgroup.com/), and other CareerArc websites (collectively, the “Site”).  The Site includes a variety of services, online and mobile applications, downloadable software, products and features, including, but not limited to, internships, tweetmyjobs, _the who? button_ , careersearch, searchexpo, and careerbeam services, all available on various mediums or devices now known or hereafter developed  (collectively, the “Services”). 
 
 b)        This Privacy Policy applies to the Site and informs you (also referred to as “your” or “User”) what information is collected and used on the Site and through use of the Services.  If you are a subscriber to one or more of the Services, you may additionally be required to execute a separate written contract which incorporates this Privacy Policy by reference.      
 
@@ -82,7 +82,7 @@ d)        Do not provide any non-work related personal information (i.e. eye
 
 6)    **Opt-In/Opt-Out Policy** ** **
 
-a)        When you complete your profile to register on the Site or to use the Services, you will be presented with a series of choices regarding whether you want to receive certain types of communications from us or our business partners and advertisers.  If you do not wish to receive any or all of such communications, you may opt-out by responding “no” or clicking the appropriate box to opt-out.  By opting in to receive any and/or all communications, you are granting permission to allow CareerArc, its business partners and advertisers to send the selected communications.  We reserve the right to send you communications regarding the Site or the Services, or to advise you of Site or Service changes or other events or occurrences which may affect your access to or use of the Site or Services (such as service announcements, administrative notices and the like) without offering you the opportunity to opt out of them.  If after opting-in to our Networks or receiving communications from us or our business partners, you wish to opt-out of participation in the Network or from receiving future communications, you may do so at any time.  To do so, simply log in to your applicable Network account, go to your profile, and you will find options for editing your opt-in preferences.
+a)        When you complete your profile to register on the Site or to use the Services, you will be presented with a series of choices regarding whether you want to receive certain types of communications directly from us or on behalf of our business partners and advertisers.  If you do not wish to receive any or all of such communications, you may opt-out by responding “no” or clicking the appropriate box to opt-out.  By electing not to opt-out of such communications, you are granting permission to allow CareerArc, its business partners and advertisers to send the selected communications.  We reserve the right to send you communications regarding the Site or the Services, or to advise you of Site or Service changes or other events or occurrences which may affect your access to or use of the Site or Services (such as service announcements, administrative notices and the like) without offering you the opportunity to opt out of them.  If after opting-in to our Networks or receiving communications from us or our business partners, you wish to opt-out of participation in the Network or from receiving future communications, you may do so at any time.  To do so, simply log in to your applicable Network account, go to your profile, and you will find options for editing your opt-in preferences.
 
 7)    **Internet Protocol (IP) Addresses and Aggregated User Data** ** **
 
@@ -132,7 +132,7 @@ CareerArc Group LLC
 
 Attn: Legal 
 
-3400 W. Olive Ave, Suite 220
+2600 W. Olive Ave, Suite 710
 
 Burbank, CA 91505
 
