@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketnetwork.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213507id_/http%3A//www.marketnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketnetwork.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630204239id_/http%3A//www.marketnetwork.com/privacy) for the most accurate reproduction.*
 
 # MarketNetwork - Privacy Policy
 
