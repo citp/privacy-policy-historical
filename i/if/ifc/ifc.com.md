@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2011-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111031182858id_/http%3A//www.ifc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110558id_/http%3A//www.ifc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IFC.com
+# Privacy Policy – IFC
 
-**THE INDEPENDENT FILM CHANNEL LLC**  
-**Privacy Policy**  
+### **THE INDEPENDENT FILM CHANNEL LLC**
+
+**Privacy Policy**
+
 Updated October 5, 2009
 
 Thank you for visiting this website (the "Website"). Your patronage means a lot to us. At The Independent Film Channel LLC ("Company"), we understand that privacy is an important issue for visitors to our websites and we are committed to providing you clear information about how we treat information provided to us. This Privacy Policy ("Policy") describes the information we collect, what we do with it and the safeguards we have in place to protect it.
@@ -30,7 +32,8 @@ From time to time, we may provide access to information to select third parties 
 
 **INFORMATION DISCLOSURE**
 
-We will disclose personally identifiable information to non-affiliated third parties (a) as set forth in this Policy; (b) where it is necessary for us to render our services or conduct a legitimate business activity related to our services; or (c) with appropriate consent. We may disclose personally identifiable information to affiliated third parties, including parents, affiliates, subsidiaries and joint venture partners at any time, subject to the use restrictions set forth in this Policy. You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect our rights, property or personal safety as well as those of our users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
+We will disclose personally identifiable information to non-affiliated third parties (a) as set forth in this Policy; (b) where it is necessary for us to render our services or conduct a legitimate business activity related to our services; or (c) with appropriate consent. We may disclose personally identifiable information to affiliated third parties, including parents, affiliates, subsidiaries and joint venture partners at any time, subject to the use restrictions set forth in this Policy.  
+You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect our rights, property or personal safety as well as those of our users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
 
 Finally, we also reserve the right to disclose and transfer all of the information collected at our sites, including personally identifiable information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business.
 
@@ -68,10 +71,14 @@ Beginning January 1, 2005, California law permits visitors who are California re
 
 Please do not hesitate to contact us with any questions, concerns, requests or comments:
 
-Write to us at:  
-The Independent Film Channel LLC  
-11 Penn Plaza  
-New York, NY 10001  
+Write to us at:
+
+The Independent Film Channel LLC
+
+11 Penn Plaza
+
+New York, NY 10001
+
 Attention: Webmaster
 
 Or, by email us at: webmaster@ifc.com
@@ -86,5 +93,6 @@ Please be careful and responsible whenever you are on line. Should you choose to
 
 This Policy and the use of this Website are governed by New York law. Any claim related to this Policy shall be brought in a federal or state court in New York counties, New York, within one year after the claim arises. You agree that no such claim may be brought as a class action. Users of this Website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this Policy.
 
-**Copyright © 2009 The Independent Film Channel LLC  
-Version: October 2009**
+**Copyright © 2011 The Independent Film Channel LLC**
+
+**Version: October 2009**
