@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackingtrick.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219072602id_/http%3A//www.hackingtrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackingtrick.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630052646id_/http%3A//www.hackingtrick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hacking tricks
 
@@ -32,3 +32,8 @@ www.hackingtrick.com has no access to or control over these cookies that are use
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.solidblogger.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+#### Incoming search terms:
+
+[hackingtricks com](http://www.hackingtrick.com/privacy-policy/ "hackingtricks com") (17)[www Hacking Trick com](http://www.hackingtrick.com/privacy-policy/ "www Hacking Trick com") (11)
+
