@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workzone.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090627id_/http%3A//workzone.com/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workzone.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105633id_/http%3A//www.workzone.com/security.jsp) for the most accurate reproduction.*
 
-# WorkZone Security Policy
+# Privacy and Security Policies: WorkZone Project Management Software
 
 We know that security is crucial to you, and it's our top priority. WorkZone exercises great care to secure your company's confidential information. WorkZone uses multi-layered security to protect your data, and we are continuously engaged in examining and updating security as we update our service.
 
@@ -45,6 +45,6 @@ East Norriton, PA 19401
 610-275-9861  
 
 
-Revised: June 1, 2010 
+Revised: January 1, 2012 
 
-[](https://web.archive.org/request-demo.vm?loc=body)
+[View full product tour](https://web.archive.org/product-tour/tracking-projects.jsp) [](https://web.archive.org/request-demo.vm)
