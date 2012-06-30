@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the sunrisesunset.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231213256id_/http%3A//www.sunrisesunset.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunrisesunset.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630112827id_/http%3A//www.sunrisesunset.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Privacy Policy for SunriseSunset.com</title>
 	<meta name="description" content="Privacy statement for the site SunriseSunset.com.">
 	<meta name="keywords" content="privacy policy, sun moon rise set sunrise, sunset, twilight, moonrise, moonset, moon phase, sunrise sunset, sunrise sunset calendar">
-	<meta name="copyright" content="Copyright (c) 2011 Steve Edwards">
+	<meta name="copyright" content="Copyright (c) 2012 Steve Edwards">
 
 	<link rel="stylesheet" href="MasterDocs/main2.css" type="text/css">
 	<link rel="stylesheet" href="MasterDocs/navbar2.css" type="text/css">
@@ -31,10 +31,85 @@
 
 </head>
 <body>
+	<script type="text/javascript">
+
+		function auditSearchInput()
+		  {
+			var t = document.getElementById("search_terms_top").value;
+			//alert (t);
+			if (t==null || t=="" || t=="Zip or city, state")
+			  {
+			  //alert (1);
+				document.getElementById("search_terms_top").value = "";
+				//t.innerHTML = "&nbsp;";
+				//document.getElementById("search_terms_top").style.color='black';
+			  }
+			else
+			  {
+			  //alert (2);
+				//document.getElementById("search_terms_top").style.color='black';
+			  }
+		  }
+
+		function clearSearch()
+		  {
+			var t = document.getElementById("search_terms_top").value;
+
+			if (t==null || t=="" || t=="Zip or city, state")
+			  {
+			  //alert (1);
+				document.getElementById("search_terms_top").value = "";
+				t.innerHTML = "&nbsp;";
+				document.getElementById("search_terms_top").style.color='black';
+			  }
+			else
+			  {
+			  //alert (2);
+				//document.getElementById("search_terms_top").style.color='black';
+			  }
+		  }
+
+		var p;
+
+	function isInputEmpty()
+	  {
+			var u = document.getElementById("search_terms_top").value;
+		//alert(p);
+		//alert(u);
+			if (u==null || u=="&nbsp;" || u=="")
+			  {
+			  //alert (3);
+			  //alert(p);
+				if (p=="")
+					{
+					document.getElementById("search_terms_top").value = value="Zip or city, state";
+					u.innerHTML = "&nbsp;";
+					document.getElementById("search_terms_top").style.color='gray';
+				  }
+			  }
+			else
+			  {
+			  //alert (4);
+				document.getElementById("search_terms_top").style.color='black';
+			  }
+			p = u;
+	  }
+
+	</script>
+
+
 <table width="728" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; margin-top: 0; margin-bottom: 0;">
-	<tbody><tr>
+	<tbody><tr> <!-- modification 03 added search 02/14/2012 -->
 		<td align="left" valign="top" width="728" height="90" style="background-image:url('/graphics/NavBar2.jpg'); background-repeat:no-repeat;">
-			<div id="navbar2">
+			<div>
+				<form name="search_form_top" action="/search/results.asp" method="get" style="margin-top: 22px;">
+					<input onclick="clearSearch()" onkeyup="isInputEmpty()" type="text" size="16" maxlength="32" name="s" id="search_terms_top" style="color:gray; margin-left: 460px;" value="Zip or city, state"> <!-- onKeyUp="latChanged()" -->
+					<input type="hidden" name="scountry" value="us">
+					<input type="hidden" name="back" value="search">
+					&nbsp; <input onclick="auditSearchInput()" type="submit" value="Search USA">
+				</form>
+			</div>
+			<div id="navbar2" style="margin-top: -45px;">
 				<ul id="dropdownmenu">
 					<li><a class="dodrop" href="/" title="SunriseSunset.com Home page">Home</a></li>
 					<li><a class="dodrop" href="/predefined.asp" title="SunriseSunset.com Predefined locations for calendar page">Calendar<img style="position:relative; bottom:-4px; margin-left:2px;" src="/graphics/Dropdown.gif" width="14" height="14" border="0" alt="dropdown pointer" title="SunriseSunset.com Calendar dropdown"></a>
@@ -42,7 +117,8 @@
 							<li><a href="/predefined.asp" title="SunriseSunset.com Predefined locations for calendar page">Major World Cities</a></li>
 							<li><a href="/USA/" title="SunriseSunset.com USA home page">USA <img src="/graphics/us_flag_22x16.jpg" width="22" height="16" border="0" alt="U.S. flag" title="SunriseSunset.com USA home page"></a></li>
 							<li><a href="/USA/NationalParks/" title="SunriseSunset.com U.S. National Parks home page">U.S. National Parks <img src="/graphics/UsaNP_icon_22x16_fff6db.jpg" width="22" height="16" border="0" alt="National Parks icon" title="SunriseSunset.com National Parks home page"></a></li>
-							<li><a href="/Canada/" title="SunriseSunset.com Canada home page">Canada <img src="/graphics/canada_flag_22x16.jpg" width="22" height="16" border="0" alt="Canada flag" title="SunriseSunset.com Canada home page"></a></li>
+							<li><a href="/Canada/" title="SunriseSunset.com Canada home page">Canada <img src="/graphics/Canada_flag_22x16.jpg" width="22" height="16" border="0" alt="Canada flag" title="SunriseSunset.com Canada home page"></a></li>
+							<li><a href="/England/" title="SunriseSunset.com England home page">England <img src="/graphics/England_flag_22x16.jpg" width="22" height="16" border="0" alt="England flag" title="SunriseSunset.com England home page"></a></li>
 							<li><a href="/Golf/" title="SunriseSunset.com Golf Courses home page">Golf Courses, Worldwide <img src="/graphics/GolfBallTeeB_icon_22x16_fff6db.jpg" width="22" height="16" border="0" alt="Golf ball and tee" title="SunriseSunset.com Golf home page"></a></li>
 							<li><a href="/mobile/" title="SunriseSunset.com Mobile home page">Mobile <img src="/graphics/mobile_icon_22x16_fff6db.jpg" width="22" height="16" border="0" alt="Mobile phone icon" title="SunriseSunset.com Mobile home page"></a></li>
 						</ul>
@@ -141,7 +217,7 @@
 		 <br>
 				 Please address problems, comments and questions <a href="/email.html" title="SunriseSunset.com Contact page">by email</a>.
 		 	<br>
-				 Copyright © 2011 Steve Edwards
+				 Copyright © 2012 Steve Edwards
 		</td>
  	</tr>
 </tbody></table>
