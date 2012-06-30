@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205414id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112236id_/http%3A//viz.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | VIZ Media
+# Privacy Policy | Viz Media
 
 **About this Policy**
 
@@ -37,7 +37,7 @@ This policy describes our privacy practices for the websites where it is posted.
 
 
 
-**We collect information from you passively.** We use tracking tools like browser cookies and web beacons.  To learn more about these tools and how you can control them, click [here](https://web.archive.org/tracking).  
+ **We collect information from you passively.** We use tracking tools like browser cookies and web beacons.  To learn more about these tools and how you can control them, click [here](https://web.archive.org/tracking).  
   
 **How We Use Information**
 
