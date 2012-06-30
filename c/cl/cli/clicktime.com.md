@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clicktime.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007162816id_/http%3A//clicktime.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktime.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630092500id_/http%3A//www.clicktime.com/policy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ClickTime Web Timesheet
+# Privacy Policy - Web Timesheet
 
 ## Our commitment to your privacy
 
-The developers of ClickTime have created this privacy statement in order to demonstrate our firm commitment to the protection of your privacy. The following discloses our information gathering and dissemination practices. Clicktime.com adheres to the Safe Harbor principles developed by the United States and the European Union (EU), described in our [Safe Harbor Notice.](https://web.archive.org/policy/safe-harbor.asp)
+The developers of ClickTime have created this privacy statement in order to demonstrate our firm commitment to the protection of your privacy. The following discloses our information gathering and dissemination practices. Clicktime.com adheres to the Safe Harbor principles developed by the United States and the European Union (EU), described in our [Safe Harbor Notice.](https://web.archive.org/policy/safe-harbor)
 
 For the purpose of this Privacy Policy, "ClickTime" refers to Clicktime.com, Inc. and its authorized distributors and affiliates worldwide.
 
@@ -33,7 +33,7 @@ When we collect your personal information, that information is for ClickTime's u
 
 Except as disclosed in this paragraph, third parties will neither be granted your personal information nor will your information ever be sold. At our discretion based on your industry or location, we may provide your contact information to an authorized distributor of ClickTime who has contractually agreed to abide by these privacy policies. Otherwise, any information shared with third parties will be shared as aggregate statistics. 
 
-ClickTime offers you a choice in the way we use provided information. If you would like to change the way that information is received from ClickTime, go to [http://www.clicktime.com/forms/unsubscribe.asp](https://web.archive.org/forms/unsubscribe.asp) and enter your email address to opt-out of receiving future emails. ClickTime is an online, hosted application. On certain occasions, ClickTime may need to notify you of important announcements in regards to the operation of our service. These announcements may be sent regardless of your opt-out status, and your only mechanism to avoid these notices is to cease your use of the ClickTime service.
+ClickTime offers you a choice in the way we use provided information. If you would like to change the way that information is received from ClickTime, go to [http://www.clicktime.com/forms/unsubscribe](https://web.archive.org/forms/unsubscribe) and enter your email address to opt-out of receiving future emails. ClickTime is an online, hosted application. On certain occasions, ClickTime may need to notify you of important announcements in regards to the operation of our service. These announcements may be sent regardless of your opt-out status, and your only mechanism to avoid these notices is to cease your use of the ClickTime service.
 
 **Application Usage:** When an individual customer's administrator enrolls a new user in ClickTime, that administrator may elect to enter certain personal details. This data is considered application data and is not used by ClickTime in any way, other than when ClickTime itself sends important system notices to all users.
 
