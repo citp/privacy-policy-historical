@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215341id_/http%3A//openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233321id_/http%3A//openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Open Architecture Network
+# Privacy Policy | Worldchanging
 
 Architecture for Humanity (“AFH”) and Worldchanging have created this statement to demonstrate our firm commitment to the privacy of our users. It discloses information gathering and dissemination practices for [http://worldchanging.com](http://worldchanging.com/ "http://worldchanging.com"), the Worldchanging's official Internet site. In this Privacy Policy statement, “we,” “us,” “its” and “ours” refers to Worldchanging and/or AFH as the context requires, and “you” and “your” refers to you. 
 
