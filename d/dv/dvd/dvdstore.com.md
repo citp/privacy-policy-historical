@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdstore.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119175559id_/http%3A//support.dvdstore.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D3034%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdstore.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630055514id_/http%3A//support.dvdstore.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D3034%26country%3Dus) for the most accurate reproduction.*
 
 # DVDStore.com
 
