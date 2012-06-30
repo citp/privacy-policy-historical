@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatgrapejuice.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225354id_/http%3A//thatgrapejuice.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatgrapejuice.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630102159id_/http%3A//thatgrapejuice.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ..::That Grape Juice // ThatGrapeJuice.net::.. || Thirsty?
 
@@ -60,3 +60,5 @@ The Web Site is operated in the United States. If you are located in the Europea
 
 **NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY**  
 By using the Web Site, you acknowledge your agreement to the terms of this Privacy Policy. From time to time,  ** _That Grape Juice_** may update this Privacy Policy. However,  ** _That Grape Juice_** will use your personal information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>
