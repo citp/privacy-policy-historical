@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the bistri.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225103619id_/http%3A//bistri.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistri.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630174038id_/http%3A//bistri.com/html/privacy.html) for the most accurate reproduction.*
 
 # None
+
+  * What this Privacy Policy covers
+  * Information that Bistri collects
+  * What is public and what is private?
+  * Bistri's communication platforms
+  * Bistri's use of cookies
+  * Information usage and sharing
+  * Editing and deleting your account information
+  * Feedback and Support
+
+
 
 Last updated: May 10, 2011 
 
