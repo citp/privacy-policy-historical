@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the crunchyroll.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229030747id_/http%3A//www.crunchyroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchyroll.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630031021id_/http%3A//www.crunchyroll.com/privacy) for the most accurate reproduction.*
 
 # Crunchyroll - Privacy Policy
 
-Effective March 23rd, 2009
+Effective Since: 3/23/2009
 
 Welcome to Crunchyroll! Crunchyroll, Inc. (“Crunchyroll”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the www.crunchyroll.com site and any websites owned or operated by (or on behalf of) Crunchyroll (collectively, the “Sites”), and when you use our downloadable media player that enables users to view content (“Crunchyroll Player”) (collectively, the “Services”). This Privacy Policy applies only to information that you provide to us through the Services, and when you access, download, purchase or use any information, services, products or content appearing on the Sites or offered by Crunchyroll through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Sites. You should consult this Privacy Policy regularly for any changes. 
-
-Information Collection: Personally Identifiable Information 
 
   * In the course of using the Services, we ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your account (“Personal Information”). Personal Information may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. 
   * Please be aware that when you register to become a Crunchyroll member, other users of the Services may be able to see your screen or user name, in addition to any comments or submissions that you post to the Sites or submit via the Services. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you. 
@@ -16,19 +14,13 @@ Information Collection: Personally Identifiable Information
 
 
 
-Our Policy Toward Children
-
-Crunchyroll does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at . If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
-
-How We Use Personal Information
+Crunchyroll does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@crunchyroll.com](mailto:privacy@crunchyroll.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
 
   * Personal Information is used for the following purposes: (i) to provide and improve the Services, features and content, (ii) to administer your use of the Services and Crunchyroll account, (iii) to enable users to enjoy and easily navigate the Sites, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, (vi) to personalize your experience, (vii) to provide service announcements, and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on Crunchyroll related services.  If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. 
   * We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Services and for the technical administration of the Sites, to increase the functionality and user-friendliness of the Services, to better tailor both to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors and users to and of the Services meet the criteria required to process their requests. 
   * Email \- By registering with Crunchyroll, you consent to receiving periodic notifications including: Crunchyroll updates and newsletters, relevant account notifications, Crunchyroll group/buddy invitations, order/download confirmations and private message notifications. In addition to these you may opt-in to notifications including: media subscriptions and group updates. We will provide means to opt-out of any email notifications from Crunchyroll and will include links to opt-out in every email. 
 
 
-
-Information Sharing and Disclosure
 
 Third Parties. We will not share or sell personally identifiable information, such as e-mail address, with other organizations for their marketing or promotional uses without your express consent. 
 
@@ -42,22 +34,12 @@ Compliance with Laws and Law Enforcement. Crunchyroll cooperates with government
 
 Business Transfers. Crunchyroll may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
 
-Changing or Deleting Your Information
-
 All Crunchyroll members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
-
-Security
 
 Crunchyroll is concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access. 
 
-International Transfer
-
 Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Crunchyroll, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
-
-Links to Other Sites
 
 The Services contain links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
 
-Contacting Us
-
-If you have any questions about this Privacy Policy, please contact us at or by sending a written request to Crunchyroll, Inc. at [ _340 Brannan St. Suite 100, San Francisco, CA 94107 U.S.A.]_. 
+If you have any questions about this Privacy Policy, please contact us at [privacy@crunchyroll.com](mailto:privacy@crunchyroll.com) or by sending a written request to Crunchyroll, Inc. at [ _340 Brannan St. Suite 100, San Francisco, CA 94107 U.S.A._ ]. 
