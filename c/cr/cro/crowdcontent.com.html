@@ -1,24 +1,31 @@
-<!--The following is the downloaded HTML source of the crowdcontent.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102135311id_/http%3A//www.crowdcontent.com/client/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdcontent.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630180755id_/http%3A//www.crowdcontent.com/client/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<!--<meta http-equiv="pragma" content="no-cache">-->
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
 <link rel="shortcut icon" href="/images/favicon.ico"> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Custom Content on Demand - Crowdcontent</title>
 
-<!-- Load jQuery -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
-	<script type="text/javascript">
-		google.load("jquery", "1");
-	</script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.7rc2.js"></script>
 
 <link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/crowd-template.css">
 <link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/custom-template.css">
 <link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/buttons.css">
+<link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/homepage-signup.css">
+<link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/toolbar-signin.css">
+<link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/homepage-journey.css">
+<link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/footer.css">
+<link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/jsddm.css">
+<link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/order-form.css">
 <link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/facebox/facebox.css">
+	<link type="text/css" rel="stylesheet" href="/css/popup-form.css">
 <script language="javascript" type="text/javascript" src="http://www.crowdcontent.com/javascript/global.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.crowdcontent.com/javascript/homepage-signup.js"></script>
 
+<script language="javascript" type="text/javascript" src="http://www.crowdcontent.com/javascript/jsddm.js"></script>
 
 <script language="javascript" type="text/javascript" src="http://www.crowdcontent.com/facebox/facebox.js"></script> 
 
@@ -37,44 +44,15 @@
 </script>
 
 <script type="text/javascript">
-	var timeout         = 500;
-	var closetimer		= 0;
-	var ddmenuitem      = 0;
-
-	function jsddm_open()
-	{	jsddm_canceltimer();
-		jsddm_close();
-		ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');}
-
-	function jsddm_close()
-	{	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
-
-	function jsddm_timer()
-	{	closetimer = window.setTimeout(jsddm_close, timeout);}
-
-	function jsddm_canceltimer()
-	{	if(closetimer)
-		{	window.clearTimeout(closetimer);
-			closetimer = null;}}
-
-	$(document).ready(function()
-	{	$('#jsddm > li').bind('mouseover', jsddm_open);
-		$('#jsddm > li').bind('mouseout',  jsddm_timer);});
-
-	document.onclick = jsddm_close;
-	</script>
-
-<script type="text/javascript">
-					jQuery(document).ready(function($) {
-						$("a[rel*=facebox]").facebox();
-						
-					}) 
-					
-					function CloseFacebox() { 
-					  jQuery(document).trigger('close.facebox'); 
-				   } 
-					
-					</script>
+	jQuery(document).ready(function($) {
+		$("a[rel*=facebox]").facebox();
+		
+	}) 
+	
+	function CloseFacebox() { 
+	  jQuery(document).trigger('close.facebox'); 
+   } 
+</script>
 
 
 
@@ -82,89 +60,77 @@
 
 <body id="body">
 
-<div id="popup-confirmation" style="display:none;">
-						
-	
-						
-</div>					
+
+<div id="popup-confirmation" style="display:none;"></div>					
 
 
+<div id="main">
 
-<!--[if !IE]>main<![endif]-->
-	<div id="main">
-    
-    	<!--[if !IE]>header<![endif]-->
-            <div id="header">
-            
-            	<!--[if !IE]>header-left<![endif]-->
-                    <div id="header-left">
-                    <h1><a href="http://www.crowdcontent.com/">LOGO</a></h1>
-                    </div>
-                <!--[if !IE]>header-left<![endif]-->
-                
-                	<!--[if !IE]>header-right<![endif]-->
-                        <div id="header-right">
+	<div id="client-header">
+		<div id="client-header-left">
+			<div id="client-header-logo"><a href="/"><img src="/images/logo2.png" border="0"></a></div>
 			
-                        
-<!--[if !IE]>login-area<![endif]--> <div id="login-area"><form id="form-box" action="/client/sign-in.php" method="post" name="sign-in-form">
-	<input type="hidden" name="process" value="signup">
-			<div class="input-bg">
-				<input type="text" class="input-box" name="fakeemail" id="fakeemail" size="15" value="Email" onfocus="emailFocus()">
-				<input style="display: none" class="input-box" type="text" name="email" id="email" size="15" value="" onblur="emailBlur()">
-			</div>
-			<div class="input-bg">
-				<input type="text" class="input-box" name="fakepassword" id="fakepass" size="15" value="Password" onfocus="pwdFocus()">
-				<input style="display: none" class="input-box" type="password" name="password" id="pass" size="15" value="" onblur="pwdBlur()">
+			
+		
+		</div>
+
+	<div id="client-header-right">
+ <div id="login-area"><div class="signin-form">	
+	<div id="signin_form">
+				
+		<form id="form-box" action="/client/sign-in.php" method="post" name="sign-in-form">
+
+			<input type="hidden" name="process" value="signup">
+			
+			
+			<div id="si_email_error" class="unhighlight-field">
+				<label class="text">Email</label>
+				
+				<div class="input_wrapper">
+					<input type="text" class="text" name="fakeemail" id="fakeemail" size="15" value="Email" onfocus="emailFocus()">
+
+					<input style="display: none;" class="text" type="text" name="email" id="email" size="15" value="" onblur="emailBlur()">
+					
+				</div>
+			
 			</div>
 			
+			
+			<div id="si_password_error" class="unhighlight-field">
+
+				<label class="text">Password</label>
+				
+				<div class="input_wrapper">
+					<input type="text" class="text" name="fakepassword" id="fakepass" size="15" value="Password" onfocus="pwdFocus()">
+
+					<input style="display: none;" class="text" type="password" name="password" id="pass" size="15" value="" onblur="pwdBlur()">
+				</div>
+			</div>
+
 			<input class="login-button" type="submit" name="submit" value="LOGIN">
-			
-			
- </form>
-</div><!--[if !IE]>login-area<![endif]-->								
-                        
-                        	
-                            
-                            	<!--[if !IE]>navigation<![endif]-->
-                                    <div id="navigation">
-                                    
-										<ul>
-	<li><a href="/"><span>Home</span></a></li>
-<li><a href="/solutions.php"><span>Solutions</span></a></li><li><a href="/howitwork.php"><span>How It Works</span></a></li><li><a href="/aboutus.php"><span>About Us</span></a></li><li><a href="/pricing.php"><span>Pricing</span></a></li><li><a href="/signup.php"><span><strong>Sign Up</strong></span></a></li></ul>
-	
-                                    
-                                    </div>
-                                <!--[if !IE]>navigation<![endif]-->
-                        
-                        </div>
-                    <!--[if !IE]>header-right<![endif]-->
-                    
+					
+					
+		 </form>
+	</div>
+</div>
+</div>				       
             </div>
-        <!--[if !IE]>header<![endif]-->
+            </div>
+                 <div id="content-area">
+<div id="client-banner"></div>						
+					
+						
+					<div class="detail-text">
+						<div id="content-box">
+							<div id="text-area">
 
-			<!--[if !IE]>content-area<![endif]-->
-                  <div id="content-area">
-                  
-                  	<!--[if !IE]>aboutus-banner<![endif]-->
-                          <div id="client-banner">
-<div class="navigation"><a href="/">crowdcontent</a> &gt; <a href="#"><strong>privacy policy</strong></a></div>                          
-                          </div>
-                          
-                          
-                           <div class="detail-text">   
-                            
-                            <!--[if !IE]>content-box<![endif]-->
-                                     <div id="content-box">
-											<!--[if !IE]>text-area<![endif]-->
-                                             <div id="text-area">
-                                             
-                                             	
-                                              
-                                                
-                                                
-                                                <!--[if !IE]>page-content<![endif]-->
-                                                     <div id="client-content">
-<div class="text-box">
+
+
+
+
+				<!--[if !IE]>page-content<![endif]-->
+				<div id="client-content">
+<div class="navigation"><a href="/">crowdcontent</a> / <a href="#"><strong>privacy policy</strong></a></div><h1>Privacy Policy</h1><div class="text-box">
 <p>
 	CrowdContent.com is committed to protecting the privacy of visitors to our websites, as well as our members and partners. CrowdContent.com has established this Privacy Policy to explain what information we collect through these websites and how it is used. 
 </p>
@@ -271,33 +237,33 @@ This Privacy Policy is based extensively on that of the Electronic Frontier Foun
 			</div>
 		</div>
 							<!--[if !IE]>footer<![endif]-->
-                            <div id="footer">
-                            
-                            	<!--[if !IE]>footer-left<![endif]-->
-                                        <div id="footer-left">
-                                        &nbsp;
-                                        </div>
-                                 <!--[if !IE]>footer-left<![endif]-->
-                                 
-                                 	
-                                    <!--[if !IE]>footer-right<![endif]-->
-                                            <div id="footer-right">
-                                            
-                                            	<ul>
-                                                	<li><a href="/solutions.php"><span>Solutions</span></a></li>
-                                            <li><a href="/howitwork.php"><span>How It Works</span></a></li>
-                                            <li><a href="/aboutus.php"><span>About Us</span></a></li>
-                                            <li><a href="/pricing.php"><span>Pricing</span></a></li>
-                                            <li><a href="/client/terms-of-use.php"><span>Terms of Use</span></a></li>
-                                            <li><a href="/client/privacy.php"><span>Privacy Policy</span></a></li>
-    													<li class="end"><a href="/signup.php"><span><strong>Sign Up</strong></span></a></li>
-                                                </ul>
-                                            
-                                            </div>
-                                     <!--[if !IE]>footer-right<![endif]-->
-                                     
-                                    
-                            </div>
+                           <div id="footer">
+		<div class="footer-left">
+			<div class="bottom-navigation">
+				<ul>
+														
+					<li><a href="/solutions.php">Solutions</a></li>
+					<li><a href="/howitwork.php">How It Works</a></li>
+					<li><a href="/aboutus.php">About Us</a></li>
+                                         
+					<li><a href="/pricing.php">Pricing</a></li>
+					<li><a href="/client/terms-of-use.php">Terms of Use</a></li>
+					<li><a href="/client/privacy.php">Privacy Policy</a></li>
+					<li><a href="/blog/">Blog</a></li>
+					<li class="end"><a href="/signup.php"><strong>Sign Up</strong></a></li>
+				</ul>
+			</div>
+		
+			<div class="small-print">
+				<p>
+					© Copyright 2011 Crowdcontent. <!--All rights reserved. <a target="_priv" href="http://www.crowdcontent.com/client/privacy.php">Click here</a> to view our <a target="_priv" href="http://www.crowdcontent.com/client/privacy.php">Privacy Policy</a>.-->
+				</p>	
+			</div>
+		</div>
+		<div id="footer-right">
+			<img src="/images/gray-crowd-logo.png">
+		</div>
+	</div>
                      <!--[if !IE]>footer<![endif]-->
             
     </div>
@@ -305,5 +271,4 @@ This Privacy Policy is based extensively on that of the Electronic Frontier Foun
 
 
 
-	
 </body></html>
