@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120072924id_/http%3A//www.freeshipping.com/site/policy_nm.asp%3Fref%3Dnc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630173204id_/http%3A//www.freeshipping.com/policy.asp%3Fref%3Dft) for the most accurate reproduction.*
 
 # FreeShipping.com | Privacy Policy
-
-|    
----  
-|  |   
----|---  
-   
-  
-****************
 
 ### Freeshipping.com Privacy Policy
 
@@ -88,8 +80,4 @@ Contacting Us. If you have any questions about this Privacy Policy, or the pract
 >  Wethersfield, CT 06129-0728  
 > 
 
-Copyright 2011 Clarus Marketing Group. All rights reserved.
-
-****************  
-  
- 
+Copyright 2012 Clarus Marketing Group. All rights reserved.
