@@ -1,66 +1,107 @@
-> *The following text is extracted and transformed from the hylunia.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203115733id_/http%3A//www.hylunia.com/v2/apps/data/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hylunia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105529id_/http%3A//www.hylunia.com/privacy-policy) for the most accurate reproduction.*
 
-# Hylunia Skin Care - Privacy Policy
+# Privacy Policy
 
-  
-Effective Date: January 10, 2010  
+Thank you for visiting Hylunia.com. Hylunia is committed to protecting your privacy.
 
+### What our Privacy Policy Covers
 
-This privacy policy sets out how US Advanced Medical Research, Inc. (Hylunia/Hymed Skin Care) uses and protects any information that you give US Advanced Medical Research, Inc. (Hylunia/Hymed Skin Care) when you use this website.
+This Privacy Policy covers any personal information that Hylunia obtains from you when you use services or features on the sites we own and control, including www.hylunia.com (the "Sites"). We may add additional Sites from time to time as we expand our skin care offerings and this policy will govern those new Sites when added. You may be accessing our Sites from a computer or mobile phone device (through an iPhone application, for example) and this policy governs your use of our Sites regardless of the means of access. We also like to interact with you on third party sites where we post content or invite your feedback, such as [www.facebook.com/hylunia](http://www.facebook.com/hylunia), [www.twitter.com/hyluniaskincare](http://www.twitter.com/hyluniaskincare), [www.hylunia.com/wp](https://web.archive.org/wp) and [www.youtube.com/hyluniaskincare](http://www.youtube.com/hyluniaskincare) ("Third Party Sites"). This policy does not cover the privacy practices of those Third Party Sites, or of companies that Hylunia does not own or control, or the actions of people that Hylunia does not employ or manage. You should check the privacy policies of those third parties when providing personally identifiable information through Third Party Sites. Our terms of use for the Sites give you more information about how we can interact with you via Third Party Sites. Our Privacy Policy may change in the future. We invite you to check back periodically to see if we have made any changes. If we make any material changes, we will post a notice on our home page and will obtain your consent if the material changes affect the way we use the personally identifiable information we have already collected from you. By using the Sites, you agree to the terms of our Privacy Policy. If you do not like the terms of our Privacy Policy, you should not use our Sites. For more information about the terms of use for this site, please visit our [legal page](https://web.archive.org/terms-of-use).
 
-US Advanced Medical Research, Inc. (Hylunia/Hymed Skin Care) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+### What Personal Information is Collected
 
-US Advanced Medical Research, Inc. (Hylunia/Hymed Skin Care) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January , 2010.
+Depending on how you use Hylunia, we may ask you to share personal information with us. Whether you choose to give Hylunia information is completely up to you, but keep in mind that if you withhold information, you may not be able to use some of our services.
 
-**What we collect**   
-We may collect the following information:
+### When Personal Information is Collected
 
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+Hylunia will ask you for information, including some personal information, if you use one of several services:
 
+**Becoming a registered user.**
 
+In order to register, you need to share some personal information, such as your name and e-mail address. You do not have to be a registered user to visit the Sites. But, you will have to register if you want to place orders or make full use of our services. Once you register, you will have an account with Hylunia and a password to access that account. You may never use another person's account without permission and you may not use anyone else's password. You should keep your registration current and complete. You are responsible for maintaining the confidentiality of your account and password. Please also let us know if there is any unauthorized use of your account or password. We recommend that you always log out from your account at the end of a session with us to prevent other people from accessing your account without your permission.
 
-**What we do with the information we gather**  
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+**Making a purchase.**
 
-  * Internal record keeping. 
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+When you buy something on Hylunia.com, you have to supply a billing address, phone number, shipping address, and credit card information. By making a purchase, you become a registered user of Hylunia.com. You can choose to store information needed to make a purchase, such as your credit card number, shipping and billing addresses in the My Account page. If you change your mind about storing this information, you can amend or delete it by going to the relevant area of the My Account page and following the instructions. You can access this section using your registration password.
 
+Sweepstakes, Contests and Surveys. If you enter a sweepstakes or contest, or answer a survey, you will become a registered user (if you aren't one already). We may also ask you for some demographic information, such as your age. If you choose not to answer, you probably will not be able to participate in the sweepstakes, contest or survey.
 
+**Our interactive services.**
 
-**Security**   
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We have a number of ways to hear your opinions and feedback. We like to answer your questions. We may offer other interactive services in the future and this Privacy Policy will govern your use of those services. If you want to use any of these interactive services, you will become a registered user (if you aren't already one) and any personal information you submit will become part of your profile, as maintained by Hylunia. Please review our terms of use for the Sites because they explain the way you can participate in our interactive services in more detail.
 
-**How we use cookies**   
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+**Our Ratings & Reviews services.**
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+When you use the Ratings & Reviews service you will become a registered user (if you aren’t already one) and any personal information you submit will become part of your profile, as maintained by Hylunia.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+**Public Information.**
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Please note that if you choose to share information about yourself in an open format, such as through a Third Party Site like Facebook or Twitter or in the user- generated content elements of our own Sites, we consider that information to be public information - and not personal information.
 
-**Links to other websites**  
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+### How Hylunia Protects Your Information
 
-**Controlling your personal information**  
-You may choose to restrict the collection or use of your personal information in the following ways:
+We realize that our customers trust us to protect their personal information. We take that task seriously. We maintain physical, electronic and procedural safeguards to protect your personal information. For example:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@hylunia.com
+We use industry-standard Secure Sockets Layer ("SSL") authentication to guarantee the confidentiality of online transactions made on our site. SSL authentication and encryption of the information that you send to us over the Internet help protect your online transaction information from third party interception.
 
+We never display your full credit card number once it has been entered. We will only reveal the last four digits of your credit card for verification purposes • We urge you to protect your own privacy. We recommend that you do not share your password with anyone or share your password in an unsolicited phone call or e-mail.
 
+Unfortunately, despite all of our efforts, there is always a risk that third parties may unlawfully intercept transmissions. For example, we cannot ensure the security of your data during transmission to us or the security of your data on an iPhone (or other telephone device that can use iPhone applications) or on your Twitter page or on another computer. This reality is true of all Internet or data transmission use. As a result, we cannot ensure the security of any information you transmit, and you transmit all information at your own risk.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+### How Hylunia Uses Your Personal Information
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [address].
+We use e-mail addresses to send out newsletters and other announcements with information about Hylunia.com's new products, gifts and special features. When you register, you can choose not to receive these announcements by opting-out of delivery. If you receive an e-mail and want to avoid further messages, look at the end of the e-mail for instructions on how to remove yourself from the mailing list. You can also edit your e-mail preferences at Hylunia.com's My Account.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+Hylunia collects personal information primarily to make our services more rewarding for you to use. We usually use this information for internal purposes, such as studying our customers' preferences. We may also use your information to contact you for account and promotional purposes. In the event that another company buys the assets or stock of Hylunia.com, your personal information may then belong to another entity.
 
-> [](http://www.hylunia.com/)
+###  How to Avoid Receiving Newsletters and Other Hylunia.com Materials
 
-|    
----|---
+Hylunia may share your personal information with companies that perform services for us, such as fulfilling orders, delivering packages, sending postal mail and e-mails, analyzing customer data, providing marketing assistance, processing credit card payments, investigating fraudulent activity, conducting customer surveys, and providing customer service. They have access to personal information needed to perform their functions, but may not disclose your personally identifiable information for other purposes. Some personal information is stored on servers owned by other companies. Only Hylunia has the right to access this information. We currently share aggregate information about our customers with advertisers and marketing partners. This information does not identify individual users. Any personal information that you include in your profile or in any content submitted when using our interactive services like Ratings & Reviews or through Third Party Sites will be displayed on our Sites, so please consider this before submitting any such content. Please don't submit any information that you don't want the whole world to know! Personal information may be disclosed if required by law. Hylunia does not currently sell or license personal information. Before selling or licensing your personal information, we will post a notice in this Privacy Policy and on our home page.
+
+At this time, Hylunia does not share any personal information with its affiliates. It is possible that this policy will change in the future. If we do decide to share information with our affiliates, we will post a notice in this Privacy Policy and on our home page.
+
+### Who Views Your Personal Information
+
+Hylunia may share your personal information with companies that perform services for us, such as fulfilling orders, delivering packages, sending postal mail and e-mails, analyzing customer data, providing marketing assistance, processing credit card payments, investigating fraudulent activity, conducting customer surveys, and providing customer service. They have access to personal information needed to perform their functions, but may not disclose your personally identifiable information for other purposes.
+
+Some personal information is stored on servers owned by other companies. Only Hylunia has the right to access this information.
+
+We currently share aggregate information about our customers with advertisers and marketing partners. This information does not identify individual users.
+
+Any personal information that you include in your profile or in any content submitted when using our interactive services like Ratings & Reviews or through Third Party Sites will be displayed on our Sites, so please consider this before submitting any such content. Please don't submit any information that you don't want the whole world to know!
+
+Personal information may be disclosed if required by law.
+
+Hylunia does not currently sell or license personal information. Before selling or licensing your personal information, we will post a notice in this Privacy Policy and on our home page.
+
+At this time, Hylunia does not share any personal information with its affiliates. It is possible that this policy will change in the future. If we do decide to share information with our affiliates, we will post a notice in this Privacy Policy and on our home page.
+
+### Cookies, Pixel Tags and Tracking
+
+Hylunia wants to give you the best possible experience when you visit Hylunia.com and our other Sites. We like to constantly update and improve the features on our Sites, we like to personalize your browsing and shopping experience and we like to recognize you when you return to Hylunia.com. We have a variety of ways of doing this.
+
+We collect information about how you use our Sites by setting and accessing cookies on your computer. A cookie is a small data file that identifies the web browser on a particular computer. No personal information is stored in the cookie itself. When you visit one of our Sites, a cookie will be sent to your browser and then stored on your computer's hard drive. We use these cookies to track information about how often you visit our web site, what pages you view, and where you go after you leave the site. We also link the visitor ID from your cookie to a user ID in our database to help us analyze web traffic and statistics. Other companies help us with data research and analysis, but they are prohibited from using that data for any other purpose. Cookies also help us improve your shopping experience by, among other things, keeping track of your preferences, recognizing you if you are a registered user, and tracking your order as you shop on Hylunia.com. If any of your personal information needs to be accessed during that process, you will have to log in or otherwise authenticate yourself. If you don't like cookies, you can set your browser to reject cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. For instructions, look at your browser's Help menu. Note that certain features of Hylunia.com may not be available if you delete or reject cookies.
+
+We use pixel tags (also called web beacons or "clear" gifs) on our Sites. They help us analyze what our clients like to do on our Sites and the effectiveness of our features and advertising. They can also help us customize your browsing and shopping experience. We may use information collected through pixel tags or tracked links in combination with your personally identifiable information. We may also combine personally identifiable information you provide to Hylunia with other personal information (such as purchase history and demographic information). We often work with other companies to help us track, collect and analyze this information but they are prohibited from using this information for any other purpose.
+
+Hylunia also works with advertising partners (like Google) that use cookies, pixel tags and other tracking technologies to serve advertisements on behalf of their retail clients, including Hylunia, across the Internet, including to you after you have visited our Sites. These advertising partners engage in remarketing, online behavioral advertising and ad delivery and reporting. With respect to Hylunia, these advertising partners may collect anonymous information about your browser as it makes visits to websites across the Internet (including our Sites) and your interaction with our advertising and email communications. This anonymous information may also be used to tailor advertising for you and others elsewhere on the Internet. Hylunia will have access to the information collected by these advertising partners and can then use it in combination with personally identifiable information provided by you to Hylunia to enhance your experience on our Sites. We will not share that personally identifiable information with these advertising partners. If you would like more information about this practice or would like to know your choices about not having your information used by these companies, please visit http://www.networkadvertising.org/ managing/opt_out.asp.
+
+### Making a Purchase
+
+When you buy something on Hylunia.com, you have to supply a billing address, phone number, shipping address, and credit card information. By making a purchase, you become a registered user of Hylunia.com. You can choose to store information needed to make a purchase, such as your credit card number, shipping and billing addresses in the My Account page. If you change your mind about storing this information, you can amend or delete it by going to the relevant area of the My Account page and following the instructions. You can access this section using your registration password.
+
+### Children Under 13
+
+We comply with the Children's Online Privacy Protection Act of 1998. If you are under the age of 13, you can look at our Sites, but you cannot make a purchase. You also cannot become a registered user, or use any service on our Sites that asks for personal information. Our Sites are not designed for children. We do not wish to collect personal information from children under 13. This policy is designed to protect children. Federal law requires us to take special steps to safeguard children's privacy. For more information about this federal law and about children's privacy, click here. If you register with us and we discover that you are under 13, we will delete your registration. We will send you a message if we do this. If you are under 13 and want to make a purchase, please ask a parent to place the order for you.
+
+###  Socialong Commerce and Other Third Parties
+
+We work with trusted third parties, including social network sites like Facebook, and with application developers who specialize in social commerce so we can connect to your social networks. Other social networks we use include Twitter, Delicious and Digg. All of these companies operate Third Party Sites. We provide access to our Sites by third parties and business partners so we can generate interest in our products among members of your social networks and to allow you to share product interests with friends in your network. The use of any features made available to you on our Sites by a third party may result in information being collected or shared about you by us or by the third party. Information collected or shared through any such third party features is considered "public information" by us because the Third Party Sites made it publicly available. If you do not want us to be able to access information about you from Third Party Sites, you must instruct Third Party Sites not to share the information. We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt out of sharing such information. Hylunia is not responsible for how these third parties may use information collected from or about you. However, we do identify any areas on our Sites where third parties share information about you. Facebook's "Like" feature is a good example. (Other third parties have or may have similar ways for you to express positive opinions about our products - now or in the future.) We have agreed to allow Facebook's "Like" feature to run alongside images of our products so you can "like" one of our products and to see how many other Facebook users "like" each of our products. You should know that Facebook may collect or register the fact that you "like" a product and may post that information to your "News Feed" on Facebook and to your Facebook profile's "Wall" and "Info" pages. So, the fact that you "like" one or more of our products may be made known to members of your Facebook network. This would be true for your friends too. If they "like" one of our products, you will see it on his or her News Feed, Wall or Info pages. Finally, by "liking" one of our products, you consent to the display of that information by us. If you do not wish this to happen, you should not click that you "like" a product and you should review your privacy settings on Facebook (or similar Third Party Site). Note that we are not obligated to display someone's name, profile photo or other "public" Facebook profile information on our website even if that Facebook user "likes" one of our products. We reserve the right to remove the information of any person which we deem to be inconsistent with our ideals or otherwise inappropriate for public association with our company. We may remove from our Sites, in our sole discretion, any product offering or any photo or product description relating thereto. We may decide to operate a Friends Store through Facebook (or comparable store on another Third Party Site) in the future. If we operate a Friends Store, and you "connect" with Facebook (using Facebook Connect or other connecting application) to the Friends Store on the Sites, you will be able to browse to discover which products are "liked" by your Facebook friends and by the larger Facebook community. If you are a Facebook user and you say that you "like" a product on our Sites or that you "like" Hylunia, Hylunia may then request that Facebook make your name, Facebook photo and other public profile information under the terms of Facebook's privacy policy available to the Friends Store. This information may then be displayed alongside the product in the Friends Store on our Sites to indicate that you "like" the product. The actual information that may be displayed in the Friends Store will vary depending on what information is made publicly available on Facebook.com. Hylunia will collect and keep your Facebook profile identification only as long as is needed to operate the Friends Store. If you would like to opt out of advertisers' cookies that track anonymous information, click here.
+
+### Questions About This Policy
+
+If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact Hylunia directly at:
+
+US Advanced Medical Research, Inc., Customer Service, 7705 Commercial Suite 160, Henderson NV 89011.
+
+THIS ONLINE PRIVACY POLICY WAS LAST UPDATED ON November 17, 2011.
