@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecpaneladmin.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204214id_/http%3A//www.thecpaneladmin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecpaneladmin.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630133019id_/http%3A//www.thecpaneladmin.com/privacy) for the most accurate reproduction.*
 
 # Privacy :: The cPanel Admin
 
@@ -64,3 +64,14 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://thecpaneladmin.com/contact
 
 admin@thecpaneladmin.com
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F%20\(via%20@sociablesite\)%20/sociable/%20blogplay.com "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&t=Privacy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&title=Privacy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&title=Privacy&notes=What%20information%20do%20we%20collect%3F%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site%2C%20subscribe%20to%20our%20newsletter%20or%20fill%20out%20a%20form.%0D%0A%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20may%20be%20asked%20to%20enter%20your%3A%20name%2C%20e-mail%20 "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&title=Privacy&srcURL=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&srcTitle=The+cPanel+Admin+We+know+stuff+about+cPanel. "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&title=Privacy&source=The+cPanel+Admin+We+know+stuff+about+cPanel.&summary=What%20information%20do%20we%20collect%3F%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site%2C%20subscribe%20to%20our%20newsletter%20or%20fill%20out%20a%20form.%0D%0A%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20may%20be%20asked%20to%20enter%20your%3A%20name%2C%20e-mail%20 "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&Title=Privacy "BlinkList")
+  * 
+
