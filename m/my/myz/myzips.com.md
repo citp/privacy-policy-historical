@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215950id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111933id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
 
 # Myzips.com Privacy Policy
 
-|  [TheFreeSite](http://www.thefreesite.com/)   
-[FreewareFiles](http://www.freewarefiles.com/)   
-[Download Free Software](http://www.download3000.com/)   
-[Only Freeware](http://www.onlyfreewares.com/) [Privacy Policy](http://www.myzips.com/privacy.phtml)  
-[Site Map](http://www.myzips.com/sitemap.phtml)  
-[Contact Us](http://www.myzips.com/contactus.phtml)  
-© 1999 - 2011 Myzips.com  |  |  |   
+  
   
 [Home](http://www.myzips.com/) | [Advertise](http://www.myzips.com/advertise.phtml) | [New Software](http://www.myzips.com/new.phtml?days=7) | [Add Software](http://www.myzips.com/regform.phtml) | Bookmark | [Link Us](http://www.myzips.com/linktous.phtml) | [Blog](http://www.myzips.com/blog/)
 
@@ -34,4 +28,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 You can adjust your own personal cookie settings in your browser. Please access your browsers "Help" section and search for "cookie" to manage how your browser handles cookies. You should be able to do everything from allowing all cookies to blocking all cookies. 
 
   
-| 
+
