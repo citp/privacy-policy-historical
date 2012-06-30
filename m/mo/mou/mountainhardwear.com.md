@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204111850id_/http%3A//www.mountainhardwear.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630181613id_/http%3A//www.mountainhardwear.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Mountain Hardwear | Privacy Policy
 
-**MOUNTAIN HARDWEAR PRIVACY POLICY**
-
-**Last Updated: March 24, 2011**
+## Last Updated: March 24, 2011
 
 This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Mountain Hardwear, Inc., its parent, subsidiaries or affiliated companies (“Mountain Hardwear” or “We”). Unless we otherwise indicate, this Policy applies to all personal information collected by Mountain Hardwear from any source, including information collected through our online services and activities, including this Website (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.
 
@@ -72,3 +70,5 @@ Richmond, CA 94804 **
 **CHANGES TO THIS POLICY**
 
 Mountain Hardwear may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above.
+
+Mountain Hardwear complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Mountain Hardwear has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mountain Hardwear’s certification, please visit http://www.export.gov/safeharbor/
