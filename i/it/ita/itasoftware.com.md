@@ -1,61 +1,176 @@
-> *The following text is extracted and transformed from the itasoftware.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021602id_/http%3A//itasoftware.com/privacy-policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itasoftware.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630202912id_/http%3A//www.google.com/policies/privacy) for the most accurate reproduction.*
 
-# ITA Software Privacy Policy
+# Privacy Policy – Policies & Principles – Google
 
-This privacy statement discloses the privacy practices for our website www.itasoftware.com. If you have questions or concerns regarding this statement, you should first contact comment@itasoftware.com. 
+Last modified: March 1, 2012 ([view archived versions](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/archive/)) 
 
-## Overview
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-ITA Software respects your privacy. The purpose of this section of our website is to inform you of our privacy policies and practices. In this policy you will find out what information we collect (both information that we ask you for and information that we collect automatically), what we will and will not use it for, what steps you can take to correct or update information, safeguards we employ to protect confidential information, and your ability to "opt-out" of certain collection policies and practices. 
+Our Privacy Policy explains: 
 
-## The Information We Collect
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
-_Information we ask you for:_ If you use our site to search for fares, we will ask you if you wish to create a user name and password or to log in as a "guest." (You do not need to create a user name or password in order to use our site.) If you log in as a "guest," no information will be collected other than your domain name and/or IP address (discussed below). If you create a user name and password - which does not require you to give us your email address - we will also give you the option to create a "user profile." This profile, which is entirely optional, contains your mailing and email addresses and fax, and also allows you to specify a seat preference to be used in searching. (We may expand the scope of the user profile to allow you to include more information that may assist you in searching and/or booking, such as a default origin airport or a preferred carrier, or demographic information.) We do not gather this more personal information without your knowledge and active permission and participation. 
 
-_Information we collect automatically:_ When you log on to our Web site, either with a password or as a guest, we will log your domain name and/or Internet Provider (IP) address for systems administration purposes. We do not link domain names or IP addresses to anything personally identifiable. This means that a user's session will be tracked, but the user will be anonymous. 
 
-Our system will also automatically record the searches that you perform. We collect aggregate information site-wide on the searches done at our site, so as to be able to make our software operate more efficiently. 
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://web.archive.org/support/websearch/bin/answer.py?answer=151265&hl=en). 
 
-We will also place a "cookie" in your browser (discussed below). If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept. 
+### Information we collect
 
-## Use of Information
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful or the people who matter most to you online. 
 
-ITA Software uses non-personal aggregate, or summary, information regarding the use made of our site (i.e., what searches are being performed most frequently or at what times) in order to improve the performance of its software. If you give us information in your user profile, we may use this information in an aggregated or summary fashion - such as to determine whether our users are concentrated in certain geographical areas, or whether a large number of new users at one time may be related to a article about us in a local newspaper. We may also share this non-personal aggregated information with partners or other third parties, or we may combine it with data from third parties (such as airline industry information about airport use), to improve the quality or efficiency of our products. No such combining will be done for marketing purposes. 
+We collect information in two ways: 
 
-We may use the user profile information at an individual user level to contact you ourselves (for example, to inform you about a security concern relating to our website), or to tailor the site to suit your preferences. We do not sell individual user names, email addresses or other individual user information to third parties and will not do so in the future. 
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
 
-We use IP addresses to analyze trends, administer our Web site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. Additionally, for systems administration, detecting usage patterns and troubleshooting purposes, our web servers automatically log standard access information including browser type, access times/open mail. While information like this may be shared with third parties in aggregate form, individually identifiable information related to this data will never be shared with third parties without your explicit permission. 
+  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
 
-In addition to the circumstances described above, we may disclose individual user information if required by law or court order, if requested by a government or law enforcement authority, or if we believe in good faith belief that disclosure is otherwise necessary or advisable (such as, for example, if we reasonably believe that disclosure of the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our business or our intellectual property rights, intentionally or otherwise, or if we believe a third party could be harmed). 
+    * **Device information**
 
-## Cookies
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Google may associate your device identifiers or phone number with your Google Account. 
 
-A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie cannot read data off your hard disk or read cookie files created by other sites. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. ITA Software creates and then uses these cookie files to track your clicks as you go through the ITA Software website. Cookies can also be used to tell us whether you have visited our site previously, and to help to save and retrieve passwords used on the site and other preferences, saving you from having to re-enter this information upon every visit to the website. Cookies cannot be used by ITA Software to retrieve any personal information about you unless you have previously registered with ITA Software. ITA Software does not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you. 
+    * **Log information**
 
-You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use the ITA Software site. 
+When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
 
-## Links
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
-Our website may contain links to other sites. Please be aware that ITA Software has no control over and is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by our website. 
+When you use a location-enabled Google service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
 
-## Correcting/Updating Personal Information
+    * **Unique application numbers**
 
-If your personally identifiable information (such as your email address) changes, or if you no longer wish us to have this information on file, we will endeavor to provide a way to correct, update or remove your personal data provided to us. This can usually be done by editing your user profile at the site. You can also send us e-mail at comments@itasoftware.com. 
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
-## E-mail Links
+    * **Local storage**
 
-We use e-mail links located on the "contact us" page to allow you to contact us directly with any questions or comments you may have. 
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
 
-We read every message sent in and try to reply to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is never shared with an outside party. 
+    * **Cookies and anonymous identifiers**
 
-## Safeguards
+We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
 
-Currently, information that you may give us, such as user profile information, is not transmitted using any encryption technology. 
 
-## Choice/Opt-out
 
-Because ITA Software does not use any information collected at our site for purposes not directly related to our site, we do not give our users the opportunity to 'opt-out' of having their information used. The only personal information retained by ITA Software is the user profile of any user who chooses to create one. If you create a user profile at our site and subsequently decide that you do not want us to have any of the information contained in your profile, you can effectively 'opt-out' by editing the profile and deleting the information. Since we do not retain historical information about user profiles, deleting your profile information will have the effect of 'opting-out' of any use of your personal information. 
 
-## Notice of Changes
+### How we use information we collect
 
-We will take commercially reasonable measures to obtain written or active e-mail consent from you if ITA Software is going to be using information collected from you in a manner different from that stated at the time of collection. We will also post the changes in our privacy statement 30 days prior to a change. 
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
+
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
+
+When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
+
+We may combine personal information from one service with information, including personal information, from other Google services – for example to make it easier to share things with people you know. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
+
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+
+### Transparency and choice
+
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your ads preferences, such as which categories might interest you, using the Ads Preferences Manager. You can also opt out of certain Google advertising services here. 
+  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706) to see and adjust how your Google Profile appears to particular individuals. 
+  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
+  * [Take information](http://www.dataliberation.org/) out of many of our services.
+
+
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences. 
+
+### Information you share
+
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content. 
+
+### Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+### Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances apply: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request. 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, legal process or enforceable governmental request. 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+### Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
+  * We offer you [two step verification](http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+### Application
+
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+### Enforcement
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20120630202912id_/http://www.google.com/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+### Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+### Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
+  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
+  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
+
+
