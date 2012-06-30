@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coremetrics.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226200304id_/http%3A//www.coremetrics.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coremetrics.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630181116id_/http%3A//www.coremetrics.com/company/privacy.php) for the most accurate reproduction.*
 
 # IBM Coremetrics Privacy Policy
 
