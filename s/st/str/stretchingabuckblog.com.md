@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stretchingabuckblog.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224528id_/http%3A//www.stretchingabuckblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stretchingabuckblog.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100214id_/http%3A//www.stretchingabuckblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stretching a Buck
 
@@ -21,5 +21,6 @@ Last updated: 3/25/10
 
 If you find this information useful, please consider[ subscribing to my RSS feed](http://feedproxy.google.com/StretchingABuck) or [email newsletter](http://feedburner.google.com/fb/a/mailverify?uri=StretchingABuck). Also be sure to check out [Stretching a Buck℠ on Facebook.](http://www.facebook.com/pages/Stretching-a-Buck/140794267855) Thanks for visiting! _Note: This post may contain affiliate links. View my disclosure policy[here](http://www.stretchingabuckblog.com/disclosure-policy)._
 
+  
   
 
