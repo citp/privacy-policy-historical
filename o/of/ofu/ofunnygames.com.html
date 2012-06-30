@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ofunnygames.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231204121id_/http%3A//ofunnygames.com/about/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ofunnygames.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630120622id_/http%3A//www.ofunnygames.com/about/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://www.ofunnygames.com/about/privacy-policy.html">
@@ -7,7 +7,7 @@
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="Ben 10 games, Funny games, Scooby Doo games, Sponge Bob games">
   
-  <meta name="description" content="Ofunnygames.com - Play Ben 10 games, Funny games, Scooby Doo games, Sponge Bob games, Mario games, Sonic games online">
+  <meta name="description" content="Ofunnygames.com - Play Ben 10 games, Funny games, Scooby Doo games, SpongeBob games, Mario games, Sonic games online">
   
   <title>Privacy Policy | About</title>
   <link href="/templates/ja_edenite/favicon.ico" rel="shortcut icon" type="image/x-icon">
@@ -82,7 +82,7 @@ if(document.location.protocol=='http:'){
 <div id="ja-header" class="clearfix">
 
 			<h1 class="logo">
-			<a href="/" title="Ofunnygames.com - Play Funny Games"><span>Ofunnygames.com - Play Funny Games</span></a>
+			<a href="/" title="Ofunnygames.com - Play Funny Games - Ben 10 games - Scooby Doo games"><span>Ofunnygames.com - Play Funny Games - Ben 10 games - Scooby Doo games</span></a>
 		</h1>
 	
 	
@@ -93,9 +93,9 @@ if(document.location.protocol=='http:'){
     <b class="round_border_layer1"></b>
 </b>
 <div class="gamegara-search clearfix">
-    <form name="gameSearch" action="/search.html" method="get" onsubmit="if(document.gameSearch.keyword.value == '') return false;">
+    <form name="gameSearch" action="" method="post" onsubmit="return searchGameForm();">
     <label for="keyword"><img src="/images/search-icon.png" align="absmiddle" border="0"> Search Free Games</label>
-    <input type="text" id="keyword" name="keyword" class="game-search">
+    <input type="text" id="keyword" name="tags" class="game-search">
     <input type="submit" class="bt-search" value="">
     </form><br class="clr">
     <table cellpadding="0" cellspacing="0" width="100%">
@@ -135,6 +135,19 @@ if(document.location.protocol=='http:'){
      </tr>
     </tbody></table>
 </div>
+<script type="text/javascript">
+function searchGameForm(){
+	keyword = document.gameSearch.tags.value;
+	if(keyword == '' || keyword == 'Search') return false;
+
+	keyword = keyword.replace(/-/g, ' ');
+	keyword = keyword.replace(/[^a-zA-Z0-9]+/g, '-');
+	keyword = keyword.replace(/^-+|^\s+|-+$|\s+$/g, '');
+	document.gameSearch.action = 'http://www.ofunnygames.com/' + 'search/' + keyword.toLowerCase() + '.html';
+
+	return true;
+}
+</script>
 <br class="clr">
 
 	</div>
@@ -148,17 +161,17 @@ if(document.location.protocol=='http:'){
 	<div id="ja-mainnav">
 		<ul id="ja-cssmenu" class="clearfix">
 <li><a href="http://www.ofunnygames.com/" class="menu-item0 first-item" id="menu1" title="Home"><span class="menu-title">Home</span></a></li> 
-<li><a href="http://ofunnygames.com/17-new-game.html" class="menu-item1" id="menu72" title="New Game"><span class="menu-title">New Game</span></a></li> 
-<li><a href="http://ofunnygames.com/18-feature-game.html" class="menu-item2" id="menu73" title="Feature"><span class="menu-title">Feature</span></a></li> 
-<li><a href="http://ofunnygames.com/24-action.html" class="menu-item3" id="menu81" title="Action"><span class="menu-title">Action</span></a></li> 
-<li><a href="http://ofunnygames.com/26-racing.html" class="menu-item4" id="menu83" title="Racing"><span class="menu-title">Racing</span></a></li> 
-<li><a href="http://ofunnygames.com/25-girl-games.html" class="menu-item5" id="menu82" title="Girl games"><span class="menu-title">Girl games</span></a></li> 
-<li><a href="http://ofunnygames.com/28-fighting.html" class="menu-item6" id="menu85" title="Fighting"><span class="menu-title">Fighting</span></a></li> 
-<li><a href="http://ofunnygames.com/22-rpg.html" class="menu-item7" id="menu78" title="RPG"><span class="menu-title">RPG</span></a></li> 
-<li><a href="http://ofunnygames.com/21-shooting.html" class="menu-item8" id="menu79" title="Shooting"><span class="menu-title">Shooting</span></a></li> 
-<li><a href="http://ofunnygames.com/23-strategy.html" class="menu-item9" id="menu80" title="Strategy"><span class="menu-title">Strategy</span></a></li> 
-<li><a href="http://ofunnygames.com/29-puzzle.html" class="menu-item10" id="menu86" title="Puzzle"><span class="menu-title">Puzzle</span></a></li> 
-<li><a href="http://ofunnygames.com/search.html?tags=kid+games" class="menu-item11 last-item" id="menu89" title="Kid"><span class="menu-title">Kid</span></a></li> 
+<li><a href="/17-new-game.html" class="menu-item1" id="menu72" title="New Game"><span class="menu-title">New Game</span></a></li> 
+<li><a href="/18-feature-game.html" class="menu-item2" id="menu73" title="Feature"><span class="menu-title">Feature</span></a></li> 
+<li><a href="/24-action.html" class="menu-item3" id="menu81" title="Action"><span class="menu-title">Action</span></a></li> 
+<li><a href="/26-racing.html" class="menu-item4" id="menu83" title="Racing"><span class="menu-title">Racing</span></a></li> 
+<li><a href="/25-girl-games.html" class="menu-item5" id="menu82" title="Girl games"><span class="menu-title">Girl games</span></a></li> 
+<li><a href="/28-fighting.html" class="menu-item6" id="menu85" title="Fighting"><span class="menu-title">Fighting</span></a></li> 
+<li><a href="/22-rpg.html" class="menu-item7" id="menu78" title="RPG"><span class="menu-title">RPG</span></a></li> 
+<li><a href="/21-shooting.html" class="menu-item8" id="menu79" title="Shooting"><span class="menu-title">Shooting</span></a></li> 
+<li><a href="/23-strategy.html" class="menu-item9" id="menu80" title="Strategy"><span class="menu-title">Strategy</span></a></li> 
+<li><a href="/29-puzzle.html" class="menu-item10" id="menu86" title="Puzzle"><span class="menu-title">Puzzle</span></a></li> 
+<li><a href="/search.html?tags=kid+games" class="menu-item11 last-item" id="menu89" title="Kid"><span class="menu-title">Kid</span></a></li> 
 </ul>
 	</div>
 	
@@ -172,21 +185,24 @@ if(document.location.protocol=='http:'){
 		<table style="width: 100%;" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td align="center"><a href="/search.html?tags=ben+10"><img src="/images/stories/icon_menu/ico_50.jpg" border="0"><br>Ben 10</a><br></td>
-<td align="center"><a href="/search.html?tags=SpongeBob"><img src="/images/stories/icon_menu/ico_1.jpg" border="0"><br>SpongeBob</a></td>
-<td align="center"><a href="/search.html?tags=Sonic"><img src="/images/stories/icon_menu/ico_3.jpg" border="0"><br>Sonic</a></td>
-<td align="center"><a href="/search.html?tags=Mario"><img src="/images/stories/icon_menu/ico_5.jpg" border="0"><br>Mario</a></td>
-<td align="center"><a href="/search.html?tags=Transformers"><img src="/images/stories/icon_menu/ico_8.jpg" border="0"><br>Transformers</a></td>
-<td align="center"><a href="/search.html?tags=Zombie"><img src="/images/stories/icon_menu/ico_22.jpg" border="0"><br>Zombie</a></td>
-<td align="center"><a href="/search.html?tags=Naruto"><img src="/images/stories/icon_menu/ico_28.jpg" border="0"><br>Naruto</a></td>
-<td align="center"><a href="/search.html?tags=power+rangers"><img src="/images/stories/icon_menu/ranger_red.png" border="0"><br>Power Rangers</a></td>
-<td align="center"><a href="/search.html?tags=Ninja"><img src="/images/stories/icon_menu/ico_45.jpg" border="0"><br>Ninja</a></td>
-<td align="center"><a href="/search.html?tags=Batman"><img src="/images/stories/icon_menu/ico_51.jpg" border="0"><br>Batman</a></td>
-<td align="center"><a href="/search.html?tags=Dora"><img src="/images/stories/icon_menu/ico_59.jpg" border="0"><br>Dora</a></td>
-<td align="center"><a href="/search.html?keyword=dragon"><img src="/images/stories/icon_menu/ico_36.jpg" border="0"><br>Dragon ball</a></td>
+<td align="center"><a href="/search/ben-10.html"><img alt="Ben 10" src="/images/stories/icon_menu/ico_50.jpg" border="0"><br>Ben 10</a><br></td>
+<td align="center"><a href="/search/spongebob.html"><img alt="Spongebob" src="/images/stories/icon_menu/ico_1.jpg" border="0"><br>SpongeBob</a></td>
+<td align="center"><a href="/search/sonic.html"><img alt="Sonic" src="/images/stories/icon_menu/ico_3.jpg" border="0"><br>Sonic</a></td>
+<td align="center"><a href="/search/mario.html"><img alt="Mario" src="/images/stories/icon_menu/ico_5.jpg" border="0"><br>Mario</a></td>
+<td align="center"><a href="/search/transformers.html"><img alt="Transformers" src="/images/stories/icon_menu/ico_8.jpg" border="0"><br>Transformers</a></td>
+<td align="center"><a href="/search/zombie.html"><img alt="Zombie" src="/images/stories/icon_menu/ico_22.jpg" border="0"><br>Zombie</a></td>
+<td align="center"><a href="/search/naruto.html"><img alt="Naruto" src="/images/stories/icon_menu/ico_28.jpg" border="0"><br>Naruto</a></td>
+<td align="center"><a href="/search/power-rangers.html"><img alt="Power Rangers" src="/images/stories/icon_menu/ranger_red.png" border="0"><br>Power Rangers</a></td>
+<td align="center"><a href="/search/ninja.html"><img alt="Ninja" src="/images/stories/icon_menu/ico_45.jpg" border="0"><br>Ninja</a></td>
+<td align="center"><a href="/search/batman.html"><img alt="Batman" src="/images/stories/icon_menu/ico_51.jpg" border="0"><br>Batman</a></td>
+<td align="center"><a href="/search/dora.html"><img alt="Dora" src="/images/stories/icon_menu/ico_59.jpg" border="0"><br>Dora</a></td>
+<td align="center"><a href="/search/dragon-ball.html"><img alt="Dragon ball" src="/images/stories/icon_menu/ico_36.jpg" border="0"><br>Dragon ball</a></td>
 </tr>
 </tbody>
 </table>
+<br> <!-- BEGIN STANDARD TAG - 728 x 90 - ofunnygames.com: Run-of-site - DO NOT MODIFY -->
+<script src="http://ad.xtendmedia.com/st?ad_type=ad&amp;ad_size=728x90&amp;section=2873363" type="text/javascript"></script>
+<!-- END TAG -->
 	</div>
 
 <div id="ja-containerwrap-fl">
@@ -233,7 +249,7 @@ if(document.location.protocol=='http:'){
 <div style="margin-left:0; margin-right:0; text-align:left; clear: both;" class="realtion-article"><hr color="maroon" width="100%" style="display: none"><div id="neweritemtitle">Newer news items:</div><ul id="neweritemlist">
 <li><a href="/about/trademark-information.html" title="Trademark Information">Trademark Information</a></li>
 <li><a href="/about/invite-google-plus.html" title="Invite Google Plus">Invite Google Plus</a></li>
-<li><a href="/about/gplus.html" title="Trying Google Plus">Trying Google Plus</a></li>
+<li><a href="/about/trying-google-plus.html" title="Trying Google Plus">Trying Google Plus</a></li>
 <li><a href="/about/submit-your-game.html" title="Submit your game">Submit your game</a></li>
 <li><a href="/about/partner-sites.html" title="Partner sites">Partner sites</a></li>
 <li><a href="/about/contact-us.html" title="Contact us">Contact us</a></li>
@@ -262,16 +278,16 @@ if(document.location.protocol=='http:'){
 var cpmstar_rnd=Math.round(Math.random()*999999);
 var cpmstar_pid=23297;
 document.writeln("<SCR"+"IPT language='Javascript' src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
-</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=23297&amp;script=1&amp;rnd=431524"></script>
+</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=23297&amp;script=1&amp;rnd=811865"></script>
 
 <hr>
 <!-- ValueClick Media 300x250 Medium Rectangle CODE for Free Online Games -->
 <script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:61778,media_id:6,media_type:8,version:"1.1"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=61778&m=6&tp=8&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:61778,media_id:6,media_type:8,version:"1.1"});} catch(e){document.write('<scr' + 'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=61778&m=6&tp=8&d=j&t=n&exc=1"></scr' + 'ipt>');}}());</script><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=61778&amp;m=6&amp;tp=8&amp;d=j&amp;t=n&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=61778&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=61778&m=6&tp=8&d=s&c=1&vcm_acv=1.1" width=300 height=250 border=1></a></noscript>
 <!-- ValueClick Media 300x250 Medium Rectangle CODE for Free Online Games -->		</div>
 			<div class="moduletable_ search_defense">
-					<h3>Advertising</h3>
+					<h3>Advertisement</h3>
 					<script type="text/javascript"><!--
-google_ad_client = "pub-0661418219249320";
+google_ad_client = "ca-pub-0661418219249320";
 /* 300x250, created 17/06/11 */
 google_ad_slot = "4348017255";
 google_ad_width = 300;
@@ -281,17 +297,19 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>		</div>
 			<div class="moduletable">
+					<!-- BEGIN STANDARD TAG - 300 x 250 - ofunnygames.com: Run-of-site - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad.xtendmedia.com/st?ad_type=ad&amp;ad_size=300x250&amp;section=2873363"></script>
+<!-- END TAG -->		</div>
+			<div class="moduletable">
+					<a href="/search/ben-10-games.html"><img alt="Ben 10 Games" src="/images/stories/Quang_cao/ben-10.jpg"></a><br>		</div>
+			<div class="moduletable">
+					<script type="text/javascript" src="http://ad2games.com/slave.php?w=16837_1458098012"></script>		</div>
+			<div class="moduletable">
+					<a href="/search/spongebob-games.html"><img alt="Spongebob Games" src="/images/stories/Quang_cao/spongebob.jpg"></a><a href="/action-games/categories/search.html?tags=Spongebob+games"><br></a>		</div>
+			<div class="moduletable">
 					<!-- ValueClick Media 300x250 Medium Rectangle CODE for Free Online Games -->
-<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:61778,media_id:6,media_type:8,version:"1.0"});} catch(e){}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:61778,media_id:6,media_type:8,version:"1.0"});} catch(e){}}());</script><noscript><a href="http://media.fastclick.net/w/click.here?sid=61778&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=61778&m=6&tp=8&d=s&c=1&vcm_acv=1.0" width=300 height=250 border=1></a></noscript>
+<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:61778,media_id:6,media_type:8,version:"1.2"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=61778&m=6&tp=8&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:61778,media_id:6,media_type:8,version:"1.2"});} catch(e){document.write('<scr' + 'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=61778&m=6&tp=8&d=j&t=n&exc=1"></scr' + 'ipt>');}}());</script><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=61778&amp;m=6&amp;tp=8&amp;d=j&amp;t=n&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=61778&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=61778&m=6&tp=8&d=s&c=1&vcm_acv=1.2" width=300 height=250 border=1></a></noscript>
 <!-- ValueClick Media 300x250 Medium Rectangle CODE for Free Online Games -->		</div>
-			<div class="moduletable">
-					<a href="/search.html?tags=Ben+10+games"><img src="/images/stories/Quang_cao/ben-10.jpg"></a><br>		</div>
-			<div class="moduletable">
-					<embed width="300" height="120" type="application/x-shockwave-flash" base="http://ofunnygames.com/images/banners/" name="a2fgameid" src="http://ofunnygames.com/images/banners/scoobydoo.swf" pluginspage="http://www.macromedia.com/go/getflashplayer">		</div>
-			<div class="moduletable">
-					<a href="/search.html?tags=SpongeBob+games"><img src="/images/stories/Quang_cao/spongebob.jpg"></a><a href="/action-games/categories/search.html?tags=Spongebob+games"><br></a>		</div>
-			<div class="moduletable">
-					<script type="text/javascript" src="http://ad2games.com/slave.php?w=15587_759001038"></script>		</div>
 			<div class="moduletable">
 					<a href="/search.html?tags=power+rangers+games"><img src="/images/stories/Quang_cao/power-ranger-ads.jpg"></a> <br>
 <p>
@@ -299,7 +317,7 @@ google_ad_height = 250;
 var cpmstar_rnd=Math.round(Math.random()*999999);
 var cpmstar_pid=23297;
 document.writeln("<SCR"+"IPT language='Javascript' src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
-</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=23297&amp;script=1&amp;rnd=429007"></script>
+</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=23297&amp;script=1&amp;rnd=983998"></script>
 
 
 <!-- ValueClick Media 300x250 Medium Rectangle CODE for Free Online Games -->
@@ -320,17 +338,30 @@ document.writeln("<SCR"+"IPT language='Javascript' src='http://server.cpmstar.co
 </div>
 <!-- END: PATHWAY -->
 
+<!-- BEGIN: BOTTOM SPOTLIGHT -->
+<div id="ja-botsl" class="clearfix">
+
+    <div class="ja-box-full" style="width: ;">
+		<script type="text/javascript" src="http://ad2games.com/slave.php?w=16836_712048266"></script>
+  </div>
+  
+  
+    
+    
+    
+  
+</div>
+<!-- END: BOTTOM SPOTLIGHT -->
 
 <!-- BEGIN: FOOTER -->
 <div id="ja-footer" class="clearfix">
 
 	<ul id="mainlevel-nav"><li><a href="/about/about-us.html" class="mainlevel-nav">About us</a></li><li><a href="/about/terms-of-service.html" class="mainlevel-nav">Terms of Service</a></li><li><a href="/about/privacy-policy.html" class="mainlevel-nav">Privacy Policy</a></li><li><a href="/about/contact-us.html" class="mainlevel-nav">Contact us</a></li><li><a href="/about/submit-your-game.html" class="mainlevel-nav">Submit your games</a></li><li><a href="/about/partner-sites.html" class="mainlevel-nav">Partner sites</a></li><li><a href="/about/trademark-information.html" class="mainlevel-nav">Trademark Information</a></li></ul>
-	<p><a href="/undefined/">Ofunnygames.com</a> is the premier social gaming network where people can make friends, relax, socialize, and play new games everyday.<br>With an ever-expanding showcase of <a href="/search.html?tags=funny+games">funny games</a>, <a href="/undefined/">Ofunnygames.com</a> is regarded for its high quality games suitable for the entire family. Where you can play <a href="/search.html?tags=Ben+10+games">Ben 10 Games</a>, <a href="/search.html?tags=power+rangers+games">Power rangers Games</a>, <a href="/search.html?tags=Mario+games">Mario Games</a>, <a href="/search.html?tags=Sonic+games">Sonic Games</a>, <a href="/search.html?tags=SpongeBob+games">Spongebob Games</a>, <a href="/search.html?tags=Scooby+Doo+games">Scooby doo Games</a>, <a href="/search.html?tags=dora+games">Dora Games</a> ... and thousand of <a href="/search.html?keyword=free+online+games">Free Online Games</a></p>
+	<p><a href="/undefined/">Ofunnygames.com</a> is the premier social gaming network where people can make friends, relax, socialize, and play new games everyday.<br>With an ever-expanding showcase of <a href="/search.html?tags=funny+games">funny games</a>, <a href="/undefined/">Ofunnygames.com</a> is regarded for its high quality games suitable for the entire family. Where you can play <a href="/search/ben-10-games.html">Ben 10 Games</a>, <a href="/search/power-rangers-games.html">Power rangers Games</a>, <a href="/search/mario-games.html">Mario Games</a>, <a href="/search/sonic-games.html">Sonic Games</a>, <a href="/search/spongebob-games.html">Spongebob Games</a>, <a href="/search/scooby-doo-games.html">Scooby doo Games</a>, <a href="/search/dora-games.html">Dora Games</a> <a href="http://www.myplayinggame.com">Playing Game</a> ... and thousand of <a href="/undefined/">Free Online Games</a></p>
 <p><span style="color: #008000;"><strong>All flash games on <a href="/undefined/">Ofunnygames.com</a> are copyrighted or trademarked by  their respective owners or authors.</strong></span><br>© Copyright 2011 <a href="/index.php">Ofunnygames.com</a>, Inc. All rights reserved.</p>
 <p>Play <a target="_blank" href="http://gameglobo.com">Spongebob games</a> -<a target="_blank" href="http://gameglobo.com"> </a><a target="_blank" href="http://www.gameslist.com/">Free Games Online</a></p>
-<p><span style="color: #ff9900;"></span><a href="http://www.gamerightnow.com/" target="_blank">Free Games</a> <a href="http://www.gamechics.com/" target="_blank">Flash Games</a> <a href="http://www.addictinggames360.com" target="_blank">Addicting Games </a> <a href="http://www.gamesfree.ca" target="_blank">Free Games </a> <a href="http://www.gamesgirl.ca/" target="_blank">Girl Games </a> <a href="http://www.sportgamesarena.com/baseball-games/" target="_blank">Baseball Games </a> <a target="_blank" href="http://www.racing-games.com">Racing Games</a> - <a target="_blank" href="http://cakgames.com/">Cakgames - </a><a target="_blank" href="http://www.racinggames9.com">Racing Games </a><a target="_blank" href="http://www.jugargratis.org">Juegos</a> - <a target="_blank" href="http://www.spillpokernorsk.com/" rel="follow" title=" Poker Online ">Poker Online</a> - <a target="_blank" href="http://www.bedstecasinospil.com" rel="follow" title=" Online Casino ">Online Casino </a>- <a target="_blank" href="http://www.jogacasino.com/" rel="follow" title=" Casino Online ">Casino Online </a>- <a target="_blank" href="http://casinoonline.org.pt/" rel="follow" title=" Casino Online ">Casino Online </a>- <a target="_blank" href="http://www.jogadesporto.com/" rel="follow" title=" Apostas Desportivas ">Apostas Desportivas</a> - <a target="_blank" href="http://www.myhappygames.com/"><span lang="en-US">MyHappyGames</span></a></p>
-<a target="_blank" href="http://www.jugargratis.org"></a>
-<p><span style="color: #ff9900;"><a href="/search.html?keyword=funny+games"></a><a href="/search.html?keyword=free+games">Play Free Games</a> , <a href="/search.html?tags=batman+games">Batman games</a>, <a href="/search.html?tags=spiderman+games">Spiderman games</a>, <a href="/search.html?keyword=arcade">arcade games</a>, <a href="/search.html?tags=sport+games">sports games</a>, <a href="/search.html?tags=dress+games">dress games</a> , and more....</span></p>
+<p><span style="color: #ff9900;"></span> <a href="http://www.archivegame.com" target="_blank">Cool Games</a> | <a target="_blank" href="http://gamerightnow.com">Spongebob games</a> | <a href="http://www.gamechics.com/" target="_blank">Power Rangers Games</a> | <a href="http://www.gamebibi.com/" target="_blank">Funny Games</a> | <a href="http://www.addictinggames360.com" target="_blank">Addicting Games </a> | <a href="http://www.gamesfree.ca" target="_blank">Free Games </a> | <a href="http://www.gamesgirl.ca/" target="_blank">Girl Games </a> | <a href="http://www.sportgamesarena.com/baseball-games/" target="_blank">Baseball Games </a> | <a target="_blank" href="http://www.racing-games.com">Racing Games</a> | <a target="_blank" href="http://cakgames.com/">Cakgames | </a><a target="_blank" href="http://www.racinggames9.com">Racing Games </a> | <a target="_blank" href="http://www.jugargratis.org">Juegos</a> | <a target="_blank" href="http://www.myhappygames.com/"><span lang="en-US">MyHappyGames</span></a> | <a target="_blank" href="http://www.meccabingo.com/Slots/">Online Slots</a> |&nbsp; <a target="_blank" href="http://www.dressupgames8.com/">barbie dress up games</a> | <a target="_blank" href="http://www.hollywoodgames.net" title="Celebrities Games">Celebrities Games</a> | <a href="http://www.topgiochicasino.com/" target="_blank" title="Casino online">casino online</a> | <a target="_blank" href="http://www.bingo-jogos.com/"><span style="font-size: 12pt;"></span></a><a target="_blank" href="http://www.jeux-casinos-en-ligne.com/"><span style="font-size: 12pt;">casino  en ligne</span></a> | <a target="_blank" href="http://www.gamestiny.com/">Sonic Games</a> | <a target="_blank" href="http://www.games2rule.com">Games2Rule</a> | <a target="_blank" href="http://www.games2dress.com">Games2dress</a> | <a target="_blank" href="http://www.dora-games.net/">Dora Games</a> | <a target="_blank" href="http://www.yy2k.com">Online Games</a></p>
+<p><span style="color: #ff9900;"><a href="/httP;/www.ofunnygames.com">Play Free Games</a> , <a href="/search/batman-games.html">Batman games</a>, <a href="/search/spiderman-games.html">Spiderman games</a>, <a href="/search/arcade-games.html">arcade games</a>, <a href="/search/sport-games.html">sport games</a>, <a href="/search/dress-games.html">dress games</a> , </span><a target="_blank" href="http://best-androidgames.com/">Best                 Android Games</a><span style="color: #ff9900;"> , </span><a target="_blank" href="http://androidappsgames.com/">Free Android Apps</a><span style="color: #ff9900;"> , and more....</span></p>
 
 </div>
 <!-- END: FOOTER -->
@@ -371,7 +402,7 @@ document.writeln("<SCR"+"IPT language='Javascript' src='http://server.cpmstar.co
 
 	document.writeln("<scr" + "ipt type='text/javascript' src='http://server.cpmstar.com/view.aspx?poolid=" + cpmstar_pid + "&script=1&rnd=" + cpmstar_rnd + "'><\/scr" + "ipt>");
 
-	</script><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=17548&amp;script=1&amp;rnd=275314"></script>
+	</script><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=17548&amp;script=1&amp;rnd=619820"></script>
 
 
 
