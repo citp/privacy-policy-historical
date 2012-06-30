@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingphotography.com.ph privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130111038id_/http%3A//weddingphotography.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingphotography.com.ph privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630192524id_/http%3A//weddingphotography.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wedding Photography Design Philippines
+# Privacy Policy | Wedding Photography Design
 
 At **Wedding Photography Design (WPD) Blog** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.WeddingPhotography.com.ph and how it is used.
 
