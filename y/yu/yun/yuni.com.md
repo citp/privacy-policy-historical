@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuni.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193413id_/http%3A//www.yuni.com/contact/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuni.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225010id_/http%3A//www.yuni.com/contact/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Yuni Words of Wisdom
 
@@ -30,4 +30,4 @@ This site gives users the options for removing their information from our databa
 
 The relevant instructions for doing this can be found within each service. Users may change this information at any time and as often as necessary.
 
-**9\. CONTACTING THE WEB SITE.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [email us](https://web.archive.org/web/20111101193413id_/http%3A//www.yuni.com/contact/index.htm).
+**9\. CONTACTING THE WEB SITE.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [email us](https://web.archive.org/web/20120630225010id_/http%3A//www.yuni.com/contact/index.htm).
