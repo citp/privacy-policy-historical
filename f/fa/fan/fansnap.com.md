@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224105351id_/http%3A//www.fansnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630093229id_/http%3A//www.fansnap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FanSnap - Ticket Search
 
@@ -38,7 +38,7 @@ If you contact us, we also will collect the information you provide that details
 
 #### What Organization Is Collecting the Information
 
-NexTag, Inc., a Delaware corporation, through its FanSnap unit, operates and manages the FanSnap Site, www.fansnap.com. More information about FanSnap may be found at the About FanSnap links located on the bottom of each page of the FanSnap Site.
+Nextag, Inc., a Delaware corporation, through its FanSnap unit, operates and manages the FanSnap Site, www.fansnap.com. More information about FanSnap may be found at the About FanSnap links located on the bottom of each page of the FanSnap Site.
 
 #### How Your Information Is Protected
 
@@ -120,6 +120,6 @@ If you have questions or concerns regarding your privacy or security on the FanS
 
 #### TRUSTe
 
-NexTag, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site (www.fansnap.com) wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+Nextag, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site (www.fansnap.com) wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact us at [privacy@fansnap.com](mailto:privacy@fansnap.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
