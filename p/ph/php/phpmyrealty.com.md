@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpmyrealty.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223951id_/http%3A//www.phpmyrealty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmyrealty.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630102043id_/http%3A//www.phpmyrealty.com/privacy.html) for the most accurate reproduction.*
 
 # phpMyRealty.com - Privacy Policy - php/SQL Real Estate Classifieds Directory, php Real Estate Listings Directory, Realtors / Agents Directory Script
 
@@ -8,9 +8,9 @@
 **Testimonials**  
 
 
-My wife and I are very pleased with your work, and the whole website has come up fine. It took more time than we thought, but I guess there were so many little modifications, so that is fair. THANKS for your good work, and we would heartily recommend you to anyone seeking a property website. Its come up looking fantastic. You are excellent at what you do.
+I have looked over many realty listing scripts in the past and this one is the best that I have found. It is easy to work with and has an attractive "out of the box" look and feel. Your support is also excellent! Thank you for a great product!
 
-\- Renato
+\- Randy Nicholas, HRG Webmaster
 
   
 [Read More Testimonials](http://www.phpmyrealty.com/testimonials.html)
