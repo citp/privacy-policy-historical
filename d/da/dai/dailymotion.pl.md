@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231141449id_/http%3A//www.dailymotion.com/us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630122849id_/http%3A//www.dailymotion.com/legal/privacy) for the most accurate reproduction.*
 
-# Dailymotion - Online Videos, Music, and Movies. Watch a Video Today!
+# Dailymotion - Watch, publish, share videos
 
 This document sets out Dailymotion’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [General Terms of Use](https://web.archive.org/us/legal/terms).
 
