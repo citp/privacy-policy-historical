@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221050118id_/http%3A//www.toyota.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630030626id_/http%3A//www.toyota.com/help/privacy.html) for the most accurate reproduction.*
 
 # Toyota Help
 
-**Toyota Privacy Policy – Summary** This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated October 6th, 2011 
+**Personal Information Sharing Practices for 2011** During 2011, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+Learn more 
+
+**Toyota Privacy Policy – Summary** This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated December 6th, 2011 
 
 ###### PRIVACY POLICY
 
-Last Updated October 6, 2011
+Last Updated December 6, 2011
 
 (Continental United States Only)
 
@@ -134,7 +137,7 @@ Toyota Motor Sales, U.S.A., Inc.
 Dept. WC11  
 Torrance, CA 90501  
 Please click on the link below to view a list of authorized Toyota dealers.  
-[Toyota dealers](http://www.toyota.com/dealers/)
+[Toyota dealers](https://web.archive.org/pdfs/masterdealer120611.pdf)
 
 You may also obtain an update on our information practices by sending a request to:
 
