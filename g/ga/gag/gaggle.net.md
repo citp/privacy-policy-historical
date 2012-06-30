@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109185448id_/https%3A//gaggle.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630215630id_/https%3A//www.gaggle.net/home/privacy) for the most accurate reproduction.*
 
 # Gaggle - Safe Online Learning Tools
 
@@ -42,7 +42,7 @@ Gaggle uses third-party advertising companies to serve ads when you visit the We
 
 ### Demographic Data
 
-In the future, advertising shown to users may be based upon demographic data that has been collected during the sign up process. Such data would include geographic location, age, and gender. Targeting based upon this data will enable us to ensure that advertisements are appropriate for the age of the user and of general interest to users fitting a specific profile. We welcome your feedback on this topic and encourage you to [email us](mailto:admin@gaggle.net) your thoughts.
+In the future, advertising shown to users may be based upon demographic data that has been collected during the sign up process. Such data would include geographic location, age, and gender. Targeting based upon this data will enable us to ensure that advertisements are appropriate for the age of the user and of general interest to users fitting a specific profile. We welcome your feedback on this topic and encourage you to [email us](mailto:support@gaggle.net) your thoughts.
 
 ### Security
 
@@ -70,7 +70,7 @@ If we decide to change our privacy policy we will post those changes here so tha
 
 This site gives users the following options for removing their information from our database, to not receive future communications or to no longer receive our service.
 
-  * You can send email to [admin@gaggle.net](mailto:admin@gaggle.net)
+  * You can send email to [support@gaggle.net](mailto:support@gaggle.net)
   * You can send mail to the following postal address: PO Box 1352 Bloomington, IL 61702-1352 
   * You can call the following telephone number: 800-288-7750 
 
@@ -80,7 +80,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  * You can send email to [admin@gaggle.net](mailto:admin@gaggle.net)
+  * You can send email to [support@gaggle.net](mailto:support@gaggle.net)
   * You can send mail to the following postal address: PO Box 1352 Bloomington, IL 61702-1352 
   * You can call the following telephone number: 800-288-7750 
 
@@ -94,7 +94,7 @@ Follow this link for information on [Gaggle's Safe Harbor Statement and Registra
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site:
 
-  * You can send email to [admin@gaggle.net](mailto:admin@gaggle.net)
+  * You can send email to [support@gaggle.net](mailto:support@gaggle.net)
   * You can send mail to the following postal address: PO Box 1352 Bloomington, IL 61702-1352 
   * You can call the following telephone number: 800-288-7750 
 
