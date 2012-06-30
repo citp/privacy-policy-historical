@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreambloggers.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220201146id_/http%3A//www.dreambloggers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreambloggers.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630020813id_/http%3A//www.dreambloggers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dream Bloggers
 
