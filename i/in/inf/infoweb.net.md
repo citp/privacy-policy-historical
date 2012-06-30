@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infoweb.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213257id_/http%3A//infoweb.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoweb.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232829id_/http%3A//infoweb.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy: InfoWeb.net Information Directory
 
-You may also wish to visit the [Policy Page](https://web.archive.org/web/20111231213257id_/http%3A//infoweb.net/policy.php) for policies other than privacy.  
+You may also wish to visit the [Policy Page](https://web.archive.org/web/20120630232829id_/http%3A//infoweb.net/policy.php) for policies other than privacy.  
 
 
 ## Privacy, Email, and Spam Statement for infoweb.net Domain
@@ -46,7 +46,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. You can send email via the email panel on the right-hand side of our home page, or by emailing the address that can be found on our [contact page](http://www.mnema.com/contact.html). To prevent spam, direct links to our email address(es) is not included in HTML on our site. We apologize for the inconvenience caused by spammers. 
-  2. send mail to the following postal address:  P.O. Box 19, Sparkill, NY 10976 
+  2. send mail to the following postal address:  Unimatics, Inc. 101 Convention Center Drive STE 700 Las Vegas, NV 89109 
 
 
 
@@ -59,9 +59,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via: 
 
   1. You can send email via the email panel on the right-hand side of our home page, or by emailing the address that can be found on our [contact page](http://www.mnema.com/contact.html). To prevent spam, direct links to our email address(es) is not included in HTML on our site. We apologize for the inconvenience caused by spammers. 
-  2. send mail to the following postal address:  InfoWeb.net, P.O. Box 19, Sparkill, NY 10976 
+  2. send mail to the following postal address:  Unimatics, Inc. 101 Convention Center Drive STE 700 Las Vegas, NV 89109 
 
 
 
-Privacy Policy 12/8/2004 revised 3/10/2008   
-(C) 2005-2008, InfoWeb.net 
+Privacy Policy 12/8/2004 revised 11/10/2011   
+(C) 2005-2012, InfoWeb.net 
