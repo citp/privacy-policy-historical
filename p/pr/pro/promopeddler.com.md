@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116154044id_/http%3A//www.promopeddler.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630115051id_/http%3A//www.promopeddler.com/company/privacy) for the most accurate reproduction.*
 
 # Promopeddler.com
-
-| 
 
 ## Privacy Notice
 
@@ -33,6 +31,4 @@ Sincerely,
 
 ### Don McBride  
 General Manager  
-Promopeddler.com  
-  
----|---
+Promopeddler.com
