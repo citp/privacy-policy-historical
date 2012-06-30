@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225133419id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630185105id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TruckersReport.com
 
@@ -11,7 +11,7 @@ At www.thetruckersreport.com, the privacy of our visitors is of extreme importan
 All automated email from TheTruckersReport.com comes with instructions on how to unsubscribe from our mailing list.  If you wish to unsubscribe but are not able to follow the instructions, please email your unsubscribe request to admin@truckersreport.com and your email address will be manually removed.
 
 **Log Files**  
-Like many other Web sites, www.thetruckersreport.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, www.thetruckersreport.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information.
 
 **Cookies and Web Beacons**  
 www.thetruckersreport.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
@@ -62,7 +62,7 @@ With respect to cookies: We use cookies to store visitors preferences, ensure th
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
@@ -70,6 +70,6 @@ Upon request we provide site visitors with access to a description of informatio
 
 Consumers can access this information by e-mail us at the above address.
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
+With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
