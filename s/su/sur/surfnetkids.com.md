@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223110020id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630134357id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy: Surfing the Net with Kids
 
@@ -14,7 +14,7 @@ IP addresses and cookies are used to accurately serve banner ads, to assure that
 
 Google, a third party vendor, uses cookies to serve ads on our sites. Google's use of the DART cookie enables it to serve ads to our users based on their visits to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We also partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [Valueclick Member Privacy](http://www.valueclickmedia.com/member_privacy.shtml).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 Surfnetkids.com, Inc.  
 991C Lomas Santa Fe Drive #415  
