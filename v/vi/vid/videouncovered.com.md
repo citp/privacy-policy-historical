@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videouncovered.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220604id_/http%3A//www.ricepv.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videouncovered.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630123407id_/http%3A//www.ricepv.com/static/privacy) for the most accurate reproduction.*
 
 # Pure PV power
 
