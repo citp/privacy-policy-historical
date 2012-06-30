@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthymen.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213123id_/http%3A//wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthymen.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112121id_/http%3A//www.wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.*
 
 # WealthyMen | Privacy Policy
 
