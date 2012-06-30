@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowerypresents.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227092637id_/http%3A//www.bowerypresents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowerypresents.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630091943id_/http%3A//www.bowerypresents.com/privacy) for the most accurate reproduction.*
 
 # The Bowery Presents » Privacy
 
