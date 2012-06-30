@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voip-news.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227002532id_/http%3A//www.voip-news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip-news.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630092713id_/http%3A//www.voip-news.com/privacy) for the most accurate reproduction.*
 
 # Voip-news.com Terms and Conditions
 
