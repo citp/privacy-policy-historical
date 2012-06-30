@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drpepper.com privacy policy that was archived on 2011-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202050727id_/http%3A//www.drpepper.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drpepper.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630191817id_/http%3A//www.drpepper.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 
@@ -16,8 +16,10 @@
 	</script>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
+	
+			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+			
 	<link type="text/css" href="/style/global.css" rel="stylesheet">
 	<!--[if IE]>
 	<link type="text/css" href="/style/global_ie.css" rel="stylesheet" />
@@ -29,8 +31,13 @@
 	<![endif]-->
     <link rel="shortcut icon" href="/image/favicon.ico" type="image/x-icon"> 
 	
-			<script type="text/javascript" src="/script/jquery/jquery-1.3.min.js"></script>
+			<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
 	    
+		<script src="/__/account/2.0/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+		<script src="/__/account/2.0/json2.js"></script>
+		<script src="/__/account/2.0/CaptureIntegration.js"></script>
+		<script type="text/javascript" src="https://dpsg.janraincapture.com/cdn/javascripts/capture_client.js"></script>
+		<link rel="stylesheet" href="/__/account/2.0/fancybox/jquery.fancybox-1.3.4.css">
 	<script type="text/javascript" src="/script/jquery/jquery.cookie.js"></script>
 	<script type="text/javascript" src="/script/jquery/jquery.scrollTo-min.js"></script>
 	<script type="text/javascript" src="/script/jquery/jquery.ifixpng.js"></script>
@@ -42,8 +49,10 @@
 
 	<script type="text/javascript" src="/script/drpepper/Util.js"></script>
 	<script type="text/javascript" src="/script/drpepper/Site.js"></script>
-
-	
+		
+		
+		
+		
 	<script type="text/javascript">
 	
 		var g_bRunPNGFix;
@@ -98,6 +107,29 @@
 	<meta http-equiv="keywords" content="">
 	<link rel="image_src" href="http://www.drpepper.com/image/logo_dp.png">
 
+    <!-- Google Analytics -->
+	<script type="text/javascript">
+		if (location.hostname == "www.drpepper.com" || location.hostname == "drpepper.com") { 
+			gaAccount = "UA-22720733-1"; 
+		}
+		else if (location.hostname == "es.drpepper.com") { 
+			gaAccount = "UA-22720733-8"; //send data to drpepper.com (Spanish) profile
+	    }
+		else { 
+			gaAccount = "UA-22720733-7"; //send data to staging.drpepper.com profile
+		}
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', gaAccount]);
+		
+		_gaq.push(['_trackPageview']);		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
 </head>
 
 <body>
@@ -109,7 +141,7 @@
 			</div>
 		</div>
 	</noscript>
-	<div id="missing-flash" class="missing" style="display: block;">
+	<div id="missing-flash" class="missing">
 		<div class="caption">
 			This Web site requires Adobe Flash Player 9.0.124 or higher to display properly.<br>
 			Please <a href="http://get.adobe.com/flashplayer/" target="_blank">download and install it here</a>. Then refresh this page to try again.
@@ -124,18 +156,18 @@
 		<div id="main-menu">
 			<a class="item home" href="/" title="Dr Pepper Home"></a>
 			<a class="item products " href="/products/" title="Products"></a>
-			<a class="item promotions " href="/promotions/" title="Promotions"></a>
+						<a class="item promotions " href="/promotions/" title="Promotions"></a>
 			<a class="item entertainment " href="/entertainment/" title="Entertainment"></a>
 			<a class="item about " href="/about/" title="About"></a>
 			<a class="item video " href="/video/" title="Video"></a>
 			<a class="item store " href="http://dp.pac-inc.com" title="Store" onclick="var s=s_gi(s_account);s.tl(this,'o','Dr Pepper Store');"></a>
 			<a class="item community " href="/community/" title="Community"></a>
 			
-						
-			<a id="myaccount-link" style="display: none;" class="my-account " href="/myaccount/" target="_blank" title="My Account"></a>
-			<a id="register-link" style="display: block;" class="sign-in " href="/signin/" title="Sign In"></a>
-			<a id="signin-link" style="display: block;" class="pngfix sign-in " href="/signin/" title="Signin"></a>
-						<a style="display: none;" id="signout-link" href="/signout/" title="Sign Out"></a>        
+			
+			<a id="myaccount-link" style="display: none;" class="my-account captureIframe" href="http://www.drpepper.com/__/account/2.0/authenticated_link_proxy.php?dest=https%3A%2F%2Fdpsg.janraincapture.com%2Foauth%2Fprofile%3Fredirect_uri%3Dhttp%253A%252F%252Fwww.drpepper.com%252Ftemplates%252Fdrpepper_oauth_redirect.php%26state%3Dprofile_edit%26client_id%3Drjvuxfn3ce7v64cavcu3djbgc4n7smgu%26xd_receiver%3Dhttp%253A%252F%252Fwww.drpepper.com%26callback%3DCaptureIntegration.editProfileListener" target="_blank" title="Edit Account"></a>
+			<a id="register-link" style="display: none;" class="sign-in " href="/signin/" title="Sign In"></a>
+			<a id="signin-link" style="display: block;" class="pngfix captureIframe sign-in " href="https://dpsg.janraincapture.com/oauth/signin?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.drpepper.com%2Ftemplates%2Fdrpepper_oauth_redirect.php&amp;state=signin&amp;client_id=rjvuxfn3ce7v64cavcu3djbgc4n7smgu&amp;xd_receiver=http%3A%2F%2Fwww.drpepper.com&amp;recover_password_callback=CaptureIntegration.passwordRequestedListener" title="Signin"></a>
+						<a style="display: none;" id="signout-link" href="/signout/?redirect=privacy" title="Sign Out"></a>        
 				</div>
 		<div id="main-area">
 						<div id="footer-page-backdrop"></div>
@@ -248,8 +280,14 @@
 						<div id="footer">
 				<div class="backdrop"></div>
 				<div class="container">
-					<a href="/privacy/" title="Privacy Policy">PRIVACY POLICY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofuse/" title="Terms of Use">TERMS OF USE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/accessibility/" title="Accessibility">ACCESSIBILITY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contactus/" title="Contact Us">CONTACT US</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap/" title="Site Map">SITE MAP</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/text/" title="Text Site">TEXT SITE</a><br>
-									DR PEPPER is a registered trademark of Dr Pepper/Seven Up, Inc. ©2011 Dr Pepper/Seven Up, Inc.
+					<a href="/privacy/" title="Privacy Policy">PRIVACY POLICY</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/termsofuse/" title="Terms of Use">TERMS OF USE</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/accessibility/" title="Accessibility">ACCESSIBILITY</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/contactus/" title="Contact Us">CONTACT US</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/sitemap/" title="Site Map">SITE MAP</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/text/" title="Text Site">TEXT SITE</a>
+										<br>
+									DR PEPPER is a registered trademark of Dr Pepper/Seven Up, Inc. ©2012 Dr Pepper/Seven Up, Inc.
 								</div>
 			</div>
 		</div>
@@ -261,34 +299,11 @@
 
 			
 
-		<!-- SiteCatalyst code version: H.13. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
-	<script type="text/javascript" language="JavaScript">
-		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-		var s_code=s.t();if(s_code)document.write(s_code);
-	</script>
-	<!-- End SiteCatalyst code version: H.13. -->
-    
-	<script type="text/javascript">
-		if (location.hostname == "www.drpepper.com" || location.hostname == "drpepper.com") { 
-			gaAccount = "UA-22720733-1"; 
-		}
-		else if (location.hostname == "es.drpepper.com") { 
-			gaAccount = "UA-22720733-8"; //send data to drpepper.com (Spanish) profile
-	    }
-		else { 
-			gaAccount = "UA-22720733-7"; //send data to staging.drpepper.com profile
-		}
-
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', gaAccount]);
-		_gaq.push(['_trackPageview']);
-
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
+<script>
+if (DrPepper.PromoBox) {
+	DrPepper.PromoBox.prototype.setupBehavior();
+}
+</script>
 
 
 
