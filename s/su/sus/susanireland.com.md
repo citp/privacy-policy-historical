@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the susanireland.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204150id_/http%3A//susanireland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susanireland.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113420id_/http%3A//susanireland.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Susan Ireland's Resume Site
+# Privacy | Free Resume Samples, Cover Letter Samples and Tips
 
 **Privacy Policy for susanireland.com, damngood.com, and joblounge.blogspot.com**
 
