@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techowiz.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126003659id_/http%3A//www.techowiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techowiz.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630095008id_/http%3A//www.techowiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Technology News and Updates, Mobile, Gadgets, Social Media, Software & Utilities | Techowiz
 
