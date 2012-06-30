@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222151045id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630220313id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
-The content of this page is an official policy approved by the Wikimedia Foundation [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). This policy may _not_ be circumvented, eroded, or ignored on local Wikimedia [projects](https://web.archive.org/wiki/Our_projects "Our projects"). 
+This policy is approved by the Wikimedia Foundation [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees") to apply to all [Wikimedia projects](https://web.archive.org/wiki/Our_projects "Our projects").  
+It may not be circumvented, eroded, or ignored by local policies. 
 
 Wikimedia policies   
 ---  
