@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voanews.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204531id_/http%3A//www1.voanews.com/english/news/69075687.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voanews.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112355id_/http%3A//www.voanews.com/info/terms_of_use_privacy_policy/1363.html) for the most accurate reproduction.*
 
-# English - Terms of Use and Privacy Notice | News | English
+# Terms of Use/Privacy Policy - VOA News
 
 ### Terms of Use and Privacy Notice
 
@@ -60,16 +60,16 @@ All comments must follow these rules:
 **  
 Copyright Statement**
 
-1.    All text, audio and video material produced exclusively by the Voice of America is in the public domain. Credit for any use of VOA material should be given to voanews.com, Voice of America, or VOA.  However, voanews.com content may also contain video, audio, images, graphics, and other copyrighted material that is licensed for use in VOA programming only.  This material is not in the public domain and may not be copied, redistributed, sold, or published without the express permission of the copyright owner. 
+1\. All text, audio and video material produced exclusively by the Voice of America is in the public domain. Credit for any use of VOA material should be given to voanews.com, Voice of America, or VOA. However, voanews.com content may also contain video, audio, images, graphics, and other copyrighted material that is licensed for use in VOA programming only. This material is not in the public domain and may not be copied, redistributed, sold, or published without the express permission of the copyright owner. 
 
-2.    Associated Press: VOA has a license from Associated Press to use AP photos and graphics. All AP material is copyrighted and the property of Associated Press, and may not be copied, published or redistributed without the written permission of Associated Press. Associated Press text, photo, graphic, audio and/or video material shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither these AP materials nor any portion thereof may be stored in a computer except for personal and non-commercial use. AP will not be held liable in any way to the User or to any third party or to any other person who may receive information in the Service or to any other person whatsoever, for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing or occasioned thereby. 
+2\. Associated Press: VOA has a license from Associated Press to use AP photos and graphics. All AP material is copyrighted and the property of Associated Press, and may not be copied, published or redistributed without the written permission of Associated Press. Associated Press text, photo, graphic, audio and/or video material shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither these AP materials nor any portion thereof may be stored in a computer except for personal and non-commercial use. AP will not be held liable in any way to the User or to any third party or to any other person who may receive information in the Service or to any other person whatsoever, for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing or occasioned thereby. 
 
-3.    "Voice of America" and "voanews.com" are trademarks which may not be used for commercial purposes without express permission. However, you may use a thumbnail graphic of the voanews.com logo if you wish to create a link to the voanews.com website on your own page. Should you wish to establish a link, please send your request to[ voanews@voanews.com](mailto:voanews@voanews.com "voanews@voanews.com").  
+3\. "Voice of America" and "voanews.com" are trademarks which may not be used for commercial purposes without express permission. However, you may use a thumbnail graphic of the voanews.com logo if you wish to create a link to the voanews.com website on your own page. Should you wish to establish a link, please send your request to[ voanews@voanews.com](mailto:voanews@voanews.com "voanews@voanews.com").  
  ****
 
 **Digital Millennium Copyright Act Notice**
 
-The Voice of America (VOA) respects the intellectual property of others, and we ask users of the VOA site to do the same.  In accordance with the Digital Millennium Copyright Act (DMCA) and other applicable law, VOA has adopted a policy that provides for the termination in appropriate circumstances of account holders who infringe the rights of copyright holders. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide VOA’s Copyright Agent the following information:
+The Voice of America (VOA) respects the intellectual property of others, and we ask users of the VOA site to do the same. In accordance with the Digital Millennium Copyright Act (DMCA) and other applicable law, VOA has adopted a policy that provides for the termination in appropriate circumstances of account holders who infringe the rights of copyright holders. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide VOA’s Copyright Agent the following information:
 
 • A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
