@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leadtek.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231222234id_/http%3A//www.leadtek.com/eng/company/legal.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leadtek.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630225525id_/http%3A//www.leadtek.com/eng/company/legal.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -39,8 +39,9 @@ function Error_pid()
 
 <body onload="MM_preloadImages('/eng/image/icon_membership_2.gif','/eng/image/icon_login1.gif','/eng/image/icon_logout2_2.gif','/eng/image/menu_print_ov.gif','/eng/image/menu_top_ov.gif','/eng/image/menu_send_ov.gif','/eng/image/menu_home_ov.gif')">
 <div id="layout2">
-	<script>
-<!--
+	<script type="text/javascript" src="/Scripts/lavalamp.js"></script>
+<script type="text/javascript" src="/Scripts/easing.js"></script>
+<script type="text/javascript">
 	function emailCloak() {
 		if (document.getElementById) {
 			var alltags = document.all? document.all : document.getElementsByTagName("*");
@@ -61,20 +62,28 @@ function Error_pid()
 		}
 	}
 	window.onload = emailCloak;
-//-->
-<!--
-(function($){$.fn.bgIframe=$.fn.bgiframe=function(s){if($.browser.msie&&/6.0/.test(navigator.userAgent)){s=$.extend({top:'auto',left:'auto',width:'auto',height:'auto',opacity:true,src:'javascript:false;'},s||{});var prop=function(n){return n&&n.constructor==Number?n+'px':n;},html='<iframe class="bgiframe"frameborder="0"tabindex="-1"src="'+s.src+'"'+'style="display:block;position:absolute;z-index:-1;'+(s.opacity!==false?'filter:Alpha(Opacity=\'0\');':'')+'top:'+(s.top=='auto'?'expression(((parseInt(this.parentNode.currentStyle.borderTopWidth)||0)*-1)+\'px\')':prop(s.top))+';'+'left:'+(s.left=='auto'?'expression(((parseInt(this.parentNode.currentStyle.borderLeftWidth)||0)*-1)+\'px\')':prop(s.left))+';'+'width:'+(s.width=='auto'?'expression(this.parentNode.offsetWidth+\'px\')':prop(s.width))+';'+'height:'+(s.height=='auto'?'expression(this.parentNode.offsetHeight+\'px\')':prop(s.height))+';'+'"/>';return this.each(function(){if($('> iframe.bgiframe',this).length==0)this.insertBefore(document.createElement(html),this.firstChild);});}return this;};})(jQuery);
 
-  $(document).ready(function(e){
-	  $('.POPDiv').bgiframe();
-	  $('.POPDiv2').bgiframe();
-	})
--->
+
+(function($){$.fn.bgIframe=$.fn.bgiframe=function(s){if($.browser.msie&&/6.0/.test(navigator.userAgent)){s=$.extend({top:'auto',left:'auto',width:'auto',height:'auto',opacity:true,src:'javascript:false;'},s||{});var prop=function(n){return n&&n.constructor==Number?n+'px':n;},html='<iframe class="bgiframe"frameborder="0"tabindex="-1"src="'+s.src+'"'+'style="display:block;position:absolute;z-index:-1;'+(s.opacity!==false?'filter:Alpha(Opacity=\'0\');':'')+'top:'+(s.top=='auto'?'expression(((parseInt(this.parentNode.currentStyle.borderTopWidth)||0)*-1)+\'px\')':prop(s.top))+';'+'left:'+(s.left=='auto'?'expression(((parseInt(this.parentNode.currentStyle.borderLeftWidth)||0)*-1)+\'px\')':prop(s.left))+';'+'width:'+(s.width=='auto'?'expression(this.parentNode.offsetWidth+\'px\')':prop(s.width))+';'+'height:'+(s.height=='auto'?'expression(this.parentNode.offsetHeight+\'px\')':prop(s.height))+';'+'"/>';return this.each(function(){if($('> iframe.bgiframe',this).length==0)this.insertBefore(document.createElement(html),this.firstChild);});}return this;};})(jQuery);
+ 
+
+	  jQuery(function () {
+	      $('.POPDiv').bgiframe();
+	      $('.POPDiv2').bgiframe();
+
+          $.fn.retarder = function (delay, method) { var node = this; if (node.length) { if (node[0]._timer_) clearTimeout(node[0]._timer_); node[0]._timer_ = setTimeout(function () { method(node); }, delay); } return this; }; $('ul div', '#bmenu').css('visibility', 'hidden'); $('.thmenu>li', '#bmenu').hover(function () { var ul = $('div:first', this); if (ul.length) { if (!ul[0].hei) ul[0].hei = ul.height(); ul.css({ height: 1, overflow: 'hidden' }).retarder(100, function (i) { if ($.browser.msie) i.css('visibility', 'visible').animate({ height: ul[0].hei }, { duration: 200, complete: function () { ul.css('overflow', 'visible') } }); else i.css({ visibility: 'visible', opacity: 0 }).animate({ height: ul[0].hei, opacity: 1 }, { duration: 200, complete: function () { ul.css('overflow', 'visible') } }); }); } }, function () {
+	          var ul = $('div:first', this); if (ul.length) { var css = { visibility: 'hidden', height: ul[0].hei }; ul.stop().retarder(50, function (i) { if ($.browser.msie) i.animate({ height: 1 }, { duration: 150, complete: function () { ul.css(css) } }); else i.css({ opacity: 1 }).animate({ height: 1, opacity: 0 }, { duration: 150, complete: function () { ul.css(css) } }) }); }
+	      }); $('ul ul li', '#bmenu').hover(function () { var ul = $('div:first', this); if (ul.length) { if (!ul[0].wid) ul[0].wid = ul.width(); ul.css({ width: 0, overflow: 'hidden' }).retarder(50, function (i) { if ($.browser.msie || $.browser.opera) i.css('visibility', 'visible').animate({ width: ul[0].wid }, { duration: 200, complete: function () { ul.css('overflow', 'visible') } }); else i.css({ visibility: 'visible', opacity: 0 }).animate({ width: ul[0].wid, opacity: 1 }, { duration: 200, complete: function () { ul.css('overflow', 'visible') } }); }); if (!ul[0].hei) ul[0].hei = ul.height(); } }, function () { var ul = $('div:first', this); if (ul.length) { var css = { visibility: 'hidden', width: ul[0].wid }; ul.stop().retarder(50, function (i) { if ($.browser.msie || $.browser.opera) i.animate({ width: 1 }, { duration: 150, complete: function () { ul.css(css) } }); else i.css({ opacity: 1 }).animate({ width: 1, opacity: 0 }, { duration: 150, complete: function () { ul.css(css) } }) }); } });
+
+	      // lava lamp
+	      var ieversion = jQuery.browser.version;
+	      if (ieversion < 7) { $('#bmenu ul.thmenu>li').hover(function () { $(this).addClass('hover'); }, function () { $(this).removeClass('hover'); }); $('#bmenu ul.thmenu').lavaLamp({ fx: 'easeOutBack', speed: 500 }); } else $('#bmenu ul.thmenu').lavaLamp({ fx: 'easeOutBack', speed: 500 }); $('ul ul a', '#bmenu').hover(function () { $(this).stop().animate({ textIndent: 6 }, 150); }, function () { $(this).stop().animate({ textIndent: 0 }, 200); });
+	  })
 </script>
+
 <style type="text/css">
-<!--
-/* MenuBarlang
-*********************************/
+
+/* MenuBarlang **/
 .POPDiv2
 {
 	position:absolute;
@@ -143,10 +152,69 @@ ul.langVertical a:hover {
   #background-position: 12px 10px;
   background-position: 11px 8px;
 }
--->
+
+/*---bmenu---*/
+div#bmenu {
+    height:38px;
+    background: url(/image/menu/layout_tbar_l.gif) top no-repeat;
+	margin:0 auto;
+	width:528px;
+	position:relative;
+}
+
+div#bmenu .thmenu {     
+	margin:0;
+	padding: 0;
+}
+
+div#bmenu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left;
+}
+
+div#bmenu li {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: block;
+    float: left;
+    z-index: 9;
+    width: 132px;
+}
+
+div#bmenu a {
+    padding: 0;
+    position: relative;
+    z-index: 10;
+    display: block;
+    float: left;
+    text-decoration: none;
+    font: bold 11px Arial, Helvetica, sans-serif; 
+    color: #fff;
+    margin: 0;
+    width: 132px;
+    text-align:center;
+    line-height: 34px;
+    height: 38px;
+ }
+
+/* lava lamp */
+div#bmenu li.back {
+    background: url(/image/menu/selected.gif) no-repeat 0 0;
+    width: 132px;
+    height: 38px;
+    z-index: 8;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+/*---bmenu end---*/
+
 </style>
-<script language="JavaScript">
-<!--
+<script type="text/javascript">
+
 function swapImage(popdiv,img_a,img_b) {
   if (document.all[popdiv].style.display !== "") 
   {
@@ -176,9 +244,7 @@ function show_div(popdiv,popdiv2,img_a,img_a1,img_b,img_b1)
   document.images[img_a].src = "/eng/image/"+img_a1+"1.gif";
   }
 }
-//-->
 
-<!--
 var returnsearch = true;
 
 function Checksearch(form) {
@@ -199,7 +265,7 @@ function Error_Messages()
    if (returnsearch == false)
       alert(errormsgs);
 }
-//-->
+
 </script>
 <div id="top_messagearea">
 
@@ -238,16 +304,15 @@ function Error_Messages()
   </div>
   
   <div id="channel" class="divclear">
-    <div id="channel_column_left">
-    <script type="text/javascript">
-            var flashVars="";
-            flashVars+="flash_xml_url=/eng/xml/topchannel.asp"; // Path to xml file or asp script  
-			flashVars+="&go=3";      
-            RunFlash("/eng/flash/channel.swf", "528", "38", "#ffffff", "transparent", "channel", flashVars);
-        </script>
-        <noscript>
-            You should have Javascript active to see this page
-        </noscript>
+    <div id="channel_column_left">    
+        <div id="bmenu">
+            <ul class="thmenu">
+                <li><a href="/eng">HOME</a></li>        
+                <li><a href="/eng/product.asp">PRODUCTS</a></li> 
+                <li><a href="/eng/news/index.asp">NEWS</a></li> 
+                <li class="current"><a href="/eng/company/about.asp">COMPANY</a></li>
+            </ul>
+        </div>
     </div>
     <div id="channel_column_right">
       <div id="channel_button"><img src="/eng/image/bt_g1.gif" hspace="6"></div>
@@ -257,14 +322,14 @@ function Error_Messages()
               <option value="s2">&nbsp;FAQ</option>
               <option value="s3">&nbsp;Manual</option>
 			  <option value="s4">&nbsp;Product</option>
-            </select><input name="keyword" type="text" size="20" class="top_searchfield" onblur="enterLen(this,20);setBgImagegary(this,'/eng/image/colurm2_bk2_1.gif');" onfocus="setBgImageOvergary(this,'/eng/image/colurm2_bk_1.gif')"><input type="image" src="/eng/image/bt1_go.gif" align="absbottom" onclick="Checksearch(this.form);"></div>
+            </select><input name="keyword" type="text" size="18" class="top_searchfield" onblur="enterLen(this,20);setBgImagegary(this,'/eng/image/colurm2_bk2_1.gif');" onfocus="setBgImageOvergary(this,'/eng/image/colurm2_bk_1.gif')"><input type="image" src="/eng/image/bt1_go.gif" align="absbottom" onclick="Checksearch(this.form);"></div>
   	  </form>
     </div>
 </div>
 <!--right flag menu-->
 
 <div style="float:right">
-      <div id="scrollmenu"><a href="#" onmouseover="MM_swapImage('top','','/eng/image/menu_top_ov.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/eng/image/menu_top.gif" name="top" width="30" height="29" border="0" alt="top"></a><br><img src="/eng/image/menu_div.gif" width="30" height="1"><a href="/eng" onmouseover="MM_swapImage('home','','/eng/image/menu_home_ov.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/eng/image/menu_home.gif" name="home" width="30" height="27" border="0" alt="home"></a><br><img src="/eng/image/menu_div.gif" width="30" height="1"><script language="JavaScript">document.write("<a href='/eng/mail_friend.asp?curURL="+escape(top.document.URL)+"' onMouseOver=MM_swapImage('mail','','/eng/image/menu_send_ov.gif',1) onMouseOut=MM_swapImgRestore() title='mail this page' rel='lyteframe' rev='width: 450px; height: 350px; scrolling: no;'>");document.write("<img src='/eng/image/menu_send.gif' name='mail' alt='mail this page' border=0 width=30 height=27>");document.write("</a>");</script><a href="/eng/mail_friend.asp?curURL=https%3A//web.archive.org/web/20111231222234id_/http%253A//www.leadtek.com/eng/company/legal.asp" onmouseover="MM_swapImage('mail','','/eng/image/menu_send_ov.gif',1)" onmouseout="MM_swapImgRestore()" title="mail this page" rel="lyteframe" rev="width: 450px; height: 350px; scrolling: no;"><img src="/eng/image/menu_send.gif" name="mail" alt="mail this page" border="0" width="30" height="27"></a><br><img src="/eng/image/menu_div.gif" width="30" height="1"><a href="javascript:wing(32)" onmouseover="MM_swapImage('print','','/eng/image/menu_print_ov.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/eng/image/menu_print.gif" name="print" width="30" height="29" border="0" alt="print this page"></a></div>
+      <div id="scrollmenu"><a href="#" onmouseover="MM_swapImage('top','','/eng/image/menu_top_ov.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/eng/image/menu_top.gif" name="top" width="30" height="29" border="0" alt="top"></a><br><img src="/eng/image/menu_div.gif" width="30" height="1"><a href="/eng" onmouseover="MM_swapImage('home','','/eng/image/menu_home_ov.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/eng/image/menu_home.gif" name="home" width="30" height="27" border="0" alt="home"></a><br><img src="/eng/image/menu_div.gif" width="30" height="1"><script language="JavaScript">document.write("<a href='/eng/mail_friend.asp?curURL="+escape(top.document.URL)+"' onMouseOver=MM_swapImage('mail','','/eng/image/menu_send_ov.gif',1) onMouseOut=MM_swapImgRestore() title='mail this page' rel='lyteframe' rev='width: 450px; height: 350px; scrolling: no;'>");document.write("<img src='/eng/image/menu_send.gif' name='mail' alt='mail this page' border=0 width=30 height=27>");document.write("</a>");</script><a href="/eng/mail_friend.asp?curURL=https%3A//web.archive.org/web/20120630225525id_/http%253A//www.leadtek.com/eng/company/legal.asp" onmouseover="MM_swapImage('mail','','/eng/image/menu_send_ov.gif',1)" onmouseout="MM_swapImgRestore()" title="mail this page" rel="lyteframe" rev="width: 450px; height: 350px; scrolling: no;"><img src="/eng/image/menu_send.gif" name="mail" alt="mail this page" border="0" width="30" height="27"></a><br><img src="/eng/image/menu_div.gif" width="30" height="1"><a href="javascript:wing(32)" onmouseover="MM_swapImage('print','','/eng/image/menu_print_ov.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/eng/image/menu_print.gif" name="print" width="30" height="29" border="0" alt="print this page"></a></div>
 </div> 
 	 
   <div id="sitemap_bk">
@@ -276,16 +341,14 @@ function Error_Messages()
 <div style="width:212px; padding:0px; margin:0px 0px 0px 2px; background-color:#000000;">
 <div><img src="/eng/image/bt_product.gif"></div>
   <ul id="MenuBar1" class="MenuBarVertical">
-<li><a href="http://pcoip.leadtek.com/" target="_blank" id="p_24" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Virtual Desktop System</a></li><li><a href="/eng/3d_graphic/default.asp?lineid=1" id="p_1" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">3D Graphics</a></li><li><a href="/eng/workstation_graphics/default.asp?lineid=2" id="p_2" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Workstation Graphics</a></li><li><a href="/eng/multimedia/default.asp?lineid=6" id="p_6" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Multimedia</a></li><li><a href="/eng/videophone/default.asp?lineid=7" id="p_7" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">VideoPhone</a></li><li><a href="/eng/lca/default.asp?lineid=28" id="p_28" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Mobile LBS Solution</a></li><li><a href="/eng/video_surveillance/default.asp?lineid=10" id="p_10" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Video Surveillance</a></li><li><a href="/eng/platform_solution/default.asp?lineid=25" id="p_25" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Platform Solution</a></li><li><a href="/eng/telecare/default.asp?lineid=23" id="p_23" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">TeleCare</a></li><li><a href="http://www.gvscnet.net/" target="_blank">GVSC Videophony Solution</a></li><li><a href="/eng/gps/default.asp?lineid=8" id="p_8" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">GPS</a></li><li><a href="/eng/mobile_broadband/default.asp?lineid=26" id="p_26" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Mobile Broadband</a></li><li><a href="/eng/NIC/default.asp?lineid=27" id="p_27" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Gaming NIC</a></li> 
+<li><a href="http://pcoip.leadtek.com/" target="_blank" id="p_24" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Virtual Desktop System</a></li><li><a href="/eng/3d_graphic/default.asp?lineid=1" id="p_1" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">3D Graphics</a></li><li><a href="/eng/workstation_graphics/default.asp?lineid=2" id="p_2" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Workstation Graphics</a></li><li><a href="/eng/multimedia/default.asp?lineid=6" id="p_6" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Multimedia</a></li><li><a href="/eng/videophone/default.asp?lineid=7" id="p_7" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">VideoPhone</a></li><li><a href="/eng/lca/default.asp?lineid=28" id="p_28" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Mobile LBS Solution</a></li><li><a href="/eng/video_surveillance/default.asp?lineid=10" id="p_10" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Video Surveillance</a></li><li><a href="/eng/platform_solution/default.asp?lineid=25" id="p_25" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Platform Solution</a></li><li><a href="/eng/telecare/default.asp?lineid=23" id="p_23" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">TeleCare</a></li><li><a href="/eng/gps/default.asp?lineid=8" id="p_8" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">GPS</a></li><li><a href="/eng/mobile_broadband/default.asp?lineid=26" id="p_26" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">Mobile Broadband</a></li> 
   </ul>
 <!-- subchannel -->
-
-<div class="navmenu2 nav_submenu" id="p_24_submenu">	
-<a href="http://pcoip.leadtek.com/" target="_blank" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">VP200</a></div>
+</div>
 <div class="navmenu2 nav_submenu" id="p_1_submenu">	
 <a href="/eng/3d_graphic/default.asp?lineid=1&amp;seriesid=40" id="c_1_40" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">PCI EXPRESS SERIES</a></div>
 <div class="navmenu2 nav_submenu" id="p_2_submenu">	
-<a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=102" id="c_2_102" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">3D VISION PRO</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=100" id="c_2_100" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">DIGITAL VIDEO PIPELINE</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=95" id="c_2_95" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">ELEMENTAL ACCELERATOR</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=82" id="c_2_82" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">CX SERIES</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=63" id="c_2_63" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">ULTRA HIGH-END/ SPECIALTY</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=64" id="c_2_64" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">HIGH-END</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=65" id="c_2_65" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">MID-RANGE</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=66" id="c_2_66" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">ENTRY-LEVEL</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=67" id="c_2_67" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">NVS SERIES</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=68" id="c_2_68" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">VISUAL COMPUTING SYETEM</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=74" id="c_2_74" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">HOGH PERFORMANCE COMPUTING</a><a href="/eng/workstation_graphics/nvidia_maximus_1.shtml" target="_blank" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">NVIDIA MAXIMUS TECHNOLOGY</a></div>
+<a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=102" id="c_2_102" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">3D VISION PRO</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=100" id="c_2_100" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">DIGITAL VIDEO PIPELINE</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=95" id="c_2_95" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">ELEMENTAL ACCELERATOR</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=82" id="c_2_82" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">CX SERIES</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=63" id="c_2_63" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">ULTRA HIGH-END/ SPECIALTY</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=64" id="c_2_64" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">HIGH-END</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=65" id="c_2_65" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">MID-RANGE</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=66" id="c_2_66" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">ENTRY-LEVEL</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=67" id="c_2_67" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">NVS SERIES</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=68" id="c_2_68" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">VISUAL COMPUTING SYETEM</a><a href="/eng/workstation_graphics/default.asp?lineid=2&amp;seriesid=74" id="c_2_74" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">HIGH PERFORMANCE COMPUTING</a><a href="/eng/workstation_graphics/nvidia_maximus_1.shtml" target="_blank" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">NVIDIA MAXIMUS TECHNOLOGY</a></div>
 <div class="navmenu2 nav_submenu" id="p_6_submenu">	
 <a href="/eng/multimedia/default.asp?lineid=6&amp;seriesid=56" id="c_6_56" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">ANALOG TV SERIES</a><a href="/eng/multimedia/default.asp?lineid=6&amp;seriesid=55" id="c_6_55" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">DIGITAL TV SERIES</a><a href="/eng/multimedia/default.asp?lineid=6&amp;seriesid=26" id="c_6_26" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">DIGITAL+ANALOG TV SERIES</a><a href="/eng/multimedia/default.asp?lineid=6&amp;seriesid=104" id="c_6_104" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">EXPANSION BOX</a><a href="/eng/multimedia/default.asp?lineid=6&amp;seriesid=78" id="c_6_78" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">HD TRANSCODING CARD</a><a href="/eng/multimedia/default.asp?lineid=6&amp;seriesid=57" id="c_6_57" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">VIDEO CAPTURE SERIES</a></div>
 <div class="navmenu2 nav_submenu" id="p_7_submenu">	
@@ -298,16 +361,12 @@ function Error_Messages()
 <a href="/eng/platform_solution/default.asp?lineid=25&amp;seriesid=85" id="c_25_85" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">HIGH PERFORMANCE COMPUTING</a><a href="/eng/platform_solution/default.asp?lineid=25&amp;seriesid=87" id="c_25_87" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">SYSTEM ON CHIP PLATFORM</a></div>
 <div class="navmenu2 nav_submenu" id="p_23_submenu">	
 <a href="/eng/telecare/default.asp?lineid=23&amp;seriesid=76" id="c_23_76" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">CONSUMER PRODUCTS</a><a href="/eng/telecare/default.asp?lineid=23&amp;seriesid=77" id="c_23_77" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">MEDICAL PRODUCTS</a></div>
-<div class="navmenu2 nav_submenu" id="p_21_submenu">	
-<a href="/eng/gvsc/default.asp?lineid=21&amp;seriesid=72" id="c_21_72" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">GVSC MM PBX</a></div>
 <div class="navmenu2 nav_submenu" id="p_8_submenu">	
 <a href="/eng/gps/default.asp?lineid=8&amp;seriesid=70" id="c_8_70" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">GPS TRACKER</a><a href="/eng/gps/default.asp?lineid=8&amp;seriesid=31" id="c_8_31" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">BLUETOOTH GPS RECEIVER</a><a href="/eng/gps/default.asp?lineid=8&amp;seriesid=33" id="c_8_33" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">GPS SMART ANTENNA</a><a href="/eng/gps/default.asp?lineid=8&amp;seriesid=34" id="c_8_34" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">GPS INDUSTRIAL OEM MODULE</a><a href="/eng/gps/default.asp?lineid=8&amp;seriesid=59" id="c_8_59" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">GPS EVALUATION KIT</a></div>
 <div class="navmenu2 nav_submenu" id="p_26_submenu">	
-<a href="/eng/mobile_broadband/default.asp?lineid=26&amp;seriesid=103" id="c_26_103" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">USB ROUTER</a><a href="/eng/mobile_broadband/default.asp?lineid=26&amp;seriesid=93" id="c_26_93" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">F-OFDM USB MODEM</a><a href="/eng/mobile_broadband/default.asp?lineid=26&amp;seriesid=92" id="c_26_92" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">F-OFDM DESK TOP MODEM</a><a href="/eng/mobile_broadband/default.asp?lineid=26&amp;seriesid=91" id="c_26_91" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">F-OFDM EXPRESS CARD</a></div>
-<div class="navmenu2 nav_submenu" id="p_27_submenu">	
-<a href="/eng/NIC/default.asp?lineid=27&amp;seriesid=98" id="c_27_98" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">NIC</a>	 
+<a href="/eng/mobile_broadband/default.asp?lineid=26&amp;seriesid=103" id="c_26_103" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">USB ROUTER</a><a href="/eng/mobile_broadband/default.asp?lineid=26&amp;seriesid=93" id="c_26_93" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">F-OFDM USB MODEM</a><a href="/eng/mobile_broadband/default.asp?lineid=26&amp;seriesid=92" id="c_26_92" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">F-OFDM DESK TOP MODEM</a><a href="/eng/mobile_broadband/default.asp?lineid=26&amp;seriesid=91" id="c_26_91" onmouseover="enterMenu(this);" onmouseout="leaveMenu();">F-OFDM EXPRESS CARD</a>	 
 </div>
-</div>
+
 <!-- subchannel2 -->
 
 <div class="navmenu2 nav_submenu" id="c_1_40_submenu">	
@@ -390,6 +449,7 @@ function Error_Messages()
         <li><a href="/eng/support/list_faq.asp">FAQ</a></li>
         <li><a href="/eng/company/contacts.asp">Contact Us</a></li>
         <li><a href="/eng/warranty/warranty.asp">Warranty Policy</a></li>
+        <li><a href="/eng/validation/">Product Checking System</a></li>
         <li><a href="/eng/wheretobuy/">Where To Buy?</a></li>
 	</ul>
 </div>
