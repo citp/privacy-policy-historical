@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215246id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225758id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
 
 # International Coach Federation
 
@@ -50,7 +50,7 @@ This site is controlled and operated by ICF from its offices within the United S
 **Site Content**  
 You may access, download and print materials on this website for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from this website without first obtaining written consent from ICF. Furthermore, you may not use the materials found on this website on any other websites or in a networked environment without first obtaining written consent from ICF. 
 
-All materials on this site (as well as the organization and layout of the site) are owned and copyrighted by the International Coach Federation. © Copyright International Coach Federation (ICF) 1998 - 2011. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of the ICF. 
+All materials on this site (as well as the organization and layout of the site) are owned and copyrighted by the International Coach Federation. © Copyright International Coach Federation (ICF) 1998 - 2012. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of the ICF. 
 
 **Spam Policy**  
 All email and electronic communications with members should adhere to the following principles. 
