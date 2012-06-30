@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the g-shock.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221023750id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-shock.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630120356id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
 
 # Support | Casio - G-Shock
 
-**Our Commitment To Privacy**
+**Privacy**
+
+ **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this privacy statement notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
@@ -61,7 +63,7 @@ Information about our customers is important to our business, and we are not in 
 By providing personal and business information and accepting any cookies provided by Casio, you consent to our collection and use of information in accordance with this Privacy Notice. If you do not agree to the provisions of this Privacy Notice, you can refuse to register, refuse to accept cookies, or refuse to volunteer optional information. 
 
 **Our Commitment to Data Security  
-**   
+**  
 It is not possible for web sites to achieve perfect security. We do, however, take commercially reasonable physical, electronic, and managerial precautions using widely accepted methods to safeguard the security of your information against inadvertent disclosure to unauthorized persons. Security controls may include standard 128-bit SSL (Secure Socket Layers) to protect the security of information transmitted directly through this website. As is generally the case, this protection does not extend to Internet e-mail messages sent outside this website directly to and from individual e-mail addresses.
 
 **Our Commitment To Children’s Privacy**
