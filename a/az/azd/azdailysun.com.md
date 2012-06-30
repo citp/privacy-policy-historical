@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdailysun.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230135056id_/http%3A//azdailysun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdailysun.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113723id_/http%3A//azdailysun.com/privacy) for the most accurate reproduction.*
 
 # Arizona Daily Sun website privacty policy
 
