@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realtyusa.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501092236id_/http%3A//www.realtyusa.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realtyusa.com privacy policy that was archived on 2012-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120701015028id_/http%3A//www.realtyusa.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript"><!DOCTYPE html>
 <html lang="en">
@@ -4138,7 +4138,16 @@ $LAB
 
         var randomimage = Math.floor(Math.random() * 3);
         document.write("<style type='text/css'>body {background-image: url(" + homeimages[randomimage] + "); background-repeat: no-repeat; background-position: center top;}</style>");
-</script><style type="text/css">body {background-image: url(/images/bodybg2.jpg); background-repeat: no-repeat; background-position: center top;}</style>
+
+        if (typeof (sessionStorage) != "undefined") {
+            if (window.location.href.indexOf("property.asp") < 0) {
+                sessionStorage.removeItem("PagingData")
+                sessionStorage.removeItem("PageSize")
+                sessionStorage.removeItem("returnURL")
+                sessionStorage.removeItem("SearchType")
+            }
+        }
+</script><style type="text/css">body {background-image: url(/images/bodybg3.jpg); background-repeat: no-repeat; background-position: center top;}</style>
 
 
 </head>
@@ -4175,10 +4184,12 @@ $LAB
 		<li><a href="/property/default.asp?selRegion=buffaloniagara">Buffalo/Niagara</a></li>
 		<li><a href="/property/default.asp?selRegion=binghamton">Binghamton</a></li>
 		<li><a href="/property/default.asp?selRegion=capital">Capital Region/Albany, Schenectady, Rensselaer Counties</a></li>
+        <li><a href="/property/default.asp?selRegion=catskill">Catskill Properties</a></li>
 		<li><a href="/property/default.asp?selRegion=corningelmira">Corning/Horseheads/Elmira</a></li>
 		<li><a href="/property/default.asp?selRegion=ithaca">Ithaca</a></li>
 		<li><a href="/property/default.asp?selRegion=keuka">Hammondsport/Penn Yan/Bath/Keuka Lake</a></li>
 		<li><a href="/property/default.asp?selRegion=lakegeorge">Glens Falls and Lake George Queensbury</a></li>
+        <li><a href="/property/default.asp?selRegion=otsegodelaware">Otsego/Delaware/Chenango Counties</a></li>
 		<li><a href="/property/default.asp?selRegion=rochester">Rochester/Canandaigua/Honeoye</a></li>
         <li><a href="/property/default.asp?selRegion=saratogacounty">Saratoga County/Saratoga Springs/Clifton Park</a></li>
         <li><a href="/property/default.asp?selRegion=schohariecounty">Schoharie County/Cobleskill</a></li>
@@ -4187,10 +4198,9 @@ $LAB
 		<li><a href="/property/default.asp?selRegion=delawareotsego">Sidney/Norwich and Oneonta/Cooperstown</a></li>
 		<li><a href="/property/default.asp?selRegion=thousandislands">Thousand Islands and Watertown</a></li>
 		<li><a href="http://www.usamls.net/bradfordsullivan/default.asp?content=search&amp;menu_id=9596" target="_blank">PA North Central</a></li>	
-		<li><a href="/property/property-list.asp?selRegion=northeastpa">PA North East</a></li>	
+		<li><a href="/property/default.asp?selRegion=northeastpa">PA North East / Montrose</a></li>	
 		<li><a href="http://www.relohomesearch.com" target="_blank">International Home Search</a></li>	
 		
-		<li><a href="/auctions/">Auctions</a></li>
         <li><a href="/foreclosures/">Foreclosures</a></li>	
         <li>
 			<a href="/listmailer/" title="Property Watch">Property Watch<img src="/_include/mods/slidemenu/right.gif" class="rightarrowclass" style="border:0;"></a>
@@ -4249,7 +4259,7 @@ $LAB
 	    		<li><a href="/contact/">Contact Us</a></li>
 			</ul>		
 		</li>
-        <li><a href="/auctions/">Auctions</a></li>
+        
         <li><a href="/community_tools/" title="Community Tools">Community Tools<img src="/_include/mods/slidemenu/right.gif" class="rightarrowclass" style="border:0;"></a>
 			<ul style="top: 0px; display: none; visibility: visible;">
 	    		<li><a href="http://www.relocationessentials.com/aff/realtyusa/tools/schools/schools.aspx">School Report Cards</a></li>
@@ -4268,6 +4278,7 @@ $LAB
 	    		<li><a href="/foreclosures/fcrelooffice.asp">Foreclosure REO Offices</a></li>
 			</ul>		
 		</li>
+        <li><a href="http://hometrustwarranty.com/" target="_blank">Home Warranty</a></li>
 		<li><a href="/relocate/">Relocation<img src="/_include/mods/slidemenu/right.gif" class="rightarrowclass" style="border:0;"></a>
 			<ul style="top: 0px; display: none; visibility: visible;">
             	<li><a href="/relocate/moving-into-the-area.asp">Moving Into the Area</a></li>
@@ -4513,6 +4524,7 @@ $LAB
 					<option value="binghamton">~Binghamton</option>
 					<option value="capital">~Capital Region/Albany</option>
 					<option value="capital">Schenectady, Rensselaer Counties</option>
+                    <option value="catskill">Catskill Properties</option>
 					<option value="corningelmira">~Corning/Horseheads</option>
 					<option value="corningelmira">Elmira</option>
 					<option value="ithaca">~Ithaca</option>
@@ -4520,6 +4532,7 @@ $LAB
 					<option value="keuka">Bath/Keuka Lake</option>
 					<option value="lakegeorge">~Glens Falls and</option>
 					<option value="lakegeorge">Lake George Queensbury</option>		
+                    <option value="otsegodelaware">Otsego/Delaware/Chenango Counties</option>
 					<option value="rochester">~Rochester/Canandaigua/Honeoye</option>
                     <option value="saratogacounty">Saratoga County/Saratoga Springs/Clifton Park</option>
                     <option value="schohariecounty">Schoharie County/Cobleskill</option>
@@ -4529,7 +4542,7 @@ $LAB
 					<option value="delawareotsego">Oneonta/Cooperstown</option>
 					<option value="thousandislands">~Thousand Islands and</option>
 					<option value="thousandislands">Watertown</option>
-					<option value="northeastpa">~PA North East</option>
+					<option value="northeastpa">~PA North East / Montrose</option>
 				</select>
 
                 <select id="VAR_PropertyCity" name="VAR_PropertyCity" size="6" multiple="multiple" class="wid188 font11 marginTop10">
@@ -4711,10 +4724,10 @@ $LAB
 				<span class="floatRight">
 					<select name="VAR_PriceChanged" id="VAR_PriceChanged" class="wid72 font11">
 					     <option value="">None</option>
-					     <option value="4/24/2012">7 days</option>
-					     <option value="4/17/2012">14 days</option>
-					     <option value="4/3/2012">4 weeks</option>
-					     <option value="3/20/2012">6 weeks</option>
+					     <option value="6/23/2012">7 days</option>
+					     <option value="6/16/2012">14 days</option>
+					     <option value="6/2/2012">4 weeks</option>
+					     <option value="5/19/2012">6 weeks</option>
 					 </select>
 				</span>
 				<label for="VAR_PriceChanged">Price Changed<br>Within:</label>
@@ -4786,6 +4799,8 @@ $LAB
         
             <option value="capital">Capital Region / Schoharie County</option>
         
+            <option value="catskill">Catskill Properties</option>
+        
             <option value="corningelmira">Corning / Horseheads / Elmira</option>
         
             <option value="lakegeorge">Glens Falls / Lake George / Queensbury</option>
@@ -4793,6 +4808,10 @@ $LAB
             <option value="keuka">Hammondsport / Bath / Penn Yan / Keuka Lake</option>
         
             <option value="ithaca">Ithaca</option>
+        
+            <option value="otsegodelaware">Otsego/Delaware/Chenango Counties</option>
+        
+            <option value="northeastpa">PA North East / Montrose</option>
         
             <option value="rochester">Rochester / Canandaigua</option>
         
