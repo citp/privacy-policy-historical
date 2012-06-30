@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2011-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110720080433id_/http%3A//www.babysteals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630172732id_/http%3A//babysteals.stealnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # BabySteals.com® ~ Deal of the day on brand name baby clothes, maternity products, baby shower gift ideas and baby presents for new moms.
 
@@ -31,10 +31,25 @@ You may opt out of any future contacts from us at any time. You can do the follo
 **Security**  
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
+_**Never click on a link in an email that requests personal information.**_ Any time you receive an email about your Steal Network account, the safest and easiest course of action is to open a new browser, type in [https://babysteals.stealnetwork.com](https://babysteals.stealnetwork.com/), and log in to your account directly. 
+
+Steal Network will never request the following from a customer via email: 
+
+  * Credit and debit card numbers 
+  * Bank account numbers 
+  * Driver's license numbers 
+  * Email addresses 
+  * Passwords 
+  * Your full name
+
+
+
+Please forward any suspicious emails to: [service@stealnetwork.com](mailto:service@stealnetwork.com). 
+
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. 
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (801)-326-4270 or [service@babysteals.com](mailto:service@babysteals.com). 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (801)-326-4270 or [service@stealnetwork.com](mailto:service@stealnetwork.com). 
 
-The "Steal of the Day" is all that's up for grabs. All photos, logos, words and ideas are intellectual property actively protected under trademark and copyright.
+The "Steal of the Day" is all that's up for grabs. All photos, logos, words and ideas are intellectual property actively protected under trademark and copyright. 
