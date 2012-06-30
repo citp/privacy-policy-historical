@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitebuildingcenter.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214104id_/http%3A//www.sitebuildingcenter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitebuildingcenter.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233958id_/http%3A//sitebuildingcenter.com/privacy.php) for the most accurate reproduction.*
 
 # Site Building Center | Privacy Policy
 
@@ -25,4 +25,4 @@ Upon request we provide site visitors with access to all information [including 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
 
-If you feel that this site is not following its stated information policy, you may contacting us at [support@SiteBuildingCenter.com ](mailto:support@SiteBuildingCenter.com)
+If you feel that this site is not following its stated information policy, you may contact us at [support@SiteBuildingCenter.com ](mailto:support@SiteBuildingCenter.com)
