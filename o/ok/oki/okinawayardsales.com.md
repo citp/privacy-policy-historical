@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okinawayardsales.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154430id_/http%3A//www.okinawayardsales.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okinawayardsales.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190933id_/http%3A//okinawayardsales.com/privacy.jsp) for the most accurate reproduction.*
 
 # Okinawa bookoo - yard sales and classifieds in Okinawa, Japan
 
@@ -10,11 +10,11 @@ Here's the short version: we respect your privacy and never release or misuse yo
 
 If you're bored, you can read the long version below (yawn....). 
 
-This is a web site of Rolera. 
+This is a web site operated by Bookoo, Inc. 
 
 Our postal address is: 248 Foster Drive Oswego, IL 60543 
 
-We can be reached via e-mail at info@kingwoodyardsales.com. 
+We can be reached via e-mail at info@bookoo.com. 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -42,19 +42,19 @@ If you feel that this site is not following its stated information policy, you m
 
 | 
 
-[](https://web.archive.org/web/20111231154430id_/http%3A//www.okinawayardsales.com/adclick.jsp?aid=14642)
+[](https://web.archive.org/adclick.jsp?advid=873819)
 
-[](https://web.archive.org/web/20111231154430id_/http%3A//www.okinawayardsales.com/adclick.jsp?aid=15820)
+[](https://web.archive.org/adclick.jsp?advid=991669)
 
-[](https://web.archive.org/web/20111231154430id_/http%3A//www.okinawayardsales.com/adclick.jsp?aid=17721)
+[](https://web.archive.org/adclick.jsp?advid=885237)
 
-[](https://web.archive.org/web/20111231154430id_/http%3A//www.okinawayardsales.com/adclick.jsp?aid=17783)
+[](https://web.archive.org/adclick.jsp?advid=872896)
 
-[](https://web.archive.org/web/20111231154430id_/http%3A//www.okinawayardsales.com/adclick.jsp?aid=16661)
+[](https://web.archive.org/adclick.jsp?advid=1008184)
 
-[](https://web.archive.org/web/20111231154430id_/http%3A//www.okinawayardsales.com/adclick.jsp?aid=16780)
+[](https://web.archive.org/adclick.jsp?advid=1011491)
 
 * * *
 
-[ Advertising on Okinawa bookoo ](https://web.archive.org/web/20111231154430id_/http%3A//www.okinawayardsales.com/sponsor.jsp)  
+[ Advertising on Okinawa bookoo ](https://web.archive.org/web/20120630190933id_/http%3A//okinawayardsales.com/sponsor.jsp)  
 ---|---|---
