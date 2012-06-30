@@ -1,100 +1,62 @@
-> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630115341id_/http%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# PJ Media » Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Overview**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+PJ MEDIA is committed to protecting the privacy of Internet users. Our readers’ privacy and confidentiality is of the utmost importance to us, our Contributors and our advertisers. Our reputation and integrity is directly related to how we serve you, our readers, and protect your privacy. At the end of this policy we have provided contact information, should you have any additional questions.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+PJ MEDIA collects two basic types of information: Personally Identifiable Information (PII) and Non-Personally Identifiable Information. Personally Identifiable Information is information that would allow you to be identified and might include: name, address, telephone number, fax number, or credit card information. Non-Personally Identifiable Information may include: the IP address of the server your computer is logged into, your browser type, your screen resolution setting, the Web pages you visited, which ads have been displayed and whether you responded to any ads delivered by PJM. Email addresses may or may not include PII. For example you might have your first and last name, or even your first and last name and city in your email address, or you might have an email address that is associated with a URL and website that contains PII. In those cases your email address would include PII. However, not all email addresses contain, or can be linked to PII.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Non-Personally Identifiable Information**
 
-**Information Collection and Use**
+**Applicability of Policy**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+In order to bring you offers that may be of interest to you, we have relationships with other companies that we allow to place ads on our Web pages.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Information Collected**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+PJM does not obtain any personally identifiable information about you, such as your name, address, phone number, or email address, when you visit PJM or read any articles contained on our site. PJM may, however, automatically collect non-personally identifiable information about you which is specific to how you use the Internet, such as the IP address of the server your computer is logged into, your browser type, your screen resolution setting, the Web pages you visited, which ads have been displayed and whether you responded to any ads delivered by PJM. This non-personally identifiable information collected by PJM is used for the purpose of determining which ads to deliver and for measuring aggregate advertising display and response for client and network reporting.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Also, as a result of your visit to our site, PJM’s ad server(s) and web analytics partners, may collect non-personally identifiable information such as your domain type, your IP address, your ad display history, and your clickstream information. For further information, consult the privacy policies of:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Intermarkets, Inc. advertising services Privacy Policy: <http://www.intermarkets.net/privacyPolicy.htm>
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Google Ads Privacy Policy: <http://www.google.com/privacy_cookies.html>
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Limitations on Disclosures**
 
-**Security**
+Information collected by PJ MEDIA about individual visitors that is stored in the ad server database will not be sold or disclosed to any merchant or third party, except when required by law or court order or as set forth in this Policy. PJM does disclose aggregate advertising information, which does not identify individuals or any personally identifiable information, to business partners, advertisers, and other advertising third parties. PJM also reserves the right to use such non-personally identifiable information for promoting PJM products and services or the products and services of PJM advertisers and sponsors. You may additionally “opt-out” of having information used by some third party providers at: <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Cookies**
 
-**Updating Your Information**
+PJM and its advertising partners use browser cookies to enable advertising. Cookies are small files that your Web browser places on your computer’s hard drive to record information about your visit. The PJM cookie cannot be associated with any personal information about you and PJM is not able to identify you personally when you visit our site. . PJM cookies do not damage your system or files in any way. Most web browsers automatically accept cookies but you can change your browser settings to prevent the acceptance of cookies if you desire.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Third party advertisers or third party ad servers that place and present advertising on the PJM site may also collect information from you via cookies, web beacons, clear .gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers are governed by the relevant third party’s privacy policy and is not covered by PJM’s privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from PJM’s privacy policy. All third party cookies that are used to track or manage user experience are set outside of the PJM domain.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Disclosure**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+PJM openly volunteers its practices of collecting information, its targeting capabilities and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@cdn.pjmedia.com](mailto:privacy@cdn.pjmedia.com).
 
-      iii.      You may call us at: (480) 505-8800
+**Personally Identifiable Information**
 
-       iv.      You may fax us at: (480) 505-8844
+**Information Sent To Us** **via Comment, Contact Us, and Tips Links**
 
-**Sending Emails**
+When you send us a comment via links on our site, we use that information internally to track comments, suggestions, and problems. We do not create mailing lists from the email addresses we receive through the Comments, Feedback and Tips links, although we do retain email addresses, which may or may not include personally identifiable information, when necessary to report back about a technical or other problem. We do not retain personally identifiable information when you send a message to us unless you request us to do so.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Mailing List** **– Daily Digest and Registration to Post Comments  
+**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We also invite readers to sign up for our mailing list, which includes our Daily Digest of significant articles from our website, or to register to post comments on our website. We may also use our mailing or registration list for any other reason, such as contacting you for editorial purposes, to advise you of changes or special events, and we may send you messages from or about our marketing partners. We may also share our mailing list and registration list with organizations which provide information, services or products from which we believe our readers benefit.
 
-**Compliance with Laws and Law Enforcement**
+**Special Circumstances**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+There may be instances when we may disclose PII or email addresses in order to protect the legal rights of PJ MEDIA and its affiliated companies, or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if PJ MEDIA sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction.
 
-**Third Party Service Providers**
+**General Information**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**Notification of Changes to Privacy Policy**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+This Privacy Policy may be updated from time to time as needed. If PJM decides to change the privacy policy, we will post these changes on this web page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. It is your obligation to review this Privacy Statement periodically, and your continued use of our website after changes have been posted will be deemed to be your acceptance of the revised Privacy Policy.
 
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+_Privacy Statement last updated February 15, 2010._
