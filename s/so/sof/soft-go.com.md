@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft-go.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210306id_/http%3A//www.soft-go.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft-go.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110310id_/http%3A//www.soft-go.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Soft-Go.Com
 
