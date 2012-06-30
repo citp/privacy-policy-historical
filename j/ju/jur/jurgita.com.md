@@ -1,28 +1,7 @@
-> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226055307id_/http%3A//www.jurgita.com/articles-id380.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630090946id_/http%3A//www.jurgita.com/articles-id380.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Author: jurgita.com  
-Articles written: 510  
-Source: [www.jurgita.com](http://www.jurgita.com/)  
-  
-  
----  
-  
-Article stats:  
-Views: 36936   Votes: 0   Average: 0.00  
-Added: 2005-07-29  Updated: 2007-01-08  
-  
-  
-
-
-| 
-
-[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")  
-[](http://www.addthis.com/feed.php?pub=ugnius&h1=http%3A%2F%2Fwww.jurgita.com%2Ffeeds%2Farticles.xml&t1= "Subscribe using any feed reader!")  
-  
-[Submit Your article](http://www.jurgita.com/articles-submit.php)  
-  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
  _The Information We Collect:_
