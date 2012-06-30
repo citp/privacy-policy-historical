@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231091605id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630103839id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement : Technology Resources : Texas State University
 
-**Texas State University-San Marcos** makes the following statement in regards to information gathering and dissemination practices for its web site: [www.txstate.edu](http://www.txstate.edu/). 
+**Texas State University** makes the following statement in regards to information gathering and dissemination practices for its web site: [www.txstate.edu](http://www.txstate.edu/). 
 
 **I. Cookies  **
 
-A "cookie" is a small file containing information that is placed on a user’s computer by a web server. Typically, these files are used to enhance the user’s experience of the site, to help users move between pages in a database, or to customize information for a user. 
+A "cookie" is a small file containing information that is placed on a user’s computer by a web server. Typically, these files are used to enhance the user’s experience of the site, to help users move between pages in a database, or to customize information for a user.
 
-Any information that Texas State University-San Marcos webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+Any information that Texas State University webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
 
 **II. Logs and Network Monitoring**
 
@@ -28,23 +28,23 @@ Information such as the following is collected in these files: 
 **Query string of the URI:** anything after a question mark in a URI. For example, if a keyword search has been requested, the search word will appear in the query string.    
 **Protocol:** the technical protocol and version used, i.e., http 1.0, ftp, etc. 
 
-The above information is not used in any way that would reveal personally identifying information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+The above information is not used in any way that would reveal personally identifying information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
 **III. Email and Form Information**
 
-If a member of the general public sends Texas State University-San Marcos an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another person or office that is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+If a member of the general public sends Texas State University an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another person or office that is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
 **IV. Links**
 
-This site contains links to other sites. Texas State University-San Marcos is not responsible for the privacy practices or the content of such websites. 
+This site contains links to other sites. Texas State University is not responsible for the privacy practices or the content of such websites.
 
 **V. Security**
 
-This site has security measures in place to protect from loss, misuse and alteration of the information under the control of Texas State University-San Marcos. 
+This site has security measures in place to protect from loss, misuse and alteration of the information under the control of Texas State University. 
 
 **VI. Privacy Rights**
 
-Texas State's [Privacy Rights Notice](https://web.archive.org/privacy-notice.html) describes your rights with respect to the information you supply to Texas State University-San Marcos via any paper or electronic form(s). 
+Texas State's [Privacy Rights Notice](https://web.archive.org/privacy-notice.html) describes your rights with respect to the information you supply to Texas State University via any paper or electronic form(s).
 
 If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact [webmaster@txstate.edu](mailto:webmaster@txstate.edu).   
-
+ 
