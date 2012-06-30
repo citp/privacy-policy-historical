@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tether.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224124id_/http%3A//tether.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tether.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235550id_/http%3A//tether.com/privacy-policy) for the most accurate reproduction.*
 
 # Tether Application Privacy Policy | Tether
 
@@ -10,27 +10,32 @@ Effective January 1, 2004, almost every Canadian business engaged in commercial 
 
 We are responsible for the personal information we collect and hold. To ensure this, we have developed this policy, and trained our representatives about our privacy policies and practices.
 
-## Why do we collect personal information? 
+## Why do we collect personal information?
 
 We are interested in refining, developing and perfecting the software used in connection with Tether. In order to do this, we need to be able to access information about its users. We will use some or all of that information to tailor our software to enhance our users experience.
 
-## What personal information do we collect? 
+## What personal information do we collect?
 
 Personal information is any information that identifies you or by which your identity could be deduced. The personal information we require will include some or all of the following:
 
-Name, address, telephone number, service provider, and related billing information. We will also obtain your BlackBerry device PIN in order to provide services related to that device.
+Name, address, telephone number, service provider, and related billing information. Since your payment is processed through PayPal, your personal billing details are maintained by PayPal. We will also obtain your smartphone device ID and/or phone number as the unique identifier for your smartphone to provide our service for that device.
 
 To deliver the Tether service we:
 
-  * Must divert your data through our proxy servers
-  * Map that data to you via your PIN
+  * May, depending on software version and device, divert your data through our proxy servers and may store the following Usage Information: 
+    * the URL destination of the data, 
+    * the time and date when the connections were opened and closed, 
+    * what protocol was used 
+    * your unique device identifier
   * Do not alter, view or store that data
-  * Do count data packets and the size of those packets, which information we keep to optimize service performance and so that users can track their own usage
-  * Never share your data or usage with anyone else
+  * Do count data packets and the size of those packets, which is information we keep to optimize service performance and so that usage data can be provided to the user
+  * Never share your data or Usage Information with anyone else
 
 
 
-## How do we collect personal information? 
+Usage Information, as described above, is only stored for 90 days and is then deleted from our systems.
+
+## How do we collect personal information?
 
 We collect information directly from you via the internet, email, phone, in person or by other means identified to you.
 
@@ -39,7 +44,7 @@ We collect information directly from you via the internet, email, phone, in pers
 We use the personal information collected to:
 
   * refine and develop our software; 
-  * develop marketing material based on aggregate data; and
+  * develop marketing material based on aggregate data; and 
   * help us learn about our potential client base and service usage; 
 
 
@@ -48,36 +53,33 @@ We use the personal information collected to:
 
 We do not disclose personal information to any third parties to enable them to market their products and services.
 
-We will disclose personal information when:
+We will disclose personal information and usage information when:
 
-  * required or authorized by law to do so; 
+  * required or authorized by law to do so;
+  * requested to do so by a government agency or authority;
   * you have consented to the disclosure;
-  * we engage third parties to provide administrative services for us, such as computer back-up services or archival file storage; and 
-  * the information is already publicly known. 
+  * we engage third parties to provide administrative services for us, such as computer back-up services or archival file storage; and
+  * the information is already publicly known.
 
 
 
 ## Retention of the personal information
 
-We will keep records about the study for up to 2 years after the service is terminated. This assures us ample time with which to use the information for the purposes of software development and purposes as described above.
+We will keep records (all stored information other than Usage Information) for up to 2 years after the service is terminated. This assures us ample time with which to use the information for the purposes of software development and purposes as described above.
 
-## Is the personal information secure? 
+## Is the personal information secure?
 
 We will employ all reasonable safeguards to ensure that the personal information is kept safe from loss, unauthorized access, modification or disclosure. Among the steps taken to protect the information are:
 
-  * restricted access to personal information; 
-  * deploying technological safeguards like security software and firewalls to prevent hacking or unauthorized computer access; 
-  * internal password and security policies. 
+  * restricted access to personal information;
+  * deploying technological safeguards like security software and firewalls to prevent hacking or unauthorized computer access;
+  * internal password and security policies.
 
 
 
 ## Communicating with Trial Participant or Paid User
 
-You may provide us with specific instructions with respect to communications. Normally, our policies are as follows:
-
-Email
-
-Email is our preferred communication with users...
+You may provide us with specific instructions with respect to communications. Normally, email is our preferred means of communication.
 
 ## Telephone
 
@@ -95,10 +97,10 @@ You may ask for access to any personal information we hold about you. Summary in
 
 Your right to access your personal information is not absolute. We may deny access when:
 
-  * denial is required or authorized by law; 
-  * granting access would have an unreasonable impact on other people's privacy; 
+  * denial is required or authorized by law;
+  * granting access would have an unreasonable impact on other people's privacy;
   * it is necessary to protect our rights and property; and
-  * where the request is frivolous or vexatious. 
+  * where the request is frivolous or vexatious.
 
 
 
