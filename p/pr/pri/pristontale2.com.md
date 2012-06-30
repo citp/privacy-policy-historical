@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pristontale2.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524143420id_/http%3A//www.gamerkraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pristontale2.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630103424id_/http%3A//www.gamerkraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# GamerKraft - Home
+# GamerKraft - Play Free.
 
 ** PRIVACY POLICY FOR THE GAMERKRAFT WEBSITE AND GAME BRIDGER LTD.'s SERVERS**
 
