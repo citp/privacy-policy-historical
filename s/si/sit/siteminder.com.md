@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siteminder.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214345id_/http%3A//www.siteminder.com/privacy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteminder.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630092051id_/http%3A//www.siteminder.com/privacy-terms-conditions) for the most accurate reproduction.*
 
-# PMS Integration | SiteMinder Privacy, Terms & Conditions
+# Privacy, Terms & Conditions
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this website. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -89,3 +89,5 @@ In the event that the website (or a substantial portion of its assets) is acquir
 **Policy Modifications**
 
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+Specialists and industry leaders in [Channel Manager](http://www.siteminder.com/ "Channel Manager Software") Software and Online Hotel Booking Systems, SiteMinder assist properties in gaining more [online bookings](http://www.siteminder.com/pricing/ "online bookings") and managing their online room distribution by implementing the best Property management solutions and Distribution channel management principles. [Contact us](http://www.siteminder.com/contact/ "Contact SiteMinder") today for a chat about our commission-free solutions or a free trial of our award-winning products.
