@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbmcw.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202005630id_/http%3A//www.nbmcw.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbmcw.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630091943id_/http%3A//www.nbmcw.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - NBM Media
+# Privacy Policy
 
 **1.) Introduction**
 
