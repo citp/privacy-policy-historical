@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229201608id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630181618id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -33,69 +33,79 @@
 </div>
 
 
-<div id="museum_full_menu">
-
-
 <script type="text/javascript" src="/shared/mm_menu.js"></script>
 <script type="text/javascript" src="/shared/museum_menu.js"></script>
 
-<div style="clear: both; overflow: hidden; margin: 0 auto; padding: 0px; width: 780px; height: 100px; text-align: left; background: #fff;">
-    <div style="float: left; width: 200px; padding: 15px 0px 0px 12px;">
-            <a href="http://www.ushmm.org/" target="_top"><img src="http://www.ushmm.org/images/ushmm_logo.gif" style="border: 0px;" alt="United States Holocaust Memorial Museum" title="United States Holocaust Memorial Museum"></a>
-        </div>
+
+<div id="museum_full_menu">
+    <div style="clear: both; overflow: hidden; margin: 0 auto; padding: 0px; width: 780px; height: 100px; text-align: left; background: #fff;">
+
+        <div style="float: left; width: 200px; padding: 15px 0px 0px 12px;">
+                            <a href="http://www.ushmm.org/" target="_top"><img src="http://www.ushmm.org/images/ushmm_logo.gif" style="border: 0px;" alt="United States Holocaust Memorial Museum" title="United States Holocaust Memorial Museum"></a>
+                    </div>
+
+                    <div style="float: right; padding: 68px 15px 0px 0px; white-space: nowrap;">
+
+            <form style="margin: 0px; padding: 0px;" name="__mainsite_search" method="get" action="/shared/search/main.php" target="_top" onsubmit="return validate___mainsite_search()">
+                                <div style="float: left; padding-right: 9px;">
+                    <select name="q__typ" style=" height: 19px; font: normal .7em/1.1em arial,verdana,sans-serif; color: #666666;">
+                                        <option value="" selected="">Entire Site</option>
+                                        <option value="Image">Images</option>
+                                        <option value="Video">Videos</option>
+                                        <option value="Audio">Audio</option>
+                                        <option value="Geography">Geographies</option>
+                                        </select>
+                </div>
+                
+                <div style="float: left; padding-right: 8px;">
+                    <input type="text" name="q" id="q__input" value="" style="width: 144px; height: 15px; font: normal .7em arial,verdana,sans-serif; border: 1px inset #e4e4e4; color: #666666;" onclick="q__value_init()" onblur="q__input_init()">
+                </div>
+
+                <div style="float: left;">
+                    <input type="submit" name="Submit" value="" style="width: 56px; height: 18px; border: 0px; cursor: pointer; background: url(/images/ushmm_search.gif) top left no-repeat #85878a;" alt="Search" title="Search">
+                </div>
+
+                                                                    </form>
+
+            <script type="text/javascript">
+                if( document.getElementById('q__input').value == '' ) {
+                    document.getElementById('q__input').value = 'Search';
+                }
+
+                function q__input_init()
+                {
+                    if( document.getElementById('q__input').value == '' ) {
+                        document.getElementById('q__input').value = 'Search';
+                    }
+                }
+
+                function q__value_init()
+                {
+                    if( document.getElementById('q__input').value == 'Search' ) {
+                        document.getElementById('q__input').value = '';
+                    }
+                }
+
+                function validate___mainsite_search()
+                {
+                    if( document.getElementById('q__input').value == '' ||
+                        document.getElementById('q__input').value == 'Search' )
+                    {
+                        alert( "Please enter a search term." );
+                        document.getElementById('q__input').value = '';
+                        document.getElementById('q__input').focus();
+                        return false;
+                    }
+
+                    return true;
+                }
+            </script>
+            </div>
+            </div>
 
 
-    <div style="float: right; padding: 68px 15px 0px 0px; white-space: nowrap;">
-        <form style="margin: 0px; padding: 0px;" name="SiteSearchExtended" method="get" action="http://resources.ushmm.org/inquery/uia_query.php" onsubmit="return CheckFormExtended()" target="_top">
-        <input type="hidden" name="noframes" value="x">
-        <input type="hidden" name="page_len" value="25">
-        <input type="hidden" name="max_docs" value="all">
-        <input type="hidden" name="db_group" value="ushmm">
-        <input type="hidden" name="db_name" value="photos">
-        <input type="hidden" name="db_name" value="wlc">
-        <input type="hidden" name="db_name" value="fvarchive">
-
-        <div style="float: left; padding-right: 10px;">
-        <select name="query_append" style="height: 19px; font: normal .7em/1.1em arial,verdana,sans-serif; color: #666666;">
-            <option value="type(webpage or article)">Web pages</option>
-            <option value="type(idcard)">ID Cards</option>
-            <option value="type(testimony)">Testimonies (Video)</option>
-            <option value="type(artifact)">Artifacts</option>
-            <option value="type(music)">Music</option>
-            <option value="type(photo or histphoto or instphoto)">Photographs</option>
-            <option value="type(film or ssfilm)">Historical Films</option>
-            <option value="type(document)">Historical Documents</option>
-            <option value="type(map)">Maps</option>
-            <option value="type(animatedmap)">Animated Maps</option>
-        </select>
-        </div>
-
-        <div style="float: left; padding-right: 10px;">
-        <input type="text" name="query" id="query" style="width: 144px; font: normal .7em arial,verdana,sans-serif; border: 1px inset #e4e4e4; color: #666666;" onclick="init_search_box()">
-        </div>
-<script type="text/javascript">
-if( document.getElementById('query').value == '' ) {
-    document.getElementById('query').value = 'Search';
-}
-
-function init_search_box()
-{
-    if( document.getElementById('query').value == 'Search' ) {
-        document.getElementById('query').value = '';
-    }
-}
-</script>
-
-        <div style="float: left;">
-        <a href="javascript: submitformExtended();"><img src="http://www.ushmm.org/images/ushmm_search.gif" id="arrowXBtn" name="arrowXBtn" style="border: 0px;" alt="Search" title="Search"></a>
-        </div>
-        </form>
-    </div>
-</div>
-
-
-
-    <script type="text/javascript" language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 224px; height: 345px;">
+    
+                    <script type="text/javascript" language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 224px; height: 345px;">
   <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 343px; width: 222px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 342px; width: 221px; background-color: rgb(204, 204, 204);">
 <div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 220px; height: 17px; background-color: rgb(255, 255, 255); visibility: inherit;"><div id="menuItemText0" style="position:absolute;left:6px;top:2px;color:#000000;">Plan a Visit, Hours, Directions&nbsp;</div>
@@ -261,49 +271,48 @@ function init_search_box()
 </div>
 </span>
 
+        
+        <div style="clear: both; overflow: hidden; margin: 0 auto; width: 780px; text-align: left; padding: 5px 0px; background: #000; font-family: arial, verdana; font-size: .7em; color: #ffffff; text-transform: uppercase; position: relative;">
 
-<div style="clear: both; margin: 0 auto; width: 780px; text-align: left; padding: 5px 0px 0px 0px; background: #000; font-family: arial, verdana; font-size: .7em; color: #ffffff; text-transform: uppercase; overflow: hidden; position:relative;">
+            <div style="float: left; width: 580px; padding: 0px 10px;">
+                
+                                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/museum/" target="_top" id="mm_museum" name="mm_museum" onmouseover="MM_showMenu(window.menu_museum,0,13,null,'mm_museum');" onmouseout="MM_startTimeout();">Museum</a>
 
-	<div class="nav" style="width:580px; float:left; padding-right:10px;">
+                    &nbsp;
 
-        &nbsp;&nbsp;
+                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/education/" target="_top" id="mm_education" name="mm_education" onmouseover="MM_showMenu(window.menu_education,0,13,null,'mm_education');" onmouseout="MM_startTimeout();">Education</a>
 
-                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/museum/" target="_top" onmouseover="MM_showMenu(window.menu_museum,0,4,null,'mm_museum');" onmouseout="MM_startTimeout();"><img src="http://www.ushmm.org/images/spacer.gif" style="border: 0px;" id="mm_museum" name="mm_museum" alt="">Museum</a>
+                    &nbsp;
 
-            &nbsp;
+                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/research/" target="_top" id="mm_research" name="mm_research" onmouseover="MM_showMenu(window.menu_research,0,13,null,'mm_research');" onmouseout="MM_startTimeout();">Research</a>
 
-            <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/education/" target="_top" onmouseover="MM_showMenu(window.menu_education,0,4,null,'mm_education');" onmouseout="MM_startTimeout();"><img src="http://www.ushmm.org/images/spacer.gif" style="border: 0px;" id="mm_education" name="mm_education" alt="">Education</a>
+                    &nbsp;
 
-            &nbsp;
+                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/holocaust/" target="_top" id="mm_history" name="mm_history" onmouseover="MM_showMenu(window.menu_history,0,13,null,'mm_history');" onmouseout="MM_startTimeout();">History</a>
 
-            <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/research/" target="_top" onmouseover="MM_showMenu(window.menu_research,0,4,null,'mm_research');" onmouseout="MM_startTimeout();"><img src="http://www.ushmm.org/images/spacer.gif" style="border: 0px;" id="mm_research" name="mm_research" alt="">Research</a>
+                    &nbsp;
 
-            &nbsp;
+                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/remembrance/" target="_top" id="mm_remembrance" name="mm_remembrance" onmouseover="MM_showMenu(window.menu_remembrance,0,13,null,'mm_remembrance');" onmouseout="MM_startTimeout();">Remembrance</a>
 
-            <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/holocaust/" target="_top" onmouseover="MM_showMenu(window.menu_history,0,4,null,'mm_history');" onmouseout="MM_startTimeout();"><img src="http://www.ushmm.org/images/spacer.gif" style="border: 0px;" id="mm_history" name="mm_history" alt="">History</a>
+                    &nbsp;
 
-            &nbsp;
+                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/genocide/" target="_top" id="mm_conscience" name="mm_conscience" onmouseover="MM_showMenu(window.menu_conscience,0,13,null,'mm_conscience');" onmouseout="MM_startTimeout();">Genocide</a>
 
-            <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/remembrance/" target="_top" onmouseover="MM_showMenu(window.menu_remembrance,0,4,null,'mm_remembrance');" onmouseout="MM_startTimeout();"><img src="http://www.ushmm.org/images/spacer.gif" style="border: 0px;" id="mm_remembrance" name="mm_remembrance" alt="">Remembrance</a>
+                    &nbsp;
 
-            &nbsp;
+                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/support/support/" target="_top" id="mm_join" name="mm_join" onmouseover="MM_showMenu(window.menu_join,0,13,null,'mm_join');" onmouseout="MM_startTimeout();">Support</a>
 
-            <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/genocide/" target="_top" onmouseover="MM_showMenu(window.menu_conscience,0,4,null,'mm_conscience');" onmouseout="MM_startTimeout();"><img src="http://www.ushmm.org/images/spacer.gif" style="border: 0px;" id="mm_conscience" name="mm_conscience" alt="">Genocide</a>
+                    &nbsp;
 
-            &nbsp;
+                    <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/connect/" target="_top" id="mm_connect" name="mm_connect" onmouseover="MM_showMenu(window.menu_connect,0,13,null,'mm_connect');" onmouseout="MM_startTimeout();">Connect</a>
+                            </div>
 
-            <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/support/support/" onmouseover="MM_showMenu(window.menu_join,0,4,null,'mm_join');" onmouseout="MM_startTimeout();" target="_top"><img src="http://www.ushmm.org/images/spacer.gif" style="border: 0px;" id="mm_join" name="mm_join" alt="">Support</a>
-
-            &nbsp;
-
-            <a style="color: #ffffff; text-decoration: none;" href="http://www.ushmm.org/connect/" onmouseover="MM_showMenu(window.menu_connect,0,4,null,'mm_connect');" onmouseout="MM_startTimeout();" target="_top"><img src="http://www.ushmm.org/images/spacer.gif" style="border: 0px;" id="mm_connect" name="mm_connect" alt="">Connect</a>
-        	</div>
-
-            <div class="nav-donate" style="width:187px; height:20px; float:left;">
-            <a style="background-color:#fc8f1a; width:187px; height:25px; overflow:hidden; position:absolute; right:0; top:0;" href="http://donate.ushmm.org/support" target="_top"><img style="margin:0 auto; display:block; border:0;" src="http://www.ushmm.org/images/donate_button.gif" id="mm_donate" name="mm_donate" alt="Donate"></a>
+                            <div style="float: right;">
+                    <a style="background-color: #fc8f1a; width: 187px; height: 24px; overflow: hidden; position: absolute; right: 0px; top: 0px;" href="http://donate.ushmm.org/support" target="_top"><img style="margin: 0px auto; display: block; border: 0px;" src="http://www.ushmm.org/images/donate_button.gif" id="mm_donate" name="mm_donate" alt="Donate"></a>
+                </div>
+            
         </div>
     
-</div>
 
 
 </div>
@@ -510,13 +519,19 @@ function init_search_box()
     
     <p>If you decide to give us personal information for a particular purpose, you may be contacted about other Museum programs or opportunities to support Museum programs. For example, if you do one of the activities on our Web site, such as post a comment, you may be given the option to subscribe to our e-newsletters or to donate funds in support of Museum programs. You will always have an immediate opportunity to decline further communication.</p>
     
+    <p>If you make a tribute gift, the Museum may provide your name and postal address to the family of the person who was honored by your gift.  If you wish that your name or address not be shared for this purpose, please contact our Membership Division at the telephone number or email address given below.</p>
+    
     <p>Donors who have provided the Museum with an e-mail address or whose postal address is matched to an e-mail address will receive the Museum’s general news e-newsletter. If you wish to decline the e-communication benefits, please follow one of the opt-out procedures described below.</p>
     
     <p>Our site has pages on which members of the public are invited to comment or provide feedback, such as message boards. Any information (comments, photos, sounds) posted on these pages becomes public information. Please exercise caution when deciding to disclose personal information.</p>
     
     <h2>Children’s Privacy Policy</h2>
     
-	<p>The Museum may occasionally provide an online program for children under the age of 13, and collect personal information from these children to enable their participation in the program.  To register for such programs, a child under the age of 13 may have to provide an e-mail address that we will store and use only for the purposes of the program.  The child will also have to complete a “parent’s or teacher’s e-mail approval” box so that the Museum may notify the adult of the registration and the Museum’s privacy policy.  That e-mail will also allow the adult to consent to the Museum’s collection and use of the child’s personal information for the program, or to request that the child’s registration be revoked and personal information deleted.</p>
+	<p>Some of the Museum’s online programs and applications may offer educational content of interest to children under the age of 13, and the Museum may occasionally receive personally identifiable information from a child in order to respond to a one-time request or communication.  We do not use the information for any other purpose and will delete the information as soon as practical. For example, a child may use his or her e-mail address to send us a photograph for a Museum Web page for students. We will use the e-mail address to send the child confirmation that we have received the photo and the e-mail address will then be deleted.</p>
+	
+	<p>The Museum may occasionally provide an online interactive program for children under the age of 13, and collect personal information from these children to enable their ongoing participation in the program.  To register for such programs, a child under the age of 13 may have to provide an e-mail address that we will store and use only for the purposes of the program.  The child will also have to complete a “parent’s or teacher’s e-mail approval” box so that the Museum may notify the adult of the registration and the Museum’s privacy policy.  That e-mail will also allow the adult to consent to the Museum’s collection and use of the child’s personal information for the program, or to request that the child’s registration be revoked and personal information deleted.</p>
+
+	<p>If the Museum becomes aware that a child has posted personally identifiable information on any of our Web pages, we will delete the information as soon as practical.</p>
 
 	<p>The Museum is concerned about protecting children’s privacy, and we encourage parents to contact us with any questions or concerns they may have via the Web form at <a href="http://www.ushmm.org/museum/contact/">http://www.ushmm.org/museum/contact/</a>.  Parents may also use this Web address to request the deletion of any collected personal information about their children under the age 13.</p>   
 
@@ -569,7 +584,7 @@ function init_search_box()
 
 	<ol>
 		<li>Send an e-mail to <a href="mailto: Membership@ushmm.org">Membership@ushmm.org</a></li>
-		<li>Call our Member Services line at (202) 488-2642</li>
+		<li>Call our Member Services line at 1-866-998-7466</li>
 	</ol>	
 		
 	<p>If you are a member or donor, you can choose to limit the postal mail exchange or rent of addresses with other charitable organizations in one of three ways.</p>
@@ -577,7 +592,7 @@ function init_search_box()
 	<ol>
 		<li>Indicate “do not exchange” or “do not rent” on any of your membership mail packages and return in the pre-addressed envelope.</li>
 		<li>Send an e-mail to <a href="mailto: Membership@ushmm.org">Membership@ushmm.org</a></li> 
-		<li>Call our Member Services line at (202) 488-2642.</li>
+		<li>Call our Member Services line at 1-866-998-7466.</li>
 	</ol>
 	
 	<p>You can opt out of the Museum’s SMS correspondence or Premium SMS Services by texting “<strong>STOP</strong>” to the short code 20222. Text “<strong>HELP</strong>” for help or visit <a href="http://www.hmgf.org/t">www.hmgf.org/t</a>. Messaging and data rates may apply.</p>
@@ -587,8 +602,7 @@ function init_search_box()
 
 
 <div id="museum_footer">
-  
-<div style="clear: both; overflow: hidden; padding: 5px 0px 7px; background: #85878a; font-family: arial, verdana; font-size: .7em; color: #ffffff;">
+  <div style="clear: both; overflow: hidden; padding: 5px 0px 7px; background: #85878a; font-family: arial, verdana; font-size: .7em; color: #ffffff;">
 
 <div id="museum_footer_items">
 <center>
