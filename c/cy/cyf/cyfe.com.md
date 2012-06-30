@@ -1,60 +1,56 @@
-> *The following text is extracted and transformed from the cyfe.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010163704id_/http%3A//www.cyfe.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfe.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630072401id_/http%3A//www.cyfe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cyfe
 
-This document was last updated on August 25th, 2009.
+This privacy policy governs your (“User”) use of the Cyfe website (“Site”) and service (“Service”) operated by Cyfe, Inc. We regard your privacy seriously and provide this Privacy Policy to describe which information we collect, how we collect it, how we use it and the circumstances under which we may share it. The Site is not directed at children under 13 years of age.
 
-**Acknowledgement and acceptance of terms**  
+### Information Collection and Use
 
-
-Cyfe is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Cyfe, you acknowledge and fully understand Cyfe's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
-
-**Participating Merchant Policies  
-**
-
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Cyfe services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
-
-**Information We Collect and How We Use It  
-**
-
-Cyfe collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies. When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: your Internet protocol address, the kind of browser or computer you use, number of links you click within the site, state or country from which you accessed the site, date and time of your visit, name of your Internet service provider, web page you linked to our site from, and pages you viewed on the site.
-
-**Use of Cookies**  
+  * When you register with us through the Site, as a User, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you. Personally identifiable information includes, but is not limited to, your name, phone number, credit card or other billing information (if applicable), email address and home and business postal addresses. We use your personally identifiable information mainly to provide the Service and administer your inquiries.
+  * We also collect other non-identifying information that you provide as part of registration (e.g., without limitation, zip code (on its own) and individual preferences).
+  * We use your personally identifiable information (in some cases, in conjunction with your non-identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries.
+  * Certain non-identifying Information would be considered a part of your personally identifiable information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered non-identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your personally identifiable information with non-identifying Information and aggregate it with information collected from other Users to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site is used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
+  * We also use your personally identifiable information to contact you with Cyfe newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
+  * We do not store any of Your financial information including billing and credit card information. Your financial information is processed by secure, third party services.
+  * We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all times.
 
 
-Cyfe may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
+### Disclosure of Information
 
-Cyfe reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into Cyfe.com a site that relies on third-party cookies).
+_Aggregate Information and Non-Identifying Information._ We may share aggregated information that does not include personally identifiable information and we may otherwise disclose non-identifying Information with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your personally identifiable information.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+_Service Providers._ We may employ third-party companies and individuals to facilitate our Site and Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your personally identifiable information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-**Personal Information Users**  
+_Compliance with Laws and Law Enforcement._ Cyfe cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Cyfe or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity. 
 
+_Business Transfers._ Cyfe may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+_Account Information._ You agree to keep confidential and not to disclose to any other individual or individuals for all time the user name and password related to Your Cyfe account.
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including: to fulfill your service requests for services, to protect ourselves from liability, to respond to legal process or comply with law, or in connection with a merger, acquisition, or liquidation of the company.
+### Cookies
 
-**Use of Web Beacons or GIF files**  
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Cyfe Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third-party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
 
+### Links to Third Party Websites
 
-Cyfe Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow Cyfe to count users who have visited those pages and to deliver co-branded services. Cyfe may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+The Site contains links to other websites. Your use of websites to which the Site link is subject to the terms of use and privacy policies located on such third party websites.
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Cyfe prohibits Web beacons from being used to collect or access your personal information.
+### Security
 
-**Accessing Web Account Information**  
+Cyfe is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
 
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting our support staff [here](https://web.archive.org/web/20111010163704id_/http%3A//www.cyfe.com/contact.php).
+### Policy Changes
 
-**Changes to this Statement**  
+Cyfe reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site will be subject to the then-current Privacy Policy. This Privacy Policy was last revised December 20, 2011.
 
+### Contacting Us
 
-Cyfe has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+If you have questions or comments regarding this Privacy Policy, please [contact us](https://web.archive.org/contact).
 
-**Contacting Us  
-**
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us [here](https://web.archive.org/web/20111010163704id_/http%3A//www.cyfe.com/contact.php). Cyfe will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+Cyfe, Inc  
+945 Concord Street  
+Framingham, MA 01701  
+[support@cyfe.com](mailto:support@cyfe.com)
