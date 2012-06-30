@@ -1,11 +1,22 @@
-<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224351id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630094850id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/"><head>
+    <meta content="IE=9" http-equiv="X-UA-Compatible">
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <link rel="SHORTCUT ICON" href="/favicon.png">
-   <link rel="StyleSheet" href="/style.css" type="text/css">
+
+      <link rel="StyleSheet" href="/style.css" type="text/css">
+
    <meta name="Author" content="John Weidner">
+   <link rel="apple-touch-icon" sizes="40x40" href="/images/books40x40.png">
+   <link rel="apple-touch-icon" sizes="155x155" href="/images/Study_stack155px.png">
+   <link rel="apple-touch-startup-image" href="/images/studystack320x480.png">
+
+
+
+<meta itemprop="name" content="StudyStack flashcards">
+<meta itemprop="description" content="The seriously fun way to study!!!">
 
 
    <title>Study Stack - Privacy</title>
@@ -14,7 +25,7 @@
      text-align: left;
   }
 </style>
-</head>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body>
 	
@@ -29,7 +40,44 @@
 
 
 
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '52462214664',
+      channelUrl : 'http://www.studystack.com/fbChannel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true, // parse XFBML
+      oauth      : true 
+    });
+
+    FB.Event.subscribe('auth.login', function(response) {
+       top.location = '/fbConnector.jsp';
+    });
+
+
+
+   if ( typeof facebookInitPage == 'function' ) {
+      facebookInitPage();
+   }
+
+
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
+
+
+</script>
+
+
 <script type="text/javascript">
    var studyStackId = 0 ;
    var userBadges = '';
@@ -61,32 +109,71 @@
    <div id="top">
       
 
-                 <div id="homePageLogo" onclick="top.location='/';" class="link"></div>
-<a href="http://tmportal.uspto.gov/external/portal/tow?SRCH=Y&amp;isSubmitted=true&amp;details=&amp;SELECT=US+Serial+No&amp;TEXT=77954953#" id="registeredTrademark">®</a>
+         
+
+<div id="homePageLogoX" onclick="top.location='/';" class="link">
+        <img src="/images/sslogo-noreflection.png" alt="" width="265" height="114">
+</div>
+<style>
+
+#likeButtons {
+   position: absolute;
+   top: 0px;
+   left: 330px;
+   height: 30px;
+   width: 300px;
+}
+
+.aLikeButton {
+   float: left;
+   height: 50px;
+   width: 90px;
+}
+
+#gplusWrapper {
+   position: absolute;
+   left: 110px;
+   top: 0px;
+}
+</style>
+
+<div id="likeButtons">
 
 
-<div style="position:absolute;top:51px;left:282px"> 
+<div class="fb-like" data-href="http://www.studystack.com" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
 
-
-       
-           <div id="browseOrSearchButton" onclick="top.location='/'"></div>
-           <div id="createFlashcardsButton" onclick="top.location='/CreateStack.jsp'"></div>
-       
-
+ <div id="gplusWrapper" class="aLikeButton">
+  <div class="g-plusone" data-size="medium" callback="StudyStack flashcards" data-href="http://www.studystack.com/"></div>
+ </div>
 
 </div>
 
 
 
 
-        
+
+
+
+
+        <!-- connectBoxX.jsp null -->
+<script type="text/javascript">
+   function fbLogout() {
+       FB.logout( function( response ) {
+           top.location = '/Logoff.jsp';
+       } );
+   }
+
+
+</script>
+
+
+
            <div id="logonBox" class="roundedCorners">
               
               <div id="faceBookConnectArea">
+                <div id="fbLoginButton" class="fb-login-button">Login with Facebook</div>
 
-                  <a class="fbconnect_login_button" href="#" onclick="FB.Connect.requireSession( facebook_onlogin ); return false;">
-                        <img src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_dark_medium_long.gif" alt="Connect with Facebook">
-                  </a>
+
 
                   <span id="withFB2">or...</span>
 
@@ -98,7 +185,7 @@
                  <label id="idLabel" for="id">Username</label>
                  <label id="wordLabel" for="word">Password</label>
                  <a href="/ForgotPassword.jsp" id="retrievePasswordLink">Reset Password</a>
-                 <a href="/SignUp.jsp" id="signUpLink">Sign Up</a>
+                 <a href="/SignUp.jsp" id="signUpLink">Free Sign Up</a>
                  <input id="submitLogon" onclick="document.cookie='cookietest=1';return true;" type="submit" value="Login">
                 </div>
               </form>
@@ -113,28 +200,59 @@
 
 
 
-<form action="http://www.studystack.com/gsearch.jsp" id="cse-search-box">
+<div style="position:absolute; top:40px; left: 310px; height: 30px; width: 400px;">
+ <form action="http://www.studystack.com/gsearch.jsp" id="cse-search-box">
   <div>
     <input type="hidden" name="cx" value="partner-pub-4909676113151654:yhlp7k-59l2">
     <input type="hidden" name="cof" value="FORID:9">
     <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" name="q" size="56">
+    <input type="text" name="q" size="46">
     <input type="submit" name="sa" value="Search">
   </div>
-</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-
+ </form>
+ <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
         <br>
         <div class="clearFloat"> </div>
+
 
    </div><!-- end top -->
 </div><!-- end topContainer -->
 <div class="clearFloat"> </div>
 <div id="container" class="roundedCorners">
     <div id="main">
+
+        <!--  rightAd = WIDE   -->
+
+        <div id="rightSide" class="wideRightSide">
+            
+
+
+
+<br>&nbsp;<br>
+
+
+
+
+
+
+
+
+        <div id="followUs" title="Follow us on Twitter" class="link" onclick="top.location='http://www.twitter.com/studystack' "></div>
+        <br>
+
+        <div id="facebookLink" title="Be a StudyStack fan on Facebook" onclick="top.location='http://www.facebook.com/studystackhome' "></div>
+        <br>
+
+
+        </div><!-- end rightSide -->
+
+
+
       <div id="leftSide" class="mainContentNarrow">
 
-        <div id="mainContent" class="leftContent roundedCorners">
+
+        <div id="mainContent" class="leftContent roundedCorners primaryBackground">
 
         
         
@@ -151,15 +269,19 @@ StudyStack reserves the right to modify this policy statement at any time withou
 
 <h2>Personally Identifiable Information (PII)</h2>
 
-When a user signs up to join StudyStack, StudyStack will store the e-mail address entered into our database of users.  StudyStack will not share your email address with any other company.   However, by providing your email address, StudyStack will be able to contact you if necessary with information about the StudyStack web site.<br><br>
+When a user signs up to join StudyStack, StudyStack will store the e-mail address entered into our database of users.  StudyStack will not share your email address with any other company.   However, by providing your email address, StudyStack will be able to contact you if necessary with information about the StudyStack web site.  Your email address is primarily used for resetting your password if you ever forget it.<br><br>
 
 StudyStack reserves the right to collect information regarding who entered what data.   This allows StudyStack to 
 notify the individual who entered a certain piece of information if it suspects that the information is incorrect.<br><br>
 
+If you use facebook to connect to studystack, your name and facebook profile picture will be displayed on flashcard pages that you create.  If you do not want this data displayed, do not use facebook to connect to studystack.
+<br><br>
 
 <h2>Non-Personally Identifiable Information (Non-PII)</h2>
 
 While you use the StudyStack web site, StudyStack may collect information such as what pages with-in the StudyStack web site you visited.   This information will only be used by StudyStack to improve the web site.<br><br>
+
+<b>Data that you enter for your flashcards will be displayed publicly.  Do not include personal information in your flashcards that you want to remain private!</b>
 
 
 <h2>Advertisements</h2>
@@ -173,7 +295,13 @@ Clicking on advertisements will redirect you to the web page of the advertiser. 
 
 
 <h2>Contacting Us</h2>
-If you have particular concerns about this privacy statement, please contact <a href="mailto:privacy@studystack.com">privacy@studystack.com</a>
+If you have particular concerns about this privacy statement, please contact <a href="mailto:privacy@studystack.com">privacy@studystack.com</a> <br>
+<br>
+John Weidner<br>
+13025 SW 47th ST<br>
+Mustang, OK 73064<br>
+<br>
+Phone: 405 806 0070<br>
 
 </td></tr></tbody></table>
 
@@ -184,44 +312,16 @@ If you have particular concerns about this privacy statement, please contact <a 
 
 
       </div><!-- end leftSide -->
-        <!--  rightAd = WIDE   -->
-
-        <div id="rightSide" class="wideRightSide">
-            
-
-
-
-<br>&nbsp;<br>
-
-<iframe id="fbRecommendations" src="http://www.facebook.com/plugins/recommendations.php?site=www.studystack.com&amp;width=300&amp;height=400&amp;header=true&amp;colorscheme=light&amp;font=arial&amp;border_color=%23ffffff" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:400px"></iframe>
-
-<br>&nbsp;<br>
-
-
-
-
-
-
-        <div id="followUs" title="Follow us on Twitter" class="link" onclick="top.location='http://www.twitter.com/studystack' "></div>
-        <br>
-
-        <div id="facebookLink" title="Be a StudyStack fan on Facebook" onclick="top.location='http://www.facebook.com/apps/application.php?id=52462214664' "></div>
-        <br>
-
-        <div id="eappsPromo" title="www.eapps.com" onclick="top.location='http://www.eapps.com'"></div>
-
-        <div id="hotChalkBadge" title="hotchalk.com" onclick="top.location='http://www.hotchalk.com/educational_links.htm'"></div>
-
-        </div><!-- end rightSide -->
-
 
         <div class="clearFloat"> </div>
     </div><!-- end main -->
        <div id="copyrightDiv">
             <br>
 
+
             
 <hr>
+
 <script type="text/javascript"><!--
 google_ad_client = "pub-4909676113151654";
 google_ad_output = "textlink";
@@ -232,14 +332,16 @@ google_ad_channel = "9465210592";
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 <br><br>
-Copyright ©2001-2011
+Copyright ©2001-2012
 <a href="/resumelink.jsp">John Weidner</a>
 All rights reserved.<br>
 <a href="/About.jsp">About</a>&nbsp;-&nbsp;
 <a href="/FAQ.jsp">FAQ</a>&nbsp;-&nbsp;
 <a href="/Terms.jsp">Terms of Service</a>&nbsp;-&nbsp;
 <a href="/privacy.jsp">Privacy Statement</a>&nbsp;-&nbsp;
-<a href="/SendSuggestion.jsp?studyStackId=0&amp;reference=http://www.studystack.com/privacy.jsp">Contact</a>&nbsp;-&nbsp;
+
+ <a href="/SendSuggestion.jsp?studyStackId=0&amp;reference=http://www.studystack.com/privacy.jsp">Contact</a>&nbsp;-&nbsp;
+
 <a href="/noads">Hide Ads</a>
 
             <br>
@@ -248,20 +350,8 @@ All rights reserved.<br>
             <br>
        </div>
 </div><!-- end container -->
-<div></div>
+<div>&nbsp;</div>
 
-<script type="text/javascript">
-   if ( typeof FB == 'undefined' ) {
-     hide( document.getElementById( 'faceBookConnectArea' ) );
-     hide( document.getElementById( 'fbRecommendations' ) );
-   }
-   else {
-
-          FB.init( "3194be0f0cc14cd458c77fecfb01fb6d", "xd_receiver.htm", 
-                    { channelUrl : "http://www.studystack.com/fbChannel.html" } );
-
-   }
-</script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -279,13 +369,14 @@ pageTracker._trackPageview();
    
 
 
-<script type="text/javascript" charset="utf-8">
+
+<script type="text/javascript">
   var is_ssl = ("https:" == document.location.protocol);
   var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
   document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
 
-<script type="text/javascript" charset="utf-8">
+<script type="text/javascript">
   var feedback_widget_options = {};
   feedback_widget_options.display = "overlay";  
   feedback_widget_options.company = "studystack";
@@ -294,6 +385,25 @@ pageTracker._trackPageview();
   feedback_widget_options.style = "idea";
   var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 </script>
+
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6034644" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6034644&amp;cv=2.0&amp;cj=1" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 
 
