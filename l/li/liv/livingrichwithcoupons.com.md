@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingrichwithcoupons.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234921id_/http%3A//www.livingrichwithcoupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingrichwithcoupons.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233327id_/http%3A//www.livingrichwithcoupons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Living Rich With Coupons
 
@@ -45,4 +45,4 @@ cindy@livingrichwithcoupons.com.
 
 _Updated: 9/21/11_
 
-[ ](http://www.stumbleupon.com/submit?url=%27http://www.livingrichwithcoupons.com/2009/04/privacy-policy-for-living-rich-with-coupons.html%27%20&title=%27Privacy%20Policy%20for%20Living%20Rich%20With%20Coupons%27%20target=) [](http://digg.com/submit/?phase=2&url=http://www.livingrichwithcoupons.com/2009/04/privacy-policy-for-living-rich-with-coupons.html) [](mailto:?subject=one%20more&body=http%3A%2F%2Fwww.livingrichwithcoupons.com%2F%3Fp%3D6) [](http://www.livingrichwithcoupons.com/2009/04/disclosure-policy-2.html)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.livingrichwithcoupons.com%2F2009%2F04%2Fprivacy-policy-for-living-rich-with-coupons.html&media=&description=Privacy+Policy+for+Living+Rich+With+Coupons)
