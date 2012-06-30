@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218060052id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630152031id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ We may share personally and non-personally identifiable information with third p
 Wolftrap.org provides you with the following choices regarding the use of your information: 
 
   * You may choose to not provide us with any contact information. However, if you do so, we will be unable to sign you up for either of our mailing lists, or enter any sweepstakes or contests. Additionally, your ability to navigate this Website may be impaired. 
-  * If you would like to opt-out of receiving further information from us and would like to be removed from our online mailing list, please visit [http://wolftrap.latestedition.com](http://wolftrap.latestedition.com/) and follow the 'Unsubscribe' procedure. 
+  * If you would like to opt-out of receiving further information from us and would like to be removed from our online mailing list, please visit <http://www.magnetmail.net/actions/subscription_manage_wolftrap.cfm> and follow the 'Unsubscribe' procedure or you may email us at [wolftrap@wolftrap.org](mailto:wolftrap@wolftrap.org). 
   * If you would like to change or modify information you have previously provided us for the postal mailing list, please send an email to [wolftrap@wolftrap.org](mailto:wolftrap@wolftrap.org). 
   * If you have any questions about this privacy policy or the practices of our Website, please contact:  
 Wolf Trap Foundation for the Performing Arts  
@@ -68,3 +68,29 @@ Wolftrap.org is not targeted to children under the age of 13, and we do not know
 
 **SECURITY**   
 We make every effort to have reasonable security procedures in place to protect the loss, misuse or alteration of information under our control. If you have any questions about the security of our Website, please contact [wolftrap@wolftrap.org](mailto:wolftrap@wolftrap.org).
+
+###  **Wolf Trap Donor Privacy Statement **
+
+The Wolf Trap Foundation for the Performing Arts respects the privacy of its donors and has put in place a privacy policy to honor your rights.
+
+The types of information Wolf Trap collects and maintains are:
+
+  * Contact information: name, address, telephone number and email address 
+  * Giving information 
+  * Information on events attended, publications received and special requests for program information 
+  * Information provided by the donor in the form of comments and suggestions 
+
+
+
+We use this information to understand our donors’ interests in Wolf Trap’s mission and to update them on our plans and activities.  All information concerning donors will be shared only with staff, board members, and consultants, including legal counsel and accountants, on a need-to-know basis. It will be kept strictly confidential unless permission is granted by the donors, or in the case of an estate, the Personal Representative, except to the extent Wolf Trap is required to release such information by law. 
+
+**Wolf Trap does not sell, rent, or lease its donors’ information to other organizations.**
+
+Wolf Trap offers opportunities for donors to be recognized publicly in association with their gift level; however, all donors are given the opportunity to remain anonymous and to decline public and/or private recognition. 
+
+If you have questions about this Donor Privacy Policy or if you wish to be removed from our donor recognition lists, then please email [development@wolftrap.org](mailto:development@wolftrap.org) or write to: 
+
+Wolf Trap Foundation for the Performing Arts  
+Attn: Development Department  
+1645 Trap Road  
+Vienna, VA  22182 ****
