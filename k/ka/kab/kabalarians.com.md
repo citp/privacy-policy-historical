@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205249id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630231947id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Looking for your Purpose in Life, the Meaning of a Name, Meaning of Baby Names, or how to Make a Name Change?
 
