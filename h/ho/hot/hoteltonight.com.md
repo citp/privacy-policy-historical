@@ -1,79 +1,102 @@
-> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207091814id_/http%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190650id_/http%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
 
 # Hotel Tonight - Privacy Policy
 
-### Last updated: May 18, 2011
+### Last Revised: April 15, 2012
 
-We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By using the HotelTonight mobile application (the “Application”), you are accepting the practices described in this Privacy Policy.**
+This privacy policy (“ **Policy** ”) explains how personally identifiable information is collected, used and disclosed by HotelTonight (“ **HotelTonight** ”, “ **we** ” or “ **us** ”) with respect to your access and use of HotelTonight’s iOS application, Android application, mobile web application and the website located at www.hoteltonight.com (collectively, the “ **Application** ”) and the booking and other services available through the Application (collectively, the “ **Service** ”) so you can make an informed decision about using the Service. 
 
-  
-
-
-### What Personal Information Do We Gather and Use?
-
-**Personally Identifiable Information.** When you use the Application or the booking and other services available through the Application (the “Services”), you may provide certain personally identifiable information, such as your name, email address, telephone number, postal address, date of birth, credit card number, expiration date, authentication code, or similar information. We may also collect personally identifiable information automatically when you use the Application or the Services. Finally, we might receive information about you from third-party sources, such as credit agencies. Some of the personally identifiable information we receive from you is needed to set up your account and transmit your reservation to a hotel. You can choose not to provide certain personally identifiable information, but then you might not be able to take advantage of the Services or other features available through the Application.
-
-We use personally identifiable information to respond to your requests, sell you a hotel room, improve your shopping experience, customize future shopping for you, improve the Application, develop other mobile applications and Internet websites, improve our marketing and promotional efforts, and to communicate with you. We also use such information to troubleshoot problems, resolve disputes, accomplish administrative tasks, enforce our agreements with you, including our License Agreement, Terms and Conditions and this Privacy Policy, comply with applicable law and cooperate with law enforcement activities.
-
-**Non-Personally Identifiable Information.** We also receive and store certain non-personally identifiable information, such as your mobile device type, operating system type, browser type and the like. This type of personal information does not identify you. We may also anonymize your personally identifiable information.
+We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
 
   
 
 
-### How We Use and Share Information
+### What Is Personal Information?
 
-We will not sell your personally identifiable information to anyone. We share personal information only as described below.
-
-**Affiliated Businesses We Control.** Subject to applicable legal restrictions, we may share your personal information with the affiliated businesses we control to make sure that your experience with us is as seamless as possible and that you have the full benefit of our offerings. The use of such information by such controlled affiliates remains subject to this Privacy Policy.
-
-**Affiliated Businesses We Do Not Control:** We work closely with hotels and other businesses that we do not control (“third party”). When you use the Application or Services to transact business, we may share your personally identifiable information with a third party. Except as specifically set forth in this Privacy Policy, we do not provide personally identifiable information to third parties for the marketing of their own products and services without your consent.
-
-**Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. We share customer's personally identifiable information with these agents as we deem necessary for them to perform their functions.
-
-**Promotional Offers:** We may enter into alliances, partnerships or other business arrangements with third parties for the purpose of providing you information regarding products and services that we think may be of interest to you. In addition, we may also use personally identifiable information to notify you about important changes to our mobile applications, new services and special offers we think you will find valuable. If you do not want to receive such offers, please adjust your customer communication preferences.
-
-**Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in this Privacy Policy (unless, of course, the customer consents otherwise). Also, in the event that Hotel Tonight is acquired, customer information will of course be one of the transferred assets.
+As used in this Policy, the term "personally identifiable information" means information that specifically identifies an individual (such as a name, user name or e-mail address), or information about that individual that is directly linked to information that specifically identifies an individual. Personally identifiable information does not include "aggregate" information, which is data we collect about the use of the Service or about a group or category of services or users, from which individual identities or other personally identifiable information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. 
 
   
 
 
-### Children
+### What Information Do We Collect?
 
-Hotel Tonight does not sell products for purchase by children. If you are under 18, you may use Hotel Tonight only with the involvement of a parent or guardian.
+_Active Collection_ : We collect information from you in various ways when you use the Service. For example, when you use the Service, we collect information: (i) that is provided to us (such as your name, email address, telephone number, postal address, date of birth, credit card number, expiration date, authentication code, or similar information); (ii) to which you provide us access; (iii) about you that is publicly available; and (iv) received by us about you from third-party sources (such as credit agencies). You can choose not to provide certain personally identifiable information but, if you choose to do so, you might not be able to take advantage of the Service. 
 
-  
+_Passive Collection_ : When you use the Service, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Service. We may also automatically collect certain logistical information in server logs, including information about how you use various features of the Service and information about the number, frequency and length of each session. 
 
+We may also automatically collect certain information through the use of "cookies." Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us to improve the Service and your experience. If we link cookies to any personally identifiable information, we will treat this information as personally identifiable information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service. 
 
-### Updating and Correcting Information
+We may also employ the use of anonymous identifiers, which are random strings of characters that are used for the same purposes as cookies on platforms, including certain mobile devices, where cookie technology is not available. 
 
-We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Application. But you may delete the Application from your device at any time. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
+We may use Web beacons or similar technology on the Service. Web beacons are small, invisible graphic images that may be used on the Service or in emails relating to the Service to collect certain information and monitor user activity on the Service, such as to count visits, understand usage effectiveness and to tell if an email has been opened and acted upon. 
 
-  
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). We may associate your device identifiers or phone number with your HotelTonight account. 
 
-
-### Notice of Privacy Rights to California Residents.
-
-California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the “Act”) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what personally identifiable information you do not want us to share with affiliated businesses or third parties. The request should be sent to the attention of our legal department, and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
+Personally identifiable information will be stored on secured servers, and we may store and process personally identifiable information in the United States and other countries. 
 
   
 
 
-### Conditions of Use, Notices, and Revisions
+### How Do We Use the Personally Identifiable Information We Collect?
 
-If you use the Application, your use and any dispute over privacy is subject to this Privacy Policy, our the Apple End User License Agreement and our Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the State of California. If you have any concern about privacy at Hotel Tonight, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the Terms of Use Agreement will change also. You should check our website to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+We use personally identifiable information collected through the Service for the purposes described in this Policy or elsewhere on the Service. For example, we may use personally identifiable information we collect: 
+
+  * to process and complete any transactions in connection the Service (e.g., to sell you a hotel room);
+  * to request feedback and to otherwise contact you about your use of the Service;
+  * to respond to your emails, questions, comments, requests and complaints, and to provide customer service;
+  * to monitor and analyze Service usage and trends;
+  * to personalize and improve the Service, and our users' experiences with the Service (such as providing content or features that match interests), and to increase the Service's functionality and user friendliness;
+  * to provide you with news and information about our or third-party events, offers, promotions and services we think will be of interest to you;
+  * to send you confirmations, updates, security alerts and support and administrative messages, and otherwise facilitate your use of, and our administration and operation of, the Service;
+  * to notify you about important changes to the Service; and
+  * for any other purpose for which the information was collected.
 
   
 
 
-### Contacting Us
+### What Personally Identifiable Information Do We Share With Third-Parties?
 
-You may contact us through the following means at the following addresses:
+We will not knowingly share the personally identifiable information we collect from you through the Service with third-parties, except as described in this Policy or on the Service. For example, we may share personally identifiable information as follows: 
 
-By Mail:
+  * with vendors, consultants, and other service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Service and who need access to such information to carry out their work for us;
+  * with hotels where you have purchased a hotel room through the Service;
+  * when you give us your consent to do so, including if we notify you on the Service that the information you provide will be shared in a particular manner and you provide such information;
+  * in an aggregated or anonymized form that does not directly identify you;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of HotelTonight, our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting HotelTonight or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service;
+  * to enforce or apply this Policy, the Terms, or our other policies or agreements; and
+  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of HotelTonight.
 
-144 Second St, 3rd Floor  
-San Francisco, CA 94105
 
-By Email:
 
-help@hoteltonight.com
+You understand that when you use the Service, information you provide via the Service, information you grant access to by using the Service, as well as any information you share with individuals through the Service, will be available to other users and in some cases may be publicly available (with the exception of personally identifiable information, which shall not become publicly available, unless such personally identifiable information is shared by you as part of a review, photo submission or other similar method) 
+
+We are not responsible for the actions of Service Providers or other third-parties, nor are we responsible for any additional information you provide directly to any other users or third-parties, and we encourage you to become familiar with third-party privacy practices before disclosing information directly to any such third-parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third-parties without your consent. 
+
+  
+
+
+### Links to Other Websites
+
+The Service may contain links to other websites. Any personally identifiable information you provide on the linked pages is provided directly to that third- party and is subject to that third-party's privacy policy. This Policy does not apply to such linked websites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other websites that are linked to/from the Service. We encourage you to learn about their privacy and security practices and policies before providing them with personally identifiable information. 
+
+  
+
+
+### What Steps Do We Take To Protect Your Information Online?
+
+We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service by any person using your password. Please advise us immediately if you believe your password has been misused. 
+
+  
+
+
+### What Choices Do You Have Regarding the Use of Your Information?
+
+You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by following the instructions within such emails or emailing us at [help@hoteltonight.com](mailto:help@hoteltonight.com). If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations. 
+
+  
+
+
+### Questions?
+
+If you have any questions about this Policy, please contact us at [help@hoteltonight.com](https://web.archive.org/web/20120630190650id_/http%3A//www.hoteltonight.com/help@hoteltonight.com). 
