@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414125522id_/http%3A//vivisimo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112030id_/http%3A//vivisimo.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Vivisimo | Information Optimization
+# Privacy Statement | Vivisimo, an IBM Company
 
-At Vivisimo, Inc. ("Vivisimo"), we recognize that privacy is important. The Vivisimo Privacy Policy ("Policy") document outlines information collection and use practices for Vivisimo's web search services offered on Vivisimo.com which are owned and operated by Vivisimo ("Vivisimo Web Search Services").
+At Vivisimo, an IBM Company, we recognize that privacy is important. The Vivisimo Privacy Policy ("Policy") document outlines information collection and use practices for Vivisimo's web search services offered on Vivisimo.com which are owned and operated by Vivisimo ("Vivisimo Web Search Services").
 
 By using Vivisimo Web Search Services, you consent to the collection and use of your information as described in this Policy, and Vivisimo's Terms of Use. Certain portions of the Vivisimo Web Search Services may be made available by third parties. The collection and use of your information in connection with such services and content may be governed by the privacy policies, terms of use, or other terms and conditions of such third parties.
 
@@ -36,8 +36,8 @@ Vivisimo constantly strives to provide the best service. As new products and cha
 
 ### Questions
 
-If you have any comments or questions about your privacy, please [contact us](https://web.archive.org/web/20110414125522id_/http%3A//vivisimo.com/about/contact-vivisimo.html).
+If you have any comments or questions about your privacy, please [contact us](https://web.archive.org/web/20120630112030id_/http%3A//vivisimo.com/about/contact-vivisimo.html).
 
 ### Copyright and Trademark
 
-All contents of this Web site are: Copyright © Vivisimo, Inc. All rights reserved. The Vivisimo and Clusty marks that appear throughout the Vivisimo Web Search Services belong to Vivisimo, Inc. and are protected by trademark laws. To seek permission to use any of the Vivisimo marks, please [contact us](https://web.archive.org/web/20110414125522id_/http%3A//vivisimo.com/about/contact-vivisimo.html).
+All contents of this Web site are: Copyright © Vivisimo, Inc. All rights reserved. The Vivisimo and Clusty marks that appear throughout the Vivisimo Web Search Services belong to Vivisimo, Inc. and are protected by trademark laws. To seek permission to use any of the Vivisimo marks, please [contact us](https://web.archive.org/web/20120630112030id_/http%3A//vivisimo.com/about/contact-vivisimo.html).
