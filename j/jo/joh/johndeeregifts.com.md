@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johndeeregifts.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230174549id_/http%3A//www.deere.com/wps/dcom/en_US/footer/privacy_statement/privacy_summary.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johndeeregifts.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112057id_/http%3A//www.deere.com/wps/dcom/en_US/footer/privacy_statement/privacy_summary.page) for the most accurate reproduction.*
 
 # John Deere Global Privacy and Data
 
@@ -262,7 +262,7 @@ Alternatively, you may visit the "Contact Information" tab for the contact infor
     * [English](https://web.archive.org/en_US/docs/html/privacy_footer/canadianprivacystatement.html)
     * [French  
 ](https://web.archive.org/en_US/docs/html/privacy_footer/frenchprivacystatement.html)
-  3. [John Deere Risk Protection Privacy Statment](https://web.archive.org/en_US/docs/html/privacy_footer/jdfinancialriskprotectionprivacystatement.html)
+  3. [John Deere Insurance Company Privacy Statement](https://web.archive.org/en_US/docs/html/privacy_footer/jdfinancialriskprotectionprivacystatement.html)
 
 
 
@@ -270,7 +270,7 @@ Alternatively, you may visit the "Contact Information" tab for the contact infor
 
 The Privacy Statements explain how John Deere and its controlled affiliates collect, use and disclose Personal Information and Machine Data. If you have any questions or comments, please contact either the Enterprise Privacy Office or a country contact listed below:
 
-GLOBAL PRIVACY OFFICE:  
+| GLOBAL PRIVACY OFFICE:  
 ---  
        Privacy Manager  
        Office of Corporate Compliance  
@@ -366,4 +366,6 @@ AUSTRALIA & NEW ZEALAND:
        **Australia** :  
        Free call: 1800 800 981 / Phone: +61 7 3802 3222  
        **New Zealand** :  
-       Free call: 0800 303 100
+       Free call: 0800 303 100  
+  
+---|---
