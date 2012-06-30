@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredperry.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231094500id_/http%3A//www.fredperry.com/aboutus/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredperry.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630104812id_/http%3A//www.fredperry.com/aboutus/security) for the most accurate reproduction.*
 
 # Fred Perry - Security & Privacy
 
@@ -16,3 +16,7 @@ Fred Perry is committed to protecting your privacy. We only collect information 
 When you make a purchase from Fred Perry.com you will be asked to provide your name, email address, billing address, delivery address, phone number and credit card or debit card number. Details of all your order transactions will be collected and stored.
 
 The information we hold about you needs to be accurate and up to date. You can check and amend the information we hold about you. The personal information that we hold about you will be held in accordance with our internal security policies.
+
+### Cookies
+
+Cookies are small amounts of information which we store on your computer. For more information about the cookies we use and what they mean for you, visit our [Cookies Policy](http://www.fredperry.com/aboutus/cookies-policy/) page.
