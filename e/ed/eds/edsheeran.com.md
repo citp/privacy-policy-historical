@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edsheeran.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234438id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsheeran.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630024733id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
 
 # 
 
-**LAST UPDATED:  **18 **** August 2009
+**LAST UPDATED:  **3rd January 2012 
 
 **Privacy Policy**
 
@@ -40,7 +40,7 @@ We gather three basic types of information through the Site: “ **Personally Id
 
 **3.             ****How Do We Disclose Information?**
 
-  * to our affiliates [www.wminewmedia.com/affiliates/](http://www.wminewmedia.com/affiliates/) who may use it for the purposes described in this Privacy Policy **.**   We are still responsible for the management of the PII. Our affiliate Warner Music Group ("WMG") has subscribed to and will adhere to the U.S.-EU Safe Harbor program ("Safe Harbor Program"). Click <http://www.wmg.com/privacy/safeharbor> to see WMG's Safe Harbor policy. More information about the Safe Harbor Program can be found at [http://www.wmg.com/privacy/safeharbor](http://www.export.gov/safeharbor/).
+  * to our affiliates [www.wminewmedia.com/affiliates/](http://www.wminewmedia.com/affiliates/) who may use it for the purposes described in this Privacy Policy **.**   We are still responsible for the management of the PII. Our affiliate Warner Music Group ("WMG") has subscribed to and will adhere to the U.S.-EU Safe Harbor program and the U.S.-Swiss Safe Harbor program (together the "Safe Harbor Program"). Click <http://www.wmg.com/privacy/safeharbor> to see WMG's Safe Harbor policy. More information about the Safe Harbor Program can be found at [http://www.wmg.com/privacy/safeharbor](http://www.export.gov/safeharbor/). 
 
 
   * to third parties who provide services to us, so that they can provide the services, such as data analysis, order fulfillment, infrastructure provision, IT services, customer service, e-mail delivery services, credit card processing and other similar services.
