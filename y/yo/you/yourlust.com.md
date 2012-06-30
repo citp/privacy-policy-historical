@@ -1,48 +1,51 @@
-> *The following text is extracted and transformed from the yourlust.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101141113id_/http%3A//yourlust.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlust.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112911id_/http%3A//yourlust.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - free porn tube videos at YourLust.com!
 
-The security of your Data is very important to Yourlust and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+**Updated May 31, 2012**
 
-This Site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
+Pursuant to our [Terms of Use](http://www.yourlust.com/terms.php), this document describes how we treat personal information related to your use of YourLust.com (the “Website”), including information you provide when using it.
 
-DATA COLLECTED
+We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
-  * Personal Information: 
-    * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
-    * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit Yourlust.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Yourlust.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * Log File Information: When you visit Yourlust.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * Emails: If you contact us, we may keep a record of that correspondence. 
+**Data Collected**
 
+_Browsing the Website._ You can watch videos and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
 
+_Registering on the Website._ Registration of an account is required for uploading videos and accessing other features on the Website. We require the following personal information at the time of registration: your username and password (which you generate) and e-mail address. You may also voluntarily provide your age, relationship status and gender. Your IP address is recorded automatically. Your username, age, relationship status and gender (if provided) will become publicly accessible on the Website.
 
-USES
+_Usage Information._ We may record information about your usage of the Website such as your video subscriptions, which users you communicate with, the videos you watch, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
 
-  * Your Personally identifiable information submitted to Yourlust.com is used to provide to the user the website's features and special personalized features. 
-  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Yourlust.com private mail, etc. Other Users can contact you through, private messages. 
-  * Any videos that you submit to Yourlust.com may be redistributed through the internet and other media channels, and may be viewed by the general public. 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. 
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
-  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Yourlust user-experience. 
+_Uploaded Content._ Any personal information or content you voluntarily disclose online, including videos, comments and your profile page, becomes publicly available and may be collected and used by others.
 
+_Correspondences._ We may keep a record of any correspondence between you and us.
 
+_Cookies._ When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
 
-DISCLOSURE OF INFORMATION
+**Data Usage**
 
-  * if under duty to do so Yourlust may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Yourlust.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Yourlust’s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
-  * Should you deliberately upload any illegal material Yourlust.com shall forward all available information to all relevant authorities and this without notice.   
-\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website.
 
+We will not use your e-mail address or other personal information to send commercial or marketing messages without your consent. We may use your e-mail without further consent for non-marketing or administrative purposes.
 
+We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates). They may also be used to provide targeted advertising based on your country of origin and other personal information.
 
-SECURITY
+We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes.
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+Your username may be displayed to other users alongside content you upload, including videos, comments and messages, and content you otherwise interact with, including “favoriting.”
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Yourlust.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Yourlust.com and you do so at your own risk. 
+Any videos that you submit may be redistributed through the internet and other media channels and may be viewed by the general public.
 
-YOUR RIGHTS
+**Disclosures of Information**
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at **mail@yourlust.com**
+We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.
+
+If you upload any illegal material to the Website, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
+
+**Miscellaneous**
+
+If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential. Anyone else with your password may access your account and other personal information.
+
+While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
+
+You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at [mail@yourlust.com](mailto:mail@yourlust.com)
