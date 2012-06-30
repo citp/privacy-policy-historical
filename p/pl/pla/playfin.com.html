@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2011-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111118120346id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630232754id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -65,8 +65,8 @@ var login_params=
     ,height: 92
     ,width: 300
     ,containerID: 'componentDiv'
-    ,UIConfig: '<config><body><captions background-color="#60FF76" color="#E4BBFF"></captions><controls><snbuttons buttonsize="35"></snbuttons></controls><background background-color="#fdd16e"></background></body></config>'
-    ,redirectURL: 'http://www.playfin.com/gigya_login?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F'
+    ,UIConfig: '<config><body><captions color="#E4BBFF"></captions><controls><snbuttons buttonsize="35"></snbuttons></controls><background></background></body></config>'
+    ,redirectURL: 'http://www.playfin.com/gigya_login?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F%3F'
 }
 
 var login_params2=
@@ -77,7 +77,7 @@ var login_params2=
   ,width: 500
   ,UIConfig: '<config><body><controls><snbuttons buttonsize="35"></snbuttons></controls></body></config>'
   ,autoDetectUserProviders: ''
-  ,redirectURL: 'http://www.playfin.com/gigya_login?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F'
+  ,redirectURL: 'http://www.playfin.com/gigya_login?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F%3F'
   ,facepilePosition: 'none'
 }
 
@@ -114,7 +114,7 @@ gigya.services.socialize.getUserInfo(conf,{callback:checkLogin});
 gigya.services.socialize.addEventHandlers(conf,
   {
     onLogout: function(eventObj) {
-      window.location.replace('http://www.playfin.com/gigya_logout?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F');
+      window.location.replace('http://www.playfin.com/gigya_logout?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F%3F');
     }
   }
 );
@@ -126,27 +126,17 @@ gigya.services.socialize.addEventHandlers(conf,
         <div id="clouds"></div>
         <div id="menubar-container"></div>
         <div class="container">
-	        
-            <div id="icons">
             <!-- gigya header here -->
                 
-  <div id="header_glogin">
-    <div id="login" style="display:none;">
-      Sign In
-      <div id="login-form">
-        Click on an icon to login to Playfin with any of these websites
+  <div id="icons_gigya">
+    <div id="header_glogin">
         <div id="componentDiv"></div>
-      </div> <!--login-form ends-->
-    </div>
-    <div class="clear" style="width: 350px;"> 
-      <img id="button-signin" src="/theme/Smarty/playfin/img/signincrab.png" alt="Sign in" style="CURSOR:pointer;">
     </div>
   </div>
   <script type="text/javascript">
      gigya.services.socialize.showLoginUI(conf,login_params);
   </script>
   
-            </div>
         
             <div id="header" class="span-24 last">
                 <div id="logo" class="span-7">
@@ -183,7 +173,7 @@ gigya.services.socialize.addEventHandlers(conf,
             <div id="subhead" class="span-24 last">
                 <div class="click-area"><a href="http://www.playfin.com"></a></div>
                 <div id="search">
-					<form action="/premiumsearch/" name="searchbox" method="post"> 
+					<form action="/premiumsearch/" name="searchbox" method="get"> 
 													<input id="search-box" type="text" size="25" name="searchstring" accesskey="/" tabindex="1" value="Search..." onfocus="this.value=''" onkeydown="setStyle('search-box', 'color', '#000000')">
 							
 							<script type="text/javascript">
@@ -462,12 +452,12 @@ google_ad_height = 600;
 								<h5>featured premium game</h5>
 																<div id="footpre-game">
 									<div class="span-2">
-										<a href="/premium-game/code-head:-x-treme-culture/kids/584/"><img style="height: 70px; width: 70px;" src="/realgames/images/img/584_code_146x110.jpg"></a>
+										<a href="/premium-game/bus-driver/driving/911/"><img style="height: 70px; width: 70px;" src="/realgames/images/img/911_busdriver_146x110.jpg"></a>
 									</div>
 									<div class="span-6 last">
-										<p class="prehead"><b><a href="/premium-game/code-head:-x-treme-culture/kids/584/">Code Head: X-Treme Culture</a></b></p>
-										<p>Test your knowledge of history, spelling, literature and more in this offbeat quiz game....</p>
-										<a href="/premium-game/code-head:-x-treme-culture/kids/584/"><u>Play Now!</u></a>
+										<p class="prehead"><b><a href="/premium-game/bus-driver/driving/911/">Bus Driver</a></b></p>
+										<p>Transport passengers around an attractive and realistic city!...</p>
+										<a href="/premium-game/bus-driver/driving/911/"><u>Play Now!</u></a>
 									</div>
 								</div><!--/footpre-game-->
 								<!--
@@ -501,5 +491,5 @@ google_ad_height = 600;
     
     
 
-<!-- Script Execution Time: 0.21878-->
+<!-- Script Execution Time: 0.13748-->
 <!--  --></body></html>
