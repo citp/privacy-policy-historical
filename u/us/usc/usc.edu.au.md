@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154536id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630191239id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
-
-[ ](https://web.archive.org/Home.htm)
-
-## Main Navigation
-
-## Sub-Navigation
-
-## Breadcrumbs
-
-## Main Content
 
 ### Privacy 
 
