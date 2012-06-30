@@ -1,16 +1,19 @@
-<!--The following is the downloaded HTML source of the postpost.com privacy policy that was archived on 2011-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201061429id_/http%3A//postpost.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the postpost.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630054536id_/http%3A//postpost.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
 		<title>PostPost - Privacy policy</title>
-		<meta name="description" content="PostPost strips out the noise by delivering search results from the people on Twitter you value most: the people you follow.">
-        <!-- css, reset is included -->
+		<meta name="description" content="PostPost - Dive into your Twitter timeline without drowning in it.">
+
 		<link type="text/css" rel="stylesheet" href="/static/css/pp-styles-min.css" media="screen, projection">
 		
+
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 		
 		<script type="text/javascript" src="/static/js/globals.js"></script>
+		<script type="text/javascript" src="/static/js/results-min.js"></script>
+
 		<script type="text/javascript">
 		var PP = PP || {};
 		PP.tokenString = '';
@@ -42,14 +45,30 @@
 	</head>
 	<body class="noUser">
 		<div class="container twoColRight">
-			<header id="header" class="noUser">
-				<a id="pptopmain" href="/" class="postpost">PostPost</a><!-- logo -->
-				<div id="helper-nav"><!-- nav -->
-					<a href="http://blog.postpost.com" id="blogLink">Blog</a>
-						<a id="twitSign" href="/login?as=twitter&amp;force_login=true"><img src="/static/img/global/sign-in-with-twitter-l.png" title="Sign in to PostPost via twitter"></a>
-			    </div><!-- /nav -->
-			</header>
-			<h1>Privacy</h1>
+
+	<header id="header" class="noUser">
+		<a id="pptopmain" href="/" class="postpost">PostPost</a><!-- logo -->
+
+		<section id="searchOuterTop">
+			<form name="search-start" id="search-start" action="/search" method="get">
+				<span class="searchInput"><input name="q" id="main-search-field" type="text" value="Brands, products, @usernames, #hashtags..."></span><span class="searchBtn"><input type="submit" id="keywordSearchSubmit" value="Search your timeline"></span>
+			</form>
+
+		</section>
+		
+		<ul id="helper-nav">
+			<li id="homeLink"><a href="/">Home</a></li>
+			<li id="twitSign">
+				<a href="/login?as=twitter&amp;force_login=true"><img src="/static/img/global/sign-in-with-twitter-l.png" title="Sign in to PostPost via twitter"></a>
+			</li>
+	    </ul>
+
+	</header>
+
+	<script type="text/javascript">
+        //to get the search flyover to work on search input click
+        PP.Listeners.onlySearch(true);   
+	</script>				<h1>Privacy</h1>
 	        <p class="pageSub">We take your privacy very seriously!</p>
 			
 			<div class="mainContent">
@@ -89,16 +108,12 @@ PLEASE READ THE FOLLOWING TERMS CAREFULLY BEFORE USING THIS WEB SITE.  Access to
 				
 
 			</div>
-			<div class="rightSidebar">
 			
-				<h3>Our twitter feed</h3>
-				<ul class="twitSide"></ul>
-				<a href="http://www.twitter.com/postposting" class="twitLink" title="our twitter link">Follow us on twitter</a>
-			</div>			
 		</div>
 		<footer id="footer">
 			<ul>
 				<li><a href="/" id="footHome">Home</a></li>
+				<li><a href="http://blog.postpost.com" id="footBlog">Blog</a></li>
 				<li><a href="/about" id="footAbout">About us</a></li>
 				<li><a href="/terms" id="footTerms">Terms &amp; Conditions</a></li>
 				<li class="currentPage"><a href="/privacy" id="footPriv">Privacy policy</a></li>
@@ -110,5 +125,4 @@ PLEASE READ THE FOLLOWING TERMS CAREFULLY BEFORE USING THIS WEB SITE.  Access to
 		<span id="spinnerSpan"><img src="/static/img/global/spinner_16.gif" style="position:absolute; top:33%;"></span>
 
 	
-    <script src="http://twitter.com/statuses/user_timeline/postposting.json?callback=PP.Twitter.getFOTD&amp;count=5" type="text/javascript"></script>
 </body></html>
