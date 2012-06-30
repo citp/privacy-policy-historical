@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imts.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231092027id_/http%3A//www.imts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imts.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105416id_/http%3A//www.imts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | International Manufacturing Technology Show 2012
 
@@ -53,6 +53,14 @@ If you have provided personal information to register as a member or in response
 ####  Consent to Collection, Use, and Disclosure of Personal Information
 
 By providing personal information to AMT or otherwise using the Site, you consent to AMT's collection, use, and disclosure of such information in accordance with this Privacy Policy, and to the other statements in the Privacy Policy, as it may be revised. You should check the Site regularly for changes to the Privacy Policy. AMT may, in its sole discretion, use other or additional means to notify you of changes in this Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you by sending an e-mail to the e-mail address that you most recently provided to us, and/or by prominently posting notice of the changes on the Site.
+
+####  IMTS E-mail Privacy Policy
+
+IMTS is committed to your privacy and protecting your information. This statement is to explain how the information you share with us is used.
+
+We only share your information with IMTS official partners and exhibitors with your express advance permission. Visitors can opt out of receiving e-mail from these entities initially through the registration process, and at any time by calling the CDS customer service hotline at 508-743-8535.
+
+Please note: If you share your information with IMTS partners or exhibitors through other channels, this is considered a separate relationship with that company and is not covered by this privacy policy. Examples of sharing include scanning your badge at a booth, or accepting an invite through the Customer Invitation Program.
 
 ####  Site Use on Behalf of Another
 
