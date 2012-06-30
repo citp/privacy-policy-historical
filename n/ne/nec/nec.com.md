@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213084748id_/http%3A//www.nec.com/global/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630220406id_/http%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | NEC
 
@@ -84,6 +84,4 @@ NEC will protect your Personal Information in accordance with the laws of Japan.
 
 ## 11.Contact us
 
-Please contact the Webmaster through the "[Contact Us (Others)](https://web.archive.org/cgi-bin/contact/select_qc.cgi)" section if you have any questions or comments about the above.
-
-Top of this page
+Please contact the Webmaster through the "[Contact Us (Others)](https://contact.nec.com/cgi-bin/contact/select_qc.cgi)" section if you have any questions or comments about the above.
