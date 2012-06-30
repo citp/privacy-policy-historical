@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215004id_/http%3A//www.schneider-electric.co.uk/sites/uk/en/general/legal-information/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630124839id_/http%3A//www.schneider-electric.co.uk/sites/uk/en/general/legal-information/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy | Schneider Electric UK
 
@@ -58,7 +58,9 @@ Cookies are pieces of data that may be sent to the browser on your computer's ha
 
 We also include web beacons (also known as clear gifs or web bugs) on our Sites and in our emails to track the success of our marketing campaigns. This means that if you look at our Sites or open an email from us we can see which pages of the Sites you visit. Our web beacons do not store additional information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened our email. If you object to web beacons, we recommend you follow the instructions for deleting existing cookies and disabling future cookies above. We will still know how many of our emails are opened and we will automatically receive your IP address, a unique identifier of your computer or other access device; but we will not identify you as an individual.
 
-We may also use third party web analytics services (for example Google Analytics, a popular web analytics service provided by Google, Inc.) to help us to analyse how users use the site. The service provider may be based outside the UK but your information will only be used for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage. The service provider may also transfer this information to third parties where required to do so by law, or where such third party provides the information on the service provider's behalf. The service provider will not associate your IP address with any other data held by them.
+We may also use third party web analytics services (for example AT Internet (Xiti) or Google Analytics, a popular web analytics service provided by Google, Inc.) to help us to analyse how users use the site. The service provider may be based outside the UK but your information will only be used for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage. The service provider may also transfer this information to third parties where required to do so by law, or where such third party provides the information on the service provider's behalf. The service provider will not associate your IP address with any other data held by them.
+
+By using our website, you agree that we can place these types of cookies on your device.
 
  **Security  
 **  
