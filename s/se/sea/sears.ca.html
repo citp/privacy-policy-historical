@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sears.ca privacy policy that was archived on 2011-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210072406id_/http%3A//www.sears.ca/content/customer-service/privacy-and-security/your-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sears.ca privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630165822id_/http%3A//www.sears.ca/content/customer-service/privacy-and-security/your-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,23 +7,41 @@
 	<meta name="msvalidate.01" content="04EF2B7277174CC8013FC99C88EF5232">
 	<meta name="y_key" content="d821074e899714b0">
 
+	<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
 	<title>your privacy | Sears Canada</title>
 	
+	
+	<script>
+		function getCookieValue(name) {
+					if (document.cookie.length>0) {
+						startIndex = document.cookie.indexOf(name + "=");
+						if (startIndex!= -1) {
+							startIndex=startIndex + name.length + 1;
+							endIndex=document.cookie.indexOf(";",startIndex);
+							if (endIndex == -1) endIndex = document.cookie.length;
+							return unescape(document.cookie.substring(startIndex, endIndex));
+						}
+					}
+					else return "";
+		}
+		
+		
+	</script>
 	
 	
 	
 	
     <link rel="stylesheet" type="text/css" href="/stores/combined.css.h-489179748.pack" media="all" charset="utf-8">
 	
-	<link rel="stylesheet" type="text/css" href="/stores/combined.css.h-1415310915.pack" media="screen" charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="/stores/combined.css.h-186864979.pack" media="screen" charset="utf-8">
     
     <link rel="stylesheet" type="text/css" href="/stores/combined.css.h551951467.pack" media="print" charset="utf-8">
 	
 	
-	<link rel="stylesheet" type="text/css" href="/stores/combined.css.h-461368.pack" charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="/stores/combined.css.h-1451042400.pack" charset="utf-8">
 	
 	
-		
+	
 	
     
 
@@ -41,7 +59,7 @@
 		try { document.domain = "sears.ca"; } catch (e) {}	
 	</script>
 	
-	<script type="text/javascript" src="/stores/combined.js.h-379557325.pack" charset="utf-8"></script>
+	<script type="text/javascript" src="/stores/combined.js.h-2053356590.pack" charset="utf-8"></script>
 	
 	
 	
@@ -142,7 +160,7 @@
 
 
 
-	
+
 
 
 
@@ -446,7 +464,7 @@
 
 
 
-	
+
 
 
 
@@ -516,6 +534,12 @@
 	    	<p id="userStatus"><span class="signIn">Hello, Please <a href="https://secure.sears.ca/my-profile">Sign In</a></span> | <a href="https://secure.sears.ca/join">Join</a></p>
             
             <script type="text/javascript">
+				// delete the SEARS_MOBILE cookie
+				var cookies = document.cookie;
+				if (cookies.indexOf('SEARS_MOBILE') > 0) {
+					document.cookie='SEARS_MOBILE=;path=/;domain=.sears.ca;expires=Thu, 01-Jan-1970 00:00:01 GMT';
+				}				
+				
 				function getCookieValue(name){if(document.cookie.length>0){startIndex=document.cookie.indexOf(name+"=");if(startIndex!=-1){startIndex=startIndex+name.length+1;endIndex=document.cookie.indexOf(";",startIndex);if(endIndex==-1)endIndex=document.cookie.length;return unescape(document.cookie.substring(startIndex,endIndex));}}
 else return"";}
 if(document.cookie.indexOf('firstName')!=-1){var name=getCookieValue('firstName');document.getElementById("userStatus").innerHTML='<span class="signedIn">'+'Hello'+' <span class="userName">'+name+'</span>.&nbsp;'+'<a href="https://secure.sears.ca/sign-out">Sign Out</a></span>';}else{document.getElementById("userStatus").innerHTML='<span class="signIn">Hello, Please <a href="https://secure.sears.ca/my-profile">Sign In</a></span>'+' | <a href="https://secure.sears.ca/join">'+"Join"+'</a>';}
@@ -530,9 +554,9 @@ if(document.cookie.indexOf('firstName')!=-1){var name=getCookieValue('firstName'
             
             <script type="text/javascript">	
 				var langId=1;var formatNumber=function(nStr)
-{nStr+='';x=nStr.split('.');x1=x[0];x2=x.length>1?'.'+x[1]:'';var rgx=/(\d+)(\d{3})/;while(rgx.test(x1)){if(langId==1){x1=x1.replace(rgx,'$1'+','+'$2');}else{x1=x1.replace(rgx,'$1'+' '+'$2');}}
-if(langId==2){return(x1+x2).replace('.',',');}
-return x1+x2;}
+{nStr+='';x=nStr.split('.');x1=x[0];x2=x.length>1?'.'+x[1]:'';var rgx=/(\d+)(\d{3})/;if(langId==1){while(rgx.test(x1)){x1=x1.replace(rgx,'$1'+','+'$2');}
+return x1+x2;}else{if(parseInt(x1)>=10000){while(rgx.test(x1)){x1=x1.replace(rgx,'$1'+' '+'$2');}}
+return(x1+x2).replace('.',',');}}
 var cartQtyMsg='Empty';var cartQty=Number(getCookieValue('cartItems'));if(cartQty>=1){document.getElementById('emptyMsg').style.display='none';cartQtyMsg='<span id="totalCartItems">'+cartQty+'</span>&nbsp;<span id="qualifier">Item'+(cartQty>1?'s':'')+':</span>'
 document.getElementById("cartQty").innerHTML=cartQtyMsg;document.getElementById("expressCheckout").style.display='inline-block';}else{document.getElementById('emptyMsg').style.display='inline-block';document.getElementById("expressCheckout").style.display='none';document.getElementById("cartPrice").innerHTML=cartQtyMsg;}
 if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));cartTotal=Math.round((parseFloat(cartTotal))*100)/100;document.getElementById("cartPrice").innerHTML=(langId==1?'$':'')+formatNumber(cartTotal.toFixed(2))+(langId==2?' $':'');}
@@ -548,9 +572,8 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
 				
 				<li class="first"><a href="http://www.sears.ca/content/specialty-services/gift-central">Gift Registry</a></li>
 				<li><a href="https://www.chaseloyalty.com/searsclub/switch_locale.do?locale=en" target="_blank">Sears Club points balance</a></li>
-				<li><a href="https://secure.sears.ca/catalog-request">Catalogues &amp; Flyers</a></li>
-				<li><a href="https://secure.sears.ca/order-from-catalogue">Order From Catalogue</a></li>
-				
+				<li><a href="http://www.sears.ca/weekly-flyers">Weekly Flyers</a></li>
+				<li><a href="https://secure.sears.ca/order-from-catalogue">Shop our catalogues</a></li>				
 			</ul>
 		</div>
 		
@@ -559,7 +582,7 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
 			
 			
 				<ul class="l1">
-   <li class="l1 tier1 first" id="special"><span class="icon" style="background: url('/wcsstore/Sears/images/content/tools/whn/holiday-icon.png') no-repeat;"></span><a class="l1" href="http://www.sears.ca/custom-content/holiday-2011">Holiday</a></li>
+   <li class="l1 tier1 first" id="special"><span class="icon" style="background: url('/wcsstore/Sears/images/content/tools/whn/overstocks-dolley-icon.png') no-repeat;"></span><a class="l1" href="/catalog/overstocks/4294814663">Overstocks</a></li>
    <li class="l1 tier1" id="cat1277"><a class="l1" href="http://www.sears.ca/catalog/women/11277">Women</a></li>
    <li class="l1 tier1" id="cat2061"><a class="l1" href="http://www.sears.ca/catalog/men/12061">Men</a></li>
    <li class="l1 tier1" id="cat213"><a class="l1" href="http://www.sears.ca/catalog/shoes/1213">Shoes</a></li>
@@ -583,7 +606,7 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
 			
 			
 			
-<l1-button name="Holiday" destination_uri="http://www.sears.ca/custom-content/holiday-2011" button_icon="/wcsstore/Sears/images/content/tools/whn/holiday-icon.png"> 
+<l1-button name="Overstocks" destination_uri="/catalog/overstocks/4294814663" button_icon="/wcsstore/Sears/images/content/tools/whn/overstocks-dolley-icon.png"> 
 		</l1-button></div>
 	</div>
 </div>
@@ -593,6 +616,7 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
         
         
         	
+	    
     
 
 
@@ -634,7 +658,7 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
 
 
 
-	
+
 
 
 
@@ -701,11 +725,13 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
    <div class="linkGroup first">
       <h4>Customer Service</h4>
       <ul>
+         <li><a href="http://www.sears.ca/content/customer-service/accessibility" adspotid="Footer_Zone1|Accessibility">Accessibility</a></li>
          <li><a href="http://www.sears.ca/content/customer-service/pricing-and-ordering" adspotid="Footer_Zone1|Pricing Policy ">Pricing Policy </a></li>
          <li><a href="http://www.sears.ca/content/customer-service/shipping-and-delivery/index" adspotid="Footer_Zone1|Shipping, Delivery &amp; Returns">Shipping, Delivery &amp; Returns</a></li>
          <li><a href="http://www.sears.ca/content/customer-service/common-questions/index" adspotid="Footer_Zone1|FAQs">FAQs</a></li>
          <li><a href="http://www.sears.ca/content/corporate-info/product-safety" adspotid="Footer_Zone1|Product Safety &amp; Recalls">Product Safety &amp; Recalls</a></li>
-         <li><a href="https://secure.sears.ca/catalog-request" adspotid="Footer_Zone1|Catalogues &amp; Flyers">Catalogues &amp; Flyers</a></li>
+         <li><a href="http://www.sears.ca/weekly-flyers" adspotid="Footer_Zone1|Weekly Flyers">Weekly Flyers</a></li>
+         <li><a href="https://secure.sears.ca/order-from-catalogue" adspotid="Footer_Zone1|Shop our Catalogues">Shop our Catalogues</a></li>
          <li><a href="http://www.sears.ca/store-locator" adspotid="Footer_Zone1|Store Locator">Store Locator</a></li>
          <li><a href="http://www.sears.com/international" adspotid="Footer_Zone1|Visit Sears.com ">Visit Sears.com </a></li>
          <li><a href="http://www.sears.ca/content/customer-service/index" adspotid="Footer_Zone1|See More">See More</a></li>
@@ -715,36 +741,38 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
       <h4>Other Services </h4>
       <ul>
          <li><a href="http://www.sears.ca/content/specialty-services/gift-central/gift-card-centre/sears-gift-card" adspotid="Footer_Zone2|Gift Cards">Gift Cards</a></li>
-         <li><a href="http://www.sears.ca/content/specialty-services/gift-central/ " adspotid="Footer_Zone2|Gift Registry">Gift Registry</a></li>
+         <li><a href="http://www.sears.ca/content/specialty-services/gift-central" adspotid="Footer_Zone2|Gift Registry">Gift Registry</a></li>
          <li><a href="http://www.sears.ca/services/installed-home-improvements/" adspotid="Footer_Zone2|Home Installation Services">Home Installation Services</a></li>
          <li><a href="http://www.sears.ca/content/specialty-services/parts-and-service/parts-landing" adspotid="Footer_Zone2|Parts &amp; Repair Services">Parts &amp; Repair Services</a></li>
          <li><a href="http://www.flowersbysears.ca/" adspotid="Footer_Zone2|Flowers By Sears">Flowers By Sears</a></li>
          <li><a href="http://www.searstravel.ca/" adspotid="Footer_Zone2|Sears Travel">Sears Travel</a></li>
          <li><a href="http://www.searsconnect.ca/" adspotid="Footer_Zone2|Sears Connect Telecom Services">Sears Connect Telecom Services</a></li>
+         <li><a href="http://find.searshomeservices.ca/" adspotid="Footer_Zone2|Find Door Installation">Find Door Installation</a></li>
          <li><a href="http://www.sears.ca/services" adspotid="Footer_Zone2|See More">See More</a></li>
       </ul>
    </div>
    <div class="linkGroup">
       <h4>Credit &amp; Finance</h4>
       <ul>
-         <li><a href="http://searscard.sears.ca/searsclub.html" adspotid="Footer_Zone3|Learn More about Sears Club">Learn More about Sears Club</a></li>
-         <li><a href="http://searscard.sears.ca/index.html" adspotid="Footer_Zone3|Sign up for a Sears MasterCard">Sign up for a Sears MasterCard</a></li>
-         <li><a href="http://searscard.sears.ca/index.html" adspotid="Footer_Zone3|Sign up for a Sears Card">Sign up for a Sears Card</a></li>
+         <li><a href="http://www.searsfinancial.ca/SearsClubPoints.aspx " adspotid="Footer_Zone3|Learn More about Sears Club">Learn More about Sears Club</a></li>
+         <li><a href="http://www.searsfinancial.ca/CreditCards.aspx " adspotid="Footer_Zone3|Sign up for a Sears MasterCard">Sign up for a Sears MasterCard</a></li>
+         <li><a href="http://www.searsfinancial.ca/CreditCards.aspx " adspotid="Footer_Zone3|Sign up for a Sears Card">Sign up for a Sears Card</a></li>
          <li><a href="http://www.sears.ca/content/customer-service/pricing/finance-options" adspotid="Footer_Zone3|Finance Options">Finance Options</a></li>
-         <li><a href="https://www.searsfinancialinsurance.ca/" adspotid="Footer_Zone3|Insurance Options">Insurance Options</a></li>
-         <li><a href="http://www.sears.ca/content/customer-service/pricing/finance-options" adspotid="Footer_Zone3|See More">See More</a></li>
+         <li><a href="http://searsfinancial.ca/fr/InsuranceServices.aspx?sc_lang=en" adspotid="Footer_Zone3|Insurance Options">Insurance Options</a></li>
+         <li><a href="http://www.searsfinancial.ca/" adspotid="Footer_Zone3|See More">See More</a></li>
       </ul>
    </div>
    <div class="linkGroup">
       <h4>About Sears Canada</h4>
       <ul>
+         <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=117881&amp;p=irol-reports" adspotid="Footer_Zone4|2011 Annual Report">2011 Annual Report</a></li>
          <li><a href="http://www.sears.ca/content/corporate-info" adspotid="Footer_Zone4|Corporate Information">Corporate Information</a></li>
          <li><a href="http://www.sears.ca/content/corporate-info/social-responsibility/in-your-community/index" adspotid="Footer_Zone4|Community Involvement">Community Involvement</a></li>
          <li><a href="http://www.sears.ca/content/merchandising/2011/charitable-foundation/0603" adspotid="Footer_Zone4|Sears Canada Charitable Foundation">Sears Canada Charitable Foundation</a></li>
          <li><a href="http://www.sears.ca/content/corporate-info/careers/index" adspotid="Footer_Zone4|Careers at Sears">Careers at Sears</a></li>
          <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=117881&amp;p=irol-news" adspotid="Footer_Zone4|Press Releases">Press Releases</a></li>
          <li><a href="http://www.sears.ca/content/corporate-info/press-kit/media-room/media-room" adspotid="Footer_Zone4|Media Room">Media Room</a></li>
-         <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=117881&amp;p=irol-reports" adspotid="Footer_Zone4|2010 Annual Report">2010 Annual Report</a></li>
+         <li><a href="http://www.sears.ca/content/corporate-info/fraud" adspotid="Footer_Zone4|Fraud Prevention">Fraud Prevention</a></li>
          <li><a href="http://www.sears.ca/content/corporate-info/business-opportunities/affiliate-program" adspotid="Footer_Zone4|Become an Affiliate">Become an Affiliate</a></li>
          <li><a href="http://www.sears.ca/content/customer-service/privacy-and-security/index" adspotid="Footer_Zone4|Privacy &amp; Security">Privacy &amp; Security</a></li>
       </ul>
@@ -773,14 +801,19 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
 			</div>
 		</div>
 		
+		
+		
+		
+		
 		<div class="legal">        	
 			<p class="left">				
                 <a href="http://www.sears.ca/sitemap">Site Map</a> <span class="pipe">|</span>
+				<a class="switch-to-mobile" href="http://www.sears.ca/app">Sears Mobile</a> <span class="pipe">|</span>
                 <a href="http://www.sears.ca/contact-us/email">Contact Us</a>
             </p>
             <p>
             	
-                Copyright © 2011, Sears Canada Inc. All rights reserved
+                Copyright © 2012, Sears Canada Inc. All rights reserved
             </p>
             <p class="right">
 				<a href="http://www.sears.ca/content/customer-service/privacy-and-security/legal-terms-and-conditions">Legal Terms</a> <span class="pipe">|</span>
@@ -807,10 +840,14 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
 	
 	
 	
-	<script type="text/javascript" src="/stores/combined.js.h-1770736518.pack" charset="utf-8"></script>	
+	<script type="text/javascript" src="/stores/combined.js.h1173482809.pack" charset="utf-8"></script>	
 	
 	
 	<script>
+		eStore.storeId = '10051';
+		eStore.catalogId = '10001';
+		eStore.lang = 'en';
+		eStore.langId = '1';
 		eStore.hosts.browse = 'www.sears.ca';
 		eStore.hosts.secure = 'secure.sears.ca';
 		eStore.hosts.static = 'static.sears.ca';
@@ -819,8 +856,8 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
 		try {
 			
 			
@@ -880,4 +917,5 @@ if(cartQty>=1){var langId=1;var cartTotal=Number(getCookieValue('cartTotal'));ca
 	
 	
 
-</body></html>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","d24fd3b381",591386,"b1dXYEYDWBcDB0JeClYdZkBGF0IXIwdCXgpWHVZbWUxfBg9KVVgIVVdHV1FMRRAQEUJES3pTRlF1AUINDQo=",0,131,new Date().getTime()])</script>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js"></script></body></html>
