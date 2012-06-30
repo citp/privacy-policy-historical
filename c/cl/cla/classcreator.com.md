@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005531id_/http%3A//www.classcreator.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630070138id_/http%3A//www.classcreator.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Class Creator Privacy Policy
 
@@ -41,5 +41,6 @@ For more information about Privacy and Security issues please read _[_Questions 
 If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us in writing at: 
 
 Class Creator  
-1300 S. Main St.   
-Ann Arbor, MI 48104
+3060 Packard  
+Suite G  
+Ann Arbor, MI 48108 
