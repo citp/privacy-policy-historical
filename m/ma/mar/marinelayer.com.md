@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the marinelayer.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129194123id_/http%3A//www.marinelayer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinelayer.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630171509id_/http%3A//www.marinelayer.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Marine Layer
 
-## Privacy Policy
-
-The abridged version is that we collect as little information from you as possible and do not share it with any third-party sources.  That’s not how we roll.  The more “professional” and detailed policy is as follows:
+The abridged version is that we collect as little information from you as possible and do not share it with any third-party sources. That’s not how we roll. The more “professional” and detailed policy is as follows:
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
