@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiff.net privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616134203id_/http%3A//tiff.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiff.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630182155id_/http%3A//tiff.net/privacypolicy) for the most accurate reproduction.*
 
-# TIFF.NET Home - Privacy Policy
+# Privacy Policy | tiff.net
 
 **Personal Information Protection and Privacy**  
 Toronto International Film Festival Inc ('TIFF') understands how important your privacy is.  We are committed to protecting your privacy and any personal information we collect about you.  The purpose of this Privacy Policy is to inform you about what personal information we collect and how and why we collect it, to outline the steps we take to keep your personal information confidential, and to provide you with contact information for the person to contact at TIFF should you have questions or concerns about our personal information protection practices. 
@@ -81,4 +81,4 @@ TIFF tries to ensure that all personal information about you that is in our poss
 You can inquire about, access and review your personal information held by TIFF Inc. and make corrections to it.  Please contact our customer relations team at 416 599-TIFF or send an e-mail to [Customer Relations](mailto:customerrelations@tiff.net) for assistance with these matters.  If there will be any charge for responding to your request, TIFF will advise you in advance.  In some cases TIFF Inc. will be prevented from disclosing the requested information to you.  If any request you make for access to personal information is denied, we will provide you with an explanation.
 
 **Resolving Your Concerns**  
-If you have any questions or concerns about TIFF's personal information collection, use and disclosure practices, please let us know and we will do our best to help you.  You can contact Andree Zverina, our Privacy Officer, for these purposes at 416 934-5842 or via [email](mailto:averina@tiff.net).
+If you have any questions or concerns about TIFF's personal information collection, use and disclosure practices, please let us know and we will do our best to help you.  You can contact Andree Zverina, our Privacy Officer, for these purposes at 416 934-5842 or via [email](mailto:azverina@tiff.net).
