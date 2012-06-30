@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsaver.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220022857id_/http%3A//dealsaver.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsaver.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630044925id_/http%3A//dealsaver.com/privacy_policy.html) for the most accurate reproduction.*
 
-# dealsaver™ Privacy Policy
+# dealsaver® Privacy Policy
 
 Effective Date: 4-26-11
 
@@ -18,7 +18,7 @@ Access to certain special content, services and features on dealsaver.com may re
 
 Some features and services of dealsaver.com may require additional personally identifiable information or other demographic information. We may collect other personally identifiable information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you have won a prize. All users may decline to share such information with us, by choosing not to register on dealsaver.com or not to use our services. Only registered members, however, may access certain content, services and features.
 
-You may also be asked to create a separate registration account with some of the services provided by partners and other third-party providers on dealsaver.com. Be aware that the information collected by a third-party provider will be subject to that provider's privacy policy and terms of service, rather than this Privacy Policy. We, therefore, recommend you review the privacy policy of each third-party service provider with whom you interact and each Web site you visit prior to submitting information in fconnection therewith.
+You may also be asked to create a separate registration account with some of the services provided by partners and other third-party providers on dealsaver.com. Be aware that the information collected by a third-party provider will be subject to that provider's privacy policy and terms of service, rather than this Privacy Policy. We, therefore, recommend you review the privacy policy of each third-party service provider with whom you interact and each Web site you visit prior to submitting information in connection therewith.
 
 If you wish to forward an deal offer, coupon, article or other dealsaver.com content to a friend, we will ask that you provide your friend's name and e-mail address. While we may collect statistics on which articles are forwarded, we do not sell, rent, or market your friend's personal information, and retain the information only as long as necessary to provide this service.
 
@@ -67,7 +67,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 Children's privacy
 
-dealsaver.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of dealsaver.com in order to access general dealsaver.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below., dealsaver.com, 1100 Situs Court, Raleigh, NC 27606, or 919-861-1200, or dealsaversupport@mcclatchyinteractive.com.
+dealsaver.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of dealsaver.com in order to access general dealsaver.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below., dealsaver.com, 1100 Situs Court, Raleigh, NC 27606, or 919-861-1200, or [dealsaversupport@mcclatchyinteractive.com.](mailto:dealsaversupport@mcclatchyinteractive.com)
 
 Member mail and e-mail offers
 
