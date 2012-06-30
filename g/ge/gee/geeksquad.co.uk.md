@@ -1,82 +1,121 @@
-> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219074117id_/http%3A//geeksquad.co.uk/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232640id_/http%3A//www.geeksquad.co.uk/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Geek Squad
 
-When you place an order with us, we need to collect certain information to be able to process your order. What we need varies depending on the items you have ordered, and the pages you are asked to complete will vary accordingly. The information is sent to us via an SSL encrypted server. This information will form part of a permanent record of your dealings with us.
+**Privacy Policy Summary**
 
-When you email us, we may ask for certain information to be able to check this record and answer your questions quickly and accurately. When you contact us, in any way, we may make a note of this contact if it is relevant to your permanent record. This allows us to provide a higher level of ongoing customer care.
+Geek Squad is a trading division of The Carphone Warehouse Limited, company number 2142673, whose registered office is at 1 Portal Way, London W3 6RS.
 
-We will keep your personal details, given to us by you or others during your relationship with us and other companies in the Carphone Warehouse Group plc group of companies (including our mobile and insurance companies).
+The Carphone Warehouse Limited (" **we** ", '' **us** '', '' **our** '') are committed to protecting and respecting your privacy.
 
-**These includes:**
+This summary, together with our full privacy policy and terms of use (which can be found at <http://www.carphonewarehouse.com/help/termsandconditions>) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-  * details you give us on application forms or during conversations with you on the telephone or on site,
-  * details you give us so that we can provide you with goods and services,
-  * details we receive from credit reference and fraud detection agencies.
+For the purpose of the Data Protection Act 1998 (the ''Act''), the data controller is The Carphone Warehouse Limited (company number 0214673) of 1 Portal Way, London, W3 6RS.
 
+**Information we may collect from you**
 
+We may collect and process the following data about you:
 
-**You agree that we may use and update this centrally held information:**
+* Information that you provide to us in your dealings with us. This includes information provided at the time of registering to use our site, subscribing to our services or requesting further services and/or information from us.
+* We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site.
+* If you contact us, we may keep a record of that correspondence.
+* Details of transactions you carry out through our site and of the fulfilment of your orders.
+* Details we receive from credit reference and fraud detection agencies.
+* Details of your visits to our site including, but not limited to, traffic data, location data and the resources that you access.
 
-  * for credit and credit related services and to manage your accounts
-  * to provide you with other services
-  * to identify other products and services which might be suitable for you
-  * to recover debts
-  * to prevent and detect fraud
-  * to update our records about you
-  * to prevent money laundering
-  * to check your identity
+Please see our full privacy policy and terms of use at <http://www.carphonewarehouse.com/help/termsandconditions> for further details.
 
+**IP Addresses**
 
+We may collect information about your computer, including where relevant your IP address, operating system and browser type. This data is processed for the purposes of fraud prevention, for various administrative purposes and may also be used by us to promote certain offers and advertisements according to your general location.
 
-You agree that we may use your personal information to make a credit check on you before we provide you with any services. These searches will be recorded by the credit reference agencies. We may disclose information about how you run your accounts to the credit reference agencies. We and other organisations may also use credit reference agency and fraud prevention agency records that we receive about you, people financially linked to you and others in your household to help make decisions about you and them.
+**Cookies**
 
-We may also use your information for research and statistical analysis with the aim of improving our services.
+For the same reason, we may obtain information about your general internet usage by using a cookie which is stored on your browser or the hard drive of your computer. Cookies are text files which contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, whereas others are aimed at enhancing and personalising your user experience.
 
-When assessing an application, we may use automated decision-making systems.
+The information gathered by cookies on our site(s) may be used in the following ways:
 
-If you request it, on payment of a fee, which is currently £10, we will provide you with a copy of the personal information to which you are entitled that we hold about you.
+* To tailor advertisements or promotions you receive. For example, if you have looked at a specific type of mobile handset, we might use this information to personalise any subsequent advertisements you see. We may also personalise our service based on the type of computer system you use, together with the purchase pattern of other customers who may have looked at similar products to you. We may also provide you with advertisements which may be customised using information such as the search terms you use on our site. For example, if you searched for a specific product or accessed our site via a specific banner ad or search word, we may present you with content and/or offers linked to that banner ad or searchword. 
+* We may use navigational information about where you go on our site to better understand how our site is used and to ensure that the product offerings that are presented to you are relevant. 
+* We do not use any data about where you go, or present you with advertisements outside of our site other than on sites which provide for such use in their respective privacy policies.
+* We may collect information on how frequently you visit the site and the type of products and/or services that you view to enable us to measure the popularity of our sites and our product offerings.
 
-The information we hold about you is confidential. We will only disclose it outside The Carphone Warehouse Group when:
+**Types of Cookie**
 
-  * you give us your consent
-  * it is needed by certain reputable third parties involved in running accounts and/or providing services for you (for example, credit reference agencies who do credit checks for us)
-  * in order to obtain professional advice
-  * regulatory or governmental body requests or requires it, even without your consent
-  * there is a duty to the public to reveal the information
+**Strictly Necessary Cookies**
 
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website, remembering how far you are through your pay as you go order, making sure that the geeksquad.co.uk website looks consistent or remembering what's in your basket when you're looking to buy that new cool smartphone. Without these cookies, many of the basic functionalities of our website - the stuff you expect the site to enable you to do like filling in your shopping basket, we simply can't provide.
 
+Tip - these cookies make the basic functions of the website work.
 
-We may administer your account and provide other services from centres in countries outside Europe that do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately protected, and we will remain bound by our obligations under the Data Protection Act even when your personal information is processed outside Europe.
+**Performance Cookies**
 
-**Use of cookies**  
-This website uses cookies. Cookies collect information about your use of the website, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc. This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers' rights. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you refuse cookies.
+These cookies collect information about how visitors use our website, for instance which pages visitors go to most often, and the pages that they don't. This understanding enables Geek Squad to continually improve the experience we deliver to you (and other visitors like you) so that the site is easy to use and includes content that you find helpful (for instance, performance cookies indicated that users find reviews really helpful and so that gave us confidence that we should provide more reviews on each smartphone product page) These cookies don't collect information that identifies a visitor - so we can't identify you individually. All the information these cookies collect is aggregated and therefore anonymous. This information is only used to improve how the Carphone Warehouse website works.
 
-**Monitoring**  
+Tip - these cookies collect anonymous information on the pages visited.
+
+**Functionality Cookies**
+
+These cookies allow the website to remember the choices you make as you browse the site (for instance, your login details to enable you to provide your comments in our new community forums). They provide more enhanced and personal features. The information they collect is anonymised and the usage only relates to www.geeksquad.co.uk - they cannot track your browsing activity on other websites once you've departed geeksquad.co.uk
+
+Tip - these cookies remember choices you have made to improve your website experience on www.geeksquad.co.uk
+
+**Advertising or Targeting Cookies **
+
+These cookies are used to deliver adverts more relevant to you, and your interests (assumed by analysing your onsite browsing behaviour). They can also provide caps on the number of times you might see an advert - to hopefully stop them becoming annoying and repetitive. These cookies remember that you have visited geeksquad.co.uk, track what products you may have looked at, and this information may be shared with our advertising partners. If you see an advert from Geek Squad, once you have left our site and are browsing other sites on the internet, that magically seems to understand what previously interested you (you browsed a specific smartphone handset and then see deals for that handset) then this is enabled by targeting cookies.
+
+Tip - these cookies collect information about your browsing habits in order to make advertising more relevant for you.
+
+By using this site, you agree to our use of cookies in the manner outlined above. If you do not wish to receive tailored advertising, you can withdraw this consent at any time by changing your browser settings to reject cookies.
+
+Please note that it is not a good idea to reject all cookies as this could prevent you from gaining full use of this site. To learn more about cookies [click here](http://www.allaboutcookies.org/), or to disable them [click here.](http://info.evidon.com/companies?cc=gb&external_opt_out=true&opt_out=true&opt_out_only=true).
+
+**Uses made of the information**
+
+We use information held about you in the following ways:
+
+* to provide you with goods and/or services that you have ordered
+* to prevent and detect fraud, crime and money laundering
+* to check your identity
+* to trace and recover debts
+* for credit and credit related services and to manage your accounts
+* to update our records about you
+* to make credit, fraud and identity checks on you (when applicable)
+
+You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Carphone Warehouse Group of companies and carefully selected third parties believe may be of interest to you. The Carphone Warehouse Group consists of The Carphone Warehouse Limited, together with its subsidiary and holding companies and any subsidiaries of such holding companies whether direct or indirect from time to time, including Best Buy Co. Inc. and its affiliates and subsidiary companies from time to time.
+
+If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+
+If you no longer wish to receive marketing communications from Geek Squad, please email [contact@geeksquad.co.uk](mailto:contact@geeksquad.co.uk) and confirm your full name, email address and mobile phone number or you can phone Geek Squad on 0800 049 6190. Alternatively, you can write to us at us c/o The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU. Please note that it may take up to 28 days for such changes to take effect.
+
+  
+**Disclosure of your information**
+
+We may disclose your personal information to any member of the Carphone Warehouse Group of Companies. We may disclose your personal information to third parties:
+
+* In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; and
+* if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
+
+We may also provide information about our dealings with you to credit reference and fraud prevention agencies. For full details about the third parties to which your data may be disclosed and how they may process this data, please see our privacy policy and terms of use at <http://www.carphonewarehouse.com/help/termsandconditions>
+
+  
+**Access to information**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Details of how to request a copy of your information can be found at[ How can I see a copy of the information you hold about me?](http://selfhelp.carphonewarehouse.com/SelfHelp/request.do?view\(\)=c%7b4fb25d20-d5c0-11de-e56d-000000000000%7d)
+
+  
+**Monitoring**
+
 We may monitor, record, store and use any telephone, email or other electronic communications with you for training purposes, so that we can check any instructions given to us and to improve the quality of our customer service. We will monitor network traffic from time to time for the purposes of backup and problem solving and in order to ensure that you are not misusing any of the services provided to you.
 
-**Protecting your privacy**  
-To the extent that sensitive personal data is processed about you, we will employ appropriate security measures given the nature of that data. However, you recognise that your use of the Internet and our website is entirely at your own risk. We have tried to create a secure and reliable website for our users. However, we have no responsibility or liability for the security of personal information transmitted via the Internet. We may need to provide some of your personal information to third parties that we use for the purposes of delivering specific services to you (e.g. customer support, or a shipping company if you have asked us to send something to you). Our website may provide links and banner advertisements to third party sites. Please note that we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. Since we do not control those websites, you are responsible for reviewing and abiding by the privacy policies of these third party sites.
+  
+**Changes to our privacy policy**
 
-**Accurate Information**  
-We may check what you have told us and share that information with fraud prevention agencies. It is important that you give us accurate information. If you give us false or inaccurate data and we suspect fraud we will record this at the fraud prevention agencies. You are responsible for informing us that your personal details have changed: for example, a change of address or to your title. You confirm that you will inform us of any change to your personal information as soon as is reasonably practicable in order that we may update our records. Please note that notification of any change to your personal information must be in writing(to the address below), and should include your account and/or telephone numbers with us.
+Any changes we may make to our privacy policy in the future will be posted on this page and/or in our privacy policy and terms of use at <http://www.carphonewarehouse.com/help/termsandconditions> and, where appropriate, notified to you by e-mail.
 
-**U.S.-EU Safe Harbor Framework**  
-We adhere to the U.S.-EU Safe Harbor Framework ("Safe Harbor Framework") Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the U.S. Department of Commerce's Safe Harbor Program As part of our participation in the Safe Harbor Framework, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance. This dispute resolution program covers only offline data collection (e.g. call center, postal mail, in-store registration), and does not cover online collection of data (e.g. via the Internet). If you have any complaints regarding our compliance with the Safe Harbor FrameworkSafe Harbor, you should first contact us at: The Legal Department, Geek Squad, 1 Portal Way, London, W3 6RT and we will endeavour to respond to you within a reasonable time following receipt of such notification. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe. Please allow at least 10 business days for us to respond prior to contacting TRUSTe. You can reach TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php> by fax at 415-520-3420, or by postal mail at Watchdog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our company name, the nature of the alleged privacy violation including details about how our data was collected and what causes you to believe a violation occurred, the resolution you are requesting, your contact information, and whether you allow the particulars of your complaint to be shared with us. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+  
+**Contact**
 
-**Contacting You**  
-During your time on this site you will have the opportunity to consent to us contacting you by e-mail, phone, SMS or MMS from time to time occasionally about products and services which The Carphone Warehouse Group of companies (including, without limitation, its insurance and mobile line telephony companies) and carefully selected third parties believe may be of interest to you.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU.
 
-**Security**  
-You must not use any computers, computer equipment, network resources or any services provided by us for any illegal purpose, or for accessing, receiving or transmitting any material deemed illegal, indecent, offensive or otherwise unacceptable under UK law.  
-You must not use any false identity in email or other network communications.  
-You must not use the services and/or network systems or any part thereof for fraudulent activities, or to breach another organisation's security (cross-network hacking). This is an illegal act and prosecution under criminal law may result.
-
-**Changes to Privacy Policy**  
-Please note that this policy will be reviewed, and may change, from time to time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
-
-**Your consent**  
-By using this website you are consenting to this privacy policy. We may in the future change this policy, and if we do so we will post the amended policy on this website.
-
-**Decision Making**  
-Any decision made by us in relation to the services provided to you shall be final.
+****
