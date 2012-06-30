@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuclearblast.de privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223717id_/http%3A//www.nuclearblast.de/en/shop/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuclearblast.de privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234539id_/http%3A//www.nuclearblast.de/en/shop/general/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Nuclear Blast
 
@@ -62,7 +62,7 @@ To top
 
 ## 9\. Opt-Out
 
-If your are a Registered User of our Web site, you may decline to receive further information in the future. You may also decline to have your personal data transmitted to partner companies or affiliates. You may refresh your preferences at any time by up-dating your personal data, or if you wish to be removed from our email-newsletter, by sending a blank email from the address you wish to unsubscribe to [listsnb-nbnews-unsubscribe@news.nuclearblast.de](https://web.archive.org/web/20111231223717id_/http%3A//www.nuclearblast.de/en/shop/general/listsnb-nbnews-unsubscribe@news.nuclearblast.de) and follow the short instructions you'll get by the automated mail from our list manager robot.
+If your are a Registered User of our Web site, you may decline to receive further information in the future. You may also decline to have your personal data transmitted to partner companies or affiliates. You may refresh your preferences at any time by up-dating your personal data, or if you wish to be removed from our email-newsletter, by sending a blank email from the address you wish to unsubscribe to [listsnb-nbnews-unsubscribe@news.nuclearblast.de](https://web.archive.org/web/20120630234539id_/http%3A//www.nuclearblast.de/en/shop/general/listsnb-nbnews-unsubscribe@news.nuclearblast.de) and follow the short instructions you'll get by the automated mail from our list manager robot.
 
 To top
 
