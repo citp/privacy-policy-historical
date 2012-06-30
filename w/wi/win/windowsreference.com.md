@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowsreference.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112304id_/http%3A//www.windowsreference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsreference.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630224939id_/http%3A//www.windowsreference.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Windows Reference
+# Privacy Policy » Windows Reference | Windows Reference
 
 The privacy of our visitors to windowsreference.com is important to us.
 
@@ -24,5 +24,9 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-**Fatal error** : Call to undefined function wp23_related_posts() in **/home/debianad/public_html/winref/wp-content/themes/ElegantBlue/page.php** on line **12**  
+#### Incoming search terms:
+
+  * [how can disabling cookies affect security in windows server 2008](http://www.windowsreference.com/privacy-policy/ "how can disabling cookies affect security in windows server 2008") (1)
+  * [window disable the hoc key from policy](http://www.windowsreference.com/privacy-policy/ "window disable the hoc key from policy") (1)
+
 
