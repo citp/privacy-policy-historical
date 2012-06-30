@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115091114id_/http%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630214245id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | MoneySmart
 
-Privacy
-
 Any information gathered when you use the MoneySmart website will not be disclosed or distributed further without your consent.
 
-We comply with the [Privacy Act 1988 (Cth)](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/ "Privacy Act 1988 \(Cth\)") which regulates the collection, storage, quality, use and disclosure of personal information. We also follow the Federal Government website guidelines issued by the [Australian Privacy Commissioner](http://www.privacy.gov.au/ "Australian Privacy Commissioner").
+We comply with the Information Privacy Principles in the [Privacy Act 1988 (Cth)](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/ "Privacy Act 1988 \(Cth\)") which regulates the collection, storage, quality, use and disclosure of personal information.  We also follow the Federal Government website guidelines issued by the [Australian Privacy Commissioner](http://www.privacy.gov.au/ "Australian Privacy Commissioner").
 
   * Collection of statistical information
   * Collection of personal information
@@ -17,7 +15,7 @@ We comply with the [Privacy Act 1988 (Cth)](http://www.austlii.edu.au/au/legis/c
 
 ## Collection of statistical information
 
-ASIC (or the service provider used by ASIC) only logs visits to this site for statistical purposes. The visitor information that is logged includes:
+ASIC (or the service provider used by ASIC) only logs visits to MoneySmart for statistical purposes. The visitor information that is logged includes:
 
   * The server address
   * The top level domain name e.g. .com or .gov etc
@@ -30,29 +28,41 @@ ASIC (or the service provider used by ASIC) only logs visits to this site for st
 
 ASIC may also collect information for research purposes, but without any identifying factors.
 
-No attempt will be made to identify your visit or browsing activities except in the unlikely event of an investigation. In an investigation, a law enforcement agency may inspect the internet service provider's log files with a warrant.
+For example, MoneySmart may include your visit to its superannuation calculator in preparing aggregate statistical information such as '20% of the people who used MoneySmart's superannuation calculator explored making extra contributions to their superannuation'.
 
-## Collection of personal information
+Other than for statistical purposes no attempt will be made to identify your visit or browsing activities except in the unlikely event of an investigation.  In an investigation, a law enforcement agency may inspect the internet service provider's log files with a warrant.
 
-This website will only retain personal information with your consent, via a prominent button that you may choose to click. Any time this occurs, you will be informed of the purpose for which the information is being collected.
+## Back to topCollection of personal information
 
-Your email details will only be used for the purpose for which you have provided it and will not be given to any outside party. Your email details will only be added to one of ASIC's mailing lists (e.g. a newsletter subscription) at your request.
+MoneySmart will only retain personal information with your consent, via a prominent button that you may choose to click.  Any time this occurs, you will be informed of the purpose for which the information is being collected.
 
-ASIC will not disclose or distribute your personal information without your consent.
+MoneySmart will not disclose or distribute your personal information without your consent, except where required to by law, for example by court order.
 
-## Cookies
+When you set up a personal profile in MoneySmart (so that you can save and retrieve your results for calculators and apps), or when you request subscription to our e-newsletter, MoneySmart will only require you to supply your email address.  All other details you might choose to supply are optional.
+
+Your email address will only be used for the purpose for which you provided it and will not be given to any outside party.
+
+You can amend all the information in your MoneySmart personal profile.
+
+## Back to topCookies
 
 This website may use cookies (small pieces of information exchanged between your web browser and a website server) for online surveys.
 
 ## Internet security risks
 
+MoneySmart employs a range of security measures to protect against data breaches, including firewalls, security patches, regular security testing and data encryption.  This website complies with the Australian Government Protective Security Policy Framework and Information Security Manual.
+
 As there may be security risks in sending information via the internet, you should assess these potential risks when deciding whether to use our online services.
 
-If you have any concerns about your privacy when using this website, email us at [info@moneysmart.gov.au](mailto:info@moneysmart.gov.au "info@moneysmart.gov.au") or phone the ASIC Infoline on 1300 300 630.
+If you have any concerns about your privacy when using this website, email us at [info@moneysmart.gov.au](mailto:info@moneysmart.gov.au "info@moneysmart.gov.au") or phone the ASIC Infoline on 1300 300 630.
 
-Last updated: 23 Aug 2011
+Last updated: 13 Mar 2012
 
- Helpful Not helpfulComments
+Helpful
+
+Not helpful
+
+Comments
 
 Thank you for your feedback
 
