@@ -1,37 +1,84 @@
-> *The following text is extracted and transformed from the kosimak.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201232907id_/http%3A//www.kosimak.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kosimak.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630161019id_/http%3A//www.kosimak.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Kosimak
+# Privacy Policy
 
-## PRIVACY
+## I. General
 
-The Information Kosimak Collects:
+### A.
 
-User Provided Information: You provide certain personally identifiable information (such as your name, email and in some cases mailing address) to Kosimak when choosing to participate in various activities on the Kosimak Sites such as uploading videos, posting messages or in the photo/video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+The operative parties referred to in this policy are Company and you, the user of this site.   
+1.Kosimak.com, is the publisher and operator of the websites listed at the beginning of this policy. Hereinafter, Kosimak.com shall be referred to as "Company". When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Company. Additionally, when the terms "The Site" or "Site" are used, these terms refer to the websites listed at the beginning of this policy.   
+2.You, the User - As the user of this site, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the site shall be referred to in applicable second- person pronouns. 
 
-Cookies Information: When you visit the Kosimak Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Kosimak uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Kosimak Sites may not function properly if the ability to accept cookies is disabled.
+### B.
 
-Log File Information: When you use the Kosimak Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+This Privacy Policy describes how we use information received about you when you visit our Site or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the Site. 
 
-The Way Kosimak Uses Information:
+## II. Revisions to this Policy
 
-If you submit personally identifiable information to us through the Kosimak Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Kosimak Sites.
+We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "last modified" date remains unchanged after you have -1- clicked the "refresh" button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed "last modified" dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
 
-Any personal information or photo/video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Kosimak Sites and other Users can contact you through messages and comments. Any videos that you submit to the Kosimak Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
+## III. Personal information that we collect
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Kosimak Site changes or for customer service purposes).
+Visitors to our site and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows: 
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Kosimak Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+### A. Members
 
-We use cookies and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Kosimak Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+Members are those users who interact with our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide their e-mail address in the process of registering a username. 
 
-When Kosimak Discloses Information:
+### B. Browsers
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+Browsers are visitors to the site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below). 
 
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+## IV. How we collect information from you
 
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Kosimak Sites.
+### A. Passive Collection 
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order,subpoena, or search warrant.
+We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address and other session data. 
 
-Kosimak also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Kosimak believes, in good faith, is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Kosimak, our Users or others. 
+### B. Active Collection 
+
+We collect information from you, such as your e-mail address and IP address, when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals. 
+
+## V.How we use your information
+
+The primary use for your information is to provide you with services you have requested. We also use your information to deliver customized services to you. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally may use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future.   
+We generally will use your information for the purposes for which you specifically provide it, for example, to verify membership, if applicable. We -2- also use your information for market research purposes - in order to increase your (and other users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. 
+
+##  VI. Special Cases. 
+
+It is our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Browsers or Members, or information regarding your use of the Services or Sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including:   
+1\. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;   
+2\. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other user policies;   
+3\. To operate our Services properly;   
+4\. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.   
+5\. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+
+## VII. Transmittals from Us 
+
+We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting support@Kosimak.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.   
+If you provide your information to us, use the Site, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you -3- understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law. 
+
+## VIII. Public Forums and Other Public Areas:
+
+### A. Public Forums 
+
+We may offer forums or other interactive features on the Site. We may also provide services that allow Members or Browsers to post messages or comments to the public. Any and all information posted to the Site, whether as a comment to a video or any other post, should immediately be considered to be public information. 
+
+### B. 
+
+Any information or content you voluntarily provide to Us should be considered public. You may have the opportunity to provide additional information or content that is not required for registration to the Site, and your voluntary provision of such information is solely your decision. 
+
+## IX. Our Commitment to Data Security.
+
+We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third- party 'hackers' from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber- criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures. 
+
+## X. How to Access or Modify Your Information.
+
+We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at support(at)kosimak.com. 
+
+## XI. Where to Direct Questions About Our Privacy Policy.
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at support(at)kosimak.com. 
+
+### \- End -
