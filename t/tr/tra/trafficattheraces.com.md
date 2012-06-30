@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trafficattheraces.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224344id_/http%3A//www.trafficattheraces.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficattheraces.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630094853id_/http%3A//www.trafficattheraces.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic at the Races
 
-**Traffic At The Races Privacy Policy
+**Traffic At The Races Privacy Policy**
 
 Traffic At The Races will not sell or pass on any information you give when joining to any third party.
 
@@ -11,5 +11,3 @@ We will contact you with updates offers and relevent information as well as a ne
 Newsletters and mail outs will contain advertising from third parties along with relevent updates and news.
 
 Any financial information will be used only for purchases from this site and by the relevent payment processor (paypal) we do not store sensitive information on our servers.
-
-**
