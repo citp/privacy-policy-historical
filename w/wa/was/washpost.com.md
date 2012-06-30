@@ -1,31 +1,21 @@
-> *The following text is extracted and transformed from the washpost.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306030213id_/http%3A//www.washpost.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washpost.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232003id_/http%3A//www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html) for the most accurate reproduction.*
 
-# The Washington Post: Privacy Policy
+# Privacy Policy - The Washington Post
 
-This web site contains information about The Washington Post newspaper for use by our readers, advertisers and other members of the public. 
+(amended as of Nov. 15, 2011)
 
-**What personally identifiable information will The Washington Post collect from me?**
+At the same time that The Washington Post Company and washingtonpost.com are committed to bringing you information tailored to your individual needs, we recognize the importance of protecting the privacy of your personally identifiable information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. Please note: this policy applies only to information collected by washingtonpost.com online, as specified below, and does not govern or apply to information collected or used by The Washington Post Company or its affiliates through other means
 
-We receive and store any information you enter on this web site or give us in any other way. We also receive and may store certain types of automatic information whenever you interact with us. For example, we obtain certain types of information when your web browser accesses this site, including your Internet Protocol (IP) address. 
+**What personally identifiable information do I provide to washingtonpost.com?**
 
-**How will you use my information?**
+Washingtonpost.com asks you to provide various types of personally identifiable information to enhance your experience on our site. During registration, washingtonpost.com asks for information such as your name, e-mail address, year of birth, gender, Zip code, country, street address, Job Title, Primary Responsibility, Job Industry and Company Size. The more information you provide, the better we are able to customize your experience. We may also ask you for other information at other times - such as when you enter a contest or participate in a promotion, when you post an online ad, when you participate in our message boards, or when you order products from us. Whenever you provide personally identifiable information to us, we will make an effort to link to our privacy policy. See below about “cookies” and what other information is collected.
 
-First and foremost, we will use the information for the purpose that you provided it - e.g. to start your subscription, to publish the classified advertisement that you ordered, or to answer the question you have asked us. 
+**How does washingtonpost.com use my personally identifiable information?**
 
-In addition, we may also use the information as part of our demographic research. In this event, the research is compiled and analyzed on an aggregated basis. 
+Our primary goal in collecting personally identifiable information is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications, online shopping and many other types of services, most of which are completely free to you.
 
-We may also use the information to contact you for reasons related to your original communication to us, or for matters including special offers that might be of interest to you. 
+Washingtonpost.com uses the personally identifiable information you provide to us in several ways. Some examples follow.
 
-**With whom does The Washington Post share my information?**
+A user’s personally identifiable information may be used by washingtonpost.com for editorial purposes such as to contact you as part of an online survey. Additionally, we may also use the information provided by you to: 1) contact you with legal notices, 2) to advise you of any changes or additions to our Service or terms and conditions, and 3) account status (including confirmation of registrations). If you do not wish to receive the foregoing and therefore unregister from the site, please contact [Customer Care](http://help.washingtonpost.com/ics/support/default.asp?deptID=15080) and ask to have your registration account deleted. Once your account has been deleted, you will no longer have access to washingtonpost.com, however, you may reregister at any time.
 
-When you provide information to us, you are providing it to The Washington Post Company, its divisions and subsidiaries, or vendors providing contractual services for The Washington Post (such as hosting vendors and list managers). As a general rule, we will not disclose any of your personally identifiable information to any company other than these, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it. Please note, however, that during the processing of transactions involving a credit card, we transmit your credit card number to the appropriate credit card company or bank. In addition, if customers do not pay us for products or services ordered, we may submit their account information to a third party collection agency. 
-
-Please be aware that on our site there are many links to washingtonpost.com, the Company's electronic information subsidiary. When you use those links, you leave our web site. Washingtonpost.com, or any other web site that you visit, may collect personally identifiable information from you. Each site has its own privacy policy. 
-
-**What about kids?**
-
-Kids under 13: Do not send us any information about yourself — including information like your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible. 
-
-Technology on the Internet is developing at a rapid pace, and we need to maintain our flexibility in the online arena. If we need to change our policy in the future, we will post these changes as soon as they go into effect.
-
-_Effective date: July 1, 2004  _
+We may also use information about our users and their activities on our site to send offers and information about The Washington Post Company and its affiliates. However, if you no longer wish to receive the foregoing, please contact [Customer Care](http://help.washingtonpost.com/ics/support/default.asp?deptID=15080) to request removal from this list.
