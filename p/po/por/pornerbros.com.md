@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornerbros.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007143745id_/http%3A//www.pornerbros.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornerbros.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630054415id_/http%3A//www.pornerbros.com/privacy) for the most accurate reproduction.*
 
-# Free Sex Videos - Hot Sex Movies - Free Porn Tube
+# Privacy Policy | Pornerbros.com
 
 This document explains you important information regarding the use and disclosure of User Data collected on PornerBros.com
 
@@ -12,8 +12,6 @@ DATA COLLECTED
 
 * Personal Information:  
 o Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
-
-[](http://www.hornymatches.com/dating/visit.php?campaign_id=40986 "Fuck Local Sluts")
 
 o Registered Users: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.  
 * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.  
