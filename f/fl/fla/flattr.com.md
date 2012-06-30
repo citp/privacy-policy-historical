@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the flattr.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217202929id_/http%3A//flattr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flattr.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630163645id_/https%3A//flattr.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Flattr.com
+
+  * [Terms of use](https://web.archive.org/terms)
+  * [Privacy policy](https://web.archive.org/privacy)
+
+
 
 _Date of Last Revision: 28 January 2011 17:30 BST_
 
