@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the endeavour.edu.au privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220070236id_/http%3A//www.endeavour.edu.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endeavour.edu.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630222653id_/http%3A//www.endeavour.edu.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Endeavour College of Natural Health
+# Privacy Policy - Endeavour College of Natural Health
+
+## Stay Informed »
+
+Subscribe to Endeavour's eNewsletter and stay up to date on news and events about the college.
 
 Endeavour College recognises the privacy concerns of visitors to its sites on the Internet. Specifically, Endeavour College recognises the importance of protecting the privacy of personally identifiable information collected about visitors to Endeavour College’s website. As a general policy, no personally identifiable information is automatically collected from visitors to Endeavour College sites, unless you provide Endeavour College that information voluntarily.
 
