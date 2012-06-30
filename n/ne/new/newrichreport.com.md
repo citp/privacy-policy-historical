@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newrichreport.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213234id_/http%3A//newrichreport.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrichreport.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112825id_/http%3A//newrichreport.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
