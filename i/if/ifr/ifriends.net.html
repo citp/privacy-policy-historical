@@ -1,23 +1,26 @@
-<!--The following is the downloaded HTML source of the ifriends.net privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226054112id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/General/Legal/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifriends.net privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630223903id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/General/Legal/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>Privacy Statement for iFriends</title>
+<title>Privacy Statement for College Blondes</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="swww.childkey" content="childkey.red">
-<link rel="meta" href="http://www.ifriends.net/ifpage.dll?t=ICRA_labels_Required_For_Parental_Control_Tools" type="application/rdf+xml" title="ICRA labels">
+<link rel="meta" href="http://www.collegeblondes.net/ifpage.dll?t=ICRA_labels_Required_For_Parental_Control_Tools" type="application/rdf+xml" title="ICRA labels">
 <meta http-equiv="pics-Label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l r (n 2 s 2 v 0 l 2 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 2))">
-<link rel="shortcut icon" href="http://images.ifriends.net/if_v2/WWEE/iFriendsV2/favicon/favicon.ico" type="image/x-icon">
-	<!---->
-
+<link rel="shortcut icon" href="http://images.ifriends.net/if_v2/WWEE/CollegeBlondes/favicon/favicon.ico" type="image/x-icon">
 	 <script>
 	var jsLangCode 		= "1";
-	var jsSiteSurname	= "iFriends";
+	var jsSiteSurname	= "College Blondes";
 	var jsSiteSurnameMaxCharacters	= 20;
-	var jsSiteCode		= "iFriendsV2";
+	var jsSiteCode		= "CollegeBlondes";
 	var jsDomainRoot	= "ifriends";
 	var jsDomainType	= "net";
 	var jsMbrBrowserType = "Other";
+	var lazy_tasks = {
+		"html": [],
+		"json": []
+	};
+
 </script>
 <!--Includeee:site/includes/data/DatesAndTime.htm-->
 
@@ -27,39 +30,137 @@
 <script language="JavaScript" src="http://images.ifriends.net/if_v2/JS/jQuery/jquery.jscrollpane.min.js" type="text/javascript"></script>
 <script language="JavaScript" src="http://images.ifriends.net/if_v2/JS/jQuery/jquery.mousewheel.min.js" type="text/javascript"></script>
 
+<script type="text/javascript" src="http://images.ifriends.net/if_v2/JS/jquery/jquery.fancybox-1.3.1.js"></script>
+<script type="text/javascript" src="http://images.ifriends.net/if_v2/js/jQuery/jquery.ba-postmessage.min.js"></script>
 <script language="JavaScript" src="http://images.ifriends.net/if_v2/JS/DragAndDropLibrary_v2.js" type="text/javascript"></script>
 <script language="JavaScript" src="http://images.ifriends.net/if_v2/JS/AllScripts_Min.js?201106201200" type="text/javascript"></script>
-<script language="JavaScript" src="http://images.ifriends.net/if_v2/JS/jQuery/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://images.ifriends.net/if_v2/JS/TourOverlay.js?200802121150" type="text/javascript"></script>
 		<script language="JavaScript" src="http://images.ifriends.net/if_v2/JS/swfobject.js" type="text/javascript"></script>
 <script type="text/javascript">
-	function saveSiteOptions(){
-		SetCookie('SiteBG' , getCheckedValue(document.frmSiteOptions.f_rdo_designchoice));
-	};
-	function changeBG(cValue){
-		$("body , html").attr('class',
-				   function(i, c){
-					  return c.replace(/siteBG-\d+/g, '');
-				   });
-		$("body , html").addClass('siteBG-' + cValue);
-		$("#MainParentNewLayout").removeClass('gs-border');
-		$(document).ready(function(){
-			setCheckedValue(document.frmSiteOptions.f_rdo_designchoice, cValue);
-		});
-		switch(cValue){
-			case "1":
-
-			break;
-			case "2":
-
-			break;
-			case "3":
-				$(document).ready(function(){
-					$("#MainParentNewLayout").addClass('gs-border');
-				});
-			break;
+	function getWidthHeight(ele,attribute){
+		if(attribute == "width"){
+			return (typeof(ele) === 'object' ? (ele.getAttribute('js-iFrameWidth') != null ? Number(ele.getAttribute('js-iFrameWidth')) : 680) : 680);
+		}else if (attribute == "height"){
+			return (typeof(ele) === 'object' ? (ele.getAttribute('js-iFrameHeight') != null ? Number(ele.getAttribute('js-iFrameHeight')) : 530) : 530);
 		}
-	};
+	}
+	function iframeModalBind() {
+		jQuery("a.js-iframeModal").each( function(){
+				jQuery(this).click(function() {
+					var parent = this;
+					iframeModalFancyBox(this);
+					return false;
+				});
+			});
+	}
+
+	function iframeModalFancyBox(target, opts) {
+		var options = opts || {};
+		var onStart = options.onStart || function(){};
+		var onComplete = options.onComplete || function(){};
+		var onClosed = options.onClosed || function(){};
+		var width = options.width || null;
+		var height = options.height || null;
+		var href = target.href || target;
+		jQuery.fancybox({
+			'resizeOnWindowResize'	: true,
+			'padding'				: 0,
+			'overlayOpacity' 		: .75,
+			'overlayColor'	 		: '#000',
+			'autoScale'				: false,
+			'transitionIn'			: 'none',
+			'transitionOut'			: 'none',
+			'scrolling'				: 'no',
+			'width'					: (width ? width : getWidthHeight(target,'width')),
+			'height'				: (height ? height : getWidthHeight(target,'height')),
+			'href'					: href + '#' +  encodeURIComponent(document.location.protocol + '//' + document.location.host ),
+			'hideOnContentClick' 	: true,
+			'type'					: 'iframe',
+			'onStart'				: function() {
+										jQuery('#fancybox-overlay').css('bottom', '-1000px').css('top', '-1000px');
+									},
+			'onClosed'				: onClosed,
+			'onComplete'			: onComplete,
+			'onStart'				: onStart
+		});
+	}
+
+	jQuery(document).ready(function(){
+		iframeModalBind();
+	});
+
+	jQuery.receiveMessage(function(e){
+		var obj = {};
+		e.data.replace(/([^=&]+)=([^&]*)/g, function(m, key, value) {
+			obj[decodeURIComponent(key)] = decodeURIComponent(value);
+		});
+		switch(obj.code){
+			case 'someinfo_upgrade':
+				if(obj.cgiresultcode == 'success'){
+					switch(obj.action.toLowerCase()){
+						case 'addcard_ireq':
+							iReqSubmitForm();
+						break;
+						case 'vip_showcam':
+							submitToGoPrivate();
+							jQuery.fancybox.close();
+						break;
+						case 'vip_goprivate':
+							guest_GoPrivate();
+							jQuery.fancybox.close();
+						break;
+						case 'gopremium':
+							submitToGoPremium();
+							jQuery.fancybox.close();
+						break;
+						case 'vgift':
+							iframeModalFancyBox('http://www.collegeblondes.net/ifpage.dll?t=Site/Includes/FCGiftDialog&pClub=');
+						break;
+						case 'lbregions':
+							jQuery.fancybox.close();
+							showSelectByRegion();
+						break;
+						case 'addcard_livecamspy':
+							jQuery.fancybox.close();
+							enterCS();
+						break;
+						case 'gopremium_intercept':
+							submitIreqForRemium();
+							jQuery.fancybox.close();
+						break;
+						case 'unlockvideo':
+							ArchiveManager.unlockContent();
+							jQuery.fancybox.close();
+						break;
+						default:
+							window.location.reload();
+						break;
+					}
+				}
+			break;
+			case 'resize_fancybox':
+				jQuery('#fancybox-inner').height(parseInt(obj.height)).width(parseInt(obj.width));
+				jQuery('#fancybox-wrap').height(parseInt(obj.height)).width(parseInt(obj.width));
+				jQuery.fancybox.center();
+			break;
+			case 'open_huitf':
+				window.location.href = "http://www.collegeblondes.net/ifpage.dll?t=tools/feedback/main&pID=0&pAppCode=IFPage&pHost_ComputerName=US2WWW493-7-275&pTemplateName=site/General/Legal/Privacy.htm";
+			break;
+			case 'open_diamond':
+				window.location.href = "http://www.collegeblondes.net/ifpage.dll?t=site/tools/diamond/main";
+			break;			
+		}
+	} , function(source){
+			if (source == "https://secure.ifriends.net") {
+				return true;
+			} else if (source == "http://livesupport.ifriends.net") {
+				return true;
+			}
+			return false;
+		}
+	);
 </script>
+
 <script language="Javascript">
 window.onerror = function (message, url, line){
 	if(message.indexOf("uncaught exception") > -1 && message.indexOf("Location.toString") > -1  && line == 0)
@@ -74,12 +175,12 @@ window.onerror = function (message, url, line){
 		#FeatureHdr div {position:relative; top:-27px; float:right; font-family: verdana; font-size: 9px;  padding-right:15px; text-align:right;}
 	</style>
 
-<!-- CSS used for InHouse Content -->
+<!-- css used for InHouse Content -->
 	<style type="text/css">
 		.InHouse {font-family: Verdana, Helvetica, sans-serif; font-size:12px; color: red;}
 	</style>
 
-<!-- CSS used to wrap long strings of text that might break layout -->
+<!-- css used to wrap long strings of text that might break layout -->
 
 <!--[if lt IE 8]>
 	<STYLE type="text/css">
@@ -88,560 +189,1017 @@ window.onerror = function (message, url, line){
 	white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
 	white-space: -pre-wrap; /* Opera 4-6 */
 	white-space: -o-pre-wrap; /* Opera 7 */
-	white-space: pre-wrap; /* CSS3 - Text module */
+	white-space: pre-wrap; /* css3 - Text module */
 	word-wrap: break-word; /* IE 5.5+ */}
 	</STYLE>
 <![endif]-->
 
+<link rel="stylesheet" type="text/css" href="http://images.ifriends.net/if_v2/wwee/locked_jquery.fancybox-1.3.1.css" media="screen">
+	<link rel="stylesheet" type="text/css" id="ssGeneral" href="http://www.collegeblondes.net/global/css/partners/css/_default_/global_styles_required_by_sitelevel_omnipresent_elements.css">
+	<link rel="stylesheet" type="text/css" id="ssGlobalPulldownMenus" href="http://www.collegeblondes.net/global/css/partners/css/_default_/global_pulldownmenus.css">
+		<link rel="stylesheet" type="text/css" id="ssModalWindow" href="http://www.collegeblondes.net/global/css/partners/css/locked/modalwindow_v2.css">
 
 
-	<!--Includeee:Site/Includes/Data/SetVariable.htm?i_NavBarVersion=2-->
+<!-- different IFsection header styles, firefox vs. MSIE -->
+	<style type="text/css">
+		#FeatureHdr {position: relative; width:auto;}
+		#FeatureHdr p {position: absolute; text-indent: 15px; top:0px; font-family: verdana; font-size: 11px; font-weight: bold;}
+		#FeatureHdr div {position:relative; top:-27px; float:right; font-family: verdana; font-size: 9px;  padding-right:15px; text-align:right;}
+	</style>
 
-		<link rel="stylesheet" type="text/css" id="ssGeneral" href="http://images.iFriends.net/IF_V2/WWEE/IFRIENDSV2/CSS/Global_Styles_Required_By_SiteLevel_Omnipresent_Elements_v3.css?v=20110720">
-		<link rel="stylesheet" type="text/css" id="ssGlobalPulldownMenus" href="http://images.iFriends.net/IF_V2/WWEE/IFRIENDSV2/CSS/Global_PulldownMenus_v3.css?v=201008311532">
-		<link rel="stylesheet" type="text/css" id="ssModalWindow" href="http://images.iFriends.net/IF_V2/WWEE/Locked_ModalWindow_v2.css">
+<!-- css used for InHouse Content -->
+	<style type="text/css">
+		.InHouse {font-family: Verdana, Helvetica, sans-serif; font-size:12px; color: red;}
+	</style>
 
+<!-- css used to wrap long strings of text that might break layout -->
 
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	function appendDynamicJsFile(url)
-	{
-	   var e = document.createElement("script");
-	   e.src = url;
-	   e.type="text/javascript";
-	   document.getElementsByTagName("BODY")[0].appendChild(e);
-	}
-	if(typeof addEvent != 'undefined'){
-		addEvent(window , 'load', function(){
-			   appendDynamicJsFile(gaJsHost + 'google-analytics.com/ga.js');
-			   appendDynamicJsFile('http://www.ifriends.net/global/js/GoogleAnalyticsInvoke.js');
-			});
-	}
-</script><style type="text/css">
+<!--[if lt IE 8]>
+	<STYLE type="text/css">
+	.longTextWrap
+	{overflow:auto;
+	white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	white-space: pre-wrap; /* css3 - Text module */
+	word-wrap: break-word; /* IE 5.5+ */}
+	</STYLE>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://images.ifriends.net/if_v2/wwee/locked_jquery.fancybox-1.3.1.css" media="screen">
+	<link rel="stylesheet" type="text/css" id="ssGeneral" href="http://www.collegeblondes.net/global/css/partners/css/CollegeBlondes/global_styles_required_by_sitelevel_omnipresent_elements.css">
+	<link rel="stylesheet" type="text/css" id="ssGlobalPulldownMenus" href="http://www.collegeblondes.net/global/css/partners/css/CollegeBlondes/global_pulldownmenus.css">
+		<link rel="stylesheet" type="text/css" id="ssModalWindow" href="http://www.collegeblondes.net/global/css/partners/css/locked/modalwindow_v2.css">
+
+<style type="text/css">
 body {padding:0px;}
 </style>
 	
-</head>
-<body id="isStandardTemplate" class="hasSidebar ">
+	
+
+
+		
+<style type="text/css">
+	#if-spotlight-slideup { z-index:555; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; position:fixed;bottom:-80px;right:0px;width:100%;margin:0;height:80px;text-align:left; }
+	#if-spotlight-content { position: relative; text-align:center; width:945px; height:74px; margin:0 auto; padding-top:6px; padding-left:21px;background-image:url(http://images.ifriends.net/if_v2/spotlightSlideUp/black_bck.png); background-repeat:no-repeat; }
+	#if-spotlight-hosttext { position:absolute; top:25px; right:228px; font:15px Arial; color:#000000; font-style:italic; font-weight:bold; }
+	#if-spotlight-tag { position:absolute; top:30px; right:91px; font:20px Arial; color:#FFFFFF; font-style:italic; }
+	#if-spotlight-host { float:left; }
+	#if-spotlight-slideup-close { float: right;margin-top: 10px;text-align: center;width: 17px; height:19px; position:absolute; right:12px; }
+	#if-spotlight-slideup-close img { margin:4px 0 0 0; }
+	#if-spotlight-slideup-close a { color:white;background-color:#000000;width:11px;padding: 0px 3px;display:block; float:right;text-decoration:none;height:19px; }
+	#if-spotlight-landinglink { display:block; text-decoration:none; border:0;}
+</style>
+</head><body id="isStandardTemplate" class="hasSidebar "><div id="if-spotlight-slideup">
+	<div id="if-spotlight-content">
+        <div id="if-spotlight-slideup-close"><a class="gs-arial11" href="javascript:void(0);" onclick="if_spotlight_slideupClose();"><img src="http://images.ifriends.net/if_v2/buttonX_lrg.png" width="11" height="11" border="0"></a></div>
+		<a id="if-spotlight-landinglink" href="http://www.collegeblondes.net/membrg/ShowCam_v2_custom.dll?pClub=SEXYJENN_18&amp;pSource=AdultStars_SlideUp&amp;pSiteCode=CollegeBlondes">
+			<img id="if-spotlight-host" src="http://barchives.ifriends.net/image/SEXYJENN_18/Profile_PS_SlideUp.jpg" width="550" height="74" border="0">
+			<div id="if-spotlight-hosttext">
+				"Come See Me, I'm<br>
+	Ready to Please You!"
+			</div>
+			<div id="if-spotlight-tag">
+				Let's Play!
+			</div>
+        </a>
+	</div>
+</div>
+<script type="text/javascript">
+	function if_spotlight_slideupClose(){
+		jQuery("#if-spotlight-slideup").animate({bottom: "-80"}, "slow");
+	}
+	setTimeout( function(){
+		jQuery("#if-spotlight-slideup").animate({bottom: "0"}, "slow");
+		}, 5 * 1000);
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+		//event listeners for communication with iFrame modal window:
+		if (window.addEventListener) {
+			window.addEventListener("message", resizeIframeModal, false);
+		} else if (window.attachEvent) {
+			window.attachEvent("onmessage", resizeIframeModal);
+		} else if (document.attachEvent) {
+			document.attachEvent("onmessage", resizeIframeModal);
+		}
+	});
+
+	function resizeIframeModal(event) {
+		//reads a postMessage event and performs actions based on the message.
+		var message, action, arg;
+		try {
+			//parsing the action and the argument from the event.data object.
+			message = event.data.split(';');
+			action = message[0];
+			width = message[1];
+			height = message[2];
+		} catch (e) {}
+		if (action == "resizeModal") {
+			jQuery('#fancybox-inner').height(parseInt(height));
+			jQuery('#fancybox-wrap').height(parseInt(height));
+			jQuery('#fancybox-inner').width(parseInt(width));
+			jQuery('#fancybox-wrap').width(parseInt(width));
+			jQuery.fancybox.center();
+		}
+	}
+	function showiReqFeedModal(url,onComplete,onClosed)
+	{
+		jQuery.fancybox({
+			'padding'				: 0,
+			'overlayColor'  		: '#000',
+			'overlayOpacity'		: 0.75,
+			'width'					: 555,
+			'height'				: 373,
+			'href'					: url+'&pCallingHost=www.ifriends.net',
+			'type'					: 'iframe',
+			'hideOnOverlayClick'	: false,
+			'onComplete'			: onComplete,
+			'onClosed' 				: onClosed
+		});
+	}
+</script>
+
 <div id="MainParentNewLayout">
-<!--varr:gSiteHeaderBannerPathUniversal-->
 <!--  -->
 
 <!---->
 
 
-	<div id="if-headerParent" style="">
-		<a id="if-headerSiteHomeLink" href="http://www.ifriends.net"></a>
-		<div id="if-headerSiteOptions_Parent">
-			<a class="icon icon-home" href="http://www.ifriends.net"><img border="0" src="http://images.ifriends.net/IF_V2/tp.gif"><span>Home</span></a> <span class="if-linkDivider" style="color:#cccccc;">|</span>
-					<a class="icon icon-talkbubble" title="Contact with customer service representatives and get immediate assistance with account inquiries or other site-related questions." href="http://www.ifriends.net/ifpage.dll?t=site/tools/Diamond/main">
-<img border="0" src="http://images.ifriends.net/IF_V2/tp.gif"><span>Live Support</span></a> <span class="if-linkDivider" style="color:#cccccc;">|</span>
+<!--
+-->
 
-			<div style="display:none;" id="SiteOptionsParent">
-				<form name="frmSiteOptions" style="margin:0px;">
-					<div style="margin-left:5px;margin-bottom:5px;"><b>Color Scheme:</b></div>
-					<div style="margin-left:10px;line-height: 1.5em;">
-						<input type="radio" id="f_rdo_designchoice" name="f_rdo_designchoice" value="1" onclick="changeBG(this.value);" checked="">Default<br>
-						<input type="radio" id="f_rdo_designchoice" name="f_rdo_designchoice" value="2" onclick="changeBG(this.value);">Light Blue<br>
-						<input type="radio" id="f_rdo_designchoice" name="f_rdo_designchoice" value="3" onclick="changeBG(this.value);">Plain
-					</div>
-					<div style="text-align:center;margin:5px 0px 0px 0px;">
-						<a class="if-button" href="javascript:void(0);" onclick="$('#SiteOptionsParent').hide();saveSiteOptions();return false;" style="color:white;"><span>Save Changes</span></a>
-						<div><a href="javascript:void(0);" onclick="$('#SiteOptionsParent').hide(); changeBG((GetCookie('SiteBG') != null ? GetCookie('SiteBG') : '1')); return false;">close</a></div>
-					</div>
-				</form>
-			</div>
-			<a class="icon icon-siteoptions" href="javascript:void(0);" onclick="showHide('SiteOptionsParent');return false;"><img border="0" src="http://images.ifriends.net/IF_V2/tp.gif"><span>Site Options</span></a> <span class="if-linkDivider" style="color:#cccccc;">|</span>
-<a class="addthis_button icon icon-AddThisIcon " href="http://www.addthis.com/bookmark.php?v=250&amp;username=wpassociates"><img border="0" src="http://images.ifriends.net/IF_V2/tp.gif"><span>Share this Page</span></a>
-<script type="text/javascript">var addthis_config = {"data_track_clickback":false,"ui_click":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?username=wpassociates"></script>
-<style>
-a.icon {
-    text-decoration: none;
-    vertical-align: middle;
-}
-a.icon-AddThisIcon span {vertical-align:middle}
-a.icon-AddThisIcon img {
-    background:url("http://images.ifriends.net/if_v2/AddThis_Icon_16x16_gray.png") no-repeat scroll transparent;
-    display: inline;
-    vertical-align: middle;
-    height: 16px;
-    width: 16px;
-}
-a.icon-AddThisIcon.color img {
-    background:url("http://images.ifriends.net/if_v2/AddThis_Icon_16x16.png") no-repeat scroll transparent;
-}
 
-</style>
- <span class="if-linkDivider" style="color:#cccccc;">|</span>
-			<a id="anchHelpUsImproveThisFeature_1" title="Provide your detailed feedback about this page directly to the development, design and management team" href="http://www.ifriends.net/ifpage.dll?t=tools/feedback/main&amp;pID=0&amp;pAppCode=IFPage&amp;pHost_ComputerName=US2WWW493-3-275&amp;pTemplateName=site/General/Legal/Privacy.htm" style="text-decoration: none"><img src="http://images.ifriends.net/if_v2/Suggestion_Box/suggestion_box_small_gray.gif" height="15" width="21" border="0" align="absmiddle">
+<!--
+-->
+
+
+<!--
+-->
+
+		<!-- English -->
+
+<!--
+-->
+
+
+
+
+<!---->
+<!---->
+	<table id="Header" cellpadding="0" cellspacing="0" border="0" align="center" width="900">
+		<tbody><tr>
+			<td valign="top">
+<!-- -->
+
+			<div style="display:none;" id="divGlobalGeneralFailureMessage">General Failure. Please try again.</div>
+
+			<!--  -->
+
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" background="http://images.iFriends.net/if_v2/partners/CollegeBlondes/head_bg.jpg" height="104">
+					<tbody><tr>
+						<td>
+
+							<table id="HeaderTextTop" cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+								<tbody><tr>
+									<td align="left" nowrap="">
+										<div class="gs-textHeaderTop" id="upperLeftTaglineContainer">
+											Meet Your Match –  For a Lifetime . . . for Tonight . . . or for Right Now <!-- non-dynamic version -->
+										</div>
+
+										<div id="upperLeftTaglineContent1" style="display:none;">
+											Meet Your Match –  For a Lifetime . . . for Tonight . . . or for Right Now <!-- non-dynamic version -->
+										</div>
+
+										<div id="upperLeftTaglineContent2" style="display:none;">
+											 #Members:
+											 <!--
+												 											 -->
+											  11.8 million <span class="gs-textGraySmall">|</span>
+
+											  <!--
+											  -->
+
+											 #Stars: 443,123 (<a href="http://www.collegeblondes.net/membrg2/livehosts_home_custom.dll?t=site/navigation/livehosts_home/main&amp;pf_VCHContentFlagsBitMap1=1073741824">308</a> live now) <span class="gs-textGraySmall">|</span>
+											 #Vids: <a href="http://www.collegeblondes.net/membrG2/LiveHosts_SiteHomeContent.dll?t=site/SiteHome_Content&amp;pf_VCHlive=Y&amp;pf_UniqueNameAllRooms=Y&amp;pf_VCHprofileImg_U_G=Y&amp;pf_VCHContentFlagsBitMap1=1073741824">12 mil</a> <span class="gs-textGraySmall">|</span>
+											 #Pics: <a href="http://www.collegeblondes.net/membrG2/LiveHosts_SiteHomeContent.dll?t=site/SiteHome_Content&amp;pf_VCHlive=Y&amp;pf_UniqueNameAllRooms=Y&amp;pf_VCHprofileImg_U_G=Y&amp;pf_VCHContentFlagsBitMap1=1073741824">89 mil</a>
+										</div>
+									</td>
+									<td align="left" nowrap="">
+										<p class="gs-textHeaderTop" style="margin-left: 70px; width: 215px; overflow: hidden" title="">
+<!--
+-->
+
+			Earth's Largest Live Cam Network.  See &amp; Be Seen!
+	<!---->
+										</p>
+									</td>
+									<td align="right" nowrap="">
+										<p class="gs-textHeaderTop">
+											<a href="#" onclick="addBookmarkForBrowser(window.location, document.title);return false;">
+											Add to Favorites / Bookmark
+											</a>
+										</p>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top">
+							<table id="tblHeaderBG" width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td class="gs-headL" nowrap=""></td>
+									<td valign="top">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tbody><tr>
+												<td valign="top" align="left">
+<!--
+-->
+
+		<p class="gs-textSloganHeaderL">
+
+					
+		</p>
+
+												</td>
+												<td align="right" valign="top">
+<!--
+-->
+
+		<p class="gs-textSloganHeaderR">
+					
+		</p>
+
+<!--
+-->
+	
+												</td>
+												<td align="right">
+												</td>
+												<td>
+												<!---->
+												</td>
+											</tr>
+										</tbody></table>
+
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" class="gs-tableLoginLanguagePosition">
+											<tbody><tr>
+												<td>
+<!-- START LOGIN MODULE -->
+	<table border="0" cellspacing="0" cellpadding="0" class="gs-loginModulePosition" id="tblLoginModule">
+		<tbody><tr>
+			<td>
+				<table border="0" cellpadding="1" cellspacing="0">
+					<tbody><tr>
+						<td colspan="3">
+							<p class="gs-textHeaderBig">
+								<b>Member Center</b>
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<p class="gs-textHeader">
+								Login:
+							</p>
+						</td>
+						<td width="68"><a href="http://www.collegeblondes.net/ifpage.dll?t=Site/LoginBasic" title="Click here to use your valid screenname and password to log in to the College Blondes, Fanclubs.com or 18+ ID Card platform."><img src="http://images.ifriends.net/if_v2/head_login_box.gif" width="66" height="13" border="0"></a></td>
+						<td>
+							<p class="gs-headLinks">
+								<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/Login_Help" title="Click here for the College Blondes live help form.">
+								Help
+								</a>
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<p class="gs-textHeader">
+								Pwd:
+							</p>
+						</td>
+						<td width="68"><a href="http://www.collegeblondes.net/ifpage.dll?t=Site\LoginBasic" title="Click here to use your valid screenname and password to log in to the College Blondes, Fanclubs.com or 18+ ID Card platform."><img src="http://images.ifriends.net/if_v2/head_login_box.gif" width="66" height="13" border="0"></a></td>
+						<td valign="top">
+							<table border="0" cellspacing="0" cellpadding="0" class="gs-headLoginButton">
+								<tbody><tr>
+									<td><a href="http://www.collegeblondes.net/ifpage.dll?t=Site\LoginBasic" title="Click here to use your valid screenname and password to log in to the College Blondes, Fanclubs.com or 18+ ID Card platform.">
+											&nbsp;Login&nbsp;
+										</a>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+<!-- END LOGIN MODULE -->												</td>
+												<td nowrap="" width="10"></td>
+												<td align="right">
+	
+	
+													<!--Innclude:Site/Includes/SiteHeader_SetLanguagePreference.htm-->
+												</td>
+											</tr>
+										</tbody></table>
+
+									</td>
+										<td class="gs-headR" nowrap=""></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<!-- Begin SiteTabBar -->
+				<table id="tblSiteTabBar" width="100%" height="29px" border="0" cellpadding="0" cellspacing="0" align="center">
+					<tbody><tr>
+						<td class="gs-navBarTL" nowrap=""></td>
+						<td class="gs-navBarTM">
+
+							<table id="navbarmenu" cellpadding="0" cellspacing="0" border="0" width="100%" align="center" style="margin-top: 3px">
+								<tbody><tr>
+									<td align="left" nowrap="">
+										<table cellpadding="0" cellspacing="0" border="0">
+											<tbody><tr>
+												<td nowrap="">
+													<table cellpadding="0" cellspacing="0" border="0" align="left">
+														<tbody><tr>
+															<td class="gs-backIcon" nowrap=""></td>
+														</tr>
+													</tbody></table>
+												</td>
+												<td nowrap="">
+													<p class="gs-textNavBar">
+														&nbsp;<a href="javascript:history.back()">Back</a> |
+													</p>
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+									<td nowrap="" align="left">
+										<table cellpadding="0" cellspacing="0" border="0">
+											<tbody><tr>
+												<td>
+													<table cellpadding="0" cellspacing="0" border="0" align="left">
+														<tbody><tr>
+															<td class="gs-homeIcon" nowrap=""></td>
+														</tr>
+													</tbody></table>
+												</td>
+												<td>
+													<p class="gs-textNavBar">
+														&nbsp;<a href="http://www.collegeblondes.net/" title="Visit the College Blondes home page.">Home</a>
+													</p>
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+									<td align="center" nowrap="" style="padding-left: 8px; padding-right: 6px">
+										<p class="gs-textNavBar">
+											<a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/signup&amp;pSource=Header_old&amp;pSiteCode=CollegeBlondes" title="Join College Blondes. (Free Registration)">Join for Free</a>
+											 | <a href="http://www.collegeblondes.net/ifpage.dll?t=site/ChathostsOnly/General/ControlCenter/contrib" title="Own a webcam? Ready for stardom? Click here for instant  registration.">Be a Star</a>
+										</p>
+									</td>
+									<td align="right" nowrap="">
+										<table cellpadding="0" cellspacing="0" border="0">
+											<tbody><tr>
+												<td>
+													<p class="gs-textNavBarBig" id="separatorBarStyle">
+														<b>QuickFind:</b>&nbsp;
+													</p>
+												</td>
+
+												<td nowrap="" align="left">
+<!--
+-->
+<div style="margin-right: 0px;" id="divQuickFindMenuParent" class="menu-menubordercolor">
+	<script type="text/javascript" src="http://www.collegeblondes.net/Global/Menus_discreet/milonic_src.js"></script>
+	<script type="text/javascript">
+	// referenced in Milonic menus.
+				var p_Club = "";
+				var p_WWWServNamePath = "http://www.collegeblondes.net";
+				var p_AppServNamePath = "http://www.collegeblondes.net";
+				var p_SecureServNamePath = "https://secure.ifriends.net";
+				var p_FanClubsServNamePath = "http://www.collegeblondes.net";
+				var p_VCHsessionID = "";
+				var p_SiteCode = "CollegeBlondes";
+				var p_VCHContentFlagsBitMap1 = "1073741824";
+
+	/************* commented out for 9/30/05 IFG launch **********/
+		if(ns4)_d.write("<scr"+"ipt type=text/javascript src=http://images.ifriends.net/if_v2/Global/Menus_discreet/mmenuns4.js><\/scr"+"ipt>");
+		else _d.write("<scr"+"ipt type=text/javascript src=http://images.ifriends.net/if_v2/Global/Menus_discreet/mmenudom.js><\/scr"+"ipt>");
+		// The following vars are for customizing the Menu:
+		var openspeed = 0.1;
+		var closespeed = 0.05;
+		var cTranslateThis = "";
+		//var versioninfo = "Adult Super Groups\nversion: 0.9\nStage: Development";
+	/**************************************************************/
+	</script>
+	<script type="text/javascript" src="http://www.collegeblondes.net/Global/Menus_discreet/menu_data_IFv2_langnum1.JS?200810241520"></script>
+</div>												</td>
+												<td nowrap="" align="left" valign="top">
+<!--
+-->
+													<form name="SearchBox" action="http://www.collegeblondes.net/membrg/msearch_v2_custom.dll" method="GET" style="margin: 0px">
+														<input type="hidden" name="pSource" value="SiteHeader_QuickSearch">
+														<table border="0" cellspacing="0" cellpadding="0" style="margin-right: 4px">
+															<tbody><tr>
+																<td>
+																	<p class="gs-textNavBarBig" id="pQuickSearch" style="margin-top: 2px; margin-left: 3px">
+																		<nobr><span class="gs-textNavBar">| </span><b>QuickSearch:</b></nobr>
+																	</p>
+																</td>
+																<td>
+																	<p class="gs-textNavBar">
+																	<select name="pMode" class="gs-catDropDownNavBar" style="height: 16px">
+																		<option value="msTab_LiveChats">Chatroom Descriptions
+																		</option><option value="ChathostName">Chathost Names
+																		</option><option value="msTab_ArchivePics">Archive Photos
+																		</option><option value="msTab_ArchiveMovies">Archive Movies
+																		</option><option value="msTab_HighDef">HD Movies
+																		</option><option value="msTab_PrivateCollections">Private Collections
+																		</option><option value="msTab_ChathostStars">FanClubs
+																		</option><option value="msTab_ArchiveFantasies">Memories &amp; Fantasies
+																		</option><option value="msTab_UserReviews">User Reviews
+																	</option></select>for
+																	</p>
+																</td>
+																<td>
+																	 <input class="gs-navBarSearchBox" type="TEXT" name="pKey" id="pKey" value="" size="15" maxlength="128" style="height: 14px; margin-left: 4px" onfocus="this.value='';this.style.color='#000000';this.onfocus=null;">
+																	<div id="headerSearchDefault" style="display: none;">Search Term</div>
+																	<div id="headerSearchError" style="display: none;">Please enter a search term</div>
+
+																	<script language="Javascript">
+																		document.getElementById("pKey").value = "< " + document.getElementById("headerSearchDefault").innerHTML + " >";
+																	</script>
+																</td>
+																<td>
+																	<table cellpadding="0" cellspacing="0" border="0" class="gs-navBarGoButton">
+																		<tbody><tr>
+																			<td>
+																			<input type="hidden" name="t" value="site/navigation/msearch/main">
+																			<input type="hidden" name="pLiveOnlyFilter" value="OFF">
+
+																				<a onclick="submitHeaderSearch();" href="#" title="Enter text to search and click 'Go'" style="text-decoration: none">&nbsp;Go&nbsp;</a>
+
+																				<script language="javascript">
+																					function submitHeaderSearch() {
+																						var oForm = document.forms['SearchBox'];
+
+
+																						headerSearchValue = document.getElementById("pKey").value
+																						if (headerSearchValue == ("< " + document.getElementById("headerSearchDefault").innerHTML + " >") || headerSearchValue == "") {
+																							alert(document.getElementById("headerSearchError").innerHTML);
+																						} else {
+																							if(oForm.pMode.value == 'msTab_LiveChats'){
+																								//oForm.pLiveOnlyFilter.value = 'ON'
+																							}
+																							document.forms['SearchBox'].submit()
+																						}
+																					}
+																				</script>
+																			</td>
+																		</tr>
+																	</tbody></table>
+																</td>
+															</tr>
+														</tbody></table>
+
+													</form>
+													<script language="Javascript" type="text/javascript">
+														//document.forms['SearchBox'].pKey.focus();
+														<!-- -->
+													</script>												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+							</tbody></table>
+
+						</td>
+						<td class="gs-navBarTR" nowrap=""></td>
+					</tr>
+					<tr>
+						<td class="gs-navBarBL"></td>
+						<td class="gs-navBarBM"></td>
+						<td class="gs-navBarBR"></td>
+					</tr>
+				</tbody></table>
+				<!-- End SiteTabBar -->
+			</td>
+		</tr>
+	</tbody></table>
+
+	<script language="javascript">
+		numSecToWait = 4000;
+		startTagline = 1;
+		numOfTaglines = 2;
+
+		function alternateTaglines (mainTaglineElementID, taglinePrefix) {
+			document.getElementById(mainTaglineElementID).innerHTML = document.getElementById(taglinePrefix+startTagline).innerHTML;
+
+			if ((startTagline+1) > numOfTaglines) {
+				startTagline = 1;
+			} else {
+				startTagline = startTagline+1;
+			}
+
+			timerID2 = setTimeout('alternateTaglines ("upperLeftTaglineContainer", "upperLeftTaglineContent")', numSecToWait);
+		}
+
+		alternateTaglines ("upperLeftTaglineContainer", "upperLeftTaglineContent");
+	</script>
+<table cellpadding="0" cellspacing="0" border="0" width="900" align="center">
+	<tbody><tr>
+		<td align="left">
+			<div class="gs-textStatusBar" id="pSiteStatusBarNavTree">
+<div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.collegeblondes.net/" itemprop="url">
+	<span itemprop="title">Home</span></a> &gt;
+
+			<span itemprop="child" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+				<a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/CustomerService/MemServ" itemprop="url"> <span itemprop="title">Customer Service</span></a> </span> &gt;
+<span id="BreadcrumbPageTitle">
+	<script>
+	document.write(document.title)
+	</script>Privacy Statement for College Blondes
+</span>
+</div>			</div>
+		</td>
+<!--
+-->		<td align="right">
+<div class="gs-textStatusBar">
+		<script language="Javascript">
+			function setLightModeStatus(cStatus){
+				var cLocation = window.location.toString();
+				window.location = cLocation.appendOrReplaceURLParameter('p_Ckname_UseLightMode',cStatus);
+			}
+		</script>
+
+		<!--Begin Enable LightMode Element-->
+		<!--End Enable LightMode Element-->
+	<a id="anchHelpUsImproveThisFeature_1" title="Provide your detailed feedback about this page directly to the development, design and management team" href="http://www.collegeblondes.net/ifpage.dll?t=tools/feedback/main&amp;pID=0&amp;pAppCode=IFPage&amp;pHost_ComputerName=US2WWW493-7-275&amp;pTemplateName=site/General/Legal/Privacy.htm" style="text-decoration: none"><img src="http://images.ifriends.net/if_v2/Suggestion_Box/suggestion_box_small_gray.gif" height="15" width="21" border="0" align="absmiddle">
 
 </a>
-			<a id="anchHelpUsImproveThisFeature_2" title="Provide your detailed feedback about this page directly to the development, design and management team" href="http://www.ifriends.net/ifpage.dll?t=tools/feedback/main&amp;pID=0&amp;pAppCode=IFPage&amp;pHost_ComputerName=US2WWW493-3-275&amp;pTemplateName=site/General/Legal/Privacy.htm">Help Us Improve This Feature</a>
-		</div>
-                <style type="text/css">
-					#if-SiteHeaderNotLoggedIn .if-SiteHeaderFieldWrapper { display:inline-block; margin:0 5px 0 0; padding:0; width:150px; float:left; color:#666666;}
-					#if-SiteHeaderNotLoggedIn .if-SiteHeaderFieldWrapper input { margin:0; padding:2px 0 0 0; height:16px; width:148px; vertical-align:middle; }
-					#if-SiteHeaderNotLoggedIn #if-SiteHeaderNotLoggedInNotAMember,#if-SiteHeaderNotLoggedIn #if-SiteHeaderNotLoggedInForgotPassword { padding:0; margin:0; }
-				</style>
-				<div id="if-SiteHeaderNotLoggedIn" class="gs-arial11" style="width:365px;position:absolute;left:321px;top:40px;">
-					<form action="https://secure.ifriends.net/membrg/IFLogin.dll?pSiteCode=iFriendsV2&amp;p_CKname_ShowNewLayout=show" method="post" name="frmLoginBasic_header" onsubmit="" style="margin: 0px; padding: 0px">
+	<a id="anchHelpUsImproveThisFeature_2" title="Provide your detailed feedback about this page directly to the development, design and management team" href="http://www.collegeblondes.net/ifpage.dll?t=tools/feedback/main&amp;pID=0&amp;pAppCode=IFPage&amp;pHost_ComputerName=US2WWW493-7-275&amp;pTemplateName=site/General/Legal/Privacy.htm">Help Us Improve This Feature</a>
 
-					<input type="hidden" name="fAppCode" value="TFJoinVPFrm1_v2">
-						<input type="hidden" name="f_hid_RefererURL" value="http://www.ifriends.net/ifpage.dll?t=site/General/Legal/Privacy">
-					<input type="hidden" name="fSenTo" value="https://secure.ifriends.net/ifpage.dll?t=site/General/LoginLandingPage&amp;pWebHost=www.ifriends.net&amp;pRedirectNumber=1&amp;pJustLoggedIn=Y&amp;pClub=">
-					<input type="hidden" name="pWebHost" value="www.ifriends.net">
-
-					<input type="hidden" name="fSiteSurname" value="iFriends">
-
-                    <div id="if-SiteHeaderUsernameCont" class="if-SiteHeaderFieldWrapper">
-                        <input id="swapfield_fLogin" onfocus="swapFields_v2(this);" class="frm-InputBox gs-textGray11" style="" tabindex="1" value=" Username">
-                        <input type="text" id="fLogin" onblur="swapFields_v2(this);" name="fLogin" value="" class="frm-InputBox" tabindex="1" style="display:none;">
-                        <div id="if-SiteHeaderNotLoggedInNotAMember">
-                            Not a Member Yet? <a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/signup&amp;pSource=TopJoinText&amp;pSiteCode=iFriendsV2" title="Create your new account and start chatting today!">Join Now!</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                        </div>
-					</div>
-                    <div id="if-SiteHeaderPasswordCont" class="if-SiteHeaderFieldWrapper">
-                        <input id="swapfield_fPassword" onfocus="swapFields_v2(this);" class="frm-InputBox gs-textGray11" style="" value=" Password" tabindex="2">
-                        <input autocomplete="off" type="password" id="fPassword" onblur="swapFields_v2(this);" name="fPassword" value="" class="frm-InputBox" style="display:none;" tabindex="2">
-                        <div id="if-SiteHeaderNotLoggedInForgotPassword">
-                            <a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/FindLogin/findloginmain&amp;p_CKname_ShowNewLayout=show" title="Retrieve Your Forgotten Login and Password">Forgot Password?</a>
-                        </div>
-                    </div>
-
-					<input type="Submit" name="fJoin" value="Login" class="frm-submitButton" style="font-size: 11px; height:20px;" title="Click here to access your iFriends account using your valid Login and Password" onclick="var oDate = new Date(); document.getElementById('f_hid_clienttimestampUTC').value = oDate.getUTCFullYear().toString() + Cvt_to_LeadingZeros((oDate.getUTCMonth() + 1).toString(), 2) + Cvt_to_LeadingZeros(oDate.getUTCDate().toString(), 2) + '-' + Cvt_to_LeadingZeros(oDate.getUTCHours().toString(), 2) + ':' + Cvt_to_LeadingZeros(oDate.getUTCMinutes().toString(), 2);">
-
-					<input type="hidden" name="f_hid_clienttimestampUTC" id="f_hid_clienttimestampUTC" value="">
-
-					</form>
-
-				</div>
-		<div id="if-headerJoinNowButton">
-
-		
-		
-			<a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/signup&amp;pSource=TopJoin&amp;pSiteCode=iFriendsV2" class="icon icon-joinbutton"><img src="http://images.ifriends.net/if_v2/tp.gif" border="0"></a>
-		</div>
-	</div>
-	<div id="if-headerNavBarParent">
-<div id="if-headerNavBarBG">
-	<div id="if-headerNavBarLeft">
-		<div id="if-headerNavBarRight">
-			<ul id="if-headerMainNav">
-				<li class="top"><a href="javascript:void(0);" class="top_link"><span class="down"><span class="menu_span_inner"><img class="gs-NavBarBullet_v2" src="http://images.ifriends.net/if_v2/tp.gif" width="4" height="7" border="0">Live Cams</span></span></a>
-					<ul class="sub">
-						<li>
-							<a class="fly" href="javascript:void(0);"><span>Live Girls on Cam</span></a>
-							<ul>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/cam-girls/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span>View All (178)</span></a>
-								<!--
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/teens-18-19
-/cam-girls
-/live-now/?pCache=Yes&pf_VCHContentFlagsBitMap1=0">Age 18-19 (51)</a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/big-tits
-/cam-girls
-/live-now/?pCache=Yes&pf_VCHContentFlagsBitMap1=0">Large Breasts (65)</a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/bbw
-/cam-girls
-/live-now/?pCache=Yes&pf_VCHContentFlagsBitMap1=0">BBW (16)</a></li>
-								-->
-								</li><li>
-									<a class="fly" href="javascript:void(0);"><span>Age</span></a>
-									<ul>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/teens-18-19&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">18-19 (51)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/ages-20-25&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">20-25 (77)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/ages-26-30&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">26-30 (13)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/ages-31-40&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">31-40 (12)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/ages-41-50&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">41-50 (13)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/mature&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Mature (12)</a></li>
-									</ul>
-								</li>
-								<li>
-									<a class="fly" href="javascript:void(0);"><span>Build</span></a>
-									<ul>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/thin&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Slender (64)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/curvy&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Curvy (43)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/petite&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Petite (33)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/bbw&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">BBW (16)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/muscular&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Muscular (10)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/healthy&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Healthy (6)</a></li>
-									</ul>
-								</li>
-								<li>
-									<a class="fly" href="javascript:void(0);"><span>Bust</span></a>
-									<ul>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/big-tits&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Large (65)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/medium-tits&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Medium (44)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/small-tits&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Small (69)</a></li>
-									</ul>
-								</li>
-								<li>
-									<a class="fly" href="javascript:void(0);"><span>Ethnicity</span></a>
-									<ul>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/white&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">White (147)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/latin&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Latina (11)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/asian&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Asian (4)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/black&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Ebony (4)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/arabic&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Arabic (2)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/jewish&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Jewish (2)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/multiracial&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Multiracial (2)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/american-indian&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Native American (1)</a></li>
-									</ul>
-								</li>
-								<li>
-									<a class="fly" href="javascript:void(0);"><span>Eye Color</span></a>
-									<ul>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/brown-eyed&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Brown (50)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/green-eyed&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Green (48)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/blue-eyed&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Blue (42)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/dark-eyed&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Black (23)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/hazel-eyed&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Hazel (8)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/violet-eyed&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Violet (4)</a></li>
-									</ul>
-								</li>
-								<li>
-									<a class="fly" href="javascript:void(0);"><span>Hair Color</span></a>
-									<ul>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/brunette&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Brunette (86)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/blonde&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Blonde (73)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/redhead&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Red (11)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/auburn&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Auburn (4)</a></li>
-									</ul>
-								</li>
-								<li>
-									<a class="fly" href="javascript:void(0);"><span>Height</span></a>
-									<ul>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/average-height&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Average (81)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/short&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Short (8)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/tall&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Tall (82)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/very-tall&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Very Tall (4)</a></li>
-									</ul>
-								</li>
-								<li>
-									<a class="fly" href="javascript:void(0);"><span>Special Options</span></a>
-									<ul>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/hairy&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Hairy (29)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/Pierced&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Pierced (16)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/Shaved&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Shaved (110)</a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/Tattooed&#10;/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0">Tattoos (5)</a></li>
-									</ul>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a href="javascript:void(0);" class="fly"><span>Live Browse
-							(417)
-							</span></a>
-							<ul>
-								<li><a href="http://www.ifriends.net/membrg2/LiveHosts_home_custom.dll?pf_VCHContentFlagsBitMap1=0"><span>View All
-							(417)
-								</span></a>
-										</li><li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/cam-girls&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Women Home Alone (178)</nobr></span></a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/couples&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Guy-Girl (Couples) (12)</nobr></span></a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/interracial&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Interracial (3)</nobr></span></a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/fetishists&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Fetish (8)</nobr></span></a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/bdsm&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>BDSM (8)</nobr></span></a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/tranny&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Gender-Benders (TS, TV, CD) (6)</nobr></span></a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/gays&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Guys Home Alone (Gay) (36)</nobr></span></a></li>
-										<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/guys&#10;/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Guys Home Alone (Straight) (7)</nobr></span></a></li>
-							</ul>
-						</li>
-						<li>
-							<a href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/hot&#10;/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0&#10;"><nobr><span>Babes
- (79)</span></nobr></a>
-						</li>
-						<li>
-							<a href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/college-students&#10;/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0&#10;"><nobr><span>College Girls
- (37)</span></nobr></a>
-						</li>
-						<li>
-							<a href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/fresh-faces&#10;/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0&#10;"><nobr><span>Fresh Faces
- (17)</span></nobr></a>
-						</li>
-						<li>
-							<a href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/high-quality&#10;/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0&#10;"><nobr><span>High Quality
- (120)</span></nobr></a>
-						</li>
-						<li>
-							<a href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/award-winners&#10;/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0&#10;"><nobr><span>Award Winners
- (105)</span></nobr></a>
-						</li>
-						<li>
-							<a href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/free2goprivate&#10;/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0&#10;"><nobr><span>Free Sex Chat
- (32)</span></nobr></a>
-						</li>
-					</ul>
-				</li>
-				<li class="top"><a href="javascript:void(0);" id="services" class="top_link"><span class="down"><span class="menu_span_inner"><img class="gs-NavBarBullet_v2" src="http://images.ifriends.net/if_v2/tp.gif" width="4" height="7" border="0">Pics &amp; Videos</span></span></a>
-					<ul class="sub">
-						<li><a href="javascript:void(0);" class="fly">Pictures</a>
-							<ul>
-								<li><a href="http://www.ifriends.net/userURL_membrg/archive/pics/">All Categories</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=5&amp;pStyle=Pics">Women Home Alone</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=9&amp;pStyle=Pics">Guy-Girl (Couples)</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=13&amp;pStyle=Pics">Interracial</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=16&amp;pStyle=Pics">Fetish</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=12&amp;pStyle=Pics">BDSM</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=11&amp;pStyle=Pics">Gender-Benders (TS, TV, CD)</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=6&amp;pStyle=Pics">Guys Home Alone (Gay)</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=18&amp;pStyle=Pics">Guys Home Alone (Straight)</a></li>
-							</ul>
-						</li>
-						<li><a href="javascript:void(0);" class="fly">Videos</a>
-							<ul>
-								<li><a href="http://www.ifriends.net/userURL_membrg/archive/videos/">All Categories</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=5&amp;pStyle=vidclips">Women Home Alone</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=9&amp;pStyle=vidclips">Guy-Girl (Couples)</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=13&amp;pStyle=vidclips">Interracial</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=16&amp;pStyle=vidclips">Fetish</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=12&amp;pStyle=vidclips">BDSM</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=11&amp;pStyle=vidclips">Gender-Benders (TS, TV, CD)</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=6&amp;pStyle=vidclips">Guys Home Alone (Gay)</a></li>
-									<li><a href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pRoom=18&amp;pStyle=vidclips">Guys Home Alone (Straight)</a></li>
-							</ul>
-						</li>
-						<li><a href="http://www.ifriends.net/userURL_membrg/hd-plus/">HD Plus</a></li>
-						<li>
-							<a href="http://www.ifriends.net/membrg2/LiveHosts_SiteHomeContent.dll?pf_VCHlive=Y&amp;pf_UniqueName=Y&amp;pLoopPageSize_allPappLiveHosts=2000&amp;pf_VCHContentFlagsBitMap1=0">Eye Candy</a>
-						</li>
-						<li>
-							<a href="javascript:void(0);" class="fly"><span>Replays</span></a>
-							<ul>
-								<li><a href="http://www.ifriends.net/membrg2/LiveHosts_home_custom.dll?pf_VCHContentFlagsBitMap1=0#replays"><span>View All</span></a>
-								</li><li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/cam-girls&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Women Home Alone (85)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/lesbians&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Girl-Girl (Lesbians) (3)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/couples&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Guy-Girl (Couples) (12)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/threesomes&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Threesomes/Groups (2)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/interracial&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Interracial (1)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/fetishists&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Fetish (4)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/bdsm&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>BDSM (3)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/tranny&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Gender-Benders (TS, TV, CD) (9)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/gay-couples&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Guy-Guy (Gay) (3)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/gays&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Guys Home Alone (Gay) (5)</nobr></span></a></li>
-								<li><a href="http://www.ifriends.net/userURL_membrg2/livehosts/guys&#10;/live-show-replays/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0"><span><nobr>Guys Home Alone (Straight) (5)</nobr></span></a></li>
-							</ul>
-						</li>
-						<li><a href="javascript:void(0);" class="fly">Search</a>
-							<ul>
-								<li><a href="http://www.ifriends.net/membrg/msearch_v2_custom.dll?pSource=SiteHeader_QuickSearch&amp;pMode=msTab_ArchiveMovies&amp;pKey=sex">Movies</a></li>
-								<li><a href="http://www.ifriends.net/membrg/msearch_v2_custom.dll?pSource=SiteHeader_QuickSearch&amp;pMode=msTab_ArchivePics&amp;pKey=sex">Photos</a></li>
-								<li><a href="http://www.ifriends.net/membrg/msearch_v2_custom.dll?pSource=SiteHeader_QuickSearch&amp;pMode=msTab_HighDef&amp;pKey=sex">High-Definition</a></li>
-								<li><a href="http://www.ifriends.net/membrg/msearch_v2_custom.dll?pSource=SiteHeader_QuickSearch&amp;pMode=msTab_ChathostStars&amp;pKey=sex">Fanclubs</a></li>
-							</ul>
-						</li>
-					</ul>
-				</li>
-				<li class="top"><a href="javascript:void(0);" class="top_link"><span class="down"><span class="menu_span_inner"><img class="gs-NavBarBullet_v2" src="http://images.ifriends.net/if_v2/tp.gif" width="4" height="7" border="0">Hot Menu</span></span></a>
-
-						<ul class="sub">
-						<!--
-							<li>
-								<a href="http://www.ifriends.net/membrg2/livehosts_home_custom.dll" title="Browse thousands of Live Video Hosts." ><span>Live Browse</span></a>
-							</li>
-						-->
-							<li>
-								<a href="http://www.ifriends.net/membrg2/LiveHosts.dll?t=site/navigation/liveHosts/profilesurf/profilesurf&amp;pLoopPageSize_allpappliveHosts=64&amp;pf_VCHliveRoomNumber=5" title="Browse thousands of Video Chathost profiles; all live now!"><span>Profile Surf</span></a>
-							</li>
-							<li>
-								<a href="http://www.ifriends.net/membrg2/LiveHosts.dll?t=site/navigation/liveHosts/elitecamviewer/maintable&amp;pLoopPageSize_allpappliveHosts=9&amp;pf_vchlive=Y" title="View dozens of Live Cams simultaneously"><span>EliteCam Viewer</span></a>
-							</li>
-						<!--
-							<li>
-								<a href="http://www.ifriends.net/membrg/twrp.dll?pAppCode=TWRP_MYIF2&pmode=getcustomlayout" title="Enjoy iFriends the way you like it with this Personalization Platform"><span>My iFriends</span></a>
-							</li>
-						-->
-							<li>
-								<a href="http://www.ifriends.net/membrg/fcHome_V2_custom.dll" title="Showcasing Fanclubs that offer the most, and whose Stars are Live Right Now"><span>FanClubs</span></a>
-							</li>
-							<li>
-								<a href="http://www.ifriends.net/membrg/TWRP.dll?pappcode=TWRP_VCHViewerAwards" title="Express your Views with your fellow iFriends Viewers and Chathosts"><span>Award Winners</span></a>
-							</li>
-							<li>
-								<a href="http://www.ifriends.net/membrg/HDshowcase_v2_custom.dll" title="HDTV Star Spotlight"><span>HD Showcase</span></a>
-							</li>
-
-
-							<li>
-								<a href="http://www.ifriends.net/ifpage.dll?t=site/navigation/liveHosts/VVunfiltered/Interstitial&amp;pLiveCamSpySource=LeftRail" title="Live Cam Spy">Live Cam Spy</a><br>
-							</li>
-							<li>
-								<a href="http://www.ifriends.net/membrg/twrp.dll?t=Site/CustomersOnly/MyIF2/IFWall&amp;pAppCode=TWRP_WallManager&amp;pMode=GetPosts&amp;pDisplayStyle=ShowAll" title="See what the Stars of iFriends are discussing right now.">iFriends Wall</a>
-							</li>
-							<li>
-								<a href="http://www.ifriends.net/userURL_/chatroulette/" title="Cams Roulette">Cams Roulette</a>
-							</li>
-							<li>
-								<a href="http://www.ifriends.net/membrg2/LiveHosts_SiteHomePeople.dll?pf_VCHlive=Y&amp;pf_UniqueName=Y&amp;pLoopPageSize_allPappLiveHosts=2000&amp;pf_VCHContentFlagsBitMap1=0">Who's Live Now</a>
-							</li>
-							<li>
-								<a href="http://www.ifriends.net/ifpage.dll?t=site/navigation/search/search" title="Find exactly what you're looking for on iFriends!"><span>Search Engine</span></a>
-							</li>
-
-						</ul>
-
-				</li>
-				<li class="top"><a href="javascript:void(0);" class="top_link"><span class="down"><span class="menu_span_inner"><img class="gs-NavBarBullet_v2" src="http://images.ifriends.net/if_v2/tp.gif" width="4" height="7" border="0">Resources</span></span></a>
-					<div id="menu-sub-resources" class="subwide">
-						<ul class="sub two-panel">
-							<li class="navTitleHeader" style="padding:3px 0px 0px 0px;height:auto;"><span style="margin-left:5px;font-weight:bold;font-size:11px;">Members:</span></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/general/FAQ/FAQ" title="Answers to Your Most Popular Questions">FAQ</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/tools/Diamond/main" title="Online Help Available 24/7">Help</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/General/CustomerService/Contacts" title="How to Reach Us">Contacts</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/General/CustomerService/MemServ" title="Member Services for iFriends Viewers and Chathosts">Customer Service</a></li>
-							<li><a href="http://loveandhealth.ifriends.net/index.cfm?pSuppressLegacyV1LeftRail=true" target="_blank" title="An Educational Resource on the Health and Science of Human Sexuality">Love &amp; Health Info</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/general/forums" title="Express your Views with your fellow iFriends Viewers and Chathosts">Discussion Groups</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/ChathostsOnly/General/Marketplace/marketplace&amp;pClub=" title="Get the Best Gear at the iFriends MarketPlace">iFriends Store</a></li>
-						</ul>
-						<ul class="sub two-panel">
-							<li class="navTitleHeader" style="padding:3px 0px 0px 0px;height:auto;"><span style="margin-left:5px;font-weight:bold;font-size:11px;">Video Hosts:</span></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/ChathostsOnly/General/ChathostIntro" title="Create Your Own Video Host Account and Start Hosting Today">Become a Video Host</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/general/FAQ/FAQ#anchStarFAQ" title="Answers to Your Most Popular Questions">FAQ</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/ChathostsOnly/General/ControlCenter/contrib&amp;pClub=#console" title="Already a Video Host? Click Here to Manage your Account">Video Host Console</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/ChathostsOnly/General/Pagetools/pagetools&amp;pClub=" title="Get Help Promoting Yourself to Become a Succesful Video Host Star">Promote Yourself</a></li>
-							<li><a href="http://www.ifriends.net/ifpage.dll?t=site/ChathostsOnly/IDCards/manager/paenter&amp;pClub=" title="Access Your 18+ IDCard Setting, or Learn more about the 18+ ID Card">18+ IDcard Mgr.</a></li>
-						</ul>
-					</div>
-				</li>
-				<li class="last">
-<!--INCLUDEeee:site/Includes/SiteHeader_QuickSearch_Feature.htm-->
-
-				<script language="javascript">
-					//See HUITF : 20859
-					jQuery(document).ready(function(){
-						jQuery("#if-headerMainNav .top").hoverIntent({interval: 150,over: function(){jQuery(this).find(".sub").removeClass('with-js');jQuery(this).find(".subwide").removeClass('with-js');jQuery(this).find(".gs-NavBarBullet_v2").removeClass('gs-NavBarBullet_v2').addClass('gs-NavBarBullet_v2_Down');},timeout: 0,out: function (){jQuery(this).find(".sub").addClass('with-js');jQuery(this).find(".subwide").addClass('with-js');	jQuery(this).find(".gs-NavBarBullet_v2_Down").addClass('gs-NavBarBullet_v2').removeClass('gs-NavBarBullet_v2_Down');}});
-						jQuery("#if-headerMainNav .top .sub").addClass('with-js');
-						jQuery("#if-headerMainNav .top .subwide").addClass('with-js');
-						jQuery("#if-headerMainNav .top .gs-NavBarBullet").addClass('gs-NavBarBullet_v2').removeClass('gs-NavBarBullet');
-					});
-					function submitHeaderSearch() {
-						var oForm = document.forms['SearchBox'];
-						headerSearchValue = document.getElementById("pKey").value
-						if (headerSearchValue == ("< " + document.getElementById("headerSearchDefault").innerHTML + " >") || headerSearchValue == "") {
-							alert(document.getElementById("headerSearchError").innerHTML);
-						} else {
-							if(oForm.pMode.value == 'msTab_LiveChats'){
-								//oForm.pLiveOnlyFilter.value = 'ON'
-							}
-							document.forms['SearchBox'].submit()
-						}
-					}
-				</script>
-					<form name="SearchBox" action="http://www.ifriends.net/membrg/msearch_v2_custom.dll" method="GET" style="margin: 0px">
-					<input type="hidden" name="pSource" value="SiteHeader_QuickSearch">
-					<input type="hidden" name="pMode" value="msTab_LiveChats">
-					<input type="hidden" name="t" value="site/navigation/msearch/main">
-					<input type="hidden" name="pLiveOnlyFilter" value="OFF">
-					<div id="headerSearchDefault" style="display: none;">Search Term</div>
-					<div id="headerSearchError" style="display: none;">Please enter a search term</div>
-					<span class="gs-arial11" style="vertical-align:middle;"><b>Search:</b></span>
-					<a class="gs-navBarGoButton" style="vertical-align:middle;" onclick="submitHeaderSearch();"><span>&nbsp;Search&nbsp;</span></a>
-					<input class="frm-InputBox tall" type="TEXT" name="pKey" id="pKey" value="Type Search Term" maxlength="128" style="color:#777777;vertical-align:middle; float:right; margin-left: 4px; margin-top:2px; width:157px;" onfocus="this.value='';this.style.color='#000000';this.onfocus=null;">
-					</form>
-				</li>
-			</ul>
-		</div>
-	</div>
 </div>
-	</div>
-	<script type="text/javascript">
-
-	pseudoHover = function(cID) {
-		var cssRule;
-		var newSelector;
-		try{
-		for (var i = 0; i < document.styleSheets.length; i++)
-			for (var x = 0; x < document.styleSheets[i].rules.length ; x++)
-				{
-
-				cssRule = document.styleSheets[i].rules[x];
-				if (cssRule.selectorText.indexOf("LI:hover") != -1)
-				{
-					 newSelector = cssRule.selectorText.replace(/LI:hover/gi, "LI.iehover");
-					document.styleSheets[i].addRule(newSelector , cssRule.style.cssText);
-				}
-
-			}
-		}catch(e){}
-		var getElm = document.getElementById(cID).getElementsByTagName("LI");
-		for (var i=0; i<getElm.length; i++) {
-			getElm[i].onmouseover=function() {
-				this.className+=" iehover";
-			}
-			getElm[i].onmouseout=function() {
-				this.className=this.className.replace(new RegExp(" iehover\\b"), "");
-			}
-		}
-	}
-	if (window.attachEvent) window.attachEvent("onload", function(){pseudoHover('if-headerMainNav');});
-
-	</script>
-	<script language="javascript">
-	if(document.getElementById('if-headerLeftTagline_1')){
-		(function alternateTagLines(){
-			setInterval(function(){
-				document.getElementById('if-headerLeftTagline_1').style.display = (document.getElementById('if-headerLeftTagline_1').style.display == 'none' ? '' : 'none');
-				document.getElementById('if-headerLeftTagline_2').style.display = (document.getElementById('if-headerLeftTagline_2').style.display == 'none' ? '' : 'none');
-			}, '4000');
-		})();
-	}
-	</script>
+<!---->		</td>
+	</tr>
+</tbody></table>
 <input type="hidden" id="LiveNotificationsEnabled">
 	
 	<div id="MainContentParentNewLayout">
-<div id="SideBarNewLayout">
-	<div id="SideBarNewLayout_Content">
-			<div id="divLiveNowNewLayoutParent">
-					<div id="divLiveNowNewLayout">
-						<style type="text/css">
-						.if-button-liveGirls {background-image:url("http://images.ifriends.net/IF_V2/wwee/iFriendsv2/CSS/CSSgraphics/Image_Sprite_New.jpg?20101112");display:block;background-position:0px 0px;background-repeat:no-repeat;height:90px;width:201px;margin:0px 0px 10px 15px;}
-						.if-button-hottestGirls {background-image:url("http://images.ifriends.net/IF_V2/wwee/iFriendsv2/CSS/CSSgraphics/Image_Sprite_New.jpg?20101112");display:block;background-position:0px -100px;background-repeat:no-repeat;height:90px;width:201px;margin:0px 0px 10px 15px;}
-						.if-button-collegeGirls {background-image:url("http://images.ifriends.net/IF_V2/wwee/iFriendsv2/CSS/CSSgraphics/Image_Sprite_New.jpg?20101112");display:block;background-position:0px -200px;background-repeat:no-repeat;height:90px;width:201px;margin:0px 0px 10px 15px;}
-						.if-button-freshFaces {background-image:url("http://images.ifriends.net/IF_V2/wwee/iFriendsv2/CSS/CSSgraphics/Image_Sprite_New.jpg?20101112");display:block;background-position:0px -300px;background-repeat:no-repeat;height:90px;width:201px;margin:0px 0px 10px 15px;}
-						.if-button-highQuality {background-image:url("http://images.ifriends.net/IF_V2/wwee/iFriendsv2/CSS/CSSgraphics/Image_Sprite_New.jpg?20101112");display:block;background-position:0px -400px;background-repeat:no-repeat;height:90px;width:201px;margin:0px 0px 10px 15px;}
-						.if-button-awardWinners {background-image:url("http://images.ifriends.net/IF_V2/wwee/iFriendsv2/CSS/CSSgraphics/Image_Sprite_New.jpg?20101112");display:block;background-position:0px -500px;background-repeat:no-repeat;height:90px;width:201px;margin:0px 0px 10px 15px;}
-						.if-button-liveCamSpy {background-image:url("http://images.ifriends.net/IF_V2/wwee/iFriendsv2/CSS/CSSgraphics/Image_Sprite_New.jpg?20101112");display:block;background-position:0px -600px;background-repeat:no-repeat;height:90px;width:201px;margin:0px 0px 10px 15px;}
-						.if-button-camsRoulette {background-image:url("http://images.ifriends.net/IF_V2/wwee/iFriendsv2/CSS/CSSgraphics/Image_Sprite_New.jpg?20101112");display:block;background-position:0px -700px;background-repeat:no-repeat;height:90px;width:201px;margin:0px 0px 10px 15px;}
-						</style>
+		<div id="LeftNewLayout" style="width:134px;float:left;text-align:left;">
+			<div id="LeftNewLayout_Content" style="position:relative;">
+<!-- Begin Left.htm -->
+<table width="134" border="0" cellspacing="0" cellpadding="0" id="tblSiteLeftRail">
+	<tbody><tr>
+		<td class="gs-leftRailTL"></td>
+		<td class="gs-leftRailTM"></td>
+		<td class="gs-leftRailTR"></td>
+	</tr>
+	<tr>
+		<td class="gs-leftRailML"></td>
+		<td class="gs-leftRailM" valign="top">
+			<div style="width: 116px; overflow: hidden">
+			<table cellpadding="0" cellspacing="0" border="0" width="112" align="center">
+				<tbody><tr>
+					<td>
+<form name="SearchBox_LeftRail" action="http://www.collegeblondes.net/membrg/msearch_v2_custom.dll" method="GET" style="margin: 0px" onsubmit="submitHeaderSearch_LeftRail();return false;">
+	<input type="hidden" name="pMode" value="msTab_LiveChats">
+	<input type="hidden" name="pSource" value="SiteLeftRail">
+	<input class="gs-navBarSearchBox" title="College Blondes Search: See and be Seen!" type="TEXT" name="pKey" id="pKey_LeftRail" value="" size="20" maxlength="128" style="height: 14px;" onfocus="this.value='';this.style.color='#000000';this.onfocus=null;">
+	<div id="headerSearchDefault_LeftRail" style="display: none;">live search</div>
+	<div id="headerSearchError_LeftRail" style="display: none;">Please enter a search term</div>
+	<script language="Javascript">
+		document.getElementById("pKey_LeftRail").value = "< " + document.getElementById("headerSearchDefault_LeftRail").innerHTML + " >";
+	</script>
+	<input type="hidden" name="pLiveOnlyFilter" value="OFF">
+	<script language="javascript">
+		function submitHeaderSearch_LeftRail() {
+			var oForm = document.forms['SearchBox_LeftRail'];
+			var headerSearchValue = document.getElementById("pKey_LeftRail").value
+			if (headerSearchValue == ("< " + document.getElementById("headerSearchDefault_LeftRail").innerHTML + " >") || headerSearchValue == "") {
+				alert(document.getElementById("headerSearchError_LeftRail").innerHTML);
+			} else {
+				document.forms['SearchBox_LeftRail'].submit();
+			}
+		}
+	</script>
+</form>						<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 2px; margin-bottom: 2px;">
+							<tbody><tr>
+								<td>
+									<table cellpadding="0" cellspacing="0" border="0" align="left" class="gs-leftRailBulletMargin">
+										<tbody><tr>
+											<td class="gs-leftRailBullet" nowrap=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td>
+									<span class="gs-textLeftRailHead">
+										<b>Members Only</b>
+									</span>
+								</td>
+							</tr>
+						</tbody></table>
+<p class="gs-textLeftRail">
 
+	<a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/signup&amp;pSource=LeftRailReg&amp;pSiteCode=CollegeBlondes" title="Register Now! (It's Free)">
+	Free Registration
+	</a>
+	<br>
+	<span class="gs-textLeftRailHead"><b><a href="http://www.collegeblondes.net/ifpage.dll?t=Site/LoginBasic&amp;pClub=" title="Click here to use your valid screenname and password to log in to the College Blondes, Fanclubs.com or 18+ ID Card platform.">LOG IN</a></b> <!----></span><br>
+	<span class="gs-textLeftRailLogin">
+		<a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/FindLogin/findloginmain&amp;pSiteCode=CollegeBlondes" title="Retrieve Your Forgotten Login &amp; Password">Forgot Password?</a>
+	</span>
+					</p></td>
+				</tr>
 
+				<tr>
+					<td class="gs-leftRailDiv"></td>
+				</tr>
+				<tr>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 2px; margin-bottom: 2px;">
+							<tbody><tr>
+								<td>
+									<table cellpadding="0" cellspacing="0" border="0" align="left" class="gs-leftRailBulletMargin">
+										<tbody><tr>
+											<td class="gs-leftRailBullet" nowrap=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td>
+									<span class="gs-textLeftRailHead">
+										<b>Hot Menu</b>
+									</span>
+								</td>
+							</tr>
+						</tbody></table>
+<p class="gs-textLeftRail">
+	<a href="http://www.collegeblondes.net/membrg2/LiveHosts_home_custom.dll?pf_VCHContentFlagsBitMap1=1073741824" title="Browse Thousands of Live Video Chathosts">Live Browse</a><br>
+	<a href="http://www.collegeblondes.net/userURL_membrg2/livehosts/high-quality/webcams/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=1073741824" title="High Quality Cams">Hi-Quality Cams</a><a class="nounderline" href="http://www.collegeblondes.net/userURL_membrg2/livehosts/high-quality/webcams/live-now/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=1073741824" title="High Quality Cams"><img style="margin-top:-1px;" src="http://images.ifriends.net/if_v2/HighQuality/High_Quality_Icon_smaller.png" height="11" width="24" border="0" align="absmiddle">
+</a><br>
+	<a href="http://www.collegeblondes.net/membrg/aExplorer_v2_custom.dll?pStyle=Pics" title="Access the entire Picture Archive history of every  College Blondes Chathost">Archives</a> (<a href="http://www.collegeblondes.net/membrg/aExplorer_v2_custom.dll?pStyle=VidClips" title="Access the entire Video Archive history of every College Blondes Chathost">vids</a>)<br>
+	<a href="http://www.collegeblondes.net/membrg2/LiveHosts.dll?pf_VCHlive=Y&amp;pLoopPageSize_allpappliveHosts=64&amp;pf_VCHliveRoomNumber=5&amp;pf_VCHContentFlagsBitMap1=1073741824" title="Browse thousands of Video Chathost profiles; all live now!">Profile Surf</a><br>
+	<a href="http://www.collegeblondes.net/membrg2/LiveHosts_SiteHomePeople.dll?pf_VCHlive=Y&amp;pf_UniqueName=Y&amp;pLoopPageSize_allPappLiveHosts=2000&amp;pf_VCHContentFlagsBitMap1=0">Who's Live</a> / <a href="http://www.collegeblondes.net/membrg2/LiveHosts_SiteHomeContent.dll?pf_VCHlive=Y&amp;pf_UniqueName=Y&amp;pLoopPageSize_allPappLiveHosts=2000&amp;pf_VCHContentFlagsBitMap1=0">Eye Candy</a><br>
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/navigation/liveHosts/VVunfiltered/Interstitial&amp;pLiveCamSpySource=LeftRail" title="Live Cam Spy">Live Cam Spy</a><br>
+	<a href="http://www.collegeblondes.net/membrg2/LiveHosts.dll?t=site/navigation/liveHosts/elitecamviewer/maintable&amp;pLoopPageSize_allpappliveHosts=9&amp;pf_vchlive=Y&amp;pf_VCHContentFlagsBitMap1=1073741824" title="View dozens of Live Cams simultaneously">Elite Cam Viewer</a><br>
+	<a href="http://www.collegeblondes.net/userURL_/chatroulette/" title="Cams Roulette">Cams Roulette</a> <span class="gs-arial9" style="color:#ff0000;">New!</span><br>
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/navigation/search/search" title="Find exactly what you're looking for on College Blondes!">Search Engine</a><br>
+	<a id="anchMyiFriendsV2Tour" href="http://www.collegeblondes.net/membrg/twrp.dll?pAppCode=TWRP_MYIF2&amp;pmode=getcustomlayout" title="Enjoy College Blondes the way you like it with this Personalization Platform">My College Blondes</a><br>
+	<a href="http://www.collegeblondes.net/membrg/fcHome_V2_custom.dll" title="Showcasing Fanclubs that offer the most, and whose Stars are Live Right Now">FanClubs</a><br>
+	<a href="http://www.collegeblondes.net/membrg/twrp.dll?t=Site/CustomersOnly/MyIF2/IFWall&amp;pAppCode=TWRP_WallManager&amp;pMode=GetPosts&amp;pDisplayStyle=ShowAll" title="See what that Stars of College Blondes are discussing right now.">College Blondes Wall</a><br>
+	<a href="http://www.collegeblondes.net/membrg/TWRP.dll?pappcode=TWRP_VCHViewerAwards" title="Awards given to Video Chat Hosts by College Blondes Viewers">Award Winners</a>
+</p>					</td>
+				</tr>
 
-						<a class="if-button-liveGirls" href="http://www.ifriends.net/userURL_membrg2/livehosts/cam-girls/live-now/?pCache=Yes&amp;pSource=RM_LGonC"></a>
-						<a class="if-button-highQuality" href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/high-quality/?pCache=Yes&amp;pSource=RM_HQLV"></a>
-						<a class="if-button-hottestGirls" href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/hot/?pCache=Yes&amp;pSource=RM_THAGO"></a>
-						<a class="if-button-liveCamSpy" href="http://www.ifriends.net/ifpage.dll?t=site/navigation/liveHosts/VVunfiltered/Interstitial&amp;pSource=RM_LCS"></a>
-						<a class="if-button-collegeGirls" href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/college-girls/?pCache=Yes&amp;pSource=RM_CCG"></a>
-						<a class="if-button-awardWinners" href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/award-winners/?pCache=Yes&amp;pSource=RM_AW"></a>
-						<a class="if-button-freshFaces" href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/fresh-faces/?pCache=Yes&amp;pSource=RM_FF"></a>
-						<a class="if-button-camsRoulette" href="http://www.ifriends.net/userURL_/chatroulette/?pSource=RM_CR"></a>
+				<tr>
+					<td class="gs-leftRailDiv"></td>
+				</tr>
+				<tr>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 2px; margin-bottom: 2px;">
+							<tbody><tr>
+								<td>
+									<table cellpadding="0" cellspacing="0" border="0" align="left" class="gs-leftRailBulletMargin">
+										<tbody><tr>
+											<td class="gs-leftRailBullet" nowrap=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td>
+									<span class="gs-textLeftRailHead">
+										<b>Cool Resources</b>
+									</span>
+								</td>
+							</tr>
+						</tbody></table>
+<p class="gs-textLeftRail">
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/FAQ/FAQ" title="Answers to Your Most Popular Questions">FAQ</a> /
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/tools/Diamond/main" title="Online Help Available 24/7">Help</a> /
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/CustomerService/Contacts" title="How to Reach Us">Contacts</a><br>
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/CustomerService/MemServ" title="Member Services for College Blondes Viewers and Chathosts">Customer Service</a><br>
+	<a href="http://loveandhealth.ifriends.net/index.cfm?pSuppressLegacyV1LeftRail=true" target="_blank" title="An Educational Resource on the Health and Science of Human Sexuality">Love &amp; Health Info</a><br>
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/forums" title="Express your Views with your fellow College Blondes Viewers and Chathosts">Discussion Groups</a>
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/ChathostsOnly/General/Marketplace/marketplace&amp;pClub=" title="Get the Best Gear at the College Blondes MarketPlace">College Blondes Store</a>
+</p>					</td>
+				</tr>
+				<tr>
+					<td class="gs-leftRailDiv"></td>
+				</tr>
+				<tr>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0" style="margin-top: 2px; margin-bottom: 2px;">
+							<tbody><tr>
+								<td>
+									<table cellpadding="0" cellspacing="0" border="0" align="left" class="gs-leftRailBulletMargin">
+										<tbody><tr>
+											<td class="gs-leftRailBullet" nowrap=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td>
+									<span class="gs-textLeftRailHead">
+										<b>Own a WebCam?</b>
+									</span>
+								</td>
+							</tr>
+						</tbody></table>
+<p class="gs-textLeftRail">
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/ChathostsOnly/General/ChathostIntro&amp;pClub=" title="Create Your Own Video Host Account and Start Hosting Today">Become a Video Host</a><br>
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/ChathostsOnly/General/ControlCenter/contrib&amp;pClub=#console" id="anchChathostConsole" title="Already a Video Host? Click Here to Manage your Account">Video Host Console</a><br>
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/ChathostsOnly/General/Pagetools/pagetools&amp;pClub=" title="Get Help Promoting Yourself to Become a Succesful Video Host Star">Promote Yourself</a><br>
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/ChathostsOnly/IDCards/manager/paenter&amp;pClub=" title="Access Your 18+ IDCard Setting, or Learn more about the 18+ ID Card">18+ IDcard Mgr.</a><br>
+</p>					</td>
+				</tr>
+			</tbody></table>
+			<span style="display:none;"></span>		</div>
+		</td>
+		<td class="gs-leftRailMR"></td>
+	</tr>
+
+	<tr>
+		<td class="gs-leftRailBL"></td>
+		<td class="gs-leftRailBM"></td>
+		<td class="gs-leftRailBR"></td>
+	</tr>
+</tbody></table>
+			<div id="divSiteLeftRailAdModule" class="gs-moduleRightScrollBar" style="position:fixed;height:100px;width:100%;margin-top:4px;visibility:hidden;">
+					<div style="display:none;" id="divWhosLiveNowLeftRailMore">
+						<div style="font:9px arial;margin-left:25px;">
+							<a href="http://www.collegeblondes.net/membrg2/LiveHosts_home_custom.dll?t=site/navigation/livehosts_home/main&amp;pf_VCHContentFlagsBitMap1=1073741824">More</a> &gt;&gt;<br>
+							(308 live stars)
+						</div>
+					</div>
+					<div style="text-align:center;width:60px;padding:10px;" class="gs-arial10">
+						loading...
 					</div>
 			</div>
-	</div>
-</div>
+<script language="Javascript">
+function populatePromoSiteLeftRail(cVCHContentFlagsBitMap1){
+	var cURL = '/membrG2/livehosts_ProfileGridLeft.dll?t=site/includes/promo/data/VCHData_JSON.htm&pShowSimpleHTTPErrorMessage=true&pLoopPageSize_allPappLiveHosts=50&pSource=ModuleLeftRail&pf_uniqueName=Y&pf_IsAdultOnly=Y&reload=&';
+	var cVCHContentFlagsBitMap1 = (typeof(cVCHContentFlagsBitMap1) != 'undefined' ? cVCHContentFlagsBitMap1 : '0');
+	Ajax.requestType = 'GET';
+	Ajax.Execute(cURL +'&pf_VCHContentFlagsBitMap1='+cVCHContentFlagsBitMap1, (function(cResponse){
+		var arrHosts = eval("(" + cResponse+ ")").hosts;
+		var arrElements = [];
+		var arrHTML = [];
+		arrHTML.push('<div style="text-align:center;">');
+		arrHTML.push('<div id="spnWhosLiveNowHotTour" class="gs-arial11" style="width:64px;margin:auto;margin-bottom:5px;">');
+		arrHTML.push('<div style="cursor:hand;" onclick="window.location=\'http://www.collegeblondes.net/ifpage.dll?t=site/general/About_WhosLiveNow\'"><B>Who\'s Live Now</B> (Hot):</div>');
+		arrHTML.push('</div>');
+		for(var i=0;i<arrHosts.length;i++){
+			arrHTML.push('<div class="gs-imgShadow" style="margin: auto; text-align: left; position: relative; width: 68px; height: 52px; background-position: right bottom; float:none; ">');
+			arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'"><img style="display:inline; margin:0px;" s'+''+'r'+''+'c="'+arrHosts[i].VCHProfileImage+'" WIDTH="64" HEIGHT="48" border="0" onmouseover="VCHSummaryBox(event, \'' + arrHosts[i].VCHScreennameSimple + '\' , \'ModuleLeftRail\');"  onerror="swapUnavailableProfileImage(this, {width:64 , height:48 , gender:\''+arrHosts[i].VCHpdSex+'\'});"></a><br>');
+			arrHTML.push('	<img title="'+arrHosts[i].LiveStreamTitleText+'" s'+''+'r'+''+'c="'+arrHosts[i].LiveStreamIcon+'" border="0" style="display:inline; margin:0px; position:absolute; bottom: 3px; right: 0px; z-index:1;">');
+			arrHTML.push('</div>');
+			arrHTML.push('<div style="width:68px;padding-right:4px; z-index:0; overflow: hidden; white-space:nowrap;margin:auto;margin-bottom:10px;margin-top:0px;">');
+			arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'" title="'+arrHosts[i].VCHScreenname+'" class="gs-arial9" >'+arrHosts[i].VCHScreenname+'</a>');
+			arrHTML.push('</div>');
+			if(i == arrHosts.length-1){
+			arrHTML.push('</div>');
+			}
+			arrElements.push(arrHTML.join(''));
+			arrHTML = [];
+		}
+		if (document.getElementById('divWhosLiveNowLeftRailMore')){
+			arrHTML.push(document.getElementById('divWhosLiveNowLeftRailMore').innerHTML);
+			var oDiv = document.createElement('DIV');
+			oDiv.innerHTML = arrElements.join('') +  arrHTML.join('');
+			var oTargetDiv = document.getElementById('divSiteLeftRailAdModule');
+			oTargetDiv.innerHTML = '';
+			oTargetDiv.appendChild(oDiv);
+		}
+	}));
+}
 
+
+populatePromoSiteLeftRail('1073741824');
+
+</script>
+<!-- End Left.htm -->
+
+			</div>
+		</div>
 		<div id="FeatureHeaderParent">
 			<div class="gs-FeatureHeaderNew ">
 				<div class="gs-FeatureHeaderBG"></div>
 				<div class="gs-FeatureHeaderLeft">
-					Privacy Statement for the iFriends Network
+					Privacy Statement for the College Blondes Network
 				</div>
+<script language="JavaScript" src="http://www.collegeblondes.net/global/JS/AdjustFontSize_v2.js?200908251200" type="text/javascript"></script>
+<div class="gs-FeatureHeaderRight">
+	<span class="gs-textFontResizeModule" style="vertical-align:middle;">Adjust Font Size:</span><img id="imgFontSizeMinus" style="vertical-align:middle;cursor:pointer; " src="http://images.ifriends.net/if_v2/minus_light.gif" width="14" height="13" border="0" onclick="jsAdjustFontSize_v2.changeFontSize('-');"><img id="imgFontSizePlus" style="vertical-align:middle;cursor:pointer; " src="http://images.ifriends.net/if_v2/plus_transp.gif" width="14" height="13" border="0" onclick="jsAdjustFontSize_v2.changeFontSize( '+');">
+</div>
+<div style="clear:both;"></div>
+<script language="Javascript">
+	jsAdjustFontSize_v2.init('imgFontSizeMinus' , 'imgFontSizePlus' , {onFontResize : resizePromoElements}  );
+</script>
 			</div>
 		</div>
 
 
 		<div id="GroupedNewLayout">
-			<div id="SiteStatusBarNewLayout">
-<a href="http://www.ifriends.net/">
-	Home</a> &gt;
+			<div id="RightRailNewLayout" style="width:110px;float:right;text-align:left;">
+				<div id="RightRailNewLayout_Content" style="position:relative;">
+<!--
+-->
+<table cellpadding="0" cellspacing="0" border="0" width="80px" style="margin-left: 10px" id="tblModuleRightRail">
+	<tbody><tr>
+		<td>
+		
+			<div id="divLiveNowFreshFacesParent">
+				<div id="divWhosLiveNowFreshFacesTour" class="gs-arial12 FontResizeModuleIgnore" style="padding-top:5px;">
+					<b>Who's Live Now</b>
+					<div style="display:none;" id="divWhosLiveNowLoading" class="gs-arial10 FontResizeModuleIgnore">
+						<div style="padding:10px;">loading...</div>
+					</div>
+					<div style="display:none;" id="divWhosLiveNowMore">
+						<div style="font:9px arial;margin-left:8px;">
+							<a href="http://www.collegeblondes.net/membrg2/LiveHosts_home_custom.dll?t=site/navigation/livehosts_home/main&amp;pf_VCHContentFlagsBitMap1=1073741824">More</a> &gt;&gt;<br>
+							(308 live stars)
+						</div>
+					</div>
+				</div>
+				<div class="gs-arial9 FontResizeModuleIgnore" style="padding-top:3px;">
+					Fresh Faces: (<a href="javascript:void(0);" id="anchFreshNewFacesInfo" onclick="populateStdDynamicInfoBox(this.id,'/ifpage.dll?t=Site/ChathostsOnly/General/includes/FreshNewFaces&amp;pShowMemberBenefitsOnly=true','400','','pHeaderMessage=FreshFaces');return false;" title="These hot Stars are beautiful, high-energy newcomers that are ready to please.">info</a>)<br>
+					<div style="text-align:right;"><a href="javascript:void(0);" onclick="SetCookie('WhosLiveNowPref', 'InTheirPrime');populatePromoRightRailInTheirPrime();showHide('divLiveNowFreshFacesParent','divLiveNowInTheirPrimeParent');return false;" title="Experienced Video Stars distinguished for their commitment to customer satisfaction.">In their Prime</a> &gt;</div>
+				</div>
+				<div id="divLiveNowFreshFaces" class="gs-moduleRightScrollBar" style="height:300px;width:100px;">
+					<div style="text-align:center;width:60px;padding:10px;" class="gs-arial10 FontResizeModuleIgnore">
+						loading...
+					</div>
+				</div>
+				<script language="Javascript">
 
-		<a href="http://www.ifriends.net/ifpage.dll?t=site/general/CustomerService/MemServ">Customer Service</a> &gt;
-<span id="BreadcrumbPageTitle">
-	<script>
-	document.write(document.title)
-	</script>Privacy Statement for iFriends
-</span>			</div>
+					function populatePromoRightRailFreshFaces(){
+						Ajax.requestType = 'GET'; //must use GET in order for pShowSimpleHTTPErrorMessage to be passed in the event of an error.
+						var oLoadingDiv = document.getElementById('divWhosLiveNowLoading').cloneNode(true)
+						var oTargetDiv = document.getElementById('divLiveNowFreshFaces');
+						oLoadingDiv.style.display = '';
+						oTargetDiv.innerHTML = '';
+						oTargetDiv.appendChild(oLoadingDiv);
+						var cURL = '/membrg2/LiveHosts.dll?T=site/includes/promo/data/VCHData_JSON&pf_adult=Y&pf_VCHlive=Y&pShowSimpleHTTPErrorMessage=true&pf_UniqueNameAllRooms=Y&pLoopPageSize_allPappLiveHosts=50&pSource=ModuleRightRail_FreshFaces&pf_VCHisNewFace=Y';
+						Ajax.Execute( cURL, (function(cResponse){
+												var arrHosts = eval("(" + cResponse+ ")").hosts;
+												var arrElements = [];
+												var arrHTML = [];
+												arrHTML.push('<div style="text-align:center;padding-top:6px;">');
+												for(var i=0;i<arrHosts.length;i++){
+													arrHTML.push('<div class="gs-imgShadow" style="margin: auto; text-align: left; position: relative; width: 68px; height: 52px; background-position: right bottom; float:none; ">');
+													arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'"><img style="display:inline; margin:0px;" s'+''+'r'+''+'c="'+arrHosts[i].VCHProfileImage+'" WIDTH="64" HEIGHT="48" border="0" onmouseover="VCHSummaryBox(event, \'' + arrHosts[i].VCHScreennameSimple + '\' , \'ModuleLeftRail\');"  onerror="swapUnavailableProfileImage(this, {width:64 , height:48 , gender:\''+arrHosts[i].VCHpdSex+'\'});"></a><br>');
+													arrHTML.push('	<img title="'+arrHosts[i].LiveStreamTitleText+'" s'+''+'r'+''+'c="'+arrHosts[i].LiveStreamIcon+'" border="0" style="display:inline; margin:0px; position:absolute; bottom: 3px; right: 0px; z-index:1;">');
+													arrHTML.push('</div>');
+													arrHTML.push('<div style="width:68px;padding-right:4px; z-index:0; overflow: hidden; white-space:nowrap;margin:auto;margin-bottom:10px;margin-top:0px;">');
+													arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'" title="'+arrHosts[i].VCHScreenname+'" class="gs-arial9" >'+arrHosts[i].VCHScreenname+'</a>');
+													arrHTML.push('</div>');
+													if(i == arrHosts.length-1){
+													arrHTML.push('</div>');
+													}
+													arrElements.push(arrHTML.join(''));
+													arrHTML = [];
+												}
+												arrHTML.push(document.getElementById('divWhosLiveNowMore').innerHTML);
+												var oDiv = document.createElement('DIV');
+												oDiv.innerHTML = arrElements.join('') +  arrHTML.join('');
+												var oTargetDiv = document.getElementById('divLiveNowFreshFaces');
+												oTargetDiv.innerHTML = '';
+												oTargetDiv.appendChild(oDiv);
+											}));
+					}
+					populatePromoRightRailFreshFaces();
+				</script>
+			</div>
+
+			<div id="divLiveNowInTheirPrimeParent" style="display:none;">
+				<div id="divWhosLiveNowInTheirPrimeTour" class="gs-arial12 FontResizeModuleIgnore" style="padding-top:5px;">
+					<b>Who's Live Now</b>
+				</div>
+				<div class="gs-arial9 FontResizeModuleIgnore" style="padding-top:3px;">
+					In their Prime: (<a href="javascript:void(0);" id="anchInTheirPrimeInfo" onclick="populateStdDynamicInfoBox(this.id,'/ifpage.dll?t=Site/ChathostsOnly/General/includes/InTheirPrime&amp;pShowMemberBenefitsOnly=true','400','','pHeaderMessage=InTheirPrime');return false;" title="Experienced Video Stars distinguished for their commitment to customer satisfaction.">info</a>)<br>
+					<div style="text-align:right;"><a href="javascript:void(0);" onclick="SetCookie('WhosLiveNowPref', 'FreshFaces');populatePromoRightRailFreshFaces();showHide('divLiveNowFreshFacesParent','divLiveNowInTheirPrimeParent');return false;" title="These hot Stars are beautiful, high-energy newcomers that are ready to please.">Fresh Faces</a> &gt;</div>
+				</div>
+				<div id="divLiveNowInTheirPrime" class="gs-moduleRightScrollBar" style="height:300px;width:100px;">
+					<div style="width:60px;padding:10px;" class="gs-arial10 FontResizeModuleIgnore">
+						loading...
+					</div>
+				</div>
+				<script language="Javascript">
+
+					function populatePromoRightRailInTheirPrime(){
+						var oLoadingDiv = document.getElementById('divWhosLiveNowLoading').cloneNode(true)
+						var oTargetDiv = document.getElementById('divLiveNowInTheirPrime');
+						oLoadingDiv.style.display = '';
+						oTargetDiv.innerHTML = '';
+						oTargetDiv.appendChild(oLoadingDiv);
+						Ajax.requestType = 'GET'; //must use GET in order for pShowSimpleHTTPErrorMessage to be passed in the event of an error.
+						var cURL = '/membrg2/LiveHosts.dll?T=site/includes/promo/data/VCHData_JSON&pf_adult=Y&pf_VCHlive=Y&pShowSimpleHTTPErrorMessage=true&pf_UniqueNameAllRooms=Y&pLoopPageSize_allPappLiveHosts=50&pSource=ModuleRightRail_InTheirPrime&pf_VCHisInPrimeYN=Y' ;
+						Ajax.Execute(cURL, (function(cResponse){
+												var arrHosts = eval("(" + cResponse+ ")").hosts;
+												var arrElements = [];
+												var arrHTML = [];
+												arrHTML.push('<div style="text-align:center;padding-top:6px;">');
+												for(var i=0;i<arrHosts.length;i++){
+													arrHTML.push('<div class="gs-imgShadow" style="margin: auto; text-align: left; position: relative; width: 68px; height: 52px; background-position: right bottom; float:none; ">');
+													arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'"><img style="display:inline; margin:0px;"  src="'+arrHosts[i].VCHProfileImage+'" WIDTH="64" HEIGHT="48" border="0" onmouseover="VCHSummaryBox(event, \'' + arrHosts[i].VCHScreennameSimple + '\' , \'ModuleLeftRail\');"  onerror="swapUnavailableProfileImage(this, {width:64 , height:48 , gender:\''+arrHosts[i].VCHpdSex+'\'});"></a><br>');
+													arrHTML.push('	<img title="'+arrHosts[i].LiveStreamTitleText+'" src="'+arrHosts[i].LiveStreamIcon+'" border="0" style="display:inline; margin:0px; position:absolute; bottom: 3px; right: 0px; z-index:1;">');
+													arrHTML.push('</div>');
+													arrHTML.push('<div style="width:68px;padding-right:4px; z-index:0; overflow: hidden; white-space:nowrap;margin:auto;margin-bottom:10px;margin-top:0px;">');
+													arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'" title="'+arrHosts[i].VCHScreenname+'" class="gs-arial9" >'+arrHosts[i].VCHScreenname+'</a>');
+													arrHTML.push('</div>');
+													if(i == arrHosts.length-1){
+													arrHTML.push('</div>');
+													}
+													arrElements.push(arrHTML.join(''));
+													arrHTML = [];
+												}
+												arrHTML.push(document.getElementById('divWhosLiveNowMore').innerHTML);
+												var oDiv = document.createElement('DIV');
+												oDiv.innerHTML = arrElements.join('') +  arrHTML.join('');
+												var oTargetDiv = document.getElementById('divLiveNowInTheirPrime');
+												oTargetDiv.innerHTML = '';
+												oTargetDiv.appendChild(oDiv);
+											}));
+					}
+				</script>
+			</div>
+
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<!-- BEGIN SPECIAL EVENTS INFO-->
+			<div id="divSpecialEventsTour" class="gs-arial11 FontResizeModuleIgnore" style="padding-left: 10px;padding-top:5px;">
+				<div style="cursor:hand;" onclick="window.location='http://www.collegeblondes.net/ifpage.dll?t=site/general/About_WhosLiveNow'" title="Click here to learn more about this feature."><b>Special Events</b>:</div>
+			</div>
+			<div class="gs-arial9 FontResizeModuleIgnore" align="right" style="padding-bottom:2px;">
+				<a href="http://www.collegeblondes.net/membrg/TWRP.dll?pAppCode=TWRP_Events&amp;pMode=ListLiveEvents&amp;t=site/navigation/SpecialEventsCalendar/main">
+				View All</a> &gt;
+			</div>
+			<div id="divLiveNowSpecialEventsParent">
+				<div id="divLiveNowSpecialEvents" class="gs-moduleRightScrollBar" style="width:100px;">
+					<div style="width:60px;padding:10px;" class="gs-arial10 FontResizeModuleIgnore">
+						loading...
+					</div>
+				</div>
+			</div>
+			<script language="Javascript">
+				Ajax.requestType = 'GET';
+				//Ajax.Execute('/membrg2/LiveHosts_events.dll?t=site/includes/promo/ModuleRightRail_SpecialEvents&pf_adult=Y&pShowSimpleHTTPErrorMessage=true', function(cResponse){
+				var cURL = '/membrg2/LiveHosts_Events.dll?t=site/includes/promo/data/VCHData_JSON&pSortVar=VCHSessionIsSpecialEvent&reload=&pLoopPageSize_allPappLiveHosts=50&pf_VCHlive=Y&pf_UniqueNameAllRooms=Y&pf_VCHContentFlagsBitMap1=0&pf_VCHlive_isV2Initiated=Y&pSource=ModuleRightRail_SpecialEvents&pShowSimpleHTTPErrorMessage=true';
+				Ajax.Execute(cURL, (function(cResponse){
+												var arrHosts = eval("(" + cResponse+ ")").hosts;
+												var arrElements = [];
+												var arrHTML = [];
+												arrHTML.push('<div style="text-align:center;padding-top:6px;">');
+												for(var i=0;i<arrHosts.length;i++){
+													arrHTML.push('<div class="gs-imgShadow" style="margin: auto; text-align: left; position: relative; width: 68px; height: 52px; background-position: right bottom; float:none; ">');
+													arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'"><img style="display:inline; margin:0px;" src="'+arrHosts[i].VCHProfileImage+'" WIDTH="64" HEIGHT="48" border="0" onmouseover="VCHSummaryBox(event, \'' + arrHosts[i].VCHScreennameSimple + '\' , \'ModuleLeftRail\');"  onerror="swapUnavailableProfileImage(this, {width:64 , height:48 , gender:\''+arrHosts[i].VCHpdSex+'\'});"></a><br>');
+													arrHTML.push('	<img title="'+arrHosts[i].LiveStreamTitleText+'" src="'+arrHosts[i].LiveStreamIcon+'" border="0" style="display:inline; margin:0px; position:absolute; bottom: 3px; right: 0px; z-index:1;">');
+													arrHTML.push('</div>');
+													arrHTML.push('<div style="width:68px;padding-right:4px; z-index:0; overflow: hidden; white-space:nowrap;margin:auto;margin-bottom:10px;margin-top:0px;">');
+													arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'" title="'+arrHosts[i].VCHScreenname+'" class="gs-arial9" >'+arrHosts[i].VCHScreenname+'</a>');
+													arrHTML.push('</div>');
+													if(i == arrHosts.length-1){
+													arrHTML.push('</div>');
+													}
+													arrElements.push(arrHTML.join(''));
+													arrHTML = [];
+												}
+												arrHTML.push(document.getElementById('divWhosLiveNowMore').innerHTML);
+												var oDiv = document.createElement('DIV');
+												oDiv.innerHTML = arrElements.join('') +  arrHTML.join('');
+												var oTargetDiv = document.getElementById('divLiveNowSpecialEvents');
+												oTargetDiv.innerHTML = '';
+												oTargetDiv.appendChild(oDiv);
+											}));
+			</script>
+			<!-- END SPECIAL EVENTS INFO-->
+		</td>
+	</tr>
+</tbody></table>
+				</div>
+			</div>
 			<div id="MainNewLayout" class="">
 				<div id="MainNewLayout_Content">
-					<div style="margin-left: -10px; margin-top: -10px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td class="gs-IFBodyTL"></td>
+		<td class="gs-IFBodyTM"></td>
+		<td class="gs-IFBodyTR"></td>
+	</tr>
+	<tr>
+		<td class="gs-IFBodyML" nowrap=""></td>
+		<td class="gs-IFBodyM" valign="top">
+					<div style="padding: 20px;">
 <table border="0" cellspacing="0" cellpadding="10" width="100%" align="center" id="privacy1" class="gs-arial12">
 	<tbody><tr>
 		<td colspan="2">
@@ -652,19 +1210,19 @@ a.icon-AddThisIcon.color img {
 		<td valign="top" style="padding-top:10px;">
 			<b>Effective August 2008</b>
 			<br>
-<img src="http://images.ifriends.net/if_v2/lang1/finalmark.gif" height="31" width="116" onerror="swapMissingLanguageSpecificImage(this);" style="margin: 0px; margin-right: 5px" align="right">			We understand that privacy is an ongoing and important concern for all of our users.  For more than
+			We understand that privacy is an ongoing and important concern for all of our users.  For more than
 			10 years we have maintained a secure online environment for users to express themselves.  We
 			respect and safeguard the privacy of every individual who visits or creates Content on or through our website(s).
 
 			<br><br>This Privacy Policy is a formal document which outlines the information that may be collected
 			about you while you use this Service, and how that information may be used.  This Policy will also
 			instruct you on what to do if you do not want your personal information collected or shared.
-			This Policy incorporates our <a href="http://www.ifriends.net/ifpage.dll?t=site/General/Legal/tos">Terms of Service</a>,
+			This Policy incorporates our <a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/Legal/tos">Terms of Service</a>,
 			and if there is a conflict between this	Policy and our Terms of	Service, the Terms of Service prevail.
 			If you would like to review a plain-spoken presentation of how we protect your privacy, and the practical ways that
-			our Policy might affect your life, please <a href="http://www.ifriends.net/ifpage.dll?t=site/general/legal/privacyprotection">click here</a>
+			our Policy might affect your life, please <a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/legal/privacyprotection">click here</a>
 			for our "side bar" article, "How We Protect Your Privacy,"
-			or <a href="http://www.ifriends.net/ifpage.dll?t=site/general/legal/privacyfaq">click here</a>
+			or <a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/legal/privacyfaq">click here</a>
 			for a list of frequently-asked questions and answers concerning our policies.
 		</td>
 	</tr>
@@ -713,10 +1271,10 @@ a.icon-AddThisIcon.color img {
 			discontinuing use of this Service.
 
 			You may update or deactivate your information by contacting Video Host
-			Support through the <a href="http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">iFriends Contact Form</a>
+			Support through the <a href="http://www.collegeblondes.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">College Blondes Contact Form</a>
 			or by contacting us by telephone or postal mail at the contact
 			information listed below. You may also communicate with us about our use of your Content by contacting
-			Video Host Support through the <a href="http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">iFriends Contact Form</a>.
+			Video Host Support through the <a href="http://www.collegeblondes.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">College Blondes Contact Form</a>.
 		</td>
 	</tr>
 	<tr>
@@ -744,7 +1302,7 @@ a.icon-AddThisIcon.color img {
 			we NEVER disclose user email addresses or other Personally-identifiable information to Video
 			Hosts).
 			Users may opt-out of such mailing lists at any time by following
-			the instructions found <a href="http://www.ifriends.net/ifpage.dll?t=site/General/legal/email_subscription_policy">here</a> or by
+			the instructions found <a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/legal/email_subscription_policy">here</a> or by
 			following the instructions that will be sent as part of any such mailings.
 
 			<br><br>By using this Service, you expressly authorize us to disclose your Personally-identifiable information if we have a good faith belief that the access, use, preservation, or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, or enforceable governmental request; enforce applicable Terms of Service, including the investigation of potential violations thereof; detect, prevent, or otherwise address fraud, security, or technical issues; or protect against harm to the rights, property, or safety of WebPower, Inc., its users, or the public as required or permitted by law.  In your capacity as both the sender and the recipient of electronic communications on or through our Services, you expressly authorize us to access your Personally-identifiable information and to disclose your Personally-identifiable information to government agencies pursuant to valid legal procedures; this authorization relates to the Personally-identifiable information that you distribute on or through our Services as well as to the Personally-identifiable information that you store on our Services.
@@ -756,7 +1314,7 @@ a.icon-AddThisIcon.color img {
 			<br>
 			If your Personally-identifiable information changes or if you no longer desire to use our Services,
 			you may update or deactivate your information.
-			You may update or deactivate your information by contacting Customer Care via the <a href="http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">iFriends Contact Form</a>.
+			You may update or deactivate your information by contacting Customer Care via the <a href="http://www.collegeblondes.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">College Blondes Contact Form</a>.
 			If you prefer, you may contact us by
 			telephone or postal mail at the contact information listed below. If you have already submitted
 			Personally-identifiable information to us and would like us to remove it from our records, please
@@ -777,7 +1335,7 @@ a.icon-AddThisIcon.color img {
 
 			To learn how to prevent us from using
 			cookies during your visit to this Service and how to erase cookies from
-			your hard drive, see the <a href="http://www.ifriends.net/ifpage.dll?t=site/general/erasecookies">Guide to Managing Cookies</a>.
+			your hard drive, see the <a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/erasecookies">Guide to Managing Cookies</a>.
 		</td>
 	</tr>
 	<tr>
@@ -797,7 +1355,7 @@ a.icon-AddThisIcon.color img {
 			these functions.
 			To learn how to prevent us from using
 			cookies during your visit to this Service and how to erase cookies from
-			your hard drive, see the <a href="http://www.ifriends.net/ifpage.dll?t=site/general/erasecookies">Guide to Managing Cookies</a>.
+			your hard drive, see the <a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/erasecookies">Guide to Managing Cookies</a>.
 		</td>
 	</tr>
 	<tr>
@@ -823,7 +1381,7 @@ a.icon-AddThisIcon.color img {
 			Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot
 			guarantee its absolute security.
 			<br><br>
-			If you have any questions about security on our website, you can contact us through the <a href="http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=security[at]ifriends[dot]net&#10;">iFriends Contact Form</a>.
+			If you have any questions about security on our website, you can contact us through the <a href="http://www.collegeblondes.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=security[at]ifriends[dot]net&#10;">College Blondes Contact Form</a>.
 		</td>
 	</tr>
 	<tr>
@@ -874,7 +1432,7 @@ a.icon-AddThisIcon.color img {
 			<br>
 			If you have submitted Personally-identifiable information
 			through this Service and would like that information removed
-			from our records, please contact Customer Care via the <a href="http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">iFriends Contact Form</a>
+			from our records, please contact Customer Care via the <a href="http://www.collegeblondes.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">College Blondes Contact Form</a>
 			and provide
 			us with your name, your screenname,
 			and any information that you feel is important. We will use reasonable efforts to
@@ -883,8 +1441,8 @@ a.icon-AddThisIcon.color img {
 			If you have further questions about this Privacy Policy:
 			<br><br>
 			<ol>
-				<li style="margin:10px;">Contact us online through our <a href="http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">iFriends Contact Form</a></li>
-				<li style="margin:10px;">Contact us at our toll-free telephone number: 1-800-437-4363<br>(<a href="http://www.ifriends.net/ifpage.dll?t=site/General/CustomerService/Contacts#telephone">Click here</a> for international contact info)</li>
+				<li style="margin:10px;">Contact us online through our <a href="http://www.collegeblondes.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&amp;p_V1_Email_Ref=help[at]ifriends[dot]net&#10;">College Blondes Contact Form</a></li>
+				<li style="margin:10px;">Contact us at our toll-free telephone number: 1-800-437-4363<br>(<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/CustomerService/Contacts#telephone">Click here</a> for international contact info)</li>
 				<li style="margin:10px;">Contact us at our postal address:
 				<br><br>
 				Attention: Privacy Department<br>
@@ -895,13 +1453,275 @@ a.icon-AddThisIcon.color img {
 		</td>
 	</tr>
 </tbody></table>					</div>
-				<div id="if-JoinModule" style="background-image: url(http://images.ifriends.net/if_v2/ifriends/iFv3_Member_Join.jpg); margin-bottom:15px; margin-top:50px; color: white; width: 665px; height: 168px;">
-					<div id="if-JoinModuleTagLine" style="padding-top: 32px; padding-left: 223px; font-size: 14px; font-weight: bold; font-family: arial, sans-serif;">Hot, Sexy Stars are LIVE and waiting to chat with you</div>
-					<div id="if-JoinModuleText" style="padding-top: 20px; padding-left: 15px; width: 350px; margin-left: 220px; font-size: 11px; font-family:  arial, sans-serif;">
-					Like what you see? No matter what your pleasure, we've got a Video Host waiting to meet you and fulfill your deepest fantasies right now!
-					<a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/signup&amp;pSource=ModuleFooter&amp;pSiteCode=iFriendsV2" class="if-button prominent" style="width:240px;margin-top:12px;"><span>JOIN NOW FOR FREE!</span></a>
+		</td>
+		<td class="gs-IFBodyMR" nowrap=""></td>
+	</tr>
+	<tr>
+		<td class="gs-IFBodyBL"></td>
+		<td class="gs-IFBodyBM"></td>
+		<td class="gs-IFBodyBR"></td>
+	</tr>
+</tbody></table>
+			<div id="WhosLiveNowGalleryTour" style="margin-left:-20px;" class="gs-border ">
+				<div id="WhosLiveNowGalleryTourHeader" style="position:relative;height:30px;clear:both;" class="gs-subHeader">
+					<div class="gs-FeatureHeaderLeft FontResizeModuleIgnore">
+						<div style="cursor:pointer; cursor:hand; margin-left:10px;" onclick="window.location='http://www.collegeblondes.net/ifpage.dll?t=site/general/About_WhosLiveNow'" title="Click here to learn more about this feature.">Who's Live Now <span style="font-weight:normal;">(Gallery):</span></div>
+					</div>
+					<div class="gs-FeatureHeaderRight FontResizeModuleIgnore">
+<!--For forms.css call, See: includes/data/formIncludes.htm-->
+
+<!--
+-->
+
+<!--
+-->
+
+<link rel="stylesheet" type="text/css" id="ssForms" href="http://images.iFriends.net/IF_V2/WWEE/_default_/CSS/Forms.css">
+
+<!--
+-->
+
+
+		<link rel="stylesheet" type="text/css" id="ssForms2" href="/global/CSS/partners/CSS/CollegeBlondes/Forms.css">
+<script language="Javascript">
+function gotoLiveBrowse(cSelectParentID){
+	var oSelectParent = document.getElementById(cSelectParentID);
+	var arrSelects = oSelectParent.getElementsByTagName('SELECT');
+	var cURL = "/membrg2/LiveHosts.dll?t=site/navigation/livehosts/livebrowse/main&pCache=Yes"
+	if(arrSelects[0].value != "-1"){
+		cURL += "&pf_VCHliveRoomNumber="+arrSelects[0].value
+	}
+	if(arrSelects[1].value != "-1" && arrSelects[2].value != "-1"){
+		if(arrSelects[1].value != 'pf_VCHLiveLang'){
+			if (arrSelects[1].value=='pf_VCHpdAge' && arrSelects[2].value=='CollegeGirls') {
+				cURL += "&pf_VCHCollegeGirl=Y";
+			} else {
+				cURL += "&" + arrSelects[1].value + "="+arrSelects[2].value;
+			}
+		}else{
+			cURL += "&" + arrSelects[1].value + "_" + arrSelects[2].value + "=Y&pLangCodeFilter="+arrSelects[2].value;
+		}
+	}
+	cURL += "&pf_VCHlive=Y&pf_VCHContentFlagsBitMap1=1073741824";
+	window.location = cURL;
+}
+
+function showSelectByRegion() {
+	var selectedRoomNum = document.getElementById('f_sel_RoomNumber').value;
+	document.getElementById('f_sel_pdFeatureName').selectedIndex = 0;
+	if (selectedRoomNum == -1) {
+		ModalWindow.open('/ifpage.dll?t=site/includes/select_host_by_region_modal&pAppMode=QuickBrowse&pClub=');
+	} else {
+		ModalWindow.open('/ifpage.dll?t=site/includes/select_host_by_region_modal&pAppMode=QuickBrowse&pClub=&pRoomNum='+selectedRoomNum);
+	}
+}
+
+function populateDynamicLiveBrowseFeatureValues(oSelect , cSelectParentID){
+	var cCurrentFeature = oSelect.value;
+	var oSelectParent = document.getElementById(cSelectParentID);
+	var arrSelects = oSelectParent.getElementsByTagName('SELECT');
+	var oFeatureValuesSelect = arrSelects[2];
+
+	if(oSelect.value != '-1'){
+		if(oSelect.value == 'pf_VCHRegion') {
+			showSelectByRegion();
+		} else {
+			arrSelects[2].style.width = (oSelect.value == 'pf_VCHLiveLang' ? '130px' : 'auto');
+			var oFeatureDivParent = document.getElementById('div_' + cCurrentFeature);
+			var arrFeatureValues = oFeatureDivParent.getElementsByTagName('DIV');
+			oFeatureValuesSelect.options.length = 0;
+			for(var i=0;i<arrFeatureValues.length;i++){
+				var regExpFeatureName = new RegExp(cCurrentFeature + '_' , "gi");
+				oFeatureValuesSelect.options[i] = new Option( arrFeatureValues[i].innerHTML , arrFeatureValues[i].id.replace(regExpFeatureName , ''));
+			}
+			oFeatureValuesSelect.style.display = '';
+		}
+	}else{
+		oFeatureValuesSelect.style.display = 'none';
+	}
+}
+</script>
+<div style="display:none;">
+	<div id="div_pf_VCHpdAge">
+		<div id="pf_VCHpdAge_-1">Any Age</div>
+		<div id="pf_VCHpdAge_18-19">18-19</div>
+		<div id="pf_VCHpdAge_20-25">20-25</div>
+		<div id="pf_VCHpdAge_26-30">26-30</div>
+		<div id="pf_VCHpdAge_31-40">31-40</div>
+		<div id="pf_VCHpdAge_41-50">41-50</div>
+		<div id="pf_VCHpdAge_Over50">Mature</div>
+	</div>
+	<div id="div_pf_VCHpdBuild">
+		<div id="pf_VCHpdBuild_-1">Any Build</div>
+		<div id="pf_VCHpdBuild_Petite">Petite</div>
+		<div id="pf_VCHpdBuild_Slender">Slender</div>
+		<div id="pf_VCHpdBuild_Muscular">Muscular</div>
+		<div id="pf_VCHpdBuild_Curvy">Curvy</div>
+		<div id="pf_VCHpdBuild_Healthy">Healthy</div>
+		<div id="pf_VCHpdBuild_BBW">BBW</div>
+	</div>
+	<div id="div_pf_VCHpdBust">
+		<div id="pf_VCHpdBust_-1">Any Bust</div>
+		<div id="pf_VCHpdBust_Small">Small</div>
+		<div id="pf_VCHpdBust_Medium">Medium</div>
+		<div id="pf_VCHpdBust_Large">Large</div>
+	</div>
+	<div id="div_pf_VCHpdEthnicity">
+		<div id="pf_VCHpdEthnicity_-1">Any Ethnicity</div>
+		<div id="pf_VCHpdEthnicity_White">White</div>
+		<div id="pf_VCHpdEthnicity_Black">Ebony</div>
+		<div id="pf_VCHpdEthnicity_Asian">Asian</div>
+		<div id="pf_VCHpdEthnicity_Hispanic">Latin</div>
+		<div id="pf_VCHpdEthnicity_Jewish">Jewish</div>
+		<div id="pf_VCHpdEthnicity_Arabic">Arabic</div>
+		<div id="pf_VCHpdEthnicity_americanindian">Native American</div>
+		<div id="pf_VCHpdEthnicity_hinduindian">East Indian</div>
+		<div id="pf_VCHpdEthnicity_multiracial">Multiracial</div>
+	</div>
+	<div id="div_pf_VCHpdEyeColor">
+		<div id="pf_VCHpdEyeColor_-1">Any Eye Color</div>
+		<div id="pf_VCHpdEyeColor_Black">Black</div>
+		<div id="pf_VCHpdEyeColor_Blue">Blue</div>
+		<div id="pf_VCHpdEyeColor_Brown">Brown</div>
+		<div id="pf_VCHpdEyeColor_Green">Green</div>
+		<div id="pf_VCHpdEyeColor_Hazel">Hazel</div>
+		<div id="pf_VCHpdEyeColor_Violet">Violet</div>
+	</div>
+	<div id="div_pf_VCHpdHairColor">
+		<div id="pf_VCHpdHairColor_-1">Any Hair Color</div>
+		<div id="pf_VCHpdHairColor_Blonde">Blonde</div>
+		<div id="pf_VCHpdHairColor_Brunette">Brunette</div>
+		<div id="pf_VCHpdHairColor_Auburn">Auburn</div>
+		<div id="pf_VCHpdHairColor_Red">Red</div>
+		<div id="pf_VCHpdHairColor_Other">Other</div>
+	</div>
+	<div id="div_pf_VCHpdHeight">
+		<div id="pf_VCHpdHeight_-1">Any Height</div>
+		<div id="pf_VCHpdHeight_Tall">Tall</div>
+		<div id="pf_VCHpdHeight_VeryTall">Very Tall</div>
+		<div id="pf_VCHpdHeight_Average">Average</div>
+		<div id="pf_VCHpdHeight_Short">Short</div>
+		<div id="pf_VCHpdHeight_VeryShort">Very Short</div>
+	</div>
+	<div id="div_pf_VCHpdSpecialOptions">
+		<div id="pf_VCHpdSpecialOptions_-1">Any Special Options</div>
+		<div id="pf_VCHpdSpecialOptions_Pierced">Pierced</div>
+		<div id="pf_VCHpdSpecialOptions_Tattoos">Tattoos</div>
+		<div id="pf_VCHpdSpecialOptions_Shaved">Shaved</div>
+		<div id="pf_VCHpdSpecialOptions_Hairy">Hairy</div>
+	</div>
+	<div id="div_pf_VCHConnType">
+		<div id="pf_VCHConnType_-1">Any Type</div>
+		<div id="pf_VCHConnType_Forever">Forever</div>
+		<div id="pf_VCHConnType_Casual">Casual / Tonight</div>
+		<div id="pf_VCHConnType_RightNow">Right Now</div>
+	</div>
+	<div id="div_pf_VCHLiveLang">
+		<div id="pf_VCHLiveLang_-1">Any Language</div>
+		<!--Note: The language IDs that support filtering are 1-30 unless the stored procedure gets altered MP 9/28/07-->
+			<div id="pf_VCHLiveLang_1">English</div>
+			<div id="pf_VCHLiveLang_16">Español</div>
+			<div id="pf_VCHLiveLang_15">简体中文 Chinese (simplified)</div>
+			<div id="pf_VCHLiveLang_8">繁體中文 (Chinese)</div>
+			<div id="pf_VCHLiveLang_11">Dansk</div>
+			<div id="pf_VCHLiveLang_3">Deutsch</div>
+			<div id="pf_VCHLiveLang_2">Français</div>
+			<div id="pf_VCHLiveLang_13">Italiano</div>
+			<div id="pf_VCHLiveLang_4">日本語  (Japanese)</div>
+			<div id="pf_VCHLiveLang_7">한국어 (Korean)</div>
+			<div id="pf_VCHLiveLang_6">Nederlands</div>
+			<div id="pf_VCHLiveLang_14">Norsk</div>
+			<div id="pf_VCHLiveLang_9">Português</div>
+			<div id="pf_VCHLiveLang_25">Română</div>
+			<div id="pf_VCHLiveLang_12">Русский (Russian)</div>
+			<div id="pf_VCHLiveLang_10">Suomi</div>
+			<div id="pf_VCHLiveLang_5">Svenska</div>
+	</div>
+	<div id="div_pf_VCHpdSexPreference">
+		<div id="pf_VCHpdSexPreference_-1">Any Sexual Preference</div>
+		<div id="pf_VCHpdSexPreference_Straight">Straight</div>
+		<div id="pf_VCHpdSexPreference_Gay">Gay</div>
+		<div id="pf_VCHpdSexPreference_Lesbian">Lesbian</div>
+		<div id="pf_VCHpdSexPreference_Bi">Bi</div>
+	</div>
+</div>
+<div class="gs-arial9 FontResizeModuleIgnore" style="font-weight: normal; float:right;" id="spnLiveBrowseSelectParent">
+		LiveBrowse:
+	<select id="f_sel_RoomNumber" class="gs-arial9 FontResizeModuleIgnore" style="vertical-align:middle;width:120px; color:black;">
+		<option value="-1">Select Room</option>
+		<option value="5">Women Home Alone</option>
+		<option value="7">Girl-Girl (Lesbians)</option>
+		<option value="9">Guy-Girl (Couples)</option>
+		<option value="10">Threesomes/Groups</option>
+		<option value="13">Interracial</option>
+		<option value="16">Variations (Fetish)</option>
+		<option value="12">Surrender to Fantasy (B&amp;D)</option>
+		<option value="11">Gender-Benders (TS/TV/CD)</option>
+		<option value="8">Guy-Guy (Gay)</option>
+		<option value="6">Guys Home Alone (Gay)</option>
+		<option value="18">Guys Home Alone (Straight)</option>
+	</select>
+	<select id="f_sel_pdFeatureName" class="gs-arial9 FontResizeModuleIgnore" style="vertical-align:middle;color:black;" onchange="populateDynamicLiveBrowseFeatureValues(this,'spnLiveBrowseSelectParent'); return false;">
+		<option value="-1">All Features</option>
+		<option value="pf_VCHpdAge">Age</option>
+		<option value="pf_VCHpdBuild">Build</option>
+		<option value="pf_VCHpdBust">Bust</option>
+		<option value="pf_VCHpdEthnicity">Ethnicity</option>
+		<option value="pf_VCHpdEyeColor">Eye Color</option>
+		<option value="pf_VCHpdHairColor">Hair Color</option>
+		<option value="pf_VCHpdHeight">Height</option>
+		<option value="pf_VCHpdSexPreference">Sexual Preference</option>
+		<option value="pf_VCHpdSpecialOptions">Special Options</option>
+		<option value="pf_VCHConnType">Connection Type</option>
+		<option value="pf_VCHLiveLang">Language Spoken</option>
+		<option value="pf_VCHRegion">Region [ClubElite Only]</option>
+	</select>
+	<select id="f_sel_pdFeatureValue" class="gs-arial9 FontResizeModuleIgnore" style="vertical-align:middle;color:black; display:none;">
+		<option value="-1">Any Age</option>
+		<option value="18-19">18-19</option>
+		<option value="20-25">20-25</option>
+		<option value="26-30">26-30</option>
+		<option value="31-40">31-40</option>
+		<option value="41-50">41-50</option>
+		<option value="Over50">Over 50</option>
+	</select>
+	<input type="submit" value="Go" id="btnLiveBrowseQuickSelect" class="frm-submitButton FontResizeModuleIgnore" onclick="gotoLiveBrowse('spnLiveBrowseSelectParent');" style="font-size: 9px; margin-bottom: 0px">
+</div>
+
 					</div>
 				</div>
+				<div class="scrollPaneParent" style="height:165px;  padding-right: 10px; padding-top: 10px; padding-bottom: 15px;">
+					<div id="divPromoModuleFooter" class="gs-moduleRightScrollBar scroll-pane" style="height:165px;width:100%;clear:both;text-align:left;">
+					<div style="text-align:center;padding:10px;" class="gs-arial10 FontResizeModuleIgnore" align="center">
+						loading...
+					</div>
+				</div>
+				</div>
+				<script language="Javascript">
+					function populatePromoFooter(cVCHContentFlagsBitMap1){
+						var cURL = '/membrg2/LiveHosts_ProfileGridBottom.dll?t=site/includes/promo/data/VCHData_JSON.htm&pLoopPageSize_allPappLiveHosts=50&pShowSimpleHTTPErrorMessage=true&pf_uniqueName=Y&pSource=ModuleFooterPromo&pf_IsAdultOnly=Y&piReqFeedSkinType=_BWLNG';
+						var cVCHContentFlagsBitMap1 = (typeof(cVCHContentFlagsBitMap1) != 'undefined' ? cVCHContentFlagsBitMap1 : '0');
+						Ajax.Execute(cURL + '&pf_VCHContentFlagsBitMap1=' + cVCHContentFlagsBitMap1, (function(cResponse){
+																												var arrHosts = eval("(" + cResponse+ ")").hosts;
+																												var arrElements = [];
+																												var arrHTML = [];
+																												arrHTML.push('<div style="padding-left:20px;">');
+																												for(var i=0;i<arrHosts.length;i++){
+																													arrHTML.push('	<a href="'+arrHosts[i].ThumbnailURL+'"><img style="border: 1px solid gray;" s'+''+'r'+''+'c="'+arrHosts[i].VCHProfileImage+'" WIDTH="80" HEIGHT="60" border="0" onmouseover="VCHSummaryBox(event, \'' + arrHosts[i].VCHScreennameSimple + '\' , \'ModuleFooterPromo\');"  onerror="swapUnavailableProfileImage(this, {width:80 , height:60 , gender:\''+arrHosts[i].VCHpdSex+'\'});"></a>');
+																													if(i == arrHosts.length-1){
+																														arrHTML.push('</div>');
+																													}
+																												}
+																												var oDiv = document.createElement('DIV');
+																												oDiv.innerHTML =  arrHTML.join('');
+																												var oTargetDiv = document.getElementById('divPromoModuleFooter');
+																												oTargetDiv.innerHTML = '';
+																												oTargetDiv.appendChild(oDiv);
+																												}));
+					}
+					populatePromoFooter('1073741824')
+				</script>
+			</div>
 				</div>
 			</div>
 		</div>
@@ -912,157 +1732,6 @@ a.icon-AddThisIcon.color img {
 	</div>
 </div>
 <div id="SiteFooterParent">
-<script language="JavaScript" src="http://images.ifriends.net/if_v2/JS/jQuery/jcarousellite_1.0.1.min.js" type="text/javascript"></script>
-<script language="javascript">
-	jQuery.easing.easeOutQuart = function (x, t, b, c, d) {
-		return -c * ((t=t/d-1)*t*t*t - 1) + b;
-	};
-	
-	function initExclusiveFeaturesModule() {
-		$("#ExclusiveFeatures_ItemContainer").jCarouselLite({
-			btnNext: "#ExclusiveFeatures_NextFeature",
-			btnPrev: "#ExclusiveFeatures_PreviousFeature",
-			easing: 'easeOutQuart',
-			speed: 1100,
-			scroll: 3
-		});
-	}
-	
-	$(function() {
-		if (jQuery().jCarouselLite) {
-			initExclusiveFeaturesModule();
-    	} else {
-			$.getScript('http://images.ifriends.net/if_v2/JS/jQuery/jcarousellite_1.0.1.min.js', function() {
-				initExclusiveFeaturesModule();
-			});
-		}
-		$("#ExclusiveFeatures_ItemContainer").css('width', '856px');		
-	});
-</script>
-<style type="text/css">
-
-.ExclusiveFeatures_Items a { border:0; text-decoration:none; color:#000000; }
-
-</style>
-<div class="gs-border" id="ExclusiveFeatures_MainParent">
-	<div class="gs-subHeader gs-arial13">
-		<div style="padding-top:.6em;margin-left:20px;">
-			<div id="ExclusiveFeatures_Label" style="width:400px;float:left;"><b>Exclusive iFriends Features</b></div>
-			<div id="ExclusiveFeatures_Join" style="width:450px;float:right;text-align:right;margin-right:20px;"><img src="http://images.ifriends.net/if_v2/tp.gif" border="0" width="4" height="7" class="gs-NavBarBullet"><a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/signup&amp;pSource=ExclusiveFeatures&amp;pSiteCode=iFriendsV2"><b>Free Registration!</b></a></div>
-		</div>
-	</div>
-	<div id="ExclusiveFeatures_MainContainer" class="gs-arial11">
-		<div id="ExclusiveFeatures_leftArrowCont" class="ExclusiveFeatures_arrowContainer">
-			<a id="ExclusiveFeatures_PreviousFeature" href="#" class="icon icon-left-arrow"><img src="http://images.ifriends.net/if_v2/tp.gif" border="0"></a>
-		</div>
-		<div id="ExclusiveFeatures_ItemContainer">
-			<ul>
-				<li>
-					<div class="ExclusiveFeatures_Items">
-                        <a class="icon icon-livebrowse" href="http://www.ifriends.net/membrg2/LiveHosts_home_custom.dll?pf_VCHContentFlagsBitMap1=0" title="Browse Thousands of Live Video Chathosts">
-                            <div class="ExclusiveFeatures_FeatureHeader">Live Browse</div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                                Check out our sexy stars from around the world, ready to spend time with you "LIVE", indulging your every fantasy. Whatever your pleasure, someone’s ready and waiting to make your dreams an unforgettable reality.
-                            </div>
-                        </a>
-					</div>
-				</li>
-				<li>
-					<div class="ExclusiveFeatures_Items">
-                    	<a class="icon icon-hq" href="http://www.ifriends.net/userURL_membrg2/livehosts/high-quality/webcams/live-now/cam-girls/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0" title="High Quality Cams">
-                            <div class="ExclusiveFeatures_FeatureHeader">Enhanced Video Feeds </div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                               Take your live video chat experience to the next level! High Quality (HQ) feeds bring the action to you bigger and faster and High Definition (HD) streaming video surrounds you with crystal clear true-HD video with CD-quality stereo sound.
-                            </div>
-                        </a>
-					</div>
-				</li>
-				<li>
-					<div class="ExclusiveFeatures_Items">
-                    	<a class="icon icon-college-girls" href="http://www.ifriends.net/userURL_membrg2/livehosts/live-now/college-students/?pCache=Yes&amp;pf_VCHContentFlagsBitMap1=0" title="College Girls Cams">
-                            <div class="ExclusiveFeatures_FeatureHeader">College Girls</div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                                Whether engaging in a sexy striptease or getting fun and flirty while flashing their webcams, these coed cuties are eager to please. You’re sure to find a female form you won’t want to stop studying!
-                            </div>
-                        </a>
-					</div>
-				</li>
-				<li>
-					<div class="ExclusiveFeatures_Items">
-                    	<a class="icon icon-cam-spy" href="http://www.ifriends.net/ifpage.dll?t=site/navigation/liveHosts/VVunfiltered/Interstitial" title="Live Cam Spy">
-                            <div class="ExclusiveFeatures_FeatureHeader">Live Cam Spy</div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                                Indulge your inner voyeur and see what’s going on behind closed doors with a peek at up to six live shows at a time! If you see what you like, you can enter the star’s private chat room, where you can share an intimate one-on-one encounter!
-                            </div>
-                        </a>
-					</div>
-				</li>
-				<li>
-					<div class="ExclusiveFeatures_Items">
-                    	<a class="icon icon-archives" href="http://www.ifriends.net/membrg/aExplorer_v2_custom.dll?pStyle=Pics" title="Access the entire Picture Archive history of every  iFriends Chathost">
-                            <div class="ExclusiveFeatures_FeatureHeader">Archives</div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                                Explore our huge library of super-hot photos and naughty videos from some of the hottest amateur Video Stars in the world.
-                            </div>
-                        </a>
-					</div>
-				</li>
-				<li>
-					<div class="ExclusiveFeatures_Items">
-                    	<a class="icon icon-live-fanclubs" href="http://www.ifriends.net/membrg/fcHome_V2_custom.dll" title="Showcasing Fanclubs that offer the most, and whose Stars are Live Right Now">
-                            <div class="ExclusiveFeatures_FeatureHeader">FanClubs</div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                                Can’t get enough of your favorite star?  Our FanClubs are stuffed full with sizzling hot photos and video clips, steamy diary entries, sexy biographies, fun contests and much, much more!
-                            </div>
-                        </a>
-					</div>
-				</li>
-                <li>
-					<div class="ExclusiveFeatures_Items">
-                    	<a class="icon icon-cams-roulette" href="http://www.ifriends.net/userURL_/chatroulette/" title="Cams Roulette">
-                            <div class="ExclusiveFeatures_FeatureHeader">Cams Roulette</div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                                Access the hottest Hosts live and waiting for you. Stay and play in an intimate one-on-one session with your perfect match or spin the wheel and move on to the next sexy star. It’s no gamble… take a chance and enjoy the payoff!
-                            </div>
-                        </a>
-					</div>
-				</li>
-                <li>
-					<div class="ExclusiveFeatures_Items">
-                    	<a class="icon icon-award-winners" href="http://www.ifriends.net/membrg/TWRP.dll?pappcode=TWRP_VCHViewerAwards" title="Awards given to Video Chat Hosts by iFriends Viewers">
-                            <div class="ExclusiveFeatures_FeatureHeader">Award Winners</div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                                Meet the talented and terrific stars who always deliver a five-star experience – offer – as voted on by you! From the most bodacious boobs and butts to the most pleasing personalities and passionate players – you wanted the best, we’ve got the best!
-                            </div>
-                      </a>
-				  </div>
-				</li>
-                <li>
-					<div class="ExclusiveFeatures_Items">
-                    	<a class="icon icon-wall" href="http://www.ifriends.net/membrg/twrp.dll?t=Site/CustomersOnly/MyIF2/IFWall&amp;pAppCode=TWRP_WallManager&amp;pMode=GetPosts&amp;pDisplayStyle=ShowAll" title="See what that Stars of iFriends are discussing right now.">
-                            <div class="ExclusiveFeatures_FeatureHeader">iFriends Wall</div>
-                            <div>
-                                <img src="http://images.ifriends.net/if_v2/tp.gif" border="0">
-                                Stay connected and interact with your favorite stars 24/7! Get their latest "breaking news", share a joke or comment on a favorite photo and find out when they’ll be available to spend some private time with you!
-                            </div>
-                        </a>
-					</div>
-				</li>
-			</ul>
-		</div>
-		<div id="ExclusiveFeatures_rightArrowCont" class="ExclusiveFeatures_arrowContainer">
-			<a id="ExclusiveFeatures_NextFeature" href="#" class="icon icon-right-arrow"><img src="http://images.ifriends.net/if_v2/tp.gif" border="0"></a>
-		</div>
-	</div>
-</div>
     <!--VCHlivePopupLogic.htm : -->
 	<!--
 	-->
@@ -1075,43 +1744,15 @@ a.icon-AddThisIcon.color img {
 
 <script language="javascript">
 	resizePromoElements();
-</script><div id="siteFooterNewLayout" class="gs-arial12 ">
-	<ul>
-		<li class="first"><a href="#footer-tab-additional">Additional iFriends Info</a></li>
-		<li><a href="#footer-tab-lh">Love and Health</a></li>
-		<li><a href="#footer-tab-legal">Legal Info</a></li>
-        <li><a href="#footer-tab-clickcash"><img src="http://images.ifriends.net/if_v2/ifriends/ClickCashFooterIcon.png" width="28" height="20" align="absmiddle" border="0" style="margin-right:3px;">Make Money with ClickCash</a></li>
-	</ul>
-	<div id="footer-backToTop"><a href="javascript:void(0);" onclick="$('html, body').animate({scrollTop:0}, 'fast');">Back to Top</a></div>
-	<div id="footer-tab-additional" style="padding-top:12px;padding-bottom:10px;">
-<div style="text-align:center;float:left;width:718px;padding-top:4px;">
-
-<p class="gs-textNavLinksFooter" style="font-size:11px;">
-	<a href="http://www.ifriends.net/ifpage.dll?t=site/general/about" title="About iFriends">About</a> |
-	<a href="http://www.ifriends.net/ifpage.dll?t=site/General/CustomerService/Contacts" title="How to Reach Us">Contact Us</a> |
-	<!--<a href="http://www.ifriends.net/ifpage.dll?t=site/General/MediaContact">Media Contact</a> | -->
-	<a href="http://www.ifriends.net/ifpage.dll?t=site/General/CustomerService/MemServ" title="Member Services for iFriends viewers and chathosts">Customer Service</a> |
-		<a href="http://www.ifriends.net/ifpage.dll?t=site/general/customerservice/cancel/cancel" title="Cancel your iFriends account ">Cancel</a> |
-	<a href="http://www.ifriends.net/ifpage.dll?t=site/General/CustomerService/Sheriff/SheriffMain" title="Report abuse to the iFriends Sheriff's Office">Report Abuse</a> |
-	<a href="http://www.ifriends.net/ifpage.dll?t=site/General/SiteMap" title="Available pages and active links on iFriends">Site Map</a> |
-	<a href="http://www.ifriends.net/ifpage.dll?t=site/general/FAQ/FAQ" title="Answers to Your Most Popular Questions">FAQs</a> |
-	<a href="http://www.ifriends.net/ifpage.dll?t=site/tools/Diamond/main" title="Online help available 24/7 ">Help</a> |
-
-	<a id="anchEmploymentOpportunities" href="http://www.ifriends.net/ifpage.dll?t=site/General/Employment" title="Employment opportunities available at iFriends">Employment Opportunities</a>
-</p>
-
-	<p class="gs-textNavLinksFooter" style="font-size:11px;">
-		<a href="http://www.ifriends.net/ifpage.dll?t=ALT/182257/General/Cert-Compliance" target="_blank" title="Visit the 18-2257 home page">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a>
-	</p>
-</div>
-
-		<div class="gs-textNavLinksFooter" style="border-left: 1px solid #D8D8D8; float:left; text-align:center; width:179px; font-size:11px;">
-				Connect to Earn Extra Benefits<br>
-				<div style="padding-top:4px;"><a href="http://www.facebook.com/iFriends.net" target="_blank"><img src="http://images.ifriends.net/if_v2/facebook_button.png" width="58" height="20" border="0" title="Like us on Facebook!" alt="Like us on Facebook!"></a>  <a href="http://twitter.com/ifriends" target="_blank"><img src="http://images.ifriends.net/if_v2/twitter_button.png" width="70" height="20" border="0" title="Follow us on Twitter!" alt="Follow us on Twitter!"></a></div>
-		</div>
-		<div style="clear:both;"> </div>
-	</div>
-	<div id="footer-tab-lh">
+</script><span style="display:none;"></span><table cellpadding="0" border="0" cellspacing="0" align="center" width="900" id="tblHSABSiteFooter" style="margin-top: 20px">
+	<tbody><tr>
+		<td class="gs-HSABTL"></td>
+		<td class="gs-HSABTM"></td>
+		<td class="gs-HSABTR"></td>
+	</tr>
+	<tr>
+		<td class="gs-HSABML"></td>
+		<td class="gs-HSABM">
 <table border="0" cellpadding="5" cellspacing="0" class="gs-textHSABFooter">
 	<tbody><tr valign="top">
 		<td valign="top"><a href="http://loveandhealth.ifriends.net/Experts_Detail.cfm?pSuppressLegacyV1LeftRail=true&amp;Expert=27"><img src="http://images.ifriends.net/if_v2/asg/LH/JuneReinisch.gif" border="0" width="60" style="margin: 2px"></a></td>
@@ -1123,14 +1764,14 @@ a.icon-AddThisIcon.color img {
 			<span class="gs-textHSABFooterBold">
 				<b>Sexual Myth Busters</b>
 			</span>
-			with Dr. June Reinisch <span class="gs-HSABFooter"><i>(special to iFriends)</i></span>
+			with Dr. June Reinisch <span class="gs-HSABFooter"><i>(special to College Blondes)</i></span>
 
 			<br>
 			<div class="gs-textHSABFooterBold" style="margin-top: 4px">
 			<img src="http://images.ifriends.net/if_v2/asg/LH/icon_video.gif" width="18" height="12" alt="" border="0" align="absmiddle" style="margin-top: 1px">
 				<div id="myth1" style="display:inline;">
 				
-						<a href="http://loveandhealth.ifriends.net/Article.cfm?pSuppressLegacyV1LeftRail=true&amp;Topic=2&amp;SubTopic=18&amp;Article=124">Married People Have Less Sex</a> (7)
+						<a href="http://loveandhealth.ifriends.net/Article.cfm?pSuppressLegacyV1LeftRail=true&amp;Topic=2&amp;SubTopic=18&amp;Article=193">Heterosexual Couples Don't Enjoy Anal Sex</a> (11)
 				</div>
 			</div>
 
@@ -1141,44 +1782,135 @@ a.icon-AddThisIcon.color img {
 			</span>
 		</td>
 	</tr>
-</tbody></table>	</div>
-	<div id="footer-tab-legal" style="overflow:hidden;">
-		<div style="float: left; width: 600px">
-			<!--IMPORTANT: The removal of the following SiteFooter_Legal.htm Include may result in the suspension of your account. Do not remove.-->
-	<p class="gs-textNavLinksFooter" style="text-align: center; margin-bottom: 10px">
-		<a href="http://www.ifriends.net/ifpage.dll?t=site/General/Legal/Privacy" title="Privacy statement for the iFriends network">Privacy Policy</a> |
-		<a href="http://www.ifriends.net/ifpage.dll?t=site/General/Copyright" title="iFriends Legal Information">Legal Notices</a> |
-		<a href="http://www.ifriends.net/ifpage.dll?t=ALT/182257/General/Cert-Compliance" target="_blank" title="Visit the 18-2257 home page">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a>
+</tbody></table>		</td>
+		<td class="gs-HSABMR"></td>
+	</tr>
+	<tr>
+		<td class="gs-HSABBL"></td>
+		<td class="gs-HSABBM"></td>
+		<td class="gs-HSABBR"></td>
+	</tr>
+	
+</tbody></table>
+<!-- Begin Footer_Navlinks.htm --->
+<br>
+<span style="display:none;"></span><table cellpadding="0" border="0" cellspacing="0" align="center" width="900" id="tblSiteFooter">
+	<tbody><tr>
+		<td class="gs-footerTL"></td>
+		<td class="gs-footerTM"></td>
+		<td class="gs-footerTR"></td>
+	</tr>
+	<tr>
+		<td class="gs-footerML"></td>
+		<td class="gs-footerM">
+			<table width="814" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="center" nowrap="">
+<div>
+
+<p class="gs-textNavLinksFooter">
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/about" title="About College Blondes">About</a> |
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/CustomerService/Contacts" title="How to Reach Us">Contact Us</a> |
+	<!--<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/MediaContact">Media Contact</a> | -->
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/CustomerService/MemServ" title="Member Services for College Blondes viewers and chathosts">Customer Service</a> |
+		<a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/customerservice/cancel/cancel" title="Cancel your College Blondes account ">Cancel</a> |
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/CustomerService/Sheriff/SheriffMain" title="Report abuse to the College Blondes Sheriff's Office">Report Abuse</a> |
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/SiteMap" title="Available pages and active links on College Blondes">Site Map</a> |
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/general/FAQ/FAQ" title="Answers to Your Most Popular Questions">FAQs</a> |
+	<a href="http://www.collegeblondes.net/ifpage.dll?t=site/tools/Diamond/main" title="Online help available 24/7 ">Help</a> |
+
+		<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/Legal/Privacy" title="Privacy statement for the College Blondes network">Privacy Policy</a> |
+	<a id="anchEmploymentOpportunities" href="http://www.collegeblondes.net/ifpage.dll?t=site/General/Employment" title="Employment opportunities available at College Blondes">Employment Opportunities</a>
+		 |
+		<img src="http://images.ifriends.net/if_v2/customize_gear_icon.gif" width="12" height="13">
+		<a id="anchPrivateLabelBrandingTour" title="Create you own Custom Skin of College Blondes, using the WWEE Platform (WebPower Webconferencing Enterprise Engine)" href="http://ifriendsv2wwee.com/ifpage.dll?t=site/tools/ThirdPartyCustomization/main&amp;psitecode=CollegeBlondes">Private-Label Branding</a> |
+		<a href="http://www.clickcash.com" title="Visit the Clickcash home page">Webmasters</a>
+</p>
+
+	<p class="gs-textNavLinksFooter">
+		<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/Copyright" title="College Blondes Legal Information">Legal Notices</a> |
+		<a href="http://www.collegeblondes.net/ifpage.dll?t=ALT/182257/General/Cert-Compliance" target="_blank" title="Visit the 18-2257 home page">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a>
 	</p>
-	All users participating in our interactive community are responsible for their own communications. Uploaders are solely responsible for the content they post and any conduct they depict while using this Service.  Subscribers are responsible for ensuring that their use of this service will not, in any way, be exposed to or accessible by minors or non-consenting adults. To learn more about our community, see our <a href="http://www.ifriends.net/ifpage.dll?t=Site/General/Legal/rules">Code of Conduct</a>.
-		</div>
-		<div style="float: right; width: 250px">
-				<a href="http://www.ifriends.com/ifpage.dll?t=site/General/Legal/Privacy" title="Privacy statement for iFriends"><img src="http://images.ifriends.net/if_v2/lang1/finalmark.gif" height="31" width="116" align="left" border="0" onerror="swapMissingLanguageSpecificImage(this);" style="margin: 0px; margin-right: 5px"></a>
-<img src="http://images.ifriends.net/if_v2/lang1/ParentalControls.gif" height="31" width="88" align="left" onerror="swapMissingLanguageSpecificImage(this);" style="margin: 0px; margin-right: 5px">		</div>
-	</div>
-    <div id="footer-tab-clickcash">
-    <div id="anchMoneyOpportunityTour" style="margin-bottom: 30px; margin: auto; padding:21px 0 11px 41px; position:relative;">
-<div style="position:absolute;z-index:1;left:-6px; bottom:15px;"><img src="http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_Pic_Collage_PNG32.png" width="161" height="155"></div>
+	<p class="gs-textNavLinksFooter">
+	Entire Contents <a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/Copyright#copyrights" title="College Blondes Copyrights Information">Copyright</a> © 1998 – <span id="displayYear" class="gs-NavLinksFooter"></span> &nbsp; All Rights Reserved.
+<script language="javascript">
+	getDisplayDate ("displayYear", "year");
+</script>	</p>
+</div>
+
+				  </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="gs-footerMR"></td>
+	</tr>
+	<tr>
+		<td class="gs-footerBL"></td>
+		<td class="gs-footerBM"></td>
+		<td class="gs-footerBR"></td>
+	</tr>
+	
+</tbody></table>
+
+<table class="gs-arial11" align="center" style="margin-top:6px;">
+	<tbody><tr valign="MIDDLE">
+		<td><img src="http://images.iFriends.net/if_v2/phoneicon2.gif" width="25" height="25" style="margin-bottom:10px;"></td>
+		<td>
+			 	<b>1-800-437-4363</b> (Toll-Free 24/7 Customer Service; for international toll-free numbers, <a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/CustomerService/Contacts">click here</a>)
+        </td>
+	</tr>
+</tbody></table><!-- End Footer_Navlinks.htm -->
+
+			<!--IMPORTANT: The removal of the following SiteFooter_Legal.htm Include may result in the suspension of your account. Do not remove.-->
+<!-- Begin Footer_Legal --->
+<table cellpadding="0" border="0" cellspacing="0" align="center" width="900" id="tblSiteFooterLegal" class="gs-IFBodyTable">
+	<tbody><tr>
+		<td style="padding: 8px">
+			<div class="gs-arial11" style="text-align:center;">
+	All users participating in our interactive community are responsible for their own communications. Uploaders are solely responsible for the content they post and any conduct they depict while using this Service.  Subscribers are responsible for ensuring that their use of this service will not, in any way, be exposed to or accessible by minors or non-consenting adults. To learn more about our community, see our <a href="http://www.collegeblondes.net/ifpage.dll?t=Site/General/Legal/rules">Code of Conduct</a>.
+			</div>
+		</td>
+	</tr>
+</tbody></table>
+<!-- End Footer_Legal-->
+
+			<br>
+			<table cellpadding="3" align="center">
+				<tbody><tr valign="top">
+					<td width="400" align="left">
+		<p class="gs-SiteFooter" id="anchTrustETour">
+	<i><img src="http://images.ifriends.net/if_v2/lang1/PrivacyStandards.gif" height="31" width="116" align="left" onerror="swapMissingLanguageSpecificImage(this);" style="margin: 0px; margin-right: 10px">	<u>This service is certified for adhering to strong privacy practices</u>. Every major internet service must treat the confidential information of its users with the utmost respect and privacy. But operators of services that offer an adults-only component, and which therefore deal with intimate subject matter and human sexuality owe their users even more:  The absolute "Gold Standard" in confidentiality and discretion. To review this service's certified Privacy Policy,
+			<a href="http://www.collegeblondes.net/ifpage.dll?t=site/General/Legal/Privacy">click here</a>.
+	</i>
+
+</p>					</td>
+					<td width="400" align="left">
+<p class="gs-SiteFooter" id="anchICRATour">
+	<i><img src="http://images.ifriends.net/if_v2/lang1/ParentalControls.gif" height="31" width="88" align="left" onerror="swapMissingLanguageSpecificImage(this);" style="margin: 0px;"><u>This service is blocked by filtering services and parental-controls tools</u>.  This service is self-labeled as "adults only", and supports the parental-controls features built into major internet services such as Microsoft Internet
+	Explorer/MSN and America Online. This service is also blocked by all major independent filtering software services, such as NetNanny and CyberSitter, and works proactively with such services to ensure inaccessibility by minors.
+	</i>
+</p>					</td>
+				</tr>
+			</tbody></table>
+<div id="anchMoneyOpportunityTour" style="margin-bottom: 30px; margin-top: 20px">
 <a name="clickcashTable"></a>
-
 <!-- **************** BEGIN CLICKCASH FOOTER ******************* -->
-
-<span style="display:none;">
-    </span><table cellpadding="0" cellspacing="0" border="0" align="center">
-  <tbody><tr>
-    <td colspan="3"><p style="font-family: arial, sans-serif; font-size: 18px; font-weight: bold; color: #2F9B00; margin: 0px; margin-left: 120px"> The Leader in Adult Affiliate Programs! </p></td>
-  </tr>
-  <tr>
-    <td><img src="http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_TL.png" width="95" height="20" border="0"></td>
-    <td background="http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_TM.png"></td>
-    <td><img src="http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_TR.png" width="20" height="20" border="0"></td>
-  </tr>
-  <tr>
-    <td background="http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_ML.png"></td>
-    <td class="gs-arial9" bgcolor="#EBF5E1" width="692" style="padding-left: 25px; color: #000000">        <span class="gs-arial11" style="color: #000000"><b>Promote</b></span> the Commission-Tracking <span class="gs-arial11" style="color: #000000"><b>URL below</b></span> and earn up to <span class="gs-arial11" style="color: #000000"><b>$200</b></span> for every new
-      iFriends
-      member that results!
-      With
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="900">
+	<tbody><tr>
+		<td>
+			<table class="gs-CCtableBg" bgcolor="#AAFFAA" cellpadding="4" align="center">
+				<tbody><tr>
+					<td align="center" valign="middle">
+						<span style="display:none;"></span><table bgcolor="#DDFFDD" class="gs-CCblacksmall">
+							<tbody><tr>
+								<td>
+									<table cellpadding="0" cellspacing="0" border="0" class="gs-CCblacksmall">
+										<tbody><tr>
+											<td class="gs-CCtext" align="left">
+												<span class="gs-CCtextGreen"><b>
+												$$$ Opportunity</b>: </span>
+												Promote the Commission-Tracking URL below and earn up to $200 for every new College Blondes member that results!
+With
 	<a href="http://www.clickcash.com" target="_new">ClickCash</a>,
 you can earn up to $200 for every new customer that you
 refer to anywhere on this service, including the page you are viewing right now.
@@ -1187,74 +1919,91 @@ also pays you a $50 bonus just for signing up! (Both adult-oriented and
 non-adult promotional opportunities available).
 	This content is Clickcash-compliant.
 
-      <script language="JavaScript">
-	var args='t=site/General/Legal/Privacy';
-	var args=args.replace(/&/g,'<wbr>&');
+											</td>
+										</tr>
+									</tbody></table><br>
+<script language="JavaScript">
+<!--
+String.prototype.AddBreaks = function(nEveryxCharacters){
+	var cNewStr = '';
+	for(var i=0;i<this.length;i++){
+		cNewStr = cNewStr + ((i+1) % nEveryxCharacters != 0 ? this.charAt(i) : this.charAt(i) + '<br>');
+	}
+	return cNewStr;
+}
+var cRefURL = new String(document.location.href);
+cRefURL = cRefURL.replace('&_dummyduh=true','');
+cRefURL = cRefURL.replace('?_dummyduh=true&','?');
+cRefURL = cRefURL.replace('?_dummyduh=true','?');
+cRefURL = cRefURL.replace('#clickcashTable','');
+var cURLline = new String('<div style="width:700px;" class="longTextWrap" >' +cRefURL.AddBreaks(650)+ '</div>');
+var cCCCompleteURL= new String(cRefURL + "&pccAcct=[YOURCODE]");
+var cCCURLline = new String('<div style="width:700px;" class="longTextWrap" >' + cCCCompleteURL.AddBreaks(650) + '</div></div>');
+//-->
 </script>
-<table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top: 4px">
+<table cellpadding="0" cellspacing="3" border="0" class="gs-CCblacksmall">
 	<tbody><tr>
-		<td nowrap="" align="right" valign="top" style="padding-right: 8px">URL of this webpage:</td>
+		<td width="10" nowrap="">&nbsp;</td>
+		<td nowrap="" align="right" valign="top">URL of this webpage:</td>
+		<td width="10" nowrap="">&nbsp;</td>
 		<td align="left">
-		<div style="width: 520px; overflow:hidden;">
+		<div style="width: 650px; overflow:hidden;">
 		<i>
-			http://www.ifriends.net/ifpage.dll?<script language="JavaScript">document.write(args);</script>t=site/General/Legal/Privacy
+			<script language="JavaScript">
+			<!--
+			document.writeln(cURLline);
+			//-->
+			</script><div style="width:700px;" class="longTextWrap">https://web.archive.org/web/20120630223903id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/General/Legal/Privacy</div>
+
 		</i>
 		</div>
 		</td>
 	</tr>
 	<tr>
-		<td nowrap="" align="right" valign="top" style="padding-right: 8px">Commission-tracking URL (Earn $$$):</td>
+		<td width="10" nowrap="">&nbsp;</td>
+		<td nowrap="" align="right" valign="top">Commission-tracking URL (Earn $$$):</td>
+		<td width="10" nowrap="">&nbsp;</td>
 		<td align="left">
-			<div style="width: 520px; overflow:hidden;">
-			http://www.ifriends.net/ifpage.dll?<script language="JavaScript">document.write(args);</script>t=site/General/Legal/Privacy<wbr>&amp;pccAcct=[YOURCODE]
-			</div>
+			<div style="width: 650px; overflow:hidden;">
+			<script language="JavaScript">
+			<!--
+			document.writeln(cCCURLline);
+			//-->
+			</script><div style="width:700px;" class="longTextWrap">https://web.archive.org/web/20120630223903id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/General/Legal/Privacy&amp;pccAcct=[YOURCODE]</div></div>
+
+			
 		</td>
 	</tr>
 	<tr valign="top">
-		<td align="right" nowrap="" style="padding-right: 8px">
-			Earn up to $200 per Sign-up:
+		<td width="10" nowrap="">&nbsp;</td>
+		<td align="right" nowrap="">
+			Earn up to $200 per Sign-up
 		</td>
+		<td width="10" nowrap="">&nbsp;</td>
 		<td nowrap="" align="left">
 				Learn more at <a href="http://www.clickcash.com" target="_new">http://www.ClickCash.com</a>
 		</td>
 	</tr>
-</tbody></table>          </td>
-    <td background="http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_MR.png"></td>
-  </tr>
-  <tr>
-    <td valign="top" style="background-image:url(http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_BL.png);"></td>
-    <td background="http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_BM.png"></td>
-    <td><img src="http://images.ifriends.net/if_v2/SiteFooter_New/ClickCash_BR.png" width="20" height="21" border="0"></td>
-  </tr>
-  
+</tbody></table>								</td>
+								
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td background="http://images.ifriends.net/if_v2/CC/cc_shadow_r.gif" nowrap="" width="3" class="cc_shadow_r"></td>
+	</tr>
+	<tr>
+		<td background="http://images.ifriends.net/if_v2/CC/cc_shadow_mb.gif" nowrap="" height="5" class="cc_shadow_mb"></td>
+		<td background="http://images.ifriends.net/if_v2/CC/cc_shadow_rb.gif" nowrap="" width="3" height="5" class="cc_shadow_rb"></td>
+	</tr>
 </tbody></table>
 <!-- **************** END CLICKCASH FOOTER ******************* -->
 </div>
-    </div>
+<p id="showMacCode" style="font-family: verdana; font-size: 10px; color: #CCCCCC; margin-bottom: 20px; padding-left: 300px;">W7 (281)</p>
+<img src="/membrg/ATR.dll?pCode=PageLoad&amp;pAction=IFPage&amp;pExtraArgs=%26pLoadTime%3d281%26pRefTemplate%3dsite/General/Legal/Privacy.htm%26pTemplateVersion%3d1%26pRefPC%3dW7%26pGetTemplate%3d0%26pProcess%3d0%26pInit%3d0&amp;pSiteID=13&amp;pMbrLANGCODE=1&amp;pMBRSCREENNAMESimple=&amp;pMBRMSTRID=&amp;pMBRSOURCE=" width="1" height="1" border="0">
+	
 </div>
-<script type="text/javascript">
-$("#siteFooterNewLayout").tabs();
-</script>
-<div class="gs-textNavLinksFooter" style="text-align: center; margin: 0px; margin-bottom: 30px;clear:both;">
-	Entire Contents <a href="http://www.ifriends.net/ifpage.dll?t=site/General/Copyright#copyrights" title="iFriends Copyrights Information">Copyright</a> © 1998 – <span id="displayYear" class="gs-NavLinksFooter"></span> &nbsp; WebPower, Inc. All Rights Reserved.
-<script language="javascript">
-	getDisplayDate ("displayYear", "year");
-</script></div>
-<style type="text/css">
-	#SignUpSlideUp-iframe { position:fixed;z-index:21;bottom:0px;right:0px;width:100%;height:81px;display:none; }
-</style>
-<script language="javascript">
-	function SignUpSlideUpClose(){
-		jQuery('#SignUpSlideUp-iframe').hide();
-	}
-	function SignUpSlideUpDisplayFrame(){
-		jQuery('#SignUpSlideUp-iframe').show();
-	}
-</script>
-
-<iframe frameborder="0" allowtransparency="true" scrolling="no" id="SignUpSlideUp-iframe" src="/ifpage.dll?t=site/includes/SignUpSlideUp_content.htm&amp;reload=template"></iframe>
-
-<p id="showMacCode" style="font-family: verdana; font-size: 10px; color: #CCCCCC; margin-bottom: 20px; padding-left: 300px;">W3 (391)</p>
-<img src="/membrg/ATR.dll?pCode=PageLoad&amp;pAction=IFPage&amp;pExtraArgs=%26pLoadTime%3d391%26pRefTemplate%3dsite/General/Legal/Privacy.htm%26pTemplateVersion%3d2%26pRefPC%3dW3%26pGetTemplate%3d0%26pProcess%3d0%26pInit%3d16&amp;pSiteID=2&amp;pMbrLANGCODE=1&amp;pMBRSCREENNAMESimple=&amp;pMBRMSTRID=&amp;pMBRSOURCE=" width="1" height="1" border="0"></div>
 
 </body></html>
