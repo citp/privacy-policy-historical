@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the camdenliving.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204926id_/http%3A//www.camdenliving.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camdenliving.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225505id_/http%3A//www.camdenliving.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Camden | Privacy Policy Page
 
-**Please read this PRIVACY  POLICY carefully. By visiting and using this web site and any web sites, web pages, and services operated by Camden Property Trust or its affiliates (“Company”, “We”, or “Us”) that are linked (“Company Sites”), you are agreeing to this privacy policy.**
+**Please read this PRIVACY  POLICY carefully. By visiting and using this web site and any web sites, web pages, and services operated by Camden Property Trust or its affiliates (** **“ Company”, “We”, or “Us”) that are linked (“Company Sites”), you are agreeing to this privacy policy.**
 
 Your use of and access to the Company Sites is expressly conditioned on your acceptance of the following terms and conditions. If you do not or can not agree with any part of the following terms and conditions, you may not use or access the Company Sites. Please note that this privacy policy only applies to the information that we collect via the Company Sites.
 
@@ -39,3 +39,9 @@ Company Sites may contain links to web sites that are provided and maintained ex
 
 **Questions**   
 If you have questions about our privacy policy, you may contact our webmaster at [_info@camdenliving.com_](mailto:info@camdenliving.com). Please provide the webmaster with information about the specific Company Sites that you are inquiring about.
+
+******************************************************
+
+**OUR  DOORS ARE OPEN**
+
+At Camden, taking care of people has always been our highest priority. As an equal housing opportunity company, Camden provides housing opportunities to all persons, regardless of their race, color, national origin, religion, sex, physical or mental disability, familial status, or any other classification protected by federal, state, or local law. Camden endeavors to create and offer unique housing options that appeal to a wide range of home seekers. We provide multifamily homes for nearly 100,000 people, and all of our homes are available on an equal opportunity basis. Camden treats every resident in every community with respect, and provides Living Excellence for all. We hope that you will choose to call one of our beautiful Camden communities home.
