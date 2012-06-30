@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229024028id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630182943id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -156,7 +156,7 @@ Keeping Personal Information about you current helps ensure that we offer you th
 
 If you want to close your account or have other questions or requests, please contact us. While we are ready to assist you in managing your subscriptions, closing your account, and removing your active profile, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases on the Sites for financial reporting and compliance reasons.
 
-We will retain your information for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@groupon.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us here](http://www.groupon.com/support). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ### 9\. Security of Personal Information
 
@@ -172,7 +172,7 @@ This Privacy Statement only addresses the use and disclosure of information by G
 
 ### 12\. Communities
 
-Our Sites may contain Communities and other areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post will be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages from other parties. Please avoid publicly posting Personal Information. If you have questions about Personal Information posted in our Communities, please contact [support@groupon.com](mailto:support@groupon.com). 
+Our Sites may contain Communities and other areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post will be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages from other parties. Please avoid publicly posting Personal Information. If you have questions about Personal Information posted in our Communities, please [contact us here](http://www.groupon.com/support). 
 
 ### 13\. Facebook Connect
 
