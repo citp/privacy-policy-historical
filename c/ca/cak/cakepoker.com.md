@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603080251id_/http%3A//cakepoker.com/Help/Integrity/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630093138id_/http%3A//cakepoker.eu/Help/Integrity/Privacy.aspx) for the most accurate reproduction.*
 
 # Cake Poker Information and Privacy Protection Policy
 
@@ -40,7 +40,7 @@ We may send you a temporary cookie when you visit the Cake Poker website. A cook
 
 ### Your rights pertaining to your information
 
-You may write Cake Poker to, where appropriate, have your personal information removed, rectified, amended or completed. In order to contact us regarding your information please e-mail our Security Team at security@cakepoker.com. Please note that Cake Poker may levy a small charge to cover administration costs in regard to any such request.
+You may write Cake Poker to, where appropriate, have your personal information removed, rectified, amended or completed. In order to contact us regarding your information please e-mail our Security Team at security@cakepoker.eu. Please note that Cake Poker may levy a small charge to cover administration costs in regard to any such request.
 
 ### Consent to Privacy Policy
 
