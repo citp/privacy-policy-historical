@@ -1,46 +1,71 @@
-> *The following text is extracted and transformed from the arthrex.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125095204id_/http%3A//www.arthrex.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthrex.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630071307id_/http%3A//www.arthrex.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Arthrex - Privacy Policy
 
-This statement sets forth ARTHREX's Privacy Statement for ARTHREX.com and describes the practices that ARTHREX will follow with respect to the privacy of users of this site. 
+ARTHREX is strongly committed to maintaining the privacy of users of this Web site. This statement sets forth ARTHREX's Privacy Statement and describes the practices that ARTHREX will follow with respect to the privacy of users of this site in combination with the Research Subject Information and Consent Form.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact our webmaster at: webmaster@arthrex.com
+The goal of this site is to assemble and analyze medical and health information in order to facilitate treatment, medical research, and product improvement. We share data from this site for these purposes, but we do so with respect for medical privacy and in compliance with medical privacy law and medical ethics. We take the notion of informed consent seriously, and we want anyone who submits information at this site to be comfortable with our policies.
 
-**What is personally identifiable information?**
+If you choose to register or submit information to this site, you agree to the use of the information you submit in accordance with this Privacy Statement. If you have any questions about this Privacy Statement or your use of this site, feel contact our Webmaster at [webmaster@arthrex.com](mailto:webmaster@arthrex.com).
 
-"Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, mailing address, and so on. 
+**How is information collected?**
 
-**How is information collected, used, and disclosed?**
+The Web site collects only personally identifiable information that is specifically and voluntarily provided by visitors. Such information may consist of, but is not limited to, your name, e-mail address, street address and telephone number so that we may enhance your site visit or follow up with you after your visit.
 
-We do not collect personal information -- including your e-mail address -- unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your e-mail address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. 
+If you are a physician, we may gather information from you as part of the registration process and your ongoing use of the site. This may include your contact information as well as detailed information about the medical procedures you perform that you choose to voluntarily provide to us.
 
-If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. We do not sell or rent personal information collected through this site to anyone. 
+If you are a patient, personally identifying information about you, including personally identifying health information, is collected in the manner specified in the Research Subject Information and Consent Form, and it may include your contact information as well specific information about your treatment that you provide to us.
 
-During the period you are logged onto our site we log IP addresses, browser and platform types, domain names, access times, referral addresses, and your activity while using or reviewing our site. ARTHREX may also disclose information in special cases when we have a good faith belief that such action is necessary to:   
-(a) conform to legal requirements or comply with legal process;  
-(b) protect and defend our rights or property;   
-(c) enforce the Web site Terms and Conditions of Use; or   
-(d) act to protect the interests of our users or others. 
+We do not usually seek sensitive information (e.g., data relating to race or ethnic origin, religious beliefs, criminal record, or sexual orientation), except for the medical and health information that we collect with your express consent to collect such information.
 
-**What are your choices regarding collection, use, and distribution of your information?**
+**What are cookies and Web beacons?**
 
-If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. If, in connection with your use of a particular service, we ask to use your data in a way not described in this Privacy Statement and you do not wish to permit that use, you can choose not to use the particular service.
+To facilitate easy navigation within the site, we or our service provider(s) may use cookies (small text files stored in a user's browser) or Web beacons (electronic images that enabling counting visitors who have accessed a page or certain cookies) to collect aggregated data, such as IP address, domain, browser type and pages visited. Our Webmasters use the information to analyze the number of visitors to different pages and to make sure that our site is serving you effectively and efficiently.
 
-If you have voluntarily provided personally identifiable information, we may, from time to time, send you mail or e-mail regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by checking the appropriate box on the submission form. 
+Our cookies and Web beacons do not collect personally identifying information. Cookies can be rejected, but users may be denied access to some parts of the site if their browsers reject cookies.
 
-**How can you correct, access, and update your information?**   
-You may view and edit your personally identifiable information at any time by contacting us using the link provided on the web site. Or if you prefer, you may contact our webmaster at: webmaster@arthrex.com. 
+**How is personally identifying information used?**
+
+Personally identifying information is used only for limited purposes. Personally identifying information about patients, including personally identifying health information, is used consistent with the Research Subject Information and Consent Form. For example, such information shared with your physician, used for research, and aggregated so that medical providers can compare medical outcomes over a broad patient population and for use in clinical studies that may be published.
+
+If you have voluntarily provided personally identifiable information, we may, from time to time, send you mail or e-mail regarding products and services. We will ensure that our marketing activities comply with applicable law. You may at any time request that we discontinue sending you such materials.
+
+**When is personally identifying information disclosed to third parties?**
+
+Personally identifying information is disclosed to third parties only in limited circumstances. Personally identifying information about patients, including personally identifying health information, is disclosed consistent with the Research Subject Information and Consent Form. For example, we will disclose your personally identifying health information to your surgeon for purposes of treatment and research. Consistent with the Research Subject Information and Consent Form, we may also disclose anonymized information for publication of outcomes of clinical trials. We do not sell or rent personally identifying information collected through this site to anyone.
+
+Personally identifying information may be transmitted internationally for the purposes identified above. This may include transfer to countries without data protection rules similar to those in effect in your country of residence. By providing information to ARTHREX through this site, you are consenting to such transfers.
+
+Where appropriate, personal information may be disclosed to law enforcement, regulatory or other government agencies, or third parties where necessary or desirable to comply with legal or regulatory obligations or requests or for the purposes identified above.
+
+**How can you correct, access, and update your information?**
+
+We are dedicated to providing reasonable access to users who wish to review their personally identifying information and to correct any inaccuracies. Users who choose to register may access their user profile, correct and update their details, or unsubscribe at any time. Visitors who have any problem accessing their profiles, or would like to request a copy of their personal information should contact [webmaster@arthrex.com](mailto:webmaster@arthrex.com).
+
+You may view and edit your personally identifiable information at any time by contacting us using the link provided on the Contact Arthrex link on the site. Or if you prefer, you may contact our Webmaster at [webmaster@arthrex.com](mailto:webmaster@arthrex.com). In all cases we will treat requests to access information or change information in accordance with applicable legal requirements.
 
 **How do we protect your information?**
 
-We exercise great care to protect your personally identifiable information. This includes, among other things, using industry standard techniques such as firewalls, encryption, intrusion detection and site monitoring. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security on our servers. 
+We exercise great care to protect your personally identifiable information. This includes, among other things, using industry standard techniques such as firewalls, encryption, intrusion detection and site monitoring. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security on our servers.
 
-Internally, we will restrict access to your personally identifiable information to employees who need access to the information in order to do their jobs. These employees are limited in number, and are committed to our privacy policies. We will review our security arrangements from time to time as we deem appropriate. If we make changes to this privacy policy, we will post the changes on this page so that you always will know what information we collect, how we use it, and when and how we will disclose it. 
+Internally, we will restrict access to your personally identifiable information to employees who need access to the information in order to do their jobs. These employees are limited in number, and are committed to our privacy policies. We will review our security arrangements from time to time as we deem appropriate. If we make changes to this privacy policy, we will post the changes on this page so that you always will know what information we collect, how we use it, and when and how we will disclose it.
 
 **How can you help protect your information?**
 
-If you are using a ARTHREX web site for which you registered and chose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site by closing your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer. 
+If you are using an ARTHREX web site for which you registered and chose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. You should also remember to sign out of the registered site by closing your browser window when you have finished your work to ensure that others cannot access personally identifying information.
 
 **What about links to other sites?**
 
 ARTHREX sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites.
+
+**Children's Privacy Protection**
+
+ARTHREX understands the importance of protecting children's privacy in the interactive online world. The site covered by this privacy policy is not designed for or intentionally targeted at children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.
+
+**United States Site**
+
+Ideas and laws about medical privacy vary around the world. This site operates under United States law, medical ethics, and privacy laws. We may transfer any information on this site internationally for any of the purposes mentioned in this notice. Transfers may involve the transfer of your information between jurisdictions and outside of the jurisdiction in which you submitted your information, including to jurisdictions which the European Union may not deem to provide "adequate" data protection. Please do not provide us any information that you do not wish to be transferred for these purposes.
+
+**Will this Privacy Statement change?**
+
+ARTHREX reserves the right to modify or amend this Privacy Statement at any time and for any reason. Nothing contained herein creates or is intended to create a contract or agreement between ARTHREX and any user visiting the Web site or providing identifying information of any kind.
