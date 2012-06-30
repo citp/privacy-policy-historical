@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homestoreandmore.ie privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210164439id_/http%3A//www.homestoreandmore.ie/privacy-policy/page/footerprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestoreandmore.ie privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630211330id_/http%3A//www.homestoreandmore.ie/privacy-policy/page/footerprivacy) for the most accurate reproduction.*
 
-# Privacy Policy at homestore + more
+# homestore + more – More savings every day!
 
 privacy policy:
 
@@ -37,7 +37,7 @@ We may pass on non-personal aggregated information about sales and website usage
 
 Customer consent
 
-By using our website, you consent to the information you provide being processed for any of the above purposes, except where you have chosen to opt out of being contacted by us. If you are registered with My Details, you may change this option at any time. You can also unsubscribe by contacting the Customer Service. Please ensure you list all the email and postal addresses you have given us in the past. Alternatively, write to us at: [info@homestoreandmore.ie](mailto:info@homestoreandmore.ie)
+By using our website, you consent to the information you provide being processed for any of the above purposes, except where you have chosen to opt out of being contacted by us. If you are registered with My Details, you may change this option at any time. You can also unsubscribe by contacting Customer Service. Please ensure you list all the email and postal addresses you have given us in the past. Alternatively, write to us at: [info@homestoreandmore.ie](mailto:info@homestoreandmore.ie)
 
 Cookies
 
@@ -61,13 +61,13 @@ At homestore + more we take your online security very seriously. Our hosting pro
 
 Usability of the website
 
-The homestore + more platform in general has been developed with usability in mind and are constantly making usability improvements to the platform. Our developer team is well trained in usability best practice to ensure that homestore + more website is designed with usability in mind at all times.
+The homestore + more platform in general has been developed with usability in mind and we are constantly making usability improvements to the platform. Our development team is well trained in usability best practice to ensure that the homestore + more website is designed with usability in mind at all times.
 
 Accessibility of the website
 
 At homestore + more we are committed to making our web information and services accessible to everyone, including those with disabilities or visual impairments. With this in mind we constantly strive to make homestoreandmore.ie as accessible as possible to our customers.
 
-This website has been developed to meet Level One recommendations made by W3C Website Accessibility Initiative (WAI) Guidelines, which complies with current IE legislation, including the following:
+This website has been developed to meet Level One recommendations made by the W3C Website Accessibility Initiative (WAI) Guidelines, and complies with current IE legislation, including the following:
 
   * The Disability Act
   * The Equal Status Act
