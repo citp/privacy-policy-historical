@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzarab.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206023207id_/http%3A//www.buzzarab.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzarab.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630032059id_/http%3A//www.buzzarab.com/content/privacy.php) for the most accurate reproduction.*
 
-# سياسة الخصوصية - BuzzArab
+# Politique de confidentialité - buzzArab
 
 The owners of this Service have created this Privacy Statement (Policy) in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information.
 
@@ -18,7 +18,7 @@ Children are not eligible to use our services, and we ask that minors (under the
 
 2\. **Information We Collect**
 
-Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience easier. You agree that in order to assist our members to meet each other we may feature members' profiles in our editorials and newsletters that we send out from time to time to our members. Your name, address and telephone number are confidential and will not be posted in your profile. Your profile is available for other members to view. Members' profiles include a description and photos, likes and dislikes, individual essays and other information helpful in determining matches. Your viewable profile does not include any identifying information about you, except the username you chose upon registering.
+Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience easier. You agree that in order to assist our members to meet each other we may feature members' profiles in our editorials and newsletters that we send out from time to time to our members. We will ask you for your real name, birthday and email address. Your real name, birthday and email address are confidential and will not be posted in your profile. Your profile is available for other members to view. Members' profiles include a description and photos, likes and dislikes, individual essays and other information helpful in determining matches. Your viewable profile does not include any identifying information about you, except the username you chose upon registering.
 
 Please note that your personally identifiable information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may differ from the European laws but as we explain below, We will hold and transmit your information in a safe, confidential and secure environment.
 
@@ -28,13 +28,21 @@ We use data collection devices such as "cookies" on certain pages of our Website
 
 We use a third party advertising company, to serve ads on our behalf across the Internet. The third party may also collect anonymous information about your visits to our Web site. 
 
-3\. **Our Use of Your Information**
+3\. **How We Use Information We Collect**
 
-We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Websites to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may look across multiple members to identify problems or resolve disputes, and in particular we may examine your information to identify members multiple Member ID No. or aliases.
+We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Websites to :
 
-You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our site and better tailor it to meet your needs.
+ • Deliver the products and services that you have requested;
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use on the Websites. By accepting this Privacy Policy, you expressly agree to receive this information.
+ • Manage your account and provide you with customer support;
+
+ • Resolve disputes, troubleshoot problems and enforce our Terms and Conditions. 
+
+ • At times, we may look across multiple members to identify problems or resolve disputes, and in particular we may examine your information to identify members multiple Member ID No. or aliases.
+
+ • You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our site and better tailor it to meet your needs.
+
+ • You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use on the Websites. By accepting this Privacy Policy, you expressly agree to receive this information.
 
 4\. **Our Disclosure of Your Information**
 
@@ -52,15 +60,17 @@ As a matter of policy, we **do not** sell or rent any personally identifiable in
 
 5\. **Your Use of other Members Information**
 
-Our services also include access to instant messaging and chat rooms. As a member you have access to the Member's ID No., and you might gain access to other contact information of the Member(s) through the regular use of the instant messaging and chat rooms. By accepting this Privacy Policy, you agree that, with respect to other Members' personally identifiable information that you obtain through instant messaging communication, the chat rooms and email, We hereby grants to you a license to use such information only for: (a) Your Company related communications that are not unsolicited commercial messages, and (b) any other purpose that such member expressly agrees to after adequate disclosure of the purpose(s). In all cases, you must give Members an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another member to any third party without our consent and the consent of such other member after adequate disclosure. buzzArab.com and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a buzzArab.com member to your mail list (email or physical mail) without their express written consent after adequate disclosure. To report spam from other buzzArab.com, please Contact Us using the 'Contact Us' page.
+Our services also include access to instant messaging and chat rooms. As a member you have access to the Member's ID No., and you might gain access to other contact information of the Member(s) through the regular use of the instant messaging and chat rooms. By accepting this Privacy Policy, you agree that, with respect to other Members' personally identifiable information that you obtain through instant messaging communication, the chat rooms and email, We hereby grants to you a license to use such information only for: (a) Your Company related communications that are not unsolicited commercial messages, and (b) any other purpose that such member expressly agrees to after adequate disclosure of the purpose(s). In all cases, you must give Members an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another member to any third party without our consent and the consent of such other member after adequate disclosure. buzzArab.com and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a buzzArab.com member to your mail list (email or physical mail) without their express written consent after adequate disclosure. To report spam from other buzzArab.com members, please Contact Us using the 'Contact Us' page.
 
 6\. **Accessing, Reviewing and Changing Your Profile**
 
-Following registration, you can review and change the information you submitted during registration through the Member Service Menu including: Your password and e-mail address. If you change your password and email we keep track of your old password and email. You can also change your registration information such as: name, address, city, state, zip code, country, phone number, profile, likes and dislikes, desired date profile, essays and saves search criteria.
+**Modify your information** : Following registration, you can review and change the information you submitted during registration through the [Edit Profile](https://web.archive.org/editprofile.php) command including your password and e-mail address. If you change your password and email we keep track of your old password and email. You can also change your registration information such as: name, country, city, profile, likes and dislikes, desired date profile, essays and saves search criteria.
 
-Upon your written request, we will suspend your membership, contact information, and financial information from our active databases. Such information will be suspended as soon as reasonably possible in accordance with our suspension policy and applicable law. To remove your profile so that others cannot view it, visit the Deactivate Profile page available after login.
+**Delete your information** : Upon your written request, we will remove your membership and contact information from our active databases. Such information will be suspended as soon as reasonably possible in accordance with our suspension policy and applicable law. To remove your profile so that others cannot view it, visit the [Delete Profile page](https://web.archive.org/delete_profile.php). Note that you must be logged in to perform this action.
 
 We will retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
+
+**Opting out of all Emails send by us**  : To opt-out of all emails sent by us, you must deactivate your profile with us. You can do this in the [Deactivate Profile page](https://web.archive.org/deactivate.php). Note that you must be logged in to perform this action. Please note that you can continue to receive emails from us for up to 48 hours after you deactivate your profile. We apologize for any inconvenience this may cause you.
 
 7\. **Control of Your Password**
 
