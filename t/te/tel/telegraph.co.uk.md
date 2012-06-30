@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214016id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630095921id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Telegraph
 
@@ -31,6 +31,8 @@ This Privacy and Cookie Policy explains how Telegraph Media Group Limited uses p
 (4) ensure materials on the website are presented in the most effective manner for you and your computer. 
 
 (5) collate and log numeric internet addresses to improve the website and to monitor website usage. 
+
+3.2 If you have subscribed to any of or services, we will use the information you provide to keep you updated on those services unless you tell us otherwise. 
 
 4\. **Accessing and updating your personal information**
 
@@ -96,4 +98,4 @@ http://www.audiencescience.com/privacy
 
 11.1 If you believe that we have not adhered to this Policy, please notify us by email at data.protection@telegraph.co.uk and we will try to solve the problem promptly. 
 
-_This Policy was last updated on 3 August 2011_. 
+_This Policy was last updated on May 24, 2012_. 
