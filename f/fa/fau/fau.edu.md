@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fau.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105352id_/http%3A//www.fau.edu/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fau.edu privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630174250id_/http%3A//www.fau.edu/privacypolicy.php) for the most accurate reproduction.*
 
 # Florida Atlantic University - Privacy Policy
 
