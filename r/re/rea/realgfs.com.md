@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realgfs.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127170348id_/http%3A//www.realgfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgfs.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630140219id_/http%3A//www.realgfs.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT
 
@@ -32,4 +32,10 @@ Spam Policy
 
 We do not condone the use of spam and the sending of unsolicited materials in any form, nor do we control other websites involvement and/or practices in this area.
 
+??
+
 * * *
+
+  
+  
+
