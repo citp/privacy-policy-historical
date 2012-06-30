@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213258id_/http%3A//www.tcpglobal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112933id_/http%3A//www.tcpglobal.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,17 +18,17 @@ Address: | 6695 Rasha Street
 City, Zip: | San Diego, 92121-2241  
 State: | CA  
 Country: | USA  
-Controller: | Len Savage  
-Web Sites(s): | http://www.TriCityPaint.com  
-http://www.AutoBodyDepot.net  
-http://www.AutoColorLibrary.com  
-http://www.SpraygunDepot.com  
-http://www.AirBrush-Depot.com  
-http://www.ProTanningSystems.com  
-http://www.Turbo-Tan.com  
-http://www.DetailSupplyDepot.com  
-http://www.HOKPaint.com  
-http://www.ProAutoTools.com  
+Controller: | David Topp  
+Web Sites(s): | 
+
+http://www.tcpglobal.com  
+http://www.tcpglobalcorp.net
+
+http://www.uscakesupply  
+http://www.usartsupply.com  
+http://www.uspensupply.com  
+http://www.turbotan.com  
+http://www.belloccio.com  
   
 #### Providing Visitors with Anonymous Access 
 
@@ -74,7 +74,7 @@ In order to demonstrate that our privacy policy accords with the above privacy i
 Name or designation of the privacy policy person or service | David Topp  
 Network Administrator  
 ---|---  
-URL | http://www.TCPGlobal.com  
+URL | http://www.tcpglobal.com  
 Address | 6695 Rasha Street,   
 San Diego, CA 92121  
 Country | USA  
