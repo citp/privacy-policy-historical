@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architecturalrecord.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229213744id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturalrecord.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630134432id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# McGraw-Hill Construction Privacy Notice
+# Privacy Notice
 
 McGraw-Hill Construction Privacy Notice
 
@@ -42,7 +42,7 @@ With other parts of McGraw-Hill whose services and products might be of interest
 
 **IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:**
 
-Write to us at Construction_Privacy_Policy@mcgraw-hill.com or **Amy Sidelinger** **,** Privacy Officer, McGraw-Hill Construction, 148 Princeton-Hightstown Rd, Hightstown, NJ 08520 with the following instructions:
+[Click here](http://construction.com/Privacy_opt-out/) or send an email to [Construction_Privacy_Policy@mcgraw-hill.com](mailto:Construction_Privacy_Policy@mcgraw-hill.com) or write **Amy Sidelinger,** Privacy Officer, McGraw-Hill Construction, 148 Princeton-Hightstown Rd, Hightstown, NJ 08520 with the following instructions:
 
 ______I do not want to be contacted by McGraw-Hill Construction through any method for marketing purposes.
 
@@ -54,4 +54,4 @@ To review and confirm the accuracy of your PII, or to contact us with concerns o
 
 [Click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) for more information about The McGraw-Hill Companies Customer Privacy Policy. 
 
-**Last updated: August 23, 2011.** Future revisions to this Privacy Notice will be posted at this location.
+**Last updated: January 24, 2012.** Future revisions to this Privacy Notice will be posted at this location.
