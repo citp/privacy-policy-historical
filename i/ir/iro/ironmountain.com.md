@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128222125id_/http%3A//www.ironmountain.com/Utility/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630122932id_/http%3A//www.ironmountain.com/Utility/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ YOUR PRIVACY IS IMPORTANT TO IRON MOUNTAIN.
 
 This Policy Adopted By: Iron Mountain, its participating subsidiaries and joint venture partners which are part of the Iron Mountain service system, and other entities which directly or indirectly are controlled by Iron Mountain (each, an Affiliate, with Iron Mountain and its Affiliates being collectively referred to as Iron Mountain). 
 
-Iron Mountain understands your concerns about the privacy of data you may submit through this Iron Mountain Web site. This Privacy Policy provides you information about what type of information is gathered and tracked on the Web site, how the information is used, .and with whom the information is shared. You may also want to review [Iron Mountain's Privacy Principles](http://www.ironmountain.com/#privacy "Iron Mountain's Privacy Principles") which set forth the Company's commitment to protecting our customers' and employees' privacy, online and offline. In the event that any inconsistencies should arise with respect to this policy and the Privacy Principles concerning online privacy, the terms of this policy shall prevail.
+Iron Mountain understands your concerns about the privacy of data you may submit through this Iron Mountain Web site. This Privacy Policy provides you information about what type of information is gathered and tracked on the Web site, how the information is used, .and with whom the information is shared. You may also want to review Iron Mountain's Privacy Principles which set forth the Company's commitment to protecting our customers' and employees' privacy, online and offline. In the event that any inconsistencies should arise with respect to this policy and the Privacy Principles concerning online privacy, the terms of this policy shall prevail.
 
 **The information we collect.**
 
@@ -98,7 +98,7 @@ Disclosures made pursuant to Iron Mountain's Business Ethics Program are covered
 
 If you have questions concerning this Policy, please contact our Vice President of Privacy at 1-800-935-6966, ext. 8477 (if calling from within the USA) or 1-617-535-8477 (if calling from outside the USA) or via e-mail at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com) or by writing to Vice President of Privacy, Iron Mountain, 745 Atlantic Avenue, Boston, MA 02111, U.S.A.
 
-**Iron Mountain's Privacy Principles**  
+## Iron Mountain's Privacy Principles 
 
 Iron Mountain commits to the following:
 
