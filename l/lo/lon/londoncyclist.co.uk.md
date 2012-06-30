@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212231003id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630084924id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy and Cookies
 
-Here is our privacy policy page – I hope we don’t confuse you with any jargon. If you have any more questions about London Cyclist or how data is used then please do use the contact page to get in touch.
+Privacy policy pah! Who need’s one of those? Oh, we do. Okay, I’ve set one up here. As the site grows it has become a bit of a necessity to have a privacy page. This clears up a little bit about how we use data, how we protect it and so forth. It also has some terms and conditions that apply to our competitions. If there’s anything you’d like clarifying then I’m reachable at any time via the contact page on London Cyclist.
 
 **What information do we collect?**
 
@@ -80,5 +80,19 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 ## A note on competitions..
 
-  
-We occasionally run competitions here on London Cyclist so we can give-away nice prizes to our readers. Entry to these competitions is normally only open to UK residents aged 18 and over. However, special conditions may apply and these will be stated in the competition entry page. Anyone related to London Cyclist (as in the owner/employees/freelancers/advertisers) can’t enter the competitions. It’s a condition of entry that are rules are accepted as final and that the competitor agrees to abide by these rules. The decision of the judges is final and no correspondence will be entered into. The winner may be asked to participate in publicity and that is their choice. The winners name will be announced. Events may occur that render the prize draw itself or the awarding of the prize impossible due to reasons beyond the control of the promoter. The promote (London Cylcist) may at its absolute discretion vary or amend the competition and the entrant agrees no liability shall be attached to the promoter as a result therof. If there is any conflict with these rules and the specific competition rules then the latter take preference. Which is all legal jargon for play nice! 
+Occasionally, when we are feeling generous we run competitions here on London Cyclist to give away nice prizes to our readers. Special conditions may apply to each competition, and these will generally be stated in the post where the competition is announced. However, **if not stated otherwise** then the rules listed here apply to competitions:
+
+  * _Winners are normally randomly selected by the  [Random](http://www.random.org/) website._
+  * _Giveaways are generally open to UK residents over the age of 18._
+  * _Winners need to respond within a reasonable time frame to organisers emails to receive their prize. Otherwise a new winner is randomly drawn.  _
+  * _Anyone related to London Cyclist can’t enter the competition (e.g. Andreas, Employees, Freelancers, Writers, Advertisers)_
+  * _The decision of the judges or the random number chosen is final and no correspondence will be entered in to._
+  * _Winners may be asked to participate in publicity and that is their choice._
+  * _The winners name will be announced.  _
+  * _Events may occur that make the prize draw itself or the awarding of the prize impossible due to reasons beyond the control of London Cyclist Blog or the promoter. (E.g. If we were giving away Olympics tickets and the Olympics were suddenly cancelled)_
+  * _London Cyclist Blog may at its absolute discretion vary or amend the competition and the entrant agrees no liability shall be attached to the promoter as a result thereof._
+  * _If there’s a conflict with these rules and the specific competition rules then the latter take preference.  _
+
+
+
+_It’s a condition of entry that are rules are accepted as final and that the competitor agrees to abide by these rules._
