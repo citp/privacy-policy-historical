@@ -1,43 +1,41 @@
-> *The following text is extracted and transformed from the trafficjunky.net privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224205600id_/http%3A//www.trafficjunky.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficjunky.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630091812id_/https%3A//www.trafficjunky.net/privacy_policy) for the most accurate reproduction.*
 
-# 
+# TrafficJunky Advertisers - Privacy Policy
 
-**1\. Application of This Policy**
+## 1\. Application of This Policy
 
-This Privacy Policy applies to TrafficJunky only. It will tell you how and why we gather personal and non-personal information about you. 
+This Privacy Policy applies to TrafficJunky only. It will tell you how and why we gather personal and non-personal information about you. TrafficJunky Inc. understands the importance of personal privacy and uses best practices to uphold this while using our website. Below is our privacy policy that ensures you are protected while using TrafficJunky. Please contact our support team if you have any further questions regarding this policy. 
 
-TrafficJunky Inc. understands the importance of personal privacy and uses best practices to uphold this while using our website. Below is our privacy policy that ensures you are protected while using TrafficJunky. Please contact our support team if you have any further questions regarding this policy. 
-
-**2\. Collection and Our Use of Your Information**
+## 2\. Collection and Our Use of Your Information
 
 TrafficJunky collects your name, email address, and other important information provided by you in order to provide any services requested. In addition, we collect credit card, and bank information from purchases made through TrafficJunky. In the course of using our site, we automatically log information such as IP address, browser type, referrer and other technical data for internal use only. This information is used to optimize our website's technical usability and for internal research data. 
 
-**3\. Disclosure of Your Information**
+## 3\. Disclosure of Your Information
 
 TrafficJunky DOES NOT rent or sell any personal information provided by you or about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to any entity any information that could be used to identify you personally. Certain information, such as your password, credit card number, and bank information, will not be disclosed in aggregate at all. 
 
-**4\. Reviewing and Changing Your Personally Identifiable Information**
+## 4\. Reviewing and Changing Your Personally Identifiable Information
 
-Upon creating an account, you will be able to review and change your information through TrafficJunky. This is accomplished by logging in to your account and clicking on the "My Account" tab. From there, you can update individual information provided by you regarding your account. To reduce the occurrence of unauthorized access to your account information, TrafficJunky strongly urges you to periodically change your password. Upon request, TrafficJunky will remove your credit card or any other information from our system. To make this request, contact our support team. TrafficJunky will keep information in our files, including credit card information, that you have requested to remove only in some circumstances, such as to comply with Federal and State Law, resolve disputes, troubleshoot problems, comply with Merchant Banking and Association Agreements, reduce fraud, enhance security, and to enforce our Terms of Use Agreement. 
+Upon creating an account, you will be able to review and change your information through TrafficJunky. This is accomplished by logging in to your account and clicking on the "My Account" tab. From there, you can update individual information provided by you regarding your account. To reduce the occurrence of unauthorized access to your account information, TrafficJunky strongly urges you to periodically change your password. Upon request, TrafficJunky will remove your credit card or any other information from our system. To make this request, contact our support team. TrafficJunky will keep information in our files, including credit card information, that you have requested to remove only in some circumstances, such as to comply with Federal and State Law, resolve disputes, troubleshoot problems, comply with Merchant Banking and Association Agreements, reduce fraud, enhance security, and to enforce our Terms of Use Agreement
 
-**5\. Cookies and Session Management**
+## 5\. Cookies and Session Management
 
 This site uses cookies for session management. We also use form and URL elements that may contain a unique user ID. Cookies, form elements and other related management techniques are used to ensure a continuous user session. 
 
-**6\. Security**
+## 6\. Security
 
 TrafficJunky has security measures in place to protect and prevent the misuse and loss of the information under our control. We use industry standard efforts to safeguard the confidentiality of your personal identifiable information. Our technical experts at TrafficJunky work hard to ensure your secure use of our services. 
 
-**7\. Children**
+## 7\. Children
 
 Minors in the country, province or state in which they live, can only use this Site with the approval of a parent or guardian. 
 
-**8\. Changes to This Privacy Policy**
+## 8\. Changes to This Privacy Policy
 
-We may change this policy as new services are added or old ones are changed. Such changes will be effective when a notice of the change is posted on the Site. 
+We may change this policy as new services are added or old ones are changed. Such changes will be effective when a notice of the change is posted on the Site. Please check this Privacy Policy from time to time for updates by checking the date of the "Last Update" at the top of this document. 
 
-Please check this Privacy Policy from time to time for updates by checking the date of the "Last Update" at the top of this document. 
+## 9\. International Payment Processing
 
-**9\. International Payment Processing**
-
-Kermia Solutions 72 HIGH STREET HASLEMERE SURREY UNITED KINGDOM GU27 2LA
+Bridco Trading Ltd,  
+33 Larnakos Avenue 1st Floor/Suite 101  
+Nicosia, Cyprus 1046 
