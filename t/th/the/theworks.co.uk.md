@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theworks.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204556id_/http%3A//www.theworks.co.uk/content.asp%3Fcoid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworks.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112348id_/http%3A//www.theworks.co.uk/content.asp%3Fcoid%3D2) for the most accurate reproduction.*
 
 # Privacy Policy - The Works
 
 ##  The Works - Our Privacy Statement 
 
-At The Works we are committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing, please contact us on: 0121 313 6000 or email Customer Services [websales@theworks.gb.com](mailto:cs@theworks.gb.com)
+At The Works we are committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing, please contact us on: 0121 313 6000 or email Customer Services [enquiries@theworks.co.uk](mailto:enquiries@theworks.co.uk)
 
 Information collected
 
