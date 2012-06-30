@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the planetdiscover.com privacy policy that was archived on 2011-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110129082953id_/http%3A//planetdiscover.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetdiscover.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630102704id_/http%3A//planetdiscover.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+
 <!--  PAGE TITLES -->
 <!--ex. {section name} - {general title} - {subsection name}-->
-<title>Privacy Notice – Planet Discover</title>
+<title>Mobile Apps, Local Search, Business Directory, Events, Ad System – Planet Discover</title>
 
 <!--META TAGS-->
 <meta name="google-site-verification" content="-dfWJWHYXjKTDs-UpIObJ0i78Wg_aygU4hSfLuFJLOc">
@@ -12,27 +13,149 @@
 <meta name="robots" content="NOODP">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<!--STYLE SHEETS-->
+<link href="https://plus.google.com/108801660749480614754" rel="publisher">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<meta property="og:title" content="Planet Discover">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.planetdiscover.com/privacy.jsp">
+<meta property="og:image" content="http://planetd.planetdiscover.com/includes/pd_google+icon.png">
+<meta property="og:site_name" content="Planet Discover">
+<meta property="og:description" content="Mobile Apps, Local Search, Business Directory, Events, Ad System - Planet Discover">
+
+<meta property="fb:app_id" content="308441472536246">
+  
+<!-- IMPORT STYLE SHEETS -->
 <style type="text/css" media="screen, projection">
     @import url("/css/reset.css");
-    @import url("/css/layout.css");
-    @import url("/easyslider/css/screen.css");
+    @import url("/css/layout2.css");
 </style>
 
-<!--  GOOGLE ANALYTICS SCRIPT -->
+<style type="text/css" media="print">
+    .noprint { display: none; }   
+</style>
 
+
+<!--  GOOGLE ANALYTICS SCRIPT -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-7358325-3");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<!--FLASH CODE BLOCK-->
-<script language="JavaScript" type="text/javascript">
+<!--  END OF GOOGLE ANALYTICS SCRIPT -->
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/navmenu/jquery.hoverIntent.minified.js"></script>
+
+<!-- EASY SLIDER -->
+<script type="text/javascript" src="/easyslider/js/easySlider1.7.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){   
+       $("#slider").easySlider({
+           auto: false, 
+           continuous: true
+       });
+   }); 
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){   
+       $("#slider2").easySlider({
+           auto: false, 
+           continuous: true,
+           nextId: "slider2next",
+           prevId: "slider2prev"           
+       });
+   }); 
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){   
+       $("#slider3").easySlider({
+           auto: false, 
+           continuous: true,
+           nextId: "slider3next",
+           prevId: "slider3prev"           
+       });
+   }); 
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){   
+       $("#slider4").easySlider({
+           auto: false, 
+           continuous: true,
+           nextId: "slider4next",
+           prevId: "slider4prev"           
+       });
+   }); 
+</script>
+<link href="/easyslider/css/screen.css" rel="stylesheet" type="text/css" media="screen">
+
+<script type="text/javascript">
+        $(document).ready(function() {
+ 
+            function megaHoverOver(){
+                $(this).find(".sub").stop().fadeTo('fast', 1).show();
+                    
+                //Calculate width of all ul's
+                (function($) { 
+                    jQuery.fn.calcSubWidth = function() {
+                        rowWidth = 0;
+                        //Calculate row
+                        $(this).find("ul").each(function() {                    
+                            rowWidth += $(this).width(); 
+                        }); 
+                    };
+                })(jQuery); 
+                
+                if ( $(this).find(".row").length > 0 ) { //If row exists...
+                    var biggestRow = 0; 
+                    //Calculate each row
+                    $(this).find(".row").each(function() {                             
+                        $(this).calcSubWidth();
+                        //Find biggest row
+                        if(rowWidth > biggestRow) {
+                            biggestRow = rowWidth;
+                        }
+                    });
+                    //Set width
+                    $(this).find(".sub").css({'width' :biggestRow});
+                    $(this).find(".row:last").css({'margin':'0'});
+                    
+                } else { //If row does not exist...
+                    
+                    $(this).calcSubWidth();
+                    //Set Width
+                    $(this).find(".sub").css({'width' : rowWidth});
+                    
+                }
+            }
+            
+            function megaHoverOut(){ 
+              $(this).find(".sub").stop().fadeTo('fast', 0, function() {
+                  $(this).hide(); 
+              });
+            }
+        
+            var config = {    
+                 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+                 interval: 100, // number = milliseconds for onMouseOver polling interval    
+                 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+                 timeout: 0, // number = milliseconds delay before onMouseOut    
+                 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+            };
+        
+            $("ul#topnav li .sub").css({'opacity':'0'});
+            $("ul#topnav li").hoverIntent(config);
+
+        });
+</script>
+
+<script type="text/javascript">
 <!--
 //v1.7
 // Flash Player Version Detection
@@ -309,81 +432,13 @@ function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
 // -->
 </script>
 
-<script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/js/easySlider1.7.js"></script>
-<script type="text/javascript">
-     $(document).ready(function(){  
-       $("#slider").easySlider({
-           auto: false, 
-           continuous: true
-       });
-     });    
-     </script>
+<!-- STICKY FOOTER FIX FOR IE 7 -->
+<!--[if !IE 7]>
+    <style type="text/css">
+        #wrap {display:table;height:100%}
+    </style>
+<![endif]-->
 
-<script type="text/javascript" src="/navmenu/jquery.hoverIntent.minified.js"></script>
-<script type="text/javascript">
-        $(document).ready(function() {
-            
-        
-            function megaHoverOver(){
-                $(this).find(".sub").stop().fadeTo('fast', 1).show();
-                    
-                //Calculate width of all ul's
-                (function($) { 
-                    jQuery.fn.calcSubWidth = function() {
-                        rowWidth = 0;
-                        //Calculate row
-                        $(this).find("ul").each(function() {                    
-                            rowWidth += $(this).width(); 
-                        }); 
-                    };
-                })(jQuery); 
-                
-                if ( $(this).find(".row").length > 0 ) { //If row exists...
-                    var biggestRow = 0; 
-                    //Calculate each row
-                    $(this).find(".row").each(function() {                             
-                        $(this).calcSubWidth();
-                        //Find biggest row
-                        if(rowWidth > biggestRow) {
-                            biggestRow = rowWidth;
-                        }
-                    });
-                    //Set width
-                    $(this).find(".sub").css({'width' :biggestRow});
-                    $(this).find(".row:last").css({'margin':'0'});
-                    
-                } else { //If row does not exist...
-                    
-                    $(this).calcSubWidth();
-                    //Set Width
-                    $(this).find(".sub").css({'width' : rowWidth});
-                    
-                }
-            }
-            
-            function megaHoverOut(){ 
-              $(this).find(".sub").stop().fadeTo('fast', 0, function() {
-                  $(this).hide(); 
-              });
-            }
-        
-        
-            var config = {    
-                 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
-                 interval: 100, // number = milliseconds for onMouseOver polling interval    
-                 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
-                 timeout: 0, // number = milliseconds delay before onMouseOut    
-                 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
-            };
-        
-            $("ul#topnav li .sub").css({'opacity':'0'});
-            $("ul#topnav li").hoverIntent(config);
-        
-        
-        
-        });
-    </script>
 <!-- KEYWORD SEARCH BOX AND SUBMIT BUTTON -->
 <script type="text/javascript">
             function checkKeywords(){
@@ -400,302 +455,300 @@ function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
 
 <body style="zoom: 1;">
 
-<div class="wrapper">
-<div class="wrapper_int">
-     <div class="wrapper_int_int">
-          <div class="hdr_container">
+<!-- BASE PAGE SETUP -->
+<div id="wrap">
 
-               <div class="hdr_col_1"><a href="/index.jsp"><img src="/graphics/logo_pd.gif" border="0" width="217" height="90"></a></div>
-               <div class="hdr_col_2">
-                    <form action="http://explore.planetdiscover.com/sp" target="results" method="get" onsubmit="return checkKeywords(); window.open('', 'results', 'width=910,height=600,left=10,top=100,screenX=100,screenY=100,status=yes,location=yes,toolbar=yes,menubar=yes,resizable=yes,scrollbars=yes')">
-                         <input type="hidden" name="aff" value="1100">
-                         <div class="hdr_element_a"><img src="/graphics/graphic_trysearch.gif" width="141" height="30" alt="Try Our Search"></div>
-                         <div class="hdr_element_b">
-                              <input class="keyword" type="text" onfocus="this.value='';return false;" value="Enter a search word" name="keywords" size="21" maxlength="50" style="height:24px; border:solid 1px #CCC; padding:2px 4px; font-size:13px; font-family:Arial, Helvetica, sans-serif; color:#9F9F9F; font-weight:bold;">
+    <div id="head">
+        <div class="header_int">
+            <div class="header_col_a"><a href="../../index.jsp"><img src="/graphics/logo_pd.gif" alt="Planet Discover" border="0" width="217" height="90"></a></div>
+            <div class="header_col_b">
+                  <div class="header_search_cont noprint" style="background-color:#74AB0F;">
+                                      
+                    <form action="http://goerie.planetdiscover.com/sp" target="results" method="get" onsubmit="return checkKeywords(); window.open('', 'results', 'width=910,height=600,left=10,top=100,screenX=100,screenY=100,status=yes,location=yes,toolbar=yes,menubar=yes,resizable=yes,scrollbars=yes')">
+                         <input type="hidden" name="aff" value="1100">                  
+                         <div class="header_search_cont_a noprint">
+                            <input name="" type="image" src="/graphics/button_go.png" alt="Get Results" width="40px" height="29" border="0">
+                         </div>                  
+                         <div class="header_search_cont_b noprint" style="margin-right:5px;">
+                            <input class="keywordsearch" type="text" onfocus="this.value='';return false;" value="Enter a search word" name="keywords" size="20" maxlength="50">
                          </div>
-                         <div class="hdr_element_c">
+                         <div class="header_search_cont_c noprint" style="font:bold 14px Arial,Helvetica, sans-serif; color:white; text-align:left; margin-right:10px; margin-top:8px; line-height:120%;">
+                            Experience our search<br>for Erie, PA, on GoErie.com
+                         </div>                      
+                         <div class="clear"></div>
+                     </form>  
+                               
+                  </div>
+                  <div class="noprint">
+                        <ul id="topnav">
+                            <li><a href="/index.jsp" class="home">Home</a> </li>
+                            <li><a href="/online/index.jsp" class="online">Online</a>
+                                <div class="sub" style="opacity: 0;">
+                                    <div class="row">
+                                        <ul class="online">
+                                            <li><a href="/online/index.jsp">Local Search</a></li>
+                                            <li><a href="/online/events.jsp">Events System</a></li>
+                                            <li><a href="/online/search.jsp">Search Showcase</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="row">
+                                        <ul class="online">
+                                            <li><h2>Business Directory</h2></li>
+                                            <li><a href="/online/business/index.jsp">Overview</a></li>
+                                            <li><a href="/online/business/finditnow.jsp">FindItNow</a></li>
+                                            <li><a href="/online/business/local.jsp">Local Directory</a></li>
+                                            <li><a href="/online/business/widgets.jsp">Directory Widgets</a></li>
+                                            <li><a href="/online/business/ratings.jsp">Ratings &amp; Reviews</a></li>
+                                        </ul>
+                                     </div>
+                                </div>
+                            </li>
+                            <li><a href="/mobile/index.jsp" class="mobile">Mobile</a>
+                                <div class="sub" style="opacity: 0;">
+                                    <div class="row">
+                                        <ul class="mobile">
+                                            <li><a href="/mobile/index.jsp">Overview</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="row">
+                                        <ul class="mobile">
+                                            <li><h2>PHONE APPS</h2></li>
+                                            <li><a href="/mobile/apps/iphone.jsp">iPhone</a></li>
+                                            <li><a href="/mobile/apps/android.jsp">Android</a></li>
+                                            <li><h2>TABLET APPS</h2></li>
+                                            <li><a href="/mobile/tabletapps/ipad/index.jsp">iPad</a></li>
+                                            <li><a href="/mobile/tabletapps/android/index.jsp">Android</a></li>
+                                        </ul>                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href="/advertising/index.jsp" class="advertising">Advertising</a>
+                                <div class="sub" style="opacity: 0;">
+                                    <div class="row">
+                                        <ul class="advertising">
+                                            <li><a href="/advertising/index.jsp">Overview</a></li>
+                                            <li><a href="/advertising/marketing.jsp">Marketing Center</a></li>
+                                            <li><a href="/advertising/enhanced.jsp">Enhanced Business Listings</a></li>
+                                            <li><a href="/advertising/textads.jsp">Text Ads</a></li>
+                                            <li><a href="/advertising/graphictextads.jsp">Graphic Text Ads</a></li>
+                                            <li><a href="/advertising/graphicads.jsp">Graphic Ads</a></li>
+                                            <li><a href="/advertising/coupons.jsp">Coupons</a></li>
+                                         </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href="/custom/index.jsp" class="custom">Custom Solutions</a>                            
+                            </li><li><a href="/aboutus/index.jsp" class="aboutus">About Us</a>
+                                <div class="sub" style="opacity: 0;">
+                                    <div class="row">
+                                        <ul class="aboutus">
+                                            <li><a href="/aboutus/index.jsp">Overview</a></li>
+                                            <li><a href="/aboutus/history.jsp">Company History/Philosophies</a></li>
+                                            <li><a href="/aboutus/technology.jsp">Our Technology</a></li>
+                                            <li><a href="/aboutus/support.jsp">Support</a></li>
+                                            <li><a href="/aboutus/employment.jsp">Employment</a></li>                                            
+                                            <li><a href="mailto:info@planetdiscover.com">Contact Us</a></li>
+                                            <li><a href="/aboutus/news.jsp">What's New</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>                              
+                  </div>
+             <!--END OF NAV MENU-->
+             </div>
+        </div>
+        <div class="clear"></div>
+        <!--END OF NAV MENU-->      
+    </div>
+    
 
-                              <input name="" type="image" src="/graphics/button_getresults.gif" alt="Get Results" width="103px" height="30" border="0">
-                         </div>
-                         <div style="clear:both;"></div>
-                    </form>
-                    <div class="nav_wrapper">
-                         <!--NAVIGATION MENU-->
-                         <div class="nav_container">
-                              <ul id="topnav">
-                                   <li> <a href="/index.jsp" class="home">Home</a> </li>
+<!-- GET PAGE URL -->
 
-                                   <li> <a href="/online/index.jsp" class="online">Online</a>
-                                        <div class="sub" style="opacity: 0;">
-                                             <div class="row">
-                                                  <ul style="width:200px;">
-                                                       <li><a href="/online/index.jsp">Local Search</a></li>
-                                                       <li><a href="/online/events.jsp">Events System</a></li>
-                                                       <li><a href="/online/search.jsp">Search Showcase</a></li>
 
-                                                  </ul>
-                                             </div>
-                                             <div class="row">
-                                                  <ul style="width:200px;">
-                                                       <li>
-                                                            <h2 style="font:bolder 18px/18px Tahoma, Geneva, sans-serif; color:#6DA003; margin-bottom:5px;">Business Directory</h2>
-                                                       </li>
-                                                       <li><a href="/online/business/index.jsp">Overview</a></li>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 
-                                                       <li><a href="/online/business/finditnow.jsp">FindItNow</a></li>
-                                                       <li><a href="/online/business/local.jsp">Local Directory</a></li>
-                                                       <li><a href="/online/business/widgets.jsp">Directory Widgets</a></li>
-                                                  </ul>
-                                                  <ul style="width:200px;">
-                                                       <li>
-                                                            <h2 style="font:bolder 18px/18px Tahoma, Geneva, sans-serif; color:#6DA003; margin-bottom:5px;">User-Generated Content</h2>
-
-                                                       </li>
-                                                       <li><a href="/online/usergenerated/index.jsp">Overview</a></li>
-                                                       <li><a href="/online/usergenerated/gallery.jsp">Photo Gallery</a></li>
-                                                       <li><a href="/online/usergenerated/user.jsp">User-submitted Articles</a></li>
-                                                       <li><a href="/online/usergenerated/ratings.jsp">Ratings &amp; Reviews</a></li>
-                                                  </ul>
-
-                                             </div>
-                                        </div>
-                                   </li>
-                                   <li> <a href="/mobile/index.jsp" class="mobile">Mobile</a>
-                                        <div class="sub" style="opacity: 0;">
-                                             <div class="row">
-                                                  <ul style="width:200px;">
-                                                       <li><a href="/mobile/index.jsp">Overview</a></li>
-
-                                                  </ul>
-                                             </div>
-                                             <div class="row">
-                                                  <ul style="width:200px;">
-                                                       <li>
-                                                            <h2 style="font:bolder 18px/18px Tahoma, Geneva, sans-serif; color:#6DA003; margin-bottom:5px;">APPS</h2>
-                                                       </li>
-                                                       <li><a href="/mobile/apps/iphone.jsp">iPhone</a></li>
-
-                                                       <li><a href="/mobile/apps/android.jsp">Android</a></li>
-                                                  </ul>
-                                             </div>
-                                        </div>
-                                   </li>
-                                   <li> <a href="/advertising/index.jsp" class="advertising">Advertising</a>
-                                        <div class="sub" style="opacity: 0;">
-
-                                             <div class="row">
-                                                  <ul style="width:225px;">
-                                                       <li><a href="/advertising/index.jsp">Overview</a></li>
-                                                       <li><a href="/advertising/marketing.jsp">Marketing Center</a></li>
-                                                       <li><a href="/advertising/enhanced.jsp">Enhanced Business Listings</a></li>
-                                                       <li><a href="/advertising/textads.jsp">Text Ads</a></li>
-                                                       <li><a href="/advertising/graphictextads.jsp">Graphic Text Ads</a></li>
-
-                                                       <li><a href="/advertising/graphicads.jsp">Graphic Ads</a></li>
-                                                       <li><a href="/advertising/coupons.jsp">Coupons</a></li>
-                                                  </ul>
-                                             </div>
-                                        </div>
-                                   </li>
-                                   <li> <a href="/aboutus/index.jsp" class="aboutus">About Us</a>
-
-                                        <div class="sub" style="opacity: 0;">
-                                             <div class="row">
-                                                  <ul style="width: 225px;">
-                                                       <li><a href="/aboutus/index.jsp">Overview</a></li>
-                                                       <li><a href="/aboutus/history.jsp">Company History/Philosophies</a></li>
-                                                       <li><a href="/aboutus/technology.jsp">Our Technology</a></li>
-                                                       <li><a href="/aboutus/support.jsp">Support</a></li>
-
-                                                       <li><a href="/aboutus/contactus.jsp">Contact Us</a></li>
-                                                       <li><a href="/aboutus/news.jsp">What's New</a></li>
-                                                  </ul>
-                                             </div>
-                                        </div>
-                                   </li>
-                              </ul>
-                         </div>
-
-                         <!--END OF NAV MENU-->
+        <div id="main">
+            <div style="float:left;">    
+            <p class="breadcrumb"><a href="/index.jsp">Planet Discover</a> Privacy Notice</p>
                     </div>
-               </div>
-               <div class="clear"></div>
-          </div>
-          <div class="clear"></div>
-     </div>
-     
-     <div style="padding:0 20px;">
-     
-     
+            <div class="soc_container">
+                <div>
 
+                </div>
+            </div>
+            <div class="clear"></div>
 
-
-<p class="breadcrumb"><a href="/index.jsp">Planet Discover</a> Privacy Notice</p>
-
-<h1>Privacy Notice</h1>
-
-<div class="c3">
-
-    <p>Last Updated: January 4, 2011</p>
-    
-    <p><strong>THIS UPDATE HAS MATERIAL CHANGES FROM THE PRIOR PRIVACY NOTICE. IF YOU DO NOT AGREE TO BE 
-    GOVERNED BY THE PRACTICES DISCLOSED IN THIS NOTICE, DISCONTINUE USING THE SITE.</strong></p>
-    
-    <p>We take seriously your interest in how your information is collected and used. Please read the 
-    following to learn about our Privacy Notice.</p>
-    
-    <p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, 
-    it outlines the types of information that we gather about you while you are using the Site, and the 
-    ways in which we use and share this information. This Privacy Notice does not apply to any information 
-    you may provide to us, or that we may collect, offline and/or through other means (for example, at a 
-    live event, via telephone, or through the mail).</p>
-    
-    <p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use 
-    of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice 
-    and our <a href="termsofservice.jsp">Terms of Service</a>. Because the Web is an evolving medium, we may need to 
-    change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy 
-    Notice on this website and update the "Last Updated" date to reflect the date of the changes. By 
-    continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
-    
-    <h2>Your California Privacy Rights</h2>
-
-    <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers 
-    who are California residents to request and obtain from us once a year, free of charge, information about 
-    the personal information (if any) we disclosed to third parties for direct marketing purposes in the 
-    preceding calendar year. If applicable, this information would include a list of the categories of 
-    personal information that was shared and the names and addresses of all third parties with which we shared 
-    information in the immediately preceding calendar year. If you are a California resident and would like to
-     make such a request, please submit your request in writing to:</p>
-     
-    <p style="margin-top:-20px; margin-left:40px;">
-    Mark Faris<br>
-    Online Privacy Coordinator<br>
-    Gannett Law Department<br>
-    7950 Jones Branch Drive<br>
-    McLean, VA 22107</p>
-    
-    <h2>How We Collect and Use Information</h2>
-    
-    <p>We may collect and store information, including personally identifiable information (such as your name, 
-    postal address or email address) or other information, that you voluntarily supply to us while on our Site.
-     Some examples of this type of information include information that you electronically submit when you 
-     contact us with a request for information.</p>
-     
-    <p>We also collect, through a variety of technologies and practices, and store non-personally identifiable 
-    information that is generated automatically as you navigate through the Site. For example, we may collect 
-    information about your computer's connection to the Internet, which allows us, among other things, to 
-    improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a 
-    standard feature found in browser software called a "cookie" to enhance your experience with the Site. 
-    Cookies are small files that your web browser places on your hard drive for record-keeping purposes. 
-    By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many 
-    unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter 
-    your preferences on certain areas of the Site where you may have entered preference information before. 
-    This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") 
-    to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-    
-    <p>If you want to limit the non-personally identifiable information that is automatically collected 
-    while you use our Site, most Web browsers allow you to disable certain functionality or set certain 
-    privacy settings.  For example, to disable cookies using Internet Explorer, select "Internet Options" 
-    under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies." To disable cookies 
-    using Mozilla Firefox, select "Options" under the "Tools" menu. If you choose to disable cookies or 
-    turn off other functionality, you may not be able to use or participate in some or all of the features 
-    offered through the Site.</p>
-    
-    <p>The information we collect may be collected directly by us, or it may be collected by a third-party 
-    website hosting provider, or another third-party service provider, on our behalf.</p>
-    
-    <p>We use the information we collect from you while you are using the Site in a variety of ways, 
-    including, for example, to process your registration request, provide you with services and communications 
-    that you have requested, send you email updates and other communications, customize features and 
-    advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure 
-    user interests and traffic patterns, and improve the Site and the services and features offered 
-    via the Site.</p>
-    
-    <p>In addition, we may use any information submitted by or collected from you via the Site for any 
-    purpose related to the Site, including to contact you for customer service purposes, to inform you 
-    of important changes or additions to our Site or the services offered over our Site, and to send you 
-    administrative notices and any other communications that we believe may be of interest to you.</p>
-    
-    <p>We also may provide your information to our affiliates or to third parties, including our third party 
-    service providers and contractors, for purposes related to Site administration and other services.</p> 
-    
-    <p>If you do not wish your personally identifiable information to be used or shared for these purposes, 
-    send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this 
-    Privacy Notice.</p>
-
-    <p>Please be aware that we may occasionally release information about our visitors if required to do so 
-    by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal 
-    process; (b) to enforce our <a href="termsofservice.jsp">Terms of Service</a>; or (c) to protect the rights, property, 
-    or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, 
-    our licensors, other users, and/or the public.</p>
-    
-    <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event 
-    that we sell some or all of our assets, or our Site is acquired by another company, information about our 
-    Site users may be among the transferred assets.</p>
-
-    <h2>Children's Privacy Statement</h2>
-    
-    <p>This children's privacy statement explains our practices with respect to the online collection and 
-    use of personal information from children under the age of 13, and provides important information 
-    regarding their rights under federal law with respect to such information.</p>
-    
-    <ul class="standard">
-        <li>This Site is not directed to children under the age of 13 and we do NOT knowingly collect personally 
-        identifiable information from children under the age of 13 as part of the Site. We screen users who wish 
-        to provide personal information in order to prevent users under the age of 13 from providing such 
-        information. If we become aware that we have inadvertently received personally identifiable information 
-        from a user under the age of 13 as part of the Site, we will delete such information from our records.</li> 
         
-        <li>Because we do not collect any personally identifiable information from children under the age 
-        of 13 via the Site, we also do NOT knowingly distribute such information to third parties.</li>
+        <h1>Privacy Notice</h1>
+
+        <p>Last Updated: January 4, 2011</p>
+        
+        <p>We take seriously your interest in how your information is collected and used. Please read the 
+        following to learn about our Privacy Notice.</p>
+        
+        <p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, 
+        it outlines the types of information that we gather about you while you are using the Site, and the 
+        ways in which we use and share this information. This Privacy Notice does not apply to any information 
+        you may provide to us, or that we may collect, offline and/or through other means (for example, at a 
+        live event, via telephone, or through the mail).</p>
+        
+        <p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use 
+        of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice 
+        and our <a href="termsofservice.jsp">Terms of Service</a>. Because the Web is an evolving medium, we may need to 
+        change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy 
+        Notice on this website and update the "Last Updated" date to reflect the date of the changes. By 
+        continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
+        
+        <h2>Your California Privacy Rights</h2>
+    
+        <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers 
+        who are California residents to request and obtain from us once a year, free of charge, information about 
+        the personal information (if any) we disclosed to third parties for direct marketing purposes in the 
+        preceding calendar year. If applicable, this information would include a list of the categories of 
+        personal information that was shared and the names and addresses of all third parties with which we shared 
+        information in the immediately preceding calendar year. If you are a California resident and would like to
+         make such a request, please submit your request in writing to:</p>
          
-        <li>We do NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute 
-        personally identifiable contact information through the Site.</li>
+        <p style="margin-top:-20px; margin-left:40px;">
+        Mark Faris<br>
+        Online Privacy Coordinator<br>
+        Gannett Law Department<br>
+        7950 Jones Branch Drive<br>
+        McLean, VA 22107</p>
+        
+        <h2>How We Collect and Use Information</h2>
+        
+        <p>We may collect and store information, including personally identifiable information (such as your name, 
+        postal address or email address) or other information, that you voluntarily supply to us while on our Site.
+         Some examples of this type of information include information that you electronically submit when you 
+         contact us with a request for information.</p>
          
-        <li>Because we do not collect any personally identifiable information from children under the age 
-        of 13 via the Site, we do NOT condition the participation of a child under 13 in the Site's online 
-        activities on providing personally identifiable information.</li>
-    </ul> 
+        <p>We also collect, through a variety of technologies and practices, and store non-personally identifiable 
+        information that is generated automatically as you navigate through the Site. For example, we may collect 
+        information about your computer's connection to the Internet, which allows us, among other things, to 
+        improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a 
+        standard feature found in browser software called a "cookie" to enhance your experience with the Site. 
+        Cookies are small files that your web browser places on your hard drive for record-keeping purposes. 
+        By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many 
+        unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter 
+        your preferences on certain areas of the Site where you may have entered preference information before. 
+        This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") 
+        to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+        
+        <p>If you want to limit the non-personally identifiable information that is automatically collected 
+        while you use our Site, most Web browsers allow you to disable certain functionality or set certain 
+        privacy settings.  For example, to disable cookies using Internet Explorer, select "Internet Options" 
+        under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies." To disable cookies 
+        using Mozilla Firefox, select "Options" under the "Tools" menu. If you choose to disable cookies or 
+        turn off other functionality, you may not be able to use or participate in some or all of the features 
+        offered through the Site.</p>
+        
+        <p>The information we collect may be collected directly by us, or it may be collected by a third-party 
+        website hosting provider, or another third-party service provider, on our behalf.</p>
+        
+        <p>We use the information we collect from you while you are using the Site in a variety of ways, 
+        including, for example, to process your registration request, provide you with services and communications 
+        that you have requested, send you email updates and other communications, customize features and 
+        advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure 
+        user interests and traffic patterns, and improve the Site and the services and features offered 
+        via the Site.</p>
+        
+        <p>In addition, we may use any information submitted by or collected from you via the Site for any 
+        purpose related to the Site, including to contact you for customer service purposes, to inform you 
+        of important changes or additions to our Site or the services offered over our Site, and to send you 
+        administrative notices and any other communications that we believe may be of interest to you.</p>
+        
+        <p>We also may provide your information to our affiliates or to third parties, including our third party 
+        service providers and contractors, for purposes related to Site administration and other services.</p> 
+        
+        <p>If you do not wish your personally identifiable information to be used or shared for these purposes, 
+        send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this 
+        Privacy Notice.</p>
     
-    <h2>How To Make Changes to Your Information</h2>
+        <p>Please be aware that we may occasionally release information about our visitors if required to do so 
+        by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal 
+        process; (b) to enforce our <a href="termsofservice.jsp">Terms of Service</a>; or (c) to protect the rights, property, 
+        or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, 
+        our licensors, other users, and/or the public.</p>
+        
+        <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event 
+        that we sell some or all of our assets, or our Site is acquired by another company, information about our 
+        Site users may be among the transferred assets.</p>
     
-    <p>If you have any questions about modifying your preference information, please contact us.</p>
- 
-    <h2>Storage of Information</h2>
+        <h2>Children's Privacy Statement</h2>
+        
+        <p>This children's privacy statement explains our practices with respect to the online collection and 
+        use of personal information from children under the age of 13, and provides important information 
+        regarding their rights under federal law with respect to such information.</p>
+        
+        <ul class="standard">
+            <li>This Site is not directed to children under the age of 13 and we do NOT knowingly collect personally 
+            identifiable information from children under the age of 13 as part of the Site. We screen users who wish 
+            to provide personal information in order to prevent users under the age of 13 from providing such 
+            information. If we become aware that we have inadvertently received personally identifiable information 
+            from a user under the age of 13 as part of the Site, we will delete such information from our records.</li> 
+            
+            <li>Because we do not collect any personally identifiable information from children under the age 
+            of 13 via the Site, we also do NOT knowingly distribute such information to third parties.</li>
+             
+            <li>We do NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute 
+            personally identifiable contact information through the Site.</li>
+             
+            <li>Because we do not collect any personally identifiable information from children under the age 
+            of 13 via the Site, we do NOT condition the participation of a child under 13 in the Site's online 
+            activities on providing personally identifiable information.</li>
+        </ul> 
+        
+        <h2>How To Make Changes to Your Information</h2>
+        
+        <p>If you have any questions about modifying your preference information, please contact us.</p>
+     
+        <h2>Storage of Information</h2>
+        
+        <p>All information we gather on our Site is stored within a database to which only we and our hosting 
+        services provider are provided access. However, as effective as the reasonable security measures 
+        implemented by us may be, no physical or electronic security system is impenetrable. We cannot 
+        guarantee the security of our Siteâ€™s servers or databases, nor can we guarantee that information 
+        you supply will not be intercepted while being transmitted to us over the Internet.</p>
     
-    <p>All information we gather on our Site is stored within a database to which only we and our hosting 
-    services provider are provided access. However, as effective as the reasonable security measures 
-    implemented by us may be, no physical or electronic security system is impenetrable. We cannot 
-    guarantee the security of our Site’s servers or databases, nor can we guarantee that information 
-    you supply will not be intercepted while being transmitted to us over the Internet.</p>
+        <h2>Questions Regarding Privacy</h2>
+        
+        <p>If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, 
+        you can contact:</p>
+        
+        <div style="margin-left:40px; padding:0 0 40px 0;">
+        Mark Faris<br>
+        Online Privacy Coordinator<br>
+        Gannett Law Department<br>
+        7950 Jones Branch Drive<br>
+        McLean, VA 22107</div>
 
-    <h2>Questions Regarding Privacy</h2>
-    
-    <p>If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, 
-    you can contact:</p>
-    
-    <div style="margin-left:40px;">
-    Mark Faris<br>
-    Online Privacy Coordinator<br>
-    Gannett Law Department<br>
-    7950 Jones Branch Drive<br>
-    McLean, VA 22107</div>
+    </div>    
 
 </div>
-<div class="clear"></div>
 
-     </div>
+<div id="footer">
+    <div class="footer_int">
+    	<div>
+    		Clients with questions or concerns should contact their Client Services<br> 
+    		representative or email <a href="mailto:support@support.planetdiscover.com">
+    		support@support.planetdiscover.com</a>.
+    	</div>
+    	<div class="footer_links">
+    		<a href="/index.jsp" title="Planet Discover">Home</a> - <a href="/termsofservice.jsp" title="Terms of Service">Terms Of Service</a> - <a href="/privacy.jsp" title="Privacy Notice">Privacy Notice</a> - <a href="/sitemap.jsp" title="Site Map">Site Map</a>
+    	</div>
+    	<div class="copyright">
+    		© 2008-2012 by Planet Discover LLC - All Rights Reserved
+    	</div>
+    </div>
 </div>
 
-<div class="footer_container">
-     <div class="footer_container_int">
-          <p>Clients with questions or concerns should contact their Client Services representative 
-               or email <a href="mailto:support@support.planetdiscover.com">support@support.planetdiscover.com.</a></p>
-          <p><a href="/index.jsp">Home</a> - <img src="/graphics/icon_new.png" width="31" height="9" border="0">&nbsp;<a href="/termsofservice.jsp">Terms Of Service</a> - <img src="/graphics/icon_new.png" width="31" height="9" border="0">&nbsp;<a href="/privacy.jsp">Privacy Notice</a> - <a href="/sitemap.jsp">Site Map</a></p>
-          <div class="copyright">© 2008-2010 by Planet Discover LLC - All rights reserved</div>
-     </div>
-</div>
 
-
-
-</div></body></html>
+</body></html>
