@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123104112id_/http%3A//shop.kmart.com.au/webapp/wcs/stores/servlet/ContentDisplay%3FstoreId%3D10701%26catalogId%3D10051%26langId%3D-1%26t%3DfooterContent%26c%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630082551id_/http%3A//shop.kmart.com.au/webapp/wcs/stores/servlet/ContentDisplay%3FstoreId%3D10701%26catalogId%3D10051%26langId%3D-1%26t%3DfooterContent%26c%3DPrivacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kmart Online Retail
+# Privacy Policy - Kmart
 
 ### Your privacy is important
 
