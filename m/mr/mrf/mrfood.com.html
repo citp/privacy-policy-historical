@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the mrfood.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231214138id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mrfood.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630232320id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
+
 
 			<link rel="canonical" href="http://www.mrfood.com">
 		
@@ -47,7 +48,7 @@
 	
 	<!--<script type="text/javascript" src="/javascript/jquery-1.3.2.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-1.5.2.min.js?v=12"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-1.5.2.min.js?v=1"></script>
 	
 	
 	<!-- load jQuery from Google's CDN service.  --> 
@@ -55,105 +56,84 @@
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=12"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=12" media="screen">
+	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=1"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=1" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=12"></script>
+		<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=1"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.form.js?v=12"></script>
+	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.form.js?v=1"></script>
 	
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/site_functions.js?v=12"></script>
+	<script type="text/javascript" src="http://cf.primecp.com/javascript/site_functions.js?v=1"></script>
 	
 	
 	
 			<!-- START getPageJavascript -->
 					<!-- array count: 3 -->
-					<!-- START my box right rail js -->
+					<!-- START titter js -->
 		<script type="text/javascript">
 		
-			var my_box_right_rail_obj = {};
-			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_myBoxRightCol ready - line: 10222');
+					//alert('getJavascript_topSocialLinks ready line: 8991');
 					
-					my_box_right_rail_obj.hijackForm('myBoxLinkRightCol');
-				}
-			);
-			
-			//---------------
-			
-			my_box_right_rail_obj.hijackForm = function(parent_node_id){
-				switch(parent_node_id){
-					case 'myBoxLinkRightCol':
-						$('.myBoxLinkRightCol form').ajaxForm(
-							{
-								beforeSubmit: my_box_right_rail_obj.preSubmitForm_myBoxLinkRightCol,
-								dataType: 'json',
-								success: function(json){
-									var feedback_div = '';
-									if(json.success == 1){
-										//alert('success');
-										feedback_div = 'You are logged in.';
-										setTimeout('location.reload(true)', 700);
-									}else{
-										feedback_div = 'We could not log you in.';
-									}
-									
-									$('.myBoxLinkRightCol .feedbackDiv').html(feedback_div);
-								},
-								error: function(){
-									//alert('error');
-								},
-								complete: function(){
-									//alert('complete');
-								}
-							}
-						);
-						
-						break; // end myBoxLinkRightCol
+					$('#topSocialLinkMenu .socialButtonTable').show();
 					
 					
-				}
-				
-			}
+					$('#topSocialLinkMenu .fbSocialLinkTd').hover(
+						function () {
+							//$(this).addClass("hover");
+							$('#topSocialLinkMenu .fbSocialLinkTd .fbTooltip').show();
+						},
+						function () {
+							//$(this).removeClass("hover");
+							$('#topSocialLinkMenu .fbSocialLinkTd .fbTooltip').hide();
+						}
+					);
+					
+					
+					
+				} // end main func
+			); // end ready;
 			
-			//---------------
 			
-			my_box_right_rail_obj.preSubmitForm_myBoxLinkRightCol = function(form_data_arr, form_jq_obj, options_obj){
-				//alert('preSubmitForm form_data_arr[1].value: ' + form_data_arr[1].value);
-				
-				var result = true;
-				var errors = [];
-				
-				if($('.myBoxLinkRightCol form input[name=email]').val() == ''){
-					result = false;
-					errors.push('Please enter a value for Email.');
+			/**
+             *twitter
+            */
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0];
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;
+					js.src="//platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
 				}
-				
-				if($('.myBoxLinkRightCol form input[name=password]').val() == ''){
-					result = false;
-					errors.push('Please enter a value for Password.');
-				}
-				
-				if(errors.length > 0){
-					alert( errors.join("\n") );
-				}
-				
-				return result;
-			}
+			}(document,"script","twitter-wjs");
 			
-			//---------------
 			
+			
+			/**
+             *facebook like
+            *
+			(function(d, s, id){
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) {return;}
+				js = d.createElement(s);
+				js.id = id;
+				js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+			*/
+		
 		</script>
-		<!-- END my box right rail js -->
+		<!-- END titter js -->
+		
 				<!-- START login dhtml js -->
 		<script type="text/javascript">
 		
@@ -161,7 +141,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 10313');
+					//alert('getJavascript_loginDhtmlContent ready - line: 14081');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -204,6 +184,37 @@
 					login_dhtml_obj.hijackForm('dhtmlLogin');
 					login_dhtml_obj.hijackForm('dhtmlSignup');
 					login_dhtml_obj.hijackForm('dhtmlForgotPassword');
+					
+					
+					if(window.FB){
+						$('.dhtmlLoginWrapper .facebookLoginButton').click(
+							 function(){
+								 //alert('click facebookLoginButton');
+								 //FB.login();
+								 $(this).fadeTo('normal', 0.3);
+								 $('#dhtmlLogin .feedbackDiv').html('<img src="/images/ajax-loader-bar.gif" alt="Loading" width="220" height="19" />');
+								 
+								 FB.login(
+								 	{
+										scope: 'email'
+									},
+								  	function(response){
+   										// handle the response
+   										var alert_str = 'back from FB.login' + "\n\n";
+   										alert_str += 'response: ' + response + "\n\n";
+   										alert_str += 'response.scope: ' + response.email + "\n\n";
+   										alert_str += 'response.status: ' + response.status + "\n\n";
+   										alert_str += 'response.name: ' + response.name + "\n\n";
+   										//alert(alert_str);
+									}
+								);
+								//login_dhtml_obj.hideLoginDhtmlBox();
+							 }
+						 );
+					}else{
+						$('.dhtmlLoginWrapper .facebookLoginButton').hide();
+					}
+					
 					
 					
 				} // end main func
@@ -254,7 +265,7 @@
 										feedback_div = 'Thank you for registering!';
 										setTimeout('location.reload(true)', 700);
 									}else{
-										feedback_div = 'Sorry, we could not reister you.' + '<br />';
+										feedback_div = 'Sorry, we could not register you.' + '<br />';
 										
 										if(json.errors != undefined){
 											for(e in json.errors){
@@ -1279,11 +1290,11 @@ function getConfirmationPixelContent(success_func_name) {
 				
 				
 				//alert_str += 'confirmationPixelDiv html: ' + $('#confirmationPixelDiv').html();
-				/*
+				
 				if(is_mustang == 1){
 					alert(alert_str);
 				}
-				*/
+				
 				
 			},
 			error: function(XMLHttpRequest, textStatus, errorThrown) {
@@ -1473,32 +1484,181 @@ function triggerWiderFunnel(){
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0004/css/main_styles.css?v=12" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0004/css/main_styles.css?v=1" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0004/css/print_styles.css?v=12" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0004/css/print_styles.css?v=1" type="text/css" media="print">
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_24.css?v=12" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_24.css?v=1" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=12" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=1" media="screen">
 	
 	
 	<!--
 	added by john. needs to be site-agnostic
 	-->
 	<link rel="alternate" title="FaveCrafts.com RSS" href="http://www.favecrafts.com/rss-feed" type="application/rss+xml">
+	
+	
+			<!-- START Facebook Javascript SDK js -->
+		<script type="text/javascript">
+			
+			var facebook_login_obj = {};
+
+			window.fbAsyncInit = function() {
+				FB.init({
+					appId      : '422976864383250', // App ID Favecrafts
+					
+					channelUrl : '//http://www.mrfood.com/channel.php', // Channel File
+					status     : false, // check login status
+					cookie     : true, // enable cookies to allow the server to access the session
+					xfbml      : true  // parse XFBML
+				});
+				
+				// listen for and handle auth.statusChange events
+				FB.Event.subscribe(
+					'auth.statusChange',
+					function(response) {
+						//alert('FB.Event.subscribe');
+						facebook_login_obj.response = response;
+						
+						if (response.authResponse) {
+							//alert('response.authResponse.accessToken:' + response.authResponse.accessToken);
+							
+							// user has auth'd your app and is logged into Facebook
+							FB.api(
+								'/me', 
+								function(me){
+									facebook_login_obj.me = me;
+									/*
+									if (me.name) {
+										document.getElementById('auth-displayname').innerHTML = me.name;
+									}
+									*/
+									var alert_str = 'back from FB.api' + "\n\n";
+									alert_str += 'me: ' + me + "\n\n";
+   									alert_str += 'me.name: ' + me.name + "\n\n";
+   									alert_str += 'me.email: ' + me.email + "\n\n";
+   									alert_str += 'me.error_code: ' + me.error_code + "\n\n";
+   									alert_str += 'me.error_msg: ' + me.error_msg + "\n\n";
+   									//alert(alert_str);
+   									
+   									
+   									//maybe look for error_code??
+   									facebook_login_obj.loginToPrimeViaFb();
+								}
+							);
+							//document.getElementById('auth-loggedout').style.display = 'none';
+							//document.getElementById('auth-loggedin').style.display = 'block';
+							
+							
+						} else {
+							// user has not auth'd your app, or is not logged into Facebook
+							//document.getElementById('auth-loggedout').style.display = 'block';
+							//document.getElementById('auth-loggedin').style.display = 'none';
+						}
+						
+					}
+				);
+		
+				/*
+				// respond to clicks on the login and logout links
+				document.getElementById('auth-loginlink').addEventListener('click', function(){
+				  FB.login();
+				});
+				document.getElementById('auth-logoutlink').addEventListener('click', function(){
+				  FB.logout();
+				}); 
+				*/
+			  
+			};
+		  
+			// Load the SDK Asynchronously
+			(function(d){
+			   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+			   if (d.getElementById(id)) {return;}
+			   js = d.createElement('script');
+			   js.id = id;
+			   js.async = true;
+			   js.src = "//connect.facebook.net/en_US/all.js";
+			   ref.parentNode.insertBefore(js, ref);
+			}(document));
+			
+			
+			facebook_login_obj.loginToPrimeViaFb = function(){
+				var alert_str = 'facebook_login_obj.loginToPrimeViaFb' + "\n";
+				alert_str += 'facebook_login_obj.response.authResponse.accessToken: ' + facebook_login_obj.response.authResponse.accessToken + "\n";
+				alert_str += 'facebook_login_obj.me.email: ' + facebook_login_obj.me.email + "\n";
+				//alert(alert_str);
+				
+				if(
+					facebook_login_obj.response.authResponse.accessToken != undefined  &&
+					facebook_login_obj.me.email != undefined
+				){
+					
+					
+					$.ajax({
+						url: "/ajax_process.php",
+						type: 'GET',
+						cache: false,
+						dataType: "json",
+						timeout: 10000,
+						data: {
+							task: 'fb_user_acct_login',
+							email: facebook_login_obj.me.email,
+							fname: facebook_login_obj.me.first_name,
+							lname: facebook_login_obj.me.last_name,
+							fb_user_id: facebook_login_obj.me.id,
+							access_token: facebook_login_obj.response.authResponse.accessToken
+						},
+						complete: function(){
+							
+						},
+						success: function(json){
+							//alert('loginToPrimeViaFb success');
+							if(json.success == 1){
+								$('#dhtmlLogin .feedbackDiv').html('You are logged in.');
+								if( 1 ){
+									setTimeout('location.reload(true)', 700);
+								}
+							}else{
+								$('#dhtmlLogin .feedbackDiv').html('We could not log you in.');
+								$('.dhtmlLoginWrapper .facebookLoginButton').fadeTo('normal', 1.0);
+							}
+							
+							
+							
+						}
+					});
+				}else{
+					//alert('We are sorry. There was an issue attempting to log you in with Facebook');
+					$('#dhtmlLogin .feedbackDiv').html('We are sorry. There was an issue attempting to log you in with Facebook');
+					$('.dhtmlLoginWrapper .facebookLoginButton').fadeTo('normal', 1.0);
+				}
+
+			}
+			
+		</script>
+		<!-- END Facebook Javascript SDK js -->
+			
+
 </head>
-<body id="site28">
+<body id="site28" itemscope="" itemtype="http://schema.org/Article">
+
+<div id="fb-root"></div>
+
+
+
 
 
 <!--<h1>mrfood.com</h1>-->
 
 
 <div id="printHeader">
-	<img src="/site_templates/0004/images/print-header_sID28.jpg" alt="" width="508" height="74">
+	<img src="/site_templates/0004/images/print-header_sID28.jpg?v=1" alt="" width="650" height="82">
 	<div class="inner1">
 		<div class="inner2"></div>
 	</div>
@@ -1519,15 +1679,11 @@ function triggerWiderFunnel(){
 		
 					<div id="topMenu">
 				<ul>
-					<!--<li><a href="xxx" target="_self" title="My Account" class="current">My Account</a></li>
-					<li><a href="zzz" target="_self" title="My Recipe Box">My Recipe Box</a></li>
-					<li><a href="/section/account/action/login" target="_self" title="Sign In">Sign In</a></li>
-					-->
-					
-											<li><a href="/section/mybox/action/view" target="_self" title="My Recipe Collection" class="" rel="">My Recipe Collection</a></li>
-												<li><a href="/section/subctr" target="_self" title="My Newsletters" class="" rel="">My Newsletters</a></li>
-												<li><a href="/section/account/action/login" target="_self" title="Sign In / Register" class="" rel="primeLoginLink">Sign In / Register</a></li>
-										</ul>
+					<li>							<a href="/section/mybox/action/view" target="_self" title="My Recipe Collection" class="" rel="">
+							My Recipe Collection</a></li><li>							<a href="/section/subctr" target="_self" title="My Newsletters" class="" rel="">
+							My Newsletters</a></li><li>							<a href="/section/account/action/login" target="_self" title="Log In" class="" rel="primeLoginLink">
+							Log In</a></li><li>							<a href="/section/account/action/register" target="_self" title="Register Now" class="" rel="primeRegisterLink">
+							Register Now</a></li>				</ul>
 			</div><!-- end topMenu -->
 					<!--
 		<div id="topMenu">
@@ -1590,7 +1746,7 @@ function triggerWiderFunnel(){
 		<form id="headerSearchForm" action="/" method="get">
 			<input type="hidden" name="task" value="search">
 			
-						<input class="searchField defaultSearchText" type="text" id="search_term" name="search_term" value="What are you searching for?">
+						<input class="searchField defaultSearchText" type="text" id="search_term" name="search_term" value="">
 		
 							<input type="submit" value="Search" class="button">
 							
@@ -1604,8 +1760,19 @@ function triggerWiderFunnel(){
 					</tbody></table><!-- end headerMenu-->
 				</div><!-- end headerMenuDiv -->
 							
-						
 			
+						<div id="headerSubMenuDiv28">
+				<div>
+					<ul class="loginMenu">
+													<li>
+								<a rel="primeLoginLink" class="firstLink" title="Sign In" target="_self" href="/section/account/action/login">Sign In</a>
+							</li>
+							<li>
+								<a rel="primeRegisterLink" class="" title="Join Now" target="_self" href="/section/account/action/register">Join Now</a>
+							</li>
+												</ul>
+				</div>
+			</div>
 		</div><!-- end header -->
 	
 	
@@ -1643,6 +1810,8 @@ function triggerWiderFunnel(){
 										<li class=""><a class="" href="/Fruit-Recipes">Fruit</a>
 											</li>
 										<li class=""><a class="" href="/Meat-Recipes">Meat</a>
+											</li>
+										<li class=""><a class="" href="/Menus">Menus</a>
 											</li>
 										<li class=""><a class="" href="/One-Pots">One-Pots</a>
 											</li>
@@ -1794,76 +1963,28 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 											</td><!-- end col2 -->
 				<td id="col3">
 												<div style="margin: 0 0 10px 0;">
-										<div class="myBoxLinkRightCol">
-			<div class="myBoxLinkRightColHeader">
-				Welcome to Mr. Food.com!			</div>
-			
-			<div style="margin: 20px 0 0 0;">
-			
-									<div class="myBoxActionLinks">
-						<a href="/section/account/action/login/#registerForm" rel="primeRegisterLink">Not a Member?</a><a href="/section/account/action/login/#forgotPasswordAnchor" rel="primeForgotPasswordLink">Forgot Password</a>
-					</div>
-					
-					<form method="post" action="/ajax_process.php">
-						<input type="hidden" value="user_acct_login" name="task">
-							
-						<div style="margin: 0; padding: 0 10px;">
-							<table>
-								<tbody><tr>
-									<td style="padding: 0 5px 0 0;">
-										<label>Email Address</label>
-										<input type="text" name="email" value="">
-									</td>
-									<td style="padding: 0 0 0 5px;">
-										<label>Password</label>
-										<input type="password" name="password" value="">
-									</td>
-								</tr>
-							</tbody></table>
-							<input type="submit" value="LOGIN">
-						</div>
-							
-						<div class="feedbackDiv"></div>
-							
-					</form>
-								</div>
-			
-		</div><!-- end myBoxLinkRightCol -->
-		
-									</div>
-														<div style="margin: 0 0 10px 0;">
-														<!--
-						<a href="http://www.mrfoodshop.com/mr-food-christmas-made-easy.html"><img style="display: block; border: 0;" src="/site_templates/0004/images/MrFood-Blog-Ad.jpg" alt="The Mr. Food Team Blog" width="300" height="94" /></a>
-						-->
-						<a href="http://www.mrfood.com/Fruit-Recipes/Chilean-Blueberries-for-a-Healthy-New-Year"><img style="display: block; border: 0;" src="/site_templates/0004/images/Chilean-blueberries-300x90.jpg" alt="Blueberry Recipes" width="300" height="90"></a>
-													</div>
+															<a href="http://grabandgobar.com/"><img style="display: block; border: 0;" src="/master_images/qvc_ad_images/6-1340642100.jpg" alt="Mr. Food Grab 'n' Go Protein Bar" width="300" height="145"></a>
+														</div>
 														<div style="margin: 0 0 10px 0;">
 															</div>
 														<div style="margin: 0 0 10px 0;">
 											<!-- border was 293f6f -->
 			<div id="latestTvRecipesSiteID28">
-				<!--
-				<div class="h3Wrapper"></div>
-				<h3>Latest TV Recipe</h3>
-				-->
 				<div class="h3Wrapper">
-										<img style="display: block; margin: 0; border: 0;" src="http://cf.primecp.com/site_templates/0004/images/latest-TV-recipe-header_03.png" alt="Latest TV Recipe">
+					<img style="display: block; margin: 0; border: 0;" src="http://cf.primecp.com/site_templates/0004/images/latest-TV-recipe-header_03.png" alt="Latest TV Recipe">
 				</div>
 				
 				<div class="contentBoxPadding" style="text-align: center; color: #293f6f; padding-bottom: 5px;">
 					
-											<div style="background-image: url(/master_images/MrFood/Bite-Sized-Chocolate-Cheesecake-RE.jpg); background-repeat: no-repeat; background-position: center center;">
-							<a style="display: block; margin: 0; padding: 0;" href="/Cheesecakes/Bite-Sized-Chocolate-Cheesecake"><img style="border: 0;" src="http://cf.primecp.com/images/clear_pixel.gif" alt="" width="1" height="188"></a>
+											<div style="background-image: url(/master_images/MrFood/Garden-Herb-Steak-RE--1--.jpg); background-repeat: no-repeat; background-position: center center;">
+							<a style="display: block; margin: 0; padding: 0;" href="/Beef/Garden-Herb-Steak"><img style="border: 0;" src="http://cf.primecp.com/images/clear_pixel.gif" alt="" width="1" height="188"></a>
 						</div>
 											
 					
 					<div style="margin: .5em 0; font-weight: bold;">
-						<a href="/Cheesecakes/Bite-Sized-Chocolate-Cheesecake">Bite Sized Chocolate Cheesecake</a>
+						<a href="/Beef/Garden-Herb-Steak">Garden Herb Steak</a>
 					</div>
 					
-					<!--
-					<a class="btmLink todayVideo" href="/section/this-week">Get Today's Recipe and Video</a>
-					-->
 					<a class="btmLink recentVideo" href="/section/this-week">Recent TV Recipes</a>
 					
 					<div style="clear: both;"></div>
@@ -1871,8 +1992,6 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 				</div>
 				
 			</div><!-- end latestTvRecipes -->
-			
-			
 										</div>
 														<div style="margin: 0 0 10px 0;">
 													<div style="">
@@ -1895,7 +2014,7 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="f0b7393212708bfc62976f8a6db5a9b3">
+					<input type="hidden" name="PHPSESSID" value="bd1f75726c25b0ce92c90b2aa281fc68">
 					
 					<!--
 					<h4>Sign up today...it's absolutely free</h4>
@@ -1947,16 +2066,16 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 				
 				<div style="margin: 0; padding: 0 10px 20px 15px;">
 								<ol>
-									 <li><a href="/Cheesecakes/Chocolate-Chip-Cheesecake-3194/ct/1">Chocolate Chip Cheesecake</a></li>
-					 					 <li><a href="/Appetizers/40-Easy-Holiday-Party-Appetizers-and-Drinks/ct/1">40 Easy Holiday Party Appetizers &amp; Drinks</a></li>
-					 					 <li><a href="/Misc-Desserts/Death-by-Chocolate-From-Mr-Food/ct/1">Death by Chocolate</a></li>
+									 <li><a href="/Editors-Picks/Party-Pleasers-57-Easy-Potluck-Recipes/ct/1">Party Pleasers: 57 Easy Potluck Recipes</a></li>
+					 					 <li><a href="/Cheesecakes/Chocolate-Chip-Cheesecake-3194/ct/1">Chocolate Chip Cheesecake</a></li>
+					 					 <li><a href="/Deli-Salad/56-Divine-Deli-Salad-Recipes/ct/1">56 Divine Deli Salad Recipes</a></li>
+					 					 <li><a href="/Pastas/Amish-Country-Casserole/ct/1">Amish Country Casserole</a></li>
+					 					 <li><a href="/Cakes/Amish-Applesauce-Cake/ct/1">Amish Applesauce Cake</a></li>
+					 					 <li><a href="/Beef/Country-Meat-Loaf-and-Potato-Casserole/ct/1">Country Meat Loaf &amp; Potato Casserole</a></li>
+					 					 <li><a href="/Beef/Dads-Meat-Loaf/ct/1">Dad's Meat Loaf</a></li>
 					 					 <li><a href="/Appetizers/32-Unbelievably-Good-Dip-Recipes/ct/1">32 Unbelievably Good Dip Recipes</a></li>
-					 					 <li><a href="/Bread/Angel-Biscuits-2454/ct/1">Angel Biscuits</a></li>
-					 					 <li><a href="/Cookie-Recipes/Holly-Crackles/ct/1">Holly Crackles</a></li>
-					 					 <li><a href="/Chicken/Easy-Dinner-Pie-1425/ct/1">Easy Dinner Pie</a></li>
-					 					 <li><a href="/Editors-Picks/Party-Pleasers-57-Easy-Potluck-Recipes/ct/1">Party Pleasers: 57 Easy Potluck Recipes</a></li>
-					 					 <li><a href="/Cakes/Christmas-Crunch-Cake-3102/ct/1">Christmas Crunch Cake</a></li>
-					 					 <li><a href="/Pie/Four-Layer-Pecan-Pie/ct/1">Four-Layer Pecan Pie</a></li>
+					 					 <li><a href="/Cakes/Chocolate-Eclair-Cake-by-Mr-Food/ct/1">Chocolate Eclair Cake</a></li>
+					 					 <li><a href="/Cakes/White-Velvet-Cake/ct/1">White Velvet Cake</a></li>
 					 			</ol>
 							</div>
 			</div><!-- end topTen -->
@@ -1976,16 +2095,13 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 				</div>
 							<div class="list">
 				<ul>
-											<li><a href="http://www.mrfood.com/Editors-Picks/12-Days-of-Christmas-Cookies-A-Free-eCookbook-From-Mr-Food/">12 Days of Christmas Cookies</a></li>
-												<li><a href="http://www.mrfood.com/Editors-Picks/25-Scrumptious-Pies-and-Desserts-for-Thanksgiving-and-Beyond-eCookbook">25 Scrumptious Pies &amp; Desserts</a></li>
-												<li><a href="http://www.mrfood.com/Editors-Picks/ABCs-of-Back-to-School-26-Kid-Friendly-Recipes-from-Mr-Food-Free-eCookbook">ABC's of Back-to-School: 26 Kid-Friendly Recipes</a></li>
-												<li><a href="http://www.mrfood.com/Casseroles/Blue-Ribbon-Casseroles-23-Easy-CasseroleRecipes-free-eCookbook">Blue Ribbon Casseroles</a></li>
-												<li><a href="http://www.mrfood.com/Misc-Desserts/Mr-Food-Decadent-Desserts-eCookbook">Decadent Desserts</a></li>
-												<li><a href="http://www.mrfood.com/Chicken/Mr-Food-Light-Simple-and-Tasty-Recipes-free-eCookbook">Light, Simple &amp; Tasty Recipes</a></li>
-												<li><a href="http://www.mrfood.com/Misc-Breakfast-Recipes/Mr-Food-Best-Brunch-Recipes-29-Easy-Brunch-Recipes-to-Celebrate-Any-Occasion-Free-eCookbook">Mr. Food Best Brunch Recipes</a></li>
+											<li><a href="http://www.mrfood.com/Misc-Desserts/Mr-Food-Decadent-Desserts-eCookbook">Decadent Desserts</a></li>
+												<li><a href="http://www.mrfood.com/Chicken/Piece-by-Piece-Easy-Chicken-Recipes-Drumsticks-Thighs/">Easy Chicken Recipes</a></li>
+												<li><a href="http://www.mrfood.com/Editors-Picks/Lighten-Up-20-Tasty-and-Healthy-Recipes-for-the-New-Year-from-MrFood">Lighten Up!</a></li>
 												<li><a href="http://www.mrfood.com/Misc-Desserts/No-Bake-Desserts-18-Easy-Dessert-Recipes-from-Mr-Food-Free-eCookbook">No Bake Desserts</a></li>
+												<li><a href="http://www.mrfood.com/Pancake-and-Waffle-Recipes/Perfectly-Easy-Pancakes-Simple-Pancake-Recipes/">Perfectly Easy Pancakes</a></li>
+												<li><a href="http://www.mrfood.com/Deli-Salad/Simply-Deli-Salads-Best-Recipes-Potato-Salad-Macaroni-Salad-Mr-Food/">Simply Deli Salads</a></li>
 												<li><a href="http://www.mrfood.com/Slow-Cooker-Recipes/Slow-Cookin-Magic-28-Scrumptious-Slow-Cooker-Recipes-from-Mr-Food-Free-eCookbook/">Slow Cookin' Magic</a></li>
-												<li><a href="http://www.mrfood.com/Editors-Picks/Spooky-Treats-and-Party-Eats-34-Halloween-Recipes-from-Mr-Food-Free-eCookbook/">Spooky Treats and Party Eats</a></li>
 										</ul>
 			</div>
 		</div><!-- end eBooksRightCol -->
@@ -2001,14 +2117,15 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 	
 		<div id="footer">
 			
-								<div style="margin: 0; ">
+								<div style="margin: 0;">
 									<p id="footerMenu">
 									<a style="border: 0;" href="http://mrfood.co/">About Mr. Food</a>
 										<a href="/index.php/hct/Advertise-on-MrFood">Advertise on MrFood.com</a>
-										<a href="http://www.mrfood.com/index.php/hct/contact_us_page">Contact Us</a>
 										<a href="/index.php/hct/FAQs">FAQ</a>
-										<a href="/index.php/hct/Press-Room">Press Room</a>
+										<a href="http://www.mrfood.com/index.php/hct/contact_us_page">Contact Us</a>
 										<a href="/index.php/hct/privacy_policy">Privacy Policy</a>
+										<a href="/index.php/hct/Press-Room">Press Room</a>
+										<a href="/keywords">Keyword Index</a>
 										<a href="/index.php/hct/terms_service">Terms of Service</a>
 										<a href="/index.php/hct/MrFood-Sponsors">Special Thanks</a>
 										<a href="http://www.mrfood.com/section/this-week">Today's Recipe</a>
@@ -2022,19 +2139,19 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 		<p id="footerMenu">bb<a style="border: 0;" href="/index.php/hct/about_us">About Us</a><a href="/index.php/hct/advertise">Advertise</a><a href="/index.php/hct/privacy_policy">Privacy Policy</a><a href="/index.php/hct/contact_us_page">Contact Us</a><a href="/index.php/hct/terms_service">Terms of Service</a><a class="contestRulesLink" href="">Rules</a>mm</p>
 		-->
 							</div>
-									<div style="margin: 0; ">
+									<div style="margin: 0;">
 								
 		<table style="margin: 0 auto;">
 			<tbody><tr>
 				<td>
 					<p style="margin: 0 10px;">Mr. Food, OOH IT'S SO GOOD!! and the Mr. Food likeness are trademarks of Ginsburg Enterprises Incorporated.<br>
-© 2011 by Ginsburg Enterprises Incorporated.<br>
+© 2012 by Ginsburg Enterprises Incorporated.<br>
 All rights reserved.<br></p>
 				</td>
 									<td>				<script type="text/javascript" language="JavaScript">
 					glam_affiliate_id = '1620726456';
-					glam_logo_type = 'GLiving';
-					glam_logo_size = '160x24';
+					glam_logo_type = 'Foodie';
+					glam_logo_size = '160x48';
 					color_or_grayscale_flag ='';
 					glam_logo_color = 'wht';
 					glam_gs_logo_color = 'wht';
@@ -2068,7 +2185,7 @@ All rights reserved.<br></p>
 	
 	
 <div id="printFooter">
-	<img src="/site_templates/0004/images/print-footer_sID28.jpg" alt="" width="308" height="135">
+	<img src="/site_templates/0004/images/print-footer_sID28.jpg" alt="" width="500" height="75">
 </div><!-- end printFooter -->
 
 
@@ -2083,25 +2200,41 @@ All rights reserved.<br></p>
 				<form action="/ajax_process.php" method="post">
 					<input type="hidden" name="task" value="user_acct_login">
 					
-					<div style="float: left; width: 48%;">
-						<div class="formFieldDiv">
-							<label>Email:</label>
-							<input type="text" value="" name="email">
+					<div style="margin: 0 auto 60px auto; width: 60%;">
+						<div>
+							<div class="formFieldDiv">
+								<label>Email:</label>
+								<input type="text" value="" name="email">
+							</div>
 						</div>
-					</div>
-					
-					<div style="float: right; width: 48%;">
-						<div class="formFieldDiv">
-							<label>Password:</label>
-							<input type="password" value="" name="password">
+						
+						<div>
+							<div class="formFieldDiv">
+								<label>Password:</label>
+								<input type="password" value="" name="password">
+							</div>
 						</div>
+						
+						<div style="text-align: right;">
+							<input type="submit" value="Log In">
+						</div>
+						
+						<div class="feedbackDiv"></div>
+						
 					</div>
 					
-					<div style="text-align: right; clear: both;">
-						<input type="submit" value="Log In">
+					
+					
+					<div class="facebookLoginButton" style="margin: 0 auto; padding: 7px 10px; width: 80%; background-color: #375895; border-radius: 5px; color: #fff; font-size: 1.2em; cursor: pointer;">
+						<a style="display: inline-block; background-image: url(/images/facebook-icons-sprite.png); background-position: 0 -127px; background-repeat: no-repeat; background-size: 50px auto; border-radius: 10px 10px 10px 10px;  height: 50px; line-height: 50px; margin-right: 12px; width: 50px;">&nbsp;</a>
+						Login with Facebook
 					</div>
 					
-					<div class="feedbackDiv"></div>
+					
+										
+					
+					
+					
 					
 				</form>
 				
@@ -2138,10 +2271,7 @@ All rights reserved.<br></p>
 								<input type="text" value="" name="lname">
 							</div>
 		
-							<div class="formFieldDiv">
-								<label>Zip Code:</label>
-								<input type="text" value="" name="zip">
-							</div>
+														
 							
 							<div class="formFieldDiv">
 								<label>Email:</label>
@@ -2165,6 +2295,12 @@ All rights reserved.<br></p>
 						<div class="feedbackDiv"></div>
 		
 				</form>
+				
+				<div class="facebookLoginButton" style="margin: 2em auto 0 auto; padding: 7px 10px; width: 80%; background-color: #375895; border-radius: 5px; color: #fff; font-size: 1.2em; cursor: pointer;">
+						<a style="display: inline-block; background-image: url(/images/facebook-icons-sprite.png); background-position: 0 -127px; background-repeat: no-repeat; background-size: 50px auto; border-radius: 10px 10px 10px 10px;  height: 50px; line-height: 50px; margin-right: 12px; width: 50px;">&nbsp;</a>
+						Join Through Facebook
+				</div>
+					
 			</div>
 			<!-- end dhtmlSignup -->
 		</div>
@@ -2301,7 +2437,7 @@ All rights reserved.<br></p>
 								</div><!-- end formContent -->
 							</form>
 							
-							<h4 id="newsletterSignUpThanksAnime" style="display: none;">newsletterSignUpThanksAnime thanks</h4>
+							<h4 id="newsletterSignUpThanksAnime" style="display: none;">Thanks for signing up</h4>
 							<h4 id="newsletterSignUpErrorAnime" style="display: none;">* Please enter your email address to sign up *</h4>
 							
 						</div><!-- end errorDiv -->
