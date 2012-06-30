@@ -1,47 +1,21 @@
-> *The following text is extracted and transformed from the detectinvisible.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019164055id_/http%3A//detectinvisible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detectinvisible.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630173044id_/http%3A//detectinvisible.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | DetectInvisible.com
+# Privacy Policy
 
-Your privacy is of extreme importance to us. This privacy policy outlines what personal information is collected and how it is used.
+This website isn't an affiliate or related in any way with Yahoo.com or any other website.
 
-  
+Your privacy is extremely important to us. Here, in this [privacy policy](https://web.archive.org/privacy-policy.php) you can read about how and what personal information is collected, or not and how it's used by us and third parties. 
 
+**Log Files**  
+As many other web servers, [Detect Invisible](https://web.archive.org/) is using log files during its operations. Information in this log files include, among others, IP addresses, browser details, timestamps and referring pages. These information or any other can't be used to personally identify users of this website. All information are collected and tracked with the sole purpose of routine administration and maintenance. 
 
-## Log Files
+**Cookies and Web Beacons**
 
-Like many other web servers, Detectinvisible.com uses log files. The information inside them include, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+Third parties like advertising partners and others may use cookies, scripts and web beacons in order to track visitors to our website with the purpose of displaying their advertisements and other useful information. These tracings are done by the third party directly via their own servers and it is the subject of their own guidelines and privacy policies. Detectinvisible.com has no information, control nor access over these cookies used by third parties and/or advertisers. 
 
-  
+**Controlling Your Privacy**  
+If you do not feel comfortable with the upper mentioned, you are able to disable these cookies through your browser settings. This is not recommended to do for all websites by default, as it may interfere with your browsing experience, it is recommended that you disable/enable cookies for each website, one by one. Please consult your browser documentation for more information and for instructions on how to disable these cookies and block tracking mechanisms. 
 
+**DoubleClick DART Cookies**
 
-## Cookies and Web Beacons
-
-We only use session cookies on our [contact](https://web.archive.org/contact/ "Contact us") page for captcha image validation.
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. Detectinvisible.com has no access to or control over these cookies that are used by third-party advertisers.
-
-  
-
-
-## Controlling Your Privacy
-
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
-
-  
-
-
-## DoubleClick DART Cookie
-
-Google, as a third party vendor, uses cookies to serve ads on Detectinvisible.com.  
-Google's use of the DART cookie enables it to serve ads to users based on their visit to Detectinvisible.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
-
-  
-
-
-## Contact Information
-
-Concerns or questions about this privacy policy can be directed to Detectinvisible.com using our [contact form](https://web.archive.org/contact/ "Contact us").
-
-  
-
+Google is a third party vendor, and as such it uses cookies to serve ads on detectinvisible.com. Google is using DART cookies to be able to serve ads to users based on their visits to our website and other websites. Users may choose to block these cookies by visiting the Google ad and content network privacy policy here: <http://www.google.com/privacy_ads.html>
