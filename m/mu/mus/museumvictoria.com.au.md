@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122044021id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233834id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
 
 # Privacy: Museum Victoria
 
@@ -39,8 +39,10 @@ If you provide us with personal information about someone else, for example in
     * It is your choice to provide street address details. If you provide these they may be used as an additional contact and/or additional validation for any ticket queries
     * If you select the ‘receive news and updates from Museum Victoria’ option you agree to receive regular e-mail updates from Museum Victoria. Museum Victoria does not sell, rent or lease its customer lists to third parties. Museum Victoria may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party.
     * If, however, in an MV website you elect to receive information on future events directly from other parties, then we will provide those parties with your contact details to enable those parties to contact you.
+    * If you select the 'receive news and updates from MV option', from time to time, we may provide your contact details to a third party to sell tickets on our behalf.  In this case, the third party's Privacy Policy will also apply.
 
-  
+
+
 Please note that Museum Victoria stores the above personal information on our system. Access to this data is security controlled. Please also note that your credit card transactions are processed by a Payment Card Industry Data Security Standard (PCIDSS) compliant hosted secure service. For further information relating to PCIDSS please refer to: [PCI Security Standards Organisation](https://www.pcisecuritystandards.org/).
 
 We won’t send you any e-mails unless you tell us you want them.
