@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223113id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234115id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Privacy Statement
 
 | 
 
-[](http://realtytimes.com/rss)  
+[](http://www.facebook.com/share.php?u=http://realtytimes.com/rtpages/privacy.htm)    [](http://twitter.com/share?url=http://realtytimes.com/rtpages/privacy.htm)    [](http://realtytimes.com/rss)  
 
 
 Privacy Statement 
@@ -74,7 +74,7 @@ The Privacy Notice posted on this site was updated on or about August 15, 2011.
   
 
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\RealtorDotCom_Banner_C6&LINK=http://www.topproducer.com/tp-mobileb/default.aspx?utm_source=rltytimes&utm_medium=banner&utm_content=teaser&utm_campaign=mobile)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\YourMarketOnlineC1&LINK=http://YourMarketOnline.com)
 
 |    
 
@@ -83,28 +83,28 @@ Real Estate News Network
 
 [ ](http://www.adobe.com/go/getflashplayer)
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\WebcastCity_Sponsor_C1&LINK=http://WebcastCity.com/)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Sponsor_C3&LINK=http://info.housevalues.com/form/1861)
 
 **Mortgage Rates**  
-30 Year Fixed: 3.95%  
-15 Year Fixed: 3.24%  
-1 Year Adj: 2.78%  
+30 Year Fixed: 3.66%  
+15 Year Fixed: 2.94%  
+1 Year Adj: 2.74%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines 08/10/2006  
 
 
-  * [Agents: Selling a Home During Cold Weather](https://web.archive.org/rtpages/20111230_cold.htm)
-  * [Keep Your Eyes On These Real Estate Markets In 2012](https://web.archive.org/rtpages/20111230_markets.htm)
-  * [Mortgage Rates Finish 2011 Near Historic Lows](https://web.archive.org/rtpages/20111230_rates.htm)
-  * [Establishing Your Own Board of Directors](https://web.archive.org/rtpages/20111230_directors.htm)
-  * [Real Estate Marketing Strategies: 5 Tips to Turning a Resolution into a Reality](https://web.archive.org/rtpages/20111229_resolutions.htm)
-  * [Mortgage Rate Myths Can Offset The Advantages of Record Low Rates](https://web.archive.org/rtpages/20111229_myths.htm)
-  * [Homes and New Babies](https://web.archive.org/rtpages/20111229_babies.htm)
-  * [Keeping New Year's Resolutions](https://web.archive.org/rtpages/20111228_resolutions.htm)
-  * [Ask The HOA Expert](https://web.archive.org/rtpages/20111228_hoaexpert.htm)
-  * [Investors: Wi-Fi Yields Obvious Results](https://web.archive.org/rtpages/20111228_wifi.htm)
+  * [Fixed Mortgage Rates Match All-time Record Lows](https://web.archive.org/rtpages/20120629_freddierates.htm)
+  * [Three Areas of Your Business](https://web.archive.org/rtpages/20120629_yourbusiness.htm)
+  * [Landlord Success Tips](https://web.archive.org/rtpages/20120629_landlordtips.htm)
+  * [Curb Appeal = Cash Equal: Making Lawn Care a Priority](https://web.archive.org/rtpages/20120628_lawncare.htm)
+  * [10 Great Shade-Loving Plants](https://web.archive.org/rtpages/20120628_shadeplants.htm)
+  * [Rent vs. Buy Decision More Than A Question of Affordability](https://web.archive.org/rtpages/20120628_rentvsbuy.htm)
+  * [Picking The Right Neighborhood](https://web.archive.org/rtpages/20120627_rightneighborhood.htm)
+  * [Housing Activity Improves as Low Mortgage Rates Continue](https://web.archive.org/rtpages/20120627_rateupdate.htm)
+  * [Ask the HOA Expert](https://web.archive.org/rtpages/20120627_hoaexpert.htm)
+  * [It's My Neighbourhood, But Who's in Charge?](https://web.archive.org/rtpages/20120626_neighborhood.htm)
 
   
 
@@ -114,4 +114,5 @@ Today's Headlines 08/10/2006
 Spotlight 
 
   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\RealtorDotCom_Spotlight_C6&LINK=http://www.topproducer.com/tp-mobileb/default.aspx?utm_source=rltytimes&utm_medium=banner&utm_content=teaser&utm_campaign=mobile)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Spotlight_C27&LINK=http://success.marketleader.com/freeleads2012?lsr=RTI-BanAd-FreeLeads-0118312012&del=MLCallBack)   
+
