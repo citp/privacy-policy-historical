@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacpm.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211523id_/http%3A//www.mediacpm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacpm.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630175440id_/http%3A//www.mediacpm.com/privacy.php) for the most accurate reproduction.*
 
 # Mediacpm - web advertising & publishing
 
@@ -77,3 +77,5 @@ We may change this Privacy Policy from time to time based on your comments and o
 If you have any questions, comments, criticisms, or complaints about Mediacpm.com's Privacy Policy, please feel free to Contact Us . Customer Service representatives are available to assist you Monday through Friday from 9:00 a.m. to 5:00 p.m. EDT. 
 
 Please read our Terms and Conditions carefully before using this website. 
+
+**Copyright © 2012 Mediacpm.com | All rights reserved. | Registered[Jersey CI Company](https://www.jerseyfsc.org/registry/documentsearch/NameDetail.aspx?id=286243) **
