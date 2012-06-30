@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wiiware-world.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213121id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiiware-world.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112002id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
 
-# Nintendo Life - Privacy Policy
+# Privacy Policy - Nintendo Life
 
 This privacy policy sets out how "Nintendo Life" uses and protects any information that you give "Nintendo Life" when you use this website.
 
 "Nintendo Life" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-"Nintendo Life" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 22nd Jul, 2010.
+"Nintendo Life" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 26th May, 2012.
 
 ## What we collect
 
@@ -59,6 +59,17 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Nintendo Life, c/o Unit 8, Loughborough Technology Centre, LE11 3GE, United Kingdom.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Nintendo Life, c/o Unit 3, Loughborough Technology Centre, LE11 3GE, United Kingdom.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+ **See Also:**
+
+  * [Scoring Policy](http://www.nintendolife.com/scoring)
+  * [Advertising Policy](http://www.nintendolife.com/advertising-policy)
+  * [Community Rules](http://www.nintendolife.com/rules)
+  * [Terms of Use](http://www.nintendolife.com/terms)
+
+
+
+_Last Updated: Sat 26th May, 2012_
