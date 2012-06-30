@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002438id_/http%3A//www.danfoss.com/Terms/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630144313id_/http%3A//www.danfoss.com/Terms/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Danfoss
 
@@ -16,8 +16,8 @@ By using Danfoss' Site, you consent to the collection and use of your informatio
 **Accessing and Updating Personal Information for Registered Users**   
 Danfoss needs your help to ensure that the personal information you provide to Danfoss is correct and up-to-date. You should immediately notify Danfoss of any changes to your name, address, company, phone number, or email address to enable us to make changes to your registered user profile. 
 
-**How Danfoss Internet use cookies  
-** Danfoss is aware of its responsibility to society in general and to our individual customers and web site visitors in particular. 
+**How Danfoss Internet use cookies   
+**Danfoss is aware of its responsibility to society in general and to our individual customers and web site visitors in particular. 
 
 We respect the privacy of personal data and the concerns that visitors may have about the use of their data. In those cases where we collect and use personal data (name, address, contact information), we apply the very best practices such as double opt-in etc. 
 
@@ -39,7 +39,6 @@ Compass Cookie: |  | Functionality purpose (Internal use only)
   
 Decom login: |  | Functionality purpose (login for Danfoss eCommerce)   
   
-Kampyle Feedback Analytics: |  | Tracking how a visitor interacts with our feedback form. For more information please refer to [Kampyle Cookies](http://forums.kampyle.com/viewtopic.php?f=21&t=6994&p=7665).  
   
 If you want to make use of Danfoss Internet and cannot accept the use of these cookies, we will ask you to deactivate the use of cookies within your browser settings. 
 
