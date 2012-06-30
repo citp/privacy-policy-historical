@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203135id_/http%3A//www.zmanda.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110442id_/http%3A//www.zmanda.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Zmanda Privacy Policy
 
-Zmanda, Inc. ("Zmanda") has created this privacy policy to demonstrate our firm commitment to privacy. This policy sets forth our information gathering and dissemination practices for the [www.zmanda.com](http://www.zmanda.com/), [forums.zmanda.com](http://forums.zmanda.com/) and [wiki.zmanda.com](http://wiki.zmanda.com/) sites (collectively, the "Websites"). This policy does not apply to the practices of third parties that Zmanda does not own or control, or to individuals Zmanda does not employ or manage.
+Zmanda, Inc. ("Zmanda") has created this privacy policy to demonstrate our firm commitment to privacy. This policy sets forth our information gathering and dissemination practices for the [www.zmanda.com](http://www.zmanda.com/), [network.zmanda.com](http://network.zmanda.com/), [forums.zmanda.com](http://forums.zmanda.com/) and [wiki.zmanda.com](http://wiki.zmanda.com/) sites (collectively, the "Websites"). This policy does not apply to the practices of third parties that Zmanda does not own or control, or to individuals Zmanda does not employ or manage.
 
 ## General Information
 
@@ -12,7 +12,7 @@ Zmanda respects the privacy of our customers, business partners and employees. W
 
 This Privacy Policy applies to all information collected by or submitted to Zmanda, including personal information, that Zmanda collects when you are on the Websites or when you use the Zmanda services. "Personal information" is data that reasonably can be used to identify or describe an individual. For example, Zmanda collects personal information when:
 
-  * you create a user account to become a member of [forums.zmanda.com](http://forums.zmanda.com/) and [wiki.zmanda.com](http://wiki.zmanda.com/)
+  * you create a user account to become a member of [forums.zmanda.com](http://forums.zmanda.com/), [network.zmanda.com](http://network.zmanda.com/) and [wiki.zmanda.com](http://wiki.zmanda.com/)
   * you register for webcasts
   * you request information or materials (e.g., white papers)
   * you participate in surveys and evaluations
@@ -88,7 +88,7 @@ For your protection, Zmanda may contact you in the event that we find an issue w
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Our website automatically captures IP addresses and we use IP addresses to help diagnose problems with our server, to administer our Websites, and to help ensure the security of your interaction with our Websites. Your IP address may also be used to help identify you.
 
-As part of offering and providing customizable and personalized services, Zmanda uses cookies to store and sometimes track information about your usage of our services and the Websites. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All sections of [www.zmanda.com](http://www.zmanda.com/), [forums.zmanda.com](http://forums.zmanda.com/) and [wiki.zmanda.com](http://wiki.zmanda.com/) where you are prompted to log in or that are customizable require your browser to accept cookies.
+As part of offering and providing customizable and personalized services, Zmanda uses cookies to store and sometimes track information about your usage of our services and the Websites. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All sections of [www.zmanda.com](http://www.zmanda.com/), [network.zmanda.com](http://network.zmanda.com/), [forums.zmanda.com](http://forums.zmanda.com/) and [wiki.zmanda.com](http://wiki.zmanda.com/) where you are prompted to log in or that are customizable require your browser to accept cookies.
 
 If you do not want your personal information to be stored by cookies, you can configure your browser so that it always rejects these cookies or asks you each time if you accept them or not. However, you must understand that the use of cookies may be necessary to provide certain products or services, and choosing to reject cookies will reduce the performance and functionality of the site. Your browser documentation includes precise instructions explaining how to define the acceptance of cookies.
 
@@ -116,8 +116,9 @@ Zmanda, Inc. gives you the ability to access, modify or update your information 
 
 If you have any questions about any of these practices or Zmanda, Inc. use of your personal information, please feel free to contact us feedback (at) zmanda.com, or by mail at:   
 Zmanda, Inc.   
-505 N. Mathilda Ave. #120   
-Sunnyvale, CA 94085 
+465 S. Mathilda Ave. Suite 300   
+Sunnyvale, CA 94086   
+USA 
 
 Zmanda will work with you to resolve any concerns you may have about this Privacy Policy.
 
