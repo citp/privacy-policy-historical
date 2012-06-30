@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrons.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128080311id_/http%3A//online.barrons.com/public/page/privacy_policy.html%3Fmod%3Dpptophat) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrons.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630030615id_/http%3A//online.barrons.com/public/page/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Barrons.com
 
