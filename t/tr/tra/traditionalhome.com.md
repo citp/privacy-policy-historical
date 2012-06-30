@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090613id_/http%3A//www.traditionalhome.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630130802id_/http%3A//www.traditionalhome.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Traditional Home®
+
+**Our Online Privacy Policy will be updated effective April 5, 2012.  
+Click [here](http://www.meredith.com/privacy.html) to view the new policy.**
 
   * Online Privacy Policy
   * [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html)
