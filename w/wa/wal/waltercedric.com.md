@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waltercedric.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228052652id_/http%3A//www.waltercedric.com/legal/privacy.php%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waltercedric.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630093154id_/http%3A//www.waltercedric.com/legal/privacy.php) for the most accurate reproduction.*
 
 # None
 
