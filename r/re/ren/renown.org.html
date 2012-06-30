@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the renown.org privacy policy that was archived on 2011-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111028234608id_/http%3A//www.renown.org/body.cfm%3Fid%3D114) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the renown.org privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630035932id_/http%3A//www.renown.org/body.cfm%3Fid%3D114) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -23,20 +23,22 @@
 		<![endif]-->
 <meta name="google-site-verification" content="jAcsc-BpcxX-Tgo4EYxPXP4zitnxx_2Tfe_xuXWyo_s">
 
-     <!-- 
-	 Build Date: 1/12/2011 1:52:51 PM
-SiteMaker Release: SM7.1
+<!-- PAGE ID:114 -->
 
-Code created by:
+<!-- 
+Build Date: 10/5/2011 3:52:20 PM
+SiteMaker Release:SM7.2.9
+
 Medseek, Inc.
 2028 Village Lane
 Solvang, CA. 93463
 Phone 1-888 MEDSEEK
 email info@medseek.com
 http://www.medseek.com
+
 (c) 1999-2011 Medseek, Inc. All rights reserved.
-	 -->
-   
+ -->
+
 				
 <script type="text/javascript">
 //<!--
@@ -111,6 +113,37 @@ function nbMouseover(img_name, orig_src, img_key) {
 		}
 	}
 	return true;
+}
+
+function navbarMouseover(bar,linkId,row){
+	var ListElement = document.getElementById('Link1_' + bar);
+	var ItemElement = document.getElementById('Link2_' + bar + '_' + linkId);
+	var LinkElement = document.getElementById('Link3_' + bar + '_' + linkId);
+	var theClass = ' hover';	
+	if(ListElement){
+		ListElement.className = ListElement.className + theClass;
+	}
+	if(ItemElement){
+		ItemElement.className = ItemElement.className + theClass;
+	}
+	if(LinkElement){
+		LinkElement.className = LinkElement.className + theClass;
+	}
+}
+function navbarMouseout(bar,linkId,row){
+	var ListElement = document.getElementById('Link1_' + bar + '_' + row);
+	var ItemElement = document.getElementById('Link2_' + bar + '_' + linkId);
+	var LinkElement = document.getElementById('Link3_' + bar + '_' + linkId);
+	var theClass = ' hover';	
+	if(ListElement){
+		ListElement.className = ListElement.className.replace(theClass,"");		
+	}
+	if(ItemElement){
+		ItemElement.className = ItemElement.className.replace(theClass,"");
+	}
+	if(LinkElement){
+		LinkElement.className = LinkElement.className.replace(theClass,"");
+	}
 }
 
 var NavBarTempOnload = null;
@@ -357,7 +390,7 @@ function NavBar_openadmin() {
 window.onload = FullyLoaded;
 //-->
 </script>
-					
+						
 <script type="text/javascript">
 //<!--
 function NavBar_setCookie(cookievalue,navVersion,linkID) 
@@ -886,7 +919,7 @@ Shadowbox.init();
 <div class="content" style="opacity: 0;">Based in Reno, Nevada, Renown Health continues to be the regional healthcare leader, serving a 17-county region comprised of northern Nevada, Lake Tahoe and northeast California. Renown is Reno’s only locally owned, not-for-profit health network offering more services than all other local healthcare networks combined.</div>
 <div class="locations" style="opacity: 0;">
 <div class="threecolumn first"><strong>Regional Medical Center</strong><br><a href="javascript: trayOpenLocation_SM('regional_medical_center');">1155 Mill Street</a><br><br><strong>Children's Hospital</strong><br><a href="javascript: trayOpenLocation_SM('childrens_hospital');">1155 Mill Street</a><br><br><strong>Rehabilitation Hospital</strong><br><a href="javascript: trayOpenLocation_SM('rehabilitation_hospital');">1495 Mill Street</a><br><br><strong>South Meadows Medical Center</strong><br><a href="javascript: trayOpenLocation_SM('south_meadows_medical_center');">10101 Double R Boulevard</a><br><br><strong>Skilled Nursing</strong><br><a href="javascript: trayOpenLocation_SM('skilled_nursing');">1835 Oddie Boulevard</a><br><br><strong>Carson Valley Medical Center</strong><br><a href="javascript: trayOpenLocation_SM('carson_valley_medical_center');">1107 Highway 395</a></div>
-<div class="threecolumn"><strong>Emergency Rooms</strong><br><a href="javascript: trayOpenLocation_SM('emergency_rooms');">3 convenient locations</a><br><br><strong>Urgent Care</strong><br><a href="javascript: trayOpenLocation_SM('urgent_care');">7 convenient locations</a><br><br><strong>Medical Group</strong><br><a href="javascript: trayOpenLocation_SM('medical_group');">16 convenient locations </a><br><br><strong>X-Ray &amp; Imaging</strong><br><a href="javascript: trayOpenLocation_SM('x-ray_and_imaging');">10 convenient locations</a><br><br><strong>Lab Services</strong><br><a href="javascript: trayOpenLocation_SM('lab_services');">10 convenient locations</a></div>
+<div class="threecolumn"><strong>Emergency Rooms</strong><br><a href="javascript: trayOpenLocation_SM('emergency_rooms');">3 convenient locations</a><br><br><strong>Urgent Care</strong><br><a href="javascript: trayOpenLocation_SM('urgent_care');">8 convenient locations</a><br><br><strong>Medical Group</strong><br><a href="javascript: trayOpenLocation_SM('medical_group');">15 convenient locations </a><br><br><strong>X-Ray &amp; Imaging</strong><br><a href="javascript: trayOpenLocation_SM('x-ray_and_imaging');">10 convenient locations</a><br><br><strong>Lab Services</strong><br><a href="javascript: trayOpenLocation_SM('lab_services');">10 convenient locations</a></div>
 <div class="threecolumn last"><strong>Center for Advanced Medicine B</strong><br><a href="javascript: trayOpenLocation_SM('center_for_advanced_medicine_b');">1500 E. 2nd Street</a><br><br><strong>Center for Advanced Medicine C</strong><br><a href="javascript: trayOpenLocation_SM('center_for_advanced_medicine_c');">75 Pringle Way</a><br><br><strong>Institute for Heart &amp; Vascular Health</strong><br><a href="javascript: trayOpenLocation_SM('institute_for_heart_and_vascular_health');">1155 Mill Street</a><br><br><strong>Institute for Cancer</strong><br><a href="javascript: trayOpenLocation_SM('institute_for_cancer');">1155 Mill Street</a></div>
 </div> </div>
      <div class="location_data">
@@ -894,7 +927,7 @@ Shadowbox.init();
 <div class="content" style="opacity: 0;">Based in Reno, Nevada, Renown Health continues to be the regional healthcare leader, serving a 17-county region comprised of northern Nevada, Lake Tahoe and northeast California. Renown is Reno’s only locally owned, not-for-profit health network offering more services than all other local healthcare networks combined.</div>
 <div class="locations" style="opacity: 0;">
 <div class="threecolumn first"><strong>Regional Medical Center</strong><br><a href="javascript: trayOpenLocation_SM('regional_medical_center');">1155 Mill Street</a><br><br><strong>Children's Hospital</strong><br><a href="javascript: trayOpenLocation_SM('childrens_hospital');">1155 Mill Street</a><br><br><strong>Rehabilitation Hospital</strong><br><a href="javascript: trayOpenLocation_SM('rehabilitation_hospital');">1495 Mill Street</a><br><br><strong>South Meadows Medical Center</strong><br><a href="javascript: trayOpenLocation_SM('south_meadows_medical_center');">10101 Double R Boulevard</a><br><br><strong>Skilled Nursing</strong><br><a href="javascript: trayOpenLocation_SM('skilled_nursing');">1835 Oddie Boulevard</a><br><br><strong>Carson Valley Medical Center</strong><br><a href="javascript: trayOpenLocation_SM('carson_valley_medical_center');">1107 Highway 395</a></div>
-<div class="threecolumn"><strong>Emergency Rooms</strong><br><a href="javascript: trayOpenLocation_SM('emergency_rooms');">3 convenient locations</a><br><br><strong>Urgent Care</strong><br><a href="javascript: trayOpenLocation_SM('urgent_care');">7 convenient locations</a><br><br><strong>Medical Group</strong><br><a href="javascript: trayOpenLocation_SM('medical_group');">16 convenient locations </a><br><br><strong>X-Ray &amp; Imaging</strong><br><a href="javascript: trayOpenLocation_SM('x-ray_and_imaging');">10 convenient locations</a><br><br><strong>Lab Services</strong><br><a href="javascript: trayOpenLocation_SM('lab_services');">10 convenient locations</a></div>
+<div class="threecolumn"><strong>Emergency Rooms</strong><br><a href="javascript: trayOpenLocation_SM('emergency_rooms');">3 convenient locations</a><br><br><strong>Urgent Care</strong><br><a href="javascript: trayOpenLocation_SM('urgent_care');">8 convenient locations</a><br><br><strong>Medical Group</strong><br><a href="javascript: trayOpenLocation_SM('medical_group');">15 convenient locations </a><br><br><strong>X-Ray &amp; Imaging</strong><br><a href="javascript: trayOpenLocation_SM('x-ray_and_imaging');">10 convenient locations</a><br><br><strong>Lab Services</strong><br><a href="javascript: trayOpenLocation_SM('lab_services');">10 convenient locations</a></div>
 <div class="threecolumn last"><strong>Center for Advanced Medicine B</strong><br><a href="javascript: trayOpenLocation_SM('center_for_advanced_medicine_b');">1500 E. 2nd Street</a><br><br><strong>Center for Advanced Medicine C</strong><br><a href="javascript: trayOpenLocation_SM('center_for_advanced_medicine_c');">75 Pringle Way</a><br><br><strong>Institute for Heart &amp; Vascular Health</strong><br><a href="javascript: trayOpenLocation_SM('institute_for_heart_and_vascular_health');">1155 Mill Street</a><br><br><strong>Institute for Cancer</strong><br><a href="javascript: trayOpenLocation_SM('institute_for_cancer');">1155 Mill Street</a></div>
 </div> </div>
           
@@ -935,14 +968,14 @@ Shadowbox.init();
 <div class="location_phone">775-982-4100</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A" target="_blank">Get Directions</a></li>
-<li><a href="/maps#regional" target="_blank">Downloadable Maps</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;ll=39.526554,-119.790308&amp;spn=0.006298,0.009624&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;view=map&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;t=m&amp;vpsrc=0&amp;z=17&amp;iwloc=A">Get Directions</a></li>
+<li><a target="_blank" href="/maps#regional">Downloadable Maps</a></li>
 <li><a href="/regional">Hospital Information</a></li>
-<li><a href="body.cfm?id=2061"></a><a href="body.cfm?id=2014">Virtual Tour</a></li>
+<li><a href="/virtualtours"></a><a href="/virtualtours">Virtual Tour</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/regional.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A" target="_blank"><img src="images/tray-maps-1155-mill-st.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/regional.jpg" alt="Renown Regional Medical Center" title="Renown Regional Medical Center" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;ll=39.526554,-119.790308&amp;spn=0.006298,0.009624&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;view=map&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;t=m&amp;vpsrc=0&amp;z=17&amp;iwloc=A"><img src="images/tray-maps-1155-mill-st.gif" alt="1155 Mill Street, Reno, NV 89502" title="1155 Mill Street, Reno, NV 89502" style="border: 0px;"></a></div>
 </div>
 </div> </div>
 						<!--	end tray_location	-->
@@ -964,14 +997,14 @@ Shadowbox.init();
 <h1>Renown Children's Hospital</h1>
 1155 Mill Street, Reno, NV 89502<br>775-982-KIDS <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A" target="_blank">Get Directions</a></li>
-<li><a href="/maps#childrens" target="_blank">Downloadable Maps</a></li>
-<li><a href="body.cfm?id=2107">Hospital Information</a></li>
-<li><a href="body.cfm?id=2014">Virtual Tour</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?q=Renown+Children's+Hospital+1155+Mill+Street,+Reno,+NV+89502+&amp;hl=en&amp;sll=39.525159,-119.795441&amp;sspn=0.01056,0.022724&amp;hq=Renown+Children's+Hospital&amp;hnear=1155+Mill+St,+Reno,+Washoe,+Nevada+89502&amp;t=m&amp;z=15&amp;vpsrc=0">Get Directions</a></li>
+<li><a target="_blank" href="/maps#childrens">Downloadable Maps</a></li>
+<li><a href="/children">Hospital Information</a></li>
+<li><a href="/virtualtours">Virtual Tour</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/childrens_hospital.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+Children's+Hospital+1155+Mill+Street,+Reno,+NV+89502+&amp;sll=39.525159,-119.795441&amp;sspn=0.01056,0.022724&amp;ie=UTF8&amp;hq=Renown+Children's+Hospital&amp;hnear=1155+Mill+St,+Reno,+Washoe,+Nevada+89502&amp;z=15" target="_blank"><img src="images/tray-maps-1155-Mill-St.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/childrens_hospital.jpg" alt="Renown Children's Hospital" title="Renown Children's Hospital" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+Children's+Hospital+1155+Mill+Street,+Reno,+NV+89502+&amp;sll=39.525159,-119.795441&amp;sspn=0.01056,0.022724&amp;ie=UTF8&amp;hq=Renown+Children's+Hospital&amp;hnear=1155+Mill+St,+Reno,+Washoe,+Nevada+89502&amp;z=15"><img src="images/tray-maps-1155-Mill-St.gif" alt="1155 Mill Street, Reno, NV 89502" title="1155 Mill Street, Reno, NV 89502" style="border: 0px;"></a></div>
 </div>
 </div> </div>
 						<!--	end tray_location	-->
@@ -995,12 +1028,12 @@ Shadowbox.init();
 <div class="location_phone">775-982-3500</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps/place?cid=403541259298815637&amp;q=Renown+Rehabilitation+Hospital,+Reno,+NV+89502&amp;hl=en&amp;cd=2&amp;ei=1_LNTL6VGIyKpATYqoWDCQ&amp;dtab=0&amp;sll=39.505505,-119.764673&amp;sspn=0.052658,0.080764&amp;ie=UTF8&amp;ll=39.608598,-119.875603&amp;spn=0,0&amp;z=12" target="_blank">Get Directions</a></li>
-<li><a href="institutes.cfm?id=2634">Hospital Information</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps/place?cid=403541259298815637&amp;q=Renown+Rehabilitation+Hospital,+Reno,+NV+89502&amp;hl=en&amp;cd=2&amp;ei=1_LNTL6VGIyKpATYqoWDCQ&amp;dtab=0&amp;sll=39.505505,-119.764673&amp;sspn=0.052658,0.080764&amp;ie=UTF8&amp;ll=39.608598,-119.875603&amp;spn=0,0&amp;z=12">Get Directions</a></li>
+<li><a href="/rehabhospital">Hospital Information</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/rehab_hospital.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps/place?cid=403541259298815637&amp;q=Renown+Rehabilitation+Hospital,+Reno,+NV+89502&amp;hl=en&amp;cd=2&amp;ei=1_LNTL6VGIyKpATYqoWDCQ&amp;dtab=0&amp;sll=39.505505,-119.764673&amp;sspn=0.052658,0.080764&amp;ie=UTF8&amp;ll=39.608598,-119.875603&amp;spn=0,0&amp;z=12" target="_blank"><img src="images/tray-maps-1495-mill-st.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/rehab_hospital.jpg" alt="Renown Rebabilitation Hospital" title="Renown Rehabilitation Hospital" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps/place?cid=403541259298815637&amp;q=Renown+Rehabilitation+Hospital,+Reno,+NV+89502&amp;hl=en&amp;cd=2&amp;ei=1_LNTL6VGIyKpATYqoWDCQ&amp;dtab=0&amp;sll=39.505505,-119.764673&amp;sspn=0.052658,0.080764&amp;ie=UTF8&amp;ll=39.608598,-119.875603&amp;spn=0,0&amp;z=12"><img src="images/tray-maps-1495-mill-st.gif" border="0"></a></div>
 </div>
 </div> </div>
 						<!--	end tray_location	-->
@@ -1024,13 +1057,13 @@ Shadowbox.init();
 <div class="location_phone">775-982-7000</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+South+Meadows+Med+Center,+Reno,+NV+89521&amp;sll=39.436475,-119.759173&amp;sspn=0.005717,0.012918&amp;g=10101+Double+R+Blvd,+Reno,+Washoe,+Nevada+89521&amp;ie=UTF8&amp;hq=Renown+South+Meadows+Med+Center,&amp;hnear=Reno,+Nevada+89521&amp;ll=39.48364,-119.738274&amp;spn=0.091417,0.20668&amp;z=12&amp;iwloc=A" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/south_meadows.pdf" target="_blank">Downloadable Map</a></li>
-<li><a href="body.cfm?id=2082">Hospital Information</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+South+Meadows+Med+Center,+Reno,+NV+89521&amp;sll=39.436475,-119.759173&amp;sspn=0.005717,0.012918&amp;g=10101+Double+R+Blvd,+Reno,+Washoe,+Nevada+89521&amp;ie=UTF8&amp;hq=Renown+South+Meadows+Med+Center,&amp;hnear=Reno,+Nevada+89521&amp;ll=39.48364,-119.738274&amp;spn=0.091417,0.20668&amp;z=12&amp;iwloc=A">Get Directions</a></li>
+<li><a target="_blank" href="workfiles/pdf/maps/south_meadows.pdf">Downloadable Map</a></li>
+<li><a href="/southmeadows">Hospital Information</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/south_meadows_mc.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+South+Meadows+Med+Center,+Reno,+NV+89521&amp;sll=39.436475,-119.759173&amp;sspn=0.005717,0.012918&amp;g=10101+Double+R+Blvd,+Reno,+Washoe,+Nevada+89521&amp;ie=UTF8&amp;hq=Renown+South+Meadows+Med+Center,&amp;hnear=Reno,+Nevada+89521&amp;ll=39.48364,-119.738274&amp;spn=0.091417,0.20668&amp;z=12&amp;iwloc=A" target="_blank"><img src="images/tray-maps-10101-Double-R.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/south_meadows_mc.jpg" alt="Renown South Meadows" title="Renown South Meadows" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+South+Meadows+Med+Center,+Reno,+NV+89521&amp;sll=39.436475,-119.759173&amp;sspn=0.005717,0.012918&amp;g=10101+Double+R+Blvd,+Reno,+Washoe,+Nevada+89521&amp;ie=UTF8&amp;hq=Renown+South+Meadows+Med+Center,&amp;hnear=Reno,+Nevada+89521&amp;ll=39.48364,-119.738274&amp;spn=0.091417,0.20668&amp;z=12&amp;iwloc=A"><img src="images/tray-maps-10101-Double-R.gif" alt="10101 Double R Blvd., Reno, NV 89521" title="10101 Double R Blvd., Reno, NV 89521" style="border: 0px;"></a></div>
 </div>
 </div> </div>
 						<!--	end tray_location	-->
@@ -1054,12 +1087,12 @@ Shadowbox.init();
 <div class="location_phone">775-782-1550</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps/place?cid=15066654721091466654&amp;q=Carson+Valley+medical+center+1107+Highway+395&amp;hl=en&amp;cd=1&amp;ei=wR_HTLqRGpT6tgP28IGnBA&amp;dtab=0&amp;sll=38.833103,-119.652155&amp;sspn=0.259662,0.23392&amp;ie=UTF8&amp;ll=39.089035,-119.960403&amp;spn=0,0&amp;z=11" target="_blank">Get Directions</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps/place?cid=15066654721091466654&amp;q=Carson+Valley+medical+center+1107+Highway+395&amp;hl=en&amp;cd=1&amp;ei=wR_HTLqRGpT6tgP28IGnBA&amp;dtab=0&amp;sll=38.833103,-119.652155&amp;sspn=0.259662,0.23392&amp;ie=UTF8&amp;ll=39.089035,-119.960403&amp;spn=0,0&amp;z=11">Get Directions</a></li>
 <li><a href="body.cfm?id=2084">Hospital Information</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/carson_valley_mc.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps/place?cid=15066654721091466654&amp;q=Carson+Valley+medical+center+1107+Highway+395&amp;hl=en&amp;cd=1&amp;ei=wR_HTLqRGpT6tgP28IGnBA&amp;dtab=0&amp;sll=38.833103,-119.652155&amp;sspn=0.259662,0.23392&amp;ie=UTF8&amp;ll=39.089035,-119.960403&amp;spn=0,0&amp;z=11" target="_blank"><img src="images/tray-maps-1107-US-Highwy-39.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/carson_valley_mc.jpg" alt="Carson Valley Medical Center" title="Carson Valley Medical Center" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps/place?cid=15066654721091466654&amp;q=Carson+Valley+medical+center+1107+Highway+395&amp;hl=en&amp;cd=1&amp;ei=wR_HTLqRGpT6tgP28IGnBA&amp;dtab=0&amp;sll=38.833103,-119.652155&amp;sspn=0.259662,0.23392&amp;ie=UTF8&amp;ll=39.089035,-119.960403&amp;spn=0,0&amp;z=11"><img src="images/tray-maps-1107-US-Highwy-39.gif" alt="1107 Highway 395 Gardnerville, NV 89410" title="1107 Highway 395 Gardnerville, NV 89410" style="border: 0px;"></a></div>
 </div>
 </div> </div>
 						<!--	end tray_location	-->
@@ -1085,12 +1118,12 @@ Shadowbox.init();
 <div class="location_phone">775-982-3232</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+Skilled+Nursing,+Sparks,+NV+89431&amp;sll=39.545456,-119.768286&amp;sspn=0.012261,0.019248&amp;ie=UTF8&amp;hq=Renown+Skilled+Nursing,&amp;hnear=Sparks,+Nevada+89431&amp;ll=39.546346,-119.768314&amp;spn=0.047388,0.07699&amp;z=14&amp;iwloc=A" target="_blank">Get Directions</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+Skilled+Nursing,+Sparks,+NV+89431&amp;sll=39.545456,-119.768286&amp;sspn=0.012261,0.019248&amp;ie=UTF8&amp;hq=Renown+Skilled+Nursing,&amp;hnear=Sparks,+Nevada+89431&amp;ll=39.546346,-119.768314&amp;spn=0.047388,0.07699&amp;z=14&amp;iwloc=A">Get Directions</a></li>
 <li><a href="/skilled">Hospital Information</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/skilled_nursing.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+Skilled+Nursing,+Sparks,+NV+89431&amp;sll=39.545456,-119.768286&amp;sspn=0.012261,0.019248&amp;ie=UTF8&amp;hq=Renown+Skilled+Nursing,&amp;hnear=Sparks,+Nevada+89431&amp;ll=39.546346,-119.768314&amp;spn=0.047388,0.07699&amp;z=14&amp;iwloc=A" target="_blank"><img src="images/tray-maps-1835-Oddie.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/skilled_nursing.jpg" alt="Renown Skilled Nursing" title="Renown Skilled Nursing" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Renown+Skilled+Nursing,+Sparks,+NV+89431&amp;sll=39.545456,-119.768286&amp;sspn=0.012261,0.019248&amp;ie=UTF8&amp;hq=Renown+Skilled+Nursing,&amp;hnear=Sparks,+Nevada+89431&amp;ll=39.546346,-119.768314&amp;spn=0.047388,0.07699&amp;z=14&amp;iwloc=A"><img src="images/tray-maps-1835-Oddie.gif" alt="1835 Oddie Boulevard, Sparks, NV 89431" title="1835 Oddie Boulevard, Sparks, NV 89431" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1116,13 +1149,13 @@ Shadowbox.init();
 <h1>Renown Emergency Rooms</h1>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=XYHZTJS6BZ2WoASnt8SJDA&amp;sll=39.482925,-119.786708&amp;sspn=0.112099,0.065026&amp;ie=UTF8&amp;view=map&amp;cid=7682661334493163205&amp;ved=0CBgQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.526479,-119.794557&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A" target="_blank">Regional Medical Center</a></li>
-<li><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Renown+Children%27s+Hospital,+Reno,+NV&amp;sll=39.487615,-119.786339&amp;sspn=0.155269,0.355682&amp;ie=UTF8&amp;hq=Renown+Children%27s+Hospital,&amp;hnear=Reno,+Washoe,+Nevada&amp;ll=39.523905,-119.794922&amp;spn=0.033103,0.072441&amp;z=12&amp;iwloc=A" target="_blank">Children's Hospital</a></li>
-<li><a href="http://maps.google.com/maps?q=Renown-South+Meadows+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=7YHZTJzjKZG4pAT00LSFDA&amp;sll=39.482925,-119.786295&amp;sspn=0.112099,0.066018&amp;ie=UTF8&amp;view=map&amp;cid=159812994502871208&amp;ved=0CGoQpQY&amp;hq=Renown-South+Meadows+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.436326,-119.759613&amp;spn=0.006165,0.009624&amp;z=17" target="_blank">South Meadows Medical Center</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=XYHZTJS6BZ2WoASnt8SJDA&amp;sll=39.482925,-119.786708&amp;sspn=0.112099,0.065026&amp;ie=UTF8&amp;view=map&amp;cid=7682661334493163205&amp;ved=0CBgQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.526479,-119.794557&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A">Regional Medical Center</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Renown+Children%27s+Hospital,+Reno,+NV&amp;sll=39.487615,-119.786339&amp;sspn=0.155269,0.355682&amp;ie=UTF8&amp;hq=Renown+Children%27s+Hospital,&amp;hnear=Reno,+Washoe,+Nevada&amp;ll=39.523905,-119.794922&amp;spn=0.033103,0.072441&amp;z=12&amp;iwloc=A">Children's Hospital</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?q=Renown-South+Meadows+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=7YHZTJzjKZG4pAT00LSFDA&amp;sll=39.482925,-119.786295&amp;sspn=0.112099,0.066018&amp;ie=UTF8&amp;view=map&amp;cid=159812994502871208&amp;ved=0CGoQpQY&amp;hq=Renown-South+Meadows+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.436326,-119.759613&amp;spn=0.006165,0.009624&amp;z=17">South Meadows Medical Center</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/er.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938a2bca82a78f23e&amp;ll=39.515033,-119.777927&amp;spn=0.101838,0.15398&amp;z=13" target="_blank"><img src="images/tray-maps-emergency-rooms.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/er.jpg" alt="Renown Emergency Rooms" title="Renown Emergency Rooms" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938a2bca82a78f23e&amp;ll=39.515033,-119.777927&amp;spn=0.101838,0.15398&amp;z=13"><img src="images/tray-maps-emergency-rooms.gif" border="0"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1148,13 +1181,13 @@ Shadowbox.init();
 <h1>Renown Health Urgent Care</h1>
 775.982.5000 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938a7f184f4a19b17&amp;z=10" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/urgent_care.pdf" target="_blank">Downloadable Map</a></li>
-<li><a href="body.cfm?id=1137">Urgent Care Information</a></li>
+<li><a target="_blank" href="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938a7f184f4a19b17&amp;z=10">Get Directions</a></li>
+<li><a target="_blank" href="workfiles/pdf/maps/urgent_care.pdf">Downloadable Map</a></li>
+<li><a href="/UrgentCare">Urgent Care Information</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/urgent_care.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938a7f184f4a19b17&amp;z=10" target="_blank"><img src="images/tray-maps-urgent-care.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/urgent_care.jpg" alt="Renown Health Urgent Care" title="Renown Health Urgent Care" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938a7f184f4a19b17&amp;z=10"><img src="images/tray-maps-urgent-care.gif" alt="8 convenient locations" title="8 convenient locations" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1180,13 +1213,13 @@ Shadowbox.init();
 <h1>Renown Medical Group</h1>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938b70921c2acbdef&amp;z=12" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/med_group.pdf" target="_blank">Downloadable Map</a></li>
-<li><a href="body.cfm?id=241">Medical Group Information</a></li>
+<li><a target="_blank" href="https://maps.google.com/maps/ms?msid=211030444095890393165.0004c1a9904b6305b9d1e&amp;msa=0&amp;ll=39.44375,-119.748487&amp;spn=0.034334,0.054846">Get Directions</a></li>
+<li><a target="_blank" href="workfiles//120522_med_urgent_care_v1_2.pdf">Downloadable Map</a></li>
+<li><a href="/medicalgroup">Medical Group Information</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/med_group.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938b70921c2acbdef&amp;z=12" target="_blank"><img src="images/tray-maps-medical-group.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/med_group.jpg" alt="Renown Medical Group" title="Renown Medical Group" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="https://maps.google.com/maps/ms?msid=211030444095890393165.0004c1a9904b6305b9d1e&amp;msa=0&amp;ll=39.44375,-119.748487&amp;spn=0.034334,0.054846"><img src="images/tray-maps-medical-group.gif" alt="15 convenient locations" title="15 convenient locations" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1213,13 +1246,13 @@ Shadowbox.init();
 <div class="location_phone">775-982-8100</div>
 <br>
 <ul>
-<li><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=207086659399359721267.0004938afcac096e154f1&amp;z=10" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/xray_imaging_all.pdf" target="_blank">Downloadable Map</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=207086659399359721267.0004938afcac096e154f1&amp;z=10">Get Directions</a></li>
+<li><a target="_blank" href="workfiles/pdf/maps/xray_imaging_all.pdf">Downloadable Map</a></li>
 <li><a href="/imaging">X-Ray &amp; Imaging Information</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/xray_imaging.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938afcac096e154f1&amp;z=10" target="_blank"><img src="images/tray-maps-x-ray.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/xray_imaging.jpg" alt="X-Ray and Imaging" title="X-Ray and Imaging" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938afcac096e154f1&amp;z=10"><img src="images/tray-maps-x-ray.gif" alt="10 convenient locations" title="10 convenient locations" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1246,13 +1279,13 @@ Shadowbox.init();
 <div class="location_phone">775-982-5000</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938bb75e669408e73&amp;z=12" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/lab_services.pdf" target="_blank">Downloadable Map</a></li>
-<li><a href="body.cfm?id=2375">Lab Services Information</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938bb75e669408e73&amp;z=12">Get Directions</a></li>
+<li><a target="_blank" href="workfiles/pdf/maps/lab_services.pdf">Downloadable Map</a></li>
+<li><a href="/lab">Lab Services Information</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/lab_services.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938bb75e669408e73&amp;z=12" target="_blank"><img src="images/tray-maps-lab-services.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/lab_services.jpg" alt="Lab Services" title="Lab Services" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=100159094161120514116.0004938bb75e669408e73&amp;z=12"><img src="images/tray-maps-lab-services.gif" alt="10 convenient locations" title="10 convenient locations" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1280,12 +1313,12 @@ Shadowbox.init();
 <div class="location_phone">775-982-4100</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1500+E.+2nd+St.+reno+nv&amp;sll=37.0625,-95.677068&amp;sspn=52.947994,78.837891&amp;ie=UTF8&amp;hq=&amp;hnear=1500+E+2nd+St,+Reno,+Washoe,+Nevada+89502&amp;z=17" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/med_b.pdf" target="_blank">Downloadable Map</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1500+E.+2nd+St.+reno+nv&amp;sll=37.0625,-95.677068&amp;sspn=52.947994,78.837891&amp;ie=UTF8&amp;hq=&amp;hnear=1500+E+2nd+St,+Reno,+Washoe,+Nevada+89502&amp;z=17">Get Directions</a></li>
+<li><a target="_blank" href="workfiles/pdf/maps/med_b.pdf">Downloadable Map</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/med_b.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1500+E.+2nd+St.+reno+nv&amp;sll=37.0625,-95.677068&amp;sspn=52.947994,78.837891&amp;ie=UTF8&amp;hq=&amp;hnear=1500+E+2nd+St,+Reno,+Washoe,+Nevada+89502&amp;z=17" target="_blank"><img src="images/tray-maps-1500-E-2nd-St.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/med_b.jpg" alt="Center for Advanced Medicine B" title="Center for Advanced Medicine B" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1500+E.+2nd+St.+reno+nv&amp;sll=37.0625,-95.677068&amp;sspn=52.947994,78.837891&amp;ie=UTF8&amp;hq=&amp;hnear=1500+E+2nd+St,+Reno,+Washoe,+Nevada+89502&amp;z=17"><img src="images/tray-maps-1500-E-2nd-St.gif" alt="1500 E. 2nd St., Reno, NV 89502" title="1500 E. 2nd St., Reno, NV 89502" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1313,12 +1346,12 @@ Shadowbox.init();
 <div class="location_phone">775-982-4100</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=75+pringle+way+reno,+nv&amp;sll=39.524615,-119.795818&amp;sspn=0.006364,0.009624&amp;ie=UTF8&amp;hq=&amp;hnear=75+Pringle+Way,+Reno,+Washoe,+Nevada+89502&amp;z=17&amp;iwloc=A" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/med_c.pdf" target="_blank">Downloadable Map</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=75+pringle+way+reno,+nv&amp;sll=39.524615,-119.795818&amp;sspn=0.006364,0.009624&amp;ie=UTF8&amp;hq=&amp;hnear=75+Pringle+Way,+Reno,+Washoe,+Nevada+89502&amp;z=17&amp;iwloc=A">Get Directions</a></li>
+<li><a target="_blank" href="workfiles/pdf/maps/med_c.pdf">Downloadable Map</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/med_c.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=75+pringle+way+reno,+nv&amp;sll=39.524615,-119.795818&amp;sspn=0.006364,0.009624&amp;ie=UTF8&amp;hq=&amp;hnear=75+Pringle+Way,+Reno,+Washoe,+Nevada+89502&amp;z=17&amp;iwloc=A" target="_blank"><img src="images/tray-maps-75-Pringle-Way.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/med_c.jpg" alt="Center for Advanced Medicine C" title="Center for Advanced Medicine C" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=75+pringle+way+reno,+nv&amp;sll=39.524615,-119.795818&amp;sspn=0.006364,0.009624&amp;ie=UTF8&amp;hq=&amp;hnear=75+Pringle+Way,+Reno,+Washoe,+Nevada+89502&amp;z=17&amp;iwloc=A"><img src="images/tray-maps-75-Pringle-Way.gif" alt="75 Pringle Way, Reno, NV 89502" title="75 Pringle Way, Reno, NV 89502" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1346,14 +1379,14 @@ Shadowbox.init();
 <div class="location_phone">775-982-7888</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/heart.pdf" target="_blank">Downloadable Map</a></li>
-<li><a href="body.cfm?id=8">Institute Information</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A">Get Directions</a></li>
+<li><a target="_blank" href="workfiles/pdf/maps/heart.pdf">Downloadable Map</a></li>
+<li><a href="/heart">Institute Information</a></li>
 <li><a href="http://www.renown.org/virtualtours#heart">Virtual Tour</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/heart.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A" target="_blank"><img src="images/tray-maps-1155-mill-st.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/heart.jpg" alt="Institute for Heart &amp; Vascular Health" title="Institute for Heart &amp; Vascular Health" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A"><img src="images/tray-maps-1155-mill-st.gif" alt="1155 Mill Street, Reno, NV 89502" title="1155 Mill Street, Reno, NV 89502" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1381,14 +1414,14 @@ Shadowbox.init();
 <div class="location_phone">775-982-5638</div>
 <br><br>
 <ul>
-<li><a href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A" target="_blank">Get Directions</a></li>
-<li><a href="workfiles/pdf/maps/cancer.pdf" target="_blank">Downloadable Map</a></li>
-<li><a href="institutes.cfm?id=2486">Institute Information</a></li>
-<li><a href="body.cfm?id=2014">Virtual Tour</a></li>
+<li><a target="_blank" href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A">Get Directions</a></li>
+<li><a target="_blank" href="workfiles/pdf/maps/cancer.pdf">Downloadable Map</a></li>
+<li><a href="/cancer">Institute Information</a></li>
+<li><a href="/virtualtours">Virtual Tour</a></li>
 </ul>
 </div>
-<div class="threecolumn last twocolumns"><img class="padright49" src="images/locations_tray/cancer.jpg" border="0" width="259" height="228">
-<div class="tray_google_map"><a href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A" target="_blank"><img src="images/tray-maps-1155-mill-st.gif" border="0"></a></div>
+<div class="threecolumn last twocolumns"><img height="228" width="259" src="images/locations_tray/cancer.jpg" alt="Renown Institute for Cancer" title="Renown Institute for Cancer" class="padright49" style="border: 0px;">
+<div class="tray_google_map"><a target="_blank" href="http://maps.google.com/maps?q=Renown+Regional+Medical+Center,+Reno,+NV&amp;hl=en&amp;cd=1&amp;ei=ce7FTPmrJZjejAOU67GOBw&amp;sll=39.483787,-119.786357&amp;sspn=0.11003,0.06587&amp;ie=UTF8&amp;view=map&amp;cid=11655796594964164732&amp;ved=0CHcQpQY&amp;hq=Renown+Regional+Medical+Center,+Reno,+NV&amp;hnear=&amp;ll=39.524054,-119.794868&amp;spn=0.006157,0.009624&amp;z=17&amp;iwloc=A"><img src="images/tray-maps-1155-mill-st.gif" alt="1155 Mill Street, Reno, NV 89502" title="1155 Mill Street, Reno, NV 89502" style="border: 0px;"></a></div>
 </div>
 </div> </div>
                     <!--	end tray_location	-->
@@ -1434,24 +1467,27 @@ Shadowbox.init();
 
 
 
-	
-	
-		
-		
+			
+
+
+			
 	
 		<a href="https://www.healthcaresource.com/renownhealth/index.cfm?fuseaction=search.categoryList&amp;template=dsp_job_categories.cfm&amp;CFID=6585655&amp;CFTOKEN=9c37cbfcb3ddd931-40E7D15F-5056-BC51-B87E3F4F515D67AB&amp;jsessionid=f430672735067c3e245e" target="_blank" onclick="NavBar_setPLinkIDCookie('2174','');" class="">Apply for a Job</a><br>
 	
 	
-		<a href="body.cfm?id=842" onclick="NavBar_setPLinkIDCookie('2330','');" class="">Ask a Medical Question</a><br>
+		<a href="body.cfm?id=1164&amp;eformid=8" onclick="NavBar_setPLinkIDCookie('2330','');" class="">Ask a Medical Question</a><br>
 	
 	
-		<a href="body.cfm?id=2017" onclick="NavBar_setPLinkIDCookie('2017','');" class="">Contact a Patient</a><br>
+		<a href="/contactpatients" onclick="NavBar_setPLinkIDCookie('2851','');" class="">Contact a Patient</a><br>
 	
 	
-		<a href="body.cfm?id=111" onclick="NavBar_setPLinkIDCookie('111','');" class="">Contact Renown</a><br>
+		<a href="/contact" onclick="NavBar_setPLinkIDCookie('2852','');" class="">Contact Renown</a><br>
 	
 	
-		<a href="body.cfm?id=109" onclick="NavBar_setPLinkIDCookie('2331','');" class="">Donate/Volunteer</a><br>
+		<a href="/support" onclick="NavBar_setPLinkIDCookie('2331','');" class="">Donate/Volunteer</a><br>
+	
+	
+		<a href="/Ringtone" onclick="NavBar_setPLinkIDCookie('2853','');" class="">Download our Ringtone</a><br>
 	
 	
 		<a href="body.cfm?xyzpdqabc=0&amp;id=62&amp;action=calendarMonth" onclick="NavBar_setPLinkIDCookie('2272','');" class="">Find a Class Event or Screening</a><br>
@@ -1463,33 +1499,34 @@ Shadowbox.init();
 		<a href="body.cfm?id=2023" onclick="NavBar_setPLinkIDCookie('2023','');" class="">Find an Urgent Care/ER</a><br>
 	
 	
-		<a href="body.cfm?id=291" onclick="NavBar_setPLinkIDCookie('291','');" class="">Pay a Bill</a><br>
+		<a href="/paying" onclick="NavBar_setPLinkIDCookie('2855','');" class="">Pay a Bill</a><br>
 	
 	
 		<a href="https://www.skillexpertiseandtechnology.com/prereg2/" target="_blank" onclick="NavBar_setPLinkIDCookie('2170','');" class="">Pre-Register</a><br>
 	
 	
-		<a href="body.cfm?id=102" onclick="NavBar_setPLinkIDCookie('102','');" class="">Research Clinical Trials</a><br>
+		<a href="/research" onclick="NavBar_setPLinkIDCookie('2856','');" class="">Research Clinical Trials</a><br>
 	
 	
 		<a href="http://www.our365.com/NewbornPortraits/HospitalResults.aspx?sid=8470" target="_blank" onclick="NavBar_setPLinkIDCookie('2169','');" class="">See Newborn Photos</a><br>
 	
 	
-		<a href="body.cfm?id=1757" onclick="NavBar_setPLinkIDCookie('2171','');" class="">Sign Up/Login to My Chart</a><br>
+		<a href="MyChart" onclick="NavBar_setPLinkIDCookie('2171','');" class="">Sign Up/Login to My Chart</a><br>
 	
 	
 		<a href="body.cfm?id=2014" onclick="NavBar_setPLinkIDCookie('2014','');" class="">Take a Virtual Tour</a><br>
 	
 	
-		<a href="body.cfm?id=925" onclick="NavBar_setPLinkIDCookie('2345','');" class="">Visit the Health Library</a><br>
+		<a href="OnlineHealthLibrary" onclick="NavBar_setPLinkIDCookie('2345','');" class="">Visit the Health Library</a><br>
 	
 	
 		<a href="http://www.renownhealthonline.com/art/index.cfm" target="_blank" onclick="NavBar_setPLinkIDCookie('2332','');" class="">View Art</a><br>
 	
-
-	
 		
-	
+				
+			
+
+		
 
 
 
@@ -1514,7 +1551,15 @@ Shadowbox.init();
 			input.search {color: #A1596F; font-weight: 700; font-size: 9pt; background-color: transparent; height: 14px; width: 50px;}
 				
 	</style>
-<script type="text/javascript" src="http://web7.healthvsn.com/sm_FormValidation.js"></script>
+
+	<script type="text/javascript">
+	<!--
+		sm_FormValidation_uploadListimage_acceptedExt = new Array("gif","jpe","jpeg","jpg","png");
+		sm_FormValidation_uploadListvideo_acceptedExt = new Array("avi","flv","mov","mp3","mp4","mpeg","mpg","rm","swf","wav","wma","wmv","wmx","wvx");
+		sm_FormValidation_uploadListdoc_acceptedExt = new Array("accdb","doc","docx","htm","html","mdb","pdf","ppt","pptx","pub","rtf","txt","xls","xlsx","xml");
+	//-->
+	</script>
+<script type="text/javascript" src="http://web8.healthvsn.com/sm_FormValidation.js"></script>
 		<script language="JavaScript">
 			var smsearch_reEmpty = /^\s*$/;
 			var smsearch_reLeading = /^(\s+)/i;
@@ -1608,13 +1653,13 @@ Shadowbox.init();
 				}			
 			</style>
 			
-	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
-	
-		<!-- Begin NavBar Bar #2 Content Output... -->
-		<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+			
+<!-- Begin NavBar Bar #2 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
 	<tbody><tr class="verytopnav">
 		<td class="verytopnav" valign="top" align="left"><img src="images/2010Q3/transplant/mobile_icon.png" alt=""></td>
-		<td class="verytopnav" valign="top" align="left" title=""><a href="http://renownmobile.org" onclick="NavBar_setPLinkIDCookie('2274','');" class="verytopnav">Renown Mobile</a></td>
+		<td class="verytopnav" valign="top" align="left" title=""><a href="/Ringtone" onclick="NavBar_setPLinkIDCookie('2857','');" class="verytopnav">Ringtone</a></td>
 		<td class="verytopnav" valign="top" align="left" title=""><img src="images/2010Q3/transplant/vertytopnav-betweener.gif" alt=""></td>
 		<td class="verytopnav" valign="top" align="left" title=""><a href="http://www.hometownhealth.com/" target="_blank" onclick="NavBar_setPLinkIDCookie('2196','');" class="verytopnav">Hometown Health</a></td>
 		<td class="verytopnav" valign="top" align="left" title=""><img src="images/2010Q3/transplant/vertytopnav-betweener.gif" alt=""></td>
@@ -1623,10 +1668,11 @@ Shadowbox.init();
 		<td class="verytopnav" valign="top" align="left" title=""><a href="http://es.renown.org" onclick="NavBar_setPLinkIDCookie('2462','');" class="verytopnav">En Español</a></td>
 	</tr>
 
-</tbody></table>
-	
-		<!-- End NavBar Output -->
-	
+</tbody></table>		
+				
+			
+<!-- End NavBar Output -->
+		
 
 
 
@@ -1727,7 +1773,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="institutes.cfm?id=2107" target="" class="" style="width: 247px;">Children's Hospital</a></li>
+						<a href="/children" target="" class="" style="width: 247px;">Children's Hospital</a></li>
           
      
      
@@ -1775,7 +1821,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="institutes.cfm?id=2634" target="" class="" style="width: 247px;">Rehabilitation Hospital</a></li>
+						<a href="rehabhospital" target="" class="" style="width: 247px;">Rehabilitation Hospital</a></li>
           
      
      
@@ -1807,7 +1853,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="institutes.cfm?id=241" target="" class="" style="width: 247px;">Medical Group</a></li>
+						<a href="medicalgroup" target="" class="" style="width: 247px;">Medical Group</a></li>
           
      
      
@@ -1823,7 +1869,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="institutes.cfm?id=1400" target="" class="" style="width: 247px;">Skilled Nursing</a></li>
+						<a href="skilled" target="" class="" style="width: 247px;">Skilled Nursing</a></li>
           
      
      
@@ -1839,7 +1885,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="institutes.cfm?id=1137" target="" class="" style="width: 247px;">Urgent Care</a></li>
+						<a href="UrgentCare" target="" class="" style="width: 247px;">Urgent Care</a></li>
           
      
      
@@ -1855,7 +1901,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="institutes.cfm?id=383" target="" class="" style="width: 247px;">X-Ray &amp; Imaging</a></li>
+						<a href="Imaging" target="" class="" style="width: 247px;">X-Ray &amp; Imaging</a></li>
           
      
      
@@ -1871,7 +1917,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="institutes.cfm?id=2375" target="" class="" style="width: 247px;">Lab Services</a></li>
+						<a href="lab" target="" class="" style="width: 247px;">Lab Services</a></li>
           
      
      
@@ -2032,7 +2078,7 @@ Shadowbox.init();
 		
 			
 				
-					</li><li class="main_nav" style="width: 148px;"><a href="body.cfm?id=103" target="">Patients/Visitors</a><ul class="">
+					</li><li class="main_nav" style="width: 148px;"><a href="institutes.cfm?id=103" target="">Patients/Visitors</a><ul class="">
           
      
           
@@ -2053,7 +2099,7 @@ Shadowbox.init();
 			
 				
 					
-						<a href="body.cfm?id=286" target="" class="" style="width: 258px;">About Your Stay</a></li>
+						<a href="body.cfm?id=286" target="" class="" style="width: 139px;">About Your Stay</a></li>
           
      
      
@@ -2069,7 +2115,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=292" target="" class="" style="width: 258px;">Care Concerns</a></li>
+						<a href="body.cfm?id=292" target="" class="" style="width: 139px;">Care Concerns</a></li>
           
      
      
@@ -2085,7 +2131,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=2679" target="" class="" style="width: 258px;">Billing Question</a></li>
+						<a href="body.cfm?id=1164&amp;eformid=100" target="" class="" style="width: 139px;">Email a Patient</a></li>
           
      
      
@@ -2101,7 +2147,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=1164&amp;eformid=100" target="" class="" style="width: 258px;">Email a Patient</a></li>
+						<a href="/findadoc" target="" class="" style="width: 139px;">Find a Doctor</a></li>
           
      
      
@@ -2117,7 +2163,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=2275" target="" class="" style="width: 258px;">Find a Doctor</a></li>
+						<a href="body.cfm?id=285" target="" class="" style="width: 139px;">Online Admitting</a></li>
           
      
      
@@ -2133,7 +2179,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=925" target="" class="" style="width: 258px;">Health Library</a></li>
+						<a href="body.cfm?id=2339" target="" class="" style="width: 139px;">Out of Town Visitors</a></li>
           
      
      
@@ -2149,7 +2195,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=2657" target="" class="" style="width: 258px;">Medical Records Request/Question</a></li>
+						<a href="body.cfm?id=291" target="" class="" style="width: 139px;">Paying for Your Care</a></li>
           
      
      
@@ -2165,7 +2211,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=842" target="" class="" style="width: 258px;">Medical Question</a></li>
+						<a href="/contact" target="" class="" style="width: 139px;">Questions</a></li>
           
      
      
@@ -2181,71 +2227,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=285" target="" class="" style="width: 258px;">Online Admitting</a></li>
-          
-     
-     
-          
-     
-          
-               
-               
-               
-                         	
-                    
-               
-			<li>
-					
-					
-						<a href="body.cfm?id=1403" target="" class="" style="width: 258px;">Recognize a Nurse</a></li>
-          
-     
-     
-          
-     
-          
-               
-               
-               
-                         	
-                    
-               
-			<li>
-					
-					
-						<a href="body.cfm?id=2339" target="" class="" style="width: 258px;">Out of Town Visitors</a></li>
-          
-     
-     
-          
-     
-          
-               
-               
-               
-                         	
-                    
-               
-			<li>
-					
-					
-						<a href="body.cfm?id=843" target="" class="" style="width: 258px;">Other Questions &amp; Comments</a></li>
-          
-     
-     
-          
-     
-          
-               
-               
-               
-                         	
-                    
-               
-			<li>
-					
-					
-						<a href="body.cfm?id=291" target="" class="" style="width: 258px;">Paying for Your Care</a></li>
+						<a href="body.cfm?id=1403" target="" class="" style="width: 139px;">Recognize a Nurse</a></li>
           
      
      
@@ -2263,7 +2245,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=1348" target="" class="" style="width: 258px;">Shops at Renown</a></li></ul>
+						<a href="body.cfm?id=1348" target="" class="" style="width: 139px;">Shops at Renown</a></li></ul>
           
      
      
@@ -2328,7 +2310,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=386" target="" class="" style="width: 228px;">Behavioral Health</a></li>
+						<a href="body.cfm?id=1420" target="" class="" style="width: 228px;">Cosmetic Laser and Skin Care</a></li>
           
      
      
@@ -2344,7 +2326,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=1420" target="" class="" style="width: 228px;">Cosmetic Laser and Skin Care</a></li>
+						<a href="body.cfm?id=386" target="" class="" style="width: 228px;">Behavioral Health</a></li>
           
      
      
@@ -2376,7 +2358,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=504" target="" class="" style="width: 228px;">Emergency/Trauma Center</a></li>
+						<a href="http://www.renown.org/er" target="" class="" style="width: 228px;">Emergency/Trauma Center</a></li>
           
      
      
@@ -2424,7 +2406,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=1902" target="" class="" style="width: 228px;">Hyperbaric Oxygen Therapy</a></li>
+						<a href="body.cfm?id=2725" target="" class="" style="width: 228px;">INNERThin</a></li>
           
      
      
@@ -2472,22 +2454,6 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=381" target="" class="" style="width: 228px;">Orthopedic Services</a></li>
-          
-     
-     
-          
-     
-          
-               
-               
-               
-                         	
-                    
-               
-			<li>
-					
-					
 						<a href="institutes.cfm?id=1293" target="" class="" style="width: 228px;">Occupational Health</a></li>
           
      
@@ -2520,7 +2486,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=1801" target="" class="" style="width: 228px;">Pregnancy &amp; Childbirth</a></li>
+						<a href="/HavingaBaby" target="" class="" style="width: 228px;">Pregnancy &amp; Childbirth</a></li>
           
      
      
@@ -2616,6 +2582,22 @@ Shadowbox.init();
 			<li>
 					
 					
+						<a href="body.cfm?id=2834" target="" class="" style="width: 228px;">Telemedicine</a></li>
+          
+     
+     
+          
+     
+          
+               
+               
+               
+                         	
+                    
+               
+			<li>
+					
+					
 						<a href="institutes.cfm?id=1137" target="" class="" style="width: 228px;">Urgent Care</a></li>
           
      
@@ -2683,7 +2665,7 @@ Shadowbox.init();
 			
 				
 					
-						<a href="body.cfm?id=1141" target="" class="" style="width: 135px;">Annual Reports</a></li>
+						<a href="body.cfm?id=172" target="" class="" style="width: 191px;">Awards</a></li>
           
      
      
@@ -2699,7 +2681,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=1499" target="" class="" style="width: 135px;">Accreditations</a></li>
+						<a href="body.cfm?id=1499" target="" class="" style="width: 191px;">Accreditations</a></li>
           
      
      
@@ -2715,7 +2697,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=172" target="" class="" style="width: 135px;">Awards</a></li>
+						<a href="body.cfm?id=931" target="" class="" style="width: 191px;">Community Benefit</a></li>
           
      
      
@@ -2731,7 +2713,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=931" target="" class="" style="width: 135px;">Community Benefit</a></li>
+						<a href="body.cfm?id=2731" target="" class="" style="width: 191px;">Community Sponsorship</a></li>
           
      
      
@@ -2747,7 +2729,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=923" target="" class="" style="width: 135px;">Our Leadership</a></li>
+						<a href="/healingarts" target="" class="" style="width: 191px;">Healing Arts</a></li>
           
      
      
@@ -2763,7 +2745,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=913" target="" class="" style="width: 135px;">Our History</a></li>
+						<a href="body.cfm?id=998" target="" class="" style="width: 191px;">Not-For-Profit</a></li>
           
      
      
@@ -2779,7 +2761,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=1143" target="" class="" style="width: 135px;">Our Name Change</a></li>
+						<a href="body.cfm?id=923" target="" class="" style="width: 191px;">Our Leadership</a></li>
           
      
      
@@ -2795,7 +2777,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=142" target="" class="" style="width: 135px;">Quality</a></li>
+						<a href="body.cfm?id=913" target="" class="" style="width: 191px;">Our History</a></li>
           
      
      
@@ -2811,7 +2793,23 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="body.cfm?id=998" target="" class="" style="width: 135px;">Not-For-Profit</a></li>
+						<a href="body.cfm?id=1143" target="" class="" style="width: 191px;">Our Name Change</a></li>
+          
+     
+     
+          
+     
+          
+               
+               
+               
+                         	
+                    
+               
+			<li>
+					
+					
+						<a href="body.cfm?id=142" target="" class="" style="width: 191px;">Quality</a></li>
           
      
      
@@ -2829,7 +2827,7 @@ Shadowbox.init();
 			<li>
 					
 					
-						<a href="/healingarts" target="" class="" style="width: 135px;">Healing Arts</a></li></ul>
+						<a href="/Ringtone" target="" class="" style="width: 191px;">Ringtone</a></li></ul>
           
      
      
@@ -2894,10 +2892,10 @@ Shadowbox.init();
 
 
 
-	
-	
-		
-		
+			
+
+
+			
 	
 		<li><a href="https://www.skillexpertiseandtechnology.com/prereg2/" target="_blank" onclick="NavBar_setPLinkIDCookie('2203','');" class="">Pre-Register</a></li>
 	
@@ -2905,13 +2903,13 @@ Shadowbox.init();
 		<li><a href="/maps" onclick="NavBar_setPLinkIDCookie('2416','');" class="">Downloadable Maps</a></li>
 	
 	
-		<li><a href="body.cfm?id=2017" onclick="NavBar_setPLinkIDCookie('2017','');" class="">Contact a Patient</a></li>
+		<li><a href="/contactpatients" onclick="NavBar_setPLinkIDCookie('2870','');" class="">Contact a Patient</a></li>
 	
 	
 		<li><a href="/healingarts" onclick="NavBar_setPLinkIDCookie('2334','');" class="">Healing Arts Program</a></li>
 	
 	
-		<li><a href="body.cfm?id=111" onclick="NavBar_setPLinkIDCookie('111','');" class="">Contact Renown</a></li>
+		<li><a href="/contact" onclick="NavBar_setPLinkIDCookie('2871','');" class="">Contact Renown</a></li>
 	
 	
 		<li><a href="http://www.renown.org/onlinepayment" onclick="NavBar_setPLinkIDCookie('2681','');" class="">Pay Your Hospital Bill</a></li>
@@ -2920,12 +2918,13 @@ Shadowbox.init();
 		<li><a href="body.cfm?xyzpdqabc=0&amp;id=62&amp;action=calendarMonth" onclick="NavBar_setPLinkIDCookie('2279','');" class="">Sign up for a Class/Event</a></li>
 	
 	
-		<li><a href="body.cfm?id=2014" onclick="NavBar_setPLinkIDCookie('2014','');" class="">Take a Virtual Tour</a></li>
-	
-
+		<li><a href="/virtualtours" onclick="NavBar_setPLinkIDCookie('2872','');" class="">Take a Virtual Tour</a></li>
 	
 		
-	
+				
+			
+
+		
 
 
 
@@ -2938,20 +2937,21 @@ Shadowbox.init();
 								
 				
 					
-	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
-	
-		<!-- Begin NavBar Bar #4 Content Output... -->
-		<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+			
+<!-- Begin NavBar Bar #4 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
 	<tbody><tr class="">
 		<td class="" valign="top" align="left" title=""><a href="/findadoc" onclick="NavBar_setPLinkIDCookie('2276','');" class=""><img src="images/2010Q3\transplant\button_find_a_doctor.jpg" border="0" alt="Find a Doctor" id="2010Q3\transplant\find_a_doctor_4_1" name="2010Q3\transplant\find_a_doctor_4_1"></a></td>
 		<td class="" valign="top" align="left" title=""><img src="images/spacer.gif" width="12" alt=""></td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1757" onclick="NavBar_setPLinkIDCookie('2206','');" class=""><img src="images/2010Q3\transplant\button_my_chart.jpg" border="0" alt="My Chart" id="2010Q3\transplant\my_chart_4_2" name="2010Q3\transplant\my_chart_4_2"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="/MyChart" onclick="NavBar_setPLinkIDCookie('2206','');" class=""><img src="images/2010Q3\transplant\button_my_chart.jpg" border="0" alt="My Chart" id="2010Q3\transplant\my_chart_4_2" name="2010Q3\transplant\my_chart_4_2"></a></td>
 	</tr>
 
-</tbody></table>
-	
-		<!-- End NavBar Output -->
-	
+</tbody></table>		
+				
+			
+<!-- End NavBar Output -->
+		
 
 				
 		
@@ -3204,10 +3204,10 @@ Shadowbox.init();
 
 
 
-<table cellpadding="0" cellspacing="0" border="0" width="1%">	<tbody><tr>		<td align="left" valign="top" width="1%"><a href="blank.cfm?id=114&amp;ref=&amp;print=true" target="_blank" class="ep"><img src="images/2010Q3/transplant/icon_print.jpg" border="0"></a></td>
-		<td align="left" valign="top" nowrap=""><a href="blank.cfm?id=114&amp;ref=&amp;print=true" target="_blank" class="ep">&nbsp;&nbsp;Print</a></td>
-<td align="left" valign="top">&nbsp;&nbsp;</td>		<td align="left" valign="top" width="1%"><a href="blank2.cfm?id=114&amp;displayheader=No&amp;action=templateEmailFriend&amp;originalAction=None&amp;ref=" target="_blank" class="ep"><img src="images/2010Q3/transplant/icon_share.jpg" border="0"></a></td>
-		<td align="left" valign="top" nowrap=""><a href="blank2.cfm?id=114&amp;displayheader=No&amp;action=templateEmailFriend&amp;originalAction=None&amp;ref=" target="_blank" class="ep">&nbsp;&nbsp;Share</a></td>
+<table cellpadding="0" cellspacing="0" border="0" width="1%">	<tbody><tr>		<td align="left" valign="top" width="1%"><a href="blank.cfm?id=114&amp;ref=1&amp;print=true" target="_blank" class="ep"><img src="images/2010Q3/transplant/icon_print.jpg" border="0"></a></td>
+		<td align="left" valign="top" nowrap=""><a href="blank.cfm?id=114&amp;ref=1&amp;print=true" target="_blank" class="ep">&nbsp;&nbsp;Print</a></td>
+<td align="left" valign="top">&nbsp;&nbsp;</td>		<td align="left" valign="top" width="1%"><a href="blank2.cfm?id=114&amp;displayheader=No&amp;action=templateEmailFriend&amp;originalAction=None&amp;ref=1" target="_blank" class="ep"><img src="images/2010Q3/transplant/icon_share.jpg" border="0"></a></td>
+		<td align="left" valign="top" nowrap=""><a href="blank2.cfm?id=114&amp;displayheader=No&amp;action=templateEmailFriend&amp;originalAction=None&amp;ref=1" target="_blank" class="ep">&nbsp;&nbsp;Share</a></td>
 	</tr></tbody></table>
 
 
@@ -3405,59 +3405,61 @@ Shadowbox.init();
 
 
 
+			
+
+
+			
 	
-	
-		
-		
-	
-		<li><a href="body.cfm?id=113" onclick="NavBar_setPLinkIDCookie('113','');" class="">Legal Notices &amp; Disclaimers</a></li>
+		<li><a href="/disclaimer" onclick="NavBar_setPLinkIDCookie('2850','');" class="">Legal Notices &amp; Disclaimers</a></li>
 		<li><a href="body.cfm?id=1275" onclick="NavBar_setPLinkIDCookie('1275','');" class="">News Center</a></li>
-		<li><a href="body.cfm?id=111" onclick="NavBar_setPLinkIDCookie('111','');" class="">Contact Us</a></li>
-		<li><a href="body.cfm?id=114" onclick="NavBar_setPLinkIDCookie('114','');" class="">Privacy</a></li>
-		<li><a href="body.cfm?id=292" onclick="NavBar_setPLinkIDCookie('292','');" class="">Care Concerns</a></li>
+		<li><a href="/contact" onclick="NavBar_setPLinkIDCookie('2873','');" class="">Contact Us</a></li>
+		<li><a href="/Privacy" onclick="NavBar_setPLinkIDCookie('2874','');" class="">Privacy</a></li>
+		<li><a href="/concerns" onclick="NavBar_setPLinkIDCookie('2875','');" class="">Care Concerns</a></li>
 		<li><a href="body.cfm?id=302" onclick="NavBar_setPLinkIDCookie('302','');" class="">For Medical Professionals</a></li>
 		<li><a href="body.cfm?id=1204" onclick="NavBar_setPLinkIDCookie('1204','');" class="">For Contractors</a></li>
-		<li><a href="body.cfm?id=102" onclick="NavBar_setPLinkIDCookie('102','');" class="">Research</a></li>
-		<li><a href="body.cfm?id=1736" onclick="NavBar_setPLinkIDCookie('1736','');" class="">Site Map</a></li>
+		<li><a href="/research" onclick="NavBar_setPLinkIDCookie('2878','');" class="">Research</a></li>
+		<li><a href="/SiteIndex" onclick="NavBar_setPLinkIDCookie('2879','');" class="">Site Map</a></li>
 		<li><a href="http://www.hometownhealth.com/" target="_blank" onclick="NavBar_setPLinkIDCookie('2312','');" class="">Hometown Health</a></li>
 	
 
-
-	
 		
-	
+				
+			
+
+		
 
 
 
 
-                    <li class="clear_left">© 2010 Renown</li>
+                    <li class="clear_left">© 2012 Renown</li>
                     <li class="last">775-982-4100</li>
                </ul>
                <div class="clear"></div>
 			<div id="footer_logos">
 				
-	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
-	
-		<!-- Begin NavBar Bar #7 Content Output... -->
-		<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+			
+<!-- Begin NavBar Bar #7 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
 	<tbody><tr class="">
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=172" onclick="NavBar_setPLinkIDCookie('2101','');" class=""><img src="images/footer-consumer-choice.gif" border="0" alt="Consumer Choice Award 2010/2011" id="footer-consumer-choice_7_1" name="footer-consumer-choice_7_1"></a></td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=172" onclick="NavBar_setPLinkIDCookie('2100','');" class=""><img src="images/footer-top-100.gif" border="0" alt="Top 100" id="footer-top-100_7_2" name="footer-top-100_7_2"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="/awards" onclick="NavBar_setPLinkIDCookie('2101','');" class=""><img src="images/consumer_choice_2012.gif" border="0" alt="Consumer Choice Award 2011/2012" id="consumer_choice_2012_7_1" name="consumer_choice_2012_7_1"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="/awards" onclick="NavBar_setPLinkIDCookie('2100','');" class=""><img src="images/footer-top-100.gif" border="0" alt="Top 100" id="footer-top-100_7_2" name="footer-top-100_7_2"></a></td>
 	</tr>
 
-</tbody></table>
-	
-		<!-- End NavBar Output -->
-	
+</tbody></table>		
+				
+			
+<!-- End NavBar Output -->
+		
 			
 			</div>
           </div>
           <div id="footer_right">
                
-	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
-	
-		<!-- Begin NavBar Bar #8 Content Output... -->
-		<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+			
+<!-- Begin NavBar Bar #8 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
 	<tbody><tr>
 		<td class="" valign="top" align="left" title=""><a href="http://www.twitter.com/renownhealth" target="_blank" onclick="NavBar_setPLinkIDCookie('2037','');" class=""><img src="images/2010Q3/transplant/twitter.jpg" border="0" alt="Twitter" id="2010Q3/transplant/twitter_8_1" name="2010Q3/transplant/twitter_8_1"></a></td>
 	</tr>
@@ -3470,16 +3472,21 @@ Shadowbox.init();
 	<tr>
 		<td class="" valign="top" align="left" title=""><a href="http://www.flickr.com/renownhealth" target="_blank" onclick="NavBar_setPLinkIDCookie('2040','');" class=""><img src="images/2010Q3/transplant/flickr.jpg" border="0" alt="Flickr" id="2010Q3/transplant/flickr_8_4" name="2010Q3/transplant/flickr_8_4"></a></td>
 	</tr>
-</tbody></table>
-	
-		<!-- End NavBar Output -->
-	
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="http://www.caringbridge.org/partner/renown/" target="_blank" onclick="NavBar_setPLinkIDCookie('2042','');" class=""><img src="images/2010Q3/transplant/caring_bridge.jpg" border="0" alt="CaringBridge.org" id="2010Q3/transplant/caring_bridge_8_5" name="2010Q3/transplant/caring_bridge_8_5"></a></td>
+	</tr>
+</tbody></table>		
+				
+			
+<!-- End NavBar Output -->
+		
 
           </div>
      </div>
 </div>
 
 
+	
 <div class="lightbox">
      <div class="lightbox_bg" style="height: 6484px;"></div>
      <div class="lightbox_container">
@@ -3520,9 +3527,9 @@ Shadowbox.init();
 
         
              
-                
+                 
             
-               17 min.
+             15 min.
                
             
         
@@ -3567,9 +3574,9 @@ Shadowbox.init();
 
         
              
-                
+                 
             
-               25 min.
+             16 min.
                
             
         
@@ -3614,9 +3621,9 @@ Shadowbox.init();
 
         
              
-                
+                 
             
-               31 min.
+             122 min.
                
             
         
@@ -3686,9 +3693,10 @@ Shadowbox.init();
      </div>
 </div>
 
-<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="js/jquery-pngfix.js"></script>
-<script type="text/javascript" src="js/main_sm.js"></script>
+	<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery-pngfix.js"></script>
+	<script type="text/javascript" src="js/main_sm.js"></script>
+
 <!-- Script for Google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -3709,7 +3717,12 @@ urchinTracker();
 
 
 
+
+
 <!--	Heatmapping	-->
+
+
+<!--	DirectURL test	-->
 
 
 
