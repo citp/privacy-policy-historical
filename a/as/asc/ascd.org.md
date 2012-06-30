@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ascd.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008085844id_/http%3A//www.ascd.org/about_ascd/ASCD_Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascd.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630025327id_/http%3A//www.ascd.org/about-ascd/ASCD-Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # ASCD Privacy Policy
-
-ASCD Privacy Policy
 
   
 Your Privacy: Overview
