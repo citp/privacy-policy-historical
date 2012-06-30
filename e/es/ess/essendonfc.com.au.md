@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essendonfc.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623191717id_/http%3A//www.essendonfc.com.au/club/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essendonfc.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234411id_/http%3A//www.essendonfc.com.au/club/privacy.asp) for the most accurate reproduction.*
 
 # Essendon Football Club - Club - Privacy Statement
 
