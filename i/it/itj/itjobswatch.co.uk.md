@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223321id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234449id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
-
-##  Privacy policy
+# Privacy policy and information on cookies
 
 IT Jobs Watch is a trading name of Paradigm Software (UK) Limited (a Data Controller for the purposes of the Data Protection Act - Registration Number Z1386188). 
 
 ###  1\. The information you send us and how we use it
 
-When you contact us through our website (either by email or through electronic forms) we need to know your name and e-mail address. We gather this information to allow us to consider and manage your correspondence. The relevant information is then used by us to process and respond to your correspondence and to communicate with you regarding the provision of our services in general. 
+When you contact us through our website (either by post, phone, email or through electronic forms) we need to know your name and e-mail address. We gather this information to allow us to consider and manage your correspondence. The relevant information is then used by us to process and respond to your correspondence and to communicate with you regarding the provision of our services in general. 
 
 We will not keep your information longer than we reasonably believe is necessary for us to carry out the above and will not pass your personal details on to any third party. We will not send out any unsolicited paper or electronic mail unless we have obtained your explicit permission to do this.
+
+We also delete any Curriculum Vitae that we receive and are unable to store or forward any such documents to any third party.
 
 ###  2\. Our use of cookies and other information gathering technologies
 
 We may collect information regarding your use of the website in order to help us develop the site and our services. This is done through the use of cookies, which enable our system to recognise you when you visit our site. We also use Google Analytics, provided by Google, Inc. Google will use the information they collect about your use of this website to evaluate your website usage, compile reports on website activity for website operators and to provide other related services. 
 
-We use third-party advertising companies to serve ads when you visit our site. These companies may use information about your visits to this and other websites in order to ascertain which types of goods and services you are interested in and to provide advertisements relating to these areas. This is known as interest-based advertising. 
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. 
 
-None of the information collected by Google, Inc, third-party advertising companies or us in accordance with the above will include any information that can be used to identify you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+We also use Google AdSense to serve ads when you visit our site. For more information about Google advertising privacy, [ click here](http://www.google.com/policies/privacy/ads/). 
 
 ###  3\. How we protect your information
 
