@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213065304id_/http%3A//www.younglife.org/Legal/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630040104id_/http%3A//www.younglife.org/Legal/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Young Life Privacy Policy and Conditions of Use
 
@@ -40,7 +40,9 @@ This portion of Young Life’s privacy policy provides a [link](http://www.young
 
 ## Conditions of Use
 
-Young Life provides the services described on the Young Life network as information to visitors interested in learning more about the ministry outreach of Young Life. By visiting our sites, you are accepting these conditions. 
+Young Life provides the services described on the Young Life network as information to visitors interested in learning more about the ministry outreach of Young Life. By visiting our sites, you are accepting these conditions.
+
+Solicitations of any kind made to Young Life staff or volunteers whose contact information may be found on this website, area websites or camp websites are strictly prohibited.
 
 **Limitation of Liability**
 
