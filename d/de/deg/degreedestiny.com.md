@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreedestiny.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060234id_/http%3A//www.degreedestiny.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreedestiny.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630202410id_/http%3A//www.degreedestiny.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # DegreeDestiny.com
 
