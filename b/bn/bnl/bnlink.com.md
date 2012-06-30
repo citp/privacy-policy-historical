@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnlink.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116121404id_/http%3A//bnlink.com/privacy.asp%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnlink.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630141020id_/http%3A//bnlink.com/privacy.asp%3Fref%3D) for the most accurate reproduction.*
 
 # BnLink.com - Make Money Posting and Sharing Links!
 
