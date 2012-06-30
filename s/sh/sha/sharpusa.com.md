@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214539id_/http%3A//www.sharpusa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630123636id_/http%3A//www.sharpusa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SharpUSA | Privacy Policy
 
@@ -49,6 +49,6 @@ Sharp may revise or update this Privacy Policy as we change or add new services 
 
 ## Questions or Concerns
 
-If you have any comments or concerns regarding this Privacy Policy, you may contact us through the [Contact Us](https://web.archive.org/CustomerSupport/ContactUs.aspx) page, write to us at SharpUSA Privacy Policy, c/o Sharp Electronics Corporation, Sharp Plaza, Mahwah, New Jersey 07495-1163; , or call us toll free at 1-877-742-7704.
+If you have any comments or concerns regarding this Privacy Policy, you may contact us through the [Contact Us](http://m.sharpusa.com/CustomerSupport/ContactUs.aspx) page, write to us at SharpUSA Privacy Policy, c/o Sharp Electronics Corporation, Sharp Plaza, Mahwah, New Jersey 07495-1163; , or call us toll free at 1-877-742-7704.
 
 Effective: 11/09/2006
