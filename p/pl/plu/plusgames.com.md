@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plusgames.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222230427id_/http%3A//www.plusgames.com/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusgames.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630052917id_/http%3A//www.plusgames.com/welcome/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
