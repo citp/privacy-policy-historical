@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pelco.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223810id_/http%3A//www.pelco.com/sites/global/en/company/about-us/company-profile/privacypolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelco.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105529id_/http%3A//www.pelco.com/sites/global/en/company/about-us/company-profile/privacypolicy.page) for the most accurate reproduction.*
 
 # Pelco Privacy Policy
 
@@ -6,8 +6,8 @@ Pelco is committed to protecting your privacy. But sometimes we do need informat
 
 Personal information collected by Pelco often is limited to e-mail address, language, country or location, but may include other information when needed. For example: If you choose a service or transaction that requires payment, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number.
 
-**Use of your Personal Information**  
-We use your personal information for the following purposes:  
+**Use of your Personal Information  
+** We use your personal information for the following purposes:  
 
 
   * To deliver services, such as newsletters or events.
@@ -21,8 +21,8 @@ Pelco may disclose your personal information if required to do so by law or in t
 
 When you give us personal information, Pelco will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
 
-**Use of Cookies**  
-When someone visits the site, a cookie may be placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above.
+**Use of Cookies  
+** When someone visits the site, a cookie may be placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above.
 
 **Enforcement of this Privacy Statement**  
 If you have questions regarding this statement, you should first contact Pelco by e-mail. Pelco will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. We will provide you with the means to ensure that your personal information is correct and current. For material changes to this statement, Pelco will notify you by placing prominent notice on the Web site.
