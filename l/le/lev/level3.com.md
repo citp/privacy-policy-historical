@@ -1,121 +1,148 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111010911id_/http%3A//www.level3.com/index.cfm%3FpageID%3D323) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630114941id_/http%3A//www.level3.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Level 3
 
-### Privacy Policy
+##  Privacy
 
-**Our Commitment To Privacy:**
+Privacy Policy of Level 3 Communications, Inc. and its group companies, including Level 3 Communications, LLC, Global Crossing Telecommunications, Inc., Global Crossing North America, Level 3 Communications Limited, Global Crossing (UK) Telecommunications Limited and other affiliated Level 3 and Global Crossing entities (referred to throughout as ‘Level 3’, ‘we’ or ‘us’). 
 
-Level 3
+We are committed to protecting the privacy of individuals. This Privacy Policy sets out our practices regarding personally identifiable information we collect from you, or that you provide to us, via our websites or our audio, conferencing and on-line services, as described herein.
 
-Communications, Inc. and its affiliates (collectively "
+### Introduction
 
-Level 3
+This Privacy Policy explains:
 
-") are committed to protecting the privacy of visitors to this Web site ("Site") and other 
-
-Level 3
-
-Web sites. To accomplish this, we have implemented a comprehensive Online Privacy Policy that governs all information collected on or submitted to our Site. To make this Online Privacy Policy easy to find, we make it available on our homepage and at every point where personal information may be requested. By accessing, browsing or using the Site, you acknowledge that you read, understand, and agree to the terms and conditions of 
-
-Level 3
-
-'s Online Privacy Policy. If you do not agree to these terms and conditions, please do not access, browse, or use this Site. 
-
-Level 3 has self-certified its adherence to the Safe Harbor principles on the 
-
-[_Safe Harbor Web site_](http://www.export.gov/safeharbor)
-
-. 
-
-**The Information We Collect and How We Use It:**
-
-  1. **Non-Personal and Aggregated Information Collected Automatically.** When you visit our Site, we log general data, such as your domain name (e.g., aol.com, Level3.com), the name of the Web page from which you entered our Site, which pages you visit on our Site, and how much time you spend on each page. We use this information to continually monitor and improve our Site and for internal analysis. In particular, we use IP addresses to analyze trends, administer the Site, track user's movement, and gather information for aggregate use. (IP addresses are not linked to personally identifiable information.) 
-  2. **Personal Information That You Choose to Submit.** As a visitor to our Site, you may choose to use the Site to send us personal information (e.g., your name, mailing address, telephone number, e-mail address), for example, when you send a question via the Site, register for a special service, submit your resume, enter a contest or purchase a product or service through our Site. Anytime you submit personal information for a specific purpose using the Site, your information is used for that purpose only, unless you consent otherwise or as required by law. When you submit personal information to Level 3 on this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in another country, which may not provide privacy protections similar to those your country provides.
-
-We do not send unsolicited e-mail to you or other visitors to our Site. We use e-mail to respond to e-mail messages from you, to confirm product or service orders placed online and to engage in other communication that you have authorized or that we have determined necessary to more effectively service you and our customers. 
-
-In many cases, you choose the amount of information you supply (e.g., when sending us information through the Site, you may choose to include only an e-mail address - not a telephone number or mailing address - for replies). There may be instances where some of the information that we ask you to provide is identified as mandatory and some as voluntary. In such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity. 
+  * How we collect information about you when you use our services 
+  * What information we collect about you 
+  * How we may use and share that information 
+  * How you can update or access any personal information we hold about you 
 
 
 
+Please read this Privacy Policy in conjunction with the applicable general terms & conditions and any other service specific terms and conditions (however styled) applicable to the services provided to you.
 
-**What About "Cookies?"**
+### What do we mean by the term Personal Identifiable Information?
 
-The term "cookie" refers to files that are transferred from a Web site to your computer's hard drive. The purpose of cookies is to enable us to track your activities on our Site. Cookies help us remember who you are. They work in the same fashion as the clerk in a store you visit on a regular basis. The store clerk may not necessarily know your name, but he or she recognizes that you have been in the store before and may remember what you usually purchase while you are in the store. Cookies permit us to gain the same kind of information about you and enable us to provide you with more efficient and personalized service. For example, for sites that require registration, a cookie file can be stored on your computer enabling you to skip the registration process on subsequent visits. Cookies are also frequently used to track the progression of a customer engaged in an online purchase to ensure that the transactional information remains intact. 
+When we refer to the term ‘personally identifiable information’, we mean information that can identify you as an individual or is capable of doing so with other information that we may hold about you now or in the future.  The term does not include any statistical, aggregated or anonymized information. 
 
-Some (usually newer) versions of Web browsers allow you to decide whether or not to accept cookie files and some programs notify you when a Web site is about to deposit a cookie file on your hard drive. If you decide not to accept cookies, you may not be able to successfully navigate some portions of a Web site.
+### What information do we collect about you?
 
-You can check your hard drive for cookie files. For PC's, look for "cookies.txt" files on your hard drive. On a Macintosh, look for "magic cookies." There are software programs available ("cookie cutters" and "anonymizers") that allow you to selectively edit cookie files. 
+We may collect and process the following personally identifiable information about you:
 
-Level 3
+  * Information which you may submit to us including your name, address, telephone number and email address. This includes information provided at the time of registering to use our website and/or any of our services, subscribing to our services (including services not provided solely via our websites), posting material or requesting further services. Such information includes verification details that you provide to us in order to access and use specific features of our services, such as verification details provided to us in order to access our conferencing, audio or online services. This will include any verification details which you provide in order to access, download or play taped records. 
+  * Debit/credit card information, banking details and any other relevant payment information necessary for us to process your order or to manage your service. 
+  * Where you are an existing customer, additional information which your company has provided – such as your company's name and address, your employee ID, or your email short name/address. 
+  * If you contact us by phone, email or otherwise, a record of that communication. 
+  * Any surveys you complete that are used for research purposes. 
+  * Details of transactions you carry out through the websites and the fulfillment of your orders for our services. 
+  * Details of your visits to our websites including, but not limited to, traffic data, location data, weblogs and other communication data. 
+  * Information about the type, quantity, configuration, destination, location and amount of use of telecommunications services you currently purchase, how you use those services, and related billing information and end user information for those services. This information is collected in the normal course of providing telecommunications services to our customers, and is commonly referred to as customer proprietary network information, or "CPNI". CPNI is discussed in detail below.  
 
-uses cookie files for online purchasing and the customized presentation of Web pages. We do not use cookies to retrieve information from your computer that was not originally sent in the cookie, nor do we use information transferred through cookies for any promotional or marketing purposes, except as expressly set forth in this Online Privacy Policy. 
 
-**Who We Share It With:**
 
-We may share non-personal, aggregated information with our customers, partners, and advertisers. Aggregated information is not linked to any personal information that can identify an individual person. 
+The submission of your personally identifiable information constitutes your acknowledgment that you have read and understood this Privacy Policy and agree to its terms. You also acknowledge and consent to our collection, storage, and processing of such personally identifiable information.
 
-Unless we have your permission or are required by law, we only share the personal information you provide through our Site with 
+### How do we use your personally identifiable information?
 
-Level 3
+We take the privacy of our customers and suppliers seriously and respect your right to privacy.  Because of our commitment to protecting your privacy, personally identifiable information will be collected, processed, stored, and disposed of in accordance with applicable data protection and privacy laws. 
 
-affiliates and/or business partners that are acting on our behalf. Level 3 reserves the right to disclose customer information to the extent authorized by federal surveillance statutes. We make every reasonable effort to ensure that such 
+We process your personally identifiable information for a number of purposes in order to:
 
-Level 3
+  * provide you with access to our websites 
+  * process your order(s) 
+  * supply you with our products and services (including processing any payment information for such products and services) 
+  * process such information for billing and administration purposes 
+  * analyze how you use our websites, products and services on a personalized or aggregated basis to gather broad demographic information, interests, and behavior so that we may better understand you and can tailor our products and services in accordance with your preferences 
+  * process your IP address to help diagnose problems with our servers and administer our websites 
+  * inform you of any new promotions, products and services offered, improve the level of service and provide notifications regarding service changes or outages or in order to carry out market research 
+  * process any competitions or surveys that you have participated in 
+  * investigate any complaints or other enquiries you may submit for our attention 
+  * process any  job applications you may have made via our websites 
+  * disclose your information to selected third parties (see the section entitled ‘Who do we share your information with?’ below for further information) 
+  * obtain references from previous employers, credit or debt agencies or for the purposes of fraud or money laundering or crime detection and prevention 
 
-affiliates and business partners, including those in the U.S. and/or any other countries, protect your personal information consistent with our Online Privacy Policy.
 
-Level 3 works with third parties to research certain usage and activities on our Web site on our behalf. Some third parties utilize Web beacons to conduct this research. Information collected through Web beacons helps us to identify user demographics and usage patterns to improve our measurements, reporting, and the effectiveness of our marketing efforts. Information recorded through Web beacons is aggregated and then shared with Level 3. No personally identifiable information about you is shared by these third parties with Level 3 as a result of this research. If you prefer not to participate in the Web beacon research on the Level 3 Web site, please visit each of the third party's Web site individually in order to opt out. 
 
-**Our Commitment To Data Security:**
+We may occasionally match or combine your personally identifiable information with personally identifiable information you have provided to other affiliate companies within our group in order to understand and improve the services we provide to you and to determine what other products, services or promotions may be of interest to you.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect through the Site. However, please be advised that 
+Where we process personally identifiable information in the course of our conferencing, audio or on-line services, this is done to allow us to provide the services which your company has asked us to provide, for example, by allowing us to create an authorized user ID for you, to allow you to use our services and by allowing us to provide billing and service usage information to your company.
 
-Level 3
+### Who do we share your information with?
 
-cannot guarantee and has no control over the public or third party network through which you send your personal information to 
+We do not sell or disseminate personally identifiable information to third parties without your consent. 
 
-Level 3
+Unless we have your permission or are required by law, we only share your personally identifiable information with our affiliated group companies and to our selected business partners who act on our behalf in order to provide the services. We make every reasonable effort to ensure that such our affiliates and business partners, including those in the U.S. and/or any other countries in which we operate, process your personally identifiable information in accordance with the terms of this Privacy Policy.
 
-'s Site.
+We may share non-personal, non-individual information in aggregate form with other companies within our group or to carefully selected third parties. Your personally identifiable information may also be accessible by third-party service providers to whom we subcontract, including those who assist us in the provision of our services or who host and maintain our websites or our other services, or who provide billing and other out-sourced services to us. All such service providers must commit to complying with out instructions and to keep all personally identifiable information secure.  Notwithstanding other provisions of this Privacy Policy, we may disclose personally identifiable information and account information in special cases when it is necessary to identify, contact, or bring legal action against someone who may be violating any user agreement or may be causing injury to or interference with us, you, or anyone else that could be harmed by such activities.  We may also disclose personally identifiable information as necessary to collect for the charges related to the services we provide.
 
-**Our Commitment To Children's Privacy:**
+We reserve the right to disclose your personally identifiable information as explicitly set forth in this Privacy Policy or any user agreement agreed to by you, or as otherwise required by government or law enforcement officials. We can, and you hereby authorize us to, disclose any information to law enforcement or other parties that we in our sole discretion, believe is required or appropriate to comply with the law.
 
-Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. 
+We may disclose, assign, sell, license, or otherwise transfer to a third party, your name, address, e-mail address, member name and any other personally identifiable information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of our assets or stock.
 
-**Linked Internet Web Sites:**
+### How long do we keep your information?
 
-This Site provides hyperlinks, which are highlighted words or pictures within a hypertext document that, when clicked, take you to another place within the document, to another document altogether, or to other Web sites not controlled by 
+The length of time we keep your information for can vary according to how we use that information. Unless there is a specific legal requirement to keep you information, we will not keep it for longer than we believe is reasonably necessary for the purposes for which the data was collected.
 
-Level 3
+### Direct Marketing
 
-. These hyper-linked Web sites may contain privacy provisions that are different from those provided herein. 
+We do not send unsolicited e-mail to you at any time. We use e-mail to respond to e-mail messages from you, to confirm product or service orders placed with us and to engage in other communications that you have authorized or that we have determined necessary to more effectively service you and our customers.
 
-Level 3
+We would like to keep you up to date with details of our products and services using the information that you have supplied. We will do this in accordance with applicable privacy laws and in accordance with any direct marketing permissions which were given when we collected information from you. If you would like to change these preferences, please contact the [webmaster](mailto:webmaster@level3.com) or speak to your Account Manager.
 
-is not responsible for the collection, use or disclosure of information collected through these Web sites, and 
+### Transfers of your Information Outside of the European Economic Area (EEA)
 
-Level 3
+We are a multinational group of companies and the information that we collect from you may be transferred to, and stored at, destinations around the world. All  Level 3 entities comply with this Privacy Policy when they use personally identifiable information. 
 
-expressly disclaims any and all liability related to such collection, use, or disclosure.
+Transfers of personally identifiable information made by Level 3 are made in compliance with the Safe Harbor principles to which Level 3 has self-certified its adherence to as can be viewed  on the [Safe Harbor](http://export.gov/safeharbor/) web site at http://export.gov/safeharbor/. 
 
-**How To Correct, Amend, or Delete Your Information:**
+Users from the EEA should note that we will transfer personally identifiable information to countries outside the EEA, some of which may not have data protection legislation equivalent to EEA legislation. However, we ensure that all transfers of personally identifiable information to such countries to our affiliates and subcontractors or agents are done in compliance with the applicable data protection laws of the EEA. If and when you provide personally identifiable information to us, we will ask for your consent to transfer such data outside of the EEA before such transfers take place.
 
-We honor requests from you to correct, amend, or delete your account information (for example, your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, contact the 
+### How to Review and Update your Information
 
-[_Webmaster_](mailto:webmaster@level3.com)
+You may request a copy of the personally identifiable information we hold about you, such as contact information, banking details and marketing preferences, and you may review, correct, update, change or delete this information at any time by submitting a request to the [webmaster](mailto:webmaster@level3.com) at webmaster@level3.com _._ Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation. 
 
-. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+### Children's Privacy Protection
 
-**Online Privacy Policy Changes**
+Our websites do not target and are not intended for children under the age of 13, and we abide by the United States' Children's Online Privacy Protection Act (CORPA) and other applicable laws relating to the use of children’s data.  We do not knowingly collect or maintain personally identifiable information from children under the age of 13.
 
-This Online Privacy Policy is subject to change. Any changes to 
+### Cookies
 
-Level 3
+The term "cookie" refers to files that are transferred from a website to your computer’s hard drive. The purpose of cookies is to enable us to track your activities while on our websites. Cookies help us remember who you are. They work in the same fashion as the clerk in a store you visit on a regular basis. The store clerk may not necessarily know your name, but he or she recognizes that you have been in the store before and may remember what you usually purchase while you are in the store. 
 
-'s Online Privacy Policy will be posted on the Site. All information submitted through the Site to 
+Cookies permit us to gain the same kind of information about you and enable us to provide you with more efficient and personalized service. For example, for sites that require registration, a cookie file can be stored on your computer enabling you to skip the registration process on subsequent visits. Cookies are also frequently used to track the progression of a customer engaged in an online purchase to ensure that the transactional information remains intact.
 
-Level 3
+Some (usually newer) versions of web browsers allow you to decide whether or not to accept cookie files and some programs notify you when a web site is about to deposit a cookie file on your hard drive. If you decide not to accept cookies, you may not be able to successfully navigate some portions of a Web site.
 
-is subject to the terms and conditions of this Online Privacy Policy, as amended. 
+You can check your hard drive for cookie files. For PC’s, look for "cookies.txt" files on your hard drive. On an Apple device, look for "magic cookies." There are software programs available ("cookie cutters" and "anonymizers") that allow you to selectively edit cookie files.
+
+We use cookie files for online purchasing and the customized presentation of our web pages. We do not use cookies to retrieve information from your computer that was not originally sent in the cookie, nor do we use information transferred through cookies for any promotional or marketing purposes, except as expressly set forth in this Privacy Policy.
+
+### Linked Internet Websites
+
+Our websites may provide hyper-text links to other websites over which we have no control and which may contain privacy provisions that are difference from those provided herein. We are not responsible for and expressly disclaim any and all liability for the privacy policies or practices of other websites to which you choose to link from our websites. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your information.
+
+### Security
+
+We have implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure our websites have security measures in place to protect against the loss, misuse and alteration of information under our control. However, the internet is an open system and we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. Certain information may be transmitted to you by electronic mail. Although it may be illegal to intercept or disclose these messages, these transmissions are not secured.
+
+### Customer Proprietary Network Information (CPNI)
+
+CPNI is information that we obtain when we provide telecommunications services to you, including services provided through your Level 3 local telephone company. It includes the types of telecommunications services you purchase from us, how you use them, and the related billing information for those services. CPNI does not include your telephone number, name and address. CPNI also typically includes the type of information found on your bill, such as call details and the types of local, long distance and other services telecommunications services that you have purchased. We have internal policies and safeguards designed to safeguard the privacy of CPNI and protect it from unauthorized access or improper use. In the normal course of providing telecommunications services, we collect and maintain CPNI to enable us to make more meaningful suggestions to you when discussing products and services, packages and promotions that best suit your communications needs. In the US, we are obliged to protect the confidentiality of your CPNI in accordance with federal and certain state laws. We do not sell, trade or share your CPNI, including your calling records with anyone outside of our group of companies or to third parties who perform functions on our behalf (such as billing functions) except as may be required by law or authorized by you. Generally, we are also permitted to use or disclose CPNI to offer telecommunications services of the same type that you already purchase from us. We may also use or disclose your CPNI for legal or regulatory reasons such as a court order, to investigate fraud or to protect against the unlawful use of our telecommunications network and services and to protect other users of our services and to collect bills. ****
+
+### Changes to this Privacy Policy
+
+As we grow and new features are added to our website or to our products and services, or legal requirements change, this Privacy Policy may be modified. Any changes to the Privacy Policy will be notified to you and posted on all our applicable websites. All information submitted through our websites is subject to the terms and conditions of this Privacy Policy, as amended.
+
+### Submission of personal details to us
+
+Any personally identifiable information which you submit to us will be treated and processed by us only in accordance with this Privacy Policy. By submitting any such information, you consent to our holding and processing the information, both electronically and manually, for the expressed purpose. You also consent to the transfer, storage and processing of such information between our offices worldwide.
+
+### How to contact us
+
+If you have any questions or complaints about this Privacy Policy, the information we collect, or how we use that information please contact us at [privacy@level3.com](mailto:privacy@level3.com) or by writing to us at either of the following addresses: 
+
+For UK, Europe, Middle East and Africa please contact: Data Protection Officer, Legal Department, Level 3 Communications, 7th Floor, 10 Fleet Place, London EC4M 7RB, United Kingdom.
+
+For all other worldwide locations, please contact: Privacy Officer, Legal Department, Level 3 Communications, 1025 Eldorado Blvd, Broomfield, Colorado 80021, USA.
+
+Policy Updated May 2012
