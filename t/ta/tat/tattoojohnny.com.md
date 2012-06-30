@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tattoojohnny.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203239id_/http%3A//www.tattoojohnny.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoojohnny.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111049id_/http%3A//www.tattoojohnny.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Tattoo Johnny Tattoo Johnny Company Info: Privacy Policy
 
-Tattoo Johnny, Inc. (â€œTattoo Johnnyâ€ or "us," "we" or â€œourâ€), is the sole proprietor and operator of this website (the "Site"). This Privacy Policy sets forth our information practices and is a part of the Terms and Conditions of Use of this Site located at www.tattoojohnny.com. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy and any updates that are posted on the Site.
+Tattoo Johnny, Inc. ("Tattoo Johnny" or "us," "we" or "our"), is the sole proprietor and operator of this website (the "Site"). This Privacy Policy sets forth our information practices and is a part of the Terms and Conditions of Use of this Site located at www.tattoojohnny.com. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy and any updates that are posted on the Site.
 
 **I. WHAT INFORMATION IS COLLECTED AND WHY**
 
@@ -22,7 +22,7 @@ For our sites that offer user registration, we may retain this information on a 
 
 **b. Contacting You Concerning Promotions and New Products**
 
-We may request you to "opt-in" to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled How Can I â€œOpt-outâ€ of Receiving E-mail Communications. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.
+We may request you to "opt-in" to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled How Can I "Opt-Out" of Receiving E-mail Communications. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.
 
 **c. Use of Your Information**
 
@@ -33,12 +33,11 @@ At times, we may request you to provide personally identifiable information to i
 We will use your information only in accordance with this Privacy Policy. We will not disclose your personally identifiable information to any persons or entities outside of our company, nor lease, license, sublicense, rent, transfer, disclose, disseminate or otherwise grant access to such information unless:   
 (i) You have been given an opportunity to "opt-in" and have agreed to opt-in to such disclosure of your information;   
 (ii) We must share your information in order to provide a product or service that you have ordered or requested, in which case we will require that any third person or entity we use to fulfill your order agrees that it does not have the right to use your information other than to fulfill your order or request; or   
-(iii) We are required to respond to subpoena, court orders or other requirement of law which requires disclosure of your information.   
-
+(iii) We are required to respond to subpoena, court orders or other requirement of law which requires disclosure of your information.
 
 **e. Disclosure of Aggregate Information**
 
-We may combine your personally identifying information and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities for our internal use. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through the Site in a particular geographic region or to track purchasing trends. Such information, and other information we derive from individual users' information, allows us to continue to grow and provide you with quality information through more accurate marketing and advertising of the Site. We may share aggregated information concerning our users, without attribution of personal information, to other companies with whom we conduct business. 
+We may combine your personally identifying information and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities for our internal use. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through the Site in a particular geographic region or to track purchasing trends. Such information, and other information we derive from individual users' information, allows us to continue to grow and provide you with quality information through more accurate marketing and advertising of the Site. We may share aggregated information concerning our users, without attribution of personal information, to other companies with whom we conduct business.
 
 **f. How Can I "Opt-out" of Receiving E-mail Communications?**
 
@@ -57,7 +56,7 @@ What You Can Do To Protect Your Information?
 (ii) Avoid using easy to figure out access and personal ID (PIN) codes.   
 (iii) Never respond to unsolicited requests for your social security number or financial information.   
 (iv) Do not disclose your passwords to the Site or your account information to any other person.   
-(v) Be sure to sign off when finished using a shared computer. 
+(v) Be sure to sign off when finished using a shared computer.
 
 **b. Hypertext Links**
 
@@ -79,4 +78,4 @@ The Privacy Policy for the Site established by us constitutes our and your entir
 
 **VI. CHANGES TO OUR TERMS AND CONDITIONS AND OUR PRIVACY POLICY**
 
-We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time. 
+We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time.
