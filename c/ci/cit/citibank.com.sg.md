@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.com.sg privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205433id_/http%3A//www.citibank.com.sg/gcb/footer/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.com.sg privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630231934id_/http%3A//www.citibank.com.sg/gcb/footer/privacy.htm) for the most accurate reproduction.*
 
 # Citibank Privacy - Citibank Singapore
 
