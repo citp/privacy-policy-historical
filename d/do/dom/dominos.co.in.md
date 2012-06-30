@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217053137id_/http%3A//www.dominos.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630170650id_/http%3A//www.dominos.co.in/privacy.php) for the most accurate reproduction.*
 
 # Dominos pizza order online with home delivery
 
 **Welcome**  
-At Domino’s we recognize that privacy is important!! 
+At Domino�s we recognize that privacy is important!! 
 
 This site is owned by Jubilant Foodworks Limited. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
 
@@ -51,7 +51,7 @@ Domino's may use the personal information that you submit to store and process t
 When using the Domino's Pizza internet ordering system additional information is collected when you order a pizza online. This information assists in the delivery to your door and to verify your credit card payment. The internet order system also stores information about your order to help you remember and re-order the same menu in future. When concluding your order via the Domino's Pizza internet ordering system, you will be asked if you would like to become a WOW Club member. To not become a member untick the box. 
 
 **Credit card details**  
-Domino’s does not store any of your credit card details
+Domino�s does not store any of your credit card details
 
 **Third Party Disclosure**  
 Domino's may share statistics and personal information between themselves and with companies that are related to Domino's including our international branches.Personal information that you submit to Domino's may be disclosed to a third party: Such as our suppliers, as mailing houses, who are employed to provide some of our services such; to meet the purpose for which it was submitted; 
