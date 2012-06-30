@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231072639id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630214239id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy | The White House
-
-[](https://web.archive.org/40dollars/stories)
 
 [Home](https://web.archive.org/) • Our Online Privacy Policy
 
@@ -12,7 +10,7 @@ The White House is committed to protecting individual privacy and securing the p
 
 This privacy policy describes what information is made available to the White House and third parties when you visit WhiteHouse.gov or official White House pages on other sites, and how the White House uses and stores that information.
 
-If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at [http://www.whitehouse.gov/privacy/feedback](https://web.archive.org/web/20111231072639id_/http%3A/privacy/feedback).
+If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at [http://www.whitehouse.gov/privacy/feedback](https://web.archive.org/web/20120630214239id_/http%3A/privacy/feedback).
 
 This policy is organized into the following sections:
 
@@ -162,15 +160,26 @@ _Social Networks_
       * [Educate to Innovate](https://www.facebook.com/EducatetoInnovate)
       * [White House Live application](http://apps.facebook.com/whitehouselive)
     * Twitter ([Privacy](http://twitter.com/privacy)) 
-      * [@WhiteHouse](http://twitter.com/whitehouse/)
-      * [@PressSec](http://twitter.com/PressSec)
-      * [@Pfeiffer44](http://twitter.com/Pfeiffer44)
-      * [@PeteSouza](http://twitter.com/PeteSouza)
+      * [@Blog44](http://twitter.com/blog44)
+      * [@Brundage44](http://twitter.com/brundage44)
+      * [@DavidAgnew44](http://twitter.com/davidagnew44)
+      * [@JEarnest44](http://twitter.com/jearnest44)
+      * [@JesseCLee44](http://twitter.com/jesseclee44)
+      * [@JoiningForces](http://twitter.com/joiningforces)
+      * [@JonCarson44](http://twitter.com/joncarson44)
+      * [@KS44](http://twitter.com/ks44)
       * [@LaCasaBlanca](http://twitter.com/LaCasaBlanca)
-      * [@LetsMove](http://twitter.com/LetsMove)
-      * [@JoiningForces](http://twitter.com/JoiningForces)
-      * [@blog44](http://twitter.com/blog44)
-      * [@macon44](http://twitter.com/#!/macon44).
+      * [@LetsMove](http://twitter.com/letsmove)  
+      * [@Macon44](http://twitter.com/macon44)
+      * [@PeteSouza](http://twitter.com/petesouza)
+      * [@Pfeiffer44](http://twitter.com/pfeiffer44)
+      * [@PressSec](http://twitter.com/presssec)
+      * [@ProjectMyGov](http://twitter.com/projectmygov)
+      * [@VJ44](http://twitter.com/vj44)
+      * [@WethePeople](http://twitter.com/wethepeople)
+      * [@WhiteHouse](http://twitter.com/whitehouse)
+      * [@WHLive](http://twitter.com/whlive)
+      * [@WHWeb](http://twitter.com/WHWeb)
     * MySpace ([Privacy](http://www.myspace.com/index.cfm?fuseaction=misc.privacy)) 
       * [The White House](http://www.myspace.com/whitehouse)
     * LinkedIn: ([Privacy](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv)) 
@@ -178,55 +187,59 @@ _Social Networks_
     * Digg: ([Privacy](http://about.digg.com/privacy)) 
       *  [The White House](http://digg.com/whitehouse)
     * Quora: ([Privacy](http://www.quora.com/about/privacy)) 
-      *  [Aneesh Chopra](http://www.quora.com/Aneesh-Chopra-1)
       *  [Macon Phillips](http://www.quora.com/Macon-Phillips-1)
+      *  [Kori Schulman](http://www.quora.com/Kori-Schulman-1)
+    * Foursquare: ([Privacy](https://foursquare.com/legal/privacy)) 
+      *  [The White House](https://foursquare.com/whitehouse)
+    * Google+: ([Privacy](http://www.google.com/intl/en/+/policy/)) 
+      *  [The White House](https://plus.google.com/b/105479712798762608629/105479712798762608629/posts)
 
 _  Video & Multimedia_
 
-      * YouTube ([Privacy](http://www.youtube.com/t/privacy_at_youtube)) 
-        * [The White House](http://www.youtube.com/user/whitehouse)
-        * [Let's Move](http://www.youtube.com/user/letsmove)
-      * Vimeo ([Privacy](http://vimeo.com/privacy)) 
-        * [The White House](http://vimeo.com/whitehouse)
-      * Hulu ([Privacy](http://www.hulu.com/privacy)) 
-        * [President Obama's Weekly Address](http://www.hulu.com/obamas-weekly-addresses)
-        * [West Wing Week](http://www.hulu.com/west-wing-week)
-        * [Speeches of President Obama](http://www.hulu.com/the-speeches-of-president-obama)
-        * [Inside the White House](http://www.hulu.com/inside-the-white-house)
-        * [Music and the Arts](http://www.hulu.com/music-and-the-arts)
-        * [White House White Board](http://www.hulu.com/white-house-white-board)
-      * Flickr: ([Privacy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html)) 
-        * [The White House](http://www.flickr.com/photos/whitehouse)
-        * [Let's Move](http://www.flickr.com/photos/50399324@N07/)
-      * iTunes: ([Privacy](http://www.apple.com/privacy/)) 
-        *  [White House Podcasts](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistLegacy?cc=us&id=299652047)
-      * UStream: ([Privacy](http://www.ustream.tv/privacy-policy)) 
-        * [The White House](http://www.ustream.tv/whitehouse)
+    * YouTube ([Privacy](http://www.youtube.com/t/privacy_at_youtube)) 
+      * [The White House](http://www.youtube.com/user/whitehouse)
+      * [Let's Move](http://www.youtube.com/user/letsmove)
+    * Vimeo ([Privacy](http://vimeo.com/privacy)) 
+      * [The White House](http://vimeo.com/whitehouse)
+    * Hulu ([Privacy](http://www.hulu.com/privacy)) 
+      * [President Obama's Weekly Address](http://www.hulu.com/obamas-weekly-addresses)
+      * [West Wing Week](http://www.hulu.com/west-wing-week)
+      * [Speeches of President Obama](http://www.hulu.com/the-speeches-of-president-obama)
+      * [Inside the White House](http://www.hulu.com/inside-the-white-house)
+      * [Music and the Arts](http://www.hulu.com/music-and-the-arts)
+      * [White House White Board](http://www.hulu.com/white-house-white-board)
+    * Flickr: ([Privacy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html)) 
+      * [The White House](http://www.flickr.com/photos/whitehouse)
+      * [Let's Move](http://www.flickr.com/photos/50399324@N07/)
+    * iTunes: ([Privacy](http://www.apple.com/privacy/)) 
+      *  [White House Podcasts](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistLegacy?cc=us&id=299652047)
+    * UStream: ([Privacy](http://www.ustream.tv/privacy-policy)) 
+      * [The White House](http://www.ustream.tv/whitehouse)
 
 _Document Sharing_
 
-      * Socrata: ([Privacy](http://www.socrata.com/privacy/)) 
-        * [The White House](http://opendata.socrata.com/profile/whitehouse/bhnt-uir2)
-      * SlideShare: ([Privacy](http://www.slideshare.net/privacy)) 
-        * [The White House](http://www.slideshare.net/whitehouse)
-    * _Email subscriptions and updates_
+    * Socrata: ([Privacy](http://www.socrata.com/privacy/)) 
+      * [The White House](http://opendata.socrata.com/profile/whitehouse/bhnt-uir2)
+    * SlideShare: ([Privacy](http://www.slideshare.net/privacy)) 
+      * [The White House](http://www.slideshare.net/whitehouse)
+  4. _Email subscriptions and updates_
 
 The White House maintains several lists of subscribers who have asked to receive periodic email updates.  Any recipient of a White House email may unsubscribe from future messages via a link at the bottom of each email message.  We do not sell, rent, exchange, or otherwise disclose our list subscribers to persons or organizations outside the Executive Office of the President. 
 
 Messages sent from the White House to email subscribers may include a tracking pixel to provide basic aggregate analytics such as the percentage of recipients who opened an email or clicked on a link in an email, the percentage of subscribers using various email clients, and the number of times an email was forwarded or printed.  Our email analytics providers, GovDelivery and Litmus, also offer the capability to view some data, such as whether a mass email was opened, at an individual level for 30 days after an email was sent; as a matter of policy and practice this data is only viewed on an aggregate basis.
 
-    * _Children and Privacy on WhiteHouse.gov_
+  5. _Children and Privacy on WhiteHouse.gov_
 
 We believe in the importance of protecting the privacy of children online and do not knowingly contact or collect personal information from children under 13.  Our site is not intended to solicit information of any kind from children under 13.  To notify us of our receipt of information by children under 13, please contact us through the [Privacy Feedback form](http://www.whitehouse.gov/privacy/feedback).
 
-    * _Security of WhiteHouse.gov_
+  6. _Security of WhiteHouse.gov_
 
 We take reasonable precautions to protect our site and information automatically collected by WhiteHouse.gov or voluntarily submitted to WhiteHouse.gov or an official White House page on a third-party site. For example, we restrict access to information collected by or submitted to WhiteHouse.gov or official White House pages of on third-party sites to employees who access it to perform their official duties.  Access to official White House accounts on third-party sites is limited to the staff who administer those accounts, and all official White House accounts are clearly labeled.  We also utilize commonly used practices and technical controls to protect this information, along with WhiteHouse.gov itself.  These practices and controls include, but are not limited to, encrypting the transfer of personal information over the Internet via Secure Sockets Layer (SSL), using high-strength firewalls and intrusion detection systems (IDS) to safeguard personal information and maintaining strict technical controls and procedures to ensure the integrity of all data on WhiteHouse.gov. We periodically review our processes and systems to verify compliance with industry best practices and ensure the highest level of security for our website.
 
-    * _Updates to this privacy policy_
+  7. _Updates to this privacy policy_
 
 
 
-Updated: December 20, 2011
+Updated: June 4, 2012
 
 Previous version(s) of this policy may be accessed on the [archive page](https://web.archive.org/privacy/archive).
