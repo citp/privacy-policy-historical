@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the patentbuddy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214147id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patentbuddy.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232414id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.*
 
-# Patent Buddy -Privacy Policy Highlights
-
-This page summarizes the key highlights from our privacy policy. For more information, read our full privacy policy. 
+# Patent Buddy Special Reports
 
   
 Personal information collected.   
@@ -21,20 +19,17 @@ Important information.
 Notice of all changes that materially affect ways in which your personal information may be used or shared will be posted in updates to our Privacy Policy. 
 
 Security.   
-Personal information you provide will be secured with industry standards and technology. 
+Personal information you provide will be secured with industry standard protocols and technology. 
 
 How to contact us.   
-If you have any questions or comments please email us at [support@patentbuddy.com](mailto:support@patentbuddy.com) or contact us at:  
-Patent Buddy LLC  
-Attn: Privacy Policy Issues  
-Minneapolis, MN   
-
+If you have any questions or comments please email us at [support@patentbuddy.com](mailto:support@patentbuddy.com)
 
 PatentBuddy Privacy Policy.   
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:  
 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the Patent Buddy service after notice of changes have been sent to you or published on the Patent Buddy website, you are consenting to the changes.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the Patent Buddy service after notice of changes have been sent to you or published on the Patent Buddy website, you are consenting to the changes.  
+Please read this privacy policy to learn more about: 
 
 * What personally identifiable information of yours is collected by Patent Buddy.  
 
@@ -51,22 +46,17 @@ We reserve the right to modify this privacy statement at any time, so please rev
   
 
 
-Personal Information Collected.   
-The purpose of the Patent Buddy website is to permit Users to voluntarily provide information about themselves for the purposes of developing, maintaining and enhancing a network of professional contacts. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the Patent Buddy website. If you have any hesitation about providing such information to us and/or having such information displayed on the Patent Buddy website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a member of the Patent Buddy community. 
+Personal Information.   
+The purpose of the Patent Buddy website is to permit Users to voluntarily provide information about themselves for the purposes of developing, maintaining and enhancing a network of professional contacts. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the Patent Buddy website. If you have any hesitation about providing such information to us and/or having such information displayed on the Patent Buddy website or otherwise used in any manner permitted in this Privacy Policy and the Terms of Use, you should not become a member of the Patent Buddy community. 
 
 We collect your personal information in the following ways: 
 
 Registration.   
-In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including Patent Buddy, to identify you: name, email address, phone number, name of the organization that you are associated with, and a password chosen by you.   
+In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including Patent Buddy, to identify you: name, email address, name of the organization that you are associated with, and a password chosen by you.   
 
 
 Profile Information.   
 Once you become a User, you may provide additional information in the Profile section describing your skills, professional experiences, and awards/recognitions. Providing additional information beyond what is required at registration to become a User is entirely optional, but enables you to better identify yourself and find new opportunities in the Patent Buddy system to build and leverage your professional network. Any information you provide at registration or in the Profile section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used hereunder, including for the purpose of serving advertisements through the service. If you opt-out you may lose the potential benefit of being a User, including receiving ads that are more targeted to your interests.   
-
-
-Contacts Information.   
-In order to invite others to connect with you directly in Patent Buddy, you may use the Patent Buddy services to invite them if they are a User, or choose their names and enter email addresses. This information will be used by Patent Buddy to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders.   
-You may not invite anyone to connect with you whom you do not know. All information entered there will only be viewable by you and will not be searchable by others in the Patent Buddy network without your permission. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own information.   
 
 
 Customer Service.   
@@ -97,33 +87,28 @@ Certain information you provide to Patent Buddy may reveal, or allow others to i
 
 Rights to Access, Correct and Eliminate Information About You.   
 You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein.   
-We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at [support@patentbuddy.com](mailto:support@patentbuddy.com) or by contacting us at:   
-Patent Buddy LLC  
-Attn: Privacy Policy Issues  
-Minneapolis, MN  
-United States of America  
-
+We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at [support@patentbuddy.com](mailto:support@patentbuddy.com)
 
 Uses of personal information.   
 Patent Buddy is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable information you choose to provide on our website is used to help you describe yourself to other Users. Other information, that does not personally identify you as an individual, is collected by Patent Buddy from Users (such as, for example, patterns of utilization) and is exclusively owned by Patent Buddy. This information can be utilized by Patent Buddy in such manner as Patent Buddy, in its sole discretion, deems appropriate.   
 
 
 Patent Buddy Communications.   
-Patent Buddy will communicate with you through email and notices posted on the Patent Buddy website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access. These include welcome email which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from Patent Buddy related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. Patent Buddy may send you promotional information unless you have opted out of receiving such information. You can change your e-mail and contact preferences at any time by logging into your 'Preferences Page' and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to [support@patentbuddy.com](mailto:support@patentbuddy.com).   
+Patent Buddy will communicate with you through email and notices posted on the Patent Buddy website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access. These include welcome email which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from Patent Buddy related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. Patent Buddy may send you promotional information. You can change your e-mail and contact preferences at any time by logging into your 'Preferences Page' and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to [support@patentbuddy.com](mailto:support@patentbuddy.com).   
 
 
 Customized Content.   
-Information provided to Patent Buddy (or to third parties with whom it offers combined services) is also used to customize your experience on our website. For example, when you login to your account we will display the screen names of new Users who have recently joined your network.   
+Information provided to Patent Buddy (or to third parties with whom it offers combined services) is also used to customize your experience on our website.   
 
 
 Sharing Information with Third Parties.   
-Patent Buddy takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. For instance, we use a credit card processing Patent Owner to bill Users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.   
+Patent Buddy takes the privacy of Users very seriously. We will share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.   
 Patent Buddy offers a "public profile" feature which allows Users to publish portions of their Patent Buddy profile, including their "name", but not their "email address", however Patent Buddy does not warrant how often third-party search engines will update their cache.   
 We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Patent Buddy.   
 
 
 Testimonials and Advertisement Placed through Patent Buddy DirectAds Service.   
-If you provide any testimonials about the Patent Buddy service or place advertisements through the Patent Buddy DirectAds services, we may post those testimonials and examples of advertisements you place in connection with Patent Buddy's promotion of its service to third parties, which testimonials and advertisements may include your name and other personal information that you have provided.   
+May post those testimonials and examples of advertisements you place in connection with Patent Buddy's promo. If you provide any testimonials about the Patent Buddy service or place advertisements through Patent Buddy wetion of its service to third parties, which testimonials and advertisements may include your name and other personal information that you have provided. In connection with our promotion of our services to third parties we may disclose the name of organizations for which our users work. For example, we may publish a list of entities that have employees as registered users to demonstrate the breadth and types of entities that use our website.   
 
 
 Communications to other Users.   
@@ -135,7 +120,7 @@ It is possible that we may need to disclose personal information when required b
 
 
 Disclosures to others.   
-We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Patent Buddy corporation division or Patent Owner. Any third party to which we transfer or sell Patent Buddy's assets will have the right to continue to use the personal and other information that you provide to us.   
+We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of assets of a Patent Buddy. A ny third party to which we transfer or sell Patent Buddy's assets will have the right to continue to use the personal and other information that you provide to us.  
 
 
 Your Information Choices.   
@@ -171,9 +156,7 @@ In order to secure your personal information, access to your data on Patent Budd
 
 
 Customer Support   
-If you would like to contact our customer support department, please call 612-977-1709. You can also contact us via email at [support@patentbuddy.com](mailto:support@patentbuddy.com) or write us at:   
-Patent Buddy Corporation  
-Minneapolis, MN   
+You can also contact us at [support@patentbuddy.com](mailto:support@patentbuddy.com)   
 
 
   
