@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uimn.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223850id_/http%3A//www.positivelyminnesota.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uimn.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235204id_/http%3A//www.positivelyminnesota.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for State of Minnesota Department of Employment and Economic Development (DEED) website
 
@@ -53,9 +53,7 @@ Voice: (651) 259-7193; TTY/TTD: (651) 296-3900; E-mail: [Deb.Serum@state.mn.us](
 * **DEED Websites:**
 
   * **www.positivelyminnesota.com** (main site)
-  * www.focusonability.net
   * www.gwdc.org
-  * www.minnesota-china.com
   * www.MinnesotaWorks.net
   * www.mnprospector.com
   * www.mnsilc.org
