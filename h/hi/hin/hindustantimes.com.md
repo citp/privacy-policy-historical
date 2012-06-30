@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228082455id_/http%3A//www.hindustantimes.com/privacypolicy/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630135504id_/http%3A//www.hindustantimes.com/privacypolicy/privacypolicy.aspx) for the most accurate reproduction.*
 
-# PrivacyPolicy
+# Privacy Policy - Hindustantimes.com
 
 | Privacy Policy  
 ---  
@@ -14,8 +14,13 @@ You may be required to provide personally identifiable information at several di
   
 Information Collection  
   
-You can visit/surf our website without providing any personal information. However, if you choose to avail of certain services on our website, you shall be required to provide certain information for the registration and/or access to such services/web pages. Such information may include, without limitation, your name, email address, contact address, mobile/telephone number(s), sex, age, occupation, interests, financial information, content, IP address, standard web log information and such other information as may be required for your interaction with the services.   
-  
+You can visit/surf our website without providing any personal information. However, if you choose to avail of certain services on our website, you shall be required to provide certain information for the registration and/or access to such services/web pages. Such information may include, without limitation, your name, email address, contact address, mobile/telephone number(s), sex, age, occupation, interests, financial information, content, IP address, standard web log information and such other information as may be required for your interaction with the services. 
+
+a)  At HT Media We collect only Non-Personally Identifiable Information (Non-PII) of users. We clearly state that that information which is collected is divulged only in the event if user chooses to provide his/her information based on his/her knowledge and self-consent or for any compliance, statutory, governance, legal issues etc.
+
+b)  Opt-in or Opt-out: The choice to do so is available/freely at all times via aSpecial media's , "Preferences" page via Self blocking of cookies via browser option or user may choose the Opt-in or out from our partner's website at 
+
+http://aspecialmedia.com/preferences.html  
   
 Use  
   
