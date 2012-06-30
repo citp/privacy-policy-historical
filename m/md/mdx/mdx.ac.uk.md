@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212833id_/http%3A//www.mdx.ac.uk/privacy_policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111829id_/http%3A//www.mdx.ac.uk/privacy_policy/index.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy & Cookies
 
 At several points in this site, you can submit personal information. The information that you give us will be treated in accordance to the Data Protection principles outlined in the Data Protection Act 1998.
 
@@ -27,22 +27,154 @@ The images on this site are either covered by our own copyright or, where the co
 
 ## Cookies
 
-This site uses cookies which are pieces of information that a website transfers to the cookie file on your computer's hard disk. Cookies help you navigate around the site and (where appropriate) enable us to tailor the content to fit your needs.
-
-We use session cookies, which are temporary cookies that remain in the cookie file of your computer until you close your browser (at which point they are deleted).
+Cookies are text files which contain data which are downloaded to your device when you visit a website.
 
 Cookies cannot look into your computer and obtain information about you or your family or read any material kept on your hard drive and, unless you have logged onto an authenticated page, cookies cannot be used to identify who you are.
 
-Cookies cannot be used by anyone else who has access to the computer to find out anything about you, other than the fact that someone using the computer has visited a certain website. Cookies do not in any way compromise the security of your computer.
+Cookies do not in any way compromise the security of your computer.
 
-Cookies will not be used to contact you for marketing purposes other than by means of advertisements offered within this site.
+Middlesex University’s website uses cookies to make continuous improvements to the website. None of the information gathered through Google Analytics can be traced to an individual - we do not know who you are as a unique user, merely that there are a certain number of people using this site. The cookie only relates to what goes on in this site and the information cannot be used for marketing on an individual basis.
 
-Cookies may be used to record details of pages relating to particular products and services that you have visited on this Site. This is to provide us with generic usage statistics to allow the company to improve this website and to provide you with information that may interest you.
+This website uses the following cookies:
 
-In order to develop this website in line with customer needs we use Google Analytics and Webtrends to track usage on this site. Both these provide us with statistics to show which pages are visited most frequently and how long visitors spend on this site.
+ **Type**
 
-Google Analytics and Webtrends use cookies to track the number of unique users of this site. None of the information can be traced to an individual - we do not know who you are as a unique user, merely that there are a certain number of people using this site. The cookie only relates to what goes on in this site and the information cannot be used for marketing on an individual basis.
+| 
 
+ **Name**
+
+| 
+
+ **Purpose**
+
+| 
+
+ **Information**  
+  
+---|---|---|---  
+  
+Session Cookies
+
+| | 
+
+These are temporary cookies that remain in the cookie file of your computer until you close your browser (at which point they are deleted).
+
+|   
+  
+sIFR
+
+| 
+
+sifrFetch
+
+| 
+
+This cookie is required for the technology used to replace fonts used throughout [www.mdx.ac.uk](http://www.mdx.ac.uk/ "Opens in a new window") The cookie determines if the user is visiting the site for the first time and pre-fetches the flash movies.
+
+This cookie is deleted when you leave the Mdx website.
+
+|   
+  
+Google Analytics and MDX Play
+
+| 
+
+_utma   
+_utmb   
+_utmc   
+_utmz
+
+| 
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site and to continually enhance visitor experience. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+| 
+
+[Read the overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "Opens in a new window")  
+  
+AddThis
+
+| 
+
+uid   
+uvc   
+uit   
+sc
+
+| 
+
+These cookies receive information such as which web page you came from, which type of browser you are using, and your general geographic location. When you and others use AddThis tools to share content, they aggregate data about what pages are shared, when, and how.
+
+| 
+
+[Read the overview of privacy & data practices](http://www.addthis.com/privacy#.Tt82IrL7j-4 "Opens in a new window")  
+  
+Google Maps
+
+| 
+
+PREF   
+NID
+
+| 
+
+These are used by Google to track how many people are using their Maps, which appear on our Location pages.
+
+| 
+
+[Click here for an overview of privacy at Google](http://www.google.com/intl/en/privacy/privacy-policy.html "Opens in a new window")  
+  
+MDX Play
+
+| 
+
+mdx_session   
+lu   
+p   
+c_   
+user   
+xs   
+presence   
+act
+
+| 
+
+These session cookies are used to validate form submission to stop Cross Site Request Forgery (CSRF) - Confirmation/error message carried between pages during user interaction with the website.
+
+These cookies are set by the embedded Facebook content on the About Us page. Without these Cookies a user would not be able to view this embedded content.
+
+|   
+  
+### Cookies outside of mdx.ac.uk domain
+
+| 
+
+Name
+
+| 
+
+Purpose
+
+| 
+
+Information  
+  
+---|---|---|---  
+  
+DoubleClick by Google
+
+| 
+
+id
+
+| 
+
+When you are accessing the web through a digital device, Google uses cookies to improve your online experience, and track ad response rates to improve the effectiveness of online advertising on external websites.
+
+| 
+
+[Read the overview of advertising and privacy at Google](http://www.google.com/privacy/ads/ "Opens in a new window")  
+  
 The web browsers of most computers are initially set up to accept cookies. If you prefer, you can set your web browser to disable cookies or to inform you when a website is attempting to add a cookie. You can also delete cookies that have previously been added to your computer's cookie file.
 
 Please visit [All About Cookies](http://www.allaboutcookies.org/manage-cookies/ "Opens in a new window") to discover how to disable and delete cookies.
