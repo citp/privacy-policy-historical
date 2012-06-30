@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220224005id_/http%3A//www.legacy.com/NS/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630032058id_/http%3A//www.legacy.com/NS/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Obituaries | Death Notices | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices
 
 |    | 
 
-| Privacy Policy Updated: May 2011  
+| Privacy Policy Updated: March 2012  
 ---  
 Please read the following privacy policy ("Privacy Policy") carefully before using www.legacy.com or any website or application ("App") powered by Legacy.com, Inc. (collectively, the "Services").  
   
@@ -86,7 +86,7 @@ Top
         * keep track of preferences you specify while you are using the Services;
         * estimate and report our total audience size and traffic;
         * conduct research to improve the content and Services.
-We let other entities that show advertisements on some of our web pages set and access their cookies on your computer or mobile device. Other entities’ use of their cookies is subject to their own privacy policies and not this Privacy Policy. Advertisers or other entities do not have access to our cookies. 
+We let other entities that show advertisements on some of our web pages or assist us with conducting research to improve the content and Services set and access their cookies on your computer or mobile device. Other entities’ use of their cookies is subject to their own privacy policies and not this Privacy Policy. Advertisers or other entities do not have access to our cookies. 
     * We may share anonymous information aggregated to measure the number of App downloads, number of visits, average time spent on the Services websites, pages viewed, etc. with our partners, advertisers and others.
 
   
