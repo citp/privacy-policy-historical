@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strange-lands.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210355id_/http%3A//strange-lands.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strange-lands.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105959id_/http%3A//strange-lands.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel and photography blog
+# Privacy Policy | Travel Photography Blog - Strange Lands
 
 > Privacy Policy for strange-lands.com
 > 
