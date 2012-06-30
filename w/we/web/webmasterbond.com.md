@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webmasterbond.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211121113id_/http%3A//www.webmasterbond.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterbond.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630050654id_/http%3A//www.webmasterbond.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WebmasterBond
+# Privacy Policy
 
 ### What information do we collect?
 
