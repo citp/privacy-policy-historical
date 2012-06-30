@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2011-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110917032208id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111031id_/http%3A//www.gadventures.com/terms-conditions-policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Gap Adventures
+# Adventure Travel & Tours - G Adventures
 
-Gap Adventures and its related parties are committed to protecting your Personal Information that you share with us. We want you to understand our Privacy Policy and what it means to you, our customer. Please take a moment to review our Privacy Policies and Frequently Asked Questions section of this page. By using our website or the services offered by us, you are consenting to our use of such personal information as you provide to us as described herein. If you do not consent to our use of your information, please do not use our services. Any questions you have about our Privacy Policy, or the information contained herein can be directed to our Privacy Officer at: [privacyofficer@gap.ca](mailto:privacyofficer@gap.ca'').
+G Adventures and its related parties are committed to protecting your Personal Information that you share with us. We want you to understand our Privacy Policy and what it means to you, our customer. Please take a moment to review our Privacy Policies and Frequently Asked Questions section of this page. By using our website or the services offered by us, you are consenting to our use of such personal information as you provide to us as described herein. If you do not consent to our use of your information, please do not use our services. Any questions you have about our Privacy Policy, or the information contained herein can be directed to our Privacy Officer at: [privacyofficer@gadventures.com](mailto:privacyofficer@gadventures.com'').
 
-The Privacy Policy applies to Gap Adventures and its related parties: 
+The Privacy Policy applies to G Adventures and its related parties: 
 
-  * Gap Adventures
+  * G Adventures
   * Planeterra
 
 
 
-Which are collectively referred to as Gap Adventures throughout this document for ease of reading. 
+Which are collectively referred to as G Adventures throughout this document for ease of reading. 
 
 We do our utmost to ensure your personal information is safeguarded and protected, by adhering and acting in accordance with the Information Protection and Electronic Documents Act of Canada (the Act) (PIPEDA) and the Canadian Standards Association Model Code for Protection of Personal Information.
 
@@ -53,13 +53,13 @@ Access to your personal and private information is limited to authorized employe
 
 Third Party Partners and Suppliers:
 
-Gap Adventures will share your information with the outside suppliers (such as guides, travel companies, hotel companies, insurance companies, equipment suppliers, and credit card processing entities etc, all of which may be located outside of Canada and governed by differing privacy legislation) who perform services on our behalf. As you would expect, certain information must be provided to these suppliers in order to facilitate your booking and in order to provide you with service(s) you have requested.
+G Adventures will share your information with the outside suppliers (such as guides, travel companies, hotel companies, insurance companies, equipment suppliers, and credit card processing entities etc, all of which may be located outside of Canada and governed by differing privacy legislation) who perform services on our behalf. As you would expect, certain information must be provided to these suppliers in order to facilitate your booking and in order to provide you with service(s) you have requested.
 
-Affiliated Companies within Gap Adventures:
+Affiliated Companies within G Adventures:
 
-In order to provide you with superior customer service, and to ensure you benefit from our full range of products and services and as permitted by law, we may share your personal information within the Gap Adventures of companies listed above.
+In order to provide you with superior customer service, and to ensure you benefit from our full range of products and services and as permitted by law, we may share your personal information within the G Adventures of companies listed above.
 
-Please be assured that Gap Adventures and its contracted suppliers never sell, lease or trade information about you or your travel information to other parties in the ordinary course of conducting its business. Of course, if all of the assets of Gap Adventures or any of the affiliated entities identified in this policy were to be sold, your personal information would be among the assets sold.
+Please be assured that G Adventures and its contracted suppliers never sell, lease or trade information about you or your travel information to other parties in the ordinary course of conducting its business. Of course, if all of the assets of G Adventures or any of the affiliated entities identified in this policy were to be sold, your personal information would be among the assets sold.
 
 ### What are our website policies?
 
@@ -71,9 +71,9 @@ A cookie is a small text file containing a unique identification number that a w
 
 ### How do third-party vendors use Cookies?
 
-Third party vendors, including Google, show Gap Adventures’ ads across the internet. These third party vendors use cookies to serve ads based on a user’s prior visits to the Gap Adventures website. Neither Gap Adventures, or any affiliated third party vendor, store any personal information in the cookie data. Users may opt out of third-party usage of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+Third party vendors, including Google, show G Adventures’ ads across the internet. These third party vendors use cookies to serve ads based on a user’s prior visits to the G Adventures website. Neither G Adventures, or any affiliated third party vendor, store any personal information in the cookie data. Users may opt out of third-party usage of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-### How does Gap Adventures use cookies?
+### How does G Adventures use cookies?
 
 Cookies may be used to help speed up the booking process so you do not need to re-type the same information again and again. We may use cookies to measure website usage such as entry and exit points of visitors, how many people visit a certain section or page and details of searches performed and related information. If you are making a purchase we may also use cookies to keep track of the transaction from one page to the next. We do not store any personal information in the cookie, or use it for any other purpose.
 
@@ -82,11 +82,11 @@ Cookies may be used to help speed up the booking process so you do not need to r
 Upon request in writing, you will be informed of the existence, use and disclosure of your personal information, subject to certain limitations. If you wish to review or verify the personal information you have provided to us, determine to whom your personal information was disclosed, amend or to delete any information, please contact us in writing at the following address:
 
   * Attn: Privacy Officer
-  * Gap Adventures
+  * G Adventures
   * 19 Charlotte Street
   * Toronto, Ontario M5V 2H5
   * Tel: (416) 260 0999
-  * E-Mail: [privacyofficer@gap.ca](mailto:privacyofficer@gap.ca)
+  * E-Mail: [privacyofficer@gadventures.com](mailto:privacyofficer@gapadventures.com)
 
 
 
