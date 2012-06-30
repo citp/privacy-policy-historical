@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getastart.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105014325id_/http%3A//www.getastart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getastart.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630122946id_/http%3A//www.getastart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.getastart.com
 
