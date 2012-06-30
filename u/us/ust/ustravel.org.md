@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustravel.org privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606072556id_/http%3A//www.ustravel.org/about-us-travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustravel.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630121303id_/http%3A//www.ustravel.org/about-us-travel/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Travel Association
 
@@ -59,26 +59,36 @@ Please note that U.S. Travel will never send you an email requesting your passwo
 Securing the Storage of Information  
 We treat the Personal Information you provide to us as confidential information. After Personal Information reaches U.S. Travel, it is stored on a secure server that resides behind firewalls designed to block unauthorized access.
 
-Disclosure of Information to Third Parties  
+### Disclosure of Information to Third Parties
+
 U.S. Travel uses the services of third parties, such as interactive marketing agencies, market researchers and email service providers to assist us with marketing and promoting the Web site. These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose U.S. Travel specifies. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We do not permit the sale of personally identifiable information.
 
-Cookies and Pixel Tags  
-Our Website uses "Cookie" technology. "Cookies" are encrypted strings of text that a Web site stores on a user's computer. Our Web site requires the use of a “Session” Cookie when accessing the online traveler community. "Session" Cookies are temporary and are automatically deleted once you close your internet browser. Session Cookies allow you to log-in and then view and update your content throughout the Web site during the same session or visit to our site. Our Web site uses a “Persistent” Cookie to direct you to the correct country/language version of our site for subsequent visits to the Web site. Persistent Cookies remain on your computer until you delete them or are otherwise removed upon expiration. We do not use Cookies to ascertain any personally identifiable information about you apart from what you voluntarily provide us. Cookies do not corrupt or damage your computer, programs, or computer files.
+### Cookies and Pixel Tags
+
+Our Website uses "Cookie" technology. "Cookies" are encrypted strings of text that a Web site stores on a user's computer. Our Web site requires the use of a "Session" Cookie when accessing the online traveler community. "Session" Cookies are temporary and are automatically deleted once you close your internet browser. Session Cookies allow you to log-in and then view and update your content throughout the Web site during the same session or visit to our site. Our Web site uses a "Persistent" Cookie to direct you to the correct country/language version of our site for subsequent visits to the Web site. Persistent Cookies remain on your computer until you delete them or are otherwise removed upon expiration. We do not use Cookies to ascertain any personally identifiable information about you apart from what you voluntarily provide us. Cookies do not corrupt or damage your computer, programs, or computer files.
 
 Pixel tags are not visible to the user of the Web site and consist of a few lines of computer code. Pixel tags are not used to collect any personally identifiable information about you. Our Web site uses pixel tags to track the aggregate number of page views made on our site by all site visitors. Our email service provider uses pixel tags to determine your ability to receive HTML-based email messages. This capability helps our service provider send email in a format you can read. The sensor does not collect or use any other information. Pixel tags also allow us to know how many users open an email and allow our service provider to compile aggregated statistics about an email campaign for us.
 
 Our Web site uses third-party advertising technology to display ads and track the aggregate number of times each ad is displayed. Our third-party advertising technology does not use pixel tags or cookies nor does it collect any personally identifiable information about you.
 
-Other Sites  
+### Promotions
+
+We have strategic marketing relationships with select third party organizations (e.g., American Express) to offer certain travel related products and services at discounted prices. As part of the purchase process you will be required to provide personally identifiable information such as your name, address, email address, telephone number and credit card information. This information will be used by us and will be provided to the associated third party organizations (e.g., hotel, credit card processor) to execute the transaction. As part of these promotions you will also be given a choice to opt-in into periodic emails from U.S. Travel and the organizations we have selected to offer promotions so that we can keep you informed of future offers and promotions that may be of interest. Please note that there are specific terms and conditions that will be unique to each promotion. An example is the requirement to be a member of the loyalty program for a hotel brand that is included in the promotion. You should carefully review the terms and conditions associated with each promotion before making a purchase.
+
+### Other Sites
+
 U.S. Travel is only responsible for the privacy statement and content of this Web site. We are not responsible for the privacy practices or the use of cookies on Web sites that you have accessed this Web site from and to the non-USTravel.org Web sites that you may access from this Web site.
 
-Legal Issues  
+### Legal Issues
+
 This is a United States Web site and is subject to laws of the United States and the District of Columbia. U.S. Travel will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to USTravel.org associates, or property (including this site), or to others.
 
-U.S. Travel Changes to Your Privacy Rights  
-In the future, we may need to change this privacy statement. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This statement was last updated on September 22, 2009.
+### U.S. Travel Changes to Your Privacy Rights
 
-Contacting U.S. Travel About Privacy Issues   
+In the future, we may need to change this privacy statement. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This statement was last updated on March 15, 2012.
+
+### Contacting U.S. Travel About Privacy Issues
+
 Comments, suggestions, or questions about our privacy statement and U.S. Travel's privacy practices are welcome.  
 Please contact us:  
 By email at [feedback@ustravel.org](mailto:feedback@ustravel.org)
