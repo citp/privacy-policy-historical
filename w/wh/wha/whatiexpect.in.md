@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatiexpect.in privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112405id_/http%3A//whatiexpect.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatiexpect.in privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630132312id_/http%3A//whatiexpect.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Whatiexpect.in
 
