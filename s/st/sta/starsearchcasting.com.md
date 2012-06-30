@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231100421id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630104846id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Jonathan Parker - StarSearchCasting.com Talent Search for Acting, Modeling, Singing, Dancing
+# Become a Child Actor | Child Acting Agencies & Disney Auditions
 
 |  |  [Member Success Stories](https://web.archive.org/testimonials.php) [](https://web.archive.org/testimonials.rss.php) |   
 ---|---|---  
@@ -15,15 +15,7 @@
 
 **Effective May 1, 2010:**
 
-[](https://clicktoverify.truste.com/pvr.php?page=validate&url=StarSearchCasting.com&sealid=101) [](https://clicktoverify.truste.com/pvr.php?page=validate&url=StarSearchCasting.com&sealid=105)
-
-Star Search Casting is a licensee of the TRUSTe Privacy and Children’s Privacy Seal Programs. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites StarSearchCasting.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this privacy statement, you should first contact Star Search Casting by [clicking here](http://starsearchcasting.com/html/contact_us.php). 
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](https://clicktoverify.truste.com/pvr.php?page=validate&url=StarSearchCasting.com&sealid=101). 
-
-TRUSTe will then serve as a liaison with you to resolve your concerns. 
+If you have questions or concerns regarding this privacy statement, you should contact Star Search Casting by [clicking here](http://starsearchcasting.com/html/contact_us.php). 
 
 As a social networking site, Star Search Casting is built to make it easy to share information with entertainment industry professionals, your friends, and people around you. We understand you may not want everyone in the world to have the information you put on Star Search Casting; that is why we limit the personally identifiable information shown on your profile and never give out your last name, street address, phone number, or email address or any personal information to third parties for promotional purposes unless you have granted your consent. 
 
