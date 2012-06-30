@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the namescout.com privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126191531id_/http%3A//www.namescout.com/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the namescout.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630065845id_/http%3A//www.namescout.com/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-ca" class="cufon-active cufon-ready"><head><title>
+<!DOCTYPE html><html lang="en-ca" class="namescout cufon-active cufon-ready"><head><title>
 	Namescout.com - Privacy Statement
 </title><link id="ctl00_favIcon" rel="shortcut icon" href="App_Themes/Namescout/favicon.ico" type="image/x-icon"><meta name="verify-v1" content="uqdlIzTT/2nRlMxjJTUkEq4VM3rwxPInb8djIrm+r9M="><meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
 
@@ -10,11 +10,12 @@
 		<![endif]-->
 
 		<!-- CSS - Common to all sites -->
-		<link rel="stylesheet" type="text/css" href="/css/combined_2C52984A820D67D13432FB4618369BA8.css">
+		<link rel="stylesheet" type="text/css" href="/css/combined_62E738947EA180049522C4E18AEA97E8.css">
 <meta name="Description" content="Quality Domain Name Registration and Management at Namescout.com. Registrar offering great bulk domain management tools and services that are fast and simple to use. Register .com, .net, .org, and .info top level domains."><meta name="Keywords" content="domain name, domain names, domain registrar, domain name registrar, domain name registrars, registrar, domain, domains, domain name registration, domain name registrations, domain registration, domain registrations, domain name register, register domain, register domains, internet domain registrations, internet domain names, internet domain name, transfer domain name, transferring domain names, renew domain, domain forwarding, .com, .net, .org, .info, web site, website, cheap domain, cheap domains, transfer domain, transfer domains, buy domain name, buy domain names, domain name search, web address, buy domain, buy domains, domain search, domain renewal, domain transfers, bulk price, bulk domain registrations, search domains, ICANN-accredited registrar, URL, DNS"><link href="App_Themes/Namescout/auto-renew.css" type="text/css" rel="stylesheet"><script type="text/javascript" src="/Scripts/jquery.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style></head>
     
-    <body id="top" class="namescout">
-        <script language="javascript" type="text/javascript">
+    <body id="ctl00_bodyEl">
+	<span id="top"></span>
+        <script>
             var AllowEnterKey = false;
             function SearchEnterKeyHandler(e, targetID)
             {
@@ -56,14 +57,65 @@
             function pageLoad(sender, args){
                 $addHandler(document, "keydown", HideModalPopup);
             }
+
+            $(function () {
+                var maxLines = 100000;
+                var limitPerLine = 255;
+                var prevLength = 0;
+
+                $('textarea[id$=txtSelectMulti]').keyup(function (e) {
+                    var lineData = $(this).val().split("\n");
+
+                    // total number of lines
+                    var totalCurrentLines = lineData.length;
+
+                    // current line number
+                    var lineNum = getCurrentLineNumber($(this).get(0));
+
+                    // length of current line
+                    var len = lineData[lineNum - 1].length;
+
+                    if (e.keyCode == 13 && totalCurrentLines > maxLines)
+                        this.value = this.value.substring(0, prevLength);
+                    else if (len > limitPerLine) {
+                        var val = '';
+                        for (i = 0; i < lineData.length; i++) {
+                            if (i == lineNum - 1)
+                                val += lineData[i].substring(0, limitPerLine);
+                            else
+                                val += lineData[i];
+                            if(i != lineData.length - 1)
+                                val += '\n';
+                        }
+                        this.value = val;
+                    }
+
+                    prevLength = $(this).val().length;
+                });
+            });
+
+            // get current line number of "multi line" text box
+            function getCurrentLineNumber(element) {
+                var pos = element.selectionStart;
+                var splitInfo = $('textarea[id$=txtSelectMulti]').val().substring(0, pos).split("\n");
+                return splitInfo.length;
+            }
+
+            // get index of first character in current line of "multi line" text box
+            function getIndexofFirstCharAtLine(data, lineNumber) {
+                var index = 0;
+                for (i = 0; i < lineNumber - 1; i++)
+                    index += data[i].length;
+                return index;
+            }
               
         </script>
 
-        <form name="aspnetForm" method="post" action="PrivacyStatement.aspx" id="aspnetForm" onkeypress="if(AllowEnterKey==false){return event.keyCode!=13}">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE5OTMxNzk4MQ9kFgJmD2QWBGYPZBYCAgEPFgIeBGhyZWYFIn4vQXBwX1RoZW1lcy9OYW1lc2NvdXQvZmF2aWNvbi5pY29kAgEPZBYCAgUPFgIeBWNsYXNzBR9jb250YWluZXIgcHJpdmFjeXN0YXRlbWVudC1wYWdlFggCAQ9kFgJmD2QWAgIBD2QWBAIBD2QWCGYPZBYIZg9kFgJmDw8WBB4ISW1hZ2VVcmwFLX4vQXBwX1RoZW1lcy9OYW1lc2NvdXQvaW1hZ2VzL3NwYWNlci5naWYuYXNweB4NQWx0ZXJuYXRlVGV4dAUNTmFtZXNjb3V0LmNvbWRkAg4PZBYCZg8PFgQfAgUtfi9BcHBfVGhlbWVzL05hbWVzY291dC9pbWFnZXMvc3BhY2VyLmdpZi5hc3B4HwMFDU5hbWVzY291dC5jb21kZAIUDw8WAh4HVmlzaWJsZWhkFgQCCw9kFgICAQ9kFgZmDxBkZBYGZgIBAgICAwIEAgVkAgEPEGRkFgZmAgECAgIDAgQCBWQCAg8QZGQWBWYCAQICAgMCBGQCDQ8WAh4Hb25jbGljawVjRXhwYW5kKCdjdGwwMF9jdGxIZWFkZXJfY3RsU2VhcmNoQmFyX2Rpdk1haW5UTERzJywnY3RsMDBfY3RsSGVhZGVyX2N0bFNlYXJjaEJhcl9kaXZDbGlja3RvRXhwYW5kJyk7ZAIVDxYCHwRnFgICAQ8PFgIeBFRleHQFEVByaXZhY3kgU3RhdGVtZW50ZGQCAQ9kFgQCBQ9kFgICAQ9kFgJmD2QWBgIDDw9kFgIeCm9ua2V5cHJlc3MFgAFMb2dpbkVudGVyS2V5SGFuZGxlcihldmVudCwgJ2N0bDAwX2N0bEhlYWRlcl9kaXZMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdCb3gnLCAnY3RsMDBfY3RsSGVhZGVyX2xjVG9wTG9naW5fTG9naW4nKWQCBQ8PZBYCHwcFgAFMb2dpbkVudGVyS2V5SGFuZGxlcihldmVudCwgJ2N0bDAwX2N0bEhlYWRlcl9kaXZMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdCb3gnLCAnY3RsMDBfY3RsSGVhZGVyX2xjVG9wTG9naW5fTG9naW4nKWQCBw8PZBYCHwUFTVNob3dMb2FkaW5nKCdjdGwwMF9jdGxIZWFkZXJfZGl2TG9nZ2luZ0luJywgJ2N0bDAwX2N0bEhlYWRlcl9kaXZMb2dnaW5nQm94Jyk7ZAINDw8WBB4IQ3NzQ2xhc3MFD25hdmlnYXRpb24tMWNvbB4EXyFTQgICZGQCAg9kFgQCCw9kFgICFg8WAh8EaGQCDQ9kFgQCCw9kFgICAQ9kFgZmDxBkZBYGZgIBAgICAwIEAgVkAgEPEGRkFgZmAgECAgIDAgQCBWQCAg8QZGQWBWYCAQICAgMCBGQCDQ8WAh8FBV9FeHBhbmQoJ2N0bDAwX2N0bEhlYWRlcl9zYkludGVybmljX2Rpdk1haW5UTERzJywnY3RsMDBfY3RsSGVhZGVyX3NiSW50ZXJuaWNfZGl2Q2xpY2t0b0V4cGFuZCcpO2QCAw9kFggCAw9kFgICAQ8WAh8ABQ8vQ29udGFjdFVzLmFzcHgWAgIDDxYCHwYFDjEtNjEzLTc2OC01MTQwZAIHD2QWBAIWDxYCHwRoZAIbDw8WAh4NT25DbGllbnRDbGljawVEc2V0VGltZW91dCgiJCgnI2N0bDAwX2N0bEhlYWRlcl9sY05TTG9naW5fVXNlck5hbWUnKS5mb2N1cygpOyIsNTAwKTtkZAIJD2QWBAILDxYCHgVzdHlsZQULaGVpZ2h0OjBweDtkAg0PFgQfCwUOZGlzcGxheTpibG9jazsfBQVhRXhwYW5kKCdjdGwwMF9jdGxIZWFkZXJfc2JOYW1lc2NvdXRfZGl2TWFpblRMRHMnLCdjdGwwMF9jdGxIZWFkZXJfc2JOYW1lc2NvdXRfZGl2Q2xpY2t0b0V4cGFuZCcpO2QCCw9kFgICAw9kFgICAQ9kFgJmD2QWBgIBDw9kFgIfBwV+TG9naW5FbnRlcktleUhhbmRsZXIoZXZlbnQsICdjdGwwMF9jdGxIZWFkZXJfZGl2TlNMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2Rpdk5TTG9naW4nLCAnY3RsMDBfY3RsSGVhZGVyX2xjTlNMb2dpbl9Mb2dpbicpZAIDDw9kFgIfBwV+TG9naW5FbnRlcktleUhhbmRsZXIoZXZlbnQsICdjdGwwMF9jdGxIZWFkZXJfZGl2TlNMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2Rpdk5TTG9naW4nLCAnY3RsMDBfY3RsSGVhZGVyX2xjTlNMb2dpbl9Mb2dpbicpZAILDw9kFgIfBQVMU2hvd0xvYWRpbmcoJ2N0bDAwX2N0bEhlYWRlcl9kaXZOU0xvZ2dpbmdJbicsICdjdGwwMF9jdGxIZWFkZXJfZGl2TlNMb2dpbicpO2QCAw8PFgIfBGhkZAIHDxYCHwsFDmRpc3BsYXk6IG5vbmU7FgYCAQ9kFggCAQ8PFgQeC05hdmlnYXRlVXJsBRFBc2tBUXVlc3Rpb24uYXNweB8GBRVzZXJ2aWNlQG5hbWVzY291dC5jb21kZAIDDxYCHwYFDjEtNjEzLTc2OC01MTQwZAIFDw8WAh8MBR1odHRwOi8vc2VydmljZS5uYW1lc2NvdXQuY29tL2RkAgsPZBYCAgEPZBYCZg9kFgYCAw8PZBYCHwcFUnJldHVybiBTZWFyY2hFbnRlcktleUhhbmRsZXIoZXZlbnQsICdjdGwwMF9OSUNTaWRlYmFyMV9zYlNpZGViYXJTZWFyY2hfbG5rU2VhcmNoJylkAgcPEGQPFhFmAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhAWERAFBC5DT00FATFnEAUELk5FVAUBMmcQBQQuT1JHBQEzZxAFBS5NT0JJBQIxMWcQBQUuSU5GTwUBNGcQBQQuQklaBQIxMGcQBQUuTkFNRQUBOGcQBQUuQVNJQQUCMTJnEAUDLkVVBQE2ZxAFAy5VUwUBN2cQBQMuQ04FAjE0ZxAFBy5DT00uQVUFAjEzZxAFBy5ORVQuQVUFAjEzZxAFAy5DTwUCMTZnEAUHLk9SRy5BVQUCMTNnEAUHLkFTTi5BVQUCMTNnEAUGLklELkFVBQIxM2cWEWYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEGQCCQ9kFgICAQ8QZGQWAWZkAgMPZBYCZg9kFgJmD2QWBAIBDw8WAh8EZ2QWAgIDDxYCHwAFHWh0dHA6Ly9zZXJ2aWNlLm5hbWVzY291dC5jb20vZAIDD2QWCAIVDxYCHwRoZAIZDxYCHwYFBE5vbmVkAh0PFgIfBgUNMjU1LjI1NS4yNTUuMGQCIQ8WAh8GBQROb25lZAIFDxYCHwRoZAIJDxYCHwsFDmRpc3BsYXk6IG5vbmU7FgICAQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgJmD2QWAgIFDxYCHgVWYWx1ZQUBMmQCCw8WAh8BBQltYWluLTFjb2wWAgIDD2QWAgIBD2QWAmYPZBYGAgMPD2QWAh8HBU1yZXR1cm4gU2VhcmNoRW50ZXJLZXlIYW5kbGVyKGV2ZW50LCAnY3RsMDBfc2JNYWluQ29udGVudFNlYXJjaEJveF9sbmtTZWFyY2gnKWQCBw8QZA8WEWYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEBYREAUELkNPTQUBMWcQBQQuTkVUBQEyZxAFBC5PUkcFATNnEAUFLk1PQkkFAjExZxAFBS5JTkZPBQE0ZxAFBC5CSVoFAjEwZxAFBS5OQU1FBQE4ZxAFBS5BU0lBBQIxMmcQBQMuRVUFATZnEAUDLlVTBQE3ZxAFAy5DTgUCMTRnEAUHLkNPTS5BVQUCMTNnEAUHLk5FVC5BVQUCMTNnEAUDLkNPBQIxNmcQBQcuT1JHLkFVBQIxM2cQBQcuQVNOLkFVBQIxM2cQBQYuSUQuQVUFAjEzZxYRZgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQZAIJD2QWAgIBDxBkZBYBZmQYAwUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFhQFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cxJDAFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cxJDEFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cxJDIFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cxJDMFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cxJDQFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cxJDUFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cxJDUFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cyJDAFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cyJDEFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cyJDIFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cyJDMFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cyJDQFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cyJDUFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3cyJDUFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3czJDAFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3czJDEFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3czJDIFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3czJDMFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3czJDQFJWN0bDAwJGN0bEhlYWRlciRzYk5hbWVzY291dCRjaGtSb3czJDQFGGN0bDAwJGN0bEZvb3RlciRtdkZvb3Rlcg8PZAIDZAUYY3RsMDAkY3RsSGVhZGVyJG12SGVhZGVyDw9kAgNkaXLLZBjlUbR88jjVrETBXBiAeDE=">
+        <form name="aspnetForm" method="post" action="PrivacyStatement.aspx" id="aspnetForm" onkeypress="if(AllowEnterKey==false){return event.keyCode!=13}" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE5OTMxNzk4MQ9kFgJmD2QWBGYPZBYCAgEPFgIeBGhyZWYFIn4vQXBwX1RoZW1lcy9OYW1lc2NvdXQvZmF2aWNvbi5pY29kAgEPZBYCZg8WAh4HZW5jdHlwZQUTbXVsdGlwYXJ0L2Zvcm0tZGF0YRYCAgUPFgIeBWNsYXNzBR9jb250YWluZXIgcHJpdmFjeXN0YXRlbWVudC1wYWdlFgoCAQ9kFgJmD2QWAgIBD2QWBAIBD2QWCGYPZBYIZg9kFgJmDw8WBB4ISW1hZ2VVcmwFLX4vQXBwX1RoZW1lcy9OYW1lc2NvdXQvaW1hZ2VzL3NwYWNlci5naWYuYXNweB4NQWx0ZXJuYXRlVGV4dAUNTmFtZXNjb3V0LmNvbWRkAg0PZBYCZg8PFgQfAwUtfi9BcHBfVGhlbWVzL05hbWVzY291dC9pbWFnZXMvc3BhY2VyLmdpZi5hc3B4HwQFDU5hbWVzY291dC5jb21kZAITDw8WAh4HVmlzaWJsZWhkFgQCCw9kFgICAQ9kFgZmDxBkZBYGZgIBAgICAwIEAgVkAgEPEGRkFgZmAgECAgIDAgQCBWQCAg8QZGQWBmYCAQICAgMCBAIFZAINDxYCHgdvbmNsaWNrBWNFeHBhbmQoJ2N0bDAwX2N0bEhlYWRlcl9jdGxTZWFyY2hCYXJfZGl2TWFpblRMRHMnLCdjdGwwMF9jdGxIZWFkZXJfY3RsU2VhcmNoQmFyX2RpdkNsaWNrdG9FeHBhbmQnKTtkAhQPFgIfBWcWAgIBDw8WAh4EVGV4dAURUHJpdmFjeSBTdGF0ZW1lbnRkZAIBD2QWBAIFD2QWAgIBD2QWAmYPZBYGAgMPD2QWAh4Kb25rZXlwcmVzcwWAAUxvZ2luRW50ZXJLZXlIYW5kbGVyKGV2ZW50LCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdJbicsICdjdGwwMF9jdGxIZWFkZXJfZGl2TG9nZ2luZ0JveCcsICdjdGwwMF9jdGxIZWFkZXJfbGNUb3BMb2dpbl9Mb2dpbicpZAIFDw9kFgIfCAWAAUxvZ2luRW50ZXJLZXlIYW5kbGVyKGV2ZW50LCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdJbicsICdjdGwwMF9jdGxIZWFkZXJfZGl2TG9nZ2luZ0JveCcsICdjdGwwMF9jdGxIZWFkZXJfbGNUb3BMb2dpbl9Mb2dpbicpZAIHDw9kFgIfBgVNU2hvd0xvYWRpbmcoJ2N0bDAwX2N0bEhlYWRlcl9kaXZMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdCb3gnKTtkAg0PDxYEHghDc3NDbGFzcwUPbmF2aWdhdGlvbi0xY29sHgRfIVNCAgJkZAICD2QWAgIND2QWBAILD2QWAgIBD2QWBmYPEGRkFgZmAgECAgIDAgQCBWQCAQ8QZGQWBmYCAQICAgMCBAIFZAICDxBkZBYGZgIBAgICAwIEAgVkAg0PFgIfBgVfRXhwYW5kKCdjdGwwMF9jdGxIZWFkZXJfc2JJbnRlcm5pY19kaXZNYWluVExEcycsJ2N0bDAwX2N0bEhlYWRlcl9zYkludGVybmljX2RpdkNsaWNrdG9FeHBhbmQnKTtkAgMPZBYIAgMPZBYCAgEPFgIfAAUPL0NvbnRhY3RVcy5hc3B4FgICAw8WAh8HBQ4xLTYxMy03NjgtNTE0MGQCBw9kFgICGg8PFgIeDU9uQ2xpZW50Q2xpY2sFRHNldFRpbWVvdXQoIiQoJyNjdGwwMF9jdGxIZWFkZXJfbGNOU0xvZ2luX1VzZXJOYW1lJykuZm9jdXMoKTsiLDUwMCk7ZGQCCQ9kFgQCCw8WAh4Fc3R5bGUFC2hlaWdodDowcHg7ZAINDxYEHwwFDmRpc3BsYXk6YmxvY2s7HwYFYUV4cGFuZCgnY3RsMDBfY3RsSGVhZGVyX3NiTmFtZXNjb3V0X2Rpdk1haW5UTERzJywnY3RsMDBfY3RsSGVhZGVyX3NiTmFtZXNjb3V0X2RpdkNsaWNrdG9FeHBhbmQnKTtkAgsPZBYCAgMPZBYCAgEPZBYCZg9kFgYCAQ8PZBYCHwgFfkxvZ2luRW50ZXJLZXlIYW5kbGVyKGV2ZW50LCAnY3RsMDBfY3RsSGVhZGVyX2Rpdk5TTG9nZ2luZ0luJywgJ2N0bDAwX2N0bEhlYWRlcl9kaXZOU0xvZ2luJywgJ2N0bDAwX2N0bEhlYWRlcl9sY05TTG9naW5fTG9naW4nKWQCAw8PZBYCHwgFfkxvZ2luRW50ZXJLZXlIYW5kbGVyKGV2ZW50LCAnY3RsMDBfY3RsSGVhZGVyX2Rpdk5TTG9n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ZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzIkMAUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzIkMQUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzIkMgUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzIkMwUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzIkNAUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzIkNQUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzIkNQUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzMkMAUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzMkMQUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzMkMgUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzMkMwUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzMkNAUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzMkNQUlY3RsMDAkY3RsSGVhZGVyJHNiTmFtZXNjb3V0JGNoa1JvdzMkNQUMY3RsMDAkY2hrVGFnBRhjdGwwMCRjdGxGb290ZXIkbXZGb290ZXIPD2QCA2QFGGN0bDAwJGN0bEhlYWRlciRtdkhlYWRlcg8PZAIDZNr1eTtYIMJ3MinYPSKqcGYmc6J3">
 
 
-<script src="/ScriptResource.axd?d=GtHzSt5JMh3A-wDtR2HftJGAik_lqXPWInAyesmGScQwlBvDErn0jk5NB9WZtpbF3lgchPozVcI5DrFF7DlMLjHmMnd3v94gHmJ-LjatWqAjIxn6TreWECxqJRdnanbu5mNa_Gk4kfxPiS5pop9KVCH8Vow1&amp;t=fffffffff8aaa07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=GtHzSt5JMh3A-wDtR2HftJGAik_lqXPWInAyesmGScQwlBvDErn0jk5NB9WZtpbF3lgchPozVcI5DrFF7DlMLjHmMnd3v94gHmJ-LjatWqAjIxn6TreWECxqJRdnanbu5mNa_Gk4kfxPiS5pop9KVCH8Vow1&amp;t=ffffffffe62539ef" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=pPalPac4lC-cJ22N9xrH1MCr56OxHearUKfDE88QEFeSUz2GAEFTU_MolgSbSY0w-ou1988jRTW33sn1ywFU2DGDDN6C5gq5mx6QpxL3MHL0IvYtgoTmR6cYgd3FNS3QzZkl8svMQK01cN3bAPUpFpRR3hw1&amp;t=7cfd4757" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=AtGSZWqM02GjTnifumLXcjjjBz8LFF6G7r7YcvRgseghYmsgJt6leb9zlGEYxUp2zFiccfLeOKU70EwtdYOFf-Jd8mouSmCHeEMm3AKtU34nKBFs9J_yPI_mMNaDKucexBDgUK_Gw_jz-lwz6sb2U72dX001&amp;t=7cfd4757" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=o4Mgwhvb-qswXvmcpsWxV9h7RveEwn-Dspcmv_TppWE7vOSSNz2XC-zijxq6nkAiBzUq-cYHryxMHnzjuLh_T_Fk51JKaG6mNW3_44uD64f21PMAdikCYyiTifwodinNfbTckIGzbcjb91yW_uJQ_6Ig_F01&amp;t=7cfd4757" type="text/javascript"></script>
@@ -84,16 +136,16 @@
 <script src="/Scripts/jquery.filestyle.mini.js" type="text/javascript"></script>
 <script src="/Scripts/cufon-yui.js" type="text/javascript"></script>
 <script src="/Scripts/Bauhaus_Std_500.font.js" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWHQLujP2UBALa3Z2LCgKtt6HWCgLKqJeACgK3ov25AgLj/5j9BALi/5j9BALh/5j9BALg/5j9BALn/5j9BALm/5j9BAKSxL+9BgKRxL+9BgKQxL+9BgKPxL+9BgKWxL+9BgKVxL+9BgKtrd1SAqyt3VICq63dUgKqrd1SArGt3VICjuXxhQQCkcnh/woCsZHOqAICwLyxtQQCwJS4uQEC7oz6/AYCqrHlyAWMlWnKD4XsZ4meDnu+DE1cu6K7Cw==">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWJQLFjsTMBgLa3Z2LCgKtt6HWCgLKqJeACgK3ov25AgLj/5j9BALi/5j9BALh/5j9BALg/5j9BALn/5j9BALm/5j9BAKSxL+9BgKRxL+9BgKQxL+9BgKPxL+9BgKWxL+9BgKVxL+9BgKtrd1SAqyt3VICq63dUgKqrd1SArGt3VICsK3dUgKO5fGFBAKRyeH/CgKxkc6oAgLAvLG1BALAlLi5AQLujPr8BgKqseXIBQLw17/yDAKZtODaCwK7strnCwL5uYD0CgLXuMDYBgKp6ufxCALsurX6CHbX7BNPWloQk+lyQqMBCwFvQmD8">
             
             
-            
+			
             
 
             <div id="ctl00_container" class="container privacystatement-page">
-                    <div id="ctl00_upHeader">
+                <div id="ctl00_upHeader">
 	
-                            
+                        
 
 <script>
     function ConfirmAccessDelete(portfolioname)
@@ -267,8 +319,7 @@
                                 <li class="column"><ul>
                                     <li class="menuitem"><a href="RPMSplash.aspx" id="ctl00_ctlHeader_A12" title="Organize &amp; configure many domains with our bulk management tool."><span>Domain Manager</span>Organize &amp; configure many domains with our bulk management tool.</a></li>                                    
                                      
-                                    <li class="menuitem"><a href="http://www.pool.com" id="ctl00_ctlHeader_A13" title="Visit our affiliate POOL.com to backorder, auction, and purchase domains." target="_blank"><span>Domain Auctions &amp; Backorder<span class="external_12"></span></span>Visit our affiliate POOL.com to backorder, auction, and purchase domains.</a></li>                                    
-                                    <li class="menuitem"><a href="xxx.aspx" id="ctl00_ctlHeader_A32" title=".XXX Domain"><span>.XXX</span>Don't miss out on the .XXX Launch. Apply for your .XXX domain today.</a></li>
+                                    <li class="menuitem"><a href="http://www.pool.com" id="ctl00_ctlHeader_A13" title="Visit our affiliate POOL.com to backorder, auction, and purchase domains." target="_blank"><span>Domain Auctions &amp; Backorder<span class="external_12"></span></span>Visit our affiliate POOL.com to backorder, auction, and purchase domains.</a></li>
                                 </ul></li>
                             </ul>
                         </li>
@@ -296,7 +347,7 @@
 	                                <li class="menuitem"><a href="MyAccount/Subscriptions.aspx" id="ctl00_ctlHeader_A24" title="Review subscription based services like hosting &amp; email. Make this two lines."><span>Subscriptions</span>Review subscription based services like hosting &amp; email.</a></li>
 	                                <li class="menuitem"><a href="MyAccount/HostingPackages.aspx" id="ctl00_ctlHeader_A25" title="Manage hosting packages &amp; view usage reports."><span>Hosting Packages</span>Manage hosting packages &amp; view usage reports.</a></li>
 	                                <li class="menuitem"><a href="MyAccount/BillingHistory.aspx" id="ctl00_ctlHeader_A26" title="Review account balance and billing history."><span>Billing History</span>Review account balance and billing history.</a></li>
-                                                            
+                                    <li id="ctl00_ctlHeader_lnkNSGoogleAdwordsCoupon" class="menuitem"><a href="MyAccount/AdWordsCouponCode.aspx" id="ctl00_ctlHeader_A30" title="View Google AdWords Coupon Details."><span>Google AdWords Coupon</span>View Google AdWords Coupon details.</a></li>                        
                                 </ul></li>
                             </ul>
                         </li>
@@ -347,7 +398,7 @@
 <div class="search-wrapper">
     <div class="search-wrapper2">
         
-        <div class="searchbox">
+        <div class="searchbox clearfix">
             <div class="searchentry">
                 
                 &nbsp;<input name="ctl00$ctlHeader$sbNamescout$txtSearch" type="text" id="ctl00_ctlHeader_sbNamescout_txtSearch" class="searchtext" onkeypress="return SearchBarEnterKeyHandler(event, 'ctl00_ctlHeader_sbNamescout_lnkSearch')"> 
@@ -358,7 +409,7 @@
             </div>
             <div id="ctl00_ctlHeader_sbNamescout_divMainTLDs" class="maintlds" style="height:0px;">
                 <div id="ctl00_ctlHeader_sbNamescout_pnlTLDs">
-		<span id="ctl00_ctlHeader_sbNamescout_chkRow1" class="tlds row1"><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_0" alt=".COM" title=".COM" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_0" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_0" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$0" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_0">.COM</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_1" alt=".NET" title=".NET" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_1" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_1" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$1" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_1">.NET</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_2" alt=".ORG" title=".ORG" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_2" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_2" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$2" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_2">.ORG</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_3" alt=".MOBI" title=".MOBI" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_3" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_3" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$3" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_3">.MOBI</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_4" alt=".INFO" title=".INFO" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_4" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_4" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$4" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_4">.INFO</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_5" alt=".BIZ" title=".BIZ" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_5" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_5" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$5" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_5">.BIZ</label></span></span><span id="ctl00_ctlHeader_sbNamescout_chkRow2" class="tlds row2"><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_0" alt=".NAME" title=".NAME" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_0" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_0" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$0" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_0">.NAME</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_1" alt=".ASIA" title=".ASIA" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_1" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_1" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$1" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_1">.ASIA</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_2" alt=".EU" title=".EU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_2" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_2" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$2" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_2">.EU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_3" alt=".US" title=".US" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_3" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_3" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$3" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_3">.US</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_4" alt=".CN" title=".CN" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_4" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_4" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$4" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_4">.CN</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_5" alt=".CO" title=".CO" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_5" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_5" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$5" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_5">.CO</label></span></span><span id="ctl00_ctlHeader_sbNamescout_chkRow3" class="tlds row3"><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_0" alt=".COM.AU" title=".COM.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_0" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_0" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$0" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_0">.COM.AU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_1" alt=".NET.AU" title=".NET.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_1" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_1" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$1" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_1">.NET.AU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_2" alt=".ORG.AU" title=".ORG.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_2" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_2" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$2" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_2">.ORG.AU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_3" alt=".ASN.AU" title=".ASN.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_3" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_3" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$3" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_3">.ASN.AU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_4" alt=".ID.AU" title=".ID.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_4" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_4" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$4" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_4">.ID.AU</label></span></span>
+		<span id="ctl00_ctlHeader_sbNamescout_chkRow1" class="tlds row1"><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_0" alt=".COM" title=".COM" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_0" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_0" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$0" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_0">.COM</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_1" alt=".NET" title=".NET" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_1" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_1" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$1" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_1">.NET</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_2" alt=".ORG" title=".ORG" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_2" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_2" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$2" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_2">.ORG</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_3" alt=".MOBI" title=".MOBI" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_3" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_3" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$3" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_3">.MOBI</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_4" alt=".INFO" title=".INFO" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_4" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_4" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$4" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_4">.INFO</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow1_5" alt=".BIZ" title=".BIZ" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow1_5" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow1_5" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow1$5" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow1_5">.BIZ</label></span></span><span id="ctl00_ctlHeader_sbNamescout_chkRow2" class="tlds row2"><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_0" alt=".NAME" title=".NAME" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_0" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_0" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$0" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_0">.NAME</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_1" alt=".ASIA" title=".ASIA" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_1" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_1" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$1" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_1">.ASIA</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_2" alt=".EU" title=".EU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_2" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_2" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$2" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_2">.EU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_3" alt=".US" title=".US" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_3" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_3" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$3" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_3">.US</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_4" alt=".CN" title=".CN" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_4" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_4" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$4" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_4">.CN</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow2_5" alt=".CO" title=".CO" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow2_5" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow2_5" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow2$5" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow2_5">.CO</label></span></span><span id="ctl00_ctlHeader_sbNamescout_chkRow3" class="tlds row3"><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_0" alt=".COM.AU" title=".COM.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_0" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_0" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$0" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_0">.COM.AU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_1" alt=".NET.AU" title=".NET.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_1" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_1" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$1" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_1">.NET.AU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_2" alt=".ORG.AU" title=".ORG.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_2" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_2" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$2" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_2">.ORG.AU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_3" alt=".ASN.AU" title=".ASN.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_3" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_3" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$3" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_3">.ASN.AU</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_4" alt=".XXX" title=".XXX" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_4" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_4" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$4" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_4">.XXX</label></span><span class="item"><img src="/icons/spacer.gif" id="ic_ctl00_ctlHeader_sbNamescout_chkRow3_5" alt=".ID.AU" title=".ID.AU" class="imageCheck checked" role="checkbox" aria-checked="true" aria-controls="ctl00_ctlHeader_sbNamescout_chkRow3_5" tabindex="0" style="cursor: pointer;"><input id="ctl00_ctlHeader_sbNamescout_chkRow3_5" type="checkbox" name="ctl00$ctlHeader$sbNamescout$chkRow3$5" checked="checked" style="display: none;"><label for="ctl00_ctlHeader_sbNamescout_chkRow3_5">.ID.AU</label></span></span>
 	</div>         
             </div>
             <div id="ctl00_ctlHeader_sbNamescout_divClicktoExpand" class="clicktoexpand" style="display:block;" onclick="Expand('ctl00_ctlHeader_sbNamescout_divMainTLDs','ctl00_ctlHeader_sbNamescout_divClicktoExpand');"></div>
@@ -425,32 +476,37 @@
 	
 
 
-                        
+                    
 </div>
-                    
-                    
-                    <div class="main-wrapper">
-			            <div id="divMainWrapper2" class="main-wrapper2">
+                
+
+                <div class="main-wrapper">
+			        <div id="divMainWrapper2" class="main-wrapper2">
+                        
+
+						
+
+                        <div id="ctl00_divSidebar" class="sidebar leftbar" style="display: none;">
+                            
+                            
                             
 
-                            <div id="ctl00_divSidebar" class="sidebar leftbar" style="display: none;">
-                                
-                                
-                                
-                            </div>
+							
+					        
+                        </div>
 
-                            <div id="ctl00_divRightBar" class="sidebar rightbar" style="display: none;">
+                        <div id="ctl00_divRightBar" class="sidebar rightbar" style="display: none;">
+                            
                                 
+                            
+                        </div>
+                                
+                        <div id="ctl00_divMain" class="main-1col clearfix">
+                            <span id="ctl00_upMessages">
                                     
-                                
-                            </div>
-                                
-                            <div id="ctl00_divMain" class="main-1col">
-                                <span id="ctl00_upMessages">
-                                        
-                                    </span>  
-                                                              
-                                
+                                </span>  
+                                                          
+                            
     <h1><cufon class="cufon cufon-canvas" alt="Why " style="width: 71px; height: 32px;"><canvas width="94" height="38" style="width: 94px; height: 38px; top: -8px; left: -2px;"></canvas><cufontext>Why </cufontext></cufon><cufon class="cufon cufon-canvas" alt="A " style="width: 28px; height: 32px;"><canvas width="51" height="38" style="width: 51px; height: 38px; top: -8px; left: -2px;"></canvas><cufontext>A </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 105px; height: 32px;"><canvas width="128" height="38" style="width: 128px; height: 38px; top: -8px; left: -2px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Statement?" style="width: 157px; height: 32px;"><canvas width="175" height="38" style="width: 175px; height: 38px; top: -8px; left: -2px;"></canvas><cufontext>Statement?</cufontext></cufon></h1>
 
 	<div class="sidebarmessage"><p>We respect your individual privacy. That is why we have adopted this Privacy Statement, which embodies our commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Statement puts you, the individual, in control of how your personal information is processed, and you have our promise that we will not electronically process your personal information in any way that is incompatible with this Privacy Statement.</p></div>
@@ -594,44 +650,66 @@
 	<a href="mailto:service@Namescout.com">service@Namescout.com</a>.</p>
 	</div>
 	</div>
+  Namescout ABN - 68 941 753 299
                                 
-                            </div>
-                            <div class="clear"><!--cleardiv--></div>
-			            </div>     
-		            </div>	
-                    
-<div class="footer-wrapper clearfix">
+                        </div>
+                        <div class="clear"><!--cleardiv--></div>
+			        </div>     
+		        </div>
+
+				
+
+        <div id="ctl00_pnlSelectPopup" class="modalPopup" style="display:none">
+	
+          <div class="modalPopDiv">
+			      <h2><cufon class="cufon cufon-canvas" alt="Select " style="width: 68px; height: 24px;"><canvas width="86" height="28" style="width: 86px; height: 28px; top: -6px; left: -2px;"></canvas><cufontext>Select </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Domain " style="width: 84px; height: 24px;"><canvas width="102" height="28" style="width: 102px; height: 28px; top: -6px; left: -2px;"></canvas><cufontext>Domain </cufontext></cufon><cufon class="cufon cufon-canvas" alt="List" style="width: 35px; height: 24px;"><canvas width="51" height="28" style="width: 51px; height: 28px; top: -6px; left: -2px;"></canvas><cufontext>List</cufontext></cufon></h2>
+			      <h3>Upload &amp; Select:</h3><p>
+              <input type="file" name="ctl00$fuUploadSelectList" id="ctl00_fuUploadSelectList"> (max. size: 25MB) </p><h3>Or Enter Selection</h3><p>Ensure that there is one domain per line in the entry box.</p><textarea name="ctl00$txtSelectMulti" rows="8" cols="20" id="ctl00_txtSelectMulti" class="text-input" onkeypress="if(event.keyCode==13){AllowEnterKey=true}"></textarea>
+            <p>
+              <span class="checkbox"><input id="ctl00_chkTag" type="checkbox" name="ctl00$chkTag"><label for="ctl00_chkTag">Create a Tag from my Selection</label></span>
+              <input name="ctl00$txtTag" type="text" id="ctl00_txtTag">
+            </p>
+            <div class="modalPopDiv" style="text-align:center">
+              <input type="submit" name="ctl00$btnHiddenGo" value="" id="ctl00_btnHiddenGo" class="hidden">
+			        <input type="submit" name="ctl00$btnHiddenApply" value="" id="ctl00_btnHiddenApply" class="hidden">
+              <a onclick="UploadClick('ctl00$btnApply','');" id="ctl00_btnApply" class="button" href="javascript:__doPostBack('ctl00$btnApply','')" style="background: none;"><div class="l"></div><div class="m">Select</div><div class="r"></div></a>&nbsp;&nbsp;<a id="ctl00_btnCancel" class="button" href="javascript:__doPostBack('ctl00$btnCancel','')" style="background: none;"><div class="l"></div><div class="m">Cancel</div><div class="r"></div></a>
+            </div>
+          </div>
         
-                <div class="footer-column-left">
-                    <ul>
-                        <li><a href="RPMSplash.aspx" id="ctl00_ctlFooter_A8">Domains</a></li>
-                        <li><a href="DomainSearch.aspx" id="ctl00_ctlFooter_A9">Search</a></li>
-                        <li><a href="Whois.aspx" id="ctl00_ctlFooter_A7">Whois</a></li>
-                    <li><a href="xxx.aspx" id="ctl00_ctlFooter_A6">.XXX Launch</a></li>
-                        <li><a href="ContactUs.aspx" id="ctl00_ctlFooter_A4" target="_blank">Contact Us</a></li>
+</div>
+
+                
+<div class="footer-wrapper clearfix">
+    
+            <div class="footer-column-left">
+                <ul>
+                    <li><a href="RPMSplash.aspx" id="ctl00_ctlFooter_A8">Domains</a></li>
+                    <li><a href="DomainSearch.aspx" id="ctl00_ctlFooter_A9">Search</a></li>
+                    <li><a href="Whois.aspx" id="ctl00_ctlFooter_A7">Whois</a></li>
+                    <li><a href="ContactUs.aspx" id="ctl00_ctlFooter_A4" target="_blank">Contact Us</a></li>
                         
-                    </ul>
-				</div>
-                <div class="footer-column-left footer-column-left2">
-                    <ul>
-                        <li><a href="TermsAndConditions.aspx" id="ctl00_ctlFooter_A10">Terms &amp; Conditions</a></li>
-                        <li><a href="Help.aspx" id="ctl00_ctlFooter_A3" target="_blank">Support</a></li>                        
-                        <li><a href="pricing.aspx" id="ctl00_ctlFooter_A5" target="_blank">Pricing</a></li>
-                        <li><a href="PrivacyStatement.aspx" id="ctl00_ctlFooter_A11">Privacy</a></li>
-						<li><a id="A16" href="http://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm">Registrant Rights and Responsibilities</a></li>
-                    </ul>                    
-				</div>
-                <div class="footer-column-right">
-                    <div class="auda">&nbsp;</div>
-                    <div class="icann">&nbsp;</div>
-                    © Copyright 2011 Namescout Corp.<br>
-                    <div class="mom-comp"></div>All Rights Reserved<br>
-                    a <a href="http://www.momentous.ca">Momentous Company</a><br>
-                    <a href="http://www.twitter.com/namescout" title="twitter" target="_blank" class="twitter_12">&nbsp;</a>
-                    <a href="http://www.facebook.com/?ref=home#!/pages/Namescoutcom/145019695515184?ref=ts " title="facebook" target="_blank" class="facebook_12">&nbsp;</a>
-                    <a href="http://vimeo.com/namescout" title="vimeo" target="_blank" class="vimeo_12">&nbsp;</a>
-				</div>
-            
+                </ul>
+			</div>
+            <div class="footer-column-left footer-column-left2">
+                <ul>
+                    <li><a href="TermsAndConditions.aspx" id="ctl00_ctlFooter_A10">Terms &amp; Conditions</a></li>
+                    <li><a href="Help.aspx" id="ctl00_ctlFooter_A3" target="_blank">Support</a></li>                        
+                    <li><a href="pricing.aspx" id="ctl00_ctlFooter_A5" target="_blank">Pricing</a></li>
+                    <li><a href="PrivacyStatement.aspx" id="ctl00_ctlFooter_A11">Privacy</a></li>
+					<li><a id="A16" href="http://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm">Registrant Rights and Responsibilities</a></li>
+                </ul>                    
+			</div>
+            <div class="footer-column-right">
+                <div class="auda">&nbsp;</div>
+                <div class="icann">&nbsp;</div>
+                © Copyright 2012 Namescout Corp.<br>
+                <div class="mom-comp"></div>All Rights Reserved<br>
+                a <a href="http://www.momentous.ca">Momentous Company</a><br>
+                <a href="http://www.twitter.com/namescout" title="twitter" target="_blank" class="twitter_12">&nbsp;</a>
+                <a href="http://www.facebook.com/?ref=home#!/pages/Namescoutcom/145019695515184?ref=ts " title="facebook" target="_blank" class="facebook_12">&nbsp;</a>
+                <a href="http://vimeo.com/namescout" title="vimeo" target="_blank" class="vimeo_12">&nbsp;</a>
+			</div>
+        
 </div>
 
 
@@ -642,32 +720,38 @@
         <script type="text/javascript" charset="UTF-8" src="https://depot.liveagentforsalesforce.com/app/js/lt.js"></script>
 
 
-                </div>
+
+				
+            </div>
         
 <script type="text/javascript"><!--
 SetupMenu(false);
-//--></script><script type="text/javascript"><!--
-$(document).ready( function() {
-    page_load();
-    Sys.Application.add_load(page_load);
-});function page_load(){
-    if ($.browser.msie && $.browser.version.substring(0,1) === '6') { $(':disabled').addClass('disabled'); }
-    Cufon.replace('h1:not(.cufon-disabled), h2, .cufonize', { hover: true});
-    $('.button, .button-large, .button-small, .loginbutton, .classicbutton').buttonmask();
-    $('.searchbox input[type=checkbox]:visible').simpleImageCheck({image: '/icons/spacer.gif', imageChecked: '/icons/spacer.gif' })
-}
 //--></script>
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
+$(document).ready( function() {
+    page_load();
+    Sys.Application.add_load(page_load);
+});
+function page_load(){
+    if ($.browser.msie && $.browser.version.substring(0,1) === '6') { $(':disabled').addClass('disabled'); }
+    Cufon.replace('h1:not(.cufon-disabled), h2:not(.cufon-disabled), .cufonize', { hover: true});
+    $('.button, .button-large, .button-small, .loginbutton, .classicbutton').buttonmask();
+    $('.searchbox input[type=checkbox]:visible').simpleImageCheck({image: '/icons/spacer.gif', imageChecked: '/icons/spacer.gif' })
+}Sys.Application.initialize();
 Sys.Application.add_init(function() {
     $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_ctlHeader_btnHiddenCancel","OkControlID":"ctl00_ctlHeader_btnHiddenOK","PopupControlID":"ctl00_ctlHeader_pnlLoginPopup","dynamicServicePath":"/PrivacyStatement.aspx","id":"ctl00_ctlHeader_mpeLogin"}, null, null, $get("ctl00_ctlHeader_lnkHidden"));
 });
 //]]>
 </script>
 </form>
-        
-        <script>
+      
+      
+      <script>
+        function UploadClick(sender, e) {
+          __doPostBack(sender, e);
+        } 
+
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
         </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
