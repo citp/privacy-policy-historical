@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raveis.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213010id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveis.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111921id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.*
 
-# William Raveis Real Estate Privacy Policy
+# Privacy Policy
 
 William Raveis Real Estate, Inc. ("Raveis") respects your privacy and is committed to protecting it. Therefore, when it comes to information that personally identifies you and/or allows you to be individually contacted ("Personal Information"), Raveis has adopted the following privacy policy to fully protect you.
 
