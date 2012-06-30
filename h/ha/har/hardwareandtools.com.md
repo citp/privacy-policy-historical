@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208023410id_/http%3A//www.hardwareandtools.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630123324id_/http%3A//www.hardwareandtools.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # HardwareAndTools.com: Privacy Policy
+
+  
+
 
 ## This privacy policy statement applies to the websites of:
 
@@ -13,11 +16,11 @@ We respect your privacy with the most advanced online security safeguards and me
 
 ## For your protection, we do not sell or share your email address, physical address, phone number or any personal information. We do not store Credit Card Numbers, Expiration Dates or Credit Card Security Codes.
 
-Of the information we do collect, we allow you to access things such as your online purchase history and wish list. 
+Of the information we do collect, we allow you to access things such as your online purchase history and wish list.
 
 ## Collecting information provides specific benefits to our website visitors:
 
-Tracking destination information gives us the ability to customize presentations based on products required or restricted from use in one location as opposed to other locations. For example, an offer on snow shovels before a snow storm is desirable in New Hampshire but not Florida. 
+Tracking destination information gives us the ability to customize presentations based on products required or restricted from use in one location as opposed to other locations. For example, an offer on snow shovels before a snow storm is desirable in New Hampshire but not Florida.
 
 ## We collect information for the following purpose(s):
 
