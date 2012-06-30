@@ -1,204 +1,406 @@
-<!--The following is the downloaded HTML source of the sky-tours.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231105007id_/http%3A//www.sky-tours.com/info.php%3Fwhat%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sky-tours.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630144855id_/http%3A//www.sky-tours.com/info.php%3Fwhat%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<title>Discount flight ticket bargain flights cheap tickets </title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
-<meta http-equiv="x-ua-compatible" content="IE=9">
-<meta name="keywords" content="usflydrive">
-<meta name="description" content="usflydrive">
-<meta name="application-name" content="">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/lang/en.js" type="text/javascript"></script>
-<script src="/scripts/validation.js" type="text/javascript"></script>
-<link type="text/css" rel="stylesheet" href="/styles/ajaxlist.css">   
-<link type="text/css" rel="stylesheet" href="/styles/global.css" media="all">
-<link type="text/css" rel="stylesheet" href="/styles/jquery.impromptu.css" media="all">
-<script type="text/javascript">
-  var language = "en";
-  var laquo = '�';
-  var raquo = '�';
-</script>
+<meta name="keywords" content="airline tickets, airfares, air fares, flights, plane tickets, ">
+<meta name="description" content="Discounted flights, cheap flights, cheap tickets, you'll name it, we have it. We compare over 600 airlines cheap fares and show you the cheapest.">
+<title>cheap flight tickets, discounted airline tickets, cheap flight discounts</title>
+<link href="/styles/style.css" rel="stylesheet" type="text/css">
+<link href="/styles/all.css" rel="stylesheet" type="text/css">
+<link href="/styles/jquery.ui.all.css" rel="stylesheet" type="text/css">
+<link href="/styles/ajax-dynamic-list.css" rel="stylesheet" type="text/css">
+<link href="/styles/jqtransform.css" rel="stylesheet" type="text/css">
+<link href="/styles/blockui.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="/scripts/jquery.ui.core.js" type="text/javascript"></script>
+<script src="/scripts/jquery.ui.widget.js" type="text/javascript"></script>
+<script src="/scripts/jquery.ui.mouse.js" type="text/javascript"></script>
+<script src="/scripts/jquery.ui.button.js" type="text/javascript"></script>
+<script src="/scripts/jquery.ui.position.js" type="text/javascript"></script>
+<script src="/scripts/jquery.ui.dialog.js" type="text/javascript"></script>
+<script src="/scripts/jquery.ui.datepicker.js" type="text/javascript"></script>
+<script src="/scripts/i18n/jquery.ui.datepicker-en.js" type="text/javascript"></script>
 <script src="/scripts/ajax.js" type="text/javascript"></script>
 <script src="/scripts/ajax-dynamic-list.js" type="text/javascript"></script>
-<script src="/scripts/request.js" type="text/javascript"></script>
-<script src="/scripts/display.js" type="text/javascript"></script>
-<script src="/scripts/jquery-1.4.2.js" type="text/javascript"></script>
-<script type="text/javascript" src="/scripts/jquery.blockUI.js"></script>
-<script type="text/javascript" src="/scripts/jquery-impromptu.3.1.js"></script>
-<script type="text/javascript" src="/scripts/common-impromptu.js"></script>
+<script src="/scripts/jquery.jqtransform.js" type="text/javascript"></script>
+<script src="/scripts/jquery.blockUI.js" type="text/javascript"></script>
+<script src="/scripts/all.js" type="text/javascript"></script>
 <script src="/scripts/accordian.pack.js" type="text/javascript"></script>
-<script src="/scripts/common.js" type="text/javascript"></script>
 <script type="text/javascript">
-<!--
-  if (IEVersion < 6 || GeckoVersion < 1.81 || WebKitVersion < 523 || OperaVersion < 9.5) location.href = languagePath + '/';
-//-->
-</script>
-<script type="text/javascript" src="/scripts/datepicker.js"></script>
-
-<script language="javascript" type="text/javascript">
-function divshowhide(id) {
-  if (id == 'buttonid') {
-    $('#buttonid').hide('slow');
-    $('#boxdiv').show('slow');
-  } else {
-    $('#buttonid').show('slow');
-    $('#boxdiv').hide('slow');
-  }
+/* <![CDATA[ */
+function WaitAll() {
+  $().ajaxStop($.unblockUI);
+  $.blockUI({ message: $('#domMessage'), css: { top:($(window).height() - 400) / 2 + 'px',left:($(window).width() - 400) / 2 + 'px',border:'none',width:'400px',backgroundColor:'#000','-webkit-border-radius':'10px','-moz-border-radius':'10px','border-radius':'10px' } });
 }
+
+$(function() {
+  $('#dialog:ui-dialog').dialog('destroy');
+
+  var email = $('#emailLogin'),
+      password = $('#pswLogin'),
+      allFields = $([]).add(email).add(password),
+      tips = $('.validateTips');
+
+  function updateTips(t) {
+    tips.text(t).addClass('ui-state-highlight');
+    setTimeout(function() {
+      tips.removeClass('ui-state-highlight',1500);
+    },500);
+  }
+
+  function checkLength(o,n,min,max) {
+    if (o.val().length > max || o.val().length < min) {
+      o.addClass('ui-state-error');
+      updateTips('Length of ' + n + ' must be between ' + min + ' and ' + max + '.');
+      return false;
+    } else {
+      return true;
+    }
+  }
+
+  function checkRegexp(o,regexp,n) {
+    if (!(regexp.test(o.val()))) {
+      o.addClass('ui-state-error');
+      updateTips(n);
+      return false;
+    } else {
+      return true;
+    }
+  }
+
+  $('#dialog-login').dialog({
+    autoOpen: false,
+    draggable: false,
+    resizable: false,
+    height: 300,
+    width: 350,
+    modal: true,
+    buttons: {
+      Login: function() {
+        var bValid = true;
+        allFields.removeClass('ui-state-error');
+        bValid = bValid && checkLength(email,'email',6,80);
+        bValid = bValid && checkRegexp(email,/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i,'eg. ui@jquery.com');
+        bValid = bValid && checkLength(password,'password',5,16);
+        bValid = bValid && checkRegexp(password,/^([0-9a-zA-Z])+$/,'Password field only allow : a-z 0-9');
+        if (bValid) {
+          $('#login').submit();
+          $(this).dialog('close');
+        }
+      },
+      Cancel: function() {
+        $(this).dialog('close');
+      }
+    },
+    close: function() {
+      allFields.val('').removeClass('ui-state-error');
+    }
+  });
+
+  $('#login-user').click(function() {
+    $('#dialog-login').dialog('open');
+  });
+
+  $('#create-user').click(function() {
+    location.href = 'https://www.sky-tours.com/user.php';
+  });
+
+  
+  $('.logo').click(function() {
+    document.location.href = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.sky-tours.com';
+  });
+});
+
+function login_simple(data) {
+  $('#text-login-user').html('<span id="logout-user" onclick="location.href = \'logout.php\';">Logout</span>');
+  $('#sign-facebook').css('display','none');
+  $('#sign-twitter').css('display','none');
+  $('#text-create-user').html('<span id="detail-user" onclick="location.href = \'https://www.sky-tours.com/user.php?type=view\';">Details</span>');
+  $('#text-user').html(data);
+}
+/* ]]> */
 </script>
 
-<link type="text/css" rel="stylesheet" href="/styles/form_flight_main.css" media="all">
-<script src="/scripts/form_flight_main.js" type="text/javascript"></script>
-<link type="text/css" rel="stylesheet" href="/styles/style.css" media="all">
-<link type="text/css" rel="stylesheet" href="/styles/jscal2/jscal2.css">
-<link type="text/css" rel="stylesheet" href="/styles/jscal2/border-radius.css">
-<link type="text/css" rel="stylesheet" href="/styles/jscal2/steel/steel.css">
-<script src="/scripts/jscal2.js"></script>
-<script src="/scripts/jscal2/en.js"></script>
-<script src="/scripts/test.js" type="text/javascript"></script>
-<link type="text/css" rel="stylesheet" href="/styles/jquery.cooltipbox-1.2.1-min.css" media="all">
-<script src="/scripts/jquery.cooltipbox-1.2.1-min.js" type="text/javascript" charset="utf-8"></script>
-<link href="/styles/skin01/blockui.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/scripts/swfobject_modified.js"></script>
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<style type="text/css" media="screen">#FlashID {visibility:hidden}</style><style type="text/css" media="screen">#FlashID {visibility:hidden}</style><style type="text/css" media="screen">#FlashIDa {visibility:hidden}</style><style type="text/css" media="screen">#FlashIDa {visibility:hidden}</style></head>
 
-<body class="en">
+<!-- Sharethis Script -->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script src="https://ws.sharethis.com/button/buttons.js" type="text/javascript"></script>
 
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
+<script type="text/javascript">stLight.options({publisher:'81919bb8-a225-4d63-bf1b-aacd66800845'});</script>
+
+
+
+
+<script language="javascript" type="text/javascript" src="http://ns231806.ovh.net/liveadmin/client.php?key=L980AB1EAV15CCB75DM5E3F96E"></script>
+
+</head>
+
+<body>
+<a href="http://support.sky-tours.com/index.php" target="_blank"><div class="custom_btn"></div></a>
+
+<div class="shares_links">
+  <div class="shares_links_h">Share</div>
+  <div class="shares_links_ico">
+    <div style="width:auto;float:left;margin-bottom:10px;">
+      <span class="st_twitter_vcount" displaytext="Tweet" st_url="http://www.sky-tours.com"></span>
+    </div>
+    <div style="width:auto;float:left;margin-bottom:10px;">
+      <span class="st_facebook_vcount" displaytext="Facebook" st_url="http://www.sky-tours.com"></span>
+    </div>
+    <div style="width:auto;float:left;">
+      <span class="st_plusone_vcount" style="padding-left:5px;" st_url="http://www.sky-tours.com"></span>
+    </div>
+  </div>
+</div>
 
 <center>
-  <div class="pagewrapper">
-<script type="text/javascript">
-if ($.browser.msie) {
-  if ($.browser.version == '6.0') {
-    var gb_size_width = 515;
-    var gb_size_height = 377;
-  } else {
-    var gb_size_width = 515;
-    var gb_size_height = 335;
-  }
-} else if ($.browser.mozilla) {
-  var gb_size_width = 515;
-  var gb_size_height = 330;
-} else if ($.browser.safari) {
-  var gb_size_width = 515;
-  var gb_size_height = 365;
-} else if ($.browser.opera) {
-  var gb_size_width = 515;
-  var gb_size_height = 320;
-}
-</script>
-
-
-<script src="/scripts/mopen.js" language="javascript"></script>
-
-<table cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td id="login_form">
-                  <table class="loginstrip" align="right" border="0" cellpadding="0" cellspacing="0" style="width:532px;">
-        <tbody><tr>
-          <td class="goldmem" align="left" valign="middle" nowrap="nowrap">&nbsp;</td>
-          <td class="signinbtn_area" align="center" valign="middle">&nbsp;</td>
-          <td class="signupdiv" nowrap="nowrap">Not a member yet? <a href="https://www.sky-tours.com/register.php">Sign Up</a><br><br></td>
-          <td nowrap="nowrap" align="right" valign="top" style="padding-left:5px;">
-            
-          </td>
-        </tr>
-      </tbody></table>
-                </td>
-  </tr>
-  <tr>
-    <td>
-      <table class="header" border="0" cellspacing="0" cellpadding="0" align="center" style="margin-top:10px; *margin-top:10px;">
-        <tbody><tr valign="top">
-          <td align="left" class="logoimg" valign="top">
-            <a href="/index.php">
-            <div class="logo" width="245" height="39"></div><br>
-               <b>Discounted &nbsp;Flights  | cheap tickets</b>
-            </a>
-            <div class="logos_div_bg">
-              <a href="http://www.iata.org/" target="_blank" class="iata_icon"></a>
-              <a href="http://www.asta.org/" target="_blank" class="asta_icon"></a>
-              <a href="http://www.ustravel.org/" target="_blank" class="us_icon"></a>
-              <a href="http://www.srf.org/" target="_blank" class="sri_icon"></a>
-              <a href="http://www.arccorp.com/index.jsp" target="_blank" class="arc_icon"></a>
-              <a href="http://www.drv.de" target="_blank" class="drv_logo"></a>
+  <div class="main_div">
+    <div class="main_div1">
+      <div class="pagewrapper">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+        <div class="top_bar">
+          <div id="text-login-user" class="signin_btn" style="cursor:pointer;"><span id="login-user">Sign In</span></div>
+          <a href="javascript:void(0);" style="display:none;"><div id="sign-facebook" class="face_book_btn"><!--Sign in with Facebook--></div></a>
+          <a href="javascript:void(0);" style="display:none;"><div id="sign-twitter" class="tiweeter_btn"><!--Sign in with Twitter--></div></a>
+          <div id="text-user" class="signup_tex">Not a member yet?</div>
+          <a href="javascript:void(0);"><div id="text-create-user" class="signup_btn"><span id="create-user">Sign Up</span></div></a>
+                    <div class="top_bar_rgt">
+            <a href="javascript:void(0);" onmouseover="mopen('m2');" onmouseout="mclosetime()"><div class="dropdown_cont"><div class="top_country_div"><img src="/images/flags/us.gif" border="0"><span>United States</span></div></div></a>
+            <a href="javascript:void(0);" onmouseover="mopen('m1');" onmouseout="mclosetime()"><div class="dropdown_coruc"><div class="top_corncy_div"><span>USD - US$ </span></div></div></a>
+          </div>
+          <div class="onerow">
+            <div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()" class="portfolio_style">
+              <div class="pro_hover_box">
+                <ul class="popup_drop" style="width:360px;margin-left:490px;">
+                  <li>
+                                    <a onclick="setLanguage('ar');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ar.gif" border="0"><span class="color_balck" style="width:145px;">Argentina</span></div></a>
+                                                                        <a onclick="setLanguage('at');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/at.gif" border="0"><span class="color_balck" style="width:145px;">Austria</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('au');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/au.gif" border="0"><span class="color_balck" style="width:145px;">Australia</span></div></a>
+                                                                        <a onclick="setLanguage('bg');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/bg.gif" border="0"><span class="color_balck" style="width:145px;">Bulgaria</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('br');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/br.gif" border="0"><span class="color_balck" style="width:145px;">Brazil</span></div></a>
+                                                                        <a onclick="setLanguage('ca');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ca.gif" border="0"><span class="color_balck" style="width:145px;">Canada</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('qb');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/qb.gif" border="0"><span class="color_balck" style="width:145px;">Canada (Quebeq)</span></div></a>
+                                                                        <a onclick="setLanguage('ch');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ch.gif" border="0"><span class="color_balck" style="width:145px;">Switzerland</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('cl');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/cl.gif" border="0"><span class="color_balck" style="width:145px;">Chile</span></div></a>
+                                                                        <a onclick="setLanguage('cn');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/cn.gif" border="0"><span class="color_balck" style="width:145px;">China (prc)</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('co');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/co.gif" border="0"><span class="color_balck" style="width:145px;">Colombia</span></div></a>
+                                                                        <a onclick="setLanguage('ct');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/catalonia.gif" border="0"><span class="color_balck" style="width:145px;">Catalan; Valencian</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('cz');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/cz.gif" border="0"><span class="color_balck" style="width:145px;">Czech Republic</span></div></a>
+                                                                        <a onclick="setLanguage('de');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/de.gif" border="0"><span class="color_balck" style="width:145px;">Germany</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('dk');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/dk.gif" border="0"><span class="color_balck" style="width:145px;">Denmark</span></div></a>
+                                                                        <a onclick="setLanguage('es');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/es.gif" border="0"><span class="color_balck" style="width:145px;">Spain</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('fi');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/fi.gif" border="0"><span class="color_balck" style="width:145px;">Finland</span></div></a>
+                                                                        <a onclick="setLanguage('fr');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/fr.gif" border="0"><span class="color_balck" style="width:145px;">France</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('gb');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/gb.gif" border="0"><span class="color_balck" style="width:145px;">United Kingdom</span></div></a>
+                                                                        <a onclick="setLanguage('gr');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/gr.gif" border="0"><span class="color_balck" style="width:145px;">Greece</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('hk');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/hk.gif" border="0"><span class="color_balck" style="width:145px;">Hong Kong</span></div></a>
+                                                                        <a onclick="setLanguage('hu');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/hu.gif" border="0"><span class="color_balck" style="width:145px;">Hungary</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('id');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/id.gif" border="0"><span class="color_balck" style="width:145px;">Indonesia</span></div></a>
+                                                                        <a onclick="setLanguage('ie');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ie.gif" border="0"><span class="color_balck" style="width:145px;">Ireland</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('in');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/in.gif" border="0"><span class="color_balck" style="width:145px;">India</span></div></a>
+                                                                        <a onclick="setLanguage('ir');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ir.gif" border="0"><span class="color_balck" style="width:145px;">Iran</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('it');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/it.gif" border="0"><span class="color_balck" style="width:145px;">Italy</span></div></a>
+                                                                        <a onclick="setLanguage('jp');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/jp.gif" border="0"><span class="color_balck" style="width:145px;">Japan</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('kr');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/kr.gif" border="0"><span class="color_balck" style="width:145px;">Republic of Korea</span></div></a>
+                                                                        <a onclick="setLanguage('lv');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/lv.gif" border="0"><span class="color_balck" style="width:145px;">Latvia</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('mx');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/mx.gif" border="0"><span class="color_balck" style="width:145px;">Mexico</span></div></a>
+                                                                        <a onclick="setLanguage('my');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/my.gif" border="0"><span class="color_balck" style="width:145px;">Malaysia</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('nl');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/nl.gif" border="0"><span class="color_balck" style="width:145px;">Netherlands</span></div></a>
+                                                                        <a onclick="setLanguage('no');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/no.gif" border="0"><span class="color_balck" style="width:145px;">Norway</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('nz');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/nz.gif" border="0"><span class="color_balck" style="width:145px;">New Zealand</span></div></a>
+                                                                        <a onclick="setLanguage('pe');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/pe.gif" border="0"><span class="color_balck" style="width:145px;">Peru</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('ph');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ph.gif" border="0"><span class="color_balck" style="width:145px;">Philippines</span></div></a>
+                                                                        <a onclick="setLanguage('pl');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/pl.gif" border="0"><span class="color_balck" style="width:145px;">Poland</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('pt');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/pt.gif" border="0"><span class="color_balck" style="width:145px;">Portugal</span></div></a>
+                                                                        <a onclick="setLanguage('ro');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ro.gif" border="0"><span class="color_balck" style="width:145px;">Romania</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('rs');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/rs.gif" border="0"><span class="color_balck" style="width:145px;">Serbia</span></div></a>
+                                                                        <a onclick="setLanguage('ru');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ru.gif" border="0"><span class="color_balck" style="width:145px;">Россия</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('sg');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/sg.gif" border="0"><span class="color_balck" style="width:145px;">Singapore</span></div></a>
+                                                                        <a onclick="setLanguage('se');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/se.gif" border="0"><span class="color_balck" style="width:145px;">Sweden</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('tr');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/tr.gif" border="0"><span class="color_balck" style="width:145px;">Turkey</span></div></a>
+                                                                        <a onclick="setLanguage('tw');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/tw.gif" border="0"><span class="color_balck" style="width:145px;">Taiwan</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('ua');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ua.gif" border="0"><span class="color_balck" style="width:145px;">Ukraine</span></div></a>
+                                                                        <a onclick="setLanguage('ae');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ae.gif" border="0"><span class="color_balck" style="width:145px;">UAE</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setLanguage('ve');" style="cursor:pointer;"><div class="top_country_div_drop" style="width:170px;"><img src="/images/flags/ve.gif" border="0"><span class="color_balck" style="width:145px;">Venezuela</span></div></a>
+                                                        </li>
+                                                    </ul>
+              </div>
             </div>
-          </td>
-          <td>
-            <table class="twiter_div" border="0" cellspacing="0" cellpadding="0" align="right" style="*margin-top:10px;">
-              <tbody><tr>
-                <td class="twiterimg" align="left" style=""><font color="#28BFF7">Sky</font> <font color="#EC070B">Tours</font> discounted flights now on <a href="http://www.twitter.com/skytourstravel">Twitter - follow us</a></td>
-              </tr>
-              <tr>
-                <td>Reach us 24/7 at via our <a href="http://support.sky-tours.com/" class="link" target="_blank">Customer Support System</a>. Our experienced travel agents will advise you the best possible solutions for any question you may have.</td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td valign="middle">
-            <div id="fb-root"></div><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="www.sky-tours.com" send="false" layout="box_count" width="50" show_faces="true" font=""></fb:like>
-            <br><br>
-            <g:plusone count="false" href="http://www.sky-tours.com/"></g:plusone>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td style="display:block" width="100%">
-          </td>
-  </tr>
-</tbody></table>
+            <div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()" class="portfolio_style">
+              <div class="pro_hover_box">
+                <ul class="popup_drop left_men padding_none" style="border:1px solid #1db8fa;width:220px;margin-left:750px;">
+                  <li>
+                                    <a onclick="setCurrency('EUR');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>EUR - € </span></div></a>
+                                                                        <a onclick="setCurrency('GBP');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>GBP - £ </span></div></a>
+                                                                        <a onclick="setCurrency('CHF');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>CHF - CHF </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('DKK');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>DKK - kr </span></div></a>
+                                                                        <a onclick="setCurrency('NOK');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>NOK - kr </span></div></a>
+                                                                        <a onclick="setCurrency('SEK');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>SEK - kr </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('CAD');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>CAD - CA$ </span></div></a>
+                                                                        <a onclick="setCurrency('AUD');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>AUD - AU$ </span></div></a>
+                                                                        <a onclick="setCurrency('JPY');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>JPY - ¥ </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('SGD');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>SGD - SG$ </span></div></a>
+                                                                        <a onclick="setCurrency('NZD');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>NZD - NZ$ </span></div></a>
+                                                                        <a onclick="setCurrency('PLN');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>PLN - zł</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('CZK');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>CZK - Kč </span></div></a>
+                                                                        <a onclick="setCurrency('HUF');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>HUF - Ft </span></div></a>
+                                                                        <a onclick="setCurrency('AED');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>AED - AED </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('ARS');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>ARS - AR$ </span></div></a>
+                                                                        <a onclick="setCurrency('BGN');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>BGN - лв </span></div></a>
+                                                                        <a onclick="setCurrency('CNY');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>CNY - ¥ </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('COP');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>COP - CO$ </span></div></a>
+                                                                        <a onclick="setCurrency('HKD');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>HKD - HK$ </span></div></a>
+                                                                        <a onclick="setCurrency('IDR');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>IDR - Rp </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('INR');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>INR - ₨ </span></div></a>
+                                                                        <a onclick="setCurrency('KRW');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>KRW - ₩ </span></div></a>
+                                                                        <a onclick="setCurrency('LVL');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>LVL - Ls </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('MXN');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>MXN - MX$ </span></div></a>
+                                                                        <a onclick="setCurrency('MYR');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>MYR - RM </span></div></a>
+                                                                        <a onclick="setCurrency('PHP');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>PHP - Php </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('RON');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>RON - lei </span></div></a>
+                                                                        <a onclick="setCurrency('RSD');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>RSD - Дин. </span></div></a>
+                                                                        <a onclick="setCurrency('RUB');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>RUB - руб</span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('SAR');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>SAR - ﷼ </span></div></a>
+                                                                        <a onclick="setCurrency('TRY');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>TRY - TL </span></div></a>
+                                                                        <a onclick="setCurrency('TWD');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>TWD - NT$ </span></div></a>
+                                                            </li><li>
+                                                                                            <a onclick="setCurrency('UAH');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>UAH - ₴ </span></div></a>
+                                                                        <a onclick="setCurrency('VEF');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>VEF - Bs </span></div></a>
+                                                                        <a onclick="setCurrency('CLP');" style="cursor:pointer;"><div class="top_corncy_div_drop" style="width:65px;"><span>CLP - CL$ </span></div></a>
+                                                                                              </li>
+                                                    </ul>
+              </div>
+            </div>
+          </div>
+                  </div>
+        <div class="onerow">
+          <div class="logo" style="cursor:pointer;"></div>
+          <div class="logo_next_tex">discounted flights | bargain airlines tickets</div>
+          <div class="logos_div_bg">
+            <a class="aita_iocn" target="_blank" href="http://www.iata.org/"></a>
+            <a class="asta_icon" target="_blank" href="http://www.asta.org/"></a>
+            <a class="us_icon" target="_blank" href="http://www.ustravel.org/"></a>
+            <a class="sri_icon" target="_blank" href="http://www.srf.org/"></a>
+            <a class="arc_icon" target="_blank" href="http://www.arccorp.com/index.jsp"></a>
+            <a class="drv_logo" target="_blank" href="http://www.drv.de"></a>
+          </div>
+        </div>
+
+                <div class="menu_bg">
+          <a href="/index.php" class="menu_link_f_sel"><span>Flights<br><font class="font14">find the cheapest</font></span></a>
+          <div class="menu_sparter"></div>
+          <a href="http://www.happy-cars.com/" class="menu_link"><span>Car<br><font class="font14">Rental</font></span></a>
+          <div class="menu_sparter"></div>
+          <a href="http://www.ehotelpass.com/" class="menu_link"><span>Hotelpass<br><font class="font14">US &amp; Canada</font></span></a>
+          <div class="menu_sparter"></div>
+          <a href="http://www.hotelsupermarket.com/" class="menu_link"><span>Hotel<br><font class="font14">rooms</font></span></a>
+          <div class="menu_sparter"></div>
+          <a href="http://www.usflydrive.com/" class="menu_link"><span>Fly Drive<br><font class="font14">Vacations</font></span></a>
+          <div class="menu_sparter"></div>
+          <a href="http://www.skyholidays.com/" class="menu_link"><span>Skyholidays<br><font class="font14">Vacation Packages</font></span></a>
+          <div class="menu_sparter"></div>
+          <a href="http://www.onlineticketexpress.com/?a_aid=BigSkyGrup" class="menu_link"><span>Sports &amp; Theatre<br><font class="font14">Tickets</font></span></a>
+          <div class="menu_sparter"></div>
+          <a href="http://www.new-cruises.com/" class="menu_link"><span>Cruises<br><font class="font14">worldwide</font></span></a>
+        </div>
+
+                <div class="top_slid">
+          <div class="top_slid_lft">Latest<br>bookings</div>
+          <div class="top_slid_cen">
+            <marquee direction="left" behavior="scroll">
+                            <span class="top_slid_arrow">
+                            Rome - Fuimicino Airport - 
+                            Reggio Calabria - 
+                            Rome - Fuimicino Airport :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">208.86</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Brussels - 
+                            Istanbul - Sabiha Gokcen :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">70.02</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Aarhus - 
+                            Copenhagen :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">79.90</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Paris - 
+                            Guangzhou (Canton) - 
+                            Paris :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">1486.53</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Lagos - 
+                            Baton Rouge, La - 
+                            Lagos :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">2371.84</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Zurich - 
+                            San Francisco :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">1254.11</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Bucharest - 
+                            Munich - 
+                            Bucharest :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">291.97</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Bucharest - 
+                            Munich - 
+                            Bucharest :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">216.28</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Manila - 
+                            Toulouse :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">822.86</div></b></font></span>
+                            <span class="top_slid_arrow">
+                            Cape Town - 
+                            Antananarivo (Tanannarive) - 
+                            Cape Town :: 
+                            <font class="red_color"><b>US$ <div id="booking_price" style="display:inline;">1085.63</div></b></font></span>
+                          </marquee>
+          </div>
+          <div class="top_slid_rgt"></div>
+        </div>
 
 
-<script type="text/javascript">
-function login_simple(data) {
-  $('#login_form').html(data);
-}
-</script>
-
-<table class="bodywrapper" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td>
-      <table border="0" cellspacing="0" cellpadding="0" class="tab_cal_area">
-        <tbody><tr>
-          <td>
-            <div class="tab_row">
-  <ul>
-    <li class="flight"><a href="/index.php" class="selected"><font class="fristlett">f</font>lights</a></li>
-    <li class="sep">&nbsp;</li>
-    <li class="car"><a href="http://www.happy-cars.com/"><font class="fristlett">c</font>ar rental</a></li>
-    <li class="sep">&nbsp;</li>
-    <li class="hotel"><a href="http://www.hotelshop.com/"><font class="fristlett">h</font>otel reservation</a></li>
-    <li class="sep">&nbsp;</li>
-    <li class="tickets"><a href="http://www.onlineticketexpress.com/?a_aid=BigSkyGrup" target="_blank"><font class="fristlett">t</font>ickets</a></li>
-    <li class="sep">&nbsp;</li>
-    <li class="tour"><a href="http://www.skyholidays.com/"><font class="fristlett">t</font>ours</a></li>
-  </ul>
-</div>
-<div class="boxcls" id="boxdiv" style="display:none;">
-  <div class="close" id="closebutton" onclick="divshowhide(this.id)"></div>
-  <div class="informationtxt">Reach us 24/7 at via our <a href="http://support.sky-tours.com/" target="_blank">Customer Support System</a>.<br> Our experienced travel agents will be happy to assist.</div>
-</div>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr>
-          <td style="background:#FFF;">
-            <div class="content_page">
-            <h1>Privacy</h1>
+        <div class="onerow">
+          <div class="page_lft">
+                        <div class="page_lft_pan min">
+              <div class="lft_box_in_pan">
+                <h1>Privacy</h1>
 <div class="seperate"></div>
 We are committed to protecting your privacy while you visit our Site.
 <p><b>The Information Collected</b></p>
@@ -219,63 +421,185 @@ We are committed to protecting your privacy while you visit our Site.
 <p><b>Privacy Policy Updates</b></p>
 <p>We may, in our sole discretion, revise this Privacy Policy at any time; all such revisions shall be effective when posted. If we change the way your personal information will be used, we will post an announcement on our homepage. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices.</p>
 <p><b>PRIVACY</b></p>
-<p>You have read our Terms of Use, the terms of which are incorporated herein, and agree to such terms.</p>            </div>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table><table class="footer" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td colspan="3" class="footerlinks">
-      <a href="/info.php?what=faq" target="_blank">FAQ</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="javascript:void(0)">Site Map</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="http://blog.sky-tours.com/" target="_blank">SkyTours Blog</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="http://www.senior-fares.com/" target="_blank">Senior Citizen Airfares</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="javascript:void(0)">Youth/Student Fares</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="/info.php?what=terms" target="_blank">Terms and Conditions</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="/info.php?what=about" target="_blank">About Us</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="javascript:void(0)">Contact Us</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="/info.php?what=privacy" target="_blank">Privacy</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="http://www.tsa.gov/SecureFlight" target="_blank">TSA Secure Flight Program</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="/info.php?what=rules" target="_blank">Airlines Tariff Rules and Regulations</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="/info.php?what=canxprotect" target="_blank">Cancellation Protection</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="/info.php?what=airlinelist" target="_blank">List of Airlines we compare</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="javascript:void(0)">Become a SkyTours Affiliate</a>
-    </td>
-  </tr>
-  <tr><td colspan="3">SkyTours does not offer assistance by phone but you may easily reach our <a href="http://support.sky-tours.com/" class="link" target="_blank">helpdesk</a> anytime 24/7.&nbsp;Our experienced travel agents are happy to assist</td></tr>
-    <tr>
-    <td colspan="3">
-      <a href="/info.php?what=privacy&amp;lang=ar" title="Argentina"><img src="/images/flags/ar.gif" width="16" height="11" border="0" align="middle" title="Argentina" alt="Argentina"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=at" title="Austria"><img src="/images/flags/at.gif" width="16" height="11" border="0" align="middle" title="Austria" alt="Austria"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=au" title="Australia"><img src="/images/flags/au.gif" width="16" height="11" border="0" align="middle" title="Australia" alt="Australia"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=bg" title="Bulgaria"><img src="/images/flags/bg.gif" width="16" height="11" border="0" align="middle" title="Bulgaria" alt="Bulgaria"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=br" title="Brazil"><img src="/images/flags/br.gif" width="16" height="11" border="0" align="middle" title="Brazil" alt="Brazil"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ca" title="Canada"><img src="/images/flags/ca.gif" width="16" height="11" border="0" align="middle" title="Canada" alt="Canada"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=qb" title="Canada (Quebeq)"><img src="/images/flags/qb.gif" width="16" height="11" border="0" align="middle" title="Canada (Quebeq)" alt="Canada (Quebeq)"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ch" title="Switzerland"><img src="/images/flags/ch.gif" width="16" height="11" border="0" align="middle" title="Switzerland" alt="Switzerland"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=cl" title="Chile"><img src="/images/flags/cl.gif" width="16" height="11" border="0" align="middle" title="Chile" alt="Chile"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=cn" title="China (prc)"><img src="/images/flags/cn.gif" width="16" height="11" border="0" align="middle" title="China (prc)" alt="China (prc)"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=co" title="Colombia"><img src="/images/flags/co.gif" width="16" height="11" border="0" align="middle" title="Colombia" alt="Colombia"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ct" title="Catalan; Valencian"><img src="/images/flags/catalonia.gif" width="16" height="11" border="0" align="middle" title="Catalan; Valencian" alt="Catalan; Valencian"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=cz" title="Czech Republic"><img src="/images/flags/cz.gif" width="16" height="11" border="0" align="middle" title="Czech Republic" alt="Czech Republic"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=de" title="Germany"><img src="/images/flags/de.gif" width="16" height="11" border="0" align="middle" title="Germany" alt="Germany"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=dk" title="Denmark"><img src="/images/flags/dk.gif" width="16" height="11" border="0" align="middle" title="Denmark" alt="Denmark"></a>&nbsp;<a><img src="/images/flags/us.gif" width="16" height="11" border="0" align="middle" title="United States" alt="United States"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=es" title="Spain"><img src="/images/flags/es.gif" width="16" height="11" border="0" align="middle" title="Spain" alt="Spain"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=fi" title="Finland"><img src="/images/flags/fi.gif" width="16" height="11" border="0" align="middle" title="Finland" alt="Finland"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=fr" title="France"><img src="/images/flags/fr.gif" width="16" height="11" border="0" align="middle" title="France" alt="France"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=gb" title="United Kingdom"><img src="/images/flags/gb.gif" width="16" height="11" border="0" align="middle" title="United Kingdom" alt="United Kingdom"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=gr" title="Greece"><img src="/images/flags/gr.gif" width="16" height="11" border="0" align="middle" title="Greece" alt="Greece"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=hk" title="Hong Kong"><img src="/images/flags/hk.gif" width="16" height="11" border="0" align="middle" title="Hong Kong" alt="Hong Kong"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=hu" title="Hungary"><img src="/images/flags/hu.gif" width="16" height="11" border="0" align="middle" title="Hungary" alt="Hungary"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=id" title="Indonesia"><img src="/images/flags/id.gif" width="16" height="11" border="0" align="middle" title="Indonesia" alt="Indonesia"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ie" title="Ireland"><img src="/images/flags/ie.gif" width="16" height="11" border="0" align="middle" title="Ireland" alt="Ireland"></a>&nbsp;<br><a href="/info.php?what=privacy&amp;lang=in" title="India"><img src="/images/flags/in.gif" width="16" height="11" border="0" align="middle" title="India" alt="India"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ir" title="Iran (islamic Republic Of)"><img src="/images/flags/ir.gif" width="16" height="11" border="0" align="middle" title="Iran (islamic Republic Of)" alt="Iran (islamic Republic Of)"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=it" title="Italy"><img src="/images/flags/it.gif" width="16" height="11" border="0" align="middle" title="Italy" alt="Italy"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=jp" title="Japan"><img src="/images/flags/jp.gif" width="16" height="11" border="0" align="middle" title="Japan" alt="Japan"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=kr" title="Republic of Korea"><img src="/images/flags/kr.gif" width="16" height="11" border="0" align="middle" title="Republic of Korea" alt="Republic of Korea"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=lv" title="Latvia"><img src="/images/flags/lv.gif" width="16" height="11" border="0" align="middle" title="Latvia" alt="Latvia"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=mx" title="Mexico"><img src="/images/flags/mx.gif" width="16" height="11" border="0" align="middle" title="Mexico" alt="Mexico"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=my" title="Malaysia"><img src="/images/flags/my.gif" width="16" height="11" border="0" align="middle" title="Malaysia" alt="Malaysia"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=nl" title="Netherlands"><img src="/images/flags/nl.gif" width="16" height="11" border="0" align="middle" title="Netherlands" alt="Netherlands"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=no" title="Norway"><img src="/images/flags/no.gif" width="16" height="11" border="0" align="middle" title="Norway" alt="Norway"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=nz" title="New Zealand"><img src="/images/flags/nz.gif" width="16" height="11" border="0" align="middle" title="New Zealand" alt="New Zealand"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=pe" title="Peru"><img src="/images/flags/pe.gif" width="16" height="11" border="0" align="middle" title="Peru" alt="Peru"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ph" title="Philippines"><img src="/images/flags/ph.gif" width="16" height="11" border="0" align="middle" title="Philippines" alt="Philippines"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=pl" title="Poland"><img src="/images/flags/pl.gif" width="16" height="11" border="0" align="middle" title="Poland" alt="Poland"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=pt" title="Portugal"><img src="/images/flags/pt.gif" width="16" height="11" border="0" align="middle" title="Portugal" alt="Portugal"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ro" title="Romania"><img src="/images/flags/ro.gif" width="16" height="11" border="0" align="middle" title="Romania" alt="Romania"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=rs" title="Serbia"><img src="/images/flags/rs.gif" width="16" height="11" border="0" align="middle" title="Serbia" alt="Serbia"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ru" title="Россия"><img src="/images/flags/ru.gif" width="16" height="11" border="0" align="middle" title="Россия" alt="Россия"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=sg" title="Singapore"><img src="/images/flags/sg.gif" width="16" height="11" border="0" align="middle" title="Singapore" alt="Singapore"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=se" title="Sweden"><img src="/images/flags/se.gif" width="16" height="11" border="0" align="middle" title="Sweden" alt="Sweden"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=tr" title="Turkey"><img src="/images/flags/tr.gif" width="16" height="11" border="0" align="middle" title="Turkey" alt="Turkey"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=tw" title="Taiwan, Republic Of China"><img src="/images/flags/tw.gif" width="16" height="11" border="0" align="middle" title="Taiwan, Republic Of China" alt="Taiwan, Republic Of China"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ua" title="Ukraine"><img src="/images/flags/ua.gif" width="16" height="11" border="0" align="middle" title="Ukraine" alt="Ukraine"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ae" title="United Arab Emirates"><img src="/images/flags/ae.gif" width="16" height="11" border="0" align="middle" title="United Arab Emirates" alt="United Arab Emirates"></a>&nbsp;<a href="/info.php?what=privacy&amp;lang=ve" title="Venezuela"><img src="/images/flags/ve.gif" width="16" height="11" border="0" align="middle" title="Venezuela" alt="Venezuela"></a>&nbsp;
-    </td>
-  </tr>
-    <tr><td>| <a href="http://www.vuelos-baratos.com">vuelos baratos</a> |
-	<a href="http://www.voos-baratos.com">voos baratos</a> |</td><td>©1996-2010 Skytours Online® all rights reserved</td><td>
-	<a href="http://www.voyages-voyages.fr">voyages voyages</a> |
-	<a href="http://www.voli-economici.com">voli economici</a> | <a href="http://www.lentoliput.travel">lentoliput</a></td></tr>
-  <tr>
-    <td colspan="3">
-      <a href="http://www.iata.org/" class="footerlink1" target="_blank"><img src="/images/iata.jpg"></a>
-      <a href="http://www.asta.org/" class="footerlink2" target="_blank"><img src="/images/asta.jpg"></a>
-    </td>
-  </tr>
-</tbody></table>  </div>
+<p>You have read our Terms of Use, the terms of which are incorporated herein, and agree to such terms.</p>
+
+              </div>  
+            </div>
+
+          </div>
+          <div class="page_rgt">
+            
+                        <div class="page_rgt_ad_pan top15">
+              <div class="rgt_box_in_pan"><a href="http://www.skyholidays.com/package/weekend-in-las-vegas" target="_blank"><img src="/images/las-skyholidays.jpg" border="0"></a></div>
+            </div>
+            <div class="page_rgt_ad_pan top20">
+              <div class="rgt_box_in_pan"><a href="http://www.skyholidays.com/package/new-york-city " target="_blank"><img src="/images/new-york-skyholidays.jpg" border="0"></a></div>
+            </div>
+
+            
+          </div>
+        </div>
+                <div class="pag_bot">
+          <div class="sociallinks_pan">
+            <div class="sociallinks_links">
+              <a href="http://www.hotelshop.com/" class="page_bot_log1"></a>
+              <a href="http://www.happy-cars.com/" class="page_bot_log2"></a>
+              <a href="http://www.ehotelpass.com/" class="page_bot_log3"></a>
+              <a href="http://www.skyholidays.com/" class="page_bot_log4"></a>
+              <a href="http://www.usflydrive.com/" class="page_bot_log5"></a>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+    <div class="footer_div">
+    <div class="footer_wrapper">
+      <div class="footer_top_link">
+        <a href="/info.php?what=faq">FAQ</a> | <a href="/sitemap.html">Site Map</a> | <a href="http://blog.sky-tours.com/">SkyTours Blog</a> | <a href="/info.php?what=terms">Terms and Conditions</a> | <a href="/info.php?what=about">About Us</a> | <a href="http://support.sky-tours.com/" target="_blank">Contact Us</a> | <a href="/info.php?what=privacy">Privacy</a><br><a href="http://www.tsa.gov/SecureFlight">TSA Secure Flight Program</a> | <a href="/info.php?what=rules">Airlines Tariff Rules and Regulations</a> | <a href="/info.php?what=canxprotect">Cancellation Protection</a> | <a href="/info.php?what=airlinelist">List of Airlines we compare</a>
+      </div>
+      <div class="footer_top_tex">SkyTours does not offer assistance by phone but you may easily reach our <a href="http://support.sky-tours.com/" class="footer_blue" target="_blank">helpdesk</a> anytime 24/7.&nbsp;Our experienced travel agents are happy to assist</div>
+      <div class="footer_bg_div">
+        <div class="footer_bg_div_lft"></div>
+        <div class="footer_bg_div_cen">
+          <a href="http://www.ehotelpass.com/"><div class="ehotel_logo_footer"></div></a>
+          <div class="sparter_footer"></div>
+          <a href="http://www.skyholidays.com/"><div class="skyholiday_logo_footer"></div></a>
+          <div class="sparter_footer"></div>
+          <a href="http://www.hotelshop.com/"><div class="hotel_shop_logo_footer"></div></a>
+          <div class="sparter_footer"></div>
+          <a href="http://www.usflydrive.com/"><div class="fly_drive_footer"></div></a>
+          <div class="sparter_footer"></div>
+          <a href="http://www.happy-cars.com/"><div class="happy_car_footer"></div></a>
+          <div class="sparter_footer"></div>
+          <a href="http://www.hotelsupermarket.com/"><div class="hotel_log_footer"></div></a>
+        </div>
+        <div class="footer_bg_div_rgt"></div>
+      </div>
+      <div class="footer_top_tex_cop"><a href="http://www.vuelos-baratos.com/" class="footer_blue">vuelos baratos</a> | <a href="http://www.voos-baratos.com/" class="footer_blue">voos baratos</a> <font class="footer_white">©1996-2012 Skytours Online™ all rights reserved®</font> <a href="http://www.voyages-voyages.fr" class="footer_blue">voyages voyages</a> | <a href="http://www.voli-economici.com/" class="footer_blue">voli economici</a> | <a href="http://www.lentoliput.travel/" class="footer_blue">lentoliput</a></div>
+    </div>
+  </div>
+
 </center>
 
+
+<form id="id_language" action="/info.php" method="get">
+<input type="hidden" id="id_lang" name="lang">
+<input type="hidden" name="what" value="privacy">
+</form>
+<form id="id_currency" action="/info.php" method="get">
+<input type="hidden" id="id_curr" name="curr">
+<input type="hidden" name="lang" value=""><input type="hidden" name="what" value="privacy">
+</form>
+
+
+<div id="domMessage" style="display:none;"> 
+  <img src="/images/loading.gif" width="400" height="400" alt="loading">
+</div>
+
+<div id="searchContent" style="display:none;">
+  <div class="tall_div1">
+    <div class="pop2_lft">
+      <div class="onerow">
+        <div class="p_text1">Please wait, while we search for flights</div>
+        <div class="p_text_h"><font color="#66bef7">from</font> <span id="tall_from"></span> <font color="#66bef7">to</font> <span id="tall_to"></span> <font color="#66bef7">on the dates you selected</font></div>
+        <div class="onerow top10">
+          <div class="clend_icon left100"><span id="tall_date_from"></span></div>
+          <div id="view_tall_date_to" class="clend_icon left20"><span id="tall_date_to"></span></div>
+        </div>
+        <div class="onerow">
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="576" height="95">
+            <param name="movie" value="/images/blockui/loader.swf">
+            <param name="quality" value="high">
+            <param name="wmode" value="transparent">
+            <embed src="/images/blockui/loader.swf" quality="high" type="application/x-shockwave-flash" width="576" height="95" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer">
+          </object>
+        </div>
+        <div class="thanku">Thank You!</div>
+      </div>
+    </div>
+    <div class="pop2_rgt">
+            <a href="#"><img src="/language/advert/en/tallContent3.png" border="0" alt=" "></a>
+
+          </div>
+  </div>
+</div>
+
+<div id="bookContent" style="display:none;">
+  <div class="tall_div1">
+    <div class="pop2_lft">
+      <div class="onerow">
+        <div class="p_text1">Please wait.</div>
+        <div class="onerow">
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="576" height="95">
+            <param name="movie" value="/images/blockui/loader.swf">
+            <param name="quality" value="high">
+            <param name="wmode" value="transparent">
+            <embed src="/images/blockui/loader.swf" quality="high" type="application/x-shockwave-flash" width="576" height="95" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer">
+          </object>
+        </div>
+        <div class="thanku">Thank You!</div>
+      </div>
+    </div>
+    <div class="pop2_rgt">
+            <a href="#"><img src="/language/advert/en/tallContent2.png" border="0" alt=" "></a>
+
+          </div>
+  </div>
+</div>
+
+<div id="bookingContent" style="display:none;">
+  <div class="tall_div1">
+    <div class="pop2_lft">
+      <div class="onerow">
+        <div class="p_text1">Please wait, while we are processing your booking request</div>
+        <div class="onerow">
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="576" height="95">
+            <param name="movie" value="/images/blockui/loader.swf">
+            <param name="quality" value="high">
+            <param name="wmode" value="transparent">
+            <embed src="/images/blockui/loader.swf" quality="high" type="application/x-shockwave-flash" width="576" height="95" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer">
+          </object>
+        </div>
+        <div class="thanku">Thank You!</div>
+      </div>
+    </div>
+    <div class="pop2_rgt">
+            <a href="#"><img src="/language/advert/en/tallContent2.png" border="0" alt=" "></a>
+
+          </div>
+  </div>
+</div>
+
+<div id="cancelContent" style="display:none;">
+  <div class="tall_div">
+    <div class="onerow">
+      <div class="close_btn"><a href="#"><img onclick="checkCancel(1);" src="/images/blockui/close_btn.png" border="0"></a></div>
+    </div>
+    <div class="p_text">You have not selected any Cancellation protection. Please confirm that you really do not want to be protected and that you are aware your ticket is non refundable, unless you are protected through our cancellation protection.</div>
+    <div class="onerow top10">
+      <a href="#" onclick="checkCancel(1);"><div class="noproceed">No proceed with the booking without cancellation protection</div></a>
+      <a href="#" onclick="checkCancel(0);"><div class="nopro">Add cancellation protection</div> </a>
+    </div>
+  </div>
+</div>
+
+<div id="dialog-login" title="LOGIN DATA (Registered Users only!)">
+  <p class="validateTips">All form fields are required.</p>
+  <br>
+    <form action="https://www.sky-tours.com/ajax/login.php" id="login" method="post" target="if_login">
+            <input name="formname" id="formname" type="hidden" value="login_simple">
+            <fieldset>
+        <label for="email">Email</label>
+        <input name="emailLogin" id="emailLogin" type="text" value="" class="text ui-widget-content ui-corner-all">
+        <label for="password">Password</label>
+        <input name="pswLogin" id="pswLogin" type="password" value="" class="text ui-widget-content ui-corner-all" autocomplete="off">
+      </fieldset>
+    </form>
+</div>
+<iframe frameborder="0" id="if_login" name="if_login" src="https://www.sky-tours.com/templates/empty.html" width="0" height="0"></iframe>
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -295,9 +619,6 @@ _uacct = "UA-66068-2";
 urchinTracker();
 </script>
 
-<script type="text/javascript">
-</script>
-
 <!-- ClickTale Bottom part -->
 <div id="ClickTaleDiv" style="display: none;"></div>
 <script type="text/javascript">
@@ -311,14 +632,15 @@ if(typeof ClickTale=='function') ClickTale(40361,1,"www");
 
 <script type="text/javascript">
 /* <![CDATA[ */
-swfobject.registerObject("FlashID");
-swfobject.registerObject("FlashID");
-swfobject.registerObject("FlashIDa");
-swfobject.registerObject("FlashIDa");
+$(function() {
+
+
+});
+
 /* ]]> */
 </script>
 
-<iframe frameborder="0" id="ilogin" name="ilogin" src="https://www.sky-tours.com/templates/default/empty.html" width="0" height="0"></iframe>
+
 
 
 
