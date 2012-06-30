@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sinobiological.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231210710id_/http%3A//www.sinobiological.com/Sino-Biological-Inc-Privacy-Policy-a-106.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sinobiological.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630225026id_/http%3A//www.sinobiological.com/Sino-Biological-Inc-Privacy-Policy-a-106.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="Generator" content="ECSHOP v2.6.2">
@@ -12,7 +12,59 @@
 <link href="themes/sino/style.css" rel="stylesheet" type="text/css">
 <link href="themes/sino/article.css" rel="stylesheet" type="text/css">
 <link href="themes/sino/article2.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/common.js"></script><script type="text/javascript" src="js/flash.js"></script></head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/common.js"></script><script type="text/javascript" src="js/flash.js"></script>
+<script type="text/javascript">
+function scrollDoor(){
+}
+scrollDoor.prototype = {
+sd : function(menus,divs,openClass,closeClass){
+var _this = this;
+if(menus.length != divs.length)
+{
+alert("菜单层数量和内容层数量不一样!");
+return false;
+}
+for(var i = 0 ; i < menus.length ; i++)
+{
+_this.$(menus[i]).value = i;
+_this.$(menus[i]).onmouseover = function(){
+for(var j = 0 ; j < menus.length ; j++)
+{
+_this.$(menus[j]).className = closeClass;
+_this.$(divs[j]).style.display = "none";
+}
+_this.$(menus[this.value]).className = openClass;
+_this.$(divs[this.value]).style.display = "block";
+}
+}
+},
+$ : function(oid){
+if(typeof(oid) == "string")
+return document.getElementById(oid);
+return oid;
+}
+}
+window.onload = function(){
+var SDmodel = new scrollDoor();
+SDmodel.sd(["m01","m02","m03","m04","m05","m06"],["c01","c02","c03","c04","c05","c06"],"sd01","sd02");
+}
+</script>
+<script type="text/javascript">
+//lyy click display none;
+var subs_array = new Array("sub1");
+function displaySubs(the_sub){
+	if (document.getElementById(the_sub).style.display==""){
+	document.getElementById(the_sub).style.display = "none";
+	return
+  }
+  for (i=0;i<subs_array.length;i++){
+	var my_sub = document.getElementById(subs_array[i]);
+	my_sub.style.display = "none";
+	}
+  document.getElementById(the_sub).style.display = "";
+  }
+</script>
+</head>
 <body>
 <div class="container">
  
@@ -86,7 +138,7 @@ var process_request = "Please waiting...";
       <div class="caidan">
    
        <ul id="nav">
-        <li class="top"><a href="index.php" class="top_link"><span class="down">Home</span></a></li>
+        <li class="top"><a href="http://www.sinobiological.com" class="top_link"><span class="down">Home</span></a></li>
         <li class="top"><a href="/About-Us-a-59.html" class="top_link"><span class="down">About Us</span></a>
         <ul class="sub">
         <li><a href="/About-Us-a-59.html">Company</a></li>
@@ -361,11 +413,23 @@ var process_request = "Please waiting...";
    </ul>
  </div> 
  
-	<!--cc
+	<!--cc 
     
- 	<div id="chatDiv" style="position:relative; top:1px; left:10px; z-index:1000000000000000000000; width:100%;"><a href="http://www.sinobiological.com/uploads/Delivery Arrangement for Holiday.html" target="_blank"><img src="themes/sino/images/gift2.jpg"  alt="Arrangement for Holiday" style="position:absolute; z-index:10000000000000000000000; left:20x; top:0px;"/></a></div>
-    
+ 	<div id="chatDiv" style="position:relative; top:1px; left:10px; z-index:1000000000000000000000; width:100%;"><a href="http://www.sinobiological.com/uploads/spring-fesitival-shipping-arrengement.html" target="_blank"><img src="themes/sino/images/holiday-arrengement.gif"  alt="Arrangement for Holiday" style="position:absolute; z-index:10000000000000000000000; left:20x; top:0px;"/></a></div>
     -->
+    
+    
+ 
+    
+<div class="addthis_toolbox addthis_floating_style addthis_16x16_style" style="left:5px;top:5px;">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fc339737d92dbfb"></script>
      </div>
     <script type="text/javascript">
 var lastScrollY=0;
@@ -432,6 +496,7 @@ if (window.attachEvent) window.attachEvent("onload", stuHover);
 		  			<dd><a href="category-30-b0.html">Rabbit PAb Antibody</a></dd>
 		  			<dd><a href="category-45-b0.html">Secondary Antibody</a></dd>
 		  			<dd><a href="category-46-b0.html">Tag Antibody</a></dd>
+		  			<dd><a href="category-57-b0.html">Control Antibody</a></dd>
 		  		  </dl>
 		</li>
 			<li><a href="category-20-b0.html">Gene Products</a>
@@ -447,22 +512,28 @@ if (window.attachEvent) window.attachEvent("onload", stuHover);
 		  			<dd><a href="category-43-b0.html">Sinofection</a></dd>
 		  		  </dl>
 		</li>
-			<li><a href="category-21-b0.html">Tool Enzymes</a>
-		  <dl>
-		  			<dd><a href="category-52-b0.html">Nuclease</a></dd>
-		  			<dd><a href="category-27-b0.html">Recombinant Protease</a></dd>
-		  			<dd><a href="category-51-b0.html">Neuraminidase (NA)</a></dd>
-		  		  </dl>
-		</li>
 			<li><a href="category-25-b0.html">ELISA</a>
 		  <dl>
 		  			<dd><a href="category-49-b0.html">ELISA Pair Set</a></dd>
 		  		  </dl>
 		</li>
+			<li><a href="category-53-b0.html">Antibody Purification</a>
+		  <dl>
+		  			<dd><a href="category-56-b0.html">Protein A/G/L Resins</a></dd>
+		  			<dd><a href="category-55-b0.html">Protein A/G/L</a></dd>
+		  		  </dl>
+		</li>
+			<li><a href="category-21-b0.html">Enzymes</a>
+		  <dl>
+		  			<dd><a href="category-51-b0.html">Neuraminidase (NA)</a></dd>
+		  			<dd><a href="category-52-b0.html">Nuclease</a></dd>
+		  			<dd><a href="category-27-b0.html">Recombinant Protease</a></dd>
+		  		  </dl>
+		</li>
 		
   </ul>
-  <p style="text-align:left; padding:3px 3px 0 20PX; color:#cc6600;"> <strong>2011 Latest Catalog </strong></p>
-  <p style="text-align:left; padding:3px 3px 0 20PX;">PDF(2.2M) <a href="/themes/sino/images/Sino Biological Inc. 2011 Product Catalog.pdf" style="text-decoration:none;">Download</a></p>
+  <p style="text-align:left; padding:3px 3px 0 20PX; color:#cc6600;"> <strong>2012 Latest Catalog </strong></p>
+  <p style="text-align:left; padding:3px 3px 0 20PX;">PDF(2.2M) <a href="/themes/sino/images/Sino Biological Inc. 2012 Product Catalog.pdf" style="text-decoration:none;">Download</a></p>
  
 </div>
   <div style="float:left;"><img src="themes/sino/images/idx_35.gif" width="194"></div>
@@ -487,7 +558,7 @@ onload();
    
 <div class="left2">
    <div class="left2_title" style="font-size: 13px">&nbsp;&nbsp;<strong>Research Topics</strong></div>
-   <div id="left2_list0" style="height:220px;"> 
+   <div id="left2_list0"> 
       <ul>
 <li><a href="/Influenza-Virus-Research-Tools-a-859.html">Influenza   Virus Research Tools</a></li>
 <li><a href="/Virus-Research-Tools-a-1131.html">Virus Research Tools</a></li>
@@ -564,6 +635,7 @@ onload();
 </div>                     </div>
    
       
+       
   </div>
   
 </div>
