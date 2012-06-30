@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126160521id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630135145id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
 
-# Home | 2-surf.net
+# Home | To Surf the Net
 
   
 2-Surf.net's and 2-surf.com's Privacy Policy
