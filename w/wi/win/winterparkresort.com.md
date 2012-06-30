@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230085653id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113413id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
 
 # Intrawest - Privacy Policy
 
@@ -251,12 +251,12 @@ If you have questions or concerns about our privacy policy or practices, or woul
 Email: | [yourprivacy@intrawest.com](mailto:yourprivacy@intrawest.com)  
 ---|---  
 Phone: | 1-877-477-6777 (North American Toll-Free)  
-  | 604-695-8219 (Local & International)  
+  | 303-749-8218 (Local & International)  
 Mail: | Chief Privacy Officer  
 Intrawest  
 1621 18th Street, Suite #300  
 Denver, CO 80202  
   
-Policy Update: December 23, 2011
+Policy Update: December 30, 2011
 
 [Version française](https://web.archive.org/politique/index.htm)
