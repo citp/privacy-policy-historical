@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214138id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232320id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mrfood.com
 
@@ -152,7 +152,7 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 | 
 
-[](http://www.mrfood.com/Fruit-Recipes/Chilean-Blueberries-for-a-Healthy-New-Year)
+[](http://grabandgobar.com/)
 
 Please Wait 
 
