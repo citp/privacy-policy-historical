@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovesystems.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014013103id_/http%3A//www.lovesystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesystems.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630153926id_/http%3A//www.lovesystems.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Lovesystems.com
+# Privacy Policy
 
 Privacy Policy
 
@@ -10,9 +10,9 @@ What are cookies and how do we use them? Cookies help track a person's "session"
 
 All of the newsletters that are sent to you by Love Systems include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at [info@lovesystems.com](mailto:info@lovesystems.com) to change your information at any time. Disclaimer: This policy may be changed at any time at Love System's discretion. If we should update this policy, we will post the updates to this page on our website. This policy was revised September 24, 2009.
 
-If you have any questions or concerns regarding our privacy policy please direct them to [info@lovesystems.com](mailto:info@lovesystems.com). You may also send a letter to: 
+If you have any questions or concerns regarding our privacy policy please direct them to [info@lovesystems.com](mailto:info@lovesystems.com). You may also send a letter to:
 
-Love Systems   
+Love Systems  
 1640 Wilcox Ave.  
 Hollywood, CA  
 90028
