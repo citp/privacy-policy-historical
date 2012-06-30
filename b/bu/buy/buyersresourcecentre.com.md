@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyersresourcecentre.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230111235id_/http%3A//www.redcross.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyersresourcecentre.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190642id_/http%3A//www.redcross.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ The American Red Cross welcomes children to learn more about our organization an
 
 **Questions**
 
-If you have questions about this Privacy Policy, you may send us an email at [PrivacyOfficer@usa.redcross.org](mailto:PrivacyOfficer@usa.redcross.org) or write to—
+If you have questions about this Privacy Policy, you may send us an email at [PrivacyOfficer@redcross.org](mailto:PrivacyOfficer@redcross.org) or write to—
 
 American Red Cross  
 Office of the General Counsel  
