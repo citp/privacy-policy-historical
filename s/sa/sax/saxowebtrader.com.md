@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saxowebtrader.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223847id_/http%3A//www.saxobank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saxowebtrader.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235020id_/http%3A//www.saxobank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saxo Bank - www.saxobank.com
 
@@ -64,4 +64,4 @@ If the data we hold about you proves inaccurate or outdated, we will correct it 
 
 ## How to correct your information with Saxo Bank Group
 
-You may also choose to modify your data on your own initiative by using the "Edit Your Profile" page which you will find in the main menu under "Member Menu". If you have any question or concern, please do not hesitate to contact us by email at [cs@saxobank.com](mailto:cs@saxobank.com) or call us on +45 39 77 40 00.
+You may also choose to modify your data on your own initiative by using the "Edit Your Profile" page which you will find in the main menu under "Member Menu". If you have any question or concern, please do not hesitate to contact us by email at [servicecenter@saxobank.com](mailto:servicecenter@saxobank.com) or call us on +45 39 77 40 00.
