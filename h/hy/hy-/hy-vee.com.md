@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215333id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233336id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-  * [Community](https://web.archive.org/company/community/default.aspx)
-  * [About Hy-Vee](https://web.archive.org/company/about-hy-vee/default.aspx)
   * [Careers](https://web.archive.org/company/careers/default.aspx)
   * [Scholarships](https://web.archive.org/company/scholarships/default.aspx)
-  * [Press Room](https://web.archive.org/company/press-room/default.aspx)
   * [Sustainability](https://web.archive.org/company/sustainability/default.aspx)
   * [Mobile](https://web.archive.org/company/mobile.aspx)
+  * [Community](https://web.archive.org/company/community/default.aspx)
+  * [About Hy-Vee](https://web.archive.org/company/about-hy-vee/default.aspx)
+  * [Press Room](https://web.archive.org/company/press-room/default.aspx)
 
 | 
+
+  * [Company](https://web.archive.org/company/default.aspx)
+  * Privacy
+
+
 
 ## Our Commitment to Privacy
 
@@ -103,31 +108,31 @@ This privacy policy was last modified on **September 23, 2011**.
 |  | Seasons  
 ---  
   
-##### [HELPFUL PRODUCTS AND IDEAS](https://web.archive.org/seasons/default.aspx)
+##### [Helpful Products And Ideas](https://web.archive.org/seasons/default.aspx)
 
 Hy-Vee Seasons provides you with recipes, crafts, tips and helpful seasonal information. Celebrate the seasons in your life!  
   
 Mother's Choice  
 ---  
   
-##### [you TAKE CARE OF THE LITTLE ONES, WE'LL TAKE CARE OF YOU](https://web.archive.org/Redirect.aspx?url=http://www.motherschoiceformula.com/)
+##### [You Take Care Of The Little Ones, We'll Take Care Of You](https://web.archive.org/Redirect.aspx?url=http://www.motherschoiceformula.com/)
 
 Mother's Choice offers a nutritionally complete alternative to expensive brand name infant formulas at a cost mothers will love!  
   
 Midwest Heritage Bank  
 ---  
   
-##### [ONLINE BANK](https://web.archive.org/resources/midwest-heritage-bank/default.aspx)
+##### [Online Bank](https://web.archive.org/resources/midwest-heritage-bank/default.aspx)
 
 Get secure to access to your accounts from any web-connected computer with Internet banking convenient online bill pay.  
   
 Wedding  
 ---  
   
-##### [HY-VEE WILL MAKE YOUR WEDDING AN EVENT TO REMEMBER](https://web.archive.org/resources/wedding/default.aspx)
+##### [Hy-Vee Will Make Your Wedding An Event To Remember](https://web.archive.org/resources/wedding/default.aspx)
 
 If you are planning a wedding, Hy-Vee can help with beautiful flowers, magnificent cakes, amazing catering and more.  
   
 ##### [](http://www.hy-vee.com/company/scholarships/default.aspx)
 
-Hy-Vee has partnered with Western Union in providing this year's scholarship dollars.
+Since 2011, Hy-Vee has partnered with Western Union in providing scholarship dollars.
