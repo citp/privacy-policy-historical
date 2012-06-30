@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205308id_/http%3A//www.themoviepool.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112322id_/http%3A//www.themoviepool.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,3 +26,5 @@ We have appropriate security measures in place in our facilities to protect agai
 
   
 _This Policy, as well as our Terms and Conditions of Use are subject to change._
+
+© 2012 TheMoviePool.com | All rights reserved. 
