@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildmylink.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132403id_/http%3A//buildmylink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildmylink.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630140152id_/http%3A//buildmylink.com/privacy.php) for the most accurate reproduction.*
 
 # Link Submission Manager - Web Site Promotions
 
@@ -22,7 +22,7 @@ However, we will endeavor to take all reasonable steps to protect the personal i
 
 In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we will not be held responsible for events arising from unauthorized access to your personal information.
 
-       Cookies are data that a Web site transfers to an individualâ€™s hard drive for record-keeping purposes. Cookies, which are industry standard and are used by most Web sites, including those operated by us, can facilitate a userâ€™s ongoing access to and use of a site. They allow us to customize the web site to your needs. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with some features of our link building services.
+       Cookies are data that a Web site transfers to an individual’s hard drive for record-keeping purposes. Cookies, which are industry standard and are used by most Web sites, including those operated by us, can facilitate a user’s ongoing access to and use of a site. They allow us to customize the web site to your needs. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with some features of our link building services.
 
     We will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. If, at any time, you discover that information held about you is incorrect, you may contact us to have the information corrected. 
 
