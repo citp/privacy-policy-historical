@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreecopycatrecipes.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205092926id_/http%3A//www.allfreecopycatrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecopycatrecipes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630140931id_/http%3A//www.allfreecopycatrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCopycatRecipes.com
 
@@ -175,12 +175,10 @@ Please Wait
 
 ##### Something worth saving?
 
-[Register now](https://web.archive.org/section/account/action/login) to:
+[Register now for FREE](https://web.archive.org/section/account/action/login) to:
 
-  * save all your favorite recipes
-  * add personal notes
-  * quickly reference your recipes
+  * SAVE all your favorite recipes
+  * ADD personal notes
+  * QUICKLY reference your recipes
 
-  
-  
----|---|---
+
