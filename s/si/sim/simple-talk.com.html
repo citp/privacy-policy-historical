@@ -1,66 +1,14 @@
-<!--The following is the downloaded HTML source of the simple-talk.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224903id_/http%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simple-talk.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630101554id_/http%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="http://www.simple-talk.com/App_Themes/main.css?v=1" type="text/css">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
-    <script src="/site/script.js?v=2" type="text/javascript"></script>
-    <script language="javascript">
-        function siteSearch(e, strUrl, strSearchParam, strSearchControl)
-        {
-        	if (e.keyCode == 13)
-	        {
-	            // force a mouseover
-	            btnSearchOver();
-	            
-                // let the click event do the work
-	            return(doSiteSearch(strUrl, strSearchParam, strSearchControl));
-            }
-            else
-            {
-                // allow further processing
-                return(true);
-            } 
-        }
-        var m_over = false;
-        function btnSearchOver() { m_over = true; }
-        function btnSearchOut() { m_over = false; }
-        function doSiteSearch(strUrl, strSearchParam, strSearchControl)
-        {
-        	if (m_over == true)
-	        {
-                // get the text and strip any spaces
-                var strText = document.getElementById(strSearchControl).value;
-                while (strText.substring(0,1) == ' ') strText = strText.substring(1,strText.length);
-                while (strText.substring(strText.length-1,strText.length) == ' ') strText = strText.substring(0,strText.length-1);
-      
-                // add the parameters
-                strUrl = strUrl + "?" + strSearchParam + "=" + encodeString(strText);
-             
-                // now navigate
-                document.location.href = strUrl;
-            }
-                            
-            // stop further processing
-            return(false);
-        }        
-        function encodeString(plaintext)
-        {
-            var encodedtext = "";
-            for (var i=0; i<plaintext.length; i++)
-            {
-                if (plaintext.charAt(i) == " ")
-                    encodedtext += "+";
-                else
-                    encodedtext += plaintext.charAt(i);
-            }
-            return(escape(encodedtext));
-        }
-    </script>
-    <title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="/App_Themes/main.css?v=3" type="text/css">
+    <script data-main="/static/versioned/js/103/main.js" src="/static/js/lib/require-1.0.7.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/static/versioned/js/103/main.js"></script>
+    
+  
+<title>
 	Privacy Policy
 </title></head>
 <body>
-
   <div id="corner-peel">
 	  <a href="http://monitor.red-gate.com/?utm_source=simpletalk&amp;utm_medium=peel&amp;utm_content=corner_peel201104&amp;utm_campaign=sqlmonitor">
       <img src="/images/ads/corner-peel.png" alt="Click here to monitor SSC">
@@ -68,63 +16,79 @@
 	  <div id="corner-peel-behind"></div>
   </div>
 
-<form name="aspnetForm" method="post" action="page.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3Njg5NTE2NTRkGAMFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ9jdGwwMCRidG5TZWFyY2gFBl9fUGFnZQ8UKwADZGVlZAURY3RsMDAkTmF2aWdhdGlvbjEPFCsAAmRkZA==">
-</div>
-
-
-<script src="/ScriptResource.axd?d=SQMpTj2TXzy_OEnB0rmS2tlvXQ3lSbo3DyYoswqILPsZTHBXa4a3ZOgJwQXHMl_fhmhrxVu1JTqRGiVgYuqgqE4_ydwQHB7heogVG1hWP4li4oy6vkNn7nihYaPKJMoBXQVjXprmCSfQxNokhFEZXQS2TvY1&amp;t=ffffffffff5a8c8a" type="text/javascript"></script>
-    
-    <script language="javascript" type="text/javascript">
-        function EndRequestHandler()
-        {
-            if (theForm._initialAction == undefined)
-                theForm._initialAction = theForm.action;
-            else
-                theForm.action = theForm._initialAction;
-        }
-        if( typeof(Sys) != "undefined" )
-        {
-            EndRequestHandler();
-            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
-        }
-    </script>
-    <div class="site">
-        <div class="page">
-            <div class="header">
-                <div class="search">
-					<div class="redgate"><a href="http://www.red-gate.com/?utm_source=simpletalk&amp;utm_medium=textad&amp;utm_campaign=homepage"><img src="http://www.simple-talk.com/images/interface/aservicefromredgate.gif" width="133" height="16" alt="A service from Red Gate"></a></div>
-					<div class="searchform"><table align="right"><tbody><tr><td><input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" class="txtSearch" onkeydown="return(siteSearch(event,'http://www.simple-talk.com/search/default.aspx','search','ctl00_txtSearch'));"></td><td><input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" class="btnSearch" onmouseover="btnSearchOver();" onmouseout="btnSearchOut();" src="http://www.simple-talk.com/images/interface/btn_search_56x19.gif" onclick="return(doSiteSearch('http://www.simple-talk.com/search/default.aspx','search','ctl00_txtSearch'));" style="border-width:0px;"></td></tr></tbody></table></div>
-				</div>
-                <div class="logo"><a id="ctl00_lnkGotoHome" href="http://www.simple-talk.com/default.aspx"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="250" height="55"></a></div>
-            </div>
-            
+  <div class="site">
+    <div class="page">
+      <div class="header">
+        <div class="search">
+	  			<div class="redgate">
+	  			  <a href="http://www.red-gate.com/?utm_source=simpletalk&amp;utm_medium=textad&amp;utm_campaign=homepage">
+	  			    <img src="/images/interface/aservicefromredgate.gif?v=1" width="133" height="16" alt="A service from Red Gate">
+	  			  </a>
+	  			</div>
+				  <div class="searchform">
+				    <form action="/search/default.aspx" method="GET">
+				      <table align="right">
+				        <tbody><tr>
+				          <td>
+				            <input type="text" class="txtSearch" name="search">
+				          </td>
+                  <td>
+                    <input type="image" class="btnSearch" src="/images/interface/btn_search_56x19.gif">
+                  </td>
+				        </tr>
+				      </tbody></table>
+				    </form>
+				  </div>
+		    </div>
+        <div class="logo">
+          <a id="ctl00_ctl00_lnkGotoHome" href="http://www.simple-talk.com/"><img src="/images/interface/1px.gif" width="250" height="55"></a>
+        </div>
+      </div>
+      
 
 <div class="mainnav">
     <div class="primarynav">
-        <a id="ctl00_Navigation1_lnkGotoHome" href="http://www.simple-talk.com/default.aspx">Home</a>
-        <a id="ctl00_Navigation1_lnkGotoSql" href="http://www.simple-talk.com/sql/">SQL</a>
-        <a id="ctl00_Navigation1_lnkGotoNet" href="http://www.simple-talk.com/dotnet/">.NET</a>
-        <a id="ctl00_Navigation1_lnkGotoExchange" href="http://www.simple-talk.com/sysadmin/">SysAdmin</a>
-        <a id="ctl00_Navigation1_lnkGotoOpinion" href="http://www.simple-talk.com/opinion/">Opinion</a>
-        <a id="ctl00_Navigation1_lnkGotoBlogs" href="http://www.simple-talk.com/community/blogs/">Blogs</a>
-        <a id="ctl00_Navigation1_lnkGotoForums" href="http://www.simple-talk.com/community/forums/">Forums</a>
-        <a id="ctl00_Navigation1_lnkGotoBooks" href="http://www.simple-talk.com/books/">Books</a>
+        <a id="ctl00_ctl00_Navigation1_lnkGotoHome" href="http://www.simple-talk.com/">Home</a>
+        <a id="ctl00_ctl00_Navigation1_lnkGotoSql" href="http://www.simple-talk.com/sql/">SQL</a>
+        <a id="ctl00_ctl00_Navigation1_lnkGotoNet" href="http://www.simple-talk.com/dotnet/">.NET</a>
+        <a id="ctl00_ctl00_Navigation1_lnkGotoExchange" href="http://www.simple-talk.com/sysadmin/">SysAdmin</a>
+        <a id="ctl00_ctl00_Navigation1_lnkGotoOpinion" href="http://www.simple-talk.com/opinion/">Opinion</a>
+        <a id="ctl00_ctl00_Navigation1_lnkGotoBlogs" href="http://www.simple-talk.com/blogs/">Blogs</a>
+        <a id="ctl00_ctl00_Navigation1_lnkGotoForums" href="http://www.simple-talk.com/community/forums/">Forums</a>
+        <a id="ctl00_ctl00_Navigation1_lnkGotoBooks" href="http://www.simple-talk.com/books/">Books</a>
     </div>
      <div class="membernav">
         
-        <span id="ctl00_Navigation1_panAnonymous"><a id="ctl00_Navigation1_lnkLogin" href="http://www.simple-talk.com/community/login.aspx?ReturnUrl=%2fprivacy-policy.aspx">Sign in</a>
-            &nbsp;|&nbsp;<a id="ctl00_Navigation1_lnkJoin" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx">Join</a></span>
-        &nbsp;|&nbsp;<a id="ctl00_Navigation1_lnkHelp" href="http://www.simple-talk.com/community/languages/en-US/docs/faq.aspx">Help</a>
+        <span id="ctl00_ctl00_Navigation1_panAnonymous"><a id="ctl00_ctl00_Navigation1_lnkLogin" href="http://www.simple-talk.com/community/login.aspx?ReturnUrl=%2fprivacy-policy.aspx">Sign in</a>
+            &nbsp;|&nbsp;<a id="ctl00_ctl00_Navigation1_lnkJoin" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx">Join</a></span>
+        &nbsp;|&nbsp;<a id="ctl00_ctl00_Navigation1_lnkHelp" href="http://www.simple-talk.com/community/languages/en-US/docs/faq.aspx">Help</a>
         
     </div>
 </div>
 <div class="subnav">
     
 </div>
-            <div class="maincontent">
-                
+      <div class="maincontent">
+        
+  <form name="aspnetForm" method="post" action="content/page.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MTY5MDgyNThkGAIFBl9fUGFnZQ8UKwADZGVlZAUXY3RsMDAkY3RsMDAkTmF2aWdhdGlvbjEPFCsAAmRkZA==">
+
+
+<script src="/ScriptResource.axd?d=SQMpTj2TXzy_OEnB0rmS2tlvXQ3lSbo3DyYoswqILPsZTHBXa4a3ZOgJwQXHMl_fhmhrxVu1JTqRGiVgYuqgqE4_ydwQHB7heogVG1hWP4li4oy6vkNn7nihYaPKJMoBXQVjXprmCSfQxNokhFEZXQS2TvY1&amp;t=ffffffffa9847c94" type="text/javascript"></script>
+    
+    <script language="javascript" type="text/javascript">
+      function EndRequestHandler() {
+        if (theForm._initialAction == undefined)
+          theForm._initialAction = theForm.action;
+        else
+          theForm.action = theForm._initialAction;
+      }
+      if (typeof (Sys) != "undefined") {
+        EndRequestHandler();
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
+      }
+    </script>
+    
   <div class="article">
     <br><br>
     <div class="articletitle">Privacy Policy</div>
@@ -194,14 +158,23 @@
 <p><a title="" href="http://www.simple-talk.com/iwritefor/scripts/blank.gif#_ftnref4" name="_ftn4">[4]</a> This can be a hyperlink to the 'contact us' section of the policy</p></div></div>
   </div>
 
-            </div> 
-            <div class="rightcolumn">
-                
+  
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
+      </div> 
+      <div class="rightcolumn">
+        
+  
     <div class="sidepanels">
         
-        
 <div class="widget hidden" id="RSSfeedwidget">
-    <div class="header"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="315" height="50" title="RSS Feeds"></div>
+    <div class="header"><img src="/images/interface/1px.gif" width="315" height="50" title="RSS Feeds"></div>
     <div class="middle">
         <div class="RSSselectors">
             <div class="rss-inputs">
@@ -211,7 +184,7 @@
                 <input type="checkbox" name="rss" id="opinionFeed" value="4" checked="checked"><label for="opinionFeed">Opinion</label><br>
                 <input type="checkbox" name="rss" id="booksFeed" value="35" checked="checked"><label for="booksFeed">Books</label><br>
                 <input type="checkbox" name="rss" id="blogsFeed" value="B" checked="checked"><label for="blogsFeed">Blogs</label><br>                
-                <a id="rssGetLink" href="http://www.simple-talk.com/rss.aspx" onclick="RssGetSide(false); return(false);" style="display:block;margin-top:10px;"><img src="http://www.simple-talk.com/images/interface/btn-get-my-feed.gif" alt="Get my feed" width="117" height="19"></a>
+                <a id="rssGetLink" href="http://www.simple-talk.com/rss.aspx" onclick="RssGetSide(false); return(false);" style="display:block;margin-top:10px;"><img src="/images/interface/btn-get-my-feed.gif" alt="Get my feed" width="117" height="19"></a>
             </div>
             <div class="rss-buttons">
                 <div class="rss-advanced">
@@ -228,71 +201,116 @@
         
 
 <div class="widget" id="recentarticles">
-    <div class="header"><a id="ctl00_RightColumn_ArticlesLatest1_lnkHeader"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="300" height="30" title="Phil Factor - the wilder shores of transact sql"></a></div>
+    <div class="header"><a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_lnkHeader"><img src="/images/interface/1px.gif" width="300" height="30" alt="Latest articles"></a></div>
     <div class="middle">
         <div class="widgetcontent">
             
-                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl00_lnkArticle1" href="http://www.simple-talk.com/books/sql-books/epub-versions-of-the-books/">EPUB versions of the books</a></strong><br>
-                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" width="9" height="11">&nbsp;The EPUB versions of our books are available to download for members of the site.&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl00_lnkArticle2" href="http://www.simple-talk.com/books/sql-books/epub-versions-of-the-books/">Read more...</a><br><br>
+                    <strong><a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl00_lnkArticle1" href="http://www.simple-talk.com/sql/t-sql-programming/handling-constraint-violations-and-errors-in-sql-server/">Handling Constraint Violations and Errors in SQL Server</a></strong><br>
+                    <img src="/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;The database developer can, of course, throw all errors back to the application developer to deal with,...&nbsp;<a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl00_lnkArticle2" href="http://www.simple-talk.com/sql/t-sql-programming/handling-constraint-violations-and-errors-in-sql-server/">Read more...</a><br><br>
                 
-                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl01_lnkArticle1" href="http://www.simple-talk.com/sql/database-administration/constraints-and-the-test-driven-database/">Constraints and the Test-Driven Database</a></strong><br>
-                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" width="9" height="11">&nbsp;Bad data always seems to appear when, and where, one least expects it. Sam explains the great value of...&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl01_lnkArticle2" href="http://www.simple-talk.com/sql/database-administration/constraints-and-the-test-driven-database/">Read more...</a><br><br>
+                    <strong><a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl01_lnkArticle1" href="http://www.simple-talk.com/dotnet/asp.net/responsive-design-using-foundation-with-asp.net-mvc/">Responsive design using Foundation with ASP.Net MVC</a></strong><br>
+                    <img src="/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;There are several frameworks that take away the hard work of  impementing a responsive design for a...&nbsp;<a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl01_lnkArticle2" href="http://www.simple-talk.com/dotnet/asp.net/responsive-design-using-foundation-with-asp.net-mvc/">Read more...</a><br><br>
                 
-                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl02_lnkArticle1" href="http://www.simple-talk.com/sql/backup-and-recovery/centralized-management-tips-for-managing-backups-on-multiple-servers/">Centralized management: Tips for Managing Backups on Multiple Servers</a></strong><br>
-                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" width="9" height="11">&nbsp;Managing backups on a handful of servers should be a relatively straightforward process, but what about...&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl02_lnkArticle2" href="http://www.simple-talk.com/sql/backup-and-recovery/centralized-management-tips-for-managing-backups-on-multiple-servers/">Read more...</a><br><br>
+                    <strong><a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl02_lnkArticle1" href="http://www.simple-talk.com/sql/database-administration/provisioning-a-new-sql-server-instance-%e2%80%93-part-one/">Provisioning a New SQL Server Instance – Part One</a></strong><br>
+                    <img src="/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;Before you even install SQL Server, there a number of preparatory steps you need to take in order to...&nbsp;<a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl02_lnkArticle2" href="http://www.simple-talk.com/sql/database-administration/provisioning-a-new-sql-server-instance-%e2%80%93-part-one/">Read more...</a><br><br>
                 
-                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl03_lnkArticle1" href="http://www.simple-talk.com/sysadmin/general/physical-network-layout-for-the-reluctant/">Physical Network Layout for the Reluctant</a></strong><br>
-                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" width="9" height="11">&nbsp;How do you select the hardware for your network, and connect it all together? How do you then test your...&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl03_lnkArticle2" href="http://www.simple-talk.com/sysadmin/general/physical-network-layout-for-the-reluctant/">Read more...</a><br><br>
+                    <strong><a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl03_lnkArticle1" href="http://www.simple-talk.com/sql/database-administration/the-posh-dba---the-attributes-of-advanced-functions/">The PoSh DBA - The Attributes of Advanced Functions</a></strong><br>
+                    <img src="/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;Once you pass that point of just hurriedly writing PowerShell scripts for immediate use and start to...&nbsp;<a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl03_lnkArticle2" href="http://www.simple-talk.com/sql/database-administration/the-posh-dba---the-attributes-of-advanced-functions/">Read more...</a><br><br>
                 
-                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl04_lnkArticle1" href="http://www.simple-talk.com/sql/sql-tools/sql-test-seeing-red-change-to-green/">SQL Test: Seeing Red Change to Green</a></strong><br>
-                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" width="9" height="11">&nbsp;Now that we have some very good test frameworks for SQL Server, particularly tSQLt, all that was...&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl04_lnkArticle2" href="http://www.simple-talk.com/sql/sql-tools/sql-test-seeing-red-change-to-green/">Read more...</a><br><br>
+                    <strong><a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl04_lnkArticle1" href="http://www.simple-talk.com/books/.net-books/under-the-hood-of-.net-memory-management/">Under the Hood of .NET Memory Management</a></strong><br>
+                    <img src="/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;As well-engineered as the .NET framework is, it's not perfect, and it doesn't always get memory...&nbsp;<a id="ctl00_ctl00_RightColumn_RightColumn_ArticlesLatest1_repArticles_ctl04_lnkArticle2" href="http://www.simple-talk.com/books/.net-books/under-the-hood-of-.net-memory-management/">Read more...</a><br><br>
                 
         </div>
     </div>
     <div class="footer"></div>
 </div>
         
-<div class="widget" id="BlogTalk">
-    <div class="header"><a id="ctl00_RightColumn_BlogTalkImage1_lnkHeader" href="http://www.simple-talk.com/community/blogs/"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="315" height="50" title="All Blogs"></a></div>
-    <div class="middle">
-        <div class="bloglinks">
-            
-                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl00_lnkBlog" title="Simon Cooper" href="http://www.simple-talk.com/community/blogs/simonc/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl00_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=24200" alt="Simon Cooper" style="height:83px;width:65px;border-width:0px;"></a>
-                    
-                
-                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl01_lnkBlog" title="drsql" href="http://www.simple-talk.com/community/blogs/drsql/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl01_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=2155" alt="drsql" style="height:83px;width:65px;border-width:0px;"></a>
-                    
-                
-                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl02_lnkBlog" title="jamesg" href="http://www.simple-talk.com/community/blogs/jamesgilmore/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl02_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=50912" alt="jamesg" style="height:83px;width:65px;border-width:0px;"></a>
-                    
-                
-                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl03_lnkBlog" title="Tony Davis" href="http://www.simple-talk.com/community/blogs/tony_davis/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl03_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=2130" alt="Tony Davis" style="height:83px;width:65px;border-width:0px;"></a>
-                    <br id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl03_ctlSpacer"><br>
-                
-                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl04_lnkBlog" title="fatherjack" href="http://www.simple-talk.com/community/blogs/jonathanallen/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl04_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=13359" alt="fatherjack" style="height:83px;width:65px;border-width:0px;"></a>
-                    
-                
-                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl05_lnkBlog" title="red@work" href="http://www.simple-talk.com/community/blogs/redwork/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl05_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=12820" alt="red@work" style="height:83px;width:65px;border-width:0px;"></a>
-                    
-                
-                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl06_lnkBlog" title="Grant Fritchey" href="http://www.simple-talk.com/community/blogs/scary/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl06_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=48306" alt="Grant Fritchey" style="height:83px;width:65px;border-width:0px;"></a>
-                    
-                
-                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl07_lnkBlog" title="Phil Factor" href="http://www.simple-talk.com/community/blogs/philfactor/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl07_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=2126" alt="Phil Factor" style="height:83px;width:65px;border-width:0px;"></a>
-                    
-                
+<div class="widget" id="recentblogs">
+  <div class="header">
+    <a href="http://www.simple-talk.com/blogs/">
+      <img src="/images/interface/1px.gif" width="315" height="50" alt="" title="All Blogs">
+    </a>
+  </div>
+  <div class="middle">
+    <div class="bloglinks">
+      
+        <div class="bloggerprofile">
+          <a href="http://www.simple-talk.com/blogs/author/195835-sqlbeat/">
+            <img height="83" width="65" class="avatar" src="http://www.simple-talk.com/users/195835-sqlbeat/avatar" alt="SQLBeat">
+          </a>
+          <h3>
+            <a href="http://www.simple-talk.com/blogs/author/195835-sqlbeat/">
+              SQLBeat
+            </a>
+          </h3>
+					<h4><a href="http://www.simple-talk.com/blogs/2012/06/29/the-sql-beat-podcastcapturing-a-sql-rockstar/">The SQL Beat Podcast–Capturing a SQL Rockstar</a></h4>
         </div>
-    </div>
-    <div class="footer"></div>
+      
+        <div class="bloggerprofile">
+          <a href="http://www.simple-talk.com/blogs/author/195835-sqlbeat/">
+            <img height="83" width="65" class="avatar" src="http://www.simple-talk.com/users/195835-sqlbeat/avatar" alt="SQLBeat">
+          </a>
+          <h3>
+            <a href="http://www.simple-talk.com/blogs/author/195835-sqlbeat/">
+              SQLBeat
+            </a>
+          </h3>
+					<h4><a href="http://www.simple-talk.com/blogs/2012/06/29/max-trinidad-sells-powershell-on-the-puerto-rican-seashore/">Max Trinidad Sells PowerShell on the Puerto Rican Seashore</a></h4>
+        </div>
+      
+        <div class="bloggerprofile">
+          <a href="http://www.simple-talk.com/blogs/author/13359-jonathan-allen/">
+            <img height="83" width="65" class="avatar" src="http://www.simple-talk.com/users/13359-jonathan-allen/avatar" alt="fatherjack">
+          </a>
+          <h3>
+            <a href="http://www.simple-talk.com/blogs/author/13359-jonathan-allen/">
+              fatherjack
+            </a>
+          </h3>
+					<h4><a href="http://www.simple-talk.com/blogs/2012/06/29/database-mirroring-deprecated/">Database Mirroring – deprecated</a></h4>
+        </div>
+      
+        <div class="bloggerprofile">
+          <a href="http://www.simple-talk.com/blogs/author/13359-jonathan-allen/">
+            <img height="83" width="65" class="avatar" src="http://www.simple-talk.com/users/13359-jonathan-allen/avatar" alt="fatherjack">
+          </a>
+          <h3>
+            <a href="http://www.simple-talk.com/blogs/author/13359-jonathan-allen/">
+              fatherjack
+            </a>
+          </h3>
+					<h4><a href="http://www.simple-talk.com/blogs/2012/06/27/database-ids/">Database IDs</a></h4>
+        </div>
+      
+        <div class="bloggerprofile">
+          <a href="http://www.simple-talk.com/blogs/author/196243-red-gate-software-bi-tools-team/">
+            <img height="83" width="65" class="avatar" src="http://www.simple-talk.com/users/196243-red-gate-software-bi-tools-team/avatar" alt="Red Gate Software BI Tools Team">
+          </a>
+          <h3>
+            <a href="http://www.simple-talk.com/blogs/author/196243-red-gate-software-bi-tools-team/">
+              Red Gate Software BI Tools Team
+            </a>
+          </h3>
+					<h4><a href="http://www.simple-talk.com/blogs/2012/06/27/the-birth-of-ssas-compare/">The Birth of SSAS Compare</a></h4>
+        </div>
+      
+      <div class="clear"></div>
+	    <div class="allblogs">
+	      <a href="http://www.simple-talk.com/blogs/">View all blogs</a>
+	    </div>
+      <div class="clear"></div>
+    </div>            
+  </div>
+  <div class="footer"></div>
 </div>
         
       <div class="widget" id="WhyJoin">
-        <div class="header"><a id="ctl00_RightColumn_WhyJoin1_LoginView1_lnkJoin1" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="315" height="50" title="Join Simple Talk"></a></div>
+        <div class="header"><a id="ctl00_ctl00_RightColumn_RightColumn_WhyJoin1_LoginView1_lnkJoin1" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="/images/interface/1px.gif" width="315" height="50" alt="" title="Join Simple Talk"></a></div>
         <div class="middle">
           <div class="widgetcontent">
-		<a id="ctl00_RightColumn_WhyJoin1_LoginView1_lnkJoin2" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="http://www.simple-talk.com/images/interface/icon_newsletter_54x43.jpg" width="54" height="43" class="paper" align="left" title="Join Simple Talk"></a>
+		<a id="ctl00_ctl00_RightColumn_RightColumn_WhyJoin1_LoginView1_lnkJoin2" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="/images/interface/icon_newsletter_54x43.jpg" alt="" width="54" height="43" class="paper" align="left" title="Join Simple Talk"></a>
 		Over 400,000 Microsoft professionals subscribe to the Simple-Talk technical journal. Join today, it's fast, simple, free and secure.<br><br>
-		    <div class="joinbutton"><a id="ctl00_RightColumn_WhyJoin1_LoginView1_lnkJoin3" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="http://www.simple-talk.com/images/interface/btn_join_117x19.jpg" alt="Join Simple Talk" width="117" height="19"></a></div>
+		    <div class="joinbutton"><a id="ctl00_ctl00_RightColumn_RightColumn_WhyJoin1_LoginView1_lnkJoin3" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="/images/interface/btn_join_117x19.jpg" alt="Join Simple Talk" width="117" height="19"></a></div>
           </div>
         </div>
         <div class="footer"></div>
@@ -300,38 +318,46 @@
     
     </div>
 
-                <div class="clear"></div><br>
-            </div>
-            <div class="clear"></div><br>
-            <div class="pagefooter">
-                <div class="pagefooternavright">
-                    <a id="ctl00_lnkGotoPrivacy" href="http://www.simple-talk.com/privacy-policy.aspx">Privacy policy</a> |
-                    <a id="ctl00_lnkGotoTerms" href="http://www.simple-talk.com/terms-and-conditions.aspx">Terms and conditions</a> |
-                    <a href="http://www.red-gate.com/" target="_blank">©2005-2011 Red Gate Software</a>
-                </div>
-                <div class="pagefooternavleft">
-                    <a id="ctl00_lnkGotoAbout" href="http://www.simple-talk.com/about.aspx">About</a> |
-                    <a id="ctl00_lnkGotoSitemap" href="http://www.simple-talk.com/site-map.aspx">Site map</a> |
-                    <a id="ctl00_lnkGotoAuthor" href="http://www.simple-talk.com/become-an-author.aspx">Become an author</a> |
-                    <a id="ctl00_lnkGotoArchive" href="http://www.simple-talk.com/newsletter-archive/">Newsletters</a> |
-                    <a id="ctl00_lnkGotoContact" href="http://www.simple-talk.com/contact-us.aspx">Contact us</a>
-                </div>
-            </div>
+
+        <div class="clear"></div><br>
+      </div>
+      <div class="clear"></div><br>
+      <div class="pagefooter">
+        <div class="pagefooternavright">
+          <a id="ctl00_ctl00_lnkGotoPrivacy" href="http://www.simple-talk.com/privacy-policy.aspx">Privacy policy</a> |
+          <a id="ctl00_ctl00_lnkGotoTerms" href="http://www.simple-talk.com/terms-and-conditions.aspx">Terms and conditions</a> |
+          <a href="http://www.red-gate.com/" target="_blank">©2005-2012 Red Gate Software</a>
         </div>
+        <div class="pagefooternavleft">
+          <a id="ctl00_ctl00_lnkGotoAbout" href="http://www.simple-talk.com/about.aspx">About</a> |
+          <a id="ctl00_ctl00_lnkGotoSitemap" href="http://www.simple-talk.com/site-map.aspx">Site map</a> |
+          <a id="ctl00_ctl00_lnkGotoAuthor" href="http://www.simple-talk.com/become-an-author.aspx">Become an author</a> |
+          <a id="ctl00_ctl00_lnkGotoArchive" href="http://www.simple-talk.com/newsletter-archive/">Newsletters</a> |
+          <a id="ctl00_ctl00_lnkGotoContact" href="http://www.simple-talk.com/contact-us.aspx">Contact us</a>
+        </div>
+      </div>
     </div>
+  </div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072726260;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "kOZ_CJS21AIQ9IHC_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072726260/?label=kOZ_CJS21AIQ9IHC_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-90206-4";
-urchinTracker();
-</script>
+
 
 
 </body></html>
