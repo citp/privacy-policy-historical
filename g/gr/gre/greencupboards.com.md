@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the greencupboards.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015241id_/http%3A//www.greencupboards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencupboards.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630092257id_/http%3A//www.greencupboards.com/privacy-policy) for the most accurate reproduction.*
 
-# GreenCupboards - Private Policy - Eco-Friendly Products
-
-questions? (800) 326-1325 [contact us](http://www.greencupboards.com/contact-us) | [help](http://www.greencupboards.com/customer-service)
-
-  *   * 
-
-
-[Go to Cart](http://www.greencupboards.com/checkout/cart/)
-
-you are $75.00 from FREE shipping 
-
-Close
-
-#### Recently added:
-
-0 total items  Subtotal: $0.00
+# Privacy Policy | GreenCupboards
 
 GreenCupboards created a privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call, write, or communicate with us in any manner other than through our website. This privacy policy is effective as of September 26, 2008. Because the Internet is global, information about you that we collect, or that you submit, may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy.
 
@@ -41,11 +26,11 @@ Other Disclosure Scenarios: Notwithstanding anything in this privacy policy to t
 
 ## Choice/Opt-Out
 
-We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please contact us (clearly state what information you would like modified or deleted), by writing to us at GreenCupboards, Attn: Webmaster, 114 W. Pacific, Suite 200, Spokane, WA 99201, emailing us at [info@greencupboards.com](mailto:customerservice@greencupboards.com), or call us between the hours of 9AM – 5PM Pacific Time, Monday – Friday, at 1-800-326-1325. Please note that sometimes these requests may take up to 10 business days to process. Even if you do take advantage of these opportunities, we reserve the right to send you administrative messages relating to our website(s) (e.g., about changes to this privacy policy), to contact you regarding orders you have placed (e.g., order confirmations and shipment tracking information), and to share your information with our service providers.
+We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please contact us (clearly state what information you would like modified or deleted), by writing to us at GreenCupboards, Attn: Webmaster, 114 W. Pacific, Suite 200, Spokane, WA 99201, emailing us at [support@greencupboards.com](mailto:support@greencupboards.com), or call us between the hours of 9AM – 5PM Pacific Time, Monday – Friday, at 1-800-326-1325. Please note that sometimes these requests may take up to 10 business days to process. Even if you do take advantage of these opportunities, we reserve the right to send you administrative messages relating to our website(s) (e.g., about changes to this privacy policy), to contact you regarding orders you have placed (e.g., order confirmations and shipment tracking information), and to share your information with our service providers.
 
 ## Modifying Your Information
 
-If you would like to modify or delete from our database any personal information you previously submitted to us, please let us know by accessing and updating your profile on our site, by contacting us (clearly state what information you would like modified or deleted), by writing to us at GreenCupboards, Attn: Webmaster, 114 W. Pacific, Suite 200, Spokane, WA 99201, emailing us at [info@greencupboards.com](mailto:customerservice@greencupboards.com) or calling us between the hours of 9AM – 5PM Pacific Time, Monday – Friday, at 1-800-326-1325. Please note that sometimes these requests may take up to 10 business days to process, that any information about you that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information (e.g., your billing address) you may not be able to purchase products in the future without re-submitting such information. Also, please note that we will maintain information about you in our database whenever we are required to do so by law.
+If you would like to modify or delete from our database any personal information you previously submitted to us, please let us know by accessing and updating your profile on our site, by contacting us (clearly state what information you would like modified or deleted), by writing to us at GreenCupboards, Attn: Webmaster, 114 W. Pacific, Suite 200, Spokane, WA 99201, emailing us at [support@greencupboards.com](mailto:support@greencupboards.com) or calling us between the hours of 9AM – 5PM Pacific Time, Monday – Friday, at 1-800-326-1325. Please note that sometimes these requests may take up to 10 business days to process, that any information about you that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information (e.g., your billing address) you may not be able to purchase products in the future without re-submitting such information. Also, please note that we will maintain information about you in our database whenever we are required to do so by law.
 
 ## Security
 
