@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finra.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205630id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finra.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225012id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.*
 
 # FINRA - FINRA Website Privacy Policy
 
@@ -6,7 +6,7 @@ FINRA has created this security and privacy statement in order to demonstrate an
 
 ## Collection and Dissemination of Personal Information
 
-FINRA uses standard web analytics tools to gather site usage information for the purpose of improving user experience. As part of this web analytics activity, FINRA may place cookies on users’ computers. FINRA may also place cookies on users’ computers to enable certain site features; users who block cookies may not be able to take advantage of all site functionality. Additionally, for specific sites or applications, FINRA may use web analytics to track usage to confirm compliance with the terms of use of those sites or applications.
+FINRA uses a third party web analytics service to gather site usage information for the purpose of improving user experience. As part of this web analytics activity, FINRA places cookies on users' computers. Additionally, for specific sites or applications, FINRA may use web analytics to confirm compliance with the terms of use of those sites or applications. FINRA and its vendors may also place cookies on users' computers to enable certain site features such as the Market Data Watchlist, Fund Analyzer Favorites and BrokerCheck searches. Users who opt out of cookies by changing the setting of their browsers will not be able to take advantage of these and other site features.
 
 FINRA's websites may receive and maintain information such as user name, email address, telephone number and other personal information only when such information is personally submitted by users through an optional request form such as the request for more information form or the FINRA survey form. These forms and the information provided within the forms allow users to make specific inquiries or requests of FINRA or provide FINRA with feedback on its Web sites or services. Information gathered via this site is not shared with third parties unless the involved individual requests such sharing or unless disclosure is required by law. FINRA does not sell personal information to third parties for commercial purposes.
 
@@ -37,3 +37,5 @@ Attn: Privacy Policy - OGC
 1735 K Street  
 Washington, D.C. 20006  
 
+
+This Privacy Policy was last updated in June 2012.
