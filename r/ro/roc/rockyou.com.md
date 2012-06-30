@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231092120id_/http%3A//rockyou.com/ry/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630072952id_/http%3A//rockyou.com/ry/privacypolicy) for the most accurate reproduction.*
 
 # About Us | Privacy Policy
 
 RockYou recognizes that its customers, visitors, users, and others who use [http://www.rockyou.com](http://www.rockyou.com/) (the "RockYou Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the RockYou Sites. RockYou provides this Privacy Policy to help you make an informed decision about whether to use or continue using the RockYou Sites.
 
 This Privacy Policy is incorporated into and is subject to the RockYou Terms of Use. Your use of the RockYou Sites and any personal information you provide on the RockYou Sites remain subject to the terms of this Privacy Policy and our Terms of Use.
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.rockyou.com&sealid=101)
-
-RockYou is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.rockyou.com](http://www.rockyou.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Please note that the TRUSTe certification only applies to [http://www.rockyou.com](http://www.rockyou.com/) and not to any other domains that RockYou may own or control. 
-
-If you have questions or concerns regarding this statement, please contact [support@rockyou.com](mailto:support@rockyou.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, then contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url).
-
-TRUSTe will serve as a liaison with RockYou until your concerns are resolved.
 
 _The Information RockYou Collects_
 
@@ -42,7 +34,7 @@ _The Way RockYou Uses Information_
 
 If you submit personally identifiable information to us through the RockYou Sites, then we use your personal information to create your account and operate, maintain, and provide you the features and functionality of the RockYou Sites.
 
-Receiving our newsletter is offered as part of our service. If you do not wish to receive our newsletter, you may opt-out at any time by using the unsubscribe link located at the bottom of each newsletter or by emailing us at [support@rockyou.com](mailto:support@rockyou.com).
+Receiving our newsletter is offered as part of our service. If you do not wish to receive our newsletter, you may opt-out at any time by using the unsubscribe link located at the bottom of each newsletter or by emailing us at [info@rockyou.com](mailto:info@rockyou.com).
 
 Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others to send you unsolicited messages. RockYou is not responsible for the personally identifiable information you choose to submit in these public areas of the site. Your display name (not your email address) may be displayed to other Users when you upload images or videos or send messages through the RockYou Sites and other Users can contact you through messages and comments. Any images, captions, videos or other content that you submit to the RockYou Sites may be redistributed through the Internet and other media channels, and may be viewed by the general public.
 
@@ -74,9 +66,9 @@ To protect your privacy and security, we take reasonable steps (such as requesti
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can email us at [support@rockyou.com](mailto:support@rockyou.com)
+If you have any questions about security on our Web site, you can email us at [info@rockyou.com](mailto:info@rockyou.com)
 
-Please contact RockYou with any questions or comments about this Privacy Policy at [support@rockyou.com](mailto:support@rockyou.com)
+Please contact RockYou with any questions or comments about this Privacy Policy at [info@rockyou.com](mailto:info@rockyou.com)
 
 _Third-party Advertisers, Links to Other Sites_
 
@@ -119,14 +111,14 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 If we change how we use your personally identifiable information, we will notify you here, by email, or by means of a notice on our home page. 
 
 Date Last Modified:   
-This Privacy Policy was last modified Arpil 27, 2010
+This Privacy Policy was last modified March 27, 2012
 
   
 
 
 Contact Information: 
 
-Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing [support@rockyou.com](mailto:support@rockyou.com).
+Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing [info@rockyou.com](mailto:info@rockyou.com).
 
 RockYou
 
