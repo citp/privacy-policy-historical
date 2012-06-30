@@ -1,72 +1,100 @@
-> *The following text is extracted and transformed from the user-guides.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124758id_/http%3A//www.user-guides.co.uk/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the user-guides.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232613id_/http%3A//www.user-guides.co.uk/asp/privacy.asp) for the most accurate reproduction.*
 
-# User Guides, Numus Software Ltd Privacy Statement
+# Privacy Statement EZ93 Limited (user-guides.co.uk)
 
-## User Guides (Numus Software Ltd) Privacy Statement
+Data protection information
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by User Guides.co.uk Limited, (“User Guides”). (The User Guides Network includes all Web sites and certain other Internet media properties hyper linked from the User Guides home page.) The following discloses our Privacy Policy.
+Our commitment to the protection of your data
 
-**What information are you collecting and how are you collecting it?**
+The scope of this information
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's IP Address . When a visitor requests a page from any Web site within the User Guides Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the User Guides Network, its users, or to cooperate with law enforcement. See also Will you disclose the information you collect to outside third parties? We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
+Your personal data
 
-**What are cookies?**
+Does EZ93 pass on the information it gathers?
 
-From time to time, User Guides or its advertisers may send a cookie to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of User Guides's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
+Protection of your data
 
-**How do you use single-pixel gifs?**
+Protection of children’s data
 
-User Guides and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. User Guides does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser.
+Links from and to other websites
 
-**What information do you collect when I register for something?**
+Use of Google Analytics
 
-User Guides offers access to some services that require registration. We may use your registration contact information to send notification to you of User Guides products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See _Will you disclose the information that you collect to outside third parties?_
+Contact information
 
-**What other information do you request?**
+Amendments to this data protection information
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.
+* * *
 
-We may from time to time send e-mail announcing new User Guides products and services. Except as stated above, User Guides will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third party companies.
+Our Commitment To The Protection Of Your Data
 
-When you sign up for an User Guides discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the User Guides network.
+EZ93 Limited (known in this document as EZ93) is committed to protecting your data online. We promise to protect your personal information and take all the appropriate steps to ensure that we use this information only in accordance with your wishes. EZ93 plays a leading role in familiarising customers and other companies with the significance of using personal information properly. It is possible that EZ93, as a globally active company, saves and/or gathers data in databases in the UK. 
 
-When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
+* * *
 
-When you use co-branded services, or those provided by a third party, within the User Guides Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies.
+The Scope Of This Information
 
-**What information do you collect when I purchase something?**
+Our intention with this data protection information is to show you EZ93’s online data protection guidelines for the any EZ93 operated websites, and inform you about the possibilities at your disposal for gathering information about yourself on this website. You can request information about other offline data collections from the contact addresses specified below. PLEASE NOTE: On the websites operated by our subsidiaries (e.g. on websites where EZ93 provides content in conjunction with Zoftar Ltd Zoftar.com), it is possible that specific data protection information relating to the website in question might be shown. On private websites (e.g. those available only to traders and retailers) and on websites created solely for our employees (or future employees), it may likewise be the case that specific data protection information relating to the website in question is shown. Websites administered by subsidiaries of EZ93 are covered by their own online data protection information. 
 
-If you are purchasing something from an User Guides media property, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfil your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission.
+* * *
 
-Certain User Guides media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other User Guides media properties do not use SSL and thereby do not offer a secure coded way to transfer information.
+Your Personal Data
 
-Wherever User Guides collects personal information we make an effort to include a link to this Privacy Policy on that page.
+Personal information enables us to offer you a better service, as we can tailor our communication activities to your interests by sending only information which is genuinely relevant for you. Below you will find a list of the information items that we gather. Information explicitly provided by you: To enable us to place your order, you are asked to provide specific items of personal information. These include, for example, your name, postal address, email address and telephone number. You have the option of refusing to supply this information. If you do this, however, particular services or offerings will be unavailable to you. User right: you can inspect any personal data relating to you which is currently stored in our system in your personal Account section. Information collected automatically by us: We use common Internet technologies such as cookies and beacons to guarantee the integrity of our website and to adapt areas of it to your personal needs. We may collect data via the web analyzing tool Omniture (using cookies) enabling us to create anonymous user profiles in order to improve our service to our customers. 
 
-**Will you disclose the information you collect to outside third parties?**
+* * *
 
-User Guides will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to: 
+Does EZ93 Pass On The Information It Gathers?
 
-1) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on User Guides, 
+Personal information about you is not hired out or sold to third parties. EZ93 reserves the right to forward the data to Zoftar Ltd (Our PCI Compliant Payment Provider). EZ93 can forward your personal information to the following entities: Companies operating on our behalf: we hire other companies to carry out certain business activities for us. In the process, it might under certain circumstances be necessary to access your personal information. We urge these companies to use the information solely for the provision of the agreed services. The companies are not permitted to transmit the information to third parties, unless this is necessitated by service provision. These business activities include, for example, the execution of orders, the processing of vouchers, bonuses and discounts, the conduct of customer questionnaires, and information management tasks. We also provide particular service providers with compilations of general information. Web pages of subsidiaries and partners: EZ93 forwards information to partner companies which make special offers or run promotional campaigns jointly on web pages of subsidiaries within our website. They are informed about the forwarding of the information when they are requested to provide personal information on websites of this kind. The respective partner company’s use of information transmitted in this way is governed by the partner’s own data protection guidelines. You should read this information in its entirety before transmitting your personal data. Company transfers: EZ93 reserves the right to transfer, either in whole or in part, your personal information in the event of the sale or transfer of our company or our assets. If the company is sold or transferred, EZ93 will give you the option of refusing to allow the transfer of your personal information. In some cases, this might mean that the new company can no longer provide you with the services or products that were previously provided by EZ93. Legal execution: EZ93 can disclose your personal information to third parties without your consent for the following purposes: to comply with laws, ordinances or court decisions; to cooperate with investigations by public authorities; to prevent fraud; or to assert or protect the rights of EZ93. Your consent: In all other cases, EZ93 will ask for your explicit consent before your personal information is disclosed to third parties. EZ93 can, for example, make a special offer or launch a prize competition in conjunction with a third party, in which case you will be asked whether your personal information may be forwarded to this third party. 
 
-2) Protect and defend the rights or property of the User Guides Network of sites and related properties, or visitors to the User Guides Network of sites and related properties, 
+* * *
 
-3) Identify persons who may be violating the law, the User Guides legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the User Guides Network or its related properties,
+Protection Of Your Data
 
-4) Fulfil a user's order or request.
+EZ93 uses a variety of administrative, internal and technical security measures to protect your personal information. EZ93 has established internal control standards which deal specifically with the handling of personal data. These include particular control measures for protecting the information gathered by us online. Employees of EZ93 are trained to understand and comply with these control measures. In addition, we make our employees aware of our data protection information, guidelines and standards. Although we commit ourselves to the protection of your personal information, you too must take any steps which may be necessary. We recommend that you take all of the precautionary steps that are necessary to protect your personal information during Internet use. 
 
-User Guides uses reasonable precautions to keep the information disclosed to us secure. User Guides reserves the right to transfer all such information in connection with the sale of all or part of User Guides's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users  
-See below.
+* * *
 
-**What else should I know about my privacy when online?**
+Protection Of Children’s Data
 
-The User Guides Network contains many hyperlinks to third party Web sites. The User Guides Network also contains advertisements of third parties. User Guides is not responsible for the privacy practices or the content of such third party Web sites or advertisers. User Guides does not share any of the individual personal information you provide User Guides with the third parties to which User Guides links, except as stated elsewhere within this Privacy Policy, although User Guides may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy.
+The online protection of children’s data is particularly important. EZ93 does not deliberately gather or request information about children unless the children’s parents or guardians give their explicit consent. EZ93 suggests to parents or guardians that they should spend time with their children in the Internet and participate in their activities and interests. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+* * *
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+Links From And To Other Websites
 
-**Your Consent To This Agreement**
+Some EZ93 websites contain links to other websites, and some websites contain links to the EZ93 website. EZ93 is not responsible for the data protection guidelines of such websites. EZ93 recommends that you inform yourself about such websites’ data protection guidelines. 
 
-By using the User Guides Network, you consent to the collection and use of information by User Guides as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+* * *
 
-Please send any questions about User Guides’s Privacy Policy to: [ privacy@user-guides.co.uk ](mailto:privacy@user-guides.co.uk)
+Use of Google Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+
+* * *
+
+Contact Information
+
+If you have any queries or concerns regarding to the protection of your data when using the EZ93 website, please send an email to the following address: Service email: customerservice@ez93.com
+
+You Can Also reach Us By Post:  
+EZ93 Limited  
+Fernhills Business Centre  
+Foerster Chambers  
+Todd Street Bury  
+Gtr Manchester BL9 5BJ  
+
+
+The EZ93 department for online data protection will work together with you to find a solution that allays your concerns with regard to this data protection information. 
+
+* * *
+
+Amendments To This Data Protection Information
+
+EZ93 reserves the right to amend this data protection information occasionally. For this purpose, any changes to this privacy policy will be published on this page or, if the amendments are extensive, an email will be sent to all the customers about whom we have gathered personal information. This data protection information was last amended on 15 January 2006. 
+
+* * *
+
+  
+
