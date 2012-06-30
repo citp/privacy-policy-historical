@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft4gsm.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122915id_/http%3A//www.unlockbase.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4gsm.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630184815id_/http%3A//www.unlockbase.com/Privacy.html) for the most accurate reproduction.*
 
 # UnlockBase Privacy Policy
 
