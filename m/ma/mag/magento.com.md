@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magento.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422015638id_/http%3A//www.magentocommerce.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magento.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630120423id_/http%3A//www.magentocommerce.com/company/privacy) for the most accurate reproduction.*
 
 # Magento - Privacy Policy - eCommerce Software for Growth
 
