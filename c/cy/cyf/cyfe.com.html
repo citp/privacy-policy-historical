@@ -1,186 +1,226 @@
-<!--The following is the downloaded HTML source of the cyfe.com privacy policy that was archived on 2011-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111010163704id_/http%3A//www.cyfe.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cyfe.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630072401id_/http%3A//www.cyfe.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="cyfe"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta id="description" name="description" content="Cyfe is the all-in-one stop for all of your web needs. Cyfe provides you with a premium suite of useful tools and services to help create, manage and enhance your cyber life.">
-<link rel="stylesheet" href="http://cdn.cyfe.com/styles/main.css" type="text/css">
-<link rel="stylesheet" type="text/css" href="http://cdn.cyfe.com/styles/menu.css">
-<link rel="shortcut icon" href="http://cdn.cyfe.com/images/v2/favicon.gif">
-<script type="text/javascript" src="http://cdn.cyfe.com/styles/menu.js"></script>
-<script type="text/javascript" src="http://cdn.cyfe.com/highslide/highslide.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<title>Privacy Policy | Cyfe</title>
+<meta name="description" content="Social media, analytics, marketing, sales, support, infrastructure... all in one place. Track your entire business in real-time.">
+<meta name="keywords" content="all-in-one business dashboards, real-time metrics, contact cyfe">
+<link rel="stylesheet" type="text/css" media="all" href="css/reset.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/960.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/css.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/effects.css">
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" media="all" href="css/ie7.css"/>
+	<![endif]-->
+<link rel="shortcut icon" href="images/favicon.ico">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="js/jquery-1.4.4.min.js" type="text/javascript"></script>
+<script src="js/jquery.quicksand.js" type="text/javascript"></script>
+<script src="js/jquery.qtip.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type="text/javascript" src="js/jquery.infieldlabel.js"></script>
+<script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js?ver=3.1"></script>
 <script type="text/javascript">
-function setTimezone(){
-	
-	var currentDate = new Date();
-	var timezone = currentDate.getTimezoneOffset()/60;
+    $(document).ready(function(){ 
+        $("ul.sf-menu").superfish(); 
+    }); 
+</script>
+<script src="js/slides.min.jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
 
-	var ajaxRequest;
-	
-	try{
-		// Opera 8.0+, Firefox, Safari
-		ajaxRequest = new XMLHttpRequest();
-	} catch (e){
-		// Internet Explorer Browsers
-		try{
-			ajaxRequest = new ActiveXObject("Msxml2.XMLHTTP");
-		} catch (e) {
-			try{
-				ajaxRequest = new ActiveXObject("Microsoft.XMLHTTP");
-			} catch (e){
-				// Error
-				alert("ERROR: Your browser doesn't support our website!");
-				return false;
-			}
-		}
-	}
+    // Feature slider Options
 
-	ajaxRequest.onreadystatechange = function(){
+                $(function(){
+                        // Set starting slide to 1
+                        var startSlide = 1;
+                        // Get slide number if it exists
+                        if (window.location.hash) {
+                                startSlide = window.location.hash.replace('#','');
+                        }
+                        // Initialize Slides
+                        $('#slides').slides({
+                                preload: true,
+                                preloadImage: 'images/loading.gif',
+                                generatePagination: true,
+                                play: 5000,
+                                pause: 2500,
+                                hoverPause: true,
+                                // Get the starting slide
+                                start: startSlide,
+                                animationComplete: function(current){
+                                        // Set the slide number as a hash
+                                }
+                        });
+                        // Set starting slide to 1
+                        var startSlide = 1;
+                        // Get slide number if it exists
+                        if (window.location.hash) {
+                                startSlide = window.location.hash.replace('#','');
+                        }
+                        
+                
+                        
+                        // Quote Slider Options
+                        $('#slides2').slides({
+                                preload: true,
+                                preloadImage: 'images/loading.gif',
+                                paginationClass: 'pagination2',
+                                effect: 'fade',
+                                play: 0,
+                                pause: 2500,
+                                container: 'slides_container2',
+                                hoverPause: true,
+                                // Get the starting slide
+                                start: startSlide,
+                                animationComplete: function(current){
+                                        // Set the slide number as a hash
+                                }
+                        });
+                        });
 
-		if(ajaxRequest.readyState == 4){
-			var response = ajaxRequest.responseText;
-		}
-	}
-	
-	var queryString = "?t=" + timezone;
 
-	ajaxRequest.open("GET", "ajaxSetTimezone.php" + queryString, true);
-	ajaxRequest.send(null);
-	
-}
-
-setTimezone();
-
-</script><title>Privacy Policy | Cyfe</title>
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3633484-2']);
+  _gaq.push(['_setDomainName', '.cyfe.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 </head>
-
-<body style="background-image: url(http://cdn.cyfe.com/images/v2/main_bg.gif); background-color:#666666; background-repeat: repeat-x; background-attachment: scroll;" onclick="hideAllMenus('');">
-<div style="position:fixed; top:40%; right:0px;"><a href="http://www.cyfe.com/contact.php"><img src="http://cdn.cyfe.com/images/v2/feedback.png" border="0"></a></div>
-<table width="984" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td>  
-<div style="height:25px;"></div>
-<table width="984" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr style="height: 46px;">
-	<td width="161"><a href="http://www.cyfe.com"><img src="http://cdn.cyfe.com/images/v2/top_logo.gif" border="0"></a></td>
-    <td width="823" style="background-image: url(http://cdn.cyfe.com/images/v2/top_menu_bar.gif);">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-  	<td width="67%"><ul class="nav">
-<li><a href="http://www.cyfe.com" class="navItem">Home</a></li><li><a href="http://www.cyfe.com/signup.php" class="navItem">Sign Up</a></li><li><a href="http://www.cyfe.com/addons.php" class="navItem">Add-ons</a></li><li><a href="http://www.cyfe.com/help.php" class="navItem">Help</a></li>
-</ul></td>
-    <td width="33%">            <form method="post" action="http://www.cyfe.com/login.php">
-                <table width="420" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                  	<td width="26%" rowspan="2" class="page_subtext11" style="color:#FFFFFF;">&nbsp;&nbsp;Already a member?</td>
-                    <td width="22%">&nbsp;<input style="width:80px;" name="email" type="text" id="email" size="10" maxlength="50" value=""></td>
-                    <td width="21%"><input style="width:80px;" name="password" type="password" id="password" size="10" maxlength="50"></td>
-                    <td width="24%" class="page_subtext11">
-                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td width="20%" valign="top"><input type="checkbox" name="rememberMe" id="rememberMe"></td>
-                            <td width="80%" class="page_subtext11" style="color:#FFFFFF;">Remember Me</td>
-                          </tr>
-                        </tbody></table>
-                    </td>
-                    <td width="7%"><input type="image" name="login" src="http://cdn.cyfe.com/images/v2/button_arrow.png" width="17" height="17" border="0"></td>
-                  </tr>
-                </tbody></table>
-            </form></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-
-    </td>
-  </tr>
-  <tr>
-    <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-    <td style="padding-left: 20px; padding-right: 20px; height: 36px; background-image: url(http://cdn.cyfe.com/images/v2/top_header.gif);">    </td>
-  </tr>  <tr>
-    <td style="padding-left: 2px; padding-right: 2px; background-image: url(http://cdn.cyfe.com/images/v2/content_bg.png);" valign="top">
-    	
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr style="background-color:#efefef;">
-            <td><br><ul id="tabnav">
-    <li><a href="/policy.php" class="active">Privacy Policy</a></li>
-</ul></td>
-            <td style="border-bottom:1px solid #dddddd; padding-top: 14px;" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-          </tr>
-        </tbody></table>
-        <div style="padding-top: 30px; padding-bottom: 30px; padding-left: 30px; padding-right: 30px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="page_text">This document was last updated on August 25th, 2009.<br>
-        <br><strong>Acknowledgement and acceptance of terms</strong><br>
-          <img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"><br>
-        <br>Cyfe is committed to protecting your  privacy. This Privacy Statement sets forth our current privacy practices with  regard to the information we collect when you or your computer interact with  our website. By accessing Cyfe, you acknowledge and fully understand Cyfe's  Privacy Statement and freely consent to the information collection and use  practices described in this Website Privacy Statement.<br>
-      <br>
-      <strong>Participating Merchant Policies<br>
-      <img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"></strong><br>
-      <br>Related services and offerings with links from this website,  including vendor sites, have their own privacy statements that can be viewed by  clicking on the corresponding links within each respective website. Online  merchants and others who participate in Cyfe services are  encouraged to participate in industry privacy initiatives and to take a  responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or  practices of participating merchants and other third parties, we are not  responsible for the privacy practices or contents of those sites. We recommend and encourage that you always  review the privacy policies of merchants and other third parties before you  provide any personal information or complete any transaction with such parties.<br>
-<br><strong>Information We Collect and How We Use It<br>
-<img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"></strong><br>
-<br>
-        Cyfe collects certain information from and about its  users three ways: directly from our Web Server logs, the user, and with  Cookies. When you visit our Website, we may track  information to administer the site and analyze its usage. Examples of  information we may track include: your Internet protocol address, the kind of browser or computer you use, number of links you click within the site, state or country from which you accessed the site, date and time of your visit, name of your Internet service provider, web page you linked to our site from, and pages you viewed on the site.<br><br>
-      <strong>Use of Cookies</strong><br>
-      <img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"><br>
-      <br>
-      Cyfe may use cookies to personalize or  enhance your user experience. A cookie  is a small text file that is placed on your hard disk by a Web page  server. Cookies cannot be used to run  programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web  Server in the domain that issued the cookie to you. <br><br>One of the primary purposes of cookies is to provide a  convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a  cookie helps the site to recall your specific information on subsequent  visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing  and saving your preferences and login information as well as providing  personalized functionality.. <br><br>Cyfe reserves the right to share  aggregated site statistics with partner companies, but does not allow other  companies to place cookies on our website unless there is a temporary,  overriding customer value (such as merging into Cyfe.com a  site that relies on third-party cookies).<br><br>You have the ability to accept or decline cookies. Most Web browsers automatically accept  cookies, but you can usually modify your browser setting to decline cookies. If  you reject cookies by changing your browser settings then be aware that this may  disable some of the functionality on our Website.<br>
-      <br>
-      <strong>Personal Information Users</strong><br>
-      <img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"><br>
-      <br>
-      Visitors to our website can register to purchase services. When you register, we will  request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit  card, this information may be forwarded to your credit card provider. For other  types of registrations, we will ask for the relevant information. You may also  be asked to disclose personal information to us so that we can provide  assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.<br><br>We will not disclose personally identifiable information we  collect from you to third parties without your permission except to the extent  necessary including: to fulfill your service requests for services, to protect ourselves from liability, to respond to legal process or comply with law, or in connection with a merger, acquisition, or liquidation of the company.<br><br>
-    <strong>Use of Web Beacons or GIF files</strong><br>
-    <img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"><br>
-<br>
-        Cyfe Web pages may contain  electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow Cyfe to count users who have visited those pages and to deliver co-branded services. Cyfe may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened  and acted upon.<br><br>Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which  advertisements and emails bring you to our website and how you use the site. Cyfe prohibits Web beacons from being used to collect or access your personal information.<br>
-<br>
-<strong>Accessing Web Account Information</strong><br>
-<img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"><br>
-<br>
-        We will provide you with the means to ensure that personally  identifiable information in your web account file is correct and current. You may review this information by contacting  our support staff <a href="contact.php">here</a>.<br>
-      <br>
-      <strong>Changes to this Statement</strong><br>
-      <img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"><br>
-      <br>
-        Cyfe has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.<br>
-      <br>
-      <strong>Contacting Us<br>
-      <img src="http://cdn.cyfe.com/images/linkBreak.gif" width="100%" height="1"></strong><br>
-      <br>If you have questions regarding our Privacy Statement, its  implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us <a href="contact.php">here</a>. Cyfe will use commercially reasonable efforts to promptly respond and resolve any problem or question.<br></td>
-  </tr>
-</tbody></table>
-    </div></td>
-  </tr>  <tr>
-    <td style="padding-left: 32px; padding-right: 32px; height: 66px; background-image: url(http://cdn.cyfe.com/images/v2/bottom_footer.gif);">
-    
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-	<td class="footer_copyright">Copyright © 2011 Cyfe. All rights reserved.</td>
-    <td class="bottom_nav_link" align="right"><a href="http://www.cyfe.com/about.php">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cyfe.com/contact.php">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cyfe.com/terms.php">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cyfe.com/policy.php">Privacy Policy</a></td>
-  </tr>
-</tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<div style="height:25px;"></div>
+<body class="sub">
+<div id="wrapper">
+  <div class="container_12" id="content" style="width:100%;">
+    <div id="header">
+  <div class="container_12">
+    <div class="grid_12">
+      <div class="grid_3 alpha" id="logo"> <a href="/"><img src="images/logo.png" alt=""></a> </div>
+      <div class="grid_6">
+        <ul id="nav">
+          <li> <a href="/"><span>Home</span></a> </li>
+          <li> <a href="/pricing"><span>Pricing</span></a> </li>
+          <li> <a href="/signup"><span>Sign Up</span></a> </li>
+        </ul>
+      </div>
+      <div class="grid_3 omega">
+        <ul id="nav">
+          <li> <a href="/contact"><span>Support</span></a> </li>
+          <li> <a href="https://app.cyfe.com/login"><span>Log In</span></a> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+    <!-- Content -->
+    <div class="container_12" id="mainContent">
+      <div class="grid_12">
+        <div class="clear" style="height:30px;"></div>
+        <!-- Text boxes -->
+        <div id="boxes">
+          <div class="grid_8 alpha clearfix">
+            <h1>Privacy Policy</h1>
+          </div>
+          <div class="grid_4 omega cta">
+            <div style="margin-top:-10px;float:right;"> <a href="/signup" class="button">
+              <div class="action">SIGN UP FREE</div>
+              </a></div>
+          </div>
+        </div>
+        <!-- end:Text boxes -->
+        <p>This privacy policy governs your (“User”) use of the Cyfe website (“Site”) and service (“Service”) operated by Cyfe, Inc. We regard your privacy seriously and provide this Privacy Policy to describe which information we collect, how we collect it, how we use it and the circumstances under which we may share it. The Site is not directed at children under 13 years of age.</p>
+        <h3>Information Collection and Use</h3>
+        <p>
+        </p><ul>
+          <li>When you register with us through the Site, as a User, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you. Personally identifiable information includes, but is not limited to, your name, phone number, credit card or other billing information (if applicable), email address and home and business postal addresses. We use your personally identifiable information mainly to provide the Service and administer your inquiries.</li>
+          <li>We also collect other non-identifying information that you provide as part of registration (e.g., without limitation, zip code (on its own) and individual preferences).</li>
+          <li>We use your personally identifiable information (in some cases, in conjunction with your non-identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries.</li>
+          <li>Certain non-identifying Information would be considered a part of your personally identifiable information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered non-identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your personally identifiable information with non-identifying Information and aggregate it with information collected from other Users to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site is used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.</li>
+          <li>We also use your personally identifiable information to contact you with Cyfe newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.</li>
+          <li>We do not store any of Your financial information including billing and credit card information. Your financial information is processed by secure, third party services.</li>
+          <li>We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all&nbsp;times.</li>
+        </ul>
+        <p></p>
+        <h3>Disclosure of Information</h3>
+        <p><em>Aggregate Information and Non-Identifying Information.</em> We may share aggregated information that does not include personally identifiable information and we may otherwise disclose non-identifying Information with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your personally identifiable information.</p>
+        <p><em>Service Providers.</em> We may employ third-party companies and individuals to facilitate our Site and Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your personally identifiable information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+        <p><em>Compliance with Laws and Law Enforcement.</em> Cyfe cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Cyfe or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity. </p>
+        <p><em>Business Transfers.</em> Cyfe may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</p>
+        <p><em>Account Information.</em> You agree to keep confidential and not to disclose to any other individual or individuals for all time the user name and password related to Your Cyfe account.</p>
+        <h3>Cookies</h3>
+        <p>Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Cyfe Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third-party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.</p>
+        <h3>Links to Third Party Websites</h3>
+        <p>The Site contains links to other websites. Your use of websites to which the Site link is subject to the terms of use and privacy policies located on such third party websites.</p>
+        <h3>Security</h3>
+        <p>Cyfe is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.</p>
+        <p>We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
+        <h3>Policy Changes</h3>
+        <p>Cyfe reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site will be subject to the then-current Privacy Policy. This Privacy Policy was last revised December 20, 2011.</p>
+        <h3>Contacting Us</h3>
+        <p>If you have questions or comments regarding this Privacy Policy, please <a href="/contact">contact us</a>.</p>
+        <p>Cyfe, Inc<br>
+          945 Concord Street<br>
+          Framingham, MA 01701<br>
+          <a href="mailto:support@cyfe.com">support@cyfe.com</a></p>
+      </div>
+    </div>
+    <!-- end:Content -->
+  </div>
+</div>
+<!-- end:Wrapper -->
+<div class="clear" style="height:60px;"></div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3633484-2");
-pageTracker._initData();
-pageTracker._trackPageview();
+jQuery(document).ready(function(){
+	jQuery("#contactForm").validate();
+});
 </script>
-<script type="text/javascript">
-function trackPage(){
-	pageTracker._trackPageview("/policy.php");
-}
-</script>
-
+<div id="footer">
+  <div class="container_12">
+    <div class="grid_12">
+      <div class="cta2">
+                        <h3>Stop wasting countless hours tracking your data from all over the web!</h3>
+        <div style="padding-left:370px;"> <a href="/signup" class="button"><div class="action">SIGN UP FREE</div></a></div>
+                      </div>
+      <div class="clear"></div>
+      <div class="cols">
+        <div class="grid_2 alpha">
+          <h3>Product</h3>
+          <ul>
+            <li><a href="/pricing">Pricing</a></li>
+            <li><a href="/signup">Sign Up</a></li>
+            <li> <a href="/whitelabel">White Label</a></li>
+          </ul>
+        </div>
+        <div class="grid_2">
+          <h3>Company</h3>
+          <ul>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </div>
+        <div class="grid_2">
+          <h3>Legal</h3>
+          <ul>
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Use</a></li>
+          </ul>
+        </div>
+        <div class="grid_2">
+          <h3>Connect</h3>
+          <div class="clear" style="height:5px;"></div>
+          <a style="float:left;" href="http://www.facebook.com/pages/Cyfe/307811752577436" target="_blank"><img src="images/icon-facebook.png" alt="" style="padding-right:9px;"></a> <a style="float:left;" href="http://twitter.com/cyfe" target="_blank"><img src="images/icon-twitter.png" alt="" style="padding-right:9px;"></a></div>
+          <div class="clear" style="height:50px;"></div>
+          <!-- AddThis Button BEGIN -->
+          <div class="addthis_toolbox addthis_default_style" style="width:105px; margin:0 auto;"> <a class="addthis_button_linkedin"></a> <a class="addthis_button_facebook"></a> <a class="addthis_button_twitter"></a> <a class="addthis_button_email"></a> <a class="addthis_button_compact"></a> </div>
+          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f18f5810085d292"></script>
+          <!-- AddThis Button END -->
+      </div>
+      <div class="clear" style="height:0px;"></div>
+      <div class="copyright">Copyright © 2012 Cyfe, Inc. All rights reserved.</div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="js/c.js"></script>
 </body></html>
