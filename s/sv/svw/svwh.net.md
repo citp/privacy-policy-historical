@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svwh.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220501id_/http%3A//www.svwh.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svwh.net privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730000055id_/http%3A//www.svwh.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Silicon Valley Web Hosting Privacy Policy
 
