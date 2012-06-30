@@ -1,63 +1,84 @@
-> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224611id_/http%3A//www.lastminute.com.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100914id_/http%3A//www.lastminute.com.au/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**  
-Newsletter**
-
-lastminute.com.au sends each of our subscribers a weekly newsletter. Subscription to our newsletter occurs through a user placing a booking with lastminute.com.au, leaving the newsletter subscription box ticked and accepting our booking terms & conditions, entering a competition hosted by lastminute.com.au that requires subscription in order for them to participate or following a user's request to add their email address in the subscribe box that appears throughout the lastminute.com.au website. 
-
-The newsletters contain information and offers as well as some paid advertising material. In addition to the weekly newsletters, lastminute.com.au may occasionally send out a “stop press” or “one-off” emails which are deemed to be valuable to our customers. In accordance with the Spam Act 2003, No. 129, 2003, An Act about spam, and for related purposes.
-
-• lastminute.com.au does not send unsolicited e-mail messages;
-
-• lastminute.com.au does not purchase, sell or use third party distribution lists acquired through address-harvesting software;
-
-• Members can unsubscribe from receiving e-mail messages from lastminute.com.au at any time by clicking on the unsubscribe link located in the footer of every newsletter
-
-**Cookies**
-
-Cookies are small files stored on your computer, which allow us to recognise you when you return to our site. As well as allowing our booking process to remember which products you have selected, and to move through the various screens of the booking process.
+### Privacy Policy
 
   
-Most Internet browsers will be set to automatically accept cookies when installed.   
+This privacy policy explains how we handle and protect your personally identifiable information (PII) in accordance with accepted privacy principles. This policy was last adjusted on March 2nd 2012.
+
+  
+We reserve the right to modify or amend this policy at any time and for any reason. Any material changes to this privacy policy will be posted prior to their implementation. Questions regarding this policy should be emailed to [customercentral@lastminute.com.au](mailto:customercentral@lastminute.com.au) or sent via postal mail to: lastminute.com.au Pty Ltd, Attention: Privacy Officer, Level 10, 17 York St Sydney, NSW 2000, Australia.
+
+**  
+Email Subscription**
+
+lastminute.com.au sends each of our subscribers regular email communications containing information and deals which are deemed to be valuable to our customers . Our emails may contain paid advertising material. Subscription to our emails occurs either through:  
+ 
+
+  * a user placing a booking with lastminute.com.au, leaving the subscription box ticked and accepting our booking terms & conditions
+  * entering a competition hosted by lastminute.com.au that requires subscription to our email list, or
+  * following a user's request to add their email address in the subscribe box that appears on the lastminute.com.au website.
+
+
+
+  
+In accordance with the Spam Act 2003, and for related purposes:  
+ 
+
+  * lastminute.com.au does not send unsolicited e-mail messages;
+  * lastminute.com.au does not purchase, sell or use third party distribution lists acquired through address-harvesting software;
+  * recipients can unsubscribe from receiving email messages from lastminute.com.au at any time by clicking on the unsubscribe link located in the footer of every newsletter or via the Newsletters section of the site.
+
+
+
+  
+We reserve the right to use a third party email service provider to facilitate our newsletter marketing campaigns using the information described in this policy. They are not permitted to use your email address or share personal information for any other purpose.
+
+  
+**Cookies**
+
+Cookies are small files stored on your computer which allow us to recognise you when you return to our site. As well as allowing our booking process to remember which products you have selected, and to move through the various screens of the booking process.
+
+Most Internet browsers will be set to automatically accept cookies when installed. 
+
 It is possible to view all lastminute.com.au material without having cookies enabled however it is not possible to purchase without accepting these cookies.
 
   
-**Information collected by us.**   
-When you look at our website we will collect the following information for statistical purposes and only statistical purposes.   
-• Your server address   
-• Your top level domain (for example .com, .gov, .au, .uk, etc)   
-• The date and time of your visit to the site   
-• The pages you accessed and the documents downloaded   
-• The previous site you have visited   
-• The type of web browser you are using
+**Information collected by us**
 
-We use third-party advertising companies to serve ads on our web site and other web sites. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. When you process a booking though us at lastminute.com.au we need to collect information from you in order to fulfil this. All information collected will remain with lastminute.com.au. The only circumstance in which we would pass on information to a third party is for the specific purpose of fulfilment of your order. For example passing on your booking details to to a hotel partner or airline. 
+When you look at our website we will collect the following usage information. We use this for aggregated statistical purposes as well as to offer a better customer experience, such as improving the relevance of our marketing campaigns to newsletter subscribers:  
+ 
 
-Additionally, we may use information in relation to your booking to communicate with you about products and promotional offers which are relevant to your booking that we think may be of interest to you.
+  * Your server address
+  * Your top level domain (for example .com, .gov, .au, .uk, etc)
+  * The date and time of your visit to the site
+  * The pages you accessed and the documents downloaded
+  * The previous site you have visited
+  * The type of web browser you are using
 
-**Why we collect personal profiles**
+From time to time anonymous usage statistics are used by our third party advertising providers including to serve more relevant advertisements. Your PII is never shared with these third parties.
 
-  * Convenience and speed
-  * Retaining your account information on our files means that when shop with us again you don't need to re-enter all of your details every time. This makes the entire booking process simpler and faster.
-  * To offer you a better product. To better understand what sort of travel experiences and products our clients are looking for, we sometimes ask them for extra information about themselves. Clients have the choice of providing this information to further personalise their experience with us.
+The information you provide when booking though lastminute.com.au is only used for: 
+
+  * Fulfilling your order. This requires some of your information being passed to the third party supplier responsible for providing the service you have booked (e.g. passing on your booking details to a hotel partner or airline), and
+  * Communicating with you about products and promotional offers which are relevant to your booking that we think may be of interest to you.
 
 
 
-Any information shared with us remains completely confidential.
+  **Information Security**
 
-  
-**Credit card security  
-**lastminute.com.au utilises a technology called SSL3 (Secure Sockets Layer) including 128bit encryption. Your credit card details are only used to fulfil your purchase or booking, and are securely stored. They are not used for any other purpose and will never be supplied to a third party other than the supplier of the goods or services you have purchased.
+lastminute.com.au utilises a technology called SSL3 (Secure Sockets Layer) including 128bit encryption. Your credit card details are only used to fulfil your purchase or booking. They are not used for any other purpose and will never be supplied to a third party other than the supplier of the goods or services you have purchased for the purpose of processing your transaction.
 
-  
-**Information disclosure  
-**Should you use our site to send a gift you'll be providing details of people who may never have visited our site. lastminute.com.au will not disclose the recipient addresses and will not send them any promotional information other than that specific product i.e. the gift.
+To ensure the confidentiality of your PII, we use security technology and procedures that are regularly reviewed and updated.
 
-  
-**Links  
-**This Web site contains links to other sites. Please be aware that lastminute.com.au is not responsible for the privacy practices of other sites. We encourage our users to be aware, when they leave our site, to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+We have also obtained a digital certificate from Thawte Server CA (part of the VeriSign group), an industry leader in the protection and management of data transmission.
+
+When you send PII to us over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission.
 
   
-Further information regarding the Australian Privacy policy can be accessed at the Australian privacy commissioners website located at <http://privacy.gov.au/business/index.html>
+**lastminute.com.au partners**
+
+If you purchase Car Hire, Insurance, Gifts, Wine or Experiences through lastminute.com.au you are purchasing through one of our '’white label’ partners who are clearly identified in the booking pages for those product categories. Each of these partners has its own privacy policy which governs the way that they collect and treat your information when you view and book products within those categories. Their privacy policies are displayed on the booking pages applicable to each of their product categories. We ensure that we only work with reputable partners who commit to respecting customer privacy in accordance with accepted privacy principles. However, lastminute.com.au is not responsible for the privacy practices of our partners.
+
+This privacy statement applies solely to information collected by us.
