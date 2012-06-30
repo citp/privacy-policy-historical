@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125011843id_/http%3A//www.findmypast.com.au/content/fmpau_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630030034id_/http%3A//www.findmypast.com.au/content/fmpau_privacy_policy) for the most accurate reproduction.*
 
-# Research your family tree and Genealogy | Family History Records | findmypast.com.au
+# findmypast.com.au
 
 ## Privacy Policy
 
