@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206035455id_/http%3A//www.youngentrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630031318id_/http%3A//www.youngentrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Young Entrepreneur – Small Business & Entrepreneur Community
+# Where Young Entrepreneurs Meet and Start-Up | YoungEntrepreneur.com
 
 This privacy notice discloses the privacy practices for YoungEntrepreneur.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
