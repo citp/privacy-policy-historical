@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fayobserver.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222148id_/http%3A//www.fayobserver.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fayobserver.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235414id_/http%3A//www.fayobserver.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # FayObserver.com -
 
@@ -26,9 +26,21 @@ We use our best efforts to ensure the security of all personal information that 
 
 The Children's Online Privacy Protection Act (COPPA) provides that web site operators cannot knowingly collect information from children younger than 13 without verifiable permission from their parents. We do not intend for our Online Service to be used by anyone under the age of 13 for any purpose, including for any service that requires the collection of personal information, through registration or otherwise. Our Terms of Use require that users represent and warrant that they are at least 13 years old. Therefore, we will not knowingly gather or disclose personal information about users under the age of 13 without prior parental consent, except as required by law. Other sites accessible through the Online Service have their own policies about children's privacy. We are not responsible for their policies, and you should contact them directly regarding those policies.
 
-You may use our online registration form at any time to change or update information you have provided to us. Questions regarding the accuracy of your personal information, the use of the information collected, or our Privacy Policy in general should be directed via e-mail to [privacy@FayObserver.com](https://web.archive.org/web/20111231222148id_/http%3A//www.fayobserver.com/help/privacy@FayObserver.com). You can also reach us by calling (910) 323-4848 or by writing to The Fayetteville Observer, Online Department, P.O. Box 849, Fayetteville, NC 28392.
+You may use our online registration form at any time to change or update information you have provided to us. Questions regarding the accuracy of your personal information, the use of the information collected, or our Privacy Policy in general should be directed via e-mail to [privacy@FayObserver.com](https://web.archive.org/web/20120630235414id_/http%3A//www.fayobserver.com/help/privacy@FayObserver.com). You can also reach us by calling (910) 323-4848 or by writing to The Fayetteville Observer, Online Department, P.O. Box 849, Fayetteville, NC 28392.
 
 We may occasionally send you information via e-mail about various products and services. You may "opt-out" of receiving further e-mail contact from us by clicking the "click to unsubscribe" link at the bottom of one of your emails, or by managing email subscriptions online at: <http://fayobserver.upickem.net/engine/Registration.aspx?contestid=9891>. You can also contact us at the e-mail address, telephone number, or postal address listed above. This will not prevent you from accessing and using the Online Service.
+
+NEWS
+
+Tornadoes - Then and now
+
+SPORTS
+
+Check out the Preps Spotlight blog
+
+NEWS
+
+40 Under 40: Honoring young leaders
 
 SPECIAL REPORT
 
@@ -48,24 +60,20 @@ See government salaries and other public information in our databases
 
 ELITE MAGAZINE
 
-In this month's Elite, read about a general's wife and the toughest battle she's ever faced.
+In this month's Elite, from chili recipes to fashion - we've got you covered
 
 LIFE
 
-Find out what to eat, and where, on our new Dining Out page
+Find out what to eat on our new Dining Out page
 
-YOUR PICKS
+WEATHER
 
-Our readers pick the best in town
-
-SLIDE SHOWS
-
-Fan Cams: Did we take your picture at a high school football game?
+Get the latest weather news here
 
 SLIDE SHOWS
 
-Check out our high school football game photos
+Don't miss the latest slide shows on our photo page
 
 MILITARY
 
-Observer's Drew Brooks and James Robinson embedded with 82nd in Iraq
+Check out our military page
