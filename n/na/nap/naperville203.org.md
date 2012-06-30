@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naperville203.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225045548id_/http%3A//www.naperville203.org/departments/communications/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naperville203.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234247id_/http%3A//www.naperville203.org/departments/communications/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Naperville Community Unit School District 203
 
