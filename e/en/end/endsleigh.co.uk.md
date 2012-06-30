@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210084441id_/http%3A//www.endsleigh.co.uk/Media/pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630142220id_/http%3A//www.endsleigh.co.uk/Media/pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Endsleigh Insurance Services Limited
 
@@ -20,7 +20,7 @@
 
 [](http://www.endsleigh.co.uk/Claims/Pages/claim-advice.aspx)
 
-[](https://web.archive.org/Pages/Login.aspx?Source=http%3A%2F%2Fwww%2Eendsleigh%2Eco%2Euk%2FMedia%2Fpages%2Fprivacy%5Fpolicy%2Easpx)
+[](https://web.archive.org/Pages/Login.aspx?Source=http%3A%2F%2Fwww%2Eendsleigh%2Eco%2Euk%2FMedia%2FPages%2Fprivacy%5Fpolicy%2Easpx)
 
 At Endsleigh we are committed to protecting your privacy. All your information is collected and handled lawfully in accordance with the Data Protection Act 1998 (as amended from time to time). This Privacy Policy should be read in conjunction with the Website [Terms and Conditions](https://web.archive.org/about/pages/website_terms.aspx "Terms and conditions").
 
@@ -35,9 +35,10 @@ We only collect the information that you actively provide us with. This is gener
   * To assist in making decisions on any claim you may make; 
   * To carry out market analysis and customer profiling and create statistical and testing information; 
   * To help to prevent and detect fraud or loss; 
-  * To contact you in any way, where you have previously consented, about products or services offered by us, other companies in the Endsleigh group and carefully selected third parties. 
 
 
+
+To contact you in any way, where you have previously consented, about products or services offered by us, other companies in the Endsleigh group and carefully selected third parties. 
 
 The information you provide will be processed by Endsleigh's website agency Tamar, which will not disclose your details to any other parties.
 
@@ -59,13 +60,7 @@ In some exceptional circumstances we may deal with people who contact us on your
 
 **Cookies**
 
-We use "cookies" (small files placed on your hard drive) to help us customise our products and services to make them more relevant to you.
-
-Cookies enable us to offer certain features that are only available through their use. We use them to help identify you and maintain your logged in status. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.
-
-You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our services and would also mean that you may not be able to access special promotions or offers that are only available  you. 
-
-The ‘Help’ section of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, because cookies allow you to take advantage of some of our website’s special features, we recommend that you leave them turned on. 
+[Click here](http://www.endsleigh.co.uk/Pages/cookie-policy.aspx "Endsleigh cookie policy") to read our cookie policy.
 
 **Storage of information**
 
