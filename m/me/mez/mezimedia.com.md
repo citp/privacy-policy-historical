@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mezimedia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211110id_/http%3A//valueclickbrands.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mezimedia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113439id_/http%3A//www.valueclickbrands.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Valueclick Brands
 
-_effective September 14, 2010_
+_effective May 30, 2012_
 
 This page sets forth the privacy policies and practices of ValueClick Brands, Inc.'s ("ValueClick Brands") site [http://www.valueclickbrands.com](http://www.valueclickbrands.com/) ("ValueClick Brands Site"). The information collection practices of ValueClick Brands’ other sites are detailed by the privacy policies, if any, found on such websites.
 
@@ -44,21 +44,15 @@ ValueClick Brands may find it necessary or be legally obligated to update this P
 
 **VI. DATA PROCESSING/SAFE HARBOR**
 
-**FOR EUROPEAN UNION CITIZENS.**
+**FOR EUROPEAN UNION AND SWISS CITIZENS.**
 
-The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America (“US”). To reconcile these differences, the US and the EU have created a safe harbor (“Safe Harbor”) that defines mutually acceptable privacy operations. For more information see <http://www.export.gov/safeharbor>.
+The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America ("U.S."). To reconcile these differences, the US and the EU have created a safe harbor ("U.S.-EU Safe Harbor Framework") that defines mutually acceptable privacy operations. The U.S. and Switzerland have created a similar safe harbor ("U.S.-Swiss Safe Harbor Framework. For more information see <http://www.export.gov/safeharbor>.
 
-ValueClick Brands complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>. 
+ValueClick Brands complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>.
 
-In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should first contact us by emailing [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com). ValueClick Brands has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ValueClick Brands you may contact:
+In compliance with the Safe Harbor Privacy Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact ValueClick Brands by emailing [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com).
 
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: www.us.bbb.org  
-Email: eusafeharbor@council.bbb.org
+ValueClick Brands has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ValueClick Brands, please visit the BBB EU SAFE HARBOR website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 **VII. DIGITAL POLICY FORUM**
 
