@@ -1,0 +1,487 @@
+<!--The following is the downloaded HTML source of the yageo.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630090959id_/http%3A//www.yageo.com/portal/privacy_policy/privacy.jsp%3Fmenuid%3D911%26SWITCH_CATEGORY%3D/privacy_policy/Privacy%2520Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>YAGEO</title>
+<script src="../Scripts/jquery-1.3.1.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript" src="../Scripts/jquery.cookie.js"></script>
+<script type="text/javascript" language="javascript" src="../Scripts/paging.js"></script>
+<script type="text/javascript" language="javascript" src="../Scripts/leftmenu.js"></script>
+<script src="../menu/jquery-1.1.2.js" type="text/javascript"></script>
+
+		<script src="../menu/jquery.bgiframe.js" type="text/javascript"></script>
+		<script src="../menu/jquery.dimensions.js" type="text/javascript"></script>
+		<script src="../menu/jquery.jdMenu.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			// Initialization, you can leave this here or move this somewhere else
+			$(function(){
+				$('ul.jd_menu').jdMenu({	onShow: loadMenu
+											//onHideCheck: onHideCheckMenu,
+											//onHide: onHideMenu, 
+											//onClick: onClickMenu, 
+											//onAnimate: onAnimate
+											});
+				$('ul.jd_menu_vertical').jdMenu({onShow: loadMenu, onHide: unloadMenu, offset: 1, onAnimate: onAnimate});
+				
+				//$('#').attr({'src':'../images/Investor_menu_point.jpg','width':'6','height':'20'});				
+				$('#9100').css({"background-color":"#94bbe3"});
+				//$('#').slideToggle(1);				
+				//$('#911').css({color:"red"});
+				//$('.ImgTab').eq(0).attr({'src':'../images/Tab_Img11.jpg'});					    
+		        //$('.MsgHide').eq(0).slideToggle(1);		
+								
+				
+				
+
+			});
+			
+
+			function onAnimate(show) {
+				//$(this).fadeIn('slow').show();
+				if (show) {
+					$(this)
+						.css('visibility', 'hidden').show()
+							.css('width', $(this).innerWidth())
+						.hide().css('visibility', 'visible')
+					.fadeIn('normal');
+				} else {
+					$(this).fadeOut('fast');
+				}
+			}
+
+			var MENU_COUNTER = 1;
+			function loadMenu() {
+				if (this.id == 'dynamicMenu') {
+					$('> ul > li', this).remove();
+			
+					var ul = $('<ul></ul>');
+					var t = MENU_COUNTER + 10;
+					for (; MENU_COUNTER < t; MENU_COUNTER++) {
+						$('> ul', this).append('<li>Item ' + MENU_COUNTER + '</li>');
+					}
+				}
+			}
+
+			function unloadMenu() {
+				if (MENU_COUNTER >= 30) {
+					MENU_COUNTER = 1;
+				}
+			}
+
+			// We're passed a UL
+			function onHideCheckMenu() {
+				return !$(this).parent().is('.LOCKED');
+			}
+
+			// We're passed a LI
+			function onClickMenu() {
+				$(this).toggleClass('LOCKED');
+				return true;
+			}
+		</script>
+
+<link rel="stylesheet" type="text/css" href="../_include/css.css">
+<style type="text/css">
+
+			h1 {
+				font-family: sans-serif;
+				color: #0068B8;
+			}
+			
+			li.LOCKED {
+				font-weight: bold;
+			}
+			body {
+				margin: 0px;
+				margin-left: 0px;
+			}
+		</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+
+var Msg_Timer=1;
+var beforeID=1;
+var onPause=false;
+var currentMsg=0;
+var imgurl1 = "";
+var imgurl2 = "";
+//var Msg_Obj=$('#Tag_IE');//(document.all)?Tag_IE:document.getElementsByName("Tag_FF");
+function Rot_Msg(m){
+	if(!onPause||m){		    
+		for(i=0;i<$('.ImgTab').length;i++){
+		    imgurl1 = "../../exep/pages/images/Tab_Img"+(i+1)+"0.jpg";
+			$('.ImgTab').eq(i).attr({'src':imgurl1});
+			//$('.MsgHide').eq(i).css({'display':'none'});			
+		}		
+		$('.MsgHide').hide();						
+		imgurl2 = "../../exep/pages/images/Tab_Img"+(m)+"1.jpg";		
+		$('.ImgTab').eq(m-1).attr({'src':imgurl2});		
+		$('.MsgHide').eq(m-1).show();
+		
+		
+	}
+}
+function Pause_Msg(){
+onPause=onPause?false:true
+}
+Rot_Msg()
+</script>
+
+</head>
+
+<body>
+
+
+<div class="consider">
+
+<!--header-->
+ 
+
+
+
+ 
+
+<form name="languageForm" action="" method="POST">
+	<input type="hidden" name="YAGEO_LOCALE" value="EN">
+	<input type="hidden" name="SWITCH_CATEGORY" value="/privacy_policy/Privacy Policy"><!--anson -->
+	<input type="hidden" name="NEXT_PAGE" value="null"><!--anson -->
+	<input type="hidden" name="Category" value="null">
+	<input type="hidden" name="menuid" id="menuid" value="911"><!--anson -->
+	<input type="hidden" name="title1" id="title1" value="null"><!--for application anson -->
+	<input type="hidden" name="title2" id="title2" value="null"><!--for application anson -->
+	<input type="hidden" name="YageoPartNumber" value="">
+</form>
+
+<script>
+
+
+
+var km_url = "http://www.yageo.com:80/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fevery_user!2fgeneral!2feu_role!2fcom.sap.km.home_ws!2fcom.sap.km.hidden!2fcom.sap.km.urlaccess!2fcom.sap.km.basicsearch?layoutSetMode=exclusive&ResourceListType=com.sapportals.wcm.SearchResultList&SearchType=quick&QueryString=";
+function km_search() {
+  window.open(km_url+document.getElementById("keywords").value,"");
+}
+function keydownPress(e)
+{        
+        if (window.event) { e = window.event; }
+        if (e.keyCode == 13)
+        {
+                window.open(km_url+document.getElementById("keywords").value,"");
+        }
+}
+function go_home(){
+  location.href="/portal/index.jsp";
+}
+function gotoEmployees(){
+	window.open('http://yatpeip.yageo.com');
+}
+function onLanguageChange(lan) {
+	document.languageForm.YAGEO_LOCALE.value = lan;
+	document.languageForm.submit();
+}
+
+function gotoCategory(newCategory,nextPage) {
+	document.productForm.SWITCH_CATEGORY.value = newCategory;
+	document.productForm.NEXT_PAGE.value=nextPage;		
+	document.productForm.submit();
+}
+function checkFromTTI(){
+	//如果是從TTI經銷商來時要隱藏部分欄位
+	var fromTTI='null';
+	if(fromTTI == "true"){
+		$("#headBar").hide();
+		$("#footerBar").hide();
+		$("#application_mobile").hide();
+		$("#application_mobile2").hide();
+		$("#application_mobile3").hide();
+		$("#subscribe").hide();
+	}
+}
+function init(){
+	checkFromTTI();
+}
+window.onload=init;
+
+</script>
+<div class="header" id="headBar">
+	<div id="search">
+		<table width="100%" height="60" border="0" cellpadding="0">
+        <tbody><tr>
+          <td height="17" valign="bottom">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td width="43%">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr><td width="46%"><label>
+                      <input name="keywords" type="text" class="key" id="keywords" value="keywords" size="19" onfocus="this.select()" onkeypress="keydownPress(event);">
+                    </label>
+                     <img src="../../exep/pages/images/search_btn.jpg" alt="" width="57" height="22" onclick="km_search()" id="searchImg"> </td>
+                    <td width="3%" style="background-image:url(../../exep/pages/images/line.jpg); background-repeat:repeat-y; background-position:center;">&nbsp;</td>
+                    <form id="form2" name="form2" method="post" action=""></form>
+                    <td width="49%" align="right"><select name="global" size="1.5" class="global" id="global" onchange="onLanguageChange(this.options[this.selectedIndex].value)">
+                      <option>Language Selection</option>
+                      <option value="EN">English</option>
+                      <option value="TW">繁體中文</option>
+                      <option value="CN">简体中文</option>
+                      <option value="JP">日本語</option>
+                    </select></td>
+                  </tr>
+                </tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+	</div>
+  	<a href="javascript:go_home()"><img src="../../exep/pages/images/logo.jpg" border="0"></a>
+  	<div class="menu">
+  	<ul class="jd_menu jd_menu_slate"><!-- localization:topmenuword -->	
+                <li style="width:112px;">About Yageo<!--#####about_yageo :anson -->
+					<ul>
+						
+						<li style="width:auto;"><a href="/portal/about_yageo/about.jsp?SWITCH_CATEGORY=/about_yageo/Corporate overview&amp;menuid=0&amp;title1=c1">Corporate Overview</a></li>
+                        <li style="width:auto;"><a href="/portal/about_yageo/about.jsp?SWITCH_CATEGORY=/about_yageo/Social Responsibility&amp;menuid=1&amp;title1=c2">Social Responsibility </a></li>
+						<li style="width:auto;"><a href="/portal/about_yageo/about.jsp?SWITCH_CATEGORY=/about_yageo/Environment and Safety&amp;menuid=2&amp;title1=c3">Environment &amp; Safety</a></li>
+						<li style="width:auto;"><a href="/portal/about_yageo/about.jsp?SWITCH_CATEGORY=/about_yageo/RoHS/ELV Compliant Product List&amp;menuid=3&amp;title1=c4">RoHS Compliance, Declaration</a></li>
+						<li style="width:auto;"><a href="/portal/about_yageo/about.jsp?SWITCH_CATEGORY=/about_yageo/Certificates and Awards&amp;menuid=4&amp;title1=c5">Certificates &amp; Awards</a></li>
+						
+					</ul>
+		       </li>
+                <li style="width:97px;">Products
+					<ul>
+
+                        <li style="width:auto;"><a href="/portal/product/product.jsp?NEXT_PAGE=/product/categorySearch.jsp&amp;SWITCH_CATEGORY=/product/Rchip/Chip Resistor">Chip Resistors</a></li>
+                        <li style="width:auto;"><a href="/portal/product/product.jsp?NEXT_PAGE=/product/categorySearch.jsp&amp;SWITCH_CATEGORY=/product/MLCC/MLCC">MLCC</a></li>
+						<li style="width:auto;"><a href="/portal/product/product.jsp?NEXT_PAGE=/product/categorySearch.jsp&amp;SWITCH_CATEGORY=/product/LeadedR/Leaded Resistors">Leaded Resistors</a></li>
+						<li style="width:auto;"><a href="/portal/product/product.jsp?NEXT_PAGE=/product/categorySearch.jsp&amp;SWITCH_CATEGORY=/product/Ecap/E-Cap">Electrolytic Capacitors</a></li>
+						<li style="width:auto;"><a href="/portal/product/product.jsp?NEXT_PAGE=/product/categorySearch.jsp&amp;SWITCH_CATEGORY=/product/Inductors/Inductors">Inductors</a></li>
+						<li style="width:auto;"><a href="/portal/product/product.jsp?NEXT_PAGE=/product/categorySearch.jsp&amp;SWITCH_CATEGORY=/product/High Frequency/High Frequency">High Frequency</a></li>
+					</ul>
+		      </li>
+               <li style="width:122px;">Applications<!--applications :anson -->
+				   <ul>
+					    <li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Notebook Application Overview&amp;menuid=0&amp;title1=c01&amp;title2=c011">Tablet PC/Notebook</a></li><!--Tablet PC/NB-->						
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Mobile Application Overview&amp;menuid=1&amp;title1=c2&amp;title2=c21">Mobile</a></li><!--Mobile-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Industrial Application Overview&amp;menuid=2&amp;title1=c3&amp;title2=c31">Industrial</a></li><!--Industrial(new)-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Power Application Overview&amp;menuid=3&amp;title1=c4&amp;title2=c41">Power</a></li><!--Power-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Alternative Energy Application Overview&amp;menuid=4&amp;title1=c5&amp;title2=c5">Alternative Energy</a></li><!--Alternative Energy(new)-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Automotive Application Overview&amp;menuid=5&amp;title1=c6&amp;title2=c61">Automotive</a></li><!--Automotive-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Medical Application Overview&amp;menuid=6&amp;title1=c7&amp;title2=c71">Medical</a></li><!--Medical(new)-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Home Appliance Application Overview&amp;menuid=7&amp;title1=c8&amp;title2=c81">Home Appliance</a></li><!--Home Appliance-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/Networking Application Overview&amp;menuid=8&amp;title1=c9&amp;title2=c91">Networking</a></li><!--Networking-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/LCD TV Application Overview&amp;menuid=9&amp;title1=c10&amp;title2=c101">Display</a></li><!--Display-->
+						<li style="width:auto;"><a href="/portal/applications/applications.jsp?SWITCH_CATEGORY=/applications/DSC Application Overview&amp;menuid=10&amp;title1=c11&amp;title2=c111">DSC</a></li><!--DSC-->
+					</ul>
+			</li>
+			 <li style="width:80px;">Services<!--services :anson -->
+					<ul>
+						<li style="width:auto;"><a href="/portal/services/services.jsp?SWITCH_CATEGORY=/services/Global Logistics&amp;menuid=0&amp;title1=c1">Global Logistics</a></li><!--Global Logistics-->
+						<li style="width:auto;"><a href="/portal/services/services.jsp?SWITCH_CATEGORY=/services/JIT Warehouse&amp;menuid=1&amp;title1=c2">JIT Warehouse</a></li><!--JIT Warehouse-->
+						<li style="width:auto;"><a href="/portal/services/services.jsp?SWITCH_CATEGORY=/services/Vendor Managed Inventory&amp;menuid=2&amp;title1=c3">Vendor Managed Inventory</a></li><!--Vendor Managed Inventory-->
+						<li style="width:auto;"><a href="/portal/services/services.jsp?SWITCH_CATEGORY=/services/Value Added Services&amp;menuid=3&amp;title1=c4">Value Added Services</a></li><!--Value Added Services-->
+						<li style="width:auto;"><a href="/portal/services/services.jsp?SWITCH_CATEGORY=/services/Design In Service&amp;menuid=4&amp;title1=c5">Design-in Service</a></li><!--Design In Service (SBU)-->
+	                    <li style="width:auto;"><a href="/portal/services/services.jsp?SWITCH_CATEGORY=/services/EDI&amp;menuid=5&amp;title1=c6">EDI</a></li><!--Electronic Data Interchange-->
+					</ul>
+	  		</li>
+			<li style="width:87px;">Customers<!--customers :anson -->
+					<ul>
+						<li style="width:auto;"><a href="/portal/customers/customers.jsp?SWITCH_CATEGORY=/customers/B2B&amp;menuid=0&amp;title1=c1">e-Commerce Portal</a></li><!--B2B-->
+						 	<li style="width:auto;"><a href="/portal/customers/customers.jsp?SWITCH_CATEGORY=/customers/Request for Quotation&amp;menuid=2&amp;title1=c2">Request for Quotation</a></li><!--Request for Quotation-->
+							<li style="width:auto;"><a href="/portal/customers/customers.jsp?SWITCH_CATEGORY=/customers/Literature&amp;menuid=3&amp;title1=c3">Literature </a></li>	<!--Literature-->					
+					</ul>
+			</li>            
+            <li style="width:142px;">Investor Relations<!--#######Investor Relations -->
+					<ul>						
+						<li style="width:auto;"><a href="/portal/Investor_relations/Investor.jsp?menuid=611&amp;SWITCH_CATEGORY=/Investor_relations/Financials/Business Overview">Financials</a></li><!--Financials-->
+						<li style="width:auto;"><a href="/portal/Investor_relations/Investor.jsp?menuid=621&amp;SWITCH_CATEGORY=/Investor_relations/Corporate Goverance/Statement and Memorandum">Corporate Governance</a></li><!--Corporate Goverance-->
+						<li style="width:auto;"><a href="/portal/Investor_relations/Investor.jsp?menuid=631&amp;SWITCH_CATEGORY=/Investor_relations/Shareholders Services/Stock info">Shareholder's Services</a></li><!--Shareholder's Services-->
+						<li style="width:auto;"><a href="/portal/Investor_relations/Investor.jsp?menuid=641&amp;SWITCH_CATEGORY=/Investor_relations/Press Room/Latest News">Press Room</a></li><!--Press Room-->
+						<li style="width:auto;"><a href="/portal/Investor_relations/Investor.jsp?menuid=651&amp;SWITCH_CATEGORY=/Investor_relations/FAQ">FAQ</a></li><!--FAQ-->
+					</ul>
+		    </li>
+			<li style="width:87px;">Careers<!--Careers-->
+					<ul>
+						<li style="width:auto;"><a href="/portal/career/career.jsp?menuid=711&amp;SWITCH_CATEGORY=/career/Join Yageo">Join Yageo </a></li><!--Join Yageo-->
+						<li style="width:auto;"><a href="/portal/career/career.jsp?menuid=721&amp;SWITCH_CATEGORY=/career/Learning and Development">Learning &amp; Development</a></li><!--Learning & Development-->
+					</ul>
+		   </li>
+		   <li style="width:87px;">Contact Us<!--contact us -->
+					<ul>						
+						<li style="width:auto;"><a href="/portal/contact_us/contact.jsp?menuid=811&amp;SWITCH_CATEGORY=/contact_us/Yageo Offices">Yageo Offices</a></li><!--Yageo Offices-->
+						<li style="width:auto;"><a href="/portal/contact_us/contact.jsp?menuid=821&amp;SWITCH_CATEGORY=/contact_us/Destributors">Distributors</a></li><!--Destributors-->
+						<li style="width:auto;"><a href="/portal/contact_us/contact.jsp?menuid=831&amp;SWITCH_CATEGORY=/contact_us/Feedback">Feedback</a></li><!--Feedback-->						
+					</ul>
+		    </li>
+	    	<li style="width:112px;"><a href="javascript:void(0)" onclick="gotoEmployees();" style="color:#FFF;">Employees</a></li>
+	</ul>
+	</div>
+</div>
+	<form name="productForm" method="POST" action="/portal/product/product.jsp">
+	<input type="hidden" name="SWITCH_CATEGORY" value="/product/Search Product/Full Search By Number">
+	<input type="hidden" name="NEXT_PAGE" value="/product/fullProductSearch.jsp">
+	</form>	
+	
+  
+
+<!-- banner--> 
+
+
+
+<div class="yageobanner"><img src="../../exep/pages/images/Banner_Sitemap.jpg" width="935" height="141"></div> 
+
+<table width="920" border="0">
+	<tbody><tr>
+		<td width="220" valign="top">		
+			<table width="220" border="0">
+				<tbody><tr><td>
+					<!--investor menu-->
+
+					
+
+
+
+<script>
+	function openNewWindow(page,menuid) {
+		document.menuSwitchForm.menuid.value = menuid;
+		
+		window.open(page);		
+		document.menuSwitchForm.submit();
+	}
+
+</script>
+
+<form name="menuSwitchForm" method="POST" action="Investor.jsp">
+	<input type="hidden" name="menuid" value="611">	
+	
+</form>
+  
+      <!-- localization:investormenusword -->
+   <dt id="9100" class="leftIco"><a href="/portal/privacy_policy/privacy.jsp?menuid=910&amp;SWITCH_CATEGORY=/privacy_policy/Privacy Policy" style="color:#FFF;">Privacy Policy</a></dt><!--Privacy Policy-->
+    
+   <dt id="9200" class="leftIco"><a href="/portal/privacy_policy/privacy.jsp?menuid=920&amp;SWITCH_CATEGORY=/privacy_policy/Terms of Use" style="color:#FFF;">Terms of Use</a></dt><!--Terms of Uses-->
+    
+    
+   
+    
+    
+    
+  
+
+
+
+
+  
+				</td>
+			</tr></tbody></table>
+		</td>
+		<td width="700" valign="top">
+			<table width="700" border="0">
+				<tbody><tr><td>
+					<!--where is-->
+
+					
+
+
+
+
+
+
+
+<div class="yageowhere">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td>You are Here:<!--You are here:--><span class="where">Privacy Policy</span></td>      
+    </tr>
+  </tbody></table>
+</div>
+
+	
+					
+					<!--investor content-->
+					
+					
+
+
+
+
+    <table cellspacing="0" cellpadding="0" width="690" border="0">      <tbody>        <tr>          <td class="righttitle" style="HEIGHT: 25px">            <strong>Policy Overview</strong>          </td>        </tr>        <tr>          <td style="HEIGHT: 5px"></td>        </tr>        <tr>          <td>The Privacy Policy  discloses the information that is collected through our website <a href="http://www.yageo.com/">www.yageo.com</a> and how such information is  used. Yageo follows all applicable laws on data privacy protection and data security.  The ultimate goal for gathering information is to improve service and support  to customers. If you have any questions or comments about this Policy, please  contact us at<img src="../../exep/pages/images/clip_image001.gif" alt="" width="17" height="12" border="0"><a href="mailto:marcom@yageo.com">marcom@yageo.com</a>.  This Privacy Policy applies solely to the information which is collected  through this website.</td>        </tr>        <tr>          <td>&nbsp;</td>        </tr>        <tr>          <td style="FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ff6600">Information Collected</td>        </tr>        <tr>          <td style="HEIGHT: 5px"></td>        </tr>        <tr>          <td>You do not have to provide any personal information to use this website. But there are certain services on this website which you may wish to subscribe for (such as news subscriptions) that may require you to provide personally identifiable information, such as your name, mailing address, email address and other contact information. If you decide at any time to discontinue receiving mailings from us, please see the paragraph below headed "Modifying or Deleting Personal Information".                Our web server automatically records certain information incidental to your use of our website, such as the name of your IP address of the computer you are using, the type of browser software and operating system that you use, and other similar information. Information regarding your and other visitors' traffic patterns may be aggregated to compile a web transaction report to show various web traffic-related information </td>        </tr>        <tr>          <td>&nbsp;</td>        </tr>        <tr>          <td>            <table cellspacing="0" cellpadding="0" width="100%" border="0">              <tbody>                <tr>                  <td>                    <span style="FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ff6600">                      <font color="#5b5b5c">                        <font color="#ff8000">Use of Information Collected</font> </font>                    </span> </td>                </tr>                <tr>                  <td style="HEIGHT: 5px"></td>                </tr>                <tr>                  <td>The personal information collected is used to respond to your inquiries and to send you newsletters that you request. The information collected is also used to help us to maintain and/or upgrade the quality of our website and the services that we provide on the website. We will not disclose, sell or provide such information to unaffiliated third parties; however, we may provide such information to our subsidiaries.                    We reserve the right to provide such information to our officers, employees, contractors, agents, and designees to the extent necessary to enable them to execute certain web services (such as web hosting or maintenance services) for us. We also reserve the right to disclose such information to any third party if we believe that we are required to do so for any or all of the following: (i) by law; (ii) to comply with legal processes or governmental requests; (iii) to prevent, investigate, detect or prosecute criminal offences or attacks on the technical integrity of the web site or our network; and/or (iv) to protect the rights, property, or safety of Yageo, the users of the website, or the public. </td>                </tr>                <tr>                  <td>&nbsp;</td>                </tr>                <tr>                  <td style="FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ff6600">Use of Cookies</td>                </tr>                <tr>                  <td style="HEIGHT: 5px"></td>                </tr>                <tr>                  <td>When you  view our website, we may store some data on your computer in the form of a  "cookie" to automatically recognize your PC next time you visit.  Cookies can help us in many ways, for example, by allowing us to tailor a website  to better match your interests or to store your password to save you having to  re-enter it each time. If you do not wish to receive cookies, please configure  your Internet browser to erase all cookies from your computer's hard drive,  block all cookies or to receive a warning before a cookie is stored.</td>                </tr>                <tr>                  <td>&nbsp;</td>                </tr>                <tr>                  <td style="FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ff6600">Modifying or Deleting Your Personal Information</td>                </tr>                <tr>                  <td style="HEIGHT: 5px"></td>                </tr>                <tr>                  <td>If you  wish to modify your personal information, or if you wish to discontinue  receiving materials from us or wish to remove your personal information from Yageo's  database, you can contact us at <img src="../../exep/pages/images/clip_image001.gif" alt="" width="17" height="12"><a href="mailto:marcom@yageo.com">marcom@yageo.com</a></td>                </tr>                <tr>                  <td>&nbsp;</td>                </tr>                <tr>                  <td style="FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ff6600">Consent to Our Privacy Policy </td>                </tr>                <tr>                  <td style="HEIGHT: 5px"></td>                </tr>                <tr>                  <td>Your use of our website constitutes your acceptance of the terms of this Privacy Policy as amended or revised by us, and you should therefore review this Privacy Policy regularly to ensure that you know of its terms.</td>                </tr>                <tr>                  <td>&nbsp;</td>                </tr>              </tbody>            </table>          </td>        </tr>      </tbody>    </table>
+
+
+
+
+	
+
+				</td>
+			</tr></tbody></table>
+		</td>
+	</tr>
+	</tbody></table>   
+  
+ 
+<!--footer-->
+
+﻿
+
+
+
+<div class="footer" id="footerBar">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td colspan="13" valign="top" height="4" style="background-image:url(../../exep/pages/images/line02.jpg); background-position:center; background-repeat:repeat-x;"></td>
+    </tr>
+
+    <!-- localization:footermenuword --><tr>
+      <td width="15%"><img src="../../exep/pages/images/footericon.jpg" alt="" width="141" height="35"></td>
+      <td width="8%" align="center"><a href="#">
+        </a><div><a href="#"></a><a href="/portal/contact_us/contact.jsp?menuid=811&amp;SWITCH_CATEGORY=/contact_us/Yageo Offices" style="color:#3a3939;">Contact Us</a></div><!--Contact Us-->
+      </td>
+      <td width="1%" align="center"><img src="../../exep/pages/images/line03.jpg" alt="" width="1" height="11"></td>
+      <td width="6%" align="center"><a href="#">
+        </a><div><a href="#"></a><a href="/portal/contact_us/contact.jsp?menuid=831&amp;SWITCH_CATEGORY=/contact_us/Feedback" style="color:#3a3939;">Feedback</a></div><!--Feedback-->
+      </td>
+      <td width="1%" align="center"><img src="../../exep/pages/images/line03.jpg" alt="" width="1" height="11"></td>
+      <td width="9%" align="center"><a href="#">
+        </a><div><a href="#"></a><a href="/portal/privacy_policy/privacy.jsp?menuid=921&amp;SWITCH_CATEGORY=/privacy_policy/Terms of Use" style="color:#3a3939;">Terms of Use </a></div><!--Terms of Use-->
+      </td>
+      <td width="1%" align="center"><img src="../../exep/pages/images/line03.jpg" alt="" width="1" height="11"></td>
+      <td width="7%" align="center"><a href="#">
+        </a><div><a href="#"></a><a href="/portal/sitemap/Sitemap.jsp" style="color:#3a3939;">Site Map</a></div><!--Site Map-->
+      </td>
+      <td width="1%" align="center"><img src="../../exep/pages/images/line03.jpg" alt="" width="1" height="11"></td>
+      <td width="9%" align="center">
+        <div><a href="/portal/privacy_policy/privacy.jsp?menuid=911&amp;SWITCH_CATEGORY=/privacy_policy/Privacy Policy" style="color:#3a3939;">Privacy Policy</a></div><!--Privacy Policy-->
+      </td>
+      <td width="1%" align="center"><img src="../../exep/pages/images/line03.jpg" alt="" width="1" height="11"></td>
+      <td width="10%" align="center">
+      	<!--Cross-->
+        <div><a href="/portal/product/product.jsp?NEXT_PAGE=/product/crossReferenceSearch.jsp&amp;SWITCH_CATEGORY=/product/Search Product/Cross Reference Search" style="color:#3a3939;">Cross Reference</a></div>
+        <!--<div><a href="javascript:openCross();" style="color:#3a3939;">Cross Reference</a></div>-->
+      </td>
+      <td width="32%" align="right">Copyright © 2010 YAGEO Corporation   All Rights Reserved</td><!--Copyright © 2010 YAGEO Co., Ltd. All Rights Reserved-->
+    </tr>
+  </tbody></table><!-- localization:footermenuword end-->
+</div>
+
+ 
+
+</div>
+
+
+  
+
+
+</body></html>
