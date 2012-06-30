@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202183423id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630164427id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # SmileyTraffic #1 Rated Traffic Exchange For Signups To Your Pages!
 
@@ -13,29 +13,34 @@
 
 Member Earnings  
 Since 03-22-04  
-**$92,929.25**  
+**$105,102.17**  
 
 
 **_Live Site Stats_**
 
 **Total Members:  
-106385**
+121032**
 
 **New  
 Members Last  
 7 Days:  
-291**
+528**
 
 **New  
 Members Last  
 30 Days:  
-1598**
+2523**
+
+  
+
+
+[](http://www.ptcbox.com/?rid=6576)
 
 We Are A  
 NetWork  
 Partner and  
-Founding Member Of  
-[](http://xtreamarketing.com/xtreamsmiley.html#smiley)
+Founding Member Of   
+[ ](http://xtreamarketing.com/xtreamsmiley.html#smiley)
 
 |  Personal Information  
 Is NEVER EVER given out to anyone, this is collected to set up your account and for payment or contact with Smileytraffic.com.
