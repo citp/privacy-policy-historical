@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224059id_/http%3A//www.sportssignup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235622id_/http%3A//www.sportssignup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SportsSignup Privacy Policy
 
@@ -59,7 +59,7 @@ Trustwave's Trusted Commercesm designation indicates that SportsSignup protects 
 
 #### Social Security Numbers
 
-SportsSignup provides a service, called **KidSafe** _Plus_ ®, to help manage the background check process for Customer’s volunteers.  While it is understandable that consumers are reluctant to disclose their Social Security Number, it is a crucial piece of information to help ensure the name being provided will match potential criminal records.  Social Security numbers are captured as part of a volunteer's profile, and passed on to LexisNexis® (via secure communications), who performs the background check.  The Social Security numbers are deleted from the SportsSignup system once the results are returned from LexisNexis (often minutes after the user supplies the information).
+SportsSignup provides a service, called **KidSafe** _Plus_ ®, to help manage the background check process for Customer’s volunteers.  While it is understandable that consumers are reluctant to disclose their Social Security Number, it is a crucial piece of information to help ensure the name being provided will match potential criminal records.  Social Security numbers are captured as part of a volunteer's profile, and passed on to our background check partner (via secure communications), who performs the background check.  The Social Security numbers are deleted from the SportsSignup system once the results are returned (often minutes after the user supplies the information).
 
 #### **Testimonials**
 
@@ -93,3 +93,6 @@ League Sports Services, LLC (dba SportsSignup)
 Saratoga Springs, NY 12866
 
 This Privacy Policy was last updated on **July 7, 2011**
+
+  
+
