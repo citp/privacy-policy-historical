@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the beirut.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120249id_/http%3A//www.beirut.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beirut.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630180127id_/http%3A//www.beirut.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: Beirut.com :: Beirut City Guide
+# Beirut.com Privacy Policy :: Beirut.com :: Beirut City Guide
 
-When you use Beirut.com, we may do the following: 
+When you use Beirut.com, we may do the following:
 
 1\. Collect personally identifiable and demographic information about you.
 
 2\. Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for our services, then your credit card information will be encrypted using SSL technology. However, we will not store your credit card on our servers.
 
-3\. Give you access to review and edit your personal and demographic information while it is in our possession. 
+3\. Give you access to review and edit your personal and demographic information while it is in our possession.
 
 4\. Send you service announcements notifying you of any new products or updates to the service. We may use your alternate E-mail address and home address to ensure that you receive important information about your account or information you have requested.
 
 5\. Give you the choice of "opting in" to receive third party mailings.
 
-6\. Make it easy for you to unsubscribe from any Beirut.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us unless it is vital to the operation of your account). 
+6\. Make it easy for you to unsubscribe from any Beirut.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us unless it is vital to the operation of your account).
 
-When you use Beirut.com, we 
+When you use Beirut.com, we will not do the following:
 
-_will not_
-
-do the following:
-
-1\. Send you unsolicited commercial e-mail (SPAM). 
+1\. Send you unsolicited commercial e-mail (SPAM).
 
 2\. Without your explicit permission,
 
-a. Share your personal information or demographic data   
-b. Give anyone access to your e-mail. 
+a. Share your personal information or demographic data  
+b. Give anyone access to your e-mail.
 
 3\. Share any data with outside parties that would identify a specific user.
 
@@ -39,10 +35,6 @@ b. Give anyone access to your e-mail.
 
 A general note about Facebook Connect:
 
-When you login to Beirut.com using Facebook Connect, we retrieve your Facebook user ID. With this user ID, we can retrieve your current profile picture and your display name. We will also link to your Facebook profile from Beirut.com. Your Facebook profile page may or may not be visible depending on how you have your Facebook privacy settings setup. 
-
-_We do not store personal details_
-
-about your profile and/or your friends network such as passwords, email addresses, locations, etc.
+When you login to Beirut.com using Facebook Connect, we retrieve your Facebook user ID. With this user ID, we can retrieve your current profile picture and your display name. We will also link to your Facebook profile from Beirut.com. Your Facebook profile page may or may not be visible depending on how you have your Facebook privacy settings setup. We do not store personal details about your profile and/or your friends network such as passwords, email addresses, locations, etc.
 
 For any questions or comments concerning Beirut.com's privacy policy, please write to support at beirut.com.
