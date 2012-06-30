@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213204id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112615id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
 
 # SalesVantage.com Privacy Policy Statement
 
@@ -43,6 +43,8 @@ Policy effective date: July 15, 2003; updated September 18, 2006; updated Februa
 * * *
 
 Copyright © 2000 - 2008 SalesVantage.com, Inc. All rights reserved. 
+
+#### [](http://plus.google.com/b/111268121882645423903/)
 
 #### Sales & Marketing Articles 4U
 
