@@ -1,1290 +1,586 @@
-<!--The following is the downloaded HTML source of the salon.com privacy policy that was archived on 2011-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110617063037id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salon.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630214607id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>Salon: Salon Policy</title>
-	
-	<link rel="stylesheet" type="text/css" href="/css/960.css?20091123">
-<link rel="stylesheet" type="text/css" href="/css/header_body_footer.css?20100222">
-<link rel="stylesheet" type="text/css" href="/css/static.css?20091123">
-<link rel="stylesheet" type="text/css" href="/css/topic_widgets.css?20091123">
-   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/prototype.js?20091123"></script>
-   <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/scriptaculous.js?20091123"></script>
-   <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/tracking.js?20100226"></script>
-   <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/effects.js?20091123"></script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="yui3-js-enabled webkit chrome secure"><head profile="http://gmpg.org/xfn/11">
+<title>  Privacy Policy - Salon.com</title>
 
-	<script type="text/javascript">
-		var adArray = new Array();
-	</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=0.3">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-   <script>
-     var showSiteMap = true;
-     function toggleMenu() {
-       if (showSiteMap) {
-         Element.toggleClassName($('sitemap-button'), 'open');
-         Element.toggleClassName($('sitemap-button'), 'closed');
-         Effect.BlindDown('sitemap-top', {duration: 0.5});
-         showSiteMap = false;
-       } else {
-         Element.toggleClassName($('sitemap-button'), 'closed');
-         Element.toggleClassName($('sitemap-button'), 'open');
-         Effect.BlindUp('sitemap-top', {duration: 0.5});
-         showSiteMap = true;
-       }
-	return false;
-    }
-    
-function toggleMostTab(tab) {
+    <!-- Meta Info from Old Site -->
+    <meta name="title" content="Privacy Policy - Salon.com">
+<meta name="description" content="Salon, the award-winning online news and entertainment Web site, combines original investigative stories, breaking news, provocative personal essays and highly respected criticism along with popular staff-written blogs about politics, technology and culture.">
+<meta name="keywords" content="About Salon.com, Privacy Policy">
+<link rel="canonical" href="http://www.salon.com/about/policy/">
 
-	/* this is sad, but couldn't make an optimized version work. This'll do. - CW */
-	/* this is also redundant to something in /mc/cover/html_head.mc */
-
-	if (tab == 'read') {
-		$('most_letters').hide();
-		$('most_letters_tab').className = '';
-		$('most_emailed').hide();
-		$('most_emailed_tab').className = '';
-		$('most_read').show();
-		$('most_read_tab').className = 'here';
-	}
-	else if (tab == 'letters') {
-		$('most_read').hide();
-		$('most_read_tab').className = '';
-		$('most_emailed').hide();
-		$('most_emailed_tab').className = '';
-		$('most_letters').show();
-		$('most_letters_tab').className = 'here';
-	}
-	else {
-		$('most_letters').hide();
-		$('most_letters_tab').className = '';
-		$('most_read').hide();
-		$('most_read_tab').className = '';
-		$('most_emailed').show();
-		$('most_emailed_tab').className = 'here';
-	}
-}
-
-function SalonScroller() { 
-     
-}  
-
-SalonScroller.ad_x10_top = null;
-SalonScroller.ad_x10_bottom = null;
-
-SalonScroller.prototype.adjust = function() { 
-  try {
-    if ($('ad_x10_anchor') == null) { 
-        try {
-            var x10a = new Element('div', {id:'ad_x10_anchor'});
-            x10a.insert(" ");
-            var x10 = $('ad_x10');
-            x10.insert({before: x10a});
-            x10.style.zIndex = 0;
-        } catch (e) { 
-            return false;
-        } 
-    } 
-    SalonScroller.ad_x10_top = $('ad_x10_anchor').cumulativeOffset()['top'] - 10;
-    SalonScroller.ad_x10_bottom = $('sitemap-bottom').cumulativeOffset()['top'] - ($('ad_x10').getHeight() + 30);
-    var x10a = $('ad_x10_anchor'); 
-    var x10 = $('ad_x10');
-    var slide = document.viewport.getScrollOffsets();
-    if (slide['top'] >= SalonScroller.ad_x10_top 
-        && slide['top'] <= SalonScroller.ad_x10_bottom ) {
-            x10.style.position = 'fixed';
-            x10.style.top = '10px';
-            x10.style.left = (x10a.cumulativeOffset()['left'] - slide['left']) + 'px';
-    } else if (slide['top'] < SalonScroller.ad_x10_top ) { 
-        x10.style.position = x10a.style.position;
-        x10.clonePosition(x10a, {setWidth: false, setHeight: false});
-    } else if (slide['top'] > SalonScroller.ad_x10_bottom ) { 
-        x10.style.position = x10a.style.position;
-        x10.clonePosition(x10a, {setWidth: false, setHeight: false, offsetTop: SalonScroller.ad_x10_bottom - SalonScroller.ad_x10_top});
-    }
-  } catch (e) { } 
-}
-
- 
-var salonScroller = new SalonScroller();
-
-Event.observe(window, "scroll", salonScroller.adjust);
-Event.observe(window, "resize", salonScroller.adjust);
-document.observe("dom:loaded", function() { 
-	SalonScroller.ad_x10_left = $('ad_x10').positionedOffset()[0];
-	SalonScroller.ad_x10_top = $('ad_x10').positionedOffset()[1];
-	$('comicsImage').addClassName('storyImage');
-});
+<meta property="og:title" content="Privacy Policy - Salon.com">
+<meta property="og:url" content="http://www.salon.com/about/policy/">
+<meta property="og:image" content="http://www.salon.com/content/themes/salon/images/ui/ID_salonTile.gif">
+<meta property="og:description" content="Salon, the award-winning online news and entertainment Web site, combines original investigative stories, breaking news, provocative personal essays and highly respected criticism along with popular staff-written blogs about politics, technology and culture.">
+<meta property="og:type" content="article">
+<meta property="fb:admins" content="21500228">
+<meta property="fb:app_id" content="114477658586677">
 
 
-   </script>
-
-	<script type="text/javascript">
-	<!--
-		//configuration
-		OAS_location = 'http://www.salon.com/RealMedia/ads/';
-		OAS_sitepage = 'www.salonmagazine.com/news/content/large.html';
-		OAS_listpos = 'Top,Frame1,Frame2,x10,x12,x45,Right,Bottom,Bottom1,Position1,Position2';
-		OAS_query = '';
-		OAS_target = '_top';
-		//end of configuration
-		OAS_version = 10;
-		OAS_rn = '001234567890'; OAS_rns = '1234567890';
-		OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-		oz_api_key = 'KSN7-G95ZM3FD';
-		oz_api = 'insight';
-		oz_ad_server = 'oas';
-		oz_callback = 'OAS_Rubicon';
-
-        function OAS_Rubicon(insight) {
-          var bt_segments = { 
-			  'age_group' : 'a',
-			  'behavior' : 'b',
-			  'ethnicity' : 'e',
-			  'gender' : 'g',
-			  'income' : 'i',
-			  'marital' : 's',
-			  'neighborhood' : 'n',
-			  'persona' : 'p',
-			  'in_market' : 'im'};
-          var bt_data = [];
-          try {
-            if (typeof insight != 'undefined' && insight) {
-              for (name in insight) {
-				var value;
-				var list;
-                if (!insight.hasOwnProperty(name)) 
-                  continue;
-				list = insight[name];
-				if (typeof insight[name] != 'object' ){
-					list = new Array();
-					list[list.length] = insight[name];
-				}
-				for (var i = 0; i < list.length; i++) {
-                  value = new String(list[i]);
-				  if (value.length > 0) {
-                    value = value.replace(/\s/g, '+');
-                    value = value.replace(/&/g, '%26');
-                    bt_data.push(bt_segments[name] + '=' + value);
-				  }
-				}
-              }
-            }
-            if (bt_data.length > 0) {
-              if (OAS_query)
-                OAS_query += '&';
-              OAS_query += bt_data.join('&');
-            }
-            return OAS_query;
-          } catch (e) {
-            return;
-          }
-        }
-	//-->
-	</script>
-    <script type="text/javascript" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/dorothy.js"></script>
+    <link rel="index" title="Salon.com" href="http://www.salon.com/">
+    <link rel="alternate" type="application/rss+xml" title="Salon.com RSS Feed" href="http://www.salon.com/feed/">
+    <link rel="pingback" href="http://www.salon.com/xmlrpc.php">
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.salon.com/xmlrpc.php?rsd">
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.salon.com/wp-includes/wlwmanifest.xml">
+    <!-- End Meta Info from Old Site -->
 
 
-	<script type="text/javascript">
-	<!--
-		document.write('<div id="topleft" class="ad_content" style="height:0px;">');
-	//-->
-	</script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></head><body id="static"><div id="topleft" class="ad_content" style="height:0px;">
-	<script type="text/javascript">
-	<!--
-		document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_location + 'adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@TopLeft"><'+'/script>');
-	//-->
-	</script><script type="text/javascript" src="http://www.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/news/content/large.html/1393567309@TopLeft"></script>
-	<script type="text/javascript">
-	<!--
-		document.write('<'+'/div>');
-	//-->
-	</script></div>
+    <link rel="stylesheet" href="/combo/css?fonts/Didot/didot.css&amp;typography.css&amp;resets.css&amp;mainNav.css&amp;top-bar.css&amp;left-sidebars.css&amp;right-sidebars.css&amp;style.css&amp;grid.css&amp;ver=34"><script type="text/javascript" src="/combo/js?yui/yui-min.js&amp;oop/oop-min.js&amp;event-custom-base/event-custom-base-min.js&amp;dom-core/dom-core-min.js&amp;dom-base/dom-base-min.js&amp;selector-native/selector-native-min.js&amp;selector/selector-min.js&amp;node-core/node-core-min.js&amp;node-base/node-base-min.js&amp;event-base/event-base-min.js&amp;event-base-ie/event-base-ie-min.js&amp;dom-style-ie/dom-style-ie-min.js&amp;event-delegate/event-delegate-min.js&amp;node-event-delegate/node-event-delegate-min.js&amp;pluginhost-base/pluginhost-base-min.js&amp;pluginhost-config/pluginhost-config-min.js&amp;node-pluginhost/node-pluginhost-min.js&amp;dom-style/dom-style-min.js&amp;dom-screen/dom-screen-min.js&amp;node-screen/node-screen-min.js&amp;node-style/node-style-min.js&amp;cookie/cookie-min.js&amp;event-custom-complex/event-custom-complex-min.js&amp;intl/intl-min.js&amp;slnm/utils/set-browser-css.js&amp;plugins/salon-login/js/salon-user.js&amp;slnm/apps/salon-ads.js&amp;slnm/slnm.js&amp;slnm/modules/salon-modules.js&amp;ver=34"></script><script id="yui_3_4_1_2_1580478057803_2" type="text/javascript" src="https://web.archive.org/web/20120702024900/https://sb.scorecardresearch.com/beacon.js" charset="utf-8"></script>
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
+<link id="yui_3_4_1_13_1580478057803_11" type="text/css" rel="stylesheet" href="https://www.salon.com/combo/css?themes/salon/css/share-buttons.css" charset="utf-8"><script id="yui_3_4_1_13_1580478057803_12" type="text/javascript" src="https://www.salon.com/combo/js?ver=34&amp;transition/transition-min.js&amp;event-synthetic/event-synthetic-min.js&amp;event-mousewheel/event-mousewheel-min.js&amp;event-mouseenter/event-mouseenter-min.js&amp;event-key/event-key-min.js&amp;event-focus/event-focus-min.js&amp;event-resize/event-resize-min.js&amp;event-hover/event-hover-min.js&amp;event-outside/event-outside-min.js&amp;themes/salon/js/slnm/apps/top-bar.js&amp;themes/salon/js/slnm/utils/login-logout.js&amp;json-parse/json-parse-min.js&amp;json-stringify/json-stringify-min.js&amp;themes/salon/js/slnm/utils/ga-tracking-setup.js&amp;themes/salon/js/slnm/utils/ga-track-link-event.js&amp;jsonp/jsonp-min.js&amp;themes/salon/js/slnm/apps/share-buttons.js&amp;themes/salon/js/slnm/utils/disable-on-submit.js&amp;themes/salon/js/slnm/utils/scroll-to-hash.js" charset="utf-8"></script></head>
+<body>
 
-	<script type="text/javascript">
-	<!--
-    function OAS_urlgen(pos) { 
-        return OAS_sitepage 
-            + '/1' + OAS_rns 
-            + '@' + (pos ? pos + '!' + pos : OAS_listpos ) 
-            + '?' + OAS_query
-            ;
-    }
+<div data-position-name="TopLeft" class="adPosition hide TopLeft" style="display: block; width: 1366px; height: 0px;"></div><div class="topAdWrapper" xmlns="http://www.w3.org/1999/html">
+    </div>
+<div class="topBarWrapper">
+    <aside class="topBar">
 
-    var ad_replacers = {
-                        Top   : 'Top1',
-                        Right : 'Right1',
-						Frame2 : 'Frame2',
-                        x10   : 'x11',
-                        Position2 : 'Position2'
-                       };
+        <div class="container_12">
+            <p class="homeWrapper">
+                <a href="http://www.salon.com" class="home" title="Home page">Go to home page</a>
+            </p>
 
-    function OAS_refresh(pos) { 
-        var newPos = ad_replacers[pos];
-        if (newPos == null) return false;
-        var newAd_url = '/RealMedia/ads/adstream_sx.ads/' + OAS_urlgen(newPos);
-        if (newPos == pos) {
-            var newAd = new Ajax.Updater('ad_' + newPos, newAd_url);
-        } else { 
-            var oldFrameAd = $('ad_' + newPos);
-            if (oldFrameAd != null) oldFrameAd.remove;
-            var newAd = new Element('IFRAME', {
-                src: newAd_url, 
-                id: 'ad_' + newPos, 
-                'class': 'ad_content',
-                scrolling: 'no',
-                frameborder: 'no',
-                marginheight: '0px',
-                marginwidth: '0px',
-                allowtransparency: 'true'
-                }); 
-            $('ad_' + pos).update(newAd);
-            $('ad_' + newPos).display = 'inline';
-        }
-        return(pos + ' refreshed');
-    }
+            <!-- Default State -->
+            <a href="#" class="salonLogin register">Register</a>
+            <a href="#" class="salonLogin signIn"> Sign in</a>
 
-    function OAS_NORMAL(pos) {
-        document.write('<a href="' + OAS_location + 'click_nx.cgi/' + OAS_url(pos) + '" target=' + OAS_target + '>');
-        document.write('<img src="' + OAS_location + 'adstream_nx.cgi/' + OAS_url(pos) + '" border="0"><'+'/a>');
-    }
+            <!-- Logged in State -->
+            <span class="salonUserName no-write hide">Welcome, </span>
+            <span class="salonUserName hide"></span>
+            <a href="#" class="salonLogout hide">Logout</a>
 
-	//-->
-	</script>
-
-	<script type="text/javascript">
-	<!--
-		OAS_version = 11;
-		if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
-			OAS_version = 10;
-		if (OAS_version >= 11)
-			document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_location + 'adstream_mjx.ads/' + OAS_urlgen('') + '"><'+'/script>');
-	//-->
-	</script><script type="text/javascript" src="http://www.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/news/content/large.html/1393567309@Top,Frame1,Frame2,x10,x12,x45,Right,Bottom,Bottom1,Position1,Position2?"></script>
-
-	<script type="text/javascript">
-	<!--
-		document.write('');
-		var ads_called = new Array();
-		function OAS_AD(pos) {
-			ads_called.push(pos);
-			if (OAS_version >= 11) {
-				OAS_RICH(pos);
-			} else {
-				OAS_NORMAL(pos);
-			}
-		}
-	//-->
-	</script>
-
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1232497-1']);
-  _gaq.push(['_setDomainName', '.salon.com']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<script type="text/javascript">
-    var _sf_startpt=(new Date()).getTime();
-    var _sf_async_config={uid:1614,domain:document.location.host};
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-       "js/chartbeat.js");
-    document.head.appendChild(e);
-</script>
-
-	
-
-
-	
-	<div id="header" class="clearfix">
-  <div id="masthead" class="container_12 clearfix">
-  <a title="Salon" href="/" id="logo"><img src="http://images.salon.com/img/new/ID_salon.gif" alt="Salon" border="0"></a>
-    <div id="topbar" class="clearfix">
-      <div id="leftlinks">
-        <ul class="dropdowns">
-          <li>
-            <a href="#" class="drops" id="link_one" onclick="return false;">Hot Topics</a>
-            <ul id="box_ongoing" class="scriptaculously" style="display:none;">
-              
-	<li><a href="/books/nonfiction/index.html">Nonfiction</a></li>
-	<li><a href="/life/imprint/index.html">Imprint</a></li>
-	<li><a href="/life/fathers_day/index.html">Father's Day</a></li>
-	<li><a href="/life/mortifying_disclosures/index.html">Mortifying Disclosures</a></li>
-	<li><a href="/entertainment/tv/pop_five/index.html">Pop five</a></li>
-	<li><a href="/news/media_criticism/index.html">Media Criticism</a></li>
-	<li><a href="/news/wikileaks/index.html">WikiLeaks</a></li>
-	<li><a href="/entertainment/comics/green_lantern/index.html">Green Lantern</a></li>
-	<li><a href="/news/africa/index.html">Africa</a></li>
-	<li><a href="/news/john_boehner/index.html">John Boehner, R-Ohio</a></li>
-
-
-
-
-            </ul>
-          </li>
-          <li>
-            <a href="#" class="drops" id="link_two" onclick="return false;">Most Read</a>
-            <ul id="box_popular" class="scriptaculously" style="display:none;">
-              	<li><a href="&#10;/life/mortifying_disclosures/index.html?story=/mwt/feature/2011/06/15/father_birthday_disaster_open2011&#10;&#10;&#10;">I pulled a Playboy Bunny stunt on my dad</a></li>
-	<li><a href="&#10;/news/opinion/glenn_greenwald/2011/06/16/weiner&#10;&#10;&#10;">The Weiner resignation: our political system in a nutshell</a></li>
-	<li><a href="&#10;/life/body_wars/index.html?story=/ent/tv/feature/2011/06/16/yoplait_light_pulls_eating_disorder_ad&#10;&#10;&#10;">Yoplait's dangerous eating disorder ad</a></li>
-	<li><a href="&#10;/news/2012_elections/index.html?story=/opinion/walsh/politics/2011/06/15/mirage_of_the_obama_coalition&#10;&#10;&#10;">The mirage of the Obama coalition</a></li>
-	<li><a href="&#10;/news/the_labor_movement/index.html?story=/politics/war_room/2011/06/16/target_anti_union_ad_starring_union_member&#10;&#10;&#10;">Union actor from anti-union video speaks out</a></li>
-	<li><a href="&#10;/news/libertarianism/index.html?story=/tech/htww/2011/06/15/why_do_liberals_hate_freedom&#10;&#10;&#10;">Why do liberals hate freedom so much?</a></li>
-	<li><a href="&#10;/news/anthony_weiner_dny/index.html?story=/politics/war_room/2011/06/16/weiner_resignation&#10;&#10;&#10;">The rapid rise and spectacular fall of Anthony Weiner</a></li>
-	<li><a href="&#10;/news/2012_elections/index.html?story=/politics/war_room/2011/06/15/bachmann_chances_winning&#10;&#10;&#10;">Just how high can Michele Bachmann fly?</a></li>
-	<li><a href="&#10;/news/politics/rush_limbaugh/index.html?story=/politics/war_room/2011/06/16/pay_play_rush&#10;&#10;&#10;">The conservative movement is an elaborate moneymaking venture</a></li>
-	<li><a href="&#10;/news/libya/index.html?story=/opinion/greenwald/radio/2011/06/15/sherman&#10;&#10;&#10;">Rep. Brad Sherman on the illegality of the Libyan War</a></li>
-
-
-
-            </ul>
-          </li>
-          <li>
-            <a href="/all_salon/">All Salon</a>
-          </li>
-          <li>
-            <span id="alert_box" style="display: none;" onclick="setCookie('SALON_TOOLTIP','true',30); $('alert_message').toggle();">
-              <strong id="alert_message"></strong>
+            <ul class="rightMenu">
+                <li>
+                            <a data-service="twitterFollowers" data-screen-name="salon" href="http://www.twitter.com/salon" data-share-url="http://www.twitter.com/salon" data-thumbnail="" class="shareButton twitterFollowers count">
+            <span class="shareButtonBox">
+                <span class="shareIcon"></span>
             </span>
-            <a href="/wires/">From the Wires</a>
-          </li>
-        </ul>
-      </div>
-      <div id="login">
-        <script type="text/javascript"><!--
-function getCookie(c_name) {
-  if (document.cookie.length>0) {
-    c_start=document.cookie.indexOf(c_name + "=");
-    if (c_start!=-1) {
-      c_start=c_start + c_name.length+1;
-      c_end=document.cookie.indexOf(";",c_start);
-      if (c_end==-1) c_end=document.cookie.length;
-      return unescape(document.cookie.substring(c_start,c_end));
-    }
-  }
-  return "";
-}
-
-function checkCookie(c_name) {
-  myCookie=getCookie(c_name);
-  if (myCookie!=null && myCookie!="") {
-    return true;
-  }
-  return false;
-}
-
-function setCookie(c_name,value,expiredays) {
-  var exdate=new Date();
-  exdate.setDate(exdate.getDate()+expiredays);
-  document.cookie=c_name+ "=" +escape(value)+ ";domain=salon.com;path=/"+
-  ((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
-}
-
-function showAlert(message,pos_x,pos_y) {
-  $('alert_box').style.top = pos_y;
-  $('alert_box').style.left = pos_x;
-  $('alert_message').innerHTML = message;
-  $('alert_box').toggle();
-  return true;
-} 
-
-setCookie('SALON_SERVER','betaweb01',-1);
-setCookie('SALON_BETA','true',-1);
-//-->
-      </script>
-      <ul id="welcome_bar" class="dropdowns">
-        <li><a href="https://sub.salon.com/">Support Us</a></li>
-        <li><a id="login_link" href="/login/">Log in</a></li>
-        <li><a id="welcome_link" href="/help/feedback.html">Welcome, Tell us what you think »</a></li>				
-      </ul>
-    </div>
-  </div>
-		<div id="middlebar">
-			<div class="ad_content" id="site_sponsor">
-				<script type="text/javascript">
-				   OAS_AD('Frame1');
-				</script>
-			</div>
-            <div class="ad_content " id="ad_Position1">
-	<script type="text/javascript"> <!--
-		OAS_AD('Position1');
-		// -->
-	</script>
-</div>
-
-
-
-			<div id="search">
-                <form onsubmit="if(document.getElementById('search_top').value == document.getElementById('search_top').defaultValue) { this.search.focus(); return false; }" method="get" action="http://search.salon.com/salonsearch.php" id="search_form" name="search_form">
-					<input type="hidden" id="salon_radio" value="salon" name="breadth">
-					<input type="search" class="text" onblur="if (this.value == &quot;&quot;) this.value = this.defaultValue;" onfocus="if (this.value == this.defaultValue) this.value=&quot;&quot;;" value="Search" id="search_top" name="search">
-					<input type="submit" class="submit" value="Go">
-		        </form>
-			</div>
-		</div>
-		<div id="navwrap">
-		
-<div id="nav" class="clearfix">
-	<ul id="nav1">
-		<li><a id="nav_home" class="home" href="/">Salon</a></li>
-		<li><a id="nav_news" class="news" href="/news/">News</a></li>
-		<li><a id="nav_tech" class="tech" href="/technology/">Tech &amp; Biz</a></li>
-		<li><a id="nav_mwt" class="mwt" href="/life/">Life</a></li>
-		<li><a id="nav_movies" class="movies" href="/movies/">Movies</a></li>
-		<li><a id="nav_tv" class="tv" href="/tv/">TV</a></li>
-		<li><a id="nav_books" class="books" href="/books/">Books</a></li>
-		<li><a id="nav_food" class="food" href="/food/">Food</a></li>
-		<li><a id="nav_comics" class="comics" href="/comics/">Comics</a></li>
-		<li><a id="nav_store" class="store" href="http://store.salon.com/">Store</a></li>
-		<li id="expand_tab"><a href="#" id="sitemap-button" class="closed" onclick="return toggleMenu();">Full Menu</a></li>
-		<li><a id="nav_open" class="opensalon" href="http://open.salon.com/">Open Salon</a></li>
-	</ul>
-	<ul id="nav2" class="clearfix">
-		<li class="top_features"><span>Top Features:</span></li> 
-		<li><a class="war_room" href="/news/politics/war_room/">War Room</a></li>
-		<li><a class="glenn_greenwald" href="/news/opinion/glenn_greenwald/">Glenn Greenwald</a></li>
-		<li><a class="joan_walsh" href="/news/opinion/joan_walsh/">Joan Walsh</a></li>
-		<li><a class="ask_the_pilot" href="/technology/ask_the_pilot/">Ask the Pilot</a></li>
-		<li><a class="since_you_asked" href="/life/since_you_asked/">Since You Asked</a></li>
-		<li class="follow">
-			<ul class="clearfix">
-				<li class="label">Follow Salon:</li>
-				<li class="follow_twitter"><a href="http://twitter.com/salon"><img alt="Follow Salon on Twitter" src="http://images.salon.com/img/ui/twitter_icon.png"></a></li>
-				<li class="follow_facebook"><a href="http://www.facebook.com/pages/Salon/120680396518"><img alt="Follow Salon on Facebook" src="http://images.salon.com/img/ui/facebook.gif"></a></li>
-							</ul>
-		</li>
-	</ul>
-
-
-</div>
-
-		</div>
-
-    </div>
-
-	</div>
-
-<script type="text/javascript">
-<!--
-if ( !checkCookie('SALON_TOOLTIP') ) {
-var left = -74;
-}
-//-->
-</script>
-<div class="sitemap_wrap">
-<div class="clearfix sitemap" id="sitemap-top" style="display: none">
-	<ul class="site-map-sections clearfix container_12">
-		<li class="grid_2">
-			<span class="title"><a href="/news/">News</a></span>
-			<ul>
-				<li><a href="/news/politics/war_room/">War Room</a></li>
-				<li><a href="/news/opinion/joan_walsh/">Joan Walsh</a></li>
-				<li><a href="/news/opinion/glenn_greenwald/">Glenn Greenwald</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a href="/technology/">Tech &amp; Biz</a></span>
-			<ul>
-				<li><a href="/technology/how_the_world_works/">How the World Works</a></li>
-				<li><a href="/technology/ask_the_pilot/">Ask the Pilot</a></li>
-				<li><a href="http://techtips.salon.com">Tech Tips</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a href="/life/">Life</a></span>
-			<ul>
-				<li><a href="/life/since_you_asked/">Since You Asked</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a href="/movies/">Movies</a></span>
-			<ul>
-				<li><a href="/entertainment/movies/film_salon/">Film Salon</a></li>
-				<li><a href="/entertainment/movies/andrew_ohehir/">Andrew O'Hehir</a></li>
-				<li><a href="/entertainment/movies/our_picks/">Our Picks</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a href="/tv/">TV</a></span>
-			<ul>
-				<li><a href="/entertainment/tv/our_picks/">Our Picks</a></li>			
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a href="/books/">Books</a></span>
-			<ul>
-				<li><a href="/books/laura_miller/">Laura Miller</a></li>
-				<li><a href="/books/our_picks/">Our Picks</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a href="/food/">Food</a></span>
-			<ul>
-				<li><a href="/food/francis_lam/">Francis Lam</a></li>
-				<li><a href="/food/kitchen_challenge/">Kitchen Challenge</a></li>
-			</ul>
-		</li>	
-	</ul>
-	<ul class="site-map-misc container_12 clearfix">
-		<li class="grid_2">
-			<span class="title"><a href="/comics/">Comics</a></span>
-			<ul>
-				<li><a href="/entertainment/comics/cartoon_saturday/">Cartoon Saturday</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a href="http://store.salon.com/">Salon Store</a></span>
-			<ul>
-				<li><a href="http://store.salon.com/">Product Gallery</a></li>
-				<li><a href="http://store.salon.com/page/about/">About Salon Store</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-            <span class="title">Communities</span>
-            <ul>
-                <li><a href="http://letters.salon.com ">Letters</a></li>
-                <li><a href="http://open.salon.com/">Open Salon</a></li>
-                <li><a href="http://well.com/">The Well</a></li>
-                <li><a href="http://tabletalk.salon.com/">Table Talk</a></li>
+                            <span class="shareCountWrap">
+                    <span class="shareCount"></span>
+                </span>
+                    </a>
+                        </li>
+                <li class="facebookLike count">
+                            <a data-service="facebookLike" href="http://www.facebook.com/salon" data-share-url="http://www.facebook.com/salon" data-thumbnail="" class="shareButton facebookLike count">
+            <span class="shareButtonBox">
+                <span class="shareIcon"></span>
+            </span>
+                            <span class="shareCountWrap">
+                    <span class="shareCount"></span>
+                </span>
+                    </a>
+                        </li>
+                <li class="flyOut hotTopics">
+                    <span class="title">Hot Topics</span>
+                    <ul class="flyOutMenu">
+                        <li>
+                            <div>
+                                <h3>Hot Topics</h3>
+                                <ul>				<li><a href="/topic/supreme_court">Supreme Court</a></li>				<li><a href="/topic/healthcare_reform">Healthcare Reform</a></li>				<li><a href="/topic/from_the_wires">From the Wires</a></li>				<li><a href="/topic/john_roberts">John Roberts</a></li>				<li><a href="/topic/alternet">AlterNet</a></li>				<li><a href="/topic/globalpost">GlobalPost</a></li>				<li><a href="/topic/government">Government</a></li>				<li><a href="/topic/editors_picks">Editor's Picks</a></li>				<li><a href="/topic/movies">Movies</a></li>				<li><a href="/topic/affordable_care_act">Affordable Care Act</a></li></ul>                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="flyOut rss">
+                    <span class="title">RSS</span>
+                    <ul class="flyOutMenu">
+                        <li>
+                            <div>
+                                <h3>RSS Feeds</h3>
+                                <form class="copy-form">
+                                    <a class="shareButton rss" href="http://www.salon.com/feed/">
+                                        <span class="shareIcon"></span>
+                                        Main RSS feed
+                                    </a>
+                                                                    </form>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="flyOut updates">
+                    <span class="title">Updates</span>
+                    <ul class="flyOutMenu">
+                        <li>
+                            <div>
+                                <h3>Get Email Updates</h3>
+                                <form action="https://sub.salon.com/newsletter/subscribe/" method="post">
+                                    <input placeholder="First Name" name="first_name">
+                                    <input placeholder="Last Name" name="last_name">
+                                    <input placeholder="Email Address" name="email">
+                                    <input name="text_html" value="html" type="hidden">
+                                    <input type="submit" value="Get Email Updates">
+                                </form>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="search">
+                    <form action="http://www.google.com/search" target="_blank">
+                        <input name="q" value="site:salon.com" type="hidden">
+                        <input name="q" placeholder="Enter search term">
+                        <input class="override" type="submit" value="search">
+                    </form>
+                </li>
             </ul>
-        </li>
-        <li class="grid_2">
-        	<ul>
-        		<li><a href="/all_salon">All Salon</a></li>
-        		<li><a href="/wires">From the Wires</a></li>
-        		<li><a href="/about/inside_salon/">Inside Salon Blog</a></li>
-        	</ul>
-       	</li>
-		<li class="grid_2">
-			<ul>
-				<li><a href="/about/">About Salon</a></li>
-				<li><a href="/about/staff/">Salon's Staff</a></li>
-				<li><a href="/about/hiring/">Salon Jobs</a></li>
-				<li><a href="/adsales/">Advertise in Salon</a></li>
-				<li><a href="http://www.salon.com/press/">Press Information</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<ul>
-				<li><a href="http://sub.salon.com/">Salon Premium</a></li>
-				<li><a href="http://personals.salon.com/">Salon Personals</a></li>
-				<li><a href="http://letters.salon.com/">Salon Letters</a></li>
-				<li><a href="http://www.salon.com/plus/mobile/">Salon Mobile</a></li>
-				<li><a href="https://sub.salon.com/newsletter/">Salon Newsletter</a></li>
-				<li><a href="http://www.salon.com/plus/rss/">Salon RSS</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<ul>
-				<li><a href="/help/">Contact &amp; Help</a></li>
-				<li><a href="/letters/corrections/">Corrections</a></li>
-				<li><a href="/ir/">Investor Relations</a></li>
-				<li><a href="/about/policy/">Privacy Policy</a></li>
-				<li><a href="/about/tos/">Terms of Service</a></li>
-			</ul>
-		</li>
-	</ul>
+
+        </div>
+
+    </aside>
 </div>
 
-</div>
-<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<script type="text/javascript">
-<!--
-	window.fbAsyncInit = function() {
-		FB.init({
-        appId: '122108051136862',
-        xfbml: true,
-        status: true
-    });
-    JX.Stratcom.invoke("fb_initialized");
-    window.fbInitialized = true;
-}; (function() {
-    var e = document.createElement('script');
-    e.type = 'text/javascript';
-    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-    e.async = true;
-    document.getElementById('fb-root').appendChild(e);
-} ());
-//-->
-</script>
+<div class="container_12 pageWrapper">
 
-		<div id="site_container">
+
+<div class="container_12 masthead">
+
+<div class="grid_6">
+
+    <header class="headContainer">
+
+        <hgroup>
+            <h1 class="logo">
+                <a href="http://www.salon.com">SALON</a>
+            </h1>
+        </hgroup>
+		        <nav>
+			<ul class="mainNav">
+			                <li class="politics flyOut">
+					<a class="section-title" href="http://www.salon.com/category/politics/">Politics</a>
+                    					<ul class="nav first flyOutMenu">
+                        <li>
+                            <div class="container">
+                                <h2>
+                                    politics                                </h2>
+                                								<div class="topics">
+                                    										<a href="http://www.salon.com/topic/elections_2012/">Election 2012</a>
+																			<a href="http://www.salon.com/topic/opening_shot/">Opening Shot</a>
+																			<a href="http://www.salon.com/topic/occupy/">Occupy</a>
+									                                </div>
+																                                <div class="authors">
+                                    <ul>
+                                        										<li><a href="http://www.salon.com/writer/alex_pareene/">Alex Pareene</a></li>
+                                    											<li><a href="http://www.salon.com/writer/andrew_leonard/">Andrew Leonard</a></li>
+                                    											<li><a href="http://www.salon.com/writer/david_sirota/">David Sirota</a></li>
+                                    											<li><a href="http://www.salon.com/writer/glenn_greenwald/">Glenn Greenwald</a></li>
+                                    											<li><a href="http://www.salon.com/writer/irin_carmon/">Irin Carmon</a></li>
+                                    											<li><a href="http://www.salon.com/writer/joan_walsh/">Joan Walsh</a></li>
+                                    											<li><a href="http://www.salon.com/writer/steve_kornacki/">Steve Kornacki</a></li>
+                                    											<li><a href="http://www.salon.com/writer/natasha_lennard/">Natasha Lennard</a></li>
+                                    											<li><a href="http://www.salon.com/writer/alex_seitz_wald/">Alex Seitz-Wald</a></li>
+                                    										</ul>
+                                </div>
+								                            </div>
+                        </li>
+                    </ul>
+                					</li>
+			                <li class="arts flyOut">
+					<a class="section-title" href="http://www.salon.com/category/arts/">Arts</a>
+                    					<ul class="nav first flyOutMenu">
+                        <li>
+                            <div class="container">
+                                <h2>
+                                    arts                                </h2>
+                                								<div class="topics">
+                                    										<a href="http://www.salon.com/topic/books/">Books</a>
+																			<a href="http://www.salon.com/topic/movies/">Movies</a>
+																			<a href="http://www.salon.com/topic/music/">Music</a>
+																			<a href="http://www.salon.com/topic/tv/">TV</a>
+									                                </div>
+																                                <div class="authors">
+                                    <ul>
+                                        										<li><a href="http://www.salon.com/writer/andrew_ohehir/">Andrew O'Hehir</a></li>
+                                    											<li><a href="http://www.salon.com/writer/laura_miller/">Laura Miller</a></li>
+                                    											<li><a href="http://www.salon.com/writer/mary_elizabeth_williams/">Mary Elizabeth Williams</a></li>
+                                    											<li><a href="http://www.salon.com/writer/willa_paskin/">Willa Paskin</a></li>
+                                    										</ul>
+                                </div>
+								                            </div>
+                        </li>
+                    </ul>
+                					</li>
+			                <li class="life flyOut">
+					<a class="section-title" href="http://www.salon.com/category/life/">Life</a>
+                    					<ul class="nav first flyOutMenu">
+                        <li>
+                            <div class="container">
+                                <h2>
+                                    life                                </h2>
+                                								<div class="topics">
+                                    										<a href="http://www.salon.com/topic/dream_city/">Dream City</a>
+																			<a href="http://www.salon.com/topic/life_stories/">Life Stories</a>
+																			<a href="http://www.salon.com/topic/love_and_sex/">Love &amp; Sex</a>
+																			<a href="http://www.salon.com/topic/parenting/">Parenting</a>
+									                                </div>
+																                                <div class="authors">
+                                    <ul>
+                                        										<li><a href="http://www.salon.com/writer/cary_tennis/">Cary Tennis</a></li>
+                                    											<li><a href="http://www.salon.com/writer/mary_elizabeth_williams/">Mary Elizabeth Williams</a></li>
+                                    											<li><a href="http://www.salon.com/writer/tracy_clark_flory/">Tracy Clark-Flory</a></li>
+                                    											<li><a href="http://www.salon.com/writer/will_doig/">Will Doig</a></li>
+                                    										</ul>
+                                </div>
+								                            </div>
+                        </li>
+                    </ul>
+                					</li>
+			                <li class="studio flyOut">
+					<a class="section-title" href="http://www.salon.com/category/studio/">Studio</a>
+                    					<ul class="nav first flyOutMenu">
+                        <li>
+                            <div class="container">
+                                <h2>
+                                    studio                                </h2>
+                                								<div class="topics">
+                                    										<a href="http://www.salon.com/topic/concord_music/">Concord</a>
+																			<a href="http://www.salon.com/topic/in_the_middle/">In the Middle</a>
+																			<a href="http://www.salon.com/topic/oy_vey/">Oy vey!</a>
+																			<a href="http://www.salon.com/topic/quick_hits/">Quick Hits</a>
+																			<a href="http://www.salon.com/topic/seeflik/">SeeFlik</a>
+																			<a href="http://www.salon.com/topic/sundance/">Sundance</a>
+																			<a href="http://www.salon.com/topic/the_art_room/">The Art Room</a>
+									                                </div>
+																                            </div>
+                        </li>
+                    </ul>
+                					</li>
+			                <li class="open salon flyOut">
+					<a class="section-title" href="http://open.salon.com/">Open Salon</a>
+                    				</li>
+						</ul> 
+        </nav>	
+			</header>
+</div>
+
+<div class="mastheadRight">
+    </div>
+
+</div>
+<div class="container_12 pageContents">
+
+    <section class="grid_10 omega push_2 mainContent">
+        <div class="mainInner pages">
+            <div class="topicTop black">
+                <h1 class="topicHead">
+                    Privacy Policy                </h1>
+            </div>
+            <div class="grid_7 alpha omega">
+                <div class="inner">
+                    
+
+                    <div class="post-11 page type-page status-publish hentry grid_6 alpha">
+                        <div id="post-11" class="staticContent">
+                            <h2>Salon.com Privacy Policy</h2>
+<p>Last Revised October 1, 2011.</p>
+<p>We respect your privacy, and we want you to know how we use the information you provide us. This privacy policy (“Privacy Policy”) applies to your use of our websites located at <a href="http://www.salon.com" title="Salon.com">www.salon.com</a>, as well as to all other online and mobile websites, blogs and interactive applications operated by Salon Media Group Inc. (“Salon,” “us” or “we”), collectively our “Site,” unless a different policy is provided on a particular site or application. In this Privacy Policy, we do our best to describe the kinds of information collected, the methods used to collect it, how Salon uses the information, and the choices you have about the way your information is collected and used. </p>
+<p>Please read this Privacy Policy carefully. By using the Site you accept and agree to this Privacy Policy, and to the collection and use of your information in the manner it describes. In addition, you accept and agree to Salon’s <a href="http://www.salon.com/about/tos">Terms of Service</a> (http://www.salon.com/about/tos), which are incorporated by this reference.</p>
+<h2>Information We Collect</h2>
+<p>We need certain information in order to implement features or complete transactions that you have requested. In addition, we try to provide you with information relevant to your needs and interests. The information we gather helps us to better serve these purposes. We may ask you to provide us with demographic information, information regarding your interests or other personally identifiable information. For purposes of this Privacy Policy, personally identifiable information (“personal information”) is personally identifying information about an individual, such as an individual’s first and last name, phone number, email address or other information that identifies a particular individual, and information about an individual’s use of online services that is directly linked to such personally identifying information.</p>
+<p>Providing us with personal information is voluntary, and you can always choose not to provide certain information, but if you do not then you will not be able to take advantage of or participate in some of the Site’s features. Salon gathers personal information and other information in three main ways: (1) Requesting and receiving personal information voluntarily submitted by visitors when using or registering to use or receive our services or offers; (2) collecting personal information visitors voluntarily provide when participating in any contests, sweepstakes or other promotions; and (3) by tracking and analyzing online and mobile data and activity through mechanisms that identify site usage, browser types, IP addresses or device IDs, and other data, as explained in greater detail below. </p>
+<h2>Traffic and Usage Data</h2>
+<p>Each time a visitor comes to the Site, our servers — like most on the Web — collect some basic technical information, including, for example, the visitor’s domain name (e.g., whether you logged on from aol.com or whitehouse.gov), referral data (e.g., depending on your browser, the address of the last page or series of pages you visited prior to clicking through to our Site), and browser and platform type (e.g., a Mozilla browser on a Macintosh platform). We also count, track and aggregate each visitor’s activity as part of our analysis of general traffic flows at our Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.). To these ends, we may merge information about visitors and visits into group data, and that data be shared on an aggregated basis with our advertisers or business partners. When we do provide aggregated information to other businesses, no one will be able to identify you or contact you based on that aggregated information.</p>
+<h2>Use of Cookies</h2>
+<p>Like many websites, we use browser “cookies.” Cookies are a website’s way of remembering who you are. A cookie is a small text file that is stored on your computer’s hard drive or stored temporarily in your computer’s memory. There are two kinds of cookies: “session” cookies and “persistent” cookies. Session cookies are deleted when you close your browser. Persistent cookies remain on your computer and retain information for later use tomorrow, next month or whenever they are set to expire. We use cookies to help us to identify account holders and to optimize their experience on our Site. Also, we will use cookies to monitor and maintain information about your use of this Site. </p>
+<p>Most Web browsers accept cookies automatically. You can delete cookies manually or set your browser to automatically delete cookies on a pre-determined schedule. For example, in the Internet Explorer menu bar, select: Tools Internet OptionsBrowsing HistoryDelete to view manual and automatic options. If you decline to accept cookies, you may not be able to take advantage of or participate in certain features of this Site.</p>
+<p>Other companies that place advertising on our Site also have the ability to assign their cookies to you. Salon does not control the placement or use of cookies by third parties whose advertisements appear on the Site, and Salon is not responsible for their control or their collection or use of information about you. However, you can opt out of the collection of certain information about you by many online advertisers. In order to do so, go to the Network Advertising Initiative opt-out page at <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>. </p>
+<h2>Use of Flash Cookies and HTML5</h2>
+<p>Our Site enables the use of the Adobe Flash Player. Adobe’s Flash Player is used by the vast majority of websites that offer video and other interactive content. By default, your use of the Adobe Flash Player generates “flash cookies” (also known as “persistent identification elements” or “local shared objects”). Adobe provides a short disclosure about Flash Cookies in its End User License Agreement, stating “Use of the web players, specifically the Flash Player, will enable the Software to store certain user settings as a local shared object on our computer. These settings are not associated with you, but allow you to configure certain settings within the Flash Player.” The Adobe Flash Player (and similar applications) use flash cookies to remember user settings, preferences and usage in a manner similar to the browser cookies referenced above. However, flash cookies can store more information than browser cookies and are managed through a different interface than the one provided by your Web browser. You can control the degree to which you accept flash cookies by accessing your Adobe Flash Player management tools directly through the settings manager for Adobe Flash, located at <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>. (Users running the Windows operating system can generally view flash cookie files in this folder: \Documents and Settings\[username]\Application Data\Macromedia\Flash Player. Users running the Apple operating system can generally view flash cookie files in this folder: /users/[username]/Library/Preferences/macromedia/Flash Player. Flash cookies, or LSO files are stored typically with an “.SOL” extension. If you do not allow flash cookies on your computer, you may not be able to take advantage of or participate in certain features of the Site. </p>
+<p>HTML is the software language used for building most of the sites on the World Wide Web. Almost all Web pages you visit on the Internet are built using HTML code. HTML5 is simply the fifth and latest iteration of this language. HTML5 is a popular standard for presenting content, especially content delivered to mobile devices. Some HTML5 code may allow your responses to advertising and other activities to be monitored across websites, and for such information to be stored on your computer or mobile device and accessed by others you do or have done business with. Solutions that allow users to opt out of or block this sort of tracking are being developed through browser add-ons and other tools. Salon accesses user activity information stored through this feature of HTML5. As with cookies, other companies that place advertising on our Site may have the ability to access information using this feature of HTML5. Salon does not control and is not responsible for any such access or for their use of information obtained. </p>
+<h2>Web Beacons</h2>
+<p>Our Web pages or e-mail messages may contain a small graphic image called a Web beacon, which is sometimes also called a “clear gif,” that allows us to monitor and collect certain limited information about our users, such as the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can be very small or invisible to the user, but, in general, any electronic image viewed as part of a Web page or email, including HTML-based content, can act as a Web beacon. We may use Web beacons to count visitors to our Web pages or to monitor how our users navigate our Site, and we may include Web beacons in email messages in order to count how many of the messages we sent were actually opened or acted upon. We use Web beacons to compile aggregate statistics about our Site and our marketing campaigns.</p>
+<h2>Security of Information</h2>
+<p>Salon makes extensive efforts to ensure the safety of your sensitive information. However, no website, Internet transmission, computer system or wireless connection is completely secure. Salon cannot guarantee that unauthorized access or disclosure, hacking, data loss or other breaches will never occur. Your use of the Site is at your own risk. Salon urges you to take steps to keep your information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your account, and closing your Web browser. In addition, you should not provide your password to others. By registering for or using the Site, you are responsible for any use of the Site accomplished through the use of your password.</p>
+<p>Salon will take commercially reasonable steps to protect the security of sensitive information by establishing a secure connection with your Web browser when you are requested by Salon to provide such information. Salon uses the Security Socket Layer (“SSL”), an industry standard security protocol for encrypting sensitive information. Unfortunately, no security measures are perfect or impenetrable and data transmission over the Internet cannot be guaranteed 100 percent secure. We cannot and do not ensure or warrant the security of any information you transmit to Salon and you do so at your own risk. </p>
+<h2>Salon Core</h2>
+<p>In order to subscribe to Salon Core, subscribers to our Salon Core service provide Salon with personal information including name, address, email address and credit card information. Some of that personal information may be shared with our promotional partners, as more fully set forth below. Salon Core members have the opportunity to sign up for certain third-party offers, which may include, but aren’t limited to, magazine subscriptions and online services. At the time of registering for their subscription, Salon Core subscribers are asked whether they wish to receive email from Salon, such as notification of new Core benefits. </p>
+<h2>Salon Newsletters</h2>
+<p>In order to receive Salon Newsletters, subscribers provide Salon with personal information including an email address, ZIP code, gender, age range and income range. Salon collects this information so that we can effectively target advertisements. This information may be shared in aggregate form with our advertisers. When we present aggregated information to outside companies, no one will be able to identify or contact you based on that information.</p>
+<p>If you select “yes” in response to the statement “I would like to receive occasional offers or information from Salon and our marketing partners by e-mail” on the newsletter registration page, Salon may email you occasional messages about our or our marketing partners’ products. </p>
+<p>Our newsletter registration and confirmation pages may also contain other offers to receive messages from specific advertisers or other third parties. If you choose to opt in to receive such messages, your email address will be shared with those specific advertisers or third parties, and Salon will have no control over the messages that you receive from them.</p>
+<h2>“Email to a Friend” Feature</h2>
+<p>The Site offers an “email a friend about this story” feature, allowing Site visitors to send email to friends to inform them about an article they might be interested in reading. In order for this feature to function, we ask for email addresses for the recipient (so we know who to mail the message to) and from the sender (so we can tell the recipient who sent the email). We do not store or save these addresses and you will not receive email or other communications from Salon or its partners as a result of having used this feature.</p>
+<p>“Email a friend about this story” is a mail service that individual visitors to the Site make use of to send individual emails. While this tool cannot be used to send mass “spam” mailings, Salon has no control over how our visitors use it, and any email sent through it originates with, and is the responsibility of, the sender, not Salon.</p>
+<h2>Sharing Information</h2>
+<p>We may provide information to select outside companies when we believe their products or services may be of interest to you, so that they can contact you with offers. If you respond to an offer and provide information directly to another company, that information will be subject to their privacy policy, not this Privacy Policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly. Salon is not responsible for the manner in which other businesses collect or use your personal information. </p>
+<p>In addition, Salon may share your personal information with third parties under the following circumstances:</p>
+<p>Third parties providing services on our behalf: We may engage third parties to perform services in connection with the operation of our business. Examples of these services include: (a) distribution of marketing and promotional material; (b) website evaluation and analytics; (c) fulfilling magazine, newsletter or other subscriptions; (d) data collection, storage, management, analysis and, where applicable, cleansing, and (e) any other services designed to assist us in maximizing our business potential. These third parties may have access to information about visitors to our Site, including personal information, to the extent it is needed to perform their duties and functions. Salon generally requires service providers to keep personal information about our visitors confidential.</p>
+<p>Investigations and security: We may release information about our users, including personal information, when legally required to do so, at the request of governmental authorities conducting an investigation, in response to a subpoena or other legal process, or to verify or enforce compliance with the policies governing our Site and applicable laws. We may also disclose such user information whenever we believe disclosure is necessary to protect the rights, property or safety of Salon, or any of our respective affiliates, business partners, customers or others. </p>
+<p>Aggregate Information: We may disclose non-identifying, aggregated user statistics to third parties for a variety of purposes, including describing our services to prospective partners and other third parties. Examples of such non-personal information include the number of users who visited this Site during a specific time period or purchased a specific product through this Site. </p>
+<p>Promotions: If you choose to enter a contest, sweepstakes or promotion offered by Salon, your personal information may be disclosed to third parties for purposes of posting your entry with attribution or otherwise as permitted in the official rules for the contest, sweepstakes or promotion in question, fulfilling your prize or including your name on a winners list, or as otherwise necessary for purposes of the contest, sweepstakes or promotion. We may also require you to consent to the use of your personal information or other information, such as name, voice or likeness, in advertising, promotional and marketing materials, in which case the rules will so state. In addition, we may offer promotional content, including sweepstakes and promotions, sponsored by or co-branded with a third party, who may obtain the personal information that you submit.</p>
+<p>Surveys: Salon may from time to time conduct voluntary surveys of visitors to the Site to obtain aggregate demographic information about them. Such information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals.</p>
+<h2>Opting Out of Information Sharing</h2>
+<p>You may opt out of having your personal information shared with others. (Aggregate information complied by us or on our behalf may be shared even if you opt out of sharing personally identifiable information.) To opt out, you need to consistently exercise your opt-out choice whenever you provide personal information to us. Alternatively, you may send us a message at <a href="mailto:privacy@salon.com">privacy@salon.com</a>. You must include “Opt Out” as the subject line, and your full name, email address and postal address in your message.</p>
+<h2>Our Commitment to Children’s Privacy</h2>
+<p>Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. If you are under the age of 13, you are not permitted to use the Site. If you are aware of anyone under the age of 13 using our Site, please notify us. Upon confirmation, we will terminate any account that user may have, and we will eliminate any personal information we may have obtained from that user.</p>
+<h2>Unsubscribe and Data Removal Policies</h2>
+<p>If you would like to remove your name and e-mail address from our Core registration database, you can send an email requesting removal to <a href="mailto:corehelp@salon.com">corehelp@salon.com</a>. </p>
+<h2>Other Sites and Services</h2>
+<p>Salon may contain links to, or advertisements about, non-Salon websites. Other sites may also reference, advertise or link to the Site. Salon does not endorse or sponsor other websites, is not responsible for their privacy practices or content, expressly disclaims any statements or assertions made on such websites, and denies all liability associated with your use of, and the content on, such other websites and advertisements. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through other websites. We encourage you to be aware of when you leave this Site and to read the privacy policies of each website that you use.</p>
+<h2>Consent to Processing in the United States</h2>
+<p>This Site is operated in the United States. By providing any information to Salon, all users, including, without limitation, users in the member states of the European Union, Canada or elsewhere outside of the United States, fully understand and consent to this Privacy Policy. By using our Site, participating in any of our services and/or providing us with your information, you consent to the collection, transfer, storage and processing of your information to and in the United States. In addition, you waive any restrictions on such collection, transfer or storage of your information imposed by the laws of any country other than the United States.</p>
+<h2>Revisions to Privacy Policy</h2>
+<p>We reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove or otherwise change any portion of this Privacy Policy, in whole or in part, at any time. When we amend this Privacy Policy, we will revise the “last updated” date located at the top of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the Salon website located at www.salon.com by revising the link to read substantially as “Updated Privacy Policy” for a reasonable amount of time. By providing information to us or using the Site in any way after this Privacy Policy has been revised, you consent and agree to the revised Privacy Policy. The most current version of this Privacy Policy will be available on the Site and will supersede all previous versions of this Privacy Policy.</p>
+<h2>Choice of Law</h2>
+<p>This Privacy Policy, including all revisions and amendments thereto, and any disputes arising from or relating to this Privacy Policy or your use of the Site, are governed by the laws of the State of California, without regard to any conflict or choice of law principles that would require application of the laws of another jurisdiction.</p>
+<h2>Questions about our Privacy Policy</h2>
+<p>If you have any further questions or concerns about Salon’s privacy policies and use of personal information, please send them to <a href="mailto:privacy@salon.com">privacy@salon.com</a>.</p>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+
+            <aside class="grid_3 rightSidebar">
+                <div class="inner">
+                    <div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-about_pages_custom_menu-container"><ul id="menu-about_pages_custom_menu" class="menu"><li id="menu-item-10069988" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-10069988"><a href="http://www.salon.com/about/">About Salon</a></li>
+<li id="menu-item-10070331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10070331"><a href="http://www.salon.com/about/ways_to_get_salon/">Ways to Get Salon</a></li>
+<li id="menu-item-10069986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10069986"><a href="http://www.salon.com/about/contact/">Contact and Help</a></li>
+<li id="menu-item-10070401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10070401"><a href="http://www.salon.com/about/staff/">Staff</a></li>
+<li id="menu-item-10069985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10069985"><a href="http://www.salon.com/about/hiring/">Jobs</a></li>
+<li id="menu-item-10069982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10069982"><a href="http://www.salon.com/about/submissions/">Submissions</a></li>
+<li id="menu-item-10070715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10070715"><a href="http://www.salon.com/about/advertise/">Advertise on Salon</a></li>
+<li id="menu-item-10071188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10071188"><a href="http://www.salon.com/about/awards/">Awards</a></li>
+<li id="menu-item-10071229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10071229"><a href="http://www.salon.com/about/ir/">Investor Relations</a></li>
+<li id="menu-item-10084075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10084075"><a href="http://www.salon.com/about/comments/">Salon Comments</a></li>
+<li id="menu-item-10069984" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-10069984"><a href="http://www.salon.com/about/policy/">Privacy Policy</a></li>
+<li id="menu-item-10069961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10069961"><a href="http://www.salon.com/about/tos/">Terms of Service</a></li>
+<li id="menu-item-10071275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10071275"><a href="http://www.salon.com/about/corrections/">Corrections</a></li>
+<li id="menu-item-10071285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10071285"><a href="http://www.salon.com/about/dmca/">DMCA Policy</a></li>
+</ul></div></div>                </div>
+            </aside>
+
+            <div class="clear"></div>
+
+            <div class="contentFootContainer">
+    <div class="bannerWrapper">
+        <div data-position-name="Bottom" class="adPosition leaderBoard Bottom" style="display: block; width: 728px; height: 0px;"></div>    </div>
+    		<nav>
+			 <a href="http://www.salon.com/about/">About</a> | <a href="http://www.salon.com/about/advertise/">Advertising</a> | <a href="http://www.salon.com/about/contact/">Contact</a> | <a href="http://www.salon.com/about/corrections/">Corrections</a> | <a href="http://www.salon.com/about/contact/">Help</a> | <a href="http://www.salon.com/about/policy/">Privacy</a> | <a href="http://www.salon.com/about/tos/">Terms of Service</a> | <a href="http://techtips.salon.com">TechTips</a> 		</nav>
+		</div>
+        </div>
+    </section>
+
+    <aside class="grid_2 leftSidebar">
+        		<div class="current-posts">
+			<h2>Current Stories</h2>
 		
-  <div class="box ad_content  ad_content_refresh leaderboard" id="ad_Top">
-	<script type="text/javascript" language="JavaScript">
-		OAS_AD('Top');
-	</script>
-  </div>
-
-
-
-
-
-
-		<div id="cols" class="container_12 clearfix">
-			<div id="col12" class="grid_10">
-				<div id="col1" class="grid_6 alpha">
-					<div class="static_content">
-						<p><b><font size="+1">Salon.com Privacy Policy</font></b></p>
-
-
-<p>Salon.com respects your right to the privacy of the personal information you provide us on our Web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to Salon.com will be known only to two parties: you and Salon.com. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.</p>
-
-<p><b>Traffic data</b></p>    
-
-<p>Each time a visitor comes to a Salon.com Web site, our servers -- like most on the Web -- collect some basic technical information, including, for example, the visitor's domain name (e.g., whether the user is logged on from aol.com or whitehouse.gov), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to a Salon.com Web site) and browser and platform type (e.g., a Netscape browser on a Macintosh platform).</p> 
-
-<p>We also count, track and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Salon.com sites, etc.). To these ends, we may merge information about visitors and visits into group data, which may then be shared on an aggregated basis with our advertisers; but we will not disclose your individual identity or personally identifiable data without your permission. When we do present aggregated information to outside companies, no one will be able to identify you or contact you.</p>
-
-
-
-
-<p><b>Use of Salon.com cookies</b></p>    
-
-<p>A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use cookies in a limited way to help deliver advertisements, to identify unique browsers that visit us and to track usage throughout our site.</p>
-
-<p>The information about readership and site usage that Salon collects through cookies is aggregated into general reports about readership and not tied to individual identities, with one exception. Salon saves usage information collected with cookies for Premium subscribers solely for the use of our customer support team to help resolve problems subscribers may have. This Premium readership information is not used for any other purpose, shared with any party, or correlated with any other information the subscriber may have provided to order the subscription.</p>
-
-<p>Other companies which place advertising on our site also have the ability to assign their cookies to you in a process that Salon.com does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are.</p>
-
-
-
-<p><b>Salon Premium</b></p>
-
-<p>In order to subscribe, subscribers to our Salon Premium service provide Salon with personal information including name, address, e-mail address and credit card information. Salon keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. </p>
-
-<p>Salon Premium members have the opportunity to sign up for certain third party offers which may include, but aren't limited to, magazine subscriptions and online services. Salon shares the least amount of personal information necessary to fulfill these offers with the third party responsible for the offer. In the case of a magazine subscription this information would include a member's name and shipping address. Third parties may have different policies governing the use of personal information.</p> 
-
-<p>At the time of registering for their subscription, Salon Premium subscribers are asked whether they wish to receive e-mail from Salon, such as notification of new Premium benefits. Salon does not reuse or resell the list of users who have "opted in" to such mailings.</p>      
-
-
-
-
-
-<p><b>Salon Newsletters</b></p>
-
-<p>In order to receive Salon Newsletters subscribers provide Salon with personal information including an e-mail address, zip code, gender, age range and income range. Salon collects this information so that we can effectively target advertisements. This information may be shared in aggregate form with our advertisers. When we present aggregated information to outside companies, no one will be able to identify or contact you.</p>
-
-<p>If you select "yes" in response to the statement, " I would like to receive occasional offers or information from Salon and our marketing partners by e-mail" on the newsletter registration page, Salon may e-mail you occasional messages about our or our marketing partners' products. Your e-mail address will not be shared with anyone and no one except Salon will be able to contact you.</p>
-
-<p>Our newsletter registration and confirmation pages may also contain other offers to receive messages from specific advertisers or other third parties. If you choose to opt in to receive such messages, your e-mail address will be shared with those specific advertisers or third parties, and Salon will have no control over the messages that you receive from them.</p>
-
-
-
-<p><b>Letters to the editor</b></p>
-
-<p>Salon asks senders of letters to the editor to include a phone number so we can make an effort to verify their identity should we need to in connection with publication of a letter. We do not retain this information for any other purpose, nor do we sell, trade or otherwise disclose it to third parties.</p>
-
-
-
-
-<p><b> "E-mail to a friend" feature</b></p>
-
-<p>Salon.com offers an "e-mail a friend about this story" feature, allowing site visitors to send e-mail to friends to inform them about an article they might be interested in reading. In order for this feature to function, we ask for e-mail addresses for the recipient (so we know who to mail the message to) and from the sender (so we can tell the recipient who sent the e-mail). We do not store or save these addresses and you will not receive e-mail or other communications from Salon or its partners as a result of having used this feature.</p>
-
-<p>"E-mail a friend about this story" is a mail service that individual visitors to Salon.com make use of to send individual e-mails. While this tool cannot be used to send mass "spam" mailings, Salon.com has no control over how our visitors use it, and any e-mail sent through it originates with, and is the responsibility of, the sender, not Salon.com.</p>
-
-
-
-
-
-
-<p><b><a name="tt"></a>Table Talk</b></p>
-
-<p>Salon.com visitors who register for our Table Talk community area provide us with a name, password and a working e-mail address. We use this information to set up your account. We do not sell or redistribute the Table Talk membership list and will not send you e-mail at the address you provide, except for infrequent announcements relating to Table Talk or as needed to resolve issues that may arise with your Table Talk account. The e-mail address you register with Salon.com will be posted in Table Talk if and when you post comments there, but you are free at any time to substitute an alternate e-mail address if you wish to keep the one you initially registered private. Participants in Table Talk are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum. For related information see the <a href="http://tabletalk.salon.com/Helpfile/FAQ.html" target="_blank">Salon Table Talk FAQ page</a>.</p>
-
-
-<p><b>Promotion</b></p>
-
-<p>From time to time, Salon.com may sponsor sweepstakes, contests or other events which require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. Salon may also co-sponsor these events along with other companies, in which case the user's individual contact and demographic information is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant's personal contact and demographic information will not be released to any third-party organization other than named sponsors without the user's consent, and Salon.com will request that such named sponsors uphold the privacy of the registrants' information by not distributing or sharing such information with any other businesses or organizations.</p> 
-
-
-
-<p><b>Surveys</b></p>
-
-<p>Salon.com will from time to time conduct voluntary surveys of visitors to the site to obtain aggregate demographic information about them. Such information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals.</p>  
-
-<p><b>Our commitment to children's privacy</b></p>
-
-<p>Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our Web sites from those we actually know are under 13, and no part of our Web site is structured to attract anyone under 13.</p>
-
-
-
-<p><b>Other disclosure of personal information</b></p>
-
-<p>Salon will not otherwise use or disclose your personal information (personally identifiable data such as your name, email address, password) without your consent except (i) as described in this privacy policy, or (ii) as required by law to be disclosed. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.</p>
-
-
-
-
-
-<p><b>Unsubscribe and data removal policies</b></p>
-
-<p>If you would like to remove your name and e-mail address from our Table Talk registration database, you can send an e-mail requesting removal to tabletalk@salon.com.</p>
-
-
-
-
-<p><b>Other sites</b></p>
-
-<p>Salon.com contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.</p>
-
-<p><b>Who can I ask if I have any additional questions?</b></p>  
-
-<p>If you have any further questions or concerns about Salon's privacy policies and use of personal information, please send them to <a href="mailto:privacy@salon.com">privacy@salon.com.</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
+			 
+			<article class="story">
+                                    <a title="Mexico’s alcohol ban" href="http://www.salon.com/2012/06/30/mexicos_alcohol_ban/">
+                         <img src="http://media.salon.com/2012/06/aptopix-mexico-elections.jpeg-186x124.jpg" alt="Mexico’s alcohol ban" title="Mexico’s alcohol ban">
+                    </a>
+                                <h3>
+                    <a title="Mexico’s alcohol ban" href="http://www.salon.com/2012/06/30/mexicos_alcohol_ban/">
+                        Mexico’s alcohol ban                    </a>
+				</h3>
+				<p>
+					<a class="sectionLink" href="http://www.salon.com/category/politics/">Politics.</a> La Ley Seca enforced during election weekend
+				</p>
+			</article>
+			 
+			<article class="story">
+                                    <a title="Laura Marling: How to beat depression" href="http://www.salon.com/2012/06/30/laura_marling_how_to_beat_depression/">
+                         <img src="http://media.salon.com/2012/06/11-186x124.png" alt="Laura Marling: How to beat depression" title="Laura Marling: How to beat depression">
+                    </a>
+                                <h3>
+                    <a title="Laura Marling: How to beat depression" href="http://www.salon.com/2012/06/30/laura_marling_how_to_beat_depression/">
+                        Laura Marling: How to beat depression                    </a>
+				</h3>
+				<p>
+					<a class="sectionLink" href="http://www.salon.com/category/arts/">Arts.</a> The alt-rock chanteuse shares her secrets about pulling back from the despair she so often sings about				</p>
+			</article>
+			 
+			<article class="story">
+                                    <a title="Remodeling will tear us apart" href="http://www.salon.com/2012/06/30/remodeling_will_tear_us_apart/">
+                         <img src="http://media.salon.com/2012/06/sledgehammer-186x124.jpg" alt="Remodeling will tear us apart" title="Remodeling will tear us apart">
+                    </a>
+                                <h3>
+                    <a title="Remodeling will tear us apart" href="http://www.salon.com/2012/06/30/remodeling_will_tear_us_apart/">
+                        Remodeling will tear us apart                    </a>
+				</h3>
+				<p>
+					<a class="sectionLink" href="http://www.salon.com/category/life/">Life.</a> Months into our home renovation, my husband and I were barely speaking, and the contractor looked awfully cute				</p>
+			</article>
+			 
+			<article class="story">
+                                    <a title="In the Middle: Neighborhood Watch" href="http://www.salon.com/2012/06/23/in_the_middle_neighborhood_watch/">
+                         <img src="http://media.salon.com/2012/06/itm4-186x124.jpg" alt="In the Middle: Neighborhood Watch" title="In the Middle: Neighborhood Watch">
+                    </a>
+                                <h3>
+                    <a title="In the Middle: Neighborhood Watch" href="http://www.salon.com/2012/06/23/in_the_middle_neighborhood_watch/">
+                        In the Middle: Neighborhood Watch                    </a>
+				</h3>
+				<p>
+					<a class="sectionLink" href="http://www.salon.com/category/studio/">Studio.</a> Episode 4: Kevin joins the neighborhood watch and encounters rage, Farsi and Olympic-sized confusion				</p>
+			</article>
 					</div>
-				</div>
-				<div id="col2" class="grid_4 omega">
-					<div class="static_content">
-						<div class="about_nav">
-	<h2><a class="subhead first" href="/about/">About Salon</a></h2>
-		<ul>
-			<li><a href="/about/staff/">Salon's staff</a></li>
-			<li><a href="/about/hiring/">Job openings</a></li>
-			<li><a href="/about/letters/">Send letters</a></li>
-			<li><a href="/about/submissions/">Submit articles</a></li>
-			<li><a href="/about/policy/">Privacy policy</a></li>
-			<li><a href="/about/problems/">Report problems</a></li>
-			<li><a href="/about/codeofconduct/">Code of Conduct</a></li>
-			<li><a href="/about/ways/">Ways to get Salon</a></li>
-			<li><a href="/adsales/">Advertise in Salon</a></li>
-			<li><a href="/about/reprints/">Reprint information</a></li>
-			<li><a href="/ir/">Investor relations</a></li>
-		</ul>
-		<hr>
-	<h2><a href="/press/">Press Information</a></h2>
-		<ul>
-			<li><a href="/press/fact/">Salon fact sheet</a></li>
-			<li><a href="/press/releases/">Press releases</a></li>
-			<li><a href="/press/bios/">Staff bios</a></li>
-			<li><a href="/press/awards/">Awards</a></li>
-			<li><a href="/press/quotes/">Press quotes</a></li>
-		</ul>
-		<hr>
-	<h2><a href="/">Salon</a></h2>
-		<ul>
-			<li><a href="http://dir.salon.com/topics/news/">News &amp; Politics</a></li>
-			<li><a href="http://dir.salon.com/topics/opinion/">Opinion</a></li>
-			<li><a href="http://dir.salon.com/topics/technology_business/">Tech &amp; Business</a></li>
-			<li><a href="http://dir.salon.com/topics/arts_entertainment/">Arts &amp; Entertainment</a></li>
-			<li><a href="http://dir.salon.com/topics/books/">Books</a></li>
-			<li><a href="http://dir.salon.com/topics/mwt/">Life</a></li>
-			<li><a href="http://dir.salon.com/topics/comics/">Comics</a></li>
-			<li><a href="http://letters.salon.com/">Letters</a></li>
-			<li><a href="/letters/corrections/index.html">Corrections</a></li>
-		</ul>
-		<hr>
-	<h2>Salon Services</h2>
-		<ul>
-			<li><a href="http://personals.salon.com/">Personals</a></li>
-			<li><a href="https://sub.salon.com/newsletter/">Newsletter</a></li>
-			<li><a href="/plus/rss/">Salon's RSS Feeds</a></li>
-			<li><a href="http://jump.salon.com/rlink/www.salon.com/plus/reads/index.html">Salon Publications</a></li>
-			<li><a href="http://jump.salon.com/rlink/www.cafeshops.com/cp/store.aspx?s=salonstore">Salon Store</a></li>
-		</ul>
-		<hr>
-	<h2>Participate</h2>
-		<ul>
-			<li>
-				<a href="http://tabletalk.salon.com/webx?">Table Talk</a>: Spirited Salon forums. <a href="/tt/post/">Posts of the week</a>
-			</li>
-			<li>
-				<a href="http://www.well.com/" target="_blank">The WELL</a>: Pioneering members-only discussions. <a href="http://www.well.com/inkwell.vue/" target="_blank">What is the media not telling you?</a>
-			</li>
-			<li>Sound Off: <a href="/about/letters/index.html">Letters to the Editor</a></li>
+		<div class="smr-widget">
+			<h2>Most Read</h2>
+			<ul>
+			<li class="smr-post">
+				<a href="http://www.salon.com/2012/06/28/did_john_roberts_switch_his_vote/" class="gaTrackLinkEvent" data-ga-track-json="[&quot;mostread&quot;,&quot;click&quot;,&quot;Did John Roberts switch his vote?&quot;]" title="Did John Roberts switch his vote?">
+					<span class="thumbWrap">
+						<img width="186" height="124" src="http://media.salon.com/2012/06/roberts2_rect-186x124.jpg" class="attachment-186x124 wp-post-image" alt="Chief Justice John Roberts" title="roberts2_rect">
+					</span>
+					Did John Roberts switch his vote?
+				</a>
+				<span class="byline"><a href="http://www.origin.railrode.net/writer/paul_campos/" rel="author">Paul Campos</a></span>
+			     </li>
+			     <li class="smr-post">
+				<a href="http://www.salon.com/2012/06/29/why_obama%e2%80%99s_odds_may_have_just_improved/" class="gaTrackLinkEvent" data-ga-track-json="[&quot;mostread&quot;,&quot;click&quot;,&quot;Obama\u2019s odds just improved&quot;]" title="Obama’s odds just improved">
+					<span class="thumbWrap">
+						<img width="186" height="124" src="http://media.salon.com/2012/06/aptopix-obama-health-care.jpeg1-186x124.jpg" class="attachment-186x124 wp-post-image" alt="Barack Obama" title="Barack Obama">
+					</span>
+					Obama’s odds just improved
+				</a>
+				<span class="byline"><a href="http://www.origin.railrode.net/writer/steve_kornacki/" rel="author">Steve Kornacki</a></span>
+			     </li>
+			     <li class="smr-post">
+				<a href="http://www.salon.com/2012/06/29/beasts_of_the_southern_wild_a_spectacular_bayou_folk_tale/" class="gaTrackLinkEvent" data-ga-track-json="[&quot;mostread&quot;,&quot;click&quot;,&quot;\&quot;Beasts of the Southern Wild\&quot;: A spectacular bayou folk tale&quot;]" title="&quot;Beasts of the Southern Wild&quot;: A spectacular bayou folk tale">
+					<span class="thumbWrap">
+						<img width="186" height="124" src="http://media.salon.com/2012/06/beasts_rect-186x124.jpg" class="attachment-186x124 wp-post-image" alt="Quvenzhané Wallis in &quot;Beasts of the Southern Wild&quot;" title="beasts_rect">
+					</span>
+					"Beasts of the Southern Wild": A spectacular bayou folk tale
+				</a>
+				<span class="byline"><a href="http://www.origin.railrode.net/writer/andrew_ohehir/" rel="author">Andrew O'Hehir</a></span>
+			     </li>
+			     <li class="smr-post">
+				<a href="http://www.salon.com/2012/06/28/what%e2%80%99s_really_happened_to_america%e2%80%99s_soldiers/" class="gaTrackLinkEvent" data-ga-track-json="[&quot;mostread&quot;,&quot;click&quot;,&quot;What\u2019s really happened to America\u2019s soldiers &quot;]" title="What’s really happened to America’s soldiers ">
+					<span class="thumbWrap">
+						<img width="186" height="124" src="http://media.salon.com/2012/06/military-weapons-police.jpeg3-186x124.jpg" class="attachment-186x124 wp-post-image" alt="Military Weapons Police" title="Military Weapons Police">
+					</span>
+					What’s really happened to America’s soldiers 
+				</a>
+				<span class="byline"><a href="http://www.origin.railrode.net/writer/nan_levinson/" rel="author">Nan Levinson</a>, TomDispatch</span>
+			     </li>
+			     <li class="smr-post">
+				<a href="http://www.salon.com/2012/06/28/stripping_taught_magic_mike_cast_about_women/" class="gaTrackLinkEvent" data-ga-track-json="[&quot;mostread&quot;,&quot;click&quot;,&quot;\&quot;Magic Mike's\&quot; lessons&quot;]" title="&quot;Magic Mike's&quot; lessons">
+					<span class="thumbWrap">
+						<img width="186" height="124" src="http://media.salon.com/2012/06/film-magic-mike.jpeg-186x124.jpg" class="attachment-186x124 wp-post-image" alt="Film Magic Mike.JPEG" title="Film Magic Mike.JPEG">
+					</span>
+					"Magic Mike's" lessons
+				</a>
+				<span class="byline"><a href="http://www.origin.railrode.net/writer/sandy_cohen/" rel="author">Sandy Cohen</a>, Associated Press</span>
+			     </li>
+			     </ul>		<div class="columnists">
+			<h2>Voices</h2>
+			<ul>
+								<li><a href="http://www.salon.com/writer/alex_pareene/">Alex Pareene</a></li>
+								<li><a href="http://www.salon.com/writer/alex_seitz_wald/">Alex Seitz-Wald</a></li>
+								<li><a href="http://www.salon.com/writer/andrew_leonard/">Andrew Leonard</a></li>
+								<li><a href="http://www.salon.com/writer/andrew_ohehir/">Andrew O'Hehir</a></li>
+								<li><a href="http://www.salon.com/writer/cary_tennis/">Cary Tennis</a></li>
+								<li><a href="http://www.salon.com/writer/david_sirota/">David Sirota</a></li>
+								<li><a href="http://www.salon.com/writer/glenn_greenwald/">Glenn Greenwald</a></li>
+								<li><a href="http://www.salon.com/writer/irin_carmon/">Irin Carmon</a></li>
+								<li><a href="http://www.salon.com/writer/joan_walsh/">Joan Walsh</a></li>
+								<li><a href="http://www.salon.com/writer/laura_miller/">Laura Miller</a></li>
+								<li><a href="http://www.salon.com/writer/mary_elizabeth_williams/">Mary Elizabeth Williams</a></li>
+								<li><a href="http://www.salon.com/writer/natasha_lennard/">Natasha Lennard</a></li>
+								<li><a href="http://www.salon.com/writer/steve_kornacki/">Steve Kornacki</a></li>
+								<li><a href="http://www.salon.com/writer/tracy_clark_flory/">Tracy Clark-Flory</a></li>
+								<li><a href="http://www.salon.com/writer/will_doig/">Will Doig</a></li>
+								<li><a href="http://www.salon.com/writer/willa_paskin/">Willa Paskin</a></li>
+							</ul>
+		</div>
+		    </div></aside>
 
-		</ul>
-		<hr>
-	<h2>Ways to Get Salon</h2>
-		<ul>
-			<li><a href="/plus/mobile/">Salon Mobile</a>: Get Salon on your smart phone or PDA</li>
-		</ul>
-
-</div>					</div>
-				</div>
-			</div>
-			<div id="col3" class="grid_2">
-				<div class="box clearfix" id="promo">
-    <h2>Currently in Salon</h2>
-    
-    <ul>
-        <li>
-            <div class="mc_image"><a href="/life/mortifying_disclosures/index.html?story=/mwt/feature/2011/06/16/photo_shoot_accident_open2011"><img src="http://images.salon.com/life/feature/2011/06/16/photo_shoot_accident_open2011/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/life/mortifying_disclosures/index.html?story=/mwt/feature/2011/06/16/photo_shoot_accident_open2011">The dirty laundry that ended my career</a>
-            </div>
-            <div class="deck">This wardrobe malfunction not only scandalized my co-workers, but caused me to reassess my priorities</div>
-            <div class="byline">Elizabeth Dimmette Coyne</div>
-        </li>
-        <li>
-            <div class="mc_image"><a href="/news/politics/war_room/index.html?story=/politics/war_room/2011/06/16/right_wing_arabic_glossary"><img src="http://images.salon.com/news/politics/war_room/2011/06/16/right_wing_arabic_glossary/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/news/politics/war_room/index.html?story=/politics/war_room/2011/06/16/right_wing_arabic_glossary">Arabic for right-wingers</a>
-            </div>
-            <div class="deck">In ominous tones, Islamophobes toss around terms like "taqiyya" and
-"Shariah." Do they even know what they mean?</div>
-            <div class="byline">Justin Elliott</div>
-        </li>
-        <li>
-            <div class="ad_content ad_content_refresh" id="ad_Position2">
-	<script type="text/javascript"> <!--
-		OAS_AD('Position2');
-		// -->
-	</script>
 </div>
+	<div id="footer" class="container_12">
 
+		Copyright © 2012 Salon Media Group, Inc. Reproduction of material from any Salon pages without written permission is strictly prohibited.<br><br>
 
+		SALON ® is registered in the U.S. Patent and Trademark Office as a trademark of Salon Media Group Inc.<br><br>
 
-        </li>
-        <li>
-            <div class="mc_image"><a href="/entertainment/comics/green_lantern/index.html?story=/ent/movies/andrew_ohehir/2011/06/16/green_lantern"><img src="http://images.salon.com/entertainment/movies/andrew_ohehir/2011/06/16/green_lantern/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/entertainment/comics/green_lantern/index.html?story=/ent/movies/andrew_ohehir/2011/06/16/green_lantern">The surprising summer fun of "Green Lantern"</a>
-            </div>
-            <div class="deck">Ryan Reynolds and Blake Lively star in a lively CGI space opera with unexpected references to Nazism</div>
-            <div class="byline">Andrew O'Hehir</div>
-        </li>
-        <li>
-            <div class="mc_image"><a href="/books/nonfiction/index.html?story=/books/2011/06/16/field_notes_on_science_and_nature_michael_canfield"><img src="http://images.salon.com/books/2011/06/16/field_notes_on_science_and_nature_michael_canfield/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/books/nonfiction/index.html?story=/books/2011/06/16/field_notes_on_science_and_nature_michael_canfield">The secret lives of scientists</a>
-            </div>
-            <div class="deck">A new book uses journals to take a fascinating look at the minds of acclaimed natural researchers</div>
-            <div class="byline">Tess Taylor, <a href="http://bnreview.barnesandnoble.com">Barnes &amp; Noble Review</a></div>
-        </li>
-        <li>
-            <div class="mc_image"><a href="/life/imprint/index.html?story=/mwt/feature/2011/06/16/cargo_content_imprint"><img src="http://images.salon.com/life/feature/2011/06/16/cargo_content_imprint/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/life/imprint/index.html?story=/mwt/feature/2011/06/16/cargo_content_imprint">The next generation in personal websites</a>
-            </div>
-            <div class="deck">We talk to the creators of a new site about how they're transcending the notion of a Web community</div>
-            <div class="byline">Carlo Esperito, <a href="http://imprint.printmag.com">Imprint</a></div>
-        </li>
-        <li>
-            <div class="mc_image"><a href="/life/since_you_asked/index.html?story=/mwt/col/tenn/2011/06/16/raise_daughters_kid"><img src="http://images.salon.com/life/since_you_asked/2011/06/16/raise_daughters_kid/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/life/since_you_asked/index.html?story=/mwt/col/tenn/2011/06/16/raise_daughters_kid">Should I raise my daughter's son?</a>
-            </div>
-            <div class="deck">I'm not sure she's up to taking care of him. But this was not in my plans</div>
-            <div class="byline">Cary Tennis</div>
-        </li>
-        <li>
-            <div class="mc_image"><a href="/life/fathers_day/index.html?story=/mwt/feature/2011/06/16/my_gambling_father_open2011"><img src="http://images.salon.com/life/feature/2011/06/16/my_gambling_father_open2011/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/life/fathers_day/index.html?story=/mwt/feature/2011/06/16/my_gambling_father_open2011">What my father lost gambling</a>
-            </div>
-            <div class="deck">He blew money at the track and pulled me into his schemes. Our finances suffered -- and so did our relationship</div>
-            <div class="byline">Lea Lane</div>
-        </li>
-        <li>
-            <div class="mc_image"><a href="/entertainment/tv/pop_five/index.html?story=/ent/tv/feature/2011/06/16/pop_five_que_john_carter"><img src="http://images.salon.com/entertainment/tv/feature/2011/06/16/pop_five_que_john_carter/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/entertainment/tv/pop_five/index.html?story=/ent/tv/feature/2011/06/16/pop_five_que_john_carter">Five pop culture items we missed</a>
-            </div>
-            <div class="deck">Today's catch includes: A new role for Taylor Kitsch, a perfume like none you've ever smelled, and more!</div>
-            <div class="byline">Drew Grant</div>
-        </li>
-        <li>
-            <div class="mc_image"><a href="/news/media_criticism/index.html?story=/ent/movies/2011/06/16/rita_wilson_tyranny_of_over_40"><img src="http://images.salon.com/entertainment/movies/2011/06/16/rita_wilson_tyranny_of_over_40/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/news/media_criticism/index.html?story=/ent/movies/2011/06/16/rita_wilson_tyranny_of_over_40">The absurdity of "over 40"</a>
-            </div>
-            <div class="deck">Rita Wilson launches a new site for a new generation -- with an offensively catch-all name</div>
-            <div class="byline">Mary Elizabeth Williams</div>
-        </li>
-        <li>
-            <div class="mc_image"><a href="/news/wikileaks/index.html?story=/politics/war_room/2011/06/16/inside_julian_assange_s_house_arrest"><img src="http://images.salon.com/news/politics/war_room/2011/06/16/inside_julian_assange_s_house_arrest/mc.jpg"></a></div>
-            <div class="headline">
-                <a href="/news/wikileaks/index.html?story=/politics/war_room/2011/06/16/inside_julian_assange_s_house_arrest">Watch Julian Assange's life under house arrest</a>
-            </div>
-            <div class="deck">A short video documents the WikiLeaks founder's daily activities as he fights extradition</div>
-            <div class="byline">Jonathan Easley</div>
-        </li>
-	</ul>
-</div>
-
-
-
-			</div>
-		</div>	
+		Associated Press articles: Copyright © 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.<br><br>
+	
 	</div>
-		
-	<div id="bottom_ads" style="clear: both; text-align: center;">
-		<div class="ad_content " id="ad_Bottom">
-	<script type="text/javascript"> <!--
-		OAS_AD('Bottom');
-		// -->
-	</script>
+           <div class="trackingCode hide">
+
+                    <script type="json/config" class="gaTrackingConfig">
+            {"slots":{}}
+        </script>            <!-- comScore Tag -->
+            <noscript>
+                <img src="http://b.scorecardresearch.com/p?c1=2&c2=6662697&c3=&c4=&c5=&c6=&c15=&cj=1" style="display: none;" border="0" height="1" width="1" />
+            </noscript>
+                <!-- End comScore Tag -->
+
+            <!-- Quantcast Tag -->
+            <noscript>
+                <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-88O9JRUYuy_46.gif" height="1" width="1" alt="Quantcast"/></div>
+            </noscript>
+            <!-- End Quantcast tag -->
+
+                        <!-- START Parse.ly Include: Standard -->
+                <div id="parsely-root" style="display: none">
+                    <a id="parsely-cfg" data-parsely-site="salon.com" href="http://parsely.com">Powered by the Parse.ly Publisher Platform (P3).
+                    </a>
+                </div>
+            <!-- END Parse.ly Include -->
+                    </div>
+            <div class="adContainer" data-query="" data-sitepage="www.salon.com/about/policy/index.html">
+        <script>
+            if(window.slnm && slnm.groups){
+                slnm.groups.init( slnm.config.yui.groups["salon-ad-modules"] );
+                slnm.groups.initAll();
+            }
+        </script><script type="text/javascript" src="//web.archive.org/web/20120702024900/http://pixel.quantserve.com/seg/r;a=p-88O9JRUYuy_46;rand=110258306;redirect=https://web.archive.org/web/20120702024900/https://oasc18.247realmedia.com/RealMedia/ads/adstream_mjx.ads/www.salon.com/about/policy/index.html/1934978343157@TopLeft,Bottom?&amp;seg=!qcsegt"></script>
+
+
+        <div class="Bottom" style="min-width: 728px; top: 7738px; left: 409px; position: absolute; z-index: 5;">
+            <script>
+                slnm.ads.initInlinePosition("Bottom");
+            </script>
+        </div>
+        <div class="TopLeft" style="min-width: 1366px; top: 0px; left: 0px; position: absolute; z-index: 5;">
+            <script>
+                slnm.ads.initInlinePosition("TopLeft");
+            </script>
+        </div>
+        <div class="Top hide">
+            <script>
+                slnm.ads.initInlinePosition("Top");
+            </script>
+        </div>
+        <div class="Top2 hide">
+            <script>
+                slnm.ads.initInlinePosition("Top2");
+            </script>
+        </div>
+        <div class="Top3 hide">
+            <script>
+                slnm.ads.initInlinePosition("Top3");
+            </script>
+        </div>
+        <div class="Frame1 hide">
+            <script>
+                slnm.ads.initInlinePosition("Frame1");
+            </script>
+        </div>
+        <div class="Right hide">
+            <script>
+                slnm.ads.initInlinePosition("Right");
+            </script>
+        </div>
+        <div class="Right2 hide">
+            <script>
+                slnm.ads.initInlinePosition("Right2");
+            </script>
+        </div>
+        <div class="x10 hide">
+            <script>
+                slnm.ads.initInlinePosition("x10");
+            </script>
+        </div>
+    </div>
 </div>
-
-
-
-		<div class="ad_content " id="ad_Bottom1">
-	<script type="text/javascript"> <!--
-		OAS_AD('Bottom1');
-		// -->
-	</script>
-</div>
-
-
-
-		<div class="ad_content " id="ad_Bottom2">
-	<script type="text/javascript"> <!--
-		OAS_AD('Bottom2');
-		// -->
-	</script>
-</div>
-
-
-
-		<div class="ad_content " id="ad_Bottom3">
-	<script type="text/javascript"> <!--
-		OAS_AD('Bottom3');
-		// -->
-	</script>
-</div>
-
-
-
-	</div>
-
-
-
-<div class="sitemap_wrap">
-	<div class="otherNews">
-	<h3>Other News</h3>
-	<div class="content">
-		<div class="clearfix">
-			<dl id="daily_finance" class="">
-				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_dailyFinance.gif"></a></dt>
-				<dd>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/2011/06/16/keep-baggage-fees-in-check-as-airline-profits-soar/" target="_blank">Keep Baggage Fees in Check as Airline Profits Soar</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/2011/06/15/digging-into-the-u-s-budget-what-we-spend-and-how/" target="_blank">Digging Into the U.S. Budget: What We Spend, and How</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/2011/06/16/americans-now-live-in-a-hacked-world/" target="_blank">Americans Now Live in a Hacked World</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/2011/06/16/how-to-turn-teen-girls-into-financial-prodigies/" target="_blank">How to Turn Teen Girls Into Financial Prodigies</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/2011/06/13/its-time-for-a-mid-year-financial-checkup/" target="_blank">It's Time for a Mid-Year Financial Checkup</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com" class="readMore">Read more stories »</a>
-				</dd>
-			</dl>
-						<dl id="the_week" class="">
-				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.theweek.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_theWeek.gif"></a></dt>
-				<dd>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/216404/the-gops-terrible-horrible-no-good-very-bad-debate" target="_blank">The GOP's terrible, horrible, no good, very bad debate</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/216402/the-week-at-a-glanceamericas" target="_blank">The week at a glance...Americas</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/216397/anthony-weiners-cringe-inducing-resignation" target="_blank">Anthony Weiner's 'cringe-inducing' resignation</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/216366/homework-revolt-time-to-give-kids-a-break" target="_blank">'Homework revolt': Time to give kids a break?</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/216359/are-we-facing-a-mini-ice-age" target="_blank">Are we facing a mini Ice Age?</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.theweek.com" class="readMore">Read more stories »</a>
-				</dd>
-			</dl>
-						<dl id="aol_news" class="">
-				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_aolNews.gif"></a></dt>
-				<dd>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2011/06/16/spencer-and-heidis-wedding-and-12-other-desperate-celebri/" target="_blank">Spencer and Heidi's Wedding . . . And 12 Other Desperate Celebrity Cries For Attention</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2011/06/16/balloon-boy-dad-richard-heenes-introduces-bizarre-new-get-rich/" target="_blank">Balloon Boy Dad Richard Heene's  Introduces Bizarre New Get-Rich Scheme --  The Truck 'Transformer'</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2011/06/16/iran-to-send-monkey-into-space/" target="_blank">Iran To Send Monkey Into Space</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2011/06/16/man-shoots-finger-off-to-get-rid-of-warts/" target="_blank">Man Shoots Finger Off To Get Rid Of Warts</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2011/06/16/bigfoot-investigators-hope-dna-test-will-confirm-existence-of-tw/" target="_blank">Bigfoot Investigators Hope DNA Test Will Confirm Existence Of Two Man-Beasts</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com" class="readMore">Read more stories »</a>
-				</dd>
-			</dl>
-						<dl id="popeater" class="">
-				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_popEater.gif"></a></dt>
-				<dd>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2011/06/17/christina-aguilera-the-voice/" target="_blank">Christina Aguilera Makes Bank on 'The Voice'</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2011/06/17/matt-lauer-rides-jim-carrey/" target="_blank">Matt Lauer Rides Jim Carrey Like a Horse</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2011/06/16/emma-roberts-art-of-getting-by-nepotism-julia-bloggers/" target="_blank">Emma Roberts: Talk of Nepotism Is 'So Ridiculous'</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2011/06/16/nicki-minajs--fake-backside-fake/" target="_blank">Nicki Minaj's Backside Is Fake, According to Coco</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2011/06/16/kendra-wilkinson-hugh-hefner/" target="_blank">Kendra Wilkinson on Hugh Hefner: He Needs Space</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com" class="readMore">Read more stories »</a>
-				</dd>
-			</dl>
-	</div>
-		<div class="clearfix">
-			<dl id="politicalwire" class="">
-				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicalwire.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_politicalWire.gif"></a></dt>
-				<dd>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://feedproxy.google.com/~r/PoliticalWire/~3/egDdCruwhCg/edwards_sought_millions_from_heiress.html" target="_blank">Edwards Sought Millions from Heiress</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://feedproxy.google.com/~r/PoliticalWire/~3/Qv0ABoM417s/huntsman_will_skip_gop_gathering.html" target="_blank">Huntsman Will Skip GOP Gathering</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://feedproxy.google.com/~r/PoliticalWire/~3/kPHsANn4dSs/obama_almost_as_popular_as_perry_in_texas.html" target="_blank">Obama Almost as Popular as Perry in Texas</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://feedproxy.google.com/~r/PoliticalWire/~3/k8B8i1Tmmas/how_about_a_weiner_comeback.html" target="_blank">How About a Weiner Comeback?</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://feedproxy.google.com/~r/PoliticalWire/~3/cMd3jpdN4Nc/brown_got_700k_for_his_memoir.html" target="_blank">Brown Got $700K for His Memoir</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicalwire.com" class="readMore">Read more stories »</a>
-				</dd>
-			</dl>
-						<dl id="adweek" class="">
-				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.adweek.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_adWeek.gif"></a></dt>
-				<dd>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.adweek.com/video/advertising-branding/trailer-mash-06-17-11-132628" target="_blank">Trailer Mash: 06-17-11</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.adweek.com/adfreak/trash-can-ads-get-high-tech-la-beaches-132623" target="_blank">Trash-Can Ads Get High Tech on L.A. Beaches</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.adweek.com/adfreak/virgin-mobiles-fake-celebrity-couple-are-annoying-real-thing-132622" target="_blank">Virgin Mobile's Fake Celebrity Couple Are as Annoying as the Real Thing</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.adweek.com/news/advertising-branding/mccanns-karlsson-hires-new-ecd-natalie-lam-132619" target="_blank">McCann's Karlsson Hires New ECD Natalie Lam</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.adweek.com/adfreak/betty-white-prank-calls-people-ogles-hunk-aarp-132617" target="_blank">Betty White Prank Calls People, Ogles Hunk for AARP</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.adweek.com" class="readMore">Read more stories »</a>
-				</dd>
-			</dl>
-						<dl id="buzzfeed" class="">
-				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.buzzfeed.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_buzzFeed.gif"></a></dt>
-				<dd>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.buzzfeed.com/happysquid/ken-jeongs-push-hard-fast-1fnb" target="_blank">Push Hard And Fast</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.buzzfeed.com/mathieus/flying-breakfast-8q4" target="_blank">Flying Breakfast</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.buzzfeed.com/jond4/10-amazing-realistic-ninja-turtle-characters-2s6r" target="_blank">Amazingly Realistic Ninja Turtles Characters</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.buzzfeed.com/chlodovech/fact-youre-carrying-the-tri-force-around-in-322f" target="_blank">Pocket-Sized Triforce</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.buzzfeed.com/collegesearchexpert/10-facts-you-didnt-know-about-tv-college-year" target="_blank">10 Facts You Didn't Know About TV College Years</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.buzzfeed.com" class="readMore">Read more stories »</a>
-				</dd>
-			</dl>
-						<dl id="newser" class="">
-				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_newser.gif"></a></dt>
-				<dd>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/121262/shame-on-you-vancouver.html" target="_blank">Shame on You, Vancouver</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/121261/its-getting-real-in-the-whole-foods-parking-lot-video-going-viral-on-youtube.html" target="_blank">Viral Rap Video Teases Whole Foods, Prius Drivers</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/121198/10-most-affordable-home-markets-in-us.html" target="_blank">10 Most Affordable Home Markets in US</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/121259/senate-reverses-votes-to-cut-ethanol-subsidies.html" target="_blank">Senate Reverses, Votes to Cut Ethanol Subsidies</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/121256/oprah-winfrey-i-want-oj-simpson-confession-susan-smith-interview.html" target="_blank">Oprah's Goal: Score OJ Confession</a>
-									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com" class="readMore">Read more stories »</a>
-				</dd>
-			</dl>
-	</div>
-			</div>
-</div>
-<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=salon.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580478052865"></script></div>
-<script type="text/javascript">
-(function( ){
-BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
-BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=salon.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=" + (new Date()).getTime();
-setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
-})();
-</script>
-
-	<div class="clearfix sitemap" id="sitemap-bottom">
-	<ul class="site-map-sections clearfix container_12">
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/news/">News</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/politics/war_room/">War Room</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/joan_walsh/">Joan Walsh</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/glenn_greenwald/">Glenn Greenwald</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/technology/">Tech &amp; Biz</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/how_the_world_works/">How the World Works</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/ask_the_pilot/">Ask the Pilot</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://techtips.salon.com">Tech Tips</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/life/">Life</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/life/since_you_asked/">Since You Asked</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/movies/">Movies</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/film_salon/">Film Salon</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/andrew_ohehir/">Andrew O'Hehir</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/our_picks/">Our Picks</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/tv/">TV</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/tv/our_picks/">Our Picks</a></li>			
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/books/">Books</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/books/laura_miller/">Laura Miller</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/books/our_picks/">Our Picks</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/food/">Food</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/food/francis_lam/">Francis Lam</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/food/kitchen_challenge/">Kitchen Challenge</a></li>
-			</ul>
-		</li>	
-	</ul>
-	<ul class="site-map-misc container_12 clearfix">
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/comics/">Comics</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/comics/cartoon_saturday/">Cartoon Saturday</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/">Salon Store</a></span>
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/">Product Gallery</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/page/about/">About Salon Store</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-            <span class="title">Communities</span>
-            <ul>
-                <li><a name="&amp;lid=footer&amp;lpos=text" href="http://letters.salon.com ">Letters</a></li>
-                <li><a name="&amp;lid=footer&amp;lpos=text" href="http://open.salon.com/">Open Salon</a></li>
-                <li><a name="&amp;lid=footer&amp;lpos=text" href="http://well.com/">The Well</a></li>
-                <li><a name="&amp;lid=footer&amp;lpos=text" href="http://tabletalk.salon.com/">Table Talk</a></li>
-            </ul>
-        </li>
-        <li class="grid_2">
-        	<ul>
-        		<li><a name="&amp;lid=footer&amp;lpos=text" href="/all_salon">All Salon</a></li>
-        		<li><a name="&amp;lid=footer&amp;lpos=text" href="/wires">From the Wires</a></li>
-        		<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/inside_salon/">Inside Salon Blog</a></li>
-        	</ul>
-       	</li>
-		<li class="grid_2">
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/">About Salon</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/staff/">Salon's Staff</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/hiring/">Salon Jobs</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/adsales/">Advertise in Salon</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/press/">Press Information</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://sub.salon.com/">Salon Premium</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://personals.salon.com/">Salon Personals</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://letters.salon.com/">Salon Letters</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/plus/mobile/">Salon Mobile</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="https://sub.salon.com/newsletter/">Salon Newsletter</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/plus/rss/">Salon RSS</a></li>
-			</ul>
-		</li>
-		<li class="grid_2">
-			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/help/">Contact &amp; Help</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/letters/corrections/">Corrections</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/ir/">Investor Relations</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/policy/">Privacy Policy</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/tos/">Terms of Service</a></li>
-			</ul>
-		</li>
-	</ul>
-</div>
-
-</div>
-<div id="footer" class="clearfix">
-	<div id="footer_inner">
-		<p>Copyright ©2011 Salon Media Group, Inc.  Reproduction of material from any Salon pages without written permission is strictly prohibited.</p>
-		<p>SALON® is registered in the U.S. Patent and Trademark Office as a trademark of Salon Media Group Inc.</p>
-		<p>Associated Press articles: Copyright ©2011 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</p>
-	</div>
-	<div class="salonHub">
-	    <ul>
-			<li>Standard</li>
-			<li><a title="Salon Grid" href="/grid/">Grid</a></li>
-			<li><a title="Salon Mobile site" href="http://mobile.salon.com">Mobile</a></li>
-		</ul>
-	</div>
-</div>
-
-<div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({appId: '114477658586677', status: true, cookie: true, xfbml: true});
-  };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
-</script>
-<code class="server_hostname">www.salon.com - sacdcweb01.salon.com
-</code>
-
-<script type="text/javascript" language="javascript" src="http://images.salon.com/js/ad_check.js?20100629"></script>
-<script type="text/javascript" language="javascript" src="http://images.salon.com/js/util.js?20100629"></script>
-<script type="text/javascript">
-    auditLinkTargets('site_container');
-</script>
-<!-- Begin comScore Tag -->
-<script>
-    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-
-<script>
-  COMSCORE.beacon({
-    c1:2,
-    c2:6662697,
-    c3:"",
-    c4:"",
-    c5:"",
-    c6:"",
-    c15:""
-  });
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6662697&c3=&c4=&c5=&c6=&c15=&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-        _qoptions={ qacct:"p-88O9JRUYuy_46" };
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript><img src="http://pixel.quantserve.com/pixel/p-88O9JRUYuy_46.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
-<!-- End Quantcast tag -->
-
-<script type="text/javascript" language="javascript" src="http://images.salon.com/lib/hide_blank_ads.js?updated=20080312"></script>
-<script>
-  _gaq.push(['_setCustomVar', 1, 'userType', unescape(''), 2]);
-  _gaq.push(['_setCustomVar', 2, 'channel', unescape('www'), 2]);
-  _gaq.push(['_setCustomVar', 3, 'context', unescape(''), 3]);
-  _gaq.push(['_setCustomVar', 5, 'contentItem', unescape(''), 3]);
-  _gaq.push(['_trackPageview']);
-</script>
-
-
-<script type="text/javascript" defer="defer" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/alice.js?pc=3029/3141"></script>
-<!--b231082e0ab646e0a782e4d32101af81-->
-
-
-
-
-
-
-
-
-
-
 
 
 
