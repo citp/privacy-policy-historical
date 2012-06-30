@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203750id_/http%3A//www.usagold.com/shop/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110559id_/http%3A//www.usagold.com/shop/terms.html) for the most accurate reproduction.*
 
 # Privacy Policy / Terms and Conditions (for online buying of gold coins)
 
 **_Privacy Policy_**
 
-This privacy notice discloses the privacy practices for USAGOLD-Centennial Precious Metals, Inc., and applies solely to information collected through this web site.
+This privacy notice discloses the privacy practices for USAGOLD and applies solely to information collected through this web site.
 
 **Information Collection, Use, and (Non)Sharing**  
 We only have access to/collect the limited information that you voluntarily give us via submittal of request or order forms, email or other direct contact from you. We are the sole owners of the information collected on this site. We do not and will not sell or rent this information to anyone. We will not share your information with any third party outside of our organization -- other than as necessary to fulfill your request (e.g. to ship an order.) We will use your information to provide the service you requested or to respond to you regarding the reason you contacted us.
@@ -30,8 +30,8 @@ While we use encryption to protect sensitive information transmitted online, we 
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and recommend they read the privacy statements of any other site that may seek to collect personally identifiable information.
 
-Saturday December 31  
+Saturday June 30  
 website support: sitemaster@usagold.com  
-[Site Map](http://www.usagold.com/sitemap.html) \- [Privacy](http://www.usagold.com/shop/terms.html)\- [Disclaimer](http://www.usagold.com/shop/disclaimer.html)  
+[Site Map](http://www.usagold.com/tableofcontents.html) \- [Privacy](http://www.usagold.com/shop/terms.html)\- [Disclaimer](http://www.usagold.com/shop/disclaimer.html)  
 The USAGOLD logo and stylized gold coin pile are trademarks of Michael J. Kosares.  
-© 1997-2011 Michael J. Kosares / USAGOLD All Rights Reserved
+© 1997-2012 Michael J. Kosares / USAGOLD All Rights Reserved
