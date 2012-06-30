@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleverify.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219200709id_/http%3A//www.doubleverify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleverify.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630211809id_/http%3A//www.doubleverify.com/privacy) for the most accurate reproduction.*
 
 # Product Privacy Policy > DoubleVerify
 
@@ -20,4 +20,4 @@ We employ Web beacons in order to provide our clients with verification services
 
 DoubleVerify may modify this Privacy Policy from time to time without the consent of users by providing advance notice on our Web site before implementing such modifications.
 
-For more information on our data usage policy, [please click here](http://www.doubleverify.com/data-usage-policy/). 
+For more information on our data usage policy, [please click here](http://www.doubleverify.com/data-usage-policy/).
