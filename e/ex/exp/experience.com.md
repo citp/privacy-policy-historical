@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213150523id_/http%3A//www.experience.com/entry-level-jobs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630191618id_/http%3A//www.experience.com/entry-level-jobs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Experience™
-
-[Social Buttons](http://dev.linksku.com/sharepost/index.htm "Social bookmarking button WordPress Plugin") by [Linksku](http://linksku.com/ "Discover the best links on the web")
 
 Experience, Inc. (“Experience,” “we” or “us”) is committed to maintaining the privacy of personal information of users (“you” or “User”) of the Experience Network (the “Experience Network” or the “Site”). Since we collect certain types of information about our Users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we collect, how we use it and how to correct and change it.
 
@@ -76,8 +74,6 @@ The account containing your registration information, profile and resume is pass
 
 As noted above, Experience does not collect or store Excluded Personal Information (as defined above). When you purchase products or services online at the Site using a credit card, your credit card information is processed through a third party service company that uses encryption to protect that information. Encryption makes it difficult for unauthorized third parties to intercept or steal your credit card information while it is being transmitted. Experience does not process or store credit card information on the Site. For information on this credit card service company’s privacy and security practices, please [click here](http://www.verisign.com/truste/index.html?sl=071202).
 
-An exception to the preceding paragraph is credit card information collected from employers participating in career fairs by colleges and universities using Experience’s eRecruiting Career Fairs Module (the “ERCF Module”). Credit card and other billing information requested in the ERCF Module is collected by the sponsoring colleges and universities for their own billing purposes, and is not processed by the service company used by Experience to handle other credit card transactions on the Site. While such credit card information will be subject to the same security measures and safeguards as other personally identifiable information collected on the Site, it will not be encrypted because the colleges and universities sponsoring the career fairs need to be able to access and use this information for billing purposes. As a result, there can be no assurance that unauthorized third parties will not gain access to such information or use it for improper purposes. The colleges and universities using the ERCF Module will be solely responsible for the security of all credit card and other billing information collected in the ERCF Module, and agree to indemnify Experience against any and all claims, liabilities, costs and expenses, including reasonable attorneys’ fees, arising or resulting from any unauthorized disclosure or use of such information (unless such unauthorized disclosure or use results from the gross negligence or willful misconduct of Experience or its employees).
-
 **Privacy Policy Changes**
 
 We may deem it necessary or appropriate from time to time to modify this privacy policy to reflect changes in the way we collect or use information or changes in privacy-related laws, regulations or industry standards. Accordingly, we reserve the right to change this privacy statement at any time by posting the revised policy on this Site. Information will be handled according to the privacy statement in effect at the time the information is used. Your continued use of our Site following the posting of changes to this Privacy Policy will mean you accept those changes.
@@ -92,3 +88,7 @@ Boston, MA 02109
 Phone: 800-583-7741  
 Fax: 617-305-7901  
 Attn: Client Services
+
+  *   *   *   * [](http://www.google.com/buzz/post "Post to Google Buzz")
+
+
