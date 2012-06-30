@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204028id_/http%3A//www.revostock.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112711id_/http%3A//www.revostock.com/Privacy.html) for the most accurate reproduction.*
 
 # RevoStock -Privacy Policy
 
@@ -10,19 +10,19 @@ We only collect personally identifiable information about You after You have spe
 
 If You participate in an online activity which requires You to provide personal information, such information will only be used for the purposes of that online activity, unless You consent otherwise.  By way of example and not limitation, We may collect and use personal information for some or all of the following reasons:
 
-á         Responding to questions or comments forwarded to Us by You.
+�         Responding to questions or comments forwarded to Us by You.
 
-á         To operate chatrooms, bulletin boards or other areas of interaction with other users.
+�         To operate chatrooms, bulletin boards or other areas of interaction with other users.
 
-á         Selection and notification of contest winners.
+�         Selection and notification of contest winners.
 
-á         To collect data on use of the Website.
+�         To collect data on use of the Website.
 
-á         To provide You with notices that may be required under contracts You enter with Us.
+�         To provide You with notices that may be required under contracts You enter with Us.
 
-á         To communicate with You regarding billing, payment and other issues related to any business You conduct with Us.
+�         To communicate with You regarding billing, payment and other issues related to any business You conduct with Us.
 
-á         To provide You with notice of upcoming promotions.
+�         To provide You with notice of upcoming promotions.
 
 This Privacy Policy applies only to Us.  Please be aware that the Website may contain hyperlinks to other websites.  We have no control over any such Websites and are not responsible in any way for information that is provided to them.
 
