@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenmangaming.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230923id_/http%3A//www.greenmangaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmangaming.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630085045id_/http%3A//www.greenmangaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Green Man Gaming
 
@@ -12,13 +12,15 @@ greenmangaming.com is an online digital distribution and entertainment platform,
 
 GMGL may ask you for certain information and you may submit personal data to greenmangaming.com (such as your name, email address and contact details) when you subscribe or sign up to greenmangaming.com.
 
+We also utilise device finger-printing technologies. We receive information from customers about devices that connect to our website, operated or controlled by customer and utilise this information to assist in the detection and prevention of fraudulent transactions.
+
 GMGL may also record which parts of greenmangaming.com and services you are interested in as well as user traffic patterns and site use. This information will be kept securely in accordance with an internal security policy and may be used to: process your Communications, your subscription to greenmangaming.com and to enable your use of greenmangaming.com and associated services; open and run your account and provide you with an up to date, efficient and reliable service; administer prize draws; generally run greenmangaming.com. By subscribing and submitting your data you agree to this use.
 
 GMGL will only use information collected about you in accordance with the Data Protection Act 1998.
 
 From time to time GMGL also monitor and record telephone calls for training purposes and to improve the service to you.
 
-GMGL will never collect sensitive information about you without your explicit consent. If you believe GMGL has information about you that you do not want GMGL to have or that is incorrect please contact GMGL as described below and GMGL shall correct or remove the data as you request as soon as reasonably practicable.
+GMGL will never collect sensitive information about you without your explicit consent.
 
 ### Marketing Communications
 
@@ -28,9 +30,7 @@ GMGL will not send you any marketing emails or pass your information on to third
 
 ### Cookies
 
-GMGL uses ‘cookies’ on greenmangaming.com. Cookies are a way that information such as whether you have visited greenmangaming.com before is recorded on your computer and used by GMGL to improve greenmangaming.com and the services available to you. If you do not wish for GMGL to use cookies when you use greenmangaming.com please adjust your Internet browser settings to not accept cookies. Your computer’s help file should tell you how to do this but please note that this may affect your ability to use greenmangaming.com and Games.
-
-If you don’t disable cookies greenmangaming.com will ask for and store details including your name and email address and may automatically insert certain information on the subscription or Communications forms so that you can use greenmangaming.com with less form filling.
+• GMGL uses ‘cookies’ on the Service. Cookies are a way that information such as whether you have visited the Service before is recorded on your computer and used by GMGL to improve the Service and the services available to you. If you do not wish for GMGL to use cookies when you use the Service please adjust your Internet browser settings to not accept cookies. Your computer’s help file should tell you how to do this but please note that this may affect your ability to use the Service and Games. • By agreeing to the Green Man Gaming Terms & Conditions you are specifically allowing the Green Man Gaming service to execute all cookies as are required for the Green Man Gaming service to operate as efficiently as possible with the best user experience in mind. • If you don’t disable cookies the Service will ask for and store details including your name and email address and may automatically insert certain information on the subscription or Communications forms so that you can use the Service with less form filling.
 
 ### Privacy
 
