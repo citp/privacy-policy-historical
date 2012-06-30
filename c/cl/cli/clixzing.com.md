@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixzing.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162025id_/http%3A//www.clixzing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixzing.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225022id_/http%3A//www.clixzing.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ClixZing.com ::- The Paid-to-click with Residual Income online | Earn more money
 
