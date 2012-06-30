@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weareteachers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205435id_/http%3A//www.weareteachers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weareteachers.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111724id_/http%3A//www.weareteachers.com/privacy-policy) for the most accurate reproduction.*
 
-# We Are Teachers | Privacy Policy
+# Privacy Policy - We Are Teachers
 
 ## **WEARETEACHERS.COM, LLC  
 PRIVACY POLICY**
