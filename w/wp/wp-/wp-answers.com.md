@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wp-answers.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152043id_/http%3A//wp-answers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wp-answers.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190239id_/http%3A//wp-answers.com/privacy) for the most accurate reproduction.*
 
 # WP-Answers : Privacy Policy
 
