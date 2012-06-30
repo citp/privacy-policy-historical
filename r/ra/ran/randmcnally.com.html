@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the randmcnally.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231205055id_/http%3A//www.randmcnally.com/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the randmcnally.com privacy policy that was archived on 2012-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630232015id_/http%3A//www.randmcnally.com/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <!--v. 0.0.43.0-->
+  <!--v. 0.0.44.0-->
 	<title>Privacy Policy - RandMcNally</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content=""> 
@@ -40,12 +40,20 @@
 <script type="text/javascript" src="/scripts/jQuery/jquery-1.4.4.min.js"></script>
 <script type="text/javascript" src="/scripts/jQuery/jquery-ui-1.7.1.min.js"></script> --> 
 
-<script type="text/javascript" src="/scripts/jQuery/jquery.popupWindow.js"></script>
-<script type="text/javascript" src="/scripts/uiTools.js"></script>
+<script type="text/javascript" src="scripts/jQuery/jquery.popupWindow.js"></script>
+<script type="text/javascript" src="scripts/uiTools.js"></script>
 
 <script type="text/javascript">
    var routeLoggingDomain = '';
    var mapAndDirectionDomain = 'http://maps.randmcnally.com/';
+   var loggerURL = "http://localhost:8080";
+   var mapLoggerUp = "false";
+   var decartaUrl = "http://rand-vip.prod.sv.decartahws.com/openls/JSON";
+	var decartaUserName  = "randmcnally:rmc";
+	var decartaPassword = "8161tfj0tT";
+	var decartaConfiguration = "global-rand";
+	var decartaTransparentConfiguration="global-rand-transparent";
+	var decartaDGkey = "ZC86Y5FfS1iGEZrk7B5kVQfzUwVirdnH";
        jQuery.extend({
       postJSON: function( url, data, callback) {
           return jQuery.post(url, data, callback, "json");
@@ -67,7 +75,7 @@ More info available at http://www.omniture.com -->
 var s_account = "randmcnally";
 </script>
 
-<script language="JavaScript" type="text/javascript" src="/scripts/s_codeMaps.js"></script></head><body onload="" onunload="" id="aboutUs"><img name="s_i_randmcnally" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/randmcnally/1/H.1-pdv-2/s96992241586060?[AQB]&amp;ndh=1&amp;t=31/0/2020%209%3A42%3A42%205%200&amp;pageName=jsp/privacyPolicy.jsp&amp;g=https%3A//web.archive.org/web/20111231205055id_/http%253A//www.randmcnally.com/privacyPolicy.do&amp;cc=USD&amp;ch=2010_new&amp;server=www.randmcnally.com&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" type="text/javascript" src="/scripts/s_codeMaps.js"></script></head><body onload="" onunload="" id="aboutUs"><img name="s_i_randmcnally" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/randmcnally/1/H.1-pdv-2/s98000952394765?[AQB]&amp;ndh=1&amp;t=31/0/2020%209%3A42%3A45%205%200&amp;pageName=jsp/privacyPolicy.jsp&amp;g=https%3A//web.archive.org/web/20120630232015id_/http%253A//www.randmcnally.com/privacyPolicy.do&amp;cc=USD&amp;ch=2010_new&amp;server=www.randmcnally.com&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -150,6 +158,30 @@ pageTracker._trackPageview();
     customSearchControl.draw('cse-search-form', options);
   }, true);
 </script>
+
+<script>
+var isAllStateSite = false;
+var MAP_API_KEY = ""; 
+var conf_MAP_ENGINE_TILE_HOST1 = "";
+var conf_MAP_ENGINE_TILE_HOST2 = "";
+var conf_MAP_ENGINE_TILE_HOST3 = "";
+var conf_MAP_ENGINE_TILE_HOST4 = "";
+var conf_MAP_ENGINE_TILE_PORT = "";
+
+var conf_MAP_ENGINE_ROUTE_HOST1 = "";
+var conf_MAP_ENGINE_ROUTE_HOST2 = "";
+var conf_MAP_ENGINE_ROUTE_HOST3 = "";
+var conf_MAP_ENGINE_ROUTE_HOST4 = "";
+var conf_MAP_ENGINE_ROUTE_PORT = "";
+
+var conf_MAP_ENGINE_POI_HOST = "";
+var conf_MAP_ENGINE_POI_PORT = "";
+
+var conf_MAP_ENGINE_GEOCODE_HOST = "";
+var conf_MAP_ENGINE_GEOCODE_PORT = "";
+</script>
+
+
 <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css">
 <style type="text/css">
   input.gsc-input {
@@ -250,7 +282,16 @@ input.gsc-input {
 					<a href="/trucking/index.jsp"><span>Trucking</span></a>
 				</li>
 				<li class="level1 nav-road-atlas-motor-carriers-road-atlases">
-					<a href="/contactTrucking.do"><span>Contact Us</span></a>
+					<a href="/contact.do"><span>Contact Us</span></a>
+				</li>
+				<li class="level1 nav-road-atlas-motor-carriers-road-atlases">
+					<a href="http://www.bestoftheroad.com/" target="_blank"><span>Best of the Road</span></a>
+				</li>
+				<li class="level1 nav-road-atlas-motor-carriers-road-atlases">
+					<a href="http://www.tripology.com/" target="_blank"><span>Tripology</span></a>
+				</li>
+				<li class="level1 nav-road-atlas-motor-carriers-road-atlases">
+					<a href="/about/patriarch_partners.jsp"><span>Patriarch Partners</span></a>
 				</li>
 			</ul>
 		</li>
@@ -258,7 +299,7 @@ input.gsc-input {
 			<a href="/products/index.jsp"><span>Products</span></a>
 			<ul class="GPS">
 			    <li class="level1 nav-road-atlas-motor-carriers-road-atlases">
-					<a href="http://store.randmcnally.com/road-atlas.html"><span>Road Atlas</span></a>
+					<a href="/products/road-atlas/index.jsp"><span>Road Atlas</span></a>
 				</li>
 				<li class="level1 nav-road-atlas-rand-mcnally-road-atlases">
 					<a href="/products/rvgps/index.jsp"><span>RV GPS</span></a>
@@ -293,8 +334,11 @@ input.gsc-input {
 				<li class="level1 nav-road-atlas-rand-mcnally-road-atlases">
 					<a href="/support/support_milemaker.jsp"><span>MileMaker Software</span></a>
 				</li>
+                <li class="level1 nav-road-atlas-rand-mcnally-road-atlases">
+					<a href="/support/support_fleetmanagment.jsp"><span>Fleet Management</span></a>
+				</li>
 				<li class="level1 nav-road-atlas-rand-mcnally-road-atlases">
-					<a href="/contactTrucking.do"><span>Contact Us</span></a>
+					<a href="/contact.do"><span>Contact Us</span></a>
 				</li>
 				</ul>
 			
@@ -689,6 +733,7 @@ Click here</a> to unsubscribe to Rand McNally e-mail.</p>
 			<li><a href="/about/careers.jsp">Careers</a></li>
 			<li><a href="/about/newsroom.jsp">News and Press</a></li>
 			<li><a href="/trucking/index.jsp">Trucking</a></li>
+            <li><a href="/mileage-calculator.do">Mileage Calculator</a></li>
 			<li><a href="/support/">Support</a></li>
 			<li><a href="/socialMedia.do">Social Media</a></li>
 			<li><a href="/termsOfUse.do">Terms of Use</a></li>
@@ -701,7 +746,7 @@ Click here</a> to unsubscribe to Rand McNally e-mail.</p>
 					<img src="/images/New-footer_rmlogo.jpg">
 			</a>
 		</div>
-		 <div style="width:100px; float: right; padding-top:5px; display: inline; padding-right: 15px;">
+		<div style="width:100px; float: right; padding-top:5px; display: inline; padding-right: 15px;">
 		<a href="http://www.patriarchpartners.com/" target="_blank">
 					<img src="http://www.patriarchpartners.com/Images/LTCompany.png" alt="Patriarch Partners Lynn Tilton">
 			</a>
@@ -710,13 +755,13 @@ Click here</a> to unsubscribe to Rand McNally e-mail.</p>
 		<ul>
 			 <li class="floatL last"><img src="/images/New-footer_wbnc-logo.jpg"></li>
 				<li class="floatL last" style="padding-top:10px; padding-left: 10px;"><div style="border-right: 1px solid #b9b9b9; padding-right: 10px;">9855 Woods Drive Skokie, Illinois 60077</div></li>
-				<li class="floatL last" style="padding-top:10px; padding-left: 10px;"><a href="/contactTrucking.do">Contact Us</a></li>
+				<li class="floatL last" style="padding-top:10px; padding-left: 10px;"><a href="/contact.do">Contact Us</a></li>
 				<!-- <li class="floatR last" style="padding-top:5px; padding-right:5px;"><a href="http://www.randmcnally.com/news.do?newsId=2037"><img src="/images/New-footer_rmlogo.jpg"/></a></li> -->
 				
 		</ul>
 		<ul style="float: left; width: 795px;">
 				<li class="floatL last" style=" font-size: 11px; padding-left:7px;">
-				<div style="text-align: left;">©2011 Rand McNally. All rights reserved. "Rand McNally" and the Rand McNally logo are registered trademarks of RM Acquisition, LLC d/b/a Rand McNally.</div>
+				<div style="text-align: left;">©2012 Rand McNally. All rights reserved. "Rand McNally" and the Rand McNally logo are registered trademarks of RM Acquisition, LLC d/b/a Rand McNally.</div>
 				</li>
 		</ul>
 		</div>
