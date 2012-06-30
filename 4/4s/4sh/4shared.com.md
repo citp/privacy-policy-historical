@@ -1,65 +1,73 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212518id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630173815id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
-4shared is the official trademark of New IT Solutions LTD. Your use of www.4shared.com site is governed by 4shared Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we provide, how the information you store at the 4shared may be used, and how such information is both protected and made available on our Web site. 
+This privacy policy ( **“Policy”** ) explains how personally identifiable information is collected, used and disclosed by New IT Solutions, Ltd. ( **“4shared”** , **“we”** or **“us”** ) with respect to your access and use of 4shared's online file storage and sharing service (the **“Service”** ) so you can make an informed decision about using the Service. 
 
-This privacy policy may change from time to time, so you are encouraged to check the page regularly. New IT Solutions LTD will operate this Web site according to the Privacy Policy that is posted at the time. 
+We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
 
-**Information we Receive When you Register**
+**What Is Personal Information?**
 
-New IT Solutions LTD stores your E-mail and Password you create for yourself when you register with 4shared and First and Last Names if they are indicated in User Profile. We also use your IP address for internal purposes (for covering the download limitation and user sessions). 
+As used in this Policy, the term "personally identifiable information" means information that specifically identifies an individual (such as a name, user name or e-mail address), or information about that individual that is directly linked to information that specifically identifies an individual. Personally identifiable information does not include "aggregate" information, which is data we collect about the use of the Service or about a group or category of services or users, from which individual identities or other personally identifiable information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. 
 
-**Your Virtual Drive**
+**What Information Do We Collect?**
 
-When you upload your files to the 4shared server, we will provide you with a unique URL to download your file. The 4shared will not provide this URL to any other person or entity, but will provide your file to any web browser requesting your unique URL. 4shared has the right to review your file contents for violations of our Terms of Use. If 4shared determines your files is in violation of 4shared Terms of Use we will ban your account and will attempt to contact you. We reserve the right to cancel your account and files from our systems. 
+Active Collection: We collect information from you in various ways when you use the Service. For example, we collect information: (i) that you voluntarily provide to us (such as when you send us an email); and (ii) to which you provide us access. Such information may include personal information, such as your name, email address, gender, date of birth, city of residence, social network data and performance related data. Personal and demographic information may also be collected if you provide such information in connection with posting data, providing access to your online groups and other activities in connection with the Service. 
 
-4shared will not attempt to access your files at any time unless explicitly instructed to do so by you. We do not own the contents of your virtual drive. 4shared will only have access to your files for purposes of troubleshooting. When 4shared receives your files, we will store them in your virtual drive. We will allow your files to be downloaded according to your security settings. 4shared has extensive security measures in place to protect your files while stored on our servers and we will prosecute any attempt to access this information without authorization. 
+Passive Collection: When you use the Service, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Service. We may also automatically collect certain logistical information in server logs, including information about how you use various features of the Service and information about the number, frequency and length of each session. 
 
-**Web-Server Log and Cookies**
+We may also automatically collect certain information through the use of "cookies." Cookies are small data files stored on your hard drive at the request of a website. We only use session cookies, i.e. the cookie files are kept only for the duration of each log-in session to allow you to operate without having to identify yourself at each action you take during that session. Among other things, cookies help us to improve the Service and your experience. If we link cookies to any personally identifiable information, we will treat this information as personally identifiable information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service. 
 
-New IT Solutions LTD Company collects information about the areas and pages of the 4shared website you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our users as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. 4shared also collects this information to make the website viewable and useful for the majority of our clients. 
+We may use Web beacons or similar technology on the Service. Web beacons are small, invisible graphic images that may be used on the Service or in emails relating to the Service to collect certain information and monitor user activity on the Service, such as to count visits, understand usage effectiveness and to tell if an email has been opened and acted upon. 
 
-Our website utilizes a non-persistent cookie to track your session with our web site. This is an encrypted number generated when you visit any site that supports sessions. This is a session cookie. It helps 4shared track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently at your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging to our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our website. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies, as well as any type of information, with any other companies. 
+Personally identifiable information will be stored on secured servers, and we may store and process personally identifiable information in the United States and other countries. 
 
-**Access to your information**
+**How Do We Use the Personally Identifiable Information We Collect?**
 
-You have the right to access, upload and download your files and access, correct your personal information at any time. You may also grant access to your drive to other persons through folder sharing or providing the download link to your audience. 
+We use personally identifiable information collected through the Service for the purposes described in this Policy or elsewhere on the Service. For example, we may use personally identifiable information we collect: 
 
-If for some reason you cannot access your virtual drive on the 4shared or you want to change other information you provided to us, please contact us at [support@4shared.com](mailto:support@4shared.com). 
+  * to process and complete any transactions in connection the Service;
+  * to request feedback and to otherwise contact you about your use of the Service;
+  * to respond to your emails, questions, comments, requests and complaints, and to provide customer service;
+  * to monitor and analyze Service usage and trends;
+  * to personalize and improve the Service, and our users' experiences with the Service (such as providing content or features that match interests), and to increase the Service's functionality and user friendliness;
+  * to provide you with news and information about our or third-party events, offers, promotions and services we think will be of interest to you;
+  * to send you confirmations, updates, security alerts and support and administrative messages, and otherwise facilitate your use of, and our administration and operation of, the Service;
+  * to notify you about important changes to the Service; and
+  * for any other purpose for which the information was collected.
 
-**How we protect your information**
 
-Any information collected and processed with New IT Solutions LTD is treated with the utmost confidentiality. New IT Solutions LTD will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through New IT Solutions LTD will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data. 
 
-Automated and scheduled backups for premium users make reliability of the service much higher. Daily copying of the information will let you avoid any unpleasant consequence. 
+**What Personally Identifiable Information Do We Share With Third-Parties?**
 
-On-site security includes closed circuit video monitoring, alarmed doors with secure card-key access monitored 24x7. 
+We will not knowingly share the personally identifiable information we collect from you through the Service with third-parties, except as described in this Policy or on the Service. For example, we may share personally identifiable information as follows: 
 
-**E-mail non-disclosure**
+  * with vendors, consultants, and other service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Service and who need access to such information to carry out their work for us; 
+  * when you give us your consent to do so, including if we notify you on the Service that the information you provide will be shared in a particular manner and you provide such information;
+  * in an aggregated or anonymized form that does not directly identify you;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders; 
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of 4shared, our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting 4shared or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service;
+  * to enforce or apply this Policy, the Terms, or our other policies or agreements; and
+  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of 4shared.
 
-Our system stores your e-mail addresses on our server in a secured location. These e-mail addresses are kept on the server for granting access to the account. These addresses are yours, not the property of 4shared. 
 
-4shared Customer Support team may examine these lists as well as the account files for support and troubleshooting purposes. They also may examine the files stored by the users in case of abuse reporting. 
 
-4shared will never use or sell these e-mail addresses and files to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted. 
+You understand that when you use the Service, information you provide via the Service, information you grant access to by using the Service, as well as any information you share with individuals through the Service, will be available to other users and in some cases may be publicly available. 
 
-We will only use your email to send the service and support letters. You may address the [support team](mailto:%3C%=ServerFacade.getSupportEmail\(\)%%3E) with any questions and problems. We will make sure to process your request as soon as possible. 
+We are not responsible for the actions of Service Providers or other third-parties, nor are we responsible for any additional information you provide directly to any other users or third-parties, and we encourage you to become familiar with third-party privacy practices before disclosing information directly to any such third-parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third-parties without your consent. 
 
-**Anti SPAM Policy**
+**Links to Other Websites**
 
-The e-mail information we collect is never sold, rented out, leased, traded, swapped, marketed, exchanged, bartered, distributed, or disclosed in any way. 4shared and its users agree to never initiate any SPAM emailing. 
+The Service may contain links to other websites. Any personally identifiable information you provide on the linked pages is provided directly to that third- party and is subject to that third-party's privacy policy. This Policy does not apply to such linked websites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other websites that are linked to/from the Service. We encourage you to learn about their privacy and security practices and policies before providing them with personally identifiable information. 
 
-**Third Party Web Sites**
+**What Steps Do We Take To Protect Your Information Online?**
 
-4shared website may contain links to Internet sites and services that are maintained by third parties. Those sites may have privacy and security policies that are different from those followed by New IT Solutions LTD. The New IT Solutions LTD has no control over those sites and is not responsible or liable for the policies and practices followed by such third parties. When you visit any site outside www.4shared.com this Privacy Policy is no longer valid, while the Privacy Policy of the current site you are visiting comes into force. 
+We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service by any person using your password. Please advise us immediately if you believe your password has been misused. 
 
-**The Feedback Form**
+**What Choices Do You Have Regarding the Use of Your Information?**
 
-The Feedback Form is an online tool that allows you to report violations of 4shared Services privacy statements, specific privacy concerns pertaining to 4shared.com. 
+You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by following the instructions within such emails or emailing us at [support@4shared.com](mailto:%3C%=ServerFacade.getSupportEmail\(\)%%3E). If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations. 
 
-To access feedback form use the Feedback link at the top right of the screen of our web service. 
+**Questions?**
 
-**Contact Us**
-
-If you have any questions or comments about our Privacy Policy, please contact us at [support@4shared.com](mailto:%3C%=ServerFacade.getSupportEmail\(\)%%3E). 
+If you have any questions about this Policy, please contact us at [support@4shared.com](mailto:%3C%=ServerFacade.getSupportEmail\(\)%%3E). 
