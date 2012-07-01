@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesportsbet.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511063951id_/http%3A//www.freesportsbet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesportsbet.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701063222id_/http%3A//www.freesportsbet.com/privacy.html) for the most accurate reproduction.*
 
 # FreeSportsBet.com Privacy Policy
 
