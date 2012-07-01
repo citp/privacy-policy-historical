@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barcampabidjan.info privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530232619id_/http%3A//www.barcampabidjan.info/a-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcampabidjan.info privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701193100id_/http%3A//www.barcampabidjan.info/a-Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
