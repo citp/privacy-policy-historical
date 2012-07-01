@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudedid.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529231220id_/http%3A//dudedid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudedid.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701073617id_/http%3A//dudedid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dude Did
 
@@ -19,7 +19,3 @@ We also use third party advertisements on **http://dudedid.com** to support our 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-  * Be the first of your friends to like this
-
-
