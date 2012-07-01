@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ifile.it privacy policy that was archived on 2012-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616031845id_/http%3A//ifile.it/help-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifile.it privacy policy that was archived on 2012-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120701102259id_/http%3A//ifile.it/help-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -50,7 +50,9 @@
   			<div class="span-10" id="if_main_panel"> 
   			<div id="promoTxt">Upload, store and share your files using our online backup service!</div>  			</div>
   			<div class="span-10 last" id="if_user_menu"> 
-  			<div id="navbar"></div>  			</div>
+  			<a href="https://secure.ifile.it/account-signup.html" class="if_user_menu_link">create a free account</a>
+			&nbsp;&nbsp;&nbsp;
+			<a href="https://secure.ifile.it/account-signin.html" class="if_user_menu_link" style="color:#4A99AF;">sign in</a>&nbsp;&nbsp;  			</div>
 	    </div> 
 	    
         
@@ -135,9 +137,6 @@ This site (like the majority of internet sites) uses Google Analytics to provide
 	    	<a rel="nofollow" href="http://ifile.it/help-tos.html">Terms of Service</a>
 	    	<br>
     	<br>
-    	<a href="https://secure.ifile.it/account-signup.html">create a free account</a>
-			&nbsp;&nbsp;&nbsp;
-			<a href="https://secure.ifile.it/account-signin.html" style="color:#4A99AF; font-weight: bold;">legacy login</a> (for those users who do not want to use new login) &nbsp;&nbsp;    	<br><br>
      	©&nbsp;2006-2012 ifile.it     	</div> 
     </div> 
 		
@@ -182,41 +181,6 @@ $(document).ready(function(){
 		
 	</script>
 
-		<!--  google identity toolkit -->
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/googleapis/0.0.4/googleapis.min.js"></script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/jsapi"></script>
-	<script type="text/javascript">
-	google.load("identitytoolkit", "1.0", {packages: ["ac"]});
-	</script>
 	
-	<script type="text/javascript">
-	
-	//onload
-	$(document).ready(function(){
-	
-	
-	    window.google.identitytoolkit.setConfig({
-	        developerKey: "AIzaSyDVXDkqAFEewvhNQ9E-b8AvBSXDgfh1LRI",
-	        companyName: "ifile.it",
-	        callbackUrl: "http://ifile.it/idp.html",
-	        realm: "",
-	        userStatusUrl: "http://ifile.it/idp-user_status.html",
-	        loginUrl: "http://ifile.it/idp-user_login.html",
-	        signupUrl: "https://secure.ifile.it/account-signup.html",
-	        homeUrl: "http://ifile.it/",
-	        logoutUrl: "https://secure.ifile.it/account-signout.html",
-	        language: "en",
-	        idps: ["Gmail", "Hotmail", "Yahoo", "AOL" ],
-	        tryFederatedFirst: false,
-	        useCachedUserStatus: false,
-	        siteLogoUrl: 'https://secure.ifile.it/static/images/logo.png'
-	    });
-	    $("#navbar").accountChooser();
-	
-	    	});
-	</script>
-	<!--  google identity toolkit -->
-		
 
 </body></html>
