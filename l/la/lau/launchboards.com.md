@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the launchboards.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003147id_/http%3A//www.jvproductlaunch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchboards.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702010256id_/http%3A//www.jvproductlaunch.com/privacy) for the most accurate reproduction.*
 
 # 
 
