@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatedb.nl privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504010742id_/http%3A//ultimatedb.nl/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedb.nl privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702000559id_/http%3A//www.ultimatedb.nl/privacy.html) for the most accurate reproduction.*
 
 # 
 
