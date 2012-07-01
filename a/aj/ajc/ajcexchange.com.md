@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajcexchange.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501235115id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajcexchange.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701231043id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Atlanta Metro News | ajc.com
 
