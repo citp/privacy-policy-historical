@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxeasy.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522013116id_/http%3A//www.proxeasy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxeasy.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701064742id_/http%3A//www.proxeasy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
