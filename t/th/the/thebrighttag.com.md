@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrighttag.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520010450id_/http%3A//www.brighttag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrighttag.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702202640id_/http%3A//www.brighttag.com/privacy-policy) for the most accurate reproduction.*
 
 # BrightTag, Inc. Privacy Policy | BrightTag
 
