@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productplanner.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528120500id_/http%3A//productplanner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productplanner.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702025125id_/http%3A//productplanner.com/privacy) for the most accurate reproduction.*
 
 # Terms of Service - Product Planner
 
