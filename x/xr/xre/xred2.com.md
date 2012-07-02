@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xred2.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508010148id_/http%3A//xred2.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xred2.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702145639id_/http%3A//xred2.com/privacy.aspx) for the most accurate reproduction.*
 
 # Xred2 Your Privacy
 
