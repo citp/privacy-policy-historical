@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addacover.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503155732id_/http%3A//www.addacover.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addacover.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702111811id_/http%3A//covermyfb.com/privacy-policy.html) for the most accurate reproduction.*
 
-# AddACover.com Privacy Policy
+# CoverMyFB.com Privacy Policy
 
 **What information do we collect?**
 
