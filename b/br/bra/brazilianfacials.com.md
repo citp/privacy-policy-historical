@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazilianfacials.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531231004id_/http%3A//brazilianfacials.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilianfacials.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702054956id_/http%3A//brazilianfacials.com/privacy.html) for the most accurate reproduction.*
 
 # Brazilian Facials - Real Amateurs, Big Cumshots
 
