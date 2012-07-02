@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corehr.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117122558id_/http%3A//www.corehr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corehr.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702225550id_/http%3A//www.corehr.com/privacy-policy) for the most accurate reproduction.*
 
-# Core International
+# Enterprise provider of UK and Irish HR and Payroll solutions - Core International
 
 ##  Privacy Policy 
 
