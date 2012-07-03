@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksnm.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602090256id_/http%3A//www.clicksnm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksnm.com privacy policy that was archived on 2012-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120703043929id_/http%3A//www.clicksnm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
