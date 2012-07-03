@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608061626id_/http%3A//www.islandcrisis.net/2008/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2012-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120703215419id_/http%3A//www.islandcrisis.net/2008/05/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,6 +50,8 @@ We can be reached by email at: kurt@islandcrisis.net
 IslandCrisis.net reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 Last updated: February 2011
+
+Connect with us on Facebook to enjoy an better reading experience and share your knowledge with your friends.
 
 * * *
 
