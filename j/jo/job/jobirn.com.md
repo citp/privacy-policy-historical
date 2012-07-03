@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015933id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2012-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120703062334id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy|Your Insider Referral Network- Jobirn
 
