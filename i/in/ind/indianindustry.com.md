@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianindustry.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603081415id_/http%3A//www.indianindustry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianindustry.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704122325id_/http%3A//www.indianindustry.com/privacy.html) for the most accurate reproduction.*
 
 # Indian Industry Privacy Policy
 
