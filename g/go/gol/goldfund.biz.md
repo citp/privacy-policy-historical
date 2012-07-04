@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldfund.biz privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504195527id_/http%3A//www.goldfund.biz/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldfund.biz privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704092705id_/http%3A//www.goldfund.biz/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
 
 # .: GoldFund.biz :.
 
