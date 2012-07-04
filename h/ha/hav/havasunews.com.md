@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the havasunews.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031612id_/http%3A//havasunews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havasunews.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704141602id_/http%3A//www.havasunews.com/privacy_policy) for the most accurate reproduction.*
 
 # Today's News-Herald - Serving Lake Havasu City & The Lower Colorado River Area
 
