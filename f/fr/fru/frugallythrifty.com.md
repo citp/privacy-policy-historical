@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugallythrifty.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512010707id_/http%3A//frugallythrifty.com/2010/04/14/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugallythrifty.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704051826id_/http%3A//www.frugallythrifty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
