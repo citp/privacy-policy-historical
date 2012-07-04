@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603001825id_/http%3A//www.sap.com/corporate-en/our-company/legal/privacy.epx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704030324id_/http%3A//www.sap.com/corporate-en/our-company/legal/privacy.epx) for the most accurate reproduction.*
 
 # SAP Global - SAP Privacy Statement
 
