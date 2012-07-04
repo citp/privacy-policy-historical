@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporatetrainingmaterials.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510090611id_/http%3A//www.corporatetrainingmaterials.com/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporatetrainingmaterials.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704082121id_/http%3A//www.corporatetrainingmaterials.com/privacy_policy.pdf) for the most accurate reproduction.*
 
 # •
 
