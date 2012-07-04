@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banjaramatrimony.com privacy policy that was archived on 2012-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120215064752id_/http%3A//www.banjaramatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banjaramatrimony.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704094911id_/http%3A//www.banjaramatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Banjara Matrimony, Matrimony, Indian Matrimony
 
