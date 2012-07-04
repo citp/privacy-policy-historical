@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the banjaramatrimony.com privacy policy that was archived on 2012-02-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120215064752id_/http%3A//www.banjaramatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the banjaramatrimony.com privacy policy that was archived on 2012-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120704094911id_/http%3A//www.banjaramatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Banjara Matrimony, Matrimony, Indian Matrimony</title>
@@ -10,10 +10,94 @@
 	<meta name="copyright" content="Copyright © 2012 Communitymatrimony Pvt Ltd.<br>All rights reserved.">
 	<meta name="Distribution" content="Matrimony, Matrimony, Indian Matrimony">
 	<link rel="stylesheet" href="http://imgs.banjaramatrimony.com/styles/global-style.css">
-		<script language="javascript" src="http://www.banjaramatrimony.com/template/commonjs.php"></script>
-	<script language="javascript" src="http://imgs.banjaramatrimony.com/scripts/cookie.js"></script>
-	<script language="JavaScript" src="http://imgs.banjaramatrimony.com/scripts/global.js"></script>
-	<script language="javascript" src="http://imgs.banjaramatrimony.com/scripts/ajax.js"></script>
+		<script language="javascript">
+		var varConfArr=new Array(); varConfArr['domainimgs']="http://imgs.banjaramatrimony.com/images"; varConfArr['domainweb'] = "http://www.banjaramatrimony.com";varConfArr['domainname'] = ".banjaramatrimony.com"; varConfArr['domainimage'] = "http://image.banjaramatrimony.com";varConfArr['webimgs']="http://imgs.banjaramatrimony.com/membersphoto/banjara"; varConfArr['domainimg'] = "http://img.banjaramatrimony.com"; varConfArr['productname'] = "BanjaraMatrimony";varConfArr['DOMAINCASTEID'] = "295"; 
+var upimg="http://imgs.banjaramatrimony.com/images/rp-arrow-up.gif"; 
+var downimg="http://imgs.banjaramatrimony.com/images/rp-arrow-down.gif";
+var objAjax1='';
+function successstorynxt(argNum){
+	var argUrl=varConfArr['domainweb']+"/successstory/successstorypop.php?fileno="+argNum;
+	objAjax1 = AjaxCall();
+	AjaxGetReq(argUrl,succDiv,objAjax1);
+}
+function succDiv(){
+	if(objAjax1.readyState==4){if(objAjax1.status==200){
+		document.getElementById('dispcontent').style.display="block";
+		document.getElementById('dispcontent').innerHTML=objAjax1.responseText;
+	}else{alert('There was a problem with the request.');}}
+}
+function successstorypop(argNum){
+	var url=varConfArr['domainweb']+"/successstory/successstorypop.php?fileno="+argNum;
+	window.open(url,'successstory','top=250,left=525,bottom=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resize=0,width=600,height=450'); 
+}
+
+function launchIC(userID,destinationUserID) 
+{
+	var destinationUserID=destinationUserID.split('_');
+
+	if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent))
+	{ 
+		var ffversion=new Number(RegExp.$1) // capture x.x portion and store as a number
+		if (ffversion>=3)
+		{winwidth="500";winheight="361";}
+		else 
+		{winwidth="500";winheight="361";}
+	}
+	else if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+	{winwidth="500";winheight="361";}
+	else
+	{winwidth="500";winheight="361";}
+	var wintitle=userID+"vs"+destinationUserID;
+	var winurl=varConfArr['domainweb']+"/messenger/chatwindow.php?myid="+userID+"&recpid="+destinationUserID;
+	var popupWindowTest=null;
+	popupWindowTest=window.open(winurl,wintitle,"width="+winwidth+",height="+winheight+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0");
+	if(popupWindowTest==null) 
+	{
+		var cl_win_id;
+		if(GetCookie("closewin")==null || GetCookie("closewin")=="null"){setCookie("closewin",destinationUserID);}
+		else{cl_win_id=GetCookie("closewin")+"~"+destinationUserID;setCookie("closewin",cl_win_id);}
+		alert("Your popup blocker stopped an InstantCommunicator window from opening. Please disable it.");
+	}
+
+}
+
+
+function launch_auto(userID,destinationUserID,firstmsg) 
+{
+	//alert("auto");
+	var destinationUserID=destinationUserID.split('_');	
+	if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent))
+	{ 
+		var ffversion=new Number(RegExp.$1) // capture x.x portion and store as a number
+		if (ffversion>=3)
+		{winwidth="500";winheight="361";}
+		else 
+		{winwidth="500";winheight="361";}
+	}
+	else if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+	{winwidth="500";winheight="361";}
+	else
+	{winwidth="500";winheight="361";}
+	var wintitle=userID+"vs"+destinationUserID;
+	var winurl=varConfArr['domainweb']+"/messenger/chatwindow.php?myid="+userID+"&recpid="+destinationUserID+"&firstmsg="+firstmsg;
+	var popupWindowTest=null;
+	popupWindowTest=window.open(winurl,wintitle,"width="+winwidth+",height="+winheight+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0");
+	if(popupWindowTest==null) 
+	{
+		var cl_win_id;
+		if(GetCookie("closewin")==null || GetCookie("closewin")=="null"){setCookie("closewin",destinationUserID);}
+		else{cl_win_id=GetCookie("closewin")+"~"+destinationUserID;setCookie("closewin",cl_win_id);}
+		alert("Your popup blocker stopped an InstantCommunicator window from opening. Please disable it.");
+	}
+}
+
+
+
+var checkcrawlingbotsexists = false;
+	</script>
+	<script language="javascript" src="http://imgs.banjaramatrimony.com/scripts/cookie.js?id=2"></script>
+	<script language="JavaScript" src="http://imgs.banjaramatrimony.com/scripts/global.js?id=4"></script>
+	<script language="javascript" src="http://imgs.banjaramatrimony.com/scripts/ajax.js?id=4"></script>
 	
 </head>
 <body>
@@ -62,7 +146,7 @@ function imgchange(imname)
 		</div>
 	</div>
 
-	<div class="fleft" style="width:100%;height:45px;background:url(http://img.communitymatrimony.com/images/commenbg.gif);">
+	<div class="fleft" style="width:100%; height:45px; background:url(http://img.communitymatrimony.com/images/commenbg.gif) repeat-x;">
 	<!--- Main Menu Part -->
 		<div style="width:772px;">
 			<div class="normtxt clr2 fleft" style="width:475px;">
@@ -78,7 +162,8 @@ function imgchange(imname)
 							</div>
 			<div class="smalltxt clr2 topdiv fleft tlright" id="main" style="width:290px;"><font class="menclr1">
 			Already a Member? &nbsp;<a href="http://www.banjaramatrimony.com/login/" class="menclr1 bld">Login</a></font>
-		   </div><br clear="all">
+		   </div>
+		   <div class="cleard"><!--  --></div>
 		</div>
 	</div>
 	
@@ -145,9 +230,12 @@ function imgchange(imname)
 	
 <br clear="all"> 
 			<div class="innerdiv">
-				<script language="javascript" src="http://imgs.banjaramatrimony.com/scripts/opacity.js?randid="></script>
+				<script language="javascript" src="http://imgs.banjaramatrimony.com/scripts/opacity.js?randid=1"></script>
 <div class="lpanel fright" style="margin-bottom:10px"><center>
-
+    
+	 
+	    
+	
 				<div class="fright wdth192" style="display:inline;margin-top:10px;">
 		<div class="fleft bgclr9 wdth192">
 			<div class="fleft wdth192 bld fnt14" style="height:40px !important;height:50px;padding-top:10px;color:#ffffff">
@@ -189,7 +277,7 @@ function imgchange(imname)
 							</div>
 							<div class="fleft dotsep6 paydot1"><img src="http://imgs.banjaramatrimony.com/images/trans.gif" height="1"></div>
 							<div align="center" class="fleft mymgnt10 mymgnl10 disline" style="width:118px;">
-															<a href="http://www.banjaramatrimony.com/payment/"><img src="http://imgs.banjaramatrimony.com/images/payfreebg.jpg" style="border:0px;"></a>
+															<a href="http://www.banjaramatrimony.com/payment/?soureFrom=2"><img src="http://imgs.banjaramatrimony.com/images/payfreebg.jpg" style="border:0px;"></a>
 														</div>
 						</div>
 					</div>
@@ -212,14 +300,8 @@ function imgchange(imname)
 			<iframe src="http://c1.zedo.com/jsc/c1/ff2.html?n=1405;c=1837;s=355;d8=;d4=;d9=;dc=;d=7;w=160;h=600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="160" height="600"></iframe>			</center>
 		</div>
     </div>
-		<div class="fright wdth192" style="display:inline;margin-top:10px;">
-			<div style="border: 1px solid #DBDBDB;width:190px;">
-			<div style="margin-top:15px;margin-bottom:15px;" align="center">
-				<iframe src="http://www.banjaramatrimony.com/template/googleads-left.html" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="160" height="600"></iframe>
-			</div>
-		</div>				
-	</div>
-	</center>
+		
+</center>
 </div>				
 <div class="rpanel fleft">
 	<div class="normtxt1 clr2 padb5">
@@ -247,13 +329,6 @@ function imgchange(imname)
 			<br clear="all">
 
 <div align="center">
-	<div style="margin-top:10px;margin-bottom:10px;border: 1px solid #DBDBDB;width=770px">
-		<div style="margin-top:15px;margin-bottom:15px;" align="center">
-			<iframe name="gads" id="gads-footer-banner" src="http://www.banjaramatrimony.com/template/googleads-footer.html" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>
-		</div>
-	</div>			
-
-
 <div class="mywdt">
 <div class="fleft tlleft bgclr3 mywdt" style="height:95px;">
 <div class="mymgnt18 mymgnl10 fleft disline">
@@ -261,7 +336,7 @@ function imgchange(imname)
  <div class="fleft normdiv hgt60 normtxt mywdt387">
   <div class="fleft smalltxt clr1 tlleft" style="margin-top:6px;margin-left:6px;display:inline;"><a href="http://www.banjaramatrimony.com/site/index.php?act=aboutus" class="smalltxt clr1">About Us</a><br><a href="http://www.banjaramatrimony.com/site/index.php?act=contactus" class="smalltxt clr1">Contact Us</a> <br><a href="http://www.banjaramatrimony.com/site/index.php?act=feedback" class="smalltxt clr1">Feedback</a> </div>
   <div style="margin-left:20px;display:inline;margin-top:6px;" class="fleft smalltxt clr1 tlleft">
-     <a href="http://www.banjaramatrimony.com/payment/" class="smalltxt clr1">Pay Now</a><br>
+     <a href="http://www.banjaramatrimony.com/payment/?soureFrom=2" class="smalltxt clr1">Pay Now</a><br>
     <a href="http://www.banjaramatrimony.com/site/index.php?act=termsandconditions" class="smalltxt clr1">Terms and Conditions</a><br><a href="http://www.banjaramatrimony.com/site/index.php?act=privacypolicy" class="smalltxt clr1">Privacy Policy</a></div>
   <div style="margin-left:30px;display:inline;margin-top:6px;" class="fleft smalltxt clr1 tlleft">
     <a href="http://image.banjaramatrimony.com/successstory/index.php?act=success" class="smalltxt clr1">Post Success Story</a><br>
@@ -290,8 +365,8 @@ function imgchange(imname)
 
 </div>
 </div>
+ </div>
 
-</div>
 
 <script language="javascript">
 
