@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricskid.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424135753id_/http%3A//www.lyricskid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricskid.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704175819id_/http%3A//www.lyricskid.com/privacy.php) for the most accurate reproduction.*
 
 # LyricsKid.com Privacy Policies
 
