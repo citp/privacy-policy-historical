@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgcrave.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604053051id_/http%3A//imgcrave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgcrave.com privacy policy that was archived on 2012-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120705090838id_/http%3A//imgcrave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IMGCrave.com | Free Image Hosting | Upload and Share Your Photos for Free!
 
