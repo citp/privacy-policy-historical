@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koini.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119151708id_/http%3A//www.koini.com%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koini.com privacy policy that was archived on 2012-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120705081959id_/http%3A//www.koini.com%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Koini
 
