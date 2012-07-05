@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604072605id_/http%3A//www.thegauntlet.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2012-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120705033424id_/http%3A//www.thegauntlet.com/policy.php) for the most accurate reproduction.*
 
 # The Gauntlet - heavy metal, news, reviews, interviews, videos, setlists
 
