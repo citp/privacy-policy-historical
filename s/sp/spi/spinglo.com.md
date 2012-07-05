@@ -1,16 +1,27 @@
-> *The following text is extracted and transformed from the spinglo.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608061335id_/http%3A//www.spinglo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinglo.com privacy policy that was archived on 2012-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120705044021id_/http%3A//www.spinglo.com/index.php%3Fe%3Dpage%26c%3Dpages%26al%3DSpinglo-privacy) for the most accurate reproduction.*
 
-# Spinglo – Privacy policy
+# Spinglo privacy - Pages - Spinglo
+
+## Privacy policy
 
 As Spinglo is a community that is all about trust we feel it is important to share our privacy policy with you. If you have any questions about this policy we can be reached by email at [privacy@spinglo.com](mailto:privacy@spinglo.com).
 
-### Information We Collect
+  
+
+
+###  Information We Collect
 
 When you become a member of Spinglo we will collect some personal information from you such as: name, email address, etc.
+
+  
+
 
 ### How We Collect
 
 Some of the information we receive is through the registration process. When you agree to become an Spinglo member we ask you to provide this personal information. Additionally, we use cookies and other technologies to recognize you and uniquely identify your browser. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. We also automatically receive such information as IP address, your type of browser and ISP.
+
+  
+
 
 ### Why We Collect
 
