@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-forex-trading-ca.info privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501134746id_/http%3A//online-forex-trading-ca.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-forex-trading-ca.info privacy policy that was archived on 2012-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120706011202id_/http%3A//shop5s.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » My Forex's Blog
 
