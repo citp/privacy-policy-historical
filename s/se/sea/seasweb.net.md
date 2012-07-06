@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seasweb.net privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506072552id_/http%3A//www.computerautomation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seasweb.net privacy policy that was archived on 2012-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120706095700id_/http%3A//www.computerautomation.com/privacy.asp) for the most accurate reproduction.*
 
 # Computer Automation Systems, Inc.
 
