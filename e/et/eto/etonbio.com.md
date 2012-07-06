@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etonbio.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506213100id_/http%3A//www.etonbio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etonbio.com privacy policy that was archived on 2012-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120706182934id_/http%3A//etonbio.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Secuity Notice - Eton Bioscience Inc.
 
@@ -21,7 +21,7 @@
 
 **We respect to your rights:**
 
-      Feel free to [_contact us_](https://web.archive.org/web/20120506213100id_/http%3A//www.etonbio.com/contact.php) if you have any concerns. If you do not feel comfortable about the security of this website, please let us know immediately, and we will take all or portions of your information off this website.
+      Feel free to [_contact us_](https://web.archive.org/web/20120706182934id_/http%3A//etonbio.com/contact.php) if you have any concerns. If you do not feel comfortable about the security of this website, please let us know immediately, and we will take all or portions of your information off this website.
 
 **Other web sites:**
 
