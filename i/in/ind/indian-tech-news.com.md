@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indian-tech-news.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122122537id_/http%3A//www.indian-tech-news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indian-tech-news.com privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707011206id_/http%3A//www.indian-tech-news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Tech News
 
