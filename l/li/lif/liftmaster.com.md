@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liftmaster.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305184214id_/http%3A//www.liftmaster.com/consumerweb/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftmaster.com privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707033652id_/http%3A//www.liftmaster.com/lmcv2/privacypolicy) for the most accurate reproduction.*
 
-# LiftMaster Privacy Policy
+# Chamberlain, LiftMaster, Privacy Policy, Privacy, Personal Information, Rights, terms, conditions
 
 **Privacy is very important to Chamberlain®.**   
 It is Chamberlain's policy to respect the privacy of users who visit our Web site. To ensure this, the following policy statement explains how we collect information from you as well as how it is used. 
