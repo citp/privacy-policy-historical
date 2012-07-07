@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avoncompany.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628175323id_/http%3A//www.youravon.com/REPSuite/security_and_privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avoncompany.com privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707175707id_/http%3A//www.youravon.com/REPSuite/security_and_privacy.page) for the most accurate reproduction.*
 
 # security and policy
 
