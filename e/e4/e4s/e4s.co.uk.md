@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e4s.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630003542id_/http%3A//www.e4s.co.uk/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e4s.co.uk privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707165334id_/http%3A//www.e4s.co.uk/docs/privacy.htm) for the most accurate reproduction.*
 
 # E4S Privacy Policy
 
