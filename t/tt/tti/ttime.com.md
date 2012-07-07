@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttime.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419052900id_/http%3A//ttime.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttime.com privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707180314id_/http%3A//ttime.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
