@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508041906id_/http%3A//charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2012-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120708130849id_/http%3A//charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
