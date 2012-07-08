@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediadomain.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508192651id_/http%3A//www.mediadomain.com/soaps/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediadomain.com privacy policy that was archived on 2012-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120709013404id_/http%3A//www.mediadomain.com/soaps/private.html) for the most accurate reproduction.*
 
 # MediaDomain.com: Privacy statement
 
