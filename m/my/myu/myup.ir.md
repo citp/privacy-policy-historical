@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myup.ir privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521202722id_/http%3A//www.myup.ir/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myup.ir privacy policy that was archived on 2012-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120709033531id_/http%3A//myup.ir/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Myup.ir | Free Image Hosting & Photo Sharing
 
@@ -9,3 +9,6 @@ We may also collect the URL from which you linked into our site, your IP address
 User privacy is something we take very seriously at Myup.ir . We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of MyUp.ir . We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
 If you have any question, please do not hesitate to [contact us](http://myup.ir/contact.php?act=contact_us). 
+
+  
+
