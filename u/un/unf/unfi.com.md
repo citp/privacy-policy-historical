@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the unfi.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526125905id_/http%3A//www.unfi.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfi.com privacy policy that was archived on 2012-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120709061236id_/https%3A//www.unfi.com/Company/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# United Natural Foods - Home
+# United Natural Foods - Privacy
 
 ## United Natural Foods, Inc.
 
 ## Privacy and Data Security
 
-At UNFI, your right to privacy and data security is a primary concern. That's why, when you visit UNFI.com, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site at [www.unfi.com](http://www.unfi.com/).
+At UNFI, your right to privacy and data security is a primary concern. That's why, when you visit UNFI.com, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site at [www.unfi.com](https://web.archive.org/).
 
 This statement discloses the privacy guidelines for the UNFI website.
 
@@ -32,7 +32,7 @@ UNFI may enhance or merge your non-personal statistical information collected at
 
 At any time, you can stop receiving further marketing.
 
-We may send you information about our various products and services, or other products and services we feel may be of interest to you. Only UNFI (or agents working on behalf of UNFI and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your Personal Information. Or, at any time you can easily stop receiving further marketing from UNFI by E-mailing us at Customer Service [www.unfi.com](http://www.unfi.com/), or by calling Customer Service at one of our 800 numbers, and request your removal from our mailing list.
+We may send you information about our various products and services, or other products and services we feel may be of interest to you. Only UNFI (or agents working on behalf of UNFI and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your Personal Information. Or, at any time you can easily stop receiving further marketing from UNFI by E-mailing us at Customer Service [www.unfi.com](https://web.archive.org/), or by calling Customer Service at one of our 800 numbers, and request your removal from our mailing list.
 
 UNFI will not disclose your Personal Information to any outside organization for its use in marketing without your consent.
 
@@ -44,4 +44,4 @@ Please be aware that other web sites that may be accessed through our site may c
 
 You are solely responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you're online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your personal information, UNFI cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
 
-Copyright© 1999-2003 by United Natural Foods, Inc.
+Copyright© 1999-2012 by United Natural Foods, Inc.
