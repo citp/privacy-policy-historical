@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seicane.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531215925id_/http%3A//www.seicane.com/customer-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seicane.com privacy policy that was archived on 2012-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120709054726id_/http%3A//www.seicane.com/customer-service%23answer2) for the most accurate reproduction.*
 
 # Customer Service
 
@@ -32,10 +32,11 @@ To correct inaccuracies in Seicane’s record of your personal information respo
     How to contact us  
 Questions about this statement or about Seicane's handling of your information may be sent to: admin@seicane.com 
 Returns & Exchanges
-    All of our products are covered by a 12-month warranty, for refund, replace and repair.
-    If you are drop-shipping, any product returns (and all the communications) will have to be handled through you, because you are cec’s customer. In fact it is probably in your interests for the customer not to know about cec and deal directly with you, for reasons of safeguarding your business.
-    In practice, it is possible for you to discuss any return issue with us, and provide our return code and address to your customer. Then they can post a faulty item back to us in China and we can ship the replacement directly to them, without you having to handle any products. Obviously this is the most suitable solution when your customers are in different countries.
-    In terms of customer support and technical support for devices, the responsibility rests with the vendor, i.e. You if you are drop-shipping. We will of course provide as much help to you as we can, and with technical questions it may simply be a matter of relaying our information to your customers
+    All of our products are covered by a 12-month warranty, for  replace and repair.
+    New condition within 30 days of purchase for a full product refund. Product may not be returned in used condition unless defective by manufacturer's warranty.  
+
+    In practice, it is possible for you to discuss any return issue with us, and provide our return code and address to you. Then you can post a faulty item back to us in China and we can ship the replacement directly to you. Obviously this is the most suitable solution when you are in different countries.
+    In terms of customer support and technical support for devices, the responsibility rests with the vendor, i.e. You if you are drop-shipping. We will of course provide as much help to you as we can, and with technical questions it may simply be a matter of relaying our information to you
 Ordering
     seicane.com currently ships small and medium sized orders by international couriers. 
     The shipping rates can be previewed inside the seicane.com online shop system. You can just click on the " **[Estimated Shipping And Tax](http://www.seicane.com/checkout/cart/ "Estimate Shipping and Tax")** " and choose the country you want to ship to, Shipping fees will be estimated by our system automatically. 
