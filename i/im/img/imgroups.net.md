@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgroups.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021652id_/http%3A//imgroups.net/s/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgroups.net privacy policy that was archived on 2012-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120710012046id_/http%3A//imgroups.net/s/privacy.do) for the most accurate reproduction.*
 
 # Policy of Privacy | IMGroups - We host Group Chat on Instant Messengers! (Windows Live Messenger / MSN, Yahoo Messenger, Google Talk / GTalk)
 
