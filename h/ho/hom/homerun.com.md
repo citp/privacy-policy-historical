@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homerun.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126224130id_/http%3A//homerun.com/legal/Deem-Offers-Inc-HomeRun-Privacy-Statement-Nov_4_2011.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homerun.com privacy policy that was archived on 2012-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120710084042id_/http%3A//homerun.com/legal/Deem-Offers-Inc-HomeRun-Privacy-Statement-Nov_4_2011.pdf) for the most accurate reproduction.*
 
 # 
 
