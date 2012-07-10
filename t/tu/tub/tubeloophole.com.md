@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeloophole.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511165643id_/http%3A//tubeloophole.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeloophole.com privacy policy that was archived on 2012-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120710234545id_/http%3A//tubeloophole.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Tube Loophole
 
@@ -58,7 +58,7 @@ Our business practices limit employee access to confidential information, and li
 
 * * *
 
-[Disclaimer](https://web.archive.org/web/20120511165643id_/http%3A//tubeloophole.com/index.php%3Faction%3Dprivacy?action=disclaimer) | [Terms](https://web.archive.org/web/20120511165643id_/http%3A//tubeloophole.com/index.php%3Faction%3Dprivacy?action=terms) | [Privacy](https://web.archive.org/web/20120511165643id_/http%3A//tubeloophole.com/index.php%3Faction%3Dprivacy?action=privacy)
+[Disclaimer](https://web.archive.org/web/20120710234545id_/http%3A//tubeloophole.com/index.php%3Faction%3Dprivacy?action=disclaimer) | [Terms](https://web.archive.org/web/20120710234545id_/http%3A//tubeloophole.com/index.php%3Faction%3Dprivacy?action=terms) | [Privacy](https://web.archive.org/web/20120710234545id_/http%3A//tubeloophole.com/index.php%3Faction%3Dprivacy?action=privacy)
 
 Support: <http://www.sarahstaar.com/helpdesk>
 
