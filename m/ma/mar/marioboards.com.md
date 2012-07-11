@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marioboards.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512044453id_/http%3A//www.marioboards.com/index.php%3Ftopic%3D14227.msg575383%23msg575383) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marioboards.com privacy policy that was archived on 2012-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120711193901id_/http%3A//www.marioboards.com/index.php%3Ftopic%3D14227.msg575383%23msg575383) for the most accurate reproduction.*
 
 # Privacy Policy
 
