@@ -1,25 +1,24 @@
-> *The following text is extracted and transformed from the aiclu.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520095250id_/http%3A//aiclu.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiclu.com privacy policy that was archived on 2012-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120711132914id_/http%3A//aiclu.com/privacy.aspx) for the most accurate reproduction.*
 
-# Aiclu Web Directory - Privacy Policy
+# A Icl U | AIclU.com - Privacy
 
-**Your Privacy**
+### Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+When accessing our Website, **AIclU.com** will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. 
 
-**Collection of Personal Information**
+If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
-When visiting [aiclu.com](http://aiclu.com/ "Home"), the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+  1. The name of the domain from which you access the Internet
+  2. The date and time you access our site
+  3. The Internet address of the website you used to link directly to our site.
+  4. We do not share information. We simply pass on customer data to the advertisers
 
-**Links to third party Websites**
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-**Changes to this Privacy Statement**
+If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. The information collected is for statistical purposes. **AIclU.com** may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. For site security purposes and to ensure that this service remains available to all users, **AIclU.com** uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. **AIclU.com** will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection 
 
-The contents of this statement may be altered at any time, at our discretion.
+### Third Party Advertising
 
-If you have any questions regarding the privacy policy of aiclu.com then you may contact us at info@aiclu.com
+The ads appearing on this Web site are delivered to users by our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks. This privacy statement covers the use of cookies by our site and does not cover the use of cookies by any advertiser. 
 
-**Advertising**
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+**AIclU.com** allows Magnetic to monitor **AIclU.com** affiliated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about **AIclU.com** users. For further information about Magnetic's search re-targeting product, Magnetic’s homepage on the Web is located at [http://www.magnetic.is](http://www.magnetic.is/). The full text of Magnetic’s privacy policy is available on the Web at [http://privacy.magnetic.is](http://privacy.magnetic.is/). Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users. Users may go to [http://magnetic.is](http://magnetic.is/) for information on what is being tracked. Users may go to <http://privacy.magnetic.is/w3c/optout.html> for information on how to opt-in or opt-out of use of their information by Magnetic and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third party tracking. 
