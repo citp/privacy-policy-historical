@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravenwoodfair.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611030837id_/http%3A//www.ravenwoodfair.com/app/1/email/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravenwoodfair.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712014548id_/http%3A//www.ravenwoodfair.com/app/1/email/privacy_policy) for the most accurate reproduction.*
 
 # Ravenwood Fair | Play for Free
 
