@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edwardandbella.net privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308140913id_/http%3A//edwardandbella.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwardandbella.net privacy policy that was archived on 2012-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120711204754id_/http%3A//edwardandbella.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Everglow Network Privacy Policy
 
