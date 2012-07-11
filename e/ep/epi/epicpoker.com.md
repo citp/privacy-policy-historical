@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicpoker.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618071548id_/http%3A//www.epicpoker.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicpoker.com privacy policy that was archived on 2012-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120711110000id_/http%3A//www.epicpoker.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Epic Poker
 
