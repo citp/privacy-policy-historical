@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askthecrew.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215250id_/http%3A//askthecrew.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askthecrew.net privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712203528id_/http%3A//askthecrew.net/privacy.php) for the most accurate reproduction.*
 
 # askthecrew
 
