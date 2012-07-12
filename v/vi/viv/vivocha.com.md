@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivocha.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623032002id_/https%3A//www.vivocha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivocha.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712154829id_/https%3A//www.vivocha.com/privacy) for the most accurate reproduction.*
 
-# Privacy PolicyVivocha | Vivocha
+# Privacy Policy - VivochaVivocha | Vivocha
 
 [Vivocha](https://web.archive.org/) Skip to content
 
@@ -14,7 +14,7 @@ The Personal Data and Browser Data (hereinafter collectively referred to as “D
 
 ### Owner of the Data Processing System
 
-Vivocha Business Unit, Reitek S.p.A. – Viale Sarca 336 – 20126 Milano (MI) – Italy,  
+Vivocha s.r.l. – via Colomba Antonietti 3 09134  CAGLIARI (CA) \- Italy,  
 info@vivocha.com
 
 ## Kinds of Data
@@ -68,7 +68,7 @@ Registration (This Website)
 
 The registered User consents to provide his/her Personal Data to enable the execution of the services by the Website, and/or the purchase of products sold on this Site
 
-The personal data collected are: First Name, Last Name, Email and Company name.
+The personal data collected are: First Name, Last Name, Email, Phone number and Company name.
 
 ## Purpose of the information collected and Services utilized on the website
 
