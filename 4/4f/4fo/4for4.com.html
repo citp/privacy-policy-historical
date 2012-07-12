@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 4for4.com privacy policy that was archived on 2012-01-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120101004000id_/http%3A//www.4for4.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4for4.com privacy policy that was archived on 2012-07-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120712160553id_/http%3A//www.4for4.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,15 +18,16 @@
 
 
 	    <div id="login_form">
-      <form action="/login_verify.php?destination=%2Fprivacy.php%3F" method="post">
+      <form action="/fantasy-football/user/login?destination=to-homepage" method="post">
       <ul id="login_box">
           <li class="login">
-              <input type="text" name="username" value="Login ID" onfocus="if (this.value == 'Login ID') { this.value='';}" onblur="if (this.value == '') {this.value='Login ID';}">
-              <input type="password" name="userpw" value="12345678" onfocus="if (this.value == '12345678') { this.value='';};" onblur="if (this.value == '') {this.value='12345678';}">
+              <input type="text" name="name" id="edit-name" value="Login ID" onfocus="if (this.value == 'Login ID') { this.value='';}" onblur="if (this.value == '') {this.value='Login ID';}">
+              <input type="password" name="pass" title="edit-pass" value="12345678" onfocus="if (this.value == '12345678') { this.value='';};" onblur="if (this.value == '') {this.value='12345678';}">
           </li> 
           <!--<li class="checkbox"> Remember<input name="remember" type="checkbox" /></li>-->
-          <li class="submit"><input value="Log In" type="submit"></li>
-          <li><a href="/login.php">Forgot?</a> | </li>
+	  <input type="hidden" name="form_id" id="edit-user-login" value="user_login">
+          <li class="submit"><input name="op" id="edit-submit" value="Log In" type="submit"></li>
+          <li><a href="/fantasy-football/user/password">Forgot?</a> | </li>
           <li><a href="https://www.4for4.com/fantasy-football/order-login">Sign Up Now!</a></li>
       </ul>
       </form>
@@ -40,7 +41,7 @@
 		  </div>
 		  <div id="header_banner">
 		  
-		  <a href="http://www.4for4.com/fantasyfootballcheatsheets.php"><img src="/images/pre_design/4for4_best_tools_b.jpg" width="710" height="149" alt="Best fantasy tools on the web" border="0"></a>			</div>
+		  <a href="/fantasy-football/4for4-fantasy-football-accuracy"><img src="/images/pre_design/4for4_best_tools_b.jpg" width="710" height="149" alt="Best fantasy tools on the web" border="0"></a>			</div>
 		</div>
 		
 		<div id="header_nav">
@@ -48,11 +49,11 @@
 		     <li><a href="/">Home</a></li>		   
 		     <li><a href="/content/free_fantasy_football_services.php">Free Content</a></li>
 		     <li><a href="/content/premium_fantasy_football_content.php">Premium Content</a></li>
-		     <li><a href="/fantasyfootballscouts.php">Scouts</a></li>
+		     <li><a href="/fantasy-football/scouts">Scouts</a></li>
 		     <li><a href="/draft_board/index.php">Draft Board</a></li>
 		     <li><a href="/fantasy-football/news">News</a></li>		     
 		     <li><a href="/fantasyfootballsite.php">Testimonials</a></li>
-		     <li class="noborder"><a href="/fantasyfootballcheatsheets.php">Why Join?</a></li>
+		     <li class="noborder"><a href="/fantasy-football/why-join-4for4">Why Join?</a></li>
          <li class="player_search noborder">
             <form action="/players/player_search.php" method="post">
             <input type="text" id="player_search" name="player_search" value="Player Search" onfocus="if (this.value == 'Player Search') {this.value='';}" onblur="if (this.value == '') {this.value='Player Search';}">
@@ -71,7 +72,7 @@
         
        <div class="sidebar_image"> 
           <a href="https://www.4for4.com/fantasy-football/order-login">
-            <img src="/images/player_rotation/stafford_crush.jpg" width="218" height="500" alt="Crush The Competition">
+            <img src="/images/player_rotation/nicks_crush.jpg" width="218" height="500" alt="Crush The Competition">
           </a>
         </div> 
             
@@ -93,18 +94,34 @@
          <!-- resources block -->
                   <h3>4for4 Resources</h3>
          <ul>
-<li><a href="/fantasy-football/daily-fantasy-football-contests">Play Daily Fantasy Contests</a></li>
-<li>Rankings: <a href="/members/reports/cheat_sheet_sortable.php?position=QB&amp;pass_td=4">QB</a> <a href="/members/reports/cheat_sheet_sortable.php?position=RB">RB</a> <a href="/members/reports/cheat_sheet_sortable.php?position=WR">WR</a> <a href="/members/reports/cheat_sheet_sortable.php?position=TE">TE</a> <a href="/members/reports/cheat_sheet_sortable_k.php">K</a> <a href="/members/reports/cheat_sheet_sortable_d.php">D</a></li>
-<li>PPR Rankings: <a href="/members/reports/cheat_sheet_sortable_ppr.php?position=QB&amp;pass_td=4">QB</a> <a href="/members/reports/cheat_sheet_sortable_ppr.php?position=RB">RB</a> <a href="/members/reports/cheat_sheet_sortable_ppr.php?position=WR">WR</a> <a href="/members/reports/cheat_sheet_sortable_ppr.php?position=TE">TE</a></li>   
 
+
+<li>Rankings: <a href="/members/reports/pre_cheat_sheet_sortable.php?position=QB&amp;pass_td=4">QB</a> <a href="/members/reports/pre_cheat_sheet_sortable.php?position=RB">RB</a> <a href="/members/reports/pre_cheat_sheet_sortable.php?position=WR">WR</a> <a href="/members/reports/pre_cheat_sheet_sortable.php?position=TE">TE</a> <a href="/members/reports/pre_cheat_sheet_classic_kdef.php">K</a> <a href="/members/reports/pre_cheat_sheet_classic_kdef.php">D</a></li>
+<li>PPR Rankings: <a href="/members/reports/pre_cheat_sheet_sortable_PPR.php?position=QB">QB</a> <a href="/members/reports/pre_cheat_sheet_sortable_PPR.php?position=RB">RB</a> <a href="/members/reports/pre_cheat_sheet_sortable_PPR.php?position=WR">WR</a> <a href="/members/reports/pre_cheat_sheet_sortable_PPR.php?position=TE">TE</a></li>   
+<li><a href="/fantasy-football/articles/2012">2012 Fantasy Articles</a></li>  
+<li><a href="/fantasy-football/daily-fantasy-football-contests">Play Daily Fantasy Contests</a></li>
+<li><a href="/fantasy-football/teams/schedule/2012/grid">2012 NFL Schedule Grid</a></li>
+<li><a href="/fantasy-football/reports/hot_spots_ff_points_adjusted">SOS Hot Spots</a></li>
+<li><a href="/fantasy-football/adp">2012 ADP Data</a></li>
+<li><a href="/fantasy-football/adp_draft_planner">ADP Draft Planner</a></li>
+<li><a href="/fantasy-football/teams/depth_charts">Fantasy Depth Charts</a></li>
+<li><a href="/players/player_search.php">Player Pages</a></li>
+<li><a href="/fantasy-football/dynasty-fantasy-football-resources">Dynasty League Resources</a></li>  
+<li><a href="/fantasy-football/fantasy-football-league-management-software">League Management</a></li>
+<li><a href="/fantasy-football/4for4-fantasy-football-accuracy">Accuracy</a></li>          
+
+<!--
+<li>Rankings: <a href="/members/reports/cheat_sheet_sortable.php?position=QB&pass_td=4">QB</a> <a href="/members/reports/cheat_sheet_sortable.php?position=RB">RB</a> <a href="/members/reports/cheat_sheet_sortable.php?position=WR">WR</a> <a href="/members/reports/cheat_sheet_sortable.php?position=TE">TE</a> <a href="/members/reports/cheat_sheet_sortable_k.php">K</a> <a href="/members/reports/cheat_sheet_sortable_d.php">D</a></li>
+<li>PPR Rankings: <a href="/members/reports/cheat_sheet_sortable_ppr.php?position=QB&pass_td=4">QB</a> <a href="/members/reports/cheat_sheet_sortable_ppr.php?position=RB">RB</a> <a href="/members/reports/cheat_sheet_sortable_ppr.php?position=WR">WR</a> <a href="/members/reports/cheat_sheet_sortable_ppr.php?position=TE">TE</a></li>   
+-->
 <!--
 <li>Rankings: <a href="/members/reports/pre_cheat_sheet_sortable.php?position=QB&pass_td=4">QB</a> <a href="/members/reports/pre_cheat_sheet_sortable.php?position=RB">RB</a> <a href="/members/reports/pre_cheat_sheet_sortable.php?position=WR">WR</a> <a href="/members/reports/pre_cheat_sheet_sortable.php?position=TE">TE</a> <a href="/members/reports/pre_cheat_sheet_classic_kdef.php">K</a> <a href="/members/reports/pre_cheat_sheet_classic_kdef.php">D</a></li>
 <li>PPR Rankings: <a href="/members/reports/pre_cheat_sheet_sortable_PPR.php?position=QB">QB</a> <a href="/members/reports/pre_cheat_sheet_sortable_PPR.php?position=RB">RB</a> <a href="/members/reports/pre_cheat_sheet_sortable_PPR.php?position=WR">WR</a> <a href="/members/reports/pre_cheat_sheet_sortable_PPR.php?position=TE">TE</a></li>   
 --> 
 
+<!--
 <li><a href="/members/reports/redraft_cheat_sheet.php">Rest-of-Season Rankings</a></li>
 <li><a href="/members/fi/fihub.php">Full Impact Tools</a></li>   
-<li><a href="/content/fantasy_football_articles.php">2011 Fantasy Articles</a></li>   
 <li><a href="/members/reports/hot_spots_ff_points_adjusted.php">SOS Hot Spots</a></li>
 <li><a href="/fantasy-football/gameday/matchups">Gameday Matchups</a></li>
 <li><a href="/fantasy-football/gameday/weather">Gameday Weather</a></li>
@@ -115,16 +132,19 @@
 <li><a href="/content/idp.php">IDP Rankings</a></li>
 <li><a href="/players/player_search.php">Player Pages</a></li>
 <li><a href="/content/reports/forecast_accuracy.php">Accuracy</a></li>           
+-->
 
-<li><br>For more please check the homepage each day as links activate.</li>
+<!--<li><br>For more please check the homepage each day as links activate.</li>-->
 
  <!--<li><a href="/members/reports/pre_cheat_sheet_sortable.php?position=QB">QB Cheat Sheets</li>-->
 <!--<li><a href="/members/reports/pre_cheat_sheet_sortable.php?position=RB">RB Cheat Sheets</li>-->
 <!--<li><a href="/members/reports/pre_cheat_sheet_sortable.php?position=WR">WR Cheat Sheets</li>-->
 <!--<li><a href="/members/reports/pre_cheat_sheet_sortable.php?position=TE">TE Cheat Sheets</li>-->
 
+<!--
 <li><a href="/content/adp.php">2011 ADP Data</a></li>
 <li><a href="/fantasy-football/adp_draft_planner">ADP Draft Planner</a></li>
+-->
 <!--
 <li>Gameday Matchups</li>
 <li>Gameday Weather</li>
@@ -196,6 +216,7 @@ By using 4for4.com you hereby agree to be bound by the policy above. Thank you f
 					
 		
 			<div id="sideBarRight">
+
 
 			<!--
         <div class="sidebar_image">
@@ -272,9 +293,11 @@ By using 4for4.com you hereby agree to be bound by the policy above. Thank you f
           </a>
         </div>  
         -->
-	
+	   
+     <!--
      <div class="sidebar_image"> 
-			  <a href="http://www.pntra.com/t/R0BIS0ZER0BKQ0pGQ0BISEtERw"><img src="/images/2011/ad/game_rewind_182_50.jpg" height="50" width="182" alt="NFL Game Rewind"></a>     </div>	
+			  <a href="http://www.pntra.com/t/R0BIS0ZER0BKQ0pGQ0BISEtERw"><img src="/images/2011/ad/game_rewind_182_50.jpg" height="50" width="182" Alt="NFL Game Rewind"></a>     </div>
+     -->
         
         <div class="sidebar_icon">
           <a href="http://www.twitter.com/4for4football"><img src="/images/twitter_t_22x22.jpg" height="22" width="22" alt="Twitter" border="0"></a>
@@ -291,14 +314,19 @@ By using 4for4.com you hereby agree to be bound by the policy above. Thank you f
          
           <div style="margin-left:120px; width: 52px; height: 30px; overflow: hidden; position: relative;"><iframe src="http://www.facebook.com/plugins/likebox.php?id=98456617389&amp;width=292&amp;connections=0&amp;stream=false&amp;header=false&amp;height=50" scrolling="no" frameborder="0" style="position: absolute; top: -40px; left: -60px;border:none; overflow:hidden; width:292px; height:255px;" allowtransparency="true"></iframe></div>
         
-        </div>     
+        </div>
+     
+      <div class="sidebar_image">
+        <a href="/fantasy-football/4for4-fantasy-football-accuracy"><img style="margin-top: 4px;" src="/images/pre_design/ridiculous_badges.png" height="258" width="182" alt="Verified Accuracy"></a>
+      </div>        
         
 
      <br>
      
+     <!--
      <div class="db_buzz">
-			  <h3>Draft Board Buzz</h3><ul><li>WR <a href="/draft_board/draft_board_profile.php?player_id=simpsj1">Jerome Simpson</a></li><li>QB <a href="/draft_board/draft_board_profile.php?player_id=daltoa1">Andy Dalton</a></li><li>RB <a href="/draft_board/draft_board_profile.php?player_id=bensoc1">Cedric Benson</a></li><li>WR <a href="/draft_board/draft_board_profile.php?player_id=greena2">A.J. Green</a></li><li>TE <a href="/draft_board/draft_board_profile.php?player_id=greshj1">Jermaine Gresham</a></li><li>TE <a href="/draft_board/draft_board_profile.php?player_id=chands1">Scott Chandler</a></li><li>QB <a href="/draft_board/draft_board_profile.php?player_id=fitzpr1">Ryan Fitzpatrick</a></li><li>WR <a href="/draft_board/draft_board_profile.php?player_id=nelsod1">David Nelson</a></li></ul>   
-     </div>
+			     
+     </div>-->
      
      <!--<div class="db_world">-->
 			     
