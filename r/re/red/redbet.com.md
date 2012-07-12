@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbet.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110155320id_/https%3A//www.redbet.com/en/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbet.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712024602id_/https%3A//www.redbet.com/en/about/privacy_policy) for the most accurate reproduction.*
 
 # About us | Redbet
 
@@ -46,7 +46,7 @@ By providing us with your personal information and registering with us or loggin
 
 ## Access to your personal information
 
-You always have the right to access the information we have about you. To review and update your personal contact details, simply log in to our website with your Username and Password and go to My Account – Settings to edit the information. If you prefer, you can contact our Call Centre/Customer Service using the contact details available on the site. In addition, you have the right to have any inaccurate information corrected and, where applicable, deleted.
+You always have the right to access the information we have about you. To review and update your personal contact details, simply log in to our website with your Username and Password and go to My Account - Settings to edit the information. If you prefer, you can contact our Call Centre/Customer Service using the contact details available on the site. In addition, you have the right to have any inaccurate information corrected and, where applicable, deleted.
 
 It is our right to ask you to provide us with a written request for information we hold about you.
 
