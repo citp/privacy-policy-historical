@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatearcade.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602132150id_/http%3A//www.ultimatearcade.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatearcade.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712180358id_/http%3A//www.ultimatearcade.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
