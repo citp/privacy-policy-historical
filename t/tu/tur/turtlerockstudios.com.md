@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508204511id_/http%3A//www.turtlerockstudios.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2012-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120713144448id_/http%3A//www.turtlerockstudios.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Turtle Rock Studios Privacy Policy
 
