@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugefiresale.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604195900id_/http%3A//www.hugefiresale.com/privacy.ag.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugefiresale.com privacy policy that was archived on 2012-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120713050845id_/http%3A//www.hugefiresale.com/privacy.ag.php) for the most accurate reproduction.*
 
 # Huge Fire Sale | Advertising Services & Products
 
