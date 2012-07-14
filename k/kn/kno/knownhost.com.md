@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609035443id_/http%3A//www.knownhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2012-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120714070158id_/http%3A//www.knownhost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - KnownHost
 
