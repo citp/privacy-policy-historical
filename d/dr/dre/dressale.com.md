@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressale.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609025917id_/http%3A//www.dressale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressale.com privacy policy that was archived on 2012-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120714035021id_/http%3A//www.dressale.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Buy Formal dresses, Party dresses, bridesmaids dresses, Wedding dresses, Wholesale Dresses, dressale.com
 
