@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509060613id_/http%3A//www.insync.co.in/%3Fpage_id%3D80) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2012-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120715075755id_/http%3A//www.insync.co.in/%3Fpage_id%3D80) for the most accurate reproduction.*
 
 # Privacy Policy for InSync | SAP B1 Consulting Company India |
 
