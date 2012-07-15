@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popupdomination.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629101227id_/http%3A//www.popupdomination.com/live/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popupdomination.com privacy policy that was archived on 2012-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120715111907id_/http%3A//www.popupdomination.com/live/privacy.html) for the most accurate reproduction.*
 
 # PopUp Domination - Privacy Policy
 
