@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntubelivegirls.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514111205id_/http%3A//www.porntubelivegirls.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntubelivegirls.com privacy policy that was archived on 2012-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120715074539id_/http%3A//www.porntubelivegirls.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PornTubeLiveGirls.com
 
@@ -60,4 +60,4 @@ Visitors who have any questions about this Privacy Policy, the practices of this
 
 © Copyright 2005-2012 PornTubeLiveGirls.com, All Rights Reserved.
 
-[Click Here to contact Customer Support](https://web.archive.org/web/20120514111205id_/http%3A//www.porntubelivegirls.com/index.php?action=MailSupport)
+[Click Here to contact Customer Support](https://web.archive.org/web/20120715074539id_/http%3A//www.porntubelivegirls.com/index.php?action=MailSupport)
