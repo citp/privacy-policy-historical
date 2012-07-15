@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appstores.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161751id_/http%3A//appstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appstores.com privacy policy that was archived on 2012-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120715064555id_/http%3A//appgalleries.com/privacy) for the most accurate reproduction.*
 
-# Appstores.com -Privacy Policy
+# AppGalleries.com - Privacy Policy
 
-MMTG Labs, Inc. (“MMTG Labs”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [www.appstores.com](http://www.appstores.com/) website and domain name, or otherwise accessing any other linked pages, features, content, or services offered from time to time by MMTG Labs in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+MMTG Labs, Inc. (“MMTG Labs”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [www.AppGalleries.com](http://www.appgalleries.com/) website and domain name, or otherwise accessing any other linked pages, features, content, or services offered from time to time by MMTG Labs in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
 What Does This Privacy Policy Cover?
 
@@ -44,7 +44,7 @@ _Affiliated Businesses We Do Not Control_ : We anticipate that we may become aff
 
 _Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, MMTG Labs’ agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-_Promotional Offers_ : We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to hello@appstores.com. 
+_Promotional Offers_ : We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to hello@AppGalleries.com. 
 
 _Business Transfers_ : In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if MMTG Labs, or substantially all of its assets were acquired, or in the unlikely event that MMTG Labs goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of MMTG Labs may continue to use your Personal Information as set forth in this policy.
 
@@ -80,7 +80,7 @@ MMTG Labs allows you to access certain personal information about you for the pu
 
 What Choices Do I Have?
 
-You may request deletion of your MMTG Labs account by sending an e-mail to hello@appstores.com. Please note that some information may remain in our records after deletion of your account. 
+You may request deletion of your MMTG Labs account by sending an e-mail to hello@AppGalleries.com. Please note that some information may remain in our records after deletion of your account. 
 
 If you do not wish to receive email or other mail from us, please indicate this preference during the registration process. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
@@ -90,11 +90,11 @@ MMTG Labs may amend this Privacy Policy from time to time. Use of information we
 
 Questions or Concerns
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at hello@appstores.com. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at hello@AppGalleries.com. We will make every effort to resolve your concerns.
 
 Effective Date: May 1, 2010
 
-Email: hello@appstores.com
+Email: hello@AppGalleries.com
 
 Phone: (415) 413-8227
 
