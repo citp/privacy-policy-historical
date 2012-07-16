@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marketingdive.com privacy policy that was archived on 2012-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120517081557id_/http%3A//www.marketingdive.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketingdive.com privacy policy that was archived on 2012-07-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120717011828id_/http%3A//www.marketingdive.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,7 +13,7 @@
         
         
         
-            <meta name="description" content="Marketing news, voices and jobs for industry professionals.  Optimized for your mobile phone.">
+            <meta name="description" content="The privacy policy for users and subscribers of Marketing Dive.">
         
 
         
@@ -29,7 +29,7 @@
 
         
 
-        <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 
         
             <meta http-equiv="X-UA-Compatible" content="IE=9">
@@ -42,6 +42,7 @@
 
             <!-- for modal signup form -->
             <script type="text/javascript" src="http://cf.divecdn.com/static/js/jquery.simplemodal.1.4.2.min.js"></script>
+
         
         
         <link rel="alternate" type="application/rss+xml" title="Latest News Feed" href="http://feeds.feedburner.com/MarketingDive-news">
@@ -58,6 +59,9 @@
                 var ados = ados || {};
                 ados.run = ados.run || [];
                 ados.run.push(function() {
+
+                
+
                 ados_add_placement(862, 14354, "advert_leaderboard", 4).setZone(1462);
                 ados_add_placement(862, 14354, "advert_bigbox1", 5).setZone(1463);
                 ados_add_placement(862, 14354, "advert_bigbox2", 5).setZone(1464);
@@ -66,6 +70,34 @@
                 
                 ados_load();
                 });</script>
+
+                <script>
+                    $(function() {
+
+                        
+                        $('.view-sample').click(function(){
+                            var url = $(this).attr('href') + '?modal=1';
+                            $.modal('<iframe src="' + url + '" height="600" width="715" style="border:0" scrolling="no">', 
+                                {
+                                    width: 715,
+                                    height: 600,
+                                    padding: 0,
+                                    autoResize: false,
+                                    closeHTML: "<a href='#' title='Close' class='modal-close'>x</a>",
+                                    onClose: function() { $.modal.close(); }
+                                });
+                            if (typeof mpq !== 'undefined') {
+                                mpq.track("Signup - view sample");
+                            }
+                            if (typeof _gaq !== 'undefined') {
+                                _gaq.push(['_trackEvent', 'EmailSignup', 'SeeExample', 'Homepage']);
+                            }
+                            return false;
+                        });
+                                                
+                    })
+                </script>
+
             
         
 
@@ -88,6 +120,48 @@
         </script>
         <!-- end Mixpanel -->
     
+ 
+
+        
+            <script type="text/javascript" src="http://cf.divecdn.com/static/js/divecounter.js"></script>
+            <script>
+                var divecounter = new divecounter();
+
+                function do_hit_based_ad() {
+                    if (typeof mpq !== 'undefined') {
+                        mpq.track("Signup - Show hit based advert", {'hits': divecounter.getData().hits});
+                    }                    
+                    $(function(){
+                        $(".ID-module-signup-oneline").hide();
+                        $(".ID-module-signup").hide();
+                        $("input.suspect").val("0");
+                    });
+                    $.getScript("http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js", 
+                        function(data, textStatus, jqxhr) {
+                            $(function(){
+                                $("#hit_based_ad").show('bounce',{},'fast');
+                            });                            
+                        }
+                    );
+                }
+                
+                divecounter.countHit();
+                
+                if (window.location.search && window.location.search.indexOf('utm_source=campaignmonitor') != -1) {
+                  divecounter.markSubscriber();
+                }
+
+                if(divecounter.canShow(3,7)) {
+                    do_hit_based_ad();
+                    divecounter.markShown();
+                }
+                divecounter.save();
+
+                if(location.search == '?show_hit_ad') {
+                    do_hit_based_ad();
+                }
+
+            </script>
         
 
         
@@ -96,6 +170,59 @@
     </head>
     
     <body id="ID-desktop">
+        
+                <style>
+        .ID-module-hit-counter-ad  {
+            text-align:center; 
+            margin: 0; 
+            color: white; 
+            font-weight: bold; 
+            background-color: #000000; 
+            font-size: 14px;
+            padding: 1em;
+        }
+
+        .ID-module-hit-counter-ad a, .ID-module-hit-counter-ad a:visited, .ID-module-hit-counter-ad a:hover {
+            color: white !important;
+        }
+
+        .ID-module-hit-counter-ad .email_submit {
+            background-color: #D62828;
+            border-radius: 6px 6px 6px 6px;
+            color: white;
+            font-size: 12px;
+            font-weight: bold;            
+        }
+
+        #hit_email {
+            width: 205px;
+        }
+
+        #hit_email, #hit_email_submit {
+            font-size: 16px;
+        }
+
+    </style>
+    <div id="hit_based_ad" style="display:none;" class="ID-module-hit-counter-ad">
+        <form name="hit_signup" id="hit_signup" action="/signup/?source=hitad" method="POST">
+        <div id="hit_based_ad_inner">
+        <!-- h3 class="ID-module-title">Get Email Updates</h3> -->
+        <p>
+            <a class="view-sample" href="/signup/mobile-demo/?source=hitadpopup"><img src="http://s3.divecdn.com/icons/phone_dark_logo.gif" style="display: inline-block; vertical-align:middle"></a>&nbsp;
+            <a class="view-sample" href="/signup/mobile-demo/?source=hitadpopup">IMAGINE reading our email updates on your phone.</a> Get the news you need, anywhere you are.
+        &nbsp;&nbsp;
+        <input id="hit_email" type="text" name="email" class="email required" value="Enter your email" onblur="if (this.value=='') { this.value='Enter your email' }" onfocus="if (this.value=='Enter your email') { this.value='' };">
+        <!-- <button id="email_submit" class="email_submit" type="submit">Sign up</button> -->
+        <input type="hidden" name="from_page" value="landingpage">
+        <input type="hidden" name="suspect" class="suspect" value="1">
+        <input id="hit_email_submit" class="email_submit" type="submit" value="Sign up">
+        </p>
+        </div>
+        </form>
+    </div>
+        
+
+
         
         <div class="ID-page flatpage-template" data-role="page">
             <div class="ID-logo-search">
@@ -180,9 +307,8 @@
             
                 
             <div class="ID-content" data-role="content">
-
                 
-                    <h1>Privacy Policy</h1>
+                    
                 
                 
                 
@@ -227,6 +353,7 @@
                         <div id="advert_bigbox0"></div>
                         
                         
+                            
     
 <script type="text/javascript">
       $(function() {
@@ -244,27 +371,6 @@
             $.modal.close();
         }
 
-        
-        $('.view-sample').click(function(){
-            var url = "/signup/mobile-demo/?modal=1";
-            $.modal('<iframe src="' + url + '" height="600" width="715" style="border:0" scrolling="no">', 
-                {
-                    width: 715,
-                    height: 600,
-                    padding: 0,
-                    autoResize: false,
-                    closeHTML: "<a href='#' title='Close' class='modal-close'>x</a>",
-                    onClose: kill_modal
-                });
-            if (typeof mpq !== 'undefined') {
-                mpq.track("Signup - view sample");
-            }
-            if (typeof _gaq !== 'undefined') {
-                _gaq.push(['_trackEvent', 'EmailSignup', 'SeeExample', 'Homepage']);
-            }
-            return false;
-        });
-        
 
         $("#signup").submit(function() {
             // validate and process form here
@@ -320,25 +426,7 @@
 </script>
 
 <style>
-#simplemodal-overlay {
-    background-color:#000;
-    -moz-opacity: 0.8;
-    opacity:.8;
-    filter: alpha(opacity=80);    
-}
-#simplemodal-container {
-    background-color:#FFF; border:8px solid #444; padding:12px;
-}
 
-#simplemodal-container a.modal-close,
-#simplemodal-container a.modal-close:link,
-#simplemodal-container a.modal-close:active,
-#simplemodal-container a.modal-close:visited {color:#444; font-size:16px; font-weight:bold; position:absolute; text-decoration:none; right:3px; top:0px;}
-img.spinner { display: inline; }
-
-#simplemodal-container input[type="text"], #simplemodal-container select {
-    font-size: 11px;
-}
 
 /* *** */
 .ID-module-signup {
@@ -383,7 +471,7 @@ img.spinner { display: inline; }
 </style>
 
 <div id="ID-signup-modal" class="modal_dialog" style="display:none" title="Free Email Newsletter">
-    <p>Continue to the <a href="/signup/">signup form</a>.</p>
+    <p>Continue to the <a href="/signup/">Email Updates Signup Form</a>.</p>
 </div>
 
 <div class="ID-module ID-module-signup">
@@ -415,6 +503,7 @@ img.spinner { display: inline; }
     <p>Continue to the <a href="/signup/" target="_parent">signup form</a>.</p>
 </div>
 
+                        
                         <div class="ID-module">
         <h3 class="ID-module-title">Follow Us</h3>
         <!-- AddThis Button BEGIN -->
@@ -437,11 +526,10 @@ img.spinner { display: inline; }
                 <li class="trending-story tweet">
                         <div class="container fill">
                                 <div class="content">
-                                        <div class="thumbnail"><a target="_blank" href="http://twitter.com/B2Bbloggers/status/203026583798300673"><img width="48" height="48" src="http://a0.twimg.com/profile_images/575282831/B2BBloggers-Twitter-Logo-orange_normal.png"></a></div>
+                                        <div class="thumbnail"><a target="_blank" href="http://twitter.com/pgillin/status/225031240682713088"><img width="48" height="48" src="http://a0.twimg.com/profile_images/192850565/PGillin_newspaper_cropped_normal.JPG"></a></div>
                                         <div class="right-wrapper">
-                                                <div class="summary twitter-summary">B2B Social Media: Are we really making a connection?  <a href="http://t.co/c6BSNLLV" rel="nofollow">http://t.co/c6BSNLLV</a>
- #B2B</div>
-                                                <div class="source"><a target="_blank" href="http://twitter.com/B2Bbloggers">@B2Bbloggers</a> - <a target="_blank" href="http://twitter.com/B2Bbloggers/status/203026583798300673">37 minutes ago</a></div>
+                                                <div class="summary twitter-summary">RT @JoselinMane Here for #MontyUp full house of Social Mediapeeps (@ Anthem Kitchen &amp; Bar w/ @rhappe @waynenh) [pic]: <a href="http://t.co/licrQHAl" rel="nofollow">http://t.co/licrQHAl</a></div>
+                                                <div class="source"><a target="_blank" href="http://twitter.com/pgillin">@pgillin</a> - <a target="_blank" href="http://twitter.com/pgillin/status/225031240682713088">21 minutes ago</a></div>
                                         </div>
                                 </div>
                         </div>
@@ -450,10 +538,10 @@ img.spinner { display: inline; }
                 <li class="trending-story tweet">
                         <div class="container fill">
                                 <div class="content">
-                                        <div class="thumbnail"><a target="_blank" href="http://twitter.com/aaker/status/202982348680204289"><img width="48" height="48" src="http://a0.twimg.com/profile_images/261394568/Jennifer_Lynn_Aaker_white_eyes_crop_-_small_normal.jpg"></a></div>
+                                        <div class="thumbnail"><a target="_blank" href="http://twitter.com/Adweek/status/225028128622379008"><img width="48" height="48" src="http://a0.twimg.com/profile_images/1315355912/adweek-logo-twitter_normal.jpg"></a></div>
                                         <div class="right-wrapper">
-                                                <div class="summary twitter-summary">David Kelley's Creative Confidence went up today! "Touch the snake" @stanforddschool @TED <a href="http://t.co/z622o2HO" rel="nofollow">http://t.co/z622o2HO</a> via @flinkchris</div>
-                                                <div class="source"><a target="_blank" href="http://twitter.com/aaker">@aaker</a> - <a target="_blank" href="http://twitter.com/aaker/status/202982348680204289">3 hours, 33 minutes ago</a></div>
+                                                <div class="summary twitter-summary">RT @atmediadesign: a beautiful #ad for @gettyimages by @bbdoworldwide - using 873 images to tell one story <a href="http://t.co/V52wufTh" rel="nofollow">http://t.co/V52wufTh</a> - via @Adweek #advertising</div>
+                                                <div class="source"><a target="_blank" href="http://twitter.com/Adweek">@Adweek</a> - <a target="_blank" href="http://twitter.com/Adweek/status/225028128622379008">34 minutes ago</a></div>
                                         </div>
                                 </div>
                         </div>
@@ -462,10 +550,10 @@ img.spinner { display: inline; }
                 <li class="trending-story tweet">
                         <div class="container fill">
                                 <div class="content">
-                                        <div class="thumbnail"><a target="_blank" href="http://twitter.com/aaker/status/202974983205564418"><img width="48" height="48" src="http://a0.twimg.com/profile_images/261394568/Jennifer_Lynn_Aaker_white_eyes_crop_-_small_normal.jpg"></a></div>
+                                        <div class="thumbnail"><a target="_blank" href="http://twitter.com/AdFreak/status/225020808962117632"><img width="48" height="48" src="http://a0.twimg.com/profile_images/1594500741/Becky-AdFreak_normal.jpg"></a></div>
                                         <div class="right-wrapper">
-                                                <div class="summary twitter-summary">Harnessing social media for good <a href="http://t.co/BRUGv6Ge" rel="nofollow">http://t.co/BRUGv6Ge</a>  Use cases.</div>
-                                                <div class="source"><a target="_blank" href="http://twitter.com/aaker">@aaker</a> - <a target="_blank" href="http://twitter.com/aaker/status/202974983205564418">4 hours, 2 minutes ago</a></div>
+                                                <div class="summary twitter-summary">Warning: @BRUTworld aftershave may cause sudden pregnancy in your wife or girlfriend - <a href="http://t.co/WyKKQOG1" rel="nofollow">http://t.co/WyKKQOG1</a></div>
+                                                <div class="source"><a target="_blank" href="http://twitter.com/AdFreak">@AdFreak</a> - <a target="_blank" href="http://twitter.com/AdFreak/status/225020808962117632">1 hour, 3 minutes ago</a></div>
                                         </div>
                                 </div>
                         </div>
@@ -517,26 +605,6 @@ img.spinner { display: inline; }
             
         </div><!-- END page -->
         
-        
-            <div id="ID-feedback-form">
-                <a id="ID-close-feedback-form" href="#">Close</a>
-                <h5>Feedback</h5>
-                <p>We are interested in your commments and questions. Additional information provided will help us better address the needs of our users.</p>
-                <form action="/feedback/" method="POST" onsubmit="javascript:$('#canary').val('(blank)')">
-                    <textarea id="comments" name="comments" class="required" rows="15" cols="50"></textarea>
-
-                    <div class="left-column">
-                        <label>Name</label>
-                        <input id="name" type="text" class="required" name="name">
-                    </div>
-                    <div class="right-column">
-                        <label>Email</label>
-                        <input id="email" type="text" class="required email" name="email">
-                    </div>
-                    <div style="display:none"><label>Please leave this field blank</label><input id="canary" type="text" name="canary"></div>
-                    <input type="submit" value="Submit">
-                </form>
-            </div>
         
     
 
