@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsponder.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429174057id_/http%3A//socialsponder.com/main/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsponder.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717010120id_/http%3A//socialsponder.com/main/privacypolicy.php) for the most accurate reproduction.*
 
 # Mobile Text, Instant Message, Email, and Mobile Keyword: All-In-One Marketing by StomperQast
 
