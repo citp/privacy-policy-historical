@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeturn.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520054213id_/http%3A//reeturn.com/templates/content-template/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeturn.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717005845id_/http%3A//www.reeturn.com/templates/content-template/privacy.php) for the most accurate reproduction.*
 
 # Ree Turn
 
