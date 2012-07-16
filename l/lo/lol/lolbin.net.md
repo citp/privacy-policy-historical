@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolbin.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229025217id_/http%3A//lolbin.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolbin.net privacy policy that was archived on 2012-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120716074754id_/http%3A//lolbin.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at LOLBIN.net
 
