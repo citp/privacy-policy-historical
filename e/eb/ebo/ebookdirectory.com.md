@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookdirectory.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510153339id_/http%3A//ebookdirectory.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookdirectory.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717204630id_/http%3A//ebookdirectory.com/privacy-policy.html) for the most accurate reproduction.*
 
 # The eBook Directory Privacy Statement
 
