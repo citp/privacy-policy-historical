@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halldata.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517171850id_/http%3A//www.halldata.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halldata.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717155749id_/http%3A//www.halldata.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
