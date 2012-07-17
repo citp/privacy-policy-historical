@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockabyeparents.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118095627id_/http%3A//rockabyeparents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockabyeparents.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717060255id_/http%3A//rockabyeparents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - rockabyeparents.com
 
@@ -18,4 +18,4 @@
 > 
 > You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 > 
-> AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20120118095627id_/http://rockabyeparents.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+> AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20120717060255id_/http://rockabyeparents.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
