@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patternatlas.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002909id_/http%3A//www.patternatlas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patternatlas.com privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718015045id_/http%3A//www.patternatlas.com/privacy.html) for the most accurate reproduction.*
 
 # Free Wallpaper Home - Free wallpapers
 
