@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapoperadigest.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616070243id_/http%3A//soapoperadigest.com/content/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapoperadigest.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717044103id_/http%3A//soapoperadigest.com/content/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Soap Opera Digest
 
