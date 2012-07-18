@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the all-famous-quotes.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513072527id_/http%3A//www.all-famous-quotes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-famous-quotes.com privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718034808id_/http%3A//www.all-famous-quotes.com/privacy_policy.html) for the most accurate reproduction.*
 
-# All Famous Quotes | Privacy Policy
+# Privacy Policy | All Famous Quotes
 
 Any personal details collected by All Famous Quotes will be kept private and confidential and will not be allowed to be used in any other way other than for correspondence between All Famous Quotes and those who have submitted their personal information.
 
 Read enough?  Use the search box to go back to the fun!
+
+  
+
 
 ## Cookies
 
