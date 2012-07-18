@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingfrugal.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502043433id_/http%3A//www.livingfrugal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingfrugal.com privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718035951id_/http%3A//www.livingfrugal.com/privacy.html) for the most accurate reproduction.*
 
 # Living Frugal | Privacy Policy
 
