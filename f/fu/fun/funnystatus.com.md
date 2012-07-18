@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnystatus.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519025822id_/http%3A//www.funnystatus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnystatus.com privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718191626id_/http%3A//www.funnystatus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny Status Updates
 
