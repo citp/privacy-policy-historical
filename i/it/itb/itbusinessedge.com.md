@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616145444id_/http%3A//www.itbusinessedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718114641id_/http%3A//www.itbusinessedge.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | ITBusinessEdge.com
 
