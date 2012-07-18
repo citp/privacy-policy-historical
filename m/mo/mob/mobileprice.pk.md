@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobileprice.pk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504215432id_/http%3A//www.mobileprice.pk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileprice.pk privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718102744id_/http%3A//www.mobileprice.pk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.mobileprice.pk/component/option,com_mailto/link,020149b3ed6362f16214aedeef9ac3f84f457b36/tmpl,component/ "Email")
+[](http://www.pricepkr.com/component/option,com_mailto/link,ea95d751b5a3b077bafbab81f9d230ab8905a43d/tmpl,component/ "Email")
 
 Written by Administrator  Sunday, 10 May 2009 12:46 
 
