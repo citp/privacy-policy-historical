@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nba-2k.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519091949id_/http%3A//nba-2k.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nba-2k.com privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718213135id_/http%3A//nba-2k.com/privacy) for the most accurate reproduction.*
 
 # Privacy - NBA 2K Downloads Center - NBA 2K12 News, Patches & Videos
 
