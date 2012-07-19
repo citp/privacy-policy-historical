@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 48hourmoneysecret.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617173158id_/http%3A//48hourmoneysecret.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48hourmoneysecret.com privacy policy that was archived on 2012-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120719131425id_/http%3A//48hourmoneysecret.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
