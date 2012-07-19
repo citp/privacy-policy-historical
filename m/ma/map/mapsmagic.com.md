@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsmagic.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614144926id_/http%3A//mapsmagic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsmagic.com privacy policy that was archived on 2012-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120719170749id_/http%3A//mapsmagic.com/privacy.html) for the most accurate reproduction.*
 
 # Maps Magic
 
