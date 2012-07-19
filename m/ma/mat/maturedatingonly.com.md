@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maturedatingonly.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616032946id_/http%3A//www.maturedatingonly.com/mature_dating/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturedatingonly.com privacy policy that was archived on 2012-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120719064121id_/http%3A//www.maturedatingonly.com/mature_dating/privacy.php) for the most accurate reproduction.*
 
 # Mature Dating Only : Matchmaking, Dating Online, No Dating Games, Find Real Singles
 
