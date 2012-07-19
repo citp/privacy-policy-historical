@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402160044id_/http%3A//www.srds.com/frontMatter/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2012-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120720001727id_/http%3A//www.srds.com/frontMatter/privacy/privacy.html) for the most accurate reproduction.*
 
 # SRDS® Privacy Policy
 
