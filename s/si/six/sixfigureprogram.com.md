@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixfigureprogram.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617002641id_/http%3A//sixfigureprogram.com/2012/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureprogram.com privacy policy that was archived on 2012-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120719105557id_/http%3A//www.sixfigureprogram.com/2012/privacy.php) for the most accurate reproduction.*
 
 # 
 
