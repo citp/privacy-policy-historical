@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresstokillmagazine.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503115933id_/http%3A//dresstokillmagazine.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresstokillmagazine.com privacy policy that was archived on 2012-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120720221032id_/http%3A//www.dresstokillmagazine.com/static/privacy) for the most accurate reproduction.*
 
 # DRESSTOKILLMAGAZINE.COM | Privacy Policy
 
