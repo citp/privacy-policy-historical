@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the school.nz privacy policy that was archived on 2011-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110823000447id_/http%3A//www.school.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the school.nz privacy policy that was archived on 2012-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120720084107id_/http%3A//www.school.nz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for www.school.nz
 
