@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renegademillionaire.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504103058id_/http%3A//www.renegademillionaire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renegademillionaire.com privacy policy that was archived on 2012-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120721001322id_/http%3A//renegademillionaire.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
