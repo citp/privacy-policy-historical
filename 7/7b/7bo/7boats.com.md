@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7boats.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519223813id_/http%3A//www.7boats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7boats.com privacy policy that was archived on 2012-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120721044344id_/http%3A//www.7boats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 7Boats | Online Advertising & Website Promotion India
 
