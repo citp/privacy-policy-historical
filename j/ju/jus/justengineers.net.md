@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the justengineers.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505081818id_/http%3A//www.justengineers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justengineers.net privacy policy that was archived on 2012-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120722015144id_/http%3A//www.justengineers.net/privacy) for the most accurate reproduction.*
 
 # JustEngineers - Terms & Conditions - Privacy policy
 
-Effective from 27th March 2012
+Effective from 25th May 2012
 
-This privacy policy applies only to this website (the “Site”). If you do not accept this privacy policy, you must not use the Site.
+This privacy policy applies only to this website_ (the “Site”). If you do not accept this privacy policy, you must not use the Site.
 
 ## Collection of Personal Information
 
@@ -12,11 +12,11 @@ We collect personal information from you (such as name, address, telephone numbe
 
 ## Collection of Other Information
 
-In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies.
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser. Cookies allows us to identify your computer and find out details about your visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the site such as logging in, setting up jobs-by-email and saving your preferences.
 
-The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
+The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the site and geographical location.
 
-Display advertising on the Site is provided by our advertising partner. Our advertising partner will serve advertisements that it believes are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). In order to do this, our advertising partner may need to place a cookie on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/ "www.youronlinechoices.co.uk").
+For detailed information about cookies and web beacons used on our site and how to opt out - please visit our [Cookies Use](https://web.archive.org/web/20120722015144id_/http%3A//cookies) page.
 
 ## Use of Your Information
 
@@ -24,7 +24,7 @@ By using this Site, you agree that we may collect, hold, process and use your in
 
   * personalising your visits to the Site to improve the services provided to you;
   * informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting;
-  * customer service and support;
+  * customer service and support; 
   * communicating (and personalising such communication) with you;
   * enabling you to share our content with others e.g. using an ‘Email a friend’ or ‘Share this’ functionality;
   * conducting market research; and/or
@@ -42,13 +42,13 @@ Subject to your consent, your personal information may be used by us and/or othe
 
 Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
 
-We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information.
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
 
 We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
 ## Keeping Your Personal Information Secure
 
-We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England.
+We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. 
 
 ## Accessing Your Personal Information
 
@@ -70,9 +70,7 @@ United Kingdom
 
 PO9 1SA
 
- 
-
-We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
+ We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
 
 ## Changes to this Privacy Policy
 
