@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quepasa.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205153345id_/http%3A//www.quepasa.com/common/privacypolicy_en_US.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quepasa.com privacy policy that was archived on 2012-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120721203816id_/http%3A//www.quepasa.com/common/privacypolicy_en_US.html) for the most accurate reproduction.*
 
 # Quepasa Privacy Policy
 
@@ -50,4 +50,4 @@ In the event Quepasa goes through a merger, sale, bankruptcy or other business t
 
 **California Privacy Notice**
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [qpsupport@quepasacorp.com](mailto:qpsupport@quepasacorp.com) or write us at: Quepasa Corporation, Attn. Chief Executive Officer, 324 Datura Street, Suite 114 West Palm Beach, FL 33401.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [qpsupport@quepasacorp.com](mailto:qpsupport@quepasacorp.com) or write us at: Quepasa Corporation, Attn. Chief Executive Officer, 280 Union Square Dr., New Hope, PA 18938.
