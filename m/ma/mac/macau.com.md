@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macau.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622030554id_/http%3A//www.macau.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macau.com privacy policy that was archived on 2012-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120722221113id_/http%3A//www.macau.com/en/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -56,7 +56,7 @@ Your personal password is confidential and is encrypted to ensure its secrecy.
 
 “Spam” means unwanted marketing or commercial e-mail. We do not and have never supported or condoned sending spam e-mail.
 
-Marketing mail from Macau.com will generally be “opt-in” / “opt-out”. This means that you should not receive any commercial or marketing e-mail from us unless you have requested it, that is, you have opted in. When you opt in, every piece of commercial e-mail will contain an opt-out option, or unsubscribe function. You can send us a message telling us you would prefer not to receive the mail again and we will respect your wishes.
+Marketing mail from Macau.com will generally be “opt-in” / “opt-out”. This means that you should not receive any commercial or marketing e-mail from us unless you have requested it, that is, you have opted in. When you opt in, every piece of commercial e-mail will contain an opt-out option, or unsubscribe function. You can send us a message telling us you would prefer not to receive the mail again and we will respect your wishes. You may also click on the unsubscribe link in our email to unsubscribe.
 
 We may also send you e-mail providing general information about services we provide or about goods or services that are available to you from other persons. Each time we do that, we will give you the opportunity to opt-out or unsubscribe should you choose not to receive further e-mails of that type.
 
@@ -69,3 +69,9 @@ We join the industry in recognizing that children, including young teens, may no
 We reserve the right to amend the terms and conditions of this Privacy Policy from time to time and without notice.
 
 **This privacy policy is originally constructed in English and translated into Chinese. Every effort has been made to ensure the translation is accurate and consistent. In case of any disputes or inconsistencies, the English version shall prevail.**
+
+**Contact Information**
+
+Address： Unit 1302A. AIA Tower Nos. 251A-301, Avenida Comercial de Macau
+
+Tel：2857 3126
