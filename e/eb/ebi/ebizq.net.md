@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526150402id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2012-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120722063553id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
 # TechTarget Privacy Policy
 
 TechTarget, Inc. and its affiliates (collectively, “TechTarget”) are committed to protecting our users' privacy. This Privacy Policy is designed to inform users of TechTarget’s network of websites about how TechTarget gathers and uses information provided to, or collected by, TechTarget and under what circumstances TechTarget will disclose such information. TechTarget will take reasonable steps to protect user privacy consistent with the guidelines set forth in this Privacy Policy and with the laws of the United States and all other applicable jurisdictions.
 
-TechTarget has certified to the United States Department of Commerce that it adheres to the Safe Harbor framework developed by the United States Department of Commerce in coordination with the European Union. The European Union’s Directive on Data Protection prohibits the transfer of personal data to non-EU countries that do not provide an “adequate” level of privacy protection. Safe Harbor certification permits a “certified” entity to transfer personal data from the EU to the United States in accordance with the EU Directive. 
+TechTarget has certified to the United States Department of Commerce that it adheres to the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework developed by the United States Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. TechTarget has certified that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view TechTarget’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor).
 
-[](https://safeharbor.export.gov/list.aspx) [TechTarget’s EU Safe Harbor Privacy Policy](https://web.archive.org/web/20120528204757id_/http://www.techtarget.com/downloads/clientresources/ttgt_eu_safeharbor_privacy_policy.pdf) describes the manner in which TechTarget adheres to the seven Safe Harbor principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity and Enforcement. 
+[TechTarget’s EU and Swiss Safe Harbor Privacy Policy](http://www.techtarget.com/downloads/clientresources/ttgt_eu_safeharbor_privacy_policy.pdf) describes the manner in which TechTarget adheres to the seven Safe Harbor principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity and Enforcement.   
+
 
 In this Privacy Policy, we use the following key definitions (other terms are defined in the body of the Policy):
 
