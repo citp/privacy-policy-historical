@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacomtoday.com privacy policy that was archived on 2012-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120112140320id_/http%3A//www.mediacomcable.com/legal_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacomtoday.com privacy policy that was archived on 2012-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120722223339id_/http%3A//www.mediacomcable.com/legal_privacy.html) for the most accurate reproduction.*
 
 # Mediacom | Privacy Policy
 
