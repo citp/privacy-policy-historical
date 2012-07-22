@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visionworkseyewear.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129104703id_/http%3A//www.visionworkseyewear.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionworkseyewear.com privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723011406id_/http%3A//www.visionworks.com/privacypolicy) for the most accurate reproduction.*
 
 # Visionworks | Privacy Policy
 
@@ -8,7 +8,7 @@ Online Privacy Policy  | [HIPAA](https://web.archive.org/privacypolicy/hipaa.php
 
 At Eye Care Centers of America, Inc., we value and protect our customers' privacy. This Online Privacy Policy describes the types of information we collect from users of our websites ("Users") and explains what we do with that information. As used herein, "Users" includes you, and refers to any individual who visits our websites or provides any personal information via our websites, through registration or otherwise.
 
-This Online Privacy Policy is applicable to the websites of Eye Care Centers of America, Inc. and its affiliates, including ecca.com, eyemasters.com, visionworkseyewear.com, steinoptical.com, visionworld.com, chicago-visionworks.com, eyedrx.com, houreyes.com, doctorsvaluvision.com, drbizersvisionworld.com, and drbizersvaluvision.com (the "Websites").
+This Online Privacy Policy is applicable to the websites of Eye Care Centers of America, Inc. and its affiliates, including ecca.com, eyemasters.com, visionworks.com, steinoptical.com, visionworld.com, chicago-visionworks.com, eyedrx.com, houreyes.com, doctorsvaluvision.com, drbizersvisionworld.com, and drbizersvaluvision.com (the "Websites").
 
 ### What Information We Obtain
 
@@ -56,7 +56,7 @@ Our Websites contains links to other websites that are not owned or controlled b
 
 ### Updates to this Online Privacy Policy
 
-This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20120123080707id_/http://visionworks.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
+This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20120723011406id_/http://www.visionworks.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
 
 From time to time, we may update this Online Privacy Policy. Notification of any such updates which contain any material changes will be posted on the homepage of our Websites. Users are encouraged to check our Websites periodically for any material changes to this Online Privacy Policy.
 
