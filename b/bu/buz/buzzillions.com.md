@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzillions.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511055011id_/http%3A//www.buzzillions.com/public/legal/privacy_policy_en_US.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzillions.com privacy policy that was archived on 2012-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120722225242id_/http%3A//www.buzzillions.com/public/legal/privacy_policy_en_US.html) for the most accurate reproduction.*
 
 # Buzzillions Privacy Policy
 
