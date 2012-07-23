@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the golden1.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127061907id_/https%3A//www.golden1.com/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golden1.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724011852id_/https%3A//www.golden1.com/pdf/privacy.pdf) for the most accurate reproduction.*
 
-# FACTS
+# 
 
-      About            Printing Requirements           Reset       Show PdfField Borders
-                                                                                                                                        00077903
+      About            Printing Requirements           Reset
+Rev. 07/2012                                                                                                                           00086611
                                WHAT DOES THE GOLDEN 1 CREDIT UNION DO WITH YOUR PERSONAL
  FACTS                         INFORMATION?
  Why?                          Financial companies choose how they share your personal information. Federal law gives consumers
                                the right to limit some but not all sharing. Federal law also requires us to tell you how we collect,
-                               share and protect your personal information. Please read this notice carefully to understand what we
+                               share, and protect your personal information. Please read this notice carefully to understand what we
                                do.
  What?                         The types of personal information we collect and share depend on the product or service you have
                                with us. This information can include:
@@ -27,16 +27,16 @@
  investigations, or report to credit bureaus
  For our marketing purposes -                                                                   No                       We don't share
  to offer our products and services to you
- For joint marketing with other financial companies -                                          Yes                           No
+ For joint marketing with other financial companies                                            Yes                           No
  For our affiliates' everyday business purposes -                                               No                       We don't share
  information about your transactions and experiences
  For our affiliates' everyday business purposes -                                               No                       We don't share
  information about your creditworthiness
- For nonaffiliates to market to you -                                                           No                       We don't share
- Questions?                    Call (916) 732-2900 or 1-877-GOLDEN 1 (1-877-465-3361) or go to golden1.com
+ For nonaffiliates to market to you                                                             No                       We don't share
+ Questions?                    Call 1-877-GOLDEN 1 (1-877-465-3361) or YLVLW golden1.com
 Privacy Model Disclosure                                                                                                         PRIV-MODEL 8/1/2010
 VMP® Bankers Systems™
-Wolters Kluwer Financial Services © 2010                               2010.3/2226 2538294-010 Custom EPRV2226                           Page 1 of 2
+Wolters Kluwer Financial Services © 2010                               2010.3/2226 2682728-010 Custom EPRV2226                           Page 1 of 2
 
 
  Page 2
@@ -45,12 +45,15 @@ Wolters Kluwer Financial Services © 2010                               2010.3/2
  Credit Union protect my                 security measures that comply with federal law. These measures include computer
  personal information?                   safeguards and secured files and buildings.
  How does The Golden 1                   We collect your personal information, for example, when you :
- Credit Union collect my                   l Open an account                                   l Tell us who receives the money
- personal information?                     l Apply for a loan                                  l Tell us where to send the money
+ Credit Union collect my                   l Open an account                                     l Tell us who receives the money
+ personal information?
+                                           l Apply for a loan                                    l Tell us where to send the money
                                            l Make a wire transfer
+                                         We also collect your personal information from others, such as credit bureaus,
+                                         affiliates, or other companies.
  Why can't I limit all sharing?          Federal law gives you the right to limit only :
                                            l sharing for affiliates' everyday business purposes - information about your
-                                             creditworthiness
+                                              creditworthiness
                                            l affiliates from using your information to market to you
                                            l sharing for nonaffiliates to market to you
                                          State laws and individual companies may give you additional rights to limit sharing.
@@ -62,11 +65,11 @@ Wolters Kluwer Financial Services © 2010                               2010.3/2
  Nonaffiliates                           Companies not related by common ownership or control. They can be financial and
                                          non-financial companies.
                                            l The Golden 1 Credit Union does not share with nonaffiliates so they can market
-                                             to you.
+                                              to you.
  Joint Marketing                         A formal agreement between nonaffiliated financial companies that together market
                                          financial products or services to you.
                                            l Our joint marketing partners include providers of financial products and
-                                             services.
+                                              services.
  Other Important Information
  For Alaska, Illinois, Maryland and North Dakota Members: We will not share personal information with
  nonaffiliates either for them to market to you or for joint marketing - without your authorization.
@@ -78,7 +81,9 @@ Wolters Kluwer Financial Services © 2010                               2010.3/2
  For Vermont Members: We will not share personal information with nonaffiliates either for them to market to you or
  for joint marketing - without your authorization, and we will not share personal information with affiliates about your
  creditworthiness without your authorization.
-  A-76 (Rev. 01-01-11)
-Privacy Model Disclosure                                                                                                  PRIV-MODEL 8/1/2010
+ California law gives you the right to opt out of certain sharing. Please see the enclosed notice entitled, "Important
+ Privacy Choices For Consumers."
+  A-76 (07/2012)
+Privacy Model Disclosure                                                                                                    PRIV-MODEL 8/1/2010
 VMP® Bankers Systems™
-Wolters Kluwer Financial Services © 2010                     2010.3/2226 2538294-010 Custom EPRV2226                              Page 2 of 2
+Wolters Kluwer Financial Services © 2010                       2010.3/2226 2682728-010 Custom EPRV2226                              Page 2 of 2
