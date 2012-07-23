@@ -1,859 +1,217 @@
-<!--The following is the downloaded HTML source of the dream11.com privacy policy that was archived on 2011-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526233722id_/http%3A//www.dream11.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dream11.com privacy policy that was archived on 2012-07-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120724012450id_/https%3A//fantasycricket.dream11.com/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="Head1"><title>
-	Dream11.com
-</title><meta property="og:title" content="Dream11.com - The World's No.1 Fantasy Cricket Game"><meta property="og:type" content="website"><meta property="og:url" content="http://www.dream11.com"><meta property="og:image" content="http://216.205.48.70/media/images/logo-small.gif"><meta property="og:site_name" content="Dream11"><meta property="fb:admins" content="528015606,748417614,605816"><meta property="og:description" content="Choose your favorite cricketers, make your dream team and win exciting prizes on the World's No. 1 fantasy cricket game - Dream11.com"><link rel="shortcut icon" href="/media/images/dream11.ico"><link rel="stylesheet" href="/media/css/basic.css"><link rel="stylesheet" href="/media/css/site.css?v=5"><link rel="stylesheet" href="/media/css/dateSlider.css"><link rel="stylesheet" href="/media/css/modals.css?v=4"><link rel="stylesheet" href="/media/css/sprites.css?v=4">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-    <script type="text/javascript" src="/media/js/pngFix/jquery.pngFix.pack.js"></script>
-    <script type="text/javascript" src="/media/js/modals.js?v=3"></script>
-    <script type="text/javascript" src="/media/js/site.js"></script>
-    <script type="text/javascript" src="/media/js/jquery.countdown.js"></script>
-    <script type="text/javascript" src="/media/js/fbc.js?v=1"></script>
-    <script type="text/javascript" src="/media/js/jquery.qtip-1.0.0-rc3.min.js"></script>
-
-    <!--Script for "Add this" social networking features"-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"><head><title>
+	Dream11.com - World's No.1 Fantasy Cricket Game of Skill
+</title><meta property="og:title" content="Dream11.com - The World's No.1 Fantasy Cricket Game of Skill"><meta property="og:type" content="website"><meta property="og:url" content="https://fantasycricket.dream11.com"><meta property="og:description" content="Come play Fantasy Cricket on Dream11.com where you can use your cricket selection skills to PAY CASH &amp; WIN CASH DAILY!."><meta property="og:image" content="http://i.imgur.com/rwFAu.jpg"><meta property="og:image" content="fcimages/logo-small.gif"><meta property="og:image" content="https://fantasycricket.dream11.com/dream11.jpg"><meta property="og:image" content="https://fantasycricket.dream11.com/fcimages/dream11.jpg"><meta property="og:site_name" content="Dream11.com"><link rel="shortcut icon" href="fcimages/dream11.ico"><link rel="Stylesheet" href="css/site.css?v=10">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://fantasycricket.dream11.com/js/site.js?v=10"></script>
+    <script type="text/javascript" src="https://fantasycricket.dream11.com/js/fbc.js?v=2"></script>
+    <script type="text/javascript" src="https://fantasycricket.dream11.com/js/jquery.validationEngine.js?v=2"></script>
+    <script type="text/javascript" src="https://fantasycricket.dream11.com/js/jquery.qtip-1.0.0-rc3.min.js?v=2"></script>
     <script type="text/javascript">        var addthis_config = { "data_track_clickback": true };</script>
-    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4dccc1ff11b205d7"></script>         
-    <script type="text/javascript">
-        function loadSignup(fullName, fbuid, sex, birthday_date) {
-            var id = '#dialog2';
-            openModalPopup(id);
-
-            //for popup value
-            G('txtuname').value = fullName;
-            G('txtfbid').value = fbuid;
-
-        }
-        function welcome() {
-            var id = '#dialog3';
-            openModalPopup(id);
-        }
-    </script>
-    <script type="text/javascript">
-        var f = 0;
-        var f1 = 0;
-        var f2 = 0;
-        /**************************/
-        // alert(v);     
-        function G(elem)
-        { return document.getElementById(elem); }
-
-        function checkemail(v) {
-            hideMsg();
-            //alert(G);
-            if (v.length == 0) return;
-            var pattern = /^([a-zA-Z0-9_'+*$%\^&!\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9:]{2,4})+$/;
-            //  alert(pattern.test(v));
-            if (pattern.test(v)) {
-                $.ajax(
-				{
-				    type: "POST",
-				    url: "/d11Library/d11UserAuth.asmx/checkEmailAvailabilty",
-				    data: "{\"emailid\":\"" + v + "\"}",
-				    contentType: "application/json",
-				    dataType: "json",
-				    success: function (msg) {
-				        if (msg.d) {
-				            G('avail').style.display = 'inline';
-				            //				            alert('checkemail : -' + f);
-				            //				            alert('checkteam : -' + f1);
-				            //				            alert('checkdob : -' + f2);
-				            f = 0;
-				            hidebutton(f, f1, f2);
-				            return true;
-				        }
-				        else {
-				            G('notavail').style.display = 'inline';
-				            f = 1;
-				            document.getElementById('cmdreguser').setAttribute('disabled', false);
-				            return false;
-				        }
-				    }
-				});
-            }
-            else {
-                // alert('hi2');
-                G('inval').style.display = 'inline';
-                document.getElementById('cmdreguser').setAttribute('disabled', false);
-                return false;
-            }
-            return false;
-        }
-
-        function hideMsg() {
-            G('avail').style.display = 'none';
-            G('inval').style.display = 'none';
-            G('notavail').style.display = 'none';
-            G('lblerror').style.display = 'none';
-        }
-
-        //code for team name check
-        function checkteam(v) {
-            hideMsgt();
-            if (v.length == 0) return false;
-            $.ajax(
-				{
-				    type: "POST",
-				    url: "/d11Library/d11UserAuth.asmx/checkTeamAvailabilty",
-				    data: "{\"teamName\":\"" + v + "\"}",
-				    contentType: "application/json",
-				    dataType: "json",
-				    success: function (msg) {
-				        if (msg.d) {
-				            G('availt').style.display = 'inline';
-				            //				            alert('checkemail : -' + f);
-				            //				            alert('checkteam : -' + f1);
-				            //				            alert('checkdob : -' + f2);
-				            f1 = 0;
-				            hidebutton(f, f1, f2);
-				            return true;
-				        }
-				        else {
-				            G('notavailt').style.display = 'inline';
-				            f1 = 1;
-				            document.getElementById('cmdreguser').setAttribute('disabled', false);
-				            return false;
-				        }
-				    }
-				});
-            return false
-        }
-
-        function hideMsgt() {
-            G('availt').style.display = 'none';
-            G('notavailt').style.display = 'none';
-        }
-
-        //code for dob check
-        function checkdob() {
-            var v = document.getElementById('date');
-            var v1 = document.getElementById('month');
-            var v2 = document.getElementById('year');
-
-            //            alert('h');
-            //            alert(v.options[v.selectedIndex].value);
-            //            alert(v1.options[v1.selectedIndex].value);
-            //            alert(v2.options[v2.selectedIndex].value);
-            var v3 = v.options[v.selectedIndex].value + "~" + v1.options[v1.selectedIndex].value + "~" + v2.options[v2.selectedIndex].value;
-            hideMsgb();
-            if (v.length == 0) return false;
-            $.ajax(
-				{
-				    type: "POST",
-				    url: "/d11Library/d11UserAuth.asmx/checkdobAvailabilty",
-				    //data: "{\"dd\":\"" + v.options[v.selectedIndex].value + "\"mm\":\"" + v1.options[v1.selectedIndex].value + "\"yy\":\"" + v2.options[v2.selectedIndex].value + "\" }",
-				    data: "{\"dmy\":\"" + v3 + "\"}",
-				    contentType: "application/json",
-				    dataType: "json",
-				    success: function (msg) {
-				        if (msg.d) {
-				            //				            alert('checkemail : -' + f);
-				            //				            alert('checkteam : -' + f1);
-				            //				            alert('checkdob : -' + f2);
-				            f2 = 0;
-				            hidebutton(f, f1, f2);
-				            return true;
-				        }
-				        else {
-				            //				            alert('h2');
-				            G('invalb').style.display = 'inline';
-				            f2 = 1;
-				            document.getElementById('cmdreguser').setAttribute('disabled', false);
-				            return false;
-				        }
-				    }
-				});
-            return false
-        }
-
-        function hideMsgb() {
-            G('invalb').style.display = 'none';
-        }
-
-        function hidebutton(c, c1, c2) {
-            //            alert(c);
-            //            alert(c1);
-            //            alert(c2);
-            if (c == 0 && c1 == 0 && c2 == 0) {
-                // alert('h1');
-                document.getElementById('cmdreguser').removeAttribute('disabled');
-            }
-        }
-
-        function checkemail2(v) {
-
-            // alert(v);
-            if (v.length == 0) return;
-            var pattern = /^([a-zA-Z0-9_'+*$%\^&!\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9:]{2,4})+$/;
-            //alert(pattern.test(v));
-            if (pattern.test(v)) {
-                // alert('hi1');
-                G('lblnotvalid').style.display = 'none';
-                document.getElementById('cmdlog').removeAttribute('disabled');
-            }
-            else {
-                // alert('hi2');
-                G('lblnotvalid').style.display = 'inline-block';
-                document.getElementById('cmdlog').setAttribute('disabled', false);
-                return false;
-            }
-            return false;
-        }
-
-        
-        function clearValidator() {
-
-            document.forms[0].reset();
-            for (i = 0; i < Page_Validators.length; i++) {
-                Page_Validators[i].style.visibility = 'hidden';
-            }
-            return false;
-        }
-        
-        
-        //code for fb team name check
-        function checkteamfb(v) {
-            if (v.length == 0) return false;
-            $.ajax(
-				{
-				    type: "POST",
-				    url: "/d11Library/d11UserAuth.asmx/checkTeamAvailabilty",
-				    data: "{\"teamName\":\"" + v + "\"}",
-				    contentType: "application/json",
-				    dataType: "json",
-				    success: function (msg) {
-				        if (msg.d) {
-				            G('fbavailt').style.display = 'inline';
-				            document.getElementById('teamname_submit').removeAttribute('disabled');
-				            G('fbnotavailt').style.display = 'none';
-				            $('#teamname_submit').click(function () {
-				                closePopUp();
-				                var tname = $('#teamname').val();
-				                var obj = { teamname: tname };
-				                var json = Sys.Serialization.JavaScriptSerializer.serialize(obj);
-				                var success = false;
-				                var value = '';
-				                $.ajax({
-				                    type: 'post',
-				                    url: mainurl + 'd11library.asmx/fetchfantsyTeamName',
-				                    data: json,
-				                    async: false,
-				                    contentType: "application/json",
-				                    dataType: 'json',
-				                    success: function (msg) {
-				                        var m = toJSON(msg.d);
-				                        if (m == true) {
-				                            value = 'FantasyCricket.aspx?tournamentid=' + currround +
-							 '&matchtype=1&matchid=1&tourid=' + tourid + '&edit=';
-				                            success = true;
-				                        }
-				                        else {
-				                            var err = '<p>Couldnt save your teamname.</p>' + '<p>Please' +
-								' try again.</p>';
-				                            $('#errormsg').html('Couldnt save your team name. Please try again.');
-				                            openModalPopup('#dialog7');
-
-				                        }
-				                    }
-				                });
-				                if (success) {
-				                    open_win1(value);
-				                }
-				            });
-				            return true;
-				        }
-				        else {
-				            G('fbnotavailt').style.display = 'inline';
-				            document.getElementById('teamname_submit').setAttribute('disabled', false);
-				            G('fbavailt').style.display = 'none';
-				            return false;
-				        }
-				    }
-				});
-            return false
-        }
-        //code for fergot password
-        function checkforgotpwdemail(v) {
-
-            // alert(v);
-            if (v.length == 0) return;
-            var pattern = /^([a-zA-Z0-9_'+*$%\^&!\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9:]{2,4})+$/;
-            //alert(pattern.test(v));
-            if (pattern.test(v)) {
-
-                $.ajax(
-				{
-				    type: "POST",
-				    url: "/d11Library/d11UserAuth.asmx/checkEmailAvailabilty",
-				    data: "{\"emailid\":\"" + v + "\"}",
-				    contentType: "application/json",
-				    dataType: "json",
-				    success: function (msg) {
-				        if (msg.d) {
-				            // alert('hi2');//new emailid
-				            G('lblnotreg').style.display = 'inline';
-				            G('lblreg').style.display = 'none';
-				            document.getElementById('sndPwdbtn').style.cursor = 'text';
-				            document.getElementById('sndPwdbtn').setAttribute('disabled', false);
-				        }
-				        else {
-				            // alert('hi1');//registered emailid
-				            G('lblnotreg').style.display = 'none';
-				            G('lblreg').style.display = 'inline';
-				            document.getElementById('sndPwdbtn').style.cursor = 'pointer';
-				            document.getElementById('sndPwdbtn').removeAttribute('disabled');
-				            return false;
-				        }
-				    }
-				});
-
-            }
-            else {
-                // alert('hi2');
-                G('lblnotreg').style.display = 'inline';
-                G('lblreg').style.display = 'none';
-                document.getElementById('sndPwdbtn').style.cursor = 'text';
-                document.getElementById('sndPwdbtn').setAttribute('disabled', false);
-
-            }
-            return false;
-        }
-
-        function sentDetails() {
-
-            var v = document.getElementById('emailid').value;
-            if (v == 'example@example.com') return;
-            if (v.length == 0) return; 
-            $('#loader').append('<img width="30" height="30" style="position:absolute; left:280px; top:15px;" src="http://staging.dream11.in/media/images/preloader1.gif" />');
-            document.getElementById('sndPwdbtn').style.cursor = 'text';
-            document.getElementById('sndPwdbtn').setAttribute('disabled', false);
-            var pattern = /^([a-zA-Z0-9_'+*$%\^&!\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9:]{2,4})+$/;
-            //alert(pattern.test(v));
-            if (pattern.test(v)) {
-                if (v != '') {
-                    $.ajax(
-				{
-				    type: "POST",
-				    url: "/d11Library/d11UserAuth.asmx/sendforgotDetails",
-				    //data: "{\"dd\":\"" + v.options[v.selectedIndex].value + "\"mm\":\"" + v1.options[v1.selectedIndex].value + "\"yy\":\"" + v2.options[v2.selectedIndex].value + "\" }",
-				    data: "{\"emailid\":\"" + v + "\"}",
-				    contentType: "application/json",
-				    dataType: "json",
-				    success: function (msg) {
-				        if (msg.d) {
-				            //send mail				           
-				            forgotmsgsend();
-				            $('#loader').empty();
-				        }
-				        else {
-				            //not 
-				            var msgutv = 'Invalid email.';
-				            $('#errormsg').html(msgutv);
-				            var id = '#dialog7';
-				            openModalPopup(id);
-				            $('#loader').empty();
-				        }
-				    }
-				});
-                }
-
-            }
-            else {
-
-                var msgutv = 'Invalid email.';
-                $('#errormsg').html(msgutv);
-                var id = '#dialog7';
-                openModalPopup(id);
-                $('#loader').empty();
-
-            }
-        }
-        function forgotmsgsend() {
-            var msgutv = 'Password dispatched. Please check your email.';
-            $('#sucessmsg').html(msgutv);
-            var id = '#successModal';
-            openModalPopup(id);
-
-        }
-        function clearForgotpwd() {
-            G('lblreg').style.display = 'none';
-            G('lblnotreg').style.display = 'none';
-            G('emailid').value = 'example@example.com';
-            $('#emailid').addClass('gray');
-           
-        }
-        //end
-        /**************************/  
-    </script>
-    <script type="text/javascript">
-        function update_user_box() {
-            getUserInfo();
-        } 
-    </script>
-    <script language="javascript" type="text/javascript">
-        function open_win(url_add) {
-            window.open(url_add, "FantasyCricket", "height=650px,width=980px,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no");
-        }
-        function open_win1(url_add) {
-            window.open(url_add, "FantasyCricket", "height=650px,width=980px,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no");
-        }
-   
-    </script>
-    <!-- for scorecard -->
-    <script type="text/javascript">
-        $(document).ready(function () {
-            var i = 1;
-            $.ajax({
-                type: 'post',
-                data: '{"data":"d"}', //d for default
-                url: '/d11Library/livescorecard.asmx/scorecardDetails',
-                contentType: "application/json; charset=utf-8",
-                dataType: 'json',
-                success: function (msg) {
-                    var myMatch = '';
-                    var myStatus = '';
-                    var m = toJSON(msg.d);
-                    // console.log(m);
-                    var chal = m.topScorecard;
-                    // console.log(chal.length);
-                    var str = ' <div class="matches"><ul id="selectMatch" class="nlist">';
-                    for (var i = 0; i < chal.length; i++) {
-                        if (i == 0) {
-                            // alert('1');
-                            str += '<li><a class="scorecardActive " href="javascript:void(0)" onclick="updateScore(\'' + chal[i].match + '\')" >' + chal[i].match + '</a></li>';
-                            myMatch = chal[i].match;
-                            myStatus = chal[i].Scorecard;
-                        } else {
-                            //alert('2');
-                            str += '  <li><a href="javascript:void(0)" onclick="updateScore(\'' + chal[i].match + '\')" >' + chal[i].match + '</a></li>';
-                        }
-                    }
-                    str += '</ul></div>';
-
-                    for (var i = 0; i < chal.length; i++) {
-                        if (i == 0) {
-
-                            str += '<div id="score" class="right"><div class="fs16 bold ">' + chal[i].Score + '</div>' +
-                                                                          '<div class="fs11 pt5 "> Target:' + chal[i].Target + '</div><div class="fs11"> ' + chal[i].Status + '</div>' +
-                                                                     ' </div><div class="fullscorecard"><a href="' + chal[i].Scoreurl + '" class="white pr5">' + chal[i].Scorecard + '</a></div>';
-                        }
-                    }
-                    //alert(str);
-                    $('.scoreboard').html(str);
-
-                    // refresh live match   
-                    //alert(myStatus);
-                    //var ref = 'Live Scorecard'if (ref == 'Live Scorecard')
-                    if (myStatus == 'Live Scorecard') {
-
-                        updateScore(myMatch);
-                    }
-
-                    //                               <div class="fr scoreboard">
-                    //                <div class="matches"><ul id="selectMatch" class="nlist">
-                    //                  <li><a class="scorecardActive " href="#">IND vs RSA</a></li>
-                    //                        <li><a href="#">PAK vs AUS</a></li>
-                    //                        <li><a href="#">ENG vs SL</a></li>
-                    //                    </ul></div><div id="score" class="right"><div class="fs16 bold ">IND 221/8 (66.3)</div>
-                    //                    <div class="fs11 pt5 "> Target:295</div><div class="fs11"> India lead by 262 runs</div>
-                    //                </div><div class="fullscorecard"><a href="#" class="white pr5">Full Scorecard</a></div>
-                    //            </div>
-
-                }
-            });
-
-        });
-
-        function updateScore(v) {
-            // alert(v);
-            $('#selectMatch > li > a').click(function () {
-                $('#selectMatch > li > a').removeClass('scorecardActive');
-                $(this).addClass('scorecardActive')
-                $(this).addClass('white');
-            });
-
-            $.ajax({
-                type: 'post',
-                data: '{"data":"' + v + '"}', //d for default
-                url: '/d11Library/livescorecard.asmx/scorecardDetails',
-                contentType: "application/json; charset=utf-8",
-                dataType: 'json',
-                success: function (msg) {
-                    var m = toJSON(msg.d);
-                    var chal = m.topScorecard;
-                    var str = "", str2 = "";
-
-                    str += '<div class="fs16 bold ">' + chal[0].Score + '</div>' +
-                                                                          '<div class="fs11 pt5 "> Target:' + chal[0].Target + '</div><div class="fs11"> ' + chal[0].Status + '</div>';
-                    str2 += ' <div class="fullscorecard"><a href="' + chal[0].Scoreurl + '" class="white pr5">' + chal[0].Scorecard + '</a></div>';
-
-                    $('#score').html(str);
-                    $('.fullscorecard').html(str2);
-
-                    // refresh live match  
-                    var myStatus = chal[0].Scorecard;
-                    ///var ref = 'Live Scorecard' if (ref == 'Live Scorecard') 
-                    if (myStatus == 'Live Scorecard') {
-                        // alert("updateScore('" + v + "')");
-                        setTimeout("updateScore('" + v + "')", 27000);
-                    }
-
-                }
-            });
-        }
-
-    </script>
-    <!--end -->
-    <!-- edite profile -->
-    <script type="text/javascript">
-        function clearChagepwd() {
-            G('txtoldpassword').value = "";
-            G('txtnewpassword').value = "";
-            G('txtreconfirmpassword').value = "";
-            G('RequiredFieldValidator11').style.display = 'none';
-            G('RequiredFieldValidator8').style.display = 'none';
-            G('RequiredFieldValidator13').style.display = 'none';
-            G('RegularExpressionValidator1').style.display = 'none';
-            G('CompareValidator2').style.display = 'none';
-            G('lbledit').style.display = 'none';
-        }
-    </script>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            function toJSON(str) {
-                return eval('(' + str + ')');
-            }
-            String.prototype.trim = function () {
-                return this.replace(/^\s*/, "").replace(/\s*$/, "");
-            }
-
-            // Define corners and opposites arrays
-            var corners = [
-   'bottomLeft', 'bottomRight', 'bottomMiddle',
-   'topRight', 'topLeft', 'topMiddle',
-   'leftMiddle', 'leftTop', 'leftBottom',
-   'rightMiddle', 'rightBottom', 'rightTop'
-];
-            var opposites = [
-   'topRight', 'topLeft', 'topMiddle',
-   'bottomLeft', 'bottomRight', 'bottomMiddle',
-   'rightMiddle', 'rightBottom', 'rightTop',
-   'leftMiddle', 'leftTop', 'leftBottom'
-];
-            var i = 2;
-
-            //user details
-            $('.sd-list').qtip({
-                content: "Loading...",
-                position: {
-                    corner: {
-                        tooltip: 'topMiddle', // Use the corner...
-                        target: 'leftMiddle' // ...and opposite corner
-                    }
-                },
-                style: {
-                    background: '#ffffcc',
-                    tip: 'topRight',
-                    border: {
-                        width: 1,
-                        radius: 5,
-                        color: '#ffcc33'
-                    },
-                    width: 130
-                },
-                api: {
-                    onRender: function () {
-                        var self = this;
-                        var ele = this.elements.target;
-                        var userid = ele.attr("rel");
-                        userid = userid.trim();
-                        $.ajax({
-                            type: 'post',
-                            data: '{"userid":"' + userid + '"}', //d for default
-                            url: '/d11Library/d11UserAuth.asmx/FetchUserDetails',
-                            contentType: "application/json; charset=utf-8",
-                            dataType: 'json',
-                            success: function (msg) {
-                                var m = toJSON(msg.d);
-                                var tip = m.userDetails;
-                                var str = "";
-                                str = '<div > <div >Name:' + tip[0].userFullname + '</div>' +
-                                           '<div >Country: ' + tip[0].country + '</div>' +
-                                           '<div>Win: ' + tip[0].winCount + '</div> ' +
-                                            ' </div>';
-                                self.updateContent(str, false);
-                            }
-                        });
-                    }
-                }
-            }); //end user details qtip     
-
-           
-        });             //ready end
-
-
- 
-    </script>
-    <script>
-        //Logo animation
-        var x = 0;
-        var y = 0;
-        var maxCols = 7;
-        var maxRows = 14;
-        var total = (7 * 13) + 1;
-        var currRow = 1;
-        var count = 0;
-        var int;
-        function animateD11() {
-            if (count < total) {
-                count++;
-                if (currRow > 7) {
-                    //Reset x and increment y
-                    x = 0;
-                    y = y - 50;
-                    currRow = 1;
-                } else {
-                    x = x - 280;
-                }
-                $('#dream11-logo').css({ backgroundPosition: x + 'px ' + y + 'px' });
-                currRow++;
-            } else {
-                window.clearInterval(int);
-
-            }
-        }
-        int = self.setInterval(animateD11, 25);
-
-</script>
+    <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4ed4b1887c21a73c"></script>
+    <script type="text/javascript" src="https://fantasycricket.dream11.com/js/message.js"></script>
     
+    <link href="https://fantasycricket.dream11.com/css/otherPages.css" rel="Stylesheet">
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-7674646-1']);
+        _gaq.push(['_setDomainName', 'dream11.com']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
 </head>
 <body>
+    <form method="post" action="/PrivacyPolicy" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzkzODI4NzA3ZGQ=">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQKw3t+oCQKCpIH2BgLY1bdJApTS+r4HArfavu4KApK2qFcCooGAkwMClPqZ7AUCxeSq8QY=">
     <div id="fb-root">
     </div>
-    <script src="http://connect.facebook.net/en_US/all.js">
-    </script>
+    <script src="https://connect.facebook.net/en_US/all.js"></script>
     <script>
         FB.init({
             appId: '161319903648', cookie: true,
             status: true, xfbml: true
         });
     </script>
-    
-    
-    <form method="post" action="/PrivacyPolicy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYCAgYPZBYCZg9kFgICAQ9kFgYCEQ8QD2QWAh4Ib25DaGFuZ2UFEnJldHVybiBjaGVja2RvYigpO2RkZAIVDxAPZBYCHwAFEnJldHVybiBjaGVja2RvYigpO2RkZAIZDxAPZBYCHwAFEnJldHVybiBjaGVja2RvYigpO2RkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUPY3RsMDAkY2hrQ29va2llBRVjdGwwMCRpYnRuZWRpdHByb2ZpbGUFEmN0bDAwJEltYWdlQnV0dG9uMxTP7BBKXR09eMxHE+gfHoNOE2DgpMkDCfsdXPifzKaG">
-
-
-<script src="/ScriptResource.axd?d=s23vnocjOySDQ538MZ_Os3VN1L88JZexB2EZwUts4zdhYUdSqCx-4tcWdcxELe4D64WapIneU54ZZdAlm4AVQ8s9onI-tIxSYZoDgfL46evcKYM8OsCk4QaFjVGTUKnSIU9WQ0Bj4YmIr3UvE6gpPQ2&amp;t=ffffffffbd2983fc" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWtwEC9vyOuAQCrZbQkgYCoIvzRwKc9d2bAgKyxtmrDALyyv2jDgLyyqGtDgLyyoGlDgLj16m5AgKvt+ThCgLih/+xBAL19+DZDwLq9+DZDwLr9+DZDwLo9+DZDwLp9+DZDwLu9+DZDwLv9+DZDwLs9+DZDwL99+DZDwLy9+DZDwLq96DaDwLq96zaDwLq96jaDwLq95TaDwLq95DaDwLq95zaDwLq95jaDwLq94TaDwLq98DZDwLq98zZDwLr96DaDwLr96zaDwLr96jaDwLr95TaDwLr95DaDwLr95zaDwLr95jaDwLr94TaDwLr98DZDwLr98zZDwLo96DaDwLo96zaDwKb//OMDQKE//OMDQKF//OMDQKG//OMDQKH//OMDQKA//OMDQKB//OMDQKC//OMDQKT//OMDQKc//OMDQKE/7OPDQKE/7+PDQKE/7uPDQLhpr3ZAwLY5/6wDwLY58KbCALY59bmAQLY57rBCgLY546sAgLY55L3CwLY5+bTBALY58q+DALY557WCgLY5+KyAgK13pCqBQK13uT2DgK13sjRBwK13ty8DwK13qCHCAK13rTiAQK13pjNCgK13uypAgK13rBBArXehKwIAq7JsoULAq7JhuAEAq7J6swNAq7J/pcFAq7JwvIOAq7J1t0HAq7JurgPAq7JjoMIAq7J0rwFAq7JpocOAoug1fABAougudsKAougjaYCAougkYELAoug5e0EAougycgNAoug3ZMFAougof4OAoug9ZcLAoug2fIEAuSa9+sHAuSa27YPAuSar5EIAuSas/wBAuSah8cKAuSa66MCAuSa/44LAuSaw+kEAuSal4EBAuSa++0KAsH16cYNAsH1/aEFAsH1wYwOAsH11dcHAsH1ubIPAsH1jZ0IAsH1kfgBAsH15cQKAsH1ifwHAsH1nUcCuuyLsAICuuyfmwsCuuzj5wQCuuz3wg0CuuzbrQUCuuyviA4Cuuyz0wcCuuyHvg8Cuuyr1w0Cuuy/sgUCl8etqwgCl8ex9gECl8eF0QoCl8fpvQICl8f9mAsCl8fB4wQCl8fVzg0Cl8e5qQUCl8fNwgMCl8fRrQsCoK3t6gECoK3xtQkCoK3FkAICoK2p+wsCoK29xgQCoK2BoQwCoK2VjAUCoK356A4CoK2NgAsCoK2R6wQCnYSPxAcCnYSTrw8CnYTniwgCnYTL1gECnYTfsQkCnYSjnAICnYS35wsCnYSbwgQCnYSv+wECnYSzxgoC2efasA8C2eeumwgC2eeumwgC2eey5gEC2eeGwQoC2efqrQIC2ef+iAsC2efC0wQC2efWvgwC2ef61woCnY/I9A8CgO3Ltg0C2Y3vvw8CnaXFjgQC1ZLejQEC2sPyhQgCqcOhzwECyIf/5AoC2pv3uAoCleiX9gMC7LLq0AMCoc2ZtAIC2NW3SQKU0vq+BwK32r7uCgKStqhXn1R4BqUNv5SRhvgwjMylsb6D5uoRj9TAwT+5Oy2bPSw=">
-    
     <div id="main-container">
-        <!-- Header -->
-        <div id="header-container">
-            <div class="fl">
-                <div class="worldNo1">
-                    The World's No.1 Fantasy Cricket Game</div>
-                <div class="dream-logo">
-                    <a href="http://www.dream11.com" title="Dream11.com - Cricket. Compete. Connect">
-                        <div id="dream11-logo"></div>
+        <div id="top-container">
+            <div class="top-black-line">
+            </div>
+            <div id="header">
+                <div class="fl">
+                    <h1 class="worldNo1">
+                        World's No.1 Fantasy Cricket Game of Skill</h1>
+                    <a href="https://fantasycricket.dream11.com/" id="dream11-logo" title="Dream11.com - Cricket. Compete. Connect">
+                        <img src="https://fantasycricket.dream11.com/fcimages/logo.png" alt="Dream11.com - Cricket. Compete. Connect">
+                    </a>
+                </div>
+                <div class="fr scoreboard">
+                </div>
+                <div class="fr h-v-breakLine">
+                </div>
+                <div class="fr" align="center">
+                    <div id="plLogin" class="login">
+                        <a href="javascript:void(0)" onclick="onDemandPage('login.htm')">Login</a> | <a href="javascript:void(0)" onclick="onDemandPage('registration.htm')">Register Now</a>
+                        <div style="margin: 5px 9px 5px 0px">
+                            or
+                        </div>
+                    </div>
+                    
+                    <!--fbconnect -->
+                    <div id="plfbconnect">
+                    <div class="fbutton" onclick="_FBLogin();"></div>
+                       
+
+                    </div>
+                    <!--end fbconnect -->
+                </div>
+            </div>
+            <div id="navigation">
+                <ul class="nlist">
+                    <li class="fl menubardivider"></li>
+                    <li class="fl"><a class="navList navActive" href="/challenges/IND-SRI-ODI/114" alt="">IND VS SRI (ODI)</a><span class="newt114"></span></li><li class="fl menubardivider"></li><li class="fl"><a class="navList " href="/challenges/ENG-SA-TEST/113" alt="">ENG VS SA (TEST)</a><span class="newt113"></span></li><li class="fl menubardivider"></li><li class="fl"><a class="navList " href="/challenges/WI-Nz-TEST/116" alt="">WI VS NZ (TEST)</a><span class="newt116"></span></li><li class="fl menubardivider"></li><li class="fl"><a class="navList " href="/challenges/IRE-BAN-T20I/115" alt="">IRE VS BAN (T20I)</a><span class="newt115"></span></li><li class="fl menubardivider"></li>
+                    
+                    <li class="fr navhelpbg" style="width:56px;"><a href="/HowToPlay" id="anchowToPlay">
+                     <div class="fl helpIcon"> </div><div class="fl">Help</div></a></li>
+                    <li class="fr menubardivider"></li>
+                    <li class="fr navhelpbg" style="width:76px;"><a href="&lt;%=baseUrl %&gt;" id="ancwinner">
+                     <div class="fl winnerIcon"> </div><div class="fl">Winners</div></a></li> 
+                    <li class="fr menubardivider"></li>
+                </ul>
+            </div>
+            <div id="main-content">
+                
+    <div id="main-content">
+        <div class="sub-challenges-nav fl" id="selectsubchallenge">
+            <div class="redBorder">
+                <div class="mainTitle fl">
+                    Privacy Policy</div>
+                
+            </div>
+        </div>
+        <div id="bottom-container">
+            <div class="info-challenges fl">
+                <div class="info-content">
+                    <div class="aboutus">Dream11.com is the flagship brand of Clover Media Private Limited <b>(“Clover Media”)</b>. Dream11.com is a cricket portal which also operates cricket-based fantasy games and other online games.
+<br><br>Any person utilizing Dream11.com <b>(“User”)</b> or any of the products or services offered therein <b>(“Services”)</b> including participation in the various contests, games <b>(including fantasy games)</b>, etc., being conducted on Dream11.com shall be bound by this Privacy Policy.
+<br><br>Dream11.com respects the privacy of its Users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to its users Dream11.com offers a vast repository of Online Sites and variety of community services. Kindly take time to read 'About Us' to know more about Dream11.com, at About Us. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf Dream11.com's online games. The information about the user is collected by Dream11.com as (i) information supplied by users and (ii) information automatically tracked while User's navigation on Dream11.com. 
+<br><br>
+<ol class="careersPoints">
+<b>To avail certain sites / services on our websites, users would be required to provide certain information for the registration process namely:</b>
+<li>Dream11.com ID</li>
+<li>Password</li>
+<li>Email address</li>
+</ol><br>
+All required information is specific and based on the kind of Game/ Service needed. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly Game experience. In some sites as in Casual Game Contests, we require your contact addresses.
+<br><br>
+To improve the effectiveness &amp; usability of our Game sites for our users, we use "cookies", or such similar electronic tools to collect information to assign each visitor a unique random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless the User voluntarily identifies himself/herself (e.g. through registration), Dream11.com has no way of knowing who the User is, even if we assign a cookie to the User's computer. The only personal information a cookie can contain is information supplied by the User. A cookie cannot read data off the User's hard drive. Our advertisers may also assign their own cookies to the User's browser (if the User clicks on their ad banners), a process that Dream11.com does not control.
+<br><br>
+Dream11.com's web servers automatically collect limited information about User's computer's connection to the Internet, including User's IP address, when the User visits our site. (User's IP address is a number that lets computers attached to the Internet know where to send data to the User -- such as the web pages viewed by the User). The User's IP address does not identify the User personally. Dream11.com uses this information to deliver its web pages to Users upon request, to tailor its site to the interests of its users, to measure traffic within its site and let advertisers know the geographic locations from where Dream11.com's visitors come.     
+<br><br>
+Dream11.com also includes links to other websites. Such websites are governed by their respective privacy policies, which are beyond Dream11.com's control. Once the User leaves Dream11.com's servers (the User can tell where he/she is by checking the URL in the location bar on the User's browser), use of any information provided by the User is governed by the privacy policy of the operator of the site which the User is visiting. That policy may differ from Dream11.com's own. If the User can't find the privacy policy of any of these sites via a link from the site's homepage, the User may contact the site directly for more information.
+<br><br>
+When Dream11.com presents information to it's online advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with Dream11.com, we contact you from time to time about updating your content to provide features which we believe may benefit you.
+<br><br>
+All information gathered on Dream11.com is securely stored within Dream11.com-controlled database. The database is stored on servers secured behind a firewall; access to such servers being password-protected and strictly limited based on need-to-know basis. However, we understand that as effective as our security measures are, no security system is impenetrable. Thus, we cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Further, any information you include in a posting to the discussion areas will be available to anyone with Internet access.
+<br><br>
+Dream11.com also believes that the internet is an ever-evolving medium. We may periodically review from time to time and change our privacy policy to incorporate such future changes as may be considered appropriate. Our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
+<br><br>
+We use third-party advertisers to serve ads when you visit our Web sites. These advertisers may use information (excluding your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services which might interest you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:
+Several deceptive emails, websites, blogs etc. claiming to be from or associated with Dream11.com may or are circulating on the Internet. These emails, websites, blogs etc. often include our logo, photos, links, content or other information from any of Dream11.com. Some emails, websites, blogs etc. call the user to provide login name, password etc. or that the user has won a prize/ gift or provide a method to commit illegal/ unauthorised act or deed or request detailed personal information or a payment of some kind. The sources and contents of these emails, websites, blogs etc. and accompanying materials are in no way associated with the Dream11.com. For your own protection, we strongly recommend not responding to emails or using websites, blogs etc.
+<br><br>
+<i>Any questions or clarifications with respect to this Policy can be sent to Dream11.com at: legal@Dream11.com or by normal/physical mail addressed to:<br><br>
+Clover Media Private Limited
+<br>
+Unit No 7, Basement<br>
+B Wing, Trade World<br>
+Kamala City, Senapati Bapat Marg,<br>
+Lower Parel (West)</i><br>
+
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+                <div class="smMainContainer">
+                    <div class="addthis_toolbox addthis_default_style" style="text-align: center" align="center" addthis:url="http://www.dream11.com/" addthis:title="Dream11.com - World's No.1 Fantasy Cricket Game of Skill" addthis:description="Choose your favorite cricketers, make your dream team and win exciting prizes on the World's No. 1 fantasy cricket game - Dream11.com">
+                        <div class="smBackground" style="">
+                        </div>
+                        <a href="javascript:void(0)" class="addthis_button_facebook_like smIcons" fb:like:layout="box_count" fb:like:href="https://www.facebook.com/Dream11" fb:like:width="40" style="margin-left: 7px"></a><a href="javascript:void(0)" class="addthis_button_tweet smIcons" tw:count="vertical"></a><a class="addthis_button_google_plusone smIcons" g:plusone:size="tall">
+                                </a>
+                        <img src="https://fantasycricket.dream11.com/fcimages/vertical-break-bottom.png" alt="" class="smVerticalLine fr" width="1" height="240">
+                    </div>
+                </div>
+            </div>
+               <!-- Live Chat HTML-->
+    <div id="mainChatWindow" class="chatbox fr livehelpbutton">
+            <div class="my-chat-header graywidth">
+                <div class="fl greetingmsg">
+                    <div class="fl lcicon" align="center"></div>
+                    <div class="fr livechattext">
+                        Live Help</div>
+
+                </div>
+                <div class="fr">
+                    <a class="minN" id="minimizeChat" href="javascript:void(0);">
+                        <img src="https://fantasycricket.dream11.com/fcimages/minimizeLC.png">
                     </a>
                 </div>
             </div>
-            <div class="fr scoreboard">
-                <div class="matches">
-                    <ul id="selectMatch" class="nlist">
-                        <li><a class="scorecardActive " href="#">
-                            </a></li>
-                        <li><a href="#">
-                            </a></li>
-                        <li><a href="#">
-                            </a></li>
-                    </ul>
+            <div id="inncontent" class="chatwindow">
+                <div class="chatdisplayscreen" id="entireChatWindow">
+                    <div id="chatArea">
+                    </div>
                 </div>
-                <div id="score" class="right">
-                    <div class="fs16 bold ">
-                        </div>
-                    <div class="fs11 pt5 ">
-                        </div>
-                    <div class="fs11">
-                        </div>
-                </div>
-                <div class="fullscorecard">
-                    <a href="#" class="white pr5">
-                        </a></div>
+                <div class="chatBottom">
+                    <div style="position: relative; display: block;">
+                        <input type="text" id="chatLine" class="chatinput" onkeypress="return disableEnterKey(event,'sendMsgToServer()')">
+                        ​<i class="commenticon"></i></div>
+                    
+                    <br>
+                </div> 
             </div>
-            <div class="login fr">
-                <div id="plLogin" class="fr bold">
-	
-                    <span class="plr10 bold">or </span><a href="javascript:void(0)" onclick="openModalPopup('#dialog')">
-                        Login</a> | <a href="javascript:void(0)" onclick="openModalPopup('#dialog2')">Register</a>
-                
-</div>
-                
-                <!--fbconnect -->
-                <div id="plfbconnect" class="fr">
-	
-                    <fb:login-button width="72px" height="17px" perms="publish_stream,user_birthday,email" onlogin="update_user_box();">Login</fb:login-button>
-                
-</div>
-                <!--end fbconnect -->
-            </div>
+<div class="before"></div>
         </div>
-        <!-- Navigation Bar -->
-        <div id="navigation">
-            <ul class="nlist">
-                <li class="fl menubardivider"></li>
-                <li class="fl"><a class="navList navActive" href="http://www.dream11.com/index.aspx?t=64" alt="">T20 Premier League</a></li><li class="fl menubardivider"></li><li class="fl"><a class="navList " href="http://www.dream11.com/index.aspx?t=65" alt="">England v Sri Lanka </a></li><li class="fl menubardivider"></li>
-            </ul>
+        <div class="clearfix"></div>
+                <div id="notificationicon">
         </div>
-        
-<!-- Google Analytics-->
+         <div id="divlc" class="fr">
 
-<script type="text/javascript">
+          
+         <div class="fr lcRedButton">
+           <div class="lcicon livechatlink" id="openLoginPage" onclick="onDemandPage('login.htm')">Live Help</div>
+         </div>
 
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-    try {
-        var pageTracker = _gat._getTracker("UA-7674646-1");
-
-        pageTracker._trackPageview();
-
-
-    } catch (err) { }
-</script>
-<script type="text/javascript" language="javascript">
-    function checkFormValidation() {
-        //alert("pravin");
-
-
-        if (document.getElementById("txtemail").value == "") {
-            alert("Enter Your Email");
-            return false;
-        }
-
-        if (document.getElementById("txtname").value == "") {
-            alert("Enter Your Name");
-            return false;
-
-        }
-
-
-
-        return false;
-    }
-	  
-	  </script>
-<div id="main-content">
-    <div class="sub-challenges-nav fl" id="selectsubchallenge">
-         <div class="info-header fl">Privacy Policy</div>
-         <div class="fr">
-                <a href="HowtoPlay.aspx" class="helpicon fl pl25"><span class="fl bold mtb10 pl5 black">Help</span></a>                 
-            </div>
-        </div>
-    <div id="bottom-container">
-       <div class="list-of-challenges fl">       
-            <div class="info-content">
-	    		<div id="aboutus">
-			<p>Dream11 Gaming Private Limited (Dream11) is the Portal Business. Located at&nbsp;<a href="http://www.dream11.com"><strong>www.Dream11.com</strong></a>&nbsp;and powers / manages various Online Games which are linked to various internet sites and community boards and services hereinafter collectively referred to as Dream11.</p>
-			<br>
-			<p>Dream11 respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users Dream11 offers a vast repository of Online Sites and variety of community services. Kindly take time to read 'About Us' to know more about Dream11 at About Us. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf Dream11's online games. The information about the user is collected by Dream11 as (i) information supplied by users and (ii) information automatically tracked while User's navigation on the Dream11 website.</p>
-			<br>
-			<p>To avail certain sites / services on our websites, users would be required to provide certain information for the registration process namely:</p>
-			<br>
-			<p>a) Dream11 ID,<br>
-			  b) Password,<br>
-			  c) Email address</p>
-			<br>
-			<p>All required information is specific and based on the kind of Game/ Service needed. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly Game experience. In some sites as in Casual Game Contests, we require your contact addresses.</p>
-			<br>
-			<p>To improve the effectiveness &amp; usability of our Game sites for our users, we use "cookies", or such similar electronic tools to collect information to assign each visitor a unique random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless the User voluntarily identifies himself/herself (e.g. through registration), Dream11 has no way of knowing who the User is, even if we assign a cookie to the User's computer. The only personal information a cookie can contain is information supplied by the User. A cookie cannot read data off the User's hard drive. Our advertisers may also assign their own cookies to the User's browser (if the User clicks on their ad banners), a process that Dream11 does not control.</p>
-			<br>
-			<p>Dream11's web servers automatically collect limited information about User's computer's connection to the Internet, including User's IP address, when the User visits our site. (User's IP address is a number that lets computers attached to the Internet know where to send data to the User -- such as the web pages viewed by the User). The User's IP address does not identify the User personally. Dream11 uses this information to deliver its web pages to Users upon request, to tailor it's site to the interests of it's users, to measure traffic within it's site and let advertisers know the geographic locations from where Dream11's visitors come.</p>
-			<br>
-			<p>Dream11 also includes links to other websites. Such websites are governed by their respective privacy policies, which are beyond Dream11's control. Once the User leaves Dream11's servers (the User can tell where he/she is by checking the URL in the location bar on the User's browser), use of any information provided by the User is governed by the privacy policy of the operator of the site which the User is visiting. That policy may differ from Dream11's own. If the User can't find the privacy policy of any of these sites via a link from the site's homepage, the User may contact the site directly for more information.</p>
-			<br>
-			<p>When Dream11 presents information to it's online advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with Dream11, we contact you from time to time about updating your content to provide features which we believe may benefit you.</p>
-			<br>
-			<p>All information gathered on Dream11 is securely stored within Dream11-controlled database. The database is stored on servers secured behind a firewall; access to such servers being password-protected and strictly limited based on need-to-know basis. However, we understand that as effective as our security measures are, no security system is impenetrable. Thus, we cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Further, any information you include in a posting to the discussion areas will be available to anyone with Internet access.</p>
-			<br>
-			<p>Dream11 also believes that the internet is an ever-evolving medium. We may periodically review from time to time and change our privacy policy to incorporate such future changes as may be considered appropriate. Our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.</p>
-			<br>
-			<p>We use third-party advertisers to serve ads when you visit our Web sites. These advertisers may use information (excluding your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services which might interest you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:</p>
-			<br>
-			<p>Several deceptive emails, websites, blogs etc. claiming to be from or associated with the Dream11 Internet Sites may or are circulating on the Internet. These emails, websites, blogs etc. often include our logo, photos, links, content or other information from any of Dream11 Internet Sites. Some emails, websites, blogs etc. call the user to provide login name, password etc. or that the user has won a prize/ gift or provide a method to commit illegal/ unauthorised act or deed or request detailed personal information or a payment of some kind. The sources and contents of these emails, websites, blogs etc. and accompanying materials are in no way associated with the Dream11 Internet Sites. For your own protection, we strongly recommend not responding to emails or using websites, blogs etc.</p>
-			<br>Any questions or clarifications with respect to this Policy can be sent to Dream11 at: legal@Dream11.com or by normal/physical mail addressed to:<p></p>
             
-            <address>
-<img src="http://www.dream11.com/media/images/logo-small.gif" width="105" height="25" border="0"><br>
-			<strong>Dream11 Gaming Private Limited</strong><br>
-			  Unit No 7, Basement,<br>
-			  B Wing, Trade World,<br>
-			  Kamala City,<br>
-			  SenapatiBapat Marg,<br>
-			  Lower Parel (West)<br>
-		    Mumbai 400013,
-</address>
-          </div>
-            </div>
-     </div>
- </div> 
-</div>
-
+            
+       </div>
+       <div class="clearfix"></div>
+        </div>
     </div>
-    <!-- Footer -->
     <div id="footer-container">
         <div id="footer">
-            <div class="foot-nav footer-txt">
-                <ul class="foot-nav-ul">
-                    <li class="h1-foot">Sign Up </li>
-                    <li>Not on Dream11 yet? </li>
-                    
-                    <li><a href="#dialog2" name="modal" style="color: #093">Sign up for free</a></li>
-                    
-                </ul>
-            </div>
+            <div class="nav" align="center">
+                <a href="/HowToPlay">Help</a> | <a href="/Frequently-Asked-Questions">FAQ</a> | <a href="/ContactUs">
+                        Contact us</a> | <a href="/Jobs">Jobs</a>
+                | <a href="/Newsroom/News">Newsroom</a>
+                | <a href="/Sitemap">Site Map</a>
+                | <a href="/Legality">Legality</a></div>
+            <br>
+            <br>
             
-            <div class="foot-nav footer-txt">
-                <ul class="foot-nav-ul">
-                    <li class="h1-foot">Help</li>
-                    
-                    <li><a href="http://www.dream11.com/HowtoPlay.aspx">How to Play</a></li>
-                    
-                    <li><a href="http://www.dream11.com/DailyChallenge.aspx">Challenges</a></li>
-                    <li><a href="http://www.dream11.com/faq.aspx">FAQ</a></li>
-                    
-                </ul>
-            </div>
-            <div class="foot-nav footer-txt">
-                <ul class="foot-nav-ul">
-                    <li><a href="http://www.dream11.com/AboutUs.aspx" class="h1-foot">About Us</a></li>
-                    <li><a href="http://www.dream11.com/ContactUs.aspx">Contact us</a></li>
-                    <li><a href="http://www.dream11.com/Jobs.aspx">Careers</a></li>
-                     <li><a href="http://www.dream11.com/newsroom/newsroom.aspx">Newsroom</a></li>
-                </ul>
-            </div>
-            <div class="foot-nav-describe footer-txt">
-                <div class="h2-foot">
-                    What is Fantasy Cricket</div>
-                <div>
-                    Fantasy Cricket is where you create your own cricket team with a stipulated budget
-                    from real cricket matches</div>
-                <div class="h2-foot">
-                    What is Challenge</div>
-                <div>
-                    Challenge are essentially Challenges consisting of a certain number of people playing
-                    participating to win the grand prize by creating more...<a href="http://www.dream11.com/DailyChallenge.aspx" style="color: #093">view more</a></div>
-            </div>
             <div class="foot-affilation">
                 Dream11.com is not affiliated in any way to and claims no association, in any capacity
                 whatsoever, with the Board of Control for Cricket in India ("BCCI"), the Indian
@@ -861,796 +219,129 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 Dream11.com acknowledges that the BCCI/IPL and its franchisees own all proprietary
                 names and marks relating to the IPL.
             </div>
-            <div class="foot-copyrights footer-txt">
-                <div>
-                    Copyright © 2010 <a href="#" class="footer-txt">Dream11 Gaming Pvt Ltd.</a>
-                    All rights reserved.
+            <div style="height: 10px;">
+            </div>
+            <div class="foot-affilation">
+                <div class="fl">
+                    Copyright © 2011 Clover Media Pvt Ltd. All rights reserved.
+                </div>
+                <div class="fr">
+                    <ul class="nlist">
+                        <li class="fl mr45"><a href="/PrivacyPolicy" class="footer-txt">Privacy Policy </a></li>
+                        <li class="fl mr45"><a href="/TermsandConditions" class="footer-txt">Terms &amp; Conditions</a> </li>
+                    </ul>
                 </div>
             </div>
-            <div class="foot-nav-sitemap footer-txt fr">
-                <ul class="foot-nav-ul">
-                    
-                    <li><a href="http://www.dream11.com/PrivacyPolicy.aspx" class="footer-txt">Privacy Policy
-                    </a></li>
-                    <li><a href="http://www.dream11.com/TermConditions.aspx" class="footer-txt">Terms &amp;
-                        Conditions </a></li>
-                </ul>
-            </div>
+        </div>
+        <div class="top-black-line">
         </div>
     </div>
+    <div class="clearfix"></div>
+     
     <div id="boxes">
-        <!-- Login Dialog Box -->
+        <!-- Login Dialog Box...Loads onDemand-->
         <div id="dialog" class="window">
-            <div class="modalFB2 fl">
-                <div class="modalheader">
-                    Login using Facebook</div>
-                <div class="modalfbconnect">
-                    <!-- Fconnect start -->
-                    <fb:login-button perms="publish_stream,user_birthday,email" onlogin="update_user_box();">
-                                            </fb:login-button>
-                    <!-- Fconnect end -->
-                    <span class="fs12 mlr5">or</span> <a href="#dialog2" name="modal" class="fs12 underline mr5 red">
-                        create a new account</a>
-                </div>
-                <!--fconn-->
-                <div class="bold fs11 clear mt15">
-                    Use your Facebook account to login to Dream11.com</div>
-                <div class="fs11">
-                    You'll also be able to add your Facebook friends to
-                    <br>
-                    dream11.com and post your activity in your Facebook feed</div>
-            </div>
-            <div class="fr">
-                <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-            </div>
-            <div id="upLogin">
-	
-                    <div id="plRegULogin">
-		
-                        <div class="modaltop">
-                            <div class="modalhelpicon fl">
-                                <span class="icons-modals icon-login"></span>
-                            </div>
-                            <div class="modaldata2 fl">
-                                <div id="UpdateProgress2" style="display:none;">
-			
-                                        <img width="30" height="30" alt="loader" src="http://staging.dream11.in/media/images/preloader1.gif">
-                                    
-		</div>
-                                <div class="modalheader">
-                                    Login</div>
-                                <div>
-                                    <input class="form-fields gray" type="text" name="example@example.com" id="wmloginemail" value="example@example.com" autocomplete="off">
-                                    <input name="ctl00$txtlog" type="text" maxlength="50" id="txtlog" class="form-fields" onblur="checkemail2(this.value)">
-                                    
-                                    <label id="lblnotvalid" class="invalid1" style="display: none;">
-                                        &nbsp;</label>
-                                    
-                                    
-                                </div>
-                                <div>
-                                    <input class="password-clear form-fields gray" type="text" value="password" autocomplete="off">
-                                    <input name="ctl00$txtLoginPWD" type="password" id="txtLoginPWD" class="password-password form-fields" autocomplete="off">
-                                    
-                                </div>
-                                <div class="h15">
-                                    <span id="lbllogerror" class="error w160 pl20 red hide">Wrong Email ID / Password</span></div>
-                                <input type="submit" name="ctl00$cmdlog" value="Login" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cmdlog&quot;, &quot;&quot;, true, &quot;vgLogin&quot;, &quot;&quot;, false, false))" id="cmdlog" title="Login" class="redSmlBtn mt5 fl ">
-                                <input name="ctl00$chkCookie" type="checkbox" id="chkCookie" value="remember" class="fl m10">
-                                <span class="fs12 fl mt10">Remember me</span>
-                                <div class="forgot-pwd">
-                                    <a href="#dialog4" name="modal" onclick="clearForgotpwd()">Forgot your password?</a></div>
-                            </div>
-                        </div>
-                        <div class="modal-bottom clearfix">
-                            <div class="fl">
-                                Not registered yet?</div>
-                            <div class="sign-up fl">
-                                <a href="#dialog2" name="modal">Sign up for free</a>
-                            </div>
-                        </div>
-                    
-	</div>
-                
-</div>
-        </div>
-        <!-- Registration Dialog Box -->
-        <div id="dialog2" class="window">
-            <div class="modalFB2 fr">
-                <a class="fbuserlogin" style="display:block" onclick="javascript:fset()" href="javascript:void(0)">
-                    <!-- Fconnect start -->
-
-                   
-                    <!-- Fconnect end -->
-                </a>
-            </div>
-            <div class="fr">
-                <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-            </div>
-            <div id="upRegistration">
-	
-                    <div id="plRegistration">
-		
-                        <div class="modaltop">
-                            <div class="modalhelpicon fl">
-                                <span class="icons-modals icon-registration"></span>
-                            </div>
-                            <div class="modaldata2 fl">
-                                <div class="modalheader">
-                                    Sign up for free</div>
-                                <div id="Div1" style="width: 30px; height: 30px; margin: -16px auto 0">
-                                    <div id="UpdateProgress1" style="display:none;">
-			
-                                            <img width="30" height="30" src="http://staging.dream11.in/media/images/preloader1.gif">
-                                        
-		</div>
-                                </div>
-                                <div>
-                                    <input class="form-fields gray" type="text" name="first name" id="wmfirstname" value="first name" autocomplete="off">
-                                    <input name="ctl00$txtuname" type="text" maxlength="50" id="txtuname" tabindex="1" title="First name" class="form-fields">
-                                    
-                                    
-                                </div>
-                                <div>
-                                    <input class="form-fields gray" type="text" name="last name" id="wmlastname" value="last name" autocomplete="off">
-                                    <input name="ctl00$txtlname" type="text" maxlength="50" id="txtlname" tabindex="1" title="Last name" class="form-fields">
-                                    
-                                    
-                                </div>
-                                <div>
-                                    <input class="form-fields gray" type="text" name="team name" id="wmteamname" value="team name" autocomplete="off">
-                                    <input name="ctl00$txttname" type="text" maxlength="100" id="txttname" tabindex="1" title="Team name" class="form-fields" onblur="checkteam(this.value);">
-                                    
-                                    <label class="valid pl15" id="availt" style="display: none;">
-                                        &nbsp;</label>
-                                    <label class="invalid1 pl15" id="notavailt" style="display: none;">
-                                        &nbsp;</label>
-                                    
-                                </div>
-                                <span id="rbtgender" style="display:inline-block;"><input id="rbtgender_0" type="radio" name="ctl00$rbtgender" value="Male" checked="checked"><label for="rbtgender_0">Male</label><input id="rbtgender_1" type="radio" name="ctl00$rbtgender" value="Female"><label for="rbtgender_1">Female</label></span>
-                                <div class="h10">
-                                </div>
-                                <div>
-                                    <select name="ctl00$date" id="date" onchange="return checkdob();">
-			<option value="0">DD</option>
-			<option value="1">1</option>
-			<option value="2">2</option>
-			<option value="3">3</option>
-			<option value="4">4</option>
-			<option value="5">5</option>
-			<option value="6">6</option>
-			<option value="7">7</option>
-			<option value="8">8</option>
-			<option value="9">9</option>
-			<option value="10">10</option>
-			<option value="11">11</option>
-			<option value="12">12</option>
-			<option value="13">13</option>
-			<option value="14">14</option>
-			<option value="15">15</option>
-			<option value="16">16</option>
-			<option value="17">17</option>
-			<option value="18">18</option>
-			<option value="19">19</option>
-			<option value="20">20</option>
-			<option value="21">21</option>
-			<option value="22">22</option>
-			<option value="23">23</option>
-			<option value="24">24</option>
-			<option value="25">25</option>
-			<option value="26">26</option>
-			<option value="27">27</option>
-			<option value="28">28</option>
-			<option value="29">29</option>
-			<option value="30">30</option>
-			<option value="31">31</option>
-
-		</select>
-                                    
-                                    <select name="ctl00$month" id="month" onchange="return checkdob();">
-			<option value="0">MM</option>
-			<option value="1">Jan</option>
-			<option value="2">Feb</option>
-			<option value="3">Mar</option>
-			<option value="4">Apr</option>
-			<option value="5">May</option>
-			<option value="6">Jun</option>
-			<option value="7">Jul</option>
-			<option value="8">Aug</option>
-			<option value="9">Sep</option>
-			<option value="10">Oct</option>
-			<option value="11">Nov</option>
-			<option value="12">Dec</option>
-
-		</select>
-                                    
-                                    <select name="ctl00$year" id="year" onchange="return checkdob();">
-			<option value="0">YYYY</option>
-			<option value="1900">1900</option>
-			<option value="1901">1901</option>
-			<option value="1902">1902</option>
-			<option value="1903">1903</option>
-			<option value="1904">1904</option>
-			<option value="1905">1905</option>
-			<option value="1906">1906</option>
-			<option value="1907">1907</option>
-			<option value="1908">1908</option>
-			<option value="1909">1909</option>
-			<option value="1910">1910</option>
-			<option value="1911">1911</option>
-			<option value="1912">1912</option>
-			<option value="1913">1913</option>
-			<option value="1914">1914</option>
-			<option value="1915">1915</option>
-			<option value="1916">1916</option>
-			<option value="1917">1917</option>
-			<option value="1918">1918</option>
-			<option value="1919">1919</option>
-			<option value="1920">1920</option>
-			<option value="1921">1921</option>
-			<option value="1922">1922</option>
-			<option value="1923">1923</option>
-			<option value="1924">1924</option>
-			<option value="1925">1925</option>
-			<option value="1926">1926</option>
-			<option value="1927">1927</option>
-			<option value="1928">1928</option>
-			<option value="1929">1929</option>
-			<option value="1930">1930</option>
-			<option value="1931">1931</option>
-			<option value="1932">1932</option>
-			<option value="1933">1933</option>
-			<option value="1934">1934</option>
-			<option value="1935">1935</option>
-			<option value="1936">1936</option>
-			<option value="1937">1937</option>
-			<option value="1938">1938</option>
-			<option value="1939">1939</option>
-			<option value="1940">1940</option>
-			<option value="1941">1941</option>
-			<option value="1942">1942</option>
-			<option value="1943">1943</option>
-			<option value="1944">1944</option>
-			<option value="1945">1945</option>
-			<option value="1946">1946</option>
-			<option value="1947">1947</option>
-			<option value="1948">1948</option>
-			<option value="1949">1949</option>
-			<option value="1950">1950</option>
-			<option value="1951">1951</option>
-			<option value="1952">1952</option>
-			<option value="1953">1953</option>
-			<option value="1954">1954</option>
-			<option value="1955">1955</option>
-			<option value="1956">1956</option>
-			<option value="1957">1957</option>
-			<option value="1958">1958</option>
-			<option value="1959">1959</option>
-			<option value="1960">1960</option>
-			<option value="1961">1961</option>
-			<option value="1962">1962</option>
-			<option value="1963">1963</option>
-			<option value="1964">1964</option>
-			<option value="1965">1965</option>
-			<option value="1966">1966</option>
-			<option value="1967">1967</option>
-			<option value="1968">1968</option>
-			<option value="1969">1969</option>
-			<option value="1970">1970</option>
-			<option value="1971">1971</option>
-			<option value="1972">1972</option>
-			<option value="1973">1973</option>
-			<option value="1974">1974</option>
-			<option value="1975">1975</option>
-			<option value="1976">1976</option>
-			<option value="1977">1977</option>
-			<option value="1978">1978</option>
-			<option value="1979">1979</option>
-			<option selected="selected" value="1980">1980</option>
-			<option value="1981">1981</option>
-			<option value="1982">1982</option>
-			<option value="1983">1983</option>
-			<option value="1984">1984</option>
-			<option value="1985">1985</option>
-			<option value="1986">1986</option>
-			<option value="1987">1987</option>
-			<option value="1988">1988</option>
-			<option value="1989">1989</option>
-			<option value="1990">1990</option>
-			<option value="1991">1991</option>
-			<option value="1992">1992</option>
-			<option value="1993">1993</option>
-			<option value="1994">1994</option>
-			<option value="1995">1995</option>
-			<option value="1996">1996</option>
-			<option value="1997">1997</option>
-			<option value="1998">1998</option>
-			<option value="1999">1999</option>
-			<option value="2000">2000</option>
-			<option value="2001">2001</option>
-			<option value="2001">2001</option>
-			<option value="2002">2002</option>
-			<option value="2003">2003</option>
-			<option value="2004">2004</option>
-			<option value="2005">2005</option>
-			<option value="2006">2006</option>
-			<option value="2007">2007</option>
-			<option value="2008">2008</option>
-
-		</select>
-                                    
-                                    
-                                    <label id="invalb" class="invalid1 pl15" style="display: none;">
-                                        &nbsp;</label>
-                                </div>
-                                <div class="h10">
-                                </div>
-                                <div>
-                                    <input class="form-fields gray" type="text" name="example@example.com" id="wmregemail" value="example@example.com" autocomplete="off">
-                                    <input name="ctl00$txtemail" type="text" maxlength="100" id="txtemail" tabindex="3" title="example@example.com" class="form-fields" onblur="checkemail(this.value)">
-                                    
-                                    
-                                    <label id="avail" class="valid pl15" style="display: none;">
-                                        &nbsp;</label>
-                                    <label id="notavail" class="invalid1 pl15" style="display: none;">
-                                        &nbsp;</label>
-                                    <label id="inval" class="invalid1 pl15" style="display: none;">
-                                        &nbsp;</label>
-                                    <span id="lblerror"><font color="#DB0000"></font></span>
-                                </div>
-                                <div>
-                                    <input class="password-clear form-fields gray" type="text" value="Password" autocomplete="off">
-                                    <input name="ctl00$txtpassword" type="password" id="txtpassword" class="password-password form-fields" tabindex="4" oncopy="return false" onpaste="return false" oncut="return false">
-                                    
-                                    <div>
-                                        </div>
-                                </div>
-                                <div>
-                                    
-                                </div>
-                                <div class="fs9">
-                                    By clicking the "Create My Account" button below,<br>
-                                    I certify that I have read and agreed to the Dream11.com<br>
-                                    <a href="http://www.dream11.com/TermConditions.aspx" target="_blank">Terms and 
-                                    Condition</a>
-                                    <br> 
-                                </div>
-                                <input type="submit" name="ctl00$cmdreguser" value="Create My Account" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cmdreguser&quot;, &quot;&quot;, true, &quot;vgRegister&quot;, &quot;&quot;, false, false))" id="cmdreguser" title="Create My Account" class="redSmlBtn mtb10">
-                            </div>
-                        </div>
-                        <div class="modal-bottom clearfix">
-                            <div class="fl">
-                                Already registered?</div>
-                            <div class="sign-up fl">
-                                <a href="#dialog" name="modal">Login</a></div>
-                        </div>
-                    
-	</div>
-                
-</div>
-        </div>
-        <!-- Welcome screen modal -->
-        <div id="dialog3" class="window">
-            <div class="welcometop">
-                <span class="fl p20 fs12">Welcome to Dream11.com: The World's No.1 Fantasy Cricket Game</span>
-                <a class="fr modalcloseimg m15" href="javascript:void(0)"></a>
-            </div>
-            <div class="welcomecenter f16">
-                <div class="welcomecreateTeam fl">
-                    <div class="welcomecreateTeamImg">
-                    </div>
-                    <div class="normalfont fs12">
-                        Create your</div>
-                    <div>
-                        Fantasy Cricket Team</div>
-                </div>
-                <div class="welcomearrow fl">
-                </div>
-                <div class="welcomejoin fl mt25">
-                    <div class="joinNowImg">
-                    </div>
-                    <div>
-                        Join any Challenge</div>
-                </div>
-                <div class="welcomearrow fl">
-                </div>
-                <div class="welcomeprize fl">
-                    <div class="welcomeprizesimg">
-                    </div>
-                    <div>
-                        Win Prizes</div>
-                </div>
-            </div>
-            <div class="continue">
-                <a href="javascript:void(0)" onclick="closePopUp()" class="grayBigBtn continueButton">
-                    CONTINUE</a>
-            </div>
-        </div>
-        <!-- Lost password modal -->
-        <div id="dialog4" class="window">
-            <div id="loader"></div>
-            <div class="modaltop">
-                <div class="modalhelpicon fl">
-                    <span class="icons-modals icon-lostpwd"></span>
-                </div>
-                <div class="modaldata fl">
-                    <div class="modalheader">
-                        Lost your password?</div>
-                    <div class="fs12">
-                        Enter your email address and we will send you the password.</div>
-                    <input name="ctl00$emailid" type="text" maxlength="75" id="emailid" tabindex="3" title="example@example.com" class="form-fields" onkeyup="checkforgotpwdemail(this.value)">                    
-                    <label id="lblreg" style="display: none;padding-left:20px !important;" class="valid fs11">
-                        Valid User</label>
-                    <label id="lblnotreg" style="display: none; padding-left:20px !important;" class="invalid1 fs11">
-                        Invalid User</label>
-                   <div>
-                    <input type="button" class="redSmlBtn mb10" id="sndPwdbtn" onclick="sentDetails()" value="Send password">
-                        </div>
-                   
-                </div>
-                <div class="fl">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-                </div>
-           </div>
-        </div>
-        <!-- User Profile modal window -->
-        <div id="dialog5" class="window">
-            <div class="modaltop">
-                <div class="modalhelpicon fl">
-                    <span class="icons-modals icon-userprofile"></span>
-                </div>
-                <div class="modaldata fl">
-                    <div id="userprofiles">
-                        <div class="modalheader">
-                            First and Last name</div>
-                        <div class="fs12 mb10">
-                            Team Name</div>
-                        <div class="fs12 mb10">
-                            Email Id</div>
-                        <div class="fs12 mb10">
-                            Location, India</div>
-                        <div class="fs12 mb10">
-                            Phone</div>
-                            </div>
-                        <div class="fs12 mb10">
-                            <a href="#dialogchpwd" name="modal" onclick="clearChagepwd()">Change Password</a></div>
-                    
-                    
-                    <a href="#" name="modal" class="redSmlBtn mtb10 block">
-                        Edit Profile</a>
-                </div>
-                <div class="fl">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-                </div>
-            </div>
-        </div>
-        <!-- User Profile edit modal window -->
-        <div id="dialogedit" class="window">
-            <div class="modaltop">
-                <div class="modalhelpicon fl">
-                    <span class="icons-modals icon-userprofile"></span>
-                </div>
-                <div class="modaldata fl">
-                    <div id="Div3">
-                        <div class="modalheader">
-                            Edit Profile</div>                        
-                    </div>
-                      <div class="fs12 mb10">
-                      ...
-                      </div>
-                      
-                    <input type="image" name="ctl00$ibtneditprofile" id="ibtneditprofile" title="Edit Profile" class="redSmlBtn mb10" src="" alt="Submite">
-                </div>
-                <div class="fl">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-                </div>
-            </div>
-        </div>
-        <!-- User Profile change pwd window -->
-        <div id="dialogchpwd" class="window">
-            <div class="modaltop">
-                <div class="modalhelpicon fl">
-                    <span class="icons-modals icon-userprofile"></span>
-                </div>
-               <div class="modaldata fl">   
-                 <div id="upchangepwd">
-	
-                    <div id="pledite">
-		
-                        <div class="modalheader">Change Password</div>
-                        <div>                          
-                            <input name="ctl00$oldpassw" type="hidden" id="oldpassw">                       
-                            <label class="w120 inline" for="txtoldpassword">Old Password</label>
-                            <input name="ctl00$txtoldpassword" type="password" maxlength="50" id="txtoldpassword" oncopy="return false" onpaste="return false" oncut="return false" class="form-fields1">
-                            
-                        </div>
-                        <div>                        
-                            <label class="w120 inline" for="txtnewpassword">New Password</label> 
-                            <input name="ctl00$txtnewpassword" type="password" maxlength="50" id="txtnewpassword" onkeypress="javascript:noSpCharandspace();" oncopy="return false" onpaste="return false" oncut="return false" class="form-fields1">
-                            
-                            
-                        </div>
-                        <div>                     
-                            <label class="w120 inline" for="txtreconfirmpassword">Confirm password</label>
-                            <input name="ctl00$txtreconfirmpassword" type="password" maxlength="50" id="txtreconfirmpassword" onkeypress="javascript:noSpCharandspace();" oncopy="return false" onpaste="return false" oncut="return false" class="form-fields1">
-                            
-                            
-                        </div>
-                        <div class="mtb15"><input type="submit" name="ctl00$ibtnchpwd" value="Change Password" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibtnchpwd&quot;, &quot;&quot;, true, &quot;passchange&quot;, &quot;&quot;, false, false))" id="ibtnchpwd" title="Submit" class="redSmlBtn mb10">
-                        
-                        </div>
-                 
-	</div>
-                 
-</div>
-              </div>
-                <div class="fl">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-                </div>
-            </div>
         </div>
         <!-- error modal -->
-        <div id="dialog7" class="window">
-            <div class="modaltop">
-                <div class="modalhelpicon fl">
+        <div id="errorModalPopUp" class="window">
+            <div class="modalHeader">
+                Whoops!
+                <div class="fr">
+                    <a class="modalcloseimg" href="javascript:void(0)" onclick="closePopUp()"></a>
                 </div>
-                <div class="modaldata fl">
-                    <div id="errorHd" class="modalHeader">Error</div>
-                    <div id="errormsg" class="fs12 mb10">Error Msg</div>
-                    <a href="javascript:void(0)" onclick="closePopUp()" class="redSmlBtn mb10">Ok</a>
+            </div>
+            <div class="modalDivider">
+            </div>
+            <div class="modalContent">
+                <div class="lh25" id="errormsg">
                 </div>
-                <div class="fl">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-                </div>
+            </div>
+            <div class="modalDivider">
+            </div>
+            <div class="modalContent">
+                <a class="redSmlBtn mb10 fr" href="javascript:void(0)" onclick="closePopUp()">Ok</a>
             </div>
         </div>
         <!-- email success modal -->
-        <div id="successModal" class="window">
-            <div class="modaltop">
-                <div class="modalhelpicon fl">
-                </div>
-                <div class="modaldata fl">
-                    <div id="successhd" class="modalheader">Success</div>
-                    <div id="sucessmsg" class="fs14 mb10"></div>
-                    <div style="height:30px; padding:10px 0">
-                    <a href="#dialog" name="modal" class="redSmlBtn mr10">Go to Login</a>
-                    <a href="javascript:void(0)" onclick="closePopUp()" class="redSmlBtn">Continue Browsing</a>
-                    </div>
-                </div>
-                <div class="fl">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-                </div>
-            </div>
-        </div>
-        <!-- fbconnect modal -->
-        <div id="dialog9" class="window">
-            <div class="modaltop">
-                <div class="modalhelpicon fl">
-                </div>
-                <div class="modaldata fl">
-                    <div id="Div4" class="modalheader">
-                        Error in Connecting FaceBook
-                    </div>
-                    <input type="image" name="ctl00$ImageButton3" id="ImageButton3" title="Ok" class="redSmlBtn mb10" src="" alt="Ok" onclick="closePopUp();">
-                </div>
-                <div class="fl">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-                </div>
-            </div>
-        </div>
-        <!--fbconnect modal close-->
-        <!-- Player Profile Modal Window -->
-        <div id="playerInfo" class="plwindow window">
-            <div class="pltop">
-                <div class="modalhelpicon fl">
-                    <span class="icons-modals icon-playerprofile"></span>
-                </div>
-                <div class="modalheader fl">
-                    Tour Performance</div>
+        <div id="successModalPopUp" class="window">
+            <div class="modalHeader">
+                Great Job!
                 <div class="fr">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
+                    <a class="modalcloseimg" href="javascript:void(0)" onclick="closePopUp()"></a>
                 </div>
             </div>
-            <div class="detailsContainer clearfix">
-                <div class="playerImg fl">
-                    <img src="" width="66px" height="92px" alt="Player Image"></div>
-                <div class="playerDetails fl">
-                    <div class="fs14 bold">
-                        Jacques Kallis</div>
-                    <div class="fs11 mt5">
-                        South Africa, Banglore Royal Challengers</div>
-                    <div class="fs11 mt5">
-                        All Rounder, Right-armed Fast-medium</div>
-                    <div class="mt15">
-                        <div class="fs12 fl">
-                            <span class="bold">Price:</span>9 CR <span class="rankNutral"></span>
-                        </div>
-                        <div class="fs12 fr">
-                            <span class="bold">Next Match:</span>IND vs RSA</div>
-                    </div>
-                    <div class="clearfix">
-                    </div>
-                    <div class="mt5">
-                        <div class="fs12 fl">
-                            <span class="bold">Selected By:</span>7.61%</div>
-                        <div class="fs12 fr">
-                            <span class="bold">Status:</span>Fit and Available</div>
-                    </div>
+            <div class="modalDivider">
+            </div>
+            <div class="modalContent">
+                <div class="lh25" id="sucessmsg">
                 </div>
             </div>
-            <div class="clearfix">
+            <div class="modalDivider">
             </div>
-            <div class="plRounds">
-                <table border="2px" cellpadding="0" cellspacing="0" width="100%">
-                    <tbody><tr class="roundHD">
-                        <th colspan="2">
-                            Rounds
-                        </th>
-                        <th colspan="4">
-                            Batting
-                        </th>
-                        <th colspan="4">
-                            Bowling
-                        </th>
-                        <th colspan="3">
-                            Fielding
-                        </th>
-                        <th colspan="3">
-                            Points
-                        </th>
-                    </tr>
-                    <tr class="roundList">
-                        <td>
-                            Price
-                        </td>
-                        <td>
-                            Select%
-                        </td>
-                        <td>
-                            Runs
-                        </td>
-                        <td>
-                            4's
-                        </td>
-                        <td>
-                            6's
-                        </td>
-                        <td>
-                            SR
-                        </td>
-                        <td>
-                            Overs
-                        </td>
-                        <td>
-                            M
-                        </td>
-                        <td>
-                            Econ
-                        </td>
-                        <td>
-                            Wkts
-                        </td>
-                        <td>
-                            Ct
-                        </td>
-                        <td>
-                            RO
-                        </td>
-                        <td>
-                            St
-                        </td>
-                        <td>
-                            MOM
-                        </td>
-                        <td>
-                            Bonus
-                        </td>
-                        <td>
-                            Total
-                        </td>
-                    </tr>
-                    <tr class="roundList">
-                        <td>
-                            Price
-                        </td>
-                        <td>
-                            Select%
-                        </td>
-                        <td>
-                            Runs
-                        </td>
-                        <td>
-                            4's
-                        </td>
-                        <td>
-                            6's
-                        </td>
-                        <td>
-                            SR
-                        </td>
-                        <td>
-                            Overs
-                        </td>
-                        <td>
-                            M
-                        </td>
-                        <td>
-                            Econ
-                        </td>
-                        <td>
-                            Wkts
-                        </td>
-                        <td>
-                            Ct
-                        </td>
-                        <td>
-                            RO
-                        </td>
-                        <td>
-                            St
-                        </td>
-                        <td>
-                            MOM
-                        </td>
-                        <td>
-                            Bonus
-                        </td>
-                        <td>
-                            Total
-                        </td>
-                    </tr>
-                </tbody></table>
+            <div class="modalContent">
+                <a class="redSmlBtn mb10 fr" href="javascript:void(0)" onclick="closePopUp()">Ok</a>
             </div>
         </div>
-        <!-- Create Team Name Modal Window -->
-        <div id="dialog11" class="window">
-            <div class="modaltop">
-                <div class="modalhelpicon fl">
-                    <span class="icons-modals icon-teamname"></span>
-                </div>
-                <div class="modaldata fl">
-                    <div class="modalheader">
-                        Enter you Team Name?</div>
-                    <input name="ctl00$teamname" type="text" id="teamname" maxlength="75" value="team name" class="form-fields" onblur="checkteamfb(this.value)">
-                    <label class="valid pl15" id="fbavailt" style="display: none;">
-                        Available</label>
-                    <label class="invalid1 pl15" id="fbnotavailt" style="display: none;">
-                        Not Available</label>
-                    <a href="javascript:void(0)" class="redSmlBtn mb10" id="teamname_submit">
-                        Submit</a>
-                    
-                </div>
-                <div class="fl">
-                    <a class="modalcloseimg m10" href="javascript:void(0)"></a>
-                </div>
-            </div>
+        <!-- Player Profile Modal Window...Loads through AJAX -->
+        <div id="playerInfo" class="plwindow window">
         </div>
         
-
         <!-- Do not remove div#mask, because you'll need it to fill the whole screen -->
         <div id="mask">
         </div>
-        <input type="hidden" name="ctl00$hdntourid" id="hdntourid">
-        <input type="hidden" name="ctl00$hdnactround" id="hdnactround">
-        <input type="hidden" name="ctl00$hdnsiteid" id="hdnsiteid" value="0">
-        <input type="hidden" name="ctl00$hdnsiteName" id="hdnsiteName" value="Dream11">
     </div>
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        try {
-            var pageTracker = _gat._getTracker("UA-7674646-1");
-            pageTracker._trackPageview();
-        } catch (err) { } </script>
-    
+    <div class="chatbox callbutton t4 fr">
+            <div class="my-chat-header graywidth">
+                <div class="fl greetingmsg">
+                    <div class="fl callicon" style="width:20px; height:23px;" align="center"></div>
+                    <div class="fr livechattext">
+                        Call</div>
 
-<script type="text/javascript">
-//<![CDATA[
-welcome();//]]>
-</script>
-</form>
+                </div>
+                <div class="fr">
+                   
+
+                    <a class="minN" href="javascript:void(0);" onclick="callDetail()">
+                        <img src="https://fantasycricket.dream11.com/fcimages/minimizeLC.png">
+                    </a>
+                </div>
+            </div>
+            <div class="chatwindow p19">
+               
+               <div id="callDiv1" style="display:none;">
+              <span class="fs13">Please enter your mobile number:</span> <br><br>
+               +91 <input class="form-fields" maxlength="10" style="width:156px; font-size:16px;" type="text" id="txtCallNo"><br><br>
+               <div class="fr lcRedButton" style="width:45px; height:18px; line-height:18px;" id="btnCallNoSubmit">Submit</div>
+               </div>
+
+
+              <div id="callDiv2" align="center" style="display:none;">
+               <span class="fs13"><b>Choose Language:</b></span><br><br>
+               
+               <div class="fl lcGreenButton" style="width:45px; height:18px; line-height:18px;" id="btnCallLangEng">ENGLISH</div>
+                <div class="fr lcGreenButton" style="width:45px; height:18px; line-height:18px;" id="btnCallLangHindi">HINDI</div>
+               </div>
+
+             <div id="callDiv3" align="center" style="display:none;"><br><br>
+               <span class="fs16">THANK YOU</span>
+               <br><br></div>
+               <br>
+            <div class="clearfix"></div>
+            </div>
+        </div>
+    
+    <div id="loadMask">
+    </div>
+    <div id="showLoader">
+    </div>
+    <input type="hidden" name="ctl00$hdnFirstLogin" id="hdnFirstLogin" value="0">
+    <input type="hidden" name="ctl00$hdntourid" id="hdntourid">
+    <input type="hidden" name="ctl00$hdnactround" id="hdnactround">
+    <input type="hidden" name="ctl00$hdnsiteid" id="hdnsiteid" value="0">
+    <input type="hidden" name="ctl00$hdnsiteName" id="hdnsiteName" value="Dream11">
+    <input type="hidden" name="ctl00$hdntourname" id="hdntourname"><input type="hidden" name="ctl00$hdnFshare" id="hdnFshare" value="0">
+    <input type="hidden" name="ctl00$hdnFbId" id="hdnFbId">
+    </form>
 
 
 </body></html>
