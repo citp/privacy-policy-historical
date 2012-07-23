@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs-salary.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504050832id_/http%3A//www.jobs-salary.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-salary.com privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723150736id_/http%3A//www.jobs-salary.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Jobs-Salary.com
 
