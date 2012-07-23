@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622150714id_/http%3A//www.scouting.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723130453id_/http%3A//www.scouting.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ The Boy Scouts of America is committed to respecting and protecting the personal
 
 The information that follows explains the kinds of information the BSA Web site collects, how it is used, and the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children's Online Privacy Protection Act. The Children's Online Privacy Protection Act (COPPA) protects the personal information of children under the age of 13.
 
-**NOTE:** This privacy policy applies to **Scouting.org** and to **ScoutNET.Scouting.org** , Official sites of the **Boy Scouts of America**. This privacy policy does not apply to any particular council's or unit's Web site, as their content is not controlled by the National Council of the Boy Scouts of America. Please contact the administrator or Webmaster of any council, unit, or other Scouting-oriented Web site for information about their privacy policies and the information they collect about their site visitors. 
+ **NOTE:** This privacy policy applies to **Scouting.org** and to **ScoutNET.Scouting.org** , Official sites of the **Boy Scouts of America**. This privacy policy does not apply to any particular council's or unit's Web site, as their content is not controlled by the National Council of the Boy Scouts of America. Please contact the administrator or Webmaster of any council, unit, or other Scouting-oriented Web site for information about their privacy policies and the information they collect about their site visitors. 
 
   
 
