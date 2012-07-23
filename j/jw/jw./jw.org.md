@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jw.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607214933id_/http%3A//www.jw.org/index.html%3Foption%3DYRTNYCsVtNPL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jw.org privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723211420id_/http%3A//www.jw.org/index.html%3Foption%3DYRTNYCsVtNPL) for the most accurate reproduction.*
 
 # jw.org :: Privacy Policy
 
@@ -16,7 +16,7 @@ Cookies are used to remember preferences that are chosen by the user when using 
 
 ### Active Scripting or JavaScript
 
-Scripting is used by jw.org to improve the functionality of the Web site. Using scripting technology allows jw.org to more quickly return information to the user. Scripting is never used by jw.org to install software on the user’s computer or to collect unauthorized information from the user. 
+Scripting is used by jw.org to improve the functionality of the Web site. Using scripting technology allows jw.org to return information more quickly to the user. Scripting is never used by jw.org to install software on the user’s computer or to collect unauthorized information from the user. 
 
 Active scripting or JavaScript must be enabled in the browser for some portions of jw.org to work correctly. Most Web browsers allow this feature to be enabled or disabled for specific Web sites. Consult the Web browser help documentation to learn how to enable scripting for selected Web sites. 
 
