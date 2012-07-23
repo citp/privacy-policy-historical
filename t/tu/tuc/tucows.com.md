@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucows.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524042440id_/http%3A//tucowsinc.com/privacy.php%3Fhp%3DA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucows.com privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723214938id_/http%3A//tucowsinc.com/privacy.php%3Fhp%3DA) for the most accurate reproduction.*
 
 # Tucows Inc. » Privacy Policy
 
