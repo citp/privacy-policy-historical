@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the century21grand.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524204257id_/http%3A//century21grand.com/popup/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century21grand.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724115701id_/http%3A//century21grand.com/popup/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -40,7 +40,7 @@ We work with many publishers and their agents to provide you with access to the 
 In any case, we will not be liable for any damages that may result from the use or misuse of your personal information by third parties from which you purchase items through the Services or by third parties with whom we have marketing and other partnerships.
 
 **4\. How to Stop Sharing of Information**  
-You can let us know that you do not wish to receive information about new features and special offers by sending an e-mail to [privacy@century21grand.com](mailto:privacy@century21grand.com?subject=Privacy%20Policy). You can also "opt-out" of having your information shared by sending and email to [privacy@century21grand.com](mailto:privacy@century21grand.com?subject=Privacy%20Policy). Please note that you will not be able to opt out of Century21Grand.com sharing certain of your personal information with a third party from whom you choose to purchase items through this Site. To cancel your Century21Grand.com account, you will need to contact info@century21grand.com.
+You can let us know that you do not wish to receive information about new features and special offers by sending an e-mail to [privacy@grandrealestateservices.com](mailto:privacy@grandrealestateservices.com?subject=Privacy%20Policy). You can also "opt-out" of having your information shared by sending and email to [privacy@grandrealestateservices.com](mailto:privacy@grandrealestateservices.com?subject=Privacy%20Policy). Please note that you will not be able to opt out of Century21Grand.com sharing certain of your personal information with a third party from whom you choose to purchase items through this Site. To cancel your Century21Grand.com account, you will need to contact info@grandrealestateservices.com.
 
 **5\. Security and Passwords**  
 The personally identifiable information we collect about you is stored in limited access servers. Century21Grand.com intends to take reasonable and appropriate steps to protect such information from unauthorized access or disclosure. While we make efforts to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk.
@@ -65,4 +65,4 @@ Cookies are pieces of information that your browser receives from web sites and 
 This Site is not intended for or directed to persons under the age of 18. Century21Grand.com does not sell products for purchase by children. Any person who provides their information to Century21Grand.com through the registration page for new users or any other part of the Site represents to Century21Grand.com that they are 18 years of age or older.
 
 **9\. Contacting Century21Grand.com**  
-Our goal is to respect your privacy. If you have any questions, comments or concerns about our Privacy Policy, you may contact [privacy@century21grand.com](mailto:privacy@century21grand.com?subject=Privacy%20Policy). Century21Grand.com welcomes your comments and questions.
+Our goal is to respect your privacy. If you have any questions, comments or concerns about our Privacy Policy, you may contact [privacy@grandrealestateservices.com](mailto:privacy@grandrealestateservices.com?subject=Privacy%20Policy). Century21Grand.com welcomes your comments and questions.
