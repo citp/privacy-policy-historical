@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the heroup.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512041220id_/https%3A//www.heroup.com/legal-docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroup.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724020649id_/https%3A//www.heroup.com/legal-docs/privacy-policy) for the most accurate reproduction.*
 
 # Super Hero Squad Online | Privacy Policy | HeroUp.com
 
  
 
-### Effective as of: May 4, 2012
+### Effective as of: May 22, 2012
 
 [ ](http://www.esrb.org/confirm/gazillion-confirmation.jsp)
 
 Welcome to the Gazillion Privacy Policy. Privacy is very important to us, and it should be to you too. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while on Gazillion Sites.  
 This Privacy Policy and the certification seal shown on this page confirm that our Site submits to the terms of ESRB’s Privacy Online Program. ESRB’s Privacy Online Program is designed to ensure that a website’s information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established information collection and use practices. As part of this privacy policy, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by ESRB.  
-This Privacy Policy applies to all websites associated with the Gazillion name, including but not limited to: [http://www.gazillion.com](http://www.gazillion.com/), [http://www.marvelheroesonline.com](http://www.marvelheroesonline.com/), [http://www.HeroUp.com](http://www.heroup.com/) and [http://www.amazingsociety.com](http://www.amazingsociety.com/).  
+This Privacy Policy applies to all websites associated with the Gazillion name, including but not limited to: [http://www.gazillion.com](http://www.gazillion.com/), [http://www.marvelheroes.com](http://www.marvelheroes.com/), [http://www.HeroUp.com](http://www.heroup.com/) and [http://www.amazingsociety.com](http://www.amazingsociety.com/).  
 
 
 ### Table of Contents
@@ -46,7 +46,7 @@ First, we need to define a few terms so that you can better understand this Priv
 "Open Beta Test" — The time when any part of the System or any Gazillion Game is open for testing by the public but not deemed operational by Gazillion.  
 "Parent" — This also includes legal guardians, whether or not a Minor lives with them.  
 "Personally Identifiable Information" or "PII" — This is information that can be traced directly back to and identifies an individual. PII includes: first and last names, e-mail addresses, home addresses, telephone numbers, and Instant Messaging (IM) screen names when associated with a particular messaging service (e.g., AIM).  
-"Site" or "Sites" — Refers to the Gazillion site ([http://www.gazillion.com](http://www.gazillion.com/)), and the Gazillion studio or Game sites, including, but not limited to [http://www.marvelheroesonline.com](http://www.marvelheroesonline.com/), [http://www.HeroUp.com](http://www.heroup.com/) and [http://www.amazingsociety.com](http://www.amazingsociety.com/).  
+"Site" or "Sites" — Refers to the Gazillion site ([http://www.gazillion.com](http://www.gazillion.com/)), and the Gazillion studio or Game sites, including, but not limited to [http://www.marvelheroes.com](http://www.marvelheroes.com/), [http://www.HeroUp.com](http://www.heroup.com/) and [http://www.amazingsociety.com](http://www.amazingsociety.com/).  
 "System" — Refers to the websites, social networking features, and all interactive features, forums, chat rooms and services associated with Gazillion and Gazillion Games.  
 "Teen" or "Teens" — A person or persons between the ages of 13 – 17; inclusive.  
 Back to Top
@@ -150,7 +150,7 @@ Back to Top
 ### 11\. Updates & Effective Date
 
 From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our Site. We will also notify all subscribers via an e-mail to the e-mail address we have on file when there has been a material change to this Privacy Policy. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.  
-The Privacy Policy posted on this Site was updated on or about May 4, 2012.  
+The Privacy Policy posted on this Site was updated on or about May 22, 2012.  
 Back to Top  
 
 
