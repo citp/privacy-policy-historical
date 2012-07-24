@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcmallsbn.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504040822id_/http%3A//www.pcmallsbn.com/n/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmallsbn.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724042130id_/http%3A//www.pcmallsbn.com/n/privacypolicy) for the most accurate reproduction.*
 
 # Small Business Network - Privacy Policy
 
