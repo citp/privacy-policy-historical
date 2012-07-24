@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iframeengine.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524172806id_/http%3A//hubze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iframeengine.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724040516id_/http%3A//hubze.com/privacy) for the most accurate reproduction.*
 
 # Hubze.com Privacy Policy
 
