@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129184820id_/https%3A//svpply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724155838id_/https%3A//svpply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Svpply
 
@@ -22,7 +22,7 @@ We may share or disclose information about you to other companies or individuals
 
 ## What information can I access?
 
-You can access your personal information on our Web site and correct, amend or delete information that is inaccurate. Upon logging in visit your user profile setting page located at: <http://www.svpply.com/settings/>. Upon request, we are happy to provide access to any site behaviour data that we have collected about you. All requests for such data will be fulfilled within a 14-day period.
+You can access your personal information on our Web site and correct, amend or delete information that is inaccurate. Upon logging in visit your user profile setting page located at: <https://svpply.com/settings/>. Upon request, we are happy to provide access to any site behaviour data that we have collected about you. All requests for such data will be fulfilled within a 14-day period.
 
 ## Communications with Members
 
