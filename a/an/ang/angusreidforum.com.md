@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angusreidforum.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127044724id_/https%3A//www.angusreidforum.com/Portal/det-PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angusreidforum.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724082231id_/https%3A//www.angusreidforum.com/Portal/det-PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Angus Reid Forum
 
