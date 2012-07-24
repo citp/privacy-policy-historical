@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ojqj.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523152655id_/http%3A//www.ojqj.com/%3Fpage_id%3D1641) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojqj.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724040011id_/http%3A//www.ojqj.com/%3Fpage_id%3D1641) for the most accurate reproduction.*
 
 # Home Improvement and Living Tips » Privacy Policy
 
@@ -21,3 +21,9 @@ Personal information we collect is stored electronically. When you enter persona
 Although we have taken technical, administrative and physical measures to protect your information from loss, misuse, or alteration by third parties, there is always some risk involved in transmitting information over the Internet. We take strides to protect all our information, but no protection regime is perfect, and information may be lost or stolen in extreme circumstances. You can always contact us in order to correct your personal information in our systems, update any other information that you have provided to us, or to request that promotional materials not be sent to you.
 
 HSS may change this Privacy Statement at any time by posting revisions to our Site. Your use of the Site constitutes acceptance of the provisions of this Privacy Statement and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Statement. If you do not agree to the terms of this Privacy Statement or any revised policy, please exit the Site immediately.
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
