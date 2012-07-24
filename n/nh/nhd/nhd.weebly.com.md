@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhd.weebly.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507195040id_/http%3A//nhd.weebly.com/nhd-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhd.weebly.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724115228id_/http%3A//nhd.weebly.com/nhd-privacy.php) for the most accurate reproduction.*
 
 # Weebly - Create a free website and a free blog
 
