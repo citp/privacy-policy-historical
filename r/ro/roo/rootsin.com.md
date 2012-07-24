@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootsin.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603052304id_/http%3A//www.rootsin.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootsin.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724065244id_/http%3A//www.rootsin.com/privacypolicy) for the most accurate reproduction.*
 
 # RootsIn - Privacy Policy
 
