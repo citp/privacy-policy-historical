@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the svpply.com privacy policy that was archived on 2012-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120129184820id_/https%3A//svpply.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the svpply.com privacy policy that was archived on 2012-07-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120724155838id_/https%3A//svpply.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# svpply-com: http://ogp.me/ns/fb/svpply-com#">
   <meta charset="UTF-8">
@@ -7,91 +7,63 @@
   <meta name="title" content="Privacy Policy">
   <meta name="description" content="Svpply helps you find the products you love, from the people and stores you find interesting.">
   <meta name="keywords" content="Svpply,retail bookmarking,recommendations,shopping,books,apparel,tech,home,shoes,wishlists">
+  
+  <link rel="search" href="https://svpply.com/opensearch.xml?v=2" type="application/opensearchdescription+xml" title="Content Search">
+  <link rel="apple-touch-icon-precomposed" href="/assets/image/apple-touch-icon-precomposed.png">
+  <link rel="image_src" href="https://svpply.com/assets/image/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+  
   <!-- FBOpenGraph -->
+    <meta name="twitter:card" content="summary">
   <meta property="og:title" content="Privacy Policy">
-  <meta property="og:url" content="http://svpply.com/privacy">
-  <meta property="og:image" content="http://svpply.com/assets/image/svpply_icon_large.jpg">
+  <meta property="og:url" content="https://svpply.com/privacy">
+  <meta property="og:image" content="https://svpply.com/assets/image/svpply_icon_large.jpg">
   <meta property="og:site_name" content="Svpply">
   <meta property="fb:app_id" content="152232204795626">
   <meta property="og:description" content="Svpply helps you find the products you love, from the people and stores you find interesting.">
   <!-- /FBOpenGraph -->
-  <link rel="stylesheet" type="text/css" href="/assets/min/g=base_css&amp;1327555247">
 
-        <!--[if lt ie 9]>
-    <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
-    <link href="/assets/css/ie.css" rel="stylesheet" type="text/css">
-  <![endif]-->
-  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
-  var DOMAIN      = "svpply.com",
+  <link rel="stylesheet" type="text/css" href="/assets/css/base.css?d127a005b318def85e1e1ea2bfb01830">      <!--[if lt ie 9]>
+    <script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/css/ie_lt_9.css?98796c78a3625e011d4c7073f5b4a64a">  <![endif]-->
+  <!--[if ie]>
+    <link rel="stylesheet" type="text/css" href="/assets/css/ie.css?fb1f66766378f465a9214c66a8839714">  <![endif]-->
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+  
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">  var DOMAIN      = "svpply.com",
+      FULL_DOMAIN = "svpply.com",
+      SVPPLY_HTTP_REDIRECT = window.location.href.replace(/https/, "http"),
             ENVIRONMENT = 4,DEVELOPMENT=1,TESTING=2,STAGING=3,PRODUCTION=4,
-      page_date   = new Date(1327862900),
-      api_token   = "1327862900:b97cad70a9b565eb916b4da0f3fa887c",
-      is_mobile   = 0;
+      page_date   = new Date(1343145518),
+      page_type   = false,
+      access_token= "",
+      is_mobile_or_tablet = 0,
+      is_iphone_3_or_4 = 0,
+      UNDEFINED = 'undefined';
 
-var contest_running = false;
+// ==============
+// = DICTIONARY =
+// ==============
+var ACTIVE = 'active',
+  DISABLED = 'disabled',
+  // .noscroll is to (optionally) prevent grabs getting injected with autoscrollers or filters
+  GRABS = 'grabs:not(.noscroll)',
+  ALLGRABS = 'grabs',
+  POST = 'post',
+  // per: http://stackoverflow.com/questions/2653963/why-doesnt-javascript-function-aliasing-work
+  log = (ENVIRONMENT === DEVELOPMENT && navigator.appVersion.indexOf("MSIE") == -1) ? function(){ console.log.apply(console, arguments); } : function(){};
+
+
+var scope = window;
+scope.page_action = []
 </script>
-  <script type="text/javascript" src="/assets/min/g=header_js&amp;1327555247"></script>
-  <script type="text/javascript" src="/assets/min/g=base_js&amp;1327555247"></script>
-  <script type="text/javascript">
-    var page_entity = {"id":-1,"username":false},
-        hover_entity = null,
-        current_user = new User({"id":-1,"username":false}),
-        $db;
+<script type="text/javascript">current_user = {"type":"User","id":-1,"username":false};page_controller = "static_page_controller";page_method = "privacy";</script>
+<script type="text/javascript" src="/assets/js/curl.js?v1.0.0-2984-ga91ba8c"></script>
+<script type="text/javascript" src="/assets/js/application_built.js?v1.0.0-2984-ga91ba8c"></script>
 
-    // Init add permission to the current_user
-    current_user._can.create_sets = 0;
-    current_user._can.make_sets_private = 0;
-
-    
-    $(function(){
-      // Init the $db library
-      $db.init({
-        caches: new DataStore({
-          name: current_user.id+'::caches',
-          engine: $.memstorage
-        }),
-        updates: new DataStore({
-          name: current_user.id + '::updates'
-        }),
-        Edison: new MultiStore({
-          svpply: DataStore.svpply(),
-          facebook: DataStore.facebook(),
-          twitter: DataStore.twitter()
-        })
-      });
-
-      $('[data-class]').live("mouseenter mouseleave", function(e){
-        if(e.type == "mouseenter"){
-          if(hover_entity = Model.factory($(this))){
-            var siteEvent = jQuery.Event("onHoverIn." + hover_entity.type);
-            siteEvent.mouseEvent = e;
-          }
-          $(document.body).trigger(siteEvent);
-        } else {
-          if(hover_entity){
-            $(document.body).trigger("onHoverOut." + hover_entity.type);
-          }
-        }
-      });
-
-      // launch giftfinder modal
-      $('#launch_giftfinder').click(function(){
-        modal.giftfinder({});
-        return false;
-      });
-
-      // launch user reports on the page
-      $('a.user_report').click(function(){
-        modal.user_report({});
-        return false;
-      });
-    });
-  </script>
-    <link rel="apple-touch-icon-precomposed" href="/assets/image/apple-touch-icon-precomposed.png">
-  <link rel="image_src" href="http://svpply.com/assets/image/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="/favicon.ico">
-        <!-- Quantcast Tag, part 1 -->
-  <script type="text/javascript">
+        <script type="text/javascript">
+    /* Quantcast Tag, part 1 */
     var _qevents = _qevents || [];
     (function() {
      var elem = document.createElement('script');
@@ -101,68 +73,72 @@ var contest_running = false;
      var scpt = document.getElementsByTagName('script')[0];
      scpt.parentNode.insertBefore(elem, scpt);
     })();
-  </script>
-  <script type="text/javascript">
-    $.template('Product_stream','<div class="model product stream">   <div style="height:${constrain(width, height, 450)[1]}px;" class="product model" data-action="show_metabar" data-id="${id}">   <a href="${url}" alt="${page_title}" title="${page_title} - ${store.domain}">    <img class="product_image" data-original="${$data.img("medium")}" src="/assets/image/1x1_white.gif" title="${page_title}" style="width:${constrain(width, height, 450)[0]}px; height:${constrain(width, height, 450)[1]}px;">   </a>  </div> </div> ');
-$.template('Product_small',' <li class="grab small" data-class="Product" data-id="${id}" data-datestamp="${date_created}" id="grab_${id}" style="width:${constrain(width, height, 195)[0]}px;">  <a href="${url}" alt="${page_title}" title="${page_title} - ${store.domain}" onclick="return outbound( ${id} );" class="grab_image" >   <span class="grab_title hidden">${page_title}</span>   <img src="${$data.img("small")}" width="${width}" height="${height}" id="img_${id}" data-ratio="${ratio}" style="width:${constrain(width, height, 195)[0]}px; height:${constrain(width, height, 195)[1]}px;" title="${page_title}" />  </a>  </li> ');
-$.template('Product_smaller','  <li class="grab smaller" data-class="Product" data-id="${id}" data-datestamp="${date_created}" id="grab_${id}" style="width:${constrain(width, height, 130)[0]}px;">  <a href="${url}" alt="${page_title}" title="${page_title} - ${store.domain}" onclick="return outbound( ${id} );" class="grab_image" >   <span class="grab_title hidden">${page_title}</span>   <img src="${$data.img("small")}" width="${width}" height="${height}" id="img_${id}" data-ratio="${ratio}" style="width:${constrain(width, height, 130)[0]}px; height:${constrain(width, height, 130)[1]}px;" title="${page_title}" />  </a>  </li> ');
-$.template('Product_metabar','<ul class="metaline hidden" id="meta_${id}">  <li class="trigger_frame">   <a href="/grab/toggle/${id}" class="save_trigger ajax" data-grab-id= "${id}">Building</a>  </li>  <li class="title_frame">   <strong class="price">${$data.formatted_price()}</strong>   <span class="info">{{html store_link}}, <a href="/item/${id}/${page_title_for_url}" class="product">${page_title}</a></span></li>  <li class="title_frame">     <span class="share"><strong><a href="#">Share</a></strong></span>   <span class="buy"><strong><a href="${page_url}" class="buy_trigger" data-product-id="${id}" target="_blank">Buy</a></strong></span>     <span class="added">Added by <a href="/item/${id}/${page_title_for_url}#savers">${saves} ${members}</a></span>  </li>  <li data-id="${id}"class="title_frame metabar_share " style="display: none;">   <ul>    <li class="short_url">     <div style="display: none;" id="copy_${id}" class="copytext">${get_shorty($item.data.id)}</div>     <span>Short URL</span>    </li>    <li class="svpply" data-product="${id}" data-username="">Svpply</li>    <li class="twitter">Twitter</li>    <li class="facebook">Facebook</li>    <li class="tumblr" data-title="%24%7Bpage_title%7D">Tumblr</li>    <li class="email" data-user="-1">Email</li>   </ul>  </li> </ul> ');
-$.template('Product_new_small','  <div class="model product new_small" data-action="show_metabar" data-id="${id}">   <a href="${url}" alt="${page_title}" title="${page_title} - ${store.domain}">    <img data-original="${$data.img("small")}" title="${page_title}" style="width:${constrain(width, height, 195)[0]}px; height:${constrain(width, height, 195)[1]}px;"/>   </a>  </div> ');
-$.template('Product_avatar_80',' <div class="model product avatar_80">   <a href="${url}" alt="${page_title}" title="${page_title} - ${store.domain}">    <img src="${$data.img("small")}" title="${page_title}" style="${get_cover_style_cropped(80, 80, width, height)}"/>   </a>  </div> ');
-$.template('Product_link','<span class="model product link">  <a href="${url}" alt="${page_title}" title="${page_title} - ${store.domain}">${page_title}</a> </span> ');
-$.template('Set_embedded','<span class="model set embedded"><a href="${url}">${title}</a></span> ');
-$.template('Set_embedded_group',' <div class="model set_item embedded_group">   <div class="avatar">    <a href="${url}">     {{html render_html($item.data, "avatar", true)}}    </a>   </div>   <div class="text">{{html render_html($item.data, "embedded", true)}}</div>   <div style="clear:both"></div>  </div> ');
-$.template('Set_link',' <span class="model set link"><a href="${url}">${title}</a></span> ');
-$.template('Set_stream',' <div class="model set stream length${items.length}">   <div class="subject">    {{if (items.length==1) }}     {{html render_html(items[0].product, "stream", true)}}    {{else}}     {{html render_html(items, "set_embed", true)}}    {{/if}}   </div>   <div class="enactor">    <div class="avatar">{{html render_html($item.data.items[0].user, "avatar", true)}}</div>    <div class="text">     <a class="username" href="/${items[0].user.username}">${items[0].user.display_name}</a> added ${items.length} product{{if items.length!=1 }}s{{/if}} to:     {{html render_html($item.data, "embedded_group", true)}}    </div>    <div style="clear: both;"></div>   </div>  </div> ');
-$.template('Set_medium','<div class="model set medium ${tag_classes} ${more_classes}" data-class="Set" data-id="${id}" data-has-masthead="1">  <a class="preview" href="${url}">   <div class="container">    {{html render_html($item.data, preview_type, true)}}  </div>  </a>  <div class="info">   <ul>    <li>     <p>               {{if is_wishlist }}      <span class="set_mark wishlist" data-action="to_user_sets" data-user="${creator_id}" data-tooltip="View all Wish Lists from this member"></span>      {{/if}}                 <a href="${url}" class="username">${title}</a> (${products_count})</p></li>      </ul>  </div> </div> ');
-$.template('Set_preview_masthead','<img class="theme" src="${preview_image}" /> ');
-$.template('Set_preview_product','<div class="theme" data-id="${representative_item_id}">   <img src="${preview_image}" style="${get_cover_style_cropped(195, 195, representative_item_width, representative_item_height)}" /> </div> ');
-$.template('Set_preview_empty',' <img class="theme" src="/assets/image/empty_set.png" /> ');
-$.template('Set_preview_masthead_40','<img class="theme" src="${preview_image}" /> ');
-$.template('Set_preview_product_40','<div class="theme" data-id="${representative_item_id}">   <img src="${preview_image}" style="${get_cover_style_cropped(40, 40, representative_item_width, representative_item_height)}" /> </div> ');
-$.template('Set_preview_empty_40',' <img class="theme" src="/assets/image/empty_set.png" /> ');
-$.template('Set_avatar','<div class="model set avatar">  {{html render_html($item.data, preview_type + "_40", true)}}</div> ');
-$.template('Set_preview_masthead_80','<img class="theme" src="${preview_image}" /> ');
-$.template('Set_preview_product_80','<div class="theme" data-id="${representative_item_id}">   <img src="${preview_image}" style="${get_cover_style_cropped(195, 195, representative_item_width, representative_item_height)}" /> </div> ');
-$.template('Set_preview_empty_80',' <img class="theme" src="/assets/image/empty_set.png" /> ');
-$.template('Set_avatar_80','<div class="model set avatar_80"> <a href="${url}">   {{html render_html($item.data, preview_type + "_80", true)}} </a> </div> ');
-$.template('Set_wishlist_ranking','<div class="model set wishlist_rank {{if (rank % 2) }}even{{else}}odd{{/if}} rank${rank}">   <div class="ribbon"></div>  <div class="rank">${rank}</div>  <div class="preview">   <a href="${url}">    {{html render_html($item.data, preview_type + "_80", true)}}  </a>   <a href="/${creator.username}"><img class="avatar" src="${creator.profile_image_small_url}"></a>  </div>  <div class="votes">   <div class="count">${votes}</div>   <h4>Votes</h4>  </div>  <div class="titles">   <h2><a href="${url}" class="set">${title}</a></h2>   <h3>by <a href="/${creator.username}">${creator.display_name}</a></h3>  </div> </div> ');
-$.template('Set_Item_embedded',' <div class="model set_item embedded">   <div class="enactor">    <div class="avatar">{{html render_html(parent_item.enactor, "avatar", true)}}</div>    <div class="text">{{html render_html(parent_item.enactor, "embedded", true)}} added this to:     {{html render_html(parent_item, "embedded_group", true)}}    </div>    <div style="clear: both;"></div>   </div>  </div> ');
-$.template('Set_Item_embedded_group',' {{html render_html(parent_item.subject, "embedded_group", true)}} ');
-$.template('Set_Item_set_embed',' <div class="model set_item set_embed">   {{html render_html(product, "new_small", true)}}  </div> ');
-$.template('Set_Item_stream',' <div class="model set_item stream">   <div class="subject">    {{html render_html(product, "stream", true)}}   </div>  </div> ');
-$.template('Set_Item_medium','<li class="grab small setProduct" id="grab_${product_id}" data-set-item="${id}" data-ordering="set_items_${id}" data-avgprice="${product.average_price}">  <a href="/item/${product.id}/${page_title_for_url}" title="${product.page_title}">   <img src="${$data.product.img("small")}" />  </a>  </li> ');
-$.template('Follow_embedded','<div class="model follow {{if embed_parent.result && embed_parent.result.type == "Product"}}store{{else}}${subject.type.toLowerCase()}{{/if}} embedded">  <div class="enactor">   {{if subject.type === "User"}}    <div class="avatar">{{html render_html(subject, "avatar", true)}}</div>    <div class="text">{{html render_html(subject, "embedded", true)}}</div>    <div style="clear:both;"></div>   {{else}}   <div class="avatar">{{html render_html(enactor, "avatar", true)}}</div>   <div class="text">    {{if embed_parent.result && embed_parent.result.type == "Product"}}     {{html render_html(enactor, "embedded", true)}} added this to {{html render_html(embed_parent.subject, "embedded", true)}}    {{else}}     {{html render_html(enactor, "embedded", true)}} wants this    {{/if}}   </div>   <div style="clear: both;"></div>   {{/if}}  </div> </div> ');
-$.template('Follow_embedded_group',' <div class="model follow embedded_group">   <div class="avatar">{{html render_html(subject, "avatar", true)}}</div>   <div class="text">{{html render_html(subject, "embedded", true)}}</div>   <div style="clear:both"></div>  </div> ');
-$.template('Follow_stream','<div class="model follow ${subject.type.toLowerCase()} stream"> {{if subject.type === "Product"}}  <div class="subject">   {{html render_html(Model.factory(subject), "stream", true)}}  </div> {{else}}  <div class="avatar enactor">{{html render_html(enactor, "avatar_80", true)}}</div>  {{if parent_item && (parent_item && typeof parent_item.embedded == "undefined") && (subject.type != "Store" || subject.avatar)}}  <div class="avatar subject">{{html render_html(subject, "avatar_80", true)}}</div>  {{/if}}  <div class="text">  {{html render_html(enactor, "embedded", true)}} followed  {{if parent_item && parent_item.embedded && parent_item.embedded.length > 1}}  {{html generate_follow_sentence(parent_item.embedded)}} <br>  {{else}}   <br> {{html render_html(subject, "embedded", true)}}  {{/if}}  </div>  <div style="clear: both;"></div> {{/if}} </div> ');
-$.template('Purchase_embedded','<div class="model purchase ${subject.type.toLowerCase()} embedded">  <div class="enactor">   {{if subject.type === "User"}}    <div class="avatar">{{html render_html(subject, "avatar", true)}}</div>    <div class="text">{{html render_html(subject, "embedded", true)}}</div>    <div style="clear:both;"></div>   {{else}}   <div class="avatar">{{html render_html(enactor, "avatar", true)}}</div>   <div class="text">{{html render_html(enactor, "embedded", true)}} owns this</div>   <div style="clear: both;"></div>   {{/if}}  </div> </div> ');
-$.template('Purchase_stream','<div class="model purchase stream"> {{if subject.type === "Product"}}  <div class="subject">   {{html render_html(Model.factory(subject), "stream", true)}}  </div> {{/if}} </div> ');
-$.template('User_embedded',' <span class="embedded user">   {{html link_to($item.data, true)}}  </span> ');
-$.template('User_avatar',' <span class="avatar user">   <a href="/${username}"><img src="${profile_image_small_url}"></a>  </span> ');
-$.template('User_avatar_80',' <span class="model user avatar_80">   <a href="/${username}"><img src="${profile_image_url}"></a>  </span> ');
-$.template('Store_embedded','<span class="model store embedded">  {{html link_to($item.data, true)}} </span> ');
-$.template('Store_add_embedded',' <div class="model store product embedded">   <div class="enactor">    <div class="message">Added to {{html render_html($item.data, "embedded", true)}}</div>   </div>  </div> ');
-$.template('Store_avatar',' <span class="model store avatar">   <a href="/store/${domain}"><img src="{{if $item.data.avatar}}${$item.data.avatar}{{else}}http://svpply.com/assets/image/portraits/_placeholder.png{{/if}}"></a>  </span> ');
-$.template('Store_avatar_80',' <span class="model store avatar_80">   <a href="/store/${domain}"><img src="{{if $item.data.avatar}}${$item.data.avatar}{{else}}http://svpply.com/assets/image/portraits/_placeholder.png{{/if}}"></a>  </span> ');
-$.template('Search_embedded',' <div class="model search embedded">   <div class="text">    <span class="term">Added to {{html link_to($item.data, true)}}</span>   </div>  <div> ');
-$.template('Search_stream','<div class="model search stream">  <div class="subject">   {{html render_html(parent_item.subject, "stream", true)}}  </div>  <div style="clear: both;"></div> </div> ');
-$.template('Comment_stream','<div class="model comment stream">  <div class="avatar enactor">{{html render_html(user, "avatar_80", true)}}</div>  <div class="avatar subject">{{html render_html(Model.factory(entity), "avatar_80", true)}}</div>  <div class="text">   <span class="info"><a class="username" href="/${user.username}">${user.display_name}</a> commented on {{html render_html(Model.factory(entity), "link", true)}}:<br></span>   <span class="content">{{html $item.data.parsed_contents}}</span>  </div>  <div style="clear:both"></div> </div> ');
-$.template('Set_User_embedded','<div class="model set_user embedded">  model set_user embedded </div> ');
-$.template('Set_User_stream','<div class="model set_user stream">  model set_user stream </div> ');
-$.template('Event_passthrough','{{if typeof embed_depth == "undefined"}}  {{if _render_type !== "embedded_group"}}  <div class="event ${result.type.toLowerCase()} {{if subject.type}}${subject.type.toLowerCase()}{{/if}}">   <div class="log">event ${result.type.toLowerCase()} {{if subject.type}}${subject.type.toLowerCase()}{{/if}}</div>  {{/if}}  {{html render_html(result, _render_type, true)}}  {{if embedded}}   <div class="embeds">    {{html render_embedded(embedded, $item.data)}}   </div>   {{if (result.subject && result.subject.type === "Product" && (result.subject.notes - embedded.length) > 0)}}    <div class="notes"><a href="${result.subject.url}#savers">${result.subject.notes - embedded.length} other note{{if ((result.subject.notes - embedded.length) > 1)}}s{{/if}}</a></div>   {{/if}}  {{else}}   {{if result.type == "Product"}}    <div class="embeds">     {{html render_html(subject, "add_embedded", true)}}    </div>   {{/if}}  {{/if}}  {{if _render_type !== "embedded_group"}}  </div>  {{/if}} {{else}}  {{if typeof embedded !== "undefined" && embedded.length > 1}}   {{html render_embedded_group(embedded, $item.data)}}  {{else}}   {{html render_html(result, _render_type, true)}}  {{/if}} {{/if}} ');
+
+    // Set GA Account
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-87163-29']);
+
+    // Set GA Session Level Custom Vars
+        
+    // Traks GA Page View
+    ga_track_page_view = function(){
+      // Set Page Level Custom Vars
+      if(typeof page_entity !== 'undefined' && page_entity.type){
+        _gaq.push(['_setCustomVar', 4, 'page_entity.type', page_entity.type, 3]);
+        if(page_entity.id >= 0){
+          _gaq.push(['_setCustomVar', 5, 'page_entity.id', (page_entity.id).toString(), 3]);
+        }
+      }
+      _gaq.push(['_setDomainName', '.svpply.com']);
+      _gaq.push(['_trackPageview']);
+    };
+
+    // Track GA PageView
+    ga_track_page_view();
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
   </script>
 </head>
-<body class=" logged_out">
-
+<body class=" logged_out  ">
+  <div class="navbar">
+  <div class="navbar-inner">
+    <div class="container">
+      <ul class="nav">
+              <li class="first"><a href="/shop">Shop</a></li>
+        <li><a href="/register">Register</a></li>
+              <li class="first">
+          <form action="/shop" class="search">
+            <div class="icon"></div>
+            <input type="text" name="search" placeholder="Search" value="" class="">
+          </form>
+        </li>
+      </ul>
+      <div class="pull-right">
+        <a class="brand" href="/"><div class="svpply-logo"></div></a>
+      </div>
+    </div>
+  </div>
+  
+    <div id="banner" class="logout">
+    <div class="message"><span class="bold">Svpply is a curated collection of the world’s best products and stores.</span></div>
+    <div class="options">
+      <div class="option"><a href="/register" class="btn">Join</a></div>
+      <div class="option"><a href="/login" class="btn italic">Login</a></div>
+    </div>
+  </div>
+  </div>
 <div id="content">
-
 <style type="text/css">
-        .left h1, .left h2, .left strong, .left h3 {font-weight:bold; }
+        .left h2, .left strong, .left h3 {font-weight:bold; }
 </style>
 
 <section class="left">
 
-	<h1>Privacy Policy</h1>
+	<header class="compact"><h1>Privacy Policy</h1></header>
      
      <h2>Purpose of this Privacy Policy</h2>
      
@@ -179,7 +155,7 @@ $.template('Event_passthrough','{{if typeof embed_depth == "undefined"}}  {{if _
      <p>We may share or disclose information about you to other companies or individuals when: (1) we must comply with applicable laws, regulations, or legal or regulatory process, (2) in the event of a sale, merger, transfer, or exchange of control of Svpply to another party.</p>
      
      <h2>What information can I access?</h2>
-     <p>You can access your personal information on our Web site and correct, amend or delete information that is inaccurate. Upon logging in visit your user profile setting page located at: <a href="http://www.svpply.com/settings/">http://www.svpply.com/settings/</a>. Upon request, we are happy to provide access to any site behaviour data that we have collected about you. All requests for such data will be fulfilled within a 14-day period.</p>
+     <p>You can access your personal information on our Web site and correct, amend or delete information that is inaccurate. Upon logging in visit your user profile setting page located at: <a href="https://svpply.com/settings/">https://svpply.com/settings/</a>. Upon request, we are happy to provide access to any site behaviour data that we have collected about you. All requests for such data will be fulfilled within a 14-day period.</p>
      
      <h2>Communications with Members</h2>
      <p>When you register with Svpply, you will be automatically opted-in to receive email and in-system notices, which may include announcements, newsletters and recommendations. You are welcome to elect out of receiving those messages at any time by clicking here.</p>
@@ -190,158 +166,27 @@ $.template('Event_passthrough','{{if typeof embed_depth == "undefined"}}  {{if _
      <h2>Removal of User and User data</h2>
      <p>We will not remove posts on a per-post basis save in the exception of Copyright protection or dispute, see our Terms of Service for more on our Copyright policies. If you would like your user profile removed from Svpply, contact us here. Your public profile and URL will be deleted within 72 hours. </p>
 
-</section><aside class="main">
-  
-<div id="logo"><a href="/">Svpply</a></div>
-<form action="/search/all/" method="post" id="search_form" class="">
-  <div class="click_area"></div>
-  <input type="text" name="keywords" placeholder="Find any kind of thing" value="">
-</form>
-
-    <nav id="registerplease">
-    <a href="/register" class="btn" style="margin:5px 0 -10px 0;">Register for an account</a>
-  </nav>
-  
-  <nav id="main">
-            <div id="filters">
-	<form action="/filter/set" method="post" id="filter_list" class="disabled">
-		<div>
-			<h3>Show only:</h3>
-	          <ul>
-				<li><input type="checkbox" name="filter[category][]" value="0" id="category_0"> <label class="" for="category_0">Apparel</label></li>
-				<li><input type="checkbox" name="filter[category][]" value="1" id="category_1"> <label class="" for="category_1">Accessories</label></li>
-				<li><input type="checkbox" name="filter[category][]" value="2" id="category_2"> <label class="" for="category_2">Shoes</label></li>
-				<li><input type="checkbox" name="filter[category][]" value="3" id="category_3"> <label class="" for="category_3">Tech</label></li>
-				<li><input type="checkbox" name="filter[category][]" value="4" id="category_4"> <label class="" for="category_4">Media</label></li>
-				<li><input type="checkbox" name="filter[category][]" value="5" id="category_5"> <label class="" for="category_5">Home</label></li>
-				<li><input type="checkbox" name="filter[category][]" value="7" id="category_7"> <label class="" for="category_7">Art</label></li>
-				<li><input type="checkbox" name="filter[category][]" value="6" id="category_6"> <label class="" for="category_6">Other</label></li>
-			</ul>
-	          <h3>Gender</h3>
-	          <ul>
-				<li><input type="checkbox" name="filter[gender][]" value="2" id="gender_2"> <label class="" for="gender_2">Neutral</label></li>
-				<li><input type="checkbox" name="filter[gender][]" value="0" id="gender_0"> <label class="" for="gender_0">Men’s</label></li>
-				<li><input type="checkbox" name="filter[gender][]" value="1" id="gender_1"> <label class="" for="gender_1">Women’s</label></li>
-			</ul>
-	          <h3>Price</h3>
-	          <ul>
-				<li><input type="checkbox" name="filter[price][]" value="0" id="price_0"> <label class="" for="price_0">$1-20</label></li>
-				<li><input type="checkbox" name="filter[price][]" value="1" id="price_1"> <label class="" for="price_1">$20-50</label></li>
-				<li><input type="checkbox" name="filter[price][]" value="2" id="price_2"> <label class="" for="price_2">$50-100</label></li>
-				<li><input type="checkbox" name="filter[price][]" value="3" id="price_3"> <label class="" for="price_3">$100-200</label></li>
-				<li><input type="checkbox" name="filter[price][]" value="4" id="price_4"> <label class="" for="price_4">$200-500</label></li>
-				<li><input type="checkbox" name="filter[price][]" value="5" id="price_5"> <label class="" for="price_5">$500-5000</label></li>
-				<li><input type="checkbox" name="filter[price][]" value="6" id="price_6"> <label class="" for="price_6">$5000+</label></li>
-			</ul>
-		</div>
-	</form>
-	<br style="clear:both;">
-</div>  </nav>
-
-  <nav id="personal">
-
-    <ul>
-            <li><a href="/login">Sign in</a></li>
-          </ul>
-
-    
-    <div class="rule">—</div>
-    
-    <ul>
-            <li><a href="/editors_pick">Editor’s Pick</a></li>
-            <li><a href="?launch_giftfinder">Find a Gift</a></li>
-            <li><a href="/gifts">Gift Guide</a></li>
-            <li><a href="/sets">Sets</a> </li>
-          </ul>
-
-    
-    <div class="rule">—</div>
-
-    <ul>
-      <li style="line-height:1.5em;">
-        <a href="/jobs" style="background-color:#fcf73a;">We’re Hiring</a>
-        <br>
-        iOS, Sr &amp; Jr Devs
-      </li>
-    </ul>
-
-    
-  </nav>
-
-</aside>
-
-<script type="text/javascript">
-  function unlogged_welcome() {
-    $.ajax( {
-      url : '/message/unlogged_welcome',
-      success : function(r) {
-        $('.left').prepend( r );
-        $('#unlogged_welcome').fadeIn( 200 );
-        $('.onionskin, #unlogged_welcome span').bind( 'click', function() {
-          $('.onionskin, #unlogged_welcome').fadeOut( 300, function() {
-            $('.onionskin, #unlogged_welcome').remove();
-            if( typeof window.history.pushState == 'function' )
-              history.replaceState( {}, '', document.location.toString().replace( '#welcome', '' ) );
-            else window.location.hash = '';
-          } );
-        } );
-      }
-    } );
-  }
-
-  $(document).ready( function() {
-    if( window.location.hash == '#welcome' ) {
-      unlogged_welcome();
-    }
-    $('.trigger_unlogged_welcome').bind( 'click', function() {
-      unlogged_welcome();
-    } );
-
-  } );
-</script>
+</section><div style="clear: both;"></div>
 </div>
 
+
 <footer>
-  <div> 
+  <div>
     <h2>About Svpply</h2>
     <h3>Svpply helps you find the products you love, from the people and stores you find interesting.</h3>
-    <ul class="social">
-      <li><a href="http://twitter.com/svpply" target="_blank" id="twitter_icon"><img src="/assets/image/social_icons/24_twitter_logo.png" alt="Twitter"></a></li>
-      <li><a href="https://www.facebook.com/svpply" target="_blank" id="facebook_icon"><img src="/assets/image/social_icons/24_facebook_logo.png" alt="Facebook"></a></li>
-    </ul>
-    <ul class="copyright">
-      <li><a href="/store_faq">For Stores</a></li>
-      <li><a href="/guidelines">Community</a></li>
+    <ul class="menu">
+              <li class="button"><a class="btn" href="https://svpply.com/register">Register for an account</a></li>
+            <li class="first"><a href="https://svpply.com/store_faq">For Stores</a></li>
+      <li><a href="https://svpply.com/guidelines">Community</a></li>
+      <li><a href="https://developer.svpply.com">Developers</a></li>
       <li><a href="http://svpply.tumblr.com" target="_blank">Blog</a></li>
-      <li><a href="/jobs">Jobs</a></li>
-      <li><a href="/about">About</a></li>
-      <li><a href="/privacy" style="color: #bfbfbf;">Privacy Policy</a></li>
-      <li><a href="/terms" style="color: #bfbfbf;">Terms</a></li>
-    </ul>
-    <ul class="buttons">
-              <li><a class="btn" href="/register">Register for an account</a></li>
-            <li><a class="btn" id="btn_feedback" href="http://spreadsheets.google.com/a/svpply.com/viewform?formkey=dFdaV0pBclJSaVBlSVhpR0QwYVhuaUE6MQ" target="_blank">Feedback</a></li>
+      <li><a href="https://svpply.com/about">About</a></li>
+      <li><a href="https://svpply.com/privacy" style="color: #bfbfbf;">Privacy Policy</a></li>
+      <li><a href="https://svpply.com/terms" style="color: #bfbfbf;">Terms</a></li>
+      <li class="social first"><a href="http://twitter.com/svpply" target="_blank" id="twitter_icon"><div class="twitter"></div></a></li>
+      <li class="social"><a href="https://www.facebook.com/svpply" target="_blank" id="facebook_icon"><div class="facebook"></div></a></li>
     </ul>
           <div id="facepile"><fb:facepile width="900" max_rows="1"></fb:facepile></div>
-      <div class="cols">
-        <div>
-          <h3>How do I get started?</h3>
-          <p>You’ll need to <a href="/register">register for an account</a>. Then, using our simple tools (like this thing: <span class="plus">+</span> ), start keeping track of the products you discover from within svpply.com or any other website.</p>
-        </div>
-        <div>
-          <h3>What’s with the “follow” buttons?</h3>
-          <p>Once you have <a href="/register">your own account</a>, your home page is filled with the products from all the people and stores you’re following. Like this <a href="/pieratt">guy</a>, or this <a href="/store/wintercheckfactory.com">store</a>.</p>
-        </div>
-        <div>
-          <h3>But how do I find people whose taste I like?</h3>
-          <p><a href="/register">Register for an account</a>, and we’ll start showing you your friends from Twitter and Facebook, as well as other people whose style we think you’ll appreciate.</p>
-        </div>
-
-        <div>
-          <h3>So… can I use this for my Christmas wishlist?</h3>
-          <p>Sure, if that’s your thing. Find and save the products you love, then send your profile URL to everyone looking to buy you something awesome.</p>
-        </div>
-      </div>
       </div>
   </footer>
 
@@ -349,27 +194,84 @@ $.template('Event_passthrough','{{if typeof embed_depth == "undefined"}}  {{if _
 <div id="fb-root"></div>
 
 
-    <script type="text/javascript" src="/assets/min/g=footer_js&amp;1327555247"></script>
-
-  <!-- Quantcast Tag, part 2 -->
+    <!-- Quantcast Tag, part 2 -->
   <script type="text/javascript">_qevents.push( { qacct:"p-7a0cDQwQHPLtM"} );</script>
-  <noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-7a0cDQwQHPLtM.gif" height="1" width="1" alt="Quantcast"/></div></noscript>  
-
-  <!-- Google Analytics, part 2-->
-  <script type="text/javascript">
-    try {
-      if(page_entity.type){
-        _gaq.push(['_setCustomVar', 4, 'page_entity.type', page_entity.type, 3]);
-        if(page_entity.id >= 0) _gaq.push(['_setCustomVar', 5, 'page_entity.id', page_entity.id, 3]);
-      }
-      } catch(err) {}
-  </script>
+  <noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-7a0cDQwQHPLtM.gif" height="1" width="1" alt="Quantcast"/></div></noscript>
+    <script type="text/javascript" src="/assets/js/services/facebook.js?v1.0.0-2984-ga91ba8c"></script>
   
-
 <!--[if lt IE 7 ]>
   <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
   <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
 <![endif]-->
+
+<!--[if lt ie 8]><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+<script>window.attachEvent("onload", function() { CFInstall.check({mode: "overlay" }); });</script><![endif]-->
+
+<script type="text/javascript">
+curl([
+  'jquery',
+  'plugins/jquery.tmpl.min'
+], function($){
+  $(function(){
+    // Built on Jul 23 18:29:39 UTC 2012 
+$.template('Product_stream','<div class="model product stream" data-action="show_product_actions" data-id="${id}">  {{if $item.data.discount }} <div class="model product discount" data-action="on_follow" data-id="${id}" data-class-on="follow grow">   <div class="sale">    <div class="text">     <h3>P.S.</h3>     <h3 class="hover">Want this product for a Private Sale</h3>    </div>    <div class="background"></div>   </div>   <div class="value">    <div class="text">     <h3>{{html Math.round($item.data.discount * 100)}}%</h3>    </div>    <div class="background"></div>   </div>  </div> {{/if}} <div class="image" data-action="product_preview" data-id="${id}" style="height:${constrain(width, height, 450)[1]}px;">   <a href="${url_to($item.data)}" alt="${page_title} - ${store.name}" title="${page_title} - ${store.name}">    <img class="product_image" data-original="${$data.img("medium")}" src="/assets/image/1x1_white.gif" alt="${page_title} - ${store.name}" style="width:${constrain(width, height, 450)[0]}px; height:${constrain(width, height, 450)[1]}px;">   </a>  </div>  <div class="model product meta" {{if $item.data.discount }}data-action="on_follow" data-id="${id}" data-class-on="follow"{{/if}}>  <div class="info " id="price_and_wants">     <div class="text">    <div class="title">${page_title}</div>    <div style="clear: both;"></div>    <div class="price">${$data.formatted_price(null,true)}</div>       {{if $item.data.discount }}    <div class="discount">&nbsp;${$data.formatted_price(null,true,true)}</div>    {{/if}}      <div class="wants">,&nbsp;${saves} ${pluralize(saves, "Want")}</div>    <div style="clear: both;"></div>   </div>  </div> </div> </div> ');
+$.template('Product_set_embed',' <div class="model set_item set_embed">   {{html render_html($item.data, "small", true)}}  </div> ');
+$.template('Product_set_add',' <div class="model set embedded_group">   <div class="enactor">    <div class="avatar">{{html render_html($item.data.parent_item.enactor, "avatar", true)}}</div>    <div class="text">{{html render_html($item.data.parent_item.enactor, "embedded", true)}} added this to {{html render_html($item.data.parent_item.subject, "embedded", true)}}</div>    <div style="clear:both"></div>   </div>  </div> ');
+$.template('Product_small','  <div class="model product small {{if $item.data.index % 4 === 3 }}last_of_the_row{{/if}}" data-action="show_product_actions" data-id="${id}">  {{if $item.data.discount }} <div class="model product discount" data-action="on_follow" data-id="${id}" data-class-on="follow grow">   <div class="sale">    <div class="text">     <h3>P.S.</h3>     <h3 class="hover">Want this product for a Private Sale</h3>    </div>    <div class="background"></div>   </div>   <div class="value">    <div class="text">     <h3>{{html Math.round($item.data.discount * 100)}}%</h3>    </div>    <div class="background"></div>   </div>  </div> {{/if}} <div class="image" data-action="product_preview" data-id="${id}">   <a href="${url_to($item.data)}" title="${page_title} - ${store.name}">    <img data-original="${$data.img("small")}" src="/assets/image/1x1_white.gif"alt="${page_title} - ${store.name}" width="${width}" height="${height}" id="img_${id}" data-ratio="${ratio}" style="width:${constrain(width, height, 195)[0]}px; height:${constrain(width, height, 195)[1]}px;" title="${page_title}" />   </a>  </div>  <div class="model product meta" {{if $item.data.discount }}data-action="on_follow" data-id="${id}" data-class-on="follow"{{/if}}>  <div class="info " id="price_and_wants">     <div class="text">    <div class="title">${page_title}</div>    <div style="clear: both;"></div>    <div class="price">${$data.formatted_price(null,true)}</div>       {{if $item.data.discount }}    <div class="discount">&nbsp;${$data.formatted_price(null,true,true)}</div>    {{/if}}      <div class="wants">,&nbsp;${saves} ${pluralize(saves, "Want")}</div>    <div style="clear: both;"></div>   </div>  </div> </div> </div> ');
+$.template('Product_smaller','   <div class="model product smaller {{if $item.data.index % 4 === 3 }}last_of_the_row{{/if}}" data-id="${id}">  {{if $item.data.discount }} <div class="model product discount" data-action="on_follow" data-id="${id}" data-class-on="follow grow">   <div class="sale">    <div class="text">     <h3>P.S.</h3>     <h3 class="hover">Want this product for a Private Sale</h3>    </div>    <div class="background"></div>   </div>   <div class="value">    <div class="text">     <h3>{{html Math.round($item.data.discount * 100)}}%</h3>    </div>    <div class="background"></div>   </div>  </div> {{/if}} <div class="image" data-action="product_preview" data-id="${id}">   <a href="${url_to($item.data)}" title="${page_title} - ${store.name}">    <img src="${$data.img("small")}"alt="${page_title} - ${store.name}" width="${width}" height="${height}" id="img_${id}" data-ratio="${ratio}" style="width:${constrain(width, height, 130)[0]}px; height:${constrain(width, height, 130)[1]}px;" title="${page_title}" />   </a>  </div>  </div> ');
+$.template('Product_avatar_80',' <div class="model product avatar_80" data-action="product_preview" data-id="${id}" >   <a href="${url_to($item.data)}" title="${page_title} - ${store.name}">    <img src="${$data.img("small")}" alt="${page_title} - ${store.name}" style="${get_cover_style_cropped(80, 80, width, height)}"/>   </a>  </div> ');
+$.template('Product_awarded','<div class="model product awarded {{if $item.data.index % 3 === 2 }}last_of_the_row{{/if}}" data-action="show_product_actions" data-id="${id}">  {{if $item.data.discount }} <div class="model product discount" data-action="on_follow" data-id="${id}" data-class-on="follow grow">   <div class="sale">    <div class="text">     <h3>P.S.</h3>     <h3 class="hover">Want this product for a Private Sale</h3>    </div>    <div class="background"></div>   </div>   <div class="value">    <div class="text">     <h3>{{html Math.round($item.data.discount * 100)}}%</h3>    </div>    <div class="background"></div>   </div>  </div> {{/if}} <div class="image" data-action="product_preview" data-id="${id}">   <a href="${url_to($item.data)}" title="${page_title} - ${store.name}">    <img src="${$data.img("medium")}" alt="${page_title}" width="${width}" height="${height}" id="img_${id}" data-ratio="${ratio}" style="width:${constrain(width, height, 266)[0]}px; height:${constrain(width, height, 266)[1]}px;" title="${page_title}" />   </a>  </div>  <div class="model product meta" {{if $item.data.discount }}data-action="on_follow" data-id="${id}" data-class-on="follow"{{/if}}>  <div class="info with_avatar" id="price_and_wants">      <div class="badge"><span><small>#</small>{{html $item.data.position + 1}}</span></div>     <div class="text">    <div class="title">${page_title}</div>    <div style="clear: both;"></div>    <div class="price">${$data.formatted_price(null,true)}</div>       {{if $item.data.discount }}    <div class="discount">&nbsp;${$data.formatted_price(null,true,true)}</div>    {{/if}}      <div class="wants">,&nbsp;${saves} ${pluralize(saves, "Want")}</div>    <div style="clear: both;"></div>   </div>  </div> </div> </div> ');
+$.template('Product_profile','<div class="model product profile" data-user-id="-1" data-username="" data-product-id="${id}">  <div class="price_container">   <span class="price status_${status_id} discounted" data-action="on_follow" data-id="${id}" data-class-on="follow">${$data.formatted_price()}</span>      {{if $item.data.status_id == 0 }}     <span class="status">(Currently unavailable)</span>    {{else $item.data.status_id == -2 }}     <span class="status soldout">Sold out!</span>    {{/if}}    </div>  <div class="share">   <a class="sv_button rounded tiny blue recommend" data-modal="svpply">Recommend</a>   <a href="#" class="share_icon_tiny right email_tiny" data-modal="email">Share via Email</a>   <a href="#" class="share_icon_tiny right pinterest_tiny" data-popup-url="http://pinterest.com/pin/create/button" data-share-params="url=&#123;{long_url}}&media=&#123;{image_url}}&description=&#123;{title}}">Share on Pinterest</a>   <a href="#" class="share_icon_tiny right tumblr_tiny" data-popup-url="http://www.tumblr.com/share/photo" data-share-params="source=&#123;{image_url}}&caption=Found%20on%20Svpply%20-%20&#123;{short_url}}&clickthru=&#123;{long_url}}">Share on Tumblr</a>   <a href="#" class="share_icon_tiny right twitter_tiny" data-popup-url="http://twitter.com/intent/tweet" data-share-params="text=Want%20%E2%80%93%20&#123;{short_url}}" data-modal="twitter">Share on Twitter</a>   <a href="#" class="share_icon_tiny right facebook_tiny" data-modal="facebook" data-popup-url="http://www.facebook.com/sharer.php" data-share-params="u=&#123;{short_url}}">Share on Facebook</a>  </div>  <div style="clear: both;"></div>    <div class="title">${page_title}</div>   <div class="store"><span class="label">from store:</span> <a href="${url_to($item.data)}" class="store">${store.name}</a></div>  <div class="menu">      <a class="sv_button rounded black status_${status_id}" href="${page_url}" data-action="product_buy" data-id="${id}">Buy</a>    <a class="sv_button rounded red processing no_text" data-type="Product" data-action="follow" data-id="${id}" data-label-on="Wanted" data-label-on-hover="No thanks" data-label-off="Want" data-class-on="completed"><span></span></a>    {{if current_user.logged_in }}     <a class="sv_button rounded grey set_add" data-product-id="${id}"><span>Collect</span></a>    {{/if}}    <a class="sv_button rounded grey processing no_text" data-type="Product" data-action="purchase" data-id="${id}" data-label-on="I own this" data-label-on-hover="Remove" data-label-off="I own this" data-class-on="completed"><span></span></a>    </div>    {{if current_user.logged_in }}    <a href="#" class="user_report">Report an issue</a>   {{/if}}  </div> ');
+$.template('Product_link','<span class="model product link">  <a href="${url_to($item.data)}" alt="${page_title} - ${store.name}" title="${page_title} - ${store.name}">${page_title}</a> </span> ');
+$.template('Product_growler','<ul class="model product growler" id="growler">  <li class="item_title" ><a href="${url_to($item.data)}" >${page_title}</a></li>  <li class="action" >has been added to your Svpply</li>  <li class="message" style="display:none;" >   <textarea id="share_message" >Want – ${get_shorty($item.data.id)}</textarea>   <div id="share_message_count" >999</div>  </li>  <li>   <ul>    <li class="btn twitter" id="growl_btn_twitter" data-complete-copy="Tweeted"></li>    <li class="btn facebook" id="growl_btn_facebook" data-complete-copy="Shared on Facebook"></li>    <li class="btn btn_cancel" id="growl_btn_cancel">or Cancel</li>   </ul>  </li> </ul> ');
+$.template('Product_breadcrumb','<div class="model product breadcrumb">  <ul>    {{each categories}}   <li class="{{if $index === categories.length - 1}}last{{/if}}"><a href=\'${$value.url.replace("api."+DOMAIN+"/v1\", DOMAIN).replace("shop/", "shop/categories/").replace(".json", "")}\' style="color: ${$value.text_color}; border-color: ${$value.border_color};">${$value.name}</a></li>   {{/each}}   </ul> </div> ');
+$.template('Product_store',' <div class="model product store {{if $item.data.index % 4 === 3 }}last_of_the_row{{/if}}" data-id="${id}">  {{if $item.data.discount }} <div class="model product discount" data-action="on_follow" data-id="${id}" data-class-on="follow grow">   <div class="sale">    <div class="text">     <h3>P.S.</h3>     <h3 class="hover">Want this product for a Private Sale</h3>    </div>    <div class="background"></div>   </div>   <div class="value">    <div class="text">     <h3>{{html Math.round($item.data.discount * 100)}}%</h3>    </div>    <div class="background"></div>   </div>  </div> {{/if}} <div class="image" data-action="product_preview" data-id="${id}">   <a href="${url_to($item.data)}" title="${page_title} - ${store.name}">    <img src="${$data.img("small")}"alt="${page_title} - ${store.name}" width="${width}" height="${height}" id="img_${id}" data-ratio="${ratio}" style="width:${constrain(width, height, 80)[0]}px; height:${constrain(width, height, 80)[1]}px;" title="${page_title}" />   </a>  </div>  </div> ');
+$.template('Collection_embedded','<span class="model set embedded"><a href="${url_to($item.data)}">${title}</a></span> ');
+$.template('Collection_embedded_group',' <div class="model set_item embedded_group">   <div class="avatar">    <a href="${url_to($item.data)}">     {{html render_html($item.data, "avatar", true)}}    </a>   </div>   <div class="text">{{html render_html($item.data, "embedded", true)}}</div>   <div style="clear:both"></div>  </div> ');
+$.template('Collection_link',' <span class="model set link"><a href="${url_to($item.data)}">${title}</a></span> ');
+$.template('Collection_stream',' <div class="model set stream">   <div class="subject">    {{if (items.length==1) }}     {{html render_html(items[0], "stream", true)}}    {{else}}     {{html render_html(items, "set_embed", true)}}    {{/if}}   </div>   <div class="enactor">    <div class="avatar">{{html render_html($item.data.enactor, "avatar", true)}}</div>    <div class="text">     <a class="username" href="/${enactor.display_name}">${enactor.display_name}</a> added ${items.length} product{{if items.length!=1 }}s{{/if}} to:     {{html render_html($item.data, "embedded_group", true)}}    </div>    <div style="clear: both;"></div>   </div>  </div> ');
+$.template('Collection_medium','<div class="model set medium ${tag_classes} ${more_classes} shim" data-class="Set" data-id="${id}" data-has-masthead="1">  <a class="preview" href="${url_to($item.data)}">   <div class="container">    {{html render_html($item.data, preview_type, true)}}  </div>  </a>  <div class="info">   <ul>    <li>     <p>          {{if is_wishlist }}      <span class="set_mark wishlist" data-action="to_user_sets" data-user="${creator_id}" data-tooltip="View all Wish Lists from this member"></span>      {{/if}}              {{if is_private}}       <span class="private_set"></span>      {{/if}}        <a href="${url_to($item.data)}" class="username">${title}</a> (${products_count})</p></li>      </ul>  </div> </div> ');
+$.template('Collection_preview_masthead','<img class="theme" src="${preview_image}" /> ');
+$.template('Collection_preview_product','<div class="theme" data-id="${representative_item_id}">   <img src="${preview_image}" style="${get_cover_style_cropped(195, 195, representative_item_width, representative_item_height)}" /> </div> ');
+$.template('Collection_preview_empty',' <img class="theme" src="/assets/image/empty_set.png" /> ');
+$.template('Collection_preview_masthead_40','<img class="theme" src="${preview_image}" /> ');
+$.template('Collection_preview_product_40','<div class="theme" data-id="${representative_item_id}">   <img src="${preview_image}" style="${get_cover_style_cropped(40, 40, representative_item_width, representative_item_height)}" /> </div> ');
+$.template('Collection_preview_empty_40',' <img class="theme" src="/assets/image/empty_set.png" /> ');
+$.template('Collection_avatar','<div class="model set avatar">  {{html render_html($item.data, preview_type + "_40", true)}}</div> ');
+$.template('Collection_preview_masthead_80','<img class="theme" src="${preview_image}" /> ');
+$.template('Collection_preview_product_80','<div class="theme" data-id="${representative_item_id}">   <img src="${preview_image}" style="${get_cover_style_cropped(195, 195, representative_item_width, representative_item_height)}" /> </div> ');
+$.template('Collection_preview_empty_80',' <img class="theme" src="/assets/image/empty_set.png" /> ');
+$.template('Collection_avatar_80','<div class="model set avatar_80"> <a href="${url_to($item.data)}">   {{html render_html($item.data, preview_type + "_80", true)}} </a> </div> ');
+$.template('Set_Item_embedded',' <div class="model set_item embedded">   <div class="enactor">    <div class="avatar">{{html render_html(parent_item.enactor, "avatar", true)}}</div>    <div class="text">{{html render_html(parent_item.enactor, "embedded", true)}} added this to:     {{html render_html(parent_item, "embedded_group", true)}}    </div>    <div style="clear: both;"></div>   </div>  </div> ');
+$.template('Set_Item_embedded_group',' {{html render_html(parent_item.subject, "embedded_group", true)}} ');
+$.template('Set_Item_set_embed',' <div class="model set_item set_embed">   {{html render_html(product, "small", true)}}  </div> ');
+$.template('Set_Item_stream',' <div class="model set_item stream">   <div class="subject">    {{html render_html(product, "stream", true)}}   </div>  </div> ');
+$.template('Set_Item_medium','<div class="model product small setProduct" id="grab_${product_id}" data-action="show_product_actions" data-id="${product_id}" data-set-item="${id}" data-ordering="set_items_${id}" data-avgprice="${product.average_price}">  {{if $item.data.discount }} <div class="model product discount" data-action="on_follow" data-id="${product.id}" data-class-on="follow grow">   <div class="sale">    <div class="text">     <h3>P.S.</h3>     <h3 class="hover">Want this product for a Private Sale</h3>    </div>    <div class="background"></div>   </div>   <div class="value">    <div class="text">     <h3>{{html Math.round($item.data.discount * 100)}}%</h3>    </div>    <div class="background"></div>   </div>  </div> {{/if}} <div class="image" data-action="product_preview" data-id="${product_id}">   <a href="/item/${product.id}/${page_title_for_url}" title="${product.page_title} - ${product.store.name}">    <img src="${$data.product.img("small")}" alt="${product.page_title} - ${product.store.name}"/>   </a>  </div>  <div class="model product meta" {{if $item.data.discount }}data-action="on_follow" data-id="${product.id}" data-class-on="follow"{{/if}}>  <div class="info " id="price_and_wants">     <div class="text">    <div class="title">${product.page_title}</div>    <div style="clear: both;"></div>    <div class="price">${$data.product.formatted_price(null,true)}</div>       {{if $item.data.discount }}    <div class="discount">&nbsp;${$data.product.formatted_price(null,true,true)}</div>    {{/if}}      <div class="wants">,&nbsp;${product.saves} ${pluralize(product.saves, "Want")}</div>    <div style="clear: both;"></div>   </div>  </div> </div> </div> ');
+$.template('Follow_embedded','<div class="model follow {{if embed_parent.result && embed_parent.result.type == "Product" && embed_parent.subject.type != "Collection"}}store{{else}}${subject.type.toLowerCase()}{{/if}} embedded">  <div class="enactor">   {{if subject.type === "User"}}    <div class="avatar">{{html render_html(subject, "avatar", true)}}</div>    <div class="text">{{html render_html(subject, "embedded", true)}}</div>    <div style="clear:both;"></div>   {{else}}   <div class="avatar">{{html render_html(enactor, "avatar", true)}}</div>   <div class="text">    {{html render_html(enactor, "embedded", true)}} wants this   </div>   <div style="clear: both;"></div>   {{/if}}  </div> </div> ');
+$.template('Follow_embedded_group',' <div class="model follow embedded_group">   <div class="avatar">{{html render_html(subject, "avatar", true)}}</div>   <div class="text">{{html render_html(subject, "embedded", true)}}</div>   <div style="clear:both"></div>  </div> ');
+$.template('Follow_stream','<div class="model follow ${subject.type.toLowerCase()} stream"> {{if subject.type === "Product"}}  <div class="subject">   {{html render_html(Model.factory(subject), "stream", true)}}  </div> {{else}}  <div class="avatar enactor">{{html render_html(enactor, "avatar_80", true)}}</div>  {{if parent_item && (parent_item && typeof parent_item.embedded == "undefined") && (subject.type != "Store" || subject.avatar)}}  <div class="avatar subject">{{html render_html(subject, "avatar_80", true)}}</div>  {{/if}}  <div class="text">  {{html render_html(enactor, "embedded", true)}} followed  {{if parent_item && parent_item.embedded && parent_item.embedded.length > 1}}  {{html generate_follow_sentence(parent_item.embedded)}} <br>  {{else}}   <br> {{html render_html(subject, "embedded", true)}}  {{/if}}  </div>  <div style="clear: both;"></div> {{/if}} </div> ');
+$.template('Purchase_embedded','<div class="model purchase ${subject.type.toLowerCase()} embedded">  <div class="enactor">   {{if subject.type === "User"}}    <div class="avatar">{{html render_html(subject, "avatar", true)}}</div>    <div class="text">{{html render_html(subject, "embedded", true)}}</div>    <div style="clear:both;"></div>   {{else}}   <div class="avatar">{{html render_html(enactor, "avatar", true)}}</div>   <div class="text">{{html render_html(enactor, "embedded", true)}} owns this</div>   <div style="clear: both;"></div>   {{/if}}  </div> </div> ');
+$.template('Purchase_stream','<div class="model purchase stream"> {{if subject.type === "Product"}}  <div class="subject">   {{html render_html(Model.factory(subject), "stream", true)}}  </div> {{/if}} </div> ');
+$.template('User_embedded',' <span class="embedded user">   {{html link_to($item.data, true)}}  </span> ');
+$.template('User_avatar',' <span class="avatar user">   <a href="/${username}"><img src="${avatar}"></a>  </span> ');
+$.template('User_avatar_80',' <span class="model user avatar_80">   <a href="/${username}"><img src="${avatar}"></a>  </span> ');
+$.template('User_summary_with_products',' <div class="model user summary_with_products">   <div class="info">    <img class="avatar" src="${avatar}" />    <div class="details">     <span class="name" style="font-weight: bold;">{{html link_to($item.data, true)}}</span>     <span class="followers_count">${users_followers_count} Followers</span>     <span class="product_following_count">${products_count} Products</span>    </div>    <div class="menu">          <a href="#" class="sv_button processing no_text" data-type="User" data-action="follow" data-id="${id}" data-label-on="Unfollow" data-label-off="Follow" data-class-on="completed"><span></span></a>        </div>   </div>   <div class="products">    {{html render_html($item.data.products, "smaller", true)}}   </div>  </div> ');
+$.template('Store_embedded','<span class="model store embedded">  {{html link_to($item.data, true)}} </span> ');
+$.template('Store_add_embedded',' <div class="model store product embedded">   <div class="enactor">    <div class="message">Added to {{html render_html($item.data, "embedded", true)}}</div>   </div>  </div> ');
+$.template('Store_summary_with_products',' <div class="model store summary_with_products">   <div class="info">    <div class="details">     <span class="name" style="font-weight: bold"><a href="${url_to($item.data)}" class="store">${name}</a></span>     <span class="followers_count">${users_followers_count} Followers</span>     <span class="product_following_count">${products_count} Products</span>    </div>    <div class="menu">          <a href="#" class="sv_button processing no_text" data-type="Store" data-action="follow" data-id="${id}" data-label-on="Unfollow" data-label-off="Follow" data-class-on="completed"><span></span></a>        </div>   </div>   {{if typeof $item.data.products !== "function" }}    <div class="products">{{html render_html($item.data.products, "smaller", true)}}</div>   {{else}}    <div class="products" data-type="Store" data-action="render_products" data-id="${id}"></div>   {{/if}}  </div> ');
+$.template('Store_avatar',' <span class="model store avatar">   <a href="${url_to($item.data)}"><img src="${avatar}"></a>  </span> ');
+$.template('Store_avatar_80',' <span class="model store avatar_80">   <a href="${url_to($item.data)}"><img src="${avatar}"></a>  </span> ');
+$.template('Search_embedded',' <div class="model search embedded">   <div class="text">    <span class="term">Added to {{html link_to($item.data, true)}}</span>   </div>  <div> ');
+$.template('Search_stream','<div class="model search stream">  <div class="subject">   {{html render_html(parent_item.subject, "stream", true)}}  </div>  <div style="clear: both;"></div> </div> ');
+$.template('Search_summary_with_products',' <div class="model search summary_with_products">   <div class="info">    <div class="details">     <span class="name">{{html link_to($item.data, true)}}</span>    </div>    <div class="menu">     <a href="#" class="sv_button red completed" data-type="Search" data-action="follow" data-id="${id}" data-label-on="Unfollow" data-label-off="Follow" data-class-on="completed">Unfollow</a>    </div>   </div>   <div class="products">    {{html render_html($item.data.products, "smaller", true)}}   </div>  </div> ');
+$.template('Comment_stream','<div class="model comment stream">  <div class="avatar enactor">{{html render_html(user, "avatar_80", true)}}</div>  <div class="avatar subject">{{html render_html(Model.factory(entity), "avatar_80", true)}}</div>  <div class="text">   <span class="info"><a class="username" href="/${user.username}">${user.display_name}</a> commented on {{html render_html(Model.factory(entity), "link", true)}}:<br></span>   <span class="content">{{html $item.data.parsed_contents}}</span>  </div>  <div style="clear:both"></div> </div> ');
+$.template('Recommendation_stream','<div class="recommendation model">  {{html render_html(Model.factory($item.data.entity), "stream", true)}}<br>  <span class="suggested_by">Suggested by <a href="${url_to($item.data)}" class="user">${enactor.display_name}</a></span><br>  <span class="note">{{if $item.data.message && $item.data.message.length}}“${$item.data.message}”{{/if}}</span> </div> ');
+$.template('Set_User_embedded','<div class="model set_user embedded">  model set_user embedded </div> ');
+$.template('Set_User_stream','<div class="model set_user stream">  model set_user stream </div> ');
+$.template('Store_Location_infowindow','<div class="model store_location infowindow">   <span class="model store avatar">   <a href="${url_to($item.data)}"><img src="${store.avatar}"></a>  </span>  <div class="content">   {{html link_to($item.data.store, true)}}    </div>  <div style="clear:both;"></div>  <div class="gallery"></div> </div> ');
+$.template('Event_passthrough','{{if typeof embed_depth == "undefined"}}  {{if _render_type !== "embedded_group"}}  <div class="event ${result.type.toLowerCase()} {{if subject.type}}${subject.type.toLowerCase()}{{/if}}">   <div class="log">event ${result.type.toLowerCase()} {{if subject.type}}${subject.type.toLowerCase()}{{/if}}</div>  {{/if}}  {{html render_html(result, _render_type, true)}}  {{if embedded}}   <div class="embeds">    {{html render_embedded(embedded, $item.data)}}   </div>  {{else}}   {{if result.type == "Product" && subject.type != "Collection"}}    <div class="embeds">     {{html render_html(subject, "add_embedded", true)}}    </div>   {{/if}}  {{/if}}  {{if _render_type !== "embedded_group"}}  </div>  {{/if}} {{else}}  {{if typeof embedded !== "undefined" && embedded.length > 1}}   {{html render_embedded_group(embedded, $item.data)}}  {{else}}   {{if result.type == "Product" && subject.type == "Collection"}}    {{html render_html(result, "set_add", true)}}   {{else}}    {{html render_html(result, _render_type, true)}}   {{/if}}  {{/if}} {{/if}} ');
+  });
+});</script>
 
 
 
