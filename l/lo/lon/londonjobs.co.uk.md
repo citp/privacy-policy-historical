@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621123646id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724100037id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
 
 # LondonJobs - Terms & Conditions - Privacy policy
 
@@ -16,7 +16,7 @@ In addition to personal information, we may collect information about you automa
 
 The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the site and geographical location.
 
-For detailed information about cookies and web beacons used on our site and how to opt out - please visit our [Cookies Use](https://web.archive.org/web/20120621123646id_/http%3A//cookies) page.
+For detailed information about cookies and web beacons used on our site and how to opt out - please visit our [Cookies Use](https://web.archive.org/web/20120724100037id_/http%3A//cookies) page.
 
 ## Use of Your Information
 
