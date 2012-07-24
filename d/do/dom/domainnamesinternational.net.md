@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainnamesinternational.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223202id_/http%3A//domainnamesinternational.net/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnamesinternational.net privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724085050id_/http%3A//domainnamesinternational.net/help/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
