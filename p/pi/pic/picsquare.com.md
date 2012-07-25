@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picsquare.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530074659id_/http%3A//www.picsquare.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsquare.com privacy policy that was archived on 2012-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120725192052id_/http%3A//picsquare.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Picsquare - Privacy Policy
 
