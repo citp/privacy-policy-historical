@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justprnews.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525084624id_/http%3A//www.justprnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justprnews.com privacy policy that was archived on 2012-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120725075358id_/http%3A//www.justprnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Just PR News
 
