@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the growershouse.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224053408id_/http%3A//www.growershouse.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growershouse.com privacy policy that was archived on 2012-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120726205413id_/https%3A//growershouse.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Growers House
+# Privacy Policy Growers House Discount Hydroponics Supplies
 
 **Privacy Policy**
 
