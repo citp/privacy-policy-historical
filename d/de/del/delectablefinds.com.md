@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delectablefinds.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630065123id_/http%3A//www.delectablefinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delectablefinds.com privacy policy that was archived on 2012-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120726053848id_/http%3A//www.delectablefinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy «
 
