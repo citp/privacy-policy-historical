@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526130245id_/http%3A//www.kathmandu.com.au/sc-privacy-statement-au/Information/2879) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2012-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120726173759id_/http%3A//www.kathmandu.com.au/sc-privacy-statement-au/Information/2879) for the most accurate reproduction.*
 
 # Summit Club Privacy Statement - Kathmandu Australia
 
