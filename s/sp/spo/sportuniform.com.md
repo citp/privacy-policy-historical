@@ -1,47 +1,65 @@
-> *The following text is extracted and transformed from the sportuniform.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311214326id_/http%3A//www.sportuniform.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportuniform.com privacy policy that was archived on 2012-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120727231659id_/http%3A//www.sportuniform.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SportUniform.com
 
- Thank you for accessing the wearform Website (“Site”) we respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
+Feel free to use this page for your own Privacy Policy page!
 
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
+[Ultimento.com](https://web.archive.org/) (hereafter referred to as Ultimento) has created this privacy policy to demonstrate our commitment to the privacy of the users of our website. Please read the following to learn more about our privacy policy, and how we treat the information collected from our visitors and users. 
 
-This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.
+## What this Privacy Policy Covers
 
-We are not responsible for the content or privacy practices on any web site not operated by wearform.com. to which the Site links or that links to the Site.
+  * This privacy policy covers Ultimento's treatment of personally identifiable information collected by Ultimento through a website owned and operated by Ultimento. 
+  * This privacy policy does not apply to the practices of companies that Ultimento does not own or control, or of persons that Ultimento does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which Ultimento websites link. 
 
- **INFORMATION COLLECTION AND USE**
 
- **1.          Information Collection.**
 
-We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
+## Collection and Use of Personal Information
 
-·         help make the Site easier for you to use by not having to enter information more than once.
+  * You can visit the websites of Ultimento without revealing any personal information. However, Ultimento needs certain personal information if you wish to purchase our products, services, register for an affiliate account, receive Ultimento newsletter, or use certain Ultimento services. 
+  * Where required, this information may include your personal contact information and/or your company contact information. Ultimento will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member's account, and to contact you regarding new products and services. 
+  * By accessing the services of Ultimento and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy. 
 
-·         help you quickly find information, products, and services.
 
-·         help us create content that is most relevant to you.
 
-·         alert you to new information, products, and services that we offer.
+## Collection and Use of Non-Personal Information
 
-(a) Registration and Ordering. Before using certain parts of any Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and the Sites, and for internal marketing purposes. If we encounter a problem when processing your order, your personal information may be used to contact you.
+  * Ultimento automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. Ultimento may use this information to customize the content you see and to fulfill your requests for certain products and services. However, Ultimento does not connect this non-personal data to any personal information collected from you. 
 
- (b) Cookies and Other Technology. Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or “action tags”) to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
 
-(c) Cookies are small pieces of information that are stored as text files by your Internet browser on your computer’s hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THE SITE’S COOKIES DO NOT AND CANNOT INFILTRATE A USER’S HARD DRIVE TO GATHER A USER’S CONFIDENTIAL INFORMATION. Our cookies are not “spyware.”
 
- (d) Log Files. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access the Site. We may also log your Internet protocol (“IP”) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+## Information Sharing and Disclosure
 
-(e) Age. We respect children’s privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on the Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
+  * Ultimento may disclose your personal information to third parties who work on behalf of Ultimento to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information 
+  * Ultimento may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose; 
+    * We need to respond to subpoenas, court orders or such other legal process; 
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of Ultimento; 
+    * We find that your actions on our websites violate the Ultimento Terms of Use document or any of our usage guidelines for specific products or services. 
 
- **2.          Information Use and Disclosure.**
 
-(a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve the Sites’ content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site. In order to facilitate such use and the other use described in this Section 2, we may share your information with affiliates under wearform.com.
 
-(b) Communications with You: We will use your personal information to communicate with you about the Site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.)
+## Consent 
 
-(c) External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under wearform.com, except that:
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Ultimento. If you have provided personal information to Ultimento and no longer consent to its use or disclosure as outlined herein, please [notify us](https://web.archive.org/contacts). 
 
- **UPDATES TO THIS POLICY**
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at (866) 789-9911
+
+## Security 
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your Ultimento information is protected for your privacy and security. In certain areas of our websites, as identified on the site, Ultimento uses industry-standard SSL-encryption to protect data transmissions. 
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures. 
+  * Further, Ultimento retains your personal information only as long as necessary to fulfill the purposes identified above or as required by law. 
+
+
+
+## Changes to this Privacy Policy
+
+  * Ultimento may at any time, without notice to you and at its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of Ultimento websites after any such amendments signifies your acceptance thereof. 
+
+
+
+## Questions or Suggestions 
+
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please [e-mail us](https://web.archive.org/contacts). 
+
+
