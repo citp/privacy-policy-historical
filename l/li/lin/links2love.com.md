@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the links2love.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605040513id_/http%3A//www.links2love.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the links2love.com privacy policy that was archived on 2012-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120728005105id_/http%3A//www.links2love.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Privacy is Completely Protected
 
@@ -16,4 +16,4 @@ We use third-party advertising companies to serve ads when you visit our Website
 
 Copyright Notice: NOTICE SPECIFIC TO SOFTWARE, INTERNET INTELLECTUAL PROPERTY AND AUTHORING CREATED ON THIS WEBSITE is the copyrighted work of SCOPELINK.COM WITHOUT LIMITING THE FOREGOING, COPYING OR REPRODUCTION OF THE SOFTWARE TO ANY OTHER SERVER OR LOCATION FOR FURTHER REPRODUCTION OR REDISTRIBUTION IS EXPRESSLY PROHIBITED.
 
-Copyright and Trademark �2002-2008 Scopelink, Inc., 3830 Valley Center Drive #705, San Diego, CA 92130. Any rights not expressly granted herein are reserved. No duplication is permitted of this site graphically or conceptually unless requested and approved in writing. Strategic Site Concept, Authoring and Design Supervision by Scopelink.com. All Rights Reserved Worldwide. 
+Copyright and Trademark ©2002-2008 Scopelink, Inc., 3830 Valley Center Drive #705, San Diego, CA 92130. Any rights not expressly granted herein are reserved. No duplication is permitted of this site graphically or conceptually unless requested and approved in writing. Strategic Site Concept, Authoring and Design Supervision by Scopelink.com. All Rights Reserved Worldwide. 
