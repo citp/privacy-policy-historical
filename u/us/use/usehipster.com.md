@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usehipster.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630022248id_/http%3A//www.hipster.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usehipster.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730005232id_/http%3A//www.hipster.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
