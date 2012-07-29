@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websimilar.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620020709id_/http%3A//websimilar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websimilar.org privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729182358id_/http%3A//websimilar.org/privacy-policy) for the most accurate reproduction.*
 
 # WebSimilar.org Privacy Policy
 
