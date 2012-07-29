@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconbux.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529050141id_/http%3A//iconbux.com%3Fi%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconbux.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729101649id_/http%3A//iconbux.com%3Fi%3Dprivacy) for the most accurate reproduction.*
 
 # IconBux › Privacy Policy
 
