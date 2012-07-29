@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertisepals.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530014945id_/http%3A//www.advertisepals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertisepals.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729194742id_/http%3A//www.advertisepals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Advertise Pals
 
