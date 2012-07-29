@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524084658id_/http%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729162121id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - The Company Corporation
 
-[ ](https://web.archive.org/)
-
-800.818.6082 
-
 Privacy Statement
 
-[$50,000 Corporate Veil Guarantee when you form your business with us. Click to learn more.](https://web.archive.org/web/20120524084658id_/http%3A//www.incorporate.com/cvg_50K_guarantee.html)
+[$50,000 Corporate Veil Guarantee when you form your business with us. Click to learn more.](https://web.archive.org/web/20120729162121id_/https%3A//www.incorporate.com/cvg_50K_guarantee.html)
 
 ## The Company Corporation Privacy Statement 
 
