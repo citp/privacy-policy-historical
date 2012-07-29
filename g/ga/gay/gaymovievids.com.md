@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaymovievids.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529214531id_/http%3A//www.gaymovievids.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaymovievids.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729224427id_/http%3A//www.gaymovievids.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at Gay Movie Tube
 
