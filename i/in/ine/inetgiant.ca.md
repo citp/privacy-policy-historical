@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetgiant.ca privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123005838id_/http%3A//www.inetgiant.ca/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.ca privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730002332id_/http%3A//www.inetgiant.ca/privacypolicy) for the most accurate reproduction.*
 
 # InetGiant Free Advertising - Privacy Policy
 
