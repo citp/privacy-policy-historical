@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmanaudio.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224102952id_/http%3A//www.harmanaudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmanaudio.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729183840id_/http%3A//www.harmanaudio.com/privacy) for the most accurate reproduction.*
 
 # HarmanAudio.com - Official Online Store of Harman Kardon, JBL, Infinity & AKG
 
@@ -119,4 +119,4 @@ Stamford, CT 06901, USA
 
 Please also visit our terms of use section that explains other terms governing the use of our websites. 
 
-© 2011 Harman International Industries, Incorporated. All rights reserved. 
+© 2012 Harman International Industries, Incorporated. All rights reserved. 
