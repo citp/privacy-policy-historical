@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625161157id_/http%3A//www.ratedpeople.com/jobform/overlay/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730023440id_/http%3A//www.ratedpeople.com/jobform/overlay/privacy-policy) for the most accurate reproduction.*
 
 # None
 
