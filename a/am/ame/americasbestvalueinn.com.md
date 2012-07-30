@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306225815id_/http%3A//www.americasbestvalueinn.com/pnp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730154157id_/http%3A//www.americasbestvalueinn.com/pnp.html) for the most accurate reproduction.*
 
 # Americas Best Value Inn Privacy Policy
 
