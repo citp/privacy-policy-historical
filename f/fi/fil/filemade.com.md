@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemade.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521133507id_/http%3A//filemade.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemade.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730082829id_/http%3A//filemade.com/privacy.html) for the most accurate reproduction.*
 
 # FileMade.com - Easy way to share your files
 
