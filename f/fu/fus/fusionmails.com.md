@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusionmails.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626074818id_/http%3A//www.fusionmails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionmails.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730061701id_/http%3A//www.fusionmails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # FusionMails
 
