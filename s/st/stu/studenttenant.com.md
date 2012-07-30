@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studenttenant.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530204103id_/http%3A//www.studenttenant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studenttenant.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730101544id_/http%3A//www.studenttenant.com/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to StudentTenant
 
