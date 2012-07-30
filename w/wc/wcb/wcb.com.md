@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcb.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510201609id_/https%3A//www.wcb.com/home/fiFiles/static/documents/2012-WCB_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcb.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730165111id_/https%3A//www.wcb.com/home/fiFiles/static/documents/2012-WCB_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
