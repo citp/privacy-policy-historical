@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513083852id_/https%3A//www.bongous.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730051658id_/https%3A//bongous.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Bongo International
 
