@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmark.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233035id_/http%3A//www.bestmark.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmark.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730225104id_/http%3A//www.bestmark.com/privacy.htm) for the most accurate reproduction.*
 
 # BestMark Privacy Policy
 
