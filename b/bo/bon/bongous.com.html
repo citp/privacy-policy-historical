@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bongous.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513083852id_/https%3A//www.bongous.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bongous.com privacy policy that was archived on 2012-07-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120730051658id_/https%3A//bongous.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -40,10 +40,11 @@ function doLogin(){
     }
 	var ipcli = ip_cliente;
     var pass = encodeBase64($('#clave').val());
+    var user = encodeBase64($("#usuario").val());
     $.ajax({
         type: 'POST',
         url: '/tools/clients_ajax_funcs.php',
-        data: {cmd: 'login', client:$("#usuario").val(), clave:pass , ipcli:ipcli, remen:remen},
+        data: {cmd: 'login', client:user, clave:pass , ipcli:ipcli, remen:remen},
         success: function (response){
             var str  = response;
             var datax = str.split("||");
@@ -176,7 +177,7 @@ function openTracking(){
                             <table>
                                 <tbody><tr>
                                     <td>
-                                        <span id="clock">May 13, 4:39 AM</span>
+                                        <span id="clock">Jul 30, 1:16 AM</span>
                                     </td>
                                     <td>
                                         |
@@ -187,12 +188,12 @@ function openTracking(){
                                     <td>
                                         |
                                     </td>
-                                    <td>
-                                        <a id="_lpChatBtn" href="http://v.velaro.com/visitor/requestchat.aspx?siteid=9558&amp;showwhen=inqueue" target="OnlineChatSoftware" onclick="this.newWindow = window.open('http://c.velaro.com/visitor/requestchat.aspx?siteid=9558&amp;showwhen=inqueue', 'OnlineChatSoftware', 'width=475,height=400,toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no');this.newWindow.focus();this.newWindow.opener=window;return false;">Live Chat</a>
+                                    <!--td>
+                                        <a id="_lpChatBtn" href="http://v.velaro.com/visitor/requestchat.aspx?siteid=9558&showwhen=inqueue" target="OnlineChatSoftware"  onclick="this.newWindow = window.open('http://c.velaro.com/visitor/requestchat.aspx?siteid=9558&showwhen=inqueue', 'OnlineChatSoftware', 'width=475,height=400,toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no');this.newWindow.focus();this.newWindow.opener=window;return false;" ></a>
                                     </td>
                                     <td>
                                         |
-                                    </td>
+                                    </td-->
                                     <td>
                                         <a href="https://bongous.com/about-bongo.php">About Us</a> &nbsp;&nbsp;
                                     </td>
@@ -263,9 +264,12 @@ function openTracking(){
                 <ul>                	
                     <li><a href="https://bongous.com/us-address.php">US Address</a></li>
                     <li><a href="https://bongous.com/eu-address.php">EU Address</a></li>
+                    <li><a href="https://bongous.com/insurance.php">Insurance</a></li>
                     <li><a href="https://bongous.com/package-forwarding.php">Package Forwarding</a></li>
-                    <li><a href="https://bongous.com/shipping-consolidation.php">Shipping Consolidation</a></li>
                     <li><a href="https://bongous.com/personal-shopping.php">Personal Shopping</a></li>
+                    <li><a href="https://bongous.com/repackaging.php">Repackaging</a></li>
+                    <li><a href="https://bongous.com/shipping-consolidation.php">Shipping Consolidation</a></li>
+                    <li><a href="http://eu.bongous.com">Shop EU</a></li>
                     <li><a href="https://bongous.com/tutorials.php">Video Tutorials</a></li>
                 </ul>
             </div>
@@ -427,7 +431,7 @@ function openTracking(){
         <h2 class="hours">
             3:30 AM - 11:00 PM EST Monday - Friday        </h2>
         <p class="hours">
-                Current Time at Bongo: May 13, 2012 4:39 AM        </p>
+                Current Time at Bongo: July 30, 2012 1:16 AM        </p>
     </div>
 </div>
 <!--End Industry Partners!-->
