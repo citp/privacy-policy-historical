@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cx.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504160821id_/https%3A//www.cx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cx.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730195122id_/https%3A//www.cx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
