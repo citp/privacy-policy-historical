@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rantsports.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520155636id_/http%3A//www.rantsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rantsports.com privacy policy that was archived on 2012-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120731171158id_/http%3A//www.rantsports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rant Sports : Rant Sports
 
