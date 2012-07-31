@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enquiro.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530235823id_/http%3A//www.enquiro.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enquiro.com privacy policy that was archived on 2012-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120731031112id_/http%3A//www.enquiro.com/privacy-policy.php) for the most accurate reproduction.*
 
 # B2B Search Engine Marketing | Research | SEO and PPC Management - Enquiro
 
