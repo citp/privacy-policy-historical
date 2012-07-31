@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rw-designer.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529012204id_/http%3A//www.rw-designer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rw-designer.com privacy policy that was archived on 2012-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120731092504id_/http%3A//www.rw-designer.com/privacy) for the most accurate reproduction.*
 
 # RealWorld Graphics privacy policy
 
