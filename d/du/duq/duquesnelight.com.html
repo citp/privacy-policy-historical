@@ -1,0 +1,609 @@
+<!--The following is the downloaded HTML source of the duquesnelight.com privacy policy that was archived on 2012-07-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120731063119id_/https%3A//www.duquesnelight.com/forOurCustomers/privacyPolicy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<link type="text/css" href="/css/DLC.css" rel="stylesheet">
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+
+<script type="text/javascript" src="/js/autoTab.js"></script>
+
+
+<link rel="stylesheet" href="/css/validationEngine.jquery.css" type="text/css">
+<script type="text/javascript" src="/js/jquery.validationEngine-en.js"></script>
+<script type="text/javascript" src="/js/jquery.validationEngine.js"></script>
+<script type="text/javascript" src="/js/jquery.simpletip-1.3.1.min.js"></script>
+
+<script>
+	$(document).ready(function () {
+		var thisTitle=$('h1#title').text();
+		if(thisTitle!='')
+		{	$(document).attr('title', thisTitle);	}
+	});
+</script>
+
+
+
+
+
+
+	
+	
+
+	<script type="text/javascript">
+<!--
+    _CF_checkloginForm = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+<title>Privacy Policy</title></head>
+
+
+	
+
+
+
+<body>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#headerSubmitBtn").hover(
+		function(){
+			$("#headerSubmitBtn").attr("src","/images/btn_login_hover.jpg");
+		},
+		function(){
+			$("#headerSubmitBtn").attr("src","/images/btn_login.jpg");
+		});
+		$("#headerInfoBox").hide();
+		$("#headerInfoText").hide();
+		$("#username").focus(function(){
+			$("#headerInfoBox").show();
+			$("#headerInfoText").show();
+		});
+		$("#headerInfoBox").click(function(){
+			$("#headerInfoBox").hide();
+			$("#headerInfoText").hide();
+		});
+	});
+	
+	function submitForm()
+	{
+		document.forms.loginForm.submit();
+	}
+</script>
+
+<style>
+/* HEADER BEGIN ----------------------------------------------------------------------*/
+#headerContainer {
+	height: 105px;
+	margin-left:auto;
+	margin-right:auto;
+	width: 960px;
+	font-size:11px;
+}
+
+#headerLeft {
+	float: left;
+	width: 310px;
+	/*height: 105px;*/
+}
+
+#headerLeft a { 
+	text-decoration:none;
+	margin:0; 
+	padding:0;
+}
+
+#headerMiddle {
+	float: left;
+	text-align:center;
+	/*height: 105px;*/
+	width: 320px;
+}
+
+#headerMiddle a{
+	font-size:11px;
+	font-weight:bold;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #b2130b;
+	text-decoration:none;
+}
+
+#headerMiddleImg{
+	width: 25px;
+	padding-top: 40px;	
+}
+
+#headerMiddleText{
+	width: 275px;
+	float: right;
+	text-align:left;
+	padding-top: 45px;
+}
+
+#headerMiddleAlert{
+	width: 275px;
+	float: right;
+	text-align:center;
+	padding-top: 30px;
+	padding-right: 25px;
+	color: red;
+	font-weight: bold;
+}
+
+#headerRight {
+	float: left;
+	width: 300px;
+	padding-top:5px;
+}
+
+#headerLogin {
+	float: right;
+	line-height: 1.8;
+	width: 100%;
+}
+
+#headerLogin a{
+	text-decoration:none;
+}
+
+#headerLabels{
+	float:left;
+	color:#999;
+	line-height: 2.4;
+}
+
+#headerFormFields{
+	line-height: normal;
+}
+
+#headerFormFields input{
+	border-top: 2px inset #CCC;	
+	border-bottom:1px inset #CCC;
+	color: #666;
+	width: 120px;
+	text-align:left;
+	height: 13px;
+	font-size:11px;
+	padding: 3px;
+}
+
+#headerUser{
+	line-height: 2.4;
+}
+
+#headerPass{
+	line-height: 2.4;
+}
+#headerPass a{ font-size:11px; }
+
+#headerButton{
+	float:right;
+}
+
+#headerWelcome, #headerViewing, #headerAccount{
+	line-height: 2.1;
+	width: 100%;
+	font-size:11px;
+}
+
+#headerLinks{
+	margin-top: 5px;
+	text-align: left;
+	width: 100%;
+}
+#headerLinks a{
+	font-size:11px;
+}
+
+#headerInfoBox {
+	width: 250px;
+	height: 85px;
+	background-image: url("/images/messageBox2.gif");
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 53px;
+}
+#headerInfoText {
+	width: 235px;
+	position: relative;
+	top: 15px;
+	padding: 5px;
+	cursor: default;
+}
+
+/* HEADER END ----------------------------------------------------------------------*/
+</style>
+
+<div id="headerContainer">
+	<div id="headerLeft"><a href="/default.cfm"><img border="0" id="DLCLogo" alt="Duquesne Light" src="/images/DLCLogo.jpg" width="375" height="100"></a></div>
+	<div id="headerMiddle">
+		
+    
+        
+        
+
+		
+
+		
+            
+        
+		
+        	<noscript><b>This site uses JavaScript, please enable.</b></noscript>
+        
+        &nbsp;
+        
+		
+	</div>
+	<div id="headerRight">
+		 
+		  
+		
+
+
+		
+			
+				
+				
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+
+				
+				<div id="headerLogin">
+		        	<span class="blue"><i><b>Log In To Your Account</b></i></span><br>
+		            <form name="loginForm" id="loginForm" action="/ssl/forOurCustomers/login.cfm" method="post" onsubmit="return _CF_checkloginForm(this)">
+		            <div id="headerForm">
+		                <div id="headerButton">
+							<input name="headerSubmitBtn" id="headerSubmitBtn" type="image" height="50" src="/images/btn_login.jpg" width="49">
+		                </div>
+						<div id="headerFormFields">
+			                <div id="headerUser">
+			                	Username: <input name="username" type="text" style="width:150px;" id="username">
+			                </div>
+			                <div id="headerPass">
+				                <a href="javascript:submitForm();" title="Passwords, for security reasons, will be entered on the next page" class="blue"><u><i>Where do I enter my password?</i></u></a>
+							</div>
+							<div id="headerInfoBox" style="display: none;">
+								<div id="headerInfoText" class="medium" style="display: none;">
+									First time users may still use an email address from the old website to login. Upon logging in, you will be prompted to create a username.<br><center>[Click to close]</center>
+								</div>
+							</div>
+			            </div>
+		            </div>
+		            </form>
+
+		            
+		            		
+
+		            
+		            <div style="margin-top:0;text-align:left;width:100%;float:left;" id="headerLinks"><a href="/ssl/forOurCustomers/termsandconditions.cfm">Register New Account</a> | <a href="/ssl/forOurCustomers/forgot.cfm">Forgot Login Information?</a></div>
+				</div>
+			
+		
+	</div>
+	</div>
+<div class="clearClass"></div>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+<script>
+$(document).ready(function() { 
+	
+	$("#PRIVACYPOLICY.CFM").removeClass("notSelected").addClass("selected");
+	
+	$(".button.notSelected").hover(function(){
+		$(this).removeClass("notSelected");
+		$(this).children().children().children().children().css("color","#005972");
+	},
+	function() {
+		$(this).addClass("notSelected");
+		$(this).children().children().children().children().css("color","#000");
+	
+	});
+	
+		$.each($("#topMenu a"),function() {
+		// For each link (a) within topMenu, find the width of the center div (the one with the text) and set that to be the width of the top hidden center div (used when hovering)
+		var textDiv = $(this).children().children(":first").next().children(":first").next();
+		var hiddenDiv = $(this).children().children().children(":first").next();
+		hiddenDiv.width(textDiv.width());
+	});
+});
+
+/*$(window).load(function() {
+	$.each($("#topMenu a"),function() {
+		// For each link (a) within topMenu, find the width of the center div (the one with the text) and set that to be the width of the top hidden center div (used when hovering)
+		var textDiv = $(this).children().children(":first").next().children(":first").next();
+		var hiddenDiv = $(this).children().children().children(":first").next();
+		hiddenDiv.width(textDiv.width());
+	});
+});*/
+</script>
+
+<style type="text/css">
+
+#topBarAll { width:100%;background-image:url('/images/topBarBlue.jpg'); background-repeat:repeat-x; min-width:950px }
+
+#topBarMenu{
+	/* width: 960px; */
+	width: 900px;
+	height: 78px;
+	background-color:none;
+	margin:0 auto;
+	padding: 0px;
+	text-align:center;
+}
+
+
+#logo {
+	//width: 150px;
+	height: 78px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	text-align:left;
+} 
+/* #logo A { margin-left:19px; } */
+
+	.selected div div.extraSpace { display: inline; }
+	.selected div div div { color: #005972; }
+	.notSelected div div.extraSpace { display: none; }
+	.button { float:left; margin-top:1px; }
+	.buttonStyle { cursor:pointer }
+	.buttonLeftSide { background-image:url('/images/topbutton_left.png'); background-repeat:no-repeat; height:45px; width:18px; float:left; }
+	.buttonCenter { background-image:url('/images/topbutton_center.png'); background-repeat:repeat-x; height:45px; float:left; font-family:Verdana, Geneva, sans-serif; font-size:12px; }
+	.buttonRightSide { background-image:url('/images/topbutton_right.png'); background-repeat:no-repeat; height:45px; width:18px; float:left; }
+	.buttonGrowLeft { background-image:url('/images/topbutton_spacer_left.png'); background-repeat:no-repeat; height:8px; width:18px; float:left; }
+	.buttonGrowCenter { background-image:url('/images/topbutton_spacer_center.png'); background-repeat:repeat-x; height:8px; float:left; }
+	.buttonGrowRight { background-image:url('/images/topbutton_spacer_right.png'); background-repeat:no-repeat; height:8px; width:18px; float:left; }
+	#topMenu { float:right; }
+	#topMenu a { text-decoration:none }
+	#topMenu ul li {float:left; display:inline;}
+</style>
+
+
+
+
+
+
+<div id="topBarAll">
+<div id="topBarMenu">
+	<div id="logo"><a href="/forOurCustomers/default.cfm"><img src="/images/forOurCustomers/FOC.jpg" border="0"></a></div>
+	<div id="topMenu">
+		<div>
+		
+		
+
+		</div>
+	</div>
+</div>
+</div>
+
+
+
+<div id="contentContainer" style="width: 1121px;">
+	<div id="navContainer" style="width: 363px;">
+		<script>
+$(document).ready(function() { 
+	$(document.getElementById('contentContainer')).width($(window).width()/2-320+758);
+	$(document.getElementById('navContainer')).width($(window).width()/2-320);
+	$('img.hidden').attr('src','/images/spacer.png').css('width','18px');
+	$(window).bind("resize", resizeWindow);
+
+function resizeWindow( e ) {	
+	$(document.getElementById('contentContainer')).width($(window).width()/2-320+758);	
+	$(document.getElementById('navContainer')).width($(window).width()/2-320);
+}
+
+	
+	
+	$("#XXXXXXX").addClass("leftNavLevel2MainBarTextSelected").find('img').attr('src','/images/menu_arrow_selected.png');
+	$("#XXXXXXX").addClass("leftNavLevel2MainBarTextSelected").find('img').attr('src','/images/menu_arrow_selected.png');
+	$("#XXXXXXX").parent().parent().parent().children().show();
+	$("#XXXXXXX").parent().parent().parent().children().show();
+	$("#XXXXXXX").addClass("subMenuItemSelected");
+	$('img.hidden').attr('src','/images/spacer.png').css('width','0');
+	
+	
+	$(".leftNav2Line").parent().parent().removeClass("leftNavLevel2MainBar").addClass("leftNavLevel2MainBar2");
+	
+	
+	/*$("#leftNavLevel2 a.level2BarClass").click(function(){
+		var menuBar = $(this).children();
+		var subMenu = $(this).parent().children('div');
+		if (subMenu.is(":visible"))
+		{
+			subMenu.hide(300);
+			menuBar.children().css("color","#FFF");
+			menuBar.children().children().children().css("color","#FFF");
+			menuBar.children().find('img').attr('src','/images/menu_arrow.png');
+		}
+		if (!subMenu.is(":visible"))
+		{
+			$("#leftNavLevel2").children().children().next().hide(300);
+			$(this).parent().siblings().children("a").children().children().children().children().css("color","#FFF");
+			$(this).parent().siblings().children("a").children().children().css("color","#FFF");
+			$(this).parent().siblings().children("a").children().children().find('img').attr('src','/images/menu_arrow.png');
+			subMenu.show(300);
+			menuBar.children().css("color","#FF6");
+			menuBar.children().children().children().css("color","#FF6");
+			menuBar.children().find('img').attr('src','/images/menu_arrow_selected.png');
+			$('img.hidden').attr('src','/images/spacer.png').css('width','18px');
+		}
+	});*/
+	
+	
+	
+});
+
+
+</script>
+
+<style>
+#leftNavLevel1 { width:100%; background-image:url(/images/grayBar.jpg);background-repeat:repeat-x; clear:both; margin-bottom:20px; }
+
+#leftNavLevel1FYH{ width:100%;height:32px;background-image:url(/images/grayBar.jpg);background-repeat:repeat-x; text-align:right; }
+#leftNavLevel1FYH:hover{ background-image:url(/images/redBar.jpg);cursor:pointer; }
+#leftNavLevel1FYB{ width:100%;height:32px;background-image:url(/images/grayBar.jpg);background-repeat:repeat-x; text-align:right; }
+#leftNavLevel1FYB:hover{ background-image:url(/images/yellowBar.jpg);cursor:pointer; }
+#leftNavLevel1IDL{ width:100%;height:32px;background-image:url(/images/grayBar.jpg);background-repeat:repeat-x; text-align:right; }
+#leftNavLevel1IDL:hover { background-image:url(/images/greenBar.jpg);cursor:pointer; }
+</style>
+
+
+
+	
+	
+	
+	
+	
+	
+
+
+
+
+	<div id="leftNavLevel1">
+		<a href="/forYourHome/default.cfm"><div id="leftNavLevel1FYH"><img src="/images/FYH.png" onclick="window.location='/forYourHome/default.cfm';" align="right"></div></a>
+		<a href="/forYourBusiness/default.cfm"><div id="leftNavLevel1FYB"><img src="/images/FYB.png" onclick="window.location='/forYourBusiness/default.cfm';" align="right"></div></a>
+		
+			<a href="/insideDuquesneLight/default.cfm"><div id="leftNavLevel1IDL"><img src="/images/IDL.png" onclick="window.location='/insideDuquesneLight/default.cfm';" align="right"></div></a>
+		
+	</div>
+
+
+	</div>
+	<div class="contentColumnFull">
+		<h1 id="title" class="blue">Privacy Policy</h1><br>
+	    
+		
+        
+
+		
+        
+		<div id="ppDownload" style="text-align:right; margin-bottom: 10px">
+			<a href="savePrivacyPolicy.cfm" target="_blank" style="padding-right: 20px"><img src="/images/icon_pdf.gif" border="0" alt="Download" style="vertical-align: middle; padding-right:5px" width="20" height="20">Download</a>
+		</div>
+
+        <div id="ppText" style="margin: 0px 15px; padding: 10px; height: 400px; overflow: auto; border: 1px solid black">
+			<p style="text-align: center"><b>DUQUESNE LIGHT COMPANY</b></p>
+<p style="text-align: center"><b>PRIVACY POLICY</b></p>
+<div>Duquesne Light Company, its subsidiaries, parents and affiliates (“DLC, we or us”) recognize the trust you place in us when you give us personal information.&nbsp;We do not collect personal information via the DLC website (the “Website”) unless the user of the Website (“you”) voluntarily provide it to us. For purposes of this Privacy Policy, ‘personal information’ could include, for example, your social security number, bank account information, or your email or physical addresses.&nbsp;</div>
+<div style="text-align: center; margin: 0in 0in 0pt" align="center"><b><span style="text-transform: uppercase">If you do not wish your personal information</span></b></div>
+<div style="text-align: center; margin: 0in 0in 0pt" align="center"><b><span style="text-transform: uppercase">to be governed by this Privacy Policy,</span></b></div>
+<div style="text-align: center; margin: 0in 0in 0pt" align="center"><b><span style="text-transform: uppercase; color: red">DO NOT</span></b><b><span style="text-transform: uppercase"> provide PERSONAL information to DLC over the Website.</span></b></div>
+<div>You are not required to use the services provided via the Website. <span>&nbsp;&nbsp;Much of the Website is available for your review and information without registering or providing personal information to DLC.&nbsp;</span></div>
+<div>This Privacy Policy does not cover personal information provided by you or on your behalf to DLC outside of the Website, such as in connection with the establishment of your electric account with DLC (your “DLC Account’).&nbsp;For questions regarding the security of personal information provided to DLC outside of the Website, please call DLC’s Customer Service Line at (412) 393-7100.</div>
+<div><b><u>How We Use Personal Information</u></b></div>
+<div style="text-align: justify; margin: 0in 0in 10pt"><span style="line-height: 115%">We collect personal information so that we may promptly and accurately respond to requests for information and/or so that we may provide online services. &nbsp;We will not sell or provide your personal information to unaffiliated companies. &nbsp;If DLC is involved in the sale of its assets as part of a merger or acquisition, </span>user information, including your personal information, generally is one of the transferred business assets.&nbsp;In that circumstance, this Privacy Policy would still apply to your personal information, but your personal information may be transferred to the successor or assignee of DLC.</div>
+<div>In some instances, we may use this information to inform you of goods and services that may be of interest to you. Except as provided herein, Duquesne Light Company will not disclose any information about you to unaffiliated companies or organizations without your consent, unless:</div>
+<div style="line-height: normal; text-indent: -0.25in; margin: 0in 0in 10pt 51pt"><span style="font-size: 10pt">§&nbsp;</span>required by law;</div>
+<div style="line-height: normal; text-indent: -0.25in; margin: 0in 0in 10pt 51pt"><span style="font-size: 10pt">§&nbsp;</span>we believe it necessary to respond to an inquiry or provide you with a service which you have requested;&nbsp; or</div>
+<div style="line-height: normal; text-indent: -0.25in; margin: 0in 0in 10pt 51pt"><span style="font-size: 10pt">§&nbsp;</span>to implement our terms of service.</div>
+<div style="margin: 0in 0in 0pt"><span style="line-height: 115%">In order to operate the Website or deliver a service we may sometimes share your personal information with a service partner under strict conditions of confidentiality. We will not otherwise disclose your personal information to other companies without your explicit consent. <br>
+<br>
+<strong>Access to Your Information</strong><br>
+If at any time you want to know exactly what personal information we hold about you or wish to </span>change personal information that is inaccurate or out of date, please call our Customer Service Line at (412) 393-7100 and we will amend this record. <br>
+<br>
+<strong><span style="line-height: 115%">Security </span></strong><span style="line-height: 115%"><br>
+</span>Unfortunately, no electronic communication over the Internet can be guaranteed to be 100% secure.&nbsp;&nbsp; However, we take all reasonable precautions to ensure the security of your personal information. The Website has security measures in place to protect the loss, misuse and alteration of the information under our control.&nbsp;Access to your personal information is limited to those required to support or service your account.&nbsp;Security procedures in place include password protection and, as appropriate, physical protection.<span style="line-height: 115%">Your personal information is stored on secure servers that are protected in controlled facilities. We require our employees and data processors to respect the confidentiality of any personal information held by DLC. <br>
+<br>
+<strong>Viruses</strong><br>
+DLC uses appropriate commercially available anti-virus software to ensure that this Website does not contain or carry viruses. However, due to the rapidly developing nature of viruses and the Internet we strongly recommend that you employ similar anti-virus software when accessing the Website. DLC makes no warranty that the Website or e-mail correspondence is free from such viruses. <br>
+<br>
+<strong>Cookies and Other Information</strong><br>
+Like many companies, we may from time to time use "cookie" technology on our Website. "Cookies" are small text files a Website can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and to track usage behavior of, for example, the Web pages you visit. Our Website may automatically collect Cookies and other information, such as, but not limited to, your domain name and Internet protocol address, and compile aggregate data for statistical purposes to improve our content and services and administer our Website. <br>
+<br>
+<strong>Privacy Protection for Children Using the Internet</strong><br>
+DLC does not solicit children to the Website; however, the Website contains energy-related information that may be of educational interest to children. &nbsp;DLC does not request personal or knowingly accept information from children under 13 years of age. </span></div>
+		</div>
+        
+	</div>
+    
+	<div class="clearClass"></div>
+</div>
+
+<div class="bottomHR"></div>
+
+<style>
+#footerContainer { height: 100px;margin-left:auto;margin-right:auto;width: 945px; margin-top:20px; }
+#footerImage { float:left; }
+#footerLinks { float:left; padding-top:13px; font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#96999c; }
+#footerLinks a { font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#96999c; text-decoration:none; }
+</style>
+
+<div id="footerContainer">
+	<div id="footerImage" style="float:left;">
+		<a href="/default.cfm"><img src="/images/DLCLogo_footer.jpg" width="150" height="40" border="0"></a>
+	</div>
+	<div id="footerLinks" style="float:left;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forOurCustomers/termsandconditions.cfm">Terms &amp; Conditions</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forOurCustomers/privacyPolicy.cfm">Privacy Policy</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forOurCustomers/sitemap.cfm">Site Map</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/insideDuquesneLight/contactUs/default.cfm">Contact Us</a>
+	</div>
+	<div class="clearClass"></div>
+</div>
+
+
+</body></html>
