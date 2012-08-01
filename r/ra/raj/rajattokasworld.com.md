@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajattokasworld.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128111044id_/http%3A//www.rajattokasworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajattokasworld.com privacy policy that was archived on 2012-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120801192418id_/http%3A//www.rajattokasworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rajat Tokas World
 
