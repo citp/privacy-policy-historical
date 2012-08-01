@@ -1,0 +1,580 @@
+<!--The following is the downloaded HTML source of the cloudhq.net privacy policy that was archived on 2012-08-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120801163020id_/https%3A//www.cloudhq.net/dropbox/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" version="XHTML+RDFa 1.0" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><head>
+    <!-- head meta data --> 
+    
+<meta http-equiv="X-XRDS-Location" content="https://www.cloudhq.net/dropbox/xrds.xml">
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!-- 
+apple-touch-icon-114x114-precomposed.png
+apple-touch-icon-114x114.png
+apple-touch-icon-precomposed.png
+apple-touch-icon.png
+-->
+
+<link rel="apple-touch-icon" href="https://www.cloudhq.net/dropbox/images/cHQ_for_iOS_57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.cloudhq.net/dropbox/images/cHQ_for_iOS_72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.cloudhq.net/dropbox/images/cHQ_for_iOS_114x144.png">
+
+
+  <link rel="image_src" href="https://www.cloudhq.net/dropbox/images/logo_short.gif">
+  <meta property="og:image" content="https://www.cloudhq.net/dropbox/images/sugarsync_basecamp_google_docs.png">
+  <meta property="og:image" content="https://www.cloudhq.net/dropbox/images/dropbox_basecamp_google_docs.png">
+  <meta name="keywords" content="cloudHQ privacy, cloudHQ_net, dropbox, google apps, cloud computing, cloud HQ, cloudHQ, backup Google docs, replicate Google Docs Dropbox, backup Basecamp, sync Basecamp, sync Dropbox">
+  <meta name="title" content="cloudHQ - Privacy &amp; Security">
+  <meta name="description" content="cloudHQ privacy: Any information we capture from you will not be shared with anyone else. ">
+
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<meta name="revisit-after" content="2 days">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+  
+<!-- this is title -->
+<title>cloudHQ - Privacy &amp; Security</title>
+
+
+
+    <!-- include all styleheets needed (via assets_packager - see config/asset_package.yml) -->
+    <link href="/dropbox/stylesheets/home_packaged.css?1343835363" media="screen" rel="stylesheet" type="text/css">
+    <!-- include all javascripts needed (via assets_packager - see config/asset_package.yml) -->
+    <script type="text/javascript" async="" src="https://static.olark.com/jsclient/loader1.js?ts=1582532694603"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/dropbox/javascripts/home_packaged.js?1343835363" type="text/javascript"></script>
+  </head>
+  <body id="c_home_a_privacy">
+    
+    <div class="main-container">
+      
+      <!-- Global notification -->
+      
+  
+  
+    
+
+      
+      <!-- Initilize Javascript --> 
+      
+<!-- google api -->
+<!-- <script src="http://www.google.com/jsapi" type="text/javascript"></script> -->
+
+<script type="text/javascript">
+    var g_site_name;
+    var g_site_url;
+    var g_gmail_openid_identifier = "";
+    var g_gapps_openid_identifier = "yourdomain.com";
+    var g_sugarsync_mode = null;
+    var g_auto_login = null;
+    
+    $(document).ready(
+      function() 
+      { 
+        g_site_name = "cloudHQ";
+        g_site_url = "https://www.cloudhq.net/dropbox/"; 
+        g_gmail_openid_identifier = "https://www.google.com/accounts/o8/id";
+        g_gapps_openid_identifier = "yourdomain.com";
+        g_sugarsync_mode = "false";
+        g_dropbox_mode = "true";
+        fn_init();
+      }
+    ); 
+  
+  // Making CSRF Token for each Ajax request.
+  $(document).ajaxSend(function(e, xhr, options) {
+    var token = $("meta[name='csrf-token']").attr("content");
+    xhr.setRequestHeader("X-CSRF-Token", token);
+  });
+</script>
+
+      
+      <!--header start-->
+      
+<div id="hadder-container">
+  <div class="inner">
+    
+      <div class="logo" style="width:280px; font-weight:bold;"> 
+        <a href="https://www.cloudhq.net/dropbox/" style="text-decoration:none;">
+          <img src="/images/logo.png" style="border: 0" alt="cloudHQ logo"><br>
+        </a> 
+        <div style="font-size: 10px; margin-top: -10px">&nbsp;&nbsp;</div>
+      </div>
+    
+    <!-- S login -->
+    
+      <div class="login"> <a href="javascript:void(0);" id="sign_in"><b>Sign In</b></a> 
+        <!-- S login-content-sign-in -->
+        <div class="login-content-sign-in" id="sign_in_block" style="display:none;"> 
+          <!-- S login-content-inner -->
+          
+  <div id="home_login_container">
+  
+    <!-- This is small dialog which for login via gmail or google apps. -->
+    <!-- If user selects gmail then we will show gmail login form. --> 
+    <!-- If user selects google apps then we will show gapps login form. -->
+    <!-- See home.js function fn_setup_login_dialog(). -->
+
+    <div class="login-content-inner" id="gmail_or_gapps_dialog"> 
+          <!-- S list -->
+          <div class="list">
+            <input id="gmail_checkbox_input" class="login_input_radio" value="gmail" name="gmail_or_gapps" type="radio" checked="checked">
+            <label for="gmail_checkbox_input"> <span class="login-using checkbox_label">Using Gmail Id</span></label>
+          </div>
+          <!-- E list -->
+          <!-- S list -->
+          <div class="list domin"> 
+            <input id="gapp_checkbox_input" class="login_input_radio" value="gapps" name="gmail_or_gapps" type="radio"> 
+            <label for="gapp_checkbox_input"> <span class="login-using checkbox_label">Using Google Apps domain</span></label>
+            <form action="/dropbox/user_sessions" class="new_user_session" id="gmail_login_form" method="post" style="display:none"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="8cvFjr/S3oQkhASJBgNKECnaSiEBxx7i7aZuyDc4iXU="></div>
+              <div>
+                <span class="disabled_with_opacity">Enter your domain:</span>
+                <br>
+                <input class="disabled_with_opacity" disabled="disabled" id="user_session_openid_identifier" name="user_session[openid_identifier]" size="30" type="text" value="">
+                <input id="user_session_openid_identifier" name="user_session[openid_identifier]" size="30" style="display:none" type="text" value="https://www.google.com/accounts/o8/id">
+                <br>
+                <input name="user_session[remember_me]" type="hidden" value="0"><input id="Remember_Me3" name="user_session[remember_me]" type="checkbox" value="1"><label for="Remember_Me3">Remember me</label>
+                <br>
+                <input class="sign-inbutton" id="user_session_submit" name="commit" type="submit" value="">
+              </div>
+            </form>
+          </div>
+          <!-- E list --> 
+          <!-- S list -->
+          <div class="list domin">
+            <form action="/dropbox/user_sessions" class="new_user_session" id="gapp_login_form" method="post" style="display:none"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="8cvFjr/S3oQkhASJBgNKECnaSiEBxx7i7aZuyDc4iXU="></div>
+              <div>Enter your domain:<br>
+              
+                <input class="watermarked" id="gapp_login_form_text_field" name="user_session[openid_identifier]" size="30" type="text">
+                <br>
+                <input name="user_session[remember_me]" type="hidden" value="0"><input id="Remember_Me4" name="user_session[remember_me]" type="checkbox" value="1"><label for="Remember_Me4">Remember me</label>
+                <br>
+                <input class="sign-inbutton" id="user_session_submit" name="commit" type="submit" value="">
+              </div>
+            </form>
+          </div>
+          <!-- E list --> 
+        </div>
+        
+  </div>
+
+<script type="text/javascript">
+  $('.watermarked').watermark('yourdomain.com',  {className: 'watermark'});
+</script>
+
+	        <!-- S login-content-inner -->
+	     </div>
+	     <!-- S login-content-sign-in -->
+     </div>
+    
+    <!-- E login --> 
+  </div>
+</div> 
+      <!--header end-->
+  
+      <!-- flash messages -->
+      <div id="common_flash_container">
+        <div class="inner">
+          <!-- display flash message - basically notifcation about previous action -->
+        </div>
+      </div>
+
+      
+      <div class="wrapper wrapper-small-bg"> 
+        <div class="inner"> 
+          
+
+  
+  
+  
+
+
+  
+  <div class="wrapper">
+    <h3 class="h3_homepage">Privacy &amp; Security</h3>
+  </div>
+  <!-- wrapper end -->
+  <div class="clear">&nbsp;</div>
+  <!-- S about-content -->
+  <div class="about-content">
+    
+    <div class="heading">Overview</div>
+    <div class="clear">&nbsp;</div>
+    <!-- S list-detail-users -->
+    <div class="list-detail-terms">
+      <div class="innper-detail-terms">
+        <p>
+        July 7, 2011
+        </p> 
+        <p>  
+          Our Privacy policy is simple. Any information we receive from you will not be shared with anyone else, 
+          and we'll never use it for anything else without your consent. 
+          For example, we don't share your private information with advertisers or third parties.
+        </p>
+        <p>
+          Best practices are followed to ensure your data remains private and secure.
+        </p>
+      </div>
+   </div>
+    
+    <div class="heading">Security</div>
+    <div class="clear">&nbsp;</div>
+    <!-- S list-detail-users -->
+    <div class="list-detail-terms">
+      <div class="innper-detail-terms">    
+        The following best practices are followed to ensure your data remains private and secure:
+        <ul>
+          <li>
+            cloudHQ uses <a href="http://code.google.com/apis/accounts/docs/OpenID.html" target="_blank">Google Federated Login</a> 
+            password-less authentication for user authentication.
+            This means that somebody can access your cloudHQ account <b>if and only 
+            if</b> that person is logged into your google account.<br><br>   
+          </li>
+          <li> 
+            cloudHQ uses industry standard  <a href="http://www.oauth.net" target="_blank">OAuth</a>
+            password-less authorization protocol when connecting to Google Docs and Dropbox. This means cloudHQ has <b>no access</b> to your passwords for these
+            services. <br><br>
+          </li>
+          <li>
+             Since Basecamp and SugarSync do not support <a href="http://www.oauth.net" target="_blank">OAuth</a>, cloudHQ requires users to specify their 
+             username and password. These credentials are securely stored on cloudHQ secure storage and encrypted with 256-bit AES encryption.<br><br>
+          </li>
+          <li> 
+            cloudHQ does not permanently store your files. 
+            When cloudHQ access your data via API, it might temporary cache part of the content, but cloudHQ never stores 
+            any of your files permanently on its servers. <br><br>
+          </li>
+          <li>
+            All 256-bit AES keys for encryption and decryption of user's credentials are encrypted and stored in a special "wallet". 
+            This wallet is encrypted using a password which is not stored on any of our servers. The password to open this wallet is known only to the 
+            cloudHQ administrator who manages our production server.<br><br>
+            
+          </li>
+          <li>
+            Communication between cloudHQ servers and Google Docs, SugarSync, Basecamp, and Dropbox is always done over a secure SSL channel.<br><br>
+          </li>
+          <li>
+            Communication between cloudHQ servers and your browser is always done over a secure SSL channel.<br><br>
+          </li>
+          <li>
+           Our product software and infrastructure is updated regularly with the latest security patches. Our network is protected by 
+           an enterprise-class firewall.<br><br>
+          </li>
+        </ul>
+        <div class="clear">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="heading">The Information We Collect And Store</div>
+    <div class="clear">&nbsp;</div>
+    <!-- S list-detail-users -->
+    <div class="list-detail-terms">
+      <div class="innper-detail-terms">
+        <p>
+          We may collect and store the following information when running the cloudHQ Service:
+          </p><p>
+            When you register an account, we collect some personal information, such as your name, email address. 
+            Payment is handled by PayPal so we are not storing credit card or other billing information. 
+          </p>
+          <p>
+            When you use the Service, we automatically record information from your web browser. 
+            This may include the Device’s Internet Protocol (“IP”) address, browser type, the web page visited before you came to our website, information you search for on 
+            our website, and locale preferences.
+          </p> 
+          <p>
+            We also use “cookies”. A cookie is a small data file that we transfer to your Device. We use “persistent cookies” to save your registration ID and authenticaion information 
+            for future logins to the Service. We also use “session ID cookies” to enable certain features of the Service, to better understand how you interact with the 
+            Service and to monitor aggregate usage and web traffic routing on the Service. 
+            You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
+            If you do not accept cookies, however, you will not be able to use the Service.
+            This cookie persists in your browser, and you can delete these cookies using your browser settings.
+          </p>
+        <div class="clear">&nbsp;</div>
+      </div>
+    </div>
+    <div class="heading">Data Retention</div>
+    <div class="clear">&nbsp;</div>
+    <!-- S list-detail-users -->
+    <div class="list-detail-terms">
+      <div class="innper-detail-terms">
+        <p>
+          We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or 
+          request that we no longer use your information to provide you services, you may delete your account. We may retain and use your 
+          information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+          Consistent with these requirements, we will try to delete your information quickly upon request. Please note, however, that there might be 
+          latency in deleting information from our servers and backed-up versions might exist after deletion. 
+        </p>
+          
+        <div class="clear">&nbsp;</div>
+      </div>
+    </div>
+    <div class="heading">Contacting Us</div>
+    <div class="clear">&nbsp;</div>
+    <!-- S list-detail-users -->
+    <div class="list-detail-terms">
+      <div class="innper-detail-terms">
+        <p>
+          If you have any questions about our Privacy Policy or you want hear more how we secure your data, please contact us at support@cloudHQ.net. Or just call us on +1 888 666 7439.
+        </p>
+         <div class="clear">&nbsp;</div>
+      </div>
+    </div>
+
+    <div class="heading">Changes to our Privacy Policy</div>
+    <div class="clear">&nbsp;</div>
+    <!-- S list-detail-users -->
+    <div class="list-detail-terms">
+      <div class="innper-detail-terms">
+        <p>
+          This Privacy Policy may change from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, 
+          we will provide you with notice (for example, by email). And we may provide notice of changes in other circumstances as well. By continuing to use the 
+          Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
+        </p>
+          
+        <div class="clear">&nbsp;</div>
+      </div>
+    </div>
+
+    <!-- E list-detail-users -->
+    <div class="clear">&nbsp;</div>
+  </div>
+  <!-- E about-content -->
+
+        </div>
+      </div>
+      
+      
+      <!-- Google Plusone -->
+      <!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+    
+      <!--footer start -->
+      <div class="footer" name="footer">
+  <div class="inner">
+    
+      <ul id="contact_link">
+  <li>
+      <a target="_blank" href="https://www.linkedin.com/company/cloudHQ"> 
+        <img src="/images/in-icon.png" alt="cloudHQ on Linkedin" width="21" height="21" border="0" style="vertical-align: top;">
+      </a>
+  </li>
+  <li>
+      <a target="_blank" href="https://www.youtube.com/user/cloudHQnet">
+        <img src="/images/youtube-32x32.png" alt="cloudHQ on YouTube" width="21" height="21" border="0" style="vertical-align: top;">
+      </a>
+  </li>
+  <li>
+      <a target="_blank" href="https://www.twitter.com/cloudHQ_net">
+        <img src="/images/twitter-icon.png" alt="cloudHQ on Twitter" width="21" height="21" border="0" style="vertical-align: top;">
+      </a>
+  </li>
+  <li>
+      <a target="_blank" href="http://www.slideshare.com/cloudHQ">
+        <img src="/images/slideshare-32x32.png" alt="cloudHQ on SlideShare" width="21" height="21" border="0" style="vertical-align: top;">
+      </a>
+  </li>
+  
+  <li id="follow_us_facebook">
+      <a target="_blank" href="https://www.facebook.com/pages/cloudHQnet/125947377467008" style="vertical-align: top; padding-right: 37px">
+        <img src="/images/flicker-icon-icon.png" alt="Facebook" width="21" height="21" border="0" style="vertical-align: top;">
+      </a>
+  </li>
+  
+  <li id="facebook_like">
+      <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FcloudHQnet%2F125947377467008&amp;layout=button_count&amp;show_faces=true&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:25px;" allowtransparency="true"></iframe>
+  </li>
+  
+  <li id="google_plusone">
+    <!-- Place this tag where you want the +1 button to render -->
+    <div style="vertical-align: top; display: inline-block; padding-right: 28px">
+      <g:plusone size="medium" href="https://www.cloudhq.net/dropbox/"></g:plusone>
+    </div>
+  </li>
+  
+  <li id="contacts_addthis_container" style="">
+    <!-- AddThis Button BEGIN -->
+    <a class="addthis_button" href="https://www.addthis.com/bookmark.php?v=250&amp;pubid=sdizdar">
+      <img src="https://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0">
+    </a>
+    <script type="text/javascript">
+      var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+      var addthis_config;
+      if (is_chrome)
+        addthis_config = { services_exclude: 'print', ui_delay: 200, data_track_clickback: true, ui_offset_left: -370, ui_offset_top: -220 };
+      else
+        addthis_config = { services_exclude: 'print', ui_delay: 200, data_track_clickback: true, ui_hover_direction: 1 };
+        
+    </script>
+    <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=sdizdar"></script>
+    <!-- AddThis Button END -->
+  </li>
+</ul>
+
+    
+    <div class="clear">&nbsp;</div>
+    
+
+<br>
+
+
+<ul class="footer-links">
+  <li><a href="/dropbox/">Home</a>| </li>
+  <li><a href="https://chrome.google.com/webstore/detail/iobcbdgacfkninlcbphihhdlkobkehia" target="_blank">Browser Extension</a>| </li>
+  
+  <!-- <li><a href="/dropbox/prices">Plans &amp; Pricing</a>| </li> -->
+  
+    <li><a href="/dropbox/prices">Pricing</a>| </li>
+  
+  
+    <li><a href="/dropbox/tour_solutions">Quick Tour</a>| </li>
+  
+  <li><a href="/dropbox/about">About Us</a>| </li>
+  <li><a href="/dropbox/terms">Terms</a>| </li>
+  <li><a href="/dropbox/privacy">Privacy</a>| </li>
+  <li><a href="http://blog.cloudhq.net/" target="_blank">Blog</a>| </li>
+  <li><a href="/dropbox/contact">Contact</a>   </li>
+</ul>
+
+
+<p style="margin-top:10px;">© 2011-2012 by cloudHQ</p>
+
+
+  </div>
+</div>
+      <!-- footer end -->
+      
+      <!-- Google Analytics --> 
+      
+<!-- Google Analytics -->
+
+<script type="text/javascript">
+if (top === self) 
+{
+  var _gaq = _gaq || [];
+  try { 
+    _gaq.push(['_setAccount', "UA-18981743-2"]); 
+    _gaq.push(['_trackPageLoadTime']);
+  }  catch(err)  {  }
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+}
+  
+</script>
+
+        <!-- generate_google_analytics -->
+        <script>
+        $(document).ready( function(){ try { _gaq.push(['_trackPageview']); } catch (err) { }  });
+        </script>
+
+
+<!-- Google Analytics -->
+
+  
+      <!-- Olark chat --> 
+      <script type="text/javascript">
+    if (top === self) 
+    {
+    /*<![CDATA[*/
+    window.olark || (function(k) {
+        var g = window,
+            j = document,
+            a = g.location.protocol == "https:" ? "https:" : "http:",
+            i = k.name,
+            b = "load",
+            h = "addEventListener";
+        (function() {
+            g[i] = function() {
+                (c.s = c.s || []).push(arguments)
+            };
+            var c = g[i]._ = {},
+                f = k.methods.length;
+            while (f--) {
+                (function(l) {
+                    g[i][l] = function() {
+                        g[i]("call", l, arguments)
+                    }
+                })(k.methods[f])
+            }
+            c.l = k.loader;
+            c.i = arguments.callee;
+            c.p = {
+                0: +new Date
+            };
+            c.P = function(l) {
+                c.p[l] = new Date - c.p[0]
+            };
+
+            function e() {
+                c.P(b);
+                g[i](b)
+            }
+            g[h] ? g[h](b, e, false) : g.attachEvent("on" + b, e);
+            c.P(1);
+            var d = j.createElement("script"),
+                m = document.getElementsByTagName("script")[0];
+            d.type = "text/javascript";
+            d.async = true;
+            d.src = a + "//" + c.l;
+            m.parentNode.insertBefore(d, m);
+            c.P(2)
+        })()
+    })({
+        loader: (function(a) {
+            return "static.olark.com/jsclient/loader1.js?ts=" + (a ? a[1] : (+new Date))
+        })(document.cookie.match(/olarkld=([0-9]+)/)),
+        name: "olark",
+        methods: ["configure", "extend", "declare", "identify"]
+    });
+    olark.identify('6254-357-10-3746'); 
+    
+    /*]]>*/
+  }
+</script>
+
+<!-- if user is logged in update olark visitor name -->
+
+
+<!-- update upper border or olark -->
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('body').bind("DOMNodeInserted", 
+        function()
+        {
+          try {
+            $('#habla_both_div').css({'border-top': '1px solid #CBD8E0', 'border-left': '1px solid #CBD8E0', 'border-right': '1px solid #CBD8E0'});
+            var $d = $('#habla_expanded_div div:nth-child(2)');
+            if ($d.length > 0) {
+              $d.css({
+                'visibility': 'hidden'
+              });
+               $('#habla_expanded_div div:nth-child(2) a').css({
+                'visibility': 'hidden'
+              });
+            }
+          }
+          catch(err) {
+            
+          }
+        }
+      );
+  });  
+</script>
+      
+    </div> <!-- main-continer end -->
+  
+    <!-- this is important div used by extensions to detect that page is completly loaded -->
+    <div class="cloudHQ_page_loaded" style="display:none"></div>
+  
+
+
+
+      
+</body></html>
