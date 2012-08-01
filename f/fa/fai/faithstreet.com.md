@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithstreet.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629051357id_/http%3A//www.faithstreet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithstreet.com privacy policy that was archived on 2012-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120801045658id_/http%3A//www.faithstreet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FaithStreet
 
