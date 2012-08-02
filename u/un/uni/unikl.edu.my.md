@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unikl.edu.my privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201032518id_/http%3A//www.unikl.edu.my/index.php/component/content/article/434%3Fitemid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unikl.edu.my privacy policy that was archived on 2012-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120802184302id_/http%3A//www.unikl.edu.my/index.php/component/content/article/434%3Fitemid%3D0) for the most accurate reproduction.*
 
 # Privacy Policy
 
