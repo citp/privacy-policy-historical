@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the windrivers.com privacy policy that was archived on 2012-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120517023232id_/http%3A//www.windrivers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the windrivers.com privacy policy that was archived on 2012-08-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120802022952id_/http%3A//www.windrivers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy</title>
@@ -42,9 +42,10 @@ body { margin: 0; padding: 0;}
 .globalHeader .login-register { text-align: right; padding: 4px .5em 0 .5em; /*float: right;*/}
 .globalHeader .login-register img{ cursor:pointer;}
 .globalHeader .logout { text-align: right;  }
-.globalHeader .greeting span{ color: #797979; font-family: Arial, sans-serif; font-size: 13px; padding: 0; margin: 0;}
-.globalHeader .logout .greeting a{ color: #797979; font-family: Arial, sans-serif; padding: 0; font-size: 13px; margin: 0;}
+.globalHeader .logout .greeting span{ color: #797979; font-family: Arial, sans-serif; font-size: 13px; padding: 0; margin: 0;}
+.globalHeader .logout .greeting a{ color: #797979 !important; font-family: Arial, sans-serif; padding: 0; font-size: 13px; margin: 0;}
 .logout-link img{ cursor:pointer;margin-top:3px; margin-right:5px;}
+
 .clearfloat { clear:both; height:0;	font-size: 1px;	line-height: 0px;}
 -->
 </style>
@@ -95,7 +96,9 @@ body { margin: 0; padding: 0;}
     <div class="brandLogo">
       <p><a href="/about-developer"><img src="/icom_includes/toolbars/globaltoolbar/img/no-icon-developer.png" alt="www.developer.com" width="222" height="18" align="absmiddle" border="0"></a></p>
     </div>
-    <div class="login-register"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login-dev.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register-dev.png" width="56" height="16" alt="Register" border="0"></a></div>
+    <div class="login-register" id="custom-developer-login-register"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login-dev.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register-dev.png" width="56" height="16" alt="Register" border="0"></a></div>
+	 <div class="logout" id="custom-developer-logout" style="display:none;">
+	<span class="logout-link"><a href="/accountManagement?logout=true&amp;formType=logoutForm" alt="Logout" title="Logout"><img src="/icom_includes/toolbars/globaltoolbar/img/logout-dev.png" width="41" height="16" alt="Logout" border="0"></a></span></div>	
     <div class="clearfloat"></div>
    </div>
  <!-- End - Developer.com - Flagship header with login & register buttons --> 
@@ -115,7 +118,7 @@ body { margin: 0; padding: 0;}
     <div class="brandLogo">
       <p><a href="/about-itbe"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-itbe.png" alt="www.itbusinessedge.com" width="239" height="17" align="absmiddle" border="0"></a></p>
     </div>
-    <div class="login-register"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login-dev.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register-dev.png" width="56" height="16" alt="Register" border="0"></a></div>
+    <div class="login-register">&nbsp;<!--<a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login-dev.png" width="41" height="16" alt="Login" border="0"/></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register-dev.png" width="56" height="16" alt="Register" border="0"/></a>--></div>
     <div class="clearfloat"></div>
   </div>
  <!-- End - Forum ITBE - with login & register buttons --> 
@@ -129,6 +132,137 @@ body { margin: 0; padding: 0;}
     <div class="clearfloat"></div>
   </div>
  <!-- End - Forum ITBE - without login & register buttons --> 
+ 
+ <!-- ZDE - with login & register buttons -->
+  <div class="globalHeader" id="ZDE-ACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-zde.png" alt="www.ziffdavisenterprise.com" width="222" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="login-register" id="zde-login-register" style="display:;"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register.png" width="56" height="16" alt="Register" border="0"></a>
+	</div>
+    <div class="logout" id="zde-logout" style="display:none;">
+	<span class="logout-link"><a href="/accountManagement?logout=true&amp;formType=logoutForm" alt="Logout" title="Logout"><img src="/icom_includes/toolbars/globaltoolbar/img/logout.png" width="41" height="16" alt="Logout" border="0"></a></span></div>
+
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - ZDE - with login & register buttons --> 
+ 
+ <!-- ZDE - without login & register buttons -->
+  <div class="globalHeader" id="ZDE-NonACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-zde.png" alt="www.ziffdavisenterprise.com" width="222" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - ZDE - without login & register buttons -->    
+ 
+ 
+  <!-- BASELINE - with login & register buttons -->
+  <div class="globalHeader" id="BASELINE-ACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-baseline.png" alt="www.baselinemag.com" width="209" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="login-register" id="baseline-login-register" style="display:;"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register.png" width="56" height="16" alt="Register" border="0"></a>
+	</div>
+    <div class="logout" id="baseline-logout" style="display:none;">
+	<span class="logout-link"><a href="/accountManagement?logout=true&amp;formType=logoutForm" alt="Logout" title="Logout"><img src="/icom_includes/toolbars/globaltoolbar/img/logout.png" width="41" height="16" alt="Logout" border="0"></a></span></div>
+
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - BASELINE - with login & register buttons --> 
+ 
+ <!-- BASELINE - without login & register buttons -->
+  <div class="globalHeader" id="BASELINE-NonACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-baseline.png" alt="www.baselinemag.com" width="209" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - BASELINE - without login & register buttons -->   
+ 
+   <!-- CINSIDER - with login & register buttons -->
+  <div class="globalHeader" id="CINSIDER-ACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-channelinsider.png" alt="www.channelinsider.com" width="288" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="login-register" id="cinsider-login-register" style="display:;"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register.png" width="56" height="16" alt="Register" border="0"></a>
+	</div>
+    <div class="logout" id="cinsider-logout" style="display:none;">
+	<span class="logout-link"><a href="/accountManagement?logout=true&amp;formType=logoutForm" alt="Logout" title="Logout"><img src="/icom_includes/toolbars/globaltoolbar/img/logout.png" width="41" height="16" alt="Logout" border="0"></a></span></div>
+
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - CINSIDER - with login & register buttons --> 
+ 
+ <!-- CINSIDER - without login & register buttons -->
+  <div class="globalHeader" id="CINSIDER-NonACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-channelinsider.png" alt="www.channelinsider.com" width="288" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - CINSIDER - without login & register buttons -->    
+ 
+ <!-- CIOINSIGHT - with login & register buttons -->
+  <div class="globalHeader" id="CIOINSIGHT-ACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-cioinsight.png" alt="www.cioinsight.com" width="271" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="login-register" id="cioinsight-login-register" style="display:;"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register.png" width="56" height="16" alt="Register" border="0"></a>
+	</div>
+    <div class="logout" id="cioinsight-logout" style="display:none;">
+	<span class="logout-link"><a href="/accountManagement?logout=true&amp;formType=logoutForm" alt="Logout" title="Logout"><img src="/icom_includes/toolbars/globaltoolbar/img/logout.png" width="41" height="16" alt="Logout" border="0"></a></span></div>
+
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - CIOINSIGHT - with login & register buttons --> 
+ 
+ <!-- CIOINSIGHT - without login & register buttons -->
+  <div class="globalHeader" id="CIOINSIGHT-NonACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-cioinsight.png" alt="www.cioinsight.com" width="271" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - CIOINSIGHT - without login & register buttons -->  
+ 
+    <!-- EWEEK - with login & register buttons -->
+  <div class="globalHeader" id="EWEEK-ACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-eweek.png" alt="www.eweek.com" width="208" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="login-register" id="eweek-login-register" style="display:;"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register.png" width="56" height="16" alt="Register" border="0"></a>
+	</div>
+    <div class="logout" id="eweek-logout" style="display:none;">
+	<span class="logout-link"><a href="/accountManagement?logout=true&amp;formType=logoutForm" alt="Logout" title="Logout"><img src="/icom_includes/toolbars/globaltoolbar/img/logout.png" width="41" height="16" alt="Logout" border="0"></a></span></div>
+
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - EWEEK - with login & register buttons -->
+ 
+ <!-- EWEEK - without login & register buttons -->
+  <div class="globalHeader" id="EWEEK-NonACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-eweek.png" alt="www.eweek.com" width="208" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - EWEEK - without login & register buttons --> 
+
+     <!-- WBG - with login & register buttons -->
+  <div class="globalHeader" id="WBG-ACLHeader" style="display:none">
+    <div class="brandLogo" style="padding: 0 0 0 .5em;">
+      <p><a href="/about-zde"><img src="/icom_includes/toolbars/globaltoolbar/img/logo-webbuyersguide.png" alt="www.webbuyersguide.com" width="282" height="25" align="absmiddle"></a></p>
+    </div>
+    <div class="login-register" id="wbg-login-register" style="display:;"><a href="/accountManagement?formType=loginForm" alt="Login Form" title="Login Form"><img src="/icom_includes/toolbars/globaltoolbar/img/login.png" width="41" height="16" alt="Login" border="0"></a>&nbsp;<a href="/accountManagement?formType=registrationForm" alt="Registration Form" title="Registration Form"><img src="/icom_includes/toolbars/globaltoolbar/img/register.png" width="56" height="16" alt="Register" border="0"></a>
+	</div>
+    <div class="logout" id="wbg-logout" style="display:none;">
+	<span class="logout-link"><a href="/accountManagement?logout=true&amp;formType=logoutForm" alt="Logout" title="Logout"><img src="/icom_includes/toolbars/globaltoolbar/img/logout.png" width="41" height="16" alt="Logout" border="0"></a></span></div>
+
+    <div class="clearfloat"></div>
+  </div>
+ <!-- End - EWEEK - with login & register buttons -->  
+ 
 <script language="Javascript" src="/icom_includes/toolbars/globaltoolbar/scripts/brandingcode.js"></script>
 
 <div style="margin-top:0px; margin-left:20px; margin-right:20px;"><font class="" style=""><table width="813" align="center"><tbody><tr><td>
@@ -485,6 +619,10 @@ email at <a href="mailto:info@quinstreet.com"><strong>info@quinstreet.com</stron
 	text-align:center; 
 	margin:0 auto; 
 }
+.footerLogoClass{
+	text-align:center; 
+	margin:0 auto; 
+}
 
 
 </style>
@@ -530,12 +668,145 @@ email at <a href="mailto:info@quinstreet.com"><strong>info@quinstreet.com</stron
 		</div>
 	</div>
 	<!-- End - ITBE Network Footer -->
+
+	<!-- Start - ZDE - ziffdavisenterprise Footer -->
+	<div id="zde-footer" style="display:none" class="footerLogoClass">
+		<div>
+			<img src="/icom_includes/footers/img/zde.png" border="0">
+		</div>
+		<div id="footercopyright">
+			<script type="text/javascript">
+			document.write(' Copyright ');
+			var today = new Date();
+			document.write( + today.getFullYear());
+			document.write(' QuinStreet Inc. All Rights Reserved.');
+			</script> Copyright 2020 QuinStreet Inc. All Rights Reserved.
+			<noscript>
+			Copyright 2012 Quinstreet Inc. All right reserved.
+			</noscript>
+		</div>
+		<div id="footerlinks">
+			 <a href="/terms">Terms of Service</a> | <a href="/licensing">Licensing &amp; Permissions</a> | <a href="/privacy">Privacy Policy</a>  <br>   <a href="/about-zde">About Ziff Davis Enterprise Network</a> | <a href="/mediakit/index.html">Advertise</a>
+		</div>
+	</div>
+	<!-- End - ZDE - ziffdavisenterprise Footer -->	
+	
+	<!-- Start - ZDE - baselinemag Footer -->
+	<div id="baseline-footer" style="display:none" class="footerLogoClass">
+		<div>
+			<img src="/icom_includes/footers/img/baselinemag.png" border="0">
+		</div>
+		<div id="footercopyright">
+			<script type="text/javascript">
+			document.write(' Copyright ');
+			var today = new Date();
+			document.write( + today.getFullYear());
+			document.write(' QuinStreet Inc. All Rights Reserved.');
+			</script> Copyright 2020 QuinStreet Inc. All Rights Reserved.
+			<noscript>
+			Copyright 2012 Quinstreet Inc. All right reserved.
+			</noscript>
+		</div>
+		<div id="footerlinks">
+			 <a href="/terms">Terms of Service</a> | <a href="/licensing">Licensing &amp; Permissions</a> | <a href="/privacy">Privacy Policy</a>  <br>   <a href="/about-zde">About Ziff Davis Enterprise Network</a> | <a href="/mediakit/index.html">Advertise</a>
+		</div>
+	</div>
+	<!-- End - ZDE - baselinemag Footer -->	
+
+	<!-- Start - ZDE - cioinsider Footer -->
+	<div id="cinsider-footer" style="display:none" class="footerLogoClass">
+		<div>
+			<img src="/icom_includes/footers/img/cioinsider.png" border="0">
+		</div>
+		<div id="footercopyright">
+			<script type="text/javascript">
+			document.write(' Copyright ');
+			var today = new Date();
+			document.write( + today.getFullYear());
+			document.write(' QuinStreet Inc. All Rights Reserved.');
+			</script> Copyright 2020 QuinStreet Inc. All Rights Reserved.
+			<noscript>
+			Copyright 2012 Quinstreet Inc. All right reserved.
+			</noscript>
+		</div>
+		<div id="footerlinks">
+			 <a href="/terms">Terms of Service</a> | <a href="/licensing">Licensing &amp; Permissions</a> | <a href="/privacy">Privacy Policy</a>  <br>   <a href="/about-zde">About Ziff Davis Enterprise Network</a> | <a href="/mediakit/index.html">Advertise</a>
+		</div>
+	</div>
+	<!-- End - ZDE - cioinsider Footer -->	
+
+	<!-- Start - ZDE - cioinsight Footer -->
+	<div id="cioinsight-footer" style="display:none" class="footerLogoClass">
+		<div>
+			<img src="/icom_includes/footers/img/cioinsight.png" border="0">
+		</div>
+		<div id="footercopyright">
+			<script type="text/javascript">
+			document.write(' Copyright ');
+			var today = new Date();
+			document.write( + today.getFullYear());
+			document.write(' QuinStreet Inc. All Rights Reserved.');
+			</script> Copyright 2020 QuinStreet Inc. All Rights Reserved.
+			<noscript>
+			Copyright 2012 Quinstreet Inc. All right reserved.
+			</noscript>
+		</div>
+		<div id="footerlinks">
+			 <a href="/terms">Terms of Service</a> | <a href="/licensing">Licensing &amp; Permissions</a> | <a href="/privacy">Privacy Policy</a>  <br>   <a href="/about-zde">About Ziff Davis Enterprise Network</a> | <a href="/mediakit/index.html">Advertise</a>
+		</div>
+	</div>
+	<!-- End - ZDE - cioinsight Footer -->	
+
+	<!-- Start - ZDE - eweek Footer -->
+	<div id="eweek-footer" style="display:none" class="footerLogoClass">
+		<div>
+			<img src="/icom_includes/footers/img/eweek.png" border="0">
+		</div>
+		<div id="footercopyright">
+			<script type="text/javascript">
+			document.write(' Copyright ');
+			var today = new Date();
+			document.write( + today.getFullYear());
+			document.write(' QuinStreet Inc. All Rights Reserved.');
+			</script> Copyright 2020 QuinStreet Inc. All Rights Reserved.
+			<noscript>
+			Copyright 2012 Quinstreet Inc. All right reserved.
+			</noscript>
+		</div> 
+		<div id="footerlinks">
+			 <a href="/terms">Terms of Service</a> | <a href="/licensing">Licensing &amp; Permissions</a> | <a href="/privacy">Privacy Policy</a>  <br>   <a href="/about-zde">About Ziff Davis Enterprise Network</a> | <a href="/mediakit/index.html">Advertise</a>
+		</div>
+	</div>
+	<!-- End - ZDE - eweek Footer -->	
+
+	<!-- Start - ZDE - wbg Footer -->
+	<div id="wbg-footer" style="display:none" class="footerLogoClass">
+		<div>
+			<img src="/icom_includes/footers/img/wbg.png" border="0">
+		</div>
+		<div id="footercopyright">
+			<script type="text/javascript">
+			document.write(' Copyright ');
+			var today = new Date();
+			document.write( + today.getFullYear());
+			document.write(' QuinStreet Inc. All Rights Reserved.');
+			</script> Copyright 2020 QuinStreet Inc. All Rights Reserved.
+			<noscript>
+			Copyright 2012 Quinstreet Inc. All right reserved.
+			</noscript>
+		</div>
+		<div id="footerlinks">
+			 <a href="/terms">Terms of Service</a> | <a href="/licensing">Licensing &amp; Permissions</a> | <a href="/privacy">Privacy Policy</a>  <br>   <a href="/about-zde">About Ziff Davis Enterprise Network</a> | <a href="/mediakit/index.html">Advertise</a>
+		</div>
+	</div>
+	<!-- End - ZDE - wbg Footer -->		
+	
 	<!-- Forums developer Footer -->
 	<div id="developerBrandForum-footer" style="display:none">
 	<div id="acceptableusepolicy">
 		<a href="/aup.html" target="_blank">Acceptable Use Policy</a>
 	</div>
-	<div id="developerlogo">
+	<div id="developerforumlogo">
 		<a href="http://www.developer.com" target="_blank"><img src="/icom_includes/footers/img/developer_logo.jpg" border="0"></a>
 	</div>
 	<div id="footercopyright">
@@ -559,7 +830,7 @@ email at <a href="mailto:info@quinstreet.com"><strong>info@quinstreet.com</stron
 	<div id="acceptableusepolicy">
 		<a href="/aup.html">Acceptable Use Policy</a>
 	</div>
-	<div id="itbelogo">
+	<div id="itbeforumlogo">
 		<a href="http://www.itbusinessedge.com" target="_blank"><img src="/icom_includes/footers/img/itbe.gif" border="0"></a>
 	</div>
 	<div id="footercopyright">
