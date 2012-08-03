@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsiveed.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425064726id_/http%3A//www.responsiveed.com%3Fpage_id%3D823) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsiveed.com privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803035111id_/http%3A//www.responsiveed.com%3Fpage_id%3D823) for the most accurate reproduction.*
 
 # Responsive Education Solutions - Privacy Policy
 
