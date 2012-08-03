@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503162814id_/http%3A//www.conservative.ca/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803171015id_/http%3A//www.conservative.ca/%3Fpage_id%3D1153) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Conservative Party of Canada
 
 **Our Commitment to Protecting Your Privacy**
 
 Your privacy is important to us. The Conservative Party will respect your privacy through the protection of any of your personal information that you provide to us. We take great care to keep both confidential and secure all personal information in our possession.
 
-What is "Personal Information"
+**What is “Personal Information”**
 
-"Personal Information" is information about an identifiable individual. It may include information such name, address, telephone number and other contact information.
+“Personal Information” is information about an identifiable individual. It may include information such name, address, telephone number and other contact information.
 
 **How Your Personal Information may Reach Us**
 
@@ -26,7 +26,7 @@ Your information is used to communicate with you, or to facilitate your particip
 
 Because the Conservative Party is a national organization with a riding-based membership system, your personal information may also be used by our local riding associations including by contestants for nominations. For example, if you have made a financial contribution, the local riding may contact you to see if you would like to continue your support.
 
-As a federal political party registered under the Canada Elections Act, the Conservative Party including its “electoral district associations" (riding associations) are subject to extensive regulation under that Act, including in particular public disclosure requirements for contributions over $200.
+As a federal political party registered under the Canada Elections Act, the Conservative Party including its “electoral district associations” (riding associations) are subject to extensive regulation under that Act, including in particular public disclosure requirements for contributions over $200.
 
 We will not sell your personal information that you have chosen to provide us, nor will we disclose it to third parties except as required by the Elections Act.
 
@@ -38,7 +38,7 @@ We maintain security systems to safeguard your personal information from unautho
 
 We will strive to ensure that the personal information we have on file for you is accurate and up-to-date as is necessary for the purposes for which it is to be used. If any information needs to be updated or amended, we will make every effort to change our records, and will inform those of our offices having access to the information in question.
 
-You may update or correct the personal information you provide to us by e-mailing us at membership@conservative.ca.
+You may update or correct the personal information you provide to us by e-mailing us at [membership@conservative.ca](mailto:membership@conservative.ca).
 
 **Links to Other Web Sites**
 
@@ -46,8 +46,8 @@ Our web site contains links to a limited number of other web sites. The Conserva
 
 **How to Contact Us**
 
-Each employee or agent of the Conservative Party is responsible for maintaining and protecting all personal information under their control. If you have any questions about the Conservative Party privacy policy or the information we collect, please contact us, or by regular mail at
+Each employee or agent of the Conservative Party is responsible for maintaining and protecting all personal information under their control. If you have any questions about the Conservative Party privacy policy or the information we collect, please [contact us](http://www.conservative.ca/?page_id=72 "Contact"), or by regular mail at:
 
 Conservative Party of Canada  
-1204 - 130 Albert St.  
+1204 – 130 Albert St.  
 Ottawa, ON K1P 5G4
