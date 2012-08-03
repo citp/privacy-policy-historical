@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viikii.net privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604080921id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viikii.net privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803233659id_/http%3A//www.viikii.net/privacy) for the most accurate reproduction.*
 
-# Viki
+# Viki.com
 
 Revised: December 2, 2010
 
@@ -76,8 +76,10 @@ Viki is a global TV site, where millions of people watch their favorite shows, m
 
   * [Blog](http://blog.viki.com/)
   * [About Us](https://web.archive.org/about)
-  * [Our Community](https://web.archive.org/translator_community)
+  * [Our Community](https://web.archive.org/community)
   * [Our Partners](https://web.archive.org/partners)
+  * [Mobile](https://web.archive.org/mobile)
+  * [Sitemap](https://web.archive.org/sitemap)
   * [Contact Us](https://web.archive.org/contact)
   * [Press](https://web.archive.org/press)
   * [Jobs](https://web.archive.org/jobs)
