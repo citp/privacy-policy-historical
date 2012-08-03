@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougetpaidtoadvertise.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602210430id_/http%3A//www.yougetpaidtoadvertise.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougetpaidtoadvertise.com privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803230832id_/http%3A//www.yougetpaidtoadvertise.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
