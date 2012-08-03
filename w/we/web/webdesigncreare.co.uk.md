@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesigncreare.co.uk privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507101717id_/http%3A//www.webdesigncreare.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesigncreare.co.uk privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803133220id_/http%3A//www.creare-webdesign.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Creare Group
 
