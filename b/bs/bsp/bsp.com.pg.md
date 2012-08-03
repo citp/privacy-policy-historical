@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsp.com.pg privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508024718id_/http%3A//www.bsp.com.pg/General/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsp.com.pg privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803034515id_/http%3A//www.bsp.com.pg/General/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bank South Pacific
 
