@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the hitcrusher.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124164105id_/http%3A//hitcrusher.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitcrusher.com privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803042551id_/http%3A//hitcrusher.com%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# HitCrusher - Traffic Exchange
+# HitCrusher.com - Manual Traffic Exchange
+
+  
+
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR hitcrusher.com**
 
