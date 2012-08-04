@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ebackpack.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109183636id_/http%3A//www.ebackpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebackpack.com privacy policy that was archived on 2012-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120804205314id_/https%3A//www.ebackpack.com/privacy) for the most accurate reproduction.*
 
-# Home | eBackpack
+# digital student storage | assignments | collaboration | workflow | student web locker | eBackpack
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](https://web.archive.org/web/20110109183636id_/http%3A//www.ebackpack.com/terms) or as otherwise required by law. 
-  * We transfer information about you if eBackpack, LLC or part of it is acquired by or merged with another company. In this event, eBackpack will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](https://web.archive.org/web/20120804205314id_/https%3A//www.ebackpack.com/terms) or as otherwise required by law. 
+  * We transfer information about you if eBackpack, Inc or part of it is acquired by or merged with another company. In this event, eBackpack will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
 
@@ -31,8 +31,7 @@ eBackpack uses third party vendors and hosting partners to provide the necessary
 
 ** DISCLOSURE **
 
-eBackpack may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://web.archive.org/web/20110109183636id_/http%3A//www.ebackpack.com/terms) 
-
+eBackpack may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://web.archive.org/web/20120804205314id_/https%3A//www.ebackpack.com/terms)
 
 ** CHANGES **
 
