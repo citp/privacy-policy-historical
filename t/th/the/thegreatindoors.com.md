@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreatindoors.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512190744id_/http%3A//www.thegreatindoors.com/shc/s/nb_10156_23151_NB_CSprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreatindoors.com privacy policy that was archived on 2012-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120805010142id_/http%3A//www.thegreatindoors.com/csprivacy/nb-100000000357010) for the most accurate reproduction.*
 
 # Appliances, Lighting, Bath & Kitchen Fixtures - TheGreatIndoors.com
 
@@ -57,7 +57,7 @@ Back to top
 
 How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click [here](https://web.archive.org/shc/s/nb_10156_23151_NB_CSchildprivacy?adCell=W4) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Please click [here](https://web.archive.org/cschildprivacy/nb-100000000357008?adCell=W4) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
 
   * Collection of children’s personal information
   * Use of children’s personal information
