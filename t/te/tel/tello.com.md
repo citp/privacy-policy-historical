@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531044841id_/https%3A//www.tello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2012-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120804064147id_/https%3A//www.tello.com/privacy) for the most accurate reproduction.*
 
 # Tello
 
