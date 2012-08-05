@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100nests.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505004016id_/http%3A//www.100nests.com/privacypolicy%2520.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100nests.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806014912id_/http%3A//www.100nests.com/privacypolicy%2520.php) for the most accurate reproduction.*
 
 # 100nests.com - Complete entertainment portal, Send SMS, Play Games, Watch Videos,Movie Tailors, Bollywood and Hollywood wallpapers and many more
 
