@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lb.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017160239id_/http%3A//lb.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lb.com privacy policy that was archived on 2012-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120805052839id_/http%3A//www.lb.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
