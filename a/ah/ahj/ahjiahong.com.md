@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahjiahong.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118191736id_/http%3A//www.ahjiahong.com/pp.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahjiahong.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806014841id_/http%3A//www.ahjiahong.com/pp.aspx) for the most accurate reproduction.*
 
 # Wuhu jiahong New Material CO.,Ltd 芜湖佳宏新材料有限公司
 
