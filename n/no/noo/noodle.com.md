@@ -1,42 +1,32 @@
-> *The following text is extracted and transformed from the noodle.com privacy policy that was archived on 2000-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodle.com privacy policy that was archived on 2012-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120805181552id_/http%3A//noodle.com/reflex_privacy_policy.html) for the most accurate reproduction.*
 
-# Hungry Minds
+# None
 
-| -| [Vision](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/index.html)  
----|---  
--| [Products](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/products.html)  
-| -| [Customized eLearning Sites](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/customized_elearning.html)  
-| -| [Private Label Certificate Programs](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/private_certification.html)  
--| [Partners](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/partners.html)  
--| [Investors Overview](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=idgb&script=100)  
--| [Academic Advisors](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/academicadvisors.html)  
--| [Press Releases](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/pressreleases.html)  
--| [In the News](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/inthenews.html)  
--| [Money-back Guarantee](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/moneybackguarantee.html)  
--| [Partner with Us](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/partnerwithus.html)  
--| [Advertise with Us](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/advertise.html)  
--| [Link to Us](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/linktous.html)  
--| [Contact Us](https://web.archive.org/web/20001019191900id_/http%3A//www.noodle.com/aboutus/contactus.html)  
-**Privacy Statement**   
-We at Hungry Minds believe that all of the information that we gather about you should be used for no other purpose than to help you find the most rewarding learning products and services available. We will never sell your personal information to other companies. Your privacy is important to us and we will do everything possible to protect it. 
+Welcome to this Reflex Publishing, Inc. ("Reflex") site. This policy describes the information collected on this site and how it may be used and/or shared. 
 
-In that spirit, Hungry Minds has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: 
+Regarding IP Addresses. Reflex and/or third parties use your IP address to identify you, gather broad demographic information, help diagnose problems with our server, and to administer our site. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. IP addresses help us gather broad demographic information. We may use your IP address and cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+Regarding Cookies. Reflex and/or third parties may be placing or reading "cookies" on your internet browser. Cookies are bits of text transferred to your computer hard drive through your browser. They allow Reflex and/or third party systems to recognize your browser, remember your information and link your activities to you. Should you block or disable these cookies, this site may not work and/or appear as intended. Nevertheless, if you want to take these steps, you can do so by following instructions related to your browser. Cookies collect types of information such as the following: 
 
-Our site's registration form requires users like you to give us contact information (like their name and email address), financial information (like your account or credit card numbers), and demographic information (like your ZIP code, age, or income level). We may use your contact information from the registration form to send you information about our company and also to contact you when appropriate. You may opt-out of receiving future mailings (see the Choice/opt-out section below). Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. This information may be shared with advertisers on an aggregate basis only. 
+  * Site traffic (for example: the domain name and host from which you access the internet and the internet address of the site from which you came to ours),
+  * Statistics (for example: the date and time you access our site, the keywords and/or links clicked, and the pages you visit),
+  * IP information (for example: your computer's IP address, information about the operating system, platform and web browser type/version you utilize),
+  * Demographic information & other non-personally identifiable information about you,
+  * Advertisement information, and/or
+  * Information to fight fraud or misuse.
 
-This site contains links to other sites. Hungry Minds is not responsible for the privacy practices or the content of such Web sites. 
 
-Hungry Minds has several special relationships with partners who co-brand products and services on the Hungry Minds Web site. Other than aggregate user information, no personal information collected from our users will be shared with these partners unless you permit us. 
 
-From time to time, we may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+Regarding Personally Identifiable Information. Some Reflex sites may collect personally identifiable information when you choose to provide it through a contact form, registration form or when purchasing a service or product. This type of information may include your name, addresses, email addresses, phone numbers, and financial information. This information is used to contact you in reference to an inquiry, to manage and/or promote our relationship with you. 
 
-**Public forums**   
-This site makes chat rooms, forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+Regarding Sensitive Information. Some Reflex sites may, as part of your purchase of a product or service, collect sensitive information, such as your credit card number. In such case, sensitive information will be encrypted and protected with SSL, the current industry standard encryption protocol. You will know you are on such an SSL page when you see a picture of a closed lock at the bottom or top of some Web browsers. Another way to tell if you are on a secure page is to look at the address or URL of the page. (Look in the address box or right-click on the page and select "Properties".) These secure SSL encrypted pages have URLs that start with https:// instead of http://.
 
-**Choice/opt-out**   
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+Regarding Information Collected by Third Parties. This site may consist of third-party advertising, links to other sites, and/or content from third parties. Reflex may share non-personally identifiable (for example: demographic) information to facilitate the delivery of relevant content and/or advertisements. Third party sites, businesses, advertisers, or advertising entities working on their behalf, sometimes use technology to deliver the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons, and other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and identification of advertisers that provide an opt-out mechanism, please visit the following: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-**Contacting us**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Hungry Minds Customer Service at [help@hungryminds.com](mailto:help@hungryminds.com). 
+Regarding ownership and transfer of information. All information collected on this site is considered to be an asset of Reflex and as such may be shared and/or transferred as described in this policy and/or as part of an acquisition (or contemplated acquisition) of Reflex and/or this site.
+
+Regarding changes to this policy. Reflex may alter this policy from time to time, so you are encouraged to review the policy periodically. 
+
+Legal Disclaimer. Reflex may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our Web site.
+
+If you have further questions, send an email to [priv@reflex.com](mailto:priv@reflex.com). 
