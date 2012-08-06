@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinfra.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207185914id_/http%3A//www.rinfra.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinfra.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806154918id_/http%3A//rinfra.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Reliance Infrastructure
 
