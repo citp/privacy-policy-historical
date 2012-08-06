@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomoresandbox.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204608id_/http%3A//nomoresandbox.com/%3Fpage_id%3D99) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomoresandbox.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806214457id_/http%3A//nomoresandbox.com/%3Fpage_id%3D99) for the most accurate reproduction.*
 
 # Privacy Policy | No More Google Sandbox
 
