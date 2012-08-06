@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfmc.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603192224id_/http%3A//www.cfmc.com/about-us/contact-us/cfmc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfmc.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806080156id_/http%3A//www.cfmc.com/about-us/contact-us/cfmc-privacy-policy) for the most accurate reproduction.*
 
 # CfMC Privacy Policy | CfMC Research Software
 
