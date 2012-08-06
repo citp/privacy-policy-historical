@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126045656id_/https%3A//www.virginiamason.org/body.cfm%3Fid%3D161) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806224042id_/https%3A//www.virginiamason.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
