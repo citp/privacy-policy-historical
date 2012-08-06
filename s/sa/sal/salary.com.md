@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salary.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608063935id_/http%3A//www.salary.com/home/htmls/hom_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salary.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806021917id_/http%3A//www.salary.com/home/htmls/hom_privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
