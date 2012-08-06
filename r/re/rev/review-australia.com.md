@@ -1,55 +1,162 @@
-> *The following text is extracted and transformed from the review-australia.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618075813id_/http%3A//www.review-australia.com/content/view/57/70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-australia.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806041408id_/http%3A//www.review-australia.com/customer-service%23terms) for the most accurate reproduction.*
 
-# Review Australia - Privacy Policy
+# Customer Service | Review Australia
 
-No confidential relationship shall be established in the event that any user of this Internet site makes any oral, written, or electronic communication to Review Australia (eg. feedback, comments, suggestions, questions, etc). All submissions such as these shall be considered non-confidential and Review may exercise the right to reproduce, publish or otherwise use such information (including any ideas, inventions, concepts and techniques) for any purpose including developing, manufacturing and/or marketing of goods and services. The sender of any information to Review is fully responsible for its content, truthfulness and accuracy.
+## Delivery
 
-### Use of your personal information:
+**FOR A LIMITED TIME ONLY WE HAVE  FREE SHIPPING ON ALL ORDERS WITHIN AUSTRALIA! ** 
 
-**Reward membership application, Job application, link to the Review Facebook group (Review: shopping and style secrets)**
+Within Australia, Review Australia Pty Ltd (“Review”)  sends parcels via the Australia Post E-Parcel service so please allow 3-5 days for delivery.
 
-By applying for membership, a job with Review Australia, or by using your Facebook profile to join the group Review: shopping and style secrets, you consent to your personal information being used by Review Australia for compiling its customer database and for marketing purposes. 
+A signature is required upon delivery so please select an address where someone is available during business hours to receive your purchase. If for some reason your parcel cannot be delivered, a card will be left and you will then be required to pick up your parcel at the designated Australia Post Office marked on the card. Once the order has been dispatched, your tracking details will be emailed to you.
 
-We may also use your personal information for the following purposes: 
+For International orders, we send our parcels via Australia Post International Registered Post service. Please allow 5-10 working days for delivery. New Zealand orders are a flat rate of $9.95. And for all other international orders we charge a flat rate of $25.00.
 
-  * To assist us in creating and publishing content that ensures our site is relevant to you. 
-  * To deliver services, such as fashion and event information, as well as invitations to exclusive promotions. 
-  * To notify you via email, sms, post, or telephone about information relevant to you. 
-  * To refer you to any or all of our sister companies in The PAS Group Pty Ltd as appropriate (eg. for job and/or membership applications) 
+For express post orders, a signature is not required and the parcel will be left at your designated premises.
+
+## Returns
+
+This policy only applies to items purchased from Review online, and we will only accept returns purchased from our online store. For refunds, exchanges or returns for items purchased at a Myer Concession or boutique, please go to that store directly. Please be aware that Review retail stores have different Terms & Conditions of sale than those of the Review online store. For more information regarding Review store terms and conditions please contact our customer care department- **[enquiries@review-australia.com](mailto:enquiries@review-australia.com) **or enquire in store.
+
+Review reserves the right to assess the condition and age of all returned items and this may result in items not being accepted for return, exchange, refund or repair.
+
+Please note that Review fabrics are delicate so please follow the instructions on the garment care label.
+
+**Exchanges & Returns**
+
+We appreciate it's not always easy buying the perfect garment online and we understand that you may need to return or exchange items occasionally. You may return or exchange your online purchase to a Review Boutique store or post it back to our online store. Myer Concessions and Review Outlet Stores are unable to accept online returns.  
+
+We are happy to accept returns that have not been worn or used and have the original tags still attached. On receiving your returned item we will gladly send you a replacement garment if it’s available or refund your purchase price (excluding the freight fee).
+
+Please return your item(s) within 14 days of receiving your order. After 30 days, Review cannot accept returns for any reason other than manufacturing defects (detailed further below).
+
+All returned items must be accompanied by a completed copy of the Return/Exchange Form as well as a copy of the invoice, receipt and/or proof of purchase.
+
+To return an item:
+
+1.) Pack your item in secure packaging.
+
+2.) Simply fill out the Review Returns Form supplied in with your order, if you didn't receive a Returns Form, please contact us at **[enquiries@review-australia.com](mailto:enquiries@review-australia.com) **for a copy.
+
+3.) When filling in your Returns Form, complete the form with as much detail as possible, for example; complete contact details, reason for return and include a copy of the invoice, receipt and/or proof of purchase.
+
+4.) If you wish to exchange the item for another Review item, please list what product you wish to swap it over for on the form. We will not charge you freight again for exchanges.
+
+5.) Send to:
+
+Review Online   17 Hardner Road, Mt WaverleyVIC , 3149Australia ** ** ** **
+
+**Faulty Garments**
+
+If you have received a faulty garment from an online order, please contact our Customer Service Department on (03) 9902 5400 or **[enquiries@review-australia.com](mailto:enquiries@review-australia.com) **to arrange an immediate exchange.
+
+If you are returning the item by post to us,  please also follow the process described in item numbers 1 to 5 above.
+
+The alleged fault must be clearly identified to us. Items returned to us will be assessed.
+
+This policy does not modify your rights under the under the Competition and Consumer Act 2010 & equivalent State or Territory legislation. Where permitted by law, all other rights are excluded.
+
+Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and for compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure.
+
+## Payment
+
+**Payment Methods**
+
+We accept all major credit cards including, Visa, Mastercard, American Express and Diners. We also allow payments via PayPal and BPAY. Please note, as BPAY payments can take up to 3 business days to clear, orders will not be despatched until payment is received.
+
+**Website Security**
+
+Protecting your personal information is a top priority at Review online. You can order with confidence as we have a completely secure transaction process. We use Secure Sockets Layer (SSL) technology. This encrypts and protects data, including your credit card and personal information passed from you to Review online.  
+
+## Sizing
+
+## Privacy
+
+**Respecting your privacy and the law**
+
+Review Australia Pty Ltd recognises the privacy concerns of its customers, clients, contacts and the users of our website.
+
+This policy outlines how we manage your personal information and applies to all your dealings with us, both online and offline.  We are committed to complying with all applicable Australian privacy laws. We encourage you to check our website regularly for any updates to this policy.
+
+In this policy any reference to “Review”, “we”, “us” or “our” is a reference to Review Australia Pty Ltd or any our related bodies corporate.
+
+**Collecting your personal information**
+
+We will collect personal information in a fair and lawful manner and as required to fulfil one of our functions and/or your requests.  This includes:
+
+  * Providing you with goods or services and any related information;
+  * To complete transactions with you or on your behalf;
+  * To better understand your requirements, preferences and feedback; and
+  * To improve our offerings.
 
 
 
-Privacy Notice  
-Copyright (c) 2007 Review Australia  
-All Rights Reserved
+You will know if we are collecting personal information from you because you will be requested to provide it. This may occur when you:
 
-The information, documents, and graphics published on this Internet site are and remain the sole property of REVIEW AUSTRALIA PTY LTD ACN 122 295 836. Permission to print or otherwise distribute all or a portion of the information or documents appearing on this Internet site is allowed, provided that (1) a legend is affixed to any copies printed or distributed so that it is clear that the information contained therein is the sole property of Review Australia; (2) the copyright notice Copyright (c) 2007 REVIEW AUSTRALIA appears on all copies; (3) the use of the information is for non-commercial or personal use only; (4) the information is not modified in any manner; and (5) no graphics from this Internet site are used or reproduced.
+  * purchase or pre order goods or services, especially when we arrange delivery;
+  * join one of our loyalty programs;
+  * leave goods for repair, exchange or refund;
+  * use our services, for example lay buy;
+  * provide feedback; 
+  * join, subscribe or connect to our online communities, accounts and/or other social media providers in relation to our goods or services; or 
+  * contact us, including by calling our call centre.
 
-### Privacy
 
-Your privacy is important to us. Review Australia will take all reasonable steps to ensure that any personal information collected by us is minimal, correct and secure. Except where otherwise appropriate, we will treat your personal information as private. 
 
-What personal information we collect  
-We may collect a variety of personal information directly from you, such as when you provide your personal details on our website, by phone, via Facebook, or when you apply for a membership (either via our website, or in person at a Review store or concession site). We only collect personal information to the extent that it is necessary to our business.
+The only exception to this is where someone else provides us with your personal information. We cannot prevent a third party from providing us with your personal information without your authority. 
 
-### Use of "cookies"
+It is intended that our website can be used anonymously. However, for some functions of our website the collection of personal information is necessary or unavoidable. When you visit our website, we may collect general information that will not personally identify you, such as your:
 
-Our Internet site records other information apart from personal information you provide. We use "cookies" to assist us in improving the structure and performance of our Internet site and the service we provide you. 
+  * Internet browser;
+  * operating system;
+  * date of visit;
+  * time of visit; and
+  * path taken through the site.
 
-Cookies are pieces of information that a website can transfer to an individual's hard drive for record keeping. Cookies are uniquely designed to you and can only be read by a web server in the domain that issued the cookie to you.
 
-Cookies are primarily used by us to save time when accessing our Internet site by telling your web server that you have returned to a specific page. This simplifies the process of providing our service on our Internet site to you.
 
-Cookies are frequently used by most major websites, and most Internet browsers are preset to accept cookies. You can adjust your Internet browser to disable cookies, but we may not be able to provide you all the services you require on our website if you do so. 
+This information alone does not identify an individual and we will not combine it with information that does identify you as an individual. It provides usage data so that we can produce statistics that we use to analyse and improve our website.
 
-### To whom personal information is disclosed
+**Cookies**
 
-We do not sell, rent or lease personal information we collect from you to third parties. The only circumstance in which third parties may be given access to your personal information is when a related company, contractor or service provider acting on our behalf is helping us operate our business or provide a service to you on our behalf. We require these organizations to agree to our Privacy Policy and to strict conditions governing how personal information may be used. We may provide you with joint promotional offers in conjunction with third parties. These promotional offers are developed in line with your needs. Should you wish to withdraw all personal information from our database and files, please contact Review Australia on +61 3 9417 8200. 
+Cookies may be used on our websites.  Cookies are used to gather statistical information that helps us understand what you find interesting and useful on our website. These cookies are known as your "Unique Visitor Cookie" and identify you only by random number (e.g. #12489). You can decline our cookies by adjusting the "accept cookies" setting on your browser, however this may affect the functionality of our website on your browser.
 
-### Security of personal information
+**Use of your personal information**
 
-We take reasonable steps to protect personal information we collect and ensure that it is accurate, complete and up-to-date. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we endeavor to protect your personal information from misuse, loss and unauthorized access, we cannot guarantee the security of any information you send us or receive from our website products or services. 
+We will only use your personal information to meet the purpose for which it was provided and/or as set out in this Policy. We will use your information to provide you with our or third party goods or services and any related information, for marketing purposes (including direct marketing) and for use in planning, development and research.
 
-### Access to and correcting personal information
+Our website may provide you with the opportunity of electing to receive information about specials or other goods and services offered by Review. You may notify us if you do not want to receive direct marketing communications or any communications from us, by contacting us on the below provided details.
 
-If you believe that any personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us and we will take reasonable steps to ensure that it is corrected. We may require you to provide us with some type of personal identification to enable us to verify that you are who you say you are.
+**Disclosure**
+
+We may disclose your personal information to third party service providers and our related bodies corporate that assist us in providing goods or services to you.  For example, payments on our website are processed by a third party. We may also disclose your personal information to other third parties with your consent or to protect the integrity of our website, goods or services or as authorised or required by law.
+
+**Storage, access to and correction of information**
+
+We will endeavour to take all reasonable steps in order to ensure that your personal information is kept secure, accurate and up to date.
+
+You may request access to your personal information held by us by contacting us in writing. At your request we will provide you with your personal information details which we hold. We may charge a reasonable fee for responding to an access request.
+
+If, at any time, you discover that information held about you is incorrect, you may contact us to have the information corrected. This information will be corrected unless we have reasonable grounds to believe that the information is correct.
+
+**Links to other sites**
+
+You will be able to access external websites by clicking on links provided on our website. Those external websites may not be subject to this policy. XX does not monitor these sites and is not responsible for their content. We strongly recommend that you contact or review those external websites directly to ascertain their respective privacy standards.
+
+We are not responsible for the content, policies, practices, security or the privacy obligations of any external websites, including the website to which you will be directed if you make a payment to us online.
+
+**Changes to this Policy**
+
+We reserve the right to amend this policy at any time and for any reason. We will post the amended terms on our website as they occur and encourage you to check for updates.
+
+**Limited liability**
+
+To the full extent permitted by law, we do not accept responsibility for any failure to comply with this policy or Australian privacy laws.
+
+**Applicable laws**
+
+This policy is governed by the laws in force in Victoria, Australia and you submit to the non-exclusive jurisdiction of the courts of Victoria, Australia and any courts which may hear appeals from those courts in respect of any proceedings in connection with this policy or website.
+
+**Contact Review about this Policy**
+
+If you have any questions or comments regarding this policy, please use the ‘[Contact](https://web.archive.org/customer-service#contactus/)’ page available from this website.
