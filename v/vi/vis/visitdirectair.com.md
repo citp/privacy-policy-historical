@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitdirectair.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520152354id_/http%3A//www.visitdirectair.com/policies_and_procedures/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdirectair.com privacy policy that was archived on 2012-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120807054704id_/http%3A//www.visitdirectair.com/policies_and_procedures/policy) for the most accurate reproduction.*
 
 # Direct Air - Myrtle Beach Vacation Packages and Direct Flights to Myrtle Beach from Niagara Falls, Newark, Pittsburgh, Gulfport, Chicago and Tampa
 
