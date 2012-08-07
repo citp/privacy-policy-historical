@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyme.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309135243id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D149%26fullScreen%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyme.com privacy policy that was archived on 2012-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120807234913id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D149%26fullScreen%3Dtrue) for the most accurate reproduction.*
 
 # Disney
 
