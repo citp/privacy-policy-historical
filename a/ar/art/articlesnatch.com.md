@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesnatch.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503144614id_/http%3A//www.articlesnatch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnatch.com privacy policy that was archived on 2012-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120807203536id_/http%3A//www.articlesnatch.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleSnatch Free Article Directory Privacy Policy
 
