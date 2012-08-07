@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323001733id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2012-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120807212858id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy Explains How Great Western Bank is Dedicated to Protecting Your Privacy
 
@@ -76,12 +76,12 @@ Definitions
   
 ---  
 **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.  
-•   Great Western Financial Services, Inc. as an affiliate of Great Western Bank.  
+_•   Our affiliates include companies with a Great Western Financial Services, Inc. name._  
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
-•   Great Western Bank does not share with nonaffiliates so they can market to you.  
+_•   Great Western Bank does not share with nonaffiliates so they can market to you._  
 **Joint Marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
-•   Great Western Bank doesn’t jointly market.  
+_•   Great Western Bank doesn’t jointly market._  
   
 * * *
 
-[Click here](https://web.archive.org/_files/files/GWBPrivacyPolicy2012.pdf) to open a pdf version of Great Western Bank's Privacy Policy.
+[Click here](https://web.archive.org/_files/files/PrivacyPolicy_8_2012.pdf) to open a pdf version of Great Western Bank's Privacy Policy.
