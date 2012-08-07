@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live5news.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505061036id_/http%3A//www.live5news.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live5news.com privacy policy that was archived on 2012-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120807154845id_/http%3A//www.live5news.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Live5News.com | Charleston, SC | News, Weather, Sports
 
