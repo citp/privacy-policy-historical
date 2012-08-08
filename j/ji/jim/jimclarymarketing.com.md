@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimclarymarketing.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214012334id_/http%3A//www.jimclarymarketing.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimclarymarketing.com privacy policy that was archived on 2012-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120808062338id_/http%3A//www.jimclarymarketing.com/privacy-2) for the most accurate reproduction.*
 
 # Privacy | Jim Clary Marketing
 
