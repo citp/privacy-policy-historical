@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyfunnygames.net privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120051029id_/http%3A//www.crazyfunnygames.net/templates/default/files/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyfunnygames.net privacy policy that was archived on 2012-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120808201148id_/http%3A//www.crazyfunnygames.net/templates/default/files/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.freecartoongames.net
 
