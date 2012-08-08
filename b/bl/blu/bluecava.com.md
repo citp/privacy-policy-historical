@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609002424id_/http%3A//www.bluecava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2012-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120808155010id_/http%3A//www.bluecava.com/privacy-policy) for the most accurate reproduction.*
 
 # BlueCava - Privacy Policy
 
