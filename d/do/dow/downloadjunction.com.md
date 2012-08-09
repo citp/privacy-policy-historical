@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadjunction.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510094256id_/http%3A//www.downloadjunction.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadjunction.com privacy policy that was archived on 2012-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120810001400id_/http%3A//www.downloadjunction.com/privacy_policy) for the most accurate reproduction.*
 
 # Download Junction - Download Software, Freeware, Shareware, Games
 
