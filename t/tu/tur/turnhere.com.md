@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnhere.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630135736id_/http%3A//www.turnhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnhere.com privacy policy that was archived on 2012-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120809185416id_/http%3A//www.turnhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — TurnHere.com
 
@@ -90,7 +90,7 @@ TurnHere operates secure data networks protected by industry standard firewall a
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.  
 Contacting Us
 
-If you have any questions or comments about our Privacy Policy, please e-mail us at [legal@turnhere.com](mailto:legal@turnhere.com). Our office address is 1480 64th Street, Ste. 100, Emeryville, CA. 94608.  
+If you have any questions or comments about our Privacy Policy, please e-mail us at [legal@turnhere.com](mailto:legal@turnhere.com). Our office address is 121 2nd Street, Floor 2, San Francisco, CA, 94105.  
 Non-US Users
 
 If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this Web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this web site in the federal and state courts of, and in accordance with the laws of, the state of California.
