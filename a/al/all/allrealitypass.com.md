@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the allrealitypass.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106172326id_/http%3A//join.allrealitypass.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrealitypass.com privacy policy that was archived on 2012-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120809163503id_/http%3A//join.allrealitypass.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **All Reality Pass**
 
 **PRIVACY POLICY STATEMENT**  
-  
   
 
 
