@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoismark.net privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009230808id_/http%3A//www.whoismark.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoismark.net privacy policy that was archived on 2012-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120809022114id_/http%3A//www.whoismark.net/Privacy) for the most accurate reproduction.*
 
 # Free Web Directory
 
