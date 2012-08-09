@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609004543id_/http%3A//www.biovea.com/uk/display.aspx%3FWID%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2012-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120809073819id_/http%3A//www.biovea.com/uk/display.aspx%3FWID%3D24) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,4 +34,4 @@ The email BODY should contain: your membership email address, as well as your fi
 
 [ ](http://www.addthis.com/bookmark.php?v=250&pubid=ra-4fc51ca10414ef67)
 
-[](http://a.pgtb.me/c2Cr)
+[](http://a.pgtb.me/dgQ3)
