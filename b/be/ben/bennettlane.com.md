@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bennettlane.com privacy policy that was archived on 2012-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120215104056id_/http%3A//www.bennettlane.com/Winery/tabid/38/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennettlane.com privacy policy that was archived on 2012-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120809130955id_/http%3A//www.bennettlane.com/Winery/tabid/38/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Bennett Lane Winery
 
@@ -44,4 +44,4 @@ BennettLaneWinery will occasionally update this Statement of Privacy to reflect 
 
 Contact Information
 
-BennettLaneWinery welcomes your comments regarding this Statement of Privacy. If you believe that BennettLaneWinery has not adhered to this Statement, please contact BennettLaneWinery at [achao@rwlynch.com](mailto:achao@rwlynch.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+BennettLaneWinery welcomes your comments regarding this Statement of Privacy. If you believe that BennettLaneWinery has not adhered to this Statement, please contact BennettLaneWinery at [info@bennettlane.com](mailto:info@bennettlane.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
