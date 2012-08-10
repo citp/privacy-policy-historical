@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zodio.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611024051id_/http%3A//www.zodio.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zodio.com privacy policy that was archived on 2012-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120810201209id_/http%3A//www.zodio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zodio
 
@@ -60,7 +60,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 Dispute Resolution
 
-If you believe that Zodio has not adhered to this Privacy Policy you may write to the Zodio Privacy Officer at privacy@zodio.com:
+If you believe that Zodio has not adhered to this Privacy Policy you may write to the Zodio Privacy Officer at [privacy@zodio.com](mailto:privacy@zodio.com):
 
 Modifications to This Privacy Policy
 
