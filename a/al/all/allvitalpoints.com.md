@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620143102id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2012-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120812084241id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | All Vital Points: Health and Fitness
+# Privacy policy » Allvitalpoints's Health and Fitness
+
+Print this Page 
 
 **Your Consent**  
 By using our site, you consent to our privacy policy.
@@ -38,4 +40,4 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 http://www.allvitalpoints.com/terms-conditions/
 
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1863690&afsid=1)
+ **Permanent link to this article:** http://www.allvitalpoints.com/about-us/privacy-policy/
