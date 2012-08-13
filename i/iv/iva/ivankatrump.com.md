@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivankatrump.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619041530id_/http%3A//shop.ivankatrump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivankatrump.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813071312id_/http%3A//shop.ivankatrump.com/privacy-policy) for the most accurate reproduction.*
 
 # Customer Service Privacy Policy at Ivanka Trump
 
