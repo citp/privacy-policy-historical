@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listmyfive.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002103id_/http%3A//listmyfive.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmyfive.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813194938id_/http%3A//www.listmyfive.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
