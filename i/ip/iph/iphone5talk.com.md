@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iphone5talk.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329101739id_/http%3A//www.iphone5talk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone5talk.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813114631id_/http%3A//www.iphone5talk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : iPhone 5 News
-
-### Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
