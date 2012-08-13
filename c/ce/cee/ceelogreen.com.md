@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceelogreen.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508155332id_/http%3A//www.atlanticrecords.com/privacy/eos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceelogreen.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813224339id_/http%3A//www.atlanticrecords.com/privacy/eos) for the most accurate reproduction.*
 
 # Privacy Policy - Atlantic Records
 
