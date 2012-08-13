@@ -1,18 +1,36 @@
-<!--The following is the downloaded HTML source of the listmyfive.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504002103id_/http%3A//listmyfive.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listmyfive.com privacy policy that was archived on 2012-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120813194938id_/http%3A//www.listmyfive.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-18282833-1']);
     _gaq.push(['_trackPageview']);
 
-    (function() {
+    (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>
 
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '130752766971134',
+            status: true, // check login status
+            cookie: true, // enable cookies to allow the server to access the session
+            xfbml: true,
+            logging: '1',
+            oauth: true
+        });
+        jQuery(document).trigger('fb:init');
+    };
+    (function () {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+    } ());
+
+</script>
 
     <meta name="google-site-verification" content="1v_JstAh9qvey9q6RwvZ94WrxqCRbq1SAH-be_gy6uM">
     <meta name="msvalidate.01" content="4996AD3BAEBA48D29C45B818F14AA66B"><meta name="y_key" content="efade99f467d3d13"><title>
@@ -20,11 +38,8 @@
     Privacy Policy
 
 </title><link rel="shortcut icon" href="../Content/Images/Favicon.ico" type="image/x-icon">
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-
     <script src="https://connect.facebook.net/en_US/all.js"></script>
-
     <link href="../Content/Css/Reset.css" rel="stylesheet" type="text/css"><link href="../Content/Css/Final.css" rel="stylesheet" type="text/css"><link href="../Content/Css/Flexibox.css" rel="stylesheet" type="text/css"><link href="../Scripts/Jquery.Plugin/AutoComplete/jquery.autocomplete.css" rel="stylesheet" type="text/css"><script src="/Scripts/Final.js" type="text/javascript"></script>
 
     <!--[if IE 7]>
@@ -494,7 +509,7 @@
 
 
     <div id="fb-root">
-    <script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+    </div>
     <div id="PopUpLogin" style="display: none" title="Login">
         
 <input type="hidden" id="IsLoggedOut" value="">
@@ -645,20 +660,31 @@
 </form>
 
     </div>
-
     <script type="text/javascript">
-        window.fbAsyncInit = function() {
-            FB.init({ appId: '130752766971134', status: true, cookie: true,
-                xfbml: true, oauth: true, logging: '1'
-                
-            });
-        };
-        (function() {
-            var e = document.createElement('script'); e.async = true;
-            e.src = document.location.protocol +
-          '//connect.facebook.net/en_US/all.js';
-            document.getElementById('fb-root').appendChild(e);
-        } ());
+//        window.fbAsyncInit = function() {
+//            FB.init({ appId: '130752766971134', status: true, cookie: true,
+//                xfbml: true, oauth: true, logging: '1'
+//                
+//            });
+//        };
+//        (function() {
+//            var e = document.createElement('script'); e.async = true;
+//            e.src = 'https:' +
+//          '//connect.facebook.net/en_US/all.js';
+//                 
+//            document.getElementById('fb-root').appendChild(e);
+//        } ());
+
+
+
+
+
+
+
+
+
+
+
         function GotoLogin() {
             window.location = '/Account/LogOn';
         }
@@ -709,17 +735,16 @@
         $('#Password').val("");
     }
     </script>
-
     <script type="text/javascript">
-        $(document).ready(function() {
-                    
+        $(document).ready(function () {
+
             $("#FormLogOn").validationEngine();
-            
-            window.setInterval(function() {
-            var randomnumber = Math.floor(Math.random() * 10101)
+
+            window.setInterval(function () {
+                var randomnumber = Math.floor(Math.random() * 10101)
                 if ('False' == 'True') {
-                    $.get("/CommunicationTool/GetInboxCount?id=" + randomnumber, null, function(data) {
-                                               var ele = $("#UnReadMsgCount");
+                    $.get("/CommunicationTool/GetInboxCount?id=" + randomnumber, null, function (data) {
+                        var ele = $("#UnReadMsgCount");
                         if (data == 0) {
                             ele.html("").removeClass("BlockTxt");
                         }
@@ -733,26 +758,26 @@
         });
 
         function FacebookLogin() {
-//            if ($("#IsLoggedOut").val() == 'True') {
-//                FB.logout();
-//                $("#IsLoggedOut").val('');
-//            }
-//            FB.getLoginStatus(function(response) {
-//                if (response.session) {
-//                    //window.location = '/Account/LogOnPopUp/?id=refresh';
-//                    $.post("/Account/LogOnPopUpFaceBook", function(data) {
-//                        if (data == "Success") {
-//                            window.parent.location.reload();
-//                        }
-//                        else {
-//                            OpenPurr('', data);
-//                        }
-//                    });
+            //            if ($("#IsLoggedOut").val() == 'True') {
+            //                FB.logout();
+            //                $("#IsLoggedOut").val('');
+            //            }
+            //            FB.getLoginStatus(function(response) {
+            //                if (response.session) {
+            //                    //window.location = '/Account/LogOnPopUp/?id=refresh';
+            //                    $.post("/Account/LogOnPopUpFaceBook", function(data) {
+            //                        if (data == "Success") {
+            //                            window.parent.location.reload();
+            //                        }
+            //                        else {
+            //                            OpenPurr('', data);
+            //                        }
+            //                    });
 
-//                }
-//                else {
-//                    // no user session available, someone you dont know
-//                }
+            //                }
+            //                else {
+            //                    // no user session available, someone you dont know
+            //                }
             //            });
 
 
@@ -788,7 +813,7 @@
 
         function LoginUser() {
             if ($("#FormLogOn").validationEngine({ returnIsValid: true })) {
-                $.post("/Account/LogOnPopUp/", $("#FormLogOn").serialize(), function(data) {
+                $.post("/Account/LogOnPopUp/", $("#FormLogOn").serialize(), function (data) {
                     SetUserNamePassWordText();
                     if (data == "Success") {
                         $('#PopUpLogin').dialog("close");
