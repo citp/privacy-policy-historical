@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerroom.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305091032id_/http%3A//www.pokerroom.com/help/about-pokerroom/terms-of-service/privacy-policy.html%3Fframework%3Dinline-popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerroom.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813131838id_/http%3A//www.pokerroom.com/help/about-pokerroom/terms-of-service/privacy-policy.html%3Fframework%3Dinline-popup) for the most accurate reproduction.*
 
 # 
 
