@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elanceonline.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117152517id_/https%3A//www.elance.com/p/legal/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elanceonline.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813191855id_/https%3A//www.elance.com/p/legal/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
