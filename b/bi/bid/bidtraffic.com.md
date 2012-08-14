@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidtraffic.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621081150id_/http%3A//www.bidtraffic.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidtraffic.com privacy policy that was archived on 2012-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120814135100id_/http%3A//www.bidtraffic.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BidTraffic - Largest Pay-Per-Click Search Engine Advertising Network
 
