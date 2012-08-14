@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the wire-sculpture.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511151145id_/http%3A//www.wire-sculpture.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wire-sculpture.com privacy policy that was archived on 2012-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120814150929id_/http%3A//www.wire-sculpture.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Jewelry Making Supplies | Wire Jewelry | Wire-Sculpture
+# Privacy Policy: Jewelry Making Supplies | Wire Jewelry | Wire Wrap
 
 ## Wire-Sculpture.com's Privacy Policy
+
+Related:
+
+  * [Shipping Policy](http://www.wire-sculpture.com/pages/shipping_policy.html)
+  * [Order Return Policy](http://www.wire-sculpture.com/support/index.php?/Knowledgebase/Article/View/13/0/what-is-your-return-policy)
+  * [Frequently Asked Questions](https://www.wire-sculpture.com/support/index.php?/Knowledgebase/List)
+  * [Gift Certificate & Promotional Code Policy](https://www.wire-sculpture.com/support/index.php?/Knowledgebase/Article/View/25/1/how-do-gift-certificates-and-promo-codes-work)
+  * [Terms & Conditions](http://www.wire-sculpture.com/pages/terms_and_conditions.html)
+  * [How to Enable Cookies](http://www.wire-sculpture.com/pages/cookies_setup.html)
+
+
 
 **What information do we collect?**
 
@@ -49,7 +60,7 @@ After a transaction, your private information (credit cards, social security num
 
 Yes. (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information)
 
-We use cookies to help us remember and process the items in your shopping cart and keep track of advertisements and .
+We use cookies to help us remember and process the items in your shopping cart and keep track of advertisements.
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
 
