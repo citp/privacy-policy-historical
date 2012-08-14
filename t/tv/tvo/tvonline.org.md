@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvonline.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614194006id_/http%3A//tvonline.org/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvonline.org privacy policy that was archived on 2012-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120814063556id_/http%3A//tvonline.org/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # tvonline.org
 
