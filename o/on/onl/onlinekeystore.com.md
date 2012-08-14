@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinekeystore.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613180112id_/http%3A//www.onlinekeystore.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinekeystore.com privacy policy that was archived on 2012-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120814223043id_/http%3A//www.onlinekeystore.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: OnlineKeyStore - The...
 
