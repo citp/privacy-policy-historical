@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech2hell.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615192111id_/http%3A//www.tech2hell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech2hell.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815083421id_/http%3A//www.tech2hell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Tech 2 Hell
 
