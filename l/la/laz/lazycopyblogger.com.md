@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazycopyblogger.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174225id_/http%3A//lazycopyblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazycopyblogger.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815173612id_/http%3A//lazycopyblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
