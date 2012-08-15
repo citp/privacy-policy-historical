@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augermarketing.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515053120id_/http%3A//augermarketing.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augermarketing.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815124023id_/http%3A//augermarketing.com/pp.html) for the most accurate reproduction.*
 
 # How to create passive income using just the internet!
 
