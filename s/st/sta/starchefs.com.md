@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609193439id_/http%3A//www.starchefs.com/about_us/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815200811id_/http%3A//www.starchefs.com/about_us/html/privacy.shtml) for the most accurate reproduction.*
 
 # Star Chefs : Jobs at StarChefs
 
