@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protechmedia.biz privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615202315id_/http%3A//protechmedia.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protechmedia.biz privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815173442id_/http%3A//protechmedia.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Protechmedia.biz
 
