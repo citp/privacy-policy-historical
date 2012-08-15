@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winhost.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511180427id_/http%3A//www.winhost.com/about-winhost-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winhost.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815060041id_/http%3A//www.winhost.com/about-winhost-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: ASP.NET Hosting, ASP Hosting, Silverlight, MVC, AJAX, LINQ, Windows, SQL 2008, MySQL, Microsoft, IIS7
 
@@ -22,6 +22,8 @@ When collecting personally identifiable information, we use forms protected by i
 Cookies, Website Stats, Image Markers and other Tracking Software  
 WinHost uses cookies, website traffic statistics, image markers, visitor IP address, and other tracking software to help improve our website, services, and marketing effectiveness. For example, we use cookies to analyze repeat visits to our website, we use website statistics to analyze how visitors use and interact with our website and other web properties, we use image markers in email campaigns to understand how many users opened a particular email message, and we use other tracking tools to measure advertising effectiveness. 
 
+WinHost uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
 Opt-out  
 WinHost provides an opt-out option for customers who purchase a product or service from WinHost to unsubscribe from news, announcements and marketing marterial that we may send to customers from time to time. An unsubscribe link is located at the bottom of all announcement and marketing emails that we send out. If a customer no longer wishes to receive WinHost newsletters, news, announcements, and promotional email, they may opt-out of receiving them by following the instructions included in such emails and opting out through their control panel. 
 
@@ -30,4 +32,4 @@ WinHost may update this privacy policy in its sole discretion. When updated, we 
 
 If you have questions regarding our Privacy Policy or its implementation, please send an email to [sales@winhost.com](https://web.archive.org/contactform-winhost.aspx) and our Sales team will route your inquiry to the appropriate staff member. 
 
-Last Update: May 18, 2011 
+Last Update: June 12, 2012 
