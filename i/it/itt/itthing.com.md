@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itthing.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627235908id_/http%3A//itthing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itthing.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815183710id_/http%3A//itthing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | It Thing!
 
