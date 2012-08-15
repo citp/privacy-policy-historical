@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthconverter.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508020457id_/http%3A//www.healthconverter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthconverter.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815145343id_/http%3A//www.healthconverter.com/privacy-policy) for the most accurate reproduction.*
 
 # HealthConverter.com : Privacy Policy
 
