@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargesmart.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502171933id_/http%3A//www.verifone.com/about-us/legal-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargesmart.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815044411id_/http%3A//www.verifone.com/about-us/legal-privacy.aspx) for the most accurate reproduction.*
 
 # Legal and Privacy Policy - VeriFone
 
