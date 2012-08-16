@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialnewspaper.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616082107id_/http%3A//thesocialnewspaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialnewspaper.com privacy policy that was archived on 2012-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120816044010id_/http%3A//thesocialnewspaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Social Newspaper
 
