@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10cloudstorage.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617025823id_/http%3A//www.top10cloudstorage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10cloudstorage.com privacy policy that was archived on 2012-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120816143105id_/http%3A//www.top10cloudstorage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top 10 Cloud Storage
 
@@ -38,7 +38,7 @@ We may alter our policies at our discretion and at any time.  Questions regardi
 
 #### Testimonials
 
-[](https://web.archive.org/web/20120617025823id_/http://www.top10cloudstorage.com/privacy-policy/?page_id=164)
+[](https://web.archive.org/web/20120816143105id_/http://www.top10cloudstorage.com/privacy-policy/?page_id=164)
 
 “The site is easy to use, their reviews were spot on, and I found the cloud storage online backup I needed. I’d recommend this site to anyone!”
 
