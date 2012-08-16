@@ -1,54 +1,78 @@
-> *The following text is extracted and transformed from the bankfab.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019125252id_/http%3A//www.bankfab.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankfab.com privacy policy that was archived on 2012-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120816075620id_/http%3A//www.bankfab.com/storage/pdfs/privacy_policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy
+# FACTS
 
-* * *
+                                                                                                              Rev. 12/2010
+                 What does First American Bank
+FACTS            do with your personal information?
+Why?             Financial companies choose how they share your personal information. Federal law gives
+                 consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                 how we collect, share, and protect your personal information. Please read this notice carefully
+                 to understand what we do.
+What?            The types of personal information we collect and share depend on the product or service you
+                 have with us. This information can include:
+                     Social Security Number and income.
+                     Account balances and payment history.
+                     Transaction history and credit history.
+                 When you are no longer our customer, we continue to share your information as described in
+                 this notice.
+How?             All financial companies need to share customers' personal information to run their everyday
+                 business. In the section below, we list the reasons financial companies can share their
+                 customers' personal information; the reasons First American Bank chooses to share; and
+                 whether you can limit this sharing.
+                                                             Does First American Bank
+Reasons we can share your personal information                                             Can you limit this sharing?
+                                                                      share?
+For our everyday business purposes-
+such as to process your transactions, maintain your
+                                                                        Yes                              No
+account(s), respond to court orders and legal
+investigations, or report to credit bureaus
+For our marketing purposes-
+                                                                        Yes                              No
+to offer our products and services to you
+For joint marketing with other financial companies                      Yes                              No
+For our affiliates' everyday business purposes-
+                                                                         No                       We don't share
+information about your transactions and experiences
+For our affiliates' everyday business purposes-                          No                       We don't share
+information about your creditworthiness
+For our affiliates to market to you                                      No                       We don't share
+For nonaffiliates to market to you                                       No                       We don't share
+Questions?              Call (405) 579-7000 or go to www.bankfab.com.
 
-At First American Bank, respecting the privacy and security of your personal information is important to us. The following Privacy Policy outlines the information we collect, how we use that information, and the circumstances under which we share it with nonaffiliated, third parties.
 
-  
-
-
-### Consumer Data Protection and Privacy Practices
-
-The Bank's board of directors and staff believe it is important to inform you of the data protection and privacy practices that we have instituted to safeguard information received from or about our customers. We have established an information security program to ensure privacy of information. This program includes:  
-
-
-* Defined Controlled methods to limit access to customer's electronic information.
-* Established procedures and restrictions on disclosure of customer's account information.
-* Reviewed third-party service and business arrangements for consumer data privacy.
-* Defined standards for consumer data collection, use and methods of storage.
-
-It is First American Bank's practice to grant access of nonpublic personal information to our employees as needed to provide or offer products or services to you, process and service your accounts, and administer business. All of our employees are required to follow our Bank's "Code of Ethics" policy that addresses the protection of your confidential information. Also, our employees are provided with training on our privacy policy, information security program, and procedures.
-
-  
-
-
-### Collection and Use of Customer Information
-
-We collect, retain and use nonpublic personal information about you only where we reasonably believe that it will help administer our business of providing products, services, and other opportunities to you. Nonpublic personal information is collected about you from various sources, including: 
-
-* Information we receive from you on applications, deposit agreements or other forms. This information may include your name, address, employment information, income and credit references;
-* Information about your transactions with us or others. This information may include account balances and payment history;
-* Information we receive from a consumer-reporting agency. This information may include account information and information about your credit worthiness;
-  
-
-
-The information that we receive is used to administer your records, accounts, and funds; to comply with certain laws and regulation; to help us design and improve our products and services; and to understand your financial needs so that we can provide you with quality products and superior service.
-
-  
-
-
-### Sharing of Consumer Information
-
-We do not disclose any nonpublic personal information about you to anyone, except as permitted by law.
-
-The law does permit us to disclose nonpublic personal information to (1) companies that perform marketing services on our behalf and (2) with other financial institutions with whom we have joint marketing agreements. The information disclosed may include that information that is described above under "Collection and Use of Customer Information". The information disclosed would be limited to only that which we deem appropriate for the marketing or financial service provider to carry out their functions, such as name, address and telephone numbers. An example of a joint marketing arrangement would be if we disclosed the information mentioned to an investment center located within our banking center locations, that is not an affiliate of First American Bank but with whom we have established a joint marketing agreement.
-
-We do not share your nonpublic personal information for the purpose of credit card sales for nonaffiliated third party solicitors. Any credit card application found within our banking center locations, are placed there for our customer's convenience. You, the customer, would complete the application providing the credit card solicitor with your nonpublic personal information and mail the application to the third party direct. This is an example of a marketing service provided on our behalf.
-
-We may also provide information about you, as described above, to other nonaffiliated third parties such as service providers that help us process your applications or service your accounts. Our service providers may include a third party that prints your checks, our data processing center, external auditing firm, secondary market mortgage investors, attorneys, and loan settlement service providers such as an appraiser or title company. Examples of another nonaffiliated third party would be a credit reporting agency to whom we report information about your transactions with us.
-
-Even if you are no longer a First American Bank customer, our Privacy Policy will continue to apply to you.
-
-If you have any questions concerning this privacy notice, please call us at 800.522.1262 or 405.579.7000 or visit your nearest banking center location.
+Page 2
+ Who we are
+ Who is providing this notice?           First American Bank
+ What we do
+ How does First American Bank protect my To protect your personal information from unauthorized access
+ personal information?                   and use, we use security measures that comply with federal law.
+                                         These measures include computer safeguards and secured files
+                                         and buildings.
+ How does First American Bank            We collect your personal information, for example, when you:
+ collect my personal information?            Open an account or apply for a loan
+                                             Make deposits or withdrawals from your account or give us
+                                             your income information
+                                             Give us your employment history
+                                         We also collect your personal information from others, such as
+                                         credit bureaus, affiliates, or other companies.
+ Why can't I limit all sharing?          Federal law gives you the right to limit only:
+                                             Sharing for affiliates' everday business purposes-information
+                                             about your credit worthiness
+                                             Affiliates from using your information to market to you
+                                             Sharing for nonaffiliates to market to you
+                                         State laws and individual companies may give you additional
+                                         rights to limit sharing.
+ Definitions
+ Affiliates                              Companies related by common ownership or control. They can
+                                         be financial and nonfinancial companies.
+                                             First American Bank does not share with our affiliates
+ Nonaffiliates                           Companies not related by common ownership or control. They
+                                         can be financial and nonfinancial companies.
+                                             First American Bank does not share with nonaffiliates so
+                                             they can market to you
+ Joint marketing                         A formal agreement between nonaffiliated financial companies
+                                         that together market financial products or services to you.
+                                             Our joint marketing partners include an investment company
+Other important information
