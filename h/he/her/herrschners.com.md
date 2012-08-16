@@ -1,63 +1,107 @@
-> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028180413id_/http%3A//www.herrschners.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2012-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120816100327id_/http%3A//www.herrschners.com/privacy.aspx) for the most accurate reproduction.*
 
 # Herrschners - Quality Crafts Since 1899
 
-## Privacy Policy
+Hello avid crafter! As a customer of Herrschners, we want to ensure you understand the degree to which we take the protection and proper use of your personal information seriously, and our commitment to protecting your personal information in our possession.
 
-## Summary
+In this policy the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified or contacted, such as your name, physical address, e-mail address, telephone number, etc.
 
-  * We collect your personal information – name, mailing address, email address, and payment method – only when you provide the information.
-  * Our site uses cookies to make navigating and shopping faster for you, and to make sure what you see on our site is relevant to your interests. This is a practice duplicated by numerous commerce sites. Any payment information you provide – such as credit card number – will never be stored in this cookie.
-  * We do not share your email address, telephone number or any personal 'cookie' information with any other companies or organizations. Period.
+## Information We Collect and its Use
+
+We collect personally identifiable information through communications with you whenever you interact with us. Some examples include:
+
+  * Registering on our web site for the purpose of purchasing product, using Wish List or downloading free content
+  * Signing up to receive promotional emails and newsletters
+  * Requesting a catalog be mailed to you
+  * Submitting an entry into our annual afghan contest
+  * Interacting with our mobile site or mobile applications
+  * Order-specific and other communication with our customer service staff
 
 
 
-## Additional Privacy Policy Details
+We may receive personal information about you from other third party sources as well. Examples of these sources are companies that can help us correct or supplement our records and/or improve the quality or personalization of our service to you.
 
-There are areas in our site where only persons who provide requested personally identifiable information will be able to gain access to participate, such as 'My Account'.
+To ensure our web site works properly and provide you with the best possible experience, we also gather certain information automatically.  Examples of this type of information include your internet protocol address, device operating system and browser type, the address of a referring web site, if any, and the path you take through our web site.
 
-We also may collect certain non-personally identifiable information while you are browsing the site, such as the type of browser you are using, the type of operating system you are using, and the domain name of your ISP (Internet service provider). This information is in no way associated directly with you.
+The information we collect is then used to offer and provide our products and services in the best possible experience.
 
-**_Why do we collect this information and how do we use it?_**
+We may employ third party companies to perform tasks on our behalf. These tasks may include order fulfillment, package delivery, postal and email delivery, customer service, marketing support, and credit processing. These third parties have limited access to your personal information and are obligated not to use it for purposes other than the service being provided.  
+We reserve the right to disclose your personally identifiable information as required by law.
 
-Personal information you provide to us may be used to fulfill your requests for products, or be used to respond to your inquiries, or to communicate with you for customer service questions or project assistance.
+When you order products, you are entered in our customer file. We occasionally make this file available to carefully screened companies and organizations whose products and services may be of interest to you. **We never share your email address or telephone number.** If you do not want your name to be made available to other companies, please contact us per the instructions below under Marketing Preferences.
 
-We may use the non-personally identifiable information to improve the design and content of our site.
+## Cookies, Web Beacons, and Other Similar Technologies
 
-We will disclose information we maintain when required to do so by law. For example, in response to a court order or subpoena, or in response to a law enforcement agency's request.
+Cookies are unique identifiers that are transferred to your device to enable us to support your ability to browse and purchase from our web site, and provide for a more personalized shopping experience.  Without cookies enabled, you will still be able to browse our web site, but will not be able to complete a purchase or take advantage of many web site features.
 
-Agents and contractors of Herrschners who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice. Agents and contractors of Herrschners are required to use information only to carry out the services they are performing.
+To learn more about cookies, including how to configure their use on your device, follow these links:
 
-Even though we take every appropriate measure to safeguard against any unauthorized disclosure of information, we cannot assure you that personally identifiable information we collect will never be disclosed in a manner inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personal information for purposes of correcting possible factual errors in the data.
+  * [Microsoft Internet Explorer](http://www.microsoft.com/info/cookies.htm "Microsoft.com Cookies FAQ ")
+  * [Mozilla Firefox](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html "Preferences available in Mozilla Firefox")
 
-We may on occasion combine information we receive online with outside records to enhance our ability to inform you of products and services that may be of interest to you. If you do not wish to receive marketing information, please send an email, along with your first and last name to [CustomerService@Herrschners.com](mailto:CustomerService@Herrschners.com).
 
-When you order products or request a catalog, you are entered in our customer file. We occasionally make this file available to carefully screened companies and organizations whose products and services may be of interest to you. We never share your email address or telephone number. If you do not wish to receive our catalog or do not want your name to be made available to other companies, please email your name and address to [CustomerService@Herrschners.com](mailto:CustomerService@Herrschners.com).
 
-We will not use or transfer personally identifiable information provided to us in way unrelated to the ones described above without also providing you with the ability to opt out of these unrelated uses.
+Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the web site of its manufacturer.  Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not remove Flash cookies. [Learn how](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to manage privacy and storage settings for Flash cookies.
 
-**_Collection of Information by Third-Party Sites, Advertisers and Sponsors_**
+We may also use web beacons. Beacons allow us to know if a certain page was visited, an email was opened, or if various banners or advertisements were effective.
 
-Our site may contain links to other sites whose information practices may be different than our own. If you visit these third parties sites, please consult their privacy notices, as we have no control over information, submitted to, or collected by third parties.
+## Product Reviews and Testimonials
 
-**_Cookies_**
+Product reviews are provided for the purpose of helping shoppers make the most educated decision possible when considering a purchase. These reviews are monitored to ensure accuracy and proper etiquette. We do not edit or alter reviews left by customers, but reserve the right to remove any at our discretion.
 
-Cookies are used to enhance your experience with our site. Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us personally identifiable information, or email address unless you choose to provide this information to us, for example, when you register with our site. Once you choose to enter personally identifiable information on our site, this information may be linked to the data stored in the cookie. Your credit card number is never stored within these files.
+By posting your comment(s) or review(s) ("Reviews") on our web site, you give us permission to use the Review in connection with our business. You also are agreeing to the following: (1) The reprint or use of the Review will be at our discretion and without compensation; (2) We may use the Review with or without any pseudo (pen) name credit; (3) Our right to use the Review is perpetual and may be assigned by us; (4) We may use the Review nationally or globally and such use may be made in any media, information or communication platform (including Internet advertising) currently in use or later developed; and (5) You and not someone else composed and posted the Review.
 
-**_Why do we use Cookies?_**
+Other than your pseudo (pen) name, your personally identifiable information will not be disclosed in connection with our reprint or use of your Review.
 
-We use cookies to analyze site usage and improve our site content and offerings. We may also use cookies to personalize your experience, for example to recognize you by name when you return to www.herrschners.com or to save your password in password-protected areas. If you choose to not accept cookies, [you can order via phone, mail or fax](https://web.archive.org/service.aspx?contentid=36).
+## Children's Privacy
 
-**_Email Addresses and Telephone Numbers_**
+We do not sell products for purchase by children. We will not knowingly or intentionally collect personal information via the Internet from children under the age of 13.  If we become aware that an individual is under the age of 13 and has submitted any information to us for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
 
-We not share any email addresses or phone numbers you provide to any other companies or organizations. Period. If you choose to receive our promotional emails, you may always opt-out.
+## Business Transitions
 
-Any telephone numbers you provide will be used solely for customer service questions or project assistance.
+In the event Herrschners acquires another company, merges with an existing company or is acquired by another company, the transfer of your information may occur.  You acknowledge that your Personal Information can continue to be used as set forth in this Privacy Policy.
 
 ## Security
 
-### _Ordering online is Secure at Herrschners.com_
+When you submit sensitive information via the web site, your information is protected both online and offline.
 
-We use the latest technology to ensure the security of your credit card information. All pages within our checkout process and areas containing personal information – such as My Account – are secured using SSL (Secure Socket Layer) technology, which encrypts data between our computer and yours. By utilizing SSL, all sensitive information you provide during the checkout process – including credit card and address information – is encrypted while traveling the Internet.
+Specific to our web site:
 
-Our site is tested and certified daily to pass the Hacker Sale Security Scan by ScanAlert - click the logo found on our site to verify this fact. Research indicates sites that are remotely scanned for known vulnerabilities on a daily basis, such as ours that earn Hacker Safe certification, can prevent over 99% of hacker crime.
+  * We take precautions to protect the security of your information during transmission, such as when entering your password or submitting your order, by using 128-bit Secure Sockets Layer (SSL) software, which encrypts information you input.
+  * We reveal only the last four digits of your credit card numbers when providing correspondence, such as order confirmations.
+  * We encrypt all passwords you provide to our web site.
+  * Our web site undergoes a [daily security audit](http://seals.nsprotectsafe.com/hg_mouse_click?id=1982&d=www.herrschners.com) to ensure no unauthorized access can occur via the Internet.
+  * All servers used in conjunction with our web site are physically housed in secure locations, inside locked and camera-monitored rooms. Only personnel with proper security clearance have access to these restricted areas.
+
+
+
+Specific to our order fulfillment and customer service:
+
+  * Herrschners is enrolled in [Trustwave's Trusted Commerce™](https://sealserver.trustwave.com/cert.php?customerId=w6ozAYxxrZxla6RlPltmgih5HPZC2k&size=105x54&style=normal) program to validate compliance with the Payment Card Industry Data Security Standard (PCI DSS) mandated by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard Worldwide, Visa, Inc. and Visa Europe.
+  * We reveal only the last four digits of your credit card numbers to customer support staff, should you desire to contact them with questions about your order.
+  * Our customer support staff does not have the ability to see or reset your password.
+  * The servers that store your information are in a locked facility, and access is limited to employees who require the information to perform a specific job.
+
+
+
+## Marketing Preferences
+
+We want to be sure we communicate with you in a manner you prefer.  To update preferences, you may do so by either making use of provided tools, such as the opt-out link in the footer of our promotional emails or the preference section under My Account, or by contacting us directly.
+
+If you contact us directly by email or mail, please be sure to include your full name, the types of communications you would like to receive or not receive, and your related contact information. Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 4-6 weeks for other requests.
+
+Be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes, such as information regarding your order, or customer service questions you initiate.
+
+Requests via email should be sent to [CustomerService@Herrschners.com](mailto:CustomerService@Herrschners.com).   
+Requests by phone can be made by dialing +1 800.441.0838.  
+Requests by mail should be sent to:
+
+Herrschners  
+2800 Hoover Road  
+Stevens Point, WI 54481
+
+## Notification of Changes
+
+We reserve the right to change this privacy policy at any time and will post any material changes made on this page, along with the date on which it was updated.
+
+This Privacy Policy was last updated July 13, 2012
