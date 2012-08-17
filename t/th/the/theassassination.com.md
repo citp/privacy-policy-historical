@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theassassination.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124032355id_/http%3A//theassassination.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theassassination.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817234959id_/http%3A//www.theassassination.com/privacy-policy) for the most accurate reproduction.*
 
 # The Assassination
 
