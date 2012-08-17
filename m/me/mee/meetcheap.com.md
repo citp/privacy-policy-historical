@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetcheap.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512010524id_/http%3A//www.meetcheap.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetcheap.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817130050id_/http%3A//www.meetcheap.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
