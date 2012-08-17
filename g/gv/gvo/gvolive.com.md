@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gvolive.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629211015id_/http%3A//www.gvoconference.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gvolive.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817130050id_/http%3A//www.meetcheap.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,7 +64,7 @@ If you are concerned about the topic covered by this policy, you should read it 
 
 You may also mail your concerns to us at the following address:
 
-GVO Conference  
+Meet Cheap  
 6701 Guada Coma Drive  
 Schertz, Texas 78154  
 USA
@@ -80,6 +80,6 @@ USA
 
 This privacy policy was last updated on 08-20-2010.
 
-Copyright © [Law Office of Michael E. Young, LLC](http://www.nitroshoppingcart.com/app/?af=1234148), and licensed for use by the owner of this website at http://GVOconference.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © [Law Office of Michael E. Young, LLC](http://www.nitroshoppingcart.com/app/?af=1234148), and licensed for use by the owner of this website at http://meetcheap.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
 Do you need **Legal Forms** for **YOUR** website or blog - [Click Here](http://www.nitroshoppingcart.com/app/?af=1234148)
