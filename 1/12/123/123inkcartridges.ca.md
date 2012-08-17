@@ -1,58 +1,108 @@
-> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224033344id_/http%3A//www.123inkcartridges.ca/123inkcartridges2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818002654id_/http%3A//privacy-policy.truste.com/verified-policy/www.123inkcartridges.ca) for the most accurate reproduction.*
 
-# Printer Ink & Toner Cartridges, Office Supplies, Computers and Accessories | 123InkCartridges.ca Canada
+# Privacy Policy for www.123inkcartridges.ca
 
-**1\. Objective & Scope of Privacy Policy**
+Effective on June 27, 2011 
 
-123InkCartridges.ca is committed to respecting your privacy and has prepared this Policy to inform you of our policy and practices concerning the collection, use and disclosure of Personal Information.
+This privacy statement describes how 123inkcartridges.ca Inc. collects and uses the personal information you provide on our Web site: [www.123inkcartridges.ca ](https://www.123inkcartridges.ca/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-This Policy governs Personal Information collected from and about (i) individuals who are or may become Customers of 123InkCartridges.ca and (ii) individuals or organizations with whom 123InkCartridges.ca works with.
+**TRUSTe**
 
-Using contractual or other arrangements, 123InkCartridges.ca shall ensure that Credit card companies, payment gateways or other third party service providers, who may receive Personal Information in the course of providing services to 123InkCartridges.ca as part of our online shopping services, protect that Personal Information in a manner consistent with the principles articulated in this Policy.
+123inkcartridges.ca Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-This Policy does not cover aggregated data from which the identity of an individual cannot be determined. 123InkCartridges.ca retains the right to use aggregated data in any way that it determines appropriate.
+If you have questions or concerns regarding this policy, you should first contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-In the event of questions about: (i) access to your Personal Information; (ii) 123InkCartridges.ca’s collection, use, management or disclosure of Personal Information; or (iii) this Policy; please contact us:
+## Collection and Use of Personal Information
 
-123 Ink Cartridges Canada  
-7365 Rue Chouinard  
-LaSalle, Quebec H8N 2L6, Canada  
-Toll Free: 1-866-979-7463
+We collect the following personal information from you
 
-**2\. The Collection, Use & Disclosure of Personal Information**
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
-For the purposes of this Policy:
 
-“Customer” means an individual who may or has purchased from us;
 
-“Personal Information” means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred or determined from such information.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-Your provision of Personal Information to 123InkCartridges.ca means that you agree and consent that we may collect, use and disclose your Personal Information in accordance with this Privacy Policy. If you do not agree with these terms, you are requested not to provide any Personal Information to 123InkCartridges.ca or a Sales Representative working with 123InkCartridges.ca. Unfortunately, certain services can only be offered if you provide Personal Information and consequently, if you choose not to provide us with any required Personal Information, 123InkCartridges.ca may not be able to offer you those products & services.
+We use this information to
 
-**123InkCartridges.ca’s use of Personal Information is limited to order payment, order shipping & customer services. 123InkCartridges.ca does not sell, trade, barter or exchange for consideration any Personal Information it has obtained. Unless permitted by law, no personal information is collected about an individual without first obtaining the consent of the individual to the collection, use and dissemination of that information.**
+  * Fulfill your order
+  * Send you an order confirmation
+  * Send you requested product or service information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Conduct research and analysis
+  * Facilitate your transactions with other users
 
-Personal information will be collected, to the extent possible, directly from the individual concerned.
 
-123InkCartridges.ca does not knowingly collect Personal Information from anyone under the age of 18, especially children under 13, and does not use such information if 123InkCartridges.ca discovers that it has been provided by a minor.
 
-Personal Information may also be transferred to another company in the event of a change of ownership of all or part of 123InkCartridges.ca.
+**Choice/Opt-Out**
 
-123InkCartridges.ca may disclose Personal Information of Customers to organizations that perform services on its behalf. This will only be done if such organizations agree to use such information solely for the purposes of providing services to 123InkCartridges.ca and, with respect to that information, to act in a manner consistent with this Policy.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca).
 
-Where obliged or permitted to disclose information without consent, 123InkCartridges.ca will not disclose more information than required.
+## Information Sharing
 
-**3\. Accuracy**
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-123InkCartridges.ca endeavours to ensure that any Personal Information provided by Customers and in its possession is as accurate, current and complete as necessary for the purposes for which 123InkCartridges.ca uses that data. Information contained in files that have been closed is not actively updated or maintained.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-**4\. Security**
+We may also disclose your personal information
 
-123InkCartridges.ca endeavours to maintain adequate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure, or modification of Personal Information.
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if 123inkcartridges.ca Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
 
-**5\. Protecting Information**
 
-123InkCartridges.ca further protects Personal Information by restricting access to it to those Employees that the management of 123InkCartridges.ca has determined need to know that information in order that 123InkCartridges.ca may provide services to Customers.
 
-**6\. Amendment of Practices and This Policy**
+We make your contact information available to other users that you transact with on this site to help complete the transaction.
 
-This statement is in effect as of JANUARY 1, 2008. 123InkCartridges.ca will from time to time review and revise its privacy practices and this Policy. In the event of any amendment, an appropriate notice will be communicated to Customers and others in an appropriate manner. 
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of 123inkcartridges.ca Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+123inkcartridges.ca Inc. 
+
+7365 Rue Chouinard 
+
+LaSalle, Quebec, Canada H8N 2L6
+
+Phone: 1-866-979-7463
