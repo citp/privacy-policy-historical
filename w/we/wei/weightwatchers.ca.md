@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626022020id_/http%3A//www.weightwatchers.ca/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818193634id_/http%3A//www.weightwatchers.ca/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.ca: Privacy Policy
 
