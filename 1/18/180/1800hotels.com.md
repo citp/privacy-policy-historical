@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800hotels.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608030916id_/http%3A//www.1800hotels.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800hotels.com privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818172234id_/http%3A//www.1800hotels.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security - 1 800 Hotels
 
