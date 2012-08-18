@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219211008id_/http%3A//www.jockey.com/en-us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818133511id_/http%3A//www.jockey.com/en-us/privacypolicy) for the most accurate reproduction.*
 
 # Jockey Privacy Policy | Corportate Information | Jockey.com
 
