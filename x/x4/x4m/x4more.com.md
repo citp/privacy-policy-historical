@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x4more.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103014556id_/http%3A//x4more.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x4more.com privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818122834id_/http%3A//x4more.com/privacy.php) for the most accurate reproduction.*
 
 # X4More - Anti Spam Policy
 
