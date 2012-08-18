@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverli.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617093838id_/http%3A//www.cleverli.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverli.com privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818020017id_/http%3A//www.cleverli.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Be Cleverli, ask an expert! :: Privacy Policy
 
