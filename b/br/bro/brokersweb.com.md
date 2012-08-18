@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokersweb.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616132426id_/http%3A//www.brokersweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokersweb.com privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818051143id_/http%3A//www.brokersweb.com/privacy.html) for the most accurate reproduction.*
 
 # BrokersWeb - Privacy Policy
 
