@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602015042id_/http%3A//www.ramdass.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818165737id_/http%3A//www.ramdass.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
