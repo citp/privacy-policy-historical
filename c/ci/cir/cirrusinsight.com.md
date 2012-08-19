@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624213900id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819140844id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cirrus Insight - Integrate Salesforce and Gmail | Create Leads, Contacts, Events, and Tasks in Salesforce from Gmail
 
