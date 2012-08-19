@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianity.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629060243id_/http%3A//www.christianity.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianity.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819195615id_/http%3A//www.christianity.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Christianity.com - About Us - Discover our Christian Mission and Faith
 
