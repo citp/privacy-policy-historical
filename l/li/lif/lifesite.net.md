@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesite.net privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607164700id_/http%3A//www.lifesite.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesite.net privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819083745id_/http%3A//lifesite.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LifeSiteNews.com
 
