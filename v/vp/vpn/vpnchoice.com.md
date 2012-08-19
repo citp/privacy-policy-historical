@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpnchoice.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625095344id_/http%3A//www.vpnchoice.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnchoice.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819065651id_/http%3A//www.vpnchoice.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VPNchoice.com
 
@@ -9,7 +9,7 @@ We maintain the log files to keep the information of visitors. Information store
 
   * Your Computer IP address
   * ISP (internet service provider) information
-  * Internet browser application (IE, Firefox, Opera etc) information, which you are using while visiting rizwanashraf.com
+  * Internet browser application (IE, Firefox, Opera etc) information, which you are using while visiting **vpnchoice.com**
   * Time stamp includes time when you visit our web site
   * Web Pages which are visited by you
 
