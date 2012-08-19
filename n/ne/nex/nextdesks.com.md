@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextdesks.com privacy policy that was archived on 2012-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120310170600id_/http%3A//www.nextdesks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextdesks.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819222706id_/http%3A//www.nextdesks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NextDesk
 
@@ -54,4 +54,4 @@ NextDesk reserves the right to change this policy at any time by notifying visit
 
 ### How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please send us an email at info@REMOVE.COMNextDesks.com or visit our [contact us](https://web.archive.org/web/20120310170600id_/http%3A//www.nextdesks.com/contact.html) page 
+Should you have other questions or concerns about these privacy policies, please send us an email at info@REMOVE.COMNextDesks.com or visit our [contact us](https://web.archive.org/web/20120819222706id_/http%3A//www.nextdesks.com/contact.html) page 
