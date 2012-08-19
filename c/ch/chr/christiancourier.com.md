@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiancourier.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620065148id_/http%3A//www.christiancourier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancourier.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819214417id_/http%3A//www.christiancourier.com/privacy) for the most accurate reproduction.*
 
 # ChristianCourier.com: church of Christ magazine investigating religious doctrine, Christian evidences, and ethical issues.
 
@@ -52,3 +52,7 @@ FortifyYourFaith.org
 Christian Courier Publications  
 7809 N. Pershing Avenue  
 Stockton, CA 95207
+
+The _Christian Courier_ is a journal dedicated to the study of religious doctrine, Christian evidences, and biblical ethics associated with the churches of Christ.
+
+© 1997-2012 by Christian Courier Publications. All rights reserved. ISSN: 1559-2235. Website version: 4.0
