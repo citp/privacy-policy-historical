@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exofire.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232846id_/http%3A//exofire.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exofire.net privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819021000id_/http%3A//exofire.net/privacy) for the most accurate reproduction.*
 
 # Free Hosting Privacy Policy
 
