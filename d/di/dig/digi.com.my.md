@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digi.com.my privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616050554id_/http%3A//www.digi.com.my/support/general/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digi.com.my privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820081527id_/http%3A//www.digi.com.my/support/general/privacy.do) for the most accurate reproduction.*
 
 # DiGi - Support - Privacy
 
