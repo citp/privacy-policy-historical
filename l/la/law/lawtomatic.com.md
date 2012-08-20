@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawtomatic.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627024701id_/http%3A//lawtomatic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawtomatic.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820122422id_/http%3A//lawtomatic.com/privacy) for the most accurate reproduction.*
 
 # Lawtomatic | Law On Your Terms! Privacy Policy
 
