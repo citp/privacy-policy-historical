@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poptarts.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008035626id_/http%3A//www.kelloggcompany.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptarts.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820103921id_/http%3A//www.kelloggcompany.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kellogg Company - Privacy
 
