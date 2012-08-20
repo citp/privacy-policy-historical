@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themetafly.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620234640id_/http%3A//www.themetafly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themetafly.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820165557id_/http%3A//www.themetafly.com/privacy.php) for the most accurate reproduction.*
 
 # TheMetaFly
 
