@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petmd.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503132025id_/http%3A//www.petmd.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petmd.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820045000id_/http%3A//www.petmd.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # PETMD PRIVACY POLICY | petMD
 
