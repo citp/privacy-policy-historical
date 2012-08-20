@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619013632id_/http%3A//www.pppl.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820061840id_/http%3A//www.pppl.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Princeton Plasma Physics Laboratory — WELCOME TO THE FUTURE OF FUSION ENERGY
 
