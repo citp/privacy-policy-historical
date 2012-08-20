@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norwalkreflector.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511112308id_/http%3A//www.sanduskyregister.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norwalkreflector.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820152558id_/http%3A//www.sanduskyregister.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sandusky Register
 
@@ -10,11 +10,11 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page; the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail and the e-mail addresses of those who make postings to our chat areas; aggregate information on what pages consumers access or visit; user-specific information on what pages consumers access or visit; and information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used to improve the content of our Web page and to notify consumers about updates to our Web site. This information is not shared with other organizations for commercial purposes.
-
 With respect to cookies: We use cookies to store visitors' preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas we think might be of interest to them when they return to our site, record past activity at a site to provide better service when visitors return to our site, and to ensure that visitors are not repeatedly sent the same banner ads.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number or writing to us at the above address.
+We use IP addresses and session identifiers to track trends and user activities, to administer the website, and to otherwise gather information about individual users and market segments. We may use the information we collect from you to help us deliver to you the products and content in which you are most interested.
+
+Information you share with us in the course of comments, email and chat sessions may be deemed non-confidential. We are free to reproduce, use, disclose and distribute this information to any third party without limitations. We may also use any ideas or concepts contained in this information for any purpose.
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address or writing to us at the above address. We don't share email addresses ever, unless the visitor explicitly approves by filling out appropriate forms.
 
