@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510173346id_/http%3A//www.fuel.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820073606id_/http%3A//www.fuel.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FUEL TV
 
