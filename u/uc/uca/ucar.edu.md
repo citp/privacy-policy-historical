@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615170339id_/http%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820025149id_/http%3A//www.ucar.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UCAR
 
