@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bentley.edu privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528091503id_/http%3A//www.bentley.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bentley.edu privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820183133id_/http%3A//www.bentley.edu/privacy) for the most accurate reproduction.*
 
 # Bentley University Information Privacy Statement | Bentley University
 
