@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607151947id_/http%3A//www.shimadzu.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2012-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120821010211id_/http%3A//www.shimadzu.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy : SHIMADZU (Shimadzu Corporation)
 
