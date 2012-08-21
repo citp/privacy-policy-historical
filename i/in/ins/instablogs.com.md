@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instablogs.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110061739id_/http%3A//www.instablogs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instablogs.com privacy policy that was archived on 2012-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120821154538id_/http%3A//www.instablogs.com/privacy-policy) for the most accurate reproduction.*
 
-# Instablogs - Privacy Policy
+# Instablogs Community - Everyone has a Viewpoint
 
 Instablogs Privacy Policy
 
@@ -110,4 +110,4 @@ We reserve the right to transfer any and all PII that we collect from users of t
 
 h.  Contacting Us.
 
-If you have any questions regarding this Policy, please contact us either by e-mail at contact@Instablogs.com, or by regular mail at Citizen Media Pvt. Ltd, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
+If you have any questions regarding this Policy, please contact us either by e-mail at contact@Instablogs.com, or by regular mail at Citizen Media Limited, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
