@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidebuzz.us privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507024217id_/http%3A//hidebuzz.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidebuzz.us privacy policy that was archived on 2012-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120822002745id_/http%3A//www.hidebuzz.us/privacy.php) for the most accurate reproduction.*
 
 # hidebuzz.us :: anonymous, uncensored free web browsing. Fast web proxy, 110 Gbit Network.
 
