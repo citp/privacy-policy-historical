@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaidabribenaija.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511114543id_/http%3A//www.ipaidabribenaija.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaidabribenaija.com privacy policy that was archived on 2012-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120821200555id_/http%3A//www.ipaidabribenaija.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # iPaid-a-bribe Nigeria | Privacy Policy
 
