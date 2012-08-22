@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toprankarticles.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613212439id_/http%3A//www.toprankarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprankarticles.com privacy policy that was archived on 2012-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120822130232id_/http%3A//www.toprankarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Top Rank Articles
 
