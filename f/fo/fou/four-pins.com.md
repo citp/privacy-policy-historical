@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the four-pins.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611012849id_/http%3A//four-pins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the four-pins.com privacy policy that was archived on 2012-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120822061051id_/http%3A//four-pins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Four Pins | Style, Gear, Life, Places, Features
 
