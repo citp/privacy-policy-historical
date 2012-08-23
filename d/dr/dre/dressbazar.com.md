@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressbazar.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629090511id_/http%3A//www.dressbazar.com/pages/view/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressbazar.com privacy policy that was archived on 2012-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120823050257id_/http%3A//www.dressbazar.com/pages/view/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Dress Bazar
 
