@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focalex.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615135044id_/http%3A//focalex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focalex.com privacy policy that was archived on 2012-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120823124759id_/http%3A//focalex.com/privacy) for the most accurate reproduction.*
 
 # Focalex: Privacy
 
