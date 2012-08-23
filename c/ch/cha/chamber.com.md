@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamber.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614232107id_/http%3A//chamber.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamber.com privacy policy that was archived on 2012-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120823060307id_/http%3A//chamber.com/docs/privacy) for the most accurate reproduction.*
 
 # Chamber.com Privacy & Policies
 
