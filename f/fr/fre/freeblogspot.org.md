@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeblogspot.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630170658id_/http%3A//freeblogspot.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeblogspot.org privacy policy that was archived on 2012-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120823110359id_/http%3A//freeblogspot.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Create a free Blog Free Blogs Websites Blogging Sites
 
