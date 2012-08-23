@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4projects.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602194349id_/http%3A//www.4projects.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4projects.com privacy policy that was archived on 2012-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120823105426id_/http%3A//www.4projects.com/privacy.aspx) for the most accurate reproduction.*
 
-# Construction Collaboration Software - Project Extranet, Document Management, Workflow, eProcurement, NEC3 Contract Manager, eforms, Communication Management, IPD, BIM, Project Management
+# 4Projects > Home
 
 Website & Email Privacy Policy
 
