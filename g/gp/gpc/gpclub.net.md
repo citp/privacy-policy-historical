@@ -1,18 +1,79 @@
-> *The following text is extracted and transformed from the gpclub.net privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401103827id_/http%3A//www.gpclub.net/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpclub.net privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824155800id_/http%3A//www.gpclub.net/page/privacy-and-security) for the most accurate reproduction.*
 
-# GPClub - Save money with us...
+# privacy-and-security
 
-  
-GPClub has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically.
+Privacy Policy
 
-GPClub uses the information we collect about you to, among other things, process orders. When you register at GPClub, we collect your name, email addresses, mailing address, credit card number, and expiration date in order to process and fulfill your order. In some instances, products ordered at GPClub are shipped directly from our vendors, and some of your information is shared with these vendors to enable them to fulfill and ship your order.
+The following describes the Privacy Policy for our website.
 
-When you sign up for GPClub, we need only an email address to send you the email topics that you have selected. We also use your email address to send you email notice of your participating and order status, and we may use your email address to send you notice of upgrades or changes to GPClub, new services, and special offers. We do not currently sell, trade, or rent our list of email addresses to any third parties.
+Your Privacy  
+Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
 
-We occasionally will ask for additional information from you. For instance, we may ask for your name, address, and e-mail address in connection with a contest or other promotional feature in which you participate, so we can administer the contest and notify winning prices. We may offer contests or promotions with third parties; policies concerning use of your personal data gathered in connection with any such contest or promotion will be specifically set forth in the rules and policies applicable to the contest or promotion.
+State Law & Accompanying Rights  
+Please understand that you may have additional rights originating from State laws based on where you live.  These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law.  Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate.  Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
 
-GPClub offers a service called "Tell a Buddy" that allows you to notify friends about open Group Purchase. Please note, however, that GPClub opposes the practice of sending unsolicited commercial emails, also known as "spam." Therefore, we request that you send "Tell a Buddy" emails only to people known by you who may be interested in the group purchase. If someone asks you not to send these emails to him or her, please comply. Your friends' email addresses will not be used for promotional purposes nor disclosed to a third party.
+Our Commitment To Children's Privacy  
+Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
-When you participate on an Group Purchase item, you must enter the amount of your participate, your GPClub Login ID and your password. Your initials, city and state and your participating will be publicly available in the Current Winning participating history.
+Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services.  It is not our intention to offer products or services to minors.
 
-Recognizing the global nature of the Internet, you agree to comply with all applicable local laws and rules regarding online conduct and privacy, as well as content. Specifically, but not as a limitation, you agree to comply with all applicable laws regarding transmission of technical and personal data exported from the United States or the country in which you reside.
+Collection of Personal Information  
+When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+Other information may be collected as well by us, which is rather typical of most websites.  For instance, the source that referred you to our website is generally known.  Likewise, your duration on our website, and your destination when you leave our website can also be tracked.  Other common data collected includes the type of operating system the computer you are using to access our website has.  Similarly, the type of web browser is often noted.  Again, this is common data collection, and helps ultimately produce a better end-user experience.
+
+Cookies are another common internet practice.  Cookies are a key means of improving user experience by allows us to customize your use of our website.  Simple information is transferred to your computer to allow the content and experience at our website to reflect your actions, preferences, and so on.  You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose.  Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
+
+At times, you will be fully aware of information received, as you are the direct source providing it.  For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise.  Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on.  Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested.
+
+A prime example of limited access to our website is where some of our website content may be protected by a username and password.  Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you.  This is true since much content that is protected on the internet is subscription based, often paid for.  Thus, the username and password must necessarily be tied to your other account data.  Usernames and passwords, by their very nature, should be kept private.  
+
+Handling of Personal Information   
+Note that any personal information you provide to others apart from us or our vendors is wholly optional.  As an example, you might disclose something in a blog post comment.  That “private” information is now “public,” and we have no control over that.  In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place.
+
+Our primary intention for collecting personal and private information from you is simply to conduct our business.  We can use this internally to better serve you.  Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so.  Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.”  However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way.
+
+However, of course, your information does comprise part of an overall whole.  This aggregate of information, by contrast, may be used to understand our overall user base.  Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
+
+While we are staunch privacy advocates, there are times when even we may be forced to abandon these ideals.  Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our website.  Illegal activity or other serious acts or allegations could create legal liability for our website.  In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law.  On the other hand, there may be times when we would need to share your private information in order to protect our own interests.  For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
+
+Google Adsense and the DoubleClick DART Cookie  
+Google, as a third party advertisement vendor, may use cookies to serve ads on this website.  The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers.  However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
+
+Links to Third Party Websites  
+We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
+
+CHANGE NOTICE: As with any of our administrative and legal notice pages, the contents of this page can and will change over time.  Accordingly, this page could read differently as of your very next visit.  These changes are necessitated, and carried out by us, in order to protect you and our website.  If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+
+COPYRIGHT WARNING: The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney.  We have paid to license the use of these legal notices and administrative pages on our website for your protection and ours.  This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+
+QUESTIONS/COMMENTS/CONCERNS: If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
+
+[Contact Us](https://web.archive.org/web/20120824155800id_/http%3A//www.gpclub.net/page/contact)
+
+Anti-Spam Policy
+
+The following describes the Anti-Spam Policy for our YOURURL website.
+
+What Is Spam?  
+Spam is unsolicited email, also known as junk mail (received via email), or UCE (Unsolicited Commercial Email).  Virtually all of us have opened the inbox of an email account and found emails from an unknown sender.  By sending email only to those who have requested to receive it, we are following accepted permission-based email guidelines.
+
+What About The Laws Against Spam?  
+They exist.  However, as with any body of laws, any individual State spam statutes can and will vary.  The spam laws of each State can not only vary, but also have different definitions of unsolicited commercial email.  Additionally, there may be various federal agencies keeping track of spam, including the Federal Trade Commission (FTC).  At the Federal level, the CAN-SPAM Act of 2003 promulgates some attempt at a coherent and unified approach to unsolicited commercial email.  Ultimately, it would be difficult to enforce spam law violations on any consistent or pervasive basis, so your own vigilance is your own best first line of defense.  Beyond that, we protect you by ensuring that you are 100% in control of whether or not you ever hear from us by email initially or in the future, as detailed in our “No Tolerance” policy below.
+
+Our No Tolerance Anti-Spam Policy  
+WE HAVE A NO TOLERANCE SPAM POLICY.  We do not email unless someone has filled out an "opt in" form or "webform" expressing an interest in our information or products and/or services, or otherwise directly and proactively requesting it.  News of the features and benefits of Membership is spread through advertising, joint venture marketing, and word of mouth, so we are only building relationship with folks who wish to learn more about what we have to offer and willingly subscribe to our content and contact through email.  You are always completely in control of whether you receive email communication from us, and can terminate at any time.
+
+NOTE - Every auto-generated email contains a mandatory unsubscribe link that cannot be removed.  Therefore, each communication generated by us carries with it the option to "unsubscribe" and never receive another email communication from us.  
+
+CHANGE NOTICE: As with any of our administrative and legal notice pages, the contents of this page can and will change over time.  Accordingly, this page could read differently as of your very next visit.  These changes are necessitated, and carried out by us, in order to protect you and our our website.  If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+
+COPYRIGHT WARNING: The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney.  We have paid to license the use of these legal notices and administrative pages on our website for your protection and ours.  This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+
+QUESTIONS/COMMENTS/CONCERNS: If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
+
+[Contact Us](https://web.archive.org/web/20120824155800id_/http%3A//www.gpclub.net/page/contact)
