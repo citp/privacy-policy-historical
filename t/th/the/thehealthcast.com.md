@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623112402id_/http%3A//www.thehealthcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824145403id_/http%3A//www.thehealthcast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Your Privacy Rights – TheHealthCast.com
 
@@ -39,6 +39,8 @@ TheHealthCast.com does not knowingly collect personal information from children 
 In order to provide increased value to our visitors, TheHealthCast.com may choose various third party websites to link to and from, and frame within, its own website. TheHealthCast.com may also participate in co-branding and other relationships to offer information, programs and other services and features to its users. A “framed” website is a page from a third party’s website that appears within our website. Framing allows you to interact with a third party website without navigating away from our website.
 
 These third party web sites may independently solicit and collect information from you. TheHealthCast.com does not control these linked sites. Since their treatment of personal information may differ from ours, we encourage you to carefully review the privacy statements and terms of use of all third party web sites you access. On occasion, those third party web sites may provide us with information about your use of those sites.
+
+We serve some third-party ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **Your consent and changes to this policy**
 
