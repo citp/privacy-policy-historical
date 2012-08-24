@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.com.mm privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625123654id_/http%3A//www.shop.com.mm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.com.mm privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825000458id_/http%3A//shop.com.mm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
