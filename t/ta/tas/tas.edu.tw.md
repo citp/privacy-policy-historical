@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the tas.edu.tw privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129055113id_/http%3A//www.tas.edu.tw/page.cfm%3Fp%3D272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tas.edu.tw privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824072645id_/http%3A//www.tas.edu.tw/page.cfm%3Fp%3D272) for the most accurate reproduction.*
 
 # Taipei American School: Privacy Policy
+
+  
+  
+| 
 
 **T** hank you for visiting the Taipei American School website and reviewing our policies and disclaimer.  By using our site, you accept the following in full:
 
@@ -44,3 +48,8 @@ Personal contact information for students, parents, and employees will not be pu
 The TAS website contains four password-protected portals intended to facilitate communication within and between its employee, parent, student, and alumni communities. ****
 
 For additional information or clarification, contact the TAS webmaster at[webmaster@tas.edu.tw](mailto:webmaster@tas.edu.tw)
+
+ _  
+_  
+  
+---|---
