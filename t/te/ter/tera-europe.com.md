@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tera-europe.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519003157id_/http%3A//tera-europe.com/data-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tera-europe.com privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824020222id_/http%3A//tera-europe.com/data-privacy-policy.html) for the most accurate reproduction.*
 
 # Data Privacy Policy - Tera Europe
 
 Version-Nr.: 1.2 from May 27th 2010
 
-Frogster Online Gaming GmbH – the company on whose website this data protection policy is displayed - strives to offer you excellent service for all products and support. We respect your right to privacy and would therefore like to inform you about how we handle your private data.
+Gameforge Berlin AG – the company on whose website this data protection policy is displayed - strives to offer you excellent service for all products and support. We respect your right to privacy and would therefore like to inform you about how we handle your private data.
 
 1\. General information
 
-For many internet users the protection of private data is of great importance and a fundamental part of a satisfactory internet experience. Frogster Online Gaming GmbH pays great attention to questions and doubts customers and other visitors to our website may have concerning data protection, and we observe the applicable data protection laws and rules of the EU.
+For many internet users the protection of private data is of great importance and a fundamental part of a satisfactory internet experience. Gameforge Berlin AG pays great attention to questions and doubts customers and other visitors to our website may have concerning data protection, and we observe the applicable data protection laws and rules of the EU.
 
-Please note that our website contains hyperlinks (‘links’) to other websites. For these other websites Frogster Online Gaming GmbH disclaims any liability with regard to data protection, statements on data protection and any other contents.
+Please note that our website contains hyperlinks (‘links’) to other websites. For these other websites Gameforge Berlin AG disclaims any liability with regard to data protection, statements on data protection and any other contents.
 
 Please consult our special instructions for voice chat.
 
@@ -56,7 +56,7 @@ We use cookies only in the way as described in this paragraph. A ‘cookie’ co
 
 We only employ ‘cookies’ in the following situations. The first situation applies to temporary cookies which we employ in two cases. If you use one of our online applications, our web server automatically sends a temporary cookie to your browser to facilitate navigation on our website. The only information contained in these temporary cookies is a route selector to help our software identify which page to display if you click the ‘back’ button in your browser. The cookie is erased as soon as you close the current browser window. If you are guided to our website via one of our business partners, our web server also sends a temporary cookie to your browser which contains a ‘source code’ relating to this business partner. We use this data for statistics and marketing purposes.
 
-If you are a licensee of Frogster Online Gaming GmbH and go to a domain of the website with admission control, we set a temporary cookie for the connection to state that you have been authenticated. These cookies contain random data that the server uses to authenticate the browser’s request to the server within the session. The cookies do not contain any data with which you can be identified personally. The cookie is erased as soon as you close the active browser window.
+If you are a licensee of Gameforge Berlin AG and go to a domain of the website with admission control, we set a temporary cookie for the connection to state that you have been authenticated. These cookies contain random data that the server uses to authenticate the browser’s request to the server within the session. The cookies do not contain any data with which you can be identified personally. The cookie is erased as soon as you close the active browser window.
 
 The second situation in which we use cookies is requests for product information, documents, services or other enquiries in the course of your visit to our website. If you fill in a form you can choose if our website may send a cookie to you local hard disk (insofar as your browser is not set-up to always accept cookies of this variety). In this case it is not a temporary cookie, but you can disable it at anytime using your browser settings. If you do not wish to accept this kind of cookie you can still use our website. However you can save time by accepting this kind of cookie because there is no need to refill in forms and/or make repeat a visit to our website. Even if you accept this kind of cookie, you can set your browser at anytime to notify you if a cookie is sent to you. Thus you always have the choice whether to accept the cookie or not.
 
@@ -70,27 +70,27 @@ We usually respond to all electronically sent questions, requests for product in
 
 3.2 Support, renewal and purchase of our products and services
 
-e use the data transmitted by you to inform you about support, renewing and purchasing of our products and services. In addition we pass on the data you transmit to affiliated companies, business partners or representatives of Frogster Online Gaming GmbH (inside and outside the European Economic Area) so that they can contact you directly with respect to support, renewing or purchasing of products and services from Frogster Online Gaming GmbH. Our affiliated companies, business partners or representatives may contact you directly.
+e use the data transmitted by you to inform you about support, renewing and purchasing of our products and services. In addition we pass on the data you transmit to affiliated companies, business partners or representatives of Gameforge Berlin AG (inside and outside the European Economic Area) so that they can contact you directly with respect to support, renewing or purchasing of products and services from Gameforge Berlin AG . Our affiliated companies, business partners or representatives may contact you directly.
 
 3.3 Providing information on products and services which may be of interest to you
 
-If at all, we only pass on the transmitted data to trustworthy business partners and suppliers of Frogster Online Gaming GmbH (inside and outside the E.U.) whose products or services, in our opinion, beneficially add to Frogster Online Gaming GmbH products and services and might be of interest to you. Our trustworthy business partners or suppliers may contact you directly.
+If at all, we only pass on the transmitted data to trustworthy business partners and suppliers of Gameforge Berlin AG (inside and outside the E.U.) whose products or services, in our opinion, beneficially add to Gameforge Berlin AG products and services and might be of interest to you. Our trustworthy business partners or suppliers may contact you directly.
 
 3.4 Providing products and services included in the scope of service
 
 (In case of having requested specific services or management services)
 
-Within our scope of service certain services provided by Frogster Online Gaming GmbH may include additional products or services from third party companies.
+Within our scope of service certain services provided by Gameforge Berlin AG may include additional products or services from third party companies.
 
 After having paid for such services we may pass on your data partly or fully to a third party (inside or outside the EU) so that they can provide the product or service and can inform you about this product or service or notify you of any upgrades. We assure you that we have agreements with these suppliers to ensure that your data will not be passed on to other parties (according to data protection law).
 
 3.5 Authenticating your identity
 
-For certain services supplied by Frogster Online Gaming GmbH it is necessary to compare certain data supplied in your request/order with third party databases or other sources of information. We do this to verify your identity and additional attributes as well as to make sure that your identity is not abused.
+For certain services supplied by Gameforge Berlin AG it is necessary to compare certain data supplied in your request/order with third party databases or other sources of information. We do this to verify your identity and additional attributes as well as to make sure that your identity is not abused.
 
 3.6 Legal obligation to disclose and protect licenses
 
-We shall comply with any legal obligation to pass on data to local authorities, government authorities, national or international authorities (for example informing the Office of Export Surveillance, the Bureau of Export Administration, or the U.S. Ministry of International Trade and Industry) about a customer’s identity who purchases certain software products according to our export license. If prevailing laws and regulations stipulate disclosure of data to third parties we shall comply. In addition Frogster Online Gaming GmbH can disclose information to verify or detect illegal activities or suspected fraud in order to prevent it or to take appropriate measures, or to enforce or implement Frogster Online Gaming GmbH’s contracts and license rights.
+We shall comply with any legal obligation to pass on data to local authorities, government authorities, national or international authorities (for example informing the Office of Export Surveillance, the Bureau of Export Administration, or the U.S. Ministry of International Trade and Industry) about a customer’s identity who purchases certain software products according to our export license. If prevailing laws and regulations stipulate disclosure of data to third parties we shall comply. In addition Gameforge Berlin AG can disclose information to verify or detect illegal activities or suspected fraud in order to prevent it or to take appropriate measures, or to enforce or implement Gameforge Berlin AG’s contracts and license rights.
 
 3.7 Opinion Surveys
 
@@ -104,9 +104,9 @@ We also evaluate this usage data in order to improve our products.
 
 3.9 Advertisement and market research
 
-If you have supplied us with your email address in the course of a normal customer relationship we may send you information by email about Frogster Online Gaming GmbH or services similar to those you have previously utilized. You can withdraw your consent for this at any time in written form (e.g. email) without incurring any costs except the expense of transmitting the withdrawal of consent (in line with basic tariffs). You will be given the opportunity to reject receiving any further information from us with every form of information we send you such as newsletters and, in doing so, lodge a formal withdrawal of consent.
+If you have supplied us with your email address in the course of a normal customer relationship we may send you information by email about Gameforge Berlin AG or services similar to those you have previously utilized. You can withdraw your consent for this at any time in written form (e.g. email) without incurring any costs except the expense of transmitting the withdrawal of consent (in line with basic tariffs). You will be given the opportunity to reject receiving any further information from us with every form of information we send you such as newsletters and, in doing so, lodge a formal withdrawal of consent.
 
-Frogster Online Gaming GmbH can use the stored data concerning you for internal analysis on demographic data, and user interests and behavior but your identity will remain anonymous. This data may also be evaluated in an anonymous and aggregated form for advertisement and market research purposes. If, and in so far as Frogster Online Gaming GmbH uses user data to create user profiles, this process can be terminated if you object to it.
+Gameforge Berlin AG can use the stored data concerning you for internal analysis on demographic data, and user interests and behavior but your identity will remain anonymous. This data may also be evaluated in an anonymous and aggregated form for advertisement and market research purposes. If, and in so far as Gameforge Berlin AG uses user data to create user profiles, this process can be terminated if you object to it.
 
 3.10 Transferral of the Game
 
@@ -114,7 +114,7 @@ If the game for which you have registered must be transferred to a third party, 
 
 3.11 Affiliated Companies
 
-Frogster Online Gaming GmbH has the right to supply your personal data to affiliated companies (see Chapter 15 and onwards of the AktienG (German Corporation Law)). This may occur in particular if the duties and responsibilities within the group of companies are changed during a restructuring, for example to improve service quality or the optimization of internal processes. These affiliated companies will also use this data within the framework of these data privacy regulations.
+Gameforge Berlin AG has the right to supply your personal data to affiliated companies (see Chapter 15 and onwards of the AktienG (German Corporation Law)). This may occur in particular if the duties and responsibilities within the group of companies are changed during a restructuring, for example to improve service quality or the optimization of internal processes. These affiliated companies will also use this data within the framework of these data privacy regulations.
 
 4\. Special Instructions on using voice chat
 
@@ -150,12 +150,12 @@ Essential modifications to this Data Privacy Policy will be published on our web
 
 9\. How to contact us or our data protection officer
 
-All interested parties and customers of Frogster Online Gaming GmbH can contact us as below:  
-Frogster Online Gaming GmbH  
+All interested parties and customers of Gameforge Berlin AG can contact us as below:  
+Gameforge Berlin AG  
 Hardenbergstrasse 9A  
 10623 Berlin  
 GERMANY
 
 Please contact our Data Protection Officer if you have any queries concerning data protection. You can contact them via:
 
-[datenschutz@frogster.de](mailto:datenschutz@frogster.de)
+[datenschutz@gameforge.com](mailto:datenschutz@gameforge.com)
