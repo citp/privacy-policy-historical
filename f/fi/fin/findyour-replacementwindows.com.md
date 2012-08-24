@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findyour-replacementwindows.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617220427id_/http%3A//www.findyour-replacementwindows.com/3x/popups/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findyour-replacementwindows.com privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824105420id_/http%3A//www.findyour-replacementwindows.com/3x/popups/privacy.jsp) for the most accurate reproduction.*
 
 # Find Your Windows - PRIVACY POLICY
 
