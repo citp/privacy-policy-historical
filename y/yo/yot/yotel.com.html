@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yotel.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513180559id_/http%3A//www.yotel.com/Information/Privacy%2520policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yotel.com privacy policy that was archived on 2012-08-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120824033050id_/http%3A//www.yotel.com/Information/Privacy%2520policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -27,7 +27,6 @@
 		<![endif]-->
 	</head>
 	<body id="bodytag" class="interior">   
-			 
 		
 		<script type="text/javascript">
         $('body').addClass('interior');        
@@ -35,12 +34,13 @@
 
 		<form method="post" action="/Information/Privacy policy" id="mainform">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ5ODM0MDUwMGQYAQUiYm90dG9tXzAkVHdpdHRlckZlZWQxJFR3aXR0ZXJWaWV3cw8PZGZk2j4oJbr8cduNK1ey8jwGyhv8pRs=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg2MzkxMTM1NWQYAQUiYm90dG9tXzAkVHdpdHRlckZlZWQxJFR3aXR0ZXJWaWV3cw8PZGZkXl1ZLuOgj+XnkSTi4emxkoqR2LQ=">
 </div>
 
 
 <script src="/ScriptResource.axd?d=r9GzaZP6zugadbzNRin0zCCD4BRJ61JCFvKJV9UzQBPSlG94_ABkyuX7WUHznVBGVomwDMVuctAY_DlNEyzFOQ9TS72uZe33e3eiu9dZJyNGgPdAcT25FGMoQdemqP0rxlNymA2&amp;t=ffffffffbd2983fc" type="text/javascript"></script>
 				
+            
 
 			<div id="pageContainer">
 
@@ -71,7 +71,7 @@
 		<li class="first "><a class="" href="/Home/About-Us/Our-story">About Us</a></li>
 		<li class=""><a class="" href="/MyYotel/Login/MyDetails">My Yotel</a></li>
 		<li class=""><a class="" href="/Home/Find Us/New-York">Find Us</a></li>
-		<li class=""><a class="" href="/Home/Contact Us/New York">Contact Us</a></li>
+		<li class=""><a class="" href="/Home/Contact Us/Contact Us">Contact Us</a></li>
                    <li id="basketLink"><a id="lnkShowBasket" class="basketIcon" basketcount="0">Basket (0)</a></li>           
                 </ul>
             
@@ -94,29 +94,167 @@
 
         emptyBasket = $("#basket .room").length <= 0;
         if (emptyBasket) {
-            clearTimeout(keepAliveTimeout);
+            //clearInterval(bookingTimerInterval);
+            clearTimeout(bookingTimerInterval);
             closeBasket();
         } else {
-            initialiseKeepAlive();
+            //what about room removed?
+            timeLoaded = new Date();
+            lastUpdate = new Date();
+            initialiseBookingTimer();
         }
     }
-
+    
     function initialiseKeepAlive() {
         clearTimeout(keepAliveTimeout); //tidy up first
         keepAliveTimeout = setTimeout('sendKeepAlive()', 300000);
     }
 
     function sendKeepAlive() {
-        $.ajax({ url: "/handlers/basketkeepalivehandler.ashx" });
+        //$.ajax({ url: "/handlers/basketkeepalivehandler.ashx" });
         initialiseKeepAlive();
+    }
+
+    /*Timer funtions*/
+
+    var bookingTimerInterval; //return from setTimeout
+    var timeLoaded = new Date();
+    var lastUpdate = new Date();
+    var timeRemaining;
+    var remainingMinutes;
+    var remainingMinutesOnLoad;
+    var warningInterval;
+    var endTimer = false;
+
+    function setRemainingSeconds(updateDiff) {
+
+        //Returns false if timed out
+
+        var currentTimeRemaining = getTimeRemaining();
+        var currentRemainingMinutes = Math.floor(currentTimeRemaining / 60);
+        var currentRemainingSeconds = currentTimeRemaining % 60;
+
+        $(".countdownRemainingMinutes").text(formatTimeValue(currentRemainingMinutes));
+        $(".countdownRemainingSeconds").text(formatTimeValue(currentRemainingSeconds));
+
+        if (showTimedOut(currentRemainingMinutes, currentRemainingSeconds)) return false;
+        return true;
+    }
+
+    function getTimeRemaining() {
+        var now = new Date();
+        var elapsed = Math.floor((now - timeLoaded) / 1000);
+        var timeLeft = timeRemaining - elapsed;
+        console.log(timeLeft);
+        return timeLeft > 0 ? timeLeft : 0;
+    }
+
+    function updateTimer() {
+        //clearTimeout(bookingTimerInterval);
+        var currentTime = new Date();
+        var updateDiff = currentTime - lastUpdate;
+
+        lastUpdate = currentTime;
+        if (setRemainingSeconds(updateDiff)) {
+            bookingTimerInterval = setTimeout(updateTimer, 1000);
+        }
+    }
+
+    function showWarning(mins, secs) {
+
+        if (warningInterval == 0) {
+            if ((mins <= 0) && (secs == 0)) {
+                showWarningContent();
+            }
+        }
+
+        if (mins < warningInterval) {
+            showWarningContent();
+        }
+
+    }
+
+    function showWarningContent() {
+        $(".errorPopup").hide();
+        $("#warningContent, #warningContent .errorPopup").show();
+        $(".overlay").show();
+    }
+
+    function showRetryUnavailableContent() {
+        $(".errorPopup").hide();
+        $("#retryUnavailableContent, #retryUnavailableContent .errorPopup").show();
+        $(".overlay").addClass("overlayAll");
+        $(".overlay").show();
+    }
+
+    function showRetrySomeAvailableContent() {
+        $(".errorPopup").hide();
+        $("#retrySomeAvailableContent, #retrySomeAvailableContent .errorPopup").show();
+        $(".overlay").addClass("overlayAll");
+        $(".overlay").show();
+    }
+
+    function showTimedOutContent() {
+        $(".errorPopup").hide();
+        $("#timedOutContent, #timedOutContent .errorPopup").show();
+        $(".overlay").addClass("overlayAll");
+        $(".overlay").show();
+        clearTimeout(bookingTimerInterval);
+        setTimeout(function () { $.ajax({ url: "/" }); }, 2000);
+    }
+
+    function showTimedOut(mins, secs) {
+
+        mins = parseInt(mins);
+        secs = parseInt(secs);
+
+        if(getTimeRemaining() <= 0){
+            closeBasket();
+            showTimedOutContent();
+            clearTimeout(bookingTimerInterval);
+            $(".countdownRemainingMinutes").text("00");
+            $(".countdownRemainingSeconds").text("00");
+            return true;
+        }
+
+        return false;
+
+    }
+
+    function initialiseBookingTimer() {
+        remainingMinutes = parseInt($(".countdownRemainingMinutes").text());
+        remainingMinutesOnLoad = remainingMinutes;
+        timeRemaining = (remainingMinutes * 60) + parseInt($(".countdownRemainingSeconds").text());
+        warningInterval = $("#txtWarningInterval").val();
+
+        bookingTimerInterval = setTimeout(updateTimer, 1000);
     }
 
 </script>
 
+<script>
+    $(function () {
+        emptyBasket = $("#basket .room").length <= 0;
+        if (emptyBasket) {
+            clearInterval(bookingTimerInterval);
+        } else {
+            initialiseBookingTimer();
+        }
+    });
+</script>
+
+<div id="top_0_BasketView_bookingTimerUpdatePanel">
+	
+        
+    
+</div>
+
 <div id="basket" style="display: none;">
+    <input type="hidden" id="txtWarningInterval" value="0">
     <h2>Your Basket</h2>        
     <div id="top_0_BasketView_basketUpdatePanel">
 	               
+         <input name="top_0$BasketView$txtRetryStatus" type="hidden" id="top_0_BasketView_txtRetryStatus" class="retryStatus">
          
             <div class="buttons">
                 <a id="top_0_BasketView_lnkCheckout" class="checkout">Proceed to checkout</a>
@@ -128,27 +266,95 @@
     <a class="close" href="#" id="lnkHideBasket">Close</a>
 </div>
 
+<div id="warningContent" class="retryPopup" style="display: none">
+    <div class="errorPopup">
+        <h2>Sorry, you’re out of time</h2>
+        <p>
+            To give everyone a fair chance we release our cabins after 30 minutes.
+        </p>
+
+        <h2>What next?</h2>
+        <p>
+            Try again for the same cabin, or choose to start again at the home page.
+        </p>
+
+    </div>
+
+</div>
+
+<div id="timedOutContent" class="retryPopup" style="display: none">
+    <div class="errorPopup">
+        <h2>Sorry, you’re out of time</h2>
+        <p>
+            To give everyone a fair chance we release our cabins after 30 minutes.
+        </p>
+
+        <h2>What next?</h2>
+        <p>
+            Try again for the same cabin, or choose to start again at the home page.
+        </p>
+        <div id="top_0_BasketView_RetryLinksUpdatePanel">
+	 
+                <a id="top_0_BasketView_lnkTryAgain" class="retryBookingLink">Try again now</a>
+                <a id="top_0_BasketView_lnkReturnToHome" class="returnToHomeLink">Go back to homepage</a>
+            
+</div>
+    </div>
+</div>
+
+<div id="retryUnavailableContent" class="retryPopup" style="display: none">
+    <div class="errorPopup">
+        <h2>Sorry...</h2>
+        <p>
+            Your cabins are no longer available; please go back to the homepage and start again.
+        </p>
+        <a id="top_0_BasketView_lnkUnavailableReturnToHomepage" class="returnToHomeLink">Go back to homepage</a>
+    </div>
+</div>
+
+<div id="retrySomeAvailableContent" class="retryPopup" style="display: none">
+    <div class="errorPopup">
+        <h2>Sorry...</h2>
+        <p>
+            One or more of your cabins is no longer available; please check your basket before continuing.
+        </p>
+        <a id="lnkSomeAvailableContinue" class="continueToBasketLink" href="#">Continue to basket</a>
+    </div>
+</div>
+
 <script type="text/javascript">
     $(document).ready(function () {
         $('#lnkHideBasket').click(function () {
             closeBasket();
         });
 
+        $('#lnkSomeAvailableContinue').click(function () {
+            $(".retryPopup").hide();
+            showBasket();
+        });
+
         // If the sb url parameter is available and this request is not due to a
         // postback then show the basket automatically
 
         var urlParams = getUrlParameters();
-        if (urlParams["sb"] === "1" && true) {
-
-            $('#basket').show();
-            $('.overlay').show();
+        if ((urlParams["sb"] === "1" || $(".retryStatus").val() == "sb") && true) {
+            showBasket();
         }
 
         emptyBasket = $("#basket .room").length <= 0;
 
         if (!emptyBasket) {
-            initialiseKeepAlive();
+            //initialiseKeepAlive();
         }
+
+        if ($(".retryStatus").val() == "nla"){
+            showRetryUnavailableContent();
+        }
+
+        if ($(".retryStatus").val() == "snla"){
+            showRetrySomeAvailableContent();
+        }
+
     });
 
     function closeBasket() {
@@ -158,10 +364,21 @@
         $('#basketLink').removeClass('selected');
     }
 
+    function showBasket() {
+        $('#basket').show();
+        $('.overlay').removeClass("overlayAll");
+        $('.overlay').show();
+    }
+
 </script>
 
 <script type="text/javascript">
-    function ShowBasket() {
+    function ShowBasket(sender, args) {
+
+        if ((typeof(args) != "undefined") && (args.get_error() != undefined)) {
+            return;
+        }
+
         var basketcount = $('#lnkShowBasket').attr("basketcount");
         if (basketcount == "0")
             $('#lnkShowBasket').addClass('disabled');
@@ -182,9 +399,10 @@
             $('.overlay').toggle();
             $('#basket').toggle();
         });
-    }    
+    }
 
-    Sys.WebForms.PageRequestManager.getInstance().add_endRequest(function () { ShowBasket(); });
+    //Sys.WebForms.PageRequestManager.getInstance().add_endRequest(function () { ShowBasket(); });
+    Sys.WebForms.PageRequestManager.getInstance().add_endRequest(ShowBasket);
     ShowBasket();
 </script>
 
@@ -263,28 +481,28 @@
         
                 <div class="tweet">
                     <p>
-                        YotelHQ: This Week's Top Track: Urbs &amp; Cutex "The Thing". The perfect sound for a relaxing afternoon. #Music http://t.co/3r4114CI
+                        YotelHQ: RT @Dj_Reggie_Perez: Tonight join Reggie Perez rock Yotel with residents Sleep &amp; Boo, for DJ Joe Buzz and DJ JoeOh's (Joe Owsinski). ...
                      </p>
                      <p class="date">
-                        12/05/2012
+                        23/08/2012
                     </p>
                 </div>
             
                 <div class="tweet">
                     <p>
-                        YotelHQ: That's the one I was waiting for. Especially when enjoyed in the Terrace. #TGIF http://t.co/U2btx2vR #Cocktail #NYC #rooftop #Margarita
+                        YotelHQ: @mattbaronuk Thanks Matt!
                      </p>
                      <p class="date">
-                        11/05/2012
+                        23/08/2012
                     </p>
                 </div>
             
                 <div class="tweet">
                     <p>
-                        YotelHQ: @richardlai Thank you! It means a lot. You're definitely our #1 'awesome person to follow' this #FollowFriday - #Engadget #FF
+                        YotelHQ: @LeoToctoc BOOOM!
                      </p>
                      <p class="date">
-                        11/05/2012
+                        23/08/2012
                     </p>
                 </div>
             
@@ -304,19 +522,19 @@
     
             <div class="youtubeItem">
                 <div class="video">
-                    <a href="http://www.youtube.com/watch?v=m9Ga90Dp4FU&amp;feature=youtube_gdata_player" target="_blank"><img src="https://i.ytimg.com/vi/m9Ga90Dp4FU/default.jpg" alt="" width="85" height="50"></a>
+                    <a href="http://www.youtube.com/watch?v=2QY4xJzFrzw&amp;feature=youtube_gdata_player" target="_blank"><img src="https://i.ytimg.com/vi/2QY4xJzFrzw/default.jpg" alt="" width="85" height="50"></a>
                 </div>
                 <p>
-                    NYC Future Zoo at YOTEL
+                    YO! Tell | DJ Angola
                 </p>
             </div>
         
             <div class="youtubeItem">
                 <div class="video">
-                    <a href="http://www.youtube.com/watch?v=LkE5dVrj2xk&amp;feature=youtube_gdata_player" target="_blank"><img src="https://i.ytimg.com/vi/LkE5dVrj2xk/default.jpg" alt="" width="85" height="50"></a>
+                    <a href="http://www.youtube.com/watch?v=hv2Cv9BcCrg&amp;feature=youtube_gdata_player" target="_blank"><img src="https://i.ytimg.com/vi/hv2Cv9BcCrg/default.jpg" alt="" width="85" height="50"></a>
                 </div>
                 <p>
-                    The world's most radical hotel introduces "YOBOT - Smart Luggage Transfer"
+                    YO! Tell | Danger Jelly
                 </p>
             </div>
         
@@ -370,18 +588,18 @@
 								</p>
 						</div>
 				</noscript>
-		
-        
+
         <script>
 (function(){{var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);}})();
 var _gaq=_gaq||[];
 _gaq.push(['_setAccount','UA-21611025-1']);
 _gaq.push(['_trackPageview']);
 </script>
-<noscript><img src="/__utm.gif?utmac=MO-21611025-1&amp;utmn=1750001258&amp;utmr=-&amp;utmp=%2flayouts%2fyotel%2fRootLayout.aspx&amp;guid=ON"/></noscript>
+<noscript><img src="/__utm.gif?utmac=MO-21611025-1&amp;utmn=1750809969&amp;utmr=-&amp;utmp=%2flayouts%2fyotel%2fRootLayout.aspx&amp;guid=ON"/></noscript>
 <span id="googleAnalytics"></span>
-
-	
+		
+        
+        
 
 
 <!--1--></body></html>
