@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trademart.in privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100245id_/http%3A//about.trademart.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademart.in privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825172533id_/http%3A//about.trademart.in/privacy_policy.html) for the most accurate reproduction.*
 
-# Web Designing Solutions,Web Designing Services,Web Designing Applications,Web Designing Company,Web Designing Delhi,Web Designing India
+# Trademart Privacy Policy, Trademart.in Privacy Policy India
 
 Trademart is completely committed to protect its users' privacy. We request you to read this privacy policy before or as soon as you start using Trademart.in. As soon as you use this website, you agree to our Privacy Policy defined below. The 'privacy policy' will help you understand how your personal and business information will be managed at Trademart.in, as you use our service for you business benefits. 
 
