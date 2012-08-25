@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeanball.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611210533id_/http%3A//www.terms.europeanball.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeanball.com privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825055050id_/http%3A//www.terms.europeanball.com/Privacy.php) for the most accurate reproduction.*
 
 # Football
 
