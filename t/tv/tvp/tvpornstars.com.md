@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvpornstars.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622051544id_/http%3A//www.tvpornstars.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvpornstars.com privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825095012id_/http%3A//www.tvpornstars.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
