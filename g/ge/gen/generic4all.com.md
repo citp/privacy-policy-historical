@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generic4all.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516021510id_/http%3A//www.generic4all.com/privacy_policy_.dhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generic4all.com privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825031229id_/http%3A//www.generic4all.com/privacy_policy_.dhtml) for the most accurate reproduction.*
 
 # Generic4All - Buy Generic Sildenafil Citrate and Tadalafil at Generic4all
 
