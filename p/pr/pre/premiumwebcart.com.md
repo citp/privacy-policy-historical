@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602191733id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826005903id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Premium Web Cart
 
