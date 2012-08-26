@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesystemblog.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615220719id_/http%3A//www.thesystemblog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesystemblog.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827014416id_/http%3A//www.thesystemblog.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
