@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disasterstrikes.org privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315073208id_/http%3A//www.disasterstrikes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disasterstrikes.org privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826054628id_/http%3A//www.disasterstrikes.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Disaster Strikes! Modern Disaster Product Database
 
