@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapiston.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513082021id_/http%3A//www.mediapiston.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapiston.com privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826094455id_/https%3A//mediapiston.com/privacy) for the most accurate reproduction.*
 
 # MediaPiston | Privacy Policy
 
