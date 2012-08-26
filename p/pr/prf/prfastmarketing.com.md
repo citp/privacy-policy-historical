@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prfastmarketing.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627123318id_/http%3A//prfastmarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfastmarketing.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827012843id_/http%3A//www.prfastmarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PR Fast Marketing. Increase your IMDB starmeter fast, buy Twitter followers, Facebook likes and Youtube video views.
 
