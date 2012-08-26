@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singerco.com privacy policy that was archived on 2012-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120210015251id_/http%3A//www.singerco.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singerco.com privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826125748id_/http%3A//www.singerco.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Singer: Privacy Policy
 
