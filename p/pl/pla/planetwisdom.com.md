@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628030422id_/http%3A//planetwisdom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827212426id_/http%3A//planetwisdom.com/privacypolicy) for the most accurate reproduction.*
 
 # Student Ministry Discipleship Conference | PlanetWisdom
 
