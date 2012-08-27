@@ -1,36 +1,81 @@
-> *The following text is extracted and transformed from the inventing.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018152800id_/http%3A//www.inventing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventing.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827070535id_/http%3A//www.inventing.com/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - www.inventing.com
+# Untitled Document
 
-[Home](https://web.archive.org/)
+We take your privacy very seriously. We have prepared this Privacy Policy to describe the types of personal and non-personal information we collect, how we use such information, and to whom and under what circumstances we disclose such information. By using our Website you signify your assent to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. 
 
-Privacy Policy for www.inventing.com 
+## Personal Information
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@www.inventing.com. 
+As a general policy, Inventing.Com's Sponsor collects personal information from you only when you voluntarily provide it to us by: (1) registering on the Website; (2) contacting us (including our customer service representatives and other employees), including but not limited to by email, postal mail, fax, telephone or through any of the contact forms found on our website; and, (3) signing up to receive information from us. We may collect personal information, including, but not limited to, your name, physical address, e-mail address, telephone number, cellular telephone number, other unique identifiers, website password, username, and other demographic information. 
 
-At www.inventing.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.inventing.com and how it is used. 
+##  Non-Personal Information 
 
-**Log Files**  
-Like many other Web sites, www.inventing.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+As part of the standard operation of our Website and Internet servers, we may collect certain non-personal information from you including, but not limited to, your IP address, and the Web page from which you accessed the Website. 
 
-**Cookies and Web Beacons**  
-www.inventing.com does not use cookies. 
+In addition, we may collect information about your browsing behavior, such as the date and time you visit our Website, the areas or pages of our Website that you visit, the amount of time you spend viewing our Website, the number of times you return to our Website, and other click-stream data. 
 
-**DoubleClick DART Cookie**
+## Cookies and Web Beacons
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.inventing.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.inventing.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+We may use cookies to collect the non-personal information described above, which may be combined with your personal information. A cookie is a small text file that may be stored on the hard drive of your computer when you access our Website. Only you and the entity that places a specific cookie on your computer may access that cookie. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense 
+We may also use cookies and/or single-pixel GIF image files (also called "Web beacons") to: (1) track and report your signup (when applicable). If you visited our Website after clicking on or through a link on another site, the affiliate company that created that link may have also placed a cookie on your computer for this purpose; (2) conduct research to improve our content and services; (3) access your account when you login to the website and provide you with customized content, when applicable; and (4) require you to re-enter your password periodically to help prevent others from accidentally accessing your account information, when applicable. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.inventing.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+You are always free to decline cookies, but by doing so, you may not be able to use certain features on the Website or take full advantage of all of our offerings. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) 
 
-www.inventing.com has no access to or control over these cookies that are used by third-party advertisers. 
+To the extent third parties may place advertising on the Website, such third parties may utilize cookies or other technological means within the advertising to collect and utilize non-personally identifiable information. We are not responsible for information collected by third parties in this manner, nor for the collection or use of information by other sites to which the Website is linked. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.inventing.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+## Access to Information You Provide to Us
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send an email with your request by emailing info@Inventing.com . 
 
-We also use ad re-targeting software from [Magnetic.is](http://privacy.magnetic.is/), which tracks your interests and then helps other sites display more targeted ads better suited to you. 
+## Use of Information
+
+Subject to the limitations stated in this policy, we may use the information we collect from you for purposes including but not limited to the following: (1) to fulfill your requests for certain products and services; (2) to provide you with targeted offers based on your specific requests or your stated preference to receive certain categories of offers; (3) to send you information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers, and other third parties; (4) to deliver targeted display advertisements and offers (by matching criteria provided by our advertisers with information collected from you); (5) to enable our marketing partners, advertisers, and other third parties to communicate with you; (6) to contact you when necessary; (7) to help address questions and problems with our Website or services; (8) to administer our Website; (9) to conduct internal reviews of our Website (for example, to determine the number of visit rs to specific pages within the Website); (10) to help us better understand visitors' use of our Website; and (11) to protect the security or integrity of our Website. 
+
+We use your contact information to send you information about our company and promotional material from our advertisers and affiliated marketing companies. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, send SMS alerts or notification, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events and/or marketing material we feel you would be interested in. If you provide telephone information while using this site, you are requesting telephone contact and agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry. 
+
+Opt-out rights. For SMS text messages, you may remove your information by replying "STOP", "END", "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request. 
+
+Non-personal information may be used for these purposes as well to monitor our Website, provide a greater online experience for our visitors, identify the source of orders and obtain accurate aggregate demographic usage patterns. 
+
+## Information That Will Not Be Disclosed
+
+Inventing.Com's Sponsor will not transfer, sell, rent or in any manner communicate to anyone outside of the company, except as expressly permitted by you in advance, any product concept, new product idea or other information describing your idea that you have submitted to us. 
+
+Inventing.Com's Sponsor will not transfer, sell, rent or in any manner communicate to anyone outside ot the company, except as expressly permitted by you in advance, any telephone numbers that you provide to us for the purpose of contacting you or providing services to you. 
+
+## Disclosure of Information
+
+Subject to limitations stated in this policy, Inventing.Com's Sponsor may transfer or otherwise disclose information collected from you to the following entities for the following purposes: (1) to our employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, and suppliers, if the disclosure will enable any of these entities to perform a business, professional, or technical support function for us; (2) to our employees, independent contractors, service providers and suppliers, to fulfill a product or service request; (3) to our marketing and business affiliates and advertisers, who may use the information in connection with their business operations, such as to send marketing and other communications to visitors of the Website; (4) as necessary if Inventing.Com's Sponsor determines that there has been a violation of the Terms of Use and/or applicable law; (5) as necessary if we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with our rights or property, other users of our Website, or anyone else that could be harmed by such activities; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation as permitted by law, or otherwise as required by law; and (7) as provided for under the "Unforeseen Circumstances" section below. Inventing.Com's Sponsor may also sell, rent, lease or otherwise transfer any personal information collected from you to any of its marketing partners, advertisers, or other third parties. 
+
+##  Security 
+
+Inventing.Com's Sponsor utilizes reasonable security measures to protect against the loss, misuse or alteration of information placed under our control. We maintain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from visitors to our Website. Our servers have been enabled with Secure Socket Layer (SSL) technology to prevent unauthorized parties from viewing your non-public personal information while in transmission during a secure session. 
+
+##  Children 
+
+We do not direct our Website to, nor do we knowingly collect any personal information from, children under the age of eighteen. 
+
+##  Third Party Websites 
+
+Our Website may contain links to other third party Websites (such as those of our marketing partners or advertisers), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these Websites. Accordingly, we recommend that you review the privacy policy posted on any web site that you may access through our Website. 
+
+##  Unforeseen Circumstances 
+
+As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities. In such transactions, personal information may be one of the transferred business assets. Also, in the event that Inventing.Com's Sponsor sells substantially all of its assets, your personal information may be one of the transferred assets. 
+
+##  Changes 
+
+If we change this Privacy Policy, we will post those changes here and revise the Effective Date accordingly. Any such revisions will be effective on the date of posting to the Website, and will apply to all information collected by Inventing.Com's Sponsor both prior to and following the effective date. Your use of the Website following any such revisions will be deemed your acceptance of such revisions. You should periodically visit this page to review the current policies with regard to information. 
+
+##  Contact Us 
+
+Please relay any questions you may have pertaining our above stated policies via email at info@Inventing.Com or   
+320 Ft. Duquesne Boulevard  
+Suite 200  
+Pittsburgh, PA 15222. 
+
+##  Your California Privacy Rights 
+
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Inventing.Com's Sponsor who are California residents to request certain information regarding Inventing.Com's Sponsor's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to:  
+info@Inventing.Com 
