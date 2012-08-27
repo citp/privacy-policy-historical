@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moderncommerce.com privacy policy that was archived on 2012-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120114052125id_/http%3A//www.moderncommerce.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderncommerce.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827022608id_/http%3A//www.moderncommerce.com/privacy.html) for the most accurate reproduction.*
 
 # Modern Commerce | Privacy Policy
 
