@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot-lyts.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626015613id_/http%3A//www.hot-lyts.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-lyts.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827151228id_/http%3A//www.hot-lyts.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hot-lyts
 
@@ -19,3 +19,5 @@ We will protect personal information by reasonable security safeguards against l
 We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
