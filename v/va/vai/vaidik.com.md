@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaidik.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422154534id_/http%3A//www.vaidik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaidik.com privacy policy that was archived on 2012-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120828014416id_/http%3A//www.vaidik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vaidik.com
 
