@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justclicktravels.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508151807id_/http%3A//justclicktravels.com/static.action%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justclicktravels.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827032426id_/http%3A//www.justclicktravels.com/static.action%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Flights, Book Lowest price Flights, Cheap Domestic and International Flights, Hotel Reservations, book exclusive resorts.
 
