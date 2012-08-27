@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrblock.in privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618123259id_/http%3A//hrblock.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.in privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827231938id_/http%3A//hrblock.in/privacy.html) for the most accurate reproduction.*
 
 # H&R Block India, Online Privacy Practices and Principles
 
