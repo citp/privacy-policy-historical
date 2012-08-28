@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultgirldirectory.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505013806id_/http%3A//www.adultgirldirectory.com/escorts/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultgirldirectory.com privacy policy that was archived on 2012-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120828092744id_/http%3A//www.adultgirldirectory.com/escorts/privacy.php) for the most accurate reproduction.*
 
 # Adult Girl Directory, escort lists, discussion, World Wide escort top 100 :: Privacy Policy
 
