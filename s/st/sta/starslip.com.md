@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starslip.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620221150id_/http%3A//starslip.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starslip.com privacy policy that was archived on 2012-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120828052921id_/http%3A//starslip.com/privacypolicy) for the most accurate reproduction.*
 
 # Starslip by Kris Straub – Sci-Fi Comics MWF » Privacy Policy
 
