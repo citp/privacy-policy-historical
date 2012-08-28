@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportpursuit.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525183954id_/http%3A//www.sportpursuit.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportpursuit.com privacy policy that was archived on 2012-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120828033127id_/http%3A//www.sportpursuit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SportPursuit.co.uk
+# Privacy Policy | SportPursuit.com
 
-1\. At SportPursuit we are dedicated to safeguarding and preserving your privacy when visiting www.sportpursuit.co.uk (“the Website”) or communicating electronically with us.  This Privacy Policy, together with our [Terms & Conditions](https://www.sportpursuit.co.uk/index.php/termsofuse/), explains what happens to any personal data that you provide to us, or that we collect from you when you are on the Website.  We do update this Policy from time to time so please do return and review this Policy regularly.
+1\. At SportPursuit we are dedicated to safeguarding and preserving your privacy when visiting www.sportpursuit.co.uk (“the Website”) or communicating electronically with us.  This Privacy Policy, together with our [Terms & Conditions](https://www.sportpursuit.com/index.php/termsofuse/), explains what happens to any personal data that you provide to us, or that we collect from you when you are on the Website.  We do update this Policy from time to time so please do return and review this Policy regularly.
 
 2\. We will treat all your Personal Information as confidential (although we reserve the right to disclose this information in the circumstances set out below).  We will keep it on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation from time to time in place.
 
@@ -40,4 +40,4 @@
 
 11\. All computers have the ability to decline cookies.  This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
 
-12\. To opt-out or update your email preferences at any time, go to the [My Account](https://www.sportpursuit.co.uk/index.php/customer/account/) section of the website.
+12\. To opt-out or update your email preferences at any time, go to the [My Account](https://www.sportpursuit.com/index.php/customer/account/) section of the website.
