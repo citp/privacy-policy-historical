@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techimo.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627200523id_/http%3A//www.techimo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techimo.com privacy policy that was archived on 2012-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120828220056id_/http%3A//www.techimo.com/privacy.html) for the most accurate reproduction.*
 
 # TechIMO.com - The enthusiast community where your opinion counts.
 
