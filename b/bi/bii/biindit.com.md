@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biindit.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627120737id_/http%3A//www.biindit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biindit.com privacy policy that was archived on 2012-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120828060733id_/http%3A//www.biindit.com/privacy.html) for the most accurate reproduction.*
 
 # Biindit - Ad Market For Everyone in South East Asia
 
