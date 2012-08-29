@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whynotad.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232617id_/http%3A//www.whynotad.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whynotad.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829100302id_/http%3A//www.whynotad.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Whynotad Privacy Policy | Free Ads Advertising Classifieds Worldwide Wiki | www.whynotad.com
 
