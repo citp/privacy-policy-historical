@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themmogame.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507130325id_/http%3A//themmogame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themmogame.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830014348id_/http%3A//themmogame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | the MMO game
 
