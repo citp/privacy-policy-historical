@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taotronics.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615154611id_/http%3A//www.taotronics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taotronics.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829205750id_/http%3A//www.taotronics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
