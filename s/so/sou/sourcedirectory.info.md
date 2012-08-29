@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcedirectory.info privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101639id_/http%3A//www.sourcedirectory.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcedirectory.info privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829231531id_/http%3A//www.sourcedirectory.info/privacy.html) for the most accurate reproduction.*
 
 # Source Directory - Web Directory of Top Sites & Blogs - Privacy
 
