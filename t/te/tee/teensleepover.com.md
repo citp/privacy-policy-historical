@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensleepover.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518005919id_/http%3A//www.teensleepover.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensleepover.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830012251id_/http%3A//www.teensleepover.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Sleepover - Teenage Lesbian Girls Lick Pussy Ass at Slumber Party
 
