@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502131610id_/http%3A//www.yoogiscloset.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829070124id_/http%3A//www.yoogiscloset.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Yoogi's Closet - Privacy Policy
 
