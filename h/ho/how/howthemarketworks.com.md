@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629063946id_/http%3A//www.howthemarketworks.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829084036id_/http%3A//www.howthemarketworks.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # HowTheMarketWorks.com - Privacy Policy
 
