@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcenterlec.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920192537id_/http%3A//www.healthcenterlec.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcenterlec.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829232246id_/http%3A//healthcenterlec.com/policy.html) for the most accurate reproduction.*
 
 # Privacy policy | - Healthcenterlec.Com
 
