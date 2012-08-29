@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushtix.com privacy policy that was archived on 2012-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120327205637id_/http%3A//info.universalstudioshollywood.com/minisite/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushtix.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829040427id_/http%3A//info.universalstudioshollywood.com/minisite/privacy_policy.html) for the most accurate reproduction.*
 
 # Universal Studios Hollywood - Privacy Policy
 
