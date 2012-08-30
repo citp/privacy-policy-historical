@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozcomiccon.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504024112id_/http%3A//www.ozcomiccon.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozcomiccon.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830182848id_/http%3A//ozcomiccon.com/privacy.aspx) for the most accurate reproduction.*
 
 # Oz Comic-Con - Privacy Policy
 
