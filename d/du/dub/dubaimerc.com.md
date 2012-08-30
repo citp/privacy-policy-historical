@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaimerc.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630064910id_/http%3A//www.dubaimerc.com/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaimerc.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830045853id_/http%3A//www.dubaimerc.com/privacy/index.aspx) for the most accurate reproduction.*
 
 # DME - Privacy Policy
 
@@ -14,7 +14,7 @@ Dubai Mercantile Exchange Limited may send personally identifiable information a
 
   * We have your consent to share the information
   * We need to share your information to provide the product or service you have requested
-  * We need to send the information to companies who work on behalf of Dubai Mercantile    Exchange Limited to provide a product or service to you
+  * We need to send the information to companies who work on behalf of Dubai Mercantile Exchange Limited to provide a product or service to you
   * We respond to subpoenas, court orders or legal process, or
   * We find that your actions on our websites violate the Dubai Mercantile Exchange Limited guidelines 
 
