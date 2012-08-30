@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativevideo.co.uk privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428221929id_/http%3A//www.creativevideo.co.uk/index.php%3Ft%3DhelpCentre/page/22/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativevideo.co.uk privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831003534id_/http%3A//www.creativevideo.co.uk/index.php%3Ft%3DhelpCentre/page/22/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # CVP website security and privacy policy
 
