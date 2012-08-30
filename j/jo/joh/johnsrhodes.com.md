@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnsrhodes.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173412id_/http%3A//johnsrhodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnsrhodes.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830024821id_/http%3A//johnsrhodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
