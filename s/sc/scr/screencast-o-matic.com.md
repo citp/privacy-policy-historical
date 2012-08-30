@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621065823id_/http%3A//www.screencast-o-matic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830192113id_/http%3A//www.screencast-o-matic.com/privacy) for the most accurate reproduction.*
 
 # Screencast-O-Matic: Privacy Policy
 
