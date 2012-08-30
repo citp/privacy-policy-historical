@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidetwistys.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501115403id_/http%3A//www.twistys.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetwistys.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831000938id_/http%3A//www.twistys.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Carsed Marketing LLC. Privacy Policy
 
