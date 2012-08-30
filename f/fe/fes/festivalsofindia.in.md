@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festivalsofindia.in privacy policy that was archived on 2012-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120210022938id_/http%3A//www.panindia.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festivalsofindia.in privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830195533id_/http%3A//www.panindia.in/privacypolicy.asp) for the most accurate reproduction.*
 
 # Pan India Internet Pvt. Ltd. - Privacy Policy
 
@@ -22,4 +22,4 @@ Our policy discloses the privacy practices for our own web site only. Our site p
 
 **Questions**
 
-If you have questions about this policy, please [contact us](https://web.archive.org/web/20120210022938id_/http%3A//www.panindia.in/contact.asp).
+If you have questions about this policy, please [contact us](https://web.archive.org/web/20120830195533id_/http%3A//www.panindia.in/contact.asp).
