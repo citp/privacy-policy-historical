@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaprooms.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630082848id_/http%3A//www.cheaprooms.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaprooms.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830060912id_/http%3A//www.cheaprooms.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CheapRooms.com - Privacy Policy
 
