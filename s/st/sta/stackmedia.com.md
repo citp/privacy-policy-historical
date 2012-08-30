@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackmedia.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501153343id_/http%3A//magazine.stack.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackmedia.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830083619id_/http%3A//magazine.stack.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # STACK Magazine - Exercises, Training, Nutrition, High School Athletes: Privacy Policy
 
