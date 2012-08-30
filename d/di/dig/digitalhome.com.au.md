@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalhome.com.au privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627095343id_/http%3A//www.jbcommercial.com.au/default/index.cfm/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalhome.com.au privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830064937id_/http%3A//www.jbcommercial.com.au/default/index.cfm/privacy-statement) for the most accurate reproduction.*
 
 # JBCommercial - Privacy Statement
 
