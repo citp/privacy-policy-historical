@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrcrest.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630183912id_/http%3A//www.hrcrest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrcrest.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830112046id_/http%3A//www.hrcrest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : HR Crest
 
@@ -19,5 +19,3 @@ If you do not want to receive e-mail from us in the future, please let us know b
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above e mail address, Ethical Practices are followed at hrcrest.com at all times.
-
-[](http://0f5b2d4ki2zhj39ospul8brbqy.hop.clickbank.net/?tid=CBG01)
