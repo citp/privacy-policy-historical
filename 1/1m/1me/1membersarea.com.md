@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1membersarea.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630064304id_/http%3A//fireballplanet.com/legal/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1membersarea.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831093931id_/http%3A//fireballplanet.com/legal/Privacy_Policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Fireball Planet Corporation and Ian del Carmen:
 
