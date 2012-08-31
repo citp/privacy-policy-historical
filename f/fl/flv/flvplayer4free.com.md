@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvplayer4free.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109060545id_/http%3A//www.flvplayer4free.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvplayer4free.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831185009id_/http%3A//www.flvplayer4free.com/privacy.htm) for the most accurate reproduction.*
 
 # FLV player Privacy
 
@@ -20,3 +20,6 @@ We do not share any personal information with any third parties.
 This site has security measures in order to protect the loss, misuse, and alteration of the information under our control. All files are not passed on to any people or organization(s).
 
 If you have any comments, questions or suggestions, please [**contact us**](http://www.flvplayer4free.com/contact.htm)
+
+  
+
