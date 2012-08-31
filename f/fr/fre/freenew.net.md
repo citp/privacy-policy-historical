@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freenew.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625204344id_/http%3A//www.freenew.net/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenew.net privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831115040id_/http%3A//www.freenew.net/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
-Your privacy is important to FreeNew. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and contact us if you have any questions.
+Your privacy is important to FreeNew. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and contact us if you have any questions.
 
 ## Collection and Use of Personal Information
 
