@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodie.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629021300id_/http%3A//www.glammedia.com/about_glam/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodie.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831073415id_/http%3A//www.glammedia.com/about_glam/legal/privacy.php) for the most accurate reproduction.*
 
 # Glam Media . About Glam . Legal . Privacy
 
