@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdevelopersnotes.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508114848id_/http%3A//www.webdevelopersnotes.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdevelopersnotes.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831195405id_/http%3A//www.webdevelopersnotes.com/privacy.php3) for the most accurate reproduction.*
 
 # Privacy Policy - WebDevelopersNotes.com
 
