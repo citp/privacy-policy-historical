@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clarksusa.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629122409id_/http%3A//www.clarksusa.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clarksusa.com privacy policy that was archived on 2012-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120831091722id_/http%3A//www.clarksusa.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- TEMPLATE: customerServiceTemplate.cfm -->
@@ -59,6 +59,10 @@
 	<link href="http://www.clarksusa.com/css/jquery-ui-1.7.2.smoothness.css" rel="stylesheet" type="text/css">
 	<link href="http://www.clarksusa.com/css/jquery.cluetip.css" rel="stylesheet" type="text/css">
 	<link href="http://www.clarksusa.com/css/jquery.tablesorter.css" rel="stylesheet" type="text/css">
+	<link href="http://www.clarksusa.com/css/ac-1.3.css" rel="stylesheet" type="text/css">
+	
+	
+	
 
 	
 	
@@ -114,6 +118,15 @@
 	<script type="text/javascript" src="http://www.clarksusa.com/sharedpages/javascript/jquery.tablesorter.min.js"></script>
 	<script type="text/javascript" src="http://www.clarksusa.com/sharedpages/javascript/jquery.jmc_resizr.js"></script>
 	<script type="text/javascript" src="http://www.clarksusa.com/sharedpages/javascript/maxlength.js"></script>
+	<script type="text/javascript" src="http://www.clarksusa.com/sharedpages/javascript/jqzoom.pack.1.0.1.js"></script>
+	<script type="text/javascript" src="http://www.clarksusa.com/sharedpages/javascript/nxt-ac-js-1.3-min.js"></script>
+	<script type="text/javascript" src="http://www.clarksusa.com/sharedpages/javascript/resize.min.js"></script>
+	<script type="text/javascript" src="http://www.clarksusa.com/sharedpages/javascript/foresee/foresee-trigger.js"></script>
+	
+	
+	
+	
+	
 	
 	<!--[if IE]>
 		<link type="text/css" rel="stylesheet" href="http://www.clarksusa.com/css/IE.css" />
@@ -131,9 +144,6 @@
 	
 			<script src="/cfajax/banners/bannersV9.js?a" language="javascript" type="text/javascript"></script>
 		
-	
-	
-	
 
 	<script type="text/javascript">
 		j$(document).ready(function() {				
@@ -159,9 +169,8 @@
 		<div id="storeSwitch">
 			<div class="selected"><a href="http://www.clarksusa.com">clarks</a></div>
 			<div class="unselected"><a href="http://bostonian.clarksusa.com">bostonian</a></div>
-			<div class="banner1052"><span id="bphId_1052"><p><img border="0" alt="" width="210" height="35" usemap="#map1009" src="/_static/webUpload/33/1009_1.jpg"><map name="map1009">
-<area title="Flat Fee Shipping" href="http://www.clarksusa.com/eng/customerService/shippinganddelivery.cfm" class="bannerLink" onclick="onBannerClick({a:this,trackingLinkId:0,bannerId:1009,track:'Y'})" shape="rect" coords="15,0,96,34">
-<area title="Free Returns" href="http://www.clarksusa.com/eng/customerService/returnpolicy.cfm" class="bannerLink" onclick="onBannerClick({a:this,trackingLinkId:0,bannerId:1009,track:'Y'})" shape="rect" coords="119,-1,185,33"></map></p></span></div>
+			<div class="banner1052"><span id="bphId_1052"><p><img border="0" alt="" width="210" height="35" usemap="#map1499" src="/_static/webUpload/33/1499_1.jpg"><map name="map1499">
+<area title="Free Shipping and Free Returns Everyday!" href="http://www.clarksusa.com/eng/customerService/free-shipping-free-returns.cfm" class="bannerLink" onclick="onBannerClick({a:this,trackingLinkId:0,bannerId:1499,track:'Y'})" shape="rect" coords="1,1,216,36"></map></p></span></div>
 		</div>
 
 
@@ -216,6 +225,7 @@
 <div id="headerLinks">	
 	
 	<ul id="generalLinks">
+		
 		
 		
 		
@@ -357,8 +367,9 @@
 
 					var keyword = trim(document.getElementById('searchTerm').value);
 
-					if(keyword == '' || keyword == 'search for costumes'){
+					if(keyword == '' || keyword == 'Search by Keyword'){
 						showAlert({message:'Please enter a keyword to search',closeBText:'x',cssClass:'alertboxSmall'});
+						
 					} else {
 						//keyword = keyword.replace(/\s+/g,'_').replace(/-/g,'~');
 						keyword = keyword.replace(/-/g,'~');
@@ -367,6 +378,9 @@
 						actionVal = actionVal +'?keywords='+ keyword;
 						
 						j$( "#form_search" ).attr( "action", actionVal )
+						if (typeof console !== "undefined") { //clarks 1918
+							console.log('actionVal='+actionVal);
+						 }
 						j$( "#form_search" ).submit();
 						
 						// with(this.document) {
@@ -424,10 +438,11 @@
 			}
 			else
 				return true;
-			}
+		}
 		
 		function clearField(obj){
-			if( j$( "#searchTerm" ).attr("class") == "newSearch" ){
+			if( j$( "#searchTerm" ).val() == "Search by Keyword" )
+			{
 				j$( "#searchTerm" ).val("");
 				j$( "#searchTerm" ).attr("class","");
 			}			
@@ -486,22 +501,19 @@
 <li id="lev1opt1"><a class="level1" href="http://www.clarksusa.com/eng/categories/womens">Womens</a>
 <ul id="storeNavSlidewomens" class="level2">
 <li>
-<a href="http://www.clarksusa.com/eng/categories/womens/sandals-under-50">Sandals Under $50 </a>
+<a href="http://www.clarksusa.com/eng/categories/womens/our-fall-favorites">Our Fall Favorites </a>
+</li>
+<li>
+<a href="http://www.clarksusa.com/eng/categories/womens/new-arrivals">New Arrivals </a>
 </li>
 <li>
 <a href="http://www.clarksusa.com/eng/categories/womens/customer-favorites">Customer Favorites </a>
 </li>
 <li>
+<a href="http://www.clarksusa.com/eng/categories/womens/sandals-under-50">Sandals Under $50 </a>
+</li>
+<li>
 <a href="http://www.clarksusa.com/eng/categories/womens/best-sellers">Best Sellers </a>
-</li>
-<li>
-<a href="http://www.clarksusa.com/eng/categories/womens/neutrals-for-spring">Neutrals for Spring </a>
-</li>
-<li>
-<a href="http://www.clarksusa.com/eng/categories/womens/classics-with-a-twist">Classics with a Twist </a>
-</li>
-<li>
-<a href="http://www.clarksusa.com/eng/categories/womens/boots-under-125">Boots under $125 </a>
 </li>
 <li class="menuSeparator"> <span>&nbsp;</span> </li>
 <li>
@@ -524,6 +536,7 @@
 <li><a href="http://www.clarksusa.com/eng/categories/womens/shoes/active">Active</a></li>
 <li><a href="http://www.clarksusa.com/eng/categories/womens/shoes/waterproof">Waterproof</a></li>
 <li><a href="http://www.clarksusa.com/eng/categories/womens/shoes/shooties">Shooties</a></li>
+<li><a href="http://www.clarksusa.com/eng/categories/womens/shoes/slip-resistant">Slip Resistant</a></li>
 </ul>
 </li>
 <li>
@@ -543,8 +556,14 @@
 </li>
 </ul>
 </li>
-<li id="lev1opt2" class="showSub"><a class="level1" href="http://www.clarksusa.com/eng/categories/mens">Mens</a>
+<li id="lev1opt2"><a class="level1" href="http://www.clarksusa.com/eng/categories/mens">Mens</a>
 <ul id="storeNavSlidemens" class="level2">
+<li>
+<a href="http://www.clarksusa.com/eng/categories/mens/our-fall-favorites">Our Fall Favorites </a>
+</li>
+<li>
+<a href="http://www.clarksusa.com/eng/categories/mens/new-arrivals">New Arrivals </a>
+</li>
 <li>
 <a href="http://www.clarksusa.com/eng/categories/mens/cool-summer-casuals">Cool Summer Casuals </a>
 </li>
@@ -572,6 +591,7 @@
 <li><a href="http://www.clarksusa.com/eng/categories/mens/shoes/oxfords-lace-ups">Oxfords &amp; Lace-ups</a></li>
 <li><a href="http://www.clarksusa.com/eng/categories/mens/shoes/boat-shoes">Boat Shoes</a></li>
 <li><a href="http://www.clarksusa.com/eng/categories/mens/shoes/driver-mocs">Driver Mocs</a></li>
+<li><a href="http://www.clarksusa.com/eng/categories/mens/shoes/slip-resistant">Slip Resistant</a></li>
 </ul>
 </li>
 <li>
@@ -581,14 +601,14 @@
 <li><a href="http://www.clarksusa.com/eng/categories/mens/sandals/fisherman">Fisherman</a></li>
 <li><a href="http://www.clarksusa.com/eng/categories/mens/sandals/slides">Slides</a></li>
 <li><a href="http://www.clarksusa.com/eng/categories/mens/sandals/casual">Casual</a></li>
-<li><a href="http://www.clarksusa.com/eng/categories/mens/sandals/waterproof">Waterproof</a></li>
 </ul>
 </li>
-<li class="selected">
+<li>
 <a href="http://www.clarksusa.com/eng/categories/mens/boots">Boots <span class="menuExpandArrow"></span></a>
 <ul class="level3">
 <li><a href="http://www.clarksusa.com/eng/categories/mens/boots/waterproof">Waterproof</a></li>
 <li><a href="http://www.clarksusa.com/eng/categories/mens/boots/casual">Casual</a></li>
+<li><a href="http://www.clarksusa.com/eng/categories/mens/boots/dress">Dress</a></li>
 </ul>
 </li>
 <li>
@@ -620,62 +640,62 @@
 <li id="lev1opt4"><a class="level1" href="http://www.clarksusa.com/eng/brands/search/866">Originals</a>
 <ul id="storeNavSlidesale" class="level2">
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/866">Womens</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/866">Womens</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/shoes/866">&nbsp;&nbsp;&nbsp;Shoes</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/shoes/866">&nbsp;&nbsp;&nbsp;Shoes</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/boots/866">&nbsp;&nbsp;&nbsp;Boots</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/boots/866">&nbsp;&nbsp;&nbsp;Boots</a>
 </li>
 <li class="menuSeparator"> <span>&nbsp;</span> </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/mens/866">Mens</a>
+<a href="http://www.clarksusa.com/eng/brands/search/mens/866">Mens</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/mens/shoes/866">&nbsp;&nbsp;&nbsp;Shoes</a>
+<a href="http://www.clarksusa.com/eng/brands/search/mens/shoes/866">&nbsp;&nbsp;&nbsp;Shoes</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/mens/boots/866">&nbsp;&nbsp;&nbsp;Boots</a>
+<a href="http://www.clarksusa.com/eng/brands/search/mens/boots/866">&nbsp;&nbsp;&nbsp;Boots</a>
 </li>
 </ul>
 </li>
-<li id="lev1opt5"><a href="https://www.clarksusa.com/eng/brands/search/865">Indigo</a>
+<li id="lev1opt5"><a href="http://www.clarksusa.com/eng/brands/search/865">Indigo</a>
 <ul id="storeNavSlidesale" class="level2">
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/sandals/865">&nbsp;&nbsp;&nbsp;Sandals</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/sandals/865">&nbsp;&nbsp;&nbsp;Sandals</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/shoes/865">&nbsp;&nbsp;&nbsp;Shoes</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/shoes/865">&nbsp;&nbsp;&nbsp;Shoes</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/boots/865">&nbsp;&nbsp;&nbsp;Boots</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/boots/865">&nbsp;&nbsp;&nbsp;Boots</a>
 </li>
 </ul>
 </li>
-<li id="lev1opt6"><a href="https://www.clarksusa.com/eng/brands/search/867">Privo</a>
+<li id="lev1opt6"><a href="http://www.clarksusa.com/eng/brands/search/867">Privo</a>
 <ul id="storeNavSlidesale" class="level2">
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/sandals/867">&nbsp;&nbsp;&nbsp;Sandals</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/sandals/867">&nbsp;&nbsp;&nbsp;Sandals</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/shoes/867">&nbsp;&nbsp;&nbsp;Shoes</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/shoes/867">&nbsp;&nbsp;&nbsp;Shoes</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/brands/search/womens/boots/867">&nbsp;&nbsp;&nbsp;Boots</a>
+<a href="http://www.clarksusa.com/eng/brands/search/womens/boots/867">&nbsp;&nbsp;&nbsp;Boots</a>
 </li>
 </ul>
 </li> 
 <li id="lev1opt7"><a class="level1" href="http://www.clarksusa.com/eng/categories/sale">Sale</a>
 <ul id="storeNavSlidesale" class="level2">
 <li>
-<a href="https://www.clarksusa.com/eng/categories/sale/womens">Womens</a>
+<a href="http://www.clarksusa.com/eng/categories/sale/womens">Womens</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/categories/sale/mens">Mens</a>
+<a href="http://www.clarksusa.com/eng/categories/sale/mens">Mens</a>
 </li>
 <li>
-<a href="https://www.clarksusa.com/eng/categories/sale/accessories">Accessories</a>
+<a href="http://www.clarksusa.com/eng/categories/sale/accessories">Accessories</a>
 </li>
 </ul>
 </li><li id="lev1opt9"><a class="level1" href="http://www.clarksusa.com/eng/kids/kidsoverview.cfm">Kids</a>
@@ -990,15 +1010,15 @@
                         <br>
                         Telephone: 1-800-211-5461<br>
                         <br>
-                        <a href="http://www.clarksusa.com/eng/aboutUs/redirect.cfm?sectionID=contact/contact.cfm">Email the Clarks Consumer Services Team</a><br>
+                        <a href="http://www.clarksusa.com/eng/customerservice/redirect.cfm?sectionID=contact/contact.cfm">Email the Clarks Consumer Services Team</a><br>
                         <br>
                         <strong>Hours</strong> (EST)<br>
                         Monday - Friday : 8am - 8pm<br>
                         Saturday : 10am - 4pm<br>
                         <br>
-                        <a target="_blank" href="http://www.clarksusa.com/eng/aboutus/aboutclarks.cfm">About Clarks USA</a><br>
-                        <a target="_blank" href="http://www.clarksusa.com/eng/customerService/faqs.cfm">Frequently Asked Questions</a><br>
-                        <a target="_blank" href="http://www.clarksusa.com/eng/customerService/orderStatusandtracking.cfm">Order Tracking</a></font></p>
+                        <a href="http://www.clarksusa.com/eng/aboutus/aboutclarks.cfm">About Clarks USA</a><br>
+                        <a href="http://www.clarksusa.com/eng/customerService/faqs.cfm">Frequently Asked Questions</a><br>
+                        <a href="http://www.clarksusa.com/eng/customerService/orderStatusandtracking.cfm">Order Tracking</a></font></p>
                         &nbsp;</td>
                     </tr>
                 </tbody>
@@ -1102,12 +1122,12 @@
     <li><a href="/eng/customerservice/privacypolicy.cfm">Privacy Policy</a></li>
     <li><a href="/eng/customerService/social-media.cfm">Get Connected</a></li>
     <li><a href="/eng/customerservice/shoecare.cfm">Shoe Care</a></li>
-    <li><a href="http://www.clarksusa.com/eng/customerService/sizeconversionguide.cfm">Size Conversion Guide</a></li>
+    <li><a href="/eng/customerService/sizeconversionguide.cfm">Size Conversion Guide</a></li>
     <li><a href="/eng/customerservice/faqs.cfm">FAQs</a></li>
 </ul>
 <ul>
-    <li class="highlight"><a href="/eng/aboutUs/aboutclarks.cfm">About Clarks</a></li>
-    <li><a href="/eng/aboutus/careers.cfm">Careers</a></li>
+    <li class="highlight"><a href="https://am.clarksjobs.com/about-us/">About Clarks</a></li>
+    <li><a href="https://am.clarksjobs.com/join-us/vacancies/">Careers</a></li>
     <li><a href="/eng/aboutus/community.cfm">Community</a></li>
     <li><a href="/eng/aboutus/ourbrands.cfm">Our Brands</a></li>
     <li><a href="/eng/aboutus/originalsstory.cfm">Originals Story</a></li>
@@ -1123,14 +1143,6 @@
     <li><a href="/eng/brands/search/868">Unstructured</a></li>
     <li><a href="/eng/brands/search/864">Clarks WAVE</a></li>
     <li><a href="/eng/brands/search/Womens/936">Soul of Africa</a></li>
-    <li><a href="/eng/aboutus/spring-womens-flats.cfm">Spring Women's Flats</a></li>
-    <li><a href="/eng/aboutus/womens-sporty-style.cfm">Women's Sporty Style</a></li>
-    <li><a href="/eng/aboutus/womens-summer-style.cfm">Women's Summer Style</a></li>
-    <li><a href="/eng/aboutus/womens-spring-wedges.cfm">Spring Women's Wedges</a></li>
-    <li><a href="/eng/aboutus/mens-desert-boots.cfm">Men's Desert Boots</a></li>
-    <li><a href="/eng/aboutus/mens-driver-mocs.cfm">Men's Driver Mocs</a></li>
-    <li><a href="/eng/aboutus/mens-boat-shoes.cfm">Men's Boat Shoes</a></li>
-    <li><a href="/eng/aboutus/mens-summer-casuals.cfm">Men's Summer Casuals</a></li>
 </ul>
 <ul>
     <li class="highlight"><a href="/eng/storeSection/redirect.cfm?sectionID=b2c/storeLocator/storeLocator.cfm">Store Locator</a></li>
@@ -1181,7 +1193,55 @@
 		<script type="text/javascript">var dr_account = '99999';</script>	
 		<script type="text/javascript" src="/sharedpages/javascript/gatag_v2.js"></script>
 			
-	
+		
+
+
+
+
+
+<!-- nextopia autocomplete -->	
+
+<script type="text/javascript">
+	(function(){
+
+
+		var pub_id = '78d655a6f6e95d513441717854288335'; //This is your public id
+		var currentSite = 'clarks'; //This is the site id
+		
+		jnxtac = jQuery.noConflict(true);
+		jnxtac("#searchTerm").autocomplete({cid:pub_id}); /*public client id*/
+		jnxtac("#searchTerm").autocomplete("option", "num_products", 8);
+		jnxtac("#searchTerm").autocomplete("option", "num_terms", 5);
+		jnxtac("#searchTerm").autocomplete("option", "footer", ''); 
+		jnxtac("#searchTerm").autocomplete("option", "currentSite", currentSite);
+		jnxtac.ui.autocomplete.prototype._handleProductSelect = function (item) { location.href = item.Returnurleng; };
+		jnxtac.ui.autocomplete.prototype._handleItemSelect = function (item) 
+		{ 
+			this.element.val(item); 
+			var url = "http://www.clarksusa.com/eng/search/advanced/?keywords="; 
+			location.href = url + escape(item);
+			//submitSearchFormOnTop(); 
+		};
+		jnxtac.ui.autocomplete.prototype._drawProduct = function (item) 
+		{
+			//var price = (item.Price && item.Price !== '(null)')? '<span class="nxt-ac-item-price">$' + item.Price + '</span>' : '';
+			var price = (item.Price && item.Price !== '(null)')? '' : '';;
+			var pname = item.Nameeng;
+			var color = item.Coloreng + " " + item.Fabriceng;
+			pname = pname + "<br>" + color;
+			if (item.Image && (item.Image.indexOf('media.nextopia.net') > -1 || item.Image.indexOf('media.commerce-search.net') > -1)) { return '<img src="' + '' + item.Imageurl + '"><span class="nxt-ac-item-text"><p>' + pname + '</p>' + price + '</span>'; } else { return '<img src="' + resize_image(item.Imageurl,75,75,pub_id) + '" alt="resized"><span class="nxt-ac-item-text"><p>' + pname + '</p>' + price + '</span>'; }			
+		}; 
+		
+		jnxtac.ui.autocomplete.prototype._positionMenu = function ( ul ) 
+		{
+			ul.position({ my: "right top", at: "right bottom", of: this.element, offset: "67 1", collision: "none" });
+		};
+	})();
+</script>
+
+
+
+
 <!-- END google.cfm -->
 
 
