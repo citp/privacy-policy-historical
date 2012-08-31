@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videotimes.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625041618id_/http%3A//www.videotimes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videotimes.net privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831094632id_/http%3A//www.videotimes.net/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy « VideoTimes
 
