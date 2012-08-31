@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanitenews.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607052149id_/http%3A//www.nanitenews.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanitenews.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831070843id_/http%3A//www.nanitenews.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # NaniteNews.com - Privacy Policy
 
@@ -36,7 +36,7 @@ You may have read about "cookies," nuggets of information that are placed by a W
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
 
-We may also use advertising service vendors to help present advertisements on the Website.Â These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. 
+We may also use advertising service vendors to help present advertisements on the Website.В These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. 
 
 If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly. 
 
