@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestquickfind.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103095351id_/http%3A//bestquickfind.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestquickfind.com privacy policy that was archived on 2012-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120901004845id_/http%3A//bestquickfind.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bestquickfind.com- Privacy Policy
 
