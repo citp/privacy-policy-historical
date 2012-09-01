@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507235649id_/http%3A//www.hostmysite.com/privacypolicy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902013326id_/http%3A//www.hostmysite.com/privacypolicy/index.shtml) for the most accurate reproduction.*
 
 # HostMySite.com :: Web Hosting Services - Privacy Policy
 
