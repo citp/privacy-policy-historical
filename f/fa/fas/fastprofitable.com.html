@@ -1,0 +1,313 @@
+<!--The following is the downloaded HTML source of the fastprofitable.com privacy policy that was archived on 2012-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120901190657id_/http%3A//www.fastprofitable.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>Fastprofitable.com</title>
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="keywords" content="advertising, banners, shares, profit, earnings">
+<meta name="description" content="Advertising platform with daily earnings">
+<link href="SpryAssets/SpryValidationPassword.css" rel="stylesheet" type="text/css">
+
+<link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="screen">
+<link href="bootstrap/css/bootstrap-custom.css" rel="stylesheet" type="text/css" media="screen">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
+<script type="text/javascript" src="bootstrap/js/bootstrap_custom.js"></script>
+
+<script type="text/javascript">
+
+function re_fresh(a)
+{
+document.getElementById(a).src = 'img.php?r='+ (new Date()).getTime();
+}
+	function removeChildNodes(ctrl)
+	{
+ 	 	while (ctrl.childNodes[0])
+ 		 {
+    		ctrl.removeChild(ctrl.childNodes[0]);
+  		}
+	}
+	
+	function updateResponseDiv(req) 
+	{
+		Spry.Utils.removeClassName("response_form1","spiner");
+		Spry.Utils.setInnerHTML('response_form1', req.xhRequest.responseText);		
+		//document.getElementById('form1').reset();
+		re_fresh('scap');
+		document.getElementById('vcap').value = '';
+	}
+	
+	function validateonsubmit(form){
+	
+		if (Spry.Widget.Form.validate(form) == true){
+			
+			var resdiv = document.getElementById('response_form1');
+			removeChildNodes(resdiv);
+			///// Add Spiner//////////////
+			Spry.Utils.addClassName("response_form1","spiner"); 
+			Spry.Utils.submitForm(form, updateResponseDiv);
+			
+			
+		}
+		return false;
+	}
+
+</script>
+<script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
+<script src="SpryAssets/SpryValidationTextarea.js" type="text/javascript"></script>
+ 	
+
+</head>
+<body>
+<div id="wrapper">
+
+	<div class="header-top">
+
+	<a href="index.php"><div class="logo"></div></a>
+	
+		<div id="ec_navmenu_container">
+
+		    
+
+	<div class="btn-toolbar">
+		<div class="btn-group"><a href="index.php" title="" class="btn btn-inverse">Home</a></div>
+		<div class="btn-group"><a href="index.php?p=faq" title="" class="btn btn-inverse">FAQ</a></div>
+		<div class="btn-group"><a href="index.php?p=contact" title="" class="btn btn-inverse">Support</a></div>
+		<div class="btn-group"><a href="index.php?p=recent_payout" title="" class="btn btn-inverse">Proofs</a></div>
+		<div class="btn-group"><a href="index.php?p=login" title="" class="btn btn-inverse">Login</a></div>
+		<div class="btn-group"><a href="index.php?p=join" title="" class="btn btn-inverse">Register</a></div>
+	</div>
+
+							
+</div> <!--menu-container-->
+	
+	</div> <!--header-top-->
+
+
+	<div id="header">
+	
+	
+			    		
+				<div class="home-slider"> 
+													
+		<a href="index.php?p=join"><div class="register-home2"></div></a>
+		
+		
+					    		
+			<div class="member-login"> 
+			
+
+
+				
+<form action="index.php" method="post" name="login">
+<input type="hidden" name="p" value="login">
+<table width="90%" align="center" class="home-login" cellspacing="1" cellpadding="1">
+  <tbody><tr>
+    <td class="left">Username</td>
+    <td class="right" width="124px">
+    <span id="user">
+    <input type="text" name="user" class="input-home"></span></td>
+  </tr>
+  <tr>
+    <td class="left">Password</td>
+    <td class="right" width="124px">
+    <span id="pass">
+    <input type="password" name="pass" class="input-home"></span></td>
+  </tr>
+       <tr>
+      <td colspan="2" align="center" class="foot"><input type="submit" name="Log" value="Login" class="btn btn-danger"><span class="home-register"><a class="btn btn-inverse" href="index.php?p=join">Register</a></span></td>
+  </tr>
+</tbody></table>
+</form>
+<div id="ok-home">
+<a href="index.php?p=lost">Forgot your password?</a><br>
+</div>
+<script type="text/javascript">
+<!--
+var user = new Spry.Widget.ValidationTextField("user","none",{validateOn:["blur","change"]});
+var pass = new Spry.Widget.ValidationTextField("pass","none",{minChars:6,validateOn:["blur","change"]});
+var ter = new Spry.Widget.ValidationTextField("ter","none",{minChars:4,validateOn:["blur","change"]});
+//-->
+</script>
+
+
+			</div>
+			
+			
+							
+		</div>
+	
+	</div>
+
+<div id="ec-layout-container">
+
+			<div id="ec-left-sidebar">
+
+			 							
+					<div id="updates" class="boxed">
+						<h2 class="title1"></h2>
+						<div class="content" align="center">
+<center><img src="bootstrap/img/payment-systems.png"></center>
+				    </div>
+					</div>
+					
+					
+						<div id="updates" class="boxed">
+						<h1 class="title2"></h1>
+						<div class="content" align="center">
+						        
+<table align="center" cellpadding="2" cellspacing="2" class="text_add">
+<tbody><tr>
+<td class="text_add_head">
+  <div align="left"><a href="text.php?bid=MjA=&amp;UID=Tk9ORQ==" target="_blank" class="text_add_header">LAUNCHED 28 AUGUST!!</a>
+  </div>
+  </td></tr>
+<tr>
+<td>
+  <div align="left"><a href="text.php?bid=MjA=&amp;UID=Tk9ORQ==" target="_blank" class="text_add_des">25 % daily for 6 DAYS!!</a><br>
+ <a href="text.php?bid=MjA=&amp;UID=Tk9ORQ==" target="_blank" class="text_add_click">GREAT OPPORTUNITY!</a>
+  </div>
+</td></tr>
+</tbody></table>
+
+	        
+<table align="center" cellpadding="2" cellspacing="2" class="text_add">
+<tbody><tr>
+<td class="text_add_head">
+  <div align="left"><a href="text.php?bid=MTQ=&amp;UID=Tk9ORQ==" target="_blank" class="text_add_header">Launching in Days!</a>
+  </div>
+  </td></tr>
+<tr>
+<td>
+  <div align="left"><a href="text.php?bid=MTQ=&amp;UID=Tk9ORQ==" target="_blank" class="text_add_des">No downline or Matrix</a><br>
+ <a href="text.php?bid=MTQ=&amp;UID=Tk9ORQ==" target="_blank" class="text_add_click">Real ONLINE business!!!</a>
+  </div>
+</td></tr>
+</tbody></table>
+
+	
+						  </div>
+						</div>
+
+					
+
+			</div>
+
+	<div id="ec-content-and-right-sidebar-container">
+
+		<div id="ec-content">
+
+<table width="90%" border="0" class="formt" align="center">
+  <tbody><tr>
+    <td id="topcell">Privacy Policy<div id="sub_top">Below you can find the information regarding our privacy policy.</div></td>
+  </tr>
+  <tr>
+    <td><p>You agree that all information, communications, materials coming from
+ are unsolicited and must be kept private, confidential and protected 
+from any disclosure. Any information, communications and materials 
+contained herein are not to be regarded as an offer, nor a solicitation 
+for investments in any jurisdiction which deems non-public offers or 
+solicitations unlawful, nor to any person to whom it will be unlawful to
+ make such offer or solicitation. All the data giving by a member to 
+will be used privately and not disclosed to any third parties. FastProfitable.com is not responsible or liable for any loss of data 
+that happens by your fault. 
+</p>
+
+<p>We are committed to ensuring that your information is secure. In 
+order to prevent unauthorised access or disclosure we have put in place 
+suitable physical, electronic and managerial procedures to safeguard the
+ information we collect online. 
+</p>
+
+<p>A cookie is a small file which asks permission to be placed on your 
+computer's hard drive. Once you agree, the file is added and the cookie 
+helps analyze web traffic or lets you know when you visit a particular 
+site. Cookies allow web applications to respond to you as an individual.
+ We only use this information for statistical analysis purposes and then
+ the data is removed from the system. 
+</p>
+
+<p>We will not sell, distribute or lease your personal information to 
+third parties. If you believe that any information we are holding on you
+ is incorrect or incomplete, please email us as soon as 
+possible. We will promptly correct any information found to be 
+incorrect.
+</p></td>
+  </tr>
+</tbody></table>
+
+		</div><!-- ec-content -->
+		
+				<div id="ec-right-sidebar">
+					<div id="updates" class="boxed">
+					<h1 class="title5"></h1>
+					<div class="banners" align="center">
+						  		<div align="center">
+      <a href="banner.php?bid=21" target="_blank"><img src="http://i25.photobucket.com/albums/c73/moku160/investments/picasioncom_9fb9c068a6fbb84e7e82df0a53936cdc.gif" alt="Paradigm Shift" longdesc="" border="0" height="125" width="125"></a> </div>
+
+
+        						  		<div align="center">
+      <a href="banner.php?bid=15" target="_blank"><img src="https://wealth4allteam.com/data/lands/15_jj0tq.gif" alt="wealth" longdesc="" border="0" height="125" width="125"></a> </div>
+
+
+        						  		<div align="center">
+      <a href="banner.php?bid=21" target="_blank"><img src="http://i25.photobucket.com/albums/c73/moku160/investments/picasioncom_9fb9c068a6fbb84e7e82df0a53936cdc.gif" alt="Paradigm Shift" longdesc="" border="0" height="125" width="125"></a> </div>
+
+
+        						  		<div align="center">
+      <a href="banner.php?bid=18" target="_blank"><img src="http://www.fastprofitable.com/banners/ban1.gif" alt="fp" longdesc="" border="0" height="125" width="125"></a> </div>
+
+
+        						  		<div align="center">
+      <a href="banner.php?bid=18" target="_blank"><img src="http://www.fastprofitable.com/banners/ban1.gif" alt="fp" longdesc="" border="0" height="125" width="125"></a> </div>
+
+
+        				  	</div>
+				</div>
+				
+				</div>
+		
+	</div><!-- ec-content-and-right-sidebar-container -->
+
+</div><!-- ec-layout-container -->
+
+<center><table>
+<tbody><tr><td>  		<div align="center">
+      <a href="banner.php?bid=75" target="_blank"><img src="http://goldenangels.biz/banners/ban2.gif" alt="Goldenangels" longdesc="" border="0" height="60" width="468"></a> </div>
+
+
+        </td><td>  		<div align="center">
+      <a href="banner.php?bid=137" target="_blank"><img src="http://www.dailyprofitalways.com/banners/ban11.gif" alt="Earn 5% daily for 50 days (Total 250%)" longdesc="" border="0" height="60" width="468"></a> </div>
+
+
+        </td>
+</tr>
+<tr><td>  		<div align="center">
+      <a href="banner.php?bid=122" target="_blank"><img src="http://bannersbroker.com/images/banners/2.jpg" alt="BannersBroker" longdesc="" border="0" height="60" width="468"></a> </div>
+
+
+        </td><td>  		<div align="center">
+      <a href="banner.php?bid=69" target="_blank"><img src="http://img15.imageshack.us/img15/7663/468x60g.gif" alt="ProfitableSunrise" longdesc="" border="0" height="60" width="468"></a> </div>
+
+
+        </td>
+</tr>
+</tbody></table></center>
+<br>
+<center><div id="footer" class="btn btn-inverse">
+<div class="footer-logo">© 2012. All Rights Reserved. Design by <a href="https://webdesign.easycloud.us">  EasyCloud.us</a>. </div>
+<div class="footer-content">
+  <p id="links"><a href="index.php">Home</a> | <a href="index.php?p=privacy">Privacy Policy</a> | <a href="index.php?p=terms">Terms of Use</a> | <a href="index.php?p=faq">FAQ</a> | <a href="index.php?p=contact">Support</a></p>
+</div>
+</div>
+</center>
+
+</div><!--wrapper-->
+
+
+</body></html>
