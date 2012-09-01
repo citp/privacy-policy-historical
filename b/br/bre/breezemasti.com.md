@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the breezemasti.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613200251id_/http%3A//www.breezemasti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezemasti.com privacy policy that was archived on 2012-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120901022130id_/http%3A//www.breezemasti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | breezemasti.com
 
 Privacy Policy for breezemasti.com
 
-The privacy of our visitors tobreezemasti.com is important to us.
+The privacy of our visitors to breezemasti.com is important to us.
 
 At breezemasti.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit breezemasti.com, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -26,4 +26,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of breezemasti.com then you may contact us at breezemasti@gmail.com 
+If you have any questions regarding the privacy policy of breezemasti.com then you may contact us at breezemasti(at)gmail(dot)com 
+
+Number of View :1717 
