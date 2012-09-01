@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestairlines.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626222924id_/http%3A//www.frontierairlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestairlines.com privacy policy that was archived on 2012-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120901085056id_/http%3A//www.frontierairlines.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
