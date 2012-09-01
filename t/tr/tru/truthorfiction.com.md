@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthorfiction.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041801id_/http%3A//www.truthorfiction.com/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthorfiction.com privacy policy that was archived on 2012-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120901132902id_/http%3A//www.truthorfiction.com/privacynotice.htm) for the most accurate reproduction.*
 
 # User Agreement
 
