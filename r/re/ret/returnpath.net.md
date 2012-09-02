@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505080445id_/http%3A//www.returnpath.net/privacy/privacy_returnpath.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902215203id_/http%3A//www.returnpath.net/privacy/privacy_returnpath.php) for the most accurate reproduction.*
 
 # Return Path
 
@@ -12,7 +12,7 @@ We know that your privacy is important to you. At Return Path, we're committed t
 
 This privacy policy is provided to inform you of our policies and practices and of the choices you can make about the way your information is collected and how that information is used. 
 
-If you have questions or concerns regarding this policy, you may contact the Return Path Privacy Office at [privacyoffice@returnpath.net](mailto:privacyoffice@returnpath.net). If you have any Customer Service issues, please contact [support@returnpath.net](mailto:support@returnpath.net). 
+If you have questions or concerns regarding this policy, you may contact the Return Path Privacy Office using this [simple online form](https://support.returnpath.net/index.php?/default_import/Tickets/Submit/RenderForm/4). If you have any Customer Service issues, please contact [support@returnpath.net](mailto:support@returnpath.net). 
 
 Our privacy policy will tell you about:
 
@@ -35,7 +35,7 @@ Tom Bartel, CPO
 
 ## The organization collecting information at this Website:
 
-[Return Path]( "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.returnpath.net](https://web.archive.org/web/20120505080445id_/http%3A//www.returnpath.net/privacy/www.returnpath.net) (the "Site"). Return Path collects information about you when you sign-up for newsletters, special promotions, or initiate requests for information regarding Return Path services (the "Service").
+[Return Path]( "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.returnpath.net](https://web.archive.org/web/20120902215203id_/http%3A//www.returnpath.net/privacy/www.returnpath.net) (the "Site"). Return Path collects information about you when you sign-up for newsletters, special promotions, or initiate requests for information regarding Return Path services (the "Service").
 
 ## The Information We Collect and Use:
 
@@ -121,7 +121,7 @@ The terms of this Privacy Policy may change from time to time. We will notify yo
 
 ## Contacting us:
 
-We value your opinions. If you have comments or questions about our privacy policy, please send them to Return Path Privacy at [privacyoffice@returnpath.net](mailto:privacyoffice@returnpath.net), or contact:
+We value your opinions. If you have comments or questions about our privacy policy, you may contact the Return Path Privacy Office using this [simple online form](https://support.returnpath.net/index.php?/default_import/Tickets/Submit/RenderForm/4), or contact:
 
 Return Path, Inc.  
 304 Park Avenue South, 7th Floor  
