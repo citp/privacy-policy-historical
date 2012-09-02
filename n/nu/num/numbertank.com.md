@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numbertank.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504172136id_/http%3A//www.numbertank.com/pagecontent.aspx%3Fq%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbertank.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902175038id_/http%3A//www.numbertank.com/pagecontent.aspx%3Fq%3Dpp) for the most accurate reproduction.*
 
 # Numbertank
 
