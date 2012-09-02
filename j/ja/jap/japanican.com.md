@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603034232id_/http%3A//www.japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903003921id_/http%3A//www.japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - JAPANiCAN
 
@@ -19,9 +19,9 @@ We see the reliable protection of personal information of our customers and othe
 [ ](http://privacymark.org/)
 
 February 27, 2007 (Established)  
-August 9, 2011 (Revised)  
+June 21, 2012 (Revised)  
 JTB Global Marketing & Travel  
-Fukagawa Saburo, President & CEO 
+Hisanori Zama, President & CEO 
 
 Personal Protection Section  
 Phone Number: 03-5796-5400 
