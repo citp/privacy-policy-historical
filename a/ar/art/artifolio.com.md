@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artifolio.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514012719id_/http%3A//www.artifolio.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artifolio.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902232252id_/http%3A//www.artifolio.com/help/privacy) for the most accurate reproduction.*
 
 # Artifolio - Artwork Gallery, Artist Portfolio and Art Blog Community
 
@@ -52,7 +52,7 @@ Artifolio only shares personal information with other companies or individuals o
 
 ‧ We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
 
-‧ We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20120514012719id_/http://www.artifolio.com/help/privacy/help.artifolio.com/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Artifolio, its users or the public as required or permitted by law. 
+‧ We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20120902232252id_/http://www.artifolio.com/help/privacy/help.artifolio.com/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Artifolio, its users or the public as required or permitted by law. 
 
 If Artifolio becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
 
