@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nacha.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501160247id_/https%3A//www.nacha.org/c/aboutus.cfm/AID/170) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nacha.org privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902225947id_/https%3A//www.nacha.org/c/aboutus.cfm/AID/170) for the most accurate reproduction.*
 
 # NACHA - The Electronic Payments Association - NACHA Privacy Policy
 
