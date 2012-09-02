@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525113003id_/http%3A//exametc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902032359id_/http%3A//exametc.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
