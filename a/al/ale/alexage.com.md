@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexage.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630074818id_/http%3A//www.alexage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexage.com privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903111814id_/http%3A//www.alexage.com/privacy-policy) for the most accurate reproduction.*
 
 # Alexage | Increase Alexa Rank, Improve Alexa Ranking, Boost Alexa Rank | Privacy Policy
 
