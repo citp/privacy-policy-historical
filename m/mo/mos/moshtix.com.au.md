@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628061426id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903092432id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # moshtix | Privacy Policy
 
-[**PRIVACY POLICY**](https://web.archive.org/web/20120628061426id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx)         [**TERMS & CONDITIONS**](https://web.archive.org/web/20120628061426id_/http%3A//www.moshtix.com.au/faq/Terms_And_Conditions_Of_Use.aspx)
+[**PRIVACY POLICY**](https://web.archive.org/web/20120903092432id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx)         [**TERMS & CONDITIONS**](https://web.archive.org/web/20120903092432id_/http%3A//www.moshtix.com.au/faq/Terms_And_Conditions_Of_Use.aspx)
 
 * * *
 
@@ -10,7 +10,7 @@
 
 Moshtix primary role is to provide event publishing, registration, ticketing and related software and services to Australian, New Zealand, US, UK and other International users of Moshtix and the Moshtix platform. 
 
-Moshtix recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. For the purposes of the Privacy Statement, the phrase ‘EVENT ORGANISER’ means the venue operators and/or promoter(s) of a particular event. 
+Moshtix recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. For the purposes of the Privacy Statement, the phrase â€˜EVENT ORGANISERâ€™ means the venue operators and/or promoter(s) of a particular event. 
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act. 
 
@@ -98,4 +98,4 @@ Level 23 175 Liverpool St Sydney, NSW, 2001
 
 Not a member? Don't miss out on loads of free giveaways and your very own personalised weekly moshguide. [Register here](https://web.archive.org/user/register.aspx)
 
-[ ](https://web.archive.org/moshpix/gallery.aspx?key=63A774CFB1 "The Gemini Tour feat. Founds + Fire!Santa... - June 15, 2012 - The Standard, Surry Hills NSW")
+[ ](https://web.archive.org/moshpix/gallery.aspx?key=7ED61CAB2E "Die! Die! Die! Harmony In Australia album... - August 23, 2012 - The Standard, Darlinghurst NSW")
