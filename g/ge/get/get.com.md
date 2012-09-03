@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the get.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617022214id_/http%3A//get.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get.com privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903110835id_/http%3A//get.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Get.com
+# Privacy Policy - Get.com
 
-  
-  
+## Effective Date & Last Modified November 8th, 2011.
 
-
-## Effective Date & Last Modified November 8th, 2010. 
-
-  
 _PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSite OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY._
 
 ### INTRODUCTION
@@ -51,8 +46,13 @@ We thought it would be helpful to set out briefly the key ways in which we use y
 
 ### I. WHAT INFORMATION DO WE COLLECT?
 
+We collect two kinds of information related to you: (a) Personally Identifiable Information ("PII"); and (b) Non-Personally Identifiable Information ("Non-PII"). 
+
+(a) Personally Identifiable Information: PII includes any information that identifies you as person. We collect your PII when you choose to register with us or when you choose to participate in an interactive feature of our Site such as a review, survey or promotion. You may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Site or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, shopping interests and preferences, etc.) when participating in a survey or poll; or (c) post a general comment and/or recommendation on our Site. 
+
+(b) Non-Personally Identifiable Information: Non-PII is any information that does not identify you as a person including PII which has been rendered anonymous. We obtain non-PII either separately or together with your PII as described above. We collect certain non-PII from you when you access our Site including IP addresses and information relating to your browser, operating system, ISP, the third party website from which your visit originated and how you use our Site such as the web pages you visit, and the duration of your visits. 
+
   
-We collect two kinds of information related to you: (a) Personally Identifiable Information ("PII"); and (b) Non-Personally Identifiable Information ("Non-PII"). (a) Personally Identifiable Information: PII includes any information that identifies you as person. We collect your PII when you choose to register with us or when you choose to participate in an interactive feature of our Site such as a review, survey or promotion. You may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Site or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, shopping interests and preferences, etc.) when participating in a survey or poll; or (c) post a general comment and/or recommendation on our Site. (b) Non-Personally Identifiable Information: Non-PII is any information that does not identify you as a person including PII which has been rendered anonymous. We obtain non-PII either separately or together with your PII as described above. We collect certain non-PII from you when you access our Site including IP addresses and information relating to your browser, operating system, ISP, the third party website from which your visit originated and how you use our Site such as the web pages you visit, and the duration of your visits.   
 
 
 ### II. HOW WE USE & SHARE THE INFORMATION COLLECTED 
