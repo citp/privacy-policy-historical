@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muecs.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429093812id_/http%3A//muecs.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muecs.com privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903103150id_/http%3A//muecs.com/Privacy) for the most accurate reproduction.*
 
 # Muecs
 
@@ -25,7 +25,7 @@ Muecs reserves the right to modify all or some of this Privacy Policy at any tim
 
 ## Conditions of Use
 
-If you decide to visit Muecs website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20120429093812id_/http%3A//muecs.com/Terms), including limitations on damages, arbitration of disputes, and application of China, Hong Kong law. 
+If you decide to visit Muecs website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20120903103150id_/http%3A//muecs.com/Terms), including limitations on damages, arbitration of disputes, and application of China, Hong Kong law. 
 
 ## Changes to this Privacy Policy
 
