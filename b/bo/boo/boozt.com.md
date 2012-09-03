@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boozt.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527174436id_/http%3A//www.boozt.com/uk/uk/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boozt.com privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903042507id_/http%3A//www.boozt.com/eu/en/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Boozt Fashion - Privacy Policy - Boozt.com UK
+# Boozt.com - Privacy Policy
 
 BZT Fashion AB and/or any of its subsidiaries or associated companies takes its relationship with all our users seriously, and this includes how we handle the data you give us. BZT Fashion AB is committed to meeting the requirements of all relevant laws and codes. This Privacy Policy sets out the ways BZT Fashion AB processes any personal data collected via its Website.
 
