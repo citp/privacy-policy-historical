@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the renlearn.co.uk privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530022601id_/http%3A//www.renlearn.co.uk/about-us/142-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renlearn.co.uk privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903045101id_/http%3A//www.renlearn.co.uk/about-us/142-privacy) for the most accurate reproduction.*
 
 # Privacy
+
+**Our website uses  [cookies](http://www.renlearn.co.uk/about-us/142-privacy#cookies). By using this website, you consent to the practices described in this privacy notice.**
 
 Renaissance Learning Ltd. UK (RLUK) considers the privacy and security of visitors to our web site to be of paramount importance. We have developed this privacy policy to communicate our commitment that we will keep any information we obtain private and secure.
 
@@ -26,4 +28,7 @@ With regard to IP address and domain information, RLUK uses a specialised comput
 
 Users visiting our web site may find links to web sites owned and operated by other organisations. Please note that when you click on one of these links, you are moving to another web site. While we reviewed the linked sites at the time of the posting of the link, and only provide a link if we believe the content of a site might be of interest to visitors to our site, the content of those linked sites is the responsibility of the organisation actually owning and/or operating the site. RLUK is not responsible for the content of any linked site. We encourage you to read the privacy statements of any linked site as its privacy policy may differ from RLUK's.
 
-[test](http://www.renlearn.co.uk/about-us/452-testofsted)
+## Cookies and browser settings
+
+A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.  
+Please see our comprehensive [notice on our use of cookies](http://www.renlearn.co.uk/about-us/469-cookies).
