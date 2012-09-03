@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmrzoo.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628094843id_/http%3A//www.tmrzoo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmrzoo.com privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903052316id_/http%3A//www.tmrzoo.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
