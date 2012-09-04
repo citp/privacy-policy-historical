@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dj-clix.info privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315132511id_/http%3A//www.dj-clix.info/index.php%3Fview%3Dpage%26type%3D2%26id%3D43) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dj-clix.info privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904094117id_/http%3A//www.dj-clix.info/index.php%3Fview%3Dpage%26type%3D2%26id%3D43) for the most accurate reproduction.*
 
-# Dj-Clix Network
+# Dj-Clix Network - work from home opportunity!
 
 ## 
 
