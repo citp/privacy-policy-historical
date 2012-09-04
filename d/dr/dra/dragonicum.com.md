@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonicum.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161406id_/http%3A//www.dragonicum.com/page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonicum.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904194505id_/http%3A//www.dragonicum.com/page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # NEW Dragonicum.com - making the right business connections !
 
