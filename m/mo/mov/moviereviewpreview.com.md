@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviereviewpreview.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418125001id_/http%3A//moviereviewpreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviereviewpreview.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904031117id_/http%3A//moviereviewpreview.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy moviereviewpreview.com
 
