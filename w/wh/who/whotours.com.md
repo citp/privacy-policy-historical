@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the whotours.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626160956id_/http%3A//www.whotours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whotours.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904074536id_/http%3A//www.whotours.com/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+[](http://cruisetocash.org/bannerpage.html)
 
 [ ](http://www.mb01.com/lnk.asp?o=846&c=10098&a=2627)[ ](http://www.mb01.com/lnk.asp?o=2045&c=30191&a=2627&s1=tourblg)
 
