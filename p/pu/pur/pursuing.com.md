@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pursuing.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625205747id_/http%3A//www.pursuing.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pursuing.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904085729id_/http%3A//www.pursuing.com/privacy.asp) for the most accurate reproduction.*
 
 # Pursuing.com
 
@@ -23,14 +23,14 @@ Brandon FL, 33511-8113
 
 ## Online Schools Colleges and Universities:
 
-[](https://web.archive.org/web/20120625205747id_/http%3A//www.pursuing.com/cmu)
+[](https://web.archive.org/web/20120904085729id_/http%3A//www.pursuing.com/cmu)
 
-[](https://web.archive.org/web/20120625205747id_/http%3A//www.pursuing.com/kendal)
+[](https://web.archive.org/web/20120904085729id_/http%3A//www.pursuing.com/kendal)
 
-[](https://web.archive.org/web/20120625205747id_/http%3A//www.pursuing.com/laurus)
+[](https://web.archive.org/web/20120904085729id_/http%3A//www.pursuing.com/laurus)
 
-[](https://web.archive.org/web/20120625205747id_/http%3A//www.pursuing.com/northcentral)
+[](https://web.archive.org/web/20120904085729id_/http%3A//www.pursuing.com/northcentral)
 
-[](https://web.archive.org/web/20120625205747id_/http%3A//www.pursuing.com/revera)
+[](https://web.archive.org/web/20120904085729id_/http%3A//www.pursuing.com/revera)
 
-[](https://web.archive.org/web/20120625205747id_/http%3A//www.pursuing.com/yti)
+[](https://web.archive.org/web/20120904085729id_/http%3A//www.pursuing.com/yti)
