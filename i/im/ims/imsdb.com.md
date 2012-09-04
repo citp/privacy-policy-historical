@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621222322id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904084649id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -19,17 +19,14 @@ Genre
 [Thriller](https://web.archive.org/genre/Thriller) | [War](https://web.archive.org/genre/War) | [Western](https://web.archive.org/genre/Western)  
   
   
-Movie Software   
----  
-[Blu-Ray ripper](https://web.archive.org/software/bluray-ripper)  
   
 Latest Comments   
 ---  
-[Girl with the Dragon Tattoo, The](https://web.archive.org/Movie%20Scripts/Girl%20with%20the%20Dragon%20Tattoo,%20The%20Script.html)| 10/10  
-[Wall Street](https://web.archive.org/Movie%20Scripts/Wall%20Street%20Script.html)| 9/10  
-[Shame](https://web.archive.org/Movie%20Scripts/Shame%20Script.html)| 7/10  
-[Girl with the Dragon Tattoo, The](https://web.archive.org/Movie%20Scripts/Girl%20with%20the%20Dragon%20Tattoo,%20The%20Script.html)| 10/10  
-[Star Wars: Return of the Jedi](https://web.archive.org/Movie%20Scripts/Star%20Wars:%20Return%20of%20the%20Jedi%20Script.html)| 10/10  
+[House of 1000 Corpses](https://web.archive.org/Movie%20Scripts/House%20of%201000%20Corpses%20Script.html)| 10/10  
+[500 Days of Summer](https://web.archive.org/Movie%20Scripts/500%20Days%20of%20Summer%20Script.html)| 10/10  
+[12 Monkeys](https://web.archive.org/Movie%20Scripts/12%20Monkeys%20Script.html)| 10/10  
+[500 Days of Summer](https://web.archive.org/Movie%20Scripts/500%20Days%20of%20Summer%20Script.html)| 8/10  
+[Broadcast News](https://web.archive.org/Movie%20Scripts/Broadcast%20News%20Script.html)| 7/10  
   
 | 
 
