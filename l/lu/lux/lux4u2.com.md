@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lux4u2.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426025307id_/http%3A//www.lux4u2.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lux4u2.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904084932id_/http%3A//www.lux4u2.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
