@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabrehospitality.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503192811id_/http%3A//www.sabrehospitality.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabrehospitality.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904160522id_/http%3A//www.sabrehospitality.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Internet Marketingfor the Hospitality Industry | Sabre Hospitality Solutions Privacy Policy
 
