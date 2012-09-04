@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flicksided.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308094409id_/http%3A//flicksided.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flicksided.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904040609id_/http%3A//flicksided.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FlickSided | A Movie & Film news, rumors, and entertainment blog
 
