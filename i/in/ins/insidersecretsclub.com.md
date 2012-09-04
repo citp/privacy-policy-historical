@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidersecretsclub.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603005526id_/http%3A//insidersecretsclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidersecretsclub.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904092133id_/http%3A//insidersecretsclub.com/privacy.html) for the most accurate reproduction.*
 
 # privacy policy
 
