@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshedplans.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509172311id_/http%3A//www.myshedplans.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshedplans.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905142145id_/http%3A//www.myshedplans.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Terms and Conditions of MyShedPlans.com - Shed Plans Blueprints & Woodworking Designs
 
@@ -51,7 +51,7 @@ MyShedPlans.com does not knowingly collect or solicit Personally Identifiable In
 
  **Contacting Us**
 
-We can be reached by using the [contact form](https://web.archive.org/web/20120509172311id_/http%3A//www.myshedplans.com/contact.htm)
+We can be reached by using the [contact form](https://web.archive.org/web/20120905142145id_/http%3A//www.myshedplans.com/contact.htm)
 
  **Changes to this Policy**
 
