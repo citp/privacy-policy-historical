@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melikethis.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419174614id_/http%3A//www.melikethis.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melikethis.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905083959id_/http%3A//www.melikethis.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Me Like This - Privacy Policy
 
