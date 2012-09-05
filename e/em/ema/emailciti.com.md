@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailciti.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424172639id_/http%3A//www.emailciti.com/inner/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailciti.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906013807id_/http%3A//www.emailciti.com/inner/privacy-policy.html) for the most accurate reproduction.*
 
 # Emailciti
 
@@ -41,7 +41,7 @@ A cookie is a small file which is placed on your hard drive when you visit any o
   * You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
   * You will be able to use our emails, newsletters and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
   * If you specifically do not wish us to collect cookie information for the purpose of content and behavioral targeted advertising, you can "opt out" by following the instructions at at your email Opt Out link.
-  * Further information on the use of cookies can be found at: [www.cookiecentral.com/faq.](https://web.archive.org/web/20120424172639id_/http%3A//www.emailciti.com/www.cookiecentral.com/faq)
+  * Further information on the use of cookies can be found at: [www.cookiecentral.com/faq.](https://web.archive.org/web/20120906013807id_/http%3A//www.emailciti.com/www.cookiecentral.com/faq)
 
 
 
