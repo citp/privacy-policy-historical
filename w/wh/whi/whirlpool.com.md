@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the whirlpool.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622073910id_/http%3A//www.whirlpool.com/webapp/wcs/stores/servlet/WHRPopUpContentDisplayView%3FcatalogId%3D10561%26langId%3D-1%26storeID%3D10211%26cid%3Dsupport_about-whirlpool-brand-privacy%26KeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D525%26width%3D500%26modal%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whirlpool.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905210636id_/http%3A//www.whirlpool.com/webapp/wcs/stores/servlet/WHRPopUpContentDisplayView%3FcatalogId%3D10561%26langId%3D-1%26storeID%3D10211%26cid%3Dsupport_about-whirlpool-brand-privacy%26KeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D525%26width%3D500%26modal%3Dfalse) for the most accurate reproduction.*
 
 # Privacy Policy Whirlpool | Refrigeration, Cooking, Dishwashers & Laundry Appliances
 
-**WHIRLPOOL CORPORATION  
-Privacy Statement to our Customers in the United States - UPDATED**
+**WHIRLPOOL CORPORATION**  
+Privacy Statement to our Customers in the United States - UPDATED
 
 Whirlpool Corporation is the world's leading manufacturer and marketer of major home appliances, with annual sales of approximately $17 billion in 2009, 67,000 employees, and 67 manufacturing and technology research centers around the world. Major brand names used in the United States include Whirlpool®, Maytag®, KitchenAid®, Jenn-Air®, Amana®, Gladiator®, Roper®, Estate®, Magic Chef®, Admiral®, and Inglis™ by Whirlpool Corporation.
 
@@ -11,15 +11,15 @@ We understand that visiting a company's web site or doing business by email, pho
 
 This page describes how Whirlpool Corporation handles information we learn about customers in the United States and was last revised on 11/30/10. Thanks for visiting this site.
 
-**YOUR CONSENT AND PREFERENCES**
+YOUR CONSENT AND PREFERENCES
 
 Whirlpool Corporation may, from time to time, contact you with communications regarding our products or services. These communications may involve product information, marketing or promotions, research, and/or other topics. To contact you, Whirlpool Corporation may use the information you provide to us, including e-mail, direct (postal) mail, fax or phone. You may, at any time, inform us that you wish to not be contacted regarding marketing or promotional communications. This is called an "Opt-out" preference. You can "opt-out" at any time, or modify your preference, by contacting us as set forth in this policy. However, please note that you cannot opt-out from all communications, as Whirlpool may need to send you information related to our products (e.g. warranties, service reminders, etc.), your orders or accounts, etc.
 
-**WHAT KIND OF INFORMATION DOES WHIRLPOOL CORPORATION COLLECT?**
+WHAT KIND OF INFORMATION DOES WHIRLPOOL CORPORATION COLLECT?
 
 Whirlpool Corporation collects two types of information: Personal information and aggregate or "combined" information. Personal information is data specifically about you. Aggregate or combined information includes data that is related to you but studied as a group and does not identify you specifically. You cannot "opt-out" from having aggregate information collected.
 
-**What are cookies, web beacons, and log files?**
+What are cookies, web beacons, and log files?
 
 Cookies – cookies are small text files that we may store on your computer to help us identify your computer the next time you visit or to enable some functions on our web sites. Whirlpool Corporation's third party service providers and business partners may also use cookies to collect non-personal information from visitors to our sites. We may use such information to measure the effectiveness of our marketing campaigns and web sites. If you are not comfortable with our use of cookies, please review your browser software to learn how it may be set to notify you when you receive a cookie or to reject all cookies. However, disabling cookies may limit some functionality and your experiences on our web sites.
 
@@ -27,13 +27,13 @@ Web beacons – web beacons are miniscule electronic image files that can be emb
 
 Log Files – these are files that record web activity and gather non-personal statistics about your visit to or use of our web sites. Log files may help us capture, among other things: (i) your IP Address, which is a unique set of numbers assigned to your computer by your Internet Service Provider (ISP) (note that, depending on your ISP, the number assigned to your computer can be different every time you connect to the Internet); (ii) the type of browser and operating system you use; and, (iii) other information about your online session, such as the URL you came from to get to our web site and the date and time you visited our web site. In addition to using this information to better understand how our web sites are used, we may use information captured through log files such as an IP Address (together with your personal information) to troubleshoot technical problems, maintain online safety and security, and if necessary, prohibit or restrict access to our Online Services by certain users.
 
-**HOW DOES WHIRLPOOL CORPORATION USE AND DISCLOSE INFORMATION ABOUT ME?**
+HOW DOES WHIRLPOOL CORPORATION USE AND DISCLOSE INFORMATION ABOUT ME?
 
 Unless otherwise stated at the point of collection, Whirlpool Corporation may use your personal information for several reasons, including but not limited to, fulfilling orders, informing you about product service and warranty issues, sending you marketing communications, auditing and improving upon the level of service we provide to our customers, etc. Regardless of what may be said at the point of information collection, Whirlpool Corporation reserves the right to contact you in the event of a service notification for your registered appliance, or to issue other notices concerning the safety of your appliance regardless of your stated privacy preferences. Whirlpool Corporation uses aggregate information only as anonymous grouped data to better understand how visitors use our site, such as the pages most frequently viewed, the paths visitors use while navigating the site to optimize the experience, and to count the number of visitors.
 
 Whirlpool Corporation may disclose your information to third parties acting on our behalf, such as call center operators, shippers, servicers, people who analyze data for us, etc. While these third parties have access to some of the information Whirlpool Corporation may have about you, the information is limited to what they need to know to do their jobs. Whirlpool Corporation may disclose and share your information with one of our affiliated companies, such as KitchenAid. If Whirlpool Corporation sells an affiliated company or other business asset, we reserve the right to transfer your personal information in connection with such a sale. Also, Whirlpool Corporation may disclose your information as necessary (1) if we determine a web site or policy violation has occurred; (2) if we believe such disclosure is necessary to identify, contract or bring legal action regarding injury or interference with the rights and property of Whirlpool Corporation; (3) to respond to judicial process and in cooperation with law enforcement agencies, or as otherwise required by law; and (4) to assist us in fraud prevention or investigation.
 
-**CALIFORNIA RESIDENTS:** YOUR CALIFORNIA PRIVACY RIGHTS
+CALIFORNIA RESIDENTS: YOUR CALIFORNIA PRIVACY RIGHTS
 
 If you are a California resident, you may have the right to request and receive certain information about our disclosure of your personal information to third parties for their direct marketing purposes, and your choices with respect to such disclosures. Because it is our policy not to share your personal information with third parties unless you are first given the opportunity to opt-out from such sharing, we are exempt from having to meet this requirement. If you still wish to learn more about our compliance with this requirement, please contact us using the contact information provided in this Policy.
 
@@ -43,29 +43,29 @@ If you are a California resident, you may have the right to request and receive 
 
      **·** If we wish to generally assess (with the help of a third party company) how our Online Services are performing in the Internet marketplace, their popularity or use amongst certain consumer demographics or profiles, and other similar performance metrics. The information disclosed for these purposes will be in aggregate form and limited to demographic or other anonymous data; no personal information will be shared.
 
-**HOW WILL WHIRLPOOL CORPORATION MAKE CHANGES TO THIS POLICY?**
+HOW WILL WHIRLPOOL CORPORATION MAKE CHANGES TO THIS POLICY?
 
 From time to time, we may update this Policy. If we do, we will note near the top of this page the date that any changes are made and/or when they become effective. If the changes being made are material (that is, we make a major change in the important points of the policy), we may alert you to the changes in a more prominent way. For example, we may temporarily highlight the new or revised sections in this Policy, temporarily post a prominent notice on our home page or registration/login page, or temporarily add the word "Updated" to the title of this Policy and any hypertext links pointing to this Policy. In some instances, we may also send you an e-mail message or other communication telling you about the changes and any choices you may have or actions you can take before they go into effect. Your inaction or continued use of our Online Services after any such alerts or notices, or your acceptance of any changes for which we require your prior approval, will tell us that you agree to these changes. If any changes we make will affect, in a material way, the way we treat any personal information collected directly from children/students, we will first contact parents (or, in the school context, the appropriate educators) and obtain the required form of consent.
 
-**HOW DOES WHIRLPOOL CORPORATION SECURE MY PERSONAL INFORMATION?**
+HOW DOES WHIRLPOOL CORPORATION SECURE MY PERSONAL INFORMATION?
 
 Whirlpool Corporation is committed to maintaining the security of the data you provide us and will take reasonable precautions to protect your personal information from loss, misuse or alteration. Please note that there is always some risk in transmitting information over the Internet. We do use secure connections on our web sites to protect credit card information during its transmission.
 
-**WHAT ABOUT THE SECURITY OF LINKED SITES?**
+WHAT ABOUT THE SECURITY OF LINKED SITES?
 
 Some of our web sites may contain links to web sites owned by other companies. Because Whirlpool Corporation has no control over the privacy practices or content of these linked sites, we recommend that you carefully review the privacy statement of each site you visit. Whirlpool Corporation is not responsible for the content or privacy practices of sites owned by other companies.
 
-**DOES WHIRLPOOL CORPORATION INTENTIONALLY MARKET TO CHILDREN?**
+DOES WHIRLPOOL CORPORATION INTENTIONALLY MARKET TO CHILDREN?
 
 This Privacy Statement addresses Whirlpool Corporation's procedures for handling the personal information of customers in the United States whom are at least 13 years old. We do not seek to, nor do we knowingly collect, information from children. If a child has provided us with personal information, a parent or guardian of that child may contact us to have the information deleted from our records. To do so, contact our [Chief Privacy Officer](mailto:whirlpool_privacy@whirlpool.com).
 
-**CAN I UPDATE OR CHANGE MY INFORMATION?**
+CAN I UPDATE OR CHANGE MY INFORMATION?
 
 You may ask to review, revise, correct or update any of the personal information we have about you by completing and submitting [this form](http://www.registration.whirlpoolcorp.com/privacy/whirlpool/preferences.asp?brand=&country=). We will respond to your request as quickly as we can.
 
 For more information, contact our [Chief Privacy Officer](mailto:whirlpool_privacy@whirlpool.com).
 
-_**By Postal Mail:**_
+ _ **By Postal Mail:**_
 
 Chief Privacy Officer  
 Whirlpool Corporation  
@@ -73,13 +73,13 @@ Whirlpool Corporation
 MD 8522  
 Benton Harbor, MI 49022
 
-_**By E-mail:**_
+ _ **By E-mail:**_
 
 [whirlpool_privacy@whirlpool.com](mailto:whirlpool_privacy@whirlpool.com)
 
 If we make photocopies of information related to your request, we reserve the right to recover related photocopy charges. 
 
-**YOUR ACCEPTANCE OF OUR PRIVACY PRACTICES**
+YOUR ACCEPTANCE OF OUR PRIVACY PRACTICES
 
 By using this web site or any other Whirlpool Corporation web site, you agree to the terms of this Privacy Statement. This Privacy Statement applies only to information provided by or collected from customers in the United States and is not intended to describe data handling procedures for information collected by other linked web sites or business partners.
 
