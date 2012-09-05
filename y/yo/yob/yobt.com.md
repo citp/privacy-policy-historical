@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yobt.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190411id_/http%3A//www.yobt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yobt.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905044755id_/http%3A//www.yobt.com/privacy.html) for the most accurate reproduction.*
 
 # Porn, Free Porn, Porno, XXX Tube, Free HD Porn Videos, Fuck, Free Porn Movies, Fucking Clips, Pussy, Teen Porn at Yobt.com
 
