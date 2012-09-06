@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allindiaforums.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610041526id_/http%3A//allindiaforums.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiaforums.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906020655id_/http%3A//allindiaforums.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy : India Forum : AllIndiaForums.com
+# Privacy Policy : India Forum
 
-Welcome! You can ask questions, answer other questions, add any messages or reply to other messages. [Join FREE](http://allindiaforums.com/ucp.php?tab=join "Join FREE! It takes only a minute!") (or [Login](http://allindiaforums.com/ucp.php?tab=login "Login Now")) for more [Benefits](http://allindiaforums.com/benefits.php "view the benefits of joining this site"). 
+Hi friend, welcome. This is a FREE Discussion Forum and Message board. You can post questions, messages, replies and anything else... and thousands of people can read and reply. close 
 
 The privacy of our visitors to allindiaforums.com is important to us. At allindiaforums.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit allindiaforums.com, and how we safeguard your information. We never sell your personal information to third parties. allindiaforums.com is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data through allindiaforums.com . 
 
