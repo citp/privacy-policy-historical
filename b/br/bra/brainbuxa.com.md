@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbuxa.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501235156id_/http%3A//www.brainbuxa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbuxa.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906021108id_/http%3A//www.brainbuxa.com/privacy.php) for the most accurate reproduction.*
 
 # Brain Buxa
 
