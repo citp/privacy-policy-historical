@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metmuseum.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624050245id_/http%3A//www.metmuseum.org/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metmuseum.org privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906022004id_/http%3A//www.metmuseum.org/information/privacy-policy) for the most accurate reproduction.*
 
 # The Metropolitan Museum of Art - Privacy Policy for Online and Electronic Use
 
