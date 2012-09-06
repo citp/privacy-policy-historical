@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the wallsave.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621223838id_/http%3A//www.wallsave.com/doc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallsave.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906064120id_/http%3A//www.wallsave.com/doc/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Wallsave Download Manager
+
+With **Wallsave Download Manager** you can download all our wallpapers and manage in your computer. Also Wallpaper will be installed automatically if you wish.
+
+  
+
 
 Yουr privacy іѕ vital tο υѕ. Tο better protect уουr privacy wе provide thіѕ notice explaining ουr online information practices аnd thе choices уου саn mаkе аbουt thе way уουr information іѕ collected аnd used. Tο mаkе thіѕ notice simple tο find, wе mаkе іt available οn ουr homepage аnd аt еνеrу point whеrе personally identifiable information mау bе requested.
 
