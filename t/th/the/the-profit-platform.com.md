@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-profit-platform.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623004652id_/http%3A//www.the-profit-platform.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-profit-platform.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906040406id_/http%3A//www.the-profit-platform.com/privacypolicy.html) for the most accurate reproduction.*
 
 # The Franchise Model Secret By Mike Filsaime
 
