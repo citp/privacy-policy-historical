@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the funnyordie.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603202202id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funnyordie.com privacy policy that was archived on 2012-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120907224241id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class="about_privacy  no-js" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# 
               fb: http://ogp.me/ns/fb# 
@@ -15,14 +15,14 @@
   <meta http-equiv="imagetoolbar" content="no">
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="+ErKfJWQvq6itS4IJJjAVB4u6xfAfOH4MtC1nprCcKc=" name="csrf-token">
-  <link href="http://public0.ordienetworks.com/assets/application-7b72956690f872662f2a17ad4790ab75.css" media="screen" rel="stylesheet" type="text/css">
+<meta content="mqKD2pdkhD86B4p7mMQ1yJGe3fm/5OvWIiwSQJB+YlU=" name="csrf-token">
+  <link href="http://public0.ordienetworks.com/assets/application-69ecc2d27575b2a8d09d9d0f1c1aecd6.css" media="screen" rel="stylesheet" type="text/css">
   
   <!--[if lt IE 8]>
     <link href="http://public0.ordienetworks.com/assets/iehacks-03d31fa349affe55e6c31fab45983505.css" media="screen" rel="stylesheet" type="text/css" />
   <![endif]-->
   
-  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="http://public0.ordienetworks.com/assets/application-a00563909502882e031f07502055d9e7.js" type="text/javascript"></script>
+  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="http://public0.ordienetworks.com/assets/application-e6f16411da04c55b136b79b314258c1b.js" type="text/javascript"></script>
   
 
 
@@ -81,7 +81,6 @@
   
 </ul>
 <div class="clear"> </div>
-
     
     <form accept-charset="UTF-8" action="/search/a" class="inline" id="search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
       <input id="q" name="q" placeholder="Search Funny or Die" size="20" type="text" value="">
@@ -104,7 +103,7 @@
   </div>
 
 	<div id="tagline">
-		<a href="/videos/fea6b1fdd4/cash-4-cash">More money for your money</a>
+		<a href="/videos/8d3cf43bec/the-hobbyist-from-jeffcranbourne">It's not without it's problems.</a>
 	</div>
 </div>
 
@@ -311,7 +310,7 @@ Please contact Funny or Die with any questions or comments about this Privacy No
             <h4><img alt="Spinner" src="http://public0.ordienetworks.com/assets/spinner-042016a130976cacff054f182bdb3323.gif">Keep your pants on...</h4>
           </div>
           <div id="newsletter_subscription_entry" style="margin-bottom:8px;">
-             <form accept-charset="UTF-8" action="/mailing_lists/signup/newsletter_subscription" data-remote="true" id="footer_newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="+ErKfJWQvq6itS4IJJjAVB4u6xfAfOH4MtC1nprCcKc="></div>
+             <form accept-charset="UTF-8" action="/mailing_lists/signup/newsletter_subscription" data-remote="true" id="footer_newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="mqKD2pdkhD86B4p7mMQ1yJGe3fm/5OvWIiwSQJB+YlU="></div>
                <input class="bluestroke" id="email" name="email" placeholder="Enter your email here!" type="text" value="">
                <input id="signup_page" name="signup_page" type="hidden" value="content_footer">
                <input class="button" id="news_button" name="commit" type="submit" value="JOIN">
@@ -585,11 +584,27 @@ Please contact Funny or Die with any questions or comments about this Privacy No
       GA.event("sharing", "facebook_like", href);
     });
     
+    
+    
+    if (!User.isLoggedIn()) {
+      FB.getLoginStatus(function(response) {     
+        if (response.authResponse && response.authResponse.accessToken) {
+          FB.api('/me/permissions', function(perms) {
+            if (perms['data'][0]['publish_actions'] == 1) {
+              $.post('/users/fb_connect_login', {fb_at: response.authResponse.accessToken, as: true, no_reload: true});
+            } else {
+              $.post('/users/fb_connect_login', {fb_at: response.authResponse.accessToken, as: false, no_reload: true});
+            }
+          });
+        }
+      }); 
+    }    
+
   });
   
   function handleFBSessionResponse(response) {
     if ((response.authResponse) && (response.authResponse.accessToken)) {
-      $.post('/users/fb_connect_login', {fb_at: response.authResponse.accessToken});
+      $.post('/users/fb_connect_login', {fb_at: response.authResponse.accessToken, as: true});
     }
   }
 
@@ -680,49 +695,23 @@ Please contact Funny or Die with any questions or comments about this Privacy No
         <div id="funbar_share_tab" class="funbar_tab funbar_button share_icons">
 					<img alt="" class="sprite funbar_share" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif">
 					<a href="#" onclick="if(!$('#email_medium_dialog_box_content').data('loaded')) {$('#email_medium_dialog_box_content').html('<div class=\&quot;loading_dialog\&quot;><img alt=\&quot;Spinner\&quot; src=\&quot;http://public0.ordienetworks.com/assets/spinner-042016a130976cacff054f182bdb3323.gif\&quot; /> Hold your horses<\/div>');$.ajax('/share/email'); $('#email_medium_dialog_box_content').data('loaded',true);}show_dialog('#email_medium_dialog');sendEvent('countdown');; return false;"><img alt="" class="sprite email_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a>
-					<a class="funbar_button" href="#" id="funbar_embed_tab" onclick="Funbar.popup(this, 'embed');; return false;" title="Embed stuff"><img alt="" class="sprite embed_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a><div class="funbar_popup_wrapper" id="funbar_embed" style="display:none"><span class="funbar_popup_arrow"></span><div class="funbar_popup"><div class="header">
-  <div style="float:right"><a href="#" onclick="Funbar.close('embed'); return false;"><img alt="" class="sprite funbar_minimize" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a></div>
-  
-  Embed stuff
-</div>
-<div class="funbar_content embed_content" id="funbar_embed_content">
-
-<div class="funbar_embed_widgets">
-  <h4>Embed a widget of videos</h4>
-    <div class="embed_widget_link">
-      <a href="#" onclick="show_dialog('#embed_widget_featured_1_dialog');update_embed_widget_code_featured_1();; return false;" title="Embed #{thing} on your webpage."><img alt="Embed_widget" height="19" src="http://public0.ordienetworks.com/assets/icons/embed_widget-1cc822f15ba9309304db1110a1e70169.png" width="43"></a>
-      <a href="#" onclick="show_dialog('#embed_widget_featured_1_dialog');update_embed_widget_code_featured_1();; return false;">Funny or Die Featured Videos</a>
-    </div>
-</div>
-</div></div></div>
-					<a class="funbar_button" href="#" id="funbar_rss_tab" onclick="Funbar.popup(this, 'rss');; return false;" title="RSS Feeds"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a><div class="funbar_popup_wrapper" id="funbar_rss" style="display:none"><span class="funbar_popup_arrow"></span><div class="funbar_popup"><div class="header">
-  <div style="float:right"><a href="#" onclick="Funbar.close('rss'); return false;"><img alt="" class="sprite funbar_minimize" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a></div>
-  
-  RSS Feeds
-</div>
-<div class="funbar_content rss_content" id="funbar_rss_content">
-<div style="padding:5px 0">
-  <a href="/videos.rss" onclick="GA.event('subscribing', 'rss', '/videos.rss');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"> Subscribe to Today's Featured Videos</a>
-</div>
-
-<div style="padding:5px 0">
-	<a href="/newsfeed_rss/global" onclick="GA.event('subscribing', 'rss', '/newfeed_rss/global');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif">  Subscribe to Funny or Die Newsfeed</a>
-</div>
-</div></div></div>
 					
 <span class="funbar_viral_links">
   <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;name=Funny%20or%20Die%20Privacy%20Notice" data-ga-event="[&quot;sharing&quot;,&quot;tumblr_share&quot;,&quot;/about/privacy&quot;]" data-popup="[&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]" id="tumblr_share" title="Share this on Tumblr"><img alt="" class="sprite tumblr_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a>
   <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy" data-ga-event="[&quot;sharing&quot;,&quot;twitter_share&quot;,&quot;/about/privacy&quot;]" data-popup="[&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=550,height=250&quot;]" id="twitter_share" title="Post this to Twitter"><img alt="Post this to Twitter" class="sprite twitter_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a>
   <a data-ga-event="[&quot;sharing&quot;,&quot;facebook_share&quot;,&quot;/about/privacy&quot;]" href="#" id="facebook_share" onclick="FB.ui(fb_post); return false;" title="Share this on Facebook"><img alt="Share this on Facebook" class="sprite facebook_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a>
   <a href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy" data-ga-event="[&quot;sharing&quot;,&quot;reddit_share&quot;,&quot;/about/privacy&quot;]" data-popup="[&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=980,height=600&quot;]" id="reddit_share" title="Submit to Reddit"><img alt="Submit to Reddit" class="sprite reddit_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a>
-  <a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;title=Funny%20or%20Die%20Privacy%20Notice" data-ga-event="[&quot;sharing&quot;,&quot;stumble_share&quot;,&quot;/about/privacy&quot;]" data-popup="[&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=980,height=600&quot;]" id="stumble_share" title="Stumble it"><img alt="Stumble Upon" class="sprite stumble_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a>
-  &nbsp;
   <g:plusone size="small" count="false" href="http://www.funnyordie.com/about/privacy" callback="trackGoogShare"></g:plusone>
   <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;title=Funny%20or%20Die%20Privacy%20Notice" class="pin-it-button" count-layout="none" data-ga-event="[&quot;sharing&quot;,&quot;pintrest_share&quot;]" data-popup="true">
     <img border="0" src="//passets-cdn.pinterest.com/images/small-p-button.png" title="Pin It">
 </a></span>
 
 
+        </div>
+
+        <div id="funbar_explore_tab" class="funbar_tab funbar_button">
+          <img alt="" class="sprite funbar_explore" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif">
+          <a href="http://www.stumbleupon.com/to/stumble/stumblethru:funnyordie.com?utm_source=FunnyOrDie&amp;utm_medium=StumbleThru&amp;utm_campaign=StumbleThruButton" data-ga-event="[&quot;sharing&quot;,&quot;stumble_thru&quot;,&quot;/about/privacy&quot;]" id="funbar-stumblethru" title="StubmleThru Funny or Die"><img alt="StumbleThru" class="sprite stumble_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"> StumbleThru</a>
         </div>
     
       </div>
@@ -784,7 +773,7 @@ Please contact Funny or Die with any questions or comments about this Privacy No
 //<![CDATA[
 $(document).ready(function() { $(document).keydown(function(event) { if (event.keyCode == 27) hide_dialog('#contact_us_dialog'); }); });
 //]]>
-</script><div id="fb_login_dialog" class="fb_login_dialog dialog" style="display:none"><div id="fb_login_dialog_box_container" class="fb_login_dialog_box_container dialog_box_container"><div id="fb_login_dialog_box" class="fb_login_dialog_box dialog_box default_box"><div id="fb_login_dialog_box_content" class="fb_login_dialog_box_content dialog_box_content"></div></div></div><div id="fb_login_dialog_bg" class="fb_login_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
+</script><div id="fb_login_dialog" class="fb_login_dialog dialog" style="display:none"><div id="fb_login_dialog_box_container" class="fb_login_dialog_box_container dialog_box_container"><div id="fb_login_dialog_box" class="fb_login_dialog_box dialog_box default_box"><div id="fb_login_dialog_close" class="dialog_closer"><a href="#" onclick="hide_dialog('#fb_login_dialog');; return false;"><img alt="" class="sprite close_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a></div><div id="fb_login_dialog_box_content" class="fb_login_dialog_box_content dialog_box_content"></div></div><div id="fb_login_dialog_hider" class="fb_login_dialog_hider dialog_hider" onclick="hide_dialog('#fb_login_dialog'); return false;">&nbsp;</div></div><div id="fb_login_dialog_bg" class="fb_login_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
 //<![CDATA[
 $(document).ready(function() { $(document).keydown(function(event) { if (event.keyCode == 27) hide_dialog('#fb_login_dialog'); }); });
 //]]>
@@ -795,7 +784,7 @@ $(document).ready(function() { $(document).keydown(function(event) { if (event.k
   <div id="twitter_login_error" class="inline_message error" style="display:none;"></div>
   <div style="padding: 10px;">
     <div id="twitter_login_form" style="margin-top: 10px;">
-      <form accept-charset="UTF-8" action="/users/twitter_connect_login" id="twitter_login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="+ErKfJWQvq6itS4IJJjAVB4u6xfAfOH4MtC1nprCcKc="></div>        <p>
+      <form accept-charset="UTF-8" action="/users/twitter_connect_login" id="twitter_login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="mqKD2pdkhD86B4p7mMQ1yJGe3fm/5OvWIiwSQJB+YlU="></div>        <p>
           <label for="twitter_email" class="label">Your email address:</label>
           <br>
           <input class="text_input" id="twitter_email" maxlength="100" name="twitter_email" size="20" type="text">
@@ -830,7 +819,7 @@ $(document).ready(function() { $(document).keydown(function(event) { if (event.k
 	</div>
 	<div style="padding-top:15px">
 		<div id="login" style="display:block">
-		  <form accept-charset="UTF-8" action="https://secure.funnyordie.com/session" id="login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="+ErKfJWQvq6itS4IJJjAVB4u6xfAfOH4MtC1nprCcKc="></div><div id="login_fields">
+		  <form accept-charset="UTF-8" action="https://secure.funnyordie.com/session" id="login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="mqKD2pdkhD86B4p7mMQ1yJGe3fm/5OvWIiwSQJB+YlU="></div><div id="login_fields">
 	<p><label for="login_user_login" class="label">Username</label><br>
 	<input autocapitalize="off" autocorrect="off" class="text_input" id="login_user_login" name="login_user[login]" size="30" type="text"></p>
 	
@@ -847,7 +836,7 @@ $(document).ready(function() { $(document).keydown(function(event) { if (event.k
 </form>
 		</div>
 		<div id="signup" style="display:none">
-		  <form accept-charset="UTF-8" action="https://secure.funnyordie.com/signup" class="new_user" id="signup_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="+ErKfJWQvq6itS4IJJjAVB4u6xfAfOH4MtC1nprCcKc="></div>  <p>
+		  <form accept-charset="UTF-8" action="https://secure.funnyordie.com/signup" class="new_user" id="signup_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="mqKD2pdkhD86B4p7mMQ1yJGe3fm/5OvWIiwSQJB+YlU="></div>  <p>
     <label for="user_email" class="label">Your email address:</label>
     <br>
     <input class="text_input" id="user_email" maxlength="100" name="user[email]" size="20" type="text">
@@ -895,136 +884,6 @@ $(document).ready(function() { $(document).keydown(function(event) { if (event.k
 </div></div><div id="login_dialog_hider" class="login_dialog_hider dialog_hider" onclick="hide_login_dialog(); return false;">&nbsp;</div></div><div id="login_dialog_bg" class="login_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
 //<![CDATA[
 $(document).ready(function() { $(document).keydown(function(event) { if (event.keyCode == 27) hide_dialog('#login_dialog'); }); });
-//]]>
-</script><div id="embed_widget_featured_1_dialog" class="embed_widget_dialog dialog" style="display:none"><div id="embed_widget_featured_1_dialog_box_container" class="embed_widget_dialog_box_container dialog_box_container"><div id="embed_widget_featured_1_dialog_box" class="embed_widget_dialog_box dialog_box "><div id="embed_widget_featured_1_dialog_close" class="dialog_closer"><a href="#" onclick="hide_dialog('#embed_widget_featured_1_dialog');; return false;"><img alt="" class="sprite close_icon" src="http://public0.ordienetworks.com/assets/s-1dd25909029324b8464c90e66b574e03.gif"></a></div><div id="embed_widget_featured_1_dialog_box_content" class="embed_widget_dialog_box_content dialog_box_content">
-<script type="text/javascript">
-//<![CDATA[
-
-
-	var template_featured_1 = _.template('<!-- Start of Funny or Die Funny or Die Featured Videos Widget -->\n<noscript><div><a href=\"http://www.funnyordie.com/?utm_campaign=featured&amp;utm_medium=widget&amp;utm_source=featured\">Funny or Die Featured Videos<\/a> from <a href=\"http://www.funnyordie.com/?utm_campaign=featured&amp;utm_medium=widget&amp;utm_source=featured\">Funny or Die<\/a><\/div><\/noscript>\n<iframe id=\"odn_featured_1\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" src=\"http://www.funnyordie.com/widget/featured/1#{querystring}\" width=\"#{width}\" height=\"#{height}\"><\/iframe>\n<div><a href=\"http://www.funnyordie.com/?utm_campaign=featured&amp;utm_medium=widget&amp;utm_source=featured\">Funny or Die Featured Videos<\/a> from <a href=\"http://www.funnyordie.com/?utm_campaign=featured&amp;utm_medium=widget&amp;utm_source=featured\">Funny or Die<\/a><\/div>\n<!-- End of Funny or Die Funny or Die Featured Videos Widget -->');
-
-  function querystring_featured_1() {
-    var querystring = '';
-    var pairs = {};
-    var defaults = {theme:'dark',layout:'horizontal',height:'300',width:'300',font_size:'17',header:'22'};
-    _(defaults).each(function(value,key){
-      var field_id = "#" + key+'_featured_1';
-      if(value != $(field_id).val()) {
-        pairs[key] = $(field_id).val();
-      }
-    });
-    if(_(pairs).size() > 0) {
-      querystring = '?' + $.param(pairs);
-    }
-    var title_field_id = '#title_featured_1';
-    if($(title_field_id).val() != '' && $(title_field_id).val() != 'Funny or Die Featured Videos') {
-      querystring += '#'+escape($(title_field_id).val());
-    }
-    return querystring;
-  }
-
-	function update_embed_widget_code_featured_1() {
-	  $('#embed_widget_featured_1').val(template_featured_1({
-	    width:$('#width_featured_1').val(), height:$('#height_featured_1').val(), querystring:querystring_featured_1()
-	  }));
-	  $('#embed_widget_featured_1_dialog_box').css({width:(parseInt($('#width_featured_1').value)+240+'px')});
-		$('#embed_widget_preview_featured_1').html($('#embed_widget_featured_1').val());
-	}
-
-	function get_embed_code_featured_1() {
-	  GA.event('sharing','embed_widget_featured_copy','#{widget_object.id}')
-	  return $('#embed_widget_featured_1').val();
-	}
-
-  $(function($) {
-    $("#selector_videos_featured_1 select, #selector_videos_featured_1 input[type=text]").change(update_embed_widget_code_featured_1);
-  });
-
-
-//]]>
-</script>
-<div id="selector_videos_featured_1">
-
-	<h3 style="font-family:Futura;font-size:150%;text-align:center;text-transform:uppercase;font-weight:bold">Embed Funny or Die Featured Videos<br>on your webpage or blog </h3>
-
-  <table cellpadding="0" cellspacing="10" border="0">
-    <tbody><tr>
-      <td valign="top">
-	      <h4 style="font-family:Futura;font-size:100%;margin-bottom:5px;">1. Customize Widget</h4>
-<table cellpadding="0" cellspacing="0" width="200" class="embed_widget_customization"><tbody>
-	<tr>
-	  <td width="60"><label for="theme_featured_1">THEME</label></td>
-	  <td>
-			<select id="theme_featured_1" name="theme_featured_1"><option value="dark">Dark</option>
-<option value="light">Light</option></select>
-		</td>
-	</tr>
-	<tr>
-		<td><label for="layout_featured_1">LAYOUT</label></td>
-		<td>
-			<select id="layout_featured_1" name="layout_featured_1"><option value="horizontal">Horizontal</option>
-<option value="vertical">Vertical</option></select>
-		</td>
-	</tr>
-	<tr>
-		<td><label for="height_featured_1">HEIGHT</label></td>
-		<td>
-			<input id="height_featured_1" name="height_featured_1" style="width:120px;" type="text" value="300">
-		</td>
-	</tr>
-	<tr>
-		<td><label for="width_featured_1">WIDTH</label></td>
-		<td>
-			<input id="width_featured_1" name="width_featured_1" style="width:120px;" type="text" value="300">
-		</td>
-	</tr>
-</tbody></table>
-
-<h4 style="font-family:Futura;font-size:100%;margin-bottom:5px;">2. Customize Title</h4>
-<table cellpadding="0" cellspacing="0" width="200" class="embed_widget_customization"><tbody>
-  <tr>
-    <td width="60"><label for="title_featured_1">TITLE</label></td>
-    <td>
-      <input id="title_featured_1" name="title_featured_1" style="width:120px;" type="text" value="Funny or Die Featured Videos">
-    </td>
-  </tr>
-	<tr>
-		<td><label for="header_featured_1">HEIGHT</label></td>
-		<td>
-			<input id="header_featured_1" name="header_featured_1" style="width:120px;" type="text" value="22">
-		</td>
-	</tr>
-	<tr>
-		<td><label for="font_size_featured_1">FONT SIZE</label></td>
-		<td>
-			<input id="font_size_featured_1" name="font_size_featured_1" style="width:120px;" type="text" value="17">
-		</td>
-	</tr>
-  
-  <tr style="background-color:transparent">
-	  <td colspan="2" align="center" style="text-align:center"><button type="button">Preview</button></td>
-	</tr>
-</tbody></table>
-
-	      
-	      <h4 style="font-family:Futura;font-size:100%;margin-bottom:5px;margin-top:15px">3. Copy and Paste this HTML </h4>
-      	<textarea id="embed_widget_featured_1" name="embed_widget_featured_1" onclick="javascript:this.focus();this.select();GA.event('sharing','embed_widget_featured_copy','1')" readonly="readonly" style="height:80px;width:198px;font-size:12px">wait for it...</textarea>
-	    </td>
-	    
-	    <td valign="top">
-	      <div id="embed_widget_preview_featured_1">Loading...</div>
-	      <div style="background-color:#47B5D7;-moz-border-radius:10px;color:#000000;text-align:center;font-family:Futura;margin-top:10px">
-	        <h3 style="color:#000000;padding-top:5px;margin:0;font-size:140%">Want More Widgets?</h3>
-	        <p style="margin:0;padding-bottom:5px">We hope you do, because we made a shit-ton.<br>Go to our <a href="/promos/widgethq" style="color:#000000">Widget Headquarters</a>.</p>
-	    </div></td>
-	  </tr>
-	</tbody></table>
-
-</div>
-
-</div></div><div id="embed_widget_featured_1_dialog_hider" class="embed_widget_dialog_hider dialog_hider" onclick="hide_dialog('#embed_widget_featured_1_dialog'); return false;">&nbsp;</div></div><div id="embed_widget_featured_1_dialog_bg" class="embed_widget_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
-//<![CDATA[
-$(document).ready(function() { $(document).keydown(function(event) { if (event.keyCode == 27) hide_dialog('#embed_widget_featured_1_dialog'); }); });
 //]]>
 </script>  <script type="text/javascript">
 //<![CDATA[
@@ -1080,7 +939,7 @@ $(document).ready(function() { $(document).keydown(function(event) { if (event.k
         </tr>
       </table>
     </script>
-    <!-- PageGen: 2012-06-03 14:29:50 -0500 -->
+    <!-- PageGen: 2012-09-07 15:43:28 -0500 -->
   </div>
 </div>
 <script type="text/javascript" charset="utf-8">
