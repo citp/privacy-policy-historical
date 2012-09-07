@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzbox.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511081520id_/http%3A//www.buzzbox.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzbox.com privacy policy that was archived on 2012-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120907062414id_/http%3A//www.buzzbox.com/page/terms) for the most accurate reproduction.*
 
 # Terms of Service And Privacy Policy
 
