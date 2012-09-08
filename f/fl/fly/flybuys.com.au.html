@@ -1,24 +1,9 @@
-<!--The following is the downloaded HTML source of the flybuys.com.au privacy policy that was archived on 2012-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120321053517id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flybuys.com.au privacy policy that was archived on 2012-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120908024921id_/https%3A//www.flybuys.com.au/flybuys/content/about/policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-
-
-
-
-
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/jquery.query-2.1.7.js"></script>
-
-
-<title>Privacy Policy</title>
-
-<meta name="Keywords" content="">
-<meta name="Description" content="">
-
-
-
+<!-- POP LOAD FIRST - START -->
 
 <!-- Meta info -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -27,184 +12,146 @@
 <meta http-equiv="expires" content="0">
 <meta http-equiv="Expires" content="-1">
 
-
 <!-- favicon -->
 <link rel="icon" href="/export/sites/default/flybuys/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/export/sites/default/flybuys/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/export/sites/default/flybuys/favicon.ico?v=20120423" type="image/x-icon">
 
-<!-- CSS includes -->
+<!-- common style sheet, implemented in just about every page -->
 <link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/style.css">
-<link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/sidebar.css">
-<link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/loginFormHeader.css">
-<link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/topnav.css">
 
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/docUtil.js"></script>
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/fontAdjust.js"></script>
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/sizeAdjust.js"></script>
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/flybuysWidgets/loginForm/loginForm.js?v=6"></script>
+<!-- there could be stuff in head-includes that expect jquery. in a perfect world we would have a body include and all js calls would go there!!! --> 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/slidingsearchform/searchform.js"></script>
-<link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/jquery/slidingsearchform/searchform.css">
-
-<!-- Utility javascript functions. -->
-<script type="text/javascript">
-
-        //jQuery.noConflict();
-
-	// Define the get session cookie function.
-	function get_session_cookie(Name) {
-	  var search = Name + "="
-	  var returnvalue = "";
-	  if (document.cookie.length > 0) {
-	    offset = document.cookie.indexOf(search)
-	    // if cookie exists
-	    if (offset != -1) { 
-	      offset += search.length
-	      // set index of beginning of value
-	      end = document.cookie.indexOf(";", offset);
-	      // set index of end of cookie value
-	      if (end == -1) end = document.cookie.length;
-	      returnvalue=unescape(document.cookie.substring(offset, end))
-	      }
-	   }
-	  return returnvalue;
-	}
-
-        // Define the get query param function.
-	function get_query_param(Name) {
-		var returnvalue = $.query.get(Name);
-		// test for returnvalue==undefined
-		return returnvalue;
-	}
-
-	jQuery(document).ready(function () {
-
-		if (jQuery('#webLoginStatus').val() == 'true')
-		{
-			jQuery('.logged-in').removeAttr('style');
-			jQuery('.logged-out').css({'display' : 'none'});
-		} else {
-			jQuery('.logged-in').css({'display' : 'none'});
-			jQuery('.logged-out').removeAttr('style');
-		}
-
-	       	jQuery('#topnav li#current').find('a').css({'background-position' : '0 -78px'});
-	});
-
-</script>
+<!-- POP LOAD FIRST - END -->
 
 
 
+
+
+
+
+
+<title>flybuys Privacy Policy</title>
+
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/flybuys/content/about/privacy_style.css">
 
 
 
 <script type="text/javascript">
-var gaPageName = '/flybuys/content/information/privpol.html'; 
-var gaPageParams = '';
-var gaPageParamsIndex = window.location.href.indexOf("?");
-if ( gaPageParamsIndex > -1 ){
-	gaPageParams = window.location.href.substr(gaPageParamsIndex);
-}
+$(document).ready(
+	    function() {
+	        $("body").ajaxError(
+	            function(e,request) {
+	                if (request.status == 403) {
+	                	
+	                	if (console != null && typeof console != "undefined") 
+	                	{ 
+	                        console.warn("AJAX 403 detected: "); 
+	                	}
+	                    window.location.href = "/flybuys/content/information/login.html";
+	                }
+	            }
+	        );
+	    }
+	);
 </script> 
+
+
+<!-- POP LOAD LAST - START -->
+
+<!--[if IE 9]>
+        <link href="/opencms/opencms/flybuys/include/new_ie9.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+	<link href="/opencms/opencms/flybuys/include/new_ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+	<link href="/opencms/opencms/flybuys/include/new_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!-- POP LOAD LAST - END -->
 
 </head>
 <body>
-	<a name="top"></a>
-<div id="container">
+	
+	<!-- START: SOCIAL -->
+		<div class="activate_social_wrapper">
+			<div class="activate_social_inner">
+				<div class="left_icon_facebook"><a href="http://www.facebook.com/FlyBuys" target="_blank" title="Follow flybuys on facebook"></a></div>
+				<div class="left_icon_twitter"><a href="http://twitter.com/flybuys" target="_blank" title="Follow flybuys on Twitter"></a></div>
+				<div class="left_icon_flybuys_app"><a href="http://itunes.apple.com/au/app/flybuys/id377842707" target="_blank" title="Get the flybuys iphone app"></a></div>
+				<div class="left_icon_coles"><a href="http://www.coles.com.au" target="_blank" title="Visit Coles.com.au"></a></div>
+			</div>
+		</div>
+	<!-- END: SOCIAL --> 
+
+	<!-- POPbodyHeader.jsp -->
+<!-- Based on the old TNGloginFormHeader.jsp template -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="top"></a>
+
+<div id="nav_blue">
+	<div id="nav_blue_container">
+		<div class="nav_links_left"><a href="/flybuys/content/" style="color:#ffffff">Home</a> &nbsp; | &nbsp; <a href="/flybuys/content/about/whatisflybuys.html" style="color:#ffffff">About</a> &nbsp; | &nbsp; <a href="/flybuys/content/about/contactus.html" style="color:#ffffff">FAQs</a></div>
+		<div class="nav_links_right">
+		
+		 	
+			
+
+				
+				 	
+						Need to register or activate in the new flybuys? Click <a href="https://register.flybuys.com.au/" style="color:#ffffff">here</a>.
+				 	
+				 	
+				
+			
+		
+		</div>		
+		<div class="clear" style="clear:both"></div>
+	</div>
+</div>
+	
+
+			
+    <!-- start container div -->
+	<div id="container" style="clear: both;">
+	
+		<!-- start mainHeader -->
 		<div id="mainHeader">
 			<div id="headerLogo">
 				<div id="flybuysLogo">
-	<a href="/opencms/opencms/flybuys/content/"><!--<img src="/export/sites/default/flybuys/images/header/flybuysLogo.png" width="141" height="47" alt="flybuys logo" border="0" />-->
-<img src="/export/sites/default/flybuys/images/header/flybuysLogo.png" width="141" height="47" alt="flybuys logo" border="0"></a>
+	<a href="/opencms/opencms/flybuys/content/">
+	</a>
 </div>
 			</div>
-			<div id="headerNav">
-				<!-- leftNav.jsp -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="memberSignInContainer_header">
-
- 	
-	
-		
-			
-			
-				<div id="memberSignIn_header">
-					<form id="memberSignInForm_header" name="memberSignInForm" action="" method="post">	
-						<div class="memberNumberForm_header">
-							<label for="member_number" class="memberSignIn_label">Member Card No:</label>
-							<input name="member_number" type="text" class="memberNum" id="member_number" value="600894" size="18" maxlength="16" tabindex="1" onchange="populateUsername()" oninput="populateUsername()" onpropertychange="populateUsername()" onpaste="populateUsername()">
-						</div>
-
-						<div id="memberSigninLoad" class="memberPassForm_header dynamic" style="display:none">
-							<img src="/opencms/opencms/flybuys/images/header/signInStarts.jpg">
-						</div>
-
-						<div id="memberSigninContainer" class="memberPassForm_header dynamic">
-							<label for="memberPassword" class="memberSignIn_label">Password:</label>
-							<input name="password" type="password" id="password" value="" size="15" maxlength="20" tabindex="2">
-							<input class="memberPassForm_input" name="submit" src="/export/sites/default/flybuys/images/header/signInBtnNew.png" alt="Sign in" title="Sign in" type="image" onclick="memberSignInForm.loginSubmit.value='Go';">
-							<input type="hidden" name="loginSubmit" value=""> 
-						</div>
-
-						<div id="memberJoinupContainer" class="memberPassForm_header dynamic" style="display:none">
-							<input type="hidden" name="gCardNumber" value=""> 
-							<span class="memberSignIn_label">&nbsp;Join FlyBuys today</span>
-							<input class="memberPassForm_input" name="submitJoinUp" src="/export/sites/default/flybuys/images/header/joinUpBtnNew.png" alt="Join up" title="Join Up" type="image" onclick="memberSignInForm.gCardNumber.value=memberSignInForm.member_number.value;">
-						</div>
-						
-						<div id="memberGetPassContainer" class="memberPassForm_header dynamic" style="display:none">
-							<input type="hidden" name="getPassword" value=""> 
-							<span class="memberSignIn_label">&nbsp;You currently don't have a password</span>
-							<input class="memberPassForm_input" name="submitGetPassword" src="/export/sites/default/flybuys/images/header/getPasswdBtnNew.png" alt="Get Password" title="Get Password" type="image" onclick="memberSignInForm.getPassword.value='Go';">
-						</div>
-						
-						<div id="memberServiceError" class="memberPassForm_header dynamic" style="display:none">
-							<p id="serviceErrorMsg" style="text-align:center;">We're currently experiencing technical difficulties. Please try again later.</p>
-						</div>
-			
-					</form>
-					<div class="signInInvalid_header">
-						
-							
-							
-							
-								
-							
-						
-	
-						
-							
-							
-						
-						
-						
-					</div>
-				<!-- end memberSignIn --></div>
-			
-		
-	
-
-</div>
-				<!-- TNGtopnav.jsp -->
+			<!-- TNGtopnav.jsp -->
 
 
 
@@ -213,87 +160,37 @@ if ( gaPageParamsIndex > -1 ){
 <ul id="topnav" class="mainMenu">
 
 
-			<li class="home">
-	    	    <a href="/flybuys/content/?ref=1332308118305" alt="Home" name="Home">
+			<li class="home nav_item">
+	    	    <a href="/flybuys/content/" title="Home" class="nav_anchor">
 	    	    	Home
 		    	</a>
 	    	</li>
+	    	<!--<li class="nav_spacer"> | </li>-->
 		
-			<li class="join">
-	    	    <a href="/flybuys/content/join/?ref=1332308118305" alt="Join" name="Join">
-	    	    	Join
+			<li class="benefits nav_item">
+	    	    <a href="/flybuys/content/benefits/" title="Benefits" class="nav_anchor">
+	    	    	Benefits
 		    	</a>
 	    	</li>
+	    	<!--<li class="nav_spacer"> | </li>-->
 		
-			<li class="earn">
-	    	    <a href="/flybuys/content/participants/?ref=1332308118305" alt="Earn" name="Earn">
-	    	    	Earn
+			<li class="partners nav_item">
+	    	    <a href="/flybuys/content/partners/" title="Partners" class="nav_anchor">
+	    	    	Partners
 		    	</a>
 	    	</li>
+	    	<!--<li class="nav_spacer"> | </li>-->
 		
-			<li class="rewards">
-	    	    <a href="/flybuys/content/awards/?ref=1332308118305" alt="Rewards" name="Rewards">
+			<li class="rewards nav_item">
+	    	    <a href="/flybuys/content/awards/" title="Rewards" class="nav_anchor">
 	    	    	Rewards
 		    	</a>
 	    	</li>
-		
-			<li class="about" id="current">
-	    	    <a href="/flybuys/content/information/?ref=1332308118305" alt="About" name="About" style="background-position: 0px -78px;">
-	    	    	About
-		    	</a>
-	    	</li>
+	    	<!--<li class="nav_spacer"> | </li>-->
 		
 
-<!-- end mainMenu --></ul>
-
-
-				
-					
-					
-						<div id="passwordLinksContainer">
-	<div id="passwordLinks">
-		<a href="/opencms/opencms/flybuys/content/join/forgotten_password">Forgotten Password</a>
-	</div>
-</div>
-					
-				
-			</div>
-		<!-- end mainHeader --></div>
-		<div id="slidingHomepageBanner"></div>
-		<div id="header">
-			
-
-
-
-
-
-
-
-<div class="breadcrumbs"> 
-<a href="/flybuys/">Home</a> &gt; <a href="/flybuys/content/information/">Information</a> &gt; 
-<!-- end breadcrumbs --></div>
-
- <div class="signIn">
- 	
- 		
-		
-		 	<a href="/flybuys/content/join/">Join FlyBuys</a> 		
-		
-	
-
-
-	
-		&nbsp;|&nbsp; <a href="#" onclick="fontSizeObject.toggleChildClassFont('tableContentMain', 'td', '*', 'false');return false;">A-</a> 
-		&nbsp;<a href="#" class="aplus" onclick="fontSizeObject.toggleChildClassFont('tableContentMain', 'td', '*', 'true');return false;">A+</a> 
-	
-<!-- end signIn --></div>
-<!--  show opt back in text and link (only on pages other than yourDetails), if member is logged in and unsubscribed -->
-
-
-
-
-		<br clear="all"><!-- end header --></div>
-		<!-- leftContent.jsp -->
+   	<li class="search">
+		<!-- POPrewardSearch_nav.jsp -->
 
 
 
@@ -302,28 +199,8 @@ if ( gaPageParamsIndex > -1 ){
 
 
 
-
-
-		<table cellspacing="0" cellpadding="0" class="tableContent"><tbody><tr>
-			<!-- leftContent.jsp -->
-
-
-
-
-
-<td class="tableContentLeft"><!-- TNGrewardSearch_nav.jsp -->
-
-
-
-
-
-
-
-<div id="bannerSearchLeft">
-	<div id="bannerSearchContainer">
-		<a href="#" class="toggle"><img src="/export/sites/default/flybuys/images/homepage/may10/rewardSearchHead.png"></a>
-		<div id="advancedSearch">
-			<form name="refinedSearch" action="/flybuys/content/awards/search_results" method="get">
+	<div id="advancedSearch">
+		<form name="refinedSearch" action="/flybuys/content/awards/search_results" method="get">
 				<input type="hidden" name="searchType" value="6">
 				<input type="hidden" name="textSearch" value="true">
 				<!-- <input type="hidden" name="categoryId"/> -->
@@ -332,20 +209,21 @@ if ( gaPageParamsIndex > -1 ){
 				<!-- following two input fields only used by GA site search tracking -->
 				<input id="searchQuery" name="searchQuery" type="hidden" value="">
 				<input id="searchCategoryName" name="searchCategoryName" type="hidden" value="ALL">
-				
 				<!-- this section is always visible .. start -->
 				<div id="advancedSearchVisible">
 					<label for="query"></label>
-					<a href="#" class="toggle" id="queryAnchor">
-						<input type="text" id="query" name="query" size="12" maxlength="128" placeholder="enter your search here.." value="" onclick="refinedSearch.query.value = ''" onchange="">
+					<a href="#" id="queryAnchor">
+						<input type="text" id="query" name="query" size="12" maxlength="128" placeholder="Search for rewards" value="" onclick="refinedSearch.query.value = ''" onchange="">
 					</a>
+					<div id="advsearch_toggle_div"><a href="#" class="toggle"></a></div>
 				</div>
+				
 				<!-- this section is always visible .. end -->
 				
 				<!-- this section's visibility toggles .. start -->
 				<div id="advancedSearchToggle">
 					
-	      			<label for="categoryId">Category</label>
+	      			<label for="selectCatId">Category</label><br>
 					<select id="selectCatId" name="categoryId" onchange="refinedSearch.searchCategoryName.value=this.options[this.selectedIndex].text;">
 						<option value="-1">Select Category</option>
 						
@@ -416,6 +294,10 @@ if ( gaPageParamsIndex > -1 ){
 							
 						
 							
+							<option value="11">
+								Flights
+							</option>
+							
 						
 							
 							<option value="12">
@@ -447,10 +329,36 @@ if ( gaPageParamsIndex > -1 ){
 							</option>
 							
 						
+							
+							<option value="17">
+								flybuys Dollars
+							</option>
+							
+						
+							
+							<option value="18">
+								Fuel
+							</option>
+							
+						
+							
+							<option value="19">
+								Gift Cards
+							</option>
+							
+						
+							
+							<option value="20">
+								Apparel
+							</option>
+							
+						
+							
+						
 					</select>
 					<br>
 					<br>
-					<label for="pointsRange">Points Range</label>
+					<label for="selectPointsRange">Points Range</label><br>
 					<select id="selectPointsRange" name="pointsRange">
 						<option value="">
 							Select Points Range
@@ -466,30 +374,69 @@ if ( gaPageParamsIndex > -1 ){
 						</option>
 						<option value="4">
 							20,001 - MAX
-						</option>
-						&nbsp;
+						</option>						
 					</select>
 					<!--<a href="#">-->
-						<input type="image" src="/export/sites/default/flybuys/images/homepage/may10/rewardSearchBtn.png" style="margin:0px; padding:0px;">
+						<input id="searchButton" type="image" src="/export/sites/default/flybuys/images/homepage/may10/rewardSearchBtn.png" style="margin:0px; padding:0px;">
 					<!--</a>-->
 					
 				</div>
 				<!-- this section's visibility toggles .. end -->
-			</form>
+		</form>
+	</div>
+	
+   	</li>
+
+
+<!-- end mainMenu --></ul>
+
+
 		</div>
-		<img src="/export/sites/default/flybuys/images/homepage/may10/leftModuleBot.png">
+		<!-- end mainHeader -->
+
+		
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+	
+	
+	
+	<!-- Start breadcrumbs -->
+	<div class="new_breadcrumbs"> 
+	<a href="/flybuys/">Home</a> &gt; 
 	</div>
-</div>
-<!-- <script type="text/javascript" charset="utf-8" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> -->
-<script type="text/javascript" charset="utf-8" src="/flybuys/include/jquery/jquery.placeholdize.js"></script>
-<script type="text/javascript" charset="utf-8">
-jQuery(
-	function()
-	{
-		$( 'input[placeholder], textarea[placeholder]' ).placeHoldize();
-    }
-);
-</script><!-- leftNav.jsp -->
+	<!-- end breadcrumbs -->
+
+
+
+		<div id="home_content" class="left_col_border_shadows" style="float:left;">
+		
+		
+			<table cellspacing="0" cellpadding="0" class="tableContent">
+				<tbody><tr>
+					<!-- leftContent.jsp -->
+
+
+
+
+
+<td class="tableContentLeft"><!-- leftNav.jsp -->
 
 
 
@@ -498,362 +445,275 @@ jQuery(
 
 
 
-	<div id="sidebarLeftNav">
-	<img src="/opencms/opencms/flybuys/images/rewards/lhs_nav_top.gif" alt="Browse rewards" width="182" height="42" border="0">
-	<ul>
+
+	<div id="firstpane" class="menu_list">
+
 	
-		<li><a href="/flybuys/content/information/whatis.html"> Welcome to FlyBuys </a></li>
+
+		<!-- Flag the nav element as current -->
+		
+		
+
+		<!-- Generate HTML id name using nav page title. -->
+		<!-- Replace space characters with underscore. -->
+		<!-- Replace single-quote characters with underscore. -->
+	    
+	    
+		
+		<p class="menu_head dynamicNav " id="What_is_flybuys" onclick="updateNavMenu('What_is_flybuys');">
+			<a class="menu_head_link" href="/flybuys/content/about/whatisflybuys.html">What is flybuys</a>
+		</p>
+		
+		<!--
+		<div class="menu_body">
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<img src="images/left_menu_footer.gif" border="0" height="5" width="164" />
+		</div>
+		 -->
+		
 	
-		<li><a href="/flybuys/content/information/faq.html"> Frequent Questions </a></li>
+
+		<!-- Flag the nav element as current -->
+		
+		
+
+		<!-- Generate HTML id name using nav page title. -->
+		<!-- Replace space characters with underscore. -->
+		<!-- Replace single-quote characters with underscore. -->
+	    
+	    
+		
+		<p class="menu_head dynamicNav " id="flybuys_Terms_&amp;_Conditions" onclick="updateNavMenu('flybuys_Terms_&amp;_Conditions');">
+			<a class="menu_head_link" href="/flybuys/content/about/flybuys-terms_and_conditions.html">flybuys Terms &amp; Conditions</a>
+		</p>
+		
+		<!--
+		<div class="menu_body">
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<img src="images/left_menu_footer.gif" border="0" height="5" width="164" />
+		</div>
+		 -->
+		
 	
-		<li><a href="/flybuys/content/information/mediacentre.html"> Media Centre </a></li>
+
+		<!-- Flag the nav element as current -->
+		
+		
+
+		<!-- Generate HTML id name using nav page title. -->
+		<!-- Replace space characters with underscore. -->
+		<!-- Replace single-quote characters with underscore. -->
+	    
+	    
+		
+		<p class="menu_head dynamicNav " id="flybuys_Privacy_Statement" onclick="updateNavMenu('flybuys_Privacy_Statement');">
+			<a class="menu_head_link" href="/flybuys/content/about/privacy.html">flybuys Privacy Statement</a>
+		</p>
+		
+		<!--
+		<div class="menu_body">
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<img src="images/left_menu_footer.gif" border="0" height="5" width="164" />
+		</div>
+		 -->
+		
 	
-		<li><a href="/flybuys/content/information/termsandcond.html"> Terms and Conditions </a></li>
+
+		<!-- Flag the nav element as current -->
+		
+		
+			
+		
+
+		<!-- Generate HTML id name using nav page title. -->
+		<!-- Replace space characters with underscore. -->
+		<!-- Replace single-quote characters with underscore. -->
+	    
+	    
+		
+		<p class="menu_head dynamicNav current" id="flybuys_Privacy_Policy" onclick="updateNavMenu('flybuys_Privacy_Policy');">
+			<a class="menu_head_link" href="/flybuys/content/about/policy.html">flybuys Privacy Policy</a>
+		</p>
+		
+		<!--
+		<div class="menu_body">
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<img src="images/left_menu_footer.gif" border="0" height="5" width="164" />
+		</div>
+		 -->
+		
 	
-		<li><a href="/flybuys/content/information/contact.html"> Contact Us </a></li>
+
+		<!-- Flag the nav element as current -->
+		
+		
+
+		<!-- Generate HTML id name using nav page title. -->
+		<!-- Replace space characters with underscore. -->
+		<!-- Replace single-quote characters with underscore. -->
+	    
+	    
+		
+		<p class="menu_head dynamicNav " id="Contact_Us" onclick="updateNavMenu('Contact_Us');">
+			<a class="menu_head_link" href="/flybuys/content/about/contactus.html">Contact Us</a>
+		</p>
+		
+		<!--
+		<div class="menu_body">
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<img src="images/left_menu_footer.gif" border="0" height="5" width="164" />
+		</div>
+		 -->
+		
 	
-		<li><a href="/flybuys/content/information/fairtrad.html"> Fair Trading </a></li>
+
+		<!-- Flag the nav element as current -->
+		
+		
+
+		<!-- Generate HTML id name using nav page title. -->
+		<!-- Replace space characters with underscore. -->
+		<!-- Replace single-quote characters with underscore. -->
+	    
+	    
+		
+		<p class="menu_head dynamicNav " id="FAQs" onclick="updateNavMenu('FAQs');">
+			<a class="menu_head_link" href="/flybuys/content/about/flybuys-faq.html">FAQs</a>
+		</p>
+		
+		<!--
+		<div class="menu_body">
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<a href="#">Link-1</a>
+			<img src="images/left_menu_footer.gif" border="0" height="5" width="164" />
+		</div>
+		 -->
+		
 	
-		<li><a href="/flybuys/content/information/privpol.html" class="active"> Privacy Policy </a></li>
+
 	
-		<li><a href="/flybuys/content/information/auditors.html"> Auditor's Report </a></li>
-	
-	</ul>
+
+
 	</div>
-	<div id="sidebarLeftNavBtm">
-	<img src="/opencms/opencms/flybuys/images/rewards/lhs_nav_btm.gif" alt="nav btm" border="0"></div>
 
-<div id="sidebarLeftMore">
-	<img src="/export/sites/default/flybuys/images/lhs_more_top.gif" alt="More information" width="182" height="37" border="0">
-	<ul>
-		<li><a href="/flybuys/content/awards/bookingInstructions">Redeeming a Reward</a></li>
-		<li><a href="/flybuys/content/participants/bonusboost/">Earn Bonus Points</a></li>
-		<li><a href="/flybuys/content/information/faq.html">FAQ</a></li>
-		<li><a href="/flybuys/content/information/termsandcond.html">Terms and Conditions</a></li>
-		<li><a href="/flybuys/content/awards/rewardtermsandcond.html">Rewards Terms &amp; Conditions</a></li>
-	</ul>
-</div>
-<div id="sidebarLeftGeneral">
-	<img src="/export/sites/default/flybuys/images/lhs_more_btm.gif" alt="nav btm" width="182" height="21" border="0">
-</div><!-- end td --></td>
+<!-- end td --></td>
 
-			<td class="tableContentMain">
+					<td class="tableContentMain">			
+		
+		
 
-
-
+			
 
 
 
      
-      <div id="content2">
-<h1>FlyBuys</h1>
-<h1 class="unbold">Policy on Information Privacy</h1> <span style="color: #999;">Revised 1 January 2006</span>
-<div class="hr"><hr></div>
-<h2>How we respect your privacy.</h2>
-<p>
-<strong>Introduction</strong></p>
-<p>At FlyBuys, we respect the privacy of your personal information in our care. This commitment is
-demonstrated in our Policy on Information Privacy.</p>
-<p>Members have the right to opt out of mailings other than their Points Summary. They can access
-their personal information by writing to FlyBuys at the address indicated below.</p>
-<ol>
-<li>
-<strong>Members' Rights</strong>
+      <div id="content_header">	       
+<h1 id="page_header">flybuys Privacy Policy</h1>
+</div>
+        
+<div id="main-content"> 
+<p><strong>Introduction</strong></p>
+<p>At flybuys, we respect the privacy of your personal information in our care. This commitment is demonstrated in our Privacy Policy, which sets out our policy on dealing with personal information. 
+Personal information means information which identifies you as an individual or from which your identity can be reasonably ascertained.</p>
+
+<p>This Privacy Policy relates to personal information we handle about flybuys members, visitors to our website and other members of the public. Our personnel and job applicants can contact our human 
+resources team for more information about their privacy.</p>
+
 <br>
-<br>Loyalty Pacific Pty Ltd as manager of the FlyBuys program respects and upholds the rights of
-members to privacy protection. The provisions of this Policy are evidence of Loyalty Pacific Pty
-Ltd's commitment to that protection. This Policy applies to all personal information held in the
-FlyBuys database. Refer section 5 of the FlyBuys Terms and Conditions. Words and phrases defined in
-the FlyBuys Terms and Conditions have the same meaning when used in this Policy. In this Policy
-"Coles Group Entities" means Coles Group Ltd. (ABN 11 004 089 936) and its related bodies corporate
-and "NAB Group Entities" means National Australia Bank Limited ABN 12 004 044 937 and its related
-bodies corporate including MLC Ltd.
-<br><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p></li><br>
-<li>
-<strong>Information - Collection</strong>
+<p><strong>Privacy laws</strong></p>
+<p>We are subject to a range of laws which protect your privacy, including the National Privacy Principles (NPPs) in the Privacy Act 1988. The NPPs set out how some private sector organisations should 
+collect, use, store, disclose and provide access to personal information. Despite this Privacy Policy, we sometimes handle personal information relying on exemptions under these laws, for example in 
+relation to employee records.</p>
+
 <br>
-<br> 
-<strong>2.1</strong> FlyBuys will, at all times, collect personal information in a fair and lawful
-manner.
+<p><strong>flybuys Privacy Statement</strong></p>
+<p>Our flybuys Privacy Statement below is incorporated into this Privacy Policy and can be found at <a href="/privacystatement">flybuys.com.au/privacystatement</a>.</p>
+
 <br>
-<br> 
-<strong>2.2</strong> The FlyBuys database may comprise any of the following personal information,
-held by FlyBuys: 
-<ul>
+<p><strong>Types of personal information collected</strong></p>
+<p>The types of personal information we collect about flybuys members includes:</p>
+
+<ul class="flybuysterms">
 <li>name, address(es) &amp; telephone number(s)</li>
 <li>electronic addresses</li>
 <li>gender</li>
 <li>date of birth</li>
-<li>employment status</li>
-<li>information about credit cards linked to FlyBuys</li>
-<li>transaction details associated with the earning of FlyBuys points</li>
-<li>points earned and awards provided</li>
-<li>names, genders and dates of birth of additional cardholders</li>
-<li>ages of other family members.</li>
-</ul>
-<p>Members' signatures/authorities are also collected by FlyBuys.</p>
-<p>
-<strong>2.3</strong> If you are a FlyBuys member or simply inquiring about our online services such
-as Awards Redemption, we may use your electronic addresses (such as your e-mail address or mobile
-phone number for receiving SMS) to advise you of any upgrades or changes to these services.</p>
-<p>We may also use your electronic addresses to send you from time to time various FlyBuys program
-and marketing communications.</p>
-<p>If we send you an electronic message for a commercial purpose, we will give you the option of
-not receiving further communications of this nature.</p>
-<br><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p></li><br>
-<li>
-<strong>Information - Purpose and Usage</strong> 
-<p>
-<br> 
-<strong>3.1</strong> Personal information including your electronic addresses will be used for two
-primary purposes. First, it will be used to ensure the proper functioning of the FlyBuys program.
-Secondly, and subject to the restrictions set out in paragraph 3.3, it will be used by FlyBuys and
-the participating retailers for marketing, planning, product development, research, FlyBuys account
-administration and fraud and crime prevention and investigation.
-<br>
-<br> 
-<strong>3.2</strong> FlyBuys will not use or disclose or permit the use or disclosure of personal
-information that could be used to identify an individual member in any circumstances except:</p>
-<ol type="a">
-<li>to ensure the proper functioning of the FlyBuys program in relation to the member in question
-(for example, to confirm membership and acceptance of the Terms and Conditions, to communicate
-points earned, to seek the member's views on the operation of the FlyBuys program in order to
-improve member service, to ensure the integrity of points processing by participating retailers, to
-communicate promotional offers and special events and to identify the member when awards are made)
-and for these purposes personal information will only be disclosed to FlyBuys or a service provider
-retained by FlyBuys under conditions of confidentiality;</li>
-<li>where the personal information is to be used by Coles Group Entities or NAB Group Entities for
-the purposes described in clause 3.3;</li>
-<li>otherwise, where the personal information is to be used by a participating retailer for
-marketing, planning, product development and research and where 
-<ol type="i">
-<li>the personal information does not include the name of the member; and</li>
-<li>the participating retailer is bound by a confidentiality agreement with FlyBuys under which the
-personal information may not be used for mailing purposes or in any other way to make contact with
-the member;</li>
-</ol></li>
-<li>when FlyBuys is required or authorised by law to disclose the personal information;</li>
-<li>for fraud and crime prevention and investigation; or</li>
-<li>when the member specifically consents in writing to the use or disclosure.
-<br> 
-<p>Examples of the service providers referred to in paragraph 3.2(a) are data processing and data
-analysis agents, printing contractors and the FlyBuys Customer Service Centre. Information will
-only be provided to these agents to the extent necessary to enable them to undertake their
-contracted roles in the operation of the FlyBuys program.</p></li>
-</ol>
-<strong>3.3</strong> Coles Group Entities and NAB Group Entities may collect the member's name and
-other personal information from FlyBuys for marketing, planning, product development, research,
-FlyBuys account reconciliation, fraud and crime prevention and investigation and other related
-purposes. To perform these activities Coles Group Entities and NAB Group Entities may share your
-personal information with:
-<br>
-<br> 
-<ul>
-<li>if the entity is a Coles Group Entity, other Coles Group Entities and if the entity is a NAB Group
-Entity, other NAB Group Entities;</li>
-<li>service providers such as data processing and data analysis agents, printing contractors,
-customer service organisations, call centres, professional advisers, auditors, delivery companies
-and mailing organisations; and</li>
-<li>other organisations as required or authorised by law, for example, to government or
-regulatory bodies for the prevention or detection of unlawful activities.
-<br>
-<br></li>
-</ul>
-<strong>3.4</strong> FlyBuys undertakes to give proper and responsible consideration to privacy
-issues associated with the introduction of new marketing devices or technology.
-<br>
-<br> 
-<strong>3.5</strong> On termination of membership, the member's contact details will be noted as
-closed, and after twelve months of non-card usage such contact details will be deleted from the
-FlyBuys database and the member's point balance cancelled. 
-<br><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p></li><br>
-<li>
-<strong>Members' Right to Opt Out</strong>
-<br>
-<br> 
-<strong>4.1</strong> From time to time, promotional offers and special events will be communicated
-to members by FlyBuys other than through Points Summary mailings. Members have the right to opt out
-of these additional communications and can do so by requesting this in writing to FlyBuys.
-<br>
-<br> 
-<strong>4.2</strong> Members can tell FlyBuys not to disclose their name to Coles Group Entities and
-NAB Group Entities. Members can make this request by writing to FlyBuys or calling 13 1116.
-<br>
-<br> 
-<strong>4.3</strong> To unsubscribe from the FlyBuys e-mail database, please send an e-mail to
-unsubscribe@flybuys.com.au with "UNSUBSCRIBE" typed into the subject of the e-mail. For technical
-reasons you will not receive a notice when you unsubscribe from this list.
-<br>
-<!--<br /> 
-<strong>4.4</strong>
-To unsubscribe from the FlyBuys SMS database, please send an SMS to [# Mobile phone number to be inserted] with [# Desired message to be inserted e.g. "unsubscribe" ].
- For technical reasons you will not receive a return SMS when you unsubscribe from the SMS service.<br /><br />  
-<br /><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p></li>--><br>
-</li><li>
-<strong>Security Safeguards</strong>
-<br>
-<br> 
-<strong>5.1</strong> FlyBuys undertakes to take reasonable steps to ensure that member information
-is secure from any unauthorised access or disclosure.
-<br>
-<br> 
-<strong>5.2</strong> FlyBuys assumes no responsibility for the information practices of third-party
-websites where a user is able to access their websites through the FlyBuys website, and encourages
-users to review each website's privacy policy before disclosing any personally identifying
-information. 
-<br><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p></li><br>
-<li>
-<strong>Your privacy on the FlyBuys website</strong>
-<br>
-<br>Cookies may be used on some areas of our website. A cookie is a small file placed on a user's
-hard drive which tracks website navigation. For example, a cookie can be used to store registration
-information so that a user does not need to re-enter it on subsequent visits.
-<br> 
-<p>If you are concerned about cookies, most browsers have an option which permits users to refuse a
-cookie. A user can refuse a cookie and still fully navigate our website.</p>
-<p>In order to collect user statistics we may anonymously log information, and identify categories
-of users by items such as domains and browser types.</p>
-<br><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p></li><br>
-<li>
-<p>
-<strong>Openness</strong>
-<br>
-<br> 
-<strong>7.1</strong> Information about privacy and the FlyBuys program will be made available at or
-prior to application for membership. A current version of the FlyBuys Policy on Information Privacy
-is available here at the FlyBuys website and on request by calling 13 1116.
-<br>
-<br> 
-<strong>7.2</strong> Members may request access to their personal information on the FlyBuys
-database. Such requests must be in writing to FlyBuys. A fee for reasonable costs incurred may be
-charged in responding to these written requests, such fee being made known to the member before it
-is incurred.
-<br>
-<br> 
-<strong>7.3</strong> Members may request access to their personal information held by Coles Group
-Entities and NAB Group Entities by contacting those organisations directly.
-<br>
-<br> 
-<strong>7.4</strong> Members have the right to update any incorrect personal information.</p>
-<br><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p></li><br>
+<li>household details</li>
+<li>information about credit cards linked to flybuys</li>
+<li>transaction details associated with the earning of flybuys points</li>
+<li>points earned and rewards provided</li>
+<li>name, gender and date of birth of additional members</li>
+<li>ages of family members</li>
+<li>signatures and authorities granted to flybuys</li>
+<li>communications between us and members.</li>
 
-<li>
-<p>
-<strong>Information about additional cardholders and other persons</strong>
-<br>
-<br>Members that nominate an additional cardholder or provide personal information about a family
-member or any other individual must first ensure that the individual concerned:</p>
-<ul>
-<li>has seen this Policy on Information Privacy and understood its contents; and</li>
-<li>has separately agreed to their personal information being collected, used and disclosed in
-accordance with this Policy on Information Privacy.
-<br></li>
-<li>If the individual is under 18 years of age and does not have sufficient maturity and
-intelligence to understand this Policy on Information Privacy, the primary cardholder must ensure
-that the individuals parent or guardian agrees to this Policy on Information Privacy on the
-individuals' behalf.</li>
 </ul>
-<br><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p></li><br>
-<li>
-<p>
-<strong>Accountability</strong>
+
+<p>We may not be able to provide our services without your personal information. For example, we may not be able to manage your membership or contact you.</p>
+
 <br>
-<br> 
-<strong>9.1</strong> FlyBuys will conduct an annual review to ensure observance of this Policy.
-This will include a review by external auditors as part of their annual audit. A copy of the
-auditors' conclusions will be made available to members on written request.
+<p><strong>Use and disclosure of personal information</strong></p>
+<p>In addition to the purposes described in our flybuys Privacy Statement, we may use and disclose personal information for the following purposes:</p>
+
+<ul class="flybuysterms">
+<li>responding to lawful information requests from courts, government agencies and lawyers</li>
+<li>investigating and dealing with suspected fraud and unlawful activity</li>
+<li>protecting our lawful interests</li>
+<li>purposes relating to any third party acquisition or potential acquisition of an interest in us or our assets.</li>
+</ul>
+
+<p>The Privacy Act limits the circumstances in which we can transfer personal information to third parties outside Australia, for example, where you consent or where we take reasonable steps to ensure that 
+your personal information will be handled in a manner consistent with the applicable Australian privacy principles.</p>
+
 <br>
-<br> 
-<strong>9.2</strong> Day to day responsibility for the implementation of this Policy rests with the
-Finance &amp; Administration Manager, Loyalty Pacific, to whom all correspondence should be
-addressed. (FlyBuys, PO Box 12125, A'Beckett Street Melbourne VIC 8006, or any other address we may
-tell you from time to time.)</p>
-</li>
-</ol>
+<p><strong>Procedures – access/correction/feedback</strong></p>
+<p>If you have any feedback or concerns about privacy or wish to access or correct any personal information we hold about you, please contact us as set out below. Where you seek a response from us, we will 
+respond to let you know who will be handling your matter and when you can expect a further response.</p>
+<p>In the case of access and correction requests, please provide as much detail as you can about the particular information you seek, in order to help us retrieve it. Under the Privacy Act and other relevant 
+laws, we are not required to provide access or make corrections in all circumstances, but we are required to provide our reasons. Where we decide not to make a requested correction and you disagree, you may 
+ask us to make a note of your requested correction with the information.</p>
+
+<br>
+<p><strong>Contact</strong></p>
+
+<p>Queries and other correspondence regarding privacy should be directed to our Privacy Officer</p>
+
+<p>Mail: flybuys Privacy Officer<br>
+Loyalty Pacific<br>
+PO Box 12125<br>
+A'Beckett Street<br>
+Melbourne VIC 8006<br>
+Telephone: 13 1116
+<br><br>
+Last updated: 23 April 2012<br>
+Loyalty Pacific Pty Ltd (‘flybuys’)</p>
+
+
 </div>
-
-
-<!--
-<div id="content2">
-<h1>FlyBuys</h1>
-<h1 class="unbold">Privacy Policy</h1>
-<div class="hr"><hr /></div>
-<h3 style="color: red;">Important notice</h3>
-<h3>&nbsp;
-<br />Changes to the FlyBuys Policy on Information Privacy</h3>
-<p>FlyBuys has changed the FlyBuys Policy on Information Privacy. This notice describes changes
-that have been made. These changes came into effect on 1 January 2006. You can call us on 13 1116,
-if you would like a full copy of the amended FlyBuys Policy on Information Privacy.</p>
-<p>
-<strong>What are the changes?</strong></p>
-<p>There are four key changes to the FlyBuys Policy on Information Privacy.
-<br />In summary, from 1 January 2006:</p>
-<ol>
-<li>FlyBuys will be allowed to disclose your personal information (including your name) to Coles
-Myer Ltd. (and its group companies) and the National Australia Bank Limited (and its group
-companies), as owners of the FlyBuys program.</li>
-<li>Coles Myer Ltd (and its group companies) and the National Australia Bank Limited (and its group
-companies) will be allowed to collect your name and other personal information from FlyBuys. They
-may use and disclose that personal information within their corporate groups (and to their service
-providers) for marketing, planning, product development, research, FlyBuys account reconciliation
-and other related purposes (including to send you direct marketing information).</li>
-<li>If you nominate an additional cardholder or provide personal information to FlyBuys about
-another person (for example, a family member), you will have to make sure that the person has: 
-<ul>
-<li>read and understood the FlyBuys Policy on Information Privacy; and</li>
-<li>agreed to their personal information being collected, used and disclosed in accordance with the
-FlyBuys Policy on Information Privacy.</li>
-</ul></li>
-<li>Unless you instruct us otherwise, we will be able to use your electronic addresses (including
-your e-mail address and mobile phone number for receiving SMS), to the extent that you have
-provided them, to let you know about upgrades to our online services (such as Award Redemption) and
-to send you FlyBuys program and marketing communications.</li>
-</ol>
-<p>The FlyBuys Policy on Information Privacy has also been updated to mention some privacy issues
-regarding use of the FlyBuys website and suggest what to do if you are concerned about cookies
-being placed on your computer when you use the FlyBuys website.</p>
-<p>There are also some other minor changes being made. These include changes to:</p>
-<ul>
-<li>update the list of types of personal information that may be held on the FlyBuys database;</li>
-<li>include some definitions of words used in the FlyBuys Policy on Information Privacy; and</li>
-<li>give you details on how to unsubscribe from the FlyBuys email database if you do not want to
-receive e-mails from FlyBuys.</li>
-</ul>
-<br /><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p><br />
-<p>
-<strong>What do I need to do?</strong></p>
-<p>If you are happy with these changes you do not need to do anything. The changes will come into
-effect automatically.</p>
-<p>If you do not wish to be bound by these changes, you can withdraw from FlyBuys. You can do this
-by writing to us at: Loyalty Pacific Pty Ltd, PO Box 12125, A' Beckett Street, Melbourne, VIC
-8006.</p>
-<p>You can, at any time, tell us not to disclose your name to Coles Myer Ltd (and its group
-companies) or National Australia Bank Limited (and its group companies). You can do this by writing
-to us or by calling us on&nbsp;13 1116.</p>
-<br /><p style="text-align: right; font-size: 80%;"><a href="#top">top</a></p><br />
-<p>
-<strong>What do I need to do if there are any additional cardholders?</strong></p>
-<p>If you have previously nominated an additional cardholder or provided personal information to
-FlyBuys about a family member or any other person, you should give that person a copy of this
-notice and make sure that they understand the notice and that they can tell us not to disclose
-their name to Coles Myer Ltd. (and its group companies) or National Australia Bank Limited (and its
-group companies) by calling the FlyBuys Service Centre on 13 1116. If that person is under 18 years
-of age, please make sure that a parent or guardian reads this notice on their behalf.</p>
-<p>
-<strong>Where can I get a full copy of the amended FlyBuys Policy on Information
-Privacy?</strong></p>
-<p>A full copy of the amended FlyBuys Policy on Information Privacy can be viewed below 
-<a target="_blank" href="/"></a>.</p>
-<p>You can also call us on 13 1116 if you would like us to send you a full copy of the amended
-FlyBuys Policy on Information Privacy.</p>
-<p class="gototop">
-<a href="#top">go to top</a></p>
--->
      
 
 
-			</td>
-			<!-- leftContent.jsp -->
+
+		
+					</td>
+					<!-- leftContent.jsp -->
 
 
 
@@ -861,121 +721,207 @@ FlyBuys Policy on Information Privacy.</p>
 
 
 
-		</tr><!-- end table --></tbody></table>
-		<div><a href="#top"><img src="/opencms/opencms/flybuys/images/back_to_top.gif" border="0" class="backtotop"></a></div>
-
+				</tr>
+			</tbody></table><!-- end table -->
+		
+		</div>
+		<div class="clear" style="clear: both;"> </div>
+    </div>
+    <!-- end container div -->
+		
 		<div id="footer">
-			<!-- template TNGfooter.jsp -->
+			<div id="footer_content">
+<div id="footer_logo"></div>
+<div id="footer_break"></div>
+<div class="clear" style="clear:both"></div>
 
+<!-- Benefits -->
 
-
-
-
-
-
-<input type="hidden" id="webLoginStatus" name="loggedin" value="false">
-<div class="footerBorder">
-	<img src="/export/sites/default/flybuys/images/footer/footLeft.png" width="10" height="490" alt="footer left border">
+<div class="footer_links_left">
+<h2 style="font-size:18px;color:#0099cc;line-height:18px;">Benefits</h2><br>
+<a href="/flybuys/content/benefits/my5atcoles.html" style="color:#204a9d">my5 at Coles</a><br>
+<a href="/flybuys/content/benefits/morebenefits.html" style="color:#204a9d">Make the most of flybuys</a><br>
+<a href="/flybuys/content/benefits/howtoearn.html" style="color:#204a9d">How to earn flybuys points</a><br>
+<a href="/flybuys/content/benefits/extrapointsatcoles.html" style="color:#204a9d">EXTRA POINTS at Coles</a><br>
+<a href="/flybuys/content/benefits/pointscalculator.html" style="color:#204a9d">Points Calculator</a><br>
 </div>
 
-<div id="footerContent">
-	<ul class="footerColumnLeft">
-		<li class="head"><a href="/flybuys/content">Home</a></li>
-		<li><a href="/flybuys/content/awards/whatsNewCategoryAwards?catId=all">New Rewards</a></li>
-		<li><a href="/flybuys/content/awards/">Rewards</a></li>
-		<li><a href="/flybuys/content/participants/">Where to shop</a></li>
-		<li><a href="/flybuys/content/participants/bonusboost">Earn Bonus Points</a></li>
-		<li><a href="/flybuys/content/Specials/index.html">Reward Specials</a></li>
-	</ul>
-	<ul class="footerDivider">
-		<li><img src="/export/sites/default/flybuys/images/footer/footDivider.png" width="10" height="380" alt="footer divider"></li>
-	</ul>
-	<ul class="footerContent logged-out">
-		<li class="head"><a href="/flybuys/content/join">Join</a></li>
-		<li><a href="/flybuys/content/join/" class="footer">Join today</a></li>
-	</ul>
-	<ul class="footerContent logged-in" style="display: none;">
-		<li class="head"><a href="/flybuys/content/membership">View</a></li>
-		<li><a href="/flybuys/content/membership/yourPoints">Points</a></li>
-		<li><a href="/flybuys/content/membership/yourDetails">Edit Profile</a></li>
-		<li><a href="/flybuys/content/Specials/index.html">Reward Specials</a></li>
-		<li><a href="/flybuys/content/membership/barometer">Wish List</a></li>
-	</ul>
-	<ul class="footerDivider">
-		<li><img src="/export/sites/default/flybuys/images/footer/footDivider.png" width="10" height="380" alt="footer divider"></li>
-	</ul>
-	<ul class="footerContent">
-		<li class="head"><a href="/flybuys/content/participants">Earn</a></li>
-		<li><a href="/flybuys/content/participants/">Where to shop</a></li>
-		<li><a href="/flybuys/content/participants/bonusboost">Bonus Offers</a></li>
-		<li><a href="/flybuys/content/participants/Shopping_tips.html">Hints &amp; Tips</a></li>
-		<li><a href="/flybuys/content/participants/friends/nab_Bank.html">NAB Credit for Points</a></li>
-		<li><a href="/flybuys/content/participants/friends/ColesMasterCard.html">Coles MasterCard<sup>®</sup></a></li>
-	</ul>
-	<ul class="footerDivider">
-		<li><img src="/export/sites/default/flybuys/images/footer/footDivider.png" width="10" height="380" alt="footer divider"></li>
-	</ul>
-	<ul class="footerContent">
-		<li class="head"><a href="/flybuys/content/awards">Rewards</a></li>
-		<li><a href="http://catalogues.flybuys.com.au/">Hot Rewards Magazine</a></li>
-		<li><a href="/flybuys/content/awards/whatsNewCategoryAwards?catId=all">New Rewards</a></li>
-		<li><a href="/flybuys/content/awards/search_results?categoryId=0">Audio/Visual</a></li>
-		<li><a href="/flybuys/content/awards/search_results?categoryId=1">For the Home</a></li>
-		<li><a href="/flybuys/content/awards/search_results?categoryId=2">Just For Kids</a></li>
-		<li><a href="/flybuys/content/awards/search_results?categoryId=9">Gift Cards/Credit for Points</a></li>
-		<li><a href="/flybuys/content/awards/travelLanding.html">Travel</a></li>
-		<li><a href="/flybuys/content/awards/search_results?categoryId=3">Entertainment &amp; Reading</a></li>
-		<li><a href="/flybuys/content/awards/search_results?categoryId=4">Sports &amp; Leisure</a></li>
-		<li><a href="/flybuys/content/awards/search_results?categoryId=5">Dining &amp; Wine</a></li> 
-		<li><a href="/flybuys/content/awards/search_results?categoryId=6">Treats &amp; Gifts</a></li>
-	</ul>
-	<ul class="footerDivider">
-		<li><img src="/export/sites/default/flybuys/images/footer/footDivider.png" width="10" height="380" alt="footer divider"></li>
-	</ul>
-	<ul class="footerContent">
-		<li class="head"><a href="/flybuys/content/information">About</a></li>
-		<li><a href="/flybuys/content/information/">Welcome to FlyBuys</a></li>
-		<li><a href="/flybuys/content/information/faq.html">FAQ's</a></li>
-		<li><a href="/flybuys/content/information/mediacentre.html">Media Centre</a></li>
-		<li><a href="/flybuys/content/information/fairtrad.html">Fair Trading</a></li>
-		<li><a href="/flybuys/content/information/termsandcond.html">Terms &amp; Conditions</a></li>
-		<li><a href="/flybuys/content/information/contact.html">Contact</a></li>
-	</ul>
-	<div id="footerBottom">
-		<div id="footerLogo">
-			<a href="/flybuys/content/index.html"><img src="/export/sites/default/flybuys/images/footer/flybuysLogo.png" width="127" height="66" alt=" FlyBuys logo" border="0"></a>
-		</div>
-		<div id="footerBtn">
-			<!--
-			<a href="#"><img src="/flybuys/images/footer/firefoxBtn.png" width="125" height="32" alt="firefox widget" border="0" /></a>
-			<br />
-			-->
-                        <a href="http://www.facebook.com/flybuys" target="_blank"><img src="/export/sites/default/flybuys/images/footer/facebook_findus.gif" width="125" height="32" alt="Find us on Facebook" border="0"></a><a href="http://www.youtube.com/flybuys" target="_blank"><img src="/export/sites/default/flybuys/images/footer/youtube_watchus.gif" width="125" height="32" alt="Find us on Facebook" border="0"></a><br>
-			<a href="http://twitter.com/flybuys" target="_blank"><img src="/export/sites/default/flybuys/images/footer/twitterBtn.png" width="125" height="32" alt="twitter" border="0"></a><a href="http://itunes.apple.com/au/app/flybuys/id377842707" target="_blank"><img src="/export/sites/default/flybuys/images/footer/appstore_app.gif" width="125" height="32" alt="twitter" border="0"></a>
-		</div>
-		<div id="footerPrivacy">
-			<a href="/flybuys/content/information/auditors.html"><img src="/export/sites/default/flybuys/images/footer/img_pwc_report.png" width="159" height="60" alt="privacy logo" border="0"></a>
-		</div>
-		<div id="footerLinks">
-			<div id="footerCopy">
-				© Copyright Loyalty Pacific Pty Ltd
-			</div>
-			<div id="footerTerms">
-				<a href="/flybuys/content/information/termsandcond.html">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="/flybuys/content/information/privpol.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="/flybuys/content/information/contact.html">Contact Details</a>
-			</div>
-		</div>
-	</div>
+<!-- Partners column 1 -->
+
+<div class="footer_links_none">
+<h2 style="font-size:18px;color:#0099cc;line-height:18px;">Partners</h2><br>
+<a href="/flybuys/content/partners/wheretocollect.html" style="color:#204a9d">Where to collect points</a><br>
+<!--<a href="/flybuys/content/partners/storeLocator" style="color:#204a9d">Partners near you</a><br />-->
+<a href="/flybuys/content/partners/partners/1stchoice.html" style="color:#204a9d">1st Choice Liquor</a><br>
+<a href="/flybuys/content/partners/partners/winedrop.html" style="color:#204a9d">1st Choice Wine Drop</a><br>
+<a href="/flybuys/content/partners/partners/agl.html" style="color:#204a9d">AGL</a><br>
+<a href="/flybuys/content/partners/partners/best_western.html" style="color:#204a9d">Best Western</a><br>
+<a href="/flybuys/content/partners/partners/budget.html" style="color:#204a9d">Budget</a><br>
+<a href="/flybuys/content/partners/partners/coles.html" style="color:#204a9d">Coles</a><br>
+<a href="/flybuys/content/partners/partners/coles_express.html" style="color:#204a9d">Coles Express</a><br>
+<a href="/flybuys/content/partners/partners/coles_insurance.html" style="color:#204a9d">Coles Insurance</a><br>
+<a href="/flybuys/content/partners/partners/coles_mastercard.html" style="color:#204a9d">Coles MasterCard</a><br>
 </div>
 
-<div class="footerBorder">
-	<img src="/export/sites/default/flybuys/images/footer/footRight.png" width="10" height="490" alt="footer right border">
-</div>
-  
+<!-- Partners column 2 -->
 
+<div class="footer_links_left">
+<h2 style="font-size:18px;color:#0099cc;line-height:18px;">&nbsp;</h2><br>
+<a href="/flybuys/content/partners/partners/flybuys_boxoffice.html" style="color:#204a9d">flybuys Box Office</a><br>
+<a href="/flybuys/content/partners/partners/jetset.html" style="color:#204a9d">Jetset Travel</a><br>
+<a href="/flybuys/content/partners/partners/kmart.html" style="color:#204a9d">Kmart</a><br>
+<a href="/flybuys/content/partners/partners/kmart_tyre_auto.html" style="color:#204a9d">Kmart Tyre &amp; Auto Service</a><br>
+<a href="/flybuys/content/partners/partners/liquorland.html" style="color:#204a9d">Liquorland</a><br>
+<a href="/flybuys/content/partners/partners/nab_reward.html" style="color:#204a9d">NAB</a><br>
+<a href="/flybuys/content/partners/partners/target.html" style="color:#204a9d">Target</a><br>
+<a href="/flybuys/content/partners/partners/telstra.html" style="color:#204a9d">Telstra</a><br>
+<a href="/flybuys/content/partners/partners/travelworld.html" style="color:#204a9d">Travelworld</a><br>
+<a href="/flybuys/content/partners/partners/webjet.html" style="color:#204a9d">Webjet</a><br>
+</div>
+
+<!-- Rewards -->
+
+<div class="footer_links_left">
+<h2 style="font-size:18px;color:#0099cc;line-height:18px;">Rewards</h2><br>
+<a href="/flybuys/content/awards/" style="color:#204a9d">flybuys Rewards</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=17&amp;subCat=76" style="color:#204a9d">flybuys Dollars</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=0" style="color:#204a9d">Audio visual</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=1" style="color:#204a9d">For the home</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=2" style="color:#204a9d">Just for kids</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=9" style="color:#204a9d">Gift cards</a><br>
+<a href="/flybuys/content/awards/travelLanding.html" style="color:#204a9d">Travel &amp; accommodation</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=3" style="color:#204a9d">Entertainment</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=4" style="color:#204a9d">Sports &amp; leisure</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=18&amp;subCat=77" style="color:#204a9d">Fuel</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=5" style="color:#204a9d">Dining &amp; wine</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=6" style="color:#204a9d">Treats &amp; gifts</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=7" style="color:#204a9d">Personal items</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=8" style="color:#204a9d">Luxury items</a><br>
+<a href="/flybuys/content/Specials/" style="color:#204a9d">Reward Specials</a><br>
+<a href="/flybuys/content/awards/sub/flights_and_holidays" style="color:#204a9d">Flights</a><br>
+</div>
+
+<!-- About -->
+
+<div class="footer_links_right">
+<h2 style="font-size:18px;color:#0099cc;line-height:18px;">About</h2><br>
+<a href="/flybuys/content/about/whatisflybuys.html" style="color:#204a9d">What is flybuys?</a><br>
+<a href="/flybuys/content/about/flybuys-terms_and_conditions.html" style="color:#204a9d">Terms &amp; Conditions</a><br>
+<a href="/flybuys/content/about/privacy.html" style="color:#204a9d">Privacy Statement</a><br>
+<a href="/flybuys/content/about/policy.html" style="color:#204a9d">Privacy Policy</a><br>
+<a href="/flybuys/content/about/contactus.html" style="color:#204a9d">Contact us</a><br>
+<a href="/flybuys/content/about/flybuys-faq.html" style="color:#204a9d">FAQs</a><br>
+</div>
+
+<div class="clear" style="clear:both"></div>
+
+<div id="coles_logo">
+	<a href="http://www.coles.com.au" style="color:#204a9d">
+	</a>
+</div>
+
+<div id="coles_logo_fill"></div>
+<div class="clear" style="clear:both"></div>
+<div id="copyright">Copyright © 2012 Loyalty Pacific Pty Ltd. All rights reserved.</div>
+
+<div class="flybuys_logo_footer"> </div>
+
+<div id="terms"><a href="/flybuys/content/about/flybuys-terms_and_conditions.html" style="color:#204a9d">Terms and Conditions</a><a href="/flybuys/content/about/privacy.html" style="color:#204a9d"> &nbsp; &nbsp; &nbsp; Privacy Statement</a><a href="/flybuys/content/about/contactus.html" style="color:#204a9d"> &nbsp; &nbsp; &nbsp; Contact Us</a><a href="/flybuys/content/about/flybuys-faq.html" style="color:#204a9d"> &nbsp; &nbsp; &nbsp; FAQs</a></div>
+<!--<div id="registration">Already registered? &nbsp; &nbsp; &nbsp; <a href="#" style="color:#204a9d">Login now</a></div>-->
+<div class="clear" style="clear:both"></div>
+<div class="break_end"></div>
+</div>
+
+<!-- LPWEB-1118 related code -->
+<div id="basic-modal-content">
 		</div>
-	
+		
+		
+
+
+
+
+
+
+<script type="text/javascript">
+var gaPageName = '/flybuys/content/about/policy.html'; 
+var gaPageParams = '';
+var gaPageParamsIndex = window.location.href.indexOf("?");
+if ( gaPageParamsIndex > -1 ){
+	gaPageParams = window.location.href.substr(gaPageParamsIndex);
+}
+</script> 
+
+		
+<!-- POP BODY END - START -->
+
+
+
+<!-- common JS used on all pages, include just before end body (or as close as you can get) -->
+<script type="text/javascript" src="/opencms/opencms/flybuys/include/common/common.js"></script>
+
+<!-- GA related stuff, note we need to load the GA JS before we can reference it -->
+<script type="text/javascript">
+/* Utility javascript functions - START - (these should be moved to just before the end body) ******************************************************/
+
+	// Define the get session cookie function.
+	function get_session_cookie(Name) {
+	  var search = Name + "="
+	  var returnvalue = "";
+	  if (document.cookie.length > 0) {
+	    offset = document.cookie.indexOf(search)
+	    // if cookie exists
+	    if (offset != -1) { 
+	      offset += search.length
+	      // set index of beginning of value
+	      end = document.cookie.indexOf(";", offset);
+	      // set index of end of cookie value
+	      if (end == -1) end = document.cookie.length;
+	      returnvalue=unescape(document.cookie.substring(offset, end))
+	      }
+	   }
+	  return returnvalue;
+	}
+
+        // Define the get query param function.
+	function get_query_param(Name) {
+		var returnvalue = $.query.get(Name);
+		// test for returnvalue==undefined
+		return returnvalue;
+	}
+
+	jQuery(document).ready(function () {
+
+		if (jQuery('#webLoginStatus').val() == 'true'){
+			jQuery('.logged-in').removeAttr('style');
+			jQuery('.logged-out').css({'display' : 'none'});
+		} else {
+			jQuery('.logged-in').css({'display' : 'none'});
+			jQuery('.logged-out').removeAttr('style');
+		}
+
+	       	jQuery('#topnav li#current').find('a').css({'background-position' : '0 -78px'});
+
+                
+                // Handles expandable content
+           	jQuery(".expandableContent").hide();
+		jQuery(".expandableLabel").show();
+
+		jQuery('.expandableLabel').click(function() {
+			if (jQuery(".expandableContent").is(':visible')) {
+				jQuery(".expandableContent").hide("slow");
+			} else {
+				jQuery(".expandableContent").show("slow");
+			}
+		});
+		
+		jQuery('.expandableLabel').hover(function() {			
+			jQuery(".expandableContent").show("slow");			
+		});
+	});
+
+/* Utility javascript functions - END - (these should be moved to just before the end body) ********************************************************/
+</script>
 <script type="text/javascript">
 	// Check the edmSource parameter
 	var tmpEdmSourceQpVal = get_query_param('edmSource');
@@ -985,14 +931,16 @@ FlyBuys Policy on Information Privacy.</p>
 		// is only available on the page it was created on by default.
 		document.cookie="edmSource=" + tmpEdmSourceQpVal + ";path=/";
 	}
-</script>
 
-<!-- Google Analytics Javascript -->
+</script>
 <script type="text/javascript">
+/* <!-- Google Analytics Javascript --> */
+
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+
 	var pageTracker = _gat._getTracker("UA-359987-1");
 	pageTracker._initData();
 	/* pageTracker._trackPageview(); */
@@ -1032,9 +980,15 @@ FlyBuys Policy on Information Privacy.</p>
 		} catch(err) {}
 	}
 
+	/* function to send data to google analytics, for events */ 
+	function recordLinkEvent(link, category, action, label) { 
+	  _gat._getTracker("UA-359987-1")._trackEvent(category, action, label); 
+	  setTimeout('document.location = "' + link.href + '"', 100); 
+	}
+
 </script>
 
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/flybuysWidgets/bannerTracking/trackPromo.js"></script>
+<!-- POP BODY END - START -->
 
 
 
