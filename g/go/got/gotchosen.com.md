@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotchosen.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511071450id_/http%3A//www.gotchosen.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotchosen.com privacy policy that was archived on 2012-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120909170320id_/http%3A//www.gotchosen.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GotChosen: $40K To Give Away!
 
