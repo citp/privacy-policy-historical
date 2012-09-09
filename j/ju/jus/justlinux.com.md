@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justlinux.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510201020id_/http%3A//www.justlinux.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justlinux.com privacy policy that was archived on 2012-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120909060737id_/http%3A//www.justlinux.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
