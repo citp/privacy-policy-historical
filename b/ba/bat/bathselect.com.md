@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the bathselect.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419142002id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathselect.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910015751id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
-**Privacy Policy**
+**Privacy Policy for shopping Bathroom accessories online at bathselect**  
+_Policy at Bathselect online supplier of Faucets, Shower Massage Panels, Led Showers, Sauna, Massage Head Showers, Whirlpool, Sensor Faucets, Shower Sets and more._
 
-What information do we collect?
+Your online Store for Faucets, Head, Shower Sets, Led Showers, Sensor Faucets, Showers and more!  
+
+
+What information do we collect?  
+
 
   * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
@@ -65,7 +70,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20120419142002id_/http%3A//www.bathselect.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20120910015751id_/http%3A//www.bathselect.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
