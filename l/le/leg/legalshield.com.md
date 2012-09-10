@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalshield.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507062156id_/http%3A//www.legalshield.com/cp/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalshield.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910164235id_/http%3A//www.legalshield.com/cp/privacyPolicy.html) for the most accurate reproduction.*
 
 # LegalShield
 
