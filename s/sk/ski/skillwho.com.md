@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillwho.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529060039id_/http%3A//www.skillwho.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillwho.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910203702id_/http%3A//www.skillwho.com/privacy.aspx) for the most accurate reproduction.*
 
 # SkillWho Privacy Policy
 
