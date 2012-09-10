@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingtip.org privacy policy that was archived on 2010-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100708032725id_/http%3A//www.marketingtip.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingtip.org privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910095420id_/http%3A//www.marketingtip.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
