@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530055848id_/http%3A//www.1keydata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910074308id_/http%3A//www.1keydata.com/privacy.php) for the most accurate reproduction.*
 
 # 1Keydata Privacy Policy
 
