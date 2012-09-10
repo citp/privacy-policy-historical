@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feefo.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623080243id_/http%3A//www.feefo.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feefo.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910211419id_/http%3A//www.feefo.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
