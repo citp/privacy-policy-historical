@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505082735id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910021222id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Tone Deaf
+
+  
+
 
 **Website Visitors**  
 Like most website operators, ToneDeaf.com.au collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ToneDeaf.com.au’s purpose in collecting non-personally identifying information is to better understand how ToneDeaf.com.au’s visitors use its website. From time to time, ToneDeaf.com.au may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
@@ -28,4 +31,11 @@ Although most changes are likely to be minor, ToneDeaf.com.au may change its Pri
   
 
 
-This Sat @ Cherry Bar: Matt Sonic & The High Times with friends. $10+BF Click Here
+## Subscribe To Our Daily Tucker Bag
+
+Get the latest music news, opinion, interviews, freebies, tracks, videos and more in our daily bento box - delivered straight to your inbox at lunchtime every weekday.
+
+people are currently subscribers
+
+  
+
