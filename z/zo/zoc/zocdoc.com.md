@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zocdoc.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505004416id_/http%3A//www.zocdoc.com/public/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zocdoc.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910145120id_/http%3A//www.zocdoc.com/privacypolicy) for the most accurate reproduction.*
 
-# ZocDoc - Privacy Policy
+# Privacy Policy - ZocDoc
 
 [](http://www.truste.org/ivalidate.php?url=www.zocdoc.com&sealid=101)
 
 ## 1\. Introduction 
 
-ZocDoc, Inc. (“us,” “we,” or “ZocDoc”) is committed to respecting the privacy rights of our customers, visitors, and other users of the ZocDoc services (“Services”) provided via the ZocDoc website (collectively, "Site"). We created this Site Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site or any website of ZocDoc’s partners, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. Your use of the Site is governed by this Privacy Policy and the [ Terms of Use](https://web.archive.org/public/terms.aspx). If you are registering an account or using the Site on behalf of an individual or entity other than yourself, you represent that you are authorized by such individual or entity to accept this Privacy Policy on such individual's or entity's behalf.
+ZocDoc, Inc. (“us,” “we,” or “ZocDoc”) is committed to respecting the privacy rights of our customers, visitors, and other users of the ZocDoc services (“Services”) provided via the ZocDoc website (collectively, "Site"). We created this Site Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site or any website of ZocDoc’s partners, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. Your use of the Site is governed by this Privacy Policy and the [ Terms of Use](https://web.archive.org/terms). If you are registering an account or using the Site on behalf of an individual or entity other than yourself, you represent that you are authorized by such individual or entity to accept this Privacy Policy on such individual's or entity's behalf.
 
 ## 2\. Traffic Data Collected
 
@@ -46,7 +46,7 @@ We store all Traffic Data and review postings indefinitely, even after “deleti
 
 ## 9\. Information Provided on Behalf of Children
 
-ZocDoc does not collect information from children under the age of 13 in accordance with the Children’s Online Privacy Protection Act (“COPPA”) as discussed below. If you are a parent or legal guardian of a minor child, you may, in compliance with the [Terms of Use](https://web.archive.org/public/terms.aspx), use the Site or Services on behalf of such minor child. Any information that you provide while using the Site or Service on behalf of your minor child will be treated as Personal Information as otherwise provided herein.
+ZocDoc does not collect information from children under the age of 13 in accordance with the Children’s Online Privacy Protection Act (“COPPA”) as discussed below. If you are a parent or legal guardian of a minor child, you may, in compliance with the [Terms of Use](https://web.archive.org/terms), use the Site or Services on behalf of such minor child. Any information that you provide while using the Site or Service on behalf of your minor child will be treated as Personal Information as otherwise provided herein.
 
 ## 10\. Children’s Online Privacy Protection Act
 
@@ -80,7 +80,7 @@ Except as otherwise provided in this Privacy Policy, we will keep your Personal 
 
 ## 15\. Doctors and Dentists
 
-Doctors, dentists, their employees, and their agents should be particularly aware of their obligations of patient confidentiality, including without limitation their obligations under the Health Insurance Portability and Accountability Act (“HIPAA”), both in communicating with ZocDoc and in responding to a review of their services posted on our Site. ZocDoc does not have, and will not accept, any obligations of confidentiality with respect to any communications other than those expressly stated in this Privacy Policy and ZocDoc’s [Terms of Use](https://web.archive.org/public/terms.aspx). 
+Doctors, dentists, their employees, and their agents should be particularly aware of their obligations of patient confidentiality, including without limitation their obligations under the Health Insurance Portability and Accountability Act (“HIPAA”), both in communicating with ZocDoc and in responding to a review of their services posted on our Site. ZocDoc does not have, and will not accept, any obligations of confidentiality with respect to any communications other than those expressly stated in this Privacy Policy and ZocDoc’s [Terms of Use](https://web.archive.org/terms). 
 
 ## 16\. Public Information
 
@@ -123,7 +123,7 @@ ZocDoc, Inc.
 Suite 901  
 New York, NY 10012
 
-Phone: (866) ZOCDOC 1  
+Phone: (855) 962-3621  
 Fax: (800) 701-9607
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at 
