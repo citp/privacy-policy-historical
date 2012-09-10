@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118195006id_/http%3A//www.imd.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911002505id_/http%3A//www.imd.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -11,7 +11,7 @@ Switzerland
 At IMD, we care about your privacy. Our privacy policy covers IMD and its principal and subsidiary web sites, subsequently referred to as "our website".
 
 **General Information  
-**IMD owns and is responsible for the IMD Websites. However, some of the areas of our Websites, for example: [www.imd.org/contest](http://www.imd.org/contest), may have specific terms and conditions, including privacy statements, that relate to their specific content, practices and use of personal information . When visiting any areas of our Websites, it is recommended that users consult any other additional privacy statements available. 
+**IMD owns and is responsible for the IMD Websites. However, some of the areas of our Websites may have specific terms and conditions, including privacy statements, that relate to their specific content, practices and use of personal information . When visiting any areas of our Websites, it is recommended that users consult any other additional privacy statements available. 
 
 * * *
 
@@ -64,7 +64,11 @@ You can change all of the personal profile information that you have provided un
 * * *
 
 **Cookies**  
-IMD uses cookies only to see if you have been logged onto an IMD website in the past 50 minutes, and, if so and you have not specifically logged out, bypasses the request for you to log in to registered-user-only portions of the website. We do not store any personal data in the cookie, but rather use cookies with the sole purpose of maintaining security on our website. IMD encourages users to log off after each session by clicking on the logout link or button included on every page. 
+IMD uses cookies only to see if you have been logged onto an IMD website in the past 50 minutes, and, if so and you have not specifically logged out, bypasses the request for you to log in to registered-user-only portions of the website. We do not store any personal data in the cookie, but rather use cookies with the sole purpose of maintaining security on our website. IMD encourages users to log off after each session by clicking on the logout link or button included on every page.
+
+The use of cookies is an industry standard, you'll find them at most major Web sites. If you prefer not to receive cookies from [www.imd.org](http://www.imd.org/), you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence, or you can also refuse all cookies by turning them off in your browser.
+
+As part of our overall marketing program, [www.imd.org](http://www.imd.org/) will use cookies and other tracking technologies as part of our advertising re-targeting program. These cookies enable our re-targeting partners to show you advertisements for our site when you visit other sites in 3rd party networks.
 
 * * *
 
