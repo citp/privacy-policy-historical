@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the publicinvasion.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304215435id_/http%3A//pp.bigasspass.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicinvasion.com privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911104901id_/http%3A//pp.bigasspass.com) for the most accurate reproduction.*
 
 # BigAssPass - Privacy Policy
 
-Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website and all of our other websites including, but not limited to, bigasspass.com, stickyadventures.com, bustyadventures.com, bigassadventure.com and welickeachother.com (the “Sites”, “we” or “us”). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it. 
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to all sites owned or controlled by BangBros.com, Inc. (“the Company”) and in which this policy appears, including, but not limited to, bigasspass.com, stickyadventures.com, bustyadventures.com, bigassadventure.com and welickeachother.com. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it. 
 
 ###  Adults Only Service
 
