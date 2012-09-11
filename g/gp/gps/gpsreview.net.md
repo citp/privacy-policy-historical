@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpsreview.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620072708id_/http%3A//www.gpsreview.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpsreview.net privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911184554id_/http%3A//www.gpsreview.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy GPS Review
 
@@ -6,6 +6,8 @@ As most websites do, we collect data in a “log file” record keeping. We coll
 
 We also use third party advertising companies to serve ads. These companies may use information about your visits to this and other websites in order to provide advertisements about products and services that may be of interest to you. They may not use your name, address, email address, nor telephone number from these visits.
 
-As an example, we use advertisements from Google on this website. They may store a cookie on your computer which enables them to serve relevant advertisements to you based on your visits here and on other websites. You may opt out of Google’s DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+As an example, we use advertisements from Google on this website. They may store a cookie on your computer which enables them to serve relevant advertisements to you based on your visits here and on other websites. You may opt out of Google’s DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You may opt out of Shopzilla targeted advertising by visiting [Shopzilla Opt Out](http://www.shopzilla.com/ad_retarget_global_opt_out).
+
+_(Updated 27 Apr 2012)_
 
 Comments are closed.
