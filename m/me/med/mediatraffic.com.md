@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediatraffic.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616030306id_/http%3A//www.mediatraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatraffic.com privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911100119id_/http%3A//www.mediatraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Media Traffic - CPV PPV Contextual Advertising - Privacy Policy
 
