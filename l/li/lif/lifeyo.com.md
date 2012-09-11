@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeyo.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424113250id_/http%3A//www.lifeyo.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeyo.com privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911183521id_/http%3A//www.lifeyo.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice | LIFEYO
 
