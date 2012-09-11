@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbuds.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625070151id_/http%3A//www.fbuds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbuds.com privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911064042id_/http%3A//www.fbuds.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
