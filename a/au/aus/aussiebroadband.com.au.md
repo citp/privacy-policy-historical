@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiebroadband.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630172358id_/http%3A//aussiebroadband.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiebroadband.com.au privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911142208id_/http%3A//aussiebroadband.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Aussie Broadband - About - Privacy Policy
 
