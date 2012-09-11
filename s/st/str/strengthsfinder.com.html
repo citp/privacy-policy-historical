@@ -1,145 +1,296 @@
-<!--The following is the downloaded HTML source of the strengthsfinder.com privacy policy that was archived on 2011-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604090335id_/http%3A//strengths.gallup.com/922/Privacy-Statement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the strengthsfinder.com privacy policy that was archived on 2012-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120911181441id_/http%3A//strengths.gallup.com/922/Privacy-Statement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html id="MasterPageHtmlTag" xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_MasterPageHeadTag"><title>
 	Privacy Statement
-</title>
+</title><meta name="viewport" content="width=device-width; initial-scale=1.0"><meta property="og:url" content="http://strengths.gallup.com/default.aspx"><meta property="og:image" content="http://strengths.gallup.com/assets/images/fbicon.jpg"><meta property="og:description" content="Gallup's strengths-based development programs help you identify your natural abilities for providing near-perfect performances in specific activities, and then provides you with the latest discoveries and strategies for applying your strengths."><meta property="og:title" content="Strengths Dashboard"><link rel="alternate" type="applications/rss+xml" title="ROR" href="/sitemaps/content.rss"><link rel="alternate" type="applications/rss+xml" title="ROR" href="/sitemaps/tags.rss"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="image_src" href="/assets/images/prHome_sf2.png">
 
-<script type="text/javascript" src="/assets/js/jquery1_4_2_min.js"></script>
-<script type="text/javascript" src="/assets/js/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/assets/js/common.js"></script>
-<script type="text/javascript" src="/assets/js/jQuery.textarearesizer.js"></script>
+<!--[if lte IE 7]>
+     <link type="text/css" rel="stylesheet" media="all" href="/assets/css/screen_ie7.css" />
+<![endif]-->
 
-<link type="text/css" rel="stylesheet" media="print, screen, handheld, tv" href="/assets/css/general.css"><link type="text/css" rel="stylesheet" media="screen, handheld, tv" href="/assets/css/screen.css"><link type="text/css" rel="stylesheet" media="print" href="/assets/css/print.css"><script type="text/javascript" src="http://sas-origin.OnstreamMedia.com/origin/gallupinc/www/webtrendsTagSD.js"></script><script type="text/javascript" src="http://sas-origin.OnstreamMedia.com/origin/gallupinc/www/webtrendsTrack.js"></script><meta name="description" content="English Privacy Statement"><meta name="robots" content="INDEX,FOLLOW,NOARCHIVE"><meta name="author" content="The Gallup Organization"></head>
+<link type="text/css" rel="stylesheet" media="screen, handheld, tv" href="/assets/css/screen.css"><link type="text/css" rel="stylesheet" media="print" href="/assets/css/print.css"><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.7.1.min.js"></script><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.16/jquery-ui.min.js"></script><script type="text/javascript" src="http://sas-origin.OnstreamMedia.com/origin/gallupinc/www/webtrendsTagSD.js"></script><script type="text/javascript" src="http://sas-origin.OnstreamMedia.com/origin/gallupinc/www/webtrendsTrack.js"></script><script type="text/javascript" src="/assets/js/common.js"></script><meta name="description" content="English Privacy Statement"><meta name="robots" content="INDEX,FOLLOW,NOARCHIVE"><meta name="author" content="The Gallup Organization"><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
-<body id="ctl00_ctl00_MasterPageBodyTag">
+<body id="ctl00_MasterPageBodyTag" dir="ltr" class="ltr en-us">
+<div id="fb-root"> </div>
+<script type="text/javascript" language="javascript" src="https://connect.facebook.net/en_US/all.js"></script>
+<script language="javascript">
+    function htmlFix(str) {
+        var message = str.replace(/%26/gi, '&');
+        message = message.replace(/%3f/gi, '?');
+        message = message.replace(/%22/gi, '"');
+        message = message.replace(/%27/gi, '\'');
+        message = message.replace(/%0d/gi, '\n');
+        return message;
+    };
+
+    $(document).ready(function () {
+        var showing = readCookie('sdLangControl');
+
+        //check for cookie if hidden
+        if (showing == 'no') {
+            $('.showLangControl').show();
+
+            $('#lang_control').hide();
+        } else {
+            $('.showLangControl').hide();
+
+            $('#lang_control').show();
+        }
+
+        $('.closeDropDown').click(function (e) {
+            e.preventDefault();
+            $('.showLangControl').show();
+
+            $('#lang_control').hide();
+            createCookie('sdLangControl', 'no');
+        });
+
+        $('.showLangControlLink').click(function (e) {
+            e.preventDefault();
+            $('.showLangControl').hide();
+
+            $('#lang_control').show();
+            createCookie('sdLangControl', 'yes');
+        });
+    });
+
+    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");
+
+    FB.init({ appId: "369920939692956", status: true, cookie: true });
+    function postToFeed() {
+	_gaq.push(['_trackEvent', 'fbbutton', 'clicked'])	
+        // calling the API ...
+        var obj = {
+            method: 'feed',
+            link: $('input[name*=HiddenUrl]').val(),
+            name: 'Strengths',
+            caption: $('input[name*=HiddenCaption]').val(),
+            description: $('input[name*=HiddenDescription]').val(),
+            properties: [{ 'text': $('input[name*=HiddenProperties]').val(), 'href': $('input[name*=HiddenUrl]').val()}],
+            display: 'popup'
+        };
+
+        function callback(response) {
+        }
+
+        FB.ui(obj, callback);
+    }
+
+jQuery(document).ready(function($) {
+        $.getScript('//platform.twitter.com/widgets.js', function() {
+            function trackSocialIntent(intent_event) {
+                if (!intent_event) { return; }
+                _gaq.push(['_trackEvent', 'twitterbutton', intent_event.type]);
+            }
+            twttr.events.bind('click', trackSocialIntent);
+            twttr.events.bind('tweet', trackSocialIntent);
+            twttr.events.bind('retweet', trackSocialIntent);
+            twttr.events.bind('favorite', trackSocialIntent);
+            twttr.events.bind('follow', trackSocialIntent);
+        });
+    });	
+</script>
+<div id="container" class="grid_container">
+    <form name="aspnetForm" method="post" action="Privacy-Statement.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="WfoNXRMxzAYeX2XzRgnftMUrltbSDRmb6OKGAjM3vbkjsr18O8IreXsAbXiR/R2ieYhJYFso0g2Ff6IQIJLPb2rrsL8bxwQXNCjw6qfXRr7H0ccHkzfpJFrg7Rg+Fm2f5wPbExaArTgZw7RqfPBiq9zeMh1SxsL4Zx7nO3ZfkNfPFkOginum/TCAL6E9dewsumYT2ZM0Osea5Nh8q0BZ8w==">
+    <input type="hidden" name="ctl00$HiddenCaption" id="ctl00_HiddenCaption">
+    <input type="hidden" name="ctl00$HiddenDescription" id="ctl00_HiddenDescription">
+    <input type="hidden" name="ctl00$HiddenProperties" id="ctl00_HiddenProperties">
+    <input type="hidden" name="ctl00$HiddenUrl" id="ctl00_HiddenUrl">
+    <div id="ctl00_PanelLanguage">
+	
+    <div id="lang_control" class="langControlWrapper">
+        <div class="langControl clearfix">
+            <div class="langLinks">
+                <span><a href="/default.aspx" class="">English</a></span> <span>|</span> <span class="literal">International
+</span>
+            </div>
+            
+            <div class="langDrop">
+                <div class="dropdown"><a name="DropDownListLanguages"><select name="ctl00$DropDownListLanguages" id="ctl00_DropDownListLanguages">
+		<option selected="selected" value="">Select Language
+</option>
+		<option value="zh-hans-cn">简体中文
+</option>
+		<option value="es-ar">Español - latinoamérica
+</option>
+
+	</select></a></div>
+            </div>
+            <div class="langCloser">
+            	<a href="#" class="closeDropDown"><span class="hiddenIR">X</span></a>
+            </div>
+        </div>
+    </div>
+    <div class="langControlWrapper showLangControl">
+        <div class="langControl clearfix">
+        	<a href="#" class="showLangControlLink"><img src="/assets/images/downArrow.png"></a>
+        </div>
+    </div>
+    
+</div>
+    
 
 
-
-<div class="banner">
-    <div class="main">
-        <div class="maintl">
-            <div class="maintr">
-                <div class="mainbl">
-                    <div class="mainbr">
-
-                        <div class="outerbox screen">
-                            <div class="tl">
-                                <div class="tr">
-                                    <div class="bl">
-                                        <div class="br">
-                                       
-                                            <ul>
-                                                 <li><a href="/Registration/Step2.aspx"><span>Register</span></a></li>
-                                                 <li><a href="/SignIn/Default.aspx"><span>Sign In</span></a></li>
-                                            </ul>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+<div id="gdbanner" class="grid_banner clearfix">
+    <div class="grid_main innerbanner">
+        <div id="gdhdrrow0" class="row row0">
+            <div class="innerrow">
+                <div class="col col0 colpos20">
+                    <div class="innercolumn">
+                        <ul class="skiplist">
+                            <li class="skip"><a href="#content_start" id="skplst">Skip Navigation</a></li>
+                        </ul>
                         
-                        <a id="ctl00_ctl00_Banner1_LinkLogo" title="Strengths" class="hyperlink logo" href="../">
-                            <span>
-                                <img src="/Assets/Images/Logo.png" alt="Strengths">
-                            </span>
-                        </a>
 
+<div class="logo">
+
+    <a id="ctl00_Banner1_LogoStrengths1_LinkLogo" title="Strengths" class="logo" href="/en-us/default.aspx">  
+        <span class="hiddenIR">Strengths</span>
+    </a>
+
+</div>
+                    </div>
+                </div>
+                <div class="col col1 colpos21">
+                    <div class="innercolumn">
+                        <div class="acctNav clearfix">
+                            <div id="nav-headnav" class="navigation">
+<div>
+<div class="list">
+<ul class="listlevel1">
+<li class="s"><a target="_parent" href="/signin/default.aspx"><span>Sign In</span></a></li>
+<li class="e"><a target="_parent" href="/registration/step2.aspx"><span>Enter Access Code</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div id="gdhdrrow1" class="row row1">
+            <div class="innerrow">
+                <div class="col col0 colpos10">
+                    <div class="innercolumn">
+                        <div class="mainNav clearfix">
+                            <div id="nav-bannermainpublic" class="navigation">
+<div class="mobileShrinkNav">
+<div class="list">
+<ul class="listlevel1">
+<li class="s"><a target="_parent" href="/default.aspx"><span>Home</span></a></li>
+<li class="m"><a target="_parent" href="/110440/About-StrengthsFinder-20.aspx"><span>Publications</span></a></li>
+<li class="m"><a target="_parent" href="/purchase.aspx"><span>Purchase</span></a></li>
+<li class="e lightboxAnchor"><a target="_parent" class="lightboxAnchor" href="#dialog"><span>About Clifton StrengthsFinder</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>                          
     </div>
 </div>
 
 
 
-<div class="navigation tier1 screen">
-    <div class="main">
-        <div class="maintl">
-            <div class="maintr">
-                <div class="mainbl">
-                    <div class="mainbr">
+    <div id="gdcontent" class="grid_content">
+        <div class="grid_main innercontent">
+            <div id="gdbodyrow0" class="row row0">
+                <div id="ctl00_PanelMutliColumns" class="multicolumn innerrow">
+	
                     
-                       <div class="list">
-
-                        <ul class="listlevel1 clearfix"><li class=""><a href="/110659/Homepage.aspx" target="_parent" title="Home"><span>Home</span></a></li><li class=""><a href="/110440/About-StrengthsFinder-2.aspx" target="_parent" title="Publications"><span>Publications</span></a></li><li class=""><a href="/110893/Purchase.aspx" target="_parent" title="Purchase"><span>Purchase</span></a></li><li class="floatR"><a href="#dialog" name="modal" class="lightboxAnchor"><div class="lightboxItem">About Clifton StrengthsFinder</div></a> </li></ul>
-
-                       </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+                    <div class="col col0 colpos20">
+                        <div class="innercolumn">
+                            
+                            <div id="pNavigation" class="navigation pnavigation">
+                                <div id="nav-mainpublic" class="navigation">
+<div class="mobileShrinkNav">
+<div class="list">
+<ul class="listlevel1">
+<li class="s booknavSF2"><a target="_parent" class="booknavSF2" href="/110440/About-StrengthsFinder-20.aspx"><span><span></span>StrengthsFinder 2.0 <i>Discover what makes you stand out.</i></span></a>
+<ul class="listlevel2">
+<li class="s"><a target="_parent" href="/110440/About-StrengthsFinder-20.aspx"><span>About the Book</span></a></li>
+<li class="m"><a target="_parent" href="/110443/History.aspx"><span>History</span></a></li>
+<li class="m"><a target="_parent" href="/110386/Whats-New-Version-20.aspx"><span>What's New</span></a></li>
+<li class="m"><a target="_parent" href="/110389/Research-Behind-StrengthsFinder-20.aspx"><span>StrengthsFinder 2.0 Research</span></a></li>
+<li class="m"><a target="_parent" href="/111244/How-Use-Your-StrengthsFinder-Access-Code.aspx"><span>Use Your Access Code</span></a></li>
+<li class="e"><a target="_parent" href="/111100/Learn-More-About-StrengthsFinder-20.aspx"><span>Learn More</span></a></li>
+</ul>
+</li>
+<li class="m booknavSBL"><a target="_parent" class="booknavSBL" href="/110242/About-Book.aspx"><span><span></span>Strengths Based Leadership <i>Gain insights into your unique leadership strengths</i></span></a>
+<ul class="listlevel2">
+<li class="s"><a target="_parent" href="/110242/About-Book.aspx"><span>About the Book</span></a></li>
+<li class="m"><a target="_parent" href="/110251/Gallups-Leadership-Research.aspx"><span>Leadership Research</span></a></li>
+<li class="m"><a target="_parent" href="/111247/How-Use-Your-Strengths-Based-Leadership-Access-Code.aspx"><span>Use Your Access Code</span></a></li>
+<li class="e"><a target="_parent" href="/111097/Learn-More-About-Strengths-Based-Leadership.aspx"><span>Learn More</span></a></li>
+</ul>
+</li>
+<li class="m booknavHFB"><a target="_parent" class="booknavHFB" href="/114079/Full-Bucket.aspx"><span><span></span>How Full Is Your Bucket? <i>Positive strategies for work and life.</i></span></a>
+<ul class="listlevel2">
+<li class="s"><a target="_parent" href="/114079/Full-Bucket.aspx"><span>About the Book</span></a></li>
+<li class="m"><a target="_parent" href="/114088/Full-Bucket-Research.aspx"><span>Research</span></a></li>
+<li class="m"><a target="_parent" href="/114082/Theory-Dipper-Bucket.aspx"><span>Dipper and Bucket Theory</span></a></li>
+<li class="m"><a target="_parent" href="/115186/Full-Bucket-Resources.aspx"><span>Resources</span></a></li>
+<li class="m"><a target="_parent" href="/116275/Drops.aspx"><span>What Are Drops?</span></a></li>
+<li class="e"><a target="_parent" href="/114433/Bucket-Book-Access-Code.aspx"><span>Use Your Access Code</span></a></li>
+</ul>
+</li>
+<li class="e booknavSBB"><a target="_parent" class="booknavSBB" href="/110254/StrengthsBased-Books.aspx"><span><span></span>Strengths-Based Books</span></a></li>
+</ul>
+</div>
+</div>
 </div>
 
+                            </div>
+                            <div id="pBucketBook">
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="col col1 colpos21">
+                        <div class="innercolumn" id="content_start">
+                                
 
-
-
-
-<div class="body">
-    <div class="main">
-        <div class="maintl">
-            <div class="maintr">
-                <div class="mainbl">
-                    <div class="mainbr">
-
-                       
-
-    
-         
-   
-    
-
-    
-    <div class="onecolumn itemview itemviewdefault release">
-  <div class="column1">
-    <div class="column">
-      <div class="columntl">
-        <div class="columntr">
-          <div class="columnbl">
-            <div class="columnbr"></div>
-          </div>
+    <div class="onecolumn columns itemviewdefault release">
+  <div class="onecolumnI">
+    <div class="column1">
+      <div class="column">
+        <div class="columnI">
+          <div class="maincolumn"></div>
         </div>
       </div>
     </div>
-  </div>
-  <div class="column2">
-    <div class="column">
-      <div class="columntl">
-        <div class="columntr">
-          <div class="columnbl">
-            <div class="columnbr">
-              <div class="headings">
-                <div class="headingstl">
-                  <div class="headingstr">
-                    <div class="headingsbl">
-                      <div class="headingsbr">
-                        <h1><span>Privacy Statement</span></h1>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="content">
-                <div class="contenttl">
-                  <div class="contenttr">
-                    <div class="contentbl">
-                      <div class="contentbr"><div class="leftspace">
-<p>Protection of personal privacy has always been a hallmark of Gallup. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless express consent to the release of a respondent's personal information or individual responses has been provided by that respondent. In a like manner, Gallup protects the identity of individuals who access its Web sites. Please read the following policy for further details as to the types of information collected through Gallup Web sites, including personal information, and how it is treated.</p>
-<p><strong>INFORMATION COLLECTED BY GALLUP WEB SITES</strong></p>
-<p>Gallup Web sites gather information in two ways: (1) indirectly (for example, through our site's technology), and (2) directly (for example, when you, the site visitor, voluntarily provide information on various pages).</p>
+    <div class="column2">
+      <div class="column">
+        <div class="columnI">
+          <div class="maincolumn">
+            <div class="headings">
+              <h1>Privacy Statement</h1>
+            </div>
+            <div class="cmsbody" id="pagingwrapper"><div class="leftspace">
+<p>Protection of personal privacy has always been a hallmark of Gallup. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless express consent to the release of a respondent's personal information or individual responses has been provided by that respondent. In a like manner, Gallup protects the identity of individuals who access its websites. Please read the following policy for further details as to the types of information collected through Gallup websites, including personal information, and how it is treated.</p>
+<p><strong>INFORMATION COLLECTED BY GALLUP WEBSITES</strong></p>
+<p>Gallup websites gather information in two ways: (1) indirectly (for example, through our site's technology), and (2) directly (for example, when you, the site visitor, voluntarily provide information on various pages).</p>
 <p><strong><em>Information Collected Indirectly</em></strong></p>
-<p>Gallup indirectly collects a variety of information pertaining to use of its Web sites. One type of this information is that which is related to site traffic volume and patterns, such as the number of visitors to a given site or page on a daily basis. This type of indirectly collected information is gathered through various means, such as an IP address, which is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you visit a page from Gallup, our servers log your computer's IP address.</p>
+<p>Gallup indirectly collects a variety of information pertaining to use of its websites. One type of this information is that which is related to site traffic volume and patterns, such as the number of visitors to a given site or page on a daily basis. This type of indirectly collected information is gathered through various means, such as an IP address, which is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you visit a page from Gallup, our servers log your computer's IP address.</p>
 <p>Only designated administrators can access this information, and it is used only for administrative and planning purposes to meet the needs of our users, such as to improve the content of the site and to customize the content and/or layout of the site for individuals or groups of users.</p>
-<p>Other types of indirectly collected information are stored in "cookies." Cookies are small files of electronic information that a Web site can transfer to a visitor's hard drive to help that visitor while on the site. Some Gallup sites use cookies simply to store a user code so that the user does not have to re-enter their information when rejoining the site. The use of cookies is standard on the Internet. Although most Web browsers automatically accept cookies, the decision of whether to accept them is yours. A browser can usually be adjusted to prevent the reception of cookies, or to provide notification whenever a cookie is sent to you. Even without accepting a cookie, users can still access most of the features offered by Gallup Web sites.</p>
+<p>Other types of indirectly collected information are stored in "cookies." Cookies are small files of electronic information that a website can transfer to a visitor's hard drive to help that visitor while on the site. Some Gallup sites use cookies simply to store a user code so that the user does not have to re-enter their information when rejoining the site. The use of cookies is standard on the Internet. Although most Web browsers automatically accept cookies, the decision of whether to accept them is yours. A browser can usually be adjusted to prevent the reception of cookies, or to provide notification whenever a cookie is sent to you. Even without accepting a cookie, users can still access most of the features offered by Gallup websites.</p>
 <p>We may use third-party advertising companies to serve ads on our behalf. These companies may use cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.</p>
 <p><strong><em>Information Collected Directly</em></strong></p>
-<p>Gallup also collects information that is voluntarily provided by site visitors, such as a name or an e-mail address. When Gallup collects this type of information, we will notify you as to why we are asking for the information and how it will be used. It is entirely your decision to provide the requested information. Such personal data is collected when a site visitor registers with a site or requests Web services. This information is kept totally confidential, and will be used only to contact you. You may choose to have this information removed at any time. Gallup will never barter, trade, or sell access to our database of registered users.</p>
+<p>Gallup also collects information that is voluntarily provided by site visitors, such as a name or an email address. When Gallup collects this type of information, we will notify you as to why we are asking for the information and how it will be used. It is entirely your decision to provide the requested information. Such personal data is collected when a site visitor registers with a site or requests Web services. This information is kept totally confidential, and will be used only to contact you. You may choose to have this information removed at any time. Gallup will never barter, trade, or sell access to our database of registered users.</p>
 <p><strong><em>Correcting and Changing User Information and Preferences</em></strong></p>
-<p>If you are receiving e-mail communications from Gallup but wish to discontinue this service, you may request to do so at any time by e-mailing us at <a href="mailto:Privacy_Administrator@Gallup.com">Privacy_Administrator@Gallup.com</a>.</p>
-<p>You also have the option to request a revision of your user information at any time by e-mailing the requested changes to <a href="mailto:Privacy_Administrator@Gallup.com">Privacy_Administrator@Gallup.com</a>.</p>
+<p>If you are receiving email communications from Gallup but wish to discontinue this service, you may request to do so at any time by emailing us at <a href="mailto:Privacy_Administrator@Gallup.com">Privacy_Administrator@Gallup.com</a>.</p>
+<p>You also have the option to request a revision of your user information at any time by emailing the requested changes to <a href="mailto:Privacy_Administrator@Gallup.com">Privacy_Administrator@Gallup.com</a>.</p>
 <p><strong><em>Information Security</em></strong></p>
 <p>Gallup employees understand the need for user privacy, and we maintain strict security procedures to protect your information. Gallup has appointed a Privacy Policy Administrator to monitor privacy practices. Access to user data is strictly limited to specific individuals who are trained to respect user privacy. The access given to these employees is restricted to their need of such information for business reasons. A log of those who accessed the data is maintained and monitored to prevent security breaches.</p>
 <p><strong><em>Third-Party Information Storage</em></strong></p>
@@ -147,102 +298,66 @@
 <p><strong><em>Children and Privacy</em></strong></p>
 <p>Gallup encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. Gallup sites will not contain content that is generally considered unsuitable for children.</p>
 <p><strong><em>Links to Other Sites</em></strong></p>
-<p>Gallup Web sites may contain links to sites owned and/or operated by other organizations, and the privacy policies of those sites may differ from that of Gallup. These sites may collect data and make use of it in ways that Gallup does not. We encourage you to review the privacy policies posted on all third-party sites.</p>
+<p>Gallup websites may contain links to sites owned and/or operated by other organizations, and the privacy policies of those sites may differ from that of Gallup. These sites may collect data and make use of it in ways that Gallup does not. We encourage you to review the privacy policies posted on all third-party sites.</p>
 <p><strong><em>Transfer of Information to the United States</em></strong></p>
-<p>In accessing Gallup Web sites, you may be transferring personal data that is used by Gallup for statistical, administration, or marketing purposes. As a worldwide organization, Gallup collects data that may be transferred internationally throughout Gallup offices worldwide. In using any Gallup site you consent to having your information transferred to and processed in the United States or any other country in which Gallup is located. If Gallup seeks to collect any additional personal data, you will be informed of the proposed uses of that data and asked for your consent.</p>
+<p>In accessing Gallup websites, you may be transferring personal data that is used by Gallup for statistical, administration, or marketing purposes. As a worldwide organization, Gallup collects data that may be transferred internationally throughout Gallup offices worldwide. In using any Gallup site you consent to having your information transferred to and processed in the United States or any other country in which Gallup is located. If Gallup seeks to collect any additional personal data, you will be informed of the proposed uses of that data and asked for your consent.</p>
 <p><strong><em>Safe Harbor Provisions</em></strong></p>
-<p>Gallup complies with the U.S. - European Union Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Gallup certifies that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Gallup's certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+<p>Gallup complies with the U.S. - European Union Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Gallup certifies that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Gallup's certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
 <p><strong><em>Policy Updates</em></strong></p>
-<p>This Privacy Policy is Gallup's promise to its Web site users. Additional information that is particular to specific Gallup sites may exist, and updates to this policy may be posted. For these reasons we suggest that users who may have specific concerns about the information being gathered and use of that information regularly view the Privacy Policy on each site. Gallup reserves the right to change the policy on use of information collected at any time.</p>
+<p>This Privacy Policy is Gallup's promise to its websites users. Additional information that is particular to specific Gallup sites may exist, and updates to this policy may be posted. For these reasons we suggest that users who may have specific concerns about the information being gathered and use of that information regularly view the Privacy Policy on each site. Gallup reserves the right to change the policy on use of information collected at any time.</p>
 <p><strong><em>Additional Questions or Comments</em></strong></p>
-<p>If you have any additional questions or comments regarding Gallup's Privacy Policy, please e-mail us at <a href="mailto:Privacy_Administrator@Gallup.com">Privacy_Administrator@Gallup.com</a>.</p>
+<p>If you have any additional questions or comments regarding Gallup's Privacy Policy, please email us at <a href="mailto:Privacy_Administrator@Gallup.com">Privacy_Administrator@Gallup.com</a>.</p>
 </div>
 </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="column3">
-    <div class="column">
-      <div class="columntl">
-        <div class="columntr">
-          <div class="columnbl">
-            <div class="columnbr"></div>
-          </div>
+          <div class="sidecolumn"></div>
         </div>
       </div>
     </div>
   </div>
 </div>
     
- 
-    
-    
-     
+
+                        </div>
+                    </div> 
+                
+</div>
+                
+            </div>
+        </div>
+    </div>
 
     
-    
-          
 
+<div id="gdfooter" class="grid_footer">
+    <div class="grid_main innerfooter">
+        <div id="gdftrrow0" class="row row0">
+            <div class="col col0 colpos10">
+                <div class="screen clearfix">
+                    <div class="copyright">   
+                        <span class="literal">Copyright © 2012 Gallup, Inc. All rights reserved.</span>
+                    </div> 
+                    <div id="nav-footernav" class="navigation">
+<div>
+<div class="list">
+<ul class="listlevel1">
+<li class="s"><a target="_parent" href="/terms.aspx"><span>Terms of Use</span></a></li>
+<li class="m"><a target="_parent" href="/privacy.aspx"><span>Privacy Statement</span></a></li>
+<li class="e"><a target="_parent" href="/help/default.aspx"><span>Help</span></a></li>
+</ul>
+</div>
+</div>
+</div>
 
-                    </div>
+                </div>
+                <div class="print"> 
+                    <span></span> 
+                    <span>Gallup<sup class="PCOPYRIGHT">®</sup>, A<sup>8</sup><sup class="PCOPYRIGHT">™</sup>, Business Impact Analysis<sup class="PCOPYRIGHT">™</sup>, CE<sup>11</sup><sup class="PCOPYRIGHT">®</sup>, Clifton StrengthsFinder<sup class="PCOPYRIGHT">®</sup>, the 34 Clifton StrengthsFinder theme names, Customer Engagement Index<sup class="PCOPYRIGHT">™</sup>, Drop Club<sup class="PCOPYRIGHT">®</sup>, Emotional Economy<sup class="PCOPYRIGHT">™</sup>, Employee Engagement Index<sup class="PCOPYRIGHT">™</sup>, Employee Outlook Index<sup class="PCOPYRIGHT">™</sup>, Follow This Path<sup class="PCOPYRIGHT">™</sup>, Gallup Brain<sup class="PCOPYRIGHT">®</sup>, Gallup Consulting<sup class="PCOPYRIGHT">®</sup>, Gallup Management Journal<sup class="PCOPYRIGHT">®</sup>, GMJ<sup class="PCOPYRIGHT">®</sup>, Gallup Press<sup class="PCOPYRIGHT">®</sup>, Gallup Publishing<sup class="PCOPYRIGHT">™</sup>, Gallup Tuesday Briefing<sup class="PCOPYRIGHT">®</sup>, Gallup University<sup class="PCOPYRIGHT">®</sup>, HumanSigma<sup class="PCOPYRIGHT">®</sup>, I<sup>10</sup><sup class="PCOPYRIGHT">™</sup>, L<sup>3</sup><sup class="PCOPYRIGHT">™</sup>, PrincipalInsight<sup class="PCOPYRIGHT">™</sup>, Q<sup>12</sup><sup class="PCOPYRIGHT">®</sup>, SE<sup>25</sup><sup class="PCOPYRIGHT">™</sup>, SF<sup>34</sup><sup class="PCOPYRIGHT">®</sup>, SRI<sup class="PCOPYRIGHT">®</sup>, Strengths Spotlight<sup class="PCOPYRIGHT">™</sup>, Strengths-Based Selling<sup class="PCOPYRIGHT">™</sup>, StrengthsCoach<sup class="PCOPYRIGHT">™</sup>, StrengthsFinder<sup class="PCOPYRIGHT">®</sup>, StrengthsQuest<sup class="PCOPYRIGHT">™</sup>, TeacherInsight<sup class="PCOPYRIGHT">™</sup>, The Gallup Path<sup class="PCOPYRIGHT">®</sup>, and The Gallup Poll<sup class="PCOPYRIGHT">®</sup> are trademarks of Gallup, Inc. All other trademarks are the property of their respective owners. These materials are provided for noncommercial, personal use only. Reproduction prohibited without the express permission of Gallup, Inc.</span>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-
-
-
-<div class="footer screen">
-    <div class="main">
-        <div class="maintl">
-            <div class="maintr">
-                <div class="mainbl">
-                    <div class="mainbr">
-                        
-                        <div class="copyright">
-                            <span class="literal">Copyright © 2011 Gallup, Inc. All rights reserved.</span>
-                        </div>
-                        <div class="policies">                            
-                            
-                            <span><a class="hyperlink" id="Footer1_hyperlinkTerms" href="../925/Terms-Use.aspx" name="Footer1_hyperlinkTerms">Terms of Use</a> <span class="d">|</span> <a class="hyperlink" id="Footer1_hyperlinkPrivacy" href="../922/Privacy-Statement.aspx" name="Footer1_hyperlinkPrivacy">Privacy Statement</a>
-</span>
-                        </div>
-                        <div class="help">                            
-                            
-                            <span><span class="d">|</span> <a class="hyperlink" id="Footer1_hyperlinkHelp" href="/125432/Help.aspx" name="Footer1_hyperlinkHelp">Need Help?</a>
-</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="footer print">
-    <div class="main">
-        <div class="maintl">
-            <div class="maintr">
-                <div class="mainbl">
-                    <div class="mainbr">
-                        
-                        <span></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 
 
 <script type="text/javascript" src="/assets/js/stats.js"></script>
@@ -250,88 +365,35 @@
 <img src="/stats.gif?Referrer=Unknown&JavaEnabled=No&JavaScriptEnabled=No&CookiesEnabled=Unknown&ColorDepth=Unknown&ScreenResolution=Unknown&AvailableScreen=Unknown&DownloadRate=Unknown&RequestID=0" width="1" height="1" alt="" style="border:0px;display:none;" />
 </noscript>
 
-<script type="text/javascript">
-	/* jQuery textarea resizer plugin usage */
-	$(document).ready(function() {
-		$('textarea.resizable:not(.processed)').TextAreaResizer();
-	});
-</script>
 
-<!--[if lte IE 7]>
-<style type="text/css">
-    div.wrap {position:relative;}
-</style>
-<![endif]-->
-
-<script type="text/javascript"> 
-	$(document).ready(function() {
-		$('a[name=modal]').click(function(e) {
-			e.preventDefault();
-			
-			var id = $(this).attr('href');
-			
-			var maskH = $(window).height();
-			var maskW = $(window).width();
-			
-			$('#mask').css({'width':maskW, 'height':maskH});
-			$('#mask').fadeTo('slow',0.7);
-			
-			var winH = $(window).height();
-			var winW = $(window).width();
-			
-			$(id).css('top', winH/2-$(id).height()/2);
-			$(id).css('left', winW/2-$(id).width()/2);
-			
-			$(id).fadeIn(500);
-		});
-		
-		//if close button is clicked
-		$('.window .close').click(function (e) {
-			//Cancel the link behavior
-			e.preventDefault();
-			$('#mask, .window').hide();
-		});		
-		
-		//if mask is clicked
-		$('#mask').click(function () {
-			$(this).hide();
-			$('.window').hide();
-		});
-	});
-</script>
-
-<div>
-    <noscript>
-        <img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://wsdc.gallup.com/dcspiyoko5k8os3r2ovysvs80_5w8k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
-    </noscript>
-</div>
 
 <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	   var pageTracker = _gat._getTracker("UA-11021423-1");
-    pageTracker._initData();
-    pageTracker._trackPageview();
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-11021423-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+    	var ga = document.createElement('script');
+    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+    		'http://www') + '.google-analytics.com/ga.js';
+    	ga.setAttribute('async', 'true');
+    	document.documentElement.firstChild.appendChild(ga);
+    })();
 </script>
 
 
 <div id="boxes">
 <div id="dialog" class="window">
-    <img src="/assets/images/lightbox_portrait.png" class="fullpic" alt="Donald O. Clifton, Ph.D." title="Donald O. Clifton"> 
-    <a href="#" class="close"><img src="/assets/images/lightbox_close.png" alt="close" title="close"></a>
-    <div class="dialogText">
-       <h1>Donald O. Clifton, Ph.D. (1924-2003)</h1>
-       <h3>The Father of Strengths-Based Psychology and Creator of the Clifton StrengthsFinder<sup>®</sup></h3>
-       <p>The Clifton StrengthsFinder is the culmination of more than 50 years of Dr. Donald O. Clifton’s lifelong work: 
-leading millions of people around the world to discover their strengths. In 2002, Dr. Clifton was honored by an American
- Psychological Association Presidential Commendation as the Father of Strengths-Based Psychology.</p>
-     </div>
+    <span class="literal"><img src="/assets/images/lightbox_portrait.png" class="fullpic" alt="Donald O. Clifton, Ph.D." title="Donald O. Clifton"> <a href="#" class="close"></a>
+<div class="dialogText">
+<h1>Donald O. Clifton, Ph.D. (1924-2003)</h1>
+<h3>The Father of Strengths-Based Psychology and Creator of the Clifton StrengthsFinder<sup>®</sup></h3>
+<p>The Clifton StrengthsFinder is the culmination of more than 50 years of Dr. Donald O. Clifton's lifelong work: leading millions of people around the world to discover their strengths. In 2002, Dr. Clifton was honored by an American Psychological Association Presidential Commendation as the Father of Strengths-Based Psychology.</p>
+</div>
+</span>
 </div>
 </div>
 <div id="mask"></div>
+</form>
 
 
-
-</body></html>
+</div></body></html>
