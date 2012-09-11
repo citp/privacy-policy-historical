@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diysolarpanelsv.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423144838id_/http%3A//diysolarpanelsv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diysolarpanelsv.com privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911194726id_/http%3A//diysolarpanelsv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DIY Solar Panels
 
