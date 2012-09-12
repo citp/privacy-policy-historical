@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odinjobs.com privacy policy that was archived on 2012-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120208123405id_/http%3A//www.odinjobs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odinjobs.com privacy policy that was archived on 2012-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120912211832id_/http%3A//www.odinjobs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # OdinJobs - The Technology Job Search Engine
 
