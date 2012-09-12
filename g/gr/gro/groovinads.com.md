@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovinads.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626193744id_/http%3A//www.groovinads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovinads.com privacy policy that was archived on 2012-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120912040155id_/http%3A//www.groovinads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GroovinAds
 
@@ -15,7 +15,7 @@ GroovinAds doesn’t store personal information from the users our ads target. 
 
 **Cookies**  
 
-GroovinAds uses cookies to provide their customers with reports on the number of unique users that the saw the ads or visited their website. The use of cookies is an industry standard. A cookie is a file that is stored on your computer and is checked by the site or service that stored it there whenever the data is needed. Most browsers have an option to disable cookies. The information stored in the cookie GroovinAds uses is only an encrypted unique identifier. The cookie is set with an expiration date of 30 days. If you wish to disable cookies from GroovinAds, please visit the [opt-out](https://web.archive.org/en/optout) page. Remember you must have cookies enabled in your browser for the [opt-out](https://web.archive.org/optout) process to work. 
+GroovinAds uses cookies to provide their customers with reports on the number of unique users that the saw the ads or visited their website. The use of cookies is an industry standard. A cookie is a file that is stored on your computer and is checked by the site or service that stored it there whenever the data is needed. Most browsers have an option to disable cookies. The information stored in the cookie GroovinAds uses is only an encrypted unique identifier. The cookie is set with an expiration date of 30 days. If you wish to disable cookies from GroovinAds, please visit the [opt-out](http://www.groovinads.com/en/optout) page. Remember you must have cookies enabled in your browser for the [opt-out](http://www.groovinads.com/optout) process to work. 
 
 **Anonymous  **
 
