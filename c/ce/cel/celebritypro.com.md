@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritypro.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511134241id_/http%3A//www.celebritypro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritypro.com privacy policy that was archived on 2012-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120912025754id_/http%3A//www.celebritypro.com/privacy.htm) for the most accurate reproduction.*
 
 # Celebrity Pro
 
