@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfebook4u.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505080002id_/http%3A//www.pdfebook4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfebook4u.com privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913190809id_/http%3A//www.pdfebook4u.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PDFeBook4U.com
 
@@ -24,3 +24,5 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of PDFeBook4U then you may [contact us](http://www.pdfebook4u.com/contact/). 
+
+PDFEBOOK4U.COM is acquired by FilesAnt.com! You're redirecting to FilesAnt.com. Thanks for your supporting!
