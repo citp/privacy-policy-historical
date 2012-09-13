@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saiyanisland.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524144936id_/http%3A//www.saiyanisland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saiyanisland.com privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913083110id_/http%3A//www.saiyanisland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saiyan Island
 
