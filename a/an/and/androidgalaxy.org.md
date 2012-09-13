@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidgalaxy.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511023121id_/http%3A//www.androidgalaxy.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidgalaxy.org privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913120211id_/http%3A//www.androidgalaxy.org/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Android Galaxy - Android Apps, Android Games, Android Games Free
 
