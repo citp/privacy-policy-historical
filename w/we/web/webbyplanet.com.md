@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbyplanet.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515115238id_/http%3A//www.webbyplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyplanet.com privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913231955id_/http%3A//www.webbyplanet.com/privacy) for the most accurate reproduction.*
 
 # Discount Code, coupons online COUPON CODE. Webbyplanet
 
