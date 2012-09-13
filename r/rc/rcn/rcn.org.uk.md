@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630215254id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913021229id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - RCN
 
@@ -9,7 +9,7 @@ The Royal College of Nursing of the United Kingdom, RCN Publishing Company Ltd, 
   3. The RCN will only collect personal data that is relevant to the carrying out of the legitimate purposes and function of the RCN. 
   4. Members have the opportunity of opting out of marketing material from the RCN and of either opting into or out of (depending on the circumstances) receiving offers and other information from other organisations with whom the RCN have negotiated favourable member rates.  This may be done by using the provided tick box option.  These third party operated services may generate income, and other benefits, for the RCN in pursuit of our aims to improve the quality and delivery of services to Members. 
   5. Mobile telephone numbers are never passed onto third parties for marketing purposes. 
-  6. RCN web pages use cookies if the visiting User Agent is set to accept them. For more information on our use of cookies and how to opt out, visit [www.rcn.org.uk/cookies](https://www.rcn.org.uk/privacy/cookies)
+  6. RCN web pages use cookies if the visiting User Agent is set to accept them. For more information on our use of cookies and how to opt out, visit [www.rcn.org.uk/cookies](http://www.rcn.org.uk/privacy/cookies)
   7. We will strive to ensure that data collected is as accurate as possible. Individuals about whom data is held have the right to the amendment or deletion of incorrect entries within a reasonable time.
   8. Appropriate technical and organisational measures will be adopted to protect the security of all personal data held by RCN, including sensitive personal data.
   9. Information will be held in an environment as secure as possible.  RCN employees and representatives will be responsible for ensuring that all regular data care procedures are fully and conscientiously followed. 
