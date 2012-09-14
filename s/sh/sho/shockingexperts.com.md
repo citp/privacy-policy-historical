@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockingexperts.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510034834id_/http%3A//www.shockingexperts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockingexperts.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914030152id_/http%3A//www.theshockingexperts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ We will only disclose your personal information, without notice, if required to 
 
 (c) Act in urgent circumstances to protect the personal safety of users of ShockingExperts.com.
 
-Please also refer to our [about us](http://www.shockingexperts.com/about-us/ "About Us") and [disclaimer](http://www.shockingexperts.com/disclaimer/ "Disclaimer And Legal Policy") while navigating and making use of this website.
+Please also refer to our [about us](http://www.theshockingexperts.com/about-us/ "About Us") and [disclaimer](http://www.theshockingexperts.com/disclaimer/ "Disclaimer And Legal Policy") while navigating and making use of this website.
 
 **ShockingExperts.com**
 
