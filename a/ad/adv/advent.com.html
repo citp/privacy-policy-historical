@@ -1,25 +1,49 @@
-<!--The following is the downloaded HTML source of the advent.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503230913id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advent.com privacy policy that was archived on 2012-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120915015735id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctlHead"><link rel="icon" type="image/png" href="http://www.advent.com/favicon.ico">
+
     <script type="text/javascript" src="/Javascript/quickmenu.js"></script><style type="text/css">.qm-is{border-style:none;display:block;}</style>
+
     <script type="text/javascript" src="/Javascript/scripts.js"></script>
+
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+
     <script type="text/javascript" src="/Javascript/jquery.url.packed.js"></script>
+
     <script type="text/javascript" src="/Javascript/jquery.ceebox.js"></script>
+
     <script type="text/javascript" src="/Javascript/jquery.color.js"></script>
+
     <script type="text/javascript" src="/Javascript/jquery.easing.js"></script>
+
     <script type="text/javascript" src="/Javascript/jquery.metadata.js"></script>
+
     <script type="text/javascript" src="/Javascript/jquery.swfobject.1-1-1.min.js"></script>
+
     <script type="text/javascript" src="/Javascript/mbox.js"></script>
+
     <script type="text/javascript" src="/Javascript/autodemo.js"></script>
+
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+
     <script type="text/javascript" src="/Javascript/jquery.cycle.all.min.js"></script>
+
     <script type="text/javascript" src="/Javascript/fancyzoom.js"></script>
+
     <script type="text/javascript" src="/javascript/elq_tracking-1.0-min.js"></script>
 
-<!--[if lt IE 7]>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.js"></script>
+
+    <script type="text/javascript" src="/javascript/fancybox/jquery.fancybox.pack.js"></script>
+
+    <script type="text/javascript" src="/javascript/easyXDM/easyXDM.min.js"></script>
+
+    <link rel="stylesheet" href="/javascript/fancybox/jquery.fancybox.css?v=2.0.5" type="text/css" media="screen">
+    <script type="text/javascript" src="/Javascript/jquery.cookie.js"></script>
+    <!--[if lt IE 7]>
     <script src="/Javascript/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
 	<script>
 	    DD_belatedPNG.fix('.transPng');
@@ -57,6 +81,16 @@
                     break;
             }
 
+            $(function() {
+                $(".imgSwapPngOver").hover(
+		            function() { $(this).attr("src", $(this).attr("src").replace("-resting.png", "-over.png")); },
+		            function() {
+		                if (!$(this).parent().hasClass("current")) {
+		                    $(this).attr("src", $(this).attr("src").replace("-over.png", "-resting.png"));
+		                }
+		            });
+            });
+
             //* CeeBox (lightbox) */
             $.fn.ceebox.videos.base.param.allowScriptAccess = "sameDomain" //added to kill the permissions problem
             $(".ceebox").ceebox({ borderColor: '#dcdcdc', boxColor: "#fff" });
@@ -75,11 +109,13 @@
                 $(this).parent().next().hide();
             });
 
+            /*
             $("div.client-video").mouseenter(function() {
-                $(this).parent().next().show();
+            $(this).parent().next().show();
             }).mouseleave(function() {
-                $(this).parent().next().hide();
+            $(this).parent().next().hide();
             });
+            */
 
             $(".page_tools_item").hover(function() {
                 var _class = $(this).attr('class').split(" ").slice(-1);
@@ -177,8 +213,71 @@
 		            $(this).attr("src", $(this).attr("src").replace("morevideosbuttonlite.gif", "morevideosbuttondark.gif"));
 		        }
 	            );
-		    });
-        });
+            });
+
+            // Popup Forms
+            var socket;
+
+            $(".popup-form").fancybox({
+                fitToView: false,
+                autoSize: true,
+                closeClick: false,
+                openEffect: 'none',
+                closeEffect: 'none',
+                width: 500,
+                type: 'inline',
+                href: '#popup-form-container',
+                beforeLoad: function() {
+                    socket = new easyXDM.Socket({
+                        remote: this.element.href,
+                        container: document.getElementById("container"),
+                        onMessage: function(message, origin) {
+                            if (message.indexOf('http') > -1) {
+                                $.fancybox.close(true);
+                                if (message.indexOf('collateral/demos') > -1) {
+                                    $(".barousel_image a").removeClass("popup-form").addClass("fancyBox");
+                                    $.fancybox.open([{
+                                        'href': message,
+                                        'type': 'iframe',
+                                        'autoSize': false,
+                                        'fitToView': false,
+                                        'closeClick': false,
+                                        'width': 890,
+                                        'height': 643,
+                                        'padding': 5
+}]);
+                                    }
+                                    else {
+                                        window.location = message;
+                                    }
+                                }
+                                else {
+                                    $('.fancybox-wrap').height(message);
+                                    $('.fancybox-outer').height(message);
+                                    $('.fancybox-inner').height(message);
+                                    $('#popup-form-container').height(message);
+                                    $('#container').height(message);
+                                    $('#container iframe:first-child').height(message);
+                                    $.fancybox.update();
+                                    $.fancybox.reposition()
+
+                                }
+                            },
+                            onReady: function() {
+                                $('#container iframe:first-child').width(500);
+                            }
+                        });
+                    },
+                    afterClose: function() {
+                        socket.destroy();
+                    },
+                    helpers: {
+                        overlay: {
+                            closeClick: false
+                        }
+                    }
+                });
+            });
     </script>
 
     <script type="text/javascript">
@@ -191,11 +290,15 @@
             });
         });
     </script>
+
     <script type="text/javascript">
         var Advent = Advent || {};
         Advent.elqTracker = new jQuery.elq('2383');    
     </script>
-    <link href="/App_Themes/Default/blueprint.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/ceebox.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/fancyzoom.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/StyleSheet.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/ui.dropdownchecklist.css" type="text/css" rel="stylesheet"><meta name="description"><meta name="keywords"><title>
+
+    
+    
+<link href="/App_Themes/Default/blueprint.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/ceebox.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/fancyzoom.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/StyleSheet.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/ui.dropdownchecklist.css" type="text/css" rel="stylesheet"><meta name="description"><meta name="keywords"><title>
 	Email Publication and Website Privacy Policy
 </title></head>
 <body>
@@ -204,7 +307,7 @@
     
     
     <form name="aspnetForm" method="post" action="/about/website_policy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhjZWY3NWUzNzAyM2ViMBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUWY3RsMDAkaW1nYnRuU2l0ZVNlYXJjaPjz0LZdovrEgQXS/UWRHZVvrN7P">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhjZjYwYzFlZjk4YWJmNhgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUWY3RsMDAkaW1nYnRuU2l0ZVNlYXJjaF04kKqRdpLdjt42cvu71Hqv+g89">
 
 
 <script src="/ScriptResource.axd?d=2NEh-pgF9d_3WBh4n8367CNQjYGunSMZ2GHxJxirVSshSQ_Mgxl1kl5Y-d7hFGNFYmDuyJ5lBf85ZjwmzcuoBDjQ5-tD6rK0pw2iZcCVMmdp91WpFA9oHSmXaDNR_ZXdYB1hscg0v8xFUAnxMP4TJKipdot3YkX4EQ-s1hBo5EOugJdX0&amp;t=ffffffffd0c8a43c" type="text/javascript"></script>
@@ -220,7 +323,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     <div class="header_nav_wrapper">
         <div class="header_nav">
             <div class="navHotLinks">
-                <span class="hlConnection"><a href="/connection">
+                <span class="hlSocial"><a href="/social">
+                    <img name="imgAdventSocial" src="/images/advent-social.gif" onmouseover="document.imgAdventSocial.src='/images/advent-social-over.gif'" onmouseout="document.imgAdventSocial.src='/images/advent-social.gif'" alt="">
+                </a></span><span class="hlConnection"><a href="/connection">
                     <img name="imgAdventConnection" src="/images/advent-connection.gif" onmouseover="document.imgAdventConnection.src='/images/advent-connection-over.gif'" onmouseout="document.imgAdventConnection.src='/images/advent-connection.gif'" alt="">
                 </a></span><span class="hlEvents"><a href="/about/events">
                     <img name="imgAdventEvents" src="/images/advent-events.gif" onmouseover="document.imgAdventEvents.src='/images/advent-events-over.gif'" onmouseout="document.imgAdventEvents.src='/images/advent-events.gif'" alt="">
@@ -347,6 +452,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <table>
                 <tbody><tr>
                     <td id="ctl00_navCell" class="navCell">
+                        <div id="socialBar">
+                            <a href="http://www.linkedin.com/groups?gid=2618490"><div id="socialBar_linkedIn"></div></a>
+                            <a href="http://www.twitter.com/adventsoftware"><div id="socialBar_twitter"></div></a>
+                            <a href="http://www.facebook.com/pages/San-Francisco-CA/Advent-Software/251414225401"><div id="socialBar_facebook"></div></a>
+                            <a href="http://www.youtube.com/user/adventsoftware"><div id="socialBar_youtube"></div></a>
+                            <a href="https://plus.google.com/101219917596654818305#101219917596654818305/posts"><div id="socialBar_googleplus"></div></a>
+                            <a href="http://blogs.advent.com"><div id="socialBar_blogs"></div></a>
+                        </div>
                         <div id="ctl00_ctlLeftNav_pnlLeftNav" class="pnlLeftNav">
 	
     <table id="ctl00_ctlLeftNav_tblMenu" cellspacing="0" cellpadding="0" class="tblLeftMenu" border="0">
@@ -511,7 +624,18 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <p><strong>Terms of Use:</strong> Click <a href="/about/terms_of_use">here</a> for Advent Software, Inc.'s Terms of Use regarding the <a href="http://www.advent.com/">http://www.advent.com/</a> website.</p>
 <p><strong>Internet users:</strong> Advent records and stores information provided by users when browsing our website. Advent Software, Inc. uses cookie technology to assist in making decisions about changes to our website on an ongoing basis. Cookies help us determine, without collecting personal information, which information on our websites appeals to our consumers by tracking which of our Web pages are visited and what features are most often used. You may refuse cookies by turning off that feature on your Web browser, but we do not recommend doing so.&nbsp;&nbsp;Advent also uses technology, such as web beacons, to track the navigation paths used by visitors to our website and transmits that information to third-party service providers who assist Advent in improving the relevance of the information that we display to our visitors when they seek additional detail about a product or service.&nbsp; This technology does not collect non-public personal information.&nbsp; You are under no obligation to have your browsing paths tracked and may opt out by using a different method to obtain the information you are looking for: contacting your sales representative, relationship manager, or our direct response group.</p>
 <p><strong>Links:</strong> Advent Software, Inc.'s Web site may contain "links" to other Web sites. We recommend that you check the specific privacy policy of any site before providing any personal information.</p>
-<p><strong>Changes to this Website Privacy Policy:</strong> Any changes to Advent Software, Inc.'s website privacy policy will be posted in this section.<br><br><strong>Adherence to Safe Harbor (data transfers from the European Union and Switzerland to the United States of America)</strong><br>Advent Software confirms that it adheres to the Safe Harbor privacy framework when handling personal information that is transferred from member states of the European Union to locations in the United States of America.<br><br>The European Commission and the US Department of Commerce have agreed to a data protection framework called the “Safe Harbor” that consists of a set of privacy principle documents and related FAQs. These documents describe how organizations that receive personal data from the European Union should provide information about purpose of collection (Notice), participation (Choice), Onward Transfer, Security, Data Integrity, Access, and Enforcement. A discussion of these data handling issues can be found at the Commerce Department’s Safe Harbor website <a href="http://export.gov/safeharbor/eg_main_018236.asp">http://export.gov/safeharbor/eg_main_018236.asp</a> and a comprehensive Safe Harbor document set is currently at <a href="http://export.gov/safeharbor/eg_main_018237.asp">http://export.gov/safeharbor/eg_main_018237.asp</a>.&nbsp;&nbsp; Advent’s adherence to the Safe Harbor principles also extends to the handling of personal information that is received from Switzerland.&nbsp;A description of the Swiss program can be found at <a href="http://export.gov/safeharbor/swiss/index.asp">http://export.gov/safeharbor/swiss/index.asp</a> and a comprehensive document set at <a href="http://export.gov/safeharbor/swiss/eg_main_018532.asp">http://export.gov/safeharbor/swiss/eg_main_018532.asp</a>.<br><br>Communications relating to Advent Software’s Safe Harbor data privacy program can be sent to the company’s Safe Harbor compliance administrator or to the company’s legal department.<br><br><strong>Corporate Privacy Policy:</strong> Copies of Advent’s corporate Privacy Policy are available upon request:&nbsp; please contact the Safe Harbor compliance administrator.<br><br><strong>Contacts:</strong>&nbsp; Safe Harbor compliance administrator:&nbsp; Richard Pugh&nbsp; (415) 645-1025 <a href="mailto:rpugh@advent.com">rpugh@advent.com</a> <br>Advent Software legal department: <a href="mailto:legal@advent.com">legal@advent.com</a><br></p></span>
+<p><strong>Changes to this Website Privacy Policy:</strong> Any changes to Advent Software, Inc.'s website privacy policy will be posted in this section.<br>
+<br>
+<strong>Safe Harbor Compliance (data transfers from the European Union and Switzerland to the United States of America): </strong>&nbsp;Advent Software complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Advent Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Advent Software’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a><br>
+<br>
+The U.S. Department of Commerce and the European Commission have agreed to a data protection framework called the “U.S.-EU Safe Harbor Framework” that consists of a set of privacy principle documents and related FAQs. The U.S. Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed to a similar data protection framework called the “U.S.-Swiss Safe Harbor Framework”. The Safe Harbor Frameworks describe how organizations that receive personal data from the European Union and Switzerland should provide information about purpose of collection (Notice), participation (Choice), Onward Transfer, Security, Data Integrity, Access, and Enforcement. A discussion of these data handling issues can be found at the Commerce Department’s Safe Harbor website at <a href="http://export.gov/safeharbor/">http://export.gov/safeharbor</a> and the Safe Harbor Privacy Principles and FAQs of the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework are currently are available in full at <a href="http://export.gov/safeharbor/eg_main_018237.asp">http://export.gov/safeharbor/eg_main_018237.asp</a><br>
+<br>
+Communications relating to Advent Software’s Safe Harbor data privacy program, and inquiries concerning the recourse mechanism for unresolved Safe Harbor complaints, can be sent to the company’s Safe Harbor compliance administrator or to the company’s legal department..<br>
+<br>
+<strong>Corporate Privacy Policy:</strong> Copies of Advent’s corporate Privacy Policy are available upon request:&nbsp; please contact the Safe Harbor compliance administrator.<br>
+<br>
+<strong>Contacts:</strong>&nbsp; Safe Harbor compliance administrator:&nbsp; Richard Pugh&nbsp; (415) 645-1025 <a href="mailto:rpugh@advent.com">rpugh@advent.com</a> <br>
+Advent Software legal department: <a href="mailto:legal@advent.com">legal@advent.com</a></p></span>
     
 <table class="wrapper" border="0" cellspacing="0" cellpadding="0"> 
     <tbody><tr>
@@ -578,7 +702,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 privacy policy</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/trademark_notice ">
                                     trademarks</a></span><span class="footerItem"><a class="footerItemLink" href="http://www.advent.com/about/community-involvement/supply-chain-responsibility">ctsa</a></span>
             <span class="footerItem"><a class="footerItemLink" href="/about/site_map">site map</a></span>
-            <span style="text-align: right; margin-left: 150px;"><span><a href="http://www.facebook.com/pages/San-Francisco-CA/Advent-Software/251414225401">
+            <span style="display:none;text-align: right; margin-left: 150px;"><span><a href="http://www.facebook.com/pages/San-Francisco-CA/Advent-Software/251414225401">
                 <img src="http://www.advent.com/Images/facebook_icon.gif" id="ctl00_Img2"></a></span>
                 <span><a href="http://www.twitter.com/adventsoftware">
                     <img src="http://www.advent.com/Images/twitter_icon.gif" id="ctl00_Img3"></a></span>
@@ -591,6 +715,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             Francisco, CA 94103&nbsp;&nbsp;US: +1 800 727 0605&nbsp;&nbsp;London: +44 20 7631
             9240</div>
     </div>
+    <!-- Popup Form Container -->
+    <div id="popup-form-container" style="display: none;">
+        <div id="container" style="width: 500px; background-color: #fff">
+        </div>
+    </div>
+    <a id="demoLink"></a>
     
 
 <script type="text/javascript">
