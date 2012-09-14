@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the mettl.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510184913id_/http%3A//www.mettl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mettl.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915005427id_/http%3A//www.mettl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mettl.com
+
+At Mettl, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice as regards use of your Personal Information is as set forth below in this Privacy Policy Statement. As a condition to use of Mettl Services, you consent to the terms of the Privacy Policy Statement as it may be updated from time to time. In the event of a material change, we shall notify you via email or by means of a prominent notice on the website. This Privacy Policy Statement applies exclusively to www.mettl.com.
+
+This Privacy Statement explains what information Induslynk Training Services Private Limited ("Induslynk” or “Mettl” or “Mettl.com” or we), owners of the domain www.mettl.com collects on http://www.mettl.com and internet tools accessible from this web site ("Web Site"), how Mettl uses that information, your choices and this Web Site’s other privacy practices. This Privacy Statement only covers information collected at this Web Site, and does not cover any information collected at any other web site or offline by Mettl, our affiliates or any other company (unless specifically stated). Please read this Privacy Statement carefully.
+
+## INFORMATION COLLECTED
 
 We collect two kinds of information from you: non-personal information and personal information.
 
