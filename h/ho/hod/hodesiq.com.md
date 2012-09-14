@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hodesiq.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526115806id_/http%3A//hodesiq.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodesiq.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915004122id_/http%3A//hodesiq.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Hodes iQ - Hodes iQ - Global Leader in Talent Management Solutions
 
