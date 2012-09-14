@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hrmantra.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007101655id_/http%3A//hrmantra.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrmantra.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915001955id_/http%3A//hrmantra.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# :: Software India, HR Payroll Software India ::
+# HR Software Solutions India, SaaS Service Provider India.
 
-HRMantra respects the confidentiality of anyone who uses this HRMantra Web site [www.HRMantra.com](https://web.archive.org/web/20111007101655id_/http%3A//hrmantra.com/Default.aspx) and HRMantra online applications. 
+HRMantra respects the confidentiality of anyone who uses this HRMantra Web site [www.HRMantra.com](https://web.archive.org/web/20120915001955id_/http%3A//hrmantra.com/Default.aspx) and HRMantra online applications. 
 
 HRMantra provides its service to you subject to the HRMantra software and services terms of service and this Privacy Policy, which shall be considered a part of the Terms of Service. We reserve the right to change this Privacy Policy anytime. We gather  important information from our customers and visitors. We publish this Privacy Policy to communicate how we gather and use information about our customers & visitors, how we protect it, and how you can participate in its protection. 
 
@@ -31,4 +31,4 @@ HRMantra offers you a means to choose how we may use information you provided. I
 **Your Information To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a HRMantra Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing info@HRMantra.com or by calling us. 
 
 **Additional Information**   
-Any Questions regarding this Privacy Policy or the security practices of the Services should be directed to HRMantra's Security Administrator by e-mailing  [ info@HRMantra.com](mailto:info@HRMantra.com). 
+Any Questions regarding this Privacy Policy or the security practices of the Services should be directed to HRMantra's Security Administrator by e-mailing  [info@HRMantra.com](mailto:info@HRMantra.com). 
