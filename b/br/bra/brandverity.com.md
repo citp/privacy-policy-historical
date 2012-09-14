@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandverity.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510061452id_/https%3A//www.brandverity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandverity.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915012126id_/https%3A//www.brandverity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrandVerity
 
