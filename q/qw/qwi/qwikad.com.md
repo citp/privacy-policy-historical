@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwikad.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504010655id_/http%3A//qwikad.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwikad.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915002450id_/http%3A//qwikad.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # qwikad.com - free classifieds
 
@@ -16,4 +16,4 @@ Session cookies are stored in temporary memory and usually are not retained afte
 
 Questions? Comments? Send your email to: [contact@qwikad.com](mailto:contact@qwikad.com)
 
-Updated on 04/26/12 08:34 
+Updated on 07/13/12 06:14 
