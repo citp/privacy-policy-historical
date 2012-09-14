@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejapaneseshop.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000125id_/http%3A//thejapaneseshop.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejapaneseshop.co.uk privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915014424id_/http%3A//www.thejapaneseshop.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Japanese Gift Ideas | Privacy Policy from The Japanese Shop
 
@@ -22,7 +22,7 @@ We may collect information about your computer, including where available your I
 
 We use cookies to keep track of your information during the time you view the Website. We also use them to recognise return visitors and to track our promotions and projects. We gather this information for internal use only and will never authorise the release of this information with anyone outside of The Japanese Shop.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.  However, if you select this setting you may be unable to access certain parts of the Website.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on The Japanese Shop website. However, if you would like to, you can change your cookie settings at any time. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.  However, if you select this setting you may be unable to access certain parts of the Website.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
 ## Who do we share your information with?
 
