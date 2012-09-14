@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629051225id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914235855id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Typically Spanish
 
