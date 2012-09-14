@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamuniversity.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000208id_/http%3A//dreamuniversity.com/million-dreams-campaign/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamuniversity.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914232436id_/http%3A//dreamuniversity.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | | Dream University
 
