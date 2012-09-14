@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adconductor.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501230220id_/http%3A//www.adconductor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adconductor.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915001233id_/http%3A//www.adconductor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -30,9 +30,9 @@ We do not link the information we store in cookies to any personally identifiabl
 
 This confirms that Burst Media is a licensee of the TRUSTe Privacy Program. Burst Media also complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Burst Media has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Burst Media's certification, please visit <http://export.gov/safeharbor/>.
 
-For Burst Publishers the privacy statement discloses the privacy practices for [www.burstmedia.com and ](https://web.archive.org/web/20120501230220id_/http%3A//www.adconductor.com/pages/www.burstmedia.com)[www.burstnet.com](https://web.archive.org/web/20120501230220id_/http%3A//www.adconductor.com/pages/www.burstnet.com).
+For Burst Publishers the privacy statement discloses the privacy practices for [www.burstmedia.com and ](https://web.archive.org/web/20120915001233id_/http%3A//www.adconductor.com/pages/www.burstmedia.com)[www.burstnet.com](https://web.archive.org/web/20120915001233id_/http%3A//www.adconductor.com/pages/www.burstnet.com).
 
-For AdConductor Customers this privacy statement discloses the privacy practices for [www.adconductor.com](https://web.archive.org/web/20120501230220id_/http%3A//www.adconductor.com/pages/www.adconductor.com) and ads.adconductor.com.
+For AdConductor Customers this privacy statement discloses the privacy practices for [www.adconductor.com](https://web.archive.org/web/20120915001233id_/http%3A//www.adconductor.com/pages/www.adconductor.com) and ads.adconductor.com.
 
 Burst Media has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@burstmedia.com](mailto:privacy@burstmedia.com). If you are not satisfied with our response you can contact [TRUSTe by clicking here](http://watchdog.truste.com/pvr.php?page=complaint).
 
