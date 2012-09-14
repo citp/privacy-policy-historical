@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618101113id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915003134id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | giffgaff.com
 
@@ -161,7 +161,7 @@ ii. We can supply certain types of personal information on request: including bu
 
 Our address is:
 
-Data Controller,giffgaff, Wellington Street, Slough, Berkshire, SL1 1YP, UK.
+Data Controller,giffgaff, 260 Bath Road, Slough, Berkshire, SL1 4DX, UK.
 
 [Top]
 
