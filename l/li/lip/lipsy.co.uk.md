@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606052222id_/http%3A//www.lipsy.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915002548id_/http%3A//www.lipsy.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Lipsy - Privacy Policy
 
@@ -74,7 +74,7 @@ To withdraw your consent, or if you want to be notified each time a cookie is ab
 It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be severely impaired and many integral aspects of the site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.
 
 **Our use of advertisement tracking  
-**From time to time, we also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
+**From time to time, we also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use three companies for this and you can see their privacy policies at the following addresses:
 
   * eSearchVision: <http://www.google.com/policies/privacy/>
   * Struq: <http://www.struq.com/privacy_policy.php>
