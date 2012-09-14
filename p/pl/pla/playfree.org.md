@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playfree.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616165623id_/http%3A//www.playfree.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfree.org privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915011759id_/http%3A//www.playfree.org/en/privacy-policy) for the most accurate reproduction.*
 
-# Play Free Privacy Policy
+# Privacy Policy | PlayFree Browser - new web browser with free casual games inside | PlayFree.org
 
 **The Privacy Policy will address the following points:**   
 \- What information, if any, is collected as a result of your visit?   
@@ -25,7 +25,7 @@ Additionally, if the user chooses to submit such information, we may collect Per
 **Cookies**  
 A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
 
-We use third-party advertising companies to serve ads when you visit our website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+We use third-party advertising companies to serve ads when you visit our website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 **Sharing of Information**  
 Other than for the limited circumstances below, none of the information detailed above is disseminated, shared, sold, or provided to a third party. We may share PII and other data with other companies or entities in the following limited circumstances 
@@ -56,6 +56,5 @@ PlayFree.org
 901 N. Pitt St.  
 Suite 325  
 Alexandria, VA 22314, USA  
-[Contact Us](https://web.archive.org/support)
-
+[Contact Us](http://www.playfree.org/en/support/)   
 All trademarks are the property of their respective owners. All Rights Reserved. 
