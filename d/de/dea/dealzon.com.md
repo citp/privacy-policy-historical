@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the dealzon.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072815id_/http%3A//dealzon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealzon.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914224522id_/http%3A//dealzon.com/privacy) for the most accurate reproduction.*
 
 # Dealzon Privacy Policy
+
+Don't miss the best deals!
+
+Get our members-only deal newsletter - Free Signup
+
+We hunt for the best tech deals every day, for you!
+
+  
+
 
 Loading....
 
