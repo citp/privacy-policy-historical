@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617203757id_/http%3A//500friends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914231750id_/http%3A//500friends.com/privacy) for the most accurate reproduction.*
 
 # 500friends - Privacy
 
