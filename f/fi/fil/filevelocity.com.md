@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filevelocity.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529111527id_/http%3A//filevelocity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filevelocity.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915001058id_/http%3A//filevelocity.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - FileVelocity
 
@@ -52,4 +52,4 @@ At your request, we will inform you of what PII we have on file for you. In addi
 
 FileVelocity reserves the right to change or update this Privacy Policy at any time by posting a notice on the Website that we are changing our Privacy Policy. If the manner in which we use PII changes, FileVelocity will notify users by: (a) sending the modified policy to our users via e-mail; and/or (b) by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not we use your PII in this different manner. At any time that you do not agree with the changes, you must opt out using the "Opt-Out/Unsubscribe" section above. Failure to opt out after notice of any such changes constitutes an affirmative acknowledgement and acceptance by you of the modified Privacy Policy.
 
-If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please [Contact Us.](https://web.archive.org/web/20120529111527id_/http%3A//filevelocity.com/contact.html)
+If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please [Contact Us.](https://web.archive.org/web/20120915001058id_/http%3A//filevelocity.com/contact.html)
