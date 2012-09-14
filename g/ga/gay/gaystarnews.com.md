@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaystarnews.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510074549id_/http%3A//www.gaystarnews.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaystarnews.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914232544id_/http%3A//www.gaystarnews.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gay Star News
 
@@ -21,9 +21,9 @@ Cookies are small text files that are placed on your computer by websites that y
 
 Some of the cookies we use are essential for parts of our sites to operate and have already been set. You may delete and block all cookies from our sites, but parts of the sites will not work.
 
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org").
 
-To opt out of being tracked by Google Analytics across all websites visit http://tools.google.com/dlpage/gaoptout.
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
 Search engine
 
