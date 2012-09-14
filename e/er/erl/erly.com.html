@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the erly.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504000415id_/http%3A//erly.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the erly.com privacy policy that was archived on 2012-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120915002358id_/http%3A//erly.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><title>Privacy Policy</title><link rel="stylesheet" href="/compressed/base.min.css?_=1334735663" type="text/css" media="screen, projection"><link rel="stylesheet" href="/compressed/base2.min.css?_=1334735663" type="text/css" media="screen, projection"><link rel="stylesheet" href="/compressed/base3.min.css?_=1334735663" type="text/css" media="screen, projection"><link rel="stylesheet" href="/compressed/print.min.css?_=1334735663" type="text/css" media="print"><link rel="SHORTCUT ICON" href="/favicon.ico"><!--[if lt IE 8]>
-<link rel="stylesheet" href="/compressed/ie.min.css?_=1334735663" type="text/css" media="screen, projection"/><![endif]-->
+<!DOCTYPE html><html><head><title>Privacy Policy</title><link rel="stylesheet" href="/compressed/base.min.css?_=1346976859" type="text/css" media="screen, projection"><link rel="stylesheet" href="/compressed/base2.min.css?_=1346976860" type="text/css" media="screen, projection"><link rel="stylesheet" href="/compressed/base3.min.css?_=1346976860" type="text/css" media="screen, projection"><link rel="stylesheet" href="/compressed/print.min.css?_=1346976860" type="text/css" media="print"><link rel="SHORTCUT ICON" href="/favicon.ico"><!--[if lt IE 8]>
+<link rel="stylesheet" href="/compressed/ie.min.css?_=1346976860" type="text/css" media="screen, projection"/><![endif]-->
 <!--[if !IE 7]>
 <style type="text/css">#wrap {display:table;height:100%}</style><![endif]-->
 <meta name="robots" content="noodp,noydir"><meta name="keywords" content="erly, collections"><meta name="description" content="Erly is a new social platform for organizing and sharing your personal content."><meta name="viewport" content="width=1020"><meta name="apple-mobile-web-app-capable" content="yes"><script type="text/javascript">if (typeof erly === "undefined") { erly = {}; }
@@ -11,17 +11,17 @@ erly.PUB_URL = "";
 erly.FACEBOOK_PERMS = "email,offline_access,user_photos,friends_photos";
 erly.FLICKR_CLIENT_APP_ID = '80e4320322ff5ffcea3b6f0ba645d36c';
 erly.maintenanceMode = false;
-erly.REV = "23192b9";
-erly.now = new Date(1336089856292);
+erly.REV = "07f6210";
+erly.now = new Date(1347668638569);
 
-</script><script src="/compressed/base.min.js?_=1334735663" type="text/javascript"></script><script type="text/javascript">erly.domInit();
+</script><script src="/compressed/base.min.js?_=1346976859" type="text/javascript"></script><script type="text/javascript">erly.domInit();
 
 </script><script type="text/javascript">(function(e,n){n=function(){};e.profiling={mark:n,reset:n};}(window.erly));
 
 </script><script type="text/javascript">var _gaq = _gaq || [];
 _gaq.push(['_setAccount', "UA-24711630-1"]);
 _gaq.push(['_trackPageview']);
-erly.tokenize({"signature":"bfe592455e8153d58787fe7ad6f61785","random":"2849ab3113c27208fb266043fd6ee9a7e47085a9a76d5cc28c4d7989c74e95e2","timestamp":1336089856288});
+erly.tokenize({"signature":"ea3e602707257ca3772c540d88de4eab","random":"f5066d229d8479141a3b87e3b411c35d523350ee2bb9b59f60f81b9991000e9a","timestamp":1347668638563});
 erly.activity.setupHeader();
 (function() {
   var ga = document.createElement('script');
@@ -142,8 +142,14 @@ jsEnabled();
 <img src="http://graph.facebook.com/${facebookId}/picture?type=${type}" alt="profile photo" onerror="erly.avatarLoadFail(window.event || event)" class="fb-avatar">{{else}}
 <img src="http://graph.facebook.com/${facebookId}/picture" alt="profile photo" onerror="erly.avatarLoadFail(window.event || event)" class="fb-avatar">{{/if}}
 {{elif ident}}
-<img src="${erly.BASE_URL}/session/${ident}/picture" width="40" height="40" alt="photo" class="avatar">{{elif id}}
-<img src="${erly.BASE_URL}/session/u/${id}/picture" width="40" height="40" alt="photo" onerror="erly.avatarLoadFail(window.event || event)" class="avatar">{{else}}
+{{if erly.viewer.exported}}
+<img src="avatars/${ident}" width="40" height="40" alt="photo" class="avatar">{{else}}
+<img src="${erly.BASE_URL}/session/${ident}/picture" width="40" height="40" alt="photo" class="avatar">{{/if}}
+{{elif id}}
+{{if erly.viewer.exported}}
+<img src="avatars/${id}" width="40" height="40" alt="photo" onerror="erly.avatarLoadFail(window.event || event)" class="avatar">{{else}}
+<img src="${erly.BASE_URL}/session/u/${id}/picture" width="40" height="40" alt="photo" onerror="erly.avatarLoadFail(window.event || event)" class="avatar">{{/if}}
+{{else}}
 <img src="${erly.PUB_URL}/img/face-bg-large.png" alt="photo" onerror="erly.avatarLoadFail(window.event || event)" class="avatar">{{/if}}
 </script><script id="tmplLoginHeader" type="text/x-jquery-tmpljavascript">
   {{if !authenticated }}
@@ -423,7 +429,9 @@ jsEnabled();
   {{wrap({title: title, extraClasses:$data.extraClasses}) "#tmplBaseConfirmModal"}}
   <div class="content">${question}</div>
   <div class="buttons">
+    {{if !$data.hideCancel}}
     <button class="cancel">{{if $data.cancelText}}${cancelText}{{else}}Cancel{{/if}}</button>
+    {{/if}}
     <button class="confirm-button">${confirmText}</button>
   {{/wrap}}
 </script>
@@ -478,4 +486,4 @@ jsEnabled();
 </script><div class="login-loader"><div class="content"><img src="/img/ajax-loader-gray.gif" alt="ajax loader"><br>Please wait while we prepare your account...
 </div></div></div>
 
-</body><!-- 23192b9 --></html>
+</body><!-- 07f6210 --></html>
