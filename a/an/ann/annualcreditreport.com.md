@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annualcreditreport.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007232343id_/https%3A//www.annualcreditreport.com/cra/helpprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annualcreditreport.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914221642id_/https%3A//www.annualcreditreport.com/cra/helpprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,7 +118,7 @@ You can decide if and how your computer will accept a cookie by establishing you
 
 ### Children's Privacy
 
-The Central Source website where personally identifiable information in conjunction with requests for free credit reports is collected is not intended for use by children under 13 years of age. Central Source complies with The Children's Online Privacy Protection Act and does not knowingly solicit or collect information from children under 13 years of age. For legal and security reasons additional information will be collected to authenticate the validity of requests for free credit reports for children under 13 years of age. For this reason such requests must be made through the mail. Please refer to the FAQ [How do I request a credit report by mail for a child under 13 years of age?](https://web.archive.org/web/20111007232343id_/https%3A//www.annualcreditreport.com/cra/helpfaq#reqchild)
+The Central Source website where personally identifiable information in conjunction with requests for free credit reports is collected is not intended for use by children under 13 years of age. Central Source complies with The Children's Online Privacy Protection Act and does not knowingly solicit or collect information from children under 13 years of age. For legal and security reasons additional information will be collected to authenticate the validity of requests for free credit reports for children under 13 years of age. For this reason such requests must be made through the mail. Please refer to the FAQ [How do I request a credit report by mail for a child under 13 years of age?](https://web.archive.org/web/20120914221642id_/https%3A//www.annualcreditreport.com/cra/helpfaq#reqchild)
 
 ### Non-Applicability of Privacy Policy to Commercial Use
 
@@ -135,4 +135,4 @@ If you have questions or comments about Central Source's online privacy policy a
 Last Updated November 15, 2006
 
   
-© 2011 Central Source LLC 
+© 2012 Central Source LLC 
