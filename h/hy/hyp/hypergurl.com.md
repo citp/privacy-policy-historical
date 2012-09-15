@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypergurl.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501235313id_/http%3A//www.hypergurl.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypergurl.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915043420id_/http%3A//www.hypergurl.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Hypergurl
 
