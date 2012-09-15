@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sabre.com privacy policy that was archived on 2012-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614065408id_/http%3A//www.sabre.com/home/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sabre.com privacy policy that was archived on 2012-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120915050237id_/http%3A//www.sabre.com/home/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,8 +10,10 @@
 
 
 <link rel="stylesheet" href="/css/styles_sabre.css">
-<link rel="stylesheet" href="http://www.sabre.com/prettyPhoto.css">
-<link rel="stylesheet" href="http://www.sabre.com/css/coda-slider-2.0.css">
+<link rel="stylesheet" href="/css/coda-slider-2.0.css">
+<link rel="stylesheet" href="/css/prettyPhoto.css">
+
+
 
 <!--[if lt IE 7]>
 	<link rel="stylesheet" href="/ie6.css" />
@@ -81,10 +83,6 @@
 
                     <li><a href="/home/newsroom">Newsroom</a>
 <ul>
-	
-						
-			<li><a href="/home/newsroom/sabre_virtual_meetings/">Sabre Virtual Meetings</a></li>
-			
 	
 						
 			<li><a href="/home/newsroom/media_relations_contacts/">Media Relations Contacts</a></li>
@@ -229,6 +227,7 @@ $("#nav ul ul").hide();
 	$("#nav li").mouseout(function() {
 		$(this).children("ul:first").hide();
 	});
+if($('.home_main').length > 0){
         $('.home_main').codaSlider({
 			autoSlide: true,
 			autoSlideInterval: 6000,
@@ -236,9 +235,10 @@ $("#nav ul ul").hide();
 			slideEaseDuration: 1700,
 			dynamicArrows: false
 		});
-
+}
+if($('.recent_news_item').length > 0){
 		$('.recent_news_item').codaSlider();
-		
+}		
 		
     });
     </script>
