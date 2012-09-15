@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222214id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915041254id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy for CPASiteSolutions Websites for CPAs and Accountants
 
@@ -64,7 +64,7 @@ CPASiteSolutions's website contains links to sites maintained by other companies
 
 ## General
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the Site. If you have any comments or questions regarding this Privacy Policy please contact CPASiteSolutions via email at . This Privacy Policy is effective upon acceptance for new users and is otherwise effective on June 4, 2007.
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the Site. If you have any comments or questions regarding this Privacy Policy please contact CPASiteSolutions via email at support@cpasitesolutions.com. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on June 4, 2007.
 
 ## Try CPA Site Solutions Free for 60 Days
 
