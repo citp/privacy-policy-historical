@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xvideohost.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501222222id_/http%3A//www.xvideohost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvideohost.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915043921id_/http%3A//xvideohost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
