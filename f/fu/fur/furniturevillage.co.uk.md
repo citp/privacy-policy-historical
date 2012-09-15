@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608230950id_/http%3A//www.furniturevillage.co.uk/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915082805id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,9 +18,9 @@ We may also wish to provide you with information about special features of our W
 
 This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information on the ClickTale Web Analytics Service, see [here](http://www.clicktale.com/ "Clicktale link"). We are using the information collected by ClickTale service to improve the customer experience of users of this website. You can choose to disable the Service at <http://www.clicktale.net/disable.html>
 
-### 2: Our use of “cookies”
+### 2: Our use of "cookies"
 
-Cookies are small text files stored on your personal computer when you visit certain web pages, they do not store your personal information. If you do not want your personal computer to accept cookies or want to delete any cookies that are already on your personal computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies in order to delete them or to disable your personal computer from accepting them. 
+Cookies are small text files stored on your personal computer when you visit certain web pages, they do not store your personal information. If you do not want your personal computer to accept cookies or want to delete any cookies that are already on your personal computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies in order to delete them or to disable your personal computer from accepting them, to find out more about our cookies, click [here](https://web.archive.org/Home/Customer%20Services/Privacy-Policy/Cookies.aspx). 
 
 ### 3: How we protect your information   
 
