@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclingtimetrials.org.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603013335id_/http%3A//www.cyclingtimetrials.org.uk/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclingtimetrials.org.uk privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915042938id_/http%3A//cyclingtimetrials.org.uk/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Cycling Time Trials > Home
 
