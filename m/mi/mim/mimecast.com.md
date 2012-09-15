@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526042249id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915023251id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
 
 # Mimecast Privacy Statement
 
@@ -44,7 +44,7 @@ We use the personal information you volunteer in a number of ways:
 
 You can tell us not to contact you with information regarding our products and services or to share your details with our resellers so that they can send you information regarding our products and services, either at the point such information is collected on the Site (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you. You can also exercise the right at any time by contacting us using the contacting us details at the end of this privacy policy.
 
-### Non-personal information  
+### Non-personal information
 
 When you visit the Site, we may automatically collect non-personal information about you, such as the type of internet browser you use, the website from which you have come to the Site and your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. You cannot be identified from this information and it is only used to assist us in providing an effective service on the Site and to collect broad demographic information for aggregate use.
 
