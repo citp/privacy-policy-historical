@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wacom.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170318id_/http%3A//www.wacom.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacom.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915044559id_/http%3A//www.wacom.com/en/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Wacom Americas
 
 Wacom Technology Corporation (WTC) respects your individual privacy and is committed to adhering to the highest industry standards for the protection of your personal information. This policy is effective as of February 2007 and applies to all information collected through the World Wide Web and other channels. 
 
