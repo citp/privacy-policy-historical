@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531093018id_/http%3A//www.visitlondon.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915030320id_/http%3A//www.visitlondon.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy - Visit London
+# Privacy - visitlondon.com
 
 On 1 April 2011, Visit London's operations were taken over by a newly formed company: London & Partners Ltd. London & Partners is the official promotional organisation for London. Our company attracts and delivers value to business, students and visitors.
 
@@ -12,6 +12,105 @@ London & Partners is committed to protecting the privacy of those using our Site
 
 Please read this privacy policy carefully, as once you use our websites or our services you will be deemed to have read and accepted this privacy policy.  
 You must not use our website or our services if you do not accept this privacy policy.
+
+## Cookies in Use on This Site
+
+### Cookies and how they benefit You
+
+Our website uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
+
+Our cookies help us:
+
+  * Make our website work as you'd expect
+  * Save you having to login every time you visit the site
+  * Remember your settings during and between visits
+  * Offer you free services/content (thanks to advertising)
+  * Improve the speed/security of the site
+  * Allow you to share pages with social networks like Facebook
+  * Continuously improve our website for you
+  * Make our marketing more efficient
+
+
+
+We do not use cookies to:
+
+  * Collect any personally identifiable information (without your express permission)
+  * Collect any sensitive information (without your express permission)
+  * Pass personally identifiable data to third parties
+
+
+
+You can learn more about all the cookies we use below
+
+## Granting us permission to use cookies
+
+If the settings on your software that you are using to view this website (your browser) are adjusted to accept cookies we take this, and your continued use of our website, to mean that you are fine with this. Should you wish to remove or not use cookies from our site you can learn how to do this below, however doing so will probably mean that our site will not work as you would expect.
+
+## More about our Cookies
+
+### Website Function Cookies
+
+#### Our own cookies
+
+We use cookies to make our website work including: 
+
+  * Determining if you are logged in or not
+  * Remembering you on subsequent visits
+
+
+
+There is no way to prevent these cookies being set other than to not use our site.
+
+## Third party functions
+
+Our site, like most websites, includes functionality provided by third parties. A common example is an embedded YouTube video. Our site includes the following which use cookies: 
+
+  * YouTube - powers the videos on our site
+  * Google - we use their maps and translation tool
+
+
+
+Disabling these cookies will probably break the functions offered by these third parties. You can read their [privacy policy here](http://www.google.co.uk/intl/en/policies/privacy/).
+
+## Social Website Cookies
+
+So you can easily “Like” or share our content on the likes of Facebook and Twitter we have included sharing buttons on our site.
+
+Cookies are set by: Google+, Twitter and Facebook
+
+The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
+
+## Anonymous Visitor Statistics Cookies
+
+We use cookies to compile visitor statistics such as how many people have visited our website, what type of technology they are using (e.g. Mac or Windows which helps to identify when our site isn't working as it should for particular technologies), how long they spend on the site, what pages they look at etc. This helps us to continuously improve our website. These analytics programs also tell us if, on an anonymous basis, how people reached this site (e.g. from a search engine) and whether they have been here before helping us to put more money into developing our services for you instead of marketing spend.
+
+We use: Google Analytics
+
+You can read more about this [privacy policy too](http://www.google.com/analytics/learn/privacy.html).
+
+## Advertising Cookies
+
+Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We aim only to serve relevant advertising to you on our site, and cookies help us to achieve this.  
+You can learn more about online advertising at http://www.youronlinechoices.com. You can opt-out of almost all advertising. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, simply that they won't be tailored to you any longer.
+
+We use: 
+
+  * DoubleClick - owned by Google
+  * Weborama
+  * Aimfair
+  * Adtech
+
+
+
+## Banner Adverts
+
+We partly fund our site by showing adverts as you browse our site. These adverts are managed by a partner specialising in providing adverts for multiple sites. Invariably these partners place cookies to collect anonymous data about the websites you visit so they can personalise the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working. Our partners is: Hi-Media
+
+## Turning Cookies Off
+
+You can usually switch cookies off by adjusting your browser settings to stop it from accepting cookies (Learn how [here](http://www.aboutcookies.org/)). Doing so however will almost certainly limit the functionality of ours and a large proportion of the world's websites as cookies are a standard part of most modern websites.
+
+It may be that your concerns around cookies relate to so called "spyware". Rather than switching off cookies in your browser you may find that anti-spyware software achieves the same objective by automatically deleting cookies considered to be invasive. Learn more about [managing cookies with antispyware software](http://www.attacat.co.uk/resources/cookies/how-to-control-your-online-privacy). 
 
 ## Data Protection Act 1998
 
@@ -56,64 +155,6 @@ Keeping information about you secure is very important to us. However, no data t
 London & Partners will take precautions to protect against the loss, misuse and alteration of your user data under our control. Only authorised employees and subcontractors will be given access to the information you provide us. Our systems are designed to ensure that your data can only be viewed online if your email and password are correctly input. While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions aimed at preventing such occurrences.
 
 You are ultimately responsible for the security of your email and password. Please take care when using and storing them. We recommend that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information, especially if you share a computer with someone else or are using a computer in a public place like a library or internet cafe.
-
-## Cookies
-
- **What are Cookies?**
-
-A cookie is a small data file that is sent to a user’s computer or mobile phone from a web site and is stored on the device. Each web site can send its own cookies to your browser if your browser's preferences allow it. Typical uses for cookies are to recognise you when you make a return visit, to personalise content, to enable functions like shopping baskets or favourite lists, to analyse web traffic and to target advertising.
-
-Why do we use them?
-
- **www.visitlondon.com makes use of cookies for the following purposes:**
-
-1\. To remember you on subsequent visits, and to allow you to remain logged in to the site so that you can enter competitions and redeem special offers  
-2\. For web and marketing analytics, so we can understand more about how the site is used and help us to improve it  
-3\. To enable third party features like YouTube videos, social sharing buttons (e.g. Facebook Likes) and triggering of user satisfaction surveys  
-4\. To target advertising – we want to make sure that the ads we show you are as relevant as possible
-
- **We do not collect any personally identifiable information in our cookies.**
-
-## List of Cookies
-
-These are the main cookies which are set by this web site, and what they are used for.
-
-[www.visitlondon.com](https://web.archive.org/) makes use of cookies to personalise content and provide statistics that allow us to understand how users use the website, helping us to improve its structure and content. Although some website operators use cookies to generate consumer profiling information to be sold or transferred to third parties, it is the policy of this site never to share information collected using cookies with third parties.
-
-Name| Description| Duration/Expiry  
----|---|---  
-VisitLondonMember| For visitors who have registered and logged in, this cookie stores an encrypted ID so that we can recognise you on subsequent visits| 10 years  
-JSESSIONID| Used for session management| Session only  
-__utma| This cookie is used to determine unique visitors to our site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.| 2 years from set/update.  
-__utmb| This cookie is used to establish and continue a user session with our site.| Set at beginning of session for 30 minutes  
-__utmc| This cookie is used to determine the end of a session when there has been no activity for 30 minutes.| Expires at end of session  
-__utmz| This cookie stores the type of referral used by the visitor to reach our site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link| 6 months from set/update  
-  
-##  **From 3rd Parties**
-
-We work with a number of third parties including marketing and advertising partners. These services will set cookies which are not directly controlled by visitlondon.com
-
-The domains associated with advertising and marketing that may set cookies while visiting our site are as follows:
-
-Adtech  
-Appnexus  
-Rubicon  
-Weborama  
-Doubleclick  
-Quantcast  
-mookie1.com
-
-The domains associated with non-advertising 3rd party services that may set cookies while visiting our site are as follows:
-
-Stumbleupon  
-Facebook  
-YouTube  
-Kampyle  
-Wibiya
-
-## Disabling / Enabling Cookies
-
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our sites if cookies are disabled. To find out how to disable / enable cookies or for more general information about cookies got to [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 ## Further Information
 
