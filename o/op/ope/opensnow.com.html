@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the opensnow.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503222021id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opensnow.com privacy policy that was archived on 2012-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120915035126id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -32,7 +32,7 @@
 	<link rel="stylesheet" href="/css/base_web.css" type="text/css">
 	<link rel="stylesheet" href="/css/view_web.css" type="text/css">
 	
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=242272149152317"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/jquery-1.6.2.min.js"></script>
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=242272149152317"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/jquery-1.6.2.min.js"></script>
 	<script src="/js/jquery-formalize.min.js"></script>
 	<script src="/js/jquery-waypoints.min.js"></script>
 		<script src="/js/jquery-ui.min.js"></script>
@@ -68,7 +68,20 @@
 			googletag.enableServices();
 	});
 	</script>
-	</head>
+		<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-26524288-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script>
+</head>
 
 <body id="index" class="home">
 	
@@ -189,7 +202,23 @@
 -->
 <div class="bottomadspace"><div class="squish">
 <script type="text/javascript" src="http://ap.lijit.com/www/delivery/fpi.js?u=opensnow&amp;z=144513&amp;width=728&amp;height=90"></script>
-</div></div>	
+</div></div>	<div id="mailing-footer">
+			<!-- Begin MailChimp Signup Form -->
+			<div id="mc_embed_signup">
+				<div id="mce-responses" class="clear">
+					<span id="email-response">
+										  	</span>
+				</div>
+			<form id="footersignup" action="/index.php" method="get">
+			<div class="mc-field-group">
+				<strong>Sign up for our weekly mailing list to keep up-to-date on OpenSnow!</strong>
+				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+				<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+			</div>	
+			</form>
+			</div>
+			<script type="text/javascript" src="js/mailing-list.js"></script>
+	</div>
 	<div id="sponsor-wrapper">
 		<div id="sponsor-footer">
 			<div class="title">A very special thanks to our sponsors!</div>
@@ -282,27 +311,19 @@ $(document).ready(function() {
         document.cookie = "visited=true;expires=" +  expires.toUTCString() + ";path=/";
     	$.colorbox({width:"480px", height:"560px", inline:true, href:"#subscribe"});
      }
-	$('#mc-embedded-subscribe-form').submit(function() {
-		var action = $(this).attr('action');
-		$('#mcload').show();
+	$('#footersignup').submit(function() {
+		// update user interface
+		$('#email-response').html('Adding email address...');
+		
+		// Prepare query string and send AJAX request
 		$.ajax({
-			url: action,
-			type: 'POST',
-			data: {
-				email: $('#mce-EMAIL').attr('value')
-			},
-			success: function(data){
-				$('#mceresult').html(data).css('color', '#336699');
-				$('#mcload').hide();
-				$.colorbox.resize();
-			},
-			error: function() {
-				$('#mceresult').html('Sorry, an error occurred.').css('color', 'red');
-				$('#mcload').hide();
-				$.colorbox.resize();
+			url: 'inc/store-address.php',
+			data: 'ajax=true&email=' + escape($('#mce-EMAIL').val()),
+			success: function(msg) {
+				$('#email-response').html(msg);
 			}
 		});
-		$.colorbox.resize();
+	
 		return false;
 	});
 });
@@ -376,17 +397,7 @@ function hideSaving() {
 }
 </script>
 	
-	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-26524288-1']);
-	  _gaq.push(['_trackPageview']);
 	
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
 	<!-- Quantcast Tag -->
 	<script type="text/javascript">
 	var _qevents = _qevents || [];
