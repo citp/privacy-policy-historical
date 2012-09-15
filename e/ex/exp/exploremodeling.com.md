@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploremodeling.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620235200id_/http%3A//www.exploremodeling.com/General/1317/Our_Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploremodeling.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915050626id_/http%3A//www.exploremodeling.com/General/1317/Our_Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Explore Modeling - Our Privacy Policy
 
