@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nikah.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505141541id_/http%3A//www.nikah.com/muslim-matrimonials/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nikah.com privacy policy that was archived on 2012-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120915060717id_/http%3A//www.nikah.com/muslim-matrimonials/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="SHORTCUT ICON" href="../includeimages/favicon.ico">
@@ -240,8 +240,21 @@ $pc(document).ready(function () {
 
 });
 
+	function getdetprofile(id1,id2,id3,id4,id5,id6)
+	{
+		$(id1).hide();
+		$(id2).hide();
+		$(id3).hide();
+		$(id4).hide();
+		$(id5).hide();
+ 		$(id6).fadeToggle(500);
+ 	}
 
-
+	function getdetprofilenew(id1,id2)
+	{
+ 		document.getElementById(id1).style.display='none';
+		document.getElementById(id2).style.display='block';
+	}
 </script>
 <script type="text/javascript">
 function open_win()
@@ -249,25 +262,7 @@ function open_win()
 window.open("http://www.nikah.com/halalcoice.php","name"," location=no, status=yes, scrollbars=yes, resizable=no, width=630, height=400,status=no");
 }
 </script>
-
-<script language="javascript" src="../tooltip/javascripts/jquerypop.js" type="text/javascript"></script>
-<link href="../tooltip/application.css" media="all" rel="stylesheet" type="text/css">
-
-    <script type="text/javascript">
-      $(document).ready(function(){
-	   
-	  var pop_toggle_text = '102';  
-        $.pop(pop_toggle_text); 
-		
-		
-       });
-	   
-
-	   
-</script>
-     
-	
-
+ 
 <style type="text/css">
 <!--
 body {
@@ -326,16 +321,17 @@ body {
 -->
 </style>
 
-<table width="828" border="0" cellspacing="0" cellpadding="0">
+<noscript> <div style="border:1px solid #660033; background:#EFE6DC"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#CC3300; "> It seems JavaScript is either disabled or not supported by your browser. JavaScript must be enabled in order for you to use Nikah.com. Please enable JavaScript by changing your browser options, then try again. </span> <a href="http://www.alanwood.net/demos/enabling-javascript.html" target="_blank" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#3300CC; text-decoration:none"> How to enable?. </a>  </div></noscript><table width="828" border="0" cellspacing="0" cellpadding="0">
 
+       
       <tbody><tr style="background:url(../user_images/hdr_bar.gif)">
 
-        <td width="332" height="25" class="grayMedium" valign="middle"> </td>
+        <td align="left" width="332" height="25" class="grayMedium" valign="middle"><a name="stop" id="stop"></a> </td>
 
         <td width="282" align="right" valign="bottom">
 		
 		<table border="0" cellpadding="0" cellspacing="0" width="282">
-		</table></td>
+        </table></td>
 
         <td width="214" align="right" valign="middle"><a href="../v2_login.php" class="grayMediumBlink"> Login </a> </td>
       </tr>
@@ -364,9 +360,9 @@ body {
   <ul id="pcm-navbar" class="sprt2">
     <li id="pcm-domains"><a href="../user/v2_mynikah.php">
       <span>My Nikah</span> </a></li>
-    <li id="pcm-hosting" class="greenbar"><a href="#">
+    <li id="pcm-hosting" class="greenbar"><a href="../user/mail.php">
       <span>Communications</span> </a></li>
-    <li id="pcm-email" class="greenbar"><a href="#">
+    <li id="pcm-email" class="greenbar"><a href="../user/v2_search.php">
 
       <span>Search Partner</span></a></li>
     <li id="pcm-sites" class="greenbar"> <a href="../user/v2_upgrade.php">
@@ -382,7 +378,7 @@ body {
        
         <ul class="dropdown-list">
           
-<a href="../user/v2_mynikah.php" style="text-decoration:none"><li class="" onclick="#">
+<a href="../user/v2_mynikah.php" style="text-decoration:none"><li>
   <strong>
     Welcome </strong>
 
@@ -432,11 +428,8 @@ body {
 
        
       <div class="dropdown-left pc_clear"><ul class="dropdown-list pc_clear">
-	     
-<h3>
-  Settings </h3>
-
-  
+	  
+  <h3>Settings </h3>
 
 <a href="../user/v2_hideactive.php" style="text-decoration:none"> <li class="" onclick="">
   <strong>
@@ -484,21 +477,21 @@ Remove your Profile
   <br>
   Allows you to receive messages from suitable partners and respond them quickly </li></a>
   
- <a href="../user/mail.php?c=await" style="text-decoration:none"><li class="" onclick="#">
+ <a href="../user/mail.php?c=await" style="text-decoration:none"><li>
   <strong>
     Awaiting Response </strong>
 
   <br>
   List of member(s) profile those are initiated contact with you and awaiting your response</li></a> 
   
-  <a href="../user/v2_acceptedmem.php?pgid=0" style="text-decoration:none"> <li class="" onclick="#">
+  <a href="../user/v2_acceptedmem.php?pgid=0" style="text-decoration:none"> <li>
   <strong>
     Accepted Members </strong>
 
   <br>
    List of accepted member(s) profile</li></a>
    
-   <a href="../user/v2_declinemem.php" style="text-decoration:none"><li class="" onclick="#">
+   <a href="../user/v2_declinemem.php" style="text-decoration:none"><li>
   <strong>
 
     Declined Members </strong>
@@ -506,7 +499,7 @@ Remove your Profile
   <br>
   List of Declined Members profiles.</li></a>
   
-  <a href="../user/v2_blockedmem.php" style="text-decoration:none"><li class="" onclick="#">
+  <a href="../user/v2_blockedmem.php" style="text-decoration:none"><li>
   <strong>
     Blocked Members </strong>
 
@@ -514,7 +507,7 @@ Remove your Profile
   List of member(s) whose profiles are blocked by you.<br>
 </li></a>
           
-<a href="../user/mail.php?c=chat" style="text-decoration:none"><li class="" onclick="#">
+<a href="../user/mail.php?c=chat" style="text-decoration:none"><li>
   <strong>
 
     Chat History</strong>
@@ -528,21 +521,21 @@ Remove your Profile
         <ul class="dropdown-list pc_clear">
       <h3> Profile History </h3>    
 
-<a href="../user/v2_viewedprof.php" style="text-decoration:none"><li class="" onclick="#">
+<a href="../user/v2_viewedprof.php" style="text-decoration:none"><li>
   <strong>
     Viewed Profiles </strong>
 
   <br>
   List of profiles that are viewed by you recently..</li></a>
  
- <a href="../user/v2_myfavorite.php" style="text-decoration:none"> <li class="" onclick="#">
+ <a href="../user/v2_myfavorite.php" style="text-decoration:none"> <li>
   <strong>
     Favourite Profiles</strong>
 
   <br>
   List of member(s) profile that are marked by you as your Favorite Profiles</li> </a>  
   
-   <a href="../user/v2_otherfavorite.php" style="text-decoration:none"> <li class="" onclick="#">
+   <a href="../user/v2_otherfavorite.php" style="text-decoration:none"> <li>
   <strong>
     My Profile Favourite to others </strong>
 
@@ -552,7 +545,7 @@ Remove your Profile
           
 
   
-<!--  <a  href="../user/v2_filteredcontact.php?pgid=0" style="text-decoration:none"><li class=""  onclick="#">
+<!--  <a  href="../user/v2_filteredcontact.php?pgid=0" style="text-decoration:none"><li>
   <strong>
     Filtered Contacts </strong>
 
@@ -564,21 +557,21 @@ Remove your Profile
 
 
           
-<a href="../user/v2_photorequest.php" style="text-decoration:none"><li class="" onclick="p#">
+<a href="../user/v2_photorequest.php" style="text-decoration:none"><li class="">
   <strong>
     Photo Request </strong>
 
   <br>
   List of members those who are sent you a request to upload your photograph.</li></a>
           
-   <a href="../user/v2_photoaccess.php" style="text-decoration:none"><li class="" onclick="p#">
+   <a href="../user/v2_photoaccess.php" style="text-decoration:none"><li class="">
   <strong>
     Grant Access </strong>
 
   <br>
   List of Members request you to grant permission to view your photos.</li></a>
           
-  <!-- <li class=""  onclick="#">
+  <!-- <li>
 
   <strong><a  href="../user/draft.php">
     Drafts </a></strong>
@@ -592,6 +585,7 @@ Remove your Profile
 	
     <div id="pcm-email-dropdown" class="dropdowns pc_clear">
       <div class="dropdown-left">
+
         <h3> SEARCH </h3>
         <ul class="dropdown-list pc_clear">
 		
@@ -621,22 +615,24 @@ Remove your Profile
   <br>
   Helps you to find your life partner in an easiest and quickest way.</li></a>
   
-  <a href="../user/v2_onlinemem.php" style="text-decoration:none"><li>
+  <a href="../user/state_citysearch.php" style="text-decoration:none">
+          
+<li>
   <strong>
-    Online Members </strong><br>
+    State Search <img src="../includeimages/new-icon.gif"></strong>
 
-		 
-	  Members list of those who are currently in online.
+  <br>
+  Search Profiles in State wise.</li></a>
+  
+ 
 
-</li></a>
 
-
-  <li class="indented" onclick="#">
+  <li class="indented">
   <strong>
     Profile ID Search</strong> 
-<form action="/muslim-matrimonials/privacypolicy.php" method="post" name="focusi" id="focusi">
-<input type="text" name="log_pid" size="10"> 
-<input name="searchprofile" type="image" src="../homeimages/go1.gif" title="Search By ProfileId" width="44" align="absmiddle" border="0"><input type="hidden" name="log_login1"> </form>
+<form action="profileidsearch.php" method="post" name="focusi" id="focusi">
+<input type="text" name="ser_pid" size="10"> 
+<input name="searchprofile" type="image" src="../homeimages/go1.gif" title="Search By ProfileId" width="44" align="absmiddle" border="0"><input type="hidden" name="pidsubmit1"> </form>
 	View specific Profile ID.</li> 
         </ul>
       </div>
@@ -647,7 +643,14 @@ Remove your Profile
   
 
 
-  
+ <a href="../user/v2_onlinemem.php" style="text-decoration:none"><li>
+  <strong>
+    Online Members </strong><br>
+
+		 
+	  Members list of those who are currently in online.
+
+</li></a>  
 <li>
   
      <a href="../user/v2_matchingprof.php" style="text-decoration:none"><strong>Matching Profiles </strong> <br>
@@ -900,7 +903,9 @@ Remove your Profile
       </div>
     </div>
   </div>
-</div> </div> </td></tr></tbody></table>  </td>
+</div> </div> </td></tr></tbody></table>
+ 
+ </td>
 </tr>
 <tr> <td colspan="2" width="823"> <table border="0" cellpadding="0" cellspacing="0" width="825" style="border: 1px solid #416b10;"> <tbody><tr> <td colspan="2" height="55" class="greentitleBtext" background="../user_images/titlebar.gif">Privacy Policy of Nikah.com</td> 
 </tr> 
@@ -1171,6 +1176,7 @@ Remove your Profile
   </tr>
 </tbody></table></td></tr></tbody></table></td></tr><tr>
   <td colspan="2" height="40" width="823">
+     
 <table width="823" border="0" align="center" cellpadding="0" cellspacing="0" background="../user_images/footer_back.jpg">
   <tbody><tr><td><table background="../user_images/footer_back.jpg" width="803" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr><td colspan="5" bgcolor="#d4e1be" height="1"></td></tr>
@@ -1194,7 +1200,7 @@ Remove your Profile
     <td><a href="http://m.nikah.com" class="grayMedium">Nikah.com mobile</a> | <a href="http://muslimgroups.com/" class="grayMedium">MuslimGroups.com</a> <!--| <a href="http://www.muslimmatrimonialservice.com/" class="grayMedium">Muslimmatrimonialservice.com</a> | <a href="http://nikah.com/muslim-matrimony/singlemuslims.php?cid=no" class="grayMedium">SingleMuslims</a>--></td>
 
   </tr>
-</tbody></table></td></tr><tr>
+</tbody></table> </td> </tr> <tr>
   <td height="87" bgcolor="#FFFFFF" class="BlackMedium"><strong class="GreenBoldTitle">Nikah.com,</strong> the world's leading and best known matrimonial website for Muslims around the world, founded in year 1998. Nikah.com was founded
 with simple object - to help single Muslims to find their suitable life partner and also help Muslim parents to search &amp; gift better life partner for their
 son/daughter, within a halal enviornment while bending to-date's technological advancements to suite our Islamic principles. By providing better 
@@ -1206,10 +1212,9 @@ services and highest success, Nikah.com reached more than 10 million single Musl
   <td height="30" align="center" bgcolor="#FFFFFF" class="darkgraysmalltext1">Copyright � 1998-2011 Nikah.com Muslim Matrimonials - The No.1 Muslim Matrimonial Service Provider. All Rights Reserved.</td>
 
 </tr></tbody></table>
-<div class="menuContent" align="center">
-            <a class="slider"><img alt="" id="bot" src="../user_images/up_arrow.png" width="966" align="bottom"></a>
-           <div id="nav" style="display: none;">
-            <div style="position:relative; right:68px;"><table width="966" height="23" align="center" cellpadding="0" cellspacing="0" style="background:url(../user_images/bgrepeat.png) repeat-x;">
+<div class="menuContent" align="center"><a class="slider"></a><a class="slider"><img alt="" id="bot" src="../user_images/up_arrow.png" width="966" align="bottom"></a>
+  <div id="nav" style="display: none;">
+    <div style="width:98%; float:left; position:relative; right:78px;"><table width="98%" height="23" align="center" cellpadding="0" cellspacing="0" style="background:url(../user_images/bgrepeat.png) repeat-x;">
    <tbody><tr>  
    <td width="2" bgcolor="c5c5c5"></td>   <td width="1" bgcolor="3a581d"></td>
   <td width="931" align="left" valign="middle" class="darkRedSB" style="padding-left:80px;"><a href="../user/v2_viewedprof.php" class="yellowfoot">Recently Viewed Profiles  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../user/mail.php?c=await" class="yellowfoot">Awaiting Members</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../user/v2_myfavorite.php" class="yellowfoot">Favourite Profiles</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../user/v2_acceptedmem.php" class="yellowfoot">Accepted Members</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../user/v2_localmatch.php" class="yellowfoot">Locality profiles</a> </td> 
@@ -1218,7 +1223,7 @@ services and highest success, Nikah.com reached more than 10 million single Musl
             </div>
            </div>
                  
-        </div></td>
+</div></td>
 </tr></tbody></table>
 
 
