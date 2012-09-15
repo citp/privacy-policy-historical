@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paybooks.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504070431id_/http%3A//paybooks.in/wp-content/uploads/2012/01/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybooks.in privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915062256id_/http%3A//paybooks.in/wp-content/uploads/2012/01/privacy_policy.pdf) for the most accurate reproduction.*
 
 # 1.
 
