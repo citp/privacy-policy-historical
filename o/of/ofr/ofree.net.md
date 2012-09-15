@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606013808id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915024209id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
@@ -37,52 +37,3 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on www.ofree.net to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-[](http://ofree.tradepub.com/)
-
-  *   *   *   *   * 
-
-
-[](http://onlyfree.ourtoolbar.com/)
-
-#### Only Free Stuff Newsletter!
-
-Subscribe NOW to Only Free Stuff newsletter for daily updates. 
-
-or 
-
-[](http://www.ofree.net/rss2.xml)
-
-to  
-[Only Free - RSS FEED](http://feedproxy.google.com/OnlyFree-NewestFreebiesAndFreeStuff?format=xml "Only Newest Free Stuff and Free Samples RSS Feed")  
-and Get Only Newest Free Stuff and Free Samples Faster and More Reliably! 
-
-Start working from home today!
-
-[](https://web.archive.org/go/df.asp?8953at27qd)
-
-Transform your financial future! 
-
-Free Nike Air Jordan 11 Retro Concords
-
-[](https://web.archive.org/go/df.asp?bw3i0v8xv2)
-
-Get in the game with sneakers that fit your style! 
-
-Get Free Grocery Products
-
-[](https://web.archive.org/go/df.asp?p068zhp9lm)
-
-Get Started Now 
-
-Free Galaxy S III
-
-[](https://web.archive.org/go/df.asp?3a5kllvox2)
-
-Own one today 
-
-$100 in FREE Fandango gift cards
-
-[](https://web.archive.org/go/df.asp?insljj4yrv)
-
-Movie fans, you won’t want to miss this! 
