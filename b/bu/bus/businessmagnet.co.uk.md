@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessmagnet.co.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606203549id_/http%3A//www.businessmagnet.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmagnet.co.uk privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915042854id_/http%3A//www.businessmagnet.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Businessmagnet Directory | Privacy Policy
 
