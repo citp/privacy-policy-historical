@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastminutetravel.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081627id_/http%3A//www.lastminutetravel.com/info/PagePrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminutetravel.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915074519id_/http%3A//www.lastminutetravel.com/info/PagePrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Last Minute Travel - Privacy Policy
 
