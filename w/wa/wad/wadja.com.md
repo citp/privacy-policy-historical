@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329233207id_/http%3A//www.wadja.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915035818id_/http%3A//www.wadja.com/privacy) for the most accurate reproduction.*
 
-# 
-
-Effective: December 8, 2009
+# Wadja ~ Ask, Give and Message
 
 **About Wadja**
 
