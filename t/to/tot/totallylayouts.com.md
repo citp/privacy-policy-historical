@@ -1,29 +1,54 @@
-> *The following text is extracted and transformed from the totallylayouts.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430023820id_/http%3A//www.totallylayouts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallylayouts.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915051039id_/http%3A//www.totallylayouts.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+What information do we collect? 
 
-User Privacy
+We collect your e-mail address from you when you connect to our site via Facebook, Twitter and Tumblr. 
 
-This privacy policy has been made to provide information about our commitment to our visitors privacy while browsing our website. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously and decline to provide this information.
 
-Information Automatically Logged
+What do we use your information for? 
 
-The only thing we log from our visitors are traffic statistics information and their IP address. The statistic information helps us see where our visitors are coming from and providing overall traffic analysis. 
+Any of the information we collect from you may be used in one of the following ways; 
 
-Third Party Sites
+To send periodic emails  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-There are links to third party sites mainly from advertising companies bringing in traffic revenue. TotallyLayouts is not responsible for the content provided by these sites nor their privacy policy practices.
+Do we use cookies? 
 
-Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-If you need more information please visit Network Advertising Initiative [http://www.networkadvertising.org](http://www.networkadvertising.org/) or about ads [www.aboutads.info](https://web.archive.org/web/20120430023820id_/http%3A//www.totallylayouts.com/www.aboutads.info). 
+Do we disclose any information to outside parties? 
 
-Personal Information
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-TotallyLayouts may store your e-mail address if provided when you connect through to the site via Facebook, Tumblr or Twitter. We may from time to time send you related updates which you can opt-out from at anytime. If access is granted to us we may also post a welcome message to your Facebook, Twitter or Tumblr. None of your personal data is shared with any other companies. We are never in possession of your passwords. 
+Third party links 
 
-Contact Information
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
-If you have any questions regarding our privacy policy, terms of use, or anything found on this site you can reach us by clicking [here](http://www.totallylayouts.com/contact/contact.php).
+California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+Childrens Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+Online Privacy Policy Only 
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions 
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.totallylayouts.com/terms.php
+
+Your Consent 
+
+By using our site, you consent to our websites privacy policy.
+
+Changes to our Privacy Policy 
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+http://www.totallylayouts.com/contact/contact.php 
