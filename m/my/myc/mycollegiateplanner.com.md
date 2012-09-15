@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycollegiateplanner.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630064854id_/http%3A//www.mycollegiateplanner.com/pivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycollegiateplanner.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915025731id_/http%3A//www.mycollegiateplanner.com/pivacy_policy.html) for the most accurate reproduction.*
 
 # My Collegiate Planner
 
@@ -64,3 +64,5 @@ Some of our sites may contain links to other sites external to our sites. When y
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+[More Privacy Policy](https://web.archive.org/web/20120915025731id_/http%3A//www.mycollegiateplanner.com/pivacy_policy1.html)
