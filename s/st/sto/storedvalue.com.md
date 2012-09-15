@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621112555id_/http%3A//www.storedvalue.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915093426id_/http%3A//www.storedvalue.com/privacy.php) for the most accurate reproduction.*
 
 # Ceridian Stored Value Solutions
 
@@ -68,4 +68,4 @@ Last Update: January 2008
 
 © 2007-2011 Ceridian Stored Value Solutions, Inc., All Rights Reserved.
 
-[MetaBank Privacy Policy.](https://web.archive.org/web/20120621112555id_/http%3A//www.storedvalue.com/svsprepaid/meta_policy.php)
+[MetaBank Privacy Policy.](https://web.archive.org/web/20120915093426id_/http%3A//www.storedvalue.com/svsprepaid/meta_policy.php)
