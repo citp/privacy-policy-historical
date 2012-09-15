@@ -1,0 +1,94 @@
+> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915050429id_/http%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
+
+# TINYpulse — Privacy Policy
+
+**Last updated: September 10, 2012**
+
+**This privacy policy explains how TINYhr handles your personal information and data. We value your trust, so we’ve strived to present this policy in clear, plain language instead of complex lawyer speak. The policy is structured so you can quickly find answers to the questions which interest you the most.**
+
+This privacy policy applies to all the products, services and websites offered by Delight Labs LLC and any affiliated entity or d/b/a (collectively “TINYhr”) except where otherwise noted. We refer to those products, services and websites collectively as the “services” in this policy. Some services have supplementary privacy statements that explain in more detail our specific privacy practices in relation to them. Unless otherwise noted, our services are provided by Delight Labs LLC inside of the United States.
+
+**Questions?** For questions regarding our privacy policy or practices, contact TINYhr emailing [support@TINYhr.com](mailto:support@TINYhr.com).
+
+## IF YOU OR SOMEONE YOU INVITED ANSWER SURVEYS:
+
+  * **Surveys are administered by TINYhr.** We host the surveys on our websites and collect the responses submitted. If you have any questions about a survey you are taking, please contact [support@TINYhr.com](mailto:support@TINYhr.com) or your organization’s manager who signed you up for this service.
+  * **Are your responses anonymous?** By default, yes. TINYhr does not reveal which responses were associated with which email or IP address. From time to time, if the response rate is low, the survey administrator may be able to determine the identity of the individual(s) who responded. Moreover, some responses may proactively disclose their identity. Since TINYhr does not change or edit the responses, in such instance, the survey administrator will find out who submitted that particular response.
+  * If you think a survey violates our Terms of Use or may be engaging in illegal activity, please email [support@TINYhr.com](mailto:support@TINYhr.com).
+
+
+
+**Changes to this privacy policy.** We may modify this privacy policy at any time, but if we do so, we will notify you by publishing the changes on this website. If we determine the changes are material, we will provide you with additional, prominent notice as is appropriate under the circumstances, such as via email.
+
+TINYhr is used by **manager(s)** (people who are able to access the results of surveys) and **survey respondents** (people who answer those surveys). Our treatment of information as it pertains to each category is described below: 
+
+## Managers
+
+  1. **What information does TINYhr collect?**
+
+When you use TINYhr, we collect information relating to you and your use of our services from a variety of sources. These are listed below. The sections afterward describe what we do with this information.
+
+  2. **Information we collect directly from you**
+    * **Registration information.** You need a TINYhr account before you can create surveys on TINYhr. When you register for an account, we collect and store all registration information.
+    * **Billing information.** If you make a payment to TINYhr, we require you to provide your billing details, such as a name, address, email address and financial information corresponding to your selected method of payment (e.g. a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder.
+    * **Account settings.** You can set various preferences and personal details on our Settings page.
+    * **Survey data.** We store your survey data (questions and responses) for you.
+    * **Other data you intentionally share.** We may collect your personal information or data if you submit it to us in other contexts. For example, if you provide us with a testimonial, participate in a TINYhr contest, or send us an email with comments or suggestions.
+  3. **We safeguard your respondents' email addresses.** Rest assured, TINYhr definitely does not sell those email addresses to any third parties.
+  4. **How does TINYhr use the information we collect?** We may disclose aggregated, anonymous, or anonymized data to third parties for market research, academic research, benchmarking, or any other purpose. In all such instances, we will not disclose any identifiable information about you, your respondents, or your company. TINYhr may also analyze your usage patterns and the usage patterns and respondents to improve or optimize our services. 
+    * **To manage our services.** We internally use your information, including certain survey data, for the following limited purposes: 
+      * **To monitor and improve our services and features.** We internally perform statistical and other analysis on information we collect (including usage data, device data, referral data, and information from page tags) to analyze and measure user behavior and trends, to understand how people use our services, and to monitor, troubleshoot and improve our services. However, we do not use the non-public content of surveys (i.e. the content of questions and responses that you have not publicly shared) for these purposes.
+      * **To assist the enforcement of our Terms of Use.**
+      * **To prevent potentially illegal activities.**
+      * **To screen for undesirable or abusive activity.** For example, we have automated systems that screen content for phishing activities, spam, and fraud.
+    * **To create new services, features or content (public data and metadata only).** We may use public survey data and anonymized survey metadata (that is, data about the characteristics of a survey but not its non-public content), to create and provide new services, features or content. For example, we may look at statistics like response rates, question and answer word counts, and the average number of questions in a survey and publish interesting observations about these for informational or marketing purposes.
+    * **To contact you about your service or account.** We occasionally send you communications of a transactional nature (e.g. service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You cannot opt out of these communications since they are required to provide our services to you.
+    * **To respond to legal requests and prevent harm.** If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
+  5. **With whom do we share or disclose your information?**
+  6. **We don't sell your survey data.**
+  7. **When might we disclose your survey data to third parties?** Only for a limited number of reasons. Mostly commonly, we share your information with our service providers who help us to provide our services to you. We contractually bind these service providers to keep your information confidential and to use it only for the purpose of providing their services to us. For example, we use payment processors who help us to process credit card transactions. By using our services, you authorize TINYhr to sub-contract in this manner on your behalf. 
+
+Rarer circumstances include when we need to share information if required by law, or in a corporate restructuring or acquisition context (see below for more details).
+
+  8. **Sharing your surveys for research and related purposes.** We may provide aggregated, “blind” data to third parties or researchers to conduct research. We may also provide such information to third parties for overall forecasting, trend research, or other purposes.
+  9. We may disclose: 
+    * **Your information to our service providers.** We use service providers who help us to provide you with our services. We give relevant persons working for some of these providers access to your information, but only to the extent necessary for them to perform their services for us. We also implement reasonable contractual and technical protections to ensure the confidentiality of your personal information and data is maintained, used only for the provision of their services to us, and handled in accordance with this privacy policy. Examples of service providers include payment processors, email service providers, and web traffic analytics tools.
+    * **Your account details to your billing contact.** If your details (as the account holder) are different to the billing contact listed for your account, we may disclose your identity and account details to the billing contact upon their request (we also will usually attempt to notify you of such requests). By using our services and agreeing to this privacy policy, you consent to this disclosure.
+    * **Aggregated information to third parties to improve or promote our services.** No individuals can be identified or linked to any part of the information we share with third parties to improve or promote our services.
+    * **The presence of a cookie to advertise our services.** We may ask advertisers to display ads promoting our services on other websites. We may ask them to deliver those ads based on the presence of a cookie but in doing so will not share any other information with the advertiser.
+    * **Your information if required or permitted by law.** We may disclose your information as required or permitted by law, or when we believe that disclosure is necessary to protect our rights, and/or to comply with a judicial proceeding, court order, subpoena, or other legal process served on us.
+    * **Your information if there's a change in business ownership or structure.** If ownership of all or substantially all of our business changes, or we undertake a corporate reorganization (including a merger or consolidation) or any other action or transfer between TINYhr entities, you expressly consent to TINYhr transferring your information to the new owner or successor entity so that we can continue providing our services. If required, TINYhr will notify the applicable data protection agency in each jurisdiction of such a transfer in accordance with the notification procedures under applicable data protection laws.
+    * **Information you expressly consent to be shared.** For example, we may expressly request your permission to provide your contact details to third parties for various purposes, including to allow those third parties to contact you for marketing purposes. (You may later revoke your permission, but if you wish to stop receiving communications from a third party to which we provided your information with your permission, you will need to contact that third party directly.)
+  10. **What are your rights to your information? You can:**
+    * **Update your account details.** You can update your registration and other account information on your Settings page.
+    * **Capture your survey data.** You can take screenshots of your data and survey responses. We may in our discretion provide tools to export the data and survey responses.
+    * **Cancel your account.** Deleting your account will not cause all the survey data in the account to be permanently deleted, and will disable your access to any other services that require a TINYhr account. We will respond to any such request, and any appropriate request to access, correct, update or delete your personal information within the time period specified by law (if applicable) or without excessive delay. We will promptly fulfill requests to delete personal data unless the request is not technically feasible or such data is required to be retained by law (in which case we will block access to such data, if required by law).
+  11. **For how long do we retain your data?** We generally retain your data permanently. However, we reserve the right to delete or purge such data.
+
+
+
+## Survey Respondents
+
+  1. **What information does TINYhr collect?**
+
+When you respond to surveys hosted by TINYhr, we collect, on behalf and upon instructions (including the ones provided in this privacy policy) of survey creators, information relating to you and your use of our services from a variety of sources. These are listed below. The sections afterward describe what we do with this information.
+
+  2. **Information we collect directly from you**
+    * **Survey responses.** We collect and store the survey responses that you submit If you have any questions about a survey you are taking, please contact your organization’s manager who signed up for the service.
+  3. **Are your survey responses anonymous?** Yes. If you respond to a survey, your email address is not automatically associated with the response; nor is it transmitted by TINYhr to the manager. However, there are rare circumstances whereby the manager may be able to associate responses with a person. For example, if one or a very small amount of people respond to a survey, the manager may be able intuit who provided to what responses. Or if you decide to include information that identifies you in your response – TINYhr does not modify or edit responses.
+  4. **How does TINYhr use the information we collect?** Your survey responses are managed by your manager who signed up for TINYhr services. Please contact your manager directly to understand how they will use your survey responses. We also use the information we collect from you (including usage data, device data, referral data and information from page tags) to manage and improve our services. Furthermore, we may aggregate your responses as described in this policy.
+  5. **With whom do we share or disclose your information?** TINYhr does not sell your survey responses, but we may make aggregate, anonymized, or anonymous data available to third parties for research or other purposes. We disclose: 
+    * **Your survey responses to the manager.** Anything you expressly disclose in your survey responses will, naturally, be provided to them. Please contact the manager directly to understand how they might share your survey responses
+    * **Security, cookies and other important information**
+    * **Cookies.** We use cookies on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. We use cookies for several reasons: 
+      * **To make our site easier to use.** If you use the "Remember me" feature when you sign into your account, we may store your username in a cookie to make it quicker for you to sign in whenever you return to TINYhr. For security reasons. We use cookies to authenticate your identity, such as confirming whether you are currently logged into TINYhr.
+      * **To provide you with personalized content.** We may store user preferences, such as your default language, in cookies to personalize the content you see. We also use cookies to ensure that users can’t retake certain surveys that they have already completed.
+      * **To improve our services.** We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.
+    * **Blogs and Forums.** Our website offers publicly accessible blogs and may offer community forums in the future. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site.
+    * **Safety of Minors and COPPA.** Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). TINYhr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at [support@TINYhr.com](mailto:support@TINYhr.com).
+
+
+
+## Disclosure of Information Pursuant to Subpoena or to Protect TINYhr or Third Parties
+
+Notwithstanding anything to the contrary in this Privacy Policy, TINYhr may disclose information regarding Users (including personal information) pursuant to a valid subpoena or legal process. We will undertake good faith efforts to provide you with notice of any such subpoena or process, but this is not always possible, and you acknowledge that we do not have a legal obligation to do so. Additionally, TINYhr may disclose information regarding Users (including personal information) in order to protect the property of TINYhr or prevent any imminent damage to third party property or where there is a threat of personal injury.
