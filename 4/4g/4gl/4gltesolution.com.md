@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4gltesolution.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616210252id_/http%3A//www.4gltesolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4gltesolution.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915072328id_/http%3A//www.4gltesolution.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy 4G LTE Solution
+# Privacy Policy
 
 4G LTE Solution understands and appreciates that you are concerned about your privacy and about the confidentiality and security of information we may gain about you online and off-line. 4G LTE Solution is committed to protecting your privacy. 4G LTE Solution and its staff will adhere to the Commonwealth Privacy Act 2010 including the recently enacted National Privacy Principles.This Privacy Policy explains how your personal information will be treated as you access and interact with 4G LTE Solution
 
@@ -28,7 +28,7 @@ The 4G LTE Solution web site may contain links to other web sites. Please be awa
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at:
 
-**Email** :sales@3gmodem.com.hk
+**Email** : sales@4gltesolution.com
 
 **Tel**  : 852 69499341 Fax : 852 24201212
 
