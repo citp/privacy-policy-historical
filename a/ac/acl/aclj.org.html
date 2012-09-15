@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the aclj.org privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524205523id_/http%3A//aclj.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aclj.org privacy policy that was archived on 2012-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120915042412id_/http%3A//aclj.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="dyn routable" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# aclj-social: http://ogp.me/ns/fb/aclj-social#"> 
+<!DOCTYPE html><html lang="en" class="dyn contents" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# aclj-social: http://ogp.me/ns/fb/aclj-social#"> 
     <meta charset="utf-8">
             <title>Privacy &amp; Security Policy</title>
     <link href="/Modules/Orchard.Localization/Styles/orchard-localization-base.css" rel="stylesheet" type="text/css">
@@ -9,7 +9,7 @@
 <link href="/Themes/ACLJ.Theme/Styles/plain.css" rel="stylesheet" type="text/css">
 <meta content="Orchard" name="generator">
 <link href="/themes/aclj.theme/styles/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Modules/Orchard.jQuery/scripts/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Modules/Orchard.jQuery/scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
 <script src="/Modules/ACLJ.Scripts/scripts/jquery.base64.js" type="text/javascript"></script>
 <script src="/Modules/ACLJ.Scripts/scripts/jquery.cookie.js" type="text/javascript"></script>
 <script src="/Modules/ACLJ.Scripts/scripts/json2.js" type="text/javascript"></script>
@@ -28,7 +28,7 @@ _gaq.push(["_trackPageview"]);
 })();
 </script>
 
-    <title>Privacy &amp; Security Policy | American Center for Law and Justice ACLJ</title>
+        <title>Privacy &amp; Security Policy | American Center for Law and Justice ACLJ</title>
     <meta name="alexaVerifyID" content="GpNIY-5T1Xo1r5sfXM3oGA_bKVc">
     <meta name="Keywords" content="Privacy, &amp;, Security, Policy, ACLJ, Sekulow, Jay, Jordan, American, Center, for, Law, and, Justice, ACLJ.org">
     <meta name="Description" content="By accessing or using the ACLJ Web Site, you agree to the terms of the ACLJ Web Site Online...">
@@ -42,9 +42,31 @@ _gaq.push(["_trackPageview"]);
 
     <script>(function(d){d.className="dyn"+d.className.substring(6,d.className.length);})(document.documentElement);</script> 
 </head> 
-<body>
+    <body>
+        <div id="fb-root"></div>
+        <script>
+            window.fbAsyncInit = function () {
+                FB.init({
+                    appId: '309347342414781', // App ID
+                    channelUrl: '//www.aclj.org/channel.html', // Channel File
+                    status: true, // check login status
+                    cookie: true, // enable cookies to allow the server to access the session
+                    xfbml: true  // parse XFBML
+                });
+                // Additional initialization code here
+            };
 
-
+            // Load the SDK Asynchronously
+            (function (d) {
+                var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                if (d.getElementById(id)) { return; }
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                ref.parentNode.insertBefore(js, ref);
+            } (document));
+        </script>
+        
+        
 <div class="split-123" id="benefits-wrapper">
 <div id="layout-before-header" class="group">
     <div class="zone zone-before-header"><div id="header-bar">
@@ -70,42 +92,104 @@ _gaq.push(["_trackPageview"]);
 </div>
 <header id="layout-header" class="group">
     <div id="header">
-        <div class="zone zone-header"><div id="masthead">
-    <a href="./" class="home">ACLJ.org</a>
+        <div class="zone zone-header"><div id="big-iphone-ad" style="background-color: #fff;z-index: 2500;position:absolute;top:0;height:100%;width:100%;text-align:center;display:none;">
+    <img src="http://c427193.r93.cf2.rackcdn.com/iPadAd.jpg" alt="iPad Ad" width="768" height="643" border="0" usemap="#IpadAdMap">
+    <map name="IpadAdMap">
+        <area class="close" shape="rect" coords="237,552,377,587" href="#">
+        <area class="close" shape="circle" coords="667,54,17" href="#">
+        <area class="open" shape="rect" coords="53,228,453,538" href="#">
+    </map>
+</div>
+<script type="text/javascript">
+    $("area.close").live('click', function (e) {
+        closeAd();
+        e.preventDefault();
+    });
+    $("area.open").live('click', function (e) {
+        openAppPage();
+        e.preventDefault();
+    });
+    function getCookies() { //http://www.haiders.net/post/Accessing-Cookie-with-Javascript.aspx
+        var cks = new Object();
+        var ckList = document.cookie.split("; ");
+        for (var i = 0; i < ckList.length; i++) {
+            var ck = ckList[i].split("=");
+            cks[ck[0]] = unescape(ck[1]);
+        }
+        return cks;
+    }
+    function setCookie(c_name, value, exdays) { //http://www.w3schools.com/js/js_cookies.asp
+        var exdate = new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+        document.cookie = c_name + "=" + c_value + "; path=" + escape("/");
+        cookies[c_name] = value;
+    }
+    var cookies = getCookies();
+    function getQueryParams() {
+        var qs = document.location.search;
+        //http://stackoverflow.com/questions/979975/how-to-get-the-value-from-url-parameter
+        qs = qs.split("+").join(" ");
+
+        var params = {}, tokens,
+            re = /[?&]?([^=]+)=([^&]*)/g;
+
+        while (tokens = re.exec(qs)) {
+            params[decodeURIComponent(tokens[1])]
+                = decodeURIComponent(tokens[2]);
+        }
+
+        return params;
+    }
+    var queryString = getQueryParams();
+    if ((navigator.userAgent.indexOf("iPad; CPU OS 5") != -1 || navigator.userAgent.indexOf("iPad; CPU OS 6") != -1) && queryString["return"] == null) {
+        //NOTE: queryString["return"] is set when coming from our iphone app so we don't need to advertise to those users.
+        //check for os5 on an iphone
+        if (cookies["hide-big-iphone-ad"] == null) {
+            $("#big-iphone-ad").detach().prependTo("body").show();
+        }
+    }
+    function closeAd() {
+        setCookie("hide-big-iphone-ad", "true", 30);
+        $("#big-iphone-ad").hide();
+        return false;
+    }
+    function openAppPage() {
+        window.location.href = "http://itunes.apple.com/us/app/the-aclj-social-action-app/id501155881";
+        return false;
+    }
+</script>
+<div id="masthead">
+    <a href="./" title="Jay Sekulow" class="home">ACLJ.org</a>
     <section class="layout-radio-mast">
 		<img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/on-radio-today.png" alt="On Radio today">
-		        <a href="http://aclj.org/RadioPlayer/faith-under-attack-america-military/player" onclick="centeredPopup(this.href,'myWindow','260','600','yes');return false;" class="">
-<img src="http://c0391070.cdn2.cloudfiles.rackspacecloud.com/hdr/rtrq6jb.jpg?v=9" width="120" height="80" alt="NAVY LT JAMES WEST PREPARES PROTESTANT SERVICE AT CAMP RHINO.">        </a>
+		        <a href="http://aclj.org/RadioPlayer/calls-to-end-middle-east-funding-grow/Player" onclick="centeredPopup(this.href,'myWindow','260','600','yes');return false;" class="">
+<img src="http://c0391070.cdn2.cloudfiles.rackspacecloud.com/hdr/RTR37X1L.jpg?v=7" width="120" height="80" alt="Egyptian flag U.S. embassy">        </a>
 
-		<h2>        <a href="http://aclj.org/RadioPlayer/faith-under-attack-america-military/player" onclick="centeredPopup(this.href,'myWindow','260','600','yes');return false;" class="">
-            Faith Under Attack in the Military
+		<h2>        <a href="http://aclj.org/RadioPlayer/calls-to-end-middle-east-funding-grow/Player" onclick="centeredPopup(this.href,'myWindow','260','600','yes');return false;" class="">
+            More Calls to End Middle East Funds
         </a>
 </h2>
 		<ul>
-			<li>        <a href="http://aclj.org/RadioPlayer/faith-under-attack-america-military/player" onclick="centeredPopup(this.href,'myWindow','260','600','yes');return false;" class="">
+			<li>        <a href="http://aclj.org/RadioPlayer/calls-to-end-middle-east-funding-grow/Player" onclick="centeredPopup(this.href,'myWindow','260','600','yes');return false;" class="">
                 <img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/Header Graphics/ListenNow.png" alt="Listen Now">
         </a>
 </li>
-            <li>        <a href="http://aclj.org/military-prayer/military-chaplains-must-not-forced-perform-same-sex-marriage">
+            <li>        <a href="http://aclj.org/radical-islam/stop-funding-middle-east-terrorists">
                 <img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/Header Graphics/Sign.png" alt="Sign petition button">
         </a>
 </li>
-            <li>        <a href="http://aclj.org/donate"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/radio-action-donate.png" alt="Donate button"></a>
+            <li>        <a href="http://aclj.org/donate"><img src="http://images.aclj.org/radio-action-donate.png" alt="Donate button"></a>
 </li>
 		</ul>
 	</section>
 </div>
-<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=309347342414781&amp;xfbml=1"></script>
-<script type="text/javascript">
-    FB.init({
-        appId: '309347342414781', cookie: true,
-        status: true, xfbml: true
-    });
-</script></div>
+</div>
     </div>
 </header>
     <div id="layout-navigation" class="group">
-        <div class="zone zone-navigation"><!--[if IE]>
+        <div class="zone zone-navigation"><article class="widget-MainMenu widget-navigation widget-menu-widget widget">
+    <!--[if IE]>
 			<style type="text/css">
 				nav form.search-form input#q {
                     padding-top: 4px;
@@ -114,7 +198,7 @@ _gaq.push(["_trackPageview"]);
 			</style>
 		<![endif]-->
 <nav>
-    <ul class="menu menu-main">
+    <ul class="menu menu-main-menu">
         
         
 <li class="home">    <a href="/">Home</a>
@@ -152,7 +236,8 @@ _gaq.push(["_trackPageview"]);
         });
     });
 </script>
-</div>
+
+</article></div>
     </div>
 <div id="layout-featured" class="group">
 </div>
@@ -168,7 +253,8 @@ _gaq.push(["_trackPageview"]);
                                     <div id="content" class="group">
                                         <div class="zone zone-content"><article class="content-item page">
     <header>
-        <h1>Privacy &amp; Security Policy</h1>
+        
+<h1>Privacy &amp; Security Policy</h1>
 
         <div class="metadata">
             <div class="published">Jun 20 2011 4:07 PM</div>
@@ -207,9 +293,9 @@ _gaq.push(["_trackPageview"]);
     <h3>
         MOST <span>POPULAR</span></h3>
     <ul>
-            <li><a href="/iran/letter-pastor-youcef-thanks-supporters-urges-prayer">Letter from Pastor Youcef Thanks Supporters and Urges Prayer</a></li>
-            <li><a href="/war-on-terror/911-defendants-impose-religious-views-disrupting-court-proceedings">9/11 Defendants Impose Their Religious Views While Disrupting Court...</a></li>
-            <li><a href="/iran/pastor-youcef-movie-fact-fiction">Pastor Youcef the Movie: Fact or Fiction</a></li>
+                    <li><a href="/ACLJ.Blog/DocketBlog/Item?blogId=28539">The Left Loves Science?</a></li>
+                    <li><a href="/iran/youcef-freed">Victory: Pastor Youcef Nadarkhani Freed!</a></li>
+                    <li><a href="/pro-life/victory-nurses-allowed-to-stand-for-life">Victory: Nurses Allowed to Stand for Life</a></li>
     </ul>
 </div>
 </div>
@@ -219,7 +305,6 @@ _gaq.push(["_trackPageview"]);
     <strong>Sections</strong>
     <ul>
         <li><a href="http://aclj.org/jay-sekulow">About Jay Sekulow</a></li>
-        <li><a href="http://aclj.org/jordan-sekulow">About Jordan Sekulow</a></li>
         <li><a href="http://aclj.org/our-mission/acljworldwide-impact">Global Impact</a></li>
         <li><a href="http://aclj.org/get-legal-help/get-our-legal-help">Get Legal Help</a></li>
         <li><a href="http://aclj.org/our-mission/jaysekulow-supremecourt">Supreme Court Cases</a></li>
@@ -245,7 +330,7 @@ _gaq.push(["_trackPageview"]);
     <h3>
         SIGN UP FOR <span>EMAIL UPDATES</span></h3>
         
-<form action="/Register/Mini" method="post"><input name="__RequestVerificationToken" type="hidden" value="9SH/pVio3iQr2ZkakCCc6we4i7UQZG7vc+vq7M8fCkHdT2R21oiI/o9pagrWT0gVOfyRHf0K5OkZovbqFshP5kOul3dHoEkE+yPwsUt30PzfavrRlOIWJdlmjNtYL489qfbxSxs7NpVJZ5w/M3dEdzEdajUnSterQFv6BjUAWHCbBZyI+oJ2O98VIM2pxAPHzGlUFcvIsstGcRCrOP6vfg==">        <div style="clear: both;">
+<form action="/Register/Mini" method="post"><input name="__RequestVerificationToken" type="hidden" value="nBPNmUQ3uDrnbdqslQSJSKsmUImakvOBv8dsTXWGStc5jbPFuq3NG+QN/luDaG3jJFl7GZRoinoRKjwrx0m7nWpYuC7q55D/8gfD/HeyxVKNDpF3n4ZelsT9jw9hGmWDh/T7ivhUwC7PKphGX9I4ANZnR7sRzktWao6nbKvh7++z4D1B">        <div style="clear: both;">
         </div>
         <label style="font-size: 80%">Yes! Please keep me updated with informative emails from ACLJ</label>
         <input type="text" value="First Name" class="first wm_required" name="First">
@@ -302,7 +387,7 @@ _gaq.push(["_trackPageview"]);
         <span class="social-footer-group first">
             <span>Connect with ACLJ</span>
             <a title="ACLJ's Facebook page" href="http://facebook.com/theACLJ"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/facebook.png" alt="ACLJ Facebook"></a>
-            <a title="ACLJ on Twitter" href="http://twitter.com/OfficialACLJ"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/twitter.png" alt="ACLJ Twitter"></a>
+            <a title="ACLJ on Twitter" href="http://twitter.com/ACLJ"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/twitter.png" alt="ACLJ Twitter"></a>
             <a title="ACLJ on YouTube" href="http://youtube.com/OfficialACLJ"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/youtube.png" alt="ACLJ YouTube"></a>
         </span>
         <span class="social-footer-group">
@@ -318,11 +403,6 @@ _gaq.push(["_trackPageview"]);
             <a title="Jay Sekulow BeliefNet" href="http://blog.beliefnet.com/faithandjustice/author/jay_sekulow/"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/BeliefNet.png" alt="Jay Sekulow BeliefNet"></a>
         </span>
         <span class="social-footer-group last">
-            <span>Connect with <a title="Jordan Sekulow" href="http://JordanSekulow.com">Jordan Sekulow</a></span>
-            <a title="Jordan Sekulow" href="http://JordanSekulow.com"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/JSS.png" alt="Jordan Sekulow"></a>
-            <a title="Jordan Sekulow Show" href="http://facebook.com/JordanSekulowShow"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/facebook.png" alt="Jordan Sekulow Show Facebook"></a>
-            <a title="Jordan Sekulow Twitter" href="http://twitter.com/JordanSekulow"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/twitter.png" alt="Jordan Sekulow Twitter"></a>
-            <a title="Jordan Sekulow Washington Post" href="http://www.washingtonpost.com/blogs/religious-right-now"><img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/homepage/SocialFooter/WashingtonPost.png" alt="Jordan Sekulow Washington Post"></a>
         </span>
     </div>
 </div>
@@ -333,16 +413,6 @@ _gaq.push(["_trackPageview"]);
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
     })();
 </script>
-<div id="fb-root"></div>
-<script>
-    (function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) { return; }
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-        fjs.parentNode.insertBefore(js, fjs);
-    } (document, 'script', 'facebook-jssdk'));
-</script>
 </div>
 </div>
 </footer> </div>
@@ -352,12 +422,20 @@ _gaq.push(["_trackPageview"]);
         <div id="bottom-site-social-floater-spacer" style="height:100px">
             &nbsp;
         </div>
-    <div id="bottom-site-social-floater">
-        <div>
+    <div id="bottom-site-social-floater" style="overflow: hidden; height: 101.849px;">
+        <div id="aclj-social-site-footer" style="display:none;">
             <div class="fb-like" data-href="http://facebook.com/theaclj" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
             <img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/pop-up-footer/&amp;.png">
             <div id="bottom-site-social-floater-twitter-button">
-                <a href="https://twitter.com/OfficialACLJ" class="twitter-follow-button" data-show-count="false">Follow @OfficialACLJ</a>
+                <a href="https://twitter.com/ACLJ" class="twitter-follow-button" data-show-count="false">Follow @ACLJ</a>
+            </div>
+            <a href="javascript:;" id="close-bottom-site-social-floater">X</a>
+        </div>
+        <div id="jay-social-site-footer" style="">
+            <div class="fb-like" data-href="http://www.facebook.com/JaySekulow" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+            <img src="http://c0427193.cdn2.cloudfiles.rackspacecloud.com/pop-up-footer/&amp;.png">
+            <div id="bottom-site-social-floater-twitter-button">
+                <a href="https://twitter.com/JaySekulow" class="twitter-follow-button" data-show-count="false">Follow @Jay Sekulow</a>
             </div>
             <a href="javascript:;" id="close-bottom-site-social-floater">X</a>
         </div>
@@ -404,6 +482,11 @@ _gaq.push(["_trackPageview"]);
         var cookies = getCookies();
         $(function () {
             if (cookies["bottomBarVisible"] != "false") {
+                if (Math.random() > 0.5) {
+                    $("#aclj-social-site-footer").show();
+                }else {
+                    $("#jay-social-site-footer").show();
+                }
                 $("#bottom-site-social-floater").animate({ height: '172px' }, 1000, function () { });
             }
         });
@@ -411,6 +494,7 @@ _gaq.push(["_trackPageview"]);
 
 </div>
 
+        <script src="/Modules/ACLJ.Scripts/scripts/site.js" type="text/javascript"></script>
 <script src="http://s7.addthis.com/js/250/addthis_widget.js#async=1" type="text/javascript"></script>
 <script src="/Modules/ACLJ.Scripts/scripts/aclj.initAddThis.js" type="text/javascript"></script>
 <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
@@ -458,5 +542,5 @@ _gaq.push(["_trackPageview"]);
     </script>
 
 
-
+    
 </body></html>
