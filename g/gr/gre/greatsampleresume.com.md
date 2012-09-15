@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatsampleresume.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625141616id_/http%3A//www.greatsampleresume.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatsampleresume.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915025903id_/http%3A//www.greatsampleresume.com/privacy.php) for the most accurate reproduction.*
 
 # GreatSampleResume.com - Privacy Policy
 
