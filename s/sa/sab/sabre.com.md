@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614065408id_/http%3A//www.sabre.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915050237id_/http%3A//www.sabre.com/home/privacy_policy) for the most accurate reproduction.*
 
 # None
 
