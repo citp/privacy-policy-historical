@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laylagrayce.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101230708id_/http%3A//www.laylagrayce.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laylagrayce.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915131117id_/http%3A//www.laylagrayce.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
