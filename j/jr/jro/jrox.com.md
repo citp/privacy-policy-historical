@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145354id_/http%3A//www.jrox.com/content/article/10/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915095740id_/http%3A//www.jrox.com/content/article/10/privacy-policy) for the most accurate reproduction.*
 
 # JROX.COM - eCommerce Innovations - Privacy Policy
 
