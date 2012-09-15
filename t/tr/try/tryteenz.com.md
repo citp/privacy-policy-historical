@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tryteenz.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222802id_/http%3A//tryteenz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryteenz.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915081254id_/http%3A//tryteenz.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 Privacy Policy
 
@@ -8,7 +8,7 @@ Replace or add your information in RED, where applicable:
 Our Commitment To Privacy   
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 The Information We Collect: email address. We do not collect any other customer information. Please see our payment processor's Privacy Policy concerning collected information.   
-This notice applies to all information collected or submitted on TryTeens website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+This notice applies to all information collected or submitted on TryTeens.com website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
 Email address.
 
 The Way We Use Information:   
