@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiansunite.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504162825id_/http%3A//www.christiansunite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiansunite.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915051834id_/http%3A//www.christiansunite.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
