@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615082214id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915042923id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
 
 # Motivators Privacy Policy, Commitment to Data Security, Motivators Information
 
