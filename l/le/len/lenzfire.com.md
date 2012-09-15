@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lenzfire.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516124910id_/http%3A//lenzfire.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenzfire.com privacy policy that was archived on 2012-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120916001206id_/http%3A//lenzfire.com/privacy-policy-terms) for the most accurate reproduction.*
 
-# Privacy Policy - Lenzfire
+# Privacy Policy
 
 ## For Lenzfire.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **Arun@Lenzfire.com**.
 
-At lenzfire.com, the privacy of our visitors is of extreme importance to us. This   privacy policy document outlines the types of personal information is received and collected by lenzfire.com and how it is used.
+At _lenzfire_.com, the privacy of our visitors is of extreme importance to us. This   privacy policy document outlines the types of personal information is received and collected by _lenzfire_.com and how it is used.
 
 ### Log Files
 
