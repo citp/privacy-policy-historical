@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westelm.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615101106id_/http%3A//www.westelm.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav%26cm_sp%3DGlobalLinks-_-Footer-_-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westelm.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915034602id_/http%3A//www.westelm.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav%26cm_sp%3DGlobalLinks-_-Footer-_-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | west elm
 
