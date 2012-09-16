@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the gotvape.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106140336id_/http%3A//www.gotvape.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvape.com privacy policy that was archived on 2012-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120916231938id_/http%3A//www.gotvape.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  *     * The product iolite Vaporizer Optimizer has been added to comparison list.
-    * iolite Vaporizer Comfort Care Package was added to your shopping cart.
-
-
 
 ## GotVape.com Privacy Policy
 
