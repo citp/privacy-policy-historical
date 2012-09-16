@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603140220id_/http%3A//prommanow.com/index.php/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2012-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120917002621id_/http%3A//prommanow.com/awards/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
