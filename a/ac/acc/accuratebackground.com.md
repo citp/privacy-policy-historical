@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515072534id_/http%3A//accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2012-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120916060704id_/http%3A//accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
 
 # Privacy Policy / Terms of Use | Accurate Background, Inc
 
@@ -34,7 +34,7 @@ Accurate Background, Inc.
 Lake Forest, CA 92630   
 800.784.3911  
 [ customer_service@accuratebackground.com](mailto:customer_service@accuratebackground.com)  
-[ www.accuratebackground.com](https://web.archive.org/web/20120515072534id_/http%3A//accuratebackground.com/index.php)
+[ www.accuratebackground.com](https://web.archive.org/web/20120916060704id_/http%3A//accuratebackground.com/index.php)
 
 **Effective Date:** January 18, 2008
 
