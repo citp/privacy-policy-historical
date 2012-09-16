@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkroller.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101004731id_/http%3A//linkroller.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkroller.com privacy policy that was archived on 2012-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120916172439id_/http%3A//linkroller.com/privacy) for the most accurate reproduction.*
 
 # Linkroller.com Privacy Policy
 
