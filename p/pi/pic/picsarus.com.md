@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picsarus.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614091720id_/http%3A//www.picsarus.com/picsarus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsarus.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918005205id_/http%3A//www.picsarus.com/picsarus) for the most accurate reproduction.*
 
-# Picsarus
+# Picsarus: Simple single image photo sharing
 
 All information provided by the user is strictly confidential. Picsar.us reserves the right to distribute aggregated demographic information provided by the user, but Picsar.us will never release any personal information about the user without permission. However, Picsar.us reserves the right to release user information if user has violated the Picsar.us [Terms of Service](www.http://www.picsar.us/terms), if the information is subpoenaed, or if the user has committed unlawful acts.
 
