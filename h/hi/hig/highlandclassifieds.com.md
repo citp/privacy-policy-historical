@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlandclassifieds.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529174307id_/http%3A//www.highlandclassifieds.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlandclassifieds.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918132047id_/http%3A//www.highlandclassifieds.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Highland Classifieds - Privacy Policy
 
