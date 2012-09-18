@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520123347id_/http%3A//gasbuddy.com/gb_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918204436id_/http%3A//gasbuddy.com/gb_privacy.aspx) for the most accurate reproduction.*
 
 # GasBuddy Privacy Policy - GasBuddy.com
 
