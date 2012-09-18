@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loglod.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513135947id_/http%3A//www.loglod.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loglod.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918061922id_/http%3A//www.loglod.com/page/1.html) for the most accurate reproduction.*
 
 # Free Online Games - Privacy Policy
 
