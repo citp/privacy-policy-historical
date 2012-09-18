@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the dealerrater.com privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622113233id_/http%3A//www.dealerrater.com/info/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealerrater.com privacy policy that was archived on 2012-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120918130052id_/http%3A//www.dealerrater.com/info/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head id="ctl00_Head1">
-	<link rel="stylesheet" href="http://cdn.dealerrater.com/includes/style.css?version=US-26" type="text/css">
+	<link rel="stylesheet" href="http://cdn.dealerrater.com/includes/style.css?version=US-27" type="text/css">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn.dealerrater.com/includes/general.js" type="text/javascript"></script>
 	<script type="text/javascript" src="http://cdn.dealerrater.com/includes/ajaxSuggestions.js"></script>
     <script type="text/javascript" src="http://cdn.dealerrater.com/includes/cookie.js"></script>
@@ -25,6 +25,11 @@
         _gaq.push(['_trackPageview']);
         _gaq.push(['_trackPageLoadTime']);
 
+		 function recordOutboundLink(link, category, action, label, value, noninteraction) {
+		 	_gaq.push(['_trackEvent', category, action, label, value, noninteraction]);
+			setTimeout('document.location = "' + link.href + '"', 100);
+		  }
+
         (function () {
             var ga = document.createElement('script');
             ga.type = 'text/javascript';
@@ -34,6 +39,8 @@
             s.parentNode.insertBefore(ga, s);
         })();
     </script>
+
+
 <title>
 	DealerRater Privacy Policy
 </title></head>
@@ -41,17 +48,11 @@
 
 	<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm" style="margin: 0px;">
 <input type="hidden" name="ctl00_scriptManager_HiddenField" id="ctl00_scriptManager_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTcxNjUxMjk2ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkYnRuU2VhcmNopqGgwlbMScKyh1z0XJbz6GOuC4I=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5MDcyOTQ5NDNkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ9jdGwwMCRidG5TZWFyY2ix2HvCnkPs515anmH2nexaQAZTVQ==">
 
 
-<script src="/ScriptResource.axd?d=h4hsIvdamrUUFCSkzhZG6AWYtMxijZNzvfR-ANAyas_CW76btV17pUMXs8-XyObq9njtY4Ga6leWqirwsoI9SXVFAlqm-hXMsqWRBsvRFms2e1Zv7zCM7WmHbi2MwSRtBi_S-w2&amp;t=245582f9" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKLrLnNCAKakcPUBQL9n+COAl3/HSYVET9SrT//THZIJylEBVrM">
+<script src="/ScriptResource.axd?d=kKEM99ezxaqMSI3P5gJW4PB0gddPr-MBrb45DM5KeoNVE3MDyxnQr7eAKSamUIR0O8WdDZZXDF4cubAWOtYBjb3w07LZ80hrMLlNASQFBZ41GRN80&amp;t=245582f9" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLl2PymBQKakcPUBQL9n+COAqmwnTo39u2b8X/znuCEi2yRm/sK">
         
 		<div id="shell">
 			<div id="siteShell">
@@ -312,40 +313,45 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 		<div id="whiteBox" style="padding: 10px;">
 			<div id="ctl00_middleContent_privacyTextGlobal">
 	
-                This web site is the property of DealerRater.com, LLC
-			    <br><br>
+                DealerRater® was founded in 2002 as the first car dealer review website worldwide. Our website, <a href="http://www.dealerrater.com/">www.dealerrater.com</a> (the "<b>Website</b>"), is part of the DealerRater network and is operated by DR Media Holdings, LLC ("<b>DR</b>").<br><br>
 
-			    Our postal address is<br>
-			    PO Box 541451<br>
-			    Waltham, MA 02454-1451<br><br>
+                We take your privacy seriously, and work to ensure the security and confidentiality of the personal information you provide to us. Please read this Policy to learn more about how we protect your privacy before using this Website or submitting your personal information. By using this Website or submitting personal information, you consent to the collection, use, and disclosure of your personal information (as defined below) in accordance with the practices described herein. If you do not agree with these terms, do not use this Website or provide any personal information to us.<br><br>
 
-                We can be reached via our contact form at <a href="http://www.dealerrater.com/company/contact-us.aspx">http://www.dealerrater.com/company/contact-us.aspx</a>.<br><br>
+                <b>What Personal Information We Collect</b><br>
+                DR collects personal information relevant to your use and the operation of the Website, including but not limited to your name, mailing address, phone number, e-mail address, and payment information (including credit card numbers) ("<b>Personal Information</b>").<br><br>
 
-                For each visitor to our Web page, our Web server automatically recognizes the consumer's IP address.<br><br>
+                <b>How We Use Your Personal Information</b><br>
+                DR will use your Personal Information to operate and facilitate your use of the Website, including but not limited to internal review, to improve the content of the Website, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of the Website. DR does not store your payment information, and will only use it for processing.<br><br>
 
-                <b>Information Collection</b><br>
-                We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer such as survey information and/or site registrations, payment information including credit card numbers (which we use solely for processing and do not store) and billing addresses and the email addresses of those who register to post reviews. <br><br>
-
-                The information we collect is used for internal review, used to improve the content of our Web page, disclosed when legally required to do so at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website. <br><br>
-
-                <b>Cookies</b><br>
-                We use cookies to store visitors’ login status. <br><br>
-
-                <b>Ad Servers</b><br>
-                In an effort to display offers that might be of interest to you and our other site visitors, we have relationships with other companies that we allow to place ads on our Web pages.  As a result of your visit to our site, ad server companies may collect information such as your domain type, IP address and clickstream information.  For further information, consult the following privacy policy:<br><br>
-                <a href="http://www.google.com/privacypolicy.html">http://www.google.com/privacypolicy.html</a><br><br>
-
-                Upon request we provide site visitors with access to information that we have collected and that we maintain about them. <br><br>
+                <b>With Whom We Share Your Personal Information</b><br>
+                DR will not sell your personal information to third parties.  In an effort to display offers that may be of interest to you, we have relationships with other companies that we allow to place ads on our Website. As a result of your use of the Website, such ad server companies may collect information such as your domain type, IP address and clickstream information.  DR may engage third parties to help us provide the Website and manage our business, although these organizations are subject to confidentiality obligations and may only use your Personal Information for the purposes DR defines.<br><br>
+                
+                Beyond what is explained in this Policy, DR will not disclose your Personal Information to third parties unless disclosure is reasonably necessary as part of a transaction to sell all or part of the DR business, to comply with law, law enforcement officials, in response to a validly issued subpoena, warrant, court order, or is otherwise permitted by applicable law.<br><br>
 
                 <b>Dealership Accounts</b><br>
-                Accounts belonging to dealerships may privately contact reviewers through our site on items related to a consumer review. When dealers make such contact, email addresses are not provided to either party without prior consent. <br><br>
+                Accounts belonging to dealerships may privately contact reviewers through our site on items related to a consumer review.  When dealers make such contact, email addresses are not provided to either party without prior consent.<br><br>
 
-                Consumers can have this information corrected by visiting us at <a href="http://www.dealerrater.com/company/contact-us.aspx">http://www.dealerrater.com/company/contact-us.aspx</a>.<br><br>
+                <b>How You Can Access or Correct Your Personal Information</b><br>
+                You can generally access, review and update your Personal Information by logging in to your My Account page <a href="https://www.dealerrater.com/account/">here</a> and making the necessary changes. If you have any difficulty doing so or have other questions about the Personal Information we hold about you, please contact us at <a href="mailto:support@dealerrater.com">support@dealerrater.com</a>.<br><br>
+                
+                To protect your privacy, we and our authorized employees and agents will take reasonable steps to verify your identity before granting you access to or making corrections to your Personal Information.<br><br>
 
-                <b>Security Measures</b><br>
-                We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you through our site.  When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and encrypt the traffic using SSL. <br><br>
-			    <br><br>
-			    - The DealerRater Team<br><br>
+                <b>Cookies</b><br>
+                DR uses "cookies" and other technologies to collect data that enables us to better understand and improve the usability, performance and effectiveness of the Website. Cookies are files sent to your browser and stored on your computer. If you do not want DR to send cookies to your browser, you can set your browser options to reject cookies or notify you when a web site tries to put a cookie into your browser software. Rejecting cookies may affect your ability to use some features of the Website. <br><br>
+                
+                DR gathers general information about visits to the Website. DR uses this information to understand traffic on the Website, provide you with technical support, improve the Website, and provide the best online experience possible for our Users.<br><br>
+
+                <b>How We Protect Your Personal Information</b><br>
+                We take reasonable steps to protect your Personal Information in our custody or control from unauthorized access, use and disclosure, using security measures that are appropriate having regard to the sensitivity of the information.  Our employees are trained and required to abide by our Privacy Policy.  Unfortunately, however, due to the nature of the Internet it is impossible to guarantee the security of your information.<br><br>
+
+                <b>Children’s Privacy</b><br>
+                DR is very concerned about protecting the privacy of children. DR does not intend to collect any personally identifiable information from children under 13 years old or knowingly distribute such information. Children under 13 are not permitted to use the Website, and we request that children under 13 not submit any Personal Information to DR. If a child under 13 has provided DR with Personal Information, the parent or guardian of that child should contact DR immediately at <a href="mailto:karen@dealerrater.com">karen@dealerrater.com</a> to delete this information from our files.<br><br>
+
+                <b>External Links</b><br>
+                Where any links found on the Website link to pages not belonging to DR, those external pages are not governed by this Privacy Policy. We recommend that you read the privacy statements posted on those other pages to understand their procedures for collecting, using, and disclosing Personal Information.<br><br>
+
+                <b>Amendment to this Privacy Policy</b><br>
+                Please note that DR may change this Privacy Policy at any time and will post an updated version on the Website highlighting the fact that it has changed and indicating the date of the change. Please revisit this Policy from time to time to ensure that you are comfortable with how DR is handling your Personal Information.<br><br>
             
 </div>
 			
@@ -357,7 +363,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 					</div>
 					<div id="footer">
 						<a href="http://www.dealerrater.com/reviews/" title="Car Dealer Reviews">Car Dealer Reviews</a> | <a href="http://www.dealerrater.com/classifieds/" title="Cars For Sale">Cars For Sale</a> | <a href="http://www.dealerrater.com/company/about-us.aspx" title="About DealerRater">About Us</a> | <a href="http://www.dealerrater.com/company/advertising.aspx" title="Advertise With Us">Advertising</a> | <a href="http://www.dealerrater.com/company/contact-us.aspx" title="Contact Us">Contact Us</a> | <a href="javascript: document.location = '/login.aspx?ReturnUrl=' + location.href;" title="Log in">Log in</a><br>
-						Copyright 2012 DealerRater.com, LLC - <a href="http://www.dealerrater.com/info/privacy.aspx" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.dealerrater.com/info/tou.aspx" title="Terms of Use">Terms of Use</a>
+						Copyright 2012 DR Media Holdings, LLC - <a href="http://www.dealerrater.com/info/privacy.aspx" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.dealerrater.com/info/tou.aspx" title="Terms of Use">Terms of Use</a>
 					</div>
 				</div>
 			</div>
