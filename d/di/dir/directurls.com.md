@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the directurls.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608104205id_/http%3A//www.directurls.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directurls.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918082057id_/http%3A//www.directurls.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=sdscripts)
 
 | 
 
