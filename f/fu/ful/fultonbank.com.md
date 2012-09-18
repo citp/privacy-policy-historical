@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fultonbank.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617234837id_/http%3A//www.fult.com/privacy_prin.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fultonbank.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918202803id_/http%3A//www.fult.com/privacy_prin.asp) for the most accurate reproduction.*
 
 # Fulton Financial Corporation
 
 **About Us**
 
-Fulton Financial Corporation (FFC) is a financial holding company headquartered in Lancaster, Pennsylvania. We are engaged, through our banking and other subsidiaries, in the business of providing financial services to customers located primarily in Pennsylvania, New Jersey, Maryland, Delaware and Virginia. FFC's banking subsidiaries include: Fulton Bank, N.A., Lancaster, Pennsylvania; Fulton Bank of New Jersey, Mount Laurel, New Jersey; FNB Bank, N.A., Danville, Pennsylvania; Lafayette Ambassador Bank, Easton, Pennsylvania; Swineford National Bank, Middleburg, Pennsylvania; The Columbia Bank, Columbia, Maryland. FFC's non-banking subsidiaries include: Fulton Insurance Services Group, Inc.; CW and Company of Virginia, d/b/a Real Estate Investment Protection Agency.
+Fulton Financial Corporation (FFC) is a financial holding company headquartered in Lancaster, Pennsylvania. We are engaged, through our banking and other subsidiaries, in the business of providing financial services to customers located primarily in Pennsylvania, New Jersey, Maryland, Delaware and Virginia. FFC's banking subsidiaries include: Fulton Bank, N.A., Lancaster, Pennsylvania; Fulton Bank of New Jersey, Mount Laurel, New Jersey; FNB Bank, N.A., Danville, Pennsylvania; Lafayette Ambassador Bank, Easton, Pennsylvania; Swineford National Bank, Middleburg, Pennsylvania; The Columbia Bank, Columbia, Maryland. FFC's non-banking subsidiaries include: Fulton Life Insurance Company; Fulton Insurance Services Group, Inc.; CW and Company of Virginia, d/b/a Real Estate Investment Protection Agency; Resource Service Corporation; Bankers Insurance, LLC; Mortgage Resources, LLP. 
 
 **Terminology Used in This Notice**
 
@@ -12,7 +12,7 @@ The term "our affiliates" refers to any one or more of FFC and its banking and n
 
 **Why We Collect Information About You**
 
-We collect and use information about you only where we reasonably believe the information will be necessary or useful in providing you with the products and services you request from us, as well as to help us identify new opportunities to provide products, services and information to help you achieve financial success. The information we collect and use about you helps us to maintain the security of your accounts with us, improve the customer service we provide you, and operate more efficiently.
+We collect and use information about you only where we reasonably believe the information will be necessary or useful in providing you with the products and services you request from us, as well as to help us identify new opportunities to provide products, services and information to help you achieve financial success. The information we collect and use about you helps us to maintain the security of your accounts with us, improve the customer service we provide you, and operate more efficiently. 
 
 **How We Protect the Information We Collect**
 
@@ -62,7 +62,16 @@ You may direct us not to allow our affiliates to use your nonpublic personal inf
 
 **How to Opt Out**
 
-You may direct us not to disclose additional information about you to our affiliates and not to allow our affiliates to use your nonpublic personal information that we disclose to them to market their products or services to you by filling out a privacy notice, which can be obtained from a branch, and mailing it to us.
+You may direct us not to disclose additional information about you to our affiliates and not to allow our affiliates to use your nonpublic personal information that we disclose to them to market their products or services to you by filling out a privacy notice, which can be obtained from a branch, and mailing it to us, or by visiting one of the following websites for any of our affiliates with which you do business: 
+
+Fulton Bank: <http://www.fultonbank.com/privacyoptout>   
+Fulton Bank of New Jersey: <http://www.fultonbanknj.com/privacyoptout>   
+Lafayette Ambassador Bank: <http://www.lafambank.com/privacyoptout>   
+The Columbia Bank: <http://www.thecolumbiabank.com/privacyoptout>   
+Swineford National Bank: <http://www.swineford.com/privacyoptout>   
+FNB Bank: <http://www.fnbbank.com/privacyoptout>
+
+Your opt-out will apply to all FFC affiliates with whom you do business. In other words, if you have an account with more than one of our affiliates, you do not need to opt out for each one separately.
 
 **Joint Accounts**
 
