@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txcourts.gov privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519121024id_/http%3A//www.txcourts.gov/rules/ppolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txcourts.gov privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918084344id_/http%3A//www.txcourts.gov/rules/ppolicy.asp) for the most accurate reproduction.*
 
 # Texas Courts Online | Committees & Task Forces
 
