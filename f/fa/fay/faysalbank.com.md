@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faysalbank.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000818id_/http%3A//www.faysalbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faysalbank.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192843id_/http%3A//www.faysalbank.com/privacy.html) for the most accurate reproduction.*
 
 # Faysal Bank
 
