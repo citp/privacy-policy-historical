@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the serato.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620005750id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serato.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225701id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
 
 # Serato Websites Privacy Policy | Serato.com
-
-[Legal](https://web.archive.org/legal)
-
-Serato Websites Privacy Policy
 
 #### Introduction
 
