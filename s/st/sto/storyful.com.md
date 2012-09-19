@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyful.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625113918id_/http%3A//storyful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyful.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204556id_/http%3A//storyful.com/privacy) for the most accurate reproduction.*
 
 # Storyful
 
