@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615162056id_/http%3A//www.nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920004904id_/http%3A//nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
 
-# National Career Fairs Privacy Policy
+# National Career Fairs
 
 This is the web site of **National Career Fairs**.
 
@@ -34,7 +34,7 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://tiburonmedia.com/Privacy_policy.htm
+http://www.permissiondata.com/privacy.html 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
