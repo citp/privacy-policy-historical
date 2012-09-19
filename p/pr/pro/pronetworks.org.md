@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pronetworks.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230608id_/http%3A//www.pronetworks.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronetworks.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012724id_/http%3A//www.pronetworks.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PROnetworks Technology
 
