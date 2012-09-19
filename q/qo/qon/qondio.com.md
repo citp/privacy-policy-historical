@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420161628id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015745id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Qondio
 
@@ -53,10 +53,10 @@ In case where Qondio has been subject to abuse by the user, or the user has harm
 
 Welcome to Qondio! Discover the awesome power this network can deliver by going to our [About](http://admin.qondio.com/about) page. Or you could skip straight to the [Sign Up form](http://www.qondio.com/content.power?a=signup). 
 
-| Users|  **35,787**  
+| Users|  **35,824**  
 ---|---  
-Intel|  **41,155**  
-Sites|  **10,111**  
+Intel|  **41,216**  
+Sites|  **10,135**  
   
 
 
