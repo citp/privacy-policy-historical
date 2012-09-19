@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmrealty.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504044124id_/http%3A//www.fmrealty.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmrealty.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013938id_/http%3A//www.fmrealty.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Fonville Morisey Privacy Policy
 
@@ -38,4 +38,4 @@ We are pledged to the letter and spirit of U.S. policy for the achievement of eq
 For more information, contact   
 Beth McNally  
 919-785-4363  
-bmcnally@fmrealty.com
+DQuackenbush@FMRealty.com
