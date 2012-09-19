@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919234853id_/http%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
 
 # jZip | Free zip software download - Privacy Policy
 
@@ -46,7 +46,7 @@ In the event that jZip goes through a business transition, such as a merger, acq
 If you have any questions or comments, please contact us via our support site [here](http://jzip.kayako.com/). You can also send us postal mail to Bandoo Media Inc., Attention: Privacy Policy Administrator, 40 Kimonos St.3095 Limassol, Cyprus. 
 
 |    
-[Join Our Affiliate Program](http://www.matomymarket.com/BrandedPublisherRegistration/jzip/) | [About Us](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/about_us.php) | [Privacy Policy](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/privacy_policy.php) | [Terms of Use](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/terms_of_use.php) | [DMCA Policy](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/dmca_policy.php) | [Uninstall Instructions](http://jzip.kayako.com/Troubleshooter/Step/View/1)
+[Join Our Affiliate Program](http://www.matomymarket.com/BrandedPublisherRegistration/jzip/) | [About Us](https://web.archive.org/web/20120919234853id_/http%3A//www.jzip.com/about_us.php) | [Privacy Policy](https://web.archive.org/web/20120919234853id_/http%3A//www.jzip.com/privacy_policy.php) | [EULA](https://web.archive.org/web/20120919234853id_/http%3A//www.jzip.com/terms_of_use.php) | [DMCA Policy](https://web.archive.org/web/20120919234853id_/http%3A//www.jzip.com/dmca_policy.php) | [Uninstall Instructions](http://jzip.kayako.com/Knowledgebase/Article/View/2) | [Contact Us](http://jzip.kayako.com/Knowledgebase/Article/View/1/)
 
 Copyright © 2011 All Rights Reserved to Bandoo Media Inc. | First jZip by Greg Kowal
 
