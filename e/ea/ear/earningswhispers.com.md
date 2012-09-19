@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032153id_/http%3A//www.earningswhispers.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919221850id_/http%3A//earningswhispers.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Earnings Whispers : Template Page
+# Earnings Whispers : Privacy Policy
 
 EarningsWhispers.com's biggest asset is its registered members and, therefore, it is extremely important for us to maintain your trust. So please be assured that we will never compromise the personal information you provide us. This policy statement tells you how we collect information from you and how we use it.
 
