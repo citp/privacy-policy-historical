@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506162002id_/http%3A//readingeagle.com/Article.aspx%3Fid%3D44841) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919223337id_/http%3A//readingeagle.com/Article.aspx%3Fid%3D44841) for the most accurate reproduction.*
 
 # Privacy Policy
 
