@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfcfund.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503162529id_/http%3A//www.hdfcfund.com/CMT/Upload/Attachments/HMF_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcfund.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920004747id_/http%3A//www.hdfcfund.com/CMT/Upload/Attachments/HMF_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
