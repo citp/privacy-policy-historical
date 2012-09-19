@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmsocial.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221306id_/http%3A//www.mlmsocial.com/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmsocial.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919233439id_/http%3A//www.mlmsocial.com/page/view/privacy) for the most accurate reproduction.*
 
 # MLM Social - The Social Network for Network Marketers
 
