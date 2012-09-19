@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620140345id_/http%3A//gortons.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235654id_/http%3A//gortons.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Gorton's, Trusted Since 1849 : Privacy Policy : Privacy Policy
 
