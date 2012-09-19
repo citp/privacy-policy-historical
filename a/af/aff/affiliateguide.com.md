@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the affiliateguide.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509233303id_/http%3A//www.affiliateguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateguide.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919202026id_/http%3A//www.affiliateguide.com/privacy.html) for the most accurate reproduction.*
 
 # AffiliateGuide.com Privacy Policy
 
 [](http://www.vaporizergiant.com/vaporizer-affiliate-program.html)
 
-[](http://affiliates.gururevenue.com/processing/clickthrgh.asp?btag=a_326b_420)
+[](http://www.affiliate2day.com/?utm_source=affiliateguide&utm_medium=banner&utm_campaign=affiliateprogram)
 
 [ ](http://www.markethealth.com/?aid=874248)
 
 [](http://www.affiliateguide.com/forex/index.html)
-
-[](http://www.igamingsupershow.com/)
 
 [](http://cdn.slotlandaffiliates.com/uploads/affiliateguide.html)
 
@@ -19,7 +17,7 @@
 
 [China Suppliers](http://www.made-in-china.com/)
 
-[Wholesale](http://www.dhgate.com/)
+[cheap wholesale](http://www.dhgate.com/)
 
 [China Wholesale](http://www.tradetang.com/)
 
@@ -53,13 +51,11 @@ A review of direct to desktop publishing that lets you send HTML messages direct
 
 [Russian mail order brides](http://www.russian-mailorderbride.com/)
 
-[SanDiegoHotelsAdvisor.com](http://www.sandiegohotelsadvisor.com/)
-
 | 
 
 * * *
 
-|  [](http://www.linksmanagement.com/a?highprlinks=4682b5b0_4) | 
+|  | 
 
 * * *
 
@@ -106,7 +102,7 @@ Mainz Pty Ltd
 209 Shaftesbury Ave  
 Bedford, WA, 6052, Australia  
 Telephone 61 8 9275 6246 
-Please use our [contact form](https://web.archive.org/web/20120509233303id_/http%3A//www.affiliateguide.com/contactform.html) for any questions. 
+Please use our [contact form](https://web.archive.org/web/20120919202026id_/http%3A//www.affiliateguide.com/contactform.html) for any questions. 
 
 **3rd party cookies**  
 Various advertisers or affiliate merchants on this site may use cookies. Typically it is clickstream data so that merchants may ascertain statistical and referral information. However, we do not know specifically what, if any information they may collect. This is beyond our control and we do not accept any liability regarding 3rd party cookies. We suggest that you refer to their respective privacy policies. 
