@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagesuite-professional.co.uk privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518084824id_/http%3A//pagesuite.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesuite-professional.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919223634id_/http%3A//pagesuite.com/Privacy.aspx) for the most accurate reproduction.*
 
 # PageSuite - Privacy
 
