@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the effortlessenglishclub.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614124406id_/http%3A//effortlessenglishclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effortlessenglishclub.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182829id_/http%3A//effortlessenglishclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Learn English Easily With Effortless English
+# Privacy Policy | Learn to Speak English Powerfully With Effortless English
 
 **Information about our Organization and Web site**
 
 Modern information and communication technologies play a fundamental role in the activities of an organization like Effortless English LLC . We are based in The USA .
 
-Our principal activity is: English Language Education
+Our principal activity is: English Language Education for Speakers of Other Languages.  We primarily serve adult students.
 
 Our privacy policy covers Effortless English LLC and its Web sites: EffortlessEnglishClub.com, EffortlessEnglish.com
 
 Organization Name: | Effortless English LLC  
 ---|---  
-Address: | 1916 Pike Place Ste 12 #680  
-City, Zip: | Seattle , 98101  
-State: | WA  
+Address: | 1702 A St, #C  
+City, Zip: | Sparks , 89431  
+State: | NV  
 Country: | USA  
 Controller: | Allen Hoge  
 Web Sites(s): | EffortlessEnglishClub.com  
@@ -45,8 +45,6 @@ We may automatically log personal data and we may link information automatically
 We collect the personal data that you may volunteer while using our services.
 
 We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
-
-To access the table of personal data collected and purposes for which they are used, please [ click here ](http://www2.oecd.org/pwv3/pwpreview.asp#Table5_2) We do not collect or use personal data for any purpose other than that indicated in the table below.
 
 If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: by indicating in a box at the point on the site where personal data is collected.
 
@@ -84,7 +82,7 @@ You may receive information about the kind of information we have for you by
   * sending an email (members@effortlessenglish.org )
 
 
-  * mailing us at:  Effortless English LLC, 1916 Pike Place Ste 12 #680, Seattle, WA 98101-1097
+  * mailing us at:  Effortless English LLC, 1702 A Street #C, Sparks, NV 89431
 
 
 
@@ -97,27 +95,27 @@ We ensure that your personal data will not be disclosed to State institutions an
 You can ask us, by:
 
   * sending an email (members@effortlessenglish.org )
-  * mailing us at:  Effortless English LLC, 1916 Pike Place Ste 12 #680, Seattle, WA 98101-1097
+  * mailing us at:  Effortless English LLC, 1702 A Street #C, Sparks, NV 89431
 
 
 
-We will provide you with a readable copy of the personal data which we keep about you, within a month. – although we may before require proof of your identity -.We will provide the information without any charge. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data:
+We will provide you with a readable copy of the personal data which we keep about you, within a month. – although we may before require proof of your identity. We will provide the information without any charge. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data.
 
 We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal.
 
 We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
 
-**Privacy Compliance**  
-We cannot demonstrate that our privacy policy accords with the privacy instrument.
+**Privacy Support & Removal of Information**
 
-**Privacy Support**  
-If you have an inquiry or concern about our privacy policy, please contact:
+We will remove all of your personal information from our records at your request.
 
-| Contact 1  
+If you have an inquiry or concern about our privacy policy, or would like your information removed, please contact:
+
+| Contact  
 ---|---  
 Name/designation : | Allen Hoge  
 Department : |   
-Address : | 1916 Pike Place Ste 12 #680, Seattle, WA 98101-1097  
+Address : | 1702 A Street #C, Sparks, NV 89431  
 Phone Number : |   
 Fax Number : |   
 Email address : | members@effortlessenglish.org
