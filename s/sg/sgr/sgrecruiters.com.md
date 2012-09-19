@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgrecruiters.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216154840id_/http%3A//www.sgrecruiters.com/recruitment-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgrecruiters.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919095240id_/http%3A//www.sgrecruiters.com/recruitment-privacy) for the most accurate reproduction.*
 
 # Recruitment Agency | Recruitment Privacy Policy - SG Recruiters Group Pte Ltd
 
