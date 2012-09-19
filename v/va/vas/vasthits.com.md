@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vasthits.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512131833id_/http%3A//vasthits.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vasthits.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920011028id_/http%3A//vasthits.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Get more traffic to your website free today. Join our Manual Traffic Exchange and within minutes you will start to receive many visitors
 
