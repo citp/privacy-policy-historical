@@ -1,19 +1,8 @@
-<!--The following is the downloaded HTML source of the instafinder.com privacy policy that was archived on 2012-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521123049id_/http%3A//www.instafinder.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instafinder.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920005441id_/http%3A//www.instafinder.com/policy.php) for the most accurate reproduction.-->
 
 <html xmlns:a="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>InstaFinder Search Portal</title>
-<link rel="stylesheet" type="text/css" href="styles.css">
-<script language="javascript" type="text/javascript">
-function clearText(me){
-	if(me.value == me.defaultValue){
-		me.value = "";
-		me.style.color = "#000000"; 
-	}
-}
-</script>
-
+<!--? include "includes/head.php"; ?-->
 
 </head><body>
 <div id="container">
@@ -24,13 +13,7 @@ function clearText(me){
 </div></div>
 <div id="content-wrap">
   <div id="bottom">
-<div id="search">
-<div id="inner">
-  <form name="searchform" action="http://instafinder.com/addsearch.php" style="display: inline;" method="get">
-  <input name="url" type="text" size="30" onfocus="clearText(this);" onclick="this.value='';" id="url"><input type="image" src="images/search_btn.png" value="Submit" align="absbottom">
-  </form>
-  </div>
-</div>
+<!--? include "includes/searchbar.php"; ?-->
 <div style="width:100%; overflow:auto;">
   <table width="100%" border="0">
     <tbody><tr>
@@ -59,20 +42,6 @@ function clearText(me){
 </div>
 <div id="nav2"></div>
 </div>
-<ul id="nav-footer">
-<li>2007 - 2009 BroadSpring, Inc. |  </li>
-<li><a href="http://www.instafinder.com/moreinfo.php">About Us</a></li>
-<li><a href="http://www.instafinder.com/policy.php">Privacy Policy</a></li>
-<li><a href="http://www.instafinder.com/remove.php">How to Remove</a></li>
-</ul>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-660915-3");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-</div>
-</body></html>
+<!--? include "includes/footer.php"; ?-->
+
+</div></body></html>
