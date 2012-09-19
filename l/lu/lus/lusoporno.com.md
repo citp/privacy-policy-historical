@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lusoporno.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603101915id_/http%3A//www.lusoporno.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lusoporno.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231612id_/http%3A//www.lusoporno.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Lusoporno
 
@@ -54,4 +54,4 @@ We reserve the right to modify this Privacy Policy at any time by posting such c
   
 **Contact Information**  
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, username and account number so we can service you quicker.  
-For www.lusoporno.com and it's related sites, please [contact us](https://web.archive.org/web/20120603101915id_/http%3A//www.lusoporno.com/contact.html).
+For www.lusoporno.com and it's related sites, please [contact us](https://web.archive.org/web/20120919231612id_/http%3A//www.lusoporno.com/contact.html).
