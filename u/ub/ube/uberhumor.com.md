@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uberhumor.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023250id_/http%3A//uberhumor.com/new-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberhumor.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005639id_/http%3A//uberhumor.com/new-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny Pictures, Quotes, Pics, Photos, Images. Videos of Really Very Cute animals.
 
-[](http://uberhumor.com/beautifully-sexy-street-art-by-smug-one-13-pictures)
+[](http://uberhumor.com/one-megabite)[](http://uberhumor.com/beautifully-sexy-street-art-by-smug-one-13-pictures)
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -20,6 +20,8 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of uberHumor then you may contact us at admin@uberhumor.com
 
  
+
+[](http://uberhumor.com/one-megabite)
 
 Like us for pics only avaiable to fans
 
