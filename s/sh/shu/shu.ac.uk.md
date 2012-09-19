@@ -1,38 +1,46 @@
-> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121023956id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235844id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | Sheffield Hallam University
 
-This website ([www.shu.ac.uk](https://web.archive.org/web/20111121023956id_/http%3A//www.shu.ac.uk/)) is run by Sheffield Hallam University. The privacy of our users is important to us and the University takes care to safeguard it. This policy explains why and how we collect and use your personal data.
+This website ([www.shu.ac.uk](http://www.shu.ac.uk/)) is run by Sheffield Hallam University. The privacy of our users is important to us and the University takes care to safeguard it. This policy explains why and how we collect and use your personal data via the website. It also covers the personal data that we collect from enquirers by phone, email, and voicemail.
 
-We may change this policy by updating the information on this page. You should check this page from time to time to ensure that you are happy with any changes that we make. This policy is effective from 1 January 2009.
+We may change this policy by updating the information on this page. You should check this page from time to time to ensure that you are happy with any changes that we make. This policy is effective from 1 January 2009 (revised July 2012).
 
-### 1\. Use of information provided by visitors
+## 1\. Use of information provided by visitors
+
+The University uses personal data for a variety of purposes, however, your personal information is never sold to any third party.
 
 **a) Enquiries (i.e. requesting publications, registering for open days, enquiring about courses or events etc.)**
 
-You may be asked to provide your name, e-mail address or other personal information on various pages on our site in order that your enquiry can be dealt with. When you provide this information you are asked whether you wish to receive any further communication from Sheffield Hallam University.
+You may be asked to provide your name, email address or other personal information on various pages on our site in order that your enquiry can be dealt with. You may also provide this information by phone, email or in a voicemail message.
 
-If you choose not to receive further communications we will only use your name and address details to respond to your enquiry. We will not use it for any other purpose and it is never sold to any third party.
+The University seeks to respond in an appropriate, timely, and effective way when dealing with enquiries and applications and uses a customer relationship management (CRM) system to support this service. This means that you will not have to repeat all the details of a previous enquiry: each time you contact us we will be picking up where you left off. It also means that we can improve the information that we provide about our courses, services and processes in future.
 
-We may use mailing houses to process certain mailings and external research agencies to carry our market research on the University's behalf. The University ensures that such agencies will also handle information securely and in accordance with the Data Protection Act.
+We may use mailing houses to process certain mailings and external research agencies to carry out market research on the University's behalf. The University ensures that such agencies will also handle information securely and in accordance with the Data Protection Act.
 
-We will use any demographic information you provide for market research purposes (in aggregate form) only. These statistics will not include any information that could be used to identify any individual.
+We will use any demographic information you provide for market research purposes (in aggregate form only). These statistics will not include any information that could be used to identify any individual. From time to time we may contact individuals and invite them to provide feedback on their experiences and impressions of the University. This helps us to improve our services.
 
-If you choose to receive further communication from Sheffield Hallam University, you may change your mind at any time by writing to us or e-mailing us using the following contact details
+When you provide this information you are asked whether you wish to receive any further promotional information from Sheffield Hallam University. If you choose not to receive further information we will only use your name and address details to respond to your enquiry, unless you 
 
-Steven Hunter   
+  * are a current student, in which case we will continue to use your personal data for student administration purposes, or 
+  * you have opted to receive information about alumni services and/or University events.
+
+
+
+If you choose to receive further information from Sheffield Hallam University, you may change your mind at any time by writing to us or emailing us using the following contact details
+
 Digital marketing communications manager   
-Department of Marketing   
+Marketing Directorate  
 Sheffield Hallam University   
 City Campus   
 Sheffield   
 S1 1WB 
 
-E-mail [creativedigital@shu.ac.uk](mailto:creativedigital@shu.ac.uk)
+Email [creativedigital@shu.ac.uk](mailto:creativedigital@shu.ac.uk)
 
 **b) Subscription services**
 
-You may use our subscription facility to receive regular e-mail updates or SMS text messages from Sheffield Hallam University. Any information you supply for this is used only to deliver messages based on the subjects you choose to the e-mail address or telephone number you specify. We do not share this information in any way. You may unsubscribe at any time. Details of how to stop receiving updates are provided at the time of subscribing and on the relevant web pages.
+You may use our subscription facility to receive regular email updates or SMS text messages from Sheffield Hallam University. Any information you supply for this is used only to deliver messages based on the subjects you choose to the email address or phone number you specify. You may unsubscribe at any time. Details of how to stop receiving updates are provided at the time of subscribing and on the relevant web pages.
 
 **c) Online community**
 
@@ -40,58 +48,27 @@ The University's online community for alumni, friends and business colleagues of
 
 **d) Reporting a fault, giving feedback, making a complaint**
 
-If you contact us by e-mail or through a web page to request information, report a problem or provide feedback on our services we will use the information you provide to respond to your message, to address the issue you have raised, and to make improvements to our services. We do not use this information for other purposes or share this information with any third parties.
+If you contact us by email or through a web page to request information, report a problem or provide feedback on our services we will use the information you provide to respond to your message, to address the issue you have raised, and to make improvements to our services. We do not use this information for other purposes.
 
-### 2\. Security
+## 2\. Security
 
-We have appropriate physical, electronic and organisational security measures in place in order to protect against the loss, misuse or alteration of information we collect from you online.
+We have appropriate physical, electronic and organisational security measures in place in order to protect against the loss, theft, misuse or alteration of information we collect from you online.
 
 These security measures include the necessary protection to prevent, as far as possible, access to your information by parties other than Sheffield Hallam University.
 
-### 3\. Cookies 
+## 3\. Cookies 
 
-We may use cookies to store your preferences to enable us to deliver customised web page content.
+Please see our [How we use cookies page](http://www.shu.ac.uk/about/cookies.html) to find out how cookies are used on this website. ****
 
-Cookies are small text files that are transferred to your computer's hard drive through your web browser when you visit websites. A cookie contains a unique number, but no personal data. We will not use the cookie to identify you personally.
-
-Most browsers allow you choose whether cookies are used or not. The 'help' portion of your browser's toolbar will usually tell you how to configure your browser to refuse cookies, to delete cookies or to notify you when you receive a new cookie. However, by turning off cookies you may make the website less efficient and some services may not function properly
-
-### 4\. Inaccurate data
-
-The University will make reasonable endeavours to ensure that the information it places on our website is accurate. However, the University does not accept responsibility for any losses caused by errors or inaccuracies in the information within the website.
-
-If you believe that any information Sheffield Hallam University has published on the website is incorrect, you should e-mail [creativedigital@shu.ac.uk](mailto:creativedigital@shu.ac.uk) or write to the address below - any information which is found to be incorrect will be corrected as soon as possible.
-
-Steven Hunter   
-Digital marketing communications manager  
-Department of Marketing  
-Sheffield Hallam University  
-City Campus  
-Howard Street  
-Sheffield   
-S1 1WB
-
-### 5\. Feedback 
-
-If you feel this site is not following its stated privacy policy, you may contact us at [creativedigital@shu.ac.uk](mailto:creativedigital@shu.ac.uk) or write to 
-
-Steven Hunter  
-Digital Marketing Communications Manager  
-Department of Marketing  
-Sheffield Hallam University  
-City Campus,   
-Sheffield,   
-S1 1WB
-
-### 6\. Data Protection Act
+## 4\. Data Protection Act 
 
 Information will be used in accordance with the Data Protection Act 1998 and other applicable legislation. The University is registered as a Data Controller with the Information Commissioner. [Our register entry can be viewed here](http://www.esd.informationcommissioner.gov.uk/esd/DoSearch.asp?reg=3382927).
 
-The University's Data Protection Policy Statement is also [available and can be viewed here.](http://students.shu.ac.uk/rightsrules/othercodesandpolicies/it/dataprotection.html)
+The University's Data Protection Policy Statement is also [available and can be viewed here.](http://students.shu.ac.uk/rightsrules/othercodesandpolicies/it/dataprotection.html) You can also see how we use [students' personal data](https://students.shu.ac.uk/regulations/access_to_information/1.html).
 
-### 7\. Access to information
+## 5\. Access to personal information
 
-Under the Data Protection Act 1998 you are entitled to request copies of all the personal data that the University holds about you. This is called a Subject Access Request and must be submitted in writing. You should submit your request to 
+Under the Data Protection Act 1998 you are entitled to request copies of all the personal data that the University holds about you. This is called a Subject Access Request and must be submitted in writing along with a £10 fee. You should submit your request to 
 
 University Secretariat   
 Sheffield Hallam University   
@@ -100,6 +77,6 @@ Howard Street
 Sheffield   
 S1 1WB 
 
-For a request form or related queries, please call 0114 225 3361.
+Cheques should be made payable to 'Sheffield Hallam University' (please write your name and address on the back of the cheque). For a Subject Access Request form or if you have a Data Protection query or complaint, please email [foi@shu.ac.uk](mailto:foi@shu.ac.uk).
 
 _Sheffield Hallam University is not responsible for the content of external websites_
