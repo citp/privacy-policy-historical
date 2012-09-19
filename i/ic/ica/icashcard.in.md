@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icashcard.in privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523225053id_/http%3A//www.icashcard.in/pgaboutUs.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icashcard.in privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235921id_/http%3A//icashcard.in/privacy-policy) for the most accurate reproduction.*
 
-# I CashCard safe cash to use anywhere and anytime
+# iCASHCARD – Privacy Policy
 
 What information do we collect? 
 
@@ -78,6 +78,6 @@ C-9,Thiruvika Industrial Estate,
 Guindy.   
 Chennai. 
 
-Phone:044-30604444 
+Toll Free :- 1800-108-1080 
 
 [ E-Mail:-support@icashcard.co.in ](mailto:support@icashcard.co.in)
