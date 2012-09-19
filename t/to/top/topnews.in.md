@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnews.in privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508023227id_/http%3A//www.topnews.in/privacy-policy-213209) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnews.in privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002608id_/http%3A//www.topnews.in/privacy-policy-213209) for the most accurate reproduction.*
 
 # Privacy Policy | TopNews
 
@@ -13,6 +13,29 @@ No other information is recorded or stored on our servers except your IP address
 **Links to other websites**
 
 TopNews provides links to other websites which have more information relevant to our content. We do not take any responsibility of content posted on third-party websites. 
+
+**Third Party Advertising**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
+
+**Cookies and Web Beacons**  
+[www.topnews.in](http://www.topnews.in/ "www.topnews.in") does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on [www.topnews.in](http://www.topnews.in/ "www.topnews.in").  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.topnews.in](http://www.topnews.in/ "www.topnews.in") and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html "www.google.com/privacy_ads.html")
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+TribalFusion  
+Google Adsense  
+ValueClick  
+Infolinks  
+VibrantMedia
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.topnews.in's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 **Contact Us**
 
