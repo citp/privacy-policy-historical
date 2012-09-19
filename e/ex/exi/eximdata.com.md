@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eximdata.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222758id_/http%3A//www.eximdata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eximdata.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919102446id_/http%3A//www.eximdata.com/privacy.php) for the most accurate reproduction.*
 
 # World Exporters And Importers Trade Directory, Business Yellow Pages.
 
