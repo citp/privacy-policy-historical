@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignish.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521054723id_/http%3A//www.webdesignish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignish.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184726id_/http%3A//www.webdesignish.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
