@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the contestchest.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504015331id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the contestchest.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919184945id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy</title>
@@ -21,6 +21,7 @@
         <link rel="shortcut icon" type="image/png" href="/public/images/favicon.png">
         
         <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=228268373870509"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/public/javascripts/jquery-1.6.2.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="/public/javascripts/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
         
         
 		 
@@ -86,21 +87,19 @@
     </head>
     <body>
     	
-		<div id="fb-root"></div>
-    	
-		<script>
-			(function(d, s, id) {
-				  var js, fjs = d.getElementsByTagName(s)[0];
-				  if (d.getElementById(id)) {return;}
-				  js = d.createElement(s); js.id = id;
-				  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=228268373870509";
-				  fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'));
-		</script>
-    	
-    	
-    	
-    	
+    	<div style="margin: 0 auto; width: 981px;">
+	    				<div id="fb-root"></div>
+	    				<script>
+				(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) {return;}
+					  js = d.createElement(s); js.id = id;
+					  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=228268373870509";
+					  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			</script>
+	    		    	
+	    	
 
 
 
@@ -185,11 +184,38 @@ This policy was last modified on 6 October 2011<br><br>http://contestchest.com/c
 <span></span><span></span>
 
 This policy is powered by Free Privacy Policy and Rhino Support <a style="color:#000; text-decoration:none;" href="http://www.rhinosupport.com/help-desk-software.htm" target="_blank">help desk applications</a>.<span></span><span></span><span></span>
-<!-- END PRIVACY POLICY CODE -->    	
+<!-- END PRIVACY POLICY CODE -->	    	
+	    	<p>
+	    		</p><center>
+		    		<a href="/privacy-policy">Privacy Policy</a> | 
+		    		<a href="/terms">Terms &amp; Conditions</a> | 
+		    		<a href="/about">About ContestChest.com</a> | 
+					<a href="http://blog.contestchest.com">Blog</a> | 
+					<a href="/contact">Contact us</a>		
+	    		</center>
+	    	<p></p>
+	    	
+			<script type="text/javascript">
+			
+		    	$(document).ready(function() {  
+		    		var clientDate = new Date();
+		    				    		
+		    		var serverDate = new Date(2012, 8, 19, 18, 51, 40, clientDate.getMilliseconds());
+		    		
+		    		var serverTotalMinutesInDay = serverDate.getTime()/1000/60;
+		    		var clientTotalMinutesInDay = clientDate.getTime()/1000/60;
+		    		var diff = Math.round(clientTotalMinutesInDay - serverTotalMinutesInDay);
+		    		
+		    		$('#clientDate').html(clientDate.getTime());
+		    		$('#serverDate').html(serverDate.getTime());
+		    		$('#diff').html(diff);
+		    		
+		    		$.cookie("diff", diff);	    		
+		    	});
+		    	
+			</script>
+    	</div>
     	
 
-    	
-    	<p></p><center><a href="/privacy-policy">Privacy Policy</a> | <a href="/terms">Terms &amp; Conditions</a></center><p></p>
-    	
     
 </div></body></html>
