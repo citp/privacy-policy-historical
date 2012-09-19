@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocricket.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608235011id_/http%3A//autocricket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocricket.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190007id_/http%3A//autocricket.com/privacy-policy) for the most accurate reproduction.*
 
 # Welcome To AutoCricket.com » Privacy
 
@@ -93,6 +93,10 @@ In the event that AutoCricket Corporation U.S. or substantially all of its asset
 ###### Consent to Transfer
 
 By providing Personal Information to this Site, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories. You also acknowledge that governmental and other authorities in the United States and other countries and territories to which such information is transferred may have a legal right to obtain access to or the disclosure of such information.
+
+###### Important Notice Regarding Consumer Report Practices
+
+By clicking “get me quotes” or “find me a new car” and seeking a quote request, you authorize and agree that a provider may obtain additional background information about you to provide you with your requested quote or policy information. For example, consumer and/or credit reports, or driving records, may be ordered in connection with your quote request. These reports may provide eligibility for insurance, discount health plans or other products or services, and rates that you may be charged. Consumer reports may also be used for updates, renewals, or extensions of any insurance you may obtain. A provider may also obtain and use a credit-based insurance combined by a provider with information, you submit to us, and by are providing you written permission to our providers to obtain your credit report.
 
 ###### Access to other sites through the AutoCricket Corporation U.S. Sites
 
