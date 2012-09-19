@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easyinfo.in privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508055505id_/http%3A//easyinfo.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyinfo.in privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919211930id_/http%3A//easyinfo.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy
-
-[](http://www.addthis.com/bookmark.php?v=20)
 
 **General Policies**
 
