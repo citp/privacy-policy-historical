@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622233838id_/http%3A//www.nts.org.pk/MISC/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235732id_/http%3A//nts.org.pk/MISC/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
