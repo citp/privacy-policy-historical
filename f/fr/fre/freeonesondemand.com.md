@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonesondemand.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041403id_/http%3A//www.freeonesondemand.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D14343) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonesondemand.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919111703id_/http%3A//www.freeonesondemand.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D14343) for the most accurate reproduction.*
 
 # Privacy | FreeOnes VOD Store
 
