@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verifyapp.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230338id_/http%3A//verifyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verifyapp.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181247id_/http%3A//verifyapp.com/privacy) for the most accurate reproduction.*
 
 # User feedback, concept testing | Verify Privacy Policy
 
@@ -32,6 +32,4 @@ To the extent that you do provide us with personal information, we wish to maint
 
 By using this Web site, you consent to the terms of our Privacy Policy. www.verifyapp.com reserves the right to modify this privacy statement at any time. If there are material changes to this statement on how www.verifyapp.com will use your personal information, we will prominently post these changes prior to implementing them. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this privacy statement at the time you provided us with your information.
 
-## Questions
-
-Any questions about this Privacy Policy should be addressed to support@verifyapp.com.
+Any questions about this Privacy Policy should be addressed to [support@verifyapp.com](mailto:support@verifyapp.com).
