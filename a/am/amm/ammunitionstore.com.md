@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammunitionstore.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508064945id_/http%3A//www.ammunitionstore.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammunitionstore.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185850id_/http%3A//www.ammunitionstore.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Ammunitionstore.com - Online privacy policy. Your online information and how it's protected. Advertising policy. Credit card privacy.
 
