@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contestchest.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015331id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestchest.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184945id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,4 +69,4 @@ http://contestchest.com/contact
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk applications](http://www.rhinosupport.com/help-desk-software.htm).
 
-[Privacy Policy](https://web.archive.org/privacy-policy) | [Terms & Conditions](https://web.archive.org/terms)
+[Privacy Policy](https://web.archive.org/privacy-policy) | [Terms & Conditions](https://web.archive.org/terms) | [About ContestChest.com](https://web.archive.org/about) | [Blog](http://blog.contestchest.com/) | [Contact us](https://web.archive.org/contact)
