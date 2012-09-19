@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idolwhite.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512113558id_/http%3A//www.idolwhite.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idolwhite.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919100049id_/http%3A//www.idolwhite.com/tos.php%23pp) for the most accurate reproduction.*
 
 # Idol White
 
@@ -33,7 +33,7 @@ Once an order has been submitted your credit card will be charged. Our ordering 
 **7\. 90 Day Return Policy:**   
 
 
-We take great pride in the superior quality of our products and want you to be pleased with your purchase. We believe in offering the very best value, quality and selection to our customers. You may return any unused and unopened item purchased from us for any reason within Ninety (90) days of your purchase. If you purchased your merchandise through a "Buy Three, Get Three Free" or similar offer, all items must be returned in order to receive a refund. If you return a partial amount of merchandise, you will forfeit the free product and receive a refund on the discount price per item based on the total purchase.
+We take great pride in the superior quality of our products and want you to be pleased with your purchase. We believe in offering the very best value, quality and selection to our customers. You may return any unused and unopened item purchased from us for any reason within Ninety (90) days of your purchase date. If you purchased your merchandise through a "Buy Three, Get Three Free" or similar offer, ALL items must be returned in order to receive a refund. If you return a partial amount of merchandise, you will forfeit the free product and receive a refund on the discount price per item based on the total purchase.
 
 Your complete satisfaction is our ultimate goal. You may return any item shipped by Company, keeping the following in mind:
 
