@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vator.tv privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225701id_/http%3A//vator.tv/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vator.tv privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919080143id_/http%3A//vator.tv/privacy_policy) for the most accurate reproduction.*
 
 # Vator - Privacy Notice
 
