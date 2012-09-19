@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflightnow.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505033517id_/http%3A//www.cheapflightnow.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflightnow.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919223552id_/http%3A//www.cheapflightnow.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,8 +80,8 @@ If any part of the CFN Web site links you to other Web sites, those Web sites do
 
 **How You Can Contact Us**
 
-If you have questions about this Privacy Policy (or your travel planning or purchases), please e-mail us at customerservice@cheapflightnow.com 
+If you have questions about this Privacy Policy (or your travel planning or purchases), please e-mail us at customerservice@travelerhelpdesk.com
 
-**What about phishing?**
+ **What about phishing?**
 
 We do not and will not, at any time, request your credit card information, login name, or password, in an insecure or unsolicited e-mail or telephone communication. We will only call or e-mail you in response to your inquiry or request for service. Identity theft and the practice currently known as "Phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about Phishing, you may want to visit OnGuard Online at [onguardonline.gov/phishing.html](http://onguardonline.gov/phishing.html), or the Federal Trade Commission at [www.ftc.gov/spam](http://www.ftc.gov/spam).
