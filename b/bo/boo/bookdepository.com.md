@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdepository.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232242id_/http%3A//www.bookdepository.com/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdepository.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205715id_/http%3A//www.bookdepository.com/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
 
 # Help at The Book Depository
 
