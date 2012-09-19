@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitition.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021142id_/http%3A//twitition.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitition.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919090916id_/http%3A//twitition.com/privacy) for the most accurate reproduction.*
 
 # twitition - privacy policy
 
@@ -8,7 +8,7 @@ Branded3 Innovations LLP ("We") are committed to protecting and respecting your 
 
 This policy (together with our [terms of use](https://web.archive.org/terms/ "terms of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Branded3 Innovations LLP of The Priory, Bunkers Hill, Aberford, Leeds, LS25 3DP. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Branded3 Innovations LLP of the 2nd Floor, 2180 Century Way, Thorpe Park Leeds, LS15 8ZB
 
 ### INFORMATION WE MAY COLLECT FROM YOU
 
