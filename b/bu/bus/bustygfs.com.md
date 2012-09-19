@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustygfs.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040507id_/http%3A//www.bustygfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustygfs.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184331id_/http%3A//bustygfs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
