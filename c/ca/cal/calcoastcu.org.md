@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calcoastcu.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213636id_/https%3A//www.calcoastcu.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcoastcu.org privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225436id_/https%3A//www.calcoastcu.org/privacy.aspx) for the most accurate reproduction.*
 
 # California Coast Credit Union - Privacy Policy
 
