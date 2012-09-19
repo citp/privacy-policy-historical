@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thequickbuckmethod.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509065908id_/http%3A//www.thequickbuckmethod.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thequickbuckmethod.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230503id_/http%3A//www.thequickbuckmethod.com/privacy.htm) for the most accurate reproduction.*
 
 # The Quick Buck Method
 
@@ -38,7 +38,7 @@ We can be reached by contacting:
 
 [http://www.thequickbuckmethod.com](http://www.thequickbuckmethod.com/)
 
-Email:[ info@thequickbuckmethod.com ](https://web.archive.org/web/20120509065908id_/http%3A//www.thequickbuckmethod.com/privacy.html)
+Email:[ info@thequickbuckmethod.com ](https://web.archive.org/web/20120919230503id_/http%3A//www.thequickbuckmethod.com/privacy.html)
 
 **Changes to this Policy**
 
