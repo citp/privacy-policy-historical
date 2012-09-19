@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidetick.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213937id_/http%3A//www.sidetick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidetick.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919223250id_/http%3A//www.sidetick.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,9 +72,9 @@ We protect the information that you submit to us online using SSL encryption sof
 
 **10\. What choices are available to you regarding our use of your information?**
 
-If you wish to no longer receive future email communications pertaining to this Website [Click Here](https://web.archive.org/web/20111231213937id_/http%3A//www.sidetick.com/unsubscribe.php) and we will promptly honor your opt-out request. 
-If you no longer wish to receive future email communications pertaining to this Website or any other website operated by us or any of our business divisions, you may globally opt-out by [Clicking Here](https://web.archive.org/web/20111231213937id_/http%3A//www.sidetick.com/unsubscribe.php). 
-If you are an existing member or become a member but wish to not receive Sidetick system notifications, you will also need to indicate your opt-out preferences by unmarking the boxes on your [account settings page](https://web.archive.org/web/20111231213937id_/http%3A//www.sidetick.com/user_account.php). 
+If you wish to no longer receive future email communications pertaining to this Website [Click Here](https://web.archive.org/web/20120919223250id_/http%3A//www.sidetick.com/unsubscribe.php) and we will promptly honor your opt-out request. 
+If you no longer wish to receive future email communications pertaining to this Website or any other website operated by us or any of our business divisions, you may globally opt-out by [Clicking Here](https://web.archive.org/web/20120919223250id_/http%3A//www.sidetick.com/unsubscribe.php). 
+If you are an existing member or become a member but wish to not receive Sidetick system notifications, you will also need to indicate your opt-out preferences by unmarking the boxes on your [account settings page](https://web.archive.org/web/20120919223250id_/http%3A//www.sidetick.com/user_account.php). 
 Although Sidetick strives to honor your opt-out request promptly, please allow ten (10) business days to process your request. During such processing time, it is possible that you may continue to receive communications from us. 
 A user can decide to quit Sidetick by simply selecting the 'Profile' tab located on the Home Page and then selecting 'Account Settings' and then selecting 'Delete Account', the forth tab on the following page. On the next page select 'Delete My Account'. 
 Your personal identifying information is retained by us in our archives for as long as we deem appropriate, which may include indefinitely, showing, in part, compliance with applicable law and have record of the termination. Your information is not shared with affiliates. 
