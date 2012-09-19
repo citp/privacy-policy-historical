@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylondon.ac.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504033632id_/http%3A//www.studylondon.ac.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylondon.ac.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919101855id_/http%3A//www.studylondon.ac.uk/information/privacy) for the most accurate reproduction.*
 
 # Study London privacy policy - Study London
 
@@ -51,13 +51,103 @@ London & Partners will take precautions to protect against the loss, misuse and 
 
 You are ultimately responsible for the security of your email and password. Please take care when using and storing them. We recommend that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information, especially if you share a computer with someone else or are using a computer in a public place like a library or internet cafe.
 
-## Cookies
+##  **Cookies in Use on This Site**
 
- **www.londonandpartners.com**  makes use of cookies to personalise content and provide statistics that allow us to understand how users use the website, helping us to improve its structure and content. Although some website operators use cookies to generate consumer profiling information to be sold or transferred to third parties, it is the policy of this site never to share information collected using cookies with third parties.
+ **Cookies and how they benefit You**
 
- **Disabling / enabling cookies**
+Our website uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
 
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our sites if cookies are disabled. To find out how to disable / enable cookies or for more general information about cookies got to www.allaboutcookies.org.
+Our cookies help us:
+
+  * Make our website work as you'd expect
+  * Save you having to login every time you visit the site
+  * Remember your settings during and between visits
+  * Offer you free services/content (thanks to advertising)
+  * Improve the speed/security of the site
+  * Allow you to share pages with social networks like Facebook
+  * Continuously improve our website for you
+  * Make our marketing more efficient
+
+
+
+We do not use cookies to:
+
+  * Collect any personally identifiable information (without your express permission)
+  * Collect any sensitive information (without your express permission)
+  * Pass personally identifiable data to third parties
+
+
+
+You can learn more about all the cookies we use below
+
+ **Granting us permission to use cookies**
+
+If the settings on your software that you are using to view this website (your browser) are adjusted to accept cookies we take this, and your continued use of our website, to mean that you are fine with this. Should you wish to remove or not use cookies from our site you can learn how to do this below, however doing so will probably mean that our site will not work as you would expect.
+
+ **Website Function Cookies**
+
+ **Our own cookies**
+
+We use cookies to make our website work including:
+
+  * Determining if you are logged in or not
+  * Remembering your course shortlist
+
+
+
+There is no way to prevent these cookies being set other than to not use our site.
+
+ **Third party functions**
+
+Our site, like most websites, includes functionality provided by third parties. A common example is an embedded YouTube video. Our site includes the following which use cookies:
+
+  * YouTube - powers the videos on our site
+  * Google - we use their maps and translation tool
+
+
+
+Disabling these cookies will probably break the functions offered by these third parties. You can read their [privacy policy here](http://www.google.co.uk/intl/en/policies/privacy/).
+
+ **Social Website Cookies**
+
+So you can easily “Like” or share our content on the likes of Facebook and Twitter we have included sharing buttons on our site.
+
+Cookies are set by: Google+, Twitter and Facebook
+
+The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
+
+ **Anonymous Visitor Statistics Cookies**
+
+We use cookies to compile visitor statistics such as how many people have visited our website, what type of technology they are using (e.g. Mac or Windows which helps to identify when our site isn't working as it should for particular technologies), how long they spend on the site, what pages they look at etc. This helps us to continuously improve our website. These analytics programs also tell us if, on an anonymous basis, how people reached this site (e.g. from a search engine) and whether they have been here before helping us to put more money into developing our services for you instead of marketing spend.
+
+We use: Google Analytics
+
+You can read more about this [privacy policy too.](http://www.google.com/analytics/learn/privacy.html)
+
+ **Advertising Cookies**
+
+Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We aim only to serve relevant advertising to you on our site, and cookies help us to achieve this.
+
+You can learn more about online advertising at [http://www.youronlinechoices.com](http://www.youronlinechoices.com/). You can opt-out of almost all advertising. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, simply that they won't be tailored to you any longer.
+
+We use:
+
+  * DoubleClick - owned by Google
+  * Weborama
+  * Aimfair
+  * Adtech
+
+
+
+ **Banner Adverts**
+
+We partly fund our site by showing adverts as you browse our site. These adverts are managed by a partner specialising in providing adverts for multiple sites. Invariably these partners place cookies to collect anonymous data about the websites you visit so they can personalise the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working. Our partner is: Hi-Media
+
+ **Turning Cookies Off**
+
+You can usually switch cookies off by adjusting your browser settings to stop it from accepting cookies (Learn how [here](http://www.aboutcookies.org/)). Doing so however will almost certainly limit the functionality of ours and a large proportion of the world's websites as cookies are a standard part of most modern websites
+
+It may be that your concerns around cookies relate to so called "spyware". Rather than switching off cookies in your browser you may find that anti-spyware software achieves the same objective by automatically deleting cookies considered to be invasive. Learn more about [managing cookies with antispyware software](http://www.attacat.co.uk/resources/cookies/how-to-control-your-online-privacy).
 
 ## Further Information
 
