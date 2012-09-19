@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helprx.info privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402184130id_/http%3A//www.helprx.info/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helprx.info privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919220047id_/http%3A//www.helprx.info/privacy-policy) for the most accurate reproduction.*
 
-# helprx.info
+# HelpRx.info - Online Pharmacy Discounts
 
 Healthcare Alliance respects your right to privacy. We have developed this Privacy Policy to inform you of the data gathering and dissemination practices applicable to our web site. By using Healthcare Alliance’s website and services you are accepting the practices described in this Privacy Policy and you agree to adhere to the Terms and Conditions posted on the Site. If you do not agree with any terms, please do not use this site or submit any personal information. 
 
