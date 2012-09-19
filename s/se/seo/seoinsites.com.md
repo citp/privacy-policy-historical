@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoinsites.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618103147id_/http%3A//www.seoinsites.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoinsites.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195544id_/http%3A//seoinsites.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: seoINsites.com
 
