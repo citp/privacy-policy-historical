@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brizy.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611083512id_/http%3A//www.brizy.com/terms.php%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brizy.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919092846id_/http%3A//www.brizy.com/terms.php%23privacy_policy) for the most accurate reproduction.*
 
 # Brizy Games
 
@@ -226,6 +226,8 @@ The following kind of emails are sent out to members:
   * Rank Notifications
 
   * Game Challenges
+
+  * Friend Request
 
   * Account Information
 
