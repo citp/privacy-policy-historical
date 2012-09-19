@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peatix.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232856id_/http%3A//peatix.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peatix.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919074941id_/http%3A//peatix.com/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PeaTiX
 
@@ -89,6 +89,6 @@ Peatix may update the Privacy Policy at any time. If there are any important upd
 
 ## 11\. Other topics 
 
-Everything stated in this Privacy Policy is valid for interactions between Peatix and users of Peatix and is invalid for third party pages and content including pages and content linked from within Peatix. If there are any questions or comments regarding the contents of this Privacy Policy please contact Peatix from the following [link](http://peatix.com/contact?sid=0b2cc12c56b605027d329ac7da5d93a6fae8876b).
+Everything stated in this Privacy Policy is valid for interactions between Peatix and users of Peatix and is invalid for third party pages and content including pages and content linked from within Peatix. If there are any questions or comments regarding the contents of this Privacy Policy please contact Peatix from the following [link](http://help.peatix.com/customer/en/portal/emails/new).
 
 Updated April 17, 2012 Peatix Inc.
