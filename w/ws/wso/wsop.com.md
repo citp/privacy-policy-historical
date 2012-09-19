@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612024518id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919065323id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Legal - Privacy | Official World Series of Poker Online
 
