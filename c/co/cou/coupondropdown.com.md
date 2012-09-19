@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the coupondropdown.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614150456id_/http%3A//www.coupondropdown.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondropdown.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190517id_/http%3A//coupondropdown.com/privacy.php) for the most accurate reproduction.*
 
 # CouponDropDown | Privacy Policy
 
-## Privacy Policy for CouponDropDown.com
-
 Last Updated: May 23, 2012
 
-Amazing Apps (“Licensor”, “we” or “us”) is the licensor of this plugin (the “Plugin”). Licensor knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy is a binding part of Licensor’s License and Terms of Use, which is available [http://coupondropdown.com/terms.php/](http://coupondropdown.com/terms.php) (together with this Privacy Policy, the “Agreement”) and explains the type of information Licensor collects through its website and browser companion software (“Plugin Service”) and what Licensor does with it. If you download and use Licensor’s Plugin Service software or use Licensor’s website (the “Site”), you will be bound by the terms of the Agreement, including this Privacy Policy. This policy may change from time to time so you should check it frequently.
+Amazing Apps (“Licensor”, “we” or “us”) is the licensor of this plugin (the “Plugin”). Licensor knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy is a binding part of Licensor’s License and Terms of Use, which is available [www.CouponDropDown.com/terms.php/](https://web.archive.org/terms.php) (together with this Privacy Policy, the “Agreement”) and explains the type of information Licensor collects through its website and browser companion software (“Plugin Service”) and what Licensor does with it. If you download and use Licensor’s Plugin Service software or use Licensor’s website (the “Site”), you will be bound by the terms of the Agreement, including this Privacy Policy. This policy may change from time to time so you should check it frequently.
 
 Licensor may collect certain information about your web usage and sites you have visited, which may be shared with third parties and used for advertising. NOTE: THE PLUGIN COLLECTS AND STORES INFORMATION FOR LICENSOR ABOUT THE WEB PAGES YOU VISIT AND YOUR ACTIVITY ON THOSE PAGES, SUCH AS IMPRESSIONS AND CLICKS. IN SOME CASES, INFORMATION COLLECTED BY THE PLUGIN SERVICE MAY BE PERSONALLY IDENTIFIABLE, AND IN SOME CASES INFORMATION (INCLUDING INFORMATION FROM OR ABOUT PAGES OF SOCIAL MEDIA WEBSITES YOU VISIT) MAY BE USED OR SHARED WITH THIRD PARTIES FOR PURPOSES OF DISPLAYING TARGETED ADVERTISEMENTS TO YOU. BUT PRIVACY IS IMPORTANT TO US, AND WE DO NOT ATTEMPT TO ANALYZE WEB USAGE DATA TO DETERMINE THE INDIVIDUAL IDENTITY OF ANY PLUGIN USER.
 
@@ -89,8 +87,8 @@ We work with third-party websites, advertisers, and Internet advertising compani
 **What Choices Do I Have?**
 
   * Licensor does not require that you provide us with personal identifying information in order to use most of our services. Therefore, you can always choose not to provide such information.
-  * To learn how to uninstall the Plugin and any bundled software, please visit <http://coupondropdown.com/uninstall.php>
-  * If you do not want to receive e-mail or other mail from us, email [coupondropdown@gmail.com](mailto:coupondropdown@gmail.com) to modify your preferences.
+  * To learn how to uninstall the Plugin and any bundled software, please visit [www.CouponDropDown.com/uninstall.php](https://web.archive.org/uninstall.php)
+  * If you do not want to receive e-mail or other mail from us, [contact us](https://web.archive.org/web/20120919190517id_/http%3A//coupondropdown.com/contact.php) to modify your preferences.
   * The Help portion of the Plugin on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
   * The Plugin Service enables you to update certain browser configuration settings, such as your home page or your default search provider. If supported, you may configure these options during the installation process and in the Options menu in the Plugin Service.
 
