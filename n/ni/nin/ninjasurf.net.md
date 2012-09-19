@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjasurf.net privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610034454id_/http%3A//www.ninjasurf.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjasurf.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919201804id_/http%3A//www.ninjasurf.net/privacy.php) for the most accurate reproduction.*
 
 # NinjaSurf
 
