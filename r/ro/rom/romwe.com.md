@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606042127id_/http%3A//www.romwe.com/Privacy-ezp-11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920004831id_/http%3A//www.romwe.com/Privacy-ezp-11.html) for the most accurate reproduction.*
 
 # Privacy
 
