@@ -1,0 +1,525 @@
+<!--The following is the downloaded HTML source of the photoink.org privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919195728id_/http%3A//photoink.org/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy | PhotoInk
+</title><meta name="viewport" content="width=1200"><meta name="bitly-verification" content="bb0b44ab6f82"><link rel="stylesheet" href="css/main1.3.css" type="text/css" media="screen"><link href="http://fonts.googleapis.com/css?family=Lato:300,400|Armata|Quicksand|Marvel" rel="stylesheet" type="text/css">
+    <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script src="js/photoink.helpers.1.1.js" type="text/javascript"></script>
+
+    <script type="text/javascript">        var _sf_startpt = (new Date()).getTime()</script>
+
+    <link rel="shortcut icon" href="images/photoink_icon.png">
+    
+    <script type="text/javascript">
+
+        function isTouchDevice() {
+            return !!('ontouchstart' in window);
+        }
+
+        function checkClickRootMenu(link) {
+
+            // only applies to mobile devices
+            if (isTouchDevice() == false)
+                return true;
+
+            // if our submenu is already open, allow the link, if not, block it
+            if ($(link).parent().find('ul').is(':visible')) {
+
+                // make sure its been open at least a second
+                var openTime = $(link).parent().find('ul').data('openTime');
+
+                var curTime = new Date();
+
+                var dif = curTime - openTime;
+
+                if (dif > 500)
+                    return true;
+
+                return false;
+            }
+
+            return false;
+        }
+
+        $(document).ready(function () {
+
+            $("#menu-main-navigation > li").live({
+                mouseenter:
+                    function (obj) {
+                        openSubMenu($(this));
+                    },
+                mouseleave:
+                    function (obj) {
+                        closeSubMenu($(this));
+                    }
+            }
+            );
+
+            function openSubMenu(obj) {
+                $(obj).find('ul').css('visibility', 'visible');
+
+                // set the time it was opened
+                $(obj).find('ul').data('openTime', new Date());
+            };
+
+            function closeSubMenu(obj) {
+                $(obj).find('ul').css('visibility', 'hidden');
+
+                jQuery.removeData($(obj).find('ul'), 'openTime')
+            };
+        });
+    </script>
+
+    
+</head>
+<body>
+    <form method="post" action="/privacy" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWAgIFDxYCHgtfIUl0ZW1Db3VudAIFFgxmD2QWAmYPFQEBL2QCAQ9kFgRmDxUCBS9uZXdzFEN1bHR1cmUgJiBJbnRlcnZpZXdzZAIBD2QWAmYPFgIfAAIKFhQCAQ9kFgJmDxUCDS9jb21wYW55LW5ld3MMQ29tcGFueSBOZXdzZAICD2QWAmYPFQIaL2NvbXBldGl0aW9uLWFubm91bmNlbWVudHMZQ29tcGV0aXRpb24gQW5ub3VuY2VtZW50c2QCAw9kFgJmDxUCGy9kaWdpdGFsLXJpZ2h0cy1hbmQtdGhlLWxhdxhEaWdpdGFsIFJpZ2h0cyAmIHRoZSBMYXdkAgQPZBYCZg8VAhMvZXZlbnRzLXBob3RvLXdhbGtzE0V2ZW50cyAmIFBob3Rvd2Fsa3NkAgUPZBYCZg8VAhYvZXhoaWJpdGlvbnMtYW5kLXNob3dzE0V4aGliaXRpb25zICYgU2hvd3NkAgYPZBYCZg8VAhkvZXhwZXJpbWVudGFsLWdlYXItc2V0dXBzGkV4cGVyaW1lbnRhbCBHZWFyICYgU2V0dXBzZAIHD2QWAmYPFQIXL3Bob3RvZ3JhcGh5LWludGVydmlld3MVSW50ZXJ2aWV3cyAmIFByb2ZpbGVzZAIID2QWAmYPFQIXL3Bob3RvZ3JhcGh5LXBoaWxvc29waHkWUGhpbG9zb3BoeSAmIExpZmVzdHlsZWQCCQ9kFgJmDxUCFC9waG90b2dyYXBoeS1jdWx0dXJlE1Bob3RvZ3JhcGh5IEN1bHR1cmVkAgoPZBYCZg8VAhgvdGVjaG5vbG9neS1kZXZlbG9wbWVudHMXVGVjaG5vbG9neSBEZXZlbG9wbWVudHNkAgIPZBYEZg8VAgwvaW5zcGlyYXRpb24LSW5zcGlyYXRpb25kAgEPZBYCZg8WAh8AAhQWKAIBD2QWAmYPFQIVL2Fic3RyYWN0LWluc3BpcmF0aW9uFUFic3RyYWN0ICYgQ29uY2VwdHVhbGQCAg9kFgJmDxUCGS9hcmNoaXRlY3R1cmUtaW5zcGlyYXRpb24TQXJjaGl0ZWN0dXJlIC8gQ2l0eWQCAw9kFgJmDxUCGC9ibGFjay13aGl0ZS1pbnNwaXJhdGlvbg1CbGFjayAmIFdoaXRlZAIED2QWAmYPFQIQL2hkci1pbnNwaXJhdGlvbhhIaWdoIER5bmFtaWMgUmFuZ2UgKEhEUilkAgUPZBYCZg8VAhcvaW5kdXN0cmlhbC1pbnNwaXJhdGlvbhZJbmR1c3RyaWFsICYgVHJhbnNwb3J0ZAIGD2QWAmYPFQIVL2luZnJhcmVkLWluc3BpcmF0aW9uCUluZnJhcmVkIGQCBw9kFgJmDxUCFi9sYW5kc2NhcGUtaW5zcGlyYXRpb24JTGFuZHNjYXBlZAIID2QWAmYPFQIWL2xvdy1saWdodC1pbnNwaXJhdGlvbhlMb3cgTGlnaHQgJiBMb25nIEV4cG9zdXJlZAIJD2QWAmYPFQISL21hY3JvLWluc3BpcmF0aW9uBU1hY3JvZAIKD2QWAmYPFQIUL21pbmltYWwtaW5zcGlyYXRpb24HTWluaW1hbGQCCw9kFgJmDxUCEy9uYXR1cmUtaW5zcGlyYXRpb24GTmF0dXJlZAIMD2QWAmYPFQIjL3Blb3BsZS11cmJhbi1saWZlc3R5bGUtaW5zcGlyYXRpb24ZUGVvcGxlLCBVcmJhbiAmIExpZmVzdHlsZWQCDQ9kFgJmDxUCEy9waG90by1tYW5pcHVsYXRpb24SUGhvdG8gTWFuaXB1bGF0aW9uZAIOD2QWAmYPFQIcL3Bob3Rvam91cm5hbGlzbS1pbnNwaXJhdGlvbg9QaG90b2pvdXJuYWxpc21kAg8PZBYCZg8VAhUvcG9ydHJhaXQtaW5zcGlyYXRpb24SUG9ydHJhaXQgJiBGYXNoaW9uZAIQD2QWAmYPFQIaL2FjdGlvbi1zcG9ydHMtaW5zcGlyYXRpb24PU3BvcnRzICYgQWN0aW9uZAIRD2QWAmYPFQIXL3N0aWxsLWxpZmUtaW5zcGlyYXRpb24KU3RpbGwgTGlmZWQCEg9kFgJmDxUCFy90aW1lLWxhcHNlLWluc3BpcmF0aW9uClRpbWUtTGFwc2VkAhMPZBYCZg8VAhMvdHJhdmVsLWluc3BpcmF0aW9uBlRyYXZlbGQCFA9kFgJmDxUCGC91bmRlci13YXRlci1pbnNwaXJhdGlvbgtVbmRlciBXYXRlcmQCAw9kFgRmDxUCEC9waG90by10ZWNobmlxdWUPUGhvdG8gVGVjaG5pcXVlZAIBD2QWAmYPFgIfAAIYFjACAQ9kFgJmDxUCDi9hYnN0cmFjdC10aXBzFUFic3RyYWN0ICYgQ29uY2VwdHVhbGQCAg9kFgJmDxUCHy9hY3Rpb24tc3BvcnRzLXBob3RvZ3JhcGh5LXRpcHMPQWN0aW9uICYgU3BvcnRzZAIDD2QWAmYPFQIXL2FyY2hpdGVjdHVyZS1jaXR5LXRpcHMTQXJjaGl0ZWN0dXJlICYgQ2l0eWQCBA9kFgJmDxUCEi9iZWhpbmQtdGhlLXNjZW5lcxFCZWhpbmQgdGhlIFNjZW5lc2QCBQ9kFgJmDxUCHS9ibGFjay13aGl0ZS1waG90b2dyYXBoeS10aXBzDUJsYWNrICYgV2hpdGVkAgYPZBYCZg8VAgkvYnVzaW5lc3MIQnVzaW5lc3NkAgcPZBYCZg8VAhYvY29tcG9zaXRpb24tdGVjaG5pcXVlC0NvbXBvc2l0aW9uZAIID2QWAmYPFQIbL3Bob3RvZ3JhcGh5LWVxdWlwbWVudC10aXBzCUVxdWlwbWVudGQCCQ9kFgJmDxUCDS9nZW5lcmFsLXRpcHMYR2VuZXJhbCBUaXBzICYgVHV0b3JpYWxzZAIKD2QWAmYPFQIOL2hkci10ZWNobmlxdWUYSGlnaCBEeW5hbWljIFJhbmdlIChIRFIpZAILD2QWAmYPFQISL2luZmFyZWQtdGVjaG5pcXVlB0luZmFyZWRkAgwPZBYCZg8VAhQvbGFuZHNjYXBlLXRlY2huaXF1ZQpMYW5kc2NhcGVzZAIND2QWAmYPFQIcL2xpZ2h0aW5nLWV4cG9zdXJlLXRlY2huaXF1ZRNMaWdodGluZyAmIEV4cG9zdXJlZAIOD2QWAmYPFQIYL2xvbmctZXhwb3N1cmUtdGVjaG5pcXVlDUxvbmcgRXhwb3N1cmVkAg8PZBYCZg8VAg8vbG93LWxpZ2h0LXRpcHMRTG93IExpZ2h0ICYgTmlnaHRkAhAPZBYCZg8VAhAvbWFjcm8tdGVjaG5pcXVlBU1hY3JvZAIRD2QWAmYPFQIcL3Blb3BsZS11cmJhbi1saWZlc3R5bGUtdGlwcxlQZW9wbGUsIFVyYmFuICYgTGlmZXN0eWxlZAISD2QWAmYPFQIaL3Bob3Rvam91cm5hbGlzbS10ZWNobmlxdWUPUGhvdG9qb3VybmFsaXNtZAITD2QWAmYPFQIOL3BvcnRyYWl0LXRpcHMSUG9ydHJhaXQgJiBGYXNoaW9uZAIUD2QWAmYPFQIML3N0dWRpby10aXBzC1N0dWRpbyBUaXBzZAIVD2QWAmYPFQIcL3RpbWUtbGFwc2UtcGhvdG9ncmFwaHktdGlwcwpUaW1lLUxhcHNlZAIWD2QWAmYPFQIML3RyYXZlbC10aXBzC1RyYXZlbCBUaXBzZAIXD2QWAmYPFQIkL3dlZGRpbmctY29tbWVyY2lhbC1waG90b2dyYXBoeS10aXBzFFdlZGRpbmcgJiBDb21tZXJjaWFsZAIYD2QWAmYPFQIaL3dpbGRsaWZlLXBob3RvZ3JhcGh5LXRpcHMIV2lsZGxpZmVkAgQPZBYEZg8VAhAvcG9zdC1wcm9jZXNzaW5nD1Bvc3QgUHJvY2Vzc2luZ2QCAQ9kFgJmDxYCHwACBhYMAgEPZBYCZg8VAgsvcHMtZ2VuZXJhbAdHZW5lcmFsZAICD2QWAmYPFQIPL2hkci1wcm9jZXNzaW5nGEhpZ2ggRHluYW1pYyBSYW5nZSAoSERSKWQCAw9kFgJmDxUCCC9lZmZlY3RzDVBob3RvIEVmZmVjdHNkAgQPZBYCZg8VAhMvcGhvdG8tbWFuaXB1bGF0aW9uElBob3RvIE1hbmlwdWxhdGlvbmQCBQ9kFgJmDxUCES9waG90by1yZXRvdWNoaW5nDVBob3RvIFJldG91Y2hkAgYPZBYCZg8VAgkvdGV4dHVyZXMIVGV4dHVyZXNkAgUPZBYEZg8VAg0vZ2Vhci1yZXZpZXdzE0dlYXIsIFJldmlld3MgJiBESVlkAgEPZBYCZg8WAh8AAg8WHgIBD2QWAmYPFQIML2FjY2Vzc29yaWVzC0FjY2Vzc29yaWVzZAICD2QWAmYPFQINL2JhZ3Mtc3RvcmFnZQ5CYWdzICYgU3RvcmFnZWQCAw9kFgJmDxUCBi9ib29rcxNCb29rcyAmIEF1ZGlvIEJvb2tzZAIED2QWAmYPFQIQL2NvbXBhY3QtY2FtZXJhcw9Db21wYWN0IENhbWVyYXNkAgUPZBYCZg8VAgwvY3NjLWNhbWVyYXMLQ1NDIENhbWVyYXNkAgYPZBYCZg8VAgsvZGl5LXN0dWRpbwpESVkgU3R1ZGlvZAIHD2QWAmYPFQINL2RzbHItY2FtZXJhcwxEU0xSIENhbWVyYXNkAggPZBYCZg8VAgcvbGVuc2VzBkxlbnNlc2QCCQ9kFgJmDxUCDi9saWdodGluZy1nZWFyCExpZ2h0aW5nZAIKD2QWAmYPFQIPL29ubGluZS1zZXJ2aWNlD09ubGluZSBTZXJ2aWNlc2QCCw9kFgJmDxUCCS9wcmludGVycwhQcmludGVyc2QCDA9kFgJmDxUCES9yZWNlbnQtZ2Vhci1uZXdzC1JlY2VudCBOZXdzZAIND2QWAmYPFQIJL3NvZnR3YXJlCFNvZnR3YXJlZAIOD2QWAmYPFQIUL3NwZWNpYWxpemVkLWNhbWVyYXMTU3BlY2lhbGl6ZWQgQ2FtZXJhc2QCDw9kFgJmDxUCEy9zdXBlci16b29tLWNhbWVyYXMSU3VwZXIgWm9vbSBDYW1lcmFzZGTN04pyYCoLWRiwv/vPaQNVF/e1o5AmzlMebiWwtneodQ==">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwL85fORDwK109jUDAKI/ISPB/gjd5YC9f81NbBu3X4lXenJW1fZLEFfdVeK8GtI6sQc">
+        <div class="wrapper">
+            <div class="container">
+                <div id="header">
+		            <div id="header_inner">
+                        <div id="header_extras">
+                            <div id="header_extras_inner">
+                                <div class="header_social">
+                                    <div class="social_icon default">
+                                        <a href="http://www.facebook.com/PhotoInkOnline">
+                                            <img src="./images/facebook.png" alt="photoInk = news.tutorials.inspiration">
+                                        </a>
+                                    </div>
+
+                                    <div class="social_icon default">
+                                        <a href="https://twitter.com/#!/PhotoInkOnline">
+                                            <img src="./images/twitter.png" alt="">
+                                        </a>
+                                    </div>
+
+                                    
+                                </div>
+                            </div>
+                            <!-- #header_extras_inner -->
+                        </div>
+
+                        <!-- #header_extras -->
+                        <div class="logo">
+                            <a class="site_logo" href="./">
+                                <img src="./images/photoink41.png" alt="PhotoInk.">
+                            </a>
+                        </div>
+
+                        <a id="HyperLink1" class="feed-twitter-header" href="feedmytwitter"></a>
+
+                        <!-- .logo -->
+                        <div id="header_ad">
+                        </div>
+                    </div>
+                    <!-- #header_inner -->
+	            </div>
+    
+                <!-- #header -->
+
+                <div id="main_menu">
+                    <div class="inner">
+                        <div class="main_navigation">
+                            
+                                    <ul id="menu-main-navigation">
+                                        <li class="home"><a href="/"><span>Home</span></a></li>
+                                
+                                    <li><a href="/news" onclick="return checkClickRootMenu(this);"><span>Culture &amp; Interviews</span></a>
+
+                                        
+        <ul class="subMenu">
+    
+        <li id="menu-item-16"><a href="/company-news"><span>Company News</span></a></li>
+    
+        <li id="menu-item-16"><a href="/competition-announcements"><span>Competition Announcements</span></a></li>
+    
+        <li id="menu-item-16"><a href="/digital-rights-and-the-law"><span>Digital Rights &amp; the Law</span></a></li>
+    
+        <li id="menu-item-16"><a href="/events-photo-walks"><span>Events &amp; Photowalks</span></a></li>
+    
+        <li id="menu-item-16"><a href="/exhibitions-and-shows"><span>Exhibitions &amp; Shows</span></a></li>
+    
+        <li id="menu-item-16"><a href="/experimental-gear-setups"><span>Experimental Gear &amp; Setups</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photography-interviews"><span>Interviews &amp; Profiles</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photography-philosophy"><span>Philosophy &amp; Lifestyle</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photography-culture"><span>Photography Culture</span></a></li>
+    
+        <li id="menu-item-16"><a href="/technology-developments"><span>Technology Developments</span></a></li>
+    
+        </ul>
+    
+
+                                    </li>
+                                
+                                    <li><a href="/inspiration" onclick="return checkClickRootMenu(this);"><span>Inspiration</span></a>
+
+                                        
+        <ul class="subMenu">
+    
+        <li id="menu-item-16"><a href="/abstract-inspiration"><span>Abstract &amp; Conceptual</span></a></li>
+    
+        <li id="menu-item-16"><a href="/architecture-inspiration"><span>Architecture / City</span></a></li>
+    
+        <li id="menu-item-16"><a href="/black-white-inspiration"><span>Black &amp; White</span></a></li>
+    
+        <li id="menu-item-16"><a href="/hdr-inspiration"><span>High Dynamic Range (HDR)</span></a></li>
+    
+        <li id="menu-item-16"><a href="/industrial-inspiration"><span>Industrial &amp; Transport</span></a></li>
+    
+        <li id="menu-item-16"><a href="/infrared-inspiration"><span>Infrared </span></a></li>
+    
+        <li id="menu-item-16"><a href="/landscape-inspiration"><span>Landscape</span></a></li>
+    
+        <li id="menu-item-16"><a href="/low-light-inspiration"><span>Low Light &amp; Long Exposure</span></a></li>
+    
+        <li id="menu-item-16"><a href="/macro-inspiration"><span>Macro</span></a></li>
+    
+        <li id="menu-item-16"><a href="/minimal-inspiration"><span>Minimal</span></a></li>
+    
+        <li id="menu-item-16"><a href="/nature-inspiration"><span>Nature</span></a></li>
+    
+        <li id="menu-item-16"><a href="/people-urban-lifestyle-inspiration"><span>People, Urban &amp; Lifestyle</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photo-manipulation"><span>Photo Manipulation</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photojournalism-inspiration"><span>Photojournalism</span></a></li>
+    
+        <li id="menu-item-16"><a href="/portrait-inspiration"><span>Portrait &amp; Fashion</span></a></li>
+    
+        <li id="menu-item-16"><a href="/action-sports-inspiration"><span>Sports &amp; Action</span></a></li>
+    
+        <li id="menu-item-16"><a href="/still-life-inspiration"><span>Still Life</span></a></li>
+    
+        <li id="menu-item-16"><a href="/time-lapse-inspiration"><span>Time-Lapse</span></a></li>
+    
+        <li id="menu-item-16"><a href="/travel-inspiration"><span>Travel</span></a></li>
+    
+        <li id="menu-item-16"><a href="/under-water-inspiration"><span>Under Water</span></a></li>
+    
+        </ul>
+    
+
+                                    </li>
+                                
+                                    <li><a href="/photo-technique" onclick="return checkClickRootMenu(this);"><span>Photo Technique</span></a>
+
+                                        
+        <ul class="subMenu">
+    
+        <li id="menu-item-16"><a href="/abstract-tips"><span>Abstract &amp; Conceptual</span></a></li>
+    
+        <li id="menu-item-16"><a href="/action-sports-photography-tips"><span>Action &amp; Sports</span></a></li>
+    
+        <li id="menu-item-16"><a href="/architecture-city-tips"><span>Architecture &amp; City</span></a></li>
+    
+        <li id="menu-item-16"><a href="/behind-the-scenes"><span>Behind the Scenes</span></a></li>
+    
+        <li id="menu-item-16"><a href="/black-white-photography-tips"><span>Black &amp; White</span></a></li>
+    
+        <li id="menu-item-16"><a href="/business"><span>Business</span></a></li>
+    
+        <li id="menu-item-16"><a href="/composition-technique"><span>Composition</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photography-equipment-tips"><span>Equipment</span></a></li>
+    
+        <li id="menu-item-16"><a href="/general-tips"><span>General Tips &amp; Tutorials</span></a></li>
+    
+        <li id="menu-item-16"><a href="/hdr-technique"><span>High Dynamic Range (HDR)</span></a></li>
+    
+        <li id="menu-item-16"><a href="/infared-technique"><span>Infared</span></a></li>
+    
+        <li id="menu-item-16"><a href="/landscape-technique"><span>Landscapes</span></a></li>
+    
+        <li id="menu-item-16"><a href="/lighting-exposure-technique"><span>Lighting &amp; Exposure</span></a></li>
+    
+        <li id="menu-item-16"><a href="/long-exposure-technique"><span>Long Exposure</span></a></li>
+    
+        <li id="menu-item-16"><a href="/low-light-tips"><span>Low Light &amp; Night</span></a></li>
+    
+        <li id="menu-item-16"><a href="/macro-technique"><span>Macro</span></a></li>
+    
+        <li id="menu-item-16"><a href="/people-urban-lifestyle-tips"><span>People, Urban &amp; Lifestyle</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photojournalism-technique"><span>Photojournalism</span></a></li>
+    
+        <li id="menu-item-16"><a href="/portrait-tips"><span>Portrait &amp; Fashion</span></a></li>
+    
+        <li id="menu-item-16"><a href="/studio-tips"><span>Studio Tips</span></a></li>
+    
+        <li id="menu-item-16"><a href="/time-lapse-photography-tips"><span>Time-Lapse</span></a></li>
+    
+        <li id="menu-item-16"><a href="/travel-tips"><span>Travel Tips</span></a></li>
+    
+        <li id="menu-item-16"><a href="/wedding-commercial-photography-tips"><span>Wedding &amp; Commercial</span></a></li>
+    
+        <li id="menu-item-16"><a href="/wildlife-photography-tips"><span>Wildlife</span></a></li>
+    
+        </ul>
+    
+
+                                    </li>
+                                
+                                    <li><a href="/post-processing" onclick="return checkClickRootMenu(this);"><span>Post Processing</span></a>
+
+                                        
+        <ul class="subMenu">
+    
+        <li id="menu-item-16"><a href="/ps-general"><span>General</span></a></li>
+    
+        <li id="menu-item-16"><a href="/hdr-processing"><span>High Dynamic Range (HDR)</span></a></li>
+    
+        <li id="menu-item-16"><a href="/effects"><span>Photo Effects</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photo-manipulation"><span>Photo Manipulation</span></a></li>
+    
+        <li id="menu-item-16"><a href="/photo-retouching"><span>Photo Retouch</span></a></li>
+    
+        <li id="menu-item-16"><a href="/textures"><span>Textures</span></a></li>
+    
+        </ul>
+    
+
+                                    </li>
+                                
+                                    <li><a href="/gear-reviews" onclick="return checkClickRootMenu(this);"><span>Gear, Reviews &amp; DIY</span></a>
+
+                                        
+        <ul class="subMenu">
+    
+        <li id="menu-item-16"><a href="/accessories"><span>Accessories</span></a></li>
+    
+        <li id="menu-item-16"><a href="/bags-storage"><span>Bags &amp; Storage</span></a></li>
+    
+        <li id="menu-item-16"><a href="/books"><span>Books &amp; Audio Books</span></a></li>
+    
+        <li id="menu-item-16"><a href="/compact-cameras"><span>Compact Cameras</span></a></li>
+    
+        <li id="menu-item-16"><a href="/csc-cameras"><span>CSC Cameras</span></a></li>
+    
+        <li id="menu-item-16"><a href="/diy-studio"><span>DIY Studio</span></a></li>
+    
+        <li id="menu-item-16"><a href="/dslr-cameras"><span>DSLR Cameras</span></a></li>
+    
+        <li id="menu-item-16"><a href="/lenses"><span>Lenses</span></a></li>
+    
+        <li id="menu-item-16"><a href="/lighting-gear"><span>Lighting</span></a></li>
+    
+        <li id="menu-item-16"><a href="/online-service"><span>Online Services</span></a></li>
+    
+        <li id="menu-item-16"><a href="/printers"><span>Printers</span></a></li>
+    
+        <li id="menu-item-16"><a href="/recent-gear-news"><span>Recent News</span></a></li>
+    
+        <li id="menu-item-16"><a href="/software"><span>Software</span></a></li>
+    
+        <li id="menu-item-16"><a href="/specialized-cameras"><span>Specialized Cameras</span></a></li>
+    
+        <li id="menu-item-16"><a href="/super-zoom-cameras"><span>Super Zoom Cameras</span></a></li>
+    
+        </ul>
+    
+
+                                    </li>
+                                
+                                    </ul>
+                                
+
+                            <div id="searchform">
+                                <div>
+                                    <input name="ctl00$text_search" type="text" id="text_search" class="s">
+                                    
+                                </div>
+                                <input type="submit" name="ctl00$buttonSearch" value="Search" id="buttonSearch" class="searchsubmit">
+                                
+                            </div>
+                        </div>
+                        
+                        <div class="clearboth">
+                        </div>
+                    </div>
+                </div>
+
+                
+                
+
+                <!-- clear the floats -->
+                <div class="clear"></div>
+
+                
+
+    <div class="input-form new-post">
+    
+        <h1>Privacy Policy</h1>
+
+        <p>This privacy policy sets out how PhotoInk uses and protects any information that you give PhotoInk when you use this website.</p>
+
+        <p>
+        PhotoInk is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+        </p>
+
+        <p>
+        PhotoInk may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2011.
+        </p>
+
+        <h2>What we collect</h2>
+
+        We may collect the following information:
+        <ul>
+            <li>demographic information such as geographic location</li>
+            <li>other information relevant to customer surveys and/or offers</li>
+        </ul>
+        
+        <h2>What we do with the information we gather</h2>
+
+        <p>
+        We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+        </p>
+
+        <ul>
+        <li>Internal record keeping. </li>
+        <li>We may use the information to improve our products and services. </li>
+        </ul>
+
+        <h2>Security</h2>
+
+        <p>
+        We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+        </p>
+
+        <h2>How we use cookies</h2>
+
+        <p>
+        A cookie is a small file which is to be placed on your computer's hard drive.  The file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+        </p>
+        <p>
+        We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+        </p>
+        <p>
+        Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+        </p>
+
+        <p>
+        You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+        </p>
+
+        <h2>Links to other websites</h2>
+        <p>
+        Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+        Controlling your personal information
+        </p>
+
+        <p>
+        We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+        </p>
+
+        <p>
+        If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+        </p>
+    </div>
+
+
+
+            </div>
+
+            <!-- #footer -->
+            <div id="sub_footer">
+                <div id="sub_footer_inner">
+                    <div class="copyright_text">
+                        © PhotoInk 2012. All rights reserved.
+                    </div>
+
+                    <div class="copyright_right">
+						<a id="HyperLink4" href="http://antfx.com">Forex Systems and Blog</a>
+                        &nbsp;|&nbsp;
+                        <a id="HyperLink3" href="stoptweeting">Stop Auto-Tweeting</a>
+                        &nbsp;|&nbsp;
+                        <a id="linkContact" href="contact">Contact PhotoInk</a>
+                        &nbsp;|&nbsp;
+                        <a id="HyperLink2" href="privacy">Privacy Policy</a>
+                    </div>
+                </div>
+                <!-- #sub_footer_inner -->
+            </div>
+        </div>
+    </form>
+
+    <script type="text/javascript">
+
+        
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-3584364-8']);
+        _gaq.push(['_setAllowAnchor'], true);
+        _gaq.push(['_trackPageview']);
+        
+//        _gaq.push(function () {
+//            if (document.location.hash.indexOf("utm_") != -1)
+//                document.location.hash = "#";
+//        });
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        
+
+    </script>
+
+    
+
+    <!-- Start of Woopra Code -->
+
+    <script type="text/javascript">
+    function woopraReady(tracker) {
+        tracker.setDomain('photoink.org');
+        tracker.setIdleTimeout(300000);
+        tracker.trackPageview({ type: 'pageview', url: window.location.pathname + window.location.search, title: document.title });
+        return false;
+    }
+    (function () {
+        var wsc = document.createElement('script');
+        wsc.src = document.location.protocol + '//static.woopra.com/js/woopra.js';
+        wsc.type = 'text/javascript';
+        wsc.async = true;
+        var ssc = document.getElementsByTagName('script')[0];
+        ssc.parentNode.insertBefore(wsc, ssc);
+    })();
+
+    </script>
+
+    <!-- End of Woopra Code -->
+
+    <script type="text/javascript">
+        var _sf_async_config = { uid: 38070, domain: "photoink.org" };
+        (function () {
+            function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function () { oldonload(); loadChartbeat(); };
+        })();
+
+    </script>
+
+    
+
+
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
