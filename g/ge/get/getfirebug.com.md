@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfirebug.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207202458id_/http%3A//www.mozilla.com/en-US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfirebug.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919213439id_/http%3A//www.mozilla.com/en-US/privacy-policy.html) for the most accurate reproduction.*
 
 # Mozilla Privacy Policy
 
@@ -71,7 +71,7 @@ Mozilla uses the information provided by cookies and clear gifs to develop a bet
 
 ### Opt-out Procedures
 
-If you do not want to allow your session visitation information on the Mozilla websites to be aggregated and analyzed by Mozilla (or its third-party analytics providers) you may utilize the following [opt-out mechanisms listed here](https://web.archive.org/web/20120208010651id_/http://www.mozilla.org/en-US/opt-out.html). Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from Mozilla, you can opt-out from receiving these communications by following the “unsubscribe” instructions in any such communication you receive.
+If you do not want to allow your session visitation information on the Mozilla websites to be aggregated and analyzed by Mozilla (or its third-party analytics providers) you may utilize the following [opt-out mechanisms listed here](https://web.archive.org/web/20120918062033id_/http://www.mozilla.org/en-US/opt-out.html). Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from Mozilla, you can opt-out from receiving these communications by following the “unsubscribe” instructions in any such communication you receive.
 
 ### Mozilla Ads
 
@@ -79,7 +79,17 @@ Mozilla places advertisements on third party websites to introduce people to our
 
 We use a vendor - TruEffect - to power our advertisements via the website media.mozilla.com. Some advertisements associated with this site may use cookies. Cookies are text files that your web browser places on your computer when you visit a website and can be used to store information about your activity. When you view Mozilla's advertisements on third party sites where we advertise, cookies from these campaigns provide information to us that is used to help measure and improve performance of our advertising. We do not use cookies to save data that identifies you personally such as your name, address, credit card number or other confidential information, nor do we capture behavioral data to personalize future ads or create targeting profiles about you.
 
-Most browsers accept cookies automatically, but they can be configured not to accept them or to indicate when a cookie is being set (see <http://www.allaboutcookies.org/manage-cookies/>). You may choose to opt-out of our cookies by clicking on the following link: [Opt-Out Now](http://media.mozilla.com/).
+Most browsers accept cookies automatically, but they can be configured not to accept them or to indicate when a cookie is being set (see <http://www.allaboutcookies.org/manage-cookies/>).
+
+#### SMS Text Messages
+
+Mozilla provides an easy way to request an SMS text message with a link to download Firefox for Android. The mobile phone number you provide will be used and stored only for the purpose of sending requested communications and providing abuse blocking.
+
+### Social Networking Services
+
+Mozilla may interact with you through social networks to further our mission. When you interact with us at a third-party social network, such as Facebook, Twitter, or Google +, the network gives us the ability to access and store certain information from your profile for that social network.
+
+The categories of information we can access will depend, in part, on the permissions you grant us and the privacy settings you have established on that social network. In general, we try to minimize the amount of data we receive about you on social services. We will handle any information we receive from these services in accordance with this privacy policy.
 
 ### Legal Process and Other Disclosures
 
