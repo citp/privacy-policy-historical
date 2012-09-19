@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockboot.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624053501id_/http%3A//unlockboot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockboot.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005417id_/http%3A//unlockboot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Unlock 4.11.08 iPhone Jailbreak 5.1.1 Gevey 4S 2.0.12 Unlock 4.12.01: Privacy Policy
 
