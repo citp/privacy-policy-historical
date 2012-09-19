@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesnitro.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230154id_/http%3A//www.gamesnitro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesnitro.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919094620id_/http%3A//gamesnitro.com/privacy.php) for the most accurate reproduction.*
 
 # GameNitro.com's Privacy Policy
 
