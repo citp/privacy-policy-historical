@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insomniacookies.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515142314id_/http%3A//insomniacookies.com/index.php%3Froute%3Dinformation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insomniacookies.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195604id_/https%3A//insomniacookies.com/index.php%3Froute%3Dinformation/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Insomnia Cookies
 
