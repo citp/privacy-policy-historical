@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlps.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222822id_/http%3A//www.girlps.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlps.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003623id_/http%3A//girlps.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Girl PlayStation
+# Privacy Policy - Girl PlayStation - Free Online Girl Games
 
 **Privacy Policy for www.girlps.com**
 
