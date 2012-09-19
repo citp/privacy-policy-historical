@@ -1,100 +1,75 @@
-> *The following text is extracted and transformed from the freemyapps.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemyapps.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919220917id_/http%3A//www.freemyapps.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# FreeMyApps :: Discover Great Apps. Get Rewarded.
 
-**Go Daddy Respects Your Privacy**
+Last modified: January 18, 2012
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Fiksu, Inc. (“Fiksu”) is committed to maintaining the privacy of your personal information when you visit our website at [ freemyapps.com](http://freemyapps.com/) (the “Site”), use our related services (“Services”) and/or download and use any Fiksu proprietary applications or any third party applications accessible for download from the Site (together, the “Applications”). This Privacy Policy describes how we treat the information collected from you in connection with your use of our Site, Services and Applications. Fiksu also provides ad optimization services on behalf of mobile applicable provider clients (“Clients”). This Privacy Policy further describes how we use and disclose information collected in connection with providing such services to Clients. By using the Site or Services, you are consenting to the collection, use, and sharing of information collected from you as described below in this Privacy Policy.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### Registration and Personally Identifiable Information 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Fiksu does not collect any personally identifiable information about you unless you choose to provide it to us, either by contacting us and providing us with such information, or through registration at our Site. Site registration is a feature we may offer in the future and if we do, it will be completely optional. You do not and will not have to register in order to use the Site or Services or download any Applications.
 
-**Information Collection and Use**
+We will use personally identifiable information for the purpose(s) for which you provided the information. For example, we will use your email address and mobile number, respectively, to respond to an email/SMS inquiry you have made.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### Collection of Non Personally Identifiable Information 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We automatically collect IP addresses, website usage and application usage information from you when you visit our Site or download Applications. When you download and use Applications, we may also collect your “unique device ID” or “UDID,” which is a number uniquely associated with your mobile device. We cannot use the UDID to identify you personally, rather this information helps us evaluate how end users use our website and applications, and permits us to enhance those sites and applications. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may use the information collected about you in the following ways:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+To maintain, operate, provide and enhance our Site and Services.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+To allow us to personalize the content and target the advertising that you and others see based on personal characteristics, usage patterns and/or preferences.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+To provide advertisers and other third parties with aggregate information about our user base and its usage patterns.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may combine the non personally identifiable information that we collect about you from your use of the Site and Services with other non personally identifiable information that you provide to us in connection with your use of other Fiksu products, services and websites.
 
-**Security**
+We use third-party network advertisers, to deliver ads to you on our behalf. These network advertisers may be supplied with or have access to your non personally identifiable information (such as IP address and UDID).
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+As stated above, we do not collect personally identifiable information unless you provide it to us. However, we do still want you to understand the limited circumstances under which your personally identifiable information could be disclosed if you do provide it to us.
 
-**Updating Your Information**
+Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information outside of Fiksu.We may disclose and use personally identifiable information to resolve disputes, troubleshoot problems, enforce our Terms of Service or other legal rights (for example, when necessary to protect our or a third party’s intellectual property or proprietary rights), or to alert you to changes in our policies or agreements that may affect your use of our application and Website. We may also disclose your personally identifiable information to comply with legal requirements or process, or where necessary to prevent or investigate fraud, to protect the safety of an individual. In addition, we may share your personally identifiable information with subcontractors, vendors and other businesses that we employ to perform functions on our behalf. For example, we may employ third parties to send email campaigns or provide marketing assistance, or provide customer service. These entities have access to your information only for the purposes of performing the functions for which we have engaged them. If such entities have access to your personally identifiable information, their agreements with us require them to keep your information confidential.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We may also disclose personally identifiable information to a successor acquirer or other related entity, in connection with a sale or transfer of some or all of our assets, or when we, in good faith, believe that the law requires us to do so.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Fiksu Application Marketing
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Fiksu buys mobile advertising space on behalf of certain mobile application providers (Clients). When you click on a Client ad or application link delivered by Fiksu, Fiksu servers receive and store the “unique device ID” or “UDID,” which is a number uniquely associated with your mobile device. Fiksu cannot use the UDID to identify you personally, but it does enable us to collect information about the kind of mobile device you use, the operating system for your mobile device, the applications you download from Fiksu Clients, and when, how, and how often you use those applications. 
 
-      iii.      You may call us at: (480) 505-8800
+We use your UDID and information about Client applications you download to report on the number of unique users who click through Fiksu Client ads, and the number of those users who download Client applications as a result of those ads.
 
-       iv.      You may fax us at: (480) 505-8844
+We also use your UDID and the information associated with your UDID over time (e.g., the applications you download, when and how you use those applications, and any publisher-provided demographic data) to enhance our services and to select Fiksu Client ads that are most likely to be of interest to you.
 
-**Sending Emails**
+Fiksu may disclose your non personally identifiable information (e.g. UDID, IP address, application usage information) to its advertisers, agents, contractors and other third parties in order to operate, provide and improve our services to our Clients and to end-users. In addition, we may disclose your non personally identifiable information to a successor acquirer or other related entity, in connection with a sale or transfer of some or all of our assets.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+### Cookies
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Some of the advertisers and Web analytics firms used on our Site or in connection with our Client ads may place “tracking cookies” on your device. These are small text files that can tell such companies what you are doing online, even though they usually don’t record your name or other personally identifiable information. These cookies are used by these companies to try and match ads to a user’s interests. Fiksu may place cookies on your device, in addition to any placed by advertisers. We use information collected from cookies to target the interests of our end users, help us understand how users our using our Services, and enhance end users’ experience on the Site.
 
-**Compliance with Laws and Law Enforcement**
+You can change the preferences or settings in your Web browser to control cookies. The Help menu on the menu bar of most browsers will tell you how. In some cases, you can choose to accept cookies from the primary site, but block them from third parties. In others, you can block cookies from specific advertisers, or clear out all cookies.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### Links to Other Content and Third Party Applications
 
-**Third Party Service Providers**
+We frequently make content or services from other websites available to you from links located without our Sites. These other websites are not subject to this Privacy Policy, and we have no control over how such websites may use the personal information collected on those sites. Similarly, the Applications you download from our Site are owned by third parties and we have no control over what information is collected or used by such third parties as a result of your use of such Applications. We recommend that you review the privacy policy and end user terms associated with each of these third party websites and Applications to determine their respective information collection, use and disclosure practices. Of course, you understand that we are not in any way responsible for the privacy practices or the content of third party websites, services or Applications.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### Children’s Privacy
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Our website is not directed at children under the age of 13 and we do not knowingly collect personally identifiable information from children under the age of 13.
 
-**Supplementation of Information**
+### Security
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+The personally identifiable information we collect about you (if any) is stored in limited access servers. The security of your personal information is important to us, and we maintain industry standard safeguards to protect the security of these servers and your personally identifiable information. However, no method of transmission or electronic storage is 100% secure. Therefore, we cannot guarantee the security of such information or be responsible for any damage that results from a breach in security.
 
-**Contests/Surveys**
+### Transfer to the U.S. or other countries
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Your information may be stored and processed in the United States. We may store your information for as long as need for the purposes indicated in this privacy policy, and that may be indefinitely. or any other country where Fiksu has facilities, and by using our Site, you consent to the transfer of information outside of your country.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+### Changes to this Privacy Policy
 
-**Tell-A-Friend**
+When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### Questions
 
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have questions about this Privacy Policy, please contact us at [ support@freemyapps.com](mailto:support@freemyapps.com).
