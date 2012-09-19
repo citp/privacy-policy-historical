@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltakeoff.net privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603101645id_/http%3A//www.globaltakeoff.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltakeoff.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205026id_/http%3A//www.globaltakeoff.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GlobalTakeOff
 
