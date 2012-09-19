@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infonow.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501094415id_/http%3A//www.channelinsight.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infonow.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192936id_/http%3A//www.channelinsight.com/privacypolicy) for the most accurate reproduction.*
 
 # Channelinsight Privacy Policy
 
