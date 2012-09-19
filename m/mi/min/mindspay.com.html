@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mindspay.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621221016id_/http%3A//www.mindspay.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindspay.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920004924id_/http%3A//mindspay.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -29,18 +29,33 @@
 	.curvN2,.curvS2{width:627px;}
 	.texbox_main{width:630px;}
 	.cur{cursor:hand;}
+	.popup_bx{background:url('/images/popup_bx.png') no-repeat;width:595px;height:135px;}
   </style>
  </head>
  <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
  
+
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/dwr/interface/userOperations.js"></script>
+<script src="/dwr/engine.js"></script>
+<script src="/dwr/util.js"></script>
+<script language="javascript">
+	function resendWelcomeMail(email){
+		document.getElementById("resend").innerHTML = '<img src="/admin/images/loading.gif" width="16" height="16" alt="" />';
+		userOperations.resendWelcomeMail(responseHandler, email);
+	}
+	function responseHandler(value){
+		document.getElementById("resend").innerHTML = value==1?"<font color=\"#FFFd38;\"><b>Email Sent Successfully.</b></font>":"<font color=\"white\"><b>Email Not Sent, Check your email.</b></font>";
+	}
+
+</script>
+
   <table width="724" cellpadding="0" cellspacing="0" border="0" align="center">
 	<tbody><tr>
 		<td colspan="3">
 			
 				<a href="/" class="cur"><div class="logo"><div class="pnch"><b class="eigteen">Be heard!</b>&nbsp;Your Opinion Matters!</div></div></a>
 				
-				<div class="topLinks">
-				
+				<div class="topLinks" style="position:relative;">
 					<table cellpadding="0" cellspacing="0" border="0">
 						<tbody><tr>
 						
@@ -68,6 +83,7 @@
 	<tr>
 		<td width="9" class="shdw_lft">&nbsp;</td>
 		<td height="530" align="center" class="at pad5"><br>
+		
 <!-- Header END -->
 
 	<div class="hding">
@@ -200,7 +216,7 @@
   </tbody></table>
 
  
- <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+ <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18602323-1']);
