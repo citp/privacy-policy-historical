@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 13deals.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621080155id_/http%3A//www.13deals.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 13deals.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919224141id_/http%3A//13deals.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
@@ -11,6 +11,24 @@
 
 <script type="text/javascript" src="https://www.13deals.com/admin/easySlider1.5.js"></script>
 <script type="text/javascript" src="https://www.13deals.com/admin/galleria-1.2.3.min.js"></script>
+
+<script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#popup").fancybox({
+			'width'				: 480,
+			'height'			: 330,
+			'autoScale'			: false,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		
+		        
+	});
+</script> 
+
 <script type="text/JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -37,6 +55,12 @@ function MM_swapImage() { //v3.0
 }
 //-->
 
+$(document).ready(function (){
+	var header_banner_images=['<a href="http://www.locobuy.com/" target="__blank"><img src="images/noonerdeal-468x60.gif" border="0"></a>', '<a href="http://www.7deadlydeals.com/" target="__blank"><img src="images/468x60-1.gif" border="0"></a>'];
+	var randomnumber=Math.floor(Math.random()*2);
+	$('#header_banner').html(header_banner_images[randomnumber]);
+});
+
 </script>
 
 
@@ -44,23 +68,22 @@ function MM_swapImage() { //v3.0
 				<link href="styles.css" rel="stylesheet">
 	</head>
 	<body onload=" MM_preloadImages('images/HnavAbout.png', 'images/Hcart.png', 'images/HnavContact.png','images/HnavMyaccount.png'); 	" class="product_page_body">
+	<div style="display:none"><a id="popup" href="/newsletter_popup.php"></a></div>
 		<style type="text/css">body{background-image:url(images/mainbg.jpg);}</style>
 		
 	<div class="ajax_cart_container_overlay" onclick="hideCart()" style="display:none"></div> 
 	<div class="ajax_cart_container" style="display:none"></div>
 		<!--top header-->
 		 <!--starttabs-->
+		
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td><div align="center">
       <table width="991" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td width="528" height="70" style="padding-left:15px;">
-          <a href="http://www.locobuy.com/" target="__blank"><img src="images/noonerdeal-468x60.gif" border="0"></a>
+          <td width="528" height="70" style="padding-left:15px;" id="header_banner">
 			<!-- // BEGIN PAN AD WIDGET EMBED CODE FOR 13DEALS.COM -->
-						
-				<!-- // END OF PAN AD WIDGET EMBED CODE -->
-
+			<!-- // END OF PAN AD WIDGET EMBED CODE -->
 		  </td>
 		  <td width="463" valign="top"><img src="images/tabs/sep.jpg" style="float:left;"><!--<a href="http://specials.13deals.com" class="tabs_specials"></a>--><a href="http://pets.13deals.com" class="tabs_pets"></a><a href="http://www.13deals.com" class="tabs_13deals_current"></a></td>
         </tr>
