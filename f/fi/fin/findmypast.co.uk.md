@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622055151id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235319id_/https%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Findmypast.co.uk
 
 [](https://web.archive.org/ "back to homepage")
 
-  * [Home](https://web.archive.org/ "home")
-  * [My family tree](https://web.archive.org/family-tree "family trees")
-  * [Search records](https://web.archive.org/search/all-records)
+  * [Home](https://web.archive.org/)
+  * [My family tree](https://web.archive.org/family-tree)
+  * Search records
     * [Search all records](https://web.archive.org/search/all-records)
     * [Armed forces & conflict](https://web.archive.org/content/search-menu/armed-forces-and-conflict)
+    * [Birth, marriage, death & parish records](https://web.archive.org/content/search-menu/life-events-bmds)
     * [Census, land & surveys](https://web.archive.org/content/search-menu/census-land-and-surveys)
     * [Directories & living relatives](https://web.archive.org/content/search-menu/directories-and-living-relatives)
     * [Education & work](https://web.archive.org/content/search-menu/education-and-work)
     * [Institutions & organisations](https://web.archive.org/content/search-menu/institutions-and-organisations)
-    * [Life events (BMDs)](https://web.archive.org/content/search-menu/life-events-bmds)
     * [Special collections](https://web.archive.org/content/search-menu/special-collections)
     * [Travel & migration](https://web.archive.org/content/search-menu/travel-and-migration)
   * [My saved records](https://web.archive.org/tools/saved-records/list)
-  * [News](https://web.archive.org/content/news/2012)
+  * News
     * [Blog](https://web.archive.org/blog)
     * [News](https://web.archive.org/content/news/2012)
-  * [Help & advice](https://web.archive.org/help-and-advice/getting-started/interested-family-history)
+  * Help & advice
     * [Getting started](https://web.archive.org/help-and-advice/getting-started/interested-family-history)
     * [Site tour](https://web.archive.org/help-and-advice/site-tour/viewing-records)
     * [Knowledge base](https://web.archive.org/help-and-advice/knowledge-base/births-marriages-deaths/index)
