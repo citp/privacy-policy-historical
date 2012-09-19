@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filedroid.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510002334id_/https%3A//en.filedroid.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filedroid.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013939id_/http%3A//filedroid.net/datenschutzerklaerung) for the most accurate reproduction.*
 
 # Privacy Policy | filedroid
 
@@ -14,4 +14,4 @@ We shall also be authorized to disclose your personal information as required or
 
 By using this website, you consent to the collection, use and storage of your information by us in the manner described in this privacy policy. After the end of a membership your personally identifiable information remains stored within the legally required period and subsequently will be deleted. If you just want to unsubscribe from our newsletter, you may use the respective “unsubscribe” hyperlink in each newsletter. If you want to revoke your agreement with our usage of your personally identifiable information, please contact us through our support form. We reserve the right to change this privacy policy at any time.
 
-[Contact](https://web.archive.org/contact) [Legal notice](https://web.archive.org/imprint)
+[Contact](https://web.archive.org/kontakt) [Legal notice](https://web.archive.org/impressum)
