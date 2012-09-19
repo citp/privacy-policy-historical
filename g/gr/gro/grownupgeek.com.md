@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007162807id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003617id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
 
 # GrownUpGeek.com Privacy/Content Policies and Terms of Service | Help For Beginners
 
@@ -14,8 +14,7 @@ This notice applies to all information collected or submitted on the GrownUpGeek
 
 Name (any name you choose, not validated)   
 Email address (must be valid)   
-Home Page (optional)  
-Random information that you provide (optional) 
+Home Page (optional)
 
 
 **The Way We Use Membership Information:**
@@ -29,10 +28,6 @@ Our website uses the "[Akismet](http://akismet.com/)" Anti-Spam system.  By pos
 **eMail Address In Forum and Comment Posts:**
 
 To protect your privacy, posting of email address in comments or forum posts is not permitted. All posts containing email address are either deleted or edited to remove the email address before being published. We do this to protect our members from internet-scammers and spammers that may harvest your email address from our website.
-
-**IP Addresses In Our  Chat Room:**
-
-In order to maintain civility and to ensure personal responsibility while chatting in our chatroom, your IP address will be available to chat-room moderators.  If you do not wish that your IP address be made available, please do not use our chat room.
 
 **I** **P  Addresses In Posts & Comments:**
 
@@ -65,6 +60,8 @@ Currently, GrownUpGeek.com has relationships with the following third-party ad s
 
   * InfoLinks  
 <http://www.infolinks.com/infolinks-privacy-policy>
+  * Criteo  
+<http://www.criteo.com/us/privacy-policy>
   * Microsoft AdCenter-Publisher  
 <http://privacy.microsoft.com/en-us/default.mspx>
   * Kontera**  
@@ -107,6 +104,10 @@ Registered members can access all personally identifiable information that they 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and procedures to safeguard and secure the information we collect online.
 
+**User Account Validation**
+
+All new member accounts will be sent a validation email.  Accounts not validated within 2 hours will be removed from our system
+
 **Cancellation of services**
 
 You may, at any time request to cancel your account and specify that all your personal data be removed from our servers. Please note that all posts, comments, replies, or any other content submitted by you become the property of grownupgeek.com and will not be removed.
@@ -139,6 +140,10 @@ _GrownUpGeek.com is family website and as such, all posts must remain family fri
 **Confidentiality and Non Disclosure:**
 
 All information in our Premium Membership areas shall remain confidential.  By entering our Premium Membership areas you agree to keep confidential all information contained therein.
+
+**Age Restrictions:**
+
+You must be at least 13 years of age to register an account.  Accounts found to belong to members that do not meet this minimum age requirment will be deleted from our system.
 
 **Content Ownership:**
 
