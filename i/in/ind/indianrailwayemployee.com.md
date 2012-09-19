@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616005741id_/http%3A//indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919104528id_/http%3A//indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Railway Employee
 
