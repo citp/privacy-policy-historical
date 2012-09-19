@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214652id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920011947id_/http%3A//brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Homework Help from BrainMass
 
