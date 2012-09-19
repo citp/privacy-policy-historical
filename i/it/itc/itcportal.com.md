@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcportal.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615054811id_/http%3A//www.itcportal.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcportal.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919220656id_/http%3A//www.itcportal.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@
   * In the course of its business ITC Limited may hold on-line contests and surveys as permitted by law and it reserves its right to use and disseminate the information so collected to enhance its services to the visitors. This shall also include sharing the information with its subsidiaries and business associates as a general business practice. 
 
 
-  * If you have any questions or concerns regarding your privacy issues, please do not hesitate to contact ITC Limited at [webmaster@itc.in](https://web.archive.org/web/20120615054811id_/http%3A//www.itcportal.com/contact-us.aspx)
+  * If you have any questions or concerns regarding your privacy issues, please do not hesitate to contact ITC Limited at [webmaster@itc.in](https://web.archive.org/web/20120919220656id_/http%3A//www.itcportal.com/contact-us.aspx)
 
 
   * While ITC Limited assures you that it will do its best to ensure the privacy and security of your personal information, it shall not be responsible in any manner whatsoever for any violation or misuse of your personal information by unauthorised persons consequent to misuse of the internet environment.
