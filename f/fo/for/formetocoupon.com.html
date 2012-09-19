@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503232328id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919195636id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Privacy Policy</title>
 	<meta name="description" content="">
-	
+
 	<script type="text/javascript" language="JAVASCRIPT">
 		var request = false;
 		var merchantid = 0;
@@ -172,6 +172,29 @@
 		 	request.send(null);
 
 		}
+
+		function checkun(){
+			var uname = document.getElementById('username').value;
+			var num = Math.random();
+			var urll = "checkUsername.php?uname=" + escape(uname) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateUsername;
+		 	request.send(null);
+		}
+
+		function updateUsername() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+					//unchk
+	  	 		var response = request.responseText;
+	  	 		if(response == 1)
+	  	 			document.getElementById('unchk').innerHTML = 'OK';
+	  	 		else
+	  	 			document.getElementById('unchk').innerHTML = 'BAD';
+				}
+			}
+		}
+
 
 		function blockCoupon(obj,uid,pid,block) {
 
@@ -614,6 +637,35 @@
 			document.f1.submit();
 		}
 	}
+
+	function confirmVoid(){
+		var agree=confirm("Are you sure you want to void this invoice?");
+		if (agree)
+			return true ;
+		else
+			return false ;
+
+	}
+
+	function confirmCredit(){
+
+		var amount = document.getElementById("amount").value;
+		amount = parseFloat(amount);
+
+		if(amount > 0){
+
+			var agree=confirm("Are you sure you want to issue a $" + amount + " credit on this invoice?");
+			if (agree)
+				return true ;
+			else
+				return false ;
+		}else{
+			alert("You must enter an amount to issue a partial credit.");
+			return false ;
+		}
+
+	}
+
 	</script>
 			<style>
 			body {margin:0; background-color:#aeeda6; background-image:url(http://www.formetocoupon.com/images/website/bg.png); background-repeat: repeat-x;}
