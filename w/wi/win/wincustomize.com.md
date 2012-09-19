@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wincustomize.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515150653id_/http%3A//www.wincustomize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincustomize.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003701id_/http%3A//wincustomize.com/privacy) for the most accurate reproduction.*
 
 # WinCustomize: Privacy Policy
 
