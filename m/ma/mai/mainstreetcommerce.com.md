@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreetcommerce.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510125203id_/http%3A//www.mainstreetcommerce.com/terms-of-use-a-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreetcommerce.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919212142id_/http%3A//mainstreetcommerce.com/terms-of-use-a-privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy
 
