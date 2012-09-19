@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctiawireless.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508132427id_/http%3A//www.ctiawireless.com/site/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctiawireless.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919210758id_/http%3A//www.ctiawireless.com/site/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
