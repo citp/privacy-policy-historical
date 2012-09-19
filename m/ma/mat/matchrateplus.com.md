@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchrateplus.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505035015id_/http%3A//www.matchrateplus.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchrateplus.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919201637id_/http%3A//www.matchrateplus.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Match Rate Plus > Legal > Privacy Policy
 
