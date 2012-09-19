@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiderkerala.net privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526202529id_/http%3A//www.spiderkerala.net/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiderkerala.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919081559id_/http%3A//www.spiderkerala.net/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SpiderKerala.net privacy policy
 
