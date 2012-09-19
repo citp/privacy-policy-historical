@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523162424id_/http%3A//www.juilliard.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919212922id_/http%3A//www.juilliard.edu/privacy.php) for the most accurate reproduction.*
 
 # Juilliard School Web Site Privacy Statement - The Juilliard School
 
