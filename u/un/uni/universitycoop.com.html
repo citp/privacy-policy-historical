@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the universitycoop.com privacy policy that was archived on 2012-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522154626id_/http%3A//www.universitycoop.com/ePOS/this_category%3D769%26store%3D108%26form%3Dshared3/gm/main.html%26design%3D108) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the universitycoop.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919070654id_/http%3A//www.universitycoop.com/ePOS/this_category%3D769%26store%3D108%26form%3Dshared3/gm/main.html%26design%3D108) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><!--level1_category: Special_2--><!--level2_category: 769--><!--WEB CODE VERSION: ePOS 5.5.3.p--><head><style type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><!--level1_category: Special_2--><!--level2_category: 769--><!--WEB CODE VERSION: ePOS 5.5.4.q--><head><style type="text/css">
 <!--
 
 .redRebate a {color: #aa0000; font-weight: bold; font-size: 11px; text-decoration: none;}
@@ -104,8 +104,7 @@ BODY	{ color: black; font-family: Arial,Helvetica,Verdana,Sans Serif; font-size:
 #paymentframe #paymentinfo		{ padding: 10px; color: black; font-size: px; }
 #paymenttable, #billtable, #newlogintable, #shiptable, #optionstable		{ border-collapse: collapse;}
 #paymenttable td, #billtable td, #newlogintable td, #shiptable td, #optionstable td	{ padding: 5px; color: black; font-size: px; }
-.reqflag			{ color: #990000; font-weight: bold;}
-.shipflag			{ color: #990000; font-weight: bold;}
+span.reqflag, span.shipflag, a.goButton { color: #ffffff; background-color: #ce6d18;}
 a.whatCID 			{ color: #ffffff; background-color: #ce6d18; display: inline-block; position : relative; margin-right: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; font-size: 10px; padding: 3px 6px 3px 6px; font-weight: bold; text-decoration: none; -webkit-box-shadow: 2px 2px 2px #aaa; box-shadow: 2px 2px 2px #aaa;	}
 td.paylabel		{ font-weight: bold; text-align: right;}
 td.paylabel2		{ font-weight: bold; padding-bottom: 3px;}
@@ -115,7 +114,7 @@ td.reviewpaylabel2	{ color: #990000; font-weight: bold; background: #ffff00; pad
 td.reviewpaydata2		{ color: #990000; background: #ffff00; padding: 3px; border-left: solid 1px #999900; border-right: solid 1px #999900; border-bottom: solid 1px #999900;}
 td.payheading		{ color: black; font-weight: bold;}
 td.paywarning		{ color: #990000; font-weight: bold; background: #ffff00; border-top: solid 1px #999900; border-bottom: solid 1px #999900; border-left: solid 1px #999900; border-right: solid 1px #999900;}
-#billingtitle, #shippingtitle, #optionstitle		{ display: block; width: auto; padding: 10px 10px 5px 10px; color: black; font-size: px; font-weight: bold; background: #dddddd; border-bottom: 1px solid #cccccc; padding: 10px;}
+#billingtitle, #billingtitleSplit, #shippingtitle, #optionstitle		{ display: block; width: auto; padding: 10px 10px 5px 10px; color: black; font-size: px; font-weight: bold; background: #dddddd; border-bottom: 1px solid #cccccc; padding: 10px;}
 #billingdata, #shippingdata, #optionsdata, #billingdata td, #shippingdata td, #optionsdata td		{ color: black; font-size: px; }
 #billingdata, #shippingdata, #optionsdata		{ padding: 10px; }
 #checkouttable		{ border-collapse: collapse;}
@@ -209,7 +208,11 @@ div.casheqField { background-color:#e3e3e3; -moz-border-radius: 5px; -webkit-bor
 div.casheqAlert { background-color:#ffb; border: 1px solid #f00; -moz-border-radius: 5px; -webkit-border-radius: 5px; padding: 10px; margin: 5px 0px 5px 0px; }
 #alertmessage { display: block; padding: 10px !important; background: #ffff00; color: #990000; border: 1px solid #990000;}
 .ebookflag { display:inline-block; margin: 3px 0px 3px 0px; padding: 4px !important; background: #ffffff; font-weight: bold; color: #ce6d18; border: 1px solid #ce6d18; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
-div.cartAlert { color: #c00; background-color: #ffb; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 3px solid #f00; padding: 10px; margin: 5px 0px 5px 0px; }
+div.cartAlert, div.cartInfo, div.cartSuccess, div.cartChecking { padding: 10px; margin: 5px 0px 5px 0px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+div.cartAlert { color: #c00; background-color: #fff; border: 3px solid #f00; }
+div.cartSuccess { color: #fff; background-color: #0f0; font-weight: bold; }
+div.cartChecking { color: #999; background-color: #e6e6e6; }
+div.cartInfo { color: #ce6d18; background-color: #eeeeee; border: 2px solid #eeeeee;}
 .preload { display: none; }
 .loading { display: block; }
 #loadingframe { width: 100%; height: 100%; float: left; _overflow-y: auto; position: fixed; _position: absolute; left: 0px; top: 0px; z-index: 997; }
@@ -224,6 +227,9 @@ div.cartAlert { color: #c00; background-color: #ffb; -moz-border-radius: 5px; -w
 .hidden { display: none; }
 .open { display: block; }
 .closed { display: none; }
+div.infoPopup { -moz-border-radius: 5px;  -webkit-border-radius: 5px;  border: 2px solid #999; padding: 10px; color: #888 !important; background-color: #eee; font-size: 12px; font-weight: normal; position: fixed; overflow: auto; left: 15%; top: 10%; float: center; width: 70%; max-height: 70%; -webkit-box-shadow: 5px 5px 5px #555; z-index: 999; text-align: left; }
+div.infoPopup span { color: #666 !important; }
+div.infoPopup a.closebutton{ background-color: #aaa; -moz-border-radius: 3px;  -webkit-border-radius: 3px;  font-size: 11px; border: 1px solid #ddd; padding: 3px; display: block; color: #fff; width: 7em; text-decoration: none; font-weight: bold; text-align: center; -webkit-box-shadow: 3px 3px 3px #888;}
 div.orderWarning { display: block; color: #fff; font-weight: bold; background: #c00; border: solid 1px #900; margin: 5px 0px 5px 0px; padding: 5px 10px 5px 10px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -webkit-box-shadow: 3px 3px 3px #aaa; box-shadow: 3px 3px 3px #aaa; }
 div.orderWarning a { color: #fff; text-decoration: underline; }
 div.itemAlert, div.timeLimited { display: inline-block; color: #ce6d18; font-weight: bold; background: #fff; border: solid 2px #ce6d18; margin: 5px 0px 5px 0px; padding: 5px 10px 5px 10px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -webkit-box-shadow: 3px 3px 3px #aaa; box-shadow: 3px 3px 3px #aaa; }
@@ -259,14 +265,14 @@ td.reviewpaydata  { -moz-border-radius-topright: 8px; -webkit-border-top-right-r
 td.reviewpaydata2  { -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 8px; -moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 8px; }
 -->
 </style>
-<link rel="stylesheet" type="text/css" href="/css/coop.css">
 <link rel="stylesheet" type="text/css" href="images/css/form108.css">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>University Co-op - Privacy Policy</title>
-<script type="text/javascript" src="//jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></script>
+<script src="/scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
 <link href="//www.bookrenter.com/javascripts/api/bookrenter_template.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="//www.bookrenter.com/javascripts/bookrenter_widgets_api_packaged.js"></script>
+<script type="text/javascript" src="//www.bookrenter.com/javascripts/api/bookrenter.js"></script>
+<script type="text/javascript" src="//www.bookrenter.com/javascripts/api/bookrenter_template.js"></script>
 <script type="text/javascript">
 	Bookrenter.API_KEY = 'pueFjaZLHv3aPIBClDtBP6gFn64tJdya';
 	Bookrenter.API_HOST = 'universitycoop.bookrenterstore.com';
@@ -275,7 +281,7 @@ td.reviewpaydata2  { -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-l
 <style type="text/css">
 <!--
 /* TEXT COLORS */
-BODY, .text, .textmid, .textsmall, A.alerttext:hover, A.alertmid:hover, A.alertsmall:hover, #paymentframe #paymenttitle, #paymentframe #paymentinfo, #paymenttable td, #billtable td, #newlogintable td, #shiptable td, #optionstable td, td.payheading, #billingtitle, #shippingtitle, #optionstitle, #billingdata, #shippingdata, #optionsdata, #billingdata td, #shippingdata td, #optionsdata td, .catalogitem, .catalogtext, .catalogsmall, .catalogprice, .catalogprice2, #sortby, #sortby ul, .itemtext, .itemprice, .itemprice2, A.itemimage:hover, .featuredtext, .featuredprice, .featuredpricesmall, div.cartAdd .titlefont, div.promptDesc, div.promptLimits { color: black; }
+BODY, .text, .textmid, .textsmall, A.alerttext:hover, A.alertmid:hover, A.alertsmall:hover, #paymentframe #paymenttitle, #paymentframe #paymentinfo, #paymenttable td, #billtable td, #newlogintable td, #shiptable td, #optionstable td, td.payheading, #billingtitle, #billingtitleSplit, #shippingtitle, #optionstitle, #billingdata, #shippingdata, #optionsdata, #billingdata td, #shippingdata td, #optionsdata td, .catalogitem, .catalogtext, .catalogsmall, .catalogprice, .catalogprice2, #sortby, #sortby ul, .itemtext, .itemprice, .itemprice2, A.itemimage:hover, .featuredtext, .featuredprice, .featuredpricesmall, div.cartAdd .titlefont, div.promptDesc, div.promptLimits { color: black; }
 .strongtext, .strongmid, .strongsmall, .cartitemA a, .cartitemB a, .cartitemA a:hover, .cartitemB a:hover, .cartsublabel, .cartlabel, .carttotallabel, .cartsubtotal, .carttax, .cartshipping, .carttotal, .cataloglink, .catalogcount, #sortby a, #sortby a.selected, .itemlink, .itemimage, .permalink, .emaillink, #permarow, #permarow #permalink, #permarow #emaillink, .featuredstrong, .featuredclass, .ebookflag, #giftcardtitle, div #gcbalanceheading, div.itemAlert { color: #ce6d18; }
 .titlefont, .titlemid, .titletext, .cartpagetitle, .catalogtitle, .itemtitle, .itemtitle2, .featuredtitle, .featuredmid { color: #000000; }
 .alerttitle, .alerttext, .alertmid, .alertsmall, .cartbackorder, td.reviewpaylabel, td.reviewpaydata, td.reviewpaylabel2, td.reviewpaydata2, td.paywarning, #checkouttable td.alertcell, .catalogsale, .itemsale, .featuredsale, A.featuredclass:hover, #alertmessage, div.noAdd, div.gcalert, div.timeClosed, div.timeUpcoming { color: #990000; }
@@ -287,7 +293,7 @@ A.text:hover, A.textmid:hover, A.textsmall:hover, A.celltext:hover, A.cellsmall:
 /* TEXT SIZES */
 BODY, H4, H5, .text, .titletext, .strongtext, .alerttext, .headingtext, .headertext, .celltext, .gmfont, #ePOScart, #ePOScart td, .catalogitem, .catalogtext, .catalogprice, .catalogsale, .itemtext, .itemlink, .featuredheading, .featuredtext, .featuredprice, .featuredstrong, .featuredsale, .logintext, .datetext, .loginbutton, .logoutbutton, #giftcardfields td.paylabel, #giftcardfields td.reviewpaylabel, div #gcbalanceheading, div #gcbalancedata, div.casheqField, div.promptDesc, div.promptLimits { font-size: 12px; }
 H1, .titlefont, .alerttitle, .celltitle, .cartpagetitle, .catalogtitle, .itemtitle, .featuredtitle { font-size: 18px; }
-H2, H3, .textmid, .titlemid, .strongmid, .alertmid, .headermid, .cellmid, .carttotallabel, .carttotal, #paymentframe #paymenttitle, #billingtitle, #shippingtitle, #optionstitle, #checkouttable td.alertcell, .itemtitle2, .itemprice, .itemsale, .featuredmid, .featuredclass, #giftcardtitle, div .gccentertitle, div.cartAdd .itemtext { font-size: 14px; }
+H2, H3, .textmid, .titlemid, .strongmid, .alertmid, .headermid, .cellmid, .carttotallabel, .carttotal, #paymentframe #paymenttitle, #billingtitle, #billingtitleSplit, #shippingtitle, #optionstitle, #checkouttable td.alertcell, .itemtitle2, .itemprice, .itemsale, .featuredmid, .featuredclass, #giftcardtitle, div .gccentertitle, div.cartAdd .itemtext { font-size: 14px; }
 .textsmall, .strongsmall, .alertsmall, .headingsmall, .headersmall, .cellsmall, .gmfontsmall, #paymentframe #paymentinfo, #paymenttable td, #billtable td, #newlogintable td, #shiptable td, #optionstable td, #billingdata, #shippingdata, #optionsdata, #billingdata td, #shippingdata td, #optionsdata td, .catalogsmall, .catalogprice2, .cataloglink, .catalogcount, #sortby, #sortby ul, .itemprice2, .itemimage, #permarow, #permarow #permalink, #permarow #emaillink, .featuredpricesmall, #giftcarddata a { font-size: 10px; }
 .heading { font-size: 12px; }
 /* FONTS */
@@ -303,13 +309,13 @@ select.section, select.levelmenu { background-color:#d3d3d3; }
 .courseitem, .coursecell1, .coursecell2 { background: #bb5500; }
 A.catalogcount:hover, div .gccentertitle { background: #ce6d18; }
 .cartitemA, .cartcellA1, .cartcellA2, .cartsubtotal, .carttax, .cartshipping, #paymentframe, #giftcardframe, div .gccenter, .readyFrame, div.cartAdd { background: #eeeeee; }
-.cartitemB, .cartcellB1, .cartcellB2, .carttotal, #paymentframe #paymenttitle, #billingtitle, #shippingtitle, #optionstitle, div #gcbalanceheading { background: #dddddd; }
+.cartitemB, .cartcellB1, .cartcellB2, .carttotal, #paymentframe #paymenttitle, #billingtitle, #billingtitleSplit, #shippingtitle, #optionstitle, div #gcbalanceheading { background: #dddddd; }
 #checkouttable td.buttoncell { background: #cccccc; }
 /* BORDERS */
 #paymentframe { border: 1px solid #cccccc; }
 #checkouttable td.newlogincell, .ebookflag, #giftcardframe, div .gccenter, div #gcbalance, div.cartAdd { border: solid 1px #ce6d18; }
 .cartitemheader, .cartheader1, .cartheader2, .courseitem, .coursecell1, .coursecell2 { border-bottom: 1px solid #ffffff; }
-.cartitemA, .cartitemB, .cartcellA1, .cartcellA2, .cartcellB1, .cartcellB2, #paymentframe #paymenttitle, #billingtitle, #shippingtitle, #optionstitle { border-bottom: 1px solid #cccccc; }
+.cartitemA, .cartitemB, .cartcellA1, .cartcellA2, .cartcellB1, .cartcellB2, #paymentframe #paymenttitle, #billingtitle, #billingtitleSplit, #shippingtitle, #optionstitle { border-bottom: 1px solid #cccccc; }
 #checkouttable td.billingcell { border-right: solid 1px #cccccc; }
 .cartsublabel, .cartsubtotal, #checkouttable td.optionscell { border-top: 1px solid #cccccc; }
 #checkouttable td.billingcell, #checkouttable td.optionscell, #checkouttable td.textoptcell, #checkouttable td.alertcell, td.newlogincell, #checkouttable td.checkoutnotescell, #checkouttable td.reviewcartcell, #checkouttable td.buttoncell { border-left: solid 1px #ce6d18; }
@@ -323,7 +329,7 @@ A.catalogcount:hover, div .gccentertitle { background: #ce6d18; }
 #alertmessage, div .gcalert { border: 1px solid #990000; }
 div.itemAlert, div.timeLimited { border: 2px solid #ce6d18; }
 div.noAdd, div.timeClosed, div.timeUpcoming { border: 2px solid #990000; }
-span.reqflag, span.shipflag, a.whatCID { color: #ffffff; background-color: #ce6d18;}
+span.reqflag, span.shipflag, a.whatCID, a.goButton { color: #ffffff; background-color: #ce6d18;}
 div.cartItem div.cartItemRow div.cartDetails span.cartSale, span.cartRegular {color: #990000;}
 span.cartBackorder, td.reviewpaylabel, td.reviewpaylabel2, td.reviewpaylabel span.reqflag, td.reviewpaylabel2 span.reqflag, td.reviewpaylabel span.shipflag, td.reviewpaylabel2 span.shipflag { color: #fff !important; }
 span.cartBackorder, td.reviewpaylabel, td.reviewpaylabel2, td.reviewpaylabel span.reqflag, td.reviewpaylabel2 span.reqflag, td.reviewpaylabel span.shipflag, td.reviewpaylabel2 span.shipflag {background-color: #990000;}
@@ -332,6 +338,8 @@ td.reviewpaydata, td.reviewpaydata2 {border: solid 1px #990000 !important;}
 -->
 </style>
 <link rel="stylesheet" type="text/css" href="/images/108/css/storefront108.css">
+<script type="text/javascript" src="/images/108/scripts/catlist.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/catnav.css">
 <link rel="canonical" href="http://www.universitycoop.com/">
 <meta name="viewport" content="width = 320">
 <meta name="verify-v1" content="zb1JOX9PycClvnH0dU0uoBavJIi3Yf7Cac+hhOVgneY=">
@@ -385,7 +393,7 @@ images[4] = "<a href = 'https://www.universitycoop.com'><img src='/webitemimages
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
 //done
-// --></script><a href="https://www.universitycoop.com"><img src="/webitemimages/108/Images/mastheads/masthead5.jpg" alt="University Co-Op - Fountain Banner" border="0"></a></td>
+// --></script><a href="https://www.universitycoop.com"><img src="/webitemimages/108/Images/mastheads/masthead4.jpg" alt="University Co-Op - Fountain Banner" border="0"></a></td>
 </tr>
 </tbody></table>
 <table width="837" id="infotable" cellspacing="0" cellpadding="2" border="0">
@@ -407,536 +415,91 @@ document.write(images[index]);
 <table width="837" id="maintable" height="100%" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 <td width="150" valign="top" id="leftnav" height="100%" bgcolor="#DA7D36" align="center">
-<script type="text/javascript" src="/scripts/coop_ie_menu_script2.js"></script>
 <img width="10" src="/images/coop/clear.gif" height="8" border="0"><br>
 <table width="100%" cellspacing="0" cellpadding="5" border="0">
 <tbody><tr>
 <td>
 <img src="/images/coop/merchandise.gif" border="0">
-   <ul id="nav">
-<li>
-<a href="http://www.universitycoop.com/ePOS/this_category=417&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">
-New Items
-</a>
+<div id="catFrame">
+<div id="catStore" class="hidden">108</div><div id="catCurrent" class="hidden">769</div><div id="defaultVMargin" class="hidden"></div><div id="defaultHMargin" class="hidden"></div><div id="catLevel1" class="hidden">769</div>
+<ul id="navListMain0" class="ajaxNav">
+<li class="navCat first" id="navCell417">
+<a href="http://www.universitycoop.com/ePOS/this_category=417&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId417" class="navLink first"><span>New Items</span></a>
 </li>
-<li>
-<a href="http://www.universitycoop.com/ePOS/store=108&amp;form=shared3/gm/greatbuys.html&amp;design=108" class="salecat">
-Sale
-</a>
+<li class="navCat" id="navCell308">
+<a href="http://www.universitycoop.com/ePOS/store=108&amp;form=shared3/gm/greatbuys.html&amp;design=108" id="navId308" class="navLink">Sale</a>
 </li>
-<li>
-<a href="#" class="salecatbranch">
-What's Hot
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2239&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Patriotic</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2224&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts For Grads</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2226&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Hello Kitty!</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2231&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men's Secret Sale</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1008&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gear Up for Baseball</a>
-</li></ul>
+<li class="navCat br" id="navCell2117">
+<a href="http://www.universitycoop.com/ePOS/this_category=2117&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId2117" class="navLink br"><span>What's Hot</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Longhorn Custom Shop
-</a>
-<ul><li>
-<a href="#" class="branch">Custom Tees for Any Longhorn</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1969&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">UT Team Sports</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1970&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">UT Rec Sports</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2028&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Family Tees</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1971&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Academics</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1972&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Music</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=955&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Customizable Longhorn Gear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=720&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Monograms</a>
-</li></ul>
+<li class="navCat br" id="navCell954">
+<a href="http://www.universitycoop.com/ePOS/this_category=954&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId954" class="navLink br"><span>Longhorn Custom Shop</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Longhorn Men
-</a>
-<ul><li>
-<a href="#" class="branch">Shop by Brand</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1079&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ben Crenshaw for the Co-op</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2066&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Nike</a>
-</li></ul>
-</li><li>
-<a href="#" class="branch">Men’s Shirts</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=159&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Jerseys</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=161&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Polos</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=156&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Button Downs</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=165&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Texas Orange Tees</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=167&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Assorted Color Tees</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=160&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Long-Sleeved Tees</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=581&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Pants &amp; Shorts</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=163&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Fleece &amp; Outerwear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=516&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Workout Gear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=157&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Caps, Hats &amp; Visors</a>
-</li><li>
-<a href="#" class="branch">Longhorn Accessories</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=155&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Wallets, Belts, &amp; other Accessories</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=162&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Shoes &amp; Socks</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=585&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Ties &amp; Vests</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=586&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Watches &amp; Jewelry</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=715&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Big &amp; Tall</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2111&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Men’s Sleepwear &amp; Swimwear</a>
-</li></ul>
+<li class="navCat br" id="navCell154">
+<a href="http://www.universitycoop.com/ePOS/this_category=154&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId154" class="navLink br"><span>Longhorn Men</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Longhorn Women
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=572&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Headwear &amp; Hair Accessories</a>
-</li><li>
-<a href="#" class="branch">Longhorn Accessories</a>
-<ul><li>
-<a href="#" class="branch">Ladies Longhorn Jewelry</a>
-<ul><li><a href="http://www.universitycoop.com/ePOS/this_category=2058&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Necklaces &amp; Bracelets</a></li><li><a href="http://www.universitycoop.com/ePOS/this_category=2060&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Earrings</a></li><li><a href="http://www.universitycoop.com/ePOS/this_category=2059&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Longhorn Watches</a></li><li><a href="http://www.universitycoop.com/ePOS/this_category=2061&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Rings</a></li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=305&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Wallets &amp; Handbags</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=175&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Shoes &amp; Socks</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2056&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Scarves, Belts, &amp; Other Accessories</a>
-</li></ul>
-</li><li>
-<a href="#" class="branch">Longhorn Tops</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=179&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Tank Tops</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=180&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Short-Sleeve Tops</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=575&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Fashion Tops</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2057&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Long-Sleeve Tops</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=174&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Polos &amp; Button Downs</a>
-</li></ul>
-</li><li>
-<a href="#" class="branch">Longhorn Bottoms</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=177&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">W Longhorn Pants</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=176&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">W Longhorn Shorts</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=588&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Skirts and Dresses</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=793&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Longhorn Workout Gear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=178&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Fleece &amp; Outerwear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=173&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Sleepwear &amp; Swimwear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=577&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Ladies Plus Sizes</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=576&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Maternity</a>
-</li></ul>
+<li class="navCat br" id="navCell169">
+<a href="http://www.universitycoop.com/ePOS/this_category=169&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId169" class="navLink br"><span>Longhorn Women</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Longhorn Kids
-</a>
-<ul><li>
-<a href="#" class="branch">Kids Accessories</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1034&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Kids Footwear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=520&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Kids Headwear &amp; Hair Accessories</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=350&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Belts &amp; Other Accessories</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=347&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Kids Fleece &amp; Outerwear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1022&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Cheer Outfits &amp; Football Gear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=353&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Kids Tees</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=351&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Polos &amp; Wovens</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=348&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Boys Pants &amp; Shorts</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=593&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Girl’s Bottoms</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1900&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Dresses &amp; Fashion Tops</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2077&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Sleepwear &amp; Swimwear</a>
-</li></ul>
+<li class="navCat br" id="navCell181">
+<a href="http://www.universitycoop.com/ePOS/this_category=181&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId181" class="navLink br"><span>Longhorn Kids</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Longhorn Infant &amp; Toddler
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2076&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Little Longhorn Accessories</a>
-</li><li>
-<a href="#" class="branch">Infant Clothing</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=597&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">For Any Little Longhorn</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2072&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">It’s a Girl</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2074&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">It’s a Boy</a>
-</li></ul>
-</li><li>
-<a href="#" class="branch">Toddler Clothing</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=598&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Toddler Tops</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=343&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Toddler Sets &amp; Dresses</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=596&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Toddler Bottoms</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2075&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Toddler Fleece &amp; Outerwear</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1571&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Nursery Gear</a>
-</li></ul>
+<li class="navCat br" id="navCell2093">
+<a href="http://www.universitycoop.com/ePOS/this_category=2093&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId2093" class="navLink br"><span>Longhorn Infant &amp; Toddler</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="http://www.universitycoop.com/ePOS/this_category=983&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">
-Pamper Your Pet
-</a>
+<li class="navCat" id="navCell983">
+<a href="http://www.universitycoop.com/ePOS/this_category=983&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId983" class="navLink"><span>Pamper Your Pet</span></a>
 </li>
-<li>
-<a href="#" class="branch">
-Home, Office, &amp; Entertaining
-</a>
-<ul><li>
-<a href="#" class="branch">Dining &amp; Entertaining</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=210&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Drinkware</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2095&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Barware</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2096&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Eats &amp; Treats</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2097&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Cookware</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2098&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Tabletop Items</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=214&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Party Supplies</a>
-</li></ul>
-</li><li>
-<a href="#" class="branch">Longhorn Home</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2103&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Rugs &amp; Floor Mats</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2102&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Bedding &amp; Blankets</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=230&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Bathroom Decor</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=208&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Clocks</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=232&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Lights &amp; Lighting Accessories</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=580&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Signs &amp; Wall Decorations</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2101&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">DIY Longhorn Gear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=605&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Picture Frames</a>
-</li></ul>
-</li><li>
-<a href="#" class="branch">Longhorn Office</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2107&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Electronic Accessories</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2104&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Office Furniture</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2105&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Desktop</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1549&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Stationery &amp; Calendars</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2112&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Bags &amp; Briefcases</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2113&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Pens &amp; Pencils</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1703&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Kids Furniture</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=423&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Dorm Room Decor</a>
-</li></ul>
+<li class="navCat br" id="navCell226">
+<a href="http://www.universitycoop.com/ePOS/this_category=226&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId226" class="navLink br"><span>Home, Office, &amp; Entertaining</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Outdoors &amp; Automotive
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=375&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Flags &amp; Pennants</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1734&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Barbeque</a>
-</li><li>
-<a href="#" class="branch">Longhorn Automotive</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2118&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Car Emblems &amp; Decals</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=563&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Car Accessories</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=217&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Key Chains</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2110&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Outdoor Games &amp; Toys</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2114&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Yard Decor</a>
-</li></ul>
+<li class="navCat br" id="navCell2109">
+<a href="http://www.universitycoop.com/ePOS/this_category=2109&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId2109" class="navLink br"><span>Outdoors &amp; Automotive</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Longhorn Gifts &amp; Souvenirs
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=258&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Co-op Gift Cards</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=220&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn CDs, DVDs and Books</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=201&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Decals, Stickers, &amp; Magnets</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=602&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Sports Accessories &amp; Balls</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=604&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Games &amp; Toys</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1917&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Stuffed Animals</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2115&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Travel Accessories</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=200&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Bags &amp; Backpacks</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=213&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Tailgate Gifts</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=215&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Golf</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=212&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Graduation Gifts</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=409&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Musical Gifts</a>
-</li><li>
-<a href="#" class="branch">Longhorn Memorabilia</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=956&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Limited Editions</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=206&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Longhorn Collectibles</a>
-</li></ul>
-</li></ul>
+<li class="navCat br" id="navCell199">
+<a href="http://www.universitycoop.com/ePOS/this_category=199&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId199" class="navLink br"><span>Longhorn Gifts &amp; Souvenirs</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Find the Perfect Gift
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1625&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts Under $15</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1626&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts Under $25</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1627&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts Under $50</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=316&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts for Her</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=315&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts for Him</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=562&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts for the Home</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=317&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts for Kids</a>
-</li></ul>
+<li class="navCat br" id="navCell2128">
+<a href="http://www.universitycoop.com/ePOS/this_category=2128&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId2128" class="navLink br"><span>Find the Perfect Gift</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Specialty Shops
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2162&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Silver Spurs</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=362&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Texas Exes</a>
-</li><li>
-<a href="#" class="branch">Schools and Organizations</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1904&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">UT Graduate School</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=358&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">School of Law</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=361&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">School of Nursing</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=359&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">McCombs School of Business</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2201&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Middle Eastern Studies</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2211&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">UT Men's Soccer</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2218&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">ROTC</a>
-</li></ul>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2229&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Student Designs</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=943&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Para La Familia</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1121&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Green Longhorn Gear</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1944&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Texas - The Lonestar State</a>
-</li></ul>
+<li class="navCat br" id="navCell2116">
+<a href="http://www.universitycoop.com/ePOS/this_category=2116&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId2116" class="navLink br"><span>Specialty Shops</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1332&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">
-Helpful Links
-</a>
+<li class="navCat" id="navCell1332">
+<a href="http://www.universitycoop.com/ePOS/this_category=1332&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId1332" class="navLink"><span>Helpful Links</span></a>
 </li>
-<li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1348&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">
-CoopCares
-</a>
+<li class="navCat last" id="navCell1348">
+<a href="http://www.universitycoop.com/ePOS/this_category=1348&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId1348" class="navLink last"><span>CoopCares</span></a>
 </li>
-   </ul>
-   <br><img width="10" src="/images/coop/clear.gif" height="18" border="0"><br>
+</ul>
+</div>
 <img src="/images/coop/academics.gif" border="0">
-   <ul id="textnav">
-<li>
-<a href="#" class="branch">
-Textbooks
-</a>
-<ul><li>
-<a href="#" class="branch">Students</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=838&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Shop for Books</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=833&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Sell Your Books</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2181&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Rental FAQs</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1930&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Rent Textbooks</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=832&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Rebates</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=837&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">General FAQs</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1381&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">eTextbook FAQs</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=836&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Used Book Classifieds</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2230&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">eTextbooks</a>
-</li></ul>
-</li><li>
-<a href="#" class="branch">Faculty</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=868&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Course Requisitions</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=872&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Requisitions Overview</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=867&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Faculty Resources</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=863&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Course Supply Kits</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=864&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Faculty FAQ</a>
-</li></ul>
-</li></ul>
+<div id="catFrame">
+<ul id="navListMain1" class="ajaxNav">
+<li class="navCat br first" id="navCell629">
+<a href="http://www.universitycoop.com/ePOS/this_category=629&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId629" class="navLink br first"><span>Textbooks</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Custom Publishing
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1655&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Published Works</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1656&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Course Packets</a>
-</li></ul>
+<li class="navCat br" id="navCell865">
+<a href="http://www.universitycoop.com/ePOS/this_category=865&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId865" class="navLink br"><span>Custom Publishing</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-Graduation
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=250&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Diploma Frames</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=247&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Gifts for Grads</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1953&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Customize Your Frame</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=541&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Portrait Studio</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=985&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Bachelors Graduate Info</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=986&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Masters Graduate Info</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1546&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">PharmD Graduate Info</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=2190&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Faculty Caps &amp; Gowns</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=987&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Doctoral Graduate Info</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=991&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Keepsakes &amp; Souvenirs</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=644&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Texas Style Souvenirs</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=249&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Class Rings</a>
-</li></ul>
+<li class="navCat br" id="navCell287">
+<a href="http://www.universitycoop.com/ePOS/this_category=287&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId287" class="navLink br"><span>Graduation</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="#" class="branch">
-School Supplies
-</a>
-<ul><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=237&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Backpacks &amp; Bags</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=239&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Binders &amp; Folders</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=383&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Calculators</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=241&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Calendars &amp; Planners</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=240&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Class Supplies</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=235&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Computer &amp; Electronics</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=234&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Pens &amp; Pencils</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=1928&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Sketchbooks and Pads</a>
-</li><li>
-<a href="http://www.universitycoop.com/ePOS/this_category=242&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">Spirals</a>
-</li></ul>
+<li class="navCat br" id="navCell233">
+<a href="http://www.universitycoop.com/ePOS/this_category=233&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId233" class="navLink br"><span>School Supplies</span><div class="nB"><span>&gt;</span></div></a>
 </li>
-<li>
-<a href="http://www.universitycoop.com/ePOS/this_category=384&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108">
-Software
-</a>
+<li class="navCat last" id="navCell384">
+<a href="http://www.universitycoop.com/ePOS/this_category=384&amp;store=108&amp;form=shared3/gm/main.html&amp;design=108" id="navId384" class="navLink last"><span>Software</span></a>
 </li>
-   </ul>
+</ul>
+</div>
 </td>
 </tr>
 </tbody></table>
     <br><img width="150" src="/images/coop/clear.gif" height="10" border="0">
 </td>
 <td width="552" valign="top" id="maincell" height="100%">
-<!--store108/designs/utcoop2/parts/info_row.inc begins-->
+<!--store108/designs/utcoopAjax/parts/info_row.inc begins-->
 <table width="100%" id="emailrow" cellspacing="0" cellpadding="3" border="0">
 <tbody><tr>
 <td align="center" id="emailcell">
@@ -947,7 +510,7 @@ Software
 <td id="cartcell" align="center"><a href="http://www.universitycoop.com/ePOS/store=108&amp;form=shared3/cart/cartpages/finalcart.html&amp;design=108">Your Shopping Cart is Empty</a></td>
 </tr>
 </tbody></table>
-<!--store108/designs/utcoop2/parts/info_row.inc ends-->
+<!--store108/designs/utcoopAjax/parts/info_row.inc ends-->
 <table width="552" cellspacing="0" cellpadding="5" border="0">
 <tbody><tr>
 <td valign="top" bgcolor="#ffffff">
@@ -1047,12 +610,19 @@ Software
 <td width="130" valign="top" id="rightnav" height="100%" class="text" bgcolor="#eeeeee" align="center">
 <br>
 <div align="center"><a href="https://www.texasexes.org?WT.mc_id=RTNAVPIC1" target="_blank"><img src="https://www.universitycoop.com/images/content/TexasExes.jpg" alt="Visit TexasExes.org!" border="0" width="120" height="110"></a></div>
-<div align="center"><a href="https://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2157&amp;store=108" target="_self"><img src="https://www.universitycoop.com/images/content/finalrivalryrnav.jpg" width="120," height="110," border="0"></a></div>
-<center>
-<a href="http://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2241&amp;store=108" target="_self"><img src="http://www.universitycoop.com/images/content/stadiumbrickrnav.jpg" width="120" height="110" border="0"></a>
-</center>
 <br>
-<div align="center"> <a href="https://www.universitycoop.com/ePOS/form=cat.html&amp;cat=1890&amp;store=108?"><img src="https://www.universitycoop.com/images/content/coop_mobile.jpg" alt="Coop on your mobile" border="0" width="120" height="110">
+<div align="center"><a href="https://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2157&amp;store=108" target="_self"><img src="https://www.universitycoop.com/images/content/finalrivalryrnav.jpg" width="120," height="110," border="0"></a></div>
+<br>
+<div align="center"> <a href="http://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2344&amp;store=108"><img src="images/content/halloweenrnav.jpg" alt="Halloween" border="0" width="120" height="110">
+</a></div><a href="http://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2344&amp;store=108">
+<br>
+</a><div align="center"><a href="http://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2344&amp;store=108"> </a><a href="http://www.buildurshirt.com" target="_blank"><img src="images/content/buildurshirt_rnav.jpg" alt="Build Ur Shirt" border="0" width="120" height="110">
+</a></div><a href="http://www.buildurshirt.com" target="_blank">
+<br>
+</a><div align="center"><a href="http://www.buildurshirt.com" target="_blank"> </a><a href="http://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2318&amp;store=108"><img src="images/content/FallArtSale.jpg" alt="Fall Art Sale" border="0" width="120" height="110">
+</a></div><a href="http://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2318&amp;store=108">
+<br>
+</a><div align="center"><a href="http://www.universitycoop.com/ePOS/form=cat.html&amp;cat=2318&amp;store=108"> </a><a href="https://www.universitycoop.com/ePOS/form=cat.html&amp;cat=1890&amp;store=108?"><img src="https://www.universitycoop.com/images/content/coop_mobile.jpg" alt="Coop on your mobile" border="0" width="120" height="110">
 </a></div><a href="https://www.universitycoop.com/ePOS/form=cat.html&amp;cat=1890&amp;store=108?">
 <br>
 </a><div align="center"><a href="https://www.universitycoop.com/ePOS/form=cat.html&amp;cat=1890&amp;store=108?"> </a><a href="https://rebate.universitycoop.com"><img src="https://www.universitycoop.com/images/content/newrebates_rnav.jpg" alt="New Rebate Program" border="0" width="120" height="110">
@@ -1145,20 +715,6 @@ SECURE sites help keep you safe from identity theft, credit card fraud, spyware,
 1-800-255-1896 | <a href="http://www.universitycoop.com/ePOS/store=108&amp;form=shared3/custom/email/contact.html&amp;design=108" class="tcopyright">weborder<img width="9" src="/images/coop/email_icon.gif" height="11" border="0" align="absbottom">universitycoop.com</a></span><br>
 <br>
 <br>
-<script type="text/javascript" src="/scripts/wtinit.js"></script>
-<script type="text/javascript"><!--
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcs3xn91i00000cdicwegsyjw_7p8r";
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
-	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
-}
-//-->
-</script>
-<script type="text/javascript" src="/scripts/wtbase.js"></script>
-<noscript>
-<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs3xn91i00000cdicwegsyjw_7p8r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
-</noscript>
 </center>
 
 
