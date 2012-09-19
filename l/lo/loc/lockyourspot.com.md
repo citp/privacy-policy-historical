@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockyourspot.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508055029id_/https%3A//member.livesmart360.com/LiveSmart360/Personal/Resources/2028-LiveSmart360WebsitePrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockyourspot.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919234858id_/https%3A//member.livesmart360.com/LiveSmart360/Personal/Resources/2028-LiveSmart360WebsitePrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # LiveSmart 360 Website Privacy Policy
 
