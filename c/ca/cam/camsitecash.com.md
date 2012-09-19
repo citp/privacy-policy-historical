@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camsitecash.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014103id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsitecash.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231241id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.*
 
 # CamSiteCash.com
 
