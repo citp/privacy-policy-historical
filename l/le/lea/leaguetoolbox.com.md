@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leaguetoolbox.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503025754id_/http%3A//www.leaguetoolbox.com/software_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguetoolbox.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225550id_/http%3A//leaguetoolbox.com/software_privacy_policy.php) for the most accurate reproduction.*
 
-# LeagueToolbox - League Management Software Update 2012 - Privacy Policy
+# LeagueToolbox - League Management Software Update 2012
 
 As a leader in the provision of Internet-related services, LeagueToolbox is committed to building trust and confidence in our members use of our services and the Internet by promoting our use of fair information practices. 
 
