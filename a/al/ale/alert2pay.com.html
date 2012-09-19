@@ -1,0 +1,360 @@
+<!--The following is the downloaded HTML source of the alert2pay.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919182616id_/http%3A//alert2pay.com/themes/common/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Alert2Pay.com-Privacy Policy</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link href="http://alert2pay.com/themes/alert2pay/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://alert2pay.com/css/content.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://alert2pay.com/function/function.js"></script>
+
+<script type="text/javascript" src="http://alert2pay.com/js/jquery.js" language="javascript"></script>
+<script type="text/javascript" src="http://alert2pay.com/js/jquery2.js" language="javascript"></script>
+
+
+
+<!--for calendar control-->
+<script language="JavaScript" src="http://alert2pay.com/calendar/calendar_eu.js"></script>
+<link rel="stylesheet" href="http://alert2pay.com/calendar/calendar.css">
+<!--for calendar contrl-->
+
+<!--for fckeditor-->
+<script src="http://alert2pay.com/admin/ckeditor/ckeditor.js"></script>
+<!--for fckeditor-->
+
+<!--for custome message box-->
+<script src="http://alert2pay.com/js/jquery-latest.js"></script>
+<script src="http://alert2pay.com/js/jquery.alerts.js" type="text/javascript"></script>
+<script src="http://alert2pay.com/js/Draggable.js" type="text/javascript"></script>
+<link href="http://alert2pay.com/css/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
+<!--for custome message box-->
+
+<!--for tool tip-->
+<script src="http://alert2pay.com/js/vtip.js"></script>
+<link href="http://alert2pay.com/css/vtip.css" rel="stylesheet" type="text/css" media="screen">
+<!--for custome tooltip-->
+
+<link type="text/css" rel="stylesheet" href="http://alert2pay.com/css/prettify.css">
+	<script type="text/javascript" language="JavaScript" src="http://alert2pay.com/js/prettify.js"> </script>
+
+	<link type="text/css" rel="stylesheet" href="http://alert2pay.com/css/jquery.modaldialog.css">
+	<script type="text/javascript" language="JavaScript" src="http://alert2pay.com/js/jquery.js"> </script>
+	<script type="text/javascript" language="JavaScript" src="http://alert2pay.com/js/jquery.modaldialog.js"> </script>
+
+	<!--<script type="text/javascript" language="JavaScript">
+		$().ready(function(){
+			prettyPrint();
+		});
+	</script>-->
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	//slides the element with class "menu_body" when paragraph with class "menu_head" is clicked 
+	$("#firstpane p.menu_head").click(function()
+    {
+		$(this).css({backgroundImage:"url(images/down12.jpg)"}).next("div.menu_body").slideToggle(300).siblings("div.menu_body").slideUp("slow");
+       	$(this).siblings().css({backgroundImage:"url(images/left.png)"});
+	});
+
+		$("#firstpane #active ").css({backgroundImage:"url(images/down12.jpg)"}).next("div.menu_body").slideToggle(300).siblings("div.menu_body").slideUp("slow");
+       	$("#firstpane #active").siblings().css({backgroundImage:"url(images/left.png)"});		                       
+							   
+							   
+	
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	//slides the element with class "menu_body" when paragraph with class "menu_head" is clicked 
+	$("#firstpane1 p.msg_head").click(function()
+    {
+		$(this).css({backgroundImage:"url(images/msg.png)"}).next("div.menu_body").slideToggle(300).siblings("div.menu_body").slideUp("slow");
+       	$(this).siblings().css({backgroundImage:"url(images/left.png)"});
+	});
+	
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	$(".accordion h3:first").addClass("active");
+	$(".accordion .effect:not(:first)").hide();
+	$(".accordion h3").click(function(){
+		$(this).next(".effect").slideToggle("fast")
+		.siblings(".effect:visible").slideUp("fast");
+		$(this).toggleClass("active");
+		$(this).siblings(".effect").removeClass("active");
+	});
+
+});
+</script>
+
+</head>
+
+<body>
+<div class="top">	
+	<div class="button-main">
+  	                    <div class="button"><a href="http://alert2pay.com/themes/common/public_ticket.php">Support</a></div>
+                    <div class="button"><a href="http://alert2pay.com/themes/common/signup.php">Join Now</a></div>
+                    <div class="button"><a href="http://alert2pay.com/themes/common/login.php">LogIn</a></div>
+                      </div>
+  <div class="clear-both"></div>
+  
+  			<script language="javascript">
+				$(document).ready(function() {
+						var strURL='../../themes/common/statistics.php';
+						var req = getXMLHTTP();
+						if (req) {
+							
+							req.onreadystatechange = function() {
+								if (req.readyState == 4) {
+									// only if "OK"
+									if (req.status == 200) {						
+										document.getElementById('statisticsbytushar').innerHTML=req.responseText;						
+									} else {
+										//alert("There was a problem while using XMLHTTP:\n" + req.statusText);
+									}
+								}				
+							}			
+							req.open("GET", strURL, true);
+							req.send(null);
+						}
+				});
+			</script>
+				<script language="javascript">
+			$(document).ready(function() {
+					var strURL='../../themes/common/banner.php?style=468';
+					var req = getXMLHTTP();
+					if (req) {
+						
+						req.onreadystatechange = function() {
+							if (req.readyState == 4) {
+								// only if "OK"
+								if (req.status == 200) {						
+									document.getElementById('menubannerof468x60').innerHTML=req.responseText;						
+								} else {
+									//alert("There was a problem while using XMLHTTP:\n" + req.statusText);
+								}
+							}				
+						}			
+						req.open("GET", strURL, true);
+						req.send(null);
+					}
+			});
+		</script>
+		<script language="javascript">
+			$(document).ready(function() {
+					var strURL='../../themes/common/banner.php?style=125';
+					var req = getXMLHTTP();
+					if (req) {
+						
+						req.onreadystatechange = function() {
+							if (req.readyState == 4) {
+								// only if "OK"
+								if (req.status == 200) {						
+									document.getElementById('menubannerof125x125').innerHTML=req.responseText;						
+								} else {
+									//alert("There was a problem while using XMLHTTP:\n" + req.statusText);
+								}
+							}				
+						}			
+						req.open("GET", strURL, true);
+						req.send(null);
+					}
+			});
+		</script>
+		    
+<!--  Menu  -->
+
+<div class="menu">
+            <ul>
+                		    <li><a href="http://alert2pay.com/index.php">Home</a></li>
+                    
+                    
+                    <li><a href="http://alert2pay.com/themes/common/signup.php">Join Now</a></li>
+                    
+                    
+                    <li><a href="http://alert2pay.com/themes/common/showtestimonial.php">Testimonial </a></li>
+                    
+                    
+					                    <li><a href="http://alert2pay.com/themes/common/publicnews.php">News</a></li>
+                    
+                    <li><a href="http://alert2pay.com/themes/common/faq.php">F.A.Q.</a></li>
+                    
+                    
+                    <li style="background:none;"><a href="http://alert2pay.com/themes/common/public_ticket.php">Support</a></li>
+                     			<div class="clear-both"></div>
+            </ul>
+        </div>
+   </div>
+<!--  Menu -->
+<!-- body part  -->
+<div class="header-bg">
+	<div id="pagewidth">
+  	<div id="header"><img src="http://alert2pay.com/themes/alert2pay/images/header.jpg"></div>
+    <div class="page-bg">
+    	<div id="content">
+      	<div class="content-left">
+        									<!--sidebar menu part-->
+					<div class="left-bar-top">Member Login</div>
+						<div class="left-bar-middle" align="center">
+							<form method="post">
+              
+              	<div><input type="text" class="text-box" placeholder="Username" name="user_name" id="user_name"></div>
+            		<div><input type="password" class="text-box-1" placeholder="Password" name="password" id="password"></div>
+            		<div style="margin-top:10px;">
+                	<input type="image" src="http://alert2pay.com/themes/alert2pay/images/login-btn.jpg">
+                  <input type="hidden" class="login_cls" value="LOGIN" id="submit" name="submit">
+                </div>
+            		
+																	<div class="clear-both"></div>
+							</form>
+               <span class="log-link"><a href="http://alert2pay.com/themes/common/signup.php">Register</a></span>
+                <span class="text1"> | </span>
+                <span class="log-link">
+                	<a href="http://alert2pay.com/themes/common/forgotpassword.php">Forgot Password</a>
+                </span>
+							
+						</div>
+						<div class="left-bar-bottom"></div>
+					<!--end of sidebar menu part-->
+          
+								<!--end of statatics sidebar menu part-->
+            <div id="statisticsbytushar"></div>
+            <div class="clear-both"></div>
+            <!--statatics sidebar menu part-->
+								<!--125 * 125 Banners STart-->
+                    <div class="left-bar-top">Banners Ads</div>
+                    <div class="left-bar-middle">
+                    	<div id="menubannerof125x125"></div>
+                    </div>
+                    <div class="left-bar-bottom"></div>          
+  				<!--125 * 125 Banners End--> 
+				            
+			<!--text add sidebar menu start-->
+							<div class="left-bar-top">Text Ads</div>
+					<div class="left-bar-middle">
+						
+							<div class="textadd_innner_content"><a href="http://alert2pay.com/counter.php?txtid=2463&amp;view=text" target="_blank"><b>Earn from home</b></a><br>Easy to earn<br>Make money now<br></div><hr><div class="textadd_innner_content"><a href="http://alert2pay.com/counter.php?txtid=2465&amp;view=text" target="_blank"><b>Great Paying site</b></a><br>advertise for cheap<br>and earn good<br></div><hr><div class="textadd_innner_content"><a href="http://alert2pay.com/counter.php?txtid=2468&amp;view=text" target="_blank"><b>$$$$$  Alert2Pay  $$$$$</b></a><br>This can only win!<br>http://magyaralert2pay.blogspot.hu/<br><a href="http://alert2pay.com/counter.php?txtid=2468&amp;view=text" target="_blank"><b>http://alert2pay.com /index.php?ref=5198 </b></a><br></div>	
+					   		
+						
+					</div>
+				<div class="left-bar-bottom"></div>	
+								<!--text add sidebar menu end-->
+                
+                            
+			
+            
+      	</div>
+        
+        <!--page content start here-->
+        <div class="content-right">
+        <div class="banner-box">
+        		<div class="banner-box-top"></div>
+            <div class="banner-box-middle">
+            	<div class="banner"><div id="menubannerof468x60"></div></div>
+            </div>
+            <div class="banner-box-bottom"></div>
+        </div>
+                <div class="term_condtion">
+    <p>
+	<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Please read the following Privacy Policy before signing in.</span></span></p>
+<p>
+	<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">This privacy policy sets out how Alert2Pay.com &nbsp;uses and protects any information that you give when you use this website. Alert2Pay.com&nbsp;is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Alert2Pay.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.</span></span></p>
+<p>
+	<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">You agree that all information, communications, materials coming from are unsolicited and must be kept private, confidential and protected from any disclosure. Any information, communications and materials contained herein are not to be regarded as an offer, nor a solicitation for investments in any jurisdiction which deems non-public offers or solicitations unlawful, nor to any person to whom it will be unlawful to make such offer or solicitation. All the data giving by a member to will be used privately and not disclosed to any third parties. Alert2Pay.com&nbsp;is not responsible or liable for any loss of data that happens by your fault.</span></span></p>
+<p>
+	<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard the information we collect online.</span></span></p>
+<p>
+	<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. We only use this information for statistical analysis purposes and then the data is removed from the system.</span></span></p>
+<p>
+	<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">We will not sell, distribute or lease your personal information to third parties. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.</span></span></p>
+    </div>
+    <!--  /**********************************************************************
+  * xSharePro.com Script
+  * Copyright © 2012 xSharePro.com All Rights Reserved.
+  **********************************************************************
+  * IMPORTANT: The copyright notice in the footer must not be removed
+  * and is a legal includement for operating this software.
+  * Redistribution of this code in any form IS NOT ALLOWED.  You are
+  * given permission to run it on a single site only.  Any infringement
+  * will result in prosecution.  Full details of the license granted
+  * can be found on www.xsharepro.com.
+  * Created Date: 25-06-2012
+  * Last Modified: 18-07-2012
+  *********************************************************************/-->			 <!--start for banner ads-->
+  					
+  			
+        <div class="clear-both"></div>
+             	<br>
+               <div align="center"><div class="banner"><div id="footerbannerof468x60"></div></div></div>
+               </div>
+        <div class="clear-both"></div>
+            <!--end for banner ads-->
+        </div> <!--close right_side div-->               
+	</div><!--close main_2 div-->
+</div><!--close main div-->
+<!-- body part over -->
+	 
+<!--footer part  -->
+<div id="footer-bg">
+	<div id="footer"><img src="http://alert2pay.com/themes/alert2pay/images/footer.jpg" border="0" usemap="#Map">
+<map name="Map" id="Map"><area shape="rect" coords="735,11,898,29" href="http://cheapminisite.com" target="_blank" alt="">
+</map></div>
+
+<div class="footer-text-1"> 
+   		<script language="javascript">
+			$(document).ready(function() {
+				var p_href=$("#powered_by").attr("href");
+				var p_html=$("#powered_by").html();
+				if(p_html){
+					var txt="<a href='"+p_href	+"' target='_blank' id='powered_by'>"+p_html+"</a>";
+					if(txt=="<a href='http://www.xsharepro.com/index.php?ref=73' target='_blank' id='powered_by'>xSharePro.com</a>"){
+						
+					}else{
+						window.location.href="http://alert2pay.com/stop.php";
+					}
+				}else{
+					window.location.href="http://alert2pay.com/stop.php";				
+				}
+			});
+		</script>
+        <script language="javascript">
+			$(document).ready(function() {
+					var strURL='../../themes/common/banner.php?style=468';
+					var req = getXMLHTTP();
+					if (req) {
+						
+						req.onreadystatechange = function() {
+							if (req.readyState == 4) {
+								// only if "OK"
+								if (req.status == 200) {						
+									document.getElementById('footerbannerof468x60').innerHTML=req.responseText;						
+								} else {
+									//alert("There was a problem while using XMLHTTP:\n" + req.statusText);
+								}
+							}				
+						}			
+						req.open("GET", strURL, true);
+						req.send(null);
+					}
+			});
+		</script>
+        <noscript><meta HTTP-EQUIV="REFRESH" content="0; url=http://alert2pay.com/enable_javascrip.php"></noscript>
+        <script type="text/javascript">
+			$(document).ready(function(){
+		showonline('third');			});
+        </script>
+		<span class="copytext">Copyright © 2012 Alert2Pay.com</span> All Rights Reserved. | Powered by <a href="http://www.xsharepro.com/index.php?ref=73" target="_blank" id="powered_by">xSharePro.com</a>    | <a href="http://alert2pay.com/themes/common/termandcondition.php" class="footer-link"> Terms &amp; Conditions </a> |
+    <a href="http://alert2pay.com/themes/common/privacy_policy.php" class="footer-link"> Privacy Policy </a> |
+    <a href="http://alert2pay.com/themes/common/earning_desclaimer.php" class="footer-link"> Earning Desclaimer </a>
+</div>
+</div>
+<!-- footer over part  -->
+
+</div></body></html>
