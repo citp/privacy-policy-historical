@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628064352id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005815id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
 
 # Legends of America Privacy Policy
 
@@ -16,11 +16,13 @@ Content Categories:
 
 [ Destinations-States](http://www.legendsofamerica.com/destinations.html)
 
+[ Ghost Stories](http://www.legendsofamerica.com/ghostlegends.html)
+
 [ Ghost Towns](http://www.legendsofamerica.com/ghosttowns.html)
 
-[ Ghostly Legends](http://www.legendsofamerica.com/ghostlegends.html)
-
 [ Historic People](http://www.legendsofamerica.com/we-oldwestpeople.html)
+
+[Legends & Myths](https://web.archive.org/web/20120920005815id_/http%3A//www.legendsofamerica.com/ah-legends.html)
 
 [ Native Americans](http://www.legendsofamerica.com/na-nativeamericans.html)
 
@@ -28,74 +30,48 @@ Content Categories:
 
 [ Route 66](http://www.legendsofamerica.com/66-main.html)
 
-[Travel Center ](http://www.legendsofamerica.com/trv-travelcenter.html)
+[Travel Center](http://www.legendsofamerica.com/trv-travelcenter.html)
 
-**[ Treasure Tales](http://www.legendsofamerica.com/treasures.html)**
+[ Treasure Tales](http://www.legendsofamerica.com/treasures.html)
 
-**
+[About Us](http://www.legendsofamerica.com/aboutus.html)
 
-**[About Us](http://www.legendsofamerica.com/aboutus.html)**
+[Advertising](http://www.legendsofamerica.com/advertising.html)
 
-**
+[Article/Photo Use](http://www.legendsofamerica.com/loa-reproduction.html)
 
-**[Advertising](http://www.legendsofamerica.com/advertising.html)**
+[Copyright Information](http://www.legendsofamerica.com/copyright.html)
 
-**[Article/Photo Use](http://www.legendsofamerica.com/loa-reproduction.html)**
-
-**[Copyright Information](http://www.legendsofamerica.com/copyright.html)**
-
-**
-
-**[ Blog](http://legendsofamerica.blogspot.com/)**
-
-**
+[Blog](http://legendsofamerica.blogspot.com/)
 
 [Facebook Page](http://www.facebook.com/legendsofamerica)
 
 [Forum](http://legends.websitetoolbox.com/)
 
-**
-
-**[Guestbook](http://www.legendsofamerica.com/guestbook.html)**
-
-**
+[Guestbook](http://www.legendsofamerica.com/guestbook.html)
 
 [Links](http://www.legendsofamerica.com/loa-links.html)
 
-**
-
-** [ Newsletter](http://www.legendsofamerica.com/newsletter.html)**
-
-**
+[ Newsletter](http://www.legendsofamerica.com/newsletter.html)
 
 [Privacy Policy](http://www.legendsofamerica.com/loa-privacypolicy.html)
 
 [Site Map](http://www.legendsofamerica.com/loa-sitemap.html)
 
-** [Writing Credits](http://www.legendsofamerica.com/loa-credits.html)**
-
-****
+[Writing Credits](http://www.legendsofamerica.com/loa-credits.html)
 
 We welcome corrections
 
 and feedback!
 
-**
-
 [Contact Us](http://www.legendsofamerica.com/contact.html)
-
-**
 
 [Legends Of America's](http://store.legendsofamerica.com/)
 
-**
-
 [ ](http://www.store.legendsofamerica.com/)
 
-**
-
   
-[ Old West Mercantile](http://store.legendsofamerica.com/index.php?l=product_list&c=122)
+[Old West Mercantile](http://store.legendsofamerica.com/index.php?l=product_list&c=122)
 
 [ Route 66 Emporium](http://store.legendsofamerica.com/index.php?l=product_list&c=123)
 
@@ -132,7 +108,7 @@ and [Much More!](http://photos.legendsofamerica.com/main)!
 
 [ ](http://www.familyfriendlysites.com/)
 
-**** **** | | 
+| | 
 
 |    
 ---  
