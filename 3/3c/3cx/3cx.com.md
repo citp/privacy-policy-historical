@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3cx.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627225452id_/http%3A//www.3cx.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3cx.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919083728id_/http%3A//www.3cx.com/company/privacy.html) for the most accurate reproduction.*
 
 # 3CX Privacy Policy
 
