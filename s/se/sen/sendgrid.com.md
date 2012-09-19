@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendgrid.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626154947id_/http%3A//sendgrid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendgrid.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190028id_/http%3A//sendgrid.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Transactional Email and SMTP Service | Sendgrid
+# Privacy Policy - Transactional Email and SMTP Service
 
 **Policy Version Date: August 2, 2011**
 
