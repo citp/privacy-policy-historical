@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thonky.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506174915id_/http%3A//thonky.com/globalpriv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thonky.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919191117id_/http%3A//thonky.com/globalpriv.php) for the most accurate reproduction.*
 
 # None
 
@@ -22,7 +22,7 @@ www.thonky.com does use cookies to store information about visitors preferences,
 Some of my advertising partners may use cookies and Web beacons on my site. My advertising partners include:  
 Google Adsense  
 Amazon.com  
-Eve Online
+CCP Games
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.thonky.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
