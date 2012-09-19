@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitbit.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620180827id_/http%3A//www.fitbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitbit.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231538id_/http%3A//www.fitbit.com/privacy) for the most accurate reproduction.*
 
 # Fitbit Privacy Policy
 
