@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the career-network.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521231505id_/http%3A//www.career-network.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the career-network.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920001038id_/http%3A//www.career-network.com/privacy.cfm) for the most accurate reproduction.*
 
 # Career-Network
 
