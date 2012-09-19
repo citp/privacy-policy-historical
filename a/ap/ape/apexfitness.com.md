@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexfitness.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602144233id_/http%3A//my.apexfitness.com/vip/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexfitness.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919232637id_/http%3A//my.apexfitness.com/vip/privacy_policy.php) for the most accurate reproduction.*
 
 # bodybugg® Privacy Policy
 
@@ -6,7 +6,7 @@
 
  **WEBSITE PRIVACY POLICY**
 
- **Last modified 09/10/2011**
+ **Last modified 07/19/2012**
 
  **1\. Introduction**
 
@@ -18,7 +18,7 @@
 
     1.2 **Scope.**  This Privacy Policy applies only to information we collect through electronic or digital means, including our website located at  [my.apexfitness.com](http://www.my.apexfitness.com/), certain 24 Hour Fitness and Apex affiliated sites and other electronic and digital means of communication (collectively referred to in this Policy as our “Digital Properties”). Unless disclosed otherwise, our affiliated sites are governed by this Privacy Policy. Our Digital Properties also contain links to third party sites that are not owned or controlled by 24 Hour Fitness or my.apexfitness.com.  Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our Digital Properties and to read the privacy statements of each and every website that collects personally identifiable information.  
 
-    1.3 **No Information From Children Under Age 13.  ** If you are under the age of 13, please do not attempt to register at [my.apexfitness.com](http://www.my.apexfitness.com/) or attempt to provide any personal information about yourself to us.  If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information.  If you believe we might have any information from a child under the age of 13, please email us at cpo@24hourfit.com, or contact us by mail at the following address:
+    1.3 **No Information From Children Under Age 13.  ** If you are under the age of 13, please do not attempt to register at [my.apexfitness.com](http://www.my.apexfitness.com/) or attempt to provide any personal information about yourself to us.  If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information.  If you believe we might have any information from a child under the age of 13, please email us at [cpm@24hourfit.com](mailto:cpm@24hourfit.com) or contact us by mail at the following address:
 
     24 Hour Fitness    
     P.O. Box 2689  
@@ -30,11 +30,9 @@
 
     2.1 **Information You Provide Us**.  You can provide information to us through various means using our Digital Properties.
 
-In order to obtain access to certain portions of the my.apexfitness.com website, we ask you to provide us with various pieces of information, some of which may enable us to distinguish you from other users. Certain other areas of the site may ask for additional information on your habits or health. If you are a licensee seeking to make purchases online, we may also ask for identifying information that will enable us to process your orders. This registration information is personally identifiable information because it allows us to contact you and distinguish you from other users.
+In order to obtain access to certain portions of the my.apexfitness.com website, we ask you to provide us with various pieces of information, some of which may enable us to distinguish you from other users. Certain other areas of the site may ask for additional information on your habits or health. This registration information is personally identifiable information because it allows us to contact you and distinguish you from other users.
 
-Some users may also buy health products, supplements, or other items on our site. If you make purchases through my.apexfitness.com, we need to gather information relating to the sale, including what you are buying, how you are paying and where you would like the products shipped. However, we will use that transactional information only to complete the transaction, to provide you with an order history and to facilitate future orders. We may also use information about the transaction for aggregate reporting (where we summarize the data in a report that does not contain your personally identifiable information).
-
-Our "Free Weight Management Plan" allows you to enter personally identifiable information and obtain suggestions from us as to fitness goals and which products might be of interest to you. We only use the information you input to provide you with our Free Weight Management Plan and do not store that information.. We may use aggregated information concerning Free Weight Management Plan users, but such use will not reveal your personally identifiable information.
+Some users may also buy other items on our site. If you make purchases through my.apexfitness.com, we need to gather information relating to the sale, including what you are buying, how you are paying and where you would like the products shipped. However, we will use that transactional information only to complete the transaction, to provide you with an order history and to facilitate future orders. We may also use information about the transaction for aggregate reporting (where we summarize the data in a report that does not contain your personally identifiable information).
 
 We may receive additional personally identifiable information from you through your communications with my.apexfitness.com. If so, we will use that information to respond to your communication. For example, if you e-mail my.apexfitness.com to ask about an article or tool, we will use that information to give you an answer, to make sure that you are satisfied with our answer, and to have a history of our service to you. We may also include your request or communication in an aggregated report of customer service activities in order to improve our service. However, as before, such use will only be on an aggregated basis, without revealing any personally identifiable information.
 
@@ -100,7 +98,7 @@ To enhance our service, we may offer users the opportunity to participate in par
     3.4 **Transfer in the Event of Sale or Change of Control.  **If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the  Digital Properties to a third party, we may transfer your personal information to the new owner to be used consistent with this Privacy Policy.  In such a case, your information would remain subject to the promises made in the applicable privacy policy.
 
  **4\. Access to Your Information and Choices  
-** You can access and update certain information we have relating to your online account by signing into your account and going to the member information area of our Digital Properties. If you have questions about personal information we have about you or need to update your information, you can email us at [apexinfo@apexfitness.com](mailto:apexinfo@apexfitness.com) _._
+** You can access and update certain information we have relating to your online account by signing into your account and going to the member information area of our Digital Properties. If you have questions about personal information we have about you or need to update your information, you can email us at [orders@bodybugg.com](mailto:orders@bodybugg.com) _._
 
 You can opt-out of receiving marketing and promotional e-mails, phone calls, text message and other electronic communications from 24 Hour Fitness by accessing your membership information, and by using the opt-out or unsubscribe feature contained in the e-mails.  You can close your online account by contacting us. If you close your account, we will no longer use your online account information or share it with third parties.  We may, however, retain a copy of the information for archival purposes, and to avoid identity theft or fraud.
 
@@ -113,7 +111,7 @@ You can opt-out of receiving marketing and promotional e-mails, phone calls, tex
     **If we decide to change our Privacy Policy, we will post those changes to the Privacy Policy on our homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this Privacy Policy at any time, so please review it frequently.  The revisions will apply to information collected after the date it is posted on our home page.
 
  **7\. Questions / Contact Us  
-    **If you have any questions or suggestions regarding our Privacy Policy or otherwise need to contact us, please email us at [cpm@24hourfit.com](mailto:cpo@24hourfit.com),,  or contact us by mail at the following address:  
+    **If you have any questions or suggestions regarding our Privacy Policy or otherwise need to contact us, please email us at [cpm@24hourfit.com](mailto:cpm@24hourfit.com) or contact us by mail at the following address:  
     24 Hour Fitness  
     P.O. Box 2689  
     Carlsbad, CA 92018
