@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satruck.org privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119063803id_/http%3A//satruck.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satruck.org privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231131id_/http%3A//satruck.org/privacy) for the most accurate reproduction.*
 
 # The Salvation Army Adult Rehabilitation Center: Privacy Policy
 
