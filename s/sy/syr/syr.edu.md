@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syr.edu privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616190041id_/http%3A//www.syr.edu/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syr.edu privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919233115id_/http%3A//syr.edu/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
