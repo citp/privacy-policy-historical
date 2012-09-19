@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oddblogger.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626004433id_/http%3A//oddblogger.com/oddblogger-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddblogger.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235355id_/http%3A//oddblogger.com/oddblogger-policy) for the most accurate reproduction.*
 
-# OddBloggerPrivacy Policy » OddBlogger
+# Privacy Policy » OddBlogger
 
 **What information do we collect?**
 
@@ -36,13 +36,13 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or [services](http://oddblogger.com/services/ "services") on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**[Terms and Conditions](http://oddblogger.com/oddblogger-terms-and-conditions/ "Terms and Conditions")**
+**Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.oddblogger.co](http://oddblogger.com/write-here "TOS")m
 
@@ -56,7 +56,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact](http://oddblogger.com/contact/ "contact") us using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://oddblogger.com
 
@@ -69,8 +69,6 @@ New Delhi, Delhi 110018
 India
 
 [Contact me](http://oddblogger.com/contact/)
-
-[](http://oddblogger.com/designing-services/ "Get new logo")
 
 ### About [Abhi Balani](http://oddblogger.com/author/Abhi/ "Abhi Balani")
 
