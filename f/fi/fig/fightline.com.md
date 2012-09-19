@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightline.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508025443id_/http%3A//www.fightline.com/fl/pages/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightline.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205434id_/http%3A//www.fightline.com/fl/pages/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - FightLine.com
 
