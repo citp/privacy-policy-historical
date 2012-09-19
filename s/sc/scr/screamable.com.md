@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screamable.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614173113id_/http%3A//screamable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamable.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919234203id_/http%3A//screamable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
