@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafedefun.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233432id_/http%3A//cafedefun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafedefun.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225824id_/http%3A//cafedefun.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
