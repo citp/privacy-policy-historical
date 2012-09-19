@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222029id_/http%3A//www.netronline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185356id_/http%3A//www.netronline.com/privacy.asp) for the most accurate reproduction.*
 
 # NETR Privacy Policy
 
+|  |  NETR Privacy Policy  
+---|---  
+  
 |    
 ---  
 |  | 
