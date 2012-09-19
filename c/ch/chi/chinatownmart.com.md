@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatownmart.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235427id_/http%3A//www.chinatownmart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatownmart.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013434id_/http%3A//www.chinatownmart.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Chinatownmart.com
 
