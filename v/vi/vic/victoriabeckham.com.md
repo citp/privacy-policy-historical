@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriabeckham.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630063804id_/http%3A//www.victoriabeckham.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriabeckham.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181005id_/http%3A//www.victoriabeckham.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Victoria Beckham | Privacy Policy
 
@@ -81,11 +81,65 @@ From time to time We may provide you the opportunity to take part in competition
 
 We take precautions to ensure the security of personal information submitted by users. Unfortunately, no electronic communication over the Internet can be guaranteed to be 100% secure. While We strive to take care to protect your personal information, We cannot warrant the security of any information that you submit to Us, and you do so at your own risk. We do offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it when collecting credit card information for online purchases. We also store any personal information, including credit card numbers in a secure area to which the general public does not have access.
 
-### Cookies
+### Cookie Policy
 
-We use cookies in relation to your use of the Site. A cookie is a file that We put in your computer. That file tells Us how you use the Site. For example, it will speed up your use of the Site, when you are purchasing goods and services from Us. It also assists Us in understanding how you use the Site so that We can constantly improve and update it. For more information about cookies, visit www.allaboutcookies.org. We also collect details of your web browser, the address at which it is based and details of the pages that you view on Our Site.
+The Victoria Beckham website (victoriabeckham.com) places cookies, which are small data files, on your computer or handheld device. This is standard practice for all websites.
 
-We do not collect Personal Information passively through cookies or other tracking mechanisms except in the circumstances described above. Cookies DO NOT contain any personal information about a specific user. We do not use cookies or other non-consensual methods to take personally identifiable or online contact information about you or your family off of your computer.
+Cookies are essential for helping us deliver a high quality website and online experience for our users, and some collect information about browsing behaviour.
+
+By using and browsing the Victoria Beckham website, you consent to cookies being used in accordance with our policy. If you do not consent, you must disable cookies or refrain from using the site.
+
+#### What are cookies?
+
+This website uses cookies to collect information. Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart ‘phones or ‘tablets’) as you browse this website. They are used to 'remember' when your computer or device accesses this website. The cookies are essential to the effective operation of our website and to enable to you shop with us online. Cookies are also used to tailor the products and services offered and advertised to our customers, both on this website and elsewhere.
+
+#### Information collected
+
+Some cookies collect information about browsing behaviour by people who access this website via the same computer or device. This includes information about pages viewed and the user journey around the website. We do not, however, use cookies to collect or record information on user' name, address or other contact details.
+
+#### What cookies are set?
+
+The website itself sets a session cookie named PHPSESSID, while Google Analytics ( a web traffic analytics system ) sets a number of cookies labelled __utma, __utmb, __utmc and __utmz.
+
+#### What are the cookies used for?
+
+The main purposes for which cookies on this website are used for are:-
+
+  * For technical purposes essential to effective operation of website.
+  * To enable us to collect information about the browsing activities of visitors, including to monitor the traffic sources, browsers & devices used to access the website as well as pages visited.
+
+
+
+#### How do I disable cookies?
+
+If you want to disable cookies you need to change your website browser settings to reject cookies. How to do this will depend on the browser you use and we provide further detail below on how to disable cookies for the most popular browsers:-
+
+For Microsoft Internet Explorer:
+
+  * Choose the menu "tools" then "Internet Options"
+  * Click on the "privacy" tab
+  * Select the setting the appropriate setting
+
+
+
+For Mozilla firefox:
+
+  * Choose the menu "tools" then "Options"
+  * Click on the icon "privacy"
+  * Find the menu "cookie" and select the relevant options
+
+
+
+For Opera 6.0 and further:
+
+  * Choose the menu "Files" > "Preferences"
+  * Privacy
+
+
+
+#### What happens if I disable cookies?
+
+This depends on which cookies you disable, but in general the site may not operate properly if 1st party cookies are switched off.
 
 ### Glossary
 
