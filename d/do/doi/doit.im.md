@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doit.im privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508034747id_/http%3A//doit.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doit.im privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235746id_/http%3A//doit.im/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Time and Task Management System, Always Online, Always With You!
 
