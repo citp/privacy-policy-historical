@@ -1,33 +1,87 @@
-> *The following text is extracted and transformed from the fed-pol.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022034id_/http%3A//www.fed-pol.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fed-pol.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919215200id_/http%3A//fed-pol.com/privacy.html) for the most accurate reproduction.*
 
-# Policies
+# Privacy Policy
 
-1) Privacy Policy
+Privacy Policy:
 
-The privacy of your nonpublic personal information is important to us. We use safeguards to protect your privacy and confidentiality. This Disclosure discusses information we collect and the manner in which it is used.
+What information do we collect?
 
-We reserve the right, at any time, to add to, change, update or modify our privacy policy simply by posting such change, update or modification on the Website. Any such change, update or modification will be effective immediately upon posting on the Website.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-2) Security
+When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
-We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-3) Information Collecting
+What do we use your information for? 
 
-If you do nothing during your visit but browse through the Website and read the information contained on the Web pages, we may gather certain information about your visit automatically. This information does not identify you personally. We may automatically gather the Internet domain, IP address from which you access our Website, and the date and time you access our Website and the pages you visit.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We may collect nonpublic personal information from you when you voluntarily provide personally identifiable information to us though our Website, such as when subscribing to a newsletter or registering a member account. We limit use of such information to the purposes for which the information was provided. However, we reserve the right to use such information to contact you regarding additional services or products that you may find useful.
+\- To personalize your experience
 
-If you send an e-mail message that includes personally identifiable information, for example, in an e-mail message containing an inquiry, we will use that information to respond to your inquiry. Remember that e-mail is not necessarily secure against interception.
+(your information helps us to better respond to your individual needs)
 
-It is our policy to not sell, rent, or give away any nonpublic personal information unless required by law. WE DO NOT DISCLOSE ANY NONPUBLIC PERSONAL INFORMATION ABOUT YOU WITH ANYONE FOR ANY PURPOSE THAT IS NOT SPECIFICALLY PERMITTED BY LAW.
+\- To improve our website
 
-We may use "cookies" to improve our service to you. Cookies may help us recall a previous visit, or recall a registered user's information. If you are not comfortable with this use, you may configure your browser to be notified when cookies are to be received and to provide you with the option of refusing cookies. However, refusing cookies may limit your ability to use our Website in its entirety. Our advertisers and sponsors may use cookies as well, we do not have access to any of this information and are not responsible for it's usage.
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-4) Links to Other Website
+\- To improve customer service
 
-Our Website may contain links to Websites that are provided and maintained exclusively by third parties. Websites provided and maintained by third parties are not subject to this privacy policy. Please review the privacy policies on those Websites to understand their personal information handling practices. We make no representations concerning the privacy policies of these third party Websites.
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-5) Questions
+\- To process transactions
 
-If you have any questions about our policies, you may contact us by using our contact form.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+\- To send periodic emails
+
+The email address you provide for order processing will only be used to send you information and updates pertaining to your order.
+
+How do we protect your information? 
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+When placing an order, we offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+Do we use cookies? 
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+
+Do we disclose any information to outside parties? 
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Third party links 
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+Childrens Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+Online Privacy Policy Only 
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions 
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://fed-pol.com/tos.html>
+
+Your Consent 
+
+By using our site, you consent to our web site privacy policy.
+
+Changes to our Privacy Policy 
+
+If we change our privacy policy, we will post those changes on this page. 
+
+Contacting Us 
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
