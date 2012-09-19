@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougame.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508030713id_/http%3A//www.yougame.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougame.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230323id_/http%3A//www.yougame.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
