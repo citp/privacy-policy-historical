@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sunbiz.org privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622235308id_/http%3A//oss.dos.state.fl.us/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbiz.org privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181456id_/http%3A//www.dos.state.fl.us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy » Florida Department of State
+# Florida Department of State » Privacy Policy
 
 ### Privacy Policy
 
 **Please note:** Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing. 
 
-Thank you for visiting the Florida Department of State's web site. This policy describes the privacy practices of the Florida Department of State regarding information collected from visitors to our web site. It contains information about what data is collected and how that information is used. This policy may be updated periodically, so please check back from time to time. 
+Thank you for visiting the Florida Department of State's web site. This policy describes the privacy practices of the Florida Department of State regarding information collected from visitors to our web site. It contains information about what data is collected and how that information is used. This policy may be updated periodically, so please check back from time to time.
 
 #### Web Site Use Information:
 
@@ -22,9 +22,9 @@ However, information will not be disclosed to third parties or other government 
 
 #### What Are Cookies?
 
-  * Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a web site. 
-  * Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. 
-  * Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that web site by the same user or to use the information to streamline the user's transactions on related web pages. This makes it easier for a user to move from web page to web page and to complete commercial transactions over the Internet. 
+  * Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a web site.
+  * Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive.
+  * Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that web site by the same user or to use the information to streamline the user's transactions on related web pages. This makes it easier for a user to move from web page to web page and to complete commercial transactions over the Internet.
 
 
 
