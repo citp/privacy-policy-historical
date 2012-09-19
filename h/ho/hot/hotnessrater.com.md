@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427000136id_/http%3A//hotnessrater.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000921id_/http%3A//hotnessrater.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,18 +18,22 @@ We reserve the right to change this privacy policy. We will notify you of any si
 
 ## Advertising
 
-HotnessRater.com displays advertisements provided by third-party advertising networks. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services which may interest you. Links to each advertising network’s privacy policy are provided below:
+HotnessRater.com displays advertisements provided by third-party advertising networks. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services which may interest you. Links to each advertising network or their privacy policies are provided below:
 
-  * [Ad Dynamo](http://www.addynamo.com/en/Terms_Conditions.cfm?content=8233&CFID=9692440&CFTOKEN=75954794&jsessionid=8430d3b824c5715847dc51521d163a1f5666)
-  * [Adify](http://www.coxdigitalsolutions.com/privacy-policy)
+  * [Ad Igniter](http://www.adigniter.org/privacy.html)
+  * [Adstract](http://www.adstract.com/privacy)
   * [Adversal](https://www.adversal.com/privacy.html)
-  * [Clicksor](http://www.clicksor.com/footer-link/privacy-policy)
-  * [Dating Ad Network](http://www.datingadnetwork.com/policy.php)
-  * [Project Wonderful](https://www.projectwonderful.com/tos.php)
+  * [CPM Fun](http://www.cpmfun.com/privacy.php)
+  * [Lijit](http://www.lijit.com/company/privacy-policy)
+  * [Mad Ads Media](http://madadsmedia.com/)
+  * [Zap United](http://www.zapunited.com/help/privacy)
+  * [Zenovia Exchange](http://zenoviaexchange.com/privacy)
 
 
 
 For general information on consumer privacy on the web as it pertains to advertising, you may wish to visit the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/). The NAI also provides information and resources on “opting-out” of behavioral advertising.
+
+Cookies & 3rd Party Advertisements Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ## Analytics
 
