@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2012-survival-guide.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508014925id_/http%3A//2012-survival-guide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2012-survival-guide.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230639id_/http%3A//2012-survival-guide.com/privacy.php) for the most accurate reproduction.*
 
 # 2012-Survival-Guide.com
 
