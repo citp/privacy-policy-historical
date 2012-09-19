@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilebusinessapprentice.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413122859id_/http%3A//www.mobilebusinessapprentice.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilebusinessapprentice.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013703id_/http%3A//www.mobilebusinessapprentice.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Business Apprentice
 
