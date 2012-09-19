@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the setindia.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205546id_/http%3A//www.setindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setindia.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015319id_/http%3A//www.setindia.com/privacy.php) for the most accurate reproduction.*
 
 # SONY Television India - General Entertainment Channel - Hindi Televison Shows and Daily Soaps - Indian Reality show - Watch shows online
 
-[Home](https://web.archive.org/web/20120503205546id_/http%3A//www.setindia.com/index.php)  Privacy And Policies
+[Home](https://web.archive.org/web/20120920015319id_/http%3A//www.setindia.com/index.php)  Privacy And Policies
 
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY BEFORE USING THIS WEB SITE. 
 
@@ -43,16 +43,16 @@ For those who are under 13 years old, please submit your personal information af
 
 | Today's Schedule  
 ---  
-Now: 1.58 am
+Now: 7.00 am
 
-[Kuch Toh Log Kahenge](https://web.archive.org/web/20120503205546id_/http%3A//www.setindia.com/show_details.php?sid=81)  
+Teleshopping  
   
-Next: 2.27 am
+Next: 7.30 am
 
-[Dekha Ek Khwab](https://web.archive.org/web/20120503205546id_/http%3A//www.setindia.com/show_details.php?sid=83)  
+Teleshopping  
   
-Later: 2.57 am
+Later: 8.00 am
 
-[Saas Bina Sasural](https://web.archive.org/web/20120503205546id_/http%3A//www.setindia.com/show_details.php?sid=57)  
+[Kahani Comedy Circus Ki](https://web.archive.org/web/20120920015319id_/http%3A//www.setindia.com/show_details.php?sid=86)  
   
-[Full Schedule »](https://web.archive.org/web/20120503205546id_/http%3A//www.setindia.com/schedule.php)
+[Full Schedule »](https://web.archive.org/web/20120920015319id_/http%3A//www.setindia.com/schedule.php)
