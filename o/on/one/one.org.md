@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the one.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144538id_/http%3A//www.one.org/c/us/about/803) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015235id_/http%3A//www.one.org/c/us/about/803) for the most accurate reproduction.*
 
 # Privacy Policy | ONE
 
@@ -20,7 +20,7 @@ We use cookies on our site to personalize the experience of our visitors and to 
 
 ONE partner organizations maintain several e-mail lists to keep our supporters, the press and policy makers informed about news and events. Individuals who provide optional information may also receive materials in the U.S. mail and/or be contacted by telephone by authorized ONE partner organization representatives. In addition, we do not share the e-mail addresses on our lists with staff outside of ONE partner organizations and their authorized agents. We configure our list server software to refuse to divulge the e-mail addresses of our list subscribers to anyone but authorized ONE partner organization staff and agents. Only ONE partner organization staff and our authorized agents have access to personally identifiable information provided by visitors to our site.
 
-To unsubscribe from ONE email list [click here](https://web.archive.org/web/20111101144538id_/http://subscrip/i.html).
+To unsubscribe from ONE email list [click here](https://web.archive.org/web/20120920015235id_/http://subscrip/i.html).
 
 **CHILDREN's PRIVACY:**
 
