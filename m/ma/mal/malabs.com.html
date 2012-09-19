@@ -1,0 +1,677 @@
+<!--The following is the downloaded HTML source of the malabs.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920014628id_/http%3A//www.malabs.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Ma Labs - Leading Distributor of PC Components, Computer Hardware and Software, Servers, Laptop Systems, Digital Signage, Consumer Electronics and more!</title>
+<meta name="description" content="Ma Labs, premier IT distributor, offers full selection of computer components, just-in-time integration services, flexible payment options, and best value to VARS, Computer Resellers, System Integrators, Server and Enterprise Resellers, Cloud Computing Centers, OEMs, and the Vertical Markets.">
+<meta name="keywords" content="Computer Components, IT Components, Computer Parts, CPU, Storage Devices, DRAM Memory, Flash Memory, Solid State Drives, USB Drives, Notebooks, Tablets, Motherboards, Graphics Cards, Displays, LCD Monitors, Networking, Case and Power Supply, Input Devices, Peripherals, Consumer Electronics, Software, Printer, Projector, Digital Cameras, Barebones">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/common.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/other.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/smoothness/ui.all.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/validationEngine.jquery.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/login.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/new_account.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/loginpopup.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/js/product.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/ui.core.js"></script>
+<script type="text/javascript" src="/js/ui.datepicker.js"></script>
+<script type="text/javascript" src="/js/jquery.validationEngine.js"></script>
+<script type="text/javascript" src="/js/jquery.validationEngine-en.js"></script>
+<script type="text/javascript" src="/js/validation.js"></script>
+<script type="text/javascript" src="/js/jquery.corner.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26000690-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+$(window).ready(function(){
+	$('#keyword').bind('focus',function(){
+		if($('#keyword').val() == ' Search')
+		{
+			$('#keyword').val('');
+			$('#keyword').css('color','#000');
+		}
+	});
+
+	$('#keyword').bind('blur',function(){
+		if($('#keyword').val() == '')
+		{
+			$('#keyword').val(' Search');
+			$('#keyword').css('color','#000');
+		}
+	});
+
+	$('#top_keyword').bind('focus',function(){
+		if($('#top_keyword').val() == 'Search')
+		{
+			$('#top_keyword').val('');
+			$('#top_keyword').css('color','#333');
+		}
+	});
+
+	$('#top_keyword').bind('blur',function(){
+		if($('#top_keyword').val() == '')
+		{
+			$('#top_keyword').val('Search');
+			$('#top_keyword').css('color','#333');
+		}
+	});
+	
+	
+	$('#shopping_cart_link').bind('mouseenter',function(){
+	
+		var _action = 'http://malabs.com/order/popup';
+		
+    $('#load_layer').attr('use','false');
+    
+    $.ajax({url:_action,
+			cache:false,
+			success:function(data,status)
+			{
+				if(status == "error")
+				{
+					alert(data);
+					$('#load_layer').attr('use','true');
+				}
+				else
+				{
+          var linkoffset = $('#shopping_cart_link').offset();
+          $('.shopping_cart_pop_up').css('left',linkoffset.left);
+          $('.shopping_cart_pop_up').css('top',linkoffset.top);
+          
+          $('.shopping_cart_pop_up').html(data);
+          $('.shopping_cart_pop_up').show();
+
+          $('#load_layer').attr('use','true');
+          
+           $('.shopping_cart_pop_up').click(function(){
+            location.href="http://malabs.com/order/showShoppingCart";
+          });
+          
+         // $('#shopping_cart_link').bind('mouseleave',function()
+          //{
+              $('.shopping_cart_pop_up').bind('mouseleave',function(){
+                $('.shopping_cart_pop_up').hide();
+
+                $('.shopping_cart_pop_up').unbind('mouseleave');
+              });
+
+         // });	     
+                /**      
+          $('.shopping_cart_pop_up').bind('mouseenter',function()
+          {
+            $('.shopping_cart_pop_up').show();
+
+            $('.shopping_cart_pop_up').unbind('mouseenter');
+          });
+          */
+			}
+		}});
+	});
+});
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+</script><style>
+  #pop_up_cart {
+    background:url(../images/shopping_sart_pop_up_bg.png) no-repeat;
+    width:250px;
+    height:101px;
+    padding:0px 0px 0px 0px;}
+    
+  #pop_up_cart dl dt {
+    display:block;
+    height:25px;}
+  
+  .shopping_cart_pop_up {z-index:10000;position:absolute;left:720px;top:40px;padding-top:20px;border:0px solid red;}
+  
+  .shipcart { 
+    width:225px; 
+    float:left;}
+    
+  .shipcart_tit{ 
+    float:left; 
+    background:url(/images/1x1.gif) no-repeat;
+    width:225px; 
+    height:42px;}
+    
+  .shipcart_tit ul{ 
+    list-style:none; 
+    margin:0; 
+    padding:0;}
+    
+  .shipcart_tit ul li{ 
+    float:left;
+    display:inline; 
+    font-size: 12px; 
+    padding-right:3px; 
+    margin-top:22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #000000;	
+    text-decoration: none; 
+    padding-left:6px;}
+    
+  .shipcart_cont{
+    width:223px; 
+    background:#fff;
+    border-left:1px solid #979595;
+    border-right:1px solid #979595;
+    border-bottom:1px solid #979595;
+    float:left;
+    padding-bottom:8px;}
+    
+  .shipcart_cont ul{ 
+    list-style:none; 
+    margin:0; 
+    padding:0; }
+    
+  .shipcart_cont ul li{ 
+    float:left;
+    display:inline; 
+    font-size: 12px; 
+    padding-right:3px; 
+    margin-top:5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none; 
+    padding-left:6px;}
+    
+  .tit_sc{ 
+    width:100px;
+    font-weight: bold;	
+    color: #00549F;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align:left;}		
+    
+  .tit_sc a{ 
+    width:100px;
+    font-weight: bold;	
+    color: #00549F;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align:left;}		    
+    
+  .qul_sc{ 
+    width:22px; 
+    margin-left:10px; 
+    color:#000;
+    text-align:left;}
+    
+  .qt_sc{ 
+    width:60px; 
+    margin-left:0px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align:left;}
+</style></head>
+
+
+
+<body class="bg">
+<div class="shopping_cart_pop_up"></div>
+<div class="backbg" id="light"></div>
+<div class="layout">
+
+<div class="header top24">
+<table width="965" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="224"><a href="/"><img src="/images/logo.jpg" alt="malabs"></a></td>
+	
+<!-- before login start -->
+    <td align="right" colspan="2">
+     
+		<div id="container">
+  <div id="topnav" class="topnav"><a href="/login.php" class="signin"><span>Log In</span></a>&nbsp; | &nbsp; &nbsp;<a href="/register/register.php">Register</a>  &nbsp; &nbsp; | &nbsp; &nbsp;<a href="/services/faq.php">FAQ</a> &nbsp; &nbsp;</div>
+  <fieldset id="signin_menu">
+	<a href="login" class="signin"><img src="/images/close_x.png" style="position:absolute;top:0px;left:210px;"></a>
+    <form name="quickloginform" id="quickloginform" method="post" action="/login.php/noback/1">    	<dl class="global_error_list">
+					</dl>
+		      <p style="width:100%;">
+      <label for="login_account">Customer ID:</label>      <input type="text" name="login[account]" class="intxt" tabindex="10" id="login_account">      </p>
+      <p>
+        <label for="login_password">Password:</label>        <input type="password" name="login[password]" class="intxt" tabindex="11" id="login_password">      </p>
+      <p class="remember">
+		<input type="submit" value="" class="login_btn">
+      </p>
+      <p class="forgot-username">Forgot your <a id="forgot_username_link" href="#" original-title="If you don't remember your Customer ID, please contact your Ma Labs Sales Representative">Customer ID</a> or <a href="/retrieve_password.php">Password</a>?</p>
+    </form>
+  </fieldset>
+</div>
+<script type="text/javascript">
+        $(document).ready(function() {
+
+            $(".signin").click(function(e) {
+				e.preventDefault();
+                $("fieldset#signin_menu").toggle();
+				$(".signin").toggleClass("menu-open");
+            });
+			
+			$("fieldset#signin_menu").mouseup(function() {
+				return false
+			});
+			$(document).mouseup(function(e) {
+				if($(e.target).parent("a.signin").length==0) {
+					$(".signin").removeClass("menu-open");
+					$("fieldset#signin_menu").hide();
+				}
+			});			
+			
+        });
+</script>
+<script src="/js/jquery.tipsy.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function() {
+	  $('#forgot_username_link').tipsy({gravity: 'n'});
+    });
+</script>	</td>
+<!-- before login end -->
+		<td align="left" width="249" height="23">
+			<!-- Search Box Start -->
+			<div class="top_search">
+			<form name="search" method="get" action="/product">
+				<table width="249" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td width="10" align="right" valign="bottom"><img src="/images/textbox_focus.gif"></td>
+						<td width="214"><input type="text" name="description" class="top_s_keyword" id="top_keyword" maxlength="50" value="Search"></td>
+						<td width="25" align="left"><input type="submit" class="top_doquery_btn" id="top_doquery" value=""></td>
+					</tr>
+				</tbody></table>
+			</form>
+			</div>
+			<!-- Search Box End -->
+		</td>
+	</tr>
+</tbody></table>
+	<div class="topbanner">
+		    
+
+    <div class="indexmenu">
+    	<ul class="nav homeNormal">
+    	<!-- My Account -->
+    	    		        	<li class="rborder">
+        		<a href="/myaccount/profile_management.php">MY ACCOUNT</a>
+        	</li>
+        	    	    	
+    	<!-- Partners -->
+    	    		        	<li class="rborder">
+        		<a href="/partners/manufacturer.php">PARTNERS</a>
+        	</li>
+        	    	    	
+    	<!-- Services -->
+    	        	        	<li>
+        		<a href="/services/rma_request.php">SERVICES
+			</a></li>
+        	        
+        <!-- Company -->
+               	 	<a href="/company/aboutus.php">
+        		<li class="contacts rborder">&nbsp;</li>
+			</a>
+                	
+        <!-- Shoppping Cart -->
+            	</ul>
+		<div class="clearfix"></div>
+    </div>	</div>
+	<div class="menucontainer">
+  		<style>
+</style>
+<div class="menu">
+
+	<ul>
+
+                                		<li><a href="/product?categoryId=200000000000000" target="_self">Hardware &amp; Software</a>
+			<table>
+				<tbody><tr>
+					<td>
+						<ul>
+
+				
+                							<div class="menucon">
+								<div class="category_menu_col">
+                									<li><a href="/product?categoryId=222000000000000" target="_self">Cable</a></li>
+								
+													<li><a href="/product?categoryId=229000000000000" target="_self">Barebone</a></li>
+								
+													<li><a href="/product?categoryId=225000000000000" target="_self">Card Reader</a></li>
+								
+													<li><a href="/product?categoryId=212000000000000" target="_self">Case &amp; Chassis</a></li>
+								
+													<li><a href="/product?categoryId=206000000000000" target="_self">Controller Card</a></li>
+								
+													<li><a href="/product?categoryId=203000000000000" target="_self">CPU &amp; Processor</a></li>
+								
+													<li><a href="/product?categoryId=201000000000000" target="_self">DRAM Memory</a></li>
+								
+													<li><a href="/product?categoryId=216000000000000" target="_self">Fan &amp; Heatsink</a></li>
+								
+													<li><a href="/product?categoryId=204000000000000" target="_self">Hard Drive</a></li>
+								
+													<li><a href="/product?categoryId=215000000000000" target="_self">Input &amp; Output Device</a></li>
+								
+													<li><a href="/product?categoryId=224000000000000" target="_self">Memory Card</a></li>
+								
+													<li><a href="/product?categoryId=210000000000000" target="_self">Monitor &amp; Display</a></li>
+								
+													<li><a href="/product?categoryId=218000000000000" target="_self">Motherboard</a></li>
+								
+													<li><a href="/product?categoryId=217000000000000" target="_self">Multimedia</a></li>
+										
+								</div>
+								<div class="category_menu_col">
+								
+													<li><a href="/product?categoryId=221000000000000" target="_self">NAS</a></li>
+								
+													<li><a href="/product?categoryId=211000000000000" target="_self">Networking</a></li>
+								
+													<li><a href="/product?categoryId=205000000000000" target="_self">Optical Drive</a></li>
+								
+													<li><a href="/product?categoryId=214000000000000" target="_self">Power Protection &amp; UPS</a></li>
+								
+													<li><a href="/product?categoryId=213000000000000" target="_self">Power Supply</a></li>
+								
+													<li><a href="/product?categoryId=219000000000000" target="_self">Printer &amp; Scanner</a></li>
+								
+													<li><a href="/product?categoryId=202000000000000" target="_self">Projector</a></li>
+								
+													<li><a href="/product?categoryId=220000000000000" target="_self">Security &amp; Surveillance</a></li>
+								
+													<li><a href="/product?categoryId=228000000000000" target="_self">Server &amp; Workstation</a></li>
+								
+													<li><a href="/product?categoryId=208000000000000" target="_self">Software</a></li>
+								
+													<li><a href="/product?categoryId=227000000000000" target="_self">Solid State Drive</a></li>
+								
+													<li><a href="/product?categoryId=223000000000000" target="_self">USB Drive</a></li>
+								
+													<li><a href="/product?categoryId=209000000000000" target="_self">Video Card</a></li>
+								
+													<li><a href="/product?categoryId=207000000000000" target="_self">Zip &amp; Tape Backup</a></li>
+								
+				  
+				
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<span id="endli">
+										</span></ul>
+					</td>
+				</tr>
+			</tbody></table>
+		</li>
+						<li><a href="/product?categoryId=500000000000000" target="_self">PC &amp; Laptop</a>
+			<table>
+				<tbody><tr>
+					<td>
+						<ul>
+
+				
+                							<div class="menusinglecon">
+								<div class="category_menu_col">
+                									<li><a href="/product?categoryId=505000000000000" target="_self">All-in-One PC</a></li>
+													<li><a href="/product?categoryId=506000000000000" target="_self">Desktop System</a></li>
+													<li><a href="/product?categoryId=502000000000000" target="_self">Laptop &amp; Notebook</a></li>
+													<li><a href="/product?categoryId=501000000000000" target="_self">Netbook</a></li>
+													<li><a href="/product?categoryId=504000000000000" target="_self">Tablet PC</a></li>
+													<li><a href="/product?categoryId=503000000000000" target="_self">Ultrabook</a></li>
+													<li><a href="/product?categoryId=507000000000000" target="_self">Accessory</a></li>
+				  
+				
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<span id="endsingleli">
+										</span></ul>
+					</td>
+				</tr>
+			</tbody></table>
+		</li>
+						<li><a href="/product?categoryId=300000000000000" target="_self">Electronics</a>
+			<table>
+				<tbody><tr>
+					<td>
+						<ul>
+
+				
+                							<div class="menusinglecon">
+								<div class="category_menu_col">
+                									<li><a href="/product?categoryId=302000000000000" target="_self">Camera</a></li>
+													<li><a href="/product?categoryId=303000000000000" target="_self">Camcorder</a></li>
+													<li><a href="/product?categoryId=304000000000000" target="_self">Digital Photo Frame</a></li>
+													<li><a href="/product?categoryId=305000000000000" target="_self">MP3/MP4 Player</a></li>
+													<li><a href="/product?categoryId=306000000000000" target="_self">GPS &amp; Accessory</a></li>
+													<li><a href="/product?categoryId=310000000000000" target="_self">Speaker &amp; Headset</a></li>
+													<li><a href="/product?categoryId=313000000000000" target="_self">Security &amp; Surveillance</a></li>
+				  
+				
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<span id="endsingleli">
+										</span></ul>
+					</td>
+				</tr>
+			</tbody></table>
+		</li>
+				  
+				
+		<li><a href="/configure" target="_self">Configure</a></li>
+		<li><a href="/signage/welcome.php" target="_self">Digital Signage</a></li>
+	</ul>
+</div>
+  	</div>
+	</div>
+	<div class="mainbody"> <div class="mainbody">
+<script type="text/javascript" language="javascript">
+$(window).ready(function(){
+	hoverli(8);
+});
+</script>
+<div class="c">
+	<div class="ad_banner"><a href="#"><img src="/images/banner/company_banner.jpg" alt=""></a></div>
+	<div class="layout_left_context">
+		<script type="text/javascript" language="javascript">
+function g(o){return document.getElementById(o);}
+function hoverli(n){
+	
+	src = $('#careers_menu ul li:eq(' + (n-1) + ')');
+
+	if(src != null)
+	{
+        $('#careers_menu ul li').removeClass('menu_focus');
+        src.addClass('menu_focus');
+  	}
+	
+}
+
+</script>
+
+<div class="menu_newly">
+<div class="leftmenucompany">
+<h2>Company</h2>
+<div id="careers_menu">
+        	<ul>
+            	<li onclick="javascript:$(window).attr('location','/company/aboutus.php');" class="">About Us</li>
+                <li onclick="javascript:$(window).attr('location','/company/contactus.php');" class="">Contact Us</li>
+                <li onclick="javascript:$(window).attr('location','/company/trade.php');" class="">Trade Shows</li>
+                <li onclick="javascript:$(window).attr('location','/company/careers.php');" class="">Careers</li>
+				<li onclick="javascript:$(window).attr('location','/malabs_eblast');" class="">Email Management</li>
+				<li onclick="javascript:$(window).attr('location','/disclaimer');" class="">Disclaimer</li>
+				<li onclick="javascript:$(window).attr('location','/terms-conditions');" class="">Terms and Conditions</li>
+				<li onclick="javascript:$(window).attr('location','/privacy-policy');" class="menu_focus">Privacy Policy</li>
+            </ul>
+        </div>
+    </div>
+
+
+</div>
+	</div>
+
+	<div class="layout_right_context">
+		<div>
+			<div class="context_box">
+				<h2>Privacy Policy</h2>
+				<div class="context_box_context">
+				  <div class="privacy">
+					<p>This Privacy Policy Statement applies to customer/online information provided to Ma Laboratories, Inc. It governs personal information we collect from our customers and online from our website users ("you"), contacts, or our relationship with you. Please refer to Ma Lab's Limited Warranty/RMA Policy for our policy governing your personal information on any product or media returned to our Company under our Limited Warranty/RMA policies.  "Personal information" means information which identifies you, such as your name, telephone number, and e-mail address.</p>
+				
+					<h3>The Personal Information We Collect</h3>
+					<p>In general, we may ask you to provide us with personal information when you </p>
+					<ul>
+						<li>Use our website;</li>
+						<li>Request quotes, services, support, or information;</li>
+						<li>Place orders for products or services;</li>
+						<li>Apply for financing;</li>
+						<li>Participate in surveys or promotional activities; </li>
+						<li>Subscribe to newsletters, promotional e-mails, or other materials;</li>
+						<li>Apply for a job; or </li>
+						<li>Contact us.</li>
+					</ul>
+					<p>Information we may request includes your e-mail address, name, home address, and telephone number. If you make a purchase, we may ask for your credit card number and billing information. We may also ask for other identification including your Social Security number, and other personal data to process your credit or financing request. Job applicants may be requested to provide information such as education, employment experience, financial information, and job interests. We may also collect demographic information, and information about your interests, preferences and favorites. Forms that you may fill in will indicate whether information requested is required or optional.</p>
+					<p>We may collect information about your visits to our websites, including page views, the links and ads you click, search terms you enter, and other actions you take in connection with the Ma Labs website. We may also collect certain information from the browser you use to visit our website, e.g., your IP address, browser type and language, access times, the URL of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.</p>
+					<p>In order to offer you a better user experience, information collected through one source may be combined or supplemented with information from other Ma Labs resources or information other parties.</p>
+					
+					<h3>The Use of Your Personal Information</h3>
+					<p>Ma Labs uses your personal information to: </p>
+					<ul>
+						<li>Carry out your transactions and deliver related services and support;</li>
+						<li>Send data and information to you regarding your transactions and their status (for example, order confirmations), information about products and services available from Ma Labs and its corporate affiliates, promotional offers, and surveys; </li>
+						<li>Customize and improve our products and deliverables (including the content and advertisements on our website), technologies, communications and relationship with you; </li>
+						<li>Enforce conditions of sale, website terms and contracts (if applicable) with you; </li>
+						<li>Prevent fraud and other prohibited or illegal activities; </li>
+						<li>Protect the security or integrity of the website and our business. </li>
+					</ul>
+					<p>Personal information may be stored or processed in the United States or any other country in which Ma Labs or its corporate affiliates, subsidiaries or agents maintain operations, and by using products sold by Ma Labs (including our website), you consent to such storage/transfer of information.</p>
+					
+					<h3>The Disclosure of Your Personal Information</h3>
+					<p>We may share your personal information with corporate affiliates to carry out transactions you request or to make our business more responsive to your needs. We may also disclose your personal information to carry out fraud prevention or other legal action; as required by law or regulation; or if Ma Labs reasonably believes it is necessary to protect Ma Labs, its customers, or the public.</p>
+					<p>In addition, we may share your personal information with business partners that help Ma Labs carry out transactions with you or that help uscustomize and improve our communication or relationship with you.  We will share information only with business partners who share our commitment to protecting your personal information and subject to the same limitations on use and disclosure. Except as described above, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided your express consent.</p>
+					
+					<h3>The Implementation of Your Communication Preferences</h3>
+					<p>You may choose to receive or not receive marketing communications from Ma Labs by indicating your preferences. Opportunities to select your preferences include the following: </p>
+					<ul>
+						<li>The "My Account" login on malabs.com allow you to choose whether you wish to receive marketing communications from malabs.com, and to subscribe or unsubscribe to newsletters about our products and services; and </li>
+						<li>At any point you can also visit our <a href="/blockme" style="color: #004A95;">Block Me Registration Page</a> and request to be removed from our e-mail lists.</li>						
+					</ul>
+					
+					<h3>How We Secure Your Personal Information</h3>
+					<p>Ma Labs is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure, such as encryption, passwords, firewalls, physical security, etc. While we strive to protect your personal information, Ma Labs cannot and does not warrant the privacy of the personal information or private communications you transmit to us.</p>
+					<p>If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. We recommend that you change your password periodically.  If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.</p>
+					
+					<h3>Third-Party Websites and Services</h3>
+					<p>Other websites accessed through our website may collect personal information about you. Their information practices are not covered by this privacy statement. </p>
+					
+					<h3>Material Changes to Our Privacy Policy Statement</h3>
+					<p>We reserve the right to update this Privacy Policy Statement in the event ofmaterial change to our policy, collection or use practices.  </p>
+					
+					<h3>Contact Information</h3>
+					<p>You may contact Ma Labs c/o Ma Laboratories, Inc., Attention: Privacy, 2075 N. Capitol Avenue, San Jose, CA 95132 or use the other contact resources available at malabs.com.</p>
+				  </div>
+				</div>	
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+
+
+	    <div class="foot">
+           <div class="footbrg">
+           <dl>
+	        <dd><a href="/product">Products</a></dd>
+	        <dt><a href="/product/directory.php">View All Products</a></dt>      
+	        <dt><a href="/product?categoryId=200000000000000">Component</a></dt>
+	        <dt><a href="/product?categoryId=500000000000000">PC &amp; Notebook</a></dt>
+	        <dt><a href="/product?categoryId=300000000000000">Electronics</a></dt>
+	        <dt><a href="/configure">Configure</a></dt>	  
+	        <dt><a href="/uploads/catalog.pdf" target="_blank">Catalog</a></dt>
+			<dt><a href="/uploads/linecard.pdf" target="_blank">Line Card</a></dt>
+		  </dl>
+	      
+	      <dl>
+	      	<dd>News &amp; Promotions</dd>
+			<dt><a href="/promotion/allIR">Instant Rebate</a></dt>	
+			<dt><a href="/promotion/allMIR">Mail-In-Rebate</a></dt>
+	        <dt><a href="/promotion/allHighlights">Product Highlights</a></dt>
+			<dt><a href="/promotion/allPartnerPrograms">Partner Programs</a></dt>
+	      </dl>
+	      
+	      <dl>
+	        <dd><a href="/myaccount/profile_management.php">My Account</a></dd>
+	        <dt><a href="/myaccount/profile_management.php">Account Management</a></dt>
+	        <dt><a href="/order/showShoppingCart">Shopping Cart</a></dt>	
+            <dt><a href="/order/showOrderStatus">Order Status</a></dt>    	         
+			<!--<dt><a href="">Terms &amp; Conditions</a></dt>-->
+	      </dl>	
+	      <dl>
+	      	<dd><a href="/partners/manufacturer.php">Partners</a></dd>
+	        <dt><a href="/promotion/allPartnerPrograms">Partner Programs</a></dt>
+			<dt><a href="/uploads/catalog.pdf" target="_blank">Catalog</a></dt>
+			<dt><a href="/uploads/linecard.pdf" target="_blank">Line Card</a></dt>
+	      </dl>	      
+            <dl>
+	        <dd><a href="/services/tech_support.php">Services</a></dd>
+			<dt><a href="/services/rma_request.php">RMA Request</a></dt>
+	        <dt><a href="/services/tech_support.php">Tech Support</a></dt>
+	        <dt><a href="/services/driver_download.php">Driver Download</a></dt>
+	        <!-- comment out warrnty link
+			<dt><a href="">Manufacturer Warranty</a></dt>
+	        -->
+			<!--<dt><a href="">Email Management</a></dt>-->
+	        <dt><a href="/sitemap.php">Site Map</a></dt>
+			<dt><a href="/register/register.php">Register Online Account</a></dt>
+			<dt><a href="/services/faq.php">FAQ</a></dt>
+	      </dl>
+		  <dl class="customer">
+			<dd><a href="/company/aboutus.php">Company</a></dd>
+			<dt><a href="/company/aboutus.php">About Us</a></dt>
+			<dt><a href="/company/contactus.php">Contact Us</a></dt>
+			<dt><a href="/company/trade.php">Trade Shows</a></dt>	        	        
+			<dt><a href="/company/careers.php">Careers</a></dt>	
+			<dt><a href="/uploads/malabs.zip" target="_blank">Logo</a></dt>
+			<dt><a href="/malabs_eblast">Email Management</a></dt>			
+		  </dl>
+	      <div class="c"></div>
+          </div>
+	    </div>
+        
+        <div class="foottext" align="center">Copyright © 2012 Ma Laboratories, Inc. All Rights Reserved. &nbsp;&nbsp;&nbsp;&nbsp;
+		<span><a href="/disclaimer">Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/terms-conditions">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/privacy-policy">Privacy Policy</a></span>
+      </div>
+  </div>
+</div>
+
+</body></html>
