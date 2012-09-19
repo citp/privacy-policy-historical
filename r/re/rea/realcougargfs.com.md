@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the realcougargfs.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233316id_/http%3A//join.realcougargfs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcougargfs.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231113id_/http%3A//join.realcougargfs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Real Cougar Gfs**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
