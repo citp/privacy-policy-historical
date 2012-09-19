@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the flabbi.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329195030id_/http%3A//www.flabbi.com/fullyflashed/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flabbi.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195208id_/http%3A//www.flabbi.com/policy.php) for the most accurate reproduction.*
 
-# Flabbi | Fully Flashed | Home
+# Flabbi
 
 ## Policy last revised on 04/09/2011
 
-flabbi’s privacy policy consists of 5 sections  
+flabbi's privacy policy consists of 5 sections  
     **1\. Identifiable Information**  
     **2\. Security**  
     **3\. Legal action**  
     **4\. Use of cookies**  
     **5\. Links to other websites**  
     **6\. Controlling your personal information**  
-This privacy policy establishes how flabbi Ltd. (“The Company”) uses and protects any information that you confide to The Company when you make use of this website.  
+This privacy policy establishes how flabbi Ltd. ("The Company") uses and protects any information that you confide to The Company when you make use of this website.  
 The Company is committed to ensuring that your privacy is always protected, so rest assured that if we ask you to provide determined data by which you can be identified when using this website, it will only be used in accordance with this privacy statement.  
 The Company may change this policy by updating this page from time to time. We recommend you to check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25/06/2011.
 
@@ -40,7 +40,7 @@ We may disclose information pursuant to subpoenas, court orders, or other reques
 ## 4\. Use of cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it your (our customer’s) needs. We only use this information for the purpose of statistical analysis and after that all filed data is removed from the system.  
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it your (our customer's) needs. We only use this information for the purpose of statistical analysis and after that all filed data is removed from the system.  
 Overall, cookies help us provide you with a better running website, by enabling us to monitor which pages you find useful and which you do not. A cookie doesn’t give us access to your computer or any information about you in any way other than the data you decide to share with us.  
 You can choose to accept or decline these cookies. Most web browsers automatically accept them, but you can often modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
@@ -55,5 +55,4 @@ You may choose to restrict the collection or use of your personal information in
 •If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@flabbi.com.  
 We will not under any circumstances sell or distribute your personal information to third parties unless we have your previous permission or are required by law to do so. We may use that information to send you promotional information about third parties which we think you may find interesting, but only if you tell us that you agree for this to happen.  
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to support@flabbi.com  
-If you believe that any information we are holding on you is incorrect or incomplete, please write to us as soon as possible, at the above address. We will promptly review and correct any information found to be incorrect.  
-
+If you believe that any information we are holding on you is incorrect or incomplete, please write to us as soon as possible, at the above address. We will promptly review and correct any information found to be incorrect.
