@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skycrickethighlights.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630211029id_/http%3A//skycrickethighlights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skycrickethighlights.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190507id_/http%3A//skycrickethighlights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
