@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesmartclick.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032434id_/http%3A//www.onesmartclick.com/aboutus/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesmartclick.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195641id_/http%3A//www.onesmartclick.com/aboutus/privacy-policy-statement.html) for the most accurate reproduction.*
 
 # OneSmartClick.Com Privacy Policy Statement
 
