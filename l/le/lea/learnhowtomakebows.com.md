@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnhowtomakebows.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504034256id_/http%3A//www.learnhowtomakebows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnhowtomakebows.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919220013id_/http%3A//www.learnhowtomakebows.com/privacy.html) for the most accurate reproduction.*
 
 # Learn How to Make Hair Bows | Free Instructions to Make a Hair Bow
 
