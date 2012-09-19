@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mankind.co.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508063526id_/http%3A//www.mankind.co.uk/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mankind.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919221821id_/http%3A//www.mankind.co.uk/privacy-policy.info) for the most accurate reproduction.*
 
 # Privacy Policy | Mankind.co.uk
 
