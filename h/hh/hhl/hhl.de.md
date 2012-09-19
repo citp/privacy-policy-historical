@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032407id_/http%3A//www.hhl.de/service/dummy-fuer-imprint-privacy-infopaket/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190604id_/http%3A//www.hhl.de/service/dummy-fuer-imprint-privacy-infopaket/privacy) for the most accurate reproduction.*
 
 # Privacy | HHL
 
