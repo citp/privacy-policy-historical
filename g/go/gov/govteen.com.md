@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204836id_/http%3A//forums.govteen.com/content.php%3Fr%3D18-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920010210id_/http%3A//forums.govteen.com/content.php%3Fr%3D18-Privacy-Policy) for the most accurate reproduction.*
 
 # GovTeen Forums - Privacy Policy
 
 | 
+
+*Ads disappear after 25 posts!* 
 
   * **GovTeen is committed to safeguarding your privacy online.** Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time, so please check back periodically. If you have any comments or questions about any of the below, please contact a member of the GovTeen staff. **Our promise to you...  
 **
@@ -100,78 +102,70 @@
 
   * ###  Recent Threads
 
-[ ](http://forums.govteen.com/members/hustle/)
+[ ](http://forums.govteen.com/members/chyeckmayrk/)
 
-####  [Lecturer](http://forums.govteen.com/battle-govteen/354787-lecturer.html)
+####  [Question about sermons.](http://forums.govteen.com/religious-discussion/360442-question-about-sermons.html)
 
-Thread Starter: [Hustle](http://forums.govteen.com/members/hustle/)
+Thread Starter: [ChyeckMayrk](http://forums.govteen.com/members/chyeckmayrk/)
 
-Lecturers send the best emails sometimes. I received this today! 
+Okay, I'm an atheist, but whenever I've been to church the sermons always have a title like 'Jesus Saves' or 'Living Right' and simple things like that.
 
-Last Post By: [Hustle](http://forums.govteen.com/members/hustle/) Today, 04:38 PM [](http://forums.govteen.com/battle-govteen/354787-lecturer.html#post6207636)
+Last Post By: [ChyeckMayrk](http://forums.govteen.com/members/chyeckmayrk/) Today, 09:00 PM [](http://forums.govteen.com/religious-discussion/360442-question-about-sermons.html#post6306022)
 
-[ ](http://forums.govteen.com/members/james09/)
+[ ](http://forums.govteen.com/members/redundancy/)
 
-####  [Spit as lube](http://forums.govteen.com/boys-puberty/354786-spit-lube.html)
+####  [Finally Done!](http://forums.govteen.com/countdown-forum/360441-finally-done.html)
 
-Thread Starter: [James09](http://forums.govteen.com/members/james09/)
+Thread Starter: [Redundancy](http://forums.govteen.com/members/redundancy/)
 
-Am i only the one that uses my own saliva as lube? I really wonder what others think. Is it unhygenic or just gross? I clean myself after jerking off
+Sorry for the bragging post, but I think this deserves a bit of gloating. As of today, I have completed my first book, at a lengthy 138,286 words, after
 
-Last Post By: [AB42](http://forums.govteen.com/members/ab42/) Today, 04:37 PM [](http://forums.govteen.com/boys-puberty/354786-spit-lube.html#post6207635)
+Last Post By: [Redundancy](http://forums.govteen.com/members/redundancy/) Today, 08:58 PM [](http://forums.govteen.com/countdown-forum/360441-finally-done.html#post6306021)
 
-[ ](http://forums.govteen.com/members/lexi/)
+[ ](http://forums.govteen.com/members/jpharb/)
 
-####  [Calming down](http://forums.govteen.com/countdown-forum/354785-calming-down.html)
+####  [Two Enormous Leaks](http://forums.govteen.com/auto-forum/360440-two-enormous-leaks.html)
 
-Thread Starter: [LEXI](http://forums.govteen.com/members/lexi/)
+Thread Starter: [jpharb](http://forums.govteen.com/members/jpharb/)
 
-What are yalls favorite ways to calm your self down??(: mines smoking
+Let me first off say that I am not talking about my car suffering a catastrophic failure. Today a picture of a new F-type was "leaked". Jaguar
 
-Last Post By: [EspUmbreon](http://forums.govteen.com/members/espumbreon/) Today, 04:15 PM [](http://forums.govteen.com/countdown-forum/354785-calming-down.html#post6207615)
+Last Post By: [jpharb](http://forums.govteen.com/members/jpharb/) Today, 08:46 PM [](http://forums.govteen.com/auto-forum/360440-two-enormous-leaks.html#post6306013)
 
-[ ](http://forums.govteen.com/members/mattyyy/)
+[ ](http://forums.govteen.com/members/damuffin/)
 
-####  [Help!](http://forums.govteen.com/teen-2-teen-advice/354784-help.html)
+####  [Hard Decision](http://forums.govteen.com/teen-2-teen-advice/360439-hard-decision.html)
 
-Thread Starter: [Mattyyy](http://forums.govteen.com/members/mattyyy/)
+Thread Starter: [Damuffin](http://forums.govteen.com/members/damuffin/)
 
-Hey im new here(: well anyways i am kinda involved with a girl who is 13, i am 16. I havent seen her for so long! When ever i ask her to do sumthing
+Ok so i don't know what to do my step dad got offered a job in Texas and a free house that is really big like a mick mansion. So today my mom said it
 
-Last Post By: [Multi5Dog](http://forums.govteen.com/members/multi5dog/) Today, 04:34 PM [](http://forums.govteen.com/teen-2-teen-advice/354784-help.html#post6207633)
+Last Post By: [Damuffin](http://forums.govteen.com/members/damuffin/) Today, 06:57 PM [](http://forums.govteen.com/teen-2-teen-advice/360439-hard-decision.html#post6305968)
 
-[ ](http://forums.govteen.com/members/aniak22/)
+[ ](http://forums.govteen.com/members/florences/)
 
-####  [Lump on balls](http://forums.govteen.com/boys-puberty/354783-lump-balls.html)
+[ ](http://forums.govteen.com/members/renegade16/)
 
-Thread Starter: [Aniak22](http://forums.govteen.com/members/aniak22/)
+####  [GIRLS ONLY!](http://forums.govteen.com/general-curiousity/360437-girls-only.html)
 
-Im 15 and have a lump on my left testical. It's quite soft but is large and almost protrudes out like a bubble. It doesn't really hurt and I asked my
+Thread Starter: [Renegade16](http://forums.govteen.com/members/renegade16/)
 
-Last Post By: [SillyBoxerzBoy](http://forums.govteen.com/members/sillyboxerzboy/) Today, 03:38 PM [](http://forums.govteen.com/boys-puberty/354783-lump-balls.html#post6207574)
+So my friend and I were talking and we started kinda talking dirty and I asked if her vagina gets wet a lot. She said it happens a lot a week before her
 
-[ ](http://forums.govteen.com/members/lexi/)
-
-####  [I need ideas(:](http://forums.govteen.com/countdown-forum/354781-i-need-ideas.html)
-
-Thread Starter: [LEXI](http://forums.govteen.com/members/lexi/)
-
-hey guys can some of yall give me some ideas on what to blog about. like what do yall wanna hear? what do yall wanna know? do yall need any advice if
-
-Last Post By: [LEXI](http://forums.govteen.com/members/lexi/) Today, 02:48 PM [](http://forums.govteen.com/countdown-forum/354781-i-need-ideas.html#post6207549)
+Last Post By: [Renegade16](http://forums.govteen.com/members/renegade16/) Today, 05:58 PM [](http://forums.govteen.com/general-curiousity/360437-girls-only.html#post6305944)
 
 
 
 
-All times are GMT -4. The time now is 04:48 PM.
+*Ads disappear after 25 posts!* 
+
+All times are GMT -4. The time now is 09:02 PM.
 
 | 
 
-Powered by [vBulletin®](https://www.vbulletin.com/) Version 4.1.12   
+Powered by [vBulletin®](https://www.vbulletin.com/)   
 Copyright © 2012 vBulletin Solutions, Inc. All rights reserved.   
-Search Engine Friendly URLs by [vBSEO](http://www.crawlability.com/vbseo/) 3.6.0
-
-Advanced Application Forms 1.1.8 © 2011 by [Snog](http://www.snogssite.com/)
+Search Engine Friendly URLs by [vBSEO](http://www.crawlability.com/vbseo/)
 
 Copyright ©1998-2012 GovTeen Forums / The GovTeen Network 
 
