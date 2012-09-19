@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the automotto.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301072156id_/http%3A//www.automotto.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotto.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015010id_/http%3A//www.automotto.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Automotto : Automotto - Daily updates on autos, cars, bikes, motorcycles, trucks and vehicles
-
-Instamedia - Privacy Policy 
+# Automotto - Privacy Policy
 
 Instamedia, Inc. ("Instamedia," "we," "us") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our website located at www.Instamedia.com (the "Site"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").
 
@@ -110,4 +108,4 @@ We reserve the right to transfer any and all PII that we collect from users of t
 
 h. Contacting Us.
 
-If you have any questions regarding this Policy, please contact us either by e-mail at contact[at]Instamedia.com, or by regular mail at Citizen Media Pvt. Ltd, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
+If you have any questions regarding this Policy, please contact us either by e-mail at contact[at]Instamedia.com, or by regular mail at Citizen Media Limited, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
