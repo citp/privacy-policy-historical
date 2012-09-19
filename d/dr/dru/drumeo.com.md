@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505025821id_/http%3A//www.drumeo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205932id_/http%3A//drumeo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Drumeo - Privacy Policy
 
