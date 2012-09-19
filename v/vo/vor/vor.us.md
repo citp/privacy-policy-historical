@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vor.us privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515021024id_/http%3A//fla.vor.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vor.us privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185948id_/http%3A//fla.vor.us/privacy) for the most accurate reproduction.*
 
 # Fla.vor.us Privacy Tickets - Fla.vor.us
 
@@ -131,7 +131,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 Flavorus is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.   
 
 
-If you have questions or concerns regarding this statement, you should first contact [help@flavorus.com](https://web.archive.org/web/20120515021024id_/http%3A//fla.vor.us/mailto;help@flavorus.com) or by sending a message to the Customer Service profile. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at:
+If you have questions or concerns regarding this statement, you should first contact [help@flavorus.com](https://web.archive.org/web/20120919185948id_/http%3A//fla.vor.us/mailto;help@flavorus.com) or by sending a message to the Customer Service profile. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at:
 
 <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
