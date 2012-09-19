@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stronglifts.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309022904id_/http%3A//stronglifts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stronglifts.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919232234id_/http%3A//stronglifts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StrongLifts.com
 
