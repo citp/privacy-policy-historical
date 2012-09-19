@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605023512id_/http%3A//www.opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012313id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Delivery Policy
 
-Last updated 26th April 2012
+Last updated 29th August 2012
 
 Copyright © 2005 - 2012. Software Add-ons Limited - The Home of OpenCRM, The Sanctuary, Aislabeck Plantation, Richmond , North Yorkshire , DL10 4SG. All rights reserved.
 
@@ -10,7 +10,7 @@ We at OpenCRM and Software Add-ons Limited ("Software Add-ons") are constantly s
 
 When you visit our Web sites, you may be providing us with information about your visit in two ways:
 
-* Statistics collected as you browse.  
+* Statistics collected as you browse ([Cookies](http://www.opencrm.co.uk/privacy-policy.html#Cookies)).  
 * Organisational and personal information you knowingly give us.
 
 Because we respect your right to privacy, we want you to be aware of how we handle this information.
@@ -76,11 +76,19 @@ We do not store your credit card details with any OpenCRM or Software Add-ons sy
 
 ### Cookies
 
-A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID. We use cookies to deliver Web content specific to your interests and to control access to our premium content. A cookie cannot be used to access or otherwise compromise the data on your hard drive. You can choose to change your browser settings to disable cookies if you do not want us to establish and maintain a unique User ID. Please be aware that cookies may be required to complete certain functions on our Web site.
+How we use Cookies;
 
-Sharing of the Information this Site Gathers/Tracks
+  * We use Cookies to help improve your experience whilst you are visiting our site.
+  * We use Cookies to help understand anonymous usage of our site.
+  * When you are referred to our site from a partner we track sales so we can compensate partners accordingly.
+  * We hold information once you have logged into our website that helps identify your unique ID and helps us deliver content specific to you.  
 
-The information you submit may be shared with third parties if it is necessary to complete your request, provide you with access to downloadable software, or as required by law.
+
+
+
+### Sharing of the Information this Site Gathers/Tracks
+
+The information you submit is only shared with third parties if it is necessary to complete your request, provide you with access to downloadable software, or as required by law.
 
 ### Information Security
 
@@ -92,7 +100,7 @@ Our Web site contains links to other Web sites. Please be aware that our privacy
 
 ### Opt-out Policy
 
-Parts of our Web site provides users with the opportunity to customise their communication preferences and opt-out of one or more types of electronic communications from us and our partners. Additionally, users can unsubscribe via the footer provided in individual electronic communications. Users who do not wish to receive future communications can also please contact us direct.
+Parts of our Web site provide users with the opportunity to customise their communication preferences and opt-out of one or more types of electronic communications from us and our partners. Additionally, users can unsubscribe via the footer provided in individual electronic communications. Users who do not wish to receive future communications can also please contact us direct.
 
 ### Correcting/Update Policy
 
