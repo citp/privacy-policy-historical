@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the knoji.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504040547id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoji.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920010048id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy — Knoji
+
+Find coupons, reviews & forums for thousands of companies
+
+SEARCH
 
 At Knoji we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Knoji Inc. or its subsidiaries or affiliated companies (collectively, Knoji’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
@@ -127,11 +131,11 @@ We've sent an email to your registration email address. You'll need to click the
 
 Didn't get the email? First, try checking your spam inbox. If you can't find it, click here and we'll [resend your confirmation link.](http://knoji.com/confirm-email-resend.php)
 
-Thanks for registering!
+Please confirm your email address
 
 x
 
-**We've sent a confirmation link** to your email address. **Go to your email** and click the link to confirm. Your postings on Knoji will be **hidden from public view** until you do so. 
+**We've sent a confirmation link** to your email address. Please **check your email** and click the link to confirm to your account. 
 
 Didn't get the email? First, try checking your spam inbox. If you can't find it, click here and we'll [resend your confirmation link.](http://knoji.com/confirm-email-resend.php)
 
@@ -240,3 +244,13 @@ Must earn +50,000 votes
 +5,000 article recommendations AND +25,000 answer votes
 
 Increased earnings rate. Greater number of votes.
+
+What's a working, unique coupon?
+
+x
+
+To qualify as a working coupon, the link or code must provide a discount above and beyond what's freely available by default on the vendor's site. 
+
+To check this, first click the link and check that the coupon can be applied and does provide the discount described. Then, in a different browser, open the vendor's site (without using the Knoji link) and check whether that same discount is available to any user by default. If it's not, and the coupon works, then you've found a qualified coupon and can verify it and get your earnings. If not, you can verify that it does not work (explain why this is) and you'll earn a smaller credit. 
+
+**Don't waste your time verifying invalid coupons!** Before you receive payment, all your verifications will be reviewed, and if they are invalid, **you earnings will be deleted**. Verify only valid coupons in order to receive payment for this project. 
