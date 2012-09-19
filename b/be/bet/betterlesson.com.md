@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterlesson.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510142316id_/http%3A//betterlesson.com/public/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterlesson.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919191307id_/http%3A//betterlesson.com/public/privacy_policy) for the most accurate reproduction.*
 
 # BetterLesson Privacy Policy
 
@@ -76,7 +76,7 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 BetterLesson uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information.  We cannot, however, ensure or warrant the security of any information you transmit to BetterLesson, and you do so at your own risk.  Once we receive your transmission of information, BetterLesson makes commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
 
-If BetterLesson learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. BetterLesson may post a notice on the BetterLesson Platform if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach you should notify us at [privacy@BetterLesson.com](mailto:privacy@betterlesson.com?subject=Privacy). 
+If BetterLesson learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. BetterLesson may post a notice on the BetterLesson Platform if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach you should notify us at [privacy@BetterLesson.](mailto:privacy@betterlesson.%3C?php%20echo%20TOP_LEVEL_DOMAIN%20?%3E?subject=Privacy). 
 
 **6.      _Our Commitment to Children's Privacy:_ **
 
@@ -84,7 +84,7 @@ If you are under 13 years of age, then please do not use or access THE BETTERLES
 
 Protecting the privacy of young children is especially important.  For that reason, BetterLesson does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age.  If BetterLesson learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the BetterLesson Platform, then BetterLesson will take the appropriate steps to delete this information. 
 
-If you are the parent or legal guardian of a child under 13 who has become BetterLesson Platform member, then please contact BetterLesson at [privacy@BetterLesson.com](mailto:privacy@betterlesson.com?subject=Privacy) to have that child's account terminated and information deleted. 
+If you are the parent or legal guardian of a child under 13 who has become BetterLesson Platform member, then please contact BetterLesson at [privacy@BetterLesson.](mailto:privacy@betterlesson.%3C?php%20echo%20TOP_LEVEL_DOMAIN%20?%3E?subject=Privacy) to have that child's account terminated and information deleted. 
 
 The following are some resources that may help parents and legal guardians in monitoring and limiting your childrens' access to certain types of material on the Internet.  While BetterLesson does not endorse these products, we provide information about them as a public service to our community. 
 
@@ -119,4 +119,4 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 **10.   _BetterLesson Contact Information:_**
 
-Please contact BetterLesson with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: BetterLesson.com, 58 Elmwood St. Somerville, MA 02144, or by email:org.  We will respond to your inquiry within 30 days of its receipt. 
+Please contact BetterLesson with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: BetterLesson., 58 Elmwood St. Somerville, MA 02144, or by email:org.  We will respond to your inquiry within 30 days of its receipt. 
