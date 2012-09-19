@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itswritenow.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616083635id_/http%3A//www.itswritenow.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itswritenow.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005257id_/http%3A//www.itswritenow.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | It's Write Now!
 
@@ -27,5 +27,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-No related posts.
