@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamatemodels.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522012008id_/http%3A//streamatemodels.com/docs.php%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamatemodels.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919183734id_/http%3A//streamatemodels.com/docs.php%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Streamate Limited
 
