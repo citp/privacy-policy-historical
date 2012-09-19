@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulicity.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609013556id_/http%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulicity.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919211613id_/http%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Schedulicity - Online Scheduling
 
@@ -32,7 +32,7 @@ We will not use your email address or other personally identifiable information 
 
 Subscribe/Unsubscribe
 
-To unsubscribe from a service provider’s mailing list, use the Unsubscribe link that is available in each e-mail you receive from them. This does not suppress emails sent directly from service providers using services other than Schedulicity’s. Unsubscribing only suppresses emails sent on the initiative of service providers using Schedulicity’s services with whom you have an existing business relationship. Note that even after you unsubscribe, you will continue to receive transactional email messages regarding the status of reservations you schedule.
+To unsubscribe from a service provider’s mailing list, use the Unsubscribe link that is available in each email you receive from them. This does not suppress emails sent directly from service providers using services other than Schedulicity’s. Unsubscribing only suppresses emails sent on the initiative of service providers using Schedulicity’s services with whom you have an existing business relationship. Note that even after you unsubscribe, you will continue to receive transactional email messages regarding the status of reservations you schedule.
 
 Cookies
 
