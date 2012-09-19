@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seancody.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007211805id_/http%3A//seancody.com/page.php%3Fframe%3Dprivacy%26wrq3ev1%3Dkss467t6tccbe841bb4aru7ic1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seancody.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181939id_/http%3A//www.seancody.com/page.php%3Fframe%3Dprivacy) for the most accurate reproduction.*
 
 # Sean Cody
 
