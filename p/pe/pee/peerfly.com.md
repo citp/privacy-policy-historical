@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214138id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919075025id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
 
-# PeerFly :: We Have an Offer for That
+# PeerFly - Privacy Policy
 
-Your Privacy
+## PeerFly's Privacy Policy
 
 PeerFly.com (the "Website") is an Internet property of PeerFly, Inc. ("us" or "we"). We provide this privacy policy ("Privacy Policy") so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at [PeerFly.com](http://peerfly.com/). If you have any questions about this Privacy Policy, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
 
@@ -49,5 +49,5 @@ If you'd like us to delete any PII that you have provided to us on our Website, 
 If you have any questions about this Privacy Policy or the practices of PeerFly, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com), or via postal mail at:
 
 PeerFly, Inc.  
-15202 NW 147th Drive, Suite 600  
+14690 NW 151st Blvd, Suite 10  
 Alachua, Florida 32615 
