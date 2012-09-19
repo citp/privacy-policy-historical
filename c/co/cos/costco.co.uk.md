@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621073223id_/http%3A//www.costco.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920004101id_/http%3A//www.costco.co.uk/privacy) for the most accurate reproduction.*
 
 # Costco UK - Join the Millions who are already saving!
 
@@ -91,7 +91,7 @@ The above paragraph is an excerpt from [www.allaboutcookies.org/cookies/](http:/
 
   * Costco.co.uk uses Cookies to keep track of your progress when applying for membership online, if you do not accept Cookies you will be unable to use the site for Membership application(s).
 
-  * The Google Maps service used for the [warehouse locator](https://web.archive.org/web/20120621073223id_/http%3A//locations/) also requires the use of cookies to function. For further information about Googles privacy policy please refer to <http://www.google.com/intl/en/policies/privacy/>
+  * The Google Maps service used for the [warehouse locator](https://web.archive.org/web/20120920004101id_/http://costco.co.uk/locations/) also requires the use of cookies to function. For further information about Googles privacy policy please refer to <http://www.google.com/intl/en/policies/privacy/>
 
   * Personal information is not stored in the Cookies, and all cookies are deleted when the browser is closed. 
 
