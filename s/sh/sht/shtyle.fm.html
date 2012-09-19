@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shtyle.fm privacy policy that was archived on 2012-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605045924id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shtyle.fm privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919193034id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><style type="text/css">
     strong {
@@ -23,9 +23,10 @@
 
 
 
+    
 	<title>Shtyle.fm : Privacy Policy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/fundoo-light.css?114">
+    <link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/fundoo-light.css?120">
 	
 	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/jqModal.css?5">
 	
@@ -34,7 +35,7 @@
 
 	
 
-    <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/c573b6ad9f4f921e5b68bd5fd5bbbd2fac3492c1.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" language="JavaScript">
+    <script type="text/javascript" language="JavaScript">
         var res = {
             "msg" : {
                 "unblock": "Do you want to unblock this person?",
@@ -78,7 +79,11 @@
 "chat": "wishes to chat.",
 "mails": "New Mail",
 "friendrequests": "friend request(s)",
-"remove": "Remove"
+"remove": "Remove",
+"saved": "Saved!",
+"prev": "Previous",
+"next": "Next",
+"close": "Close"
 
             },
             "img" : {
@@ -97,7 +102,7 @@
     </script>
 
 	<script type="text/javascript" language="JavaScript" src="/js/jquery.js?63"></script>
-	<script type="text/javascript" language="JavaScript" src="/js/shtyle.js?94"></script>
+	<script type="text/javascript" language="JavaScript" src="/js/shtyle.js?95"></script>
 	<script type="text/javascript" language="JavaScript" src="/js/swfupload.js?60"></script>
 
 	
@@ -112,6 +117,7 @@
 	
 	<meta http-equiv="imagetoolbar" content="false">
 	<meta name="MSSmartTagsPreventParsing" content="true">
+    
 </head>
 
 <body>
@@ -128,106 +134,28 @@ admeld_placement   = 'shtyle_atf';
 
 
 
-<div id="notif-root-div" style="left: auto;border: 1px solid #000;border-bottom: none;bottom: 0;height: 50px;position: fixed;right: 0;z-index: 30000;width:250px;background-color:#000;">
-	<a id="notif-root" href="javascript:void( 0 )" style="background-color: #E8E8E8;color: #000000;display: block;height: 50px;line-height: 22px;text-align: center;text-decoration: none;width: 250px;">
-		<span id="goldCoins"><span class="val">0</span><img src="/images/gold_coin-20px.png" style="vertical-align:middle;" alt="Gold Coins" title="Gold Coins"></span> | <span id="pisos"><span class="val">0</span><img src="/images/silver_coin-20px.png" style="vertical-align:middle;" alt="Piso" title="Piso"></span>
-		<br>
-		<div id="friendlinessLevel" style="float:left;width:30px;height:20px;text-align:center;font-weight:bold;background:transparent url('/images/heart.png') center center no-repeat;font-size:14px;"></div><div id="friendlinessBar" style="float:left;width:210px;"></div>
-	</a>
-	<div id="notif" style="background-color: #E8E8E8;border: 1px solid #666666;bottom: 51px;display: none;left: -1px;padding: 5px 5px 1px 5px;position: absolute;width: 240px;">
-		<div id="chats"></div>
-        <div id="messaging" style="display:none;"><div id="messaging-content"></div></div>
-	</div>
-</div>
 
 
 <div id="header" class="adorn">
-	<div id="logo">
-		<a href="/index.do" title="Home">&nbsp;</a>
-	</div>
-	<div id="headermiddle">
-        <a class="hbutton" href="/browse.do">Online People</a>
-        <a class="hbutton" href="/shop.do">Shtyle Shop</a>
-        <div id="srch">
-        <form action="/browse.do" method="get" id="search_box">
-            <input type="text" id="q" name="q" title="Search for interests, locations, names etc.">
-            <input type="image" src="/images/btn_search_box.gif" id="go" alt="Search" title="Search">
-            <input type="hidden" name="upd" value="1" style="width:0">
-        </form>
+	<div id="links">
+        <div id="logo">
+            <a href="/index.do" title="Home">&nbsp;</a>
         </div>
-	</div>
-    <div id="headerright">
-	&nbsp;<a href="/register.do" id="Nav8">Register</a>&nbsp;
-		<a href="/index.do" id="Nav9">Login</a>
-	
-    </div>
-	<div class="cleft" id="links">
-		<ul class="sf-js-enabled sf-shadow">
-			<li title="Home" class="first" style="width:50px;position:relative;">
-				<a href="/home.do" style="width:50px;" id="newUpdates"><span></span><img src="/icons/house.png" class="faded"></a>
-			</li>
-            <li title="Mail" style="width:50px;position:relative;">
-				<a href="/mailInbox.do" style="width:50px;" id="unreadMails"><span></span><img src="/icons/email.png" class="faded"></a>
-			</li>
-            <li title="Comments" style="width:50px;position:relative;">
-				<a href="/pCommentsList.do" style="width:50px;" id="newComments"><span></span><img src="/icons/comment.png" class="faded"></a>
-			</li>
-            <li title="Friend Requests" style="width:50px;position:relative;">
-				<a href="/friendRequests.do" style="width:50px;" id="friendRequests"><span></span><img src="/icons/user.png" class="faded"></a>
-			</li>
-            <li title="Gifts" style="width:50px;position:relative;">
-				<a href="/mygifts.do" style="width:50px;" id="newGifts"><span></span><img src="/icons/gift.png" class="faded"></a>
-			</li>
-            <li title="Notifications" style="width:50px;position:relative;">
-                <a href="/notices.do" style="width:50px;" id="newNotices"><span></span><img src="/icons/newspaper.png" class="faded"></a>
+		<ul>
+        
+            <li style="width:150px;position:relative;float:right">
+            <a href="/register.do">Register</a>
             </li>
-			<li class="expand" style="width:110px;">
-				<a href="/profile.do" style="width:110px;" id=""><span></span>Profile</a>
-				
+            <li style="width:100px;position:relative;float:right;">
+            <a href="/login.do">Login</a>
             </li>
-			<li class="expand" style="width:106px;">
-				<a href="/friends.do" style="width:106px;">Friends</a>
-				
-            </li>
-            <li style="padding-right:4px;">
-                <a style="display:inline;" href="/buycredits.do">Buy Gold Coins</a>
-                /
-                <a style="display:inline;border-left:none;padding-left:0;" href="/gcearn.do">Earn</a>
-            </li>
-            
-			<li class="new expand" style="width:78px;">
-				<a href="http://games.shtyle.fm" style="width:78px;">Games</a>
-				<ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
-					<li><a href="/games.do?&amp;s=ft">All</a></li>
-					<li><a href="http://puzzle-games.shtyle.fm">Puzzles</a></li>
-					<li><a href="http://action-games.shtyle.fm">Action</a></li>
-					<li><a href="http://shooting-games.shtyle.fm">Shooting</a></li>
-					<li><a href="http://driving-games.shtyle.fm">Driving</a></li>
-					<li><a href="http://sports-games.shtyle.fm">Sports</a></li>
-					<li><a href="http://casino-games.shtyle.fm">Casino</a></li>
-					<li><a href="http://board-games.shtyle.fm">Board Games</a></li>
-					<li><a href="http://adventure-games.shtyle.fm">Adventure</a></li>
-					<li><a href="http://fighting-games.shtyle.fm">Fighting</a></li>
-					<li><a href="http://customize-games.shtyle.fm">Customize</a></li>
-					<li><a href="http://other-games.shtyle.fm">Other</a></li>
-				</ul>
-			</li>
-			<li class="expand last" style="width:120px;">
-				<a href="javascript:;" style="width:120px;">More Fun</a>
-				<ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
-					<li><a href="http://polls.shtyle.fm">Polls</a></li>
-					<li><a href="http://quizzes.shtyle.fm">Quizzes</a></li>
-					<li><a href="http://songs.shtyle.fm">Songs</a></li>
-					<li><a href="http://writings.shtyle.fm">Jokes</a></li>
-					<li><a href="http://communities.shtyle.fm">Communities</a></li>
-				</ul>
-			</li>
+        
+        
 		</ul>
 	</div>
 </div>
 
 <div id="body">
-
 
 
 
@@ -291,282 +219,4 @@ admeld_placement   = 'shtyle_atf';
     Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
     <br><br><br><br>
 
-    <strong>Do we use cookies?</strong>
-    <br><br>
-    Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-    <br><br>
-    We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-    We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-    <br><br>
-
-    <strong>Do we disclose any information to outside parties?</strong>
-    <br><br>
-    We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
-    This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
-    We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
-    However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-    <br><br>
-
-    <strong>Third party links</strong>
-    <br><br>
-    Occasionally, at our discretion, we may include or offer third party products or services on our website.
-    These third party sites have separate and independent privacy policies.
-    We therefore have no responsibility or liability for the content and activities of these linked sites.
-    Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-    <br><br>
-
-    <strong>California Online Privacy Protection Act Compliance</strong>
-    <br><br>
-    Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act.
-    We therefore will not distribute your personal information to outside parties without your consent.
-    <br><br>
-    As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their profile and going to the 'Edit Profile' page.
-    <br><br>
-
-    <strong>Childrens Online Privacy Protection Act Compliance</strong>
-    <br><br>
-    We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age.
-    Our website, products and services are all directed to people who are at least 13 years old or older.
-    <br><br>
-
-    <strong>Online Privacy Policy Only</strong>
-    <br><br>
-    This online privacy policy applies only to information collected through our website and not to information collected offline.
-    <br><br>
-
-    <strong>Terms and Conditions</strong>
-    <br><br>
-    Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.shtyle.fm/Terms.jsp">http://www.shtyle.fm/Terms.jsp</a>
-    <br><br>
-
-    <strong>Your Consent</strong>
-    <br><br>
-    By using our site, you consent to our <a href="http://www.shtyle.fm/">web site privacy policy</a>.
-    <br><br>
-
-    <strong>Changes to our Privacy Policy</strong>
-    <br><br>
-    If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
-    <br><br>
-    This policy was last modified on June 19 2009
-    <br><br>
-
-    <strong>Contacting Us</strong>
-    <br><br>
-    If there are any questions regarding this privacy policy you may contact us using the email address below.
-    <br><br>
-    support@shtyle.fm
-    <br>
-
-<div class="clear">&nbsp;</div>
-<div class="fs1px lh1px clear">&nbsp;</div>
-</div>
-
-
-
-
-
-
-
-
-
-<div class="fs1px lh1px clear">&nbsp;</div>
-<div id="hidden"></div>
-<div id="floater"></div>
-<div id="qdel"></div>
-
-<!-- Input -->
-<div class="jqmLogin jqmID1" id="jqmInput">
-
-	<div class="jqmLoginWindow">
-		<div class="jqmLoginTitle clearfix">
-			<h1>Please enter...</h1><a href="javascript:;" class="jqmClose"><em>Close</em></a>
-		</div>
-
-		<div class="jqmLoginContent">
-			<p class="jqmInfoMsg"></p>
-		</div>
-	</div>
-
-</div>
-
-
-<!-- Alert Dialog -->
-<div class="jqmAlert" id="alert">
-
-	<div class="jqmAlertWindow">
-		<div class="jqmAlertTitle clearfix">
-			<h1></h1><a href="javascript:;" class="jqmClose"><em>Close</em></a>
-		</div>
-
-		<div class="jqmAlertContent" style="background-color:#E4D4A4;color:#000;"></div>
-	</div>
-
-</div>
-
-<div class="jqmConfirm jqmID2" id="languageConfirm">
-	<div class="jqmConfirmWindow">
-		<div class="jqmConfirmTitle clearfix">
-			<h1>English</h1><a href="javascript:;" class="jqmClose"><em></em></a>
-		</div>
-		<div class="jqmConfirmContent" style="background-color:#E4D4A4;">
-			<ul id="locales">
-				<li><a href="/locale.do?lang=de">Deutsch</a></li>
-				<li><a href="/locale.do?lang=en">English</a></li>
-				<li><a href="/locale.do?lang=es">Español</a></li>
-				<li><a href="/locale.do?lang=fr">Français</a></li>
-				<li><a href="/locale.do?lang=it">Italiano</a></li>
-				<li><a href="/locale.do?lang=pl">Polski</a></li>
-				<li><a href="/locale.do?lang=pt">Português</a></li>
-				<li><a href="/locale.do?lang=ru">Русский</a></li>
-				<li><a href="/locale.do?lang=vi">Tiếng Việt</a></li>
-				<li><a href="/locale.do?lang=tr">Türkçe</a></li>
-				<li><a href="/locale.do?lang=ja">日本語</a></li>
-				<li><a href="/locale.do?lang=zh">中文</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
-<div class="jqmConfirm jqmID3" id="prettyModal">
-	<div class="jqmConfirmWindow">
-		<div class="jqmConfirmTitle clearfix">
-			<h1>Congratulations!</h1><a href="javascript:;" class="jqmClose"><em></em></a>
-		</div>
-		<div id="prettyModalContent" class="jqmConfirmContent" style="background-color:#E4D4A4;height:250px;">
-
-		</div>
-		<div style="text-align:center;">
-			<a href="#" style="color:#fff;font-size:18px;text-weight:bold;" onclick="$('#prettyModal').jqmHide();return false;">Close</a>
-		</div>
-	</div>
-</div>
-<div id="debug" style="font-family:monospace;">
-
-	
-
-</div>
-<div id="footer">
-	<a style="font-size:larger;font-weight:bold;" href="javascript:;" onclick="$('#languageConfirm').jqmShow();return false;">English</a> | <a href="/About.jsp">About</a> | <a href="/Help.jsp">Help</a> | <a href="/Privacy.jsp">Privacy Policy</a> | <a href="/dfaq.do">Pixel Artists</a> | <a href="/Terms.jsp">Terms and Conditions</a> | <a href="/translate.do">Translate</a>
-<iframe style="margin-top:10px" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="728" height="90" src="/adserve.do?f=1"></iframe>
-</div>
-</div>
-
-<div id="modals">
-	<div id="rewardsModal" style="width:330px;height:320px;-moz-border-radius:15px;-webkit-border-radius:15px;border:2px solid #000;background-color:#fff;padding-top:10px;">
-		<div id="rewardsClose" style="text-align:right;height:30px;"><a style="color:#f60;background:url('/images/close.gif') -5px right no-repeat; padding-right:22px;display:block;height:20px;" href="#" onclick="$('#rewardsModal').hide();return false;">Close</a></div>
-		<div id="rewardsContent" style="height:280px;width:300px;margin:0 13px;">
-
-		</div>
-	</div>
-	<div id="shareModal" style="width:630px;height:auto;">
-		<div id="shareModalClose" style="text-align:right;height:30px;"><a style="color:#fff;background:url('/images/close.gif') -5px right no-repeat; padding-right:22px;display:block;height:20px;" href="#" onclick="$('#shareModal').hide();return false;">Close</a></div>
-		<div id="shareModalContent" style="margin:0 13px;">
-
-		</div>
-		<div id="shareModalButton">
-			<a href="#"></a>
-		</div>
-	</div>
-	<div id="levelAnimations">
-		<div id="levelAnimationsButton">
-			<a href="#">Share Bonus</a>
-		</div>
-		<div id="levelAnimationsClose" style="text-align:right;height:30px;font-size:14px;"><a style="color:#000;background:url('/images/close.gif') -5px right no-repeat; padding-right:42px;display:block;height:20px;" href="#" onclick="$.post('/msgSeen.do', {}, function(dat){}, 'json');$('#levelAnimations').hide();return false;">Close</a></div>
-		<div id="levelAnimationsContent" style="margin:0 13px;">
-
-		</div>
-	</div>
-</div>
-<script type="text/javascript">
-	
-	var notifications = null;
-	var level = notifications.level?notifications.level:{};
-    var task = {};
-    
-	var gcpiso = 0;
-	var gcgold = 0;
-	$("document").ready(function () {
-
-        reward();
-		var pb = $("#friendlinessBar");
-		if(level.showLvl) {
-			pb.progressBar(level.pPtsLvl, {
-				max: level.pPtsLvl,
-				textFormat: 'fraction',
-				barImage: {
-					0:  'images/progressbg_red.gif'
-				}
-			});
-		} else {
-			pb.progressBar(level.pIntoLvl, {
-				max: level.pPtsLvl,
-				textFormat: 'fraction',
-				barImage: {
-					0:  'images/progressbg_red.gif'
-				}
-			});
-		}
-		$("#friendlinessLevel").html(level.pLvl);
-		var fr = $("#pisos");
-		gcpiso = ('piso' in notifications)?notifications.piso:0;
-		fr.find(".val").html(gcpiso+"");
-		fr = $("#goldCoins");
-		gcgold = ('gold' in notifications)?notifications.gold:0;
-		fr.find(".val").html(gcgold+"");
-		notificationsUpdate(notifications, false, null);
-	});
-	function sendRequest(url,callback,postData) {
-		var req = createXMLHTTPObject();if (!req) return;
-		req.open("GET",url,true);req.setRequestHeader('User-Agent','XMLHTTP/1.0');
-		if (postData) req.setRequestHeader('Content-type','application/x-www-form-urlencoded');
-		req.onreadystatechange = function () {
-			if (req.readyState != 4) return;
-			if (req.status != 200 && req.status != 304) { return; }
-			callback(req);
-		};
-		if (req.readyState == 4) return;
-		req.send(postData);
-	}
-	var XMLHttpFactories = [
-		function () {return new XMLHttpRequest()}, function () {return new ActiveXObject("Msxml2.XMLHTTP")}, function () {return new ActiveXObject("Msxml3.XMLHTTP")}, function () {return new ActiveXObject("Microsoft.XMLHTTP")}
-	];
-	function createXMLHTTPObject() {
-		var xmlhttp = false;
-		for (var i=0;i<XMLHttpFactories.length;i++) {
-			try { xmlhttp = XMLHttpFactories[i](); }
-			catch (e) { continue; }
-			break;
-		}
-		return xmlhttp;
-	}
-	$(document).ready(function() {
-		if(!_jq_ok_ || !_sh_ok_ || !_sha_ok_) {
-			sendRequest("/jslog.do?jq="+_jq_ok_+"&sh="+_sh_ok_+"&sha="+_sha_ok_+"&ua="+escape(navigator.userAgent),function(){},null);
-		}
-	});
-</script>
-
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-3794196-1");
-	pageTracker._initData();
-    
-	pageTracker._trackPageview();
-</script>
-<script type="text/javascript">
-  var _kmq = _kmq || [];
-  function _kms(u){
-    setTimeout(function(){
-      var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
-      s.src = u; f.parentNode.insertBefore(s, f);
-    }, 1);
-  }
-  _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/c573b6ad9f4f921e5b68bd5fd5bbbd2fac3492c1.1.js');
-</script>
-
-
-
-</body></html>
+    <strong>Do we use cooki</strong></div></div></body></html>
