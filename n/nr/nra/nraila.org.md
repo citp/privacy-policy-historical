@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073707id_/http%3A//www.nraila.org/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002724id_/http%3A//www.nraila.org/privacy-security-policies.aspx) for the most accurate reproduction.*
 
-# NRA-ILA ::
+# NRA-ILA | Privacy & Security Policies
 
-To protect your privacy, The NRA Institute For Legislative Action (NRA-ILA) adheres to the following privacy and data protection principles: 
+****To protect your privacy, The NRA Institute For Legislative Action (NRA-ILA) adheres to the following privacy and data protection principles:
 
 NOTICE  
 NRA-ILA may ask for information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you join our organization or sign up for updates, newsletters, or other information published by NRA-ILA. 
@@ -23,7 +23,7 @@ COOKIES
 "Cookies" are small files downloaded to your hard drive that enable your browser to save and recall information. NRA-ILA uses cookies in a responsible manner to help our visitors quickly and easily navigate our site. We do not collect or use this information from cookies to develop a profile about our members and other site visitors. 
 
 ENFORCEMENT  
-If you believe NRA-ILA has not adhered to the above principles, please notify us by visiting our contact page. 
+If you believe NRA-ILA has not adhered to the above principles, please notify us by visiting our contact page.
 
 NOTICE TO PARENTS  
-We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
+We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
