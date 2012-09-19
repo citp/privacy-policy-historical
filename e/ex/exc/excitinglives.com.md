@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excitinglives.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508180618id_/http%3A//www.excitinglives.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excitinglives.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919224452id_/http%3A//www.excitinglives.com/privacy.php) for the most accurate reproduction.*
 
 # Exciting Lives
 
@@ -34,5 +34,5 @@ This site contains links to other sites. We are not responsible for the privacy 
 **Contacting the Web Site:**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us using the links provided below. 
 
-[Contact Information](https://web.archive.org/web/20120508180618id_/http%3A//www.excitinglives.com/contact.php)  
-[Terms Of Use](https://web.archive.org/web/20120508180618id_/http%3A//www.excitinglives.com/terms.php)
+[Contact Information](https://web.archive.org/web/20120919224452id_/http%3A//www.excitinglives.com/contact.php)  
+[Terms Of Use](https://web.archive.org/web/20120919224452id_/http%3A//www.excitinglives.com/terms.php)
