@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the dropzone.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041927id_/http%3A//www.dropzone.com/cgi-bin/safety/detail_page.cgi%3FID%3D599) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropzone.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919111901id_/http%3A//www.dropzone.com/cgi-bin/safety/detail_page.cgi%3FID%3D599) for the most accurate reproduction.*
 
-# Privacy Statement - Dropzone.com
-
-  
-
-
-* * *
-
-[Home](http://www.dropzone.com/cgi-bin/safety/page.cgi?g=index.shtml): [about](http://www.dropzone.com/cgi-bin/safety/page.cgi?g=about%2Findex.shtml): Privacy Statement 
-
-* * *
-
-  
-Posted Thu Jul 21 2005 By **sangiro**
+# Privacy Statement : Dropzone.com : Skydiving Articles
 
 This privacy statement is applicable to Dropzone.com.
 
@@ -25,20 +13,3 @@ Users also should be aware that non-personal information and data may be automat
 Upon request, DROPZONE.COM will allow any user to "opt out" of further promotional contacts at any time. Additionally upon request, DROPZONE.COM will use reasonable efforts to allow users to update/correct personal information previously submitted which the user states is erroneous to the extent such activities will not compromise privacy or security interests. Also, upon a user's request, DROPZONE.COM will use commercially reasonable efforts to functionally delete the user and his or her personal information from its database; however, it may be impossible to delete a user's entry without some residual information because of backups and records of deletions. 
 
 The foregoing policies are effective as of January 1, 2001. DROPZONE.COM reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-  
-
-
-* * *
-
-### More articles in this category:
-
-  * [Dropzone.com Article Submission Guidelines](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=694) \- by Editor (Posted: 2008-06-17)
-  * [Write For Us](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=695) \- by Editor (Posted: 2008-06-17)
-  * [Terms of Use](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=597) \- by sangiro (Posted: 2005-07-21)
-  * [Legal Information and Notices](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=598) \- by sangiro (Posted: 2005-07-21)
-  * [Privacy Statement](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=599) \- by sangiro (Posted: 2005-07-21)
-  * [Contact Us](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=585) \- by sangiro (Posted: 2005-05-25)
-
-  
-
