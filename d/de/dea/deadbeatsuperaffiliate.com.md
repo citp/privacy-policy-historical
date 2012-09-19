@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadbeatsuperaffiliate.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302063501id_/http%3A//www.deadbeatsuperaffiliate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadbeatsuperaffiliate.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919233325id_/http%3A//www.deadbeatsuperaffiliate.com/privacy.php) for the most accurate reproduction.*
 
 # Deadbeat Super Affiliate
 
