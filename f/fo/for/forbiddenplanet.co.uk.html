@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forbiddenplanet.co.uk privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516072700id_/http%3A//www.forbiddenplanet.co.uk/index.php%3Fmain_page%3Dpage%26id%3D37%26chapter%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forbiddenplanet.co.uk privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919213652id_/http%3A//www.forbiddenplanet.co.uk/index.php%3Fmain_page%3Dpage%26id%3D37%26chapter%3D0) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <title>Privacy Notice : Forbidden Planet International, Your Online Entertainment Superstore for Star Wars, Doctor Who, Star Trek and more</title>
@@ -67,7 +67,7 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
 			</div>
 			
 	<div align="center">
-			<div id="bannerThree" class="banners"><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=redirect&amp;action=banner&amp;goto=120"><img src="images/long-banner-got.jpg" alt="Game of Thrones At Forbidden Planet International" title=" Game of Thrones At Forbidden Planet International " width="942" height="100"></a></div>
+			<div id="bannerThree" class="banners"><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=redirect&amp;action=banner&amp;goto=123"><img src="images/long-banner-marv-figs.jpg" alt="The Marvel Figurine Collection" title=" The Marvel Figurine Collection " width="942" height="100"></a></div>
 				<table width="100%">
 			<tbody><tr><td style="padding-left:15px; padding-right:15px;" align="center">
 						<script type="text/javascript" src="includes/templates/fpi/jscript/MooBack.js"></script>
@@ -78,7 +78,7 @@ var overColor    = '#000';
 var outColor    = '#FFF';
 var autocompleter, contentMainWrapper, contentSearchWrapper, searchLinkWrapper, searchCloseWrapper,
 searchBottom, searchInput, categoryInput, resultsEl, cartLoading, addedToCart, overlay, resultsAddToCart;
-		
+
 var searchCache = {};
 
 /*// fix for non Firebug-capable browsers; OK to remove when live - just remove all references to "console.log"
@@ -146,7 +146,7 @@ MooBack.addEvent('onStateChange', function(state) {
 			pageState[i] = pageStateDefaults[i];
 		}
 	}
-	
+
 	var activePage = pageState.activePage;
 	toggleSearch(activePage, true);
 	if (activePage == 'search') {
@@ -220,7 +220,7 @@ function updateGoogleAnalytics() {
 
 Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 	options: {
-	
+
 		ajaxOptions: {
 			onRequest: function() {
 				$('results_ajax_loading').style.display = '';
@@ -230,9 +230,9 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 				$('results_ajax_loading').style.display = 'none';
 			}
 		},
-		
+
 		minLength: 2	}, // END options
-	
+
 	hideDisplay: function() {
 		$('search_top').setStyle('display', 'none');
 		$('search_bottom').setStyle('display', 'none');
@@ -243,12 +243,12 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 		$('totalItems').value = "first_run";
 		$('itemsPerPage').value = "25";
 	},
-	
+
 	query: function(){
 		var searchTerm = searchInput.value;
 		var category   = categoryInput.value;
 		var key = (searchTerm) ? searchTerm : ((category) ? category : '');
-		
+
 		if (searchTerm) { // user is searching by term
 			searchTerm = searchTerm.replace(/ /g, '+');
 			pageState.searchMode = 'term';
@@ -265,7 +265,7 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 
 		// reset the values for each time the user submits a new search term
 		this.hideDisplay();
-		
+
 		if (key && searchCache[key]) {
 //			$('results_ajax_loading').style.display = 'none';
 			this.queryResponse(searchCache[key]);
@@ -274,7 +274,7 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 
 		this.ajax.request($('searchForm'));
 	},
-	
+
 	queryResponse: function(response) {
 		this.parent(response);
 		var json = Json.evaluate(response || false);
@@ -296,7 +296,7 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 		$('search_bottom').style.display = '';
 
 		resultsEl.setHTML(json['results']);
-		
+
 		var resultsHTML = $$('#results a');
 		resultsHTML.each(function(a) {
 			a.addEvent('click', function() {
@@ -304,7 +304,7 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 				updateCloud(searchTerm);
 			});
 		});
-		
+
 		$$('#results a.results_buy_now').each(function(a) {
 			a.addEvent('click', function(e) {
 				new Event(e).stop();
@@ -317,7 +317,7 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 					relativeTo: pCard,
 					offset: {y: -10}
 				});
-				
+
 				$('product_card_added_text').setStyle('display', 'none');
 				resultsAddToCart.options.pAdded.setStyles({
 					top: pos.y,
@@ -338,7 +338,7 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 		pageState.pagerTotalItems = json['totalItems'];
 		MooBack.generateState(pageState);
 		updateGoogleAnalytics();
-		
+
 		var anchors = $$('#pager_top a', '#pager_bottom a');
 		anchors.each(function(a, i) {
 			a.href = a.href + '&category=' + category;
@@ -347,11 +347,11 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 				this.pagerSearch(i);
 			}.bind(this));
 		}.bind(this));
-		
+
 		this.pager_hrefs = anchors.getProperty('href');
-		
+
 	}, // END function queryResponse
-	
+
 	pagerSearch: function(i) {
 		var fromMooBack = i === true;
 		if (fromMooBack) { // from the history manager
@@ -374,7 +374,7 @@ Autocompleter.Ajax.TED = Autocompleter.Ajax.Base.extend({
 
 		this.ajax.request($('searchForm'));
 	},
-	
+
 	parseChoices: function(el) {
 		var value = el.innerHTML;
 		el.inputValue = value;
@@ -419,12 +419,12 @@ window.addEvent('domready', function(){
 	addedToCart = $('added_to_cart');
 
 	autocompleter = new Autocompleter.Ajax.TED(searchInput, responderURL + '?action=search', {postVar: searchInput.name});
-	
+
 	contentMainWrapper = [$('contentMainWrapper')];
 	contentSearchWrapper = $('contentSearchWrapper');
 	searchLinkWrapper = $('searchLinkWrapper');
 	searchCloseWrapper = $('searchCloseWrapper');
-	
+
 	$('searchLink').addEvent('click', function(e) {
 		new Event(e).stop();
 		toggleSearch();
@@ -434,35 +434,35 @@ window.addEvent('domready', function(){
 		new Event(e).stop();
 		toggleSearch();
 	});
-	
+
 	$('latest_gn_link').addEvent('click', function(e) {
 		new Event(e).stop();
 		categoryInput.value = 'latest_50_gn';
 		searchInput.value = '';
 		autocompleter.query();
 	});
-	
+
 	$('upcoming_link').addEvent('click', function(e) {
 		new Event(e).stop();
 		categoryInput.value = 'upcoming_products';
 		searchInput.value = '';
 		autocompleter.query();
 	});
-	
+
 	$('latest_movie_merch_link').addEvent('click', function(e) {
 		new Event(e).stop();
 		categoryInput.value = 'latest_50_movie_merch';
 		searchInput.value = '';
 		autocompleter.query();
 	});
-	
+
 	$('top_50_link').addEvent('click', function(e) {
 		new Event(e).stop();
 		categoryInput.value = 'top_50';
 		searchInput.value = '';
 		autocompleter.query();
 	});
-	
+
 	$('top_50_gn_link').addEvent('click', function(e) {
 		new Event(e).stop();
 		categoryInput.value = 'top_50_gn';
@@ -480,7 +480,7 @@ window.addEvent('domready', function(){
 	if (startingHash) MooBack.fireEvent('onStateChange', startingHash);
 
 }); // END window.addEvent('domready'
-		
+
 //]]></script>
 
 
@@ -513,12 +513,12 @@ window.addEvent('domready', function(){
 			<li class="parent">
       	<span class="top"><a class="daddy" id="newest_products_link" href="#">Newest Products</a></span>
 			</li>
-     </ul>								
+     </ul>
     </div>
    </div>
    </div>
 		<div id="search-pane">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
 					<td valign="top" align="left" style="width:550px;">
 						<h1>Search&nbsp;<span class="white ten">&nbsp;(minimum 2 characters)</span></h1>
@@ -539,7 +539,7 @@ window.addEvent('domready', function(){
 					</td>
 					<td valign="top" align="left">
 						<h3 class="yellow">Popular <span class="white">Search Terms</span></h3>
-						<div id="tag_cloud"><a href="#" class="tag_cloud_item" style="font-size: 197.72788383974%" title="26821 things tagged with batman">batman</a> <a href="#" class="tag_cloud_item" style="font-size: 250%" title="37189 things tagged with doctor who">doctor who</a> <a href="#" class="tag_cloud_item" style="font-size: 118.91133369185%" title="11188 things tagged with final fantasy">final fantasy</a> <a href="#" class="tag_cloud_item" style="font-size: 100.68566819037%" title="7573 things tagged with galactic heroes">galactic heroes</a> <a href="#" class="tag_cloud_item" style="font-size: 126.2268082818%" title="12639 things tagged with gears of war">gears of war</a> <a href="#" class="tag_cloud_item" style="font-size: 161.70509545577%" title="19676 things tagged with halo">halo</a> <a href="#" class="tag_cloud_item" style="font-size: 100%" title="7437 things tagged with halo 3">halo 3</a> <a href="#" class="tag_cloud_item" style="font-size: 100.17645872546%" title="7472 things tagged with indiana jones">indiana jones</a> <a href="#" class="tag_cloud_item" style="font-size: 123.35305189567%" title="12069 things tagged with iron man">iron man</a> <a href="#" class="tag_cloud_item" style="font-size: 113.34532132294%" title="10084 things tagged with joker">joker</a> <a href="#" class="tag_cloud_item" style="font-size: 122.89930088734%" title="11979 things tagged with marvel figurine">marvel figurine</a> <a href="#" class="tag_cloud_item" style="font-size: 118.39708254907%" title="11086 things tagged with marvel figurine collection">marvel figurine collection</a> <a href="#" class="tag_cloud_item" style="font-size: 101.89567087927%" title="7813 things tagged with new moon">new moon</a> <a href="#" class="tag_cloud_item" style="font-size: 117.28791341759%" title="10866 things tagged with predator">predator</a> <a href="#" class="tag_cloud_item" style="font-size: 113.97048937887%" title="10208 things tagged with star trek">star trek</a> <a href="#" class="tag_cloud_item" style="font-size: 240.51156224792%" title="35307 things tagged with star wars">star wars</a> <a href="#" class="tag_cloud_item" style="font-size: 101.92087926862%" title="7818 things tagged with superman">superman</a> <a href="#" class="tag_cloud_item" style="font-size: 108.02635116967%" title="9029 things tagged with transformers">transformers</a> <a href="#" class="tag_cloud_item" style="font-size: 137.64620865824%" title="14904 things tagged with twilight">twilight</a> <a href="#" class="tag_cloud_item" style="font-size: 103.85184189298%" title="8201 things tagged with watchmen">watchmen</a> </div>			
+						<div id="tag_cloud"><a href="#" class="tag_cloud_item" style="font-size: 201.90279181405%" title="28968 things tagged with batman">batman</a> <a href="#" class="tag_cloud_item" style="font-size: 250%" title="39121 things tagged with doctor who">doctor who</a> <a href="#" class="tag_cloud_item" style="font-size: 119.35162961091%" title="11542 things tagged with final fantasy">final fantasy</a> <a href="#" class="tag_cloud_item" style="font-size: 100.57320616473%" title="7578 things tagged with galactic heroes">galactic heroes</a> <a href="#" class="tag_cloud_item" style="font-size: 125.87954775139%" title="12920 things tagged with gears of war">gears of war</a> <a href="#" class="tag_cloud_item" style="font-size: 161.03935068216%" title="20342 things tagged with halo">halo</a> <a href="#" class="tag_cloud_item" style="font-size: 100%" title="7457 things tagged with halo 3">halo 3</a> <a href="#" class="tag_cloud_item" style="font-size: 100.23212481051%" title="7506 things tagged with indiana jones">indiana jones</a> <a href="#" class="tag_cloud_item" style="font-size: 124.80419403739%" title="12693 things tagged with iron man">iron man</a> <a href="#" class="tag_cloud_item" style="font-size: 114.49122031329%" title="10516 things tagged with joker">joker</a> <a href="#" class="tag_cloud_item" style="font-size: 122.22239767559%" title="12148 things tagged with marvel figurine">marvel figurine</a> <a href="#" class="tag_cloud_item" style="font-size: 117.61779939363%" title="11176 things tagged with marvel figurine collection">marvel figurine collection</a> <a href="#" class="tag_cloud_item" style="font-size: 101.73856745831%" title="7824 things tagged with new moon">new moon</a> <a href="#" class="tag_cloud_item" style="font-size: 120.09537645275%" title="11699 things tagged with predator">predator</a> <a href="#" class="tag_cloud_item" style="font-size: 115.34866093987%" title="10697 things tagged with star trek">star trek</a> <a href="#" class="tag_cloud_item" style="font-size: 238.30848913593%" title="36653 things tagged with star wars">star wars</a> <a href="#" class="tag_cloud_item" style="font-size: 103.2734335523%" title="8148 things tagged with superman">superman</a> <a href="#" class="tag_cloud_item" style="font-size: 108.56966902476%" title="9266 things tagged with transformers">transformers</a> <a href="#" class="tag_cloud_item" style="font-size: 135.66668772107%" title="14986 things tagged with twilight">twilight</a> <a href="#" class="tag_cloud_item" style="font-size: 104.03139211723%" title="8308 things tagged with watchmen">watchmen</a> </div>
 					</td>
 				</tr>
 			</tbody></table>
@@ -610,7 +610,7 @@ window.addEvent('domready', function(){
 <div id="results_add_to_cart_loading" style="display:none; position:absolute; z-index:1000;">
 	<img src="includes/templates/fpi/images/icons/results_ajax_loader.gif">
 </div>
-<div id="product_card_added" style="visibility:hidden; text-align:center; background-color:#000000; color:#ffffff; position:absolute;">						
+<div id="product_card_added" style="visibility:hidden; text-align:center; background-color:#000000; color:#ffffff; position:absolute;">
 	<div id="product_card_added_text" style="padding-top: 135px">Product Added to Cart</div>
 </div>
 
@@ -628,14 +628,14 @@ window.addEvent('domready', function(){
 <!--// bof: whatsnew //-->
 <div class="leftBoxContainer" id="whatsnew" style="width: 193px">
 <div class="leftBoxHeading" id="whatsnewHeading"><img src="includes/templates/fpi/images/boxHeaders/cat-whatsnew.png" alt="" width="193" height="37"></div>
-<div id="whatsnewContent" class="sideBoxContent leftContent" style="padding-left:10px;"><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=70781">A Christmas Carol: Night That...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=70782">The Art Of Portal 2 Hardcover</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=70783">Bride of the Water God Volume...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=70784">Cherubs! Hardcover</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=70785">Creepy Archives Volume  14...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=70786">Dark Matter Volume  1 :...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=70787">Deva Zan Hardcover</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=70788">Falling Skies Volume  2</a></div></div></div>
+<div id="whatsnewContent" class="sideBoxContent leftContent" style="padding-left:10px;"><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_info&amp;products_id=72776">Top Trumps Lord of the Rings...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_info&amp;products_id=72777">Starsky &amp; Hutch 1:18 Scale...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_info&amp;products_id=72778">Doctor Who Exclusive -...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_info&amp;products_id=72779">Twilight Bella 1:18 Scale...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_info&amp;products_id=72780">Twilight 1:18 Scale Ford...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_info&amp;products_id=72781">Fast 5 - 1:24 Scale Dodge...</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=72782">Limit Volume  2</a></div><div style="padding:3px;" align="left"><a class="yellowLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_music_info&amp;products_id=72783">Tezuka's Message To Adolf...</a></div></div></div>
 <div class="leftBoxFooter"></div>
 <!--// eof: whatsnew //-->
 
 <!--// bof: bannerbox //-->
 <div class="leftBoxContainer" id="bannerbox" style="width: 193px">
 <div class="leftBoxHeading" id="bannerboxHeading"><img src="includes/templates/fpi/images/boxHeaders/cat-sponsors.png" alt="" width="193" height="37"></div>
-<div id="bannerboxContent" class="sideBoxContent centeredContent" style="padding-top:3px; padding-bottom:2px;"><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=redirect&amp;action=banner&amp;goto=88" target="_blank"><img src="images/125x125_twitter.jpg" alt="FPInternational on Twitter" title=" FPInternational on Twitter " width="170" height="125"></a></div></div>
+<div id="bannerboxContent" class="sideBoxContent centeredContent" style="padding-top:3px; padding-bottom:2px;"><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=redirect&amp;action=banner&amp;goto=11" target="_blank"><img src="images/banners/125x125_blog.jpg" alt="Joe's Blog Log" title=" Joe's Blog Log " width="170" height="200"></a></div></div>
 <div class="leftBoxFooter"></div>
 <!--// eof: bannerbox //-->
 
@@ -655,6 +655,7 @@ window.addEvent('domready', function(){
 <li><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=page&amp;id=70&amp;chapter=0">Offline Mail Order Form</a></li>
 <li><img src="includes/templates/fpi/images/boxHeaders/affiliateprogram.gif" alt="" width="186" height="27"></li>
 <li><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=page&amp;id=47&amp;chapter=0">Affiliate Program</a></li>
+<li><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=page&amp;id=81&amp;chapter=0">Odeon</a></li>
 <li><img src="includes/templates/fpi/images/boxHeaders/coverage.gif" alt="" width="186" height="27"></li>
 <li><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=page&amp;id=74&amp;chapter=0">Graphic Novel Previews</a></li>
 <li><a href="http://www.forbiddenplanet.co.uk/index.php?main_page=page&amp;id=79&amp;chapter=0">FPI Digital Comics</a></li>
@@ -674,7 +675,8 @@ window.addEvent('domready', function(){
 <!--// bof: reviews //-->
 <div class="leftBoxContainer" id="reviews" style="width: 193px">
 <div class="leftBoxHeading" id="reviewsHeading"><img src="includes/templates/fpi/images/boxHeaders/cat-reviews.png" alt="" width="193" height="37"></div>
-<div id="reviewsContent" class="sideBoxContent centeredContent" style="padding: 4px 5px 10px 5px;"><div style="padding:4px;">Preacher Volume 3: Proud Americans</div><a class="greyLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_reviews_info&amp;products_id=7116&amp;reviews_id=51"><img src="bmz_cache/f/f155e4f3a05dfd92df61ce115760083c.image.33x50.jpg" alt="Preacher Volume 3: Proud Americans" title=" Preacher Volume 3: Proud Americans " width="33" height="50" style="position:relative" onmouseover="showtrail('bmz_cache/8/8bdff19c9e964a2be919e6148a33b753.image.133x200.jpg','Preacher Volume 3: Proud Americans',33,50,133,200,this,0,0,33,50);" onmouseout="hidetrail();"><br>Preacher is one of the best books out there and i highly recomend it!!! top stuff<br></a><img src="includes/templates/fpi/images/stars_5.gif" alt="5 of 5 Stars!" title=" 5 of 5 Stars! " width="90" height="20"></div></div>
+<div id="reviewsContent" class="sideBoxContent centeredContent" style="padding: 4px 5px 10px 5px;"><div style="padding:4px;">Justice League - Alex Ross S2: Batman</div><a class="greyLinks" href="http://www.forbiddenplanet.co.uk/index.php?main_page=product_reviews_info&amp;products_id=1592&amp;reviews_id=13"><img src="bmz_cache/1/111311916fa6e77471a2a63222252b70.image.25x50.jpg" alt="Justice League - Alex Ross S2: Batman" title=" Justice League - Alex Ross S2: Batman " width="25" height="50" style="position:relative" onmouseover="showtrail('bmz_cache/4/414a2e2b5c7e0fdcccf4e8f88272b7c8.image.100x200.jpg','Justice League - Alex Ross S2: Batman',25,50,100,200,this,0,0,25,50);" onmouseout="hidetrail();"><br>DC comics continues it’s series of figures based around the 12 issue run of Justice, painted by artist beyond compare, Alex Ross.<br>
+This rendition of t<br></a><img src="includes/templates/fpi/images/stars_4.gif" alt="4 of 5 Stars!" title=" 4 of 5 Stars! " width="90" height="20"></div></div>
 <div class="leftBoxFooter"></div>
 <!--// eof: reviews //-->
 
@@ -739,8 +741,8 @@ window.addEvent('domready', function(){
 	</div>
 </div>
 <!--bof- parse time display -->
-<div class="smallText center">Parse Time: 0.708 - Number of Queries: 70 - Query Time: 0.10136458338928</div>
-<!--eof- parse time display 
+<div class="smallText center">Parse Time: 0.235 - Number of Queries: 71 - Query Time: 0.11896002745056</div>
+<!--eof- parse time display
 
 <a href="http://www.instantssl.com" id="comodoTL">SSL</a>
 <script language="JavaScript" type="text/javascript">
@@ -755,6 +757,7 @@ var pageTracker = _gat._getTracker("UA-30150-4");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+
 
 
 </div></body></html>
