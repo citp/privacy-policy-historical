@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bucketsofbanners.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622114222id_/http%3A//bucketsofbanners.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucketsofbanners.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919183920id_/http%3A//bucketsofbanners.com/privacy.php) for the most accurate reproduction.*
 
 # Free Banner Ad Exchange - Swap Banner Ads
 
-[Sign-up](http://bucketsofbanners.com/register.php) / [Log-in](http://bucketsofbanners.com/login.php)   
+[Sign-up](https://web.archive.org/web/20120919183920id_/http%3A//bucketsofbanners.com/register.php) / [Log-in](https://web.archive.org/web/20120919183920id_/http%3A//bucketsofbanners.com/login.php)   
 
 **Buckets of Banners Privacy Policy
 
