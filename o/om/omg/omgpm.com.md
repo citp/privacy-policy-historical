@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529064057id_/http%3A//uk.omgpm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919224753id_/http%3A//uk.omgpm.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@ OMG takes the privacy of its customers and users seriously. We take care to put 
 
 This policy covers our approach to collecting, storing, safeguarding and processing information submitted by or collected from users, affiliates, prospective affiliates and clients at OMG sites.
 
-We have a distinct [Advertising Privacy Policy](https://web.archive.org/web/20120529064057id_/http%3A//uk.omgpm.com/tracking-privacy.aspx) covering OMG’s use of Advertising Cookies which you can [read here](https://web.archive.org/web/20120529064057id_/http%3A//uk.omgpm.com/tracking-privacy.aspx)
+We have a distinct [Advertising Privacy Policy](https://web.archive.org/web/20120919224753id_/http%3A//uk.omgpm.com/tracking-privacy.aspx) covering OMG’s use of Advertising Cookies which you can [read here](https://web.archive.org/web/20120919224753id_/http%3A//uk.omgpm.com/tracking-privacy.aspx)
 
 ## Terms
 
@@ -190,7 +190,7 @@ You can also control how cookies operate on your device by modifying your Browse
 
 ## Advertising Cookies
 
-OMG provides advertising services which involves the use of cookies and tracking technologies. Further detail can be found in our [Advertising Privacy Policy](https://web.archive.org/web/20120529064057id_/http%3A//uk.omgpm.com/tracking-privacy.aspx).
+OMG provides advertising services which involves the use of cookies and tracking technologies. Further detail can be found in our [Advertising Privacy Policy](https://web.archive.org/web/20120919224753id_/http%3A//uk.omgpm.com/tracking-privacy.aspx).
 
 ## Subject access requests
 
