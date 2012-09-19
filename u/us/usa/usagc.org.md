@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625100314id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195902id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
 
 # USAGC privacy policy
 
-|  **PRIVACY POLICY AND STATEMENT OF www.usagc.org**
+**PRIVACY POLICY AND STATEMENT OF www.usagc.org**
 
  **and all related sites owned, operated or controlled by**  
  **"USAGC Organization"**
@@ -60,46 +60,3 @@ USAGC Organization send all new members a welcoming email to verify password and
  **Correction/Updating Personal Information:**
 
 if a user's personally identifiable information changes, or if a user no longer desires USAGC Organization service, USAGC Organization will endeavor to provide a way to correct, update or remove that user's personal data provided to USAGC Organization. This can usually be done at the member information page or by emailing USAGC Organization Customer Support.
-
-|  |   
----  
-**Applicant Login**  
-| **Check your green card  
-application status**  
----  
-  
-  
-**Private Entity**  
-  
-USAGC Organization is now accepting applications online. USAGC Organization, as a nongovernmental entity providing a value added service for the registration to the DV Green Card program, will forward your registration directly to the US State Department site.
-
-The DV lottery is open for registration at no cost only during the annual period in the official website which you can find [here](https://www.dvlottery.state.gov/)
-
-  
-
-
-##### Some of our benefits: 
-
-* We submit your application on time and for multiple years,
-* We help you complete your application correctly and upload your photos;
-* We give you the official submission confirmation.
-
-Click [here](http://www.usagc.org/advantages.aspx) to read the benefits of registering with USAGC.  
-  
-**Example of  
-Green Card Visa**  
-  
-  
-**Example of  
-Winning Document**  
-  
-  
-**Updates**  
-  
-ENTRIES FOR THE DV - DIVERSITY VISA LOTTERY MUST BE SUBMITTED ELECTRONICALLY 
-
-USAGC Organization is now accepting applications online.
-
-[](http://www.state.gov/)  
-  
-__________________
