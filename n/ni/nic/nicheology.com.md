@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nicheology.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608095343id_/http%3A//www.nicheology.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheology.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920014357id_/http%3A//www.nicheology.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
-
-Our Privacy Policy
 
 We are strongly committed to safeguarding subscribers' privacy. We operate under the following strict privacy policy: The only information we obtain about our subscribers is information we need to process credit card charges for subscription fees. The information collected is never revealed, sold, or made public for any reason. Personally identifiable information provided by subscribers (name, email or home address, etc.) is never disclosed to any individual or business. **Cookies**  
 Each time a subscriber logs into this site, we store a temporary 'cookie' in the browser files of that subscriber's computer. This cookie is used during your online session to allow you free access to the Subscribers Area, without repeatedly requiring you to re-enter your user name and password. When you log off or leave the site, the cookies file is automatically removed. **External Links**  
