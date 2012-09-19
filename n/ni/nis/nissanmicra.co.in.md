@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissanmicra.co.in privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622175322id_/http%3A//nissanmicra.co.in/index/page/pageID/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissanmicra.co.in privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015811id_/http%3A//nissanmicra.co.in/index/page/pageID/1) for the most accurate reproduction.*
 
 # Nissan Micra
 
