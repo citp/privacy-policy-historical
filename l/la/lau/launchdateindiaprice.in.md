@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the launchdateindiaprice.in privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608065658id_/http%3A//launchdateindiaprice.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchdateindiaprice.in privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015150id_/http%3A//launchdateindiaprice.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Launch Date India Price
+# Privacy Policy | Launch Date India and Price
 
 **Privacy Policy for Launch Date India Price ( http://www.launchdateindiaprice.in/ )**
 
