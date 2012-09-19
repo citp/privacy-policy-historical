@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directlyrics.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606022411id_/http%3A//www.directlyrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directlyrics.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205147id_/http%3A//www.directlyrics.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -14,7 +14,7 @@ Like many websites, we use “cookies” to collect information. A cookie is a s
 
 We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-## Information sharing and disclosure
+### Information sharing and disclosure
 
 Aggregate Information and Non-Identifying Information. We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services. 
 
