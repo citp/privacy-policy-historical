@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514082438id_/http%3A//www.hotelnewsnow.com/Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231214id_/http%3A//www.hotelnewsnow.com/Disclaimer.aspx) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -22,9 +22,7 @@ We do not usually seek sensitive information (e.g., data relating to race or eth
 
 **Cookies and Web Beacons**
 
-To ensure that our Web site is well managed and to facilitate improved navigation within the site, we or our service provider(s) may use cookies (small text files stored in a user’s browser) or Web beacons (electronic images that allow the website to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. We may use such devices to track information on our systems and identify categories of visitors by items such as IP address, domain, browser type and pages visited. This information is reported to our Webmasters who use the information to analyze the number of visitors to different areas of the site, determine how long visitors are spending on our site, and to make sure that our Web site is serving as a useful, effective information source. 
-
-Neither our cookies nor Web beacons collect any personal information such as your name or email address. In general, HNN does not link your IP address to anything personally identifiable to you.  Further, most browsers permit individuals to decline cookies. Learn more about cookies and how to reject them. However, under specific circumstances, some web pages on our site may not display properly or you may be denied access to some parts of our site if your browser is  set to decline cookies.
+[View HotelNewsNow.com's cookies policy](https://web.archive.org/cookieinfo.aspx)
 
 **Information Use**
 
