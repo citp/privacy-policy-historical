@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504121048id_/https%3A//www.thankyou.com/privacyStmt.jspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919200406id_/https%3A//www.thankyou.com/privacyStmt.jspx) for the most accurate reproduction.*
 
 # ThankYou - Privacy - Get Rewards with Citi Cards and Citibank
 
@@ -96,13 +96,13 @@ From time to time, we may change this Privacy Policy. The effective date of this
 
 ### EFFECTIVE DATE
 
-This policy was last modified 05/2012.
+This policy was last modified 06/2012.
 
 An Internet Protocol address is a unique number, assigned to a computer or device that connects to the Internet, that identifies that computer or device.
 
 A cookie is a small text file that a web server may place on your computer when you visit a site. The file uniquely identifies a computer. Information stored in a cookie sent by Citi can only be read by Citi or companies we work with.
 
-Pixel tag is a transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed. In addition, a pixel tag may tell your browser to get content from another server. The pixel tags on ThankYou's site are set only by companies we work with and supervise. In order to ensure the safekeeping of your information, network advertising companies and publishers are not permitted to directly collect information on our site.
+Pixel tag is a transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed. In addition, a pixel tag may tell your browser to get content from another server. The pixel tags on ThankYou's site are set only by companies we work with and supervise. In order to help protect your information, network advertising companies and publishers are not permitted to directly collect information on our site.
 
 These are groups of unique individuals or users categorized using information such as behaviors, demographics, attitudes and/or geographic differences.
 
