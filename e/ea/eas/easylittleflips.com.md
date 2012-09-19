@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easylittleflips.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231040142id_/http%3A//easylittleflips.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easylittleflips.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185429id_/http%3A//easylittleflips.com/privacy.php) for the most accurate reproduction.*
 
 # privacy
 
