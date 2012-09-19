@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfaresflights.com.au privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513144738id_/http%3A//www.airfaresflights.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfaresflights.com.au privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919203947id_/http%3A//www.airfaresflights.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Airfares Flights Privacy Policy
 
