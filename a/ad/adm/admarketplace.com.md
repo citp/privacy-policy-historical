@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621080948id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919191809id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
 # adMarketplace.com: Privacy Statement
 
@@ -100,4 +100,4 @@ As our company and services evolve, this Privacy Policy may be revised to reflec
 
 ### Questions?
 
-Please [contact us](https://web.archive.org/web/20120621080948id_/http%3A//www.admarketplace.com/contact.php?type=other) with any questions about this website Privacy Policy.
+Please [contact us](https://web.archive.org/web/20120919191809id_/http%3A//www.admarketplace.com/contact.php?type=other) with any questions about this website Privacy Policy.
