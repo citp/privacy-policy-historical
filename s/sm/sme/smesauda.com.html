@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smesauda.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513061857id_/http%3A//www.smesauda.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smesauda.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919182417id_/http%3A//www.smesauda.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,7 +14,7 @@
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/ibox.js"></script>
 <!--<script language="javascript" type="text/javascript" src="js/jquery-1.4.1.js"></script>-->
-<script src="http://code.jquery.com/jquery-1.5.min.js" type="text/javascript"></script>
+<script src="js/jquery-1.5.min.js" type="text/javascript"></script>
 <script language="javascript" type="text/javascript" src="includes/functions/JSFunction.js"></script>
 <script language="javascript" type="text/javascript">
 $(document).ready(function()
@@ -94,6 +94,14 @@ $(document).ready(function()
 		<div class="clear"></div>
         </ul>
         </div>
+	       <div style="color:#7dbb1e; font-weight:bold">Tamil Nadu</div>
+       <div class="cityList">
+    	<ul style="padding:0px; margin:0px;">
+ 		      	 <li> <p> 
+         <a href="change-city.php?city=26">Chennai</a></p></li>
+		<div class="clear"></div>
+        </ul>
+        </div>
 	       <div style="color:#7dbb1e; font-weight:bold">Uttar Pradesh</div>
        <div class="cityList">
     	<ul style="padding:0px; margin:0px;">
@@ -169,6 +177,21 @@ $(document).ready(function()
 				if($(e.target).parent("a.signin3").length==0) {
 					$(".signin3").removeClass("menu-open");
 					$("fieldset#signin_menu3").hide();
+				}
+			});
+			
+				$(".signin4").click(function() {
+                $("fieldset#signin_menu4").toggle();
+				$(".signin4").toggleClass("menu-open");
+            });
+			
+			$("fieldset#signin_menu4").mouseup(function() {
+				return false
+			});
+			$("a.close_btn").click(function(e) {
+				if($(e.target).parent("a.signin4").length==0) {
+					$(".signin4").removeClass("menu-open");
+					$("fieldset#signin_menu4").hide();
 				}
 			});
 			
@@ -285,6 +308,30 @@ function resetDefaultText(){
 
 </script>
 
+<!-- popup -->
+<style type="text/css">
+#blanket {
+	position:absolute;
+	z-index: 9001; /*ooveeerrrr nine thoussaaaannnd*/
+	top:0px;
+	left:0px;
+	width:100%; background-image:url(images/tran.png); 
+}
+#popUpDiv {
+	position:absolute;
+	width:475px;
+	height:234px;
+	z-index: 9002;
+	visibility: visible;
+}
+.close2 {cursor:pointer;}
+</style>
+
+<script language="javascript" src="js/typingtext.js"></script>
+<script type="text/javascript" src="js/csspopup.js"></script>
+
+<!-- //popup -->
+
 <div class="top-nav">
 	
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -300,7 +347,7 @@ function resetDefaultText(){
     </span>  
 		<span style="float:right; margin-top:0px; margin-right:15px; margin-bottom:5px;">
 			    
-    	<a href="member-login.php"><img src="images/signin.jpg" width="8" height="12" border="0"> Sign In</a>&nbsp; <a href="register.php"><img src="images/signup.jpg" width="9" height="10" border="0"> Sign UP</a>			 </span>
+    	<a href="member-login.php"><img src="images/signin.jpg" width="8" height="12" border="0"> Sign In</a>&nbsp; <a href="register.php"><img src="images/signup.jpg" width="9" height="10" border="0"> Register</a>			 </span>
 	
 
     </td>
@@ -350,7 +397,7 @@ function resetDefaultText(){
     <label for="select"></label>
       <select name="select" id="select" class="inputbox1" style="color:#8f8f8f; font-size:11px; float:right" onchange="window.location='http://www.smesauda.com/deal-search.php?search='+document.getElementById('searchTextId').value+'&amp;category='+document.getElementById('select').value">
         <option>Category</option>
-		<option value="1" style="font-weight:bold; color:#ce4523; padding-top:10px;">Products</option><option value="1" style="font-weight:bold">------------------------------------------------------------</option><option value="5" style="font-weight:bold; color:#0c62b1">Computers</option><option value="21">&nbsp;&nbsp;Laptops and NetBooks</option><option value="19">&nbsp;&nbsp;PCs</option><option value="20">&nbsp;&nbsp;Servers</option><option value="72" style="font-weight:bold; color:#0c62b1">Monitors</option><option value="73">&nbsp;&nbsp;LED monitors</option><option value="82">&nbsp;&nbsp;TFT Monitors</option><option value="9" style="font-weight:bold; color:#0c62b1">Networking Equipments</option><option value="25">&nbsp;&nbsp;Network Boxes</option><option value="24">&nbsp;&nbsp;Router/Switches</option><option value="12" style="font-weight:bold; color:#0c62b1">Office Equipments</option><option value="37">&nbsp;&nbsp;Access Control &amp; Security Systems</option><option value="78">&nbsp;&nbsp;CCTv Systems</option><option value="36">&nbsp;&nbsp;EPABX/Intercom System</option><option value="90">&nbsp;&nbsp;Fire Alarm</option><option value="35">&nbsp;&nbsp;Scanners</option><option value="79">&nbsp;&nbsp;Telephone</option><option value="39">&nbsp;&nbsp;UPS/Inverter</option><option value="11" style="font-weight:bold; color:#0c62b1">Printers</option><option value="34">&nbsp;&nbsp;All-in-One/Multi-functional Printers</option><option value="31">&nbsp;&nbsp;DotMatrix Printers</option><option value="32">&nbsp;&nbsp;Inkjet/Deskjet Printers</option><option value="33">&nbsp;&nbsp;Laser Printers</option><option value="13" style="font-weight:bold; color:#0c62b1">Software</option><option value="41">&nbsp;&nbsp;Accounting &amp; Tax Software</option><option value="42">&nbsp;&nbsp;Antivirus</option><option value="77">&nbsp;&nbsp;Office Software</option><option value="76">&nbsp;&nbsp;Operating System</option><option value="2" style="font-weight:bold; color:#ce4523; padding-top:10px;">Services</option><option value="2" style="font-weight:bold">------------------------------------------------------------</option><option value="8" style="font-weight:bold; color:#0c62b1">Freight Services</option><option value="57">&nbsp;&nbsp;Air Freight Services</option><option value="58">&nbsp;&nbsp;Ocean Freight Services</option><option value="83" style="font-weight:bold; color:#0c62b1">HR Services</option><option value="86">&nbsp;&nbsp;Compensation Structuring</option><option value="85">&nbsp;&nbsp;HR Consulting</option><option value="84">&nbsp;&nbsp;HR Helpdesk</option><option value="4" style="font-weight:bold; color:#0c62b1">IT and Web</option><option value="50">&nbsp;&nbsp;IT Set-Up and Maintenance Services</option><option value="49">&nbsp;&nbsp;Printer/Photocopier Rental Services</option><option value="52">&nbsp;&nbsp;SEO and Digital Marketing Services</option><option value="51">&nbsp;&nbsp;Website Design and Maintenance Services</option><option value="74" style="font-weight:bold; color:#0c62b1">Printing</option><option value="80">&nbsp;&nbsp;Brochure</option><option value="75">&nbsp;&nbsp;Flyer (Pamphlet)</option><option value="81">&nbsp;&nbsp;Others</option><option value="87" style="font-weight:bold; color:#0c62b1">Professional Services</option><option value="89">&nbsp;&nbsp;Company Incorporation Services</option><option value="88">&nbsp;&nbsp;Trademark Registration Services</option>      </select>
+		<option value="1" style="font-weight:bold; color:#ce4523; padding-top:10px;" disabled="">Products</option><option value="1" style="font-weight:bold">------------------------------------------------------------</option><option value="101" style="font-weight:bold; color:#0c62b1">CCTv Surveillance</option><option value="103">&nbsp;&nbsp;CCTv Cameras</option><option value="102">&nbsp;&nbsp;CCTv Systems</option><option value="104">&nbsp;&nbsp;Digital Video Recorder (DVR)</option><option value="5" style="font-weight:bold; color:#0c62b1">Computers</option><option value="21">&nbsp;&nbsp;Laptops and NetBooks</option><option value="19">&nbsp;&nbsp;PCs</option><option value="20">&nbsp;&nbsp;Servers</option><option value="72" style="font-weight:bold; color:#0c62b1">Monitors</option><option value="73">&nbsp;&nbsp;LED monitors</option><option value="82">&nbsp;&nbsp;TFT Monitors</option><option value="9" style="font-weight:bold; color:#0c62b1">Networking Equipments</option><option value="25">&nbsp;&nbsp;Network Boxes</option><option value="24">&nbsp;&nbsp;Router</option><option value="26">&nbsp;&nbsp;Switches</option><option value="12" style="font-weight:bold; color:#0c62b1">Office Equipments</option><option value="37">&nbsp;&nbsp;Access Control Systems</option><option value="36">&nbsp;&nbsp;EPABX/Intercom System</option><option value="90">&nbsp;&nbsp;Fire Alarm</option><option value="105">&nbsp;&nbsp;Projector</option><option value="35">&nbsp;&nbsp;Scanners</option><option value="79">&nbsp;&nbsp;Telephone</option><option value="39">&nbsp;&nbsp;UPS/Inverter</option><option value="107">&nbsp;&nbsp;Video Door Phone</option><option value="95" style="font-weight:bold; color:#0c62b1">Point of Sale(POS) Equipment</option><option value="109">&nbsp;&nbsp;Barcode Printer</option><option value="97">&nbsp;&nbsp;Barcode Scanner</option><option value="108">&nbsp;&nbsp;Cash Drawers</option><option value="100">&nbsp;&nbsp;POS Systems</option><option value="99">&nbsp;&nbsp;POS Terminal</option><option value="96">&nbsp;&nbsp;Receipt Printers</option><option value="11" style="font-weight:bold; color:#0c62b1">Printers</option><option value="34">&nbsp;&nbsp;All-in-One Printers</option><option value="31">&nbsp;&nbsp;DotMatrix Printers</option><option value="32">&nbsp;&nbsp;Inkjet/Deskjet Printers</option><option value="94">&nbsp;&nbsp;Label Printer</option><option value="33">&nbsp;&nbsp;Laser Printers</option><option value="106">&nbsp;&nbsp;Plotters &amp; Photocopier</option><option value="13" style="font-weight:bold; color:#0c62b1">Software</option><option value="41">&nbsp;&nbsp;Accounting &amp; Tax Software</option><option value="42">&nbsp;&nbsp;Antivirus</option><option value="91">&nbsp;&nbsp;Designing Software</option><option value="77">&nbsp;&nbsp;Office Software</option><option value="76">&nbsp;&nbsp;Operating System</option><option value="2" style="font-weight:bold; color:#ce4523; padding-top:10px;" disabled="">Services</option><option value="2" style="font-weight:bold">------------------------------------------------------------</option><option value="8" style="font-weight:bold; color:#0c62b1">Freight Services</option><option value="57">&nbsp;&nbsp;Air Freight Services</option><option value="58">&nbsp;&nbsp;Ocean Freight Services</option><option value="92">&nbsp;&nbsp;Others</option><option value="83" style="font-weight:bold; color:#0c62b1">HR Services</option><option value="86">&nbsp;&nbsp;Compensation Structuring</option><option value="85">&nbsp;&nbsp;HR Consulting</option><option value="84">&nbsp;&nbsp;HR Helpdesk</option><option value="4" style="font-weight:bold; color:#0c62b1">IT and Web</option><option value="50">&nbsp;&nbsp;IT Set-Up and Maintenance Services</option><option value="49">&nbsp;&nbsp;Printer/Photocopier Rental Services</option><option value="74" style="font-weight:bold; color:#0c62b1">Printing</option><option value="80">&nbsp;&nbsp;Brochure</option><option value="75">&nbsp;&nbsp;Flyer (Pamphlet)</option><option value="81">&nbsp;&nbsp;Others</option><option value="87" style="font-weight:bold; color:#0c62b1">Professional Services</option><option value="89">&nbsp;&nbsp;Company Incorporation Services</option><option value="93">&nbsp;&nbsp;ISO Registration</option><option value="88">&nbsp;&nbsp;Trademark Registration Services</option>      </select>
       </div>
       </td>
     <td width="2%"></td>
@@ -390,54 +437,78 @@ function resetDefaultText(){
 		 <div class="catagory_ddlist_box" style="margin-left:10px;">
 		       
         <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/computer.php" style="font-weight:bold;color:#0099CC">Computers</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=19">PCs</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=20">Servers</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=21">Laptops and NetBooks</a></li>
+        <li class="sub_head"><a href="computers/5.html" style="font-weight:bold;color:#0099CC">Computers</a></li>
+		          <li><a href="computers/pcs/19.html">PCs</a></li>
+		        <li><a href="computers/servers/20.html">Servers</a></li>
+		        <li><a href="computers/laptops-and-netbooks/21.html">Laptops and NetBooks</a></li>
 		        </ol>
        
            
         <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/networking-equipments.php" style="font-weight:bold;color:#0099CC">Networking Equipments</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=24">Router/Switches</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=25">Network Boxes</a></li>
+        <li class="sub_head"><a href="networking-equipments/9.html" style="font-weight:bold;color:#0099CC">Networking Equipments</a></li>
+		          <li><a href="networking-equipments/router/24.html">Router</a></li>
+		        <li><a href="networking-equipments/network-boxes/25.html">Network Boxes</a></li>
+		        <li><a href="networking-equipments/switches/26.html">Switches</a></li>
 		        </ol>
        
            
         <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/printer.php" style="font-weight:bold;color:#0099CC">Printers</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=31">DotMatrix Printers</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=32">Inkjet/Deskjet Printers</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=33">Laser Printers</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=34">All-in-One/Multi-functional Printers</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        </ol>
-       
-           
-        <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/office-equipments.php" style="font-weight:bold;color:#0099CC">Office Equipments</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=35">Scanners</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=36">EPABX/Intercom System</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=37">Access Control &amp; Security Systems</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=39">UPS/Inverter</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=78">CCTv Systems</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=79">Telephone</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=90">Fire Alarm</a></li>
+        <li class="sub_head"><a href="printers/11.html" style="font-weight:bold;color:#0099CC">Printers</a></li>
+		          <li><a href="printers/dotmatrix-printers/31.html">DotMatrix Printers</a></li>
+		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="printers/inkjetdeskjet-printers/32.html">Inkjet/Deskjet Printers</a></li>
+		        <li><a href="printers/laser-printers/33.html">Laser Printers</a></li>
+		        <li><a href="printers/all-in-one-printers/34.html">All-in-One Printers</a></li>
+		        <li><a href="printers/label-printer/94.html">Label Printer</a></li>
+		        <li><a href="printers/plotters-amp-photocopier/106.html">Plotters &amp; Photocopier</a></li>
 		        </ol>
        
            
         <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/software.php" style="font-weight:bold;color:#0099CC">Software</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=41">Accounting &amp; Tax Software</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=42">Antivirus</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=76">Operating System</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=77">Office Software</a></li>
+        <li class="sub_head"><a href="office-equipments/12.html" style="font-weight:bold;color:#0099CC">Office Equipments</a></li>
+		          <li><a href="office-equipments/scanners/35.html">Scanners</a></li>
+		        <li><a href="office-equipments/epabxintercom-system/36.html">EPABX/Intercom System</a></li>
+		        <li><a href="office-equipments/access-control-systems/37.html">Access Control Systems</a></li>
+		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="office-equipments/upsinverter/39.html">UPS/Inverter</a></li>
+		        <li><a href="office-equipments/telephone/79.html">Telephone</a></li>
+		        <li><a href="office-equipments/fire-alarm/90.html">Fire Alarm</a></li>
+		        <li><a href="office-equipments/projector/105.html">Projector</a></li>
+		        <li><a href="office-equipments/video-door-phone/107.html">Video Door Phone</a></li>
 		        </ol>
        
            
         <ol>
-        <li class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">Monitors</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=73">LED monitors</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=82">TFT Monitors</a></li>
+        <li class="sub_head"><a href="software/13.html" style="font-weight:bold;color:#0099CC">Software</a></li>
+		          <li><a href="software/accounting-amp-tax-software/41.html">Accounting &amp; Tax Software</a></li>
+		        <li><a href="software/antivirus/42.html">Antivirus</a></li>
+		        <li><a href="software/operating-system/76.html">Operating System</a></li>
+		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="software/office-software/77.html">Office Software</a></li>
+		        <li><a href="software/designing-software/91.html">Designing Software</a></li>
+		        </ol>
+       
+           
+        <ol>
+        <li class="sub_head"><a href="monitors/72.html" style="font-weight:bold;color:#0099CC">Monitors</a></li>
+		          <li><a href="monitors/led-monitors/73.html">LED monitors</a></li>
+		        <li><a href="monitors/tft-monitors/82.html">TFT Monitors</a></li>
+		        </ol>
+       
+           
+        <ol>
+        <li class="sub_head"><a href="point-of-salepos-equipment/95.html" style="font-weight:bold;color:#0099CC">Point of Sale(POS) Equipment</a></li>
+		          <li><a href="point-of-salepos-equipment/receipt-printers/96.html">Receipt Printers</a></li>
+		        <li><a href="point-of-salepos-equipment/barcode-scanner/97.html">Barcode Scanner</a></li>
+		        <li><a href="point-of-salepos-equipment/pos-terminal/99.html">POS Terminal</a></li>
+		        <li><a href="point-of-salepos-equipment/pos-systems/100.html">POS Systems</a></li>
+		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="point-of-salepos-equipment/cash-drawers/108.html">Cash Drawers</a></li>
+		        <li><a href="point-of-salepos-equipment/barcode-printer/109.html">Barcode Printer</a></li>
+		        </ol>
+       
+           
+        <ol>
+        <li class="sub_head"><a href="cctv-surveillance/101.html" style="font-weight:bold;color:#0099CC">CCTv Surveillance</a></li>
+		          <li><a href="cctv-surveillance/cctv-systems/102.html">CCTv Systems</a></li>
+		        <li><a href="cctv-surveillance/cctv-cameras/103.html">CCTv Cameras</a></li>
+		        <li><a href="cctv-surveillance/digital-video-recorder-dvr/104.html">Digital Video Recorder (DVR)</a></li>
 		        </ol>
        
     	 </div>
@@ -448,38 +519,38 @@ function resetDefaultText(){
         <div class="clear"></div>
      <div class="catagory_ddlist_box">
 		        <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">IT and Web</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=49">Printer/Photocopier Rental Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=50">IT Set-Up and Maintenance Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=51">Website Design and Maintenance Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=52">SEO and Digital Marketing Services</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        </ol>
-       
-            <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">Freight Services</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=57">Air Freight Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=58">Ocean Freight Services</a></li>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="it-and-web/4.html" style="font-weight:bold;color:#0099CC">IT and Web</a></li>
+		          <li><a href="it-and-web/printerphotocopier-rental-services/49.html">Printer/Photocopier Rental Services</a></li>
+		        <li><a href="it-and-web/it-set-up-and-maintenance-services/50.html">IT Set-Up and Maintenance Services</a></li>
 		        </ol>
        
             <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">Printing</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=75">Flyer (Pamphlet)</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=80">Brochure</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=81">Others</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        </ol>
-       
-            <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">HR Services</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=84">HR Helpdesk</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=85">HR Consulting</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=86">Compensation Structuring</a></li>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="freight-services/8.html" style="font-weight:bold;color:#0099CC">Freight Services</a></li>
+		          <li><a href="freight-services/air-freight-services/57.html">Air Freight Services</a></li>
+		</ol></div><div class="catagory_ddlist_box" style="margin-left:0px;"><ol>        <li><a href="freight-services/ocean-freight-services/58.html">Ocean Freight Services</a></li>
+		        <li><a href="freight-services/others/92.html">Others</a></li>
 		        </ol>
        
             <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">Professional Services</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=88">Trademark Registration Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=89">Company Incorporation Services</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        </ol>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="printing/74.html" style="font-weight:bold;color:#0099CC">Printing</a></li>
+		          <li><a href="printing/flyer-pamphlet/75.html">Flyer (Pamphlet)</a></li>
+		        <li><a href="printing/brochure/80.html">Brochure</a></li>
+		</ol></div><div class="catagory_ddlist_box" style="margin-left:0px;"><ol>        <li><a href="printing/others/81.html">Others</a></li>
+		        </ol>
+       
+            <ol>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="hr-services/83.html" style="font-weight:bold;color:#0099CC">HR Services</a></li>
+		          <li><a href="hr-services/hr-helpdesk/84.html">HR Helpdesk</a></li>
+		        <li><a href="hr-services/hr-consulting/85.html">HR Consulting</a></li>
+		        <li><a href="hr-services/compensation-structuring/86.html">Compensation Structuring</a></li>
+		</ol></div><div class="catagory_ddlist_box" style="margin-left:0px;"><ol>        </ol>
+       
+            <ol>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="professional-services/87.html" style="font-weight:bold;color:#0099CC">Professional Services</a></li>
+		          <li><a href="professional-services/trademark-registration-services/88.html">Trademark Registration Services</a></li>
+		        <li><a href="professional-services/company-incorporation-services/89.html">Company Incorporation Services</a></li>
+		        <li><a href="professional-services/iso-registration/93.html">ISO Registration</a></li>
+		        </ol>
        
     	 </div>
         <div class="clear"></div>
@@ -513,54 +584,78 @@ function resetDefaultText(){
 		 <div class="catagory_ddlist_box">
 		       
         <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/computer.php" style="font-weight:bold;color:#0099CC">Computers</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=19">PCs</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=20">Servers</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=21">Laptops and NetBooks</a></li>
+        <li class="sub_head"><a href="computers/5.html" style="font-weight:bold;color:#0099CC">Computers</a></li>
+		          <li><a href="computers/pcs/19.html">PCs</a></li>
+		        <li><a href="computers/servers/20.html">Servers</a></li>
+		        <li><a href="computers/laptops-and-netbooks/21.html">Laptops and NetBooks</a></li>
 		        </ol>
        
            
         <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/networking-equipments.php" style="font-weight:bold;color:#0099CC">Networking Equipments</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=24">Router/Switches</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=25">Network Boxes</a></li>
+        <li class="sub_head"><a href="networking-equipments/9.html" style="font-weight:bold;color:#0099CC">Networking Equipments</a></li>
+		          <li><a href="networking-equipments/router/24.html">Router</a></li>
+		        <li><a href="networking-equipments/network-boxes/25.html">Network Boxes</a></li>
+		        <li><a href="networking-equipments/switches/26.html">Switches</a></li>
 		        </ol>
        
            
         <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/printer.php" style="font-weight:bold;color:#0099CC">Printers</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=31">DotMatrix Printers</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=32">Inkjet/Deskjet Printers</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=33">Laser Printers</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=34">All-in-One/Multi-functional Printers</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        </ol>
-       
-           
-        <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/office-equipments.php" style="font-weight:bold;color:#0099CC">Office Equipments</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=35">Scanners</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=36">EPABX/Intercom System</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=37">Access Control &amp; Security Systems</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=39">UPS/Inverter</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=78">CCTv Systems</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=79">Telephone</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=90">Fire Alarm</a></li>
+        <li class="sub_head"><a href="printers/11.html" style="font-weight:bold;color:#0099CC">Printers</a></li>
+		          <li><a href="printers/dotmatrix-printers/31.html">DotMatrix Printers</a></li>
+		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="printers/inkjetdeskjet-printers/32.html">Inkjet/Deskjet Printers</a></li>
+		        <li><a href="printers/laser-printers/33.html">Laser Printers</a></li>
+		        <li><a href="printers/all-in-one-printers/34.html">All-in-One Printers</a></li>
+		        <li><a href="printers/label-printer/94.html">Label Printer</a></li>
+		        <li><a href="printers/plotters-amp-photocopier/106.html">Plotters &amp; Photocopier</a></li>
 		        </ol>
        
            
         <ol>
-        <li class="sub_head"><a href="http://www.smesauda.com/software.php" style="font-weight:bold;color:#0099CC">Software</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=41">Accounting &amp; Tax Software</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=42">Antivirus</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=76">Operating System</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=77">Office Software</a></li>
+        <li class="sub_head"><a href="office-equipments/12.html" style="font-weight:bold;color:#0099CC">Office Equipments</a></li>
+		          <li><a href="office-equipments/scanners/35.html">Scanners</a></li>
+		        <li><a href="office-equipments/epabxintercom-system/36.html">EPABX/Intercom System</a></li>
+		        <li><a href="office-equipments/access-control-systems/37.html">Access Control Systems</a></li>
+		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="office-equipments/upsinverter/39.html">UPS/Inverter</a></li>
+		        <li><a href="office-equipments/telephone/79.html">Telephone</a></li>
+		        <li><a href="office-equipments/fire-alarm/90.html">Fire Alarm</a></li>
+		        <li><a href="office-equipments/projector/105.html">Projector</a></li>
+		        <li><a href="office-equipments/video-door-phone/107.html">Video Door Phone</a></li>
 		        </ol>
        
            
         <ol>
-        <li class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">Monitors</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=73">LED monitors</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=82">TFT Monitors</a></li>
+        <li class="sub_head"><a href="software/13.html" style="font-weight:bold;color:#0099CC">Software</a></li>
+		          <li><a href="software/accounting-amp-tax-software/41.html">Accounting &amp; Tax Software</a></li>
+		        <li><a href="software/antivirus/42.html">Antivirus</a></li>
+		        <li><a href="software/operating-system/76.html">Operating System</a></li>
+		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="software/office-software/77.html">Office Software</a></li>
+		        <li><a href="software/designing-software/91.html">Designing Software</a></li>
+		        </ol>
+       
+           
+        <ol>
+        <li class="sub_head"><a href="monitors/72.html" style="font-weight:bold;color:#0099CC">Monitors</a></li>
+		          <li><a href="monitors/led-monitors/73.html">LED monitors</a></li>
+		        <li><a href="monitors/tft-monitors/82.html">TFT Monitors</a></li>
+		        </ol>
+       
+           
+        <ol>
+        <li class="sub_head"><a href="point-of-salepos-equipment/95.html" style="font-weight:bold;color:#0099CC">Point of Sale(POS) Equipment</a></li>
+		          <li><a href="point-of-salepos-equipment/receipt-printers/96.html">Receipt Printers</a></li>
+		        <li><a href="point-of-salepos-equipment/barcode-scanner/97.html">Barcode Scanner</a></li>
+		        <li><a href="point-of-salepos-equipment/pos-terminal/99.html">POS Terminal</a></li>
+		        <li><a href="point-of-salepos-equipment/pos-systems/100.html">POS Systems</a></li>
+		</ol></div><div class="catagory_ddlist_box"><ol>        <li><a href="point-of-salepos-equipment/cash-drawers/108.html">Cash Drawers</a></li>
+		        <li><a href="point-of-salepos-equipment/barcode-printer/109.html">Barcode Printer</a></li>
+		        </ol>
+       
+           
+        <ol>
+        <li class="sub_head"><a href="cctv-surveillance/101.html" style="font-weight:bold;color:#0099CC">CCTv Surveillance</a></li>
+		          <li><a href="cctv-surveillance/cctv-systems/102.html">CCTv Systems</a></li>
+		        <li><a href="cctv-surveillance/cctv-cameras/103.html">CCTv Cameras</a></li>
+		        <li><a href="cctv-surveillance/digital-video-recorder-dvr/104.html">Digital Video Recorder (DVR)</a></li>
 		        </ol>
        
     	 </div>
@@ -571,38 +666,38 @@ function resetDefaultText(){
         <div class="clear"></div>
      <div class="catagory_ddlist_box">
 		        <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">IT and Web</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=49">Printer/Photocopier Rental Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=50">IT Set-Up and Maintenance Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=51">Website Design and Maintenance Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=52">SEO and Digital Marketing Services</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        </ol>
-       
-            <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">Freight Services</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=57">Air Freight Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=58">Ocean Freight Services</a></li>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="it-and-web/4.html" style="font-weight:bold;color:#0099CC">IT and Web</a></li>
+		          <li><a href="it-and-web/printerphotocopier-rental-services/49.html">Printer/Photocopier Rental Services</a></li>
+		        <li><a href="it-and-web/it-set-up-and-maintenance-services/50.html">IT Set-Up and Maintenance Services</a></li>
 		        </ol>
        
             <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">Printing</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=75">Flyer (Pamphlet)</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=80">Brochure</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=81">Others</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        </ol>
-       
-            <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">HR Services</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=84">HR Helpdesk</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=85">HR Consulting</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=86">Compensation Structuring</a></li>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="freight-services/8.html" style="font-weight:bold;color:#0099CC">Freight Services</a></li>
+		          <li><a href="freight-services/air-freight-services/57.html">Air Freight Services</a></li>
+		</ol></div><div class="catagory_ddlist_box" style="margin-left:0px;"><ol>        <li><a href="freight-services/ocean-freight-services/58.html">Ocean Freight Services</a></li>
+		        <li><a href="freight-services/others/92.html">Others</a></li>
 		        </ol>
        
             <ol>
-        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="javascript:void(0)" style="font-weight:bold;color:#0099CC">Professional Services</a></li>
-		          <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=88">Trademark Registration Services</a></li>
-		        <li><a href="deal-search.php?search=Search For Deals&amp;&amp;category=89">Company Incorporation Services</a></li>
-		</ol></div><div class="catagory_ddlist_box"><ol>        </ol>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="printing/74.html" style="font-weight:bold;color:#0099CC">Printing</a></li>
+		          <li><a href="printing/flyer-pamphlet/75.html">Flyer (Pamphlet)</a></li>
+		        <li><a href="printing/brochure/80.html">Brochure</a></li>
+		</ol></div><div class="catagory_ddlist_box" style="margin-left:0px;"><ol>        <li><a href="printing/others/81.html">Others</a></li>
+		        </ol>
+       
+            <ol>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="hr-services/83.html" style="font-weight:bold;color:#0099CC">HR Services</a></li>
+		          <li><a href="hr-services/hr-helpdesk/84.html">HR Helpdesk</a></li>
+		        <li><a href="hr-services/hr-consulting/85.html">HR Consulting</a></li>
+		        <li><a href="hr-services/compensation-structuring/86.html">Compensation Structuring</a></li>
+		</ol></div><div class="catagory_ddlist_box" style="margin-left:0px;"><ol>        </ol>
+       
+            <ol>
+        <li style="margin-left:0px; padding-left:0px;" class="sub_head"><a href="professional-services/87.html" style="font-weight:bold;color:#0099CC">Professional Services</a></li>
+		          <li><a href="professional-services/trademark-registration-services/88.html">Trademark Registration Services</a></li>
+		        <li><a href="professional-services/company-incorporation-services/89.html">Company Incorporation Services</a></li>
+		        <li><a href="professional-services/iso-registration/93.html">ISO Registration</a></li>
+		        </ol>
        
     	 </div>
         <div class="clear"></div>
@@ -628,16 +723,16 @@ function resetDefaultText(){
 
 
 <ul id="flexmenu6" class="flexdropdownmenu">
-                	<li style="list-style:none"><a href="deal-search.php?search=HCL&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>HCL</strong></a></li>
-			              	<li style="list-style:none"><a href="deal-search.php?search=Samsung&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Samsung</strong></a></li>
+                	<li style="list-style:none"><a href="deal-search.php?search=Samsung&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Samsung</strong></a></li>
 			              	<li style="list-style:none"><a href="deal-search.php?search=Panasonic&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Panasonic</strong></a></li>
-			              	<li style="list-style:none"><a href="deal-search.php?search=Unicom&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Unicom</strong></a></li>
 			              	<li style="list-style:none"><a href="deal-search.php?search=Epson&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Epson</strong></a></li>
-			              	<li style="list-style:none"><a href="deal-search.php?search=Matrix&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Matrix</strong></a></li>
-			              	<li style="list-style:none"><a href="deal-search.php?search=IBM&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>IBM</strong></a></li>
-			              	<li style="list-style:none"><a href="deal-search.php?search=Microsoft&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Microsoft</strong></a></li>
 			              	<li style="list-style:none"><a href="deal-search.php?search=HP&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>HP</strong></a></li>
 			              	<li style="list-style:none"><a href="deal-search.php?search=Microtek&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Microtek</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Dell&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Dell</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Lenovo&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Lenovo</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Zicom&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Zicom</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Symantec&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Symantec</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Smesauda Service Deals&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Smesauda Service Deals</strong></a></li>
 			 <!--	<li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>HCL</strong></a> </li>
 	<li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Samsung</strong></a></li>
     <li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Panasonic</strong></a></li>
@@ -665,21 +760,47 @@ function resetDefaultText(){
 	<li style="list-style:none"><a href="article-category/finance-accounting/4.html" style="text-decoration:none; font-weight:bold; color:#105fa4;">Finance &amp; Accounting</a></li>
 <li style="list-style:none"><a href="article-category/it-web/15.html" style="text-decoration:none; font-weight:bold; color:#105fa4;">IT &amp; Web</a></li>
 <li style="list-style:none"><a href="article-category/sales-marketing/16.html" style="text-decoration:none; font-weight:bold; color:#105fa4;">Sales &amp; Marketing</a></li>
+<li style="list-style:none"><a href="article-category/general-management/17.html" style="text-decoration:none; font-weight:bold; color:#105fa4;">General Management</a></li>
 <li style="list-style:none"><a href="article-category/human-resources/18.html" style="text-decoration:none; font-weight:bold; color:#105fa4;">Human Resources</a></li>
 <li style="list-style:none"><a href="article-category/biz-law/65.html" style="text-decoration:none; font-weight:bold; color:#105fa4;">Biz Law</a></li>
 <li style="list-style:none"><a href="article-category/buying-guide/67.html" style="text-decoration:none; font-weight:bold; color:#105fa4;">Buying Guide</a></li>
 </ul>
 
 
-
+<ul id="flexmenu6" class="flexdropdownmenu">
+                	<li style="list-style:none"><a href="deal-search.php?search=Samsung&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Samsung</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Panasonic&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Panasonic</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Epson&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Epson</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=HP&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>HP</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Microtek&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Microtek</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Dell&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Dell</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Lenovo&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Lenovo</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Zicom&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Zicom</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Symantec&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Symantec</strong></a></li>
+			              	<li style="list-style:none"><a href="deal-search.php?search=Smesauda Service Deals&amp;category=Category" style="color:#105fa4; text-decoration:none;"><strong>Smesauda Service Deals</strong></a></li>
+			 <!--	<li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>HCL</strong></a> </li>
+	<li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Samsung</strong></a></li>
+    <li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Panasonic</strong></a></li>
+    <li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Unicom</strong></a></li>
+    <li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Epson</strong></a></li>
+    <li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Matrix</strong></a></li>
+    <li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>IBM</strong></a></li>
+	<li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Microsoft</strong></a></li>
+    <li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>HP</strong></a></li>
+    <li style="list-style:none"><a href="#" style="color:#105fa4; text-decoration:none;"><strong>Microtek</strong></a></li>-->
+</ul>
 
 <div class="menu">
 <ul>
 <li><a href="deals.php" data-flexmenu="flexmenu3"><span>BROWSE BY CATEGORY</span></a></li>
-    <li><a href="/deals.php"><span>New DEALS</span></a></li>
     
-      <li><a href="/past-deal.php"><span>PAST DEALS </span></a></li> 
-    
+	<li><a href="/hot_deals.php"><span>Hot Deals</span></a></li>
+	
+	<li><a href="/deals.php"><span>New DEALS</span></a></li>
+        <li><a href="javascript:void(0)" data-flexmenu="flexmenu6"><span>Popular Brands</span></a></li> 
+
+<!--      <li><a href="/past-deal.php"><span>PAST DEALS </span></a></li> 
+-->    
     <li><a href="/request-deal.php" class="tm"><span><span style="margin:0; margin-top:-6px\0/; *margin-top:-2px; padding:0; background:none;">REQUEST FOR DEAL  (RFD)<sup>TM</sup></span></span></a></li>
     
     <li><a href="/how-it-works.php" data-flexmenu="flexmenu1"><span>how it works</span></a></li>
@@ -696,14 +817,14 @@ function resetDefaultText(){
 </div>
 
 <!-- popup -->
-<div id="blanket" style="display: none;  background-color:none;"></div>
+<!--<div id="blanket" style="display: none;  background-color:none;"></div>
 <div style="width:475px; margin:0 auto; position:relative; z-index:11111;">
   <div id="popUpDiv" style="display: none; height: 234px; width:475px; top:25px; background:url(images/get-free-popup.png) top center no-repeat; margin:0 auto; z-index:99999 !important; position:absolute">
-    <div style="width:29px; height:29px; float:right; margin-top:17px; margin-right:17px;"><a onclick="popup('popUpDiv')" style="cursor:pointer"><img src="images/close-btn.png"></a></div>
-    <div style="width:236px; height:65px; padding-left:115px; padding-top:110px;"><a href="register.php"><img src="images/register-now-btn.png"></a></div>
-    <div style="text-align:center; padding-top:10px;"><a href="terms-conditions.php" target="_blank" style="color:#a5d9f5">Terms &amp; Conditions</a></div>
+    <div style="width:29px; height:29px; float:right; margin-top:17px; margin-right:17px;"><a onclick="popup('popUpDiv')" style="cursor:pointer"><img src="images/close-btn.png" /></a></div>
+    <div style="width:236px; height:65px; padding-left:115px; padding-top:110px;"><a href="register.php"><img src="images/register-now-btn.png" /></a></div>
+    <div style="text-align:center; padding-top:10px;"><a href="terms-conditions.php" target="_blank" style="color:#a5d9f5">Terms & Conditions</a></div>
   </div>
-</div>
+</div>-->
 <!-- //popup -->
 
 
@@ -719,20 +840,20 @@ function resetDefaultText(){
      
 		   <p>
           <label for="category">Category (Choose one or more)</label>
-          <select name="category" multiple="multiple" style="width:200px; height:100px; background-image:url(images/new-frm.gif); background-repeat:repeat-x; border:none; border: 1px solid #bdc7d0;color:#8f8f8f; font-size:11px;"><option value="4">IT and Web</option><option value="5">Computers</option><option value="6">Staffing</option><option value="7">Telecommunication</option><option value="8">Freight Services</option><option value="9">Networking Equipments</option><option value="11">Printers</option><option value="12">Office Equipments</option><option value="13">Software</option><option value="16">Advertising &amp; PR</option><option value="17">Accounting &amp; Finance</option><option value="18">Other</option><option value="72">Monitors</option><option value="74">Printing</option><option value="83">HR Services</option><option value="87">Professional Services</option></select>
+          <select name="category" multiple="multiple" style="width:200px; height:100px; background-image:url(images/new-frm.gif); background-repeat:repeat-x; border:none; border: 1px solid #bdc7d0;color:#8f8f8f; font-size:11px;"><option value="4">IT and Web</option><option value="5">Computers</option><option value="6">Staffing</option><option value="7">Telecommunication</option><option value="8">Freight Services</option><option value="9">Networking Equipments</option><option value="11">Printers</option><option value="12">Office Equipments</option><option value="13">Software</option><option value="16">Advertising &amp; PR</option><option value="17">Accounting &amp; Finance</option><option value="18">Other</option><option value="72">Monitors</option><option value="74">Printing</option><option value="83">HR Services</option><option value="87">Professional Services</option><option value="95">Point of Sale(POS) Equipment</option><option value="101">CCTv Surveillance</option></select>
         </p>
 		   <p>
           <label for="location">Location</label>
 		<select name="location" style="width:200px; height:21px; background-image:url(images/new-frm.gif); background-repeat:repeat-x; border:none; border: 1px solid #bdc7d0;color:#8f8f8f; font-size:11px;">
 			<option value="">Select</option>
-			<option value="1" style="font-weight:bold">Delhi</option><option value="6">&nbsp;&nbsp;Central Delhi</option><option value="5">&nbsp;&nbsp;East Delhi</option><option value="3">&nbsp;&nbsp;North Delhi</option><option value="2">&nbsp;&nbsp;South Delhi</option><option value="4">&nbsp;&nbsp;West Delhi</option><option value="11" style="font-weight:bold">Uttar Pradesh</option><option value="17">&nbsp;&nbsp;Ghaziabad</option><option value="16">&nbsp;&nbsp;Greater Noida</option><option value="15">&nbsp;&nbsp;Noida</option><option value="12" style="font-weight:bold">Haryana</option><option value="14">&nbsp;&nbsp;Faridabad</option><option value="13">&nbsp;&nbsp;Gurgaon</option>			</select>
-		</p><p>
-			 <label for="frequency">Frequency</label>
-          Daily&nbsp;<input id="frequency" name="frequency" type="radio" checked="" value="1">&nbsp;&nbsp;Weekly&nbsp;<input id="frequency" name="frequency" type="radio" value="2">
+			<option value="1" style="font-weight:bold">Delhi</option><option value="6">&nbsp;&nbsp;Central Delhi</option><option value="5">&nbsp;&nbsp;East Delhi</option><option value="3">&nbsp;&nbsp;North Delhi</option><option value="2">&nbsp;&nbsp;South Delhi</option><option value="4">&nbsp;&nbsp;West Delhi</option><option value="11" style="font-weight:bold">Uttar Pradesh</option><option value="17">&nbsp;&nbsp;Ghaziabad</option><option value="16">&nbsp;&nbsp;Greater Noida</option><option value="15">&nbsp;&nbsp;Noida</option><option value="12" style="font-weight:bold">Haryana</option><option value="14">&nbsp;&nbsp;Faridabad</option><option value="13">&nbsp;&nbsp;Gurgaon</option><option value="25" style="font-weight:bold">Tamil Nadu</option><option value="26">&nbsp;&nbsp;Chennai</option>			</select>
+		</p>
+	   <p>
+		Subscribe&nbsp;<input id="subscribe" name="subscribe" type="radio" checked="" value="1">&nbsp;&nbsp;Unsubscribe&nbsp;<input id="subscribe" name="subscribe" type="radio" value="2">
         
        </p>
       
-            <input id="submit" name="submit" type="button" value="Subscribe" style="background:#40a0d0; border:1px solid #25769f; color:#fff; font-weight:bold;" onclick="runAjax(email.value,category,location.value,frequency.value);">
+            <input id="submit" name="submit" type="button" style="background-image:url(images/submit-btns.jpg); border:none; height:22px; width:79px" onclick="runAjax(email.value,category,location.value,subscribe.value);">
 			      </form>
   </fieldset>
  </div>
@@ -753,6 +874,17 @@ function resetDefaultText(){
 <a href="add_merchant.php"><img src="images/for-merchant-btn.png" style="margin-top:5px;"></a>
 </fieldset>
  </div>
+ 
+ <!-- popup -->
+<div id="blanket" style="display: none;  background-color:none;"></div>
+<div style="width:475px; margin:0 auto; position:relative; z-index:11111;">
+  <div id="popUpDiv" style="display: none; height: 234px; width:475px; top:25px; background:url(images/smesauda-gives-businesses.png) top center no-repeat; margin:0 auto; z-index:99999 !important; position:absolute">
+    <div style="width:29px; height:29px; float:right; margin-top:17px; margin-right:17px;"><a onclick="popup('popUpDiv')" style="cursor:pointer"><img src="images/close-btn.png"></a></div>
+    <div style="width:344px; height:53px; padding-left:60px; padding-top:150px;"><a href="register.php"><img src="images/register-free.png"></a></div>
+    <div style="text-align:center; padding-top:10px;"></div>
+  </div>
+</div>
+<!-- //popup -->
  <!--main-div-start-->
 <div class="main">
 <!--header-wraper-start-->
@@ -788,15 +920,15 @@ function resetDefaultText(){
 
 
 <div style="width:235px; margin-left:13px; border-bottom:1px dashed #cccccc; padding-bottom:10px;">
-<div style="float:left; margin-right:10px; margin-top:10px;"><img src="http://www.smesauda.com/images/deal/small/373414118_PIXMAMX426.jpg"></div><a href="deals/rs-405-off-on-canon-pixma-mx426-all-in-one/140.html"><u>Rs 405 Off on Canon PIXMA MX426 All-In-One (Print, Copy, Scan) Printer.  Get 4 GB Kingston Pen Drive worth Rs 500 FREE!</u></a>
+<div style="float:left; margin-right:10px; margin-top:10px;"><img src="http://www.smesauda.com/images/deal/small/1631366001_MatrixVision309PEPABX.jpg"></div><a href="deals/12-off-on-matrix-vision-309p-epabx-with-caller-id/116.html"><u>12 % Off on Matrix Vision 309P EPABX With CALLER ID. EPABX With 3 Lines/9 Extensions with Premium Features. Tax Paid Price.</u></a>
 
 <br><br>
-You Pay: <img src="images/inr_symbol.jpg"> 7,990  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail:   <img src="images/inr_symbol.jpg"> 8,395 
+You Pay: <img src="images/inr_symbol.jpg"> 10,600  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail:   <img src="images/inr_symbol.jpg"> 12,075 
 <br>
-Time Remaining: 36 Hours
+Time Remaining: 216 Hours
 <br>
 
-<div style="text-align:right"><a href="deals/rs-405-off-on-canon-pixma-mx426-all-in-one/140.html">view this deal</a></div> 
+<div style="text-align:right"><a href="deals/12-off-on-matrix-vision-309p-epabx-with-caller-id/116.html">view this deal</a></div> 
 
 
 
@@ -805,15 +937,15 @@ Time Remaining: 36 Hours
 
 </div>
 <div style="width:235px; margin-left:13px; border-bottom:1px dashed #cccccc; padding-bottom:10px;">
-<div style="float:left; margin-right:10px; margin-top:10px;"><img src="http://www.smesauda.com/images/deal/small/966575350_HPNotebookdv6-6165tx(BronzeMetal).jpg"></div><a href="deals/flat-rs7149-off-on-hp-notebook-dv6-6165tx-bronze-metal/252.html"><u>Flat Rs.7149/- OFF on HP Notebook dv6-6165tx (Bronze Metal) with Intel 2nd Gen Core i7 Processor, 4GB DDR3 RAM, 2GB Graphic Card, Free Win 7 Home Premium.</u></a>
+<div style="float:left; margin-right:10px; margin-top:10px;"><img src="http://www.smesauda.com/images/deal/small/141585734_MatrixProton308EPABX.jpg"></div><a href="deals/10-off-on-matrix-proton-308-epabx-without-caller-id/112.html"><u>10 % Off on Matrix Proton 308 EPABX without Caller ID. PBX With 3 Lines And 8 Extensions. Tax Included Price</u></a>
 
 <br><br>
-You Pay: <img src="images/inr_symbol.jpg"> 56,850  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail:   <img src="images/inr_symbol.jpg"> 63,999 
+You Pay: <img src="images/inr_symbol.jpg"> 6,750  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail:   <img src="images/inr_symbol.jpg"> 7,500 
 <br>
-Time Remaining: 36 Hours
+Time Remaining: 216 Hours
 <br>
 
-<div style="text-align:right"><a href="deals/flat-rs7149-off-on-hp-notebook-dv6-6165tx-bronze-metal/252.html">view this deal</a></div> 
+<div style="text-align:right"><a href="deals/10-off-on-matrix-proton-308-epabx-without-caller-id/112.html">view this deal</a></div> 
 
 
 
@@ -822,15 +954,15 @@ Time Remaining: 36 Hours
 
 </div>
 <div style="width:235px; margin-left:13px; border-bottom:1px dashed #cccccc; padding-bottom:10px;">
-<div style="float:left; margin-right:10px; margin-top:10px;"><img src="http://www.smesauda.com/images/deal/small/482190505_compaq.jpg"></div><a href="deals/rs-4951-off-on-compaq-cq3551ix-desktop-with-core-i3/264.html"><u>Rs. 4951/- OFF on Compaq CQ3551IX Desktop with Core I3 Processor, 2GB DDR3 RAM and Free DOS.</u></a>
+<div style="float:left; margin-right:10px; margin-top:10px;"><img src="http://www.smesauda.com/images/deal/small/598057840_lock_with_tm_symbol-522x330.jpg"></div><a href="deals/get-a-trademarklogo-registered-only-for-rs-6000-with-the/289.html"><u>Get a Trademark/Logo registered only for Rs. 6000/- with the Registrar of Trademarks.</u></a>
 
 <br><br>
-You Pay: <img src="images/inr_symbol.jpg"> 21,250  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail:   <img src="images/inr_symbol.jpg"> 26,201 
+You Pay: <img src="images/inr_symbol.jpg"> 6,000  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail:   <img src="images/inr_symbol.jpg"> 10,000 
 <br>
-Time Remaining: 36 Hours
+Time Remaining: 240 Hours
 <br>
 
-<div style="text-align:right"><a href="deals/rs-4951-off-on-compaq-cq3551ix-desktop-with-core-i3/264.html">view this deal</a></div> 
+<div style="text-align:right"><a href="deals/get-a-trademarklogo-registered-only-for-rs-6000-with-the/289.html">view this deal</a></div> 
 
 
 
@@ -839,15 +971,15 @@ Time Remaining: 36 Hours
 
 </div>
 <div style="width:235px; margin-left:13px; border-bottom:1px dashed #cccccc; padding-bottom:10px;">
-<div style="float:left; margin-right:10px; margin-top:10px;"><img src="http://www.smesauda.com/images/deal/small/643592230_HRServices.jpg"></div><a href="deals/get-your-own-professionally-run-hr-helpdesk-to-handle-administrative/283.html"><u>Get your own professionally run HR helpdesk to handle administrative HR functions for monthly charges of <del>Rs 15000</del> Rs 11000 only. Ideal for startups and growing SMEs!</u></a>
+<div style="float:left; margin-right:10px; margin-top:10px;"><img src="http://www.smesauda.com/images/deal/small/1839462976_TVS-EPT262POSTerminals.jpg"></div><a href="deals/flat-rs-3490-off-on-tvs-e-pt-262-pos/511.html"><u>Flat Rs. 3490/- OFF on TVS-E PT 262 POS Terminals</u></a>
 
 <br><br>
-You Pay: <img src="images/inr_symbol.jpg"> 11,000  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail:   <img src="images/inr_symbol.jpg"> 15,000 
+You Pay: <img src="images/inr_symbol.jpg"> 11,500  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail:   <img src="images/inr_symbol.jpg"> 14,990 
 <br>
-Time Remaining: 420 Hours
+Time Remaining: 240 Hours
 <br>
 
-<div style="text-align:right"><a href="deals/get-your-own-professionally-run-hr-helpdesk-to-handle-administrative/283.html">view this deal</a></div> 
+<div style="text-align:right"><a href="deals/flat-rs-3490-off-on-tvs-e-pt-262-pos/511.html">view this deal</a></div> 
 
 
 
@@ -887,12 +1019,12 @@ Time Remaining: 420 Hours
 <div class="clear"></div>
 
 <div style="width:235px; margin-left:13px; border-bottom:1px dashed #cccccc; padding-bottom:10px;">
-<img src="image_prv.php?image=http://www.smesauda.com/images/member/1643555140_Arvind.JPG&amp;W=60&amp;H=45" align="left" style="margin:0 10px 5px 0; border:1px solid #e1e1e1; padding:2px;"><a href="articles/popular-laptops-models-in-smesauda/22.html">Popular Laptops Models in Smesauda...more</a><br>
+<img src="image_prv.php?image=http://www.smesauda.com/images/member/354563363_CopyofDSC00105.JPG&amp;W=60&amp;H=45" align="left" style="margin:0 10px 5px 0; border:1px solid #e1e1e1; padding:2px;"><a href="articles/an-end-user-guide-to-buying-an-online-ups/45.html">An End User Guide to Buying an Online UPS...more</a><br>
 </div>
 <br>
 
 <div style="width:235px; margin-left:13px; border-bottom:1px dashed #cccccc; padding-bottom:10px;">
-<img src="image_prv.php?image=http://www.smesauda.com/images/member/354563363_CopyofDSC00105.JPG&amp;W=60&amp;H=45" align="left" style="margin:0 10px 5px 0; border:1px solid #e1e1e1; padding:2px;"><a href="articles/relevance-of-twitter-for-smes/17.html">Relevance of Twitter for SMEs...more</a><br>
+<img src="image_prv.php?image=http://www.smesauda.com/images/member/1643555140_Arvind.JPG&amp;W=60&amp;H=45" align="left" style="margin:0 10px 5px 0; border:1px solid #e1e1e1; padding:2px;"><a href="articles/importance-of-buying-original-software/44.html">Importance of Buying Original Software...more</a><br>
 </div>
 <br>
 
@@ -1070,6 +1202,50 @@ Time Remaining: 420 Hours
 
 <link href="css/style.css" rel="stylesheet" type="text/css">
 
+
+
+<div class="partner-footer-full">
+  <div class="partner-footer">
+    <div style="width:1020px; height:auto;">
+     <img src="images/our-partner.jpg" alt="" style="margin-bottom:10px;">
+      <div class=" jcarousel-skin-tango">
+        <div style="position: relative; display: block; margin-left:-7px;" class="jcarousel-container jcarousel-container-horizontal">
+          <div style="overflow: hidden; position: relative;" class="jcarousel-clip jcarousel-clip-horizontal">
+            <ul style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 800px;" id="mycarousel" class="jcarousel-list jcarousel-list-horizontal">
+			
+              <li><img src="images/c-logo-3.jpg" border="0"></li>
+            
+              <li><img src="images/c-logo-5.jpg" border="0"></li>
+             
+            </ul>
+          </div>
+          <div disabled="true" style="display: block;" class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal"><img src="images/next-btn.jpg"></div>
+          <div disabled="false" style="display: block;" class="jcarousel-next jcarousel-next-horizontal"><img src="images/prev-btn.jpg"></div>
+        </div>
+      </div>
+     <script type="text/javascript" src="js/jquery_0021.js"></script>
+      <link rel="stylesheet" type="text/css" href="css/skin.css">
+      <script type="text/javascript">
+						jQuery(document).ready(function() {
+							jQuery('#mycarousel').jcarousel();
+						});
+    					</script>
+    </div>
+  </div>
+</div>
+
+
+<!-- bot -->
+<div class="bot-panel">
+	<div class="bot-panel-body">
+    <marquee onmouseover="this.stop();" onmouseout="this.start();">
+Smesauda deals in Computers, Networking Equipments, Printers, Office Equipments, Monitors, Software, IT and Web, Freight services, Printing, HR services and Professional services
+</marquee>
+    </div>
+</div>
+<!-- //bot -->
+
+
 <div class="footer-full">
 
 <div class="footer">
@@ -1078,124 +1254,237 @@ Time Remaining: 420 Hours
   
   <table width="100%" border="0" cellpadding="2" cellspacing="0">
   <tbody><tr>
-    <td height="5" colspan="6"></td>
-    <td height="5" align="left" bgcolor="#02365d"></td>
+    <td height="5" colspan="4"></td>
+    <td width="25%" height="5" align="left"></td>
   </tr>
   <tr>
-    <td width="15%" height="24" style="border-bottom: 1PX solid #2a6a99;"><strong style="font-size:16px; color:#bfe4ff;">Our Company</strong></td>
-    <td width="2%">&nbsp;</td>
-    <td width="14%" style="border-bottom: 1PX solid #2a6a99;"><strong style="font-size:16px; color:#bfe4ff;">Learn More</strong></td>
-    <td width="2%">&nbsp;</td>
-    <td width="41%" style="border-bottom: 1PX solid #2a6a99;"><strong style="font-size:16px; color:#bfe4ff;">Follow Us</strong></td>
-    <td width="1%">&nbsp;</td>
-    <td width="25%" align="left" bgcolor="#02365d"><img src="images/newsletter-signup.jpg" width="150" height="18" style="margin-left:12px;"></td>
+    <td colspan="5" style="font-size:11px; color:#89b7d9;"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-bottom:1px solid #2a6a99; padding-bottom:10px;">
+      <tbody><tr>
+        <td align="left" valign="top">
+        <div class="footer-box" style="width:165px;">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td align="left" valign="top"><h6>Products</h6></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">
+            <ul class="footer-menu">
+			              <li><a href="deal-search.php?search=Search For Deals&amp;category=19">PCs</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=20">Servers</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=21">Laptops and NetBooks</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=24">Router</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=25">Network Boxes</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=26">Switches</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=31">DotMatrix Printers</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=32">Inkjet/Deskjet Printers</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=33">Laser Printers</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=34">All-in-One Printers</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=35">Scanners</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=36">EPABX/Intercom System</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=37">Access Control Systems</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=39">UPS/Inverter</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=41">Accounting &amp; Tax Software</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=42">Antivirus</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=73">LED monitors</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=76">Operating System</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=77">Office Software</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=79">Telephone</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=82">TFT Monitors</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=90">Fire Alarm</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=91">Designing Software</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=94">Label Printer</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=96">Receipt Printers</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=97">Barcode Scanner</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=99">POS Terminal</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=100">POS Systems</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=102">CCTv Systems</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=103">CCTv Cameras</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=104">Digital Video Recorder (DVR)</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=105">Projector</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=106">Plotters &amp; Photocopier</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=107">Video Door Phone</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=108">Cash Drawers</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=109">Barcode Printer</a></li>
+			             <!--  <li><a href="#">Category 3</a></li>
+              <li><a href="#">Category 4</a></li>
+              <li><a href="#">Category 5</a></li>
+              <li><a href="#">Category 6</a></li>
+              <li><a href="#">Category 7</a></li>
+              <li><a href="#">Category 8</a></li>
+              <li><a href="#">Category 9</a></li>-->
+            </ul></td>
+          </tr>
+        </tbody></table>
+        </div></td>
+        <td align="left" valign="top"><div class="footer-box">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td align="left" valign="top"><h6>Services</h6></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><ul class="footer-menu">
+			                <li><a href="deal-search.php?search=Search For Deals&amp;category=49">Printer/Photocopier Rental Services</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=50">IT Set-Up and Maintenance Services</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=57">Air Freight Services</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=58">Ocean Freight Services</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=75">Flyer (Pamphlet)</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=80">Brochure</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=81">Others</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=84">HR Helpdesk</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=85">HR Consulting</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=86">Compensation Structuring</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=88">Trademark Registration Services</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=89">Company Incorporation Services</a></li>
+			               <li><a href="deal-search.php?search=Search For Deals&amp;category=93">ISO Registration</a></li>
+			                <!-- <li><a href="#">Services 1</a></li>
+                <li><a href="#">Services</a><a href="#"> 2</a></li>
+                <li><a href="#">Services 3</a></li>
+                <li><a href="#">Services 4</a></li>
+                <li><a href="#">Services 5</a></li>
+                <li><a href="#">Services 6</a></li>
+                <li><a href="#">Services 7</a></li>
+                <li><a href="#">Services 8</a></li>
+                <li><a href="#">Services 9</a></li>-->
+              </ul></td>
+            </tr>
+          </tbody></table>
+        </div></td>
+        <td align="left" valign="top"><div class="footer-box">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td align="left" valign="top"><h6> Brands</h6></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><ul class="footer-menu">
+			                  <li><a href="deal-search.php?search=HCL&amp;category=Category">HCL</a></li>
+			               <li><a href="deal-search.php?search=Samsung&amp;category=Category">Samsung</a></li>
+			               <li><a href="deal-search.php?search=Panasonic&amp;category=Category">Panasonic</a></li>
+			               <li><a href="deal-search.php?search=Epson&amp;category=Category">Epson</a></li>
+			               <li><a href="deal-search.php?search=Matrix&amp;category=Category">Matrix</a></li>
+			               <li><a href="deal-search.php?search=IBM&amp;category=Category">IBM</a></li>
+			               <li><a href="deal-search.php?search=Microsoft&amp;category=Category">Microsoft</a></li>
+			               <li><a href="deal-search.php?search=HP&amp;category=Category">HP</a></li>
+			               <li><a href="deal-search.php?search=Microtek&amp;category=Category">Microtek</a></li>
+			               <li><a href="deal-search.php?search=GE&amp;category=Category">GE</a></li>
+			               <li><a href="deal-search.php?search=Dell&amp;category=Category">Dell</a></li>
+			               <li><a href="deal-search.php?search=Brother&amp;category=Category">Brother</a></li>
+			               <li><a href="deal-search.php?search=Canon&amp;category=Category">Canon</a></li>
+			               <li><a href="deal-search.php?search=Lenovo&amp;category=Category">Lenovo</a></li>
+			               <li><a href="deal-search.php?search=Cisco&amp;category=Category">Cisco</a></li>
+			               <li><a href="deal-search.php?search=Zicom&amp;category=Category">Zicom</a></li>
+			               <li><a href="deal-search.php?search=Symantec&amp;category=Category">Symantec</a></li>
+			               <li><a href="deal-search.php?search=Beetel&amp;category=Category">Beetel</a></li>
+			               <li><a href="deal-search.php?search=Acer&amp;category=Category">Acer</a></li>
+			               <li><a href="deal-search.php?search=SONY&amp;category=Category">SONY</a></li>
+			               <li><a href="deal-search.php?search=Tally&amp;category=Category">Tally</a></li>
+			               <li><a href="deal-search.php?search=D-Link&amp;category=Category">D-Link</a></li>
+			               <li><a href="deal-search.php?search=TVS-E&amp;category=Category">TVS-E</a></li>
+			               <li><a href="deal-search.php?search=Busy&amp;category=Category">Busy</a></li>
+			               <li><a href="deal-search.php?search=Smesauda Service Deals&amp;category=Category">Smesauda Service Deals</a></li>
+			               <li><a href="deal-search.php?search=Emerson&amp;category=Category">Emerson</a></li>
+			               <li><a href="deal-search.php?search=Hitachi&amp;category=Category">Hitachi</a></li>
+			               <li><a href="deal-search.php?search=Viewsonic&amp;category=Category">Viewsonic</a></li>
+			               <li><a href="deal-search.php?search=BenQ&amp;category=Category">BenQ</a></li>
+			               <li><a href="deal-search.php?search=APC&amp;category=Category">APC</a></li>
+			               <li><a href="deal-search.php?search=Zebra&amp;category=Category">Zebra</a></li>
+			               <li><a href="deal-search.php?search=Motorola&amp;category=Category">Motorola</a></li>
+			             <!--    <li><a href="#">Brands  1</a></li>
+                <li><a href="#">Brands 2</a></li>
+                <li><a href="#">Brands 3</a></li>
+                <li><a href="#">Brands 4</a></li>
+                <li><a href="#">Brands 5</a></li>
+                <li><a href="#">Brands 6</a></li>
+                <li><a href="#">Brands 7</a></li>
+                <li><a href="#">Brands 8</a></li>
+                <li><a href="#">Brands 9</a></li>-->
+              </ul></td>
+            </tr>
+          </tbody></table>
+        </div></td>
+		
+		
+		<td align="left" valign="top"><div class="footer-box">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            
+            <tbody><tr>
+              <td align="left" valign="top"><h6 style="text-decoration:none;">Vendor</h6>
+			  <ul class="footer-menu">
+			  
+        
+               <li><a href="add_merchant.php">Sign Up</a></li>
+<li><a href="merchant-login.php">Sign In</a></li>
+<li><a href="/vendor-centre.php">Vendor Centre</a></li>
+              </ul></td>
+            </tr>
+          </tbody></table>
+        </div></td>
+		
+        <td align="left" valign="top"><div class="footer-box">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td align="left" valign="top"><h6>Others</h6></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><ul class="footer-menu">
+                <li><a href="/index.php">Home</a></li>
+                <li><a href="/about-us.php">About SmeSauda</a></li>
+                <li><a href="/contact-us.php">Contact Us</a></li>
+                <li><a href="/terms.php">Legal</a></li>
+                <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+                <li><a href="/press.php">Press</a></li>
+                <li><a href="/faq.php">FAQ</a></li>
+                <li><a href="/track-rfd.php"> RFD<sup>TM</sup> Status </a></li>
+                <li><a href="/affiliate.php">Affiliate</a></li>
+              </ul></td>
+            </tr> 
+			
+			
+          </tbody></table>
+        </div></td>
+        <td align="left" valign="top">
+		
+		<div style="background:#034476; padding:3px 10px 10px 10px; border:1px solid #2a6a99; margin-top:10px;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td align="left" valign="top"><h6>Follow Us</h6></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><p><img src="images/facebook.jpg" width="20" height="20" align="absmiddle"> <a href="http://www.facebook.com/pages/SmeSauda/397965410229297" rel="nofollow" target="_blank"> &nbsp;Facebook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/twitter.jpg" width="20" height="20" vspace="0" align="absmiddle" style="padding-top:5px; padding-bottom:5px;"> <a href="https://twitter.com/#!/smesauda" rel="nofollow" target="_blank"> &nbsp;Twitter</a></p>
+                <p style="padding-top:5px;"><img src="images/linkedin.jpg" width="20" height="20" vspace="0" align="absmiddle" style="padding-top:5px; "> <a href="http://www.linkedin.com/company/smesauda-com" rel="nofollow" target="_blank"> &nbsp;Linked in</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/blog-icon.jpg" vspace="0" align="absmiddle" style="padding-top:5px; "> <a href="blog/"> &nbsp;Blog</a></p></td>
+            </tr>
+          </tbody></table>
+        </div>
+        <div style="margin-bottom:10px;" class="clear"></div>
+		
+		
+		<div class="footer-box">
+        
+           <img src="images/shipping-partner.jpg" alt="" style="margin-bottom:10px;">
+        
+        
+		          <div style="float:left; width:81px; height:40px; padding-left:147px; padding-top:25px; background:url(images/footer-banner-1.jpg) top left no-repeat; font-size:29px; font-weight:bold; color:#FFFFFF;">378</div>
+		 
+		
+		 <img src="images/footer-banner-2.jpg" alt="" style="margin-top:10px;">        </div>
+        <div class="clear"></div>
+		
+		
+		
+		
+		        <div class="clear"></div>
+                </td>
+      </tr>
+	  
+	 
+	  
+	  
+    </tbody></table></td>
     </tr>
   <tr>
-    <td width="15%">
-      
-      
-      <ul style="list-style:none;">
-        
-        <li> <a href="/index.php"> - Home</a></li>
-        <li><a href="/contact-us.php"> - Contact Us   </a></li>
-        <li><a href="/about-us.php"> - About SmeSauda   </a></li>
-        <li><a href="/terms.php"> - Legal</a></li>
-        <li><a href="/privacy-policy.php"> - Privacy Policy   </a></li>
-		 <li><a href="/press.php"> - Press   </a></li>
-        </ul>      </td>
-    <td>&nbsp;</td>
-    <td width="14%"><ul style="list-style:none;">
-      <li> <a href="/faq.php"> - FAQ</a></li>
-      <li><a href="/deals.php"> - New Deals </a></li>
-      <li><a href="/track-rfd.php"> - RFD<sup>TM</sup> Status </a></li>
-      <li><a href="/vendor-centre.php"> - Vendor Centre</a></li>
-      <li><a href="/affiliate.php">- Affiliate</a></li>
-<!--      <li><a href="/merchant-login.php"> - For Business</a></li>-->
-      </ul></td>
-    <td>&nbsp;</td>
-    <td width="41%" valign="top"><ul style="list-style:none;">
-      <li><img src="images/facebook.jpg" width="20" height="20" align="absmiddle"> <a href="http://www.facebook.com/pages/SmeSauda/397965410229297" rel="nofollow" target="_blank">  &nbsp;Facebook</a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="images/twitter.jpg" width="20" height="20" vspace="0" align="absmiddle" style="padding-top:5px; padding-bottom:5px;"> <a href="https://twitter.com/#!/smesauda" rel="nofollow" target="_blank"> &nbsp;Twitter&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;<img src="images/linkedin.jpg" width="20" height="20" vspace="0" align="top" style="padding-top:5px; "> <a href="http://www.linkedin.com/company/smesauda-com" rel="nofollow" target="_blank"> &nbsp;Linked in</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;<img src="images/blog-icon.jpg" vspace="0" align="top" style="padding-top:5px; "> <a href="blog/"> &nbsp;Blog</a>
-        <br>
-		<table style="margin-top:7px; margin-bottom:7px;" cellpadding="0" cellspacing="0" width="450" border="0">
-  <tbody><tr>
-    <td style="color:#7abef1;"><strong style="font-size:16px; color:#bfe4ff;"><img src="images/suppliers.png" align="absmiddle"> &nbsp;Vendor - </strong> 
-	<span style="margin-left:10px;"> <a href="add_merchant.php">Sign Up</a> &nbsp; | &nbsp; <a href="merchant-login.php"> Sign In</a></span></td>
-  </tr>
-</tbody></table>
-
-		
-		
-		
-		
-	
-		
-		
-		
-       
-        <a href="#"><strong>Browse:</strong></a>
-		<a href="deal-search.php?search=Search For Deals&amp;&amp;category=4">IT and Web</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=5">Computers</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=8">Freight Services</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=9">Networking Equipments</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=11">Printers</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=12">Office Equipments</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=13">Software</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=19">PCs</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=21">Laptops and NetBooks</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=72">Monitors</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=74">Printing</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=83">HR Services</a>&nbsp;
-		|&nbsp;&nbsp;<a href="deal-search.php?search=Search For Deals&amp;&amp;category=87">Professional Services</a>&nbsp;
-				</li>
-      <li></li>
-      </ul></td>
-	  <script language="javascript" type="text/javascript">
-function validateForm()
-{
-var hh = document.frm_newsletter;
-if(hh.email.value=='' || hh.email.value=='Email')
-{
-alert("Please enter email address");
-hh.email.focus();
-return false;
-}
-if(!echeck(hh.email.value) && (hh.email.value!='Email' || hh.email.value!=''))
-{
-alert("Please enter valid email address");
-hh.email.focus();
-return false;
-}
-return true;
-}
-</script>
-
-    <td>&nbsp;</td>
-    <td width="25%" valign="top" bgcolor="#02365d"><form name="frm_newsletter" action="" method="post" onsubmit="return validateForm();"><a name="newsletter"></a><table width="95%" border="0" align="center" cellpadding="2" cellspacing="0">
-	      <tbody><tr>
-        <td height="30" colspan="2"><label for="textfield"></label>
-          <input type="text" name="name" value="Name" id="name" style="border:none; width:208px; height:22px; background-image:url(images/name.jpg); background-repeat:no-repeat; font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#8f8f8f; padding-left:11px; line-height:22px;" onclick="if(this.value=='Name'){this.value=''}" onblur="if(this.value==''){this.value='Name'}"></td>
-      </tr>
-      <tr>
-        <td height="30" colspan="2"><label for="textfield"></label>
-          <input type="text" name="email" id="email" value="Email" style="border:none; width:208px; height:22px; background-image:url(images/name.jpg); background-repeat:no-repeat; font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#8f8f8f; padding-left:11px; line-height:22px;" onclick="if(this.value=='Email'){this.value=''}" onblur="if(this.value==''){this.value='Email'}"></td>
-      </tr>
-	  <tr>
-            <td colspan="2" valign="top"><input type="radio" name="subuscription" checked="checked" value="1">&nbsp;Subscribe&nbsp;
-              <input type="radio" name="subuscription" value="2">&nbsp;Unsubscribe</td>
-           </tr>
-      <tr>
-        <td width="71%" height="30"><input name="action" type="image" src="images/sign.jpg" value="Newsletter"><input type="hidden" name="action" value="Newsletter"></td>
-        <td width="29%" height="30">&nbsp;</td>
-      </tr>
-      </tbody></table></form></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="font-size:11px; color:#89b7d9;">Copyright © 2011 smesauda.com. All Rights Reserved.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" style="font-size:11px;  color:#89b7d9;"></a></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td width="31%" style="font-size:11px; color:#89b7d9;">Copyright © 2011 smesauda.com. All Rights Reserved.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" style="font-size:11px;  color:#89b7d9;"></a></td>
+    <td width="2%" colspan="-1">&nbsp;</td>
+    <td width="41%" colspan="-1">&nbsp;</td>
+    <td width="1%" colspan="-1">&nbsp;</td>
     <td align="right" style="font-size:11px; color:#89b7d9;"><a href="#" style="font-size:11px;  color:#89b7d9;">Web Design India Internet</a></td>
   </tr>
       </tbody></table>
@@ -1211,6 +1500,7 @@ return true;
   
 </div>
 
+<div style="height:30px;"></div>
 
 </div>
 
