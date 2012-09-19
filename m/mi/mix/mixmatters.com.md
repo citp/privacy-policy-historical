@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508073103id_/http%3A//www.mixmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205838id_/http%3A//mixmatters.com/privacy) for the most accurate reproduction.*
 
 # Welcome to MixMatters
 
