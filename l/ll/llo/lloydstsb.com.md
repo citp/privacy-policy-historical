@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsb.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608061608id_/http%3A//www.lloydstsb.com/privacy2.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919073036id_/http%3A//www.lloydstsb.com/privacy2.asp) for the most accurate reproduction.*
 
 # Lloyds TSB - Privacy
 
@@ -101,7 +101,7 @@ Lloyds Banking Group companies may pass details of false or inaccurate informati
 We carry out most of our credit searches using Experian, but details of how you have run your account(s) may be disclosed to all the credit reference agencies. The information they hold may not be the same and there is a small fee that you may need to pay to each agency that you apply to. Their addresses are:
 
   * Experian Consumer Help Service, PO Box 9000, Nottingham NG80 7WP or call  
-0844 481 8000 or log on to [www.experian.co.uk](http://www.experian.co.uk/ "www.experian.co.uk \(Opens in a new browser window\)").
+0844 481 8000 or log on to [www.experian.co.uk](http://www.experian.co.uk/ "Experian Credit Agency \(opens in a new browser window\)").
   * Equifax plc, Credit File Advice Centre, PO Box 1140, Bradford BD1 5US or log on to [www.equifax.co.uk](http://www.equifax.co.uk/ "Equifax \(Opens in a new window\)").
   * CallCredit, Consumer Services Team, PO Box 491, Leeds LS3 1WZ or call 0870 060 1414 or log on to [www.callcredit.co.uk](http://www.callcredit.co.uk/ "Call Credit \(Opens in new window\)").
 
