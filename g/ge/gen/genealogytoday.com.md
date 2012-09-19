@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogytoday.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509232943id_/http%3A//www.genealogytoday.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogytoday.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195358id_/http%3A//www.genealogytoday.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Genealogy Today
 
@@ -87,12 +87,6 @@ We limit access to personal information about you to employees and contractors w
 Highly sensitive personal information, (e.g. credit card information) is never stored on our public servers, and is only retained offline for 18 months following your most recent sales transaction at which time it is shredded and discarded. Of course, we transmit the credit card number to the appropriate credit card company during order processing. 
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
-
-### Protection of Children's Personal Information
-
-The web sites owned by Genealogy Today LLC are general audience sites and do not knowingly collect any personal information from children. 
-
-The one exception is Genealogy Today, Jr. located at [http://www.genealogytoday.com/junior/](https://web.archive.org/junior/) , which does collect limited information from children. This area of our site includes additional features designed to protect the children that utilize our services. Additional information about these safeguards is published on the site for parents to review. Genealogy Today always recommends that children consult with their parents before submitting information online. Refer to the [Junior Edition privacy policy](https://web.archive.org/junior/privacy.html) for details specific to this area of our site. 
 
 ### Use of Cookies
 
