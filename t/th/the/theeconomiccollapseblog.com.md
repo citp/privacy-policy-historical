@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeconomiccollapseblog.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505111215id_/http%3A//theeconomiccollapseblog.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeconomiccollapseblog.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192932id_/http%3A//theeconomiccollapseblog.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -13,6 +13,8 @@ I. LINKS TO OTHER SITES
 This website has relationships with other companies that we allow to place ads and links on our pages. As a result of your visit to this website, ad server companies may collect information such as your domain type, your IP address, and clickstream information.
 
 Please note that when you click on one of these links, you are moving from this website to another website. We encourage you to read the site terms and privacy statements of these linked sites as their site terms and privacy policies may differ from ours.
+
+The Economic Collapse Blog is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 II. ORDERS
 
@@ -81,3 +83,19 @@ WallStreet Banner - From Dottorpeni on Flicker
 Storm Picture By Mrpbps on Flicker
 
 Glass Globe By From Some geekintn on Flicker
+
+Be Sociable, Share!
+
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&t=Website%20Privacy%20Policy "Facebook")
+  * [](http://twitter.com/intent/tweet?text=Website%20Privacy%20Policy%20-%20http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy%20 "Twitter")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Website%20Privacy%20Policy&body=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&ui=2&tf=1&shva=1 "email")
+  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&notes=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Delicious")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&source=The+Economic+Collapse+Are+You+Prepared+For+The+Coming+Economic+Collapse+And+The+Next+Great+Depression%3F&summary=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "LinkedIn")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&bodytext=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Digg")
+  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&annotation=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Google Bookmarks")
+  * [](http://posterous.com/share?linkto=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&selection=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Posterous")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy "Reddit")
+  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&t=Website%20Privacy%20Policy&s=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Tumblr")
+  * 
+
