@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031700id_/http%3A//www.thompson-morgan.com/security-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182422id_/http%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
 
-# Thompson & Morgan - Security & Privacy Policy
+# Cookies & Privacy Policy | Thompson & Morgan
 
-Thompson & Morgan take online security very seriously and are committed to protecting the personal information of our customers. Our Security and Privacy policy gives more information on how we collect and use this information to provide an enhanced online experience. This policy also explains your options relating to the collection, use and disclosure of your personal details. You can visit this Site without disclosing any personal information, however, by visiting our Site, you accept the practices outlined in this policy. If you do not agree to us acquiring or using your personal information in accordance with this policy then you should not submit information to us through this Site. This policy does not necessarily apply to our offline collection of your personal information. Please see below for more details. We are not responsible for the content or privacy practices on any Site to which this Site links or that links to this Site.
+Thompson & Morgan take online security very seriously and are committed to protecting the personal information of our customers. Our Cookie and Privacy Policy gives more information on how we collect and use this information to provide an enhanced online experience. This policy also explains your options relating to the collection, use and disclosure of your personal details. You can visit this Site without disclosing any personal information, however, by visiting our Site, you accept the practices outlined in this policy. If you do not agree to us acquiring or using your personal information in accordance with this policy then you should not submit information to us through this Site. This policy does not necessarily apply to our offline collection of your personal information. Please see below for more details. We are not responsible for the content or privacy practices on any Site to which this Site links or that links to this Site.
 
-* **Information Collection.**
+#### 1\. Information Collection
 
 On this site we will collect information from you in several different ways. By collecting personal information from you we are able to provide an efficient, meaningful, and customised experience. For example:
 
@@ -15,11 +15,17 @@ On this site we will collect information from you in several different ways. By 
 > 
 
 
-* **Registration and Ordering.**
+  
+
+
+#### 2\. Registration and Ordering
 
 You have the option to complete an online registration form when using certain parts of this Site or when ordering products, You will be prompted to provide to us certain personal information during registration, including but not limited to, your name, shipping and billing addresses, phone number and email address. This personal information is used for billing purposes, to fulfil your orders, to communicate with you about your order and our Site, and for internal marketing purposes. If we encounter a problem when processing your order, we will use the personal information to contact you.
 
-* **Email Addresses.**
+  
+
+
+#### 3\. Email Addresses
 
 Whilst using this Site, there will be several opportunities to enter your email address including (but not limited to):
 
@@ -32,30 +38,73 @@ Whilst using this Site, there will be several opportunities to enter your email 
 
 Your participation in a competition is completely voluntary, so you have a choice whether to participate and provide information to us. We use this information to notify competition winners and to award prizes. We may post on our Site the names and cities of competition winners.
 
-* **Product Reviews.**
+  
+
+
+#### 4\. Product Reviews
 
 If you have ordered a product in the past, you may choose to submit a product review. In order to post a review we will request your email address and geographic location, only your geographic location will be visible to other users, we will keep your email address kept private. Please be aware that any personally identifiable information submitted as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
 
-* **Cookies and Other Technology.**
+  
 
-Like many sites, this Site uses cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognise you and your access privileges, and track your Site usage.
 
->   1. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive.
->   2. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."
->   3. Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
->   4. We may use third-party advertising companies to help us tailor Site content to users or to present advertisements on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
->   5. Log Files. As with most web sites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+#### 5\. Cookies
+
+Cookies are small pieces of information that are stored on your computer when you visit some websites.
+
+Thompson & Morgan uses cookies to make our website easier for you to use. If you do not accept cookies you will be unable to use this website for shopping purposes, only for browsing and research.
+
+Please note that cookies cannot harm your computer and we do not store any credit card details on our website, you will be requested to enter these each time you shop with us.
+
+By enabling cookies you will be able to do the following:
+
+>   1. Place an order on our website
+>   2. Remember what is in your shopping basket for 365 days
+>   3. Remember your login details
+>   4. Enable us to make recommendations of products to you
 > 
 
 
-* **Information Use and Disclosure.**
+The cookies that are used on this website are as follows:
+
+**[Google Analytics](http://www.google.com/analytics/learn/privacy.html "google analytics privacy policy")**
+
+We use this information to understand how the website is being used and enable us to improve the user experience. All user data is anonymous.
+
+**[Affiliate Window](http://www.affiliatewindow.com/documents/Privacy%20Policy.pdf "affiliate window privacy policy pdf")**
+
+This cookie is set only if you get to the order confirmation page after checkout. It allows us to reward a site affiliate that has referred traffic to us.
+
+**_Search_**
+
+We work with SLI Systems to provide our on-site product and information search. A cookie is set which helps us to improve the service for our users by providing more relevant search results.
+
+**_Sub2_**
+
+Sub2 use cookies to enhance the user experience with this site by delivering both personalised content and offers whilst ensuring you see the products most relevant to you. Any information collected is not shared with any other third parties. To learn more about these cookies, please [click here.](http://webservices.sub2tech.com/optout/optout.asp "Sub2 Cookie and Privacy Policy")
+
+**_Advertising Services_**
+
+For marketing purposes we work with [Google Adwords](http://www.google.com/intl/en/policies/privacy/ "google adwords privacy policy") and [Microsoft’s Ad Centre](http://privacy.microsoft.com/en-us/default.mspx "microsoft ad centre privacy policy") using pay per click advertising. Once a user clicks on an advert a cookie is set which will expire in 30 days.
+
+There are a few external services that are used on our website mostly to display content within our web pages. For example we use [YouTube](http://www.google.co.uk/intl/en-GB/policies/ "YouTube") to show videos and [Flickr](http://info.yahoo.com/legal/us/yahoo/copyright/en-us/ "Flickr privacy policy") to display some images. As with social buttons, such as [Facebook](http://www.facebook.com/about/privacy/ "Facebook privacy policy") and [Twitter](http://twitter.com/privacy "Twitter privacy policy"), we cannot prevent these sites, or external domains from collecting information on your usage of this embedded content. If you are not logged into these services then they will not know who you are but are likely to gather anonymous usage information such as the number of times a visitor has viewed a video. We work with these external services on the basis that they adhere to their privacy policies. To view their privacy policies, please click on one of the underlined links above.
+
+Most browsers allow you to turn off cookies. To do this look at the "help" menu on your browser.
+
+  
+
+
+#### 6\. Information Use and Disclosure
 
 >   1. Internal Use. To enable us to process your order and provide you with customer service we will use your personal information. We may also use this information to improve our Site's content and layout and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
 >   2. Communications with You. Your personal information will also be used to communicate with you about our Site and your orders and deliveries. We will send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to notify you when we receive fresh stock of an out of stock item, to sign up for our email newsletter, entry to competitions or leave a review of one of our products. If you provide us with your email address, we use it to deliver the information to you. We always allow you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
 > 
 
 
-* **External Use.**
+  
+
+
+#### 7\. External Use
 
 We want to provide you with excellent service and to offer you a great selection - we primarily sell merchandise, not information. We occasionally rent personal information to carefully selected businesses. We may also distribute information in the following ways:
 
@@ -66,11 +115,17 @@ We want to provide you with excellent service and to offer you a great selection
 > 
 
 
-* **Data Security.**
+  
+
+
+#### 8\. Data Security
 
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. We rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-* **Opt Out and Corrections.**
+  
+
+
+#### 9\. Opt Out and Corrections
 
 Upon your request, we will within a reasonable timescale:
 
@@ -80,8 +135,11 @@ Upon your request, we will within a reasonable timescale:
 > 
 
 
-You can make these requests at the customer information section of this site [**(myaccount)**](https://web.archive.org/myaccount) or by contacting our [**Customer Care department**](https://web.archive.org/contact-us). Please do not email your credit-card number or other sensitive information.
+You can make these requests at the customer information section of this site [(myaccount)](https://web.archive.org/myaccount) or by contacting our [customer care department](https://web.archive.org/contact-us). Please do not email your credit-card number or other sensitive information.
 
-* **Updates to this Policy.**
+  
+
+
+#### 10\. Updates to this Policy
 
 Any changes or updates to this Security and Privacy Policy will be posted on this Site, so that you will always be aware of what information we collect, use and disclose. We suggest that you review this Policy now and again so that you are aware of any changes or updates.
