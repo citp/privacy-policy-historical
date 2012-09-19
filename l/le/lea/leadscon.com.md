@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leadscon.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505034858id_/http%3A//leadscon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadscon.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184936id_/http%3A//leadscon.com/privacy-policy) for the most accurate reproduction.*
 
 # LeadsCon » Privacy Policy
 
 ### Privacy Policy
 
-The following sets forth the policies for the collection and use of personally identifiable information (“Information”) by LeadsConference, LLC (together with its affiliated entities, “LeadsCon”) in connection with its operation of the Web site located at www.leadscon.com (the “Site”). LeadsCon takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
+The following sets forth the policies for the collection and use of personally identifiable information (“Information”) by LeadsConference, a wholly owned subsidiary of Access Intelligence, LLC (together with its affiliated entities, “LeadsCon”) in connection with its operation of the Web site located at www.leadscon.com (the “Site”). LeadsCon takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
 
 ### Information Collection
 
@@ -28,4 +28,4 @@ Individual customers who reside in California and have provided their personal i
 
 ### Changes to Privacy Policy
 
-This Privacy Policy may change, from time to time, due to changes on our web pages, changes in our business, and technology advances, among other factors. Changes will be updated on this page, with the date of last update located below, or you may email privacy(at)leadscon.com for the latest version. _Last Updated November 19, 2007_
+This Privacy Policy may change, from time to time, due to changes on our web pages, changes in our business, and technology advances, among other factors. Changes will be updated on this page, with the date of last update located below, or you may email privacy(at)leadscon.com for the latest version. _Last Updated September 19, 2012_
