@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativelive.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214429id_/http%3A//www.creativelive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativelive.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919070252id_/http%3A//www.creativelive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | creativeLIVE
 
@@ -6,9 +6,9 @@ creativeLIVE, Inc. (“CL”) has created this privacy policy to inform you abou
 
 **Collection of Data/Contact Information/Financial Information**
 
-**IP Address and Cookies**
+**IP Address, Diagnostics and Cookies**
 
-We use your internet protocol address to help diagnose problems with our server and to administer our website. We also use your internet protocol address to help identify you and your shopping cart. 
+We use your internet protocol address and diagnostic information to help diagnose problems with our server and to administer our website. We also use your internet protocol address to help identify you and your shopping cart. 
 
 Our website places “cookies” on your computer’s hard drive through your web browsers to keep track of your identity for the purposes of saving your shopping cart and saving your logged-in state so that you do not have to log in each time you visit our website. “Cookies” allow our website to recognize your computer when you access the website. If you would like to prevent the placement of cookies on your computer, or remove cookies from your computer, please access the “Help” portion of your browser or contact your browser provider. Please be advised that if you block or remove cookies from your computer, the website will not recognize your computer and you may not have access to all portions of the website. 
 
@@ -77,4 +77,4 @@ Address:
 Seattle, WA 98109  
 Telephone: (206) 403-1395 
 
-**EFFECTIVE DATE: October 11, 2011**
+**EFFECTIVE DATE: May 30, 2012**
