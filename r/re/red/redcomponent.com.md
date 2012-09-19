@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcomponent.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616044249id_/http%3A//redcomponent.com/privacy-and-return-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcomponent.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919233511id_/http%3A//redcomponent.com/privacy-and-return-policy) for the most accurate reproduction.*
 
 # Privacy & Return Policy
 
