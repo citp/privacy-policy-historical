@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tim-bonner.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629125444id_/http%3A//tim-bonner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tim-bonner.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015010id_/http%3A//tim-bonner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tim Bonner Blog - Tim Bonner Blog
+# Privacy Policy - Tim Bonner Blog
 
 ### Privacy Policy
 
@@ -28,4 +28,4 @@ www.tim-bonner.com has no access to or control over these cookies that are used 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.tim-bonner.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  Please also see our [Cookie Policy](http://tim-bonner.com/cookie-policy/ "Cookie Policy") for further information.
