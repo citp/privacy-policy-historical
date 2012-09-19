@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235440id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204712id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Doperoms.com
 
@@ -30,4 +30,4 @@ Doperoms.com does not guarantee any files linked on doperoms.com are clean and v
 [DMCA Policy](https://web.archive.org/dmca.php) \- [Advertise on DopeRoms](https://web.archive.org/advertise.php) \- [Site Map](https://web.archive.org/sitemap.php)
 
 Copyright DopeROMS.com 2012 All Rights Reserved | Content Copyright Respective Owners   
-Server 2 | Compression: No | Cache: On | Database: On | 2 Queries Used | 0.02847 Seconds.
+Server 1 | Compression: No | Cache: On | Database: On | 2 Queries Used | 0.09232 Seconds.
