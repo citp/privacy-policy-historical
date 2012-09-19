@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505041128id_/http%3A//militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920011948id_/http%3A//militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # MilitaryFactory.com Privacy Policy
 
