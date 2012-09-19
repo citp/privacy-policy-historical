@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamcoco.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231625id_/http%3A//teamcoco.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamcoco.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192343id_/http%3A//teamcoco.com/privacy-statement) for the most accurate reproduction.*
 
-# Conan O'Brien Presents: Team Coco @ TeamCoco.com
+# Privacy Statement @ TeamCoco.com
 
 Thank you for visiting TeamCoco.com, a site presented to you by Team Coco Digital, LLC and Turner Broadcasting System, Inc. (for the purposes of this privacy statement, 'Team Coco', 'Turner,' or 'us'). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this site and among Turner‘s network of affiliated sites’, which includes any sites or services owned, operated, or offered by or on behalf of Turner Broadcasting System, Inc. or its affiliates, including without limitation, Team Coco Digital LLC (collectively, the 'Turner Network').
 
