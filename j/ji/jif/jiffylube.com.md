@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiffylube.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518001929id_/http%3A//www.jiffylube.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiffylube.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003530id_/http%3A//www.jiffylube.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Jiffy Lube - Privacy Policy
 
