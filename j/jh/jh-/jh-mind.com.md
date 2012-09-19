@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jh-mind.com privacy policy that was archived on 2012-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120115051941id_/http%3A//www.jh-mind.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jh-mind.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919191337id_/http%3A//www.jh-mind.com/statement.html) for the most accurate reproduction.*
 
 # 
 
@@ -43,6 +43,3 @@ Payment is secured through secure SSL pages with Paypal.com and 2co.com .
 **Children's Guidelines**  
 This site does not permit anyone under 18 to subscribe or buy any of our products.   
 This site DO NOT bill or charge people under 18, any person who doesn't meet the age criteria is immediately deleted from our database.
-
-**Choice/Opt-Out** You can send email to :   
-
