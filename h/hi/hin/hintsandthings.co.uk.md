@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531220504id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230105id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - www.hintsandthings.com
+# Privacy and Cookie Policy - www.hintsandthings.com
+
+**
 
 * * *
 
@@ -77,3 +79,5 @@ All Rights Reserved.
 No portion of this site may be reproduced or redistributed without prior written permission from Hints and Things. All trademarks & copyrights throughout Hints and Things remain the property of their respective owners.
 
 Hints and Things cannot be held responsible for any information given on this site nor do they necessarily agree with, or endorse, the views given by third parties.
+
+**
