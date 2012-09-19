@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakgames.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626010706id_/http%3A//cakgames.com/page/16/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakgames.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204630id_/http%3A//cakgames.com/page/16/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cakgames
 
@@ -9,6 +9,10 @@ Privacy Policy
  **What information we collect**
 
 To prevent abuse and enhance the features of our site, we collect non-personal information such as the IP (internet provider). Sometimes, we may store a file called a cookie on your computer. These non-malicious files are set to delete themselves within a short period of time (usually one day). They are used by us to help our advertisers target their traffic. A cookie may also be saved on your computer by our ad providers when you click an ad. This is saved on your computer so the advertisers can tell that you've already clicked an ad. This saves our advertisers from paying for double and fraudulent clicks. 
+
+ **Third-Party Advertising  **
+
+Cakgames uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
  **We only collect necessary information**
 
