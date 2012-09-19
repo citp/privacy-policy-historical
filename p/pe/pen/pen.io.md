@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pen.io privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232015id_/http%3A//privacypolicy.pen.io) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pen.io privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919183512id_/http%3A//privacypolicy.pen.io) for the most accurate reproduction.*
 
 # Pen.io Privacy Policy
 
@@ -25,7 +25,3 @@ Pen.io discloses potentially personally-identifying and personally-identifying i
 Cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pen.io uses cookies to help Pen.io identify and track visitors, their usage of Pen.io website, and their website access preferences. Pen.io visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before Pen.io, with the drawback that certain features of Pen.io websites may not function properly without the aid of cookies. 
-
-* * *
-
-Copy and paste the the embed code above. 
