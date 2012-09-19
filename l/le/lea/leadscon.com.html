@@ -1,11 +1,14 @@
-<!--The following is the downloaded HTML source of the leadscon.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505034858id_/http%3A//leadscon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leadscon.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919184936id_/http%3A//leadscon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta name="verify-v1" content="q9Xv2Zj0ts5Yq91LX+Xn2ju6/XFKGp+bcXMSfuGLWkU=">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <title>LeadsCon   » Privacy Policy</title>
+
+<link rel="icon" type="image/png" href="http://leadscon.com/wp-content/themes/leadscon09/images/favicon.png">
+<link rel="apple-touch-icon" href="http://leadscon.com/wp-content/themes/leadscon09/images/apple-touch-icon-144x144.png">
 
 <link rel="stylesheet" href="http://leadscon.com/wp-content/themes/leadscon09/style.css" type="text/css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="LeadsCon RSS Feed" href="http://leadscon.com/feed/">
@@ -16,9 +19,9 @@
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://leadscon.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Terms and Conditions" href="http://leadscon.com/terms-and-conditions/">
 <link rel="next" title="Register" href="http://leadscon.com/leadscon-las-vegas-2009/register/">
-<meta name="generator" content="WordPress 3.3.2">
+<meta name="generator" content="WordPress 3.4">
 <link rel="canonical" href="http://leadscon.com/privacy-policy/">
-<script type="text/javascript" async="" src="//service.optify.net/opt-v2.js"></script><script type="text/javascript" async="" src="//service.optify.net/opt-v2.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="//service.optify.net/opt-v2.js"></script><script type="text/javascript">
         var _opt = _opt || [];
 		_opt.push([ 'view', 'KQ6TMN3P' ]);
 
@@ -58,7 +61,7 @@
 //]]>
 </script>
 
-<!--[if lte IE 8]>
+<!--[if lte IE 9]>
 <link type="text/css" rel="stylesheet" href="http://leadscon.com/wp-content/themes/leadscon09/style-ie8hacks.css" />
 <![endif]-->
 
@@ -84,145 +87,12 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 </script>
 <![endif]-->
 
-<script language="javascript" type="text/javascript">
-function ClearFields(aFieldSet) {
-var form1 = document.forms["form1"].elements;
-	if(aFieldSet == '1'){
-		form1["sn2"].value = '';
-		form1["email_box"].value = '';
-		form1["password_box"].value = '';
-		form1["provider_box"].value = '';
-		form1["fieldSet"].value = '1';
-	} else {
-		form1["sn"].value = '';
-		form1["se"].value = '';
-		form1["re"].value = '';
-		form1["fieldSet"].value = '0';
-	}
-
-}
-
-function ValidateForm(){
-var form1 = document.forms["form1"].elements;
-	if(form1["fieldSet"].value == '1'){
-		// CHECK SENDER NAME
-		if(IsEmpty(form1["sn"])){
-      		alert('Please enter your name.') 
-      		form1["sn"].focus(); 
-      		return false; 
-   		}
-		// CHECK SENDER EMAIL ADDRESS (NOT EMPTY)
-		if(IsEmpty(form1["se"])){
-      		alert('Please enter your email address.') 
-      		form1["se"].focus(); 
-      		return false; 
-   		}
-		// CHECK SENDER EMAIL ADDRESS (VALID)
-		if(!isValidEmail(form1["se"])){
-      		alert('Please enter your valid email address.') 
-      		form1["se"].focus(); 
-      		return false; 
-   		}
-		// CHECK RECEIVER NAME
-		/*if(IsEmpty(form1.rn)){
-      		alert('Please enter your friends\' name.') 
-      		form1.rn.focus(); 
-      		return false; 
-   		}*/
-		// CHECK RECEIVER EMAIL ADDRESS (NOT EMPTY)
-		if(IsEmpty(form1["re"])){
-      		alert('Please enter your friends\' email address.') 
-      		form1["re"].focus(); 
-      		return false; 
-   		}
-		// CHECK RECEIVER EMAIL ADDRESS (VALID)
-		/*if(!isValidEmail(form1.re)){
-      		alert('Please enter your friends\' valid email address.') 
-      		form1.re.focus(); 
-      		return false; 
-   		}*/
-	} else {
-		//alert('Validate simple Super TAF');
-		// CHECK SENDER NAME
-		if(IsEmpty(form1["sn2"])){
-      		alert('Please enter your name.') 
-      		form1["sn"].focus(); 
-      		return false; 
-   		}
-		// CHECK SENDER EMAIL ADDRESS (NOT EMPTY)
-		if(IsEmpty(form1["email_box"])){
-      		alert('Please enter your email address.') 
-      		form1["email_box"].focus(); 
-      		return false; 
-   		}
-		// CHECK SENDER EMAIL ADDRESS (VALID)
-		if(!isValidEmail(form1["email_box"])){
-      		alert('Please enter a valid email address.') 
-      		form1["email_box"].focus(); 
-      		return false; 
-   		}
-		// CHECK SENDER PROVIDER
-		if(!isValidProvider(form1["email_box"])){
-			alert('Please enter a valid email address.'); 
-      		form1["email_box"].focus(); 
-      		return false; 
-		}
-		// CHECK SENDER PASSWORD
-		if(IsEmpty(form1["password_box"])){
-      		alert('Please enter your password.') 
-      		form1["password_box"].focus(); 
-      		return false; 
-   		}
-		// CHECK PROVIDER
-		if(IsEmpty(form1.provider_box)){
-      		alert('Please enter your provider.') 
-      		form1["provider_box"].focus(); 
-      		return false; 
-   		}
-	}
-}
-
-function IsEmpty(aTextField) {
-   if ((aTextField.value.length==0) ||
-   (aTextField.value==null)) {
-      return true;
-   }
-   else { return false; }
-}
-
-function isValidEmail(str) {
-   //alert(str.value);
-   //var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
-   var reg = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
-   if(reg.test(str.value) == false) {
-      return false;
-   } 
-   else { return true; }
-}
-
-function isValidProvider(str){
-	var form1 = document.forms["form1"].elements;
-	var email = str.value;
-	var provider = email.split("@",2);
-	//alert(provider[1]);
-	if(provider[1] == 'aol.com' || provider[1] == 'gmail.com' || provider[1] == 'live.com' || provider[1] == 'hotmail.com' || provider[1] == 'yahoo.com'){
-		var p = provider[1].split(".",2);
-		//alert(p[0]);
-		form1["provider_box"].value = p[0];
-		return true;
-	} else {
-		alert('We currently ONLY support AOL, Gmail, Live/Hotmail, and Yahoo! Mail.');
-		return false;
-	}
-}
-</script>
-
 <script type="text/javascript">
 <!--
 // Set the cursor on the form to prompt user entry when page loads
 function setfocus() {
-  if(document.forms['cforms8form']) {
-    document.forms['cforms8form'].elements['cf8_field_2'].focus();
+  if(document.cforms8form) {
+    document.cforms8form.cf8_field_2.focus();
   }
 }
 //-->
@@ -230,7 +100,6 @@ function setfocus() {
 
 </head>
 <body onload="setfocus();">
-	<!-- east template -->
 <a name="top" id="top"></a>
 <div id="container">
 
@@ -240,42 +109,46 @@ function setfocus() {
 <div id="main_nav" class="navigation">
 	<ul id="nav">
 		<li><a href="http://leadscon.com/" class="home"><span>Home</span></a></li>
-		<li><a href="http://leadscon.com/leadscon-east-2012/register/" class="register"><span>Register</span></a></li>
+		<li><a href="http://www.leadscon.com/leadscon-las-vegas-2013/register" class="register"><span>Register</span></a></li>
 		<li id="sponsor-exhibit">
-			<a href="http://leadscon.com/leadscon-east-2012/sponsor-exhibit/" class="parent sponsor-exhibit"><span>Sponsor/Exhibit</span></a>
+			<a href="/leadscon-las-vegas-2013/sponsor-exhibit" class="parent sponsor-exhibit"><span>Sponsor/Exhibit</span></a>
 			<ul>
-				<li><a href="http://leadscon.com/leadscon-east-2012/sponsorship-opportunities/">Opportunities</a></li>
-				<li><a href="http://leadscon.com/leadscon-east-2012/list-of-sponsors/">List of Sponsors</a></li>
-				<li><a href="http://leadscon.com/leadscon-east-2012/exhibitor-list/">Exhibitor List</a></li>
+				<li><a href="/leadscon-las-vegas-2013/sponsorship-opportunities">Opportunities</a></li>
+				<li><a href="/leadscon-las-vegas-2013/list-of-sponsors">List of Sponsors</a></li>
+				<li><a href="/leadscon-las-vegas-2013/exhibitor-list">Exhibitor List</a></li>
 		  	</ul>
 		</li>
 		<li id="schedule">
-			<a href="http://leadscon.com/leadscon-east-2012/schedule/" class="schedule parent"><span>Schedule</span></a>
+			<a href="/leadscon-las-vegas-2013/schedule" class="schedule parent"><span>Schedule</span></a>
 		  	<ul>
-				<li><a href="http://leadscon.com/leadscon-east-2012/agenda/">Agenda</a></li>
-				<li><a href="http://leadscon.com/leadscon-east-2012/full-conference-program/">Full Conference Program</a></li>
-				<li style="background-color:#779c32;"><a href="http://leadscon.com/leadscon-east-2012/speakers/">Speakers</a></li>						
+				<li><a href="/leadscon-las-vegas-2013/agenda">Agenda</a></li>
+				<li><a href="/leadscon-las-vegas-2013/full-conference-program">Full Conference Program</a></li>
+				<li style="background-color:#779c32;"><a href="/leadscon-las-vegas-2013/speakers">Speakers</a></li>						
 		  	</ul>
 		</li>
-		<li><a href="http://leadscon.com/leadscon-east-2012/housing/" class="housing"><span>Housing</span></a></li>
-		<li><a href="http://www.leadscon.com/contact-us/" class="contact last"><span>Contact Us</span></a></li>
+		<li><a href="/leadscon-las-vegas-2013/housing" class="housing"><span>Housing</span></a></li>
+		<li><a href="/contact-us" class="contact last"><span>Contact Us</span></a></li>
 	</ul>
 </div>
 </div>
 
 <div id="sponsors">
 	<h4>Past Sponsors</h4>
-	<a href="http://www.doublepositive.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-doublepositive-175x75.png" border="0" title="Double Positive - LIVE Hot Transfers" alt="Double Positive"></a>
-	<a href="http://www.allwebleads.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-allwebleads-142x49.png" border="0" title="All Web Leads - Quality Insurance Online Lead" alt="All Web Leads - Quality Insurance Online Lead"></a>
-    <a href="http://www.briteverify.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-brightverify-142x48.png" border="0" title="Realtime data verification on-demand and in the form." alt="BriteVerify"></a>
-	<a href="http://www.brokersweb.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-brokersweb-142x38.png" border="0" title="BrokersWeb" alt="BrokersWeb"></a>
-    <a href="http://www.targusinfo.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-targus-142x46.png" border="0" title="Targus - On-Demand Insight" alt="Targus"></a>
-    <a href="http://www.vantagemedia.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-vatagemedia-142x73.png" border="0" title="Vantage Media specializes in delivering qualified customers to leading brands in the Education, Insurance and Moving verticals on a pay-for-performance basis." alt="Vantage Media"></a>
-	<a href="http://www.ebureau.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-ebureau-142x43.png" border="0" title="eBureau - Instant Insight Using Predictive Analytics to Bring Your Customer into Focus" alt="eBureau"></a>
-    <a href="http://www.horizonpartners.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-horizonpartners-142x58.png" border="0" title="Horizon Partners is a boutique financial advisory firm serving mid-market companies in the Digital Media, Interactive Marketing, and Software industries." alt="Horizon Partners"></a>
-    <a href="http://www.leads360.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-leads360-142x39.png" border="0" title="Leads360 Lead Management &amp; Sales Lead CRM | Manage, Track &amp; Close Leads" alt="Leads360"></a>
+	<a href="http://www.ybrantdigital.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-ybrant-interactive-175x100.png" border="0" title="Ybrant Interactive offers Digital Marketing solutions to businesses, agencies, and online publishers worldwide. It connects Advertisers with their Audience across any form of digital media, using its massive local presence to deliver appropriate messages to the right audience, through the most relevant digital channels." alt="Ybrant Interactive"></a>
+    <a href="http://www.acquinity.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-acquinity-142x52.png" border="0" title="Acquinity Interactive generates 200,000 qualified customers for businesses like yours, seven days a week." alt="Acquinity Interactive"></a>
+    <a href="http://www.allwebleads.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-all-web-leads-142x44.png" border="0" title="All Web Leads - Quality Insurance Online Lead" alt="All Web Leads - Quality Insurance Online Lead"></a>
+    <a href="http://www.autocricket.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-auto-cricket-142x39.png" border="0" title="AutoCricket.com" alt="AutoCricket.com"></a>
+    <a href="http://www.datalot.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-datalot-142x44.png" border="0" title="Datalot is a customer acquisition platform.  We develop technology that makes online marketing more efficient." alt="iDatafy"></a>
+    <a href="http://www.doublepositive.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-double-positive-142x44.png" border="0" title="Double Positive - LIVE Hot Transfers" alt="Double Positive"></a>
+    <a href="http://www.ebureau.com" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-ebureau-142x50.png" border="0" title="eBureau - Instant Insight Using Predictive Analytics to Bring Your Customer into Focus" alt="eBureau"></a>
+    <a href="http://www.idatafy.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-idatafy-142x48.png" border="0" title="iDatafy" alt="iDatafy"></a>
+    <a href="http://www.leadnomics.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-leadnomics-142x42.png" border="0" title="Every day we generate thousands of premium leads for brands in financial services, insurance, education and more. We're also a provider to many of the lead generation networks in the industry. They depend on us for high volumes of premium leads. If you have purchased real-time leads, your leads probably started with us." alt="Leadnomics"></a>
+    <a href="http://www.targusinfo.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-targus-142x48.png" border="0" title="Targus - On-Demand Insight" alt="Targus"></a>
+    <a href="http://www.vantagemedia.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-vantage-media-new-142x63.png" border="0" title="Vantage Media specializes in delivering qualified customers to leading brands in the Education, Insurance and Moving verticals on a pay-for-performance basis." alt="Vantage Media"></a>
+    <a href="http://www.bankrateinsurance.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-bank-rate-142x41.png" border="0" title="Bankrate Insurance is the premier buyer of quality internet-based insurance leads, purchasing over 2MM leads per month." alt="Bankrate Insurance is the premier buyer of quality internet-based insurance leads, purchasing over 2MM leads per month."></a>
+    <a href="http://www.leads360.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-leads360-142x36.png" border="0" title="Leads360 Lead Management &amp; Sales Lead CRM | Manage, Track &amp; Close Leads" alt="Leads360"></a>
+	<a href="http://www.preciseleads.com/" target="_blank"><img src="http://leadscon.com/wp-content/themes/leadscon09/images/logo-precise-leads-142x42.png" border="0" title="Precise Leads - Real-time insurance leads for agents and companies nationwide." alt="Precise Leads"></a>
 </div>
-
 <!-- page template -->
 
 		<div id="page" class="column">
@@ -285,7 +158,7 @@ function setfocus() {
 			
 					<div class="module2">
 <h3>Privacy Policy</h3>
-<p>The following sets forth the policies for the collection and use of personally identifiable information (“Information”) by LeadsConference, LLC (together with its affiliated entities, “LeadsCon”) in connection with its operation of the Web site located at www.leadscon.com (the “Site”). LeadsCon takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.</p>
+<p>The following sets forth the policies for the collection and use of personally identifiable information (“Information”) by LeadsConference, a wholly owned subsidiary of Access Intelligence, LLC (together with its affiliated entities, “LeadsCon”) in connection with its operation of the Web site located at www.leadscon.com (the “Site”). LeadsCon takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.</p>
 <h3>Information Collection</h3>
 <p>LeadsCon does not require any information in order to interact with the site. We do use web beacons, referred to as cookies, which collect limited non-personally identifying information your browser makes available whenever you visit a web page. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.</p>
 <h3>Personally Identifiable Information</h3>
@@ -297,7 +170,7 @@ function setfocus() {
 <h3>Note to California Users</h3>
 <p>Individual customers who reside in California and have provided their personal information to us may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us at privacy(at)leadscon.com. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.</p>
 <h3>Changes to Privacy Policy</h3>
-<p>This Privacy Policy may change, from time to time, due to changes on our web pages, changes in our business, and technology advances, among other factors. Changes will be updated on this page, with the date of last update located below, or you may email privacy(at)leadscon.com for the latest version.<em>Last Updated November 19, 2007</em></p>
+<p>This Privacy Policy may change, from time to time, due to changes on our web pages, changes in our business, and technology advances, among other factors. Changes will be updated on this page, with the date of last update located below, or you may email privacy(at)leadscon.com for the latest version.<em>Last Updated September 19, 2012</em></p>
 </div>
 
 		
@@ -305,7 +178,7 @@ function setfocus() {
 
 	<div id="footer">
 		<div class="footer-text">
-		Copyright © 2012 LeadsCon. All rights reserved. 
+		Copyright © 2012 Access Intelligence, LLC. All rights reserved.
 		</div>
 	</div>
 
@@ -322,7 +195,7 @@ function setfocus() {
 
 
 <p>
-	<!-- 31 queries. 0.708 seconds. -->
+	<!-- 31 queries. 0.845 seconds. -->
 </p>
 
 		
@@ -343,7 +216,7 @@ function setfocus() {
 //]]>
 </script>
 <![endif]--><!--
-<p class="small"> WassUp 1.8.3 timestamp: 2012-05-05 03:48:59AM UTC (03:48AM)<br />
+<p class="small"> WassUp 1.8.3.1 timestamp: 2012-09-19 06:49:37PM UTC (06:49PM)<br />
 If above timestamp is not current time, this page is cached.</p> -->
 
 <script type="text/javascript">
@@ -356,15 +229,5 @@ var pageTracker = _gat._getTracker("UA-1470289-3");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<script type="text/javascript">
-  var _opt = _opt || [];
-  _opt.push([ 'view', 'ZXI4P6S9' ]);
-  (function() {
-    var scr = document.createElement('script'); scr.type = 'text/javascript'; scr.async = true;
-    scr.src = '//service.optify.net/opt-v2.js';
-    var other = document.getElementsByTagName('script')[0]; other.parentNode.insertBefore(scr, other);
-  })();
-</script>
-
-
+<img src="http://ad.retargeter.com/seg?add=327884&amp;t=2" width="1" height="1">
 </body></html>
