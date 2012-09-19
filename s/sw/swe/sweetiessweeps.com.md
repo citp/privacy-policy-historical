@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102648id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919191406id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Sweeties Sweepstakes
 
-You are here: [Home](http://sweetiessweeps.com/) / [About](http://sweetiessweeps.com/about) / Privacy Policy
-
- **Privacy Policy**  
+**Privacy Policy**  
 These policies are valid from June 24, 2008 and were updated June 1, 2012.
 
  **Commitment to Online Security**
