@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508080958id_/http%3A//www.ozforex.com.au/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005616id_/http%3A//www.ozforex.com.au/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OzForex Foreign Exchange Services
-
-[ ](https://web.archive.org/)
 
 **Responsibility**
 
@@ -97,19 +95,9 @@ _Complaints_
 
 
 
-### Currency Converter
+### Register Free
 
-Rate:  1.0163 
-
-=
-
-Rate:  0.9840 
-
-= 
-
-###  Register Free
-
-Registration is quick and easy. Access live customer rates, free tools and make international payments.
+For international money transfers at better rates than the banks, register now.
 
 [Register today](https://web.archive.org/registration)  
 Already registered? [Login](https://web.archive.org/login/login)   
