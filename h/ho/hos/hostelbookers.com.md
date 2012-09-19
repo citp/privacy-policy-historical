@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204213432id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013703id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
 
 # Customer Knowledge Base
 
@@ -55,6 +55,20 @@ COOKIES
 
 Please note that in order for us to provide you with optimum service, we use ‘Cookies’ on our website. ‘Cookies’ are a feature of web browser software which allows web servers to temporarily store information within your browser. ‘Cookies’ allow us to obtain information regarding users of our site which essentially helps us to provide you with a better user experience and tailor our services to your individual needs. We don’t store and record any of your passwords or other highly sensitive data. Most browsers automatically allow ‘cookies,’ however usually your web browser will enable you to disable ‘cookies’ should you wish to do so. 
 
+If you want to know more about what cookies are and how to control them, please visit [AboutCookies.org](http://www.aboutcookies.org/). Be aware that restricting cookies may impact on the functionality of our website.
+
+Below is a list of the main cookies we use and what they are used for:
+
+**Cookies ******|  **Description**  
+---|---  
+.hostelbookers.com|  We use different servers within HostelBookers, this cookie ensures users are kept on the same server throughout their visit on the site.   
+JSESSIONID|  This cookie identifies your preferences while you are visiting HostelBookers. i.e. if your search was "London hostels", the website will (in the first instance) only show you availability for properties in London.   
+Google Analytics & ns_session|  These cookies collect information about how you use HostelBookers' website. This information is used in reports and helps us to improve your experience of the website.   
+HBLOCATIONCURRENCY|  This cookie enables our website to remember your preferred currency.   
+ns_cookietest|  This is used to confirm that your browser is able to accept cookies.   
+Criteo|  These cookies display personalized advertisements based on the past websites you have visited.   
+HB_AFF|  This cookie helps us to identify whether you reached our website via one of our partners.   
+  
 Please note that our website contains certain literature and hyperlinks to websites owned by third parties. This privacy statement covers websites owned and controlled by us only. Links to other websites and any information collected by these sites are not covered by this privacy statement. 
 
 MONITORING
