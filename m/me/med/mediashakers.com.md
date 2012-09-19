@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediashakers.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615170907id_/http%3A//www.mediashakers.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediashakers.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184955id_/http%3A//www.mediashakers.com/privacy.aspx) for the most accurate reproduction.*
 
 # MediaShakers online ad network
 
