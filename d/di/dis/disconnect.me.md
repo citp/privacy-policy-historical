@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503163657id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182449id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Disconnect
 
