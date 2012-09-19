@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igrezadecu.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618120702id_/http%3A//igrezadecu.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igrezadecu.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013107id_/http%3A//igrezadecu.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
