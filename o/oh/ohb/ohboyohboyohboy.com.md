@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohboyohboyohboy.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607000838id_/http%3A//www.ohboyohboyohboy.com/2010/04/privacy-disclosure-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohboyohboyohboy.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192314id_/http%3A//www.ohboyohboyohboy.com/2010/04/privacy-disclosure-policies.html) for the most accurate reproduction.*
 
 # Oh Boy, Oh Boy, Oh Boy...Life as a working mom with three boys!: Privacy Disclosure Policies
 
