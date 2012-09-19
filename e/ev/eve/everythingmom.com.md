@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011045id_/http%3A//www.everythingmom.com/EverythingMom/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185400id_/http%3A//everythingmom.com/EverythingMom/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | EverythingMom | moms
 
-##  [ Privacy Policy](http://everythingmom.com/EverythingMom/privacy-policy.html)
+##  [ Privacy Policy](http://www.everythingmom.com/EverythingMom/privacy-policy.html)
 
 Details
-     Category: [EverythingMom](http://everythingmom.com/Table/moms/EverythingMom/)
+     Category: [EverythingMom](http://www.everythingmom.com/Table/moms/EverythingMom/)
      Published on Friday, 20 March 2009 11:34 
      Written by EMVA 
-     Hits: 9802 
+     Hits: 11822 
 
 **Overview**
 
@@ -36,11 +36,11 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 Below are more details about the Personal Information we, or third parties may gather from you and how we may use it.
 
-_**A.   Email Notifications.**_ EverythingMom offers email notifications links for its monthly online newsletter to its registered users.  We will use your email address to send you only the specific notifications for the newsletter(s) that you signed up for.  If you want to update your email address or stop receiving the links to the newsletter, follow the procedures to unsubscribe at the bottom of any newsletter link email we send you or simply visit [http://www.everythingmom.com](http://everythingmom.com/) to update your profile.
+_**A.   Email Notifications.**_ EverythingMom offers email notifications links for its monthly online newsletter to its registered users.  We will use your email address to send you only the specific notifications for the newsletter(s) that you signed up for.  If you want to update your email address or stop receiving the links to the newsletter, follow the procedures to unsubscribe at the bottom of any newsletter link email we send you or simply visit [http://www.everythingmom.com](http://www.everythingmom.com/) to update your profile.
 
 _**B.   Membership Information. **_ When you register for membership on a EverythingMom site, we will ask you for certain minimum required information, such as your name, email address, mailing address and postal/zip code.  We may also ask for additional information about you and your interests.  We do this so we can better understand your preferences and tailor the EverythingMom Sites to suit you better.  The more information you volunteer, the more we can tailor the EverythingMom Site and promotions to your interests.  Additionally, third-party service providers may require you to assent to their privacy party as a condition to receiving their service.
 
-_**C.   Email Updates to Members.**_ We may contact you regarding account status, changes to this Policy, our User Agreement or other terms of use, to confirm your registration or for any other business reason related to your use of EverythingMom Sites.  If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you or simply visit [http://www.everythingmom.com](http://everythingmom.com/) to update your profile.
+_**C.   Email Updates to Members.**_ We may contact you regarding account status, changes to this Policy, our User Agreement or other terms of use, to confirm your registration or for any other business reason related to your use of EverythingMom Sites.  If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you or simply visit [http://www.everythingmom.com](http://www.everythingmom.com/) to update your profile.
 
 _**D.   Promotions. **_ We may ask you for Personal Information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by EverythingMom or a third party.  If you choose to enter sweepstakes, contests or promotions sponsored by a third party, the Personal Information you provide will be subject to the privacy policy of the third party sponsor.  We encourage you to check the applicable third party policy before providing any Personal Information.
 
