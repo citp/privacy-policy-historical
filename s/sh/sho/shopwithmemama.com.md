@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529182545id_/http%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185818id_/http%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Shop With Me Mama
+# Privacy Policy
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fshopwithmemama.com%2Fprivacy-policy&media=&description=Privacy+Policy)
 
 This Privacy Policy governs the manner in which Shop with Me Mama collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.shopwithmemama.com](http://www.shopwithmemama.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Shop with Me Mama.
 
@@ -70,5 +72,3 @@ Kelso, Washington 98626
 shopwithme52@yahoo.com
 
 This document was last updated on June 23, 2011
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fshopwithmemama.com%2Fprivacy-policy&media=&description=Privacy+Policy)
