@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mikefilsaime.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627092233id_/http%3A//www.mikefilsaime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikefilsaime.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000622id_/http%3A//www.mikefilsaime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Mike Filsaime Official Website and Blog
 
@@ -68,5 +68,3 @@ USA
 This policy was last updated on 04-09-2010.
 
 Copyright © 2008Law Office of Michael E. Young PLLC , and licensed for use by the owner of this website at www.MikeFilsaime.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
-
-Rating: 7.0/ **10** (2 votes cast)
