@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630033930id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919194029id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - AstaHost
 
 Due to the nature of our service, for security reasons, Xisto Corporation. does collect personally identifiable information about individuals.
 
