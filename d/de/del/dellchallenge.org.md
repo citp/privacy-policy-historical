@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dellchallenge.org privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513055641id_/http%3A//www.dellchallenge.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dellchallenge.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920011107id_/http%3A//www.dellchallenge.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dell Social Innovation Challenge
 
 ## Introduction
 
-The privacy of your personal information is important to the RGK Center for Philanthropy and Community Service (“Dell Social Innovation Competition” or “we”). This privacy policy (this “Privacy Policy”) is provided to explain our online information practices and the choices you can make about the way that your personally identifiable information (“Personal Information”) is collected and used at the DSIC website and all other websites owned or controlled by DSIC (collectively, the “Site”).
+The privacy of your personal information is important to the RGK Center for Philanthropy and Community Service (“Dell Social Innovation Challenge” or "DSIC" or "Dell Education Challenge" or “we”). This privacy policy (this “Privacy Policy”) is provided to explain our online information practices and the choices you can make about the way that your personally identifiable information (“Personal Information”) is collected and used at the DSIC website and all other websites owned or controlled by DSIC (collectively, the “Site”).
 
 If you are an employee of the RGK Center for Philanthropy and Community Service or its affiliates, please note that other internal company policies apply to you related to employee use of company computer systems and networks.
 
