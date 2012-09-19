@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bogglesworldesl.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015836id_/http%3A//bogglesworldesl.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bogglesworldesl.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919085242id_/http%3A//bogglesworldesl.com/privacy.htm) for the most accurate reproduction.*
 
 # Presentation: Youngsan
 
@@ -43,6 +43,8 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 THIS IS VERY IMPORTANT! Third party advertising partners sometimes conduct surveys or place ads that lead to pages that collect information.  Any personally identifiable information that they collect will actually be collected off site (i.e. at another website) but since the ads originated from our site, it may appear that we are collecting information.  
 
+These third party advertisers include Google Adsense and the Hotchalk advertising network.
+
 **Log Files**
 
 Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information.
@@ -66,7 +68,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 Aggregate Information (non-personally identifiable)  
 We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
 
-These are the instances in which we will share usersâ€™ personal information:  
+These are the instances in which we will share users??personal information:  
 We DO NOT Share Personal Information with Third Parties 
 
   
@@ -74,14 +76,14 @@ Links
 This Web site contains links to other sites. Please be aware that we, Lanternfish ESL, are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 Security  
-This Web site takes every precaution to protect our usersâ€™ information.  When users submit sensitive information via the Web site, their information is protected both online and off-line. Currently, we collect no information such as personnel ID or credit cards.
+This Web site takes every precaution to protect our users??information.  When users submit sensitive information via the Web site, their information is protected both online and off-line. Currently, we collect no information such as personnel ID or credit cards.
 
 If users have any questions about the security at our Web site, users can send an email to gunnchris@bogglesworldesl.com <mailto:gunnchris@bogglesworldesl.com>
 
 Notification of Changes  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We will use information in accordance with the privacy policy under which the information was collected.  
 
-If, however, we are going to use usersâ€™ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner.  However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.  In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.  
+If, however, we are going to use users??personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner.  However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.  In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.  
 
 Contact Information  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
