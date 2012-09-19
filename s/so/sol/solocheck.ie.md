@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531025512id_/http%3A//solocheck.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013113id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
 
-# Data Protection and Privacy - Irish Company Info and Credit Scores - SoloCheck
+# Data Protection and Privacy - Irish Company Info - SoloCheck
 
 SoloCheck.ie is concerned about the protection of privacy and security. We will not disclose your personal information to any other party outside the CFI Group of companies.
 
