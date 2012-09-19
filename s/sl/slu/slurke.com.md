@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slurke.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622060032id_/http%3A//www.slurke.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slurke.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919220154id_/http%3A//www.slurke.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slurke
 
