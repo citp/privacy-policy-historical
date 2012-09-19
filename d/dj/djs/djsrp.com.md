@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djsrp.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615021213id_/http%3A//diablomedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djsrp.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919081527id_/http%3A//diablomedia.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
