@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discreetsexdates.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605014407id_/http%3A//discreetsexdates.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discreetsexdates.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919232014id_/http%3A//www.discreetsexdates.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Discreet Sex Dates: Join Right Now for FREE. Be Discreet and Search through thousands of LOCAL PROFILES on DiscreetSexDates.com
 
