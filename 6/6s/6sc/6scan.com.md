@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 6scan.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509134747id_/http%3A//www.6scan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6scan.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204235id_/http%3A//6scan.com/privacy) for the most accurate reproduction.*
 
-# 6Scan - Protect Your Website
+# 6Scan - Website Security And Protection
 
 Your privacy is critically important to us. At 6Scan we have a few fundamental principles:
 
