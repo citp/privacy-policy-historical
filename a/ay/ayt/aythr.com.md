@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aythr.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627024221id_/http%3A//www.aythr.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aythr.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185528id_/http%3A//www.aythr.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Aythr - Link Directory - Privacy Policy
 
