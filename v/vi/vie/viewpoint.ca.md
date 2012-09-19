@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the viewpoint.ca privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513074647id_/http%3A//www.viewpoint.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoint.ca privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182012id_/http%3A//www.viewpoint.ca/privacy) for the most accurate reproduction.*
 
 # Your Privacy — ViewPoint.ca
-
-  * Please login to access that page
-
-
 
 On most sites, this is where you would normally find incomprehensible legalese — but not at ViewPoint.ca.
 
