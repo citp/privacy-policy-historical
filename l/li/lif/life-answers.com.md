@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life-answers.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230710id_/http%3A//www.life-answers.com/numerology-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life-answers.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185935id_/http%3A//www.life-answers.com/numerology-privacy.aspx) for the most accurate reproduction.*
 
 # Free Numerology Readings, Reports & Horoscopes | Life-Answers.com
 
@@ -58,7 +58,7 @@ Life-Answers.com reserves the right to disclose your personally identifiable ent
 
 Choice/Opt-out
 
-If you no longer wish to receive your daily Forecast or exclusive opportunities for offers and discounts or important updates and how they'll affect you, you may opt-out of receiving them by following the instructions included in each forecast or email letter or at '[Contact Us](https://web.archive.org/web/20120503230710id_/http%3A//www.life-answers.com/numerology-contact.aspx)' link.
+If you no longer wish to receive your daily Forecast or exclusive opportunities for offers and discounts or important updates and how they'll affect you, you may opt-out of receiving them by following the instructions included in each forecast or email letter or at '[Contact Us](https://web.archive.org/web/20120919185935id_/http%3A//www.life-answers.com/numerology-contact.aspx)' link.
 
 Other Files 
 
@@ -86,7 +86,7 @@ The security of your personal information is important to us. When you enter sen
 
 Life-Answers.com follows generally accepted industry standards to protect the personal entries you provide, both during transmission and once Life-Answers.com receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Life-Answers.com strives to use commercially acceptable means to protect your personal entries, Life-Answers.com cannot guarantee its absolute security.
 
-If you have any questions about security on this Web site, you can email us at our '[Contact Us](https://web.archive.org/web/20120503230710id_/http%3A//www.life-answers.com/numerology-contact.aspx)' link or by mail at,  
+If you have any questions about security on this Web site, you can email us at our '[Contact Us](https://web.archive.org/web/20120919185935id_/http%3A//www.life-answers.com/numerology-contact.aspx)' link or by mail at,  
 Life Answers  
 PO Box 802536  
 Dallas, TX 75380-2536  
@@ -104,7 +104,7 @@ YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UND
 
 LATEST UPDATE
 
-This Privacy Policy was last updated on: January 18, 2008. Contact Us If you have any questions or concerns that you feel weren’t addressed herein, please contact us at our '[Contact Us](https://web.archive.org/web/20120503230710id_/http%3A//www.life-answers.com/numerology-contact.aspx)' link. 
+This Privacy Policy was last updated on: January 18, 2008. Contact Us If you have any questions or concerns that you feel weren’t addressed herein, please contact us at our '[Contact Us](https://web.archive.org/web/20120919185935id_/http%3A//www.life-answers.com/numerology-contact.aspx)' link. 
 
 **All Rights Reserved.**
 
