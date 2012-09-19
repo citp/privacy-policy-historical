@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,14 +32,14 @@ If anybody feels that Watch Live Cricket is not adhering to its privacy policy i
 ---  
 | Recent Cricket Matches  
 ---  
-| [Sunday, Jun 24 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-24_jun_2012.htm)  
+| [Sunday, Sep 23 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-23_sep_2012.htm)  
 ---  
-[Saturday, Jun 23 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-23_jun_2012.htm)  
-[Friday, Jun 22 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-22_jun_2012.htm)  
-[Thursday, Jun 21 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-21_jun_2012.htm)  
-[Wednesday, Jun 20 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-20_jun_2012.htm)  
-[Tuesday, Jun 19 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-19_jun_2012.htm)  
-[Monday, Jun 18 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-18_jun_2012.htm)  
-[Sunday, Jun 17 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-17_jun_2012.htm)  
-[Saturday, Jun 16 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-16_jun_2012.htm)  
-[Wednesday, Jun 13 2012](https://web.archive.org/web/20120618124317id_/http%3A//www.action8cricket.com/cricketshowdate-13_jun_2012.htm)
+[Saturday, Sep 22 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-22_sep_2012.htm)  
+[Friday, Sep 21 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-21_sep_2012.htm)  
+[Thursday, Sep 20 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-20_sep_2012.htm)  
+[Wednesday, Sep 19 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-19_sep_2012.htm)  
+[Tuesday, Sep 18 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-18_sep_2012.htm)  
+[Monday, Sep 17 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-17_sep_2012.htm)  
+[Saturday, Sep 15 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-15_sep_2012.htm)  
+[Thursday, Sep 13 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-13_sep_2012.htm)  
+[Wednesday, Sep 12 2012](https://web.archive.org/web/20120920005103id_/http%3A//www.action8cricket.com/cricketshowdate-12_sep_2012.htm)
