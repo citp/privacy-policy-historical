@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineprasad.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510165318id_/http%3A//www.onlineprasad.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineprasad.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919194307id_/http%3A//onlineprasad.com/privacy_policy) for the most accurate reproduction.*
 
 # Online Prasad
 
