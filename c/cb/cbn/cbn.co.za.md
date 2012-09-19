@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cbn.co.za privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528224133id_/http%3A//www.cbn.co.za/index.php%3FPage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.co.za privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192242id_/http%3A//www.cbn.co.za/index.php%3FPage%3Dprivacy) for the most accurate reproduction.*
 
 # Cape Business News - Trade Leads, Tenders, Jobs, Press Offices
 
 [](http://www.cbn.co.za/)
 
-SA Time 12:41AM
+SA Time 9:22PM
 
-R/$ 8.34  R/€10.46  R/£ 13.05  Gold 1573.70  Platinum 1434.00
+R/$ 8.26  R/€10.78  R/£ 13.36  Gold 1770.36  Platinum 1635.25
 
 Courtesy of Sharenet
 
