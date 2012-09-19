@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediatrust.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatrust.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to MediaTrust - The Platform for Performance Marketing
 
@@ -93,19 +93,19 @@ Performance advertising allows you to easily manage your marketing budget with c
 
 If you are an advertiser interested in pay for or a publisher interested in increasing your performance marketing revenue, sign up with MediaTrust for the best technology and expert advice and service.
 
-  * [Ad Network](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/ad-network.php)
-  * [Affiliate Advertising](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/affiliate-advertising.php)
-  * [Affiliate Marketing](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/affiliate-marketing.php)
-  * [Affiliate Network](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/affiliate-network.php)
-  * [Increase Online Sales](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/increase-online-sales.php)
-  * [Advertising On Social Networks](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/advertising-on-social-networks.php)
-  * [Pay Per Click Advertising](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/pay-per-click-advertising.php)
+  * [Ad Network](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/ad-network.php)
+  * [Affiliate Advertising](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/affiliate-advertising.php)
+  * [Affiliate Marketing](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/affiliate-marketing.php)
+  * [Affiliate Network](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/affiliate-network.php)
+  * [Increase Online Sales](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/increase-online-sales.php)
+  * [Advertising On Social Networks](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/advertising-on-social-networks.php)
+  * [Pay Per Click Advertising](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/pay-per-click-advertising.php)
 
 
-  * [Pay For Performance](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/pay-for-performance.php)
-  * [Performance Advertising](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/performance-advertising.php)
-  * [Search Engine Marketing](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/search-engine-marketing.php)
-  * [Direct Mail Marketing](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/direct-mail-marketing.php)
-  * [Display Advertising](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/display-advertising.php)
+  * [Pay For Performance](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/pay-for-performance.php)
+  * [Performance Advertising](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/performance-advertising.php)
+  * [Search Engine Marketing](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/search-engine-marketing.php)
+  * [Direct Mail Marketing](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/direct-mail-marketing.php)
+  * [Display Advertising](https://web.archive.org/web/20120920012422id_/http%3A//www.mediatrust.com/display-advertising.php)
 
 
