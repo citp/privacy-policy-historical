@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themobiusloop.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221311id_/http%3A//www.themobiusloop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themobiusloop.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919193704id_/https%3A//www.themobiusloop.com/privacy.php) for the most accurate reproduction.*
 
-# Mobius Loop
+# The Mobius Loop
 
 Mobius Loop has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website:
 
@@ -35,4 +35,4 @@ You can call the following telephone number: 213-785-8829
 
 ### Contacting the Web Site:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can : [Contact Us](https://web.archive.org/web/20120503221311id_/http%3A//www.themobiusloop.com/contactsupport.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can : [Contact Us](https://web.archive.org/web/20120919193704id_/https%3A//www.themobiusloop.com/contactsupport.php)
