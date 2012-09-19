@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomehybrid.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221104id_/http%3A//www.incomehybrid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomehybrid.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190504id_/http%3A//www.incomehybrid.com/privacy.php) for the most accurate reproduction.*
 
 # Income Hybrid -
 
