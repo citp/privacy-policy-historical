@@ -1,66 +1,41 @@
-> *The following text is extracted and transformed from the loudlaunch.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502041033id_/http%3A//www.loudlaunch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudlaunch.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005342id_/http%3A//loudlaunch.com/privacy-security/privacy-policy) for the most accurate reproduction.*
 
-# LoudLaunch.Com - Create market buzz and build links through sponsored reviews and blog advertising.
+# Privacy Policy - SEO link building by LoudLaunch
 
-  
+**_Information We Collect_**  
+We collect information in connection with our products and services in the following circumstances: (i) registering for an account, (ii) participation in surveys, sweepstakes, contests, and promotions ("Surveys and Promotions"), (iii) contacting LoudLaunch, and (iv) visiting and browsing any of our site. You may choose not to provide us with certain information, but this may limit the services we are able to provide you. 
 
+**_Personally Identifiable Information_**  
+We call information you provide that can be used to locate or identify you "Personally Identifiable Information." We use Personally Identifiable Information to provide our Services to you and to communicate with you regarding such Services. 
 
-## Privacy Policy
+___
 
-This site is owned and operated by LoudLaunch.Com. Your privacy on the Internet is of the utmost importance to us. At LoudLaunch.Com, we want to make your experience online satisfying and safe.
+**_Anonymous Information_**  
+We collect Anonymous Information on our sites and blogger sites, through small text files called "cookies." We use both session Cookies (which expire when you close your web browser) and persistent Cookies (which stay on your computer until you delete them). 
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+_How We Use the Information We Collect_
 
-INFORMATION LOUDLAUNCH.COM GATHERS AND TRACKS 
+We may use your Personally Identifiable Information to provide information you have requested or products you have purchased (e.g., membership updates, e-mail newsletters, advertising insertion orders), to resolve disputes, collect fees, and troubleshoot problems. We also may use your Personally Identifiable Information to respond to specific inquiries made by you; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and to customize, measure, and improve our Services, content, and layout. 
 
-LoudLaunch.Com gathers two types of information about users:
+**_Behavioral Advertising Compliance Disclosure and Opting Out_**  
+LoudLaunch does not collect or use data of browsing behaviour or any data potentially used for online behavior marketing purposes. Data Retention Unless you contact us to request the deletion of your site owner account, we will retain data for as long as it is necessary to fulfill a legitimate business purpose or as required by law. 
 
-Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys: 
+**_Phishing_**  
+We do not and will not, at any time, request your credit card information, your username, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to LoudLaunch. Safeguarding information to help protect you from identity theft is our top priority. For more information about phishing, you may want to visit the Federal Trade Commission’s website at http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm 
 
-Information LoudLaunch.Com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because LoudLaunch.Com derives aspects of its revenue from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our no cost options available. Under no circumstances does LoudLaunch.Com divulge any information about an individual user to a third party. 
+**_Information Sharing_**  
+Except as set forth in this Privacy Policy, we will not share your Personally Identifiable Information with third parties. 
 
-LoudLaunch.Com Gathers User Information In The Following Processes: 
+**_Third Party Service Providers_**  
+We engage certain trusted third parties to perform various functions and provide services to us (for example, web hosting services and maintenance services). These third parties may have access to some of your Personally Identifiable Information, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your Personally Identifiable Information. 
 
-OPTIONAL VOLUNTARY INFORMATION
+**_Compliance with Laws and Law Enforcement_**  
+We may choose to disclose some or all of your Personally Identifiable Information to the government, law enforcement officials, or private parties if we, in our sole discretion, believe it necessary or appropriate to comply with the law, to respond to legal complaints, to comply with legal process (including subpoenas), to protect the rights of LoudLaunch or a third party, to ensure the safety of the public or any person, or to prevent or stop any illegal, unethical, or legally questionable activity. 
 
-We offer the following free services, which require some type of voluntary submission of personal information by users: 
+**_Accessing and Changing Your Information_**  
+You may always access and modify certain of your Personally Identifiable Information you provide through LoudLaunch’s self-service e-commerce platform by visiting the "sign in" area at the LoudLaunch Domain. 
 
-1\. Electronic newsletters policy (Dispatches) We will offer a free electronic newsletter to users.  LoudLaunch.Com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration. 
+**_Security_**  
+We place great importance on the safety and security of your Personally Identifiable Information. We employ certain physical, procedural, and technological measures in an attempt to protect your Personally Identifiable Information from unauthorized access and use. LoudLaunch’s servers that contain Personally Identifiable Information are stored in an off-site facility. LoudLaunch also uses hashed passwords, which allows an algorithmic version of your password to be stored instead of you actual password. When receiving financial information (e.g., PayPal account IDs) for completing certain online transactions, including those in connection with the LoudLaunch self-service platform, our site uses SSL or "Secure Sockets Layer," an industry standard security protocol, though other communications through the Sites are not encrypted. Although we do attempt to keep your Personally Identifiable Information secure, no security measures are perfect; there is always a possibility that a security breach could occur, resulting in the release of Personally Identifiable Information. 
 
-2\. Message boards/forums policy Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address. 
-
-3\. "Refer a friend" policy. Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
-
-4\. Polling We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. LoudLaunch.Com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
-
-5\. Surveys LoudLaunch.Com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
-
-USAGE TRACKING
-
-LoudLaunch.Com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. LoudLaunch.Com does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). LoudLaunch.Com sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
-
-COOKIES
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. LoudLaunch.Com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. Privacy Policy Use How the information you gather is used if relevent. 
-
-USE OF INFORMATION 
-
-LoudLaunch.Com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. LoudLaunch.Com never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners. When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters. LoudLaunch.Com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
-
-SHARING OF THE INFORMATION 
-
-LoudLaunch.Com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
-
-SECURITY 
-
-LoudLaunch.Com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
-
-OPT-OUT POLICY 
-
-We give users options wherever necessary and practical. Such choices include: Opting not to register to receive our electronic newsletters. Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users. 
-
-YOUR CONSENT 
-
-By using this site, you consent to the collection and use of this information by LoudLaunch.Com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+___
