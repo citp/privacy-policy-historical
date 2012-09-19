@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508092036id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182754id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and Site Security Policies
 
@@ -49,7 +49,7 @@ This site contains links to other sites. 4Wheelparts.com is not responsible for 
 
   * **Mailing List**
 
-We may make our customer list available to companies whose offerings may be of interest. If you prefer not to receive these mailings, please write to us at: Mail List Preference, 4Wheel Drive Hardware, PO Box 57, Columbiana, OH 44408. We will not give your email address to other companies.
+If you prefer not to receive any mailings, please write to us at: Mail List Preference, 400 W. Artesia Blvd. Compton, CA 90220. We will not give your email address to other companies. 
 
   * **Duplicate Catalog**
 
