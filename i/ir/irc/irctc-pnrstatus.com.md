@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irctc-pnrstatus.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621054638id_/http%3A//www.irctc-pnrstatus.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irctc-pnrstatus.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230857id_/http%3A//www.irctc-pnrstatus.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
