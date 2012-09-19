@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bawd.co.nz privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628114956id_/http%3A//www.bawd.co.nz/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bawd.co.nz privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919222204id_/http%3A//www.bawd.co.nz/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy BAWD.co.nz
-
-| 
 
 This site is owned and operated by Nicholas Pope. Your privacy on the Internet is of the utmost importance to me. At BAWD.co.nz, we want to make your experience online satisfying and safe.
 
@@ -82,6 +80,9 @@ By using this site, you consent to the collection and use of this information by
 
 Statistics 
 
-| Articles: | 408  
+| Articles: | 1652  
 ---|---  
-Comments: | 0
+Comments: | 35  
+Pending Approval: | 99  
+Total Listing Clicks: | 1011  
+Total Category Clicks: | 30401
