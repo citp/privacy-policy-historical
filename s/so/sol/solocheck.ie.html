@@ -1,14 +1,18 @@
-<!--The following is the downloaded HTML source of the solocheck.ie privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531025512id_/http%3A//solocheck.ie/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solocheck.ie privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920013113id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-<title>Data Protection and Privacy - Irish Company Info and Credit Scores - SoloCheck</title>
-<meta name="description" content="Search for Irish Companies or Irish Directors to view audited accounts, annual returns and company shareholders on SoloCheck">
+<title>Data Protection and Privacy - Irish Company Info - SoloCheck</title>
+<meta name="description" content="Data Protection and Privacy. Search for Irish Companies or Irish Directors to view audited accounts, annual returns and company shareholders.">
 <meta name="keywords" content="irish company search,irish director search,company info,director information,documents,audited accounts,limited company,irish company report,company number,company name, director name, memo and arts, memorandum and articles">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script language="javascript" src="/vn.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script language="javascript" src="/vn.js?v=3" type="text/javascript"></script>
 <script language="javascript" src="/validate.js" type="text/javascript"></script>
-<link href="/solocheck-main.css" rel="stylesheet" type="text/css">
+<link href="/solocheck-main.css?v=2" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="shortcut icon">
 <link title="SoloCheck - Irish Company Search" href="/opensearch.xml" type="application/opensearchdescription+xml" rel="search"><script language="javaScript" type="text/javascript">
 	<!--
@@ -21,9 +25,9 @@
 <div id="header">
 
 	<div id="search-tabs">
-		<img src="/images/search-irish-on-01.gif" alt="Uk Search" width="108" height="43" border="0">
-		<img src="/images/search-irish-on-02.gif" alt="" width="31" height="43">
-		<a href="/setUKSearch.jsp"><img src="/images/search-irish-on-03.gif" alt="Uk Search" width="107" height="43" border="0"></a>
+		<a href="/setIrishSearch.jsp"><img src="/images/search-uk-on-01.gif" alt="Uk Search" border="0"></a>
+		<img src="/images/search-uk-on-02.gif" alt="">
+		<img src="/images/search-uk-on-03.gif" alt="Uk Search" border="0">
 	</div>
 <div id="topnav">
 	<ul>
@@ -35,7 +39,7 @@
 			</ul>
 </div><div id="banner">
 		<div style="margin:40px 0px 15px 15px; padding:0; width:405px;">
-				<h1>Shop for <span>Irish Company Reports, Credit Ratings, Audited Accounts &amp; Directors Reports</span> in seconds</h1>
+				<h1>Shop for <span>UK Company Reports, Companies House Scanned Documents &amp; Director Reports</span> in seconds</h1>
 				<span style="font-weight:bold;"></span>
 			</div>
 		</div>
@@ -53,58 +57,54 @@
 
 <div id="leftcol">
 	<div id="search">
-<h3>Irish Company or Business:</h3>
-	<form method="post" target="_top" name="companySearchForm" onsubmit="javascript:return coSearchTest(this);" action="/searchResults.jsp" style="margin-bottom:0px;padding-bottom:0px;margin-top:0px;padding-top:0px;">
+<h3>UK Registered Company:</h3>
+	<form method="post" target="_top" name="ukCompanySearchForm" onsubmit="javascript:return ukCompanySearchTest(this);" action="/searchResultsUK.jsp" style="margin-bottom:0px;padding-bottom:0px;margin-top:0px;padding-top:0px;">
 		<table class="search-input" border="0">
 			<tbody><tr>
 				<td width="96"><label>Name:</label></td>
-				<td width="114"><input tabindex="1" style="width:135px; " name="irishCompanyName" type="text"></td>
+				<td width="114"><input tabindex="1" style="width:135px; " name="companyNameUK" type="text"></td>
 			</tr>
 			<tr>
 				<td><label>Number:</label></td>
-				<td><input tabindex="2" style="width:135px; " name="irishCompanyNumber" type="text"></td>
+				<td><input tabindex="2" style="width:135px; " name="companyNumberUK" type="text"></td>
 			</tr>
 			<tr>
-				<td><label>Status:</label></td>
+				<td>Data Set</td>
 				<td>
-					<select tabindex="3" style="width:135px; " name="irishCompanyStatus" class="select_search">
-						<option value=""> </option>
-						<option value="1" selected="selected">Normal</option>
-						<option value="2">Liquidation</option>
-						<option value="3">Receivership</option>
-						<option value="4">Examinership</option>
-						<option value="5">Receive/Liquidator</option>
-						<option value="6">Strike Off Listed</option>
-						<option value="7">Struck Off</option>
-						<option value="8">Dissolved</option>
-						<option value="9">Dissolved-20 Years</option>
-						<option value="10">Reinstated HCO</option>
-						<option value="11">Reinstated</option>
-						<option value="12">Interim</option>
-						<option value="13">Ceased - Business</option>
-						<option value="14">Ceased IRL</option>
+					<select name="DataSet" style="width:139px; ">
+						<option value="LIVE">Live</option>
+						<option value="DISSOLVED">Dissolved</option>
+						<option value="FORMER">Previous Name</option>
+						<option value="PROPOSED">Proposed Name</option>
 					</select>
 				</td>
 			</tr>
 			<tr>
 				<td width="96"></td>
-				<td width="114"><input tabindex="4" class="button140" type="submit" name="Send" value="Search"></td>
+				<td width="114"><input tabindex="3" class="button140" type="submit" name="Send" value="Search"></td>
 			</tr>
 		</tbody></table>
 	</form>
-	<h3 class="border">Irish Director Search:</h3>
-	<form method="post" target="_top" name="directorSearchForm" onsubmit="javascript:return dirSearchTest(this);" action="/searchResults.jsp" style="margin-bottom:0px;padding-bottom:0px;margin-top:0px;padding-top:0px;">
+	<h3 class="border">UK Director Search: </h3>
+	<form method="post" target="_top" name="ukDirectorSearchForm" onsubmit="javascript:return ukDirectorSearchTest(this);" action="/searchResultsUK.jsp" style="margin-bottom:0px;padding-bottom:0px;margin-top:0px;padding-top:0px;">
+		<input type="hidden" name="resignedUK" value="1">
+		<input type="hidden" name="dirType" value="CUR">
 		<table class="search-input" border="0">
 			<tbody><tr>
-				<td width="96"><label>Name:</label></td>
-				<td width="114"><input tabindex="5" style="width:135px;" name="dirName" type="text"></td>
+				<td width="96"><label>Surname:</label></td>
+				<td width="114"><input tabindex="5" style="width:135px;" name="surnameUK" type="text"></td>
+			</tr>
+			<tr>
+				<td><label>Forename:</label></td>
+				<td><input tabindex="6" style="width:135px;" name="forename1UK" type="text"></td>
 			</tr>
 			<tr>
 				<td width="96"></td>
-				<td width="114"><input tabindex="6" class="button140" type="submit" name="Send" value="Search"></td>
+				<td width="114"><input tabindex="7" class="button140" type="submit" name="Send" value="Search"></td>
 			</tr>
 		</tbody></table>
 	</form>
+
 <span></span>	</div><div id="banner-tile">
 			</div>
 	</div>
@@ -169,13 +169,9 @@
 	<ul>
 <li class="nobar"><a href="/privacy.jsp">Privacy Policy</a></li></ul>
 	</div>
-	<p id="copy">©SoloCheck.ie 2012<br>Data Updated: 30 May 2012
+	<p id="copy">©SoloCheck.ie 2012<br>Data Updated: 19 Sep 2012
 </p>
 </div></div> </div> </div> <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-904374-1");
 pageTracker._trackPageview();
 </script>
