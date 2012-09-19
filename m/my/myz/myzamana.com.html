@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the myzamana.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623044942id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myzamana.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919225000id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="description" content="Meet interesting people on myZamana!"><meta name="keywords" content=""><link rel="stylesheet" type="text/css" href="http://static.myzamana.com/css/style_gzip.css?v=2" media="screen"><!--[if IE]><link rel="stylesheet" type="text/css" href="http://static.myzamana.com/css/ie_gzip.css?v=2" media="screen" /><![endif]--><!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://static.myzamana.com/css/ie6_gzip.css?v=2" media="screen" /><![endif]--><title>myZamana - Privacy Policy</title><link rel="shortcut icon" href="http://static.myzamana.com/imgs/icons/favicon.ico"></head><body><div id="header"><a href="http://myzamana.com/"><h1 id="logo"></h1></a><div id="links">Already a member? <a href="login">Login here</a>.</div><div class="clearfix"></div></div><div id="FaceboxPopUp" style="display:none;"></div><div class="wrapper"><div class="padding"><div class="content_body white-bg border"><div class="padding"><h2 class="modern">Privacy Policy</h2><br>Hello,<br><br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xmlnshtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="description" content="Meet interesting people on myZamana!"><meta name="keywords" content=""><link rel="stylesheet" type="text/css" href="http://static.myzamana.com/css/style_gzip.css?v=2" media="screen"><!--[if IE]><link rel="stylesheet" type="text/css" href="http://static.myzamana.com/css/ie_gzip.css?v=2" media="screen" /><![endif]--><!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://static.myzamana.com/css/ie6_gzip.css?v=2" media="screen" /><![endif]--><title>myZamana - Privacy Policy</title><link rel="shortcut icon" href="http://static.myzamana.com/imgs/icons/favicon.ico"></head><body><div id="header"><a href="http://myzamana.com/"><h1 id="logo"></h1></a><div id="links">Already a member? <a href="login">Login here</a>.</div><div class="clearfix"></div></div><div id="FaceboxPopUp" style="display:none;"></div><div class="wrapper"><div class="padding"><div class="content_body white-bg border"><div class="padding"><h2 class="modern">Privacy Policy</h2><br>Hello,<br><br>
 We're committed to your privacy and safety. With regard to your information, you own all of it and we will not share or sell it to any third-party. If there any concerns or questions you may have please <a href="http://myzamana.com/contact">contact</a> our support staff with any questions.
 <br><br>
 Best Regards,<br>
@@ -66,10 +66,9 @@ We may change this Privacy Policy from time to time based on changes in the law,
           oauth: true
         });
         FB.Event.subscribe('auth.login', function(response) {
-			xajax_fb_login();
+			xajax_fb_login(0);
         });
         FB.Event.subscribe('auth.logout', function(response) {
-          //window.location.reload();
         });
       };
 
@@ -78,17 +77,14 @@ We may change this Privacy Policy from time to time based on changes in the law,
 		FB.login(function(response) {
 		  if (response.authResponse) 
 		  {
-		    console.log('Welcome!  Fetching your information.... ');
 		    FB.api('/me', function(response) 
 			{
-				xajax_fb_login();
-		      	console.log('Good to see you, ' + response.name + '.');
+				xajax_fb_login(1);
 		    });
 		
 		  } 
 		  else 
 		  {
-		    console.log('User cancelled login or did not fully authorize.');
 		  }		  
 		}, {scope: 'user_photos,user_birthday,email'});
   	
