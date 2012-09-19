@@ -1,44 +1,58 @@
-> *The following text is extracted and transformed from the techcity.pk privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523171325id_/http%3A//techcity.pk/pages.php%3FpID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcity.pk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919215127id_/http%3A//techcity.pk/privacy.php) for the most accurate reproduction.*
 
-# TechCity.pk - Privacy Policy - Privacy Policy
+# TechCity.pk - htc, nokia, ipad, watch, tablet, t-shirt
 
-The purpose of this statement is to set out how we use personal information that we may obtain about you. By either registering as a user of any services provided by techcity on this website and by using the techcity website generally you agree to this use.
+**What information do we collect?**
 
-Use of your Personal Information
+We collect information from you when you place an order or subscribe to our newsletter. 
 
-1\. When you register and use this site:  
-* You will be asked to provide certain information such as your contact details. We will store this data and hold it on computers or otherwise. We will use this data to fulfill our agreement with you.  
-2\. We may use information that you provide or that is obtained by us:  
-* to register you with our website and to administer our website services;  
-* or assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer and to enable us to provide you and other customers with relevant information through our marketing programmed. We may use your information to make decisions about you using computerized technology, for example automatically selecting products or services which we think will interest you from the information we have. We may keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by any of the following methods:  
-o email  
-o telephone (including automated calls)  
-o SMS text message and other electronic messages such as picture messaging  
-o post  
-o fax  
-o or otherwise  
-(including products and services of other companies and organizations) which we consider may be of interest to you. If you do not wish to receive information of such products and services, please tick the opt-out box provided when registering on this website.  
-3\. We may supplement the information that you provide to us with information that we receive from third parties.  
-4\. Fraud Prevention  
-In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other retailers and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way.  
-5\. Disclosure of Your Information  
-We may give information about you to the following, who may use it for the same purposes as set out above:  
-* to employees and agents in the organization to administer any accounts, products and services provided to you by the techcity.pk now or in the future;  
-* agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs;  
-* to anyone to whom we transfer or may transfer our rights and duties under our agreement with you;  
-* if we have a duty to do so or if the law allows us to do.  
-6\. Security  
-We endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.  
-7.  
-For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on Secure online shopping.  
-8\. General  
-Please be aware that our site may link to other websites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked websites.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-How can I get my name removed from the techcity.pk mailing list?
+ **What do we use your information for?**
 
-If you want to be removed from our mailing list, please send an email to info@techcity.pk with the word \'remove\' in the subject line and the email address that you wish to be removed within the email. Please note that it may take up to 28 days to action your request.
+Any of the information we collect from you may be used in one of the following ways: 
 
-This Policy may change from time to time, so please check back periodically. We reserve the right to use or disclose your personally identifiable information for business reasons in whatever manner desired
+To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Contact Us  
-If you have any comments or queries in connection with our privacy policy, please call 021-4140918 or simply write to us at info@techcity.pk
+To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Your Consent**
+
+By using our site, you consent to our web site privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+http://www.techcity.pk/ 
