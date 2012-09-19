@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantxchange.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502110928id_/http%3A//www.instantxchange.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantxchange.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013633id_/http%3A//www.instantxchange.com/privacy_policy.php) for the most accurate reproduction.*
 
 # InstantXchange | Free unique traffic exchange service to increase your website traffic.
 
