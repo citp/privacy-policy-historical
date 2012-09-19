@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sharedreviews.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615233053id_/http%3A//sharedreviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharedreviews.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919232027id_/http%3A//sharedreviews.com/privacy) for the most accurate reproduction.*
 
-# SharedReviews Privacy Policy
+# Sharedreviews Privacy Policy
 
-  * [Terms of Service](http://sharedreviews.com/terms "SharedReviews Terms of Service")
+  * [Terms of Service](http://sharedreviews.com/terms "Sharedreviews Terms of Service")
   *   * Privacy Policy
 
   *   * [Attribution](http://sharedreviews.com/attribution "Licensing and Attribution Requirements")
