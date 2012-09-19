@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs-cbn.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612082536id_/http%3A//www.abs-cbn.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs-cbn.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231058id_/http%3A//www.abs-cbn.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement :: ABS-CBN.com
 
