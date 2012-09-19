@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bundlr.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510074719id_/http%3A//bundlr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundlr.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231655id_/http%3A//bundlr.com/privacy) for the most accurate reproduction.*
 
 # Bundlr - Privacy Policy
 
