@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholinks2me.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627224446id_/http%3A//www.wholinks2me.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholinks2me.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919220505id_/http%3A//www.wholinks2me.com/privacy.php) for the most accurate reproduction.*
 
 # Who links to my Website :: Free tool to check who is linking to your website!
 
@@ -88,4 +88,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ## Transfer and sharing of data
 
-In the course of providing the Services data is transferred to and from servers located in the United States. By agreeing to WhoLinks2Me's [Terms of Service](https://web.archive.org/web/20120627224446id_/http%3A//www.wholinks2me.com/tos.php) you accept the transfer of such data as is necessary to provide the Services.
+In the course of providing the Services data is transferred to and from servers located in the United States. By agreeing to WhoLinks2Me's [Terms of Service](https://web.archive.org/web/20120919220505id_/http%3A//www.wholinks2me.com/tos.php) you accept the transfer of such data as is necessary to provide the Services.
