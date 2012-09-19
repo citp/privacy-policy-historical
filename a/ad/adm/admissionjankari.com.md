@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admissionjankari.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204850id_/http%3A//www.admissionjankari.com/Admission-Jankari-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissionjankari.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204456id_/http%3A//www.admissionjankari.com/Admission-Jankari-Privacy-Policy) for the most accurate reproduction.*
 
 # Admission Jankari | Find top MBA colleges in India | List of top MBA colleges, engineering colleges, medical colleges in Delhi/NCR, Pune, Bangalore, Kolkata, Chennai, Greater Noida, Gurgaon, Meerut, Indore, Bhubaneswar, Jaipur, Raipur, Bhopal, Dehradun, Hyderabad, Nashik, Ahmedabad | India
 
