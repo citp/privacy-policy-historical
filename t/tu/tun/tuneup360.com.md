@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuneup360.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508155157id_/http%3A//www.tuneup360.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneup360.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204102id_/http%3A//tuneup360.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # TuneUp360.com-PC Tuneup and Repair Online
 
