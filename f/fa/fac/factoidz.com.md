@@ -1,30 +1,34 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527132653id_/http%3A//factoidz.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920010048id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Factoidz | Share Knowledge
+# Privacy Policy — Knoji
 
-At Factoidz we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Factoidz Inc. or its subsidiaries or affiliated companies (collectively, Factoidz’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
+Find coupons, reviews & forums for thousands of companies
 
-Factoidz adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s safe harbor program.
+SEARCH
+
+At Knoji we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Knoji Inc. or its subsidiaries or affiliated companies (collectively, Knoji’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
+
+Knoji adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s safe harbor program.
 
 ### Information we collect and how we use it
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Factoidz articles. In order to provide our full range of services, we may collect the following types of information:
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Knoji articles. In order to provide our full range of services, we may collect the following types of information:
 
-Information you provide - When you sign up for a Factoidz Account or other Factoidz service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Factoidz services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+Information you provide - When you sign up for a Knoji Account or other Knoji service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Knoji services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
 
-Factoidz cookies - When you visit Factoidz, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Factoidz features and services may not function properly if your cookies are disabled.
+Knoji cookies - When you visit Knoji, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Knoji features and services may not function properly if your cookies are disabled.
 
-Log information - When you use Factoidz services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+Log information - When you use Knoji services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
-User communications - When you send email or other communication to Factoidz, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+User communications - When you send email or other communication to Knoji, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
-Affiliated sites - We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Factoidz in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+Affiliated sites - We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Knoji in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
 
-Links - Factoidz may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our FAQs.
+Links - Knoji may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our FAQs.
 
-Other sites - This Privacy Policy applies to web sites and services that are owned and operated by Factoidz. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+Other sites - This Privacy Policy applies to web sites and services that are owned and operated by Knoji. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
-Factoidz only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
+Knoji only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
   * Providing our products and services to users, including the display of customized content and advertising;
   * Auditing, research and analysis in order to maintain, protect and improve our services;
@@ -35,7 +39,7 @@ Factoidz only processes personal information for the purposes described in the a
 
 You can find more information about how we process personal information by referring to the privacy notices for particular services.
 
-Factoidz processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+Knoji processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
 ### Choices for personal information
 
@@ -43,19 +47,19 @@ When you sign up for a particular service that requires registration, we ask you
 
 If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
 
-You can decline to submit personal information to any of our services, in which case Factoidz may not be able to provide those services to you.
+You can decline to submit personal information to any of our services, in which case Knoji may not be able to provide those services to you.
 
 ### Information sharing
 
-Factoidz only shares personal information with other companies or individuals outside of Factoidz in the following limited circumstances:
+Knoji only shares personal information with other companies or individuals outside of Knoji in the following limited circumstances:
 
 We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
 
 We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
 
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Factoidz, its users or the public as required or permitted by law.
+We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Knoji, its users or the public as required or permitted by law.
 
-If Factoidz becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+If Knoji becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
@@ -65,20 +69,188 @@ Please contact us at the address below for any additional questions about the ma
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to Factoidz employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We restrict access to personal information to Knoji employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 ### Data integrity
 
-Factoidz processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+Knoji processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
 ### Accessing and updating personal information
 
-When you use Factoidz services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+When you use Knoji services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
 
 ### Enforcement
 
-Factoidz regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Factoidz’s treatment of personal information by contacting us at contact@factoidz.com. When we receive formal written complaints at this address, it is Factoidz’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Factoidz and an individual.
+Knoji regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Knoji’s treatment of personal information by contacting us at contact@knoji.com. When we receive formal written complaints at this address, it is Knoji’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Knoji and an individual.
 
 ### Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+
+Ask a Question on Knoji 
+
+x
+
+Get answers from experts on Knoji. For the best response, be clear in your wording, include all necessary details and avoid spelling and punctuation errors. 
+
+Your Question:
+
+Details (optional):
+
+All questions are moderated.
+
+Ask a question 
+
+x
+
+will be notified of your question. 
+
+Your question will also be posted as a **public question in the Knoji forums** , so be sure to phrase it as a **general question** that anyone could answer. Personal questions and private messages should be sent using the Message Me feature instead. 
+
+Confirm your recommendation
+
+x
+
+By making this recommendation, you are confirming that you would recommend ****to people you know as an expert in the topic ****.
+
+[Confirm and recommend](http://knoji.com/lets/voteuppost) Cancel 
+
+You have used your question credit for today. Please wait until midnight today for your question credits to renew.
+
+x
+
+To maintain a high standard for new discussions started, each Knoji member is limited to a certain number of questions each day. Use your questions wisely, ask quality questions and you'll get quality answers. 
+
+Credits refresh at midnight US Central time, at which time you'll receive your next day's allotment of credits. 
+
+Oops, you haven't confirmed your email yet
+
+x
+
+We've sent an email to your registration email address. You'll need to click the link in that email before you can post stuff on Knoji. 
+
+Didn't get the email? First, try checking your spam inbox. If you can't find it, click here and we'll [resend your confirmation link.](http://knoji.com/confirm-email-resend.php)
+
+Please confirm your email address
+
+x
+
+**We've sent a confirmation link** to your email address. Please **check your email** and click the link to confirm to your account. 
+
+Didn't get the email? First, try checking your spam inbox. If you can't find it, click here and we'll [resend your confirmation link.](http://knoji.com/confirm-email-resend.php)
+
+Great! Here's a preview of your question.
+
+x
+
+We've sent a confirmation link to your registration email address. Please click this link to confirm your email. 
+
+Your question will not be posted publicly until you confirm your email.
+
+Didn't get the email? First, try checking your spam inbox. If you can't find it, click here and we'll [resend your confirmation link.](http://knoji.com/confirm-email-resend.php)
+
+Your confirmation email has been resent
+
+x
+
+Please check your email (check your spam inbox too) and click on the link provided to confirm your account with Knoji. 
+
+You have received 0 answer votes on Knoji
+
+x
+
+When people like the answers you provide, they make a public acknowledgement by placing a vote for your answer. The more votes you accumulate on Knoji, the higher you move up in rank. Increased rank gives you increased capabilities, more perks and more expert cred around the site. 
+
+[Answer questions now](http://knoji.com/questions/all/needsanswers/today/1/) Learn more about user levels 
+
+Oops, you're out of question credits for today!
+
+x
+
+We limit the number of questions members can ask on Knoji each day in order to improve the quality of questions and answers. Your question credits will reset each day at midnight US Central time, so come back then to ask more questions! 
+
+User Levels on Knoji
+
+x
+
+Contributors on Knoji are awarded Levels as they establish themselves as experts within the community. There are **three ways** in which users can increase their level, via **writing articles** or via **answering questions** , or **both**.
+
+Member
+
+-
+
+-
+
+-
+
+Can publish articles, ask and answer questions
+
+Contributor
+
+Successfully publish first article
+
+Must earn +50 votes
+
+Publish first article OR +50 answer votes
+
+Eligible for revenue sharing. Access to Dashboard.
+
+Expert
+
+Must publish **10 consecutive articles**
+
+Must earn +200 votes
+
+10 articles OR +200 answer votes
+
+Self-publish and edit past articles. Increased compensation rate.
+
+Guide
+
+Must earn +500 recommendations
+
+Must earn +1,000 votes
+
++250 article recommendations AND +500 answer votes
+
+Increased earnings rate. Greater number of votes.
+
+Authority
+
+Must earn +1,000 recommendations
+
+Must earn +5,000 votes
+
++500 article recommendations AND +2,500 answer votes
+
+Increased earnings rate. Greater number of votes & question credits.
+
+Pro
+
+Must earn +5,000 recommendations
+
+Must earn +10,000 votes
+
++2,500 article recommendations AND +5,000 answer votes
+
+Increased earnings rate. Greater number of votes.
+
+Master
+
+Must earn +10,000 recommendations
+
+Must earn +50,000 votes
+
++5,000 article recommendations AND +25,000 answer votes
+
+Increased earnings rate. Greater number of votes.
+
+What's a working, unique coupon?
+
+x
+
+To qualify as a working coupon, the link or code must provide a discount above and beyond what's freely available by default on the vendor's site. 
+
+To check this, first click the link and check that the coupon can be applied and does provide the discount described. Then, in a different browser, open the vendor's site (without using the Knoji link) and check whether that same discount is available to any user by default. If it's not, and the coupon works, then you've found a qualified coupon and can verify it and get your earnings. If not, you can verify that it does not work (explain why this is) and you'll earn a smaller credit. 
+
+**Don't waste your time verifying invalid coupons!** Before you receive payment, all your verifications will be reviewed, and if they are invalid, **you earnings will be deleted**. Verify only valid coupons in order to receive payment for this project. 
