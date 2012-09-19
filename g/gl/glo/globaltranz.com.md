@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltranz.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213738id_/http%3A//globaltranz.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltranz.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920010609id_/http%3A//www.globaltranz.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Carrierrate.com is the leading provider of web-based freight transportation mana
 
 Carrierrate.com has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Carrierrate.com web site.
 
-Carrierrate.com collects various information for various purposes. The information collected is used to market and improve the services we offer, to improve our web site content, and to contact customers or vendors with service updates, technical updates, or for other marketing purposes. If you have questions or concerns regarding this statement, you should contact Carrierrate.com by email at [shannon@globaltranz.com](mailto:shannon@globaltranz.com) or by phone at 866.275.1407.
+Carrierrate.com collects various information for various purposes. The information collected is used to market and improve the services we offer, to improve our web site content, and to contact customers or vendors with service updates, technical updates, or for other marketing purposes. If you have questions or concerns regarding this statement, you should contact Carrierrate.com by email at [shannon@globaltranz.com](mailto:shannon@globaltranz.com) or by phone at 866-275-1407 x104.
 
 ### IP Address and Cookies
 
@@ -36,7 +36,7 @@ This site has security measures in place to protect the loss, misuse or alterati
 
 ### Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving marketing communications from our partners and us. Users can have their information removed from our database and refuse future service updates, or cancel service by calling us at 866.275.1407 or by emailing us at [Shannon@globaltranz.com](mailto:Shannon@globaltranz.com). Users can also determine their own preferred method of communication by instructing us to note their account not to receive certain communications.
+Our site provides users the opportunity to opt-out of receiving marketing communications from our partners and us. Users can have their information removed from our database and refuse future service updates, or cancel service by calling us at 866-275-1407 x104 or by emailing us at [shannon@globaltranz.com](mailto:Shannon@globaltranz.com). Users can also determine their own preferred method of communication by instructing us to note their account not to receive certain communications.
 
 Users may check the privacy statement periodically to view any changes or updates.
 
@@ -45,10 +45,10 @@ Users may check the privacy statement periodically to view any changes or update
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact the company at:
 
 **E-mail:**  
-[Shannon@globaltranz.com](mailto:Shannon@globaltranz.com)
+[shannon@globaltranz.com](mailto:Shannon@globaltranz.com)
 
 **Phone:**  
-866-275-1407
+866-275-1407 x104
 
 **Mailing Address:**  
 GlobalTranz   
