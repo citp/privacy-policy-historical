@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vporn.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621213837id_/http%3A//www.vporn.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vporn.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919081003id_/http%3A//www.vporn.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -7,8 +7,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Vporn - Privacy Policy</title>
 
-    <meta name="keywords" content="porn, free porn, porn videos, sex movies, free tube site, sex videos, porn tube">
-    <meta name="description" content="V Porn is one of the leading porn tube sites for free HD porn video streaming. Enter the site and watch thousands of hours of free HD porn.">
+    <meta name="keywords" content="porn, free porn, free hd porn, porn videos, sex movies, free tube site, sex videos, porn tube">
+    <meta name="description" content="VPorn is а free porn tube site for free HD porn video streaming. Enter the site and watch thousands of hours of free HD porn and sex movies.">
 
     <link href="/css/styles.css?2" rel="stylesheet" type="text/css" media="screen">
 
@@ -115,7 +115,6 @@
         </li>
         <li><a href="/upload" class="upload">UPLOAD</a></li>
         <li><a href="/hd">HD Videos</a></li>
-            <li><a href="/favorite">My Favorite videos</a></li>
         </ul>
 </div>
 
@@ -205,6 +204,55 @@
         margin-right: 15px;
     }
 </style>
+
+
+<script>
+
+$(function(){
+    if (!rcookie('over18')) {
+        $('#over18').modal({
+            'close': false,
+            'overlayClose': false,
+            'opacity': 90
+        });
+    }
+});
+
+function iamover18() {
+    setcookie('over18', 1, 365);
+    $.modal.close();
+}
+
+function iamnotover18() {
+    document.location.href = 'http://google.com';
+}
+
+</script>
+
+<div id="over18" style="display: none; background: #000; border: 1px solid #fefefe; width: 600px; height: 400px;">
+    <div style="margin: 20px 20px 20px 20px; padding: 20px;">
+
+        <div style="height: 15px;"></div>
+        <img src="/images/vporn_logo.gif">
+
+        <br><br><br>
+
+        <div style="line-height: 230%; font-size: 13px;">
+            This Website contains adult pornographic materials.  You must be at least
+            eighteen (18) years of age to use this Website, unless the age of majority
+            in your jurisdiction is greater than eighteen (18) years of age, in which
+            case you must be at least the age of majority in your jurisdiction. Use of
+            the Website is not permitted where prohibited by law.  You agree that you
+            will not permit any person to access this Website who is not legally
+            permitted to do so.
+        </div>
+
+        <br>
+
+            <input type="button" value=" Enter " onclick="iamover18();" style="margin-left: 130px;">
+            <input type="button" value=" Leave " onclick="iamnotover18();" style="margin-left: 50px;">
+    </div>
+</div>
 
 
 
