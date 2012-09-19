@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the calcoastcu.org privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503213636id_/https%3A//www.calcoastcu.org/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calcoastcu.org privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919225436id_/https%3A//www.calcoastcu.org/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>California Coast Credit Union - Privacy Policy</title>
@@ -42,27 +42,44 @@
    		
     <!-- Login Form -->
       
+<link href="../css/login.css" rel="stylesheet" type="text/css">
 
-<div id="labelUser">username</div>
-	<div id="labelPass">password</div>
-	<div id="ForgotPass"><a class="smgrey" href="/help/resetpwd.aspx">Sign Up or <br>Reset Password</a></div>
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById("ctl00_txtusername").focus();
+    }
+    function validate() {
+        if (document.getElementById("ctl00_txtusername").value == "") {
+            alert("Please enter the Username");
+            document.getElementById("ctl00_txtusername").focus();
+            return false;
+        }
+    }
+ </script>
 
-<div id="loginForm">
-    <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyMDE5Njk2NWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFDmN0bDAwJGJ0bmxvZ2luZiDGsTa8zlrdp1kc2OSKn1YHFpzKvt403Ba4xxXDJAI=">
+<form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyMDE5Njk2NQ9kFgICAw9kFgJmD2QWAmYPZBYCAgMPD2QWBh4Lb25tb3VzZW92ZXIFHXRoaXMuc3JjPWJ1dHRvbkxvZ2luNE92ZXIuc3JjHgpvbm1vdXNlb3V0BR10aGlzLnNyYz1idXR0b25Mb2dpbjROb3JtLnNyYx4Lb25tb3VzZWRvd24FHXRoaXMuc3JjPWJ1dHRvbkxvZ2luNERvd24uc3JjZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUOY3RsMDAkYnRubG9naW4FFWN0bDAwJGJ0bmNsYXNzaWNsb2dpboswRhBI+kMNjnBtOn5I0e9TFNjqcSi/4oggNgEN3sj4">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKw6ov1CwL02/OMAgKA7cu2DQLnrI/6DhdHM2K1dmV9/wpKiOUI1RDAZWUPFeopxlMAB3LwPKV5">
-        <div id="loginUser">
-            <input name="ctl00$txtusername" type="text" maxlength="20" id="ctl00_txtusername" autocomplete="OFF" title="This is a private system for authorized users only. Unauthorized access or use is punishable by law.">
-        </div>
-        <div id="loginPass">
-            <input name="ctl00$txtpassword" type="password" maxlength="20" id="ctl00_txtpassword" autocomplete="OFF" title="This is a private system for authorized users only. Unauthorized access or use is punishable by law.">
-        </div>
-        <div id="loginButton">
-            <input type="image" name="ctl00$btnlogin" id="ctl00_btnlogin" src="images/buttonLogin.png" border="0">
-        </div>
-    </form>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAL9yfSFCAL02/OMAgLnrI/6DgLFkNaqDuyGLM4nNIEcaEyGo4AzkjtLZeQtoGb0PuMwr0HxwkK1">
+<div id="loginarea">
+        <img src="/images/login/loginbox.png" alt="">
+            <div id="loginusertb">
+                <p style="font-family: Trade Gothic Medium; font-size: 9pt; color: Black">
+                    Cal Coast Online
+                    <input name="ctl00$txtusername" type="text" maxlength="20" id="ctl00_txtusername" autocomplete="OFF" title="This is a private system for authorized users only. Unauthorized access or use is punishable by law.">
+                    </p><div id="username">username</div>
+                    <div id="signup"><a href="https://secure.calcoastcu.org/User/AccessSignup/Start" title="Signup for Online Banking">SignUp</a>&nbsp;&nbsp;<a href="https://secure.calcoastcu.org/User/AccessSigninResetPassword/Start" target="_blank" title="Forgot Username/Password">Reset Password</a></div>
+                <p></p>
+                <div id="logincustombtn" title="Click here to log in">
+                    <input type="image" name="ctl00$btnlogin" id="ctl00_btnlogin" onmouseover="this.src=buttonLogin4Over.src" onmouseout="this.src=buttonLogin4Norm.src" onmousedown="this.src=buttonLogin4Down.src" src="images/login/login4_inactive.png" alt="Click here to log in" onclick=" return validate();" border="0">
+                </div>
+                <div id="vertline"><img src="/images/login/12641_login_white stroke.png" alt="Vertical line to separate login textbox and msg button"></div>
+                <div id="msgbtn" title="Click here to log in to Classic">
+                    <input type="image" name="ctl00$btnclassiclogin" id="ctl00_btnclassiclogin" onmouseout="this.src='/images/login/classic4_inactive.png'; ShowPicture('Style',0)" onmouseover="this.src='/images/login/classic4_hover.png'; ShowPicture('Style',1)" src="images/login/classic4_inactive.png" alt="Click here to log in to Classic" border="0">
+                </div>
+             </div>
 </div>
+</form>
 
     
     <!-- Main Navbar Buttons -->
@@ -92,7 +109,7 @@
 		</layer>
 		</ilayer>
 
-		<div align="center" id="describe" onmouseover="clear_delayhide()" onmouseout="resetit(event)"><p class="submenu"><a href="#" class="white">&nbsp;&nbsp;</a></p></div>
+		<div align="center" id="describe" onmouseover="clear_delayhide()" onmouseout="resetit(event)"></div>
 	  </div>
   
     <!-- Subnav DIV -->
@@ -246,27 +263,32 @@
     <img src="/images/logoNCUA.png" id="logoNCUA" alt="California Coast is federally insured by the National Credit Union Association"> 
     
     <!-- Copyright Text -->
-        <!-- NCUA Logo -->
-    <img src="/images/logoNCUA.gif" id="logoNCUA" alt="California Coast is federally insured by the National Credit Union Association"> 
+            <link href="../css/shadowbox.css" rel="stylesheet" type="text/css">
+        <script src="../js/calculators/shadowbox_resize.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            Shadowbox.init();
+        </script> 
+        
+
+    <!-- NCUA Logo -->
+        
+    <a href="/images/ncua large.jpg" rel="shadowbox;width=1200"><img src="/images/logoNCUA.gif" id="logoNCUA" alt="California Coast is federally insured by the National Credit Union Association"></a>
+        
     
     <p class="footer">This credit union is federally insured by the <a href="/news/ncua.aspx">National Credit Union Administration</a>.<br> 
     National Credit Union Administration, a U.S. Government Agency.<br>
     <a href="/privacy.aspx">Privacy Policy</a> | © Copyright 2011 California Coast Credit Union. All rights reserved. | <a href="/terms.aspx">Terms Of Use</a></p>
 
     <!-- Equal Housing Logo -->
-    <img src="/images/logoEqualHousing.gif" id="logoEqual" alt="California Coast is an Equal Housing Lender">
+    <a href="/images/equal housing large.jpg" rel="shadowbox;width=300"><img src="/images/logoEqualHousing.gif" id="logoEqual" alt="California Coast is an Equal Housing Lender"></a>
     
-<!-- Google Analytics Tracking -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6410796-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>    
-<!-- Google Analytics Tracking -->
+
+
+
+
+
+
 
       
     <!-- Equal Housing Logo -->
