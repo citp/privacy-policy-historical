@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503211707id_/http%3A//gofish.com/games/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230550id_/http%3A//gofish.com/games/info/privacy.html) for the most accurate reproduction.*
 
 # GoFish.com: Privacy Policy
 
@@ -88,8 +88,8 @@ This policy was last modified on May 17, 2010
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.gofish.com  
-3713 Saint Laurent, Suite 301  
-Montreal, Quebec h2x2v7  
+122 Songbird Pvt.  
+Ottawa, Ontario K2H 0A2  
 Canada  
 [info@gofish.com](mailto:info@gofish.com)  
 
