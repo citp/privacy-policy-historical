@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srirecords.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618194721id_/http%3A//www.srirecords.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D22%26Itemid%3D34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srirecords.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012836id_/http%3A//www.srirecords.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D22%26Itemid%3D34) for the most accurate reproduction.*
 
 # SRI Records and SRI Jazz - PRIVACY
 
