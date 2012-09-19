@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnet.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623194308id_/http%3A//www.higherone.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D107%26Itemid%3D94) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnet.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000234id_/http%3A//www.higherone.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D107%26Itemid%3D94) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,8 +69,7 @@ If you have any questions about this Statement or the practices of this Site, pl
 
 **Customer Service Mailing Address:**   
 Higher One, Inc.  
-25 Science Park  
-#201  
+115 Munson Street  
 New Haven, CT 06511
 
 Your trust in Higher One is essential to us and that is why it is critical that Higher One goes above and beyond what is required of us to assure you and your family that we’re concerned and proactive with your online security. If you have problems or concerns, you can contact Customer Service at anytime (24 hours a day). Log on to your program website, and click on the link for "EasyHelp", where you can find answers to frequently asked questions, or even submit a question or concern.
