@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the tumblrplug.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618135449id_/http%3A//tumblrplug.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tumblrplug.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919075208id_/http%3A//tumblrplug.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="Description" content="Number one tumblr promotion site! Promote your Tumblr free and easy.">
+<meta name="Description" content="Number one tumblr promotion site! Promote your Tumblr free and easy and find blogs you like!">
 <meta name="Keywords" content="promote my tumblr,more tumblr followers,promote tumblr,promote,tumblr,blog,how to get more followers on tumblr,advertisement,grow tumblr,submit your blog,webmaster,tumblelog,tumble,get tumblr followers,tumbleme,social network,get more followers on tumblr">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Distribution" content="Global">
-<meta name="Author" content="FH Network">
 <meta name="Robots" content="index,follow">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/flick/jquery-ui.css">
+<script src="http://tumblrplug.com/js/tag-it.js" type="text/javascript" charset="utf-8"></script>
 
 <script type="text/javascript">
 function upSize(i){
@@ -22,6 +24,72 @@ document.getElementById (i).style.height = '14px';
 document.getElementById (i).style.width = '14px';
 }
 </script>
+<script>
+	    $(function(){
+
+var sampleTags = ['Art', 'Black and white', 'Boho', 'Boys', 'Color', 'Fashion', 'Fun', 'Girls', 'Girly', 'Grunge', 'Hipster', 'Humor', 'Indie', 'Kawaii', 'Models', 'Music', 'Nature', 'Other', 'Party', 'Pastel', 'Personal', 'Photography', 'Quality', 'Random', 'Summer', 'Surf', 'Swag', 'Tattoos', 'Urban', 'Vintage', ];
+
+            //-------------------------------
+            // Minimal
+            //-------------------------------
+            $('#myTags').tagit();
+
+            //-------------------------------
+            // Single field
+            //-------------------------------
+		    $('#singleFieldTags').tagit({
+			    availableTags: sampleTags,
+			    // This will make Tag-it submit a single form value, as a comma-delimited field.
+			    singleField: true,
+                singleFieldNode: $('#mySingleField')
+		    });
+
+            // singleFieldTags2 is an INPUT element, rather than a UL as in the other 
+            // examples, so it automatically defaults to singleField.
+		    $('#singleFieldTags2').tagit({
+			    availableTags: sampleTags
+		    });
+
+
+            //-------------------------------
+            // Preloading data in markup
+            //-------------------------------
+            $('#myULTags').tagit({
+			    availableTags: sampleTags, // this param is of course optional. it's for autocomplete.
+			    // configure the name of the input field (will be submitted with form), default: item[tags]
+			    itemName: 'item',
+			    fieldName: 'tags'
+		    });
+
+            //-------------------------------
+            // Tag events
+            //-------------------------------
+            var eventTags = $('#eventTags');
+            eventTags.tagit({
+                availableTags: sampleTags,
+                onTagRemoved: function(evt, tag) {
+                    console.log(evt);
+                    alert('This tag is being removed: ' + eventTags.tagit('tagLabel', tag));
+                },
+                onTagClicked: function(evt, tag) {
+                    console.log(tag);
+                    alert('This tag was clicked: ' + eventTags.tagit('tagLabel', tag));
+                }
+            }).tagit('option', 'onTagAdded', function(evt, tag) {
+                // Add this callbackafter we initialize the widget,
+                // so that onTagAdded doesn't get called on page load.
+                alert('This tag is being added: ' + eventTags.tagit('tagLabel', tag));
+            });
+
+            //-------------------------------
+            // Tag-it methods
+            //-------------------------------
+            $('#methodTags').tagit({
+			    availableTags: sampleTags
+		    });
+
+	    });
+	</script>
 
 <script type="text/javascript">
       $(function() {
@@ -44,13 +112,39 @@ document.getElementById (i).style.width = '14px';
       });
     </script>
 
+<script>
+ $(document).ready(function(){
+         $("#promogame").load("game/info.php");
+    });
+</script>
+<script type="text/javascript">
+  $(function() {
+    if ($.browser.msie && $.browser.version.substr(0,1)<7)
+    {            
+      $('.tooltip').mouseover(function(){              
+            $(this).children('span').show();                
+          }).mouseout(function(){
+            $(this).children('span').hide();
+          })
+    }
+  });        
+</script>
+</head><body><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 <style type="text/css">
 	@import "stylesheet.css";
 </style>
 <title>TumblrPlug - Promote your tumblr</title>
-</head>
-<body>
+
+
 <div id="wrapper">
 
 <div class="topbar">
@@ -68,7 +162,7 @@ google_ad_height = 90;
 	<div class="topbar_bottom"></div>
 
 <div class="topbar">
-<center>[<a href="http://tumblrplug.com"><b>Front Page</b></a>] [<a href="http://tumblrplug.com/wallofportraits.php"><b>Wall of Portraits</b></a>] [<a href="http://tumblrplug.com/news.php"><b>News</b></a>] [<a href="http://tumblrplug.com/rules.php"><b>Rules</b></a>] [<a href="http://tumblrplug.com/faq.php"><b>FAQ</b></a>] [<a href="http://tumblrplug.com/contact.php"><b>Contact</b></a>] [<b><a href="online.php" title="See who is online">1429 Online</a></b>] [<a href="http://freehostedscripts.net" target="_blank"><b>Tumblr Scripts</b></a>] [<a href="http://quickbanner.net" target="_blank"><b>Banner Maker</b></a>]
+<center>[<a href="http://tumblrplug.com"><b>Front Page</b></a>] [<a href="http://tumblrplug.com/wallofportraits.php"><b>Wall of Portraits</b></a>] [<a href="http://tumblrplug.com/toptumblrblogs.php"><b>Tumblr Top Blogs</b></a>] [<a href="http://tumblrplug.com/news.php"><b>News</b></a>] [<a href="http://tumblrplug.com/rules.php"><b>Rules</b></a>] [<a href="http://tumblrplug.com/faq.php"><b>FAQ</b></a>] [<a href="http://tumblrplug.com/contact.php"><b>Contact</b></a>] [<b><a href="http://tumblrplug.com/online.php" title="See who is online">1447 Online</a></b>] [<a href="http://freehostedscripts.net" target="_blank"><b>Scripts</b></a>] [<a href="http://quickbanner.net" target="_blank"><b>Banner</b></a>]
 </center><br>
 		
 			<p class="item_top">Welcome to Tumblrplug.com, Privacy Policy.</p>
@@ -83,10 +177,11 @@ Tumblrplug.com does use temporary session cookies. We do also display third part
 
 
 	<br>
-		<center><b>More cool features to promote your tumblr coming soon.</b><br><br>
+		<center><b>More cool features to promote your tumblr coming soon.</b><br><br><div class="fb-like" data-href="http://www.facebook.com/tumblrplug" data-show-faces="false" data-layout="button_count" data-stream="false" data-header="false"></div>
 <br><br>Copyright © 2011 - 2012 Tumblrplug.com. All Rights Reserved.<br>
-		DISCLAIMER: This web site is not affiliated with or funded by © Tumblr, Inc.<br><a href="http://tumblrplug.com/privacypolicy.php">Privacy Policy</a>
+		DISCLAIMER: This website is not affiliated with or funded by © Tumblr, Inc.<br><a href="http://tumblrplug.com/privacypolicy.php">Privacy Policy</a><br><br>
 
+<a href="http://tumblrplug.com/online.php" title="See who is online">Total Plugs: <b>131,491,480</b>, page views: <b>703,671,109</b>, unique users: <b>1,144,856</b></a>
 
 <script type="text/javascript">
 	<!--
