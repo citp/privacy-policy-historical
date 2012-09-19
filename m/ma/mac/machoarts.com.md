@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the machoarts.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510030631id_/http%3A//machoarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machoarts.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005525id_/http%3A//machoarts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MachoArts | Design, Social Media, Blogging tips
 
   
 At [Machoarts.com](http://machoarts.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Machoarts.com and how it is used.
