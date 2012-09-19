@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the harris.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610102413id_/http%3A//www.harris.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harris.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919200400id_/http%3A//www.harris.com/about/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Harris Corporation
+# Harris Corporation -- Privacy Policy
 
-#### Information
+[](https://web.archive.org/)
 
-Harris does not wish to receive unsolicited confidential or proprietary information from you through its Web site. Please be advised that any unsolicited information, data, material or idea that is communicated using the Harris website will be considered to be, and treated as, non-confidential and non-proprietary and may be disseminated by Harris for any purpose. 
+## Privacy Policy
 
-You understand that any personally identifiable information will be treated by Harris in accordance with Harris policies regarding privacy. To the extent that the Harris website includes third party advertisements or links, you understand that the privacy policy of that advertiser or the owner of that link governs the use of any personally identifiable information collected during your access to that advertisement or link.
+### Harris does not wish to receive unsolicited confidential or proprietary information from you through its Web site. Please be advised that any unsolicited information, data, material or idea that is communicated using the Harris website will be considered to be, and treated as, non-confidential and non-proprietary and may be disseminated by Harris for any purpose. 
+
+### You understand that any personally identifiable information will be treated by Harris in accordance with Harris policies regarding privacy. To the extent that the Harris website includes third party advertisements or links, you understand that the privacy policy of that advertiser or the owner of that link governs the use of any personally identifiable information collected during your access to that advertisement or link.
 
 #### IP Addresses
 
@@ -14,7 +16,7 @@ Harris may at anytime log your IP address when you access the Harris website. Th
 
 #### Cookies
 
-Harris may place information on your computer to allow Harris to identify you in the form of a �cookie�. The use of cookies is an industry standard and many websites use them. 
+Harris may place information on your computer to allow Harris to identify you in the form of a "cookie". The use of cookies is an industry standard and many websites use them. 
 
 #### Web Beacons
 
