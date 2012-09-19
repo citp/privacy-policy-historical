@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014653id_/http%3A//www.mediaforge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919105801id_/http%3A//mediaforge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | mediaFORGE
 
 mediaFORGE Privacy Policy
 
-This policy is effective as of January 13, 2010
+This policy is effective as of August 10, 2012
 
 mediaFORGE values the protection of consumer privacy.
 
@@ -23,7 +23,7 @@ When an Internet user views or interacts with mediaFORGE advertisements or a par
 
 Sensitive Information
 
-Sensitive personal information includes information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information. We will not collect or use sensitive information unless we have obtained your prior consent.  We are committed to protecting the privacy of children. Neither mediaFORGE nor our Partners activities are intended or designed to attract children under the age of 13. We do not collect Personal Information from any person we actually know is a child under the age of 13.
+Sensitive personal information includes information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information. We will not collect or use sensitive information unless we have obtained your prior consent.  We are committed to protecting the privacy of children. Neither mediaFORGE nor our Partners activities are intended or designed to attract children under the age of 13. We do not collect Personal Information from any person we actually know is a child under the age of 13.
 
 Use of Anonymous Information
 
@@ -35,10 +35,9 @@ We store this anonymous information securely at the mediaFORGE data center. We t
 
 How Long Anonymous Information is Stored
 
-We store annymous information for no longer than 12 months. Targeting/advertising data may be stored for up to one year in a browser cookie.  Data associated with click-throughs, ad-interactions, ad-engagements and other activities which may include but are not limited to referring url, pages viewed, browser type, IP addressand other anonymous information through web logs. This information may be used for the purpose of reporting ad analysis, usage and statistics.  We Store web logs afor a maximum of 12 months.
+We store anonymous information used for marketing services for no longer than 12 months. Targeting/advertising data may be stored in your browser's cookie for up to one year from the time you last make use of our services or until you wish to decide to cancel our services, at which point you can user our opt-out link below.
 
-Unforseen Circumstances  
-
+Unforseen Circumstances
 
 mediaFORGE may sell or buy other businesses or entities. In such transactions, the anonymous information we have collected from you may be one of the transferred business assets.
 
@@ -53,6 +52,3 @@ There are many programs that allow you to manually delete your cookies. In addit
 By selecting the opt-out cookie, mediaFORGE will not store information about your browser behavior given to us from our partners. Also note that if you choose to opt-out, mediaFORGE is unable to recognize your browser from one visit to the next, and you may see the same advertisement multiple times.
 
 PLEASE NOTE that if you erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may need to perform this process again.
-
-To opt out, please [click here](http://www.aboutads.info/choices/)  
- 
