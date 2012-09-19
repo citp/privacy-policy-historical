@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mangafox.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307173220id_/http%3A//www.mangafox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangafox.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919075556id_/http%3A//mangafox.me/privacy.php) for the most accurate reproduction.*
 
 # Manga Fox: Privary Policy
 
-The following webpage outlines MangaFox's collection and use of personal information from it's users. mangafox.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to MangaFox with anyone. This includes your e-mail address, name, and location. Upon logging on to MangaFox such things as your IP address and hostname are logged for statistical and security reasons.
+The following webpage outlines MangaFox's collection and use of personal information from it's users. mangafox.me values the privacy of our members and users, we will never share any personal information of anybody who logs on to MangaFox with anyone. This includes your e-mail address, name, and location. Upon logging on to MangaFox such things as your IP address and hostname are logged for statistical and security reasons.
 
 **Cookies**
 
@@ -28,4 +28,4 @@ Third Party websites may collect information from users of MangaFox, this inform
 
 **Website Policy Changes**
 
-MangaFox reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us at policy at mangafox.com.
+MangaFox reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us at policy at mangafox.me.
