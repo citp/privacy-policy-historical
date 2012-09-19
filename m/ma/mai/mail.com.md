@@ -1,106 +1,67 @@
-> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202150444id_/http%3A//www.mail.com/support/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182544id_/http%3A//www.mail.com/company/privacypolicy/%23.7518-footer-nav1-54) for the most accurate reproduction.*
 
-# Free Email, Unlimited Storage, Anti-Virus & Spam Protection and Personalized Content - Mail.com
+# Privacy Policy
 
-Mail.com Privacy Policy
+1&1 Mail & Media Inc. ("mail.com") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which mail.com uses, maintains and discloses information collected from its customers and users of its website.
 
-Effective: March 18, 2010
+ **Children**  
+mail.com does not knowingly collect personal information from children under 13. mail.com understands, however, that parents, guardians, or other adults often register our products for family use, including use by minors. Because some information is collected electronically, it may appear to be that of the registered mail.com customer, and will be treated as such by this privacy policy. If we learn that that a child under the age of 13 has submitted personal information to mail.com we will attempt to delete the information as soon as possible.
 
-Mail.com Media Corporation ("Mail.com") is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.
+ **Information We Collect**  
+mail.com may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
 
-When you **register** for an account:
+The data we collect is information that identifies you personally, and may include:  
+\- Your name  
+\- Gender  
+\- Date of Birth  
+\- Country  
+\- State
 
-We Will:
+You can remove or modify your personal information at any time by logging in to your account at mail.com and navigating to Settings -> My Account -> Personal Data. To delete your account in its entirety, please navigate to Settings -> My Account -> Account Details and follow the instructions under “Delete Account.” For more information on managing your account see http://help.mail.com/.
 
-1\. Collect personally identifiable (e.g. name, address) and demographic(e.g. age, gender) information about you. We will use the non-personally identifiable demographic data to serve ads (pertaining to your geographic location, age, or gender) on our Web site when you log in. The information is collected when you register for your e-mail account.
+mail.com may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies.
 
-2\. Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for premium services, then your credit card information will be encrypted using SSL technology and will be stored on secure servers.
+ **What are Cookies?**  
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by mail.com to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by mail.com to store whether, for example, you want your password remembered or not, and other information. Cookies used on the mail.com website do not contain personally identifiable information.
 
-3\. Give you access to review and edit your personal and demographic information while it is in our possession.
+ **Log Files**  
+Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
 
-4\. Send you service announcements notifying you of any new products or updates to the service. We may use your alternate e-mail address and home address to ensure that you receive important information about your account or information you have requested. If you do not wish to receive these announcements simply go to the bottom of the newsletter and follow the instructions to make sure you do not receive any further notifications.
+ **How we use this information**  
+mail.com may use the personally identifiable information collected by mail.com to contact customers regarding products and services offered by mail.com and, to the extent the user has agreed to it, by its trusted affiliates, independent contractors and business partners. We may also use this information for research purposes regarding the effectiveness of our website services, marketing, advertising and sales efforts. Except as outlined below, mail.com will not in any way share this information with a third party unless you specifically authorize such disclosures. mail.com does not sell or rent your contact information to third parties.
 
-5\. Send you monthly newsletters that highlight certain e-mail features and provide you with information about additional products and services we think might be of interest to you. We will provide you with the opportunity to "opt out" of the newsletter, beginning with the initial newsletter.
+ **Third party cookies and tracking**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [network advertising](http://www.networkadvertising.org/managing/opt_out.asp).
 
-6\. Give you the choice of "opting in" to receive third party mailings.
+ **Disclosure of Information**  
+mail.com may disclose your personal information as it deems necessary, in mail.com‘s sole discretion, to: (a) comply with legal process or other legal requirements, including but not limited to responding to civil or criminal subpoenas, search warrants, national security letters, court orders, or other requests for information from law enforcement officials; (b) protect and defend the rights or property of mail.com or its officers, agents, affiliates, licensees, and customers; or (c) carry out its obligations under or enforce this Agreement or to assign its rights under this Agreement.
 
-7\. Make it easy for you to unsubscribe from any mail.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us (unless it is vital to the operation of your account)
+mail.com may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or process data received by mail.com from its customers. Such third party service providers are required to treat all such data with the same degree of care as mail.com and are prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
 
-8\. Bundle information to better design our Web site and to share with our advertisers and partners. This aggregate information will not be used to learn anything about any particular individual.
+MAIL.COM RESERVES THE RIGHT (SUBJECT TO APPLICABLE LOCAL LAW), IN ITS SOLE DISCRETION, TO MONITOR YOUR ACCOUNT, INCLUDING BUT NOT LIMITED TO THE USE OF A USER'S MAIN ACCOUNT AND ANY SUB-ACCOUNTS, FOR THE PURPOSE OF INVESTIGATING VIOLATIONS OF THIS AGREEMENT OR TO ASSIST WITH CRIMINAL OR CIVIL INVESTIGATIONS.
 
-9\. In developing our business, we may engage in the sale of certain assets and the company itself, or parts of it, may be sold, merged or otherwise transferred. In such transactions and changes in ownership, user information, whether personally identifiable or otherwise, may constitute one of the transferred assets. Mail.com will notify affected users in accordance with the procedure for changing this Privacy Policy described below.
+mail.com may also disclose aggregate, anonymous data based on information collected from users to investors and potential partners. In such cases, only statistical information will be disclosed and personally identifiable data will be kept confidential. In case mail.com is sold, the information collected from users may be transferred to the new owners.
 
-We Won't
+ **Special Offers and Updates**  
+Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, mail.com gives them the opportunity to opt-out from receiving these types of communications. To opt out of all non-service related communications please follow the instructions included in the mailing you receive.
 
-1\. Send you unsolicited commercial e-mail (spam).
+ **Service Announcements**  
+On rare occasions, it is necessary to send out a strictly service-related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
-2\. Do the following, without your explicit permission;
+ **Legal Disclaimer**  
+The mail.com website contains links to other sites. Please be aware that mail.com is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. The mail.com Privacy Policy as described herein applies solely to information collected by mail.com.
 
-  * Give anyone access to your e-mail or open or read messages in your account, unless such release is necessary to:
+ **Maintenance of Information**  
+The information provided to mail.com is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by mail.com. mail.com employs industry-standard security measures to protect the confidentiality of the information. While we cannot guarantee that loss, misuse or alteration of data will not occur; we make every effort to prevent such occurrences.
 
+ **Your Responsibility**  
+You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home.
 
-  * Satisfy any law, regulation, or legal request. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.
-  * Conduct investigations of consumer complaints and possible breaches of law;
-  * Enforce or apply the terms of our user agreement, or
-  * Protect the rights, property, or safety of Mail.com, our users, or the public.
+ **Your California Privacy Rights**  
+Under California Civil Code sections 1798.83-1798.84, California residents may be entitled to ask us for a notice describing what categories of personal customer information mail.com shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 1&1 Mail & Media Inc., 701 Lee Road, Chesterbrook PA. In your request, please specify that you want a "Your mail.com California Privacy Rights Notice". Please allow at least 30 days for a response.
 
+ **Questions**  
+For questions concerning this Privacy Policy please contact customer support.
 
-
-3\. Share any data with outside parties that would identify a specific user (except in those circumstances listed above).
-
-4\. Knowingly collect any information from children under the age of 13. To find out more about the Children's Online Privacy Protection Rule [Click here](http://www.ftc.gov/ogc/coppa1.htm)
-
-5\. Contact you via e-mail or any other method to ask you for your password. Do not share your password with anyone; you should only enter it directly into our Web site.
-
-6\. Contact you via e-mail or any other method to ask you for your credit card information. You should only enter this information directly into our Web site.
-
-7\. Materially change how we use your personally identifiable information without placing a prominent notice on our Web site first.
-
-Cookies:
-
-Our Web site uses cookies for the purpose of identifying you when you access your account. This allows us to pre-populate your E-mail address on the login page and to distinguish between your Web session and that of the many other people using our service and allow us to offer other functionalities (such as screening for age and "recognizing" you to speed up your log-in when you visit our Web site). We may also automatically collect your IP and referring Web site addresses, browser type, domain name and Web site access times (as described below). Our web-based mail service will not function unless your browser is set to accept cookies. You can turn off cookies, but that will affect your online experience.
-
-We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to [http://www.networkadvertising.org/optout_nonppii.asp.](http://www.networkadvertising.org/optout_nonppii.asp)
-
-Links:
-
-Be aware that when you click on ad banners, you may be redirected to other sites not operated by Mail.com. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
-
-General Information Collected:
-
-When visiting our site, some general information is collected including: IP address (your computer's unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).
-
-The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
-
-Third Party Service Providers:
-
-Agents and affiliates of Mail.com may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by Mail.com. Features on the Web site that utilize third party service providers include: e-mail notification services and credit card processing. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission.
-
-From time to time we partner with third party service providers to offer additional products and services within the Web site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information. These services include: dating and personals, employment services, home loans, apartment rentals and other services, all of which are purely optional for the user.
-
-Personal Information:
-
-It is the responsibility of each user to provide Mail.com with accurate information at all times. Personal information collected during the account registration process includes: name, street address, city, state, zip code, country, age, gender as well as an alternate email address (optional). Payment information will also be collected if users have registered for a premium account. In order to update the personal information, users may do the following::
-
-Changes to our Privacy Policy:
-
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry.. We recommend that you check the Privacy Policy when you visit our Web site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web site visitors information on material changes to this Privacy Policy. 
-
-Your California Privacy Rights:
-
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information Mail.com shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Mail.com, 200 N. Sepulveda Blvd, 2nd Floor, El Segundo, CA 90245. In your request, please specify that you want a "Your Mail.com California Privacy Rights Notice". Please allow at least 30 days for a response. 
-
-Questions?
-
-For any questions or comments concerning Mail.com's privacy policy, please write to: [PrivacyDirector@mail.com](mailto:PrivacyDirector@corp.mail.com)
-
-Or send a letter to:  
-9800 South La Cienega Blvd.  
-Los Angeles, CA 90301  
-(310) 321-5000
-
-Law Enforcement inquiries can be directed to [LegalCompliance@corp.mail.com](mailto:LegalCompliance@corp.mail.com).
-
-All spam, UCE and general abuse issues should be directed to: [abuse@mail.com](mailto:abuse@mail.com).
-
-For general problems with your account, please [click here](https://web.archive.org/support/feedback.aspx).
+© 1&1 Mail and Media Inc., 2011, All rights reserved  
+Version: August 17, 2011
