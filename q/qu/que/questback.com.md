@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questback.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022944id_/http%3A//www1.questback.com/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questback.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919200520id_/http%3A//www1.questback.com/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy and security
 
