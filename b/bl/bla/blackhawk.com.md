@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhawk.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506193751id_/http%3A//www.blackhawk.com/downloads/staticpages/flash/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhawk.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919193605id_/http%3A//www.blackhawk.com/downloads/staticpages/flash/privacypolicy.html) for the most accurate reproduction.*
 
 # CONTACT US
 
