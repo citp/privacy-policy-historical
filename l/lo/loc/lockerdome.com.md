@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lockerdome.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527183850id_/http%3A//lockerdome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockerdome.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005128id_/http%3A//lockerdome.com/privacy-policy) for the most accurate reproduction.*
 
-# LockerDome
+# Privacy Policy - LockerDome
 
 **Last Updated: April 1, 2011**
 
