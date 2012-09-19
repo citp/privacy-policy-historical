@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luveria.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511075200id_/http%3A//www.luveria.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luveria.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919022722id_/http%3A//www.luveria.com/policy.php) for the most accurate reproduction.*
 
 # Luveria - Privacy Policy.
 
