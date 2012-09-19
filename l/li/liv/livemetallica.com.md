@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livemetallica.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505032807id_/http%3A//www.livemetallica.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemetallica.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919183634id_/http%3A//www.livemetallica.com/privacy.aspx) for the most accurate reproduction.*
 
 # LiveMetallica.com | Download Live MP3 and FLAC Shows | Privacy Policy
 
