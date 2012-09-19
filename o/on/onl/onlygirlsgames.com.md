@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlygirlsgames.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022437id_/http%3A//www.onlygirlsgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlygirlsgames.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919232758id_/http%3A//www.onlygirlsgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
