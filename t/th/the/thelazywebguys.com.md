@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thelazywebguys.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615135934id_/http%3A//thelazywebguys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelazywebguys.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181749id_/http%3A//thelazywebguys.com/privacy-policy) for the most accurate reproduction.*
 
-# The Lazy Web Guys Web Traffic & Marketing Strategies
-
-## Privacy Policy
+# Privacy Policy
 
 PLEASE TAKE A FEW MINUTES TO READ OUR POLICY
 
@@ -14,13 +12,13 @@ www.thelazywebguys.com strives to offer its visitors the many advantages of Inte
 
 **How we gather information from users.**
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase.
 
-You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, www.thelazywebguys.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. 
+You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, www.thelazywebguys.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors.
 
-For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. 
+For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site.
 
-As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
+As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
 **What we do with the information we collect**
 
