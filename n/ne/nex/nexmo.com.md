@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexmo.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014232id_/http%3A//nexmo.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexmo.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005039id_/http%3A//www.nexmo.com/privacy/index.html) for the most accurate reproduction.*
 
 # Nexmo - Privacy
 
@@ -46,11 +46,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20120504014232id_/http%3A//nexmo.com/terms/index.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20120920005039id_/http%3A//www.nexmo.com/terms/index.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy.](https://web.archive.org/web/20120504014232id_/http%3A//nexmo.com/privacy/index.html)
+By using our site, you consent to our [privacy policy.](https://web.archive.org/web/20120920005039id_/http%3A//www.nexmo.com/privacy/index.html)
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
