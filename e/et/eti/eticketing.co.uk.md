@@ -1,68 +1,143 @@
-> *The following text is extracted and transformed from the eticketing.co.uk privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513053304id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eticketing.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184752id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster - Legal Guide
 
-Ticketmaster has created this privacy statement in order to demonstrate our firm commitment to the privacy of the details that you provide us when using this web site ("Site"). When you use the Site, you are consenting to the practices set forth in this Privacy Policy.
+### About Ticketmaster and this Privacy Policy
 
-### Your IP Address
+Ticketmaster UK Limited ("Ticketmaster") is a company registered in England (company number 02662632) and a data controller registered with the Information Commissioner's Office (registration number Z5992616). Please read this privacy policy carefully, as it describes what personal information we collect and obtain and how we use it.
 
-We use your IP address to help diagnose problems with our server and to administer the Site. Your IP address is also used to help identify you and to gather broad demographic information about you. Your IP address may also be used to assist in the detection of fraud and we may pass this information to the police.
+### The Information We Collect When You Use the Website
 
-### Cookies
+When you browse this website ("Site"), information about your visit is automatically stored in our web server logs. The server logs stores the details of the pages and content you request when you click on the links in our website. For example, it will store your IP address and the date and time of page requests.
 
-We may store information about you using cookies. A cookie is a small file that is automatically issued to your computer when you enter our Site and which is stored by the browser on your computer's hard drive. Cookies store some basic information that helps us to identify if a user of your computer has visited the Site before and if you have provided us with some personalised information. Our Site uses cookies to keep track of what you have purchased. We use cookies to deliver content specific to your interests, to save your password (if you have supplied us with one) so you do not have to re-enter it each time you visit our Site, and for other purposes, such as informing you that you may have made multiple bookings for specific events on our Site. We may also display and/or allow third party advertisers to display advertisements on our Site and we and/or such advertisers may also use cookies to record information about your use of the advertisement which you have seen and the types of things you appear interested in. We and/or third party advertisers may serve advertisements that we and/or any third party advertiser believe are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). For more information about this type of online behavioural advertising, please visit www.youronlinechoices.com.
+We also collect information about your website usage using cookies. For more information about the cookies on this Site and how to disable cookies, please read the Ticketmaster Cookie Policy.
 
-You can disable cookies or set your browser to alert you when cookies are being sent, but if you choose to do so you may not be able to access some areas of the Site. For more information on deleting or controlling cookies we recommend www.AboutCookies.org.
+You can browse our Site without providing us any personal information, but to purchase tickets, you must create a [MyTicketmaster account](https://www.ticketmaster.ie/member?tm_link=tm_homeA_ql_1). Once you register with Ticketmaster some of the information we collect about your use of this Site will be linked to your [MyTicketmaster account](https://www.ticketmaster.ie/member?tm_link=tm_homeA_ql_1).
 
 ### Information We Request Directly From You
 
-Our Site's registration forms, order forms, surveys, competitions and prize draws require you to give us personal information (like your name, address and/or email address). If you are ordering tickets, you will be asked to provide financial information (like your account or credit card numbers).
+We collect various personal details when you fill in our registration and order forms (like your name, phone numbers, address, email address etc). We also keep a record of your transactions with Ticketmaster and any correspondence between us.
+
+You may be asked for further information if we run surveys, competitions, prize draws and other promotional activities. If this is the case, then this Privacy Policy will apply to the personal information you provide, but please check for any specific terms that apply each time you participate in these activities.
+
+If you'd prefer not to give us any personal information when you purchase tickets for events, then please visit the Box Office at the venue where an event is taking place.
+
+The financial information we collect and how we use it is explained later in this Privacy Policy.
+
+### Information Which We Obtain
+
+We may also add information to your details, which we have obtained from other companies or sources. For example, we may cross check the accuracy of the information we hold with other databases, or we may add demographic information. Much of this data is created using publicly available sources such as the edited electoral register or the Postal Address File, or is derived from market research such as consumer panel surveys. 
 
 ### How We Use Personal Information
 
-**Ticketmaster and its Event Partners**  
-As an authorised ticket agent, Ticketmaster sells tickets on behalf of the venue or promoter that produces the event for which you buy a ticket. We refer to those who actually organise or provide the event and/or from whom we obtain tickets to sell to you (e.g venues, artists, promoters, fan clubs and producers) as our "Event Partners". Your personal information is shared between Ticketmaster and its Event Partner for the particular event for which you are buying tickets in accordance with this Privacy Policy and Ticketmaster's contractual relationship with its Event Partner. Your personal information is used by us to contact you by post, phone or by electronic mail when necessary in connection with transactions entered into by you on the Site. If you provide Ticketmaster with an email address, your address will be entered into Ticketmaster's weekly TicketAlert service. You will be given the opportunity to unsubscribe from TicketAlert whenever a TicketAlert is sent to you. Alternatively, if you wish to unsubscribe now, please contact Ticketmaster by clicking the following link and inserting your email address into the link as indicated, <https://www.ticketmaster.co.uk/member/unsubscribe?email_address=InsertEmailAddressHere>, or send your request by post to TM Mailing Services, PO Box 43, London WC2H 7LD.
+**Our Event Partners**
 
-From time to time, Ticketmaster or its Event Partner may contact you by post or by electronic mail, with information or offers regarding upcoming events, products, services or customer surveys. If you do not wish to be contacted by Ticketmaster about upcoming events, products, services or surveys please contact Ticketmaster by clicking the following link and inserting your email address into the link as indicated, <https://www.ticketmaster.co.uk/member/unsubscribe?email_address=InsertEmailAddressHere> , or send your request by post to TM Mailing Services, PO Box 43, London WC2H 7LD. If you do not wish to be contacted by Event Partners about upcoming events, products, services or surveys please contact them directly to learn about their policies and to request that your details are removed from their databases or use the unsubscribe link in their communications. 
+As an authorised ticket agent, Ticketmaster sells tickets on behalf the providers of the live events for which you buy tickets. This might be an artist, venue, promoter, fan club, sports club or organisation, producer or sponsor. We refer to the organisers or providers of an event as our "Event Partners". When you purchase tickets for an event, we share your personal information with our Event Partner, but only if you have bought tickets for the events that they are providing. There may be more than one Event Partner for each event.
 
-**Ticketmaster's Affiliated Company, TicketWeb**  
-TTicketmaster may, from time to time, share your personal information with its affiliated company, TicketWeb (UK) Limited ("TicketWeb"). From time to time, TicketWeb may contact you by post or by electronic mail with information or offers regarding upcoming events, products, services or customer surveys. If you do not wish to be contacted by TicketWeb, please contact Ticketmaster by clicking the following link and inserting your email address into the link as indicated, <https://www.ticketmaster.co.uk/member/unsubscribe?email_address=InsertEmailAddressHere> , or send your request by post to TM Mailing Services, PO Box 43, London WC2H 7LD.
+Ticketmaster is data controller in respect of all of the information which Ticketmaster collects and receives about you when you use our services. The Event Partner (in common with Ticketmaster) is a data controller of the information which relates to their events.
 
-**Carefully Selected Third Parties**  
-If, when purchasing a ticket or creating an account, you opt in to receive information or offers from carefully selected third parties regarding their goods and/or services, Ticketmaster may provide your personal information to such third parties so that they may contact you by post or electronic mail with such information or offers.
+### Providing, Improving and Customising Our Services
 
-**Opting Out**  
-You may opt out of any of Ticketmaster's regular electronic mail contact at any time even if you have previously indicated your consent to such contact at some other time by clicking the following link and inserting your email address into the link as indicated, <https://www.ticketmaster.co.uk/member/unsubscribe?email_address=InsertEmailAddressHere> , or send your request by post to TM Mailing Services, PO Box 43, London WC2H 7LD.
+We use your information primarily to provide you with the services and products you request, and related customer services (this includes providing this Site, website administration and security).
 
-### How We Use Financial Information
+We also analyse this information to improve our understanding of you and our customer base in general. We do this so that we can make better decisions about our services, advertising, products and content, based on a more informed picture of how our customers use our current services, and to provide you with a more customised experience.
 
-Financial information that is collected is used to authorise payment and bill you for products and services. When you make a purchase on the Site, your consent is given to provide your financial or personal information to those third parties necessary to process your transactions with us, such as credit card companies, banks and the companies that handle shipping on our behalf. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Except as provided above, we will not share financial information with third parties without your prior consent.
+Depending on your marketing preferences, we may use this information to help us to determine which offers, information, discounts and promotions you would most like to receive.
 
-**Business Partners**  
-When you purchase a ticket from Ticketmaster, you may, in connection with your purchase, be offered the opportunity to purchase related third party products or services or participate in third party promotions, schemes or reward programmes. We will not share your personal information or financial information with these third party merchants, unless you expressly choose to purchase their products or services or participate in their promotion, scheme or reward programme. Before agreeing to purchase from, or participate with, a third party merchant, please ensure that you read and understand the relevant Terms and Conditions and Privacy Policy of such third party merchants (they may be different from Ticketmaster's). When, in connection with the purchase of tickets from Ticketmaster, you choose to purchase a particular third party product or service or engage in a particular third party, promotion, scheme or reward programme, you authorise us to share your name, email address and, where applicable, and only when you have consented for us to do so, your credit/debit card number and other billing information (e.g., physical address, card commencement and expiration dates, CCV security codes, etc.) with that third party merchant..
+**Direct Marketing**
 
-### Disclosure of Your Personal Information and Financial Information in Compliance with Laws
+When you first register with the Site, you can decide whether your contact information may be used by us, our Event Partners and selected third parties for direct marketing purposes. Depending on your selection, Ticketmaster, its group companies, Event Partners and/or other third parties may contact you by e-mail or post with information or offers regarding their goods and services such as discounts, exclusive offers or special event information.
 
-You should be aware that we may release your personal information or financial information when we believe it is necessary to comply with laws or regulations, to assist law enforcement, to enforce the terms under which you transacted with Ticketmaster, or to protect the rights, property or safety of Ticketmaster, users of the Site or others.
+Unless you opt-out, Ticketmaster will send you a weekly TicketAlert with information about upcoming shows and events. If you purchase a ticket for an event, your address will be entered into Ticketmaster's PerformerAlert service. This service sends you e-mail updates when the same artist, event or festival announces new dates in the future.
 
-### Transfer of Your Personal Information and Financial Information Outside Of The EEA
+You will be given an opportunity to unsubscribe in every marketing e-mail we send you.
 
-From time to time, we may transfer your personal information and/or financial information to a company within the Ticketmaster group of companies or one of such company's agents or contractors in order to improve our services or to assist our security, credit risk or fraud protection activities. Such companies may be located outside of the European Economic Area, including in the United States, and you consent to the transfer of your personal information and financial information to such companies for the purposes set out in this paragraph. Whenever we transfer your personal information or financial information to countries outside of the European Economic Area, we will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the UK's Data Protection Act 1998 and related legislation from time to time.
+**Changing your Marketing Preferences**
 
-### Transfer of Personal Information In Event Of Sale Of Ticketmaster Or Its Assets
+If you change your mind or want to amend your marketing preferences, you can do so at any time from your [MyTicketmaster](https://www.ticketmaster.co.uk/member/edit_subscriptions?tm_link=mytm_SignIn) account.
 
-In the event that Ticketmaster is sold, or transfers some of its assets to another party, your personal information could be one of the transferred assets. If your personal information is transferred, use of your personal information will remain subject to this Privacy Policy. Your personal information will be passed on to a successor in interest in the event of a liquidation or administration of Ticketmaster.
+Sign up: new events often sell out fast, so a [MyTicketmaster](https://www.ticketmaster.co.uk/member/edit_subscriptions?tm_link=mytm_SignIn) account lets you set up alerts for your favourite artists, festivals, bands, teams, venues and other events to make sure you never miss out on an opportunity to buy tickets when they go on sale through Ticketmaster. Click here for more information about Ticketmaster's TicketAlerts, PerformerAlerts and VenueAlerts and to sign up.
 
-### How We Use Demographic Information
+Opt-out: You may opt out of any of Ticketmaster's marketing communications at any time. If you wish to unsubscribe now, please click the following link, insert your email address into the link as indicated and click the "Go" button or arrow in your web browser:
 
-Demographic information is statistical data about our purchasers' age, gender, location etc. We use this demographic information to tailor our Site to the interests of our users. This information may be shared with advertisers only on an aggregate basis so that they can tailor their advertisements to the appropriate audience. "On an aggregate basis" means that your personal details would not be identifiable in the demographic information that we may use with advertisers.
+<https://www.ticketmaster.co.uk/member/unsubscribe?email_address=InsertEmailAddressHere>
+
+Please note that our systems may take a little time to fully register your updates, so if you continue to receive emails in the 48 hours after making changes, please accept our apologies and ignore them.
+
+Please also note that you will always continue to receive customer service emails from Ticketmaster - these include order confirmations, event reminders, information about changes to an event you've purchased tickets for and reminders to print your TicketFast tickets if you've selected that option for ticket delivery.
+
+**Event Partner Marketing**
+
+You may also receive marketing information from the Event Partners for the events for which you have purchased tickets. If you do not wish to receive marketing correspondence from an Event Partner please use the unsubscribe link in their communications or contact them directly to request that your details are removed from their databases.
+
+**Carefully Selected Third Parties**
+
+If you've given your consent when registering for your personal information to be provided to carefully selected third parties (other than Ticketmaster's Event Partners) they may contact you by post, telephone or email with information or offers regarding their goods and services.
+
+### Information Sharing and Transfer
+
+Ticketmaster and its Event Partners will not share your data with any third parties without your consent, except under the following circumstances:
+
+\- if we use a third party supplier to carry out specific business operations (e.g. a mailing house, a courier, or a market research company) but only if we have in place a written agreement protecting your information;
+
+\- if you have purchased other goods or services via our website such as ticket insurance or merchandise, in which case your information may be shared with third parties to process and fulfil your orders. Please see further information below in relation to how payment information is shared;
+
+\- if Ticketmaster uses group company facilities in the United States or other countries within the EU to carry out specific business operations (e.g. IT and hosting) but only if an adequate level of protection is in place to protect your rights under the Data Protection Act 1998;
+
+\- if we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer but only where we have taken reasonable steps to ensure the security and confidentiality of your information;
+
+\- in order to enforce or apply our [terms of use](http://www.ticketmaster.co.uk/legal?tm_link=tm_homeA_i_ourpolicy), [purchase policy](http://www.ticketmaster.co.uk/legal/purchase.html) or any other applicable Ticketmaster terms and conditions;
+
+\- if you enter a competition, promotion or a prize draw, and Ticketmaster is not the operator, the information you provide will be shared with the operator of the promotion, competition or prize draw;
+
+\- if we consider it necessary to comply with laws or regulations, to assist law enforcement, to protect the rights, property, or safety of Ticketmaster, our customers, users of this Site, or others;
+
+\- if the data is only being shared in an anonymous and aggregate form; or
+
+\- if Ticketmaster or any of its assets are acquired by a third party, in which case your information may be one of the transferred assets.
+
+### Financial Information We Collect and How We Use It
+
+If you are purchasing tickets, you will be asked to provide financial information (your payment card information). You will be given the option to save this information so that you don't have to re-enter it every time you buy tickets. If you select this option, we'll store your financial information for 12 months from the date of your most recent purchase, after which it will be deleted.
+
+Financial information we collect is used to authorise payment and bill you for your purchases through our Site. When you make a purchase on the Site, your consent is given to provide your financial or personal information to those third parties necessary to process your transactions with us, such as credit card companies and banks. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Where we do share this data, we apply payment industry standard encryption methods to maintain its security.
+
+If you've ordered any additional goods or services through our Site such as Ticket Insurance or merchandise for an event, your information may be passed to the providers of such goods or services so they can process your transaction and provide you with the goods or services you've ordered.
+
+Except as explained above, we will not share your financial information with any third parties without your prior consent.
+
+### Advertising on this Site
+
+This Site contains adverts for Ticketmaster services and also third party advertising. We do not share your personal data with our third parties advertisers (except for demographic data on an aggregate basis) but they may collect information about you using their own cookies and other similar technologies.
+
+Ticketmaster and its third party advertisers may use information collected using cookies and other similar technologies to measure the effectiveness of our advertising and to deliver targeted advertising based on your preferences.
+
+For more information about:
 
 ### Other Sites/Third Party Vendors and their Privacy Policies
 
-This Site may contain links to other web sites. Ticketmaster is not responsible for the privacy practices or the content of such web sites or for the privacy policies and practices of other third parties, and so you should be careful to read those web sites' privacy policies independently.
+This Site may contain third party content and links to other websites. Ticketmaster is not responsible for the privacy practices or the content of such websites or for the privacy policies and practices of other third parties, and so you should be careful to read those websites' privacy policies independently.
 
 ### Our Security Precautions
 
-This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128 bit industry standard Secure Server Software (SSL) for your transactions with us. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
+This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128 bit industry standard Secure Socket Layer (SSL) encryption for your transactions with us. It encrypts all of your personal information, including payment card number, name, and address, so that it cannot be read as the information travels over the Internet.
 
-If you have any concerns about our privacy policy, please use the [online help desk](http://www.ticketmaster.co.uk/h/customer_serve.html). If after a response from us you still have concerns about our privacy policy in particular our direct marketing activities or use of your personal data then please contact the Direct Marketing Association. The Direct Marketing Association promotes direct marketing, informs consumers of the safeguards that exist, and acts as a protector, contact point and regulator of best practice. 
+### Changes to this Privacy Policy
+
+We do make some changes and adjustments to this privacy policy from time to time, so please check regularly for any updates. Where there's a significant change to this Privacy Policy, we'll always notify you so that you can decide whether to continue using our services.
+
+### Your Rights
+
+You can use your [MyTicketmaster](https://www.ticketmaster.co.uk/member?tm_link=tm_homeA_header_signin) account to edit and view the information about you that you've provided to us. You also have the right to obtain a copy of the personal data we hold about you to correct any inaccuracies in such data. If you wish to exercise any of these rights, please contact us via Customer Services or at [insert address]. For some requests we may ask you to provide: proof of identity, further information to enable us to locate the information you have requested, and/or a payment of £10 to cover our costs. Your request will be dealt with as soon as possible and will not take more than 40 days to process.
+
+### Ticketmaster Cookie Policy
+
+**We are in the process of reviewing how cookies are used on this website. Below is some general information about cookies and how to disable them. Ticketmaster's new cookie policy will be available shortly on this page. Thank you for your patience.**
+
+We may store information about you using cookies. A cookie is a small text file that is automatically issued to your computer when you enter our Site and which is stored by the browser on your computer's hard drive. Cookies store some basic information that helps us to identify if a user of your computer has visited the Site before and if you have provided us with some personalised information.
+
+Our Site uses cookies to keep track of what you are purchasing. We use cookies to deliver content specific to your interests, to save your password (if you have supplied us with one) so you do not have to re-enter it each time you visit our Site, and for other purposes, such as informing you that you may have made multiple bookings for specific events on our Site.
+
+We may also display and/or allow third party advertisers to display advertisements on our Site and we and/or such advertisers may also use cookies to record information about your use of the advertisement which you have seen and the types of things you appear interested in. We and/or third party advertisers may serve advertisements that we and/or any third party advertiser believe are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). For more information about this type of online behavioural advertising, please visit www.youronlinechoices.com.
+
+You can disable cookies or set your browser to alert you when cookies are being sent, but if you choose to do so you may not be able to access some areas of the Site and you may find it difficult to purchase tickets. For more information on deleting or controlling cookies we recommend www.AboutCookies.org.
