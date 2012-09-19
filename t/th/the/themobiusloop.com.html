@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the themobiusloop.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503221311id_/http%3A//www.themobiusloop.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the themobiusloop.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919193704id_/https%3A//www.themobiusloop.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <link rel="stylesheet" type="text/css" href="all_inc/gen_css.css">
@@ -7,8 +7,32 @@
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
     <meta name="description" content="">
     <meta name="keywords" content="">
-    <title>Mobius Loop</title>
+    <title>The Mobius Loop</title>
 
+
+	<!-- include jQuery Library -->
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<!-- efforless script below -->
+	<script type="text/javascript">
+	    jQuery(document).ready(function(){
+	        var pxShow = 300;//height on which the button will show
+	        var fadeInTime = 1000;//how slow/fast you want the button to show
+	        var fadeOutTime = 1000;//how slow/fast you want the button to hide
+	        var scrollSpeed = 1000;//how slow/fast you want the button to scroll to top. can be a value, 'slow', 'normal' or 'fast'
+	        jQuery(window).scroll(function(){
+	            if(jQuery(window).scrollTop() >= pxShow){
+	                jQuery("#backtotop").fadeIn(fadeInTime);
+	            }else{
+	                jQuery("#backtotop").fadeOut(fadeOutTime);
+	            }
+	        });
+
+	        jQuery('#backtotop a').click(function(){
+	            jQuery('html, body').animate({scrollTop:0}, scrollSpeed);
+	            return false;
+	        });
+	    });
+	</script>
 
 </head>
 <body>
@@ -16,11 +40,11 @@
   <tbody><tr>
     <td align="center" valign="middle" width="150" rowspan="2" background="../images/150X2Clear.png">&nbsp;</td>
     <td align="center" valign="middle" width="730">
-        <table align="center" width="730" height="200" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr><td background="../images/MobiusLoop730X160.png" align="right" valign="top" width="730">&nbsp;
+        <table align="center" width="730" height="172" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr><td background="../images/MobiusLoop730X148.png" align="right" valign="top" width="730" height="148">&nbsp;
         </td></tr>
-        <tr><td align="center" valign="middle" width="730" height="15">&nbsp;</td></tr>
-        <tr><td align="center" valign="middle" width="730" height="15" background="../images/MobiusMenubar 11092011.png"></td></tr>
+        <tr><td align="center" valign="middle" width="730" height="12">&nbsp;</td></tr>
+        <tr><td align="center" valign="middle" width="730" height="12" background="../images/mainpage/SilverBar728X12.png"></td></tr>
         </tbody></table>
     </td>
     <td align="center" valign="middle" width="150" rowspan="2" background="../images/150X2Clear.png">&nbsp;</td>
@@ -95,11 +119,18 @@ Mobius Loop is not responsible for the privacy practices or the content of such 
         <br>
         <a href="JavaScript:window.close()" class="Bbold">Close Window</a>
         <br><br>
-        Copyright (c) 2011 - Mobius Loop - All Rights Reserved
+        Copyright (c) 2011 - The Mobius Loop - All Rights Reserved
         </p>
     </td>
   </tr>
 </tbody></table>
+
+<div id="backtotop">
+<a href="#">
+<img src="../images/page_graphics/BackToTop.png" border="0" alt="Back to TOP" width="33" height="155">
+</a>
+</div>
+
 
 
 
