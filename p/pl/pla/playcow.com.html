@@ -1,238 +1,294 @@
-<!--The following is the downloaded HTML source of the playcow.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504132605id_/http%3A//www.playcow.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playcow.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919205751id_/http%3A//www.playcow.com/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Our privacy policy.">
-<meta name="keywords" content="">
-<title>Privacy Policy - Free Online Games</title>
-<link href="http://www.playcow.com/templates/playcow/files/style.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script src="http://www.playcow.com/templates/playcow/files/javascript.js" type="text/javascript"></script>
-<script type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<title>Privacy Policy - Games, Walkthroughs, Help, Hints and Hacked Version</title>
 
-var baseDir = 'http://www.playcow.com/';
-var templateBase = 'http://www.playcow.com/templates/playcow/';
+<script src="//server.cpmstar.com/cached/js/popunder_v100.pack.js" type="text/javascript"></script><script type="text/javascript">
 
-function setHomepage() {
-    if (document.all) {
-        document.body.style.behavior = 'url(#default#homepage)';
-        document.body.setHomePage('http://www.playcow.com/');
-    } else if (window.sidebar) {
-        if (window.netscape) {
-            try {
-                netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
-            } catch (e) {
-                alert("this action was aviod by your browser\nif you want to enable\nplease enter about:config in your address line,and change the value of signed.applets.codebase_principal_support to true");
-            }
-        }
-        var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
-        prefs.setCharPref('browser.startup.homepage', 'http://www.playcow.com/');
-    }
-}
+SITE_URL = 'http://www.playcow.com';
+AD_COUNTDOWN = '30';
+DELETE_FRIEND_CONFIRM = 'Are you sure you want to delete this friend?';
+UNFRIENDED = 'Friend removed';
+REQUEST_SENT = 'Request sent';
+CHALLENGE_A_FRIEND = 'Challenge a friend';
+CHALLENGE_SUBMITTED = 'Challenge sent';
+CHALLENGE_ANOTHER = 'Challenge another friend';
 </script>
-</head>
+<script type="text/javascript" src="http://www.playcow.com/includes/avarcade.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="http://www.playcow.com" href="http://www.playcow.com/rss.php">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="description" content="Privacy Policy for www.playcow.comIf you require any more information or have any questions about our privacy policy, please feel free to contact us by email…">
+	<meta name="keywords" content="">
+<link rel="shortcut icon" href="http://www.playcow.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.playcow.com/favicon.ico" type="image/x-icon">
+
+<style type="text/css">
+/* Game fullscreen */
+.flash_popup {
+	position: fixed;
+	z-index: 3;
+	top: 0%;
+    left: 50%;
+    margin: 0 auto;
+}
+.close_fullscreen {
+	z-index: 4;
+	position: fixed;
+	display: none;
+	top: 0px;
+	right: 0px;
+	background-color: #000;
+	color: #fff;
+	font-family: Arial;
+	font-size: 18px;
+	padding: 5px;
+}
+.close_fullscreen a {
+	text-decoration: none;
+	color: #fff;
+}
+.3dmissing {
+	margin: auto;
+	position: relative;
+	top: 50%;
+	width: 193px;
+}
+		
+#unityPlayer {
+	cursor: default;
+	height: 450px;
+	width: 600px;
+}
+</style><script type="text/javascript">
+	var imgUrl = 'http://www.playcow.com/templates/pien/images/';
+	var gameFeedUrl = 'http://www.playcow.com/includes/ajax/gamefeed.php';
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.playcow.com/templates/pien/style.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.playcow.com/templates/pien/js/thickbox.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.playcow.com/templates/pien/js/thickbox.css">
+<script type="text/javascript" src="http://www.playcow.com/templates/pien/js/functions.js"></script>
+<script type="text/javascript" src="http://www.playcow.com/templates/pien/js/gamefeed.js"></script>
+<script type="text/javascript" src="http://www.playcow.com/templates/pien/js/jquery.form.js"></script>
+<script type="text/javascript" src="http://advertising.copacet.com/js/Ad_Copacet.js"></script></head>
 <body>
 	<div id="wrapper">
-		<div id="top-ads-728">
-			<script type="text/javascript"><!--
+		<div id="header">
+			<div id="logo">
+				<h1><a href="http://www.playcow.com" title="Games, Walkthroughs, Help, Hints and Hacked Version">Games, Walkthroughs, Help, Hints and Hacked Version</a></h1>
+				<a href="http://www.playcow.com" class="slogan">New Games Every Day</a>
+			</div>
+			<div id="ads728" class="blue_box floatright">
+				<div style="width: 728px; height: 90px"><script type="text/javascript"><!--
 google_ad_client = "ca-pub-4752294072739682";
-/* 728x90, created 11/3/11 */
-google_ad_slot = "2045498186";
+/* playcow728T */
+google_ad_slot = "5376758561";
 google_ad_width = 728;
 google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>		</div>
-		<div id="header">
-			<div class="box">
-				<div id="logo">
-					<h1><a href="http://www.playcow.com/">PlayCow</a></h1>
-					<a href="javascript:void(0)" onclick="setHomepage()" id="home_icon">Make your homepage</a>
+</script></div>
+				<div class="corners">
+					<div class="top_left"></div>
+					<div class="top_right"></div>
+					<div class="bot_left"></div>
+					<div class="bot_right"></div>
 				</div>
-				<div id="search_form">
-					<span>Over Thousands of FREE Online Games!</span>
-					<form action="http://www.playcow.com/pages/search" id="cse-search-box">
-					  <div>
-						<input type="hidden" name="cx" value="partner-pub-4752294072739682:9240294487">
+			</div>
+			<div class="clear"></div>
+			<div class="top_menu">
+				<div class="left"></div>
+				<div class="mid">
+					<a href="http://www.playcow.com" class="home_icon">Home</a>
+					<form action="http://www.playcow.com/index.php?task=search-result" method="get" id="cse-search-box" class="search">
+						<input type="hidden" name="task" value="search-result">
+						<input type="hidden" name="cx" value="partner-pub-4752294072739682:2299493016">
 						<input type="hidden" name="cof" value="FORID:10">
 						<input type="hidden" name="ie" value="UTF-8">
-						<input type="text" class="google_input" name="q" size="55">
-						<input type="submit" class="google_search" name="sa" value="">
-					  </div>
+						<input name="q" type="text" size="20" id="search_textbox" value="Search..." onclick="clickclear(this, 'Search...')" onblur="clickrecall(this,'Search...')" class="search_box">  
+						<input type="submit" value="">
 					</form>
+					<ul>
+						<li><a href="http://www.playcow.com/all">All Games</a></li>
+						<li class="splitter"></li>
+						<li><a href="http://www.playcow.com/all/plays/1">Most Popular</a></li>
+						<li class="splitter"></li>
+						<li class="categories">
+							<a href="javascript:void(0)">Categories</a>
+							<ul>
+								<li><a href="http://www.playcow.com/action"><span>Action</span></a></li><li><a href="http://www.playcow.com/adventure"><span>Adventure</span></a></li><li><a href="http://www.playcow.com/shooting"><span>Shooting</span></a></li><li><a href="http://www.playcow.com/sport-and-racing"><span>Sport &amp; Racing</span></a></li><li><a href="http://www.playcow.com/puzzle-and-skill"><span>Puzzle &amp; Skill</span></a></li><li><a href="http://www.playcow.com/strategy-and-rpg"><span>Strategy &amp; RPG</span></a></li><li><a href="http://www.playcow.com/girls"><span>Girls</span></a></li>							</ul>
+						</li>
+						<li class="splitter"></li>					
+						<li><a href="http://www.playcow.com/favorites">Favorites</a></li>
+						<li class="splitter"></li>
+						<li><a href="http://www.playcow.com/history">History</a></li>
+						<li class="splitter"></li>
+
+												<li><a href="http://www.playcow.com/index.php?task=login" class="blue_btn">Sign In</a></li>
+						<li class="splitter"></li>
+						<li><a href="http://www.playcow.com/index.php?task=register" class="blue_btn">Sign Up</a></li>
+											</ul>
+					<div class="clear"></div>
 				</div>
-				<div id="top-ads-234">
-					<a href="http://www.playcow.com/shooting/play-plants-vs-zombies" target="_blank"><img src="http://www.veryclip.com/icon/zombies.png" style="width: 234px; height: 60px; border: 0px;"></a>				</div>
+				<div class="right"></div>
 				<div class="clear"></div>
-				<ul class="menu">
-					<li><a href="http://www.playcow.com/"><span>Home</span></a></li>
-					<li><a href="http://www.playcow.com/all-games"><span>Free Online Games</span></a></li>
-					<li><a href="http://www.playcow.com/download-games"><span>Download Games</span></a></li>
-					<li><a href="http://www.playcow.com/tags/iphone"><span>Iphone/Ipad</span></a></li>
-					<li><a href="http://www.playcow.com/walkthroughs"><span>Walkthroughs</span></a></li>
-					<li><a href="http://www.twitter.com/playcow" target="_blank"><span>Twitter</span></a></li>
-					<li><a href="http://www.facebook.com/pages/PlayCow/126005204300" target="_blank"><span>Facebook</span></a></li>
-				</ul>
-				<div class="corners clear">
-					<div class="top-left"></div>
-					<div class="top-right"></div>
-					<div class="bot-left"></div>
-					<div class="bot-right"></div>
-				</div>
 			</div>
-		</div>
-
-		<div id="mid-banner">
-			<a href="http://itunes.apple.com/us/app/pearlbreak/id482065025?mt=8/" target="_blank"><img src="http://www.playcow.com/templates/playcow/files/images/bfg.jpg" width="980" height="75"></a>			</div>
-
-		<div id="site-content">
-			
-			<div id="sub-col">
-				<div class="box">
-					<h2 class="header">Categories</h2>
-					<ul class="links_list">
-						<li><a href="http://www.playcow.com/action-adventure"><span>Action &amp; Adventure</span></a></li><li><a href="http://www.playcow.com/girls-kids"><span>Girls &amp; Kids</span></a></li><li><a href="http://www.playcow.com/puzzle-skill"><span>Puzzle &amp; Skill</span></a></li><li><a href="http://www.playcow.com/shooting"><span>Shooting</span></a></li><li><a href="http://www.playcow.com/sport"><span>Sport</span></a></li><li><a href="http://www.playcow.com/strategy-rpg"><span>Strategy &amp; RPG</span></a></li>					</ul>
-					<div class="corners">
-						<div class="top-left"></div>
-						<div class="top-right"></div>
-						<div class="bot-left"></div>
-						<div class="bot-right"></div>
-					</div>
-				</div>
-				<div class="box">
-					<h2 class="header">Game Tags</h2>
-					<ul class="links_list">
-					<li><a href="http://www.playcow.com/tags/mario">Mario</a></li><li><a href="http://www.playcow.com/tags/zombies">Zombies</a></li><li><a href="http://www.playcow.com/tags/physics">Physics</a></li><li><a href="http://www.playcow.com/tags/cannon">Cannon</a></li><li><a href="http://www.playcow.com/tags/street-fighter">Street Fighter</a></li><li><a href="http://www.playcow.com/tags/defense">Defense</a></li><li><a href="http://www.playcow.com/tags/racing">Racing</a></li><li><a href="http://www.playcow.com/tags/bomb">Bomb</a></li><li><a href="http://www.playcow.com/tags/sonic">Sonic</a></li><li><a href="http://www.playcow.com/tags/ninja">Ninja</a></li><li><a href="http://www.playcow.com/tags/launch">Launch</a></li><li><a href="http://www.playcow.com/tags/cartoon">Cartoon</a></li><li><a href="http://www.playcow.com/tags/iphone">iPhone</a></li><li><a href="http://www.playcow.com/tags/cooking">Cooking</a></li><li><a href="http://www.playcow.com/tags/2player">2Player</a></li><li><a href="http://www.playcow.com/tags/hackedgames">HackedGames</a></li><li><a href="http://www.playcow.com/tags/nitrome">NitroMe</a></li><li><a href="http://www.playcow.com/tags/miniclip">MiniClip</a></li><li><a href="http://www.playcow.com/tags/armorgames">ArmorGames</a></li>	
-					</ul>
-					<div class="corners">
-						<div class="top-left"></div>
-						<div class="top-right"></div>
-						<div class="bot-left"></div>
-						<div class="bot-right"></div>
-					</div>
-				</div>
-
-				<div class="box">
-					<!-- BEGIN STANDARD TAG - 160 x 600 - PlayCow.com: Run-of-site - DO NOT MODIFY -->
-<script type="text/javascript" src="http://adan.xtendmedia.com/st?ad_type=ad&amp;ad_size=160x600&amp;section=2768634"></script>
-<!-- END TAG -->
-
-					<div class="corners">
-						<div class="top-left"></div>
-						<div class="top-right"></div>
-						<div class="bot-left"></div>
-						<div class="bot-right"></div>
-					</div>
-				</div>
-
-				<div class="box">
-					<h2 class="header">Recommend links</h2>
-
-					<ul class="links_list">
-											  <li><a href="http://www.veryclip.com" title="VeryClip">VeryClip</a></li><li><a href="http://www.arcadego.com" title="ArcadeGo">ArcadeGo</a></li><li><a href="http://www.gameslist.com" title="GamesList">GamesList</a></li><li><a href="http://www.pupugames.com" title="PuPuGames">PuPuGames</a></li><li><a href="http://www.playhorn.com" title="Play Games">Play Games</a></li><li><a href="http://www.game-5.com" title="Game 5">Game 5</a></li><li><a href="http://thebestflashgames.net/" title="Best Flash Games">Best Flash Games</a></li><li><a href="http://www.y8mini.com" title="Y8">Y8</a></li><li><a href="http://motor-games.com" title="Motor Games">Motor Games</a></li>					  <li><a href="http://www.playcow.com/trade-stats">Stats</a></li>
-					  <li><a href="http://www.playcow.com/trade-traffic" class="linkfeat">Get featured here</a></li>
-					</ul>
-
-
-					<div class="corners">
-						<div class="top-left"></div>
-						<div class="top-right"></div>
-						<div class="bot-left"></div>
-						<div class="bot-right"></div>
-					</div>
-				</div>
-			</div>
-<div id="main-col">
-	<div class="box">
-		<h2 class="header">
-			Privacy Policy - Free Online Games		</h2>
-		
-		We respect the privacy of of all internet users.<br><br><strong>Information collected</strong><br><br>When you visit our website we collect some information from you. We collect no personally identifiable information such as your name, address, phone number, or e-mail address unless you willingly submit it to us via registration or contact. Some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the internet, your browser type, or the type of computer operating system you use is collected upon your visit to our site in order to provide our advertisers with targeting information.<br><br>If yo were sent to our site from one of our partner sites and if you get sent to one of our partners from this site a non harmful cookie is added to your internet browser. These non-malicious cookies are set to delete themselves 1-24 hours after they have been created.
-		<div style="width: 728px; margin: 0 auto; margin-top: 10px;">
-		       <!--JavaScript Tag // Tag for network 5205: Intergi // Website: Chen Xiang Zuan // Page: playcow // Placement: playcow_728x90 (1370715) // created at: Jul 29, 2010 1:07:49 AM-->
-<script language="javascript"><!--
-document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1370715/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+			<div class="clear"></div>
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4752294072739682";
+/* PlaycowLinks */
+google_ad_slot = "9381366608";
+google_ad_width = 728;
+google_ad_height = 15;
 //-->
-</script><script language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1370715/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1580449498249"></script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/1370715/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/1370715/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="728" height="90"></a></noscript>
-<!-- End of JavaScript Tag -->		</div>
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center> 
+		</div>		<div class="site_content">
+			<div class="small_col">
+								<div class="grey_box" style="margin-bottom: 10px">
+					<div style="width: 160px; height: 600px; ">
+						<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4752294072739682";
+/* PlayCow160x600 */
+google_ad_slot = "3522831288";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 
-		<div class="clear"></div>
+					</div>
+					<div class="corners">
+						<div class="top_left"></div>
+						<div class="top_right"></div>
+						<div class="bot_left"></div>
+						<div class="bot_right"></div>
+					</div>
+				</div>
+				<div class="grey_box" style="margin-bottom: 10px">
+					<div style="width: 160px; height: 600px;">
+						<script language="Javascript">
+var cpmstar_rnd=Math.round(Math.random()*999999);
+var cpmstar_pid=6786;
+document.writeln("<SCR"+"IPT language='Javascript' src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
+</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=6786&amp;script=1&amp;rnd=794393"></script>
 
-		<div class="corners">
-			<div class="top-left"></div>
-			<div class="top-right"></div>
-			<div class="bot-left"></div>
-			<div class="bot-right"></div>
-		</div>
-	</div>
-</div>
+					</div>
+					<div class="corners">
+						<div class="top_left"></div>
+						<div class="top_right"></div>
+						<div class="bot_left"></div>
+						<div class="bot_right"></div>
+					</div>
+				</div>			</div>
+			<div class="main_col">
+				<div class="white_box">
+					<div class="corners">
+						<div class="top_left"></div>
+						<div class="top_right"></div>
+						<div class="bot_left"></div>
+						<div class="bot_right"></div>
+					</div>
 
-<div class="clear"></div>
+					<div class="content_box">
+						<div class="box_header red">
+							<div class="left"></div>
+							<h2>Privacy Policy</h2>
+							<div class="arrow"></div>
+						</div>
+						<div class="box_content">
+							<div class="Section0"><p class="p0" style="margin-bottom:0pt; margin-top:0pt; text-autospace:ideograph-other; "><span style="font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); ">Privacy Policy for www.playcow.com</span></p><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at&nbsp;
+<span style="background-color: rgb(255, 255, 255); ">playcow</span>@me.com.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">At&nbsp;<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_37043d7c17585acf245a32fa229fd66e86074a37_com:0" grphrase="37043d7c17585acf245a32fa229fd66e86074a37" grtype="null">com</span>, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by&nbsp;
+<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_6c148dbb49f5d5a373333242131a6b501681eaad_com:0" grphrase="6c148dbb49f5d5a373333242131a6b501681eaad" grtype="null">com</span> and how it is used.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><b style="padding: 0px; margin: 0px; ">Log Files&nbsp;</b></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><b style="padding: 0px; margin: 0px; "><br style="padding: 0px; margin: 0px; "></b></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">Like many other Web sites, www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_80968efaf26807c991cdd2208da4cc5496e67739_com:0" grphrase="80968efaf26807c991cdd2208da4cc5496e67739" grtype="null">com</span> makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user movement around the site, and gather demographic information. IP addresses, and other such information&nbsp;<span class="GRcorrect" id="GRmark_0b1a66ad0a0f6c0cec4519016b2a41a45855ad4d_are not linked:0" grphrase="0b1a66ad0a0f6c0cec4519016b2a41a45855ad4d" grtype="null">are not linked</span>&nbsp;to any information that is personally identifiable.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><b style="padding: 0px; margin: 0px; ">Cookies and Web Beacons</b></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_194fb724624e53f16bd89a921f5a11d1f737ee4e_com:0" grphrase="194fb724624e53f16bd89a921f5a11d1f737ee4e" grtype="null">com</span> does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">DoubleClick DART Cookie</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">Google, as a third party vendor, uses cookies to serve ads on www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><span class="GRcorrect" id="GRmark_fe41e64e681f5043450b2e7f6608d83a9d906809_Google:0" grphrase="fe41e64e681f5043450b2e7f6608d83a9d906809" grtype="null">Google</span>&nbsp;use of the DART cookie enables it to serve ads to your users based on their visit to www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com and other sites on the Internet.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.&nbsp;www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com has no access to or control over these cookies that are used by third-party advertisers.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the&nbsp;<span class="GRcorrect" id="GRmark_40cd7cd45d72fc77ebbfb96bd2bcebb12dd0a696_browsers:0" grphrase="40cd7cd45d72fc77ebbfb96bd2bcebb12dd0a696" grtype="null">browsers</span>&nbsp;respective websites.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><span style="background-color: rgb(255, 255, 255); "><span class="GRcorrect" id="GRmark_2cc8be6b121c2326fe096ec0de84d169797fef5b_playcow:0" grphrase="2cc8be6b121c2326fe096ec0de84d169797fef5b" grtype="null">playcow</span></span>&nbsp;is one of the best online source for free online flash games. Not only we offer thousands of flash games here at&nbsp;<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com, we are offering all of these games for free. Most of the games here are hand picked which mean the game quality are always on the top games level. Players&nbsp;can picked&nbsp;<span class="GRspelling" grtype="null">favoirte</span>&nbsp;games in the choice of action, adventure,<span class="GRspelling" grtype="null">mario</span>,sonic,cartoon,strategy,fun,girls,and&nbsp;<span class="GRspelling" grtype="null">lotmore</span>.Among the most popular games such as Mario and Sonic, we have tons of those games available here at&nbsp;
+<span style="background-color: rgb(255, 255, 255); ">playcow</span>.<span class="GRspelling">com</span>. The way that&nbsp;
+<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_com:0" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">com</span> setup <span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_allow:1" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">allow</span> players to navigate the site easily and able to find their&nbsp;<span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_favoirte:2" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">favoirte</span>&nbsp;quickly. We always update our games daily with at least one new game per day. This way players can play a new and fresh game right away and don't get&nbsp;<span class="GRcorrect" id="GRmark_bb0ffda2961f20bf755422a0630a8a50b2351e16_bore:0" grphrase="bb0ffda2961f20bf755422a0630a8a50b2351e16" grtype="null">bore</span>. Now sit down, choose your game, and start playing free online flash games. Have Fun!!!</div><p></p></div><br>						</div>
+					</div>
 
-        </div>
-				<div class="box">
-			<div id="footer">
-				<div class="logo">PlayCow</div>
-				<div class="text">
-				Copyright 2011 PlayCow.com. All rights reserved.<br>
-				All Games and Graphics PlayCow.com are copyrighted or trademarked by their respective owners or authors<br>
-				
-				<a href="http://www.playcow.com/">Home</a> - <a href="http://www.playcow.com/pages/advertise">Advertise</a> - <a href="http://www.playcow.com/pages/contact-us">Contact Us</a> - <a href="http://www.playcow.com/pages/privacy-policy">Privacy Policy</a> - <a href="http://www.playcow.com/pages/term-of-service">Term of Service</a>				 - <a href="http://www.playcow.com/submit-games">Submit Games</a> -  <a href="http://www.playcow.com/free-games-for-your-website">Free Games For Your Site</a>
 				</div>
 			</div>
-			<div class="corners clear">
-				<div class="top-left"></div>
-				<div class="top-right"></div>
-				<div class="bot-left"></div>
-				<div class="bot-right"></div>
+			<div class="clear"></div>
+		</div>
+			
+
+		<div id="fb-root"></div>
+		<script src="http://www.playcow.com/includes/facebook.js"></script>
+		<script>
+  			FB.init({appId: '244132888956093', status: true, cookie: true, xfbml: true});
+  			FB.Event.subscribe('auth.sessionChange', function(response) {
+    			if (response.session) {
+      				// A user has JUST logged in, and a new cookie has been saved
+					window.location = "http://www.playcow.com/facebook_auth.php?prevpage=http%3A%2F%2Fwww.playcow.com%2Fpage%2Fprivacy-policy"
+   				} else {
+      				// The user has logged out, and the cookie has been cleared
+      				window.location = "http://www.playcow.com/login.php?action=logout&prevpage=http%3A%2F%2Fwww.playcow.com%2Fpage%2Fprivacy-policy"
+    			}
+  			});
+		</script>
+
+			<div class="bot_menu">
+				<div class="left"></div>
+				<div class="mid">
+					<div class="floatleft" style="padding-top: 9px">
+						<span class="st_sharethis_large" displaytext="ShareThis" style="float: left; margin-left: -5px"></span>
+						<span class="st_twitter_large" displaytext="Tweet" style="float: left; margin-left: -5px"></span>
+						<span class="st_digg_large" displaytext="Digg" style="float: left; margin-left: -5px"></span>
+						<span class="st_reddit_large" displaytext="Reddit" style="float: left; margin-left: -5px"></span>
+						<script type="text/javascript">var switchTo5x=true;</script>
+						<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+						<script type="text/javascript">stLight.options({publisher: "ur-307780f7-3567-7de3-34a0-5e345b3fc1bf"}); </script>
+					</div>
+					<div class="floatright">
+						<a href="http://www.playcow.com">Homepage</a> | <a href="http://www.playcow.com/links">Links</a> | <a href="http://www.playcow.com/submit-game">Submit a game</a> | <a href="http://www.playcow.com/tag/playcow">Free Games For Your Site</a> | <a href="http://www.playcow.com/contact">Contact</a> | <a href="http://www.playcow.com/rss.php">RSS</a> | <a href="http://www.playcow.com/page/privacy-policy">Privacy Policy</a>					</div>
+				</div>
+				<div class="right"></div>
+			</div>
+						<div class="partner_box white_box">
+				<div class="corners">
+					<div class="top_left"></div>
+					<div class="top_right"></div>
+					<div class="bot_left"></div>
+					<div class="bot_right"></div>
+				</div>
+				<div class="content_box">
+					<div class="box_header">
+						<div class="left"></div>
+						<h2>
+							Partners
+							<a href="http://www.playcow.com/links" class="floatright"><span>Link exchange</span></a>						</h2>
+						<div class="arrow"></div>
+					</div>
+					<div class="box_content" style="line-height: 18px">
+
+						<a href="http://gamebibi.com" target="_blank">Funny Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.boy-games.net" target="_blank">boy games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gamechics.com/tags/power-rangers.html" target="_blank">Power Rangers Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.killhours.com/" target="_blank">Addicting Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.th-game.net" target="_blank">TH-Game.net</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://gamerightnow.com" target="_blank">Ben 10 Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.myplayinggame.com" target="_blank">Playing Game</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://1000webgames.com" target="_blank">1000 Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gamehiphop.com" target="_blank">Tom And Jerry Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gamestiny.com" target="_blank">Sonic Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.ofunnygames.com" target="_blank">Funny Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.muchgames.com" target="_blank">Online Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gameglobo.com" target="_blank">Spongebob Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.zapxo.com/ " target="_blank">New Cool Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.nasroman.com/" target="_blank">Sport Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.plentyofgames.com" target="_blank">Free Arcade Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.coolgames247.com" target="_blank">Cool Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.arcadegrab.com/" target="_blank">Best Online Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.hackedarcadegames.com" target="_blank">Hacked Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gamersearth.com" target="_blank">Free Addicting Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.arcadeblob.com" target="_blank">Cool Game</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.free-games.net/play/angry-birds-online" target="_blank">Angry Birds Online</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.playthefungames.com" target="_blank">Fun Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.playgamesarcade.com" target="_blank">Play Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.4463.com" target="_blank">Two Player Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.freemonstertruckgames.org" target="_blank">Monster Truck Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gungamesonline.org" target="_blank">Gun Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.freebatmangamesonline.com" target="_blank">BatMan Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.freespidermangames.org" target="_blank">SpiderMan Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.2playergames.co" target="_blank">2 player games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.y3games.info" target="_blank">y3</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.outlawsgameroom.com" target="_blank">OutlawsGameroom.com</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.y8girlsgames.com" target="_blank">y8Girls</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.motorbikegames.ca" target="_blank">Motorbike Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.highscoregames.ca" target="_blank">Score Games</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.playcow.com" target="_blank">playcow</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.game-voyage.com" target="_blank">Game Voyage</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.5games.co.uk/games/happy-wheels" target="_blank">Happy Wheel</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.pkcoolgames.com" target="_blank">PkCoolGames</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.kidstoongames.com" target="_blank">KidsToonGames</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gamescatch.com" target="_blank">GamesCatch</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gamemunchies.com" target="_blank">GameMunchies</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.toonarcades.com" target="_blank">ToonArcades</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.pockygames.com" target="_blank">PockyGames</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.playhorn.com" target="_blank">PlayHorn</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.pupugames.com" target="_blank">PuPuGames</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.dailygames.com" target="_blank">DailyGames</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.gameslist.com" target="_blank">GamesList</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.y8.com" target="_blank">Y8</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.toondada.com" target="_blank">ToonDada</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.arcadedom.com" target="_blank">ArcadeDom</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.playwon.com" target="_blank">PlayWon</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.veryclip.com" target="_blank">VeryClip</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.playcow.com" target="_blank">PlayCow</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.funfuncity.com" target="_blank">FunFunCity</a>					
+					</div>
+				</div>
 			</div>
 		</div>
-<div id="top-ads-728">
-			<!-- BEGIN STANDARD TAG - 728 x 90 - PlayCow.com: Run-of-site - DO NOT MODIFY -->
-<script type="text/javascript" src="http://adan.xtendmedia.com/st?ad_type=ad&amp;ad_size=728x90&amp;section=2768634"></script>
-<!-- END TAG -->		</div>
-<div class="footer_text"><p>Link Exchange</p>
-<a href="http://www.veryclip.com" target="_blank">Free Online Games</a> | 
-<a href="http://www.freespidermangames.org/" target="_blank">SpiderMan Games</a> |
-<a href="http://www.freebatmangamesonline.com/" target="_blank">BatMan Games</a> |
-<a href="http://www.gungamesonline.org/" target="_blank">Gun Games</a> |
-<a href="http://www.freemonstertruckgames.org/" target="_blank">Monster Truck Games</a> |
-<a href="http://www.4463.com" target="_blank">Two Player Games</a> |
-<a href="http://www.playwon.com" target="_blank">Online Best Games</a> | 
-<a href="http://www.dailygames.com" target="_blank">DailyGames</a> |
-<a href="http://www.arcadedom.com/" target="_blank">Kingdom of Arcade</a> |
-<a href="http://www.moremario.com/" target="_blank">Mario Games</a> |
-<a href="http://www.playgamesarcade.com/" target="_blank">Play Games</a> |
-<a href="http://www.playthefungames.com/" target="_blank">Fun Games</a> |
-<a href="http://www.free-games.net/play/angry-birds-online" target="_blank">Angry Birds Online |
-</a><a href="http://www.arcadeblob.com/" target="_blank">Cool Games</a> |
-<a href="http://www.ToonJungle.com/" target="_blank">Cartoon Games</a> |
-<a href="http://www.playzom.com/" target="_blank">PlayZom</a> |
-<a href="http://www.toonarcades.com/" target="_blank">Toon Arcades</a> |
-<a href="http://www.pupugames.com/" target="_blank">PuPuGames</a> |
-<a href="http://www.gamersearth.com/" target="_blank">Free Addicting Games</a> |
-<a href="http://www.hackedarcadegames.com/" target="_blank">Hacked Games</a> |
-<a href="http://www.arcadegrab.com/" target="_blank">Best Online Games</a> |
-<a href="http://www.coolgames247.com/" target="_blank">Cool Games</a> |
-<a href="http://www.plentyofgames.com/" target="_blank">Free Arcade Games</a> |
-<a href="http://www.toondada.com/" target="_blank">ToonDada</a> |</div>
-</div>	
 <!-- BEGIN CPMSTAR TWO-SIDED SITESKIN CODE -->
 <script type="text/javascript">
 var cpmstar_pid         = 13239; // your poolid
-var cpmstar_centerWidth = "982"; //width IN PIXELS of your center content, e.g. "800px"
-var cpmstar_fixed       = "0" ; //fix ads near top of screen: "0" to allow ads to scroll with page
+var cpmstar_centerWidth = "960"; //width IN PIXELS of your center content, e.g. "800px"
+var cpmstar_fixed       = "1" ; //fix ads near top of screen: "0" to allow ads to scroll with page
 var cpmstar_leftOffset  = "0px" ; //optionally adjust left ad positioning
 var cpmstar_rightOffset = "0px" ; //optionally adjust right ad positioning
 var cpmstar_zIndex      = "100" ; //adjust layering of ads vs. other page elements
 var cpmstar_topPos = "0px" ; //optionally shift both ads down from top of page
 var cpmstar_rnd         = Math.round(Math.random() * 999999);
 document.write("\x3cscript type='text/javascript' src='http://server.cpmstar.com/view.aspx?poolid=" + cpmstar_pid + "&script=1&rnd=" + cpmstar_rnd + "'\x3e\x3c/script\x3e");
-</script><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=13239&amp;script=1&amp;rnd=364166"></script>
+</script><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=13239&amp;script=1&amp;rnd=676965"></script>
 <!-- END CPMSTAR TWO-SIDED SITESKIN CODE -->
-<script type="text/javascript">document.write("<scr" + "ipt type='text/javascript' src='http://www.epicgameads.com/ads/popjs.php?id=SKqVSpRrd8&channel=0&cb=" + new Date().getTime() + "'></scri" + "pt>");</script><script type="text/javascript" src="http://www.epicgameads.com/ads/popjs.php?id=SKqVSpRrd8&amp;channel=0&amp;cb=1580449498255"></script>
+<script type="text/javascript">
+var cpmstar_popunder_settings = {
+  pid: 32809
+};
+t =document.getElementsByTagName('script');s =document.createElement('script');s.src = (document.location.protocol== 'https:' ? '//server' : '//cdn') + '.cpmstar.com/cached/js/popunder_v100.pack.js';s.type='text/javascript';s.async='';t[0].parentNode.insertBefore(s,t[0]);
+</script>
 <!-- BEGIN CPMSTAR ANCHOR AD CODE 20100929 -->
 <div id="cpmstar_anchor" style="z-index: 2147483647; position: fixed; width: 100%; bottom: 0px; left: 0px; _position: absolute; _top: expression( eval( document.compatMode &amp;&amp; document.compatMode=='CSS1Compat' ? document.documentElement.scrollTop+document.documentElement.clientHeight : document.body.scrollTop+document.body.clientHeight ) + 'px' ); _width: expression( eval( document.compatMode &amp;&amp; document.compatMode=='CSS1Compat' ? documentElement.clientWidth : document.body.clientWidth ) + 'px' ); _left: expression( eval( document.compatMode &amp;&amp; document.compatMode=='CSS1Compat' ? documentElement.scrollLeft : document.body.scrollLeft ) + 'px' );">
 <div id="cpmstar_anchor_slide" style="position: absolute; height: 0px; top: 0px; left: 0px; width: 100%; background-color: Transparent;">
@@ -254,304 +310,4 @@ document.write("\x3cscript type='text/javascript' src='http://server.cpmstar.com
 </div>
 <script type="text/javascript" src="http://server.cpmstar.com/cached/anchorad.js"></script>
 <!-- END CPMSTAR ANCHOR AD CODE -->
-<div id="floatdiv" style="position: absolute; z-index: 100; left: 1226px; top: 380px;">
-<!-- random start -->
-<script type="text/javascript">
-var links =
-[
- {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/5.png"
-    },
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/2.png"
-    },
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/3.png"
-    },
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/4.png"
-
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/1.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/6.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/7.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/8.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/9.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/10.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/11.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/12.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/13.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/14.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/15.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/16.png"
-},
-    {
-        url: "http://www.playcow.com/out.php",
-        image: "http://www.playcow.com/icon/17.png"
-
-
-
-
-}
-
-
-
-];
-
-var link = links[Math.floor(Math.random() * links.length)];
-
-document.write('<a href="' +
-    link.url +
-    '" target="_blank"><img src="' +
-    link.image + 
-    '" border="0"></a>');
-
-</script><a href="http://www.playcow.com/out.php" target="_blank"><img src="http://www.playcow.com/icon/1.png" border="0"></a>
-
-<!-- random end -->
-
-
-</div>
-
-
-<script type="text/javascript">
-/* Script by: www.jtricks.com
-* Version: 20071017
-* Latest version:
-* www.jtricks.com/javascript/navigation/floating.html
-*/
-var floatingMenuId = 'floatdiv';
-var floatingMenu =
-{
-targetX: -140,
-targetY: 380,
-hasInner: typeof(window.innerWidth) == 'number',
-hasElement: typeof(document.documentElement) == 'object'
-&& typeof(document.documentElement.clientWidth) == 'number',
-menu:
-document.getElementById
-? document.getElementById(floatingMenuId)
-: document.all
-? document.all[floatingMenuId]
-: document.layers[floatingMenuId]
-};
-floatingMenu.move = function ()
-{
-floatingMenu.menu.style.left = floatingMenu.nextX + 'px';
-floatingMenu.menu.style.top = floatingMenu.nextY + 'px';
-}
-floatingMenu.computeShifts = function ()
-{
-var de = document.documentElement;
-floatingMenu.shiftX =  
-floatingMenu.hasInner  
-? pageXOffset  
-: floatingMenu.hasElement  
-? de.scrollLeft  
-: document.body.scrollLeft;  
-if (floatingMenu.targetX < 0)
-{
-floatingMenu.shiftX +=
-floatingMenu.hasElement
-? de.clientWidth
-: document.body.clientWidth;
-}
-floatingMenu.shiftY = 
-floatingMenu.hasInner
-? pageYOffset
-: floatingMenu.hasElement
-? de.scrollTop
-: document.body.scrollTop;
-if (floatingMenu.targetY < 0)
-{
-if (floatingMenu.hasElement && floatingMenu.hasInner)
-{
-// Handle Opera 8 problems
-floatingMenu.shiftY +=
-de.clientHeight > window.innerHeight
-? window.innerHeight
-: de.clientHeight
-}
-else
-{
-floatingMenu.shiftY +=
-floatingMenu.hasElement
-? de.clientHeight
-: document.body.clientHeight;
-}
-}
-}
-floatingMenu.calculateCornerX = function()
-{
-if (floatingMenu.targetX != 'center')
-return floatingMenu.shiftX + floatingMenu.targetX;
-var width = parseInt(floatingMenu.menu.offsetWidth);
-var cornerX =
-floatingMenu.hasElement
-? (floatingMenu.hasInner
-? pageXOffset
-: document.documentElement.scrollLeft) + 
-(document.documentElement.clientWidth - width)/2
-: document.body.scrollLeft + 
-(document.body.clientWidth - width)/2;
-return cornerX;
-};
-floatingMenu.calculateCornerY = function()
-{
-if (floatingMenu.targetY != 'center')
-return floatingMenu.shiftY + floatingMenu.targetY;
-var height = parseInt(floatingMenu.menu.offsetHeight);
-// Handle Opera 8 problems
-var clientHeight = 
-floatingMenu.hasElement && floatingMenu.hasInner
-&& document.documentElement.clientHeight 
-> window.innerHeight
-? window.innerHeight
-: document.documentElement.clientHeight
-var cornerY =
-floatingMenu.hasElement
-? (floatingMenu.hasInner  
-? pageYOffset
-: document.documentElement.scrollTop) + 
-(clientHeight - height)/2
-: document.body.scrollTop + 
-(document.body.clientHeight - height)/2;
-return cornerY;
-};
-floatingMenu.doFloat = function()
-{
-// Check if reference to menu was lost due
-// to ajax manipuations
-if (!floatingMenu.menu)
-{
-menu = document.getElementById
-? document.getElementById(floatingMenuId)
-: document.all
-? document.all[floatingMenuId]
-: document.layers[floatingMenuId];
-initSecondary();
-}
-var stepX, stepY;
-floatingMenu.computeShifts();
-var cornerX = floatingMenu.calculateCornerX();
-var stepX = (cornerX - floatingMenu.nextX) * .07;
-if (Math.abs(stepX) < .5)
-{
-stepX = cornerX - floatingMenu.nextX;
-}
-var cornerY = floatingMenu.calculateCornerY();
-var stepY = (cornerY - floatingMenu.nextY) * .07;
-if (Math.abs(stepY) < .5)
-{
-stepY = cornerY - floatingMenu.nextY;
-}
-if (Math.abs(stepX) > 0 ||
-Math.abs(stepY) > 0)
-{
-floatingMenu.nextX += stepX;
-floatingMenu.nextY += stepY;
-floatingMenu.move();
-}
-setTimeout('floatingMenu.doFloat()', 20);
-};
-// addEvent designed by Aaron Moore
-floatingMenu.addEvent = function(element, listener, handler)
-{
-if(typeof element[listener] != 'function' || 
-typeof element[listener + '_num'] == 'undefined')
-{
-element[listener + '_num'] = 0;
-if (typeof element[listener] == 'function')
-{
-element[listener + 0] = element[listener];
-element[listener + '_num']++;
-}
-element[listener] = function(e)
-{
-var r = true;
-e = (e) ? e : window.event;
-for(var i = element[listener + '_num'] -1; i >= 0; i--)
-{
-if(element[listener + i](e) == false)
-r = false;
-}
-return r;
-}
-}
-//if handler is not already stored, assign it
-for(var i = 0; i < element[listener + '_num']; i++)
-if(element[listener + i] == handler)
-return;
-element[listener + element[listener + '_num']] = handler;
-element[listener + '_num']++;
-};
-floatingMenu.init = function()
-{
-floatingMenu.initSecondary();
-floatingMenu.doFloat();
-};
-// Some browsers init scrollbars only after
-// full document load.
-floatingMenu.initSecondary = function()
-{
-floatingMenu.computeShifts();
-floatingMenu.nextX = floatingMenu.calculateCornerX();
-floatingMenu.nextY = floatingMenu.calculateCornerY();
-floatingMenu.move();
-}
-if (document.layers)
-floatingMenu.addEvent(window, 'onload', floatingMenu.init);
-else
-{
-floatingMenu.init();
-floatingMenu.addEvent(window, 'onload',
-floatingMenu.initSecondary);
-}
-function move_lower_right()
-{
-floatingMenu.targetX=-250;
-floatingMenu.targetY=-120;
-}
-//move_lower_right();
-</script>
-
-</body></html>
+ </body></html>
