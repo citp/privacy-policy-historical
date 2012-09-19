@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingtorelating.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111101721id_/http%3A//datingtorelating.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingtorelating.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181920id_/http%3A//datingtorelating.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
