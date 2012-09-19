@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famouspoetsandpoems.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607055958id_/http%3A//famouspoetsandpoems.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouspoetsandpoems.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012943id_/http%3A//famouspoetsandpoems.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Famous Poets and Poems
 
