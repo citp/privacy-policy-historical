@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the slingmedia.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520050211id_/http%3A//www.slingmedia.com/get/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slingmedia.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919191943id_/http%3A//www.slingmedia.com/get/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:comem3="xalan://com.em3" xmlns:em3="http://www.em3.com/2002/widget"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -660,7 +660,7 @@ if (browser.ce || browser.palm || browser.symbian || browser.blackberry || brows
 
 // ---------------------------- redirection for slingbox.com domain ----------
 
-if (window.location.host.indexOf("beta") != -1) window.location = "http://www.slingbox.com" + window.location.pathname;
+//if (window.location.host.indexOf("beta") != -1) window.location = "http://www.slingbox.com" + window.location.pathname;
 
 // ---------------------------- redirection for locale ----------------------
 
@@ -721,7 +721,7 @@ function goSMLocale() {
         break;
     }
     // only redirect if you are not on the current site
-      if (window.location.href.toLowerCase().indexOf(url) == -1) window.location.href= url;
+//      if (window.location.href.toLowerCase().indexOf(url) == -1) window.location.href= url;
 
     }
 
@@ -731,7 +731,7 @@ function goSMLocale() {
 function setLocale(sLoc) {
     if (sLoc != '') {
         SetCookie("sm_locale", sLoc);
-        goSMLocale();
+    //    goSMLocale();
     }
 }
 
