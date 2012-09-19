@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mastercard.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510001210id_/http%3A//www.mastercard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190329id_/http%3A//www.mastercard.com/privacy) for the most accurate reproduction.*
 
-# MasterCard Global Privacy Policy — United States | MasterCard®
+# MasterCard Web Analytics Privacy Settings
 
 MasterCard International Incorporated (doing business as MasterCard Worldwide) and its affiliates (collectively, "MasterCard") respect your privacy. This Global Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
