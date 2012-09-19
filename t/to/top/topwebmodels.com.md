@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the topwebmodels.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421132728id_/http%3A//topwebmodels.com/MSE/default/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topwebmodels.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204550id_/http%3A//topwebmodels.com/MSE/default/0/privacy) for the most accurate reproduction.*
 
-# Top Web Models :: Top Web Models Privacy Policy
+# 
+
+## Top Web Models Privacy Policy
 
 Your privacy is important to us.
 
@@ -8,6 +10,4 @@ To better protect your privacy we provide this notice explaining our online info
 
 This notice applies to all information collected or submitted on Top Web Models. On some pages you will be able to submit your e-mail address. This information will be used strictly for advertising news of special offers to our members or promotional purposes. This information is not subject to resale.
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [support@mysiteengine.com](mailto:support@mysiteengine.com)
-
-[Website Security](http://www.websitesecure.org/)
+Should you have other questions or concerns about these privacy policies, please send us an email at [support@topwebmodels.com](mailto:support@topwebmodels.com)
