@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daredevilmarketing.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630052250id_/http%3A//daredevilmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daredevilmarketing.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225622id_/http%3A//daredevilmarketing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DareDevil Marketing
 
