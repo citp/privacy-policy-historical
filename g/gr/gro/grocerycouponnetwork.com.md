@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615031148id_/http%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919215542id_/http%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Grocery Coupon Network
 
@@ -91,9 +91,5 @@ If You have any questions about the practices of Grocery Coupon Network, You can
 Email: [privacy@GroceryCouponNetwork.com](mailto:privacy@GroceryCouponNetwork.com)  
 Phone: (312) 476-9862
 
-| 
+|    
 
-### Check out the GCN Community
-
-  
-[Grocery Coupon Network](http://www.facebook.com/pages/Grocery-Coupon-Network/187379439313)
