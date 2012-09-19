@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2articles.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124203748id_/http%3A//www.way2articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2articles.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230955id_/http%3A//www.way2articles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
