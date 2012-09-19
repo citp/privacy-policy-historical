@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the steamgifts.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512142919id_/http%3A//www.steamgifts.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the steamgifts.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919185520id_/http%3A//www.steamgifts.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="keywords" content="buy, purchase, game, gaming, pc, computer">
 		<link rel="shortcut icon" href="/favicon.ico">
 				<title>Privacy Policy - SteamGifts.com</title>	
-		<link href="/css/style58.css" rel="stylesheet" type="text/css">
+		<link href="/css/style79.css" rel="stylesheet" type="text/css">
 					<link href="/css/flick/jquery-ui-1.8.12.custom.css" rel="stylesheet" type="text/css">
 				<!-- RSS Feed -->
 		<link href="http://feeds.feedburner.com/steamgifts" rel="alternate" type="application/rss+xml" title="SteamGifts.com">
@@ -62,7 +62,7 @@
 				$('.button.toggle_delete').click(function(){
 					$('.notification.toggle_delete').toggle();
 					return false;
-				});					
+				});			
 				
 				$('.create_submit').click(function(){
 					$('#create_form').submit();
@@ -114,10 +114,20 @@
 					return false;
 				});
 				
+				$('.discussions .buttons a.action_required').click(function(){
+					$('#action_required').submit();
+					return false;
+				});				
+				
 				$('.discussions .buttons a.close').click(function(){
 					$('#close_discussion').submit();
 					return false;
 				});
+				
+				$('.discussions .buttons a.approve').click(function(){
+					$('#approve_discussion').submit();
+					return false;
+				});				
 				
 				$('.delete_comment').click(function(){
 					$("input[name='delete_comment_id']").val($(this).parent().attr("rel"));
@@ -316,6 +326,7 @@
 					<ol>
 													<li><a href="/">Home</a></li>
 							<li><a href="/forum">Forum</a></li>
+							<li><a href="/forum/91wob/faq-and-guidelines">FAQ</a></li>
 							<li>
 								<div class="relative-dropdown">
 									<div class="absolute-dropdown">
@@ -369,9 +380,9 @@
 									
 					<h4>Statistics</h4>
 					<ul>
-						<li><span class="highlight">121,641</span> Members</li>
-						<li><span class="highlight">49,651</span> Received Gifts</li>
-						<li>Received Gifts Valued at <span class="highlight">$519,357.61</span></li>
+						<li><span class="highlight">187,940</span> Members</li>
+						<li><span class="highlight">134,523</span> Received Gifts</li>
+						<li>Received Gifts Valued at <span class="highlight">$1,718,892.49</span></li>
 					</ul>
 				</div>
 							
