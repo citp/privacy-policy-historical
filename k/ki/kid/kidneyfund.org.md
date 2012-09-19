@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505152825id_/http%3A//www.kidneyfund.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005426id_/http%3A//www.kidneyfund.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,11 +37,11 @@ Like many other web sites, the American Kidney Fund may use a standard technolog
 
 
 
-While the American Kidney Fund puts forth its best efforts in adhering to these privacy standards, additional restrictions may be imposed to comply with state and local laws. 
+While the American Kidney Fund puts forth its best efforts in adhering to these privacy standards, additional restrictions may be imposed to comply with state and local laws.
 
 For more information, please contact us at:   
 American Kidney Fund, Inc.  
-6110 Executive Boulevard, Suite 1010  
+11921 Rockville Pike, Suite 300  
 Rockville, MD 20852
 
 |   
