@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the bonzobox.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503234629id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bonzobox.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919185747id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/8c2d7d8273b7cb08df5f07069138e24656db59c8.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript">
+<!DOCTYPE html><html><head><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/8c2d7d8273b7cb08df5f07069138e24656db59c8.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript">
   var _kmq = _kmq || [];
   function _kms(u){
     setTimeout(function(){
@@ -67,7 +67,7 @@ window.location.href = "/ie6";
 	<select name="searchtype" id="searchtype">
 	    
 		<!--<option value="google">on Google</option>-->
-	    <option value="bing">on Bing</option>
+	    
 		    	</select>
 
     </span>
@@ -186,32 +186,16 @@ window.location.href = "/ie6";
 
 <div id="fb-root"></div>
 
-<script src="http://connect.facebook.net/en_US/all.js"></script>
 
-<script>
-    
-    
-
-    FB.init({appId: '98699855808', 'status': true, 'cookie': true, 'xfbml': true, 'logging':true});
-
-/*
-FB.Event.subscribe('auth.sessionChange', function(response) {
-    if (response.session) {
-      // A user has logged in, and a new cookie has been saved
-    } else {
-      // The user has logged out, and the cookie has been cleared
-    }
-  });
-*/
-</script>
-<script>var sl_key='2272be4208c7e14af667447ca8903218'; </script><script src="/cscript/DOMAssistantComplete-2.8.js"></script><script type="text/javascript" src="/cscript/bonzo.js"></script><script type="text/javascript" src="/cscript/langdatamanager.js"></script><script type="text/javascript" src="/cscript/da-plugins/DOMEffects.js"></script>
+<script>var sl_key='2272be4208c7e14af667447ca8903218'; </script><script src="/cscript/DOMAssistantComplete-2.8.js"></script><script type="text/javascript" src="/cscript/da-plugins/DOMEffects.js"></script>
 <script type="text/javascript" src="/cscript/da-plugins/DOMEffectsShowHide.js"></script>
 <script type="text/javascript" src="/cscript/da-plugins/DOMMeasure.js"></script>
 <script type="text/javascript" src="/cscript/remedial.js"></script>
 <script type="text/javascript" src="/cscript/bonzo.js"></script>
 <script type="text/javascript" src="/cscript/log.js"></script>
 <script type="text/javascript" src="/cscript/langdatamanager.js"></script>
-<script type="text/javascript" src="/cscript/getlangdata.js.php?p=close,error,valid,ft%20choose%20bname,ft%20bname%20taken,ft%20email%20already%20member,ft%20pass%20too%20short,ft%20emails%20dont%20match,ft%20enter%20first%20name,ft%20enter%20last%20name,ft%20enter%20age,ft%20enter%20gender,ft%20must%20agree%20to%20policies,ft%20enter%20a%20message,ft%20provide%20this%20information,ft%20enter%20a%20valid%20date,ft%20invalid%20email,ft%20passes%20dont%20match,ft%20invalid%20bname,password%20sent,empty%20site%20box,loading,show%20more%20friends,show%20fewer%20friends,add%20buddies,visit,details,edit,delete,email,post%20to%20facebook,share,resend%20activation,confirmation%20required,confirmation%20required%20msg,go%20to%20email%20now,antispam%20title,antispam%20message,sign%20up"></script><script type="text/javascript" src="/cscript/easing.js"></script>
+<script type="text/javascript" src="/cscript/getlangdata.js.php?p=close,error,valid,ft%20choose%20bname,ft%20bname%20taken,ft%20email%20already%20member,ft%20pass%20too%20short,ft%20emails%20dont%20match,ft%20enter%20first%20name,ft%20enter%20last%20name,ft%20enter%20age,ft%20enter%20gender,ft%20must%20agree%20to%20policies,ft%20enter%20a%20message,ft%20provide%20this%20information,ft%20enter%20a%20valid%20date,ft%20invalid%20email,ft%20passes%20dont%20match,ft%20invalid%20bname,password%20sent,empty%20site%20box,loading,show%20more%20friends,show%20fewer%20friends,add%20buddies,visit,details,edit,delete,email,post%20to%20facebook,share,resend%20activation,confirmation%20required,confirmation%20required%20msg,go%20to%20email%20now,antispam%20title,antispam%20message,sign%20up"></script><script type="text/javascript" src="/cscript/facebook.js"></script>
+<script type="text/javascript" src="/cscript/easing.js"></script>
 <script type="text/javascript" src="/cscript/dialog.js"></script>
 <script type="text/javascript" src="/cscript/fat.js"></script>
 <script type="text/javascript" src="/cscript/formtools.js"></script>
@@ -223,6 +207,33 @@ FB.Event.subscribe('auth.sessionChange', function(response) {
 <script type="text/javascript" src="/cscript/folks.js"></script>
 <script type="text/javascript" src="/cscript/getformdata.js.php?o=js&amp;f=signin"></script>
 
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '98699855808', // App ID
+      channelUrl : '//bonzobox.com/api/facebook/channel.php',
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+    
+    FB.Event.subscribe('auth.statusChange', BBX.FB.authStatusChanged);
+    
+    BBX.FB.sdkReady();
+
+    // Additional initialization code here
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+   
+</script>
 
 
 
@@ -266,18 +277,10 @@ _loadSuper = window.onload;
 window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
 </script>
 
-<script src="http://assets.percentmobile.com/percent_mobile.js" type="text/javascript" charset="utf-8"></script>
-<script>
-<!--
-percent_mobile_track('213071260971126056524921717529604294100');
--->
-</script>
-<noscript>
-<img src="http://tracking.percentmobile.com/pixel/213071260971126056524921717529604294100/pixel.gif?v=271009_js" width="2" height="2" alt="" />
-</noscript>
 
 <!-- crazyegg: -->
 <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/3422.js"> </script>
+
 
 
 </body></html>
