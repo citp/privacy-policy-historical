@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627020545id_/http%3A//www.shots.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919200432id_/http%3A//www.shots.net/privacy) for the most accurate reproduction.*
 
 # shots | Creative Connections
 
