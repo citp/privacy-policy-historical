@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanepr.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510031251id_/http%3A//www.sanepr.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanepr.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919203740id_/http%3A//www.sanepr.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
