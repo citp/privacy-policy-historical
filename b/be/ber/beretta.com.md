@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beretta.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504043233id_/http%3A//www.beretta.com/service-pages/privacy-policy/index.aspx%3Fm%3D53%26did%3D1385) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beretta.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185008id_/http%3A//www.beretta.com/service-pages/privacy-policy/index.aspx%3Fm%3D53%26did%3D1385) for the most accurate reproduction.*
 
 # Privacy Policy
 
