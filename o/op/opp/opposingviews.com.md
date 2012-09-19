@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opposingviews.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604220701id_/http%3A//www.opposingviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opposingviews.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192248id_/http%3A//www.opposingviews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective July 1, 2011
+Effective August 1, 2012
 
 This policy tells you how Opposing Views ("OV") collects, uses and protects your information. This policy does not cover how we treat personal information that is obtained through other sources, such as offline, on other websites or through e-mail communications. This policy also does not apply to the practices of companies that OV does not own or control or to people that OV does not employ or manage.
 
@@ -30,17 +30,16 @@ We will not ask for personally identifiable information in an e-mail, nor will w
 
 We will ask existing and potential experts ("Experts") to contact us with personally identifiable information in order to confirm your identity, and we may be reached at:
 
-Deep Dive Media, Llc.   
-8400 Delongpre Avenue   
-Los Angeles, CA 90069   
-[experts@opposingviews.com](mailto:experts@opposingviews.com)  
-
+Deep Dive Media, Llc.  
+8400 Delongpre Avenue  
+Los Angeles, CA 90069  
+[experts@opposingviews.com](mailto:experts@opposingviews.com)
 
 Any personally identifiable information collected from Experts will be used solely to confirm your identity and qualifications. It will not be displayed on the Sites, nor will it be transferred to any third party except for organizations or individuals under contract with Opposing Views to perform business services required for Expert qualification.
 
 ### 3\. Children and Personal Information
 
-The sites are intended to be used by and designed for adult users, and OV does not knowingly collect personal information from children under 13 years old. If you are a parent and suspect that your child has provided OV with personally identifiable information, please contact us at [help@opposingviews.com](mailto:help@opposingviews.com). 
+The sites are intended to be used by and designed for adult users, and OV does not knowingly collect personal information from children under 13 years old. If you are a parent and suspect that your child has provided OV with personally identifiable information, please contact us at [help@opposingviews.com](mailto:help@opposingviews.com).
 
 ### 4\. How We Use Personal Information
 
@@ -63,9 +62,9 @@ We use the information we collect to:
 OV is not in the business of renting or selling personal information you provide on the Sites with other people or nonaffiliated companies. OV does share your information to provide products or services you've requested, when we have your permission, and under the following circumstances:
 
   * We may share your information with service providers under confidentiality agreements in order to help with our business operations. These companies do not have the independent right to share this information.
-  * We may share names and e-mails of members who join OV as part of a co-branded partnership with OV with that specific partner. 
+  * We may share names and e-mails of members who join OV as part of a co-branded partnership with OV with that specific partner.
   * We may share aggregate demographic information with third parties such as the media, advertisers, and government agencies. This aggregate information is typically in the form of statistics, such as numbers of OV users in a particular age group. Such aggregate information is not traceable back to you as an individual.
-  * We may share information when required by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served upon OV; to protect the property or interests of OV; or to protect personal safety or public interests. 
+  * We may share information when required by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served upon OV; to protect the property or interests of OV; or to protect personal safety or public interests.
   * We may transfer personal information in the event that our business is sold, transferred, merged or reorganized with or into another organization.
 
 
@@ -78,7 +77,9 @@ We may use this public content to develop aggregate ratings, comments, reviews o
 
 ### 7\. Cookies
 
-OV sets and accesses cookies on your computer. A cookie is a small bit of information used by the site to track your session. It does not contain any sensitive information. No other web sites can access cookies set by OV, nor can the Sites access cookies set by other web sites. 
+OV sets and accesses cookies on your computer. A cookie is a small bit of information used by the site to track your session. It does not contain any sensitive information. No other web sites can access cookies set by OV, nor can the Sites access cookies set by other web sites.
+
+We use third party advertising companies to serve ads and collect data on this Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to OV and other websites in order to provide advertisements on this and other websites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent you from logging in, or prevent us from delivering some of our services to you.
 
@@ -94,10 +95,10 @@ You can close your OV account through the "My OV" area or by contacting our cust
 
 We use electronic, physical and administrative safeguards including firewalls and advanced password protection to protect the security of your information. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information and private communications will always remain private.
 
-You should take steps to protect yourself as well. For example: 
+You should take steps to protect yourself as well. For example:
 
-  * Do not share your password with anyone else, and take measures to prevent unauthorized access or disclosure. 
-  * To learn more about how to protect yourself online, visit the government website [www.onguardonline.gov](http://www.onguardonline.gov/). 
+  * Do not share your password with anyone else, and take measures to prevent unauthorized access or disclosure.
+  * To learn more about how to protect yourself online, visit the government website [www.onguardonline.gov](http://www.onguardonline.gov/).
 
 
 
@@ -105,7 +106,7 @@ You should take steps to protect yourself as well. For example:
 
 The Sites contains links to other web sites. We are not responsible for the privacy practices or the content on these sites. If you have concerns about how other sites collect and use information about you, make sure to read their privacy policies.
 
-We may allow third party advertisers to post advertisements on the Sites. These third parties may place cookies on certain pages of the Sites. We do not control those third parties, or their cookies. This privacy policy does not cover those third party advertisers’ use of cookies. 
+We may allow third party advertisers to post advertisements on the Sites. These third parties may place cookies on certain pages of the Sites. We do not control those third parties, or their cookies. This privacy policy does not cover those third party advertisers’ use of cookies.
 
 ### 11\. Changes to this Privacy Policy
 
