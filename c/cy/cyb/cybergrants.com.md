@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203233655id_/http%3A//www.cybergrants.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235727id_/http%3A//www.cybergrants.com/cg_privacy.shtml) for the most accurate reproduction.*
 
-# CyberGrants, Inc - The Home For Online Grantmaking
+# CyberGrants
 
-  | 
-
-## Policy Statement
+#### Policy Statement
 
 As an application service provider, CyberGrants, Inc. (CyberGrants) is highly committed to protecting the privacy of your information. We have developed this Privacy Statement in support of our commitment to safeguarding your personal information.
 
@@ -12,21 +10,21 @@ In accordance with our commitment to protect personal privacy, CyberGrants adher
 
 The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy frameworks. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>
 
-## Global Privacy Fundamentals
+#### Global Privacy Fundamentals
 
 CyberGrants privacy practices reflect current global principles and standards on handling personal information. These principles include notice of data use, data access, data integrity, security, and enforcement/oversight. We abide by the privacy laws in the countries where we do business.
 
-## Consent
+#### Consent
 
 By using this Website, you consent to the collection and use of the information as described here. If we decide to make changes to this Privacy Statement, we will post the changes on this site so that you will always know what information we collect, and how we use it.
 
 From time to time, as may be required by applicable law, we may also seek your explicit consent to process certain data and information collected on this website or volunteered by you.
 
-## Collection and Processing of Your Personal Data
+#### Collection and Processing of Your Personal Data
 
 To serve you better, CyberGrants collects limited technical information about your computer. Such information includes your TCP/IP address, your browser type and your domain. The information we collect is used only by CyberGrants support staff to assist us in the monitoring system performance and up-time, as well as troubleshooting technical issues.
 
-## Use and Purpose of Collected Personal Data
+#### Use and Purpose of Collected Personal Data
 
 We do collect information about our users to assist us in maintaining your membership. You can rest easier knowing that this information is used exclusively to better serve our customers and is not sold to anyone for any reason. CyberGrants, Inc. adheres to the following guidelines to protect your right to privacy:
 
@@ -43,7 +41,7 @@ We do collect information about our users to assist us in maintaining your membe
 
 
 
-## Cookies
+#### Cookies
 
 Cookies are small text files that are stored on your computer's browser directory or program data subfolders. Cookies may be created when you use your browser to visit a website that uses cookies to keep track of your movements within the site, help you resume where you left off, remember your registered login, theme selection, preferences, and other customization functions.
 
@@ -51,25 +49,25 @@ There are two types of cookies: session cookies and persistent cookies. Session 
 
 CyberGrants use of cookies is restricted to session cookies, therefore does not leave artifacts on user workstations. In addition, CyberGrants only tracks a user's session ID and does not track Personally Identifiable (PI) data.
 
-## Choice/Opt-Out
+#### Choice/Opt-Out
 
 We communicate with users (donors), whose employer subscribes to our services, on a periodic basis via email or phone to resolve or investigate customer service issues. We may also use your email address to confirm your philanthropic activity, and to send notices and other disclosures as required by law. Generally, users cannot opt out of these communications. A user can however remove themselves as a qualified donor by contacting their company's Human Resources department.
 
 By virtue of applying for a grant with a CyberGrants subscribing company, grantseekers or non-profit organizations are consenting (opting-in) to CyberGrants use of the organizational information they provide. We communicate with non-profit organizations on a periodic basis via email or phone to resolve or investigate customer service issues. We may also use your email address to notify you of updates to philanthropic activity, and to send notices and other disclosures as required by law.
 
-## Data Retention
+#### Data Retention
 
 CyberGrants will not retain your personal data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws, regulations, or client specific data retention policies.
 
-## Children's Privacy
+#### Children's Privacy
 
 CyberGrants does not knowingly collect Personal Data from children under the age of 13. If we learn that we have collected Personal Data from a child under the age of 13, we will immediately assess whether it is appropriate to retain this information in our system. A number of CyberGrants clients sponsor scholarship programs that may award grant dollars to children of any age.
 
-## Changes to this Privacy Statement
+#### Changes to this Privacy Statement
 
 CyberGrants reserves the right to change this Privacy Statement and will publish changes to this statement via our website. We encourage individuals to review the Privacy Statement periodically to stay apprised of updates.
 
-## Inquiries, Access and Updating Your Personal Data
+#### Inquiries, Access and Updating Your Personal Data
 
 CyberGrants needs your help in keeping the personal data you have shared with us accurate and up to date. If you are a registered user, you may make these updates yourself online via [CyberGrants](http://www.cybergrants.com/).
 
@@ -79,12 +77,6 @@ Questions regarding this Privacy Statement or the information practices of the C
 
 [ ](http://www.etrust.org/cert/389797.html)
 
-Revised and posted as of December 14, 2011    
-|    
-[](https://www.cybergrants.com/)
+We self-certify compliance with 
 
-[](https://web.archive.org/quote.shtml)
-
-[](https://web.archive.org/demo.shtml)
-
-[](https://web.archive.org/security.shtml)
+[ ](http://www.export.gov/safeharbor)
