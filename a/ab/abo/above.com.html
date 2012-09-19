@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the above.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621140737id_/http%3A//www.above.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the above.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919193601id_/http%3A//www.above.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Above.com Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="description" content="Above.com Privacy Policy">
 <meta name="keywords" content="">
-	
+
 <link href="/css/global.css" rel="stylesheet" type="text/css">
 <link href="/css/pad.css" rel="stylesheet" type="text/css">
 <link href="/css/menu_dd.css" rel="stylesheet" type="text/css">
@@ -15,17 +15,60 @@
 
 <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-
-
 <script type="text/javascript" src="/javascript/iehover-fix.js"></script>
-<!--[if IE]><script type="text/javascript" src="http://www.above.com/js/excanvas.js"></script><![endif]-->
-<script type="text/javascript" src="http://www.above.com/js/coolclock.js"></script>
-<script type="text/javascript" src="http://www.above.com/js/moreskins.js"></script>
-<!-- <script type="text/javascript" src="http://www.above.com/javascript/jquery126.js"></script> -->
-<script type="text/javascript" src="http://www.above.com/js/jquery-132.js"></script>
-<script language="javascript" type="text/javascript" src="http://www.above.com/js/general.js"></script>
+<!--[if IE]><script type="text/javascript" src="/js/excanvas.js"></script><![endif]-->
+<script type="text/javascript" src="/js/coolclock.js"></script>
+<script type="text/javascript" src="/js/moreskins.js"></script>
+<!-- <script type="text/javascript" src="/javascript/jquery126.js"></script> -->
+<script type="text/javascript" src="/js/jquery-132.js"></script>
+<script language="javascript" type="text/javascript" src="/js/general.js"></script>
 </head>
 <body onclick="return clickEventHand(event);">
+<script language="Javascript">
+	  
+	$(document).ready(function() {
+	  
+	    $('#password-clear').show();
+	    $('#password-password').hide();
+	  
+	    $('#password-clear').focus(function() {
+	        $('#password-clear').hide();
+	        $('#password-password').show();
+	        $('#password-password').focus();
+	    });
+	    $('#password-password').blur(function() {
+	        if($('#password-password').val() == '') {
+	            $('#password-clear').show();
+	            $('#password-password').hide();
+	        }
+	    });
+	  
+	    $('.default-value').each(function() {
+	        var default_value = this.value;
+	        $(this).focus(function() {
+	            if(this.value == default_value) {
+	                this.value = '';
+	            }
+	        });
+	        $(this).blur(function() {
+	            if(this.value == '') {
+	                this.value = default_value;
+	            }
+	        });
+	    });
+	  
+	});
+	
+	function removeUsername(){
+		var username;
+		
+		username = document.getElementById('username').value;
+		
+		if(username=='Username'){
+			document.getElementById('username').value='';
+		}
+	}
+</script>
 <table width="100%" cellpadding="0" cellspacing="0" border="0" id="container" height="100%">
 	<tbody><tr>
 		<td valign="top" style="height: 10px;">
@@ -33,40 +76,54 @@
 				<table cellpadding="0" cellspacing="0" width="100%" border="0">
 								<tbody><tr>
 					<td>
-						<table cellpadding="0" cellspacing="0" border="0" width="900" align="center">
-							<tbody><tr>
-								<td height="60">
-									<a href="http://www.above.com/" title="Parking Manager"><img src="/img/logo_1.gif" align="middle"></a>
-								</td>
-								<td align="right" valign="bottom" style="padding-bottom:8px">
-									<font style="font-size:26px; font-weight:bold; font-family:Verdana, Arial, Helvetica, sans-serif">Domain Parking Manager</font>
+                        <table cellpadding="0" cellspacing="0" border="0" width="940" align="center">
+			<tbody><tr>
+				<td width="50%" height="60" style="padding-left:20px">
+					<a href="/" title="Parking Manager"><img src="/img/logo_1.gif" align="middle"></a>
+				</td>
+				<td width="50%" align="right">					
+                                    <form name="form1" method="post" action="https://above.com/login.html">
+                                    <table cellpadding="2" cellspacing="0" border="0" style="font-family:arial;color:#8d8d8d">
+                                    <tbody><tr>
+                                    <td align="right" nowrap="nowrap"><input id="username" name="username" class="t_login1" onblur="this.value = this.value || this.defaultValue; this.style.color = '#8d8d8d';" onfocus="removeUsername(); this.style.color = '#000';" value="Username">
+                                    </td>
+                                    <td align="right" nowrap="nowrap">                                    
+                                    <input id="password-clear" type="text" value="Password" class="t_passwd1">
+                                    <input id="password-password" type="password" name="password" class="t_passwd1" onfocus="this.value='';this.style.color = '#000';" style="display: none;"></td>
+                                    <td align="right" nowrap="nowrap">                                    
+                                    <div class="t_login_btn_div"><input type="submit" value="Login" name="subLogin" class="t_login_btn"></div>
+                                    </td></tr></tbody></table></form>
 								</td>
 							</tr>
-						</tbody></table>			
+						</tbody></table>	                       
 					</td>			
 				</tr>
 				<tr>
 					<td style="background: url('/img/base/middle-tab-bg.gif') repeat-x;" valign="top">
-						<table cellpadding="0" cellspacing="0" border="0" width="900" align="center">
+						<table cellpadding="0" cellspacing="0" border="0" width="940" align="center">
 							<tbody><tr>
 								<td>
-									<div id="Nsites">
+									<div id="Nsites" style="border:0px solid;padding-left:20px;">
 										<div style="float:left; vertical-align: bottom; margin-top: 2px;">
-											<table cellpadding="0" cellspacing="0" border="0">
-												<tbody><tr>							
-													<td class="left" style="vertical-align: bottom; padding-right: 1px; padding-left: 0px;"><a href="http://www.above.com" class="top_mnu_active_tab"><b>Parking Manager</b></a></td>
-													<td style="vertical-align: bottom; background: none; padding-right: 1px; padding-left: 0px;"><a href="http://domains.above.com/" class="top_mnu_tab"><b>Domain Registrar</b></a></td>
+                                            
+                                           <table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>                                                	
+													<td class="left" style="vertical-align: bottom; padding-right: 1px; padding-left: 0px;"><a href="/parkingmanager.html" class="top_mnu_active_tab"><b>Parking Manager</b></a></td>
+                           
+													<td style="vertical-align: bottom; background: none; padding-right: 1px; padding-left: 0px;"><a href="http://domains.above.com/" class="top_mnu_tab"><b>Domain Registration</b></a></td>
+                                                    <td style="vertical-align: bottom; background: none; padding-right: 1px; padding-left: 0px;"><a href="/marketplace/" class="top_mnu_tab"><b>Domain Marketplace</b></a></td>
+                                                    
 												</tr>
-											</tbody></table>
+											</tbody></table> 
 										</div>
 										<div style="float:right; margin-top: 5px;">
-											<table cellpadding="0" cellspacing="0" border="0">
-												<tbody><tr>							
-													<td class="left" style="padding-bottom: 7px"><a href="http://www.above.com/blog/" style="font-size:13px;font-weight:bold;">Above Blog</a></td>
-													<td style="padding-bottom: 7px"><a href="http://www.above.com/about.html" style="font-size:13px;font-weight:bold;">About Us</a></td>
-													<td style="padding-bottom: 7px"><a href="http://www.above.com/contact.html" style="font-size:13px;font-weight:bold;">Contact Us</a></td>
-												</tr>
-											</tbody></table>
+                                        <table cellpadding="0" cellspacing="0" border="0">
+                                        <tbody><tr>							
+                                            <td style="padding-bottom: 7px"><a href="/about.html" style="font-size:13px;font-weight:bold;">About Us</a></td>
+                                            <td class="divider">&nbsp;</td>
+                                            <td style="padding-bottom: 7px;"><a href="/contact.html" style="font-size:13px;font-weight:bold;">Contact Us</a></td>
+                                        </tr>
+                                        </tbody></table>
 										</div>
 									</div>
 								</td>
@@ -77,8 +134,7 @@
 				</tr>	
 					
 				<tr>
-					<td colspan="2" id="shadow" style="margin:0;padding:0;height:6px;">
-					</td>
+					<td colspan="2" style="background: url('/img/search-bg.png') repeat-x;height:6px;"></td>
 				</tr>
 					
 		
@@ -136,12 +192,11 @@
 	
 		
 	
-	<br>
-
-<table cellpadding="0" cellspacing="0" width="900px" align="center">
+	
+<table cellpadding="0" cellspacing="0" width="920px" align="center" class="mT10">
 <tbody><tr>
 <td valign="top" class="idxText">
-<br>
+
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
 <td valign="top" class="idxText">
@@ -167,15 +222,14 @@
  
 <p>This policy may change from time to time, so please check back frequently.</p>
 <br><br><br>
-</td><td width="15"></td>
-
-<td width="15"></td><td valign="top">
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-	<tbody><tr>
+</td>
+<!--<td width=15></td>
+<td valign=top><table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:5px">
+	<tr>
 		<td bgcolor="#29aae3" height="227px" style="font-size:36px; font-weight:bold; padding-left:5px">
 			<form method="post" action="login.html">
 				<table cellpadding="0" cellspacing="0" align="center">
-					<tbody><tr>
+					<tr>
 						<td colspan="2">
 							<a href="/register.html" class="freebutton" title="Click Here to Create a Free Account"></a>
 							<br>
@@ -191,71 +245,72 @@
 						<td colspan="2" style="color:#ffffff; font-size: 11px; padding-top:4px"><strong>Password:</strong></td>
 					</tr>
 					<tr>
-						<td><input name="password" type="password" value="" style="width:124px; border:1px solid #356aab; height:22px; padding-left:3px"></td>
+						<td><input name="password" type=password value="" style="width:124px; border:1px solid #356aab; height:22px; padding-left:3px"></td>
 						<td width="50px">
-							<div style="border:1px solid #356aab;"><input type="submit" value="Login" name="subLogin" class="login_button" style="width:50px;"></div>
+							<div style="border:1px solid #356aab;"><input type=submit value="Login" name="subLogin" class="login_button" style="width:50px;"></div>
 						</td>
 					</tr>
 					<tr>
 						<td colspan="2" style="padding-top:4px; color:#FFFFFF">
-							Create a <a href="/register.html" style="text-decoration:underline; color:#FFFFFF">new login account</a>.<br>
+							Create a <a href="/register.html" style="text-decoration:underline; color:#FFFFFF">new login account</a>.<br/>
 							<a href="/forgotten-pass.html" style="text-decoration:underline; color:#FFFFFF">Retrieve</a> lost password.
 						</td>
 					</tr>
-				</tbody></table>
+				</table>
 			</form>
 		</td>
 	</tr>
-</tbody></table>
+</table>
 
-<br>
+<br />
 
 <div style="margin-top:15px;width:242px;border:1px solid #7f9db9;padding:7px 0px;" align="center">
 	<table cellspacing="0" cellpadding="0" border="0" width="100%">
-		<tbody><tr>
+		<tr>
 			<td valign="top" style="padding:5px;font-size:12px;" align="center">
-				Above.com wins the<br>
-				<a href="http://www.above.com/blog/2009/11/abovecom-receives-best-new-monetizing-solution-award-at-traffic-global-conference-in-nyc.html" target="_blank">
+				Above.com wins the<br />
+				<a href="/blog/2009/11/abovecom-receives-best-new-monetizing-solution-award-at-traffic-global-conference-in-nyc.html" target="_blank">
 				<b>"Best New Monetizing Solution"</b>
-				</a><br> 
-				Awarded at T.R.A.F.F.I.C 2009<br>
+				</a><br /> 
+				Awarded at T.R.A.F.F.I.C 2009<br />
 				as Voted by Domainers!
 			</td>
 		</tr>
-	</tbody></table>
+	</table>
 </div>
 
 <div style="margin-top:15px;width:242px;border:1px solid #7f9db9;padding:7px 0px;" align="center">
 	<table cellspacing="0" cellpadding="0" border="0" width="100%">
-		<tbody><tr>
+		<tr>
 			<td valign="top" style="padding:5px;font-size:12px;" align="center">
 				<a href="/testimonials.html" target="_blank"><b>Testimonials</b></a><br><br>
 				<i>"Thanks to the above.com system, it's minimized my work and increased my revenues"</i> <br>
 				Soroosch Aidun
 			</td>
 		</tr>
-	</tbody></table>
+	</table>
 </div>
 
 
 
 <div style="margin-top:15px;width:242px;border:1px solid #7f9db9;padding-bottom:7px;" align="center">
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr>
-<td align="right" width="50"><img src="/img/icann.gif" border="0"></td>
+<tr>
+<td align="right" width="50"><img src="/img/icann.gif" border="0"/></td>
 <td valign="top" style="padding:5px;font-size:12px;" align="right">
 Above.com is an<br>ICANN Accredited Registrar<br>
 
 </td>
 </tr>
-</tbody></table>
+</table>
 </div>
 
-</td></tr></tbody></table>
+</td> -->
+</tr></tbody></table>
 </td></tr></tbody></table>
 
 
-	</div>
+                </div>
 </td>
 </tr>
 <tr><td>&nbsp;</td></tr>
@@ -264,11 +319,11 @@ Above.com is an<br>ICANN Accredited Registrar<br>
 <div id="footer" style="font-size:12px;margin:0;padding:0;">	
 <div style="margin-bottom:7px;padding-top:13px;">
 <b>Domain Parking Manager:</b>
-<a href="http://www.above.com/about.html" style="font-size:12px;">About</a> | 
-<a href="http://www.above.com/features.html" style="font-size:12px;">Features</a> | 
-<a href="http://www.above.com/reporting.html" style="font-size:12px;">Reporting</a> | 
-<a href="http://www.above.com/terms.html" style="font-size:12px;">Terms</a> | 
-<a href="http://www.above.com/testimonials.html" style="font-size:12px;">Testimonials</a>
+<a href="/about.html" style="font-size:12px;">About</a> | 
+<a href="/features.html" style="font-size:12px;">Features</a> | 
+<a href="/reporting.html" style="font-size:12px;">Reporting</a> | 
+<a href="/terms.html" style="font-size:12px;">Terms</a> | 
+<a href="/testimonials.html" style="font-size:12px;">Testimonials</a>
 </div>
 <div style="margin-bottom:7px;">
 <b>Domain Registrar:</b>
@@ -280,11 +335,11 @@ Above.com is an<br>ICANN Accredited Registrar<br>
 <a href="http://domains.above.com/whois.html" style="font-size:12px;">Whois</a>
 </div>
 <div style="font-size:12px;margin:0;padding:0;">
-Above.com Pty Ltd © 2004-2012 All Rights Reserved - <a href="http://www.above.com/about.html" style="font-size:12px;">About</a> | <a href="http://www.above.com/blog/" style="font-size:12px;">Blog</a> | <a href="http://www.above.com/contact.html" style="font-size:12px;">Contact Us</a> | <a href="http://www.above.com/escrow.html" style="font-size:12px;">Escrow</a> | <a href="http://www.above.com/sitemap.html" style="font-size:12px;">Sitemap</a> | <a href="http://www.above.com/partner.html" style="font-size:12px;">Affiliates</a> | <a href="http://www.above.com/privacy-policy.html" style="font-size:12px;">Privacy Policy</a>
+Above.com Pty Ltd © 2004-2012 All Rights Reserved - <a href="/about.html" style="font-size:12px;">About</a> | <a href="/blog/" style="font-size:12px;">Blog</a> | <a href="/contact.html" style="font-size:12px;">Contact Us</a> | <a href="/escrow.html" style="font-size:12px;">Escrow</a> | <a href="/sitemap.html" style="font-size:12px;">Sitemap</a> | <a href="/partner.html" style="font-size:12px;">Affiliates</a> | <a href="/privacy-policy.html" style="font-size:12px;">Privacy Policy</a>
 </div>
 </div>
 </td>
 </tr>
-</tbody></table>        
+</tbody></table>                
 
 </body></html>
