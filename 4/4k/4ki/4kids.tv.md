@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4kids.tv privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622072641id_/http%3A//www.4kids.tv/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4kids.tv privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185710id_/http%3A//www.4kids.tv/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4Kids TV
 
@@ -42,7 +42,7 @@ Thank you for visiting 4Kids.com, 4Kidstv.com, 4Kids.tv and CW4Kids.com (collect
 
 ### Review and Notification of Information
 
-Any User who wishes to modify, correct, update or delete their registration information or stop receiving e-mail updates from the Sites, should log onto their account at [http://www.4kids.tv/user/account](https://web.archive.org/user/account). His/her account can be modified from the User's 4Kids account page. An account can also be deleted at any time under the control panel option labeled "delete account;" which can also be accessed on the User's My4Kids Profile Page. Users can also unsubscribe to any e-mails sent to them by simply clicking on the hyperlink "unsubscribe" in the email sent. Additionally, Users can e-mail 4Kids at [webmaster@4kids.tv](mailto:webmaster@4kids.tv) or contact 4Kids at 1-212-590-2100 with any problems or questions.
+Any User who wishes to modify, correct, update or delete their registration information or stop receiving e-mail updates from the Sites, should log onto their account at [http://4kids.tv/user/account](https://web.archive.org/user/account). His/her account can be modified from the User's 4Kids account page. An account can also be deleted at any time under the control panel option labeled "delete account;" which can also be accessed on the User's My4Kids Profile Page. Users can also unsubscribe to any e-mails sent to them by simply clicking on the hyperlink "unsubscribe" in the email sent. Additionally, Users can e-mail 4Kids at [webmaster@4kids.tv](mailto:webmaster@4kids.tv) or contact 4Kids at 1-212-590-2100 with any problems or questions.
 
 * * *
 
