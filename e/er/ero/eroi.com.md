@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627111825id_/http%3A//www.eroi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919194827id_/http%3A//www.eroi.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | eROI
+
+eROI follows the most stringent regulations to ensure your information is safe. We are Trustwave certified.
 
 We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to eroi.com. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse and alteration of data used by our system. 
 
