@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222502id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002127id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -8,9 +8,7 @@
 
 #### Low End Mac Reader Specials
 
-[Macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/430/clickHTML?ajkey=CC5F8585CF3A96D6CFF1EDE20000289C000055D200000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFED126508) for the Right Mac Memory. Most Popular: 16GB from $128; 8GB from $50. MacBook Pro & Mac mini Kits up to 16GB. iMac up to 32GB & Mac Pro now up to 128GB. - [Macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/430/clickHTML?ajkey=CC5F8585CF3A96D6CFF1EDE20000289C000055D200000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFED126508)
-
-[](http://www.macpokeronline.com/) Don't install Parallels to play poker online! [Poker Mac](http://www.imaconlinepoker.com/ "Poker Mac") will show you how to download and install a native Mac poker and [Mac Casino](http://www.pokeronamac.com/casinos/mac/ "Mac Casino") applications in minutes.
+[Macsales](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/874/clickHTML?ajkey=E7BB0120CF3A96D6CFF1EDE200001EB9000055D200000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFE7E82671) for the Right Mac Memory. Easy to Use Online Guide for no Guesswork! Mac Pro up to 128GB, iMac up to 32GB. MacBook/MB Pro, & Mac mini up to 16GB. - [Macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/874/clickHTML?ajkey=E7BB0120CF3A96D6CFF1EDE200001EB9000055D200000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFE7E82671)
 
 International privacy standards require businesses to:
 
@@ -40,8 +38,8 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [17" PowerBook G4/1 GHz](https://web.archive.org/pb2/17in-powerbook-g4-1-ghz.html), introduced 2001.01.07. The first PowerBook with a 17" display, also the first with FireWire 800.
-* List of the Day: [Old Mac MP](http://lowendmac.com/lists/oldmacmp.html) covers 604-based multiprocessor Macs and clones.  
+* Mac of the Day: [Macintosh IIx](https://web.archive.org/ii/macintosh-iix.html), introduced 1988.09.19. The first Mac to use a 68030 CPU, high density floppy drive.
+* List of the Day: [PowerBooks](http://lowendmac.com/lists/powerbooks.shtml) covers all pre-G3 PowerBooks, 680x0 and PowerPC.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
@@ -88,7 +86,7 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 [iResQ](http://www.iresq.com/idevaffiliate/idevaffiliate.php?id=153)  
 [ ExperCom](http://www.expercom.com/browse_by_category.html?CATEGORY_ID=264&AD=LOEM)  
 [eBay](http://bit.ly/mTVDLO)  
-[ Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/lowendmac00-20)  
+[ Amazon.com](http://amzn.to/KKmYRc)  
 [PayPal](https://secure.paypal.com/refer/pal=webmaster%40lowendmac.com)  
 [PCMall](http://www.tkqlhce.com/click-272632-54502)  
 [PC Zone](http://clickserve.cc-dt.com/link/click?lid=41000000022216230)  
