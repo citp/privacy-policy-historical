@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubylane.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504070507id_/http%3A//www.rubylane.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubylane.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181459id_/http%3A//www.rubylane.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
