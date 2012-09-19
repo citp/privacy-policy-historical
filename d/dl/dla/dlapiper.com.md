@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlapiper.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529214734id_/http%3A//www.dlapiper.com/global/termsconditions/onlineprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlapiper.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919024921id_/http%3A//www.dlapiper.com/global/termsconditions/onlineprivacypolicy) for the most accurate reproduction.*
 
 # DLA Piper, Global Law Firm | Online Privacy Policy
 
@@ -6,23 +6,23 @@ Your privacy is important to us. This notice explains our online information pra
 
 
 **The Information We Collect  
-** We do not collect personally identifiable information about you - such as your name, address, telephone number, fax number, e-mail address, etc. - unless you choose to fill out a "Contact Us" form, found on many of the pages of the site or to email us directly.  
+** We do not collect personally identifiable information about you - such as your name, address, telephone number, fax number, e-mail address, etc. - unless you choose to fill out a 'Contact Us' form, found on many of the pages of the site or to email us directly.  
 
 
-We do automatically collect certain non-personally identifiable information when you visit our site - such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider (e.g., America Online, Earthlink).  
+We do automatically collect certain non-personally identifiable information when you visit our site - such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider (eg, America Online, Earthlink).  
 
 
 **How We Normally Use Information About You  
-** We use non-personally identifiable information to analyze site usage (such as  aggregated information on the pages visited by our users), which allows us to improve the design and content of our site.  
+** We use non-personally identifiable information to analyze site usage (such as aggregated information on the pages visited by our users), which allows us to improve the design and content of our site.  
 
 
-In the ordinary course, we use personally identifiable information you provide solely to respond to your inquiry.  
+In the ordinary course, we use personally identifiable information you provide solely to respond to your inquiry or process an application form you have completed on various sections of our Web site.  
 
 
-Any data gathered will be shared, if appropriate, with any of the offices of DLA Piper throughout the world, including the United States, Europe and Asia.  Personal Information which users in the European Union provide to us may be transferred to other countries (including the United States), the data protection laws of which may differ from those of the European Union, and you expressly agree to such transfer.  
+Any data gathered will be shared, if appropriate, with any of the offices of DLA Piper throughout the world, including the United States, Europe and Asia and any third parties who provide services on our behalf. Personal Information which users in the European Union provide to us may be transferred to other countries (including the United States), the data protection laws of which may differ from those of the European Union, and you expressly agree to such transfer.  
 
 
-We will not contact you about other matters, unless you specifically request it, nor will we share, rent, or sell your personally identifiable information outside DLA Piper. If you are interested in applying for a job at DLA Piper and choose to submit resume information by email, we will use it only for the internal application review process. We will not voluntarily share, rent or sell it outside DLA Piper.  
+We will not contact you about other matters, unless you specifically request it, nor will we share, rent, or sell your personally identifiable information outside DLA Piper, except where we are required to share your information with any third parties who provide services on our behalf. If you are interested in applying for a job at DLA Piper and choose to submit resume information by email, we will use it only for the internal application review process. We will not voluntarily share, rent or sell it outside DLA Piper, except where we are required to share your information with any third parties who provide services on our behalf.  
 
 
 However, it is possible, though unlikely, that we might be forced to disclose personally identifiable information in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena or a law enforcement agency's request.  
