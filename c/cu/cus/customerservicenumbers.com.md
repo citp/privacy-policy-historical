@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerservicenumbers.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627222249id_/http%3A//customerservicenumbers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerservicenumbers.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005817id_/http%3A//customerservicenumbers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # CustomerServiceNumbers.com :: Privacy Policy
 
