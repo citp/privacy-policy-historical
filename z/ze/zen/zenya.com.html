@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zenya.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503204833id_/https%3A//www.zenya.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zenya.com privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919233439id_/https%3A//www.zenya.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +7,6 @@
 <meta name="description" content="Zenya is the largest keyword generation tool and keyword categorization platform available for search engine marketers and online advertisers.">
 <meta name="keywords" content="sem, seo, ppc, ctr, search engine marketing, search engine advertising, keywords, keyword generation, keyword lists, keyword tool, keyword categorization, taxonomy, taxonomy management,  campaign creation,  ">
 <meta name="robots" content="INDEX,FOLLOW">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 <link rel="icon" href="https://www.zenya.com/media/favicon/default/favicon_1.ico" type="image/x-icon">
 <link rel="shortcut icon" href="https://www.zenya.com/media/favicon/default/favicon_1.ico" type="image/x-icon">
 <!--[if lt IE 7]>
@@ -41,8 +40,10 @@
 <script type="text/javascript" src="https://www.zenya.com/js/jquery/jquery.tools.min.js"></script>
 <script type="text/javascript" src="https://www.zenya.com/js/jquery/jquery-1.6.2.min.js"></script>
 <script type="text/javascript" src="https://www.zenya.com/js/jquery/jquery.overlay.js"></script>
-<script type="text/javascript" src="https://www.zenya.com/js/lyonscg/buttons.js"></script>
+<script type="text/javascript" src="https://www.zenya.com/js/jquery/jquery.zenya.page.js"></script>
 <script type="text/javascript" src="https://www.zenya.com/js/jquery/jquery.zIEfix.js"></script>
+<script type="text/javascript" src="https://www.zenya.com/js/jquery/jquery.zenya.validation.js"></script>
+<script type="text/javascript" src="https://www.zenya.com/js/jquery/jquery.zenya.product.js"></script>
 <!--[if lte IE 8]>
 <link rel="stylesheet" type="text/css" href="https://www.zenya.com/skin/frontend/default/zenya/css/styles-ie.css" media="all" />
 <![endif]-->
@@ -97,8 +98,8 @@ _gaq.push(['_trackPageview']);
     <div class="header">
                 <a name="top" href="https://www.zenya.com/" title="Zenya" class="logo"><strong>Zenya</strong><img src="https://www.zenya.com/skin/frontend/default/zenya/images/zenya-logo.gif" alt="Zenya"></a>
                 <div class="header-right right">
-            <div class="call-us"><span class="call-us-phone">Call Us: 1 855 477 7300</span> <span class="call-us-contact"><a href="https://www.zenya.com/contacts">Contact Zenya</a></span></div>                	<div class="site-nav">
-				<ul>
+            <div class="site-nav">
+                <ul>
 <li> <a href="https://www.zenya.com/products/">Products</a> 
 <ul class="subnav">
 <li><a href="https://www.zenya.com/product-categories/">Zenya Categories</a></li>
@@ -108,14 +109,15 @@ _gaq.push(['_trackPageview']);
 </li>
 <li><a href="https://www.zenya.com/pricing/">Plans &amp; Pricing</a></li>
 <li><a href="https://www.zenya.com/consulting/">Consulting</a></li>
-<li><a href="https://www.zenya.com/about-zenya/">About Zenya</a> 
+<li><a href="https://www.zenya.com/about-zenya/">About</a> 
 <ul class="subnav">
 <li><a href="https://www.zenya.com/about-team/">Executive Team</a></li>
 <li><a href="https://www.zenya.com/about-news/">News</a></li>
 <li><a href="https://www.zenya.com/about-research/">Research</a></li>
 </ul>
 </li>
-<li><a href="http://blog.zenya.com">Blog</a></li>
+<li> <a href="https://www.zenya.com/zenya-agenda/">Trending</a>
+</li><li><a href="http://blog.zenya.com">Blog</a></li>
 </ul>                <script type="text/javascript">
                 // <![CDATA[
                     jQuery(".site-nav li a[href='https://www.zenya.com/privacy/']").parent('li').addClass('current');
@@ -123,26 +125,45 @@ _gaq.push(['_trackPageview']);
                     jQuery('.site-nav li:last, .site-nav .subnav li:last').addClass('last');
                 // ]]>
                 </script>
-        	</div>
-                    </div>
+            </div>
+        </div>
         <div class="clr"></div>
     </div>
     <div class="header-bar" id="header-bar">
-            <div class="search-points">
-                        <div id="headerTotals" class="right">
-                    <div class="mini-login-home">
-      <form class="zenya-form" action="https://www.zenya.com/customer/account/loginPost/" method="post">
-        <label class="mini" for="mini-login">email</label>
-        <input type="text" name="login[username]" id="mini-login" class="input-text text-input mini-input">
-        <label class="mini" for="mini-password">password</label>
-        <input type="password" name="login[password]" id="mini-password" class="input-text text-input mini-input">
-        <button type="submit" title="Login" class="zenya-button restyled login"><span><span><span>Login</span></span></span></button>
-        <div class="clr"></div>
-      </form>
+        <div class="main-bar">
+                    <div class="f-right mini-login-home">
+    <form onsubmit="return false;" class="zenya-form" action="https://www.zenya.com/customer/account/loginPost/" method="post" id="header-login-form">
+        <ul class="h-fields">
+            <li>
+                <label class="mini" for="mini-login">Email</label>
+                <input type="text" name="login[username]" id="mini-login" class="text-input mini-input required-entry validate-email">
+            </li>
+            <li>
+                <label class="mini" for="mini-password">Password</label>
+                <input type="password" name="login[password]" id="mini-password" class="text-input mini-input required-entry">
+            </li>
+            <li class="last">
+                <button type="submit" title="Login" class="zenya-button restyled secondary go"><span><span><span>Login</span></span></span></button>
+            </li>
+        </ul>
+    </form>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+(function($){
+    var $loginForm = $('#header-login-form');
+    var loginForm = new VarienForm('header-login-form', false);
+
+    $loginForm.zenyaPage('addFormEvents');
+    $loginForm.submit(function() {
+        if (loginForm.validator && loginForm.validator.validate()) {
+            loginForm.submit();
+        }
+    });
+})(jQuery)
+//]]>
+</script>                </div>
     </div>
-            </div>
-        </div>
-        </div>
 </div>
         <div class="main-container col1-layout">
             <div class="main">
@@ -213,7 +234,9 @@ _gaq.push(['_trackPageview']);
         </div>
         <div class="footer-container">
     <div class="footer">
-    	<ul class="footer_menu">
+        <div class="clearer">
+            <div class="f-left">
+                <ul class="footer_menu">
 <li><a href="https://www.zenya.com/products/">Products</a> 
 <ul>
 <li><a href="https://www.zenya.com/product-categories/">Zenya Categories</a></li>
@@ -240,23 +263,28 @@ _gaq.push(['_trackPageview']);
 -->
 </ul>
 </li>
-</ul> 
-    	<div class="right">
-    			    		<div class="get_trial">
-	    			    <button class="zenya-button restyled trial submit freeTrialHandler" title="Get a Free Trial"><span><span><span>Get a Free Trial <em>►</em></span></span></span></button>	    		</div>
-    		    		<div class="call_us">
-									<a class="login" href="https://www.zenya.com/customer/account/login/">LOGIN</a>
-								<br>
-				<p>Call Us: 1 855 477 7300<br> <a href="https://www.zenya.com/contacts">Contact Zenya <img style="vertical-align: baseline;" src="https://www.zenya.com/skin/frontend/default/zenya/images/i_pager-next.gif" alt="" width="6" height="7"></a></p>    		</div>
-    	</div>
-    	<div class="copyright">© 2012 <p>Zenya &nbsp; <a href="https://www.zenya.com/terms">Terms of Service</a> <a href="https://www.zenya.com/privacy">Privacy</a></p></div>
+</ul>            </div>
+        	<div class="f-right footer-right">
+        		    	    		<div class="get_trial">
+    	    			<div class="subscribe-now-wrap">
+
+    <button onclick="window.location='https://www.zenya.com/subscribe-now/';" class="zenya-button restyled trial create submit subscribeNowHandler" title="Subscribe Now"><span><span><span>Subscribe Now <em>►</em></span></span></span></button>
+</div>
+<a href="#" class="freeTrialHandler" title="Get a Free Trial" style="color: #0078ae; padding: 0px; margin: 0px; font-size: 10.5pt; padding-left: 92px;">Get a Free Trial »</a>    	    		</div>
+        		        		<div class="call_us">
+    				    					<a href="https://www.zenya.com/company/account/pleaseLogin/">LOGIN</a>
+    				    				<br>
+    				<p>Call Us: 1 855 477 7300<br> <a href="https://www.zenya.com/contacts">Contact Zenya <img style="vertical-align: baseline;" src="https://www.zenya.com/skin/frontend/default/zenya/images/i_pager-next.gif" alt="" width="6" height="7"></a></p>        		</div>
+            </div>
+    	</div>    
+        <div class="a-left copyright">© 2012 <p>Zenya &nbsp; <a href="https://www.zenya.com/terms">Terms of Service</a> <a href="https://www.zenya.com/privacy">Privacy</a></p></div>
     </div>
 </div>
     <div class="overlay-base overlay-trial" id="zenya-overlay">
     <div class="preloader-blur">
         <img src="https://www.zenya.com/skin/frontend/default/zenya/images/opc-ajax-loader.gif" alt="Sending form..." title="Sending form...">
     </div>
-    <a class="close" href="#">Close</a>
+    <a class="close closeHandler" href="#">Close</a>
     <div class="overlayWrap trialThanks">
     <h2>Thank you!</h2>
 <p>Thanks for your submission.</p>
@@ -270,24 +298,24 @@ _gaq.push(['_trackPageview']);
 <p>Start your free Zenya trial today. Simply enter a few details to gain advantage from the most innovative keyword sourcing platform in the world.             <br><em>All fields are required.</em></p>        <form onsubmit="return false;" class="zenya-form" action="https://www.zenya.com/trialform/index/trial" id="free-trial-form" method="post">
             <ul class="v-fields">
                 <li>
-                    <input class="f-right input-text text-input required-entry" type="text" name="trial[name]" value="">
-                    <label class="f-right">Your Name</label>
+                    <input class="f-right input-text text-input required-entry" type="text" name="trial[name]" id="freetrial_name" value="">
+                    <label class="f-right" for="freetrial_name">Your Name</label>
                 </li>
                 <li>
                     <input class="f-right input-text text-input required-entry validate-email" type="text" name="trial[email]" value="" id="zenya-email">
-                    <label class="f-right">Email</label>
+                    <label class="f-right" for="zenya-email">Email</label>
                 </li>
                 <li>
                     <input class="f-right input-text text-input required-entry validate-email validate-cemail" type="text" name="trial[confirm_email]" id="zenya-conf-email" value="">
-                    <label class="f-right">Verify Email</label>
+                    <label class="f-right" for="zenya-conf-email">Verify Email</label>
                 </li>
                 <li>
-                    <input class="f-right input-text text-input" type="text" name="trial[company]" value="">
-                    <label class="f-right">Company</label>
+                    <input class="f-right input-text text-input" type="text" name="trial[company]" value="" id="freetrial_company">
+                    <label class="f-right" for="freetrial_company">Company</label>
                 </li>
                 <li>
-                    <input class="f-right input-text text-input required-entry validate-number" type="text" name="trial[phone]" value="">
-                    <label class="f-right">Phone Number</label>
+                    <input class="f-right input-text text-input required-entry validate-number" type="text" name="trial[phone]" value="" id="freetrial_phone">
+                    <label class="f-right" for="freetrial_phone">Phone Number</label>
                 </li>
             </ul>
             <button onclick="jQuery(this).trigger('submitFreeTrial');" type="button" class="zenya-button restyled primary submit f-right submit-button" title="Start Your Free Trial"><span><span><span>Start Your Free Trial <em>►</em></span></span></span></button>
@@ -305,6 +333,7 @@ _gaq.push(['_trackPageview']);
     ]);
     var freeTrialForm = new VarienForm('free-trial-form', false);
     jQuery(function($){
+        $('#free-trial-form').zenyaPage('addFormEvents');
         $('#free-trial-form').bind('submitFreeTrial', function(){
             var $form = $(this);
             if (freeTrialForm.validator && freeTrialForm.validator.validate()){
@@ -346,27 +375,15 @@ _gaq.push(['_trackPageview']);
         });
     });
 // ]]>
-</script><script type="text/javascript">
+</script>
+<script type="text/javascript">
 // <![CDATA[
-    jQuery(function($){
-        $('.addToHeaderBar').each(function(){
-            var $sub = $(this);
-            var $bar = $('#header-bar');
-            $bar.addClass('with-sub');
-            $bar.append($sub);
-            $sub.removeClass('addToHeaderBar');
-            $sub.find("li a[href]").each(function(){
-                var $a = $(this);
-                var url = $a.attr('href');
-                url = url.substring(0, url.length-1);
-                var re = new RegExp('^'+url);
-                if (re.test(window.location)) {
-                    $a.parent().addClass('current');
-                }
-            });
-        });
+(function($){
+    $(function(){
+        $(window).zenyaPage('initHeaderMenu');
         $('.re-cms-wrap').prevAll('p').hide();
     });
+})(jQuery);
 // ]]>
 </script>            </div>
 </div>
