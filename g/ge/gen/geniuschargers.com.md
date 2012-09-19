@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniuschargers.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171755id_/http%3A//www.geniuschargers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniuschargers.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919080127id_/http%3A//www.geniuschargers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Genius Battery Chargers
 
