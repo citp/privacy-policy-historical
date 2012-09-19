@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zatse.in privacy policy that was archived on 2012-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608025423id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zatse.in privacy policy that was archived on 2012-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919102705id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -82,17 +82,17 @@
 <!--Inner header start from here-->
     <div id="inner_search_header">
     <div class="header_container">
-    	<a href="http://zatse.in/" onclick="_gaq.push(['_trackEvent', 'ZatSe Logo', 'ZatSe Logo', 'ZatSe Logo Detail']);" class="logo"></a>
+    	<a href="/" onclick="_gaq.push(['_trackEvent', 'ZatSe Logo', 'ZatSe Logo', 'ZatSe Logo Detail']);" class="logo"></a>
     <!--search panel start from here-->
         <div id="search_panel_header" style="margin-left:27%;">
         <div class="tp"></div>
-        <form name="frontendsearchForm" id="frontendsearchForm" action="/search/searchresult" method="get" onsubmit="return submitText();">
+        <form name="frontendsearchForm" id="frontendsearchForm" action="/numbers/find" method="get" onsubmit="return showSearch(this);">
         <label class="search">Search</label>
         <div class="text_field"><input name="searchString" id="searchString" type="text" class="" onblur="showTextFn(this.value);" onfocus="hideTextFn(this.value)" value="type your search query here" autocomplete="off">
 			<input type="hidden" name="search_id" value="">
 		</div>
        
-       <input name="" type="button" value="" onclick="showSearch();_gaq.push(['_trackEvent', 'ZatSe Go', 'ZatSe Go', 'ZatSe Go Detail']);" class="search_btn" title="Search">
+       <input name="search" type="submit" value="" onclick="showSearch();_gaq.push(['_trackEvent', 'ZatSe Go', 'ZatSe Go', 'ZatSe Go Detail']);" class="search_btn" title="Search">
         
         </form>
         <a href="javascript:void(0);" onclick="showSearch();_gaq.push(['_trackEvent', 'ZatSe Search', 'ZatSe Search', 'ZatSe Search Detail']);" class="adv_search_header" title="ZatSe Search">ZatSe Search</a> <a href="/page/index/pageid/9" class="search_tips_header" onclick="_gaq.push(['_trackEvent', 'ZatSe Search Tips and Tracks', 'ZatSe Search Tips and Tracks', 'ZatSe Search Tips and Tracks Detail']);" title="Search Tips and Tricks">Search Tips and Tricks</a>
@@ -160,18 +160,35 @@ function submitText()
 	
 }
 
-function showSearch()
-{
-	var strsearch = document.getElementById('searchString').value;
-	if(strsearch == "" || strsearch == "type your search query here")
-	{
-		document.frontendsearchForm.searchString.focus();
-		return false;
-	}else{
-		window.location.href="/search/searchresult?search_id=0&searchString="+strsearch;	
-	}
-}
+  function urlencode (str) {
+     str = escape(str);
+     return str.replace(/[*+\/@]|%20/g,
+       function (s) {
+         switch (s) {
+           case "*": s = "%2A"; break;
+           case "+": s = "%2B"; break;
+           case "/": s = "%2F"; break;
+           case "@": s = "%40"; break;
+           case "%20": s = "+"; break;
+         }
+         return s;
+       }
+     );
+   }
 
+  function showSearch(frmObj)
+  { 
+	var searchString = frmObj.searchString.value;
+	if(searchString == "" || searchString == "type your search query here")
+	{
+		frmObj.searchString.focus();
+		return false;
+	}else {
+		searchString = urlencode(searchString.replace(/\s+/g, '-'));
+		window.location.href="/numbers/find/" + searchString;
+	}
+	return false;
+  } 
 </script>
 	<!--user details container start from here-->
 <!--container start from here-->
@@ -236,18 +253,18 @@ function showSearch()
 	
 	<div class="top">
 	   <div height="180px;">
-		<a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>  <a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>		</div>
+		<a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>		</div>
 		<div height="180px;">
-		<a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>  <a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>		</div>
+		<a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>  <a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>		</div>
 	</div>
 	
 	<img src="/web_root/images//images-front/cloud-search-zatse-logo.png" alt="ZatSe 68006800 Aap Ki Information helpline" title="ZatSe">
 
 	<!-- <div class="top">
-		<a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>  <a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>	</div>
+		<a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>	</div>
 	<img src="/web_root/images//images-front/cloud-search-zatse-logo.png" alt="ZatSe 68006800 Aap Ki Information helpline" title="ZatSe" />
 	<div class="bottom">
-		<a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>  <a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>	</div> -->
+		<a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>  <a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>	</div> -->
 <!--<div>
 <table><tr><td align="right">
 <a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/c_ySJn/download/index.htm"><img src="http://www.alexa.com/images/tbplatform/promotebuttons/purple/TB-banner1-1.jpg" alt="Get our toolbar!"></a>
@@ -266,6 +283,7 @@ function showSearch()
 <div id="footer_menu" style="padding-top:10px;">
 <ul>
 	<li><a href="/page/index/pageid/1" title="About Zat">About ZatSe <!-- <img src="/web_root/images//images-front/footer-zat.gif" alt="" /> --></a></li>
+	<li><a href="http://recharge.zatse.in/" title="Recharge" target="_blank">Recharge</a></li>
 	<li><a href="/zatdeals" title="Zat Deals">Zat Deals</a></li>
     <li><a href="/provider/addprovider" title="Post Your Ad">Post Your Ad</a></li>
 	<li><a href="/provider/referbussiness" title="Refer a Business">Refer a Business</a></li>
@@ -273,7 +291,7 @@ function showSearch()
 <!--    <li><a href="" onclick="" title="What's On">What's On</a></li>-->
     <li><a href="/page/index/pageid/5" title="Retail Network">Retail Network</a></li>
     <li><a href="/page/index/pageid/2" title="Careers">Careers</a></li>
-<li><a href="/provider/feedback" title="Feedback">Feedback</a></li>
+<li><a href="/provider/feedback" title="Feedback/Complaint">Feedback/Complaint</a></li>
     <li><a href="/page/index/pageid/7" title="Terms of Use">Terms of Use</a></li>
     <li><a href="/page/index/pageid/8" class="last" title="Privacy Policy">Privacy Policy</a></li>
 </ul>
@@ -288,9 +306,10 @@ function showSearch()
 
 <font style="padding-left:34%;font-size:11px;color:#231F20;font-weight:bold">
 Copyright 2012 Majestic IT Services Ltd All rights reserved.</font>
-<div class="footer-icon" style="padding-top:30px;">
-	<a href="http://zatse.in/"><img src="/web_root/images/footer_image/image6.jpg" alt="ZatSe 68006800 Aap Ki Information helpline"></a>
+<!--<div class="footer-icon" style="padding-top:30px;">
+	<a href="zatse.in"><img src="/web_root/images/footer_image/image2.jpg" alt="ZatSe 68006800 Aap Ki Information helpline" /></a>
 </div>
+!-->
 </div>
 
 <!--footer menu end from here-->
