@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602220641id_/http%3A//loopup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000158id_/http%3A//loopup.com/privacy.html) for the most accurate reproduction.*
 
-# LoopUp - Less Mess, More Meeting.
+# LoopUp Privacy Policy | Teleconferencing & Web Conferencing Solutions
 
 Although we use the European term **personal data** in this policy, we use it as interchangeable with the US term **personally identifiable information**. In each case we mean any information identifying a living natural person or which could identify that person in conjunction with other information, such as their name, numbers or address and we protect it regardless of the term applied. 
 
@@ -92,7 +92,7 @@ Second, we do a “local look-up”: the conference leader’s and participant�
 
 Names are shown as above and also in the summary and details of the conference we provide the conference leader afterwards, on their Call History webpage, in the post-conference email and in their invoice. 
 
-### 'ScreenShare'
+### ScreenShare™
 
 ScreenShare allows you to share your screen or a selectable area of your screen in real time with others on your conference. The content is only made available to those on your conference at that time and no copy is kept unless the conference leader asks us to record their conference for them, in which case, please see the _Recording_ section below. 
 
