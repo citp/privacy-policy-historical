@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515160735id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000120id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShareTV
-
-**¬ UPDATE:** The networks are announcing what shows are coming in the Fall. Take a look [here](https://web.archive.org/forum/discuss/Q_108355). 
 
 We respect your privacy and are committed to safeguarding it while online at our site **ShareTV.org**. The following discloses the information gathering and dissemination practices for this Web site. 
 
