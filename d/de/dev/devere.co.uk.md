@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622063457id_/http%3A//www.devere.co.uk/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919093552id_/http%3A//www.devere.co.uk/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - De Vere Group
 
@@ -46,22 +46,12 @@ Most web browsers allow some control of most cookies through the browser setting
 
 Cookie Name | Purpose | More Information  
 ---|---|---  
-_utmz | These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [**Click here**](http://www.google.com/analytics/learn/privacy.html) for an overview of privacy at Google.  
+_utmz | These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [**Click here**](http://www.google.com/intl/en/policies/privacy/) for an overview of privacy at Google.  
 _utmc  
 _utmb  
 _utma  
 Devere - sso | These cookies allow you to sign on to our site. | Not applicable  
 JSESSIONID | This functional cookie is used to take the details of your booking and is created only for the duration of your session. | Not applicable  
-  
-## De Vere Venues
-
-[**www.deverevenues.co.uk**](http://www.deverevenues.co.uk/) also uses the following cookies. You can delete, remove your consent and/or block cookies sent to you from this website but parts of the website may not then work. 
-
-Cookie Name | Purpose | More Information  
----|---|---  
-userFirstName | These Cookies allow you to log into our site. | Not Applicable.  
-id | We use this cookie to serve more relevant ads across the site and limit the number of times that a given ad is shown to you. | [**Click here**](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google  
-u | This persistent cookie provided by Ignition One allows us to customize, target and report on the advertisments on our site and across third party websites. | [**Click here**](http://www.ignitionone.com/en/about/privacy-services.php)for an overview of privacy at Ignition One and details of how to opt out.  
   
 ## De Vere Hotels
 
@@ -70,8 +60,18 @@ u | This persistent cookie provided by Ignition One allows us to customize, targ
 Cookie Name | Purpose | More Information  
 ---|---|---  
 userFirstName | These Cookies allow you to log into our site. | Not Applicable.  
-id | We use this cookie to serve more relevant ads across the site and limit the number of times that a given ad is shown to you. | [**Click here**](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google.  
+id | We use this cookie to serve more relevant ads across the site and limit the number of times that a given ad is shown to you. | [**Click here**](http://www.google.com/intl/en/policies/privacy/) for an overview of privacy at Google.  
 u | This persistent cookie provided by Ignition One allows us to customize, target and report on the advertisments on our site and across third party websites. | [**Click here**](http://www.ignitionone.com/en/about/privacy-services.php) for an overview of privacy at Ignition One and details of how to opt out.  
+  
+## De Vere Venues
+
+[**www.deverevenues.co.uk**](http://www.deverevenues.co.uk/) also uses the following cookies. You can delete, remove your consent and/or block cookies sent to you from this website but parts of the website may not then work. 
+
+Cookie Name | Purpose | More Information  
+---|---|---  
+userFirstName | These Cookies allow you to log into our site. | Not Applicable.  
+id | We use this cookie to serve more relevant ads across the site and limit the number of times that a given ad is shown to you. | [**Click here**](http://www.google.com/intl/en/policies/privacy/) for an overview of privacy at Google  
+u | This persistent cookie provided by Ignition One allows us to customize, target and report on the advertisments on our site and across third party websites. | [**Click here**](http://www.ignitionone.com/en/about/privacy-services.php)for an overview of privacy at Ignition One and details of how to opt out.  
   
 ## De Vere Village
 
