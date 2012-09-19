@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the comeon.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504031425id_/https%3A//www.comeon.com/privacypolicyXX) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeon.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013146id_/https%3A//www.comeon.com/privacypolicyXX) for the most accurate reproduction.*
 
 # ComeOn! Privacy Policy
 
 **Privacy Policy**  
 Come On Europe Limited Privacy Policy  
-Last Updated 13/02/2012
+Last Updated 25/06/2012
 
 **Introduction**
 
@@ -110,7 +110,8 @@ Come On Europe Limited complies with Payment Card Industry (PCI) Data Security S
 **Notification of Privacy Policy Changes**  
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you have questions about this Privacy Policy or want to contact us regarding how we handle your data, please send an email to support (at) comeon.com or write to us at:   
 Come On Europe Limited  
-203, Ground Floor,   
-Tower Road,   
-Sliema SLM 1602,   
-Malta. 
+Block A, Suite 3,  
+177, Skyway Offices,  
+Marina Street,  
+Pieta, PTA 9042  
+Malta
