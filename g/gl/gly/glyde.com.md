@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the glyde.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603005743id_/http%3A//glyde.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glyde.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002453id_/http%3A//glyde.com/privacy) for the most accurate reproduction.*
 
 # Glyde: Privacy Policy
-
-[ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.glyde.com/seal_m "Validate TRUSTe privacy certification")
 
 ## Introduction
 
 This Privacy Policy (this "Policy") describes how Glyde ("Glyde") manages your personal information during your use of the www.glyde.com website, and any successor sites ("Glyde Website"), including the Glyde marketplace technology platform located thereon ("Glyde Marketplace") (collectively, "the site" or "Glyde Service"). The Glyde Service shall also include all applications made available by Glyde on the Glyde Website or for use in connection with the Glyde Website and technology platform. If you use or visit the Glyde Service, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
-
-Glyde has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [service@glyde.com](mailto:service@glyde.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe certification covers information collected through the Web site [www.glyde.com](http://glyde.com/) and the Glyde marketplace technology platform. 
 
 ## Our Commitment to Children's Privacy
 
@@ -105,4 +101,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact Glyde Corporation at 555 Bryant St., #602, Palo Alto, CA 94301 or by email: [privacy@glyde.com](mailto:privacy@glyde.com). We will respond to your inquiry within 30 days of its receipt. 
 
-Last Updated September 7, 2011 
+Last Updated June 28, 2012 
