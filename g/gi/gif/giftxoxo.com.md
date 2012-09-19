@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftxoxo.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618061454id_/http%3A//www.giftxoxo.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftxoxo.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919183637id_/http%3A//www.giftxoxo.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # GiftXoXo - Privacy Policy
 
@@ -58,7 +58,7 @@ This Privacy Policy can change at any time to include / exclude clauses and Gift
 
 ######  Choice/Opt-Out
 
-Giftxoxo.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all Giftxoxo.com lists and newsletters, please visit [http://www.Giftxoxo.com/unsubscribe.php](http://www.flipkart.com/unsubscribe.php)
+Giftxoxo.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all Giftxoxo.com lists and newsletters, please email to cs@giftxoxo.com
 
 ######  Advertisements on Giftxoxo.com
 
