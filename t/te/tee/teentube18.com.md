@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teentube18.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508042810id_/http%3A//www.teentube18.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teentube18.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919201918id_/http%3A//www.teentube18.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Teen tube 18
 
