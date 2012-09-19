@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simonseeks.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504073557id_/http%3A//www.simonseeks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonseeks.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919110111id_/http%3A//www.simonseeks.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Simonseeks
 
@@ -21,7 +21,7 @@
 
 ## 1\. Introduction and General Terms
 
-simonseeks.com (including simonseeks.co.uk, simonseeks.de and any other related trading names) (Website) operates the following privacy policy because we are committed to protecting and respecting your privacy. This privacy policy (together with our [Terms of Use](https://web.archive.org/web/20120504073557id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+simonseeks.com (including simonseeks.co.uk, simonseeks.de and any other related trading names) (Website) operates the following privacy policy because we are committed to protecting and respecting your privacy. This privacy policy (together with our [Terms of Use](https://web.archive.org/web/20120919110111id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is simonseeks.com Limited (company number 6481326), a company whose registered office is located at Shipgate House, 2 Shipgate Street, Chester CH1 1RT.
 
@@ -29,7 +29,7 @@ Our Data Protection Office and nominated representative for the purpose of the A
 
 The terms of this Privacy Policy may be amended at any time. Any such modification shall be effective from the moment that the updated terms version of the Privacy Policy is posted on the Website. Continued use of the Website for a total of 30 minutes or longer following an amendment of the terms of this Privacy Policy, will constitute your acceptance of the revised terms of the Privacy Policy in its entirety. You are expected to check this page from time to time to take notice of any changes we make, as they are legally binding on you. Should you not accept any such modifications then you should cease to use the Website immediately.
 
-By accessing/continuing to use the Website for a total of 30 minutes or longer you indicate that you have read, understood and agree to be bound by the content of this Privacy Policy and the [Terms of Use](https://web.archive.org/web/20120504073557id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use"). If you do not accept the terms of this Privacy Policy you should cease to use the Website immediately.
+By accessing/continuing to use the Website for a total of 30 minutes or longer you indicate that you have read, understood and agree to be bound by the content of this Privacy Policy and the [Terms of Use](https://web.archive.org/web/20120919110111id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use"). If you do not accept the terms of this Privacy Policy you should cease to use the Website immediately.
 
 Skip to top
 
@@ -38,7 +38,7 @@ Skip to top
  We may collect and process the following data about you: 
 
   * information that you provide by filling in forms on the Website. This includes information about you which you provide to us when you sign up as a user of the Website whether in your capacity as a Member or a Contributor;
-  * information gathered if you choose to contribute to the Website and become entitled to receive a share of Directly Generated Revenue as set out in the [Terms of Use](https://web.archive.org/web/20120504073557id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use");
+  * information gathered if you choose to contribute to the Website and become entitled to receive a share of Directly Generated Revenue as set out in the [Terms of Use](https://web.archive.org/web/20120919110111id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use");
   * information gathered when you post material or request further services, when you enter a competition or promotion and when you report a problem with our site;
   * if you contact us, we may keep a record of that correspondence;
   * details of transactions or bookings you carry out through our site; and
@@ -76,7 +76,7 @@ Once you have provided your personal information to us we may use it:
   * to enable us to provide you with information that may be of particular interest to you; and/or
   * to tell you about changes to the Website or to communicate with you generally; and/or
   * to enable you to participate in interactive features of our service, when you choose to do so; and/or
-  * to advise you when you are due to receive revenue as a result of your content as a Contributor in accordance with the [Terms of Use](https://web.archive.org/web/20120504073557id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use"); and/or
+  * to advise you when you are due to receive revenue as a result of your content as a Contributor in accordance with the [Terms of Use](https://web.archive.org/web/20120919110111id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use"); and/or
   * to process a transaction between you and a third party; and/or
   * to notify you about changes to our service.
 
@@ -98,7 +98,7 @@ Skip to top
 
 We may use your data, or permit selected third parties to use your data to provide you with information about products or services which are advertised on, or linked to, the Website or whose products or services you have indicated you wish to acquire, or to provide you with an online quotation, where you have indicated that you require such a quotation.
 
-We may provide your personal details to a third party for legal or regulatory reasons in order to comply with our legal obligations, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20120504073557id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use") or to protect the rights, property, or safety of simonseeks.com Limited, our customers, or others. This includes disclosing information in relation to any payment made to Contributors in relation to any material that is posted on the Website and the exchanging of information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We may provide your personal details to a third party for legal or regulatory reasons in order to comply with our legal obligations, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20120919110111id_/http%3A//www.simonseeks.com/terms-of-use "View terms of use") or to protect the rights, property, or safety of simonseeks.com Limited, our customers, or others. This includes disclosing information in relation to any payment made to Contributors in relation to any material that is posted on the Website and the exchanging of information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 We aim to ensure that you obtain the maximum benefit available to you from the Website. As a consequence, we may ask you to advise us of any areas of the Website that may be of particular personal interest to you. We may use the information that we gather as a result of this process to advise you of specific offers in connection with products or services advertised on, or linked to, articles on the Website. In turn, this may result in our disclosing your personal information to third parties.
 
