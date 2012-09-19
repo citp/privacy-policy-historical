@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhanvad.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527173627id_/http%3A//www.bhanvad.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhanvad.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919104636id_/http%3A//www.bhanvad.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Bhanvad.com
 
