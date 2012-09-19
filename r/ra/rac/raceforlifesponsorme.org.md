@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlifesponsorme.org privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042835id_/http%3A//raceforlife.cancerresearchuk.org/utilities/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlifesponsorme.org privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919120115id_/http%3A//raceforlife.cancerresearchuk.org/utilities/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy - Utilities - Race for Life - Cancer Research UK
 
@@ -53,11 +53,7 @@ Cancer Research UK is concerned to protect the privacy of children aged under 16
 
 ### Do we use 'cookies'?
 
-'Cookies' are small pieces of information sent by a web server to a web browser which enable the server to collect information from the browser. Essentially it takes the form of a small text file deposited on your computer's hard drive. Our websites use both persistent and session cookies. Persistent cookies are cookies that stay on your computer permanently until you "manually" delete them. Session cookies delete themselves automatically when you leave a website and go to another one or shut down your browser.
-
-Cancer Research UK uses cookies to ensure that you can interact with our websites successfully, to keep track of your browsing patterns and to help you use your account if you have registered with us. Cookies can help to give you a more personalised web experience. The use of cookies does not allow us to access any other information on your computer nor does it affect your experience of using any other websites.
-
-If you want to prevent our cookies being stored on your computer in future, you can easily change your web browser setting to refuse cookies, or to notify you when you receive a new cookie. You can do this by clicking on the "Help" menu. You can also delete these cookies. Please note however that if you disable or delete our cookies your use of our websites may be restricted and you may not be able to access all the services or facilities on our sites. Further information on deleting or controlling cookies is available at <http://www.aboutcookies.org/>.
+[Please refer to our cookie policy](http://raceforlife.cancerresearchuk.org/utilities/cookies-policy/index.html) for details of how we use cookies and the type of cookies served through our web sites.
 
 ### How do we protect personal information?
 
