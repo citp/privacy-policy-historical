@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530075754id_/http%3A//www.paidsurveys.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182907id_/http%3A//www.paidsurveys.com/privacy.htm) for the most accurate reproduction.*
 
 # PaidSurveys.com - Earn Rewards Taking Surveys!
 
