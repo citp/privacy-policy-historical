@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxycart.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511231001id_/http%3A//www3.foxycart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxycart.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192239id_/http%3A//www.foxycart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FoxyCart
 
