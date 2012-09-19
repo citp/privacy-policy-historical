@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpremiumplay.info privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617233901id_/http%3A//allpremiumplay.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpremiumplay.info privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235208id_/http%3A//allpremiumplay.info/privacy.php) for the most accurate reproduction.*
 
 # Premium Play
 
