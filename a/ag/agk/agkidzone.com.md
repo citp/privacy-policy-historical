@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205002308id_/http%3A//www.agkidzone.com/privacy_policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919203148id_/http%3A//www.agkidzone.com/privacy-policy) for the most accurate reproduction.*
 
-# AGKidZone - Privacy Policy
+# AGKidZone Games, Online Activities, Cartoons, Coloring Pages, Videos
 
 The purpose of this policy is to inform you about the types of information we gather about you and your child when you visit our site, how we use that information, and your rights regarding our use of the information.
 
@@ -20,7 +20,7 @@ We will also ask for your email address, so that we may contact you to explain h
 
 We will also collect your child's email address for various communications relating to the site. This is personally identifiable information and will not be disclosed except as described below. 
 
-  2. **Contests.** From time to time we may conduct contests. If your child participates in the contests, under certain circumstances we may ask you for personally identifiable information such as a postal address and full name if necessary to award prizes. Personally identifiable information obtained specifically for contests will not be shared with third parties.
+  2. **Contests & Sweepstakes. ** From time to time we may conduct contests or sweepstakes. If your child participates in the contests or sweepstakes, under certain circumstances we may ask you for personally identifiable information such as a postal address and full name if necessary to award prizes. Personally identifiable information obtained specifically for contests and sweepstakes will not be shared with third parties.
   3.  **Surveys and Feedback.** We may collect information in connection with surveys or online activities. We do not collect any personally identifiable information with surveys or feedback requests. Information you or your child provides in connection with feedback or surveys will not be connected with any personally identifiable information we have.
   4.  **Website.** We use technology to collect information about the users on the site. For example, we use cookies, which are pieces of information that are placed on your computer for record-keeping purposes. As you move from page to page at our website, a cookie is the only way that we have of knowing who you are. An activity on one page may depend on what you selected on a previous page. We use a cookie to keep track of your selection. Without cookies, users may be asked to provide the same information repeatedly. Some activities may not function at all. 
 
@@ -52,8 +52,8 @@ This website will change over time as we add exciting new features. The internet
 **7\. What Are The Privacy Policies Of The Links On Your Site?**  
 Our website may contain links to other sites, including websites directed to children. We cannot control the privacy practices of these other sites, or their content. These other sites may use cookies and collect personally identifiable information. We urge to check the applicable privacy policy of the website sponsor when connecting to other websites.
 
-**8\. California Residents.**  
-California Civil Code Section 1798.83 permits residents of California who are visitors to the website to request information regarding our disclosure of their personal information to Third Parties for marketing purposes. To make such a request, please send an email to [help@agkidzone.com](mailto:help@agkidzone.com).
+**8\. California Residents   . **  
+California Civil Code Section 1798.83 permits residents of California who are visitors to the website to request information regarding our disclosure of their personal information to Third Parties for marketing purposes. To make such a request, please [contact us](http://www.agkidzone.com/contact-us).
 
 **9\. Residents outside the U.S.**  
 Personal information collected on the website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries or agents maintain facilities. By using the website, you consent to any such transfer of information outside of your country. 
