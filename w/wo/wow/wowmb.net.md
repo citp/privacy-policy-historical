@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203423id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919081836id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Warlocks Den - Privacy Statement
 
@@ -18,22 +18,22 @@ Please Register to Remove these Ads
 Latest Posts | Latest Forum News  
 | Thread |   |  Date, Time |  Posted By  
 ---|---|---|---  
- [say WHAT?!](http://wowmb.net/forums/f9/42692-say_what/) | [ ▼](http://wowmb.net/forums/f9/42692-say_what/) |  03-05, 11:13 |  [Scathbais](http://wowmb.net/forums/members/scathbais/)  
- [4.3.4.15...Raiding Guide!](http://wowmb.net/forums/f102/42695-4_3_4_15_raiding_guide/) | [ ▼](http://wowmb.net/forums/f102/42695-4_3_4_15_raiding_guide/) |  03-05, 10:45 |  [Kasha](http://wowmb.net/forums/members/kasha/)  
- [Demonology pvp](http://wowmb.net/forums/f43/41246-demonology_pvp/) | [ ▼](http://wowmb.net/forums/f43/41246-demonology_pvp/) |  03-05, 05:44 |  [D1RE](http://wowmb.net/forums/members/d1re/)  
- [MoP Beta... Destruction Spec](http://wowmb.net/forums/f43/42691-mop_beta_destruction_spec/) | [ ▼](http://wowmb.net/forums/f43/42691-mop_beta_destruction_spec/) |  03-05, 03:03 |  [Pansori](http://wowmb.net/forums/members/pansori/)  
- [[A]{US}<Occasional...](http://wowmb.net/forums/f192/42594-us_occasional_excellence_25man_2ni_wk_5_8_heroic_guild_lfm/) | [ ▼](http://wowmb.net/forums/f192/42594-us_occasional_excellence_25man_2ni_wk_5_8_heroic_guild_lfm/) |  02-05, 23:36 |  [Iknus](http://wowmb.net/forums/members/iknus/)  
- [Your Transmogrification](http://wowmb.net/forums/f22/42411-your_transmogrification/) | [ ▼](http://wowmb.net/forums/f22/42411-your_transmogrification/) |  02-05, 11:40 |  [Tragik](http://wowmb.net/forums/members/tragik/)  
- [Glyph of Shadowbolt](http://wowmb.net/forums/f9/42696-glyph_shadowbolt/) | [ ▼](http://wowmb.net/forums/f9/42696-glyph_shadowbolt/) |  02-05, 11:19 |  [Kasha](http://wowmb.net/forums/members/kasha/)  
- [Green fire quest coming to MoP](http://wowmb.net/forums/f8/42694-green_fire_quest_coming_mop/) | [ ▼](http://wowmb.net/forums/f8/42694-green_fire_quest_coming_mop/) |  02-05, 09:45 |  [Cruciarius](http://wowmb.net/forums/members/cruciarius/)  
- [MoP Destro: Shoot vs Auto-Wand](http://wowmb.net/forums/f8/42653-mop_destro_shoot_vs_auto_wand/) | [ ▼](http://wowmb.net/forums/f8/42653-mop_destro_shoot_vs_auto_wand/) |  01-05, 19:35 |  [Teon](http://wowmb.net/forums/members/teon/)  
- [Warlock Tier 14](http://wowmb.net/forums/f8/42639-warlock_tier_14_a/) | [ ▼](http://wowmb.net/forums/f8/42639-warlock_tier_14_a/) |  01-05, 12:16 |  [ImRorschac](http://wowmb.net/forums/members/imrorschac/)  
-|  [Looking for Moderators and...](http://wowmb.net/forums/f71/42656-looking_moderators_newshounds/) |  10-04  
+ [solo onyxia](http://wowmb.net/forums/f49/33236-solo_onyxia/) | [ ▼](http://wowmb.net/forums/f49/33236-solo_onyxia/) |  18-09, 23:32 |  [hefron](http://wowmb.net/forums/members/hefron/)  
+ [solo'ing Kael'thas in tempest...](http://wowmb.net/forums/f49/41238-soloing_kaelthas_tempest_keep/) | [ ▼](http://wowmb.net/forums/f49/41238-soloing_kaelthas_tempest_keep/) |  18-09, 23:25 |  [hefron](http://wowmb.net/forums/members/hefron/)  
+ [Grimoire of Sac---I must be...](http://wowmb.net/forums/f9/43041-grimoire_sac_i_must_blind/) | [ ▼](http://wowmb.net/forums/f9/43041-grimoire_sac_i_must_blind/) |  18-09, 10:42 |  [Tragik](http://wowmb.net/forums/members/tragik/)  
+ [Gearing up from heroics in...](http://wowmb.net/forums/f22/43424-gearing_up_heroics_mists_pandaria/) | [ ▼](http://wowmb.net/forums/f22/43424-gearing_up_heroics_mists_pandaria/) |  18-09, 04:25 |  [Aghast](http://wowmb.net/forums/members/aghast/)  
+ [Affli vs Destro vs Demo in...](http://wowmb.net/forums/f9/43374-affli_vs_destro_vs_demo_5_04_a/) | [ ▼](http://wowmb.net/forums/f9/43374-affli_vs_destro_vs_demo_5_04_a/) |  17-09, 22:23 |  [Scathbais](http://wowmb.net/forums/members/scathbais/)  
+ [To glyph or not to glyph.....](http://wowmb.net/forums/f9/43211-glyph_not_glyph_mop/) | [ ▼](http://wowmb.net/forums/f9/43211-glyph_not_glyph_mop/) |  17-09, 22:19 |  [Scathbais](http://wowmb.net/forums/members/scathbais/)  
+ [Professions for a new warlock](http://wowmb.net/forums/f10/32119-professions_new_warlock/) | [ ▼](http://wowmb.net/forums/f10/32119-professions_new_warlock/) |  16-09, 04:48 |  [D1RE](http://wowmb.net/forums/members/d1re/)  
+ [Demonology pvp](http://wowmb.net/forums/f43/41246-demonology_pvp/) | [ ▼](http://wowmb.net/forums/f43/41246-demonology_pvp/) |  12-09, 23:08 |  [marcevil](http://wowmb.net/forums/members/marcevil/)  
+ [Weapon change?](http://wowmb.net/forums/f22/43321-weapon_change/) | [ ▼](http://wowmb.net/forums/f22/43321-weapon_change/) |  12-09, 11:47 |  [Owewa](http://wowmb.net/forums/members/owewa/)  
+ [This place is getting annoying](http://wowmb.net/forums/f8/43072-place_getting_annoying/) | [ ▼](http://wowmb.net/forums/f8/43072-place_getting_annoying/) |  12-09, 10:46 |  [Supernex](http://wowmb.net/forums/members/supernex/)  
+|  [Thanks to the active...](http://wowmb.net/forums/f71/42812-thanks_active_reporters_den/) |  14-08  
 ---|---  
- [Buffs and Debuffs in MOP](http://wowmb.net/forums/f71/42605-buffs_debuffs_mop/) |  09-03  
- [Destruction Ember System in...](http://wowmb.net/forums/f71/42579-destruction_ember_system_mop/) |  23-02  
- [MoP Warlock Changes](http://wowmb.net/forums/f71/42576-mop_warlock_changes/) |  21-02  
- [Patch Notes 4.3](http://wowmb.net/forums/f71/42408-patch_notes_4_3_a/) |  29-11  
+ [Urgent: Important Security...](http://wowmb.net/forums/f71/42779-urgent_important_security_update/) |  10-08  
+ [Huge Warlock buff!!](http://wowmb.net/forums/f71/42777-huge_warlock_buff/) |  09-08  
+ [Mists of Pandaria release...](http://wowmb.net/forums/f71/42740-mists_pandaria_release_date_has_been_confirmed/) |  25-07  
+ [Some Warlock Q&A](http://wowmb.net/forums/f71/42722-some_warlock_q/) |  23-06  
 Latest Blog Entries  
 |  [Home's where my heart is](http://wowmb.net/forums/blogs/d1re/748-homes_where_my_heart.html) | [D1RE](http://wowmb.net/forums/members/d1re/)  
 ---|---  
