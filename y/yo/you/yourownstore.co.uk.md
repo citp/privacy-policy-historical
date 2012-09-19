@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourownstore.co.uk privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608093345id_/http%3A//www.yourownstore.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourownstore.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919213024id_/http%3A//www.yourownstore.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Effective Date: 01/01/11
 
 **1.     Who are we?**
 
-1.1    We are Bright Light Media. We own and operate this site. Our contact details are in the “contact us” section on our site. Please contact us if you have any questions or feedback about this policy. We’d be delighted to help.
+1.1    We are YourOwnStore Ltd. We own and operate this site. Our contact details are in the “contact us” section on our site. Please contact us if you have any questions or feedback about this policy. We’d be delighted to help.
 
  **2.     What’s the point of this policy?**
 
