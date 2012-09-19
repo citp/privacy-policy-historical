@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodymedia.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627070514id_/http%3A//www.bodymedia.com/Support-Help/Policies/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodymedia.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235449id_/http%3A//www.bodymedia.com/Support-Help/Policies/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Like many web sites, we gather information about how visitors use our web site. 
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bodymedia.com&sealid=101) BodyMedia has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@bodymedia.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bodymedia.com&sealid=102)BodyMedia complies with the U.S. - E.U. & Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. BodyMedia agrees under the E.U. Safe Harbor framework to respond to a user's request to delete or change their personal information within 30 days of this request. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bodymedia.com&sealid=102)BodyMedia complies with the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. BodyMedia agrees under the Safe Harbor Frameworks to respond to a user's request to delete or change their personal information within 30 days of this request. Information regarding the Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>
 
 ## Information you give us
 
@@ -28,8 +28,8 @@ We do not knowingly collect personal information such as name and address.
 
 Cookies are alphanumeric identifiers that we transfer to your computer through your Web browser. Cookies allow us to enhance and personalize your online browsing and shopping experience. For example, we use cookies to:
 
-  * Remember the items in your Shopping Cart
-  * Recognize you when you return to our web site
+  * Remember the items in your Shopping Cart 
+  * Recognize you when you return to our web site 
   * Analyze visitor behavior 
 
 
@@ -54,17 +54,17 @@ Re-Targeted advertising uses information collected on an individual's web browsi
 
 We use the information you provide us to perform the services for which such data was collected. For example, if you sign up for an email newsletter, we will send the email newsletter to the address you provide us. BodyMedia will use your personal information for a number of purposes including the following:
 
-  * For "service administration purposes", which means that BodyMedia may contact you for reasons related to the service you have signed up for (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance).
-  * To contact you about a submission you have made to the web sites, including any content you provide.
-  * To issue invoices, administer accounts, collect and process payments.
-  * To send you e-mails, e-newsletters, personalized offers via direct messaging or other communications about our products and services.
-  * To send you information about our and our affiliates' and business partners' products and services and other information and materials that may be of interest to you.
-  * To manage and administer sweepstakes, contests, or similar promotions.
-  * IP addresses are used to identify the number of visits from different locations and also to block disruptive use.
-  * To analyze and improve the services offered on BodyMedia web sites.
-  * If you post or send offensive, inappropriate or objectionable content anywhere on or to BodyMedia sites or otherwise engage in any disruptive behavior, BodyMedia may use your personal information to stop such behavior.
-  * On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our web site policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
-  * In the event BodyMedia goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+  * For "service administration purposes", which means that BodyMedia may contact you for reasons related to the service you have signed up for (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance). 
+  * To contact you about a submission you have made to the web sites, including any content you provide. 
+  * To issue invoices, administer accounts, collect and process payments. 
+  * To send you e-mails, e-newsletters, personalized offers via direct messaging or other communications about our products and services. 
+  * To send you information about our and our affiliates' and business partners' products and services and other information and materials that may be of interest to you. 
+  * To manage and administer sweepstakes, contests, or similar promotions. 
+  * IP addresses are used to identify the number of visits from different locations and also to block disruptive use. 
+  * To analyze and improve the services offered on BodyMedia web sites. 
+  * If you post or send offensive, inappropriate or objectionable content anywhere on or to BodyMedia sites or otherwise engage in any disruptive behavior, BodyMedia may use your personal information to stop such behavior. 
+  * On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our web site policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes. 
+  * In the event BodyMedia goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
 
 
 
@@ -86,7 +86,7 @@ Your data may be shared with third party services, social networks, specific use
 
 ## Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled byBodyMedia. Please be aware that we, BodyMedia, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
+This Web site contains links to other sites that are not owned or controlled by BodyMedia. Please be aware that we, BodyMedia, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
 
 ## AddToAny Widget
 
@@ -102,9 +102,9 @@ All credit card information you supply online is transmitted via Secure Socket L
 
 As discussed above, you can always choose not to provide certain information, even though it might be needed to take advantage of our features. Our site also provides you with the opportunity to choose not to receive communications from us and our partners. You have the following options for changing and modifying information previously provided or removing your information from our database.
 
-  * E-Mail Communication: To unsubscribe from an email, please follow the instructions in the email you receive.
-  * Activity Manager: To modify personally identifiable information such as your name, address and contact information, please login to the service and update your profile. When your subscription ends your contact information may be retained so that you can re-activate the service with your previously recorded data intact. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-  * If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@bodymedia.com](mailto:support@bodymedia.com).
+  * E-Mail Communication: To unsubscribe from an email, please follow the instructions in the email you receive. 
+  * Activity Manager: To modify personally identifiable information such as your name, address and contact information, please login to the service and update your profile. When your subscription ends your contact information may be retained so that you can re-activate the service with your previously recorded data intact. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+  * If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@bodymedia.com](mailto:support@bodymedia.com). 
 
 
 
@@ -118,21 +118,21 @@ The Activity Manager shows subscribers information such as their calorie burn an
 The system uses an armband activity-monitor which records "armband data".  
 
 
-  * The armband-data is anonymized and does NOT include your name, address, phone number or any information that will allow you to be personally identified from the general population.
-  * The armband-data does NOT include information on: where you are, who you are with, what you are saying, or what specifically you are doing.
-  * The armband-data does NOT include your medical vital signs: core temperature, heart rate, blood pressure, or respiratory rate.
+  * The armband-data is anonymized and does NOT include your name, address, phone number or any information that will allow you to be personally identified from the general population. 
+  * The armband-data does NOT include information on: where you are, who you are with, what you are saying, or what specifically you are doing. 
+  * The armband-data does NOT include your medical vital signs: core temperature, heart rate, blood pressure, or respiratory rate. 
 
 
 
 If you choose to self report your data (log your food, enter your weight, etc.), report your data through a third party application to whom you have granted the authority to upload your data to BodyMedia service, or wear a BodyMedia armband and upload armband-data to a BodyMedia service then:
 
-  * All data collected including, but not limited to, food-logs, weight, body-fat-percentage, sensor-data, time recordings, and physiological data (collectively, the "Data"), are and shall remain the sole and exclusive property of BodyMedia.
-  * You agree that BodyMedia may retain, destroy, edit or use such Data for such purposes and in such manner as may be deemed necessary and appropriate by BodyMedia, provided, however, that your individual identity is not readily discernable from any such presentation or publication made or disclosed to third parties outside of BodyMedia.
-  * Self reporting data or wearing and uploading armband-data to a BodyMedia service indicates an acceptance and understanding of the use of the Data for the purposes stated, and a waiving of all rights to any claims for payment, royalties or other remuneration in connection with the use of such data.
-  * You opt-in to armband-data recording by voluntarily wearing the armband.
-  * You may opt-out of armband-data recording at any time, for any period of time, by not wearing the armband.
-  * You opt-in to self reporting data by voluntarily self reporting information or authorizing a third party application to report such data.
-  * You may opt-out of self reporting data at any time, or any period of time, by not self reporting information and/or revoking such authorization.
+  * All data collected including, but not limited to, food-logs, weight, body-fat-percentage, sensor-data, time recordings, and physiological data (collectively, the "Data"), are and shall remain the sole and exclusive property of BodyMedia. 
+  * You agree that BodyMedia may retain, destroy, edit or use such Data for such purposes and in such manner as may be deemed necessary and appropriate by BodyMedia, provided, however, that your individual identity is not readily discernable from any such presentation or publication made or disclosed to third parties outside of BodyMedia. 
+  * Self reporting data or wearing and uploading armband-data to a BodyMedia service indicates an acceptance and understanding of the use of the Data for the purposes stated, and a waiving of all rights to any claims for payment, royalties or other remuneration in connection with the use of such data. 
+  * You opt-in to armband-data recording by voluntarily wearing the armband. 
+  * You may opt-out of armband-data recording at any time, for any period of time, by not wearing the armband. 
+  * You opt-in to self reporting data by voluntarily self reporting information or authorizing a third party application to report such data. 
+  * You may opt-out of self reporting data at any time, or any period of time, by not self reporting information and/or revoking such authorization. 
 
 
 
@@ -140,7 +140,7 @@ If you choose to self report your data (log your food, enter your weight, etc.),
 
 BodyMedia reserves the right to modify this privacy policy at any time, and at its sole discretion, and will provide prominent notice to users through posting an updated privacy policy on our homepage and on the site. Please review this site to be informed of any material changes to the privacy policy. The 'Last Updated' date at the bottom of this page will be updated after changes occur to the privacy policy.
 
-Last updated: June 18, 2012
+Last updated: September 17, 2012
 
 BodyMedia, Inc.  
 One Gateway Center  
