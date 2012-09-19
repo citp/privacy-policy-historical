@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksoflondon.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519105507id_/http%3A//www.linksoflondon.com/gb-en/footer-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksoflondon.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182709id_/http%3A//www.linksoflondon.com/gb-en/footer-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Official Links of London
 
@@ -126,6 +126,78 @@ Doubleclick 'Spotlight Tags' are used to measure the effectiveness of online mar
 | 
 
 Yes, may link to PII but only if a user has provided opt-in consent.  
+  
+_qubitTracker
+
+| 
+
+Assigns a unique id to a visitor
+
+| 
+
+None  
+  
+qst
+
+| 
+
+Counts visits
+
+| 
+
+None  
+  
+_qsst
+
+| 
+
+If exists, means we have counted  
+current visit
+
+| 
+
+None  
+  
+_qPageNum_*
+
+| 
+
+Page number in current visit
+
+| 
+
+None  
+  
+qbef
+
+| 
+
+Exit feedback close/submit counts
+
+| 
+
+None  
+  
+qtag_*
+
+| 
+
+OpenTag session tracking values
+
+| 
+
+None  
+  
+qubitconsent
+
+| 
+
+Stores whether the user has given  
+consent to use cookies
+
+| 
+
+None  
   
 **Email usage**  
 Links of London uses your email address as a convenient way to contact you about your order or any reminder service you have. From time to time, we may update you on relevant Links of London site or new gift news, but only with your permission. We will not pass your details on to any other relevant third parties that we think you may be interested in if you have requested us not to do this.
