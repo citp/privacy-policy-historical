@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the megatrafficlist.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624052244id_/http%3A//megatrafficlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megatrafficlist.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012829id_/http%3A//megatrafficlist.com/privacy.php) for the most accurate reproduction.*
 
 # Mega Traffic List | Because The Advertising World Is a Big Place
 
-[](http://megatrafficlist.com/bannerclick.php?id=1233)  
+[](http://megatrafficlist.com/bannerclick.php?id=5121)  
 
 
 Mega Traffic List Privacy Policy
