@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508042104id_/http%3A//register123.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000708id_/http%3A//register123.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Attendees use Certain software services when invited by a corporate client to at
 
 If you choose to provide us with your Personally Identifiable Information, we may transfer that Personally Identifiable Information within Certain, across borders and from your country to other countries around the world. If you are subject to the European Union Data Protection Directive, laws implementing the Directive, or similar laws, you hereby freely consent to the transfer of your Personally Identifiable Information outside of the European Union to the United States and other countries and to the use of your Personally Identifiable Information by Certain as described in this Privacy Policy.
 
-Certain, Inc. fully complies with the E.U. Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
+Certain, Inc. complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Certain, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Certain, Inc.’s certification, please visit [http://www.export.gov/safeharbor](http://register123.com/http://www.export.gov/safeharbor).
 
 We do not sell your personal information to third parties. We will share your personal information with third parties only in the ways that are described in this privacy statement. We may also share your information under the following circumstances:
 
