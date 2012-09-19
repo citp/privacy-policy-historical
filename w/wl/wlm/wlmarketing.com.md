@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlmarketing.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624053035id_/http%3A//www.wlmarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlmarketing.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919101501id_/http%3A//www.wlmarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WL Marketing - Privacy Policy
 
