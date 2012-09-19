@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmonic.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002234id_/http%3A//filmonic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmonic.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919200428id_/http%3A//filmonic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Filmonic
 
@@ -12,7 +12,9 @@
 **Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
 
  **Third Party Advertisers and cookies  
-**Filmonic uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this website, other websites, and other forms of media in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+**Filmonic uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this website, other websites, and other forms of media in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Filmonic is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. For more information on Ad Choices [click here](http://www.aboutads.info/choices/).
 
  **Traffic Reports  
 **Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
