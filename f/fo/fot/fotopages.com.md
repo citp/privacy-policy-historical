@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotopages.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502023226id_/http%3A//www.fotopages.com/cgi-bin/help.pl%3Fpage%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotopages.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919193509id_/http%3A//www.fotopages.com/cgi-bin/help.pl%3Fpage%3D4) for the most accurate reproduction.*
 
 # Privacy policy - Photo blogging made easy - Fotopages.com
 
