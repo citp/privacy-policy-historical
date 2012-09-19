@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221620id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919213713id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
-**Effective On 6/2/2004**
+**Effective On 7/25/2012**
 
-[ ](http://www.truste.org/ivalidate.php?url=www.mindfieldonline.com&sealid=101)
+[](http://privacy.truste.com/privacy-seal/McMillion-Research/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe online privacy certification")
 
-McMillion Research is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site [http://mindfieldonline.com](). Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+McMillion Research has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://mindfieldonline.com](http://mindfieldonline.com/).
 
-If you have questions or concerns regarding this statement, you should first contact Michael Riffle using one of the following contact options: 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 **Email Address:**  
 [privacy@mindfieldonline.com](mailto:privacy@mindfieldonline.com)
@@ -26,7 +26,7 @@ Charleston, WV 25301
 
 *** Please note in any correspondence that the inquiry is in regard to the** [Privacy Policy](http://mindfieldonline.com/page/privacy)
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.mindfieldonline.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.mindfieldonline.com). TRUSTe will then serve as a liaison with the website to resolve your concerns.
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
 
 ## Information Collection and Use
 
@@ -108,6 +108,10 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 We currently use session ID cookies only. We use session cookies to make it easier for you to navigate our site and maintain your session so you don't have to login repeatedly. A session ID cookie expires when you close your browser.
 
+## Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ## Links to Other Sites
 
 This website may contain links to other sites that are not owned or controlled by McMillion Research. Please be aware that we, McMillion Research, are not responsible for the privacy practices of other such sites.
@@ -123,6 +127,8 @@ Co-branding is the method of having a user connect with a different website but 
 ## Access to Personally Identifiable Information
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [support@mindfieldonline.com](mailto:support@mindfieldonline.com) or by contacting us by telephone or postal mail at the contact information listed below.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
 
 ## Security
 
