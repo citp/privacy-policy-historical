@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604202427id_/https%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920040736id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
 
 # Takeaway Food Delivery
 
