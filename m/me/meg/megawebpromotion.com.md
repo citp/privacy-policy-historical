@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megawebpromotion.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528150229id_/http%3A//www.megawebpromotion.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megawebpromotion.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920035347id_/http%3A//www.megawebpromotion.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Website Promotion * Free Traffic * Free URL Submission * Free Website Traffic
 
