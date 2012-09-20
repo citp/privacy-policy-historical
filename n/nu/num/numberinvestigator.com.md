@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numberinvestigator.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512075426id_/http%3A//www.numberinvestigator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numberinvestigator.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920060735id_/http%3A//www.numberinvestigator.com/privacy) for the most accurate reproduction.*
 
 # NumberInvestigator.com - Privacy Policy
 
