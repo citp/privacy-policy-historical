@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docracy.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601001751id_/http%3A//www.docracy.com/65/privacy-policy-of-docracy-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docracy.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920052621id_/http%3A//www.docracy.com/65/privacy-policy-of-docracy-com) for the most accurate reproduction.*
 
 # Privacy Policy of Docracy.com
 
@@ -31,7 +31,7 @@ We employ industry standard techniques to protect against unauthorized access of
 
 Docracy is operated from the United States.  If you are visiting the Website from outside the U.S., you agree to any processing of any personal information you provide us according to this policy.
 
-Docracy may contact you, by email or other means. For example, Docracy may send you promotional emails relating to Docracy or other third parties Docracy feels you would be interested in, or communicate with you about your use of the Docracy website. Docracy may also use technology to alert us via a confirmation email when you open an email from us. If you do not want to receive email from Docracy, please opt out of receiving emails at the bottom of any Docracy emails.
+Docracy may contact you, by email or other means. For example, Docracy may send you promotional emails relating to Docracy or other third parties Docracy feels you would be interested in, or communicate with you about your use of the Docracy website. Docracy may also use technology to alert us via a confirmation email when you open an email from us. If you do not want to receive email from Docracy, please opt out of receiving emails at the bottom of any Docracy emails or by editing you profile preferences.
 
 **Sharing of Data**
 
