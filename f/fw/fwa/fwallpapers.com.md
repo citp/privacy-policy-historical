@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwallpapers.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625214226id_/http%3A//fwallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwallpapers.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920034957id_/http%3A//fwallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FWallpapers.com
 
