@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supfella.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505034728id_/http%3A//www.supfella.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supfella.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920033304id_/http%3A//www.supfella.com/privacy-policy.php) for the most accurate reproduction.*
 
 # - Social Bookmarking - Digg
 
