@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625003030id_/http%3A//www.allinoneprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055036id_/http%3A//www.allinoneprofits.com/privacy.php) for the most accurate reproduction.*
 
 # All In One Profits
 
