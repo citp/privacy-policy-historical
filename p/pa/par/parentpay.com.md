@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentpay.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119181120id_/https%3A//www.parentpay.com/ParentPay/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentpay.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920061413id_/https%3A//www.parentpay.com/ParentPay/Privacy-Policy) for the most accurate reproduction.*
 
 # - ParentPay
 
@@ -40,7 +40,7 @@ ParentPay Limited collects statistical data about usage of our websites. This in
 If you are connected to the internet you will have an IP Address. This may take the form of a figure, such as 444.333.22.1. The address will be automatically collected and logged as part of the connection of your computer to our web server and may be used to determine the total number of visits to each part of the site. This data is not collected and used for other purposes. 
 
 **Cookies**  
-ParentPay Limited may sometimes use cookies. Cookies are devices which identify your computer to our server and personalise the site for your future use. Cookies only record the areas of our site that a computer has visited. A cookie will not provide us with any personal information, so if you have not supplied us with any personal information, you can still browse our site anonymously. You can amend your browser settings to prevent cookies, but this might affect your use of this site. 
+ParentPay Limited may sometimes use cookies. We comply at all times with the ePrivacy Directive including the most recent changes to the law. For more information, please read about our [Use of Cookies](https://web.archive.org/ParentPay/Use-of-Cookies/).
 
 **Links**  
 ParentPay's website contains links to other websites. ParentPay is not responsible for the privacy practices of other sites or organisations, and recommends you consult the privacy information on those sites. 
@@ -52,7 +52,7 @@ This policy will be reviewed and updated versions will be posted on the website.
 If you would like more information about Data Protection in ParentPay, contact:  
 The Data and Information Security Officer  
 ParentPay   
-PO Box 3221  
-Kenilworth  
-Warwickshire  
-CV8 9XF
+Number Three Siskin Drive  
+Middlemarch Business Park  
+Coventry  
+CV3 4FJ
