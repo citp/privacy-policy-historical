@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcashsweepstakes.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502094127id_/http%3A//instantcashsweepstakes.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcashsweepstakes.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920035215id_/http%3A//instantcashsweepstakes.com/pages/privacy) for the most accurate reproduction.*
 
 # Instant Cash Sweepstakes Terms
 
@@ -6,7 +6,7 @@
 
 **Policy Effective Date:** November 2008  
 **Last Revised:** March 23, 2011  
-This page discloses the privacy policy and practices of the InstantCashSweepstakes.com (ICS) and PaidViewPoint.com website (PV), sites owned and operated by Umongous, LLC (collectively referred to as **Umongous** hereafter), a New Jersey LLC. 
+This page discloses the privacy policy and practices of the InstantCashSweepstakes.com (ICS) and PaidViewPoint.com website (PV), sites owned and operated by Umongous, Inc. (collectively referred to as **Umongous** hereafter), a New Jersey Inc. 
 
 Umongous in is the market research and opinion research business. Umongous operates ICS and PV for the purpose of gaining anonymous opinions, such as your opinions, in order to help its clients gain a better understanding of their business and strategic opportunities. The clients of Umongous use this information in an aggregate fashion and are not interested in your identity or the individual identities of other ICS or PV panel members. It is against Umongous policy and market research terms of service (MR-TOS) for one of its clients to seek to determine the individual identity of an ICS or PV panel member. 
 
@@ -138,4 +138,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 #### How to Contact Us About Your Privacy Concerns
 
-ICS can be reached at any time by email at privacy [at] instantcashsweepstakes [dot] com. PV can be reached at any time by email at privacy [at] paidviewpoint [dot] com. It is our practice to respond to emails in less than 48 hours. If we do not respond within 48 hours, call us at 415-364-8601 and leave a message including your email address so we can respond via email. We will respond to your voicemail within one business day. You can also write us at: Umongous, LLC PO Box 1741 Absecon, NJ 08201 
+ICS can be reached at any time by email at privacy [at] instantcashsweepstakes [dot] com. PV can be reached at any time by email at privacy [at] paidviewpoint [dot] com. It is our practice to respond to emails in less than 48 hours. If we do not respond within 48 hours, call us at 415-364-8601 and leave a message including your email address so we can respond via email. We will respond to your voicemail within one business day. You can also write us at: Umongous, Inc. 123 10th St. San Francisco, CA 94103 
