@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirt4free.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531075631id_/http%3A//www.flirt4free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirt4free.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920044144id_/http%3A//www.flirt4free.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Flirt4Free
 
