@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzabolis.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603065136id_/http%3A//www.pizzabolis.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzabolis.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043725id_/http%3A//www.pizzabolis.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Pizza Boli's: We Deliver MORE! - Privacy Policy
 
