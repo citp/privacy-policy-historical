@@ -1,1135 +1,751 @@
-<!--The following is the downloaded HTML source of the slj.com privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509012844id_/http%3A//www.slj.com/csp/cms/sites/SLJ/Info/privacypolicy.csp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slj.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920054543id_/http%3A//www.slj.com/about-us/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Policy</title>
-
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/head.csp -->
-<script type="text/javascript"> function doLog(logStatement){}</script>
-<script type="text/javascript">
-	var cookies_enabled = false;
-	function dti_ad_area_HTMLDecode(textToDecode)
-	{      
-		var result = textToDecode
-
-		if (result && result != '')
-		{
-			var amp = '&';
-			var gt = '>';
-			var lt = '<';
-			var quot = '"';
-			var apos = "'";
-			var iframe_disabled = "ifrme_not";
-			var iframe_enabled = "iframe";
-		
-		
-			var html_gt = /&gt;/gi;
-			var html_lt = /&lt;/gi;
-			var html_amp = /&amp;/gi;
-			var html_quot = /&quot;/gi;
-			var html_apos = /&apos;/gi;
-			var html_39Ref = /&#39;/gi;
-			var search_iframe_disabled = /ifrme_not/gi;
-			var search_iframe_enabled = /iframe/gi;
-		
-			result = result.replace(search_iframe_enabled, iframe_disabled);
-			result = result.replace( html_amp,amp);
-			result = result.replace(html_quot, quot);
-			result = result.replace(html_39Ref, quot);
-			result = result.replace( html_lt, lt);
-			result = result.replace(html_gt, gt);
-			result = result.replace(html_apos, apos);
-			result = result.replace(search_iframe_disabled, iframe_enabled);
-		}
-		return result;
-	}
-
-	// Finds a movie with the 
-	function dti_ad_area_PlayMovie(id)
-	{
-		//console.log("dti_play_area_PlayMovie("+id+")");
-		var player =document.getElementById(id);
-		if (player != null && player.IsPlaying() == false)
-		{
-			player.Play();
-		}
-		else
-		{
-			setTimeout("dti_ad_area_PlayMovie('"+id+"')", 1000);
-		}
-	}
-
-	// Stores the adRequest objects so they don't get garbage collected before the response is finished.
-	function XHRContainer()
-	{
-		var xhrArray = [];
-		var next = 0;
-		
-		this.getNewRequest = function() {
-			var req = new adRequest();
-			var index = next++;
-			xhrArray[index] = req;
-			req.containerIndex = index;
-			return req;
-		}
-		
-		this.disposeRequest = function(req) {
-			xhrArray[req.containerIndex] = null;
-		}	
-	}
-	
-	var adReqContainer = new XHRContainer();
-	
-	/* Gets the value of a cookie */
-	function Get_Cookie( check_name ) 
-	{
-		// first we'll split this cookie up into name/value pairs
-		// note: document.cookie only returns name=value, not the other components
-		var a_all_cookies = document.cookie.split( ';' );
-		var a_temp_cookie = '';
-		var cookie_name = '';
-		var cookie_value = '';
-		var b_cookie_found = false; // set boolean t/f default f
-
-		for ( i = 0; i < a_all_cookies.length; i++ )
-		{
-			// now we'll split apart each name=value pair
-			a_temp_cookie = a_all_cookies[i].split( '=' );
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy Policy | School Library Journal</title>
+<meta name="robots" content="noodp,noydir">
+<link rel="Shortcut Icon" href="http://www.slj.com/wp-content/themes/SLJv2/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="http://www.slj.com/wp-content/themes/SLJv2/style.css" type="text/css" media="screen">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Put the following javascript before the closing </head> tag. -->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=005834851677093827430:jun3ut0i97u"></script><script>
+  (function() {
+    // var cx = '004874457805279786782:jypbyqqz34k'; CHANGED PER TICKET 1684
+    var cx = '005834851677093827430:jun3ut0i97u';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
 
 
-			// and trim left/right whitespace while we're at it
-			cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		<style type="text/css">
+			#genesis-slider, #slides, .genesis-slider-wrap { height: 220px; width: 500px; }
+			.slide-excerpt { width: 300px; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			div.slider-next, div.slider-previous { top: 80px; }
+		</style><link rel="alternate" type="application/rss+xml" title="School Library Journal » Feed" href="http://www.slj.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="School Library Journal » Comments Feed" href="http://www.slj.com/comments/feed/">
+<link rel="canonical" href="http://www.slj.com/about-us/privacy-policy/">
+<link rel="stylesheet" id="portfolio_slideshow-css" href="http://www.slj.com/wp-content/plugins/portfolio-slideshow/css/portfolio-slideshow.min.css?ver=1.3.7" type="text/css" media="screen">
+<link rel="stylesheet" id="socialConnect-style-css" href="http://www.slj.com/wp-content/plugins/social-connect-widget/css/socialConnect-style.php?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="tipTip-style-css" href="http://www.slj.com/wp-content/plugins/social-connect-widget/css/tipTip.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="interncss-css" href="http://www.slj.com/wp-content/plugins/wp-intern-ads/internAds.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="popular-widget-css" href="http://www.slj.com/wp-content/plugins/popular-widget/_css/pop-widget.css?ver=1.5.5" type="text/css" media="all">
+<link rel="stylesheet" id="genesis-printstyle-plus-css" href="http://www.slj.com/wp-content/plugins/genesis-printstyle-plus/css/print.css?ver=1.5" type="text/css" media="print">
+<link rel="stylesheet" id="ubermenu-basic-css" href="http://www.slj.com/wp-content/plugins/ubermenu/styles/basic.css?ver=2.0.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="ubermenu-grey-white-css" href="http://www.slj.com/wp-content/plugins/ubermenu/styles/skins/blackwhite.css?ver=2.0.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="genesis-tabs-stylesheet-css" href="http://www.slj.com/wp-content/plugins/genesis-tabs/style.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="slider_styles-css" href="http://www.slj.com/wp-content/plugins/genesis-slider/style.css?ver=0.9.6" type="text/css" media="all">
+<script type="text/javascript" src="http://www.slj.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/wp-intern-ads/jquery.internads.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.slj.com/xmlrpc.php?rsd">
 
-			// if the extracted name matches passed check_name
-			if ( cookie_name == check_name )
-			{
-				b_cookie_found = true;
-				// we need to handle case where cookie has no value but exists (no = sign, that is):
-				if ( a_temp_cookie.length > 1 )
-				{
-					cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
-				}
-				// note that in cases where cookie is initialized but no value, null is returned
-				return cookie_value;
-				break;
-			}
-			a_temp_cookie = null;
-			cookie_name = '';
-		}
-		if ( !b_cookie_found )
-		{
-			return null;
-		}
-	}
-
-	
-	/* Sets a cookie that will allow ads to be served in a faster way */
-	function enableFastAdServing()
-	{
-		
-		var name = "_dtFastAds2";
-		var value = 1;
-		var path = "/";
-		var expireDays = 7;
-		var domain = null;
-		var secure = null;
-		
-		// set time, it's in milliseconds
-		var today = new Date();
-		today.setTime( today.getTime() );
-		
-		var expires = expireDays * 1000 * 60 * 60 * 24;
-		var expires_date = new Date( today.getTime() + (expires) );
-		
-		document.cookie = name + "=" +escape( value ) +
-		( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
-		( ( path ) ? ";path=" + path : "" ) +
-		( ( domain ) ? ";domain=" + domain : "" ) +
-		( ( secure ) ? ";secure" : "" );
-		
-		// make sure cookies are enabled by getting the cookie we just set.
-		cookies_enabled = Get_Cookie(name);
-	}
-	
-	enableFastAdServing();
-
-	function adRequest()
-	{
-		this.xmlhttp = null;
-		this.divId = "";
-		this.stateChange = adRequest_StateChange;
-		this.loadXMLDoc = adRequest_loadXMLDoc;
-	}
-	var isMozilla = false;
-	function GetXmlHttpObject()
-	{
-		var xmlhttp=null;
-		if (window.XMLHttpRequest)
-		  {
-		  // code for IE7+, Firefox, Chrome, Opera, Safari
-		  	xmlhttp=new XMLHttpRequest();
-		  	isMozilla = true;
-		  }
-		else if (window.ActiveXObject)
-		  {
-		  // code for IE6, IE5 - giving errors, just return an empty object and treat as not supporting scripts
-		 // xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-		  isMozilla = false
-		  
-		  }
-		else
-		  {
-		 // alert("Your browser does not support XMLHTTP!");
-		 	// returning an empty object emulates the <noscript> tag
-		  }	
-		  return xmlhttp;
-	}
-
-	function adRequest_loadXMLDoc(url, index, noScriptContents, areaName, theId)
-	{
-		this.xmlhttp=GetXmlHttpObject();
-		var divId = index + 1;
-		var itemId = theId+".adSlot"+divId
-		
-		if (this.xmlhttp!=null)
-		  {
-			  url = url + "&itemId="+itemId;
-			  this.xmlhttp.owner = this
-			  this.xmlhttp.onreadystatechange=this.stateChange;
-			  this.xmlhttp.open("GET",url,true);
-			  this.divId = itemId
-			  if (isMozilla == true)
-			  {
-			  	this.xmlhttp.send(null);
-			  }
-			  else
-			  {
-				  this.xmlhttp.send();
-			  }			  
-		  }
-		else
-		  {
-		  	var outStr = noScriptContents + "&itemId="+itemId;
-		  	var adSlotName = itemId;
-			var adSlot = document.getElementById(adSlotName);
-			if (adSlot)
-			{
-				adSlot.innerHTML= dti_ad_area_HTMLDecode(outStr);
-			}
-			else
-			{
-				doLog("NON-AJAX: failed to find element: "+adSlotName);
-				
-			}
-		  }
-	}
-
-	function adRequest_StateChange()
-	{
-		var xmlhttp;
-		xmlhttp = this.owner.xmlhttp
-
-		if (xmlhttp != null && xmlhttp != "")
-		{
-			if (xmlhttp.readyState==4)// 4 = "loaded"
-			{
-				if (xmlhttp.status == 200)// 200 = "OK"
-				{
-					var adSlotName = this.owner.divId
-					adSlot = document.getElementById(adSlotName);
-					if (adSlot)
-					{
-						adSlot.innerHTML=xmlhttp.responseText;
-					}
-					else
-					{
-						doLog("AJAX RESPONSE: failed to find div: "+adSlotName);
-					}
-				}
-				else
-				{
-					doLog("AJAX RESPONSE: Problem retrieving data:" + xmlhttp.statusText);
-				}
-				adReqContainer.disposeRequest(this.owner);
-			}
-		}
-	}
-
-	function serveAds(refreshAdRate, numSlots, encodedURL, noScriptContents, areaName, theId)
-	{
-		countDown = refreshAdRate;
-	
-		for (loop = 0; loop < numSlots ;++loop)
-		{
-			var xmlhttpRequest = adReqContainer.getNewRequest();
-			xmlhttpRequest.loadXMLDoc(encodedURL, loop, noScriptContents, areaName, theId);
-		}
-	
-		if (refreshAdRate > 0)
-		{
-			t=setTimeout("serveAds("+ refreshAdRate + ", " + numSlots + ", '" + encodedURL + "', '" + noScriptContents + "', '"+ areaName + "', '" + theId + "')", refreshAdRate * 1000); 
-		}
-	}
-	</script>
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/ad.csp -->
-
-<!--calling the server-->
+<!-- Portfolio Slideshow-->
+<noscript><link rel="stylesheet" type="text/css" href="http://www.slj.com/wp-content/plugins/portfolio-slideshow/css/portfolio-slideshow-noscript.css?ver=1.3.7" /></noscript><script type="text/javascript">/* <![CDATA[ */var psTimeout = new Array();  var psAutoplay = new Array();  var psFluid = new Array(); var psTrans = new Array(); var psSpeed = new Array(); var psNoWrap = new Array();/* ]]> */</script>
+<!--//Portfolio Slideshow-->
 
 
+<!-- Start SHR Open Graph Tags -->
 
+	<!-- Shareaholic Notice: There is neither a featured nor gallery image set -->
 
-
+<!-- END SHR Open Graph Tags -->
 
 <style type="text/css">
-#lightbox
-{
-    background: #333;
-    display: none; 
-    height: 100%;
-    left: 0; 
-    opacity: 0.6;
-    filter: alpha(opacity=60);
-    position: fixed; 
-    top: 0; 
-    width: 100%;
-    height:1500px;
-    z-index: 1200;
+ul.scfw_16px li, ul.scfw_24px li, ul.scfw_32px li, ul.scfw_16px li a, ul.scfw_24px li a, ul.scfw_32px li a {
+	display:inline !important;
+	float:none !important;
+	border:0 !important;
+	background:transparent none !important;
+	margin:0 !important;
+	padding:0 !important;
 }
-#whitebox 
-{
-    background: #fff;
-    display: none;
-    font-size: 12pt;    
-    left: 50%;
-    margin-left: -300px;
-    padding: 10px 10px 0px 10px;
-    top:10px;
-    position: absolute;
-    text-align: center;     
-    z-index: 1300;
-    vertical-align:middle;
+ul.scfw_16px li {
+	margin:0 2px 0 0 !important;
 }
-#roadblock 
-{
-    background: #fff;
-    display: none;
-    font-size: 12pt;   
-    left: 45.5%;   
-    margin-left: -300px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    width:660px;
-    position: absolute;
-    text-align: center;        
-    z-index: 1300;
-    vertical-align:middle;
+ul.scfw_24px li {
+	margin:0 3px 0 0 !important;
 }
-<!--
-.skipad {
-display:block;
-clear:both;
-text-align:center;
-width:658px;
+ul.scfw_32px li {
+	margin:0 5px 0 0 !important;
+}
+ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.scfw_32px li:before {
+	content:none !important;
+}
+.scfw img {
+	float:none !important;
+}
+</style>	
+									
+				<script language="javascript">
+						
+					jQuery(document).ready(function() {		
+									
+						jQuery().tcInternAds({
+							title: "Advertisement",
+							closeable: true,
+							url: 'http://blog.schoollibraryjournal.com/adSLJ.html',
+							timeout: '20',
+							wait: '720',
+							delay: '0'
+						});
+						
+					});
+					
+				</script>
+	
+		<link rel="pingback" href="http://www.slj.com/xmlrpc.php">
 
-}-->
+<!-- Dynamic Widgets v1.5.2 by QURL - http://www.qurl.nl //-->
+<style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://www.slj.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
+@import url("http://www.slj.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
+/* ]]> */
+</style><style type="text/css">#header { background: url(http://www.slj.com/wp-content/uploads/2012/08/95X983_final1.gif) no-repeat; }</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #5A95C4; }
 </style>
+<!-- Google Analytics Tracking by Google Analyticator 6.2: http://ronaldheft.com/code/analyticator/ -->
 <script type="text/javascript">
-function getCookie(c_name)
-{
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    {
-    c_start=c_start + c_name.length+1;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length;
-    return unescape(document.cookie.substring(c_start,c_end));
-    }
-  }
-return "";
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-16325127-1']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-1872221973353849");
+GS_googleEnableAllServices();
+</script>
+
+<script language="JavaScript">
+GA_googleAddAttr("site", "SLJ");
+
+
+	GA_googleAddAttr("Page", "privacy-policy");
+	
+	
+</script>
+
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-1872221973353849", "SLJHalfpage300x600");
+GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90");
+GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90_2");
+GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250");
+GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250_2");
+GA_googleAddSlot("ca-pub-1872221973353849", "SLJTicker920x25");
+</script>
+
+
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+		<style type="text/css">
+			#genesis-slider, #slides, .genesis-slider-wrap { height: 220px; width: 500px; }
+			.slide-excerpt { width: 300px; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			div.slider-next, div.slider-previous { top: 80px; }
+		</style><link rel="alternate" type="application/rss+xml" title="School Library Journal » Feed" href="http://www.slj.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="School Library Journal » Comments Feed" href="http://www.slj.com/comments/feed/">
+<link rel="canonical" href="http://www.slj.com/about-us/privacy-policy/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.slj.com/xmlrpc.php?rsd">
+
+<!-- Portfolio Slideshow-->
+<noscript><link rel="stylesheet" type="text/css" href="http://www.slj.com/wp-content/plugins/portfolio-slideshow/css/portfolio-slideshow-noscript.css?ver=1.3.7" /></noscript><script type="text/javascript">/* <![CDATA[ */var psTimeout = new Array();  var psAutoplay = new Array();  var psFluid = new Array(); var psTrans = new Array(); var psSpeed = new Array(); var psNoWrap = new Array();/* ]]> */</script>
+<!--//Portfolio Slideshow-->
+
+
+<!-- Start SHR Open Graph Tags -->
+
+	<!-- Shareaholic Notice: There is neither a featured nor gallery image set -->
+
+<!-- END SHR Open Graph Tags -->
+
+<style type="text/css">
+ul.scfw_16px li, ul.scfw_24px li, ul.scfw_32px li, ul.scfw_16px li a, ul.scfw_24px li a, ul.scfw_32px li a {
+	display:inline !important;
+	float:none !important;
+	border:0 !important;
+	background:transparent none !important;
+	margin:0 !important;
+	padding:0 !important;
 }
-
-function setCookie(c_name,value,expiredays)
-{
-var exdate=new Date();
-exdate.setDate(exdate.getDate()+expiredays);
-var mycookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : ";expires="+exdate.toUTCString());
-mycookie +=" ;javahere=yes; path=/"; 
-document.cookie = mycookie;
+ul.scfw_16px li {
+	margin:0 2px 0 0 !important;
 }
-
-function checkCookie()
-{
-username=getCookie('username');
-if (username!=null && username!="")
-  {  
-	hideAd()
-  }
-else
-  {
-   var currentTime = new Date();
-   var aday = new Array();
-   
-  //Edit Dates Here
-   aday[0] = 00;
-   aday[1] = 18;
-   aday[2] = 19;
-   aday[3] = 26;
-   aday[4] = 11;
-   aday[5] = 25;
-   aday[6] = 17;
-
-
-   
-   for(i=0;i!=aday.length;i++){
-  	if(aday[i]==currentTime.getDate()){ 
-      username="yes";
-      if (username!=null && username!="")
-        {    	 
-             setCookie('username',username,1);
-             showAd(); 
-             var timedisplay = 16000;                         																																																																																																																																																																																																																																												setTimeout("document.getElementById('whitebox').style.display='none';document.getElementById('roadblock').style.display='none';document.getElementById('lightbox').style.display='none';",+ timedisplay );             
-        }
-     }
-    }          
-  }
-}  
-function hideAd()
-{
-	document.getElementById('whitebox').style.display='none';
-	document.getElementById('roadblock').style.display='none';
-	document.getElementById('lightbox').style.display='none';
+ul.scfw_24px li {
+	margin:0 3px 0 0 !important;
 }
-function showAd()
-{
-     document.getElementById('whitebox').style.display='block';
-	 document.getElementById('roadblock').style.display='block';
-	 document.getElementById('lightbox').style.display='block';
-} 
+ul.scfw_32px li {
+	margin:0 5px 0 0 !important;
+}
+ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.scfw_32px li:before {
+	content:none !important;
+}
+.scfw img {
+	float:none !important;
+}
+</style>	
+									
+				<script language="javascript">
+						
+					jQuery(document).ready(function() {		
+									
+						jQuery().tcInternAds({
+							title: "Advertisement",
+							closeable: true,
+							url: 'http://blog.schoollibraryjournal.com/adSLJ.html',
+							timeout: '20',
+							wait: '720',
+							delay: '0'
+						});
+						
+					});
+					
+				</script>
+	
+		<link rel="pingback" href="http://www.slj.com/xmlrpc.php">
+
+<!-- Dynamic Widgets v1.5.2 by QURL - http://www.qurl.nl //-->
+<style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://www.slj.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
+@import url("http://www.slj.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
+/* ]]> */
+</style><style type="text/css">#header { background: url(http://www.slj.com/wp-content/uploads/2012/08/95X983_final1.gif) no-repeat; }</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #5A95C4; }
+</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.2: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-16325127-1']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 </script>
 </head>
-<body onload="checkCookie();">
-<span id="NOINDEX" style="z-index:1000;">
-<div id="lightbox"></div>
-
-    <div id="whitebox">
-        <!-- Ad tag should be placed here-->        
-                   
-        <!-- Ad tag ends-->         
-                <div id="roadblock">     
-                <div class="content">
-                    <div class="skipad">
-                        <center><a title="" href="javascript:void(0)" onclick="document.getElementById('whitebox').style.display='none';document.getElementById('roadblock').style.display='none';document.getElementById('lightbox').style.display='none'" rel="nofollow">SKIP THIS AD &gt;&gt;</a></center>
-                    </div>
-                    <br>
-                    <br>
-                    <p class="rbadv">ADVERTISEMENT<br>
-                        <span class="rbtext">You will be redirected to your destination in a few seconds.</span>
-                    </p>
-                </div>            
-        <script language="JavaScript" type="text/javascript">
-        var timedisplay = 16000;                         																																																																																																																																																																																																																																												setTimeout("document.getElementById('whitebox').style.display='none';document.getElementById('roadblock').style.display='none';document.getElementById('lightbox').style.display='none';",+ timedisplay );
-        </script>       
-                </div><!--roadblock -->
-    </div><!--whitebox-->    
-</span><!-- noindex -->
-
-
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/ad.csp, took .006548 -->
-
-<!-- CSS -->
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/slj.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/CharacterStyles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/ParagraphStyles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/anylinkmenu.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/PagingAreas.css" media="screen">
-<script type="text/javascript" src="/csp/cms/sites/SLJ/assets/scripts/PagingAreas.js"></script>
-
-
-
-<!--<dti:file:include base="assets" file="/includes/testads.csp">-->
-
-<!-- Google Analytics Code-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-16325127-1");
-pageTracker._setDomainName(".schoollibraryjournal.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- Google Analytics Code End-->
-
-<!-- Special Ad Start -->
-<script type="text/javascript">
-GA_googleAddAttr("site", "SLJ");
-
-              
-               
-        </script>
-
-
-<!-- Special Ad End --> 
-
-<!--Double Click Ad -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJ_webcasts");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<!--end Double Click Ad -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-
-<script type="text/javascript">
-GA_googleAddAttr("Site", "SLJ");
-
-              
-               
-        </script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJHalfpage300x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJSkyscraper160x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJTicker920x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJBoomBox336x280");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJPushdownExpandable983x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJSearchButton88x31");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-
-<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
-<script src="http://vjs.zencdn.net/c/video.js"></script>
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/head.csp, took .007312 -->
-
-
-
-
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/wrapper.csp -->
-<script type="text/javascript">
-GA_googleAddAttr("site", "SLJ");
-
-              
-               
-        </script><!-- JEP DDI, 061420010, NEwsletter Link update-->
-
-<div id="wrapper">
-<!--script language="JavaScript" type="text/javascript">
-  draw_0X0MN();
-</script>
--->
-<!-- END BURST CODE -->
-<!-- Google Analytics Code-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-16325127-1");
-pageTracker._setDomainName(".schoollibraryjournal.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- Google Analytics Code End-->
-<!--- BLOG RSS FEED --->
-<!-- Special Ad Start -->
-<script type="text/javascript">
-GA_googleAddAttr("site", "SLJ");
-
-              
-               
-        </script>
-
-
-<!-- Special Ad End --> 
-
-<!--Double Click Ad -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJ_webcasts");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<!--end Double Click Ad -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJHalfpage300x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJSkyscraper160x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJTicker920x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJBoomBox336x280");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJPushdownExpandable983x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJSearchButton88x31");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<script type="text/javascript">
-GA_googleAddAttr("site", "SLJ");
-
-              
-               
-        </script>
-<!---BLOG RSS FEED END--->
-
-
-<meta name="verify-v1" content="zJ5ITkWHl1JmnlxvaUYZUqtDjKRnX9x0LzreGSuYxU4=">
-
-
-    
-<title>Libraries, Schools Join In - School Library Journal</title>
-
-<meta name="robots" content="index, follow">
-<meta http-equiv="pragma" content="no-cache">
-<meta name="copyright" content="MediaSource, Inc.">
-
-<meta name="language" content="English">
-<meta name="MSSmartTagsPreventParsing" content="TRUE">
-<meta name="distribution" content="Global">
-<meta name="rating" content="General">
-<meta name="expires" content="Never">
-<meta name="revisit-after" content="7 Days">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Language" content="en-us">
-
-<meta name="rbindustry" content="Publishing">
-<meta name="rbbuckettype" content="article">
-<meta name="rbportal" content="rbius">
-<meta name="rbpubid" content="SLJ">
-<meta name="rbpubname" content="School Library Journal">
-
-<meta name="rbtitle" content="Libraries, Schools Join In&nbsp;Autism Awareness Month">
-<meta name="rbtaxonomy" content="School Library Journal/Topics/People#School Library Journal/Homepage - Top Stories">
-<meta name="rbstring1" content="">
-<meta name="rbstring2" content="">
-<meta name="rbstring3" content="">
-<meta name="rbstring4" content="">
-<meta name="rbint1" content="">
-<meta name="rbnib2" content="">
-
-
-
-  
-
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/slj.css">
-<link rel="shortcut icon" type="image/x-icon" href="/csp/cms/sites/SLJ/assets/images/favIconSLJ.ico">
-
-
-<script language="JavaScript" src="/csp/cms/sites/SLJ/assets/scripts/slj.js" type="text/javascript"></script>
-<script type="text/javascript" src="/csp/cms/sites/SLJ/assets/scripts/swfobject.js"></script>
-
-
-
-<div align="center"></div>
-<div id="wrapper">
-
-<!-- BEGIN RICH-MEDIA Reed Business CODE 
-<script language="JavaScript" type="text/javascript">
-  draw_0X0MN();
-</script>
- END BURST CODE -->
-
-<div id="headerContainer">
-<span class="noindex">
-<div id="headerLogin">
-<div style="position: absolute; top: 4px; left: 10px;">
-	<!--<a href="http://mobile.schoollibraryjournal.com/" class="" rel="nofollow">School Library Journal Mobile</a>-->
-</div>
- <!--		<dti:user:logged:in>
-		   Hello 
-        	 <dti:user:info fieldType="personalInfo" field="FirstName"> 
-   			 <dti:user:info fieldType="personalInfo" field="LastName"> 
-        	
-        	<a href="#(gPublication.getPublicationPath())#/usermanagement/updateprofile.csp?section=#(gSection.name)#" style="color:#fff;">My Account</a> 
-			| <a class="thickbox" href="#(gPublication.getPublicationPath())#/usermanagement/signout.csp?height=220&width=670" title="Log Out - Library Journal">Log Out</a>
-			<dti:else>
-			Hello, Guest
-			| <a class="thickbox" href="#(gPublication.getPublicationPath())#/usermanagement/signin.csp?height=225&width=675" title="Log In - Library Journal">Log In</a> | <a href="#(gPublication.getPublicationPath())#/usermanagement/signup.csp?s=nonstory">Register</a> 
-      </dti:user:logged:in>-->
-
-<a style="vertical-align:top;float:left; padding-left: 10px;" href="http://www.schoollibraryjournal.com/csp/cms/sites/SLJ/info/SLJmyaccount.csp">Log In to your Account</a>
-<!-- start of Login/Welcome field --><!--<a href="http://www.schoollibraryjournal.com/login.asp?regopt=logout">Log In</a>--><!-- end of Login/Welcome field -->&nbsp;&nbsp;<!--|-->&nbsp;&nbsp;<!-- start of Register/Logout link --><!--<a href="http://www.schoollibraryjournal.com/subscribe.asp?go=profile">Register</a>--><!-- end of Register/Logout link -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- start of newsletter/subscribe link -->
-<!--<a style=" text-align:center; padding-right:248px; text-align:center; vertical-align:top;" href="http://reg.accelacomm.com/servlet/Frs.frs?Script=/LP/51113312/reg&Context=START">Search Reviews</a>-->
-
-
-<a href="http://www.schoollibraryjournal.com/csp/cms/sites/SLJ/Info/newsletterSubscription.csp"><img src="/csp/cms/sites/SLJ/assets/images/sljnewnlheader.gif" border="0" align="absmiddle" alt="Free Newsletter Subscription"></a><!-- end of newsletter/subscribe link -->
-
-</div><!--//headerLogin-->
-<div id="header">
-<div id="mainLogo"><a href="/csp/cms/sites/SLJ/Home/index.csp" class="SLJLogo">School Library Journal</a></div>
-<div id="leaderboard"><!--<span class="adtext"><img src="#(gPublication.getPublicationPath())#/assets/images/rbius_adv_top.gif" width="20" alt="Advertisement" align="left" /></span>-->
-
-
-<!-- BEGIN RICH-MEDIA NETWORK CODE -->
-<!-- <dti:ads:area id="69" name="SLJLeaderboard728x90"> -->
+<body class="page page-id-9756 page-child parent-pageid-9192 page-template-default custom-background header-image content-sidebar">
+<div id="wrap">
+	<div id="topnav">
+	<div class="topnav-left">
+	<p>September 20, 2012</p>
+	</div><!-- end .topnav-left -->
+	<div class="topnav-right">
+	<ul id="menu-top-about-menu" class="topnav superfish"><li id="menu-item-12142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12142"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDST">Subscribe to SLJ</a></li>
+<li id="menu-item-11821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11821"><a href="https://shop.mediasourceinc.com/Login.aspx?t=login">Manage Your Account</a></li>
+<li id="menu-item-9803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9803"><a href="http://www.slj.com/about-us/contact-us/">Contact Us</a></li>
+<li id="menu-item-9599" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-9599"><a href="http://www.slj.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-9600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9600"><a href="http://www.slj.com/about-us/submissions/">Submissions</a></li>
+	<li id="menu-item-9799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9799"><a href="http://www.slj.com/about-us/information-for-reviewers/">Information for Reviewers</a></li>
+	<li id="menu-item-9601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9601"><a href="http://www.slj.com/about-us/advertising-information/">Advertising Information</a></li>
+	<li id="menu-item-9784" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9756 current_page_item menu-item-9784"><a href="http://www.slj.com/about-us/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-9783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9783"><a href="http://www.slj.com/about-us/comment-policy/">Comment Policy</a></li>
+	<li id="menu-item-9598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9598"><a href="http://www.slj.com/about-us/terms-of-use/">Terms of Use</a></li>
+</ul>
+</li>
+</ul>	</div><!-- end .topnav-right -->
+	</div><!-- end #topnav -->
+<div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="http://www.slj.com/" title="School Library Journal">School Library Journal</a></p><p id="description">The world's largest reviewer of books, multimedia, and technology for children and teens</p></div><!-- end #title-area --><div class="widget-area"><div id="text-17" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div id="cse-search-form">
+<!-- Place this tag where you want the search box to render -->
+<gcse:searchbox-only></gcse:searchbox-only></div></div>
+		</div></div>
+</div><!-- end .widget-area --></div><!-- end .wrap --></div><!--end #header--> <div style="background:#EFECE0; margin-bottom: 0px" align="center">
 <!-- SLJLeaderboard728x90 -->
 <script type="text/javascript">
 GA_googleFillSlot("SLJLeaderboard728x90");
-</script>	
-<!-- END BURST CODE -->
-
-
-</div><!-- end leaderboard -->
-</div><!-- end header -->
-
-<div id="navbarContainer">
-<ul id="nav">
-
-<li id="btn1"><a href="/csp/cms/sites/SLJ/Home/index.csp">Home</a></li>
-
-<li id="btn2"><a name="print">Print Issue</a>
-	<ul> 
-	<li><a href="http://www.schoollibraryjournal.com/slj/articlereview/894394-451/school_library_journal_may_2012.html.csp ">Latest Issue</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/PrintIssue/Archive.csp">Archive</a></li>
-   
-                 <li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDST">Subscribe</a></li> 
-
-
-	</ul></li>
-
-     
-<li id="btn3"><a name="reviews">Reviews</a>
-	<ul> 
-	<li><a href="http://www.schoollibraryjournal.com/csp/cms/sites/SLJ/Info/ReviewsCenter.csp">Reviews Center</a></li> 
-    <li><a href="/csp/cms/sites/SLJ/Reviews/PreToGrade4/index.csp">Preschool to Grade 4</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/Reviews/Grade5AndUp/index.csp">Grades 5 and Up</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Reviews/GraphicNovels/index.csp">Graphic Novels</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Reviews/AdultBooks/index.csp">Adult Books 4 Teens</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Reviews/ProfessionalReading/index.csp">Professional Reading</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Reviews/ReferenceBooks/index.csp">Reference Books</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Reviews/DigitalResources/index.csp">Digital Resources</a></li>
-<li><a href="/csp/cms/sites/SLJ/Reviews/Multimedia/index.csp">Multimedia</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Reviews/Spanish/index.csp">Spanish</a></li>
-<li><a href="/csp/cms/sites/SLJ/Reviews/ReviewIndexes/index.csp">Cumulative Indexes</a></li>
-	</ul></li>
-
-
-<li id="btn4"><a name="articles">Articles</a>
-
-	<ul> 
-<li><a href="/csp/cms/sites/SLJ/Articles/Interviews/index.csp">Interviews</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/Awards/index.csp">Awards</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Articles/Books/index.csp">Books</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/Censorship/index.csp">Censorship</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/Articles/Certification/index.csp">Certification</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/CollectionDevelopment/index.csp">Collection Development</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/Copyright/index.csp">Copyright</a></li> 
-<li><a href="/csp/cms/sites/SLJ/Articles/EarlyLearning/index.csp">Early Learning</a></li>
-		<li><a href="/csp/cms/sites/SLJ/Articles/Education/index.csp">Education</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Articles/Funding/index.csp">Funding</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/InfoLiteracy/index.csp">Info Literacy</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/K8/index.csp">K-8</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/ProfessionalDevelopment/index.csp">Professional Development</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/Surveys/index.csp">Surveys</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/ATechnology/index.csp">Technology</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/Teens/index.csp">Teens</a></li>
-
-	</ul></li>
-
-<li id="btn5"><a name="Technology">Technology</a>
-
-	<ul> 
-	<li><a href="/csp/cms/sites/SLJ/Technology/DigitalContent/index.csp">Digital Content </a></li>
-	<li><a href="/csp/cms/sites/SLJ/Technology/EducationalTechnology/index.csp">Educational Technology</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/Technology/Gadgets/index.csp">Gadgets</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Technology/Gaming/index.csp">Gaming</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Technology/ToolsAndTrends/index.csp">Library Tools and Trends</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Technology/Web20/index.csp">Web 2.0</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/Technology/WebSites/index.csp">Web Sites</a></li> 
-<li><a href="/csp/cms/sites/SLJ/Technology/WebCasts/index.csp">Webcasts</a></li>
-<li><a href="http://www.ebook-summit.com">ebook Summit</a></li>
- <li><a href="http://www.thedigitalshift.com/">The Digital Shift</a></li> 	
-    </ul></li>
-
-<li id="btn6"><a name="Supplements">Supplements</a>
-  <ul> 
- <!--   <li>
-
-<a href="#(gPublication.getPublicationPath())#/Supplements/CurriculumConnections/index.csp">Curriculum Connections</a></li>-->
-    <li><a href="http://www.schoollibraryjournal.com/slj/supplements/seriesmadesimple/894064-363/series_made_simple_-_spring.html.csp">Series Made Simple</a></li>  
-  </ul>
+</script>
+</div>
+<div id="nav"><div class="wrap"><div id="megaMenu" class="megaMenuContainer megaMenu-nojs megaFullWidth wpmega-preset-grey-white megaMenuHorizontal megaMenuOnClick wpmega-withjs wpmega-noconflict"><ul id="megaUber" class="megaMenu"><li id="menu-item-9263" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-0 ss-nav-menu-item-depth-0 ss-nav-menu-reg ss-nav-menu-highlight"><a href="/latest-posts/"><span class="wpmega-link-title">Latest Posts</span></a></li>
+<li id="menu-item-9843" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-1 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-fullWidth ss-nav-menu-mega-alignCenter ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">Collections</span></span>
+<ul class="sub-menu sub-menu-1">
+	<li id="menu-item-9179" class="bookverdict-sidebar menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1 ss-nav-menu-highlight ss-nav-menu-notext ss-nav-menu-nolink ss-sidebar"><div class="wpmega-nonlink wpmega-widgetarea ss-colgroup-1"><ul id="wpmega-ubermenu-widget-area-1"><li id="text-15" class="widget widget_text">			<div class="textwidget"><div id="content-inner"><div class="log-sign clearfix"><div class="log-in"><h2>Log Into your Book Verdict Account</h2><form action="http://www.bookverdict.com/process-login.xqy" method="post">
+		<label for="login-email">Username</label>
+		<input type="text" name="login-email" id="login-email">
+		<label for="login-pass">Password</label>
+		<input type="password" name="login-pass" id="login-pass">
+		<p class="forget"><a href="https://shop.mediasourceinc.com/RequestLogin.aspx">Forget Your Password?</a></p>
+		<!--	<input type="checkbox" name="login-stay-in" id="login-stay-in" value="yes"  />
+							<label for="login-stay-in">Keep me signed in on this computer</label> -->
+		<input type="submit" class="red-btn" value="Log In">
+	      </form></div></div>
+		</div></div></li>
+</ul><div class="clear"></div></div></li>
+	<li id="menu-item-9844" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1 ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">Reviews</span></span>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9840" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/preschool-to-grade-4/"><span class="wpmega-link-title">Preschool to Grade 4</span></a></li>
+		<li id="menu-item-9837" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/grades-5-up/"><span class="wpmega-link-title">Grades 5 &amp; Up</span></a></li>
+		<li id="menu-item-9833" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/adult-books-4-teens/"><span class="wpmega-link-title">Adult Books 4 Teens</span></a></li>
+		<li id="menu-item-9842" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/reference-reviews/"><span class="wpmega-link-title">Reference</span></a></li>
+		<li id="menu-item-9835" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/audio-reviews/"><span class="wpmega-link-title">Audio</span></a></li>
+		<li id="menu-item-9818" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/multimedia-reviews/"><span class="wpmega-link-title">Multimedia Reviews</span></a></li>
+</ul></li><li class="menu-item ss-nav-menu-item-depth-1 sub-menu-newcol"><span class="um-anchoremulator">&nbsp;</span><ul class="sub-menu sub-menu-2">		<li id="menu-item-9838" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/graphic-novel-reviews/"><span class="wpmega-link-title">Graphic Novel Reviews</span></a></li>
+		<li id="menu-item-9817" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/spanish/"><span class="wpmega-link-title">Spanish</span></a></li>
+		<li id="menu-item-9841" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/professional-reading/"><span class="wpmega-link-title">Professional Reading</span></a></li>
+		<li id="menu-item-9834" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/apps/"><span class="wpmega-link-title">Apps</span></a></li>
+		<li id="menu-item-9836" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/digital-resources/"><span class="wpmega-link-title">Digital Resources</span></a></li>
+		<li id="menu-item-9819" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/ya-reviews/"><span class="wpmega-link-title">YA reviews</span></a></li>
+		<li id="menu-item-9839" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-highlight"><a href="http://www.slj.com/category/books-media/reviews/pick-of-the-day/"><span class="wpmega-link-title">Pick of the Day</span></a></li>
+	</ul>
 </li>
-
-<li id="btn7"><a name="extra">Newsletters</a>
-	<ul> 
-	<li><a href="/csp/cms/sites/SLJ/Newsletters/ExtraHelpingArchive/index.csp">Extra Helping</a></li> 
-        <li><a href="/csp/cms/sites/SLJ/Newsletters/CCNewslettersArchive/index.csp">Curriculum Connections</a></li> 
-        <li><a href="/csp/cms/sites/SLJ/Newsletters/SLJTeensArchive/index.csp">SLJTeen</a></li> 
-
-<li><a href="/csp/cms/sites/SLJ/Info/newsletterSubscription.csp">Sign Up</a></li> 
-	</ul></li>
-
-
-<li id="btn8"><a>Blogs</a>
-	<ul> 
-	<li><a href="http://blog.schoollibraryjournal.com/teacozy/">A Chair, A Fireplace &amp; A Tea Cozy</a></li> 
-    <li><a href="http://blog.schoollibraryjournal.com/afuse8production/">A Fuse #8 Production</a></li> 
-    <li><a href="http://blog.schoollibraryjournal.com/adult4teen/">Adult Books 4 Teens</a></li>
-    <li><a href="http://battleofthebooks.slj.com/">Battle of the Books</a></li> 
-	<li><a href="http://blog.schoollibraryjournal.com/bowllansblog/">Bowllan's Blog</a></li> 
-	<li><a href="http://blogs.slj.com/connect-the-pop/">Connect the Pop</a></li> 
-	<!--<li><a href="http://www.schoollibraryjournal.com/blog/840000284.html">Digital Reshift</a></li>-->
- 	<li><a href="http://blog.schoollibraryjournal.com/goodcomicsforkids/">Good Comics for Kids</a></li>
-	<li><a href="http://blog.schoollibraryjournal.com/heavymedal/">Heavy Medal:A Mock Newbery Blog</a></li>
-	<li><a href="http://blogs.slj.com/bank-street-irma-black-award/">Irma Black Awards</a></li>
-	<li><a href="http://blogs.slj.com/make-some-noise/">Make Some Noise</a></li> 
-	<li><a href="http://blog.schoollibraryjournal.com/neverendingsearch/">NeverEnding Search</a></li> 
-	<li><a href="http://blog.schoollibraryjournal.com/nonfictionmatters/">Nonfiction Matters</a></li> 
-    <li><a href="http://blog.schoollibraryjournal.com/practicallyparadise/">Practically Paradise</a></li>
-     <li><a href="http://blog.schoollibraryjournal.com/touchandgo/">Touch and Go</a></li>
-    <li><a href="http://blog.schoollibraryjournal.com/allblog.php">All Blogs</a></li>
-
-    <!--<li><a href="#(gPublication.getPublicationPath())#/Info/blogs.csp">All Blogs</a></li>-->
-	</ul></li>
-	<li id="btn9"><a href="/csp/cms/sites/SLJ/Info/learnrss.csp">RSS</a></li> 
-	<!--<li id="btn10"><a href="http://www.schoollibraryjournal.com/affiliate/27784.html">Links</a></li>-->
-	<li id="btn11"><a href="http://jobs.libraryjournal.com/">Jobs</a></li> 
-
-
-
-
-
+	<li id="menu-item-9845" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1 ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">Topics</span></span>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9822" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/"><span class="wpmega-link-title">Books &amp; Media</span></a>
+		<ul class="sub-menu sub-menu-3">
+			<li id="menu-item-9824" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/books-media/authors-illustrators/"><span class="wpmega-link-title">Authors &amp; Illustrators</span></a></li>
+			<li id="menu-item-9830" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/books-media/publishing/"><span class="wpmega-link-title">Publishing</span></a></li>
+			<li id="menu-item-9846" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/reference/"><span class="wpmega-link-title">Reference</span></a></li>
+			<li id="menu-item-9827" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/books-media/multimedia/"><span class="wpmega-link-title">Multimedia</span></a>
+			<ul class="sub-menu sub-menu-4">
+				<li id="menu-item-9823" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-4"><a href="http://www.slj.com/category/books-media/audio/"><span class="wpmega-link-title">Audio</span></a></li>
+				<li id="menu-item-9820" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-4"><a href="http://www.slj.com/category/books-media/video/"><span class="wpmega-link-title">video</span></a></li>
+				<li id="menu-item-9821" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-4"><a href="http://www.slj.com/category/books-media/video-games/"><span class="wpmega-link-title">Video Games</span></a></li>
+			</ul>
+</li>
+		</ul>
+</li>
+</ul></li><li class="menu-item ss-nav-menu-item-depth-1 sub-menu-newcol"><span class="um-anchoremulator">&nbsp;</span><ul class="sub-menu sub-menu-2">		<li id="menu-item-9826" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/graphic-novels/"><span class="wpmega-link-title">Graphic Novels</span></a></li>
+		<li id="menu-item-9850" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/reviews/spanish/"><span class="wpmega-link-title">Spanish</span></a></li>
+		<li id="menu-item-9828" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/nonfiction/"><span class="wpmega-link-title">Nonfiction</span></a></li>
+		<li id="menu-item-9829" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/picture-books/"><span class="wpmega-link-title">Picture Books</span></a></li>
+		<li id="menu-item-9847" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/ebooks/"><span class="wpmega-link-title">Ebooks</span></a></li>
+		<li id="menu-item-9848" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/technology/apps-tech/"><span class="wpmega-link-title">Apps</span></a></li>
+		<li id="menu-item-9849" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/teens-ya/"><span class="wpmega-link-title">Teens &amp; YA</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-9825" class="coll-dev-menu menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1 ss-nav-menu-verticaldivision"><a href="http://www.slj.com/category/books-media/collection-development/"><span class="wpmega-link-title">Collection Development</span></a>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9831" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/read-watch-alikes/"><span class="wpmega-link-title">Read- &amp; Watch-Alikes</span></a></li>
+	</ul>
+</li>
 </ul>
-</div><!-- end navbarContainer-->
+</li>
+<li id="menu-item-9174" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-fullWidth ss-nav-menu-mega-alignCenter ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">In the Field</span></span>
+<ul class="sub-menu sub-menu-1">
+	<li id="menu-item-9869" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/librarians/"><span class="wpmega-link-title">Librarians &amp; Media Specialists</span></a>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9878" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/careers/"><span class="wpmega-link-title">Careers</span></a>
+		<ul class="sub-menu sub-menu-3">
+			<li id="menu-item-9856" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-3"><a href="http://jobs.libraryjournal.com/"><span class="wpmega-link-title">Job Zone</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-9874" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/public-libraries/"><span class="wpmega-link-title">Public Libraries</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-9858" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/books-media/"><span class="wpmega-link-title">Books &amp; Media</span></a>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9859" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/collection-development/"><span class="wpmega-link-title">Collection Development</span></a></li>
+		<li id="menu-item-9862" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/ebooks/"><span class="wpmega-link-title">Ebooks</span></a></li>
+		<li id="menu-item-9857" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/awards/"><span class="wpmega-link-title">Awards &amp; Contests</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-9871" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/organizations/"><span class="wpmega-link-title">Organizations &amp; Associations</span></a>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9872" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/organizations/ala/"><span class="wpmega-link-title">American Library Association (ALA)</span></a>
+		<ul class="sub-menu sub-menu-3">
+			<li id="menu-item-9873" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/organizations/ala/aasl/"><span class="wpmega-link-title">American Association of School Librarians (AASL)</span></a></li>
+			<li id="menu-item-9877" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/organizations/ala/yalsa/"><span class="wpmega-link-title">Young Adult Library Services Association (YALSA)</span></a></li>
+			<li id="menu-item-9880" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/organizations/ala/alsc/"><span class="wpmega-link-title">Association for Library Service to Children (ALSC)</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-9863" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/events/"><span class="wpmega-link-title">Events</span></a>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9864" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/events/ala-conferences/"><span class="wpmega-link-title">ALA Conferences</span></a></li>
+		<li id="menu-item-9865" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/events/bea/"><span class="wpmega-link-title">BEA</span></a></li>
+		<li id="menu-item-9879" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="http://./wordpress/tag/day-of-dialog/"><span class="wpmega-link-title">Day of Dialog</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-9860" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1 ss-nav-menu-verticaldivision"><a href="http://www.slj.com/category/budgets-funding/"><span class="wpmega-link-title">Budgets &amp; Funding</span></a></li>
+	<li id="menu-item-9861" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/early-learning/"><span class="wpmega-link-title">Early learning</span></a></li>
+	<li id="menu-item-9866" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/industry-news/"><span class="wpmega-link-title">Industry News</span></a></li>
+	<li id="menu-item-9868" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/legislation/"><span class="wpmega-link-title">Legislation</span></a></li>
+	<li id="menu-item-9875" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/research/"><span class="wpmega-link-title">Research</span></a></li>
+</ul>
+</li>
+<li id="menu-item-9175" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-3 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-fullWidth mega-colgroup mega-colgroup-3 ss-nav-menu-mega-alignCenter ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">In the Library &amp; Classroom</span></span>
+<ul class="sub-menu sub-menu-1">
+	<li id="menu-item-9898" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1 ss-nav-menu-notext ss-nav-menu-nolink">
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9887" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/librarians/"><span class="wpmega-link-title">Librarians &amp; Media Specialists</span></a></li>
+		<li id="menu-item-11363" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/standards/common-core/"><span class="wpmega-link-title">Common Core</span></a></li>
+		<li id="menu-item-9881" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/"><span class="wpmega-link-title">Books &amp; Media</span></a></li>
+		<li id="menu-item-9886" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/ebooks/"><span class="wpmega-link-title">Ebooks</span></a></li>
+		<li id="menu-item-9890" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/reference/"><span class="wpmega-link-title">Reference</span></a></li>
+		<li id="menu-item-9891" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/reviews/digital-resources/"><span class="wpmega-link-title">Digital Resources</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-9899" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1 ss-nav-menu-notext ss-nav-menu-nolink">
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9892" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/schools/"><span class="wpmega-link-title">Schools &amp; Districts</span></a>
+		<ul class="sub-menu sub-menu-3">
+			<li id="menu-item-9889" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/public-libraries/"><span class="wpmega-link-title">Public Libraries</span></a></li>
+			<li id="menu-item-9897" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-3"><a href="http://www.slj.com/category/programs/"><span class="wpmega-link-title">Programs &amp; Programming</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-9894" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/technology/"><span class="wpmega-link-title">Technology</span></a></li>
+		<li id="menu-item-9896" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/video-games/"><span class="wpmega-link-title">Video Games</span></a></li>
+		<li id="menu-item-9895" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/teens-ya/"><span class="wpmega-link-title">Teens &amp; YA</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-9900" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1 ss-nav-menu-notext ss-nav-menu-nolink">
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9882" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/budgets-funding/"><span class="wpmega-link-title">Budgets &amp; Funding</span></a></li>
+		<li id="menu-item-9883" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/buildings-design/"><span class="wpmega-link-title">Buildings &amp; Design</span></a></li>
+		<li id="menu-item-9884" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/standards/"><span class="wpmega-link-title">Curricula, Standards &amp; Lesson Plans</span></a></li>
+		<li id="menu-item-9893" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/students/"><span class="wpmega-link-title">Students</span></a></li>
+		<li id="menu-item-9885" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/early-learning/"><span class="wpmega-link-title">Early Learning</span></a></li>
+		<li id="menu-item-9888" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/literacy/"><span class="wpmega-link-title">Literacy</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-9177" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-4 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-alignCenter"><a href="http://www.slj.com/category/technology/"><span class="wpmega-link-title">Technology</span></a>
+<ul class="sub-menu sub-menu-1">
+	<li id="menu-item-9906" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-1"><a href="http://www.slj.com/category/technology/"><span class="wpmega-link-title">Technology</span></a>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9903" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/technology/apps-tech/"><span class="wpmega-link-title">Apps</span></a></li>
+		<li id="menu-item-9904" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/technology/digital-divide/"><span class="wpmega-link-title">Digital Divide</span></a></li>
+		<li id="menu-item-9905" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/technology/mobile/"><span class="wpmega-link-title">Mobile</span></a></li>
+		<li id="menu-item-9907" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/technology/social-media-technology/"><span class="wpmega-link-title">Social Media</span></a></li>
+</ul></li><li class="menu-item ss-nav-menu-item-depth-1 sub-menu-newcol"><span class="um-anchoremulator">&nbsp;</span><ul class="sub-menu sub-menu-2">		<li id="menu-item-9908" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/technology/software-technology/"><span class="wpmega-link-title">Software</span></a></li>
+		<li id="menu-item-9909" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/technology/transliteracy/"><span class="wpmega-link-title">Transliteracy</span></a></li>
+		<li id="menu-item-9910" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/books-media/video-games/"><span class="wpmega-link-title">Video Games</span></a></li>
+		<li id="menu-item-10139" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/ebooks/"><span class="wpmega-link-title">Ebooks</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-9178" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1"><a href="http://thedigitalshift.com"><span class="wpmega-link-title">See Also:</span></a>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9901" class="tds-menu menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="http://www.thedigitalshift.com/"><span class="wpmega-link-title">The Digital Shift</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8980" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-5 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-fullWidth ss-nav-menu-mega-alignCenter ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">Blogs &amp; Columns</span></span>
+<ul class="sub-menu sub-menu-1">
+	<li id="menu-item-3383" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1 ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">Columns</span></span>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9154" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/editorial/"><span class="wpmega-link-title">Editorial</span><span class="wpmega-item-description">Rebecca T. Miller, Editor-in-Chief</span></a></li>
+		<li id="menu-item-9158" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/on-common-core/"><span class="wpmega-link-title">On Common Core</span><span class="wpmega-item-description">Various</span></a></li>
+		<li id="menu-item-11364" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/consider-the-source/"><span class="wpmega-link-title">Consider the Source</span><span class="wpmega-item-description">Marc Aronson</span></a></li>
+		<li id="menu-item-9157" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/nonfiction-booktalker/"><span class="wpmega-link-title">Nonfiction Booktalker</span><span class="wpmega-item-description">Kathleen Baxter</span></a></li>
+		<li id="menu-item-9162" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/under-cover/"><span class="wpmega-link-title">Under Cover</span><span class="wpmega-item-description">Rick Margolis</span></a></li>
+		<li id="menu-item-9155" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/first-steps/"><span class="wpmega-link-title">First Steps</span><span class="wpmega-item-description">Renea Arnold &amp; Nell Colburn</span></a></li>
+		<li id="menu-item-9933" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blogs.slj.com/make-some-noise/"><span class="wpmega-link-title">Make Some Noise!</span><span class="wpmega-item-description">Sara Kelly Johns</span></a></li>
+</ul></li><li class="menu-item ss-nav-menu-item-depth-1 sub-menu-newcol"><span class="um-anchoremulator">&nbsp;</span><ul class="sub-menu sub-menu-2">		<li id="menu-item-9159" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/scales-on-censorship/"><span class="wpmega-link-title">Scales on Censorship</span><span class="wpmega-item-description">Pat Scales</span></a></li>
+		<li id="menu-item-9161" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/the-gaming-life/"><span class="wpmega-link-title">The Gaming Life</span><span class="wpmega-item-description">Various</span></a></li>
+		<li id="menu-item-11780" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.thedigitalshift.com/category/opinion/test-drive/"><span class="wpmega-link-title">Test Drive</span><span class="wpmega-item-description">Jeff Hastings</span></a></li>
+		<li id="menu-item-11779" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.thedigitalshift.com/category/opinion/cool-tools/"><span class="wpmega-link-title">Cool Tools</span><span class="wpmega-item-description">Richard Byrne</span></a></li>
+		<li id="menu-item-11781" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.thedigitalshift.com/category/opinion/the-next-big-thing/"><span class="wpmega-link-title">The Next Big Thing</span><span class="wpmega-item-description">Christopher Harris</span></a></li>
+		<li id="menu-item-9160" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.slj.com/category/opinion/soapbox/"><span class="wpmega-link-title">Soapbox</span><span class="wpmega-item-description">Various</span></a></li>
+		<li id="menu-item-9156" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-depth-2"><a href="http://www.slj.com/category/opinion/letters-to-slj/"><span class="wpmega-link-title">Letters to SLJ</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3382" class="blog-menu-wrap menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1 ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">Blogs</span></span>
+	<ul class="sub-menu sub-menu-2">
+		<li id="menu-item-9925" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blog.schoollibraryjournal.com/teacozy/"><span class="wpmega-link-title">A Chair, A Fireplace &amp; a Tea Cozy</span><span class="wpmega-item-description">Elizabeth Burns</span></a></li>
+		<li id="menu-item-9926" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blog.schoollibraryjournal.com/afuse8production/"><span class="wpmega-link-title">A Fuse #8 Production</span><span class="wpmega-item-description">Betsy Bird</span></a></li>
+		<li id="menu-item-9927" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blog.schoollibraryjournal.com/adult4teen/"><span class="wpmega-link-title">Adult Books 4 Teens</span><span class="wpmega-item-description">Angela Carstensen</span></a></li>
+		<li id="menu-item-9928" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="http://battleofthebooks.slj.com/"><span class="wpmega-link-title">Battle of the Books</span></a></li>
+		<li id="menu-item-9929" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blogs.slj.com/connect-the-pop/"><span class="wpmega-link-title">Connect the Pop</span><span class="wpmega-item-description">Peter Gutierrez</span></a></li>
+		<li id="menu-item-9930" class="blog-menu menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blog.schoollibraryjournal.com/goodcomicsforkids/"><span class="wpmega-link-title">Good Comics for Kids</span><span class="wpmega-item-description">Brigid Alverson, Robin Brenner, Katherine Dacey, Lori Henderson, Michael May, Mike Pawuk, &amp; Eva Volin</span></a></li>
+</ul></li><li class="menu-item ss-nav-menu-item-depth-1 sub-menu-newcol"><span class="um-anchoremulator">&nbsp;</span><ul class="sub-menu sub-menu-2">		<li id="menu-item-9931" class="blog-menu menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blog.schoollibraryjournal.com/heavymedal/"><span class="wpmega-link-title">Heavy Medal: A Mock Newbery Blog</span><span class="wpmega-item-description">Jonathan Hunt &amp; Nina Lindsay</span></a></li>
+		<li id="menu-item-9932" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blogs.slj.com/bank-street-irma-black-award/"><span class="wpmega-link-title">Irma Black Awards</span><span class="wpmega-item-description">Lisa Von Drasek</span></a></li>
+		<li id="menu-item-9934" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blog.schoollibraryjournal.com/neverendingsearch/"><span class="wpmega-link-title">Neverending Search</span><span class="wpmega-item-description">Joyce Valenza</span></a></li>
+		<li id="menu-item-9936" class="blog-menu menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blog.schoollibraryjournal.com/printzblog/"><span class="wpmega-link-title">Some Day My Printz Will Come</span><span class="wpmega-item-description">Karyn Silverman and Sarah Couri</span></a></li>
+		<li id="menu-item-13459" class="blog-menu menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://blog.schoollibraryjournal.com/touchandgo/"><span class="wpmega-link-title">Touch and Go App Reviews</span><span class="wpmega-item-description">Daryl Grabarek, Editor</span></a></li>
+		<li id="menu-item-10989" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-highlight ss-nav-menu-nolink"><span class="um-anchoremulator"><span class="wpmega-link-title">See also:</span></span></li>
+		<li id="menu-item-9935" class="blog-menu menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ss-nav-menu-with-desc"><a href="http://www.hbook.com/category/blogs/read-roger/"><span class="wpmega-link-title">The Horn Book’s Read Roger</span><span class="wpmega-item-description">Roger Sutton, Editor-in-Chief, Horn Book</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></div></div><!-- end .wrap --></div><div id="subnav"><div class="wrap"><ul id="menu-secondary-content-menu" class="menu menu-secondary superfish"><li id="menu-item-9580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9580"><a href="http://www.slj.com/school-library-journal-print-issue-archive/">Print Issue Archive</a>
+<ul class="sub-menu">
+	<li id="menu-item-9745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9745"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDST">Get a Subscription</a></li>
+	<li id="menu-item-10986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10986"><a href="http://www.slj.com/school-library-journal-print-issue-archive/">SLJ Print Issue Archive</a></li>
+	<li id="menu-item-9768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9768"><a href="http://www.slj.com/series-made-simple/series-made-simple-spring-2012/">Supplement: Series Made Simple</a></li>
+</ul>
+</li>
+<li id="menu-item-9746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9746"><a>Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-9750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9750"><a href="http://www.thedigitalshift.com/events/ebooks-and-beyond?utm_source=slj&amp;utm_medium=navbar&amp;utm_campaign=tdsbeyondebooks">The Digital Shift (Oct. 17, online)</a></li>
+	<li id="menu-item-15181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15181"><a href="http://www.thedigitalshift.com/events/tech-summit/">Technology Summit 2012 (Nov. 14, online)</a></li>
+	<li id="menu-item-11077" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-11077"><a href="http://www.slj.com/tag/summerteen/">SummerTeen (On-Demand)</a></li>
+	<li id="menu-item-11076" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11076"><a href="http://www.sljsummit2012.com/">SLJ Leadership Summit (Oct. 26 &amp; 27)</a></li>
+</ul>
+</li>
+<li id="menu-item-10909" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10909"><a href="http://www.slj.com/category/webcasts/">Webcasts</a></li>
+<li id="menu-item-9748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9748"><a href="/slj-newsletter/">Newsletters</a>
+<ul class="sub-menu">
+	<li id="menu-item-10143" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10143"><a href="http://www.slj.com/tag/extra-helping/">Extra Helping</a></li>
+	<li id="menu-item-10145" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10145"><a href="http://www.slj.com/tag/curriculum-connections/">Curriculum Connections</a></li>
+	<li id="menu-item-10144" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10144"><a href="http://www.slj.com/tag/sljteen/">SLJTeen</a></li>
+	<li id="menu-item-9761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9761"><a href="/slj-newsletter/">Sign Up</a></li>
+</ul>
+</li>
+<li id="menu-item-9581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9581"><a href="http://www.slj.com/slj-blog-network/">SLJ Blog Network</a></li>
+<li id="menu-item-9773" class="job-zone menu-item menu-item-type-custom menu-item-object-custom menu-item-9773"><a href="http://jobs.libraryjournal.com/">Job Zone</a></li>
+<li id="menu-item-9796" class="book-verdict menu-item menu-item-type-custom menu-item-object-custom menu-item-9796"><a href="http://bookverdict.com/">Book Verdict</a></li>
+<li id="menu-item-9591" class="social-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-9591"><a href="https://twitter.com/SLJournal">Twitter</a></li>
+<li id="menu-item-9596" class="social-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-9596"><a href="https://www.facebook.com/SchoolLibraryJournal">Facebook</a></li>
+<li id="menu-item-9597" class="social-rss menu-item menu-item-type-custom menu-item-object-custom menu-item-9597"><a href="/feed">RSS</a></li>
+</ul></div><!-- end .wrap --></div><div id="inner"><div class="wrap">	<div id="content-sidebar-wrap">
+				<div id="content" class="hfeed">
+			<div class="breadcrumb">You are here: <a href="http://www.slj.com/" title="View Home">Home</a> / <a href="http://www.slj.com/about-us/" title="View About Us">About Us</a> / Privacy Policy</div>	<div class="post-9756 page type-page status-publish hentry">
 
-    
- <div id="topSearchBox">
-	<div id="topSearchInt">
-
-<div id="searchbar">
-<div id="headersearch">
-<!--<form name="SearchForm" onsubmit="return doSearchStuff()" id="SearchForm" action="/search/siteall" method="get">-->
-<div id="searchbox">
-
-<form action="http://www.schoollibraryjournal.com/csp/cms/sites/SLJ/Search/index.csp" id="cse-search-box">
-
-
-  
-    <input type="hidden" name="cx" value="008072844330499557307:ixrrlyslflg">
-    <input type="hidden" name="cof" value="FORID:10">
-    <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" name="q" size="31">
-    <select name="as_qdr">
-<option value="all">Any time</option>
-<option value="d">Past 24 hours</option>
-<option value="w">Past week</option>
-<option value="w2">Past 2 weeks</option>
-<option value="m">Past month</option>
-<option value="m2">Past 2 months</option>
-<option value="m6">Past 6 months</option>
-<option value="y">Past year</option>
-<option value="y2">Past 2 years</option>
-<option value="y5">Past 5 years</option>
-<option value="y10">Past 10 years</option>
-</select>
-
-<script type="text/javascript">
-  try {
-    var qdr = /[?&]as_qdr=([^&]*)/
-      .exec(window.location.search)[1];
-    var opts = document
-      .getElementsByName("as_qdr")[0]
-      .getElementsByTagName("option");
-    for (var i = 0; i < opts.length; i++)
-      opts[i].selected = (opts[i].value == qdr);
-  } catch (e) {}
-</script>
-    <input type="submit" name="sa" value="Search">
-
-</form>
-<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
-
-</div><br>
-
-
-	</div><!-- end headersearch -->
-	</div><!-- end searchbar -->
-	</div><!-- end topSearchInt -->   
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-<div id="sponsorby">
-
-<!-- BEGIN RICH-MEDIA Reed Business CODE -->
-
-<!-- <dti:ads:area id="73" name="SLJSearchButton88x31"> -->
-<!-- SLJSearchButton88x31 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJSearchButton88x31");
-</script>
-	
-<!-- END BURST CODE --><!-- Ad space updated 05262010, JEP-->
-
-
-</div><!-- end sponsorby -->
-
-<div id="magsub"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDKN"><img src="/csp/cms/sites/SLJ/assets/images/subscribe_magazine_slja.gif" border="0" alt="Subscribe to SLJ Magazine" style="vertical-align:9px;margin:0px 10px;width:273px;"></a></div><!-- end magsub -->
-</div><!-- end topSearchBox -->
-
-<div>
-
-<!-- BEGIN RICH-MEDIA Reed Business CODE -->
-<!-- <dti:ads:area id="75" name="SLJPushdownExpandable983x25"> -->
-<!-- SLJPushdownExpandable983x25 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJPushdownExpandable983x25");
-</script>
-
-
-<!-- END Reed Business CODE --><!--ad space updated 05262010, changed to flat graphic, JEP-->
+				<h1 class="entry-title">Privacy Policy</h1>
+		
+				<div class="entry-content">
+			<p>Updated May 31, 2010</p>
+<h2>Overview</h2>
+<p>Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.</p>
+<p>This Privacy Policy describes the policies of Library Journals LLC (“LJLLC” or “we”), a wholly owned subsidiary of Media Source Inc., regarding the collection, use, disclosure and protection of the following types of information:</p>
+<p>• Information obtained when you (“you” or “User”) visit the www.schoollibraryjournal.com web site (this “Site” or “SLJ”).<br>
+• Information obtained through e-mail communications with you related to the Site.<br>
+This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.<br>
+We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.</p>
+<hr>
+<h2>Information We Collect and How We Collect It</h2>
+<p>We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards).</p>
+<p>The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.</p>
+<p>When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.</p>
+<p>Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: <strong>http://www.networkadvertising.org/optout_nonppii.asp. </strong></p>
+<hr>
+<h2>How We Use Your Information</h2>
+<p>We use Personally Identifiable Information collected on this Site for the following purposes:</p>
+<ul>
+<li>To provide you with this Site and other products and services.</li>
+<li>To respond to your inquiries and contact you about changes regarding this Site.</li>
+<li>To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.</li>
+<li>For any other purpose disclosed at the time the information is collected or to which you consent.</li>
+<li>As otherwise specifically described in this Privacy Policy.</li>
+</ul>
+<p>We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.</p>
+<p>We may use the information you provide us to send you e-mail, fax and other communications on behalf of LJLLC and our affiliates. These communications may include e-mail newsletters, as well as offers for other SLJ, LJLLC and Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.</p>
+<p>We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to websupport@mediasourceinc.com with the subject line “opt out – third party.”</p>
+<h2>Our Disclosure of Your Information</h2>
+<p>We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:</p>
+<ul>
+<li>Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.</li>
+<li>To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.</li>
+<li>Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.</li>
+<li>To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to websupport@mediasourceinc.com with the subject line: “do not disclose.”</li>
+<li>To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving SLJ. LJLLC, or this Site</li>
+<li>When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.</li>
+<li>When disclosure is necessary to accomplish the purpose for which you provide it.</li>
+<li>To other Media Source, Inc. companies for any uses consistent with those disclosed in this Privacy Policy.</li>
+</ul>
+<hr>
+<h2>Security</h2>
+<p>We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.</p>
+<hr>
+<h2>Right to Access and Change Information</h2>
+<p>You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to websupport@mediasourceinc.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.</p>
+<hr>
+<h2>Links</h2>
+<p>This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.</p>
+<p>This Site is operated by:</p>
+<p>websupport@mediasourceinc.com</p>
+<p>Library Journals LLC</p>
+<p>160 Varick St, 11th Fl.</p>
+<p>New York, NY 10013</p>
+		</div><!-- end .entry-content -->
+		
+	</div><!-- end .postclass -->
+			</div><!-- end #content -->
+		<div id="sidebar" class="sidebar widget-area">
+<div id="text-18" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">ADVERTISEMENT</h4>
+			<div class="textwidget"><!--SLJRectangle300x250 -->
+<center><script type="text/javascript">
+GA_googleFillSlot("SLJRectangle300x250");
+</script></center>
 
 </div>
-<!-- /noindex --></span>
-</div><!-- end headerContainer --></div></div>
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/wrapper.csp, took .003518 -->
+		</div></div>
+<div id="popular-widget-3" class="widget popular-widget"><div class="widget-wrap">
+<div class="pop-layout-v"><ul id="pop-widget-tabs-3" class="pop-widget-tabs pop-widget-tabs-1"><li><a href="#recent" rel="nofollow"><span>Recent </span> Posts</a></li></ul><div class="pop-inside-3 pop-inside"><ul id="pop-widget-recent-3"><li><a href="http://www.slj.com/2012/09/featured/gilda-joyce-psychic-investigator-childrens-rep-and-library-supporter/" rel="bookmark"><img width="170" height="170" src="http://www.slj.com/wp-content/uploads/2012/09/allison_jennifer-170x170.jpg" class="attachment-thumbnail wp-post-image" alt="Author Jennifer Allison" title="allison_jennifer"><div class="pop-overlay"><span class="pop-title">Gilda Joyce: Psychic Investigator, Children’s Rep, and Library Supporter</span> </div></a><div class="pop-cl"></div></li><li><a href="http://www.slj.com/2012/09/books-media/reviews/review-the-perks-of-being-a-wallflower/" rel="bookmark"><img width="170" height="170" src="http://www.slj.com/wp-content/uploads/2012/09/Perks-Sam1-170x170.jpg" class="attachment-thumbnail wp-post-image" alt="Emma Watson as Sam (Summit Entertainment)" title="Perks Sam1"><div class="pop-overlay"><span class="pop-title">Review: The Perks of Being a Wallflower</span> </div></a><div class="pop-cl"></div></li><li><a href="http://www.slj.com/2012/09/industry-news/news-bites-get-your-voice-heard-during-banned-books-week/" rel="bookmark"><img width="168" height="170" src="http://www.slj.com/wp-content/uploads/2012/09/BBW12_VirtualReadout_logo3-168x170.jpg" class="attachment-thumbnail wp-post-image" alt="ALA Banned Book Week logo" title="BBW12_VirtualReadout_logo3"><div class="pop-overlay"><span class="pop-title">News Bites: Get Your Voice Heard During Banned Books Week!</span> </div></a><div class="pop-cl"></div></li><li><a href="http://www.slj.com/2012/09/events/editor-patti-lee-gauch-talks-about-the-state-of-the-picture-book/" rel="bookmark"><img width="132" height="170" src="http://www.slj.com/wp-content/uploads/2012/09/OwlMoon-132x170.jpg" class="attachment-thumbnail wp-post-image" alt="OwlMoon" title="OwlMoon"><div class="pop-overlay"><span class="pop-title">Editor Patti Lee Gauch Talks About the State of the Picture Book</span> </div></a><div class="pop-cl"></div></li><li><a href="http://www.slj.com/2012/09/books-media/read-watch-alikes/watch-and-read-spotlight-on-media-tie-ins-monster-movie-mash-frankenweenie-and-hotel-transylvania/" rel="bookmark"><img width="170" height="170" src="http://www.slj.com/wp-content/uploads/2012/09/frankenweenie2-170x170.jpg" class="attachment-thumbnail wp-post-image" alt="Frankenweenie" title="Frankenweenie"><div class="pop-overlay"><span class="pop-title">Watch and Read: Spotlight on Media Tie-ins: Monster Movie Mash: Frankenweenie and Hotel Transylvania</span> </div></a><div class="pop-cl"></div></li><li><a href="http://www.slj.com/2012/09/books-media/reviews/pick-of-the-day/pick-of-the-day-squeak-rumble-whomp-whomp-whomp/" rel="bookmark"><img width="170" height="170" src="http://www.slj.com/wp-content/uploads/2012/09/Squeak-RUmble-Whomp-Whomp-Whomp-170x170.jpg" class="attachment-thumbnail wp-post-image" alt="Yellow book cover with boy playing trumpet" title="Squeak, RUmble, Whomp! Whomp! Whomp!"><div class="pop-overlay"><span class="pop-title">Pick of the Day: Squeak, Rumble, Whomp! Whomp! Whomp!</span> </div></a><div class="pop-cl"></div></li><li><a href="http://www.slj.com/2012/09/public-libraries/works-well-with-others/" rel="bookmark"><img width="170" height="170" src="http://www.slj.com/wp-content/uploads/2012/09/91912libprogram-170x170.jpg" class="attachment-thumbnail wp-post-image" alt="91912libprogram" title="91912libprogram"><div class="pop-overlay"><span class="pop-title">Fresh Paint: Works Well with Others</span> </div></a><div class="pop-cl"></div></li></ul></div><!--.pop-inside--></div><!--.pop-layout-v--></div></div>
 
-<table id="bottomBox" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-   <td id="mainContent" valign="top"><div id="article">
-<h1>Privacy Policy</h1>
-
-
-
-
-<p class="NormalParagraphStyle"><br>MAY 31, 2010<br>
-  </p><h2>Overview</h2><p>Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. </p><p>This Privacy Policy describes the policies of Library Journals LLC (“LJLLC” or “we”), a wholly owned subsidiary of Media Source Inc., regarding the collection, use, disclosure and protection of the following types of information:</p>• Information obtained when you (“you” or “User”) visit the www.schoollibraryjournal.com web site (this “Site” or “SLJ”).<br>• Information obtained through e-mail communications with you related to the Site.<br>This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.<p></p>
-<p class="NormalParagraphStyle"><br>
-  We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes. </p><hr>
-  <h2>
-    Information We Collect and How We Collect It</h2>
-  <p>We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards). <br><br>The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.</p><p>When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.</p><p>Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: <strong>http://www.networkadvertising.org/optout_nonppii.asp. </strong></p><hr>
-
-  <h2>How We Use Your Information</h2><p>
-  We use Personally Identifiable Information collected on this Site for the following purposes:</p>
-  <ul>
-  <li>To provide you with this Site and other products and services.</li>
-  <li>To respond to your inquiries and contact you about changes regarding this Site.</li>
-  <li> To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.</li>
-  
-  <li> For any other purpose disclosed at the time the information is collected or to which you consent.</li>
- <li> As otherwise specifically described in this Privacy Policy.</li>
- </ul>
-  
- <p>We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.</p><p>We may use the information you provide us to send you e-mail, fax and other communications on behalf of LJLLC and our affiliates. These communications may include e-mail newsletters, as well as offers for other SLJ, LJLLC and Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. </p><p>We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to websupport@mediasourceinc.com with the subject line “opt out – third party.”</p>
-  <h2>Our Disclosure of Your Information</h2>
-  <p>We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:</p>
- <ul>
- 
-  <li> Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.</li>
-  <li> To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.</li>
-  <li> Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.</li>
- <li> To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to websupport@mediasourceinc.com with the subject line: “do not disclose.”</li>
-  <li> To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving SLJ. LJLLC, or this Site</li>
-   <li>When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.</li>
- <li> When disclosure is necessary to accomplish the purpose for which you provide it.</li>
-  <li>To other Media Source, Inc. companies for any uses consistent with those disclosed in this Privacy Policy.</li></ul><hr>
-  <h2>Security</h2>
- <p> We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.</p><hr>
-  <h2>Right to Access and Change Information</h2>
-  <p>
-  You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to websupport@mediasourceinc.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. </p><hr>
-  <h2>Links</h2>
- <p> This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.</p>
- <p>This Site is operated by:</p><p>websupport@mediasourceinc.com</p><p>Library Journals LLC</p><p>160 Varick St, 11th Fl.</p><p>New York, NY 10013</p><hr>
-   </div>
-<br clear="all">
-<!-- end boombox ad --></td>
-    <td rowspan="2" valign="top" class="rightBorder"><span class="noindex">
-<div id="rightCol">
-
-<!-- advertisement -->
-<div id="rtAdvertisement">Advertisements<br>
-
- <br>
-<!-- <dti:ads:area id="117" name="SLJMarketing160x160"> -->
-<!-- SLJMarketing160x160 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJMarketing160x160");
-</script>
-<!-- End SLJMarketing160x160 9/9/11 SMS -->
-<br><br>
-
-
-<!-- BEGIN RICH-MEDIA NETWORK CODE -->
-<!-- <dti:ads:area id="62" name="SLJSkyscraper160x600"> -->
-<!-- SLJSkyscraper160x600 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJSkyscraper160x600");
-</script>
-<!-- End SLJSkyscraper160x600 9/9/11 SMS -->
-
-
-<br><br><br>
-
-
-
-
+<div id="text-19" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">ADVERTISEMENT</h4>
+			<div class="textwidget"><!--SLJHalfpage300x600 -->
+<center><script type="text/javascript">
+GA_googleFillSlot("SLJHalfpage300x600");
+</script></center>
 </div>
-
-<!-- end advertisement -->
-
-
+		</div></div>
+<div id="text-20" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">ADVERTISEMENT</h4>
+			<div class="textwidget"><!--SLJRectangle300x250_2 -->
+<center><script type="text/javascript">
+GA_googleFillSlot("SLJRectangle300x250_2");
+</script></center>
 </div>
-<!-- /noindex --></span></td>
-</tr><tr>
-    <td id="mainContentBtm"><br clear="all">
+		</div></div>
+<div id="featured-post-10" class="widget featuredpost"><div class="widget-wrap"><h4 class="widgettitle">SLJ Blog Network</h4>
+<div class="post-15314 post type-post status-publish format-standard hentry category-slj-blogs tag-video gfwa-1 gfwa-odd"><div class="blog-source">NeverEndingSearch</div><span class="alignleft"><img alt="Joyce Valenza" src="http://www.slj.com/wp-content/uploads/2012/08/Joyce-Valenza_avatar-45x45.png" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blog.schoollibraryjournal.com/neverendingsearch/2012/09/19/tv-news-search-borrow-by-internet-archive/" title="TV News Search &amp; Borrow brought to you by Internet Archive">TV News Search &amp; Borrow brought to you by Internet Archive</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/joycevalenza/" class="fn n" title="Joyce Valenza" rel="author">Joyce Valenza</a></span></span> on <span class="date published time" title="2012-09-19T22:14:50+00:00">September 19, 2012</span>   </p></div><!--end post_class()-->
 
-<span class="noindex">
+<div class="post-15315 post type-post status-publish format-standard hentry category-slj-blogs tag-video gfwa-2 gfwa-even"><div class="blog-source">NeverEndingSearch</div><span class="alignleft"><img alt="Joyce Valenza" src="http://www.slj.com/wp-content/uploads/2012/08/Joyce-Valenza_avatar-45x45.png" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blog.schoollibraryjournal.com/neverendingsearch/2012/09/19/tv-news-search-borrow-by-internet-archive/" title="TV News Search &amp; Borrow brought to you by Internet Archive">TV News Search &amp; Borrow brought to you by Internet Archive</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/joycevalenza/" class="fn n" title="Joyce Valenza" rel="author">Joyce Valenza</a></span></span> on <span class="date published time" title="2012-09-19T22:14:50+00:00">September 19, 2012</span>   </p></div><!--end post_class()-->
 
+<div class="post-15311 post type-post status-publish format-standard hentry category-slj-blogs gfwa-3 gfwa-odd"><div class="blog-source">Someday My Printz Will Come</div><span class="alignleft"><img alt="Karyn Silverman" src="http://www.slj.com/wp-content/uploads/2012/08/Karyn-Silverman_avatar-45x45.jpg" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blog.schoollibraryjournal.com/printzblog/2012/09/19/more-than-paint-by-numbers/" title="More than Paint by Numbers">More than Paint by Numbers</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/karyn-silverman/" class="fn n" title="Karyn Silverman" rel="author">Karyn Silverman</a></span></span> on <span class="date published time" title="2012-09-19T21:43:20+00:00">September 19, 2012</span>   </p></div><!--end post_class()-->
 
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/ads.csp -->
-<!--<div align="center"><script type="text/javascript"> --><!--
-google_ad_client = "pub-1872221973353849";
-/* 728x90 bottom banner */
-google_ad_slot = "3340816676";
-google_ad_width = 728;
-google_ad_height = 90;
-//
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div><BR><BR>
+<div class="post-15299 post type-post status-publish format-standard hentry category-slj-blogs tag-comics tag-fantasy tag-nonfiction-2 gfwa-4 gfwa-even"><div class="blog-source">Connect the Pop</div><span class="alignleft"><img alt="Peter Gutierrez" src="http://www.slj.com/wp-content/uploads/2012/08/Peter-Gutierrez_avatar-45x45.jpg" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blogs.slj.com/connect-the-pop/2012/09/comics/recommended-comics-for-schools-annie-sullivan-mystery-boxes-anna-froga/" title="Recommended Comics for Schools: Annie Sullivan, Mystery Boxes, Anna &amp; Froga">Recommended Comics for Schools: Annie Sullivan, Mystery Boxes, Anna &amp; Froga</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/peter-gutierrez/" class="fn n" title="Peter Gutierrez" rel="author">Peter Gutierrez</a></span></span> on <span class="date published time" title="2012-09-19T16:54:08+00:00">September 19, 2012</span>   </p></div><!--end post_class()-->
 
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/ads.csp, took .000068 -->
+<div class="post-15227 post type-post status-publish format-standard hentry category-slj-blogs gfwa-5 gfwa-odd"><div class="blog-source">Good Comics for Kids</div><span class="alignleft"><img alt="Mike Pawuk" src="http://www.slj.com/wp-content/uploads/2012/08/Mike-Pawuk_avatar-45x45.jpg" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blog.schoollibraryjournal.com/goodcomicsforkids/2012/09/19/review-crogans-loyalty-by-chris-schweizer/" title="Review: Crogan’s Loyalty by Chris Schweizer">Review: Crogan’s Loyalty by Chris Schweizer</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/mike-pawuk/" class="fn n" title="Mike Pawuk" rel="author">Mike Pawuk</a></span></span> on <span class="date published time" title="2012-09-19T08:55:37+00:00">September 19, 2012</span>   </p></div><!--end post_class()-->
 
-<!-- /noindex --></span>
+<div class="post-15224 post type-post status-publish format-standard hentry category-slj-blogs gfwa-6 gfwa-even"><div class="blog-source">Heavy Medal: A Mock Newbery Blog</div><span class="alignleft"><img alt="Nina Lindsay" src="http://www.slj.com/wp-content/uploads/2012/09/Nina-Lindsay_avatar-45x45.jpg" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blog.schoollibraryjournal.com/heavymedal/2012/09/19/it-takes-15/" title="It takes 15">It takes 15</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/nina-lindsay/" class="fn n" title="Nina Lindsay" rel="author">Nina Lindsay</a></span></span> on <span class="date published time" title="2012-09-19T07:26:17+00:00">September 19, 2012</span>   </p></div><!--end post_class()-->
 
+<div class="post-15223 post type-post status-publish format-standard hentry category-adult-books-4-teens category-slj-blogs tag-nonfiction-2 gfwa-7 gfwa-odd"><div class="blog-source">Adult Books 4 Teens</div><span class="alignleft"><img alt="Angela Carstensen" src="http://www.slj.com/wp-content/uploads/2012/08/Angela-Carstensen_avatar-45x45.jpg" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blog.schoollibraryjournal.com/adult4teen/2012/09/19/american-gypsy-a-memoir/" title="American Gypsy: A Memoir">American Gypsy: A Memoir</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/angela-carstensen/" class="fn n" title="Angela Carstensen" rel="author">Angela Carstensen</a></span></span> on <span class="date published time" title="2012-09-19T05:04:40+00:00">September 19, 2012</span>   </p></div><!--end post_class()-->
 
+<div class="post-15191 post type-post status-publish format-standard hentry category-slj-blogs gfwa-8 gfwa-even"><div class="blog-source">The Horn Book» Read Roger</div><span class="alignleft"><img alt="Roger Sutton" src="http://www.slj.com/wp-content/uploads/2012/08/Roger-Sutton_avatar-45x45.jpg" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://www.hbook.com/2012/09/blogs/read-roger/finding-the-work-home-balance/" title="Finding the work-home balance">Finding the work-home balance</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/roger-sutton/" class="fn n" title="Roger Sutton" rel="author">Roger Sutton</a></span></span> on <span class="date published time" title="2012-09-18T11:02:50+00:00">September 18, 2012</span>   </p></div><!--end post_class()-->
 
-</td>
-</tr><tr>
-    <td id="footerContainer" colspan="2"><span class="noindex">
+<div class="post-15184 post type-post status-publish format-standard hentry category-slj-blogs gfwa-9 gfwa-odd"><div class="blog-source">NeverEndingSearch</div><span class="alignleft"><img alt="Joyce Valenza" src="http://www.slj.com/wp-content/uploads/2012/08/Joyce-Valenza_avatar-45x45.png" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blog.schoollibraryjournal.com/neverendingsearch/2012/09/18/tlchat-launches-intensely-and-archiving-tweets/" title="#tlchat launches intensely (and archiving tweets)">#tlchat launches intensely (and archiving tweets)</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/joycevalenza/" class="fn n" title="Joyce Valenza" rel="author">Joyce Valenza</a></span></span> on <span class="date published time" title="2012-09-18T09:35:19+00:00">September 18, 2012</span>   </p></div><!--end post_class()-->
 
+<div class="post-15166 post type-post status-publish format-standard hentry category-slj-blogs tag-maggie-stiefvater gfwa-10 gfwa-even"><div class="blog-source">A Chair, A Fireplace &amp; A Tea Cozy</div><span class="alignleft"><img alt="Elizabeth Burns" src="http://www.slj.com/wp-content/uploads/2012/08/Elizabeth-Burns_avatar-45x45.jpg" class="avatar avatar-45 photo" height="45" width="45"></span><h2><a href="http://blog.schoollibraryjournal.com/teacozy/2012/09/18/review-the-raven-boys/" title="Review: The Raven Boys">Review: The Raven Boys</a></h2><p class="byline post-info">By <span class="author vcard"><span class="fn"><a href="http://www.slj.com/author/liz-b/" class="fn n" title="Elizabeth Burns" rel="author">Elizabeth Burns</a></span></span> on <span class="date published time" title="2012-09-18T08:00:36+00:00">September 18, 2012</span>   </p></div><!--end post_class()-->
 
-<!--end reednetwork-->
-
-
-
-<!-- END FOOTER -->
-
-<script language="JavaScript" src="http://a330.g.akamai.net/7/330/2540/20070414003030/www.schoollibraryjournal.com/js/sljads.js" type="text/javascript"></script>
-<style type="text/css">
-#footerbar {
-position:absolute;
-width: 983px;
-height:25px;
-visibility: hidden;
-z-index: 100;
-margin-left:auto;
-margin-right:auto;
-text-align:center;
-}
-</style>
-
-<div id="footerbar">
+</div></div>
+<div id="helloworld-3" class="widget widget_hello_world"><div class="widget-wrap"><h4 class="widgettitle">Connect with SLJ</h4>
+<div><div class="sc-container"><div class="sc-icons"><a target="_blank" href="http://twitter.com/SLJournal" title="Twitter"><img src="http://www.slj.com/wp-content/plugins/social-connect-widget/img/elegant-themes/twitter.png" alt="" width="40"></a><a target="_blank" href="http://www.facebook.com/SchoolLibraryJournal" title="Facebook"><img src="http://www.slj.com/wp-content/plugins/social-connect-widget/img/elegant-themes/facebook.png" alt="" width="40"></a><a target="_blank" href="http://schoollibraryjournal.tumblr.com" title="Tumblr"><img src="http://www.slj.com/wp-content/plugins/social-connect-widget/img/elegant-themes/tumblr.png" alt="" width="40"></a><a target="_blank" href="http://pinterest.com/sljournal/" title="Pinterest"><img src="http://www.slj.com/wp-content/plugins/social-connect-widget/img/elegant-themes/pinterest.png" alt="" width="40"></a><a target="_blank" href="http://vimeo.com/user3904395" title="Vimeo"><img src="http://www.slj.com/wp-content/plugins/social-connect-widget/img/elegant-themes/vimeo.png" alt="" width="40"></a><a target="_blank" href="http://flickr.com/schoollibraryjournal/" title="Flickr"><img src="http://www.slj.com/wp-content/plugins/social-connect-widget/img/elegant-themes/flickr.png" alt="" width="40"></a><a target="_blank" href="mailto:info@mediasourceinc.com" title="Email"><img src="http://www.slj.com/wp-content/plugins/social-connect-widget/img/elegant-themes/email.png" alt="" width="40"></a><a target="_blank" href="http://slj.com/feed/" title="RSS"><img src="http://www.slj.com/wp-content/plugins/social-connect-widget/img/elegant-themes/rss.png" alt="" width="40"></a></div></div></div></div></div>
 </div>
-
-<!-- /noindex --></span>
-</td>
-</tr>
-</tbody></table>
-
-
-
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/footer.csp -->
-<div align="center"><br><!-- SLJLeaderboard728x90_2 -->
+	</div><!-- end #content-sidebar-wrap -->
+	</div><!-- end .wrap --></div><!-- end #inner --><div style="background:#F5F5F5; margin: 0px;" align="center">
+<!-- 728x90_2 -->
 <script type="text/javascript">
 GA_googleFillSlot("SLJLeaderboard728x90_2");
-</script><br></div><div id="alignFooter" align="center">
-<div id="footerNav"><a href="/csp/cms/sites/SLJ/Info/aboutus.csp">About Us</a>  |  <a href="/csp/cms/sites/SLJ/Info/advertisinginfo.csp">Advertising Information</a>  |  <a href="/csp/cms/sites/SLJ/Info/submissions.csp">Submissions</a>  |  <a href="/csp/cms/sites/SLJ/Info/sitemap.csp">Site Map</a>  |  <a href="/csp/cms/sites/SLJ/Info/contactus.csp">Contact Us</a>  | <a href="/csp/cms/sites/SLJ/Info/forreviewers.csp">For Reviewers</a> | <a href="/csp/cms/sites/SLJ/Info/learnrss.csp">RSS</a> |  <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDST">Subscriptions</a>
+</script>
 </div>
+<div id="footer-widgets" class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><div id="text-3" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">On Facebook</h4>
+			<div class="textwidget"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-activity" data-site="slj.com" data-width="300" data-height="400" data-header="true" data-font="tahoma" data-recommendations="true"></div></div>
+		</div></div>
+</div><div class="footer-widgets-2 widget-area"><div id="text-4" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">Follow @SLJournal</h4>
+			<div class="textwidget"><script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 7,
+  interval: 30000,
+  width: 'auto',
+  height: 350,
+  theme: {
+    shell: {
+      background: '#5a94c4',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#666666',
+      links: '#3200d6'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: false,
+    behavior: 'all'
+  }
+}).render().setUser('SLJournal').start();
+</script></div>
+		</div></div>
+</div><div class="footer-widgets-3 widget-area"><div id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widgettitle">SLJ Resources</h4>
+<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-12145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12145"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDST">Subscribe to SLJ</a></li>
+<li id="menu-item-11121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11121"><a href="http://www.slj.com/latest-posts/">Latest Posts</a>
+<ul class="sub-menu">
+	<li id="menu-item-11122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11122"><a href="http://www.slj.com/school-library-journal-print-issue-archive/">School Library Journal Print Issue Archive</a></li>
+	<li id="menu-item-11124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11124"><a href="http://www.slj.com/slj-newsletters/">SLJ Newsletters</a></li>
+	<li id="menu-item-11123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11123"><a href="http://www.slj.com/slj-blog-network/">SLJ Blog Network</a></li>
+</ul>
+</li>
+<li id="menu-item-11126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11126"><a>Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-11127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11127"><a href="http://www.thedigitalshift.com/events/ebooks-and-beyond?utm_source=slj&amp;utm_medium=navbar&amp;utm_campaign=tdsbeyondebooks">The Digital Shift (Oct. 17, online)</a></li>
+	<li id="menu-item-15178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15178"><a href="http://www.thedigitalshift.com/events/tech-summit/">Technology Summit 2012 (Nov. 14, online)</a></li>
+	<li id="menu-item-11125" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-11125"><a href="http://www.slj.com/tag/summerteen/">Summerteen (On-Demand)</a></li>
+	<li id="menu-item-11128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11128"><a href="http://www.sljsummit2012.com/">SLJ Leadership Summit (Oct. 26 &amp; 27)</a></li>
+</ul>
+</li>
+<li id="menu-item-11120" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-11120"><a href="http://www.slj.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-11129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11129"><a href="http://www.slj.com/about-us/advertising-information/">Advertising Information</a></li>
+	<li id="menu-item-11130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11130"><a href="http://www.slj.com/about-us/comment-policy/">Comment Policy</a></li>
+	<li id="menu-item-11131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11131"><a href="http://www.slj.com/about-us/contact-us/">Contact Us</a></li>
+	<li id="menu-item-11132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11132"><a href="http://www.slj.com/about-us/information-for-reviewers/">Information for Reviewers</a></li>
+	<li id="menu-item-11133" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9756 current_page_item menu-item-11133"><a href="http://www.slj.com/about-us/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-11134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11134"><a href="http://www.slj.com/about-us/submissions/">Submissions</a></li>
+	<li id="menu-item-11135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11135"><a href="http://www.slj.com/about-us/terms-of-use/">Terms of Use</a></li>
+</ul>
+</li>
+</ul></div></div></div>
+</div></div><!-- end .wrap --></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright © 2012 · <a href="http://www.studiopress.com/themes/news" title="SLJ Theme">SLJ Theme</a> on <a href="http://www.studiopress.com/" title="Genesis Framework">Genesis Framework</a> · <a href="http://wordpress.org/" title="WordPress">WordPress</a> · <a href="http://www.slj.com/wp-login.php">Log in</a></p></div></div><!-- end .wrap --></div><!-- end #footer -->
+</div><!-- end #wrap -->
+<script type="text/javascript">/* <![CDATA[ */ var portfolioSlideshowOptions = {  psHash:false, psLoader:false, psFluid:false };/* ]]> */</script><script type="text/javascript">var SHRSB_Settings = {"shr-publisher-9756":{"link":"http:\/\/www.slj.com\/about-us\/privacy-policy\/","shortener":"google","title":"School Library Journal<title>&#8211; Privacy Policy | School Library Journal<\/title>\n","notes":"Updated%20May%2031%2C%202010%0D%0AOverview%0D%0AOur%20site%20visitors%E2%80%99%20privacy%20and%20trust%20are%20important%20to%20us.%20We%20provide%20this%20notice%20in%20order%20to%20make%20sure%20that%20your%20expectations%20and%20our%20practices%20are%20aligned%2C%20and%20that%20you%20are%20aware%20of%20your%20choices%20with%20regard%20to%20our%20use%20and%20disclosure%20of%20the%20information%20you%20provide%20t","service":"236,201,5,7,304,88,78,3","apikey":"8afa39428933be41f8afdb8ea21a495c","expand":true,"src":"http:\/\/www.slj.com\/wp-content\/uploads\/shareaholic\/spritegen","localize":true,"share_src":"http:\/\/www.shareaholic.com","rel":"nofollow","target":"_blank","center":true,"twitter_template":"%24%7Btitle%7D+-+%24%7Bshort_link%7D+via+%40SLJournal","mode":"inject","designer_toolTips":"1","tip_bg_color":"#000000","tip_text_color":"#ffffff"},"shr_class":{"link":"http:\/\/slj.com\/about-us\/privacy-policy\/","shortener":"google","title":"School Library Journal<title>&#8211; Privacy Policy | School Library Journal<\/title>\n","service":"236,201,5,7,304,88,78,3","apikey":"8afa39428933be41f8afdb8ea21a495c","expand":true,"src":"http:\/\/www.slj.com\/wp-content\/uploads\/shareaholic\/spritegen","localize":true,"share_src":"http:\/\/www.shareaholic.com","rel":"nofollow","target":"_blank","center":true,"twitter_template":"%24%7Btitle%7D+-+%24%7Bshort_link%7D+via+%40SLJournal","mode":"inject","designer_toolTips":"1","tip_bg_color":"#000000","tip_text_color":"#ffffff"}};</script><!--
+<p style="text-align:center" class="yd_linkware"><small><a href="http://www.yann.com/en/wp-plugins/yd-feedwordpress-content-filter">Featuring YD Feedwordpress Content Filter Plugin</a></small></p>
+--><script type="text/javascript">jQuery(document).ready(function($) {$(".myController").jFlow({controller: ".jFlowControl",slideWrapper : "#jFlowSlider",slides: "#slides",selectedWrapper: "jFlowSelected",width: "500px",height: "220px",timer: 4000,duration: 800,loop: 1,effect: "right",prev: ".slider-previous",next: ".slider-next",auto: true});});</script><script type="text/javascript" src="http://www.slj.com/wp-content/plugins/portfolio-slideshow/js/jquery.cycle.all.min.js?ver=2.99"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/portfolio-slideshow/js/portfolio-slideshow.min.js?ver=1.3.7"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/social-connect-widget/js/jquery.tipTip.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/social-connect-widget/js/socialConnect.scripts.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/ubermenu/js/hoverIntent.js?ver=3.4.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var uberMenuSettings = {"speed":"300","trigger":"click","orientation":"horizontal","transition":"slide","hoverInterval":"20","hoverTimeout":"400","removeConflicts":"on","autoAlign":"off","noconflict":"off","fullWidthSubs":"off","androidClick":"off","loadGoogleMaps":"off"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/ubermenu/js/ubermenu.min.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/themes/genesis/lib/js/menu/superfish.js?ver=1.4.8"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/themes/genesis/lib/js/menu/superfish.args.js?ver=1.8.2"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.8.20"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.8.20"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.8.20"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/genesis-slider/js/jflow.plus.js?ver=0.9.6"></script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/plugins/popular-widget/_js/pop-widget.js?ver=1.5.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var SHRSB_Globals = {"src":"http:\/\/www.slj.com\/wp-content\/uploads\/shareaholic\/spritegen","perfoption":"1","twitter_template":"%24%7Btitle%7D+-+%24%7Bshort_link%7D+via+%40SLJournal","locale":"0","shortener":"google","shortener_key":"","pubGaSocial":"0","pubGaKey":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.slj.com/wp-content/uploads/shareaholic/spritegen/jquery.shareaholic-publishers-sb.min.js?ver=6.0.0.3"></script>
+<script type="text/javascript">jQuery(document).ready(function($) { $(".ui-tabs").tabs(); });</script>
 
-<div id="footerText">
-©2011 <a target="_blank" href="http://www.mediasourceinc.com/index.html">Media Source, Inc.</a>, All rights reserved.<br>
-Use of this Web site is subject to its <a href="/csp/cms/sites/SLJ/Info/termsofuse.csp">Terms of Use</a> |  <a href="/csp/cms/sites/SLJ/Info/privacypolicy.csp">Privacy Policy</a>
-</div>
-
-<table cellspacing="4" border="0" bgcolor="#ffffff" align="center">
-<tbody><tr><td>
-
- <table width="400" border="0" cellspacing="10">
-  <tbody><tr>
-    <td><a href="http://www.mediasourceinc.com/"><img src="/csp/cms/sites/SLJ/assets/images/msi_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/jlg_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/hbinc_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/slj_logo_sm.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/lj_logo_sm.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/libhot_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    
-  </tr>
-</tbody></table>
-
- </td>
-</tr></tbody></table>
-</div>
-
-<!-- END FOOTER -->
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/footer.csp, took .000925 -->
 
 
-</body></html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Object Caching 6683/7644 objects using apc
+
+Served from: slj.com @ 2012-09-20 01:45:45 --></body></html>
