@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awesem.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510055538id_/http%3A//www.awesem.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesem.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920033136id_/http%3A//www.awesem.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AWESEM
+# Privacy & Cookies Policy | AWESEM
 
-AweSEM Limited, registered in England and Wales. Company No. 0559177, (“We”) commit ourselves to protecting and respecting your privacy when visiting our website. This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting www.awesem.co.uk. Please read the following information to understand our practices with regards to your personal data and how we will treat it. For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email.
+AWESEM Limited, registered in England and Wales. Company No. 0559177, (“We”) commit ourselves to protecting and respecting your privacy when visiting our website. This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting www.awesem.co.uk. Please read the following information to understand our practices with regards to your personal data and how we will treat it. For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
@@ -19,6 +19,37 @@ We may collect and process the following data about you:
 
 We may collect information about your computer; this is statistical data concerning your browsing actions and does not identify you individually. This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers. We may also collect information about your general internet usage using cookie files stored on the hard drive of all computers. The cookies contain valuable information that is transferred to your computer’s hard drive. In collecting this information we are able to improve our site and deliver a better and more personalised service. You can refuse to accept cookies but note that in doing this you may be unable to access certain parts of our site. You can do this by activating the setting on your browser which allows you to refuse the setting.
 
+If you do not want to accept that your computer receives and stores cookies, you can alter your security settings on your web browser (Internet Explorer, Google Chrome, Safari etc.). However, note that certain parts of our Site may only be used fully if your browser allows cookies. Thus, your reading experience of our Site may be affected negatively by removing and not allowing cookies.  
+If you wish to alter your cookie settings, by going to your browsers settings, below are short instructions for how to do this in the four most popular browsers:
+
+### Microsoft Internet Explorer
+
+Click the ‘Tools’ icon in the top right hand corner and select ‘Internet options’. In the pop up window select the ‘Privacy’ tab. From here you can adjust your cookie settings.
+
+### Google Chrome
+
+Click the spanner in the top right hand corner and select ‘Settings’. From here select ‘Under the hood’ and change the settings under ‘Privacy’.
+
+### Mozilla Firefox
+
+From the drop down menu in the top left hand corner select ‘Options’. In the pop up window select the ‘Privacy’ tab. From here you can adjust your cookie settings.
+
+### Safari
+
+From the settings drop down menu in the top right hand corner select ‘Preferences’. Select the ‘Security’ tab and from here you can adjust your cookie settings.
+
+The table below explains the cookies we use and why.
+
+### Google Analytics
+
+**Cookie name** | **Description**  
+---|---  
+__utmz | Keeps track of where the visitor came from, what search engine they used, what link was clicked on, what keyword they used, and where in the world they are when they accessed the website.  
+_utmv | Stores information used within Analytics to identify user as part of a custom segmentation.  
+_utmc | Holds timestamp of the exact moment in time when a visitor leaves the site  
+_utmb | Holds timestamp of the exact moment in time when a visitor first visits the site  
+_utma | This cookie keeps track of the number of times a visitor has been to the site, when their first visit was, and when their last visit occurred.  
+  
 ## USES MADE OF THE INFORMATION
 
 We use the information held about you in the following ways:
