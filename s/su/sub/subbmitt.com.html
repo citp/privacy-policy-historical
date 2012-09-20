@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the subbmitt.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508102916id_/http%3A//www.subbmitt.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the subbmitt.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920072002id_/http%3A//www.subbmitt.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Subbmitt.com - Privacy Policy</title>
@@ -24,9 +24,8 @@
 
 
 
-<div class="messagebar"><!--<DIV CLASS="messagebar_date">Tuesday, May 8, 2012</DIV>--><div class="messagebar_links">
-        <a href="signup.php">SIGN UP</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="login.php">LOGIN</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-        <a href="submit.php">SUBMIT</a> &nbsp;&nbsp; <!--| &nbsp;&nbsp;<A HREF="http://www.subbmitt.com/rssfeeds.php" STYLE="position: relative;top:0px;border: none;" TITLE="Subbmitt RSS Feeds"><IMG SRC="/images/rss_icon.png" WIDTH="20" HEIGHT="20" BORDER="0" ALIGN="TOP"></A>-->
+<div class="messagebar"><!--<DIV CLASS="messagebar_date">Thursday, September 20, 2012</DIV>--><div class="messagebar_links">
+        <p style="color: #CC3300; font-weight: bold;display: inline;">ANONYMOUS</p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="signup.php">SIGN UP</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="login.php">LOGIN</a>&nbsp;&nbsp;&nbsp;&nbsp;        <a href="submit.php">SUBMIT</a> &nbsp;&nbsp;
 	</div>
 </div>
 
@@ -57,9 +56,9 @@
 	<table cellspacing="0" cellpadding="0" border="0" align="LEFT" width="100%">
 <!--	<TD ALIGN="LEFT" WIDTH="50%">&nbsp;&nbsp;<A HREF="http://www.subbmitt.com/index.php">English</A> &nbsp;&nbsp;<A HREF="http://www.subbmitt.com/es/index.php">Español</A> </TD>-->
 
-	<tbody><tr><td align="RIGHT" width="100%"><p style="color: #CC3300; display: inline; position: relative; top: 1px; vertical-align: middle;font-weight:bold;font-family:'Open Sans Condensed',Futura,Century Gothic;sans-serif;font-size: 14px;">Anonymous &nbsp;&nbsp;</p>
-	</td></tr>
-	</tbody></table>
+	
+	
+	</table>
 	</div>
 </td>
 </tr>
@@ -127,7 +126,8 @@ function hideSubmenu() {
 
         //Set background for all mainlinks
         for ( i=0;i < myEls.length;i++ ) {
-                myEls[i].style.backgroundImage="url(/images/grey.png)";
+                //myEls[i].style.backgroundImage="url(/images/grey.png)";
+		myEls[i].style.backgroundColor='#FFF';
         }
 
 }
@@ -142,30 +142,30 @@ function toggleBg(e) {
 
 	//Set background for all mainlinks 
 	for ( i=0;i < myEls.length;i++ ) {
-		//myEls[i].style.backgroundColor='#333';
+		myEls[i].style.backgroundColor='#FFF';
 		//myEls[i].style.backgroundImage="url(/images/reverse_menu_bg.png)";
 		//myEls[i].style.backgroundImage="url(/images/tall_menu_bg.png)";
-		myEls[i].style.backgroundImage="url(/images/grey.png)";
+		//myEls[i].style.backgroundImage="url(/images/grey.png)";
 	}
 
 	//Set background for current mainlink 
 	//e.parentNode.style.backgroundImage='';
-	e.parentNode.style.backgroundImage="url(/images/orange_gradient.png)";
-	//e.parentNode.style.backgroundColor='#CC3300';
+	//e.parentNode.style.backgroundImage="url(/images/orange_gradient.png)";
+	e.parentNode.style.backgroundColor='#EEE';
 }
 
 //This will control the submenu hover color
 function mouseIn(e) {
 	//alert('node: ' + e.nodeName);
 	e.style.backgroundImage="url()";
-	e.style.backgroundColor="#CC3300";
+	e.style.backgroundColor="#EEE";
 	//e.style.backgroundImage="url(/images/orange_gradient.png)";
 }
 
 //This controls the submenu mouseout hover color
 function mouseOut(e) {
-	e.style.backgroundImage="url(/images/reverse_menu_bg.png)";
-	//e.style.backgroundColor='#FFF';
+	//e.style.backgroundImage="url(/images/reverse_menu_bg.png)";
+	e.style.backgroundColor='#FFF';
 }
 
 
@@ -292,7 +292,7 @@ function blank() {
 <tbody><tr>
 
 <td width="20%" align="LEFT" valign="TOP">
-<h3>SITE LINKS</h3><br>
+<h3>SITE LINKS</h3><br><br>
 <a href="http://www.subbmitt.com/index.php">HOME</a><br>
 <a href="http://www.subbmitt.com/rssfeeds.php">RSS FEEDS</a><br>
 <a href="http://www.subbmitt.com/contact.php">CONTACT US</a><br>
@@ -300,26 +300,26 @@ function blank() {
 </td>
 
 <td width="20%" align="LEFT" valign="TOP">
-<h3>ABOUT</h3><br>
+<h3>ABOUT</h3><br><br>
 <a href="http://www.subbmitt.com/about.php">ABOUT US<br>
 </a><a href="http://www.subbmitt.com/faq.php">FAQ</a><br>
 </td>
 
 
 <td width="20%" align="LEFT" valign="TOP">
-<h3>TOOLS</h3><br>
+<h3>TOOLS</h3><br><br>
 <a href="http://www.subbmitt.com/buttons.php">BUTTONS &amp; CODE</a><br>
 <a href="http://www.subbmitt.com/spreadtheword.php">SPREAD THE WORD</a><br>
 </td>
 
 
 <!--<TD WIDTH=20% ALIGN=LEFT VALIGN=TOP>
-<H3>FUN</H3><BR>
+<H3>FUN</H3><BR><BR>
 <A HREF="http://www.cafepress.com/subbmitt">STORE</A><BR>
 </TD>-->
 
 <td width="20%" align="LEFT" valign="TOP">
-<h3>LEGAL</h3><br>
+<h3>LEGAL</h3><br><br>
 <a href="http://www.subbmitt.com/terms.php">TERMS OF USE</a><br>
 <a href="http://www.subbmitt.com/privacy.php">PRIVACY POLICY</a><br>
 </td>
