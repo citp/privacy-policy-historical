@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614085128id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920174056id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Corsa Capital
 
@@ -47,52 +47,52 @@ Tortola, British Virgin Islands
 
 FOREX quotes
 
-EURUSD 1.2558 -0.13%  
+EURUSD 1.2947 -0.83%  
   
 ---  
   
-GBPUSD 1.5483 -0.23%  
+GBPUSD 1.6194 -0.23%  
   
-USDJPY 79.33 -0.05%  
+USDJPY 78.29 -0.13%  
   
-USDCHF 0.9561 0.10%  
+USDCHF 0.9343 0.87%  
   
-USDCAD 1.0285 0.01%  
+USDCAD 0.9778 0.29%  
   
-EURJPY 99.62 -0.19%  
+EURJPY 101.37 -0.96%  
   
-EURCHF 1.2008 -0.02%  
+EURCHF 1.2097 0.02%  
   
-GBPJPY 122.78 -0.29%  
+GBPJPY 126.73 -0.35%  
   
-GBPCHF 1.4804 -0.13%  
+GBPCHF 1.5128 0.63%  
   
-GOLD 1618.30 0.11%  
+GOLD 1766.00 -0.25%  
   
-AUDJPY 78.77 -0.19%  
+AUDJPY 81.50 -0.63%  
   
-CADJPY 77.10 -0.06%  
+CADJPY 80.04 -0.41%  
   
-SILVER 28.93 0.28%  
+SILVER 34.59 -0.09%  
   
-CADCHF 0.9291 0.11%  
+CADCHF 0.9550 0.59%  
   
-AUDCHF 0.9499 -0.04%  
+AUDCHF 0.9730 0.32%  
   
-NZDCHF 0.7422 0.09%  
+NZDCHF 0.7726 0.56%  
   
-EURAUD 1.2642 -0.01%  
+EURAUD 1.2435 -0.32%  
   
-EURGBP 0.8110 0.12%  
+EURGBP 0.7994 -0.60%  
   
-AUDCAD 1.0217 -0.14%  
+AUDCAD 1.0182 -0.24%  
   
-AUDUSD 0.9936 -0.13%  
+AUDUSD 1.0416 -0.51%  
   
-NZDCAD 0.7983 -0.01%  
+NZDCAD 0.8086 -0.02%  
   
-CRSIDX 10290.3 0.00%  
+CRSIDX 10448.6 -0.10%  
   
-CHFJPY 82.87 -0.16%  
+CHFJPY 83.72 -0.96%  
   
-NZDJPY 61.58 -0.05%
+NZDJPY 64.75 -0.43%
