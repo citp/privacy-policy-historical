@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the roadscholar.org privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511065758id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roadscholar.org privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920185938id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><link href="/includes/css/main.css" rel="stylesheet" type="text/css">
 
 <link rel="stylesheet" type="text/css" media="print" href="/styles/print.css">
 
 
-<script language="JavaScript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script language="JavaScript">
 
 function checkEnter(event)
 {
@@ -377,7 +377,30 @@ function SetZoom()
 <body bgcolor="#ffffff"><form name="thisForm" method="Post">
 <div id="divAccessibility"></div>
 <div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
+
+<script type="text/javascript">
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '138268576215943',
+            status: true, // check login status
+            channelUrl: window.location.protocol  + '//' + window.location.host + '/channel.html', //custom channel
+            cookie: true, // enable cookies to allow the server to access the session
+            xfbml: true  // parse XFBML
+        });
+
+        
+
+    };
+
+    // Load the SDK Asynchronously
+        (function (d) {
+            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            ref.parentNode.insertBefore(js, ref);
+        } (document));
+</script>
 <style type="text/css">@import url("/includes/css/headerbar.css");</style>
 
 <div class="buttonRed" style="display:none;"></div>
@@ -398,8 +421,8 @@ function SetZoom()
                                 <img src="/i2.0/header/twitter_icon.jpg" alt="Twitter">
                             </a>
                             &nbsp;
-                            <a href="http://www.roadscholar.org/social/intro.asp">
-                                <img src="/i2.0/header/roadscholar_connection_icon.jpg" alt="Road Scholar Connection">
+                            <a href="http://www.roadscholar.org/n/social/intro.aspx">
+                                <img src="/i2.0/header/roadscholar_connection_icon.jpg" alt="Road Scholar Social Network">
                             </a>
                         </div>
                         <div class="floatLeft" style="width: 20px;">&nbsp;</div>
@@ -436,7 +459,7 @@ function SetZoom()
                         
                     
                         <div id="HeadingBarLogInButton" class="floatRight">
-                            <div id="HeadingBarSliderBox" class="floatRight">
+                            <div id="HeadingBarSliderBox" class="floatRight" style="height:175px;">
                                 <div style="text-align: right; margin-right: 20px; padding: 5px 10px;">
                                     <div style="width: 100%;">
                                         <a href="javascript: void(0);" onclick="RSHeaderBar.ToggleLogInBox();" style="color: #000;">
@@ -450,8 +473,8 @@ function SetZoom()
 
                                         
 
-                                             <!--   <iframe id="rs_widget_logreg" class="widget_login" src="https://www.roadscholar.org/account/ac_login.asp?C=Y&rs_widget_login=1&d=1336705020&SourcePage=http%3A%2F%2Fwww%2Eroadscholar%2Eorg%2Fabout%2Fprivacy%2Easp%3F" scrolling="no" frameBorder="0" marginheight="0" marginwidth="0"></iframe>  -->
-                                             <iframe id="rs_widget_logreg" class="widget_login" src="https://www.roadscholar.org/account/ac_login.asp?C=Y&amp;rs_widget_login=1&amp;d=1336705020" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+                                             <!--   <iframe id="rs_widget_logreg" class="widget_login" src="https://www.roadscholar.org/account/ac_login.asp?C=Y&rs_widget_login=1&d=1348153081&SourcePage=http%3A%2F%2Fwww%2Eroadscholar%2Eorg%2Fabout%2Fprivacy%2Easp%3F" scrolling="no" frameBorder="0" marginheight="0" marginwidth="0"></iframe>  -->
+                                             <iframe id="rs_widget_logreg" class="widget_login" src="https://www.roadscholar.org/account/ac_login.asp?C=Y&amp;rs_widget_login=1&amp;d=1348153081&amp;SourcePage=http%3A%2F%2Fwww%2Eroadscholar%2Eorg%2Fabout%2Fprivacy%2Easp%3F" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
                                     
                                         
 
@@ -468,7 +491,17 @@ function SetZoom()
                                         <div class="clear"></div>
                                     </div>
                                     <br>
-                                    
+                                    <div align="center">
+                                        <span style="font-weight: bold; font-size: 16px;">or</span>&nbsp;&nbsp;
+                                        
+                                        <a id="FBDoLogin" class="fb_button fb_button_medium" href="javascript: void(0);" tabindex="2">
+                                            <span class="fb_button_text">
+                                                Log In via Facebook
+                                            </span>
+                                        </a>
+
+                                        <div style="height: 8px;">&nbsp;</div>
+                                    </div>
                                     Log in to see all you can do with your online Road Scholar account.
                                 </div>
                                 <div id="HeadingBarRegister" class="widget_register2">
@@ -541,7 +574,7 @@ function SetZoom()
             </div>
         </div>
 	</div>
-    <script type="text/javascript" src="/includes/javascript/header.js?r=5%2F11%2F2012+2%3A57%3A00+AM"></script>
+    <script type="text/javascript" src="/includes/javascript/header.js?r=9%2F20%2F2012+2%3A58%3A01+PM"></script>
     
     <script type="text/javascript">RSHeaderBar.setSecureMode(false);</script>
     
@@ -671,7 +704,7 @@ function SetZoom()
 </li>
 
 <li style="z-index: 91;"><a href="http://www.roadscholar.org/programs/asia.asp">Asia</a>
-	<ul style="display: none; top: 357px; visibility: visible;">
+	<ul style="display: none; top: 340px; visibility: visible;">
     	<li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Bhutan">Bhutan</a></li>
         <li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Brunei">Brunei</a></li>
         <li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Cambodia">Cambodia</a></li>
@@ -684,7 +717,6 @@ function SetZoom()
         <li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Laos">Laos</a></li>
         <li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Malaysia">Malaysia</a></li>
         <li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Mongolia">Mongolia</a></li>
-		<li><a href="http://www.roadscholar.org/programs/search_res.asp?CountryCode=Myanmar">Myanmar</a></li>
         <li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Nepal">Nepal</a></li>
         <li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Philippines">Philippines</a></li>
         <li><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;CountryCode=Singapore">Singapore</a></li>
@@ -725,7 +757,7 @@ function SetZoom()
         <li><a href="/programs/search_res.asp?Type=A&amp;StateCode=BC">British Columbia</a></li>
         <li><a href="/programs/search_res.asp?Type=A&amp;StateCode=MB">Manitoba</a></li>
         <li><a href="/programs/search_res.asp?Type=A&amp;StateCode=NB">New Brunswick</a></li>
-        <li><a href="/programs/search_res.asp?Type=A&amp;StateCode=NF">Newfoundland</a></li>
+        <li><a href="/programs/search_res.asp?Type=A&amp;StateCode=NL">Newfoundland</a></li>
         <li><a href="/programs/search_res.asp?Type=A&amp;StateCode=NS">Nova Scotia</a></li>
         <li><a href="/programs/search_res.asp?Type=A&amp;StateCode=NU">Nunavut</a></li>
         <li><a href="/programs/search_res.asp?Type=A&amp;StateCode=ON">Ontario</a></li>
@@ -1215,21 +1247,14 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
         PGM END -->
 
 
-        <!-- PGM   Speaker series plug for May 9th -->
-        
-             <div class="plug">
-                <a href="http://www.roadscholar.org/lps/speakerseries.asp?cm_sp=Plug-_-Boomer-_-Speaker0512"><img src="http://www.roadscholar.org/i2.0/plugs/speakerseriesplug.png" alt="Speaker Series"></a>           
-             </div>
-        
-        <!-- PGM End -->
-
-
 		
             <iframe class="FBLikeBox" src="http://www.facebook.com/plugins/likebox.php?id=126193157395400&amp;width=238&amp;connections=4&amp;stream=false&amp;header=false&amp;height=355" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
         <br>
         
         <br>  
     
+  <!--      <div style="border:1px solid:#333333;"><a href="./lps/marigold.asp?cm_sp=Plug-_-Boomer-_-Marigold0712"><img src="../lps/i/marigold/Marigold_Plug_Jul12.png" alt="Marigold Ideas for Good Contest" /></a></div>
+        <br />-->
 <div class="rightnavsearch shadow" id="rightnavsearch">
             
 			<span><strong>I WANT TO LEARN ABOUT ...</strong></span>
@@ -1238,7 +1263,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 			<br>
 			<span><b>in</b></span>
 			<br>
-			<select style="font-size:11px; color: #000000; width:98%;" onchange="handleLocation(this);" size="1" name="COUNTRY_CODE" id="COUNTRY_CODE"><option selected="" value="">[Any Country]</option><option value="United States">United States</option><option value="International">All Except USA</option><option value="Afghanistan">Afghanistan</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua and Barbuda">Antigua and Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="British Virgin Islands">British Virgin Islands</option><option value="Brunei">Brunei</option><option value="Bulgaria">Bulgaria</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Canary Islands">Canary Islands</option><option value="Cape Verde">Cape Verde</option><option value="Central African Republic">Central African Republic</option><option value="Chile">Chile</option><option value="China">China</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Curacao">Curacao</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="Easter Island">Easter Island</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="England">England</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands">Falkland Islands</option><option value="Faroe Islands">Faroe Islands</option><option value="Federated States of Micronesia">Federated States of Micronesia</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="France Southern Territories">France Southern Territories</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French West Indies">French West Indies</option><option value="Gabon">Gabon</option><option value="Galapagos Islands">Galapagos Islands</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guernsey Island">Guernsey Island</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard and Mc Donald Islands">Heard and Mc Donald Islands</option><option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran">Iran</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Ivory Coast">Ivory Coast</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jersey Island">Jersey Island</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Korea">Korea</option><option value="Kosovo">Kosovo</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Laos">Laos</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Midway Island">Midway Island</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montenegro">Montenegro</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pacific Islands">Pacific Islands</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russia (Siberia)">Russia (Siberia)</option><option value="Russian Federation">Russian Federation</option><option value="Samoa">Samoa</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Scotland">Scotland</option><option value="Senegal">Senegal</option><option value="Serbia">Serbia</option><option value="Seychelles">Seychelles</option><option value="Shetland Islands">Shetland Islands</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="South Africa">South Africa</option><option value="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich </option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="St Kitts and Nevis">St Kitts and Nevis</option><option value="St. Barts">St. Barts</option><option value="St. Eustatius (Statia)">St. Eustatius (Statia)</option><option value="St. Lucia">St. Lucia</option><option value="St. Pierre &amp; Miquelon">St. Pierre &amp; Miquelon</option><option value="St. Vincent and the Grenadines">St. Vincent and the Grenadines</option><option value="Surinam">Surinam</option><option value="Suriname">Suriname</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria">Syria</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Tasmania">Tasmania</option><option value="Thailand">Thailand</option><option value="Tibet">Tibet</option><option value="Togo">Togo</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tristan da Cunha">Tristan da Cunha</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos">Turks and Caicos</option><option value="US Virgin Islands">US Virgin Islands</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Venezuela">Venezuela</option><option value="Vietnam">Vietnam</option><option value="Wales">Wales</option><option value="Yemen">Yemen</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select>
+			<select style="font-size:11px; color: #000000; width:98%;" onchange="handleLocation(this);" size="1" name="COUNTRY_CODE" id="COUNTRY_CODE"><option selected="" value="">[Any Country]</option><option value="United States">United States</option><option value="International">All Except USA</option><option value="Afghanistan">Afghanistan</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua and Barbuda">Antigua and Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="British Virgin Islands">British Virgin Islands</option><option value="Brunei">Brunei</option><option value="Bulgaria">Bulgaria</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Canary Islands">Canary Islands</option><option value="Cape Verde">Cape Verde</option><option value="Central African Republic">Central African Republic</option><option value="Chile">Chile</option><option value="China">China</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Curacao">Curacao</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="Easter Island">Easter Island</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="England">England</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands">Falkland Islands</option><option value="Faroe Islands">Faroe Islands</option><option value="Federated States of Micronesia">Federated States of Micronesia</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="France Southern Territories">France Southern Territories</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French West Indies">French West Indies</option><option value="Gabon">Gabon</option><option value="Galapagos Islands">Galapagos Islands</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guernsey Island">Guernsey Island</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard and Mc Donald Islands">Heard and Mc Donald Islands</option><option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran">Iran</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Ivory Coast">Ivory Coast</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jersey Island">Jersey Island</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Korea">Korea</option><option value="Kosovo">Kosovo</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Laos">Laos</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Midway Island">Midway Island</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montenegro">Montenegro</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pacific Islands">Pacific Islands</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russia (Siberia)">Russia (Siberia)</option><option value="Russian Federation">Russian Federation</option><option value="Samoa">Samoa</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Scotland">Scotland</option><option value="Senegal">Senegal</option><option value="Serbia">Serbia</option><option value="Seychelles">Seychelles</option><option value="Shetland Islands">Shetland Islands</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="South Africa">South Africa</option><option value="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich </option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="St Kitts and Nevis">St Kitts and Nevis</option><option value="St. Barts">St. Barts</option><option value="St. Eustatius (Statia)">St. Eustatius (Statia)</option><option value="St. Lucia">St. Lucia</option><option value="St. Pierre &amp; Miquelon">St. Pierre &amp; Miquelon</option><option value="St. Vincent and the Grenadines">St. Vincent and the Grenadines</option><option value="Surinam">Surinam</option><option value="Suriname">Suriname</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria">Syria</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Tasmania">Tasmania</option><option value="Thailand">Thailand</option><option value="Tibet">Tibet</option><option value="Togo">Togo</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tristan da Cunha">Tristan da Cunha</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos">Turks and Caicos</option><option value="US Virgin Islands">US Virgin Islands</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Venezuela">Venezuela</option><option value="Vietnam">Vietnam</option><option value="Wales">Wales</option><option value="Yemen">Yemen</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select>
 			<br>
 			<span><b>or</b></span>
 			<br>
@@ -1290,15 +1315,15 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
                         </a>
                         <br>
                         <a style="color:#333333;" href="http://blog.roadscholar.org?cm_sp=Plug-_-Boomer-_-Blog811Boom">
-                            <span style="font-size: 12px;">Eleni Petroutsou, Road Scholar Instructor: “Why Greece is so special to me!”</span>
+                            <span style="font-size: 12px;">Linda’s Story: Making a Difference with Road Scholar &amp; Habitat for Humanity</span>
                         </a>
                     </div>
                 </div>
                 <div class="plug_blog_pane" style="width:230px;">
                     <div class="blog_pane_content">
                         <div class="floatLeft" style="margin: 0; width: 55px;">
-                            <a href="http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-Blog811Boom">
-                                <img src="http://www.roadscholar.org//lps/i/nancy_blog.jpg" alt="Road Scholar Blogs: Nancy" style="width: 50px;">
+                            <a href="http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog#Read_Diane_s_Blog">
+                                <img src="/lps/i/Diane_blog.jpg" alt="Road Scholar Blogs: Diane" style="width: 50px;">
                             </a>
                         </div>
 
@@ -1306,14 +1331,10 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
                            <div class="floatLeft">
                         
                         
-                        
-                        
-                        
-                            <a href="http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog" style="text-decoration: none;">
+                            <a href="http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog#Read_Diane_s_Blog" style="text-decoration: none;">
                                 <strong>Our featured participant<br>
                                 blog...</strong>
-                                Follow Along With<br>Nancy Through the North<br>&amp; South of India</a><br>
-                              <!--  <a style="color:#750000;" href="http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog" style="color: #990033;">Read more</a>  -->
+                                Experience the<br>Many Treasures of Sicily<br>with Diane</a><br>
                         </div>
                         <div class="clear"></div>
                     </div>
@@ -1348,7 +1369,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
             </div>
             <div style="height: 124px; width: 227px; padding: 0; margin: 0;">
                 <a href="http://www.roadscholar.org/programs/enewslanding.asp?ecode=AWP&amp;layout=PL&amp;cm_sp=Plug-_-Boomer-_-TopRatedB611">
-                    <img src="/i2.0/plugs/TopRatedMay2012.jpg" style="border-bottom:2px solid #333333; border-left:2px solid #333333; border-right:2px solid #333333;" width="227" alt="Our Top-Rated Adventures: China by Train and Yangtze Riverboat">
+                    <img src="/i2.0/plugs/TopRatedSept2012.jpg" style="border-bottom:2px solid #333333; border-left:2px solid #333333; border-right:2px solid #333333;" width="227" alt="Our Top-Rated Adventures: Bahamas / Aruba / Panama / Costa Rica / The Southern Caribbean And Panama Canal: A Journey Through History And Nature">
                 </a>
             </div>
 		</div>
@@ -1364,7 +1385,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
             </div>
             <div style="height: 140px;  width: 227px; padding: 0; margin: 0;">
                 <a href="http://www.roadscholar.org/programs/special_offers.asp?cm_sp=Plug-_-Boomer-_-SpecialOffers">
-                    <img src="/i2.0/plugs/SpecialOffersMay2012.jpg" style="border:2px solid #333333; border-top: 0 none;" alt="Special Offers: Painting the New Hampshire Landscape with Watercolor">
+                    <img src="/i2.0/plugs/SpecialOffersSept2012.jpg" style="border:2px solid #333333; border-top: 0 none;" alt="Special Offers: New Zealand / New Zealand: An Odyssey Down Under">
                 </a>
             </div> 
 		</div>
@@ -1395,11 +1416,14 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
         </div>
         -->
 
+            
+
+
         <div class="plug" style="margin-bottom:0; height:157px; padding-bottom: 10px;">
             <div style="background-color: #750000; height: 45px; width: 231px; padding: 0; margin: 0; text-align: center;">
                 <a class="cleartext" href="http://www.roadscholar.org/forms/referafriend_form.asp?cm_sp=Plug-_-Boomer-_-RAF1211B" style="color: #fff; font-weight: bold; font-size: 13px;">
                     <div style="padding-top: 9px; margin: 0;">
-                        Announcing our NEW<br>Introduce-a-Friend Raffle
+                        Announcing our<br>Introduce-a-Friend Raffle
                     </div>
                 </a>
             </div>
@@ -1411,7 +1435,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
                 <div style="padding: 9px;">
                     Refer a friend to Road Scholar, and you could win our 
                     <a style="color:#750000; font-size:120%;" href="http://www.roadscholar.org/forms/referafriend_form.asp?cm_sp=Plug-_-Boomer-_-RAF1211B"><b>weekly drawing for a $400 gift certificate!</b></a>
-                    <br>Congratulations to this week's winner, <b>Barbara C.</b>  
+                    <br>Congratulations to this week's winner, <b>Robert &amp; Grace P.</b>  
                 </div>
             </div>
         </div>
@@ -1502,13 +1526,13 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 
 
  <!--           
+
                 <div style="border: 2px solid #750000; border-top: 0 none; height: 140px; width: 227px; padding: 0; margin: 0;">
-                    <a href="http://www.roadscholar.org/programs/search_res.asp?CountryCode=Egypt&cm_sp=Plug-_-Boomer-_-Egypt911B">
-                        <img src="/i2.0/plugs/EgyptSept.jpg" alt="the Treasures of the Pharaohs " /><br />
+                    <a href="http://www.roadscholar.org/programs/search_res.asp?Type=A&CountryCode=Japan&cm_sp=Plug-_-Boomer-_-Japan911B">
+                        <img src="/i2.0/plugs/Japan.jpg" alt="the rituals, beauty and people of Japan" /><br />
                     </a>
                 </div>
-
-
+		
               -->
         
         
@@ -1579,25 +1603,41 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
              <hr style="height: 2px; background-color: #a1a1a1; width: 95%;" />
              -->
 
+             <!--
             <div style="text-align:center;">
                 <a href="http://www.roadscholar.org/about/gift_certificate.asp?cm_sp=Plug-_-Boomer-_-GiftCert0512">
-                <img src="../i2.0/plugs/Slice_GiftCertificate.png" alt="Try a Road Scholar Gift Certificate">
+                <img src="../i2.0/plugs/Fathersday_GiftCertificate.png" alt="Try a Road Scholar Gift Certificate" />
                 </a>
-            </div>
-            <br>
-
-            <hr style="height: 2px; background-color: #a1a1a1; width: 95%;">
-
-            <!--
-            <div class="plug" style="margin-top: 10px; padding: 0;">
-              <a href="http://www.roadscholar.org/globaldiscoveries/holyland.asp?cm_sp=Plug-_-Boomer-_-HolyLand1011B"><h5>Visit the Holy Land </h5> with your church.</a>
             </div>
             -->
 
-            <div class="plug" style="margin-top: 10px; padding: 0; text-align:left; padding-left:25px;">
-              <a href="http://www.roadscholar.org/ambassador/jot_main.asp?cm_sp=Plug-_-Boomer-_-Ambass0512"><h5>Join Our Team:</h5><span style="font-size:13px; font-weight:bolder;"><br>Become a Volunteer<br>Road Scholar Ambassador</span></a>
+            <div style="margin-right:13px;">
+                <a href="http://www.roadscholar.org/lps/masterclass.asp?cm_sp=Plug-_-Boomer-_-Book0812">
+                <img src="../i2.0/plugs/mc_aug12.png" alt="Master Class: Live Longer, Stronger, and Happier">
+                </a>
             </div>
 
+             <div style="margin-right:13px; padding-top:5px;">
+                <a href="http://www.roadscholar.org/support/annualfund_main.asp?cm_sp=Plug-_-Boomer-_-AF0812">
+                <img src="../i2.0/plugs/DEV_Aug12.png" alt="Support Our Annual Fund">
+                </a>
+            </div>
+
+
+            <!--
+            <hr style="height: 2px; background-color: #a1a1a1; width: 95%;" />
+
+            
+            <div class="plug" style="margin-top: 10px; padding: 0;">
+              <a href="http://www.roadscholar.org/ambassador/jot_main.asp?cm_sp=Plug-_-Boomer-_-Amb0812">
+              <span style="font-size:14px;"><b>Help spread the word about<br />Road Scholar.</b></span> &nbsp; Become a<br />volunteer Ambassador.</a>
+            </div>
+            
+
+            <div class="plug" style="margin-top: 10px; padding: 0; text-align:left; padding-left:25px;">
+              <a href="http://www.roadscholar.org/ambassador/jot_main.asp?cm_sp=Plug-_-Boomer-_-Ambass0512"><h5>Join Our Team:</h5><span style="font-size:13px; font-weight:bolder;"><br />Become a Volunteer<br />Road Scholar Ambassador</span></a>
+            </div>
+            -->
               
 
     </div>
@@ -1626,6 +1666,23 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 {
 	border-right:2px solid #CCCCCC;
 }
+
+.redlink
+{
+    PADDING-TOP: 0px;
+}
+.redlink A
+{
+    FONT-SIZE: 12px;
+    COLOR: #990033;
+    TEXT-DECORATION: none
+}
+.redlink A:hover
+{
+    COLOR: #990033;
+    TEXT-DECORATION: underline
+}
+
 </style>
 
 
@@ -1748,72 +1805,136 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 		
 		
 
-			<div id="insiderBox" class="insiderBox">
-				<input type="text" class="shortLength shadowLight" tabindex="3" name="addem2" id="addem2" onkeypress="checkEnterCustom(event);" onclick="clearInputField(this,'  E-mail address'); " onblur="clearInputField2(this,'  E-mail address');" value="  E-mail address" size="20" maxlength="50">
-				<script language="javascript">
+        <div id="prem_signup" style="padding-left:5px; padding-bottom:5px;">
+            <script language="javascript">
+                function checkEnterCustom(event) {
+                    var code = 0
 
-				    function checkEnterCustom(event) {
-				        var code = 0
+                    if (window.event) {
+                        event = window.event;
+                    }
 
-						if (window.event)
-						{
-							event = window.event;
-						}
+                    if (event.which)
+                        code = event.which
+                    else
+                        code = event.keyCode;
 
-				        if (event.which)
-							code = event.which
-						else
-					        code = event.keyCode;
+                    if (code == 13) {
+                        processEmail2()
 
-				        if (code == 13) {
-				            processEmail2()
+                        if (e.which)
+                            event.which = 0;
+                        else
+                            event.keyCode = 0;
 
-							if (e.which)
-				                event.which = 0;
-				            else
-				                event.keyCode = 0;
+                        return true;
+                    }
+                    else {
+                        return true;
+                    }
 
-				            return true;
-				        }
-				        else
-				        {
-				            return true;
-				        }
+                }
 
-				    }
+                function processEmail2() {
+                    var email;
+                    email = document.getElementById('addem2').value;
+                    if (document.getElementById('addem2').value != document.getElementById('addem2b').value) {
+                        alert("Emails do not match");
+                    }
+                    else {
+                        if ((email.indexOf("E-mail address") == -1) && (validateEmail(email))) {
+                            document.getElementById('addem2').value = " E-mail address";
+                            document.getElementById('addem2b').value = " Confirm your E-mail address";
+                            //return GB_showCenter('Elderhostel', 'http://www.roadscholar.org/account/ac_email_request.asp?txtEmail=' + email +'',300,500);
+                            return GB_showCenter('', 'http://www.roadscholar.org/account/ac_email_request.asp?rdoAPremium_EH_Email=Yes&hidQuestions=rdoAPremium_EH_Email&txtEmail=' + email + '', 396, 496);
+                        }
+                        else
+                            return false;
 
-				    function processEmail() {
-				        var email;
-				        email = document.getElementById('addem2').value;
-				        if (email.indexOf("E-mail address") == -1) {
-				            document.getElementById('addem2').value = " E-mail address";
-				            window.location = "http://www.roadscholar.org/account/ac_email_request.asp?txtEmail=" + email;
-				        }
-				        else
-				            return false;
-				    }
+                    }
+                }
 
-				    function processEmail2() {
-				        var email;
-				        email = document.getElementById('addem2').value;
-				        if ((email.indexOf("E-mail address") == -1) && (validateEmail(email))) {
-				            document.getElementById('addem2').value = " E-mail address";
-				            //return GB_showCenter('Elderhostel', 'http://www.roadscholar.org/account/ac_email_request.asp?txtEmail=' + email +'',300,500);
-				            return GB_showCenter('Road Scholar', 'http://www.roadscholar.org/account/ac_email_request.asp?rdoAPremium_EH_Email=Yes&hidQuestions=rdoAPremium_EH_Email&txtEmail=' + email + '', 400, 500);
-				        }
-				        else
-				            return false;
-				    }
-				    
-				    function validateEmail(psEmail)
-				    {
-						var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;  
-						return emailPattern.test(psEmail); 						
-				    }
-				</script>
-				<div style="text-align:center; font-size:9px; position:relative;left:-4px;"><span class="primaryColorFront">FREE </span> E-NEWSLETTERS AND <br><span class="primaryColorFront">INSIDER BONUS: </span>10 MUST SEE LEARNING DESTINATIONS <br><a class="highlight" href="#" onclick="processEmail2(); return false;" tabindex="4" manual_cm_re="realestate-_-upper_left-_-email_signup">GO</a></div>
+                function validateEmail(psEmail) {
+                    var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+                    return emailPattern.test(psEmail);
+                }
+
+                function blankFields1() {
+
+                    if (document.getElementById('addem2b').value == "")
+                        document.getElementById('addem2b').value = " Confirm your E-mail address";
+
+                    if (document.getElementById('addem2').value == " E-mail address")
+                        document.getElementById('addem2').value = "";
+
+                }
+
+                function blankFields2() {
+
+                    if (document.getElementById('addem2').value == "")
+                        document.getElementById('addem2').value = " E-mail address";
+
+                    if (document.getElementById('addem2b').value == " Confirm your E-mail address")
+                        document.getElementById('addem2b').value = "";
+
+                }
+
+
+                function noCopyMouse(e) {
+                    var isRight = (e.button) ? (e.button == 2) : (e.which == 3);
+
+                    if (isRight) {
+                        alert("Please re-type your email.");
+                        return false;
+                    }
+                    return true;
+                }
+
+                function noCopyKey(e) {
+                    var forbiddenKeys = new Array('c', 'x', 'v');
+                    var keyCode = (e.keyCode) ? e.keyCode : e.which;
+                    var isCtrl;
+
+
+                    if (window.event)
+                        isCtrl = e.ctrlKey
+                    else
+                        isCtrl = (window.Event) ? ((e.modifiers & Event.CTRL_MASK) == Event.CTRL_MASK) : false;
+
+
+                    if (isCtrl) {
+                        for (i = 0; i < forbiddenKeys.length; i++) {
+                            if (forbiddenKeys[i] == String.fromCharCode(keyCode).toLowerCase()) {
+                                alert("Please re-type your email.");
+                                return false;
+                            }
+                        }
+                    }
+                    return true;
+                }
+
+
+
+            </script>
+
+      
+
+            <img src="../i2.0/newprem/signup1.jpg" alt="signup"><br>
+            <div style="border-left:1px solid #243F51; border-right:1px solid #243F51;  text-align:center; width:190;">
+            <span style="font-size:14px; line-height:125%; color:#193240;">and receive your<br><b>FREE E-Newsletter &amp; <br>E-Photo book:</b></span><br><br>
+            <div style="font-size:13px; line-height:125%; color:#193240;">Top 10 Learning Experiences<br>Around the World</div><br>
+            &nbsp; <input class="shortLength shadowLight" style="width:170px; color:#A2B2BD;" type="text" tabindex="3" name="addem2" id="addem2" onkeypress="checkEnterCustom(event);" onclick="clearInputField(this,'  E-mail address'); blankFields1();" value=" E-mail address" maxlength="50">
+            <br><br>
+            &nbsp; <input class="shortLength shadowLight" style="width:170px; color:#A2B2BD;" type="text" tabindex="4" name="addem2b" id="addem2b" onkeydown="return noCopyKey(event);" onmousedown="return noCopyMouse(event);" onkeypress="checkEnterCustom(event);" onfocus="clearInputField(this,'  Confirm your E-mail address'); blankFields2();" value=" Confirm your E-mail address" maxlength="50">
+            <br><br>
+                <div style="padding-left:120px;">
+                    <a class="buttonblue" style="border-left:1px solid #243F51; border-right:1px solid #243F51; width:50px;" href="#" onclick="processEmail2(); return false;" tabindex="4" manual_cm_re="realestate-_-upper_left-_-email_signup">GO</a>
+                </div>
             </div>
-				
+            <img src="../i2.0/newprem/signup2.jpg" alt="signup">
+        </div>
+
+
             <div style="text-align:center; padding-left:2px;">
                 <div style="width:102%; border-top:1px solid #ccc;"></div>
             </div>
@@ -1827,6 +1948,30 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 
 		
 			
+<!--						
+					<input type="hidden" name="addAA2">
+		
+					<div class="leftNavBlock" >
+						<a href="../globaldiscoveries/default.asp"><h1>Global Discoveries</h1></a><br>
+						<a href="http://www.roadscholar.org/globaldiscoveries/programs.asp"><b><div style="padding-top:6px;">Our Latest Issue</div></b></a>
+						<a href="http://www.roadscholar.org/hilliardaward/default.asp"><b><div style="padding-top:6px;">The Asa Grant Hilliard Award</div></b></a>
+						<a href="http://www.roadscholar.org/globaldiscoveries/kathy.asp"><b><div style="padding-top:6px;">Read Kathy Taylor's Latest Blog</div></b></a>
+						<a href="http://www.roadscholar.org/programs/grandparenttravel.asp"><b><div style="padding-top:6px;">Programs for Grandparents</div></b></a>
+						<a href="http://www.roadscholar.org/programs/charter_programs.asp"><b><div style="padding-top:6px;">Programs for Groups & Churches</div></b></a>
+						<a href="http://www.roadscholar.org/globaldiscoveries/news.asp"><b><div style="padding-top:6px;">News</div></b></a>
+						<a href="http://www.roadscholar.org/about/meet_the_participants.asp"><b><div style="padding-top:6px;">Meet our Participants</div></b></a>
+						<a href="http://www.roadscholar.org/about/meet_the_experts.asp"><b><div style="padding-top:6px;">Meet our Experts</div></b></a>
+								
+						
+						
+						<a href="http://www.facebook.com/rsadventures#!/rsadventures?v=app_179957995360790" manual_cm_re="realestate-_-left_nav-_-FB"><b><div style="padding-top:6px;">Find us on Facebook</div></b></a>
+						<a href="http://www.roadscholar.org/forms/referafriendglobal_form.asp"><b><div style="padding-top:6px;">Tell a Friend, Win a Gift Certificate</div></b></a>
+						
+					</div>
+
+                    -->
+
+		
 
             
          
@@ -1840,16 +1985,16 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 						<h3><a href="http://www.roadscholar.org/programs/new.asp">New Programs</a></h3>
 						<h3><a href="http://www.roadscholar.org/programs/bargains.asp">Budget-Friendly Programs</a></h3>
 						<h3><a href="http://www.roadscholar.org/programs/lastminute.asp">Last-Minute</a></h3>
-                        <h3><a href="http://www.roadscholar.org/programs/lowlevel.asp">Low Activity Level Programs</a></h3>
+                        <h3><a href="http://www.roadscholar.org/lps/low_level.asp">Low Activity Level Programs</a></h3>
 					</ul>
 			</div>
             
 			<div class="leftNavBlock">
 				<a href="#L" onclick="showHideLocations('featuredmonth');"><h1>Featured This Month</h1></a>
 					<ul id="featuredmonth">
-                        <h3><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;ProgDesc=Bicycling">Learning Adventures by Bike</a></h3>
-                        <h3><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;ProgDesc=Photography">Photography Workshops</a></h3>
-                        
+                        <h3><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;StateCode=FL">Florida</a></h3>
+                        <h3><a href="http://www.roadscholar.org/Programs/search_res.asp?Type=A&amp;ProgDesc=Holidays">Holidays</a></h3>
+
 						<h3><a href="http://www.roadscholar.org/programs/grandparenttravel.asp">Intergenerational Adventures</a></h3>
 						<h3><a href="http://www.roadscholar.org/programs/nat_parks.asp">National Parks</a></h3>
 					</ul>
@@ -1871,7 +2016,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 			        </ul>
 			        <h3><a href="http://www.roadscholar.org/programs/world_map.asp">... by Map</a></h3>
 			        <h3><a href="http://www.roadscholar.org/programs/byinterest.asp">... by Interest</a></h3>
-			        <h3><a href="http://www.roadscholar.org/programs/search_res.asp">... by Activity Level</a></h3>
+			        <h3><a href="http://www.roadscholar.org/lps/activity_level.asp">... by Activity Level</a></h3>
 			        <h3><a href="http://www.roadscholar.org/programs/byschedule.asp">... by Date</a></h3>
 			        
 			        <a>... by Category</a>
@@ -1897,7 +2042,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 			        <h3><a href="http://www.roadscholar.org/programs/charter_programs.asp">Plan a Program For Your Group</a></h3>
 					<h3><a href="http://www.facebook.com/rsadventures" manual_cm_re="realestate-_-left_nav-_-FB">Become a Fan on Facebook</a></h3>
                     <h3><a href="http://www.roadscholar.org/lps/blog_participants.asp" manual_cm_re="realestate-_-left_nav-_-FB">Participant Blogs</a></h3>
-					<h3><a href="http://www.roadscholar.org/social/intro.asp" manual_cm_re="realestate-_-left_nav-_-connection">Join our Social Network</a></h3>
+					<h3><a href="http://www.roadscholar.org/n/social/intro.aspx" manual_cm_re="realestate-_-left_nav-_-connection">Join our Social Network</a></h3>
                     <h3><a href="http://www.roadscholar.org/lps/socialmedia.asp" manual_cm_re="realestate-_-left_nav-_-socialmedia">Social Dashboard</a></h3>
 					<h3><a href="http://www.roadscholar.org/photocontest/default.asp">Enter Our Photo Contest</a></h3>
     <!--			<h3><a href="http://www.roadscholar.org/giving/giving_login.asp">Donate</a></h3>    -->
@@ -1933,7 +2078,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
                     <h3><a href="http://www.ptxstore.com/roadscholar/" target="_blank">Online Store</a></h3>
 		            <h3><a href="http://www.roadscholar.org/about/rsts.asp">Road Scholar Travel Services</a></h3>
 		            <h3><a href="http://www.roadscholar.org/research/default.asp">Research and Grants</a></h3>
-		            <h3><a href="http://www.roadscholar.org/jobs/default.asp">Careers</a></h3>
+		            <h3><a href="http://www.roadscholar.org//n/jobs/default.aspx">Careers</a></h3>
 		            <h3><a href="http://www.roadscholar.org/contact/default.asp">Contact Us</a></h3>					</ul>
 				</div>
 	
@@ -1944,40 +2089,30 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 	<div class="leftNavBlock">
 		<!-- <div id="PhotoContest">   -->
 			<a href="http://www.roadscholar.org/photocontest/default.asp"><h1>Photo Contest</h1></a>
-            <a href="http://www.roadscholar.org/photocontest/default.asp">Enter Our Current Contest</a><br>
-            <a href="http://www.roadscholar.org/photocontest/default.asp">See Recent Winners</a><br><br>
+            <a href="http://www.roadscholar.org/photocontest/default.asp">
+                Find out how your photo could<br>
+                be on the cover of a Road<br>
+                Scholar publication!
+            </a><br><br>
             
-			<a href="http://www.roadscholar.org/photocontest/default.asp">First Place Photos:</a><br><br>
-          
-
-            
-            
-            <div style="float:left">
-				<a href="http://www.roadscholar.org/photocontest/default.asp"><img src="../photocontest/i/photo/1_Bednar_US_small.jpg" width="75"></a><br>
+            <div class="redlink" style="padding-bottom:5px;"><a href="http://www.roadscholar.org/photocontest/photocontest_winners.asp">Recent winner</a></div>
+            <div>
+				<a href="http://www.roadscholar.org/photocontest/default.asp"><img src="../photocontest/i/photo/Winner_Cover_small.jpg" width="130"></a>
 			</div>
-			
-			<div style="float:right; padding-right:25px;">
-            	<a href="http://www.roadscholar.org/photocontest/default.asp"><img src="../photocontest/i/photo/1_Killoran_Intl_small.jpg" width="75"></a><br>
-			</div>
-			
-			<script language="Javascript" type="text/Javascript">
-			    if (navigator.appName != "Microsoft Internet Explorer") {
-			        //Firefox needs spaces
-			        document.write("&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> ");
-			    }
-			</script>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br>            
-            &nbsp; <br>
+            <div style="padding-top:10px;" class="redlink"><a href="http://www.roadscholar.org/photocontest/photocontest_winners.asp#archive">Previous winners</a></div>
+	        &nbsp; <br>
             
 		</div>
 
 
 
-
 	</div>	
 
-</div>
+    </div>
 
-	<!-- Party's over -->
+
+
+<!-- Party's over -->
 	
 	</div>
 </div>
@@ -1985,8 +2120,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 <!--IE Corner hack for buttons-->
 <script type="text/javascript"> $('.buttonRedWhite').corner();</script> 
 
-
-<div id="footer" style="top: 9205px; display: block;">
+<div id="footer" style="top: 9374px; display: block;">
 <br>
 
 
@@ -1999,7 +2133,7 @@ window.levelwindow = window.open('http://www.roadscholar.org/zipLookUp.asp','','
 	 | <a href="http://www.roadscholar.org/about/newsmedia_default.asp">Press</a>
 	 | <a href="http://www.roadscholar.org/about/site_map.asp">Site Map</a>
 	 | <a href="http://www.roadscholar.org/about/privacy.asp">Privacy Policy</a>
-	 | <a href="http://www.roadscholar.org/jobs/default.asp">Careers</a> 
+	 | <a href="http://www.roadscholar.org//n/jobs/default.aspx">Careers</a> 
 	 | <a style="color:990000;" href="http://www.roadscholar.org/contact/default.asp">Contact Us</a>
 	 <br><br>
 	<a href="http://www.roadscholar.org/about/copyright.asp">© Elderhostel, Inc. 2012</a><br>
@@ -2029,6 +2163,20 @@ function placeFooter() {
 }
 
 placeFooter();
+
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-34715464-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+
 </script>
 
 <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
@@ -2053,4 +2201,4 @@ cmCreatePageviewTag('Privacy Policy', 'RSHome Misc');
 </form>
 
 
-<div style="position: relative; display: none; margin-left: 100px; top: 1240px; left: 576px; z-index: 99;"><div class="dhtmlxcalendar"><div class="dhtmlxcalendarHeader"><span class="winTitle" title=""></span><div class="btn_close" title="Close"></div></div><table class="entbox" cellpadding="0px" cellspacing="0px" width="100%"><tbody><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcalmonth"><tbody><tr><td align="left" class="month_btn_left"><span>«</span></td><td align="center"><table cellpadding="0px" cellspacing="0px" align="center"><tbody><tr><td><div class="planeMonth">January</div></td><td class="comma">,</td><td><div class="planeYear">2020</div></td></tr></tbody></table></td><td align="right" class="month_btn_right"><span>»</span></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0px" cellspacing="0px" width="100%" align="center" class="dxcaldlabel"><tbody><tr class="daynames"><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcaldays"><tbody><tr><td id="sc&amp;Cal44689820191129" class="othermonth">29</td><td id="sc&amp;Cal44689820191130" class="othermonth">30</td><td id="sc&amp;Cal44689820191131" class="othermonth">31</td><td id="sc&amp;Cal446898202001" class="thismonth">1</td><td id="sc&amp;Cal446898202002" class="thismonth">2</td><td id="sc&amp;Cal446898202003" class="thismonth">3</td><td id="sc&amp;Cal446898202004" class="weekend">4</td></tr><tr><td id="sc&amp;Cal446898202005" class="weekend">5</td><td id="sc&amp;Cal446898202006" class="thismonth">6</td><td id="sc&amp;Cal446898202007" class="thismonth">7</td><td id="sc&amp;Cal446898202008" class="thismonth">8</td><td id="sc&amp;Cal446898202009" class="thismonth">9</td><td id="sc&amp;Cal4468982020010" class="thismonth">10</td><td id="sc&amp;Cal4468982020011" class="weekend">11</td></tr><tr><td id="sc&amp;Cal4468982020012" class="weekend">12</td><td id="sc&amp;Cal4468982020013" class="thismonth">13</td><td id="sc&amp;Cal4468982020014" class="thismonth">14</td><td id="sc&amp;Cal4468982020015" class="thismonth">15</td><td id="sc&amp;Cal4468982020016" class="thismonth">16</td><td id="sc&amp;Cal4468982020017" class="thismonth">17</td><td id="sc&amp;Cal4468982020018" class="weekend">18</td></tr><tr><td id="sc&amp;Cal4468982020019" class="weekend">19</td><td id="sc&amp;Cal4468982020020" class="thismonth">20</td><td id="sc&amp;Cal4468982020021" class="thismonth">21</td><td id="sc&amp;Cal4468982020022" class="thismonth">22</td><td id="sc&amp;Cal4468982020023" class="thismonth">23</td><td id="sc&amp;Cal4468982020024" class="thismonth">24</td><td id="sc&amp;Cal4468982020025" class="weekend">25</td></tr><tr><td id="sc&amp;Cal4468982020026" class="weekend">26</td><td id="sc&amp;Cal4468982020027" class="thismonth">27</td><td id="sc&amp;Cal4468982020028" class="thismonth">28</td><td id="sc&amp;Cal4468982020029" class="thismonth">29</td><td id="sc&amp;Cal4468982020030" class="thismonth">30</td><td id="sc&amp;Cal4468982020031" class="current selected">31</td><td id="sc&amp;Cal446898202011" class="othermonth">1</td></tr><tr><td id="sc&amp;Cal446898202012" class="othermonth">2</td><td id="sc&amp;Cal446898202013" class="othermonth">3</td><td id="sc&amp;Cal446898202014" class="othermonth">4</td><td id="sc&amp;Cal446898202015" class="othermonth">5</td><td id="sc&amp;Cal446898202016" class="othermonth">6</td><td id="sc&amp;Cal446898202017" class="othermonth">7</td><td id="sc&amp;Cal446898202018" class="othermonth">8</td></tr></tbody></table></td></tr></tbody></table></div></div><div style="position: relative; display: none; margin-left: 100px; top: 1240px; left: 771px; z-index: 99;"><div class="dhtmlxcalendar"><div class="dhtmlxcalendarHeader"><span class="winTitle" title=""></span><div class="btn_close" title="Close"></div></div><table class="entbox" cellpadding="0px" cellspacing="0px" width="100%"><tbody><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcalmonth"><tbody><tr><td align="left" class="month_btn_left"><span>«</span></td><td align="center"><table cellpadding="0px" cellspacing="0px" align="center"><tbody><tr><td><div class="planeMonth">January</div></td><td class="comma">,</td><td><div class="planeYear">2020</div></td></tr></tbody></table></td><td align="right" class="month_btn_right"><span>»</span></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0px" cellspacing="0px" width="100%" align="center" class="dxcaldlabel"><tbody><tr class="daynames"><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcaldays"><tbody><tr><td id="sc&amp;Cal95365020191129" class="othermonth">29</td><td id="sc&amp;Cal95365020191130" class="othermonth">30</td><td id="sc&amp;Cal95365020191131" class="othermonth">31</td><td id="sc&amp;Cal953650202001" class="thismonth">1</td><td id="sc&amp;Cal953650202002" class="thismonth">2</td><td id="sc&amp;Cal953650202003" class="thismonth">3</td><td id="sc&amp;Cal953650202004" class="weekend">4</td></tr><tr><td id="sc&amp;Cal953650202005" class="weekend">5</td><td id="sc&amp;Cal953650202006" class="thismonth">6</td><td id="sc&amp;Cal953650202007" class="thismonth">7</td><td id="sc&amp;Cal953650202008" class="thismonth">8</td><td id="sc&amp;Cal953650202009" class="thismonth">9</td><td id="sc&amp;Cal9536502020010" class="thismonth">10</td><td id="sc&amp;Cal9536502020011" class="weekend">11</td></tr><tr><td id="sc&amp;Cal9536502020012" class="weekend">12</td><td id="sc&amp;Cal9536502020013" class="thismonth">13</td><td id="sc&amp;Cal9536502020014" class="thismonth">14</td><td id="sc&amp;Cal9536502020015" class="thismonth">15</td><td id="sc&amp;Cal9536502020016" class="thismonth">16</td><td id="sc&amp;Cal9536502020017" class="thismonth">17</td><td id="sc&amp;Cal9536502020018" class="weekend">18</td></tr><tr><td id="sc&amp;Cal9536502020019" class="weekend">19</td><td id="sc&amp;Cal9536502020020" class="thismonth">20</td><td id="sc&amp;Cal9536502020021" class="thismonth">21</td><td id="sc&amp;Cal9536502020022" class="thismonth">22</td><td id="sc&amp;Cal9536502020023" class="thismonth">23</td><td id="sc&amp;Cal9536502020024" class="thismonth">24</td><td id="sc&amp;Cal9536502020025" class="weekend">25</td></tr><tr><td id="sc&amp;Cal9536502020026" class="weekend">26</td><td id="sc&amp;Cal9536502020027" class="thismonth">27</td><td id="sc&amp;Cal9536502020028" class="thismonth">28</td><td id="sc&amp;Cal9536502020029" class="thismonth">29</td><td id="sc&amp;Cal9536502020030" class="thismonth">30</td><td id="sc&amp;Cal9536502020031" class="current selected">31</td><td id="sc&amp;Cal953650202011" class="othermonth">1</td></tr><tr><td id="sc&amp;Cal953650202012" class="othermonth">2</td><td id="sc&amp;Cal953650202013" class="othermonth">3</td><td id="sc&amp;Cal953650202014" class="othermonth">4</td><td id="sc&amp;Cal953650202015" class="othermonth">5</td><td id="sc&amp;Cal953650202016" class="othermonth">6</td><td id="sc&amp;Cal953650202017" class="othermonth">7</td><td id="sc&amp;Cal953650202018" class="othermonth">8</td></tr></tbody></table></td></tr></tbody></table></div></div><div style="position: relative; display: none; margin-left: 100px; top: 1240px; left: 576px; z-index: 99;"><div class="dhtmlxcalendar"><div class="dhtmlxcalendarHeader"><span class="winTitle" title=""></span><div class="btn_close" title="Close"></div></div><table class="entbox" cellpadding="0px" cellspacing="0px" width="100%"><tbody><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcalmonth"><tbody><tr><td align="left" class="month_btn_left"><span>«</span></td><td align="center"><table cellpadding="0px" cellspacing="0px" align="center"><tbody><tr><td><div class="planeMonth">January</div></td><td class="comma">,</td><td><div class="planeYear">2020</div></td></tr></tbody></table></td><td align="right" class="month_btn_right"><span>»</span></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0px" cellspacing="0px" width="100%" align="center" class="dxcaldlabel"><tbody><tr class="daynames"><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcaldays"><tbody><tr><td id="sc&amp;Cal50500320191129" class="othermonth">29</td><td id="sc&amp;Cal50500320191130" class="othermonth">30</td><td id="sc&amp;Cal50500320191131" class="othermonth">31</td><td id="sc&amp;Cal505003202001" class="thismonth">1</td><td id="sc&amp;Cal505003202002" class="thismonth">2</td><td id="sc&amp;Cal505003202003" class="thismonth">3</td><td id="sc&amp;Cal505003202004" class="weekend">4</td></tr><tr><td id="sc&amp;Cal505003202005" class="weekend">5</td><td id="sc&amp;Cal505003202006" class="thismonth">6</td><td id="sc&amp;Cal505003202007" class="thismonth">7</td><td id="sc&amp;Cal505003202008" class="thismonth">8</td><td id="sc&amp;Cal505003202009" class="thismonth">9</td><td id="sc&amp;Cal5050032020010" class="thismonth">10</td><td id="sc&amp;Cal5050032020011" class="weekend">11</td></tr><tr><td id="sc&amp;Cal5050032020012" class="weekend">12</td><td id="sc&amp;Cal5050032020013" class="thismonth">13</td><td id="sc&amp;Cal5050032020014" class="thismonth">14</td><td id="sc&amp;Cal5050032020015" class="thismonth">15</td><td id="sc&amp;Cal5050032020016" class="thismonth">16</td><td id="sc&amp;Cal5050032020017" class="thismonth">17</td><td id="sc&amp;Cal5050032020018" class="weekend">18</td></tr><tr><td id="sc&amp;Cal5050032020019" class="weekend">19</td><td id="sc&amp;Cal5050032020020" class="thismonth">20</td><td id="sc&amp;Cal5050032020021" class="thismonth">21</td><td id="sc&amp;Cal5050032020022" class="thismonth">22</td><td id="sc&amp;Cal5050032020023" class="thismonth">23</td><td id="sc&amp;Cal5050032020024" class="thismonth">24</td><td id="sc&amp;Cal5050032020025" class="weekend">25</td></tr><tr><td id="sc&amp;Cal5050032020026" class="weekend">26</td><td id="sc&amp;Cal5050032020027" class="thismonth">27</td><td id="sc&amp;Cal5050032020028" class="thismonth">28</td><td id="sc&amp;Cal5050032020029" class="thismonth">29</td><td id="sc&amp;Cal5050032020030" class="thismonth">30</td><td id="sc&amp;Cal5050032020031" class="current selected">31</td><td id="sc&amp;Cal505003202011" class="othermonth">1</td></tr><tr><td id="sc&amp;Cal505003202012" class="othermonth">2</td><td id="sc&amp;Cal505003202013" class="othermonth">3</td><td id="sc&amp;Cal505003202014" class="othermonth">4</td><td id="sc&amp;Cal505003202015" class="othermonth">5</td><td id="sc&amp;Cal505003202016" class="othermonth">6</td><td id="sc&amp;Cal505003202017" class="othermonth">7</td><td id="sc&amp;Cal505003202018" class="othermonth">8</td></tr></tbody></table></td></tr></tbody></table></div></div></body></html>
+<div style="position: relative; display: none; margin-left: 100px; top: 1152px; left: 576px; z-index: 99;"><div class="dhtmlxcalendar"><div class="dhtmlxcalendarHeader"><span class="winTitle" title=""></span><div class="btn_close" title="Close"></div></div><table class="entbox" cellpadding="0px" cellspacing="0px" width="100%"><tbody><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcalmonth"><tbody><tr><td align="left" class="month_btn_left"><span>«</span></td><td align="center"><table cellpadding="0px" cellspacing="0px" align="center"><tbody><tr><td><div class="planeMonth">January</div></td><td class="comma">,</td><td><div class="planeYear">2020</div></td></tr></tbody></table></td><td align="right" class="month_btn_right"><span>»</span></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0px" cellspacing="0px" width="100%" align="center" class="dxcaldlabel"><tbody><tr class="daynames"><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcaldays"><tbody><tr><td id="sc&amp;Cal4166820191129" class="othermonth">29</td><td id="sc&amp;Cal4166820191130" class="othermonth">30</td><td id="sc&amp;Cal4166820191131" class="othermonth">31</td><td id="sc&amp;Cal41668202001" class="thismonth">1</td><td id="sc&amp;Cal41668202002" class="thismonth">2</td><td id="sc&amp;Cal41668202003" class="thismonth">3</td><td id="sc&amp;Cal41668202004" class="weekend">4</td></tr><tr><td id="sc&amp;Cal41668202005" class="weekend">5</td><td id="sc&amp;Cal41668202006" class="thismonth">6</td><td id="sc&amp;Cal41668202007" class="thismonth">7</td><td id="sc&amp;Cal41668202008" class="thismonth">8</td><td id="sc&amp;Cal41668202009" class="thismonth">9</td><td id="sc&amp;Cal416682020010" class="thismonth">10</td><td id="sc&amp;Cal416682020011" class="weekend">11</td></tr><tr><td id="sc&amp;Cal416682020012" class="weekend">12</td><td id="sc&amp;Cal416682020013" class="thismonth">13</td><td id="sc&amp;Cal416682020014" class="thismonth">14</td><td id="sc&amp;Cal416682020015" class="thismonth">15</td><td id="sc&amp;Cal416682020016" class="thismonth">16</td><td id="sc&amp;Cal416682020017" class="thismonth">17</td><td id="sc&amp;Cal416682020018" class="weekend">18</td></tr><tr><td id="sc&amp;Cal416682020019" class="weekend">19</td><td id="sc&amp;Cal416682020020" class="thismonth">20</td><td id="sc&amp;Cal416682020021" class="thismonth">21</td><td id="sc&amp;Cal416682020022" class="thismonth">22</td><td id="sc&amp;Cal416682020023" class="thismonth">23</td><td id="sc&amp;Cal416682020024" class="thismonth">24</td><td id="sc&amp;Cal416682020025" class="weekend">25</td></tr><tr><td id="sc&amp;Cal416682020026" class="weekend">26</td><td id="sc&amp;Cal416682020027" class="thismonth">27</td><td id="sc&amp;Cal416682020028" class="thismonth">28</td><td id="sc&amp;Cal416682020029" class="thismonth">29</td><td id="sc&amp;Cal416682020030" class="thismonth">30</td><td id="sc&amp;Cal416682020031" class="current selected">31</td><td id="sc&amp;Cal41668202011" class="othermonth">1</td></tr><tr><td id="sc&amp;Cal41668202012" class="othermonth">2</td><td id="sc&amp;Cal41668202013" class="othermonth">3</td><td id="sc&amp;Cal41668202014" class="othermonth">4</td><td id="sc&amp;Cal41668202015" class="othermonth">5</td><td id="sc&amp;Cal41668202016" class="othermonth">6</td><td id="sc&amp;Cal41668202017" class="othermonth">7</td><td id="sc&amp;Cal41668202018" class="othermonth">8</td></tr></tbody></table></td></tr></tbody></table></div></div><div style="position: relative; display: none; margin-left: 100px; top: 1152px; left: 771px; z-index: 99;"><div class="dhtmlxcalendar"><div class="dhtmlxcalendarHeader"><span class="winTitle" title=""></span><div class="btn_close" title="Close"></div></div><table class="entbox" cellpadding="0px" cellspacing="0px" width="100%"><tbody><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcalmonth"><tbody><tr><td align="left" class="month_btn_left"><span>«</span></td><td align="center"><table cellpadding="0px" cellspacing="0px" align="center"><tbody><tr><td><div class="planeMonth">January</div></td><td class="comma">,</td><td><div class="planeYear">2020</div></td></tr></tbody></table></td><td align="right" class="month_btn_right"><span>»</span></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0px" cellspacing="0px" width="100%" align="center" class="dxcaldlabel"><tbody><tr class="daynames"><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcaldays"><tbody><tr><td id="sc&amp;Cal97225420191129" class="othermonth">29</td><td id="sc&amp;Cal97225420191130" class="othermonth">30</td><td id="sc&amp;Cal97225420191131" class="othermonth">31</td><td id="sc&amp;Cal972254202001" class="thismonth">1</td><td id="sc&amp;Cal972254202002" class="thismonth">2</td><td id="sc&amp;Cal972254202003" class="thismonth">3</td><td id="sc&amp;Cal972254202004" class="weekend">4</td></tr><tr><td id="sc&amp;Cal972254202005" class="weekend">5</td><td id="sc&amp;Cal972254202006" class="thismonth">6</td><td id="sc&amp;Cal972254202007" class="thismonth">7</td><td id="sc&amp;Cal972254202008" class="thismonth">8</td><td id="sc&amp;Cal972254202009" class="thismonth">9</td><td id="sc&amp;Cal9722542020010" class="thismonth">10</td><td id="sc&amp;Cal9722542020011" class="weekend">11</td></tr><tr><td id="sc&amp;Cal9722542020012" class="weekend">12</td><td id="sc&amp;Cal9722542020013" class="thismonth">13</td><td id="sc&amp;Cal9722542020014" class="thismonth">14</td><td id="sc&amp;Cal9722542020015" class="thismonth">15</td><td id="sc&amp;Cal9722542020016" class="thismonth">16</td><td id="sc&amp;Cal9722542020017" class="thismonth">17</td><td id="sc&amp;Cal9722542020018" class="weekend">18</td></tr><tr><td id="sc&amp;Cal9722542020019" class="weekend">19</td><td id="sc&amp;Cal9722542020020" class="thismonth">20</td><td id="sc&amp;Cal9722542020021" class="thismonth">21</td><td id="sc&amp;Cal9722542020022" class="thismonth">22</td><td id="sc&amp;Cal9722542020023" class="thismonth">23</td><td id="sc&amp;Cal9722542020024" class="thismonth">24</td><td id="sc&amp;Cal9722542020025" class="weekend">25</td></tr><tr><td id="sc&amp;Cal9722542020026" class="weekend">26</td><td id="sc&amp;Cal9722542020027" class="thismonth">27</td><td id="sc&amp;Cal9722542020028" class="thismonth">28</td><td id="sc&amp;Cal9722542020029" class="thismonth">29</td><td id="sc&amp;Cal9722542020030" class="thismonth">30</td><td id="sc&amp;Cal9722542020031" class="current selected">31</td><td id="sc&amp;Cal972254202011" class="othermonth">1</td></tr><tr><td id="sc&amp;Cal972254202012" class="othermonth">2</td><td id="sc&amp;Cal972254202013" class="othermonth">3</td><td id="sc&amp;Cal972254202014" class="othermonth">4</td><td id="sc&amp;Cal972254202015" class="othermonth">5</td><td id="sc&amp;Cal972254202016" class="othermonth">6</td><td id="sc&amp;Cal972254202017" class="othermonth">7</td><td id="sc&amp;Cal972254202018" class="othermonth">8</td></tr></tbody></table></td></tr></tbody></table></div></div><div style="position: relative; display: none; margin-left: 100px; top: 1152px; left: 576px; z-index: 99;"><div class="dhtmlxcalendar"><div class="dhtmlxcalendarHeader"><span class="winTitle" title=""></span><div class="btn_close" title="Close"></div></div><table class="entbox" cellpadding="0px" cellspacing="0px" width="100%"><tbody><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcalmonth"><tbody><tr><td align="left" class="month_btn_left"><span>«</span></td><td align="center"><table cellpadding="0px" cellspacing="0px" align="center"><tbody><tr><td><div class="planeMonth">January</div></td><td class="comma">,</td><td><div class="planeYear">2020</div></td></tr></tbody></table></td><td align="right" class="month_btn_right"><span>»</span></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0px" cellspacing="0px" width="100%" align="center" class="dxcaldlabel"><tbody><tr class="daynames"><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td><table cellpadding="1px" cellspacing="0px" width="100%" align="center" class="dxcaldays"><tbody><tr><td id="sc&amp;Cal41820620191129" class="othermonth">29</td><td id="sc&amp;Cal41820620191130" class="othermonth">30</td><td id="sc&amp;Cal41820620191131" class="othermonth">31</td><td id="sc&amp;Cal418206202001" class="thismonth">1</td><td id="sc&amp;Cal418206202002" class="thismonth">2</td><td id="sc&amp;Cal418206202003" class="thismonth">3</td><td id="sc&amp;Cal418206202004" class="weekend">4</td></tr><tr><td id="sc&amp;Cal418206202005" class="weekend">5</td><td id="sc&amp;Cal418206202006" class="thismonth">6</td><td id="sc&amp;Cal418206202007" class="thismonth">7</td><td id="sc&amp;Cal418206202008" class="thismonth">8</td><td id="sc&amp;Cal418206202009" class="thismonth">9</td><td id="sc&amp;Cal4182062020010" class="thismonth">10</td><td id="sc&amp;Cal4182062020011" class="weekend">11</td></tr><tr><td id="sc&amp;Cal4182062020012" class="weekend">12</td><td id="sc&amp;Cal4182062020013" class="thismonth">13</td><td id="sc&amp;Cal4182062020014" class="thismonth">14</td><td id="sc&amp;Cal4182062020015" class="thismonth">15</td><td id="sc&amp;Cal4182062020016" class="thismonth">16</td><td id="sc&amp;Cal4182062020017" class="thismonth">17</td><td id="sc&amp;Cal4182062020018" class="weekend">18</td></tr><tr><td id="sc&amp;Cal4182062020019" class="weekend">19</td><td id="sc&amp;Cal4182062020020" class="thismonth">20</td><td id="sc&amp;Cal4182062020021" class="thismonth">21</td><td id="sc&amp;Cal4182062020022" class="thismonth">22</td><td id="sc&amp;Cal4182062020023" class="thismonth">23</td><td id="sc&amp;Cal4182062020024" class="thismonth">24</td><td id="sc&amp;Cal4182062020025" class="weekend">25</td></tr><tr><td id="sc&amp;Cal4182062020026" class="weekend">26</td><td id="sc&amp;Cal4182062020027" class="thismonth">27</td><td id="sc&amp;Cal4182062020028" class="thismonth">28</td><td id="sc&amp;Cal4182062020029" class="thismonth">29</td><td id="sc&amp;Cal4182062020030" class="thismonth">30</td><td id="sc&amp;Cal4182062020031" class="current selected">31</td><td id="sc&amp;Cal418206202011" class="othermonth">1</td></tr><tr><td id="sc&amp;Cal418206202012" class="othermonth">2</td><td id="sc&amp;Cal418206202013" class="othermonth">3</td><td id="sc&amp;Cal418206202014" class="othermonth">4</td><td id="sc&amp;Cal418206202015" class="othermonth">5</td><td id="sc&amp;Cal418206202016" class="othermonth">6</td><td id="sc&amp;Cal418206202017" class="othermonth">7</td><td id="sc&amp;Cal418206202018" class="othermonth">8</td></tr></tbody></table></td></tr></tbody></table></div></div></body></html>
