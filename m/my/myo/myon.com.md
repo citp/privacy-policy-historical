@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512020934id_/http%3A//www.myon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022451id_/http%3A//myon.com/privacy.html) for the most accurate reproduction.*
 
 # myON®
 
