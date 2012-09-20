@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemius.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510060300id_/https%3A//www.gemius.com/pl/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemius.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920075405id_/https%3A//www.gemius.com/pl/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy :: Gemius SA
 
