@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519044221id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921014314id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
 
-# Zoopla Privacy policy
+# Homes24 Privacy policy
 
 ## Our commitment to you
 
@@ -27,7 +27,7 @@ We may share with third parties aggregate information or information that does n
 
 ## Communicating with you
 
-If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyHomes24](https://web.archive.org/myzoopla/).
+If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyHomes24](https://web.archive.org/myaccount/).
 
 ## Third parties
 
