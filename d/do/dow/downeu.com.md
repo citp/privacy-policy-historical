@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downeu.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529121142id_/http%3A//www.downeu.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downeu.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920105733id_/http%3A//www.downeu.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -27,4 +27,5 @@ Although Downeu.net does not specifically seek to obtain any information from mi
 
 Downeu.net generates search results automatically from databases and any search may return unexpected or unwanted references. These references may contain offensive, obscene, or illegal material. Because Downeu.net merely links to and does not publish content supplied by third parties or which is generally available on the Internet. Please use this site and any material referred on it responsibly.
 
-Sometimes some contributors wanted article posting in our website and we accept these requests for more quality web,also we acts selectively about contributors. **We dont have any bad bots disturbing to websites.**
+Sometimes some contributors wanted article posting in our website and we accept these requests for more quality web,also we acts selectively about contributors. **We dont have any bad bots disturbing to websites.We dont want lock contents.  
+**
