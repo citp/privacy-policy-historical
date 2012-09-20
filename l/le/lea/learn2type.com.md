@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502073756id_/http%3A//www.learn2type.com/index.cfm%3Faction%3Dhome%26subaction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920044948id_/http%3A//www.learn2type.com/index.cfm%3Faction%3Dhome%26subaction%3DPrivacy) for the most accurate reproduction.*
 
-# Learn2Type.com - Free Typing Test & Online Typing Tutor
+# Learn2Type.com - Free Typing Test & Online Typing Tutor - Privacy Statement
 
 Learn2Type.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learn2Type.com. Your IP address is used to help identify you and tailor your typing lessons and to gather broad demographic information. 
 
