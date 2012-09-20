@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listzillion.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508035203id_/http%3A//listzillion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listzillion.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920040542id_/http%3A//listzillion.com/privacy.php) for the most accurate reproduction.*
 
 # List Zillion
 
