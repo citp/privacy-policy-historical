@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511065758id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920185938id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Road Scholar : Privacy Policy
 
@@ -53,8 +53,6 @@ You can also fax us toll-free at
 |  |    
 
 
-[](http://www.roadscholar.org/lps/speakerseries.asp?cm_sp=Plug-_-Boomer-_-Speaker0512)
-
 **I WANT TO LEARN ABOUT ...**   
   
 **in**   
@@ -64,15 +62,12 @@ You can also fax us toll-free at
 
 Add price, activity level and more. 
 
-[ ](http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-Blog811Boom)
+[ ](http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog#Read_Diane_s_Blog)
 
 [ ](http://www.roadscholar.org/programs/enewslanding.asp?ecode=AWP&layout=PL&cm_sp=Plug-_-Boomer-_-TopRatedB611)
 
 [ ](http://www.roadscholar.org/programs/special_offers.asp?cm_sp=Plug-_-Boomer-_-SpecialOffers)
 
-[ ](http://www.roadscholar.org/about/gift_certificate.asp?cm_sp=Plug-_-Boomer-_-GiftCert0512)
+[ ](http://www.roadscholar.org/lps/masterclass.asp?cm_sp=Plug-_-Boomer-_-Book0812)
 
-  
-
-
-* * *
+[ ](http://www.roadscholar.org/support/annualfund_main.asp?cm_sp=Plug-_-Boomer-_-AF0812)
