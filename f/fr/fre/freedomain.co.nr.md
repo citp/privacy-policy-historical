@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freedomain.co.nr privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529070736id_/http%3A//www.freedomain.co.nr/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomain.co.nr privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920035226id_/http%3A//www.freedomain.co.nr/policy.php) for the most accurate reproduction.*
 
-# Free URL Redirection, No Ads! Short Free Domain Name (you.co.nr)
+# Privacy Policy - Free Domain name .co.nr
 
 CO.NR policy is to respect and protect the privacy of our users. CO.NR will not disclose your personal information to third parties without your consent.
 
@@ -17,4 +17,4 @@ Cookies: CO.NR website uses cookies only to maintain your information as you mov
 
 CO.NR reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at <http://www.freedomain.co.nr/policy.php>
 
-If you have any question, please do not hesitate to [**Contact**](https://web.archive.org/web/20120529070736id_/http%3A//www.freedomain.co.nr/contact.php) us. 
+If you have any question, please do not hesitate to [**Contact**](https://web.archive.org/web/20120920035226id_/http%3A//www.freedomain.co.nr/contact.php) us. 
