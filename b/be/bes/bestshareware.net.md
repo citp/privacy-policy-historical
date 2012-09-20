@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestshareware.net privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603080414id_/http%3A//www.bestshareware.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestshareware.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920102736id_/http%3A//bestshareware.net/privacy.htm) for the most accurate reproduction.*
 
 # BestShareware.net - Privacy
 
