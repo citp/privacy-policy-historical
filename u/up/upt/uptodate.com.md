@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptodate.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626170653id_/http%3A//www.uptodate.com/home/about/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptodate.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920054241id_/http%3A//www.uptodate.com/home/about/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Agreement
 
@@ -36,4 +36,4 @@ This Privacy Policy is effective as of October 27, 2007 and will remain in effec
 
 ## Contacting the Website
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact info@uptodate.com. 
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact [info@uptodate.com](mailto:info@uptodate.com). 
