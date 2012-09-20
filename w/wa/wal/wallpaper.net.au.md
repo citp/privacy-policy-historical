@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaper.net.au privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505061410id_/http%3A//www.wallpaper.net.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper.net.au privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920051640id_/http%3A//www.wallpaper.net.au/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Wallpaper World
 
@@ -19,11 +19,11 @@ Wallpaper World allows third-party companies to serve ads and/or collect certain
   
 External Links  
   
-The Wallpaper World website contains external links to other websites. We are not responsible for the content or practices of these websites. However, we will never intentionally link or advertise any website which contains adult or content that is not suitable for minors. If you believe that a link on our website breaches this statement, please inform us by immediately through our [Contact Us](https://web.archive.org/web/20120505061410id_/http%3A//www.wallpaper.net.au/contact-us.php) form.  
+The Wallpaper World website contains external links to other websites. We are not responsible for the content or practices of these websites. However, we will never intentionally link or advertise any website which contains adult or content that is not suitable for minors. If you believe that a link on our website breaches this statement, please inform us by immediately through our [Contact Us](https://web.archive.org/web/20120920051640id_/http%3A//www.wallpaper.net.au/contact-us.php) form.  
    
   
 Contacting Wallpaper World  
   
-If you have any questions about this privacy policy please contact us using our [Contact Us](https://web.archive.org/web/20120505061410id_/http%3A//www.wallpaper.net.au/contact-us.php) form.  
+If you have any questions about this privacy policy please contact us using our [Contact Us](https://web.archive.org/web/20120920051640id_/http%3A//www.wallpaper.net.au/contact-us.php) form.  
   
  
