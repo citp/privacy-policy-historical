@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondresorts.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522145416id_/https%3A//www.diamondresorts.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondresorts.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920033402id_/https%3A//www.diamondresorts.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
