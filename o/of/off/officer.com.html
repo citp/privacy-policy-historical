@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the officer.com privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516064311id_/http%3A//www.officer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the officer.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920030252id_/http%3A//www.officer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
@@ -17,17 +17,30 @@
    
 
    <!-- Begin included CSS -->
-   <link rel="stylesheet" type="text/css" href="http://www.officer.com/sites/www.officer.com/merrick/files/css/master.orion.css?m=1337106081">
+   <link rel="stylesheet" type="text/css" href="http://www.officer.com/sites/www.officer.com/merrick/files/css/master.orion.css?m=1348003040">
 
    <!-- End included CSS -->
 
    <!-- Begin included scripts -->
-   <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+   <script type="text/javascript" defer="" async="" src="/lib/piwik/piwik.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=3_My6WID9wYfPmEMDn5_YsAZtF4Bcgm_ZQ3m3q0GauQtlOm1A9oEeNXuHVtr9DkO_P">
+
+{
+  siteName: 'officer.com',
+  autoLogin: true,
+  enabledProviders: 'facebook,twitter,google,linkedin',
+  sessionExpiration: 0,                         // expire the user login session when the browser closes
+  connectWithoutLoginBehavior: 'alwaysLogin',   // This will cause Gigya's 'Adding Connection' operation (i.e. when the user clicks one of the social network buttons within the Social Plugins)
+  newUsersPendingRegistration: true            // When a new user logs-in (registers) via Gigya his new account is not considered final until socialize.notifyRegistration is called.
+}
+
+</script>
 <script type="text/javascript" src="http://ox-d.officer.com/w/1.0/jstag"></script>
-<script type="text/javascript" src="http://www.officer.com/sites/www.officer.com/merrick/files/js/5401adf88edff693878558aa8273ed34.js"></script>
+<script type="text/javascript" src="http://www.officer.com/sites/www.officer.com/merrick/files/js/59880c2f9034fcc37f4b135992fbd135.js"></script>
 
 
    
@@ -49,9 +62,14 @@ var _gaq = _gaq || [];
                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                   })();
 
-   
+   var default_fb_image = '/sites/www.officer.com/merrick/themes/orion/css/images/site_logo_fb.png';
+
+
+
    var OX_4dc95e69a1e2d = OX();
-   OX_4dc95e69a1e2d.addAdUnit('19504,162587,162768,162769,162764,162586,162770,162771,162772');
+   OX_4dc95e69a1e2d.addAdUnit('162768,162769,162586,162770,162771,162772');
+   
+      OX_4dc95e69a1e2d.addPage('12771');
    
    
       OX_4dc95e69a1e2d.addVariable('env','live');
@@ -78,16 +96,30 @@ $(document).ready(function(){
 
    
 
-   $('.dropdown').parent().hover(function() {
 
-      /*$('.dropdown_nav').each(function() {
-         $(this).hide(0);
-      });*/
+   /*  Navigation Dropdown Menu JS  */
+
+   
+   $('.dropdown').parent().hover(function() {
 
       $(this).find('.dropdown').next('.dropdown_nav').stop(false,false).show();//.slideDown('fast');
 
    }, function() {
       $(this).find('.dropdown').next('.dropdown_nav').hide(0);
+   });
+   
+   
+   /*  LoggedIn Drop Down Menu JS  */
+   
+   
+   $('.logged_in_dropdown').parent().hover(function() {
+   
+      $(this).find('.logged_in_dropdown').next('.dropdown_nav').stop(false,false).show().slideDown('fast');
+      $(this).parents('#logged_in').addClass('active');
+
+   }, function() {
+      $(this).find('.logged_in_dropdown').next('.dropdown_nav').hide(0);
+      $(this).parents('#logged_in').removeClass('active');
    });
 
 
@@ -106,17 +138,17 @@ $(document).ready(function(){
    /* Animate the ad gracefully. */
    var timeout = 15000;
    if (typeof $('#welcome_ad')[0] != 'undefined' && $('#welcome_ad')[0].nodeName == 'DIV'){
-      $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800); });
+      $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); }); });
       $('#welcome_ad').animate({ height: 520 }, 800);
       if ($('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
-      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800);", timeout);
+      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
    } else {
       if ($('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
-      setTimeout("$('#welcome_frame').animate({ height: 0 }, 800);", timeout);
+      setTimeout("$('#welcome_frame').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
    }
 
 
@@ -127,8 +159,7 @@ default_text('EMAIL_ADDRESS');
 
    $('#magazine_sub_hover').tooltip({ effect: 'slide', tipClass: 'magazine_tooltip', relative: true, position: 'top center', offset: [10, 0]});
    $('.fan_box .profileimage').hide();
-
-tabbed_list_init('social_activity');});
+});
 //]]>
 </script>
 
@@ -136,7 +167,7 @@ tabbed_list_init('social_activity');});
    
 <script type="text/javascript">
 //<![CDATA[
-$(window).load(function(){window.setTimeout('facebook_init()', 3000);});
+$(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 //]]>
 </script>
 
@@ -147,37 +178,6 @@ $(window).load(function(){window.setTimeout('facebook_init()', 3000);});
 
    <!-- Body Javascript includes -->
 <!-- Site Catalyst -->
-<!-- SiteCatalyst code version: H.23.3.
-Copyright 1996-2011 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-
-<script type="text/javascript">
-   var s_account="cygnusofcr";
-   var s_domain_name="officer.com";
-</script>
-
-
-<script language="JavaScript" type="text/javascript" src="/app/merrick/themes/orion/js/s_code_23_3.js"></script>
-
-<script language="JavaScript" type="text/javascript"><!--
-
-s.pageName="privacy-policy";
-s.channel="privacy-policy";
-s.prop1="privacy-policy";
-s.prop2="privacy-policy";
-s.prop3="privacy-policy";
-s.prop9="orion";
-s.eVar9="orion";
-s.events="event1";
-s.hier1="privacy-policy";
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://cygnus.122.2o7.net/b/ss/cygnusofcr/1/H.23.3--NS/0"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.23.3. -->
 
 <!-- Google Analytics -->
 
@@ -226,12 +226,17 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- Background Ad JS (custom) -->
 
 
+<!-- addOptions wrapper (custom) -->
+
+
+
 <!-- Brightcove -->
 
 
 
 <!-- ShareThis -->
 
+<!-- Gigya Analytics -->
 
 
 <!-- Merrick App and Theme JS -->
@@ -239,7 +244,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 <!-- LinkedIn -->
-
 
 <!-- Twitter -->
 
@@ -249,10 +253,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- Piwik -->
 
 
-
-
-   <!-- Deferred loading of Facebook "Like" button and widgets -->
-   
 
 
 
@@ -267,6 +267,19 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 <!-- Bizo -->
   
+
+
+
+
+
+<!-- socialize.js script should only be included once -->
+
+
+
+
+
+
+
 
 
 <!-- Background container -->
@@ -284,10 +297,16 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
          <img src="/sites/www.officer.com/merrick/themes/orion/css/images/site_logo.png" alt=" logo">
       </a>
 <br>
+         <div class="primary">
+   	      <a id="login_link" href="/reg/login/display?referer=/privacy-policy" class="login button_primary button grid_item" title="Sign In">Login</a>
+      <a id="register_link" href="/reg/register/display?referer=/privacy-policy" class="button_secondary button register grid_item alpha" title="Register for Officer.com">Register</a>
       
-   <div class="primary">
-   	      <a href="javascript: void(0)" id="register_button" class="form_modal button_primary button register grid_item alpha" data-block="register" title="Register for Officer.com" rel="#page_overlay">Register</a>
-      <a href="javascript: void(0)" class="form_modal login button_secondary button grid_item" data-block="login" title="Sign In" rel="#page_overlay">Login</a>
+      <div class="social_login grid_item">
+         <script type="text/javascript">
+            gigya.socialize.showLoginUI(gigya_showloginui_params);
+         </script>
+         <div id="loginDiv"></div>
+      </div>
       <div class="grid_item omega">
          <a class="why_register" href="/why_register">Why register?</a>
          <span class="register_tagline">Enhance Your Experience</span>
@@ -302,21 +321,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <span class="advertise primary"><a href="http://www.officer.com/advertise">Advertise</a></span>
     <span class="contact_us primary"><a href="http://www.officer.com/contact_us">Contact Us</a></span>
 </div>
-<div class="facebook_like_button">
-    <fb:like href="http%3A%2F%2Fwww.officer.com%2Fprivacy-policy%3Futm_source%3DFacebook%26utm_medium%3Dsocial%26campaign%3Duser" layout="button_count" show_faces="false" width="0"></fb:like>
-
-</div>
-<div class="google_plus_button">
-	<g:plusone size="medium"></g:plusone>
-
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-</div>
 
          
 
@@ -330,11 +334,13 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
    <div class="header_advertisement">
 	<aside class="ad_728x90">
-   <div class="ad_tracking" rel="19504">
+         <div class="ad_tracking" rel="19504" id="openx_adunit_id__19504">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("19504");
    </script>
 </div>
+      
+      
 </aside>
 
    </div>
@@ -363,8 +369,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 	      <li class="nav_events"><a href="http://www.officer.com/events" target=""><span>Events</span></a></li>
 	      <li class="nav_careers"><a href="http://www.officer.com/careers" target=""><span>Careers</span></a></li>
 	      <li class="nav_http://forums.officer.com"><a href="http://forums.officer.com" target="_blank"><span>Forums</span></a></li>
-	      <li class="nav_blogs"><a href="http://www.officer.com/blogs" target=""><span>Blogs</span></a></li>
-	      <li class="nav_http://o.officer.com/links last"><a href="http://o.officer.com/links" target="_blank"><span>Directories</span></a></li>
+	      <li class="nav_blogs last"><a href="http://www.officer.com/blogs" target=""><span>Blogs</span></a></li>
 	   </ul>
    <!-- Secondary navigation -->
    <ul class="secondary location_home clearfix">
@@ -384,8 +389,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/command-hq/whitepapers" title="Whitepapers" target="">Whitepapers</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -401,8 +407,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/patrol/traffic-enforcement" title="Traffic Enforcement" target="">Traffic Enforcement</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -419,8 +426,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/db-investigations/standard-investigations" title="Standard Investigations" target="">Standard Investigations</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -433,12 +441,12 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/special-operations/k-9" title="K-9" target="">K-9</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/special-operations/maritime" title="Maritime" target="">Maritime</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/special-operations/motorcycles" title="Motorcycles" target="">Motorcycles</a></li>
-									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/special-operations/mounted" title="Mounted" target="">Mounted</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/special-operations/swat" title="SWAT" target="">SWAT</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -453,12 +461,13 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/health-fitness" title="Health &amp; Fitness" target="">Health &amp; Fitness</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/in-service-education" title="In-Service Education" target="">In-Service Education</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/podcasts" title="Podcasts" target="">Podcasts</a></li>
-									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/posa" title="POSA" target="">POSA</a></li>
+									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/posa" title="Police Officer Safety Association" target="">Police Officer Safety Association</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/webinars" title="Webinars" target="">Webinars</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
@@ -473,13 +482,14 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/support-services/psychological-services" title="Psychological Services" target="">Psychological Services</a></li>
 								</ul>
 				<aside class="ad_120x60">
-   
-</aside>
+         
+      
+   </aside>
  
 			</div>
 				</li>
 	      <li class=" last" rel="#section_7611">
-					<a href="http://officerworldexpo.com/" title="Officer World Expo" target="_blank">Officer World Expo</a>
+					<a href="http://enforcementexpo.com/" title="Enforcement Expo" target="_blank">Enforcement Expo</a>
 				</li>
 		</ul>
 	<!-- end secondary navigation -->
@@ -536,34 +546,15 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 	  
 			<section>
 
-   
-<section class="connect_social block">
-    <span class="join_us grid_item">Follow us on:</span>
+   <section class="connect_social block">
 
-    <a class="facebook grid_item" href="http://www.facebook.com/officercom" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/facebook.png" alt="Facebook Icon">
-    </a>
+    <span class="facebook_text grid_item">Follow us on:</span>
 
-    <a class="linkedin grid_item" href="http://www.linkedin.com/groupInvitation?groupID=3287176" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/linkedin.png" alt="LinkedIn Icon">
-    </a>
+    <div id="connect_social_icons"></div>
 
-    <a class="twitter grid_item" href="http://twitter.com/officercom" target="_blank">
-        <img src="/app/merrick/themes/orion/css/images/twitter.png" alt="Twitter Icon">
-    </a>
-   
-    <div class="grid_item mobile">
-        <div class="mobile_text grid_item">Mobile:</div> 
-        
-        <a class="mobile_image grid_item" href="http://mobile.officer.com/privacy-policy">
-            <img src="/app/merrick/themes/orion/css/images/mobile.png" alt="Mobile Icon">
-        </a>  
-    </div>
 
-                <a class="rss" title="No RSS Feed available for this page.">
-                <img src="/sites/www.officer.com/merrick/themes/orion/css/images/rss_gray.png" alt="RSS Icon">
-        </a>
-    
+
+
 
     <div class="clear"></div>
 </section>
@@ -581,9 +572,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
       <h4 class="primary">Sign up for FREE email alerts!</h4>
    
       <div class="signup">
-         <form id="newsletter_signup_form" action="/register/step1" method="get" name="newsletter_signup_form">
+         <form id="newsletter_signup_form" action="/reg/newsletter/display" method="get" name="newsletter_signup_form">
             <input type="email" class="newsletter_signup_email" id="newsletter_signup_form_email" name="email" value="" title="Enter your e-mail address">
-            <a rel="#page_overlay" class="button_primary button form_modal" data-block="register" data-inputs="newsletter_signup_form_email">Submit</a>
+            <input type="submit" class="button_primary button" value="Submit">
          </form>
       </div>
    	   <div class="divider"></div>
@@ -602,90 +593,41 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
    
    <aside class="ad_300x250">
-   <div class="ad_tracking" rel="162587">
+         <div class="ad_tracking" rel="162587" id="openx_adunit_id__162587">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("162587");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
    
-   
-
-<section id="social_activity" class="social_activity block">
-
-   <ul class="tabbed_list clearfix">
-            <li class="item first">
-         <a href="#" class="primary current">Facebook Fans</a>
-      </li>
-            <li class="item">
-         <a href="#" class="primary">Facebook Activity</a>
-      </li>
-            <li class="item last">
-         <a href="#" class="primary">Twitter</a>
-      </li>
-         </ul>
-
-   <div class="tabbed_panes">
-            <div id="facebook_fans_widget" class="activity_box facebook_fans" "="">
-         
-<fb:like-box href="http://www.facebook.com/officercom" width="300" height="308" stream="false" header="true"></fb:like-box>
-
-      </div>
-            <div id="facebook_activity_widget" class="activity_box facebook_activity" style="display: none;">
-         
-<fb:activity width="300" height="308" header="true" recommendations="true"></fb:activity>
-
-      </div>
-            <div id="twitter_feed_widget" class="activity_box twitter_feed" style="display: none;">
-         
+   <section id="social_activity" class="social_activity block" style="clear:both;">
 <script type="text/javascript">
-   /*var T = new TWTR.Widget({
-      version: 2,
-      type: 'profile',
-      rpp: 4,
-      interval: 6000,
-      width: 300,
-      height: 308,
-      theme: {
-         shell: {
-            background: '#4A4A4A',
-            color: '#FFFFFF'
-         },
-         tweets: {
-            background: '#FFFFFF',
-            color: '#333333',
-            links: '#0093DC'
-         }
-      },
-      features: {
-         scrollbar: false,
-         loop: false,
-         live: false,
-         hashtags: true,
-         timestamp: true,
-         avatars: false,
-         behavior: 'all'
-      }
-   }).render().setUser('officercom').start();
-   if (typeof T.decay == 'undefined') {
-      T.decay = (function(){});
-   }*/
+
+var params = {
+    containerID: 'social_activity',
+    width:'300',  //width in px
+    height:'300', //height in px
+    siteName:'Officer.com', //site name
+    enabledProviders:'facebook,twitter,google,linkedin' //comma separated list, e.g. "facebook,myspace,twitter,yahoo,linkedin"
+};
+
+	gigya.socialize.showFeedUI(params);
 </script>
 
-      </div>
-         </div>
 </section>
 
    
    <div class="grid_9_10 alpha most_popular_sidebar">
       <aside class="ad_120x90">
-   <div class="ad_tracking" rel="162768">
+         <div class="ad_tracking" rel="162768" id="openx_adunit_id__162768">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("162768");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
       <div id="homepage_top10" class="homepage_top10">
 	<h3 class="block_title">Top 10 Links</h3>
@@ -706,23 +648,25 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 </div>
 
       <aside class="ad_120x90">
-   <div class="ad_tracking" rel="162769">
+         <div class="ad_tracking" rel="162769" id="openx_adunit_id__162769">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("162769");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
    </div>
    
    <div class="grid_11_12 omega">
       <aside class="ad_160x600">
-   <div class="ad_tracking" rel="162764">
+         <div class="ad_tracking" rel="162764" id="openx_adunit_id__162764">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("162764");
    </script>
 </div>
-</aside>
+      
+   </aside>
 
    </div>
    
@@ -746,11 +690,13 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <div class="ad_container">
         
         <aside class="ad_728x90">
-   <div class="ad_tracking" rel="162586">
+         <div class="ad_tracking" rel="162586" id="openx_adunit_id__162586">
    <script type="text/javascript">
       OX_4dc95e69a1e2d.showAdUnit("162586");
    </script>
 </div>
+      
+      
 </aside>
 
 
@@ -841,8 +787,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 <!-- OAS code -->
 
-
-
+   
 
 
 
@@ -862,9 +807,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
-   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
-<script type="text/javascript" src="http://www.officer.com/sites/www.officer.com/merrick/files/js/37482454b894fba4cd76e46e9fec6904.js"></script>
+   <script type="text/javascript" src="http://www.officer.com/sites/www.officer.com/merrick/files/js/9c84820ed9f6e1fc80ed0c186a63ba34.js"></script>
 
 
    
@@ -888,7 +831,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
    });
    
    
-stLight.options({publisher:'aec08c83-ccff-40ed-a2d4-ff1d4b85220b'});
 
 window['tracker_data'] = { };
 try {
@@ -938,8 +880,38 @@ var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http
 document.write(unescape("%3Cscript src=\"" + _bizo_p + "bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id + "\" type=\"text/javascript\"%3E%3C/script%3E"));
 
 
+
+   var showFollowBarUI_params=
+   { 
+      containerID: 'connect_social_icons',
+      iconSize: 32,
+      buttons: [
+      
+      
+         { provider: 'facebook', actionURL: 'http://www.facebook.com/officercom', action: 'dialog' },
+      
+
+      
+         { provider: 'twitter', action: 'dialog', followUsers: 'officercom' },
+      
+
+      
+         { provider: 'linkedin', actionURL: 'http://www.linkedin.com/groupInvitation?groupID=3287176', title: 'Join us on LinkedIn' },
+      
+
+      
+
+      
+      
+      
+      
+      { provider: 'custom', actionURL: 'http://mobile.officer.com/privacy-policy', iconURL: '/app/merrick/themes/orion/css/images/mobile.png', title: 'View our mobile site' }
+      ]
+   }
+
+gigya.socialize.showFollowBarUI(showFollowBarUI_params);
 //]]>
-</script>
+</script><script src="https://sjs.bizographics.com/convert_data.js?partner_id=786" type="text/javascript"></script>
 
 
 
