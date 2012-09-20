@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magellans.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626163707id_/http%3A//www.magellans.com/store/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magellans.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920150100id_/http%3A//www.magellans.com/store/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magellan's Travel Supplies
 
@@ -65,10 +65,10 @@ If you do not want us to share information you provide to our Website with vendo
 You may also contact us via mail: 
     
     
-     Magellan's Customer Service
-     110 W. Sola St
-     Santa Barbara, CA 93101
-     
+         Magellan's Customer Service
+         110 W. Sola St
+         Santa Barbara, CA 93101
+         
 
 Because catalogs are planned and produced well before they are received the effect is not immediate when you request your name not be shared.
 
