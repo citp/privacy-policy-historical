@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehighvalleyupdates.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516005750id_/http%3A//lehighvalleyupdates.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehighvalleyupdates.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920044359id_/http%3A//lehighvalleyupdates.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy | Lehigh Valley Updates
 
