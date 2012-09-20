@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502094924id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055000id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
 
-# 
+# Abacin.com - Freebies | Coupons | Shopping Deals | Free Advertising | Free Classifieds | Internet Marketing | Online Resources
 
 |    
 The privacy statement discloses the privacy practices for [ Abacin.com](http://www.abacin.com/). If you have questions or concerns regarding this statement, you should first [ contact Abacin](http://member.abacin.com/contact.php?id=abacin). Visitors' privacy and confidentiality is of the utmost importance to [ Abacin](http://www.abacin.com/). Our reputation and integrity is directly related to how we serve our clients and visitors. Please find below a description of how [ Abacin](http://www.abacin.com/) strives to protect our visitors' privacy. 
@@ -40,12 +40,13 @@ Keep me logged in for 90 days
 [ Photo Sharing ](http://directory.abacin.com/134/Photo+Sharing)  
 [ Department Store ](http://directory.abacin.com/93/Department+Store)  
 [ Get Paid for Surveys ](http://directory.abacin.com/6/Get+Paid+for+Surveys)  
-|  [ **Buy.com: Bose Wall/Ceiling Bracket - Zinc for $18.95 (List Price: $999.99)**](http://deals.abacin.com/191638/-bose-wall-ceiling-bracket-zinc-for-18-95-list-price-999-99-?rf=1)  
+|   
 ---  
-[ **Amazon: Super-Cute Turtle Shaped Freshwater Pearl Earrings Deal Price: $5.99**](http://deals.abacin.com/191431/super-cute-turtle-shaped-freshwater-pearl-earrings-deal-price-5-99?rf=1)  
-[ **Groupon: $20 for a 30-Class Yoga and Fitness Pass from MetaBody ($350 Value)**](http://deals.abacin.com/191589/-20-for-a-30-class-yoga-and-fitness-pass-from-metabody-350-value-?rf=1)  
-[ **$61 Off EZOPower Component Audio / Video AV TV Cable w/ Micro-USB Sync & charging Port For Apple iPhone 4S 4, iPad, & iPod - $18.99 + Free Shipping at Newegg.com, exp. 5/1**](http://deals.abacin.com/191405/-61-off-ezopower-component-audio-video-av-tv-cable-w-micro-usb-sync-charging-port-for-apple-iphone-4s-4-ipad-ipod-18-99-free-shipping-at-newegg-com-exp-5-1?rf=1)  
-[ **CheapOStay: Save Up to 65% on Flights plus Get $15 Instant Off! Book Now!**](http://coupons.abacin.com/191698/save-up-to-65-on-flights-plus-get-15-instant-off-book-now-?rf=1)  
-[ **Bike Nashbar: SportRack Voyager 3 Bike Trunk Rack only $39.99 for the month of May! Save $50 only at Nashbar.com!**](http://deals.abacin.com/191815/sportrack-voyager-3-bike-trunk-rack-only-39-99-for-the-month-of-may-save-50-only-at-nashbar-com-?rf=1)  
-[ **Dell: apr 25 - may 4_Limited quantity! Mitsubishi 73-inch WD-73C11 1080p 3D DLP Home Cinema TV for $949.99 only after 54% savings! Coupon Code NR0LHJDQ5RR1FL**](http://coupons.abacin.com/191468/apr-25-may-4-limited-quantity-mitsubishi-73-inch-wd-73c11-1080p-3d-dlp-home-cinema-tv-for-949-99-only-after-54-savings-coupon-code-nr0lhjdq5rr1fl?rf=1)  
-[ **Virgin Mobile: Wildfire $35 Off plus $35 account credit**](http://deals.abacin.com/191379/wildfire-35-off-plus-35-account-credit?rf=1)
+|  [ $10 FREE Credit at Vitacost + 2 FREE Samples + $10 Gift Card + 8% Cashback](http://deals.abacin.com/2128738/-10-free-credit-at-vitacost-2-free-samples-10-gift-card-8-cashback?rf=1)  
+|  [ Free $10 Gift Card from Ebates](http://freebies.abacin.com/2132539/free-10-gift-card-from-ebates?rf=1)  
+|  [ Gevalia: Coffeemaker + 4 Boxes of Gourmet Coffee - Only $9.99 + FREE Shipping](http://deals.abacin.com/206075/gevalia-coffeemaker-4-boxes-of-gourmet-coffee-only-9-99-free-shipping?rf=1)  
+[ Dell: july 25 - oct 3_Save $924.99 off the Mitsubishi C Series 82-inch WD-82C12 1080P DLP Home Cinema TV with 2 year service and free shipping! Coupon code XFP6D?$3W53J1H](http://coupons.abacin.com/2136119/july-25-oct-3-save-924-99-off-the-mitsubishi-c-series-82-inch-wd-82c12-1080p-dlp-home-cinema-tv-with-2-year-service-and-free-shipping-coupon-code-xfp6d-3w53j1h?rf=1)  
+[ Buy.com: Baby & Toddler - Cups(Pack of 33) for $6.97 (List Price: $469.59)](http://deals.abacin.com/2126035/-baby-amp-toddler-cups-pack-of-33-for-6-97-list-price-469-59-?rf=1)  
+[ Groupon: $29 for Investing Program with Courses and Coaching from Investools from TD Ameritrade Holding Corp. (Up to $699 Value)](http://deals.abacin.com/2136559/-29-for-investing-program-with-courses-and-coaching-from-investools-from-td-ameritrade-holding-corp-up-to-699-value-?rf=1)  
+[ GoDaddy: Save up to 90% Now on Go Daddy SSL Certificates! Only $12.99!](http://deals.abacin.com/2132937/save-up-to-90-now-on-go-daddy-ssl-certificates-only-12-99-?rf=1)  
+[ $395 Compendium Hybrid watch now $49 – save $346 at Stauer.com](http://deals.abacin.com/2131240/-395-compendium-hybrid-watch-now-49-save-346-at-stauer-com?rf=1)
