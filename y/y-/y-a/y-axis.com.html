@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the y-axis.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508010411id_/http%3A//www.y-axis.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the y-axis.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920165427id_/http%3A//y-axis.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="Description" content=" Y-Axis Overseas Careers is India's No.1 and fastest growing Overseas Careers and Immigration Consultant."><meta name="googlebot" content="NOODP"><link rel="SHORTCUT ICON" href="images/yaxis.ico"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>
 	Welcome to :: Y-AXIS.com ::
@@ -136,6 +136,49 @@
             return true;
         }
 
+        function Validate() {
+            var name = document.getElementById('name');
+            var emailid = document.getElementById('email');
+            var phone = document.getElementById('phone');
+            var subject = document.getElementById('subject');
+            var enquiry = document.getElementById('description');
+
+            if (name.value.replace(/^\s+|\s+$/g, "") == "") {
+                alert("Please enter your Name!");
+                return false;
+            }
+
+            if (emailid.value.replace(/^\s+|\s+$/g, "") == "") {
+                alert("Please enter Email!");
+                return false;
+            }
+            else {
+                if (emailid.value.replace(/^\s+|\s+$/g, "").search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) != -1) {
+                }
+                else {
+                    alert("Please enter valid Email!");
+                    return false;
+                }
+            }
+
+            if (phone.value.replace(/^\s+|\s+$/g, "") == "") {
+                alert("Please enter Phone Number!");
+                return false;
+            }
+
+            if (subject.value == "") {
+                alert("Please enter Subject!");
+                return false;
+            }
+
+            if (enquiry.value == "") {
+                alert("Please enter Description!");
+                return false;
+            }
+
+            return true;
+        }
+
         function SubscribeValidate() {
             var email = document.getElementById('email');
             if (email.value.replace(/^\s+|\s+$/g, "") == "") {
@@ -187,7 +230,7 @@
                         <div class="logo"><a href="Index.aspx" title="Y-Axis"></a></div>
                     <div class="caption">
                         <p style="margin-top:-7px;">
-                         <strong>India’s No. 1 Overseas Careers &amp; Immigration Consultant</strong><br>Over 100,000 customers served. 5,000 live cases. 15,000 inquiries a month <br>400 consultants.17 offices. 25,000 sq.ft.
+                         <strong>India's No. 1 Overseas Careers &amp; Immigration Consultant</strong><br>Over 100,000 customers served. 5,000 live cases. 15,000 inquiries a month <br>400 consultants.17 offices. 25,000 sq.ft.
 <br><strong>We are the world's largest B2C Visa &amp; Immigration company</strong><br>Experts in Visas, Immigration, Job Search &amp; Admissions
 <br>
       <a href="Officenetwork.aspx">Ahmedabad</a> .  <a href="Officenetwork.aspx">Bangalore</a> .  <a href="Officenetwork.aspx">Calcutta</a> .  <a href="Officenetwork.aspx">Chennai</a> .  <a href="Officenetwork.aspx">Delhi</a> .  <a href="Officenetwork.aspx">Hyderabad</a> .  <a href="Officenetwork.aspx">Mumbai</a> .  <a href="Officenetwork.aspx">Pune</a> .  <a href="ContactUs.aspx#London">London</a>
@@ -195,51 +238,33 @@
                     </div>
                         <div class="phone_email">
                           <div class="phone">
-                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <span style="margin-left:20px;">U.K. (Board Line)  : +44 (0) 2031595107</span><br><span style="margin-left:20px;">U.K. (Mobile)  : +44 7805727176</span><br><span style="margin-left:20px;">India (Toll free)   : 1800-425-1577</span><br><span style="margin-left:20px;">India (Mobile)  : +91 9396401515</span><br><span style="margin-left:20px;">India(Sms)  : NRI to 57333</span><br><span style="margin-left:20px;">Email : consult@y-axis.com </span><table width="100%" border="0" cellspacing="0" cellpadding="0">
                               
                               <tbody><tr>
-                                <td width="42%" align="right" colspan="2">UK &amp; Europe Toll Free:</td>
-                                
-                                <td width="58%" style="padding-left:5px;" align="left" valign="top" colspan="2">+800 121 121 12</td>
                                 
                               </tr>
                               <tr>
-                                <td width="42%" align="right" colspan="2">&nbsp;</td>
-                                
-                                <td width="58%" style="padding-left:5px;" align="left" valign="top" colspan="2">(when calling from a Mobile)</td>
                                 
                               </tr>
                               <tr>
-                                <td width="42%" align="right" colspan="2">&nbsp;</td>
-                                
-                                <td width="58%" style="padding-left:5px;" align="left" valign="top" colspan="2">00-800 121 121 12</td>
                                 
                               </tr>
                               <tr>
-                                <td width="42%" align="right" colspan="2">&nbsp;</td>
-                                
-                                <td width="58%" style="padding-left:5px;" align="left" valign="top" colspan="2">(when calling from a Landline)</td>
                                 
                               </tr>
                               <tr>
-                                <td width="42%" align="right" colspan="2">+44 (0) 2031595107</td>
-                                
-                                <td width="58%" style="padding-left:5px;" align="left" valign="top" colspan="2">+44 (0) 2031595181</td>
                                 
                               </tr>
                               <tr>
-                                <td width="42%" align="right" colspan="2">India: +91 93964 01515</td>
-                                
-                                <td width="58%" style="padding-left:5px;" align="left" valign="top" colspan="2">IND:1800 - 425 - 1577 (TollFree)</td>
-                                
+                                    
                               </tr>
                               
-                              <tr>
+                              <!--<tr>
                                 <td width="42%" align="right" colspan="2"> <div class="email"> Email:<a href="mailto:consult@y-axis.com">consult@y-axis.com</a></div></td>
                                 
                                 <td width="58%" style="padding-left:0px;" align="center" valign="top" colspan="2"><div class="sms">India SMS : NRI to <a href="#">57333</a></div></td>
                                 
-                              </tr>
+                              </tr>-->
                               
 </tbody></table>
                           </div>
