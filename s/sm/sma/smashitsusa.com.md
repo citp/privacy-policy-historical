@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashitsusa.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528182048id_/http%3A//www.smashitsusa.com/index.cfm%3FPage%3DInfo%26Subpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashitsusa.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022030id_/http%3A//smashitsusa.com/index.cfm%3FPage%3DInfo%26Subpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # SmasHitsUSA.com
 
