@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexyjobs.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615172900id_/http%3A//www.sexyjobs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyjobs.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920032706id_/http%3A//www.sexyjobs.com/privacy.asp) for the most accurate reproduction.*
 
 # SexyJobs.com Privacy Statement
 
@@ -68,16 +68,16 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
 
 You may review, correct, update or change your SexyJobs.com resume at any time. You have the following choices to modify or delete your information from our database:
 
-  * Send an [email](https://web.archive.org/web/20120615172900id_/http%3A//www.sexyjobs.com/contact.asp) to our customer service department;
-  * [Click here](https://web.archive.org/web/20120615172900id_/http%3A//www.sexyjobs.com/jsarea.asp) to login with your password and modify/delete your profile;
-  * Call us by telephone at (310) 464-6241;
+  * Send an [email](https://web.archive.org/web/20120920032706id_/http%3A//www.sexyjobs.com/contact.asp) to our customer service department;
+  * [Click here](https://web.archive.org/web/20120920032706id_/http%3A//www.sexyjobs.com/jsarea.asp) to login with your password and modify/delete your profile;
+  * Call us by telephone at 855-799-5627 ext 2;
   * Send mail to the following postal address:
 
 
 
 SexyJobs.com  
-InfoNet Media Group Inc.  
-22337 Pacific Coast Highway, Suite 330   
+InfoNet Publications  
+22337 Pacific Coast Highway, #330   
 Malibu, CA 90265
 
 **9\. Security**
@@ -88,12 +88,12 @@ When you place an order online at SexyJobs.com, your credit card information is 
 
 **10\. Changes to Privacy Statement**
 
-If we decide to change our Privacy Statement for SexyJobs.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about SexyJobs.com's Privacy Statement, please feel free to [email us](https://web.archive.org/web/20120615172900id_/http%3A//www.sexyjobs.com/contact.asp).
+If we decide to change our Privacy Statement for SexyJobs.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about SexyJobs.com's Privacy Statement, please feel free to [email us](https://web.archive.org/web/20120920032706id_/http%3A//www.sexyjobs.com/contact.asp).
 
 **11\. Contact Information**
 
 SexyJobs.com is a name under which InfoNet Media Group, Inc., a California corporation with its principal place of business at 22337 Pacific Coast Hwy, Suite 330, Malibu, CA 90265, and certain of its affiliated companies worldwide, do business. ("Affiliated companies" means entities that control, are controlled by or are under common control with InfoNet Media Group, Inc.). InfoNet Media Group, Inc. is the legal entity which determines the purposes and means of processing the information gathered at SexyJobs.com. The information we gather on SexyJobs.com may be shared within InfoNet Media Group, Inc. and its affiliated companies, including its other web sites that are part of the SexyJobs.com Network. The SexyJobs.com Network consists of SexyJobs.com, AdultJobs.com, AdultIndustry.com, AdultIndustryJobs.com, AdultEmployment.com, AdultPerformers.com and PhoneActresses.com.
 
-We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by [e-mail](https://web.archive.org/web/20120615172900id_/http%3A//www.sexyjobs.com/contact.asp) or by calling us at 1-310-464-6241. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by [e-mail](https://web.archive.org/web/20120920032706id_/http%3A//www.sexyjobs.com/contact.asp) or by calling us at 1-855-799-5627. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
 
 Thank you for using SexyJobs.com.
