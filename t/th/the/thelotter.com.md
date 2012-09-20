@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622010456id_/http%3A//www.thelotter.com/Content.aspx%3FContentId%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920074615id_/http%3A//www.thelotter.com/Content.aspx%3FContentId%3D40) for the most accurate reproduction.*
 
 # Lottery Rules | Online Lottery Policy | theLotter
 
