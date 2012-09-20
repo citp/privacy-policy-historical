@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imfaceplate.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615153631id_/http%3A//www.imfaceplate.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imfaceplate.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920065212id_/http%3A//www.imfaceplate.com/about/privacy) for the most accurate reproduction.*
 
 # social network marketing | FREE online branding with IMfaceplate
 
