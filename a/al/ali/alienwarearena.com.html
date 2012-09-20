@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the alienwarearena.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513143136id_/http%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alienwarearena.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920112154id_/http%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <!-- org = 12 -->
 <!-- region = 1 -->
 <!-- default region = 4 -->
 <!-- country = us -->
-<!-- IPAddress = 207.241.237.229-->
+<!-- IPAddress = GetIp: 207.241.237.229 | cluster: 207.241.237.229 | client: not set | forwarded: 207.241.237.229 | remote: 10.183.252.25 -->
 <!-- SSL: off | http:// -->
 <!--www.alienwarearena.com-->
 		<meta name="google-site-verification" content="CnVdUILXm8j0NW_rhnxo1Q2J-F4MHpswtKTEzzmh22g">
@@ -20,7 +20,7 @@
               <!-- end auto-included css files -->
 		<title>Privacy Policy</title>
 		<!--new JS files-->
-		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=202682546413110"></script><script type="text/javascript" src="/cdn/js/libs/jquery/jquery-1.7.min.js"></script>
+		<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=202682546413110"></script><script type="text/javascript" src="/cdn/js/libs/jquery/jquery-1.7.min.js"></script>
 		<script type="text/javascript" src="/cdn/js/libs/jquery/plugins/jquery.simpletip.js"></script>
 		<script type="text/javascript" src="/cdn/js/libs/jquery/plugins/jquery.qtip.min.js"></script>
 		<script type="text/javascript" src="/cdn/js/libs/jquery/plugins/jquery.simplemodal.js"></script>
@@ -56,7 +56,7 @@
 					$(this).css("cursor", "auto");
 				});
 			});
-		    $(document).ready(function(){ 
+		    $(document).ready(function(){
 		        $("ul.sf-menu").supersubs({ 
 		            minWidth:   12,   // minimum width of sub-menus in em units 
 		            maxWidth:   27,   // maximum width of sub-menus in em units 
@@ -121,6 +121,12 @@
 					}
 					else
 					{
+                                                if ("" == "yes" || data.firstLogin == "yes")
+                        {
+                            var pageTracker = _gat._getTracker("UA-9917033-1");
+                            pageTracker._trackPageview('/account/first-login/');
+                        }
+                        					
 						if (data.redirectUrl)
 							redirectURL = data.redirectUrl;
 						
@@ -135,9 +141,13 @@
 								$("#nav-sign-in").remove();
 								$("#nav-join").remove();
 								$('<li class="separator"><a href="/account/">Account</a></li>').insertAfter('.links .follow-us');
+								if (data.user.military == 'yes')
+									$('<li class="separator"><a href="http://na.alienwarearena.com/groups/military">My Groups</a></li>').insertAfter('.links .follow-us');
 								$('<li class="separator"><a href="/cmd/account/logout/">Sign Out</a></li>').insertAfter('.links .follow-us');
 								$('<li class="separator">Logged in as: <strong><a href="/member/'+data.user.id+'/">'+data.user.username+'</a> (<a style="color: #01A2D2;" href="/arp/sweepstakes/">ARP: '+data.user.arp+'</a>)</strong></li>').insertAfter('.links .follow-us');
 							}
+							
+							// 
 						}
 					}
 				}, 'json');
@@ -191,7 +201,7 @@
 
     
 		</script>
-			<style type="text/css" media="print">.dropShadow{visibility:hidden;}</style><script type="text/javascript" src="https://survey.112.2o7.net/survey/dynamic/suites/280/dellglobalonline/list.js?29731103565"></script></head>
+			<style type="text/css" media="print">.dropShadow{visibility:hidden;}</style><script type="text/javascript" src="https://survey.112.2o7.net/survey/dynamic/suites/280/dellglobalonline/list.js?1177386608062"></script></head>
 
 <body> <!--class=""-->
 
@@ -230,7 +240,7 @@
 				<div class="wide-950">
 					<div class="left">
 						<div id="regionLink" class="to_alienware">
-							<a id="toggleRegion" href="#" class="grey" onclick="s_objectID=&quot;https://web.archive.org/web/20120513143136id_/http%3A//www.alienwarearena.com/legal/privacy#_1&quot;;return this.s_oc?this.s_oc(e):true">
+							<a id="toggleRegion" href="#" class="grey" onclick="s_objectID=&quot;https://web.archive.org/web/20120920112154id_/http%3A//www.alienwarearena.com/legal/privacy#_1&quot;;return this.s_oc?this.s_oc(e):true">
 								Region: 
 								USA/Canada								 <span class="change">(change)</span>
 							</a>
@@ -258,7 +268,7 @@
 					<div class="right">
 						<div class="links">
 							<ul>
-																<li>
+																								<li>
 									<strong>Follow Us</strong>
 								</li>
 								<li class="separator follow-us">
@@ -268,7 +278,7 @@
 																								<li class="separator" id="nav-sign-in"><a href="javascript:void(0);" onclick="s_objectID=&quot;javascript:void(0);_1&quot;;return this.s_oc?this.s_oc(e):true">Sign In</a></li>
 								<li class="separator" id="nav-join"><a href="/account/register/?redirect=/legal/privacy" onclick="s_objectID=&quot;https://web.archive.org/account/register/?redirect=/legal/privacy_1&quot;;return this.s_oc?this.s_oc(e):true">Join</a></li>
 																<li class="separator"><a href="/pages/about/" onclick="s_objectID=&quot;https://web.archive.org/pages/about/_1&quot;;return this.s_oc?this.s_oc(e):true">About</a></li>
-								<li><a href="/pages/contact/" onclick="s_objectID=&quot;https://web.archive.org/pages/contact/_1&quot;;return this.s_oc?this.s_oc(e):true">Contact</a></li>
+								<li><a href="/pages/contact/" onclick="s_objectID=&quot;https://web.archive.org/pages/contact/_1&quot;;return this.s_oc?this.s_oc(e):true">Support <span class="support-updates"></span></a></li>
 							</ul>
 						</div>
 					</div>
@@ -292,12 +302,12 @@
 			<div id="mainNav">
 				<div class="wide-950">
 				<style type="text/css">
-#nav-wrapper, #mainNav ul#nav { width: 927px; }
+#nav-wrapper, #mainNav ul#nav { width: 901px; }
 </style>
 
 <!--[if IE]>
 <style type="text/css">
-#nav-wrapper, #mainNav ul#nav { width: 971px; }
+#nav-wrapper, #mainNav ul#nav { width: 945px; }
 </style>
 <![endif]-->
 
@@ -305,7 +315,7 @@
 	<ul id="nav" class="sf-menu sf-js-enabled sf-shadow">
 		<li><a href="/" onclick="s_objectID=&quot;https://web.archive.org/_1&quot;;return this.s_oc?this.s_oc(e):true">HOME</a></li>
 		
-		<li><a href="http://lt.dell.com/lt/lt.aspx?CID=59747&amp;LID=1511112&amp;DGC=SM&amp;DGSeg=DHS&amp;DURL=http://alienware.com/" target="_blank" onclick="s_objectID=&quot;http://lt.dell.com/lt/lt.aspx?CID=59747&amp;LID=1511112&amp;DGC=SM&amp;DGSeg=DHS&amp;DURL=http://alienware.com/_1&quot;;return this.s_oc?this.s_oc(e):true">ALIENWARE</a></li>
+		<li><a href="http://www.alienware.com" target="_blank" onclick="s_objectID=&quot;http://www.alienware.com/_1&quot;;return this.s_oc?this.s_oc(e):true">ALIENWARE</a></li>
 		<li class="more"><a class="blue sf-with-ul">Games<span class="sf-sub-indicator"></span></a>
 			<ul style="float: none; width: 12em; display: none; visibility: hidden;">
 				  <li style="white-space: normal; float: left; width: 100%;"><a href="/game/bf3/" onclick="s_objectID=&quot;https://web.archive.org/game/bf3/_1&quot;;return this.s_oc?this.s_oc(e):true" style="float: none; width: auto;">Battlefield 3</a></li>
@@ -315,7 +325,6 @@
 				  <li style="white-space: normal; float: left; width: 100%;"><a href="/games-and-trailers/" onclick="s_objectID=&quot;https://web.archive.org/games-and-trailers/_1&quot;;return this.s_oc?this.s_oc(e):true" style="float: none; width: auto;">More Games</a></li>
 			</ul>
 		</li>
-		<li><a href="http://video.alienwarearena.com" onclick="s_objectID=&quot;http://video.alienwarearena.com/_1&quot;;return this.s_oc?this.s_oc(e):true">VIDEOS</a></li>
 		<li><a href="/event/" onclick="s_objectID=&quot;https://web.archive.org/event/_1&quot;;return this.s_oc?this.s_oc(e):true">events</a></li>
 		<li class="more"><a class="sf-with-ul">NEWS<span class="sf-sub-indicator"></span></a>
 			<ul style="float: none; width: 12em; display: none; visibility: hidden;">
@@ -324,10 +333,16 @@
 			</ul>
 		</li>
 								
-		<li><a href="/arp/" onclick="s_objectID=&quot;https://web.archive.org/arp/_1&quot;;return this.s_oc?this.s_oc(e):true">ARP</a></li>
-		<li><a href="/forums/" onclick="s_objectID=&quot;https://web.archive.org/forums/_1&quot;;return this.s_oc?this.s_oc(e):true">Forums</a></li>
 					<li><a href="/sweepstakes/" onclick="s_objectID=&quot;https://web.archive.org/sweepstakes/_1&quot;;return this.s_oc?this.s_oc(e):true">Sweeps</a></li>
-				<li><a href="/pages/wallpapers/" onclick="s_objectID=&quot;https://web.archive.org/pages/wallpapers/_1&quot;;return this.s_oc?this.s_oc(e):true">WALLPAPERS</a></li>
+				<li class="more"><a class="sf-with-ul">MEDIA<span class="sf-sub-indicator"></span></a>
+			<ul style="float: none; width: 12em; display: none; visibility: hidden;">
+				  <li style="white-space: normal; float: left; width: 100%;"><a href="http://video.alienwarearena.com" onclick="s_objectID=&quot;http://video.alienwarearena.com/_1&quot;;return this.s_oc?this.s_oc(e):true" style="float: none; width: auto;">VIDEOS</a></li>
+				  <li style="white-space: normal; float: left; width: 100%;"><a href="/pages/wallpapers/" onclick="s_objectID=&quot;https://web.archive.org/pages/wallpapers/_1&quot;;return this.s_oc?this.s_oc(e):true" style="float: none; width: auto;">Wallpapers</a></li>
+			</ul>
+		</li>
+		<li><a href="http://na.alienwarearena.com/deal/" onclick="s_objectID=&quot;http://na.alienwarearena.com/deal/_1&quot;;return this.s_oc?this.s_oc(e):true"><span style="color: #ff5711;">new</span>DEALS</a></li>
+		<li><a href="/forums/" onclick="s_objectID=&quot;https://web.archive.org/forums/_1&quot;;return this.s_oc?this.s_oc(e):true">Forums</a></li>
+		<li><a href="/arp/" onclick="s_objectID=&quot;https://web.archive.org/arp/_1&quot;;return this.s_oc?this.s_oc(e):true">ARP</a></li>
 		<li><a href="/microsoft-na/" onclick="s_objectID=&quot;https://web.archive.org/microsoft-na/_1&quot;;return this.s_oc?this.s_oc(e):true">Microsoft</a></li>
 		<li class="last"><a></a></li>
 	</ul>
@@ -351,37 +366,59 @@
 					</div>
 				</div>
 			</div>
+			
+			<div id="comment-report-modal" class="modal-wrapper" style="display: none;">
+				<div class="modal-title">
+					Report Comment				</div>
+				<div class="modal-content">
+					<p class="report-description">Type</p>
+					<select name="type" id="type"><option value="spam">Spam</option><option value="offensive">Offensive</option><option value="advertising">Advertising</option><option value="wrong forum">Wrong Forum</option><option value="other">Other</option></select>					<p class="report-description">Reason</p>
+					<textarea id="report-reason" class="report-reason"></textarea>
+					<input type="hidden" id="report-comment-id" value="">
+					<div class="siteButton" onclick="SubmitCommentReport();"><a href="javascript:void(0)" onclick="s_objectID=&quot;javascript:void(0)_1&quot;;return this.s_oc?this.s_oc(e):true"><span>Submit</span></a></div>
+				</div>
+				<div class="modal-close">
+					<div class="siteButton" onclick="$.modal.close();"><a href="javascript:void(0)" onclick="s_objectID=&quot;javascript:void(0)_2&quot;;return this.s_oc?this.s_oc(e):true"><span>Close</span></a></div>
+					<div class="clear"></div>
+				</div>
+			</div>
 
-	<div class="ad_728x90 ad">
-	  <!-- Begin -  Site: Alienware Zone: Arena_728x90 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 2;
-var ZoneID = 45;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.igames.org/bmp7/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=42039&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.igames.org/bmp7/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=42039&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-// -->
-</script><script language="javascript" src="http://www.igames.org/bmp7/a.aspx?ZoneID=45&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=42039&amp;SiteID=2&amp;Random=1580450094892"></script>
-<noscript>
-   <a href="http://www.igames.org/bmp7/a.aspx?ZoneID=45&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=42039" target="_blank">
-   <img src="http://www.igames.org/bmp7/a.aspx?ZoneID=45&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=42039" width="728" height="90" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: Alienware Zone: Arena_728x90 --></div>
+	<div class="ad_728x90 ad"><script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/8969129/728x90_Global', [728, 90], 'div-gpt-ad-1345235678133-0').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+
+<!-- Begin -  Site: Alienware Zone: Arena_728x90 -->
+<!-- 728x90_Global -->
+<div id="div-gpt-ad-1345235678133-0" style="width:728px; height:90px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345235678133-0'); });
+</script>
+</div></div>
 			<div class="wide-950">
 				<div id="footer">
 					<ul class="nav">
 						<li><a href="/pages/contact/" onclick="s_objectID=&quot;https://web.archive.org/pages/contact/_2&quot;;return this.s_oc?this.s_oc(e):true">Contact Us</a></li>
 						<li><a href="/legal/privacy/" rel="nofollow" onclick="s_objectID=&quot;https://web.archive.org/legal/privacy/_1&quot;;return this.s_oc?this.s_oc(e):true">Privacy Policy</a></li>
 						<li><a href="/legal/terms/" rel="nofollow" onclick="s_objectID=&quot;https://web.archive.org/legal/terms/_1&quot;;return this.s_oc?this.s_oc(e):true">Terms &amp; Conditions</a></li>
-										<li><a target="_blank" href="http://steamcommunity.com/groups/alienwarearena" onclick="s_objectID=&quot;http://steamcommunity.com/groups/alienwarearena_1&quot;;return this.s_oc?this.s_oc(e):true">Steam Community</a></li>
+														<li><a target="_blank" href="http://steamcommunity.com/groups/alienwarearena" onclick="s_objectID=&quot;http://steamcommunity.com/groups/alienwarearena_1&quot;;return this.s_oc?this.s_oc(e):true">Steam Community</a></li>
 						<li><a target="_blank" href="http://www.xfire.com/communities/alienwarearena/" onclick="s_objectID=&quot;http://www.xfire.com/communities/alienwarearena/_1&quot;;return this.s_oc?this.s_oc(e):true">Xfire Community</a></li>
 																<li class="follow-us">
 							<a class="footer-text"><span>Follow Us</span></a>							<a href="http://www.facebook.com/alienware" target="_blank" onclick="s_objectID=&quot;http://www.facebook.com/alienware_2&quot;;return this.s_oc?this.s_oc(e):true"><img width="14px" height="14px" src="/images/icon-fb-14.png"></a>
@@ -389,7 +426,7 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.igame
 						</li>
 											</ul>
 					<div class="right">
-						<a href="http://lt.dell.com/lt/lt.aspx?CID=59747&amp;LID=1511112&amp;DGC=SM&amp;DGSeg=DHS&amp;DURL=http://alienware.com/" target="_blank" onclick="s_objectID=&quot;http://lt.dell.com/lt/lt.aspx?CID=59747&amp;LID=1511112&amp;DGC=SM&amp;DGSeg=DHS&amp;DURL=http://alienware.com/_2&quot;;return this.s_oc?this.s_oc(e):true">Need a kickass rig? Check out Alienware</a>
+						<a href="http://www.alienware.com" target="_blank" onclick="s_objectID=&quot;http://www.alienware.com/_2&quot;;return this.s_oc?this.s_oc(e):true">Need a kickass rig? Check out Alienware</a>
 					</div>
 					<div class="legal">Copyright 2012 Alienware Corporation. All Rights Reserved.
 										</div>
@@ -423,7 +460,7 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.igame
 		<div id="redirect-url"></div>
 	</div>
 	<div class="modal-close">
-		<div class="siteButton"><a href="javascript:void(0)" onclick="s_objectID=&quot;javascript:void(0)_1&quot;;return this.s_oc?this.s_oc(e):true"><span onclick="window.location='/account/login/';">Close</span></a></div>
+		<div class="siteButton"><a href="javascript:void(0)" onclick="s_objectID=&quot;javascript:void(0)_3&quot;;return this.s_oc?this.s_oc(e):true"><span onclick="window.location='/account/login/';">Close</span></a></div>
 	</div>
 </div>
 
@@ -457,24 +494,7 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.igame
 		<div id="redirect-url"></div>
 	</div>
 	<div class="modal-close">
-		<div class="siteButton" onclick="$.modal.close();"><a href="javascript:void(0)" onclick="s_objectID=&quot;javascript:void(0)_2&quot;;return this.s_oc?this.s_oc(e):true"><span>Close</span></a></div>
-	</div>
-</div>
-
-<div id="comment-report-modal" class="modal-wrapper" style="display: none;">
-	<div class="modal-title">
-		Report Comment
-	</div>
-	<div class="modal-content">
-		<p class="report-description">Type</p>
-		<select name="type" id="type"><option value="spam">Spam</option><option value="offensive">Offensive</option><option value="advertising">Advertising</option><option value="wrong forum">Wrong Forum</option><option value="other">Other</option></select>		<p class="report-description">Reason</p>
-		<textarea id="report-reason" class="report-reason"></textarea>
-		<input type="hidden" id="report-comment-id" value="">
-		<div class="siteButton" onclick="SubmitCommentReport();"><a href="javascript:void(0)" onclick="s_objectID=&quot;javascript:void(0)_3&quot;;return this.s_oc?this.s_oc(e):true"><span>Submit</span></a></div>
-	</div>
-	<div class="modal-close">
 		<div class="siteButton" onclick="$.modal.close();"><a href="javascript:void(0)" onclick="s_objectID=&quot;javascript:void(0)_4&quot;;return this.s_oc?this.s_oc(e):true"><span>Close</span></a></div>
-		<div class="clear"></div>
 	</div>
 </div>
 
@@ -487,9 +507,12 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-9917033-1");
+// logged in status [ session scope ]
+pageTracker._setCustomVar(2, "cte_is_logged_in", "no" ,2);
+// user type [ visitor scope ]
+pageTracker._setCustomVar(1, "cte_member_type", "guest", 1);
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
 
 <!-- Start Quantcast Tag -->
 <script type="text/javascript"> _qoptions={qacct:"p-fa3GfGopeAbjc",labels:""}; qacct="p-fa3GfGopeAbjc";</script>
@@ -524,7 +547,10 @@ var s_code=s_dell.t();if(s_code)document.write(s_code);
     document.write("<iframe src=\"http:\/\/img-cdn.mediaplex.com\/0\/12309\/universal.html?page_name=us_content&mpt=" + mpts + "&url=" + page_url + "&ref=" + ref_url + "\" HEIGHT=1 WIDTH=1 style=\"position: absolute; top: -20px; left: -20px;\" FRAMEBORDER=0><\/iframe>");
   }
 // -->  
-</script><iframe src="https://secure.img-cdn.mediaplex.com/0/12309/universal.html?page_name=us_content&amp;mpt=1580450095064&amp;url=https%3A//web.archive.org/web/20120513143136id_/http%253A//www.alienwarearena.com/legal/privacy&amp;ref=" height="1" width="1" style="position: absolute; top: -20px; left: -20px;" frameborder="0"></iframe>
+</script><iframe src="https://secure.img-cdn.mediaplex.com/0/12309/universal.html?page_name=us_content&amp;mpt=1580450094137&amp;url=https%3A//web.archive.org/web/20120920112154id_/http%253A//www.alienwarearena.com/legal/privacy&amp;ref=" height="1" width="1" style="position: absolute; top: -20px; left: -20px;" frameborder="0"></iframe>
+    
 
 
-</body></html>
+
+
+<!-- second: 0.1009 --><!-- profiling: disabled (ndip [207.241.237.229]) --></body></html>
