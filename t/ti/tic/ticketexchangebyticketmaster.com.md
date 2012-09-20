@@ -1,230 +1,144 @@
-> *The following text is extracted and transformed from the ticketexchangebyticketmaster.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614015234id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketexchangebyticketmaster.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920234927id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster Privacy Policy. Official Ticketmaster Site.
 
-Welcome to Ticketmaster! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of www.ticketmaster.com or our services, including the venue box office, retail outlets, charge by phone and mobile applications, and to any information provided to us. By accessing or using this website, mobile application or other Ticketmaster product or service on any computer, mobile phone, tablet, console or other device (collectively "Site"), you consent to our Privacy Policy.
+**This Privacy Policy applies to the sites and apps where it appears.**
 
-By using our website, you are accepting the practices we describe here.
+This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [Canadian Privacy Policy](http://www.ticketmaster.ca/h/privacy.html).
 
-If you have any questions, please [click here](http://www.ticketmaster.com/h/customer_serve.html) for information on how to contact us.
+**We collect information from and about you.**
 
-Ticketmaster complies with the privacy laws and regulations of the United States of America. Ticketmaster makes no representation that this Site is governed by or operated in accordance with the laws of other nations, or that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. By using this Site, visitors from outside of the United States of America acknowledge this Site is subject to the laws and regulations of the United States of America, and waive any claims that may arise under their own national laws.
+**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
 
-Ticketmaster reserves the right to change, modify, add, or remove provisions of this Privacy Policy. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to check back from time to time to ensure continuing familiarity with the most current version of our Privacy Policy. You can determine whether the Privacy Policy has been revised since your previous visit to the Site by referring to the "Last Updated" legend at the top of this page. Please read this Privacy Policy carefully. Your use of this Site constitutes your acceptance to be bound by this Privacy Policy without limitation, qualification or change. If at any time you do not accept all the terms and conditions contained herein, you must immediately discontinue use of this Site.
+**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a ticket.
 
-Ticketmaster has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/ "Opens in a New Window") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us through one of the methods listed within this Privacy Policy. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Opens in a New Window"). The TRUSTe program only covers information collected through the www.ticketmaster.com Web site and does not apply to mobile applications or mobile Web sites.
+**Information you post.** For example, we collect information you post in a public space on our website or on a third-party social media site.
 
-Ticketmaster complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Ticketmaster has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ticketmaster's certification, please visit <http://www.export.gov/safeharbor>.
+**Demographic information.** We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.
 
-[](https://privacy.truste.com/privacy-seal/Live-Nation-Entertainment/validation?rid=84e9beec-aa90-44e5-80ae-9aa709ca9c75 "TRUSTe European Safe Harbor certification")
+**Other information.** If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location or your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
 
-  1. ## What Information We Collect
+**We collect information in different ways.**
 
-Ticketmaster gathers two basic types of information through the Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). PII is information that identifies or can identify you as an individual (such as residential address, telephone number, or billing information) and Non-PII is aggregated information, demographic information, IP addresses, geographic location and any other information that does not reveal your specific identity.
+**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
 
-    1. ### Non-Personally Identifiable Information.
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click here.
 
-When you visit and interact with the Site, Ticketmaster and third parties with whom Ticketmaster has contracted to provide services to Ticketmaster may collect Non-PII (for example, a catalog of the Site pages you visit). Non-PII is anonymous and does not identify you personally. Non-PII is generally collected through the Site from four different sources: Internet protocol addresses and web logs; cookies; pixel tags and other similar technologies; and other Non-PII that you voluntarily provide (as explained below). In addition, if you opt in to use our Site from your mobile device, we may receive information about your actual location (such as GPS signals sent by your mobile device) or information that can be used to approximate a location (such as a cell ID).
+**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
 
-      1. #### IP Protocol Addresses and Web Logs.
+**We use information as disclosed and described here.**
 
-This Site's web servers automatically collect the Internet Protocol (IP) addresses and log files of visitors. Your IP address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. This information is collected in an aggregate form only and does not contain any PII. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site's servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites. In addition to the Non-PII usage of IP Addresses described above we also may link your IP address to personally identifiable information for fraud prevention purposes.
+**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. If you give us your friend's information, we will only use it to provide services you requested.
 
-      2. #### Cookies.
+**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
 
-We and our third party service providers may use a standard technology called a "cookie" to collect information about how you use the Site. Cookies reside on your computer and help the Site recognize your computer's browser as a previous visitor. For example, when you sign in to your My Ticketmaster account, cookies will be used to save your email address and name so the next time you visit your My Ticketmaster account from the same computer we will "remember" your email address and name in order to make your experience faster and simpler. On occasion our Site may also set a "session cookie" which helps us administer the Site. The session cookie expires when you close your browser and does not retain any information about you after it expires. If you do not want information collected through the use of cookies, you should be able to modify your browser preference to provide you with choices relating to cookies. If you choose to reject cookies, you may be unable to use certain Site services (e.g., those services that require you to log on to the Site in order to participate).
+**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
 
-      3. #### Pixel Tags.
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
 
-We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") in connection with some Site pages and HTML-formatted email messages to track your use of our website in order to provide you with more useful information and a more personalized experience the next time you visit. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. Pixel Tags do not contain any PII and allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when an email has been opened.
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. We may use push notifications and your location information on our mobile apps to send you alerts regarding local events. To learn about your choices for these communications, read the choices section below.
 
-      4. #### OpenID.
+**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
 
-Portions of our site allow you to log in using an OpenID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our forms. OpenID services give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+**We use information as otherwise permitted by law.**
 
-  2. ## How Information We Collect Is Used
+**We may share information with third parties.**
 
-We know it is very important to protect the information you share with us. We take appropriate security measures to help safeguard this information from unauthorized access and disclosure. For example, only authorized employees are permitted to access your personal information, and they may do so only for limited reasons. We also encrypt credit card numbers and other sensitive information before it is sent from your computer to ours using secure socket layer technology (SSL). We also use firewalls to help prevent unauthorized access to your personal information.
+**We will share information within the Live Nation family of companies.** This may include Ticketmaster and Live Nation-owned or operated venues, for example.
 
-You should feel confident using our website. However, no system can be completely secure. Although we take very significant steps to secure your information, there is always a chance that your information will not always remain secure, and you should always take great care in handling and disclosing your personal information. For example, avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
 
-    1. ### Non-Personally Identifiable Information.
+**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies. You should read those polices to learn how they treat your information.
 
-Because Non-PII does not personally identify you, we may use such information for any purpose. For example, we may use Non-PII to measure the number of visits, average time spent on the Site and pages viewed as well as to diagnose problems with our servers and to administer the Site. We may then use this information to analyze and improve the features and functionality of this Site. We may use non-PII information about you and other Site visitors to sell and deliver advertising, promotions and content that we believe will be of interest to you. We may use third-party companies and networks to help us deliver this customized advertising to you based on your behavior on our Site. All information and data collected for those services is anonymous and cannot be used to identify you individually, but allows us to deliver online advertising that is more likely to be relevant and useful to you. To learn more about online behavioral advertising, visit <http://www.networkadvertising.org/managing/learn_more.asp>. If you would prefer not to receive ads delivered to you based on your behavior on our Site, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
-In addition, we reserve the right to share such Non-PII, which does not personally identify you, with third parties, for any purpose. For example, we may share information with advertisers or other third parties that are not part of the Ticketmaster family on an aggregate or other basis that does not disclose any of your PII.
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
 
-In some instances, we may combine Non-PII with PII (such as embedding email addresses in cookies). If we do combine any Non-PII with PII, the combined information will be treated as PII. This "combined" PII is not shared with third parties, except as described in this Policy.
+**We may share your information for reasons not described in this policy.** We will tell you before we do this.
 
-    2. ### Personally Identifiable Information
+**You have certain choices about how we use your information.**
 
-      1. #### Site.
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, click [here](https://www.ticketmaster.com/member/edit_subscriptions?tm_link=mytm_myacct_EmailPref) or follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-We may use PII you give us to better tailor your website experience to your interests, to show you content in which you may be interested and to display the content according to your preferences. We may also share your PII within the Ticketmaster business family in order to enhance your experience on other Ticketmaster websites. To the extent we do so, we make sure that your PII receives the same level of protection throughout the Ticketmaster business family. All Ticketmaster companies comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future. Please note that such sharing may involve the collection use, storage, or disclosure of PII outside the United States of America.
+**You can modify information you have given us.** To modify or delete information you gave us, click on [My Live Nation](https://www.livenation.com/member) or [My Ticketmaster](https://www.ticketmaster.com/member), as applicable, and follow the instructions to modify your profile. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
 
-      2. #### Communications.
+**You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click here.
 
-Unless you opt out, we may use your PII to send you information about Ticketmaster and its services as well as promotional material on behalf of some of our partners. If at any time you change your mind and prefer to no longer receive such marketing communications from us, please see the "Opt-Out Policy" section below.
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
 
-      3. #### Administrative Matters.
+**Your California Privacy Rights.**
 
-Ticketmaster reserves the right to contact you in the event of a change in the Site's Terms of Use and/or this Privacy Policy, or to notify you of other administrative matters in connection with the Site (e.g., contacting you to facilitate, complete or confirm a transaction). Because this information may be important to your use of the Site, you may not opt-out of receiving such communications.
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-      4. #### Fulfillment of Requests.
+To exercise your rights, you can [email us](mailto:privacy@livenation.com) or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
 
-Ticketmaster may use your PII to fulfill the purpose for which such PII was provided (e.g., using your name and email to confirm your registration or using your credit card information to fulfill your purchase).
+**These sites and apps are not intended for children.**
 
-      5. #### Facilitation of Transactions.
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
-Forms on the Site may sometimes be pre-populated with your PII in order to facilitate a transaction between you and Ticketmaster.
+Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/controller/cp-children%E2%80%99s-online-privacy).
 
-      6. #### Internal Business Purposes.
+**We use standard security measures.**
 
-We may also use your PII for our internal business purposes, such as to target advertising, for data analysis, for audits, for fraud prevention and for other internal purposes.
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
 
-      7. #### Shopping/Commercial Services.
+**We are TRUSTe certified.**
 
-This Site may offer merchandise and/or ticket purchase services, which may be offered by us or by one of our e-commerce partners. To the extent the merchandise and/or ticket purchase services are offered by one of our e-commerce partners, such e-commerce partner will be collecting and using the PII you provide. For more information regarding your transactions with our e-commerce partners, please refer to Section 4(b) below.
+TRUSTe has awarded Live Nation the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on Live Nation and Ticketmaster sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements). The seal applies to our practices for information collected on U.S., UK, Ireland sites and apps.
 
-To the extent Ticketmaster is the entity offering the purchase services, when you make a purchase through the Site, we may collect your credit card number or other payment account number (for example, your PayPal account number), billing address (including zip code) and other information related to such purchase (collectively, "Payment Information") from you. We will use the Payment Information that you provide to bill you for your purchase and to fulfill your purchase. We may also use your Payment Information to allow us to ship or deliver tickets and/or receipts to you, respond to customer service requests, review and enforce limits on the number of tickets purchased per event and to help prevent credit card fraud. By providing your Payment Information, you are authorizing us to give that information to third parties as necessary to confirm and fulfill your order (for example, to process your credit card or payment account number and to send you products you have ordered).
+We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
 
-      8. #### Email This to a Friend.
+**We store information both in and outside of the United States.**
 
-The Site may allow you to forward certain items posted on Site or links to Site features by email or Instant Messenger to other parties who you believe may be interested. If you wish to use this feature, you may provide us with such other party's email address or Instant Messenger screen name so that we can facilitate your sending of such message to such other party. To do so, any PII you provide in connection with sending such other party the message, such as your name and your email address or Instant Messenger screen name, will, of course, be disclosed to such other party. While, due to technical restrictions, the recipient's email address or Instant Messenger screen names may be retained in our log files, we do not knowingly share it with third parties and we do not use this PII for any purpose except to send this one-time message (unless the recipient has already consented to such use of his/her PII).
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
 
-      9. #### Online Surveys/Sweepstakes and Contests.
+Live Nation complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Live Nation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Live Nation's certification, please visit <http://www.export.gov/safeharbor>.
 
-From time to time, we conduct online surveys and offer online sweepstakes or contests on the Site (each, a "Promotion"), and we may collect PII in connection with the same. We may use your PII to contact you regarding your Promotion entry, or to contact you if you win a Promotion (if applicable). You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about Ticketmaster's use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion.
+**We may link to third party sites or services we don't control.**
 
-      10. #### Newsletter and Magazine Subscriptions.
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
 
-When you complete the ticket purchase for our shows, you will be automatically enrolled in our newsletter. In addition, for some shows you may receive a complimentary subscription to a trade magazine. For this purpose, we will provide your name and mailing address to the magazine subscription fulfillment company. You may choose to opt out of such subscriptions during the checkout process.
+**Feel free to contact us if you have more questions.**
 
-      11. #### Data Retention.
+If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@livenation.com](mailto:privacy@livenation.com). Please do not include your credit card number or other sensitive information in your email. You can also write us at:
 
-We will retain your information for as long as your account is active, as needed to provide you services and will use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-  3. ## How Personally Identifiable Information We Collect Is Disclosed
-
-We will disclose your personal information with third parties only in the ways that are described in the following sections.
-
-    1. ### Affiliate Communications and Third Party Communications.
-
-Unless you opt out, we may share your PII with our affiliates, including venues, promoters or sponsors of events, artist representatives and fan clubs, teams, leagues and others who are involved in or bring you events. When you buy or sell tickets or bid in an auction on our Site (or try to do these things), you consent to allow us to provide your PII to these event providers and their contractors. We share this information so these event providers may send you announcements and notifications of events, products or services that might be of interest to you. For further information, please see the "Opt-Out Policy" section below.
-
-    2. ### Ticketmaster Service Providers.
-
-We work with third parties who provide services including but not limited to data analysis, order fulfillment, credit card processing, email communications and other services of an administrative nature. If you use our services, we reserve the right to share your PII with such third parties for the purpose of enabling these third parties to provide such services. We take reasonable steps to ensure these third parties treat PII in a manner comparable to how we do so.
-
-    3. ### Public Forums and Other Interactive Features.
-
-Please be aware that when you disclose PII through a chat room, forum, message board, news group or Facebook feature on the Site, the information may become public and accessible to all or a part of the Site community, so it is important for you to exercise discretion and appropriate caution when deciding to reveal PII in these areas. In addition, when you choose to make a posting on such services, certain PII may be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, on the Site. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PII YOU VOLUNTARILY DISCLOSE THROUGH THE SITE VIA THESE FORUMS AND OTHER INTERACTIVE FEATURES. Please note that we reserve the right, but have no obligation, to republish content posted in a chat room, forum, message board or news group (including any PII contained therein) as further set forth in our Terms of Use.
-
-In the event that you encounter any Site user who you believe is improperly collecting or using information about you or other users, please contact us at [privacy@livenation.com](mailto:privacy@livenation.com).
-
-To request the removal of your PII from these public forums, please see the "Accessing, Updating or Deleting Information Collected About You" section below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-    4. ### Online Surveys/Sweepstakes and Contests.
-
-We may share PII collected in connection with Promotions with the third-party sponsors of any such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about a sponsor's or other third parties' use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion.
-
-    5. ### Other Purposes.
-
-We also may disclose your information:
-
-      * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from law enforcement or another government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
-
-      * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
-
-      * In connection with a substantial corporate transaction, such as the reorganization or sale of our business, a divestiture, merger, consolidation or asset sale, or in the unlikely event of bankruptcy.
-
-  4. ## Collection of Information By Third Parties
-
-    1. ### Co-Branded Pages.
-
-We may enter into relationships with "powered by" partners, business partners, sponsors, and co-branded sites (referred to here as "co-branded pages"). These might include, for example, pages that share our name and that of another entity. There may be a specific privacy policy on any such co-branded page. Any PII that you provide when signing up at any co-branded page may be collected by, or shared with, our third party partner. We have no control over, and are not responsible for, our third party partners' use of your PII. If you want to learn more about other entities' privacy practices, please review the websites of those third parties.
-
-    2. ### Transactions With E-Commerce Partners, Vendors and Advertisers.
-
-When you provide PII to one of our Site's e-commerce partners, vendors or advertisers, this transaction will occur in connection with the site of the e-commerce partner, vendor or advertiser, not on the Site, and, as such, the PII you provide is collected pursuant to and controlled by the privacy policy of such e-commerce partner, vendor or advertiser. Ticketmaster is not responsible for such parties' privacy policies and we encourage you to familiarize yourself with the applicable privacy policy of the e-commerce site with which you transact business or to contact the operator of such site for more information.
-
-Please be aware that at times, at the request of or on behalf of our e-commerce partners, vendors or advertisers, Ticketmaster may "pre-populate" forms with your PII for your review, and, if you so choose, for submission to such e-commerce partners, vendors or advertisers. Accordingly, we encourage you to review each pre-populated form carefully before agreeing to submit your PII to determine who is seeking to collect your information, and to familiarize yourself with the applicable privacy policy governing use of any PII collected about you.
-
-    3. ### Job Postings.
-
-If you apply for a position with Ticketmaster and submit your personal information through our website, the information you submit will be used only in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions.
-
-If you choose to respond to a job posting on the Site, you may be directed to a third-party site (for example, a third-party site specializing in job postings, such as Monster.com). Any PII you provide will be collected by such third party. We have no control over, and are not responsible or liable for, such third party's use of your PII. Please consult such third party's privacy policy for information regarding their privacy practices.
-
-The third party collecting your PII will share such PII with Ticketmaster so that Ticketmaster can review your information and, if applicable, respond to your query or job application. Please note that Ticketmaster has no obligation to respond to all queries or job applications submitted. Any PII that Ticketmaster receives from such third party will be treated in accordance with this Privacy Policy.
-
-    4. ### Third Party Advertising.
-
-Some of the ads appearing on this Site may be delivered to you by third party advertisers. In the course of serving advertisements to this Site, the third-party advertisers may place or recognize a unique cookie on your browser. Non-PII about your visits to this Site, such as number of times you have viewed an ad, is used to serve ads to you. Some of these third parties may be advertising networks that are members of the Network Advertising Initiative, which offers a website to opt out of ad targeting from several advertising companies ([www.networkadvertising.org](http://www.networkadvertising.org/ "Opens in a New Window")).
-
-    5. ### Third Party Links.
-
-The Site may contain links to third-party Internet websites, which are not owned or operated by Ticketmaster. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by Ticketmaster. If you provide any PII through any such third-party website, your transaction will occur on such third party's website (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We are not responsible for the privacy practices or the content of such third-party websites, including such websites' use of any PII that you provide to them. We strongly encourage you to become familiar with the privacy practices of those sites.
-
-  5. ## Opt-Out Policy
-
-    1. ### Ticketmaster Communications.
-
-When you supply Ticketmaster with PII, from time-to-time, in Ticketmaster's discretion, you may be asked to indicate whether you are interested in receiving information from us about special offers in connection with the Site, Ticketmaster and/or our advertisers and partners. Unless you opt out to receive such communications, we may, from time to time, send you marketing communications. 
-
-At any time, you can choose to no longer receive commercial or promotional emails from us by clicking on [My Ticketmaster](https://www.ticketmaster.com/member) and following the instructions to "manage your email alerts." You may modify your choices at any time in your My Ticketmaster account. Also, in any promotional email we send, you will be given the opportunity to opt out of receiving such messages in the future by clicking on the link at the bottom of the email that says "unsubscribe." It may take up to 10 days for us to process an opt-out request.
-
-Even if you have unsubscribed from receiving promotional emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements, administrative notices and surveys.
-
-Please note that changing information in your My Ticketmaster account or opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party (such as an event provider) before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well.
-
-    2. ### Affiliate and Third Party Communications.
-
-From time-to-time in Ticketmaster's discretion, you may receive offers directly from our affiliates and/or from third parties. Unless you opt out to accept any such offer(s), any PII provided to Ticketmaster for such purposes may be shared with our affiliates and such third-party partner(s), to allow our affiliates and/or such third parties to provide you with such offers. If you would prefer that we no longer share your PII with our affiliates and/or with third parties for their marketing purposes, you may opt-out of such future sharing at any time by following the procedure above, provided however, you may not be able to opt out of certain third party offers that are displayed on our Site.
-
-  6. ## Use of This Site by Children.
-
-The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide PII through the Site. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without the parent or guardian's consent by, for example, misrepresenting his or her age, that parent or guardian should contact us at [privacy@livenation.com](mailto:privacy@livenation.com). If Ticketmaster determines that it has collected personal information of children under the age of 13, Ticketmaster will immediately delete such information and any accounts believed to be held by children under 13. Please see our [Terms of Use](http://www.ticketmaster.com/h/terms.html) for additional information regarding the use of this Site by minors.
-
-  7. ## Accessing, Updating or Deleting Information Collected About You.
-
-This Site also gives you the opportunity to modify or remove PII that you have provided to us by way of this Site. You may do so by clicking [My Ticketmaster](https://www.ticketmaster.com/member) and following the instructions to modify your user information on the Site. To the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably possible. Please note that although this information will not be available on the Site after you delete it, the information may remain stored indefinitely in our backup and archival records. To the extent that such information is not stored in our databases, we cannot always ensure that these corrections or deletions will reach such other databases in a timely manner.
-
-Other requests to information access can be made by contacting us via one of the methods listed in this Privacy Policy. If you contact us requesting access to your information, we will respond within 30 days.
-
-  8. ## Security of Your PII.
-
-Ticketmaster employs reasonable security measures consistent with standard industry practice, for PII collected through this Site, including physical, electronic (such as Secure Socket Layer encryption - SSL) and operational measures to maintain security and prevent unauthorized access. While Ticketmaster takes all appropriate steps to safeguard PII under our control, unfortunately, no data transmission over the Internet or method of storing data can be guaranteed to be 100% secure. As such, we cannot guarantee that PII supplied by users will not be accessed on our servers, or intercepted while being transmitted to us over the Internet. We assume no liability for any damages you may suffer as a result of interception, alteration or misuse of information during such transfers. If you have reason to believe that there has been any breach of the security of the Site, please contact us at [privacy@livenation.com](mailto:privacy@livenation.com).
-
-  9. ## Offline vs. Online practices.
-
-Please note that this Privacy Policy applies solely to our online information gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline.
-
-  10. ## Contacting Ticketmaster Regarding this Site.
-
-If you have any questions concerning this Policy, you may send them by email to our Privacy Officer at [privacy@livenation.com](mailto:privacy@livenation.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. You must send any official correspondence via postal mail to:
-
-Ticketmaster LLC  
-c/o Live Nation Entertainment, Inc.  
+Live Nation Entertainment, Inc.  
 9348 Civic Center Drive  
 Beverly Hills, CA 90210  
 Attention: Privacy Officer, Legal
 
-  11. ## Your California Privacy Rights.
+If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-If you are a California resident, you have the right to request information about how we share certain categories of personal information with third parties. California law gives you the right to send us a request at a designated address to receive the following information:
+**What we will do if there is an update to this policy.**
 
-    * the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;
+From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-    * the names and addresses of the third parties that received that information; and
+**Ad Choices**
 
-    * if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+**We use common tracking technologies.**
 
-We may provide this information in a standard format that is not specific to you. The designated email address for these requests is [privacy@livenation.com](mailto:privacy@livenation.com).
+We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools:
+
+  * To recognize new or past customers.
+  * To store your password if you are registered on our sites.
+  * To improve our website.
+  * To serve you with advertising content in which we think you will be interested. To do so, we may observe your behaviors on this website and other websites. We may also collect information about your browsing history.
+  * To better understand the interests of our customers and our website visitors.
 
 
 
+**You can control tracking tools.**
 
-Thanks again for using Ticketmaster!
+Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings.
 
-© 2012 Ticketmaster LLC. All rights reserved.
+If you block cookies on your browser, certain features on our sites may not work.
+
+**Some ads may be served based on tracking.**
+
+We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps. This may also include our ads served on other companies' sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites. This second type of advertising is called "online behavioral advertising."
+
+**You can opt-out of online behavioral advertising.**
+
+To opt out of having your online behavioral advertising, click [here](http://www.aboutads.info/choices).
+
+© 2012 Live Nation Entertainment, Inc. All rights reserved.
