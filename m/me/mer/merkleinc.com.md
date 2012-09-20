@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606031039id_/http%3A//www.merkleinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920072818id_/http%3A//www.merkleinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Merkle
 
@@ -41,7 +41,7 @@ Merkle provides information management and marketing services designed to help c
 Merkle hosts and maintains various third-party data on behalf of our clients. When Merkle provides data products to our clients we adhere to the terms and conditions defined by third party suppliers of such data.
 
 **Advocacy and Compliance**  
-Merkle works closely with major industry trade associations and organizations that are at the center of privacy issues and advocacy. Merkle is an active member of the Direct Marketing Association (DMA), which is online at [www.the-dma.org](http://www.dma.org/).
+Merkle works closely with major industry trade associations and organizations that are at the center of privacy issues and advocacy. Merkle is an active member of the Direct Marketing Association (DMA), which is online at [www.the-dma.org](http://www.the-dma.org/).
 
 Merkle’s executive staff serves on DMA committees. Merkle is also a member of the American Marketing Association, and belongs to numerous other professional marketing associations. We utilize and support MD5 encrypted suppression files.
 
