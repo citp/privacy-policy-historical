@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskera.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510085629id_/http%3A//www.deskera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskera.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920020223id_/http%3A//deskera.com/privacy-policy) for the most accurate reproduction.*
 
 # Deskera Apps | Privacy Policy | Privacy Protection | Demo Login
 
@@ -23,7 +23,7 @@ Since we understand that you may wish not to disclose your Personal Information 
   
 
 
-## Information Recorded and Use: 
+## Information Recorded and Use:
 
 **Personal Information:**  
 During the Registration Process for creating a Deskera Account, we request for your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your Deskera Account. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this privacy policy.
@@ -38,7 +38,7 @@ We store and maintain files, documents, to-do lists, emails and other data store
 In case of services requiring payment, we request credit card or other payment Account information, which will be used solely for processing payments. Your Financial Information will not be stored by us. Subject to your prior consent and where necessary for processing future payments, your Financial Information will be stored in encrypted form on secure servers of reputed Payment Gateway Service Provider.
 
 **Visitor Details:**  
-We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the websites, track visitor's movements and to improve our website. 
+We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the websites, track visitor's movements and to improve our website.
 
   
 
@@ -109,6 +109,3 @@ Any changes to the Deskera Privacy Policy will be posted on our websites in orde
 ## End of Privacy Policy
 
 If you have any questions or concerns regarding this privacy policy, please contact us at [legal@deskera.com](mailto:legal@deskera.com)
-
-  
-
