@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcredible.co.uk privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520073713id_/http%3A//www.webcredible.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcredible.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920065859id_/http%3A//www.webcredible.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Webcredible privacy policy - customer experience design agency
 
@@ -24,4 +24,4 @@ Webcredible does not use session files to log your individual browsing patterns;
 
 Webcredible cannot be held responsible for the content or data policies and procedures on external sites.
 
-If you'd like to be informed of any changes we make to our privacy policy then please [contact us](https://web.archive.org/web/20120520073713id_/http%3A//www.webcredible.co.uk/contact-us.shtml).
+If you'd like to be informed of any changes we make to our privacy policy then please [contact us](https://web.archive.org/web/20120920065859id_/http%3A//www.webcredible.co.uk/contact-us.shtml).
