@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505134024id_/https%3A//secure.getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920021546id_/https%3A//secure.getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
 
 # privacy policy at GetMeRegistered.com
 
-|  updated: September 8, 2004
+updated: July 25, 2012
 
 Get Me Registered, owner of GetMeRegistered.com, respects site visitors' personal privacy. This document describes how we use the information you provide. This policy applies only to Get Me Registered's use of your information as collected on this website. By providing your information during the use of this site, you attest your understanding and acceptance of this policy.
 
@@ -32,6 +32,6 @@ Payment information is sent via secure, encrypted HTTP (SSL) to a transaction pr
 
 ## Contacting Get Me Registered
 
-Customer service inquiries may be sent to: 
+[Customer service inquiries may be sent to: ](https://web.archive.org/contact.php)
 
-service@getmeregistered.com 
+[ service@getmeregistered.com ](https://web.archive.org/contact.php)
