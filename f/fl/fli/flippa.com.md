@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510044948id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920090512id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
 
 # Flippa: The #1 Marketplace for Buying and Selling Websites
 
