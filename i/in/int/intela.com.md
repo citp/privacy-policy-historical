@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intela.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606170109id_/http%3A//intela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intela.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022718id_/http%3A//intela.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Online Lead Generation & Email Marketing | Intela | Global Performance Marketing
 
