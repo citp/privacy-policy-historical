@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellfire.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510070906id_/http%3A//www.cellfire.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellfire.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055156id_/http%3A//www.cellfire.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Grocery Coupons
 
@@ -9,7 +9,7 @@ Effective Date: November 26, 2007
 
 Cellfire values your privacy. This policy applies to the Cellfire or Cellfire Express services (collectively, the "Service"). 
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20120510070906id_/http%3A//www.cellfire.com/feedback.php) through our website or write to us at: 
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20120920055156id_/http%3A//www.cellfire.com/feedback.php) through our website or write to us at: 
 
 Cellfire Privacy  
 2890 Zanker Road  
