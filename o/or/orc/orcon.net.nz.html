@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orcon.net.nz privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623042228id_/http%3A//www.orcon.net.nz/about/page/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orcon.net.nz privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920124943id_/http%3A//www.orcon.net.nz/about/page/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,9 +11,9 @@
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="image_src" href="//www.orcon.net.nz/images/uploads/orconbadge.png">
     <link rel="stylesheet" href="/css/uniform.default.css" type="text/css">
-    <link rel="stylesheet" href="/css/orcon.css?201205080908" type="text/css">
-    <!--[if lte IE 7]><link rel="stylesheet" href="/css/ie7.css?201205080908" type="text/css" /><![endif]-->
-    <!--[if IE 6]><link rel="stylesheet" href="/css/ie6.css?201205080908" type="text/css" /><![endif]-->
+    <link rel="stylesheet" href="/css/orcon.css?201207181247" type="text/css">
+    <!--[if lte IE 7]><link rel="stylesheet" href="/css/ie7.css?201207181247" type="text/css" /><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" href="/css/ie6.css?201207181247" type="text/css" /><![endif]-->
     
     <!-- Section begin: RSS Feeds -->
     <link href="/lifestyle/rss" rel="alternate" type="application/rss+xml" title="Digital Life RSS Feed">
@@ -23,7 +23,6 @@
     <!-- Typekit: start. Load before jquery to prevent collision. -->
 <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//use.typekit.com/saa3wbx.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<!-- Typekit: end  -->
 
 <!-- start: SWF Files -->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
@@ -32,15 +31,16 @@
 <!-- Genius: start -->
 <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.1.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
+<!-- Input Placeholder attribute polyfill -->
+<script type="text/javascript" src="/scripts/jquery.placeholder.min.js"></script>
 <!-- Genius: end -->
 
 <!-- Orcon: start -->
-<script src="/scripts/jquery_plugins_thickbox.js" type="text/javascript"></script>
 
 <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.8.1/jquery.validate.min.js"></script>
 
 <script type="text/javascript" src="/scripts/jquery.maskedinput-1.1.2.min.js"></script>
-<script type="text/javascript" src="/scripts/functions.js?201205080908"></script>
+<script type="text/javascript" src="/scripts/functions.js?201207181247"></script>
 <!-- Orcon: end -->
 
 <!-- Google Analytics: start (sitewide) -->
@@ -112,34 +112,58 @@
                 <li class="last"><a href="/support" title="Go to the support section">Support</a></li>
             </ul>
             <div class="clear"></div>
-            <!-- SECTION begin : login -->
-<div id="login" class="nolog">
+                            <!-- SECTION begin : login -->
+<div id="login-zone">
 
-    <p class="title btnHover"><span>My Orcon</span></p>
+    <div class="heading">My Orcon Customer Zone</div>
 
-    <!-- ** if not logged -->
-    <div class="lightbox">
+    <div id="tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all ui-tabs-collapsible none-selected">
         <form id="account" name="accountlogin" action="https://orcres.cosmos.net.nz/orconmembersarea.php" method="post">
-            <div class="content">
-                <input type="hidden" value="http://www.orcon.net.nz/site/login/=&amp;result=failure" name="failureurl">
-                <ul>
-                    <li><input type="text" name="username" value="" id="account_login_username" class="text"></li>
-                    <li><input type="password" name="password" value="" id="account_login_password" class="text"></li>
-                </ul>
-                <ul class="buttons">
-                    <li><a href="#" onclick="loginToService('cosmos')"><span id="inp-log-acc">Account Login</span></a></li>
-                    <li><a href="#" onclick="loginToService('webmail')"><span id="inp-log-mail">Webmail Login</span></a></li>
-                    <li><a class="textlink" href="https://orcres.cosmos.net.nz/cgi-bin/WebObjects/OSMAPI.woa/wa/OcnWizardDirectAction/goForgetMyPasswordWizard?ocnOUCode=ORCRES">Forgotten Password?</a></li>
-                </ul>
+            <input type="hidden" value="http://www.orcon.net.nz/site/login/=&amp;result=failure" name="failureurl">
+            <ul class="tabs ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+                <li class="login-webmail-tab ui-state-default ui-corner-top"><a href="#login-webmail">Webmail</a></li>
+                <li class="login-account-tab ui-state-default ui-corner-top"><a href="#login-account">My Orcon</a></li>
+            </ul>
 
+            <div id="login-webmail" class="tab-content logged-out ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
+                <div class="tab-content-wrap">
+                    <div class="wrap grp">
+                        <div class="username input-field">
+                            <label for="username_webmail">Username</label>
+                            <input type="text" placeholder="Username" class="input-text" id="username_webmail" name="username_webmail">
+                        </div>
+                        <div class="password input-field">
+                            <label for="password_webmail">Password</label>
+                            <input type="password" placeholder="Password" class="input-text" id="password_webmail" name="password_webmail">
+                        </div>
+                        <a class="login-button" href="#" onclick="loginToService('webmail')">Login</a>
+                    </div><!--/wrap-->
+                    <a class="forgot-password-link" href="https://orcres.cosmos.net.nz/cgi-bin/WebObjects/OSMAPI.woa/wa/OcnWizardDirectAction/goForgetMyPasswordWizard?ocnOUCode=ORCRES">Forgotten password?</a>
+                </div>
+            </div><!--/login-webmail-->
 
-            </div><!-- end login content -->
+            <div id="login-account" class="tab-content logged-out ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
+                <div class="tab-content-wrap">
+                    <div class="wrap grp">
+                        <div class="username input-field">
+                            <label for="username_cosmos">Username</label>
+                            <input type="text" placeholder="Username" class="input-text" id="username_cosmos" name="username_cosmos">
+                        </div>
+                        <div class="password input-field">
+                            <label for="password_cosmos">Password</label>
+                            <input type="password" placeholder="Password" class="input-text" id="password_cosmos" name="password_cosmos">
+                        </div>
+                        <a class="login-button" href="#" onclick="loginToService('cosmos')">Login</a>
+                    </div><!--/wrap-->
+                    <a class="forgot-password-link" href="https://orcres.cosmos.net.nz/cgi-bin/WebObjects/OSMAPI.woa/wa/OcnWizardDirectAction/goForgetMyPasswordWizard?ocnOUCode=ORCRES">Forgotten password?</a>
+                </div>
+            </div><!--/login-account-->
         </form>
-    </div><!-- end lightbox -->
-    <!-- ** -->
+    </div><!--/tabs-->
+
 
 </div><!-- SECTION end : login -->
-        </div><!-- SECTION end : menu content -->
+                    </div><!-- SECTION end : menu content -->
     </div><!-- SECTION end : menu -->
 <div id="container" class="page">
     <div id="sidebarLeft">
@@ -236,8 +260,8 @@
                                  <div class="networkstatus greybox">
     <p><a class="pinkchevron" title="Go to network status" href="/support/network_status"><span>Network Status</span></a></p>
     
-        <p><span class="time">18/06/12 8:23 pm</span></p>
-	<p>A network outage this evening has affected voice, data, hosting, colo and other services across the network.</p>
+        <p><span class="time">17/09/12 8:03 pm</span></p>
+	<p>Tamaki outage</p>
 	<p>(Resolved)</p>    
 </div><!-- end networking status -->
 								<div class="styleBox-1 mTop10">
@@ -253,7 +277,7 @@
                                                 
 													<p>
                                                     
-										<img src="http://www.orcon.net.nz/images/uploads/staff/DamionHart.jpg" alt="Damian Hart, Customer Experience Specialist" title="Damian Hart, Customer Experience Specialist" width="50" height="63" style="float:left">
+										<img src="http://www.orcon.net.nz/images/uploads/staff/Picture_018.jpg" alt="Umar Amjad, Customer Experience Specialist" title="Umar Amjad, Customer Experience Specialist" width="50" height="63" style="float:left">
                                         
                                                     
                                                     <a href="/support/talk" style="margin-left:8px; margin-top:15px; float:left;"><img src="/img/btn_talk-us.gif" alt="Talk to us now"></a></p>
