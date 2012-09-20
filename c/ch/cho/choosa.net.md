@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the choosa.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512041458id_/http%3A//www.choosa.net/en/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosa.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920020212id_/http%3A//www.choosa.net/en/help/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Help & Support > Choosa.net
+# Choosa Help & Support - Professional Design For Everyone
 
-**Privacy Policy**
+## Privacy Policy
 
-**1\. Introduction**
+1\. Introduction
 
-Choosa respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at Choosa’s Web site.
+Choosa respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at Choosa’s Web site. 
 
 2\. Part I. Information Collection
 
@@ -16,12 +16,12 @@ We collect the following general data: details you provide to us in your account
 
 The majority of this information is optional, but what you do provide is not sold or distributed to third parties.
 
-**We may also collect:**
+We may also collect:
 
-    * your IP address
-    * your browser version and it's capabilities
-    * your operating system
-    * the date and time of your visit
+  * your IP address
+  * your browser version and its capabilities
+  * your operating system
+  * the date and time of your visit
 
 
 
@@ -29,14 +29,14 @@ Other information we request is optional.
 
 We do employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable Choosa to track usage patterns and deliver customized content to users.
 
-**3\. Part II. Information Usage.**
+3\. Part II. Information Usage.
 
 The information collected by Choosa will be used for:
 
-    * improve the website and system administration
-    * conduct research and development
-    * complete anonymous traffic analysis, via Google Analytics
-    * provide statistics to advertisers in the form of aggregated data
+  * improve the website and system administration
+  * conduct research and development
+  * complete anonymous traffic analysis, via Google Analytics
+  * provide statistics to advertisers in the form of aggregated data
 
 
 
@@ -48,14 +48,14 @@ We offer links to other Web sites. Please note: When you click on links to other
 
 Our Web site offers chats, forums or message boards. Please be advised that information posted in these venues becomes public knowledge.
 
-**4\. Part III. Access to Information**
+4\. Part III. Access to Information
 
 Choosa maintains the accuracy of our information. Users may access their own personal information and contact us about inaccuracies they may find. Users may delete their information from our database.
 
-**5\. Part IV. Problem Resolution**
+5\. Part IV. Problem Resolution
 
 If problems arise, users may contact Choosa. We are committed to resolving disputes within two weeks.
 
-**6\. Part V. Data Storage and Security**
+6\. Part V. Data Storage and Security
 
 Choosa protects user information with the highest security measures....
