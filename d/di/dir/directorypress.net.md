@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607063936id_/http%3A//directorypress.net/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920062114id_/http%3A//directorypress.net/support/privacy) for the most accurate reproduction.*
 
 # DirectoryPress Privacy Policy - Directory Press
 
