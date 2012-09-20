@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504141946id_/http%3A//www.foodieblogroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920172753id_/http%3A//www.foodieblogroll.com/privacy) for the most accurate reproduction.*
 
 # Foodie Blogroll : Privacy Policy
 
-[Home](https://web.archive.org/web/20120504141946id_/http%3A//www.foodieblogroll.com/privacy?mode=home) > Privacy Policy 
+[Home](https://web.archive.org/web/20120920172753id_/http%3A//www.foodieblogroll.com/privacy?mode=home) > Privacy Policy 
 
 Your privacy on the Internet is very important to us. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the collection and use of that information. This online Privacy Policy (the "Privacy Policy") tells you about the information Foodie Blogroll.com collects through its website (the "Site") and its Network and how we use that information. By using our services and accessing the Foodie Blogroll.com, you are consenting to the information collection and use practices described in the Privacy Policy, as modified from time to time by us. 
 
@@ -107,16 +107,24 @@ We reserve the right to change our Privacy Policy and our Terms of Use at any ti
 
 | 
 
-| Average Daily Visits: |   **1,630,211** (past 7 days)  
+| Average Daily Visits: |   **2,121,065** (past 7 days)  
 ---|---  
    
-This Month: |   **0**  
-This Year: |   **200,341,349**  
+This Month: |   **46,892,418**  
+This Year: |   **373,428,290**  
   
-## Total Blogs: [14118](http://www.foodieblogroll.com/blogs)
+## Total Blogs: [14680](http://www.foodieblogroll.com/blogs)
 
-[](http://www.foodieblogroll.com/contests/the-butter-bell-crock-promotion-opportunity "The Butter Bell Crock Promotion Opportunity")  
+[](http://www.foodieblogroll.com/contests/green-leafs-bananas-opportunity "Green Leaf's & Bananas Opportunity")  
   
 ---  
   
-### The Butter Bell Crock Promotion Opportunity
+### Green Leaf's & Bananas Opportunity  
+  
+[](http://www.foodieblogroll.com/contests/spread-the-word-to-win-a-25-gift-card-from-green-leaf-s-bananas "Spread the word to win a $25 gift card from Green Leaf's & Bananas")  
+  
+### Spread the word to win a $25 gift card from Green Leaf's & Bananas  
+  
+[](http://www.foodieblogroll.com/contests/spread-the-word-to-win-a-copy-of-the-healing-powers-of-coffee-book "Spread the word to win a copy of 'The Healing Powers of Coffee' Book")  
+  
+### Spread the word to win a copy of 'The Healing Powers of Coffee' Book
