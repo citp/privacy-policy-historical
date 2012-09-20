@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bounzd.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231160919id_/http%3A//www.bounzd.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bounzd.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022527id_/http%3A//bounzd.com/privacypolicy.html) for the most accurate reproduction.*
 
 # What Goes Inside BounzD -Inbound Buisness Calling Platform
 
