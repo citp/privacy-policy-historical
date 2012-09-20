@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504044731id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920035131id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
 
 # FORZIERI | Help | Security & Privacy | Privacy Policy
 
