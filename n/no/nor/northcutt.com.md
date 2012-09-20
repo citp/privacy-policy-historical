@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northcutt.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510162132id_/http%3A//www.northcutt.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northcutt.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920045932id_/http%3A//www.northcutt.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Northcutt
 
