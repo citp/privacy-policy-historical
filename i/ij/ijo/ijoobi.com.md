@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the ijoobi.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920220738id_/http%3A//www.ijoobi.com/Organization/Agreements/Privacy-Policy-for-iJoobi.com.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijoobi.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920212315id_/http%3A//www.joobi.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for iJoobi.com
-
 **Introduction.**  
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](http://www.ijoobi.com/index.php?option=com_content&task=view&id=14).
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](http://joobi.co/index.php?option=com_content&task=view&id=14).
 
 **1\. Collection of Data.**  
 Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.
@@ -17,10 +15,10 @@ We may use Data to customize and improve your user experience on this site. We w
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
 
 **4\. Children.**  
-We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](http://www.ijoobi.com/index.php?option=com_contact&task=view&contact_id=3).
+We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](http://joobi.co/index.php?option=com_contact&task=view&contact_id=3).
 
 **5\. Editing or Deleting Your Account Information.**  
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://www.ijoobi.com/index.php?option=com_jcommunity&controller=members&task=profile). You may request deletion of your user account by contacting [our webmaster](http://www.ijoobi.com/index.php?option=com_contact&task=view&contact_id=3). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](http://www.ijoobi.com/index.php?option=com_content&task=view&id=14) for more information.
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://joobi.co/index.php?option=com_jcommunity&controller=members&task=profile). You may request deletion of your user account by contacting [our webmaster](http://joobi.co/index.php?option=com_contact&task=view&contact_id=3). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](http://joobi.co/index.php?option=com_content&task=view&id=14) for more information.
 
 **6\. Changes to this Privacy Policy.**  
 We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
@@ -29,19 +27,12 @@ We may make changes to this Policy from time to time. We will notify you of subs
 While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data.
 
 **8\. Contact Information.**  
-If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](http://www.ijoobi.com/index.php?option=com_contact&task=view&contact_id=3).
+If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](http://joobi.co/index.php?option=com_contact&task=view&contact_id=3).
 
 Joobi Limited  
 1883/24B Moorefield Rd  
 Johnsonville, Wellington 6037  
 New Zealand
 
-  
-Comments(0)
-
-Be the first to Add a Comment
-
-[Add Comment
-
-](http://www.ijoobi.com/component/option,com_jsetup/Itemid,55/commenttype,20/controller,comment/etid,13/returnid,aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZlaWQ9QXJyYXkmSXRlbWlkPTU1JmlkPTEzJmxhbmc9ZW4mdmlldz1hcnRpY2xlJmNvbW1lbnR0eXBlPTIw/task,add/) |  [< Prev](http://www.ijoobi.com/Organization/Agreements/Terms-of-Use-for-iJoobi.com.html) |    |  [Next >](http://www.ijoobi.com/Organization/Agreements/Return-and-Refund-Policy-for-iJoobi.com.html)  
+[< Prev](http://joobi.co/terms-and-conditions) |    |  [Next >](http://joobi.co/sales-and-refunds)  
 ---|---|---
