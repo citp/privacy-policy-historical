@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gsalr.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223022id_/http%3A//gsalr.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsalr.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022750id_/http%3A//gsalr.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 **Effective Date: June 1, 2007**
 
