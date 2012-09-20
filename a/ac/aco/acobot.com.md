@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acobot.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603110806id_/http%3A//acobot.com/node/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acobot.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043229id_/http%3A//acobot.com/node/8) for the most accurate reproduction.*
 
 # Privacy Policy | Acobot
 
@@ -36,6 +36,11 @@ A cookie is a small file which asks permission to be placed on your computer's h
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any personal information about you, other than the data you choose to share with us.
 
 You can choose either to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting so as to decline cookies if you prefer. This may prevent you from taking full advantage of the website. This privacy policy covers the use of cookies by us and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+
+**Remarketing Advertisements**  
+When you have left our website, we might display relevant advertisements to you when you visit some 3rd party websites. These advertisements are delivered through the third-party vendors including Google Inc.
+
+You can opt out of Google's use of cookies by visiting their [Ads Preferences Manager](https://www.google.com/ads/preferences/). Alternatively, you can point your visitors to opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) opt-out page.
 
 **Links to Other Websites**
 
