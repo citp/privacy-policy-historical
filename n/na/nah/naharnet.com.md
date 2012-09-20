@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the naharnet.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602023838id_/http%3A//www.naharnet.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naharnet.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920062220id_/http%3A//www.naharnet.com/privacy_policy) for the most accurate reproduction.*
 
 # 
-
-You must first log into the privileged profile before accessing this page.
 
 Naharnet takes seriously the issue of safeguarding your privacy online. At the same time as Naharnet is committed to bringing you information tailored to your individual needs, we recognize the importance of protecting the privacy of personally identifiable information collected about you. In adopting this member privacy policy, our intent is to balance our legitimate business interests in collecting and using information against your reasonable expectations of privacy. 
 
