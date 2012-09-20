@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the violetbag.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620012713id_/http%3A//www.violetbag.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the violetbag.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920081549id_/http%3A//www.violetbag.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>VioletBag.com</title>
@@ -71,42 +71,6 @@ _gaq.push(['_trackPageLoadTime']);
 </div>
 
 
-	<script type="text/javascript">
-	// <![CDATA[
-	
-		$('document').ready( function() {
-			$("#search_query_top")
-				.autocomplete(
-					'http://www.violetbag.com/search.php', {
-						minChars: 3,
-						max: 10,
-						width: 500,
-						selectFirst: false,
-						scroll: false,
-						dataType: "json",
-						formatItem: function(data, i, max, value, term) {
-							return value;
-						},
-						parse: function(data) {
-							var mytab = new Array();
-							for (var i = 0; i < data.length; i++)
-								mytab[mytab.length] = { data: data[i], value: data[i].cname + ' > ' + data[i].pname };
-							return mytab;
-						},
-						extraParams: {
-							ajaxSearch: 1,
-							id_lang: 1
-						}
-					}
-				)
-				.result(function(event, data, formatted) {
-					$('#search_query_top').val(data.pname);
-					document.location.href = data.product_link;
-				})
-		});
-	
-	// ]]>
-	</script>
 <!-- /Block search module TOP -->
 <!-- Block user information module HEADER -->
 <div id="header_user">	
@@ -190,13 +154,25 @@ var removingLinkText = 'remove this product from my bag';
 								<li class="menu-item">
 									<a href="/15487-wallets">Wallets</a>
 								</li>
+								<li class="menu-item">
+									<a href="/15489-back-packs">Back Packs</a>
+								</li>
+								<li class="menu-item">
+									<a href="/15490-waist-bags">Waist Bags</a>
+								</li>
+								<li class="menu-item">
+									<a href="/15525-business-bags">Business Bags</a>
+								</li>
 							</ul>
 						</li>
 						<li class="menugroup onecol last">
 							<span class="title">Popular Brands</span>
 							<ul class="menu_container ">
+							    <li class="menu-item">
+									<a href="/275_be-for-bag">Be for Bag</a>
+								</li>
 								<li class="menu-item">
-									<a href="/179_elan">Elan</a>
+									<a href="/259_leather-talks">Leather Talks</a>
 								</li>
 								<li class="menu-item">
 									<a href="/182_wildcraft">Wildcraft</a>
@@ -205,10 +181,10 @@ var removingLinkText = 'remove this product from my bag';
 									<a href="/185_fastrack">Fastrack</a>
 								</li>
 								<li class="menu-item">
-									<a href="/186_bulchee">Bulchee</a>
+									<a href="/192_puma">Puma</a>
 								</li>
 								<li class="menu-item">
-									<a href="/192_puma">Puma</a>
+									<a href="/15481-bags-wallets?brand=188&amp;layered_manufacturer_188=188">Ecofrends</a>
 								</li>
 							</ul>
 						</li>
@@ -256,6 +232,15 @@ var removingLinkText = 'remove this product from my bag';
 								<li class="menu-item">
 									<a href="/15501-acc?brand=201&amp;layered_manufacturer_201=201">FCUK</a>
 								</li>
+								<li class="menu-item">
+									<a href="/15501-acc?brand=107&amp;layered_manufacturer_107=107">Esprit</a>
+								</li>
+								<li class="menu-item">
+									<a href="/15501-acc?brand=195&amp;layered_manufacturer_195=195">Allen Solly</a>
+								</li>
+								<li class="menu-item">
+									<a href="/15501-acc?brand=205&amp;layered_manufacturer_205=205">Fossil</a>
+								</li>
 							</ul>
 						</li>
 					</ul>
@@ -280,6 +265,12 @@ var removingLinkText = 'remove this product from my bag';
 								</li>
 								<li class="menu-item">
 									<a href="/15457-necklaces-exclusive">Exclusive</a>
+								</li>
+								<li class="menu-item">
+									<a href="/15451-jewelry-box">Jewellery Box</a>
+								</li>
+								<li class="menu-item">
+									<a href="/15528-fine-jewellery">Fine Jewellery</a>
 								</li>
 							</ul>
 						</li>
@@ -325,6 +316,9 @@ var removingLinkText = 'remove this product from my bag';
 						<li class="menugroup onecol last">
 							<span class="title">Popular Brands</span>
 							<ul class="menu_container ">
+							    <li class="menu-item">
+									<a href="/274_eva-jewels">Eva Jewels</a>
+								</li>
 								<li class="menu-item">
 									<a href="/187_tonga">Tonga</a>
 								</li>
@@ -339,9 +333,6 @@ var removingLinkText = 'remove this product from my bag';
 								</li>
 								<li class="menu-item">
 									<a href="/168_aesthetics">Aesthetics</a>
-								</li>
-								<li class="menu-item">
-									<a href="/177_cosma">Cosma</a>
 								</li>
 							</ul>
 						</li>
@@ -564,7 +555,7 @@ var removingLinkText = 'remove this product from my bag';
 									<a href="/1551-tissue-cotton">Tissue &amp; Cotton</a>
 								</li>
 								<li class="menu-item">
-									<a href="/28-foot-care">Foot Care</a>
+									<a href="/28-foot-care">Hand and Foot Care</a>
 								</li>
 								<li class="menu-item">
 									<a href="/26-body-butter-lotions-creams">Body Lotion, Oil &amp; Cream</a>
@@ -616,10 +607,13 @@ var removingLinkText = 'remove this product from my bag';
 									<a href="/4-womens-perfumes-deodorants">EDP Women</a>
 								</li>
 								<li class="menu-item">
-									<a href="/1531-eau-de-toilette-men">EDT Men</a>
+									<a href="/3-mens-perfumes-deodorants">EDP Men</a>
 								</li>
 								<li class="menu-item">
 									<a href="/1532-edt-women">EDT Women</a>
+								</li>
+								<li class="menu-item">
+									<a href="/1531-eau-de-toilette-men">EDT Men</a>
 								</li>
 							</ul>
 						</li>
@@ -823,10 +817,10 @@ var removingLinkText = 'remove this product from my bag';
 							<span class="title" style="color:red">Offers</span>
 							<ul class="menu_container ">
 								<li class="menu-item">
-									<a href="/155_aroma-treasures">Aroma Treasures</a>
+									<a href="/156_auravedic">Auravedic</a>
 								</li>
 								<li class="menu-item">
-									<a href="/156_auravedic">Auravedic</a>
+									<a href="/151_diana-of-london">Diana Of London</a>
 								</li>
 							</ul>
 						</li>
