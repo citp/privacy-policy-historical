@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504053233id_/https%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920034602id_/https%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # moneybookers.com
 
 Moneybookers Limited (registered number: 4260907) with its registered office at Welken House, 10-11 Charterhouse Square, London EC1M 6EH (“we” or “us”) are committed to protecting your information and respecting your privacy. 
 
-This Privacy Policy together with the [Skrill (Moneybookers) Account Terms of Use](http://www.moneybookers.com/app/help.pl?s=terms) (and any other documents referred to therein) set out the basis on which any personal data we collect from you, or which you provide to us, through our website [www.moneybookers.com](http://www.moneybookers.com/) (“ **Website** ”) or in connection with your Skrill (Moneybookers) Account (as defined in the Skrill (Moneybookers) Terms of Use) will be processed by us. When you complete any form, speak with our staff or submit any details to us or using our Website, we will collect, use and disclose your personal information in the manner described in this Privacy Policy. 
+This Privacy Policy together with the [Skrill (Moneybookers) Account Terms of Use](https://www.moneybookers.com/app/help.pl?s=terms) (and any other documents referred to therein) set out the basis on which any personal data we collect from you, or which you provide to us, through our website [www.moneybookers.com](https://www.moneybookers.com/) (“ **Website** ”) or in connection with your Skrill (Moneybookers) Account (as defined in the Skrill (Moneybookers) Terms of Use) will be processed by us. When you complete any form, speak with our staff or submit any details to us or using our Website, we will collect, use and disclose your personal information in the manner described in this Privacy Policy. 
 
 **Please read this Privacy Policy carefully to understand our views and practices regarding your personal data, how we use it and how we will treat it. If you do not agree with this Privacy Policy, please do not use our services.**
 
 We are a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Our site is a certified TRUSTe website. Because of our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, we have agreed to notify you of: 
+
+| 
 
   * The nature and extent of the personal data we collect from you directly or from third parties. 
   * Who processes your personal data; 
@@ -142,25 +144,27 @@ If your personal details (such as your name, address, or telephone number) chang
 
 You have the right to access information that we hold about you. To do so, please contact us at the address given at the end of this policy. Access may be subject to a fee of up to £10. 
 
-A cookie is a small data file which contains information that is transferred to the hard drive of the device from which you access our site. For more comprehensive information about how cookies work, see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+A cookie is a small amount of data which contains information that is downloaded to the device from which you access our site. Cookies are useful because they allow us and other websites to recognise your device. For more comprehensive information about how cookies work, see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
-Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. For example, they can allow you to navigate between web pages of our site and remember your preferences such as your language selection.
 
 ### 9.2. Types of Cookies and Consent
 
-In order to comply with legislation, we have reviewed the use of cookies on our site and have implemented measures to ensure that you are aware of these cookies and give your consent for placing of some or all of these cookies, except for those which are necessary for the services you have requested (as explained below). 
+In order to comply with legislation, we have reviewed the use of cookies on our site and set out the information below. This is to ensure that you are aware of these cookies and are able to give your consent for the placing of some or all of these cookies on your device when you use our site. 
 
 In summary, we use the following types of cookies: 
 
-  * cookies which are essential for our site to operate, such as those which identify you so you can log into your Skrill (Moneybookers) Account. These cookies will always be activated, 
-  * cookies which are necessary to assist in meeting our regulatory compliance obligations, such as anti-money laundering and anti-fraud obligations, and prevent your Skrill (Moneybookers) Account from being hijacked. These cookies will always be activated, 
-  * cookies that help us to improve our site and to deliver a better and more personalised service to you. 
-  * cookies that enable us to link to our group companies’ websites. 
-  * some cookies are not related to us or our group companies. When you visit a page with content embedded from, for example, YouTube or Twitter, you may be presented with cookies from these websites. We do not control the dissemination of these cookies, you should check the third party websites for more information about these cookies.
+  * _Strictly necessary cookies_ – These are cookies which are essential for our site to operate such as those which identify you so you can log into your Skrill (Moneybookers) Account. They allow you to move around our website and use the services you have requested. These cookies will be activated when you enter our site and as you use our site.
+  * _Compliance cookies_ – These include cookies which are necessary to assist in meeting our regulatory compliance obligations, such as anti-money laundering and anti-fraud obligations, and prevent your Skrill (Moneybookers) Account from being hijacked. These cookies will be activated when you enter our site and as you use our site.
+  * _Performance cookies_ – These are cookies that help us to improve how our site works and to deliver a better service to you. For example, they will assess which pages you visit most often or if you get an error message. They also allow us to see if you have used the site of one of our group or affiliated companies. All information collected by these cookies is aggregated and therefore anonymous. 
+  * _Functionality cookies_ – These cookies allow us to deliver a more personalised service to you and allow our site to remember choices you have made such as the language you prefer or the region you are in. They may also be used to provide services you have requested such as being able to comment on one of our blogs. 
+  * _Third Party cookies_ – When you visit a page on our site with content embedded from third parties, for example, YouTube or Twitter, cookies may be downloaded onto your device. We do not set or control these cookies. If you are concerned about the types of cookies that may be downloaded you check the third party websites for more information about these cookies.
 
 
 
-You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Our system will issue cookies as soon as you visit our site unless you have adjusted your browser setting so that it will refuse cookies. 
+Further details of the cookies we use and how they relate to the descriptions set out above can be found in Annex A to this policy. We may use other cookies from time to time in accordance with this policy. By using our sites and other online services, you acknowledge that we may use some or all of the cookies set out in Annex A and you agree that we can place Performance and Functionality Cookies on your device when you use our site. If you do not agree to this you should cease using our sites and online services or adjust your browser settings. Please see section 9.3 below. 
+
+Should you want to continue using our services but restrict our use of cookies, you can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including Strictly necessary and/or Compliance cookies, as set described above) you may not be able to access all or parts of our site. Our site may issue some of the cookies described above as soon as you visit our site unless you have adjusted your browser setting so that it will refuse cookies.
 
 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to:   
 Email: [privacy@moneybookers.com ](mailto:privacy@moneybookers.com)  
