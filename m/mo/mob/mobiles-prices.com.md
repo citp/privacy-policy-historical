@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles-prices.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620060045id_/http%3A//mobiles-prices.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles-prices.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042203id_/http%3A//mobiles-prices.com/privacy.php) for the most accurate reproduction.*
 
 # www.mobiles-prices.com : Privacy Notice
 
@@ -83,6 +83,11 @@
     * [Android OS, v4.0.3 (Ice Cream Sandwich)](http://mobiles-prices.com/Android_OS,_v4.0.3_\(Ice_Cream_Sandwich\)/Operating_System/Mobiles "Mobiles of Operating SystemAndroid OS, v4.0.3 \(Ice Cream Sandwich\) in India Pakistan")
     * [Android OS, v2.3.6 (Gingerbread), upgradable to v4.0](http://mobiles-prices.com/Android_OS,_v2.3.6_\(Gingerbread\),_upgradable_to_v4.0/Operating_System/Mobiles "Mobiles of Operating SystemAndroid OS, v2.3.6 \(Gingerbread\), upgradable to v4.0 in India Pakistan")
     * [Android OS, v4.0.4 (Ice Cream Sandwich)](http://mobiles-prices.com/Android_OS,_v4.0.4_\(Ice_Cream_Sandwich\)/Operating_System/Mobiles "Mobiles of Operating SystemAndroid OS, v4.0.4 \(Ice Cream Sandwich\) in India Pakistan")
+    * [Microsot Windows Phone 8](http://mobiles-prices.com/Microsot_Windows_Phone_8/Operating_System/Mobiles "Mobiles of Operating SystemMicrosot Windows Phone 8 in India Pakistan")
+    * [iOS 6](http://mobiles-prices.com/iOS_6/Operating_System/Mobiles "Mobiles of Operating SystemiOS 6 in India Pakistan")
+    * [Android OS, v4.1 (Jelly Bean](http://mobiles-prices.com/Android_OS,_v4.1_\(Jelly_Bean/Operating_System/Mobiles "Mobiles of Operating SystemAndroid OS, v4.1 \(Jelly Bean in India Pakistan")
+    * [Android OS, v4.0.4 (Ice Cream Sandwich), planned upgrade to v4.1.1](http://mobiles-prices.com/Android_OS,_v4.0.4_\(Ice_Cream_Sandwich\),_planned_upgrade_to_v4.1.1/Operating_System/Mobiles "Mobiles of Operating SystemAndroid OS, v4.0.4 \(Ice Cream Sandwich\), planned upgrade to v4.1.1 in India Pakistan")
+    * [Android OS, v4.0.4 (Ice Cream Sandwich), upgradable to v4.1](http://mobiles-prices.com/Android_OS,_v4.0.4_\(Ice_Cream_Sandwich\),_upgradable_to_v4.1/Operating_System/Mobiles "Mobiles of Operating SystemAndroid OS, v4.0.4 \(Ice Cream Sandwich\), upgradable to v4.1 in India Pakistan")
 
 
   * ## sim
@@ -113,6 +118,9 @@
     * [Touch-sensitive controls](http://mobiles-prices.com/Touch-sensitive_controls/input/Mobiles "Mobiles of inputTouch-sensitive controls in India Pakistan")
     * [HD-IPS LCD capacitive touchscreen](http://mobiles-prices.com/HD-IPS_LCD_capacitive_touchscreen/input/Mobiles "Mobiles of inputHD-IPS LCD capacitive touchscreen in India Pakistan")
     * [Super AMOLED capacitive touchscreen](http://mobiles-prices.com/Super_AMOLED_capacitive_touchscreen/input/Mobiles "Mobiles of inputSuper AMOLED capacitive touchscreen in India Pakistan")
+    * [Gorilla Glass 2 ](http://mobiles-prices.com/Gorilla_Glass_2_/input/Mobiles "Mobiles of inputGorilla Glass 2  in India Pakistan")
+    * [TFT capacitive touchscreen](http://mobiles-prices.com/TFT_capacitive_touchscreen/input/Mobiles "Mobiles of inputTFT capacitive touchscreen in India Pakistan")
+    * [QWERTY and Classic Kepad](http://mobiles-prices.com/QWERTY_and_Classic_Kepad/input/Mobiles "Mobiles of inputQWERTY and Classic Kepad in India Pakistan")
 
 
   * ## design
@@ -194,6 +202,7 @@
     * [CDMA 800 / 1900 ](http://mobiles-prices.com/CDMA_800_/_1900_/Network_2G/Mobiles "Mobiles of Network 2GCDMA 800 / 1900  in India Pakistan")
     * [GSM or CDMA](http://mobiles-prices.com/GSM_or_CDMA/Network_2G/Mobiles "Mobiles of Network 2GGSM or CDMA in India Pakistan")
     * [CDMA 800 / 1900](http://mobiles-prices.com/CDMA_800_/_1900/Network_2G/Mobiles "Mobiles of Network 2GCDMA 800 / 1900 in India Pakistan")
+    * [CDMA 1900 ](http://mobiles-prices.com/CDMA_1900_/Network_2G/Mobiles "Mobiles of Network 2GCDMA 1900  in India Pakistan")
 
 
   * ## network3g
@@ -218,6 +227,8 @@
     * [TD-SCDMA 1880-1920](http://mobiles-prices.com/TD-SCDMA_1880-1920/Network_3G/Mobiles "Mobiles of Network 3GTD-SCDMA 1880-1920 in India Pakistan")
     * [HSDPA 900 / 2100 - LT26i, HSDPA 850 / 1900 / 2100 - LT26a](http://mobiles-prices.com/HSDPA_900_/_2100_-_LT26i,_HSDPA_850_/_1900_/_2100_-_LT26a/Network_3G/Mobiles "Mobiles of Network 3GHSDPA 900 / 2100 - LT26i, HSDPA 850 / 1900 / 2100 - LT26a in India Pakistan")
     * [Tri-Band HSDPA](http://mobiles-prices.com/Tri-Band_HSDPA/Network_3G/Mobiles "Mobiles of Network 3GTri-Band HSDPA in India Pakistan")
+    * [CDMA2000 1x ](http://mobiles-prices.com/CDMA2000_1x_/Network_3G/Mobiles "Mobiles of Network 3GCDMA2000 1x  in India Pakistan")
+    * [HSDPA 900 / 2100 - D910i, HSDPA 850 / 1900 - D910a](http://mobiles-prices.com/HSDPA_900_/_2100_-_D910i,__HSDPA_850_/_1900_-_D910a/Network_3G/Mobiles "Mobiles of Network 3GHSDPA 900 / 2100 - D910i,  HSDPA 850 / 1900 - D910a in India Pakistan")
 
 
   * ## features
