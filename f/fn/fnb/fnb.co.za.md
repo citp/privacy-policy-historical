@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnb.co.za privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516195412id_/https%3A//www.fnb.co.za/legal-matters/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnb.co.za privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920032324id_/https%3A//www.fnb.co.za/legal-matters/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Matters - FNB
 
