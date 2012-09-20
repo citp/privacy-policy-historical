@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cashu.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511144646id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashu.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920043353id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -89,7 +89,7 @@ jQuery.fn.isChildOf = function(parent){
 			}
 		}
 	}
-  
+	
 
 	</script> 
 
@@ -110,22 +110,27 @@ jQuery.fn.isChildOf = function(parent){
 	}
 	
 	function setLinks2(actionURLP){
+	document.loginDivForm.username.value = trimString(document.loginDivForm.username.value);
+	document.loginDivForm.password.value = trimString(document.loginDivForm.password.value);
+	document.loginDivForm.merchant_id.value = trimString(document.loginDivForm.username.value) ;
+
 		if(actionURLP == 'payment'){
 			document.loginDivForm.action = 'https://www.cashu.com/CLogin/loginNext';
-			document.loginDivForm.userNickName.value = document.loginDivForm.username.value;
-			document.loginDivForm.userPassword.value = document.loginDivForm.password.value;
+			document.loginDivForm.userNickName.value = trimString(document.loginDivForm.username.value);
+			document.loginDivForm.userPassword.value = trimString(document.loginDivForm.password.value);
+			
 			document.getElementById('forgetPassLink').href="https://www.cashu.com/CLogin/forgetPassword";
 		}
 		else{
 			if(actionURLP == 'reseller'){
 				document.loginDivForm.action = 'https://www.cashu.com/resellers/en/login/login';
-				document.loginDivForm.userNickName.value = document.loginDivForm.username.value;
-				document.loginDivForm.userPassword.value = document.loginDivForm.password.value;
+				document.loginDivForm.userNickName.value = trimString(document.loginDivForm.username.value) ;
+				document.loginDivForm.userPassword.value = trimString(document.loginDivForm.password.value) ;
 				document.getElementById('forgetPassLink').href="https://www.cashu.com/resellers/en/forgetPassword";
 			}
 			else{
 				document.loginDivForm.action = 'https://www.cashu.com/Merchants/en/login/login';
-				document.loginDivForm.merchant_id.value = document.loginDivForm.username.value;
+				document.loginDivForm.merchant_id.value = trimString(document.loginDivForm.username.value) ;
 				document.getElementById('forgetPassLink').href="https://www.cashu.com/Merchants/en/forgetPassword";
 			}
 		}
@@ -135,6 +140,12 @@ jQuery.fn.isChildOf = function(parent){
 		setLinks2(document.loginDivForm.accountType.value);
 		document.loginDivForm.submit();
 	}
+	
+	function trimString(str)
+	{
+		return jQuery.trim(str) ;
+	}
+	
 	
 </script>
 
@@ -331,10 +342,10 @@ jQuery.fn.isChildOf = function(parent){
 	</div>
 	<div class="fl wid500">
 	<div class="fl pad5"><a href="https://www.cashu.com/site/en/aboutUs" title="About cashU">About cashU</a> . <a href="https://www.cashu.com/site/en/pressCenter" title="Press Centre">Press Centre</a> . <a href="https://www.cashu.com/site/en/chooseTermOfUse" title="Terms of Use">Terms of Use</a> . <a href="https://www.cashu.com/site/en/privacyPolicy" title="Privacy Policy">Privacy Policy</a> . <a href="https://www.cashu.com/site/en/fees" title="Fees">Fees</a> . <a href="https://www.cashu.com/site/en/siteMap" title="Sitemap">Sitemap</a></div>
-	<div class="fl pad5"><img alt="" src="https://images.cashu.com/images/en/footer_cashu_live4.jpg?301" title="Ukash , globalcollect , UAE Exchange, Bee, Fawry, CashUnited"></div>
+	<div class="fl pad5"><img alt="" src="https://images.cashu.com/images/en/footer_cashu_live4.jpg?240" title="Ukash , globalcollect , smart2pay, ogone, adyen, keycollect, envoy, wallet one"></div>
 	<br clear="all">
 	<div class="fl pad5"><p>
-	Version 5.3.1, Copyright 2002-2010 | cashU is a member of&nbsp;<a href="http://www.jabbar.com/" target="_blank" title="Jabbar Internet Group">Jabbar Internet Group</a></p>
+	cashU is a member of&nbsp;<a href="http://www.jabbar.com/" target="_blank" title="Jabbar Internet Group">Jabbar Internet Group</a></p>
 </div>
 
 
