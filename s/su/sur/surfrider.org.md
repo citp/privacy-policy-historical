@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508084159id_/http%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055526id_/http%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
 
 # Surfrider Foundation Privacy Policy | Surfrider Foundation
 
