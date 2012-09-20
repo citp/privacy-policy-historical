@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the ofakind.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118134135id_/http%3A//ofakind.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofakind.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920112553id_/http%3A//ofakind.com/pages/privacy) for the most accurate reproduction.*
 
 # Of a Kind - Know and Own
+
+##  Privacy Policy   
+
 
 We at Of a Kind know that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the ofakind.com website, and any other features, content, or any other services we offer from time to time by in connection therewith (collectively, the "Site"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
