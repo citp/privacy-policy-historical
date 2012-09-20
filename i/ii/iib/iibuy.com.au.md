@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the iibuy.com.au privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130104920id_/http%3A//www.iibuy.com.au/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iibuy.com.au privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920023455id_/http%3A//www.iibuy.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Online Shopping @ iiBuy.com.au!, The Ultimate Bargain Online
+# Privacy Notice : iiBuy.com.au - english
 
-| 
-
-[Home](http://www.iibuy.com.au/) ::  Privacy Notice 
+## Privacy Notice
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of iiBuy.com.au Inc.  
 If you have visited our website, that will be considered to be your acceptance to this privacy policy. **Automatically collected information**   
@@ -31,6 +29,4 @@ However, cookies can help you to make most use of the best special services from
 Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.  
 The information you can get easily from 
 
-iiBuy.com.au containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.  
-  
----|---
+iiBuy.com.au containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
