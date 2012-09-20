@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripps.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509033157id_/http%3A//www.scripps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920081610id_/http%3A//www.scripps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The E.W. Scripps Company
 
