@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603074752id_/http%3A//www.tomtop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920044319id_/http%3A//www.tomtop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-#### You're currently on:
 
 TOMTOP company will be very carefully treat and handle your privacy information. Please read the following information of our company's privacy policy to learn more about that.
 
