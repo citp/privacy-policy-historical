@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templates-master.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530234858id_/http%3A//templates-master.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templates-master.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920185325id_/http%3A//templates-master.com/privacy) for the most accurate reproduction.*
 
 # Privacy | #1 Source for Magento Themes & Magento Extensions
 
