@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 30minutepostcards.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508005136id_/http%3A//timothycastleman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 30minutepostcards.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920061823id_/http%3A//timothycastleman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Timothy Castleman
 
