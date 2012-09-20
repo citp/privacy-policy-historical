@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4expert.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504131125id_/http%3A//www.go4expert.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4expert.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920112835id_/http%3A//www.go4expert.com/privacy.php) for the most accurate reproduction.*
 
 # Programming and SEO Forums - Privacy Policy
 
