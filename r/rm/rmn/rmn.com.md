@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmn.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626125200id_/http%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmn.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055809id_/http%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,8 @@ Please [Contact Us](http://www.retailmenot.com/contact/) if you have any questio
 WhaleShark Media, Inc.  
 Attention: Legal Department  
 301 Congress Avenue, Suite 700  
-Austin, Texas 78701
+Austin, Texas 78701  
+512-777-2970
 
 **Our Privacy Statement is organized as follows:**
 
