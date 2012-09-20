@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630060354id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920051602id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Village Cinemas
 
@@ -162,4 +162,4 @@ Village may modify this Privacy Policy and the way it handles Personal Informati
 
 ### 13\. FURTHER INFORMATION
 
-Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](https://web.archive.org/web/20120630060354id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/www.privacy.gov.au).
+Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](https://web.archive.org/web/20120920051602id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/www.privacy.gov.au).
