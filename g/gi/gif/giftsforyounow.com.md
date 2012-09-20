@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601050438id_/http%3A//www.giftsforyounow.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920083607id_/http%3A//www.giftsforyounow.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,8 +11,8 @@ The Site may use cookie and tracking technology depending on the features offere
 
 Please NOTE: We sometimes share your postal addresses with other catalogs whose products we think you might like or, with your prior consent, other trusted third party partners. If you do not want us to share your name, please contact us at:  
 GiftsForYouNow.com  
-2425 Curtiss Street  
-Downers Grove, IL 60515
+109 Shore Drive  
+Burr Ridge, IL 60527
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these organizations for marketing purposes.
 
