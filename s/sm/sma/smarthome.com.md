@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthome.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606215609id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthome.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920122752id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Information Use Policy
 
@@ -26,7 +26,7 @@ In order to process your order efficiently or to send you the correspondence you
 
   * We do not share your e-mail address with any third party solicitors.
   * When you order online, you will receive confirmation e-mails and, in some cases, a follow-up e-mail asking to rate your experience.
-  * If you have registered to join our email newsletter, you periodically get product, solution and sale alert emails from us. You may unsubscribe from our email list at any time by simply using [this form](https://web.archive.org/web/20120606215609id_/http%3A//www.smarthome.com/unsubscribe.asp).
+  * If you have registered to join our email newsletter, you periodically get product, solution and sale alert emails from us. You may unsubscribe from our email list at any time by simply using [this form](https://web.archive.org/web/20120920122752id_/http%3A//www.smarthome.com/unsubscribe.asp).
 
 
 
