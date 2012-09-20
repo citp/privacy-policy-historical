@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideweddings.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216210702id_/http%3A//insideweddings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideweddings.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920032739id_/http%3A//www.insideweddings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InsideWeddings.com
 
@@ -45,5 +45,5 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address:
 
 Privacy Policy Coordinator Belle Media  
-9229 W. Sunset Boulevard Suite 303  
-Los Angeles, CA 90069
+6420 Wilshire Boulevard, Suite 1060  
+Los Angeles, CA 90048
