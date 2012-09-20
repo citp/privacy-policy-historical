@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the duq.edu privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233132id_/http%3A//www.duq.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duq.edu privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920021904id_/http%3A//www.duq.edu/about/departments-and-offices/public-affairs/internet-privacy-policy) for the most accurate reproduction.*
 
-# Internet Privacy Policy
+# Internet Privacy Policy | Duquesne University
 
-##### Collecting and Using Personal Information
+A  A  Email  Print Share 
 
-Welcome to Duquesne University's websites. We appreciate your interest in us. When you visit and navigate our sites and when you communicate with us via our sites, we will not collect personal information about you unless you provide us that information voluntarily. Any non-public personal information that you may provide via our sites will be used solely for the purpose stated on the page where it is collected. Duquesne University will not sell, license, transmit or disclose this information outside of Duquesne University unless (a) expressly authorized by you, (b) necessary to enable Duquesne University contractors or agents to perform certain functions for us, or (c) required or permitted by law. In all cases, we will disclose the information consistent with applicable laws and regulations and we will require the recipient to protect the information and use it only for the purpose it was provided.
+### Collecting and Using Personal Information
+
+When you visit and navigate our sites and when you communicate with us via our sites, we will not collect personal information about you unless you provide us that information voluntarily. Any non-public personal information that you may provide via our sites will be used solely for the purpose stated on the page where it is collected. Duquesne University will not sell, license, transmit or disclose this information outside of Duquesne University unless (a) expressly authorized by you, (b) necessary to enable Duquesne University contractors or agents to perform certain functions for us, or (c) required or permitted by law. In all cases, we will disclose the information consistent with applicable laws and regulations and we will require the recipient to protect the information and use it only for the purpose it was provided.
 
 By “personal information,” we mean data that is unique to an individual, such as a name, address, Social Security number, e-mail address, or telephone number. From time to time, we may request personal information from you at our sites in order to deliver requested materials to you or respond to your questions.
 
