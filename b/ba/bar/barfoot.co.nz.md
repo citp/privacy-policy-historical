@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617111249id_/http%3A//www.barfoot.co.nz/Global/Legal%2520Documents/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920024332id_/http%3A//barfoot.co.nz/Global/Legal%2520Documents/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Barfoot & Thompson Real Estate
 
@@ -26,18 +26,21 @@ If you choose to correspond with us through email, we may retain the content of 
 
 #### Web Site Use Information
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.  
+The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
+Third party vendors, including Google, show our ads on sites on the internet.  
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website.  
+Users may opt out of Google’s use of cookies by visiting the Google advertising [opt-out page](http://www.google.com/policies/privacy/ads/ "Google advertising opt out page"). 
 
 ### What we do with the information we gather
 
 We use the information you provide to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
-  * We may use the information to customise the website according to your interests.
+  * Internal record keeping. 
+  * We may use the information to improve our products and services. 
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. 
+  * We may use the information to customise the website according to your interests. 
 
 
 
