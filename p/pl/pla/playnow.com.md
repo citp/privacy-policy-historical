@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506093402id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920024149id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
 
 # Privacy | PlayNow.com
 
@@ -215,8 +215,17 @@ If you would like more information about our privacy practices or believe that w
 If, at any time, you feel like we have not acted in accordance with this Charter, you may request a formal review of your case by contacting _BCLC's Information and Privacy department_.
 
 **Mailing Address:**  
-Office of the Information and Privacy  
-Commissioner for British Columbia  
+Information and Privacy Administrator  
+BCLC  
+74 West Seymour Street  
+Kamloops, BC V2C 1E2  
+Telephone: (250) 852-5383  
+E-mail: [privacy@bclc.com](mailto:privacy@bclc.com)
+
+If, at any time, you are not satisfied with how BCLC is dealing with your case, you can contact the Office of the Information and Privacy Commissioner of British Columbia, at:
+
+**Mailing Address:**  
+Office of the Information and Privacy Commissioner for British Columbia  
 PO Box 9038, Stn. Prov. Govt.  
 Victoria, BC V8W 9A4
 
