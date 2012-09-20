@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the servicemagic.com privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516140433id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the servicemagic.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920053301id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>ServiceMagic - Privacy Statement</title>
-	<link rel="stylesheet" type="text/css" href="/stylesheets/servicemagic.css">
+	<link rel="stylesheet" type="text/css" href="/rb/N558227207/stylesheets/bundle/consumer.css">
     <link rel="stylesheet" type="text/css" href="/stylesheets/local.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
    function appendLink(anchor,qrystr)
@@ -24,7 +24,7 @@
       return true;
    }
 </script>
-<link rel="stylesheet" type="text/css" href="/stylesheets/searchAutocomplete.css"></head>
+</head>
 
 <body> 
 
@@ -48,15 +48,9 @@
    <!-- BEGIN /rfs/stdnav/topNavJSIncludes.jsp -->
    
    
-   <script type="text/javascript" src="/rb/N1399861899/sm-global.js"></script>
+   <script type="text/javascript" src="/rb/N1339374374/js/bundle/sm-global.js"></script>
 
-   
-   
-   
-   
-   
-   
-   
+
    <script type="text/javascript">
       $topNavIncludeJQ = jQuery.noConflict(true); if(!jQuery){jQuery = $topNavIncludeJQ ;}else{ $topNavIncludeJQ = {}; }
    </script>
@@ -66,7 +60,13 @@
 
 	   window.fbAsyncInit = function(){
 	      FB.init({appId: "64440709461", status: true, cookie: true, xfbml: true, oauth: true});
-	      
+
+	      //Omniture Tracking
+         if (typeof socialLike !== "undefined") {
+            FB.Event.subscribe('edge.create', function(response) { socialLike(response,'fb', 'like'); } );
+	         FB.Event.subscribe('edge.remove', function(response) { socialLike(response, 'fb', 'unlike'); } );
+         }
+
 	      SM.FB.initComplete = true;
 	      for (var i = 0, len = SM.FB.initCallbacks.length; i < len; i++) {
 	         SM.FB.initCallbacks[i]();
@@ -75,22 +75,22 @@
 	   };
 	   
 	   
-		   (function(){
+		   (function(d){
 		      var e = document.createElement('script');
 		      e.async = true;
-		      e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		      e.src = d.location.protocol + '//connect.facebook.net/en_US/all.js';
 		      
 		      // Necessary for some cases in IE<8 and FF<4
-		      var fbRoot = document.getElementById('fb-root');
+		      var fbRoot = d.getElementById('fb-root');
 		      if (fbRoot === null) {
-		         jQuery(document).ready(function(){
+		         jQuery(d).ready(function(){
 		            document.getElementById("fb-root").appendChild(e);
 		         });
 		      }
 		      else {
 		         fbRoot.appendChild(e);
 		      }
-		   }());
+		   }(document));
 	   
    </script>
 
@@ -102,12 +102,17 @@
 
 
       
+<!-- /rfs/stdnav/servicemagic/consumerTopNav.jsp -->
 
 
 
 
 
-<!-- /rfs/aboutus/privacyStatement.jsp -->
+
+
+
+
+
 
 
 
@@ -166,9 +171,9 @@
                <fb:like href="http%3A%2F%2Fwww.facebook.com%2FServiceMagic" send="false" layout="button_count" width="95" show_faces="false" font="arial"></fb:like>
             </li>
 
-            <li id="googlePlus" style="background-image: none;">
-               <g:plusone size="medium" href="http://www.servicemagic.com/"></g:plusone>
-            </li>
+                  <li id="googlePlus">
+                     <g:plusone size="medium" href="http://www.servicemagic.com/" callback="socialLike"></g:plusone>
+                  </li>
 
             <li class="sm-consumer-top-nav-menu-search">
                <a class="sm-consumer-top-nav-menu-search-button" href="/sitesearch/SiteSearchServlet"></a>
@@ -178,7 +183,7 @@
                      <input type="hidden" name="searchType" value="SiteTaskSearch">
                      <input type="hidden" name="useExtSearch" value="true">
                      <input type="hidden" name="link_id" value="14322">
-                     <input id="searchQueryTop" type="text" name="query" value="" autocomplete="off" class="ac_input">
+                     <input id="searchQueryTop" type="text" name="query" value="">
                      <div style="position:absolute;right:100px;top:-8px">
                         <input type="image" src="/images/consTopNav/SearchButton_42x42.gif" style="width:42px;height:42px;float:right" data-linkid="14322" title="Search">
                      </div>
@@ -197,6 +202,12 @@
             </li>
             <li class="grey-bg"><a href="/resources.home-improvement.html">Articles &amp; Tools</a></li>
             <li><a href="/servlet/ServiceProfessionalRegistrationServlet" class="sm-consumer-top-nav-links-tab-three appendLink" data-linkid="13750">Are You a Quality Pro?</a></li>
+
+             
+
+                 <li class="toll-free">Questions? (866) 222-8504</li>
+
+             
          </ul>
       </div>
 
@@ -234,23 +245,21 @@
 
 
 
-
 <script type="text/javascript" src="/js/jQuery/jquery.autocomplete.min.js"></script>
 
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+   <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 <script type="text/javascript" src="/js/util/FormUtil.js"></script>
+<script type="text/javascript" src="/js/consumerTopNav.js"></script>
 <script type="text/javascript">
    jQuery(document).ready(function(){
-      jQuery('.appendLink').click( function(e){
+      jQuery('.appendLink').click(function(e){
          e.stopImmediatePropagation();
          appendLink(this, 'link_id='+jQuery(this).attr('data-linkId'));
          e.preventDefault();
       });
    });
-</script>
-<script type="text/javascript" language="javascript" src="/js/consumerTopNav.js"></script>
-<script type="text/javascript">
+   
    /* Autocomplete functionality */
    var autoCompleteCss = document.createElement('link');
    autoCompleteCss.setAttribute('rel', 'stylesheet');
@@ -338,11 +347,6 @@
            return FormUtil.preventDefaultTextSubmitAndFocus('searchQueryTop',"Search Projects (e.g.- remodel, maid)");
       });
 
-
-
-      /* Deals js */
-      
-
       /* Path Back js */
       jQuery('.arrow').hover(
          function(){
@@ -368,21 +372,13 @@
 
     
 <!-- end Top Nav -->
+
 	<table cellspacing="0" cellpadding="0" border="0" style="margin:0px auto; text-align:left;">
 	<tbody><tr>
 		<!-- Left Nav -->
 
-		<!-- leftNav.jsp -->
-
-
-
-
-<td width="20" style="background-image:url('/rfs/home/images/leftborder_20x1.gif');">
-   <img src="/images/clear.gif" height="1" width="20" border="0" alt="">
-
-   <img src="/images/clear.gif" border="0" width="1" height="10" alt=""><br>
-</td>
-<!-- end Left Nav  -->
+		<!-- Blank include file  -->
+<!-- This include file was intentionally left blank. -->
 
 
 		<!-- Left Buffer area -->
@@ -574,16 +570,8 @@
 			<td><img src="/images/clear.gif" width="5" height="1" alt=""></td>
 		<!-- Right Nav -->
 
-		<!-- Right Nav -->
-
-
-
-
-
-
-<td width="20" style="background-image:url('/rfs/home/images/rightborder_20x1.gif');"><img src="/images/clear.gif" height="1" width="20" border="0" alt=""></td>
-
-<!-- end right Nav -->
+		<!-- Blank include file  -->
+<!-- This include file was intentionally left blank. -->
 
 
 		</tr>
@@ -594,6 +582,20 @@
 
 
 
+<!-- BEGIN /rfs/includes/rico/international/internationalOverlayInclude.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- END /rfs/includes/rico/international/internationalOverlayInclude.jsp -->
+<!-- BEGIN /devTools/threadLogOverlay.jsp -->
 
 
 
@@ -606,27 +608,19 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- /rfs/aboutus/privacyStatement.jsp -->
 
 
 
  
 
 
-	<!-- consumerBottomNav.jsp -->
+<!-- END /devTools/threadLogOverlay.jsp -->
+
+
+
+	<!-- /rfs/stdnav/servicemagic/consumerBottomNav.jsp -->
+
+
 
 
 
@@ -646,195 +640,225 @@
 
 
 <style type="text/css">
-   #sm-nav-feedback-content p {
-      margin: 5px 0;
-   }
+    #sm-nav-feedback-content p {
+        margin: 5px 0;
+    }
 </style>
 <div id="sm-cons-bot-nav" class="sm-use-fixed-width">
-   <div id="sm-cons-bot-nav-top">
-      <div class="sm-cons-bot-nav-content">
-         <span>By using ServiceMagic you agree to our <a href="http://www.servicemagic.com/servlet/TermsServlet">Terms &amp; Conditions</a></span>
-         <a href="#feedback" id="feedback" class="icon">Feedback</a> about this page
-         <div id="sm-nav-feedback-form" style="display:none">
-            <form id="sm-nav-fb-form" action="/servlet/SMSiteFeedback;jsessionid=44DB2741EAE4971C38B78AE5C0981063.workerpr026-1" method="post" onsubmit="this.pageUrl.value=parent.document.location.href;">
-            <input type="hidden" name="pageName" value="/rfs/aboutus/privacyStatement.jsp">
-            <input type="hidden" name="pageUrl" value="">
-            <input type="hidden" name="domainUrl" value="www.servicemagic.com">
-            <input type="hidden" name="referringUrl" value="/article.show.Learn-to-Share-with-a-Jack-and-Jill-Bathroom.14180.html">
-            <input type="hidden" name="nextPage" value="/rfs/aboutus/privacyStatement.jsp">
-            <div id="sm-nav-feedback-top"></div>
-            <div id="sm-nav-feedback-content">
-               <a href="#close" id="close-sm-nav-feedback-form"><img src="/rfs/enroll/images/close_button.jpg"></a>
-               <div id="sm-nav-feedback-main">
-                  <div id="feedback-is">
-                     <strong>This Page Is:</strong>
-                     <p><label for="useful"><input type="checkbox" name="6899" id="useful" value="9892">Useful</label></p>
-                     <p><label for="confusing"><input type="checkbox" name="6899" id="confusing" value="9893">Confusing</label></p>
-                     <p><label for="broken"><input type="checkbox" name="6899" id="broken" value="9894">Broken</label></p>
-                     <p><label for="other"><input type="checkbox" name="6899" id="other" value="9895">Other</label></p>
-                  </div>
-                  <div id="feedback-data">
-                     <strong>Additional Feedback<br>About This Page:</strong>
-                     <textarea name="6900" id="sm-nav-feedback-message"></textarea>
-                  </div>
-                  
-                  <div id="feedback-controls">
-                     <a href="javascript:livePersonNow('servicemagic','default','','');"><img src="/images/arrows/arrow_2689ee_5x8.gif" width="5" height="8" alt=">" style="position:relative;top:1px"> Get Live Help</a>
-                     
-                     <input type="image" src="/images/buttons/submit.gif">
-                  </div>
-               </div>
-               <div id="sm-nav-feedback-thanks" style="display:none">
-                  <strong>Thank you!</strong> We have received your feedback.
-               </div>
+    <div id="sm-cons-bot-nav-top">
+        <div class="sm-cons-bot-nav-content">
+            <span>By using ServiceMagic you agree to our <a href="/servlet/TermsServlet">Terms &amp; Conditions</a></span>
+            <a href="#feedback" id="feedback" class="footer-icon">Feedback</a> about this page
+            <div id="sm-nav-feedback-form" style="display:none">
+                <form id="sm-nav-fb-form" action="/servlet/SMSiteFeedback" method="post" onsubmit="this.pageUrl.value=parent.document.location.href;">
+                    <input type="hidden" name="pageName" value="/rfs/aboutus/privacyStatement.jsp">
+                    <input type="hidden" name="pageUrl" value="">
+                    <input type="hidden" name="domainUrl" value="www.servicemagic.com">
+                    <input type="hidden" name="referringUrl" value="">
+                    <input type="hidden" name="nextPage" value="/rfs/aboutus/privacyStatement.jsp">
+                    <div id="sm-nav-feedback-top"></div>
+                    <div id="sm-nav-feedback-content">
+                        <a href="#close" id="close-sm-nav-feedback-form"><img src="/rfs/enroll/images/close_button.jpg"></a>
+                        <div id="sm-nav-feedback-main">
+                            <div id="feedback-is">
+                                <strong>This Page Is:</strong>
+                                <p><label for="useful"><input type="checkbox" name="6899" id="useful" value="9892">Useful</label></p>
+                                <p><label for="confusing"><input type="checkbox" name="6899" id="confusing" value="9893">Confusing</label></p>
+                                <p><label for="broken"><input type="checkbox" name="6899" id="broken" value="9894">Broken</label></p>
+                                <p><label for="other"><input type="checkbox" name="6899" id="other" value="9895">Other</label></p>
+                            </div>
+                            <div id="feedback-data">
+                                <strong>Additional Feedback<br>About This Page:</strong>
+                                <textarea name="6900" id="sm-nav-feedback-message"></textarea>
+                            </div>
+                            
+                            <div>
+                                <div valign="top"><b>Verification</b>&nbsp;</div>
+                                <div valign="top"><input type="text" name="j_captcha_response" value="" style="width:164px;color:#666;font:12px Arial;"><br>Type the characters you see below:</div>
+
+
+                                <div colspan="3"><img src="/images/clear.gif" width="1" height="7" border="0" alt=""></div>
+
+
+                                <div>&nbsp;</div>
+                                <div valign="top">
+                                    <div id="captcha-image" style="border:1px solid #000; background: transparent url('/rfs/servicerequest/viewfirst/images/ajax-loader.gif') no-repeat center center; min-height: 60px; min-width: 100px;">
+                                        <img id="captcha-image-node" src="/images/clear.gif">
+                                    </div>
+                                    <span style="font-size:10px">Can't see image? <a href="#" id="captcha-image-link">Refresh Image</a></span>
+                                </div>
+                            </div>
+                            
+                            <div id="feedback-controls">
+                                <a href="javascript:livePersonNow('servicemagic','default','','');"><img src="/images/arrows/arrow_2689ee_5x8.gif" width="5" height="8" alt=">" style="position:relative;top:1px"> Get Live Help</a>
+
+                                <input type="image" src="/images/buttons/submit.gif">
+                            </div>
+                        </div>
+                        <div id="sm-nav-feedback-thanks" style="display:none">
+                            <strong>Thank you!</strong> We have received your feedback.
+                        </div>
+                    </div>
+                    <div id="sm-nav-feedback-bot"></div>
+                </form>
             </div>
-            <div id="sm-nav-feedback-bot"></div>
-            </form>
-         </div>
-      </div>
-   </div>
-   <div class="sm-cons-bot-nav-content main">
-      <div id="app-links" class="sm-cons-bot-nav-column">
-         <span class="title">Mobile Apps</span>
-         <ul>
-         <li id="iphone">
-            <h6>iPhone Apps</h6>
-            <a class="app-link" id="iphone-mobile-link" href="http://itunes.apple.com/us/app/servicemagic-mobile/id432633172?mt=8&amp;ls=1">ServiceMagic Mobile</a>
-            <a class="app-link" id="iphone-homesmarts-link" href="http://itunes.apple.com/us/app/homesmarts/id424312533?mt=8">Homesmarts</a>
-         </li>
-         <li id="android">
-            <h6>Android Apps</h6>
-            <a class="app-link" id="android-mobile-link" href="https://market.android.com/details?id=com.servicemagic.consumer">ServiceMagic Mobile</a>
-            <a class="app-link" id="android-homesmarts-link" href="http://market.android.com/details?id=com.servicemagic.homesmarts">Homesmarts</a>
-         </li>
-         </ul>
-      </div>
-      <div class="sm-cons-bot-nav-column">
-         <span class="title">New Services</span>
-         <a href="/category.Event-Party-Planning.14100.html">Event Planning</a><br>
-         <a href="/category.Photography.10596.html">Photography</a><br>
-         <a href="/task.Portraits.46433.html">Portraits</a><br>
-         <a href="/resources.Senior-Care.94.html">Senior In-Home Care</a><br>
-         <a href="/category.Videography.14280.html">Videography</a><br>
-         <a href="/commercial/">ServiceMagic for Business</a><br>
-         <a href="/sm/sharepro/consumer/moreinfo?mode=directLink&amp;link_id=14725">Deals and Discounts</a>
-      </div>
-      <div class="sm-cons-bot-nav-column">
-         <span class="title">Popular Services</span>
-         <a href="/task.Bathroom-Remodel.40129.html">Bathroom Remodeling</a><br>
-         <a href="/task.Carpets-or-Rugs-Clean-at-Home.40005.html">Carpet Cleaners</a><br>
-         <a href="/category.Electrical-Telephone-Computers.10207.html">Electricians</a><br>
-         <a href="/category.Flooring.10208.html">Flooring</a><br>
-         <a href="/task.Kitchen-Remodel.40131.html">Kitchen Remodeling</a><br>
-         <a href="/task.Maid-Service.40006.html">Maid Service</a><br>
-         <a href="/category.Plumbing.10216.html">Plumbers</a>
-      </div>
-      <div class="sm-cons-bot-nav-column">
-         <span class="title">Pros</span>
-         <a href="http://pros.servicemagic.com/">ServiceMagic Pros Home</a><br>
-         <a href="http://pros.servicemagic.com/servlet/ServiceProfessionalRegistrationServlet">Join Our Network</a><br>
-         <a href="http://www.servicemagicproconnection.com/">ServiceMagic Pro Blog</a><br>
-         <a href="http://pros.servicemagic.com/home-improvement-contractor-leads/">Contractor Leads</a><br>
-         <a href="/nationalaccounts/index.jsp" onclick="appendLink(this, 'link_id=14914')">National Accounts</a>
-      </div>
-      <div class="sm-cons-bot-nav-column" style="border-right:0;padding-right:0">
-         <span class="title">Resources</span>
-         <a href="/article.home-improvement-library.html">Articles</a><br>
-         <a href="/c.html">Directory</a><br>
-         <a href="/category/startRequest.html">Categories</a><br>
-         <a href="/home-improvement-projects/">Projects</a><br>
-         <a href="/resources.design-gallery.html">Galleries</a><br>
-         <a href="/videos/">Videos</a><br>
-         <a href="/labs/rap/">Refer-a-Pro</a><br>
-         <a href="/hs-sitemap/sitemap.html">Site Map</a><br>
-         <a href="/resources.tools.html">Project Tools</a><br>
-         <a href="http://www.servicemagicconnection.com/">ServiceMagic Blog</a><br>
-         <a href="/?isMobile=true">Mobile Site</a>
-      </div>
-      <div style="clear:both"></div>
-   </div>
+        </div>
+    </div>
+    <div class="sm-cons-bot-nav-content main">
+        <div id="app-links" class="sm-cons-bot-nav-column">
+            <span class="title">Mobile Apps</span>
+            <ul>
+                <li id="iphone">
+                    <h6>iPhone Apps</h6>
+                    <a class="app-link" id="iphone-mobile-link" href="http://itunes.apple.com/us/app/servicemagic-mobile/id432633172?mt=8&amp;ls=1">ServiceMagic Mobile</a>
+                    <a class="app-link" id="iphone-homesmarts-link" href="http://itunes.apple.com/us/app/homesmarts/id424312533?mt=8">HomeSavvy</a>
+                </li>
+                <li id="android">
+                    <h6>Android Apps</h6>
+                    <a class="app-link" id="android-mobile-link" href="https://market.android.com/details?id=com.servicemagic.consumer">ServiceMagic Mobile</a>
+                    <a class="app-link" id="android-homesmarts-link" href="http://market.android.com/details?id=com.servicemagic.homesmarts">HomeSavvy</a>
+                </li>
+            </ul>
+        </div>
+        <div class="sm-cons-bot-nav-column">
+            <span class="title">New Services</span>
+            <a href="/category.Event-Party-Planning.14100.html">Event Planning</a><br>
+            <a href="/category.Photography.10596.html">Photography</a><br>
+            <a href="/task.Portraits.46433.html">Portraits</a><br>
+            <a href="/resources.Senior-Care.94.html">Senior In-Home Care</a><br>
+            <a href="/category.Videography.14280.html">Videography</a><br>
+            <a href="/commercial/">ServiceMagic for Business</a><br>
+        </div>
+        <div class="sm-cons-bot-nav-column">
+            <span class="title">Popular Services</span>
+            <a href="/task.Bathroom-Remodel.40129.html">Bathroom Remodeling</a><br>
+            <a href="/task.Carpets-or-Rugs-Clean-at-Home.40005.html">Carpet Cleaners</a><br>
+            <a href="/category.Electrical-Telephone-Computers.10207.html">Electricians</a><br>
+            <a href="/category.Flooring.10208.html">Flooring</a><br>
+            <a href="/task.Kitchen-Remodel.40131.html">Kitchen Remodeling</a><br>
+            <a href="/task.Maid-Service.40006.html">Maid Service</a><br>
+            <a href="/category.Plumbing.10216.html">Plumbers</a>
+        </div>
+        <div class="sm-cons-bot-nav-column">
+            <span class="title">Pros</span>
+            <a href="http://pros.servicemagic.com/">ServiceMagic Pros Home</a><br>
+            <a href="http://pros.servicemagic.com/servlet/ServiceProfessionalRegistrationServlet">Join Our Network</a><br>
+            <a href="http://www.servicemagicproconnection.com/">ServiceMagic Pro Blog</a><br>
+            <a href="http://pros.servicemagic.com/home-improvement-contractor-leads/">Contractor Leads</a><br>
+            <a href="/nationalaccounts/index.jsp" onclick="appendLink(this, 'link_id=14914')">National Accounts</a>
+        </div>
+        <div class="sm-cons-bot-nav-column" style="border-right:0;padding-right:0">
+            <span class="title">Resources</span>
+            <a href="/article.home-improvement-library.html">Articles</a><br>
+            <a href="/c.html">Directory</a><br>
+            <a href="/category/startRequest.html">Categories</a><br>
+            <a href="/home-improvement-projects/">Projects</a><br>
+            <a href="/resources.design-gallery.html">Galleries</a><br>
+            <a href="/videos/">Videos</a><br>
+            <a href="/labs/rap/">Refer-a-Pro</a><br>
+            <a href="/hs-sitemap/sitemap.html">Site Map</a><br>
+            <a href="/resources.tools.html">Project Tools</a><br>
+            <a href="http://www.servicemagicconnection.com/">ServiceMagic Blog</a><br>
+            <a href="/?isMobile=true">Mobile Site</a>
+        </div>
+        <div style="clear:both"></div>
+    </div>
 </div>
 
 <div id="social-links">
-   <ul>
-      <li><a href="http://www.facebook.com/ServiceMagic" id="facebook" class="icon">Connect on Facebook</a></li>
-      <li><a href="http://twitter.com/servicemagic" id="twitter" class="icon">Follow us on Twitter</a></li>
-      <li><a href="https://plus.google.com/103035666734477974032" id="googlePlusBottomNav" class="icon">See us on Google+</a></li>
-      <li><a href="/servlet/EmailConfirmServlet" id="newsletters" class="icon">Sign up for Newsletters</a></li>
-   </ul>
+    <ul>
+        <li><a href="http://www.facebook.com/ServiceMagic" id="facebook" class="footer-icon">Connect on Facebook</a></li>
+        <li><a href="http://twitter.com/servicemagic" id="twitter" class="footer-icon">Follow us on Twitter</a></li>
+        <li><a href="https://plus.google.com/103035666734477974032" id="googlePlusBottomNav" class="footer-icon">See us on Google+</a></li>
+        <li><a href="/servlet/EmailConfirmServlet" id="newsletters" class="footer-icon">Sign up for Newsletters</a></li>
+    </ul>
 </div>
 <!-- /social-links -->
 
 <div id="sm-bot-nav-geo" class="fixed">
-   <p>
-      <a href="http://corp.servicemagic.com/">About Us</a> |
-      <a href="http://servicemagic.submit4jobs.com/">ServiceMagic Careers</a> |
-      <a href="/rfs/aboutus/privacyStatement.jsp">Privacy</a> |
-      <a href="/servlet/AffiliateSignupServlet">Affiliates</a>
-   </p>
-   
-   <p id="top-cities">
-      Top Cities: <a href="/c.Atlanta.GA.html">Atlanta</a> |
-      <a href="/c.Charlotte.NC.html">Charlotte</a> |
-      <a href="/c.Chicago.IL.html">Chicago</a> |
-      <a href="/c.Cleveland.OH.html">Cleveland</a> |
-      <a href="/c.Columbus.OH.html">Columbus</a> |
-      <a href="/c.Dallas.TX.html">Dallas</a> |
-      <a href="/c.Denver.CO.html">Denver</a> |
-      <a href="/c.Houston.TX.html">Houston</a> |
-      <a href="/c.Indianapolis.IN.html">Indianapolis</a> |
-      <a href="/c.Los_Angeles.CA.html">Los Angeles</a> |
-      <a href="/c.Minneapolis.MN.html">Minneapolis</a> |
-      <a href="/c.New_York.NY.html">New York</a><br>
-      
-      <a href="/c.Pittsburgh.PA.html">Pittsburgh</a> |
-      <a href="/c.Raleigh.NC.html">Raleigh</a> |
-      <a href="/c.San_Francisco.CA.html">San Francisco</a> |
-      <a href="/c.Washington.DC.html">Washington, DC</a> |
-      <a href="/clp/">More Cities</a> |
-      International: <a href="http://www.servicemagic.co.uk/">ServiceMagic UK</a> |
-      <a href="http://www.travaux.com/">Travaux</a> |
-      <a href="http://www.123devis.com/">123Devis</a>
-   </p>
-   
-   
-   
-   <div id="sm-copyright">
+    <p>
+        <a href="http://corp.servicemagic.com/">About Us</a> |
+        <a href="http://servicemagic.submit4jobs.com/">ServiceMagic Careers</a> |
+        <a href="/rfs/aboutus/privacyStatement.jsp">Privacy</a> |
+        <a href="/servlet/AffiliateSignupServlet">Affiliates</a>
+    </p>
+
+    <p id="top-cities">
+        Top Cities: <a href="/c.Atlanta.GA.html">Atlanta</a> |
+        <a href="/c.Charlotte.NC.html">Charlotte</a> |
+        <a href="/c.Chicago.IL.html">Chicago</a> |
+        <a href="/c.Cleveland.OH.html">Cleveland</a> |
+        <a href="/c.Columbus.OH.html">Columbus</a> |
+        <a href="/c.Dallas.TX.html">Dallas</a> |
+        <a href="/c.Denver.CO.html">Denver</a> |
+        <a href="/c.Houston.TX.html">Houston</a> |
+        <a href="/c.Indianapolis.IN.html">Indianapolis</a> |
+        <a href="/c.Los_Angeles.CA.html">Los Angeles</a> |
+        <a href="/c.Minneapolis.MN.html">Minneapolis</a> |
+        <a href="/c.New_York.NY.html">New York</a><br>
+
+        <a href="/c.Pittsburgh.PA.html">Pittsburgh</a> |
+        <a href="/c.Raleigh.NC.html">Raleigh</a> |
+        <a href="/c.San_Francisco.CA.html">San Francisco</a> |
+        <a href="/c.Washington.DC.html">Washington, DC</a> |
+        <a href="/clp/">More Cities</a> |
+        International: <a href="http://www.servicemagic.co.uk/">ServiceMagic UK</a> |
+        <a href="http://www.travaux.com/">Travaux</a> |
+        <a href="http://www.123devis.com/">123Devis</a>
+    </p>
+
+    
+
+    <div id="sm-copyright">
       <span id="flags">
          <img src="/images/footer/usa.gif" width="29" height="22" alt="United States">
          <img src="/images/footer/uk.gif" width="29" height="22" alt="United Kingdom">
          <img src="/images/footer/canada.gif" width="29" height="22" alt="Canada">
          <img src="/images/footer/france.gif" width="29" height="22" alt="France">
       </span>
-      
-      <span id="copy-message">© Copyright 1999-2012, ServiceMagic, Inc. All Rights Reserved</span>
+
+        <span id="copy-message">© Copyright 1999-2012, ServiceMagic, Inc. All Rights Reserved</span>
       
       <span id="bhg-info">
          <img src="/images/footer/bhg-logo.gif" width="79" height="31" alt="Better Homes and Gardens">
          Member of the<br>Better Homes and<br>Gardens Network
       </span>
-   </div>
+    </div>
 </div>
 <script type="text/javascript" src="/js/consumerBottomNav.js"></script>
 <script type="text/javascript">
 if (typeof SM !== "undefined" && typeof SM.FB !== "undefined") {
-   SM.FB.onInit(function(){
-      FB.Event.subscribe('xfbml.render', function(response) {
-         jQuery('#fb-like').css('background-image', 'none');
-      });
-   });
+    SM.FB.onInit(function(){
+        FB.Event.subscribe('xfbml.render', function(response) {
+            jQuery('#fb-like').css('background-image', 'none');
+        });
+    });
 }
 else {
-   throw new Error("SM.FB undefined in /rfs/stdnav/servicemagic/consumerBottomNav.jsp");
+    throw new Error("SM.FB undefined in /rfs/stdnav/servicemagic/consumerBottomNav.jsp");
 }
 </script>
 
 <script type="text/javascript">
 jQuery('#googlePlus iframe').ready(function(){
-   jQuery('#googlePlus').css('background-image', 'none');
+    jQuery('#googlePlus').css('background-image', 'none');
 });
+
 </script>
 
+<script type="text/javascript" src="/js/jQuery/jQuery.js"></script>
+<script language="javascript" type="text/javascript">
+var $j = jQuery.noConflict(true);
+$j(function(){
+    $j("#captcha-image-link").click(function(){
+        var img = document.createElement("img");
+        img.src = "/servlet/jcaptcha?no-cache=" + String((new Date()).getTime()).replace(/\D/gi,'');
+        $j("#captcha-image").html("").append(img);
+
+        return false;
+    });
+});
+</script>
 <!-- Begin LivePerson js -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -844,6 +868,12 @@ jQuery('#googlePlus iframe').ready(function(){
 		var url = "http://server.iad.liveperson.net/hc/LPservicemagic/?cmd=file&file=visitorWantsToChat&site=LPservicemagic";
 		var hWnd = window.open(url,"chatLPservicemagic","width=472,height=320,resizable=yes,scrollbars=auto");
 		if (hWnd != null) { if (hWnd.opener == null) { hWnd.opener = self; window.name = "home"; hWnd.location.href=url; } }
+		if (typeof s_sm !== "undefined")
+      {
+         s_sm.liveChatInitiated();
+      }
+
+
 	}	// end function enterLivePerson()
 /* ]]> */
 </script>
@@ -878,19 +908,13 @@ jQuery('#googlePlus iframe').ready(function(){
 
 
 
-
-
-
-
-
-
 <!-- Analytics Tracking Code -->
    <!-- DFA Pixel -->
 	<script type="text/javascript">
 	   var axel = Math.random() + "";
 	   var a = axel * 10000000000000;
 	   document.write('<iframe src="https://fls.doubleclick.net/activityi;src=3196561;type=smpat048;cat=patht281;u3=0;u1=0;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-	</script><iframe src="https://fls.doubleclick.net/activityi;src=3196561;type=smpat048;cat=patht281;u3=0;u1=0;ord=1;num=2282051879512.31?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</script><iframe src="https://fls.doubleclick.net/activityi;src=3196561;type=smpat048;cat=patht281;u3=0;u1=0;ord=1;num=1650104565438.222?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	<noscript>
 	   <iframe src="https://fls.doubleclick.net/activityi;src=3196561;type=smpat048;cat=patht281;u3=0;u1=0;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	</noscript>
@@ -912,18 +936,58 @@ jQuery('#googlePlus iframe').ready(function(){
 		  })();
 	</script>
 	
-		<!-- SiteCatalyst code version: H.24.3.
-		Copyright 1996-2012 Adobe, Inc. All Rights Reserved
-		More info available at http://www.omniture.com -->
-		<script language="JavaScript" type="text/javascript" src="/js/s_code.jsp"></script>
-		<script language="JavaScript" type="text/javascript"><!--
-		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-		<script language="JavaScript" type="text/javascript"><!--
-		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-		//--></script><noscript><img src="http://servicemagic.d2.sc.omtrdc.net/b/ss/servicemagicdev/1/H.24.3--NS/0"
-		height="1" width="1" border="0" alt="" /></noscript>
-		<!-- End SiteCatalyst code version: H.24.3. -->
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- SiteCatalyst code version: H.24.3.
+
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com
+-->
+<script language="JavaScript" type="text/javascript">
+s_env='prod';
+</script>
+<script type="text/javascript" src="/rb/N1229029887/js/bundle/s_code.js"></script>
+
+
+<script language="JavaScript" type="text/javascript">
+
+  s_sm.pageName='\/rfs\/aboutus\/privacyStatement.jsp';
+
+  s_sm.server='pwspr047.servicemagic.com';
+
+  s_sm.eVar11='207.241.237.226';
+
+  s_sm.list1='3767';
+
+  s_sm.prop28='HS SM.com Session Time Out';
+
+  s_sm.prop29='15468358';
+
+  s_sm.eVar39='24';
+
+
+var s_code=s_sm.t();if(s_code)document.write(s_code)
+
+  s_sm.regLog('20120919','','','guest','unknown',true);
+
+</script>
+<!-- End SiteCatalyst code version: H.24.3. -->
+
+
+
+
    
             <script type="text/javascript">
                var google_conversion_id = 994414506;
