@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcprofit.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621104348id_/http%3A//bbcprofit.com/%3Freq%3Ddoc%26display%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcprofit.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920062513id_/http%3A//bbcprofit.com/%3Freq%3Ddoc%26display%3Dprivacy-policy) for the most accurate reproduction.*
 
 # bbcprofit.com
 
