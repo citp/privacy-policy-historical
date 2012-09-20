@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homeguru.com.my privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513134654id_/http%3A//www.homeguru.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeguru.com.my privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920061905id_/http%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-HOMEGURU.COM.MY is committed to protecting your privacy. This Statement of Privacy covers our treatment of personally identifiable information that we collect when you are on the HOMEGURU.COM.MY group of websites, and when you use our services.
+PROPERTYGURU.COM.MY is committed to protecting your privacy. This Statement of Privacy covers our treatment of personally identifiable information that we collect when you are on the PROPERTYGURU.COM.MY group of websites, and when you use our services.
 
-This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. At HOMEGURU.COM.MY, we take your privacy seriously! Please read this Statement of Privacy to be more aware about our policy on collecting, using and disclosing personal information.
+This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. At PROPERTYGURU.COM.MY, we take your privacy seriously! Please read this Statement of Privacy to be more aware about our policy on collecting, using and disclosing personal information.
 
 Scope of Coverage
 
@@ -24,7 +24,7 @@ We may collect, store and use the following kinds of personal data:
 
  _Cookies_
 
-HOMEGURU.COM.MY uses cookies to provide a better user experience for our visitors. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+PROPERTYGURU.COM.MY uses cookies to provide a better user experience for our visitors. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
 We may send a cookie which may be stored on by your browser on your computer's hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website's usability and for marketing purposes. We may also use that information to recognise your computer when you visit our website, and to personalise our website for you. Our advertisers may also send you cookies.
 
@@ -70,7 +70,7 @@ Information that we collect may be temporarily stored and processed in and trans
 
  _Security of Your Personal Data_
 
-HOMEGURU.COM.MY will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
+PROPERTYGURU.COM.MY will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. You are responsible for keeping your password and user details confidential.
 
@@ -78,25 +78,25 @@ We will NEVER ask for your password other than when you log in to the website.
 
  _Updating Personal Information_
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated. All changes could be made via your HOMEGURU.COM.MY dashboard, simply click here to login. Alternatively, you could contact one of our customer service officers at (+603) 2279 7555
+Please let us know if the personal information which we hold about you needs to be corrected or updated. All changes could be made via your PROPERTYGURU.COM.MY dashboard, simply click here to login. Alternatively, you could contact one of our customer service officers at (+603) 2279 7555
 
  _Ad Networks and "Re-Marketing"_
 
-HOMEGURU.COM.MY utilises third party vendors, including Google, to show ads for HOMEGURU.COM.MY on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to [www.homeguru.com.my](http://www.homeguru.com.my/). Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of cookies by [visiting the Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+PROPERTYGURU.COM.MY utilises third party vendors, including Google, to show ads for PROPERTYGURU.COM.MY on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to www.propertyguru.com.my. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of cookies by [visiting the Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 We're not currently using DoubleClick's re-marketing pixels, but it's possible we will in the future in which case you can opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
  _Changes to this Statement_
 
-HOMEGURU.COM.MY will occasionally update this Statement of Privacy to reflect company and user feedback. When we post changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of HOMEGURU.COM.MY. If there are material changes to this Statement or in the manner HOMEGURU.COM.MY will use your personal information, we shall notify you of changes to our privacy policy by email.
+PROPERTYGURU.COM.MY will occasionally update this Statement of Privacy to reflect company and user feedback. When we post changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of PROPERTYGURU.COM.MY. If there are material changes to this Statement or in the manner PROPERTYGURU.COM.MY will use your personal information, we shall notify you of changes to our privacy policy by email.
 
-HOMEGURU.COM.MY encourages you to review this Statement periodically to be informed of how we are protecting your personal information.
+PROPERTYGURU.COM.MY encourages you to review this Statement periodically to be informed of how we are protecting your personal information.
 
  _Contact Information_
 
-HOMEGURU.COM.MY welcomes your comments regarding this Statement of Privacy. If you believe that we have not adhered to this Statement, please contact us by telephone, email or post:
+PROPERTYGURU.COM.MY welcomes your comments regarding this Statement of Privacy. If you believe that we have not adhered to this Statement, please contact us by telephone, email or post:
 
-Attn: HOMEGURU.COM.MY Privacy
+Attn: PROPERTYGURU.COM.MY Privacy
 
  **Mailing Address :**
 
@@ -109,6 +109,6 @@ Malaysia
 
 **Tel:** (+603) 2279 7555
 
- **Email:** enquiries@homeguru.com.my
+ **Email:** enquiries@propertyguru.com.my
 
- _This document was updated on April 19, 2012._
+ _This document was updated on May 15, 2012._
