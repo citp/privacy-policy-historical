@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playbryte.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508085529id_/http%3A//www.playbryte.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbryte.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920073513id_/http%3A//www.playbryte.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ We will not share your Anonymous Information with third parties unless:
   * You have given us your prior consent to disclose such information; 
   * The third party is our parent, subsidiary, or an affiliated company owned by our parent company; 
   * We must disclose some or all of your Anonymous Information to authorized officers of the court in order to comply with valid legal process or to act in other urgent situations (as further discussed below); or
-  * Such information is needed by third-party advertising networks and advertisers who help deliver relevant In-text link ads when you are on a webpage. We only share anonymized or aggregated information with them to improve the relevancy of the in-text ads you see. As mentioned below in section 3, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. 
+  * Such information is needed by third-party advertising networks and advertisers who help deliver relevant In-text link ads and other ads when you are on a webpage. We only share anonymized or aggregated information with them to improve the relevancy of the ads you see. As mentioned below in section 3, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. 
 
 
 
