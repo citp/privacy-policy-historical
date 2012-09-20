@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530025415id_/http%3A//www.findlaw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920062141id_/http%3A//www.findlaw.com/privacy) for the most accurate reproduction.*
 
 # FindLaw | Privacy Policy
 
@@ -118,7 +118,7 @@ The use of cookies is relatively standard. Most browsers are initially set up to
 
 We may use services hosted by third parties, such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer. 
 
-[Back to top](https://web.archive.org/web/20120530025415id_/http://findlaw.com/privacy/index.html#top)
+[Back to top](https://web.archive.org/web/20120920062141id_/http://www.findlaw.com/privacy/index.html#top)
 
 * * *
 
@@ -128,7 +128,7 @@ We have implemented certain appropriate security measures to help protect your p
 
 Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this statement. 
 
-[Back to top](https://web.archive.org/web/20120530025415id_/http://findlaw.com/privacy/index.html#top)
+[Back to top](https://web.archive.org/web/20120920062141id_/http://www.findlaw.com/privacy/index.html#top)
 
 * * *
 
@@ -148,7 +148,7 @@ We will not disclose any information about your usage to unaffiliated third part
 
 Your access to some of our services and content may be password protected. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe. 
 
-[Back to top](https://web.archive.org/web/20120530025415id_/http://findlaw.com/privacy/index.html#top)
+[Back to top](https://web.archive.org/web/20120920062141id_/http://www.findlaw.com/privacy/index.html#top)
 
 * * *
 
@@ -160,7 +160,7 @@ You may cancel your registration or update your preferences at any time. If you 
 
 
 
-[Back to top](https://web.archive.org/web/20120530025415id_/http://findlaw.com/privacy/index.html#top)
+[Back to top](https://web.archive.org/web/20120920062141id_/http://www.findlaw.com/privacy/index.html#top)
 
 * * *
 
@@ -175,7 +175,7 @@ Eagan, MN 55123
 Telephone +1 651 687 8261  
 Facsimile +1 651 687 1899 
 
-[Back to top](https://web.archive.org/web/20120530025415id_/http://findlaw.com/privacy/index.html#top)
+[Back to top](https://web.archive.org/web/20120920062141id_/http://www.findlaw.com/privacy/index.html#top)
 
 * * *
 
@@ -183,4 +183,4 @@ Facsimile +1 651 687 1899
 
 If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on March 9, 2012.
 
-[Back to top](https://web.archive.org/web/20120530025415id_/http://findlaw.com/privacy/index.html#top)
+[Back to top](https://web.archive.org/web/20120920062141id_/http://www.findlaw.com/privacy/index.html#top)
