@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesweb.org privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020005817id_/http%3A//www.articlesweb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesweb.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920051506id_/http%3A//www.articlesweb.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Articles Web
 
