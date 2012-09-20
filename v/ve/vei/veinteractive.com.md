@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625094519id_/http%3A//veinteractive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920031939id_/http%3A//veinteractive.com/privacy.php) for the most accurate reproduction.*
 
 # Ve Interactive - Privacy
 
@@ -51,7 +51,7 @@ We want to keep you up to date with information about our products and services 
 
 **Your rights under the Data Protection Act 1998**
 
-You have a right to access the personal data that we hold on you. If you would like to see a copy please send a written request to the Data Protection Officer via email, telephone, or mail, all of which are provided in the '[Contact Us](https://web.archive.org/web/20120625094519id_/http%3A//veinteractive.com/howtofind.php)' section of this Privacy Notice. If you think the information we hold on you is incorrect please contact our Data Protection Officer.
+You have a right to access the personal data that we hold on you. If you would like to see a copy please send a written request to the Data Protection Officer via email, telephone, or mail, all of which are provided in the '[Contact Us](https://web.archive.org/web/20120920031939id_/http%3A//veinteractive.com/howtofind.php)' section of this Privacy Notice. If you think the information we hold on you is incorrect please contact our Data Protection Officer.
 
 **Changes to the Privacy Notice**
 
@@ -69,4 +69,4 @@ EC1R 3DG
 Tel: +44 (0)203 137 5730  
 Fax: +44 (0)203 137 5740   
 Email: [privacy@veinteractive.com](mailto:privacy@veinteractive.com)   
-Website: [www.veinteractive.com](https://web.archive.org/web/20120625094519id_/http%3A//veinteractive.com/index.php)
+Website: [www.veinteractive.com](https://web.archive.org/web/20120920031939id_/http%3A//veinteractive.com/index.php)
