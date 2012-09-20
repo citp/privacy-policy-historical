@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenzyarticle.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502190302id_/http%3A//www.frenzyarticle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenzyarticle.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920073525id_/http%3A//www.frenzyarticle.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
