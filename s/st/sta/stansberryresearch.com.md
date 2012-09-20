@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415141659id_/http%3A//www.stansberryresearch.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920092112id_/http%3A//www.stansberryresearch.com/privacy.asp) for the most accurate reproduction.*
 
 # News and Events - Stansberry Investment Research
 
@@ -16,8 +16,9 @@
   | [Retirement Millionaire](https://web.archive.org/pub/rem/index.asp)  
   | [Retirement Trader](https://web.archive.org/pub/rtr/index.asp)  
   | [Small Stock Specialist](https://web.archive.org/pub/pst/index.asp)  
-  | [Junior Resource Trader](https://web.archive.org/pub/jrt/index.asp)  
+  | [S&A Junior Resource Trader](https://web.archive.org/pub/jrt/index.asp)  
   | [True Wealth Systems](https://web.archive.org/pub/tws/index.asp)  
+  | [DailyWealth Trader](https://web.archive.org/pub/dwt/index.asp)  
 | [The S&A Digest](https://web.archive.org/pub/digest/index.asp)  
   | [DailyWealth](http://www.dailywealth.com/)  
   | [Growth Stock Wire](http://www.growthstockwire.com/)  
