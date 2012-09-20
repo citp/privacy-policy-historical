@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616075010id_/http%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920081634id_/http%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for socialreviver.net ~ SocialReviver: The way YOU want Facebook to be!
 
@@ -20,7 +20,9 @@ Like many other Web sites, socialreviver.net makes use of log files. The informa
 
 ### Cookies and Web Beacons
 
-socialreviver.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+socialreviver.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. To do so, socialreviver.net uses cookies from Piwik (hosted by us) and Google Analytics (hosted by Google).
+
+Please [click here](http://www.socialreviver.net/cookie-info) to learn more about cookies in general and how to disable them.
 
 ### DoubleClick DART Cookie
 
