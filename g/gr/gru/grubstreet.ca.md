@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326001625id_/http%3A//www.grubstreet.ca/articles/adminstuff/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042651id_/http%3A//www.grubstreet.ca/articles/index/1101/grub-street-admin-privacy) for the most accurate reproduction.*
 
-# Grub Street: Admin Stuff
+# Grub Street | Grub Street Admin
 
 GrubStreet.ca and the web sites it owns value your privacy.
 
-Visitors aren't required to register to use any site owned or operated by GrubStreet.ca nor is personal information about users stored. The term "personal information" means data, such as user name, IP address, browser type and so forth. The sole exception is general information used to determine number and legitimacy of visitors, primarily, but not exclusively, for advertising-related purposes, such as enumerations. 
+Visitors aren't required to register to use any site owned or operated by GrubStreet.ca nor is personal information about users stored. The term "personal information" means data, such as user name, IP address, browser type and so forth. The sole exception is general information used to determine number and legitimacy of visitors, primarily, but not exclusively, for advertising-related purposes, such as enumerations.
 
 GrubStreet.ca and the web sites it owns or operates don't post content that openly advocates violence, is pornographic or promotes, in an unbalanced way, pharmaceuticals, illegal actions or ethnocentricity, including anti-gay materials. GrubStreet.ca does post reasonably balanced, factual and thoughtful comment or opinion on any topic; we may post fiction, with a sensuous undertone, serious analyses of illegal actions, such as an argument for the legalization of prostitution or a day in the life of a drug dealer.
 
@@ -12,7 +12,7 @@ Adjectives make the difference. Balance, factual, thoughtful, sensuous, serious 
 
 StatCounter.com, which tracks visitors to GrubStreet.ca for advertising-related purposes, is a reputable, third-party source of statistics about site visitors.
 
-StatCounter.com may place a cookie on your site. This cookie allows us to know if you're a new visitor to GrubStreet.ca or a returnee. The sole effect of the cookie is to record visitor status -- new or returning \-- each time somebody enters the site. 
+StatCounter.com may place a cookie on your site. This cookie allows us to know if you're a new visitor to GrubStreet.ca or a returnee. The sole effect of the cookie is to record visitor status -- new or returning -- each time somebody enters the site.
 
 You may configure your browser to block this cookie. If you do configure your browse to block this cookie, you'll be recorded as a new visitor each time you enter the site. This doesn't pose a problem for GrubStreet.ca, its advertisers, affiliates or partners.
 
@@ -26,4 +26,5 @@ GrubStreet.ca doesn't sell any information about its visitors or writers, under 
 
 GrubStreet.ca retains and reserves the right to modify this privacy page from time to time, without notice and at its sole discretion. Any and all modifications take effect when posted, unless otherwise expressly stated.
 
-Revised 16 August 2009. 
+  
+
