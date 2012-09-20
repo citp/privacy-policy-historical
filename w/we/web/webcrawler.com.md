@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620151113id_/http%3A//www.webcrawler.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920060209id_/http%3A//www.webcrawler.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
