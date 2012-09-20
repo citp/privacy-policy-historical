@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebollywoodgallery.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509232251id_/http%3A//thebollywoodgallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebollywoodgallery.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042158id_/http%3A//thebollywoodgallery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Bollywood | Tamil | Telugu | Malayalam | Kannada | English | News | Photos
 
