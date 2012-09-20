@@ -1,100 +1,118 @@
-> *The following text is extracted and transformed from the rummycircle.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rummycircle.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920051300id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | RummyCircle.com
 
-**Go Daddy Respects Your Privacy**
+This privacy policy forms part of our Website's [Terms of Service](https://web.archive.org/tos/terms-of-service.html "Terms of Service"), by accepting the Terms of Service and the Privacy Policy on the registration page, you consent to provide sensitive personal data or personal information and are aware of the purpose of sharing such information. Please do not register if you do not wish to share the mandatory personal information with Play Games24x7 Private Limited (hereinafter referred as "RummyCircle") requested at the time of registration. Registration procedure cannot be completed until information in the non-optional fields is provided. Certain additional personal information may be requested by RummyCircle for permitting you access to any Cash Games organized by RummyCircle.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Contents:
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  1. Policy objective
+  2. What is included in personal data?
+  3. User Consents
+  4. Data Security
+  5. Exclusions
+  6. Limitation of Liability
+  7. Grievance Officer
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+1\. Policy objective
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+RummyCircle respects your privacy and assures you that any information provided by you to RummyCircle is protected and will be dealt with according to this Policy and the applicable laws. To avail the services offered on www.RummyCircle.com (hereinafter referred as the "Website"), you may have to provide certain information to us. This Policy provides the procedure followed by RummyCircle to gather, uses, store, discloses and manages users' personal data. RummyCircle only collects personal data for the purpose of verifying user accounts, maintaining the accounts of the users, completing transactions of the users and for analyzing user behavior and requirements.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Top ↑
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+2\. What is included in personal data?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**User's personal data includes the following types of personal data or information:**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  1. **Sensitive Personal Data:**
+    1. Username and account password
+    2. Financial information such as Bank account or credit card or debit card or other payment instrument details
+  2. **Other Personal Information:**
+    1. Name
+    2. Date of birth
+    3. Telephone number
+    4. Postal/Contact address
+    5. PAN number (as applicable)
+    6. The IP address of your computer, browser type and language.
+    7. The date and the time during which you accessed the site.
+    8. The address of the website which you may have used to link to the Website
+    9. Your photograph for testimonials and other promotions.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Top ↑
 
-**Updating Your Information**
+3\. User Consents:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  1. **Consent for use of Sensitive Personal Data and Other Personal Information:**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+All users of RummyCircle consent to the use of Sensitive Personal Data and Other Personal Information for the purpose stated in this policy. We restrict access of personal information to our employees, contractors and agents and only allow access to those who need to know that information in order to process it on our behalf. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Users are entitled to withdraw consent for use of their **Sensitive Personal Data or Other Personal Information** by emailing a specific request to [support@RummyCircle.com](mailto:support@rummycircle.com). Withdrawal of consent of all or any part of Sensitive Personal Data and Other Personal Information may result in immediate withdrawal of any right to avail the services provided by RummyCircle. Withdrawal of consent shall not restrict the right of RummyCircle to use Other Personal Information for analysis of user data, subject to the condition that the Other Personal Information used in any analysis is not personally identifiable to any individual user. 
 
-      iii.      You may call us at: (480) 505-8800
+Photographs once provided by you for marketing purposes gives RummyCircle irrevocable rights to use it and it is completely RummyCircle's discretion to delete or not use it any further.
 
-       iv.      You may fax us at: (480) 505-8844
+RummyCircle may also use software applications for website traffic analysis and to gather statistics, used for advertising and for determining the efficacy and popularity of RummyCircle among others.
 
-**Sending Emails**
+  2. **Consent to use of Cookies:**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+What is a Cookie: A cookie is a small text file that uniquely identifies your browser.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+You understand that when you visit the Website, cookies may be left in your computer. The cookies assigned by the servers of RummyCircle may be used to personalize your experience on the Website. Additionally, cookies may also be used for authentication, game management, data analysis and security purposes.
 
-**Compliance with Laws and Law Enforcement**
+Cookies may also be assigned by the advertisers of RummyCircle when you click on any of the advertisements which may be displayed on the Website in which case such cookies are controlled by these advertisers and not RummyCircle.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  3. **Consent to email communication:**
 
-**Third Party Service Providers**
+When you register your email address with RummyCircle, you agree to receive email communication from RummyCircle, entities specifically authorized by RummyCircle and other users. You also agree and acknowledge that when you use our referral program for referring someone, RummyCircle will send emails to such person referred by you on your behalf and the email headers will carry your email address as the address from which such emails are sent.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Top ↑
 
-**Contests/Surveys**
+4\. Data Security:
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. RummyCircle has a comprehensive information security program and information security policies which contain managerial, technical, operational and physical security control measures adopted by RummyCircle for the protection of Sensitive Personal Date and Other Personal Information.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Information gathered by RummyCircle is stored securely using several information security applications including firewalls. However, security is always relative and RummyCircle cannot guarantee that its security measures are absolute and cannot be breached. Data which is transmitted over the Internet is inherently exposed to security risks or threats. For instance, information transmitted via chat or email can be compromised and used by others. Therefore, RummyCircle cannot guarantee any security for such information in the course of transmission through the internet infrastructure or any unsolicited disclosures made by any user availing the services of the Website.
 
-**Tell-A-Friend**
+When you register with RummyCircle, your account is protected by means of login information which includes a username and a password that is known only to you. Therefore, you should not provide your personal information to anyone whosoever and breach hereof constitutes violation of this Policy and can also result in closure of account in certain cases. If you become aware of or reasonably suspect any breach of security, including compromise of your login information, it is your responsibility to immediately notify RummyCircle.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+The Website may contain links to other websites. Such websites are governed by their own privacy policies and RummyCircle does not exercise any control over them. It is your responsibility to read and understand the privacy policy of such websites when you follow a link outside the Website. You are advised to exercise caution in sharing any personal information with any third party that advertises on the Website and RummyCircle shall not be responsible for such information provided by you on third party websites.
 
-**What Happens to my Personal Information if I Opt Out?**
+RummyCircle has a policy of not sharing any personally identifiable information with anyone other than entities specifically authorized by RummyCircle which may include advertisers and sponsors of RummyCircle. However, RummyCircle may use your name, photo, Login ID and the state from where you are participating when announcing the results of any contests run on the Website. Such contests are further governed by terms and conditions which shall be available on the website as and when such a contest is run on the website. RummyCircle conducts periodic analysis and survey of the traffic to RummyCircle.com for market research and advertising purposes. RummyCircle reserves the right to share your registration information with RummyCircle appointed market research and advertising companies or firms from time to time for the said purposes. RummyCircle may also use cumulative non-personal information for auditing and analysis purposes with the aim of improving its services.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Top ↑
 
-**Transfer of Data Abroad**
+5\. Exclusions:
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**RummyCircle may share Sensitive Personal Data and Other Personal Information if sharing of such information is necessary:**
 
-**Changes in Our Practices**
+  1. to comply with legal processes or governmental request;
+  2. to enforce the Terms of Service and this Privacy Policy;
+  3. for prevention of fraud;
+  4. for issues involving information security, or
+  5. to protect:  
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+    1. your rights;
+    2. rights of RummyCircle; and
+    3. rights of the general public.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Top ↑
 
-* * *
+6\. Limitation of Liability:
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+RummyCircle confirms that this Privacy Policy is only a description of its operation regarding user information. This Policy is not intended to and does not create any legal rights in your favour or in the favour of any other person. RummyCircle reserves the right to change this Policy at any time without giving you prior notice. The liability of RummyCircle shall be limited to removal of Sensitive Personal Data from the system of the Website and removal of personally identifiable elements of the Other Personal Information. Notwithstanding anything to the contrary contained in this Policy and elsewhere, the aggregate liability of RummyCircle for all claims for damages pursuant to provisions of services on the Website, including claims in respect to the violation of this Policy, shall be limited to the aggregate maximum amount of liability as provided in the Terms of Service.
+
+Top ↑
+
+7\. Grievance Officer:
+
+RummyCircle currently appoints Mr. Venkat Veluvolu as the Grievance Officer. All complaints relating to personal data must be sent to the Grievance Officer at [support@RummyCircle.com](mailto:support@rummycircle.com).
+
+Top ↑
