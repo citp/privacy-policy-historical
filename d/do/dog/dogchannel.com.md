@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dogchannel.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524035815id_/http%3A//www.dogchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogchannel.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920134714id_/http%3A//www.dogchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Dog Channel - Animal Network Privacy Policy
+
+[](http://pinterest.com/pin/create/button?url=http%3a%2f%2fwww.dogchannel.com%2fcorporate%2fprivacy.aspx&media=http%3a%2f%2fwww.dogchannel.com%2fimages%2flogo_DC-pinterest.jpg&description=Animal+Network+privacy+policy.)
+
+[](https://web.archive.org/media/corporate/privacy.aspx.pdf)
 
 Animal Network Privacy Policy
 
@@ -8,7 +12,7 @@ Animal Network Privacy Policy
 
 BowTie, Inc., formerly Fancy Publications, Inc., is committed to bringing you information that is tailored to your individual needs and, at the same time, to protecting your privacy.  The following is a summary of the various ways we gather and disseminate the information you provide when purchasing our products and services and when using our websites.  We use the information we collect to provide you with the products you have purchased or the services you have registered for and also to enhance your overall Internet experience.  This policy also provides information on how you can opt out of certain disclosures of information we may collect. 
 
-This policy describes how BowTie, Inc., and its corporate affiliates Kennel Club Books, LLC, Global Distribution Services, LLC and Thoroughbred Times Company Inc. (collectively, “BowTie”), collect, use and disclose information online and offline from subscribers and from users of the [www.bowtieinc.com](http://www.bowtieinc.com/) website, and other BowTie-operated websites, such as the Animal Network website at [www.animalnetwork.com](http://www.animalnetwork.com/), and the websites that correspond to various BowTie publications.  Links to the various BowTie publications appear on the Animal Network website.  The BowTie-operated websites are referred to collectively as the “BowTie Websites.”
+This policy describes how BowTie, Inc., and its corporate affiliates Kennel Club Books, LLC, Global Distribution Services, LLC and Thoroughbred Times Company Inc. (collectively, “BowTie”), collect, use and disclose information online and offline from subscribers and from users of the [www.bowtieinc.com/](http://www.bowtieinc.com/ "BowTie Incorporated") website, and other BowTie-operated websites, such as the Animal Network website at [www.animalnetwork.com/](http://www.animalnetwork.com/ "Animal Network"), and the websites that correspond to various BowTie publications.  Links to the various BowTie publications appear on the Animal Network website.  The BowTie-operated websites are referred to collectively as the “BowTie Websites.”
 
 **SCOPE  
 ** This privacy policy covers only BowTie’s online and offline collection and treatment of information.  BowTie does not control the privacy policies of advertisers or non-affiliated websites that may be linked to the BowTie Websites.  We are not responsible for the privacy practices or the content of non-BowTie Websites.  If you click on any ads or non-affiliated links, we encourage you to read the privacy statements of these other websites and entities, which may be different from our privacy policy. ****
@@ -39,15 +43,15 @@ We may also share or disclose personally identifiable information about you to t
 Although personally identifiable information is protected as outlined above, we reserve the right to use and share aggregated anonymous data about our subscribers and users.
 
 **YOUR OPTIONS FOR CONTROLLING PERSONALLY IDENTIFIABLE INFORMATION  
-** If you do not want us to share your personally identifiable information for marketing purposes, you may inform us of your choice to opt out by e-mailing [privacy@bowtieinc.com](mailto:privacy@bowtieinc.com) to let us know. In your email, you must provide us with sufficient information to identify you **(name, address, email address that was provided to us, or as it appears on your subscriber label or promotion, and the magazine name)** so that we can ensure we can identify you and complete your request. Opting out of personal information sharing for marketing purposes may not prohibit sharing for non-marketing purposes, such as for completing requested transactions.
+** If you do not want us to share your personally identifiable information for marketing purposes, you may inform us of your choice to opt out by e-mailing [privacy@bowtieinc.com](https://web.archive.org/redirect.aspx?location=mailto:privacy@bowtieinc.com "Privacy") to let us know. In your email, you must provide us with sufficient information to identify you **(name, address, email address that was provided to us, or as it appears on your subscriber label or promotion, and the magazine name)** so that we can ensure we can identify you and complete your request. Opting out of personal information sharing for marketing purposes may not prohibit sharing for non-marketing purposes, such as for completing requested transactions.
 
 **CALIFORNIA RESIDENTS  
-** California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosures of personal information that has been collected online or offline to third parties for direct marketing purposes.  If you would like to request an information disclosure, e-mail [californiaprivacy@bowtieinc.com](mailto:californiaprivacy@bowtieinc.com) **.**
+** California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosures of personal information that has been collected online or offline to third parties for direct marketing purposes.  If you would like to request an information disclosure, e-mail [californiaprivacy@bowtieinc.com](https://web.archive.org/redirect.aspx?location=mailto:californiaprivacy@bowtieinc.com "California Privacy") **.**
 
 **WHAT ELSE YOU SHOULD KNOW ABOUT PRIVACY**
 
 ******Reviewing and Correcting Information  
-** You can currently edit your discussion forum profile, including your identifier and contact information at any time, by clicking on “Your Profile” on any of the BowTie Websites.  If you forget your forum password, you can e-mail us at [forums@bowtieinc.com.](mailto:forums@bowtieinc.com.)  After verifying your identity, we will e-mail you your password.
+** You can currently edit your discussion forum profile, including your identifier and contact information at any time, by clicking on “Your Profile” on any of the BowTie Websites.  If you forget your forum password, you can e-mail us at [forums@bowtieinc.com.](https://web.archive.org/redirect.aspx?location=mailto:forums@bowtieinc.com. "Forums")  After verifying your identity, we will e-mail you your password.
 
 You can also edit and update your subscription account information at any time by visiting our online Subscription Services section on any of the BowTie Websites.
 
@@ -58,13 +62,36 @@ You can also edit and update your subscription account information at any time b
 ** Personally identifiable information that you disclose in a public area of the BowTie Websites, such as our discussion forums, may be collected and used by others who may then send you messages or other communications that you do not want to receive.  BowTie does not control the actions of the users of our discussion forums.  Accordingly, you should exercise discretion in the type of information you decide to post in our discussion forums.  If you do decide to disclose personally identifiable information in a forum, you do so at your own risk.
 
 **PRIVACY CONCERNS AND CHILDREN  
-** The BowTie Websites, including all public discussion forums, are intended for those who are at least 13 years old.  We do not knowingly accept personally identifiable information from anyone under 13.  Children under 13 are not permitted to use our public discussion forums or otherwise provide us with any personally identifiable information, as detailed in our [Terms of Use](https://web.archive.org/animalnetwork/corporate/terms.aspx). Likewise, those under the age of 18 are prohibited from making purchases, including subscriptions, on the BowTie Websites. Children under 18 should only use the BowTie Websites under the supervision of their parents or guardians.  Parents:  if your children disclose information about themselves in our public discussion forums, they may get unsolicited messages from other parties.  Accordingly, you should discourage them from disclosing personally identifiable information in such discussion forums.
+** The BowTie Websites, including all public discussion forums, are intended for those who are at least 13 years old.  We do not knowingly accept personally identifiable information from anyone under 13.  Children under 13 are not permitted to use our public discussion forums or otherwise provide us with any personally identifiable information, as detailed in our [Terms of Use](https://web.archive.org/corporate/terms.aspx "Dog Channel - Animal Network Terms of Use"). Likewise, those under the age of 18 are prohibited from making purchases, including subscriptions, on the BowTie Websites. Children under 18 should only use the BowTie Websites under the supervision of their parents or guardians.  Parents:  if your children disclose information about themselves in our public discussion forums, they may get unsolicited messages from other parties.  Accordingly, you should discourage them from disclosing personally identifiable information in such discussion forums.
 
 **CHANGES TO OUR PRIVACY POLICY  
 ** We may make revisions to our privacy policy from time to time.  If you are concerned how information is collected and used by BowTie, we encourage you to review our website periodically to read the latest version. 
 
 **CONTACT INFORMATION  
-** Questions and suggestions regarding our privacy policy should be sent by e-mail to [privacy@bowtieinc.com](mailto:privacy@bowtieinc.com).  You can also reach us by mail at P.O. Box 6040, Mission Viejo, 92690. Please address your correspondence to Privacy Policy.
+** Questions and suggestions regarding our privacy policy should be sent by e-mail to [privacy@bowtieinc.com](https://web.archive.org/redirect.aspx?location=mailto:privacy@bowtieinc.com "Privacy").  You can also reach us by mail at P.O. Box 6040, Mission Viejo, 92690. Please address your correspondence to Privacy Policy.
+
+[](http://pinterest.com/pin/create/button?url=http%3a%2f%2fwww.dogchannel.com%2fcorporate%2fprivacy.aspx&media=http%3a%2f%2fwww.dogchannel.com%2fimages%2flogo_DC-pinterest.jpg&description=Animal+Network+privacy+policy.)
+
+[](https://web.archive.org/media/corporate/privacy.aspx.pdf)
 
   
 
+
+Give us your opinion on Dog Channel - Animal Network Privacy Policy
+
+[Login](http://www.dogchannel.com/Login.aspx?Target=%2fcorporate%2fprivacy.aspx "Login") to get points for commenting or write your comment below 
+
+First Name :  |  | Email :  |   
+---|---|---|---  
+City :  |  | State :  |   
+  
+Enter the words above: *   
+Get New Captcha 
+
+  
+
+
+[ ](http://www.kqzyfj.com/click-2226838-11023398)
+
+|   
+---|---
