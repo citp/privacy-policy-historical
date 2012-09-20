@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604134334id_/http%3A//www.msfn.org/board/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26folder%3D%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920023350id_/http%3A//www.msfn.org/board/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26folder%3D%26id%3D6) for the most accurate reproduction.*
 
 # privacy policy for msfn.org
 
