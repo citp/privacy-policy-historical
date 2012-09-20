@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialclerks.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512010204id_/http%3A//www.socialclerks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialclerks.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055607id_/http%3A//www.socialclerks.com/privacy_policy) for the most accurate reproduction.*
 
 # Get Free Twitter Followers, Facebook Likes, Retweets, Digg Followers, YouTube Views and Website Hits! - SocialClerks
 
