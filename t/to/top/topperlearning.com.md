@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513035610id_/http%3A//www.topperlearning.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920074551id_/http%3A//www.topperlearning.com/home/privacy_policy) for the most accurate reproduction.*
 
 # Online Coaching Courses | Online Tuition Classes | Effective Education Methods | CBSE Question Papers | Topper Sample Papers Maths | NCERT Chemistry | Physics | Biology | Tutorials for Class 9 to 12 | Topperlearning.com
 
