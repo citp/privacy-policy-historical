@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendvirtualgift.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514042503id_/http%3A//www.iminent.com/Corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendvirtualgift.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920020147id_/http%3A//www.iminent.com/Corporate/Privacy) for the most accurate reproduction.*
 
 # Iminent -Free download: Smileys, Emoticons & Games for Facebook, Messengers & Emails!
 
