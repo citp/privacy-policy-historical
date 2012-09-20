@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the change-diapers.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126041458id_/http%3A//change-diapers.com/wp-content/uploads/2011/03/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the change-diapers.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043020id_/http%3A//change-diapers.com/wp-content/uploads/2011/03/Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # This Privacy Policy governs the manner in which Change-Diapers.com collects, uses, maintains and discloses information collected from users (each, a "User") of the http://change-diapers.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Change-Diapers.com.
 
