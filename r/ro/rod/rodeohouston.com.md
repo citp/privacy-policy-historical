@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rodeohouston.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622214416id_/http%3A//www.rodeohouston.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodeohouston.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920040641id_/http%3A//www.rodeohouston.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Houston Livestock Show and Rodeo
 
-[Home](https://web.archive.org/web/20120622214416id_/http%3A//www.rodeohouston.com/index.aspx)  /   [About Us](https://web.archive.org/web/20120622214416id_/http%3A//www.rodeohouston.com/about/index.aspx)  /  Privacy Policy 
+[Home](https://web.archive.org/web/20120920040641id_/http%3A//www.rodeohouston.com/index.aspx)  /   [About Us](https://web.archive.org/web/20120920040641id_/http%3A//www.rodeohouston.com/about/index.aspx)  /  Privacy Policy 
 
 This Privacy Policy discloses the general privacy practices for the Houston Livestock Show and Rodeo™; Customer, Donor, Exhibitor/Contestant and Member Lists; and Web Sites (collectively, the "Show"), including www.R _ODEO_ H _OUSTON_.com and www.hlsr.com. The Houston Livestock Show and Rodeo is committed to respecting your privacy rights when visiting any Show site page, such as this one. To protect your Personal Information, the Show has created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy.
 
