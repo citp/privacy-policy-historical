@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013538id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920104040id_/https%3A//worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
@@ -26,20 +26,16 @@ Contact Us
 
 Download latest version from [here](https://web.archive.org/web/20110429004847/http://www.adobe.com/go/getflashplayer)
 
-## Flash version 3,0 or greater is required
-
-### You have no flash plugin installed
-
-Download latest version from [here](https://web.archive.org/web/20110429004847/http://www.adobe.com/go/getflashplayer)
+[ ](https://www.worldmarktravelsecure.com/)
 
 Privacy Policy
 
 **Wyndham Vacation Ownership, Inc. ("WVO")** recognizes the importance of protecting the privacy of certain Information collected about the users and visitors ( **"user," "you" or "your"** ) of WVO’s Web site ( **"Web Site"** ). The following privacy and information practices policy discloses and describes what Information WVO may gather about you, how WVO may use such Information, and how you can correct or change such Information ( **"Privacy Policy"** ). This Privacy Policy is designed to give you an understanding about how WVO collects your Information and the uses WVO may make of such Information during the course of WVO’s business and in providing you with access to the information, products and services that may be available at this Web Site.
 
-You should print a copy of this Privacy Policy for your records. Please note, however, that WVO may update and amend this Privacy Policy from time to time as WVO deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in WVO’s separate [Web Site Terms of Use](https://web.archive.org/legal/terms.shtml).
+You should print a copy of this Privacy Policy for your records. Please note, however, that WVO may update and amend this Privacy Policy from time to time as WVO deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in WVO’s separate [Web Site Terms of Use](/legal/terms.shtml).
 
 [Canadian Privacy Policy  
-](https://web.archive.org/legal/canadian_policy.shtml)Information on Your California Privacy Rights  
+](/legal/canadian_policy.shtml)Information on Your California Privacy Rights  
 Connecticut Residents
 
 **NOTICE TO WVO TIMESHARE OWNERS/FINANCING CUSTOMERS:** You may receive a separate notice regarding "Your Financial Privacy" by mail. If this Web site provides you the ability to access your account online, and you agree to receive annual notices online, WVO will provide you with annual notices through this Web site. Further, if WVO provides you with updated notices online, WVO will require you to acknowledge receipt of the updated notice through this Web site.
