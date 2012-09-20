@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the slj.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509012844id_/http%3A//www.slj.com/csp/cms/sites/SLJ/Info/privacypolicy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slj.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920054543id_/http%3A//www.slj.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | School Library Journal
 
-  
-MAY 31, 2010  
-
+Updated May 31, 2010
 
 ## Overview
 
-Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. 
+Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
 
 This Privacy Policy describes the policies of Library Journals LLC (“LJLLC” or “we”), a wholly owned subsidiary of Media Source Inc., regarding the collection, use, disclosure and protection of the following types of information:
 
 • Information obtained when you (“you” or “User”) visit the www.schoollibraryjournal.com web site (this “Site” or “SLJ”).  
 • Information obtained through e-mail communications with you related to the Site.  
-This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.
-
-  
-We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes. 
+This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.  
+We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
 
 * * *
 
-##  Information We Collect and How We Collect It
+## Information We Collect and How We Collect It
 
-We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards). 
+We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards).
 
 The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
 
-When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
 Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: **http://www.networkadvertising.org/optout_nonppii.asp.**
 
@@ -47,7 +43,7 @@ We use Personally Identifiable Information collected on this Site for the follow
 
 We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.
 
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of LJLLC and our affiliates. These communications may include e-mail newsletters, as well as offers for other SLJ, LJLLC and Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. 
+We may use the information you provide us to send you e-mail, fax and other communications on behalf of LJLLC and our affiliates. These communications may include e-mail newsletters, as well as offers for other SLJ, LJLLC and Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
 We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to websupport@mediasourceinc.com with the subject line “opt out – third party.”
 
@@ -76,7 +72,7 @@ We use reasonable safeguards to protect Personally Identifiable Information we c
 
 ## Right to Access and Change Information
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to websupport@mediasourceinc.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to websupport@mediasourceinc.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
 
 * * *
 
@@ -93,8 +89,3 @@ Library Journals LLC
 160 Varick St, 11th Fl.
 
 New York, NY 10013
-
-* * *
-
-  
-| 
