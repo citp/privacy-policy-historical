@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatemonster.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615172316id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatemonster.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920080946id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,6 +65,6 @@ TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has cre
 
   
   
-Copyright © 2003-2012 Jetimpex, Inc. All Rights Reserved. Payments are performed by Colerno Trade Ltd.   
+Copyright © 2003-2012 Jetimpex, Inc and Jetimpex, LP. All Rights Reserved. Payments are performed by Jetimpex, LP.   
 [Privacy Policy](https://web.archive.org/privacy-policy.php) | [Report spam](https://web.archive.org/report-spam.php)  
 Template Monster - Website Templates  |  Flash Templates  |  Web Templates Design 
