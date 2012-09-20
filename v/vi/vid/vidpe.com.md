@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidpe.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622084857id_/http%3A//vidpe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidpe.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920065143id_/http%3A//vidpe.com/privacy.html) for the most accurate reproduction.*
 
-# Vidpe - Dedicated Hosting Service | Video Sharing Website
+# Video Sharing Website - Dedicated Hosting Service | Video Sharing Website
 
 ### Privacy Policy
 
