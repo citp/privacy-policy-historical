@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdoctorsonline.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505054211id_/http%3A//www.topdoctorsonline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdoctorsonline.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920030009id_/http%3A//www.topdoctorsonline.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TopDoctorsOnline.com
 
