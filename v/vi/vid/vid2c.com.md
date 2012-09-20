@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vid2c.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519023541id_/http%3A//www.vid2c.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vid2c.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920172559id_/http%3A//www.vid2c.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vid2C.com
 
