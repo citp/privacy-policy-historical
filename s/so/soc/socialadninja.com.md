@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialadninja.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603071119id_/http%3A//socialadninja.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialadninja.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022721id_/http%3A//socialadninja.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SocialAdNinja
 
