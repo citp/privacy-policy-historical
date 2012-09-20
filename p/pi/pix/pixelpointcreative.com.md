@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelpointcreative.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626072425id_/http%3A//pixelpointcreative.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelpointcreative.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920054334id_/http%3A//pixelpointcreative.com/privacy.html) for the most accurate reproduction.*
 
 # Pixel Point Creative - Privacy Policy
 
@@ -42,7 +42,7 @@ This online privacy policy applies only to information collected through our web
 
 ## **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [HERE.](http://www.pixelpointcreative.com/terms.html) ****
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [HERE.](http://pixelpointcreative.com/terms.html) ****
 
 ## **Your Consent**
 
