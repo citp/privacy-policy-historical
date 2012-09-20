@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilslive.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105073245id_/https%3A//www.ilslive.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilslive.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920052343id_/https%3A//www.ilslive.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -59,7 +59,7 @@ If you send a friend an email from this site or if you send the url or one of ou
 
 **INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS**
 
-Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate will not be used for general solicitation for commercial purposes by third party companies and that such information will not be shared with joint venture partners, affiliates, marketing organizations for product design or solicitation purposes.
+Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes by third party companies and that such information may be shared with joint venture partners, affiliates, marketing organizations for product design or solicitation purposes.
 
 You will receive periodic emails from our company that may or may not include current offers and/or promotions from our company. We also reserve the right to contact you via pre-recorded phone calls.
 
