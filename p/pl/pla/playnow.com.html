@@ -1,10 +1,14 @@
-<!--The following is the downloaded HTML source of the playnow.com privacy policy that was archived on 2012-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506093402id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playnow.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920024149id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <script type="text/javascript">
 //<![CDATA[
 if(top != self){top.location = location};
+//]]>
+</script>
+<script src="/resources/js/jquery/jquery.js" type="text/javascript">
+//<![CDATA[
 //]]>
 </script>
 <title>Privacy | PlayNow.com</title>
@@ -20,7 +24,7 @@ if(top != self){top.location = location};
 
 //]]>
 </script>
-<script src="/static/portal_ext/js/header.js" type="text/javascript">
+<script type="text/javascript" src="/static/portal_ext/js/header.js">
 //<![CDATA[
 //]]>
 </script>
@@ -63,7 +67,7 @@ if(top != self){top.location = location};
 <div id="moneySpent"><span class="dashHeading">Cash Spent:&nbsp;</span>  <span class="dashInfo" id="dash_sess_stakes"></span></div>
 </div>
 <div id="dashButtons">
-<div class="buttonRound smBtn thinText redBtn"><a href="https://www.playnow.com/playnow?action=GoMyAcctHome">MY ACCOUNT</a></div>
+<div class="buttonRound smBtn thinText redBtn"><a href="/playnow?action=GoMyAcctHome">MY ACCOUNT</a></div>
 <div class="buttonRound smBtn thinText redBtn"><a href="/playnow?action=DoLogout">LOGOUT</a></div>
 </div>
 </div>
@@ -90,31 +94,32 @@ if(top != self){top.location = location};
 
     function goLogin() {
         if (!location.href.match(/action=DoLogout/gi)) {
-            location.href = "https://www.playnow.com/playnow?action=GoLogin&return_url=" + escape(location.href);
+            location.href = "/playnow?action=GoLogin&return_url=" + escape(location.href);
         } else {
-            location.href = "https://www.playnow.com/playnow?action=GoLogin";
+            location.href = "/playnow?action=GoLogin";
         }
     }
 
 //]]>
 </script>
 <div id="mainHeader">
+<div id="headerContainer">
 <div id="headerContent">
 <div id="headerLogo"><a href="/"></a></div>
 <div id="headerRegister" style="display: block;">
-<div class="buttonRound smBtn thinText redBtn"><a href="https://www.playnow.com/playnow?action=GoRegister&amp;WT.ac=globalheader|registerbutton">REGISTER</a></div>
-<div class="buttonRound smBtn thinText redBtn"><a href="javascript:goLogin();">LOGIN</a></div>
+<div class="buttonRound smBtn thinText redBtn"><a href="/playnow?action=GoRegister&amp;WT.ac=globalheader|registerbutton">REGISTER</a></div>
+<div class="buttonRound smBtn thinText redBtn"><a href="javascript:%20goLogin();">LOGIN</a></div>
 </div>
 </div>
-<hr>
 <div id="topNavMenu">
 <ul>
-<li id="topNavPoker" class="mainMenuItem"><a href="/poker/"><span>Poker</span></a></li>
-<li id="topNavCasino" class="mainMenuItem"><a href="/playnow?tab=Casino"><span>Casino</span></a></li>
-<li id="topNavSports" class="mainMenuItem"><a href="/sports/"><span>Sports</span></a></li>
-<li id="topNavBingo" class="mainMenuItem"><a href="/bingo/"><span>Bingo</span></a></li>
-<li id="topNavLottery" class="mainMenuItem"><a href="/lottery/"><span>Lottery</span></a></li>
+<li class="mainMenuItem" id="topNavPoker"><a href="/poker/"><span>Poker</span></a></li>
+<li class="mainMenuItem" id="topNavCasino"><a href="/playnow?tab=Casino"><span>Casino</span></a></li>
+<li class="mainMenuItem" id="topNavSports"><a href="/sports"><span>Sports</span></a></li>
+<li class="mainMenuItem" id="topNavBingo"><a href="/bingo/"><span>Bingo</span></a></li>
+<li class="mainMenuItem" id="topNavLottery"><a href="/lottery/"><span>Lottery</span></a></li>
 </ul>
+</div>
 </div>
 </div>
 <div id="secNav">
@@ -127,12 +132,12 @@ if(top != self){top.location = location};
 <hr>
 <div id="leftNavContainer">
 <ul>
-<li class="togglable"><span class="togglerWrapper"><span class="nonToggler"><a href="/about-playnow/index.html" class="level1" id="About"><span><span>About Playnow.com</span></span></a></span><span class="toggler level1toggler"><a class="closed" href="#"></a></span></span> 
-<ul class="toggleClosed">
+<li class="togglable"><span class="togglerWrapper"><span class="nonToggler"><a href="/about-playnow/index.html" class="level1" id="About"><span><span>About Playnow.com</span></span></a></span><span class="toggler level1toggler"><a class="open" href="#"></a></span></span> 
+<ul class="toggleClosed" style="display: block;">
 <li><a id="help" href="/about-playnow/help.html" class="level2">Help</a></li>
 <li><a id="news" href="/about-playnow/news.html" class="level2">News</a></li>
 <li><a id="site" href="/about-playnow/site-map.html" class="level2">Site Map</a></li>
-<li><a id="privacy" href="/about-playnow/privacy.html" class="level2">Privacy</a></li>
+<li><a id="privacy" href="/about-playnow/privacy.html" class="level2 active">Privacy</a></li>
 <li><a id="legal" href="/about-playnow/legal.html" class="level2">Legal</a></li>
 <li><a id="security" href="/about-playnow/account-security.html" class="level2">Account Security</a></li>
 <li><a id="contact" href="/about-playnow/contact.html" class="level2">Contact Us</a></li>
@@ -277,8 +282,15 @@ if(top != self){top.location = location};
 <p class="featureBody">If you would like more information about our privacy practices or believe that we could do something better, please contact our Information and Privacy department. While we may not be able to implement all suggestions, we will give them all genuine consideration.</p>
 <p class="featureBody">If, at any time, you feel like we have not acted in accordance with this Charter, you may request a formal review of your case by contacting <em>BCLC's Information and Privacy department</em>.</p>
 <p class="featureBody"><strong>Mailing Address:</strong><br>
- Office of the Information and Privacy<br>
- Commissioner for British Columbia<br>
+ Information and Privacy Administrator<br>
+ BCLC<br>
+ 74 West Seymour Street<br>
+ Kamloops, BC V2C 1E2<br>
+ Telephone: (250) 852-5383<br>
+ E-mail: <a href="mailto:privacy@bclc.com">privacy@bclc.com</a></p>
+<p class="featureBody">If, at any time, you are not satisfied with how BCLC is dealing with your case, you can contact the Office of the Information and Privacy Commissioner of British Columbia, at:</p>
+<p class="featureBody"><strong>Mailing Address:</strong><br>
+ Office of the Information and Privacy Commissioner for British Columbia<br>
  PO Box 9038, Stn. Prov. Govt.<br>
  Victoria, BC V8W 9A4</p>
 <p class="featureBody"><strong>Location:</strong><br>
@@ -315,18 +327,25 @@ if(top != self){top.location = location};
 <a target="_blank" title="TRUSTe online privacy certification" href="//privacy.truste.com/privacy-seal/British-Columbia-Lottery-Corporation/validation?rid=b82db4ca-7690-4de8-bdbe-d958afa06072"><img alt="TRUSTe online privacy certification" src="//privacy-policy.truste.com/privacy-seal/British-Columbia-Lottery-Corporation/seal?rid=b82db4ca-7690-4de8-bdbe-d958afa06072" style="border: none"></a></div>
 </div>
 </div>
-<div id="connect">
-<h4>Stay Connected</h4>
-<p>Join the PlayNow.com community on Facebook and Twitter.</p>
-<a href="https://www.facebook.com/PlayNowCasino?WT.ac=FT|facebookbutton" target="_blank"><img src="/resources/images/home/facebook-icon.gif"></a> <a href="http://twitter.com/#!/playnowcasino?WT.ac=FT|twitterbutton" target="_blank"><img src="/resources/images/home/twitter-icon.gif"></a> <a href="http://twitter.com/#!/playnowpoker?WT.ac=FT|twitterpokerbutton" target="_blank"><img src="/resources/images/home/poker-icon.gif"></a></div>
+<div>
+<h4>PlayNow.com Promotions</h4>
+<p><a href="/promotions/?WT.ac=FT|promotions|home">All Promotions</a><br>
+ <a href="/casino/promotions/?WT.ac=FT|casino|promotions|home">Casino Promotions</a><br>
+ <a href="/poker/promotions/?WT.ac=FT|poker|promotions|home">Poker Promotions</a><br>
+ <a href="/sports/promotions/?WT.ac=FT|sports|promotions|home">Sports Promotions</a><br>
+ <a href="/bingo/promotions/?WT.ac=FT|bingo|promotions|home">Bingo Promotions</a><br>
+ <a href="/lottery/promotions/?WT.ac=FT|lottery|promotions|home">Lottery Promotions</a></p>
+</div>
 <div>
 <h4>Customer Support</h4>
 <p>We provide general support daily from 7am to midnight: 1-866-815-0222<br>
  Problem Gambling Help Line is 24/7:<br>
 1-888-795-6111<br>
  Poker support is 24/7: 1-877-706-6789<br>
- <a href="/about-playnow/contact/feedback.html?WT.ac=FT|support|feedbackform">Feedback Form</a><br>
+ <a href="/about-playnow/contact/emailus.html?WT.ac=FT|support|feedbackform">Email Us</a><br>
  <a href="/about-playnow/contact.html?WT.ac=FT|support|morecontact">More contact info</a></p>
+<a href="javascript:RTeSurvey('b8d-5c37fcde2efa','')">Share your feedback</a><br>
+<br>
 </div>
 <div id="gamesense">
 <h4>Use Your GameSense</h4>
@@ -339,12 +358,10 @@ if(top != self){top.location = location};
 <ul>
 <li><a href="/about-playnow/help.html?WT.ac=FT|aboutplaynow|help">Help</a></li>
 <li><a href="/about-playnow/?WT.ac=FT|aboutplaynow|home">About PlayNow.com</a></li>
-<li><a href="/promotions/?WT.ac=FT|promotions|home">All Promotions</a></li>
 <li><a href="/about-playnow/news.html?WT.ac=FT|aboutplaynow|news">News</a></li>
 <li><a href="/about-playnow/privacy.html?WT.ac=FT|aboutplaynow|privacy">Privacy</a></li>
 <li><a href="/about-playnow/legal.html?WT.ac=FT|aboutplaynow|legal">Legal</a></li>
 <li><a href="/about-playnow/account-security.html?WT.ac=FT|aboutplaynow|accountsecurity|usefullinks">Account Security</a></li>
-<li><a href="/gamesense/?WT.ac=FT|gamesense|home">GameSense</a></li>
 <li><a href="/about-playnow/site-map.html?WT.ac=FT|aboutplaynow|sitemap">Site Map</a></li>
 <li><a href="http://www.bclc.com?WT.ac=FT|bclccom|home" target="_blank">bclc.com</a></li>
 </ul>
@@ -358,6 +375,7 @@ if(top != self){top.location = location};
 <li><a href="/poker/poker-games/?WT.ac=FT|poker|pokergames|home">Poker Games</a></li>
 <li><a href="/poker/tournaments/?WT.ac=FT|poker|tournaments|home">Poker Tournaments</a></li>
 <li><a href="/poker/promotions/?WT.ac=FT|poker|promotions|home">Poker Promotions</a></li>
+<li><a href="http://twitter.com/#!/playnowpoker?WT.ac=FT|twitterpokerbutton" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="http://www.youtube.com/user/PlayNowCasino?WT.ac=FT|youtubepokerbutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
 </ul>
 </div>
 <div>
@@ -367,22 +385,23 @@ if(top != self){top.location = location};
 <li><a href="/playnow?action=GoCat&amp;name=Table%20Games&amp;WT.ac=FT|casino|tablegames">Play Table Games</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=New%20Games&amp;WT.ac=FT|casino|newslots">Play New Games</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Video%20Poker&amp;WT.ac=FT|casino|videopoker">Play Video Poker</a></li>
-<li><a href="/playnow?action=GoCat&amp;name=Arcade%20&amp;WT.ac=FT|games|arcade">Play Arcade</a></li>
-<li><a href="/playnow?action=GoCat&amp;name=Reactors%20&amp;WT.ac=FT|games|reactors">Play Reactors</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Scratch%20Cards&amp;WT.ac=FT|games|scratchcards">Play Scratch Cards</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Slots%20&amp;WT.ac=FT|casino|allslots">View All Slots</a></li>
 <li><a href="/casino/promotions/?WT.ac=FT|casino|promotions|home">Casino Promotions</a></li>
+<li><a href="https://www.facebook.com/PlayNowCasino?WT.ac=FT|facebookbutton" target="_blank"><img src="/resources/images/global/tiny-facebook-icon.png"></a> <a href="http://twitter.com/#!/playnowcasino?WT.ac=FT|twitterbutton" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="http://www.youtube.com/user/PlayNowCasino?WT.ac=FT|youtubecasinobutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
 </ul>
 </div>
 <div>
 <h4>Sports</h4>
 <ul>
-<li><a href="/BCCF/forwardODST.do?WT.ac=FT|sports|oddset">Play Oddset</a></li>
-<li><a href="/BCCF/forwardPTSP.do?WT.ac=FT|sports|pointspread">Play Point Spread</a></li>
-<li><a href="/BCCF/forwardOVUN.do?WT.ac=FT|sports|overunder">Play Over/Under</a></li>
-<li><a href="/BCCF/forwardResultsODST.do?WT.ac=FT|sports|results">View Sports Results</a></li>
-<li><a target="_blank" href="https://www.bclc.com/PlayNow/SportsAction/SAMenu.asp?WT.ac=FT|bclccom|dailymenu">View Daily Sports Menu</a></li>
-<li><a href="/sports/promotions/?WT.ac=FT|sports|promotions|home">Sports Promotions</a></li>
+<li><a href="/sports/?WT.ac=FT|sports|sports|home">Bet on Sports</a></li>
+<li><a href="/sports/live-betting/?WT.ac=FT|sports|live-betting">Live Betting</a></li>
+<li><a href="/sports/results/?WT.ac=FT|sports|results">Sports Results</a></li>
+<li><a target="_blank" href="http://stats.bclc.com/gamematchups.aspx?WT.ac=FT|sports|stats">Sports Stats</a></li>
+<li><a href="/sports/help/?WT.ac=FT|sports|help">Sports Help</a></li>
+<li><a href="http://blog.playnow.com?WT.ac=FT|sports|blog">Sports Blog</a></li>
+<li><a href="/sports/promotions/?WT.ac=FT|sports|promotions">Sports Promotions</a></li>
+<li><a href="https://www.facebook.com/PlayNowSports?WT.ac=FT|facebooksportsbutton" target="_blank"><img src="/resources/images/global/tiny-facebook-icon.png"></a> <a href="http://twitter.com/#!/PlayNowSports?WT.ac=FT|twittersportsbutton" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="https://plus.google.com/b/114866087716701427259/114866087716701427259?WT.ac=FT|googleplussportsbutton" target="_blank"><img src="/resources/images/global/tiny-gplus-icon.gif"></a> <a href="http://www.youtube.com/user/PlayNowSports?WT.ac=FT|youtubesportsbutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
 </ul>
 </div>
 <div>
@@ -409,11 +428,88 @@ if(top != self){top.location = location};
 </div>
 <hr>
 <div id="mainRGBar">
-<div id="RGBarGamesense"><a href="http://www.gamesense.ca" target="_new"></a></div>
 <div id="RGBarLogo"><a href="http://www.bclc.com" target="_new"></a></div>
+<div id="RGBarGamesense"><a href="http://www.gamesense.ca" target="_new"></a></div>
 <div id="RGBar19Plus"><a href="http://www.gamesense.ca" target="_new"></a></div>
 </div>
-<script src="/resources/js/webtrends/webtrends.js" type="text/javascript">
+<div id="survey1" class="voc-overlay" style="display:none;">
+<div class="voc-box"><a class="voc-close">Close</a> 
+<h1>We want to hear from you!</h1>
+<p>We value your feedback and we want to ensure that we are providing our users with a great experience during their visit to PlayNow.com. Please take a few minutes to complete our survey and let us know how we're doing.</p>
+<ul>
+<li class="voc-yes buttonRound greenBtn"><a href="">TAKE SURVEY</a></li>
+<li class="voc-no buttonRound redBtn"><a href="">NO THANKS</a></li>
+</ul>
+</div>
+</div>
+<div id="survey2" class="voc-overlay" style="display:none;">
+<div class="voc-box"><a class="voc-close">Close</a> 
+<h1>Are you voluntarily self-excluded?</h1>
+<p>BCLC takes problem gambling seriously. If you have enrolled in BCLC's Voluntary Self-Exclusion program please refrain from taking this survey.</p>
+<p>If you or someone you know has a problem with gambling, please call the Problem Gambling Helpline at 1-888-795-6111. To learn more about the VSE program and for information about responsible gambling, visit <a target="_new" href="http://www.gamesense.ca/">GameSense.ca</a>.</p>
+<ul>
+<li class="voc-yes buttonRound greenBtn"><a href="">CONTINUE TO SURVEY</a></li>
+<li class="voc-no buttonRound redBtn"><a href="">LEAVE SURVEY</a></li>
+</ul>
+</div>
+</div>
+<div id="tabSlide" style="">
+<div id="gameSense-tab"></div>
+<div id="gameSense-tab-content">
+<div id="close-gameSense-tab"><a href=""></a></div>
+<div id="gameSense-logo-heading"></div>
+<div id="gameSense-quick-menu">
+<ul>
+<li><a href="/gamesense/">GameSense Home</a></li>
+<li><a href="/gamesense/tools-for-gambling-with-gamesense.html">Tools for Gambling with GameSense</a></li>
+<li><a href="/gamesense/fact-or-myth.html">Fact or Myth?</a></li>
+<li><a href="/gamesense/resources.html">Resources</a></li>
+<li><a href="/gamesense/finding-help.html">Finding Help</a></li>
+<li><a href="/gamesense/voluntary-self-exclusion.html">Voluntary Self-Exclusion</a></li>
+</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+ <img src="/resources/images/gameSense/gsTab_helpline.png"></div>
+<div id="gameSense-tab-inner-content">
+<div class="gameSense-tab-feature">
+<div class="contentHeader">What is GameSense?</div>
+<div><span class="GSlogo_game">Game</span> <span class="GSlogo_sense">Sense</span> reinforces our focus on keeping it fun. <span class="GSlogo_game">Game</span><span class="GSlogo_sense">Sense</span> involves learning how the games work and the odds of winning and losing. Using your <span class="GSlogo_game">Game</span><span class="GSlogo_sense">Sense</span> means balancing the fun part of gambling with the need to stay in control and within your boundaries.</div>
+</div>
+<div class="gameSense-tab-tile" id="gameSense-tab-tileLeft">
+<div class="contentHeader" style="font-size:140%;">Set a budget</div>
+<div class="gameSense-tab-image"><img src="/resources/images/gameSense/gsTab_iconBudget.png"></div>
+<div class="">Do you have trouble sticking to a budget when you play? Maybe it\'s time to <a href="/playnow?action=GoUpdAcctSettingsBC">review your weekly deposit limit</a>.</div>
+</div>
+<div class="gameSense-tab-tile" id="gameSense-tab-tileRight">
+<div class="contentHeader" style="font-size:140%;">Voluntary Self-Exclusion</div>
+<div class="gameSense-tab-image"><img src="/resources/images/gameSense/gsTab_vse.png"></div>
+<div class="">If gambling no longer feels like a game, the voluntary self-exclusion program can help. <a href="/gamesense/voluntary-self-exclusion.html">Learn more</a>.</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/resources/js/browserDetect.js" type="text/javascript">
+//<![CDATA[
+//]]>
+</script>
+ <script src="/resources/js/jquery/jquery.cookie.js" type="text/javascript">
+//<![CDATA[
+//]]>
+</script>
+ <script src="/resources/js/footer.js" type="text/javascript">
+//<![CDATA[
+//]]>
+</script>
+ <script type="text/javascript">
+//<![CDATA[
+$(function () {try{calc_voc();}catch(err){}});
+$(function () {showGameSenseTab();});
+//]]>
+</script>
+ <script src="/resources/js/webtrends/webtrends.js" type="text/javascript">
 //<![CDATA[
 //]]>
 </script>
@@ -461,6 +557,10 @@ var loginNavUrl = '/loginNav';
 //]]>
 </script>
  <script src="/resources/js/jquery/jquery.coda-slider-2.0.js" type="text/javascript">
+//<![CDATA[
+//]]>
+</script>
+ <script src="/resources/js/jquery/jquery.cookie.js" type="text/javascript">
 //<![CDATA[
 //]]>
 </script>
