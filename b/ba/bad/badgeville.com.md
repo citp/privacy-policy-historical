@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618030247id_/http%3A//www.badgeville.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920102106id_/http%3A//www.badgeville.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | badgeville.com
 
