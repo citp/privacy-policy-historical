@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newwpthemes.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030156id_/http%3A//newwpthemes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwpthemes.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920020009id_/http%3A//newwpthemes.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - New Wordpress Themes
+# Privacy Policy
 
 Privacy Policy for NewWPThemes.net
 
