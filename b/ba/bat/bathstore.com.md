@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505022452id_/http%3A//www.bathstore.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920044350id_/http%3A//www.bathstore.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Bathstore.com
 
