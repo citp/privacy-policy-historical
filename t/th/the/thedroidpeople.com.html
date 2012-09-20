@@ -1,0 +1,277 @@
+<!--The following is the downloaded HTML source of the thedroidpeople.com privacy policy that was archived on 2012-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920025026id_/http%3A//thedroidpeople.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head><link rel="stylesheet" type="text/css" href="http://thedroidpeople.com/wp-content/w3tc/min/0de28787.7ed196.css" media="all"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://thedroidpeople.com/wp-content/w3tc/min/3957eb85.a08ddc.js"></script><meta charset="UTF-8"><title>Privacy Policy | The Droid People</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="pingback" href="http://thedroidpeople.com/xmlrpc.php"><link rel="alternate" type="application/rss+xml" title="The Droid People » Feed" href="http://thedroidpeople.com/feed"><link rel="alternate" type="application/rss+xml" title="The Droid People » Comments Feed" href="http://thedroidpeople.com/comments/feed"><link rel="alternate" type="application/rss+xml" title="The Droid People » Privacy Policy Comments Feed" href="http://thedroidpeople.com/privacy-policy/feed"><link rel="stylesheet" id="woo-responsive-layout-css" href="http://thedroidpeople.com/wp-content/themes/TheDroidPeople/css/generator.php?layout_width=1000&amp;ver=1.0.0" type="text/css" media="screen"><script type="text/javascript">
+/* <![CDATA[ */
+var woo_localized_data = {"select_a_page":"Select a page:"};
+/* ]]> */
+</script><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thedroidpeople.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thedroidpeople.com/wp-includes/wlwmanifest.xml"><link rel="prev" title="Write For Us" href="http://thedroidpeople.com/write-for-us"><link rel="next" title="Advertise" href="http://thedroidpeople.com/advertise"><link rel="author" href="https://plus.google.com/116666649816678050493/about?rel=author"><meta name="description" content="The Droid People takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. Routine Information"><link rel="canonical" href="http://thedroidpeople.com/privacy-policy"> <script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-34134413-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script><script type="text/javascript">
+			var scrolltotop={
+			//startline: Integer. Number of pixels from top of doc scrollbar is scrolled before showing control
+			//scrollto: Keyword (Integer, or "Scroll_to_Element_ID"). How far to scroll document up when control is clicked on (0=top).
+			setting: {startline:350, scrollto: 0, scrollduration:800, fadeduration:[500, 100]},
+			controlHTML: '<img src="http://thedroidpeople.com/wp-content/plugins/scrolltotop/image/up.png" />', //HTML for control, which is auto wrapped in DIV w/ ID="topcontrol"
+			controlattrs: {offsetx:5, offsety:5}, //offset of control relative to right/ bottom of window corner
+			anchorkeyword: '#top', //Enter href value of HTML anchors on the page that should also act as "Scroll Up" links
+
+			state: {isvisible:false, shouldvisible:false},
+
+			scrollup:function(){
+				if (!this.cssfixedsupport) //if control is positioned using JavaScript
+					this.control.css({opacity:0}) //hide control immediately after clicking it
+				var dest=isNaN(this.setting.scrollto)? this.setting.scrollto : parseInt(this.setting.scrollto)
+				if (typeof dest=="string" && jQuery('#'+dest).length==1) //check element set by string exists
+					dest=jQuery('#'+dest).offset().top
+				else
+					dest=0
+				this.body.animate({scrollTop: dest}, this.setting.scrollduration);
+			},
+
+			keepfixed:function(){
+				var window=jQuery(window)
+				var controlx=window.scrollLeft() + window.width() - this.control.width() - this.controlattrs.offsetx
+				var controly=window.scrollTop() + window.height() - this.control.height() - this.controlattrs.offsety
+				this.control.css({left:controlx+'px', top:controly+'px'})
+			},
+
+			togglecontrol:function(){
+				var scrolltop=jQuery(window).scrollTop()
+				if (!this.cssfixedsupport)
+					this.keepfixed()
+				this.state.shouldvisible=(scrolltop>=this.setting.startline)? true : false
+				if (this.state.shouldvisible && !this.state.isvisible){
+					this.control.stop().animate({opacity:1}, this.setting.fadeduration[0])
+					this.state.isvisible=true
+				}
+				else if (this.state.shouldvisible==false && this.state.isvisible){
+					this.control.stop().animate({opacity:0}, this.setting.fadeduration[1])
+					this.state.isvisible=false
+				}
+			},
+			
+			init:function(){
+				jQuery(document).ready(function($){
+					var mainobj=scrolltotop
+					var iebrws=document.all
+					mainobj.cssfixedsupport=!iebrws || iebrws && document.compatMode=="CSS1Compat" && window.XMLHttpRequest //not IE or IE7+ browsers in standards mode
+					mainobj.body=(window.opera)? (document.compatMode=="CSS1Compat"? $('html') : $('body')) : $('html,body')
+					mainobj.control=$('<div id="topcontrol">'+mainobj.controlHTML+'</div>')
+						.css({position:mainobj.cssfixedsupport? 'fixed' : 'absolute', bottom:mainobj.controlattrs.offsety, right:mainobj.controlattrs.offsetx, opacity:0, cursor:'pointer'})
+						.attr({title:'Scroll Back to Top'})
+						.click(function(){mainobj.scrollup(); return false})
+						.appendTo('body')
+					if (document.all && !window.XMLHttpRequest && mainobj.control.text()!='') //loose check for IE6 and below, plus whether control contains any text
+						mainobj.control.css({width:mainobj.control.width()}) //IE6- seems to require an explicit width on a DIV containing text
+					mainobj.togglecontrol()
+					$('a[href="' + mainobj.anchorkeyword +'"]').click(function(){
+						mainobj.scrollup()
+						return false
+					})
+					$(window).bind('scroll resize', function(e){
+						mainobj.togglecontrol()
+					})
+				})
+			}
+		}
+
+		scrolltotop.init()
+
+		</script><style type="text/css">
+body {background-repeat:no-repeat;background-position:top left;background-attachment:scroll;border-top:0px solid #000000;}
+#header {background-repeat:no-repeat;background-position:top center;margin-top:0px;margin-bottom:0px;padding-top:40px;padding-bottom:40px;border:0px solid ;}
+#logo .site-title a {font:bold 40px/1em "Helvetica Neue", Helvetica, sans-serif;color:#222222;}
+#logo .site-description {font:normal 13px/1em "Helvetica Neue", Helvetica, sans-serif;color:#999999;}
+body, p { font:normal 13px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+h1 { font:bold 28px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h2 { font:bold 24px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h3 { font:bold 20px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h4 { font:bold 16px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h5 { font:bold 14px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h6 { font:bold 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }
+.post .title, .page .title, .post .title a:link, .post .title a:visited, .page .title a:link, .page .title a:visited {font:bold 26px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222;}
+.post-meta { font:normal 11px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+.entry, .entry p{ font:normal 13px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+.post-more {font:normal 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:;border-top:0px solid #e6e6e6;border-bottom:0px solid #e6e6e6;}
+#post-author, #connect {border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;border-left:1px solid #e6e6e6;border-right:1px solid #e6e6e6;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;background-color:#fafafa}
+.nav-entries a, .woo-pagination { font:normal 12px/1em "Helvetica Neue", Helvetica, sans-serif;color:#888; }
+.woo-pagination a, .woo-pagination a:hover {color:#888!important}
+.widget h3 {font:bold 14px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#000000;border-bottom:1px solid #e6e6e6;}
+.widget_recent_comments li, #twitter li { border-color: #e6e6e6;}
+.widget p, .widget .textwidget { font:normal 12px/1.5em Arial, sans-serif;color:#000000; }
+.widget {font:normal 12px/1.5em Arial, sans-serif;color:#000000;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;}
+#tabs .inside li a { font:bold 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+#tabs .inside li span.meta { font:normal 11px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+#tabs ul.wooTabs li a { font:normal 11px/2em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+ul.nav li a, #navigation ul.rss a { font:normal 14px/1em Arial, sans-serif;color:#050005; }
+#navigation ul.nav > li a:hover, #navigation ul.nav > li:hover a, #navigation ul.nav li ul li a { color:#000000!important; }
+#navigation ul.nav > li a:hover, #navigation ul.nav > li:hover, #navigation ul.nav li ul {background-color:#aec83c!important}
+#navigation ul.nav li ul  { border: 1px solid #dbdbdb; }
+#navigation ul.nav > li  { border-right: 1px solid #c8e060; }#navigation ul.nav li.current_page_item a, #navigation ul.nav li.current_page_parent a, #navigation ul.nav li.current-menu-ancestor a, #navigation ul.nav li.current-cat a, #navigation ul.nav li.current-menu-item a { background-color:#aec83c; }
+#navigation ul.nav li.current_page_item a, #navigation ul.nav li.current_page_parent a, #navigation ul.nav li.current-menu-ancestor a, #navigation ul.nav li.current-cat a, #navigation ul.nav li.current-menu-item a { color:#000000; }
+#navigation ul li:first-child, #navigation ul li:first-child a { border-radius:5px 0 0 5px; -moz-border-radius:5px 0 0 5px; -webkit-border-radius:5px 0 0 5px; }
+#navigation {background:#8cb106;border-top:1px solid #c8e060;border-bottom:1px solid #c8e060;border-left:1px solid #c8e060;border-right:1px solid #c8e060;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;}
+#top, #top ul.nav li ul li a:hover { background:#8cb106;}
+#top ul.nav li a:hover, #top ul.nav li.current_page_item a, #top ul.nav li.current_page_parent a,#top ul.nav li.current-menu-ancestor a,#top ul.nav li.current-cat a,#top ul.nav li.current-menu-item a,#top ul.nav li.sfHover, #top ul.nav li ul, #top ul.nav > li:hover a, #top ul.nav li ul li a { color:#000000!important;}
+#top ul.nav li a:hover, #top ul.nav li.current_page_item a, #top ul.nav li.current_page_parent a,#top ul.nav li.current-menu-ancestor a,#top ul.nav li.current-cat a,#top ul.nav li.current-menu-item a,#top ul.nav li.sfHover, #top ul.nav li ul, #top ul.nav > li:hover { background:#aec83c;}
+#top ul.nav li a { font:normal 12px/1.6em Arial, sans-serif;color:#000000; }
+#top ul.nav li.parent > a:after { border-top-color:#000000;}
+#footer, #footer p { font:normal 13px/1em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+#footer {border-top:1px solid #dbdbdb;border-bottom:0px solid ;border-left:0px solid ;border-right:0px solid ;border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px;}
+.magazine #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.magazine #loopedSlider .content .excerpt p { font:normal 12px/1.5em Arial, sans-serif;color:#cccccc; }
+.business #loopedSlider .content h2 { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.business #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+#wrapper .business #loopedSlider .content p { font:normal 12px/1.5em Arial, sans-serif;color:#cccccc; }
+.archive_header h1 { font:bold 18px/1em Arial, sans-serif;color:#222222; }
+.archive_header {border-bottom:1px solid #e6e6e6;}
+</style><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=yes" name="viewport"><link rel="shortcut icon" href="http://thedroidpeople.com/wp-content/uploads/2012/08/favicon.ico"></head><body class="page page-id-15 page-template-default unknown two-col-left width-1000 two-col-left-1000"><div id="top"><div class="col-full"><ul id="top-nav" class="nav fl"><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-21"><a href="http://thedroidpeople.com/">Home</a></li><li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://thedroidpeople.com/about">About</a></li><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://thedroidpeople.com/advertise">Advertise</a></li><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://thedroidpeople.com/write-for-us">Write For Us</a></li><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15 current_page_item menu-item-25"><a href="http://thedroidpeople.com/privacy-policy">Privacy Policy</a></li><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://thedroidpeople.com/contact">Contact</a></li></ul></div></div><div id="wrapper"><div id="header" class="col-full"><div id="logo"> <a href="http://thedroidpeople.com/" title="Android Tricks . Rooting . Firmware Update"><img src="http://thedroidpeople.com/wp-content/uploads/2012/08/logo.png" alt="The Droid People"></a> <span class="site-title"><a href="http://thedroidpeople.com/">The Droid People</a></span> <span class="site-description">Android Tricks . Rooting . Firmware Update</span></div><h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3></div><div id="navigation" class="col-full"><ul class="rss fr"><li class="sub-rss"><a class="icon" href="http://thedroidpeople.com/feed"></a></li></ul><ul id="main-nav" class="nav fl"><li id="menu-item-71" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71"><a href="http://thedroidpeople.com/category/app-development">App Development</a></li><li id="menu-item-72" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72"><a href="http://thedroidpeople.com/category/how-to">How To</a></li><li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73"><a href="http://thedroidpeople.com/category/tips-tricks">Tips &amp; Tricks</a></li><li id="menu-item-94" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94"><a href="http://thedroidpeople.com/category/apps">Apps</a></li><li id="menu-item-244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-244"><a href="http://thedroidpeople.com/category/information">Information</a></li></ul></div><div id="content" class="col-full"><div id="main-sidebar-container"><div id="main"><div class="post-15 page type-page status-publish hentry"><h1 class="title">Privacy Policy</h1><div class="entry"><p><strong>The Droid People</strong> takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.</p><h2>Routine Information Collection</h2><p>All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.</p><h2>Cookies and Web Beacons</h2><p>Where necessary,&nbsp;<strong>The Droid People</strong> uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.</p><p>Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.</p><h2>Controlling Your Privacy</h2><p>Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.</p><h2>Special Note About Google Advertising</h2><p>Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to <a href="http://www.google.com/privacy_ads.html">opt out of Google’s cookie usage</a>. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.</p><h2>Contact Information</h2><p>Concerns or questions about this privacy policy can be directed to bapidebu@gmail.com for further clarification.</p><div class="mr_social_sharing_wrapper"> <span class="mr_social_sharing"><a href="http://del.icio.us/post?url=http%3A%2F%2Fthedroidpeople.com%2Fprivacy-policy&amp;title=Privacy+Policy" class="mr_social_sharing_popup_link"><img src="http://thedroidpeople.com/wp-content/plugins/social-sharing-toolkit/images/buttons/delicious.png" alt="Save on Delicious" title="Save on Delicious"></a></span><span class="mr_social_sharing"><a href="http://digg.com/submit?url=http%3A%2F%2Fthedroidpeople.com%2Fprivacy-policy&amp;title=Privacy+Policy" class="mr_social_sharing_popup_link"><img src="http://thedroidpeople.com/wp-content/plugins/social-sharing-toolkit/images/buttons/digg.png" alt="Digg This" title="Digg This"></a></span><span class="mr_social_sharing"><span style="display: inline-block; width: 51px; height: 24px; overflow: hidden;"><div class="fb-like" data-href="http://thedroidpeople.com/privacy-policy" data-send="false" data-width="51" data-show-faces="false"></div></span></span><span class="mr_social_sharing"><div class="g-plusone" data-size="medium" data-annotation="none" data-href="http://thedroidpeople.com/privacy-policy"></div></span><span class="mr_social_sharing"><script type="IN/Share" data-url="http://thedroidpeople.com/privacy-policy"></script></span><span class="mr_social_sharing"><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fthedroidpeople.com%2Fprivacy-policy&amp;media=&amp;description=Privacy+Policy" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"></a></span><span class="mr_social_sharing"><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fthedroidpeople.com%2Fprivacy-policy" class="mr_social_sharing_popup_link"><img src="http://thedroidpeople.com/wp-content/plugins/social-sharing-toolkit/images/buttons/stumbleupon.png" alt="Submit to StumbleUpon" title="Submit to StumbleUpon"></a></span><span class="mr_social_sharing"><a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fthedroidpeople.com%2Fprivacy-policy&amp;name=Privacy+Policy" class="mr_social_sharing_popup_link"><img src="http://thedroidpeople.com/wp-content/plugins/social-sharing-toolkit/images/buttons/tumblr.png" alt="Share on Tumblr" title="Share on Tumblr"></a></span><span class="mr_social_sharing"><a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-url="http://thedroidpeople.com/privacy-policy" data-text="Privacy Policy">Tweet</a></span></div></div><div class="fix"></div></div></div><div id="sidebar"><div id="text-3" class="widget widget_text"><div class="textwidget"><a href="/write-for-us" target="_blank" title="Register Today For Guest Blogging"><img src="/wp-content/uploads/2012/08/guest-blogging.jpg" border="0" alt="Guest Blogging"></a></div></div><div id="text-6" class="widget widget_text"><div class="textwidget"><div align="center"><style type="text/css">
+
+	.myForm td, input, select, textarea, checkbox {
+		font-family: georgia, tahoma;
+		font-size: 14px;
+	}
+
+	.myForm {
+		background-color: #B9C4C4;
+		border: 3px solid #8CB106;
+		padding: 1px;
+	}
+
+	.required {
+		color: red;
+	}
+	#dw {
+		background-color:#AD5B73;
+		color:#FFFFFF;
+		font-size:20px;
+		font-weight:bold;
+		padding:10px;
+		border-radius: 5px 5px 5px 5px;
+		text-shadow: 1px 1px #000000;
+		box-shadow: 0 20px 20px #979797;
+		border: 1px solid #F76A92;
+		cursor: pointer;
+	}
+</style><form method="post" action="http://email.maxdesigningstudio.com/form.php?form=1" id="frmSS1" onsubmit="return CheckForm1(this);"><table border="0" cellpadding="2" class="myForm" width="300px"><tbody><tr><td><img border="0" src="http://thedroidpeople.com/wp-content/uploads/2012/09/300x2501.gif" width="300" height="250"></td></tr><tr><td><div align="center"> <input type="text" name="CustomFields[2]" id="CustomFields_2_1" value="Enter Your Name" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"></div></td></tr><tr><td><div align="center"> <input type="text" name="email" value="Enter Your Email*" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"></div></td></tr><input type="hidden" name="format" value="h"><tr><td><div align="center"><script type="text/javascript">
+// <![CDATA[
+	if (!Application) var Application = {};
+	if (!Application.Page) Application.Page = {};
+	if (!Application.Page.ClientCAPTCHA) {
+		Application.Page.ClientCAPTCHA = {
+			sessionIDString: '',
+			captchaURL: [],
+			getRandomLetter: function () { return String.fromCharCode(Application.Page.ClientCAPTCHA.getRandom(65,90)); },
+			getRandom: function(lowerBound, upperBound) { return Math.floor((upperBound - lowerBound + 1) * Math.random() + lowerBound); },
+			getSID: function() {
+				if (Application.Page.ClientCAPTCHA.sessionIDString.length <= 0) {
+					var tempSessionIDString = '';
+					for (var i = 0; i < 32; ++i) tempSessionIDString += Application.Page.ClientCAPTCHA.getRandomLetter();
+					Application.Page.ClientCAPTCHA.sessionIDString.length = tempSessionIDString;
+				}
+				return Application.Page.ClientCAPTCHA.sessionIDString;
+			},
+			getURL: function() {
+				if (Application.Page.ClientCAPTCHA.captchaURL.length <= 0) {
+					var tempURL = 'http://email.maxdesigningstudio.com/admin/resources/form_designs/captcha/index.php?c=';
+					
+											tempURL += Application.Page.ClientCAPTCHA.getRandom(1,1000);
+													tempURL += '&ss=' + Application.Page.ClientCAPTCHA.getSID();
+												Application.Page.ClientCAPTCHA.captchaURL.push(tempURL);
+									}
+				return Application.Page.ClientCAPTCHA.captchaURL;
+			}
+		}
+	}
+
+	var temp = Application.Page.ClientCAPTCHA.getURL();
+	for (var i = 0, j = temp.length; i < j; i++) document.write('<img src="' + temp[i] + '" alt="img' + i + '" />');
+// ]]>
+  </script><img src="http://email.maxdesigningstudio.com/admin/resources/form_designs/captcha/index.php?c=747&amp;ss=" alt="img0"><br><input type="text" name="captcha" value="Type Security Code*" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"></div></td></tr><tr><td><div align="center"><br> <input type="submit" value="Download Now!" id="dw"> <br> <span style="display: block; font-size: 10px; color: #000000; padding-top: 5px;">We Respect Your Email Privacy</span></div></td></tr></tbody></table></form><script type="text/javascript">
+// <![CDATA[
+
+			function CheckMultiple1(frm, name) {
+				for (var i=0; i < frm.length; i++)
+				{
+					fldObj = frm.elements[i];
+					fldId = fldObj.id;
+					if (fldId) {
+						var fieldnamecheck=fldObj.id.indexOf(name);
+						if (fieldnamecheck != -1) {
+							if (fldObj.checked) {
+								return true;
+							}
+						}
+					}
+				}
+				return false;
+			}
+		function CheckForm1(f) {
+			var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+			if (!email_re.test(f.email.value)) {
+				alert("Please enter your email address.");
+				f.email.focus();
+				return false;
+			}
+		
+				if (f.captcha.value == "") {
+					alert("Please enter the security code shown");
+					f.captcha.focus();
+					return false;
+				}
+			
+				return true;
+			}
+		
+// ]]>
+</script></div></div></div><div id="text-2" class="widget widget_text"><div class="textwidget"></div></div><ul class="widget-wrap"><li class="Google_Authorship"> <img src="http://digitalgyaan.com/wp-content/uploads/2012/04/DebasisPradhan.jpeg" class="alignleft"><h3 class="widgettitle"><a rel="author" href="https://plus.google.com/116666649816678050493/">+Debasis Pradhan</a></h3><ul><li class="Google_Authorship-description"> Debasis Pradhan is a Software/Web Developer, SEO Analyst &amp; Founder of The Droid People, one of the most Popular Android Blogs on the web.</li></ul></li></ul><div style="margin-bottom:10px;"><div id="inspiredmagz-mashable-bar" style="width:310px;"><div class="g-plus" data-href="https://plus.google.com/104464304890013329370" data-width="310" data-height="69" data-theme="light"></div><div class="fb-likebox" style="background: #FFF;"> <iframe src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/TheDroidPeople&amp;send=false&amp;layout=standard&amp;width=310&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=80&amp;appId=234513819928295" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:310px; height:80px;"></iframe></div><div class="googleplus" style="background: #F5FCFE;"> <span>Recommend</span><div class="g-plusone" data-size="medium"></div><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script></div><div class="twitter" style="background: #EEF9FD;"> <iframe title="" style="width: 300px; height: 20px;" class="twitter-follow-button" src="http://platform.twitter.com/widgets/follow_button.html#_=1319978796351&amp;align=&amp;button=blue&amp;id=twitter_tweet_button_0&amp;lang=en&amp;link_color=&amp;screen_name=niitdebasis&amp;show_count=&amp;show_screen_name=&amp;text_color=" frameborder="0" scrolling="no"></iframe></div><div id="email-news-subscribe" style="background: #E3EDF4;"><div class="email-box"><form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=TheDroidsPeople', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"> <input class="email" type="text" style="width: 140px; font-size: 12px;" id="email" name="email" value="Enter your email" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"> <input type="hidden" value="TheDroidsPeople" name="uri"> <input type="hidden" name="loc" value="en_US"> <input class="subscribe" name="commit" type="submit" value="Subscribe"></form></div></div><div id="other-social-bar" style="background: #D8E6EB;"><ul class="other-follow"><li class="my-rss"> <a rel="nofollow" title="RSS" href="http://feeds.feedburner.com/TheDroidsPeople" target="_blank">RSS Feed</a></li><li class="my-email"> <a rel="nofollow external" title="Email Updates" href="http://feedburner.google.com/fb/a/mailverify?uri=TheDroidsPeople&amp;loc=en_US" target="_blank">Email Updates</a></li><li class="my-gplus"> <a rel="nofollow" title="Google Plus" href="http://plus.google.com/104464304890013329370" target="_blank">Google Plus</a></li></ul></div><div id="get-inspiredmagz" style="background: #EBEBEB;border: 1px solid #CCC;border-top: 1px solid white;padding: 1px 8px 1px 3px;text-align: right;border-image: initial;font-size:10px;font-family: " arial","helvetica",sans-serif;"=""></div></div></div><div id="woo_tabs-2" class="widget widget_woo_tabs"><div id="tabs"><ul class="wooTabs"><li class="popular"><a href="#tab-pop">Popular</a></li><li class="latest"><a href="#tab-latest">Latest</a></li><li class="comments"><a href="#tab-comm">Comments</a></li><li class="tags"><a href="#tab-tags">Tags</a></li></ul><div class="clear"></div><div class="boxes box inside"><ul id="tab-pop" class="list"><li> <a href="http://thedroidpeople.com/pros-cons-of-rooting-android-devices.html" title="Pros and Cons of Rooting Android Devices"><img src="http://thedroidpeople.com/wp-content/uploads/2012/08/Rooting-Android-Devices-45x45.gif" alt="Rooting Android Devices" width="45" height="45" class="woo-image thumbnail"></a> <a title="Pros and Cons of Rooting Android Devices" href="http://thedroidpeople.com/pros-cons-of-rooting-android-devices.html">Pros and Cons of Rooting Android Devices</a> <span class="meta">August 19, 2012</span><div class="fix"></div></li><li> <a href="http://thedroidpeople.com/make-money-with-android-apps.html" title="How to make Money Online With Android application Development"><img src="http://thedroidpeople.com/wp-content/uploads/2012/08/android-app-development-45x45.png" alt="android-app-development" width="45" height="45" class="woo-image thumbnail"></a> <a title="How to make Money Online With Android application Development" href="http://thedroidpeople.com/make-money-with-android-apps.html">How to make Money Online With Android application Development</a> <span class="meta">August 17, 2012</span><div class="fix"></div></li><li> <a href="http://thedroidpeople.com/best-astrology-apps-for-android.html" title="10 Best Astrology Apps for Android"><img src="http://thedroidpeople.com/wp-content/uploads/2012/08/Best-Astrology-Apps-for-Android-45x45.png" alt="Best Astrology Apps for Android" width="45" height="45" class="woo-image thumbnail"></a> <a title="10 Best Astrology Apps for Android" href="http://thedroidpeople.com/best-astrology-apps-for-android.html">10 Best Astrology Apps for Android</a> <span class="meta">August 27, 2012</span><div class="fix"></div></li><li> <a href="http://thedroidpeople.com/how-to-backup-an-android-phone.html" title="How to Backup an Android Phone?"><img src="http://thedroidpeople.com/wp-content/uploads/2012/08/Backup-an-Android-Phone-45x45.png" alt="Backup an Android Phone" width="45" height="45" class="woo-image thumbnail"></a> <a title="How to Backup an Android Phone?" href="http://thedroidpeople.com/how-to-backup-an-android-phone.html">How to Backup an Android Phone?</a> <span class="meta">August 18, 2012</span><div class="fix"></div></li><li> <a href="http://thedroidpeople.com/best-android-apps.html" title="Best Android Apps For your Android Phone"><img src="http://thedroidpeople.com/wp-content/uploads/2012/09/best_android_apps_header-45x45.jpg" alt="What Types of Apps to Create" width="45" height="45" class="woo-image thumbnail"></a> <a title="Best Android Apps For your Android Phone" href="http://thedroidpeople.com/best-android-apps.html">Best Android Apps For your Android Phone</a> <span class="meta">September 11, 2012</span><div class="fix"></div></li></ul><ul id="tab-latest" class="list"><li> <a href="http://thedroidpeople.com/10-benefits-of-android-smartphones-over-apple-iphone5.html" title="10 Benefits of Android Smartphones Over Apple iPhone 5"><img src="http://thedroidpeople.com/wp-content/uploads/2012/09/Android-Smartphones-Over-Apple-iPhone-5-45x45.jpg" alt="Android Smartphones Over Apple iPhone 5" width="45" height="45" class="woo-image thumbnail"></a> <a title="10 Benefits of Android Smartphones Over Apple iPhone 5" href="http://thedroidpeople.com/10-benefits-of-android-smartphones-over-apple-iphone5.html">10 Benefits of Android Smartphones Over Apple iPhone 5</a> <span class="meta">September 18, 2012</span><div class="fix"></div></li><li> <a href="http://thedroidpeople.com/rooting-android-device.html" title="All You Need To Know About Rooting Your Android Device"><img src="http://thedroidpeople.com/wp-content/uploads/2012/09/Rooting-Your-Android-Device-45x45.jpg" alt="Rooting Your Android Device" width="45" height="45" class="woo-image thumbnail"></a> <a title="All You Need To Know About Rooting Your Android Device" href="http://thedroidpeople.com/rooting-android-device.html">All You Need To Know About Rooting Your Android Device</a> <span class="meta">September 14, 2012</span><div class="fix"></div></li><li> <a href="http://thedroidpeople.com/best-android-apps-for-business.html" title="5 Best Android Apps for Business"><img src="http://thedroidpeople.com/wp-content/uploads/2012/08/Five-Android-Productivity-Tools-45x45.jpg" alt="Five Android Productivity Tools" width="45" height="45" class="woo-image thumbnail"></a> <a title="5 Best Android Apps for Business" href="http://thedroidpeople.com/best-android-apps-for-business.html">5 Best Android Apps for Business</a> <span class="meta">September 14, 2012</span><div class="fix"></div></li><li> <a href="http://thedroidpeople.com/best-alternatives-of-office-to-edit-powerpoint-files.html" title="Best Alternatives of Office to edit PowerPoint Files"><img src="http://thedroidpeople.com/wp-content/uploads/2012/09/PowerPoint-45x45.jpg" alt="PowerPoint" width="45" height="45" class="woo-image thumbnail"></a> <a title="Best Alternatives of Office to edit PowerPoint Files" href="http://thedroidpeople.com/best-alternatives-of-office-to-edit-powerpoint-files.html">Best Alternatives of Office to edit PowerPoint Files</a> <span class="meta">September 12, 2012</span><div class="fix"></div></li><li> <a href="http://thedroidpeople.com/best-android-apps.html" title="Best Android Apps For your Android Phone"><img src="http://thedroidpeople.com/wp-content/uploads/2012/09/best_android_apps_header-45x45.jpg" alt="What Types of Apps to Create" width="45" height="45" class="woo-image thumbnail"></a> <a title="Best Android Apps For your Android Phone" href="http://thedroidpeople.com/best-android-apps.html">Best Android Apps For your Android Phone</a> <span class="meta">September 11, 2012</span><div class="fix"></div></li></ul><ul id="tab-comm" class="list"><li class="recentcomments"> <img alt="" src="http://1.gravatar.com/avatar/3be0c7b7f3a2d21d55cf5f37c3c7a226?s=45&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D45&amp;r=G" class="avatar avatar-45 photo" height="45" width="45"> <a href="http://thedroidpeople.com/how-to-install-apps-in-android-device.html#comment-174" title="Roiger on How to Install Apps In an Android Device?">Roiger: It's actually a nice and useful piece of info. I...</a><div class="fix"></div></li><li class="recentcomments"> <img alt="" src="http://1.gravatar.com/avatar/963f8765a25af53baf85e14d34e30cff?s=45&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D45&amp;r=G" class="avatar avatar-45 photo" height="45" width="45"> <a href="http://thedroidpeople.com/best-android-apps.html#comment-171" title="Krishan on Best Android Apps For your Android Phone">Krishan: Believe me This is the most valuable and well writ...</a><div class="fix"></div></li><li class="recentcomments"> <img alt="" src="http://0.gravatar.com/avatar/ea504acfcb9421ccde8298a574dfde61?s=45&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D45&amp;r=G" class="avatar avatar-45 photo" height="45" width="45"> <a href="http://thedroidpeople.com/best-android-apps.html#comment-163" title="Debasis on Best Android Apps For your Android Phone">Debasis: Hi Sandeep Thanks for Dropping your Valuable comme...</a><div class="fix"></div></li><li class="recentcomments"> <img alt="" src="http://0.gravatar.com/avatar/ea504acfcb9421ccde8298a574dfde61?s=45&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D45&amp;r=G" class="avatar avatar-45 photo" height="45" width="45"> <a href="http://thedroidpeople.com/best-android-apps.html#comment-162" title="Debasis on Best Android Apps For your Android Phone">Debasis: Soudip,
+I Personally Enjoyed reading your Post. I...</a><div class="fix"></div></li><li class="recentcomments"> <img alt="" src="http://1.gravatar.com/avatar/9fc93b9bf5e8b89fe4dfb9a90ea09737?s=45&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D45&amp;r=G" class="avatar avatar-45 photo" height="45" width="45"> <a href="http://thedroidpeople.com/best-android-apps.html#comment-161" title="Sandeep Chaudhary on Best Android Apps For your Android Phone">Sandeep Chaudhary: nice application list but it can be extended to mo...</a><div class="fix"></div></li></ul><div id="tab-tags" class="list"> <a href="http://thedroidpeople.com/tag/android" class="tag-link-54" title="4 topics" style="font-size: 20pt;">Android</a> <a href="http://thedroidpeople.com/tag/android-application-development" class="tag-link-12" title="1 topic" style="font-size: 12pt;">Android application Development</a> <a href="http://thedroidpeople.com/tag/android-home-launchers" class="tag-link-33" title="1 topic" style="font-size: 12pt;">Android Home Launchers</a> <a href="http://thedroidpeople.com/tag/android-os-netbook" class="tag-link-7" title="1 topic" style="font-size: 12pt;">android os netbook</a> <a href="http://thedroidpeople.com/tag/android-productivity-tools" class="tag-link-36" title="1 topic" style="font-size: 12pt;">Android Productivity Tools</a> <a href="http://thedroidpeople.com/tag/android-spy" class="tag-link-64" title="2 topics" style="font-size: 15.6pt;">android spy</a> <a href="http://thedroidpeople.com/tag/backup-an-android-phone" class="tag-link-22" title="1 topic" style="font-size: 12pt;">Backup an Android Phone</a> <a href="http://thedroidpeople.com/tag/backup-android-phone" class="tag-link-24" title="1 topic" style="font-size: 12pt;">Backup Android Phone</a> <a href="http://thedroidpeople.com/tag/best-android-apps" class="tag-link-98" title="2 topics" style="font-size: 15.6pt;">Best Android Apps</a> <a href="http://thedroidpeople.com/tag/change-palm-contacts-to-android-phone" class="tag-link-27" title="1 topic" style="font-size: 12pt;">change Palm Contacts to Android Phone</a> <a href="http://thedroidpeople.com/tag/convert-palm-contacts" class="tag-link-25" title="1 topic" style="font-size: 12pt;">Convert Palm Contacts</a> <a href="http://thedroidpeople.com/tag/download-all-files" class="tag-link-42" title="1 topic" style="font-size: 12pt;">Download All Files</a> <a href="http://thedroidpeople.com/tag/droid-dictionary" class="tag-link-46" title="1 topic" style="font-size: 12pt;">Droid Dictionary</a> <a href="http://thedroidpeople.com/tag/earn-money-with-android-apps" class="tag-link-14" title="1 topic" style="font-size: 12pt;">earn money with Android Apps</a> <a href="http://thedroidpeople.com/tag/five-android-productivity-tools" class="tag-link-35" title="1 topic" style="font-size: 12pt;">Five Android Productivity Tools</a> <a href="http://thedroidpeople.com/tag/formulas-lite" class="tag-link-48" title="1 topic" style="font-size: 12pt;">Formulas Lite</a> <a href="http://thedroidpeople.com/tag/free-mp3-songs-android" class="tag-link-43" title="1 topic" style="font-size: 12pt;">free mp3 songs android</a> <a href="http://thedroidpeople.com/tag/google-android-os-netbook" class="tag-link-10" title="1 topic" style="font-size: 12pt;">google android os netbook</a> <a href="http://thedroidpeople.com/tag/google-android-with-outlook-tasks" class="tag-link-16" title="1 topic" style="font-size: 12pt;">Google Android with Outlook Tasks</a> <a href="http://thedroidpeople.com/tag/how-to-synchronize" class="tag-link-15" title="1 topic" style="font-size: 12pt;">How to Synchronize</a> <a href="http://thedroidpeople.com/tag/how-to-synchronize-android-with-outlook-tasks" class="tag-link-18" title="1 topic" style="font-size: 12pt;">How to Synchronize Android with Outlook Tasks</a> <a href="http://thedroidpeople.com/tag/how-to-unlock-android-phone" class="tag-link-20" title="1 topic" style="font-size: 12pt;">How to Unlock Android Phone</a> <a href="http://thedroidpeople.com/tag/installing-android-os" class="tag-link-9" title="1 topic" style="font-size: 12pt;">installing android os</a> <a href="http://thedroidpeople.com/tag/launcher-pro" class="tag-link-34" title="1 topic" style="font-size: 12pt;">Launcher PRO</a> <a href="http://thedroidpeople.com/tag/make-money-with-android-apps" class="tag-link-13" title="1 topic" style="font-size: 12pt;">make money with android apps</a> <a href="http://thedroidpeople.com/tag/move-palm-contacts-to-android-phone" class="tag-link-28" title="1 topic" style="font-size: 12pt;">move Palm Contacts to Android Phone</a> <a href="http://thedroidpeople.com/tag/music-junk" class="tag-link-41" title="1 topic" style="font-size: 12pt;">Music Junk</a> <a href="http://thedroidpeople.com/tag/next-generation-apps" class="tag-link-32" title="1 topic" style="font-size: 12pt;">Next Generation Apps</a> <a href="http://thedroidpeople.com/tag/outlook-tasks" class="tag-link-17" title="1 topic" style="font-size: 12pt;">Outlook Tasks</a> <a href="http://thedroidpeople.com/tag/palm-contacts-to-android-phone" class="tag-link-26" title="1 topic" style="font-size: 12pt;">Palm Contacts to Android Phone</a> <a href="http://thedroidpeople.com/tag/pros-and-cons-of-rooting" class="tag-link-40" title="1 topic" style="font-size: 12pt;">Pros and Cons of Rooting</a> <a href="http://thedroidpeople.com/tag/quickpedia" class="tag-link-45" title="1 topic" style="font-size: 12pt;">Quickpedia</a> <a href="http://thedroidpeople.com/tag/realcalc-scientific-calculator" class="tag-link-47" title="1 topic" style="font-size: 12pt;">RealCalc Scientific Calculator</a> <a href="http://thedroidpeople.com/tag/root-htc-evo" class="tag-link-50" title="1 topic" style="font-size: 12pt;">Root HTC EVO</a> <a href="http://thedroidpeople.com/tag/rooting" class="tag-link-39" title="2 topics" style="font-size: 15.6pt;">Rooting</a> <a href="http://thedroidpeople.com/tag/rooting-android-devices" class="tag-link-38" title="1 topic" style="font-size: 12pt;">Rooting Android Devices</a> <a href="http://thedroidpeople.com/tag/run-android-os-on-netbook" class="tag-link-8" title="1 topic" style="font-size: 12pt;">Run Android OS on Netbook</a> <a href="http://thedroidpeople.com/tag/smartphone-apps" class="tag-link-31" title="1 topic" style="font-size: 12pt;">Smartphone Apps</a> <a href="http://thedroidpeople.com/tag/swype-keyboard" class="tag-link-29" title="1 topic" style="font-size: 12pt;">Swype Keyboard</a> <a href="http://thedroidpeople.com/tag/trick-to-backup-android-phone" class="tag-link-23" title="1 topic" style="font-size: 12pt;">Trick to Backup Android Phone</a> <a href="http://thedroidpeople.com/tag/trick-to-unlock-android-phone" class="tag-link-21" title="1 topic" style="font-size: 12pt;">Trick to Unlock Android Phone</a> <a href="http://thedroidpeople.com/tag/unlock-android-phone" class="tag-link-19" title="1 topic" style="font-size: 12pt;">Unlock Android Phone</a> <a href="http://thedroidpeople.com/tag/upload-videos-from-android" class="tag-link-49" title="1 topic" style="font-size: 12pt;">Upload Videos from Android</a> <a href="http://thedroidpeople.com/tag/useful-android-productivity-tools" class="tag-link-37" title="1 topic" style="font-size: 12pt;">Useful Android Productivity Tools</a> <a href="http://thedroidpeople.com/tag/wapedia" class="tag-link-44" title="1 topic" style="font-size: 12pt;">Wapedia</a></div></div></div></div><div id="z-authors-2" class="widget authors"><h3>Top Authors</h3><img alt="" src="http://0.gravatar.com/avatar/a0058eb871ced8f8c8d83de3fcf848ff?s=50&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&amp;r=G" class="avatar avatar-50 photo" height="50" width="50"><a href="http://thedroidpeople.com/author/aakashsingh" title="Posts by Aakash Singh">Aakash Singh</a> (1)<br><div class="zauthors-block"><a class="url" href="mailto:amey.bester@gmail.com" title="Email to amey.bester@gmail.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/email-profile.png"></a></div><div style="clear:both;">&nbsp;</div><img alt="" src="http://1.gravatar.com/avatar/dad82bb2869544f0587e549358e8bfed?s=50&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&amp;r=G" class="avatar avatar-50 photo" height="50" width="50"><a href="http://thedroidpeople.com/author/amansinghseo" title="Posts by Ben Sherman">Ben Sherman</a> (1)<br><div class="zauthors-block"><a class="url" href="mailto:amansinghseo@outlook.com" title="Email to amansinghseo@outlook.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/email-profile.png"></a><a class="url" href="http://seoinsiter.com" title="Visit http://seoinsiter.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/site-profile.png"></a></div><div style="clear:both;">&nbsp;</div><img alt="" src="http://0.gravatar.com/avatar/ea504acfcb9421ccde8298a574dfde61?s=50&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&amp;r=G" class="avatar avatar-50 photo" height="50" width="50"><a href="http://thedroidpeople.com/author/debasis" title="Posts by Debasis">Debasis Pradhan</a> (22)<br><div class="zauthors-block"><a class="url" href="mailto:bapidebu@gmail.com" title="Email to bapidebu@gmail.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/email-profile.png"></a><a class="url" href="http://digitalgyaan.com/" title="Visit http://digitalgyaan.com/"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/site-profile.png"></a></div><div style="clear:both;">&nbsp;</div><img alt="" src="http://1.gravatar.com/avatar/72c1d6b659d5c129073820ce7b30d469?s=50&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&amp;r=G" class="avatar avatar-50 photo" height="50" width="50"><a href="http://thedroidpeople.com/author/donnabaxter" title="Posts by donnabaxter">donnabaxter</a> (3)<br><div class="zauthors-block"><a class="url" href="mailto:baxter.donna2@gmail.com" title="Email to baxter.donna2@gmail.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/email-profile.png"></a></div><div style="clear:both;">&nbsp;</div><img alt="" src="http://1.gravatar.com/avatar/52535f1ee976650bbc32cf6c9795596c?s=50&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&amp;r=G" class="avatar avatar-50 photo" height="50" width="50"><a href="http://thedroidpeople.com/author/jaychowdhury" title="Posts by jaychowdhury">jaychowdhury</a> (1)<br><div class="zauthors-block"><a class="url" href="mailto:jay.chowdhury91@gmail.com" title="Email to jay.chowdhury91@gmail.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/email-profile.png"></a></div><div style="clear:both;">&nbsp;</div><img alt="" src="http://1.gravatar.com/avatar/187252eb21245b1ec8c66550f0663823?s=50&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&amp;r=G" class="avatar avatar-50 photo" height="50" width="50"><a href="http://thedroidpeople.com/author/seolink-kanchan" title="Posts by Kanchan">Kanchan Bhattacharjee</a> (1)<br><div class="zauthors-block"><a class="url" href="xmpp:seolink.kanchan@gmail.com@jabberservice.com" title="IM with seolink.kanchan@gmail.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/jabber-profile.png"></a><a class="url" href="ymsgr:sendIM?seolink.kanchan2012@yahoo.com" title="IM with seolink.kanchan2012@yahoo.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/yahoo-profile.png"></a><a class="url" href="mailto:seolink.kanchan@gmail.com" title="Email to seolink.kanchan@gmail.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/email-profile.png"></a></div><div style="clear:both;">&nbsp;</div><img alt="" src="http://0.gravatar.com/avatar/cf10658a447d15d8705bb8508fa95e05?s=50&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&amp;r=G" class="avatar avatar-50 photo" height="50" width="50"><a href="http://thedroidpeople.com/author/mikearora" title="Posts by mikearora">Mike Arora</a> (1)<br><div class="zauthors-block"><a class="url" href="mailto:moneyarora22@gmail.com" title="Email to moneyarora22@gmail.com"><img src="http://thedroidpeople.com/wp-content/plugins/authors-widget//images/email-profile.png"></a></div><div style="clear:both;">&nbsp;</div></div><div id="text-5" class="widget widget_text"><div class="textwidget"><a href="http://www.alexa.com/siteinfo/http://thedroidpeople.com/"><script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/s/a?url=http://thedroidpeople.com/"></script></a></div></div><div id="text-7" class="widget widget_text"><div class="textwidget"><center><script type="text/javascript" src="http://ap.lijit.com///www/delivery/fpi.js#?z=169588&amp;u=digitalgyaan&amp;width=300&amp;height=250"></script></center></div></div></div></div></div><div id="footer" class="col-full"><div id="copyright" class="col-left"><p>© 2012 The Droid People. All Rights Reserved.</p></div><div id="credit" class="col-right"><p></p><p>Developed by <a href="http://maxdesigningstudio.com/" title="Max Designing Studio" target="_blank">Max Designing Studio</a></p><p></p></div></div></div><div class="fix"></div> <!--[if lt IE 9]><script src="http://thedroidpeople.com/wp-content/themes/TheDroidPeople/includes/js/respond-ie.js"></script><![endif]--> <script type="text/javascript">
+jQuery(document).ready(function(){
+	// UL = .wooTabs
+	// Tab contents = .inside
+
+	var tag_cloud_class = '#tagcloud';
+
+	//Fix for tag clouds - unexpected height before .hide()
+	var tag_cloud_height = jQuery( '#tagcloud').height();
+
+	jQuery( '.inside ul li:last-child').css( 'border-bottom','0px' ); // remove last border-bottom from list in tab content
+	jQuery( '.wooTabs').each(function(){
+		jQuery(this).children( 'li').children( 'a:first').addClass( 'selected' ); // Add .selected class to first tab on load
+	});
+	jQuery( '.inside > *').hide();
+	jQuery( '.inside > *:first-child').show();
+
+	jQuery( '.wooTabs li a').click(function(evt){ // Init Click funtion on Tabs
+
+		var clicked_tab_ref = jQuery(this).attr( 'href' ); // Strore Href value
+
+		jQuery(this).parent().parent().children( 'li').children( 'a').removeClass( 'selected' ); //Remove selected from all tabs
+		jQuery(this).addClass( 'selected' );
+		jQuery(this).parent().parent().parent().children( '.inside').children( '*').hide();
+
+		jQuery( '.inside ' + clicked_tab_ref).fadeIn(500);
+
+		 evt.preventDefault();
+
+	})
+})
+</script><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js?ver=3.4.2#xfbml=1"></script><script type="text/javascript" src="http://platform.linkedin.com/in.js?ver=3.4.2"></script><script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js?ver=3.4.2"></script><script type="text/javascript" src="https://platform.twitter.com/widgets.js?ver=3.4.2"></script><script type="text/javascript">
+var sc_project=8232898; 
+var sc_invisible=1; 
+var sc_security="815d7ea0"; 
+</script><script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a
+title="web stats"
+href="http://statcounter.com/free-web-stats/"
+target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/8232898/0/815d7ea0/1/"
+alt="web stats"></a></div></noscript>
+<!-- Served from: thedroidpeople.com @ 2012-09-20 01:23:59 by W3 Total Cache --></body></html>
