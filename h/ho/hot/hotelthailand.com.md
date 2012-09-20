@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelthailand.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511101206id_/http%3A//www.hotelthailand.com/customer_center/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelthailand.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920065023id_/http%3A//www.hotelthailand.com/customer_center/privacy_policy.html) for the most accurate reproduction.*
 
 # Hotel Thailand Privacy Policy Information - Thailand Hotels-large selection of hotels and resorts in Thailand, find your accommodations online.
 
