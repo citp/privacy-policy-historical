@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsms.co.za privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509112203id_/http%3A//www.winsms.co.za/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsms.co.za privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920032453id_/http%3A//winsms.co.za/privacy.asp) for the most accurate reproduction.*
 
 # WinSMS Privacy Policy
 
