@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexarticlebase.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508235818id_/http%3A//apexarticlebase.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexarticlebase.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920024820id_/http%3A//www.apexarticlebase.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
