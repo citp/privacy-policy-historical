@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yadig.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626074756id_/http%3A//www.yadig.com/general/Static/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yadig.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920060949id_/http%3A//www.yadig.com/general/Static/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - YaDig.com
 
-This privacy policy (Privacy Policy), together with the [Terms of Use](https://web.archive.org/web/20120626074756id_/http%3A//www.yadig.com/general/Static/terms-service.aspx) in relation to this website (Site) and any other documents referred to in it, sets out the basis on which any personal data YaDig (we, us, our) collects from customers, visitors and users of the Site (you, your), or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how it will be treated.
+This privacy policy (Privacy Policy), together with the [Terms of Use](https://web.archive.org/web/20120920060949id_/http%3A//www.yadig.com/general/Static/terms-service.aspx) in relation to this website (Site) and any other documents referred to in it, sets out the basis on which any personal data YaDig (we, us, our) collects from customers, visitors and users of the Site (you, your), or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how it will be treated.
 
 We value the relationship we have with you, and we are committed to responsible information handling practices. We take your privacy very seriously and want you to feel comfortable whenever you visit the Site or provide us with your personal information. If you do not accept the terms of this Privacy Policy, then you must stop using or accessing the Site. 
 
@@ -40,7 +40,7 @@ We may disclose your personal information to third parties in the following circ
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * If all or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to: (a) comply with any legal obligation; (b) enforce or apply the [Terms of Use](https://web.archive.org/web/20120626074756id_/http%3A//www.yadig.com/general/Static/terms-service.aspx) and/or any other agreements; or (c) protect our rights, property or safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal data in order to: (a) comply with any legal obligation; (b) enforce or apply the [Terms of Use](https://web.archive.org/web/20120920060949id_/http%3A//www.yadig.com/general/Static/terms-service.aspx) and/or any other agreements; or (c) protect our rights, property or safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
