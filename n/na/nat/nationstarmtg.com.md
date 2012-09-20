@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505152848id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Nationstar Mortgage | Privacy Policy
 
 At Nationstar Mortgage, customer service, trust and confidence is a high priority. That's why we welcome this opportunity to describe our privacy policies, the steps we take to protect and maintain your information and to let you know how you can choose how your customer information may be shared. 
 
-Please see our [Consumer Privacy Notice](https://web.archive.org/Content/documents/ConsumerPrivacyNotice.pdf) for a full explanation of how we collect, use and share personal information and what steps you can take to limit sharing of your information. 
+Please see our [Consumer Privacy Notice](https://web.archive.org/Content/documents/ConsumerPrivacyNotice.pdf) for a full explanation of how we collect, use and share personal information and what steps you can take to limit sharing of your information. ([California Residents](https://web.archive.org/Content/documents/CaliforniaPrivacyNotice.pdf)) 
 
 ###  Information Collection
 
@@ -42,7 +42,7 @@ Within the Nationstar Mortgage family of companies, we may share the customer in
 
 
 
-If you prefer that we not share non-experience information about you with an affiliate of Nationstar Mortgage, you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-480-2432. 
+If you prefer that we not share non-experience information about you with an affiliate of Nationstar Mortgage, you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-480-2432, or by filling out and returning the form in this [Consumer Privacy Notice](https://web.archive.org/Content/documents/ConsumerPrivacyNotice.pdf). ([California Residents](https://web.archive.org/Content/documents/CaliforniaPrivacyNotice.pdf)) 
 
 ####  With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law
 
@@ -75,7 +75,7 @@ We may disclose some or all of the information that we collect (described in the
 
 
 
-If you prefer that we not share nonpublic personal information about you with non-affiliated companies and organizations as described in this section (except information described above under Information Sharing "With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law"), you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-480-2432.
+If you prefer that we not share nonpublic personal information about you with non-affiliated companies and organizations as described in this section (except information described above under Information Sharing "With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law"), you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-480-2432, or by filling out and returning the form in this [Consumer Privacy Notice](https://web.archive.org/Content/documents/ConsumerPrivacyNotice.pdf). ([California Residents](https://web.archive.org/Content/documents/CaliforniaPrivacyNotice.pdf)).
 
 ###  Maintenance of Accurate Information
 
@@ -89,7 +89,7 @@ If you pay off your account with Nationstar Mortgage, your account is later sold
 
 This policy is provided by Nationstar Mortgage and its subsidiaries.
 
-You may [opt out](https://web.archive.org/web/20120505152848id_/https%3A//www.nationstarmtg.com/OptOut.aspx) as described in this Privacy Policy by calling us toll-free at 1-888-480-2432 and indicating your opt out preferences as outlined below. You do not need to notify us if you have decided not to opt out. It may take up to four to six weeks to process your request. If at a later time you wish to change these opt out instructions, please contact our customer service department at 1-888-480-2432.
+You may opt out as described in this [Privacy Policy](https://web.archive.org/Content/documents/ConsumerPrivacyNotice.pdf) You do not need to notify us if you have decided not to opt out. It may take up to four to six weeks to process your request. If at a later time you wish to change these opt out instructions, please contact our customer service department at 1-888-480-2432
 
 Upon contacting the customer service department at the above listed toll-free number, your opt-out choices will be as reflected below.  
 
@@ -133,12 +133,12 @@ You can respond to Nationstar secure emails with secure replies, and there is al
 
 ####  Where can I get more information?
 
-[Secure Email User Guide](https://web.archive.org/web/20120505152848id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailUserGuide.pdf)  
-[ Secure Email Quick Reference](https://web.archive.org/web/20120505152848id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailQuickReference.pdf)
+[Secure Email User Guide](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailUserGuide.pdf)  
+[ Secure Email Quick Reference](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailQuickReference.pdf)
 
 ####  Privacy Options and Solicitations
 
-  * To make privacy elections, [click here](https://web.archive.org/web/20120505152848id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
-  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20120505152848id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
+  * To make privacy elections, [click here](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
+  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
 
 
