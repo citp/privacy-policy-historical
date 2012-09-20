@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isitdownrightnow.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422042243id_/http%3A//www.isitdownrightnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isitdownrightnow.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055906id_/http%3A//www.isitdownrightnow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Is It Down Right Now
 
@@ -28,26 +28,26 @@ Latest Sites Checked
 
 Server is up. Last checked 0 seconds ago.
 
-Server is up. Last checked 0 seconds ago.
+Server is down. Last checked 0 seconds ago.
 
 Server is up. Last checked 0 seconds ago.
 
+Server is down. Last checked 0 seconds ago.
+
 Server is up. Last checked 0 seconds ago.
 
-Server is down. Last checked 1 minutes ago.
-
-Server is up. Last checked 1 minutes ago.
+Server is down. Last checked 0 seconds ago.
 
 Recorded Website Downs
 
-Server is down. Last checked 1 minutes ago.
+Server is down. Last checked 0 seconds ago.
 
-Server is down. Last checked 4 minutes ago.
+Server is down. Last checked 0 seconds ago.
 
-Server is down. Last checked 7 minutes ago.
+Server is down. Last checked 0 seconds ago.
 
-Server is down. Last checked 11 minutes ago.
+Server is down. Last checked 0 seconds ago.
 
-Server is down. Last checked 14 minutes ago.
+Server is down. Last checked 3 mins ago.
 
-Server is down. Last checked 14 minutes ago.
+Server is down. Last checked 5 mins ago.
