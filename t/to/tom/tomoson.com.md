@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tomoson.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509044823id_/http%3A//www.tomoson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomoson.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920045846id_/http%3A//www.tomoson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tomoson
 
 This Privacy Policy describes Tomoson’s policies and procedures on the collection, use and disclosure of your information. Tomoson receives your information through our website. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Tomosonin the United States or any other country where Tomoson operates.
 
-### Information Collection and Use
+## Information Collection and Use
 
 We collect and use your information to provide our Services and improve them over time.
 
@@ -18,7 +18,7 @@ We collect and use your information to provide our Services and improve them ove
 
 **Third Party Services:** Tomoson uses a variety of services hosted by third parties to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
 
-### Information Sharing and Disclosure
+## Information Sharing and Disclosure
 
 Tip We do not disclose your private information except in the limited circumstances described here.
 
@@ -32,7 +32,7 @@ Tip We do not disclose your private information except in the limited circumstan
 
 **Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public promotions or the number of users who clicked on a particular link (even if only one did).
 
-### Third Party Services
+## Third Party Services
 
 Tomoson uses a variety of services hosted by third parties to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
 
@@ -43,15 +43,15 @@ Tomoson uses a variety of services hosted by third parties to help provide our S
 
 
 
-### Modifying Your Personal Information
+## Modifying Your Personal Information
 
 If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account.
 
-### Our Policy Towards Children
+## Our Policy Towards Children
 
 Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
-### Changes to this Policy
+## Changes to this Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [/privacy-policy](https://web.archive.org/privacy-policy). By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
