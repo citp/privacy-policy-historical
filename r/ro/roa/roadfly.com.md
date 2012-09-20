@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadfly.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428073920id_/http%3A//www.roadfly.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadfly.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920172725id_/http%3A//www.roadfly.com/about/privacy) for the most accurate reproduction.*
 
 # Roadfly.com Privacy Policy | Roadfly.com: Car Reviews & Road Tests
 
