@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasheets.org.uk privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601035929id_/http%3A//www.datasheets.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheets.org.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920085707id_/http%3A//www.datasheets.org.uk/privacy.html) for the most accurate reproduction.*
 
 # Advertising Cookie, Datasheet Collection, and Privacy Policies | Datasheets.org.uk
 
