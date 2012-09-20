@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the avoyatravel.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505003317id_/http%3A//www.avoyatravel.com/About/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avoyatravel.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042446id_/http%3A//www.avoyatravel.com/About/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Avoya Travel
 
 #### Privacy Policy
 
-We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the Personally Identifiable Information (“PII”) you provide us. Avoya Travel, LLC, its Independent Affiliates and business partners (“Avoya Travel”) conduct business under various registered trade names including but not limited to Avoya Travel®, Avoya Travel®, Avoya®, and its affiliate Rev Agency, LLC. This Avoya Travel Privacy Policy (the “Privacy Policy”) describes the principles and practices that apply to the PII collected from the users of our services (“you”) via our website, telephone or email communications, contests, or other surveys and interactions.
+We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the Personally Identifiable Information (“PII”) you provide us. America's Vacation Center, LLC, its Independent Affiliates and business partners (“Avoya Travel”) conduct business under various registered trade names including but not limited to Avoya Travel®, Avoya Travel®, Avoya®, and its affiliate Rev Agency, LLC. This Avoya Travel Privacy Policy (the “Privacy Policy”) describes the principles and practices that apply to the PII collected from the users of our services (“you”) via our website, telephone or email communications, contests, or other surveys and interactions.
 
 This Privacy Policy applies to the website [www.AvoyaTravel.com](http://www.avoyatravel.com/) (“Avoya Travel®”), and to any other Avoya Travel domestic or international-owned websites that may be accessed through it.
 
@@ -82,7 +82,7 @@ From time to time, we may Disclose PII as follows:
 
 If you are a Member of [www.AvoyaTravel.com](http://www.avoyatravel.com/) , we store your PII in the account overview of each user's “My Account” profile. The “My Account” profile consists of address and contact information, marketing preferences, a travel preferences section, and a messaging and alert section for communications between you and Avoya Travel. You can access you account information via the “My Account” hyperlink from the homepage of our website, after logging onto the website as a registered Member.
 
-“My Account” contains a listing of the e-mails, e-newsletters and other communications we offer to send, and that you have elected to receive or not.
+In the "My Account" profile, Members can choose whether or not they’d like to continue to receive e-newsletters, and other communications we offer.
 
 We will retain your PII in our databases in accordance with our records management policy and applicable laws. While this information may be periodically purged, the retention period may extend beyond the end of your relationship with us. We may also need to retain certain information to prevent fraudulent activity; to protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain; or if we believe in good faith that a law, regulation, rule or guideline requires it.
 
