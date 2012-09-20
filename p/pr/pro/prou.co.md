@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prou.co privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502072401id_/http%3A//prou.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prou.co privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920020905id_/http%3A//prou.co/privacy-policy) for the most accurate reproduction.*
 
-# PRO U
+# PRO U » Privacy Policy
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence. 
 
