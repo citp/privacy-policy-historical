@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvvilla.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629051350id_/http%3A//tvvilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvvilla.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920135613id_/http%3A//tvvilla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TvVilla
+# Privacy Policy : TvVilla
 
 tvvilla.com Privacy Policy
 
