@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshdeals.com privacy policy that was archived on 2012-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120206023039id_/http%3A//www.freshdeals.com/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdeals.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920182834id_/http%3A//www.freshdeals.com/index/privacypolicy) for the most accurate reproduction.*
 
 # FreshDeals.com | Privacy Policy
 
@@ -10,9 +10,13 @@ Fresh Deals collects information from you when you sign in with Facebook, ask or
 
 If you wish to unsubscribe from Fresh Deals emails or notifications please visit: [http://www.Fresh Deals.com/unsubscribe](http://www.freshdeals.com/unsubscribe "http://www.FreshDeals.com/unsubscribe").
 
-**Information from other sources** We may periodically obtain both personal and non-personal information about you from other businesses, business partners, and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
+**Information from other sources**
 
-**Information about others** We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) information that may interest them or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient.
+We may periodically obtain both personal and non-personal information about you from other businesses, business partners, and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
+
+**Information about others**
+
+We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) information that may interest them or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient.
 
 Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website.
 
@@ -22,10 +26,14 @@ Please refer to the 'do we use cookies?' section below for information about coo
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+To personalize your experience (your information helps us to better respond to your individual needs).
+
+To improve customer service (your information helps us to more effectively respond to your customer. servicerequests and support needs)
+
+To administer a contest, promotion, survey or other site feature.
+
+To send periodic emails.
+
 
 
 
@@ -47,7 +55,7 @@ We want you to feel confident using our website to transact business. However, n
 
 #### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -57,7 +65,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-#### Third party links
+#### Third Party Links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
