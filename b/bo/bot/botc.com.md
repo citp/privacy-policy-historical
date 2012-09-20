@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botc.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502084225id_/https%3A//www.botc.com//go/corporate-info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botc.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920041953id_/https%3A//www.botc.com//go/corporate-info/privacy-statement) for the most accurate reproduction.*
 
 # Bank of the Cascades: Privacy Notice
 
