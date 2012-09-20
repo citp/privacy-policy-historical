@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128202646id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055610id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # JTB Global Marketing & Travel : Privacy Policy
 
@@ -22,9 +22,9 @@ We see the reliable protection of personal information of our customers and othe
 [](http://privacymark.org/)
 
 February 27, 2007 (Established)  
-August 9, 2011 (Revised)  
+June 13, 2012 (Revised)  
 JTB Global Marketing & Travel  
-Fukagawa Saburo, President & CEO  
+Hisanori Zama, President & CEO  
 Personal Protection Section  
 Phone Number: 03-5796-5400
 
