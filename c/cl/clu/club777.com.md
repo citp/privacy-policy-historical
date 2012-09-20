@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the club777.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628050931id_/http%3A//www.club777.com/about/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the club777.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920060627id_/http%3A//www.club777.com/about/security-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy Information - Club777.com
 
