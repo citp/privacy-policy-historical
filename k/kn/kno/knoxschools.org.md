@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knoxschools.org privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924205021id_/http%3A//knoxschools.org/privacy.phtml%3Fsessionid%3D5ca49dd3dd45213101fbe0c557b82693) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoxschools.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920035047id_/http%3A//knoxschools.org/privacy.phtml) for the most accurate reproduction.*
 
 # Knox County Schools
 
