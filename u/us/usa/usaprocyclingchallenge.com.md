@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usaprocyclingchallenge.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628181219id_/http%3A//www.usaprocyclingchallenge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaprocyclingchallenge.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055819id_/http%3A//www.usaprocyclingchallenge.com/privacy) for the most accurate reproduction.*
 
-# Privacy | USA Pro Cycling Challenge
+# Privacy | USA Pro Challenge
 
 “USA Pro Cycling Challenge” recognizes its obligation to adhere to the highest standards of integrity for visitors to its website located at [www.usaprocyclingchallenge.com](http://www.usaprocyclingchallenge.com/) (the “USA Pro Cycling Challenge Website”). We have developed certain privacy practices in order to maintain these standards and to comply with applicable laws, rules and regulations, including the Children’s Online Privacy Practices Act (“COPPA”). If you have any questions or comments about this site, or the Privacy Policy, you should contact the [**Webmaster**](mailto:info@usaprocyclingchallenge.com) or call 303-592-3800.
 
