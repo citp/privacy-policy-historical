@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620195135id_/http%3A//www.tieto.com/misc/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922012446id_/http%3A//www.tieto.com/misc/privacy-statement) for the most accurate reproduction.*
 
 # Tieto website privacy statement
 
@@ -73,11 +73,11 @@ If you have any questions regarding this Privacy Statement or if you are concern
 
 Files description related to the processing of personal data under this Website for marketing and communication purposes is attached as a file below.
 
-[Download file description](https://web.archive.org/archive/materials/misc/privacy-statement---file-description/File_description_tieto.com_2011-06-03.pdf "Privacy statement - file description") (pdf)
+[Download file description](https://web.archive.org/archive/materials/misc/privacy-statement---file-description/File_description_tieto.com_2011-06-03.pdf?version=2 "Privacy statement - file description") (pdf)
 
 File description related to processing of personal data under this Website for recruitment and HR purposes is attached as file below.
 
-[Download file description - recruitment](https://web.archive.org/archive/materials/misc/file-description---recruitment-pdf/iRECRUITMENT_Description-of-file_Data-protection-template_490635_4_June2011.pdf "Privacy statement - file description - recruitment \(pdf\)") (pdf)
+[Download file description - recruitment](https://web.archive.org/archive/materials/misc/file-description---recruitment-pdf/iRECRUITMENT_Description-of-file_Data-protection-template_490635_4_June2011.pdf?version=2 "Privacy statement - file description - recruitment \(pdf\)") (pdf)
 
 ### Changes to the Privacy Statement
 
