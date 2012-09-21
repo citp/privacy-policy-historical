@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609185725id_/http%3A//www.moon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921180322id_/http%3A//www.moon.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Commitment To Privacy | MOON TRAVEL GUIDES
 
@@ -131,7 +131,7 @@ Our business changes constantly, and our Privacy Notice and the Terms of Use wil
 Related Practices and Information  
 • [Terms of Use](https://web.archive.org/terms_of_use)  
 • [Community Participation Guidelines](https://web.archive.org/community_participation_guidelines)  
-• [Copyright](https://web.archive.org/web/20120609185725id_/http%3A//www.moon.com/copyright)
+• [Copyright](https://web.archive.org/web/20120921180322id_/http%3A//www.moon.com/copyright)
 
 ### How To Contact Us
 
