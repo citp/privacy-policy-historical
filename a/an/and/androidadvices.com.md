@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androidadvices.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616040048id_/http%3A//androidadvices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidadvices.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921092441id_/http%3A//androidadvices.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Android Advices : Android Advices
+# Privacy Policy - Android Advices
 
 The privacy of our visitors is important to us.
 
