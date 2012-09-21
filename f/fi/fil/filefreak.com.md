@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filefreak.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626153736id_/http%3A//www.filefreak.com/help.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefreak.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921114717id_/http%3A//www.filefreak.com/help.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # FileFreak.com - Free MP3 Hosting, Upload MP3s, Host Your MP3s
 
