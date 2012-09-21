@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponfollow.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505041633id_/http%3A//couponfollow.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponfollow.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921062204id_/http%3A//couponfollow.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -26,4 +26,4 @@ Our site contains links to other websites. We are not responsible for the practi
 
 If we change any portion of our policy in the ongoing development of our Web site, these changes will be posted at this page and the date the policy has been updated will be reflected at the bottom of the page. Under the circumstance that any change is made to the collection or distribution of personal information, we will attempt notify you via email if it has been collected.
 
-Page last updated 9 months ago
+Page last updated 1 year ago
