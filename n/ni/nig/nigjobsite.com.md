@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigjobsite.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530101654id_/http%3A//nigjobsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigjobsite.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921101033id_/http%3A//nigjobsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigeria Jobs Vacancies and Careers
 
