@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrollu.edu privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213736id_/http%3A//www.carrollu.edu/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrollu.edu privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922005808id_/http%3A//carrollu.edu/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # Carroll University :: Private Policy
 
