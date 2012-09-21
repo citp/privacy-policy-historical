@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makewpeasy.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615092658id_/http%3A//makewpeasy.com/sitepages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makewpeasy.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921234814id_/http%3A//makewpeasy.com/sitepages/privacy) for the most accurate reproduction.*
 
 # 
 
