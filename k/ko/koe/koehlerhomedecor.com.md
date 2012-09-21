@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koehlerhomedecor.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607014508id_/http%3A//www.koehlerhomedecor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koehlerhomedecor.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921120224id_/http%3A//www.koehlerhomedecor.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Koehler Home Decor Privacy & Security Policies
 
@@ -26,7 +26,7 @@ Koehler Home Décor would like to assure you that we do **not** :
 Koehler Home Décor does: 
   * Safeguard customers' information from unauthorized access. 
   * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs (e.g. customer care or new products or services.) 
-  * Honor customers' requests to remove their names from our e-mail solicitation lists. (Just [contact us](https://web.archive.org/web/20120607014508id_/http%3A//www.koehlerhomedecor.com/contact.html).) 
+  * Honor customers' requests to remove their names from our e-mail solicitation lists. (Just [contact us](https://web.archive.org/web/20120921120224id_/http%3A//www.koehlerhomedecor.com/contact.html).) 
   * Maintain confidentiality of customer information when undertaking projects with other companies. 
 
 
@@ -54,4 +54,4 @@ While we may gather this information, none of it is associated with you as an in
 
 We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
-If you have any questions about our Privacy Policy, please do not hesitate to [contact us](https://web.archive.org/web/20120607014508id_/http%3A//www.koehlerhomedecor.com/contact.html).
+If you have any questions about our Privacy Policy, please do not hesitate to [contact us](https://web.archive.org/web/20120921120224id_/http%3A//www.koehlerhomedecor.com/contact.html).
