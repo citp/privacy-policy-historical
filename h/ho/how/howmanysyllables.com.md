@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howmanysyllables.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511043824id_/http%3A//www.howmanysyllables.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmanysyllables.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921081033id_/http%3A//www.howmanysyllables.com/privacy.html) for the most accurate reproduction.*
 
 # How Many Syllables . com - Privacy
 
@@ -41,7 +41,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
  **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at [http://www.HowManySyllables.com/childprivacy.html](https://web.archive.org/web/20120511043824id_/http%3A//www.howmanysyllables.com/childprivacy.html).
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at [http://www.HowManySyllables.com/childprivacy.html](https://web.archive.org/web/20120921081033id_/http%3A//www.howmanysyllables.com/childprivacy.html).
 
  **Online Privacy Policy Only**
 
