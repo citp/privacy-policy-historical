@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.net privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421153042id_/http%3A//www.sae.net/page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.net privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921092913id_/http%3A//www.sae.net/page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # Privacy Policy - Sigma Alpha Epsilon
 
@@ -16,7 +16,13 @@ Information about using our logo and images is available by contacting the commu
 
 ## Accessibility
 
-This website is designed to be accessible to visitors with disabilities and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at [webmaster@sae.net](mailto:webmaster@sae.net). 
+This website is designed to be accessible to visitors with disabilities and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at [webmaster@sae.net](mailto:webmaster@sae.net).
+
+## Credit Card Refund Policy
+
+Requests for membership dues refunds must be made in writing and directed to [mkilb@sae.net](mailto:mkilb@sae.net). SAE's policy is not to refund membership dues; the organization shall do so on a case by case basis upon approval of the appropiate personnel. Donations may be refunded if processed in error; please contact [Foundation@sae.net](mailto:Foundation@sae.net) for more information or assistance.
+
+SAE reserves the right to modify this Refund Policy at its discretion, or against any customer it believes is abusing this policy.  Any such revision or change will be binding and affective immediately after posting of the revised Refund Policy on SAE's website.
 
 ## Website Privacy Policy
 
@@ -46,7 +52,7 @@ For children who visit our site, special rules apply. We do not request personal
 
 ### Opt-Out or Change Your Contact Information
 
-Our site provides users the opportunity to opt out of receiving communications from us through a special online form. You may choose to receive only specific communications or none at all. You may also update your contact information previously provided to us through another online form. You cannot remove yourself from our database, but you can prevent unwanted communication. To change your subscription status, send us an e-mail at [webmaster@sae.net](mailto:webmaster@sae.net). 
+Our site provides users the opportunity to opt out of receiving communications from us through a special online form. You may choose to receive only specific communications or none at all. You may also update your contact information previously provided to us through another online form. You cannot remove yourself from our database, but you can prevent unwanted communication. To change your subscription status, send us an e-mail at [webmaster@sae.net](mailto:webmaster@sae.net).
 
 ### Questions about Our Policies
 
