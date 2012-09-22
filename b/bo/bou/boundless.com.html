@@ -1,676 +1,529 @@
-<!--The following is the downloaded HTML source of the boundless.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512060207id_/http%3A//www.boundless.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boundless.com privacy policy that was archived on 2012-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120922184333id_/http%3A//www.boundless.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/7475005.js"></script>
-    <title>Privacy Policy | Boundless</title>
-    <link rel="shortcut icon" type="image/png" href="/public/images/favicon.png">
-    <!-- / Open Graph goodness for facebook and the like -->
-    <meta property="og:title" content="Save Money. Study Faster. Ace the Class">
-    <meta property="og:type" content="company">
-    <meta property="og:image" content="http://www.boundless.com/public/images/logo_250px_sq.png">
-    <meta property="og:url" content="http://www.boundless.com">
-    <meta property="og:site_name" content="Boundless Learning">
-    <meta property="og:description" content="I'm one of the first in line for Boundless. Looking forward to never buying and using a textbook again. Join Me!">
-    <!-- / TODO -->
-    <!-- /%meta(property="og:app_id" content="") -->
-    <link href="/public/stylesheets/default.css?version=prod1183" type="text/css" rel="stylesheet" media="screen">
-    <script src="/public/javascripts/lib/jquery-1.6.4.min.js" type="text/javascript"></script>
-    <script src="/public/javascripts/lib/jquery.infieldlabel.min.js" type="text/javascript" charset="utf-8"></script>
-    <script type="text/javascript">
-      if (typeof console == "undefined" || typeof console.log == "undefined") var console = { log: function() {} };
-      <!-- /setup GA queue ahead of any other JS so all have access to it immediately. -->
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-23224386-6']);
-      _gaq.push(['_setDomainName', 'boundless.com']);
-      _gaq.push(['_trackPageview']);
-      <!-- /setup kissinsights -->
-      var _kiq = _kiq || [];
-      <!-- /make sure on left -->
-      _kiq.push(['options', { anchor: 'left' }]);
-    </script>
-  <style></style><style type="text/css">.highslide img {cursor: url(/public/javascripts/lib/highslide/graphics/zoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head>
-  <body id="" class="public">
-    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-    <div id="boundlessDomain" data-domain="www.boundlessnow.com"></div>
-    <script type="text/javascript">
+<meta charset="utf-8">
+<link href="http://assets.boundless.com/assets/favicon-94e1ad22f3abb1a4ee362771cf3c8643.ico" rel="shortcut icon" type="image/x-icon">
+<link href="http://assets.boundless.com/assets/touch_icons/apple-touch-icon-57-9b2f49e291e48137fa46273767ccda0b.png" rel="apple-touch-icon">
+<link href="http://assets.boundless.com/assets/touch_icons/apple-touch-icon-72-09cbb3c339a611381b6fafab4045490a.png" rel="apple-touch-icon" sizes="72x72">
+<link href="http://assets.boundless.com/assets/touch_icons/apple-touch-icon-114-2bddf3fae9ef17a84fe3657c4525f128.png" rel="apple-touch-icon" sizes="114x114">
+<link href="http://assets.boundless.com/assets/touch_icons/apple-touch-icon-144-039135fb610778f301a751617193d2c2.png" rel="apple-touch-icon" sizes="144x144">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=1120" name="viewport">
+<title>Boundless - Privacy</title>
+<meta content="" name="description">
+<meta content="" name="author">
+<link href="http://assets.boundless.com/assets/application-65eee53d743aba40dc1a47114c62c311.css" media="all" rel="stylesheet" type="text/css">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/7475005.js"></script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-c3f41613-b524-7e04-dfe0-b668b3d448f8"}); </script>
+
+<meta content="authenticity_token" name="csrf-param">
+<meta content="2ODn1391OqHcSlyLJscpkkc3dsskgyv2OmYZ4X0miCU=" name="csrf-token">
+<script>
   //<![CDATA[
-    // note: This should be moved to a proper coffeescript application
-
-    function doBoundlessFBLogin(response) {
-      var accessToken = getAccessTokenFromFBResponse(response);
-      
-      window.location.href="/login_facebook?facebook_token="+accessToken;
-    }
-
-    function doBoundlessLogout() {
-      window.location.href = "/logout";
-    }
-
-    function doBoundlessFBRegister(response) {
-      var accessToken = getAccessTokenFromFBResponse(response);
-
-      try {
-        _gaq.push(['_trackPageview', '/finished-register/facebook']);    
-      }
-      catch(e){
-        
-      }
-      
-      window.location.href = "/register_facebook?facebook_token=" + accessToken;
-    }
-
-    function getAccessTokenFromFBResponse(response) {
-      if(response.authResponse && response.authResponse.accessToken) {
-        return response.authResponse.accessToken;
-      } else {
-        return response.session.access_token;
-      }
-    }
-  //]]>
-</script>
-<script type="text/javascript">
-  //<![CDATA[
-    function handleFBLogin(response) {
-      // console.log("USER NOT LOGGED INTO BOUNDLESS - FB Login - user must have clicked login...");
-      // FB.api('/me', function(response) {
-        // $("#out").hide();
-        // $(".fb_welcome").text("Hi, "+response.name).show();
-        // $(".not_user").text("not "+response.first_name+"?").show();
-      // });
-      
-      doLoginAction(response)
-    }
-
-    function handleFBLogout(response) {
-      // console.log("USER NOT LOGGED INTO BOUNDLESS - FB Logout - how did this get triggered when the user was already logged out?");
-    }
-
-    function handleFBConnected(response) {
-      // console.log("USER NOT LOGGED INTO BOUNDLESS - FB is Connected - Do login.");
-      
-      // AUTOMATIC LOGIN IS BEING DISABLED FOR NOW BECAUSE USERS CANNOT REGISTER VIA FACEBOOK
-      // -- THEY'LL HAVE TO CLICK LOGIN VIA FACEBOOK
-      // Note that if enabled again, this is an infinite loop if the user doesn't exist in the db but is logged into facebook 
-      // (and they've authorized us with facebook, I believe - not verified if this happens if they haven't authed us)
-      
-      doLoginAction(response)
-    }
-
-    function handleFBNotConnected(response) {
-      // console.log("USER NOT LOGGED INTO BOUNDLESS - FB is Not Connected - Do nothing.");
-    }
-
-    function handleFBUndefined(response) {
-      // console.log("USER NOT LOGGED INTO BOUNDLESS - FB is Undefined - Do nothing.");
-    }
-
-    // Clicked Logout link
-    function doLogout() {
-      // console.log("USER NOT LOGGED INTO BOUNDLESS - How/why did user call logout when they're not logged in???");
-    }
-
-    function doLoginAction(response) {
-      var fbButton = $("a.fb_button")
-      if(fbButton.hasClass("hasBeenClicked")) {
-        if(fbButton.parents(".facebook_register_button").length > 0) {
-          doBoundlessFBRegister(response);
-        } else {
-          doBoundlessFBLogin(response);
-        }
-      }
-    }
+    window['optimizely'] = optimizely || [];
+    (function(c,a){var b,d,h,e;b=c.createElement("script");b.type="text/javascript";
+    b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
+    '//api.mixpanel.com/site_media/js/api/mixpanel.2.js';d=c.getElementsByTagName("script")[0];
+    d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
+    var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
+    Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
+    f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
+    'track_forms','register','register_once','unregister','identify','name_tag',
+    'set_config','people.set','people.increment'];for(e=0;e<h.length;e++)d(g,h[e]);
+    a._i.push([b,c,f])};a.__SV=1.1;window.mixpanel=a})(document,window.mixpanel||[]);
+    mixpanel.init("9ebc90f8e3f98c848273ae7044e4747e", {cross_subdomain_cookie: true, store_google: true, test: false, debug: false});
   //]]>
 </script>
 
 
-<script type="text/javascript">
-  //<![CDATA[
-    // note: This should be moved to a proper coffeescript application
-
-    function handleFBLoginStatus() {
-      FB.getLoginStatus(function(response) {
-        if (response.status != "unknown") {
-          if (response.status == "connected") {
-            handleFBConnected(response);
-            if(window.facebookConnectedFunctions) {
-              // call any functions that should be invoked after fb initializes
-              var numFunctions = window.facebookConnectedFunctions.length
-              for(var i=0; i<numFunctions; i++) {
-                window.facebookConnectedFunctions[i](response);
-              }
-            }
-          } else {
-            handleFBNotConnected(response);
-          }
-        } else {
-          handleFBUndefined(response);
-        }
-      });
-    }
-
-    window.fbAsyncInit = function() {
-      FB.init({appId: "187274497989009", status: true, cookie: true,  xfbml: true});
-
-      FB.Event.subscribe('auth.login', handleFBLogin);
-      FB.Event.subscribe('auth.statusChange', handleFBLoginStatus);
-      
-      handleFBLoginStatus();
-      
-      $("a.fb_button").live("click", function() {
-        $("a.fb_button").addClass("hasBeenClicked");
-        handleFBLoginStatus();
-      });
-      
-      if(window.facebookInitFunctions) {
-        // call any functions that should be invoked after fb initializes
-        var numFunctions = window.facebookInitFunctions.length
-        for(var i=0; i<numFunctions; i++) {
-          window.facebookInitFunctions[i]();
-        }
-      }
-      
-    };
-    (function() {
-      var e = document.createElement('script'); e.async = true;
-      e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-      document.getElementById('fb-root').appendChild(e);
-    }());
-  //]]>
-</script>
-
-
-    <div id="more_info_popup" class="modal ">
-      <div class="curtain"></div>
-      <div class="lightbox">
-        <div class="outer_close_button"></div>
-        <div class="close_button">
-          <label>x</label>
-        </div>
-        <img class="ribbon" src="http://www.boundlessnow.com/public/images/overlay_ribbon_short.png">
-        <h2>Want more information before signing up?</h2>
-        <p>Let us show you the goods...</p>
-        <div class="left_side">
-          <a href="http://www.boundless.com/public/how_it_works" onclick="_gaq.push(['_trackPageview', '/v/are_you_sure/how_it_works_click'])">Read How it Works</a>
-        </div>
-        <div class="right_side">
-          <a href="http://www.boundless.com/books/4e1ae44df4830161cb5925b3" onclick="_gaq.push(['_trackPageview', '/v/are_you_sure/view_live_example'])">View Live Example</a>
-        </div>
-        <div class="clear"></div>
-
-      </div>
-    </div>
-
-    <div id="public_menu">
-      <div class="public_menu_contents">
-        <a href="/">
-          <div class="logo">
-            <div class="logo_img"></div>
-            <div class="logo_txt">BOUNDLESS</div>
-          </div>
-        </a>
-        <div class="authenticated">
-          <div class="logged_out">
-            <a class="login_button" href="/login">Sign In</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div id="flash_container" class="public">
-    </div>
-
-    <div class="wrapper">
-      <div id="info_content">
-        <table>
-          <thead>
-            <tr>
-              <th>Company</th>
-              <th>Follow Us</th>
-              <th>Support</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-      <td>
-        <a href="/about_us">About Us</a>
-      </td>
-      <td>
-        <a href="http://blog.boundless.com" target="_blank">Blog</a>
-      </td>
-      <td>
-        <a href="/contact_us">Contact Us</a>
-      </td>
-            </tr>
-            <tr>
-      <td>
-        <a href="/team">Team</a>
-      </td>
-      <td>
-        <a href="https://www.facebook.com/pages/Boundless/173217272739950" target="_blank">Facebook</a>
-      </td>
-      <td>
-        <a class="current" href="/privacy_policy">Privacy Policy</a>
-      </td>
-            </tr>
-            <tr>
-      <td>
-        <a href="/careers" target="_blank">Careers</a>
-      </td>
-      <td>
-        <a href="http://twitter.com/GoBoundless" target="_blank">Twitter</a>
-      </td>
-      <td>
-        <a href="/terms_of_service">Terms of Service</a>
-      </td>
-            </tr>
-            <tr>
-      <td>
-        <a href="/press">Press</a>
-      </td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr class="spacer">
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-      <h1 id="Privacy_Policy">Privacy Policy</h1>
-
-      <h2 id="Overview">Overview</h2>
-
-      <p>Boundless Learning, Inc. knows that you care how information about you is used and shared, and we
-      appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy
-      for boundless.com and its sub-domains (the “Site”).</p>
-
-      <p>If you have questions or concerns regarding this Privacy Policy, you should contact Boundless Learning by
-      emailing <a href="mailto:privacy@boundless.com">privacy@boundless.com</a>.</p>
-
-      <p>This privacy policy covers only information that is collected through the Site and does not cover
-      information that may be collected through software downloaded from the Site.</p>
-
-      <h2 id="Notice_of_Information_We_Collect_And_How_We_Use_It">Notice of Information We Collect And How We Use It</h2>
-
-      <p>Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient,
-      and customized experience. This allows us to provide services and features that most likely meet your
-      needs, and to customize our service to make your experience safer and easier. We only collect personal
-      information about you that we consider necessary for achieving this purpose.</p>
-
-      <p>In general, you can browse basic information on the Site without telling us who you are or revealing any
-      personal information about yourself. Once you give us your personal information, you are no longer
-      anonymous to us.</p>
-
-      <h2 id="Information_We_Collect_About_Anonymous_Visitors">Information We Collect About Anonymous Visitors</h2>
-
-      <p>We automatically track certain information based upon your behavior on the Site. We use this information
-      to do internal research on our users’ demographics, interests, and behavior to better understand, protect
-      and serve you and our community.</p>
-
-      <h3 id="Log_Files">Log Files</h3>
-
-      <p>Like many Web sites, we automatically gather certain information about our Site traffic and store it in
-      log files. This information includes Internet protocol (IP) addresses, browser type, Internet service
-      provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this
-      information, which does not identify individual users, to analyze trends, to administer the Site, to track
-      users’ movements around the Site and to gather demographic information about our user base.</p>
-
-      <p>We link this automatically collected data to personally identifiable information. IP addresses are tied to
-      personally identifiable information to improve the functionality of the service.</p>
-
-      <p>We use a third-party tracking service that uses log files and cookies to track non-personally identifiable
-      information about visitors to the Site in the aggregate. This service captures usage and volume statistics
-      to measure usage and conversion data.</p>
-
-      <h3 id="Cookies">Cookies</h3>
-
-      <p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use
-      cookies on this site. As noted above, we link the information we store in cookies to any personally
-      identifiable information you submit while on our site. This privacy policy covers the use of cookies by
-      the Site only and does not cover the use of cookies by any advertisers.</p>
-
-      <p>We use both session ID and persistent cookies.</p>
-
-      <p>A session ID cookie expires when you close you browser. We use session cookies to make it easier for you
-      to navigate our site.</p>
-
-      <p>A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent
-      cookies by following directions provided in your Internet browser’s “help” file.</p>
-
-      <p>We set a persistent cookie to store your password, so you don’t have to enter it more than once.
-      Persistent cookies also enable us to track and target the interests of our users to enhance the experience
-      on our site.</p>
-
-      <p>Some of our business partners (e.g., advertisers) use cookies on our Site. We have no access to or control
-      over these cookies. See “Third Party Advertisers.”</p>
-
-      <h3 id="Clear_Gifs__Web_Beacons_Web_Bugs_">Clear Gifs (Web Beacons/Web Bugs)</h3>
-
-      <p>We employ and our third party advertising partner may employ a software technology called clear gifs, also
-      referred to as web beacons or web bugs, that help manage content on the Site by tracking what content is
-      effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are
-      used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s
-      computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period
-      at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally
-      identifiable information.</p>
-
-      <p>We use clear gifs in our HTML-based emails to let us know which emails recipients have opened. This allows
-      us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
-      If you would like to opt-out of these emails, please see “Choice and Opt-out.”</p>
-
-      <h2 id="Information_We_Collect_To_Respond_To_Your_Choices_and_Requests">Information We Collect To Respond To Your Choices and Requests</h2>
-
-      <h3 id="Registration">Registration</h3>
-
-      <p>In order to use some features of this Site, you must first complete the registration form and create a
-      user name and password. During registration you are required to give truthful contact information (such as
-      name and email address) in accordance with our terms of use root-domain/terms. We use this information to
-      contact you about the services on our site in which you have expressed interest.</p>
-
-      <p>You have the option to provide demographic information (such as income level and preferred language of
-      communication) to us; we encourage you to submit this information so we can provide you a more
-      personalized experience on our site.</p>
-
-      <h3 id="Orders">Orders</h3>
-
-      <p>If you purchase a product or service from us, we request certain personally identifiable information from
-      you on our order form. You must provide contact information (such as name, email, and shipping address)
-      and financial information (such as a credit card number and expiration date).</p>
-
-      <p>We use this information for billing purposes and to fill your orders. If we have trouble processing an
-      order, we will use this information to contact you.</p>
-
-      <h3 id="Surveys_or_Contests">Surveys or Contests</h3>
-
-      <p>We may provide you the opportunity to participate in contests or surveys on our site. If you participate,
-      we will request certain personally identifiable information from you. The requested information typically
-      includes contact information (such as name and shipping address) and demographic information.</p>
-
-      <p>We use this information to notify contest winners and award prizes, to monitor site traffic, or to
-      personalize the site (in the case of anonymous information collected in surveys) and to send participants
-      an email newsletter.</p>
-
-      <p>We may use a third party service provider to conduct these surveys or contests; that company is not
-      prohibited from using our users’ personally identifiable information for any other purpose.</p>
-
-      <h3 id="Tell-A-Friend">Tell-A-Friend</h3>
-
-      <p>If you choose to use our referral service to tell a friend about our site, we will ask you for your
-      friend’s name and email address. We will automatically send your friend a one-time email inviting him or
-      her to visit the site. Boundless Learning stores this information for the sole purpose of sending this
-      one-time email and tracking the success of our referral program.</p>
-
-      <p>Your friend may contact us at root-domain to request that we remove this information from our database.</p>
-
-      <h3 id="Chat_Rooms">Chat Rooms</h3>
-
-      <p>If you choose to post messages in our chat rooms or other public message areas or leave feedback for other
-      users, we will collect the information you post. We retain this information as necessary to resolve
-      disputes, provide customer support and troubleshoot problems as permitted by law.</p>
-
-      <p>If you send us personal correspondence, such as emails or letters, or if other users or third parties send
-      us correspondence about your activities or postings on the Site, we may collect such information into a
-      file specific to you. We reserve the right to terminate the accounts of visitors who use these services in
-      a manner in consistent with the terms of use at root-domain/terms.</p>
-
-      <h3 id="Communication_from_Us_or_the_Site">Communication from Us or the Site</h3>
-
-      <h4 id="Special_Offers_and_Updates">Special Offers and Updates</h4>
-
-      <p>We may occasionally send you information on products, services, special deals, and promotions. You can
-      sign up for these emails from us on our registration page.</p>
-
-      <p>Out of respect for your privacy, we present the option not to receive these types of communications.
-      Please see the “Choice and Opt-out” section.</p>
-
-      <h4 id="Newsletters">Newsletters</h4>
-
-      <p>If you wish to subscribe to our newsletter(s), we will use your name and email address to send the
-      newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the
-      “Choice and Opt-out” section.</p>
-
-      <h4 id="Service-Related_Announcements">Service-Related Announcements</h4>
-
-      <p>We will send you strictly service-related announcements on rare occasions when it is necessary to do so.
-      For instance, if our service is temporarily suspended for maintenance, we might send you an email.</p>
-
-      <p>Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not
-      wish to receive them, you have the option to deactivate your account.</p>
-
-      <h3 id="Customer_Service">Customer Service</h3>
-
-      <p>Based upon the personally identifiable information you provide us, we will send you a welcoming email to
-      verify your username and password. We will communicate with you in response to your inquiries, to provide
-      the services you request, and to manage your account. We will communicate with you by email or telephone,
-      in accordance with your wishes.</p>
-
-      <h3 id="Profile">Profile</h3>
-
-      <p>We store information that we collect through cookies, log files, clear gifs, and/or third party sources to
-      create a “profile” of your preferences. We tie your personally identifiable information, and your
-      purchasing history, to information in the profile, in order to provide tailored promotions and marketing
-      offers and to improve the content of the site for you.</p>
-
-      <p>We share your profile to third parties in aggregate form only.</p>
-
-      <h3 id="Enhancement_of_Profile_Information">Enhancement of Profile Information</h3>
-
-      <p>We purchase marketing data from third parties and add it to our existing user database, to better target
-      our advertising and to provide pertinent offers in which we think you would be interested. To enrich our
-      Profiles of individual customers, we tie this information to the personally identifiable information they
-      have provided to us.</p>
-
-      <h2 id="Conditions_Under_Which_We_Share_Information">Conditions Under Which We Share Information</h2>
-
-      <h3 id="Aggregate_Information__Non-Personally_Identifiable_">Aggregate Information (Non-Personally Identifiable)</h3>
-
-      <p>We may share aggregated demographic information about our user base with our partners and advertisers.
-      This information does not identify individual users.</p>
-
-      <p>We do not link aggregate user data with personally identifiable information.</p>
-
-      <h3 id="Personally_Identifiable_Information">Personally Identifiable Information</h3>
-
-      <p>Except as discussed below, we do not share Personally Identifiable Information with Third Parties.</p>
-
-      <h2 id="Agents">Agents</h2>
-
-      <p>We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for
-      goods and services. These companies do not retain, share, store or use personally identifiable information
-      for any other purposes.</p>
-
-      <h2 id="Third_Party_Advertisers">Third Party Advertisers</h2>
-
-      <p>The ads appearing on this Web site are delivered to users by our advertising partner. We share Web site
-      usage information about users with our advertising partner for the purpose of targeting our Internet
-      banner advertisements on this site.</p>
-
-      <p>Our advertising partner may use cookies and clear GIFs on the Site, which allow it to recognize a user’s
-      cookie when a user visits the Site. The information that our advertising partner collects and shares
-      through this technology is not personally identifiable.</p>
-
-      <p>For more information about our third-party advertiser, or to learn more about the choices available to you
-      regarding this anonymous information, please contact 
-      <a href="mailto:privacy@boundless.com?subject=Third-Party advetiser"> privacy@boundless.com</a>.</p>
-
-      <h2 id="Legal_Disclaimer">Legal Disclaimer</h2>
-
-      <p>We reserve the right to disclose your personally identifiable information as required by law and when we
-      believe that disclosure is necessary to protect our rights; to comply with a judicial proceeding, court
-      order, or legal process served on us or the Site; or in connection with an actual or proposed corporate
-      transaction or insolvency proceeding involving all or part of the business or asset to which the
-      information pertains.</p>
-
-      <h2 id="Choice_Opt-out">Choice/Opt-out</h2>
-
-      <p>We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for
-      certain purposes, when we ask for this information. For example, if you purchase a product/service but do
-      not wish to receive any additional marketing material from us, you can indicate your preference on our
-      order form.</p>
-
-      <p>If you no longer wish to receive our newsletter and promotional communications, you may opt-out of
-      receiving them by following the instructions included in each newsletter or communication or by emailing
-      us at <a href="mailto:support@boundless.com">support@boundless.com</a>.</p>
-
-      <h2 id="Links_to_Other_Sites">Links to Other Sites</h2>
-
-      <p>The Site contains links to other sites that are not owned or controlled by boundless Learning. Please be
-      aware that we are not responsible for the privacy policies of such other sites.</p>
-
-      <p>We encourage you to be aware when you leave the Site and to read the privacy policies of each and every
-      Web site that collects personally identifiable information.</p>
-
-      <p>This privacy policy applies only to information collected by the Site.</p>
-
-      <h2 id="Access_to_Personally_Identifiable_Information">Access to Personally Identifiable Information</h2>
-
-      <p>If your personally identifiable information changes, or if you no longer desire our service, you may
-      correct, update, delete or deactivate it emailing our Customer Support at <a href="mailto:support@boundless.com">support@boundless.com</a>, or by
-      contacting us by postal mail at the contact information listed below.</p>
-
-      <h2 id="Security">Security</h2>
-
-      <p>The security of your personal information is important to us. When you enter sensitive information (such
-      as credit card number and/or social security number) on our registration or order forms, we encrypt that
-      information using secure socket layer technology (SSL).</p>
-
-      <p>We follow generally accepted industry standards to protect the personal information submitted to us, both
-      during transmission and once we receive it. No method of transmission over the Internet, or method of
-      electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable
-      means to protect your personal information, we cannot guarantee its absolute security.</p>
-
-      <p>If you have any questions about security on our Web site, you can email us at <a href="mailto:support@boundless.com">support@boundless.com</a>.</p>
-
-      <h2 id="Changes_in_this_Privacy_Policy">Changes in this Privacy Policy</h2>
-
-      <p>If we decide to change our privacy policy, we will post changes to this privacy policy and other places we
-      deem appropriate so that you are aware of what information we collect, how we use it, and under what
-      circumstances, if any, we disclose it.</p>
-
-      <p>We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make
-      changes that materially affect our uses or disclosures of personally identifiable information that we have
-      previously collected, we will notify you here, by email, or by means of a notice on our home page.</p>
-
-      <h2 id="Contact_Us">Contact Us</h2>
-
-      <p>If you have any questions or suggestions regarding our privacy policy, please contact us at:</p>
-
-      <blockquote>
-      <p><strong>Boundless Learning, Inc.</strong> <br>
-      164 Kneeland Street <br>
-      Boston, MA 02111</p>
-
-      <p><a href="http://www.boundless.com">boundless.com</a></p>
-
-      <p><a href="mailto:support@boundless.com?subject=General Query">support@boundless.com</a></p>
-      </blockquote>
-
-      <p><strong>Effective Date: April 4, 2012.</strong></p>
-
-
-    </div>
-
-    <div id="footer">
-  <div class="footer_container">
-    <hr class="footer_rule">
-    <div class="footer_content">
-      <ul>
-        <li>
-          <a class="gray" href="/about_us">About Us</a>
-        </li>
-        <li class="gray">|</li>
-        <li>
-          <a class="gray" href="/team">Team &amp; Advisors</a>
-        </li>
-        <li class="gray">|</li>
-        <li>
-          <a class="gray" href="/careers">Careers</a>
-        </li>
-        <li class="gray">|</li>
-        <li>
-          <a class="gray" href="/press">Press</a>
-        </li>
-        <li class="gray">|</li>
-        <li>
-          <a class="gray" href="/privacy_policy">Privacy Policy</a>
-        </li>
-        <li class="gray">|</li>
-        <li>
-          <a class="gray" href="/terms_of_service">Terms of Service</a>
-        </li>
-        <li class="gray">|</li>
-        <li>
-          <a class="gray" href="http://blog.boundless.com" target="_blank">Blog</a>
-        </li>
-      </ul>
-      <div class="creative_commons">
-        <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" title="Creative Commons">
-          <img src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" alt="Creative Commons">
-        </a>
-        <span>
-          Except where otherwise&nbsp;<a href="http://creativecommons.org/policies#license" target="_blank">noted</a>, content on this site is licensed under a
-          <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
-        </span>
-      </div>
-    </div>
-  </div>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+<body class="statics privacy">
+<header class="navbar navbar-fixed-top" id="header">
+<nav class="navbar-inner">
+<div class="container">
+<a href="/"><img alt="Boundless" class="brand" src="http://assets.boundless.com/assets/identity/header-logo-c357cb285a9c904fadfc0b0f0ac1f23b.png"></a>
+<div class="nav pull-right">
+<a href="http://app.boundless.com/#login" class="btn header-login" data-ajax="login" id="header-login_temp">Login</a>
+<a href="http://app.boundless.com/#register" class="btn btn-primary header-register cta" data-ajax="register" id="header-register_temp">Sign Up</a>
 </div>
 
-    <script type="text/javascript">
+</div>
+</nav>
+</header>
+<div id="main" role="main">
+
+<div class="container content">
+<div class="hero-unit hero-privacy-policy">
+<h1>Privacy Policy</h1>
+<h2>Overview</h2>
+<p>
+Boundless Learning, Inc. knows that you care how information about you is used and shared, and we
+appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy
+for boundless.com and its sub-domains (the “Site”).
+</p>
+<p>
+If you have questions or concerns regarding this Privacy Policy, you should contact Boundless Learning by
+emailing
+<a href="mailto:privacy@boundless.com">privacy@boundless.com</a>.
+</p>
+<p>
+This privacy policy covers only information that is collected through the Site and does not cover
+information that may be collected through software downloaded from the Site.
+</p>
+<h2>Notice of Information We Collect And How We Use It</h2>
+<p>
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient,
+and customized experience. This allows us to provide services and features that most likely meet your
+needs, and to customize our service to make your experience safer and easier. We only collect personal
+information about you that we consider necessary for achieving this purpose.
+</p>
+<p>
+In general, you can browse basic information on the Site without telling us who you are or revealing any
+personal information about yourself. Once you give us your personal information, you are no longer
+anonymous to us.
+</p>
+<h2>Information We Collect About Anonymous Visitors</h2>
+<p>
+We automatically track certain information based upon your behavior on the Site. We use this information
+to do internal research on our users’ demographics, interests, and behavior to better understand, protect
+and serve you and our community.
+</p>
+<div>
+<h3>Log Files</h3>
+<p>
+Like many Web sites, we automatically gather certain information about our Site traffic and store it in
+log files. This information includes Internet protocol (IP) addresses, browser type, Internet service
+provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this
+information, which does not identify individual users, to analyze trends, to administer the Site, to track
+users’ movements around the Site and to gather demographic information about our user base.
+</p>
+<p>
+We link this automatically collected data to personally identifiable information. IP addresses are tied to
+personally identifiable information to improve the functionality of the service.
+</p>
+<p>
+We use a third-party tracking service that uses log files and cookies to track non-personally identifiable
+information about visitors to the Site in the aggregate. This service captures usage and volume statistics
+to measure usage and conversion data.
+</p>
+<h3>Cookies</h3>
+<p>
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use
+cookies on this site. As noted above, we link the information we store in cookies to any personally
+identifiable information you submit while on our site. This privacy policy covers the use of cookies by
+the Site only and does not cover the use of cookies by any advertisers.
+</p>
+<p>We use both session ID and persistent cookies.</p>
+<p>
+A session ID cookie expires when you close you browser. We use session cookies to make it easier for you
+to navigate our site.
+</p>
+<p>
+A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent
+cookies by following directions provided in your Internet browser’s “help” file.
+</p>
+<p>
+We set a persistent cookie to store your password, so you don’t have to enter it more than once.
+Persistent cookies also enable us to track and target the interests of our users to enhance the experience
+on our site.
+</p>
+<p>
+Some of our business partners (e.g., advertisers) use cookies on our Site. We have no access to or control
+over these cookies. See “Third Party Advertisers.”
+</p>
+<h3>Clear Gifs (Web Beacons/Web Bugs)</h3>
+<p>
+We employ and our third party advertising partner may employ a software technology called clear gifs, also
+referred to as web beacons or web bugs, that help manage content on the Site by tracking what content is
+effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are
+used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s
+computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period
+at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally
+identifiable information.
+</p>
+<p>
+We use clear gifs in our HTML-based emails to let us know which emails recipients have opened. This allows
+us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+If you would like to opt-out of these emails, please see “Choice and Opt-out.”
+</p>
+</div>
+<h2>Information We Collect To Respond To Your Choices and Requests</h2>
+<div>
+<h3>Registration</h3>
+<p>
+In order to use some features of this Site, you must first complete the registration form and create a
+user name and password. During registration you are required to give truthful contact information (such as
+name and email address) in accordance with our terms of use root-domain/terms. We use this information to
+contact you about the services on our site in which you have expressed interest.
+</p>
+<p>
+You have the option to provide demographic information (such as income level and preferred language of
+communication) to us; we encourage you to submit this information so we can provide you a more
+personalized experience on our site.
+</p>
+<h3>Orders</h3>
+<p>
+If you purchase a product or service from us, we request certain personally identifiable information from
+you on our order form. You must provide contact information (such as name, email, and shipping address)
+and financial information (such as a credit card number and expiration date).
+</p>
+<p>
+We use this information for billing purposes and to fill your orders. If we have trouble processing an
+order, we will use this information to contact you.
+</p>
+<h3>Surveys or Contests</h3>
+<p>
+We may provide you the opportunity to participate in contests or surveys on our site. If you participate,
+we will request certain personally identifiable information from you. The requested information typically
+includes contact information (such as name and shipping address) and demographic information.
+</p>
+<p>
+We use this information to notify contest winners and award prizes, to monitor site traffic, or to
+personalize the site (in the case of anonymous information collected in surveys) and to send participants
+an email newsletter.
+</p>
+<p>
+We may use a third party service provider to conduct these surveys or contests; that company is not
+prohibited from using our users’ personally identifiable information for any other purpose.
+</p>
+<h3>Tell-A-Friend</h3>
+<p>
+If you choose to use our referral service to tell a friend about our site, we will ask you for your
+friend’s name and email address. We will automatically send your friend a one-time email inviting him or
+her to visit the site. Boundless Learning stores this information for the sole purpose of sending this
+one-time email and tracking the success of our referral program.
+</p>
+<p>Your friend may contact us at root-domain to request that we remove this information from our database.</p>
+<h3>Chat Rooms</h3>
+<p>
+If you choose to post messages in our chat rooms or other public message areas or leave feedback for other
+users, we will collect the information you post. We retain this information as necessary to resolve
+disputes, provide customer support and troubleshoot problems as permitted by law.
+</p>
+<p>
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send
+us correspondence about your activities or postings on the Site, we may collect such information into a
+file specific to you. We reserve the right to terminate the accounts of visitors who use these services in
+a manner in consistent with the terms of use at root-domain/terms.
+</p>
+<h3>Communication from Us or the Site</h3>
+<div>
+<h4>Special Offers and Updates</h4>
+<p>
+We may occasionally send you information on products, services, special deals, and promotions. You can
+sign up for these emails from us on our registration page.
+</p>
+<p>
+Out of respect for your privacy, we present the option not to receive these types of communications.
+Please see the “Choice and Opt-out” section.
+</p>
+<h4>Newsletters</h4>
+<p>
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the
+newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the
+“Choice and Opt-out” section.
+</p>
+<h4>Service-Related Announcements</h4>
+<p>
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so.
+For instance, if our service is temporarily suspended for maintenance, we might send you an email.
+</p>
+<p>
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not
+wish to receive them, you have the option to deactivate your account.
+</p>
+</div>
+<h3>Customer Service</h3>
+<p>
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to
+verify your username and password. We will communicate with you in response to your inquiries, to provide
+the services you request, and to manage your account. We will communicate with you by email or telephone,
+in accordance with your wishes.
+</p>
+<h3>Profile</h3>
+<p>
+We store information that we collect through cookies, log files, clear gifs, and/or third party sources to
+create a “profile” of your preferences. We tie your personally identifiable information, and your
+purchasing history, to information in the profile, in order to provide tailored promotions and marketing
+offers and to improve the content of the site for you.
+</p>
+<p>We share your profile to third parties in aggregate form only.</p>
+<h3>Enhancement of Profile Information</h3>
+<p>
+We purchase marketing data from third parties and add it to our existing user database, to better target
+our advertising and to provide pertinent offers in which we think you would be interested. To enrich our
+Profiles of individual customers, we tie this information to the personally identifiable information they
+have provided to us.
+</p>
+</div>
+<h2>Conditions Under Which We Share Information</h2>
+<div>
+<h3>Aggregate Information (Non-Personally Identifiable)</h3>
+<p>
+We may share aggregated demographic information about our user base with our partners and advertisers.
+This information does not identify individual users.
+</p>
+<p>We do not link aggregate user data with personally identifiable information.</p>
+<h3>Personally Identifiable Information</h3>
+<p>Except as discussed below, we do not share Personally Identifiable Information with Third Parties.</p>
+</div>
+<h2>Agents</h2>
+<p>
+We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for
+goods and services. These companies do not retain, share, store or use personally identifiable information
+for any other purposes.
+</p>
+<h2>Third Party Advertisers</h2>
+<p>
+The ads appearing on this Web site are delivered to users by our advertising partner. We share Web site
+usage information about users with our advertising partner for the purpose of targeting our Internet
+banner advertisements on this site.
+</p>
+<p>
+Our advertising partner may use cookies and clear GIFs on the Site, which allow it to recognize a user’s
+cookie when a user visits the Site. The information that our advertising partner collects and shares
+through this technology is not personally identifiable.
+</p>
+<p>
+For more information about our third-party advertiser, or to learn more about the choices available to you
+regarding this anonymous information, please contact
+<a href="mailto:privacy@boundless.com?subject=Third-Party advetiser">privacy@boundless.com</a>.
+</p>
+<h2>Legal Disclaimer</h2>
+<p>
+We reserve the right to disclose your personally identifiable information as required by law and when we
+believe that disclosure is necessary to protect our rights; to comply with a judicial proceeding, court
+order, or legal process served on us or the Site; or in connection with an actual or proposed corporate
+transaction or insolvency proceeding involving all or part of the business or asset to which the
+information pertains.
+</p>
+<h2>Choice/Opt-out</h2>
+<p>
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for
+certain purposes, when we ask for this information. For example, if you purchase a product/service but do
+not wish to receive any additional marketing material from us, you can indicate your preference on our
+order form.
+</p>
+<p>
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of
+receiving them by following the instructions included in each newsletter or communication or by emailing
+us at
+<a href="mailto:support@boundless.com">support@boundless.com</a>.
+</p>
+<h2>Links to Other Sites</h2>
+<p>
+The Site contains links to other sites that are not owned or controlled by boundless Learning. Please be
+aware that we are not responsible for the privacy policies of such other sites.
+</p>
+<p>
+We encourage you to be aware when you leave the Site and to read the privacy policies of each and every
+Web site that collects personally identifiable information.
+</p>
+<p>This privacy policy applies only to information collected by the Site.</p>
+<h2>Access to Personally Identifiable Information</h2>
+<p>
+If your personally identifiable information changes, or if you no longer desire our service, you may
+correct, update, delete or deactivate it emailing our Customer Support at
+<a href="mailto:support@boundless.com">support@boundless.com</a>,
+or by
+contacting us by postal mail at the contact information listed below.
+</p>
+<h2>Security</h2>
+<p>
+The security of your personal information is important to us. When you enter sensitive information (such
+as credit card number and/or social security number) on our registration or order forms, we encrypt that
+information using secure socket layer technology (SSL).
+</p>
+<p>
+We follow generally accepted industry standards to protect the personal information submitted to us, both
+during transmission and once we receive it. No method of transmission over the Internet, or method of
+electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable
+means to protect your personal information, we cannot guarantee its absolute security.
+</p>
+<p>
+If you have any questions about security on our Web site, you can email us at
+<a href="mailto:support@boundless.com">support@boundless.com</a>.
+</p>
+<h2>Changes in this Privacy Policy</h2>
+<p>
+If we decide to change our privacy policy, we will post changes to this privacy policy and other places we
+deem appropriate so that you are aware of what information we collect, how we use it, and under what
+circumstances, if any, we disclose it.
+</p>
+<p>
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make
+changes that materially affect our uses or disclosures of personally identifiable information that we have
+previously collected, we will notify you here, by email, or by means of a notice on our home page.
+</p>
+<h2>Contact Us</h2>
+<p>If you have any questions or suggestions regarding our privacy policy, please contact us at:</p>
+<div>
+<p>
+<strong>Boundless Learning, Inc.</strong>
+<br>
+164 Kneeland Street
+<br>
+Boston, MA 02111
+<br>
+<a href="http://www.boundless.com">boundless.com</a>
+<br>
+<a href="mailto:support@boundless.com?subject=General Query">support@boundless.com</a>
+</p>
+</div>
+<p class="last-updated">
+<strong>
+<em>Effective Date: April 4, 2012.</em>
+</strong>
+</p>
+</div>
+
+</div>
+<footer id="footer">
+<div class="container">
+<div class="social">
+<h4>Follow Us</h4>
+<ul class="social-links">
+<li>
+<a href="http://twitter.com/GoBoundless">
+<i class="bl-icon-med">
+<img alt="Twitter-med" src="http://assets.boundless.com/assets/icons/twitter-med-d2283f14a7a02a1fa41bbde0c593cfae.png">
+</i>
+<span>Twitter</span>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/GoBoundless">
+<i class="bl-icon-med">
+<img alt="Facebook-med" src="http://assets.boundless.com/assets/icons/facebook-med-906ac6bd200b54bb5e1bebf059571d33.png">
+</i>
+<span>Facebook</span>
+</a>
+</li>
+<li>
+<a href="http://blog.boundless.com/">
+<i class="bl-icon-med">
+<img alt="Blog-med" src="http://assets.boundless.com/assets/icons/blog-med-8f1811ef850cc685628c381a6eec4d78.png">
+</i>
+<span>Blog</span>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/100595869169508295306" rel="publisher">
+<i class="bl-icon-med">
+<img alt="Google-med" src="http://assets.boundless.com/assets/icons/google-med-1a6b873304038b562bbf05cd35ea8c38.png">
+</i>
+<span>Google+</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="company">
+<h4>Company</h4>
+<p>Boundless is making the world's open educational content more useful for students by connecting them with the wealth of high quality, openly licensed, and free educational content.</p>
+<ul>
+<li>
+<a href="/about_us">About Us</a>
+</li>
+<li>
+<a href="/team">Team</a>
+</li>
+<li>
+<a href="/careers">Careers</a>
+</li>
+<li>
+<a href="/press">Press</a>
+</li>
+</ul>
+</div>
+<div class="support">
+<h4>Support</h4>
+<ul>
+<li>
+<a href="/contact_us">Contact Us</a>
+</li>
+<li>
+<a href="/privacy">Privacy Policy</a>
+</li>
+<li>
+<a href="/terms">Terms of Service</a>
+</li>
+</ul>
+<div class="help">
+<h4>Learn More</h4>
+<ul>
+<li>
+<a href="/how_it_works">How it Works</a>
+</li>
+<li>
+<a href="/for_educators">For Educators</a>
+</li>
+<li>
+<a href="/faq">FAQ</a>
+</li>
+</ul>
+</div>
+</div>
+<aside>
+<p>Except where otherwise noted, content on this site is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+</p></aside>
+</div>
+</footer>
+
+</div>
+<script src="http://assets.boundless.com/assets/application-d4fdb8c9d0edaf0beddff03b237f9a41.js" type="text/javascript"></script>
+
+<script>
   //<![CDATA[
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-23224386-6']);
+    _gaq.push(['_setDomainName', 'boundless.com']);
+    _gaq.push(['_addIgnoredRef', 'boundless']);
+    _gaq.push(['_trackPageview']);
+    
     (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   //]]>
 </script>
 
-    <script src="/public/javascripts/lib/underscore-1.1.6.min.js" type="text/javascript"></script>
-    <script src="/public/javascripts/lib/backbone-0.5.3.min.js" type="text/javascript"></script>
-    <script src="/public/javascripts/app/util.js?version=prod1183" type="text/javascript"></script>
-    <script src="/public/javascripts/lib/benmgreene-guiders-1.1.2.js" type="text/javascript"></script>
-    <div style="display:none">
-      <!--[if IE lt 9]>
-        <script src="/public/javascripts/lib/ierange-m2-packed.js" type="text/javascript"></script>
-      <![endif]-->
-    </div>
-    <script src="/public/javascripts/lib/jquery.placeholder.min.js" type="text/javascript"></script>
-    <script src="/public/javascripts/lib/jquery.stringlib-2.1.js" type="text/javascript"></script>
-    <link href="/public/javascripts/lib/highslide/highslide.css" type="text/css" rel="stylesheet" media="screen">
-<script src="/public/javascripts/lib/highslide/highslide-full.packed.js" type="text/javascript"></script>
-<script type="text/javascript">
+<div id="fb-root"></div>
+<script>
   //<![CDATA[
-    hs.graphicsDir = '/public/javascripts/lib/highslide/graphics/';
-    hs.dimmingOpacity = 0.75;
-    hs.fadeInOut = true;
-    hs.align = 'center';
-    hs.marginBottom = 105;
-    hs.captionEval = 'this.a.title';
-    hs.debug = true;
-    hs.showCredits = false;
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '404208039601407', // App ID
+        channelUrl : 'http://www.boundless.com/channel.html', // Channel File
+        status     : true, // check login status
+        cookie     : true, // enable cookies to allow the server to access the session
+        xfbml      : true  // parse XFBML
+      });
+      
+    };
+    
+    (function(d){
+       var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/all.js";
+       ref.parentNode.insertBefore(js, ref);
+     }(document));
   //]]>
 </script>
 
-    <script src="/public/javascripts/app/neo.js?version=prod1183" type="text/javascript"></script>
+<script src="http://app.boundless.com/assets/embedded_shim.js" type="text/javascript"></script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","1100fa27d5",820695,"cgsNEkpfVFhcRRgVRVAQCgVLH0hGUEFWBUg=",0.0,82,new Date().getTime(),"","","","",""])</script>
 
-    <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-    <!-- / %script -->
-    <!-- / :javascript -->
-    <!-- /   window.twttr = (function (d,s,id) { -->
-    <!-- /     var t, js, fjs = d.getElementsByTagName(s)[0]; -->
-    <!-- /     if (d.getElementById(id)) return; -->
-    <!-- /     js=d.createElement(s); js.id=id; -->
-    <!-- /     js.src="//platform.twitter.com/widgets.js"; -->
-    <!-- /     fjs.parentNode.insertBefore(js, fjs); -->
-    <!-- /     return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } }); -->
-    <!-- /   }(document, "script", "twitter-wjs")); -->
-    <script src="//s3.amazonaws.com/ki.js/23417/4Et.js" async="true" type="text/javascript"></script>
-    <script src="/public/javascripts/lib/spin.min.js" type="text/javascript"></script>
-  
-
-<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
