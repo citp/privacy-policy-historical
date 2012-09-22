@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestylecure.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615083756id_/http%3A//thestylecure.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestylecure.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922231016id_/http%3A//thestylecure.com/privacy.html) for the most accurate reproduction.*
 
 # TheStyleCure
 
