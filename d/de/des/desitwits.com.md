@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desitwits.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212043629id_/http%3A//www.desitwits.com/link%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitwits.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922024404id_/http%3A//desitwits.com/link%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # desiTwits.com - Please check privacy section about privacy policy.
 
@@ -24,7 +24,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 **Online Privacy Policy Only**  
 This online privacy policy applies only to information collected through our website and not to information collected offline.  
 Terms and Conditions  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms](https://web.archive.org/web/20120212043629id_/http%3A//www.desitwits.com/link?page=terms)  
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms](https://web.archive.org/web/20120922024404id_/http%3A//desitwits.com/link?page=terms)  
 Your Consent  
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.   
