@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthprofs.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512090303id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprofs.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922084827id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.*
 
 # HealthProfs.com - Privacy Policy -
 
