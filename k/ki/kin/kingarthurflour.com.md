@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510124051id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922165923id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: King Arthur Flour
+# Privacy policy | King Arthur Flour®
 
 We respect your privacy, and value the confidence you’ve shown in us by choosing to shop via our site. 
 
@@ -22,7 +22,7 @@ If you place a catalogue request, order online, or contact us via e-mail, we rec
 
 Each e-mail promotion, recipe, or update you receive from us will include instructions on how you can remove your e-mail address from this service. Prior to ever sharing your e-mail address with other marketers, we would contact you (via e-mail) and request your permission to do so. We also will disclose the information as required to do so under applicable law. 
 
-We have the opportunity to use your e-mail address to help our environment by reducing the number of catalogues that we and others put in the mail. If youâ€™d like to reduce the quantity of catalogues you receive from us, please let us know by contacting us via e-mail at [ customercare@kingarthurflour.com](mailto:customercare@kingarthurflour.com), by postal mail, or by calling us at 1 800-827-6836. 
+We have the opportunity to use your e-mail address to help our environment by reducing the number of catalogues that we and others put in the mail. If you’d like to reduce the quantity of catalogues you receive from us, please let us know by contacting us via e-mail at [ customercare@kingarthurflour.com](mailto:customercare@kingarthurflour.com), by postal mail, or by calling us at 1 800-827-6836. 
 
 ###  Integrity of your personal information 
 
