@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thenibble.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625091927id_/http%3A//www.thenibble.com/nav2/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenibble.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922084127id_/http%3A//www.thenibble.com/nav2/privacy/index.asp) for the most accurate reproduction.*
 
 # Gourmet Food - THE NIBBLE - Great Food Finds™ - Privacy Policy
 
-### _[Home](https://web.archive.org/web/20120625091927id_/http%3A//www.thenibble.com/)_
+### _[Home](https://web.archive.org/web/20120922084127id_/http%3A//www.thenibble.com/)_
 
 **Effective date February 1, 2005**
 
@@ -40,7 +40,7 @@ You do have control over cookies. Most browsers can be set to notify you when a 
 
 THE NIBBLE™ uses your personal information to provide you with the service you have requested. For example, if you want our newsletter, we use your e-mail address to send it to you. If you enter an online sweepstakes or contest, we will use your email information to notify you if you are a winner, and your phone number as a back-up in case the email bounces back or you do not respond. We may also use your e-mail to communicate with you about new features, products or services. 
 
-TheNibble.com does not give or sell your e-mail address unless you request us to do so. If you have completed a [Subscriber Profile,](https://web.archive.org/web/20120625091927id_/http%3A//www.thenibble.com/nav2/subscriber/index.asp) you have the option to check a box or boxes that allows us to provide your e-mail address and/or other information you select with our partners, and with carefully selected companies we think offer products and services that may be of interest to you. If you do not check those boxes, your information will not be shared. 
+TheNibble.com does not give or sell your e-mail address unless you request us to do so. If you have completed a [Subscriber Profile,](https://web.archive.org/web/20120922084127id_/http%3A//www.thenibble.com/nav2/subscriber/index.asp) you have the option to check a box or boxes that allows us to provide your e-mail address and/or other information you select with our partners, and with carefully selected companies we think offer products and services that may be of interest to you. If you do not check those boxes, your information will not be shared. 
 
 If you do check the boxes, you can uncheck them at any time. If you opt out, we will make reasonable efforts to discontinue the particular communications as soon as possible. Understand that due to communications already in the queue, you may still receive communications for a few weeks.  If you are opting out of partner or third party communications, it can take 90-120 days for communications to cease. 
 
@@ -52,7 +52,7 @@ There may also be occasion when we are legally required to provide access to our
 
 If you send us an e-mail with questions or comments, or use one of our online suggestion and feedback forms, we may use your personal information to respond to your questions or comments, and we may save your questions or comments for future reference. However, aside from any reply to your communication, we will not add your information to any mailing list or database.
 
-In order for you to receive other, general, communications from THE NIBBLE™, you must go to [Subscriber Preferences](https://web.archive.org/web/20120625091927id_/http%3A//www.thenibble.com/nav2/subscriber/index.asp) and fill out a profile indicating your interests. There, you have the option to opt in and opt out of a variety of communications.
+In order for you to receive other, general, communications from THE NIBBLE™, you must go to [Subscriber Preferences](https://web.archive.org/web/20120922084127id_/http%3A//www.thenibble.com/nav2/subscriber/index.asp) and fill out a profile indicating your interests. There, you have the option to opt in and opt out of a variety of communications.
 
 **Non-Personal Information**
 
