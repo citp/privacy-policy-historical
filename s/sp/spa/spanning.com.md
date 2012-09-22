@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524011831id_/http%3A//spanning.com%3Fpage_id%3D129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922025256id_/http%3A//spanning.com%3Fpage_id%3D129) for the most accurate reproduction.*
 
-# Privacy | Spanning
+# Spanning Privacy Statement
 
-_Last Updated June 15, 2011_
+_Last Updated August 6, 2012 (new mailing address)_
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/spanningbackup.com/seal_l "Validate TRUSTe privacy certification")Spanning Cloud Apps, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@spanning.com](mailto:privacy@spanning.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -86,10 +86,10 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 Spanning Cloud Apps, Inc.  
 Attn: Privacy  
-7600 North Capital of Texas Highway  
-Building B, Suite 330  
+714 Congress Ave.  
+Suite 200  
 Austin, Texas  
-78731  
+78701  
 USA  
 +1-512-217-6551  
 [privacy@spanning.com](mailto:privacy@spanning.com)  
