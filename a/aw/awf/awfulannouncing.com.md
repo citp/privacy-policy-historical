@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the awfulannouncing.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509191226id_/http%3A//www.awfulannouncing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awfulannouncing.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922232456id_/http%3A//www.awfulannouncing.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Content
+# Privacy Policy | Content | Site
 
-  
 Bloguin knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
 This Privacy Policy covers Bloguin's treatment of personal information that Bloguin gathers when you are on any of the Bloguin websites and when you use Bloguin services. This policy does not apply to the practices of third parties that Bloguin does not own or control, or to individuals that Bloguin does not employ or manage.
@@ -26,7 +25,7 @@ Bloguin's advertising partners may place a cookie on your browser that makes it 
 
 Sharing Your Information: Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-Bloguin Personnel: Bloguin personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Bloguin's business. 
+Bloguin Personnel: Bloguin personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Bloguin's business.
 
 Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Bloguin, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
@@ -34,7 +33,7 @@ Protection of Bloguin and Others: We may release personal information when we b
 
 Syndication: Bloguin allows for the RSS syndication of all of its public content within the Bloguin Network websites.
 
-With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
 Children Under 18 Years of Age: You must be 13 years and older to register to use any of Bloguin's websites. As a result, Bloguin does not specifically collect information about children. If we learn that Bloguin has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Bloguin or sending information about themselves or anyone else over the Internet.
 
@@ -42,5 +41,4 @@ Changes to this Privacy Policy: Bloguin may amend this Privacy Policy from time
 
 Conditions of Use: If you decide to visit any of Bloguin's websites, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
-  
-Effective Date of this Privacy Policy: This Privacy Policy is effective as of 10/30/2011 and last updated 10/30/2011.
+_Effective Date of this Privacy Policy:  This Privacy Policy is effective as of 10/30/2011 and last updated 10/30/2011._
