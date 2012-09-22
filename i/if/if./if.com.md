@@ -1,168 +1,137 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126000209id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922175413id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
-Our Privacy Policy sets out our code of practice for the gathering, storing and sharing of our customers' personal information. 
+**Last updated June 2012**
 
-The Data Protection Act puts obligations on users of personal information and lays down principles for its use. One principle states that information has to be processed fairly and lawfully. This means that you're entitled to know how we intend to use any information you provide, or that we may obtain from other sources eg. credit reference agencies or your employer. You can then decide whether you want us to have that information. 
+Your information will be held by Bank of Scotland plc which trades as Intelligent Finance, part of the Lloyds Banking Group.
 
-To provide the highest level of customer service we need accurate customer information. You can help by informing us whenever your circumstances change, either by phone, post or while you are logged into your plan on our website. 
+The Lloyds Banking Group includes us and a number of other companies using brands including Lloyds TSB, Halifax and Bank of Scotland, and their associated companies. More information on the Group can be found at [www.lloydsbankinggroup.com](http://www.lloydsbankinggroup.com/). 
 
-Organisations must lodge a notification with the Information Commissioner, describing the purposes for which they process personal information. The details are publicly available from the Commissioner's Office at:
+Please read this Privacy Policy to understand how we use and protect the information that you provide to us through the "Website". By accessing any part of this Website or providing any information to us you consent to the use and transfer of your information on the terms set out in this Privacy Policy.
 
-**Wycliffe House,  
-Water Lane,  
-Wilmslow,  
-Cheshire SK9 5AF.  
-Tel: 01625 545 745  
-Fax: 01625 524 510  
-**
+We reserve the right to revise or supplement this Privacy Policy from time to time at our sole discretion and you agree to revisit this page regularly to ensure that you are familiar with the most current version. By continuing to access or use the Website you will be agreeing to any such changes.
 
-Alternatively, see the Commissioner's website at <http://www.ico.gov.uk/>.
+If you are a customer of a Lloyds Banking Group company, details of the information we collect and how we use it will also be set out in the terms and conditions of the product or service which you hold. In the event of a conflict between this Privacy Policy and the terms and conditions of your specific product or service, the terms and conditions of your specific product or service will take precedence.
 
-A 'cookie' is a small piece of information which a website places into your browser and can retrieve later. It cannot be read by any website other than that which placed the cookie. We use cookies for several reasons. For example, we can store your preferences for certain kinds of information, or keep track of your progress through our site. 
+_Personal information that we collect and where we collect it from_
 
-Intelligent Finance uses Microsoft Active Service Pages which need cookies to operate properly. It is important that your browser is set to accept cookies, otherwise you will only be able to access our marketing site.
+Your "personal information" is information about you. Lloyds Banking Group companies get your personal information from you and others in various ways, including for example: 
 
-## How to set your browser to accept or disable cookies 
-
-The way in which you can set your browser to accept or disable cookies varies slightly according to exactly what browser (and operating system) you are currently using. Below are full instructions for changing your browser settings to accept or disable cookies
-
-##  Windows IE 6 and IE 7 Browsers 
-
-  1. From the menu bar select **Tools** and then **Internet Options**
-  2. Select the **Privacy** tab 
-  3. Under **Settings** , click **Advanced** button 
-  4. Check the box **Override automatic cookie handling** under **Cookies** section in **Advanced Privacy Settings** window
-  5. Under **First-party Cookies** , select **Accept**
-  6. Under **Third-party Cookies** , select **Accept**
-  7. Check the box **Always allow session cookies**
-  8. Click **OK**
-  9. Click **OK** to exit.
+  * through your contact with Lloyds Banking Group companies, for example in applications, emails and letters, during telephone calls and conversations in branch, when registering for services, in customer surveys, when you participate in competitions and promotions, through Lloyds Banking Group company websites and during financial reviews and interviews; 
+  * from analysis of your payments and other transactions (such as the amount, frequency, location, origin and recipient) and your use of services involving other Lloyds Banking Group companies and what they know from operating your accounts or providing services to you; and
+  * information Lloyds Banking Group companies receive from or through other organisations (for example card networks, credit reference agencies, insurance companies, retailers, social networks and fraud prevention agencies) whether in the course of providing products and services to you or otherwise.
 
 
 
-##  Netscape 6 & 7 Browsers 
+You must not give Lloyds Banking Group companies personal information about someone else (such as a joint applicant) without first getting his or her consent for it to be used and disclosed in the ways described in this condition. This is because the Lloyds Banking Group company will assume he or she has consented, although the Lloyds Banking Group company may still ask for confirmation. Where you do give a Lloyds Banking Group company information about someone else, or someone else discloses a connection with you, that information may be taken into account with your other personal information.
 
-  1. Click **Edit** on the Toolbar
-  2. Click **Preferences**
-  3. Click the **Privacy and Security** category; expand the list to show the subcategories
-  4. Click **Cookies**
-  5. Three options are displayed. Click the appropriate choice: 
-    * Disable cookies 
-    * Enable cookies for the originating web site only 
-    * Enable all cookies 
-    * If you want to be notified when a web site tries to set a cookie, select "Warn me before accepting a cookie.". 
+We will not retain your personal information for longer than is necessary for the maintenance your account, or for legal or regulatory requirements.
 
+Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the Website, pages viewed etc. We use this information to measure the use of our Website and to improve its contents.
 
+We may monitor or record phone calls with you in case we need to check we have carried out your instructions correctly, to resolve queries or issues, for regulatory purposes, to help improve our quality of service, and to help detect or prevent fraud or other crimes.  Conversations may also be monitored for staff training purposes.
 
-Back to top
+Using information on social networking sites
 
-Our main use of your personal information is to look after your plan or to provide the specific service you require. Some details we obtain elsewhere - from credit reference agencies or your employer for instance.
+As part of our ongoing commitment to understanding our customers better, we may research comments and opinions made public on social networking sites such as Twitter and Facebook.
 
-If you apply to us for insurance we will pass your details to the insurer. If you make a claim, any information you give to us or to the insurer may be put on to a register of claims and shared with other insurers to prevent fraudulent claims. A list of the participants is available from the insurer. 
+_How Lloyds Banking Group companies use your personal information_
 
-Occasionally, we may contact you by letter, telephone, email or otherwise to inform you about other products and services which may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply call us on **0845 609 4343** or write to our Head of Regulatory Risk at the following address: 
+Lloyds Banking Group companies may share your personal information with each other.
 
-**Head of Regulatory Risk,  
-Intelligent Finance,  
-1 Baird Road,  
-Kirkton Campus,  
-Livingston,  
-West Lothian, EH54 7AZ  
-**
+Your personal information held by Lloyds Banking Group companies may be stored and used for: 
 
-Remember that by opting out of receiving marketing information you'll not be told of any offers or new products and services which may benefit you. For example, you may not hear about a new savings or mortgage product that offers you a better rate or saves you money.
-
-Unless you have given us your consent, we'll not provide information about you to companies outside our group to use for their own marketing purposes. We disclose information about our customers only with their consent, or if we are required to do so by law. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes these companies may be located abroad in countries that don't have data protection laws. In these circumstances we always ensure that the information is safe and secure. Your information may also be shared by other members of our group to keep their records up to date and administer your relationship with them. 
-
-Under the Data Protection Act you've the right to have access to information we hold about you on our records. The act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. 
-
-If you don't want to receive unsolicited mail from other companies, you can prevent this by registering with the Mailing Preference Service. In addition the Telephone and Fax Preference Services enable you to object to receiving unsolicited marketing phone calls or faxes from other companies. To register, simply telephone the appropriate number below: 
-
-**Mailing Preference: 0207 291 3310  
-Telephone Preference: 0207 291 3320  
-Fax Preference: 0207 291 3330  
-**
-
-For more details about all the Preference Services, please see the Direct Marketing Association's website at: <http://www.dma.org.uk/>
-
-Since 19th January 2009, Lloyds TSB Group and HBOS Group have been part of Lloyds Banking Group. Lloyds Banking Group includes Bank of Scotland plc and a number of other companies using brands including Lloyds TSB and Halifax, and their associated companies.
-
-Lloyds Banking Group companies may store and use your personal information for:
-
-  1. providing you with products and services and notifying you about other important changes or developments to the features and operation of those products and services;
-  2. updating, consolidating and improving the accuracy of our records;
-  3. crime detection, prevention and prosecution;
-  4. responding to your enquiries and complaints;
-  5. administering offers, competitions and promotions;
-  6. evaluating the effectiveness of marketing and for market research, training, statistical analysis and customer modelling with the aim of improving services;
-  7. assessing lending and insurance risks across Lloyds Banking Group;
-  8. identifying products and services which we believe may be of interest to you;
-  9. managing your relationship with Lloyds Banking Group companies.
+  * providing you with products and, services and notifying you about important changes or developments to the features and operation of those products and services; 
+  * updating, consolidating and improving the accuracy of our records; 
+  * crime detection, prevention and prosecution; 
+  * responding to your enquiries and complaints; 
+  * administering offers, competitions and promotions; 
+  * evaluating the effectiveness of marketing and for market research, training, statistical analysis and customer modelling [with the aim of improving services]; 
+  * assessing lending and insurance risks across the Lloyds Banking Group; 
+  * identifying products, services and offers which we or others believe may be of interest to you; 
+  * managing your relationship with Lloyds Banking Group companies, and in the other ways described below; and
+  * producing data, reports and statistics which have been anonymised or aggregated to ensure that they do not identify you as an individual.
 
 
 
 Lloyds Banking Group companies may, from time to time, provide further details about how your personal information may be used.
 
-If you apply for an Intelligent Finance credit based product, we'll perform a search with a credit reference agency. The agency will keep a record of the search. After you open a credit based product, we will provide the agency with regular information about how you use it. Other lenders may use this to make decisions on future applications for credit. It may also be used for tracing debtors and to prevent fraud.
+If you have agreed, we and other Lloyds Banking Group companies may contact you about products, services and offers available from Lloyds Banking Group companies or from selected companies outside the group, which we believe may interest you or benefit you financially. You may tell us at any time if you change your mind.
 
-When opening jars and plans we may search public records such as the Electoral Roll that are available from Credit Reference Agencies to help us verify your identity.
+Lloyds Banking Group companies may use automated decision making systems when assessing your application, managing your borrowing and to detect fraud or money laundering.
 
-Occasionally we search credit reference and fraud prevention agency files as well as our own internal group records to manage your account and take credit decisions such as whether to offer credit or continue to extend existing credit. These searches are not seen or used by lenders to assess your ability to obtain credit. 
+_How we may share your information outside Lloyds Banking Group_
 
-'Associations' linking your financial records may be created on credit reference agency records when you apply for jars or plans in joint names. Your financial records, and those of anyone financially associated with you, may be considered in any future applications you make. This association will continue until one of you successfully files a 'disassociation' at the credit reference agencies.
+Lloyds Banking Group companies will treat your personal information as private and confidential, but may disclose it outside the Lloyds Banking Group if: 
 
-You've the right to apply to the credit reference agencies for a copy of your credit file. You can write to them at any time, enclosing a non-returnable fee of £2.00. Please give your name, address, postcode, date of birth and any other address you've lived at in the last six years to help them find your information. If there's anything incorrect on your credit file, you've the right to ask the agency to add a Notice of Correction. 
-
-We use Equifax plc, whilst other members of the Lloyds Banking Group also use Experian Limited. A third credit reference agency (Call Credit) has recently started up in the UK. Their addresses are as follows:
-
-**Credit File Advice Centre, Equifax Limited, PO Box 1140, Bradford, BD1 5US Tel: 0844 335 0550 ([www.equifax.co.uk](http://www.equifax.co.uk/ "Link opens in a new window - www.equifax.co.uk"))**
-
-**Experian Credit Report Services, Experian Limited, PO Box 1135, Warrington, WA55 1EP Tel: 0844 481 8000 ([www.experian.co.uk](http://www.experian.co.uk/ "Link opens in a new window - www.experian.co.uk"))**
-
-**Consumer Services Team, Call Credit Limited, PO Box 491, Leeds, LS3 1WZ Tel: 0870 060 1414 ([www.callcredit.co.uk](http://www.callcredit.co.uk/ "Link opens in a new window - www.callcredit.co.uk"))**
-
-If you've been refused credit you can get advice from your local Trading Standards Department, Citizens Advice Bureau or Consumer Advice Centre. The Information Commissioner also produces a useful leaflet entitled 'Credit Explained'. You can obtain a free copy on the Information Commissioner's website <http://www.ico.gov.uk/> or by telephoning **0870 600 8100**. Comprehensive consumer help information can also be found on the agencies' websites. 
-
-When you apply to us for a credit based product, the details you provide, the information we already have and information from credit reference agencies are used to assess credit risk using a technique known as credit scoring. 
-
-Various factors in all these details help us to assess the risk. A score is given to each factor and a total credit score obtained. If your score is above a confidential, pre-set pass score, the application is likely to succeed. For more details, please ask for a copy of our credit scoring leaflet.
-
-For savings, we may search credit reference and fraud prevention agencies to check your identity and help us make decisions. The agency keeps a record of our search, whether or not your application proceeds. Our search is not seen or used by lenders to assess your ability to obtain credit.
-
-Back to top
-
-Our systems protect customers and ourselves against fraud and other crime. Customer information can be used to prevent crime and trace those responsible. We may check your details with fraud prevention agencies.
-
-  * If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies
-  * Law enforcement agencies may access and use this information
-  * We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when: 
-    * Checking details on applications for credit and credit related or other facilities
-    * Managing credit and credit related accounts or facilities 
-    * Recovering debt
-    * Checking details on proposals and claims for all types of insurance
-    * Checking details of job applicants and employees.
-  * Please contact us on **0845 609 4343** if you want to receive details of the relevant fraud prevention agencies.
+  * allowed by this agreement; 
+  * you consent; 
+  * needed by Lloyds Banking Group companies' agents, advisors or others involved in running accounts and services for you or collecting what you owe Lloyds Banking Group companies;
+  * HM Revenue & Customs or other authorities require it; 
+  * the law or the public interest permits or requires it; or 
+  * required by others to investigate or prevent crime.
 
 
 
-We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+Lloyds Banking Group companies may in the future wish to sell, transfer or merge part or all of their business or assets, or any associated rights or interests, or to acquire a business or enter into a merger with it. If so, they may disclose your personal information to a potential buyer, transferee, or merger partner or seller and their advisers so long as they agree to keep it confidential and to use it only to consider the possible transaction. If the transaction goes ahead, the buyers, transferee or merger partner may use or disclose your personal information in the same way as set out in this notice.
 
-If your relationship with us was 'introduced' by a third party, we will provide them with sufficient information about you to help with their accounting and administration. The introducer may, with your consent, use your details to contact you about his own products and services.
+_Anonymised Reports_
 
-As part of our product opening process, by law, we've to confirm your name and address. Some Acts of Parliament oblige us to disclose information about our customers to certain bodies with statutory powers. For example, if asked, we must give the information to authorised benefit fraud investigators where fraudulent benefit claims are suspected. In addition, the Inland Revenue has the statutory authority to audit our customers' accounts from time to time.
+Data, reports or statistics created using your personal information may be shared amongst Lloyds Banking Group companies and other companies or organisations outside the group. We will only share these data, reports or statistics outside the group where they have been aggregated or anonymised so that they do not identify you as an individual.
 
-If you email us, or give us your email address, we'll keep a record of it. We may use it to contact you occasionally about our products and services - unless you ask us not to do so. We'll not give your email address to any unauthorised third parties. When emailing us, always use the email facility on our website to make sure that the content of your email is secure. If you send us email in other ways, remember that it will be 'unsecure' and could be intercepted. If you do send us 'unsecure' email, please keep any confidential information in it to a minimum. We'll do the same when we reply.
+_Fraud prevention agencies_
 
-We may record telephone conversations to offer you additional security, resolve complaints and improve our service standards. Conversations may also be monitored for staff training purposes.
+We have systems that protect our customers and ourselves against fraud and other crime. Customer information can be used to prevent crime and trace those responsible. We will share your personal information from your application with fraud prevention agencies. If false or inaccurate information is provided and fraud is identified, details of this fraud will be passed to these agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when: Checking details on applications for credit and credit related or other facilities.Managing credit and credit related accounts or facilities.Recovering debt.Checking details on proposals and claims for all types of insurance.Checking details of job applicants and employees.
 
-All our employees are personally responsible for maintaining customer confidentiality. We provide training and education to all our staff to remind them about their obligations. Our policies and procedures are regularly audited and reviewed.
+Please contact us on 0845 602 7174 if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
-The Data Protection Act defines information about the following as 'sensitive': racial or ethnic origin, political opinions, religious beliefs, trade union membership, physical or mental health, sexual life, criminal proceedings and offences. 
+_Transferring information abroad_
 
-If you apply for insurance or life assurance through us, we may ask you for some 'sensitive' details. We'll only use this information to provide the service you require and we will ask for your explicit consent. 
+All countries in the EEA (including the UK) have similar standards of legal protection for your personal information. Lloyds Banking Group companies may run your accounts and provide other services from centres outside the EEA (such as the USA and India) that do not have a similar standard of data protection laws to the UK. If so, those Lloyds Banking Group companies will require your personal information to be protected to at least UK standards.
 
-The Intelligent Finance website contains links to sites operated by persons outside the Lloyds Banking Group. We are not responsible for the privacy practices, content, or the product and services provided through those sites.
+Lloyds Banking Group companies may process payments through other organisations such as banks and the worldwide payments system operated by SWIFT if, for example, you make a CHAPS payment or a foreign payment. Those organisations may process and store your personal information abroad and may have to disclose it to foreign authorities (including those outside the EEA, in which case your personal information may not be protected to standards similar to those in the UK), for example to help them in their fight against crime and terrorism.
+
+_Accessing and updating your personal information_
+
+The Data Protection Act 1998 gives you rights to request your personal information from Lloyds Banking Group companies. Each company may charge a small administrative fee (currently £10) for supplying the information, and may as appropriate require proof of your identity before doing so. You can ask Lloyds Banking Group companies to change your personal information to keep it accurate and up to date. If you want to find out what information we hold about you, please write to the:
+
+Data Unit, Freepost NWW15306, City House, City Road, Chester CH88 3YZ. 
+
+You can also find out from us the address for personal information queries and requests for other Lloyds Banking Group companies.
+
+_How we may contact you_
+
+Using your Email address for service contact
+
+Making sure we deliver excellent customer service is very important to us and to do this various methods of communication may be used to keep you updated about your account. Most of the time we communicate by telephone or post, but we recognise that E mail is becoming a more popular process.  If we decide to use E mail to contact you, we will only do this if we have ensured that using E mail will not put your information at risk, or, if you have requested we E mail you, that we have explained the risks of sending an "insecure" E mail and that you are happy to accept that risk.
+
+In addition you may wish to choose a channel of communication that suits you when you need to contact us.   If you need to E mail a Lloyds Banking Group company, we recommend you check their website to see if a secure E mail facility exists so that your E mail can be sent securely.  If you send us E mails in other ways, such as from your personal account, then remember that the message may not be secure and there is a risk that it could be intercepted.  If you choose to send an "insecure" E mail, please keep the amount of confidential information you include to a minimum.  With some of our products we offer a number of communication update services via SMS.  If you have signed up to this service, we may send you text messages containing administrative information about your relationship with us. You can ask us to stop sending these messages at any time.  Additionally, in extraordinary circumstances (such as natural disaster or civil unrest) we may also send you updates by text message or email when we consider it to be appropriate.
+
+_Using cookies_
+
+In general, you can visit Lloyds Banking Group websites without identifying who you are or revealing any information about yourself. However, cookies are used to store small amounts of information on your computer, which allows certain information from your web browser to be collected. Cookies are widely used on the internet and do not identify the individual using the computer, just the computer being used. Cookies and other similar technology make it easier for you to log on to and use our websites during future visits. You can find more information on our [cookies policy](https://web.archive.org/cookie-policy/default.aspx) page 
+
+_When you apply for and use our products & services_
+
+Joint applicants
+
+Sometimes, when you open a joint account or product, this may mean that your personal data will be shared with the other applicant.  For example, transactions made by you will be seen by your joint account holder and vice versa.
+
+How we manage sensitive personal information
+
+Data Protection Act defines certain information as 'sensitive' (racial or ethnic origin, political opinions, religious beliefs, trade union membership, physical or mental health, sexual life, criminal proceedings and offences). When you apply for certain product or services, we may ask you for some 'sensitive' information, but we will always ask for your explicit consent. As a customer, there may also be times when you give us 'sensitive' information. We will use it to provide the service you require and may share it with other parts of the group and our subcontractors to keep our records up to date.
+
+How we check your identity
+
+We may ask you to provide physical forms of identity verification when you open your account.  Alternatively, we may search credit reference agency files in assessing your application.  The agency also gives us other details and information from the Electoral Register to verify your identity.  The agency keeps a record of our search, whether or not your application proceeds.  Our search is not seen or used by lenders to assess your ability to obtain credit.
+
+Undertaking Anti-Money Laundering checks
+
+To comply with money laundering regulations, there are times when we need to confirm (or reconfirm) the name and address of our customers. This information may be shared with other group companies. 
+
+_Changes to Privacy Notice_
+
+We keep our privacy notice under regular review and we will reflect any updates within this notice. This privacy notice was last updated ON 6 June 2012
 
 Back to top
