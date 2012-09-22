@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621231339id_/http%3A//www.outdoorphotographer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922130117id_/http%3A//www.outdoorphotographer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | OutdoorPhotographer.com
 
