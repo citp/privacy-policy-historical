@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wand.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528040140id_/http%3A//www.wand.com/core/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wand.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922153508id_/http%3A//www.wand.com/core/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
