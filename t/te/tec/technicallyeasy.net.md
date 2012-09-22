@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the technicallyeasy.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623073727id_/http%3A//technicallyeasy.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technicallyeasy.net privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922232804id_/http%3A//technicallyeasy.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Technically Easy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin AT technicallyeasy.net.
 
 At technicallyeasy.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by technicallyeasy.net and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, technicallyeasy.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 technicallyeasy.net does not use cookies.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Linkshare.
