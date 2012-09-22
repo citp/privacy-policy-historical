@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pgeveryday.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508090100id_/http%3A//www.pg.com/privacy/english/privacy_notice.html%3Futm_source%3Deds%26utm_medium%3Dcrm%26utm_campaign%3DApril12Newsletter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgeveryday.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922235914id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml%3Futm_source%3Deds%26utm_medium%3Dsite%26utm_campaign%3DOct2012) for the most accurate reproduction.*
 
 # P&G Privacy Notice
-
-P&G Privacy Notice
 
 This Privacy Notice applies to information, including personal information, collected about you by **P &G (The Procter & Gamble Company and its affiliated companies and subsidiaries)**
 
@@ -29,24 +27,5 @@ This Privacy Notice applies to information, including personal information, coll
   * We give you choices about how we communicate with you.
   * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to complete your request.
   * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to access and update the contact information you provided P&G.
-
-
-
-  * P&G is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy.
-  * P&G complies with country data protection laws.
-  * We cooperate with country data protection authorities if they believe a privacy problem has occurred.
-  * We participate in the US Council of [**Better Business Bureau's (BBB)**](https://www.bbb.org/online/consumer/cks.aspx?ID=292000103) Accredited Business Program and BBB EU Safe Harbor Dispute Resolution.
-
-
-
-  * To contact us with a question [**click here**](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html)(for country specific addresses)  
-Or write to us at:  
-P&G Global Privacy Team  
-PO Box 599  
-Cincinnati, OH 45202  
-USA
-  * To read our full Consumer Privacy Statement [**click here.**](https://web.archive.org/privacy/english/privacy_statement.shtml)
-  * To read our Global Privacy Policy [**click here.**](http://www.pg.com/en_US/sustainability/privacy/global_privacy_policy.shtml)
-  * [**Click here**](https://web.archive.org/privacy/english/privacy_faq.shtml) to view Answers to Frequently Asked Questions
 
 
