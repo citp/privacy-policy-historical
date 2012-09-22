@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the healthprofs.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512090303id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthprofs.com privacy policy that was archived on 2012-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120922084827id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" itemscope="" itemtype="http://schema.org/"><head>
 <meta charset="ISO-8859-1">
@@ -8,7 +8,6 @@
 
 
 <meta name="description" content="healthprofs.com: Privacy statement covering the Web site Healthprofs.com">
-<meta itemprop="description" content="healthprofs.com: Privacy statement covering the Web site Healthprofs.com">
 <meta name="keywords" content="HealthProfs.com - Privacy Policy - , privacy, information, sharing, spam, collecting">
 <meta name="robots" content="index,follow">
 
@@ -148,7 +147,7 @@ body {
 /* /PARNTER/PARTNER_HTML/IMAGES/THERAPIST OR HEALTHPROF.JPG */
 
 #pt .fatBack {
-	background-image: url(/images/therapist.jpg);
+	background-image: url('/images/professionals/therapist.jpg');
 	background-repeat: no-repeat;
 	float: left;
 	width: 100%; 
@@ -164,29 +163,29 @@ body {
 }
 
 #pt .fatBack.TD {
-	background-image: url(/images/therapist.jpg);
+	background-image: url('/images/professionals/therapist.jpg');
 }
 
 #pt .fatBack.CAM {
-	background-image: url(/images/healthprof.jpg);
+	background-image: url('/images/professionals/healthprof.jpg');
 }
 
 #pt .fatBack.GROUPS {
-	background-image: url(/images/group-therapy.jpg);
+	background-image: url('/images/professionals/group-therapy.jpg');
 }
 
 /* T1 is PSYCHIATRISTS */
 #pt .fatBack.TD.T1 {
-	background-image: url(/images/psychiatrist.jpg);
+	background-image: url('/images/professionals/psychiatrist.jpg');
 }
 
 /* T17 is TREATMENT FACILITIES */
 #pt .fatBack.T17 {
-	background-image: url(/images/treatment.jpg);
+	background-image: url('/images/professionals/treatment.jpg');
 }
 
 #pt .fatBack.BUILD {
-	background-image: url(/images/professional.jpg);
+	background-image: url('/images/professionals/professional.jpg');
 }
 
 #pt .fatMask {
@@ -278,109 +277,161 @@ body {
 	padding: 20px;
 }
 
-/* for left nav search refinements */
+/* BEGIN PROF RESULTS - LEFT NAV */
 #refine-left {
 	width:155px;
-	border-right:1px solid #ccc;
-	padding-right:2px;
-	padding-left:0px;
-	padding:0px;
-	border:0px;
-	margin:0px;
 }
 
-#refine-left h2 {
+#refine-left h2,
+#refine-left-refine h2 {
 	font-size: 14px;
-	margin-top: 0px;
 }
 
-#refine-left h3 {
-	font-size: 12px;
-	font-weight: normal;
-	border-top: 1px solid #ccc;
-	padding-top:8px;
+#refine-left ul,
+#refine-left-nearest ul {
+	margin: 6px 0 0 0;
+	padding: 0;
+	clear: both;
 }
 
-#refine-left h4 {
-	font-size: 11px;
-}
-
-#refine-left UL {
-	margin-left:14px;
-	padding-left:0px;
-	margin-top:0px;
-	padding-top:0px;
-	list-style-type:square;
-}
-
-#refine-left UL LI {
+#refine-left ul li {
 	margin-left: 0px;
-	padding-left:0px;
-	font-size: 9px;
-	line-height:16px;
-	color: orange;
+	padding-left:12px;
+	margin-bottom: 0.3em;
+	list-style: none;
 }
 
-#refine-left UL LI A {
-	color: #003399;
-	font-size: 12px;
-}
-
-#refine-left UL LI A:hover {
+#refine-left ul li a {
 	text-decoration: none;
+}
+
+#refine-left ul li a:hover {
+	text-decoration: underline;
+}
+
+#refine-left-this-search ul {
+	margin: 6px 0 6px 0;
+	padding-left: 0;
+	list-style:none;
+}
+
+#refine-left-this-search ul li {
+	background-image: url("/rms/images/check-filter.png");
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	color: #000;
+	font-weight: bold;
+}
+
+#refine-left #refine-left-this-search ul li a {
+	color: #000;
+}
+
+/* IMG SRC METHOD OF REMOVE REFINE 
+.refine-left-spec img,
+#refine-left ul li div.selected img { 
+	float:right;
+	margin-top: 2px;
+	padding-left: 4px;
+}
+
+#refine-left-this-search img {
+	width:11px;
+	height:11px;
+	float:right;
+	margin-right:6px;
+	margin-top:-12px;
+	border:0;
+}
+*/
+
+/* LINKED TEXT METHOD OF REMOVE REFINE */
+.refine-left-spec ul li a.selected {
+	display: block;
+	background-image: url(/rms/images/remove.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 3px;
+	padding-right: 15px;
+	font-weight: bold;
+}
+
+.refine-left-spec ul li a.selected:hover {
+	text-decoration: none;
+}
+
+#refine-left .refine-left-spec-zips ul li {
+	padding-left: 0px;
+}
+
+#refine-left .refine-left-spec-zips ul li a {
+	padding-left: 8px;
+	background: url("/rms/images/sprites.png") no-repeat;
+	background-position: -151px -133px;
+}
+
+/* LINKED TEXT METHOD OF REMOVE REFINE */
+#refine-left-this-search a {
+	display: block;
+	color: black;
+	background-image: url(/rms/images/remove.gif);
+	background-repeat: no-repeat;
+	background-position: 98% 3px;
+	padding-right: 15px;
+	text-decoration: none;
+}
+
+#refine-left-this-search ul li a:hover {
+	text-decoration: none;
+}
+
+#refine-left ul li a {
+	color: #039; /* for BUILD and CAM */
 }
 
 .refine-left-spec {
-	padding: 0px 0px 0px 0px;
+	padding: 0 6px 0 0;
 }
 
-/* fixme left nav is an embedded mess of inline and other CSS */
-.refine-left-spec H2 {
-	padding:0px 0 10px 8px;
-}
-
-#refine-left-nearest {
-	background-color: #e8e8e8;
+.refine-left-spec ul li,
+#refine-left-nearest ul li {
+	background: url("/rms/images/sprites.png") no-repeat;
+	background-position: -151px -133px;
 	padding-left: 8px;
-	padding-top: 1px;
-	padding-bottom: 1px;
+}
+
+/* orange bullet point for Refine Your Search 
+.refine-left-spec ul li {
+	background-position:-37px -133px;
+}
+*/
+
+/* green bullet point for See Nearest search */
+#refine-left-nearest ul li {
+	background-position: -151px -164px;
+}
+
+#refine-left ul li div.selected {
+	color: #039;
+	font-weight: bold;
+}
+
+#refine-left-this-search {
+	border-bottom: double #ccc;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+#refine-left #refine-left-refine #refine-left-broaden,
+#refine-left #refine-left-nearest {
 	border-top: double #ccc;
+	padding-top: 10px;
+	margin-top: 10px;
 }
 
-#refine-left-nearest H4 {
-	font-size: 11px;
-}
-
-#refine-left-nearest UL {
-	margin-left:14px;
-	padding-left:0px;
-	padding-top:0px;
-	list-style-type: square;
-}
-
-#refine-left-nearest UL LI {
-	margin-left: 0px;
-	padding-left:0px;
-	font-size: 9px;
-	line-height:16px;
-	color: #208C0E;
-}
-
-#refine-left-nearest UL LI A {
-	color: #003399;
-	font-size: 12px;
-}
-
-#refine-left-nearest UL LI A:hover {
-	text-decoration: none;
-}
-
-/* end left column refine */
+/* END PROF RESULTS - LEFT NAV */
 
 
 /* CONTEXTUAL MENU */
-
-
 #pt #contextual {
 	float: left;
 	width: 100%;
@@ -389,7 +440,6 @@ body {
 	background-color: #fff;
 	border: none;
 }
-
 
 #pt .contextual-left {
 	float: left;
@@ -404,16 +454,15 @@ body {
 	padding-right: 10px;
 }
 
-#pt .contextual-left A {
+#pt .contextual-left a {
 	color: #000000;
 	text-decoration: underline;
 	font-size: 13px;
 }
 
-#pt .contextual-right A {
+#pt .contextual-right a {
 	color: #000000;
 }
-
 
 #pt .contextual-clear {
 	clear: both;
@@ -1058,7 +1107,7 @@ ul.nice-menu-down li li.over,
 }
 
 #pt .prof-detail-label { 
-	margin-top: 0px;
+	margin-top: 10px;
 	color: #333;
         font-weight: normal;
         font-size: 18px;
@@ -1252,6 +1301,57 @@ a.network-image img {
   border: 1px solid #ccc;
 }
 
+/* Groups */
+
+#profile-groups {
+	clear: both;
+	float: left;
+	width: 100%;
+	margin-top: 25px;
+	border-top: 1px solid #ccc;
+}
+.profile-group {
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+	clear: both;
+	margin-top: 30px;
+	padding-bottom: 30px;
+}
+
+#pt h2.group-title {
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+
+#pt h2.group-header {
+	font-size: 20px;
+	font-weight: normal;
+	margin-top: 30px;
+}
+
+#pt .profile-group .prof-detail-left {
+	width: 540px;
+}
+.profile-group .profile-list {
+	float: left; 
+}
+
+
+
+.group-specs-col {
+	float: left;
+	width: 240px;
+	margin-right: 15px;
+}
+
+.group-contact {
+	float: left;
+	clear: both;
+	width: 100%;
+	margin-top: 15px;
+}
 </style>
 <!-- from /home/sgteam/rms/rms_html/directory.css -->
 <!-- to ../rms/cam_html/cam.css -->
@@ -1813,7 +1913,7 @@ td #prof-options-left {
   padding-bottom: 30px;
 
 }
-#prof-options-left A {
+#prof-options-left a {
 	color: #666;
 }
 
@@ -1821,23 +1921,23 @@ td #prof-options-left {
 	text-decoration: underline;
 }
 
-#prof-options-left UL {
+#prof-options-left ul {
 	padding: 0px;
 	margin: 0px;
 }
 
-#prof-options-left UL LI {
+#prof-options-left ul li {
 	padding: 0px;
 	margin: 0px;
 	list-style-type:none;
 	line-height: 1.6em;
 }
 
-#prof-options-left UL LI A {
+#prof-options-left ul li a {
 	color: #039;
 }
 
-#prof-options-left UL LI A.selected {
+#prof-options-left ul li A.selected {
 	font-weight: bold;
 	color: #ff9900;
 	text-decoration:none;
@@ -1960,18 +2060,18 @@ td #prof-options-left {
 	padding-left: 20px;
 }
 
-#enjoy UL {
+#enjoy ul {
 	display: inline;
 }
 
-#enjoy UL LI {
+#enjoy ul li {
 	list-style:none;
 	padding-left: 4px;
 	display:block;
 	float:left;
 }
 
-#enjoy UL LI DIV {
+#enjoy ul li div {
 	width: 145px;
 	height: 100px;
 	padding:12px;
@@ -2095,7 +2195,7 @@ H2 {
 	padding: 10px;
 }
 
-.attention A {
+.attention a {
 	color: black;
 }
 
@@ -2144,7 +2244,7 @@ H2 {
 	color: #90ad70;
 }
 
-#specialty-header A {
+#specialty-header a {
 	text-decoration:none;
 	color: #90ad70;
 }
@@ -2158,7 +2258,7 @@ H2 {
 	color:#968db6;
 }
 
-#network A {
+#network a {
 	font-family: Georgia, serif;
 	font-style:normal;
 	font-size:16px;
@@ -2177,13 +2277,13 @@ H2 {
 	padding-right: 40px;
 }
 
-.list UL {
+.list ul {
 	margin-left: 0px;
 	padding-left: 25px;
 	border-left:2px solid #2ce14e;
 }
 
-.list UL LI {
+.list ul li {
 	font-family: 'specialists', Georgia, serif;
 	font-size:11px;
 	line-height:1.25em;
@@ -2191,13 +2291,13 @@ H2 {
 	margin-left: 0px;
 }
 
-.list UL LI A {
+.list ul li a {
 	font-family: 'specialists', Georgia, serif;
 	font-size:11px;
 	color: black;
 }
 
-.list UL LI A:hover {
+.list ul li a:hover {
 	color: #ff9f37;
 }
 
@@ -2210,7 +2310,7 @@ H2 {
 	border:1px solid #aca7a2;
 }
 
-#specialists UL {
+#specialists ul {
 	width: 905px;
 	padding-top:10px;
 	margin: 0 auto;
@@ -2218,7 +2318,7 @@ H2 {
 	list-style-type: none;
 }
 
-#specialists UL LI {
+#specialists ul li {
 	list-style-type: none;
 	margin-left:0px;
 	display: inline;
@@ -2228,44 +2328,13 @@ H2 {
 	float:left;
 }
 
-#specialists UL LI a {
+#specialists ul li a {
 	color: #1b49b2;
 	text-decoration: none;
 }
 
-#specialists UL LI a:hover {
+#specialists ul li a:hover {
 	color: #729EF6;
-}
-
-
-#refine-left-refine {
-	border-bottom: double #ccc;
-	padding: 0px 0px 10px 0px;
-}
-
-
-#refine-left h2 {
-	font-size: 14px;
-	padding-top: 12px;
-}
-
-
-#refine-left ul li a {
-	color: #039;
-	text-decoration: none;
-}
-
-#refine-left ul li a:hover {
-	text-decoration: underline;
-}
-
-#refine-left-nearest ul li a {
-	text-decoration: none;
-	color: #039;
-}
-
-#refine-left-nearest ul li a:hover {
-	text-decoration: underline;
 }
 
 /* next overrides for tabless design */
