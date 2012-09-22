@@ -1,65 +1,43 @@
-> *The following text is extracted and transformed from the mixd.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102174857id_/http%3A//www.mixd.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixd.co.uk privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922145327id_/http%3A//www.mixd.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Creative Design Agency | Mixd
+# Privacy & cookies | Mixd
 
-## This privacy policy sets out how Mixd uses and protects any information that you give Mixd when you use this website.
+**This privacy policy sets out how Mixd uses and protects any information that you give us when you use this website.**
 
-Mixd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website; you can be assured that it will only be used in accordance with this privacy statement.
 
-Mixd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2009.
+[View how we use cookies](https://web.archive.org/privacy/cookies)
 
-### What we collect
+Mixd may change this policy from time to time by updating this page. You should check this page frequently to ensure that you are happy with any changes. This policy is effective from **1st July 2012**.
 
-We may collect the following information:
+## What we may collect
 
-  * Name and job title.
-  * Contact information including email address.
-  * Demographic information such as postcode, preferences and interests.
-  * Other information relevant to customer surveys and/or offers.
-
-
-
-### What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
-  * We may use the information to customise the website according to your interests.
+  * Your name and job title
+  * Contact information including email address and telephone
+  * Your address and postcode
 
 
 
-### Security
+Any email address data collected is never passed on to any third parties.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+## Security
 
-### How we use cookies
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+## Links to other websites
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+## Controlling your personal information
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-### Links to other websites
-
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-### Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways: 
-
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@mixd.co.uk](mailto:info@mixd.co.uk)
+  * Whenever you are asked to fill in a form on the website, do not tick the box to indicate that you want your email address to be used by for email marketing purposes
+  * If you have previously agreed to us using your personal information for email marketing purposes, you may change your mind at any time by writing to the address given below or by emailing us
+  * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee may be payable. If you would like a copy of the information held on you please write to: **Mixd,  7 Alexandra Road, Harrogate HG1 5JS**.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Mixd, 7 Alexandra Road, Harrogate, North Yorkshire HG1 5JS.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or [email](mailto:info@mixd.co.uk) us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
