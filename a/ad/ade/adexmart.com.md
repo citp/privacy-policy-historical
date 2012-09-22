@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adexmart.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506084110id_/http%3A//adexmart.com/content/7-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adexmart.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923015524id_/http%3A//adexmart.com/content/7-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - adexmart
 
