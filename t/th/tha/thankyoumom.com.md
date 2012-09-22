@@ -1,41 +1,31 @@
-> *The following text is extracted and transformed from the thankyoumom.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125173701id_/http%3A//www.pg.com/en_US/sustainability/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thankyoumom.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922235914id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml%3Futm_source%3Deds%26utm_medium%3Dsite%26utm_campaign%3DOct2012) for the most accurate reproduction.*
 
-# PG.com Privacy: best practices, direct mail, employee benefits
+# P&G Privacy Notice
 
-## Privacy
+This Privacy Notice applies to information, including personal information, collected about you by **P &G (The Procter & Gamble Company and its affiliated companies and subsidiaries)**
 
-Our Privacy goal at P&G is to protect, collect and use personal information provided to us as if it is our own. We do not trade, sell or lease personal information entrusted to us. P&G values the trust people place in us when they give us personal information; this Global Privacy Policy describes how we work to maintain that trust.
+  * We collect information about you from a variety of sources, including:
+  * Information we collect from you directly.
+  * Information we collect about you when you visit our site, use our services, or view our online advertisements.
+  * Information we collect about you from other sources, such as commercially available sources.
+  
 
-We strive to be global and consistent in how we implement privacy. Our privacy policy applies to:
-
-  1. All individuals who provide personal information, such as consumers, customers, research subjects, business partners, shareholders, job applicants, employees, retirees, and others 
-  2. All locations where we operate, even where local regulations do not exist 
-  3. All methods of contact such the Internet, direct mail, telephone and mobile, and for emerging technologies and methods that might be tested 
+  * All the information we collect about you may be combined to help us tailor our communications to you and to develop world-class products and services.
 
 
 
-P&G’s Global Privacy Executive is accountable to the Vice-Chairman of the Board, the Chief Information Officer, the Global Human Relations Manager, the Chief External Relations Officer, and the Chief Marketing Officer. We manage Privacy through a Global Privacy Council, representing all geographic regions where we do business and business processes where personal information is collected—such as consumer marketing and employee benefits. P&G’s privacy policy and data protection practices extend by contract to our supplier and partner relationships.
+  * We use the information we collect to provide the products and services you request, to tell you about other products and services offered by P&G, and to manage our sites and services.
+  * In general, we do not share your personal information with third-party marketers, unless we have asked for and obtained your explicit consent.
+  * We may share your information:
+  * With our third-party service suppliers, including those who work on behalf of P&G and our business partners to send you joint communications that we hope you find of interest.
+  * If a P&G brand is sold to another company.
+  * To protect and defend the right and property of P&G (including enforcing our Terms and Conditions).
+  * When required by law, and / or public authorities.
 
-P&G promotes industry best practices to ensure privacy concerns are addressed and that personal information is protected. We serve on the boards or committees of global and local privacy organizations, and actively engage on important privacy issues to address the privacy needs of those who have trusted or may trust their information to us.
 
-Privacy is more than complying with country privacy laws—which we strive to do. It’s also about doing the right thing for the millions of people whose lives we touch every day through the use of their personal information. Our Privacy Policy is built not just on individual country privacy laws but also on the internationally accepted privacy principles, or fair information practices, established by the Organization for Economic Co-operation and Development (OECD), the European Union (EU) Data Protection Directive, and the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce. These principles and how P&G works to apply them are:
 
-**Benefits for individuals:** P&G collects and uses personal information to provide world-class products and services of superior quality for our consumers, customers, employees, and others. We limit the collection of personal information to what we need to know in order to achieve our goal of providing superior quality and value. For example, we use e-mail addresses to send consumers or shareholders or job applicants information they have requested. Consumer and employee feedback on products and services is used to improve our products and services.
+  * We give you choices about how we communicate with you.
+  * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to complete your request.
+  * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to access and update the contact information you provided P&G.
 
-**Notice:** We tell individuals what information we collect, how it is used, whether it may be temporarily transferred to others to provide the products or services requested and how to contact P&G with privacy inquiries. We provide a link to P&G’s consumer privacy notice on our Web sites, and in e-mails.
 
-**Choice:** We offer individuals who provide us information choices about receiving further communications from us; for example, our e-mail newsletters are sent only to those who have expressly asked to receive them, and the newsletters have a link to use to opt out of receiving future messages. We may ask individuals if they wish to participate in market research, and then contact them if they give us their permission. We do not contact individuals for marketing purposes if they have put their names on do not contact lists such as Direct Marketing Association, or Robinson lists in countries where these lists exist, or who have contacted P&G directly to opt out of our direct marketing programs.
-
-**Technology:** P&G uses technology in order to better serve our consumers, customers, employees, and others. We tell individuals when we use technologies that are privacy related. We do not use internet cookies to collect or store personal information. We actively promote best privacy practices and consumer benefit for emerging technologies that may have an effect on privacy, such as radio frequency identification tags used to manage product inventory.
-
-**Data Accuracy & Access:** P&G takes steps to make sure that the personal information we use is correct. We provide individuals with reasonable access to the personal information they've provided us so that they can review and correct it, or ask us not to use it. For example; employees can obtain their personal information through employee systems, and shareholders have access to their data through Shareholder Services. Consumers can obtain a copy of the data they have provided, or update their information by using [this link](https://web.archive.org/en_US/contact_us/index.shtml) to obtain a country-specific address to contact.
-
-**Security:** P&G protects personal information under company control by industry standard security practices and measures, in order to prevent loss, misuse, unauthorized access, disclosure or alteration. We limit access to personal information to those who have a business need. We do not keep personal information any longer than necessary to meet the business purpose for which it was collected, though in some cases, legal or regulatory reasons require that personal information not be deleted.
-
-**Data Transfer:** We may transfer personal information to P&G databases in countries other than where it was provided. Our global privacy program requires the same high level of security and protection of personal information in all geographies with procedures and contracts in place to help ensure this is so. Data may be temporarily transferred to a vendor or business partner to provide services for P&G, such as mailing information or samples. These vendors and business partners are required to protect and manage the personal information to the same high standards P&G does, and they cannot use the information for purposes other than to provide the services P&G has requested.
-
-**Children:** P&G generally does not intend to collect information from children (those under the age of 13, or an age defined by a country law). We ask for a birth date on our Web sites before collecting personal information to make sure we do not collect information from children when we do not intend to. Where we do collect information from children, we comply with country children's privacy laws, and ask only for the minimum information necessary to participate in the program. Parents can obtain a copy of the information their child has provided, or update the information, or can ask us to no longer use the information by using [this link](https://web.archive.org/en_US/contact_us/index.shtml) to obtain a country-specific address to contact.
-
-**Accountability:** P&G expects our employees and partners to maintain the trust placed in us by those who give us personal information. We provide privacy training to employees and highlight the importance of privacy in our worldwide business conduct program. Those who manage personal information complete privacy self-assessments to make sure that personal information is secure and protected. We periodically audit privacy compliance. P&G privacy policies and data protection practices extend by contract to our supplier and partner relationships. We support industry self-regulation as a flexible means for keeping pace with emerging privacy issues.
-
-**Notification of Policy:** Changes If major content changes are made to P&G’s Global Privacy Policy we will outline and post the changes along with the new version on this Web site.
