@@ -1,982 +1,763 @@
-<!--The following is the downloaded HTML source of the dentalplans.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504195757id_/http%3A//dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dentalplans.com privacy policy that was archived on 2012-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120922024612id_/http%3A//www.dentalplans.com/discountdentalplans/privacystatement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<style type="text/css">
-<!--
-
-	body,html
-	{
-		height: 100%;
-		min-height: 100%;
-		max-height:100%; /* fix height for other browsers */
-height:auto;
-	}
-
--->
-</style>
-
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script>
-//readCookie('dpaffiliate') // readCookie('dpsubaffiliate')
-function readCookie(name)   
-{   
-  var cookieValue = "";   
-  var search = name + "=";   
-  if(document.cookie.length > 0)   
-  {    
-    offset = document.cookie.indexOf(search);   
-    if (offset != -1)   
-    {    
-      offset += search.length;   
-      end = document.cookie.indexOf(";", offset);   
-      if (end == -1) end = document.cookie.length;   
-      cookieValue = unescape(document.cookie.substring(offset, end))   
-    }   
-  }   
-  return cookieValue;   
-}  
-
-//Logs Event Analytics
-function LoadVirtualGoogleEventTracking( strCategory, strEvent)
-{
-	var vCategory =strCategory;
-	var vEvent =strEvent;
-	pageTracker._trackEvent(vCategory, vEvent);
-}
-//Returns Filename with out extion
-function GetCurrentURLFileAlias()
-{
-	var cUrl = location.href.split('/');
-	var cFile = cUrl[cUrl.length-1].split('?')[0];
-	var cAlias = cFile.split('.')[0];
- 	   return cAlias;
-}
-
-</script>
-
-
-<title>DentalPlans.com Privacy Policy</title>
-<meta name="description" content="At DentalPlans.com, your privacy is as important to us as it is to you.">
-
-<meta name="keywords" content="privacy information, statement, medical, dental, prescription, vision, benefits, plans, insurance, coverage, discount, free, dental benefits, dental plans, dental insurance">
-
-<meta name="robots" content="all">
-<meta name="distribution" content="global">
-<meta name="resource-type" content="document">
-<meta name="revisit-after" content="20 days">
-<meta http-equiv="X-UA-Compatible" content="IE=7">
-<link rel="canonical" href="">
-
-<script type="text/javascript">
-
-/***********************************************
-* Different CSS depending on OS (mac/pc)- 
-
-***********************************************/
-
-//Specify type of CSS to use. "Inline" or "external"
-var csstype="external" 
-
-var mac_css='body{font-size: 14pt; }' //if "inline", specify mac css here
-var pc_css='body{font-size: 12pt; }' //if "inline", specify PC/default css here
-
-var mac_externalcss='/macstyle.css' //if "external", specify Mac css file here
-var pc_externalcss='/pcstyle.css'   //if "external", specify PC/default css file here
-
-
-
-var mactest=navigator.userAgent.indexOf("Mac")!=-1
-if (csstype=="inline"){
-document.write('<style type="text/css">')
-if (mactest)
-document.write(mac_css)
-else
-document.write(pc_css)
-document.write('</style>')
-}
-else if (csstype=="external")
-document.write('<link rel="stylesheet" type="text/css" href="'+ (mactest? mac_externalcss : pc_externalcss) +'">')
-
-</script><link rel="stylesheet" type="text/css" href="/pcstyle.css">
-
-
-
-
-<script language="Javascript1.2" type="text/javascript">
-
-<!--
-
-var message = "Print this Page";
-
-function printpage() {
-window.print();  
-}
-//-->
-
-</script>
-
-<script language="JavaScript" type="text/javascript">
-
-
-<!-- Begin
-
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=400,height=300,left = 100,top = 100');");
-}
-
-function popUp2(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=650,height=400,left = 100,top = 100');");
-}
-
-function popUp3(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=400,height=300,left = 100,top = 100');");
-}
-
-
-function popUp4(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=350,height=300,left = 100,top = 100');");
-}
-
-
-
-
-function checkForm()
-{
-var selected = window.document.navForm.navMenu.selectedIndex;
-window.document.navForm.navMenu.selectedIndex = 0;
-parent.window.location.href = window.document.navForm.navMenu.options[selected].value;
-}
-
-
-
-function clearField(theField){
-        theField.value="";
-}
-
-
-
-
-function fpvalidator(theForm)
-{
-
-var alertsay = "";
-
-	// check if email field is blank
-	if (theForm.zipcode.length() < 3) 
-	{
-	alert("Please enter a zipcode or City, ST.");
-	theForm.zipcode.focus();
-	return (false);
-	}
-		
-}
-
-
-
-function addbookmark()
-{
-bookmarkurl="http://www.dentalplans.com/moreinfo/privacystatement.asp"
-bookmarktitle="DentalPlans.com"
-if (document.all)
-window.external.AddFavorite(bookmarkurl,bookmarktitle)
-}
-
-
-// End -->
-
-</script>
-
-
-
-<!--FrameBust Script -->
-
-    <script language="JavaScript" type="text/javascript">
-		<!--
-			if (top.frames.length!=0){  
-				try {   
-				var shref = document.parentWindow ? document.parentWindow.location.href : top.location.href;  
-				var dot = shref.indexOf(".");  
-				if (dot != -1)  { 
-					var sdomain = shref.substr (dot + 1);    
-					if (sdomain.substr(0, 11).toLowerCase() != "blogger.com")    { 
-						top.location.replace(self.document.location);    
-						}  
-					}  
-				} catch (e) {top.location.replace(self.document.location);}
-			}// -->
-</script>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+     <title>DentalPlans.com Privacy Policy</title>
+    <meta name="robots" content="all">
+    <meta name="distribution" content="global">
+    <meta name="resource-type" content="document">
+    <meta name="revisit-after" content="20 days">
     
+    <link rel="canonical" href="">
+    <link href="/Content/master_reset.css" rel="stylesheet" type="text/css">
+    <link href="/Content/general_classes.css" rel="stylesheet" type="text/css">
+    <link href="/Content/main_style.css" rel="stylesheet" type="text/css">
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css">
+    <script src="/Scripts/jquery-1.5.1.min.js" type="text/javascript"></script>
+    <script src="/Scripts/modernizr-1.7.min.js" type="text/javascript"></script>
+    <script src="/Scripts/DefaultButton.js" type="text/javascript"></script>
+    <script src="/Scripts/MP_JavaScriptCode_Dentalplans_enes.js" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+    <link href="/Content/style_chrome.css" rel="stylesheet" type="text/css">
+    <!--[if IE 8]>
+        <link href="/Content/style_ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+        <link href="/Content/style_ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 9]>
+        <link href="/Content/style_ie9.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    
+    
+    <meta name="description" content="At DentalPlans.com, your privacy is as important to us as it is to you.">
+    <meta name="keywords" content="privacy information, statement, medical, dental, prescription, vision, benefits, plans, insurance, coverage, discount, free, dental benefits, dental plans, dental insurance">
+    <meta name="menustring" content="catmoreinfo,menumoreinfo,spacer,catdentalplans,catdentalinsurance,catotherbenefitplans,catsearch,cathomepage,leftnavfooter,leftnavspecial">
 
-<!-- End FrameBust Script-->
-
-<!-- Start Visual Website Optimizer Code -->
-<script type="text/javascript">
-var _vis_opt_account_id = 12210;
-var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
-document.write('<s' + 'cript src="' + _vis_opt_protocol + 
-'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
-+encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
-</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=12210&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120504195757id_%2Fhttp%253A%2F%2Fdentalplans.com%2Fmoreinfo%2Fprivacystatement.asp&amp;random=0.046976134715883466" type="text/javascript"></script>
-
-<script type="text/javascript">
-if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol + 
-'d5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>'); }
-// if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
-</script>
-
-<script type="text/javascript">
-if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
-        _vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
-}
-</script>
-<!-- End Visual Website Optimizer Code -->
-
-
-
-<link href="/globalStyleSheet.css" rel="stylesheet" type="text/css">
-
-
-<!-- mp_trans_supressurljs_start -->
-<!-- mp_trans_disable_start -->
-
-
-
-<script type="text/javascript">
-function getCookie(c_name)
-{
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    { 
-    c_start=c_start + c_name.length+1 ;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length
-    return unescape(document.cookie.substring(c_start,c_end));
-    } 
-  }
-return ""
-}
-var cookieVal=getCookie('_utmx');
-//Begin fucntion to define test id and combination
-function findComboWithK(k) { 
-var loc=cookieVal.search(k);
-var tempStr=cookieVal.substr(loc);
-var klength=k.length;
-var kval=tempStr.substr(0,klength);
-var comboNum=utmx('combination');
-if(comboNum==0){
-comboNum="c";}
-var kcombo=(kval+'-'+comboNum);
-return kcombo;
-}
-
-</script>
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <link href="/Content/jqModal.css" rel="stylesheet" type="text/css">
+    <script src="/Scripts/jqModal.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        function searchPlans1() {
+            $("#tblFindByZip_Layout").hide();
+            $("#replaceWithSearchType_Layout").replaceWith("Plans ");
+            $("#replaceWithZipCode_Layout").replaceWith($("#txtZipCodeForPlan_Layout").val());
 
 
 
-<script type="text/javascript">
-//try {
-var pageTracker = _gat._getTracker("UA-3535050-1");
-pageTracker._setAllowLinker(true);
-pageTracker._setDomainName("dentalplans.com");
-//var kc = findComboWithK('') 
-//pageTracker._setCustomVar(1,"",kc,2);
-pageTracker._trackPageview();
-pageTracker._trackPageLoadTime();
-//} catch(err) {}
+            $.ajax({
+                url: '/home/iszipcodevalid',
+                type: "GET",
+                data: { zipCode: $("#txtZipCodeForPlan_Layout").val() },
+                success: function (returnValue) {
+                    if (returnValue == "false") {
+                        $("#tblFindingZip1_Layout").hide();
+                        $("#tblZipNotFound_Layout").show();
+                        $("#divPlanSearch").hide();
 
+                        $('#divFindZipCode_Layout').jqm({ ajax: '/Home/ZipLookup?zipCodeNotFoundFor=Plan', trigger: '#lnkFindZip', modal: true, refreshParent: false });
+                    }
+                    else {
+                        $("#tblFindingZip1_Layout").show();
+                        var zipCode = $("#txtZipCodeForPlan_Layout").val();
+                        //todo: add url.action somehow
+                        var url = "/dentalsearch/dentalplansearch?zipcode=" + zipCode;
+                        $(location).attr('href', url);
+                    }
+                }
+            });
+        }
+        function searchDentists1() {
+            $("#tblFindByZip_Layout").hide();
+            $("#replaceWithSearchType_Layout").replaceWith("Dentists ");
+            $("#replaceWithZipCode_Layout").replaceWith($("#txtZipCodeForDentist_Layout").val());
+            //$("#tblFindingZip_Layout").show();
+            $.ajax({
+                url: '/home/iszipcodevalid',
+                type: "GET",
+                data: { zipCode: $("#txtZipCodeForDentist_Layout").val() },
+                success: function (returnValue) {
+                    if (returnValue == "false") {
+                        $("#tblFindingZip_Layout").hide();
+                        $("#tblDentistZipNotFound_Layout").show();
+                        $("#divDentistSearch").hide();
 
+                        $('#divFindZipCode_Layout').jqm({ ajax: '/Home/ZipLookup?zipCodeNotFoundFor=Dentist', trigger: '#lnkFindZip', modal: true, refreshParent: false });
+                    }
+                    else {
+                        $("#tblFindingZip_Layout").show();
+                        $("#divDentistSearch").hide();
+                        var zipCode = $("#txtZipCodeForDentist_Layout").val();
+                        var url = "/dentalsearch/DentistSearch?zipCode=" + zipCode + "&dentistLastName=" + $("#txtDentistlastname").val();
+                        $(location).attr('href', url);
 
-</script>
+                    }
+                }
+            });
+        }
+        $(document).ready(function () {
+            // //$("#tblFindingZip_Layout").hide();
+            // //$("#tblZipNotFound_Layout").hide();
+            // //$("#tblDentistZipNotFound_Layout").hide();
+            // //$("#tblFindingZip1_Layout").hide();
 
-<!-- mp_trans_disable_end -->
-<!-- mp_trans_supressurljs_end -->
+            $('#btnSearch_Layout').click(function () {
+                searchDentists1();
+            });
 
+            $("#txtZipCodeForPlan_Layout").keypress(function (e) {
+                if (e.which == 13) {
+                    searchPlans1();
+                }
+            });
+            $('#lnktrydentistagain').click(function () {
+                $("#tblDentistZipNotFound_Layout").hide();
+                $("#divDentistSearch").show();
 
-<!-- Start Kampyle Css -->
-<link rel="stylesheet" type="text/css" media="screen" href="/css/k_button.css">
-<!-- End Kampyle Css -->
-<script type="text/javascript">
-  window.___gcfg = {lang: 'en-GB'};
+            });
 
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=41449062"></script></head>
+            $('#lnktryplanagain').click(function () {
+                $("#tblZipNotFound_Layout").hide();
+                $("#divPlanSearch").show();
 
+            });
 
+            $('#btnSearchplan_Layout').click(function () {
+                searchPlans1();
+            });
 
+            $('#btnemailsubmit').click(function () {
 
+                if (isValidEmailAddress($("#txtenteremail").val())) {
 
+                    var URL = '/emailmesavings';
+                    URL = URL + "?Email=" + $("#txtenteremail").val();
+                    //"/RootPages/EmailMeSavings?Email=" + $("#txtenteremail").val()
+                    // window.open(URL, 'name', 'height=190,width=520,top=200,left=300,resizable');
+                    NewWindow(URL, 'mywin', '450', '380', 'yes', 'center');
+                }
+                else {
+                    alert('Please input valid Email Address!');
+                }
+            });
 
+            function isValidEmailAddress(emailAddress) {
 
+                var pattern = new RegExp("^[a-z0-9_\\+-]+(\\.[a-z0-9_\\+-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*\\.([a-z]{2,4})$");
+                return pattern.test(emailAddress);
+            }
 
-<body topmargin="0" leftmargin="0" onload="window.name = 'mainwindow' ">
+            $("#txtZipCodeForDentist_Layout").keypress(function (e) {
+                if (e.which == 13) {
+                    searchDentists1();
+                }
+            });
+            $("#img_3free").click(function () {
+                $("#tooltip_3free").show();
+                $("#tooltip_3free").show();
+            });
+            $("#img_3free").mouseout(function () {
+                $("#tooltip_3free").hide();
+            });
+        });
 
-<table border="0" cellpadding="0" cellspacing="0" width="985" align="center">
-<tbody><tr><td background="/images/bgshadow_left.gif"><img src="/images/bgshadow_left.gif" width="5"></td><td valign="top" align="left">
-<table border="0" cellpadding="0" cellspacing="0" width="985" align="center">
-<!--- begin header check img -->
-<!--dpwrap: -->
+        var win = null;
 
-  <tbody><tr>
-    <td width="765" bgcolor="#FFFFFF" style="background-image:url(/images/dp04headerback_newcopy.gif);height:72px;width:765px;"><table width="765" border="0" align="left" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td valign="bottom" width="225"><!-- using StandardImage -->
-		<a style="color: #041CAC; text-decoration: underline; font-family: Verdana" href="http://www.dentalplans.com/"><img style="POSITION: relative; LEFT: 6px; TOP: 0px;" border="0" alt="Dental Insurance Alternatives, Discount Dental Plans for Individuals &amp; Families" align="top" src="/images/dp_header_large.gif"></a></td>
+        function NewWindow(mypage, myname, w, h, scroll, pos) {
+            if (pos == "random") { LeftPosition = (screen.width) ? Math.floor(Math.random() * (screen.width - w)) : 100; TopPosition = (screen.height) ? Math.floor(Math.random() * ((screen.height - h) - 75)) : 100; }
+            if (pos == "center") { LeftPosition = (screen.width) ? (screen.width - w) / 2 : 100; TopPosition = (screen.height) ? (screen.height - h) / 2 : 100; }
+            else if ((pos != "center" && pos != "random") || pos == null) { LeftPosition = 0; TopPosition = 20 }
+            settings = 'width=' + w + ',height=' + h + ',top=' + TopPosition + ',left=' + LeftPosition + ',scrollbars=' + scroll + ',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';
+            win = window.open(mypage, myname, settings);
+            return false;
+        }
 
-  <!---end  header check img -->
-  
-	<td align="right" valign="top" width="150"><div style="padding-top:5px; color:white;width:698px;"><font size="4" color="black">
-	1-888-632-5353</font>&nbsp;<br>
-    <span style="font-size:10px;">M-F 8 AM - 9 PM EST</span>&nbsp;<br><span style="font-size:10px;"> <!-- mp_trans_supressurljs_start --><!--mp_trans_disable_start-->
+        function readCookie(name) {
+            var cookieValue = "";
+            var search = name + "=";
+            if (document.cookie.length > 0) {
+                var offset = document.cookie.indexOf(search);
+                if (offset != -1) {
+                    offset += search.length;
+                    var end = document.cookie.indexOf(";", offset);
+                    if (end == -1) end = document.cookie.length;
+                    cookieValue = unescape(document.cookie.substring(offset, end));
+                }
+            }
+            return cookieValue;
 
-<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/41449062/?cmd=file&amp;file=visitorWantsToChat&amp;site=41449062&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/ " target="chat41449062" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/41449062/?cmd=file&amp;file=visitorWantsToChat&amp;site=41449062&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat41449062','width=475,height=400,resizable=yes ');  LoadVirtualGoogleEventTracking('LiveChat','HeaderClick'); return false;" rel="nofollow"><img src="/images/livechat.gif" border="0"></a><!--mp_trans_disable_end--><!-- mp_trans_supressurljs_end -->
-<!-- mp_trans_remove_start -->
-	<a href="/enroll/index.asp" rel="nofollow"><img src="/images/img_mycart2.GIF" border="0" onclick="LoadVirtualGoogleEventTracking('Checkout','HeaderClick');" style="margin-right:6px;"></a>
-						  <!-- mp_trans_remove_end -->
-						  <!-- mp_trans_add
+        } 
+
+    </script>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-3535050-1");
+            pageTracker._setAllowLinker(true);
+            pageTracker._setDomainName("dentalplans.com");
+            pageTracker._trackPageview();
+        }
+        catch (err) { }
+    </script>
+    <script type="text/javascript" language="javascript">
+
+        function LoadVirtualGoogleEventTracking(strCategory, strEvent) {
+            var vCategory = strCategory;
+
+            var vEvent = strEvent;
+
+            pageTracker._trackEvent(vCategory, vEvent);
+        }
+    </script>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=41449062"></script></head>
+<body>
+    <div id="wrapper_outer">
+        <div id="wrapper_inner">
+            <table class="table_homepage_wrapper">
+                <tbody>
+                    <tr>
+                        <td class="hp_left_cell">
+                        </td>
+                        <td class="hp_middle_cell">
+                            <div id="header_container">
+
+<table width="765" style="border: 0; float: left; border-collapse: collapse;">
+                <tbody><tr>
+                    
+                        <td style="vertical-align: bottom; width: 225px;">
+                            <!-- using StandardImage -->
+                            <a style="color: #041CAC; text-decoration: underline; font-family: Verdana" href="/">
+                                <img class="landingheader_logo" style="vertical-align: top; POSITION: relative; LEFT: 6px; TOP: -1px; border: none;" alt="Individual and Family Discount Dental Plans, Affordable Dental Care Starting at $79.95 a Year!" src="/Content/images/dp_header_large.gif">
+                            </a>
+                        </td>    
+ <!---end  header check img -->
+    
+                
+                    <td style="text-align: right; vertical-align: top;" width="150">
+                        <div style="padding-top:4px; color:white;width:695px;">
+                            <p style="font-size: 18px; color:black; font-family: Verdana; margin:0px !important;">
+1-888-632-5353                            </p>
+                            <span style="font-size:10px; color: white;">
+                                M-F 8 AM - 9 PM EST
+                            </span>
+                            &nbsp; <br>
+                            <span style="font-size:10px;"> 
+                                <!-- mp_trans_supressurljs_start -->
+                                <!--mp_trans_disable_start-->
+                    
+                                <a id="_lpChatBtn" target="chat41449062" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/41449062/?cmd=file&amp;file=visitorWantsToChat&amp;site=41449062&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat41449062','width=475,height=400,resizable=yes ');  LoadVirtualGoogleEventTracking('LiveChat','HeaderClick'); return false;" rel="nofollow"><img alt="livechat" style="border: none;" src="/Content/images/livechat.gif"></a>
+                                <!--mp_trans_disable_end-->
+                                <!-- mp_trans_supressurljs_end -->
+                    
+                    
+                             <!-- mp_trans_remove_start -->
+                             <a href="/enroll" rel="nofollow">
+                                 <img src="/Content/images/img_mycart2.GIF" onclick="LoadVirtualGoogleEventTracking('Checkout', 'HeaderClick');" style="margin-right: 6px; border: none;" alt="my cart">
+                             </a>
+                             <!-- mp_trans_remove_end -->
+						   <!-- mp_trans_add
 						  <!-- mp_trans_disable_start --]>
-	<a href="/enroll/index.asp"><img src="/images/img_mycart2_sp.GIF" alt="Carrito" border="0"   onclick ="LoadVirtualGoogleEventTracking('Checkout','HeaderClick');"   style="margin-right:6px;" ></a>
+	<a href="/enroll"><img src="/Content/images/img_mycart2_sp.GIF" alt="Carrito" border="0"   onclick ="LoadVirtualGoogleEventTracking('Checkout','HeaderClick');"   style="margin-right:6px;" ></a>
 						   <!-- mp_trans_disable_end --]>
 						    -->
+                  
+                            </span>
+                        </div>
+                    </td>
+                </tr>
+	</tbody></table>
+                                
+                            </div>
+                            <!-- End of header_container -->
+                            <div id="middle_container">
+                                <table class="tbl_hp_main_outer">
+                                    <tbody>
+                                        <tr>
+                                            <td class="hp_home_left">
+                                                <div class="middle_left_container">
+                                                    <div class="left_vertical_nav_container">
+                                                        <ul id="menu">
+                                                            <li><a class="home" href="/" onclick="LoadVirtualGoogleEventTracking('MainNav','Home');" title="Dental Insurance Alternatives"> </a></li>
+                                                            <li><a class="individualplans" href="/individualdentalinsurancealternatives" onclick="LoadVirtualGoogleEventTracking('MainNav','Individual');" title="Individual Dental Plans"> </a></li>
+                                                            <li><a class="familyplans" href="/familydentalinsurancealternatives" onclick="LoadVirtualGoogleEventTracking('MainNav','Family');" title="Family Dental Plans"> </a></li>
+                                                            <li><a class="busgrpplans" href="/dentalplans/groupdentalplans" onclick="LoadVirtualGoogleEventTracking('MainNav','Bus/Groups');" title="Business &amp; Group Plans"> </a></li>
+                                                            <li><a class="visionhearmore" href="/prescriptionplans-visionplans-hearingplans" onclick="LoadVirtualGoogleEventTracking('MainNav','Other Discount Plans');" title="Vision Plans, Hearing Plans, Prescription Plans &amp; Chiropractic Plans"> </a></li>
+                                                            <li><a class="helpmefindplan" href="/dentalsearch/comparedentaldiscountplans" onclick="LoadVirtualGoogleEventTracking('MainNav','Advanced Search');" title="Help Me Find a Plan"> </a></li>
+                                                            <li><a class="compareallplan" href="/dentalsearch" onclick="LoadVirtualGoogleEventTracking('MainNav','Compare All Plans');" title="Compare All Plans"> </a></li>
+                                                            <li><a class="dentistlookup" href="/dentalsearch/howtofinddentists" onclick="LoadVirtualGoogleEventTracking('MainNav','Dentist Lookup');" title="Dentist Lookup"> </a></li>
+                                                            <li><a class="memeberlogin" href="/members" onclick="LoadVirtualGoogleEventTracking('MainNav','Members');" title="Member Login"> </a>
+                                                        </li></ul>
+                                                    </div>
+                                                        <div class="left_button_container">
+                                                            <img id="img_3free" src="/Content/images/3freebutton.jpg">
+                                                            <div id="tooltip_3free" class="DisplayNone">
+                                                                <span class="bold_text">Get 3 Extra Months FREE!</span><br>
+                                                                <br>
+                                                                We are offering our new members 3 extra months of plan membership for free - a $20
+                                                                to $50 value! Join a discount dental plan today and enjoy 15 months of dental care
+                                                                savings at no additional cost.</div>
+                                                        </div>
+                                                        <p class="align_center">
+                                                        </p>
+                                                    <br>
+                                                    
+                                                    <div id="tblZipNotFound_Layout" class="msg_container4" style="width: 210px; text-align: center; display:none">
+                                                        <div>
+                                                            Please enter a valid ZIP Code</div>
+                                                        <div>
+                                                            <a href="#" id="lnktryplanagain">Try Again</a></div>
+                                                    </div>
+                                                    <div class="loader_wrapper_nolayout">
+                                                        <div id="tblFindingZip1_Layout" class="loader_container_2 clear_both bold_text" style="width: 190px;
+                                                            text-align: center; display:none">
+                                                            <img class="dentist_search_img_1" src="/Content/images/dpclogo.png">
+                                                            is comparing Plans<br>
+                                                            in ZIP Code
+                                                            <div id="replaceWithZipCode1">
+                                                            </div>
+                                                            <br>
+                                                            <img class="ajax_loader_img" src="/Content/images/ajax-loader.gif">
+                                                        </div>
+                                                    </div>
+                                                    <div class="left_search_container" id="divDentistPlanSearch" style="display: none">
+                                                        <div class="search_container_top" id="divPlanSearch">
+                                                            <h6 class="search_heading_1">
+                                                                Find <span class="search_span">Plans</span> in Your Area</h6>
+                                                            <div class="srh_1">
+                                                                <label class="search_lbl_1">
+                                                                    ZIP code</label><input class="search_txt" type="text" id="txtZipCodeForPlan_Layout">
+                                                            </div>
+                                                            
+                                                            <div class="srh_button_container">
+                                                                
+                                                                <input class="btn_srch_1" type="button" value="Search" id="btnSearchplan_Layout">
+                                                            </div>
+                                                        </div>
+                                                        <div id="tblDentistZipNotFound_Layout" class="msg_container4" style="width: 210px;
+                                                            text-align: center; display:none">
+                                                            <div>
+                                                               Please enter a valid ZIP Code</div>
+                                                            <div>
+                                                                <a href="#" id="lnktrydentistagain">Try Again</a></div>
+                                                        </div>
+                                                        <div class="loader_wrapper_nolayout">
+                                                            <div id="tblFindingZip_Layout" class="loader_container_2 clear_both bold_text" style="width: 190px;
+                                                                text-align: center; display:none">
+                                                                <img class="dentist_search_img_1" src="/Content/images/dpclogo.png">
+                                                                is comparing Plans<br>
+                                                                in ZIP Code
+                                                                <div id="replaceWithZipCode">
+                                                                </div>
+                                                                <br>
+                                                                <img class="ajax_loader_img" src="/Content/images/ajax-loader.gif">
+                                                            </div>
+                                                        </div>
+                                                        <div class="search_container_bottom" id="divDentistSearch">
+                                                            <h6 class="search_heading_1">
+                                                                Find <span class="search_span">Dentists</span> in Your Area</h6>
+                                                            <div class="srh_1">
+                                                                <label class="search_lbl_1">
+                                                                    ZIP code
+                                                                </label>
+                                                                <input class="search_txt" type="text" id="txtZipCodeForDentist_Layout">
+                                                            </div>
+                                                            <div class="srh_1">
+                                                                <label class="search_lbl_1">
+                                                                    Dentist last name
+                                                                </label>
+                                                                <span class="left_srch_span1">(Optional)</span><br>
+                                                                <input class="search_txt clear_both" type="text" id="txtDentistlastname">
+                                                            </div>
+                                                            <div class="srh_button_container">
+                                                                <input class="btn_srch_1" type="button" value="Search" id="btnSearch_Layout"></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="hp_home_right">
+                                                <div class="middle_right_container">
+                                                    <div id="main">
+                                                        
+    <div class="breadcrumb_container1">
+        <table border="0" cellpadding="0" width="765" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 79%; font-size: 10px;">
+                    <span style="font-size: 10px">
+                        <a href="/">DentalPlans.com</a>
+                        &nbsp;&gt; <a href="/discountdentalplans">Information and Help</a>&nbsp;&gt;
+                        Privacy Policy</span>
+                </td>
+                <td style="width: 22%;">
+                    <div style="padding-right: 15px;">
+                        <a href="javascript:;" onclick="window.print();">print&nbsp;page</a>&nbsp;<a href="javascript:;" onclick="window.print();"><img src="/Content/images/printarticle.gif" alt="Print This Page" border="0" align="absbottom"></a></div>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
 
+                                                        
 
-
-</span></div></td>
-     
-	  </tr>
-	  </tbody></table>
-</td>
-  </tr>
-
-
-  
-  <tr><td width="100%" align="left" valign="top" bgcolor="#FFFFFF"><!-- padHeadersplittest   --><table border="0" cellspacing="0" cellpadding="5" style="height:100%;">
-         <tbody><tr> <td width="200" valign="top" bgcolor="#E1E9F2" scope="col" style="height:100%;" align="center">
-
-
-<table border="0" align="center" cellpadding="0" cellspacing="0" style="height:100%;min-height:100%;max-height:100%;" height="100%" width="100%">
-<tbody><tr style="">
-<td valign="top" style="max-height:100%;">
-
-<script type="text/javascript">
-function loadXMLtrackingDoc(url)
-{
-if (window.XMLHttpRequest)
-  {// code for IE7+, Firefox, Chrome, Opera, Safari
-  xmlhttp=new XMLHttpRequest();
-  }
-else
-  {// code for IE6, IE5
-  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  }
- 
-xmlhttp.open("GET",url,false);
-xmlhttp.send(null);
-//document.getElementById('test').innerHTML=xmlhttp.responseText;
-}
-</script>
-
-
-
-
-
-			
-
-
-
-<style>
-div#leftPanelLinks{ margin: 2px 8px 10px 13px;}
-</style>
-
-<script>
-var isbroker=true;
-</script>
-
-
-<div id="leftPanelLinks">
-
-<table width="185" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td><a href="http://www.dentalplans.com" onmouseover="document.leftnavhome.src='/images/sidebar2/sidebar_home_on.gif'" onmouseout="document.leftnavhome.src='/images/sidebar2/sidebar_home_off.gif'" onclick="LoadVirtualGoogleEventTracking('MainNav','Home');"><img src="/images/sidebar2/sidebar_home_off.gif" name="leftnavhome" width="185" height="31" alt="Dental Insurance Alternatives" border="0"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.dentalplans.com/individualdentalinsurancealternatives/index.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','Individual');" onmouseover="document.leftnavindividual.src='/images/sidebar2/sidebar_individual_on.gif'" onmouseout="document.leftnavindividual.src='/images/sidebar2/sidebar_individual_off.gif'"><img src="/images/sidebar2/sidebar_individual_off.gif" name="leftnavindividual" width="185" height="31" alt="Individual Dental Plans" border="0"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.dentalplans.com/familydentalinsurancealternatives/index.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','Family');" onmouseover="document.leftnavfamily.src='/images/sidebar2/sidebar_family_on.gif'" onmouseout="document.leftnavfamily.src='/images/sidebar2/sidebar_family_off.gif'"><img src="/images/sidebar2/sidebar_family_off.gif" name="leftnavfamily" width="185" height="31" alt="Family Dental Plans" border="0"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.dentalplans.com/dentalplans/GroupDentalPlans/GroupDentalPlans.asp" onmouseover="document.leftnavgroup.src='/images/sidebar2/sidebar_groups_on.gif'" onmouseout="document.leftnavgroup.src='/images/sidebar2/sidebar_groups_off.gif'" onclick="LoadVirtualGoogleEventTracking('MainNav','Bus/Groups');"><img src="/images/sidebar2/sidebar_groups_off.gif" name="leftnavgroup" width="185" height="31" alt="Business &amp; Group Plans" border="0"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.dentalplans.com/otherbenefitplans.asp" onmouseover="document.leftnavother.src='/images/sidebar2/sidebar_discountplans_on.gif'" onmouseout="document.leftnavother.src='/images/sidebar2/sidebar_discountplans_off.gif'" onclick="LoadVirtualGoogleEventTracking('MainNav','Other Discount Plans');"><img src="/images/sidebar2/sidebar_discountplans_off.gif" name="leftnavother" width="185" height="31" alt="Vision Plans, Hearing Plans, Prescription Plans &amp; Chiropractic Plans" border="0"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.dentalplans.com/search/comparedentaldiscountplans.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','Advanced Search');" onmouseover="document.leftnavsearch.src='/images/sidebar2/sidebar_help_on.gif'" onmouseout="document.leftnavsearch.src='/images/sidebar2/sidebar_help_off.gif'"><img src="/images/sidebar2/sidebar_help_off.gif&#10;" name="leftnavsearch" width="185" height="31" alt="Help Me Find a Plan" border="0"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.dentalplans.com/search/index.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','Compare All Plans');" onmouseover="document.leftnavcompare.src='/images/sidebar2/sidebar_compareall_on.gif'" onmouseout="document.leftnavcompare.src='/images/sidebar2/sidebar_compareall_off.gif'"><img src="/images/sidebar2/sidebar_compareall_off.gif" name="leftnavcompare" width="185" height="31" alt="Compare All Plans" border="0"></a></td>
-</tr>
-
-
-
-<tr>
-<td><a href="http://www.dentalplans.com/search/howtofinddentists.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','Dentist Lookup');" onmouseover="document.leftnavdentist.src='/images/sidebar2/sidebar_dentistlookup_on.gif'" onmouseout="document.leftnavdentist.src='/images/sidebar2/sidebar_dentistlookup_off.gif'"><img src="/images/sidebar2/sidebar_dentistlookup_off.gif" name="leftnavdentist" width="185" height="31" alt="Dentist Lookup" border="0"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.dentalplans.com/members/index.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','Members');" onmouseover="document.leftnavmem.src='/images/sidebar2/sidebar_members_on.gif'" onmouseout="document.leftnavmem.src='/images/sidebar2/sidebar_members_off.gif'"><img src="/images/sidebar2/sidebar_members_off.gif" name="leftnavmem" width="185" height="31" alt="Member Login" border="0"></a></td>
-</tr>
-<tr>
-<td>
-<!-- mp_trans_disable_start -->
-<!-- mp_trans_supressurljs_start -->
-
-
-<div id="tlls" style="padding-top:8px">
-
-<img id="3mf" src="/images/3freebutton.jpg" border="0" onclick="document.getElementById('blt3mfPop').style.display='inline';document.getElementById('blt3mfPop').style.top=document.getElementById('3mf').offsetHeight+370" onmouseout="document.getElementById('blt3mfPop').style.display='none';"><br>
-
-
+<div class="gen_main_container">
+    <div class="gen_inner_container">
+        <h2 class="gen_main_heading1">
+            Privacy Policy</h2>
+        <p>
+            DentalPlans.com takes your privacy seriously, and consequently, we have adopted
+            the following Privacy Policy.
+        </p>
+        <h3 class="gen_para_heading_pp">
+            What This Privacy Policy Covers
+        </h3>
+        <p>
+            This Privacy Policy applies to the personal information that DentalPlans.com receives
+            from you and thereafter stores in the company’s database, including but not limited
+            to information relating to your past use of DentalPlans.com products and services.
+            “Personal information” is information about you such as your name, street address,
+            email address, telephone number, and such other similar information that is received
+            from you by DentalPlans.com.
+        </p>
+        <p>
+            This Privacy Policy does not apply to the practices of individuals or companies
+            that DentalPlans.com does not own or control or to individuals or other business
+            entities that DentalPlans.com does not employ and manage. Although DentalPlans.com
+            requires DentalPlans.com Affiliates and Publishers to adhere to Good Business Practices
+            as a condition of their doing business with DentalPlans.com, DentalPlans.com does
+            not own or control such Affiliates and Publishers, and as such, DentalPlans.com
+            is not responsible for the information use and/or information gathering practices
+            of any Affiliate or Publisher. Affiliates and Publishers are not employees or agents
+            of DentalPlans.com, and the Internet User should understand that Affiliates and
+            Publishers may collect personal information from or about Internet Users in manners
+            and/or for purposes that are not consistent with the DentalPlans.com Privacy Policy.
+            The collection, use, and disclosure of information by Affiliates and Publishers
+            are subject to their own respective privacy policies, which may materially differ
+            both in form and substance from the DentalPlans.com Privacy Policy.
+        </p>
+        <h3 class="gen_para_heading_pp">
+            Information Collection and Use</h3>
+        <p>
+            DentalPlans.com collects personal information when you register or join with DentalPlans.com,
+            when you use DentalPlans.com products or services, when you visit DentalPlans.com
+            pages or the pages of certain DentalPlans.com advertisers, affiliates or publishers,
+            and when you enter promotions or sweepstakes. DentalPlans.com may also combine information
+            about you that we have with information that we obtain from advertisers or other
+            companies.
+        </p>
+        <p>
+            When you register or join, we ask for information such as your name, street address,
+            email address, birth date, gender, zip code, occupation and/or industry. Once you
+            register or join with DentalPlans.com and sign into our services, you are not anonymous
+            to us.
+        </p>
+        <p>
+            DentalPlans.com also automatically receives and records information on our server
+            logs from your browser, including your IP address, DentalPlans.com cookie information,
+            and the page you request. "Cookies" are small pieces of information that are stored
+            by an Internet User's browser on the Internet User's hard drive.
+        </p>
+        <p>
+            DentalPlans.com uses information for the following general purposes: to customize
+            the advertising and content you see, fulfill your requests for products and services,
+            improve our customer services, contact you, conduct research, and to provide anonymous
+            reporting for internal and external clients.
+        </p>
+        <h3 class="gen_para_heading_pp">
+            Information Sharing and Disclosure</h3>
+        <p>
+            DentalPlans.com does not rent, sell, or share personal identifying information about
+            you with nonaffiliated individuals or companies except 1) where it is necessary
+            to provide the information to acquire the products or services that you've requested
+            and where we have your permission to do so; or 2) under the following circumstances:
+            (a) we provide the information to nonaffiliated individuals or companies under confidentiality
+            agreements for the purpose of allowing them to use your personal information to
+            help DentalPlans.com communicate with you about offers from DentalPlans.com and/or
+            our marketing partners, however, these companies do not have any independent right
+            to share this information or to use this information for any purpose not consistent
+            with the limited use identified in the foregoing sentence; or 3) we also share your
+            personal identifying information in response to subpoenas, court orders, or other
+            legal process, and/or to establish and/or exercise our legal rights and/or to defend
+            against legal claims, and we will also share your information at such times and
+            under such circumstances that we determine, in our sole discretion, that it is necessary
+            to share the information in order to investigate, prevent, or take action regarding
+            illegal activities, suspected fraud, situations involving potential threats to the
+            physical safety of any person, violations of the DentalPlans.com Terms of Use, or
+            as otherwise required by law; and 4) we will transfer information about you if DentalPlans.com
+            is acquired by or merged with another company, and in this event, DentalPlans.com
+            will notify you before information about you is transferred and becomes subject
+            to a different privacy policy.
+        </p>
+        <p>
+            Additionally, DentalPlans.com displays targeted advertisements based on personal
+            information. Advertisers (including ad serving companies) may assume that people
+            who interact with, view, or click on targeted ads meet their targeting criteria
+            - for example, women ages 18-24 from a particular geographic area. DentalPlans.com
+            does not provide any personal information to the advertiser when you interact with
+            or view a targeted ad. However, by interacting with or viewing an ad, you are consenting
+            to the possibility that the advertiser will make the assumption that you meet the
+            targeting criteria used to display the ad. DentalPlans.com advertisers include financial
+            service providers (such as banks, insurance agents, stock brokers and mortgage lenders)
+            and non-financial companies (such as stores, airlines, and software companies).
+        </p>
+        <h3 class="gen_para_heading_pp">
+            Cookies</h3>
+        <p>
+            DentalPlans.com may set and access DentalPlans.com cookies on your computer. Advertisers
+            or other companies do not have access to DentalPlans.com's cookies. DentalPlans.com
+            uses web beacons to access DentalPlans.com cookies inside and outside of our network
+            of web sites and in connection with DentalPlans.com products and services.</p>
+        <p>
+            DentalPlans.com may use third-party advertising companies to serve ads on our site,
+            and it may also allow the companies that show advertisements on some of our pages
+            to set and access their own cookies on your computer. These companies may employ
+            cookies and action tags (also known as single pixel gifs or web beacons) to measure
+            advertising effectiveness. Any information that these third parties collect via
+            cookies and action tags is completely anonymous. These cookies are set and subsequently
+            accessed on an Internet User’s computer after the user interacts with, views, or
+            clicks on a targeted ad. If you do not wish to have other companies’ cookies set
+            on your computer, do not interact with, view or click on the targeted ads. These
+            other companies' use of their cookies is subject to their own privacy policies and
+            not the DentalPlans.com Privacy Policy, and as such, their privacy policy may materially
+            differ in both form and substance from the DentalPlans.com Privacy Policy.</p>
+        <h3 class="gen_para_heading_pp">
+            Confidentiality and Security</h3>
+        <p>
+            We limit access to the personal information about you within our company to employees
+            who we believe reasonably need to come into contact with that information in order
+            to provide products or services to you or in order to do their jobs. We have physical,
+            electronic, and procedural safeguards that comply with federal regulations to protect
+            personal information about you. Your DentalPlans.com Account Information is password-protected.
+            In certain areas DentalPlans.com uses industry-standard SSL encryption to protect
+            data transmissions.</p>
+        <h3 class="gen_para_heading_pp">
+            Changes to this Privacy Policy</h3>
+        <p>
+            DentalPlans.com may from time to time update this policy. We will notify you about
+            any significant changes in the way we treat personal information by sending you
+            a notice to the primary email address specified in your DentalPlans.com account
+            or by placing a prominent notice on our site.
+        </p>
+        <h3 class="gen_para_heading_pp">
+            Questions and Suggestions</h3>
+        <p>
+            DentalPlans.com wants you to enjoy all of the savings discounts that are available
+            to you as a member of DentalPlans.com. However, just as importantly, we want you
+            to be assured that the information that you entrust to us stays private and confidential.</p>
+        <p>
+            Thank you for coming to our web site. We hope to have the honor of serving you as
+            a member of DentalPlans.com for many years to come.
+        </p>
+    </div>
 </div>
-
-
-<!-- mp_trans_disable_end -->
-<!-- mp_trans_supressurljs_end -->
-</td>
-</tr>
-
-</tbody></table>
-
-
-
-
-
-
-<script> 
-if(isbroker==false) {
-//document.getElementById('nonbrokerlinks').style.display="none";
-}
-</script>
-
-<!-- AMOISE: Begin - Dynamic Image -->
-
-<!-- AMOISE: End - Dynamic Image -->
-		  
-
-
-
- <!-- mp_trans_supressurljs_start -->
-<!-- mp_trans_disable_start -->
-   
-
-
-<!-- mp_trans_disable_end -->
-    <!-- mp_trans_supressurljs_end -->
-
-
-
-
-
-</div>
-	
-
-<div align="center">
-
-
-</div></td>
-</tr>
-
-<tr style="height:100%;min-height:100%;max-height:100%;">
-
-<td valign="top" style="height:100%;min-height:100%;max-height:100%;">
-
-
-</td>
-      </tr>
-	  </tbody></table>
-	  
-		  
-<style>
-	#blt3mfPop{
-position:absolute; 
-width:430px; 
-left:20%;
-top:0px;
-height:115px; 
-z-index:997;
-/*visibility:  hidden;
-display:none;
-background-image:url(/images/ballon.png);
- background-repeat:no-repeat;
-padding:15px;*/
-}
-	</style>
-
-
-<span id="3mfButton"></span><div id="blt3mfPop" style="display:none;">
-<table border="0" cellpadding="0" cellspacing="0" width="300">
-<tbody><tr>
-<td><img src="/images/spacer.gif" width="15" height="1" border="0" alt=""></td>
-<td><img src="/images/spacer.gif" width="225" height="1" border="0" alt=""></td>
-<td><img src="/images/spacer.gif" width="15" height="1" border="0" alt=""></td>
-<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-</tr>
-<tr>
-<td><img name="ballon_tl" src="/images/ballon_tl.png" width="15" height="15" border="0" alt=""></td>
-<td background="/images/ballon_t.png"></td>
-<td><img name="ballon_tr" src="/images/ballon_tr.png" width="15" height="15" border="0" alt=""></td>
-<td><img src="/images/spacer.gif" width="1" height="15" border="0" alt=""></td>
-</tr>
-<tr>
-<td background="/images/ballon_l.png"></td>
-<td align="center" valign="top" background="/images/ballon_c.png"><div align="left"><font size="1"><strong>Get 3 Extra Months FREE!</strong><br>
-<br>
-We are offering our new members 3 extra months of plan membership for free - a $20 to $50 value! Join a discount dental plan today and enjoy 15 months of dental care savings at no additional cost. </font></div></td>
-<td background="/images/ballon_r.png"></td>
-<td><img src="/images/spacer.gif" width="1" height="29" border="0" alt=""></td>
-</tr>
-<tr>
-<td><img name="ballon_bl" src="/images/ballon_bl.png" width="15" height="15" border="0" alt=""></td>
-<td background="/images/ballon_b.png"></td>
-<td><img name="ballon_br" src="/images/ballon_br.png" width="15" height="15" border="0" alt=""></td>
-<td><img src="/images/spacer.gif" width="1" height="15" border="0" alt=""></td>
-</tr>
-</tbody></table>
-</div>	  
-
-
-
-	  </td><td width="785" valign="top">
-
-	  
-<div style="display:none">
-</div>
-
-  <table border="0" cellpadding="0" width="100%" cellspacing="0">
-        <tbody><tr>
-      <td width="95%"><p><strong><font size="1">you are here</font></strong><font size="1">: <a href="/Index.asp">DentalPlans.com</a>&nbsp;&gt; <a href="/moreinfo/Index.asp">Information and Help</a>&nbsp;&gt; Privacy Policy</font></p></td>
-		  		<td width="5%" nowrap="nowrap">
-			<div style="padding-right: 15px;"><a href="javascript:;" onclick="window.print();"><font size="1">print&nbsp;page</font></a>&nbsp;<a href="javascript:;" onclick="window.print();"><img src="/images/printarticle.gif" alt="Print This Page" border="0" align="absbottom"></a></div></td>
-		</tr>
-      </tbody></table>
-  <br>
-<div align="center" class="pageheader">Privacy Policy</div>
-<br>
-<table width="765" border="0" cellspacing="0" cellpadding="4">
-  <tbody><tr>
-    <td>DentalPlans.com takes your privacy seriously, and consequently, we have adopted the following Privacy Policy. </td>
-  </tr>
-  <tr>
-    <td height="15"> </td>
-  </tr>
-  <tr>
-    <td><div class="sectionheader">What This Privacy Policy Covers</div>
- </td>
-  </tr>
-  <tr>
-    <td><p>This Privacy Policy applies to the personal information that DentalPlans.com receives from you and thereafter stores in the company’s database, including but not limited to information relating to your past use of DentalPlans.com products and services. “Personal information” is information about you such as your name, street address, email address, telephone number, and such other similar information that is received from you by DentalPlans.com. </p>
-    <p>This Privacy Policy does not apply to the practices of individuals or companies that DentalPlans.com does not own or control or to individuals or other business entities that DentalPlans.com does not employ and manage. Although DentalPlans.com requires DentalPlans.com Affiliates and Publishers to adhere to Good Business Practices as a condition of their doing business with DentalPlans.com, DentalPlans.com does not own or control such Affiliates and Publishers, and as such, DentalPlans.com is not responsible for the information use and/or information gathering practices of any Affiliate or Publisher. Affiliates and Publishers are not employees or agents of DentalPlans.com, and the Internet User should understand that Affiliates and Publishers may collect personal information from or about Internet Users in manners and/or for purposes that are not consistent with the DentalPlans.com Privacy Policy. The collection, use, and disclosure of information by Affiliates and Publishers are subject to their own respective privacy policies, which may materially differ both in form and substance from the DentalPlans.com Privacy Policy. </p></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="sectionheader">Information Collection and Use</div></td>
-  </tr>
-  <tr>
-    <td><p>DentalPlans.com collects personal information when you register or join with DentalPlans.com, when you use DentalPlans.com products or services, when you visit DentalPlans.com pages or the pages of certain DentalPlans.com advertisers, affiliates or publishers, and when you enter promotions or sweepstakes. DentalPlans.com may also combine information about you that we have with information that we obtain from advertisers or other companies. </p>
-      <p>When you register or join, we ask for information such as your name, street address, email address, birth date, gender, zip code, occupation and/or industry. Once you register or join with DentalPlans.com and sign into our services, you are not anonymous to us. </p>
-      <p>DentalPlans.com also automatically receives and records information on our server logs from your browser, including your IP address, DentalPlans.com cookie information, and the page you request. "Cookies" are small pieces of information that are stored by an Internet User's browser on the Internet User's hard drive. </p>
-    <p>DentalPlans.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our customer services, contact you, conduct research, and to provide anonymous reporting for internal and external clients. </p></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="sectionheader">Information Sharing and Disclosure</div></td>
-  </tr>
-  <tr>
-    <td><p>DentalPlans.com does not rent, sell, or share personal identifying information about you with nonaffiliated individuals or companies except 1) where it is necessary to provide the information to acquire the products or services that you've requested and where we have your permission to do so; or 2) under the following circumstances: (a) we provide the information to nonaffiliated individuals or companies under confidentiality agreements for the purpose of allowing them to use your personal information to help DentalPlans.com communicate with you about offers from DentalPlans.com and/or our marketing partners, however, these companies do not have any independent right to share this information or to use this information for any purpose not consistent with the limited use identified in the foregoing sentence; or 3) we also share your personal identifying information in response to subpoenas, court orders, or other legal process, and/or to establish and/or exercise our legal rights and/or to defend against legal claims, and we will also share your information at such times and under such circumstances that we determine, in our sole discretion, that it is necessary to share the information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the DentalPlans.com Terms of Use, or as otherwise required by law; and 4) we will transfer information about you if DentalPlans.com is acquired by or merged with another company, and in this event, DentalPlans.com will notify you before information about you is transferred and becomes subject to a different privacy policy. </p>
-    <p>Additionally, DentalPlans.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet their targeting criteria - for example, women ages 18-24 from a particular geographic area. DentalPlans.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. DentalPlans.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). </p></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="sectionheader">Cookies</div></td>
-  </tr>
-  <tr>
-    <td><p>DentalPlans.com may set and access DentalPlans.com cookies on your computer. Advertisers or other companies do not have access to DentalPlans.com's cookies. DentalPlans.com uses web beacons to access DentalPlans.com cookies inside and outside of our network of web sites and in connection with DentalPlans.com products and services.</p>
-    <p> DentalPlans.com may use third-party advertising companies to serve ads on our site, and it may also allow the companies that show advertisements on some of our pages to set and access their own cookies on your computer. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. These cookies are set and subsequently accessed on an Internet User’s computer after the user interacts with, views, or clicks on a targeted ad. If you do not wish to have other companies’ cookies set on your computer, do not interact with, view or click on the targeted ads. These other companies' use of their cookies is subject to their own privacy policies and not the DentalPlans.com Privacy Policy, and as such, their privacy policy may materially differ in both form and substance from the DentalPlans.com Privacy Policy.</p></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="sectionheader">Confidentiality and Security</div></td>
-  </tr>
-  <tr>
-    <td>We limit access to the personal information about you within our company to employees who we believe reasonably need to come into contact with that information in order to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Your DentalPlans.com Account Information is password-protected. In certain areas DentalPlans.com uses industry-standard SSL encryption to protect data transmissions.</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="sectionheader">Changes to this Privacy Policy</div></td>
-  </tr>
-  <tr>
-    <td>DentalPlans.com may from time to time update this policy. We will notify you about any significant changes in the way we treat personal information by sending you a notice to the primary email address specified in your DentalPlans.com account or by placing a prominent notice on our site. </td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="sectionheader">Questions and Suggestions</div></td>
-  </tr>
-  <tr>
-    <td>DentalPlans.com wants you to enjoy all of the savings discounts that are available to you as a member of DentalPlans.com. However, just as importantly, we want you to be assured that the information that you entrust to us stays private and confidential.<br>
-        <br>
-Thank you for coming to our web site. We hope to have the honor of serving you as a member of DentalPlans.com for many years to come. </td>
-  </tr>
-</tbody></table>
-<br>
-<br>
-	
-
-<!--mp_trans_disable_start-->
-<!-- mp_trans_supressurljs_start -->
-<script>
-//readCookie('dpaffiliate') // readCookie('dpsubaffiliate')
-function readCookie(name)   
-  
-{   
-  
-  var cookieValue = "";   
-  
-  var search = name + "=";   
-  
-  if(document.cookie.length > 0)   
-  
-  {    
-  
-    offset = document.cookie.indexOf(search);   
-  
-    if (offset != -1)   
-  
-    {    
-  
-      offset += search.length;   
-  
-      end = document.cookie.indexOf(";", offset);   
-  
-      if (end == -1) end = document.cookie.length;   
-  
-      cookieValue = unescape(document.cookie.substring(offset, end))   
-  
-    }   
-  
-  }   
-  
-  return cookieValue;   
-  
-}  
-</script>
-
-
-
-
-<!--Start Kampyle Feedback Form Button-->
-
-<div id="k_close_button" class="k_float kc_bottom kc_right" style="display: block;">X</div><div><a href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=1285412&amp;lang=en&amp;form_id=62451" target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" onclick="javascript:k_button.open_ff('site_code=1285412&amp;lang=en&amp;form_id=62451');return false;" rel="nofollow"><img src="/images/feedback/feedback_button.gif" alt="Feedback Form" border="0"></a></div>
-
-<script src="/js/k_button.js" type="text/javascript"></script>
-
-<!--End Kampyle Feedback Form Button-->
-
-<!--mp_trans_disable_end-->
-<!-- mp_trans_supressurljs_end -->
-
-</td></tr></tbody></table>
-
-
-</td></tr><tr><td bgcolor="#777777" height="1" width="100%"></td></tr>
-<tr><td bgcolor="#FFFFFF">
-
-
-<!-- #################### new footer ###################### -->
-
-
-<style type="text/css">
-
-
-#footer-links-small a
-{
-font-size:11px;
-}
-
-
-</style>
-
-
-
-
-
-<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="165" bgcolor="#e9eaea" style="border-top:#6d6d6d solid 0px; border-bottom:#6d6d6d solid 1px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="76%"><table width="750" cellpadding="0" cellspacing="0" style="border-top:#999999 solid 1px; border-right:#999999 solid 1px; border-bottom:#999999 solid 1px; font-size:11px; font-family:Verdana;" id="footer-links-small">
-          <tbody><tr>
-            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td></td>
-              </tr>
-              <tr>
-                <td height="139" bgcolor="#f4f5f5"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="25%" height="7"></td>
-                    <td width="25%" height="7"></td>
-                    <td width="29%" height="7"></td>
-                    <td width="21%" height="7"></td>
-                  </tr>
-                  <tr>
-                    <td align="left" valign="top" style="border-right:#999999 solid 1px; padding-left:10px;"><span style=" font-family:Verdana; font-size:14px; color:#434242; border-bottom:#d7e0e9 solid 1px;">Get to Know Us</span><span style="line-height:8px"><br><br></span>
-                      <div style="padding-left:10px; line-height:14px;">· <a href="/moreinfo/aboutus.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','About');">About Us</a><br>
-                        · <a href="/moreinfo/whymember.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','WhyDP');">Why DentalPlans.com</a><br>
-                        · <a href="/video" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','TVad');">View Our Commercial</a><br>
-                        · <a href="/press-room" onclick="LoadVirtualGoogleEventTracking('Footer','Press');">Press Center</a><br>
-                        · <a href="/moreinfo/careeropportunities.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Careers');">Careers</a><br>
-                        · <a href="/operationsmile.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Charity');">Operation Smile</a><br>
-                        · <a href="/dentalplans/dentalplantestimonials.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Testimonials');">Testimonials</a><br>
-                      </div></td>
-                    <td align="left" valign="top" style="border-right:#999999 solid 1px; padding-left:10px;"><span style=" font-family:Verdana; font-size:14px; color:#434242; border-bottom:#d7e0e9 solid 1px;">Let Us Help You</span><span style="line-height:8px"><br><br></span>
-                      <div style="padding-left:10px; line-height:14px;">· <a href="/moreinfo/index.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Info');">Info &amp; Help</a><br>
-                        · <a href="/moreinfo/faq.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','FAQ');">FAQ’s</a><br>
-                        · <a href="/moreinfo/contactus.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Contact');">Contact Us</a><br>
-                        · <a href="/members/index.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','AccessAccount');">Access Your Account</a><br>
-                        · <a href="/moreinfo/membersagreement.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','MAgreement');">Member's Agreement</a><br>
-                        · <a href="/moreinfo/termsofuse.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','TandC');">Terms &amp; Refund Policy</a><br>
-                        · <a href="/moreinfo/privacystatement.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Privacy');">Privacy Policy</a><br>
-                      </div></td>
-                    <td align="left" valign="top" style="border-right:#999999 solid 1px; padding-left:10px;"><span style=" font-family:Verdana; font-size:14px; color:#434242; border-bottom:#d7e0e9 solid 1px;">Plans &amp; Services</span><span style="line-height:8px"><br><br></span>
-                      <div style="padding-left:10px; line-height:14px;">· <a href="/dentalplans" onclick="LoadVirtualGoogleEventTracking('Footer','AllPlans');">All Discount Dental Plans</a><br>
-                        · <a href="/otherbenefitplans.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','OtherPlans');">Other Discount Plans</a><br>
-<!--                        · <a href="http://www.dentalcarediscounts.co.uk/" target="_blank" onclick="LoadVirtualGoogleEventTracking('Footer','UKsite');">UK Discount Dental Plan</a><br />-->
-                        · <a href="/pmpdentists/index.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','PMP');">Dental Professionals Program</a><br>
-                        · <a href="/affiliate" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Aff');">Affiliate Program</a><br>
-                        · <a href="/brokers" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','DPBroker');">DP Brokers Program</a><br> 
-                        · <a href="http://dentalinsurance.dentalplans.com" onclick="LoadVirtualGoogleEventTracking('Footer','States');">Dental Plans by State</a><br>
-						· <a href="/deals-health-products/" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','SpecialDeals');">Special Offers</a><br></div></td>
-                    <td align="left" valign="top" style="padding-left:10px;"><span style=" font-family:Verdana; font-size:14px; color:#434242; border-bottom:#d7e0e9 solid 1px;">Tools</span><span style="line-height:8px"><br><br></span>
-                      <div style="padding-left:10px; line-height:14px;">· <a href="/search/comparedentaldiscountplans.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','AdvSearch');">Adv. Plan Search</a><br>
-                        · <a href="/search/howtofinddentists.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','DentistSearch');">Dentist Search</a><br>
-                        · <a href="/moreinfo/dental_insurance_and_discount_dental_plans.asp" onclick="LoadVirtualGoogleEventTracking('Footer','Howitworks');">How Plans Work</a><br>
-                        · <a href="/moreinfo/dentalplans101.asp" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','DP101');">Dental Plans 101</a><br>
-                        · <a href="javascript:;" onclick="window.open('/regpop.asp','dentalplans','width=420,height=380'); return false;LoadVirtualGoogleEventTracking('Footer','Emailme');" rel="nofollow">Email Me Info</a><br>
-                        · <a href="/articles/dental_health_care_news.html" onclick="LoadVirtualGoogleEventTracking('Footer','Dentalnews');">Dental Care News</a><br>
-                        · <a href="/moreinfo/sitemap.asp" onclick="LoadVirtualGoogleEventTracking('Footer','Sitemap');">Site Map</a><br>
-                      </div></td>
-                  </tr>
-                  <tr>
-                    <td height="7"></td>
-                    <td height="7"></td>
-                    <td height="7"></td>
-                    <td height="7"></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-        <td width="24%" align="center" valign="top"><table width="93%" border="0" align="center" cellpadding="5" cellspacing="0">
-          <tbody><tr>
-            <td height="65" align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td height="21" align="center"><span style=" font-family:Verdana; font-size:14px; color:#434242;">Let's Get Connected</span></td>
-              </tr>
-              <tr>
-                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="19%" align="center"><a href="http://www.facebook.com/dentalplans" target="_blank" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','FB');"><img src="/images/newfooter/sm_f_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook" width="27" height="26" border="0"></a></td>
-                    <td width="17%" align="center"><a href="http://twitter.com/#!/dentalplanscom" target="_blank" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Twitter');"><img src="/images/newfooter/sm_f_twitter.png" alt="Follow Us on Twitter" title="Follow Us on Twitter" width="25" height="26" border="0"></a></td>
-                    <td width="18%" align="center"><a href="http://blog.dentalplans.com/?Tag=Dental+HyGenie" target="_blank" onclick="LoadVirtualGoogleEventTracking('Footer','Blog');"><img src="/images/newfooter/sm_f_blog.png" alt="DentalPlans.com Blog, Dental Insurance Alternatives" width="26" height="26" border="0" title="DentalPlans.com Blog, Dental Insurance Alternatives"></a></td>
-                    <td width="21%" align="center"><a href="http://www.youtube.com/dentalplans" target="_blank" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Youtube');"><img src="/images/newfooter/sm_f_youtube.png" alt="View Our YouTube Channel" title="View Our YouTube Channel" width="27" height="26" border="0"></a></td>
-                    <td width="25%" align="center">
-			
-				
-					
-<!-- ################## google plus one ######################## -->
-
-
-<g:plusone size="standard" annotation="none"></g:plusone>
-
-<!-- ################# google plus one ################### -->
-					</td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table>
-			
-			
-			<script>
-			
-var testresults
-function checkemail(){
-var str=document.getElementById('EmailMeSavingsEmailAddress').value
-var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i
-if (filter.test(str))
-testresults=true
-else{
-alert("Please input a valid email address!")
-testresults=false
-}
-return (testresults)
-}
-
-
-
-function submitenterEmailSavings(e)
-{
-var keycode;
-if (window.event) keycode = window.event.keyCode;
-else if (e) keycode = e.which;
-else return true;
-
-if (keycode == 13)
-   {
-   //alert('you press enter');
-    document.getElementById('emailsavingsImage').click();
-   
-   return false;
-   }
-else
-   return true;
-}
-
-
-			</script>
-			</td>
-          </tr>
-          <tr>
-            <td bgcolor="#f4f5f5" style="border:#999999 solid 1px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td height="20" align="center" style="padding-bottom:6px;"><span style=" font-family:Verdana; font-size:14px; color:#434242;">Email Me Savings &amp; Updates</span></td>
-              </tr>
-              <tr>
-                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="67%"><input name="EmailMeSavingsEmailAddress" type="text" id="EmailMeSavingsEmailAddress" style="width:120px;" value="Enter Email" onfocus="if (this.value == 'Enter Email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter Email';}" onkeyup="submitenterEmailSavings(event)"></td>
-                    <td width="33%"><img src="/images/newfooter/submit.png" id="emailsavingsImage" alt="Submit" width="77" height="25" title="Submit" onclick="checkemail(); if (testresults == true ){window.open('/EmailMeSavings.asp?Email='+ document.getElementById('EmailMeSavingsEmailAddress').value,'EmailMeSavings','width=450,height=375')};"></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-              <tr>
-                <td align="center" style="padding:4px 0px 3px 0px;"><a href="/moreinfo/privacystatement.asp" target="_blank" style="font-size:8px; font-family:Verdana;" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Privacy2');">Privacy Policy</a></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table>
-		
-	</td>
-  </tr>
-  
-
-  
-  <tr>
-    <td height="8" bgcolor="#e1e9f2"></td>
-  </tr>
-  
-    
-  
-  	
-<!-- ####################### end of table holding links ######################## -->	
-
-  <tr>
-    <td align="left" valign="top" bgcolor="#FFFFFF" style="padding:10px; font-size:12px; font-family:Verdana; color: #666;">The DENTALPLANS.COM website is administered by DENTALPLANS.COM, INC., a licensed Florida Discount Medical Plan Organization, 8100 S.W. 10th Street Suite #2000, Plantation, FL 33324. Plans and Programs offered by DentalPlans.com are not health insurance policies. Plans and Programs offered by DentalPlans.com provide discounts at certain health care providers for medical services. Plans and Programs offered by DentalPlans.com do not make payments directly to the providers of medical services. The Plan or Program member is obligated to pay for all health care services but will receive a discount from those health care providers who have contracted with the Plan, Program or discount plan organization.<br></td>
-  </tr>
-  
-
-  
-  
-  <tr>
-    <td align="left" valign="top" bgcolor="#FFFFFF" style="padding:10px; font-size:12px; font-family:Verdana; color:#666;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-	  
-        <td width="100%" style="padding-right:10px;">
-		
-		<span style="font-size:15px; font-weight:bold; font-family:Verdana; color: #666;">Special promotions including but not limited to additional months free and Membership Rewards® points from American Express are not available to California residents.</span><br>
-          <br>
-<span style="font-size:12px;color:#666;">© 1999-2012 DentalPlans.com, Inc. All Rights Reserved. Patents Pending. Blue Cross and Blue Shield of Florida is an Independent Licensee of the Blue Cross and Blue Shield Association.</span></td>
-
-
-
-<!-- mp_trans_supressurljs_start -->
-<!--mp_trans_disable_start-->
-       <td width="18%" align="right" nowrap="nowrap">
-		<a href="http://www.bbb.org/south-east-florida/business-reviews/dentist-referral-services/dentalplanscom-in-plantation-fl-4008612" target="_blank"><img src="/images/newcart/bbb_small.jpg" alt="BBB Rating A+" title="BBB Rating A+" width="87" height="38" border="0"></a>&nbsp;&nbsp;<script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.dentalplans.com&amp;size=M&amp;lang=en"></script>&nbsp;&nbsp;<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.dentalplans.com"><img width="65" border="0" src="//images.scanalert.com/meter/www.dentalplans.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
-		</td>
-<!--mp_trans_disable_end-->
-<!-- mp_trans_supressurljs_end -->
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-
-
-
-</td></tr></tbody></table>
-
-
-</td><td background="/images/bgshadow_right.gif"><img src="/images/bgshadow_right.gif" width="5"></td></tr></tbody></table>
-
-<table width="996" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td style="background-image:url(/images/bgshadow_bottom.gif); background-repeat: no-repeat;">&nbsp;</td>
-  </tr>
-</tbody></table>
-
-<!-- mp_trans_supressurljs_start -->
-<!--mp_trans_disable_start-->
-<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "41449062",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
-<!-- BEGIN Monitor Tracking Variables  -->
-<script language="JavaScript1.2">
+<!-- End of gen_main_container -->
+
+                                                    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- End of middle_container -->
+                            <div id="footer_container">
+                                <div class="footer_upper_container">
+                                    <div class="footer_upper_left">
+                                        <div class="footer_list_container1 border_right">
+                                            <h4 class="footer_list_heading">
+                                                Get to Know Us</h4>
+                                            <ul class="footer_list">
+                                                <li>
+                                                    <a href="/discountdentalplans/aboutus" onclick="LoadVirtualGoogleEventTracking('Footer','About');" rel="nofollow">About Us</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/discountdentalplans/whymember" onclick="LoadVirtualGoogleEventTracking('Footer','WhyDP');" rel="nofollow">Why DentalPlans.com</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/video/viewourcommercial" onclick="LoadVirtualGoogleEventTracking('Footer','TVad');" rel="nofollow">View Our Commercial 
+</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/press-room" onclick="LoadVirtualGoogleEventTracking('Footer','Press');">Press Center</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/discountdentalplans/careeropportunities" onclick="LoadVirtualGoogleEventTracking('Footer','Careers');" rel="nofollow">Careers</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/discountdentalplans/operationsmile" onclick="LoadVirtualGoogleEventTracking('Footer','Charity');" rel="nofollow">Operation Smile</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/dentalplans/alternativedentalinsurancereviews" onclick="LoadVirtualGoogleEventTracking('Footer','Testimonials');" rel="nofollow">Testimonials</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <!-- End of footer_list_container1 -->
+                                        <div class="footer_list_container1 border_right">
+                                            <h4 class="footer_list_heading">
+                                                Let Us Help You</h4>
+                                            <ul class="footer_list">
+                                                <li><a href="/discountdentalplans" onclick="LoadVirtualGoogleEventTracking('Footer','Info');" rel="nofollow">Info &amp; Help</a></li>
+                                                <li><a href="/discountdentalplans/faq" onclick="LoadVirtualGoogleEventTracking('Footer','FAQ');" rel="nofollow">FAQ’s</a></li>
+                                                <li><a href="/discountdentalplans/contactus" onclick="LoadVirtualGoogleEventTracking('Footer','Contact');" rel="nofollow">Contact Us</a></li>
+                                                <li><a href="/members" onclick="LoadVirtualGoogleEventTracking('Footer','AccessAccount');" rel="nofollow">Access Your Account</a></li>
+                                                <li><a href="/discountdentalplans/membersagreement" onclick="LoadVirtualGoogleEventTracking('Footer','MAgreement');" rel="nofollow">Member's Agreement</a></li>
+                                                <li><a href="/discountdentalplans/termsofuse" onclick="LoadVirtualGoogleEventTracking('Footer','TandC');" rel="nofollow">Terms &amp; Refund Policy</a></li>
+                                                <li><a href="/discountdentalplans/privacystatement" onclick="LoadVirtualGoogleEventTracking('Footer','Privacy');" rel="nofollow">Privacy Policy</a></li>
+                                            </ul>
+                                        </div>
+                                        <!-- End of footer_list_container1 -->
+                                        <div class="footer_list_container1 border_right">
+                                            <h4 class="footer_list_heading">
+                                                Plans &amp; Services</h4>
+                                            <ul class="footer_list">
+                                                <li><a href="/dentalplans" onclick="LoadVirtualGoogleEventTracking('Footer','AllPlans');">All Discount Dental Plans</a></li>
+                                                <li><a href="/prescriptionplans-visionplans-hearingplans" onclick="LoadVirtualGoogleEventTracking('Footer','OtherPlans');" rel="nofollow">Other Discount Plans</a></li>
+                                                <li><a href="/pmpdentists" onclick="LoadVirtualGoogleEventTracking('Footer','PMP');" rel="nofollow">Dental Professionals Program</a></li>
+                                                <li><a href="/dentalplansaffiliate" onclick="LoadVirtualGoogleEventTracking('Footer','Aff');" rel="nofollow">Affiliate Program</a></li>
+                                                <li><a href="/brokers" onclick="LoadVirtualGoogleEventTracking('Footer','DPBroker');" rel="nofollow">DP Brokers Program</a></li>
+                                                <li><a href="http://dentalinsurance.dentalplans.com/" onclick="LoadVirtualGoogleEventTracking('Footer','States');">
+                                                    Dental Plans by State</a></li>
+                                                <li><a href="/dealshealthproducts" onclick="LoadVirtualGoogleEventTracking('Footer','SpecialDeals');" rel="nofollow">Special Offers</a></li>
+                                            </ul>
+                                        </div>
+                                        <!-- End of footer_list_container1 -->
+                                        <div class="footer_list_container1">
+                                            <h4 class="footer_list_heading">
+                                                Tools</h4>
+                                            <ul class="footer_list">
+                                                <li><a href="/dentalsearch/comparedentaldiscountplans" onclick="LoadVirtualGoogleEventTracking('Footer','AdvSearch');" rel="nofollow">Adv. Plan Search</a></li>
+                                                <li><a href="/dentalsearch/howtofinddentists" onclick="LoadVirtualGoogleEventTracking('Footer','DentistSearch');" rel="nofollow">Dentist Search</a></li>
+                                                <li><a href="/discountdentalplans/dental_insurance_and_discount_dental_plans" onclick="LoadVirtualGoogleEventTracking('Footer','Howitworks');">How Plans Work</a></li>
+                                                <li><a href="/discountdentalplans/dentalplans101" onclick="LoadVirtualGoogleEventTracking('Footer','DP101');" rel="nofollow">Dental Plans 101</a></li>
+                                                <li><a href="/regpop" onclick="javascript:return NewWindow(this.href,'mywin','450','400','yes','center');LoadVirtualGoogleEventTracking('Footer','Emailme');" rel="nofollow">Email Me Info</a></li>
+                                                <li><a href="/dentalhealtharticles/dental_health_care_news.html" onclick="LoadVirtualGoogleEventTracking('Footer','Dentalnews');">Dental Care News</a></li>
+                                                <li><a href="/discountdentalplans/sitemap" onclick="LoadVirtualGoogleEventTracking('Footer','Sitemap');">Site Map</a></li>
+                                            </ul>
+                                        </div>
+                                        <!-- End of footer_list_container1 -->
+                                    </div>
+                                    <!-- End of footer_upper_left -->
+                                    <div class="footer_upper_right">
+                                        <h4 class="footer_list_headingright">
+                                            Let's Get Connected</h4>
+                                        <div class="social_mediaicon_container">
+                                            <a class="social_media_icon" href="http://www.facebook.com/dentalplans" target="_blank" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','FB');">
+                                                <img src="/Content/images/sm_f_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a>
+                                            <a class="social_media_icon" target="_blank" href="http://twitter.com/#!/dentalplanscom" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Twitter');">
+                                                <img src="/Content/images/sm_f_twitter.png" alt="Follow Us on Twitter" title="Follow Us on Twitter"></a>
+                                            <a class="social_media_icon" target="_blank" href="http://blog.dentalplans.com/?Tag=Dental+HyGenie" onclick="LoadVirtualGoogleEventTracking('Footer','Blog');">
+                                                <img src="/Content/images/sm_f_blog.png" alt="DentalPlans.com Blog, Dental Insurance Alternatives" title="DentalPlans.com Blog, Dental Insurance Alternatives"></a> <a class="social_media_icon" target="_blank" href="http://www.youtube.com/dentalplans" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Youtube');">
+                                                        <img src="/Content/images/sm_f_youtube.png" alt="View Our YouTube Channel" title="View Our YouTube Channel"></a>
+                                            <!-- ################## google plus one ######################## -->
+                                            <span class="google_plus_container">
+                                                <g:plusone size="standard" annotation="none"></g:plusone>
+                                            </span>
+                                            <!-- ################# google plus one ################### -->
+                                        </div>
+                                        <div class="update_container">
+                                            <h4 class="footer_list_headingright ">
+                                                Email Me Savings &amp; Updates</h4>
+                                            <div class="hp_btn_container1">
+                                                <input class="home_txtbox2" type="text" value="Enter Email" onfocus="if (this.value == 'Enter Email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter Email';}" id="txtenteremail"><img class="home_btn_submit" src="/Content/images/submit.png" id="btnemailsubmit"></div>
+                                            <div>
+                                                <p>
+                                                    <a class="privacy_policy_text" href="/discountdentalplans/privacystatement" target="_blank" rel="nofollow" onclick="LoadVirtualGoogleEventTracking('Footer','Privacy2');">Privacy
+                                                        Policy</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End of footer_upper_right -->
+                                </div>
+                                <!-- End of footer_upper_container -->
+                                <div class="footer_lower_container">
+                                    <p>
+                                        The DENTALPLANS.COM website is administered by DENTALPLANS.COM, INC.,  8100 S.W. 10th Street Suite #2000, Plantation, 
+                                        FL 33324. Plans and Programs marketed by DentalPlans.com are not health insurance policies. Plans and Programs marketed 
+                                        by DentalPlans.com provide discounts at certain health care providers for medical services. Plans and Programs 
+                                        marketed by DentalPlans.com on behalf of the network owner/administrator do not make payments directly to the 
+                                        providers of medical services. The Plan or Program member is obligated to pay for all health care services but 
+                                        will receive a discount from those health care providers who have contracted with the Plan, Program or discount 
+                                        plan organization.</p>
+                                    <div class="footer_lower_inner_1">
+                                        <div class="footer_lower_left">
+                                            <p class="footer_bold_text">
+                                                Special promotions including but not limited to additional months free and Membership
+                                                Rewards® points from American Express are not available to California residents.</p>
+                                            <p>
+                                                © 1999-2012 DentalPlans.com, Inc. All Rights Reserved. Patents Pending. Blue Cross
+                                                and Blue Shield of Florida is an Independent Licensee of the Blue Cross and Blue
+                                                Shield Association.</p>
+                                        </div>
+                                        <div class="footer_lower_right">
+                                            <!-- mp_trans_supressurljs_start -->
+                                            <!--mp_trans_disable_start-->
+                                            <table>
+                                                <tbody><tr>
+                                                    <td>
+                                                        <a target="_blank" class="social_media_icon2" href="http://www.bbb.org/south-east-florida/business-reviews/dentist-referral-services/dentalplanscom-in-plantation-fl-4008612">
+                                                            <img src="/Content/images/bbb_small.jpg" alt="BBB Rating A+" title="BBB Rating A+"></a>
+                                                    </td>
+                                                    <td>
+                                                        <script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.dentalplans.com&amp;size=M&amp;lang=en"></script>
+                                                    </td>
+                                                    <td>
+                                                        <a class="social_media_icon2" href="https://www.mcafeesecure.com/RatingVerify?ref=www.dentalplans.com" target="_blank">
+                                                            <img border="0" width="65" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/www.dentalplans.com/13.gif"></a>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                            <!--mp_trans_disable_end-->
+                                            <!-- mp_trans_supressurljs_end -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End of footer_lower_container -->
+                            </div>
+                            <!-- End of footer_container -->
+                        </td>
+                        <td class="hp_right_cell">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        </td>
+                        <td class="hp_bottom_cell">
+                        </td>
+                        <td>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <!-- End of wrapper_inner -->
+        <div id="givefeedback_container">
+            <!--Start Kampyle Feedback Form Button-->
+
+            <div id="k_close_button" class="k_float kc_bottom kc_right" style="display: block;">X</div>
+            <div>
+                <a class="feed_back_link" href="https://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=1285412&amp;lang=en&amp;form_id=62451" target="kampyleWindow" id="kampylink" onclick="javascript:k_button.open_ff('site_code=1285412&amp;lang=en&amp;form_id=62451');return false;"></a>
+            </div>
+            <input type="hidden" name="k_host_server" id="k_host_server" value="www.kampyle.com">
+            <script src="/Scripts/k_button.js" type="text/javascript"></script>
+            <script src="/Scripts/k_push.js" type="text/javascript"></script>
+            <!--End Kampyle Feedback Form Button-->
+        </div>
+    </div>
+    <!-- End of wrapper_outer -->
+    <!-- mp_trans_supressurljs_start -->
+    <!--mp_trans_disable_start-->
+    <!-- BEGIN LivePerson Monitor. -->
+    <script language="javascript">        var lpMTagConfig = { 'lpServer': "server.iad.liveperson.net", 'lpNumber': "41449062", 'lpProtocol': "https" }; function lpAddMonitorTag(src) { if (typeof (src) == 'undefined' || typeof (src) == 'object') { src = lpMTagConfig.lpMTagSrc ? lpMTagConfig.lpMTagSrc : '/hcp/html/mTag.js'; } if (src.indexOf('http') != 0) { src = lpMTagConfig.lpProtocol + "://" + lpMTagConfig.lpServer + src + '?site=' + lpMTagConfig.lpNumber; } else { if (src.indexOf('site=') < 0) { if (src.indexOf('?') < 0) src = src + '?'; else src = src + '&'; src = src + 'site=' + lpMTagConfig.lpNumber; } }; var s = document.createElement('script'); s.setAttribute('type', 'text/javascript'); s.setAttribute('charset', 'iso-8859-1'); s.setAttribute('src', src); document.getElementsByTagName('head').item(0).appendChild(s); } if (window.attachEvent) window.attachEvent('onload', lpAddMonitorTag); else window.addEventListener("load", lpAddMonitorTag, false);</script>
+    <!-- END LivePerson Monitor. -->
+    <!-- BEGIN Monitor Tracking Variables  -->
+    <script language="JavaScript1.2">
 if (typeof(lpMTagConfig.pageVar) == "undefined"){ lpMTagConfig.pageVar = new Array();}
 lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] = 'orderTotal=';
 if (typeof(lpMTagConfig.visitorVar) == "undefined"){ lpMTagConfig.visitorVar = new Array();}
 lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = 'vtid=';
-</script>
-<!-- End Monitor Tracking Variables  -->
-
-
-
-
-
-<!--mp_trans_disable_end-->
-<!-- mp_trans_supressurljs_end -->
-
-
-
-
+    </script>
+    <!-- End Monitor Tracking Variables  -->
+    <!--mp_trans_disable_end-->
+    <!-- mp_trans_supressurljs_end -->
 
 
 </body></html>
