@@ -1,29 +1,27 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613030430id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922232959id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-www wav sounds,  
-www wav sounds com,  
-digital audio sound effects,  
-order up sound effect free,  
-shut up sound effect,  
-downtown sounds,  
-dj sound effects pack,  
-free silly sound effects,  
-gun reloading and fire sound effect,  
-bump head sound effect,  
-crowd clapping sound effect,  
-hey sound effect,  
-heartbeat sound effect,  
-sounds of a ticking clock to download,  
-sythesised sound effects,  
-downloadable sound clips free,  
-transformers sound effects,  
-sound noise,  
-sound effects previews,  
-movie wav sounds 
-
-| 
+sound effects on itunes,  
+audio clips sound effects,  
+special effect sounds,  
+free sound fx ringtones,  
+thunder and rain sound effects,  
+free sound effects gulls,  
+dun dun dun sound clip,  
+sound of throwing horse shoes,  
+buy sound effects for making videos,  
+free bruce lee sound effects,  
+thunder sound effects,  
+motorbike sound effects,  
+power point sound effects people,  
+hammer sound effects,  
+gear animation sounds,  
+sound effects flicker on,  
+planet exploding sound effect,  
+fx,  
+royal fam theme music sound fx,  
+audio wav files 
 
 | 
 
@@ -44,7 +42,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 ** 2.  How Do We Use Your Information?**
 
-  * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience.   
+  * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience. We operate multiple different web sites which all share a common database, hence information you enter on one web site will be available for your immediate use on the other web sites as applicable.  This includes client login account information, credit card information, shipping information and various other relevant information.    
  
   * **Composers and Publishers.   **When you purchase a music track here for commercial use, for each track you purchase you must submit a track usage report indicating how each track will be used.  The information you submit with each track report will be shared with the composer(s) and publisher(s) of each track to inform them about how their music is being used and who is using it.  The person or organization that is administering publishing for music tracks may contact you directly to request information about your use of the music in order to be able to file a cue sheet.  Don't be alarmed, filing cue sheets for broadcast or other public uses of music tracks is a normal part of this business.   
  
@@ -52,7 +50,7 @@ We know that you care how your information is used, and we appreciate your trust
  
   * **Special Offers**.  We may send you special offers from time to time, unless you choose to opt-out of receiving such offers.  Please see the opt-in/opt-out selection at the end of this policy.    
  
-  * **Business Transfers**. As we continue to develop our business, we might sell or buy other companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, your customer information will be one of the assets transferred to the new owner.  
+  * **Business Development and Transfers**. As we continue to develop our business, we develop new web sites internally and we might sell or buy other companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, your customer information will be one of the assets transferred to the new owner.  
  
   * **Law Enforcement.    **If we receive a lawful court order to release account or other personal information then we will comply with the law.  We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.   
  
@@ -62,12 +60,20 @@ We know that you care how your information is used, and we appreciate your trust
 
 ** 3.  How Do We Protect the Security of Your Information?**
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We use encryption to protect your information contained in our customer list. 
-  * We use a firewall to protect against unlawful intrusion. 
-  * We limit access to your information on a need to know basis. 
-  * We transmit the your credit card number to the appropriate credit card company during order processing. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.   
+ 
+  * We use encryption to protect your information contained in our customer list, including one-way encryption of your password.   
+ 
+  * We use encryption to protect your credit card information.  
+ 
+  * We use a firewall to protect against unlawful intrusion.   
+ 
+  * We limit access to your information on a need to know basis.   
+ 
+  * We only transmit the your credit card number to the appropriate credit card company during order processing or as otherwise necessary.   
+ 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.   
+ 
   * No system can guarantee absolute security, just as the finest lock can not guarantee physical security.  However, we take every reasonable precaution to assure that your data is secure. 
 
 
@@ -93,34 +99,30 @@ We know that you care how your information is used, and we appreciate your trust
 
 > We reserve the right to modify this policy in the future.
 
-*************************************  
-  
----  
-  
-  
-  
-  
-  
-[ ](http://www.audiosparx.com/)  
+*************************************
 
+  
+[](http://www.audiosparx.com/)
 
-www a1 freesound effects com,  
-wav files clips,  
-media sound effects,  
-sounds of hell,  
-sea sounds effects,  
-free sound clips mp3,  
-cat sound effects,  
-sound effects da da da,  
-traffic sounds,  
-free sounds com,  
-doctor who sound effects,  
-free elk bugle sound clip,  
-shaving cream sound effect,  
-filling vial sound effect,  
-web humor today's sounds,  
-human souds,  
-restaurant sound effects,  
-downloads sounds,  
-sondrio,  
-foley sound effects 
+| 
+
+downloading audio sounds,  
+sound effects music,  
+soundclips,  
+counter bell sound effect,  
+howling wind sound effect free,  
+free news sound effects download,  
+media frenzy sound effects,  
+game show sound effects,  
+shot gun bangs sound effect,  
+odometer sound fx,  
+free sound effects of little girl crying,  
+smoke and cough wav sounds,  
+download robot sound effects,  
+ship crashing sound effect,  
+sound effect paint brush,  
+free bees sound effect,  
+free downloads sounds,  
+video sound effects,  
+portal wav files,  
+sound effect browser 
