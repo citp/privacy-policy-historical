@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmirror.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622080410id_/http%3A//searchmirror.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmirror.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922111630id_/http%3A//searchmirror.com/privacy.html) for the most accurate reproduction.*
 
 # Search Mirror
 
