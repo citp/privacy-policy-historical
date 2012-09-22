@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioplayer.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505134655id_/http%3A//www.radioplayer.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioplayer.co.uk privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922035116id_/http%3A//www.radioplayer.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Radioplayer
 
@@ -6,11 +6,11 @@ The privacy of our users is important to us. This privacy policy document outlin
 
 **Log files**
 
-Like many other Web sites, [www.radioplayer.co.uk](https://web.archive.org/web/20120505134655id_/http://www.radioplayer.co.uk/privacy/www.radioplayer.co.uk) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks. We use this information to analyze trends, administer the site, track user’s movements around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, [www.radioplayer.co.uk](https://web.archive.org/web/20120922035116id_/http://www.radioplayer.co.uk/privacy/www.radioplayer.co.uk) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks. We use this information to analyze trends, administer the site, track user’s movements around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies**
 
-[www.radioplayer.co.uk](https://web.archive.org/web/20120505134655id_/http://www.radioplayer.co.uk/privacy/www.radioplayer.co.uk) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+[www.radioplayer.co.uk](https://web.archive.org/web/20120922035116id_/http://www.radioplayer.co.uk/privacy/www.radioplayer.co.uk) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **Blog posts**
 
@@ -72,6 +72,6 @@ Information about our users is an important part of our business, and we are not
 
 **Questions and comments**
 
-If you require any more information or have any questions about our privacy policy, please feel free to get in touch via the ‘Contact’ page at [www.radioplayer.co.uk](https://web.archive.org/web/20120505134655id_/http://www.radioplayer.co.uk/privacy/www.radioplayer.co.uk)
+If you require any more information or have any questions about our privacy policy, please feel free to get in touch via the ‘Contact’ page at [www.radioplayer.co.uk](https://web.archive.org/web/20120922035116id_/http://www.radioplayer.co.uk/privacy/www.radioplayer.co.uk)
 
 _*A cookie is a small amount of data, which often includes a unique identifier, sent to your computer or device from a website and stored on your device’s hard drive. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you. Users can set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The latter means that certain personalised features cannot then be provided to that user and accordingly they may not be able to take full advantage of all of the website’s features._
