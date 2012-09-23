@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516132558id_/http%3A//baja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923160112id_/http%3A//baja.com/privacy-policy) for the most accurate reproduction.*
 
-# Baja.com Privacy Policy – Baja.com
+# Baja.com Privacy Policy - Baja.com
 
 **Last Updated on December 1, 2011.**
 
@@ -28,7 +28,7 @@ a. **     Location:** We may collect and store information about your locatio
 
 b.   **   Activity:** We may collect and store information related to you and your use of the Site, such as your browser type, IP address, unique device identifier, the phone numbers and names of businesses that you call through the Site, requested URL, referring URL, browser language, the pages you view, and the date and time of your visit;
 
-c.   **   IP Address: **An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the Web. Web servers automatically identify your computer by its IP address. We collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When guests request pages from us, our servers log the guests’ IP addresses. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers or others. Some services within our site, such as certain message boards, may display IP addresses along with the message poster’s name and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing.
+c.   **   IP Address: **An IP address is a number that’s automatically assigned to your computer whenever you’re [surfing](http://baja.com/blog/surfing/ "surfing") the Web. Web servers automatically identify your computer by its IP address. We collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When guests request pages from us, our servers log the guests’ IP addresses. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or [terms of service](http://baja.com/terms-of-service/ "terms of service") or to protect our service, site, customers or others. Some services within our site, such as certain message boards, may display IP addresses along with the message poster’s name and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing.
 
 d. **     Cookies:** We may use cookies, web beacons, local shared objects (sometimes called “flash cookies”), and similar technology in connection with your use of the Site ( **“Cookies”** ). Cookies may have unique identifiers, and reside, among other places, on your computer, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Site, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. You can disable some (but not all) Cookies in your device or browser settings, but doing so may affect your ability to use the Site.
 
@@ -62,7 +62,7 @@ b.     Please also note that the messages you send or receive using the Site a
 
 **6.     CHILDREN.** ****
 
-****The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us  at info@baja.com. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child’s account.
+****The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please[contact us](http://baja.com/contact-us/ "contact us") at info@baja.com. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child’s account.
 
 **7.     SECURITY.**
 
