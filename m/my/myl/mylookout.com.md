@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylookout.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507133146id_/https%3A//www.mylookout.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylookout.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923152204id_/https%3A//www.mylookout.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Security - Lookout
 
