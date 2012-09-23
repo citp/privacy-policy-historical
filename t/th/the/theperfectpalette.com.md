@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theperfectpalette.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604124750id_/http%3A//www.theperfectpalette.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfectpalette.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923025036id_/http%3A//www.theperfectpalette.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # The Perfect Palette: Privacy Policy
 
