@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tectite.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605153742id_/http%3A//www.tectite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tectite.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923155017id_/http%3A//www.tectite.com/privacy.php%3FWWWTECTITE%3D8frpmhg7is0o6ri1sfvd3ru7c6) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -20,7 +20,7 @@ Note that in the case of FormMail, it is **your server** sending you email - we 
 
 These update checks are entirely automated, and we have no direct control over them. We also don't receive any information about who is performing an update check (other than our normal web server logs). 
 
-You can [switch off these update checks](https://web.archive.org/fmdoc/check_for_new_version.php). 
+You can [switch off these update checks](https://web.archive.org/fmdoc/check_for_new_version.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6). 
 
 We don't like spam and we actively fight spammers!  We will _never_ give your contact details to anyone else.
 
@@ -30,7 +30,7 @@ We do not share our customer lists or user lists with anyone.
 
 We don't purchase lists of email addresses, and we don't use automated bulk-mail software programs. 
 
-Our free [FormMail](https://web.archive.org/formmailpage.php) product actively fights spam on the Internet. 
+Our free [FormMail](https://web.archive.org/formmailpage.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6) product actively fights spam on the Internet. 
 
 ## Your privacy and our forums
 
@@ -39,6 +39,8 @@ Our forums are specifically setup to prevent other users from accessing your ema
 There is a [Private Message](http://www.tectite.com/vbforums/private.php) system so that forum users can communicate with each other in private, but they can do that only via the forums, not by using email addresses. Again, you can disable this feature. 
 
 ## If you don't want us to contact you...
+
+We won't. Simply [tell us](mailto:salestaff@tectite.com?subject=No%C2%A0more%C2%A0email) you don't want us to email you and we won't. We'll immediately update our CRM to ensure we never send you an email again. (We'll send you one more email to confirm to you that we've complied with your request.)
 
 ## Website cookies
 
