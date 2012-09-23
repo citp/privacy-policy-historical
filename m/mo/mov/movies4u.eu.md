@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movies4u.eu privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525083144id_/http%3A//www.movies4u.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies4u.eu privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923145522id_/http%3A//www.movies4u.eu/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
