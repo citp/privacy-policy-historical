@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623001114id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923202325id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
 
 # Avangate.com - Security & Privacy
 
-BEFORE SUBMITTING YOUR PERSONAL DATA PLEASE REVIEW THE FOLLOWING:  
-This website is owned and operated by Avangate and or its Affiiates . Avangate respects your privacy and is committed to protecting your personal information.
+BEFORE SUBMITTING YOUR PERSONAL DATA PLEASE REVIEW THE FOLLOWING:
+
+This website is owned and operated by Avangate and or its Affiliates. Avangate respects your privacy and is committed to protecting your personal information.
 
 ##  Purpose of this Document
 
@@ -11,7 +12,7 @@ The purpose of this Privacy Policy is to explain to you our services, the types 
 
 _Avangate manages your personal data, complying with applicable data protection and privacy laws and offers notice, choice and consent regarding processing your personal data._
 
-Avangate provides eCommerce solutions for electronic software distribution, assisting software and shareware authors worldwide in successfully selling their products online. Avangate collects, processes and uses your personal data, only in connection with the fulfillment of your orders. Some of our services are provided through sites bearing our partners' and suppliers' names and trademarks and are not in our control. Also, some services may provide links from our website to the websites of third parties who may provide services to you directly or on our behalf.
+Avangate provides eCommerce solutions for electronic software distribution, assisting software and shareware authors worldwide in successfully selling their products online. Avangate collects, processes and uses your personal data, only in connection with the fulfilment of your orders. Some of our services are provided through sites bearing our partners' and suppliers' names and trademarks and are not in our control. Also, some services may provide links from our website to the websites of third parties who may provide services to you directly or on our behalf.
 
 _All transactions made on these third parties sites are governed by their privacy policies that may be different from our own._
 
@@ -21,7 +22,7 @@ Avangate collects processes and uses your personal data, such as but without lim
 
 By submitting an order through which you communicate your personal data to Avangate you will explicitly acknowledge the terms of this Privacy Policy and consent to the processing and transfer to third parties of your personal data by Avangate in accordance with this Privacy Policy and the applicable legislation.
 
-As a visitor to our Site, you can engage in many activities without providing any personal information, but in connection with other optional activities, Avangate may ask you to provide certain information by filling out and submitting an online form. All these information will be collected, processed and used by Avangate only for the specific activity that you are submitting to and according to these privacy policy and to the extend permitted by law.
+As a visitor to our Site, you can engage in many activities without providing any personal information, but in connection with other optional activities, Avangate may ask you to provide certain information by filling out and submitting an online form. All these information will be collected, processed and used by Avangate only for the specific activity that you are submitting to and according to this Privacy Policy and to the extend permitted by law.
 
 ##  Use of personal data
 
@@ -46,7 +47,7 @@ Some data such as the types of used services and how many users we receive daily
 
 ##  Protection of personal data
 
-Your personal data provided to Avangate while you are shopping on our site, with the exception of credit card details, is collected and stored on a secure server (SSL - Secure Socket Layers), using a firewall and a digital certificate issued by VerisignTM. Such secure servers make almost impossible any attempt of third parties to access and/or use your personal data without authorization.
+Your personal data provided to Avangate while you are shopping on our site, with the exception of credit card details, is collected and stored on a secure server (SSL - Secure Socket Layers), using a firewall and a digital certificate issued by Verisign TM. Such secure servers make almost impossible any attempt of third parties to access and/or use your personal data without authorization.
 
 ##  Sharing personal data
 
