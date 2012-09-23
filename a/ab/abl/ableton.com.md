@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ableton.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525072346id_/http%3A//www.ableton.com/pages/legal_note/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ableton.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924014150id_/http%3A//www.ableton.com/pages/legal_note/privacy_policy) for the most accurate reproduction.*
 
-# Ableton - Privacy Policy
+# Ableton - Our Privacy Policy
 
 The personal data of our customers shall be treated with utmost confidentiality. Only data to the extent tech-nically necessary shall be collected. Under no circumstance shall collected data be passed on to third parties for unauthorized reasons.
 
 ### 1\. Scope and purpose of data collection 
 
-Personal data, i.e. details regarding the personal and/or material circumstances of certain identifiable individuals, shall be collected and used insofar as required for the use of the website and for the purchasing of products. Specifically this shall include collecting and exploitating data required to process user interactions and to make contact with the web shop (e.g. customer name, IP address, postal address and email address).
+Personal data, i.e. details regarding the personal and/or material circumstances of certain identifiable individuals, shall be collected and used insofar as required for the use of the website and for the purchasing of products. Specifically this shall include  collecting and exploitating data required to process user interactions and to make contact with the web shop (e.g. customer name, IP address, postal address and email address).
 
 ### **2\. Inventory data (collection/use and deletion)**
 
@@ -18,9 +18,9 @@ Personal data, i.e. details regarding the personal and/or material circumstances
 
 ### 3\. Usage data (collection/euse and deletion)
 
-3.1 Only the necessary extent of personal data shall be collected and used with respect to use of our web pages for initiating, concluding and executing contractual agreements. This shall include, among other things, data regarding user characteristics (name, IP address, postal address, email address), data regarding the beginning, end and extent of use of the web pages, as well as data re-garding the telemedia services and other services used. We may also transmit such data to our sub-contractors insofar and for as long as this is required for the dispatch of merchandise.  
+3.1 Only the necessary extent of personal data shall be collected and used with respect to use of our web pages for initiating, concluding and executing contractual agreements. This shall include, among other things, data regarding user characteristics (name, IP address, postal address, email address), data regarding the beginning, end and extent of use of the web pages, as well as data regarding the telemedia services and other services used. We may also transmit such data to our subcontractors insofar and for as long as this is required for the dispatch of merchandise. 
 
-3.2 As a general rule, collected usage data shall be deleted or anonymized once the corresponding user interaction has been completed, unless such data has been collected/used as inventory or billing data pursuant to Clause 2 and/or 4, respectively, or pursuant to some legal provision. Data may be used beyond the completion of user interaction only insofar as far as it is needed for further interac-tions, for billing or for other services.
+3.2 As a general rule, collected usage data shall be deleted or anonymized once the corresponding user interaction has been completed, unless such data has been collected/used as inventory or billing data pursuant to Clause 2 and/or 4, respectively, or pursuant to some legal provision. Data may be used beyond the completion of user interaction only insofar as far as it is needed for further interactions, for billing or for other services.
 
 ### **4\. Billing data (determination of charges and billing)**
 
@@ -32,7 +32,7 @@ Personal data, i.e. details regarding the personal and/or material circumstances
 
 ### **5\. Google Analytics**
 
-Our web pages feature Google Analytics, a web-analysis service provided by Google Inc. ("Google"). Google Analytics uses "cookies" that are stored on your (i.e. the user’s) computer. “Cookies” allow us to analyze your use of our web pages. The cookie-generated data regarding your use of this website (including your IP address) will be forwarded to a Google server in the U.S. and stored there. Google may use this information to evaluate your use of our web pages, to compile reports on website activity for website operators, and to provide other website/internet-related services. Google may also transmit this information to third parties, insofar as required by law or insofar as Google has commissioned said third parties to process the data on its behalf. However, Google will not connect your IP address with any other data held by Google. You may block the use of cookies by selecting the appropriate settings on your browser. Please note, however, that this may prevent you from using the website’s full range of features. By using this site, you are authorizing Google to process your personal data in the manner and for the purposes described above.
+This website features Google Analytics, a web-analysis service provided by Google Inc. ("Google"). Google Analytics uses "cookies" that are stored on your (i.e. the user’s) computer. “Cookies” allow us to analyze your use of our website. The cookie-generated data regarding your use of this website will generally be forwarded to a Google server in the U.S. and stored there.In case of activation of the IP anonymization on this website, your IP address will be truncated by Google within Member States of the European Union or other parties to the Agreement on the European Economic Area before. Only in exceptional cases, the full IP address is sent to a Google server in the USA and is shortened there. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide other with website and internet related services to the site operator. The IP address transmitted by your browser as part of Google Analytics is not merged with other data held by Google.You may block the storage of cookies by selecting the appropriate settings on your browser. Please note, however, that this may prevent you from using the website’s full range of features.Furthermore you may prevent the collection and processing of cookie-generated data regarding your use of this website (including your IP address) by Google by [downloading this browser plugin](https://tools.google.com/dlpage/gaoptout?hl=en) and installing it.
 
 ### 6\. Handling of data in case of suspected unlawful use
 
@@ -56,4 +56,4 @@ You have the right to be informed at any time and without cost about the persona
 
 If you have any questions regarding the collection, processing, or use of your personal data, in case of requests for information, correction, blocking, and/or deletion of the data, as well for the revocation of consent please contact:
 
-Ableton AG, Schönhauser Allee 6-7, D-10119 Berlin, [privacy@ableton.com](mailto:privacy@ableton.com).
+Ableton AG, Schönhauser Allee 6-7, D-10119 Berlin, privacy [at] ableton.com
