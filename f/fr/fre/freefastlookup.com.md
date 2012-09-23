@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefastlookup.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603054708id_/http%3A//freefastlookup.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefastlookup.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923163819id_/http%3A//freefastlookup.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Freefastlookup.com- Privacy Policy
 
