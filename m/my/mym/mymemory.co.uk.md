@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514131009id_/http%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923025227id_/http%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
 
 # MyMemory - The Digital Camera Memory Specialists
 
