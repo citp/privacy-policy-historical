@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219110615id_/http%3A//www.thefragranceshop.co.uk/c24/privacy-policy-the-fragrance-shop.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923130918id_/https%3A//www.thefragranceshop.co.uk/c24/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Fragrance Shop
 
@@ -42,6 +42,11 @@ The Fragrance Shop makes a commitment to protecting your privacy and promises o
 
 
   * In Order to improve our service The Fragrance Shop may use a device known as a 'cookie'. Cookies are a means by which information relating to your Internet activity (such as whether you have visited www.thefragranceshop.co.uk before) is recorded on your hard drive and used by us to improve our website and the products and services available to you. 
+  * Cookie Type | Example | Description  
+---|---|---  
+Functionality | ASPSESSIONIDAQRBTCTD, ac, style | These cookies are required for the website to function correctly and generally perform tasks such as remembering the content of your shopping basket between page refreshes or remembering your style preferences between browsing sessions.  
+Tracking | __utma, _qubitTracker | These cookies are used to track your interaction with our website so that we can effectively monitor important kpi's that we use to improve the service offered to our customers and understand customer behaviour and product performance. This information is not made publicly available or used for marketing.  
+3rd Party | _ngtid | These cookies are used to monitor your browsing behaviour throughout our product catalogue so that you can receive relevant adverts after leaving our website. No personal information is captured and this is intended to ensure that you see personalised content based on your interaction with our website. We intent to add a feature which will enable you to opt out of these types of cookie if you prefer not to have your advertisements personalised based on your browsing behaviour.  
   * If you do not wish for us to use cookies when you use www.thefragranceshop.co.uk please adjust your Internet browser settings to not accept cookies. Your computer's help file should tell you how to do this. 
 
 
@@ -51,7 +56,7 @@ The Fragrance Shop makes a commitment to protecting your privacy and promises o
   
 
 
-  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20111219110615id_/http%3A//www.thefragranceshop.co.uk/c24/contact.html) page and the information will be corrected as soon as possible or removed from our database as you request. 
+  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20120923130918id_/https%3A//www.thefragranceshop.co.uk/c24/contact.html) page and the information will be corrected as soon as possible or removed from our database as you request. 
 
 
 
