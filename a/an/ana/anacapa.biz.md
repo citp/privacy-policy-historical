@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anacapa.biz privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117010114id_/http%3A//www.theanacapagroup.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D52) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anacapa.biz privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924051946id_/http%3A//theanacapagroup.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D52) for the most accurate reproduction.*
 
 # The Anacapa Group
 
