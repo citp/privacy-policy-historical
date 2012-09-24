@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617201649id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924023432id_/https%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
+  
 [Home](https://web.archive.org/default.cfm)  >  gantthead.com Privacy Policy 
 
 _**gantthead.com**_
@@ -22,8 +23,6 @@ We gather certain personal information about you, including your:
   * address
   * e-mail address and
   * company information
-
-
 
 Certain portions of the Web Site may prompt you to provide other personal information in your user profile, may ask you to answer demographic or personal preference questions, or may ask for financial information to complete a purchase. You may choose not to provide this information, but if you do so, you may be unable to access certain options, offers, and services on the Web Site. 
 
@@ -73,8 +72,6 @@ We may make your personally identifiable information available to third parties 
   * necessary to identify, contact or bring legal action against someone who may be violating our User Agreement.
   * necessary to protect gantthead.com, our members or other third parties including, without limitation, other emergency situations.
 
-
-
 If you wish to opt out of any service from gantthead.com or to revoke any previously provided consent, please send an e-mail to us with such instructions at contactus@gantthead.com. 
 
 _Non-Personally Identifiable Information_
@@ -118,12 +115,17 @@ Last updated July 11, 2005.
 
 sponsored announcements and special offers
 
-Position yourself for success with **[Florida Tech's MBA in Project Management](http://www.gantthead.com/redirect/clickCount.cfm?ID=273599)** , accredited by PMI® GAC. There's no GMAT or GRE required, and you'll also qualify for 1,500 experience hours that can be used toward earning a prestigious PMP® credential.
+**Penn State's online master of project management** — get the skills employers value. **[Complete your degree in just two years](http://www.gantthead.com/redirect/clickCount.cfm?ID=274567)** and advance your career in any industry. 
 
-**Stevens Institute of Technology, the only university in N.J., N.Y. and Conn. accredited by the Project Management Institute** , is proud to offer **[Enterprise Project Management](http://www.gantthead.com/redirect/clickCount.cfm?ID=273607)** Master's Degree. Study full-time or part-time online or on campus in Hoboken, N.J.- only 15 minutes from Manhattan. Apply now. Classes begin Aug. 27. 
+**Pass Your PMP Exam The Easy Way:** Just watch 51 hours of video lessons from The PM PrepCast and learn all PMP concepts faster and easier. Study wherever & whenever you want with your phone or tablet. Even on your drive to work. **[Get Your PMP Exam training at the unbeatable price of $129.99!](http://www.gantthead.com/redirect/clickCount.cfm?ID=274692)**
 
-**You can do this!**  
-Earn your master's degree in project management without putting your life on hold at **[GoUWP.com](http://www.gantthead.com/redirect/clickCount.cfm?ID=273254)**!  
-**[Apply today at GoUWP.com](http://www.gantthead.com/redirect/clickCount.cfm?ID=273254)** **for 100% online courses, 45 PDUs each.** No entrance exam. University of Wisconsin- Platteville’s MS in Project Management is globally accredited by PMI. Combine academics and real-world scenarios for a 360-degree education. 
+**You're Invited: 2012 PMO of the Year Virtual Award Ceremony on Sept. 27, 2pm-3pm EDT**  
+Join **[PM Solutions](http://www.gantthead.com/redirect/clickCount.cfm?ID=275107)** for this live one-hour broadcast where the winner and finalists of the 2012 PMO of the Year Award competition will be revealed. Come away with best-in-class PMO examples that you can follow to deliver business value to your organization. Reserve your spot now. Live attendance is limited. **[Click here to register](http://www.gantthead.com/redirect/clickCount.cfm?ID=275105)**. 
 
-**Most business and IT executives agree that any company able to rapidly deliver software of high and predictable quality with minimum budgets enjoys a significant advantage.** However, practical experience shows that the challenges associated with software quality remain largely unsolved. Download the white paper **[Uplift Quality with Requirements Driven Testing](http://www.gantthead.com/redirect/clickCount.cfm?ID=273013)** to learn fundamental principles of Requirements Driven Testing.
+**How do you bridge the gap between development & the rest of the team?** Download the whitepaper **["The Five Challenges to Agile Planning."](http://www.gantthead.com/redirect/clickCount.cfm?ID=275045)** Learn the five major challenges that we've seen lead to Agile failure, as well as advice on how to make Agile work for your entire team. 
+
+**eBook: Project Scoring & Prioritization for Maximum Results.** This eBook highlights the importance and benefits of scoring and prioritizing all IT Projects as they enter the IT pipeline. Additionally, the ebook presents a three-step framework for approaching scoring and prioritization and a use case for a scoring model. **[Download the ebook](http://www.gantthead.com/redirect/clickCount.cfm?ID=275050)** today and start evaluating your IT projects tomorrow with a simple, easy-to-use approach.
+
+Whenever you are asked if you can do a job, tell 'em, "Certainly, I can!" Then get busy and find out how to do it.   
+---  
+\- Theodore Roosevelt
