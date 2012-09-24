@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630031248id_/http%3A//www.djintelligence.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924052903id_/http%3A//www.djintelligence.com/privacy.asp) for the most accurate reproduction.*
 
 # DJ Intelligence® - Privacy Statement
 
@@ -71,12 +71,12 @@ Intelligence, Inc. ("DJ Intelligence") takes your privacy seriously. Please read
 
 **Terms of Service**
 
-  * Our Terms of Service can be [viewed here](https://web.archive.org/web/20120630031248id_/http%3A//www.djintelligence.com/terms.asp).
+  * Our Terms of Service can be [viewed here](https://web.archive.org/web/20120924052903id_/http%3A//www.djintelligence.com/terms.asp).
 
 
 
 **Questions or Concerns**
 
-  * If you have questions or concerns, please [contact us](https://web.archive.org/web/20120630031248id_/http%3A//www.djintelligence.com/contact.asp).
+  * If you have questions or concerns, please [contact us](https://web.archive.org/web/20120924052903id_/http%3A//www.djintelligence.com/contact.asp).
 
 
