@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitecm.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509080324id_/http%3A//www.websitecm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitecm.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924042856id_/http%3A//www.websitecm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,9 +37,10 @@ Articles
 
 Testimonials
 
-Another big thumbs up for Jon at Websitecm not only is his mod for CDSEO fantastic but he bent over backwards to help us out when we got shafted by our hosting company. This guy is the only guy we will be buying mods from now on. Some of the other people selling mods for X-cart should take a leaf out of his book because some of them really suck on support and professionalism. 
+Websitecm has installed several mods for us and has always worked quickly and effectively. More importantly when an issue occurs they take care of it, every time I have worked with them they have always done what was "right" by their customer. I will use them again. 
 
-JoBananas.com 
+Brett Brohl   
+(Scrubadoo.com)
 
 * * *
 
