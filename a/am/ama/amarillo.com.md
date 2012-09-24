@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amarillo.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506233224id_/http%3A//amarillo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarillo.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924042347id_/http%3A//amarillo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amarillo Globe-News
 
