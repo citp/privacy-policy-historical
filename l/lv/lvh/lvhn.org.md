@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526015729id_/http%3A//www.lvhn.org/Help%257C143) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924164739id_/http%3A//www.lvhn.org/Help%257C143) for the most accurate reproduction.*
 
 # Hospital Privacy, Confidentiality Policy - Patient | Lehigh Valley Health Network | Help
 
