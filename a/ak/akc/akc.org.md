@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617124633id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924105026id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
 
 # American Kennel Club - AKC Web Site Privacy Statement
 
@@ -14,7 +14,7 @@ We will ask you for personally identifiable information when you take out a subs
 
 If you send us email, we may collect and store such information. We use the information to reply to your email communication. If you register a litter or dog using our online system, we may ask you for your email address, collect and store this information. We use this information to process your application. AKC rules and procedures do not allow a minor to sign an AKC registration application. If a dog or litter is to be registered in the name of a minor, the procedures outlined by AKC should be followed. You should not supply email addresses for minors.
 
-We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new AKC services, and special offers we think you'll find valuable. If you would rather not receive this information, you may indicate your preference by [updating your AKC account](https://web.archive.org/account/).
+We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new AKC services, and special offers we think you'll find valuable. If you would rather not receive this information, you may indicate your preference by [updating your AKC account](https://web.archive.org/account/). If you do not have a My AKC account, but wish to opt-out from AKC emails, you may [click here](https://web.archive.org/support/unsubscribe.cfm).
 
 AKC uses a reputable third party to serve some of the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedure of our third party ad server, please [click here](http://247realmedia.com/privacy.html).
 
