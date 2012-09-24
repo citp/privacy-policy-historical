@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pocketgear.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012010422id_/http%3A//www.pocketgear.com/us%2Cen%2Cusd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketgear.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924041344id_/http%3A//handango.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - PocketGear.com: Mobile Apps, Software & Games for Windows Mobile, Symbian, Blackberry, Android, Palm and Java devices!
+# Handango – Premium Free Apps Everyday
 
 Your privacy is important to us. This Privacy Policy will tell you what information we collect; how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
-This Privacy Policy governs the information collection and disclosure practices for the web sites operated by PocketGear GmbH (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: www.palmgear.com,classic.pocketgear.com, www.pocketgear.com, www.smartphone.net, www.symbiangear.com, www.androidgear.com, www.rimgear.com, www.mobile2day.com, and www.mobile2day.de (each a "Web Site" and collectively the "Web Sites").
+This Privacy Policy governs the information collection and disclosure practices for the web sites operated by Appia GmbH (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: www.palmgear.com,classic.Appia.com, www.Appia.com, www.smartphone.net, www.symbiangear.com, www.androidgear.com, www.rimgear.com, www.mobile2day.com, and www.mobile2day.de (each a "Web Site" and collectively the "Web Sites").
 
-**1\. Changes to this Policy**
+### 1\. Changes to this Policy
 
 We reserve the right to modify this Privacy Policy at any time, so please review it regularly. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Web Sites and other places we deem appropriate. All such changes shall be binding on you 30 days after they are initially posted on the Web Sites unless you are a new user, in which case they are binding on you immediately.
 
-**2\. Information Collection**
+### 2\. Information Collection
 
   1. **General.** In general, you can browse the Web Sites without telling us who you are or revealing any personal information about yourself. However, if you wish to purchase or download any of the products or use any of the services offered by the Web Sites, you may be required to disclose certain information to us. You always have the option to not provide information by choosing not to purchase or download a particular product or use a particular service or feature. The Company is the sole owner of the information collected on the Web Site.
   2. **Registration.** In order to use, purchase or download certain products or services offered by this Web Site, you may be required to first create an account with us. You may have to establish a separate account if you use the services or purchase or download products from more than one Web Site. During the account set-up process, you are required to give certain contact information, including but not limited to your name, email address, and in some cases your approximate age. We use this information to contact you about the products services on our site in which you have expressed interest, and, the case of your approximate age, to determine whether you old enough to use the Web Sites. You may have the option to provide additional demographic information (such as income level, location, and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. Where possible, we indicate which fields are required and which fields are optional.
@@ -26,7 +26,7 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 
 
-**3\. Use of Information**
+### 3\. Use of Information
 
   1. **Generally.** We use your personal information to fulfill orders and to facilitate the services you purchase or request from us. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Web Sites to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our Terms and Conditions of Use; and as otherwise described to you at the time of collection. We may compare and review your personal information for errors, omissions and for accuracy.
   2. **Communications from Us.**
@@ -38,7 +38,7 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 
 
-**4\. Disclosure of Information**
+### 4\. Disclosure of Information
 
   1. **Generally.** As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without first providing you with an opportunity to opt-out. However, the following describes some of the ways that we may disclose your personal information in the normal course of providing our services.
   2. **Suppliers & Developers.** Where you purchase or download a product or service on one of our Web Sites, we may disclose your name and email address to our partner who is our supplier of that product or service. For example, if you download a particular software application, we may disclose your name and email address to the developer of that software application. This disclosure is to enable the developer or supplier to provide support to you, and in certain cases to allow you to benefit from certain levels of support that are only available to registered users. We have no control over what these third parties do with the information that we disclose to them.
@@ -50,26 +50,26 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 
 
-**5\. Choice / Opt-Out**
+### 5\. Choice / Opt-Out
 
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@pocketgear.com](mailto:privacy@pocketgear.com). You may also update your preferences at any time by accessing our member information area. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@Appia.com](mailto:privacy@Appia.com). You may also update your preferences at any time by accessing our member information area. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-**6\. Links to Other Sites**
+### 6\. Links to Other Sites
 
 This privacy statement applies only to information collected by these Web Sites. The Web Sites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware of when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.
 
-**7\. Access to Personal Information**
+### 7\. Access to Personal Information
 
-If your personally identifiable information changes, or if you no longer desire some or all of our services, you may correct, update, delete or deactivate it by making the change on our account information pages or by emailing us at [privacy@pocketgear.com](mailto:privacy@pocketgear.com) or by contacting us by postal mail PocketGear Deutschland GmbH, Truderinger Str. 273, D-81825 Munich, Germany. Please note that, if you have established an account with more than one of our Web Sites, you may have to make these changes on each Web Site.
+If your personally identifiable information changes, or if you no longer desire some or all of our services, you may correct, update, delete or deactivate it by making the change on our account information pages or by emailing us at [privacy@Appia.com](mailto:privacy@Appia.com) or by contacting us by postal mail Appia Deutschland GmbH, Truderinger Str. 273, D-81825 Munich, Germany. Please note that, if you have established an account with more than one of our Web Sites, you may have to make these changes on each Web Site.
 
-**8\. Security**
+### 8\. Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access, disclosure, alteration, or destruction, both during transmission and once we receive it.
 
-**9\. Business Transition**
+### 9\. Business Transition
 
 In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personally identifiable information will likely be among the assets transferred.
 
-**10\. Contact Us**
+### 10\. Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at [privacy@pocketgear.com](mailto:privacy@pocketgear.com).
+If you have any questions or suggestions regarding our privacy policy, please contact us at [privacy@Appia.com](mailto:privacy@Appia.com).
