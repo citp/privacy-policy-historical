@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddsbrokers.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130062403id_/http%3A//ddsbrokers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddsbrokers.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924042225id_/http%3A//www.ddsbrokers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Countrywide Practice Brokerage - Privacy Policy
 
