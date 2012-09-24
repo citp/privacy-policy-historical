@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdsector.co.uk privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514174916id_/http%3A//www.thirdsector.co.uk/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdsector.co.uk privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924170530id_/http%3A//www.thirdsector.co.uk/go/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Third Sector
 
