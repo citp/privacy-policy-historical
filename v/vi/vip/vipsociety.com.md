@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipsociety.com privacy policy that was archived on 2011-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110921020239id_/http%3A//vipsociety.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipsociety.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924185137id_/http%3A//vipsociety.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -14,7 +14,7 @@ We may change this policy from time to time by updating this page. You should ch
 
 We may collect the following information:
 
-  * your name and profile picture 
+  * your name, profile picture and date of birth 
 
   * the email address you used to create a stand alone account or shared through facebook 
 
