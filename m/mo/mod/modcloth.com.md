@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503000148id_/http%3A//www.modcloth.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924154848id_/http%3A//www.modcloth.com/storefront/main/privacy) for the most accurate reproduction.*
 
 # Privacy | Help & Support | ModCloth
 
@@ -43,7 +43,7 @@ We may collect and store non-personally identifiable usage information (includin
 
 We may contact you via email to send you necessary order-related messages, such as order confirmation and shipment confirmation notices.
 
-We may also send you newsletters and additional email messages about our products, services, contests, and promotions that we feel may be of interest to you. If you no longer wish to receive these and other promotional communications from us, you may select the unsubscribe link which is present in each email. You may also customize your communication preferences by accessing the email preference center in your [ModCloth membership page](https://www.modcloth.com/login) and adjusting your settings accordingly.
+We may also send you newsletters and additional email messages about our products, services, contests, and promotions that we feel may be of interest to you. If you no longer wish to receive these and other promotional communications from us, you may select the unsubscribe link which is present in each email. You may also customize your communication preferences by accessing the email preference center in your [ModCloth membership page](https://www.modcloth.com/customers/dashboard) and adjusting your settings accordingly.
 
 * **How We Use Your Information**
 
