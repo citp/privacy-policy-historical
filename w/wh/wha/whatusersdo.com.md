@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatusersdo.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602220058id_/http%3A//www.whatusersdo.com/user-experience-testing/whatusersdo-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatusersdo.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924052854id_/http%3A//www.whatusersdo.com/user-experience-testing/whatusersdo-privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,4 +82,4 @@ There is more information about personal information and your rights at the Info
 
 ### Need Help?
 
-Read the [FAQ](https://web.archive.org/web/20120602220058id_/http%3A//www.whatusersdo.com/user-experience-testing/user-experience-testing-frequently-asked-questions.php) or [get in touch](https://web.archive.org/web/20120602220058id_/http%3A//www.whatusersdo.com/user-experience-testing/whatusersdo-contact-information-how-to-get-in-touch.php) with a member of our team 
+Read the [FAQ](https://web.archive.org/web/20120924052854id_/http%3A//www.whatusersdo.com/user-experience-testing/user-experience-testing-frequently-asked-questions.php) or [get in touch](https://web.archive.org/web/20120924052854id_/http%3A//www.whatusersdo.com/user-experience-testing/whatusersdo-contact-information-how-to-get-in-touch.php) with a member of our team 
