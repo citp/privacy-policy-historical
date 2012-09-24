@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpert4u.co.uk privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126053402id_/http%3A//www.xpert4u.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpert4u.co.uk privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924222712id_/http%3A//www.xpert4u.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Xpert4.co.uk
 
@@ -41,7 +41,7 @@ We provide site users with access to all information that we maintain about them
 
 **7\. Cookies:**
 
-To facilitate your use of our website and to collect aggregate information, we may use “cookies”. To view our Cookie Policy, please **[click here.](https://web.archive.org/web/20120126053402id_/http%3A//www.xpert4u.co.uk/cookies-policy.aspx)**
+To facilitate your use of our website and to collect aggregate information, we may use “cookies”. To view our Cookie Policy, please **[click here.](https://web.archive.org/web/20120924222712id_/http%3A//www.xpert4u.co.uk/cookies-policy.aspx)**
 
 **8\. Changes to Privacy Policy:**
 
