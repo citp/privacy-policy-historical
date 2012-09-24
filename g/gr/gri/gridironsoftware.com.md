@@ -1,74 +1,155 @@
-> *The following text is extracted and transformed from the gridironsoftware.com privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229192518id_/http%3A//www.gridironsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gridironsoftware.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925002334id_/https%3A//filetrek.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy | Gridiron Software
+# FileTrek Privacy Policy
 
-This Privacy Policy applies to all of the services and websites offered by GridIron Software, Inc. ("GridIron"), including without limitation use of the [GridIron Service](http://www.gridironsoftware.com/key-terms#giservice), [Agent](http://www.gridironsoftware.com/key-terms#agent) and/or [API](http://www.gridironsoftware.com/GridIron%20Key%20Term%20Definitions.html#api) pursuant to any separate Subscription Agreements between You and GridIron. Key Terms used but not defined herein are defined in the [GridIron Key Terms Definition](http://www.gridironsoftware.com/key-terms), incorporated herein by reference. Hyperlinks to the GridIron Key Terms Definitions are provided on the first use of each Key Term herein. If You have any questions about this Privacy Policy, please feel free to contact GridIron through its [website](http://www.gridironsoftware.com/) or write to GridIron at:
+## Table of Contents
 
-_Privacy Matters  
-Gridiron Software Inc.  
-15303 Ventura Boulevard, Suite 900  
-Sherman Oaks, CA 91403  
-USA_
-
-  1. **Information GridIron collects and how GridIron uses it**
-
-GridIron may collect the following types of information: 
-
-    * **Information You provide** — When You sign up for certain GridIron services, GridIron will ask You for [Personal Information](http://www.gridironsoftware.com/key-terms#personalinformation) during the registration process. GridIron may combine this Personal Information, as well as any of [Your Data](http://www.gridironsoftware.com/key-terms#yourdata) which You submit or which is electronically collected, with information from other GridIron products or services You have received, as well as information from third parties, in order to provide You with a better experience and to improve the quality of service provided to You and other users by GridIron.
-    * **Cookies** — When You visit the GridIron website, GridIron sends one or more [Cookies](http://www.gridironsoftware.com/key-terms#cookies) to Your computer or other device. GridIron uses Cookies to improve the quality of service provided to You by GridIron, including allowing multiple requests to be made to the GridIron server without needing to re-authenticate You on every access through a GridIron server generated session id. GridIron will not use Cookies to collect Personal Information that You provide to GridIron during the registration process, but the Cookies may be used to collect other information, including Personal Information, such as the following: 
-      * the domain name and host from which You accesses the Internet and the Internet address of the website from which You direct-linked to the GridIron site; 
-      * the date and time You accessed the GridIron site and the pages You visit; 
-      * Your computer's [IP Address](http://www.gridironsoftware.com/key-terms#ipaddress) and information about its operating system, platform and the web browser type and version You use; 
-      * demographic and other [Non-Personal Information](http://www.gridironsoftware.com/key-terms#nonpersonalinformation) about You; and 
-      * information to combat fraud or misuse.
-    * **The[Agent](http://www.gridironsoftware.com/key-terms#agent) and [Metadata](http://www.gridironsoftware.com/key-terms#metadata)** — When You install the Agent on Your computer or other device, the Agent will automatically monitor, record, collect and transmit information, including without limitation Metadata related to Your Data. The Metadata may include Personal Information and Non-Personal Information, such as the means of creation of a [File](http://www.gridironsoftware.com/key-terms#files), purpose of the File, time and date of creation, creator or author of data, placement on a network, access to such File on the network by users, date and time for such access, modifications to such File, and sources of content elements. For a complete list of the all Metadata currently being captures and stored by GridIron, please see the [MetaData Captured](http://www.gridironsoftware.com/metadata-captured) portion of the GridIron web site. GridIron uses Your Metadata (a) solely in connection with GridIron's operation of the GridIron Service, including without limitation potentially disclosing Your Metadata to third parties and other GridIron customers in the course of GridIron's operation of the GridIron Service and (b) without limitation in any manner GridIron determines appropriate provided that Your Data and the MetaData is aggregated with other data and no longer contains any Personal Information.
-    * **User communications** — When You send email or other communications to GridIron, GridIron may retain those communications in order to process Your inquiries, respond to Your requests and improve GridIron's services. GridIron may use Your email address to communicate with You about GridIron's services.
-    * **Other sites** — The GridIron site contains links to other sites. GridIron is not responsible for the privacy practices of such other sites. GridIron encourages You to be aware when leaving the GridIron site and to read the privacy statements of every website that collects Your personally identifiable information. This Privacy Policy applies only to information collected by GridIron.
-
-In addition to the above, GridIron may use the information it collects to: 
-
-    * Provide, maintain, protect, and improve Gridiron's services and develop new services; and 
-    * Protect the rights or property of GridIron or its users.
-  2. **Choices**
-
-You can review and control certain information stored in Your GridIron account using the Account Overview and Edit Account functions.
-
-Most browsers are initially set up to accept Cookies, but You can reset Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, some GridIron features and services may not function properly if Your Cookies are disabled. 
-
-You understand and agree that once You install the Agent, the Agent shall continue to monitor, record, collect and transmit Your Metadata until You uninstall the Agent or otherwise render it inoperable. This includes even after You stop receiving GridIron services. If You are receiving GridIron Services, You will be provided with an option (through Your user account) to render the Agent inoperable at the time that your Subscription Agreement expires or is terminated. If You disable the Agent while still receiving GridIron Services, the GridIron Services may not function properly. 
-
-  3. **Information sharing**
-
-GridIron only shares information with other companies or individuals outside of GridIron in the following limited circumstances:
-
-    * GridIron has Your consent. GridIron requires opt-in consent for the sharing of any [Sensitive Information](http://www.gridironsoftware.com/key-terms#sensitiveinformation). 
-    * GridIron provides information to its subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of providing services to or on GridIron's behalf. GridIron requires that these parties agree to process such information based on GridIron's instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. Examples include providing marketing assistance, providing customer service, sending emails to You, removing repetitive information from customer lists, analyzing data, and providing You the option of sharing information about GridIron on social networks.
-    * GridIron has a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Subscription Agreements, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of GridIron, its users or the public as required or permitted by law.
-    * GridIron shares Non-Personal Information with advertisers, service providers, and other persons with whom it conducts business. Similarly, these advertisers, service providers, and other persons may share with GridIron Non-Personal Information about You that they have independently gathered or acquired.
-
-If GridIron becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, information may be shared. GridIron will ensure the confidentiality of any Personal Information involved in such transactions and provide notice before Personal Information is transferred and becomes subject to a different privacy policy. Also, in the unlikely event of a bankruptcy, information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
-
-  4. **Information security and retention**
-
-GridIron takes appropriate, commercially reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of Your Data and Metadata. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where GridIron stores personal data. 
-
-GridIron restricts access to Your Data to GridIron employees, contractors and agents who need to know that information in order to process it on GridIron's behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
-
-However, neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes, or fail to follow policies. Therefore, while GridIron uses commercially reasonable efforts to protect Your Data and Metadata, GridIron cannot guarantee its absolute security. If applicable law imposes any non-disclaimable duty to protect Your Data and Metadata, You agree that intentional misconduct will be the standards used to measure GridIron's compliance with that duty.
-
-GridIron retains information for as long as required, allowed or GridIron believes it is useful, but does not undertake retention obligations. GridIron may dispose of information in GridIron's sole discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep Your own, separate back-up records of Your Data. Your Data will be permanently deleted by GridIron thirty days after Your Subscription Agreement is terminated or expired. Metadata may be stored and maintained by GridIron indefinitely for use with providing GridIron services to third parties.
-
-  5. **Accessing and updating information**
-
-When You use GridIron services, GridIron makes good faith efforts to provide You with access to Your information and either to correct this data if it is inaccurate or to delete such data at Your request if it is not otherwise required to be retained by law or for legitimate business purposes. GridIron asks individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where GridIron provides information access and correction, GridIron performs this service free of charge, except if doing so would require a disproportionate effort. Because of the way GridIron maintain certain services, after You delete Your information, residual copies may take a period of time before they are deleted from GridIron's active servers and may remain in backup systems. 
-
-  6. **Enforcement**
-
-GridIron regularly reviews its compliance with this Privacy Policy. When it receives formal written complaints, it is GridIron's practice to contact the complaining user regarding his or her concerns. GridIron will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between GridIron and an individual. 
-
-  7. **Changes to this Privacy Policy**
-
-Please note that this Privacy Policy may change from time to time. GridIron will not reduce Your rights under this Privacy Policy without Your explicit consent. GridIron will post any Privacy Policy changes on this page and, if the changes are significant, provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). GridIron will also keep [prior versions](http://www.gridironsoftware.com/privacy) of this Privacy Policy in an archive for Your review.
+  1. Introduction
+  2. Information We Collect Directly From You
+  3. Information We Collect from Your Use of Our Website
+  4. How We Use the Information We Collect
+  5. Sharing of Your Information
+  6. Our Policies Concerning Children
+  7. How to Access and Update Your Information
+  8. Privacy Policies of Linked Sites and Advertisers
+  9. Security of Your Information
+  10. Changes to Our Privacy Policy
+  11. Your California Privacy Rights
+  12. Contact Us
 
 
 
+## I. Introduction
+
+FileTrek is a software provider of mobile content management and tracking solutions for complete visibility of sharing, syncing and versioning activities on the desktop and in the cloud. We provide solutions for tracking, editing and hosting documents in real time for companies of all sizes (the “Service”). In this policy, "FileTrek" refers to FileTrek Inc. and its Affiliates, which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership. We may also refer to FileTrek as "we" or "us".
+
+This Privacy Policy describes:
+
+  * the information we collect, how we do so and the purposes of our collection
+  * how we use and with whom we share such information
+  * how you can access and update such information
+  * the choices you can make about how we collect, use and share your information
+  * how we protect the information we store about you
+
+
+
+If you have questions regarding this Privacy Policy or our collection and use of information, please contact us as described in Section 13 ("Contact Us").
+
+## II. Information We Collect Directly From You
+
+**Information We Collect from You Directly**
+
+When you interact with the Service, at www.filetrek.com (the “Website”), we may collect and store information from you directly as described below:
+
+**Registration Information**
+
+You may register with Us by providing the following information: your age or birth date (for age screening and/or to better understand who our users are); your first and last name; user name and password; your email address and your company affiliation and other information that helps Us confirm that it is you accessing your account.
+
+**Payment Information**
+
+If you purchase a subscription to the Services, we will collect the billing and financial information necessary to process your charges, which may include your postal and email addresses. Our Subscription and License Agreement explain our policies and terms relevant to our charges and billing practices.
+
+**Customer Support Correspondence**
+
+When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and email address), information about your activity on the Service, and your user ID number. We will also store the correspondence and any information contained within.
+
+**Technical and Usage Information**
+
+When you access our Website, we collect (i) certain technical information about your mobile device or computer system, including IP Address and mobile device ID; and (ii) usage statistics about your interactions with the Service. This information is typically collected through the use of server log files or web log files (“Log Files”), mobile device software development kits and tracking technologies like browser cookies to collect and analyze certain types of technical information. Some of the cookies the Service places on your computer are linked to your user ID number(s). For more information on how we utilize cookies and other tracking technologies please review the "Cookies and Automated Information Collection" portion of Section 4 ("Information We Collect From Your Use of Our Website").
+
+## III. Information We Collect From Your Use of Our Website
+
+We may collect information about you in any one or more of the following ways:
+
+**Communications Features**
+
+You may be able to take part in certain activities on our Website that give you the opportunity to communicate or share information not just with FileTrek, but also with other users of our Service. These include:
+
+  * sending messages or invitations to other users, either directly on our Website or to their email accounts
+
+
+
+We may record and store archives of these communications on FileTrek's servers to protect the safety and well being of our users and FileTrek's rights and property in connection with the service. You acknowledge and consent to the recording and storage of such communications for these purposes.
+
+**Cookies and Automated Information Collection**
+
+When you access the Service, we collect certain technical information in order to (i) analyze the usage of our site and services and (ii) provide a more personalized experience. We and service providers acting on our behalf use Log Files and tracking technologies to collect and analyze certain types of technical information, including cookies, IP addresses, device type, device identifiers, browser types, browser language, referring and exit pages, and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages and other similar information. In some cases, we will associate this information with your user ID number for our internal use.
+
+You can set your web browser to warn you about attempts to place cookies on your computer or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. To learn more about and manage flash cookies you can visit adobe.com and make changes at the privacy settings panel. If you disable cookies, you may lose some of the features and functionality of playing our Service, as FileTrek cookies are necessary to track and enhance your Service.
+
+**The Application and Metadata**
+
+We provide you with software to facilitate the monitoring, collection, recording and transmission of your data and to the Service (the “Application”). When you install the Application on your computer or other device, the Application will automatically monitor, record, collect and transmit information about your data, including without limitation the means of creation, purpose, time and date of creation, creator or author of data, placement on a network, access to such data on the network by users, date and time for such access, modifications to such asset, and sources of content elements, as collected by the Service (the “Metadata”). For a complete list of the all Metadata currently being captures and stored by us, please see the Metadata Captured portion of our site. We use the Metadata collected solely in connection with our operation of the Service.
+
+Once the Application has been installed on your computer or device, it shall continue to monitor, record, collect and transmit Metadata until you uninstall the Application or otherwise render it inoperable. This can be accomplished by either logging out of the Application or uninstalling it on your computer or device.
+
+## IV. How We Use the Information We Collect
+
+In general, we collect, store and use your information to provide you with a safe, smooth, efficient, and customized experience. For example, we may use information collected from you in any one or more of the following ways:
+
+  * to enable user-to-user communications
+  * to provide technical support and respond to user inquiries
+  * to prevent fraud or potentially illegal activities, and enforce our Subscription and License Agreement
+  * to solicit input and feedback to improve our products and services and customize your user experience
+
+
+
+## V. Sharing of Your Information
+
+We will share your information (in some cases personal information) with third parties, that is parties other than FileTrek, in the following circumstances:
+
+**Third Party Service Providers**
+
+We will provide your information to third party companies to perform services on our behalf, including payment processing, data analysis, email delivery, hosting services and customer service. We direct all such third party service providers to maintain the confidentiality of the information disclosed to them and to not use your information for any purpose other than to provide services on FileTrek's behalf.
+
+**Safety, Security and Compliance with Law**
+
+Your information, and the contents of all of your online communications (including without limitation chat text, IP addresses and your personal information) may be accessed and monitored as necessary to provide the Service and may be disclosed: (i) when we have a good faith belief that we are required to disclose the information in response to legal process (for example, a court order, search warrant or subpoena); (ii) to satisfy any applicable laws or regulations (iii) where we believe that the Service is being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and credit risk reduction; (iv) when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person or the public generally; and (v) in order to protect the rights or property of FileTrek, including to enforce our Subscription and License Agreement.
+
+**Sale or Merger**
+
+In the event that FileTrek undergoes a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, we may transfer all of your information, including personal information, to the successor organization in such transition. If material changes to FileTrek's privacy practices will occur as a result of the business transition, we will notify you and other users (in the manner described in Section 11) of the business transition prior to transferring your personal information.
+
+## VI. Our Policies Concerning Children
+
+Our Website is not intended for children under the age of 13 and we do not knowingly collect any personal information from such children. Children under the age of 13 should not use our Website at any time. In the event that we learn that we have inadvertently gathered personal information from children under the age of 13, we will take reasonable measures to promptly erase such information from our records.
+
+## VII. How to Access and Update Your Information
+
+**Other Methods of Accessing and Controlling your Information**
+
+  * If you no longer want FileTrek to make active use of your information, you may send an email to privacy@filetrek.com. Place "Delete My Account" in the subject line and include your first name, last name, email address in the body of the email. We will respond to your request within thirty (30) days. Please note that certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes. If you have sent or posted content on the Service, we may not be able to delete it.
+  * If you wish to review or change the information FileTrek has about you, email Us at the address provided herein.
+  * If you have additional questions about this Privacy Policy, contact us at privacy@filetrek.com.
+
+
+
+## VIII. Privacy Policies of Linked Sites and Advertisers
+
+Our Website may contain links to third party websites. We are not responsible for the privacy practices or the content of such websites. If you have any questions about how these other websites use your information, you should review their policies and contact them directly.
+
+## IX. Security of Your Information
+
+FileTrek implements reasonable security measures to protect the security of your information both online and offline, and we are committed to the protection of customer information.
+
+For user accounts registered directly with FileTrek profile information is protected by the password each member uses to access their online account. It is important that you protect and maintain the security of your account and that you immediately notify Us of any unauthorized use of your account. If you forget the password to your FileTrek account, our Website allows you to request that instructions be sent to you that explain how to reset your password. When you sign into your account or enter payment information (such as a credit card number when purchasing virtual currency), we encrypt the transmission of that information using secure socket layer technology ("SSL").
+
+While we take reasonable precautions against possible security breaches of our Website and our customer databases and records, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your information safe (including your account password), and to log out of your account after use. If you have questions about the security of our Website, please contact us at privacy@filetrek.com.
+
+Unfortunately, the transmission of information over the Internet is not completely secure. Although we strive to protect your personal data, we cannot guarantee the security of your data while it is being transmitted to our site; any transmission is at your own risk. Once we have received your information, we have procedures and security features in place to try to prevent unauthorized access.
+
+## X. Changes to Our Privacy Policy
+
+If we decide to make material changes to our Privacy Policy, we will notify you and other users by placing a notice on filetrek.com or by sending you a notice to the email address we have on file for you. You should periodically check www.filetrek.com and this privacy page for updates.
+
+## XI. Your California Privacy Rights
+
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information we disclosed to third parties for direct marketing purposes in the preceding calendar year. As detailed in our Privacy Policy, we do not share our customer's personal information with third parties for direct marketing purposes. However, if you nonetheless desire to make such an inquiry, please send us an email at [privacy@filetrek.com](mailto:privacy@filetrek.com).
+
+## XII. Contact Us
+
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to [privacy@filetrek.com](mailto:privacy@filetrek.com). All other inquiries should be directed to FileTrek's [support page](http://support.filetrek.com/).
+
+FileTrek Software Inc.  
+350 S. Figueroa St. Suite 233  
+Los Angeles, CA 90071, USA
