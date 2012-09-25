@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileresearchcenter.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526193905id_/http%3A//www.fileresearchcenter.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileresearchcenter.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925231422id_/http%3A//www.fileresearchcenter.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FileResearchCenter.com - Privacy Policy
 
@@ -26,7 +26,7 @@ BY USING OUR SITE, PRODUCTS, OR SERVICES, YOU CONSENT TO THE COLLECTION, USE AND
 
 **Children**
 
-This site is not aimed to attract children and its objective is not to collect personal information from children. Anyone under the age of 18 should not use this site unless supervised by an adult. FileResearchCenter�s goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children�s On-line Privacy Protection Act of the United States. 
+This site is not aimed to attract children and its objective is not to collect personal information from children. Anyone under the age of 18 should not use this site unless supervised by an adult. FileResearchCenter’s goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States. 
 
 **Information Sharing and Disclosure**
 
@@ -36,7 +36,7 @@ We provide the information to trusted partners who work on behalf of or with Fil
 
 We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of FileResearchCenter�s terms of use, or as otherwise required by law. 
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of FileResearchCenter’s terms of use, or as otherwise required by law. 
 
 We transfer information about you if FileResearchCenter is acquired by or merged with another company. In this event, FileResearchCenter will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
@@ -52,7 +52,7 @@ FileResearchCenter may set and access FileResearchCenter cookies on your compute
 
 You can edit your personal information stored by us at any time by utilizing web services, if available, or by contacting us via one of the methods listed at the end of this policy. 
 
-We reserve the right to send you certain communications relating to FileResearchCenter, such as service announcements and administrative messages that are considered part an established business relationship, without offering you the opportunity to opt-out of receiving them. FileResearchCenter is a trade name for certain software products developed by or for Support.com, Inc. or its subsidiary, SDC Software, Inc. As used in this agreement, Support.com, Inc., its divisions, trade names, subsidiaries, and affiliated companies and entities are collectively referred to as �FileResearchCenter� or �Support.com.� We reserve the right to use information about you in accordance with this policy for all Support.com subsidiaries and divisions and under all Support.com trade names. 
+We reserve the right to send you certain communications relating to FileResearchCenter, such as service announcements and administrative messages that are considered part an established business relationship, without offering you the opportunity to opt-out of receiving them. FileResearchCenter is a trade name for certain software products developed by or for Support.com, Inc. or its subsidiary, SDC Software, Inc. As used in this agreement, Support.com, Inc., its divisions, trade names, subsidiaries, and affiliated companies and entities are collectively referred to as “FileResearchCenter” or “Support.com.” We reserve the right to use information about you in accordance with this policy for all Support.com subsidiaries and divisions and under all Support.com trade names. 
 
 **Confidentiality and Security**
 
@@ -67,8 +67,8 @@ Your privacy is important to us. As a Better Business Bureau Accredited Business
 In compliance with the Safe Harbor Principles, FileResearchCenter commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact FileResearchCenter at: 
 
 FileResearchCenter c/o Support.com, Inc.  
-1900 Seaport Boulevard  
-Redwood City, CA 94063  
+900 Chesapeake Drive, 2nd Floor  
+Redwood City, California 94063  
 Attn: Privacy  
 E-mail: [privacy@support.com](mailto:privacy@support.com)
 
