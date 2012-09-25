@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livethedreamevent.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526013402id_/http%3A//www.livethedreamevent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livethedreamevent.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925052228id_/http%3A//www.livethedreamevent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Live the Dream | Creating Tomorrow's Leaders Today
 
@@ -27,6 +27,6 @@ Los Angeles, California 90069
 
 This privacy policy is effective as of May 1, 2009.
 
-© 2008-2011 Upward Enterprises, LLC. All Rights Reserved.
+© 2008-2012 Upward Enterprises, LLC. All Rights Reserved.
 
  **INCOME DISCLAIMER:**   Upward Enterprises, LLC is an education company and marketing platform, not an income opportunity. Some of our customers are also affiliates and earn commissions by referring other people to our products and services. These claims are not a guarantee of your income, nor are they typical of average users or average participants in any other business to which the program may be applied. Some users will make NO MONEY AT ALL with this program. Individual results will vary greatly and in accordance to your input, determination, hard work, and ability to follow directions. [Full Earnings Disclosure](http://www.livethedreamevent.com/earnings/). 
