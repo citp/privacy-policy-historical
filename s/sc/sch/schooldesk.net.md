@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schooldesk.net privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126232752id_/http%3A//www.schooldesk.net/Home/tabid/5853/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldesk.net privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925161058id_/http%3A//schooldesk.net/Home/tabid/5853/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Welcome to SchoolDesk...websites done right
+# School Websites | Teacher Websites | SchoolDesk
 
 Welcome to SchoolDesk is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Welcome to SchoolDesk Web site and governs data collection and usage. By using the Welcome to SchoolDesk website, you consent to the data practices described in this statement.
 
