@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2012-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120224035043id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925101226id_/http%3A//www.appliedlanguage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « « Applied Language Solutions | Applied Language Solutions
 
 At Applied Language Solutions we are committed to protecting your data and privacy. So, we have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
 
-### **What information do we collect and how do we obtain it?**
+## What information do we collect and how do we obtain it?
 
 We receive information when you complete any of the forms on our website.
 
 To complete your request we need to know your name, email address, telephone number and country of residence.
 
-### **How do we use your information?**
+## How do we use your information?
 
 We may use your information as follows:
 
@@ -23,36 +23,29 @@ We may use your information as follows:
 
 
 
-### **How do we protect your information?**
+## How do we protect your information?
 
 We protect your information in the following ways:
 
   * We will not request information which is excessive for our purposes.
   * Try, with your assistance, to keep any information we hold about you up to date and accurate
   * Delete any information which we hold about you which is no longer relevant.
-  * Protect your data against unauthorised use. We follow strict security procedures in the storage and disclosure of information, which you have given to us, to prevent unauthorised access.
+  * Protect your data against unauthorised use. We follow strict security procedures in the storage and disclosure of information which you have given to us, to prevent unauthorised access.
 
 
 
-### **Receipt of Information**
+## Receipt of Information
 
 If you do not want to continue to be contacted by Applied Language Solutions, please write to:
 
-UK
+## UK
 
 Riverside Court,  
 Huddersfield Road,  
 Delph Oldham,  
 OL3 5FZ
 
-USA
-
-511 N. Brookhurst Street,  
-Suite 204,  
-Anaheim,  
-CA 92801
-
-Bulgaria
+## Bulgaria
 
 8 Tru Ushi Str.,  
 Fl. 1,  
@@ -60,16 +53,16 @@ Offices 1 and 2,
 Triaditsa 1301,  
 Sofia
 
-You may continue to receive communications on route to you for a short period of time while your suppression is being processed. You have the right to see personal information which is held about you or your company upon written request.
+You may continue to receive communications to you for a short period of time while your suppression is being processed. You have the right to see personal information which is held about you or your company upon written request.
 
-### **What about "cookies"?**
+## What about “cookies”?
 
 Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
 
 Cookies also allow us to make our website more user friendly. We use cookies so that we can give you a better experience when you return to our website.
 
-### **Your Consent**
+## Your Consent
 
 By completing any of our online forms, you are consenting to the collection, processing and use of this information by Applied Language Solutions.
 
-_Last revision: August 2005_
+Last revision: April 2012
