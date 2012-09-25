@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pethealthnetwork.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524010950id_/http%3A//www.pethealthnetwork.com/idexx-laboratories-inc-privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pethealthnetwork.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925062108id_/http%3A//www.pethealthnetwork.com/idexx-laboratories-inc-privacy-policy-statement) for the most accurate reproduction.*
 
 # IDEXX Laboratories, Inc. Privacy Policy Statement
 
