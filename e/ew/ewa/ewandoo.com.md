@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewandoo.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626144629id_/http%3A//ewandoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewandoo.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926002020id_/http%3A//ewandoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
