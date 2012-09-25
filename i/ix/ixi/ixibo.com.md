@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixibo.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602172717id_/http%3A//www.ixibo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixibo.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925064224id_/http%3A//www.ixibo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ixibo
 
