@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoosje.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605085353id_/http%3A//www.thoosje.com/thoosje-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoosje.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926003040id_/http%3A//www.thoosje.com/thoosje-privacy-policy.html) for the most accurate reproduction.*
 
 # Microsoft Vista sidebar - XP sidebar design Thoosje.com
 
