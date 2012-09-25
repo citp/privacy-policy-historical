@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinetipsblog.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602004234id_/http%3A//www.onlinetipsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetipsblog.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925092227id_/http%3A//www.onlinetipsblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Tips Blog
+# Privacy Policy | Online Tips BlogOnline Tips Blog
 
 At www.onlinetipsblog.com, the privacy of visitors is utmost important to us. This privacy policy document describes the types of personal information received & collected by www.onlinetipsblog.com and how its used.
 
@@ -29,6 +29,6 @@ Confidential and Security
 DoubleClick has implemented security measures in order to protect information being collected from loss, misuse and unauthorized access, disclosure or alteration.
 
 Changes to this Privacy Policy  
-We amend the rights to change this privacy policy from time to time as we add new information. 
+We amend the rights to change this privacy policy from time to time as we add new information.
 
 Posted by Yogesh Patel   @   30 November 2009 0 comments
