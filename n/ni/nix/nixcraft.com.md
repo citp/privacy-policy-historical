@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixcraft.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506215847id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixcraft.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925210724id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
