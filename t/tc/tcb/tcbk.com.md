@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcbk.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123165026id_/http%3A//tcbk.com/tcb/index.cfm/about/privacy/internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcbk.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926143706id_/https%3A//www.tcbk.com/tcb/index.cfm/about/privacy/internet-privacy-policy) for the most accurate reproduction.*
 
 # Tri Counties - Internet Privacy Policy
 
