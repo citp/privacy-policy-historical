@@ -1,17 +1,14 @@
-<!--The following is the downloaded HTML source of the camnation.com privacy policy that was archived on 2010-03-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100302005351id_/http%3A//camnation.com%3Fp%3Dprivacy%26d%3D2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the camnation.com privacy policy that was archived on 2012-09-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120926171323id_/http%3A//camnation.com%3Fp%3Dprivacy%26d%3D2) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<title>CamNation.com</title>
+		<link rel="shortcut icon" href="http://images.camnation.com/global/favicon.ico">				<meta name="google-site-verification" content="Nt4ix6djnJcYWQwI41d2yT3zpdpt_QYh7Yx9gar2x68">
+		<title>CamNation - The best free webcam site! Always hot, always live</title><!-- sact:  -->
 
-		<link rel="stylesheet" type="text/css" href="http://images.datingsvcs.com/css/main.css">
-		<link rel="stylesheet" type="text/css" href="http://images.datingsvcs.com/css/v1Styles.css">
+		<link rel="stylesheet" type="text/css" href="http://images.camnation.com/css/main.css"><link rel="stylesheet" type="text/css" href="http://images.camnation.com/css/main_wCams.css"><link rel="stylesheet" type="text/css" href="http://images.camnation.com/css/v1Styles.css">		<link rel="stylesheet" type="text/css" href="http://images.camnation.com/b8c37e33de/local.css"><link rel="stylesheet" type="text/css" href="http://images.camnation.com/b8c37e33de/local_cams.css">
+		<script type="text/javascript" async="" src="https://web.archive.org/web/20111007133611/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/global/js/jquery.1.4.2/jquery.min.js"></script>
 
-		<link rel="stylesheet" type="text/css" href="http://images.datingsvcs.com/b8c37e33de/local.css"><!-- http://images.datingsvcs.com/b8c37e33de -->
-		
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-		
 		<script type="text/javascript" src="/fglobal/js/Bver.js"></script>
 		<script type="text/javascript" src="/fglobal/js/cssSpprtV2.js"></script>
 		<script type="text/javascript" src="/fglobal/js/imgPreload.js"></script>
@@ -19,91 +16,886 @@
 		<script type="text/javascript" src="/fglobal/js/camcntrOUT.js"></script>
 		<script type="text/javascript" src="/fglobal/js/global.js"></script>
 		<script type="text/javascript" src="/fglobal/js/global_pgInit.js"></script>
-		
+
+		<link rel="stylesheet" type="text/css" href="/fglobal/js/fancybox/jquery.fancybox-1.3.1.css" media="screen">
+
+		<script type="text/javascript" src="/fglobal/js/fancybox/jquery.fancybox-1.3.1.ds.js"></script>
+		<script type="text/javascript" src="/fglobal/js/jquery.ccntrSupport.js"></script>
+		<link rel="stylesheet" type="text/css" href="/fglobal/css/ccntr.css">
+		<link rel="stylesheet" type="text/css" href="/fglobal/css/srchRslts.css">
+
+		<script type="text/javascript">
+		function PopupCenter(pageURL, title,w,h) {
+			var left = (screen.width/2)-(w/2);
+			var top = (screen.height/2)-(h/2);
+			var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
+		}
+		</script>	 
+
+		<script type="text/javascript">
+
+
+			var d = document;
+			var initOptsSet = false;
+			var startFocus;
+			var dlgStd = {
+
+				padding: 4,
+				bgColor: '#000000',
+				bgAlpha: .7
+
+			};
+
+			var init_user = new String('').toLowerCase();
+			var init_password = '';
+
+
+			$(document).ready(function(){
+
+				// Browser detection  if Chrome, Safari, or Opera  //
+
+    			var fbHeightMod = 20;
+    			var doFBHeightMod = ($.browser.webkit || $.browser.opera);
+
+    			// if webkit or opera add 20 onto the baseH, otherwise (:) just the baseH
+    			// and the baseH is declared later in the fancybox itself.
+    			function getFBHeight(baseH){
+        			return doFBHeightMod ? (baseH + fbHeightMod) : baseH;
+    			}
+
+
+$.ccntrSupport.guestUser = true;
+
+				// Terms of Use Dialog
+				$('#profileSearchTrigger').fancybox({
+					showCloseButton: true,
+					centerOnScroll: true,
+					overlayOpacity: .8,
+					overlayColor: '#000000',
+					transitionIn: 'none',
+					transitionOut: 'none',
+					scrolling: 'no',
+					speedOut: 0
+
+				});
+
+			// Register Pop
+			// Checks to see if the browser is a webkit browser or opera, 
+			// for additional height, otherwise uses below values 
+			
+				 $('#uploadSuccessTrigger').fancybox({
+						width: getFBHeight(680),
+						height: getFBHeight(470),
+						padding: dlgStd.padding,
+						showCloseButton: true,
+						centerOnScroll: true,
+						overlayOpacity: dlgStd.bgAlpha,
+						overlayColor: dlgStd.bgColor
+
+					});			
+
+				 $('#registerPopTriggerCam').fancybox({
+						width: 896,
+						height: getFBHeight(574),
+						padding: dlgStd.padding,
+						showCloseButton: true,
+						centerOnScroll: true,
+						overlayOpacity: dlgStd.bgAlpha,
+						overlayColor: dlgStd.bgColor,
+						modal: false,
+						type: 'iframe',
+						onClosed:	function() {
+							location.href = "/?d=8&p=welcomeRedirector" 
+							//location.reload(true)
+						}
+
+					});
+					
+				 $('#registerPopTrigger').fancybox({
+						width: 715,
+						height: getFBHeight(425),
+						padding: dlgStd.padding,
+						showCloseButton: true,
+						centerOnScroll: true,
+						overlayOpacity: dlgStd.bgAlpha,
+						overlayColor: dlgStd.bgColor,
+						modal: false,
+						type: 'iframe',
+						onClosed:	function() {
+							location.href = "/?d=8&p=welcomeRedirector" 
+							//location.reload(true)
+						}
+
+					});
+					
+				 $('#registerBannerTrigger').fancybox({
+						width: 896,
+						height: getFBHeight(574),
+						padding: 0,
+						showCloseButton: true,
+						centerOnScroll: true,
+						overlayOpacity: dlgStd.bgAlpha,
+						overlayColor: dlgStd.bgColor,
+						modal: true,
+						type: 'iframe',
+						onClosed:	function() {
+							location.href = "/?d=8&p=welcomeRedirector" 
+							//location.reload(true)
+						}
+					});					
+					
+				// Register
+				$('#registerTrigger').fancybox({
+					width: 775,
+					height: getFBHeight(470),
+					padding: dlgStd.padding,
+					showCloseButton: true,
+					centerOnScroll: true,
+					overlayOpacity: dlgStd.bgAlpha,
+					overlayColor: dlgStd.bgColor,
+					type: 'iframe'
+
+				});
+
+				// Register Friends
+				$('#registerTriggerFriends').fancybox({
+					width: 775,
+					height: getFBHeight(470),
+					padding: dlgStd.padding,
+					showCloseButton: true,
+					centerOnScroll: true,
+					overlayOpacity: dlgStd.bgAlpha,
+					overlayColor: dlgStd.bgColor,
+					type: 'iframe'
+
+				});
+
+				// Register Profile
+				$('#registerTriggerProfile').fancybox({
+					width: 775,
+					height: getFBHeight(470),
+					padding: dlgStd.padding,
+					showCloseButton: true,
+					centerOnScroll: true,
+					overlayOpacity: dlgStd.bgAlpha,
+					overlayColor: dlgStd.bgColor,
+					type: 'iframe'
+
+				});
+
+				// Register Settings
+				$('#registerTriggerSettings').fancybox({
+					width: 775,
+					height: getFBHeight(470),
+					padding: dlgStd.padding,
+					showCloseButton: true,
+					centerOnScroll: true,
+					overlayOpacity: dlgStd.bgAlpha,
+					overlayColor: dlgStd.bgColor,
+					type: 'iframe'
+
+				});
+
+				// Buy Tokens
+				$('#purchaseTokensTrigger').fancybox({
+					width: 775,
+					height: getFBHeight(580),
+					padding: dlgStd.padding,
+					showCloseButton: true,
+					centerOnScroll: true,
+					overlayOpacity: dlgStd.bgAlpha,
+					overlayColor: dlgStd.bgColor,
+					type: 'iframe'
+
+				});
+								
+				// Age Verification
+				$('#ageVerificationTrigger').fancybox({
+					padding: 10,
+					margin: 10,
+					showCloseButton: false,
+					centerOnScroll: true,
+					overlayOpacity: .8,
+					overlayColor: '#000000',
+					transitionIn: 'none',
+					transitionOut: 'none',
+					speedOut: 0,
+					modal: true
+				});
+
+				// Customer Service Contact Form
+				$('#customerServiceContactTrigger').fancybox({
+					width: 480,
+					height: getFBHeight(595),
+					padding: dlgStd.padding,
+					showCloseButton: true,
+					centerOnScroll: true,
+					overlayOpacity: dlgStd.bgAlpha,
+					overlayColor: dlgStd.bgColor,
+					type: 'iframe'
+				});
+
+				// Model Schedule Form
+				 $('#modelSched').fancybox({
+						width: 715,
+						height: getFBHeight(200),
+						padding: dlgStd.padding,
+						showCloseButton: true,
+						centerOnScroll: true,
+						overlayOpacity: dlgStd.bgAlpha,
+						overlayColor: dlgStd.bgColor,
+						modal: false,
+						type: 'iframe',
+						onClosed:	function() {
+							location.href = "/?d=8&p=welcomeRedirector" 
+							//location.reload(true)
+						}
+
+					});
+				
+				$('#ageVerificationTrigger').click();
+
+
+				
+
+
+				testHashForShowJ1();
+
+			});
+
+			function showThanks(){
+				var thxWin = window.open( '/?d=4&p=thanks&sact=', 'thanks', 'width=360, height=150' );
+				thxWin.blur();
+			}
+
+			function testHashForShowJ1(){
+
+				var foundJ;
+
+				var data = location.search.substring(1);
+				if (data){
+				    pairs = new Array();
+				    pairs = data.split("&");
+				    for(i = 0; i < pairs.length;i++){
+				        var tempPair = new Array();
+				        tempPair = pairs[i].split("=");
+				        switch(tempPair[0]){
+				        	case "j":
+								foundJ = unescape(tempPair[1]);
+								break;
+						}
+					}
+
+				}
+
+				if (foundJ == 1)$('#registerPopTrigger').click();
+
+			}
+
+			function cropperTrigger(pictureID){
+				
+				$('.cropperTrigger' + pictureID ).click();
+			}
+			
+			
+				
+		</script>
+
 	</head>
 	<body onload="cssSpprt.minW.addMinW('bg_main', 915); cssSpprt.minW.enable();">
+
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-17060302-1']);
+			_gaq.push(['_setDomainName', 'none']);
+			_gaq.push(['_setAllowLinker', true]);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+
 		<div id="outerBg">
 		<div id="bg_main">
-		
-			<div id="fwork_body">
-				<!-- header -->
-				<div id="header">
-					<div id="logo">
-						<a href="http://www.camnation.com/"><span><b>CamNation.com</b></span></a> 
-					</div>
-					<div id="loggedInAsHldr">
-											<div class="loggedInAsIcon"></div><div class="loggedInAs">You are <b>not logged in!</b></div>
-											<br class="clearBR">
-					</div>
-										<div class="tnavV2">
-						<a href="http://www.camnation.com/" class="spr-topnav tn-btnBase tn-whosOnline"><span class="tNavBtn"><span class="offsetHide">Member Search</span></span></a>
-						<a href="http://www.camnation.com/register.php" class="spr-topnav tn-btnBase tn-cams"><span class="tNavBtn"><span class="offsetHide">Launch Cams</span></span></a>						<a href="http://www.camnation.com/register.php" class="spr-topnav tn-btnBase tn-myFaves"><span class="tNavBtn"><span class="offsetHide">My Favorites</span></span></a>
-						<a href="http://www.camnation.com/register.php" class="spr-topnav tn-btnBase tn-myProfile"><span class="tNavBtn"><span class="offsetHide">My Profile</span></span></a>
-						<a href="http://www.camnation.com/register.php" class="spr-topnav tn-btnBase tn-myAccount"><span class="tNavBtn"><span class="offsetHide">My Account</span></span></a>
-						<a href="http://www.camnation.com/?p=help&amp;d=1" class="spr-topnav tn-btnBase tn-helpFAQ"><span class="tNavBtn"><span class="offsetHide">Help/F.A.Q.</span></span></a>
-					</div>				</div><!-- END: header --><div id="supportBody">
-	<div class="bodyHdr"><h1>CamNation.com Privacy Policy</h1></div>
-	<div class="bodyTagline"><em>CamNation.com is committed to maintaining a privacy policy that benefits each individual customer's preferences.</em></div>
+		<div id="fwork_bodyWide">
+			<div class="bodyContainer">
 
-	<div class="bodyBoldRedCntr"><strong>NOTE: Our privacy policy is null and void in cases of fraud!</strong></div>
+				<div id="headerWide">
+					<div id="hdrLt"><!-- --></div>
+					<div class="headerContainer">
 
-	<div class="bodyP-noIndent">This policy explains the privacy practices for Whitelands s.r.o, (hereinafter referred to as "Whitelands", "CamNation.com", "site", "our", "we", or "us"). In order to provide interactive computer billing and fraud services, Whitelands collects and uses certain information about you. This policy explains what we collect, what we use and how you can interact with Whitelands in order to ensure the accuracy of the data we collect and use.</div>
+						<div id="logo">
+							<a href="http://www.camnation.com/"><span><b>CamNation</b></span></a>
+						</div>
 
-	<div class="bodySubhead"><h3>1) Information Collection:</h3></div>
-	<div class="bodyP">Visitors can access our Web site home page and browse our Web site without disclosing any personal data. However, in order to provide you with a particular product or service online, Whitelands may request that you voluntarily supply Whitelands with primary personal data (such as name and email address) and identifiers (such as credit card number and web site password). Whitelands gives you the option of using a secure transmission method of sending such information.</div>
+						<!-- 
+												<div class="hdrBanner1"><a href="/register.php" id="registerBannerTrigger"><img border="0" src="http://images.camnation.com/b8c37e33de/CamnationBannerTop.gif"></a></div>
+												-->
 
-	<div class="bodyP">Whitelands receives and stores all information that you enter in our Web site and billing pages. In addition, Whitelands collects information about you during your visit, such as your IP Address, and Whitelands employs its software in order to ascertain your physical location when making a purchase. However, we do not collect information from other sources, such as public records or bodies, or private organizations. You are required to provide Whitelands with accurate and up-to-date information, and failure to provide Whitelands with such information could result in voiding your Agreement with Whitelands.</div>
+						<div id="loggedInAsHldr">
+													<div>
+								
+								<form method="POST" action="/login.php" id="lnavLoginForm">
+								<input type="hidden" name="origin_url" value="">
+								<table border="0" cellspacing="0" cellpadding="0" id="hdrLogin">
+									<tbody><tr>
+										<td align="right" class="loginTxtUsername" id="loginTxtUsername">username</td>
+										<td><input type="text" name="user" class="uNameTxt" value="" style="width: 120px;" tabindex="1"></td>
+										<td style="padding-left: 5px;" align="right" class="loginTxtPassword" id="loginTxtPassword" colspan="2">password</td>
+										<td><input type="password" class="pWordTxt" name="password" style="width: 120px;" tabindex="2"></td>
+										<td><input type="submit" value="login" id="hdrLoginBtn" tabindex="3">&nbsp;</td>
+																														  <script>
+											
+										  
+											 function toggleAll(element) 
+											{
+												var form = document.forms.inviter, z = 0;
+												for(z=0; z<form.length;z++)
+												{
+												if(form[z].type == 'checkbox')
+													form[z].checked = element.checked;
+											   	}
+											}
+											
+										 </script>											
+										<td class="fbContainer"><a href="javascript:void(0);" onclick="PopupCenter('https://www.facebook.com/login.php?api_key=134977989900035&amp;cancel_url=http%3A%2F%2Fwww.camnation.com%2F%3Fp%3DfbWelcome%26d%3D4%26fb_cancel%3D1&amp;display=popup&amp;fbconnect=1&amp;next=http%3A%2F%2Fwww.camnation.com%2Finviter%2Ffb.php%3Ffb_auth%3D1&amp;return_session=1&amp;session_version=3&amp;v=1.0&amp;req_perms=email%2Cuser_birthday&amp;method=POST', 'myPop1',441,295);"><span class="fbLogin"><img src="/fglobal/images/fbSignIn.gif"></span></a></td>
+																			</tr>
+								</tbody></table>
+								</form>
+							</div>
+														<div>
+							<div id="forgotPassword">Forgot? <a href="/unrequest.php">Username</a> / <a href="/pwrequest.php">Password</a></div>
+							</div>
+														
+													<br class="clearBR">
+						</div>
+													
+	
+				<div class="tnavV2notAuthed"> 
 
-	<div class="bodyP">You can inquire about your personal data by sending an e-mail to feedback@camnation.com. Within a week, Whitelands shall provide you with a readable copy of the personal data which Whitelands keeps about you. Whitelands charges a $25 processing fee for the request. Prior to completing your request, Whitelands may require that you provide Whitelands with proof of your identity. Whitelands reserves the right to refuse any request for information though Whitelands will communicate the reason for its decision.</div>
-
-	<div class="bodySubhead"><h3>2) Information Use:</h3></div>
-	<div class="bodyP">Whitelands is the sole owner of the information collected on its sites. Whitelands will not sell, share, or rent this information to third parties in ways different from what is disclosed it this policy. Whitelands shall release data when required by law, to enforce its Agreement or the contract rights of its clients. Whitelands shares the following data with the owner/operator of the web site from which you are purchasing goods and services utilizing Whitelands services: the URL you are purchasing goods or services from, your e-mail address, your name, your address, your phone number, your date of birth, and your agreement to be bound by Whitelands terms and conditions. Whitelands uses the data it collects for the technical administration of the Web site, research and development, and fraud deterrence.</div>
-
-	<div class="bodySubhead"><h3>3) Information sharing:</h3></div>
-	<div class="bodyP">We ensure that your personal data will not be disclosed to governmental institutions and authorities except if required by law or other regulation.</div>
-
-	<div class="bodySubhead"><h3>4) Email correspondence:</h3></div>
-	<div class="bodyP">Whitelands may request a confirmation when you receive and open and e-mail communication delivered by Whitelands. We archive and identify the origination IP address of all email sent into our network.</div>
-
-	<div class="bodySubhead"><h3>5) Third party information:</h3></div>
-	<div class="bodyP">Occasionally, Whitelands receives information from third parties to compare it to information that you had provided to Whitelands for fraud prevention purposes.</div>
-
-	<div class="bodySubhead"><h3>6) Cookies:</h3></div>
-	<div class="bodyP">A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Whitelands employs "cookie" technology. We use cookies to store personal data, to authenticate you as a Site user, for security purposes, and to track our affiliate click-throughs and sign-up rate.</div>
-
-	<div class="bodySubhead"><h3>7) Children:</h3></div>
-	<div class="bodyP">Whitelands does not request, or knowingly collect, personal data from anyone under the age of 18. Furthermore, Whitelands does not knowingly give children the ability to post messages or otherwise distribute information about themselves on our web site.</div>
-
-	<div class="bodySubhead"><h3>8) Security:</h3></div>
-	<div class="bodyP">We take every precaution to protect our visitors' information. We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction, or accidental loss. Whitelands utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. Whitelands encrypts the information that you provided.</div>
-
-	<div class="bodyP">In addition, Whitelands does everything to protect your information off-line. All employees and data processors who have access to, and are associated with, the processing of personal data are obliged to respect the confidentiality of our visitors' personal data. Whitelands employs a username and password scheme in order to limit and achieve access to our computer network by our employees and third parties.</div>
-
-	<div class="bodySubhead"><h3>9) Correction/Updating Personal Information:</h3></div>
-	<div class="bodyP">You may access certain information about you for the purpose of viewing, updating, and in some instances deleting from our system any information deemed inaccurate. You may request to access your information by sending a request to:</div>
-
-	<div class="bodyP-noIndent"><strong>Administrator<br>
-	Consumer Protection Dept.<br>
-	Whitelands s.r.o<br>
-	Pobrezni 370/4<br>
-	18600 Praha 8<br>
-	Czech Republic<br>
-	or e-mail: feedback@camnation.com.</strong></div>
-
-	<div class="bodyP-noIndent">If you have an inquiry or concern about our privacy policy, please contact us at the above address.</div>
-
-	<div class="bodyP-noIndent">(Revised April 25th, 2008) </div>
-</div>
-					<br class="clearBR">
+										
+										<!-- -->
+										
+									</div>
+				
+				<div class="hdrTabs">
+										<span class="fbBtnHome"><a href="javascript:void(0);" onclick="PopupCenter('https://www.facebook.com/login.php?api_key=134977989900035&amp;cancel_url=http%3A%2F%2Fwww.camnation.com%2F%3Fp%3DfbWelcome%26d%3D4%26fb_cancel%3D1&amp;display=popup&amp;fbconnect=1&amp;next=http%3A%2F%2Fwww.camnation.com%2Finviter%2Ffb.php%3Ffb_auth%3D1&amp;return_session=1&amp;session_version=3&amp;v=1.0&amp;req_perms=email%2Cuser_birthday&amp;method=POST', 'myPop1',441,295);"><span class="fbLogin"><img src="/fglobal/images/fbSignIn.gif"></span></a></span>
+					  <div id="fb-root"></div>
+				                                   
+                                           
+                                       <script src="http://connect.facebook.net/en_US/all.js"></script>
+                                       <script>
+                                               FB.init({
+                                                       appId  : '134977989900035',
+                                                       status : true, // check login status
+                                                       cookie : true, // enable cookies to allow the server to access the session
+                                                       xfbml  : true  // parse XFBML
+                                               });
+                                               
+                                               FB.getLoginStatus(function(response) {
+                                                       if( response.status != 'unknown' ) {
+                                                               // Should be logged in but not connected
+                                                               PopupCenter('https://www.facebook.com/login.php?api_key=134977989900035&cancel_url=http%3A%2F%2Fwww.camnation.com%2F%3Fp%3DfbWelcome%26d%3D4%26fb_cancel%3D1&display=popup&fbconnect=1&next=http%3A%2F%2Fwww.camnation.com%2Finviter%2Ffb.php%3Ffb_auth%3D1&return_session=1&session_version=3&v=1.0&req_perms=email%2Cuser_birthday&method=POST', 'myPop1',441,295);
+                                                       }
+                                                       
+                                               });
+                                       </script>
+                                       
+                 													<span><a href="http://twitter.com/CamNation" target="_blank" class="hdrTabTwitter"><!-- --></a></span>
+					<span class="hdrTabM"><!-- --></span>
+					<span><a href="http://www.facebook.com/CamNation" target="_blank" class="hdrTabFacebook"><!-- --></a></span>
+					<span class="hdrTabRt"><!-- --></span>
 					
 				</div>
+												
+					</div>
+					<div id="hdrRt"><!-- --></div>
+					<div class="clearDiv"><!-- --></div>
+				</div>
 			</div>
-				<!-- footer links/copyright -->
-				<div id="pageFooter">
-					<div class="footerLinks"><a href="/?p=privacy&amp;d=2">Privacy Policy</a> • <a href="/?p=terms&amp;d=2">Terms &amp; Conditions</a> • <a href="/?p=dmca&amp;d=2">DMCA</a> • <a href="/?p=us2257&amp;d=2">2257 Notice</a> • <a href="/?p=protectKids&amp;d=1">Protect Kids</a> • <a href="/?p=help&amp;d=1">Help/FAQ</a></div>
-					<div class="footerLinks"><a href="/?p=reportAbuse&amp;d=1">Report Abuse</a> • <a href="http://www.bigclicks.com" rel="external" target="_blank">Webmasters: Earn Money!</a> • <a href="#" onclick="addBookmark('www.camnation.com', 'http://www.camnation.com/');" onmouseover="window.status='blam'" onmouseout="window.status=''">Bookmark CamNation.com</a></div>
-					<div id="copyrightBlock">© 2010  All Rights Reserved.</div>
-				</div><!-- END: footer links/copyright -->
-		</div>
+		</div>	<div id="supportBody">
+	<div class="bodyHdr"><h1>CamNation Privacy Policy</h1></div>
+	<div class="bodyTagline"><em>CamNation is committed to maintaining a privacy policy that benefits each individual customer's preferences.</em></div>
+
+	<div class="bodyP-noIndent"><em>This policy explains the privacy practices for CamNation, (hereinafter referred to as "site","our","we", or "us"). CamNation collects and uses certain information about you. This policy explains what we collect, what we use and how you can interact with CamNation Inc in order to ensure the accuracy of the data we collect and use.</em></div>
+
+	<div class="bodyP-noIndent">We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us.</div>
+
+	<div class="bodyP-noIndent">If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.</div>
+
+	<div class="bodyP-noIndent">We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.</div>
+
+	<div class="bodyP-noIndent">We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, and telephone number. We also may request information about your interests and activities, your gender and age, and other demographic information such as your hometown, your gender or your username.</div>
+
+	<div class="bodyP-noIndent">We may also periodically obtain both personal and non-personal information about you from business partners, contractors and other third parties and add it to our account information or other information we have collected.</div>
+
+	<div class="bodyP-noIndent">We use various technologies to collect information from your computer and about your activities on our site. We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.</div>
+
+	<div class="bodyP-noIndent">When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.</div>
+
+	<div class="bodyP-noIndent">We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or promotional or other e-mail messages or to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.</div>
+
+	<div class="bodyP-noIndent">We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. We may use information that we collect about you to: deliver the products and services that you have requested; manage your account and provide you with customer support; perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties; develop and display content and advertising tailored to your interests on our site and other sites; enforce our terms and conditions; manage our business; and perform functions as otherwise described to you at the time of collection.</div>
+
+	<div class="bodyP-noIndent">We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services. We may share your personal information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services on our behalf. These services may include, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.</div>
+
+	<div class="bodyP-noIndent">We may share personal information with the businesses with which we partner to offer you products, services or promotions. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. UNDER NO CIRCUMSTANCES DO WE SHARE ANY FINANCIAL INFORMATION WITH SUCH MERCHANT.</div>
+
+	<div class="bodyP-noIndent">From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by opting out at the time you register for our site, or at any time thereafter.</div>
+
+	<div class="bodyP-noIndent">We also may disclose your information, including personal information: In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies, in connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. </div>
+
+	<div class="bodyP-noIndent">If you have an online account with us, you have the ability to review and update your personal information online by logging into your account and clicking on your account settings. You can also review and update your personal information by contacting us at the email address provided below in the "How to contact us" section of this privacy policy. More information about how to contact us is provided below.</div>
+
+	<div class="bodyP-noIndent">If you have an online account with us, you also may choose to resign and close your account at any time. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new, separate account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, and take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. </div>
+
+	<div class="bodyP-noIndent">You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.</div>
+
+	<div class="bodyP-noIndent">At any time you can choose to no longer receive commercial or promotional emails from us by notifying customer service.</div>
+
+	<div class="bodyP-noIndent">We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use SSL encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.</div>
+
+	<div class="bodyP-noIndent">We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.</div>
+
+	<div class="bodyP-noIndent">We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our Terms and Conditions. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. </div>
+
+	<div class="bodyP-noIndent">Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13.</div>
+
+	<div class="bodyP-noIndent">This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.</div>
+
+	<div class="bodyP-noIndent">We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.</div>
+
+	<div class="bodyP-noIndent">How to contact us:</div>
+
+	<div class="bodyP-noIndent">If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail as follows:</div>
+
+	<div class="bodyP-noIndent">feedback@camnation.com</div>
+
+	<div class="bodyP-noIndent">Definitions</div>
+
+	<div class="bodyP-noIndent">Cookies:</div>
+
+	<div class="bodyP-noIndent">A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. Cookies on our website do not link to or store your personal information.</div>
+
+	<div class="bodyP-noIndent">For example, when you sign in to our website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.</div>
+
+	<div class="bodyP-noIndent">You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.</div>
+
+	<div class="bodyP-noIndent">We may allow third-parties, including advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. </div>
+	<div class="bodyP-noIndent">Web Beacons:</div>
+
+	<div class="bodyP-noIndent">Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.</div>
+
+	<div class="bodyP-noIndent">Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.</div>
+
+</div>
+<!-- RC - FOOTER.INC - dsmod -->
+					<br class="clearBR">
+				</div>
+			</div>
+
+		
+
+		<!-- footer links/copyright -->
+		<div id="pageFooter">
+			<div class="footerLinks"> <a href="/register.php?t=model001">Become a Model</a> • <a href="/?p=2257_default&amp;d=2">2257 Compliance</a> • <a href="/?p=dmca&amp;d=2">DMCA</a> • <a href="/?p=privacy&amp;d=2">Privacy Policy</a> • <a href="/?p=terms&amp;d=2">Terms &amp; Conditions</a> •  <a href="/?p=broadcaster&amp;d=2">Broadcaster Terms &amp; Conditions</a> •  <a href="/?p=referralterms&amp;d=2">Referral Program Terms</a> •  <a id="customerServiceContactTrigger" href="/contact.php">Customer Service</a></div>
+						<div class="footerLinks"><a href="#" onclick="addBookmark('www.camnation.com', 'http://www.camnation.com/');" onmouseover="window.status='blam'" onmouseout="window.status=''">Bookmark CamNation</a></div>
+							
+		</div><!-- END: footer links/copyright -->
+		
+		
+		
+		<!-- ProxyLauncher - ds.20110120 -->
+		<script type="text/javascript" src="/fglobal/js/DsProxyLauncher.js"></script>
+		<script type="text/javascript">
+
+			document.proxyLauncherMech = new DsProxyLauncher();
+			document.proxyLauncherMech.baseLoc = '/?d=8&p=proxyLauncher';
+				
+		</script>
+		<div><iframe src="/?d=8&amp;p=proxyLauncher" id="proxyLauncher" name="proxyLauncher" style="border: 0; padding: 0; margin: 0; width: 1px; height: 1px;"></iframe></div>
+		<!-- END: ProxyLauncher -->
+		
+		<div style="display: none;">
+		
+			<a href="/register.php" id="registerPopTrigger">Register Now!</a>
+		
+			<div id="fancySearch">
+		
+				<div id="bodyColumn" style="margin: 0 auto; left: 0;">
+										<span class="pgHdrBarV2">
+						<span class="spr-containers pgHdrL"><span class="grfxRplcTextCtnr"><span class="offsetHide">[ </span></span></span>
+						<span class="spr-htiles pgHdrM"><span class="pgHdrLabel">Quick Search</span></span>
+						<span class="spr-containers pgHdrR"><span class="grfxRplcTextCtnr"><span class="offsetHide"> ]</span></span></span>
+					</span>						<!-- SEARCHBAR V2 -->
+						<div class="fullWTBox">
+							<span class="spr-containers fullWTBoxNoTabsT fullWTBoxNoTabsRow"></span>
+							<div class="spr-vtiles fullWTBoxM srchM" style="min-height: 45px;">
+								<form id="lnav_quikSrch" action="/find_user.php" method="get" style="margin:0; padding:0;">
+								<table class="srchBarTable">
+									<tbody><tr>
+										<td class="srchLabelTD">Username:</td>
+										<td class="srchFieldTD">
+											<select name="type" class="logbox-textField">
+												<option value="un">User Name</option>
+												<option value="email">Email</option>
+												<option value="rn">Real Name</option>
+											</select>
+										</td>
+										<td class="srchFieldTD" colspan="2">
+											<input name="value" type="text" class="logbox-textField">
+										</td>
+										<td rowspan="2" class="srchSubmitTD ">
+											<a href="#QuickSearch" class="grfxRplcText spr-btnsIcons btn-search" onclick="document.getElementById('lnav_quikSrch').submit(); return false;"><span class="ctnrSpan"><span class="offsetHide">&gt; SEARCH &lt;</span></span></a>
+										</td>  
+									</tr>
+								</tbody></table>
+								</form>
+							</div>
+							<span class="spr-containers fullWTBoxB"><span class="grfxRplcTextCtnr"><span class="offsetHide"><!-- --></span></span></span>
+						</div>
+				
+										<span class="pgHdrBarV2">
+						<span class="spr-containers pgHdrL"><span class="grfxRplcTextCtnr"><span class="offsetHide">[ </span></span></span>
+						<span class="spr-htiles pgHdrM"><span class="pgHdrLabel">Member Search</span></span>
+						<span class="spr-containers pgHdrR"><span class="grfxRplcTextCtnr"><span class="offsetHide"> ]</span></span></span>
+					</span>						<!-- SEARCHBAR V2 -->
+						<div class="fullWTBox">
+							<span class="spr-containers fullWTBoxNoTabsT fullWTBoxNoTabsRow"></span>
+							<div class="spr-vtiles fullWTBoxM srchM">
+								<form name="srchBarForm" id="frmSrchBar" action="/browse.php" method="get">
+																<table class="srchBarTable">
+									<tbody><tr>
+										<td class="srchLabelTD">Gender:</td>
+										<td class="srchFieldTD">
+											<select name="gender">
+												<option value="0"> All</option>
+												<option value="1"> Man</option>
+												<option value="2" selected="">Woman</option>
+												<option value="3">TS/TV/TG</option>
+											</select>
+										</td>
+										<td class="srchLabelTD">Age Group:</td>
+										<td class="srchFieldTD">
+											<select name="age_range">
+												<option value="0" selected="">All</option>
+												<option value="1">Under 25</option>
+												<option value="2">26-35</option>
+												<option value="3">36-45</option>
+												<option value="4">46-55</option>
+												<option value="5">55+</option>
+											</select>
+										</td>
+										<td rowspan="2" class="srchSubmitTD ">
+											<a href="#sendMsg" class="spr-btnsIcons btn-submit" onclick="document.getElementById('frmSrchBar').submit(); return false;"><span class="ctnrSpan"><span class="offsetHide"><input type="submit" value="submit"></span></span></a><span class="clearSpan"><!-- --></span>
+										</td>  
+									</tr>
+									<tr>
+										<td class="srchLabelTD">Country: </td>
+										<td class="srchFieldTD">
+											<select name="country">
+						
+                                                
+												<option value="" selected="">Any Country</option>
+																								<option value="US">United States</option>
+                                                												<option value="AF">Afghanistan</option>
+                                                <option value="AL">Albania</option>
+                                                <option value="DZ">Algeria</option>
+                                                <option value="AS">American Samoa</option>
+                                                <option value="AD">Andorra</option>
+                                                <option value="AO">Angola</option>
+
+                                                <option value="AI">Anguilla</option>
+                                                <option value="AG">Antigua and Barbuda</option>
+                                                <option value="AR">Argentina</option>
+                                                <option value="AM">Armenia</option>
+                                                <option value="AW">Aruba</option>
+                                                <option value="AU">Australia</option>
+
+                                                <option value="AT">Austria</option>
+                                                <option value="AZ">Azerbaijan</option>
+                                                <option value="BS">Bahamas</option>
+                                                <option value="BH">Bahrain</option>
+                                                <option value="BD">Bangladesh</option>
+                                                <option value="BB">Barbados</option>
+
+                                                <option value="BY">Belarus</option>
+                                                <option value="BE">Belgium</option>
+                                                <option value="BZ">Belize</option>
+                                                <option value="BJ">Benin</option>
+                                                <option value="BM">Bermuda</option>
+                                                <option value="BT">Bhutan</option>
+
+                                                <option value="BO">Bolivia</option>
+                                                <option value="BA">Bosnia and Herzegovina</option>
+                                                <option value="BW">Botswana</option>
+                                                <option value="BV">Bouvet Island</option>
+                                                <option value="BR">Brazil</option>
+                                                <option value="IO">British Indian Ocean Territory</option>
+
+                                                <option value="VG">British Virgin Islands</option>
+                                                <option value="BN">Brunei</option>
+                                                <option value="BG">Bulgaria</option>
+                                                <option value="BF">Burkina Faso</option>
+                                                <option value="BI">Burundi</option>
+                                                <option value="KH">Cambodia</option>
+
+                                                <option value="CM">Cameroon</option>
+                                                <option value="CA">Canada</option>
+                                                <option value="CV">Cape Verde</option>
+                                                <option value="KY">Cayman Islands</option>
+                                                <option value="CF">Central African Republic</option>
+                                                <option value="TD">Chad</option>
+
+                                                <option value="CL">Chile</option>
+                                                <option value="CN">China</option>
+                                                <option value="CX">Christmas Island</option>
+                                                <option value="CC">Cocos (Keeling) Islands</option>
+                                                <option value="CO">Colombia</option>
+                                                <option value="KM">Comoros</option>
+
+                                                <option value="CG">Congo</option>
+                                                <option value="CD">Congo - Democratic Republic of</option>
+                                                <option value="CK">Cook Islands</option>
+                                                <option value="CR">Costa Rica</option>
+                                                <option value="CI">Cote d'Ivoire</option>
+                                                <option value="HR">Croatia</option>
+
+                                                <option value="CU">Cuba</option>
+                                                <option value="CY">Cyprus</option>
+                                                <option value="CZ">Czech Republic</option>
+                                                <option value="DK">Denmark</option>
+                                                <option value="DJ">Djibouti</option>
+                                                <option value="DM">Dominica</option>
+
+                                                <option value="DO">Dominican Republic</option>
+                                                <option value="TP">East Timor</option>
+                                                <option value="EC">Ecuador</option>
+                                                <option value="EG">Egypt</option>
+                                                <option value="SV">El Salvador</option>
+                                                <option value="GQ">Equitorial Guinea</option>
+
+                                                <option value="ER">Eritrea</option>
+                                                <option value="EE">Estonia</option>
+                                                <option value="ET">Ethiopia</option>
+                                                <option value="FK">Falkland Islands (Islas Malvinas)</option>
+                                                <option value="FO">Faroe Islands</option>
+                                                <option value="FJ">Fiji</option>
+
+                                                <option value="FI">Finland</option>
+                                                <option value="FR">France</option>
+                                                <option value="GF">French Guyana</option>
+                                                <option value="PF">French Polynesia</option>
+                                                <option value="TF">French Southern and Antarctic Lands</option>
+                                                <option value="GA">Gabon</option>
+
+                                                <option value="GM">Gambia</option>
+                                                <option value="GE">Georgia</option>
+                                                <option value="DE">Germany</option>
+                                                <option value="GH">Ghana</option>
+                                                <option value="GI">Gibraltar</option>
+
+                                                <option value="GR">Greece</option>
+                                                <option value="GL">Greenland</option>
+                                                <option value="GD">Grenada</option>
+                                                <option value="GP">Guadeloupe</option>
+                                                <option value="GU">Guam</option>
+                                                <option value="GT">Guatemala</option>
+
+                                                <option value="GN">Guinea</option>
+                                                <option value="GW">Guinea-Bissau</option>
+                                                <option value="GY">Guyana</option>
+                                                <option value="HT">Haiti</option>
+                                                <option value="HM">Heard Island and McDonald Islands</option>
+                                                <option value="VA">Holy See (Vatican City)</option>
+
+                                                <option value="HN">Honduras</option>
+                                                <option value="HK">Hong Kong</option>
+                                                <option value="HU">Hungary</option>
+                                                <option value="IS">Iceland</option>
+                                                <option value="IN">India</option>
+                                                <option value="ID">Indonesia</option>
+
+                                                <option value="IR">Iran</option>
+                                                <option value="IQ">Iraq</option>
+                                                <option value="IE">Ireland</option>
+                                                <option value="IL">Israel</option>
+                                                <option value="IT">Italy</option>
+                                                <option value="JM">Jamaica</option>
+
+                                                <option value="JP">Japan</option>
+                                                <option value="JO">Jordan</option>
+                                                <option value="KZ">Kazakhstan</option>
+                                                <option value="KE">Kenya</option>
+                                                <option value="KI">Kiribati</option>
+                                                <option value="KW">Kuwait</option>
+
+                                                <option value="KG">Kyrgyzstan</option>
+                                                <option value="LA">Laos</option>
+                                                <option value="LV">Latvia</option>
+                                                <option value="LB">Lebanon</option>
+                                                <option value="LS">Lesotho</option>
+                                                <option value="LR">Liberia</option>
+
+                                                <option value="LY">Libya</option>
+                                                <option value="LI">Liechtenstein</option>
+                                                <option value="LT">Lithuania</option>
+                                                <option value="LU">Luxembourg</option>
+                                                <option value="MO">Macau</option>
+                                                <option value="MK">Macedonia - The Former Yugoslav Republic of</option>
+
+                                                <option value="MG">Madagascar</option>
+                                                <option value="MW">Malawi</option>
+                                                <option value="MY">Malaysia</option>
+                                                <option value="MV">Maldives</option>
+                                                <option value="ML">Mali</option>
+                                                <option value="MT">Malta</option>
+
+                                                <option value="MH">Marshall Islands</option>
+                                                <option value="MQ">Martinique</option>
+                                                <option value="MR">Mauritania</option>
+                                                <option value="MU">Mauritius</option>
+                                                <option value="YT">Mayotte</option>
+                                                <option value="MX">Mexico</option>
+
+                                                <option value="FM">Micronesia - Federated States of</option>
+                                                <option value="MD">Moldova</option>
+                                                <option value="MC">Monaco</option>
+                                                <option value="MN">Mongolia</option>
+                                                <option value="MS">Montserrat</option>
+                                                <option value="MA">Morocco</option>
+
+                                                <option value="MZ">Mozambique</option>
+                                                <option value="MM">Myanmar</option>
+                                                <option value="NA">Namibia</option>
+                                                <option value="NR">Naura</option>
+                                                <option value="NP">Nepal</option>
+                                                <option value="NL">Netherlands</option>
+
+                                                <option value="AN">Netherlands Antilles</option>
+                                                <option value="NC">New Caledonia</option>
+                                                <option value="NZ">New Zealand</option>
+                                                <option value="NI">Nicaragua</option>
+                                                <option value="NE">Niger</option>
+                                                <option value="NG">Nigeria</option>
+
+                                                <option value="NU">Niue</option>
+                                                <option value="NF">Norfolk Island</option>
+                                                <option value="KP">North Korea</option>
+                                                <option value="MP">Northern Mariana Islands</option>
+                                                <option value="NO">Norway</option>
+                                                <option value="OM">Oman</option>
+
+                                                <option value="PK">Pakistan</option>
+                                                <option value="PW">Palau</option>
+                                                <option value="PA">Panama</option>
+                                                <option value="PG">Papua New Guinea</option>
+                                                <option value="PY">Paraguay</option>
+                                                <option value="PE">Peru</option>
+
+                                                <option value="PH">Philippines</option>
+                                                <option value="PN">Pitcairn Islands</option>
+                                                <option value="PL">Poland</option>
+                                                <option value="PT">Portugal</option>
+                                                <option value="PR">Puerto Rico</option>
+                                                <option value="QA">Qatar</option>
+
+                                                <option value="RE">Reunion</option>
+                                                <option value="RO">Romania</option>
+                                                <option value="RU">Russia</option>
+                                                <option value="RW">Rwanda</option>
+                                                <option value="KN">Saint Kitts and Nevis</option>
+                                                <option value="LC">Saint Lucia</option>
+
+                                                <option value="VC">Saint Vincent and the Grenadines</option>
+                                                <option value="WS">Samoa</option>
+                                                <option value="SM">San Marino</option>
+                                                <option value="ST">Sao Tome and Principe</option>
+                                                <option value="SA">Saudi Arabia</option>
+                                                <option value="SN">Senegal</option>
+
+                                              
+                                                <option value="SC">Seychelles</option>
+                                                <option value="SL">Sierra Leone</option>
+                                                <option value="SG">Singapore</option>
+                                                <option value="SK">Slovakia</option>
+                                                <option value="SI">Slovenia</option>
+
+                                                <option value="SB">Solomon Islands</option>
+                                                <option value="SO">Somalia</option>
+                                                <option value="ZA">South Africa</option>
+                                                <option value="GS">S. Georgia and the S. Sandwich Islands</option>
+                                                <option value="KR">South Korea</option>
+                                                <option value="ES">Spain</option>
+
+                                                <option value="LK">Sri Lanka</option>
+                                                <option value="SH">St. Helena</option>
+                                                <option value="PM">St. Pierre and Miquelon</option>
+                                                <option value="SD">Sudan</option>
+                                                <option value="SR">Suriname</option>
+                                                <option value="SJ">Svalbard</option>
+
+                                                <option value="SZ">Swaziland</option>
+                                                <option value="SE">Sweden</option>
+                                                <option value="CH">Switzerland</option>
+                                                <option value="SY">Syria</option>
+                                                <option value="TW">Taiwan</option>
+                                                <option value="TJ">Tajikistan</option>
+
+                                                <option value="TZ">Tanzania</option>
+                                                <option value="TH">Thailand</option>
+                                                <option value="TG">Togo</option>
+                                                <option value="TK">Tokelau</option>
+                                                <option value="TO">Tonga</option>
+                                                <option value="TT">Trinidad and Tobago</option>
+
+                                                <option value="TN">Tunisia</option>
+                                                <option value="TR">Turkey</option>
+                                                <option value="TM">Turkmenistan</option>
+                                                <option value="TC">Turks and Caicos Islands</option>
+                                                <option value="TV">Tuvalu</option>
+                                                <option value="UG">Uganda</option>
+
+                                                <option value="UA">Ukraine</option>
+                                                <option value="AE">United Arab Emirates</option>
+                                                <option value="GB">United Kingdom</option>
+                                                <option value="VI">United States Virgin Islands</option>
+                                                <option value="UY">Uruguay</option>
+                                                <option value="UZ">Uzbekistan</option>
+
+                                                <option value="VU">Vanuatu</option>
+                                                <option value="VE">Venezuela</option>
+                                                <option value="VN">Vietnam</option>
+                                                <option value="WF">Wallis and Futuna</option>
+                                                <option value="PS">West Bank</option>
+                                                <option value="EH">Western Sahara</option>
+
+                                                <option value="YE">Yemen</option>
+                                                <option value="ZM">Zambia</option>
+                                                <option value="ZW">Zimbabwe</option>											</select>
+										</td>
+										<td class="srchLabelTD">Sort By:</td>
+										<td class="srchFieldTD">
+											<select name="sort_by">
+												<option value="1" selected="">Alphabetical</option>
+																																																  <option value="5">Newest</option>
+											</select>
+										</td>
+										</tr>
+									</tbody></table>
+									</form>
+								</div>
+								<span class="spr-containers fullWTBoxB"><span class="grfxRplcTextCtnr"><span class="offsetHide"><!-- --></span></span></span>
+							</div>
+							<!-- END: SEARCHBAR V2 -->
+					</div>
+				</div>
+			</div>
+		
+		<script type="text/javascript" src="/fglobal/js/googleTrackingPixel.js"></script>
+
 	
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
