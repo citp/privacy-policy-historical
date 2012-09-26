@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funimation.com privacy policy that was archived on 2012-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120411151033id_/http%3A//www.funimation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funimation.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926175318id_/http%3A//www.funimation.com/privacy-policy) for the most accurate reproduction.*
 
 # Official FUNimation internet privacy and protection policy | Watch Anime at the Official FUNimation Anime Online Community
 
