@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the snowboardmag.com privacy policy that was archived on 2012-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120518115818id_/http%3A//snowboardmag.com/privacy-policy-0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snowboardmag.com privacy policy that was archived on 2012-09-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120926161935id_/http%3A//snowboardmag.com/privacy-policy-0) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr" class="js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
@@ -13,7 +13,7 @@
 <meta http-equiv="X-Yadis-Location" content="http://snowboardmag.com/xrds">
 <link rel="shortcut icon" href="/sites/default/files/snowboardmag_favicon.ico" type="image/x-icon">
   <title>Privacy Policy | Snowboard Magazine</title>
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_65b1a3b0ec09d5b3a9e9e7d112ee7dee.css">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_37a3f297f659038f482af151a1c0dac8.css">
   
   <!--[if IE 7]>
 	<link rel="stylesheet" type="text/css" href="/sites/all/themes/snowboardmag/ie7-fixes.css">
@@ -25,7 +25,7 @@
   <link rel="stylesheet" type="text/css" href="/sites/all/themes/snowboardmag/scripts/jquery.imageZoom.css">
 	<link rel="stylesheet" type="text/css" href="/sites/all/themes/snowboardmag/scripts/jquery.jcarousel.css">
 
-	<script type="text/javascript" src="/sites/default/files/js/js_620ee563c31c92395ec87cb9b2811d1c.js"></script>
+	<script type="text/javascript" src="/sites/default/files/js/js_7b87d08e1e774fc7b0098f5d2f943d1e.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "\u002F", "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "jcarousel": { "ajaxPath": "\u002Fjcarousel\u002Fajax\u002Fviews" }, "qtip": { "target_position": "topMiddle", "tooltip_position": "bottomMiddle", "show_speech_bubble_tip": 1, "show_speech_bubble_tip_side": 0, "color": "blue", "border_radius": "0", "border_width": "1", "show_event_type": "mouseover", "hide_event_type": "mouseout", "show_solo": 1 }, "popups": { "originalPath": "node\u002F200556", "defaultTargetSelector": "div.left-corner \u003E div.clear-block:last", "modulePath": "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fpopups", "autoCloseFinalMessage": 1 } });
@@ -86,7 +86,7 @@ jQuery.extend(Drupal.settings, { "basePath": "\u002F", "fivestar": { "titleUser"
   
 <script async="" type="text/javascript" src="http://snowboardmagazine.disqus.com/count.js"></script></head>
 
-<body class="popups-processed">
+<body>
 
 
 <!--<div style="z-index:500; width:400px; height:100px; background:#FFF; left:200px;top:250px;position:absolute;float:left;padding:20px;border:1px black solid;">We are experiencing technical difficulties. Please hang tight while we get our site back in shape. We apologize for the inconvenience.<br /><br /><strong>-Snowboard Web Team</strong></div>-->
@@ -95,7 +95,85 @@ jQuery.extend(Drupal.settings, { "basePath": "\u002F", "fivestar": { "titleUser"
   
   <!-- Head-->
     <div id="head">
-       <div class="trending">Trending: <span class="tren_link"><div id="trending-chart"></div></span></div>
+       <div class="trending">Trending: <span class="tren_link"><div id="trending-chart">Loading...
+<style type="text/css">
+.top10-item {
+	background-color: #00aeef;
+	padding: 0 0 0 0;
+	border-bottom: 1px solid #fff;
+}
+.top10-item:hover {
+	background-color: #cff0fc;
+}
+.top10-item .thelink {
+	font-size: 40;
+}
+.top10-item .thelink a {
+	color: #000;
+	padding-left: 10px;
+}
+.top10-item a:hover {
+	text-decoration: none;
+}
+.top10-item .numpeople {
+	background-color: #cff0fc;
+	font-size: 68;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+
+</style>
+
+
+<script src="/sites/all/libraries/chartbeat/jquery.jChartbeat.compiled.js"></script>
+
+<script type="text/javascript">
+ $(document).ready(function() {
+     $.jChartbeat({apikey: '608628057134c305c9906df4ce71160f', host: 'snowboard-mag.com'});
+     
+     $.jChartbeat.toppages(function(response) {
+
+		var data = response;
+		var html = '';
+	
+	  	for (var x = 0; x < data.length; ++x)
+	  	{
+	  	
+	  		var thePath = data[x]["path"];
+	  	
+	  		if (thePath != "/" && thePath !="/videos" && thePath != "/stories" && thePath != "/gear")
+	  		{
+
+		    	var title = data[x]["i"];
+				if (!title) {
+		      		title = thePath;
+		      	}
+		      	else {
+		      		title = title.replace("| Snowboard Magazine", "")
+		      	}
+		      		
+		      	if (title.length >= 60)
+  				 	//title = title.substr(title, 60 - 3) + "...";	
+		
+		    	var people = data[x]["visitors"];
+		
+		    	html += '<a href="http://snowboardmag.com' + thePath + '?utm_source=trending">' + title + '</a>';
+
+		    	x=100;
+
+			}	
+	  	}
+	
+	  	document.getElementById('trending-chart').innerHTML = html;
+
+     });
+                   
+ });
+ </script>
+ 
+ </div></span></div>
        <div class="register">       
 	     	     <a class="pop-up-register" href="/user/register?destination=node%2F200556">Register</a> /
 			 <a class="pop-up-login" href="/user/login?destination=node/200556">Sign In</a>
@@ -119,17 +197,17 @@ jQuery.extend(Drupal.settings, { "basePath": "\u002F", "fivestar": { "titleUser"
 <li class="menu-2439"><a href="/stories" title="">stories</a></li>
 <li class="menu-2440"><a href="/photos" title="">photos</a></li>
 <li class="menu-2441"><a href="/gear" title="">gear</a></li>
-<li class="menu-2436"><a href="/content/subscribe-now" title="Subscribe">subscribe</a></li>
+<li class="menu-2436"><a href="/subscribe-now" title="Subscribe">subscribe</a></li>
 <li class="menu-3157 last"><a href="/the-magazine" title="The Magazine">the magazine</a></li>
 </ul>       <div class="search"> <div class="block11 block-search" id="block-search-0">
     <!--<h2 class="title"></h2>-->
     <div class="content"><form action="/privacy-policy-0" accept-charset="UTF-8" method="post" id="search-block-form">
 <div><div class="container-inline">
   <div class="form-item" id="edit-search-block-form-1-wrapper">
- <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text form-text-empty">
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-884b79074e57b245a56898e4154dd59f" value="form-884b79074e57b245a56898e4154dd59f">
+<input type="hidden" name="form_build_id" id="form-e514746e22a57f57cd567ed4eaf1f151" value="form-e514746e22a57f57cd567ed4eaf1f151">
 <input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
 </div>
 
@@ -373,7 +451,10 @@ Fax 303.834.9781</p>
 	<h6>
 		You may also be interested in:
 	</h6>
-	<div class="upprev_excerpt" id="upprev_excerpt"><p><a href="http://snowboardmag.com/gear?utm_source=nextup">Gear Reviews</a></p></div>
+	<div class="upprev_excerpt" id="upprev_excerpt">
+		
+
+	</div>
 	<button id="upprev_close" type="button">Close</button>
 </div>
                 
@@ -472,10 +553,10 @@ Fax 303.834.9781</p>
 			</div>
   <div id="bg-footer"></div>
   <div id="bg-header"></div>
-  <div id="bg-center"></div> 
+  <div id="bg-center"></div>
 
 
-<!-- Background Takeover 
+<!-- Background Takeover
 
 
 <style type="text/css">
@@ -483,15 +564,15 @@ Fax 303.834.9781</p>
 	position: absolute;
 	z-index: 1;
 	width: 100%;
-	height: 1000px;
+	height: 1400px;
 	margin-left: auto; 
 	margin-right: auto;
-	top: 0px;
+	top: 200px;
 	left: 0px;
 }
 </style>
 
-<div id="bg-center-takeover" ><a href="http://snbd.me/07g" target="_blank" id="skin"></a></div>
+<div id="bg-center-takeover" ></div><a href="http://snbd.me/0hz" target="_blank" id="skin"></a>
 
 -->
 
