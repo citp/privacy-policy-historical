@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the depositfiles.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501032212id_/http%3A//depositfiles.net/confid.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositfiles.net privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927012150id_/http%3A//depositfiles.net/confid.html) for the most accurate reproduction.*
 
-# Deposit Files
+# Mobile DepositFiles
+
+Privacy Policy:
 
 **1\. The following information is collected during rendering services DepositFiles confidential and undisclosed unless stated otherwise:**
 
