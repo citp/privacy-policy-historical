@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistantime.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513041344id_/http%3A//pakistantime.net/view_page.php%3Fpid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistantime.net privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926073019id_/http%3A//pakistantime.net/view_page.php%3Fpid%3D2) for the most accurate reproduction.*
 
 # Pakistan Time - Privacy Policy
 
