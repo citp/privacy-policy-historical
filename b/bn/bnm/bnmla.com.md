@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnmla.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620014210id_/http%3A//bnmla.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnmla.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926060406id_/http%3A//bnmla.com/privacy.html) for the most accurate reproduction.*
 
 # BLiNK New Media :: Privacy
 
@@ -32,7 +32,7 @@ As part of our on-going efforts to ensure the best possible experience for all r
 
 Blink New Media also offers an "opt-out Cookie" to block the placement of future Blink New Media Cookies on your system for 10 years from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookie from your computer, you will need to repeat the process. 
 
-[Install the Blink New Media Opt-Out Cookie](https://web.archive.org/web/20120620014210id_/http%3A//bnmla.com/bnmla/opt_out)
+[Install the Blink New Media Opt-Out Cookie](https://web.archive.org/web/20120926060406id_/http%3A//bnmla.com/bnmla/opt_out)
 
 Please note that the above link for an opt-out Cookie is only applicable to Blink New Media and not any other Blink New company website. Also, please note that use of the opt-out Cookie will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. Please report any problems related to the opt-out process to privacy@bnmla.com. 
 
