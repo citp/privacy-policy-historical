@@ -1,63 +1,77 @@
-> *The following text is extracted and transformed from the camnation.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302005351id_/http%3A//camnation.com%3Fp%3Dprivacy%26d%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camnation.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926171323id_/http%3A//camnation.com%3Fp%3Dprivacy%26d%3D2) for the most accurate reproduction.*
 
-# CamNation.com
+# CamNation - The best free webcam site! Always hot, always live
 
-_CamNation.com is committed to maintaining a privacy policy that benefits each individual customer's preferences._
+_CamNation is committed to maintaining a privacy policy that benefits each individual customer's preferences._
 
-**NOTE: Our privacy policy is null and void in cases of fraud!**
+_This policy explains the privacy practices for CamNation, (hereinafter referred to as "site","our","we", or "us"). CamNation collects and uses certain information about you. This policy explains what we collect, what we use and how you can interact with CamNation Inc in order to ensure the accuracy of the data we collect and use._
 
-This policy explains the privacy practices for Whitelands s.r.o, (hereinafter referred to as "Whitelands", "CamNation.com", "site", "our", "we", or "us"). In order to provide interactive computer billing and fraud services, Whitelands collects and uses certain information about you. This policy explains what we collect, what we use and how you can interact with Whitelands in order to ensure the accuracy of the data we collect and use.
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us.
 
-### 1) Information Collection:
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-Visitors can access our Web site home page and browse our Web site without disclosing any personal data. However, in order to provide you with a particular product or service online, Whitelands may request that you voluntarily supply Whitelands with primary personal data (such as name and email address) and identifiers (such as credit card number and web site password). Whitelands gives you the option of using a secure transmission method of sending such information.
+We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
-Whitelands receives and stores all information that you enter in our Web site and billing pages. In addition, Whitelands collects information about you during your visit, such as your IP Address, and Whitelands employs its software in order to ascertain your physical location when making a purchase. However, we do not collect information from other sources, such as public records or bodies, or private organizations. You are required to provide Whitelands with accurate and up-to-date information, and failure to provide Whitelands with such information could result in voiding your Agreement with Whitelands.
+We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, and telephone number. We also may request information about your interests and activities, your gender and age, and other demographic information such as your hometown, your gender or your username.
 
-You can inquire about your personal data by sending an e-mail to feedback@camnation.com. Within a week, Whitelands shall provide you with a readable copy of the personal data which Whitelands keeps about you. Whitelands charges a $25 processing fee for the request. Prior to completing your request, Whitelands may require that you provide Whitelands with proof of your identity. Whitelands reserves the right to refuse any request for information though Whitelands will communicate the reason for its decision.
+We may also periodically obtain both personal and non-personal information about you from business partners, contractors and other third parties and add it to our account information or other information we have collected.
 
-### 2) Information Use:
+We use various technologies to collect information from your computer and about your activities on our site. We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
-Whitelands is the sole owner of the information collected on its sites. Whitelands will not sell, share, or rent this information to third parties in ways different from what is disclosed it this policy. Whitelands shall release data when required by law, to enforce its Agreement or the contract rights of its clients. Whitelands shares the following data with the owner/operator of the web site from which you are purchasing goods and services utilizing Whitelands services: the URL you are purchasing goods or services from, your e-mail address, your name, your address, your phone number, your date of birth, and your agreement to be bound by Whitelands terms and conditions. Whitelands uses the data it collects for the technical administration of the Web site, research and development, and fraud deterrence.
+When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
 
-### 3) Information sharing:
+We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or promotional or other e-mail messages or to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
 
-We ensure that your personal data will not be disclosed to governmental institutions and authorities except if required by law or other regulation.
+We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. We may use information that we collect about you to: deliver the products and services that you have requested; manage your account and provide you with customer support; perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties; develop and display content and advertising tailored to your interests on our site and other sites; enforce our terms and conditions; manage our business; and perform functions as otherwise described to you at the time of collection.
 
-### 4) Email correspondence:
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services. We may share your personal information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services on our behalf. These services may include, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-Whitelands may request a confirmation when you receive and open and e-mail communication delivered by Whitelands. We archive and identify the origination IP address of all email sent into our network.
+We may share personal information with the businesses with which we partner to offer you products, services or promotions. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. UNDER NO CIRCUMSTANCES DO WE SHARE ANY FINANCIAL INFORMATION WITH SUCH MERCHANT.
 
-### 5) Third party information:
+From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by opting out at the time you register for our site, or at any time thereafter.
 
-Occasionally, Whitelands receives information from third parties to compare it to information that you had provided to Whitelands for fraud prevention purposes.
+We also may disclose your information, including personal information: In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies, in connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
 
-### 6) Cookies:
+If you have an online account with us, you have the ability to review and update your personal information online by logging into your account and clicking on your account settings. You can also review and update your personal information by contacting us at the email address provided below in the "How to contact us" section of this privacy policy. More information about how to contact us is provided below.
 
-A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Whitelands employs "cookie" technology. We use cookies to store personal data, to authenticate you as a Site user, for security purposes, and to track our affiliate click-throughs and sign-up rate.
+If you have an online account with us, you also may choose to resign and close your account at any time. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new, separate account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, and take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. 
 
-### 7) Children:
+You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.
 
-Whitelands does not request, or knowingly collect, personal data from anyone under the age of 18. Furthermore, Whitelands does not knowingly give children the ability to post messages or otherwise distribute information about themselves on our web site.
+At any time you can choose to no longer receive commercial or promotional emails from us by notifying customer service.
 
-### 8) Security:
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use SSL encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
 
-We take every precaution to protect our visitors' information. We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction, or accidental loss. Whitelands utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. Whitelands encrypts the information that you provided.
+We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
 
-In addition, Whitelands does everything to protect your information off-line. All employees and data processors who have access to, and are associated with, the processing of personal data are obliged to respect the confidentiality of our visitors' personal data. Whitelands employs a username and password scheme in order to limit and achieve access to our computer network by our employees and third parties.
+We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our Terms and Conditions. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
 
-### 9) Correction/Updating Personal Information:
+Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13.
 
-You may access certain information about you for the purpose of viewing, updating, and in some instances deleting from our system any information deemed inaccurate. You may request to access your information by sending a request to:
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
 
-**Administrator  
-Consumer Protection Dept.  
-Whitelands s.r.o  
-Pobrezni 370/4  
-18600 Praha 8  
-Czech Republic  
-or e-mail: feedback@camnation.com.**
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
 
-If you have an inquiry or concern about our privacy policy, please contact us at the above address.
+How to contact us:
 
-(Revised April 25th, 2008) 
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail as follows:
+
+feedback@camnation.com
+
+Definitions
+
+Cookies:
+
+A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. Cookies on our website do not link to or store your personal information.
+
+For example, when you sign in to our website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
+
+You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+
+We may allow third-parties, including advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. 
+
+Web Beacons:
+
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
