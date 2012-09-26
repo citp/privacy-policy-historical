@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youngandthrifty.ca privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614232706id_/http%3A//youngandthrifty.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngandthrifty.ca privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926120330id_/http%3A//youngandthrifty.ca/privacy-policy) for the most accurate reproduction.*
 
-# Young And Thrifty - Saving Generation Y
+# privacy policy - Young And Thrifty
 
 ### **Privacy Policy, Disclosure, and Disclaimer Alert for youngandthrifty.ca  
 **
