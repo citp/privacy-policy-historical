@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609014030id_/http%3A//www.gamelink.com/privacy_policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927092225id_/http%3A//www.gamelink.com/privacy_policy.jhtml) for the most accurate reproduction.*
 
 # GameLink - Privacy Policy
 
@@ -10,11 +10,14 @@
 
 Effective Date of this Statement: May 25, 2004
 
-**This site is owned and operated by: Game Link LLC**
+GLE Services Ltd.  
+6 Ioanni Stylianou  
+2nd floor  
+office/flat 202  
+2003 Nicosia  
+Cyprus 
 
-Game Link LLC  
-537 Stevenson Street, Suite 100  
-San Francisco, CA 94103 
+For customer service inquiries:
 
 Phone:+1.415.575.9700  
 Order Line: 1.800.944.3933  
@@ -29,7 +32,7 @@ Email Order Company and a Distributor of Adult DVDs, Videos, Toys, and Streaming
 
 ### 1\. NOTICE:
 
-Game Link LLC (we) strictly maintains your privacy in all transactions. Your information is NEVER sold or shared with any third parties, except as disclosed in this statement. We never sell, give or lend mailing or ordering lists, including your data or any other part of them, except as needed to fulfill your order (e.g. shipping company, credit card processing company) or as requested by law enforcement (see below).
+Game Link International Limited (we) strictly maintains your privacy in all transactions. Your information is NEVER sold or shared with any third parties, except as disclosed in this statement. We never sell, give or lend mailing or ordering lists, including your data or any other part of them, except as needed to fulfill your order (e.g. shipping company, credit card processing company) or as requested by law enforcement (see below).
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify users by posting a notice on our Website for 30 days.
 
@@ -40,7 +43,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We collect the following items of personal information: name, age, email address, postal address, city and state, telephone number and credit card number are requested. We collect your information in a few different ways:
 
   * MAILING LIST:If you want to be added to our double opt-in email list, pre-checked with a "General" category opt-out, you may subscribe using the form available on this site. Subscribers receive periodic email notices that include exclusive special offers, information about sales, promotions, new releases, and other relevant information. To unsubscribe from any list, click on the link at the top or bottom of the email you receive(d) and type your email address in the field marker "unsubscribe." [Click here to unsubscribe](https://web.archive.org/subscription/mailing_list_unsubscribe.jhtml?disableMobile=true) from the email list.
-  * ORDERS: When you place an order with us, we must maintain the orders and shipping information and we assure you that this is kept for our internal purposes only. We do not send any unsolicited mailings. We must share your name and address as shipping and delivery information to postal carriers such as Fed Ex and USPS. Credit processors: we must share the account information you enter. We do not know what those services do with the data. Game Link LLC is not responsible for changes in our third party carriers' Privacy policies or any problems those services have with data integrity.
+  * ORDERS: When you place an order with us, we must maintain the orders and shipping information and we assure you that this is kept for our internal purposes only. We do not send any unsolicited mailings. We must share your name and address as shipping and delivery information to postal carriers such as Fed Ex and USPS. Credit processors: we must share the account information you enter. We do not know what those services do with the data. Game Link International Limited is not responsible for changes in our third party carriers' Privacy policies or any problems those services have with data integrity.
   * WHOLESALE APPLICATIONS AND AFFILIATE SIGN-UP: These forms are for our prospective business affiliates. We collect business contact information to process your application and conduct business. We treat this information accordingly.
   * NON-PERSONAL INFORMATION: Like many Websites we collect and analyze standard log file information and Session ID information to analyze site traffic, improve site performance and to prevent fraud. Session IDs are bits of code on your computer that assist your browser in navigating our site. We do not associate personal information with log file information or cookies, except when needed to prevent fraud.
 
@@ -102,6 +105,7 @@ You can update and change your data by:
   * Email Game Link Customer Service at [customerservice@gamelink.com](mailto:customerservice@gamelink.com) with a request to change information in your profile.
   * Mail a letter requesting the change of information to:  
      Game Link Customer Service  
+     C/O Mama's LLC  
      537 Stevenson St. #100  
      San Francisco, CA 94103
   * Fax an information change request to 1.208.460.3429.
