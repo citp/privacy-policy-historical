@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesark.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620085652id_/http%3A//articlesark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesark.com privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927032306id_/http%3A//articlesark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Submit Articles - Free ezine articles directory - Articlesark.com
+# Privacy Policy
 
 Online Free Articles Directory
 
@@ -18,8 +18,6 @@ Online Free Articles Directory
 
 
 ### Search More Articles
-
-## Privacy Policy
 
 Your privacy is very important to us and it is our responsibility to protect the data you provide to us in normal circumstances. This Privacy Policy provides you the explanation on how Articles Ark collects, uses, and discloses the personal information provided by you as a result of the use of Articles Ark’s Web Site. We hope that our comprehensive privacy policy below will help you to better understand what data we collect and how we use it.
 
