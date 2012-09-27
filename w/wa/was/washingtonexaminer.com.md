@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the washingtonexaminer.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505033933id_/http%3A//washingtonexaminer.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonexaminer.com privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927081629id_/http%3A//washingtonexaminer.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Washington Examiner
+# 
 
 ### **SCOPE OF THIS PRIVACY POLICY**
 
