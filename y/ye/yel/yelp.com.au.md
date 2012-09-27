@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.com.au privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620192809id_/http%3A//www.yelp.com.au/static%3Fp%3Dprivacy%26country%3DAU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com.au privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927033929id_/http%3A//www.yelp.com.au/static%3Fp%3Dprivacy%26country%3DAU) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
