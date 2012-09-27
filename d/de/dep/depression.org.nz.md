@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depression.org.nz privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528194729id_/http%3A//www.depression.org.nz/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depression.org.nz privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927063554id_/http%3A//www.depression.org.nz/content/privacy) for the most accurate reproduction.*
 
 # Depression - privacy policy
 
