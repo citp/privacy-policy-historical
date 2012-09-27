@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlinkbuilder.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528171217id_/http%3A//www.inlinkbuilder.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlinkbuilder.com privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927033214id_/http%3A//www.inlinkbuilder.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Web Directory
 
@@ -67,4 +67,4 @@ sdscripts.support @ gmail.com
 ---|---  
 Accounts: | 0  
 Guests: | 3  
-Visits last 24h: | 182
+Visits last 24h: | 298
