@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pay.gov privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124175748id_/https%3A//pay.gov/paygov/privacyAndSecurityPolicy.html%3Bjsessionid%3DQyPwTWHTWJtyjqWLyvbMWk2DZdQTdTYH2h3GyWnRypRDzG0vXqyq%21-82766867%3Fnc%3D1318487987266) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pay.gov privacy policy that was archived on 2012-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120928023212id_/https%3A//www.pay.gov/paygov/privacyAndSecurityPolicy.html%3Bjsessionid%3DWpvvQkxVz3HDWLZ019MRhj210xPQvWFPS1whK42bk6JL13p0qzyB%21947953205%3Fnc%3D1348792725991) for the most accurate reproduction.*
 
 # Pay.gov - Privacy And Security Policy
 
