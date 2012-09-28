@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vakthaa.tv privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530194220id_/http%3A//www.vakthaa.tv/page.php%3Fpage%3D6%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vakthaa.tv privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929002816id_/http%3A//vakthaa.tv/page.php%3Fpage%3D6%23privacy) for the most accurate reproduction.*
 
 # 
 
