@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military-today.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501211612id_/http%3A//www.military-today.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military-today.com privacy policy that was archived on 2012-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120928064631id_/http%3A//www.military-today.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Military-Today.com
 
@@ -8,7 +8,7 @@ Military-Today respects your privacy
 
 Credit card details
 
-   The Military-Today will never ask for Credit Card details and request that you do not enter it on any of the forms on Military-Today.com website.
+   The Military-Today will never ask for Credit Card details and request that you do not enter it on any of the forms on Military-Today.com website. We are only using trusted third-party merchants  that may be accessible through Military-Today.com website.
 
 External Sites
 
