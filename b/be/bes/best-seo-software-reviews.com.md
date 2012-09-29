@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the best-seo-software-reviews.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531022744id_/http%3A//best-seo-software-reviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-seo-software-reviews.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930003206id_/http%3A//best-seo-software-reviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best SEO Software Reviews
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -32,19 +30,4 @@ The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Best SEO Software Reviews then you may contact us at info@best-seo-software-reviews.com 
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Your%20PrivacyYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20easy "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&srcTitle=Best+SEO+Software+Reviews+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Best+SEO+Software+Reviews+&summary=Your%20PrivacyYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20easy "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
-
-[](http://maatrix.dupeoff.hop.clickbank.net/)
+[](http://curate.us/simple/clipthis/542df143bbe289bda7539284cc69ff40?url=http%3A%2F%2Fbest-seo-software-reviews.com%2Fprivacy-policy%2F)
