@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iexpertsforum.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501111710id_/http%3A//www.iexpertsforum.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iexpertsforum.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929075631id_/http%3A//www.iexpertsforum.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
