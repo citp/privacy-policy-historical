@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovethetie.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329121939id_/http%3A//www.abovethetie.com/%3Fprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovethetie.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930013724id_/http%3A//abovethetie.com/%3Fprivacy_policy) for the most accurate reproduction.*
 
 # Above The Tie Privacy Policy
 
@@ -46,7 +46,7 @@ We use the information you provide about yourself when placing an order only to 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can opt-in with our website e-mail promotions if you would like to receive updates on our new products and services. You can opt-out of these e-mails at anytime following the link in every e-mail you recieve, or notify us which e-mail address to remove from our list using our 
 
-[Contact](https://web.archive.org/web/20120329121939id_/http%3A//www.abovethetie.com/%3Fprivacy_policy?contact) page.
+[Contact](https://web.archive.org/web/20120930013724id_/http%3A//abovethetie.com/%3Fprivacy_policy?contact) page.
 
 We utilize google analytics to track user information including location, time on site, pages visited, operating system, and browser used. This information is for internal purposes only to help us improve our site's performance and end user experience. This information is not accessible to anyone other than our development team.
 
@@ -66,4 +66,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 Should you have other questions or concerns about these privacy policies, please 
 
-[contact us](https://web.archive.org/web/20120329121939id_/http%3A//www.abovethetie.com/%3Fprivacy_policy?contact). 
+[contact us](https://web.archive.org/web/20120930013724id_/http%3A//abovethetie.com/%3Fprivacy_policy?contact). 
