@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicartfans.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514211602id_/http%3A//www.comicartfans.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicartfans.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930011343id_/http%3A//www.comicartfans.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Comicartfans :: Privacy Policy
 
@@ -30,7 +30,7 @@ Periodically we may contact you with promotions or services we feel might be of 
 
 
 
-If you have any questions or concerns about our Privacy Policy please [Contact Us](https://web.archive.org/web/20120514211602id_/http%3A//www.comicartfans.com/contact.asp). 
+If you have any questions or concerns about our Privacy Policy please [Contact Us](https://web.archive.org/web/20120930011343id_/http%3A//www.comicartfans.com/contact.asp). 
 
   
 | 
