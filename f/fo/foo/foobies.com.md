@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625041126id_/http%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929075322id_/http%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
@@ -20,7 +20,7 @@
 > 
 > #####  Terms Of Service 
 > 
-> Text comments, AudioEdit submissions, and Photoshopped images posted on Fark by registered users may not be reposted or broadcast without the express written permission or license from Fark.com, and must attribute Fark.com as the source. 
+> Text comments and Photoshopped images posted on Fark by registered users may not be reposted or broadcast without the express written permission or license from Fark.com, and must attribute Fark.com as the source. 
 > 
 > By using Fark, You agree that you will not use any robot, harvesting bots, spider, scraper, or other automated means to access the site for any purpose without our express written permission. You further agree that You will not take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure or interfere or attempt to interfere with the proper working of the site or any activities conducted on the site. 
 > 
