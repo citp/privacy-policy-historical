@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the askbangladesh.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530011207id_/http%3A//www.askbangladesh.com/cms/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askbangladesh.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929065800id_/http%3A//askbangladesh.com/cms/index/privacy-policy) for the most accurate reproduction.*
 
 # Ask Bangladesh Privacy Policy
+
+## Privacy Policy
 
 This website is owned and operated by ASK Bangladesh.Com Ltd. We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. We may collect, store and use the following kinds of personal information:   
 (a) information about your computer and about your visits to and use of our websites (which may include your IP address, geographical location, browser type and version, referral source, entry page, exit page, length of visit, number of page views, route taken through our website, and similar information);   
