@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accruent.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510125417id_/http%3A//www.accruent.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accruent.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929065933id_/http%3A//www.accruent.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
