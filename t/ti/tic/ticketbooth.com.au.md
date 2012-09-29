@@ -1,100 +1,147 @@
-> *The following text is extracted and transformed from the ticketbooth.com.au privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618101645id_/http%3A//www.ticketbooth.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbooth.com.au privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929060618id_/http%3A//www.ticketbooth.com.au/privacy) for the most accurate reproduction.*
 
-# Ticketbooth | Smarter Ticketing – Privacy Policy - Ticketbooth | Smarter Ticketing
+# Privacy Policy | Ticketbooth Australia
 
-  * [ Contact ](http://www.ticketbooth.com.au/about-us/contact/)
-  * [ Privacy Policy ](http://www.ticketbooth.com.au/about-us/privacy/)
-  * [ Terms of Service ](http://www.ticketbooth.com.au/about-us/buyers-terms-of-service/)
+Ticketbooth’s primary role is to provide event publishing, registration, ticketing and related software and services to Australian & New Zealand and other International users of Ticketbooth and the Ticketbooth platform.
 
+Ticketbooth recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. For the purposes of the Privacy Statement, the phrase ‘EVENT ORGANISER’ means the venue operators and/or promoter(s) of a particular event.
 
+We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
-Ticketbooth Takes Your Privacy Very Seriously
+Everyday language summaries are provided for your benefit and are not legally binding. Please read the [Terms of Service](http://www.ticketbooth.com.au/legal/terms) for the complete picture of your legal requirements.
 
-Welcome to the www.ticketbooth.com.au website (including all webpages, subdomains and subparts therein contained, the “Site”) of Ticketbooth, Pty Ltd. (“Ticketbooth”, “we”, “us” and/or “our”). The Site has been created (i) to provide information about Ticketbooth, (ii) to provide customized online event management, registration and ticketing services (the “Ticketbooth Services”), and (iii) to provide information about events listed on the Site.
+Section 1
 
-This Privacy Policy sets forth Ticketbooth’s policy with respect to information, including personally identifiable information (“Personal Data”), that is collected from Site users and visitors (including through those users’ and visitors’ agents) (“you” or “your”), including (i) registered users who are event organisers and planners (“Organisers”), (ii) registered users who want to purchase tickets to, register for or donate to events (whether free or paid) listed by Organisers on the Site (“Buyers”), and (iii) other non-Organiser users or visitors to the Site (“other non-Organisers”). Ticketbooth takes the privacy of your Personal Data and other information seriously. Because of that, Ticketbooth has created this Privacy Policy. Please read this Privacy Policy as it includes important information regarding your Personal Data and other information.  
-If you have any questions or concerns, please do not hesitate to contact us by using the following link: [http://www.ticketbooth.com.au/about-us/](http://www.ticketbooth.com.auabout-us/ "About Us").
+## Personal Information
 
-CONSENT:
+We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.
 
-By using the Site or allowing someone to use the Site on your behalf, you are consenting to our collection, use, disclosure, transfer and storage in accordance with this Privacy Policy of any Personal Data or other information received by Ticketbooth as a result of such use.
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents.
 
-Information We Collect:
+Which means,
 
-When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below:
+When you purchase tickets via ticketbooth.com.au we collect some personal information which is used by our support and accounts team, to contact you and process your purchases. We also allow the event organisers who you have purchased tickets from to access some of this information.
 
-1\. Personal Data:
+Section 2
 
-**Organisers:** We collect Personal Data from you when you voluntarily provide such information on the Site, such as when you register for access to the Ticketbooth as an Organiser, contact us with inquiries, respond to one of our surveys or use certain Ticketbooth Services. The Personal Data we collect includes without limitation your name, email address and other personally identifiable information. In addition, if you use our payment processing services, we will collect financial information from you (e.g., your bank account information) as necessary to facilitate payments.
+## Use Of Information
 
-**Buyers and other non-Organisers:** We collect Personal Data from you when you voluntarily provide such information on the Site (including event registration pages within the Site), such as when you register for access to the Ticketbooth Services (whether as an Organiser or otherwise), register for an event as a Buyer, contact us with inquiries, respond to one of our surveys or use certain Ticketbooth Services. The Personal Data we collect includes without limitation your name, email address and other personally identifiable information. If you register for a paid event. In addition, Organisers can set up event registration pages to collect virtually any information from Buyers in connection with registration for an Organiser’s event listed on the Site. If a Buyer voluntarily provides that information in connection with registration for an event, it will be available to Ticketbooth and will be held by Ticketbooth in accordance with this Privacy Policy. In addition, such information will be delivered to the Organiser of the applicable event in accordance with “Our Disclosure of Information That We Collect: Organisers” below.  
-**Privacy Policy Links:** We make an effort to provide a link to this Privacy Policy in the footer of every page on the Site, including those pages on which Personal Data is collected.
+We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
 
-2\. Non-Personal Data:
+We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Your contact details may be used to contact you to inform you of important information related to an event you have purchased tickets to, for example time or event changes or event cancellation. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication. 
 
-**Non-Identifiable Data:** When you interact with the Site, we collect certain personally non-identifiable information (“Non-Personal Data”). The Non-Personal Data we collect includes without limitation Internet Protocol (IP) addresses, domain names of your Internet Service Provider, your approximate geographic location, a record of the Site pages that you visit, the time of your visits and aggregated Personal Data that cannot be used to specifically identify you. Such information, which is collected passively using various technologies, cannot, in and of itself, be used to specifically identify you.  
-Cookies: In operating the Site, we use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. These cookies may be used to tailor content you see on the Site as well as other sites that you may visit in the future. Through your web browser’s option settings you may be able (i) to receive notifications when you are receiving new cookies, (ii) to disable cookies or (iii) to delete cookies. Please refer to your web browser’s help section for information on how to do this. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.
+If you have registered a Ticketbooth account with us, we will hold your contact and billing details. Those details are primarily used to provide you with the ticketing services you have requested and to send you information about the Ticketbooth platform, any upgrades that become available, new developments and forthcoming features and to charge you for service fees in relation to tickets you have acquired through the Ticketbooth platform. If you have booked or registered for events that are listed by an EVENT ORGANISER using Ticketbooth and the Ticketbooth platform, we keep a record of your booking data to report to the EVENT ORGANISER. Your booking data will be provided to the event organiser if requested for their records and analysis. This booking data does not include your personal contact details which are only given to EVENT ORGANISERS if, at the time of purchase, you agree to receiving information and offers about future events directly from the Event Organiser. We will also keep a record of your billing information to allow you to make quick purchases by simply using an email address and password to login to your Ticketbooth account.
 
-**Aggregated Personal Data:** In an ongoing effort to better understand and serve the users of the Site and Ticketbooth services, Ticketbooth often conducts research on its customer demographics, interests and behavior based on Personal Data and other information that we have collected. This research may be compiled and analyzed on an aggregate basis and this aggregate information does not identify you personally and therefore is considered and treated as Non-Personal Data under this Privacy Policy.
+Which means,
 
-Our Use of Information That We Collect:
+All information we store will be for a good reason, like contacting you if something happens to an event or for processing billing information when you have purchased tickets, we will always respect your privacy and will never release details to third parties which could be used to personally identify you.
 
-1\. Personal Data:
+Section 3
 
-Ticketbooth uses the Personal Data we collect in a manner that is consistent with this Privacy Policy. Ticketbooth may use the Personal Data as follows:
+## Use By Event Organiser
 
-**Specific Reason:** If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem and will respond to the email address from which the contact came.
+If at the time of purchase you agreed to receive information and offers about future events directly from the venue operator and/or promoter(s) of the event, then we may provide your contact details to the EVENT ORGANISER for this purpose. Event Organisers may use these details to contact you with information and offers regarding future events and promotions. If you wish to change this choice you can contact us but it may be necessary to contact the EVENT ORGANISER directly if your contact details have already been provided to them. EVENT ORGANISERS will use your personal information in accordance with their own privacy policies. If the EVENT ORGANISER contacts you and you wish to unsubscribe from this communication or have any questions regarding their privacy policy you should contact the EVENT ORGANISER directly.
 
-**Access and Use:** If you provide Personal Data in order to obtain access to or use of the Site or Ticketbooth Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of such services or functionality and to monitor your use of such services or functionality. For instance, if you supply payment information (e.g., bank account or credit card information) to the Site for the purpose of purchasing tickets as a Buyer or processing payments as an Organiser, Ticketbooth will use that information to facilitate such purchase or process such payments.
+Which means,
 
-**Internal Business Purposes:** Ticketbooth may use your Personal Data for internal business purposes including without limitation to help us improve the content and functionality of the Site, to better understand our users, to improve the Ticketbooth Services, to protect against, identify or address fraudulent activities, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Site, Ticketbooth Services and our business.
+We will only provide your contact details to event organisers if you choose to during the checkout screen.
 
-**Marketing:** Ticketbooth may use your Personal Data to contact you in the future for Ticketbooth’s marketing and advertising purposes, including without limitation to inform you about services or events we believe might be of interest to you, to develop promotional or marketing materials and provide those materials to you, and to display content and advertising on the Site that we believe might be of relevance to you. In particular, Organisers should note that Ticketbooth may use information it receives or collects regarding Buyers (including without limitation via an Organiser’s event registration page) in accordance with the terms of this Privacy Policy, including in the manner set forth above.
+Section 4
 
-**Organiser Emails:** We allow Organisers to use our email system to contact Buyers for their current and past events, so you may receive emails from our system that originate with such Organisers.
+## Use of Aggregate Data
 
-If Ticketbooth intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
+We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
 
-2\. Non-Personal Data:
+Ticketbooth may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers.
 
-Because Non-Personal Data cannot be used to personally identify you, Ticketbooth may use such information for any lawful purpose.  
-Our Disclosure of Information That We Collect:
+Which means,
 
-1\. Personal Data:
+We use tools like google analytics to track usage patterns on our website, any information will not be able to identify you personally.
 
-Ticketbooth is not in the business of selling your Personal Data. We consider this information to be a vital part of our relationship with you. Therefore, Ticketbooth will not sell your Personal Data to third parties, including third party advertisers. There are, however, certain circumstances in which we may disclose, transfer or share your Personal Data with certain third parties without further notice to you, as set forth below:
+Section 5
 
-**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. Subsidiaries and Affiliates: We may also share your Personal Data with our subsidiaries and/or affiliates for purposes consistent with this Privacy Policy. Our subsidiaries and affiliates will be bound to maintain that Personal Data in accordance with this Privacy Policy.
+## Security
 
-**Agents, Consultants and Related Third Parties:** Ticketbooth, like many businesses, sometimes engages other companies to perform certain business-related functions. Examples of such functions include mailing information, ticket fulfillment, maintaining databases and processing payments. When we engage another Ticketbooth to perform such functions, we may provide them with information, including Personal Data, in connection with their performance of such functions.
+Ticketbooth strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
 
-**Organisers:** When you purchase tickets to, register for or donate to an event on our Site, you consent to our providing your Personal Data to the Organisers of such event. These Organisers are not bound to treat your Personal Data in accordance with this Privacy Policy. You agree that Ticketbooth is not responsible for the actions of these Organisers with respect to your Personal Data. It is important that you review the applicable policies of the Organisers of an event before providing Personal Data or other information in connection with that event.
+Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.
 
-**Legal Requirements:** Ticketbooth may disclose your Personal Data if required to do so by law (including, without limitation responding to a subpoena or request from law enforcement, court or government agency) or in the good faith belief that such action is necessary (i) to comply with a legal obligation, (ii) to protect and defend the rights or property of Ticketbooth, (iii) to act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) to protect against legal liability.  
-2\. Non-Personal Data:
+Which means,
 
-Because Non-Personal Data cannot be used to personally identify you, Ticketbooth may disclose, transfer or share Non-Personal Data for any lawful purpose.
+We will use industry standards in security, the same ones used by the big credit card companies, to help you keep a secure Ticketbooth account.
 
-Your Choices:
+Section 6
 
-You have several choices available when it comes to your Personal Data:
+## Access to Personal Information
 
-**Limit the Personal Data You Provide:** You can use the Site without providing any Personal Data or with limiting the Personal Data you provide. If you choose not to provide any Personal Data or limit the Personal Data you provide, you may not be able to use certain Site functionality and/or Ticketbooth Services. For instance, in order to open an Ticketbooth account, or buy or sell tickets, your name and email address will be required.
+You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.
 
-**Opt Out:** You can “opt out” of receiving Ticketbooth newsletter emails by logging in, clicking on “Settings” and following the instructions to “email preferences.” You may modify your choices at any time in your Ticketbooth account. In the event an Organiser uses our system to email you, you will be able to “opt out” of receiving those communications as well. Please note that if you unsubscribe from receiving a particular Organiser’s emails, you will no longer receive emails from the particular Organiser that are sent through our system (but you may still receive emails sent by that Organiser through means other than our system), however, you will still receive Ticketbooth communications and communications from other Organisers whose events you have attended or are registered to attend or who have otherwise obtained your email address. Likewise, if you unsubscribe from Ticketbooth communications you will continue to receive communications from Organisers. So you may have to unsubscribe from multiple emails before you stop receiving all communications. You can also unsubscribe from receiving all Organiser emails sent through our system. It may take up to 24 hours for us to process an unsubscribe request. Note that you cannot unsubscribe from Ticketbooth Service communications via the Site. You can stop receiving Ticketbooth Service communications only by contacting us at [http://www.ticketbooth.com/about-us/](http://www.ticketbooth.com.auabout-us/ "About Us") and closing your account. By electing to stop receiving all communications from Ticketbooth or through Ticketbooth’s system you will no longer receive any updates on your account or on events you are registered to attend or have previously attended, including communications regarding refunds. We do not recommend that you do this unless you plan to no longer use the Site or Ticketbooth Services, are not currently registered for an event, are not currently organizing an event and will have no need to receive further communications from Ticketbooth or through Ticketbooth’s system. Even after you opt out of all communications, Ticketbooth will retain your Personal Data and Non-Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. However, Organisers who have received your Personal Data in accordance with this Privacy Policy may still use that Personal Data to contact you in accordance with their own privacy policies, but they may not use Ticketbooth’s system to do so.
+To request access, please contact our privacy officer as set out at the end of this document.
 
-**Exclusions:  **This Privacy Policy does not apply to any Personal Data collected by Ticketbooth other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Ticketbooth or another user or visitor through the Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards, any ideas for new products or modifications to existing products, claim or demand letters, Digital Millennium Copyright Act notices, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Ticketbooth shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
+Which means,
 
-**Children:**  Ticketbooth does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Ticketbooth through the Site, please contact us, and we will endeavour to delete that information from our databases.
+If you would like a copy of your personal information we store, please send an email to support@ticketbooth.com.au
 
-**Links to Other Web Sites** : This Privacy Policy applies only to the Site. The Site may contain links to other websites not operated or controlled by Ticketbooth (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Site do not imply that Ticketbooth endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+Section 7
 
-**Storage and Security:**  Ticketbooth may store Personal Data itself or such information may be included in databases owned and maintained by Ticketbooth affiliates, agents or service providers. Ticketbooth takes what it believes to be reasonable steps to protect the Personal Data provided via the Site from loss, misuse, unauthorized access, inadvertent disclosure, alteration, and destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from the Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data via the Internet.
+## Public Information
 
-**International Privacy Laws:**  If you are visiting our website from outside the Australia, please be aware that you are sending information (including Personal Data) to Australia where our servers are located. We will hold your Personal Data and Non-Personal Data in accordance with privacy laws in the Australia and this Privacy Policy. Please note that privacy laws in the Australia may not be the same as, and in some cases may be less protective than, the privacy laws in your country.
+Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While Ticketbooth strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board.
 
-**Other Terms and Conditions** : Your access to and use of the Site is subject to the Terms of Service.
+Which means,
 
-**Changes to Ticketbooth’s Privacy Policy:  **The Site and our business may change from time to time. As a result, at times it may be necessary for Ticketbooth to make changes to this Privacy Policy. Ticketbooth reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+Any information you post on the social networking features of the site is free for the world to see, so make sure you post anything you don’t want people to see.
 
-**Access to Information; Contacting Ticketbooth:**  To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site. Please also feel free to contact us if you have any questions about Ticketbooth’s Privacy Policy or the information practices of the Site. You may contact us at the following address: [http://www.ticketbooth.com.au/about-us/](http://www.ticketbooth.com.auabout-us/ "About Us").
+Section 8
+
+## Cookies
+
+Cookies are data that a Web site transfers to an individual’s hard drive for record-keeping purposes. Cookies can facilitate a user’s ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.
+
+Which means,
+
+To identify you electronically, a cookie will be stored on your computer.
+
+Section 9
+
+## Online Links to Third Party and Co-Branded Sites
+
+Ticketbooth may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be “co-branded” with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
+
+Ticketbooth is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user’s convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by Ticketbooth of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site. 
+
+Which means,
+
+Ticketbooth has various partners who may have different privacy policies to us, so make sure you read them before visiting sites outside of ticketbooth.com.au
+
+Section 10
+
+## What else you should know about privacy on the Internet
+
+Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of and access to your own computer.
+
+Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet
+
+Which means,
+
+Make sure you log-out and close your browser windows if you purchasing tickets on a public computer, this is a good habit to get into and should be followed whenever using a public computer.
+
+Section 11
+
+## Changes to this Privacy Policy
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+Which means,
+
+We may change this Privacy Statement. If it’s a big change, we will inform you, right here.
+
+## Questions
+
+Any questions about this Privacy Policy should be addressed to privacy@ticketbooth.com.au or by mail to:
+
+Ticketbooth PTY LTD  
+Level 22 Tower Two  
+101 Grafton Street  
+Bondi Junction, NSW 2022  
+Australia 
