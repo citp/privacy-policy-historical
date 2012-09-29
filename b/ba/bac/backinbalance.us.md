@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backinbalance.us privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623011812id_/http%3A//www.backinbalance.us/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backinbalance.us privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929142130id_/http%3A//www.backinbalance.us/policy.html) for the most accurate reproduction.*
 
 # Link To Us
 
@@ -106,3 +106,5 @@ This Privacy Policy and our Terms of Use , both as posted on our Sites and throu
 [Gastric Band Surgery Glasgow](http://www.assureweightloss.com/what-we-do/implanted-devices/gastric-banding-lap-banding/) Gastric banding involves placing an adjustable silicone band around the upper part of your stomach. It works by making you feel full sooner so that you eat less.
 
 [Private STI Clinic Glasgow](http://www.embracesexualhealth.co.uk/about-us/) Embrace Sexual Health. Nuffield Hospital Glasgow. Specialized Sexual Health Clinic in Glasgow. We offer STI or STD Treatments, Chlamydia screening, HIV & AIDS testing, Genital Herpes treatments & all treatments related to sexual health.
+
+if you are searching [Where to Volunteer in Chicago](http://www.openheartmagic.org/where-to-volunteer-in-chicago/), then Open Heart Magic offers three exciting ways to help kids in hospitals and have fun with interesting people like yourself who looking to do more 
