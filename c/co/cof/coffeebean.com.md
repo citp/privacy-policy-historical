@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612164055id_/http%3A//www.coffeebean.com/Privacy-Policy_ep_44-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929131235id_/http%3A//www.coffeebean.com/Privacy-Policy_ep_44-1.html) for the most accurate reproduction.*
 
 # Welcome to International Coffee & Tea, LLC.
 
