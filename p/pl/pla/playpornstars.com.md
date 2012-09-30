@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playpornstars.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530182848id_/http%3A//www.playpornstars.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playpornstars.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930111009id_/http%3A//www.playpornstars.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
