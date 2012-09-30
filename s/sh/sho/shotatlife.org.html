@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shotatlife.org privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531214826id_/http%3A//shotatlife.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shotatlife.org privacy policy that was archived on 2012-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121001003725id_/http%3A//shotatlife.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1924:0';
-CONVIO.pageSessionID = 'fbsxoecyd1.app217b';
+CONVIO.pageSessionID = 'bhgfl1fj63.app239a';
 CONVIO.pageSessionName = 'JServSessionIdr004';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1338500906190"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1349051845840"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -56,7 +56,8 @@ deleteCookie("CONVIO.referrer");
 
 <link href="http://shotatlife.org/assets/css/redesign-styles.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
 
 <script type="text/javascript" src="http://use.typekit.com/wfb7mlc.js"></script>
@@ -110,13 +111,13 @@ width: 435px;
 		
 .interior ul.left-nav > li:hover > ul.col {
 display: block; 
-height: 180px;
+height: 190px;
 }
 		     
 .interior ul.left-nav > li > ul.col > li {
 display: block; 
 float: left; 
-height: 145px;
+height: 155px;
 padding: 10px 0;
 }
 </style>
@@ -128,8 +129,49 @@ padding: 10px 0;
 padding: 0 8px 0 8px;
 }
 </style>
+
 <![endif]--> 
 
+<script type="text/javascript">
+$(window).load(function(){
+        var FitImages = function( images )
+        {
+            images.each(function(idx,img)
+            {
+                img = $(img);
+
+                var parent = img.closest('div'),
+                    parentWidth = parent.outerWidth(),
+                    parentHeight = parent.outerHeight(),
+                    imageWidth = img.outerWidth(),
+                    imageHeight = img.outerHeight(),
+                    scale = parentWidth / imageWidth;
+                    
+                if ( imageHeight * scale < parentHeight )
+                {
+                    scale *= parentHeight / (imageHeight*scale);
+                }
+                
+                imageWidth *= scale;
+                imageHeight *= scale;
+                                
+                img.css({
+                    width: imageWidth + 'px',
+                    height: imageHeight + 'px',
+                    position: 'relative',
+                    left: ((parentWidth - imageWidth)/2) + 'px',
+                    top: ((parentHeight - imageHeight)/2) + 'px'
+                });
+            })
+            
+        }
+        
+        $(function()
+        {
+            FitImages( $('.story-list-item img') );
+        })
+});
+</script>
 
 </head>
 <body class="interior">
@@ -137,7 +179,7 @@ padding: 0 8px 0 8px;
 <div id="header">
 <div id="nav">
 
-<div id="item-332576480" style="DISPLAY: inline">
+<div id="item-362603135" style="DISPLAY: inline">
 
 
 
@@ -168,6 +210,7 @@ padding: 0 8px 0 8px;
     <li class="left">
         <ul>
         <li class="first"><a href="https://secure.globalproblems-globalsolutions.org/site/SPageNavigator/SAL_email_congress.html">Reach Out</a></li>
+<li><a href="http://shotatlife.org/advocate/advocacy-101.html">Advocacy 101</a></li>
         <li class="last"><a href="http://shotatlife.org/advocate/pledge/pledge-your-support.html">Pledge Your Support</a></li>
         </ul>
     </li>
@@ -182,8 +225,9 @@ padding: 0 8px 0 8px;
         <ul>
         <li class="first"><a href="http://shotatlife.org/act/get-involved/">Get Involved</a></li>
         <li><a href="http://shotatlife.org/act/supporter-stories/">Supporter Stories</a></li>
-        <!--<li><a href="">TeamRaiser</a></li>-->
-        <li class="last"><a href="http://shotatlife.org/act/share/">Share the Campaign</a></li>
+        <li><a href="http://www.globalproblems-globalsolutions.org/site/TR?fr_id=1080&amp;pg=entry">Fundraising</a></li>
+        <li><a href="http://shotatlife.org/act/share/">Share the Campaign</a></li>
+<li class="last"><a href="http://shotatlife.org/mobile/">Go Mobile</a></li>
         </ul>
     </li>
     <li class="mid">There are several ways you can be a Shot@Life champion.    </li>
@@ -204,7 +248,7 @@ padding: 0 8px 0 8px;
 </div><!--end search-box-->
 
 
-<div id="item-332576481" style="DISPLAY: inline">
+<div id="item-362603136" style="DISPLAY: inline">
 
 
 
@@ -216,14 +260,15 @@ padding: 0 8px 0 8px;
 <li class="first"><a href="http://shotatlife.org/blog/">Blog</a></li>
 <li><a href="http://shotatlife.org/events/">Events</a></li>
 <li><a href="http://shotatlife.org/news-media/">News &amp; Media</a></li>
+<!--<li><t:if test="matches(page.folder.path,'/mobile/.*')"><a href="/preview!shotatlife.org/mobile/" class="active"></t:if><t:else><a href="/preview!shotatlife.org/mobile/"></t:else>Mobile</a></li>-->
 <li><a href="http://shotatlife.org/tools/">Tools</a></li>
-<li><a href="http://shotatlife.org/about-us/">About Us</a></li>
+<li><a href="http://shotatlife.org/about-us/">About</a></li>
 </ul>
 
 </div>
 <div class="clear"></div>
 
-<div id="item-332576482" style="DISPLAY: inline">
+<div id="item-362603137" style="DISPLAY: inline">
 
 
 
@@ -238,6 +283,7 @@ padding: 0 8px 0 8px;
 <li><a href="http://www.youtube.com/shotatlifecampaign" target="_blank"><img src="http://shotatlife.org/assets/images/yt.png" alt="you tube" border="0"></a></li>
 <li><a href="http://www.flickr.com/photos/shotatlife" target="_blank"><img src="http://shotatlife.org/assets/images/flickr.png" alt="flickr" border="0"></a></li>
 <li><a href="http://pinterest.com/shotatlife/" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/pinterest.png" alt="pinterest" border="0"></a></li>
+<li><a href="http://shotatlife.org/mobile/"><img src="http://shotatlife.org/assets/images/redesign/mobile-app-icon.png" alt="pinterest" border="0"></a></li>
 </ul>
 
 <div id="rss-lightbox" class="simple_overlay">
@@ -451,7 +497,7 @@ CONVIO.user.isAnonymous = true;
 <div id="footer-content">
 
 
-<div id="item-332576483" style="DISPLAY: inline">
+<div id="item-362603138" style="DISPLAY: inline">
 
 
 
@@ -461,12 +507,12 @@ CONVIO.user.isAnonymous = true;
 
 <div id="partners">
 <h3>Our Partners</h3>
-<a href="http://aap.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/aap-2.png" alt="American Academy of Pediatrics" height="110" width="108" border="0"></a>
-<a href="http://www.redcross.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/arc.png" alt="American Red Cross" border="0" height="110" width="148"></a>
-<a href="http://www.gatesfoundation.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/gates.png" alt="The Bill and Melinda Gates Foundation" height="110" width="236" border="0"></a>
-<a href="http://www.ecbt.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/ecbt.png" alt="ECBT" height="110" width="142" border="0"></a>
-<a href="http://www.gavialliance.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/gavi-2.png" alt="GAVI Alliance" height="110" border="0" width="172"></a>
-<a href="http://www.gfwc.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/gfwc.png" alt="GFWC" height="110" border="0" width="112"></a><br>
+<a href="http://aap.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/aap-3.png" alt="American Academy of Pediatrics" height="110" width="244" border="0"></a>
+<a href="http://www.redcross.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/arc-2.png" alt="American Red Cross" border="0" height="110" width="106"></a>
+<a href="http://www.gatesfoundation.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/gates-2.png" alt="The Bill and Melinda Gates Foundation" height="110" width="207" border="0"></a>
+<a href="http://www.ecbt.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/ecbt-2.png" alt="ECBT" height="110" width="120" border="0"></a>
+<a href="http://www.gavialliance.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/gavi-3.png" alt="GAVI Alliance" height="110" border="0" width="139"></a>
+<a href="http://www.gfwc.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/gfwc-2.png" alt="GFWC" height="110" border="0" width="102"></a><br>
 <a href="http://www.lionsclubs.org/EN" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/lionlogo.png" height="115" alt="Lions Club International" width="112" border="0"></a><a href="http://www.mochamoms.org/" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/mocha-moms.png" height="115" alt="Mocha Moms" width="136" border="0"></a><a href="http://new.paho.org/usa/" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/pan-am-health-org.png" height="115" width="200" alt="Pan American Health Organization" border="0"></a><a href="http://www.rotary.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/rotary.png" height="115" width="136" alt="Rotary International" border="0"></a><a href="http://www.unicef.org" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/unicef.png" alt="UNICEF" height="114" width="148" border="0"></a><a href="http://www.who.int/en/" target="_blank"><img src="http://shotatlife.org/assets/images/redesign/who.png" height="115" width="201" alt="World Health Organization" border="0"></a>
 </div>
 <div style="clear: both;"></div>
@@ -488,11 +534,18 @@ CONVIO.user.isAnonymous = true;
 <div class="clear"></div>
 </div><!--end footer nav-->
 
-<div id="credit">A campaign of: <a href="http://www.unfoundation.org"><img src="http://shotatlife.org/assets/images/unf-logo.png" alt="UN Foundation logo" border="0"></a></div>
+<div id="credit">
+A campaign of: <a href="http://www.unfoundation.org"><img src="http://shotatlife.org/assets/images/unf-logo.png" alt="UN Foundation logo" border="0"></a><br><br>
+<a href="http://www.convio.com" target="_blank"><img src="http://shotatlife.org/assets/poweredby.gif" border="0"></a>
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="copyright" style="float:left;">©2012 United Nations Foundation</div>
-
+<style>
+#cv-poweredBy{
+display: none;
+}
+</style>
 
 </div>
 
@@ -547,6 +600,6 @@ CONVIO.user.isAnonymous = true;
 
 
 <!-- Powered by Convio -->
-<!-- 10.12.0.37:8900 -->
+<!-- 10.12.0.43:8901 -->
 
 </body></html>
