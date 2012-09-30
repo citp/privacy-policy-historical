@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetubetv.net privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627125235id_/http%3A//freetubetv.net/includes/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetubetv.net privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930021923id_/http%3A//freetubetv.net/includes/privacy.php) for the most accurate reproduction.*
 
 # FreeTube Privacy Policy
 
