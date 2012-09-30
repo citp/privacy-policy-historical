@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the grattan.co.uk privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121051955id_/http%3A//www.grattan.co.uk/Web/main/help/question.asp%3Fqid%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grattan.co.uk privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930143307id_/http%3A//www.grattan.co.uk/Web/main/help/question.asp%3Fqid%3D59) for the most accurate reproduction.*
 
 # What is your privacy policy? - Grattan Help
 
-  * [Help](https://web.archive.org/web/20120121051955id_/http%3A//www.grattan.co.uk/Web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20120121051955id_/http%3A//www.grattan.co.uk/Web/main/help/category.asp?cid=10)
+  * [Help](https://web.archive.org/web/20120930143307id_/http%3A//www.grattan.co.uk/Web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20120930143307id_/http%3A//www.grattan.co.uk/Web/main/help/category.asp?cid=10)
 
 
 
