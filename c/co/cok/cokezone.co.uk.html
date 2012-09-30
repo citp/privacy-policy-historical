@@ -1,11 +1,19 @@
-<!--The following is the downloaded HTML source of the cokezone.co.uk privacy policy that was archived on 2012-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507015145id_/http%3A//cokezone.co.uk/pages/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cokezone.co.uk privacy policy that was archived on 2012-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120930085832id_/http%3A//www.cokezone.co.uk/pages/policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta property="og:url" content="http://www.cokezone.co.uk/pages/policy"> 
     <title>Coke Zone privacy policy</title>
-    <link rel="stylesheet" href="/css/style.css" type="text/css">
-    <link rel="stylesheet" href="/css/header.css" type="text/css">
+    <link rel="stylesheet" href="/css/style.css?ver=105a" type="text/css">
+    <meta property="fb:app_id" content="177131402401997">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Coke Zone UK">
+    <meta property="og:description" content="Get cool sports, music, games and entertainment rewards by collecting points with Coke Zone. Get into the Zone: Coke Zone">
+    <meta property="og:title" content="Download Sports, Music, Fashion &amp; Entertainment Rewards at Cokezone.co.uk | Coca-Cola UK">
+    <meta property="og:image" content="http://www.cokezone.co.uk/images/cz_logo.png">
+    
+    <link rel="stylesheet" href="/css/header.css?ver=105a" type="text/css">
     
     <!--[if IE 8]>
         <style type="text/css">
@@ -13,31 +21,28 @@
         </style>
     <![endif]-->
     
-    <script type="text/javascript">
-        var myTunnelURI = '/tunnel.html';
-    </script>
-    
-    <script type="text/javascript" src="/js/OpenAjaxManagedHub-all.js"></script>
-    <script type="text/javascript" src="/js/utilities.js"></script>
-    <script type="text/javascript" src="/js/configurables.js"> </script>
-    <script type="text/javascript" src="/js/settings.js"></script>
+    <script type="text/javascript" src="/js/OpenAjaxManagedHub-all.2.0.7.min.js"></script>
     <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" src="/js/utilities2.11.js"></script>
+    <script type="text/javascript" src="/js/configurables.js?ver=105a"> </script>
+    <script type="text/javascript" src="/js/settings.js?ver=105a"></script>
     <script type="text/javascript" src="/js/jquery.query-2.1.7.js"></script>
     <script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
     <script type="text/javascript" src="/js/jquery.form.js"></script>
     <script type="text/javascript" src="/js/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="/js/widget_configs.js"></script>
-
+    <script type="text/javascript" src="/js/widget_configs.js?ver=105a"></script>
 </head>
 <body>
     <a id="top"></a>
-    <script type="text/javascript">  
+    <script type="text/javascript">
         $(function() {
             gim.renderWidget('MySessionStateWidget', 'sessionState');
             gim.renderWidget('MyCFMAWidget', 'start');
             gim.renderWidget('MyCFMAForLongitudinalSurvey', 'start');
-            gim.renderWidget('MyRedeemPinWidget', 'redeemPin');
-            gim.renderWidget('MyLoginWidget', 'start');
+
+            var iframed = document.referrer.match(/http:\/\/blog.cokezone.co.uk/i) ? 'iframed' : '';
+            gim.renderWidget('MyRedeemPinWidget', 'redeemPin', '', iframed);
+            startLoginWidget('start', iframed);
         });
     </script>
 
@@ -48,19 +53,22 @@
                 <div id="headerLinksContainerLogin">
                     <div>
                         <div id="logo">
-                            <a href="/">
-                                <img src="/images/cokelogoblackgif.gif" alt="Coke Zone">
+                            <a href="/" target="_top">
+                                <img src="/images/cokelogoblackgif.gif" alt="-">
                             </a>
                         </div>
                         <div id="pincodePointsDiv">
                             <div id="pointBalanceWidget"></div>
+                            
                             <div id="pincodeDiv">
-                                <div id="pinEntryDiv" class="rewardContainer">
+                                <div id="pinEntryDiv">
                                     <ul id="linksDiv">
-                                        <li><a href="/pages/whatIs">How it works</a></li>
-                                        <li><a href="/pages/faq">Help</a></li>
+                                        <li><a href="/pages/whatIs" target="_top">What is Coke Zone?</a></li>
+                                        <li><a href="/pages/faq" target="_top">Help</a></li>
+                                        <li><a id="howWeUseCookies" href="/pages/howWeUseCookies" target="_top">How we use cookies</a></li>
                                     </ul>
-                                    <div id="redeemPinWidget" onmouseover="showPinMessage()" onmouseout="hidePinMessage()" class=" inlineWidget MyRedeemPinWidget MyRedeemPinWidget_redeemPin" style="width: auto; height: 65px; display: block;"><iframe id="widgetID5" name="widgetID5" scrolling="no" width="100%" height="100%" frameborder="0" src="http://https://web.archive.org/widgets-server/action/b32f712f2d1e3549b274e06cc652659d98da41866cfc43ee50f84b098bae6a9f/redeemPin/html/html?locale=en_GB&amp;&amp;oahpv=openajax-2.0.2&amp;oahi=widgetID5&amp;oaht=AAAgiR&amp;oahu=https%3A%2F%2Fweb.archive.org%2Ftunnel.html&amp;oahpm=" style="border: 0pt none; background: none; visibility: hidden;"></iframe></div>
+                                    <div id="redeemPinWidget" onmouseover="showPinMessage()" onfocus="showPinMessage()" onmouseout="hidePinMessage()" onblur="hidePinMessage()"></div>
+                                    
                                 </div>
                                 <div id="enter-code-message-box" style="display:none;">
                                     <div class="enter-code-message-container">
@@ -71,46 +79,42 @@
                             </div>
                         </div>
                         <div id="headerUserLinksSection">
-                            <div id="loginWidget" class=" inlineWidget MyLoginWidget MyLoginWidget_start" style="width: 350px; height: 40px; display: block;"><iframe id="widgetID6" name="widgetID6" scrolling="no" width="100%" height="100%" frameborder="0" src="http://https://web.archive.org/widgets-server/action/b32f712f2d1e3549b274e06cc652659d5c19a38eac441760d8292e6c75075584/start/html/html?locale=en_GB&amp;&amp;oahpv=openajax-2.0.2&amp;oahi=widgetID6&amp;oaht=ZMmzDB&amp;oahu=https%3A%2F%2Fweb.archive.org%2Ftunnel.html&amp;oahpm=" style="border: 0pt none; background: none; visibility: hidden;"></iframe></div>
+                            <div id="loginWidget"></div>
                             <div class="headerGlobalNav">
                                 <ul>
-                                    <li><a id="headerMenu_Home" href="/"><span>Home</span></a></li>
-                                    <li><a id="headerMenu_Mttb" href="/pages/mttb"><span>Olympic Games</span></a></li>
-                                    <li><a id="headerMenu_Rewards" href="/rewards?categoryId=1"><span>Rewards</span></a></li>
+                                    <li><a id="headerMenu_Home" href="/" target="_top"><span>Home</span></a></li>
+                                    <li><a id="headerMenu_Rewards" href="/rewards?categoryId=1" target="_top"><span>Rewards</span></a></li>
                                     <li>
-                                        <a id="headerMenu_euro2012" href="/pages/euro2012"><span>UEFA EURO 2012<span class="superscript">™</span></span></a>
+                                        <a id="headerMenu_007" href="/007" target="_top"><span>007 Skyfall™</span></a>
                                         <ul class="right_align">
-                                            <li><a href="/pages/euro2012">UEFA EURO 2012<span class="superscript">™</span></a></li>
-                                            <li><a href="/pages/win_tickets">WIN TICKETS</a></li>
-                                            <li id="funNationMenu"><a href="https://apps.facebook.com/cokestadium/en_GB/index.html" target="_blank">FAN-NATION</a></li>
-                                            <li><a href="/rewards?supplier=Euro_2012">FOOTBALL REWARDS</a></li>
-                                            <li><a href="http://www.ea.com/uk/football/1/euro12-coke-challenge" target="_blank">FOOTBALL CHALLENGES</a></li>
+                                            <li><a href="/007/home" target="_top">Win Adventures</a></li>
+                                            <li><a href="http://blog.cokezone.co.uk/007" target="_top">Assignments</a></li>
+                                            <li><a href="/rewards?supplier=007" target="_top">Rewards</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a id="headerMenu_Brands" href="/rewards?brand=3"><span>Brands</span></a>
+                                        <a id="headerMenu_Brands" href="/rewards?brand=3" target="_top"><span>Brands</span></a>
                                         <ul class="right_align">
-                                            <li><a href="/rewards?brand=3">Coca-Cola</a></li>
-                                            <li><a href="/rewards?brand=1">Diet Coke</a></li>
-                                            <li><a href="/rewards?brand=2">Coke Zero</a></li>
+                                            <li><a href="/rewards?brand=3" target="_top">Coca-Cola</a></li>
+                                            <li><a href="/rewards?brand=1" target="_top">Diet Coke</a></li>
+                                            <li><a href="/rewards?brand=2" target="_top">Coke Zero</a></li>
                                         </ul>
                                     </li>
-                                    <li><a id="headerMenu_News" href="/pages/news"><span>News</span></a></li>
+                                    <li><a id="headerMenu_News" href="/pages/news" target="_top"><span>News</span></a></li>
                                 </ul>
                             </div>
                         </div>
-                        
                         <div class="session-expired-message"></div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div id="loading-image-div-login" style="display:none;"><img src="/images/gb/loading.gif" alt="loading"></div>
+        <div id="loading-image-div-login" style="display:none;"><img src="/images/gb/loading.gif" alt="-"></div>
         <div class="outOverlayWrapper" id="fadebackground"></div>
-        <div id="cfmaWidget" class=" inlineWidget MyCFMAWidget MyCFMAWidget_start" style="width: 0px; height: 0px; display: block;"><iframe id="widgetID3" name="widgetID3" scrolling="no" width="100%" height="100%" frameborder="0" src="https://https://web.archive.org/widgets-server/action/b32f712f2d1e3549b274e06cc652659d2033ca302e807ea5c4676276e4d35103/start/html/html?locale=en_GB&amp;&amp;oahpv=openajax-2.0.2&amp;oahi=widgetID3&amp;oaht=ly58WL&amp;oahu=https%3A%2F%2Fweb.archive.org%2Ftunnel.html&amp;oahpm=" style="border: 0pt none; background: none; visibility: hidden;"></iframe></div>
-        <div id="cfmaLongitudinalWidget" class=" inlineWidget MyCFMAForLongitudinalSurvey MyCFMAForLongitudinalSurvey_start" style="width: 0px; height: 0px; display: block;"><iframe id="widgetID4" name="widgetID4" scrolling="no" width="100%" height="100%" frameborder="0" src="https://https://web.archive.org/widgets-server/action/b32f712f2d1e3549b274e06cc652659d2f2893095e99d92d48d07d827a5d1799/start/html/html?locale=en_GB&amp;&amp;oahpv=openajax-2.0.2&amp;oahi=widgetID4&amp;oaht=mzZs0a&amp;oahu=https%3A%2F%2Fweb.archive.org%2Ftunnel.html&amp;oahpm=" style="border: 0pt none; background: none; visibility: hidden;"></iframe></div>
-        <div id="sessionStateWidget" class=" inlineWidget MySessionStateWidget MySessionStateWidget_sessionState" style="width: 0px; height: 0px; display: block;"><iframe id="widgetID2" name="widgetID2" scrolling="no" width="100%" height="100%" frameborder="0" src="http://https://web.archive.org/widgets-server/action/b32f712f2d1e3549b274e06cc652659da5137114c4a142582bf694c71d7223f3/sessionState/html/html?locale=en_GB&amp;&amp;oahpv=openajax-2.0.2&amp;oahi=widgetID2&amp;oaht=8ePHpU&amp;oahu=https%3A%2F%2Fweb.archive.org%2Ftunnel.html&amp;oahpm=" style="border: 0pt none; background: none; visibility: hidden;"></iframe></div>
+        <div id="cfmaWidget"></div>
+        <div id="cfmaLongitudinalWidget"></div>
+        <div id="sessionStateWidget"></div>
         <div id="shareSessionWidget"></div>
         <div class="popupWidgets" id="surveyPopup"></div>
         <div class="popupWidgets" id="longitudinalSurveyPopupForSurveyView"></div>
@@ -119,8 +123,10 @@
         <div class="popupWidgets" id="registrationWidgetPopup"></div>
         <div class="popupWidgets" id="loginWidgetPopup"></div>
         <div class="popupWidgets" id="forgotWidgetPopup"></div>
-        <div class="popupWidgets" id="contestWidgetPopup"></div>
-        <div class="popupWidgets" id="updatePrizeInfoWidgetPopup"></div> 
+        <div id="contestWidgetPopup-wrap">
+            <div class="popupWidgets" id="contestWidgetPopup"></div>
+        </div>
+        <div class="popupWidgets" id="updatePrizeInfoWidgetPopup"></div>
         <div class="popupWidgets" id="profileWidgetPopup"></div>
         <div class="popupWidgets" id="facebookWidget"></div>
         <div class="popupWidgets" id="generalWidget"></div>
@@ -128,10 +134,18 @@
         <div class="hiddenWidgetView" id="confirmRegistration"></div>
 
         <!--div class="popupWidgets" id="browseCatalogWidget"></div-->
+        
+        <div id="generalDialog">
+            <div class="headerDiv">
+                <div class="title"></div>
+                <input class="closeButtonX" type="button">
+            </div>
+            <div class="generalDialogTextDiv"></div>
+            <div class="generalDialogButtonsDiv"></div>
+        </div>
 
-        <!-- terms and conditions content -->
         <div id="container">
-            <div class="body-content">
+                        <div class="body-content">
                 <div class="terms-conditions privacy-policy">
                     <div class="box-body">
                         <div class="top-left">
@@ -201,18 +215,18 @@
                                     <a id="AccessToPersonalInformation"></a>
                                     <h3>Access to Personal Information</h3>
                                     <p>
-                                    	Customers may request details of their personal information by sending a signed written request together with a copy of their passport or driving licence to our customer service department at:<br>
-										Coca-Cola Great Britain<br>
-										1 Queen Caroline Street<br>
-										Hammersmith <br>
-										London <br>
-										W6 9HQ
-									</p>
-									<p>
-										Customers may contact Coca-Cola in relation to any queries they might have on this Privacy Statement on:<br>
-										Telephone: +44(0)20 8237 3000 (Monday - Friday 09:00 - 17:00)<br>
-										Lines are open Monday to Friday, 9am-5pm
-									</p> 
+                                        Customers may request details of their personal information by sending a signed written request together with a copy of their passport or driving licence to our customer service department at:<br>
+                                        Coca-Cola Great Britain<br>
+                                        1 Queen Caroline Street<br>
+                                        Hammersmith <br>
+                                        London <br>
+                                        W6 9HQ
+                                    </p>
+                                    <p>
+                                        Customers may contact Coca-Cola in relation to any queries they might have on this Privacy Statement on:<br>
+                                        Telephone: +44(0)20 8237 3000 (Monday - Friday 09:00 - 17:00)<br>
+                                        Lines are open Monday to Friday, 9am-5pm
+                                    </p> 
                                     <br> <a href="#top" class="privacy-policy-top-link">Top</a>
                                 </div>
                                 <!-- account page right navigation -->
@@ -232,12 +246,12 @@
         <div id="footer_main">
             <div class="innerFooter clearfix">
                 <ul class="inlineBlockList">
-                    <li><a href="/pages/terms">Terms and conditions</a></li>
-                    <li><a href="/pages/faq">faqs</a></li>
-                    <li><a href="/pages/policy">Privacy policy</a></li>
-                    <!-- <li><a href="/pages/contactUs">Contact us</a></li> -->
-                    <li><a href="/pages/contactUs">Contact Us</a></li>
-                    <li><a href="/pages/siteMap">Site map</a></li>
+                    <li><a href="/pages/terms" target="_top">Terms and conditions</a></li>
+                    <li><a href="/pages/faq" target="_top">faqs</a></li>
+                    <li><a href="/pages/policy" target="_top">Privacy policy</a></li>
+                    <li><a href="/pages/contactUs" target="_top">Contact Us</a></li>
+                    <li><a href="/pages/siteMap" target="_top">Site map</a></li>
+                    <li><a href="/pages/howWeUseCookies" target="_top">How we use cookies</a></li>
                     <li><a href="http://www.coca-cola.co.uk/" target="_blank">Coca-Cola Great Britain</a></li>
                     <li class="last"><a href="http://www.cokezone.ie" id="lastItemFooter">www.cokezone.ie</a></li>
                 </ul>
@@ -250,7 +264,7 @@
 <!-- Version: 9.4.0 -->
 <!-- Tag Builder Version: 3.3  -->
 <!-- Created: 11/15/2011 9:15:01 PM -->
-<script src="/js/webtrends.js" type="text/javascript"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsttp8on00000g0ne8jeq1qk_2d5s/wtid.js"></script>
+<script src="/js/webtrends.js" type="text/javascript"></script>
 <!-- ----------------------------------------------------------------------------------- -->
 <!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
 <!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
@@ -260,7 +274,7 @@
 var _tag=new WebTrends();
 _tag.dcsGetId();
 //]]>
-</script>
+</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsmap5vvuz5bd78btn874j94_1n8b/wtid.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 _tag.dcsCustom=function(){
@@ -276,4 +290,4 @@ _tag.dcsCollect();
 <!-- END OF SmartSource Data Collector TAG -->
 
 
-</body></html>
+<div id="popupWidget" class="popupWidget" style="display: block;"></div></body></html>
