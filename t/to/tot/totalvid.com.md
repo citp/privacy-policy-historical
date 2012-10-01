@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalvid.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630014838id_/http%3A//www.totalvid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalvid.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001053956id_/http%3A//www.totalvid.com/privacy.php) for the most accurate reproduction.*
 
 # TotalVid
 
