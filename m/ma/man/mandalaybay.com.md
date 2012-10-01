@@ -1,101 +1,140 @@
-> *The following text is extracted and transformed from the mandalaybay.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212142439id_/http%3A//mandalaybay.com/corporate/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandalaybay.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001194001id_/http%3A//www.mgmresorts.com/privacy.htm) for the most accurate reproduction.*
 
-# Mandalay Bay Resort and Casino - Corporate - Privacy Policy
+# MGM Resorts International Privacy Statement
 
-**Table of Contents**
+EFFECTIVE:  March 1, 2012
 
-> Our Commitment to Privacy  
->  The Information We Collect  
->  What Are Cookies and How Are They Used?  
->  How Can I Disable Cookies?  
->  Information Sharing  
->  Children's Privacy  
->  Requesting Removal of Your Information  
->  External Sites and Links
+MGM Resorts International values your patronage and respects your privacy.  This Privacy Policy ("Policy") describes the privacy practices of MGM Resorts International and the MGM Resorts International web sites and properties described below (collectively, "us" or "we").  You may click [here](http://www.mgmresorts.com/privacy_faq.htm) to view Frequently Asked Questions about our Policy.  Please read this Policy carefully before submitting any information to us.  If, after reviewing this Policy, you have any privacy questions or concerns, you may contact us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com).
 
-↑ top **Our Commitment to Privacy**  
-Mandalay Bay Resort and Casino respects the privacy of every individual who visits our website or responds to our interactive advertisements. This Privacy Statement outlines the information we will collect through our website and how that information will be used. This Statement will also instruct you on what to do if you do not want this information collected or further disseminated. Any changes to the privacy statement will always be posted on the website. 
+This Policy applies only to MGM Resorts International, the MGM Resorts International web sites that post this Policy (collectively, "MGM Web Sites"), and the resorts, casinos and properties listed below (collectively, "MGM Resorts"):
 
-↑ top **The Information We Collect**
+ARIA Resort and Casino in Las Vegas, Nevada  
+Beau Rivage in Biloxi, Mississippi   
+Bellagio in Las Vegas, Nevada  
+Circus Circus in Las Vegas, Nevada   
+Circus Circus in Reno, Nevada  
+CityCenter Residential Division in Las Vegas, Nevada  
+Excalibur in Las Vegas, Nevada   
+Gold Strike in Jean, Nevada  
+Gold Strike Resort in Tunica, Mississippi  
+Luxor in Las Vegas, Nevada  
+Mandalay Bay in Las Vegas, Nevada  
+MGM Grand in Las Vegas, Nevada  
+MGM Grand Detroit in Detroit, Michigan  
+MGM Grand Sanya  
+Monte Carlo in Las Vegas, Nevada  
+New York-New York in Las Vegas, Nevada  
+Skylofts at MGM Grand in Las Vegas, Nevada  
+The Crystals at CityCenter in Las Vegas, Nevada  
+THEhotel at Mandalay Bay in Las Vegas, Nevada   
+The Mirage in Las Vegas, Nevada   
+The Signature at MGM Grand in Las Vegas, Nevada  
+Vdara Condo Hotel at CityCenter in Las Vegas, Nevada
 
->  ** _Non-personally identifiable information collected automatically when visiting the website:_**   
->  In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of internet browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement. 
-> 
-> **_Personal information collected when registering to our website:_**  
->  Personal information may be gathered from you to assist with marketing programs designed to identify broad market groups for specific promotional opportunities. By providing personal information for this purpose you agree to be placed on marketing lists and may receive promotional notices from Mandalay Bay Resort and Casino, from time to time.
-> 
-> **_Personal information collected when purchasing on our website:_**   
->  The personal information you provide (name, address, telephone number, email address) to the company will be used to identify you as a customer of the company and in connection with delivering services or products that you order. 
+This Policy does not apply to any other web sites, including other web sites that may be owned, operated, or affiliated with MGM Resorts International or its subsidiaries. Nor does it apply to any other subsidiaries of MGM Resorts International, or to any other resorts, casinos, or other properties that are owned, operated, or affiliated with MGM Resorts International or its subsidiaries.
 
-↑ top **What Are Cookies and How Are They Used?**  
-When you register with us your browser must be set to accept cookies. A cookie is a text file placed on your hard drive that identifies your computer so the site can remember information you have told us before or activities you have carried out on our site. The cookies can only contain data you told us about yourself. They cannot examine your computer or read data from it. Cookies cannot transmit a virus or do damage to your system. Most browsers are initially set up to accept cookies. By clicking on the Help portion of your browser's menu bar, you can learn how to reset your browser to refuse all cookies, or to indicate when a cookie is being sent. 
+MGM Resorts International is a United States corporation subject to the laws of the United States. This Policy describes our information collection, use, and sharing practices in the United States. The United States may not offer a level of privacy protection as great as that offered in other jurisdictions. In jurisdictions outside of the United States where we are subject to different or more restrictive local laws, we may adjust our practices in those jurisdictions to comply with local laws. Otherwise, we make no representation that the practices described in this Policy are compliant with laws outside of the United States that apply to the collection, security, use and disclosure of information.  Information that is collected or stored in jurisdictions outside of the United States may, subject to applicable law, be disclosed or transferred to the United States or other locations.  When information is transferred to the United States, it will be handled in accordance with the laws of the United States.
 
-> **_Personalization:_**  
->  We use cookies to provide special promotions to registered, signed-in members. In addition, room reservation forms are pre-filled with your contact information, making your reservation experience a more pleasant one.
-> 
-> **_Tracking:_**  
->  Cookies are used to track individual users' movement throughout the site anonymously as a means to gauge the popularity and success of individual promotions and offers. Cookies are also used to track revenue generated from room reservations and show ticket sales.
+## I. INFORMATION WE COLLECT
 
-↑ top **How Can I Disable Cookies?**  
-All of the popular browsers allow some level of cookie verification or choice. Netscape 3.0 and MSIE 3.0 allow you only an "alert before accepting cookies." This way you can voluntarily choose not to visit a site or areas of a site that use cookies.  
-Be aware, however, that some parts of the Mandalay Bay Resort and Casino website may not function correctly if you choose to refuse cookies.
+### A. Personal Information
 
-To be alerted about accepting cookies, please follow one of these procedures (the following is only a brief list of some popular browsers):
+"Personal Information" is information through which you can be identified. We collect Personal Information that you provide voluntarily to us.  Some examples of Personal Information that we may collect include your name, date of birth, postal address, e-mail address, telephone number, fax number, gender, gaming activity (in jurisdictions where gaming is permitted), and purchase and reservation information. If you visit MGM Resorts, Personal Information may include your image in a live video feed that can be viewed on the MGM Web Sites.  Some Personal Information is considered "Confidential Personal Information".  Confidential Personal Information is your name in combination with one or more of the following: credit or debit card number, financial account number, driver’s license number, U.S. state identification card number, Social Security number, passport number, and naturalization number.
 
->  ** _Internet Explorer 5.0/6.0:_**  
->  Go to the "Tools" menu, then to "Internet Options," then to "Security," then to "Custom Level." In the "Cookies" section, go to the "Allow cookies that are stored on your machine" sub-section and select "Prompt."
-> 
-> **_Internet Explorer 4.0:_**  
->  In Internet Explorer 4.0, go to the "View" menu, then to "Internet Options," then to "Advanced." Check the box that says, "Prompt before accepting cookies."
-> 
-> **_Internet Explorer 3.0:_**  
->  Go to the "View" menu, then to "Options," then to "Advanced." Check the box that says, "Warn before accepting cookies."
-> 
-> **_Netscape 6.0:_**  
->  Go to "Edit" in the menu bar, then to "Preferences," then to "Advanced," then to "Cookies." Check the box that says, "Warn me before accepting a cookie."
-> 
-> **_Netscape Navigator 4.x_**  
->  Go to "Edit" in the menu bar, then to "Preferences," then to "Advanced." Check the box that says, "Warn me before accepting a cookie."
-> 
-> **_Netscape Navigator 3.0:_**  
->  Go to the "Options" menu, then select "Network Preferences," and then "Protocols." Check the box that says, "Show an alert before accepting a cookie."
-> 
-> **_Mozilla 1.x:_**  
->  Open the "Edit" menu, and select Preferences. Under the "Privacy & Security" category, choose "Cookies" (If no subcategories are visible, double-click the category to expand the list.) You can then choose one of the following options:  
->  Disable cookies: Choose this to refuse all cookies.  
->  Enable cookies for the originating website only.  
->  Enable all cookies.  
->  If you want to be notified when a website tries to set a cookie, select "Warn me before storing a cookie."
+In addition to Personal Information that you provide voluntarily to us, we may obtain Personal Information from third parties including, but not limited to, business partners, family members, friends, and entities that direct you to or are located at MGM Web Sites or MGM Resorts.  In situations where your Personal Information is collected by third parties under contract with us for fulfillment and other purposes, we require such third parties to exercise reasonable care to protect your Personal Information and restrict the use of your Personal Information to the purposes for which it was provided.
 
-↑ top **Information Sharing**  
-Information about you specifically will be used to deliver the services you requested from Mandalay Bay Resort and Casino.
+### B. Non-Personal Information
 
-We may send personally identifiable information about you to other organizations when we have your consent to share the information (you will be provided the opportunity to opt-out if you do not consent to any information sharing). For example, if you opt-in for emails, we will share this information with our marketing provider.
+"Non-Personal Information" is information about you or your activities through which you cannot be personally identified.  When you use the Internet, your web browser or software may transmit certain information to the servers that host the web sites you visit.  Such information may include, for example, the unique number assigned to your server or Internet connection, your geographic location, and your interactions with the MGM Web Sites, including what pages you look at and what information you download.  When you visit the MGM Web Sites, our servers and servers operated by third-party advertising companies may collect Non-Personal Information.  In situations where it is possible to do so, Non-Personal Information may be linked to Personal Information.
 
-↑ top **Children's Privacy**  
-We have no intention of collecting any personal information (including address, telephone number, or email address) from individuals under 21 years of age. If a child under the age of 18 has provided us with personal information, a parent or guardian of that child should contact us at the email address or phone number listed in the section titled Requesting Removal of Your Information.
+### C. Cookies and Information Collected by Advertising Companies
 
-↑ top **Requesting Removal of Your Information**  
-At any time you may elect to be removed from our electronic or direct mailing lists by following the instructions for each type of communication as outlined below. You will be promptly removed from any further mailings. 
+When you visit MGM Web Sites, we use “cookies” and similar technologies to help us recognize and serve you better.  Cookies are small files that contain information sent by a web site that is saved on your computer’s hard drive.  Cookies enable us to gather data such as web pages visited, links clicked, and material download.  Cookies also are used to put a unique identifier on your computer.  This helps us to generate statistics regarding usage of MGM Web Sites, such as the percentage of repeat visitors.  In situations where it is possible to do so, this unique identifier may be linked to Personal Information.
 
-> **_Electronic Mail Lists_**  
->  To update our records with your request for all marketing and promotional-offer emails to cease, [click here to submit an automated removal request](http://promo.mandalaybay.com/forms/remove.php).
-> 
-> **_Postal Mail Lists_**  
->  To update our records with your request for all direct mail to cease, please contact us using one of the following methods.
->
->>  **Email:** Please send an email to [MBHpromotions@mrgmail.com](mailto:mbhpromotions@mrgmail.com) with the words "Direct Mail Removal Request" in the subject line. Please include your name and address in the body of the email. 
->> 
->> **Telephone:** Please call us at 1-888-529-4828, and ask to be removed from our mailing list. 
->> 
->> **Mail:** Please send your written request to: 
->>
->>> Attention: K. Pedersen  
->  Mandalay Bay Resort and Casino  
->  3950 Las Vegas Blvd. South  
->  Las Vegas, NV 89119
+There are different types of cookies including “browser” cookies (also known as html cookies) and Flash cookies (also known as Local Shared Objects).  You can configure your browser to reject browser cookies or to notify you when browser cookies are offered so that you can accept or reject such cookies.  However, if you reject browser cookies, you may not be able to conduct some transactions or use some services on MGM Web Sites.  In addition, blocking or deleting browser cookies may not block or delete other types of cookies including Flash cookies.  For information on blocking or deleting Flash cookies, click [here](http://www.adobe.com/cfusion/search/index.cfm?term=privacy&siteSection=downloads).
 
-↑ top **External Sites and Links**  
-Third party Internet sites and services accessible through mandalaybay.com, have separate privacy and data collection practices, independent of us. The company has no responsibility or liability for these independent policies or actions. You are solely responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you're online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your personal information, Mandalay Bay Resort and Casino or the Mandalay Resort Group cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
+Third-party advertising companies that work with us may also use cookies and similar technologies to collect Non-Personal information at the MGM Web Sites and other web sites for a variety of purposes including providing you with advertisements that are likely to be of interest to you.  This type of ad customization is sometimes referred to as “online behavioral advertising.”  For more details about cookies, web beacons, and similar technologies that may be used by third-party advertising companies, click [here](http://www.networkadvertising.org/).  If you would like more information about your choices concerning behavioral advertising, including how you may opt-out of some uses of information collected by members of the Network Advertising Initiative that may collect Non-Personal Information at the MGM Web Sites, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-This Privacy Policy specifically does not apply to the following MGM MIRAGE resorts, casinos, and websites: Bellagio ([www.bellagio.com](http://www.bellagio.com/)); MGM Grand Las Vegas ([www.mgmgrand.com](http://www.mgmgrand.com/)); The Mirage ([www.mirage.com](http://www.mirage.com/)); Treasure Island ([www.treasureisland.com](http://www.treasureisland.com/)); New York - New York Hotel and Casino ([www.nynyhotelcasino.com](http://www.nynyhotelcasino.com/)); Beau Rivage ([www.beaurivage.com](http://www.beaurivage.com/)); MGM Grand Detroit ([www.mgmdetroit.com](http://www.mgmdetroit.com/)); Primm Valley Resorts ([www.primmvalleyresorts.com](http://www.primmvalleyresorts.com/)); the Boardwalk Hotel and Casino ([www.boardwalklv.com](http://www.boardwalklv.com/)); Players Club ([www.playersclub.com](http://www.playersclub.com/)); Shadow Creek ([www.shadowcreek.com](http://www.shadowcreek.com/)); M lifestyle Magazine ([www.mlifestyle.com](http://www.mlifestyle.com/)); MGM MIRAGE Voice ([www.mgmmiragevoice.com](http://www.mgmmiragevoice.com/)); MGM MIRAGE Vacations ([www.mgmmiragevacations.com](http://www.mgmmiragevacations.com/)); MGM MIRAGE Voice Message Board (<https://secure02.mgm-mirage.com/voice/pages/forum>); and ([www.mgmmirage.com](http://www.mgmmirage.com/)).
+## II. HOW WE USE THE INFORMATION WE COLLECT
+
+### A. Uses by MGM Resorts International
+
+Except for Confidential Personal Information, we may use Personal Information and Non-Personal Information for our own marketing purposes, including, but not limited to, notifying you of special promotions, offers and events via postal mail, e-mail, telephone, text message, and other means. Confidential Personal Information will not be used for our own marketing purposes without your express consent.
+
+We may also use Personal Information and Non-Personal Information for non-marketing purposes.  Some examples of such use include (1) processing and fulfilling reservations or purchases; (2) conducting statistical or demographic analysis; (3) tracking reservations and corresponding hotel stays generated through our affiliate program and calculating or auditing commissions that may be paid in relation to a hotel stay; (4) customizing your experience at MGM Web Sites; and (5) responding to your inquiries or other communications.
+
+We may combine Personal Information with other generally or publicly available information to help us identify your preferences or interests.  Your Personal Information may also be merged with Personal Information available from other sources such as (1) companies that match e-mail addresses with postal addresses and other information; (2) credit card verification and credit services; and (3) other resorts, casinos, or properties that are owned, operated, or affiliated with MGM Resorts International or its subsidiaries.
+
+**If you do not want us to use your Personal Information for marketing purposes, you may opt-out of such uses by notifying us in accordance with Section III.B. below.**   Opting-out will not prevent your Personal Information from being used for non-marketing purposes.
+
+### B. Sharing within MGM Resorts International and with Subsidiaries
+
+Except for Confidential Personal Information, your Personal Information and Non-Personal Information may be shared for any purpose (1) among MGM Resorts International, MGM Resorts, and MGM Web Sites, and (2) with MGM Resorts International subsidiaries not covered by this Policy, and any other resorts, casinos, or other properties that are owned, operated by or affiliated with MGM Resorts International or its subsidiaries (collectively, “Subsidiaries”).  **If you do not want your Personal Information to be shared among MGM Resorts International, MGM Resorts and MGM Web Sites or with Subsidiaries for marketing purposes, you may opt-out of such sharing by notifying us in accordance with Section III.B. below.**
+
+Although you may request to opt-out of sharing Personal Information for marketing purposes, we may share Personal Information among MGM Resorts International, MGM Resorts and MGM Web Sites and with Subsidiaries for non-marketing purposes.  Confidential Personal Information will only be shared among MGM Resorts International, MGM Resorts, and MGM Web Sites and with Subsidiaries to the extent necessary to permit validation of your identity, completion of a purchase or credit transaction, recording of gaming-related activity (in jurisdictions where gaming is permitted), or other legitimate non-marketing business purposes.
+
+### C. Sharing With Business Partners and Other Third Parties
+
+Except for Confidential Personal Information, we may share your Personal Information with our business partners for joint marketing efforts, or for our business partners’ own marketing purposes.  When we provide Personal Information to our business partners, we require them to exercise reasonable care to protect your Personal Information and restrict the use of your Personal Information to the purposes for which it was provided to them.  **If you do not want us to share your Personal Information with business partners for marketing purposes, you may opt-out of such sharing by notifying us in accordance with Section III.B. below.**
+
+Although you may request to opt-out of sharing Personal Information with our business partners for marketing purposes, we may disclose Personal Information to our business partners and other third parties for the following purposes:
+
+(1) if you enroll in our responsible gaming program (in jurisdictions where gaming is permitted);   
+(2) for non-marketing purposes, such as processing and fulfilling reservations or purchases;   
+(3) in connection with a business transaction involving a sale, purchase, reorganization, or transfer to a third party of any of the assets of MGM Resorts International, any MGM Resorts, and/or any MGM Web Sites;   
+(4) to comply with a court order, subpoena, search warrant or other valid legal process;   
+(5) to comply with legal, regulatory or administrative requirements of any governmental authorities;   
+(6) to protect and defend MGM Resorts International, its subsidiaries and affiliates, and all of their officers, directors, employees, attorneys and agents in connection with any legal action, claim or dispute;   
+(7) to satisfy any contractual obligation to indemnify our contractors, business partners or other third parties in connection with any legal action, claim or dispute;   
+(8) to enforce the Terms of Use of MGM Web Sites;   
+(9) to prevent imminent physical harm or threats to public safety;   
+(10) to third-party vendors that MGM Resorts International may use to perform functions on behalf of MGM Resorts International, such as companies that process credit card transactions;   
+(11) to prevent fraud; and   
+(12) to engage in debt collection.
+
+When we provide Personal Information to our business partners and other third parties for such purposes, we require them (to the extent feasible) to exercise reasonable care to protect your Personal Information and restrict the use of your Personal Information to the purposes for which it was provided to them.
+
+## III. YOUR COMMUNICATION PREFERENCES
+
+###  A. Guestbooks
+
+By using our Guestbooks, you can view and update your Personal Information and choose which MGM Resorts and MGM Web Sites you are most interested in hearing from. You can also select from among various communications preferences including direct mail, e-mail, telemarketing, and text messaging.  To use our Guestbooks, visit any MGM Web Site and select "E-mail Promotions" or "Guestbook". If you are an M life Players Club member, you may update your communications preferences by visiting www.mlife.com, logging in to your account, and selecting "My Account".
+
+### B. How to Opt-Out
+
+If you wish to opt-out of receiving solicitations from us or do not want us to share your Personal Information with our business partners for marketing purposes, please email us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com), call (866) 761-7111, or write to:
+
+MGM Resorts International   
+Attn: Privacy Policy  
+840 Grier Drive Suite 200   
+Las Vegas, Nevada 89119
+
+If you do not want us to share your Personal Information among MGM Resorts and MGM Web Sites or with Subsidiaries for marketing purposes, you may e-mail us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com) or call (866) 761-7111.
+
+For information on how to opt-out of some uses of Non-Personal Information collected by third-party advertising companies at the MGM Web Sites, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+### C. Telemarketing
+
+Even if you registered your telephone number on a Do-Not-Call list, certain exemptions may allow us to contact you by telephone.  However, to ensure our customers' preferences are honored, we also maintain our own internal do-not-call list. If you would like to opt-out of receiving telemarketing sales calls from us by adding your telephone number to our internal do-not-call list, please click [here](http://www.mgmresorts.com/dnc/).
+
+## IV. SECURITY
+
+Personal Information and Non-Personal Information collected by MGM Resorts International, the MGM Web Sites and MGM Resorts are stored on secure servers, which are protected by firewalls and other industry standard security measures. These security measures are intended to protect these servers from unauthorized access. However, no security system is impenetrable, and these systems could become accessible in the event of a security breach.  We have controls in place that are designed to detect potential data breaches, contain and minimize the loss of data, and conduct forensic investigations of a breach.
+
+Our staff is required to take reasonable measures to ensure that unauthorized persons cannot view or access your Personal Information. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination.
+
+We cannot enforce or control the security of the computers, electronic devices, or electronic communication method that you may use to send e-mails and submit information to us over the Internet. You are responsible for ensuring that the computers, electronic devices and electronic communication methods you use will provide adequate security for communicating with us. We are not responsible for the disclosure or interception of information that you send us before we receive it.
+
+As a standard security practice, we will take reasonable steps which are standard in the industry to ensure that the communication methods used to support the MGM Web Sites do not permit connection or communication by methods that have known security weaknesses or vulnerabilities. As such, if you experience trouble using an MGM Web Site, it may be an indication that you need to upgrade your Internet browsing tool or application to a newer version that supports more secure communication methods.
+
+## V. OTHER WEB SITES
+
+We are not responsible for the information collection or privacy practices of other web sites, including web sites operated by our business partners or other third parties.  You should review and understand the privacy policies posted on any linked sites you visit before using those sites or providing any Personal Information.
+
+## VI. PERSONS UNDER AGES 18 AND 21
+
+Certain of our areas and activities are intended for persons 21 or older.  If you are under 21, we ask that you do not access or attempt to access any areas or participate in any activities that are restricted to persons 21 or older.  We do not knowingly collect or allow the collection of Personal Information from persons under 18. If you are the parent or guardian of a person under 18 and believe that the person has provided us with Personal Information, you may contact us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com) and request that it be deleted from our files.
+
+## VII. CHANGES TO THIS POLICY
+
+We reserve the right to revise this Policy at any time without notice. When this Policy is revised in a material way, notice will be posted on the MGM Web Sites along with the revised Policy. 
