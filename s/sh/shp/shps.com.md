@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shps.com privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325144841id_/http%3A//shps.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shps.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001103703id_/http%3A//shps.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | SHPS
 
@@ -36,4 +36,4 @@ SHPS utilizes proven methods to maintain the security of your information during
 
 SHPS offers several options for accessing your account information, including Web access, automated telephone service, customer service representative, mail, and e-mail. Specific addresses and telephone numbers are listed on your statements and other correspondence. 
 
-If you have questions or comments regarding this privacy policy, please [contact us](https://web.archive.org/web/20120325144841id_/http%3A//shps.com/contact-us/contact-form.htm). 
+If you have questions or comments regarding this privacy policy, please [contact us](https://web.archive.org/web/20121001103703id_/http%3A//shps.com/contact-us/contact-form.htm). 
