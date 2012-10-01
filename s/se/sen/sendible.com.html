@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sendible.com privacy policy that was archived on 2012-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502160614id_/http%3A//sendible.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sendible.com privacy policy that was archived on 2012-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121001075243id_/http%3A//sendible.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <style>
@@ -8,11 +8,31 @@
 		
 	}
 </style>
+<script type="text/javascript">
+//detect if mobile device...
+	
+function loadCookie(name){
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+	 if (screen.width <= 400 && loadCookie("affiliate") != "m.sendible.com") 
+	 {
+		document.location = 'http://m.sendible.com';
+     }
+
+</script>
 <title>Privacy Policy | Sendible</title>
 <meta name="verify-v1" content="HbzOm8fC1I3D2GgYN6KeNzoeO3TIn90WAPPHHEaiIE4=">
 <meta name="msvalidate.01" content="0E3E03B2BAC283109BFA0D47E03DA78C">
 <meta name="keywords" content="social media marketing, social media management, social media monitoring,email marketing software, sms marketing">
-<meta name="description" content="Sendible is a social media marketing, management &amp; monitoring platform that offers multiple features such as email marketing, sms marketing, facebook marketing &amp; more services to promote your brand.  ">
+<meta name="description" content="Plans and pricing">
 <meta name="google-site-verification" content="NJtWegNfoNiSxdRcLxiJkCzStBibROpiQMgHtzAFcmE">	
 <link rel="shortcut icon" href="/favicon.gif">
  <link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/redmond/jquery-ui.css">
@@ -20,11 +40,11 @@
 
 
 	
-<link href="https://d3u44nfepqqjcg.cloudfront.net/stylesheets/application.css?1300710933" media="screen" rel="stylesheet" type="text/css">
-<link href="https://d3u44nfepqqjcg.cloudfront.net/stylesheets/system/system.css?1300710982" media="screen" rel="stylesheet" type="text/css">
-<link href="https://d3u44nfepqqjcg.cloudfront.net/stylesheets/ui/facebox.css?1289855663" media="screen" rel="stylesheet" type="text/css">
-<link href="https://d3u44nfepqqjcg.cloudfront.net/stylesheets/system/datepicker.css?1289855656" media="screen" rel="stylesheet" type="text/css">
-<link href="https://d3u44nfepqqjcg.cloudfront.net/stylesheets/tooltip/tooltip.css?1289855660" media="screen" rel="stylesheet" type="text/css">
+<link href="https://s3.amazonaws.com/snd-assets/stylesheets/application.css?1347374850" media="screen" rel="stylesheet" type="text/css">
+<link href="https://s3.amazonaws.com/snd-assets/stylesheets/system/system.css?1347373340" media="screen" rel="stylesheet" type="text/css">
+<link href="https://s3.amazonaws.com/snd-assets/stylesheets/ui/facebox.css?1347373340" media="screen" rel="stylesheet" type="text/css">
+<link href="https://s3.amazonaws.com/snd-assets/stylesheets/system/datepicker.css?1347373340" media="screen" rel="stylesheet" type="text/css">
+<link href="https://s3.amazonaws.com/snd-assets/stylesheets/tooltip/tooltip.css?1347373340" media="screen" rel="stylesheet" type="text/css">
 
 
 
@@ -52,7 +72,7 @@
 
 <script>
 jQuery.noConflict();
-	
+
 </script>
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
@@ -94,10 +114,18 @@ background: #606060 url("https://s3.amazonaws.com/sendible-public/images/video.p
 
 }
 </style>
+<!--
+<li><a href="/insights"><img src="http://snd-assets.s3.amazonaws.com/logos/insights24.png" /></a></li>
+<li class="separator">|</li>
+-->
 <li><a href="/pricing">Pricing</a></li>
 <li class="separator">|</li>
 <li><a href="/features">Features</a></li>
-<li id="watchvideo"><a href="#" onclick="jQuery.fancybox('<iframe width=\'560\' height=\'349\' src=\'http://www.youtube.com/embed/sV_Q-rvBm3Q?autoplay=1&amp;rel=0\' frameborder=\'0\' allowfullscreen></iframe>');return false;">Watch a video</a></li>
+<li class="separator">|</li>
+<li><a href="/product-demo">Product Demo</a></li>
+<!--
+<li id="watchvideo"><a href="#" onclick="jQuery.fancybox('<iframe width=\'560\' height=\'349\' src=\'http://www.youtube.com/embed/sV_Q-rvBm3Q?autoplay=1&rel=0\' frameborder=\'0\' allowfullscreen></iframe>');return false;">Watch a video</a></li>
+-->
 <li class="separator">|</li>
 <li><a href="/pricing">Sign Up</a></li>
 <!--
@@ -123,10 +151,11 @@ background: #606060 url("https://s3.amazonaws.com/sendible-public/images/video.p
 
 </ul> 
 
+
 	</div>
 	
 	<div id="desc">
-	<p>Social Media Marketing, Management &amp; Monitoring: Sendible</p>
+	<p>Social Media Management, Monitoring &amp; Marketing Tools: Sendible</p>
 	
 	</div>
 	</div>
@@ -265,6 +294,13 @@ background: #606060 url("https://s3.amazonaws.com/sendible-public/images/video.p
 				<tr class="rw">
 					<td class="cll">
 						<div>
+					<a href="/product-demo">Product Demo</a>
+							</div>
+					</td>
+							</tr>
+				<tr class="rw">
+					<td class="cll">
+						<div>
 					<a href="/getting-started">Getting Started</a>
 							</div>
 					</td>
@@ -302,7 +338,7 @@ background: #606060 url("https://s3.amazonaws.com/sendible-public/images/video.p
 				<tr class="rw">
 					<td class="cll">
 					<div>
-					<a href="/affiliates"> Affiliate Program</a>
+					<a href="http://affiliates.sendible.com" target="_blank"> Affiliate Program</a>
 					</div>
 					</td>
 				</tr>
@@ -536,7 +572,7 @@ Any questions about this Privacy Policy should be addressed to support@sendible.
 			<li><a href="/white-label">White Labelling</a></li>
 			<li><a href="/agencies">For Agencies</a></li>
 			<li><a href="/developers">For Developers</a></li>
-			<li><a href="/affiliates">Affiliate Program</a></li>
+			<li><a href="http://affiliates.sendible.com" target="_blank">Affiliate Program</a></li>
 		
 		</ul>
 	</div>
@@ -544,7 +580,7 @@ Any questions about this Privacy Policy should be addressed to support@sendible.
 		<h4>Resources</h4>
 		<ul>
 			<li><a href="http://youtube.com/sendible" target="_blank">Videos</a></li>
-			<li><a href="http://sendto.fm/sendibleguide" target="_blank">User Manual</a></li>
+			<li><a href="http://sendible.com/usermanual/sendible/usermanual.html" target="_blank">User Manual</a></li>
 			<li><a href="http://code.google.com/p/sendible-api" target="_blank">API Documentation</a></li>
 			<li><a href="/tour/sendible-iphone-app">iPhone App</a></li>
 			<li><a href="/resources">Resources</a></li>
@@ -553,25 +589,49 @@ Any questions about this Privacy Policy should be addressed to support@sendible.
 	<div class="block">
 		<h4>Sendible</h4>
 		<ul>
+			<li><a href="http://sendible.com/insights" target="_blank" style="padding:4px; background: url(https://snd-assets.s3.amazonaws.com/logos/insights24.png) no-repeat;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
 			<li><a href="/about" target="_blank">About Us</a></li>
-			<li><a href="http://blog.sendible.com" target="_blank">Blog</a></li>
 			<!--<li><a href="http://twitter.com/sendible" target="_blank">Follow us on Twitter</a></li>
 			<li><a href="http://facebook.com/sendible" target="_blank">Become a Facebook Fan</a></li>-->
 			<li><a href="/terms">Terms of Service</a></li>
 			<li><a href="/privacy">Privacy Policy</a></li>
 			<li><a href="/testimonials">Testimonials</a></li>
 			<li><a href="/jobs">Jobs at Sendible</a></li>
+		
 		</ul>
 	</div>
 	
 	<div class="block">
 		<h4>Contact Us</h4>
 		<ul>
+			
 			<li><a href="/contact">Email Us</a></li>
 			<li><a href="http://support.sendible.com" target="_blank">Support Forums</a></li>
 			<li><a href="http://getsatisfaction.com/sendible" target="_blank">Get Satisfaction</a></li>
 			<li><a href="http://twitter.com/sendible" target="_blank">Twitter</a></li>
 			<li><a href="http://facebook.com/sendible" target="_blank">Facebook</a></li>
+			
+			<li style=" color: #999999;    text-shadow: 1px 1px #000000;">
+				<span style="width:16px; background-image: url(http://sendible-public.s3.amazonaws.com/images/us_flag.gif);
+				background-position: 0% 0px;
+				background-position-y: 2px;
+				background-repeat: no-repeat;
+				float: left;
+				height: 16px;
+				min-width: 22px;
+				width: 16px;"></span> 315 623 4480
+			</li>
+			<li style=" color: #999999;    text-shadow: 1px 1px #000000;">
+		
+				<span style="width:16px; background-image: url(http://sendible-public.s3.amazonaws.com/images/gb_flag.png);
+				background-position: 0% 0px;
+				background-position-y: 2px;
+				background-repeat: no-repeat;
+				float: left;
+				height: 16px;
+				min-width: 22px;
+				width: 16px;"></span> 208 123 1526
+			</li>
 		</ul>
 	</div>
 </div>
