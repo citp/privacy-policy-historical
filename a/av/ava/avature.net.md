@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avature.net privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602065101id_/http%3A//www.avaturecrm.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avature.net privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001222730id_/http%3A//www.avaturecrm.com/en/privacy-policy) for the most accurate reproduction.*
 
 # CRM + Web 2.0 = Avature CRM | Human Capital Management Software
 
