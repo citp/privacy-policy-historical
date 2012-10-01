@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508112347id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001073309id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaReviewChannel.com privacy policy
 
