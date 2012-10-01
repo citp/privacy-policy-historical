@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekoalition.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603002611id_/http%3A//thekoalition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekoalition.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001231841id_/http%3A//thekoalition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,3 +11,6 @@
 **Policy Changes:** The Koalition reserves the right to change this policy, in whole or part, at any time in its sole and absolute discretion, without prior notice, effective upon providing the updated policy on this website. If you have any questions concerning this policy, please submit your written questions to **legal@thekoalition.com**
 
 For policies concerning our merchandise please visit [Spreadshirts policy page](http://www.spreadshirt.com/us/US/-/Privacy-3259/).
+
+  
+
