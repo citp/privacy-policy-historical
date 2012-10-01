@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the intuit.co.uk privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501152750id_/http%3A//www.intuit.co.uk/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intuit.co.uk privacy policy that was archived on 2012-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121001150010id_/http%3A//www.intuit.co.uk/about/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Intuit UK - Privacy Policy</title>
@@ -147,7 +147,7 @@ display: inline;
 <div style="display:inline; postion: relative; padding-top:0px; margin-right:0px; align: right;">
 <div class="supernavDropdownLinkContainer" style=" position: relative; margin: 0px; padding-bottom: 0px; padding-top: 5px; padding-left: 7px; padding-right: 7px; text-align: left; text-indent: 0px;">
 <div style="postion: relative;">
-<a class="intuit-header-nav" title="Basket" href="/shop/secure/empty-cart.jsp">Basket</a>
+<a class="intuit-header-nav" title="Basket" href="/shop/secure/checkout-with-cart.jsp">Basket</a>
 </div>
 </div>
 </div>
@@ -218,7 +218,7 @@ $('#Right_4').removeClass('headerright-hover').addClass('headerright');
 <a class="intuit-header-nav" id="" href="/quickbooks/accounting-software/desktop/questions-answers.jsp" target="">About QuickBooks Desktop</a>
 </div>
 <div style="padding-right:5px; padding-left:5px; padding-top:5px; padding-bottom:5px; border: 0px solid #c3c3c3; margin-top:5px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="intuit-header-nav" id="" href="/quickbooks/accounting-software/desktop/questions-answers.jsp#dtreqs" target="">QuickBooks 2012 System Requirements</a>
+<a class="intuit-header-nav" id="" href="/quickbooks/accounting-software/desktop/questions-answers.jsp#dtreqs" target="">QuickBooks 2013 System Requirements</a>
 </div>
 </div>
 </div>
@@ -243,7 +243,7 @@ $('#Right_4').removeClass('headerright-hover').addClass('headerright');
 <div style="display:inline; postion: relative; padding-top:0px; margin-right:0px; align: right;">
 <div class="supernavDropdownLinkContainer" style=" position: relative; margin: 0px; padding-bottom: 0px; padding-top: 5px; padding-left: 7px; padding-right: 7px; text-align: left; text-indent: 0px;">
 <div style="postion: relative;">
-<a class="intuit-header-nav" title="Support" href="http://support.intuit.co.uk">Support</a>
+<a class="intuit-header-nav" title="QuickBooks Support - call 0808 168 9535" href="http://support.intuit.co.uk">QuickBooks Support - call 0808 168 9535</a>
 </div>
 </div>
 </div>
@@ -258,6 +258,37 @@ $('#Right_4').removeClass('headerright-hover').addClass('headerright');
 <a href="http://uk.qbo.intuit.com" target="_blank" name="" rel="" onclick="_gaq.push(['_trackEvent', 'Button Clicks', 'Site-Wide','Sign-in']);">
 <img src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/buttons/new/sign-in-secondary-small.png" height="23" width="76" alt="Sign-in" title="Sign-in"></a>
 </div>
+<ul><li>
+<div class="sign_in_content" style=" z-index: 9; padding:10px; border: 1px solid #cccccc; background: #ffffff; width:110px;">
+<script type="text/javascript">
+var timeout = 500;
+var closetimer = 0;
+function signin_open() {
+signin_canceltimer();
+$('.sign_in_content').slideDown("fast");
+$('.sign_in_content').css('visibility', 'visible');
+}
+function signin_canceltimer(){
+if(closetimer){
+window.clearTimeout(closetimer);
+closetimer = null; }
+}
+function signin_close(){
+$(".sign_in_content").css('visibility', 'hidden');
+}
+function signin_timer(){
+closetimer = window.setTimeout(signin_close, timeout);
+}
+$(document).ready(function(){
+$('li.sign_in > div').bind('mouseover', signin_open);
+$('li.sign_in > ul').bind('mouseover', signin_canceltimer);
+$('li.sign_in').bind('mouseleave', signin_timer);
+});
+</script>
+<p style="text-align: right; "><a href="/proadvisors/login.jsp">ProAdvisors</a></p>
+<p style="text-align: right; "><a href="http://uk.qbo.intuit.com/" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Button Clicks\', \'Site-Wide\',\'Login to QBO\']);">QuickBooks Online</a></p>
+</div>
+</li></ul>
 </li>
 </ul>
 </div>
@@ -288,19 +319,26 @@ return true;
 }
 // IF AGENTS ARE NOT AVAILABLE:
 function agents_not_available() {
-document.getElementById('smartbutton').innerHTML = '';
+/* Fix for Ticket #2373 by NGA */
+var elmSmartButton = document.getElementById('smartbutton');
+if (elmSmartButton != null) {
+elmSmartButton.innerHTML = '';
+}
 return true;
 }
 //-->
 </script>
-<script type="text/javascript">document.write('<img src="https://admin.instantservice.com/resources/smartbutton/6252/24956/available.gif?' + Math.floor(Math.random()*10001) + '" style="width:0;height:0;visibility:hidden;position:absolute;" onLoad="agents_available()" onError="agents_not_available()">');</script><img src="https://admin.instantservice.com/resources/smartbutton/6252/24956/available.gif?610" style="width:0;height:0;visibility:hidden;position:absolute;" onload="agents_available()" onerror="agents_not_available()"><div id="smartbutton"></div>
+<functionalgroup>
+<script type="text/javascript">document.write('<img src="https://admin.instantservice.com/resources/smartbutton/6252/24956/available.gif?' + Math.floor(Math.random()*10001) + '" style="width:0;height:0;visibility:hidden;position:absolute;" onLoad="agents_available()" onError="agents_not_available()">');</script><img src="https://admin.instantservice.com/resources/smartbutton/6252/24956/available.gif?7198" style="width:0;height:0;visibility:hidden;position:absolute;" onload="agents_available()" onerror="agents_not_available()">
+</functionalgroup>
+<div id="smartbutton"></div>
 </td>
 </tr></tbody></table>
 </div>
-<div style="position:relative; top:-10px; padding-top: -20px; display:inline-block; width:122px; border: 0px solid #c3c3c3;">
+<div style="position:relative; top:-10px; padding-top: -20px; display:inline-block; width:294px; border: 0px solid #c3c3c3;">
 <div class="mboxDefault">
 <a href="http://www.intuit.co.uk" target="" name="" rel="" onclick="">
-<img src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/intuit-logo.png" height="54" width="122" alt="Intuit UK" title="Intuit UK"></a>
+<img src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/intuit-uk-logo.png" height="52" width="294" alt="Intuit UK" title="Intuit UK"></a>
 </div><script language="JavaScript1.2">mboxCreate('UK_Header_Logo');</script>
 </div>
 </div>
@@ -335,6 +373,22 @@ width:8px;
 .nav-right-active{
 background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-nav-righthover.jpg) top center;
 width:8px;
+}
+.homelink-active{
+float:left; 
+height:46px;
+width: 49px; 
+display:inline-block; 
+border: 0px solid #c3c3c3; 
+background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/home-inverse.png);
+}
+.homelink-inactive{
+float:left; 
+height:46px; 
+width: 49px;
+display:inline-block; 
+border: 0px solid #c3c3c3; 
+background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-nav-home.jpg);
 }
 a.topmenu-nav:link,a.topmenu-nav:active,a.topmenu-nav:visited,a.topmenu-nav:hover
 {
@@ -464,14 +518,14 @@ margin-top: 20px;
 <img src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-nav-left.jpg" height="46px" width="5px">
 </div>
 <div id="headerlink" style="float:left; height:46px; display:inline-block; border: 0px solid #c3c3c3;">
-<a class="topmenu-nav" id="TopMenu_1" href="/index.jsp" target="">
-<img src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-nav-home.jpg" height="46px" width="49px">
+<a class="topmenu-nav" id="TopMenu_1" href="/" target="">
+<img src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-nav-home.jpg" height="46px" width="49px"> 
 </a>
 </div>
 <div class="nav-main" id="TopMenu_2" style="float:left;">
 <div class="nav-left" id="Left_TopMenu_2" style="float: left; height:46px; border: 0px solid #c3c3c3;">&nbsp;</div>
 <div style="padding-top:16px; padding-left:12px; padding-right:15px; float: left;">
-<a class="topmenu-nav" id="TopMenu_2" href="/quickbooks/accounting-software/index.jsp" target="">
+<a class="topmenu-nav" id="TopMenu_2" href="/quickbooks/accounting-software.jsp" target="">
 Accounting Software
 </a>
 </div>
@@ -489,7 +543,7 @@ Payroll Products
 <div class="nav-main" id="TopMenu_4" style="float:left;">
 <div class="nav-left" id="Left_TopMenu_4" style="float: left; height:46px; border: 0px solid #c3c3c3;">&nbsp;</div>
 <div style="padding-top:16px; padding-left:12px; padding-right:15px; float: left;">
-<a class="topmenu-nav" id="TopMenu_4" href="/community/index.jsp" target="">
+<a class="topmenu-nav" id="TopMenu_4" href="/small-business-resources.jsp" target="">
 Small Business Resources
 </a>
 </div>
@@ -497,6 +551,143 @@ Small Business Resources
 </div>
 <div style="float:right; height:46px; display:inline-block; border: 0px solid #c3c3c3;">
 <img src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-nav-right.jpg" height="46px" width="5px">
+</div>
+<script type="text/javascript" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/cookies.js"></script>
+<script>
+var searchControllerPath = '/search/controller/smallBusinessController.html';
+Set_Cookie("searchControllerPath",searchControllerPath,"1","/",Get_Top_Lvl_Domain(document.domain),false);
+</script>
+<div style="position: relative; float: right; padding-top: 10px; padding-right: 7px;">
+<style type="text/css">
+#searchBox {
+float: left;
+width:125px;
+margin-left:2px;
+background-color:#fff;
+border:none;
+position:relative;
+vertical-align:top;
+padding-top:4px;
+outline: none;
+color:grey;
+}
+#searchBox:focus {
+color:black;
+}
+#searchBoxContainer {
+margin-left:0px;
+width:175px;
+height:25px;
+border: solid 1px;
+border-color: grey;
+border-radius: 3px;
+-moz-border-radius: 3px;
+padding:0px;
+background-color:white;
+}
+</style>
+<!--[if IE]-->
+<style type="text/css">
+.searchimage{
+margin-top: 0px;
+}
+</style>
+<!--[endif]-->
+<!--[if !IE]-->
+<style type="text/css">
+.searchimage{
+float: right;
+vertical-align:top;
+display:inline;
+padding-bottom:0px;
+padding-top:2px;
+margin-top: 0px;
+}
+</style>
+<!--[endif]-->
+<div id="searchBoxContainer">
+<!-- GA
+<script type="text/javascript"> 
+var curUrl = window.location.href;
+var isSearchResults = curUrl.indexOf("search-results.jsp");
+if (isSearchResults != -1){
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-15555944-1']);
+_gaq.push(['_setDomainName', '.intuit.co.uk']);
+_gaq.push(['_setCampNameKey', 'priorityCode']); // utm_campaign
+_gaq.push(['_setCampSourceKey', 'cnm']); // utm_source
+_gaq.push(['_setCampMediumKey', 'src']); // utm_medium
+if (typeof(pageNotFound) == 'undefined')
+{
+_gaq.push(['_trackPageview']);
+}
+else
+{
+_gaq.push(['_trackPageview',pageNotFound]);
+}
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+}
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-15555944-2");
+var searchUrl = window.location.href + '?q=';
+</script>
+//-->
+<script type="text/javascript">
+function onClickSearchBox(theSearchBox, defaultTxt) {
+if (theSearchBox.value == defaultTxt) {
+theSearchBox.value = "";
+} else {
+theSearchBox.select();
+}
+}
+function onBlurSearchBox(theSearchBox, defaultTxt) {
+if (theSearchBox.value == "") {
+theSearchBox.value = defaultTxt;
+}
+}
+function validateSearchBoxForm(theForm, defaultTxt, errorMsg) {
+//alert("in validation form");
+//alert("defaultText: " + defaultTxt);
+if (theForm.searchText.value == defaultTxt || theForm.searchText.value == "") {
+//alert("validating default text");
+theForm.searchText.focus();
+theForm.searchText.select();
+alert(errorMsg);
+return false;
+} else {
+//alert(pageTracker);
+//Google analytics check
+if (typeof pageTracker != "undefined"){
+pageTracker._trackPageview(searchUrl + theForm.searchText.value);
+}
+//site catalyst search code defined in the tracking services segment in CMS
+if (catalystSearchTerm == "yes"){
+var enteredSearchTerm = theForm.searchText.value;
+}
+if (catalystSearchPage == "yes"){
+var sourceSearchPage = window.location.href;
+}
+var searchEventSuccessful = true;
+submitSearchMetrics(enteredSearchTerm, sourceSearchPage, searchEventSuccessful);
+return true;
+}
+}
+</script>
+<form name="searchBoxForm" action="/search/search-results.jsp" method="get" onsubmit="return validateSearchBoxForm(this, 'Search','Please enter a search term prior to searching.');">
+<input type="text" id="searchBox" value="Search" name="searchText" onmouseup="return false;" onclick="onClickSearchBox(this, 'Search');" onblur="onBlurSearchBox(this, 'Search');">
+<input class="searchimage" type="image" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.ca/images/search-40x30.gif" width="25" height="20" alt="Search">
+<input name="cmsLanguage" type="hidden" value="en">
+</form>
+</div>
 </div>
 </div>
 <div class="uksub-navigation-class" id="uksub-navigation" style="width:950px; height:32px; display:inline-block; border: 0px solid #c3c3c3; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-subnav-back.jpg);">
@@ -514,7 +705,7 @@ Small Business Resources
 <div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_1');" onmouseout="resetMenu('Menu_1');">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_1_1" href="/about/index.jsp" target="">Introducing Intuit</a>
+<a class="drop-nav" id="Menu_1_1" href="/about.jsp" target="">Introducing Intuit</a>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
 <a class="drop-nav" id="Menu_1_2" href="/about/news-events-press-centre.jsp" target="">News, Events and Media Information</a>
@@ -574,7 +765,7 @@ Small Business Resources
 <div style="float:left;" class="subnav-main" id="Div_Menu_1" onmouseover="selectMenu('Menu_1');" onmouseout="resetMenu('Menu_1');">
 <div class="subnav-left" id="Left_Menu_1" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3;float:left;">
-<a class="sub-nav" name="/index.jsp" id="Menu_1" href="javascript:;" target="" rel="1_menu">
+<a class="sub-nav" name="/" id="Menu_1" href="javascript:;" target="" rel="1_menu">
 About Intuit
 </a>
 </div>
@@ -583,7 +774,7 @@ About Intuit
 <div style="float: left;" class="subnav-main" id="Div_Menu_2" onmouseover="selectMenu('Menu_2');" onmouseout="resetMenu('Menu_2');">
 <div class="subnav-left" id="Left_Menu_2" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/index.jsp" id="Menu_2" href="#" target="" rel="2_menu">
+<a class="sub-nav" name="/" id="Menu_2" href="javascript:;" target="" rel="2_menu">
 Contact Us
 </a>
 </div>
@@ -595,46 +786,50 @@ Contact Us
 </div>
 <!--googleoff: index-->
 <!--googleoff: snippet-->
-<span id="AdditionalURL_1" class="additional-urls" style="display: none;">/index.jsp|/index.jsp</span>
-<span id="AdditionalURL_2" class="additional-urls" style="display: none;">/index.jsp|/about/contactus.jsp</span>
-<span id="AdditionalURL_3" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-news.jsp</span>
-<span id="AdditionalURL_4" class="additional-urls" style="display: none;">/index.jsp|/about/contactus.jsp</span>
-<span id="AdditionalURL_5" class="additional-urls" style="display: none;">/index.jsp|/about/our-values.jsp</span>
-<span id="AdditionalURL_6" class="additional-urls" style="display: none;">/index.jsp|/about/legal.jsp</span>
-<span id="AdditionalURL_7" class="additional-urls" style="display: none;">/index.jsp|/about/our-people.jsp</span>
-<span id="AdditionalURL_8" class="additional-urls" style="display: none;">/index.jsp|/about/our-people.jsp</span>
-<span id="AdditionalURL_9" class="additional-urls" style="display: none;">/index.jsp|/about/company-profile.jsp</span>
-<span id="AdditionalURL_10" class="additional-urls" style="display: none;">/index.jsp|/about/cash-flow-killer.jsp</span>
-<span id="AdditionalURL_11" class="additional-urls" style="display: none;">/index.jsp|/about/quickbooks-online-mobile-media-alert.jsp</span>
-<span id="AdditionalURL_12" class="additional-urls" style="display: none;">/index.jsp|/about/get-a-job.jsp</span>
-<span id="AdditionalURL_13" class="additional-urls" style="display: none;">/index.jsp|/about/working-with-businesses.jsp</span>
-<span id="AdditionalURL_14" class="additional-urls" style="display: none;">/index.jsp|/about/quickbooks-online-press-release.jsp</span>
-<span id="AdditionalURL_15" class="additional-urls" style="display: none;">/index.jsp|/about/7-in-10-small-business-owners-opt-for-work-cations.jsp</span>
-<span id="AdditionalURL_16" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-named-founding-sponsor-of-startup-britain.jsp</span>
-<span id="AdditionalURL_17" class="additional-urls" style="display: none;">/index.jsp|/about/global-entrepreneurship-week.jsp</span>
-<span id="AdditionalURL_18" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-joins-startup-britain-bus-tour.jsp</span>
-<span id="AdditionalURL_19" class="additional-urls" style="display: none;">/index.jsp|/about/privacy.jsp</span>
-<span id="AdditionalURL_20" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-news.jsp</span>
-<span id="AdditionalURL_21" class="additional-urls" style="display: none;">/index.jsp|/about/online-security.jsp</span>
-<span id="AdditionalURL_22" class="additional-urls" style="display: none;">/index.jsp|/about/news-quickbooks-2012-launch.jsp</span>
-<span id="AdditionalURL_23" class="additional-urls" style="display: none;">/index.jsp|/about/financial-fitness-training.jsp</span>
-<span id="AdditionalURL_24" class="additional-urls" style="display: none;">/index.jsp|/about/bis-and-intuit-partner-to-deliver-new-financial-skills-programme-for-british-business.jsp</span>
-<span id="AdditionalURL_25" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-and-bcsg-to-host-financial-fitness-workshops-at-the-business-start-up-show.jsp</span>
-<span id="AdditionalURL_26" class="additional-urls" style="display: none;">/index.jsp|/about/Intuit-Report-Finds-Britains-Start-ups-Strapped-for-Cash.jsp</span>
-<span id="AdditionalURL_27" class="additional-urls" style="display: none;">/index.jsp|/about/fund101-launches-to-help-fill-finance-gap.jsp</span>
-<span id="AdditionalURL_28" class="additional-urls" style="display: none;">/index.jsp|/about/news-financial-fitness-workshop.jsp</span>
-<span id="AdditionalURL_29" class="additional-urls" style="display: none;">/index.jsp|/about/news-events-press-centre.jsp</span>
-<span id="AdditionalURL_30" class="additional-urls" style="display: none;">/index.jsp|/about/small-business-finance-training.jsp</span>
-<span id="AdditionalURL_31" class="additional-urls" style="display: none;">/index.jsp|/about/news-events-press-centre.jsp</span>
-<span id="AdditionalURL_32" class="additional-urls" style="display: none;">/index.jsp|/about/small-business-finance-training.jsp</span>
-<span id="AdditionalURL_33" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-announced-as-headline-sponsor-for-global-entrepreneurship-congress-2012.jsp</span>
-<span id="AdditionalURL_34" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-offers-300-small-businesses-practical-help-at-global-entrepreneurship-congress-in-liverpool.jsp</span>
-<span id="AdditionalURL_35" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-backs-uk-government-and-startup-britains-business-in-you-campaign.jsp</span>
-<span id="AdditionalURL_36" class="additional-urls" style="display: none;">/index.jsp|/about/the-prime-minister-visits-intuit-uk.jsp</span>
-<span id="AdditionalURL_37" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-gives-young-entrepreneurs-ticket-to-success-with-100up-competition.jsp</span>
-<span id="AdditionalURL_38" class="additional-urls" style="display: none;">/index.jsp|/about/investors-in-people-recognises-intuit-uk-with-gold-award.jsp</span>
-<span id="AdditionalURL_39" class="additional-urls" style="display: none;">/index.jsp|/about/Intuit-100Up.jsp</span>
-<span id="AdditionalURL_40" class="additional-urls" style="display: none;">/index.jsp|</span>
+<span id="AdditionalURL_1" class="additional-urls" style="display: none;">/|/index.jsp</span>
+<span id="AdditionalURL_2" class="additional-urls" style="display: none;">/|/about/contactus.jsp</span>
+<span id="AdditionalURL_3" class="additional-urls" style="display: none;">/|/about/intuit-news.jsp</span>
+<span id="AdditionalURL_4" class="additional-urls" style="display: none;">/|/about/contactus.jsp</span>
+<span id="AdditionalURL_5" class="additional-urls" style="display: none;">/|/about/our-values.jsp</span>
+<span id="AdditionalURL_6" class="additional-urls" style="display: none;">/|/about/legal.jsp</span>
+<span id="AdditionalURL_7" class="additional-urls" style="display: none;">/|/about/our-people.jsp</span>
+<span id="AdditionalURL_8" class="additional-urls" style="display: none;">/|/about/our-people.jsp</span>
+<span id="AdditionalURL_9" class="additional-urls" style="display: none;">/|/about/company-profile.jsp</span>
+<span id="AdditionalURL_10" class="additional-urls" style="display: none;">/|/about/cash-flow-killer.jsp</span>
+<span id="AdditionalURL_11" class="additional-urls" style="display: none;">/|/about/quickbooks-online-mobile-media-alert.jsp</span>
+<span id="AdditionalURL_12" class="additional-urls" style="display: none;">/|/about/get-a-job.jsp</span>
+<span id="AdditionalURL_13" class="additional-urls" style="display: none;">/|/about/working-with-businesses.jsp</span>
+<span id="AdditionalURL_14" class="additional-urls" style="display: none;">/|/about/quickbooks-online-press-release.jsp</span>
+<span id="AdditionalURL_15" class="additional-urls" style="display: none;">/|/about/7-in-10-small-business-owners-opt-for-work-cations.jsp</span>
+<span id="AdditionalURL_16" class="additional-urls" style="display: none;">/|/about/intuit-named-founding-sponsor-of-startup-britain.jsp</span>
+<span id="AdditionalURL_17" class="additional-urls" style="display: none;">/|/about/global-entrepreneurship-week.jsp</span>
+<span id="AdditionalURL_18" class="additional-urls" style="display: none;">/|/about/intuit-joins-startup-britain-bus-tour.jsp</span>
+<span id="AdditionalURL_19" class="additional-urls" style="display: none;">/|/about/privacy.jsp</span>
+<span id="AdditionalURL_20" class="additional-urls" style="display: none;">/|/about/opt-out.jsp</span>
+<span id="AdditionalURL_21" class="additional-urls" style="display: none;">/|/about/intuit-news.jsp</span>
+<span id="AdditionalURL_22" class="additional-urls" style="display: none;">/|/about/online-security.jsp</span>
+<span id="AdditionalURL_23" class="additional-urls" style="display: none;">/|/about/news-quickbooks-2012-launch.jsp</span>
+<span id="AdditionalURL_24" class="additional-urls" style="display: none;">/|/about/financial-fitness-training.jsp</span>
+<span id="AdditionalURL_25" class="additional-urls" style="display: none;">/|/about/bis-and-intuit-partner-to-deliver-new-financial-skills-programme-for-british-business.jsp</span>
+<span id="AdditionalURL_26" class="additional-urls" style="display: none;">/|/about/intuit-and-bcsg-to-host-financial-fitness-workshops-at-the-business-start-up-show.jsp</span>
+<span id="AdditionalURL_27" class="additional-urls" style="display: none;">/|/about/Intuit-Report-Finds-Britains-Start-ups-Strapped-for-Cash.jsp</span>
+<span id="AdditionalURL_28" class="additional-urls" style="display: none;">/|/about/fund101-launches-to-help-fill-finance-gap.jsp</span>
+<span id="AdditionalURL_29" class="additional-urls" style="display: none;">/|/about/news-financial-fitness-workshop.jsp</span>
+<span id="AdditionalURL_30" class="additional-urls" style="display: none;">/|/about/news-events-press-centre.jsp</span>
+<span id="AdditionalURL_31" class="additional-urls" style="display: none;">/|/about/small-business-finance-training.jsp</span>
+<span id="AdditionalURL_32" class="additional-urls" style="display: none;">/|/about/news-events-press-centre.jsp</span>
+<span id="AdditionalURL_33" class="additional-urls" style="display: none;">/|/about/small-business-finance-training.jsp</span>
+<span id="AdditionalURL_34" class="additional-urls" style="display: none;">/|/about/intuit-announced-as-headline-sponsor-for-global-entrepreneurship-congress-2012.jsp</span>
+<span id="AdditionalURL_35" class="additional-urls" style="display: none;">/|/about/intuit-offers-300-small-businesses-practical-help-at-global-entrepreneurship-congress-in-liverpool.jsp</span>
+<span id="AdditionalURL_36" class="additional-urls" style="display: none;">/|/about/intuit-backs-uk-government-and-startup-britains-business-in-you-campaign.jsp</span>
+<span id="AdditionalURL_37" class="additional-urls" style="display: none;">/|/about/the-prime-minister-visits-intuit-uk.jsp</span>
+<span id="AdditionalURL_38" class="additional-urls" style="display: none;">/|/about/intuit-gives-young-entrepreneurs-ticket-to-success-with-100up-competition.jsp</span>
+<span id="AdditionalURL_39" class="additional-urls" style="display: none;">/|/about/investors-in-people-recognises-intuit-uk-with-gold-award.jsp</span>
+<span id="AdditionalURL_40" class="additional-urls" style="display: none;">/|/about/Intuit-100Up.jsp</span>
+<span id="AdditionalURL_41" class="additional-urls" style="display: none;">/|/about/quickbooks-online-growing-globally.jsp</span>
+<span id="AdditionalURL_42" class="additional-urls" style="display: none;">/|/about/intuit-named-as-the-uk-number-one-best-small-workplaces-2012.jsp</span>
+<span id="AdditionalURL_43" class="additional-urls" style="display: none;">/|/about/nationwide-scheme-gets-britains-small-businesses-into-shape.jsp</span>
+<span id="AdditionalURL_44" class="additional-urls" style="display: none;">/|/about.jsp</span>
 <!--googleon: snippet-->
 <!--googleon: index--> 
 </div>
@@ -653,7 +848,7 @@ Contact Us
 <div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_11');" onmouseout="resetMenu('Menu_11');">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_11_1" href="/about/index.jsp" target="">Introducing Intuit</a>
+<a class="drop-nav" id="Menu_11_1" href="/about.jsp" target="">Introducing Intuit</a>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
 <a class="drop-nav" id="Menu_11_2" href="/about/news-events-press-centre.jsp" target="">News, Events and Media Information</a>
@@ -713,7 +908,7 @@ Contact Us
 <div style="float:left;" class="subnav-main" id="Div_Menu_11" onmouseover="selectMenu('Menu_11');" onmouseout="resetMenu('Menu_11');">
 <div class="subnav-left" id="Left_Menu_11" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3;float:left;">
-<a class="sub-nav" name="/index.jsp" id="Menu_11" href="javascript:;" target="" rel="11_menu">
+<a class="sub-nav" name="/" id="Menu_11" href="javascript:;" target="" rel="11_menu">
 About Intuit
 </a>
 </div>
@@ -722,7 +917,7 @@ About Intuit
 <div style="float: left;" class="subnav-main" id="Div_Menu_21" onmouseover="selectMenu('Menu_21');" onmouseout="resetMenu('Menu_21');">
 <div class="subnav-left" id="Left_Menu_21" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/index.jsp" id="Menu_21" href="#" target="" rel="21_menu">
+<a class="sub-nav" name="/" id="Menu_21" href="javascript:;" target="" rel="21_menu">
 Contact Us
 </a>
 </div>
@@ -734,46 +929,50 @@ Contact Us
 </div>
 <!--googleoff: index-->
 <!--googleoff: snippet-->
-<span id="AdditionalURL_1" class="additional-urls" style="display: none;">/index.jsp|/index.jsp</span>
-<span id="AdditionalURL_2" class="additional-urls" style="display: none;">/index.jsp|/about/contactus.jsp</span>
-<span id="AdditionalURL_3" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-news.jsp</span>
-<span id="AdditionalURL_4" class="additional-urls" style="display: none;">/index.jsp|/about/contactus.jsp</span>
-<span id="AdditionalURL_5" class="additional-urls" style="display: none;">/index.jsp|/about/our-values.jsp</span>
-<span id="AdditionalURL_6" class="additional-urls" style="display: none;">/index.jsp|/about/legal.jsp</span>
-<span id="AdditionalURL_7" class="additional-urls" style="display: none;">/index.jsp|/about/our-people.jsp</span>
-<span id="AdditionalURL_8" class="additional-urls" style="display: none;">/index.jsp|/about/our-people.jsp</span>
-<span id="AdditionalURL_9" class="additional-urls" style="display: none;">/index.jsp|/about/company-profile.jsp</span>
-<span id="AdditionalURL_10" class="additional-urls" style="display: none;">/index.jsp|/about/cash-flow-killer.jsp</span>
-<span id="AdditionalURL_11" class="additional-urls" style="display: none;">/index.jsp|/about/quickbooks-online-mobile-media-alert.jsp</span>
-<span id="AdditionalURL_12" class="additional-urls" style="display: none;">/index.jsp|/about/get-a-job.jsp</span>
-<span id="AdditionalURL_13" class="additional-urls" style="display: none;">/index.jsp|/about/working-with-businesses.jsp</span>
-<span id="AdditionalURL_14" class="additional-urls" style="display: none;">/index.jsp|/about/quickbooks-online-press-release.jsp</span>
-<span id="AdditionalURL_15" class="additional-urls" style="display: none;">/index.jsp|/about/7-in-10-small-business-owners-opt-for-work-cations.jsp</span>
-<span id="AdditionalURL_16" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-named-founding-sponsor-of-startup-britain.jsp</span>
-<span id="AdditionalURL_17" class="additional-urls" style="display: none;">/index.jsp|/about/global-entrepreneurship-week.jsp</span>
-<span id="AdditionalURL_18" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-joins-startup-britain-bus-tour.jsp</span>
-<span id="AdditionalURL_19" class="additional-urls" style="display: none;">/index.jsp|/about/privacy.jsp</span>
-<span id="AdditionalURL_20" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-news.jsp</span>
-<span id="AdditionalURL_21" class="additional-urls" style="display: none;">/index.jsp|/about/online-security.jsp</span>
-<span id="AdditionalURL_22" class="additional-urls" style="display: none;">/index.jsp|/about/news-quickbooks-2012-launch.jsp</span>
-<span id="AdditionalURL_23" class="additional-urls" style="display: none;">/index.jsp|/about/financial-fitness-training.jsp</span>
-<span id="AdditionalURL_24" class="additional-urls" style="display: none;">/index.jsp|/about/bis-and-intuit-partner-to-deliver-new-financial-skills-programme-for-british-business.jsp</span>
-<span id="AdditionalURL_25" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-and-bcsg-to-host-financial-fitness-workshops-at-the-business-start-up-show.jsp</span>
-<span id="AdditionalURL_26" class="additional-urls" style="display: none;">/index.jsp|/about/Intuit-Report-Finds-Britains-Start-ups-Strapped-for-Cash.jsp</span>
-<span id="AdditionalURL_27" class="additional-urls" style="display: none;">/index.jsp|/about/fund101-launches-to-help-fill-finance-gap.jsp</span>
-<span id="AdditionalURL_28" class="additional-urls" style="display: none;">/index.jsp|/about/news-financial-fitness-workshop.jsp</span>
-<span id="AdditionalURL_29" class="additional-urls" style="display: none;">/index.jsp|/about/news-events-press-centre.jsp</span>
-<span id="AdditionalURL_30" class="additional-urls" style="display: none;">/index.jsp|/about/small-business-finance-training.jsp</span>
-<span id="AdditionalURL_31" class="additional-urls" style="display: none;">/index.jsp|/about/news-events-press-centre.jsp</span>
-<span id="AdditionalURL_32" class="additional-urls" style="display: none;">/index.jsp|/about/small-business-finance-training.jsp</span>
-<span id="AdditionalURL_33" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-announced-as-headline-sponsor-for-global-entrepreneurship-congress-2012.jsp</span>
-<span id="AdditionalURL_34" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-offers-300-small-businesses-practical-help-at-global-entrepreneurship-congress-in-liverpool.jsp</span>
-<span id="AdditionalURL_35" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-backs-uk-government-and-startup-britains-business-in-you-campaign.jsp</span>
-<span id="AdditionalURL_36" class="additional-urls" style="display: none;">/index.jsp|/about/the-prime-minister-visits-intuit-uk.jsp</span>
-<span id="AdditionalURL_37" class="additional-urls" style="display: none;">/index.jsp|/about/intuit-gives-young-entrepreneurs-ticket-to-success-with-100up-competition.jsp</span>
-<span id="AdditionalURL_38" class="additional-urls" style="display: none;">/index.jsp|/about/investors-in-people-recognises-intuit-uk-with-gold-award.jsp</span>
-<span id="AdditionalURL_39" class="additional-urls" style="display: none;">/index.jsp|/about/Intuit-100Up.jsp</span>
-<span id="AdditionalURL_40" class="additional-urls" style="display: none;">/index.jsp|</span>
+<span id="AdditionalURL_1" class="additional-urls" style="display: none;">/|/index.jsp</span>
+<span id="AdditionalURL_2" class="additional-urls" style="display: none;">/|/about/contactus.jsp</span>
+<span id="AdditionalURL_3" class="additional-urls" style="display: none;">/|/about/intuit-news.jsp</span>
+<span id="AdditionalURL_4" class="additional-urls" style="display: none;">/|/about/contactus.jsp</span>
+<span id="AdditionalURL_5" class="additional-urls" style="display: none;">/|/about/our-values.jsp</span>
+<span id="AdditionalURL_6" class="additional-urls" style="display: none;">/|/about/legal.jsp</span>
+<span id="AdditionalURL_7" class="additional-urls" style="display: none;">/|/about/our-people.jsp</span>
+<span id="AdditionalURL_8" class="additional-urls" style="display: none;">/|/about/our-people.jsp</span>
+<span id="AdditionalURL_9" class="additional-urls" style="display: none;">/|/about/company-profile.jsp</span>
+<span id="AdditionalURL_10" class="additional-urls" style="display: none;">/|/about/cash-flow-killer.jsp</span>
+<span id="AdditionalURL_11" class="additional-urls" style="display: none;">/|/about/quickbooks-online-mobile-media-alert.jsp</span>
+<span id="AdditionalURL_12" class="additional-urls" style="display: none;">/|/about/get-a-job.jsp</span>
+<span id="AdditionalURL_13" class="additional-urls" style="display: none;">/|/about/working-with-businesses.jsp</span>
+<span id="AdditionalURL_14" class="additional-urls" style="display: none;">/|/about/quickbooks-online-press-release.jsp</span>
+<span id="AdditionalURL_15" class="additional-urls" style="display: none;">/|/about/7-in-10-small-business-owners-opt-for-work-cations.jsp</span>
+<span id="AdditionalURL_16" class="additional-urls" style="display: none;">/|/about/intuit-named-founding-sponsor-of-startup-britain.jsp</span>
+<span id="AdditionalURL_17" class="additional-urls" style="display: none;">/|/about/global-entrepreneurship-week.jsp</span>
+<span id="AdditionalURL_18" class="additional-urls" style="display: none;">/|/about/intuit-joins-startup-britain-bus-tour.jsp</span>
+<span id="AdditionalURL_19" class="additional-urls" style="display: none;">/|/about/privacy.jsp</span>
+<span id="AdditionalURL_20" class="additional-urls" style="display: none;">/|/about/opt-out.jsp</span>
+<span id="AdditionalURL_21" class="additional-urls" style="display: none;">/|/about/intuit-news.jsp</span>
+<span id="AdditionalURL_22" class="additional-urls" style="display: none;">/|/about/online-security.jsp</span>
+<span id="AdditionalURL_23" class="additional-urls" style="display: none;">/|/about/news-quickbooks-2012-launch.jsp</span>
+<span id="AdditionalURL_24" class="additional-urls" style="display: none;">/|/about/financial-fitness-training.jsp</span>
+<span id="AdditionalURL_25" class="additional-urls" style="display: none;">/|/about/bis-and-intuit-partner-to-deliver-new-financial-skills-programme-for-british-business.jsp</span>
+<span id="AdditionalURL_26" class="additional-urls" style="display: none;">/|/about/intuit-and-bcsg-to-host-financial-fitness-workshops-at-the-business-start-up-show.jsp</span>
+<span id="AdditionalURL_27" class="additional-urls" style="display: none;">/|/about/Intuit-Report-Finds-Britains-Start-ups-Strapped-for-Cash.jsp</span>
+<span id="AdditionalURL_28" class="additional-urls" style="display: none;">/|/about/fund101-launches-to-help-fill-finance-gap.jsp</span>
+<span id="AdditionalURL_29" class="additional-urls" style="display: none;">/|/about/news-financial-fitness-workshop.jsp</span>
+<span id="AdditionalURL_30" class="additional-urls" style="display: none;">/|/about/news-events-press-centre.jsp</span>
+<span id="AdditionalURL_31" class="additional-urls" style="display: none;">/|/about/small-business-finance-training.jsp</span>
+<span id="AdditionalURL_32" class="additional-urls" style="display: none;">/|/about/news-events-press-centre.jsp</span>
+<span id="AdditionalURL_33" class="additional-urls" style="display: none;">/|/about/small-business-finance-training.jsp</span>
+<span id="AdditionalURL_34" class="additional-urls" style="display: none;">/|/about/intuit-announced-as-headline-sponsor-for-global-entrepreneurship-congress-2012.jsp</span>
+<span id="AdditionalURL_35" class="additional-urls" style="display: none;">/|/about/intuit-offers-300-small-businesses-practical-help-at-global-entrepreneurship-congress-in-liverpool.jsp</span>
+<span id="AdditionalURL_36" class="additional-urls" style="display: none;">/|/about/intuit-backs-uk-government-and-startup-britains-business-in-you-campaign.jsp</span>
+<span id="AdditionalURL_37" class="additional-urls" style="display: none;">/|/about/the-prime-minister-visits-intuit-uk.jsp</span>
+<span id="AdditionalURL_38" class="additional-urls" style="display: none;">/|/about/intuit-gives-young-entrepreneurs-ticket-to-success-with-100up-competition.jsp</span>
+<span id="AdditionalURL_39" class="additional-urls" style="display: none;">/|/about/investors-in-people-recognises-intuit-uk-with-gold-award.jsp</span>
+<span id="AdditionalURL_40" class="additional-urls" style="display: none;">/|/about/Intuit-100Up.jsp</span>
+<span id="AdditionalURL_41" class="additional-urls" style="display: none;">/|/about/quickbooks-online-growing-globally.jsp</span>
+<span id="AdditionalURL_42" class="additional-urls" style="display: none;">/|/about/intuit-named-as-the-uk-number-one-best-small-workplaces-2012.jsp</span>
+<span id="AdditionalURL_43" class="additional-urls" style="display: none;">/|/about/nationwide-scheme-gets-britains-small-businesses-into-shape.jsp</span>
+<span id="AdditionalURL_44" class="additional-urls" style="display: none;">/|/about.jsp</span>
 <!--googleon: snippet-->
 <!--googleon: index--> 
 </div>
@@ -796,10 +995,7 @@ cssdropdown.startchrome("uksub-chromemenu1")
 <div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_12');" onmouseout="resetMenu('Menu_12');">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_12_1" href="/quickbooks/accounting-software/why-quickbooks/benefits-of-accounting-software.jsp" target="">Why Use Accounting Software</a>
-</div>
-<div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_12_2" href="/quickbooks/accounting-software/why-quickbooks/advantages-of-quickbooks.jsp" target="">Advantages of QuickBooks</a>
+<a class="drop-nav" id="Menu_12_1" href="/quickbooks/accounting-software/why-quickbooks/benefits-of-quickbooks.jsp" target="">Benefits of QuickBooks</a>
 </div>
 </div>
 </div>
@@ -821,7 +1017,7 @@ cssdropdown.startchrome("uksub-chromemenu1")
 <td valign="top" style="width: 16px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-left.png) top left repeat-y;">
 <div style="border-top: 1px solid #b2d8eb; float:right; width: 11px;">&nbsp;</div>
 </td><td>
-<div style="width:auto;background-color:#ffffff;float:left;" id="Menu_22_2" onmouseover="selectMenu('Menu_22');" onmouseout="resetMenu('Menu_22');">
+<div style="width:auto;background-color:#ffffff;float:left;" id="Menu_22_1" onmouseover="selectMenu('Menu_22');" onmouseout="resetMenu('Menu_22');">
 <div style="width:auto; float:left; padding-top:15px; padding-left:20px; padding-right:10px; padding-bottom:20px; border: 0px solid #c3c3c3;">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
@@ -829,7 +1025,7 @@ cssdropdown.startchrome("uksub-chromemenu1")
 <div style="line-height: 15px; padding-left:8px; padding-bottom:8px; margin-top:0px;">
 Manage your business, anytime,<br>
 anywhere. Works with your Mac<br>
-or PC
+or PC and on your mobile device
 </div>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
@@ -855,7 +1051,7 @@ or PC
 <div style="line-height: 15px; padding-left:8px; padding-bottom:8px; margin-top:0px;">
 Great for current QuickBooks users,<br>
 or businesses that want to track stock<br>
-or integrate <a href="/quickbooks/payroll/quickbooks-pro-payroll.jsp" target="_self">Payroll</a>. PC only.
+or integrate <a target="_self" href="/quickbooks/payroll/quickbooks-pro-payroll.jsp">Payroll</a>. PC only.
 </div>
 </div>
 <div style=" padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
@@ -868,16 +1064,19 @@ or integrate <a href="/quickbooks/payroll/quickbooks-pro-payroll.jsp" target="_s
 <a class="drop-nav" id="Menu_22_4" href="/quickbooks/accounting-software/desktop/quickbooks-premier.jsp" target="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»&nbsp;Premier</a>
 </div>
 <div style=" padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_22_5" href="/quickbooks/enterprise-accounting/index.jsp" target="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»&nbsp;Enterprise Solutions</a>
+<a class="drop-nav" id="Menu_22_5" href="/quickbooks/enterprise-accounting.jsp" target="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»&nbsp;Enterprise Solutions</a>
 </div>
 <div style=" padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_22_6" href="/quickbooks/accounting-software/desktop/compare-quickbooks-products.jsp" target="">Compare QuickBooks Desktop</a>
+<a class="drop-nav" id="Menu_22_6" href="/quickbooks/accounting-software/accountants/quickbooks-accountant-edition.jsp" target="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»&nbsp;Accountant Edition</a>
 </div>
 <div style=" padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_22_7" href="/quickbooks/accounting-software/upgrade/upgrade-quickbooks.jsp" target="">Already using QuickBooks?</a>
+<a class="drop-nav" id="Menu_22_7" href="/quickbooks/accounting-software/desktop/upgrade/upgrade-quickbooks.jsp" target="">Upgrade QuickBooks</a>
 </div>
 <div style=" padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_22_8" href="/quickbooks/accounting-software/desktop/help-me-choose.jsp" target="">Help Me Choose</a>
+<a class="drop-nav" id="Menu_22_8" href="/quickbooks/accounting-software/desktop/compare-quickbooks-products.jsp" target="">Compare QuickBooks Desktop</a>
+</div>
+<div style=" padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
+<a class="drop-nav" id="Menu_22_9" href="/quickbooks/accounting-software/desktop/help-me-choose.jsp" target="">Help Me Choose</a>
 </div>
 </div>
 </div>
@@ -899,31 +1098,20 @@ or integrate <a href="/quickbooks/payroll/quickbooks-pro-payroll.jsp" target="_s
 <td valign="top" style="width: 16px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-left.png) top left repeat-y;">
 <div style="border-top: 1px solid #b2d8eb; float:right; width: 11px;">&nbsp;</div>
 </td><td>
-<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_32_8">
+<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_32_9">
 <div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_32');" onmouseout="resetMenu('Menu_32');">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_32_1" href="/quickbooks/add-ons/legal-services/legal-documents-advice.jsp" target="">Legal Documents &amp; Advice</a>
-<div style="line-height: 15px; padding-left:8px; padding-bottom:8px; margin-top:0px;">
-Create customised business legal documents and<br>
-get advice from lawyers to comply with employment<br>
-and health and safety law.
-</div>
+<a class="drop-nav" id="Menu_32_1" href="/quickbooks/add-ons/quickbooks-support.jsp" target="">Extended Support</a>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_32_2" href="/quickbooks/payroll/index.jsp" target="">Payroll Products</a>
+<a class="drop-nav" id="Menu_32_2" href="/quickbooks/add-ons/stationery.jsp" target="">Stationery</a>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_32_3" href="/quickbooks/add-ons/quickbooks-support.jsp" target="">Extended Support</a>
+<a class="drop-nav" id="Menu_32_3" href="/quickbooks/add-ons/merchant-services.jsp" target="">Merchant Services</a>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_32_4" href="/quickbooks/add-ons/stationery.jsp" target="">Stationery</a>
-</div>
-<div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_32_5" href="/quickbooks/add-ons/merchant-services.jsp" target="">Merchant Services</a>
-</div>
-<div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_32_6" href="/quickbooks/add-ons/remote-access.jsp" target="">Remote Access for QuickBooks Desktop</a>
+<a class="drop-nav" id="Menu_32_4" href="/quickbooks/add-ons/remote-access.jsp" target="">Remote Access for QuickBooks Desktop</a>
 </div>
 </div>
 </div>
@@ -945,11 +1133,19 @@ and health and safety law.
 <td valign="top" style="width: 16px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-left.png) top left repeat-y;">
 <div style="border-top: 1px solid #b2d8eb; float:right; width: 11px;">&nbsp;</div>
 </td><td>
-<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_42_6">
+<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_42_4">
 <div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_42');" onmouseout="resetMenu('Menu_42');">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_42_1" href="/quickbooks/accounting-software/proadvisor/index.jsp" target="">ProAdvisor Programme Overview</a>
+<a class="drop-nav" id="Menu_42_1" href="/quickbooks/accounting-software/accountants/quickbooks-accountant-edition.jsp" target="">QuickBooks Accountant Edition</a>
+<div style="line-height: 15px; padding-left:8px; padding-bottom:8px; margin-top:0px;">
+Designed to help accounting professionals <br>
+save time and collaborate more efficiently <br>
+with their clients.
+</div>
+</div>
+<div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
+<a class="drop-nav" id="Menu_42_2" href="/quickbooks/accounting-software/proadvisor.jsp" target="">ProAdvisor Programme Overview</a>
 <div style="line-height: 15px; padding-left:8px; padding-bottom:8px; margin-top:0px;">
 The QuickBooks ProAdvisor Programme<br>
 is an exclusive programme for accountants, <br>
@@ -957,16 +1153,16 @@ bookkeepers and business consultants.
 </div>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_42_2" href="/quickbooks/accounting-software/proadvisor/software-discounts.jsp" target="">» Software &amp; Discounts</a>
+<a class="drop-nav" id="Menu_42_3" href="/quickbooks/accounting-software/proadvisor/software-discounts.jsp" target="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»&nbsp;Software &amp; Discounts</a>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_42_3" href="/quickbooks/accounting-software/proadvisor/help-support.jsp" target="">» Support</a>
+<a class="drop-nav" id="Menu_42_4" href="/quickbooks/accounting-software/proadvisor/help-support.jsp" target="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»&nbsp;Support</a>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_42_4" href="/quickbooks/accounting-software/proadvisor/training-resources.jsp" target="">» Training Programme</a>
+<a class="drop-nav" id="Menu_42_5" href="/quickbooks/accounting-software/proadvisor/training-resources.jsp" target="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»&nbsp;Training Programme</a>
 </div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_42_5" href="/proadvisors/login.jsp" target="_blank">Site Login (existing members)</a>
+<a class="drop-nav" id="Menu_42_6" href="/proadvisors/login.jsp" target="_blank">ProAdvisor Member Website</a>
 </div>
 </div>
 </div>
@@ -988,7 +1184,7 @@ bookkeepers and business consultants.
 <td valign="top" style="width: 16px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-left.png) top left repeat-y;">
 <div style="border-top: 1px solid #b2d8eb; float:right; width: 11px;">&nbsp;</div>
 </td><td>
-<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_52_5">
+<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_52_6">
 <div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_52');" onmouseout="resetMenu('Menu_52');">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
@@ -1011,7 +1207,7 @@ bookkeepers and business consultants.
 <div style="float:left;" class="subnav-main" id="Div_Menu_12" onmouseover="selectMenu('Menu_12');" onmouseout="resetMenu('Menu_12');">
 <div class="subnav-left" id="Left_Menu_12" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3;float:left;">
-<a class="sub-nav" name="/quickbooks/accounting-software/index.jsp" id="Menu_12" href="javascript:;" target="" rel="12_menu">
+<a class="sub-nav" name="/quickbooks/accounting-software.jsp" id="Menu_12" href="javascript:;" target="" rel="12_menu">
 QuickBooks Overview
 </a>
 </div>
@@ -1020,7 +1216,7 @@ QuickBooks Overview
 <div style="float: left;" class="subnav-main" id="Div_Menu_22" onmouseover="selectMenu('Menu_22');" onmouseout="resetMenu('Menu_22');">
 <div class="subnav-left" id="Left_Menu_22" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/quickbooks/accounting-software/index.jsp" id="Menu_22" href="javascript:;" target="" rel="22_menu">
+<a class="sub-nav" name="/quickbooks/accounting-software.jsp" id="Menu_22" href="javascript:;" target="" rel="22_menu">
 QuickBooks Products
 </a>
 </div>
@@ -1029,7 +1225,7 @@ QuickBooks Products
 <div style="float: left;" class="subnav-main" id="Div_Menu_32" onmouseover="selectMenu('Menu_32');" onmouseout="resetMenu('Menu_32');">
 <div class="subnav-left" id="Left_Menu_32" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/quickbooks/accounting-software/index.jsp" id="Menu_32" href="javascript:;" target="" rel="32_menu">
+<a class="sub-nav" name="/quickbooks/accounting-software.jsp" id="Menu_32" href="javascript:;" target="" rel="32_menu">
 Extras
 </a>
 </div>
@@ -1038,7 +1234,7 @@ Extras
 <div style="float: left;" class="subnav-main" id="Div_Menu_42" onmouseover="selectMenu('Menu_42');" onmouseout="resetMenu('Menu_42');">
 <div class="subnav-left" id="Left_Menu_42" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/quickbooks/accounting-software/index.jsp" id="Menu_42" href="javascript:;" target="" rel="42_menu">
+<a class="sub-nav" name="/quickbooks/accounting-software.jsp" id="Menu_42" href="javascript:;" target="" rel="42_menu">
 For Accountants &amp; Bookkeepers
 </a>
 </div>
@@ -1047,7 +1243,7 @@ For Accountants &amp; Bookkeepers
 <div style="float: left;" class="subnav-main" id="Div_Menu_52" onmouseover="selectMenu('Menu_52');" onmouseout="resetMenu('Menu_52');">
 <div class="subnav-left" id="Left_Menu_52" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/quickbooks/accounting-software/index.jsp" id="Menu_52" href="#" target="" rel="52_menu">
+<a class="sub-nav" name="/quickbooks/accounting-software.jsp" id="Menu_52" href="javascript:;" target="" rel="52_menu">
 Local QuickBooks Help
 </a>
 </div>
@@ -1059,84 +1255,112 @@ Local QuickBooks Help
 </div>
 <!--googleoff: index-->
 <!--googleoff: snippet-->
-<span id="AdditionalURL_1" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/quickbooks-software.jsp</span>
-<span id="AdditionalURL_2" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/see-it-in-action.jsp</span>
-<span id="AdditionalURL_3" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/online-bookkeeping-software.jsp</span>
-<span id="AdditionalURL_4" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/buy-quickbooks-pro.jsp</span>
-<span id="AdditionalURL_5" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/buy-quickbooks-premier.jsp</span>
-<span id="AdditionalURL_6" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/buy-quickbooks-simplestart.jsp</span>
-<span id="AdditionalURL_7" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/why-quickbooks/choose-quickbooks.jsp</span>
-<span id="AdditionalURL_8" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/buy-quickbooks-premier-plus.jsp</span>
-<span id="AdditionalURL_9" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/help-me-choose.jsp</span>
-<span id="AdditionalURL_10" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/help-me-choose.jsp</span>
-<span id="AdditionalURL_11" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/help-me-choose.jsp</span>
-<span id="AdditionalURL_12" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/affiliates/quickbooks-software-download1.jsp</span>
-<span id="AdditionalURL_13" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/affiliates/quickbooks-software-download2.jsp</span>
-<span id="AdditionalURL_14" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/accountants/quickbooks-premier.jsp</span>
-<span id="AdditionalURL_15" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/questions-answers.jsp</span>
-<span id="AdditionalURL_16" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/questions-answers.jsp</span>
-<span id="AdditionalURL_17" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/questions-answers.jsp</span>
-<span id="AdditionalURL_18" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/testimonials/customer-story-big-green-factory.jsp</span>
-<span id="AdditionalURL_19" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/testimonials/quickbooks-customer-story-call-of-the-wild.jsp</span>
-<span id="AdditionalURL_20" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/quickbooks-premier-plus.jsp</span>
-<span id="AdditionalURL_21" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/upgrade/whats-new-in-quickbooks-comparison.jsp</span>
-<span id="AdditionalURL_22" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/add-ons/index.jsp</span>
-<span id="AdditionalURL_23" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/add-ons/merchant-services.jsp</span>
-<span id="AdditionalURL_24" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/add-ons/quickbooks-support.jsp</span>
-<span id="AdditionalURL_25" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/online-data-storage-security.jsp</span>
-<span id="AdditionalURL_26" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/questions-answers.jsp</span>
-<span id="AdditionalURL_27" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/proadvisors/downloads.jsp</span>
-<span id="AdditionalURL_28" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/proadvisors/resources.jsp</span>
-<span id="AdditionalURL_29" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/proadvisors/contact-us.jsp</span>
-<span id="AdditionalURL_30" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/proadvisors/index.jsp</span>
-<span id="AdditionalURL_31" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/add-ons/remote-access.jsp</span>
-<span id="AdditionalURL_32" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/accounting-on-mac.jsp</span>
-<span id="AdditionalURL_33" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/online-accounting-package.jsp</span>
-<span id="AdditionalURL_34" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/quicken-uk-software.jsp</span>
-<span id="AdditionalURL_35" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/about/entrepreneur-day.jsp</span>
-<span id="AdditionalURL_36" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/accounting-VAT-software-2.jsp</span>
-<span id="AdditionalURL_37" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/accounting-VAT-software.jsp</span>
-<span id="AdditionalURL_38" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/bookkeeping-small-business-software.jsp</span>
-<span id="AdditionalURL_39" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/business-invoicing-software.jsp</span>
-<span id="AdditionalURL_40" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/business-budgets-cashflow-forecasts.jsp</span>
-<span id="AdditionalURL_41" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/50for50/index.jsp</span>
-<span id="AdditionalURL_42" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/50for50/upgrade-to-quickbooks-2012.jsp</span>
-<span id="AdditionalURL_43" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/50for50/save-20-percent-on-quickbooks-software.jsp</span>
-<span id="AdditionalURL_44" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/why-quickbooks/why-accounting-software-old.jsp</span>
-<span id="AdditionalURL_45" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/why-quickbooks/why-accounting-software.jsp</span>
-<span id="AdditionalURL_46" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/landing/online-accounting-software.jsp</span>
-<span id="AdditionalURL_47" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/accounting-software-package.jsp</span>
-<span id="AdditionalURL_48" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/why-quickbooks/why-quickbooks.jsp</span>
-<span id="AdditionalURL_49" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/accountants/proadvisor/premier.jsp</span>
-<span id="AdditionalURL_50" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/accounting-software-for-designers.jsp</span>
-<span id="AdditionalURL_51" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/accounting-software-for-growing-businesses.jsp</span>
-<span id="AdditionalURL_52" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/accounting-software-for-macs.jsp</span>
-<span id="AdditionalURL_53" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/accounting-software-for-start-ups.jsp</span>
-<span id="AdditionalURL_54" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/anywhere-anytime-accounting-software.jsp</span>
-<span id="AdditionalURL_55" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/landing/accounting-software-for-tradesmen.jsp</span>
-<span id="AdditionalURL_56" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/proadvisor/premier.jsp</span>
-<span id="AdditionalURL_57" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/quickbooks-pro.jsp</span>
-<span id="AdditionalURL_58" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/payroll/add-payroll-pro.jsp</span>
-<span id="AdditionalURL_59" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/quickbooks-pro-payroll.jsp</span>
-<span id="AdditionalURL_60" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/payroll/add-payroll-premier.jsp</span>
-<span id="AdditionalURL_61" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/products-pricing.jsp</span>
-<span id="AdditionalURL_62" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/why-quickbooks/benefits-of-accounting-software.jsp</span>
-<span id="AdditionalURL_63" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/add-ons/legal-services/legal-documents-advice.jsp</span>
-<span id="AdditionalURL_64" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/new-homepage.jsp</span>
-<span id="AdditionalURL_65" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/online/landing/win-an-office-makeover.jsp</span>
-<span id="AdditionalURL_66" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/enterprise-accounting/business-finance-software-upgrade.jsp</span>
-<span id="AdditionalURL_67" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/enterprise-accounting/business-financial-software.jsp</span>
-<span id="AdditionalURL_68" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/enterprise-accounting/business-finance-software-myths.jsp</span>
-<span id="AdditionalURL_69" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/enterprise-accounting/business-finance-software-features.jsp</span>
-<span id="AdditionalURL_70" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/enterprise-accounting/business-finance-software-faq.jsp</span>
-<span id="AdditionalURL_71" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/enterprise-accounting/business-finance-software-free-webinars.jsp</span>
-<span id="AdditionalURL_72" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/enterprise-accounting/index.jsp</span>
-<span id="AdditionalURL_73" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/download-one-giant-leap-report-thank-you.jsp</span>
-<span id="AdditionalURL_74" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/download-one-giant-leap-report.jsp</span>
-<span id="AdditionalURL_75" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/landing/quickbooks-economic-calendar.jsp</span>
-<span id="AdditionalURL_76" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/tt/stock-bundle-premier.jsp</span>
-<span id="AdditionalURL_77" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/tt/stock-bundle-pro.jsp</span>
-<span id="AdditionalURL_78" class="additional-urls" style="display: none;">/quickbooks/accounting-software/index.jsp|/quickbooks/accounting-software/desktop/please-call-us.jsp</span>
+<span id="AdditionalURL_1" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/quickbooks-software.jsp</span>
+<span id="AdditionalURL_2" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/see-it-in-action.jsp</span>
+<span id="AdditionalURL_3" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/online-bookkeeping-software.jsp</span>
+<span id="AdditionalURL_4" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/buy-quickbooks-pro.jsp</span>
+<span id="AdditionalURL_5" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/buy-quickbooks-premier.jsp</span>
+<span id="AdditionalURL_6" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/buy-quickbooks-simplestart.jsp</span>
+<span id="AdditionalURL_7" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/why-quickbooks/choose-quickbooks.jsp</span>
+<span id="AdditionalURL_8" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/buy-quickbooks-premier-plus.jsp</span>
+<span id="AdditionalURL_9" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/help-me-choose.jsp</span>
+<span id="AdditionalURL_10" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/help-me-choose.jsp</span>
+<span id="AdditionalURL_11" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/help-me-choose.jsp</span>
+<span id="AdditionalURL_12" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/affiliates/quickbooks-software-download1.jsp</span>
+<span id="AdditionalURL_13" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/affiliates/quickbooks-software-download2.jsp</span>
+<span id="AdditionalURL_14" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/accountants/quickbooks-premier.jsp</span>
+<span id="AdditionalURL_15" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/questions-answers.jsp</span>
+<span id="AdditionalURL_16" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/questions-answers.jsp</span>
+<span id="AdditionalURL_17" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/questions-answers.jsp</span>
+<span id="AdditionalURL_18" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/testimonials/customer-story-big-green-factory.jsp</span>
+<span id="AdditionalURL_19" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/testimonials/quickbooks-customer-story-call-of-the-wild.jsp</span>
+<span id="AdditionalURL_20" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/quickbooks-premier-plus.jsp</span>
+<span id="AdditionalURL_21" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/upgrade/whats-new-in-quickbooks-comparison.jsp</span>
+<span id="AdditionalURL_22" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/add-ons/index.jsp</span>
+<span id="AdditionalURL_23" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/add-ons/merchant-services.jsp</span>
+<span id="AdditionalURL_24" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/add-ons/quickbooks-support.jsp</span>
+<span id="AdditionalURL_25" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/online-data-storage-security.jsp</span>
+<span id="AdditionalURL_26" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/questions-answers.jsp</span>
+<span id="AdditionalURL_27" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/proadvisors/downloads.jsp</span>
+<span id="AdditionalURL_28" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/proadvisors/resources.jsp</span>
+<span id="AdditionalURL_29" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/proadvisors/contact-us.jsp</span>
+<span id="AdditionalURL_30" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/proadvisors/index.jsp</span>
+<span id="AdditionalURL_31" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/add-ons/remote-access.jsp</span>
+<span id="AdditionalURL_32" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/accounting-on-mac.jsp</span>
+<span id="AdditionalURL_33" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/online-accounting-package.jsp</span>
+<span id="AdditionalURL_34" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/quicken-uk-software.jsp</span>
+<span id="AdditionalURL_35" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/about/entrepreneur-day.jsp</span>
+<span id="AdditionalURL_36" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/accounting-VAT-software-2.jsp</span>
+<span id="AdditionalURL_37" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/accounting-VAT-software.jsp</span>
+<span id="AdditionalURL_38" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/bookkeeping-small-business-software.jsp</span>
+<span id="AdditionalURL_39" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/business-invoicing-software.jsp</span>
+<span id="AdditionalURL_40" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/business-budgets-cashflow-forecasts.jsp</span>
+<span id="AdditionalURL_41" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/50for50/index.jsp</span>
+<span id="AdditionalURL_42" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/50for50/upgrade-to-quickbooks-2012.jsp</span>
+<span id="AdditionalURL_43" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/50for50/save-20-percent-on-quickbooks-software.jsp</span>
+<span id="AdditionalURL_44" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/why-quickbooks/why-accounting-software-old.jsp</span>
+<span id="AdditionalURL_45" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/why-quickbooks/why-accounting-software.jsp</span>
+<span id="AdditionalURL_46" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/landing/online-accounting-software.jsp</span>
+<span id="AdditionalURL_47" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/accounting-software-package.jsp</span>
+<span id="AdditionalURL_48" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/why-quickbooks/why-quickbooks.jsp</span>
+<span id="AdditionalURL_49" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/accountants/proadvisor/premier.jsp</span>
+<span id="AdditionalURL_50" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/accounting-software-for-designers.jsp</span>
+<span id="AdditionalURL_51" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/accounting-software-for-growing-businesses.jsp</span>
+<span id="AdditionalURL_52" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/accounting-software-for-macs.jsp</span>
+<span id="AdditionalURL_53" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/accounting-software-for-start-ups.jsp</span>
+<span id="AdditionalURL_54" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/anywhere-anytime-accounting-software.jsp</span>
+<span id="AdditionalURL_55" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/accounting-software-for-tradesmen.jsp</span>
+<span id="AdditionalURL_56" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/proadvisor/premier.jsp</span>
+<span id="AdditionalURL_57" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/quickbooks-pro.jsp</span>
+<span id="AdditionalURL_58" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/payroll/add-payroll-pro.jsp</span>
+<span id="AdditionalURL_59" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/quickbooks-pro-payroll.jsp</span>
+<span id="AdditionalURL_60" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/payroll/add-payroll-premier.jsp</span>
+<span id="AdditionalURL_61" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/products-pricing.jsp</span>
+<span id="AdditionalURL_62" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/why-quickbooks/benefits-of-quickbooks.jsp</span>
+<span id="AdditionalURL_63" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/add-ons/legal-services/legal-documents-advice.jsp</span>
+<span id="AdditionalURL_64" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/new-homepage.jsp</span>
+<span id="AdditionalURL_65" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/landing/win-an-office-makeover.jsp</span>
+<span id="AdditionalURL_66" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/enterprise-accounting/business-finance-software-upgrade.jsp</span>
+<span id="AdditionalURL_67" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/enterprise-accounting/business-financial-software.jsp</span>
+<span id="AdditionalURL_68" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/enterprise-accounting/business-finance-software-myths.jsp</span>
+<span id="AdditionalURL_69" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/enterprise-accounting/business-finance-software-features.jsp</span>
+<span id="AdditionalURL_70" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/enterprise-accounting/business-finance-software-faq.jsp</span>
+<span id="AdditionalURL_71" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/enterprise-accounting/business-finance-software-free-webinars.jsp</span>
+<span id="AdditionalURL_72" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/enterprise-accounting.jsp</span>
+<span id="AdditionalURL_73" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/download-one-giant-leap-report-thank-you.jsp</span>
+<span id="AdditionalURL_74" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/download-one-giant-leap-report.jsp</span>
+<span id="AdditionalURL_75" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/landing/quickbooks-economic-calendar.jsp</span>
+<span id="AdditionalURL_76" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/tt/stock-bundle-premier.jsp</span>
+<span id="AdditionalURL_77" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/tt/stock-bundle-pro.jsp</span>
+<span id="AdditionalURL_78" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/please-call-us.jsp</span>
+<span id="AdditionalURL_79" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/quickbooks-desktop-software.jsp</span>
+<span id="AdditionalURL_80" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/online/quickbooks-online-software.jsp</span>
+<span id="AdditionalURL_81" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/upgrade-to-quickbooks-pro.jsp</span>
+<span id="AdditionalURL_82" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/free-trial/pro-trial.jsp</span>
+<span id="AdditionalURL_83" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/free-trial/premier-trial.jsp</span>
+<span id="AdditionalURL_84" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/proadvisor/landing/join-the-quickbooks-proadvisor-programme-today.jsp</span>
+<span id="AdditionalURL_85" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/proadvisors/training-and-certification.jsp</span>
+<span id="AdditionalURL_86" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/affiliates/quickbooks-software-download3.jsp</span>
+<span id="AdditionalURL_87" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/enterprise-accounting/buy-quickbooks-enterprise-solutions.jsp</span>
+<span id="AdditionalURL_88" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/free-trial/enterprise-trial.html</span>
+<span id="AdditionalURL_89" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/free-trial/enterprise-trial-thanks.jsp</span>
+<span id="AdditionalURL_90" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/free-trial/pro-trial-thanks.jsp</span>
+<span id="AdditionalURL_91" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/free-trial/premier-trial-thanks.jsp</span>
+<span id="AdditionalURL_92" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/quickbooks-for-dummies.jsp</span>
+<span id="AdditionalURL_93" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/london-loves-business.jsp</span>
+<span id="AdditionalURL_94" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/affiliates/proadvisor-affiliate-programme.jsp</span>
+<span id="AdditionalURL_95" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/affiliates/quickbooks-online1.jsp</span>
+<span id="AdditionalURL_96" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/upgrade/whats-new-in-quickbooks-pro.jsp</span>
+<span id="AdditionalURL_97" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/upgrade/whats-new-in-quickbooks-premier.jsp</span>
+<span id="AdditionalURL_98" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/accountants/buy-quickbooks-accountant-edition.jsp</span>
+<span id="AdditionalURL_99" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/buy-proadvisor-membership.jsp</span>
+<span id="AdditionalURL_100" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/desktop/upgrade/upgrade-quickbooks.jsp</span>
+<span id="AdditionalURL_101" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/add-ons.jsp</span>
+<span id="AdditionalURL_102" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/payroll.jsp</span>
+<span id="AdditionalURL_103" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/landing/upgrade-pro.jsp</span>
+<span id="AdditionalURL_104" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/landing/upgrade-premier.jsp</span>
+<span id="AdditionalURL_105" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/mobile-payment-solutions/index.jsp</span>
+<span id="AdditionalURL_106" class="additional-urls" style="display: none;">/quickbooks/accounting-software.jsp|/quickbooks/accounting-software/landing/quickbooks-free-trial.jsp</span>
 <!--googleon: snippet-->
 <!--googleon: index--> 
 </div>
@@ -1159,10 +1383,7 @@ cssdropdown.startchrome("uksub-chromemenu2")
 <div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_13');" onmouseout="resetMenu('Menu_13');">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_13_1" href="/quickbooks/payroll/benefits-of-payroll-services.jsp" target="">Why Use Payroll Software</a>
-</div>
-<div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
-<a class="drop-nav" id="Menu_13_2" href="/quickbooks/payroll/payroll-management-software-uk.jsp" target="">How QuickBooks Payroll Works</a>
+<a class="drop-nav" id="Menu_13_1" href="/quickbooks/payroll/payroll-management-software-uk.jsp" target="">How QuickBooks Payroll Works</a>
 </div>
 </div>
 </div>
@@ -1184,7 +1405,7 @@ cssdropdown.startchrome("uksub-chromemenu2")
 <td valign="top" style="width: 16px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-left.png) top left repeat-y;">
 <div style="border-top: 1px solid #b2d8eb; float:right; width: 11px;">&nbsp;</div>
 </td><td>
-<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_23_2">
+<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_23_1">
 <div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_23');" onmouseout="resetMenu('Menu_23');">
 <div class="head-sub-nav"></div>
 <div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
@@ -1210,7 +1431,7 @@ cssdropdown.startchrome("uksub-chromemenu2")
 <div style="float:left;" class="subnav-main" id="Div_Menu_13" onmouseover="selectMenu('Menu_13');" onmouseout="resetMenu('Menu_13');">
 <div class="subnav-left" id="Left_Menu_13" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3;float:left;">
-<a class="sub-nav" name="/quickbooks/payroll/index.jsp" id="Menu_13" href="#" target="" rel="13_menu">
+<a class="sub-nav" name="/quickbooks/payroll/index.jsp" id="Menu_13" href="javascript:;" target="" rel="13_menu">
 Payroll Overview
 </a>
 </div>
@@ -1219,7 +1440,7 @@ Payroll Overview
 <div style="float: left;" class="subnav-main" id="Div_Menu_23" onmouseover="selectMenu('Menu_23');" onmouseout="resetMenu('Menu_23');">
 <div class="subnav-left" id="Left_Menu_23" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/quickbooks/payroll/index.jsp" id="Menu_23" href="#" target="" rel="23_menu">
+<a class="sub-nav" name="/quickbooks/payroll/index.jsp" id="Menu_23" href="javascript:;" target="" rel="23_menu">
 QuickBooks Payroll Products
 </a>
 </div>
@@ -1246,10 +1467,39 @@ cssdropdown.startchrome("uksub-chromemenu3")
 <img src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-subnav-left.jpg" height="32px" width="5px">
 </div>
 <div style="positon:relative; display:inline-block;" class="uksub-chromestyle" id="uksub-chromemenu4">
+<div id="24_menu" class="uk-dropmenudiv dropdiv" style="margin-left:-27px; width:;">
+<table style="margin:0px 0px 0px 0px;" cellpadding="0" cellspacing="0" width="auto" onmouseover="selectMenu('Menu_24');" onmouseout="resetMenu('Menu_24');"><tbody><tr>
+</tr><tr>
+<td valign="top" style="width: 16px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-left.png) top left repeat-y;">
+<div style="border-top: 1px solid #b2d8eb; float:right; width: 11px;">&nbsp;</div>
+</td><td>
+<div style="width:100%;background-color:#ffffff;float:left;" id="Menu_24_">
+<div style="padding-top:15px; padding-left:5px; padding-right:5px; padding-bottom:10px; border: 0px solid #c3c3c3;" onmouseover="selectMenu('Menu_24');" onmouseout="resetMenu('Menu_24');">
+<div class="head-sub-nav"></div>
+<div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
+<a class="drop-nav" id="Menu_24_1" href="/small-business-resources/advice/accounts-cash-flow.jsp" target="">Finance, Accounts and Cash Flow</a>
+</div>
+<div style="padding:5px; border: 0px solid #c3c3c3; margin-top:10px;" onmouseover="this.style.backgroundColor='#dff0fe'" ;="" onmouseout="this.style.backgroundColor='transparent'">
+<a class="drop-nav" id="Menu_24_2" href="/small-business-resources/advice/employing-people.jsp" target="">Employing People</a>
+</div>
+</div>
+</div>
+</td>
+<td style="width: 16px; height:100%; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-right.png) top right repeat-y;">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="top" style="width:16px; height:8px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-left-bottom.png) top left no-repeat;">&nbsp;</td>
+<td valign="top" style="height:8px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-bottom.png) top left repeat-x;">&nbsp;</td>
+<td valign="top" style="width:16px; height:8px; background: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/template/2011-dd-right-bottom.png) top right no-repeat;">&nbsp;</td>
+</tr>
+</tbody></table>
+</div>
 <div style="float:left;" class="subnav-main" id="Div_Menu_14" onmouseover="selectMenu('Menu_14');" onmouseout="resetMenu('Menu_14');">
 <div class="subnav-left" id="Left_Menu_14" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3;float:left;">
-<a class="sub-nav" name="/community/index.jsp" id="Menu_14" href="/small-business-resources/mybiztracker-record-keeping-iphone-app.jsp" target="" rel="14_menu">
+<a class="sub-nav" name="/small-business-resources.jsp" id="Menu_14" href="/small-business-resources/mybiztracker-record-keeping-iphone-app.jsp" target="" rel="14_menu">
 Mobile Apps
 </a>
 </div>
@@ -1258,8 +1508,8 @@ Mobile Apps
 <div style="float: left;" class="subnav-main" id="Div_Menu_24" onmouseover="selectMenu('Menu_24');" onmouseout="resetMenu('Menu_24');">
 <div class="subnav-left" id="Left_Menu_24" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/community/index.jsp" id="Menu_24" href="http://community.intuit.com/quickbooks/uk" target="_blank" rel="24_menu">
-QuickBooks Desktop Community
+<a class="sub-nav" name="/small-business-resources.jsp" id="Menu_24" href="/small-business-resources/advice.jsp" target="" rel="24_menu">
+Business Advice
 </a>
 </div>
 <div class="subnav-right" id="Right_Menu_24" style="float: left;">&nbsp;</div>
@@ -1267,8 +1517,8 @@ QuickBooks Desktop Community
 <div style="float: left;" class="subnav-main" id="Div_Menu_34" onmouseover="selectMenu('Menu_34');" onmouseout="resetMenu('Menu_34');">
 <div class="subnav-left" id="Left_Menu_34" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/community/index.jsp" id="Menu_34" href="https://qbouk.lcp.intuit.com/" target="_blank" rel="34_menu">
-QuickBooks Online Community
+<a class="sub-nav" name="/small-business-resources.jsp" id="Menu_34" href="http://www.smallbizmatters.co.uk/" target="_blank" rel="34_menu">
+Intuit Small Business Blog
 </a>
 </div>
 <div class="subnav-right" id="Right_Menu_34" style="float: left;">&nbsp;</div>
@@ -1276,8 +1526,8 @@ QuickBooks Online Community
 <div style="float: left;" class="subnav-main" id="Div_Menu_44" onmouseover="selectMenu('Menu_44');" onmouseout="resetMenu('Menu_44');">
 <div class="subnav-left" id="Left_Menu_44" style="float: left;">&nbsp;</div>
 <div style="display:inline-block; padding-top:8px; padding-left:5px; padding-right:5px; border: 0px solid #c3c3c3; float: left;">
-<a class="sub-nav" name="/community/index.jsp" id="Menu_44" href="http://smallbizmatters.co.uk/" target="_blank" rel="44_menu">
-Intuit’s Small Business Blog
+<a class="sub-nav" name="/small-business-resources.jsp" id="Menu_44" href="/small-business-resources/community.jsp" target="" rel="44_menu">
+Community
 </a>
 </div>
 <div class="subnav-right" id="Right_Menu_44" style="float: left;">&nbsp;</div>
@@ -1288,6 +1538,18 @@ Intuit’s Small Business Blog
 </div>
 <!--googleoff: index-->
 <!--googleoff: snippet-->
+<span id="AdditionalURL_1" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/employing-people/hiring-your-first-employee.jsp</span>
+<span id="AdditionalURL_2" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/employing-people/finding-the-right-employee.jsp</span>
+<span id="AdditionalURL_3" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/employing-people/hiring-your-first-staff.jsp</span>
+<span id="AdditionalURL_4" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/employing-people/interview-questions.jsp</span>
+<span id="AdditionalURL_5" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/accounts-cash-flow/transform-your-cash-flow.jsp</span>
+<span id="AdditionalURL_6" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/accounts-cash-flow/find-an-accountant-for-small-business.jsp</span>
+<span id="AdditionalURL_7" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/accounts-cash-flow/create-business-budget.jsp</span>
+<span id="AdditionalURL_8" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/accounts-cash-flow/chasing-payments-on-time.jsp</span>
+<span id="AdditionalURL_9" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/accounts-cash-flow/business-bank-loans.jsp</span>
+<span id="AdditionalURL_10" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/accounts-cash-flow/pricing-strategies.jsp</span>
+<span id="AdditionalURL_11" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/employing-people/keep-employees-motivated.jsp</span>
+<span id="AdditionalURL_12" class="additional-urls" style="display: none;">/small-business-resources.jsp|/small-business-resources/advice/employing-people/hiring-the-right-employee.jsp</span>
 <!--googleon: snippet-->
 <!--googleon: index--> 
 </div>
@@ -1308,6 +1570,7 @@ $('.nav-main-active').removeClass('nav-main-active').addClass('nav-main');
 $('.topmenu-activenav').removeClass('topmenu-activenav').addClass("topmenu-nav");
 $('.nav-left-active').removeClass('nav-left-active').addClass('nav-left');
 $('.nav-right-active').removeClass('nav-right-active').addClass('nav-right');
+$('#homelink').removeClass('homelink-active').addClass('homelink-inactive');
 setActiveBlazeMenu(id);
 $(".uksub-navigation-class").hide();
 $("#uksub-navigation" + idarr[1]).show();
@@ -1320,17 +1583,27 @@ $('.nav-main-active').removeClass('nav-main-active').addClass('nav-main');
 $('.topmenu-activenav').removeClass('topmenu-activenav').addClass("topmenu-nav");
 $('.nav-left-active').removeClass('nav-left-active').addClass('nav-left');
 $('.nav-right-active').removeClass('nav-right-active').addClass('nav-right');
+$('#homelink').removeClass('homelink-active').addClass('homelink-inactive');
 var menuId = $('.defaultclass').attr("id");
 $('#' + menuId).removeClass('nav-main').addClass('nav-main-active');
 $('#' + menuId + " a").removeClass('topmenu-nav').addClass("topmenu-activenav");
 $('#Left_' + menuId).removeClass('nav-left').addClass('nav-left-active');
 $('#Right_' + menuId).removeClass('nav-right').addClass('nav-right-active');
+if (menuId == "TopMenu_1"){
+$('document').ready(function(){
+$('#homelink').removeClass('homelink-inactive').addClass('homelink-active');
+$('.nav-main-active').removeClass('nav-main-active').addClass('nav-main');
+});
+}
 });
 });
 function setActiveBlazeMenu(menuId){
 //alert(menuId);
 element = document.getElementById(menuId);
-if (menuId == "Menu_1"){
+if (menuId == "TopMenu_1"){
+$('document').ready(function(){
+$('#homelink').removeClass('homelink-inactive').addClass('homelink-active');
+});
 }
 else {
 //alert(menuId);
@@ -1339,6 +1612,7 @@ $('#' + menuId).removeClass('nav-main').addClass('nav-main-active');
 $('#' + menuId + " a").removeClass('topmenu-nav').addClass("topmenu-activenav");
 $('#Left_' + menuId).removeClass('nav-left').addClass('nav-left-active');
 $('#Right_' + menuId).removeClass('nav-right').addClass('nav-right-active');
+$('#homelink').removeClass('homelink-active').addClass('homelink-inactive');
 });
 }
 }
@@ -1495,7 +1769,7 @@ Privacy
 <tbody><tr>
 <td align="left">
 <table cellpadding="0" cellspacing="0" width=""><tbody><tr><td>
-<p>Last Updated: 13th January, 2012</p>
+<p>Last Updated: 12th June, 2012</p>
 <p>At Intuit Limited ('Intuit'), we pride ourselves on our commitment to protecting your privacy. We want you to know how we will collect, use and disclose the personal data you provide to us.<br>
 <br>
 If at any time you wish for us to delete your personal data from our files, please contact us in writing at either the postal or e-mail address below and we will respond promptly.<br>
@@ -1512,7 +1786,7 @@ Maidenhead, SL6 1AD, UK<br>
 By E-Mail<br>
 <a href="mailto:ukprivacy@intuit.com" target="_self">ukprivacy@intuit.com</a><br>
 <br>
-Collecting Your Data<br>
+<strong>Collecting Your Data</strong><br>
 Intuit QuickBooks Online processes adhere to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.</p>
 <p>'Personal data' is any data that can be used to identify you as an individual. Intuit collects 'personal data' about you only with your full knowledge in conjunction with:</p>
 <ol>
@@ -1549,23 +1823,105 @@ Aggregate data is general data about groups of customers and does not identify i
 You should also be aware that we may occasionally provide links from our Web site to other sites that we think will interest you. If you click on a banner advertisement or any other link, the 'click' will take you off the Intuit site. Once you leave any Intuit Web site, any information that you may have provided remains with us and is not forwarded to the next site to which you have linked. Personal data that you may choose to provide to a third party Web site linked to an Intuit Web site will be subject to the privacy policy of the operators of the third party Web site. Intuit is not responsible for the use or protection of personal data you disclose to a third party Web site operator, even if reached from an Intuit Web site.</p>
 <p><b>Security and Data Retention</b><br>
 The security of your personal information is important to us.&nbsp; When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.&nbsp; No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.&nbsp; Therefore, we cannot guarantee its absolute security.If you have any questions about security on our Web site, you can contact us at <a target="_self" href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com </a></p>
-<p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at ukprivacy@intuit.com.&nbsp; We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-<p><b>Enabling Cookies</b></p>
-<p>Intuit uses a variety of Web technologies on our Web sites. Among these are cookies and clear gifs, which are pieces of information that our Web sites provide to your browser. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to customise your visit to our Web sites by recognising you when you return. Cookies cannot be used to see any other data on your computer, nor can they determine your e-mail address or identity. We do not link this automatically-collected data to personally identifiable information<br>
-<br>
-Most browsers accept and maintain cookies by default. Check the Help menu of your browser to learn how to change your cookie preference. You can choose to decline cookies while at our Web site, but this may limit your ability to access certain areas of the Web site.<br>
+<p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:ukprivacy@intuit.com" target="_self">ukprivacy@intuit.com</a>.&nbsp; We will retain and use your information as necessary to comply with our legal obligations, conduct our business operations, resolve disputes, and enforce our agreements.</p>
+<p><strong>Cookies</strong><br>
+Intuit uses cookies to track overall site usage and determine areas users prefer. Cookies also allow us to customise your visit to our Web sites by recognising you when you return. We never use cookies to “see” other data on your computer or determine your e-mail address.&nbsp;</p>
+<p>Most browsers accept and maintain cookies by default. Check the Help menu of your browser to learn how to change your cookie preference. You can choose to decline cookies while at our Web site, but this may limit your ability to access certain areas of the Web site.</p>
+<p>Alternatively you may wish to visit an independent source of information, www.about cookies.org, which contains comprehensive information on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual or network operator for advice.<br>
 <br>
 To purchase and download products from intuit.co.uk you must ensure your browser is able to accept cookies. Cookies are required for these services to authenticate registered users and to provide access to certain areas of our Web sites that are available to limited registered users only. Cookies are deleted when you close your browser, as well; this authentication becomes invalid after a certain period of time.<br>
 <br>
+List of www.intuit.co.uk and shop.intuit.co.uk cookies:</p>
+<ul>
+<li><strong>Google Analytics</strong> for anonymous, aggregated web analytics:<br>
+<ul>
+<li>utma, utmb - "Persistent" cookie expires after 1 year</li>
+<li>utmz - "Persistent" cookie expires after 6 months</li>
+<li>utmc - "Session" cookie expires on browser close</li>
+</ul>
+</li>
+<li><strong>Adobe Test &amp; Target </strong>- for delivering content testing:<br>
+<ul>
+<li>mobx - "Persistent" cookie expires after&nbsp; 12 months</li>
+</ul>
+</li>
+<li><strong>intuit.co.uk "Shop &amp; Buy experience":</strong><br>
+<ul>
+<li>JSESSIONID<strong> </strong>- "Session"&nbsp; cookie expires on browser close</li>
+</ul>
+</li>
+</ul>
+<p>Pages on www.intuit.co.uk or shop.intuit.co.uk may also contain the following cookies:</p>
+<ul>
+<li>I<strong>nstant Service</strong> for Chat buttons and Chat windows:<br>
+<ul>
+<li>IS3_GSV - "Session" cookie expires on browser close</li>
+<li>IS3_History - "Persistent" cookie expires after 1 hour</li>
+<li>Isvt_visitor - "Persistent" cookie expires after 2 months</li>
+</ul>
+</li>
+<li><strong>4Q</strong> for feedback surveys
+<ul>
+<li>4Qua - &nbsp;"Persistent" cookie expires after&nbsp;1 day</li>
+<li>4QguidIPE - &nbsp;"Persistent" cookie expires after&nbsp;1 day</li>
+<li>4Q__utmz - &nbsp;"Persistent" cookie expires after&nbsp;1 day</li>
+<li>4Q__utma - &nbsp;"Persistent" cookie expires after&nbsp;1 day</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>KISS Insights</strong> for pop-up surveys:<br>
+<ul>
+<li>ki_r – "Persistent" cookie expires after 5 years</li>
+<li>ki_s – "Persistent" cookie expires after 5 years</li>
+<li>ki_t – "Persistent" cookie expires after 5 years</li>
+<li>ki_u – "Persistent" cookie expires after 5 years</li>
+</ul>
+</li>
+<li><strong>YouTube</strong> for videos:<br>
+<ul>
+<li>VISITOR_INFO1_LIVE – "Persistent" cookie related to YouTube (expires after 8 months)</li>
+<li>PREF – "Persistent" cookie related to YouTube (expires after 10 years)</li>
+<li>Use_hitbox – "Session" cookie related to YouTube (expires on browser close)</li>
+</ul>
+</li>
+<li><strong>"Social sharing buttons":</strong><br>
+<ul>
+<li>Twitter<br>
+<ul>
+<li>pid – "Persistent" cookie expires after 2 years</li>
+</ul>
+</li>
+<li>Facebook<br>
+<ul>
+<li>datr - "Persistent" cookie expires after 1 year</li>
+<li>locale - "Persistent" cookie expires after 1 week</li>
+<li>lsd - "Session" cookie expires on browser close</li>
+<li>reg_fb_gate - "Session"cookie expires on browser close</li>
+<li>reg_fb_ref - "Session"cookie expires on browser close</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Pages on shop.intuit.co.uk only also use:</p>
+<ul>
+<li><strong>shop.intuit.co.uk "Shop &amp; Buy experience":</strong><br>
+<ul>
+<li>campaign_info -&nbsp; "Persistent" cookie expires after 1 week</li>
+<li>sku_info -&nbsp; "Persistent" cookie expires after 1 week</li>
+<li>quantity_info -&nbsp; "Persistent" cookie expires after 1 week</li>
+</ul>
+</li>
+</ul>
+<p><br>
 With or without cookies, our Web sites track usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage so that we know what areas of our Web site users prefer and what organizations might have an interest in our offerings. This data is stored in log files and is used for internal business analytics purposes. This log data is not linked to personal data gathered elsewhere on the site.<br>
-<br>
-<b>Clear Gifs (Web Beacons/Web Bugs)</b><br>
-<br>
+<strong><br>
+Clear Gifs (Web Beacons/Web Bugs)</strong><br>
 We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.&nbsp; Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.&nbsp; In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. <br>
-We use a third-party tracking service that uses cookies and clear gifs to track non-personally identifiable information about visitors to our site in the aggregate to track usage and volume statistics and improve our site. <br>
-<br>
-<b>Disclosing Your Data</b></p>
-<p>Intuit may also transfer personal data to Intuit-affiliated companies in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred. BY SUPPLYING PERSONAL DATA TO INTUIT, YOU CONSENT TO ANY SUCH TRANSFER. In addition, we will transfer/share your personal data as required by lase, such as to comply with a subpoena, or similar legal process. <br>
+We use a third-party tracking service that uses cookies and clear gifs to track non-personally identifiable information about visitors to our site in the aggregate to track usage and volume statistics and improve our site.</p>
+<p><b>Disclosing Your Data</b></p>
+<p>Intuit may also transfer personal data to Intuit-affiliated companies in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred. In addition, we will transfer/share your personal data as required by law, such as to comply with a subpoena, or similar legal process.<br>
 <br>
 It is Intuit's policy that you are kept in control of the ways in which we use your personal data for the Additional Purposes. All Intuit communications, in whatever medium, that involve the recording of personal data for these Additional Purposes include a short section that allows you to indicate your preferences with respect to the use of that personal data. You can choose whether or not you wish to receive additional information or promotional offers from Intuit.<br>
 <br>
@@ -1725,13 +2081,13 @@ text-align: center;
 <div class="top-mt-margin">&nbsp;</div>
 <div class="middlebox">
 <div class="micetypebox">
-<script type="text/javascript"> $(document).ready(function(){ $('.micetypeheader').css('display', 'block'); });</script>
+&nbsp;
 <div class="micetypeheader mt_closed">
-<a href="javascript:void(0);">Important Offer Details, Disclaimers/Footnotes (1-1)</a>
+<a href="javascript:void(0);">Important Offer Details, Disclaimers/Footnotes (1-0)</a>
 </div>
 <div style="clear: both;">&nbsp;</div>
 <div class="micetypecontent">
-<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="footnote r_7pad" valign="top" width="2%">1</td><td class="footnote" valign="top" width="98%">1. Offer ends on 30th April 2012.&nbsp; 2. The 20% off discount applies to the following QuickBooks desktop products: Pro 1 or 3 users, Premier 1 users - Single Payment Purchase only. Pro + Support 1 or 3 users, Premier + Support 1 - Single Payment Purchase only 3. This offer is not available in conjunction with any other offers. 4. No adjustments will be made on previous purchases. 5. This offer is available from 6. No cash alternative will be given. Promoter: Intuit Ltd, Statesman House, Stafferton Way, Maidenhead SL6 1AD.</td></tr></tbody></table>
+&nbsp;
 </div>
 </div>
 </div>
@@ -1758,7 +2114,7 @@ text-align: center;
 <div style="display:inline; postion: relative; padding-top:0px; margin-right:0px; align: right;">
 <div class="supernavDropdownLinkContainer" style=" position: relative; margin: 0px; padding-bottom: 0px; padding-top: 5px; padding-left: 0px; padding-right: 7px; text-align: left; text-indent: 0px;">
 <div style="postion: relative;">
-<a class="intuit-header-nav" style="padding-right:7px; color:#505050;" title="Terms of Service" href="/about/terms-of-service.jsp">Terms of Service<sup class="micetype-sup">1</sup></a>|
+<a class="intuit-header-nav" style="padding-right:7px; color:#505050;" title="Terms of Service" href="/about/terms-of-service.jsp">Terms of Service</a>|
 </div>
 </div>
 </div>
@@ -1776,7 +2132,7 @@ text-align: center;
 <div style="display:inline; postion: relative; padding-top:0px; margin-right:0px; align: right;">
 <div class="supernavDropdownLinkContainer" style=" position: relative; margin: 0px; padding-bottom: 0px; padding-top: 5px; padding-left: 0px; padding-right: 7px; text-align: left; text-indent: 0px;">
 <div style="postion: relative;">
-<a class="intuit-header-nav" style="padding-right:7px; color:#505050;" title="" href="/about/privacy.jsp">Privacy</a>|
+<a class="intuit-header-nav" style="padding-right:7px; color:#505050;" title="" href="/about/privacy.jsp">Privacy &amp; Cookies <sup><span style="color:red;">Updated</span></sup></a>|
 </div>
 </div>
 </div>
@@ -1905,9 +2261,9 @@ margin-left: -26px;
 <td width="20">&nbsp;</td>
 <td valign="top" class="sub-footer">
 <p style="margin: 0in 0in 0pt" class="MsoNormal"><b><font size="3">Help Me Choose</font></b><br>
-<a target="_self" href="/quickbooks/accounting-software/help-me-choose.jsp">Best Accounts Software for Me?</a></p>
-<p style="margin: 0in 0in 0pt;" class="MsoNormal"><a target="_self" href="/quickbooks/accounting-software/why-quickbooks/5-reasons-to-choose.jsp">Five Reasons to Choose QuickBooks</a><br>
-<a target="_self" href="/quickbooks/accounting-software/online/compare-online-accounting-products.jsp">Compare QuickBooks Online Products</a><br>
+<a href="http://opencms.intuitcanada.com/quickbooks/accounting-software/why-quickbooks/benefits-of-quickbooks.jsp" target="_self">Benefits of QuickBooks </a></p>
+<p style="margin: 0in 0in 0pt" class="MsoNormal"><a target="_self" href="/quickbooks/accounting-software/help-me-choose.jsp">Best Accounts Software for Me?</a></p>
+<p style="margin: 0in 0in 0pt;" class="MsoNormal"><a target="_self" href="/quickbooks/accounting-software/online/compare-online-accounting-products.jsp">Compare QuickBooks Online Products</a><br>
 <a target="_self" href="/quickbooks/accounting-software/desktop/compare-quickbooks-products.jsp">Compare QuickBooks Desktop Products</a><br>
 <a target="_self" href="/quickbooks/accounting-software/desktop/see-it-in-action.jsp">How-to videos - Desktop Products</a></p>
 <p style="margin: 0in 0in 0pt;" class="MsoNormal"><a target="_self" href="/quickbooks/accounting-software/testimonials/customer-testimonials.jsp">Customer Testimonials</a></p>
@@ -1918,7 +2274,7 @@ margin-left: -26px;
 </b><a target="_blank" href="http://twitter.com/#!/QuickBooks_UK">QuickBooks UK on Twitter</a><br>
 <a target="_blank" href="https://www.facebook.com/intuituk">QuickBooks UK on Facebook</a><br>
 <a target="_self" href="http://www.youtube.com/user/IntuitUK">QuickBooks on YouTube</a><br>
-<a target="_self" href="http://www.smallbizmatters.co.uk/">Small Business Matters Blog</a></p>
+<a target="_blank" href="http://blog.intuit.co.uk/">Small Business Britain Blog</a></p>
 </td>
 <td width="20">&nbsp;</td>
 <td valign="top" class="sub-footer">
@@ -1975,11 +2331,9 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 </script>
 <noscript><a href="http://www.Adobe.com" title="WebAnalytics"><img src="intuitca-quickbookscouk.112.2O7.net/b/ss/intuitca-quickbookscouk/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></a></noscript>
 <br>
-<script type="text/javascript" src="//s3.amazonaws.com/ki.js/14595/2H3.js" async="true"></script>
-<!--
+ 
 <script type="text/javascript">var _kiq = _kiq || [];</script>
 <script type="text/javascript" src="//s3.amazonaws.com/ki.js/14595/2H3.js" async="true"></script>
--->
 <script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1844.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1844.js"></script>
 <script type="text/javascript" src="https://secure.leadforensics.com/js/4171.js"></script>
 <script type="text/javascript"> 
