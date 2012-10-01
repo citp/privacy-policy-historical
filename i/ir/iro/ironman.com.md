@@ -1,6 +1,30 @@
-> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505075827id_/http%3A//ironman.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001091922id_/http%3A//ironman.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » IRONMAN.com
+
+At Ironman.com, we are committed to safeguarding your privacy online. We want to assure our users that Ironman.com will not willfully disclose any specific individual information about you to any third party unless you give us your express permission to do so. 
+
+Ironman.com does not solicit any personally identifiable information from children under the age of 13. Accordingly, children under 13 years old may be restricted from participating in certain activities and transactions on Ironman.com (including those on ironmanstore.com). Ironman.com works with (and may provide links to) third party sites that offer features described on Ironman.com (e.g., official fantasy games, chatrooms, message boards). Such third parties may permit children under the age of 13 to register for these features on their sites in accordance with their respective privacy policies. However, Ironman.com does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old. If you would like more information about Ironman.com's policy for collecting information from children, please read our Note to Parents below.
+
+Please read this Privacy Policy ("Policy") for an explanation of how we will treat your personal information. By using Ironman.com, including any of the Official Ironman Race Websites and the Ironmanstore.com on Ironman.com, you consent to the collection and use of personal information as outlined in this Policy. If you do not agree to this Policy, please do not use our site. If we make any material changes to the Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Since this Policy may change from time to time, you should check back periodically. Your continued use of Ironman.com following the posting of changes to the Policy will signal your acceptance of such changes. 
+
+If you have any questions or comments regarding this Policy, please contact 
+
+**TABLE OF CONTENTS**
+
+ **1.** **What personally identifiable information of yours or third party personally identifiable information is collected from you through the site**
+
+ **2.** **The organization collecting the information**
+
+ **3.** **How the information is used**
+
+ **4.** **With whom the information may be shared**
+
+ **5.** **What choices are available to you regarding collection, use and distribution of the information**
+
+ **6.** **The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control.**
+
+ **1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the site**
 
 As stated above, Ironman.com does not solicit any personally identifiable information from children under the age of 13. Please review our Note to Parents, if you have any questions regarding our Policy with respect to children. 
 
@@ -8,9 +32,7 @@ Ironman.com does not collect personally identifiable information through the sit
 
  **2\. The organization collecting the information**
 
-Ironman.com is operated by World Triathlon Corporation. World Triathlon Corporation is located at 2701 North Rocky Point Drive Suite 1250, Tampa, FL 33607. 
-
-You can also learn more about any of the Qualifying Ironman Races by referring to their respective Official Web Sites located on Ironman.com.
+Ironman.com is operated by World Triathlon Corporation. World Triathlon Corporation is located at 2701 North Rocky Point Drive Suite 1250, Tampa, FL 33607. You can also learn more about any of the Qualifying Ironman Races by referring to their respective Official Web Sites located on Ironman.com.
 
 3\. How the information is used
 
@@ -59,4 +81,4 @@ It is Ironman.com's policy not to solicit any personally identifiable informatio
 
 Ironman.com works with (and may provide links to) third party sites that offer features described on Ironman.com. Such third parties may permit children under the age of 13 to register for these features on their sites in accordance with their respective privacy policies. Registration for these features is pursuant to the privacy policies of the third parties operating the websites on which registration occurs. For more information, please review the privacy policies of each respective third party site. Ironman.com does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old.
 
-If you have any questions or comments, you can contact us at travis@Ironman.com
+If you have any questions or comments, you can contact us at travis@Ironman.com 
