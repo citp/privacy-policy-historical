@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630064035id_/http%3A//www.jokes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokes.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001135017id_/http%3A//www.jokes.com/help/privacy) for the most accurate reproduction.*
 
 # Jokes.com Inside Joke Rules
 
