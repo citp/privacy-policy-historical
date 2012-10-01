@@ -1,15 +1,22 @@
-> *The following text is extracted and transformed from the 4fxinvestment.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618153915id_/http%3A//www.4fxinvestment.net/%3Fa%3Dcust%26page%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4fxinvestment.net privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001080806id_/http%3A//4fxinvestment.net/%3Fa%3Dcust%26page%3Dpolicy) for the most accurate reproduction.*
 
 # 4fxinvestment.net
 
-| Members Login  
+|  Members Login  
 ---  
   
 Support Center  
 ---  
   
-Affiliate Program   
+DDos Protection   
 ---  
+  
+[](http://www.blockdos.net/)  
+  
+We Accept  
+---  
+  
+    
   
 ### Privacy Policy
 
