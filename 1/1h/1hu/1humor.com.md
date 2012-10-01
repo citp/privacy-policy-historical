@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1humor.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610042749id_/http%3A//1humor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1humor.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001161034id_/http%3A//1humor.com/privacy) for the most accurate reproduction.*
 
 # Funny images & vids - Privacy Policy
 
