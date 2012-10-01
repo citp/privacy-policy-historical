@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520005025id_/http%3A//www.mindleaders.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001074845id_/http%3A//www.mindleaders.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | MindLeaders
 
 MINDLEADERS, INC. (“MindLeaders”)  
-Effective 2/2011, Updated 9/2011 
+Effective 2/2011, Updated 6/2012 
 
 ## Applicability of Privacy Statement:
 
-We at MindLeaders recognize the importance of protecting the privacy of our customers and other visitors to our website. We collect the narrowest class of personal information required to effectively serve our customers and accomplish our mission; we protect this personal information according to the rigorous standards set forth by the European Union Safe Harbor Program. To ensure the best protection of collected personal information, we have become licensees of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. We have engaged TRUSTe to monitor our privacy practices and ensure that our processes adhere to the Best Practices identified by the European Safe Harbor Program. 
+We at MindLeaders recognize the importance of protecting the privacy of our customers and other visitors to our website. We collect the narrowest class of personal information required to effectively serve our customers and accomplish our mission; we protect this personal information according to the rigorous standards set forth by the European Union Safe Harbor Program. 
 
-MindLeaders, Inc. complies with the EU Safe Harbor and the U.S.-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. MindLeaders has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view MindLeaders certification, please visit <http://www.export.gov/safeharbor/>. MindLeaders has been awarded TRUSTe's Privacy Seal signifying that MindLeaders’ policies and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements. These requirements can be found at: [ http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html). TRUSTe’s program requirements emphasize and promote transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If you have questions or complaints regarding our privacy policy, practices, or our compliance with the Safe Harbor Privacy Framework, please contact us at [legal@mindleaders.com](mailto:legal@mindleaders.com). If you are not satisfied with our response, you may follow up using TRUSTe’s dispute resolution process by visiting <http://watchdog.truste.com/pvr.php?page=complaint>, by faxing TRUSTe at 415-520-3420, or by mailing a letter to: Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [ http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url) or request this information from TRUSTe at any of the contacts listed above. The TRUSTe dispute resolution process shall be conducted in English. 
+MindLeaders has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [ Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@mindleaders.com](mailto:legal@mindleaders.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 This Privacy Policy sets out the privacy practices used by MindLeaders in the collection, processing, and storage of Personal information. This Privacy Policy covers [www.mindleaders.com](http://www.mindleaders.com/) and other websites operated by MindLeaders (“Websites”), MindLeaders Product Platforms, and the MindLeaders Facebook Application. 
+
+MindLeaders complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. MindLeaders, Inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view MindLeader’s certification, please visit <http://www.export.gov/safeharbor/>. 
+
+If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](http://watchdog.truste.com/pvr.php?page=complaint&url=), or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
 
 THE INFORMATION ABOUT YOU COLLECTED ON THIS WEBSITE, PLATFORM OR APPLICATION IS SUBJECT TO THIS PRIVACY POLICY. BY DISCLOSING INFORMATION TO US, YOU AGREE TO THE TERMS OF THE POLICY. 
 
@@ -84,7 +86,9 @@ We use a third-party tracking service that uses other tracking technologies such
 
 ## Sharing of Information:
 
-If you choose to submit information to a website blog or discussion forum, the information submitted will be deemed public information and will not be considered confidential or treated by MindLeaders as other personal information you specifically provide to MindLeaders and which is subject to this Policy. We are not responsible for the personal information you choose to submit in these forums. We also have testimonials on our site, for which the individuals have given permission for us to post their personal information. Please refer to our [Terms of Service](http://www.mindleaders.com/terms-of-service.aspx) for more information regarding user generated content. 
+If you choose to submit information to a website blog or discussion forum, the information submitted will be deemed public information and will not be considered confidential or treated by MindLeaders as other personal information you specifically provide to MindLeaders and which is subject to this Policy. We are not responsible for the personal information you choose to submit in these forums. We also have testimonials on our site, for which the individuals have given permission for us to post their personal information. To request removal of your personal information from our blog or community forum, contact us at [legal@mindleaders.com](mailto:legal@mindleaders.com). 
+
+Please refer to our [Terms of Service](http://www.mindleaders.com/terms-of-service.aspx) for more information regarding user generated content. 
 
 ##  Changes of Business Ownership and Control: 
 
@@ -116,6 +120,8 @@ Wherever you are required to submit Data, you will be given options to withhold 
 You may access certain areas of the website without providing any Data at all. However, to use all Services and Systems available on the website you may be required to submit account information or other Data. 
 
 You may at any time object to the processing of Data for a particular purpose to which you had previously consented. In this case, please email [legal@MindLeaders.com](mailto:legal@MindLeaders.com). 
+
+You may choose to stop receiving our newsletter by following the unsubscribe instructions included in these emails or you can [click here](http://mindleaders.com/newsletters/remove.aspx) to be removed. 
 
 You may review and approve the information about you collected upon registration in our customer database. Upon request, we will remove that information from our customer database or change/correct personal information that you state is erroneous. However, you should understand that information about you in our database might come from a number of sources, including orders placed by you and third party mailing lists. 
 
@@ -149,9 +155,9 @@ All of this information is shared to perform the function of taking the training
 
 ##  Questions/Changes in Policy: 
 
-If you have questions or concerns with respect to our Privacy Policy, you may direct those questions to us at the “Contact Us” section of this website. If elements of our Privacy Policy change, we will post the material policy changes in our Privacy Policy on this website. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about MindLeaders. 
+If you have questions or concerns with respect to our Privacy Policy, you may direct those questions to us at the “Contact Us” section of this website. If elements of our Privacy Policy change, we will post the material policy changes in our Privacy Policy on this website prior to the change becoming effective. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about MindLeaders. 
 
-Questions regarding this policy should be directed to MindLeaders at [legal@mindleaders.com](https://web.archive.org/web/20120520005025id_/http%3A//www.mindleaders.com/legal@mindleaders.com), or write to MindLeaders, Inc. 5500 Glendon Court, Suite 200, Dublin, OH 43016, Attn: Privacy Officer. 
+Questions regarding this policy should be directed to MindLeaders at [legal@mindleaders.com](https://web.archive.org/web/20121001074845id_/http%3A//www.mindleaders.com/legal@mindleaders.com), or write to MindLeaders, Inc. 5500 Glendon Court, Suite 200, Dublin, OH 43016, Attn: Privacy Officer. 
 
 ##  ECDL and ICDL: 
 
