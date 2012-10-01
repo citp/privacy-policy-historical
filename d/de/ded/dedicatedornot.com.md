@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629025239id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001094258id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -51,11 +51,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [www.antman.se](http://www.antman.se.dedicatedornot.com/)
-  2. [www.boldizsar.co.uk](http://www.boldizsar.co.uk.dedicatedornot.com/)
-  3. [www.mmadvocatenkantoor.nl](http://www.mmadvocatenkantoor.nl.dedicatedornot.com/)
-  4. [fuddlewords.com](http://fuddlewords.com.dedicatedornot.com/)
-  5. [www.bolletinen.se](http://www.bolletinen.se.dedicatedornot.com/)
-  6. [www.raebauer.de](http://www.raebauer.de.dedicatedornot.com/)
+  1. [ephesians41.com](http://ephesians41.com.dedicatedornot.com/)
+  2. [67.52.93.30](http://67.52.93.30.dedicatedornot.com/)
+  3. [okeygen.cn](http://okeygen.cn.dedicatedornot.com/)
+  4. [paik.co.kr](http://paik.co.kr.dedicatedornot.com/)
+  5. [ultrahotels.it](http://ultrahotels.it.dedicatedornot.com/)
+  6. [dnevents.com](http://dnevents.com.dedicatedornot.com/)
 
 
