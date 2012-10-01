@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investmentguruindia.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101111648id_/http%3A//www.investmentguruindia.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentguruindia.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001065618id_/http%3A//investmentguruindia.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Investment Guru Stocks Mutual Funds Commodity Currency World Market Expert Advice Free Tips Recommendation
+# Investment Guru, Share Market, Bseindia, BSE, NSE India, Live Market Quotes, Online Trading, Stock Exchange, Share Prices, Stock Market Quotes
 
 **Our Commitment**  
 _investmentguruindia.com_ is strongly committed to your right to privacy and to keeping your personal and financial information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
