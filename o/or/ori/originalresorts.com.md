@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the originalresorts.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306051601id_/http%3A//www.originalresorts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalresorts.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001083609id_/http%3A//originalresorts.com/privacy.asp) for the most accurate reproduction.*
 
-# ORIGINAL RESORTS ::: NEWSLETTERS
+# Original Resorts Newsletter Temptation Resorts, Desire Resorts, Sea Adventure Resorts
 
 ORIGINAL RESORTS is committed to providing exceptional service to all of our customers. We believe that we can engage in more relevant communications with you through the intelligent use of information. We understand that you may have questions about how we collect and use the information about you. Therefore, we have prepared this statement to inform you of our Privacy Policy. 
 
