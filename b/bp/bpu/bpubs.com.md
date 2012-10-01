@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2012-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120218031440id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001070552id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
