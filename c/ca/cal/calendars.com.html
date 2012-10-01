@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512153238id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2012-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121001182223id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="keywords" content="Fuze Q&amp;A, Fuze Suite, Fuze QnA, FAQ, Frequently Asked Questions, eService, CRM, eCRM, Help Desk, helpdesk, Self Service, self-service, customer service, customer care, customer support, technical support, Call Center, Knowledge Management, knowledge base, knowledgebase,  RightNow, Right Now, Kana, Servicesoft, Service Soft, Primus, Remedy, Software911, Touchscape, e.piphany">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="canonical" href="http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=41">
+    <meta name="keywords" content="Fuze Q&amp;A, Fuze Suite, Fuze QnA, FAQ, Frequently Asked Questions, eService, CRM, eCRM, Help Desk, helpdesk, Self Service, self-service, customer service, customer care, customer support, technical support, Call Center, Knowledge Management, knowledge base, knowledgebase,  RightNow, Right Now, Kana, Servicesoft, Service Soft, Primus, Remedy, Software911, Touchscape, e.piphany">
 	<title>
-		Privacy Policy</title>
+		Privacy Policy - Revised 9/20/12</title>
 	
  <link rel="stylesheet" href="/calendars/css/styles.asp?m=x" type="text/css">
      
@@ -764,13 +764,13 @@ function ThisAnsweredMyQuestion(){
 	hdnFormaction.value = "amq";
 	document.mainform.appendChild(hdnFormaction);
     return true;
-	//window.location.href="/calendars/consumer/kbdetail.asp?kbid=41&formaction=amq&viewguid=6172E1F4-FF76-42D6-8F31-99C347EB2D4E";
+	//window.location.href="/calendars/consumer/kbdetail.asp?kbid=41&formaction=amq&viewguid=4CB5AB8E-1C3E-40AC-B450-381EABC1F21F";
 }
 
 function ThisDidNotAnswerMyQuestion() {
 	
 	//alert("search.asp?");
-    window.location.href="search.asp?";
+    window.location.href="../consumer/search.asp?";
 	return false;		
 }
 
@@ -850,6 +850,11 @@ function ThisDidNotAnswerMyQuestion() {
 			
 <script src="https://www.fuzeqna.com/calendars/js/widget_js.aspx?tkey=d2816b3f-790e-4b71-a1f7-338b79c3f717" type="text/javascript"></script>
 
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="https://www.fuzeqna.com/calendars/js/fuzejquery.js"></script>
+    <link media="all" rel="stylesheet" type="text/css" href="https://www.fuzeqna.com/calendars/css/jquery-ui-1.8.12.custom.css">    
+    <link rel="stylesheet" type="text/css" href="https://www.fuzeqna.com/calendars/css/dialogcss.aspx">
 
 
 
@@ -861,22 +866,17 @@ function ThisDidNotAnswerMyQuestion() {
 </script>
 
 <script type="text/javascript">
-	function OpenLogin(referer, messagekey)
-	{
+    function OpenLogin(referer,messagekey){
 	    var url = '/calendars/membership/consumer/login.asp?inline_login=true';
 		
-        var dialog = dijit.byId('logindialog');
         if (referer) {
             url = url + "&msgkey=" + messagekey + "&referer=" + escape(referer);
         }
-        dialog.preventCache = true;
-        var loginframe = document.getElementById('logininfo');
-        loginframe.src = url;
-        var c = dojo.connect(dialog, 'onCancel', dojo.hitch(dialog, setInitialSize));
-	    dialog.show();
-	    //setTimeout("loginFocus();", 500);
+        //alert("OpenLogin");
+        //$("#JQlogininfo").attr("src",url);
+        openDialog('JQLoginDlg');
 	    
-	}
+    }
 	
 	function loginFocus() {
 	    if (window.frames['logininfo'].document.forms['loginform'].elements['username'])
@@ -885,7 +885,8 @@ function ThisDidNotAnswerMyQuestion() {
 	
 	function HideLogin()
 	{
-	    dijit.byId('logindialog').hide();
+        closeDialog('JQLoginDlg');
+	    //dijit.byId('logindialog').hide();
 	}
 	
 	function setInitialSize() {
@@ -909,9 +910,45 @@ function help() {
 </script>
 
 
-<div id="logindialog" dojotype="dijit.Dialog" title="Login" duration="1" class="tundra" style="display:none;padding:0px;" border="1" height="300" width="500">
-    <iframe height="300" width="500" src="/calendars/membership/consumer/login.asp?inline_login=true&amp;msgkey=login_messaging_personal_info&amp;referer=https://www.fuzeqna.com/calendars/consumer/mypastquestion.asp" frameborder="0" name="logininfo" id="logininfo" scrolling="auto"></iframe>
-</div>	
+
+    <script type="text/javascript">
+        function resizeJQLoginDialog(height,width){
+        //alert(height);
+        
+        $("#JQlogininfo").height(height);
+        $("#JQlogininfo").width(width);
+        //$("#JQlogininfo").attr("height",height + "px");
+        //$("#JQlogininfo").attr("width",width + "px");
+        var d = $("#JQLoginDlg").dialog();
+        //d.dialog("option", "height", height+40);
+        d.dialog("option", "width", width+20);
+        
+
+        
+        
+        }
+
+     $(function () {
+            var JQLoginDlgOpts = {
+                title: "Login",
+                modal: true,
+                width: "520",
+                autoResize: true,
+                autoOpen: false,
+                closeOnEscape: true,
+                resizable: false,draggable:true,
+                dialogClass: 'fuzeSocialjQuery'
+            }
+            
+            var url = "/calendars/membership/consumer/login.asp?inline_login=true&msgkey=login_messaging_personal_info&referer=https://www.fuzeqna.com/calendars/consumer/mypastquestion.asp";
+            //
+            $("#JQLoginDlg").dialog(JQLoginDlgOpts);
+        });
+    </script>
+
+    <div id="JQLoginDlg" style="overflow-y:hidden;display:none;">
+        <iframe height="290" width="500" src="/calendars/membership/consumer/login.asp?inline_login=true&amp;msgkey=login_messaging_personal_info&amp;referer=https://www.fuzeqna.com/calendars/consumer/mypastquestion.asp" frameborder="0" name="JQlogininfo" id="JQlogininfo"></iframe>
+    </div>
 <map name="Map">
 	<area shape="rect" coords="14,60,330,109" href="javascript:setParent('http://www.calendars.com');">
 	<area shape="rect" coords="350,45,525,113" href="javascript:setParent('http://www.dogbreedstore.com');">
@@ -1033,8 +1070,8 @@ function setParent(url) {
 		
 		<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
 			
-					<a href="question.asp">
-						<img title="Contact Us" alt="Contact Us" src="../images/questionmark8.gif" border="0" class="KBDNavIcon"></a> <a href="question.asp" class="normallink" id="KBD_ContactUsLink">
+					<a href="https://www.fuzeqna.com/calendars/consumer/question.asp">
+						<img title="Contact Us" alt="Contact Us" src="../images/questionmark8.gif" border="0" class="KBDNavIcon"></a> <a href="https://www.fuzeqna.com/calendars/consumer/question.asp" class="normallink" id="KBD_ContactUsLink">
 								Contact</a>
 					
 		</td>
@@ -1058,7 +1095,7 @@ function setParent(url) {
 		
 		<td align="right" width="100%" valign="bottom" id="KBD_Search_Link_cell">
 			
-					<a class="normallink" id="KBD_Search_Link" href="search.asp?">
+					<a class="normallink" id="KBD_Search_Link" href="../consumer/search.asp?">
 						Search</a>
 					
 		</td>
@@ -1075,7 +1112,7 @@ function setParent(url) {
 					</b></td>
 					<td valign="top" class="kbdetailnewnav" id="KBD_BreadCrumbs" style="white-space: nowrap;
 						width: 100%;" nowrap="">
-						 <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br>
+						 <a class="normallink" href="../consumer/search.asp?catID1=6">Privacy Policy</a><br>
 					</td>
 					
 					<!--                                            -->
@@ -1225,7 +1262,7 @@ function setParent(url) {
 
 <div id="new_fuze_community_features_box">
 	<span><strong>Rating:</strong>
-		&nbsp;<span style="font-weight:normal;">9.00 out of 10 (4 Ratings)</span>
+		&nbsp;<span style="font-weight:normal;">9.17 out of 10 (6 Ratings)</span>
 		
 		<input type="button" id="btnRate" value="Rate" onclick="showRateDialog();">
 		
@@ -1302,9 +1339,9 @@ function ParticipateClick(){
 	</div>
 	    
 	<div align="left" style="padding-top:10px;">
-	    <img src="../consumer/lanapbotdetecthandler.asp?Command=CreateImage&amp;TextStyle=14&amp;ImageWidth=150&amp;imageHeight=35&amp;CodeLength=3&amp;CodeType=0&amp;passKey=5030786" alt="">	
+	    <img src="../consumer/lanapbotdetecthandler.asp?Command=CreateImage&amp;TextStyle=14&amp;ImageWidth=150&amp;imageHeight=35&amp;CodeLength=3&amp;CodeType=0&amp;passKey=61762" alt="">	
 	    &nbsp;
-	    <a href="javascript:popup('../consumer/lanapbotdetecthandler.asp?Command=CreateSound&amp;passKey=5030786');"><img src="../images/speaker.gif" alt="Play Sound" style="border:0;" width="22" height="22"></a>
+	    <a href="javascript:popup('../consumer/lanapbotdetecthandler.asp?Command=CreateSound&amp;passKey=61762');"><img src="../images/speaker.gif" alt="Play Sound" style="border:0;" width="22" height="22"></a>
 	</div>
 	    <table width="100%">
 			<tbody><tr>
@@ -1396,7 +1433,7 @@ function LogInForContests(){
 <input type="hidden" name="comments">
 <input type="hidden" name="ap" value="">
 <input type="hidden" name="ao" value="">
-<input type="hidden" name="passKey" value="5030786">
+<input type="hidden" name="passKey" value="61762">
 <input type="hidden" name="formaction" value="survey">
 <input type="hidden" name="NickName">
 <input type="hidden" name="keyword" value="">
@@ -1428,7 +1465,7 @@ function LogInForContests(){
 							<td class="QuestionText">
 								
 								<div class="fuzeKBDQuestionContainer">
-									Privacy Policy
+									Privacy Policy - Revised 9/20/12
 								</div>
 							</td>
 							
@@ -1446,46 +1483,62 @@ function LogInForContests(){
 									<tbody><tr>
 										<td>
 											<div>
-<div>
-<div>
-<div>
-<div>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;">We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Calendars.com or DogBreedStore.com, you are accepting the practices described in this privacy notice. </span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><strong><span style="font-family: Verdana; color: black; font-size: 9pt;">Information Collection</span></strong></p>
-<span style="font-family: Verdana; color: black; font-size: 9pt;">
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><br>
-When you visit the site, we collect some basic information that does not identify individual users. This includes the pages visited and the types of products purchased. We then aggregate this information with thousands of other pieces of information to improve our site and make your shopping time on the site as valuable and efficient as possible.</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-</span>&nbsp;
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;">We will not rent or sell your name, address, email address, credit card information or personal information to any third party without your permission. However, we must cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. </span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><strong><span style="font-family: Verdana; color: black; font-size: 9pt;">Information We Need</span></strong></p>
-<span style="font-family: Verdana; color: black; font-size: 9pt;">
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><br>
-When you order, we need to know your name, email address, shipping address, billing address, phone number, and credit card number with expiration date. This allows us to process and fulfill your order and to notify you of your order status. We ask for your phone number in the event that our customer service representatives or delivery services need to contact you about your order. To simply create an account, we will only need your name, email address, and a password.</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-</span>&nbsp;
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><strong><span style="font-family: Verdana; color: black; font-size: 9pt;">Saved Information</span></strong></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;"><br>
-We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. You can view your past and current orders online by logging into the My Account section with your private password. </span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;">If you forget your password, we will first verify your identity and then email your password to the email address you have listed in your account. </span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><strong><span style="font-family: Verdana; color: black; font-size: 9pt;">Changing Your Information</span></strong></p>
-<span style="font-family: Verdana; color: black; font-size: 9pt;">
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><br>
-If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account.</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-</span>&nbsp;
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;"><strong>To remove your name</strong> from our special email bulletins, please click on the link located at the bottom of each promotional email or edit your email option in <a href="http://www.calendars.com/user/login.jsp">your account</a>.</span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our <a href="http://www.fuzeqna.com/calendars/consumer/question.asp?catid=36">Customer Service</a> team.</span></span></p>
+	<div>
+		<div>
+			<div>
+				<div>
+					<p class="MsoNormal" style="margin: 0in 0in 0pt;">
+						<span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="font-size: medium;"><span style="font-family: verdana,sans-serif;"><span style="color: black;">We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Calendars.com or DogBreedStore.com, you are accepting the practices described in this privacy </span></span></span><span style="font-family: verdana,sans-serif;"><span style="color: black;">policy. </span></span><br>
+						&nbsp;<br>
+						<span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;"><span style="color: black;">Information Collection</span></span></strong></span><br>
+						<br>
+						<span style="font-size: medium;"><span style="font-family: verdana,sans-serif;"><span style="color: black;">When you visit the site, we collect some basic information that does not identify individual users. This includes the pages visited and the types of products purchased. We then aggregate this information with thousands of other pieces of information to improve our site and make your shopping time on the site as valuable and efficient as possible.</span></span></span><br>
+						&nbsp;<br>
+						<span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color: black;">We are not in the business of selling customer information to others. We share customer information only as described below and with affiliates of Calendars.com L.L.C. that either are subject to this privacy policy or follow practices at least as protective as those described in this privacy policy. </span></span></span></span></span><br>
+						&nbsp;</p>
+					<ul>
+						<li>
+							<span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;">Third-Party Service Providers:</span></strong></span><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. </span></span></span></span></li>
+						<li>
+							<span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;">Business Transfers:</span></strong></span><span style="font-family: verdana,sans-serif;"> <span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">As</span></span></span><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"> we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in&nbsp;this privacy policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Calendars.com L.L.C., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. </span></span></span></span></li>
+						<li>
+							<span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;">Protection of Calendars.com and Others:</span></strong></span><span style="font-family: verdana,sans-serif;"> <span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">We release account and other personal information when we believe release is appropriate to comply with the</span></span></span><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"> law; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of Calendars.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this privacy policy. </span></span></span></span></li>
+						<li>
+							<span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;">With Your Consent:</span></strong></span><span style="font-family: verdana,sans-serif;"> <span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">Other than as set out above, you will receive notice when</span></span></span><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"> information about you might go to third parties, and you will have an opportunity to choose not to share the information. </span></span></span></span></li>
+					</ul>
+					<p class="MsoNormal" style="margin: 0in 0in 0pt;">
+						<span style="color: black; font-family: Verdana; font-size: 9pt;"><span style="color: black; font-family: Verdana; font-size: 9pt;">&nbsp;<br>
+						&nbsp;<br>
+						<span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;"><span style="color: black;">Information We Need</span></span></strong></span><br>
+						<br>
+						<span style="font-family: verdana,sans-serif;"><span style="color: black;"><span style="font-size: medium;">When you order, we need to know your name, email address, shipping address, billing address, phone number, and credit card number with expiration date. This allows us to process and fulfill your order and to notify you of your order status. We ask for your phone number in the event that our customer service representatives or delivery services need to contact you about your order. To simply create an account, we will only need your name, email address, and a password. </span></span></span><br>
+						&nbsp;<br>
+						<span style="font-size: medium;"><span style="font-family: verdana,sans-serif;"><span style="color: black;">We may maintain information that you explicitly provide to us in the course of placing orders or creating personalized products.</span></span></span><br>
+						&nbsp;<br>
+						<span style="font-family: verdana,sans-serif;"><span style="color: black;"><span style="font-size: medium;">Any engagement with social media sites, such as Facebook, is governed by the privacy policies of those entities.</span></span></span><br>
+						&nbsp;<br>
+						<span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;"><span style="color: black;">Saved Information</span></span></strong></span><br>
+						<br>
+						<span style="font-size: medium;"><span style="font-family: verdana,sans-serif;"><span style="color: black;">We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. You can view your past and current orders online by logging into the My Account section with your private password. </span></span></span><br>
+						&nbsp;<br>
+						&nbsp;<br>
+						<span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;"><span style="color: black;">Changing Your Information</span></span></strong></span><br>
+						<br>
+						<span style="font-family: verdana,sans-serif;"><span style="color: black;"><span style="font-size: medium;">If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account. If you forget your password, we will require verification of your identify before making any changes. </span></span></span><br>
+						&nbsp;<br>
+						<span style="font-size: medium;"><strong><span style="font-family: verdana,sans-serif;"><span style="color: black;">To remove your name</span></span></strong></span><span style="font-family: verdana,sans-serif;"><span style="color: black;"> <span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">from our special email bulletins, please click on the link located at the bottom of each promotional email or edit your email option in</span> </span></span></span><a href="https://www.calendars.com/user/login.jsp"><span style="font-family: verdana,sans-serif;"><span style="color: blue;"><span style="font-size: medium;">your account</span></span></span></a><a href="https://www.calendars.com/user/login.jsp"><span style="font-size: medium;"><span style="font-family: verdana,sans-serif;"><span style="color: black;">.</span></span></span></a><br>
+						&nbsp;<br>
+						<span style="font-family: verdana,sans-serif;"><span style="color: black;"><span style="font-size: medium;">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our </span></span></span><a href="http://www.fuzeqna.com/calendars/consumer/question.asp?catid=36"><span style="font-family: verdana,sans-serif;"><span style="color: blue;"><span style="font-size: medium;">Customer Service</span></span></span></a><span style="font-size: medium;"><span style="font-family: verdana,sans-serif;"><span style="color: black;"> team</span></span></span><span style="font-family: verdana,sans-serif;"><span style="color: black;">.</span></span></span></span><br>
+						<br>
+						<br>
+						<br>
+						&nbsp;</p>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-</div>
-</div>
-</div>
-</div>
+
 										</td>
 									</tr>
 								</tbody></table>
@@ -1494,14 +1547,14 @@ If at any time you would like to change any information in your account, just go
 						</tr>
 					</tbody></table>
 					
-					<input type="hidden" name="viewguid" value="6172E1F4-FF76-42D6-8F31-99C347EB2D4E">
+					<input type="hidden" name="viewguid" value="4CB5AB8E-1C3E-40AC-B450-381EABC1F21F">
 					
 					<input type="hidden" name="kbid" value="41">
 					<input type="hidden" name="ap" value="">
 					<input type="hidden" name="ao" value="">
 					<input type="hidden" name="keyword" value="">
 					<input type="hidden" name="match" value="">
-					<input type="hidden" name="passKey" value="5030786">
+					<input type="hidden" name="passKey" value="61762">
 					<input type="hidden" name="gpn" value="">
 					<input type="hidden" name="gpv" value="">
 					
@@ -1533,9 +1586,6 @@ If at any time you would like to change any information in your account, just go
 					<a href="kbdetail.asp?kbid=42" class="Relatedlink">
 						Payment Options</a><br>
 					
-					<a href="kbdetail.asp?kbid=57" class="Relatedlink">
-						Using a Credit Card</a><br>
-					
 					<a href="kbdetail.asp?kbid=174" class="Relatedlink">
 						What is your Security Policy?</a><br>
 					
@@ -1551,7 +1601,7 @@ If at any time you would like to change any information in your account, just go
 												<tbody><tr>
 													<td valign="top" class="fuzeRelatedLinks">
 														
-				<a href="javascript:popup('http://calendars.p.delivery.net/m/p/cal/eml/signup.asp')" class="Relatedlink">Sign Up to Receive Email</a><br>
+				<a href="javascript:popup('http://app.calendars.com/prefcenter/signup.cfm')" class="Relatedlink">Sign Up to Receive Email</a><br>
 				
 													</td>
 												</tr>
@@ -1577,7 +1627,7 @@ If at any time you would like to change any information in your account, just go
 					<table width="100%" cellpadding="10" cellspacing="0" border="0">
 						<tbody><tr>
 							<td>
-								<table width="100%" class="GrayLabelTable" cellpadding="0" cellspacing="0">
+								<table width="100%" class="GrayLabelTable" cellpadding="0" cellspacing="0" id="fuzeGrayKBDTbl">
 									<tbody><tr>
 										<td class="GrayLabel" nowrap="">
 											KBID
@@ -1591,7 +1641,7 @@ If at any time you would like to change any information in your account, just go
 											Date Modified
 										</td>
 										<td colspan="3" class="GrayLabelData">
-											5/11/2011
+											9/20/2012
 										</td>
 									</tr>
 									<tr>
