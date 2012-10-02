@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501133212id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012946id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy › isoHunt › the BitTorrent & P2P search engine
 
@@ -15,8 +15,6 @@
   
 Active torrents indexed from websites and trackers across the internet, unique by info_hash
 
-  Sites: 548  •  Trackers: 196,747  •  **Active Torrents: 8,805,811**  •  Files: 206.27M  •  Size: 14,213.36 TB  •  Peers: 39.95M  
-
 Privacy Policy
 
 isoHunt.com values your privacy. Without writing full blown legalese, in essence, we will never disclose your personal information (email address, IP addresses, etc.) and associated activity on this Web site to any third party, without your permission. We also will not retain your personal information for any longer than necessary for administrative purposes.
@@ -30,15 +28,16 @@ We use various third-party advertising companies to serve ads when you visit our
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. This in itself will not divulge your personal information.
 
 |   
-[](http://isohunt.com/a/adclick.php?bannerid=350&zoneid=13&source=&dest=http%3A%2F%2Faan.atrinsic.com%2Fz%2F873949%2F4585%2F%26subid1%3D5477)
+[VIP](https://isohunt.com/member.php "All proceeds goes to maintainence and development of isoHunt. Thanks for your support!")
 
-[](http://isohunt.com/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)  
-[**NEW** 8 Years Anniversary Tee!](http://isohunt.com/forum/viewtopic.php?t=693393)
+membership is only **$1/month** , with perks like turning off all annoying ads. We dislike ads as much as you do!
+
+[](http://isohunt.com/a/adclick.php?bannerid=459&zoneid=1&source=&dest=http%3A%2F%2Fbtguard.com%2F%3Fa%3Disohunt)
 
 | Stats  
 ---  
-isoHunt has **29996** users online, 1835877 members registered. [Sign up](https://web.archive.org/forum/profile.php?mode=register) now to comment!  
-Welcome to our newest member: **_h2jiou_**  
+isoHunt has **36937** users online, 1942996 members registered. [Sign up](https://web.archive.org/forum/profile.php?mode=register) now to comment!  
+Welcome to our newest member: **_d.brasko_**  
   
 Shout Box  
 ---  
