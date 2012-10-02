@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501031602id_/http%3A//www.vinsolutions.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002231648id_/http%3A//vinsolutions.com/privacy.aspx) for the most accurate reproduction.*
 
 # VinSolutions > Privacy Policy
 
