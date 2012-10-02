@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the download.hr privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619210557id_/http%3A//www.download.hr/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the download.hr privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003004520id_/http%3A//www.download.hr/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="content-type" content="text/html; charset=windows-1250">	
@@ -24,7 +24,9 @@ _uacct = "UA-199621-1";
 urchinTracker();
 </script>
 <script type="text/javascript" src="http://www.download.hr/modules/poll/files/js.js"></script></head>
-<body><div class="header_fullrow">
+<body>
+	<div class="backgroundbg"><a class="backgroundbglink" target="_blank" href="http://track.mypcbackup.com/?hash=66b085a9&amp;tid=downloadhr-topright&amp;lp=exclusive-free"></a></div>
+<div class="header_fullrow">
 		<div class="header_topline">
 			<div class="header_topline_left bold">
 				Download.hr Privacy Policy			</div>
@@ -80,7 +82,7 @@ urchinTracker();
 						<li><a href="http://www.subtitles.hr" title="Movie subtitles">Movie subtitles</a></li>
 						<li><a href="http://www.download.hr/forum/english/" title="Forum">Forum</a></li>				
 						<li><a href="http://www.download.hr/" title="Download">Download</a></li>
-          </ul>
+          			</ul>
 				</div>
 								
 			</div>	
@@ -160,32 +162,28 @@ urchinTracker();
 <div class="page_body">
 	<div class="clearfix">
 		
-
-	<div id="pageshare" title="Download.hr share">
-	 <div class="sbutton" id="fb">
+<!--
+	<div id='pageshare' title="Download.hr share">
+	 <div class='sbutton' id='fb'>
 		<div id="fb-root" style="margin:0px auto; width:50px;"></div>
 		<script src="http://connect.facebook.net/en_US/all.js#appId=218373294854188&amp;xfbml=1"></script>
-		<fb:like href="" send="false" layout="box_count" width="50" show_faces="true" font=""></fb:like>
+		<fb:like href="http://www.download.hr" send="false" layout="box_count" width="50" show_faces="true" font=""></fb:like>
 	 </div>
-	 <div class="sbutton" id="rt">
-	 <script src="http://tweetmeme.com/i/scripts/button.js" type="text/javascript"></script>
+	 <div class='sbutton' id='rt'>
+	 <script src="http://tweetmeme.com/i/scripts/button.js" type='text/javascript'></script>
 	 </div>
-	 <div class="sbutton" id="gplusone">
+	 <div class='sbutton' id='gplusone'>
 	 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 	 <g:plusone size="tall"></g:plusone>
-	 </div>
-	 <div class="sbutton" id="digg" style="margin-left:3px;width:48px">
-	 <script src="http://widgets.digg.com/buttons.js" type="text/javascript"></script>
-	 <a class="DiggThisButton DiggMedium"></a>
-	 </div>
-	 <div class="sbutton" id="digg" style="margin-left:3px;width:48px">
+	 </a></div>
+	 <div class='sbutton' id='digg' style='margin-left:3px;width:48px'>
 	 <div class="addthis_toolbox addthis_default_style ">
 	 <a class="addthis_counter"></a>
 	 </div>
 	 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f0f56a307a97113"></script>
 	 </div>
 	</div>
-
+-->
 	<div class="navigation_row">
 		<a class="link1" href="http://www.download.hr/" title="Download">Download</a> <img src="http://www.download.hr/style/1/images/arrow_navigation.gif"> Download.hr Privacy Policy	</div>
 	
@@ -222,7 +220,6 @@ urchinTracker();
 
 
 	<div class="footer_row_info">
-    <a href="http://www.kfupm.edu.sa" target="\&quot;_blank\&quot;">Education</a>
 			</div>
 	<div class="footer_row_info2 font12">
 		
@@ -240,6 +237,27 @@ urchinTracker();
 	<div class="clearfix"></div>
 	</div>
 </div>
+
+
+<script type="text/javascript">
+function addLink() {
+	var body_element = document.getElementsByTagName('body')[0];
+	var selection;
+	selection = window.getSelection();
+	var pagelink = "<br /><br /> Read more at: <a href='"+document.location.href+"'>"+document.location.href+"</a>";
+	var copytext = selection + pagelink;
+	var newdiv = document.createElement('div');
+	newdiv.style.position='absolute';
+	newdiv.style.left='-99999px';
+	body_element.appendChild(newdiv);
+	newdiv.innerHTML = copytext;
+	selection.selectAllChildren(newdiv);
+	window.setTimeout(function() {
+		body_element.removeChild(newdiv);
+	},0);
+}
+document.oncopy = addLink;
+</script>
 
 
 
