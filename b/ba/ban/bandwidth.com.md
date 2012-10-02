@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandwidth.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526005554id_/http%3A//bandwidth.com/resources/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidth.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002234143id_/http%3A//bandwidth.com/resources/legal/privacy.html) for the most accurate reproduction.*
 
 # Bandwidth.com Website Terms of Use | Legal | Bandwidth.com
 
