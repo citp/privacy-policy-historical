@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geology.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502111417id_/http%3A//geology.com/visitors/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geology.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002233710id_/http%3A//geology.com/visitors/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Geology.com
 
@@ -37,7 +37,7 @@ In the checkout process the visitor must type in name, address and credit card i
 
 #### Links to Other Websites
 
-To assist our visitors in learning about geology and earth science, we link out to other websites that have related content. When you click on one of these links you will be leaving our website. When we link to a website, we always review that site to be sure that it has quality content and to be sure that it is a site that we would recommend to our colleagues, friends, and members of our family. We do not control the content of these websites and encourage any Geology.com visitor to [contact us](https://web.archive.org/web/20120502111417id_/http%3A//geology.com/visitors/contact.shtml) if you feel that one of these sites contains information that is unsuitable for visitors of any age. 
+To assist our visitors in learning about geology and earth science, we link out to other websites that have related content. When you click on one of these links you will be leaving our website. When we link to a website, we always review that site to be sure that it has quality content and to be sure that it is a site that we would recommend to our colleagues, friends, and members of our family. We do not control the content of these websites and encourage any Geology.com visitor to [contact us](https://web.archive.org/web/20121002233710id_/http%3A//geology.com/visitors/contact.shtml) if you feel that one of these sites contains information that is unsuitable for visitors of any age. 
 
 #### Advertisements
 
