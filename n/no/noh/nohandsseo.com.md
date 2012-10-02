@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nohandsseo.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607045425id_/http%3A//nohandsseo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nohandsseo.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002224642id_/http%3A//nohandsseo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # No Hands SEO Privacy Policy
 
