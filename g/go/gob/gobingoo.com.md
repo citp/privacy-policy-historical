@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522115453id_/http%3A//www.gobingoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003002459id_/http%3A//www.gobingoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gobingoo
 
