@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505015013id_/http%3A//www.carolwrightgifts.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003010930id_/http%3A//www.carolwrightgifts.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # CarolWrightGifts.com | Privacy Policy
 
@@ -45,3 +45,11 @@ Customer Services
 100 Nixon Lane  
 P.O. Box 7823  
 Edison, NJ 08818-7823 
+
+**Third-Party Ads**
+
+We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or similar technologies which are industry standard technologies used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. 
+
+You can also read more about online marketing practices and the technologies that support them by visiting the [Network Advertising Initiative’s website.](http://www.networkadvertising.org/)
+
+If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/choices). 
