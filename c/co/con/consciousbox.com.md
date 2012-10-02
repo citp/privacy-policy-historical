@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consciousbox.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629001318id_/http%3A//consciousbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consciousbox.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002231306id_/http%3A//consciousbox.com/privacy) for the most accurate reproduction.*
 
 # Conscious Box | Privacy Policy
 
