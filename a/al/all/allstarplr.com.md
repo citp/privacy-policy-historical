@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstarplr.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610234037id_/http%3A//allstarplr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstarplr.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002235101id_/http%3A//allstarplr.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -76,6 +76,6 @@ POB 630346
 Highlands Ranch, CO 80163peggy@allstarplr.com
 
   
-[Home](https://web.archive.org/web/20120610234037id_/http%3A//index.html)  [TOS](http://allstarplr.com/terms)  [Privacy](http://allstarplr.com/privacy)  [FAQ](http://allstarplr.com/faq)  [Blog](http://allstarplr.com/blog)(c) Peggy Baron, [www.AllstarPLR.com](http://www.allstarplr.com/). All Rights Reserved.  
+[Home](https://web.archive.org/web/20121002235101id_/http://allstarplr.com/index.html)  [TOS](http://allstarplr.com/terms)  [Privacy](http://allstarplr.com/privacy)  [FAQ](http://allstarplr.com/faq)  [Blog](http://allstarplr.com/blog)(c) Peggy Baron, [www.AllstarPLR.com](http://www.allstarplr.com/). All Rights Reserved.  
 P.O. Box 630346  
 Highlands Ranch, CO 80163
