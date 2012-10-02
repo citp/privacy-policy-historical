@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centrepointstores.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208065233id_/http%3A//www.landmarkgroupme.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrepointstores.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002225320id_/http%3A//www.landmarkgroup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Landmark Group
 
-  * [Home](http://www.landmarkgroupme.com/)
+  * [Home](http://www.landmarkgroup.com/)
   * Privacy Policy
 
 
@@ -15,7 +15,7 @@ At the Landmark Group, we respect your privacy and protecting it is our responsi
 
 ###### Browsing
 
-This Web site (http://www.landmarkgroupme.com) does not collect personally identifiable information about you unless you voluntarily provide it to us. This means we will not know your name, your email address, or any other personal information just because you browse the Website unless you access the Web site from a link in an email that we sent to you.
+This Web site (http://www.landmarkgroup.com) does not collect personally identifiable information about you unless you voluntarily provide it to us. This means we will not know your name, your email address, or any other personal information just because you browse the Website unless you access the Web site from a link in an email that we sent to you.
 
 ###### Log information
 
