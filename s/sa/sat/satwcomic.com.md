@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satwcomic.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501031314id_/http%3A//satwcomic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satwcomic.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003005443id_/http%3A//satwcomic.com/privacy-policy) for the most accurate reproduction.*
 
 # Scandinavia and the World | Webcomic
 
