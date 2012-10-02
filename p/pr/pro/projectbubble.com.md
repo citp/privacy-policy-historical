@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232508id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012740id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,7 +10,7 @@ Project Bubble is committed to ensuring that your privacy is protected. This Pri
 
 [](https://privacy.truste.com/privacy-seal/Project-Bubble/validation?rid=f5fa4b07-25f7-49e9-a07d-89790477a234 "TRUSTe online privacy certification")
 
-Project Bubble LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, projectbubble.com, and through the Project Bubble service. It does not cover information that may be collected through our any mobile applications or through Offline venues. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [accounts@projectbubble.com](mailto:accounts@projectbubble.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Project Bubble LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, projectbubble.com, and through the Project Bubble service. It does not cover information that may be collected through our any mobile applications or through Offline venues. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@projectbubble.com](mailto:support@projectbubble.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ## **What we collect**
 
@@ -53,8 +53,8 @@ We may also disclose personal information as required by law, such as to comply 
 
 ## **Accessing your Information**
 
-As a user of our website and/or Service, If your personally information changes, or if you no longer desire our service, you may correct, update and amend your information by making the change within the Account Settings area of the Service, by emailing our Customer Support at [accounts@projectbubble.com](mailto:accounts@projectbubble.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.  
-If you wish to terminate your account you can do so by emailing us at [accounts@projectbubble.com](mailto:accounts@projectbubble.com) from the email address that you signed up with. Once we receive this email, providing the email matches your login details, we will terminate your account and any data relating to that account, such as projects and invoices. Please note that there is no undo to this procedure.
+As a user of our website and/or Service, If your personally information changes, or if you no longer desire our service, you may correct, update and amend your information by making the change within the Account Settings area of the Service, by emailing our Customer Support at [support@projectbubble.com](mailto:support@projectbubble.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.  
+If you wish to terminate your account you can do so by emailing us at [support@projectbubble.com](mailto:support@projectbubble.com) from the email address that you signed up with. Once we receive this email, providing the email matches your login details, we will terminate your account and any data relating to that account, such as projects and invoices. Please note that there is no undo to this procedure.
 
 We will retain personal data on behalf of our Clients for as long as an account is active and as needed to provide services to our Clients. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -74,7 +74,7 @@ We partner with a third party ad network to either display advertising on our We
 
 ## **Security**
 
-The security of your personal information and our clients’ information is important to us. When you enter sensitive information (such as login credentials or billing information) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact [accounts@projectbubble.com](mailto:accounts@projectbubble.com).
+The security of your personal information and our clients’ information is important to us. When you enter sensitive information (such as login credentials or billing information) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact [support@projectbubble.com](mailto:support@projectbubble.com).
 
 ## **Other Privacy Information**
 
@@ -84,11 +84,11 @@ Our website may contain links to other websites of interest. However, once you h
 
 #### _Blog / Forum_
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [accounts@projectbubble.com](mailto:accounts@projectbubble.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@projectbubble.com](mailto:support@projectbubble.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 #### _Testimonials_
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [accounts@projectbubble.com](mailto:accounts@projectbubble.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@projectbubble.com](mailto:support@projectbubble.com).
 
 #### _Social Media Widgets_
 
@@ -102,6 +102,6 @@ We may update this privacy policy to reflect changes to our information practice
 
 ## **Contacting Us**
 
-Email. [hello@projectbubble.com](mailto:hello@projectbubble.com)  
+Email. [support@projectbubble.com](mailto:support@projectbubble.com)  
 Tel. (US) 484-319-4055, (Int) +44 (0) 208 133 1805  
 Address. Project Bubble LLC, 113 Barksdale Professional Center, Newark, DE, 19711.
