@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1loop.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527012833id_/http%3A//1loop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1loop.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003005843id_/http%3A//memepix.com/privacy) for the most accurate reproduction.*
 
-# 1LOOP - Privacy Policy
+# MemePix - Privacy Policy
 
 ## Personal identification information
 
@@ -16,7 +16,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ## How we use collected information
 
-1LOOP collects and uses Users personal information for the following purposes: 
+MemePix collects and uses Users personal information for the following purposes: 
 
   * To personalize user experience.
   * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -48,7 +48,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 ## Changes to this privacy policy
 
-1LOOP has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+MemePix has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 ## Your acceptance of these terms
 
@@ -56,6 +56,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: <http://1loop.com/contact>
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: <http://memepix.com/contact>
 
 This document was last updated on October 30, 2011 
