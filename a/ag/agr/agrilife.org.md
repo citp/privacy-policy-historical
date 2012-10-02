@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2012-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120410191032id_/http%3A//agrilife.org/vc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002233349id_/http%3A//agrilife.org/vc/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Office of the Vice Chancellor
 
