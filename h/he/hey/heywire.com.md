@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heywire.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601134427id_/http%3A//www.heywire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heywire.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002232606id_/http%3A//heywire.com/privacy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
