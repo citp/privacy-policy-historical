@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the memepix.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623111155id_/http%3A//memepix.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memepix.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003005843id_/http%3A//memepix.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -11,25 +11,28 @@
 		<meta name="description" content="Privacy Policy">
 				
 		<title>MemePix - Privacy Policy</title>
-		<link rel="shortcut icon" type="image/x-icon" href="http://master-static.memepix.com/images/favicon.ico?1.0.1.7">
-		<link rel="stylesheet" href="http://master-static.memepix.com/v2/css/global.css?1.0.1.7">
+		<link rel="shortcut icon" type="image/x-icon" href="http://master-static.memepix.com/images/favicon.ico?6c5e2f1f5d998f870127ef0514608e43">
+		<link rel="stylesheet" href="http://master-static.memepix.com/v2/css/global.css?6c5e2f1f5d998f870127ef0514608e43">
 		
 		<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
 		
 		<script type="text/javascript">
 			<!--
 			
 			if (typeof jQuery == 'undefined')
 			{
-			    document.write(unescape("%3Cscript src='http://master-static.memepix.com/v2/js/jquery.js?1.0.1.7' type='text/javascript'%3E%3C/script%3E"));
+			    document.write(unescape("%3Cscript src='http://master-static.memepix.com/v2/js/jquery.js?6c5e2f1f5d998f870127ef0514608e43' type='text/javascript'%3E%3C/script%3E"));
 			}
 			
 			-->
-		</script><script src="http://master-static.memepix.com/v2/js/jquery.js?1.0.1.7" type="text/javascript"></script>
+		</script><script src="http://master-static.memepix.com/v2/js/jquery.js?6c5e2f1f5d998f870127ef0514608e43" type="text/javascript"></script>
 
 
-		<script type="text/javascript" src="http://master-static.memepix.com/v2/js/functions.js?1.0.1.7"></script>
-		<script type="text/javascript" src="http://master-static.memepix.com/v2/js/dfp.js?1.0.1.7"></script>
+		<script type="text/javascript" src="http://master-static.memepix.com/v2/js/functions.js?6c5e2f1f5d998f870127ef0514608e43"></script>
+		
+				
+		<script type="text/javascript" src="http://master-static.memepix.com/v2/js/dfp.js?6c5e2f1f5d998f870127ef0514608e43"></script>
 
 				
 	<script type="text/javascript">
@@ -53,30 +56,34 @@
 		
 		<div id="header">
 			<div class="hw">
-				<div class="searchform"><form action="/search" method="get"><input name="q" type="text" class="searchbar"><a class="shufflebutton" href="/random">Random</a><input type="submit" style="display:none"></form></div>
+				<div class="searchform"><form action="/search" method="get"><span class="randomAndSearchSpan"><a class="shufflebutton" href="/random">Random</a><a class="insearchbutton" href="javascript:toggleSearchBar();">search</a></span><input name="q" type="text" class="searchbar"><input type="submit" style="display:none"></form></div>
 				<ul id="menu">			
 					<li><a class="logo" href="/">MemePix</a></li>
-					<li><a class="upload" href="/upload">Upload</a></li>
+					<li><a href="/">Popular</a></li>
+					<li><a href="/upcoming">Upcoming</a></li>
+					<li><a href="/new">New</a></li>
+					<li><a href="/upload"><img style="margin-right:.3em;margin-top:-3px;vertical-align:middle;width:24px;height:24px" src="http://master-static.memepix.com/images/cloudupload.png?6c5e2f1f5d998f870127ef0514608e43" alt=""> Upload</a></li>
 					<li class="login last-child"><a href="/login">Log in</a></li>
 				</ul>
 				
 				<script type="text/javascript">
 				<!--
 					var blocking = false;
-					loginCheck();
+					initMenu();
 				-->
 				</script>
 			</div> <!-- hw -->
 		</div><!-- header -->
 		
 		
-		<span class="movetotop"></span>
-		<span class="feedbackspan"></span>
+		
+		<span class="lbContainer"></span>
+		
 		
 		<script type="text/javascript">
-		<!--
-			//feedback();
-		-->
+			<!--
+				populateLBContainer();
+			-->
 		</script>
 				
 		
@@ -88,22 +95,22 @@
 					
 
 						<ul class="breadcrumbs">
-															
-								<li><a href="/">Home</a></li>
-								
 																
-								<li>·</li>
-								
-																
-								<li><a href="/privacy">Privacy</a></li>
-								
-																
-								<li>·</li>
-								
-																
-								<li>Privacy policy</li>
-								
-														</ul>
+									<li><a href="/">Home</a></li>
+									
+																		
+									<li><span class="gt">&gt;</span></li>
+									
+																		
+									<li><a href="/privacy">Privacy</a></li>
+									
+																		
+									<li><span class="gt">&gt;</span></li>
+									
+																		
+									<li>Privacy policy</li>
+									
+															</ul>
 						
 
 						
@@ -117,7 +124,7 @@
 			
 			<script type="text/javascript">
 				<!--
-					//notification();
+					notification();
 				-->
 			</script>
 			
@@ -138,7 +145,7 @@
 		</script>
 		
 		
-		<div class="item">
+		<div class="item minheight" style="margin-bottom:40px">
 			<h1>Privacy Policy</h1>
 
 				
@@ -205,94 +212,115 @@
 		</div>	
 
 
-	
+			
+			<div class="baContainerMP">
+			
+
+				<center>
+					
+					<!-- 728x90_BOTTOM -->
+					<div id="div-gpt-ad-1342377805548-2" style="width:728px; height:90px;">
+												<script type="text/javascript">
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1342377805548-2'); });
+						</script>
+											</div>		
+
+				</center>
+				
+			</div>
+			
+				
+
 				</div>
 				
 				<div class="fourcol last sidebar">
 				
-			
+				
 					<div class="sideblock asblock as_one">
-
-						<!-- DFP SIDE TOP -->
-						<div id="div-gpt-ad-1338721448706-2" style="width:300px; height:250px; margin-left: 10px">
-							<script type="text/javascript">
-								googletag.cmd.push(function() { googletag.display('div-gpt-ad-1338721448706-2'); });
-							</script>
-						</div>
+					
+							<!-- 300x250_SIDE_TOP -->
+							<div id="div-gpt-ad-1342377805548-1" style="width:300px; height:250px; margin-left: 10px">
+																<script type="text/javascript">
+									googletag.cmd.push(function() { googletag.display('div-gpt-ad-1342377805548-1'); });
+								</script>
+															</div>
 
 					</div><!-- sideblock 1 -->
 
 					
-					<div id="fixedbox">
-						<div class="sideblock asblock">
+					
+					<div class="sideblock asblock as_two">
+					
+
+							<!-- 300x250_SIDE_MIDDLE -->
+							<div id="div-gpt-ad-1342377805548-0" style="width:300px; height:250px; margin-left:10px">
+																<script type="text/javascript">
+									googletag.cmd.push(function() { googletag.display('div-gpt-ad-1342377805548-0'); });
+								</script>
+															</div>
+
+
+					</div><!-- sideblock 2 -->
 						
 
-							<!-- DFP SIDE MIDDLE -->
-							<div id="div-gpt-ad-1338721448706-1" style="width:300px; height:250px; margin-left:10px">
+					<div id="fixedbox">
+						
+						<div class="sideblock sharemeta hidable">
+							<span style="display:block;text-align:left;margin-left:10px"><strong>Show us some love</strong></span>
+							<hr>
+							
+							<div style="display:block;text-align:left;margin-left:10px">
+	
+								<script language="javascript" type="text/javascript">
+								//<![CDATA[
+									document.write('<fb:like href="https://www.facebook.com/memepixcom" send="false" width="300" show_faces="true" label="Sidebar"></fb:like>	');
+								//]]>
+								</script><fb:like href="https://www.facebook.com/memepixcom" send="false" width="300" show_faces="true" label="Sidebar"></fb:like>	
+								
+							</div>
+							
+							<hr>
+							
+							<div style="display:block;text-align:left;margin-left:10px">
 								<script type="text/javascript">
-									googletag.cmd.push(function() { googletag.display('div-gpt-ad-1338721448706-1'); });
+								//<![CDATA[
+									document.write('<a href="https://twitter.com/memepix" class="twitter-follow-button" data-show-count="true"></a>');
+								//]]>
+									!function(d,s,id){
+										var js,fjs=d.getElementsByTagName(s)[0];
+										
+										if(!d.getElementById(id))
+										{
+											js=d.createElement(s);
+											js.id=id;
+											js.src="//platform.twitter.com/widgets.js";
+											fjs.parentNode.insertBefore(js,fjs);
+										}
+										
+									}
+									(document,"script","twitter-wjs");
+								</script><a href="https://twitter.com/memepix" class="twitter-follow-button" data-show-count="true"></a>
+							</div>
+							
+							<hr>
+							
+							<div style="display:block;text-align:left;margin-left:10px">
+								<script language="javascript" type="text/javascript">
+								//<![CDATA[
+									document.write('<g:plusone size="medium" width="300" annotation="inline" href="http://memepix.com"></g:plusone>');
+								//]]>
+								</script><g:plusone size="medium" width="300" annotation="inline" href="http://memepix.com"></g:plusone>
+								
+								
+								<script type="text/javascript">
+								  (function() {
+								    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+								    po.src = 'https://apis.google.com/js/plusone.js';
+								    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+								  })();
 								</script>
 							</div>
-
-						</div><!-- sideblock 2 -->
-						
-						
-					<div class="sideblock sharemeta hidable">
-						<span style="display:block;text-align:left;margin-left:10px"><strong>Show us some love</strong></span>
-						<hr>
-						
-						<div style="display:block;text-align:left;margin-left:10px">
-
-							<script language="javascript" type="text/javascript">
-							//<![CDATA[
-								document.write('<fb:like href="https://www.facebook.com/memepixcom" send="false" width="300" show_faces="true" label="Sidebar"></fb:like>	');
-							//]]>
-							</script><fb:like href="https://www.facebook.com/memepixcom" send="false" width="300" show_faces="true" label="Sidebar"></fb:like>	
-							
-						</div>
-						
-						<hr>
-						
-						<div style="display:block;text-align:left;margin-left:10px">
-							<script type="text/javascript">
-							//<![CDATA[
-								document.write('<a href="https://twitter.com/memepix" class="twitter-follow-button" data-show-count="true"></a>');
-							//]]>
-								!function(d,s,id){
-									var js,fjs=d.getElementsByTagName(s)[0];
-									
-									if(!d.getElementById(id))
-									{
-										js=d.createElement(s);
-										js.id=id;
-										js.src="//platform.twitter.com/widgets.js";
-										fjs.parentNode.insertBefore(js,fjs);
-									}
-									
-								}
-								(document,"script","twitter-wjs");
-							</script><a href="https://twitter.com/memepix" class="twitter-follow-button" data-show-count="true"></a>
-						</div>
-						
-						<hr>
-						
-						<div style="display:block;text-align:left;margin-left:10px">
-							<script language="javascript" type="text/javascript">
-							//<![CDATA[
-								document.write('<g:plusone size="medium" width="300" annotation="inline" href="http://memepix.com"></g:plusone>');
-							//]]>
-							</script><g:plusone size="medium" width="300" annotation="inline" href="http://memepix.com"></g:plusone>
-							
-							
-							<script type="text/javascript">
-							  (function() {
-							    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-							    po.src = 'https://apis.google.com/js/plusone.js';
-							    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-							  })();
-							</script>
-						</div>
-					</div><!-- sideblock 3 -->
+						</div><!-- sideblock 3 -->
 
 						
 						
@@ -310,7 +338,7 @@
 		<div id="footer">
 			<div class="container">
 				<div class="row">
-					<div class="twelvecol last">© MemePix 2012 · some rights reserved · content under <a rel="nofollow" target="_blank" href="http://creativecommons.org/licenses/by-sa/3.0/">creative commons</a> · <a class="rss" rel="nofollow" target="_blank" href="/rss">XML Feed</a> · <a href="/privacy">Privacy Policy</a> · <a href="/contact">Contact</a></div>
+					<div class="twelvecol last">© MemePix 2012 · Some rights reserved · Content under <a rel="nofollow" target="_blank" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons</a> · <a class="rss" rel="nofollow" target="_blank" href="/rss">XML Feed</a> · <a href="/privacy">Privacy Policy</a> · <a href="/contact">Contact</a></div>
 				</div>
 			</div>
 		</div><!-- footer -->
