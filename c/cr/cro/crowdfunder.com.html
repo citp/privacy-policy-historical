@@ -1,7 +1,181 @@
-<!--The following is the downloaded HTML source of the crowdfunder.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508134859id_/http%3A//crowdfunder.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdfunder.com privacy policy that was archived on 2012-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002234331id_/http%3A//www.crowdfunder.com/privacy-policy) for the most accurate reproduction.-->
 
-<html><head></head><body><p class="align-center"><strong>crowdfunder, Inc. Privacy Policy</strong></p>
+<!DOCTYPE html><html><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>The Business Crowdfunding Platform</title>
+	<meta name="description" content="Business Crowdfunding for U.S. startups and small businesses to raise funds through equity, debt, and revenue-based investment">
+	<meta property="og:title" content="The Business Crowdfunding Platform">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://www.crowdfunder.com/">
+	<meta property="og:image" content="http://www.crowdfunder.com/logo-crowdfunder.jpg">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/ie-html5.js"></script>
+	<script src="/js/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/js/global.js"></script>
+
+    <script type="text/javascript" src="/app/views/site/js/global.js"></script>
+			    <link rel="stylesheet" href="/css/reset.css">
+	<link rel="stylesheet" href="/css/style.css">
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#.nav .info").hover(function(){
+				$("#info_dropdown").fadeTo(100, 1);
+				}, function(){
+					$("#info_dropdown").stop().fadeTo(100, 0, function(){
+					$("#info_dropdown").hide();
+				});
+			});
+			$("#.nav .contest").hover(function(){
+				$("#contest_dropdown").fadeTo(100, 1);
+				}, function(){
+					$("#contest_dropdown").stop().fadeTo(100, 0, function(){
+					$("#contest_dropdown").hide();
+				});
+			});
+                                    
+            $("#user_logged_in_name").hover(function(){
+                $("#logged_in_dropdown").fadeTo(100, 1);
+            }, function(){
+                $("#logged_in_dropdown").stop().fadeTo(100, 0, function(){
+                    $("#logged_in_dropdown").hide();
+                });
+            });
+           
+            		});
+	</script>
+    	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-29342472-1']);
+	  _gaq.push(['_trackPageview']);
+		
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+<body>
+<header id="header-main">
+	<div class="container">
+		<h1><a href="/"><span>Crowdfunder</span></a></h1>
+		<ul class="nav">
+			<li class="contest"><a href="/crowdstart-las-vegas"><span>Startup Contest</span></a>
+				<ul id="contest_dropdown">
+					<li><a href="/crowdstart-las-vegas">CROWDSTART LV</a></li>
+					<li><a href="/crowdstart-la">CROWDSTART LA</a></li>
+				</ul>
+			</li>
+			<li class="explore"><a href="/companies"><span>Explore</span></a></li>
+			<li class="fund"><a href="/company/create"><span>Add Your Company</span></a></li>
+			<li class="info"><a href="/equity-crowdfunding-infographic">Info</a>
+				<ul id="info_dropdown">
+					<li><a href="/how-it-works">How it works</a></li>
+					<li><a href="/about">About crowdfunder</a></li>
+					<li><a href="/crowdfunding-law">Crowdfunding Law</a></li>
+					<li><a href="/press">Press</a></li>
+					<li><a href="/equity-crowdfunding-infographic">Infographic</a></li>
+				</ul>
+			</li>
+			<li class="header-signin"><a href="#login-popup" id="nav-login">Login</a> | <a href="/user/signup">Sign Up</a></li>
+		</ul>
+		<div class="container-login-box">
+				<div id="container-login">
+					<div class="login-header">
+						<h2>Login to your account</h2>
+						<a href="#" class="popup-close"><img src="/img/icon-close-login.png" width="14" height="14" alt="Close"></a>
+					</div>
+					<div class="login-content">
+						<form action="/user/login" method="POST" class="form-user-login vform">
+							<div class="login-error"></div>
+							<label for="email">E-Mail</label>
+							<input type="text" name="email" id="email" class="required email" value="">
+							
+							<label for="password">Password</label>
+							<input type="password" name="password" id="password" class="required" value="">
+							<a href="/user/forgotpassword" class="forgot-password">Forgot password?</a>
+							
+							<input type="image" id="login" name="login" value="Login" src="/img/button-login-noshadow.png">
+						</form>
+						<div class="form-user-facebook">
+							<p class="title">Sign in with Facebook</p>
+							
+						<div id="fb-root">
+						</div>
+						<script>
+							window.fbAsyncInit = function () {
+								FB.init({
+									appId: "316588531727159", // App ID
+									status: true, // check login status
+									cookie: true, // enable cookies to allow the server to access the session
+									oauth: true, // enable OAuth 2.0
+									xfbml: true  // parse XFBML
+								});
+							};
+					
+							// Load the SDK Asynchronously
+							(function (d) {
+								var js, id = "facebook-jssdk"; if (d.getElementById(id)) { return; }
+								js = d.createElement("script"); js.id = id; js.async = true;
+								js.src = "//connect.facebook.net/en_US/all.js";
+								d.getElementsByTagName("head")[0].appendChild(js);
+							} (document));
+							
+							
+						$(document).ready(function () {
+							$("#fbRegister").click(function (e) {
+								e.preventDefault();
+								FB.getLoginStatus(function (response) {
+									if (response.authResponse) {
+										var facebookId = response.authResponse.userID.toString();
+										var token = response.authResponse.accessToken.toString();
+										$("#facebookId").val(facebookId);
+										$("#token").val(token);
+										$("#form").submit();
+									}
+									else {
+										FB.login(function (response) {
+											if (response.authResponse) {
+												var facebookId = response.authResponse.userID.toString();
+												var token = response.authResponse.accessToken.toString();
+												$("#facebookId").val(facebookId);
+												$("#token").val(token);
+												$("#form").submit();
+											}
+											else {
+												return false;
+											}
+										}, { scope: "publish_stream, email" });
+									}
+								});
+							});
+						});
+						</script>
+						<a href="#" id="fbRegister">
+							<img src="/img/button-connect-facebook183.png" width="183" height="32" id="fbRegister" alt="Login with Facebook">
+						</a>
+						<form action="/user/signup" method="post" id="form">
+							<span style="display: none">
+								<input id="facebookId" type="text" name="FacebookId">
+								<input id="token" type="text" name="FacebookToken">
+							</span>
+						</form>
+						
+							
+							
+							
+							
+							<p class="login-newuser">New to crowdfunder?<br>
+							<a href="/user/signup">Create an account</a></p>
+						</div>
+					</div>
+				</div>
+			</div>	</div>
+    <input type="hidden" value="cf_stage" id="S3BUCKET">
+</header>
+<div class="container policies">
+	<p class="align-center"><strong>crowdfunder, Inc. Privacy Policy</strong></p>
 	<p class="align-center"><strong>Last Updated February 12, 2012</strong></p>
 	<p>crowdfunder.com is committed to respecting your privacy and using your information carefully and sensibly. This Privacy Policy describes what information we may collect about you and the ways we may use or share such information. By using crowdfunder.com (the "Site"), you accept all of the practices described in this Privacy Policy, as they may be updated by us from time to time in our sole discretion.</p>
 	<ol>
@@ -53,4 +227,15 @@
 		<li><strong>Governing Law.</strong> By using the Site, you agree that this Privacy Policy is governed by California law and that any and all controversies arising under this Privacy Policy shall be resolved exclusively by the state or federal courts located in Los Angeles County, California.</li>
 		<li><strong>Contact. </strong>If you need to contact us regarding this Privacy Policy, we can be reached at: privacy@crowdfunder.com.</li>
 	</ol>
-	<p class="align-center"><strong>© 2012 crowdfunder, Inc. All rights reserved.</strong></p></body></html>
+	<p class="align-center"><strong>© 2012 crowdfunder, Inc. All rights reserved.</strong></p>
+</div>
+<footer id="footer-main">
+	<div class="container">
+		<img src="/img/logo-crowdfunder-small.png" width="93" height="13" alt="crowdfunder">
+		<div class="facebook"><div class="fb-like" data-href="http://crowdfunder.com" data-send="false" data-width="220" data-show-faces="false" data-colorscheme="dark" data-font="tahoma"></div></div>
+		<p class="help"><!-- <a href="#">Help</a> | <a href="#">Guidelines</a> | --><a href="/terms-of-use">Terms of Use</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="mailto:info@crowdfunder.com">Contact</a> | <a href="http://support.crowdfunder.com" target="_blank">Support</a></p>
+		<p class="copyright">© 2012 crowdfunder</p>
+	</div>
+</footer>
+
+</body></html>
