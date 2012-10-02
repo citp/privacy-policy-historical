@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sectionhiker.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501130810id_/http%3A//sectionhiker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sectionhiker.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002231219id_/http%3A//sectionhiker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Section Hiker
 
@@ -44,3 +44,10 @@ When you visit the SectionHiker.com web site, we or a third-party advertiser may
 The SectionHiker.com web site contain links to sites operated by our business partners and other third parties. Once you leave the SectionHiker.com web site, you may or may not see a new URL in the location bar. Please review the linked site’s privacy policies, and if you do not agree to be bound by the terms of the policies governing that site, terminate your visit to that site. We are not responsible for the privacy policies and practices of the sites operated by our business partners or other third parties.
 
 [](http://www.printfriendly.com/print/v2?url=http://sectionhiker.com/privacy-policy/)
+
+#### Tags
+
+  * children without supervision on the appalachian trail
+  * sectionhiker email
+
+
