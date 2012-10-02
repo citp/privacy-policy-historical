@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-ozone.net privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606011145id_/http%3A//www.the-ozone.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-ozone.net privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002233014id_/http%3A//the-ozone.net/privacypolicy.htm) for the most accurate reproduction.*
 
 # The-Ozone, Ohio State Football, Wrestling, Softball, Basketball, Hockey, Baseball and More
 
