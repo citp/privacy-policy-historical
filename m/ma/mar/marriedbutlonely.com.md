@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriedbutlonely.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511222515id_/http%3A//www.marriedbutlonely.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriedbutlonely.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002234757id_/http%3A//www.marriedbutlonely.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Married Lonely Women - Free Adult Dating Personals
 
@@ -14,14 +14,15 @@ In order for our Services to work and to work economically, we need to obtain fr
 
 We also collect data that may be considered personally identifiable in a strict sense, but is not routinely used for individual purposes by us, (called here "technical information") including the IP address from which you access our web site, the browser, browser version, operating system, and screen resolution of the computer you are using. All of these things are necessary to format our web site for your display and to get it to your computer. We may use this information in aggregate form to learn how best to serve the needs and interests of our users. 
 
+  
 We occasionally use cookies to anonymously track and target the interests of our Users to enhance the experience on our Website and/or for advertising tracking purposes. In addition, cookies may be used on our Website for the operation of enhanced capabilities available to members, such as instant messaging. We do not and will not use cookies to collect private information from any User.   
 **  
-What we do with the Information we Collect.**
-
+What we do with the Information we Collect.**  
 The personally-identifiable information obtained from our users is used in a variety of ways. 
 
-First, the personally-identifiable information is used to create, modify, and maintain the profiles of the users, to serve indexing and search utilities, to implement the functionality of the web site, to track usage, and to make the use of its Services enjoyable and rewarding to everyone involved in it.  To the extent we rely on third parties to provide such services, information is only shared with third parties working on behalf of Crazy Protocol and under specific agreement. By submitting your information to marriedbutlonely.com, you thereby consent to receive periodic email communications from Crazy Protocol, Inc. regarding the services, new product offers, promotions, announcements, and other matters.
+First, the personally-identifiable information is used to create, modify, and maintain the profiles of the users, to serve indexing and search utilities, to implement the functionality of the web site, to track usage, and to make the use of its Services enjoyable and rewarding to everyone involved in it.  To the extent we rely on third parties to provide such services, information is only shared with third parties working on behalf of Crazy Protocol and under specific agreement. By submitting your information to marriedbutlonely.com, you thereby consent to receive periodic email communications from Crazy Protocol, Inc. regarding the services, new product offers, promotions, announcements, and other matters. If you wish to unsubscribe from these email communications you my do so by visiting [this link](https://web.archive.org/web/20121002234757id_/http%3A//www.marriedbutlonely.com/unsubscribe.php) and adding your email to marriedbutlonely.com unsubscribe list.
 
+  
 Second, we may contact you by email or otherwise to confirm or terminate registration, to advise you of changes in our Terms of Service, to deal with any issues particular to you, to alert you of member communications, events services. Information will never be sold or leased to any third party or affiliated companies.  
 
 
