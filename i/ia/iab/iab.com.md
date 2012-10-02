@@ -1,55 +1,93 @@
-> *The following text is extracted and transformed from the iab.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425005105id_/http%3A//iab.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iab.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002210431id_/http%3A//www.indigoazure.com/index.php/privacy-statement.html) for the most accurate reproduction.*
 
-# IAB.com, Privacy Policy
+# Privacy Statement
 
-1\. ISV HOLDINGS INC. DBA INTERNET ADVERTISING BOARD ONLINE PRIVACY POLICY  
-The Internet Advertising Board site, IAB.com, and associated sites are maintained by ISV Holdings, Inc.
+Effective as of April 2, 2012
 
-ISV collects personally identifying information and data about individuals, their company, and the companies demographics (“personally identifying information and data”) including (i) when you provide information to ISV, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with ISV, (ii) when you register or sign up on the ISV site or when you register for any other ISV products individually or through “auto register”, your information will be known to ISV and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to ISV.
+Indigo Alpha Bravo, inc. (“Indigo” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Indigo’s Web site privacy practices.
 
-Below is the current policy regarding the usage of personally identifying information and data collected by ISV. We reevaluate this policy on an ongoing basis based on feedback from readers. ISV reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. 
+1\. Web Site 
 
-ISV or one of our ISV affiliated companies, or third party partners may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user.  
-If you have registered with ISV, the information in your "cookie" is used to provide a more personalized experience on our Web site.
+Indigo Alpha Bravo, http://www.iab.com, is an online marketplace for web and mobile interactive advertising products and services (“applications”). Applications may be posted by Indigo and third parties. When applications are posted by Indigo, this Privacy Statement applies. When applications are posted by third parties, the privacy statement of the third party applies, and this Privacy Statement does not apply.
 
-If you haven't registered with our site, we may place a cookie on your system to help provide a more personalized experience on IAB.com. This cookie identifies you as a unique user by means of a tracking ID. However, if you have not registered on our site, we cannot link that user ID with personal identifying information and data about you such as your name or e-mail address.
+2\. Information Collected
 
-Other cookies without personally identifying information and data are used to enable ISV to manage the banner advertisements presented or personalized information to the user.
+Indigo offers a variety of applications and services that are collectively referred to as the “Services.” Indigo collects information from individuals who visit the Company’s site (“Visitors”) and individuals who register to use or receive information about the Services (“Customers”).
 
-Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by IAB.com.
+When expressing an interest in obtaining additional information about the Services or registering to use the Services, Indigo requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”).  When purchasing the Services through Indigo, we require you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). Indigo may also ask you to provide additional information, such as marketing budget, ad impressions per month, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Indigo Customers.”
 
-**The aggregated information we collect is used for a number of purposes including the following :**  
-**1.** to improve the content and design of the IAB.com Web site   
-**2.** to enable our audit bureau to verify our claims of traffic to the site   
-**3.** to help advertisers, potential advertisers or marketers assess the suitability of the site for their ad  campaigns   
-**4.** as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFS let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address).   
-**5.** We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of IAB.com, its sister ISV companies, or select organizations. 
+As you navigate the Company site, Indigo may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web sites (such as the Web pages viewed and the links clicked). 
 
-Postal addresses, and other personally identifying information and data will be used to promote IAB.com and other ISV companies ‘ products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.
+3\. Use of Information Collected
 
-Telephone numbers of IAB.com are used by ISV to collect qualification data and may be used by IAB.com, and other ISV companies, affiliates and it's advertisers for promotional purposes. ISV may rent and/or license for use phone numbers to select outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully.
+The Company uses Data About Indigo Customers to perform the services requested. The Company may also use Data About Indigo Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company and its partners, such as information about promotions or events.
 
-Fax numbers of IAB.com users are used by ISV to collect qualification data and may be used for surveys for ISV and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.
+Indigo uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services.
 
-E-mail addresses of IAB.com users are used for qualification purposes. These e-mail addresses may also be used to collect feedback by members of our staff, to promote IAB.com and ISV products and services, and they may be rented to other firms and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from IAB.com and its sister ISV companies, and the ISV Network. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can individually “opt-out” of receiving further e-mail from outside firms, IAB.com, its sister ISV companies and the ISV Network. If a user does not choose to “opt-out” at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.
+Indigo uses Web Site Navigational Information to operate and improve the Company’s site. The Company may also use Web Site Navigational Information alone or in combination with Data About Indigo Customers to provide personalized information about the Company or third parties. 
 
-Users who later decide they want to change their preferences may do so at:   
-http://www.iab.com/newsletters.php  
-Personal identifying information submitted on portions of our site developed with outside third parties may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as ISV's. ISV, nor any of its parent companies or any of its subsidiaries or affiliates do not bear any responsibility for any actions or policies of such third parties.
+4\. Web Site Navigational Information
 
-ISV users should be aware that when they disclose personal identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. IAB.com nor its parent company or any of its subsidiaries or affiliates are not responsible for any information that you provide in the above areas. 
+Indigo uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web sites (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information that may be collected on the Company’s Web sites and how this information may be used.
 
-In the event that the ownership of IAB.com or any of its products are sold or transferred, all lists and data which contains personally identifying information and data including for example user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
+Cookies
 
-2\. ISV ONLINE REGISTRATION PRIVACY POLICY  
-Below is the current policy regarding the usage of personally identifying information and data collected by ISV. We reevaluate this policy on an ongoing basis based on feedback from readers. ISV reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. 
+Indigo uses cookies to make interactions with the Company Web site easy and meaningful. When you visit the Company Web site, Indigo servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Indigo, either by responding to a promotion or by registering, you remain anonymous to the Company.
 
-To access restricted content and receive special offers on IAB.com you must be a member of the Internet Advertising Board. To become a member of the Internet Advertising Board, you need to provide certain information about yourself. Any ISV site may use this identifying information for internal analytical and business development purposes and, to send you email. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time. 
+Indigo com uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
 
-You can "opt-out" of receiving further email by clicking the appropriate links that appear at the bottom of any email you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site, please refer to the site's privacy policy for the procedure to follow. 
+If you have chosen to identify yourself to Indigo, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Services, a session cookie containing an encrypted, unique identifier that is tied to your account is placed your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and requests. Session cookies are required to use the Services.
 
-The Internet Advertising BOard is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone less than 13 years of age. Further no one less than 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under that age of 18 may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the ISV Network.
+Indigo uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company’s Web sites. When you purchase the Services or provide the Company with personal information, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. If you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web sites, but you will not be able to successfully use the Services.
 
-If you have any questions or comments regarding the ISV Network or its use of information please send email to [isvnetwork@iab.com](mailto:isvnetwork@iab.com).
+Indigo may use information from session and persistent cookies in combination with Data About Indigo Customers to provide you with information about the Company and the Services.
 
-Last updated: March 17, 2007. 
+Web Beacons
+
+Indigo uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company Web site and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Indigo may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to the Company Web site. Indigo uses Web beacons to operate and improve the Company Web site and email communications.
+
+Indigo may use information from Web beacons in combination with Data About Indigo Customers to provide you with information about the Company and the Services.
+
+IP Addresses
+
+When you visit Indigo’s Web site, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. Indigo also collects IP addresses from Customers when they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
+
+Third Party Cookies
+
+From time-to-time, Indigo engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company Web site.  Indigo may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
+
+Indigo also contracts with third-party advertising networks that collect IP addresses and other Web Site Navigational Information on the Company Web site and emails and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts. 
+
+5\. Sharing of Information Collected
+
+Indigo may share Data About Indigo Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Indigo may also share Data About Indigo Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this privacy statement, Indigo does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
+
+From time to time, Indigo may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Indigo, the Company may share Data About Indigo Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Indigo does not control our business partners’ use of the Data About Indigo Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
+
+Indigo uses a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
+
+Indigo reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+
+6\. International Transfer of Information Collected
+
+To facilitate Indigo‘s global operations, the Company may transfer and access Data About Indigo Customers from around the world, including the United States. This Privacy Statement shall apply even if Indigo transfers Data About Indigo Customers to other countries.
+
+7\. Communications Preferences
+
+Indigo offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking here or by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [contact@iab.com](mailto:contact@iab.com). Customers cannot opt out of receiving transactional emails related to their account with Indigo or the Services.
+
+8\. Correcting and Updating Your Information
+
+Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to http://www.iab.com with your Indigo username and password and click “Settings.” To discontinue your account and to have information you maintained in the Services returned to you, please email [contact@iab.com](mailto:contact@iab.com). Requests to access, change, or delete your information will be handled within 30 days.
+
+9\. Customer Data
+
+Indigo Customers may electronically submit data or information to the Services for hosting and processing purposes (“Customer Data”). Indigo will not review, share, distribute, or reference any such Customer Data except as provided in the Indigo Terms of Service Agreement, or as may be required by law. In accordance with the Indigo Terms of Service Agreement, Indigo may access Customer Data only for the purpose of providing the Services, preventing or addressing service or technical problems, at a Customer’s request in connection with customer support matters, or as may be required by law. 
+
+10\. Changes to this Privacy Statement
+
+Indigo reserves the right to change this Privacy Statement. Indigo will provide notification of the material changes to this Privacy Statement through the Company Web site at least thirty (30) business days prior to the change taking effect.
+
+13\. Contacting Us
+
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to [contact@iab.com](mailto:contact@iab.com).  
