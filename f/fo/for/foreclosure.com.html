@@ -1,19 +1,49 @@
-<!--The following is the downloaded HTML source of the foreclosure.com privacy policy that was archived on 2012-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507200748id_/http%3A//www.foreclosure.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foreclosure.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003013848id_/http%3A//www.foreclosure.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
 <title>
 Privacy Policy and Security Statement
 </title>
 <style><!--
 //-->
 </style>
-<link rel="stylesheet" type="text/css" href="http://d2fhxcx29yssgj.cloudfront.net/content/css/build/2012-05-04-08-34-51/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://d2fhxcx29yssgj.cloudfront.net/content/css/build/2012-05-04-08-34-51/print.css" media="print">
-<!--<link rel="stylesheet" type="text/css" href="http://d2fhxcx29yssgj.cloudfront.net/css/printstyle.css" media="print" />-->
+<link rel="stylesheet" type="text/css" href="//foreclosure-activedt.netdna-ssl.com/content/css/build/52658-5609/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="//foreclosure-activedt.netdna-ssl.com/content/css/build/52658-5609/print.css" media="print">
+<!--<link rel="stylesheet" type="text/css" href="//foreclosure-activedt.netdna-ssl.com/css/printstyle.css" media="print" />-->
 <meta name="keywords" content="Foreclosures, Home Foreclosures, Bank Foreclosures, HUD foreclosures">
 <meta name="description" content="We are the source for everything foreclosure related. Bank foreclosures, Home Foreclosures, For Sale By Owner, FSBOs, and all real estate related books.">
 <meta name="ROBOTS" content="INDEX,FOLLOW">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1780640-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="//foreclosure-activedt.netdna-ssl.com/lib/jquery-1_4_2/jquery-1.4.2.min.js"></script>
+<script>$j = jQuery.noConflict();</script>
+<script type="text/javascript">
+$j(document).ready(function() {
+$j('#btnRefreshImage').click(function() {
+$j("#userVerification").attr("method","get");
+$j("#userVerification").submit();
+return false;
+});
+var stickyHeaderTop = $j('#sticky').offset().top;
+$j(window).scroll(function(){
+if( $j(window).scrollTop() > stickyHeaderTop ) {
+//$j('#sticky').css({position: 'fixed', top: '0px', float: 'right'});
+$j('#sticky').addClass("sticky");
+} else {
+$j('#sticky').removeClass("sticky");
+}
+});
+});
+</script>
 <script language="JavaScript">
 <!--
 var doAlerts=true;
@@ -31,121 +61,115 @@ document.styleSheets[i].disabled=false;
 }
 //-->
 </script>
-<script type="text/javascript" src="http://d2fhxcx29yssgj.cloudfront.net/css/footernav.js"></script>
+<script type="text/javascript" src="//foreclosure-activedt.netdna-ssl.com/css/footernav.js"></script>
 <link href="https://plus.google.com/u/0/b/108515484978790620417/" rel="publisher">
-
-<script type="text/javascript" src="http://d2fhxcx29yssgj.cloudfront.net/lib/jquery-1_2_6/jquery-1.2.6.min.js"></script>
-<script>$j = jQuery.noConflict();</script>
-<script type="text/javascript" src="http://d2fhxcx29yssgj.cloudfront.net/lib/jquery-google-analytics/jquery.google-analytics.js?v2"></script><script type="text/javascript">
-function iniTrack(){
-$j("img,a,area,button").map(function() {
-var a = $j(this).attr('cmp-imp');
-var label = $j(this).attr('alt');
-if (a != undefined){
-$j(this).track({
-category : a,
-label : label,
-action : 'impressions',
-event_name : 'impressions',
-skip_internal : false
-});
-$j(this).trigger('impressions');
-addTrack(this);
-}
-if (a == undefined){
-var c = $j(this).attr('cmp-clk');
-var label = $j(this).attr('alt');
-if (c != undefined){
-$j(this).click(function(){
-$j(this).track({
-category : c,
-label : label,
-action : 'click',
-event_name : 'click',
-skip_internal : false
-});
-});
-}
-}
-});
-$j('input#btnSubmit').track({
-category : 'Trial Form BTN',
-label : 'Yes, Start my trial',
-skip_internal : false
-});
-$j('form#formRegistration :input').change(function(element) {
-$j(this).track({
-category : function(element) { return 'Trial Form input '},
-label : function(element) { return element.attr('name');},
-action : 'input',
-skip_internal : false
-});
-});
-$j('form#formRegistration select').change(function(element) {
-$j(this).track({
-category : function(element) { return + 'Trial Form select '} ,
-label : function(element) { return element.attr('name');},
-action : 'input',
-skip_internal : false
-});
-});
-$j('#headInternational a').track({
-category : 'registration Form BTN International',
-label : function(element) { return element.attr('id');},
-action : 'input',
-skip_internal : false
-});
-$j('#submitQuestionVC').track({
-category : 'Contact Community Expert ',
-skip_internal : false
-});
-}
-function addTrack(v){
-$j(v).map(function() {
-var cmpClk = $j(v).attr('cmp-clk');
-var label = $j(v).attr('alt');
-if (cmpClk != undefined){
-$j(v).removeClass('tracked');
-$j(v).track({
-category : cmpClk,
-label : label,
-action : 'click',
-skip_internal : false
-});
-}
-});
-}
-$j.trackPage('UA-1780640-1','www.foreclosure.com', {callback: iniTrack, user: 'loggedOff-rsp-20129'});
-$j(document).ready(function() {
-$j('#btnRefreshImage').click(function() {
-$j("#userVerification").attr("method","get");
-$j("#userVerification").submit();
+<script src="//foreclosure-activedt.netdna-ssl.com/lib/jquery-autocomplete-1_1/lib/jquery.bgiframe.min.js" type="text/javascript"></script>
+<script src="//foreclosure-activedt.netdna-ssl.com/lib/jquery-autocomplete-1_1/jquery.autocomplete.js" type="text/javascript"></script>
+<script type="text/javascript">
+$j(document).ready(function(){
+$j("#headerOneBoxSearchInp").autocomplete("/locationautocomplete.html", { minChars: 3, width: 306, selectFirst:false });
+$j("#searchOneBox").click(function() {
+if ($j("#headerOneBoxSearchInp").val() == "Address or City, State or Zip Code"){
+$j("#errorOneboxSearch").text("Please enter Address or City, State or Zip Code");
 return false;
+}else{
+return true;
+}
+});
+$j("#headerOneBoxSearchInp").result(headerOneBoxSearchInp).next().click(function() {
+$j(this.form).submit();
 });
 });
-</script></head>
-
-
-
+function headerOneBoxSearchInp(){
+$j(this.form).submit();
+}
+function clearBlur(input, valInput){
+if($j(input).val() == ''){
+$j(input).val(valInput);
+}
+}
+function clearClick(input, valInput){
+if($j(input).val() == valInput){
+$j(input).val('');
+$j("#errorOneboxSearch").text("");
+}
+}
+</script>
+<script type="text/javascript">
+$j(document).ready(function() {
+var obFlyBanner = {
+setCookie: function( name, value, expires, path, domain, secure ) { var today = new Date(); today.setTime( today.getTime() ); if ( expires ) { expires = expires * 1000 * 60 * 60 * 24; }; var expires_date = new Date( today.getTime() + (expires) ); document.cookie = name + "=" +escape( value ) + ( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + ( ( path ) ? ";path=" + path : "" ) + ( ( domain ) ? ";domain=" + domain : "" ) + ( ( secure ) ? ";secure" : "" );},
+close: function(){ obFlyBanner.setCookie('hideflyout', '1', null, '/'); }
+};
+var obRandom = Math.floor(Math.random() * $j(".obSlide").length);
+var scrollStartPos = 350;
+if(obRandom == 0 || obRandom == 1){
+//$j("#obFlyMain").addClass('bgYellow');
+}
+$j(".obSlide:eq("+obRandom+")").show();
+var obFly = true;
+var trackFly = true;
+$j("#obFlyClose").click(function () {
+obFly = false;
+if (!$j("#obFlyMain").hasClass('animated')) {
+$j("#obFlyMain").dequeue().stop().animate({ right: "-380px" });
+}
+obFlyBanner.close();
+});
+$j(window).scroll(function () {
+var s = $j(window).scrollTop();
+if(s<=scrollStartPos && obFly){
+$j("#obFlyMain").removeClass('animated').dequeue();
+if(!$j("#obFlyMain").hasClass('animated')){
+$j("#obFlyMain").dequeue().stop().animate({ right: "-380px" });
+}
+}
+if (!$j("#obFlyMain").hasClass('animated') && s>=scrollStartPos && obFly) {
+if(trackFly){
+var cat = $j(".obSlide:eq("+obRandom+")").find('a').attr('cmp-clk');
+var label2 = $j(".obSlide:eq("+obRandom+")").find('a').attr('title');
+$j(".obSlide:eq("+obRandom+"):visible").trigger('impressions');
+$j(".obSlide:eq("+obRandom+"):visible").removeClass('tracked');
+trackFly = false;
+}
+$j("#obFlyMain").dequeue().stop().animate({ right: "0px" });
+}
+});
+});
+</script>
+<link rel="stylesheet" href="//foreclosure-activedt.netdna-ssl.com/content/css/headerSearch.css?v=072412" type="text/css">
+</head>
 <body>
 <div class="iehackwrap">
 <div class="boxwrap">
 <div class="topbar" id="topbarheader"></div>
-<div class="boxheader">
-<div class="boxheaderleft"><a href="/" title="foreclosures"><img src="http://d2fhxcx29yssgj.cloudfront.net/content/img/foreclosure_logo_whitebg.gif" alt="foreclosures" border="0" width="169" height="27"></a></div>
-<div class="boxheadercenter">
-<div id="social_icons_top">
-<div style="width:48px;overflow:hidden;margin-right:10px;float:left"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.foreclosure.com/privacy.html" send="false" layout="button_count" width="90" show_faces="false" font="arial"></fb:like></div>
-<div style="width:60px;overflow:hidden;margin-right:10px;float:left;"><a href="http://twitter.com/foreclosure_com" class="twitter-share-button" data-count="none"></a> <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
-<div style="width:32px;margin-right:10px;float:left"><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script><g:plusone size="medium" count="false" href="http://www.foreclosure.com/privacy.html"></g:plusone></div>
+<div class="boxheader greenHeader" id="sticky" style="margin-bottom:10px;">
+<div style="padding: 4px 10px 8px;">
+<div class="boxheaderleft"><a href="/" title="foreclosures"><img src="//foreclosure-activedt.netdna-ssl.com/content/img/fdc_logo_white_trans.png" alt="foreclosures" border="0" width="149" height="19"></a></div>
+<div id="headerOneBoxSearch">
+<form action="/search.html" id="headFormBoxSearch" method="get">
+<div class="home_form_input_wrapper">
+<input type="text" style="border-radius:3px;border-color:#c7c7c7;width:248px;height:16px;margin-top:1px;" name="q" size="25" value="Address or City, State or Zip Code" id="headerOneBoxSearchInp" onclick="clearClick('#headerOneBoxSearchInp', 'Address or City, State or Zip Code');" onblur="clearBlur('#headerOneBoxSearchInp', 'Address or City, State or Zip Code');">
 </div>
-<a href="/login.html">Login</a> | <a href="/registration.html" id="freeTrialBtn"> Free Trial
-</a>
+<div class="home_form_button_wrapper">
+<button type="submit" id="headerSearchOneBox"></button>
+</div>
+<div class="nofloat"></div>
+</form>
+</div>
+<div class="boxheadercenter">
+<a href="/login.html"><img src="//foreclosure-activedt.netdna-ssl.com/content/img/grayLoginBtn.gif"></a><a href="/registration.html" id="freeTrialBtn"><img src="//foreclosure-activedt.netdna-ssl.com/content/img/freeTrialRedBtn.gif"></a>
 </div>
 <div class="boxheaderclear"> </div>
+</div>
 </div>	
 	 <div class="boxbody ">
 <div class="breadcrumb" id="breadcrumbMain"><a href="http://www.foreclosure.com/" title="foreclosures" alt="foreclosures">Home</a>&nbsp;&gt;&gt;&nbsp;Privacy Policy</div>
+
+
+
+
+
 <table><tbody>
 	<tr>
 		<td colspan="2"><h1 style="font-size: 16px; margin-bottom: 15px;">Privacy Policy and Security Statement</h1></td>
@@ -157,9 +181,9 @@ return false;
 			</div>
 			<div>
 				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="155" height="180">
-				<param name="movie" value="http://d2fhxcx29yssgj.cloudfront.net/css/img/banner_alerts.swf">
+				<param name="movie" value="//foreclosure-activedt.netdna-ssl.com/css/img/banner_alerts.swf">
 				<param name="quality" value="high">
-				<embed src="http://d2fhxcx29yssgj.cloudfront.net/css/img/banner_alerts.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="155" height="180">
+				<embed src="//foreclosure-activedt.netdna-ssl.com/css/img/banner_alerts.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="155" height="180">
 				</object>
 			</div>
 		</td>
@@ -236,7 +260,7 @@ return false;
 					security statement. <b>www.foreclosure.com</b> reserves the right to change any of the information listed on this document and will notify users of any changes by posting the new version of this document to the site at the 
 					Privacy Policy &amp; Security Statement link. 
 					</p>
-					<img src="http://d2fhxcx29yssgj.cloudfront.net/css/img/arrowup.gif"><a href="#">top</a>
+					<img src="//foreclosure-activedt.netdna-ssl.com/css/img/arrowup.gif"><a href="#">top</a>
 				  </td>
 				</tr>						
 			</tbody></table>
@@ -246,7 +270,139 @@ return false;
 		<td class="press_articles_nav">&nbsp;</td>
 	</tr>
 </tbody></table>
+
 	</div>
+<script type="text/javascript" src="//foreclosure-activedt.netdna-ssl.com/lib/jquery-google-analytics/jquery.google-analytics.js?v2"></script>
+<script type="text/javascript">
+function iniTrack(){
+$j("img,a,area,button").map(function() {
+var a = $j(this).attr('cmp-imp');
+var label = $j(this).attr('alt');
+if (a != undefined){
+$j(this).track({
+category : a,
+label : label,
+action : 'impressions',
+event_name : 'impressions',
+skip_internal : false
+});
+$j(this).trigger('impressions');
+addTrack(this);
+}
+if (a == undefined){
+var c = $j(this).attr('cmp-clk');
+var label = $j(this).attr('alt');
+if (c != undefined){
+$j(this).click(function(){
+$j(this).track({
+category : c,
+label : label,
+action : 'click',
+event_name : 'click',
+skip_internal : false
+});
+});
+}
+}
+});
+$j('input#btnSubmit').track({
+category : 'Trial Form BTN',
+label : 'Yes, Start my trial',
+skip_internal : false
+});
+$j('form#formRegistration :input').change(function(element) {
+$j(this).track({
+category : function(element) { return 'Trial Form input '},
+label : function(element) { return element.attr('name');},
+action : 'input',
+skip_internal : false
+});
+});
+$j('form#formRegistration select').change(function(element) {
+$j(this).track({
+category : function(element) { return + 'Trial Form select '} ,
+label : function(element) { return element.attr('name');},
+action : 'input',
+skip_internal : false
+});
+});
+$j('#headInternational a').track({
+category : 'registration Form BTN International',
+label : function(element) { return element.attr('id');},
+action : 'input',
+skip_internal : false
+});
+$j('#submitQuestionVC').track({
+category : 'Contact Community Expert ',
+skip_internal : false
+});
+if($j("#headerOneBoxSearchInp").length != 0){
+$j("#headerOneBoxSearchInp").track({
+category : 'searchBox_top_header' ,
+label : 'Search Input',
+skip_internal : false
+});
+}
+}
+function addTrack(v){
+$j(v).map(function() {
+var cmpClk = $j(v).attr('cmp-clk');
+var label = $j(v).attr('alt');
+if (cmpClk != undefined){
+$j(v).removeClass('tracked');
+$j(v).track({
+category : cmpClk,
+label : label,
+action : 'click',
+skip_internal : false
+});
+}
+});
+}
+$j.trackPage('UA-1780640-1','www.foreclosure.com', {callback: iniTrack, user: 'loggedOff-rsp-0'});
+</script>
+<div id="obFlyMain">
+<div id="obFlyClose"><img width="12" height="12" border="0" src="//foreclosure-activedt.netdna-ssl.com/content/img/iconx.gif" alt="Close"></div>
+<div id="obContainer">
+<div class="obSlide">
+<div class="obFlyL">
+<a href="/alert/index.html" title="FREE Listing Alerts" cmp-clk="overfly_footer_alerts"><img width="125" height="85" border="0" src="//foreclosure-activedt.netdna-ssl.com/content/img/obFly/obflyca.jpg"></a>
+</div>
+<div class="obFlyR">
+<h1 class="orange" style="padding-top: 13px; padding-bottom: 4px;">FREE Listing Alerts?</h1>
+<h2 style="padding-bottom: 0px;">Sign up today - it's FREE</h2>
+<form action="/alert/index.html" method="GET" class="fromreg">
+<input type="text" id="email" name="email" onclick="if(this.value=='Enter Email Address'){this.value='' ;}" onblur="if(this.value==''){this.value='Enter Email Address'; }" value="Enter Email Address" class="inputreg" style="width: 145px;">
+<input type="image" src="//foreclosure-activedt.netdna-ssl.com/css/img/go_btn.gif" class="btnreg" value="Go" style="*vertical-align:-2px;" cmp-clk="overfly_footer_alerts">
+</form>
+</div>
+</div>
+<div class="obSlide">
+<div class="obFlyL">
+<a href="/registration.html" title="Signup Now!" cmp-clk="overfly_footer_registration"><img width="125" height="85" border="0" src="//foreclosure-activedt.netdna-ssl.com/content/img/obFly/obflyShotSale.jpg"></a>
+</div>
+<div class="obFlyR">
+<h1>Want Immediate Access?</h1>
+<h2 class="orange" style="padding: 0 0 3px;">Signup NOW!<br>7-Day FREE Trial</h2>
+<form action="/registration.html" method="GET" class="fromreg">
+<input type="text" id="email" name="email" onclick="if(this.value=='Enter Email Address'){this.value='' ;}" onblur="if(this.value==''){this.value='Enter Email Address'; }" value="Enter Email Address" class="inputreg" style="width: 145px;">
+<input type="image" src="//foreclosure-activedt.netdna-ssl.com/css/img/go_btn.gif" class="btnreg" value="Go" style="*vertical-align:-2px;" cmp-clk="overfly_footer_registration">
+<input type="hidden" name="myapp-promo-id" value="footerOverFlyPageRegistrationForm">
+</form>
+</div>
+</div>
+<div class="obSlide">
+<div class="obFlyL">
+<a href="/creditcenter.html" title="Credit Check" cmp-clk="overfly_footer_creditcheck" target="_blank" rel="nofollow"><img width="125" height="85" border="0" src="//foreclosure-activedt.netdna-ssl.com/content/img/obFly/GFC_125x85.jpg"></a>
+</div>
+<div class="obFlyR">
+<h1 style="padding-top: 13px;">#1 Home Buying Tip:</h1>
+<h2 class="orange" style="padding: 0 0 10px;">Know Your Credit Scores!</h2>
+<a href="/creditcenter.html" title="Credit Check" class="btn" cmp-clk="overfly_footer_creditcheck" target="_blank" rel="nofollow">Click Here</a>
+</div>
+</div>
+</div>
+</div>
 <div class="newfooter">
 <div id="footer-content">
 <div id="secondary-navigation">
@@ -278,7 +434,6 @@ return false;
 <li class="navlink_orange"><a href="/newsletter/signup.html"><span>FREE Newsletter</span></a></li>
 <li class="navlink"><a href="/books/index.html">e-Books</a></li>
 <li class="navlink"><a href="/documentcenter.html">e-Documents</a></li>
-<li class="navlink"><a href="/mentor/index.html">Coaching/Mentoring</a></li>
 <li class="navlink"><a href="/questions.html">FAQs</a></li>
 <li class="navlink"><a href="/creditcenter.html" title="Credit Repair">Improve Your Credit</a></li>
 <li class="navlink"><a href="/foreclosure_laws.html" title="Foreclosure Laws">Foreclosure Laws</a></li>
@@ -287,6 +442,7 @@ return false;
 <div class="navheader" id="nav-tools"><a href="#">Tools</a>
 <ul>
 <li class="navlink"><a href="/calculators/index.html" title="Mortgage Calculators">Calculators</a></li>
+<li class="navlink"><a href="/investment_worksheet.html">Investment Worksheet</a></li>
 <li class="navlink_orange"><a href="/alert/index.html"><span>FREE Email Alerts</span></a></li>
 <li class="navlink"><a href="/lostaccess.html">Lost Access</a></li>
 <li class="navlink"><a href="/links.html">Links</a></li>
@@ -318,14 +474,14 @@ return false;
 <!-- /#footer -->
 <div class="boxfooter">
 Connect with us:&nbsp;
-<a href="http://www.facebook.com/Foreclosurecom" target="_blank"><img src="http://d2fhxcx29yssgj.cloudfront.net/content/img/footerIconFacebook.gif" alt="Facebook" title="Facebook"></a>&nbsp;
-<a href="http://twitter.com/foreclosure_com" target="_blank"><img src="http://d2fhxcx29yssgj.cloudfront.net/content/img/footerIconTwitter.gif" alt="Twitter" title="Twitter"></a>&nbsp;
-<a href="http://www.linkedin.com/companies/foreclosure.com" target="_blank"><img src="http://d2fhxcx29yssgj.cloudfront.net/content/img/footerIconLinkedIn.gif" alt="LinkedIn" title="LinkedIn"></a><br><br>
+<a href="http://www.facebook.com/Foreclosurecom" target="_blank"><img src="//foreclosure-activedt.netdna-ssl.com/content/img/footerIconFacebook.gif" alt="Facebook" title="Facebook"></a>&nbsp;
+<a href="http://twitter.com/foreclosure_com" target="_blank"><img src="//foreclosure-activedt.netdna-ssl.com/content/img/footerIconTwitter.gif" alt="Twitter" title="Twitter"></a>&nbsp;
+<a href="http://www.linkedin.com/companies/foreclosure.com" target="_blank"><img src="//foreclosure-activedt.netdna-ssl.com/content/img/footerIconLinkedIn.gif" alt="LinkedIn" title="LinkedIn"></a><br><br>
 <a href="/privacy.html">Privacy Policy</a> | <a href="/terms.html">Terms and Conditions of Service</a><br>
 © Foreclosure.com / <a href="http://www.foreclosurefreesearch.com" target="_blank" alt="Foreclosed Homes" class="plainFooterLink">ForeclosureFreeSearch, Inc.</a> 1999-2012. All Rights Reserved.<br>
 <a href="/advertise.html">Advertise With Us</a>
 <br><br>
-<a href="http://www.hud.gov/offices/fheo/" target="_blank" rel="nofollow"><img src="http://d2fhxcx29yssgj.cloudfront.net/content/img/logoEqualHousing.gif" alt="Fair Housing and Equal Opportunity" title="Fair Housing and Equal Opportunity" style="vertical-align:-2px;">&nbsp;Fair Housing and Equal Opportunity</a>
+<a href="http://www.hud.gov/offices/fheo/" target="_blank" rel="nofollow"><img src="//foreclosure-activedt.netdna-ssl.com/content/img/logoEqualHousing.gif" alt="Fair Housing and Equal Opportunity" title="Fair Housing and Equal Opportunity" style="vertical-align:-2px;">&nbsp;Fair Housing and Equal Opportunity</a>
 <br><br>
 </div>
 <!-- Google Code for Foreclosure.com Remarketing Remarketing List -->
@@ -349,6 +505,7 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://www." : "htt
 document.write(unescape("%3Cimg height='1' width='1' style='border-style:none;' alt='' src='" + gaJsHost + "googleadservices.com/pagead/conversion/1072706997/?label=93ChCO2vgQIQtevA_wM&guid=ON&script=0' %3E"));
 </script><img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072706997/?label=93ChCO2vgQIQtevA_wM&amp;guid=ON&amp;script=0">
 </div>
+<div id="footerEnd"></div>
 
 <script language="javascript">
 var lpPosY = 300;
