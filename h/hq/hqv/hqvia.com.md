@@ -1,31 +1,14 @@
-> *The following text is extracted and transformed from the hqvia.com privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229010631id_/http%3A//hqvia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqvia.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013743id_/http%3A//hqvia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - High Quality | High Quality
+# Privacy Policy | High Quality Information
 
-**Privacy Policy for HQvia.com**
+[_**HQvia.com**_](http://www.hqvia.com/) is committed to protecting your privacy. [_**HQvia.com**_](http://www.hqvia.com/) currently collects no personal information about who visits our site. [_**HQvia.com**_](http://www.hqvia.com/) uses a hit service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc. but in no way does this reveal the name, email address, or any specific information whatsoever about the site’s visitors.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at trompyx@gmail.com.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-At HQvia.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by HQvia.com and how it is used.
+**Will HQvia.com** **disclose the information it collects to outside parties?**
 
-**Log Files**  
-Like many other Web sites, HQvia.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+[_**HQvia.com**_](http://www.hqvia.com/) may eventually disclose the aforementioned GENERAL information about visitors – information that does NOT identify who you are. We may disclose answers to questions such as: During what time periods do we receive the most visitors, what is the most common browser version of our visitors, what are the most popular internet services our visitors use, etc. We will never release contact details of any registered users of our website. The last thing we want is “spam” reaching our visitors.
 
-**Cookies and Web Beacons**  
-HQvia.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on HQvia.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to HQvia.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on HQvia.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-HQvia.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. HQvia.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**Your consent:**  
+By using our Web site, you consent to the collection and use of this information by [ _ **HQvia.com**_](http://www.hqvia.com/). If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. But, now and forever we put your privacy first before any other concerns. We will never sell lists of email addresses from this site. We respect the privacy of our visitors.
