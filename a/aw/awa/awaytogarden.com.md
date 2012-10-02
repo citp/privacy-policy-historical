@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the awaytogarden.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629021303id_/http%3A//awaytogarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awaytogarden.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003011611id_/http%3A//awaytogarden.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy — A Way to Garden
 
 ### PRIVACY POLICY
 
-Your privacy is important, and we want you to understand what information is collected when you visit [http://awaytogarden.com](https://web.archive.org/web/20120629021303id_/http%3A//) or http://awaytogarden.com/book (the websites) and how we use it.
+Your privacy is important, and we want you to understand what information is collected when you visit [http://awaytogarden.com](https://web.archive.org/web/20121003011611id_/http%3A//) or http://awaytogarden.com/book (the websites) and how we use it.
 
 **Information You Provide**
 
