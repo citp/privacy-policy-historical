@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aresearchguide.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513071727id_/http%3A//www.aresearchguide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aresearchguide.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013920id_/http%3A//www.aresearchguide.com/privacy.php) for the most accurate reproduction.*
 
 # A Research Guide for Students - Privacy
 
