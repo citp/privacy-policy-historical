@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realdealdocs.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529060421id_/http%3A//www.realdealdocs.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdealdocs.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003004650id_/http%3A//www.realdealdocs.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # RealDealDocs - About RealDealDocs
 
@@ -60,4 +60,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please call us at (877) 595-5179 or send us an email at [support@realdealdocs.com](mailto:support@realdealdocs.com). 
+Should you have other questions or concerns about these privacy policies, please call us at (818) 502-5015 or send us an email at [support@realdealdocs.com](mailto:support@realdealdocs.com). 
