@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimk.ac.in privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506210909id_/http%3A//www.iimk.ac.in/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimk.ac.in privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003000116id_/http%3A//iimk.ac.in/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # IIMK - Privacy Policy
 
