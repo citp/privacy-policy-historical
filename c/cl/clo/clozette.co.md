@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the clozette.co privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117152656id_/http%3A//www.clozette.co/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clozette.co privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003001924id_/http%3A//www.clozette.co/info/privacy) for the most accurate reproduction.*
 
 # :: Clozette ::
 
-|   
----  
-[](https://web.archive.org/) |   
-  
 |  |  |  Privacy Policy  
 ---  
   
