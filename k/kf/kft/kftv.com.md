@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619013625id_/http%3A//www.wilmington.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002233627id_/http%3A//www.wilmington.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wilmington Group plc
 
