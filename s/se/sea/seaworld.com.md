@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seaworld.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620050714id_/http%3A//www.seaworld.com/sitepage.aspx%3FPageID%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seaworld.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002230709id_/http%3A//seaworld.com/sitepage.aspx%3FPageID%3D37) for the most accurate reproduction.*
 
 # Privacy Policy
 
