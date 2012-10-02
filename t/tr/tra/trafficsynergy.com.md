@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficsynergy.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519220102id_/http%3A//www.trafficsynergy.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsynergy.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003010259id_/http%3A//www.trafficsynergy.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Affiliate Network | Affiliate Programs | Affiliate Marketing - TrafficSynergy
 
