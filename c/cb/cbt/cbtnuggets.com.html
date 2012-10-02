@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cbtnuggets.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520160952id_/http%3A//www.cbtnuggets.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbtnuggets.com privacy policy that was archived on 2012-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002223915id_/http%3A//cbtnuggets.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta id="ctl00_fbdesc" property="og:description"><meta id="ctl00_fbtitle" property="og:title"><meta id="ctl00_fbimage" property="og:image" content="http://d2wyexd3wmzchq.cloudfront.net/images/homepage_logo.png"><meta id="ctl00_fburl" property="og:url"><meta id="ctl00_fbtype" property="og:type" content="product"><meta id="ctl00_fbsitename" property="og:site_name" content="CBTNuggets.com"><meta id="ctl00_fbadmins" property="fb:admins" content="54568804764"><meta id="ctl00_metadesc" name="Description"><meta name="MS.LOCALE" content="en-us"><title>
+<!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta id="ctl00_fbdesc" property="og:description"><meta id="ctl00_fbtitle" property="og:title"><meta id="ctl00_fbimage" property="og:image" content="http://d2wyexd3wmzchq.cloudfront.net/images/homepage_logo.png"><meta id="ctl00_fburl" property="og:url"><meta id="ctl00_fbtype" property="og:type" content="product"><meta id="ctl00_fbsitename" property="og:site_name" content="CBTNuggets.com"><meta id="ctl00_fbadmins" property="fb:admins" content="54568804764"><meta id="ctl00_metadesc" name="Description"><meta name="alexaVerifyID" content="e5lTBD6sKp_tbz7GgwgToAAot5w"><meta name="MS.LOCALE" content="en-us"><title>
 	CBT Nuggets Privacy
 </title><link rel="icon" type="image/png" href="/images/favicon.ico"><link rel="stylesheet" type="text/css" href="/styles/global.css?v=3"><link rel="stylesheet" type="text/css" href="/styles/default_colors.css?v=3">
 		<style type="text/css">
@@ -24,6 +24,7 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
     text-align: left;
     color: #CCC;
 }
+.networkplusarrow { width: 195px; background-image:url('http://dcygsh7w4rk5s.cloudfront.net/black_arrow.png'); background-repeat: no-repeat; }
 #ctl00_cbtTweet a {color: #F7C53F;font-size: 12px;}
 #ctl00_cbtTweet hr {background-color:#AAA;color:#AAA;}
 .lang_flag { background: url('http://dcygsh7w4rk5s.cloudfront.net/international/lang_drop_down.png'); }
@@ -37,7 +38,7 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 
 				<link rel="Stylesheet" type="text/css" href="/styles/controls/stoplight.css?ver=1">
 			
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.4.min.js"></script>
+		<script id="hs-analytics" src="//js.hubspot.com/analytics/175389.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.4.min.js"></script>
 		<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.16/jquery-ui.min.js"></script>
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
@@ -49,7 +50,8 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 			_gaq.push(['_setCustomVar', 1, 'Video Player Page', 'false', 3]);
 			_gaq.push(['_setCustomVar', 2, 'Items In Cart', '0', 2]);
 			_gaq.push(['_setCustomVar', 3, 'Member Is Admin', 'False', 2]);
-			_gaq.push(['_setCustomVar', 4, 'Member Level', 'Not Logged In', 2]);
+			_gaq.push(['_setCustomVar', 4, 'Member Level', 'Not Logged In', 1]);
+			_gaq.push(['_setCustomVar', 5, 'Member', 'Not Logged In', 1]);
 
 			function showOptin() {
 				$("#optin").html('<div onclick="$(this).parent().hide();" title="Close" style="position: absolute; padding: 5px; cursor: pointer; right: 0; top: 0px; font-size: 2em; font-weight: bold; z-index: 30001; background-color: #000;">X</div><iframe src="/optin" frameborder="0" width="100%" height="440px"></iframe>');
@@ -172,16 +174,6 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 			   			});
 			   		});
 
-			   		$("#lang_beta").bind("click", function (event) {
-			   			show_lang_beta();
-			   			event.stopPropagation();
-			   			$('body').bind("click", function (event) {
-			   				if ($('#langbox').css('display') != 'none') {
-			   					show_lang_beta();
-			   				}
-			   			});
-			   		});
-
 			   		$('#member_menu').click(function (event) {
 			   			event.stopPropagation();
 			   		});
@@ -208,90 +200,6 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 			   			window.scroll(0, $(".subscriptionRenewalWindow").offset().top);
 			   		}
 			   	}
-
-			   	function lang_carousel(array, pos, rotate) {
-			   		var array = $('.lang_link');
-			   		pos = pos + 1;
-			   		if (pos == array.length) {
-			   			pos = 0;
-			   		}
-			   		var prev = pos - 1;
-			   		if (prev < 0) {
-			   			prev = array.length - 1;
-			   		}
-			   		//$(array[prev]).stop(false, false).fadeOut({ duration: 900, queue: false }).hide("slide", { direction: "right" }, 900);
-			   		$(array[prev]).fadeOut(900);
-					setTimeout(function () { show_lang($(array[pos])); }, 950);
-			   		if (rotate == 1) {
-			   			setTimeout(function () { lang_carousel(array, pos, rotate); }, 6000);
-			   		}
-			   	}
-
-				function show_lang(div) {
-					//$(div).delay(950).stop(false, false).fadeIn({ duration: 500, queue: false }).show("slide", { direction: "left" }, 500);
-					$(div).fadeIn(500);
-				}
-
-				function start_lang() {
-					var path = window.location.pathname;
-					var elm = path.split("/");
-					var re = new RegExp(".*/series/.*/.*");
-					var lang;
-					var rotate = 1;
-					var index = 16; // default for english
-					if (elm[1] == 'lang') {
-						lang = elm[2];
-						rotate = 0;
-
-						if (lang == 'es') {
-							index = 0;
-						} else if (lang == 'fr') {
-							index = 1;
-						} else if (lang == 'ru') {
-							index = 2;
-						} else if (lang == 'de') {
-							index = 3;
-						} else if (lang == 'zh') {
-							index = 4;
-						} else if (lang == 'he') {
-							index = 5;
-						} else if (lang == 'ar') {
-							index = 6;
-						} else if (lang == 'it') {
-							index = 7;
-						} else if (lang == 'pt') {
-							index = 8;
-						} else if (lang == 'nl') {
-							index = 9;
-						} else if (lang == 'pl') {
-							index = 10;
-						} else if (lang == 'da') {
-							index = 11;
-						} else if (lang == 'sv') {
-							index = 12;
-						} else if (lang == 'ja') {
-							index = 13;
-						} else if (lang == 'ko') {
-							index = 14;
-						} else if (lang == 'no') {
-							index = 15;
-						}
-					} else if (path.match(re)) {
-						rotate = 0;
-					}
-
-					var array = $('.lang_link');
-					lang_carousel(array, index, rotate);
-				}
-
-			   	function show_lang_beta() {
-			   		//$('#langbox').toggle();
-			   		if ($('#langbox').css('display') != 'none') {
-			   			$('#langbox').hide();
-					} else {
-						$('#langbox').show();
-			   		}
-			   	}
 		</script>
 		</head>
 	<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
@@ -305,6 +213,8 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 		<div id="pageBackground">
 			
 			
+			
+			<div id="ctl00_awsbannerpromo" style="width: 960px; height:40px; margin: 0 auto;"><a href="/shoppingcart?t=m&amp;d=1&amp;s=2&amp;addsub=1176" style="margin:0;padding:0;"><img src="http://dcygsh7w4rk5s.cloudfront.net/header/banners/aws_banner.png" alt="Amazon Web Services with Jeremy Cioara, 1 month for $1" style="margin:0;"></a></div>
 			<div id="pageWrapper">
 				<noscript><div class="noscript">You Do Not Have JavaScript Enabled. Please Enable JavaScript.</div></noscript>
 				<div id="pageHeader">
@@ -320,7 +230,7 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 										
 											<ul class="userBar">
 												<li><a href="https://secure.cbtnuggets.com/login?returnurl=%2fprivacy" id="ctl00_loginLink" rel="nofollow">Member Sign In</a></li>
-												<li class="last"><a href="/contactus">1-888-507-6283</a></li>
+												<li class="last"><a href="/contactus">1-541-284-5522</a></li>
 											</ul>
 										
 										
@@ -329,137 +239,7 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 								</td>
 							</tr>
 							<tr>
-								<td style="text-align:right; vertical-align: bottom;">
-									<div id="langbox" style="position:relative; display:none; z-index: 100;">
-										<img style="width:80px; height:60px; position:absolute; left:500px; top:7px;" id="lang_arrow" src="http://dcygsh7w4rk5s.cloudfront.net/international/lang_home_arrow.png">
-										<div style="background-color:#FFF; left:400px; top:70px; width:240px; height:400px; z-index:100; position:absolute; box-shadow: 0px 0px 6px #999;">
-											<a href="http://www.cbtnuggets.com/lang/en"><div class="lang_atag lang_select" style="background-position:-5px -4px; margin-top:2px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/es"><div class="lang_atag lang_select" style="background-position:-5px -28px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/fr"><div class="lang_atag lang_select" style="background-position:-5px -51px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/ru"><div class="lang_atag lang_select" style="background-position:-5px -73px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/de"><div class="lang_atag lang_select" style="background-position:-5px -96px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/zh"><div class="lang_atag lang_select" style="background-position:-5px -118px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/he"><div class="lang_atag lang_select" style="background-position:-5px -141px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/ar"><div class="lang_atag lang_select" style="background-position:-5px -163px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/it"><div class="lang_atag lang_select" style="background-position:-5px -186px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/pt"><div class="lang_atag lang_select" style="background-position:-5px -209px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/nl"><div class="lang_atag lang_select" style="background-position:-5px -232px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/pl"><div class="lang_atag lang_select" style="background-position:-5px -253px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/da"><div class="lang_atag lang_select" style="background-position:-5px -277px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/sv"><div class="lang_atag lang_select" style="background-position:-5px -299px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/ja"><div class="lang_atag lang_select" style="background-position:-5px -322px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/ko"><div class="lang_atag lang_select" style="background-position:-5px -345px;"></div></a>
-											<a href="http://www.cbtnuggets.com/lang/no"><div class="lang_atag lang_select" style="background-position:-5px -367px;"></div></a>
-										</div>
-									</div>
-									<div id="lang_beta" style="width:300px; height:27px; text-align:right; float:right;">
-										<div style="height:27px; width:300px; display:inline-block; padding-top: 2px;">
-											<div id="en_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/en_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -8px;"></div>
-											</div>
-											<div id="es_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/es_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -33px;"></div>
-											</div>
-											<div id="fr_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/fr_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -56px;"></div>
-											</div>
-											<div id="ru_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/ru_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -79px;"></div>
-											</div>
-											<div id="de_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/de_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -101px;"></div>
-											</div>
-											<div id="zh_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/zh_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -123px;"></div>
-											</div>
-											<div id="he_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/he_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -146px;"></div>
-											</div>
-											<div id="ar_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/ar_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -169px;"></div>
-											</div>
-											<div id="it_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/it_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -192px;"></div>
-											</div>
-											<div id="pt_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/pt_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -214px;"></div>
-											</div>
-											<div id="nl_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/nl_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -237px;"></div>
-											</div>
-											<div id="pl_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/pl_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -260px;"></div>
-											</div>
-											<div id="da_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/da_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -282px;"></div>
-											</div>
-											<div id="sv_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/sv_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -304px;"></div>
-											</div>
-											<div id="ja_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/ja_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -327px;"></div>
-											</div>
-											<div id="ko_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/ko_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -350px;"></div>
-											</div>
-											<div id="no_link" class="lang_link">
-												<div>
-													<img src="http://dcygsh7w4rk5s.cloudfront.net/international/no_link.png">
-												</div>
-												<div class="lang_beta lang_flag" style="background-position:-11px -373px;"></div>
-											</div>
-										</div>
-									</div>
-									<div class="clear"></div>
-									<script type="text/javascript">start_lang()</script>
+								<td style="text-align:right; vertical-align: bottom;">								
 									
 									
 
@@ -470,7 +250,7 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 		if (! document.getElementById("chatStatusImage")) {
 			document.writeln("<img src='https://server.iad.liveperson.net/hc/61158425/?cmd=repstate&site=61158425&useSize=true&d=" + (new Date()).getTime() + "'  id='chatStatusImage' style='position: absolute; visibility: hidden;' />");
 		}
-	</script><img src="https://server.iad.liveperson.net/hc/61158425/?cmd=repstate&amp;site=61158425&amp;useSize=true&amp;d=1580501649008" id="chatStatusImage" style="position: absolute; visibility: hidden;">
+	</script><img src="https://server.iad.liveperson.net/hc/61158425/?cmd=repstate&amp;site=61158425&amp;useSize=true&amp;d=1580501649272" id="chatStatusImage" style="position: absolute; visibility: hidden;">
 
 </div>
 <script type="text/javascript">
@@ -600,7 +380,7 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 			<tfoot>
 				<tr>
 					<td colspan="5" style="padding:30px; font-style:italic; font-size:11pt; font-weight:normal">
-						1-888-507-6283
+						1-541-284-5522
 					</td>
 					
 				</tr>
@@ -995,7 +775,7 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 					<li><a href="http://www.linkedin.com/groups/CBT-Nuggets-1771319?home=&amp;gid=1771319&amp;trk=anet_ug_hm" class="linkedinLink" target="_blank">Follow us on LinkedIn</a></li>
 				</ul>
 			</div>
-				<div id="ctl00_cbtTweet"><a href="http://twitter.com/#!/CBTNuggets" target="_blank" class="twitterLink">CBT Nuggets on Twitter:</a><br>New blog post: First NuggetLOVE Donation: <a href="http://t.co/xuUDc9e9" target="_blank">Click Here</a><span style="color: #888888;"> 1 day ago, via <a href="http://twitter.com/#!/CBTNuggets" target="_blank">CBTNuggets</a></span></div>
+				<div id="ctl00_cbtTweet"><a href="http://twitter.com/#!/CBTNuggets" target="_blank" class="twitterLink">CBT Nuggets on Twitter:</a><br>@jordanswatson woot! good luck!<span style="color: #888888;"> 33 minutes ago, via <a href="http://twitter.com/#!/CBTNuggets" target="_blank">CBTNuggets</a></span></div>
 				<div class="clear" style="text-align: center">
 					<div id="subFooter">Copyright © 2012 CBT Nuggets. All rights reserved. <a href="/license">Terms of Use</a> | <a href="/privacy">Privacy Policy</a> | <a href="http://blog.cbtnuggets.com/?feed=rss" class="rssLink" target="_blank">RSS</a></div>
 				</div>
@@ -1025,13 +805,25 @@ DIV#pageBackground {background-image:url(http://dcygsh7w4rk5s.cloudfront.net/bac
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 		</script>
+        <!-- Start of Alexa tracking -->
 		<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
 		<script type="text/javascript">
-			_atrk_opts = { atrk_acct: "4bO3f1aoyI00w+", domain: "cbtnuggets.com" }; atrk();
+		    _atrk_opts = { atrk_acct: "4bO3f1aoyI00w+", domain: "cbtnuggets.com" }; atrk();
 		</script>
 		<noscript>
 			<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=4bO3f1aoyI00w+" style="display:none" height="1" width="1" alt="" />
 		</noscript>
+        <!-- End of Alexa tracking -->
+		<!-- Start of Async HubSpot Analytics Code -->
+        <script type="text/javascript">
+    	    (function (d, s, i) {
+    		    if (d.getElementById(i)) { return; }
+    		    var n = d.createElement(s), e = document.getElementsByTagName(s)[0];
+    		    n.id = i; n.src = '//js.hubspot.com/analytics/175389.js';
+    		    e.parentNode.insertBefore(n, e);
+    	    })(document, "script", "hs-analytics");
+        </script>
+        <!-- End of Async HubSpot Analytics Code -->
 	
 
 </body></html>
