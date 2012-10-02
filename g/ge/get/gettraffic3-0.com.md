@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettraffic3-0.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501024516id_/http%3A//gettraffic3-0.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettraffic3-0.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002184731id_/http%3A//gettraffic3-0.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
