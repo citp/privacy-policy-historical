@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylelojobs.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229042618id_/http%3A//mylelojobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylelojobs.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013859id_/http%3A//mylelojobs.com/privacy.php) for the most accurate reproduction.*
 
 # Mylelo Jobs - Privacy Policy
 
