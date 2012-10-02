@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submittothis.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130121535id_/http%3A//www.submittothis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittothis.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003002120id_/http%3A//www.submittothis.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
