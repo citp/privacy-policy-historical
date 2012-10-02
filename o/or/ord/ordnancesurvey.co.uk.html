@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ordnancesurvey.co.uk privacy policy that was archived on 2012-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120601172135id_/http%3A//www.ordnancesurvey.co.uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ordnancesurvey.co.uk privacy policy that was archived on 2012-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002231013id_/http%3A//www.ordnancesurvey.co.uk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <!--startindex-->
@@ -18,7 +18,7 @@
 <meta name="viewport" content="initial-scale=1.0, width=device-width">
 
 <meta name="DC.title" content="Privacy policy for the Ordnance Survey website">
-<meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2012-05-31">
+<meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2012-09-06">
 <!--startindex-->
 <meta name="description" content="
 This covers information you give us, data we store automatically,how we use it and share it, how we store it and who you can contact about any part of the policy.">
@@ -32,7 +32,7 @@ This covers information you give us, data we store automatically,how we use it a
 <link rel="stylesheet" type="text/css" href="/oswebsite/css/desktop.min.css" media="screen,projection" title="desktop">
 <link rel="alternate stylesheet" type="text/css" href="/oswebsite/css/mobile.min.css" media="screen,handheld" title="mobile">
 <link rel="apple-touch-icon" href="/oswebsite/images/ui/apple-touch-icon.png">
-<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.ordnancesurvey.co.uk/oswebsite/favicon.ico" type="image/x-icon">
 
 <!--[if IE 6]>
 <link rel="stylesheet" type="text/css" href="/oswebsite/css/ie6.min.css" media="screen,projection" title="desktop" />
@@ -42,6 +42,8 @@ This covers information you give us, data we store automatically,how we use it a
 <![endif]-->
 
 
+
+<link rel="stylesheet" type="text/css" href="/oswebsite/css/responsive.min.css" media="screen">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/oswebsite/scripts/jquery.min.js"></script>
 <script type="text/javascript" src="/oswebsite/scripts/global.min.js"></script>
@@ -54,11 +56,30 @@ This covers information you give us, data we store automatically,how we use it a
 
 
 		<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-8207971-1']);
-  _gaq.push(['_setDomainName', 'ordnancesurvey.co.uk']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_trackPageview']);
+//<![CDATA[
+$(document).ready(function() {
+  //Add mouse and keyboard handlers to link going back to the magazine website.
+  $("a[href*='ordnancesurveyleisure.co.uk']").bind('click keyup', function() {
+	  _gaq.push(['master._link', this.href]);
+	  return false;
+  });
+});
+//]]>
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-8207971-1']);
+	_gaq.push(['_setDomainName', 'ordnancesurvey.co.uk']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+  
+	//Master account
+	_gaq.push(['master._setAccount', 'UA-33522501-1']);
+	_gaq.push(['master._setDomainName', 'none']);
+	_gaq.push(['master._setAllowLinker', true]);
+	_gaq.push(['master._trackPageview']);
+  
   (function() {
     var ga = document.createElement('script');
     ga.type = 'text/javascript';
@@ -68,6 +89,7 @@ This covers information you give us, data we store automatically,how we use it a
     s.parentNode.insertBefore(ga, s);
   })();
 </script>
+
 	
 
 </head>
@@ -172,6 +194,18 @@ This covers information you give us, data we store automatically,how we use it a
 						<li><a href="/public-sector/scotland/index.html">One Scotland Mapping Agreement (OSMA)</a></li>
 					
 						
+						<li><a href="/case-studies/index.html">Case studies</a></li>
+					
+						
+						<li><a href="/public-sector/products/index.html">An introduction to our products</a></li>
+					
+						
+						<li><a href="/public-sector/faq/index.html">Frequently asked questions</a></li>
+					
+						
+						<li><a href="/public-sector/events/index.html">Events</a></li>
+					
+						
 						<li><a href="/public-sector/central-government/index.html">Central Government</a></li>
 					
 						
@@ -216,16 +250,16 @@ This covers information you give us, data we store automatically,how we use it a
 							<li><a href="/public-sector/locate-my-nearest-member/index.html">Locate my nearest member</a></li>
 						
 							
-							<li><a href="/public-sector/solution-providers.html">Public sector solution providers</a></li>
+							<li><a href="/case-studies/index.html">Case studies</a></li>
+						
+							
+							<li><a href="/public-sector/solution-providers.html">Software for mapping</a></li>
 						
 							
 							<li><a href="/public-sector/mapping-agreement/support.html">PSMA support</a></li>
 						
 							
-							<li><a href="/public-sector/case-studies/index.html">PSMA case studies</a></li>
-						
-							
-							<li><a href="/public-sector/mapping-agreement/products.html">PSMA products</a></li>
+							<li><a href="/public-sector/products/agreement-products.html">PSMA and OSMA products</a></li>
 						
 							
 							<li><a href="/public-sector/scotland/index.html">OSMA</a></li>
@@ -371,7 +405,7 @@ This covers information you give us, data we store automatically,how we use it a
 					<ul>
 					
 						
-						<li><a href="/getamap/index.html">OS getamap</a></li>
+						<li><a href="http://www.magazine.ordnancesurveyleisure.co.uk/magazine/tscontent/editorials/getamap/index.html">OS getamap</a></li>
 					
 						
 						<li><a href="http://www.shop.ordnancesurveyleisure.co.uk/osselect">Custom made maps</a></li>
@@ -570,7 +604,7 @@ This covers information you give us, data we store automatically,how we use it a
 							<li><a href="/freefun/understandingmapping.html">Understanding maps</a></li>
 						
 							
-							<li><a href="/aboutus/reports/misc/north.html">Grid, magnetic and true North</a></li>
+							<li><a href="/support/knowledgebase/grid-north-magnetic-north-and-true-north.html">Grid, magnetic and true North</a></li>
 						
 							
 							<li><a href="/gps/information/gpsbackground/beginnersguidetogps/index.html">Beginner's guide to GPS</a></li>
@@ -627,6 +661,9 @@ This covers information you give us, data we store automatically,how we use it a
 						<li><a href="/about-us/our-directors/index.html">Our Directors</a></li>
 					
 						
+						<li><a href="/about-us/global/index.html">Global</a></li>
+					
+						
 						<li><a href="/about-us/corporate-responsibility/index.html">Corporate responsibility</a></li>
 					
 						
@@ -643,6 +680,9 @@ This covers information you give us, data we store automatically,how we use it a
 					
 						
 						<li><a href="/procurement/index.html">Procurement</a></li>
+					
+						
+						<li><a href="/about-us/public-task/index.html">Public task</a></li>
 					
 					</ul>
 				
@@ -713,25 +753,40 @@ This covers information you give us, data we store automatically,how we use it a
 					<ul>
 					
 						
-						<li><a href="/support/products/index.html">Product support</a></li>
+						<li><a href="/support/how-where-buy-maps.html">How and where to buy maps</a></li>
 					
 						
-						<li><a href="/support/web-services/index.html">Web Services support</a></li>
+						<li><a href="/support/free-resources.html">Free resources</a></li>
 					
 						
-						<li><a href="/support/how-to-buy.html">How to buy</a></li>
+						<li><a href="/support/the-national-grid.html">The National Grid</a></li>
 					
 						
-						<li><a href="/gps/index.html">GPS &amp; positioning services</a></li>
+						<li><a href="/support/property-boundaries.html">Property boundaries</a></li>
 					
 						
-						<li><a href="http://www.ordnancesurvey.co.uk/oswebsite/pai/">Positional accuracy improvement</a></li>
+						<li><a href="/support/satellite-navigation-gps-devices.html">Satellite navigation and GPS devices</a></li>
+					
+						
+						<li><a href="/support/products-services.html">Products and services</a></li>
+					
+						
+						<li><a href="/support/geography-map-facts.html">Geography and map facts</a></li>
+					
+						
+						<li><a href="/support/gnss-positioning-services.html">GNSS and positioning services</a></li>
+					
+						
+						<li><a href="/support/historical-mapping.html">Historical mapping</a></li>
+					
+						
+						<li><a href="/support/licensing.html">Licensing</a></li>
 					
 						
 						<li><a href="/support/how-to-pay.html">How to pay us</a></li>
 					
 						
-						<li><a href="/support/knowledgebase/index.html">KnowledgeBase</a></li>
+						<li><a href="/support/knowledgebase/mapping-for-emergencies.html">Mapping for emergencies</a></li>
 					
 						
 						<li><a href="/support/contact-us.html">Contact us</a></li>
@@ -973,18 +1028,22 @@ This covers information you give us, data we store automatically,how we use it a
 			
 			<div class="offScreen"><a href="#supplementaryNavigationEnd" accesskey="R" title="Skip supplementary navigation [Accesskey: R]">Skip supplementary navigation</a></div>
 			
-			<div id="keepInTouch">
 			
-				<p>Keep in touch</p>
-			
+					
+			<div id="follow">
+				<h2><a href="#follow" title="Follow Ordnance Survey online"><span class="offScreen">Follow</span></a></h2>
 				<ul>
 					<li><a href="http://www.youtube.com/user/OSMapping" id="keepInTouch1" title="YouTube ®"><span class="offScreen">YouTube ®</span></a></li>
 					<li><a href="http://www.facebook.com/pages/Ordnance-Survey/33622410535?ref=ts" id="keepInTouch2" title="Facebook ®"><span class="offScreen">Facebook ®</span></a></li>
 					<li><a href="http://blog.ordnancesurvey.co.uk/" id="keepInTouch3" title="Ordnance Survey blog"><span class="offScreen">Ordnance Survey blog</span></a></li>
 					<li><a href="http://twitter.com/OrdnanceSurvey" id="keepInTouch4" title="Twitter ®"><span class="offScreen">Twitter ®</span></a></li>
 				</ul>
-			
 			</div>
+			
+			<div id="share"><h2><a href="#share" title="Share this page with others"><span class="offScreen">Share</span></a></h2><ul><li><a href="mailto:?subject=Privacy policy for the Ordnance Survey website&amp;body=I thought this would interest you: https%3A//web.archive.org/web/20121005083613id_/http%3A//www.ordnancesurvey.co.uk/oswebsite/privacy-policy.html" id="share3" title="Email"><span class="offScreen">Email</span></a></li><li><a href="#share" onclick="window.print();return false;" onkeypress="window.print();return false;" id="share4" title="Print"><span class="offScreen">Print</span></a></li><li><a href="https://web.archive.org/web/20121004222247/http://twitter.com/home?status=https%3A//web.archive.org/web/20121005083613id_/http%3A//www.ordnancesurvey.co.uk/oswebsite/privacy-policy.html" id="share1" title="Twitter ®"><span class="offScreen">Twitter</span></a></li><li><a href="https://web.archive.org/web/20121004222247/http://www.facebook.com/sharer.php?u=https%3A//web.archive.org/web/20121005083613id_/http%3A//www.ordnancesurvey.co.uk/oswebsite/privacy-policy.html&amp;t=Privacy%20policy%20for%20the%20Ordnance%20Survey%20website" id="share2" title="Facebook ®"><span class="offScreen">Facebook</span></a></li></ul></div>
+
+			<script type="text/javascript" src="/oswebsite/scripts/share.min.js"></script>
+				
 			
 			
 					
