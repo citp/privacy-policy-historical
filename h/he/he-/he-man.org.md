@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602053901id_/http%3A//www.he-man.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003015740id_/http%3A//he-man.org/privacy.php) for the most accurate reproduction.*
 
 # He-Man.org > Privacy
 
