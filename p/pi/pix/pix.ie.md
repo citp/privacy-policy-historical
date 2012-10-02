@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pix.ie privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630174304id_/http%3A//pix.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pix.ie privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003000447id_/http%3A//pix.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Pixie Photo Sharing!
 
