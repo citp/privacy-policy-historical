@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apr.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602084311id_/http%3A//www.apr.com/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apr.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002034857id_/http%3A//www.apr.com/Privacy-Statement) for the most accurate reproduction.*
 
 # APR - Privacy Statement
 
