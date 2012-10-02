@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswebproxy.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110141id_/http%3A//www.uswebproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswebproxy.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002223949id_/http%3A//uswebproxy.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
