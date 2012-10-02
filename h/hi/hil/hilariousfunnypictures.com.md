@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hilariousfunnypictures.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308235619id_/http%3A//hilariousfunnypictures.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilariousfunnypictures.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012243id_/http%3A//hilariousfunnypictures.com/privacy.php) for the most accurate reproduction.*
 
-# Hilarious Funny Pictures
+# DNE
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at hilariousfunnypictures@hotmail.com.
 
