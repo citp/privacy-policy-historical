@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fieldglass.net privacy policy that was archived on 2011-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110704141020id_/https%3A//www.fieldglass.net/documents/PrivacyPolicy.en_US.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldglass.net privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003010959id_/https%3A//www.fieldglass.net/documents/PrivacyPolicy.en_US.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
