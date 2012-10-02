@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriairport.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422154548id_/http%3A//www.victoriairport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriairport.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003015834id_/http%3A//www.victoriairport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Victoria Airport - Airport Tickets & Guides Online
 
@@ -15,52 +15,6 @@ Compare cheap flights and exclusive cheap airfare flight deals [Cheap Flights ](
 **NOTIFICATION and CHANGES** Any modifications to our privacy practices will be reflected here. If we change our Privacy Policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
 
 The distinctive textures and rich appearance of many of today's roofing and siding materials give a home an expensive, custom look at reasonable cost. [Click here](http://www.proroofing.ca/cedar-roofing.html) for some examples. Today's roofing and siding materials last longer with less maintenance than those available just a few years ago.
-
-[Chauffeur Service](http://www.ukairportsolution.co.uk/) \- UK Airport Solution is a Executive Chauffeur service based in London, limousine and chauffeur driven executive car hire and uniformed chauffeur service for airport transfers, weddings and other special occasions. Our service includes luxury cars across the UK for all occasions.
-
-[Climb Mount Kilimanjaro ](http://www.privatekilimanjaro.com/) \- Private Kilimanjaro are the leading Mount Kilimanjaro private climb and charity trek specialist.
-
-[Gatwick Hotels](http://www.gatwickworthhotel.co.uk/) \- Gatwick Worth Hotel is magnificently spread over 60 acres of Crabbet Park,the heart of Sussex Countryside.Ten minutes from the Gatwick Airport.
-
-[Gorilla Trekking](http://www.safaritoeastafrica.com/gorilla-trekking.html)\- Gorilla Trekking-Safaritoeastafrica number one company in Africa. We offer gorilla trekking, gorilla tracking, gorilla trekking Tours and gorilla wildlife tour at affordable price.
-
-[White Bathroom Cabinets](http://www.jtspas.com/) \- Buy Discount Whirlpool Baths, Spa Baths , Jacuzzi Baths, Shower Whirlpool , Whirlpool Corner Baths, Spa Bath Tubs at JT Spas Ltd the UK Online Bathroom Store.
-
-[Ski Utah](http://www.powderhounds.com/USA/Utah.aspx) \- Ski Utah for the world's best powder. See our Utah Ski Resorts reviews and the low down of Utah skiing for your next ski vacation.
-
-[Paris holiday apartments](http://www.ratedapartments.com/paris-city/all-short-term-lets.html) \- RatedApartments.com brings to you a select list of Paris holiday apartments for your upcoming trip.
-
-“Snow birds” refer to residents of the northern parts of Canada and northern states of America. These people tend to settle in southern states for quite a long period of time, so they need long term [snowbirds travel insurance](http://www.kanetix.ca/snowbird-travel-insurance) coverage.
-
-[property in Cyprus](http://www.cyprus101.com/)
-
-[Wayne Lineker](http://sunsetbar.co.uk/page22.htm)
-
-[Dog Food](http://www.dodsonandhorrellpetfood.co.uk/)
-
-[designer sale](http://www.brandalley.co.uk/)
-
-[DSC Security System Reviews](http://www.homesecurityguys.org/DSC-security-system-reviews2.html)
-
-[used wheelchair vans Georgia-Ga](http://www.usedhandicapvans.net/georgia-used-wheelchair-vans.php)
-
-[Cheap Flight](http://www.flightsomelbourne.co.uk/)
-
-[Cheap Flights](http://www.flightsosydney.co.uk/)
-
-[real estate classes](http://www.realestateinvestingcourses.net/)
-
-[Cheap Flights to melbourne](http://flightsomelbourne.co.uk/)
-
-[SEO Agency](http://www.micrositez.us/)
-
-[Security Cameras](http://www.securitycameraspro.com/)
-
-[Travelxp](http://www.travelxp.co.in/)
-
-[Alquilar coches](http://www.vsrenting.es/coches-en-renting/)
-
-[used wheelchair vans Georgia-Ga](http://www.usedhandicapvans.net/georgia-used-wheelchair-vans.php)
 
 [ebayvouchercodes](http://www.ebayvouchercodes.co.uk/)
 
@@ -115,5 +69,7 @@ The distinctive textures and rich appearance of many of today's roofing and sidi
 [real estate classes](http://www.realestateinvestingcourses.net/)
 
 [government contract attorney](http://www.martin-lawfirm.com/)
+
+[Ontario Airport Limousine ](http://www.johnwayneairportlimousine.net/) John Wayne Airport Limousine is the corporate and leisure traveler's preference when it comes to airport limousine services.
 
 Copyright © 2009 Victoria Airport. All rights reserved.
