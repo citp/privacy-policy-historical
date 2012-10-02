@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601172135id_/http%3A//www.ordnancesurvey.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002231013id_/http%3A//www.ordnancesurvey.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy for the Ordnance Survey website
 
