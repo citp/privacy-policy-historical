@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clovenetwork.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607034855id_/http%3A//www.clovenetwork.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clovenetwork.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014009id_/http%3A//www.clovenetwork.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Clove Network | Delivering measurable reach
 
