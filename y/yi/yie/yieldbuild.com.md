@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the yieldbuild.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124074334id_/http%3A//yieldbuild.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldbuild.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002235652id_/http%3A//yieldbuild.com/pages/privacy) for the most accurate reproduction.*
 
 # YieldBuild
 
-> This privacy policy was last modified on February 26, 2009.
+> This privacy policy was last modified on July 31, 2012.
 
-YieldBuild, Inc. (“YieldBuild,” “we,” or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by YieldBuild when you use YieldBuild.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this policy are defined in our End User License Agreement at https://yieldbuild.com/pages/eula.
+YieldBuild, Inc. (“YieldBuild,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by YieldBuild when you use YieldBuild.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this policy are defined in our End User License Agreement at [https://yieldbuild.com/pages/eula.](https://yieldbuild.com/pages/eula)
 
 ### Information We Collect
 
 **User-Provided Information** : You provide us information about yourself, such as your name and e-mail address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
-**Cookies Information** : When you visit YieldBuild.com, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets YieldBuild help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. YieldBuild uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. You also can manage your cookies via the Network Advertising Initiative at http://www.networkadvertising.org.
+**Cookies Information** : When you visit YieldBuild.com, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets YieldBuild help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. YieldBuild uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. You also can manage your cookies via the Network Advertising Initiative at [http://www.networkadvertising.org.](http://www.networkadvertising.org/)
 
-**Log File Information** : Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website or click on any ads. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, date and time information, computer and connection information, referring / exit pages and URLs, number of clicks, domain names, landing pages, statistics on page views, traffic to and from the sites, ad data, web log data, and other such information from your interaction with our sites, services, content and advertising.
+**Log File Information** : Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website or click on any ads. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, date and time information, computer and connection information, referring / exit pages and URLs, number of clicks, domain names, landing pages, statistics on page views, traffic to and from the sites, ad data, web log data, and other such information from your interaction with our sites, services, content and advertising.
 
-**Clear Gifs Information** : When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your YieldBuild account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make YieldBuild better for our users.
+**Clear Gifs Information** : When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your YieldBuild account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make YieldBuild better for our users.
 
 ### How We Use Your Information
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service (including to enroll You as a publisher with Advertisers).
 
 Any personal information or content that you voluntarily disclose for posting to the Service, if applicable, becomes available to the public. If you remove such content, copies may remain viewable in cached and archived pages or if other users have copied or stored it.
 
@@ -28,7 +28,7 @@ YieldBuild may use certain information about you without identifying you as an i
 
 YieldBuild reserves the right, but has no obligation, to monitor any content you post on the Service. YieldBuild has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our End User License Agreement or to protect or defend its rights or property or those of any third party. YieldBuild also reserves the right to remove information upon the request of any third party.
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized advertising, content, and information; © monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized advertising, content, and information; ©monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
 
 ### How We Share Your Information
 
@@ -42,7 +42,7 @@ Except as otherwise described in this privacy statement, YieldBuild will not dis
 
 YieldBuild allows third-party ad servers or ad networks to serve advertisements, or may itself serve advertisements, through the Service to YieldBuild’s customers’ websites. These ad servers or ad networks use technology to send advertisements and links directly to the end user’s browser. They automatically receive the end user’s IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
 
-YieldBuild does not provide any personally identifiable information to these ad servers or ad networks. However, please note that if an advertiser asks YieldBuild to show an advertisement to a certain audience and an end user responds to that advertisement, the advertiser or ad-server may conclude that the end user fits the description of the audience they are trying to reach.
+YieldBuild does not provide any personally identifiable information to these ad servers. However, please note that if an advertiser asks YieldBuild to show an advertisement to a certain audience and an end user responds to that advertisement, the advertiser or ad-server may conclude that the end user fits the description of the audience they are trying to reach.
 
 The end user should consult the respective privacy policies of third-party ad servers or ad networks. The YieldBuild privacy policy does not apply to, and we cannot control the activities of, third-party advertisers. Any solicitation of personal information through such advertisements is strictly between the advertiser and end user.
 
@@ -73,9 +73,14 @@ It is our policy to provide notifications, whether such notifications are requir
 
 **Changes to Our Privacy Policy**
 
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.   
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [support@YieldBuild.com](mailto:support@YieldBuild.com), or send mail to:
 
 YieldBuild, Inc.  
 95 Minna St., 3rd Floor  
 San Francisco, CA 94105
+
+### Recent Changes To The YieldBuild Privacy Policy.
+
+July 31, 2012: We have added third-party ad network enrollment information.
