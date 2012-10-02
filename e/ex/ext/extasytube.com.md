@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extasytube.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306023935id_/http%3A//www.extasytube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extasytube.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002225708id_/http%3A//www.extasytube.com/privacy) for the most accurate reproduction.*
 
-# privacy policy - Free Black Porn, BlackPussy, Ebony Porn, Black Porn, Amateur Porn, blackporn, Black Pussy,
+# privacy policy - Free Black Porn, Black Pussy, Ebony Sex, Amateur Porn, Big black booty
 
 This document details important information regarding the use and disclosure of User Data collected on Extasytube.com
 
