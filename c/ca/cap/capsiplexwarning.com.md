@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capsiplexwarning.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103095905id_/http%3A//capsiplexwarning.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capsiplexwarning.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003005925id_/http%3A//capsiplexwarning.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
