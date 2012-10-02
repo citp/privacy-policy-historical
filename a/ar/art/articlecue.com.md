@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlecue.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323012032id_/http%3A//www.articlecue.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecue.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003003604id_/http%3A//www.articlecue.com/privacy.php) for the most accurate reproduction.*
 
-# ArticleCue.com Free Article Directory | Privacy Statement
+# | Privacy Statement
 
 Privacy Policy for www.articlecue.com 
 
