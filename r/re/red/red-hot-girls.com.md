@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-hot-girls.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501041959id_/http%3A//red-hot-girls.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-hot-girls.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002232727id_/http%3A//red-hot-girls.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
