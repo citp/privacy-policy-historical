@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the nremt.org privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524135522id_/https%3A//www.nremt.org/nremt/about/policy_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nremt.org privacy policy that was archived on 2012-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002234040id_/https%3A//www.nremt.org/nremt/about/policy_privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="../stylesheet/style.css" type="text/css">
+
 
 
 
@@ -13,6 +14,7 @@
 <script type="text/javascript" src="../include/expandit.js"></script>
 <link rel="Stylesheet" href="../stylesheet/main.css">
 <link rel="Stylesheet" href="../stylesheet/style.css">
+<link rel="stylesheet" href="../stylesheet/recip_map_style.css">
 <script type="text/javascript">
 function jsSubmit()
 {
@@ -79,9 +81,54 @@ function returnSubmitsForm(e)
 		<!-- This div is used by the calendar widget.  -->
 	</div>
 	
-    <div class="layout-main-int no-right-col">
-        						<div class="main-content">
-        						    <div class="left-col">
+    <div class="layout-main-int">
+
+									<script type="text/javascript">
+										function siteSearchSubmit()
+										{
+											var result = siteSearchAddHash();
+											if (result)
+											{
+												document.forms["siteSearchForm"].submit();
+											}
+										}
+										
+										function siteSearchAddHash()
+										{
+											var form = document.forms["siteSearchForm"];
+											var termsBox = form["siteSearchTerms"];
+											var terms = termsBox.value;
+											
+											if (terms.length == 0)
+											{
+												termsBox.focus();
+											}
+											else
+											{
+												location.href = form.action + '#1,' + terms;
+											}
+
+											return false;
+										}
+									</script>
+									
+									<div class="site-search-form">
+										<form id="siteSearchForm" method="post" action=" https://www.nremt.org/nremt/about/search.asp" onsubmit="return siteSearchAddHash();">
+											<input type="text" id="siteSearchTerms" name="terms" value="">
+											<div class="button">
+												<a href="javascript:siteSearchSubmit();">
+													<div class="button-left">SEARCH</div>
+													<div class="button-right"></div>
+												</a>
+											</div>
+											<div class="clearer"></div>
+										</form>
+									</div>
+
+									<div class="main-content">
+
+
+								<div class="left-col">
         						        <div class="left-col-top">
 				 
 					<form method="post" name="frmLogin" id="frmLogin" action="https://www.nremt.org/nremt/security/login_action.asp">
@@ -130,8 +177,7 @@ function returnSubmitsForm(e)
                     <ul class="subnavigation">
                     	<li><a href="https://www.nremt.org/nremt/about/home.asp">Home</a></li>
 <li><a href="https://www.nremt.org/nremt/about/nremt_news.asp">NREMT News</a></li>
-<li><a href="javascript:newexpandit('About the NREMT');" class="multiitemnone">About the NREMT</a><div id="subnavigation_menu_About the NREMT" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/downloads/Exec_Director_Profile.pdf"><b>Executive Director Profile</b></a></li>
-<li><a href="https://www.nremt.org/nremt/about/annual_reports.asp">Annual Reports</a></li>
+<li><a href="javascript:newexpandit('About the NREMT');" class="multiitemnone">About the NREMT</a><div id="subnavigation_menu_About the NREMT" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/annual_reports.asp">Annual Reports</a></li>
 <li><a href="https://www.nremt.org/nremt/about/nremt_board.asp">Board of Directors</a></li>
 <li><a href="https://www.nremt.org/nremt/about/Legal_Opinion.asp">Certification<br>v. Licensure</a></li>
 <li><a href="https://www.nremt.org/nremt/about/nremt_history.asp">History of the NREMT</a></li>
@@ -555,26 +601,15 @@ Policy, please contact us at 1 (614) 888-4484.
                     <div class="clearer"></div>
                 </div>
                 <div class="center-header-bottom-int no-bg-image"></div>
-                <div class="center-content">
-                    <div class="center-interior-container"></div>
-                </div>
+			<div class="center-content">
+				<div class="center-interior-container"></div>
+			</div>
 
-                <div class="clearer"></div>
-
-        </div>
+			<div class="clearer"></div>
+		</div>
         <div class="clearer"></div>
         <div class="footer-container">
             <div class="main-footer">
-            	<!-- Locked out for the moment, will be re-enabled once we have something to link to later
-                Home<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
-                Certification<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
-                Resources<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
-
-                Pressroom<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
-                About<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
-                Events<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
-                News<br />
-                -->
                 <div class="copyright">
                     © Copyright 2001-2012, National Registry of Emergency Medical Technicians<br>
 
