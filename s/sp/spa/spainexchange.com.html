@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spainexchange.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501081530id_/http%3A//www.spainexchange.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spainexchange.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003000618id_/http%3A//www.spainexchange.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -15,7 +15,9 @@
     <link href="http://www.spainexchange.com/stylesheets/forms_main.css?v=1" rel="stylesheet" type="text/css"> 
     <link href="http://www.spainexchange.com/stylesheets/forms_custom.css?v=1" rel="stylesheet" type="text/css"> 
     <link href="http://www.spainexchange.com/stylesheets/styles_calendar.css?v=1" rel="stylesheet" type="text/css"> 
-    <link href="http://www.spainexchange.com/stylesheets/styles.css?v=1" rel="stylesheet" type="text/css"> 
+    <link href="http://www.spainexchange.com/stylesheets/prettyPhoto.css" rel="stylesheet" type="text/css"> 
+    <link href="http://www.spainexchange.com/stylesheets/styles.css?v=1" rel="stylesheet" type="text/css">
+    <link href="http://www.spainexchange.com/stylesheets/thickbox_custom.css?v=1" rel="stylesheet" type="text/css"> 
     <!--[if IE]>
         <link rel="stylesheet" href="http://www.spainexchange.com/stylesheets/styles_ie.css" type="text/css" media="screen" />
     <![endif]-->
@@ -27,8 +29,10 @@
     <script type="text/javascript" charset="utf-8" src="http://www.spainexchange.com/javascripts/jquery.tipsy.js?v=1"></script>
     <script type="text/javascript" charset="utf-8" src="http://www.spainexchange.com/javascripts/calendar_jscal2.js?v=1"></script>
     <script type="text/javascript" charset="utf-8" src="http://www.spainexchange.com/javascripts/calendar_en.js?v=1"></script>
+    <script type="text/javascript" charset="utf-8" src="http://www.spainexchange.com/javascripts/jquery.prettyPhoto.js"></script>
     <script type="text/javascript" charset="utf-8" src="http://www.spainexchange.com/javascripts/en.js?v=1"></script>
     <script type="text/javascript" charset="utf-8" src="http://www.spainexchange.com/javascripts/scripts.js?v=2"></script>
+    <script type="text/javascript" charset="utf-8" src="http://www.spainexchange.com/javascripts/jquery.thickbox_custom.js?v=2"></script>
     
     </head><body><div id="fb-root"></div>
     
@@ -42,6 +46,21 @@
 
 	<script>
     $(function(){
+				$("#no_remind").live('click',function(){
+			$.ajax({
+				type:"post",
+				url		: "http://www.spainexchange.com/includes/forms/clear_cookie_first_login_message.php",
+				data	:{
+					'session_user' : ''
+				},
+				beforeSend: function() {
+					$(this).val('Please wait ...');
+				},
+				success: function(data) {
+					tb_remove();
+				}
+			});
+		});
         $("ul.menu li").hover(function(){
             $(this).addClass("hover");
             $('ul:first',this).css('visibility', 'visible');
@@ -49,17 +68,94 @@
             $(this).removeClass("hover");
             $('ul:first',this).css('visibility', 'hidden');
         });
+		$('.trigger_form_login').live('click',function(){
+			$this = $('#mn_login');
+			var cur_height = $this.height();
+			var cur_width = $this.width();
+			if( $this.hasClass('close') ){
+				$this.removeClass('close');
+				$this.addClass('open');
+				$('#header_socials').hide();
+				$('#form_login').fadeIn();
+				$('#login_slide_username').focus();
+				$this.animate({
+					width:'320px',
+					height:'90px'
+				});
+			}else{
+				$this.removeClass('open');
+				$this.addClass('close');
+				$('#login_slide_username').focus();
+				$('#form_login').fadeOut();
+				$this.animate({
+					width:'31px',
+					height:'16px'
+				});
+				$('#header_socials').fadeIn(1000);
+			}
+		});
     });
     </script>
+    
+
+<style>
+	#TB_window a.new_button:hover {
+    	color: #FFF !important;
+	}
+	#TB_window a:link{
+		color:#5B73A3 !important;
+	}
+	#TB_title {
+    	background-color: #6A8CD6;
+		border: none;
+	}
+	</style>
 
 
 
-
+<a href="#TB_inline?height=300&amp;width=500&amp;inlineId=popup&amp;modal=" type="noPadding" class="thickbox" title="SPAINEXCHANGE" id="show_popup" style="display:none;"></a>
+<div id="popup" style="display:none;">
+	<div style="padding:10px;">
+    	<p><strong></strong>, welcome to our international community! Please be sure to fill out the rest of your profile with your interests and preferences so that other internationals
+can find you. <a href="http://www.spainexchange.com/users/ed_perfil.php"><strong><u>Click here to do that now</u></strong></a>.</p>
+<p>On our website there are many ways to become friends with interesting people from other countries. You can find people who speak the language you want to learn, who live in the country you want to visit, and who share similar interests, hobbies, favorite things and activities.</p>
+<p><a href="http://www.spainexchange.com/users/busqueda_usuario_avanzada.php?user_lang=en"><strong><u>Click here to search for new international friends</u></strong></a>.</p>        <a id="dismiss" name="dismiss" type="submit" class="new_button" onclick="tb_remove()" style="float:right;cursor:pointer;">Dismiss</a>
+        <a id="no_remind" name="no_remind" type="submit" class="new_button" style="float:right; margin-right:5px; cursor:pointer;">Don't remind me again</a>
+         <div style="clear:both;"></div>
+    </div>
+</div>
+<!-- THIS FOR POP UP ADD FRIEND  -->
+<div id="pop_up_add_friend">
+    <a style="cursor:pointer; float:right; background-color:#3B5998; color:#FFF; display:block; padding:0 2px 2px 2px;" class="close_message_request">x</a>
+    
+    <div style="float:left;">Would you like to include a message in your friend request?</div>
+    <div style="clear:both;">&nbsp;</div>
+    <textarea id="message_friend_request"></textarea>
+    <a style="cursor:pointer; margin-top:3px; float:right;" class="send_request">Send request</a>
+    <div style="clear:both;"></div>
+</div>
+<!-- / THIS FOR POP UP ADD FRIEND  -->
 <div id="wrapper">
 	<div id="header">
         <div id="header_login">
-			                    <a class="blue" href="http://www.spainexchange.com/users/register.php?user_lang=en">Register</a>
-                    <a class="blue" href="http://www.spainexchange.com/login">Login</a>
+			                    <div class="blue close" id="mn_login">
+                    	<a class="trigger_form_login">Login</a>
+                       	<div id="form_login">
+                            <form action="http://www.spainexchange.com/login" method="post">
+                            	<div class="form_login_label">Username</div>
+                                <div class="form_login_label">Password</div>
+                                <div class="clear"></div>
+                                <input type="text" name="username" id="login_slide_username">
+                                <input type="password" name="password" id="login_slide_password">
+                                <input type="submit" value="Login" name="s_submit_login_slide" id="s_submit_login_slide">
+                                <div class="clear"></div>
+                                <div id="mn_login_remember"><input type="checkbox" name="remember_me" value="1">Keep me logged in</div>
+                                <div id="mn_login_forgot"><a href="http://www.spainexchange.com/users/remember.php?user_lang=en">Forgot your password?</a></div>
+                                <div class="clear"></div>
+                            </form>
+                        </div>
+                    </div>
+                    <a class="blue" id="mn_register" href="http://www.spainexchange.com/users/register.php?user_lang=en&amp;f=1">Register</a>
         	
             <a class="grey" href="http://www.spainexchange.com/study-abroad/search_schools.php">School Search</a>
             
@@ -73,15 +169,15 @@
         
                         	
 		<form action="http://www.google.com" id="cse-search-box" target="_blank">
-  <div>
-    <input type="hidden" name="cx" value="partner-pub-6983088833439183:4086029972">
-    <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" name="q" size="25">
-    <input type="submit" name="sa" value="Search">
-  </div>
-</form>
+          <div>
+            <input type="hidden" name="cx" value="partner-pub-6983088833439183:4086029972">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input type="text" name="q" size="25">
+            <input type="submit" name="sa" value="Search">
+          </div>
+        </form>
 
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
       
                  
         		</div>
@@ -142,11 +238,13 @@
                     <li><a href="http://www.spainexchange.com/users/register_host.php?user_lang=en">Family Signup</a></li>
                	</ul>
             </li>
-        	<li class="main_bg"><a href="http://www.spainexchange.com/users/members/">Internationals</a>
+        	<li class="main_bg"><a href="http://www.spainexchange.com/users/">Internationals</a>
                 <ul>
                     <li><a href="http://www.spainexchange.com/users/busqueda_usuario_avanzada.php?user_lang=en">Search</a></li>
-                    <li><a href="http://www.spainexchange.com/users/members/">Browse List</a></li>
+                    <!--<li><a href="http://www.spainexchange.com/users/members/">Browse List</a></li>-->
                     <li><a href="http://www.spainexchange.com/users/register.php?user_lang=en">Signup</a></li>
+                    <li><a href="http://www.spainexchange.com/forum/">Forum</a></li>
+                    <li><a href="http://www.spainexchange.com/wall/">Wall</a></li>
                	</ul>
             </li>
         	<li class="main_bg last"><a href="http://www.spainexchange.com/educators/">For Educators</a>
@@ -156,6 +254,7 @@
                                                 <li><a href="http://www.eduspaintour.com/">Spain Educational Tours</a></li>
                                             <li><a href="http://www.spainexchange.com/educator-info/customized_training_program.php">Customized Training Programs</a></li>
                         <li><a href="http://www.spainexchange.com/spainterms/">Spain Terms</a></li>
+                        <li><a href="http://www.spainexchange.com/educator-info/exchange_inquiry.php?language=en">Secondary School Exchange</a></li>
                	</ul>
             </li>
 		</ul>
@@ -163,6 +262,9 @@
       	<div class="topline"></div>  
 	</div>
 
+	<div class="clear"></div>
+
+	            
 	<div id="container">
     
 		    
@@ -170,7 +272,6 @@
        	                <div id="content_left">
         
 			
-					                                            
                     <h2 class="center_hr">Privacy</h2>
                     
                     <div class="location_bar">
@@ -200,14 +301,35 @@
 	<p><b>Contacting the Web Site</b></p>
 	<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact <a href="mailto:web@spainexchange.com">Dori Kelsey</a>.</p>	
 
+					                <div style="margin-top:50px;">
+                    <h1 style="padding:5px; border-bottom:solid 1px #EEE; font-size:12px;">
+                        <span style="float:left;">Latest Comments from our Internationals</span>
+                        <span style="float:right;"><a href="http://www.spainexchange.com/users/register.php?user_lang=en&amp;f=6">Join Now and Meet International People Like Yourself!</a></span>
+                        <div style="clear:both;"></div>
+                    </h1>
+                    
+                    <ul id="wall"><li class="wallArea" id="delWall4148">                                                                        <img src="http://www.spainexchange.com/images/users/nophoto_en.png" border="0" width="60px" height="45px">
+                                 
+                            <p style="font-size:10px;">
+                                            by
+                                            <a href="http://www.spainexchange.com/i/Estudy"><b>Estudy</b></a> <a href="http://www.spainexchange.com/i/Estudy" class="comment_to_user">@Estudy</a> <span id="date_sent">on October 01 at 09:51 PM</span>
+                                            <br>yo quiero estudiar ingeniería electrónica en rucia  
+                                        </p>
+                                        <div class="clear"></div></li><ul id="comment4148"></ul><div class="clear"></div><div style="border-bottom:solid 1px #EEE;"></div><li class="wallArea" id="delWall4147">                                                                        <img src="http://www.spainexchange.com/includes/resize.php?src=http://www.spainexchange.com/images/users/thumbs/27303.jpg&amp;a=t&amp;w=55&amp;h=55" border="0" width="60px" height="45px">
+                                 
+                            <p style="font-size:10px;">
+                                            by
+                                            <a href="http://www.spainexchange.com/i/elrey"><b>elrey</b></a> <a href="http://www.spainexchange.com/i/selenac" class="comment_to_user">@selenac</a> <span id="date_sent">on October 01 at 07:09 PM</span>
+                                            <br>anybody please add my skype: abid.deandalucia <br>thnks :D
+                                        </p>
+                                        <div class="clear"></div></li><ul id="comment4147"></ul><div class="clear"></div><div style="border-bottom:solid 1px #EEE;"></div></ul>                </div>
+                    
 										                        </div><!-- end .inner_text_area -->
                         
                                                 
                         <div class="bottom_center_line"></div>
                     </div><!-- end .text_area -->
 			            
-          
-            
         </div><!-- end #content -->
         
 		            <div id="rightcolumn">
@@ -259,6 +381,7 @@
                 <li><a href="http://www.spainexchange.com/sitemap5">Sitemap 5</a></li>
             </ul>
         </div><!-- end .top_links -->
+        <input type="hidden" id="page_language" name="page_language" value="en">
     </div><!-- end #footer -->
 </div><!-- end #wrapper -->
 
