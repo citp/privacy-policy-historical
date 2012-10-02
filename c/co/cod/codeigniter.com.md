@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeigniter.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501060216id_/http%3A//codeigniter.com/terms/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeigniter.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003003802id_/http%3A//codeigniter.com/terms/privacy_policy) for the most accurate reproduction.*
 
 # CodeIgniter - Privacy Policy
 
