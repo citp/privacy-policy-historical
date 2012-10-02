@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the emel.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629034202id_/http%3A//www.emel.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emel.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003010237id_/http%3A//emel.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | emel - the muslim lifestyle magazine
 
 #### 1\. emel magazine’s commitment to privacy 
 
-This is a legal document which sets out how emel magazine handles data which identifies you. You should read it in conjunction with the emel magazine [Terms and Conditions](https://web.archive.org/web/20120629034202id_/http%3A//www.emel.com/terms_and_conditions), of which this Privacy Policy forms part.
+This is a legal document which sets out how emel magazine handles data which identifies you. You should read it in conjunction with the emel magazine [Terms and Conditions](https://web.archive.org/web/20121003010237id_/http%3A//emel.com/terms_and_conditions), of which this Privacy Policy forms part.
 
 At emel magazine, we believe strongly in protecting the privacy of our users’ personal information. This statement describes the privacy practices we apply for the emel magazine Service either through subscription or through emel.com. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If we change this Privacy Policy we will post the changes on this page and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times.
 
