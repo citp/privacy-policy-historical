@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the homemadeenergy.org privacy policy that was archived on 2012-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120409173558id_/http%3A//www.homemadeenergy.org/special/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadeenergy.org privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002230344id_/http%3A//www.homemadeenergy.org/privacy.php) for the most accurate reproduction.*
 
-# Home Made Energy: Renewable Energy For The Rest Of Us
-
-  
-
-
-## Privacy Policy
+# Home Made Energy
 
 HomeMadeEnergy.org respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. 
 
@@ -15,14 +10,14 @@ This Privacy Policy explains HomeMadeEnergy.org treatment of your personally ide
 
 2\. CONTRACTUAL OBLIGATION If you make a purchase from the Web Site, you will be asked to provide your name, email and payment information. We may use information collected in the following ways: 
 
-  1. To process, validate and verify purchases. 
-  2. To contact you to reconfirm or verify accuracy of information provided. 
-  3. To register you as a customer. 
-  4. To open and maintain a support account for you. 
-  5. To send email notifications about new, existing, enhanced products or services. 
-  6. To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services. 
-  7. To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations. 
-  8. To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license. 
+  * To process, validate and verify purchases. 
+  * To contact you to reconfirm or verify accuracy of information provided. 
+  * To register you as a customer. 
+  * To open and maintain a support account for you. 
+  * To send email notifications about new, existing, enhanced products or services. 
+  * To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services. 
+  * To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations. 
+  * To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license. 
 
 
 
@@ -34,4 +29,4 @@ We may disclose and use personally identifiable information in special circumsta
 
 5\. CHANGES TO THIS POLICY HomeMadeEnergy.org may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy. 
 
-6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](http://www.homemadeenergy.org/special/contact.php). 
+6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](http://www.homemadeenergy.org/contact.php). 
