@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesloft.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607195309id_/http%3A//salesloft.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesloft.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003000441id_/http%3A//salesloft.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # B2B Sales Intelligence Software, SalesLoft | Privacy Policy
 
