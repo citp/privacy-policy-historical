@@ -1,29 +1,25 @@
-<!--The following is the downloaded HTML source of the sharecare.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625110210id_/http%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharecare.com privacy policy that was archived on 2012-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002210441id_/http%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><head>
-        <title>Privacy Policy - Sharecare</title>        				<meta name="keywords" content="Privacy Policy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="no-js " lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><!--<![endif]--><head>
+
+        <title>Privacy Policy - Sharecare</title>                				<meta name="keywords" content="Privacy Policy">
 <meta name="description" content="Privacy Policy">
 <meta name="title" content="Privacy Policy - Sharecare">
-<meta name="og:image" content="http://www.sharecare.com/images/sc_heart.png">        <meta property="og:title" content="Privacy Policy - Sharecare">
+<meta name="og:image" content="http://www.sharecare.com/images/sc_heart.png">		<meta name="viewport" content="width=1000px">
+        <meta property="og:title" content="Privacy Policy - Sharecare">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.sharecare.com/static/privacypolicy">
 <meta property="og:site_name" content="Sharecare">
-                                                                                <link rel="stylesheet" href="http://static.sharecare.com/css/rollup/rollup.css?v=0" media="screen" type="text/css">
+                                                                                        <link rel="stylesheet" href="http://static.sharecare.com/css/rollup/rollup.css?v=0" media="screen" type="text/css">
 <link rel="stylesheet" href="http://static.sharecare.com/css/rollup/default.css?v=0" media="screen" type="text/css">
 <!--[if IE 7]> <link rel="stylesheet" href="http://static.sharecare.com/css/ie/ie7.css?v=0" media="screen" type="text/css" /><![endif]-->
 <!--[if IE 8]> <link rel="stylesheet" href="http://static.sharecare.com/css/ie/ie8.css?v=0" media="screen" type="text/css" /><![endif]-->
 <link rel="shortcut icon" href="http://static.sharecare.com/images/favicon.png" type="image/x-icon">                <script type="text/javascript" src="http://www.dotfit.com/sharecare.js.aspx"></script>
-                <script type="text/javascript" src="http://sc.ssoservice.com/tools/page.js?response_type=token&amp;client_id=sharecare"></script>
-        <script type="text/javascript" src="http://fonts.sharecare.com/wfc1tio.js"></script>
-        
-        <script type="text/javascript" src="http://nav.healthline.com/healthstat/nav/setup.js?partnerId=31a86f67-b1b6-4fd7-8b98-8caeee8d3078&amp;v=4.0"></script>
-        
+                <script type="text/javascript" src="http://fonts.sharecare.com/wfc1tio.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
         <script type="text/javascript" charset="utf-8">
-                            // TinyMCE needs document.domain set
-                document.domain     = 'sharecare.com';
-                        var amazonS3BaseUrl = 'http://media.sharecare.com/',
+            var amazonS3BaseUrl = 'http://media.sharecare.com/',
                 s_account       = 'sharecareprod',
                 staticDomain    = 'static.sharecare.com';
             window['staticDomain'] = staticDomain;
@@ -33,57 +29,143 @@
     //<![CDATA[
 var EXTERNAL_SEARCH_AJAX_URL = 'http://www.healthline.com/v2/sharecare/autocomplete';    //]]>
 </script>
-<script type="text/javascript" src="http://static.sharecare.com/js/global.js?v=0"></script>        <script type="text/javascript">
-            $(function(){
-                applySuperfish('ul.userLinks');
+<script type="text/javascript" src="http://static.sharecare.com/js/global.js?v=0"></script>
+<script type="text/javascript" src="http://static.sharecare.com/js/libs/fancybox.js?v=0"></script>        <script type="text/javascript" src="http://s.sharecare.com/static/js/SC.js"></script>
+        <script type="text/javascript" charset="utf-8">
 
-            /* Logged in user dropdown */
             (function($) {
-               $.dropdown = function(container) {
-                   var menu   = $('ul', $(container));
-                   var button = $('.dropdownButton', $(container));
+        		
+        		  var accountType  = 'Member';
+        		  var accountTypeName  = 'gt';
+        		  var accountSpecialty = '';
+        		  var accountTypeAbbr = '';
 
-                   button.click(function(e) {
-                       e.stopPropagation();
-                       menu.slideToggle('fast');
-                       $(container).toggleClass('expanded');
-                   });
+        		  if( accountType == 'Expert' ) {
+        			accountSpecialty = '';
+        			accountTypeName  = 'pt';
+        		  }
 
-                   $('html').click(function(e) {
-                       menu.slideUp('fast');
-                       $(container).removeClass('expanded');
-                   });
-               };
-            })(jQuery);
+        		 if( accountType == 'Member') {
+        			accountTypeAbbr = "con";
+        	     } else if( accountType == 'Expert') {
+        			accountTypeAbbr = "exp";
+        		 } else if ( accountType == 'Hospital' ) {
+        			accountTypeAbbr = "hsp";
+        		 } else if ( accountType == 'KnowledgePartner'   ) {
+        			accountType = 'KnowledgePartner';
+        			accountTypeAbbr = "knp";
+        		 } else if ( accountType == 'ContentProvider') {
+        			accountTypeAbbr = "cpr";
+        		 } else if (accountType == 'PharmaKnowledgePartner' ) {
+        			accountType = 'Pharma';
+        			accountTypeAbbr = "php";
+        		 }
 
-
-            $.dropdown('.dropdown');
-            });
-                        $(function(){
-                $('.exploreCollapse').ajaxify('#exploreTopicsWindow', {
-                    bind: 'click',
-                    cache: false,
-                    live: true,
-                    preloadType: 'inline',
-                    postResponse: function() {
-                        if ($('#exploreTopics').hasClass('exploreCollapse')) {
-                            $('#exploreTopics').removeClass('exploreCollapse');
-                            $('#exploreTopics').addClass('exploreExpand');
-                        } else if ($('#exploreTopics').hasClass('exploreExpand')) {
-                            $('#exploreTopics').removeClass('exploreExpand');
-                            $('#exploreTopics').addClass('exploreCollapse');
+                 window.SC = (typeof window.SC === 'undefined') ? {} : window.SC;
+                 window.SC = $.extend(true, window.SC, {
+                    dataModel: {
+                        id: {
+                          value: ''
+                        },
+                        isLoggedIn: {
+                          value: 'N'
+                        },
+                        userAge: {
+                          value: '0'
+                        },
+                        userGender: {
+                          value: ''
+                        },
+                        adEnv: {
+                          value: 'prod'
+                        },
+						accountUrl: {
+                          value: ''
+                        },
+                        accountType: {
+                          value:  accountTypeAbbr,
+                          dfpVar: accountTypeName
+                        },
+                        accountMode: {
+                          value: 'public'
+                        },
+                        accountSpecialties: {
+                          value: accountSpecialty
+                        },
+						keywords: {
+							dfpVar: '',
+							value: ''
+						},
+						accountRefType: {
+							value: ''
+						},
+                        state: {
+                            value: ''
+                        },
+                        postalCode: {
+                            value: ''
+                        },
+                        articlePageNumber: {
+                            value: ''
+                        },
+                        loginStatus: {
+                            value: '0'
+                        },
+                        email: {
+                            value: ''
+                        },
+                        accountName: {
+                            value: ''
+                        },
+                        pageSection: {
+                            value: ''
+                        },
+                        companyName: {
+                            value: ''
+                        },
+                        viewStatus: {
+                            value: ''
+                        },
+                        accountSpecialties: {
+                            value: ''
+                        },
+                        visitorType: {
+                            value: ''
+                        },
+                        host:{
+                            value: "sharecare.com"
+                        },
+                        pageNameWithoutHttp:{
+                            value: "sharecare.com" + location.pathname
                         }
-
-                        if ($('#exploreTopicsWrapper').hasClass('exploreTopicsWrapperHide')) {
-                            $('exploreTopicsWrapper').removeClass('exploreTopicsWrapperHide');
-                            $('exploreTopicsWrapper').addClass('exploreTopicsWrapperShow');
-                        }
-
-                        closeOthers('exploreTopics');
+                    },
+                    env: {
+                        appUrl: "http://www.sharecare.com",
+                        staticUrl: "http://s.sharecare.com/static"
                     }
                 });
+            })(jQuery);
 
-                $('.exploreExpand').live('click', function() {
+        </script>
+        
+        <script type="text/javascript">
+        $(function(){
+
+	    var ssoAuthToken = ssoservice.getToken();
+	    $.cookie('ssoAuthToken', ssoAuthToken);
+
+	    if (ssoservice.isLoggedIn() === true && false === false) {
+                        var origin = window.location.toString();
+            origin += ((origin.indexOf("?") > 0) ? "&" : "?") + "cachebust=" + (Math.random() * 1e12);
+            window.location = "/login?origin=" + encodeURIComponent(origin);
+        }
+
+            $('.exploreCollapse').ajaxify('#exploreTopicsWindow', {
+                bind: 'click',
+                cache: false,
+                live: true,
+                preloadType: 'inline',
+                postResponse: function() {
                     if ($('#exploreTopics').hasClass('exploreCollapse')) {
                         $('#exploreTopics').removeClass('exploreCollapse');
                         $('#exploreTopics').addClass('exploreExpand');
@@ -92,50 +174,50 @@ var EXTERNAL_SEARCH_AJAX_URL = 'http://www.healthline.com/v2/sharecare/autocompl
                         $('#exploreTopics').addClass('exploreCollapse');
                     }
 
-                    if ($('#exploreTopicsWrapper').hasClass('exploreTopicsWrapperShow')) {
-                        $('#exploreTopicsWrapper').removeClass('exploreTopicsWrapperShow');
-                        $('#exploreTopicsWrapper').addClass('exploreTopicsWrapperHide');
+                    if ($('#exploreTopicsWrapper').hasClass('exploreTopicsWrapperHide')) {
+                        $('exploreTopicsWrapper').removeClass('exploreTopicsWrapperHide');
+                        $('exploreTopicsWrapper').addClass('exploreTopicsWrapperShow');
                     }
 
-                    return false;
-                });
+                    closeOthers('exploreTopics');
+                }
+            });
 
-                $('.topicExplorePaginator a').ajaxify('#exploreTopicsWindow', {
-                    bind: 'click',
-                    cache: false,
-                    live: true
-                });
+            $('.exploreExpand').live('click', function() {
+                if ($('#exploreTopics').hasClass('exploreCollapse')) {
+                    $('#exploreTopics').removeClass('exploreCollapse');
+                    $('#exploreTopics').addClass('exploreExpand');
+                } else if ($('#exploreTopics').hasClass('exploreExpand')) {
+                    $('#exploreTopics').removeClass('exploreExpand');
+                    $('#exploreTopics').addClass('exploreCollapse');
+                }
 
-                $('.topicExploreItem').live('mouseover', function(){
-                    $(this).addClass('topicExploreItemHover');
-                }).live('mouseout', function(){
-                    $(this).removeClass('topicExploreItemHover');
-                });
+                if ($('#exploreTopicsWrapper').hasClass('exploreTopicsWrapperShow')) {
+                    $('#exploreTopicsWrapper').removeClass('exploreTopicsWrapperShow');
+                    $('#exploreTopicsWrapper').addClass('exploreTopicsWrapperHide');
+                }
 
-                $('.drozAnswerCollapse').ajaxify('#drozAnswerWindow', {
-                    bind: 'click',
-                    cache: false,
-                    live: true,
-                    preloadType: 'inline',
-                    postResponse: function() {
-                        if ($('#drozAnswer').hasClass('drozAnswerCollapse')) {
-                            $('#drozAnswer').removeClass('drozAnswerCollapse');
-                            $('#drozAnswer').addClass('drozAnswerExpand');
-                        } else if ($('#drozAnswer').hasClass('drozAnswerExpand')) {
-                            $('#drozAnswer').removeClass('drozAnswerExpand');
-                            $('#drozAnswer').addClass('drozAnswerCollapse');
-                        }
+                return false;
+            });
 
-                        if ($('#drozAnswerWrapper').hasClass('drozAnswerWrapperHide')) {
-                            $('drozAnswerWrapper').removeClass('drozAnswerWrapperHide');
-                            $('drozAnswerWrapper').addClass('drozAnswerWrapperShow');
-                        }
+            $('.topicExplorePaginator a').ajaxify('#exploreTopicsWindow', {
+                bind: 'click',
+                cache: false,
+                live: true
+            });
 
-                        closeOthers('drozAnswer');
-                    }
-                });
+            $('.topicExploreItem').live('mouseover', function(){
+                $(this).addClass('topicExploreItemHover');
+            }).live('mouseout', function(){
+                $(this).removeClass('topicExploreItemHover');
+            });
 
-                $('.drozAnswerExpand').live('click', function() {
+            $('.drozAnswerCollapse').ajaxify('#drozAnswerWindow', {
+                bind: 'click',
+                cache: false,
+                live: true,
+                preloadType: 'inline',
+                postResponse: function() {
                     if ($('#drozAnswer').hasClass('drozAnswerCollapse')) {
                         $('#drozAnswer').removeClass('drozAnswerCollapse');
                         $('#drozAnswer').addClass('drozAnswerExpand');
@@ -144,73 +226,132 @@ var EXTERNAL_SEARCH_AJAX_URL = 'http://www.healthline.com/v2/sharecare/autocompl
                         $('#drozAnswer').addClass('drozAnswerCollapse');
                     }
 
-                    if ($('#drozAnswerWrapper').hasClass('drozAnswerWrapperShow')) {
-                        $('#drozAnswerWrapper').removeClass('drozAnswerWrapperShow');
-                        $('#drozAnswerWrapper').addClass('drozAnswerWrapperHide');
+                    if ($('#drozAnswerWrapper').hasClass('drozAnswerWrapperHide')) {
+                        $('drozAnswerWrapper').removeClass('drozAnswerWrapperHide');
+                        $('drozAnswerWrapper').addClass('drozAnswerWrapperShow');
                     }
 
-                    return false;
-                });
-
-                var closeOthers = function(name) {
-                    if (name !== 'exploreTopics') {
-                        $('.exploreExpand').trigger('click');
-                    }
-                    if (name !== 'drozAnswer') {
-                        $('.drozAnswerExpand').trigger('click');
-                    }
+                    closeOthers('drozAnswer');
                 }
             });
-        </script>
-        <script type="text/javascript">
-            // ChartBeat
+
+            $('.drozAnswerExpand').live('click', function() {
+                if ($('#drozAnswer').hasClass('drozAnswerCollapse')) {
+                    $('#drozAnswer').removeClass('drozAnswerCollapse');
+                    $('#drozAnswer').addClass('drozAnswerExpand');
+                } else if ($('#drozAnswer').hasClass('drozAnswerExpand')) {
+                    $('#drozAnswer').removeClass('drozAnswerExpand');
+                    $('#drozAnswer').addClass('drozAnswerCollapse');
+                }
+
+                if ($('#drozAnswerWrapper').hasClass('drozAnswerWrapperShow')) {
+                    $('#drozAnswerWrapper').removeClass('drozAnswerWrapperShow');
+                    $('#drozAnswerWrapper').addClass('drozAnswerWrapperHide');
+                }
+
+                return false;
+            });
+
+            var closeOthers = function(name) {
+                if (name !== 'exploreTopics') {
+                    $('.exploreExpand').trigger('click');
+                }
+                if (name !== 'drozAnswer') {
+                    $('.drozAnswerExpand').trigger('click');
+                }
+            }
+        });
+
+                // ChartBeat
             var _sf_startpt=(new Date()).getTime()
         </script>
-
     </head>
     <body id="defaultModuleStaticControllerIndexAction">
-        				
+        <!-- DEBUG: ESI_INCLUDE (enabled): http://www.sharecare.com/header -->
+<div id="fb-root"></div>
+<div id="sharecare-header">
+  <script>
+    if(window.location.protocol != 'https:'){
+      document.write('<scr'+'ipt type="text\/javascript" src="http://www.dotfit.com/sharecare.js.aspx"><\/scr'+'ipt>');
+    }
+  </script>
+  <script src="http://sc.ssoservice.com/tools/page.js?response_type=token&amp;client_id=sharecare"></script>
+  <script>window.jQuery || document.write('<script src="//s.sharecare.com/static/js/libs/jquery-1.8.1.min.js"><\/script>')</script><script src="//s.sharecare.com/static/js/libs/jquery-1.8.1.min.js"></script>
+  <script>$.fn.fancybox || document.write('<script src="//s.sharecare.com/static/js/standalone/jquery.fancybox.pack.js"><\/script>')</script>
+  <script src="//s.sharecare.com/static/js/plugins/amc-autoSuggest.js?v=1"></script>
+  <script src="//s.sharecare.com/static/js/esi/header.js?v=1"></script>
+  <link rel="stylesheet" href="//s.sharecare.com/static/css/esi/header.css?v=1" media="screen" type="text/css">
+
+  <script type="text/javascript" src="//s.sharecare.com/static/js/sc1Session.js"></script>
+<div id="top-bar">
+
+  <div class="page-container">
+    <div id="partners-nav">
+      <ul>
+        <li class="selected"><a href="http://www.sharecare.com/" title="Sharecare">Sharecare</a></li>
+        <li><a href="http://www.doctoroz.com/" title="The Dr. Oz Show">The Dr. Oz Show</a></li>
+        <li><a href="http://www.dailystrength.org/" title="DailyStrength">DailyStrength</a></li>
+        <li><a href="http://www.realage.com/" title="RealAge">RealAge</a></li>
+      </ul>
+</div>
 
 
-	    	
-        <div id="headerWrapper">
-            <div id="header" class="wrapper">
-                <div id="primaryNavigation" class="wrapper">
-                        <ul id="navMenu">
-                                                    <li class="account"><a href="#" class="registerButton">Sign Up</a></li>
-                            <li class="account"><a href="#" class="loginButton">Log In</a></li>
-                                                    <li class="nav"><a href="http://reference.sharecare.com/">Health Reference</a></li>
-                            <li class="nav"><a href="/people">People</a></li>
-                            <li class="nav"><a href="/topics">Topics</a></li>
-                        </ul>
-                        <div class="logo">
-                            <a href="/" id="logo">Sharecare</a>
-                        </div>
-                </div>
-            </div> <!-- /header -->
 
+<div id="utility-nav">
+      <ul>
+            <li>
+              <div id="login-button">
+                <a class="button login-button" href="http://www.sharecare.com/login?origin=">Log In</a>
+              </div>
+
+            </li>
+            <li>
+              <a class="button signup-button" href="http://www.sharecare.com/register">Sign Up</a>
+            </li>
+          </ul>
+        </div>
+
+    </div>
+</div>
+<div id="page-head">
+  <div class="page-container">
+    <div class="logo">
+      <a href="http://www.sharecare.com" title="Sharecare"><img src="//s.sharecare.com/static/img/logo-sharecare.png" alt="Sharecare"></a>
+    </div>
+    <div id="main-navigation">
+      <ul>
+        <li><a href="http://www.sharecare.com/people" title="Experts &amp; People">Experts &amp; People</a></li>
+        <li><a href="http://www.sharecare.com/topics" title="Topics">Topics</a></li>
+        <li><a href="http://www.sharecare.com/videos" title="Video">Video</a></li>
+        <li><a href="http://reference.sharecare.com/" title="Health Reference">Health Reference</a></li>
+      </ul>
+    </div>
+    <form id="ask-form" action="http://www.sharecare.com/search" method="GET">
+      <fieldset>
+        <div>
+          <label for="ask-query" class="visuallyhidden">Ask a health related question:</label>
+          <input type="text" placeholder="Get expert answers to your health questions." name="query" id="ask-query" class="form-text">
+
+          <script type="text/javascript">
+    if (!!!window.SC === false && !!!window.SC.ads === false) {
+        SC.ads.showAdTag("862x15","");
+    }
+</script></div>
+        <div>
+          <input type="submit" id="ask-submit" value="Ask">
+        </div>
+      </fieldset>
+    </form>
+  </div>
+</div>
+</div>        <div id="headerWrapper">
             <div id="topContent">
-                <form id="globalSearchBar" action="/search">
-                    <h2>Get expert answers to your health questions</h2>
-                    <div id="globalSearchField">
-                        <input id="globalSearchFieldInput" name="query" class="defaultText">
-                        <!-- <ul id="autocompleteResults"></ul> -->
-                    </div>
-                    <button type="submit">Ask</button>
-                    <div id="headerdma">
-                        <!-- scdn.sharecare/qa/pos=a (tile=1) -->
-                        <script type="text/javascript">//<![CDATA[
-var ord = Math.floor(Math.random() * 10000000000000000);
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6437/adj/scdn.sharecare/static;env=PRD;cn=;ct=;us=;pos=a;tile=1;dcopt=ist;sz=862x15;kw=Privacy{plus}Policy;ord=' + ord + '?"><\/script>');
-//]]></script><script type="text/javascript" src="http://ad.doubleclick.net/N6437/adj/scdn.sharecare/static;env=PRD;cn=;ct=;us=;pos=a;tile=1;dcopt=ist;sz=862x15;kw=Privacy{plus}Policy;ord=8033020548522765?"></script><noscript><a href="http://ad.doubleclick.net/N6437/jump/scdn.sharecare/static;env=PRD;cn=;ct=;us=;pos=a;tile=1;dcopt=ist;sz=862x15;kw=Privacy{plus}Policy;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6437/ad/scdn.sharecare/static;env=PRD;cn=;ct=;us=;pos=a;tile=1;dcopt=ist;sz=862x15;kw=Privacy{plus}Policy;ord=123456789?" border="0" alt="" /></a></noscript>                        <!-- end ad tag -->
-                    </div>
-                </form>
-
                                 </div><!-- /topContent -->
 
             
             
         </div><!-- /headerWrapper -->
+        
         
         
         <div id="content" class="defaultModule staticController indexAction wrapper">
@@ -400,103 +541,71 @@ For example, if you choose to watch an educational video available on our websit
     </div> 
 </div>        </div>
 
-        <div id="footer">
-            <style type="text/css">
-            #footer table {
-                border-collapse: collapse;
-            }
-			#footer table tr th {
-				background-color: transparent;
-				color: #66BAC0;
-				padding: 2px;
-			}
-			#footer table tr td {
-				background-color: transparent;
-				line-height: 150%;
-				padding: 2px;
-			}
-			#footer table tr td a {
-				font-weight: bold;
-                                color: #FFFFFF;
-			}
-			#footer table tr td.footerBottom {
-				border-top: 1pt dotted #AAAAAA;
-				padding-top: 15px !important;
-			}
-			#footer table tr td.footerLogo {
-				border-left: 1pt dotted #AAAAAA;
-				text-align: right;
-                               padding-left: 10px !important;
-			}
+	    <!-- DEBUG: ESI_INCLUDE (enabled): http://www.sharecare.com/footer -->
+<div id="sharecare-footer">
+  <div id="footer">
+    <div class="page-container">
+      <div id="about-section" class="section">
+        <h3>About</h3>
+        <ul>
+          <li><a href="http://www.sharecare.com/static/about">About Sharecare</a></li>
+          <li><a href="http://www.sharecare.com/static/partners">Featured Experts</a></li>
+          <li><a href="http://www.sharecare.com/static/editorialadvisoryboard">Editorial Advisory Board</a></li>
+          <li><a href="http://www.sharecare.com/static/pressreleases">Press Releases</a></li>
+        </ul>
+      </div>
+      <div id="legal-section" class="section">
+        <h3>Legal</h3>
+        <ul>
+          <li><a href="http://www.sharecare.com/static/privacypolicy" rel="nofollow">Privacy Policy</a></li>
+          <li><a href="http://www.sharecare.com/static/terms" rel="nofollow">Terms of Use</a></li>
+          <li><a href="http://www.sharecare.com/static/contentpolicy" rel="nofollow">Content Policy</a></li>
+          <li><a href="http://www.sharecare.com/static/legal" rel="nofollow">Legal</a></li>
+        </ul>
+      </div>
+      <div id="contact-section" class="section">
+        <h3>Contact Us</h3>
+        <ul>
+          <li><a href="http://www.sharecare.com/professional">Become an Expert</a></li>
+          <li><a href="http://www.sharecare.com/static/contact">Contact Us</a></li>
+          <li><a href="http://www.sharecare.com/static/help" rel="nofollow">Support</a></li>
+          <li><a href="http://www.sharecare.com/static/sitemap">Site Map</a></li>
+        </ul>
+      </div>
+      <div id="follow-section" class="section">
+        <h3>Follow Us</h3>
+        <ul>
+          <li><a href="http://www.facebook.com/SharecareNow">Facebook</a></li>
+          <li><a href="http://www.twitter.com/SharecareNow">Twitter</a></li>
+          <li><a href="http://widget.sharecare.com/widget">Widget</a></li>
+          <li><a href="http://blog.sharecare.com">Blog</a></li>
+        </ul>
+      </div>
+      <div id="logo-section" class="section">
+        <a href="http://www.sharecare.com/" title="Sharecare"><img src="//s.sharecare.com/static/img/logo-sharecare-reverse.png" alt="Sharecare"></a>
+      </div>
+      <p>All Content Posted on This Site is the Responsibility of the Party Posting Such Content. Participation on
+        This Site by a Party Does not Imply Endorsement of any Other Party’s Content, Products, or Services. Content
+        Should not be Used for Medical Advice, Diagnosis, or Treatment. see Additional Information.</p>
+    </div>
+  </div>
+</div>
 
-                        #footer table tr td.footerBottom a {
-                                color: #66BAC0;
-                        }
-        </style>
-            <div id="footerInner">
-                <table width="100%">
-                    <tbody><tr>
-                        <td valign="top" style="padding-top: 0">
-            	<table width="771">
-            		<tbody><tr>
-            			<th width="25%">About</th>
-            			<th width="25%">Legal</th>
-            			<th width="25%">Contact Us</th>
-            			<th width="25%">Follow Us</th>
-            		</tr>
-            		<tr>
-            			<td>
-            				<a href="/static/about">About Sharecare</a><br>
-                			<a href="/static/partners">Featured Experts</a><br> 
-            				<a href="/static/editorialadvisoryboard">Editorial Advisory Board</a><br> 
-                			<a href="/static/pressreleases">Press Releases</a><br>
-            			</td>
-            			<td>
-            				<a href="/static/privacypolicy" rel="nofollow">Privacy Policy</a><br>
-               				<a href="/static/terms" rel="nofollow">Terms of Use</a><br>
-                			<a href="/static/contentpolicy" rel="nofollow">Content Policy</a><br>
-                			<a href="/static/legal" rel="nofollow">Legal</a><br>
-            			</td>
-            			<td>
-				            <a href="/static/become-an-expert">Become an Expert</a><br> 
-				            <a href="/static/contact">Contact Us</a><br>
-            				<a href="/static/help" rel="nofollow">Support</a><br>
-                            <a href="/static/sitemap">Site Map</a><br>
-            			</td>
-            			<td>
-            				<a href="http://www.facebook.com/SharecareNow" target="_blank">Facebook</a><br>
-            				<a href="http://www.twitter.com/SharecareNow" target="_blank">Twitter</a><br>
-            				<a href="http://widget.sharecare.com/widget">Widget</a><br>
-                                        <a href="http://blog.sharecare.com">Blog</a><br>
-            			</td>
-            		</tr>
-            	</tbody></table>
-                        </td>
-                        <td class="footerLogo" width="212">
-                            <br>
-                           <a href="http://www.sharecare.com"><img src="http://static.sharecare.com/images/logofooter.png?v=62"></a>
-                        </td>
-                    </tr>
-                    <tr><td colspan="2">&nbsp;</td></tr>
-                    <tr>
-                        <td colspan="2" class="footerBottom"> 
-                            All content posted on this site is the responsibility of the party posting such content. Participation 
-                            on this site by a party does not imply endorsement of any other party's content, products, or services. 
-                            CONTENT SHOULD NOT BE USED FOR MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT. <a href="/static/legal" rel="nofollow">See 
-                            additional information</a>.
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div><!-- /footerinner -->        </div>
-                <!-- SiteCatalyst code version: H.21.1. Copyright 1996-2010 Adobe, Inc. All Rights Reserved -->
-        <script language="JavaScript" type="text/javascript"><!--
-            s.pageName="sharecare.com\/static\/privacypolicy";s.eVar33="sharecare.com\/static\/privacypolicy";s.channel="\/static\/privacypolicy";s.eVar34="\/static\/privacypolicy";s.server="domU-12-31-39-0C-64-41";s.prop1="static";s.eVar1="static";s.prop8="unregistered";s.eVar8="unregistered";s.eVar36="non";
-            s.eVar21 = s.prop21;
-            s.eVar22 = s.prop22;
-            s.eVar23 = s.prop23;
+	                 <!-- SiteCatalyst code version: H.25. Copyright 1996-2012 Adobe, Inc. All Rights Reserved -->
+            <script language="JavaScript" type="text/javascript"><!--
+                s.pageName="sharecare.com\/static\/privacypolicy";s.eVar33="sharecare.com\/static\/privacypolicy";s.channel="static";s.eVar34="static";s.server="domU-12-31-38-04-F4-33";s.prop1="static";s.eVar1="static";s.prop8="unregistered";s.eVar8="unregistered";s.eVar36="non";
+                s.prop26 = "Privacy Policy - Sharecare";
+                s.eVar26 = s.prop26;
+                s.eVar21 = s.prop21;
+                s.eVar22 = s.prop22;
+                s.eVar23 = s.prop23;
             /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
             var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-        <!-- End SiteCatalyst code version: H.21.1. -->
+            <script language="JavaScript" type="text/javascript"><!--
+            if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+            //--></script><noscript><img src="http://sharecare.122.2o7.net/b/ss/sharecareprod/1/H.25--NS/0"
+                                         height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+            <!-- End SiteCatalyst code version: H.25. -->
         
         <script type="text/javascript">
             var _sf_async_config={uid:23142,domain:"sharecare.com"};
