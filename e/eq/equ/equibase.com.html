@@ -1,111 +1,504 @@
-<!--The following is the downloaded HTML source of the equibase.com privacy policy that was archived on 2000-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001204035800id_/http%3A//equibase.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the equibase.com privacy policy that was archived on 2012-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002235425id_/http%3A//equibase.com/about/privacypolicy.cfm) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Statement for equibase.com</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://ogp.me/ns#"><head>
+<meta property="og:image" content="http://www.equibase.com/images/equibase_profile_50.png">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<link rel="stylesheet" type="text/css" href="/css/selectbox.css">
+<link rel="stylesheet" type="text/css" href="/css/stats.css" media="screen">
+<link href="/css/screen.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script src="/js/jquery/ui/jquery-ui-1.8rc1.custom.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="/js/jquery.selectbox-0.5.js"></script>
+<script src="/js/main.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/home/search.js" type="text/javascript"></script>
+<script src="/js/home/racing-news.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/home/racingtoday.js" type="text/javascript" charset="utf-8"></script>
+
+
+<style type="text/css">
+div#scrollbar {
+	display:none; /* hide from incapable */
+}
+#search {
+	display:none;
+}
+.searchtext {
+	display:none;
+}
+</style>
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#search").show();
+	$(".searchtext").show();
+	//Default Action
+	$(".tab_content").hide(); //Hide all content
+	$("ul.productsinfo_tabs li:first a").addClass("active_tab").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.productsinfo_tabs li").click(function() {
+		$("ul.productsinfo_tabs li a").removeClass("active_tab"); //Remove any "active" class
+		$(this).find("a").addClass("active_tab"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active content
+		return false;
+	});
+});
+</script>
+
+<script language="javascript">
+	function MM_openBrWindow(theURL,winName,features) {
+		window.open(theURL,winName,features);
+	}
+</script>
+
+<script type="text/javascript" src="/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/js/jScrollPane-1.2.3.min.js"></script>
+<script type="text/javascript">
+$(function() {
+	if ($('#pane2').length > 0){
+		$('#pane2').jScrollPane({showArrows:true});
+
+		var randomnumber=Math.random();
+		var mpHeight = $('#pane2').css('height');
+		var mpPosition = mpHeight.replace(/px/, "");
+		mpPosition = Math.floor(mpPosition * randomnumber);
+		$('#pane2')[0].scrollTo(mpPosition);
+	}
+});
+</script>
+
+<script type="text/javascript">
+	function keepSearch(sel) {
+		document.getElementById('searchVal').value = sel.value;
+	}
+
+</script>
+
 </head>
+<body>
+<!--........wrapper code starts here.........-->
+<div id="wrapper_main">
+  <div class="toptxt">Use (including viewing) of the material contained herein constitutes acceptance of the <a href="/about/terms.cfm">Terms of Use</a>.</div>
+  <div id="wrapper">
+    <!--........header code starts here.........-->
+      <div id="header">
+      <div class="facebk"><table class="facebooktable"><tbody><tr><td> <a href="http://www.facebook.com/Equibase" target="_new" class="facebk">Stay Connected:</a></td> <td valign="top">
+      <a href="http://www.facebook.com/Equibase" target="_new"><img src="/images/facebook-f.gif" border="0"></a></td><td>
 
-<body bgcolor="#ffffff" text="#000000">
+<div style="text-align:right">
 
-<center>
-<img border="0" src="../images/head_privacy.gif" alt="Legal Information">
-</center>
-<p>
-</p><center>
+					<iframe src="http://www.facebook.com/plugins/like.php?href=https://www.facebook.com/equibase&#10;&#9;&#9;&#9;&#9;&#9;&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+				</div>
 
-<!--Begin Engage Media Ad Copyright 1999 Engage Media.
-    All rights reserved. Patent Pending -->
-    <script language="JAVASCRIPT">
-    <!--
-    FlycastSite	= "EquibaseCompany";
-    FlycastPage	= "RunofSite";
-    FlycastWidth	= 468;
-    FlycastHeight	= 60;
-    FlycastPrintTag	= true;
-    FlycastNewAd	= true;
-    FlycastEnableTargetWindow	= false;
-    FlycastKeyword	= "";
-    FlycastLoaded	= false;
-    FlycastVersion	= 3.6;
-    //-->
-    </script>
-    <script src="http://js-adex3.flycast.com/FlycastUniversal/Version3.6/" language="JAVASCRIPT"></script>
-    <script language="JAVASCRIPT">
-    <!--
-	if (!FlycastLoaded) document.write('<A target="_top" HREF="http://ad-adex3.flycast.com/server/click/EquibaseCompany/RunofSite/123"><IM' + 'G WIDTH=468 HEIGHT=60 BORDER=0 SRC="http://ad-adex3.flycast.com/server/ad/EquibaseCompany/RunofSite/123"></A>');
-    //-->
-    </script><a target="_top" href="http://ad-adex3.flycast.com/server/click/EquibaseCompany/RunofSite/123"><img width="468" height="60" border="0" src="http://ad-adex3.flycast.com/server/ad/EquibaseCompany/RunofSite/123"></a>
-    <noscript>
-	<IFRAME SRC="http://ad-adex3.flycast.com/server/iframe/EquibaseCompany/RunofSite/123" scrolling="no" marginwidth=0 marginheight=0 frameborder=0 vspace=0 hspace=0 WIDTH=468 HEIGHT=60>
-	<A target="_top" HREF="http://ad-adex3.flycast.com/server/click/EquibaseCompany/RunofSite/123"><IMG BORDER=0 WIDTH=468 HEIGHT=60 SRC="http://ad-adex3.flycast.com/server/img/EquibaseCompany/RunofSite/123"></A>
-	</IFRAME>
-    </noscript>
-<!--End Engage Media Ad Copyright 1999 Engage Media. All rights reserved. Patent Pending -->
 
-</center>
 
-<p></p><center><table width="610" border="10" bordercolorlight="#B3CEB6" bordercolordark="#6A8D6E" cellpadding="5"><tbody><tr><td>
+</td></tr></tbody></table></div>
+<script language="javascript" src="/premium/eebRovingCart.js"></script>
+<script language="javascript">
+	var style="", text=""
+	
+		style='NEW'
+	
+		text=''
+	
+	getCartInfo(style, text);
+</script><table cellpadding="0" cellspacing="0" border="0" width="571" height="21"><tbody><tr><td valign="middle" background="/images/homepage/header5.jpg" class="grey" align="right">          <a href="/premium/eebDownloadProduct.cfm" class="white">My Purchases</a> |			<a href="/premium/customeradminmain.cfm" class="white">My Account</a> |			<a href="/premium/eebViewCart.cfm" class="white">			<img src="/images/homepage/cart.gif" width="17" height="14" border="0"> Shopping Cart</a> | 			<a href="/premium/eqpCurrentSubscriptions.cfm" class="red">Subscriptions</a> |			<a href="/premium/eebViewCart.cfm" class="white">0 Items $0.00</a> &nbsp;</td><td valign="top"><a href="/premium/eebCheckout.cfm"><img src="/images/homepage/checkOut.jpg" alt="Check Out" width="75" height="21" border="0"></a></td></tr></tbody></table>
+      <div class="logo"><a href="/index.cfm"><img src="/images/logo.jpg" alt="" width="155" height="35"></a> Your Official Source for Thoroughbred Racing Information </div>
 
-<center>
+<span class="searchtext">Search: Horses, Jockeys, Trainers, Owners, Tracks<br>
+	<form class="search" id="search" method="post">
+		<select id="searchOptions" onchange="javascript:keepSearch(this);">
+			<option value="horses" selected="selected">Horses</option>
+			<option value="jockeys">Jockeys</option>
+			<option value="trainers">Trainers</option>
+			<option value="owners">Owners</option>
+            <option value="tracks">Tracks</option>
+		</select>
+		<input type="hidden" id="searchVal" value="horses" name="searchVal">
+		<input class="input" id="searchInput" type="text">
+		<input src="/images/modifiedsearchbox.gif" type="image" style="border: none;">
+	</form></span>
 
-<font size="+2">Privacy Statement for equibase.com</font>
-<p align="CENTER">
-</p><center><table width="600">
-<tbody><tr><td>
-<small><b>Please Note:</b> This privacy policy was last updated on June 13, 2000 and is subject to future change without notice.</small>
 
-<p>Equibase Company LLC has created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses our information gathering and dissemination practices for this website: <b>equibase.com</b>.</p><p>
 
-</p><p>We use your IP address to help diagnose problems with our server, and to administer our web site.  Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
+      <div class="clr"></div>
+      <div id="navigation-wrap">
+        <ul id="navigation">
+           <li><a href="/products/handicapperstore.cfm?SAP=TN">Store</a> |</li>
+   <li><a href="/premium/eqpEquibaseFullPP.cfm?SAP=TN">PPs </a> |
+    <ul>
+   		  		  			<li><a href="/premium/eqpEquibaseFullPP.cfm?SAP=TN">Equibase® Premium PP Program</a></li>
+		  		  			<li><a href="/premium/eqpRaceProgram.cfm?SAP=TN">Equibase® Basic PP Program</a></li>
 
-</p><p>Our site uses cookies to keep track of your shopping cart.  We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+		  		  		<li><a href="/premium/eqpTrackMasterPlusPro.cfm?SAP=TN">TrackMaster® Plus Pro</a></li>
+   		  		  			<li><a href="/premium/eqpTrackMasterPlatinumPPs.cfm?SAP=TN">TrackMaster® Platinum PPs</a></li>
+		  		  				 <li><a href="/premium/eqpFlashNet.cfm?SAP=TN">TrackMaster® Flashnet</a></li>
+		  		  	<li><a href="/premium/eqpdrfBuildEdition.cfm?SAP=TN"><i>Daily Racing Form</i></a></li>
+		  		  	<li><a href="/premium/eqpEuroProgram.cfm?SAP=TN">Euroform™ PP Program</a></li>
+		  		   <li><a href="/premium/eqpHorseLookup.cfm?PID=50214&amp;?SAP=TN">Lifetime PP's</a></li>
 
-</p><p>Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level).  We use customer contact information from the registration form to send the user information about our company.  The customer's contact information is also used to contact the visitor when necessary.  Users may opt-out of receiving future mailings; see the choice/opt-out section below.  Demographic and profile data is also collected at our site.  We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.  This information is shared with advertisers on an aggregate basis.
 
-</p><p>This site contains links to other sites.  <b>equibase.com</b> is not responsible for the privacy practices or the content of such web sites.</p><p>
+<li><a name="">Mobile Apps</a></li>
+		  		  	<li><a href="/premium/eqpipp.cfm?SAP=TN">&nbsp;&nbsp;&nbsp; iPPs by Equibase</a></li>
+		  		  			 <li><a href="/premium/eqpTrackMasterPocketHandicapper.cfm">&nbsp;&nbsp;&nbsp; Pocket Handicapper</a></li>
 
-</p><p>Our site uses an order form for customers to request information, products, and services.  We collect visitor's financial information (like their account or credit card numbers).  Financial information that is collected is used to bill the user for products and services.
 
-</p><p>This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages.  To do this, Engage collects anonymous data typically through the use of cookies.  To learn more about Engage, including your ability to opt out of the Engage system, go to <a href="http://www.engage.com/privacy">http://www.engage.com/privacy</a>.
+		  		  	   		  			          </ul>
+		  		  			          </li>
+           <li><a href="/static/eqpaxisselections.html?SAP=TN">Selections</a> |
+		             <ul>
+		  		  			<li><a href="/static/eqpaxisselections.html?SAP=TN">Thoroughbred Selections</a></li>
+		  		  			 <li><a href="/premium/eqpFlashNet.cfm?SAP=TN">TrackMaster® Flashnet for Thoroughbred</a></li>
+		  		  			<li><a href="/premium/eqpAXCISHarnessSelections.cfm?SAP=TN">Harness Selections</a></li>
+		  		  			   <li><a href="/premium/eqpHarnessFlashnet.cfm?SAP=TN">TrackMaster® Flashnet for Harness</a></li>
+		  		  			   </ul>
+        </li>
+          <li><a href="/premium/eqpVideoRaceReplaysSearch.cfm?SAP=TN">Replays</a> |</li>
+ <li><a href="/products/handicapperstore.cfm#reports">Reports </a> |
+            <ul>
+			              <li><a href="/premium/eqptrackmasterrdss.cfm?SAP=TN">RDSS (Modern Sartin Method)</a></li>
+ <li><a href="/premium/eqpperformancecycles.cfm?SAP=TN">Performance Cycles</a></li>
+ <li><a href="/premium/eqpHorseLookup.cfm?PID=50133&amp;SAP=TN">Premium Pedigrees</a></li>
 
-</p><p></p><h2>Security</h2>
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  <b>equibase.com</b> uses 40-bit encryption for all secure links, which adheres to Federal and International guidelines for secure server transactions.
+			              <li><a href="/premium/eqpthorograph.cfm?SAP=TN">Thoro-Graph Form Ratings</a></li>
+			             <!--<li><a href="/premium/eqpGradeOneWorkout.cfm?SAP=TN">Workout Reports</a></li>-->
+			             <li><a href="/premium/eqpcycleslite.cfm?SAP=TN">Cycles Lite</a></li>
+			               <li><a href="/premium/eqpHorseLookup.cfm?PID=50214&amp;?SAP=TN">Lifetime PP's</a></li>
+<!--<li><a href="/premium/eqpHorseLookup.cfm?PID=50303&SAP=TN">E Speed Figure Reports</a></li>-->
 
-<p></p><h2>Choice/Opt-Out</h2>Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
 
-<p>This site gives users the option for removing their information from our database to not receive future communications.  You can send email to <a href="mailto:registration@equibase.com">registration@equibase.com</a>
-</p></td></tr>
+			             <li><a href="/premium/eqptrackbias.cfm?SAP=TN">Track Bias Reports</a></li>
+			              <li><a href="/premium/eqpEGraph.cfm?SAP=TN">E Graphs</a></li>
 
-<tr><td align="CENTER">
+            </ul>
+          </li><li><a href="/static/entry/index.html?SAP=TN">Entries </a> |
+            <ul>
+			              <li><a href="/static/entry/index.html?SAP=TN">Entries</a></li>
+			              <li><a href="/premium/eqpInToday.cfm?SAP=TN">In Today Lists</a></li>
+			              <li><a href="/static/latechanges/html/latechanges.html?SAP=TN">Today's Scratches &amp; Program Changes</a></li>
+			             <li><a href="/static/latechanges/html/cancellations.html?SAP=TN">Cancellations</a></li>
+			             <li><a href="/products/racedates.cfm?SAP=TN">Race Dates</a></li>
+			              <li><a href="/static/workout/index.html?SAP=TN">Workouts</a></li>
+			              <li><a href="/static/harness/entry/index.html?SAP=TN">Harness Entries</a></li>
+            </ul>
+          </li>
+          <li><a href="/static/entry/index.html?SAP=TN" onmouseover="app.util.racingToday.resetRTTable();">Racing Today</a> |
+		    <!-- <div class="RacingTodayContainer"> -->
+			  <div class="RacingToday">
+			    <div class="heading">
+					<p><a id="rtToday">Racing Today</a></p>
+					<p><a id="rtYesterday">Racing Yesterday</a></p>
+					<p><a id="rtTomorrow">Racing Tomorrow</a></p>
+					<table id="headerTable" style="clear: left">
+					  <tbody><tr>
+					   <th>&nbsp;</th>
+					   <th>&nbsp;</th>
+					   <th>&nbsp;</th>
+					   <th>&nbsp;</th>
+					   <th>&nbsp;</th>
+                       <th>&nbsp;</th>
+					   <th>&nbsp;</th>
+					  </tr>
+					</tbody></table>
+			    </div>
+				<div class="rtTable">
+					<table id="trackTable">
+					  <tbody><tr>
+					   <td>&nbsp;</td>
+					   <td>&nbsp;</td>
+					   <td>&nbsp;</td>
+					   <td>&nbsp;</td>
+					   <td>&nbsp;</td>
+					   <td>&nbsp;</td>
+					   <td>&nbsp;</td>
+					  </tr>
+					</tbody></table>
+				</div>
+			  </div>
+			<!-- </div> -->
+		  </li>
+          <li><a href="/static/chart/pdf/index.html?SAP=TN">Results </a> |
+		             <ul>
+		  			<li><a href="/premium/eqpVideoRaceReplaysSearch.cfm?SAP=TN">Video Race Replays</a></li>
+		  			<li><a href="/premium/eqpTMResultChartSearch.cfm?SAP=TN">Downloadable Charts</a></li>
+		  			<li><a href="/results/stakesresults.cfm">Stakes Results</a></li>
+		  		   <li><a href="/static/chart/pdf/index.html?SAP=TN">Full Charts</a></li>
+		  			<li><a href="/static/chart/summary/index.html">Summary Results</a></li>
+		  			<li><a href="/static/chart/quick/index.html?SAP=TN">Quick Results</a></li>
+		              <li><a href="#" onclick="MM_openBrWindow('/ticker/tickerframe.html','','toolbar=no,status=no,menubar=no,scrollbars=no,width=302,height=290');">Results Ticker</a></li>
+		          <li><a href="/premium/eqbRaceChartCalendar.cfm?SAP=TN">Historical Charts</a></li>
+		          </ul>
+        </li>
+          <li><a href="/stats/View.cfm?tf=year&amp;tb=horse">Stats </a> |
+		            <div>
+		              <div class="left">
+		              <div class="heading">
+		              <div class="goldheading">Stats Central</div>
+		                  <p>North American Thoroughbred Racing Statistics</p>
+		                   <p><a href="/yearbook/">Equibase <strong>Yearbook</strong> &gt;</a></p>
+		                </div>
+		                <div class="list">
+		                  <p>2012 <strong>Starters</strong></p>
+		                  <p><a href="/stats/View.cfm?tf=year&amp;tb=horse">Horses</a></p>
+		                  <p><a href="/stats/View.cfm?tf=year&amp;tb=jockey">Jockeys</a></p>
+		                  <p><a href="/stats/View.cfm?tf=year&amp;tb=trainer">Trainers</a></p>
+		                  <p><a href="/stats/View.cfm?tf=year&amp;tb=owner">Owners</a></p>
+		                </div>
+		                <div class="list2">
+		                  <p>All-Time <strong>Leaders</strong></p>
+		                  <p><a href="/stats/View.cfm?tf=all-time&amp;tb=horse&amp;vb=W">Horses by Wins</a></p>
+		                  <p><a href="/stats/View.cfm?tf=all-time&amp;tb=horse&amp;vb=E">Horses by Earnings</a></p>
+		                  <p><a href="/stats/View.cfm?tf=all-time&amp;tb=jockey&amp;vb=W">Jockeys by Wins</a></p>
+		                  <p><a href="/stats/View.cfm?tf=all-time&amp;tb=jockey&amp;vb=E">Jockeys by Earnings</a></p>
+		                  <p><a href="/stats/View.cfm?tf=all-time&amp;tb=trainer&amp;vb=W">Trainers by Wins</a></p>
+		                  <p><a href="/stats/View.cfm?tf=all-time&amp;tb=trainer&amp;vb=E">Trainers by Earnings</a></p>
+		                </div>
+		                <div class="list3">
+		                  <p>Starters<strong> By Track</strong></p>
+		                  <p><a href="/stats/View.cfm?tf=meet&amp;tb=horse">Horses</a></p>
+		                  <p><a href="/stats/View.cfm?tf=meet&amp;tb=jockey">Jockeys</a></p>
+		                  <p><a href="/stats/View.cfm?tf=meet&amp;tb=trainer">Trainers</a></p>
+		                  <p><a href="/stats/View.cfm?tf=meet&amp;tb=owner">Owners</a></p>
+		                </div>
+		                <div class="years"> <strong>Prior Year</strong> Starters
+		                  <p><a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2011">2011</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2010">2010</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2009">2009</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2008">2008</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2007">2007</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2006">2006</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2005">2005</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2004">2004</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2003">2003</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2002">2002</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2001">2001</a>, <a href="/stats/View.cfm?tf=year&amp;tb=horse&amp;y=2000">2000</a></p>
+		                </div>
+		              </div>
+		              <div class="right">
+		                
+		                  <div class="img"><img src="/images/statscentral184x154.gif" width="184" height="154" border="0" alt=""></div>
+		              </div>
+		            </div>
+		          </li>
+          <li><a href="/static/harness/entry/index.html?SAP=TN">Harness </a> |
+          <ul>
+		  		  			<li><a href="/static/harness/entry/index.html?SAP=TN">Harness Entries</a></li>
+		  		  			<li><a href="/premium/eqpHarnessPlatinumPPs.cfm?SAP=TN">TrackMaster Platinum PP's</a></li>
+		  		  			<li><a href="/premium/eqpHarnessPPs.cfm?SAP=TN">TrackMaster PP's</a></li>
+		  		  		   <li><a href="/premium/eqpHarnessFlashnet.cfm?SAP=TN">TrackMaster Flashnet</a></li>
+		  		  			<li><a href="/premium/eqpAXCISHarnessSelections.cfm?SAP=TN">Expert Selections</a></li>
+		  		  			<!--<li><a href="/premium/eqpTMHarnessResultChartSearch.cfm?SAP=TN">Harness Downloadable Charts</a></li>-->
+		  		  			         </ul>
+        </li>
+          <li><a href="/static/horsemen/horsemenarea.html?SAP=TN">Horsemen </a> |
+          <ul>
+			              <li><a href="/static/horsemen/horsemenareaCB.html?SAP=TN">Condition Books</a></li>
+			              <li><a href="/static/horsemen/horsemenareaON.html?SAP=TN">Overnights with Extras</a></li>
+			              <li><a href="/static/horsemen/horsemenareaSB.html?SAP=TN">Stakes Book</a></li>
+		<li><a href="/static/horsemen/horsemenareaSNHW.html?SAP=TN">Stakes Nominations, Handicap Weights and PP's</a></li>
+<li><a href="/premium/eqpHorseLookup.cfm?PID=50133&amp;SAP=TN">Premium Pedigrees</a></li>
+</ul>
+		</li>
+          <li><a href="/free/index.cfm">Free Stuff</a> |
+           <ul class="rightNav">
+           <li><a href="/free/index.cfm?SAP=TN">Equibase Feature Race</a></li>
+            <li><a href="/free/index.cfm?SAP=TN">Equibase Race of the Day</a></li>
+             <li><a href="/products/freepicks2.cfm?SAP=TN">TrackMaster Free Selections</a></li>
+           <li><a href="/virtualstable/horse.cfm?">Virtual Stable®</a></li>
+          <li><a href="/stats/View.cfm?tf=year&amp;tb=horse">Stats Central</a></li>
+
+            <li><a href="/yearbook/">Racing Yearbook App</a></li>
+            <li><a href="/mobile/index.cfm?SAP=TN">Equibase Mobile</a></li>
+             <li><a href="/free/index.cfm?SAP=TN">Handicapping Contests</a></li></ul>
+           </li>
+          <li><a href="/mobile/index.cfm">Mobile </a>
+         <ul class="rightNav">
+		             <li><a href="/mobile/mobile.cfm?SAP=TN">Equibase Mobile</a></li>
+		              <li><a href="/apple/get.cfm?SAP=TN">Equibase Racing Yearbook™</a></li>
+		              <li><a href="/apple/today.cfm?SAP=TN">Today's Racing™ App</a></li>
+		               <li><a href="/premium/eqpTrackMasterPocketHandicapper.cfm?SAP=TN">Pocket Handicapper App</a></li>
+		                <li><a href="/premium/eqpipp.cfm?SAP=TN">iPPs by Equibase App</a></li>
+ <li><a href="/qr/index.cfm?SAP=TN">QR Codes</a></li>
+		             </ul>
+           </li>
+        </ul>
+      </div>
+    </div>
+    <!--........header code ends here.........-->
+
+    <!--........content code starts here.........-->
+    <div id="content">
+      <div id="left">
+        <div class="inner_content1">
+          <ul class="pagination1">
+            <li><a href="/index.cfm">Home</a></li><li>&gt; About</li><li>&gt; Privacy Policy</li>
+
+          </ul>
+          <h5 class="handicappers_title"><strong>Privacy</strong> Policy</h5>
+
+          <!-- CONTENT GOES BELOW HERE -->
+          <div style="float:left;padding:10px 0 25px 10px;">
+<table border="0" cellpadding="5"><tbody><tr><td>
+<center><div class="smboldblack">PRIVACY STATEMENT FOR <i>equibase.com</i></div></center>
+
+<br><br><div class="smblack"><b>Please Note:</b> This privacy policy was last updated on November 18, 2008 and is subject to future change without notice.
+<br><br>Equibase Company LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: <b><i>equibase.com</i></b>.
+<br><br>We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.  We monitor access to the site via IP address for data scrapers and automated access of information on the site.  We block IP addresses engaging in these activities.
+<br><br>Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+<br><br>Our site's registration form requires users to give us contact information (like their name and e-mail address) and basic demographic information.  We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the Opt Out Procedures for Mailings section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
+<br><br>When registering at our site, your registration information is also sent to TrackMaster, a wholly-owned subsidiary of Equibase Company LLC so that your registration information can be used to purchase products and services at their website <b><i>trackmaster.com</i></b>.  It will be necessary for you to complete additional registration information at <b><i>trackmaster.com</i></b> before being able to make purchases at that site.  No additional registration information is required to make purchases at <i><b>equibase.com</b></i>.  Products and services on <b><i>trackmaster.com</i></b> are covered by a separate set of Terms and Conditions that will be provided for your approval before any purchases can be made.  Registration at our web site does not obligate you to make purchases at <b><i>trackmaster.com</i></b>.  Any questions concerning the terms and conditions for the <b><i>trackmaster.com</i></b> web site should be referred to TrackMaster via the contact information provide via that site.
+<br><br>This site contains links to other sites. <b><i>equibase.com</i></b> is not responsible for the privacy practices or the content of such web sites.
+<br><br>Our site uses an order form for customers to request information, products, and services. We collect visitor's financial information (like their account or credit card numbers). Financial information that is collected is used to bill the user for products and services.  Billing is processed at the time of purchase, unless you have reached customer account status, at which time your card will be billed at the end of the month for purchases made during that month.  Monthly account billing will continue until the visitor notifies Equibase Company in writing or if the monthly billing process fails, at which time billing for all future purchases will be processed at the time of purchase.</div>
+
+<p align="LEFT"></p><div class="smblack">Security</div>
+
+<br><br><div class="smblack">We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.  This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  <b><i>equibase.com</i></b> uses 128-bit encryption for all secure links, which adheres to Federal and International guidelines for secure server transactions.  We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.</div>
+
+<br><br><div class="smblack"><i><b>equibase.com</b></i> is tested and certified daily to pass the McAfee Secure Security Scan. To help address concerns about possible hacker access to your confidential data, and the safety of visiting <i><b>equibase.com</b></i>, the "live" McAfee Secure mark appears only when this site passes the daily McAfee Secure tests.</div>
+
+<p align="LEFT"></p><div class="smblack">Opt Out Procedures for Mailings</div>
+
+<br><br><div class="smblack">Our site provides users the opportunity to opt-out of receiving communications from Equibase Company and third parties at the point where we request registration information about the visitor.</div>
+
+<br><br><div class="smblack">This site gives users the option for removing their information from our database to not receive information about Equibase Products and Services.  In order to complete this request, the User must send a written request via e-mail, including their Customer ID to: <a class="dkbluesm" href="mailto:registration@equibase.com?subject=Equibase Mail List Remove">Equibase Mailing List Removal</a></div>
+
+<br><br><div class="smblack">This site gives users the option to no longer receive the Equibase Inside Track mailing.  In order to complete this request, the User must send a written request via e-mail, from the e-mail address used at registration, to: <a class="dkbluesm" href="mailto:insidetrack@equibase.com?subject=Inside Track Remove">Inside Track Removal</a></div>
+
+<br><br><div class="smblack">This site gives users the option to de-activate their Virtual Stable.  In order to complete this request, the User can do so from the <a class="dkbluesm" href="http://www.equibase.com/virtual/gvsVirtualStableMain.cfm?SID=1" target="_new">Virtual Stable Main Page</a>, or by sending a written request via e-mail, from the e-mail address used for the Virtual Stable, to: <a class="dkbluesm" href="mailto:feedback@equibase.com?subject=De-activate Virtual Stable">De-activate Virtual Stable</a></div>
+
+</td></tr>
+<tr>
+<td>
 <hr>
 <p>
-</p><h3>Contacting the web site</h3>
-If you have any questions about this privacy statement, the
-practices of this site, or your dealings with this web site,
-you can contact
-<p>
-</p><address>Matthew W. McCoy</address>
-<address>Equibase Company LLC</address>
-<address>821 Corporate Drive</address>
-<address>Lexington, KY  40503</address>
-<address></address>
-<address>mccoy@equibase.com</address>
+</p><p align="LEFT"></p><div class="smblack">Contacting the web site</div>
+<br><br><div class="smblack">If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact</div>
+<br>
+<div class="smblack">Shelby Cook</div>
+<div class="smblack">Online Services Coordinator</div>
+<div class="smblack">Equibase Company LLC</div>
+<div class="smblack">821 Corporate Drive</div>
+<div class="smblack">Lexington, KY  40503</div>
+<div class="smblack">1-800-333-2211</div>
+
+<div class="smblack">scook@equibase.com</div>
+<br>
 </td></tr></tbody></table>
-</center></center></td></tr></tbody></table>
-<p>
-</p><hr>
-<map name="footer">
-<area shape="rect" coords="35,13,135,40" href="/index.html">
-<area shape="rect" coords="185,13,285,40" href="/products/index.cfm">
-<area shape="rect" coords="334,13,434,40" href="/about/tm.html">
-<area shape="rect" coords="481,13,581,40" href="mailto:feedback@equibase.com">
-<area shape="default" href="#">
-</map>
-
-<center>
-<img src="/images/footers/mainfooter.gif" border="0" ismap="" usemap="#footer">
-</center>
 
 
+            <!-- CONTENT GOES ABOVE HERE -->
+          </div>
+        </div>
+      </div>
+      <div id="right">
+ <div class="banner2">
+		           <!-- Begin -  Site: Equibase 2 Zone: About Page 1st -->
+				   <script language="javascript" type="text/javascript">
+				   <!--
+				   var browName = navigator.appName;
+				   var SiteID = 1;
+				   var ZoneID = 189;
+				   var browDateTime = (new Date()).getTime();
+				   if (browName=='Netscape')
+				   {
+				   document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=18959&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+				   }
+				   if (browName!='Netscape')
+				   {
+				   document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=18959&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+				   }
+				   // -->
+				   </script><script language="javascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=189&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=18959&amp;SiteID=1&amp;Random=1580355388962"></script>
+				   <noscript>
+				       <a href="http://www.equibase.com/banmanpro/a.aspx?ZoneID=189&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=18959" target="_blank">
+				       <img src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=189&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=18959" width="300" height="250" border="0"  alt=""></a>
+				   </noscript>
+<!-- End -  Site: Equibase 2 Zone: About Page 1st -->
+</div>
+		           <div class="banner2"><!-- Begin -  Site: Equibase 2 Zone: About Page 2nd -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 1;
+var ZoneID = 190;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=17721&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=17721&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+// -->
+</script><script language="javascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=190&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=17721&amp;SiteID=1&amp;Random=1580355388965"></script>
+<noscript>
+    <a href="http://www.equibase.com/banmanpro/a.aspx?ZoneID=190&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=17721" target="_blank">
+    <img src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=190&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=17721" width="300" height="250" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: Equibase 2 Zone: About Page 2nd --></div>
+		           <div class="banner2"><!-- Begin -  Site: Equibase 2 Zone: About Page 3rd -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 1;
+var ZoneID = 191;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=5967&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=5967&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+// -->
+</script><script language="javascript" src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=191&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=5967&amp;SiteID=1&amp;Random=1580355388970"></script>
+<noscript>
+    <a href="http://www.equibase.com/banmanpro/a.aspx?ZoneID=191&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=5967" target="_blank">
+    <img src="http://www.equibase.com/banmanpro/a.aspx?ZoneID=191&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=5967" width="468" height="60" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: Equibase 2 Zone: About Page 3rd --></div>         </div>
+    </div>
+    <!--........content code ends here.........-->
+    <div class="clr"></div>
+      <!--........footer code starts here.........-->
+    <!--........footer code ends here.........-->
+  </div>
+  <div id="footer">
+    <div class="accepted">Accepted Payments</div><a href="/filetest/secret.cfm"><img border="0" src="/images/spc.gif" width="3" height="0"></a>
 
-</center></body></html>
+    <div class="middle">Equibase Company is the Official Supplier of Racing Information and Statistics to
+    <a href="http://www.breederscup.com" target="_new" class="dkbluesm">Breeders’     <br>
+      Cup</a>, <a href="http://www.espn.com" target="_new" class="dkbluesm">ESPN</a>, <a href="http://www.msnbc.com" target="_new" class="dkbluesm">MSNBC</a>, <a href="http://www.ntra.com" target="_new" class="dkbluesm">NTRA</a>, <a href="http://www.jockeyclub.com" target="_new" class="dkbluesm">The Jockey Club</a>, <a href="http://www.tra-online.com" target="_new" class="dkbluesm">TRA</a>, <a href="http://www.tvg.com" target="_new" class="dkbluesm">TVG</a> and <a href="http://www.xpressbet.com" target="_new" class="dkbluesm">XpressBet</a>.<br>
+        <a href="http://www.breederscup.com" target="_new" class="dkbluesm"><img border="0" src="/images/footer-img1.jpg" width="56" height="44" alt=""></a><a href="http://www.espn.com" target="_new" class="dkbluesm">
+        <img border="0" src="/images/footer-img2.jpg" width="80" height="44" alt=""></a> <a href="http://www.msnbc.com" target="_new" class="dkbluesm"><img border="0" src="/images/footer-img3.jpg" width="60" height="44" alt=""></a> <a href="http://www.ntra.com" target="_new" class="dkbluesm"><img border="0" src="/images/footer-img4.jpg" width="57" height="44" alt=""></a> <a href="http://www.jockeyclub.com" target="_new" class="dkbluesm">
+        <img border="0" src="/images/logos/jockeyclub.gif" width="55" height="44" alt=""></a><a href="http://www.tra-online.com" target="_new" class="dkbluesm">
+        <img border="0" src="/images/logos/tra.gif" width="62" height="38" alt=""></a><a href="http://www.tvg.com" target="_new" class="dkbluesm"><img border="0" src="/images/footer-img5.jpg" width="51" height="44" alt=""></a> <a href="http://www.xpressbet.com" target="_new" class="dkbluesm"><img border="0" src="/images/footer-img6.jpg" width="102" height="44" alt=""></a><br>
+      <a href="/sitemap.cfm">Site Map</a> | <a href="/about/about.cfm">About Equibase</a> |
+      <a href="/about/privacypolicy.cfm">Privacy Policy</a> | <a href="/about/contact.cfm">Contact Us</a> | <a href="/about/faq.cfm">Help</a>
+      | <a href="/about/advertising.cfm">Advertising</a> | <a href="/about/terms.cfm">Terms of Use</a> | <a href="/products/handicapperstore.cfm">Price List </a></div>
+    <div class="logo"><a href="#"><img src="/images/footer-company-logo.jpg" alt="" width="113" height="31" border="0"></a></div>
+    <div class="bottomtxt">Proprietary to and © 2012 Equibase Company LLC. All Rights Reserved.<br>
+      <span>The Terms of Use for this web site prohibit the use of any robot, spider, scraper or any other automated means to access the contents of this site. The Terms of Use also expressly prohibit the republication or dissemination of the contents of this screen without the prior written consent of Equibase Company LLC.</span> </div>
+  </div>
+</div>
+<!--........wrapper code ends here.........-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2507067-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</body></html>
