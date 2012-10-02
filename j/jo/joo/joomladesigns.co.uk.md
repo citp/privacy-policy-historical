@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomladesigns.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626013101id_/http%3A//www.joomladesigns.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomladesigns.co.uk privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002235742id_/http%3A//joomladesigns.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ We may collect, store and use the following personal data when you visit or use 
 
 Cookies are small files stored on your computer hard drive to track and identify which pages are being used when visiting the Joomla designs web site. This helps us analyse data about webpage traffic and improve our website and the services we offer at the web site. We only use this information for statistical analysis purposes.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website including [registering an account](https://web.archive.org/user/register.html "Register A New Account"), joining the [template club](https://web.archive.org/News/Joomla-Templates/Template-membership.html) downloading the [Joomla templates](https://web.archive.org/templates.html) we have developed and released or getting [support](https://web.archive.org/Support.html "Template Support") via the web site for a Joomla template you have downloaded from the web site.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website including [registering an account](http://joomladesigns.co.uk/user/register.html "Register A New Account"), joining the template club downloading the Joomla templates we have developed and released or getting [support](http://joomladesigns.co.uk/Support.html "Template Support") via the web site for a Joomla template you have downloaded from the web site.
 
 ### Using Your Personal Data
 
@@ -36,7 +36,7 @@ Personal data submitted at this website will be used for the purposes specified 
 
   1. Administer and management of the website.
   2. Improve your browsing experience by personalising the website.
-  3. Enable your use of the services available on the website including membership registration, downloading [Joomla templates](https://web.archive.org/templates.html) and opening support tickets
+  3. Enable your use of the services available on the website including membership registration, downloading Joomla templates and opening support tickets
   4. Send you general (non-marketing) commercial communications to keep you updated and information about the latest developments or services we offer at the Joomladesigns.co.uk web site.
   5. Send you email notifications which you have specifically requested when using the web site.
   6. Deal with enquiries you have made about or relating to the website.
@@ -61,4 +61,4 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 ### Contact Us
 
-If you have any questions about this privacy policy outlined at this web site please [contact us](https://web.archive.org/contact.html)
+If you have any questions about this privacy policy outlined at this web site please [contact us](http://joomladesigns.co.uk/contactus.html)
