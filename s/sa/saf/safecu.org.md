@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104074702id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002220014id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.*
 
 # SAFE Credit Union : About SAFE : Online Privacy Statement
 
   * Our Promise to You
-  * We Protect Your Personal Information 
+  * We Protect Your Personal Information
   * Information We Collect and Use
   * Notification of Changes
   * Parties Who Receive Information from Us 
@@ -11,13 +11,13 @@
   * Protecting Children's Privacy Online 
   * Safeguarding Your Privacy
   * Privacy Choices
-  * [SAFE's Privacy Notice](https://web.archive.org/About_SAFE/pdfs/privacy_policy.pdf) (PDF)
+  * [SAFE's Privacy Policy](https://web.archive.org/About_SAFE/pdfs/privacy_policy_2012.pdf) (PDF)
 
 
 
 **Introduction**
 
-Effective on: 4/1/10
+Effective on: 4/1/12
 
 SAFE Credit Union has created this privacy statement in order to demonstrate our firm commitment to consumer privacy. The following discloses our information gathering and dissemination practices for the [www.safecu.org](https://www.safecu.org/) website in addition to the practices listed in the Privacy Notice.
 
@@ -25,8 +25,8 @@ If you have questions or concerns regarding this statement, you should first con
 
 Back to Top
 
-** ** **Our Promise to You**  
-
+**Our Promise to You** ** **  
+ 
 
   * SAFE Credit Union is committed to protecting your privacy at all times.
   * We do not share your information with non-affiliated third parties for purposes of selling their products and services to you.
@@ -36,7 +36,7 @@ Back to Top
 
 Back to Top
 
-** ** **We Protect Your Personal Information**
+**We Protect Your Personal Information** ** **
 
 We restrict access to personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your personal information. We will continue to test and update our technology to improve the protection of our information about you.
 
@@ -44,7 +44,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Back to Top
 
-** ** **Information  We Collect and Use**
+**Information  We Collect and Use** ** **
 
 We collect information about you to provide competitive financial products and services. Information is collected from the following sources:
 
@@ -55,7 +55,7 @@ We collect information about you to provide competitive financial products and s
   * Information obtained when verifying the information you provide on an application or other forms, such as your payment history, information concerning your transactions and income.
   * Information obtained from consumer purchasing and census data providers, marketing researchers and public records, such as your income, home ownership, and marital status to develop competitive marketing programs for our members.
   * We use your IP address and aggregate log file statistics to help diagnose problems with our server, and to administer our web site. Your IP address, etc. is used to help identify you.
-  * Cookies are electronic markers that are stored directly on the computer you are using to indicate activity or access to a specific web site or pages contained on a web site. When you return to our web site, your browser will give that information back to our server. We use cookies to maintain the state of your session on our web site and to store your computer's configuration data. This cookie data is tied to your personally identifiable information to enable our service. If you disable cookies on the computer you are using, you will not be able to bank online with us. We do not encode your personally identifiable information in our cookies. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
+  * Cookies are electronic markers that are stored directly on the computer you are using to indicate activity or access to a specific web site or pages contained on a web site. When you return to our web site, your browser will give that information back to our server. We use cookies to maintain the state of your session on our web site and to store your computer's configuration data. This cookie data is tied to your personally identifiable information to enable our service. If you disable cookies on the computer you are using, you will not be able to bank online with us. We do not encode your personally identifiable information in our cookies. Some of our business affiliates use cookies on their sites. We have no access to or control over these cookies.
   * Our site's applications and forms require users to give us contact information (such as name and e-mail address) and financial information (e.g. account numbers). The member's contact information is used to contact the visitor for the purposes of account maintenance, customer service or dissemination of product and service information.
   * We have calculator functions on the site that allow you to calculate different financial scenarios. These are stand-alone functions and are not tied to you or your personal information so when you use these functions, we do not collect, capture or retain your personal information.
   * This site may contain links to other sites. SAFE Credit Union is not responsible for the collection and use practices of nonaffiliated third parties to which our web site may link or for the content of such web sites.
@@ -76,7 +76,7 @@ Back to Top
 
 Back to Top
 
-** ** **Parties Who Receive Information From Us  
+**Parties Who Receive Information From Us   
 **  
 We share member information to provide superior service, tell you about new or enhanced financial services, and improve and develop our products and services. We may share the information described above with the following companies and as otherwise permitted by law:
 
@@ -91,35 +91,35 @@ We share member information to provide superior service, tell you about new or e
 
 Back to Top
 
-** ** **Information About Former Members**
+**Information About Former Members** ** **
 
 We will not share information collected about former members or non-members, except as may be permitted or required by law. Email information about former members is held for re-marketing purposes unless the user has un-subscribed. If you would like to un-subscribe, [click here](https://web.archive.org/contact_us/index.aspx).
 
 Back to Top
 
-** ** **Protecting Children's Privacy Online**
+**Protecting Children's Privacy Online** ** **
 
 From our web site, we do not knowingly collect or use personal information from children under 13 without obtaining verifiable consent from their parents. Should a child whom we know to be under 13 send us personal information, we will only use that information to respond directly to that child, seek parental consent, or provide parental notice. We are not responsible for the data collection and use practices of non-affiliated third parties to which our web site might link.
 
-From our SAFE Savers Kids Club Page, you can be directed through a link to the Whyville Interactive Educational Site for Children and Young Teens . Please review the PRIVACY POLICY located on the web site for specific information related to Whyville.
+From our SAFE Savers Kids Club Page, you can be directed through a link to the Whyville Interactive Educational Site for Children and Young Teens. Please review the PRIVACY POLICY located on the web site for specific information related to Whyville.
 
 For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](http://www.ftc.gov/)
 
 Back to Top
 
-** ** **Safeguarding  Your Privacy**
+**Safeguarding  Your Privacy** ** **
 
 SAFE recommends that you take the following precautions to safeguard your privacy and protect against the unauthorized access or use of your personal and account information:
 
-  * Protect your account numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your debit or credit card, which can provide free access to your accounts if your card is lost or stolen.
+  * Protect your account numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your debit or credit card, which provides free access to your accounts if your card is lost or stolen.
   * Monitor your account frequently. Immediately report any unusual activity to SAFE.
-  * Never disclose your account numbers, Social Security number, or other personal information to others unless you initiate the call or transaction. If someone calls you or sends you an email, explaining the call is on behalf of the credit union and asks for your account number, do not divulge that information. Official credit union staff will have access to your information and will not need to ask for it.
+  * Never disclose your account numbers, Social Security number, or other personal information to others unless you initiate the call or transaction. If someone calls, texts or sends you an email, explaining the contact is on behalf of the credit union and asks for your account number; do not divulge that information! Official credit union staff will have access to your information and have no need to ask for it.
   * Keep your information current. It is important that SAFE have current information on how to reach you.
   * If SAFE detects potentially fraudulent or unauthorized activity or use of an account, SAFE will attempt to contact you immediately. For questions concerning identity theft and fraud, contact us at (916) 979-7233 or (800) 733-7233.
-  * If your address, phone number, or email address changes, write to SAFE at the address below, or call us at (916) 979-7233 or (800) 733-7233.
+  * If your address, phone number, or email address changes, please update your information within Online Banking or write to SAFE at the address below. For international address changes contact us at (916) 979-7233 or (800) SEE-SAFE.
 
 SAFE Credit Union  
-P.O. Box 1057  
+PO Box 1057  
 North Highlands, CA 95660-1057
 
 
@@ -140,4 +140,4 @@ National Do-Not-Call Registry
 You can reduce the number of unwanted phone calls to your home by calling 1-888-382-1222 or registering your phone number at [www.fcc.gov/cgb/donotcall](http://www.fcc.gov/cgb/donotcall).
 
 Back to Top  
-
+ 
