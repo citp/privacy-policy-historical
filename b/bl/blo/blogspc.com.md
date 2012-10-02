@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogspc.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621140537id_/http%3A//blogspc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogspc.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012723id_/http%3A//blogspc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blogs PC - Windows, Freeware, Tutorials, Computer, Apple, Android and Web Resources
+# Privacy Policy | Blogs PC - Windows Tutorial, Personal Computer, Apple and Android Apps
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -21,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Blogspc.com then you may contact us at team@blogspc.com
+If you have any questions regarding the privacy policy of [Blogspc.com](http://blogspc.com/ "Blogspc.com") then you may contact us at team [at] blogspc.com
