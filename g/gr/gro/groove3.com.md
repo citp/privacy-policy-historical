@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603130213id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002225355id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Groove 3 Customer Support :: Groove 3 Inc.
 
