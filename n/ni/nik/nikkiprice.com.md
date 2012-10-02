@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nikkiprice.com privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326181845id_/http%3A//nikkiprice.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikkiprice.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002204848id_/http%3A//nikkiprice.com/pp.htm) for the most accurate reproduction.*
 
 # Nikki Price
 
-Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to the Program Three, LLC (the ?Company?) network of websites (the "Sites"), including NikkiPrice.com, MYGF.com, DancingBear.com and all other sites at which this Policy appears and which are owned/controlled by the Company. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site nikkiprice.com and all other sites owned or controlled by BangBros.com, Inc. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it. 
 
 Adults Only Service
 
