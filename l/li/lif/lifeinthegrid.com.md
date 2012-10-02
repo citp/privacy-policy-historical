@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinthegrid.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519042114id_/http%3A//lifeinthegrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinthegrid.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013852id_/http%3A//lifeinthegrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Life in the Grid
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
  **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our websites privacy policy.
 
  **Changes to our Privacy Policy**
 
