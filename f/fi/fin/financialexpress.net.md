@@ -1,26 +1,30 @@
-> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122214205id_/http%3A//financialexpress.net/uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003005717id_/http%3A//www.financialexpress.net/uk/privacy.htm) for the most accurate reproduction.*
 
-# Financial Express
+# FE Privacy Policy | FE Be Better Informed
+
+##  Privacy Statement
 
 This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.financialexpress.net (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns. 
 
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact:[ info@financialexpress.net](mailto:info@financialexpress.net)
+Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [ info@financialexpress.net](mailto:info@financialexpress.net)
 
- **WHAT INFORMATION ABOUT YOU DO WE COLLECT?** When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.
+**WHAT INFORMATION ABOUT YOU DO WE COLLECT?**
+
+When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
 
 **PERSONALLY IDENTIFIABLE INFORMATION YOU CHOOSE TO PROVIDE.**
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving literature about Financial Express you are asked to submit your name, company name, telephone and email address, which we retain on file, so that we may send you the information that you requested. If you indicate on our Media Centre Subscription Form that you are a member of the press, we may also send you information regarding our business. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving literature about FE you are asked to submit your name, company name, telephone and email address, which we retain on file, so that we may send you the information that you requested. If you indicate on our Media Centre Subscription Form that you are a member of the press, we may also send you information regarding our business. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
 
 **NON-PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT.**
 
-Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilises standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
+Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilises standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
 You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
 
 **HOW DO WE USE THE INFORMATION WE COLLECT?**
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email to [info@financialexpress.net](mailto:info@financialexpress.net). 
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email to info@financialexpress.net. 
 
 We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer. 
 
@@ -32,7 +36,7 @@ We will not share your personally identifiable information in ways unrelated to 
 
 **HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?**
 
-If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by writing to [info@financialexpress.net](mailto:info@financialexpress.net). You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.
+If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by writing to info@financialexpress.net. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.
 
 **PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET**
 
@@ -48,4 +52,4 @@ This Web Site is operated in the United Kingdom. If you are located outside of t
 
 **LINKS**
 
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by Financial Express Holdings Limited. Please be aware that Financial Express Holdings Limited is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Financial Express sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
+This Web Site contains links to third party sites as well as to other sites owned and/or operated by FE Holdings Limited. Please be aware that FE Holdings Limited is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other FE sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
