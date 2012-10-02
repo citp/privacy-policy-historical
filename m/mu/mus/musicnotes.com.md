@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511113300id_/http%3A//www.musicnotes.com/secure.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002222415id_/http%3A//www.musicnotes.com/secure.asp) for the most accurate reproduction.*
 
 # Sheet Music Downloads & Books | Musicnotes.com
 
@@ -44,18 +44,13 @@ We never use or allow so-called "third-party" cookies that might allow other sit
 
 **Your control of your personal information ::**
 
-You may view and modify all your own personal information that **Musicnotes.com** retains. To do this, simply click [**My Account**](https://web.archive.org/commerce/MyAccount.asp), a link appearing on the top of every page on our site. We will request your password when you do this, unless you have already signed in.
+You may view and modify all your own personal information that **Musicnotes.com** retains. To do this, simply click [**My Account**](https://web.archive.org/commerce/MyAccount.asp?mnuid=HCMKCZDNZN1T452YM8WXU7NRUP16C1581JKXC158), a link appearing on the top of every page on our site. We will request your password when you do this, unless you have already signed in.
 
 Within this _My Account_ page, you will see several options for managing your personal informaiton. Click the link for the information you wish to view or edit.
 
-Likewise, if you have subscribed to **Musicnotes.com** 's regular e-mail newsletter, but no longer wish to receive it, simply go to [**My Account**](https://web.archive.org/commerce/myaccount.asp) to unsubscribe.
+Likewise, if you have subscribed to **Musicnotes.com** 's regular e-mail newsletter, but no longer wish to receive it, simply go to [**My Account**](https://web.archive.org/commerce/myaccount.asp?mnuid=HCMKCZDNZN1T452YM8WXU7NRUP16C1581JKXC158) to unsubscribe.
 
-On infrequent occasions we may mail special notices to all our customers. If you do not wish to receive such notices, go to [**My Account**](https://web.archive.org/commerce/myaccount.asp) and choose **No** for: _additional Musicnotes special offers and updates_.
+On infrequent occasions we may mail special notices to all our customers. If you do not wish to receive such notices, go to [**My Account**](https://web.archive.org/commerce/myaccount.asp?mnuid=HCMKCZDNZN1T452YM8WXU7NRUP16C1581JKXC158) and choose **No** for: _additional Musicnotes special offers and updates_.
 
-### Platform of Privacy Preferences (p3p)
+  
 
-In addition to this formal privacy statement, we maintain a computer-legible _P3P_ statement that advanced browsers may be able to read on your behalf. This computerized statement conforms to the industry-wide P3P 1.0 standard of the World Wide Web Consortium. You can read more about P3P at <http://www.w3.org/P3P/>. 
-
-Our computer-legible P3P privacy statement appears at: [www.musicnotes.com/W3C/p3policy.xml](https://web.archive.org/W3C/p3policy.xml). 
-
-We also have translated this statement from XML computer-speak into an English equivalent. You can read it at: [www.musicnotes.com/W3C/p3policy.html](https://web.archive.org/W3C/p3policy.html). 
