@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perdue.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629064122id_/http%3A//www.perdue.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perdue.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014025id_/http%3A//perdue.com/privacy.asp) for the most accurate reproduction.*
 
 # PERDUE® Privacy Policy : Chicken Recipes, Turkey Recipes, Tips and More
 
