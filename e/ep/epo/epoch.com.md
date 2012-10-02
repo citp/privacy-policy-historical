@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501030601id_/https%3A//www.epoch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014627id_/https%3A//www.epoch.com/privacy.html) for the most accurate reproduction.*
 
 # Epoch - Credit Card Processing and Customer Billing Support - Privacy Policy
 
@@ -26,7 +26,7 @@ To protect your privacy, we have adopted the following principles:
 
 You may access and browse our Website without disclosing any Personal Information. However, if you attempt to retain Epoch's Services for your websites and/or to purchase a product or service online, Epoch may request that you voluntarily supply it with Personal Information. Personal Information we collect and how we use it is as follows:
 
-  * **Registration information** \- When you sign up or use our Services, we ask for your personal information so that we can provide you with our Services. If you are a customer purchasing a product or service online using our Services, you may be required to provide your name, credit or debit card number, card expiration date, card verification code (CVV), electronic check details, address, the last 4 digits of your social security number (applicable to electronic check payment option only), username/password and email address. If you are a merchant or an affiliate of an Epoch merchant attempting to retain our Services for your websites, you may also be required to provide your bank account number, your personal address, your business details, and a government-issued identification number (for example, social security number or taxpayer identification number for U.S. residents). We may also ask you to send us additional documentation or to answer additional questions to help verify your information.
+  * **Registration information** \- When you sign up or use our Services, we ask for your personal information so that we can provide you with our Services. If you are a customer purchasing a product or service online using our Services, you may be required to provide your name, credit or debit card number, card expiration date, card verification code (CVV), address, username/password and email address. If you are a merchant or an affiliate of an Epoch merchant attempting to retain our Services for your websites, you may also be required to provide your bank account number, your personal address, your business details, and a government-issued identification number (for example, social security number or taxpayer identification number for U.S. residents). We may also ask you to send us additional documentation or to answer additional questions to help verify your information.
   * **Information obtained from third parties** \- In order to protect you from fraud or other misconduct, we may obtain information about you from third parties to verify the information you provide. For example, we may use card authorization and fraud screening services to verify that your credit or debit card information and address match the information that you provided to us. Also, for merchants, we may obtain information about you and your business from a credit bureau or other sources such as public records or private business information services.
   * **Transaction information** \- When you use our Services to purchase a product or service online, we collect information about each transaction, including the transaction amount, a description of the goods or services being purchased, your name, username/password and the payment information.
   * **Log information** \- When you use our Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, the date and time of your request and one or more cookies that may uniquely identify your browser.
@@ -82,10 +82,10 @@ Any websites displayed to you by our Website as Internet search results or linke
 
 ##### DATA PROTECTION SAFE HARBOR PROGRAM *
 
-[We self-certify compliance with:](https://www.export.gov/safehrbr/list.aspx)  
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
 [](http://www.export.gov/safeharbor)
 
-Epoch is a participant in the Safe Harbor program for Data Protection developed by the U.S. Department of Commerce, the European Union, and Switzerland and is listed by the U.S. Department of Commerce. Epoch has certified that we adhere to the Safe Harbor Privacy Principles. Epoch uses the self assessment method of verification of compliance. Individuals who believe their privacy may have been violated based on the Safe Harbor privacy principles should contact us at [ legal@epoch.com](mailto:legal@epoch.com). For more information about the Safe Harbor program and to view our certification, please visit the [U.S. Department of Commerce's Safe Harbor website](http://www.export.gov/safeharbor/).
+Epoch is a participant in the Safe Harbor program for Data Protection developed by the U.S. Department of Commerce, the European Union, and Switzerland and is listed by the U.S. Department of Commerce. Epoch has certified that we adhere to the Safe Harbor Privacy Principles. Epoch uses the self assessment method of verification of compliance. Individuals who believe their privacy may have been violated based on the Safe Harbor privacy principles should contact us at [ legal@epoch.com](mailto:legal@epoch.com). For more information about the Safe Harbor program and to view our certification, please visit the [U.S. Department of Commerce's Safe Harbor website](https://safeharbor.export.gov/list.aspx).
 
 * Not applicable to Epoch's European subsidiary
 
@@ -103,6 +103,6 @@ We are committed to privacy and support current industry initiatives to preserve
 
 If you have any comments or questions regarding our Privacy Policy, please contact us at [legal@epoch.com](mailto:legal@epoch.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities and as soon as possible.
 
-**EFFECTIVE DATE:**
+EFFECTIVE DATE:
 
 This page was last updated on 2011-10-31. We may change this statement from time to time, so please check periodically.
