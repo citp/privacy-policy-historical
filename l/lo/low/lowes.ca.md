@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowes.ca privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601044501id_/http%3A//www.lowes.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.ca privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002155656id_/http%3A//www.lowes.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Lowes.ca | Home Improvement Warehouse | Do It Yourself | Renovations | Contractors | Lowe's Canada
 
