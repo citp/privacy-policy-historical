@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428232246id_/http%3A//www.midcocomm.com/resourcecenter/index.cfm/83/Customer-Service/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013528id_/http%3A//www.midcocomm.com/resourcecenter/index.cfm/83/Customer-Service/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement (Customer Resource Center -Midcontinent Communications serving the Dakotas, Minnesota and Wisconsin)
 
