@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagonmycock.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108181534id_/http%3A//track.gagonmycock.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagonmycock.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002185501id_/http%3A//secure.gagonmycock.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
