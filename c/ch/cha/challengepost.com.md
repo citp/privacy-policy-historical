@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the challengepost.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617191638id_/http%3A//challengepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challengepost.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002051106id_/https%3A//challengepost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ChallengePost.com
 
@@ -40,7 +40,7 @@ ChallengePost may aggregate your information with information of other users, an
 
 ### Challenges, Activities and other Events
 
-ChallengePost may enter into collaborative relationships with other third parties on the Site with respect to challenges, activities or events. If you participate in these challenges, activities or events, you may be asked to provide Personally Identifiable Information or to answer questions that seek your personal information. We may transfer your Personally Identifiable Information to third parties in conjunction with such challenges, activities or events with your express consent.
+ChallengePost may enter into collaborative relationships with other third parties on the Site with respect to challenges, activities or events. If you participate in these challenges, activities or events, you may be asked to provide Personally Identifiable Information or to answer questions that seek your personal information. We may transfer your Personally Identifiable Information to third parties in conjunction with such challenges, activities or events.
 
 ### Legal Requirements
 
