@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trysensa.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630084456id_/http%3A//www.trysensa.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trysensa.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012632id_/http%3A//www.trysensa.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Sensa Privacy Policy
+# Sensa Weight Loss System - Official Site - Lose Weight with Sensa
 
   
 **Effective January 01, 2011**  
