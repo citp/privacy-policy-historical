@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylebakery.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117063254id_/http%3A//www.stylebakery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylebakery.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003000621id_/http%3A//www.stylebakery.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - StyleBakery.com
 
