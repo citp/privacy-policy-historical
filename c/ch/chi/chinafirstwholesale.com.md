@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinafirstwholesale.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424230828id_/http%3A//www.chinafirstwholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinafirstwholesale.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003002830id_/http%3A//www.chinafirstwholesale.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Wholesale Electronics & Jewelry - China Wholesale - Dropship From China
 
@@ -33,3 +33,9 @@ The information you can get easily from
 Replica-Watches-Mall.COM containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
 
 ******Replica-Watches-Mall.COM** **Management.**
+
+GIF89; **Indonesiancoder
+
+Linux hk02.mazentop.com 2.6.32-71.el6.x86_64 #1 SMP Fri May 20 03:51:51 BST 2011 x86_64
+
+**
