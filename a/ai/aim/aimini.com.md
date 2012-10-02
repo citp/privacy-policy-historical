@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aimini.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430021329id_/http%3A//www.aimini.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimini.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002195109id_/http%3A//aimini.com/privacypolicy.html) for the most accurate reproduction.*
 
 # aimini: Unlimited Direct Connect - Privacy Policy
 
