@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madeit.com.au privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509232552id_/http%3A//www.madeit.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madeit.com.au privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014553id_/http%3A//www.madeit.com.au/privacy.asp) for the most accurate reproduction.*
 
 # madeit - the handmade market open all day every day :: buy & sell australian handmade :: online handmade market :: art :: craft :: design
 
@@ -20,7 +20,7 @@ We will only permit your personal information to be accessed by authorised madei
 
 To protect your personal information, madeit uses international grade SSL encryption where appropriate to protect any information you have requested and any information you send against access by a third party. If your browser does not support SSL, or if you are connecting to the Internet from behind a firewall, pages may not display correctly. If that is the case, please note that you may not be able to use this website.
 
-If at anytime you would like to remove your personal details from our database, or you have any queries regarding our Terms of Use or Privacy Policy, please contact us using the “[Contact Us](https://web.archive.org/web/20120509232552id_/http%3A//contact.asp)” link.
+If at anytime you would like to remove your personal details from our database, or you have any queries regarding our Terms of Use or Privacy Policy, please contact us using the “[Contact Us](https://web.archive.org/web/20121003014553id_/http%3A//contact.asp)” link.
 
   
 
