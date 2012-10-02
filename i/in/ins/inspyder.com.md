@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspyder.com privacy policy that was archived on 2011-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110815233017id_/http%3A//www.inspyder.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspyder.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003000610id_/http%3A//www.inspyder.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Inspyder Software Privacy Policy - Leading Provider of Web Crawling Tools
 
@@ -47,6 +47,6 @@ The following principles apply to the personally identifying information we ask 
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the bottom of the page.
 
-If you have any additional questions, please feel free to [ us any time](https://web.archive.org/web/20110815233017id_/http%3A//www.inspyder.com/Contact.aspx).
+If you have any additional questions, please feel free to [us any time](https://web.archive.org/web/20121003000610id_/http%3A//www.inspyder.com/Contact.aspx).
 
 _Last Revised: October 12, 2004_
