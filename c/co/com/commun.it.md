@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commun.it privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509161351id_/http%3A//commun.it/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commun.it privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003011107id_/http%3A//commun.it/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Commun.it - Community Management for Twitter that Makes a Difference
+# Privacy Policy | Commun.it
 
 **All terms in capital letters not otherwise defined herein, shall have the meaning ascribed to them in the GR8PPL's Terms of Use as they appear in the Website. This Privacy Policy is hereby attached by reference to the ToU, and serves as an integral part thereof.**
 
