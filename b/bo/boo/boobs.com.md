@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boobs.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611151626id_/http%3A//www.boobs.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boobs.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002201514id_/http%3A//boobs.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Boobs.com - Bringing women and cosmetic surgeons together for the perfect boob job!
 
@@ -26,7 +26,7 @@ Cookies are pieces of information that a Website transfers to your computer for 
 
 We also occasionally send emails and newsletters to our users, announcing special promotions changes in our services, and other information we believe will be of interest to our users. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information may be shared with advertisers and our partners on an individual or aggregate basis.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We would use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our _[Terms of Use](http://www.boobs.com/terms_and_conditions.php "Terms of Use")_.
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We would use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our _[Terms of Use](http://boobs.com/terms_and_conditions.php "Terms of Use")_.
 
 The personal information collected from registered users includes your name, e-mail address, IP address, mailing address, telephone number and the number of visits to the site. We also collect the information which you provide regarding your service and/or products needs.
 
@@ -48,7 +48,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This website gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. To keep you in control of your personal information and the communications directed to you, we allow you to opt out of the following services: receiving communications (including our newsletters) from us about new Boobs.com shows, and receiving communications about offers from third-party companies that offer a product or service that we think would be of value to you. If you object to such use for any reason, you may stop that use by modifying your member information online.
 
-  1. Change your mailing preferences at [My Account](http://http//www.boobs.com/accounts/account.php)
+  1. Change your mailing preferences at [My Account](http://http//boobs.com/accounts/account.php)
 
 
 
