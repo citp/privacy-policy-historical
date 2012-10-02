@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the foxitsoftware.com privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524015603id_/http%3A//www.foxitsoftware.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxitsoftware.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003015930id_/http%3A//www.foxitsoftware.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>Foxit Corporation Privacy</title>
 <link rel="stylesheet" type="text/css" href="http://www.foxitsoftware.com/resources/css/global.css">
 <link rel="stylesheet" type="text/css" href="http://www.foxitsoftware.com/resources/css/mainskirts.css">
-<script type="text/javascript" src="http://www.foxitsoftware.com/resources/js/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://www.foxitsoftware.com/resources/js/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.foxitsoftware.com/resources/js/common.js"></script>
 <script type="text/javascript" src="http://www.foxitsoftware.com/resources/js/trace.js"></script>
 </head>
@@ -50,8 +50,8 @@
                                 </ul>
                                 <a href="http://www.foxitsoftware.com/products/mobilereader/" class="title">Foxit Mobile</a>
                                 <ul>
-                                	<li><a href="http://www.foxitsoftware.com/products/mobilereader/ipad/lite/">Foxit Mobile PDF iPad Lite</a></li>
-                                    <li><a href="http://www.foxitsoftware.com/products/mobilereader/ipad/pro/">Foxit Mobile PDF iPad Pro</a></li>
+                                	<li><a href="http://www.foxitsoftware.com/products/mobilereader/ios/lite/">Foxit Mobile PDF for iOS Lite</a></li>
+                                    <li><a href="http://www.foxitsoftware.com/products/mobilereader/ios/pro/">Foxit Mobile PDF for iOS Pro</a></li>
                                     <li><a href="http://www.foxitsoftware.com/products/mobilereader/android/">Foxit Mobile PDF for Android</a></li>
                                     <li><a href="http://www.foxitsoftware.com/products/mobilereader/android/pdfcreator/">Foxit PDFCreator for Android</a></li>
                                     <li><a href="http://www.foxitsoftware.com/products/mobilereader/windows/">Foxit Reader for Windows Mobile</a></li>
@@ -66,7 +66,6 @@
                                     <li><a href="http://www.foxitsoftware.com/Secure_PDF_Security/">PhantomPDF <i>Business</i></a></li>
                                 </ul>
                                 <a href="http://www.foxitsoftware.com/products/editor/" class="title">Foxit Advanced PDF Editor</a>
-                                <a href="http://www.foxitsoftware.com/products/creator/" class="title">Foxit PDF Creator</a>
                                 <a href="http://www.foxitsoftware.com/products/rms/" class="title">Foxit PDF Security Suite</a>
                                 <a href="http://www.foxitsoftware.com/products/ifilter/" class="title">Foxit PDF IFilter</a>
                                 <a href="http://www.foxitsoftware.com/products/sdk/phantomPDF_plugin/" class="title">Foxit PhantomPDF Plug-in SDK</a>
@@ -77,6 +76,9 @@
                                     <li><a href="http://www.foxitsoftware.com/products/sdk/activex/">PDF SDK ActiveX</a></li>
                                     <li><a href="http://www.foxitsoftware.com/products/sdk/dll/">PDF SDK DLL</a></li>
                                     <li><a href="http://www.foxitsoftware.com/products/sdk/embedded/">Embedded PDF SDK</a></li>
+                                    <li><a href="http://www.foxitsoftware.com/products/sdk/merger/">PDF Merger for .NET SDK</a></li>
+                                    <li><a href="http://www.foxitsoftware.com/products/sdk/generator/">PDF Generator for .NET SDK</a></li>
+                                    <li><a href="http://www.foxitsoftware.com/products/sdk/print-manager/">PDF Print Manager for .NET SDK</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -125,6 +127,10 @@
 </div>
 <!-- end container -->
 <div class="clear pannelWrap"></div>
+
+<script type="text/javascript" src="http://www.foxitsoftware.com/resources/js/plugins/jquery.czTextboxtip.min.js"></script>
+<script type="text/javascript" src="http://www.foxitsoftware.com/resources/js/plugins/jquery.czCombobox-1.2.min.js?ver=1"></script>
+
 <script type="text/javascript">
 	var cURL = window.location.pathname;
 	if(cURL.indexOf("/shopping") != -1)
@@ -189,56 +195,8 @@
   		<div class="clear"></div>
 	</div>
 </div>
-<script type="text/javascript" src="http://www.foxitsoftware.com/resources/js/plugins/jquery.czTextboxtip.min.js"></script>
-<script type="text/javascript" src="http://www.foxitsoftware.com/resources/js/plugins/jquery.czCombobox.min.js"></script>
-<script type="text/javascript">
-
-$(document).ready(function(){
-	/* Newsletter */	
-	var objSubText   = $('#newsletterForm').find('.txt')
-	var objFirstName = objSubText.eq(0);
-	var objEmail     = objSubText.eq(1);
-	var objSubscribe = $('#newsletterForm').find('.button');
-
-	objSubText.czTextboxtip({
-		tipFontFamily: 'Tahoma',
-		enterCallback: function() {
-			subscribe(objEmail, objFirstName);
-			return false;
-		}
-	});
-	
-	objSubscribe.bind('click' ,function() {
-		subscribe(objEmail, objFirstName)
-	});
-	
-	$("#site-language").czCombobox({
-		className: 'czSite',
-		hideSelected: true,
-		changeCallback: function() {window.location.href=this.getValue()}
-	});
-
-	//Rss Layer load
-	/*
-	$('body').append('<div style="display:none;">Foxit\'s award winning software products include software applications for reading, creating, organizing and securing PDF documents. \
-</div> \
-<div id="rssshade"></div> \
-<div id="rsspro"> \
-  <div class="text"> \
-    <p align="left"><strong>Note:</strong> If the browser you using is not IE7 or newer or Firefox, please download an RSS Reader to subscribe Foxit RSS Feed. Thank you.</p> \
-    <p><strong>Click Confirm</strong> to go to Foxit newsletter list.</p> \
-  </div> \
-  <div class="rssButton"> \
-    <button id="confirm" onclick="goToUrl(\'/announcelist.php\')">Confirm</button>&nbsp;&nbsp;<button id="cencal" onclick="destoryRSSPrompt()" >Cancel</button> \
-  </div> \
-</div>');
-	*/
-});
-
-</script>
-
 <div class="container" id="footer">
-	<div class="bgfooter container_16">
+	<div class="bgfooter container_16 png_bg">
     	<div id="newsletterForm" class="newsletterForm">
         	<div class="grid_3">
             	<p class="footertitle">Newsletter Sign-up<!--<br><span style="font-size:10px; text-transform:none">Receive money saving promotions, product news, and more</span>--></p>
@@ -255,17 +213,45 @@ $(document).ready(function(){
             <div class="grid_4">
             	<select class="" id="site-language" name="site-language" onchange="javascript:location.href=this.options[this.selectedIndex].value">
                     <option value="http://www.foxitsoftware.com/" selected="selected">English</option>
+                    <option value="http://www.foxitsoftware.com/german/">German</option>
                     <option value="http://www.foxitsoftware.com/japan/">Japanese</option>
                     <option value="http://www.foxitsoftware.com/kr/">Korean</option>
                     <option value="http://www.foxitsoftware.hk/">HK Traditional Chinese</option>
-                    <option value="http://www.foxitsoftware.com/tw/">TW Traditional Chinese</option>
-                    <option value="http://www.fuxinsoftware.com.cn/">Simplified Chinese</option>
+                    <option value="http://www.foxitsoftware.tw/">TW Traditional Chinese</option>
+                    <option value="http://www.foxitsoftware.cn/">Simplified Chinese</option>
                 </select>
             </div>
             <div class="clear"></div>
         </div>
-    	<!-- end grid_4 -->
+        <!-- end grid_4 -->
         <div class="clear"></div>
+    	
+        <script type="text/javascript">
+			/* Newsletter */	
+			var objSubText   = $('#newsletterForm').find('.txt')
+			var objFirstName = objSubText.eq(0);
+			var objEmail     = objSubText.eq(1);
+			var objSubscribe = $('#newsletterForm').find('.button');
+		
+			objSubText.czTextboxtip({
+				tipFontFamily: 'Tahoma',
+				enterCallback: function() {
+					subscribe(objEmail, objFirstName);
+					return false;
+				}
+			});
+			
+			objSubscribe.bind('click' ,function() {
+				subscribe(objEmail, objFirstName)
+			});
+			
+			$("#site-language").czCombobox({
+				className: 'czSite',
+				hideSelected: true,
+				changeCallback: function() {window.location.href=this.getValue()}
+			});
+		</script>
+
         <div class="grid_3">
         	<ul>
             	<li><p class="footertitle">Download</p></li>
@@ -280,7 +266,6 @@ $(document).ready(function(){
                 <li><a href="http://www.foxitsoftware.com/products/mobilereader/">Foxit Mobile</a></li>
                 <li><a href="http://www.foxitsoftware.com/products/phantomPDF/">Foxit PhantomPDF</a></li>
                 <li><a href="http://www.foxitsoftware.com/products/editor/">Foxit Advanced PDF Editor</a></li>
-                <li><a href="http://www.foxitsoftware.com/products/creator/">Foxit PDF Creator</a></li>
                 <li><a href="http://www.foxitsoftware.com/products/ifilter/">Foxit PDF IFilter</a></li>
                 <li><a href="http://www.foxitsoftware.com/products/rms/">Foxit PDF Security Suite</a></li>
                 <li><a href="http://www.foxitsoftware.com/products/sdk/">Foxit PDF SDK</a></li>
@@ -326,8 +311,18 @@ $(document).ready(function(){
             </div>
             <div style="float:left; height:40px;">   
                 <a href="javascrip:void();">
-                							<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-                                                <g:plusone annotation="none" href="http://www.foxitsoftware.com/privacy.php"></g:plusone>
+                	                                                <g:plusone annotation="none" href="http://www.foxitsoftware.com/privacy.php"></g:plusone>
+						<script type="text/javascript">
+                        window.___gcfg = {
+                        	lang: 'en-US'
+                        };
+                        
+                        (function() {
+							var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+							po.src = 'https://apis.google.com/js/plusone.js';
+							var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                        })();
+                        </script>
                                     </a>
             </div>
             <div class="clear"></div>
@@ -357,8 +352,8 @@ $(document).ready(function(){
 
 
     
-    <script type="text/javascript" src="/resources/js/track.php?page=VnRQKwQgXzVXclk0AWgEe1Z/UHIGa1R3&amp;referer=DGkHeAAiAnEBaFx/AyYGdwFxVnMFLgcyWjwGK1A+VShTLQdjATFTJFJ2XDFVLVIxBi9XZgZsVGoNK1dRA2EFbwx0B34AMwJeAQJcFANPBl8BVFZhBWEHMFo2BiFQeA=="></script>
-	<script type="text/javascript" src="/shopping/statistics.php?page=VnRQKwQgXzVXclk0AWgEe1Z/UHIGa1R3"></script>
+    <script type="text/javascript" src="/resources/js/track.php?page=VnRWLQQgUTsHIgpnVj9VKgEoByVRPAIh&amp;referer="></script>
+	<script type="text/javascript" src="/shopping/statistics.php?page=VnRWLQQgUTsHIgpnVj9VKgEoByVRPAIh"></script>
 	<!-- /privacy.php -->
 	<script type="text/javascript">
 	var google_conversion_id = 1072304130;
