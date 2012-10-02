@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coverjunction.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623042910id_/http%3A//coverjunction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverjunction.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014442id_/http%3A//coverjunction.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CoverJunction Facebook Covers
 
