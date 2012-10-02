@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjetter.com privacy policy that was archived on 2012-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120220171249id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjetter.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012041id_/http%3A//adjetter.com/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Adjetter | Privacy Policy
 
