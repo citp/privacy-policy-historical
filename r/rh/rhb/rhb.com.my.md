@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhb.com.my privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521141937id_/http%3A//rhb.com.my/generalinfo/privacy/main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhb.com.my privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003002421id_/http%3A//rhb.com.my/generalinfo/privacy/main.html) for the most accurate reproduction.*
 
 # RHB | Privacy Policy
 
@@ -78,4 +78,4 @@ email: [**ibanksupport@rhbbank.com.my**](mailto:ibanksupport@rhbbank.com.my)
 
 
 
-©2009, RHB Banking Group. Subject to Terms & Conditions of Use
+© 2020 RHB Banking Group. Subject to Terms & Conditions of Use
