@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621220349id_/http%3A//www.turner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003010121id_/http%3A//turner.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | turner.com
+# Privacy Policy
 
 Thank you for visiting turner.com, a Turner Broadcasting System, Inc. site. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this Turner site.
 
@@ -131,3 +131,5 @@ Below is a representative list of such third parties and a link to their privacy
   * Unicast: [http://www.unicast.com/privacy-policy.aspx](http://www.networkadvertising.org/about/privacy.asp)
 
 
+
+* * *
