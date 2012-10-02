@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfcast.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508042511id_/http%3A//pdfcast.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfcast.org privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013149id_/http%3A//pdfcast.org/page/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -31,6 +31,6 @@ Upon request we provide site visitors with access to no information that we have
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-Consumers can have this information corrected by visiting us at [http://pdfcast.org/user/profile](https://web.archive.org/web/20120508042511id_/http%3A/user/profile).
+Consumers can have this information corrected by visiting us at [http://pdfcast.org/user/profile](https://web.archive.org/web/20121003013149id_/http%3A/user/profile).
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
