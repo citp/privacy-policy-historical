@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608095600id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003023702id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | About | HomeServe
 
@@ -45,9 +45,18 @@ Similar to other commercial websites, our Website utilises a standard technology
 
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-## New cookie requirements
+## Cookies and HomeServe.com
 
-HomeServe is aware of the new EU cookie legislation which was introduced into the UK on 25th May 2011 through The Privacy and Electronic Communications (EC Directive) Regulations 2011. As a result, we are currently reviewing our website privacy policy and use of cookies to ensure we comply with the new cookie laws.
+HomeServe uses cookies to collect anonymous information about visitors to our website, such as visitor numbers to each of the pages on our site and how long each user spends browsing a specific page on our website.
+
+You can read further information about the way cookies are used on HomeServe.com at the links below:
+
+  * [View our cookie policy](https://web.archive.org/about/cookie-policy) 
+  * [Manage your cookie preferences](https://web.archive.org/about/cookie-preferences) [ ](https://web.archive.org/about/our-cookies)
+  * [Cookies and HomeServe.com](https://web.archive.org/about/our-cookies)[](https://web.archive.org/about/cookie-list)
+  * [Cookies we use](https://web.archive.org/about/cookie-list)
+
+
 
 Further information on how to delete and control cookies on your computer is available from [www.aboutcookies.org.](http://www.aboutcookies.org/)
 
