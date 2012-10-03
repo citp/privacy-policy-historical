@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tradewins.com privacy policy that was archived on 2011-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511180436id_/http%3A//www.tradewins.com/privacy-policy-1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradewins.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003194228id_/http%3A//www.tradewins.com/privacy-policy-1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -11,7 +11,7 @@ var site_base_url = "http://www.tradewins.com/";
 var site_dinamic_url = "http://www.tradewins.com/index.php?";
 var global_https_url = "https://www.tradewins.com";
 var site_admin_url = "https://www.tradewins.com";
-var site_ajax_url = "http://www.tradewins.com/index.php?pcsid=940455fbd6c6eaf5660459af193a170a";
+var site_ajax_url = "http://www.tradewins.com/index.php?pcsid=b2553a42f53a403c80651bc6bbb96984";
 var site_ajax_url_admin = "http://www.tradewins.com";
 var skin_images = "content/cache/skins/TradeWins/images/";
 var skin_themes = "content/cache/skins/TradeWins/styles/";
@@ -19,12 +19,17 @@ var skin_name = "TradeWins";
 var CartDeleteItemUrl = 'http://www.tradewins.com/index.php?oa=RemoveItem';
 var CartEmptyUrl = 'http://www.tradewins.com/index.php?oa=ClearItems';
 var orderItemsCount = 0;
+var ClearCartOnLogout = false;
 var urlLogout = "https://www.tradewins.com/index.php?ua=user_logout";
 var USER_DELETE_ADDRESS = "DeleteShippingAddress";
+var USER_DELETE_PAYMENT_PROFILE = "DeletePaymentProfile";
 var product_may_be_added = true;
 var topMenu = 'NO';
 var topMenuStyle = 'drop-down';
 var sideMenuStyle = 'tree';
+var facebookAccountLogin = false;
+var facebookAppId = null;
+var auth_ok = false;
 </script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="keywords" content="TradeWins Publishing Privacy Policy">
@@ -32,43 +37,30 @@ var sideMenuStyle = 'tree';
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <meta name="ddm-page" content="page">
 <meta name="ddm-lang" content="english">
-<link href="content/vendors/jquery/ui/themes/smoothness/smoothness.css" rel="stylesheet" type="text/css">
-<link href="content/vendors/jquery/smartsuggest/css/jquery.smartsuggest.css" rel="stylesheet" type="text/css">
-<link href="content/vendors/jquery/treeview/jquery.treeview.css" rel="stylesheet" type="text/css">
-<link href="content/vendors/jquery/rater/rater.css" rel="stylesheet" type="text/css">
-<link href="content/cache/skins/TradeWins/styles/all.css" rel="stylesheet" type="text/css" id="css-all">
-<script type="text/javascript" src="content/vendors/jquery/jquery-1.5.1.min.js"></script>
-<script type="text/javascript" src="content/vendors/jquery/ui/jquery-ui-1.8.9.custom.min.js"></script>
-<script type="text/javascript" src="content/vendors/jquery/treeview/jquery.treeview.min.js"></script>
-<script type="text/javascript" src="content/vendors/jquery/smartsuggest/jquery.smartsuggest-min.js"></script>
-<script type="text/javascript" src="content/vendors/jquery/corner/jquery.corner-min.js"></script>
-<script type="text/javascript" src="content/vendors/jquery/cookies/cookies.js"></script>
-<script type="text/javascript" src="content/vendors/jquery/autoresize/autoresize.jquery.min.js"></script>
-<script type="text/javascript" src="content/vendors/md5/md5-min.js"></script>
-<script type="text/javascript" src="content/vendors/json/json2-min.js"></script>
-<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/menu.js"></script>
-<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/global.js"></script>
-<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/common.js"></script>
-<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/validators.js"></script>
-<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/base.js"></script>
-<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/skin.js"></script>
-<script type="text/javascript" src="content/cache/languages/english.js?759bc212ea6ce6fb560d52a54a27c9ae"></script>
-<script type="text/javascript" src="content/vendors/jquery/rater/jquery.rater-custom.js"></script>
-<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/products_reviews.js"></script>
-<script type="text/javascript">
-var xajaxRequestUri="index.php?process_ajax_request=true";
-var xajaxDebug=false;
-var xajaxStatusMessages=false;
-var xajaxWaitCursor=true;
-var xajaxDefinedGet=0;
-var xajaxDefinedPost=1;
-var xajaxLoaded=false;
-function xajax_processAjaxAction(){return xajax.call("processAjaxAction", arguments, 1);}
-</script>
-<script type="text/javascript" src="content/vendors/ajax/xajax_js/xajax.js"></script>
-<script type="text/javascript">
-window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: content/vendors/ajax/xajax_js/xajax.js'); } }, 6000);
-</script>
+<link href="content/vendors/jquery/ui/themes/smoothness/smoothness.css?3712r3=1" rel="stylesheet" type="text/css">
+<link href="content/vendors/jquery/smartsuggest/css/jquery.smartsuggest.css?3712r3=1" rel="stylesheet" type="text/css">
+<link href="content/vendors/jquery/treeview/jquery.treeview.css?3712r3=1" rel="stylesheet" type="text/css">
+<link href="content/vendors/jquery/rater/rater.css?3712r3=1" rel="stylesheet" type="text/css">
+<link href="content/cache/skins/TradeWins/styles/all.css?3712r3=1" rel="stylesheet" type="text/css" id="css-all">
+<link rel="canonical" href="http://www.tradewins.com/privacy-policy-1?url=privacy-policy-1">
+<script type="text/javascript" src="content/vendors/jquery/jquery-1.5.1.min.js?3712r3=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/ui/jquery-ui-1.8.9.custom.min.js?3712r3=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/treeview/jquery.treeview.min.js?3712r3=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/smartsuggest/jquery.smartsuggest-min.js?3712r3=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/corner/jquery.corner-min.js?3712r3=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/cookies/cookies.js?3712r3=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/autoresize/autoresize.jquery.min.js?3712r3=1"></script>
+<script type="text/javascript" src="content/vendors/md5/md5-min.js?3712r3=1"></script>
+<script type="text/javascript" src="content/vendors/json/json2-min.js?3712r3=1"></script>
+<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/menu.js?3712r3=1"></script>
+<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/global.js?3712r3=1"></script>
+<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/common.js?3712r3=1"></script>
+<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/validators.js?3712r3=1"></script>
+<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/base.js?3712r3=1"></script>
+<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/skin.js?3712r3=1"></script>
+<script type="text/javascript" src="content/cache/languages/english.js?2a65b634eac86fd593532163a368202b"></script>
+<script type="text/javascript" src="content/vendors/jquery/rater/jquery.rater-custom.js?3712r3=1"></script>
+<script type="text/javascript" src="content/cache/skins/TradeWins/javascript/products_reviews.js?3712r3=1"></script>
 <!--[if gte IE 7]>
 <link type="text/css" rel="stylesheet" href="content/cache/skins/TradeWins/styles/ie7plus.css" />
 <script type="text/javascript" src="content/cache/skins/TradeWins/javascript/ie7plus.js"></script>
@@ -94,7 +86,8 @@ zIndexNumber -= 10;
 <script type="text/javascript" src="content/cache/skins/TradeWins/javascript/ie6base.js"></script>
 <link type="text/css" rel="stylesheet" href="content/cache/skins/TradeWins/styles/ie6.css" />
 <script type="text/javascript" src="content/cache/skins/TradeWins/javascript/ie6.js"></script>
-<![endif]--></head>
+<![endif]-->
+</head>
 <body id="page-page" class="page page-page" bgcolor="#FFFFFF" text="#000000">
 <div id="site-container" class="site-container">
 <div class="container-header clearfix">
@@ -127,7 +120,7 @@ zIndexNumber -= 10;
 <input type="hidden" name="mode" value="search">
 <input type="hidden" name="search_in" value="all">
                         <span style="font-size:15px; color:#fff;">Search</span><input maxlength="256" type="text" name="search_str" value="">
-                        <input type="image" src="content/cache/skins/TradeWins/images/button-start-search.png" class="button-start-search submit-image " alt="Go!">
+                        <input type="image" src="content/cache/skins/TradeWins/images/button-start-search.png" style="background-image: none;" class="button-start-search submit-image " alt="Go!">
 </form>
 <ul>
                                                                                                                                                             <li class="first"><a href="http://www.tradewins.com/article-1">Featured Articles</a></li>
@@ -253,7 +246,7 @@ zIndexNumber -= 10;
                                         </li>
                                 </ul>
                                         </li>
-                                                        <li>
+                                        <li>
                         <a href="http://www.tradewins.com/authors/" class=" parent"><span>Authors</span></a>
                                                         <ul>
                             <li>
@@ -269,10 +262,19 @@ zIndexNumber -= 10;
                         <a href="http://www.tradewins.com/brian-schad/" class=" "><span>Brian Schad</span></a>
                                         </li>
                                         <li>
+                        <a href="http://www.tradewins.com/chris-borgman/" class=" "><span>Chris Borgman</span></a>
+                                        </li>
+                                        <li>
+                        <a href="http://www.tradewins.com/chris-verhaegh/" class=" "><span>Chris Verhaegh</span></a>
+                                        </li>
+                                        <li>
                         <a href="http://www.tradewins.com/chuck-hughes/" class=" "><span>Chuck Hughes</span></a>
                                         </li>
                                         <li>
                         <a href="http://www.tradewins.com/connors-hayward/" class=" "><span>Connors &amp; Hayward</span></a>
+                                        </li>
+                                        <li>
+                        <a href="http://www.tradewins.com/dale-brethauer/" class=" "><span>Dale Brethauer</span></a>
                                         </li>
                                         <li>
                         <a href="http://www.tradewins.com/dan-keen/" class=" "><span>Dan Keen</span></a>
@@ -331,10 +333,13 @@ zIndexNumber -= 10;
                                         <li>
                         <a href="http://www.tradewins.com/keith-cotterill/" class=" "><span>Keith Cotterill</span></a>
                                         </li>
-                                                        <li>
+                                        <li>
                         <a href="http://www.tradewins.com/ken-w.-chow/" class=" "><span>Ken W. Chow</span></a>
                                         </li>
-                                                        <li>
+                                        <li>
+                        <a href="http://www.tradewins.com/kerry-given-dr.-duke/" class=" "><span>Kerry Given (Dr. Duke)</span></a>
+                                        </li>
+                                        <li>
                         <a href="http://www.tradewins.com/larry-williams/" class=" "><span>Larry Williams</span></a>
                                         </li>
                                         <li>
@@ -346,7 +351,7 @@ zIndexNumber -= 10;
                                         <li>
                         <a href="http://www.tradewins.com/market-publications/" class=" "><span>Market Publications</span></a>
                                         </li>
-                                                        <li>
+                                        <li>
                         <a href="http://www.tradewins.com/mohan/" class=" "><span>Mohan</span></a>
                                         </li>
                                         <li>
@@ -355,7 +360,7 @@ zIndexNumber -= 10;
                                         <li>
                         <a href="http://www.tradewins.com/oliver-velez/" class=" "><span>Oliver Velez</span></a>
                                         </li>
-                                                        <li>
+                                        <li>
                         <a href="http://www.tradewins.com/peter-mckenna/" class=" "><span>Peter McKenna</span></a>
                                         </li>
                                         <li>
@@ -364,7 +369,7 @@ zIndexNumber -= 10;
                                         <li>
                         <a href="http://www.tradewins.com/russell-sands/" class=" "><span>Russell Sands</span></a>
                                         </li>
-                                                        <li>
+                                        <li>
                         <a href="http://www.tradewins.com/sherman-tom-mcclellan/" class=" "><span>Sherman &amp; Tom McClellan</span></a>
                                         </li>
                                         <li>
@@ -380,19 +385,22 @@ zIndexNumber -= 10;
                                         </li>
 </ul>
 </div>
-</div>                        <div class="panel-account-profile panel clearfix ">
-<h4 class="title ">My Profile</h4>
-<div class="content ">
-<ul>
-<li><a href="https://www.tradewins.com/index.php?p=login">Login</a></li>
-<li><a href="https://www.tradewins.com/index.php?p=signup">Register</a></li>
-</ul>
-</div>
-</div>                                                <div class="panel_bottom"></div>
-                        <div class="panel-follow-us panel clearfix ">
+</div>                        <div class="panel-follow-us panel clearfix ">
 <h4 class="title ">Follow Us!</h4>
 <div class="content ">
 <p>Follow Us on<br>Facebook<br>and Twitter</p><div><a href="http://www.facebook.com/pages/Wilkes-Barre-PA/TradeWins-Publishing/124151006655"><img src="content/cache/skins/TradeWins/images/facebook.jpg" alt="Follow Us on Facebook"></a><a href="http://twitter.com/#!/tradewins1"><img src="content/cache/skins/TradeWins/images/twitter.jpg" alt="Tweet with us!"></a></div>
+</div>
+</div>                                                <div class="panel_bottom"></div>
+                        <div class="panel-checkout panel clearfix ">
+<h4 class="title ">Checkout</h4>
+<div class="content ">
+<ul>
+<li><a href="http://www.tradewins.com/index.php?p=cart">Edit Cart</a></li>
+<li>Billing and Shipping Information</li>
+<li>Shipping Method</li>
+<li>Review &amp; Payment</li>
+<li>Finish</li>
+</ul>
 </div>
 </div>                                                <div class="panel_bottom"></div>
                         </div>
@@ -409,7 +417,8 @@ zIndexNumber -= 10;
                     <input class="newsletter_input" maxlength="64" type="text" id="Contact0LastName" name="Contact0LastName" value="last name" onfocus="this.value=''">
                     <input class="newsletter_input" maxlength="64" type="text" id="Contact0Email" name="Contact0Email" value="email address" onfocus="this.value=''">
                     <div class="gap-top text-center">
-                            <input type="image" src="content/cache/skins/TradeWins/images/button-subscribe.png" class="button-subscribe submit-image " alt="Subscribe">
+                            <p class="smaller-text">Our e-newsletter is delivered every Wednesday, and our video newsletter is delivered every Thursday. You will also receive various promotions and free webinar announcements throughout the week.</p>
+                            <input type="image" src="content/cache/skins/TradeWins/images/button-subscribe.png" style="background-image: none;" class="button-subscribe submit-image " alt="Subscribe">
                     </div>
 </form>
 </div>
