@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignburn.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180240id_/http%3A//www.webdesignburn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignburn.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003035937id_/http%3A//www.webdesignburn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Design Burn
 
