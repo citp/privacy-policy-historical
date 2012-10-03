@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621044742id_/http%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003023516id_/http%3A//thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
 
-# TSR - Privacy Policy
+# Privacy Policy
 
 ## Introduction
 
