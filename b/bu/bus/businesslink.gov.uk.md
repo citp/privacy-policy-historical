@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslink.gov.uk privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604080804id_/http%3A//www.businesslink.gov.uk/bdotg/action/staticpage%3Fpage%3DPrivacy%26r.s%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslink.gov.uk privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003171401id_/http%3A//www.businesslink.gov.uk/bdotg/action/staticpage%3Fpage%3DPrivacy%26r.s%3Df) for the most accurate reproduction.*
 
 # Privacy & cookies | Business Link
 
