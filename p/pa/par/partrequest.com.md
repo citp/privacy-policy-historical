@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525062651id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003194400id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Used Auto Parts Online
 
@@ -49,20 +49,16 @@ Happy motoring!
 ## Find Used Auto Parts
 
  **Find Used Auto Parts Online!**  
-Locate quality **used auto parts** from **salvage yards** in the United States and Canada. Select a year and make and then click Go!
+Locate quality _used_ auto parts from salvage yards in the United States and Canada. Select a year and make and then click Go!
 
 ### Find Salvage Yards
 
- **Find Salvage Yards, Junk Yards, Auto Wreckers and Auto Recyclers that Sell Used Auto Parts!** Locate reputable **salvage yards** in the United States and Canada. PartRequest.com allows you to search for reputable salvage yards by region or zip code.
+Find Salvage Yards, Junk Yards, Auto Wreckers and Auto Recyclers that Sell Used Auto Parts! Locate reputable **salvage yards** in the United States and Canada. PartRequest.com allows you to search for reputable salvage yards by region or zip code.
 
 [](https://web.archive.org/salvage_yards/find)
 
 ### Sell Used Auto Parts
 
-PartRequest.com allows **salvage yards, auto wreckers, junk yards and auto recyclers** to respond to the thousands of used auto parts requests submitted to this site each month. Sign up now for a free trial and start selling used parts online.
+PartRequest.com allows salvage yards, auto wreckers, junk yards and auto recyclers to respond to the thousands of used auto parts requests submitted to this site each month. Sign up now for a free trial and start selling used parts online.
 
 [](https://web.archive.org/salvage_yards/sell_used_parts)
-
-### Featured Salvage Yard
-
-This month's featured junk yard is [Toyota Salvage](http://www.toyotasalvage.com/). Top quality used Toyota parts and used Nissan parts.
