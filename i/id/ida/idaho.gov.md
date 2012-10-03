@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508211154id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003112409id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Idaho.gov
 
