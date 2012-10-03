@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipina18.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305075533id_/http%3A//www.filipina18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipina18.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003023228id_/http%3A//www.filipina18.com/privacy.html) for the most accurate reproduction.*
 
 # Www.filipina18.com - Privacy Policy
 
