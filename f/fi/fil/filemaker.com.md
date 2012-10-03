@@ -1,83 +1,107 @@
-> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904192028id_/http%3A//www.filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003231630id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal: FileMaker Customer Privacy Policy
 
-Protecting your privacy is important to FileMaker. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the FileMaker Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
+### Privacy Policy
 
-####  Effective on January 2, 2007 
+Your privacy is important to FileMaker. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
 ### Collection of Personal Information
 
-In order to give you superior customer service, FileMaker collects your personal information in several ways. For example, FileMaker may ask you to provide certain information such as your first and last name, mailing address (including zip code), e-mail address, employer, job title and department, telephone and facsimile numbers, and other personal information. When ordering products or services on the Site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
+Personal information is data that can be used to uniquely identify or contact a single person.
 
-When you use the Site, FileMaker or third parties authorized by FileMaker may also collect certain technical and routing information about your computer to facilitate your use of the Site and its services. For example, we may log environmental variables, such as browser type, operating system, CPU speed, and the Internet Protocol ("IP") address of your computer. We use these environmental variables to facilitate and track your use of the Site and its services. FileMaker also uses such environmental variables to measure traffic patterns on the Site. Without expressly informing you in each particular circumstance, we do not match such information with any of your personal information.
+You may be asked to provide your personal information anytime you are in contact with FileMaker or a FileMaker affiliated company. FileMaker and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising.
 
-When you submit personal information to FileMaker through this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which FileMaker and its affiliates and subsidiaries maintain offices, including without limitation, the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage and processing of your information may be undertaken by trusted vendors of FileMaker. Such vendors are bound by contract to not use your personal information for their own purposes or provide it to any third parties. One instance where this could occur is in conjunction with framed pages in which the URL for the pages is not visible and the pages are being hosted by a vendor of FileMaker.
+Here are some examples of the types of personal information FileMaker may collect and how we may use it. 
 
-FileMaker has established relationships with various service providers whose services are available to you from this Site or from web sites that are linked to this Site. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's web site will be subject to the privacy policy posted on such site and personal information that you provide while on this Site in conjunction with a providers service will be subject to this Privacy Policy. In the situation where sites have a FileMaker look and feel, and you reasonably believe you are on a FileMaker site, the site is collecting information in a solely intermediary capacity (i.e, customer support pages) and does not use personal information for secondary purposes.  
-In order to reduce errors in our database, authenticate our users and prevent abuse of our system we may on occasion supplement the personal information you submit to us with information from third party sources. For example, we may supplement your registration information with address information provided by the U.S. Postal Service to qualify your information and prevent errors in our database.
+### What personal information we collect
 
-### How Your Personal Information is Used
+When you register your products, purchase a product, download a software trial or an update, download a solution, participate in a forum, or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information. 
 
-FileMaker uses your personal information for several purposes including: 
+### How we use your personal information
 
-  * To ensure our Site is relevant to your needs. 
-  * To deliver services, such as newsletters, events, training or software, that you request or purchase. 
-  * To help us create and publish content most relevant to you. 
-  * To alert you to product upgrades, special offers, updated information and other new services from FileMaker. 
-  * To allow you access to limited-entry areas of our Site as appropriate. 
-
+  * The personal information we collect allows us to keep you posted on FileMaker’s latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising. If you don’t want to be on our mailing list, you can opt out anytime by clicking the "Unsubscribe" option, [updating your preferences](http://www.filemaker.com/company/legal/opt_out.html) or by contacting [FileMaker Customer Service.](http://www.filemaker.com/company/contact/)
+  * We also use personal information to help us develop, deliver, and improve our products, services, content, and advertising.
+  * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with FileMaker, you may not opt out of receiving these communications.
+  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve FileMaker’s products, services, and customer communications. 
+  * If you enter into a sweepstakes, contest, or similar promotion we may use the information you provide to administer those programs. 
 
 
-### When We Disclose Personal Information 
 
-Because FileMaker is a global company, your personal information may be shared with other FileMaker business affiliates around the world. They will protect your personal information in accordance with the FileMaker Customer Privacy Policy. FileMaker may occasionally share your personal contact information with carefully selected companies, to keep you informed about related products and services. If you do not want to receive promotional information from FileMaker or other companies and wish to opt-out, visit the [FileMaker Communications Web Page](http://www.filemaker.com/company/opt_out). 
+### Collection and Use of Non-Personal Information
 
-FileMaker works with other companies that help us provide FileMaker products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with FileMaker's policies.
+We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
 
-FileMaker may disclose your personal information if required to do so by law or legal process. We may also disclose information about you if we believe that disclosure is necessary to protect the personal safety of FileMaker employees, users of FileMaker products or services, or members of the public.
+  * We may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where an FileMaker product is used so that we can better understand customer behavior and improve our products, services, and advertising.
+  * We also may collect information regarding customer activities on our website and FileMaker Store and from our other products and services. and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.
 
-### How We Protect your Personal Information
 
-FileMaker is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, the FileMaker Store uses industry-standard Secure Socket Layer (SSL) encryption on web pages where sensitive information (such as credit card information) is required. To make purchases from the FileMaker Store, you must use an SSL-enabled browser such as Netscape Navigator 7.x for Macintosh or Windows, Safari 1.2 - 2.x or Internet Explorer 5.x — 6.x., and Firefox 1.x for Macintosh or Windows. This technology protects the confidentiality of your credit card information while it is transmitted over the Internet.   
-We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-### Access to Your Personal Information/Opt-Out Choices
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined. 
 
-You have access to the information we have about you. To review and update your personal information, contact [FileMaker Customer Service](http://www.filemaker.com/company/contact#customerassistance). 
+### Cookies and Other Technologies
 
-If you receive communications about FileMaker-related products and services and wish to opt-out, visit the FileMaker Communications Web Page at [http://www.filemaker.com/company/opt_out.html](http://www.filemaker.com/company/opt_out), send an e-mail to [remove@filemaker.com](mailto:remove@filemaker.com) or call our Customer Service department at toll-free (800) 325-2747.
+FileMaker’s website, online services, interactive applications, email messages, and advertisements may use "[cookies](https://web.archive.org/company/legal/cookies.html)" and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-### Collecting Other Personal Information
+FileMaker and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with FileMaker more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the FileMaker web store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, product serial numbers, and information about your computer or device helps us register your products and provide you with better customer service.
 
-When you browse FileMaker's website, you are able to do so anonymously. Generally, we don't collect personal information when you browse — not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
+If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the Security pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the FileMaker website will not be available once cookies are disabled.
 
-Like many websites, the FileMaker website uses "cookie" technology.  Cookies are set by FileMaker and third parties.  When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you. Cookies help us understand which parts of our websites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better.
+As is true of most websites, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.
 
-In some of our email to you, we use a "click-through URL." When you click one of these URLs, you may pass through our web server before arriving at the website that is your destination. We may track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications. 
+We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. FileMaker may use this information in our marketing and advertising services.
 
-### Clear Gifs, Log Files, and Action Tags
+In some of our email messages, we use a "click-through URL" linked to content on the FileMaker website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
 
-FileMaker employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information. FileMaker also uses IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers. 
 
-From time to time, we may use third parties to serve ads on our behalf across the Internet. These third parties may also collect anonymous information about your visits to our web Site. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an Action Tag, which we place on various web pages within our web ite that allows third parties to collect anonymous information, which cannot be used to identify you personally. These third parties may use information about your visits to this and other web sites in order to provide ads about goods and services of interest to you.  
-The third parties report the anonymous data that they collect on our behalf back to us, which we link to our customer's personally identifiable information for the purposes of better serving you. When we merge this data, it is treated under this policy as personally identifiable information as described above.
+Learn more about [FileMaker's use of cookies](https://web.archive.org/company/legal/cookies.html).
 
-### Public Forums
+### Disclosure to Third Parties
 
-This site makes forums and news groups available to its users. Please remember that some information that is disclosed in these areas may become public information and you should exercise caution when deciding to disclose your personal information.
+At times FileMaker may make certain personal information available to strategic partners that work with FileMaker to provide products and services, or that help FileMaker market to customers. Personal information will only be shared by FileMaker to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
 
-### Our Companywide Commitment to Privacy
+### Service Providers
 
-As we said, FileMaker takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to FileMaker employees and strictly enforce privacy safeguards within the company. In addition, FileMaker supports industry initiatives — such as the International Association of Privacy Professionals — to preserve privacy rights on the Internet and in all aspects of electronic commerce. And we do not knowingly solicit personal information from minors or send them requests for personal information.
+FileMaker shares personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever FileMaker operates.
 
-FileMaker does not knowingly solicit personal information from children or send them requests for personal information.  
-FileMaker's website contains links to other sites. FileMaker does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.  
-If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
+### Others
 
-FileMaker abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union and Switzerland. You’ll find more information about the U.S. Department of Commerce [Safe Harbor Program](http://www.export.gov/safeharbor/sh_overview.html).
+It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for FileMaker to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
-FileMaker participates in the Direct Marketing Association's Safe Harbor complaint resolution process.  European consumers that are unable to resolve a complaint after contacting FileMaker may file a complaint with the Direct Marketing Association at the following address:
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party. 
+
+### Protection of Personal Information
+
+FileMaker takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
+
+FileMaker online services such as the FileMaker Store use Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser such as Safari, Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while it’s transmitted over the Internet.
+
+When you use some FileMaker products, services, or applications or post on an FileMaker forum, chat room, or social networking service, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features. 
+
+### Integrity and Retention of Personal Information
+
+FileMaker makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+### Access to Personal Information
+
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by contacting [FileMaker Customer Service](http://www.filemaker.com/company/contact/). For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if FileMaker is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made to the regional FileMaker offices. 
+
+### Children
+
+We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible. 
+
+### Location-Based Services
+
+To provide location-based services in FileMaker products, FileMaker and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your computer or device. This location data is collected anonymously in a form that does not personally identify you and is used by FileMaker and our partners and licensees to provide and improve location-based products and services. 
+
+### Third-Party Sites and Services
+
+FileMaker websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties. 
+
+### International Users
+
+Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. FileMaker abides by the "safe harbor" framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/index.asp). Please note that personal information regarding individuals who reside in a member state of the European Economic Area (EEA) is controlled by FileMaker International in Uxbridge, United Kingdom. FileMaker participates in the Direct Marketing Association's Safe Harbor complaint resolution process. European consumers that are unable to resolve a complaint after contacting FileMaker may file a complaint with the Direct Marketing Association at the following address: 
 
 The Direct Marketing Association  
 Attn:  Ethics/Consumer Affairs Department  
@@ -85,20 +109,18 @@ Attn:  Ethics/Consumer Affairs Department
 Washington, D.C.  20036-3603  
 Email:  [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)
 
-  
-The FileMaker Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes. 
+### Our Companywide Commitment to Your Privacy
 
-### Contact Information
+To make sure your personal information is secure, we communicate our privacy and security guidelines to FileMaker employees and strictly enforce privacy safeguards within the company. 
 
-FileMaker welcomes your comments regarding this privacy policy, please contact us at: 
+### Privacy Questions
 
-> FileMaker Privacy/Legal Dept.  
->  FileMaker, Inc.  
->  5201 Patrick Henry Drive, M/S C-51  
->  Santa Clara, CA 95054  
->  Fax: (408) 987-7460  
->  E-mail: [privacy@filemaker.com](mailto:privacy@filemaker.com)  
->  Last updated April 1, 2008  
->  © 2001-2008 FileMaker, Inc. All rights reserved
+If you have questions or concerns about FileMaker’s Privacy Policy or data processing, please contact us at [privacy@filemaker.com](mailto:privacy@filemaker.com).
+
+FileMaker may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+FileMaker Inc., 5201 Patrick Henry Drive, Santa Clara, California 95054 
+
+Last updated: February 11, 2011 
 
 Back to top
