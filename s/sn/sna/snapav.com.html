@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the snapav.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501160544id_/http%3A//www.snapav.com/t-privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapav.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003032655id_/http%3A//snapav.com/t-privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head id="ctl00_Head1">
 
@@ -9,7 +9,7 @@
 </title>
     
     <!-- Leave the description and keyword content empty, it will get populated at runtime -->
-    <meta name="description" content="enter your site description here"><meta name="keywords" content="enter your site keywords here">
+    <meta name="description" content="enter your site description here"><meta name="keywords" content="enter your site keywords here"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Include Google Analytics Header -->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -17,6 +17,7 @@
             var cvRewardsLevel = 'None';
             var cvFrequency = '0';
             var cvFirstOrderDate = '00000000';
+            var cvLoggedIn = 'No';
           </script><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="stylesheet" href="/App_Templates/Skin_1/css/style.css?v=1"><link rel="stylesheet" href="/App_Templates/Skin_1/css/right-nav.css"><link rel="stylesheet" href="/App_Templates/Skin_1/css/liveperson.css"><link rel="stylesheet" href="/App_Templates/Skin_1/css/prod-videos.css"><link rel="stylesheet" href="/App_Templates/Skin_1/css/SupportVideos.css"><link rel="stylesheet" href="/App_Templates/Skin_1/css/FrequentPurchases.css"><link rel="stylesheet" href="/snapav/mkting/css/countdown.css">
   <!-- BEGIN Google analytics -->
   <script type="text/javascript">
@@ -27,6 +28,7 @@
     if (cvRewardsLevel) _gaq.push(['_setCustomVar',2,'RewardsLevel',cvRewardsLevel,2]);
     if (cvFrequency) _gaq.push(['_setCustomVar',3,'Frequency',cvFrequency,2]);
     if (cvFirstOrderDate) _gaq.push(['_setCustomVar',4,'FirstOrderDate',cvFirstOrderDate,2]);
+    if (cvLoggedIn) _gaq.push(['_setCustomVar',5,'LoggedIn',cvLoggedIn,2]);
     _gaq.push(['_trackPageview']);
 
     (function () {
@@ -50,6 +52,20 @@
   
   <!-- Limelight player-->
   <script src="http://assets.delvenetworks.com/player/embed.js"></script>
+  
+  <!-- iPhone and iPad sizing -->
+  <script type="text/javascript">
+    $(window).bind('orientationchange', function(event) {
+    if (window.orientation == 90 || window.orientation == -90 || window.orientation == 270) {
+    $('meta[name="viewport"]').attr('content', 'height=device-width,width=device-height,initial-scale=1.0');
+    $(window).resize();
+    } else {
+    $('meta[name="viewport"]').attr('content', 'height=device-height,width=device-width,initial-scale=1.0');
+    $(window).resize();
+    }
+    }).trigger('orientationchange');
+  </script>
+
 </head>
 
 <body class="standard">
@@ -57,7 +73,7 @@
 	<div id="container">
 
         <!-- Include Universal Header -->
-        <div id="header"><a href="/" class="logo"><span>SnapAV</span></a><div class="uvp"><span>Changing The Way Custom Installers Do Business.</span></div>
+        <div id="header"><a href="/default.aspx" class="logo"><span>SnapAV</span></a><a href="http://commercial.snapav.com/default.aspx" id="siteNavigation"><span></span></a><div class="uvp"><span>Changing The Way Custom Installers Do Business.</span></div>
   <div class="site">
     <div class="dealer_login">
       <div id="dealer_form" class="clearfix" style="display: none;">
@@ -130,32 +146,27 @@
                   </ul>
                 </li>
                 <li><a href="/c-26-video.aspx">Video</a></li>
+                <li><a href="/c-370-vga.aspx">VGA</a></li>
                 <li><a href="/c-58-hdmi.aspx">HDMI</a></li>
-                <li><a href="/c-24-adapters-amp-connectors.aspx">Adapters &amp; Connectors</a></li>
+                <li><a href="/c-24-adapter-cables.aspx">Adapter Cables</a></li>
                 <li><a href="/c-48-ethernet-cables-plugs.aspx">Ethernet Cables &amp; Plugs</a></li>
               </ul>
             </li>
             <li><a href="/c-3-cinecabinets153.aspx">CineCabinets™</a></li>
-            <li><a href="/c-17-connectors.aspx">Connectors</a></li>
+            <li><a href="/c-17-connectors-adapters.aspx">Connectors &amp; Adapters</a><ul>
+                <li><a href="/c-362-rj45-rj11.aspx">RJ45 &amp; RJ11</a></li>
+                <li><a href="/c-359-rca-connectors.aspx">RCA Connectors</a></li>
+                <li><a href="/c-358-bnc-connectors.aspx">BNC Connectors</a></li>
+                <li><a href="/c-360-f-type-connectors.aspx">F-Type Connectors</a></li>
+                <li><a href="/c-361-adapters.aspx">Adapters</a></li>
+                <li><a href="/c-363-miscellaneous.aspx">Miscellaneous</a></li>
+              </ul>
+            </li>
             <li><a href="/c-23-fans-amp-cooling.aspx">Fans &amp; Cooling</a></li>
           </ul>
         </div>
         <div class="col col2">
           <ul>
-            <li><a href="/c-6-film-screens.aspx">Film Screens</a><ul>
-                <li><a href="/c-38-fixed-screens-.aspx">Fixed Screens &gt;&gt;</a><ul>
-                    <li><a href="/c-79-169-aspect.aspx">16:9 Aspect</a></li>
-                    <li><a href="/c-80-2351-aspect.aspx">2.35:1 Aspect</a></li>
-                  </ul>
-                </li>
-                <li><a href="/c-39-motorized-screens-.aspx">Motorized Screens &gt;&gt;</a><ul>
-                    <li><a href="/c-77-standard-motorized.aspx">Standard Motorized</a></li>
-                    <li><a href="/c-78-tab-tension-motorized.aspx">Tab-Tension Motorized</a></li>
-                  </ul>
-                </li>
-                <li><a href="/c-45-acoustically-transparent.aspx">Acoustically Transparent</a></li>
-              </ul>
-            </li>
             <li><a href="/c-15-hardware.aspx">Hardware</a></li>
             <li><a href="/c-12-ir-products.aspx">IR Products</a></li>
             <li><a href="/c-19-labor-saving-devices153.aspx">Labor Saving Devices™</a></li>
@@ -176,10 +187,6 @@
               </ul>
             </li>
             <li><a href="/c-11-multi-room-audio.aspx">Multi-Room Audio</a></li>
-          </ul>
-        </div>
-        <div class="col col3">
-          <ul>
             <li><a href="/c-8-power-products.aspx">Power Products</a><ul>
                 <li><a href="/c-101-power-strips.aspx">Power Strips</a></li>
                 <li><a href="/c-92-uninterruptible-power-ups.aspx">Uninterruptible Power (UPS)</a></li>
@@ -188,6 +195,24 @@
                 <li><a href="/c-95-power-cords.aspx">Power Cords</a></li>
               </ul>
             </li>
+            <li><a href="/c-6-projection-screens.aspx">Projection Screens</a><ul>
+                <li><a href="/c-38-fixed-screens-.aspx">Fixed Screens &gt;&gt;</a><ul>
+                    <li><a href="/c-79-169-aspect.aspx">16:9 Aspect</a></li>
+                    <li><a href="/c-80-2351-aspect.aspx">2.35:1 Aspect</a></li>
+                  </ul>
+                </li>
+                <li><a href="/c-39-motorized-screens-.aspx">Motorized Screens &gt;&gt;</a><ul>
+                    <li><a href="/c-77-standard-motorized.aspx">Standard Motorized</a></li>
+                    <li><a href="/c-78-tab-tension-motorized.aspx">Tab-Tension Motorized</a></li>
+                  </ul>
+                </li>
+                <li><a href="/c-45-acoustically-transparent.aspx">Acoustically Transparent</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="col col3">
+          <ul>
             <li><a href="/c-10-rack-products.aspx">Rack Products</a><ul>
                 <li><a href="/c-59-racks-.aspx">Racks &gt;&gt;</a><ul>
                     <li><a href="/c-110-floor-standing.aspx">Floor Standing</a></li>
@@ -270,9 +295,8 @@
         <li><a href="/c-13-bulk-wire.aspx">Bulk Wire</a></li>
         <li><a href="/c-1-cables.aspx">Cables</a></li>
         <li><a href="/c-3-cinecabinets153.aspx">CineCabinets™</a></li>
-        <li><a href="/c-17-connectors.aspx">Connectors</a></li>
+        <li><a href="/c-17-connectors-adapters.aspx">Connectors &amp; Adapters</a></li>
         <li><a href="/c-23-fans-amp-cooling.aspx">Fans &amp; Cooling</a></li>
-        <li><a href="/c-6-film-screens.aspx">Film Screens</a></li>
         <li><a href="/c-15-hardware.aspx">Hardware</a></li>
         <li><a href="/c-12-ir-products.aspx">IR Products</a></li>
         <li><a href="/c-19-labor-saving-devices153.aspx">Labor Saving Devices™</a></li>
@@ -280,6 +304,7 @@
         <li><a href="/c-4-mounts.aspx">Mounts</a></li>
         <li><a href="/c-11-multi-room-audio.aspx">Multi-Room Audio</a></li>
         <li><a href="/c-8-power-products.aspx">Power Products</a></li>
+        <li><a href="/c-6-projection-screens.aspx">Projection Screens</a></li>
         <li><a href="/c-10-rack-products.aspx">Rack Products</a></li>
         <li><a href="/c-22-seating.aspx">Seating</a></li>
         <li><a href="/c-2-speakers.aspx">Speakers</a></li>
@@ -292,13 +317,14 @@
   </div>
   <ul class="primary">
     <li class="topNavMenu"><a href="/t-dealer%20support.aspx">Resource Vault</a></li>
-    <li class="topNavMenu"><a href="https://snapav.com/snapav/myaccount.aspx#atab_3">Track an Order</a></li>
+    <li class="topNavMenu"><a href="https://snapav.com/snapav/myaccount.aspx#atab_2">Track an Order</a></li>
     <li class="topNavMenu"><a href="https://snapav.com/snapav/myaccount.aspx#atab_1">My Account</a></li>
     <li class="topNavMenu"><a href="/t-policies.aspx">Policies</a></li>
     <li class="topNavMenu"><a href="/t-programs.aspx">Programs</a></li>
     <li class="topNavMenu"><a href="/t-our%20story.aspx">About Us</a><ul>
         <li class="topNavSubMenu"><a href="/t-sales%20team.aspx">Sales Team</a></li>
-        <li class="topNavSubMenu"><a href="/t-executive_team.aspx">Executive Team</a></li>
+        <li class="topNavSubMenu"><a href="/t-leadership_team.aspx">Leadership Team</a></li>
+        <li class="topNavSubMenu JobPostingsSubMenu"><a href="/t-jobopenings.aspx">Join the Team</a></li>
       </ul>
     </li>
     <li class="topNavMenu"><a href="/t-contactus.aspx">Contact Us</a></li>
@@ -307,7 +333,7 @@
 </div>        
             
         <form name="aspnetForm" method="post" action="/t-privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMzc2Mjc3NjQPZBYCZg9kFgoCAg9kFgICBg9kFgICAQ8PFgIeB1Zpc2libGVoZGQCBA9kFgICAQ8PFgIfAGhkZAIGD2QWAgIBDw8WAh8AaGRkAggPZBYGAgEPFgIeBFRleHQFDVByaXZhY3lQb2xpY3lkAgQPZBYCAgEPDxYCHwBoZGQCBQ9kFgICAQ8PFgIfAGhkZAIKD2QWAgIBDw8WAh8AaGRkZGHuoEPUoVMAxrCHRN8iJJg2D4CE">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MDQyNzY4NDAPZBYCZg9kFgoCAg9kFgICBw9kFgICAQ8PFgIeB1Zpc2libGVoZGQCBA9kFgICAQ8PFgIfAGhkZAIGD2QWAgIBDw8WAh8AaGRkAggPZBYKAgEPFgIeBFRleHQFDVByaXZhY3lQb2xpY3lkAgMPZBYCAgEPDxYEHghDc3NDbGFzcwUHc3RvcmVfMR4EXyFTQgICZBYEAgEPFgIfAWVkAgUPFgIfAWVkAgQPZBYCAgEPDxYCHwBoZGQCBQ9kFgICAQ8PFgIfAGhkZAIGD2QWAgIBDw8WAh8AaGRkAgoPZBYCAgEPDxYCHwBoZGRkMYWJAeGyXZpeFh43WppdXmwPMyU=">
 
 
 <script src="jscripts/formvalidate.js" type="text/javascript"></script>
@@ -337,11 +363,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                    
                     <!-- Dynamic Content Start -->
                     
-    <div id="ctl00_PageContent_pnlContent">
+    <div id="ctl00_PageContent_pnlContent" class="store_1">
 	
+        
         <!-- READ FROM DB --><div id="policies"><h2>Privacy Policy:</h2><br><h3>What information do we collect?</h3><br><ul><li>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</li>    <li>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.</li>    <li>We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.</li>    <li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li>  </ul><br><h3>How do we use your information?</h3><br><p>We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:</p>  <ul>    <li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li>    <li>To allow us to better service you in responding to your customer service requests.</li>    <li>To quickly process your transactions.</li>    <li>To administer a contest, promotion, survey or other site feature.</li>    <li>If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.</li></ul><br><h3>How do we protect visitor information?</h3><br><p>We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.</p><br><h3>Do we use "cookies"?</h3><br><p>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>  <p>We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>  <p>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.</p><br><h3>Do we disclose the information we collect to outside parties?</h3><br><p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below.  We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.</p>  <p>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p><br><h3>How can you opt-out, remove or modify information you have provided to us?</h3><br>  <p>To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.</p>  <p>To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.</p><br> <h3>Third party links</h3><br><p>In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).</p><br><h3>Changes to our policy</h3><br><p>If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on  January 11, 2007.</p><br><h3>Questions and feedback</h3><br><p>We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.</p><br><h3>Your consent</h3><br><p>By using our site, you consent to our privacy policy.</p></div><!-- END OF DB -->
 
 
+        
     
 </div>
 
@@ -350,9 +378,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                 <!-- Side Bar -->
                 <div id="sidebar">
+                					   
+
                     
-                    
-                    <a id="BecomeADealer" href="/snapav/dealerapplication.aspx"></a>
+                
                 </div><!--/#sidebar-->
 
             </div><!--/#main-->
@@ -361,11 +390,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <!-- Include Universal Footer -->
         <div id="footer">
   <div class="inner clearfix">
-    <div class="col1"><img src="/App_Themes/Skin_1/images/assur_footer_cedia.gif" alt="Cedia"><img src="/App_Themes/Skin_1/images/assur_footer_inc500.gif" alt="Inc 500"></div>
+    <div class="col1"><a href="http://www.cedia.net" rel="external"><img src="/App_Themes/Skin_1/images/assur_footer_cedia.gif" alt="Cedia"></a><img src="/App_Themes/Skin_1/images/assur_footer_inc500.gif" alt="Inc 500"></div>
     <div class="col2">
       <div class="cea"><img src="/App_Themes/Skin_1/images/CEA-member.jpg" alt="Member Consumer Electronics Association"></div>
       <div class="infocomm"><img src="/App_Themes/Skin_1/images/infoComm.jpg" alt="Member infoComm International"></div>
-      <div class="cepro"><a href="http://www.cepro.com/article/2011_quest_for_quality_award_winners/" rel="external"><img src="/App_Themes/Skin_1/images/CePro_Quest2.jpg" alt="CEPro"></a></div>
+      <div class="cepro"><a href="http://www.cepro.com/article/quest_for_quality_winners_2012/" rel="external"><img src="/App_Themes/Skin_1/images/CePro_Quest2.jpg" alt="CEPro"></a></div>
     </div>
     <div class="col3">
       <ul>
@@ -377,7 +406,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
       <ul>
         <li><a href="/t-faq.aspx">FAQs</a></li>
         <li><a href="/t-policies.aspx">Policies</a></li>
-        <li><a href="/t-our_team.aspx">Our Team</a></li>
+        <li><a href="/t-leadership_team.aspx">Our Team</a></li>
         <li><a href="/t-contactus.aspx">Contact Us</a></li>
       </ul>
     </div>
