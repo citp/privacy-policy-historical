@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmanagerdx.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526231139id_/http%3A//www.wpmanagerdx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmanagerdx.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003045623id_/http%3A//wpmanagerdx.com/privacy-policy) for the most accurate reproduction.*
 
 # WP ManagerDX - WordPress Blog Installer & Manager
 
@@ -49,7 +49,7 @@ How does the Site keep Personally Identifiable Information secure?
 All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information?  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at ednam[at]heavenlybiz.com
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at supportdx@wpmanagerdx.com
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?  
 We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
