@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501032607id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032945id_/http%3A//www.beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Beanstalk — Privacy Policy
 
 We collect personal information in a number of ways when you visit our site or use our service. For example, you provide us with personal information when you register for an account or contact us by email. Wildbit, LLC automatically receives and records information from your browser, including your IP address and cookies. The personal information collected is used for billing, identification, authentication, service improvement, research, and contact.
 
