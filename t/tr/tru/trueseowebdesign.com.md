@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueseowebdesign.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507121411id_/http%3A//www.trueseowebdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueseowebdesign.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003021630id_/http%3A//www.trueseowebdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | True SEO and Web Design
 
