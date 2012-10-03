@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501162801id_/http%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003022133id_/http%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of printed.com
 
 **Privacy and Use of Information**
 
-We at Printed.com are committed to protecting and respecting your privacy. For the purposes of the Data Protection Act 1998 (Act), the data controller is Ravensworth Digital Services Limited of 84-86 Great Portland Street, London, W1W 7NR, United Kingdom.
+We at printed.com are committed to protecting and respecting your privacy. For the purposes of the Data Protection Act 1998 (Act), the data controller is Ravensworth Digital Services Limited of 84-86 Great Portland Street, London, W1W 7NR, United Kingdom.
 
 **1\. Information we may collect about you**   
 We may collect and process the following data about you:
