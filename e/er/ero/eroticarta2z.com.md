@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eroticarta2z.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611150603id_/http%3A//eroticarta2z.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticarta2z.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003023233id_/http%3A//eroticarta2z.com/privacy-policy) for the most accurate reproduction.*
 
-# Erotic Art A to Z » Privacy Policy
+# Privacy Policy - Erotic Art A to Z
 
 EroticArtA2Z respects your privacy. This policy explains how EroticArtA2Z will treat information that it may obtain from you as you make use of the EroticArtA2Z.com site. The owners and operators of EroticArtA2Z.com (“EroticArtA2Z”) provide the EroticArtA2Z.com site (“Site”) subject to the terms of this Privacy Policy. By using the Site, you accept and agree to this Privacy Policy. The Privacy Policy may change from time to time, without notice other than appearing on the Site. The Revision Date below will show you when the Privacy Policy was last revised.
 
