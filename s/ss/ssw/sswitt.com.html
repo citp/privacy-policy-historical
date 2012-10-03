@@ -1,0 +1,456 @@
+<!--The following is the downloaded HTML source of the sswitt.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003091840id_/http%3A//www.sswitt.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Super Switt Links Directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Professional/style/main.css">
+<meta name="keywords" content="Privacy Policy,">
+<meta name="description" content="This business is not specifically dedicated to protecting personal information and will make only reasonable efforts to handle collected information appropriately as per any third party sofware designer's guidelines">
+<meta name="author" content="Super Switt Links Directory">
+<meta name="copyright" content="Copyright (c) 2011 Super Switt Directory">
+<meta name="robots" content="index,follow">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+</head>
+<body>
+<script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.sswitt.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;" align="center">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();" class="cmxform" id="login_form">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="login" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+<input type="hidden" name="formSubmitted" value="1">
+</form>
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+<a href="" class="btn-slide" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</p>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/Professional/images/logo.gif" border="0" alt="logo"></a>
+</div>
+<form class="headerSearch" action="/index.php" method="get" id="search_form">
+<table>
+<tbody><tr>
+<td>
+<label class="searchLabel">Search:</label>
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+</td>
+<td>
+<div class="searchBtn">
+<div class="searchBtnLeft"></div>
+<button class="searchBtnCenter" type="submit">GO</button>
+<div class="searchBtnRight"></div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+</div>
+<div class="hMenuContainer"><div class="center"><div class="hMenu"><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/submit.php" title="Submit your link to the directory">Submit Link</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/contact.php" title="Contact directory owner">Contact</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/blog" title="Blog">Blog</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""></div></div></div><div class="path"><a href="/" style="font-weight: bold;">Super Switt Links Directory</a> <img src="/templates/Professional/images/pathArrow.gif" alt=" - "> Privacy Policy</div><div class="center1"><div class="leftContainer" style="width: 215px; ">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="5">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Top Categories</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/arts_humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+</li>
+<li>
+<a href="/blogs/" title="Blogs">Blogs</a>
+</li>
+<li>
+<a href="/business_and_economy/" title="Business &amp; Economy">Business &amp; Economy</a>
+</li>
+<li>
+<a href="/computers_and_internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+</li>
+<li>
+<a href="/education/" title="Education">Education</a>
+</li>
+<li>
+<a href="/entertainment/" title="Entertainment">Entertainment</a>
+</li>
+<li>
+<a href="/health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/news_and_media/" title="News &amp; Media">News &amp; Media</a>
+</li>
+<li>
+<a href="/recreation_and_sports/" title="Recreation &amp; Sports">Recreation &amp; Sports</a>
+</li>
+<li>
+<a href="/reference/" title="Reference">Reference</a>
+</li>
+<li>
+<a href="/science_and_technology/" title="Science and Technology">Science and Technology</a>
+</li>
+<li>
+<a href="/shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/society/" title="Society">Society</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="9">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Latest featured links</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">			 <ul class="boxPopCats">
+<li>
+<a href="http://www.smcet.in" title="Read more about: Top Engineering Colleges India">Top Engineering Colleges India</a>
+</li>
+<li>
+<a href="http://www.alquilerenapartamentos.com" title="Read more about: Apartamentos en sierra nevada">Apartamentos en sierra nevada</a>
+</li>
+<li>
+<a href="http://www.travellifeturismo.com" title="Read more about: Paquetes de viaje">Paquetes de viaje</a>
+</li>
+<li>
+<a href="http://www.germaniainfo.com" title="Read more about: Provide information o the online p">Provide information o the o...</a>
+</li>
+<li>
+<a href="http://www.germaniainfo.com" title="Read more about: Provide information to the online p">Provide information to the ...</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="16">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Bookmark Me</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		
+<div style="width: 171px; margin: 0px auto; padding: 10px 0px;">
+<a href="http://www.addtoany.com/share_save" target="_blank">
+<img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Save/Bookmark">
+</a>
+</div>
+
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="18">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Pages</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/help.html" title="Help">Help</a> 
+</li>
+<li>
+<a href="/about.html" title="About Us">About Us</a> 
+</li>
+<li>
+<a href="/privacy.html" title="Privacy Policy">Privacy Policy</a> 
+</li>
+<li>
+<a href="/advertising.html" title="Advertising">Advertising</a> 
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<br>
+</ul>
+</div><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc">Privacy
+This business collects and maintains certain information (including business names,e-mail addresses, IP addresses, contact's names, phone numbers, geographic location information, etc.) on its Web site and its directory database for the purpose of publishing this suppliers news and directory resource. This is done to help us provide our users with the best resource and with valuable information regarding relevant products and services from appropriate third parties.
+Our customer's listing details are not deliberately disclosed to third parties, other than contractors for the purpose of publishing this resource, except as purposely published on this site.
+This business is not specifically dedicated to protecting personal information and will make only reasonable efforts to handle collected information appropriately as per any third party sofware designer's guidelines for the use of the software that runs this site. All information collected, as well as related requests, will be handled as carefully and efficiently as practical in accordance with the sofware designer's guidelines. However because of the incidence of hackers and the involvement of unknown third parties on most internet servers, we deem any information gathered by this service to be unsafe from privacy intruders. If your worried about privacy please dont use our service. Email newsletters originating at this site always contains clear and efficient instructions for opting out of future emails of its kind on a properly managed system.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including our published data) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to visitors. If you would like more information about this practice and to know your choices about not having this information used by these companies, please contact the manufacturer of your browser software.
+Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on a visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+</td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div class="centerContainerB"></div></div><div class="rightContainer">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="17">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Latest articles</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">				<div class="boxSponsoredLast">
+<a class="boxSponsoredA" href="/articles/article-144248.htm" title="2TB External Hardrives">
+2TB External Hardrives
+</a>
+<br>
+On the list of crucial parts of a pc is its hard disks.
+<br><br>
+</div>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
+</div><div style="clear: both; height: 30px;"></div></div><div class="footer"><a href="http://www.phplinkdirectory.com" title="Directory Script by PHP Link Directory">Directory Script by PHP Link Directory</a></div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32434162-1']);
+  _gaq.push(['_setDomainName', 'sswitt.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body></html>
