@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506011123id_/http%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003044418id_/http%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WeatherSpark
 
-Last Modified: November 2, 2011 (first version). 
+Last Modified: November 2, 2011 (first version).
 
 ## WeatherSpark and Vector Magic, Inc
 
@@ -38,31 +38,31 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because without cookies you will not be able to use any of our services. 
 
-Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Vector Magic and does not cover the use of cookies by any advertisers.
+Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Vector Magic and does not cover the use of cookies by any advertisers. 
 
 ## Will Vector Magic Share any of the Personal Information it receives?
 
-Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
+Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below. 
 
 _Affiliated Businesses We Do Not Control_ : We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, Vector Magic may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business. 
 
-_Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Vector Magic's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+_Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Vector Magic's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
 
-_User profiles:_ User profile information and other information you enter ("User Submissions") may be displayed to other users to facilitate user interaction within the Website. Users' email addresses will not be directly revealed to other users by Vector Magic, except when the user chooses to do so.
+_User profiles:_ User profile information and other information you enter ("User Submissions") may be displayed to other users to facilitate user interaction within the Website. Users' email addresses will not be directly revealed to other users by Vector Magic, except when the user chooses to do so. 
 
 _Communication in response to User Submissions:_ As part of the Website and services, you may receive from Vector Magic email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Vector Magic may send you email and other communication that it determines in its sole discretion relate to your User Submissions. 
 
 _Promotional Offers_ : We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, you can indicate so by selecting that option on the My Account page (as long as such option is not available, we will not send such emails). 
 
-_Business Transfers_ : In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Vector Magic, or substantially all of its assets were acquired, or in the unlikely event that Vector Magic goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Vector Magic may continue to use your Personal Information as set forth in this policy.
+_Business Transfers_ : In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Vector Magic, or substantially all of its assets were acquired, or in the unlikely event that Vector Magic goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Vector Magic may continue to use your Personal Information as set forth in this policy. 
 
-_Protection of Vector Magic and Others_ : We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Vector Magic, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+_Protection of Vector Magic and Others_ : We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Vector Magic, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-_With Your Consent_ : Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+_With Your Consent_ : Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
 
 ## Is Personal Information about me Secure?
 
-Your Vector Magic account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+Your Vector Magic account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
 
 Vector Magic endeavors to protect user information to ensure that user account information is kept private; however, Vector Magic cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
@@ -82,18 +82,18 @@ If we have collected it, Vector Magic allows you to access the following informa
 
 ## What Choices Do I Have?
 
-As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services.
+As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services. 
 
-You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
+You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
 
 You may request deletion of your Vector Magic account by selecting that option on the My Account page. Please note that some information may remain in our records after deletion of your account. 
 
-If you do not wish to receive email or other mail from us, please indicate this preference using the mechanisms provided on the Website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
+If you do not wish to receive email or other mail from us, please indicate this preference using the mechanisms provided on the Website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. 
 
 ## Changes to this Privacy Policy
 
-Vector Magic may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
+Vector Magic may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted. 
 
 ## Questions or Concerns
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message to [privacy@vectormagic.com](mailto:privacy@vectormagic.com). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message to [privacy@vectormagic.com](mailto:privacy@vectormagic.com). We will make every effort to resolve your concerns. 
