@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221901id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003051721id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - www.taafoo.com - Get it!, Love it!, ...Stay hooked! - Celebrities, Musicians, Actors, Comedians, CEOs, Brands
 
