@@ -1,33 +1,10 @@
-> *The following text is extracted and transformed from the lesbiansistas.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120174842id_/http%3A//www.lesbiansistas.com/cimages/legal/privacy.html%3Fsite%3Dlesbiansistas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbiansistas.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004011009id_/http%3A//www.lesbiansistas.com/cimages/legal/privacy.html%3Fsite%3Dlesbiansistas) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by ATS 7 Inc, Protranstech BV and Vanscot
-
-ATS 7 Inc  
-30150 Telegraph Rd  
-Suite 444  
-Bingham Farms  
-MI  
-United States  
-48025  
-
-
-Protranstech BV  
-Postbus 218  
-Ijmudien  
-Netherlands  
-1970AE  
-
-
-Vanscot  
-P.O. Box 642  
-Charlestown  
-Nevis  
-Saint Kitts and Nevis  
-
+This website (the "Site") is operated by: 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
 
@@ -72,6 +49,6 @@ There may be occasions when a subscriber will be presented with special offers e
 
 ## Terms and Conditions of Membership:
 
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](https://web.archive.org/web/20120120174842id_/http%3A//www.lesbiansistas.com/cimages/legal/terms.html?site=lesbiansistas) may also affect the right of this Site to use information that it has gathered from subscribers. 
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](https://web.archive.org/cimages/legal/terms.html?site=lesbiansistas) may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
