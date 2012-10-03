@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the esds.co.in privacy policy that was archived on 2012-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120324192244id_/http%3A//www.esds.co.in/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esds.co.in privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003202254id_/http%3A//www.esds.co.in/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>ESDS - Privacy Policy </title>
+<title>ESDS Privacy Policy | Privacy Policies Of ESDS</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="ESDS - Terms of Service">
-<meta name="keywords" content="ESDS - Terms of Service">
+<meta name="description" content="This Page Describes The Privacy Policies Of ESDS That Includes: Privacy Policy Statement, Electronic Communication, Information Protection and etc.">
+<meta name="keywords" content="privacy policies, esds privacy policies, privacy policies of esds">
 <meta name="author" content="ESDS">
 <meta name="Classification" content="Terms of Service">
 <meta name="resource-type" content="document">
@@ -17,6 +17,7 @@
 <![endif]-->
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.esds.co.in/js/jquery.min.js"></script>
+<script type="text/javascript">common=jQuery.noConflict(); // Use jQuery via jQuery(...)</script>
 <script type="text/javascript" src="http://www.esds.co.in/js/jquery.colorbox.js"></script>
 <!--Menuscript -->
 <script type="text/javascript" src="http://www.esds.co.in/js/menu.js"></script>
@@ -35,6 +36,9 @@
 <script type="text/javascript" src="http://www.esds.co.in/js/jquery.dimensions.js"></script>
 <script type="text/javascript" src="http://www.esds.co.in/js/jquery.accordion.js"></script>
 <!--Side bar script -->
+
+<!--Tab Slide Out -->
+<script type="text/javascript" src="http://www.esds.co.in/js/jquery.tabSlideOut.v1.3.js"></script>
 
 <script type="text/javascript">
   <!--sliding gallery start here-->
@@ -83,9 +87,9 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
   <!--form ends here-->
   
   <!--sidebar start here-->
-jQuery().ready(function(){
+common().ready(function(){
 	// second simple accordion with special markup
-	jQuery('#navigation').accordion({
+	common('#navigation').accordion({
 		active: false,
 		header: '.head',
 		navigation: true,
@@ -97,37 +101,37 @@ jQuery().ready(function(){
 	
 	// bind to change event of select to control first and seconds accordion
 	// similar to tab's plugin triggerTab(), without an extra method
-	var accordions = jQuery('#navigation');
+	var accordions = common('#navigation');
 	
-	jQuery('#switch select').change(function() {
+	common('#switch select').change(function() {
 		accordions.accordion("activate", this.selectedIndex-1 );
 	});
-	jQuery('#close').click(function() {
+	common('#close').click(function() {
 		accordions.accordion("activate", -1);
 	});
-	jQuery('#switch2').change(function() {
+	common('#switch2').change(function() {
 		accordions.accordion("activate", this.value);
 	});
-	jQuery('#enable').click(function() {
+	common('#enable').click(function() {
 		accordions.accordion("enable");
 	});
-	jQuery('#disable').click(function() {
+	common('#disable').click(function() {
 		accordions.accordion("disable");
 	});
-	jQuery('#remove').click(function() {
+	common('#remove').click(function() {
 		accordions.accordion("destroy");
 		wizardButtons.unbind("click");
 	});
 });
   <!--sidebar end here-->
-		jQuery(document).ready(function(){
+		common(document).ready(function(){
 			//Examples of how to assign the ColorBox event to elements
-			jQuery(".example6").colorbox({iframe:true, innerWidth:332, innerHeight:550});
-			jQuery(".example7").colorbox({iframe:true, innerWidth:630, innerHeight:500});
-			jQuery(".example8").colorbox({iframe:true, innerWidth:780, innerHeight:500});
+			common(".example6").colorbox({iframe:true, innerWidth:332, innerHeight:550});
+			common(".example7").colorbox({iframe:true, innerWidth:630, innerHeight:500});
+			common(".example8").colorbox({iframe:true, innerWidth:780, innerHeight:500});
 			//Example of preserving a JavaScript event for inline calls.
-			jQuery("#click").click(function(){ 
-				jQuery('#click').css({"background-color":"#000", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+			common("#click").click(function(){ 
+				common('#click').css({"background-color":"#000", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
 				return false;
 			});
 		});
@@ -153,6 +157,33 @@ window.onload = function(){
 
 };
 
+common(function(){
+	 common('.slide-out-div').tabSlideout({
+		 tabHandle: '.handle',                              //class of the element that will be your tab
+		 //pathToTabImage: 'images/contact_tab.gif',          //path to the image for the tab (optionaly can be set using css)
+		 imageHeight: '101px',                               //height of tab image
+		 imageWidth: '35px',                               //width of tab image    
+		 tabLocation: 'left',                               //side of screen where tab lives, top, right, bottom, or left
+		 speed: 1000,                                        //speed of animation
+		 action: 'hover',                                   //options: 'click' or 'hover', action to trigger animation
+		 topPos: '200px',                                   //position from the top
+		 fixedPosition: true                               //options: true makes it stick(fixed position) on scroll
+	 });
+ });
+
+
+function checkName(frm_id) {
+    re = /^[A-Za-z ]+$/;
+    if (re.test(document.getElementById(frm_id).value)) {
+        return true;
+    } else {
+        alert('Invalid Search.');
+        document.getElementById(frm_id).value = ''
+        return false;
+
+    }
+}
+
 </script>
 
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=59448507"></script></head>
@@ -161,8 +192,23 @@ window.onload = function(){
 <div class="wrapper_common clearfix">
   <div class="container clearfix">
         <div class="logo_header">
-      <div class="logo"><a href="http://www.esds.co.in/"><img src="http://www.esds.co.in/images/logo.jpg" width="431" height="52" alt="logo"></a><!--<br /><br /><center><img src="images/accredition.png" width="158" height="50" alt="" /></center>--></div><!--logo-->
-      <div class="live_support"><a href="Javascript:openchat();"><img src="http://www.esds.co.in/images/live_support_header.jpg" width="251" height="50"></a></div><!--live_support-->
+      <div class="logo">
+        <a href="http://www.esds.co.in/"><img src="http://www.esds.co.in/images/logo.jpg" width="431" height="52" alt="logo"></a>
+        <span>
+       ESDS Privacy Policy 
+
+        </span>
+      </div><!--logo-->
+      <!--<div class="live_support"><a href="Javascript:openchat();"><img src="http://www.esds.co.in/images/live_support_header.jpg" width="251" height="50" /></a></div>-->
+      
+      <div class="live_support">
+        <div id="proactivechatcontainerncf4z6dd6r"></div>
+        <div id="swifttagcontainerncf4z6dd6r" style="display: inline;">
+        <div id="swifttagdatacontainerncf4z6dd6r"></div>
+        <script type="text/javascript" src="https://support.esds.co.in/visitor/index.php?/esds/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPW5jZjR6NmRkNnImdmVyc2lvbj00LjUwLjE2MzYmcHJvZHVjdD1GdXNpb24mZmlsdGVyZGVwYXJ0bWVudGlkPTksOCw3LDY0LDcsNjUsNyw2Niw3LDM1LDc0LDM1LDc1LDM1LDc2LDM1JnJvdXRlY2hhdHNraWxsaWQ9MSwyLDMsNCw1JmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CmQxZWIwMTk3ZTY3ZjIwOWUxYTNmMGEzYWI5YTBkMDY5ZWY1OTFiMWE="></script></div> 
+      </div><!--live_support-->
+      
+      
       <div class="toll_free"><span>Toll Free :</span> <strong>1800 209 3006</strong><br><span>Phone :</span> <strong>+91 253 6636500</strong></div><!--toll_free-->
     </div><!--logo_header-->
     
@@ -193,16 +239,17 @@ window.onload = function(){
         <ul class="sub">
           <li class="linesb"><a href="http://www.esds.co.in/dedicated-servers-hosting-india.php">Dedicated Servers</a></li>
           <li class="linesb"><a href="http://www.esds.co.in/cloud-servers-hosting.php">Cloud Hosting</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/vlite-vps-hosting.php">vLite VPS Hosting</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/private-cloud-hosting">Private Cloud Hosting</a></li>
           <li class="linesb"><a href="http://www.esds.co.in/colocation-services-india.php">Colocation Services</a></li>
-          <li class="linesb"><a href="http://www.esds.co.in/dras/">DR as a Service</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/draas/">DR as a Service</a></li>
           <li class="linesb"><a href="http://www.esds.co.in/sap-erp/">SAP / ERP</a></li>
           <li class="linesb"><a href="http://www.esds.co.in/backup/">Backup Service</a></li>
-          <li class="linesb"><a href="http://www.esds.co.in/rds/">Remote Database Services</a></li>
           <li class="linesb"><a href="http://www.esds.co.in/email-hosting/">Email Hosting</a></li>
           <li class="linesb"><a href="http://www.host.co.in/cpanel-shared-web-hosting.php" target="_blank">Shared Hosting</a></li>
           <li class="linesb"><a href="http://www.esds.co.in/turn-key-data-centers.php">Turnkey Solutions</a></li>
           <li class="linesb"><a href="http://www.esds.co.in/corebanking/">Core Banking</a></li>
-          <li class="linesb"><a href="http://www.esds.co.in/egovernance/">E-Governance</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/rds/">Remote Database Service</a></li>
           <li><a href="http://www.esds.co.in/gis/">Geo-Spatial Information System</a></li>
         </ul>
       </li>
@@ -264,7 +311,7 @@ window.onload = function(){
         
   
         <div class="search_box">
-        <form id="searchForm2" method="post" action="http://www.esds.co.in/search.php">
+        <form id="searchForm2" method="post" action="http://www.esds.co.in/search.php" onsubmit="return checkName('s2')">
           <input name="s2" type="text" id="s2" value="Site Search" class="text_field" onblur="if (this.value == '') {this.value = 'Site Search';}" onfocus="if(this.value == 'Site Search') {this.value = '';}">
           <input type="submit" value="" id="submitButton2" class="buttons">
           <input type="hidden" name="check" value="site" id="searchSite" checked="">
@@ -351,7 +398,6 @@ window.onload = function(){
             <img src="http://www.esds.co.in/images/maha-logo.png">
             <img src="http://www.esds.co.in/images/hcl-logo.png">
             <img src="http://www.esds.co.in/images/ram-bandhu.png">
-            <img src="http://www.esds.co.in/images/ur-story.png">
             <img src="http://www.esds.co.in/images/dlink-logo.png">
             <img src="http://www.esds.co.in/images/nhsrc-logo.png">
             <img src="http://www.esds.co.in/images/aicte-logo.png">
@@ -370,6 +416,8 @@ window.onload = function(){
       
 <!--        <a href="esds_biggest_order.php">ESDS bags India's biggest cloud hosting order from IIHT Ltd.!!!</a>
 --> 
+        <a href="http://www.esds.co.in/ipv6-implementation.php">ESDS Successfully Implemented IPv6 In It's Data Center</a>
+        
         <a href="http://www.esds.co.in/bank_fedration.php">ESDS &amp; Maharashtra State Urban Bank Federation</a>
         
         <a href="http://www.esds.co.in/launch-of-enlight.php">ESDS Announces the Launch of eNlight - The Dynamic Cloud Computing Platform</a>
@@ -404,6 +452,37 @@ window.onload = function(){
 <a href="http://www.esds.co.in/images/ebrochure.pdf" class="cp" target="_blank"></a>
 </div>
 </div>
+
+        <div class="slide-out-div">
+            <a class="handle" href="javascript: void(0);">Content</a>
+            <div id="proactivechatcontaineru4qzsy5vtl"></div>
+            <div id="swifttagcontaineru4qzsy5vtl" style="display: inline;">
+            <span class="contact">Call us at 1800 209 3006</span>
+            <div id="swifttagdatacontaineru4qzsy5vtl"></div>
+            <script type="text/javascript" src="https://support.esds.co.in/visitor/visitor/index.php?/esds/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXU0cXpzeTV2dGwmdmVyc2lvbj00LjUwLjE2MzYmcHJvZHVjdD1GdXNpb24mZmlsdGVyZGVwYXJ0bWVudGlkPTksOCw3LDY0LDcsNjUsNyw2Niw3LDM1LDc0LDM1LDc1LDM1LDc2LDM1JnJvdXRlY2hhdHNraWxsaWQ9MSwyLDMsNCw1JmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CjIwNWI2MjhlNDFlNTI2MzcwOTM0MjkxZjA2ODhhMzk4OTFkZGQ5YTU="></script></div> 
+        </div><!--slide-out-div-->
+        
+<!-- BEGIN FUSION TAG CODE - DO NOT EDIT! -->
+<script type="text/javascript">
+    var swiftscriptelemncf4z6dd6r = document.createElement("script");
+    swiftscriptelemncf4z6dd6r.type = "text/javascript";
+    var swiftrandom = Math.floor(Math.random() * 1001);
+    var swiftuniqueid = "ncf4z6dd6r";
+    var swifttagurlncf4z6dd6r = "https://support.esds.co.in/visitor/index.php?/esds/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPW5jZjR6NmRkNnImdmVyc2lvbj00LjUwLjE2MzYmcHJvZHVjdD1GdXNpb24mZmlsdGVyZGVwYXJ0bWVudGlkPTksOCw3LDY0LDcsNjUsNyw2Niw3LDM1LDc0LDM1LDc1LDM1LDc2LDM1JnJvdXRlY2hhdHNraWxsaWQ9MSwyLDMsNCw1JmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CmQxZWIwMTk3ZTY3ZjIwOWUxYTNmMGEzYWI5YTBkMDY5ZWY1OTFiMWE=";
+    setTimeout("swiftscriptelemncf4z6dd6r.src=swifttagurlncf4z6dd6r;document.getElementById('swifttagcontainerncf4z6dd6r').appendChild(swiftscriptelemncf4z6dd6r);", 1);
+</script>
+<!-- END FUSION TAG CODE - DO NOT EDIT! -->
+
+<script type="text/javascript">
+    var swiftscriptelemu4qzsy5vtl = document.createElement("script");
+    swiftscriptelemu4qzsy5vtl.type = "text/javascript";
+    var swiftrandom = Math.floor(Math.random() * 1001);
+    var swiftuniqueid = "u4qzsy5vtl";
+    var swifttagurlu4qzsy5vtl = "https://support.esds.co.in/visitor/visitor/index.php?/esds/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXU0cXpzeTV2dGwmdmVyc2lvbj00LjUwLjE2MzYmcHJvZHVjdD1GdXNpb24mZmlsdGVyZGVwYXJ0bWVudGlkPTksOCw3LDY0LDcsNjUsNyw2Niw3LDM1LDc0LDM1LDc1LDM1LDc2LDM1JnJvdXRlY2hhdHNraWxsaWQ9MSwyLDMsNCw1JmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CjIwNWI2MjhlNDFlNTI2MzcwOTM0MjkxZjA2ODhhMzk4OTFkZGQ5YTU=";
+    setTimeout("swiftscriptelemu4qzsy5vtl.src=swifttagurlu4qzsy5vtl;document.getElementById('swifttagcontaineru4qzsy5vtl').appendChild(swiftscriptelemu4qzsy5vtl);", 1);
+</script>
+
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -452,5 +531,6 @@ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'skill=Sales Team';
     
     
 </div><!--wrapper-->
+
 
 </body></html>
