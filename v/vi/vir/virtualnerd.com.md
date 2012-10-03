@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualnerd.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305060908id_/http%3A//www.virtualnerd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualnerd.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003040125id_/http%3A//virtualnerd.com/privacy.php) for the most accurate reproduction.*
 
 # Virtual Nerd: Real help in math and science
 
