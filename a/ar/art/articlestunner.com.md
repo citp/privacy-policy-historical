@@ -1,47 +1,171 @@
-> *The following text is extracted and transformed from the articlestunner.com privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312174717id_/http%3A//articlestunner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlestunner.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032640id_/http%3A//www.articlestunner.com/38475/374/Legal/Article-Stunner-Privacy-Policy.html) for the most accurate reproduction.*
 
-# Articles Directory | Free Articles | New Articles Daily | Privacy Statement
+# Articles Directory | Free Articles | New Articles Daily | Article Stunner Privacy Policy
 
-YOUR SITE NAME HERE strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
+|   
+  
+---  
+  
+  
+[Arts (502)](http://www.articlestunner.com/Cat/1/0/Arts.html)  
+[Automotive (2208)](http://www.articlestunner.com/Cat/372/0/Automotive.html)  
+[Business (11709)](http://www.articlestunner.com/Cat/24/0/Business.html)  
+[Cancer Survival (32)](http://www.articlestunner.com/Cat/380/0/Cancer%20Survival.html)  
+[Computers and Technology (2457)](http://www.articlestunner.com/Cat/369/0/Computers%20and%20Technology.html)  
+[Cooking (55)](http://www.articlestunner.com/Cat/16/0/Cooking.html)  
+[Current Affairs (105)](http://www.articlestunner.com/Cat/215/0/Current%20Affairs.html)  
+[Entertainment (4215)](http://www.articlestunner.com/Cat/117/0/Entertainment.html)  
+[Family Concerns (123)](http://www.articlestunner.com/Cat/376/0/Family%20Concerns.html)  
+[Finances (1411)](http://www.articlestunner.com/Cat/226/0/Finances.html)  
+[Food and Drinks (165)](http://www.articlestunner.com/Cat/362/0/Food%20and%20Drinks.html)  
+[Gardening (162)](http://www.articlestunner.com/Cat/93/0/Gardening.html)  
+[Healthy Living (3309)](http://www.articlestunner.com/Cat/88/0/Healthy%20Living.html)  
+[Holidays (30)](http://www.articlestunner.com/Cat/242/0/Holidays.html)  
+[Home (1099)](http://www.articlestunner.com/Cat/92/0/Home.html)  
+[Internet (3079)](http://www.articlestunner.com/Cat/94/0/Internet.html)  
+[Jobs (63)](http://www.articlestunner.com/Cat/371/0/Jobs.html)  
+[Legal (491)](http://www.articlestunner.com/Cat/374/0/Legal.html)  
+[Medical (105)](http://www.articlestunner.com/Cat/49/0/Medical.html)  
+[Men Only (35)](http://www.articlestunner.com/Cat/44/0/Men%20Only.html)  
+[Outdoors (88)](http://www.articlestunner.com/Cat/166/0/Outdoors.html)  
+[Parenting (24)](http://www.articlestunner.com/Cat/375/0/Parenting.html)  
+[Pets (126)](http://www.articlestunner.com/Cat/367/0/Pets.html)  
+[Recreation (59)](http://www.articlestunner.com/Cat/366/0/Recreation.html)  
+[Relationships (180)](http://www.articlestunner.com/Cat/127/0/Relationships.html)  
+[Religion (365)](http://www.articlestunner.com/Cat/111/0/Religion.html)  
+[Self Improvement (160)](http://www.articlestunner.com/Cat/140/0/Self%20Improvement.html)  
+[Society (192)](http://www.articlestunner.com/Cat/361/0/Society.html)  
+[Sports (237)](http://www.articlestunner.com/Cat/52/0/Sports.html)  
+[Travel (1003)](http://www.articlestunner.com/Cat/53/0/Travel.html)  
+[Weddings (160)](http://www.articlestunner.com/Cat/247/0/Weddings.html)  
+[Women Only (397)](http://www.articlestunner.com/Cat/43/0/Women%20Only.html)  
+[Writing (1459)](http://www.articlestunner.com/Cat/185/0/Writing.html)  
+   
+Stats   
+---  
+Total Articles: 70351   
+Total Authors: 17224 **Newest Member**  
+quisjdfoix yshshay   
+  
+   
+  
+| 
 
-**How we gather information from users**
+    **
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, YOUR SITE NAME HERE also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
+Article Stunner Privacy Policy
 
-**What we do with the information we collect**
+**  
+  
+---  
+By : [Article Stunner](http://www.articlestunner.com/16792/Article-Stunner.html)     
+Submitted 2012-08-16 21:31:06  
+  
+Updated: July 2012   
+Guru Media (hereinafter "Guru Media ", "we", "us" or "our") respects the privacy of our users and proudly promote this Privacy Policy to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe for you the users of Articlestunner.com with how you provide us with information through various means such as registering with our site, any mail-in entries for sweepstakes or contests. The information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.   
+We encourage you to read this Privacy Policy carefully when using our services or transacting business with us. By using Articlestunner.com, you are accepting the practices described in this Privacy Policy. Articlestunner.com is a part of the Guru Media family of businesses.   
+Information we collect about you:   
+Generally: We may collect personal information that can identify you such as; your name and email address so long as you agree to provide permission to collect said information. However, we may collect other anonymous information that does not identify you, which we use to improve your online experience. When you provide personal information to Articlestunner.com, the information may be sent to servers located in the United States and other countries around the world.   
+Information you provide: We may collect and store any personal information you enter on Articlestunner.com or provide to us in some other manner including through tweeting, surveys or contests conducted on Articlestunner.com. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, and other demographic information as well as public information such as user ratings and reviews, saved restaurant and event listings, and other information you view on Articlestunner.com or its business partner?s websites.   
+Use of cookies, web beacons and other technology to collect information: We use various technologies to collect information from your computer and about your activities on Articlestunner.com.   
+Information collected automatically: We automatically collect information from your browser each time you visit Articlestunner.com. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.   
+Cookies: When you visit Articlestunner.com, we may assign your computer one or more cookies, to facilitate access to Articlestunner.com. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on Articlestunner.com. Please be aware that through the use of a cookie, we also may automatically collect information about your online activity on Articlestunner.com, such as the web pages you visit, the links you click, and the searches you conduct on Articlestunner.com.   
+Other Technologies: We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of Articlestunner.com. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon.   
+Information collected by third-parties: At times we may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements or provide applications and services on Articlestunner.com. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements or use their applications and services. Guru Media , LLC, nor Articlestunner.com provides any personal information to these third parties. This information allows them to deliver targeted advertisements and personalize online experiences as well as gauge their effectiveness.   
+How we use the information we collect:   
+Generally: We may use information that we collect about you to:   
+(a)deliver the products and services that you have requested; (b) manage your account and provide you with customer support; (c) perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; (d) communicate with you by e-mail, postal mail, social websites, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties; (e) develop and display content and advertising tailored to your interests on Articlestunner.com and other sites; (f) verify your eligibility and deliver prizes in connection with contests and sweepstakes; (g) enforce our terms and conditions; (h) manage our business and perform functions as otherwise described to you at the time of collection.   
+Financial information: We may use financial information or payment method to process payment for any purchases made on Articlestunner.com to pre-qualify you for credit card and other offers that you might find of interest, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.   
+Please review "Your choices about collection and use of your information" below.   
+Who we share your information with:   
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on Articlestunner.com or while using our services.   
+Personal information: We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:   
+Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through Articlestunner.com. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.   
+Business partners:   
+When you make purchases, reservations or engage in promotions offered through Articlestunner.com or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.   
+Direct mail partners: From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by sending an email to support@Articlestunner.com.   
+We may disclose your information:   
+In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce Articlestunner.com?s terms and conditions or other Guru Media agreements or policies.   
+In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy: The personal information which you provide to us is an asset of the company and may be included in the assets transferred in the event of a substantial corporate transaction. Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.   
+Third-party websites:   
+There are a number of places on Articlestunner.com where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on Articlestunner.com, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.   
+Your choices about collection and use of your information:   
+You can choose not to provide us with certain information, but that may result in you being unable to use certain features on Articlestunner.com, because such information may be required in order for you to have personalized recommendations presented to you; register as a member or user; purchase products or services; participate in a tweeting, contests, promotions, surveys, or sweepstakes.   
+At any time you can choose to no longer receive commercial or promotional emails or newsletters from us, you will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.   
+How we protect your personal information:   
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use firewalls to help prevent unauthorized persons from gaining access to your personal information.   
+We want you to feel confident using Articlestunner.com to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.   
+Blogs, bulletin boards, reviews and chat rooms:   
+We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of businesses, products, establishments, contractors, and the like, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.   
+Children's privacy:   
+Articlestunner.com is a general audience site, and we do not knowingly collect personal information from children under the age of 13.   
+Parents: We strongly encourage parents to spend time and monitor their children while they are online. We recommend that you spend time with your children while they are online to become familiar with the types of content available on the internet. Parents should monitor their children's use of e-mail and other online communications as well as transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for your kids.   
+Visiting our websites from outside the United States:   
+This Privacy Policy is intended to cover collection of information on Articlestunner.com from residents of the United States. If you are visiting Articlestunner.com from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.   
+No Rights of Third Parties:   
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of Articlestunner.com. 
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
+Changes to this Privacy Policy:   
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on Articlestunner.com. We recommend that you check Articlestunner.com from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.   
+How to contact us:   
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail at the following email address: support@Articlestunner.com. A member of the company will respond to your request within 48 hours, excluding holidays or weekends. Articlestunner.com will take all steps necessary to protect the Privacy of our users.   
+California Privacy Rights:   
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:   
+1\. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;   
+2\. the names and addresses of the third parties that received that information; and   
+3\. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.   
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is support@Articlestunner.com.   
+All rights reserved.   
+Cookies:   
+A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate Articlestunner.com. A persistent cookie remains on your hard drive for an extended period of time.   
+For example, when you sign in to Articlestunner.com, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. We may allow our authorized service providers to serve cookies from Articlestunner.com to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of Articlestunner.com, content and advertising.   
+You may delete or decline cookies by changing your browser settings (click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of Articlestunner.com may not function properly.   
+We may allow third-parties, advertising companies, and ad networks, to display advertisements on Articlestunner.com. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Guru Media nor Articlestunner.com provides any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness.   
+Web Beacons:   
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.   
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to Articlestunner.com from an online advertisement displayed on a third-party website.   
+IP Addresses:   
+Like most e-commerce websites, each time you visit Articlestunner.com, we automatically collect Your IP address and the web page from which you came. In order to administer and optimize Articlestunner.com for you and all other consumers, and to diagnose problems with our site, we use your IP address to help identify you and to gather broad demographic information about you the consumer.   
+  
+Author Resource:-   
+  
+Article From [Articles Directory | Free Articles | New Articles Daily](http://www.articlestunner.com/)  
+  
+  
+Related Articles :   
+  
+  * There are no related Articles.   
+Thank you. 
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
+  
+  
+**HTML Ready Article. Click on the "Copy" button to copy into your clipboard.**
 
-We may use Personally Identifiable Information collected on www.YOUR SITE NAME HERE to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.YOUR SITE NAME HERE and other topics we think you might find of interest. 
+  
+Firefox users please select/copy/paste as usual   
+  
+|    
+---  
+  
+| [Home](http://www.articlestunner.com/index.php)  
+  
+| [Login](http://www.articlestunner.com/login.php)  
+  
+| [Submit Articles](http://www.articlestunner.com/submitart.php)  
+  
+| [Submission Guidelines ](http://www.articlestunner.com/submitguide.php)  
+  
+| [Top Articles](http://www.articlestunner.com/top_authors.php)  
+  
+| [Link Directory](http://www.articlestunner.com/links.php)  
+  
+| [About Us ](http://www.articlestunner.com/about_us.php)  
+  
+| [Contact Us ](http://www.articlestunner.com/contact.php)  
+  
+| [Privacy Policy ](http://www.articlestunner.com/privacy.php)  
+  
+| [RSS Feeds](http://www.articlestunner.com/rssfeeds.php)  
+  
+  
 
-Personally Identifiable Information collected by YOUR SITE NAME HERE may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
-
-**Affiliated sites, linked sites and advertisements**
-
-YOUR SITE NAME HERE expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.YOUR SITE NAME HERE page, certain content that is actually created or hosted by a third party. Also, through YOUR SITE NAME HERE you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. YOUR SITE NAME HERE is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
-
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. YOUR SITE NAME HERE does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
-
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of YOUR SITE NAME HERE and this policy. 
-
-**Children**
-
-YOUR SITE NAME HERE does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe YOUR SITE NAME HERE has any information from or about anyone under 13, please contact us at the address listed below. 
-
-**Contacting Us**
-
-We can be reached by emailing us. 
-
-**Changes to this Policy**
-
-YOUR SITE NAME HERE reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
-
-**Governing law**
-
-This policy and the use of this Site are governed by Washington State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
-
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
