@@ -1,60 +1,102 @@
-> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018095514id_/http%3A//www.shoebuy.com/sb/customer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003113423id_/http%3A//www.shoebuy.com/info/privacy) for the most accurate reproduction.*
 
-# Shop for shoes at Shoebuy.com
+# Privacy Policy - Shoebuy.com - Free Shipping & Return Shipping
 
-|   
----  
+| 
+
+Shoebuy.com, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Shoebuy, Ask.com, Match.com, Citysearch, Vimeo, ServiceMagic, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](https://web.archive.org/i-a-c/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Shoebuy has revised its [Privacy Policy](https://web.archive.org/info/privacy-more), effective August 22, 2008, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/info/privacy-faq) for details about the changes. Please review both the Consumer Privacy statement and this site's complete Privacy Policy. 
+
+### Consumer Privacy at Shoebuy.com, Inc., an IAC Company
+
+Shoebuy is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Vimeo, Gifts.com, Match.com, ServiceMagic, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](https://web.archive.org/i-a-c/).
+
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Shoebuy, please click [here](https://web.archive.org/info/privacy-more).
+
+### Information we may collect [[Read more]](https://web.archive.org/info/privacy-more#iwc)
+
+We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
+
+We also may collect other types of information in the following ways when you visit our website:
+
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends. 
+  * We may assign your computer one or more [cookies](https://web.archive.org/info/privacy-info#cookies) which may collect information to facilitate access to our website and to personalize your online experience. 
+  * We may use standard Internet tools, such as [web beacons](https://web.archive.org/info/privacy-info#beacon), which collect information that tracks your use of our website and enables us to customize our services and advertisements. 
+
+
+
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
+
+### Information others may collect [ [Read more]](https://web.archive.org/info/privacy-more#ioc)
+
+We may allow third-party advertising companies or ad networks to display advertisements on our websites.
+
+  * We do not provide any personal information to these companies 
+  * These companies may use tracking tools, such as [cookies](https://web.archive.org/info/privacy-info#cookies), to collect information about computers used to view or interact with their advertisements. 
+  * Some of these companies may be members of the [Network Advertising Initiative](https://web.archive.org/networkadvertising/), which offers consumers the ability to opt out of ad targeting by all member companies. 
+
+
+
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+
+### How we may use information we collect [[Read more]](https://web.archive.org/info/privacy-more#hwu)
+
+We may use information to:
+
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Customize the advertising and content that you see on our website;
+  * Facilitate use of our website;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website; and
+  * Enforce our Terms of Use.
+
+
+
+### With whom we may share information we collect [[Read more]](https://web.archive.org/info/privacy-more#ww)
+
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
+
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+
+
+
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
+
+### Your choices [ [Read more]](https://web.archive.org/info/privacy-more#yc)
+
+You may choose:
+
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by clicking [here](https://web.archive.org/remove);
+  * To delete or decline [cookies](https://web.archive.org/info/privacy-info#cookies) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account;
+  * Your California Privacy Rights. If you are a California resident, you may request that Shoebuy not share your personal information with IAC companies or other third parties for direct marketing purposes. Click [here](https://web.archive.org/info/privacy-more#cali) to learn how. 
+
+
+
+### Security [[Read more]](https://web.archive.org/info/privacy-more#sec)
+
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. 
+
+### Changes to our Privacy Policy
+
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+
+### How to contact us
+
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/info/privacy-more), or our information practices, please contact us by email or postal mail below:
+
+Privacy Officer  
+Shoebuy.com, Inc.  
+101 Arch Street, 16th Floor  
+Boston, MA 02110
+
+[privacy@shoebuy.com](mailto:privacy@shoebuy.com)
+
+Back to Top | [Back to Homepage](https://web.archive.org/)  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-   
-  
-  | |    
-[Customer Service](https://web.archive.org/sb/customer): Privacy Policy   
-Thank you for visiting Shoebuy.com. Shoebuy respects your privacy and we understand and share your concern about the privacy of your personal information. This notice describes our privacy policies. By visiting Shoebuy.com, you are confirming your agreement to the privacy policies described in this Privacy Policy. 
-
-**Information We Collect**
-
-We collect and store any information that you may enter on any of our web sites or provide to us in some other way. For example, when you place an order and/or sign-up for email communications and updates, we collect and store personal information so that we may provide the products and services that you have ordered or requested. Such information may include your name, address, age, date of birth, gender, education level, email address, telephone and fax numbers, credit card information and information about your interests and activities. You can choose not to provide certain types of information, but that may result in you being unable to use certain features of our web site(s). We may also collect and store information about other people that you provide to us. For example, you may submit a person's name and address if you wish us to ship a product as a gift to a friend.
-
-We may also automatically collect and store certain types of non-personally identifiable information whenever you visit any of our web pages. For example, like most commercial shopping web sites, we use "cookies" and we obtain certain types of information whenever your web browser accesses any Shoebuy web site. Such information may include the type of web browser you are using, the operating system of your computer and the domain name of your internet service provider. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience. Utilities are available from third parties to help you visit web sites anonymously, but use of such utilities may also prevent us from providing you with the best shopping experience at Shoebuy. 
-
-**Use of Information**
-
-All personal information that we collect from our customers is used to improve our relevance to you and to improve your shopping experience with us. We use the information that you provide so that we may provide the products and services that you have ordered or requested. In addition, we may send you (via email or other means) offerings of products or services which we think may be of interest to you or we may ask you to participate in activities such as special surveys. At any time, you can choose to no longer receive any non-transactional emails from Shoebuy by accessing [http//www.shoebuy.com/remove](http://www.shoebuy.com/remove) and entering the email address to which the email was originally addressed. You may also unsubscribe from other campaigns that you have previously opted to receive by following the instructions on the bottom of the specific campaign.
-
-We will not share the personal information which you provide to us except (i) for the purposes that you provided it to us, (ii) with your prior consent, (iii) as may be required by law as we reasonably deem necessary to protect Shoebuy or others from injury or loss, or (iv) with other persons or entities with whom we contract to provide services in connection with our web site(s) or other business activities. If we do share such personal information with a third party, we will, to the extent practical, require that the recipient protect that information in a manner consistent with this Privacy Policy. However, we cannot guarantee how such a third party will use personal information.
-
-We sometimes use non-personally identifiable, summary or aggregate information that we collect to improve the design and content of our web sites(s) and to enable us to further enhance your shopping experience with Shoebuy. We may also share such aggregate information with third parties for that purpose.
-
-The personal information which you provide to Shoebuy is an asset of the company and may be included in the assets transferred to an acquirer if Shoebuy is acquired by a third party. In the event of such a transfer, any personal information transferred should remain subject to the terms and promises contained in this Privacy Policy.
-
-**Security**
-
-We believe that Shoebuy has in place appropriate procedures to protect the security of personal information transmitted to us or by us. We have designed our web site(s) to encrypt such information during transmission using Secure Sockets Layer software. 
-
-**Access to and Correction of Personal Information**
-
-Shoebuy gives you access to the personal information that we have collected about you and the ability to correct any errors in such information. For instructions on how to access and/or make corrections to your personal information please [click here](https://www.shoebuy.com/cust). 
-
-**Children's Privacy**
-
-Our web sites(s) are not directed toward children under the age of 13 and Shoebuy does not sell products for purchase by children. We do sell products for children for purchase by adults. We do not knowingly collect information from anyone under the age of 13. 
-
-**Terms of Use, Notices and Revisions**
-
-If you visit any Shoebuy web site, your visit and any dispute concerning privacy will be subject to this Privacy Notice and our [Terms of Use](http://www.shoebuy.com/sb/customer/terms.jsp). Our business continues to develop and evolve and this Privacy Notice and our Terms of Use will accordingly change from time to time. We may send you reminders of our privacy policies and terms from time to time, by email or otherwise, unless you have told us not to do so. However, you should check our web site(s) from time to time to inform yourself of any changes. The form of our Privacy Policy in effect from time to time will apply to all information that we have collected. 
-
-**Related Information**
-
-[Terms of Use](http://www.shoebuy.com/sb/customer/terms.jsp)
-
-Back to Top   |   [Back to Homepage](https://web.archive.org/)
+---|---
