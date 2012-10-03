@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanced-web-metrics.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615031135id_/http%3A//www.advanced-web-metrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanced-web-metrics.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003021649id_/http%3A//www.advanced-web-metrics.com/privacy.php) for the most accurate reproduction.*
 
 # Advanced Web Metrics
 
@@ -24,9 +24,9 @@ If you have registered for the [Pro Lounge](https://web.archive.org/blog/login),
 
 ## 3rd Party Tracking
 
-If you have read my posts in the [privacy and accuracy category](http://www.advanced-web-metrics.com/blog/category/privacy-accuracy/), you will know my position on 3rd party tracking - essentially I am not a fan i.e. the setting of 3rd-party cookies (quite the contary!). That said, I use [AddThis](http://addthis.com/) to embed social "love" buttons. Please be aware that AddThis sets 3rd-party cookies.
+If you have read my posts in the [privacy and accuracy category](http://www.advanced-web-metrics.com/blog/category/privacy-accuracy/), you will know my position on 3rd party tracking - essentially I am not a fan i.e. the setting of 3rd-party cookies (quite the contary!). That said, I use [AddThis](http://addthis.com/) to embed social "love" buttons. If you click on a social love button, most will set a third-party cookie e.g. Twitter, Google +1, Facebook etc. Unfortunately, there is no way around this if you wish to share content socially - social networks use 3rd-party cookies.
 
-My advice is to set your browser to always block 3rd-party cookies - the social buttons will still work, just no data sent to AddThis. I am working on an alternative 1st party solution for this... 
+My advice is to set your browser to always block 3rd-party cookies. The social buttons will still work, just no visitor data sent to them. Note that I have configured AddThis itself to _not_ track you (using data_use_cookies:false).
 
 ## Further Information 
 
