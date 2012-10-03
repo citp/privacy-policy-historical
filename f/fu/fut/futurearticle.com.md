@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurearticle.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402052503id_/http%3A//www.futurearticle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurearticle.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003152816id_/http%3A//www.futurearticle.com/privacy.php) for the most accurate reproduction.*
 
 # FutureArticle - Free Website Content, Article Publishing, and Backlinks for your Website | Privacy Statement
 
