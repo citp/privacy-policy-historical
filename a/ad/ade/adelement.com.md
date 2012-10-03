@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2012-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120102222112id_/http%3A//adelement.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003021223id_/http%3A//adelement.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy @ AdElement
 
 * * *
 
-_Last Updated: 07 Feb 2011_
+_Last Updated: 21 May 2012_
 
 * * *
 
@@ -80,6 +80,10 @@ We collect aggregate or non-PII information that includes, but is not limited to
 ### Cookies
 
 We use cookies and web beacons on our partner and our client websites to collect aggregate non-PII data including but not limited to interests, behaviors, type of activity, pages visited, date/time of visit, ip address, browser, ISP. This information is used make advertisements more relevant to you and or measure success of our or our clients advertising campaigns.
+
+### Opting Out of Behavioral Advertising
+
+If you'd like to opt out from AdElement collecting your Non-PII in connection with serving behavioral ads on our network of web sites, please [click here](http://www.adelement.com/company/optout/?type=optout). When you opt out, an opt out cookie is placed on your computer. This cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. Please note that if you change your computer, change your Internet browser (e.g. from Chrome to Firefox), or delete all your cookies, you will need to renew your opt out. You can check your [opt out status here](http://www.adelement.com/company/optout).
 
 ### Third Party Websites
 
