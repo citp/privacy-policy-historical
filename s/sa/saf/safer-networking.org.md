@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the safer-networking.org privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003225840id_/http%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Spybot © ™ - Search & Destroy
+
+If you connect to any web server, you transmit your Internet Protocol (IP) and some demographic information. Safer-Networking Ltd. anonymizes its visitors IP addresses so as not to collect potentially personally identifying information. Information we gather is not used for any other purposes than having a look at basic, anonymous statistics.
+
+Certain visitors to Safer-Networking Ltd’s websites choose to interact with Safer-Networking Ltd. in ways that require Safer-Networking Ltd. to gather personally identifying information. The amount and type of information that Safer-Networking Ltd. gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a user-name and email address. In each case, Safer-Networking Ltd. collects such information only as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Safer-Networking Ltd. Safer-Networking Ltd. does not disclose personally identifying information other than as described below. Visitors can always refuse to supply personally identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+Safer-Networking Ltd. will not rent or sell potentially personally identifying or personally identifying information to anyone.
+
+If you have registered to receive news bulletins or product update information from Safer-Networking Ltd. and have supplied your email address, Safer-Networking Ltd. may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Safer-Networking Ltd. and our products. We primarily use our Forums to communicate this type of information, so we keep this type of email to a minimum.
+
+If you do participate in our support forum, please keep in mind that due to the nature of online forums, any information you choose to post there is public, along with your chosen username and optional signature, so please make sure your posts do not show your email address, phone number, or other personal information you might not want to reveal.
+
+Personal forum registration information such as your email address, birth date and IP addresses are kept confidential. We might share this information with trusted support members of Team Spybot, but only those who have signed an NDA not to disclose or share any of the information on their part.
+
+If you contact us via email, your email will be treated confidential the same way, shared only with trusted support members of Team Spybot, but only those who have signed an NDA not to disclose or share any of the information on their part.
+
+Any information you provide will be used only to help us support you, and in case of technical logs to help you by using them to improve our software. Such log analysis results are not stored in any relation to your identity except for our distributed testing system (optional download, not part of our regular software) and there only if you choose to voluntarily provide your forum username and/or email address, which will then only be used to contact you about infections or false positives. Information provided by email will be stored along with the email as long as required by the law.
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Safer-Networking Ltd. uses cookies to help Safer-Networking Ltd. identify and track visitors, their usage of Safer-Networking Ltd. website, and their website access preferences. Safer-Networking Ltd. visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Safer-Networking Ltd’s websites, the drawback of doing this is that certain features of Safer-Networking Ltd’s websites may not function properly without the aid of cookies.
+
+Although any Privacy Policy Changes changes are likely to be minor, Safer-Networking Ltd. may change its Privacy Policy from time to time, and in Safer-Networking Ltd’s sole discretion. Safer-Networking Ltd. encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
