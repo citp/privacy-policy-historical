@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603055322id_/http%3A//www.deluxe.com/privacy-terms/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004013044id_/http%3A//www.deluxe.com/privacy-terms/index.jsp) for the most accurate reproduction.*
 
 # Privacy & Terms - Deluxe Corp
 
@@ -6,9 +6,9 @@
 
 Deluxe Corporation (“Deluxe”) owns several businesses, serving customers who have specific and unique privacy concerns. Deluxe's privacy policies reflect our commitment to respond to the changing needs and concerns of consumers, small businesses, financial services companies, and regulators. To learn more about our privacy practices by business model, please read our full privacy policies.
 
-[ Deluxe for Business Privacy Policy](https://web.archive.org/web/20120603055322id_/http%3A//www.deluxe.com/privacy-terms/businesses.jsp) 
+[ Deluxe for Business Privacy Policy](https://web.archive.org/web/20121004013044id_/http%3A//www.deluxe.com/privacy-terms/businesses.jsp) 
 
-[ Deluxe Consumer Privacy Policy](https://web.archive.org/web/20120603055322id_/http%3A//www.deluxe.com/privacy-terms/individuals.jsp) 
+[ Deluxe Consumer Privacy Policy](https://web.archive.org/web/20121004013044id_/http%3A//www.deluxe.com/privacy-terms/individuals.jsp) 
 
 ### Privacy Program Guiding Principles
 
