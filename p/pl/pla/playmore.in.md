@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playmore.in privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208104642id_/http%3A//www.playmore.in/default/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmore.in privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003025035id_/http%3A//www.playmore.in/default/privacy-policy) for the most accurate reproduction.*
 
-# PlayMore.in : Privacy Policy : Buy Sports/Toys/Electronics/Home Appliances Online India
+# Privacy Policy - Price in India, Reviews, Ratings & Specifications | PlayMore.in
 
 This privacy policy sets out how PlayMore uses and protects any information that you give PlayMore when you use this website.
 
@@ -70,7 +70,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 Company Name: PlayMore
 
 Address: #6, Vysya bank colony II, 100 feet ring road, BTM Layout 2nd stage, Bangalore-560076
-
-Telephone No: 9900440125
-
-E-Mail ID: sales@playmore.in
