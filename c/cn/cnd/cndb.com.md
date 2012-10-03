@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424042552id_/http%3A//cndb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003043523id_/http%3A//cndb.com/privacy.html) for the most accurate reproduction.*
 
 # Celebrity Nudity Database Privacy Policy, nude celeb movie and television reviews | CNdb.com
 
