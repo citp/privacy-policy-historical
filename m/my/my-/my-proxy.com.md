@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the my-proxy.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502204158id_/http%3A//www.my-proxy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-proxy.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003230026id_/http%3A//www.my-proxy.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - My-Proxy
+# Privacy Policy
 
 ### Privacy Policy
 
