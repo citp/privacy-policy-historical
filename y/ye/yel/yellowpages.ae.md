@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yellowpages.ae privacy policy that was archived on 2012-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120405034241id_/http%3A//yellowpages.ae/StaticPages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.ae privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003045634id_/http%3A//www.yellowpages.ae/privacy-policy.html) for the most accurate reproduction.*
 
-# Yellow Pages - UAE's Official Online Yellow Pages/Business Directory
+# Privacy Policy | Yellowpages.ae
 
-#### Privacy Policy
+####  Privacy Policy
 
 This Privacy and Security Policy addresses the privacy of visitors to the YellowPages.ae website. It identifies the type of data and information Etisalat Information Services collects from visitors, how we use and disclose it, and the steps we take to secure your privacy. 
 
