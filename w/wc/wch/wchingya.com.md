@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wchingya.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605094139id_/http%3A//www.wchingya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchingya.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003085549id_/http%3A//www.wchingya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social @ Blogging Tracker
-
-## Privacy Policy
 
 **Privacy Policy for www.wchingya.com**
 
