@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pdfbook.co.ke privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622063702id_/http%3A//pdfbook.co.ke/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbook.co.ke privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003044804id_/http%3A//www.pdfbook.co.ke/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_**Privacy Policy:**_
 
 This privacy policy sets out how www.pdfbook.co.ke uses and protects any information that you give when you use this website. 
 
