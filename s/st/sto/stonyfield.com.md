@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stonyfield.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601082216id_/http%3A//www.stonyfield.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonyfield.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004003314id_/http%3A//www.stonyfield.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Stonyfield Farm
 
