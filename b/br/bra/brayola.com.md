@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429121126id_/http%3A//www.brayola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003031614id_/http%3A//brayola.com/privacy) for the most accurate reproduction.*
 
 # brayola | Privacy policy
 
-[](https://web.archive.org/) already a brayola member?
+already a brayola member? [brayola logo](https://web.archive.org/)
 
-join brayola
+save your drawer & join brayola
 
-girls, only for log in purposes everything remains private
+save your drawer & join brayola
 
-sign in to brayola
+**are you sure you don't want to save your drawer?**  
+If you don't save your brayola drawer all the bras you've added will be lost 
 
-girls, only for log in purposes everything remains private
+  * yes I'm sure
+
+cancel
+
+
+
 
   * enter your email and we'll reset your password
 
@@ -21,9 +27,9 @@ girls, only for log in purposes everything remains private
 
 
 
-An email has been sent to you with a link to reset your password
+an email has been sent to you with a link to reset your password
 
-The email entered is not registered
+the email entered is not registered
 
 cant find your bra?
 
@@ -39,6 +45,20 @@ cant find your bra?
 
 
 Thank you for your feedback. We'll let you know when your bra has been added to brayola! 
+
+  * want to win a free bra & panty set?  
+invite your BFF to join brayola  
+
+  *   * don't show me this message
+
+
+
+  * Thanks for inviting your BFF!  
+You have now been entered into the lucky draw :) 
+  * continue shopping
+
+
+
 
 This privacy statement explains the privacy practices of Brayola for users of the Site. If not specifically defined herein, capitalized terms have the meaning given to them in the Brayola Terms of Service, which is available at [brayola.com/terms](http://brayola.com/terms). 
 
