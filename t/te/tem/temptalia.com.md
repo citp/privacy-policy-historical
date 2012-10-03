@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607022709id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003235856id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
 
 # Temptalia.com Privacy Policy
 
