@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freefblike.com privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326212425id_/http%3A//freefblike.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefblike.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003041201id_/http%3A//freefblike.com/privacy-policy.php) for the most accurate reproduction.*
 
-# FREE Facebook Fans and Websites Share
+# Get Facebook Likes, Tweets, Google Plus and LinkedIn Share. - Free Likes Tweets Google Plus Sharing
+
+[ Facebook ](http://developers.facebook.com/policy/) \- [ Google ](http://www.google.com/webmasters/+1/button/policy.html) \- [ Twitter ](https://twitter.com/privacy) \- [ LinkedIn ](http://www.linkedin.com/static?key=privacy_policy)
 
 This Policy applies as to all products and services provided by Freefblike the owner and provider of Freefblike, and yourself the User of Freefblike. This Policy applies to our use of any and all Data collected by us in relation to your use of Freefblike and any Services or Systems therein.
 
