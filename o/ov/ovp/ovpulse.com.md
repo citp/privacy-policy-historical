@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovpulse.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423183933id_/http%3A//ovpulse.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovpulse.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003190250id_/http%3A//ovpulse.com/ppolicy.php) for the most accurate reproduction.*
 
 # 
 
@@ -13,6 +13,8 @@ A "cookie" is a small file that we save on your computer's hard drive that conta
 
 IP Address  
 Each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 Banner Ads  
 The Services may include the use of ad banner partners for the serving and/or targeting of ads, promotions, and other marketing messages. These ads may be provided, in some cases, by a third party ad service provider. The ad service provider may place or utilize their own unique cookie on your browser, and may use non-personally identifiable information about your visit to our sites, such as the number of times you have viewed the ad. OVPulse is not responsible for the collection of these cookies and is not responsible for the actions of the ad service providers. OVPulse does not sponsor, endorse or guarantee any products or services advertised by third parties on its site. 
