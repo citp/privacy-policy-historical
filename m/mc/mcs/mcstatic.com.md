@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcstatic.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614024631id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcstatic.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003230905id_/http%3A//www.metacafe.com/privacy/%23Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ Metacafe does not require that you accept cookies, and you may disable cookies a
 
 We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you disable Flash cookies, you won't have access to many features that make your guest experience more efficient and some of our services will not function properly. 
 
-Click [here](https://secure.metacafe.com/account/login/?token=cc6207f616b24881a96d35b888e7f9f4) to cancel an existing account.
+Click [here](https://secure.metacafe.com/account/login/?token=541878bcda20dcdc7aa2e1a8ba7bb378) to cancel an existing account.
 
 ### Security
 
