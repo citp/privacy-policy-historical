@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interplas.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508183527id_/http%3A//www.interplas.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interplas.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003213509id_/http%3A//www.interplas.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>International Plastics Privacy Policy</title>
@@ -9,7 +9,7 @@
 <meta name="robots" content="All">
 <meta name="copyright" content="Copyright 1996-2012 International Plastics, Inc.">
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/css/index.css">
+<link rel="stylesheet" type="text/css" href="/css/index.css?ver=3">
 <link rel="stylesheet" type="text/css" href="/product_images/custom.css">
 <link rel="stylesheet" type="text/css" href="/css/menus.css">
 <link rel="stylesheet" type="text/css" href="/css/contentslider.css">
@@ -18,6 +18,9 @@
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <link type="text/css" rel="stylesheet" href="/floatbox/floatbox.css?v=5.20">
 <script type="text/javascript" src="/floatbox/floatbox.js?v=5.20"></script>
+<link type="text/css" rel="stylesheet" href="/css/validationEngine.jquery.css?v=4">
+<script type="text/javascript" src="/jscripts/jquery.validationEngine-quote.js?v=4"></script>
+<script type="text/javascript" src="/jscripts/jquery.validationEngine26.js?v=4"></script><script type="text/javascript" src="https://web.archive.org/floatbox/options.js?15804967"></script>
 <script type="text/javascript">
 <!--
 function addCommas( sValue )
@@ -48,13 +51,78 @@ if(isEmpty(document.quoteform.contactus_contact_name.value) ||
 }
 // -->
 </script>
-<script type="text/javascript" src="/jscripts/contentslider.js"></script><script type="text/javascript" src="https://web.archive.org/floatbox/options.js?15804967"></script>
+<script type="text/javascript" src="/jscripts/contentslider.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
-  $('.tdmac5 a:not(:has(img))').append(' »');
+  // $('.tdmac5 a:not(:has(img))').append(' »');
+
+  //jquery.validationEngine form validation 
+  $("#ip_rfq_form").validationEngine(); 
+
+  $.fn.textfill = function(options) {
+    var defaults = {
+      maxFontPixels: 40,
+      minFontPixels: 4,
+      innerTag: 'span',
+      widthOnly: false,
+      callback: null,
+      complete: null
+    };
+    var Opts = jQuery.extend(defaults, options);
+    
+    this.each(function() {
+      var ourText = $(Opts.innerTag + ':visible:first', this);
+      var maxHeight = $(this).height();
+      var maxWidth = $(this).width();
+      var fontSize;
+      
+      var minFontPixels = Opts.minFontPixels;
+      var maxFontPixels = Opts.maxFontPixels;
+      var HfontSize = undefined;
+      if (!Opts.widthOnly) {
+        while (minFontPixels < maxFontPixels - 1) {
+          fontSize = Math.floor((minFontPixels + maxFontPixels) / 2)
+          ourText.css('font-size', fontSize);
+          if (ourText.height() < maxHeight)
+            minFontPixels = fontSize;
+          else
+            maxFontPixels = fontSize;
+        }
+        HfontSize = minFontPixels;
+        }
+
+      minFontPixels = Opts.minFontPixels;
+      maxFontPixels = Opts.maxFontPixels;
+      while (minFontPixels < maxFontPixels - 1) {
+        fontSize = Math.floor((minFontPixels + maxFontPixels) / 2)
+        ourText.css('font-size', fontSize);
+        if (ourText.width() < maxWidth)
+          minFontPixels = fontSize;
+        else
+          maxFontPixels = fontSize;
+      }
+      var WfontSize = minFontPixels
+
+      if (Opts.widthOnly)
+        ourText.css('font-size', WfontSize);
+      else
+        ourText.css('font-size', Math.min(HfontSize, WfontSize));
+
+      // call callback on each result
+      if (Opts.callback) Opts.callback(this);
+    });
+    
+    // call complete when all is complete
+    if (Opts.complete) Opts.complete(this);
+    
+    return this;
+  };
+  $(".jtextfill").textfill({ maxFontPixels: 30 });
 });
 </script>
-<script type="text/javascript" async="" src="https://vlog.leadformix.com/bf/lfx.js"></script><style type="text/css" media="screen">iframe.grelated-iframe {left:-99999px !important;display: none !important;}</style></head>
+
+
+<script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '5ebef3aede9e2a58cc429e1e3c002b14')</script><script type="text/javascript" async="" src="https://vlog.leadformix.com/bf/lfx.js"></script><style type="text/css" media="screen">iframe.grelated-iframe {left:-99999px !important;display: none !important;}</style></head>
 <body style="background-color: #C3CAD4; background-image: url('/images/gradient.jpg'); background-repeat: repeat-x;">
 <!-- ISEARCH_END_INDEX -->
 <!-- Start Main Table -->
@@ -89,6 +157,7 @@ elid_cartdesc.innerHTML='0 items in cart.'
 <table border="0" cellpadding="0" cellspacing="0" width="990">
 <tbody><tr>
 <td valign="top" style="background: url('/images/bg_left.jpg'); background-repeat: repeat-y;"><img width="10" src="/images/left.jpg" alt=""></td>
+
 <td width="100%" bgcolor="#FFFFFF" valign="top" class="normal" align="left">
 
    
@@ -183,7 +252,7 @@ elid_cartdesc.innerHTML='0 items in cart.'
 </div>
 </fieldset>
 </div>
-<div style="float: left; margin-left: 14px;" class="blu10 hpc">
+<div style="float: left; margin-left: 8px;" class="blu10 hpc">
 <fieldset style="min-width: 160px; text-align: left; border: 1px solid #305174; float: left; min-height: 160px;">
 <legend class="blu12b" style="margin-left: 5px; padding: 0px 4px; color: #305174;">Customer Service</legend>
 <div style="margin: 2px 9px;">
@@ -198,7 +267,7 @@ elid_cartdesc.innerHTML='0 items in cart.'
 </div>
 </fieldset>
 </div>
-<div style="float: left; margin-left: 14px;" class="blu10 hpc">
+<div style="float: left; margin-left: 8px;" class="blu10 hpc">
 <fieldset style="min-width: 160px; text-align: left; border: 1px solid #305174; float: left; min-height: 160px;">
 <legend class="blu12b" style="margin-left: 5px; padding: 0px 4px; color: #305174;">Company Info</legend>
 <div style="margin: 2px 9px;">
@@ -211,7 +280,7 @@ elid_cartdesc.innerHTML='0 items in cart.'
 </div>
 </fieldset>
 </div>
-<div style="float: left; margin-left: 14px;" class="blu10 hpc">
+<div style="float: left; margin-left: 8px;" class="blu10 hpc">
 <fieldset style="min-width: 160px; text-align: left; border: 1px solid #305174; float: left; min-height: 160px;">
 <legend class="blu12b" style="margin-left: 5px; padding: 0px 4px; color: #305174;">Site Info</legend>
 <div style="margin: 2px 9px;">
@@ -219,7 +288,8 @@ elid_cartdesc.innerHTML='0 items in cart.'
 <a rel="nofollow" href="http://www.interplas.com/info/privacy-policy">Privacy Policy</a><br>
 <a rel="nofollow" class="hph" href="http://www.interplas.com/international-plastics-sitemap.html">Site Map</a><br>
 <a href="http://www.interplas.com/">Plastic Bags</a><br>
-<a rel="nofollow" href="/product_images/ibox_pages/newsletter.html" class="floatbox" data-fb-options="type:ajax width:340">Subscribe to Newsletter</a>
+<a rel="nofollow" href="/product_images/ibox_pages/newsletter.html" class="floatbox" data-fb-options="type:ajax width:340">Subscribe to Newsletter</a><br>
+<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-interplas" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/r/5e/be/5ebef3aede9e2a58cc429e1e3c002b14.png" alt="International Plastics is an Upfront Merchant on TheFind. Click for info."></a><script type="text/javascript"> (function() { var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true; upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js"; upfront.text = "thefind.upfront.init('tf_upfront_badge', '5ebef3aede9e2a58cc429e1e3c002b14')"; document.getElementsByTagName('HEAD')[0].appendChild(upfront); })(); </script>
 </div>
 </fieldset>
 </div>
@@ -229,8 +299,8 @@ elid_cartdesc.innerHTML='0 items in cart.'
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td valign="top">
-<img border="0" src="/images/comodo-cards.png" alt="Accepted Credit Cards" width="126" height="59"><div style="margin: 8px 0px 0px 6px;">
-<a target="_blank" href="http://blog.interplas.com/" style="background: transparent;"><img class="opaq" style="border:0px; display: inline;" src="/images/social-networking-blog.png" width="24" height="24"></a><a target="_blank" href="http://twitter.com/#!/interplas" style="background: transparent;"><img class="opaq" style="border:0px; margin-left: 6px; display: inline;" src="/images/social-networking-twitter.png" width="24" height="24"></a><a target="_blank" href="http://www.facebook.com/InternationalPlastics" style="background: transparent;"><img class="opaq" style="border:0px; margin-left: 6px; display: inline;" src="/images/social-networking-facebook.png" width="24" height="24"></a><a target="_blank" href="http://www.youtube.com/user/internationalplastic" style="background: transparent;"><img class="opaq" style="border:0px; margin-left: 6px; display: inline; " src="/images/social-networking-youtube.png" width="24" height="24"></a></div>
+<img border="0" src="/images/comodo-cards.png" alt="Accepted Credit Cards" width="126" height="59" style="margin-left: 12px;"><div style="margin: 8px 0px 0px 6px;">
+<a target="_blank" href="https://plus.google.com/105970559090028498825" rel="publisher" style="background: transparent;"><img class="opaq" style="border:0px; display: inline;" src="/images/social-networking-google-plus.jpg" alt="International Plastics on Google+" width="24" height="24"></a><a target="_blank" href="http://blog.interplas.com/" style="background: transparent;"><img class="opaq" style="border:0px; margin-left: 6px; display: inline;" src="/images/social-networking-blog.png" width="24" height="24"></a><a target="_blank" href="http://twitter.com/#!/interplas" style="background: transparent;"><img class="opaq" style="border:0px; margin-left: 6px; display: inline;" src="/images/social-networking-twitter.png" width="24" height="24"></a><a target="_blank" href="http://www.facebook.com/InternationalPlastics" style="background: transparent;"><img class="opaq" style="border:0px; margin-left: 6px; display: inline;" src="/images/social-networking-facebook.png" width="24" height="24"></a><a target="_blank" href="http://www.youtube.com/user/internationalplastic" style="background: transparent;"><img class="opaq" style="border:0px; margin-left: 6px; display: inline; " src="/images/social-networking-youtube.png" width="24" height="24"></a></div>
 </td>
 
 <td valign="top">
@@ -250,7 +320,7 @@ elid_cartdesc.innerHTML='0 items in cart.'
 <tr>
 
 <td colspan="2" align="center">
-<div style="position: relative; width: 212px; height: 42px; background: url('/images/iso-bbb.png') no-repeat scroll 0% 0%; margin-top: 6px;"><div style="position: absolute; left: 0px; top: 0px; width: 98px; height: 42px; cursor: pointer;" onclick="self.location.href = 'http://www.bbb.org/nw-south-carolina/business-reviews/packaging-materials/international-plastics-inc-in-greenville-sc-13001232/'"></div><div style="position: absolute; left: 98px; top: 0px; width: 114px; height: 42px; cursor: pointer;" onclick="self.location.href='http://www.interplas.com/info/ISO-Certified'"></div></div>
+<div style="position: relative; width: 212px; height: 42px; background: url('/images/iso-bbb.png') no-repeat scroll 0% 0%; margin-top: 6px;"><div style="position: absolute; left: 0px; top: 0px; width: 98px; height: 42px; cursor: pointer;" onclick="window.open('http://www.bbb.org/nw-south-carolina/business-reviews/packaging-materials/international-plastics-inc-in-greenville-sc-13001232/','BBB','width=400,height=600')"></div><div style="position: absolute; left: 98px; top: 0px; width: 114px; height: 42px; cursor: pointer;" onclick="self.location.href='http://www.interplas.com/info/ISO-Certified'"></div></div>
 </td>
 
 </tr>
