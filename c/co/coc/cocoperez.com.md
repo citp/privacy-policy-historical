@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocoperez.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501140055id_/http%3A//cocoperez.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocoperez.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003052204id_/http%3A//cocoperez.com/privacy-notice) for the most accurate reproduction.*
 
 # Internet Privacy Notice | CocoPerez.com
 
