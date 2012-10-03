@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the brayola.com privacy policy that was archived on 2012-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120429121126id_/http%3A//www.brayola.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brayola.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003031614id_/http%3A//brayola.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>  
-<meta name="Description" content="brayola was created for women like you, who just want to be able to find the perfect bra. With the help of other women around the world, sharing their bras that they love, you can now discover your next favorite bra">
-<meta name="Keywords" content="bras, women, bra, favorite bra, bra discovering, personal shop, t-shirt bras, strapless bras, nursing bras, DD+ bras, sport bras, push up bras  ">
+<!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--[if lt IE 9]>
 <script>
 document.createElement('header');
@@ -19,20 +21,24 @@ document.createElement('hgroup');
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var mydrawer = false;
+
 var user = {id: null, connected:false, guest: false};
 var live = true;
 var fbi = {appId: 135735569869732};
 </script>
 
-<link href="/static/css/css.css" media="screen" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="/static/plugins/noty/jquery.noty.css">
-<link rel="stylesheet" type="text/css" href="/static/plugins/noty/noty_theme_default.css">
+<link href="/static/css/css.2.25.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/static/bootstrap/css/bootstrap.2.25.css" media="screen" rel="stylesheet" type="text/css">
+
+
+
+
 
 <!--[if lt IE 9]>
 <link href="/static/css/ie.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 <title>brayola | Privacy policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon">
@@ -52,6 +58,18 @@ var fbi = {appId: 135735569869732};
 
 </script>
 
+<script type="text/javascript">
+    // enable XHR wrapper
+    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
+</script>
+<script type="text/javascript">
+    document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+  'https://clicktale.pantherssl.com/' :
+  'http://s.clicktale.net/') +
+"XHRWrapper.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktale.pantherssl.com/XHRWrapper.js" type="text/javascript"></script>
+
 
 
 </head>
@@ -61,81 +79,162 @@ var fbi = {appId: 135735569869732};
 
 <div class="container">
     <div id="current_bra"></div>
-	<header>	
-            <a href="/" class="logo"></a>			
-            <span class="sign_in">already a brayola member?</span>          	
-            <div class="dashedLine"><div class="frost"></div></div>
-	</header>
+    <header>
+       <style>
+
+
+body{
+  background: url('/static/layout/images/header_pattern.jpg') repeat-x;
+}
+
+header{
+  height: 132px;
+  margin-bottom: 10px;
+}
+
+header li {
+  float: left;
+}
+
+</style><style>
+    #search{
+  position: absolute;
+  right: 360px;
+  top: 43px;
+}
+
+#search label{
+  overflow: hidden;
+}
+</style>
+        <div style="float: right;">
+            <fb:like href="http://www.facebook.com/brayolaShop" [^]="" show_faces="false" font="arial" width="90px" data-layout="button_count"></fb:like>
+        </div>
+        <span class="sign_in member">already a brayola member?</span> 
+        
+        <a href="/" class="logo">brayola logo</a>
+        <div id="search">
+        <form method="get" action="/search"> 
+            <input type="text" name="text" placeholder="search for bras" value="" style="width: 200px;line-height: 22px;height: 22px;z-index: 1;">
+            <input type="submit" id="go" value="go">
+        </form>
+        </div>    </header>
+
+
 
     <div id="connectDialog">
     <div class="content" style="margin-bottom: 10px;">
 
         <div class="loginPanel panel">
-            <div style="font-weight:bold; margin-bottom: 10px;text-align: center;" class="caption">join brayola</div>
-            <div style="text-align: left;margin-bottom: 10px;">
+            <div style="font-weight:bold; margin-bottom: 10px;text-align: center; margin-right: 20px;" class="caption"> save your drawer &amp; join brayola</div>
+<!--            <div style="text-align: left;margin-bottom: 10px;">
                 not a member yet? <a href="#" class="join_now">join now</a>
-            </div>
+            </div>-->
             <form id="LoginForm" enctype="application/x-www-form-urlencoded" class="LoginForm" action="/user/account/login" method="post">
                 <p class="error"></p>
                 <ul>
-                    <li>
+                    <li>sign in</li>
+                    <li class="dontshowme"><input type="text" name="dontshowme"></li>
+                    <li class="nickname">
                         <input type="email" name="email" id="email" class="validate[required]" placeholder="email / brayola secret name">
                     </li>
 
-                    <li>
+                    <li class="password">
                         <input type="password" name="password" id="password" class="validate[required]" placeholder="password">
                     </li>
                         
+                    <li class="rememberme">
+                        <label class="checkbox">
+                            <input type="checkbox" id="rememberme" name="rememberme" value="true" style="position: absolute;left: -9999px;">
+                            <div class="box" style="display: block;margin: 0 5px 0 0;"></div>
+                            <div class="label" style="font-size: 12px;font-weight: bold;line-height: 13px;">
+                            remember me
+                            </div>
+                            <a href="#" class="forgotpasslink">I forgot my password</a>
+                        </label>
+                    </li>
                     <li>
-                        <p class=""><a href="#" class="forgotpasslink">forgot it?</a></p>
+                        
 
                         <div class="button plus submit" style="float: left;">sign in</div>
-                        <div class="button facebook fbconnect">connect</div>
+                        <div style="float: right; margin-bottom: 10px; margin-top: 13px; font-size: 11px;">
+                            not a member yet? <a href="#" class="join_now">sign up</a>
+                        </div>
+                    </li>
+                </ul>
+                <ul>
+                    <li>or use</li>
+                    <li><div class="button facebook fbconnect">connect with facebook</div></li>
+                    <li><div class="button google">connect with google</div></li>
+                    <li style="font-size: 11px; font-weight: bold; width: 210px;">
+                            girls, only for log in purposes everything remains private
                     </li>
 
                 </ul>
             </form>
             
 
-            <div style="font-size: 11px; text-align: center; font-weight: bold;">girls, only for log in purposes everything remains private</div>
+<!--            <div style="float: right; font-size: 11px; text-align: center; font-weight: bold;">girls, only for log in purposes everything remains private</div>-->
 
         </div>
         
         <div class="sign_upPanel panel">
-            <div style="font-weight:bold; margin-bottom: 10px;text-align: center;" class="caption">sign in to brayola</div>
-            <div style="text-align: left;margin-bottom: 10px;">
-                already a member? <a href="#" class="sign_in">sign in</a>
-            </div>
+            <div style="font-weight:bold; margin-bottom: 10px;text-align: center; margin-right: 20px;" class="caption"> save your drawer &amp; join brayola</div>
             <form id="RegisterForm" enctype="application/x-www-form-urlencoded" class="RegisterForm" action="/user/account/register/" method="post">
+                <input style="display: none;" type="hidden" class="preGuest" name="preGuest" value="">
             <p class="error"></p>    
             <ul>
-                <li>
-                    <input type="text" name="nickname" id="anickname" class="validate[required,ajax[userAvailability]]" placeholder="choose a secret name">
+                <li>sign up</li>
+                <li class="dontshowme"><input type="text" name="dontshowme"></li>
+                <li class="nickname">
+                    <input type="text" name="nickname" id="anickname" class="validate[required,ajax[userAvailability]]" placeholder="choose your secret name">
                     <div class="nickname_available icon"></div>
                     <div class="tiny_spinner icon"></div>
                 </li>
-                <li>
+                <li class="email">
                     <input type="email" name="email" id="aemail" class="validate[required,custom[email],ajax[emailAvailability]]" placeholder="email@address.com">
                     <div class="nickname_available icon"></div>
                     <div class="tiny_spinner icon"></div>
                 </li>
-                <li>
+                <li class="password">
                     <input type="password" name="password" id="password2" class="validate[required,minSize[6],maxSize[24]]" placeholder="password">
-                    <div class="tiny_spinner icon"></div></li>
-                <li>
-
-                    <div class="button plus submit" style="float: left;">join now</div>
-                    <div class="button facebook fbconnect">connect</div>
-
-
-                    <a href="/" id="skip"> skip </a>
-                    
+                    <div class="tiny_spinner icon"></div>
                 </li>
+                <li>
+                    <div class="button plus submit" style="float: left;">join now</div>
+                    <div style="float: right; margin-bottom: 10px; margin-top: 13px; font-size: 11px;">
+                        already a member? <a href="#" class="sign_in">sign in</a>
+                    </div>
+                </li>
+            </ul>
+            <ul>
+                <li>or use</li>
+                <li>
+                    <div class="button facebook fbconnect">connect with facebook</div>
+                </li>
+                <li><div class="button google">connect with google</div></li>
+                <li style="font-size: 11px; font-weight: bold; width: 210px;">
+                        girls, only for log in purposes everything remains private
+                </li>
+<!--                <li style="display:none">
+                    <span id="skip"> skip for now </span>
+                </li>-->
+
             </ul>
             </form>
             
+            <div class="suretoclose">
+                <p style="font-size:15px;margin-bottom: 20px;">
+                    <b>are you sure you don't want to save your drawer?</b><br>If you don't save your brayola drawer all the bras you've added will be lost
+                </p>
+                <ul>
+                    <li>
+                        <div class="doyes" style="text-decoration: underline; cursor: pointer; float: left; margin-right: 20px; color: #ff13a6;">yes I'm sure</div>
+                        <div class="dono" style="text-decoration: underline; cursor: pointer; float: left; color: #ff13a6;">cancel</div>
+                    </li>
+                </ul>
+            </div>
 
-            <div style="font-size: 11px; text-align: center; font-weight: bold;">girls, only for log in purposes everything remains private</div>
 
         </div>
 
@@ -149,7 +248,7 @@ var fbi = {appId: 135735569869732};
                     <li>
                         <p style="padding-top: 14px;">enter your email and we'll reset your password</p>
                     </li>
-                    <li>
+                    <li class="email">
                         <p class="error">invalid email address</p>
                         <input type="email" id="forgotpassemail" name="email" class="validate[required,custom[email]]" placeholder="email@address.com">
                     </li>
@@ -164,10 +263,10 @@ var fbi = {appId: 135735569869732};
             </div>
 
             <div class="thankyou">
-                <p style="font-size:15px">An email has been sent to you with a link to reset your password</p>
+                <p style="font-size:15px">an email has been sent to you with a link to reset your password</p>
             </div>
             <div class="nouser" style="padding-left:80px">
-                <p style="font-size:15px">The email entered is not registered</p>
+                <p style="font-size:15px">the email entered is not registered</p>
             </div>
             
         </div>
@@ -191,7 +290,7 @@ var fbi = {appId: 135735569869732};
                         enter your email address and we'll get back to you!
                     </p>
                 </li>
-                <li>
+                <li class="email">
                     <p class="error">Invalid email address</p>
                         <input type="email" class="email" name="email" value="" placeholder="email@address.com" style="display: inline-block; ">
                 </li>
@@ -205,45 +304,24 @@ var fbi = {appId: 135735569869732};
             </div>
                 
             <div class="thankyou">
-                <p style="font-size:15px;margin-bottom: 20px;">
+                <p style="font-size:15px;margin-bottom: 20px; margin-top: 10px;">
                     Thank you for your feedback. We'll let you know when your bra has been added to brayola!
                 </p>
             </div>
                 
         </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         
         <div class="pickSecretNamePanel panel">
             <div class="content">
                 <div style="font-weight:bold; margin-bottom: 10px;">pick a secret name</div>
             <form action="/user/account/picksecretname">
+                <input style="display: none;" type="hidden" class="preGuest" name="preGuestPickName" value="">
             <ul>
                 <li>
                     <p class="email" style="clear: both;margin-top: 10px; display: block; ">
-                    <input type="text" name="nickname" id="anickname2" class="validate[required,ajax[userAvailability]]" placeholder="choose a secret name">
-                    </p>
+                    <input type="text" name="nickname" id="anickname2" placeholder="choose your secret name">
+                    </p><div class="nickname_available icon"></div>
+                    <p></p>
                 </li>
 
                 <li>
@@ -258,47 +336,44 @@ var fbi = {appId: 135735569869732};
                 
         </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
-            
+        <div class="inviteFriendPanel panel">
+            <div id="inviteMessage">
+<!--                <div style="font-weight:bold; margin-bottom: 10px;text-align: center;" class="caption">
+                    want to win a free bra & panty set?<br/>
+                    invite your best friend to join brayola
+                </div>-->
+                <form id="EmailInviteForm" class="EmailInviteForm" action="/user/account/invitefriend" method="post">
+                    <p class="error"></p>
+                    <ul>
+                        <li style="margin-top: 20px; font-size: 20px;">
+                            want to win a <span style="color: #ff13a6;">free bra &amp; panty set?</span><br>
+                            invite your <span style="color: #ff13a6;" title="best friend forever">BFF</span> to join brayola<br>
+                        </li>
+                        <li class="nickname" style="width: 400px;">
+                            <div style="float: left; width: 243px; margin-top: 30px; font-size: 14px;">
+                                <input style="width: 100%;" placeholder="enter your best friend's email" type="email" name="email" id="bffemail" class="validate[required,custom[email]]">
+                                <div style="margin-top: 10px;" class="button submit">send invitation</div>
+                                <div style="clear: both;">&nbsp;</div>
+                            </div>
+                            <img style="float: left;" src="/static/index/images/brayola-gifts.png" width="150" height="167" title="" alt="">
+                        </li>
+                        <li>
+                            <span class="cancelFriendInvite">don't show me this message</span>
+                        </li>
+                    </ul>
+                </form>
+            </div>
+            <ul class="invitationDone">
+                <li style="font-size: 16px;">
+                    Thanks for inviting your BFF!<br>
+                    You have now been entered into the lucky draw :) 
+                </li>
+                <li>
+                    <div class="inviteDoneClose" style="height: 30px; width: 250px; font-size: 18px;">continue shopping</div>
+                </li>
+            </ul>
+        </div>
+        
 	</div>
     <div class="overlay">
         <div class="ui-widget-overlay" style="width: 100%;height: 100%;"></div>
@@ -306,13 +381,9 @@ var fbi = {appId: 135735569869732};
 
     </div>
 </div>
-
-
-
-
-
-
-
+<script type="text/javascript">var version = '?ver=2.25';</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/static/general.min.2.25.js"></script>
 
     <style>
     
@@ -478,38 +549,7 @@ Cookies are small files that are stored on your computer. We use cookies to help
 <p>
     Brayola reserves the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your information will be used. If there is ever a material change to how we use your information and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance.
 </p>
-    <footer>
-        <div class="links">			
-                <ul>
-                        <li>get to know us</li>
-                        <li><a href="/aboutus">about us</a></li>
-                        <li><a href="http://blog.brayola.com" target="_blank">our blog</a></li>
-                </ul>
-                <ul>
-                        <li>things to know</li>
-                        <li><a href="/howitworks">how it works</a></li>
-                        <li><a href="/sportsbrasdd">FAQ - sports bras for DD+</a></li>
-                        <li><a href="/category">brand list</a></li>
-                        <li><a href="/campaigns/win-a-free-bra">win a free bra</a></li>
-                </ul>
-                <ul style="width: 36%;">
-                        <li>we would love to help</li>
-                        <li><a href="mailto:support@brayola.com" id="giveGift">support@brayola.com</a></li>
-                        <li><a href="/men">Men, just for you...</a></li>
-                </ul>
-                <ul style="width: 12%;">
-                        <li>follow us</li>
-                        <li><a href="https://twitter.com/brayolaShop" target="_blank">twitter</a></li>
-                        <li><a href="http://www.facebook.com/brayolaShop" target="_blank">facebook</a></li>
-                        <li><a href="http://pinterest.com/brayola/" target="_blank">pinterest</a></li>                        
-                </ul>					
-        </div>
-            
-        <div style="clear:both;font-size:12px;padding:10px 0;text-align:center">
-            <a href="/user/account/logout" style="cursor: text;color: inherit;">©</a>
-             2011 brayola.com	| <a href="/privacy">privacy policy</a> | <a href="/terms">terms</a>
-        </div>
-    </footer>
+    <div id="push"><!--//--></div>
 
 <!-- Google Code for Visitor Remarketing List -->
 <script type="text/javascript">
@@ -522,8 +562,6 @@ var google_conversion_label = "sgBaCLrj2wIQlsey5gM";
 var google_conversion_value = 0;
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
 <noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1020044182/?label=sgBaCLrj2wIQlsey5gM&amp;guid=ON&amp;script=0"/>
@@ -534,21 +572,142 @@ var google_conversion_value = 0;
 
 
 
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">var version = '?ver=0.92';</script>
-<script src="http://code.jquery.com/jquery.min.js"></script>
-<script src="http://code.jquery.com/ui/1.8.17/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/static/plugins/noty/jquery.noty.js"></script>
 
-<script language="javascript" type="text/javascript" src="/static/js-ck.js?ver=?ver=0.92"></script>
+
+<footer>
+    <div class="container">
+
+<!--        <div class="row">
+            <div class="span12">
+                <fb:like href="http://www.facebook.com/brayolaShop" show_faces="true" font="arial" width="960px"></fb:like>
+            </div>
+        </div>-->
+
+<!--        <div class="row" style="margin-bottom: 35px;">
+            <div class="span12">
+                <a href="http://pinterest.com/brayola/" target="_blank" class="button pinterest">Follow us on Pinterest</a>
+            </div>
+        </div>-->
+
+
+        <div class="row">
+            <div class="links span12">
+                <div class="row">
+                    <div class="span3">
+                            <div>get to know us</div>
+                            <div><a href="/aboutus">about us</a></div>
+                            <div><a href="/howitworks">how it works</a></div>
+                            <div><a href="http://blog.brayola.com" target="_blank">our blog</a></div>
+                            <div><a href="/jobs">jobs</a></div>
+                    </div>
+                    <div class="span3">
+                            <div>things to know</div>
+                            <div><a href="/points">brayola points</a></div>
+                            <div><a href="/sportsbrasdd">FAQ - sports bras for DD+</a></div>
+                            <div><a href="/brands">brand list</a></div>
+                                                    <div><a href="/campaigns/win-a-free-bra">win a free bra</a></div>
+                                                    <div><a href="/recent-bra-comments">recent bra comments</a></div>
+                    </div>
+                    <div class="span3">
+                            <div>we would love to help</div>
+                            <div><a href="/pinkconnection">pink connection</a></div>
+                            <div><a href="mailto:support@brayola.com" id="giveGift">support@brayola.com</a></div>
+                            <div><a href="/men">men, just for you...</a></div>
+                            <div><a href="http://answers.brayola.com" target="_blank">brayola answers</a></div>
+                    </div>
+                    <div class="span3">
+                            <div>follow us</div>
+                            <div><a href="https://twitter.com/brayolaShop" target="_blank">twitter</a></div>
+                            <div><a href="http://www.facebook.com/brayolaShop" target="_blank">facebook</a></div>
+                            <div><a href="http://pinterest.com/brayola/" target="_blank">pinterest</a></div> 
+                            <div><a href="http://www.tumblr.com/blog/brayola" target="_blank">tumblr</a></div>
+                    </div>                   
+                </div>
+            </div>
+        </div>
+                
+        <div class="row">
+            <div style="clear:both;font-size:12px;padding:10px 0;text-align:center" class="span12">
+                <a href="/user/account/logout" style="cursor: text;color: inherit;">©</a>
+                 2012 brayola.com   | <a href="/privacy">privacy policy</a> | <a href="/terms">terms</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
 
 
 <script type="text/javascript">
-$(document).ready(function(){
-    Sid.js(['//cdn.zopim.com/?ltJzKD8Qi4MBRnhVtsezbEpU9NgNBYOg'], function(){
-    /*Sid.js(['http://s.clicktale.net/WRc9.js'],function(){if(typeof ClickTale=='function') ClickTale(21522,1,"www02");});*/
-    });
+$(".get_started").live("click", function() {
+    if(typeof ClickTaleExec=='function')
+        ClickTaleExec("doGetStarted()");
+    
+    doGetStarted();
 });
+
+function CTIsPlayback() {
+    try { return parent && parent.WebPlayer; }
+    catch(e) { return false; }
+}
+
+function doGetStarted() {
+    window.scrollTo(0, 0);
+    if ( $(this).hasClass("findsize") )
+        sendGoalEvent("createdrawer", "input", "Get Started From 'find out your size'", 0);
+    else if ( $(this).hasClass("favoritebra") ) 
+        sendGoalEvent("createdrawer", "input", "Get Started From 'what is your favorite bra'", 0);
+    else
+        sendGoalEvent("createdrawer", "input", "Get Started", 0);
+    
+    $("#reviews").hide();
+    $("#allContent").hide();
+    $("#extraIndexSpace").show();
+    $('#preloader').show();
+    $('#loadDrawers').load('/user/drawer/', function(){
+        if ( CTIsPlayback() ) {
+            setTimeout("cyd.open()", 200);
+        }
+        cyd.open();
+        $('#loadDrawers').show();
+        $('#preloader').hide();
+        $('header').css({'marginBottom': '40px'});
+        $('body').css({"background":"url('/static/layout/images/header_pattern.jpg') repeat-x"});
+    });
+}
 </script>
+
+
+<script>
+ // Add a script element as a child of the body
+$(document).ready(function(){
+
+var jss = ["//connect.facebook.net/en_US/all.js", "http://www.googleadservices.com/pagead/conversion.js", "//s.skimresources.com/js/32569X902871.skimlinks.js",/* "http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js",*/ "//cdn.zopim.com/?ltJzKD8Qi4MBRnhVtsezbEpU9NgNBYOg"]
+    /*Sid.js(['http://s.clicktale.net/WRc9.js'],function(){if(typeof ClickTale=='function') ClickTale(21522,1,"www02");});*/
+
+for (i in jss) {
+ var element = document.createElement("script");
+ element.src = jss[i];
+ element.async = true;
+ document.body.appendChild(element);
+};
+
+});
+
+</script>
+
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(21522,0.6,"www02");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+
+
 
 </body></html>
