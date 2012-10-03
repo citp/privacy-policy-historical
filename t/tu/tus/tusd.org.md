@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tusd.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531091103id_/http%3A//tusd.org/Home/tabid/290/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tusd.org privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003023404id_/http%3A//www.tusd.org/Home/tabid/290/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Torrance Unified School District > Home
 
