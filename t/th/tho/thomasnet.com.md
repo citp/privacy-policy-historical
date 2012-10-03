@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605030253id_/http%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003121346id_/http%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
 
 # ThomasNet® - Privacy Statement
 
@@ -82,7 +82,7 @@ We also link to a wide variety of other websites. We are not responsible for the
 
 **CHILDREN**
 
-This website and its related features are not intended for use by children, and the [terms and conditions](https://web.archive.org/terms.html) governing the use of this website and its features require that you must be at least 18 years old to use them. 
+This website and its related features are not intended for use by children, and the terms and conditions governing the use of this website and its features require that you must be at least 18 years old to use them. 
 
 **CHANGES TO THIS STATEMENT**
 
@@ -92,12 +92,12 @@ We reserve the right to modify or add to this Privacy Statement from time to tim
 
 If you have any questions regarding this Privacy Statement or wish to change or update any of your information, please contact us via e-mail by clicking [here](https://web.archive.org/contact-privacy.html). 
 
-Or write to us at: 
+Or write to us at:
 
 Privacy Manager  
 ThomasNet  
 Thomas Industrial Network, Inc.  
 5 Penn Plaza  
-New York, NY 10001 
+New York, NY 10001
 
-Revised: December 8, 2009 
+Revised: July 27, 2012 
