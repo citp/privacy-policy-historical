@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eimg.net privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119154704id_/http%3A//www.earthlink.com/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eimg.net privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003202511id_/http%3A//www.earthlink.com/about/policies/privacy) for the most accurate reproduction.*
 
 # Earthlink Policies & Agreements - Privacy Policy
 
