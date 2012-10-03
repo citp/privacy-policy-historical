@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nonoba.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506001900id_/http%3A//nonoba.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonoba.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003194605id_/http%3A//www.nonoba.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - nonoba.com
 
-_Nonoba is run and owned by Odpy ApS. For more information see section "About Nonoba" in our[terms of service](https://web.archive.org/web/20120506001900id_/http%3A//nonoba.com/about/termsofservice)_
+_Nonoba is run and owned by Odpy ApS. For more information see section "About Nonoba" in our[terms of service](https://web.archive.org/web/20121003194605id_/http%3A//www.nonoba.com/about/termsofservice)_
 
   1. ODPY respects users’ personal data and will comply with applicable data protection regulations. 
 
