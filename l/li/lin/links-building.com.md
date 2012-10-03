@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the links-building.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204227id_/http%3A//www.links-building.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the links-building.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003042117id_/http%3A//www.links-building.com/policies.php) for the most accurate reproduction.*
 
-# About Our SEO Company - Links-Building.com
+# Privacy Policies - Links-Building.com
 
 ### Links-Building - Policies for Your privacy
 
