@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the askmrvideo.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617185105id_/http%3A//www.askmrvideo.com/public/department12.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askmrvideo.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003045716id_/http%3A//www.askmrvideo.com/public/department12.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//Dtd html 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//Dtd html 4.0 Transitional//EN"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><!-- Powered by MemberGate http://www.membergate.com --><head>
 		<meta content="text/html" http-equiv="content-type">
 		<meta http-equiv="content-type" content="text/html;">
 		<meta name="author" content="AskMrVideo.com">
@@ -9,8 +9,25 @@
 		<meta name="revisit-after" content="15 days">
 		<meta name="distribution" content="Global">
 		 
-		<link href="http://www.askmrvideo.com/public/mgstyle.css" rel="stylesheet" type="text/css"> 
-		<link href="http://www.askmrvideo.com/public/favicon.ico" rel="icon" type="image/x-icon"> 
+		<link href="/public/mgstyle.css" rel="stylesheet" type="text/css"> 
+		<link href="/favicon.ico" rel="icon" type="image/x-icon"> 
+		<link href="/public/larger.css" rel="alternate stylesheet" type="text/css" title="larger" disabled="">
+		<script language="javascript" src="/public/styleswitcher.js" type="text/javascript"></script>
+		<script language="javascript" src="/swfobject.js" type="text/javascript"></script>
+		<script language="javascript" src="/public/images/datetime.js" type="text/javascript"></script>
+		<script language="javascript" src="/public/images/tfpop.js" type="text/javascript"></script>
+		<script language="javascript" src="/members/manage/overlib.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="/includes/css/shadowbox.css">
+		<script type="text/javascript" src="/includes/js/jquery.min.js"></script>
+		<script language="javascript" src="/members/javascript/jquery.dd.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="/css/dd.css">
+		<script type="text/javascript" src="/includes/js/jquery.qtip.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="/includes/css/jquery.qtip.min.css">
+		<script type="text/javascript" src="/includes/js/shadowbox.js"></script>
+		<script type="text/javascript">
+			Shadowbox.init();	
+		</script>
+		<script language="javascript" src="/includes/js/common.js" type="text/javascript"></script>
 		<!-- compliance patch for microsoft browsers --><!--[if lt IE 7]>
       	<script type="text/javascript">
       	window.IE7_PNG_SUFFIX = ".png";
@@ -37,16 +54,65 @@
       </script>
 
 <script type="text/javascript" src="/public/js/swfobject.js"></script>
- 		<script src="AC_RunActiveContent.js" language="javascript"></script>
-		<link href="http://www.askmrvideo.com/public/larger.css" rel="alternate stylesheet" type="text/css" title="larger">
-		<script language="javascript" src="http://www.askmrvideo.com/public/styleswitcher.js" type="text/javascript"></script>
-		<script language="javascript" src="http://www.askmrvideo.com/public/images/datetime.js" type="text/javascript"></script>
-		<script language="javascript" src="http://www.askmrvideo.com/public/images/tfpop.js" type="text/javascript"></script> 	
+ 		<script src="AC_RunActiveContent.js" language="javascript"></script> 	
 	<meta name="Description" content="Our Privacy Policy">
-<meta name="Keywords" content="online video, video help, Video Production, Flash Video, Transparent Flash, YouTube, Google Video, Video Editor, Video Camera, Flash8, Video Marketing"> 
-<title>Our Privacy Policy</title>
-</head>
+		<meta name="Keywords" content="online video, video help, Video Production, Flash Video, Transparent Flash, YouTube, Google Video, Video Editor, Video Camera, Flash8, Video Marketing"> 
+		<title>Our Privacy Policy</title></head>
 	<body bgcolor="white" leftmargin="3" topmargin="5" marginwidth="3" marginheight="3">
+		<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+		
+			
+			
+			  <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+			  <script>
+				  window.fbAsyncInit = function() {
+				     FB.init({
+				      appId  : '405444019521187',
+			          cookie  : true, // enable cookies to allow the server to access the session
+			          oauth	  : true, // OAuth 2.0
+			          status  : true, // check login status
+			          xfbml   : true // parse XFBML
+				    }); 
+				    
+				    FB.Event.subscribe('auth.login', function(response) {
+					  FB.getLoginStatus(function(response) {
+						  if (response.status == 'connected') {
+						    // the user is logged in and connected to your
+						    // app, and response.authResponse supplies
+						    // the user's ID, a valid access token, a signed
+						    // request, and the time the access token 
+						    // and signed request each expire
+						    var uid = response.authResponse.userID;
+						    var accessToken = response.authResponse.accessToken;
+	
+						     setTimeout('document.location.reload()',0);
+	
+						    // whenever the user logs in we refresh the page
+						  } else if (response.status == 'not_authorized') {
+						    // the user is logged in to Facebook, 
+						    //but not connected to the app
+						  } else {
+						    // the user isn't even logged in to Facebook.
+						  }
+					  });
+					});
+					// whenever the user logs out, we refresh the page
+					FB.Event.subscribe('auth.logout', function(response) {
+						
+						window.location = document.location.protocol + '//www.askmrvideo.com/members/logout.cfm'
+					     setTimeout('document.location.reload()',0);
+					});
+				  };
+				  
+				  (function() {
+				    var e = document.createElement('script');
+				    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+				    e.async = true;
+				    document.getElementById('fb-root').appendChild(e);
+				  })();
+				</script>
+			 
+			
 		<cf_my_bar> 
 		<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
 			<tbody><tr>
@@ -57,99 +123,67 @@
    							<td align="center" width="950">
 								<table border="0" cellpadding="0" cellspacing="0" width="950">
 									<tbody><tr valign="bottom">
-										<td class="nopadding" align="left"><a href="http://www.askmrvideo.com"><img src="http://www.askmrvideo.com/public/images/portallogo.jpg" height="200" width="950" border="0" alt="AskMrVideo.com is for Internet video developers and marketers. Expert video tips and tutorials plus the latest in Flash video development and DVD marketing."></a></td>	  
+										<td class="nopadding"><a href="http://www.askmrvideo.com" class="headerimg" title="AskMrVideo Internet Video Marketing and Development"><span>AskMrVideo.com is for Internet video developers and marketers. Expert video tips and tutorials plus the latest in Flash video development and DVD marketing.</span><img src="/public/images/portallogo.jpg" border="0" alt="AskMrVideo Internet Video Marketing and Development" title="AskMrVideo Internet Video Marketing and Development"></a></td>	  
 									</tr>
   									
   									<tr>
-										<td class="masthead2" colspan="2">
- 											<a class="top" href="http://www.askmrvideo.com/public/main.cfm" title="Home">
-												Home
-											</a>
-											|
-											<a class="top" href="http://www.askmrvideo.com/public/department8.cfm" title="Affiliates">
-												Affiliates
-											</a>	
-   											|
-											<a class="top" href="http://www.askmrvideo.com/public/243.cfm" title="FAQs">
-												FAQs
-											</a>
-											|
-											<a class="top" href="http://www.askmrvideo.com/members/cfmbb/" title="Forums">
-												Forums
-											</a>	
-   											|
-											<a class="top" href="javascript:void(0);" onclick="makeNewWindow('http://www.askmrvideo.com/public/tfriend.cfm?refurl=/public/department12.cfm','newWindow','scrollbars=no,resizable=yes,width=300,height=450');return false" title="Tell a Friend">
-												Tell a Friend
-											</a>
-											|
-											<a class="top" href="http://www.askmrvideo.com/public/department24.cfm" title="Text Size">
-												Text Size
-											</a>
-											|
-											<a class="top" href="http://www.askmrvideo.com/public/programs/search.cfm" title="Search">
-												Search
-											</a>
-											|
-											<a class="top" href="http://www.askmrvideo.com/members/login.cfm" title="Member Area">
-												Member Area
-											</a>
+										<td class="masthead2" colspan="2" background="/public/images/topnavback.jpg" height="22">
+ 											<a class="top" href="http://www.askmrvideo.com/public/main.cfm" title="Home">Home</a>
+						|&nbsp;<a class="top" href="http://www.askmrvideo.com/members/cfmbb/" title="Forums">Forums</a>
+						|&nbsp;<a class="top" href="http://www.askmrvideo.com/public/department8.cfm" title="Affiliates">Affiliates</a>	
+						|&nbsp;<a class="top" href="http://www.askmrvideo.com/public/243.cfm" title="FAQs">FAQs</a>	
+						|&nbsp;<a class="top" href="javascript:void(0);" onclick="makeNewWindow('http://www.askmrvideo.com/public/tfriend.cfm?refurl=/public/department12.cfm','newWindow','scrollbars=no,resizable=yes,width=300,height=500');return false" title="Tell a Friend">Tell a Friend</a>
+						|&nbsp;<a class="top" href="http://www.askmrvideo.com/public/department24.cfm" title="Text Size">Text Size</a>
+					|&nbsp;<a class="top" href="http://www.askmrvideo.com/public/programs/search.cfm" title="Search">Search</a>
+				|&nbsp;<a class="top" href="http://www.askmrvideo.com/members/login.cfm" title="Member Area">Member Area</a>
+			
 										</td>
 									</tr>
 								</tbody></table> 
 								  <!--  turned off --> 
 								<table width="950" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="white">
    									<tbody><tr valign="top"> <!-- This is where the left panel starts -->
-    		<td width="225" valign="top" class="leftnavbar" background="http://www.askmrvideo.com/public/images/leftnavback.gif"> 
+    		<td width="225" valign="top" class="leftnavbar" background="/public/images/navleft.gif"> 
 			<table width="225" cellspacing="0" cellpadding="0" border="0" class="leftnavbar">
 				<!-- Category 8 -->
 					<tbody><tr><td height="10"></td></tr>
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat8.jpg" border="0" alt=" Join Us" height="25" width="225"></td></tr>
+					<tr><td align="left"><img src="/public/images/cat8.jpg" border="0" alt=" Join Us" height="25" width="225"></td></tr>
 					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td bgcolor="131c55"> <div align="center"><a class="navlefttease" href="http://www.askmrvideo.com/public/membership/joinmember.cfm">Gain 
 immediate access to all our articles, features, how-to's, discussion group, 
 archives plus. Click here for details.</a><br></div> </td></tr></tbody></table></td></tr>
 				<!-- Category 1 -->
 					<tr><td height="05"></td></tr>
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat1.jpg" border="0" alt=" About this Site" height="25" width="225"></td></tr>
+					<tr><td align="left"><img src="/public/images/cat1.jpg" border="0" alt=" About this Site" height="25" width="225"></td></tr>
 					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department13.cfm" title="About Mr Video"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">About Mr Video</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/membership/joinmember.cfm" title="Become a Member Today"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Become a Member Today</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/270.cfm" title="FREE TOUR"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">FREE TOUR</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department2.cfm" title="Free Video Articles"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Free Video Articles</a><br> <center><!-- START SCANALERT CODE -->
+						<a class="navleft" href="http://www.askmrvideo.com/public/department13.cfm" title="About Us"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">About Us</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/membership/joinmember.cfm" title="Become a Member Today"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Become a Member Today</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/270.cfm" title="FREE TOUR"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">FREE TOUR</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department2.cfm" title="Free Video Articles"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Free Video Articles</a><br> <center><!-- START SCANALERT CODE -->
 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.askmrvideo.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.askmrvideo.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
 <!-- END SCANALERT CODE --></center> </td></tr></tbody></table></td></tr>
 				<!-- Category 2 -->
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat2.jpg" border="0" alt=" DEPARTMENTS" height="25" width="225"></td></tr>
+					<tr><td align="left"><img src="/public/images/cat2.jpg" border="0" alt=" DEPARTMENTS" height="25" width="225"></td></tr>
 					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department15.cfm" title="Feature Articles"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Feature Articles</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department68.cfm" title="Virtual Video Intensive"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Virtual Video Intensive</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department35.cfm" title="Internet Video"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Internet Video</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department39.cfm" title="Featured Resources"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Featured Resources</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department36.cfm" title="Video Marketing"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Marketing</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department38.cfm" title="Sell Your Video"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Sell Your Video</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department34.cfm" title="Video Production"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Production</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department72.cfm" title="Ask The Pros"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Ask The Pros</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/programs/opendownloads.cfm" title="Download Library"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Download Library</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department64.cfm" title="Free Video Magazines"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Free Video Magazines</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department71.cfm" title="iPhone Video Feed"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">iPhone Video Feed</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department62.cfm" title="Maverick Video"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Maverick Video</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department9.cfm" title="Most Popular"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Most Popular</a><br>
-						<a class="navleft" href="http://askmrvideoblog.com" title="Mr Video Blog"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Mr Video Blog</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department29.cfm" title="Our RSS Feed"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Our RSS Feed</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department60.cfm" title="Production Music"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Production Music</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department17.cfm" title="Site Map"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Site Map</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department27.cfm" title="Tip of the Week"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Tip of the Week</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department63.cfm" title="Video Classes"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Classes</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department69.cfm" title="Video Into Profits"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Into Profits</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/members/vom_wizard.cfm" title="Video Opt-In Machine"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Opt-In Machine</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department70.cfm" title="Video Strategy Sessions"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Strategy Sessions</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department41.cfm" title="Video Tool Reviews"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Tool Reviews</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department42.cfm" title="Video Tutorials"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Tutorials</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department77.cfm" title="VideoTip"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">VideoTip</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/members/forum/openforum.cfm?forum=4" title="Web TV Show in a Weekend"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Web TV Show in a Weekend</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department48.cfm" title="Found Video"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Found Video</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department47.cfm" title="Tutorials by Members"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Tutorials by Members</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department46.cfm" title="Video Business"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Business</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/resources/" title="Video Resource Directory"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Resource Directory</a><br> <br><center><a href="http://www.AskMrVideo.com/video-works/"><img src="http://www.askmrvideo.com/videoworks.jpg" alt="Video Works!"></a></center><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department15.cfm" title="Feature Articles"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Feature Articles</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department35.cfm" title="Internet Video"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Internet Video</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department39.cfm" title="Featured Resources"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Featured Resources</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department36.cfm" title="Video Marketing"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Marketing</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department38.cfm" title="Sell Your Video"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Sell Your Video</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department34.cfm" title="Video Production"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Production</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department72.cfm" title="Ask The Pros"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Ask The Pros</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/members/forum/openforum.cfm?forum=1" title="Discussion Forum"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Discussion Forum</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department64.cfm" title="Free Video Magazines"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Free Video Magazines</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department62.cfm" title="Maverick Video"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Maverick Video</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department9.cfm" title="Most Popular"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Most Popular</a><br>
+						<a class="navleft" href="http://askmrvideoblog.com" title="Mr Video Blog"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Mr Video Blog</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department60.cfm" title="Production Music"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Production Music</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department27.cfm" title="Tip of the Week"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Tip of the Week</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department41.cfm" title="Video Tool Reviews"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Tool Reviews</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department42.cfm" title="Video Tutorials"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Tutorials</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department48.cfm" title="Found Video"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Found Video</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department47.cfm" title="Tutorials by Members"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Tutorials by Members</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department46.cfm" title="Video Business"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Business</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/resources/" title="Video Resource Directory"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Resource Directory</a><br> <br><center><a href="http://www.AskMrVideo.com/video-works/"><img src="http://www.askmrvideo.com/videoworks.jpg" alt="Video Works!"></a></center><br>
  <table cellspacing="0" cellpadding="0" border="0" width="100" align="center">
 <tbody><tr><td align="center">
 <a href="http://www.askmrvideo.com">
@@ -159,73 +193,75 @@ archives plus. Click here for details.</a><br></div> </td></tr></tbody></table><
 <a href="http://www.AskMrVideo.com/mysite.xml" target="_blank">
 <img src="http://www.askmrvideo.com/public/images/ad5.gif" border="0" alt="Subscribe to our RSS Feed" width="32" height="15"></a></td></tr></tbody></table> <br> </td></tr></tbody></table></td></tr>
 				<!-- Category 4 -->
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat4.jpg" border="0" alt=" RESOURCES" height="25" width="225"></td></tr>
+					<tr><td align="left"><img src="/public/images/cat4.jpg" border="0" alt=" RESOURCES" height="25" width="225"></td></tr>
 					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department8.cfm" title="Affiliates"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Affiliates</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department21.cfm" title="Article Index"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Article Index</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department6.cfm" title="Contact Info"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Contact Info</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department10.cfm" title="Help"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Help</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/members/196.cfm" title="Member Gallery"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Member Gallery</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/members/module_index.cfm" title="Member Profiles"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Member Profiles</a><br>
-						<a class="navleft" href="javascript:void(0);" onclick="makeNewWindow('http://www.askmrvideo.com/public/tfriend.cfm?refurl=/public/department12.cfm','newWindow','scrollbars=no,resizable=yes,width=300,height=450');return false" title="Tell a Friend"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Tell a Friend</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department24.cfm" title="Text Size"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Text Size</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department7.cfm" title="Your Account"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Your Account</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/affiliate/index.cfm" title="Affiliate Log In"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Affiliate Log In</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department8.cfm" title="Affiliates"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Affiliates</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department21.cfm" title="Article Index"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Article Index</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department6.cfm" title="Contact Info"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Contact Info</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/programs/opendownloads.cfm" title="Download Library"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Download Library</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department10.cfm" title="Help"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Help</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/members/196.cfm" title="Member Gallery"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Member Gallery</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/members/module_index.cfm" title="Member Profiles"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Member Profiles</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department29.cfm" title="Our RSS Feed"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Our RSS Feed</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department17.cfm" title="Site Map"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Site Map</a><br>
+						<a class="navleft" href="javascript:void(0);" onclick="makeNewWindow('http://www.askmrvideo.com/public/tfriend.cfm?refurl=/public/department12.cfm','newWindow','scrollbars=no,resizable=yes,width=300,height=500');return false" title="Tell a Friend"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Tell a Friend</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department24.cfm" title="Text Size"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Text Size</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department7.cfm" title="Your Account"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Your Account</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/affiliate/index.cfm" title="Affiliate Log In"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Affiliate Log In</a><br>
 					</td></tr></tbody></table></td></tr>
 				<!-- Category 11 -->
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat11.jpg" border="0" alt=" PRODUCTS" height="25" width="225"></td></tr>
+					<tr><td align="left"><img src="/public/images/cat11.jpg" border="0" alt=" PRODUCTS" height="25" width="225"></td></tr>
 					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td>
-						<a class="navleft" href="http://www.askmrvideo.com/products/department3.cfm" title="Software"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Software</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/products/index.cfm" title="All Products"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">All Products</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/products/department4.cfm" title="Books"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Books</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/products/department7.cfm" title="Consult Perry"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Consult Perry</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/products/department6.cfm" title="Recommended Gear"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Recommended Gear</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department53.cfm" title="Video Gear - Other"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Gear - Other</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/products/department8.cfm" title="Video Lighting"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Lighting</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/products/department9.cfm" title="Voice Overs"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Voice Overs</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/products/department11.cfm" title="Webinars"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Webinars</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/products/department3.cfm" title="Software"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Software</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/products/index.cfm" title="All Products"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">All Products</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/products/department4.cfm" title="Books"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Books</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/products/department7.cfm" title="Consult Perry"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Consult Perry</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/products/department6.cfm" title="Recommended Gear"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Recommended Gear</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department53.cfm" title="Video Gear - Other"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Gear - Other</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/products/department8.cfm" title="Video Lighting"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Video Lighting</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/products/department9.cfm" title="Voice Overs"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Voice Overs</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/products/department11.cfm" title="Webinars"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Webinars</a><br>
 					</td></tr></tbody></table></td></tr>
 				<!-- Category 17 -->
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat17.jpg" border="0" alt=" Other" height="25" width="225"></td></tr>
+					<tr><td align="left"><img src="/public/images/cat17.jpg" border="0" alt=" Other" height="25" width="225"></td></tr>
 					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department23.cfm" title="Our Guarantee"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Our Guarantee</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/department12.cfm" title="Privacy Policy"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Privacy Policy</a><br>
-						<a class="navleft" href="http://www.askmrvideo.com/public/73.cfm" title="Terms of Use"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Terms of Use</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department23.cfm" title="Our Guarantee"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Our Guarantee</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/department12.cfm" title="Privacy Policy"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Privacy Policy</a><br>
+						<a class="navleft" href="http://www.askmrvideo.com/public/73.cfm" title="Terms of Use"><img src="/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Terms of Use</a><br>
 					</td></tr></tbody></table></td></tr>
 				<!-- Category 6 -->
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat6.jpg" border="0" alt=" Features" height="25" width="225"></td></tr>
+					<tr><td align="left"><img src="/public/images/cat6.jpg" border="0" alt=" Features" height="25" width="225"></td></tr>
 					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td> <p class="navright"><strong>Find this here and more!</strong> 
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Video Project Ideas</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Video Marketing Samples</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Video Tutorials</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Video Branding</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Free Video Software</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Video Industry Info</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Video Production Tools</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">DVD Production info</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Video Distribution</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Video Business Strategies</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Discussion Group</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Developers Blog</a>
-<br>· <a href="http://www.askmrvideo.com/public/10.cfm" class="navright">Much, Much More!</a></p>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Video Project Ideas</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Video Marketing Samples</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Video Tutorials</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Video Branding</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Free Video Software</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Video Industry Info</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Video Production Tools</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">DVD Production info</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Video Distribution</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Video Business Strategies</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Discussion Group</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Developers Blog</a>
+<br>· <a href="http://www.askmrvideo.com/public/5.cfm" class="navright">Much, Much More!</a></p>
 
 <p align="center"><a href="http://www.100xmissions.org">
 <img border="0" src="http://100xmissions.org/images/support.jpg" width="215" height="215"></a></p> </td></tr></tbody></table></td></tr>
 				<!-- Category 20 -->
-					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td>
-						<a class="navleft" href="http://www.askmrvideo.com/members/cfmbb/" title="Forums"><img src="http://www.askmrvideo.com/public/images/navleft.gif" border="0" alt="" height="17" width="13" align="middle" style="padding-right:3px;">Forums</a><br> <br><br> <table cellspacing="0" cellpadding="0" border="0" width="140" align="center">
+					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td> <br><br> <table cellspacing="0" cellpadding="0" border="0" width="140" align="center">
 <tbody><tr><td align="center">
 <a href="http://www.membergate.com/index.cfm?affID=ptlpc" target="_blank">
 <img src="http://www.askmrvideo.com/public/images/ad2.gif" border="0" alt="This site powered by MemberGate" width="140" height="71"></a></td></tr></tbody></table> <br> </td></tr></tbody></table></td></tr>			
 		</tbody></table></td>			
-			<td width="9" height="50"> <img height="400" src="http://www.askmrvideo.com/public/images/space.gif" width="9" border="0" alt=""></td>	
+			<td width="9" height="50"> <img height="400" src="/public/images/space.gif" width="9" border="0" alt=""></td>	
 		
 		
 		<td valign="top">
-		<table width="100%" border="0" cellpadding="6" cellspacing="0">
-			<tbody><tr><td valign="top">
-
-
+			<table width="100%" border="0" cellpadding="6" cellspacing="0">
+				<tbody><tr>
+					<td valign="top">
+			
 					<table border="0" cellspacing="0" cellpadding="0" width="100%">
 					<tbody><tr valign="middle">
 						<td class="backto">
@@ -242,13 +278,10 @@ archives plus. Click here for details.</a><br></div> </td></tr></tbody></table><
 								</tbody></table>
 								
 
-<br><div class="departmentheadline">
-Our Privacy Policy </div>
-
-
- 
-			<p class="lead" align="left">
-			We are strongly committed to safeguarding subscribers' privacy. We operate under the following strict privacy policy: </p><p>The only information we obtain about our subscribers is information we need to process credit card charges for subscription fees. The information collected is never revealed, sold, or made public for any reason.</p><p>Personally identifiable information provided by subscribers (name, email or home address, etc.) is never disclosed to any individual or business. </p><p><b>Cookies</b><br>
+			<br><div class="departmentheadline">Our Privacy Policy</div>
+		
+				<p class="lead" align="left">
+				We are strongly committed to safeguarding subscribers' privacy. We operate under the following strict privacy policy: </p><p>The only information we obtain about our subscribers is information we need to process credit card charges for subscription fees. The information collected is never revealed, sold, or made public for any reason.</p><p>Personally identifiable information provided by subscribers (name, email or home address, etc.) is never disclosed to any individual or business. </p><p><b>Cookies</b><br>
 Each time a subscriber logs into this site, we store a temporary 'cookie' in the browser files of that subscriber's computer. This cookie is used during your online session to allow you free access to the Subscribers Area, without repeatedly requiring you to re-enter your user name and password.</p><p>When you log off or leave the site, the cookies file is automatically removed.</p><p><b>External Links</b><br>
 In order to provide visitors with greater value, some of our pages may provide links to various third party websites. In no case is subscriber information or 'cookies' provided to the third party sites.</p><p>However, keep in mind that many sites do attempt to capture visitor information when you browse those sites. Once you leave our site, we are not able to alert you should another site attempt to gather information from your browser.</p><p><b>Private Forums</b><br>
 We provide our subscribers with a multi-tiered Discussion Forum that makes sharing information with other subscribers easy. To protect your privacy when posting or replying to messages in the message board, your personal information and email is not revealed.</p><p>However, remember that any information you disclose in the message board areas can be read by all other subscribers, so exercise caution when deciding to disclose your personal information. </p><p><b>Security</b><br>
@@ -257,18 +290,16 @@ Our site gives users the opportunity to opt-in to receive communications from us
  
 This site also gives users options for removing their information from our database in order to stop receiving our communications. </p><p><b>Other</b><br>
 If you have questions regarding our privacy policy, feel free to <a href="7.cfm">contact us</a>.</p>
-			
-	</td></tr></tbody></table>
+		</td></tr></tbody></table>
 					
 		</td>
-
-		
-			<td width="9"><img src="http://www.askmrvideo.com/public/images/space.gif" width="9" height="1" border="0" alt=""></td>
+			
+			<td width="9"><img src="/public/images/space.gif" width="9" height="1" border="0" alt=""></td>
     	<td width="225" valign="top" class="rightnavbar"> 
 		<table width="225" cellspacing="0" cellpadding="0" border="0" class="rightnavbar"><!-- Category 10 -->
         			<tbody><tr><td height="10"></td></tr>
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat10.jpg" border="0" alt=" Tip of the Week" height="25" width="225"></td></tr>
-					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td background="http://www.askmrvideo.com/public/images/catbg10.jpg" bgcolor="131c55"> <center>
+					<tr><td align="left"><img src="/public/images/cat10.jpg" border="0" alt=" Tip of the Week" height="25" width="225"></td></tr>
+					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td bgcolor="131c55"> <center>
 <div class="navlefttease">Get FREE weekly tips to rocket your profits!<div>
 <form method="POST" action="http://www.aweber.com/scripts/addlead.pl">
 <input type="hidden" name="unit" value="askmrvideo">
@@ -283,8 +314,8 @@ If you have questions regarding our privacy policy, feel free to <a href="7.cfm"
 </form>
 [ <a href="http://www.askmrvideo.com/public/department27.cfm"><font color="ffffff">Tip Archives</font></a> ]</div></div></center></td></tr></tbody></table></td></tr><!-- Category 25 -->
         			<tr><td height="10"></td></tr>
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat25.jpg" border="0" 'alt="" height="25" width="225"></td></tr>
-					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td background="http://www.askmrvideo.com/public/images/catbg25.jpg"> <table border="0" align="center" cellpadding="1" cellspacing="0">
+					<tr><td align="left"><img src="/public/images/cat25.jpg" border="0" 'alt="" height="25" width="225"></td></tr>
+					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td> <table border="0" align="center" cellpadding="1" cellspacing="0">
 	 <tbody><tr>
 		<td align="left" bgcolor="white"><b><font color="black"> <table cellspacing="0" cellpadding="0" border="0" width="31" align="center">
 <tbody><tr><td align="center">
@@ -312,10 +343,7 @@ If you have questions regarding our privacy policy, feel free to <a href="7.cfm"
 <img src="http://www.askmrvideo.com/public/images/ad25.gif" border="0" alt="" width="31" height="31"></a></td></tr></tbody></table> </font></td>
 	</tr>
 </tbody></table></td></tr></tbody></table></td></tr><!-- Category 24 -->
-					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td> <table cellspacing="0" cellpadding="0" border="0" width="" align="center">
-<tbody><tr><td align="center">
-<a href="http://www.askmrvideo.com/members/vom_wizard.cfm">
-<img src="http://www.askmrvideo.com/public/images/ad27.jpg" border="0" alt="Video Opt-In Machine" width="" height=""></a></td></tr></tbody></table> 
+					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td> 
 <br>
 <table cellspacing="0" cellpadding="0" border="0" width="" align="center">
 <tbody><tr><td align="center">
@@ -329,30 +357,24 @@ If you have questions regarding our privacy policy, feel free to <a href="7.cfm"
 <br>
 <table cellspacing="0" cellpadding="0" border="0" width="215" align="center">
 <tbody><tr><td align="center">
-<a href="http://www.askmrvideoblog.com">
+<a href="http://www.askmrvideo.tv">
 <img src="http://www.askmrvideo.com/public/images/ad12.jpg" border="0" alt="" width="215" height="55"></a></td></tr></tbody></table> 
 <br>
-<table cellspacing="0" cellpadding="0" border="0" width="215" align="center">
-<tbody><tr><td align="center">
-<a href="http://www.askmrvideo.com/public/department68.cfm">
-<img src="http://www.askmrvideo.com/public/images/ad13.jpg" border="0" alt="Virtual Video Intensive" width="215" height="59"></a></td></tr></tbody></table> 
+
 <br>
-<table cellspacing="0" cellpadding="0" border="0" width="215" align="center">
-<tbody><tr><td align="center">
-<a href="http://www.askmrvideo.com/public/department63.cfm">
-<img src="http://www.askmrvideo.com/public/images/ad14.jpg" border="0" alt="Video Classes" width="215" height="55"></a></td></tr></tbody></table> 
+
 <br>
 <table cellspacing="0" cellpadding="0" border="0" width="215" align="center">
 <tbody><tr><td align="center">
 <a href="http://www.askmrvideo.com/public/programs/opendownloads.cfm">
 <img src="http://www.askmrvideo.com/public/images/ad15.jpg" border="0" alt="Video Download" width="215" height="55"></a></td></tr></tbody></table> 
 <br>
+
+<br>
 <table cellspacing="0" cellpadding="0" border="0" width="215" align="center">
 <tbody><tr><td align="center">
-<a href="http://www.askmrvideo.com/members/cfmbb/">
-<img src="http://www.askmrvideo.com/public/images/ad16.jpg" border="0" alt="Video Forum" width="215" height="55"></a></td></tr></tbody></table> 
-<br>
-
+<a href="http://dFilmSchool.com">
+<img src="http://www.askmrvideo.com/public/images/ad17.jpg" border="0" alt="Film School Podcast" width="215" height="55"></a></td></tr></tbody></table> 
 <br>
 <table cellspacing="0" cellpadding="0" border="0" width="215" align="center">
 <tbody><tr><td align="center">
@@ -361,171 +383,260 @@ If you have questions regarding our privacy policy, feel free to <a href="7.cfm"
 <br>
 <table cellspacing="0" cellpadding="0" border="0" width="215" align="center">
 <tbody><tr><td align="center">
-<a href="http://www.askmrvideo.com">
+<a href="http://www.askmrvideo.com/public/department35.cfm">
 <img src="http://www.askmrvideo.com/public/images/ad19.jpg" border="0" alt="" width="215" height="55"></a></td></tr></tbody></table> 
 <br></td></tr></tbody></table></td></tr><!-- Category 13 -->
         			<tr><td height="05"></td></tr>
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat13.jpg" border="0" alt=" Discussion Forum" height="25" width="225"></td></tr>
-					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td background="http://www.askmrvideo.com/public/images/catbg13.jpg"> 
+					<tr><td align="left"><img src="/public/images/cat13.jpg" border="0" alt=" Discussion Forum" height="25" width="225"></td></tr>
+					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td> 
 	<table border="0" cellspacing="0" cellpadding="4">
 		
 			<tbody><tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=EC5F4741-24E8-5146-DD00AC83BB11DC23" class="recentposts">• QUICK HELP NEEDED PLEASE</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=E9976347-24E8-5146-DD2E0A3601C4877B&amp;last=true" title="New Partner, New Direction" class="recentposts">• New Partner, New Direction</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=D032DB3A-24E8-5146-DDCFA4205A69ADAF" class="recentposts">• webinar not available</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=EC5F4741-24E8-5146-DD00AC83BB11DC23&amp;last=true" title="QUICK HELP NEEDED PLEASE" class="recentposts">• QUICK HELP NEEDED PLEASE</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=6FF498B3-1422-1D54-B17C4A29B6419925" class="recentposts">• Canon announces new C300</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=4440F4FF-24E8-5146-DD193E59ED6130AA&amp;last=true" title="restrict downloading" class="recentposts">• restrict downloading</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=23671A00-1422-1D54-B19742072B4FD7E2" class="recentposts">• FAQ Player</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=D032DB3A-24E8-5146-DDCFA4205A69ADAF&amp;last=true" title="webinar not available" class="recentposts">• webinar not available</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=D6854E44-1422-1D54-B1B5AA735073ECF2" class="recentposts">• Editing webainar created in GoToWebinar</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=6FF498B3-1422-1D54-B17C4A29B6419925&amp;last=true" title="Canon announces new C300" class="recentposts">• Canon announces new C300</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=B1815657-1422-1D54-B179DCDA3E514743" class="recentposts">• Video Marketing Parable</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=23671A00-1422-1D54-B19742072B4FD7E2&amp;last=true" title="FAQ Player" class="recentposts">• FAQ Player</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=49D32252-1422-1D54-B1B9C2A62E79E1A8" class="recentposts">• The Content Ring</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=D6854E44-1422-1D54-B1B5AA735073ECF2&amp;last=true" title="Editing webainar created in GoToWebinar" class="recentposts">• Editing webainar created in GoToWebinar</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=27D94F41-1422-1D54-B157FD3A0212DEF0" class="recentposts">• Hey Perry... Is There A Visual Communicator-Like Software??</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=B1815657-1422-1D54-B179DCDA3E514743&amp;last=true" title="Video Marketing Parable" class="recentposts">• Video Marketing Parable</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=DD524395-1422-1D54-B18725C0C367FA1E" class="recentposts">• Hey Perry... Where's The Platinum Level Stuff?</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=49D32252-1422-1D54-B1B9C2A62E79E1A8&amp;last=true" title="The Content Ring" class="recentposts">• The Content Ring</a>
 				</td>
 			</tr>
 		
 			<tr>
 				<td>
-					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=517B2FC3-1422-1D54-B1D87A8733FD9564" class="recentposts">• Best FLV Software?</a>
+					<a href="http://www.askmrvideo.com/members/cfmbb/messages.cfm?threadid=27D94F41-1422-1D54-B157FD3A0212DEF0&amp;last=true" title="Hey Perry... Is There A Visual Communicator-Like Software??" class="recentposts">• Hey Perry... Is There A Visual Communicator-Like Software??</a>
 				</td>
 			</tr>
 		
 	</tbody></table>
 </td></tr></tbody></table></td></tr><!-- Category 23 -->
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat23.jpg" border="0" alt=" Calendar" height="25" width="225"></td></tr>
-					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td background="http://www.askmrvideo.com/public/images/catbg23.jpg"> 
-<table border="0" align="center">
-<tbody><tr><td align="CENTER">
-<a href="http://www.askmrvideo.com/public/mgcal.cfm?calID=1&amp;cmonth=5/1/2012" title="Previous Month"><img src="http://www.askmrvideo.com/public/images/left_arrow.gif" width="10" height="10" border="0" alt="Previous Month"></a>
-</td><td align="CENTER">
-<font face="arial" color="#990000" size="-1"><b>June 2012</b></font>
-</td><td align="RIGHT">
-<a href="http://www.askmrvideo.com/public/mgcal.cfm?calID=1&amp;cmonth=7/1/2012" title="Next Month"><img src="http://www.askmrvideo.com/public/images/right_arrow.gif" width="10" height="10" border="0" alt="Next Month"></a>
-	</td></tr>
-	<tr><td colspan="3">
-	<table width="120" border="1" cellspacing="0" cellpadding="2" bordercolor="#CCCCCC">
-  <tbody><tr bgcolor="#b60000"> 
-    <td align="CENTER" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">S</font></td>
-    <td align="CENTER" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">M</font></td>
-    <td align="CENTER" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">T</font></td>
-    <td align="CENTER" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">W</font></td>
-    <td align="CENTER" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">T</font></td>
-    <td align="CENTER" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">F</font></td>
-    <td align="CENTER" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">S</font></td>
-  </tr>
-  <tr>
-	  <td align="center" width="17" height="20">&nbsp;</td>
-	  <td align="center" width="17" height="20">&nbsp;</td>
-	  <td align="center" width="17" height="20">&nbsp;</td>
-	  <td align="center" width="17" height="20">&nbsp;</td>
-	  <td align="center" width="17" height="20">&nbsp;</td>
-	  <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 	
-				<font face="Arial, Helvetica, san-serif" size="-2"> 1 </font></td>
-	  <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 	
-				<font face="Arial, Helvetica, san-serif" size="-2"> 2 </font></td></tr>
-		 <tr>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 3</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 4</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 5</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 6</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 7</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 8</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 9</font></td></tr>
-		 <tr>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 10</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 11</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 12</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 13</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 14</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 15</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 16</font></td></tr>
-		 <tr>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#33ff99"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 17</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 18</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 19</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 20</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 21</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 22</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 23</font></td></tr>
-		 <tr>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 24</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 25</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 26</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 27</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 28</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 29</font></td>
-	 <td align="center" valign="TOP" width="17" height="20" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, san-serif" size="-2"> 30</font></td></tr></tbody></table><div align="center"><a href="http://www.askmrvideo.com/public/mgcal.cfm?calID=1&amp;cmonth=06/17/2012" title="View All Events"><font face="arial" size="-2" color="#3399CC">View All Events</font></a></div>
-</td></tr>
-</tbody></table> </td></tr></tbody></table></td></tr><!-- Category 19 -->
-					<tr><td align="left"><img src="http://www.askmrvideo.com/public/images/cat19.jpg" border="0" alt=" TESTIMONIALS" height="25" width="225"></td></tr>
-					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td background="http://www.askmrvideo.com/public/images/catbg19.jpg"> <strong>Here's what our members are saying ...</strong>
+					<tr><td align="left"><img src="/public/images/cat23.jpg" border="0" alt=" Calendar" height="25" width="225"></td></tr>
+					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td> 	
+
+<div align="center">
+	
+		<table border="0" align="center">
+			<tbody><tr>
+				<td align="center">
+					<a href="http://www.askmrvideo.com/public/mgcal.cfm?calID=1&amp;cmonth=09/01/12" title="Previous Month"><img src="http://www.askmrvideo.com/public/images/left_arrow.gif" width="10" height="10" border="0" alt="Previous Month"></a>
+				</td>
+				<td align="center">
+					<font face="arial" color="#990000" size="-1"><b>October 2012</b></font>
+				</td>
+				<td align="right">
+					<a href="http://www.askmrvideo.com/public/mgcal.cfm?calID=1&amp;cmonth=11/01/12" title="Next Month"><img src="http://www.askmrvideo.com/public/images/right_arrow.gif" width="10" height="10" border="0" alt="Next Month"></a>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table width="120" border="1" cellspacing="0" cellpadding="2" bordercolor="#CCCCCC">
+						<tbody><tr bgcolor="#b60000"> 
+							<td align="center" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">S</font></td>
+							<td align="center" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">M</font></td>
+							<td align="center" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">T</font></td>
+							<td align="center" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">W</font></td>
+							<td align="center" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">T</font></td>
+							<td align="center" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">F</font></td>
+							<td align="center" width="17" height="20"><font face="Arial, Helvetica, san-serif" size="-2" color="#ffffff">S</font></td>
+						</tr>
+						<tr>
+							
+							
+								<td align="center" width="17" height="20">&nbsp;</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">1</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#33ff99">
+									<font face="Arial, Helvetica, san-serif" size="-2">2</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">3</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">4</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">5</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">6</font>
+								</td>
+								
+									</tr><tr>
+									
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">7</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">8</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">9</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">10</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">11</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">12</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">13</font>
+								</td>
+								
+									</tr><tr>
+									
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">14</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">15</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">16</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">17</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">18</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">19</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">20</font>
+								</td>
+								
+									</tr><tr>
+									
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">21</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">22</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">23</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">24</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">25</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">26</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">27</font>
+								</td>
+								
+									</tr><tr>
+									
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">28</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">29</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">30</font>
+								</td>
+								
+								<td align="center" width="17" height="20" bgcolor="#FFFFFF">
+									<font face="Arial, Helvetica, san-serif" size="-2">31</font>
+								</td>
+								
+								<td align="center" width="17" height="20">&nbsp;</td>
+							
+								<td align="center" width="17" height="20">&nbsp;</td>
+							
+								<td align="center" width="17" height="20">&nbsp;</td>
+							
+						</tr>
+					</tbody></table>
+					<div align="center"><a href="http://www.askmrvideo.com/public/mgcal.cfm?calID=1&amp;cmonth=10/02/2012" title="View All Events"><font face="arial" size="-2" color="#3399CC">View All Events</font></a></div>
+				</td>
+			</tr>
+		</tbody></table>
+	
+</div>
+
+</td></tr></tbody></table></td></tr><!-- Category 19 -->
+					<tr><td align="left"><img src="/public/images/cat19.jpg" border="0" alt=" TESTIMONIALS" height="25" width="225"></td></tr>
+					<tr><td><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td> <strong>Here's what our members are saying ...</strong>
 <hr noshade="" size="1">
 "If you want to learn about cutting edge video technologies for the internet, AskMrVideo.com is the place to be. This site has provided me with great tools to use on my web projects. Beginner or advanced, you can't go wrong here."<br><br>
 <div class="testimonial" align="right"><strong>John<br>
@@ -545,8 +656,7 @@ Ask Mr Video and you will always get an answer.
 
 <a href="http://www.howtovideobusiness.com">HowToVideoBusiness</a></strong></div>
 <br>
-<a href="/public/281.cfm"><b>Read More...</b></a><br>
-<script type="text/javascript" src="http://www.peopleonyourpage.com/javascripts/player.js"></script><div id="poypVideoHolder" style="position: absolute;background-color:Transparent;width:320px;height:240px"><script type="text/javascript">initiatePlayer("http://www.peopleonyourpage.com/flashhandler.aspx?playlistid=5b579539-6ec1-4e64-8f03-67dcb1482f85");</script></div></td></tr></tbody></table></td></tr>			
+<a href="/public/281.cfm"><b>Read More...</b></a><br></td></tr></tbody></table></td></tr>			
 		</tbody></table></td>
 		<!-- End Right Nav Panel --> 
 									</tr>
@@ -559,11 +669,13 @@ Ask Mr Video and you will always get an answer.
  												<tbody><tr>
 													<td class="footer" align="center" bgcolor="#131c55">	
 														<a class="footer" href="http://www.askmrvideo.com/public/main.cfm" title="Home">Home</a> 
-														 |  <a class="footer" href="http://www.askmrvideo.com/public/programs/search.cfm" title="Search">Search</a> 		   
-														 | <a class="footer" href="http://www.askmrvideo.com/public/department8.cfm" title="Affiliates">Affiliates</a>
-												   		 | <a class="footer" href="http://www.askmrvideo.com/members/cfmbb/" title="Forums">Forums</a>			
-   														 | <a class="footer" href="javascript:void(0);" onclick="makeNewWindow('http://www.askmrvideo.com/public/tfriend.cfm?refurl=/public/department12.cfm','newWindow','scrollbars=no,resizable=yes,width=300,height=450');return false" title="Tell a Friend">Tell a Friend</a>		   
-														 | <a class="footer" href="http://www.askmrvideo.com/public/department24.cfm" title="Text Size">Text Size</a>
+														 |  <a class="footer" href="http://www.askmrvideo.com/public/programs/search.cfm" title="Search">Search</a> 
+															 | <a class="footer" href="http://www.askmrvideo.com/members/cfmbb/" title="Forums">Forums</a>		   
+															 | <a class="footer" href="http://www.askmrvideo.com/public/department8.cfm" title="Affiliates">Affiliates</a>		   
+															 | <a class="footer" href="http://www.askmrvideo.com/public/department6.cfm" title="Contact Info">Contact Info</a>
+															 | <a class="footer" href="http://www.askmrvideo.com/members/forum/openforum.cfm?forum=1" title="Discussion Forum">Discussion Forum</a>			
+															 | <a class="footer" href="javascript:void(0);" onclick="makeNewWindow('http://www.askmrvideo.com/public/tfriend.cfm?refurl=/public/department12.cfm','newWindow','scrollbars=no,resizable=yes,width=300,height=500');return false" title="Tell a Friend">Tell a Friend</a>		   
+															 | <a class="footer" href="http://www.askmrvideo.com/public/department24.cfm" title="Text Size">Text Size</a>
 														<br><br>
 														<span class="official"><font color="white">©2006-2008 Main Line Interactive, LLC
 All Rights Reserved. Reproduction without permission prohibited.</font><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -572,9 +684,10 @@ All Rights Reserved. Reproduction without permission prohibited.</font><script s
 _uacct = "UA-1886457-2";
 urchinTracker();
 </script>
-<script type="text/javascript" src="http://analytics.aweber.com/js/awt_analytics.js?id=7QuP"></script></span><br>
-														<span class="official">This site is powered by <a class="footer" href="http://www.membergate.com" title="MemberGate membership site software">MemberGate membership site software</a></span>
-														<br>&nbsp;
+<script type="text/javascript" src="http://analytics.aweber.com/js/awt_analytics.js?id=7QuP"></script></span>
+														
+																<br><span class="official">This site is powered by <a class="footer" href="http://www.membergate.com" title="MemberGate membership site software" target="_blank">MemberGate membership site software</a></span><br><br>
+															
 													</td>
 												</tr>
 											</tbody></table>
@@ -588,5 +701,16 @@ urchinTracker();
 				</td>
 			</tr>
 		</tbody></table>
+		
+				<script type="text/javascript">
+					function tellafriend() {
+						Shadowbox.open({
+							content:    '<div class="taf-msg" style="background:white;width:100%;height:100%;"><div style="padding:5px;">If you found this article interesting, please share it with your friends using one of the options below:<br><br><a href="mailto:?subject=Check%20out%20%2D%20http%3A%2F%2Fwww%2Easkmrvideo%2Ecom%2Fpublic%2Fdepartment12%2Ecfm&body=Check%20out%20this%20page%20on%20www%2Easkmrvideo%2Ecom%2E%0A%09%0A%09%0A%09%0A%09http%3A%2F%2Fwww%2Easkmrvideo%2Ecom%2Fpublic%2Fdepartment12%2Ecfm%0A%09%0A%09%0A%09%0A%09It%27s%20a%20great%20source%20of%20information%20and%20I%27m%20sure%20you%27ll%20enjoy%20it%2E" target="_blank" onClick="javascript:Shadowbox.close();"><img src="/members/images/tafoutlook.png" border="0"><span style="position:relative;top:-22px;margin-left:3px;">Click to tell your colleagues via your Outlook email</span></a><div style="clear:both;"></div><br><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww%2Easkmrvideo%2Ecom%2Fpublic%2Fdepartment12%2Ecfm&title=Check%20out%20%2D%20http%3A%2F%2Fwww%2Easkmrvideo%2Ecom%2Fpublic%2Fdepartment12%2Ecfm&summary=Check%20out%20this%20page%20on%20www%2Easkmrvideo%2Ecom%2E%0A%09%0A%09%0A%09%0A%09http%3A%2F%2Fwww%2Easkmrvideo%2Ecom%2Fpublic%2Fdepartment12%2Ecfm%0A%09%0A%09%0A%09%0A%09It%27s%20a%20great%20source%20of%20information%20and%20I%27m%20sure%20you%27ll%20enjoy%20it%2E" target="_blank" onClick="javascript:Shadowbox.close();"><img src="/members/images/taflinkedin.png" border="0"><span style="position:relative;top:-22px;margin-left:3px;">Click to tell your LinkedIn contacts</span></a><div style="clear:both;"></div><br><a href="https://mail.google.com/mail/?fs=1&view=cm&shva=1&su=Check%20out%20%2D%20http%3A%2F%2Fwww%2Easkmrvideo%2Ecom%2Fpublic%2Fdepartment12%2Ecfm&body=Check%20out%20this%20page%20on%20www%2Easkmrvideo%2Ecom%2E%0A%09%0A%09%0A%09%0A%09http%3A%2F%2Fwww%2Easkmrvideo%2Ecom%2Fpublic%2Fdepartment12%2Ecfm%0A%09%0A%09%0A%09%0A%09It%27s%20a%20great%20source%20of%20information%20and%20I%27m%20sure%20you%27ll%20enjoy%20it%2E" target="_blank" onClick="javascript:Shadowbox.close();"><img src="/members/images/tafgmail.png" border="0"><span style="position:relative;top:-22px;margin-left:3px;">Click to tell your friends via your Gmail account</span></a><div style="clear:both;"></div></div></div>',
+							player:     "html",
+							title:      "Share this Article with your Friends"
+						});	
+					}
+				</script>
+			
 	
  </cf_my_bar></body></html>
