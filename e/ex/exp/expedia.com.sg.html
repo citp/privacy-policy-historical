@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the expedia.com.sg privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512021208id_/http%3A//www.expedia.com.sg/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expedia.com.sg privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003081653id_/http%3A//www.expedia.com.sg/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html><head><script src="/static/ui_toolkit/v1.0/js/libs/LAB.min.js"></script><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript" src="/pubspec/scripts/include/xmlhttp.js"></script>
 
-<!-- srvpush 19:12:08(:167) -->
+<!-- srvpush 01:16:28(:627) -->
+
 
 
 
@@ -948,13 +949,10 @@ function popup(url,nme,hgt,wgt)
 	
 	
 	<!-- feed header -->
-	<!--ActivityId:93db7ea2-758c-425e-bd8b-b61631e0312d;-->
+	<!--ActivityId:e2af5ad0-29fc-4b26-836c-b7a332ee8ed8;-->
 
 
-
-<script src="/static/default/default/scripts/popunder.js?v=release-2012-05-r2-62-457069"></script>
-<script src="/static/header/headUtil.js?v=release-2012-05-r2-62-457069"></script>
-<!-- 0 ms -->
+<script src="/minify/headUtil-min-1425006475.js?v=release-2012-09-r3-168-574239-1"></script><!-- 0 ms -->
 <div itemscope="" itemtype="http://schema.org/Product" id="xp-hdr" style="float:left;">
 	<script type="text/javascript">
 		if (typeof xp  === "undefined"){
@@ -1023,7 +1021,9 @@ function popup(url,nme,hgt,wgt)
 	        #xp-hdr .xp-hdr-top {min-height:72px;height:auto !important;height:72px;background-position: bottom left;}	           
 	              
 	        /* logo */    
-	        #xp-hdr .xp-hdr-logo {position:absolute; float:left;display: inline;no-repeat;margin: 21px 0 0 14px; padding:0;}
+	        #xp-hdr .xp-hdr-logo {position:absolute; float:left;display: inline;no-repeat;
+	        margin: 21px 0 0 14px;
+	        padding:0;}
 			#xp-hdr .xp-thhdr-logo {position:absolute; float:left;display: inline;no-repeat;margin: 15px 0 0 14px; padding:0;}
 	        #xp-hdr .xp-hdr-logo a img {border: none;}
 			#xp-hdr .xp-thhdr-logo a img {border: none;}
@@ -1088,9 +1088,6 @@ function popup(url,nme,hgt,wgt)
 			#nav-woodpecker {border-style: solid; border-color: black; height: 32px; background-color: rgb(255, 0, 0); text-align: center; 
 				 vertical-align: middle; font-size: 22px; color: white;font-style: normal;line-height:120%;}
 			#nav-woodpecker .nav-woodpecker-b{font-weight: bold; text-decoration: underline;}
-			#nav-tool-travelalert { color: #cc0000 !important; }
-			#nav-tool-travelalert:hover, #nav-tool-travelalert:active { color: #ff2323 !important; }
-
 			
 	    </style>
 		
@@ -1101,11 +1098,13 @@ function popup(url,nme,hgt,wgt)
 	
 		
 
-	    <script src="/static/default/default/scripts/exp/core/ChannelTracking.js?v=release-2012-05-r2-62-457069"></script>
-<!-- 0 ms -->
+
+	    <script src="/minify/exp.core.ChannelTracking-min-2571654121.js?v=release-2012-09-r3-168-574239-1"></script><!-- 0 ms -->
 
 
 
+<noscript>
+</noscript>
 			
 
 	    <div class="xp-hdr-width xp-hdr-top xp-hsprite clearfix"> 
@@ -1118,14 +1117,95 @@ function popup(url,nme,hgt,wgt)
 	         <div id="nav-head-service" class="xp-hdr-svc">
 	            <ul>
 			
+			
+		                        <li id="nav-tool-welc" class="xp-no-border-right">
+		                            <span class="xp-hdr-bold">Welcome - Already a member?</span>
+		                            [ <a id="nav-tool-signin" rel="nofollow" target="_top" href="http://www.expedia.com.sg/pub/agent.dll?qscr=logi&amp;ussl=1" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:SignIn')">Sign In</a> ]
+		                        </li>
 
-	                        <li id="nav-tool-welc" class="xp-no-border-right">
-	                            <span class="xp-hdr-bold">Welcome - Already a member?</span>
-	                            [ <a id="nav-tool-signin" rel="nofollow" target="_top" href="http://www.expedia.com.sg/pub/agent.dll?qscr=logi&amp;ussl=1" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:SignIn')">Sign In</a> ]
-	                        </li>
+
+<script type="text/javascript">
+	
+	
+	
+    function loadFbtkAutoLoginScripts() {
+        $LAB.setOptions({AlwaysPreserveOrder:true})
+        	.script('/static/default/default/scripts/authtk.js?v=release-2012-09-r3.168.574239')
+        	.script('/static/default/default/scripts/social/fbtk.js?v=release-2012-09-r3.168.574239')
+        	.wait(function() {
+        	
+            authtk.init(function() {
+                fbtk.init('en_SG', '131538103586818', function() {
+                    fbtk.checkConnection(function(response) {
+                        var authData = {
+                            provider: 'Facebook',
+                            userId: response.authResponse.userID,
+                            accessToken: response.authResponse.accessToken,
+                            successUrl: ''
+                        };
+
+                        if (window.top.location.pathname.indexOf("TripPreferences")>0) {
+                            return;
+                        }
+                        if (document.location.search.indexOf("qscr=exit")!=1) {
+                            authtk.framedAutologin(authData);
+                        } else {
+                            var doNothing = function () {};
+                            fbtk.logout(doNothing, doNothing);
+                        }
+                    });
+                });
+            });
+            
+        });
+	}
+
+
+if (typeof inlinedLab === 'undefined') {
+	inlinedLab = (function() {
+		return {
+			
+			loaded: false,
+			callbacks: [],
+			
+			addCallback: function(callback) {
+				if (inlinedLab.loaded) {
+					callback();
+				} else {
+					inlinedLab.callbacks.push(callback);
+				}
+			},
+			
+			markLoadedAndFireCallbacks: function() {
+				inlinedLab.loaded = true;
+				while (inlinedLab.callbacks.length > 0) {
+					var ilcb = inlinedLab.callbacks.pop();
+					ilcb();
+				}
+			}
+		}
+	})();
+}
+		
+if (typeof $LAB === 'undefined') {
+    (function(g,b,d){var c=b.head||b.getElementsByTagName("head"),D="readyState",E="onreadystatechange",F="DOMContentLoaded",G="addEventListener",H=setTimeout;
+        H(function(){if("item"in c){if(!c[0]){H(arguments.callee,25);return}c=c[0]}var a=b.createElement("script"),e=false;a.onload=a[E]=function(){if((a[D]&&a[D]!=="complete"&&a[D]!=="loaded")||e){return false}a.onload=a[E]=null;e=true;
+        inlinedLab.markLoadedAndFireCallbacks();
+    };
+    
+    a.src="/static/ui_toolkit/v1.0/js/libs/LAB.min.js";
+    c.insertBefore(a,c.firstChild)},0);if(b[D]==null&&b[G]){b[D]="loading";b[G](F,d=function(){b.removeEventListener(F,d,false);b[D]="complete"},false)}})(this,document);
+} else {
+	inlinedLab.markLoadedAndFireCallbacks();
+}
+
+
+	inlinedLab.addCallback(loadFbtkAutoLoginScripts);
+	
+</script>
 	                     <li class="">
-	                        
-							<a id="nav-tool-itinerary" rel="nofollow" target="_top" href="http://www.expedia.com.sg/pub/agent.dll?qscr=litn" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:Trips')">
+						 
+							 <a id="nav-tool-itinerary" rel="nofollow" target="_top" href="http://www.expedia.com.sg/p/itinerary/switchboard.htm" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:Trips')">
 				
 	                                My Itineraries
 	                         </a>
@@ -1153,13 +1233,35 @@ function popup(url,nme,hgt,wgt)
 						</li>	                    	
 	                    <li class="xp-no-border-right">
 	                         
-<script src="/static/default/default/scripts/external/opinionlab/oo_engine.js?v=release-2012-05-r2-62-457069"></script>
-<!-- 0 ms -->
+<script src="/minify/opinionlab-oo_engine-min-1547211068.js?v=release-2012-09-r3-168-574239-1"></script><!-- 0 ms -->
 
+<script type="text/javascript">
+    var popUpObj,
+        _sH=screen.height,
+        _sW=screen.width;
+    function showModalPopUp()
+    {
+        popUpObj=window.open("/p/info-other/feedback.htm?referer="+OpinionLab_FB.O_HT()+"&customvar="+OpinionLab_FB.O_CV()+"&prev="+OpinionLab_FB.O_PRV(),
+        "ModalPopUp",
+        "toolbar=no," +
+        "scrollbars=no," +
+        "location=no," +
+        "statusbar=no," +
+        "menubar=no," +
+        "resizable=no," +
+        "width=635px," +
+        "height=280px," +
+        "screenX=" + ((_sW-535)/2) + "," +
+        "screenY=" + ((_sH-192)/2) + "," +
+        "left=" + ((_sW-535)/2)+ "," +
+        "top=" + ((_sH-192)/2)
+        );
+        popUpObj.focus();
+    }
+</script> 
 <a id="nav-tool-feedback" rel="nofollow" target="_top" href="https://secure.opinionlab.com/ccc01/comment_card.asp" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:Opinion');OpinionLab.O_LC();return false;">
     Feedback
 </a>
-
 
 	                     </li>	
 
@@ -1172,19 +1274,40 @@ function popup(url,nme,hgt,wgt)
 
 				</ul>
 	          </div>
-	              <div id="nav-head-ad" class="xp-hdr-ad">	
-			
-				
-				<div id="Banner"></div>
-					
-													
-	              </div> 
+              <div id="nav-head-ad" class="xp-hdr-ad">
+
+                    <div id="Banner"></div>
+              </div>
 	    </div>    
-	    <div id="tab-navigation" class="xp-hdr-width clearfix xp-hsprite xp-hdr-tab">
-	        
+	    
+		    <div id="tab-navigation" class="xp-hdr-width clearfix xp-hsprite xp-hdr-tab">
+		        
 
 
-
+<script type="text/javascript" src="/static/publish/region_apac/js/header-tab-activation.js"> </script>
+ 
+  <style type="text/css">
+	#meat-sticker {
+		background:transparent url(http://media.expedia.com/media/content/shared/images/navigation/no-fees.png?v=1);background-repeat:no-repeat;border:0;
+		height:28px;width:44px;
+	}
+	#meat-sticker-new {
+		background:transparent url(http://media.expedia.com/media/content/shared/images/navigation/new.png?v=1);background-repeat:no-repeat;border:0;
+		height:28px;width:44px;
+	}
+	
+</style>	
+ <!--[if IE 6]>
+<style type="text/css">
+	#meat-sticker {background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.expedia.com/media/content/shared/images/navigation/no-fees.png?v=1',sizingMethod='scale');}
+</style>
+<style type="text/css">
+	#meat-sticker-new {background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.expedia.com/media/content/shared/images/navigation/new.png?v=1',sizingMethod='scale');}
+</style>
+<![endif]-->
+ 
+ <div id="meat-sticker-new" style="position:absolute; top:-17px; left:345px;"></div>
+ 
 <ul>
 <li id="tab-home">
 <a target="_top" title="" href="http://www.expedia.com.sg/" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Multi:Home' );">
@@ -1202,19 +1325,33 @@ function popup(url,nme,hgt,wgt)
 <a target="_top" title="Flights + Hotels" href="http://www.expedia.com.sg/Packages" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Package:FltHotel' );">
 <span>Flights + Hotels</span>
 </a>
-</li>
-</ul>
+</li><li id="tab-cars">
+<a target="_top" title="Car Rental" href="http://www.expedia.com.sg/Car-Rental" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Cars:Cars' );">
+<span>Car Rental</span>
+</a>
+</li><li id="tab-weekendgetaways">
+<a target="_top" title="Weekend Getaways" href="http://www.expedia.com.sg/p/weekend-getaways.htm" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:3PP:Package' );" class="xp-hdr-tab-highlight">
+<span>Weekend Getaways</span>
+</a>
+</li></ul>
 
 <div style="float:right;height:30px;">
 	<div style="float:left;padding:8px 5px 0px 0px;color:#003e7e;font-size:12px;font-weight:bold;"><a href="http://www.facebook.com/expedia.com.sg" style="text-decoration:none;color:#003e7e;" target="_blank">Like us on Facebook</a></div>
 	<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fexpedia.com.sg&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21&amp;ref=header" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px; margin-top:4px;" allowtransparency="true"></iframe>
 </div>
-       
-	    </div>    
-	
+
+		    </div>
+
 </div>	
 <div style="clear:both"></div>
-	
+
+
+
+
+
+
+
+
 	
 	
 
@@ -1247,7 +1384,7 @@ s_server = "www.expedia.com.sg";
 s_channel = "Help";
 s_prop1 = ""; 
 s_prop11 = ""; 
-s_prop12 = "dcdcc0fb0b324dbab3d54bf6ddc4ee74"; 
+s_prop12 = "38c935b4a35d49c2b0cba52597500e0a"; 
 s_account = "Expedia" + "14";
 s_exp_account = s_account;
 s_pageType = ""; 
@@ -1611,7 +1748,7 @@ font-family:Arial"><u>Referring websites.</u> If you were referred to this site 
 tab-stops:list .5in"><!--[if !supportLists]--><span style="mso-bidi-font-size:10.0pt;
 font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><!--[endif]--><span style="mso-bidi-font-size:10.0pt;
-font-family:Arial"><u>Companies within our corporate family</u>. We may share your personal information with our corporate affiliates in the leisure and travel sector, including Hotels.com; L.P.; TripAdvisor LLC; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both leisure- and travel-related, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. <o:p></o:p></span></p>
+font-family:Arial"><u>Companies within our corporate family</u>. We may share your personal information with our corporate affiliates in the leisure and travel sector, including Hotels.com; L.P.; Hotwire, Inc.; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both leisure- and travel-related, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. <o:p></o:p></span></p>
 
 <p style="margin:0in;margin-bottom:.0001pt;line-height:14.0pt"><span style="font-size:10.0pt;font-family:Arial"><br>
 We also may share your information: <o:p></o:p></span></p>
@@ -1725,7 +1862,7 @@ please contact us at <a href="mailto:travel@support.expedia.com.sg">travel@suppo
 We will do our best to respond to your request within 24 hours. <o:p></o:p></span></p>
 
 <p style="margin:0in;margin-bottom:.0001pt;line-height:14.0pt"><span style="font-size:10.0pt;font-family:Arial">This Privacy Policy is effective as
-of <strong><span style="font-family:Arial">September 27, 2010</span></strong><o:p></o:p></span></p>
+of <strong><span style="font-family:Arial">July 06, 2012</span></strong><o:p></o:p></span></p>
 
 <p style="margin:0in;margin-bottom:.0001pt;line-height:14.0pt"><span style="font-size:10.0pt;font-family:Arial"><br>
 Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA <o:p></o:p></span></p>
@@ -1819,11 +1956,9 @@ PLSetChannel("Help");
 </style>
 
 	
-	<!--navigation-markup-separator-->   
-<link rel="stylesheet" href="/static/footer/footer.css?v=release-2012-05-r2-62-457069">
-<!-- 0 ms -->
-<script src="/static/footer/footer.js?v=release-2012-05-r2-62-457069"></script>
-<!-- 15 ms -->
+	<!--navigation-markup-separator-->
+<link rel="stylesheet" href="/minify/footer-min-2523540849.css?v=release-2012-09-r3-168-574239-1"><!-- 0 ms -->
+<script src="/minify/footer-min-4117523228.js?v=release-2012-09-r3-168-574239-1"></script><!-- 0 ms -->
 <div id="footer" class="footer">
     <div class="footer-separator">&nbsp;</div>
     <div class="footer-rounded-box footer-links">
@@ -1857,7 +1992,7 @@ PLSetChannel("Help");
                     <ul class="footer-list">
                         <li><a href="http://www.airasia.com/sg/en/home.page" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:Epartners')">AirAsia</a><span>|</span></li>
 			            <li><a href="http://www.airasiago.com/travel/arc.cfm?nav=enSINGAPORE" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:Epartners')">AirAsiaGo</a><span>|</span></li>
-                         <li><a href="http://www.backick.com" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:Epartners')">Backick</a></li>                   
+                         <li><a href="http://backick.com" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:Epartners')">Backick</a></li>                   
 				   </ul>
                 </div>
                 <div id="footer-corporate-links" class="footer-list-container">
@@ -1927,190 +2062,69 @@ PLSetChannel("Help");
 
 
 
-	<style>
-	.ie6-image{
-		width:530x;
-		height:203px;
-		filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/static/fusion/v2.3/images/IE6/IE6.png');
-	}
+<!--[if lt IE 7]>
+<style>
 
-	.ie6-close-row{
-		height:16px;
-		position:relative;
-	}
+    #xp-hdr {margin-top: 34px;}
 
-	.ie6-wrapper {
-		display:none;
-		position:absolute;
-		top:193px;
-		width:100%;
-		text-align:center;
-		z-index:1001;
-		color:#333;
-		font-family:arial,helvetica,clean,sans-serif;
-	}
+    .ie6-frame-wrapper{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1000;
+    }
+    .ie6-frame {
+        color: #fff;
+        padding: 10px;
+        background-color: #003366;
+    }
 
-	.ie6-content-wrap{
-		position:absolute;
-		left:50%;
-	}
+    .ie6-frame p {margin: 5px 0; font-size: 12px}
+    .ie6-frame h3, .ie6-frame p {display: inline;}
+    .ie6-frame a {color: #fff; text-decoration: underline;}
 
-	.ie6-content{
-		width:415px;
-		height:203px;
-		position:absolute;
-		left:-175px;
-		top:-180px;
-		text-align:left;
-	}
+    .ie6-frame .btn-close {
+        position: absolute;
+        top: 4px;
+        right: 10px;
+    }
+    .ie6-frame .btn-close .icn {
+        width: 26px;
+        height: 26px;
+        background-image: url(/static/ui_toolkit/v1.0/images/uitk-commonicons.png);
+        background-position: 100% -176px;
+        display: block;
+        text-indent: -999em;
+    }
 
-	.ie6-background {
-		display:none;
-		background-color:#6E6E6E;
-		filter:alpha(opacity=60);
-		position:absolute;
-		top:0px;
-		left:0px;
-		height:100%;
-		width:100%;
-		z-index:1000;
-	}
+</style>
 
-	.ie6-iframe{
-		display:none;
-		border:none;
-		position:absolute;
-		top:0px;
-		left:0px;
-		height:100%;
-		width:100%;
-		z-index:999;
-		filter:alpha(opacity=0);
-	}
+<script>
 
-	.ie6-logo{
-		float:left;
-	}
+    $(document).ready(function(){
+        $(".ie6-frame .btn-close").click(function(){
+            $(this).parent().slideUp("slow", function(){
+                $(this).remove();
+            });
 
-	.ie6-close{
-		display:block;
-		background: url('/static/fusion/v2.3/images/iconsSprites.png') no-repeat -91px 0px;
-		overflow:hidden;
-		width:14px;
-		height:14px;
-		position:absolute;
-		top:0px;
-		right:0px;
-	}
+            $("#xp-hdr").animate({
+                marginTop: 0
+            }, "slow");
+        });
+    });
 
-	.ie6-title{
-		margin-bottom:18px;
-		font-size:16px;
-		font-weight:normal;
-	}
+</script>
 
-	.ie6-paragraph{
-		margin-bottom:5px;
-		font-size:12px;
-	}
-
-	.ie6-button-row{
-		position:absolute;
-		top:140px;
-	}
-
-	.ie6-remind{
-		text-decoration:underline;
-		font-weight:bold;
-		font-size:12px;
-		display:block;
-		float:right;
-		height:21px;
-		line-height:20px;
-		margin-right:16px;
-	}
-
-	.ie6-button-wrap{
-		color:#FFF;
-		text-decoration:none;
-		cursor:pointer;
-	}
-
-	.ie6-button{
-		background:url(/static/fusion/v2.3/images/BlueButton.png) 0px -42px repeat-x;
-		font-weight:bold;
-		height:21px;
-		display:block;
-		line-height:20px;
-		float:right;
-	}
-
-	.ie6-button-wrap:hover,.ie6-button-wrap:active,.ie6-button-wrap:visited{
-		color:#FFF;
-		text-decoration:none;
-	}
-
-	.ie6-bleft{
-		background:url(/static/fusion/v2.3/images/BlueButton.png) 0px -21px no-repeat;
-		height:21px;
-		width:18px;
-		display:block;
-		float:right;
-	}
-
-	.ie6-bright{
-		background:url(/static/fusion/v2.3/images/BlueButton.png) 0px 0px no-repeat;
-		height:21px;
-		width:18px;
-		display:block;
-		float:right;
-	}
-	
-	#ie6-frame{display:none;}
-	#ie6-bg{display:none;}
-	#ie6-wra{display:none;}
-	</style>
-
-	<!--[if lte IE 6]>
-	<style type="text/css">
-		#ie6-frame{display:block;}
-		#ie6-bg{display:block;}
-		#ie6-wra{display:block;}
-	</style>
-	<![endif]-->
-
-	<iframe id="ie6-frame" class="ie6-iframe" scrolling="no" frameborder="0" style="width: 1366px; height: 6436px;"></iframe>
-	<div id="ie6-bg" class="ie6-background" style="width: 1366px; height: 6436px;"></div>
-	<div id="ie6-wra" class="ie6-wrapper">
-		<div class="ie6-image"></div>
-		<div class="ie6-content-wrap">
-			<div id="ie6-m" class="ie6-content">
-				<div class="ie6-close-row"><a href="javascript:ie6Close()" class="ie6-close"><!-- --></a></div>
-				<h3 class="ie6-title">Your Internet Explorer 6 browser is outdated</h3>
-				<p class="ie6-paragraph">Please upgrade by downloading a new version on the Microsoft website.</p>
-				<p class="ie6-paragraph">Then come back to Expedia and enjoy a faster, more secure experience.</p>
-				<div class="ie6-button-row">
-					<a class="ie6-button-wrap" onclick="ie6Close();" href="http://windows.microsoft.com/en-SG/internet-explorer/downloads/ie-8"><span class="ie6-bleft"></span><span class="ie6-button">UPGRADE NOW</span><span class="ie6-bright"></span></a>
-					<a class="ie6-remind" href="javascript:ie6Close()">Remind me later</a>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<script type="text/javascript">
-	document.getElementById('ie6-frame').style.width = document.documentElement.scrollWidth;
-	document.getElementById('ie6-frame').style.height = document.documentElement.scrollHeight;
-	document.getElementById('ie6-bg').style.width = document.documentElement.scrollWidth;
-	document.getElementById('ie6-bg').style.height = document.documentElement.scrollHeight;
-
-	function ie6Close()
-	{
-		document.getElementById('ie6-frame').style.display = 'none';
-		document.getElementById('ie6-bg').style.display = 'none';
-		document.getElementById('ie6-wra').style.display = 'none';
-		document.cookie = "IE6U=hide";
-	}
-	</script>
+<div class="ie6-frame-wrapper">
+    <div class="ie6-frame">
+        <h3>The browser you are using - Internet Explorer 6, is outdated.</h3>
+        <p>Please upgrade to a <a href="http://www.browsehappy.com" target="_blank" rel="external">new browser</a>.</p>
+        <p>Then come back to Expedia and enjoy a faster, more secure experience.</p>
+        <a title="close dialog" class="btn-close" href="#"><span class="icn">×</span></a>
+    </div>
+</div>
+<![endif]-->
 
 
 
@@ -2157,7 +2171,7 @@ PLSetChannel("Help");
 
 
 
-<!--TS (14/0[CID=0]) compress=1,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.186.22.160, Req=19:12:08(:151), Rsp=19:12:08(:495), hash=95(0x01602000) ET=359ms Dur=343ms Mif=0 --><comment id="ProcTime" title="343"></comment>
+<!--TS (14/0[CID=0]) compress=1,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.186.23.32, Req=01:16:28(:612), Rsp=01:16:29(:283), hash=80(0x01602000) ET=688ms Dur=672ms Mif=0 --><comment id="ProcTime" title="672"></comment>
 
 	
 	
@@ -2189,7 +2203,7 @@ PLSetChannel("Help");
 
 
 
-<comment id="TotalBytes" title="85665" title1="29262"></comment>
+<comment id="TotalBytes" title="79742" title1="30331"></comment>
 
 
 
