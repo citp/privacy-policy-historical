@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip2location.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501084802id_/http%3A//www.ip2location.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip2location.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003182913id_/http%3A//www.ip2location.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IP2Location.com
 
