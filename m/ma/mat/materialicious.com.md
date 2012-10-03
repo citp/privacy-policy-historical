@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the materialicious.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512005502id_/http%3A//www.materialicious.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the materialicious.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003023956id_/http%3A//materialicious.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | materialicious
 
