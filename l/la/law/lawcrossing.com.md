@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513012215id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003194809id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # LawCrossing.com - Privacy Policy, Your Privacy is So Important To Us | LawCrossing.com
 
@@ -59,9 +59,9 @@ Furthermore, you may opt-out of receiving emails from other Juriscape companies 
 **Correct/Update**  
 If you would like to edit your personal information, password, or other settings, simply log in to your account and click on the "My Account" link towards the top of the page. You can also contact us using any method listed at <http://www.lawcrossing.com/lchelp.php>. 
 
-To change your credit card information, please call one of our customer service representatives at 626-243-1801. If your credit card has been lost or has not been granted approval by Verisign, when you attempt to log-in, you will be prompted to sign-up for an account. Simply enter the prior account information along with your new credit card information. All inquiries will receive responses within 30 days of our receipt of them. 
+To change your credit card information, please call one of our customer service representatives at (800) 973-1177. If your credit card has been lost or has not been granted approval by Verisign, when you attempt to log-in, you will be prompted to sign-up for an account. Simply enter the prior account information along with your new credit card information. All inquiries will receive responses within 30 days of our receipt of them. 
 
-If you want to delete your profile, please contact one of our customer service representatives at 626-243-1801. 
+If you want to delete your profile, please contact one of our customer service representatives at (800) 973-1177. 
 
 **What anonymous information is collected on this site?**  
 IP addresses are briefly logged but discarded within a short period of time. No anonymous information that may be received from visitors is used in any of our work, promotions, or research. These logged files are not connected to a subscriber's personally identifiable information. 
