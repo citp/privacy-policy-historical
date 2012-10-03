@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinksheets.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502080128id_/http%3A//www.otcmarkets.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinksheets.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003071228id_/http%3A//www.otcmarkets.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - OTCMarkets.com
 
