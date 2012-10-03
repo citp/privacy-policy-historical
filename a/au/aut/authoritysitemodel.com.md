@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the authoritysitemodel.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604202744id_/http%3A//www.authoritysitemodel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritysitemodel.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003130858id_/http%3A//www.authoritysitemodel.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Authority Site Model | Privacy Policy
+
+PRIVACY POLICY
 
 **HOW WE PROTECT YOUR PRIVACY**
 
