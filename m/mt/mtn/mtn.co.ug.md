@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtn.co.ug privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630121245id_/http%3A//mtn.co.ug/Help/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtn.co.ug privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003025027id_/http%3A//www.mtn.co.ug/Help/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # MTN
 
