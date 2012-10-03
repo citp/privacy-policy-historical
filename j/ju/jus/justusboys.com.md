@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justusboys.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501083344id_/http%3A//www.justusboys.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justusboys.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003072602id_/http%3A//www.justusboys.com/terms/privacy.html) for the most accurate reproduction.*
 
 # JustUsBoys.com Privacy Policy"
 
