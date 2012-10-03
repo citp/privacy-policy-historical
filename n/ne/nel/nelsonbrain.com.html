@@ -1,649 +1,508 @@
-<!--The following is the downloaded HTML source of the nelsonbrain.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604015009id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nelsonbrain.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003034406id_/http%3A//www.nelson.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-<title>Cengage Learning - Privacy Statement</title>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<meta name="description" content="Cengage Learning delivers highly-customized learning solutions for universities, instructors, students, libraries, government agencies, corporations, and professionals worldwide.">
-<meta name="keywords" content="education, publication, higher education, learning solutions, libraries, english language teaching, global, k-12, ap, honors, reference, professional, brooks cole, course technology, custom solutions, delmar, gale, heinle, schirmer, south-western, wadsworth, thomson learning">
-<link href="/css/dotcom/cengage_global_search.css" rel="stylesheet" type="text/css">
-<link href="/css/dotcom/cengage_dotcom.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="/jscript/dotcom/jquery.cycle.all.min.js"></script>
-</head>
-<body>
-<div id="global">
-<!-- Header TMPL file begins here  -->
-<div id="skip">
-<a href="#SkipToContent">Skip to Main Content</a>
-</div>
+<html><head>
+<title>Nelson Education Ltd. - Privacy Policy</title>
+<meta name="Generator" content="EditPlus">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<link href="http://www.nelson.com/nelson/common/css/nelson/ncd.css" rel="stylesheet" type="text/css">
+<link href="http://www.nelson.com/nelson/common/css/nelson/nelson.css" rel="stylesheet" type="text/css">
+<link href="http://www.nelson.com/nelson/common/css/nelson/footer.css" rel="stylesheet" type="text/css">
+ <script language="JavaScript" src="http://www.nelson.com/nelson/common/scripts/nelson.js"></script>
+<script>browserdetect('nelson')</script>
 
-<style type="text/css" media="all">
-@import "/css/dotcom/header_footer.css";
-</style>
-<script type="text/javascript" src="/omniture/customLinkTracking.js"></script>
-<script type="text/javascript" src="/jscript/jquery.DOMWindow.js"></script>
-<script type="text/javascript" src="/jscript/jquery.url.js"></script>
-<script type="text/javascript" src="/jscript/jquery.tooltip.min.js"></script>
-<script type="text/javascript" src="/jscript/validation.js"></script>
-<script type="text/javascript" src="/jscript/jquery.hoverIntent.js"></script>
-
-<script type="text/javascript">
-	$(document).ready(function(){
-	
-	
-		/*set up behavior of the search text box*/
-		var defaultValue='Enter author, title, ISBN or keyword';
-		$('#search_text').focus(function(){
-			if(this.value==defaultValue){this.value='';} 
-		});
-		$('#search_text').blur(function(){
-			if($.trim(this.value)==''){this.value=defaultValue;}
-		});
-		$('#search_text').bind('keypress', function(e){
-			if(e.keyCode==13){$('#submit_button_header').click();}
-		});
-		/*this is to remove the tool tip FOUC */
-		$('#search_text').focus(function(){
-			if(this.value==defaultValue){this.value='';} 
-		});
-		$('#search_text').blur(function(){
-			if($.trim(this.value)==''){this.value=defaultValue;}
-		});
-		$('#search_text').bind('keypress', function(e){
-			if(e.keyCode==13){$('#submit_button_header').click();}
-		});
-		$('#select_catalog').removeClass('offLeft');
-		$('#select_catalog').addClass('selectAcatalog');		
-
-		/*hide select catalog tooltip on load*/
-		$('#select_catalog').hide();
-		/*form submit behavior*/
-		$("#submit_button_header").click(function(){
-			if($('#search_text').val()==defaultValue){$('#search_text').val('');}
-			if($("#N").val()=='0'){
-				$('#select_catalog').show();
-				return false;
-				}
-			if($("#N").val()=='gale'){
-				$('#searchInput').val($('#search_text').val());
-				$('#CenSearch').html('');
-				$('#gale_search').submit();
-				}
-			else if($("#N").val()=='elt'){
-				$('#search_terms').val($('#search_text').val());
-				$('#CenSearch').html('');
-				$('#elt_search').submit();
-				}
-			else{
-				var n = validateISBN2($('#search_text').val());
-				if (n[0]==true){$('#search_text').val(n[1]);}
-				var q = $('#search_text').val().replace(/^\s+|\s+$/g,'');
-				if (q==null || q.length== 0 ||q =='Enter author, title or keyword')
-					return false;
-				else{
-					$('#search_text').val(q);
-					$('#CenSearch').submit();
-					}
-				}
-			
-		});
-		
-	
-		
-		$("#Right_nav_dotcom a").click(function(){
-			var ObId = $(this).get(0).id;
-	
-			s=s_gi('thcengagecorp');
-			s.linkTrackVars='prop1,events'; 
-			s.linkTrackEvents='event4';
-			s.prop1=ObId;
-			s.eVar4=ObId;
-			s.events='event4';
-			s.tl(this,'o','ObId');
-		});
-		
-	
-		
-// hover fucntions for the show and hide 
-
-  function  ShowNav() {$('#tab1').fadeIn("10");$('#Cat_nav1 p').removeClass('TopNavHeader_long');$('#Cat_nav1 p').addClass('TopNavHeader_long_hov');$('#Cat_nav1').addClass('hov_bg');}
-  function  hideNav() {$('#tab1').fadeOut("2");$('#Cat_nav1 p').removeClass('TopNavHeader_long_hov');$('#Cat_nav1 p').addClass('TopNavHeader_long');$('#Cat_nav1').removeClass('hov_bg');}
- 
-  function ShowNav_CN2() {$('#tab2').fadeIn("10");$('#Cat_nav2 p').removeClass('TopNavHeader');$('#Cat_nav2 p').addClass('TopNavHeader_hov');$('#Cat_nav2').addClass('hov_bg');}
-  function hideNav_CN2() { $('#tab2').fadeOut("2");$('#Cat_nav2 p').removeClass('TopNavHeader_hov');$('#Cat_nav2 p').addClass('TopNavHeader');$('#Cat_nav2').removeClass('hov_bg');}
-
-  function ShowNav_CN3() {$('#tab3').fadeIn("10");$('#Cat_nav3 p').removeClass('TopNavHeader');$('#Cat_nav3 p').addClass('TopNavHeader_hov');$('#Cat_nav3').addClass('hov_bg');}
-  function hideNav_CN3() {$('#tab3').fadeOut("2");$('#Cat_nav3 p').removeClass('TopNavHeader_hov');$('#Cat_nav3 p').addClass('TopNavHeader');$('#Cat_nav3').removeClass('hov_bg');}
-
-  function ShowNav_CN4() {$('#tab4').fadeIn("10");$('#Cat_nav4 p').removeClass('TopNavHeader');$('#Cat_nav4 p').addClass('TopNavHeader_hov');$('#Cat_nav4').addClass('hov_bg');}
-  function hideNav_CN4() {$('#tab4').fadeOut("2");$('#Cat_nav4 p').removeClass('TopNavHeader_hov');$('#Cat_nav4 p').addClass('TopNavHeader');$('#Cat_nav4').removeClass('hov_bg');}
-	
-	
-  // this should turn off the .on div's and toggel on the selected div. ides the slickbox on clicking the noted link
-  $('#Cat_nav1').hoverIntent(ShowNav, hideNav);
-  $('#Cat_nav2').hoverIntent(ShowNav_CN2, hideNav_CN2);
-  $('#Cat_nav3').hoverIntent(ShowNav_CN3, hideNav_CN3);
-  $('#Cat_nav4').hoverIntent(ShowNav_CN4, hideNav_CN4);
-
-// this is to remove the FOUC for the tabs navs
-
-	$('#tab1').removeClass('offLeft');
-	$('#tab1').addClass('dropDown');
-	$('#tab2').removeClass('offLeft');
-	$('#tab2').addClass('dropDown');
-	$('#tab3').removeClass('offLeft');
-	$('#tab3').addClass('dropDown');
-	
-	$('.dropDown').hide();
-	
-// this should trigger the hover intent to fire on Tab focus. , sorry very verbose 
-
-$('#Cat_nav0 a').focus(function(){hideNav();hideNav_CN2();hideNav_CN3();
-    });
-$('#Cat_nav1').focus(function(){ShowNav();hideNav_CN2();hideNav_CN3();
-    });    
-$('#Cat_nav2').focus(function(){ShowNav_CN2();hideNav();hideNav_CN3();
-    });    
-$('#Cat_nav3').focus(function(){ShowNav_CN3();hideNav();hideNav_CN2();
-    });    
-$('#purchaseNav').focus(function(){hideNav();hideNav_CN2();hideNav_CN3();
-    });
-
-    
-
-
-	});
-</script>
+<meta http-equiv="Content-Type" content="text/html;">
 <style type="text/css">
-/* this is or the search buttion */
-
-.testing {
-	background:transparent url('/images/search/search_searchBtn.jpg');
-	height:24px;
-	background-position: 1px 2px;
-	background-repeat: no-repeat;
-	width:62px;
-	border:0;
-	/*float:right;*/
-	margin:0px 0 0 2px;
-	padding:8px 0px 0px 0px;
-	
-	
+<!--
+.names {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #000000;
 }
+.titles {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	text-transform: uppercase;
+	color: #666666;
+}
+-->
 </style>
-<div id="header_container">
-  <div id="header_white">
-    <div id="header_white_content">
-      <div id="header_logo"><a href="http://www.cengage.com"><img src="/images/header_logos/cengageLearning_v3.jpg" alt="Cengage Logo"></a></div>
+</head>
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<script language="JavaScript1.2">fwLoadMenus();</script>
 
-      <div id="header_white_right">
-      <div id="country_links">United States&nbsp;|&nbsp; <a href="/country" target="_blank">Change Your Country</a></div>
-        <div id="search_function">
-          <form id="CenSearch" name="CenSearch" target="_parent" action="/search/showresults.do">
-	     <label for="search_text" style="position:absolute; left:-10000px;">Enter author, title, ISBN or keyword</label>
-		<input type="text" id="Ntk" name="Ntk" value="all" style="display:none; visibility:hidden;">
-		<input type="text" id="Ns" name="Ns" value="P_CopyRight_Year|1" style="display:none; visibility:hidden;">
-		<input type="text" maxlength="60" id="search_text" name="Ntt" size="35" value="Enter author, title, ISBN or keyword"> 
-            &nbsp;on&nbsp;
-             <label for="N" style="position:absolute; left:-10000px;">Select Catalog</label>
-            <select id="N" name="N" style="width:210px;">
-              <!-- the N value is to parallel the index assigned value from the search engine -->
-              <option value="0">Select Catalog...</option>
-              <option value="elt">English Language Teaching</option>
-              <option value="gale">Library &amp; Reference</option>
-              <option value="16">Higher Education Catalog</option>
-              <option value="14">Professional Catalog</option>
-              <option value="15">School Catalog</option>
-            </select>
-                <button id="submit_button_header" name="submit_button_header" type="button" class="testing" alt="Search button used to find your book by entering the author,title, or ISBN" align="top" title="You must select a catalog to begin your search." value=""></button>
-          </form>
-          <!-- 
-			The next 2 forms are hidden (style="display:none; visibility:hidden;").  
-			They are present because the form above, via Javascript, has the ability to submit to either of the forms below
-			-->
-          <form id="gale_search" name="#gale_search" action="http://gale.cengage.com/servlet/SearchResultServlet" method="get" style="display:none; visibility:hidden;">
+<!-- Tables are for the top content starts here-->
 
-            <input id="searchInput" name="searchText" type="text">
-            <input name="imprint" type="hidden" value="000">
-            <input name="region" type="hidden" value="9">
-            <input name="searchType" type="hidden" value="As">
-            <input name="searchBy" type="hidden" value="subTitle">
-            <input name="search_dropdown" id="search_dropdown" value="0">
-          </form>
-          <form id="elt_search" name="elt_search" action="http://elt.heinle.com/searchcengage/" method="get" style="display:none; visibility:hidden;">
-            <input name="search_terms" id="search_terms" type="text">
-
-          </form>
-          <!-- End Hidden Forms -->
-          <div id="select_catalog" class="offLeft"><img src="/static/dotcom/pop-upmessage.png" alt="You must select a catalog to begin your search."></div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  
- <div id="TopNav">
-	 <div id="companyInfo">
-	     <div id="Cat_nav0">
-	 	<ul>
-	 		<li tabindex="0">Customers &amp; Markets</li>
-	 </ul>
-	 		<div id="tab0">	
-	 	<ul>
-                    <li><a href="/highered">Higher Education</a></li>
-                    <li><a href="/school">School</a></li>
-                    <li><a href="/pro">Professional</a></li>
-                    <li><a href="/gale">Library &amp; Research</a></li>
-                <!--<li ><a href="/enterprise" target="_new">Institutional Solutions</a></li>
-                    <li ><a href="http://elt.heinle.com/" target="_new">English&nbsp;Language&nbsp;Teaching</a></li>-->
-                    <li><a href="/country">Global</a></li>
-                  
-                </ul>
-	 
-	 	</div>
-	 </div>
-	</div>
-	 
-
-
-         <div id="BlueLinks">
-         
-          <div id="Cat_nav1" tabindex="0">
-          	<p class="TopNavHeader_long">Our Company</p>
-
-          <div id="tab1" class="offLeft" style="filter:
-          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=135,strength=4)
-          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=270,strength=3)
-          progid:DXImageTransform.Microsoft.Alpha(opacity=96);">
-            <ul>
-                <li><a href="/about/">Overview</a></li>
-                <li><a href="/about/leadership.html">Leadership</a></li>
-                <li><a href="/trends/">Knowledge &amp; Trends</a></li>
-                <li><a href="/contact/">Contacts</a></li>
-                <li><a href="/investor/">Investors</a></li>
-		<li><a href="/rep/">Find Your Rep</a></li>
-</ul>
-                 <ul class="narrow_rightNav">
-               
-                <li><a href="/careers/">Careers</a></li>
-		<li><a href="/media/press/">Media</a></li>
-		<li><a href="/conventions">Conventions</a></li>
-                <li class="end"><a href="/awards">Awards</a></li>
-                <li><a href="/accessibility/" target="_parent">Accessibility</a></li>
-
-	   </ul>
-  
-	 <div class="left_inerwrap"> </div><!-- end iner wrap-->
-
-          </div>
-
- <!-- end fist hidden navagation-->
-</div>
-
-   <div id="Cat_nav2" tabindex="0">
-          	<p class="TopNavHeader">Solutions</p>
-
-          <div id="tab2" class="offLeft" style="filter:
-          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=135,strength=4)
-          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=270,strength=3)
-          progid:DXImageTransform.Microsoft.Alpha(opacity=95);">
-            <ul>
-               <li><a href="/brands/">Brands</a></li>
-                   
-               <li>Catalogs</li>
-               
-            <ul class="cat_leftNav"> 
-                	<li> <a href="/highered">›› Higher Education</a></li>
-                	<li> <a href="/school">›› School</a></li>
-             </ul>
-            <ul class="cat_rightNav">
-                	<li> <a href="/pro/">›› Professional</a></li>
-                	<li> <a href="http://www.cengage.com/gale" target="_new">›› Library &amp; Research</a></li>
-                	</ul>
-                
-                
-               </ul>
-              <ul>
-                <li><a href="/cengagecourse/">CengageCourse</a></li>
-             </ul>
-  	 	<div class="left_inerwrap"> </div><!-- end iner wrap-->
-
-          </div>
-         
-
- <!-- end hidden navagation 2-->
-</div>
-
-  <div id="Cat_nav3" tabindex="0">
-          	<p class="TopNavHeader">Services</p>
-
-          <div id="tab3" class="offLeft" style="filter:
-          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=135,strength=4)
-          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=270,strength=3)        
-          progid:DXImageTransform.Microsoft.Alpha(opacity=95);">
-            <ul>
-                <li><a href="/coursecare/">CourseCare</a></li>
-                <li><a href="http://www.cengage.com/custom/customCourseDev.html">Course Development</a></li>
-                <li><a href="http://www.cengage.com/custom">Custom Solutions</a></li>
-                <li><a href="http://www.cengage.com/teamup">TeamUP</a></li>
-                </ul>
-              <ul class="narrow_rightNav">
-                <li><a href="http://www.computaught.com/">CompuTaught</a></li>
-                <li><a href="http://www.ed2go.com/">Ed2go</a></li>
-                <li><a href="http://netlearning.cengage.com/">NetLearning</a></li>
-             </ul>
-  	  
-
-          </div>
-         
-
- <!-- end hidden navagation 3-->
-</div>
- 
-               </div>
-   
-         <div id="BrainLink"><!-- put the id for the tracking of the brain link on this -->  
-                <ul>
-          	        <li><a id="purchaseNav" href="http://www.cengagebrain.com/shop/index.html">Buy, Rent, Access CengageBrain.com</a></li>
-                </ul>
-
-     </div>
-            
- 
-</div>
-<div style="width:100px;">
- <a name="SkipToContent"></a>
- </div>
-</div>
-      
-
-<!--  header TMPL file ends here -->
-<div id="content_wrap">
-<!--<div id="content_wrap_right"> -->
-<div id="content">
-  <!-- you must have the left nabve template file in here   -->
-  <div id="leftNav">
-        	<ul>
-               
-                </ul>
-        </div>
-  <div id="center_div">
-    <h2> Privacy Statement</h2>
-    <p> Cengage Learning, Inc., and its subsidiaries and divisions, are committed to protecting the privacy and security of personal information entrusted to us on our websites. This privacy statement explains our online privacy practices. </p>
-    <h4 class="subhead"> Scope</h4>
-    <p> This privacy statement applies to the Cengage Learning, Inc. (Cengage Learning) website (<a href="/">www.cengage.com</a>) and all Cengage Learning company and brand websites that link to it. Some Cengage Learning websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, Cengage Learning has created a number of websites for the schools we serve, and those websites are subject to the school's own privacy policy. </p>
-    <p> Additionally, some Cengage Learning websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company's website, you should also read the privacy statement associated with that site. </p>
-    <h4 class="subhead"> Information That We Collect</h4>
-    <p> When you visit our website, you may provide us with two types of information: (1) personally identifiable information such as contact and other information about your profession or your interests that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the website. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our website's content or services. </p>
-    <h4 class="subhead"> How We Use Personal Information</h4>
-    <p> In general, we use all of the information we collect in order to: </p>
-    <ul style="padding-left: 20px; list-style-type: disc">
-      <li style="list-style-type: disc">respond to your requests for information, </li>
-      <li style="list-style-type: disc">provide you with products and services, </li>
-      <li style="list-style-type: disc">determine if you are eligible to receive certain products or services, </li>
-      <li style="list-style-type: disc">provide customer service, and </li>
-      <li style="list-style-type: disc">provide you with additional information that may be of interest, including marketing and educational materials from us and our partners. </li>
-    </ul>
-    <p> We will tailor the materials we provide you based on the information in your profile, such as your professional interests. Also, certain products (such as teachers' guides) are only available to qualified educational professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification. </p>
-    <p> If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number or other payment information. Payment information will only be used for transaction processing. </p>
-    <h4 class="subhead"> When We Disclose Personal Information</h4>
-    <p> We may also provide any contact information and professional information with our affiliates or, unless you tell us not to, with third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Additionally, we may share any information with third parties as needed to fulfill your requests for information, products or services. </p>
-    <p> <i>If you do not want us to share your information with third parties for their own marketing, you can opt-out by deselecting the options to keep you informed about Cengage Learning products and services, or by contacting our Customer Service department by email at: <a href="mailto:esales@cengage.com">esales@cengage.com</a> or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET) and requesting the desired change (e.g., opting in or out of faxes).</i> </p>
-    <p> <i>You can also opt-out of receiving marketing emails from us and our partners at any time my following the opt-out instructions provided on every email. </i> </p>
-    <p> Please note that we may disclose any information as permitted or required by law, when necessary for health or safety purposes, or to protect our legal rights. For example, we may disclose information about you to our auditors or legal advisors or in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our businesses. </p>
-    <h4 class="subhead"> A Special Note About Children</h4>
-    <p> Although parts of the galeschools.com website provide information and activities for students, we do not knowingly collect any personal information about children. Teachers must provide their own personal information in order for students to participate in our online quizzes and contests. </p>
-    <p> We encourage parents and teachers to spend time online with children and to monitor their online activities. Please protect your child's privacy by instructing them to never provide personal information on this site or any other, or within any software registration process, without your permission. </p>
-    <h4 class="subhead"> Information Collected on Behalf of Educational Institutions</h4>
-    <p> Some Cengage Learning companies administer websites that provide course materials and services for educational institutions. Information collected on these websites is only used by Cengage Learning as needed to support the educational institution and provide the services requested by the course instructors. We do not use this information for our own purposes. Most student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your school's privacy statement and FERPA, please contact that school's administration. </p>
-    <h4 class="subhead"> Cookies and Website Information</h4>
-    <p> Like most other commercial websites, we use standard "cookie" technology and web server logs to collect information about how our website is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session. </p>
-    <p> Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our website and the websites visited just before and just after our website. This information is collected on an aggregate basis, and also may be associated with your personal information. </p>
-    <h4 class="subhead"> How Do You Access and/or Modify Your Information or Choices?</h4>
-    <p> If you visit our website and volunteer personally identifiable information, you may access such information at any time by visiting the account information area where you will have the opportunity to revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an email. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt-out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website. </p>
-    <h4 class="subhead"> How We Secure Your Information</h4>
-    <p> We have implemented reasonable technical, physical and administrative safeguards to help protect your personal information against unauthorized access or loss. For example, when we ask users to provide payment information (such as credit card number), the data is protected during transmission to us using Secure Sockets Layer (SSL) encryption technology. </p>
-    <h4 class="subhead"> Information Process in the United Sates</h4>
-    <p> This website may be operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to the United States or other countries in which our businesses are located. We will adequately protect the data in all locations. </p>
-    <h4 class="subhead"> Changes to Our Policies</h4>
-    <p> This privacy notice is effective as of August 31, 2007. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email and give you an opportunity to opt-out of the new data uses. </p>
-    <h4 class="subhead"> Contact Us with Any Questions</h4>
-    <p> If you have any questions about this privacy statement or our use of your personal information, please contact us at: </p>
-    <p> Cengage Learning, Inc. <br>
-      200 First Stamford Place<br>
-      Suite 400<br>
-      Stamford, CT 06902<br></p>
-    <p> or email us at: <a href="mailto:corporatecommunications@cengage.com">corporatecommunications@cengage.com</a>.</p>
-    <h4 class="subhead"> Privacy and Security Policy Regarding Social Security Numbers and Other Sensitive Personal information</h4>
-    <p> Cengage Learning, Inc. and its United States and Canadian affiliates (collectively, "Cengage") collects Social Security numbers and other sensitive personal information in the ordinary course of its business.  Cengage has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure.  All Cengage workers are required to follow these established safeguards, which include the following:</p>
-    <div class="press">
-      <ul>
-        <li>Access to Social Security numbers and other sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage.  Social Security numbers and other sensitive personal information are only disclosed to third parties in accordance with Cengage's established privacy and security policy.</li>
-        <li>Cengage will only disclose Social Security numbers and other sensitive personal information (i) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (ii) as required or permitted by law.</li>
-      </ul>
-      <p>If you have any questions, please contact us at <a href="mailto:Robert.hotaling@cengage.com">Robert.hotaling@cengage.com</a> or <br>
-        <!-- carriage return added to prevent awkward line break -->
-        +1 443.676.8808. </p>
-</div>
-</div>        
-      <div id="Right_nav_dotcom">
-  <!--Commented out to be redisplayed next quarter call.-->
-  <!--
-  <div>
-    <div class="Right_nav_box_top">
-      <div class="Right_nav_box_top_content">Investor Relations</div>
-    </div>
-    <div class="Right_nav_box_middle">
-      <div class="Right_nav_box_middle_content"> Notice of Webcast and Conference Call<br />
-        <br />
-        Cengage Learning will host a webcast and conference call to discuss the results for the fiscal third quarter ended March 31, 2012 on:<br />
-        <br />
-        <a href="/investor">
-        <ul style="list-style-position:inside; list-style:none;">
-          <li>Friday, May 4, 2012</li>
-          <li>8:30 A.M. (EST)</li>
-        </ul>
-        </a>
-        <p><a href="/investor/pdf/Third Quarter 2012 Investor Call Presentation.pdf">Third Quarter 2012 Investor Call Presentation</a></p>
-      </div>
-    </div>
-    <div class="Right_nav_box_bottom"> </div>
-  </div>
-  -->
-  <div>
-    <div class="Right_nav_box_top">
-      <div class="Right_nav_box_top_content"> &nbsp; </div>
-    </div>
-    <div class="Right_nav_box_middle">
-      <div class="Right_nav_box_middle_content"><a href="http://www.cengagebrain.com/market/index.html?Cid=GAD1" target="_blank" id="CengageBrain Homepage Ad"><img border="0" src="/images/pubco/cengagebrainlogo180.jpg"> </a></div>
-    </div>
-    <div class="Right_nav_box_bottom"> </div>
-  </div>
-  <div>
-    <div class="Right_nav_box_top">
-      <div class="Right_nav_box_top_content"></div>
-    </div>
-    <div class="Right_nav_box_middle">
-      <div class="Right_nav_box_middle_content"><img border="0" src="/images/pubco/podcast_adlogo.gif"><br>
-        Check out Cengage Learning's podcast series featuring interviews with leading authors and instructors sharing their thoughts and insights on student engagement. <br>
-        &nbsp; <br>
-        <a href="http://engagingtodaysclassroom.com/?grid=11ALL114" target="_blank" id="Engaging Todays Classroom Podcast Ad"> <img border="0" src="/images/pubco/podcast_adbutton.gif"> </a></div>
-    </div>
-    <div class="Right_nav_box_bottom"> </div>
-  </div>
-</div>
-
-    </div>
-  </div>
-   
-<div id="expBottomNav">
- <ul id="EXP_wrapper">
-        	
-            <li class="exp_title"><strong>Customers &amp; Markets</strong>
-		<ul class="navCol">
-			<li><a href="/highered" target="_parent">Higher Education</a></li>
-	
-			<li><a href="/school" target="_parent">School</a></li>
-			<li><a href="/pro" target="_parent">Professional</a></li>
-			<li><a href="/gale" target="_parent">Library &amp; Research</a></li>
-			<!--<li><a href="/enterprise">Institutional Solutions</a></li>
-			<li><a href="http://elt.heinle.com/" target="_parent">English Language Teaching</a></li>-->
-			<li><a href="/country" target="_parent">Global</a></li>
-		    </ul>
-	</li>
-
-           
-            	<li class="exp_title"><strong>Our Company</strong>
-		    <ul class="navCol">	
-			<li><a href="/about/">Overview</a></li>
-			<li><a href="/about/leadership.html">Leadership</a></li>
-			<li><a href="/trends/">Knowledge &amp; Trends</a></li>
-			<li><a href="/contact/">Contacts</a></li>
-			<li><a href="/investor/">Investors</a></li>
-			<li><a href="/careers/">Careers</a></li>
-			<li><a href="/media/press/">Media</a></li>
-			<li><a href="/conventions">Conventions</a></li>
-			<li><a href="/accessibility/" target="_parent">Accessibility</a></li>
-			<li><a href="/rep">Find Your Rep</a></li>
-		    </ul>
-               </li>
-         
-                <li class="exp_title"><strong>Solutions</strong>
-            <ul class="navCol">
-                <li><a href="/brands/">Brands</a></li>
-                <li>Catalogs
-               		<ul class="subNav"> 
-                	<li> <a href="/highered/" target="_parent">›› Higher Education</a></li>
-                	<li> <a href="/school/" target="_parent">›› School</a></li>
-                	<li> <a href="/pro/" target="_parent">›› Professional</a></li>
-                	<li> <a href="/gale/" target="_parent">›› Library &amp; Research</a></li>
-                	</ul>
-                </li>	
-                <li><a href="/cengagecourse/">CengageCourse</a></li>
-                
-            </ul>
-            </li>
-            
-                <li class="exp_title"><strong>Services</strong>
-                <ul class="navCol">
-                
-                <li><a href="/coursecare/">CourseCare</a></li>
-                <li><a href="/custom/customCourseDev.html">Course Development</a></li>
-                <li><a href="/custom">Custom Solutions</a></li>
-                <li><a href="/teamup">TeamUP</a></li>
-                <li><a href="http://www.computaught.com/">CompuTaught</a></li>
-                <li><a href="http://www.ed2go.com/">Ed2go</a></li>
-
-                <li><a href="http://netlearning.cengage.com/">NetLearning</a></li>
-                <!--<li><a href="http://milady.cengage.com/miladyu_continuinged.asp">Continuing Education</a></li>-->
-            </ul>
-            </li>
-            
-            
-              <li class="exp_title"><strong>Purchase</strong>
-            <ul class="lastNavCol">
-              <li><a href="http://www.cengagebrain.com/shop/index.html">CengageBrain.com</a></li>
-                <li><a href="http://serviceplus.cengage.com/">ServicePlus</a></li>
-
-                <li><a href="/gale" target="_parent">Library &amp; Research</a></li>
-                </ul>
-                </li>
-   </ul>
-            <div class="clear"></div><!-- end .clear -->
-        </div>
- 
-  <div style="clear:both;"></div>
-</div>
-
-
-<div id="footer_landing">
-  <div id="FooterWrap">
-  <div id="footer_InnerWrap">
-  <div class="Footer_left">
-    <a href="/" target="_parent">
-      <span class="OSU_AB">Cengage Learning</span>
-    </a>
-    <span class="Blue_Text"> -</span>
-    <a href="/highered" target="_blank">Higher Education</a>
-    <span class="Blue_Text"> |</span>
-    <a href="/school" target="_blank">School</a>
-    <span class="Blue_Text"> |</span>
-    <a href="/pro" target="_blank">Professional</a>
-    <span class="Blue_Text"> |</span>
-     <a href="/gale" target="_blank">Library &amp; Research</a>
-    <span class="Blue_Text"> |</span>
-    <a href="/country" target="_blank">Global</a>
-  </div>
-    
-  <div class="Footer_right">
-    <a href="/contact" target="_parent">Contacts</a>
-    <span class="Blue_Text"> |</span>
-    <a href="/careers" target="_blank">Careers</a>
-  </div>
-      
-  </div>
-  
-  <div class="Footer_left">
-    <a href="/copyright" target="_parent">Copyright Notices</a>
-    <span class="Blue_Text"> |</span>
-    <a href="/terms" target="_parent">Terms of Use</a>
-    <span class="Blue_Text">|</span>
-    <a href="/privacy" target="_parent">Privacy Statement</a>
-    <span class="Blue_Text"> |</span>
-    <a href="/accessibility/" target="_parent">Accessibility</a>
-    <span class="Blue_Text"> |</span>
-    <a href="/dmca/index.html" target="_parent"> DMCA Policy</a>
-    <span class="Blue_Text"> |</span>
-    <a href="/us/piracy_report.html" target="_parent">Report Piracy</a>
-  </div>
- 
-</div>
-
-</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-2832047-8";
-urchinTracker();
+<meta name="Generator" content="EditPlus">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<link href="http://www.nelson.com/nelson/common/css/nelson/ncd.css" rel="stylesheet" type="text/css">
+<link href="http://www.nelson.com/nelson/common/css/nelson/nelson.css" rel="stylesheet" type="text/css">
+<link href="http://www.nelson.com/nelson/common/css/nelson/footer.css" rel="stylesheet" type="text/css">
+<!-- This Javascript is for the Catalogue Search Jump Menu -->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
 </script>
-<!-- SiteCatalyst code version: H.16.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script type="text/javascript" src="http://admin.wadsworth.com/omniture/s_code_remote_cengagedotcom.js"></script>
-<script type="text/javascript"><!--
 
-/* You may give each page an identifying name, server, and channel on the next lines. */
-s.pageName="Privacy Statement"
-s.server= window.location.protocol + "//" + window.location.host
-s.channel=""
-s.pageType=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-/* Conversion Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script>
-<noscript>
-<a href="http://www.omniture.com" title="Web Analytics"> <img src="http://thcengagecorp.112.2O7.net/b/ss/thcengagecorp/1/H.16--NS/0" height="1" width="1" border="0" alt="" /></a>
-</noscript>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.16. -->
+<!--start the header  -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td colspan="2" align="left" valign="top"></td>
+  </tr>
+  <tr>
+     <td align="left" valign="top" bgcolor="#6092B7">
+			<div class="headImg"><a href="http://www.nelson.com"><img src="http://www.nelson.com/nelson/common/images/header_logo.jpg" alt="Nelson logo" align="top" border="0"></a></div>	</td>
 
+  </tr>
+  <tr align="left" valign="top">
+    <td colspan="2"><img src="http://www.nelson.com/nelson/common/images/spacer.gif" alt="spacer" width="1000" height="5" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="middle" width="1000"> 
+    <div align="left">
+          <img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="50" height="5" border="0">
+		    <a href="http://www.nelson.com/aboutus/" class="LinksTop">About Us</a>
+          <img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="87.5" height="5" border="0">
+          <a href="http://www.nelson.com/order/contact.html" class="LinksTop">Contact Us</a>
+          <img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="87.5" height="5" border="0">
+          <a href="http://www.nelson.com/order/" class="LinksTop">Order Information</a>
+          <img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="87.5" height="5" border="0">
+          <a href="http://sitemap.nelson.com/" class="LinksTop">Site Map</a>
+          <img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="87.5" height="5" border="0">
+          <a href="http://replocator.nelson.com/" class="LinksTop">Find Your Rep</a>
+          <img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="87.5" height="5" border="0">
+          <a href="http://www.nelson.com/careers/" class="LinksTop">Careers</a>
+         <!--  <img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="87.5" height="5" border="0">
+          <a href="" class="LinksTop">Help</a>-->
+     </div></td>
+  </tr>
+  <tr align="left" valign="top">
+    <td colspan="2"><img src="http://www.nelson.com/nelson/common/images/spacer.gif" alt="spacer" width="100%" height="5" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><img src="http://www.nelson.com/nelson/common/images/header_bluebanner.jpg" width="100%" height="4" border="0"><br>
+      <img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="750" height="12" border="0">    </td>
+  </tr>
+
+</tbody></table> 
+
+
+<!--end the header  -->
+
+
+<!-- Tables are for the top content ends here-->
+
+<!-- Main content area starts -->
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="left" valign="top">
+    <td width="44"><img src="http://www.nelson.com/nelson/common/images/spacer.gif" height="15" width="30" border="0"></td>
+    <td width="316" rowspan="2"><!--This is where the left menu starts -->
+    <script language="Javascript">
+function alphanumeric() {
+	
+		var numaric = document.getElementById('searchWord1').value;
+		var numaric1 = document.getElementById('searchWord1');
+		
+		
+		var value = 0;
+		var emptyTot = 0;
+		
+		for(var j=0; j<numaric.length; j++)	{
+			var alphaa = numaric.charAt(j);
+			var hh = alphaa.charCodeAt(0);
+			if (hh == 32) {
+				emptyTot = emptyTot + 1;
+			}
+		}
+	
+		if (emptyTot == numaric.length) {
+			if(numaric=='')	{
+				numaric1.value='Enter Title or Author or ISBN';
+			}	
+			divShow();
+			
+		} else {
+			document.searchForm.action="/ncd/search.do";
+			document.searchForm.submit();
+		}
+	}
+	
+	function alphanumerictextbox(event,alphane) {
+		var unicode=event.keyCode;	
+		var value = 0;
+		var emptyTot = 0;
+		
+		if(alphane.value=='Enter Title or Author or ISBN')alphane.value='';
+		
+		if(unicode==13) {
+			var numaric = alphane.value;
+			for(var j=0; j<numaric.length; j++) {
+				var alphaa = numaric.charAt(j);
+				var hh = alphaa.charCodeAt(0);
+				if (hh == 32) {
+					emptyTot = emptyTot + 1;
+				}
+			}
+			if (emptyTot == numaric.length) {
+				if(alphane.value=='')alphane.value='Enter Title or Author or ISBN';
+				return false;
+			}
+			
+		document.searchForm.action="/ncd/search.do";
+		document.searchForm.submit();
+		}
+	}
+	
+
+</script>
+
+<form name="searchForm" method="post" action="/ncd/search.do">     
+     <table border="0" cellspacing="0" cellpadding="0">
+     <tbody><tr><td>
+
+            <div class="nav_text_div" style="opacity:0.5;filter:alpha(opacity=50)" onmouseover="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseout="this.style.opacity=0.5;this.filters.alpha.opacity=50">
+              
+</div>
+			<div>
+            <!-- start search -->
+            		
+				<div class="img_search_div">					
+					<div class="search_text_div">Find what you need at Nelson</div>
+                      <div style="clear: both"></div>
+
+					<div class="hline" style="width:280px"></div>
+			<div style="clear: both"></div>
+			<div class="search_textbox_bg_s" style="width:203px;height:33px;">
+				<div style="margin-left:0px;"><input type="text" name="searchWord" maxlength="42" value="Enter Title or Author or ISBN" onclick="return alphanumerictextbox(event,searchWord);" onkeypress="return alphanumerictextbox(event,searchWord);" onfocus="return alphanumerictextbox(event,searchWord);" id="searchWord1" style="width:203px;height:30px;" class="text_box_slider_s"></div>
+		  </div>
+			<div style="float:left;">
+				<a href="javascript:alphanumeric();" id="btnsearch"><img src="/ncd/images/btn_search_s.png" border="0"></a>
+			</div>			
+			<div style="clear:both"></div>
+			<div class="error_text" id="test" style="display:none;margin-left:8px;">
+				<div><font color="red" size="2px">Enter Title or Author or ISBN</font></div>
+			</div>
+            </div>
+            </div></td></tr>
+            <tr><td>
+            <p class="LinksLeft1"><img src="http://www.nelson.com/nelson/common/images/spacer.gif" height="1" width="30" border="0"></p>
+            </td></tr>
+            </tbody></table>
+</form>
+<!-- end search -->
+		
+
+      <meta name="Generator" content="EditPlus">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<link href="http://www.nelson.com/nelson/common/css/nelson/ncd.css" rel="stylesheet" type="text/css">
+<link href="http://www.nelson.com/nelson/common/css/nelson/nelson.css" rel="stylesheet" type="text/css">
+<link href="http://www.nelson.com/nelson/common/css/nelson/footer.css" rel="stylesheet" type="text/css">
+				
+                      <p class="LinksLeft1"><a href="http://school.nelson.com" class="LinksLeft1">&nbsp;&nbsp;&nbsp;School K-12</a></p>
+                      <p class="LinksLeft1"><a href="http://hed.nelson.com" class="LinksLeft1">&nbsp;&nbsp;&nbsp;Colleges and Universities </a></p>
+                      <p class="LinksLeft2"><a href="http://www.groupemodulo.com/" class="LinksLeft1">&nbsp; Modulo</a></p>
+                      <p class="LinksLeft2"><a href="http://www.nelson.com/professional/" class="LinksLeft1">&nbsp;&nbsp;Professional Learning Solutions </a></p>
+                      <p class="LinksLeft2"><a href="http://www.nelson.com/aboutus/" class="LinksLeft1">&nbsp;&nbsp;About Nelson Education </a></p>
+                      <p class="LinksLeft2">&nbsp;</p>
+                      <p class="LinksLeft2">&nbsp;</p>
+
+      <!--This is where the left menu ends-->    </td>
+    <td width="634"><span class="text-v-9pt"><a href="http://www.nelson.com" class="orange_text">Home</a> | Privacy Policy</span></td>
+    <td width="6" colspan="2" valign="middle">
+      <p class="text-v-9pt">&nbsp;</p>
+</td>
+  </tr>
+  <tr align="left" valign="top">
+    <td>&nbsp;</td>
+    <td>
+    <div class="search_text" style="height:20px;">Privacy Policy </div>
+	  <div style="clear:both"></div>
+				<div class="hline" style="width:590px"></div>
+				<div>
+				  <div style="clear:both"></div>
+					  <div class="text-v-13pt">
+					    <p><strong>A.&nbsp; SCOPE AND APPLICATION OF THE NELSON EDUCATION  LTD. PRIVACY POLICY (the “Privacy Policy”): </strong></p>
+<p>The Privacy Policy applies to Personal Information about Individuals who  interact with Nelson Education Ltd. that is collected, used or disclosed by  Nelson Education Ltd. </p>
+                        <p>The Privacy Policy applies to the management of Personal Information in  any form whether oral, electronic or written. Nelson Education Ltd. reserves  the right to amend this Privacy Policy from time to time.<strong></strong></p>
+                        <p>The application of the Privacy Policy is subject to the requirements or  provisions of any applicable legislation, regulations or agreements (such as  collective agreements), or the order of any court or other lawful authority.</p>
+                        <p><strong><u>Exclusions from privacy  protection:</u></strong> <br>
+                          The Privacy Policy does not impose any limits on the collection, use or  disclosure of the following information by Nelson Education Ltd.: a) aggregate  information that cannot be associated with a specific Individual, such as  demographic statistics about Nelson Education Ltd. customers, or number of  visitors and average time spent on a website; or b) information that is  otherwise determined not to be Personal Information pursuant to, or is not  regulated by, applicable privacy legislation.&nbsp;  This Privacy Policy does not apply to personal information about our  employees.</p>
+                        <p><strong><u>Note to Children</u></strong><br>
+                          Although parts of Nelson Education Ltd.’s website provides information  and activities for or relating to students, we do not knowingly accept any  Personal Information from or about children.&nbsp;  Teachers and parents must provide their own information (Personal  Information or otherwise) in order for students to participate in our services  or products.</p>
+                        <p>Nelson Education Ltd. encourages parents and teachers to spend time with  children and to monitor their online activities.&nbsp; Please protect your child’s privacy by  instructing them to never provide Personal Information on this website or any  other, or within any software registration process, without your permission.</p>
+                        <p><strong><u>Purposes for Collection and Use of Personal  Information: </u></strong><br>
+                          Nelson Education Ltd. has collected, continues to collect and use  Personal Information for the following purposes: a) to establish and maintain  responsible commercial relations with Individuals and to provide ongoing  service; b) to understand Individuals’ needs; c) to develop, enhance, market or  provide products and services; d) to manage and develop its business and  operations, including personnel and employment matters; and e) to meet legal or  regulatory requirements, including to protect or defend a legal interest.</p>
+                        <p>As examples of the above:</p>
+                        <p>i) Nelson Education Ltd. may from time to time use an Individual’s  Personal Information to contact the Individual about changes, enhancements or  similar notices related to Nelson Education Ltd.’s products and services; </p>
+                        <p>ii) if an Individual indicated that he/she was interested in receiving  offers or information from Nelson Education Ltd. or certain of our selected  sponsors or advertisers, Nelson Education Ltd. may send the Individual materials  about products and services that Nelson Education Ltd. feels may be of interest  to the Individual; </p>
+                        <p>iii) if an Individual enters a contest or other promotion offered on a  Nelson Education Ltd. website, Nelson Education Ltd. may, under the rules of the  promotion, use the Individual’s name and certain other information to  administer the promotion, such as contacting, announcing and promoting the  winners of the promotion;</p>
+                        <p>iv) if an Individual applies for a position with Nelson Education Ltd.,  Nelson Education Ltd. will collect Personal Information contained in and  generated in relation to the Individual’s application, in order to evaluate the  Individual’s application and assess whether to offer the Individual employment,  which information is kept for a reasonable period of time, and may include  Personal Information collected from Third Parties acting as references for the  Individual.</p>
+                        <p><strong><u>Purposes for Disclosure of Personal  Information and Transfer of Information: </u></strong><br>
+                          Nelson Education Ltd. discloses Personal Information for the following  purposes: a) to establish and maintain responsible commercial relations with Individuals  and to provide ongoing service; b) to understand Individuals’ needs; c) to  develop, enhance, market or provide products and services in which we  reasonably believe you may be interested in; d) to manage and develop its  business and operations, including personnel and employment matters; and e) to  meet legal or regulatory requirements, including to protect or defend a legal  interest.&nbsp; </p>
+                        <p>From time to time, we may be required to provide Personal Information in  response to a court order, subpoena, government investigation, or as otherwise  required by law.&nbsp; We also reserve the  right to report to law enforcement agencies any activities that we, in good  faith, believe to be unlawful.&nbsp; We may  release certain Personal Information when we believe that such release is  reasonably necessary to protect the rights, property and safety of others and  ourselves.</p>
+                        <p>You also understand  that Nelson Education Ltd. may use your  Personal Information and disclose your Personal Information to Third Parties in  connection with the proposed or actual financing, insuring, sale,  securitization, assignment or other disposal of all or part of our business or  assets (including accounts) for the purposes of evaluating and/or performing  the proposed transaction, and you consent to such disclosure.&nbsp; These  purposes may include, as examples, permitting such parties to determine whether  to proceed or continue with the transaction, fulfilling any reporting or audit  requirements to such parties, and/or disclosing Personal Information as part of  concluding a sale or transfer of assets.&nbsp; Our successors and assigns may  collect, use and disclose your Personal Information for substantially the same  purposes as described in this Privacy Policy.&nbsp;  In the event that the transaction does not go through, we will require by  contract the other parties to not use or disclose your Personal Information in  any manner whatsoever and for any purpose and to return or destroy same.</p>
+                        <p>Nelson Education Ltd. sometimes transfers Personal Information to  others, including to affiliated entities or unrelated companies (“service providers”),  that carry out certain functions on our behalf, such as order fulfillment, data  processing, accounting and administrative services, customer service and  information technology services including, without limitation, hosting and data  storage services. In those cases, we require those service providers not to use  or disclose Individuals’ Personal Information for any purpose other than as  directed by Nelson Education Ltd.&nbsp; Some  of these service providers may be located outside of Canada,  including in the United States  or elsewhere outside of Canada  for the purposes described in this Privacy Policy.&nbsp; Nelson Education Ltd. takes reasonable  contractual or other measures to protect Individuals’ Personal Information  while processed or handled by these service providers.&nbsp; If an Individual’s Personal Information is  located outside of Canada it will be subject to legal requirements in those  foreign countries applicable to Nelson Education Ltd.’s service providers, for  example, lawful requirements to disclose Personal Information to government  authorities in those countries.</p>
+                        <p><strong><u>Obtaining Consent:</u></strong><br>
+                          If we require new or additional Personal Information, or if we use your  Personal Information in a manner different than as expressed herein, Nelson  Education Ltd. will inform Individuals how their Personal Information will be  used by Nelson Education Ltd. and Nelson Education Ltd. will obtain consent  from Individuals before or when it collects or uses the Personal  Information.&nbsp; Nelson Education Ltd. will  not attempt to deceive Individuals into giving consent. <br>
+                          An Individual’s consent can be express, implied, or given through an  authorized representative. An Individual can withdraw consent at any time, with  certain exceptions noted herein. Nelson Education Ltd., however, may collect,  use or disclose Personal Information without the Individual’s knowledge or  consent in exceptional circumstances where such collection, use or disclosure  is permitted or as required by law. </p>
+                        <p>Note: If any Individual at any time has any questions or concerns about  Nelson Education Ltd.’s Privacy Policy or privacy practices contained herein,  the Individual can either:<br>
+                          <br>
+                          i) write to the Chief Privacy Officer – <strong>Marlene  Nyilassy, Vice President, Privacy, Nelson Education Ltd., 1120 Birchmount Road,  Toronto, ON, M1K 5G4</strong>; or<br>
+  <br>
+                          ii) provide information to Nelson Education Ltd. through the form on its Internet  Privacy page.</p>
+                        <p><strong><u>Refusing or  withdrawing Consent:</u></strong><br>
+                          Subject to legal and contractual requirements, an Individual can refuse  to consent to Nelson Education Ltd.’s collection, use or disclosure of Personal  Information about the Individual, or an Individual may withdraw the Individual’s  consent to Nelson Education Ltd.’s further collection, use or disclosure of  Personal Information at any time in the future by giving Nelson Education Ltd.  reasonable notice, unless: i) the consent is otherwise required by law or ii)  the use or disclosure is permitted by law or is related to the legal or  regulatory requirements described herein. If an Individual refuses to consent or  withdraws his or her consent where such consent relates to the production  services requested, Nelson Education Ltd. may not be able to provide the Individual,  or continue to provide the Individual, with such products, services or  information.</p>
+                        <p><strong><u>Internet Aspects:</u></strong><br>
+                          Information may be collected when an Individual visits all websites of  Nelson Education Ltd. (“Nelson Education Ltd. Sites”). Although the information  collected, used or disclosed on the Internet as described below often does not  constitute Personal Information (and to the extent that such is the case, then  the obligations under the Privacy Policy do not extend to such information),  Nelson Education Ltd. provides the details below about Internet aspects of  Nelson Education Ltd. Services for the purposes of disclosure about Nelson  Education Ltd. Services.</p>
+                        <p><u>Internet Protocol Address (IP Address)</u> <br>
+                          When an Individual’s web browser requests a web page from another  computer on the Internet, it automatically gives that computer the address  where it should send the information. This address is called the computer's  "IP address." For most users accessing the Internet from a dial-up Internet  service provider (ISP), the IP address will be different every time the user  logs on.<br>
+                          Nelson Education Ltd. may use the user’s IP Address to:</p>
+                        <ul type="disc">
+                          <li>facilitate       the diagnosis and remedy of a technical problem reported by the user’s or       Nelson Education Ltd.’s technical team; </li>
+                          <li>display       (or allow the display by Third Party advertising providers of) more       appropriate and relevant content and advertising, such as content and       advertising based on the user’s geographic area; and</li>
+                          <li>estimate       user traffic from specific countries or organizations. Many IP addresses       are commonly associated with Internet service providers, universities, or       major corporations in specific regions or localities. Aggregate       information derived from IP addresses may also be reported to advertisers. </li>
+                        </ul>
+                        <p><u>Cookies</u><br>
+                          A cookie is a small text file, which often includes an anonymous unique  identifier, that is sent to the user’s web browser from a web site's computers  and is stored on the user’s computer's hard drive. Cookies cannot be used to  run programs or deliver viruses to a user’s computer.</p>
+                        <p>Nelson Education Ltd. may use cookies to:</p>
+                        <ul type="disc">
+                          <li>improve       the operation and performance of the Nelson Education Ltd. services and to       make Nelson Education Ltd. services easier and more convenient to use. For       example, cookies help Nelson Education Ltd. provide more personalized       services by recalling user preferences on subsequent visits (e.g. language       preference). Cookies also allow Nelson Education Ltd. to save passwords       and preferences for a user so that the user will not have to re-enter them       on the next visit to a Nelson Education Ltd. Site; </li>
+                          <li>measure       aggregate user traffic and demographic statistics related to Nelson       Education Ltd. Services and advertisements (e.g. number of users, average time       spent, average age and similar statistics). This information helps Nelson       Education Ltd. to better understand when to update, change or offer new       services and provides Nelson Education Ltd. with details as to the       performance of Third Party advertisements and content. This information       may be reported, in aggregate form only, to Nelson Education Ltd.’ current       and prospective sponsors, advertisers and business partners. No Personal       Information will be disclosed in such reports; </li>
+                          <li>Nelson       Education Ltd. and Third Party advertising providers may use cookies when       serving advertisements on Nelson Education Ltd. Sites. In some cases,       advertisements from Third Party advertisers are delivered to users (in       conjunction with Nelson Education Ltd. Services) by such Third Party       advertisers, or by separately contracted advertising providers on their       behalf, and not by Nelson Education Ltd.; as such, the Third-party       advertisers' use of cookies is subject to their own privacy policies, not       the Privacy Policy, and users should consult the privacy policies of such       Third Party advertisers. </li>
+                        </ul>
+                        <p>Most browsers are initially set up to accept cookies. If a user prefers,  the user can reset his/her browser either to notify the user when the user has  received a cookie, or to refuse to accept cookies. The user should understand  that while Nelson Education Ltd. do not require a user to use cookies, certain  Nelson Education Ltd. Services will not function properly if a user sets  his/her browser to not accept cookies.&nbsp;  In most circumstances, the information captured cannot identify you as  an Individual.<br>
+                          <br>
+                          Tracking pixels consisting of a clear gif  (also known as web beacons) are used in combination with cookies to help Site  operators understand how visitors interact with their websites. A clear gif is  typically a transparent graphic image (usually 1 pixel x 1 pixel) that is  placed on a site. The use of a clear gif allows the Site to measure the actions  of the visitor opening the page that contains the clear gif. Nelson may use  clear gifs on this Site, in our e-mails, or in our advertisements on other web  sites. Nelson utilizes clear gifs to measure visitor behavior, to help us  improve visitor experience, and to manage site content.<br>
+                          <br>
+Nelson uses analytics technology to obtain information to  improve the usefulness of the Site. We measure and analyze non-identifying,  aggregate usage, and volume statistical information from Site visitors in order  to administer the Site, and to constantly improve the quality of our service  and site performance. Information gathered may include, but is not limited to,  the following: the activity of the Site visitor's browser when the visitor is  viewing the Site; the site path of visitors; general information regarding the  visitor's internet service provider and host, and the time visitors come to the  Site. Please note that this is not personal information, only general summaries  of our visitors' usage of the Site.</p>
+                        <p><u>Web Beacons</u><br>
+                        Certain Nelson Education Ltd. Services may contain electronic images known as “Web  beacons” – sometimes called single-pixel gifs – that allow Nelson Education  Ltd. to count users who have visited those pages and to deliver co-branded  services. Web beacons are not used to access Personal Information; they are a  technique used to compile aggregated statistics about Nelson Education Ltd.  service usage. Web beacons collect only a limited set of information including  a cookie number, time and date of a page view, and a description of the page on  which the Web beacon resides. Certain Nelson Education Ltd. Services web pages  may also contain Web beacons placed there by Nelson Education Ltd.’ advertising  partners to help Nelson Education Ltd. determine the effectiveness of Nelson  Education Ltd. ’ Internet advertising campaigns.</p>
+                        <p><u>Links To Other  Sites And Advertisements</u><br>
+                          A Nelson Education Ltd. Service may contain links to other websites and services.  While Nelson Education Ltd. tries to link only to sites and services that share  Nelson Education Ltd.’s high standards and respect for privacy, a user should  understand that Nelson Education Ltd. is not responsible for the content of, or  the privacy practices employed by, other companies or websites. This Privacy Policy  applies only to the Nelson Education Ltd. services related to this Privacy Policy.</p>
+                        <p><u>Additional  Information</u><br>
+                          Nelson Education Ltd. automatically collect certain information about the user’s  computer hardware and software. This information may include: browser type,  operating system type, domain names, access times and referring Web site  addresses. This information is used by Nelson Education Ltd. to operate the  service, to maintain the quality of the service, and to provide general  statistics regarding use of the Nelson Education Ltd. Sites.<br>
+  <br>
+                          Certain Nelson  Education Ltd. Services may be co-branded and offered in conjunction with  another company. If a user registers for or uses such services, both Nelson  Education Ltd. and the other company may receive information collected in  conjunction with the co-branded services. </p>
+                        <p><strong><u>Changes to Privacy Policy</u></strong></p>
+                        <p>This Privacy  Policy is effective as of May 20th,  2010.&nbsp; If Nelson Education Ltd. makes  a material change to this Privacy Policy, we will post a notice of same on our website and highlight the changes.&nbsp; We will also notify Individuals via email and  give Individuals an opportunity to opt-out of the new data uses.<br>
+                          <u>Questions or  Queries<strong>&nbsp; </strong></u><br>
+                          If you have any  questions or queries about this Privacy Policy or Nelson education Ltd.’s  handling of your personal information, please contact our Chief Privacy  Officer.</p>
+                        <p>The Chief Privacy Officer is <strong>Marlene  Nyilassy, Vice President, Privacy, </strong>and can be contacted at 1120 Birchmount Road, Toronto, Ontario, M1K 5G4,  (416) 750-6670 or by fax at (416) 508-1091, or by email at marlene.nyilassy@nelson.com. </p>
+                        <p><strong>B.&nbsp; The PRIVACY Policy in Detail</strong></p>
+                        <p><strong><u>Definitions </u></strong></p>
+                        <p><strong>Nelson Education Ltd. </strong>– means Nelson Education Ltd. and all  companies providing services under the brands of Nelson Education Ltd.,  including but not limited to affiliates and related entities, and any successor  company or companies thereof, as a result of corporate reorganization or  restructuring.</p>
+                        <p><strong>collection</strong> - the act of gathering, acquiring,  recording or obtaining Personal Information from any source, including Third Parties,  by any means.</p>
+                        <p><strong>consent</strong> - voluntary  agreement by an informed Individual with respect to the collection, use and  disclosure of Personal Information for defined purposes. Consent can be either  express or implied and can be provided directly by the Individual or by an  authorized representative. Express consent can be given orally, electronically  or in writing but is always unequivocal and does not require any inference on  the part of Nelson Education Ltd. Implied consent is consent that can  reasonably be inferred from an Individual’s action or inaction.</p>
+                        <p><strong>disclosure</strong> - making Personal Information available to  a Third Party.</p>
+                        <p><strong>Individual</strong> - an individual who <strong>(a)</strong> corresponds  with Nelson Education Ltd., including complaints and including applications for  employment; <strong>(b)</strong> enters a contest sponsored by Nelson Education Ltd.; <strong>(c)</strong> uses, or applies to use, the products or services of Nelson Education Ltd.; <strong>(d)</strong> viewers, readers, subscribers,  advertisers and Internet users who are exposed to the media content of Nelson  Education Ltd. and about whom Nelson Education Ltd. collects Personal  Information.</p>
+                        <p><strong>Personal Information</strong> - information that can identify an  Individual directly or indirectly or through other reasonably available means,  a) business-contact information, such as the name, title or business address or  telephone number of an employee of an organization; b) information collected,  used or disclosed in the course of journalistic, literary or artistic  activities; c) aggregate information that cannot be associated with a specific  person, such as demographic statistics about Nelson Education Ltd. customers,  or number of visitors and average time spent on a website; or d) information  that is determined not to be Personal Information pursuant to applicable  privacy legislation.</p>
+                        <p><strong>Third Party</strong> – a person other than an Individual or his  agent, or an organization other than Nelson Education Ltd.</p>
+                        <p><strong>use</strong> - the treatment, handling, and management of Personal Information by  Nelson Education Ltd.</p>
+                        <p><strong><u>Privacy Principles  Described</u></strong></p>
+                        <p><strong>Principle 1 - Accountability </strong><br>
+                          Nelson Education Ltd. is responsible for Personal Information under its  control and shall designate one or more persons who are accountable for Nelson  Education Ltd.’s compliance with the following principles.</p>
+                        <p>1.1 Responsibility for ensuring compliance with the provisions of the  Privacy Policy rests with the senior management of Nelson Education Ltd., which  shall designate one or more persons to be accountable for compliance with the  Privacy Policy. Other people within Nelson Education Ltd. may be delegated to  act on behalf of the designated person(s) or to take responsibility for the  day-to-day collection and processing of Personal Information.</p>
+                        <p>1.2 Nelson Education Ltd. has designated a Chief Privacy Officer to  oversee compliance with the Privacy Policy. The Chief Privacy Officer is <strong>Marlene Nyilassy, Vice President, Privacy, </strong>and  can be contacted at 1120 Birchmount Road, Toronto,   Ontario, M1K 5G4,  (416) 750-6670 or by fax at (416) 508-1091, or by email at marlene.nyilassy@nelson.com. </p>
+                        <p>1.3 Nelson Education Ltd. is responsible for Personal Information in its  possession or control, including information that has been transferred to a  Third Party for processing. Nelson Education Ltd. shall use appropriate means  to provide a comparable level of protection while information is being  processed by a Third Party (see Principle 7).</p>
+                        <p>1.4 Nelson Education Ltd. has implemented policies and procedures to  give effect to the Privacy Policy, including: a) implementing procedures to  protect Personal Information and to oversee Nelson Education Ltd.’s compliance  with the Privacy Policy; b) establishing procedures to receive and respond to  inquiries or complaints; c) training and communicating to staff about Nelson  Education Ltd.’s policies and practices; and d) developing public information  to explain Nelson Education Ltd.’s policies and practices.</p>
+                        <p><strong>Principle 2 - Identifying Purposes for  Collection of Personal Information </strong><br>
+                          <em>Nelson Education Ltd. has collected and  collects Personal Information for the purposes set out below, and shall  identify the purposes for which Personal Information is collected at or before  the time the information is collected.</em></p>
+                        <p>2.1 Nelson Education Ltd. has collected and collects Personal  Information for the following purposes: a) to establish and maintain  responsible commercial relations with Individuals and to provide ongoing  service; b) to understand Individuals’ needs; c) to develop, enhance, market or  provide products and services; d) to manage and develop its business and  operations, including personnel and employment matters; and e) to meet legal or  regulatory requirements, including to protect or defend a legal interest.</p>
+                        <p>As examples of the above:<br>
+                          i) Nelson Education Ltd. may from time to time use an Individual’s  Personal Information to contact the Individual about changes, enhancements or  similar notices related to Nelson Education Ltd. products and services; <br>
+                          ii) if an Individual indicated that he/she was interested in receiving  offers or information from Nelson Education Ltd. or certain of our selected  sponsors or advertisers, Nelson Education Ltd. may send the Individual  materials about products and services that Nelson Education Ltd. feels may be  of interest to the Individual; and<br>
+                          iii) if an Individual enters a contest or other promotion offered on a Nelson  Education Ltd. Site, Nelson Education Ltd. may, under the rules of the  promotion, use the Individual’s name and certain other information to  administer the promotion, such as contacting, announcing and promoting the  winners of the promotion.</p>
+                        <p>Further references to “identified purposes” mean the purposes identified  in this Principle 2.</p>
+                        <p>2.2 Nelson Education Ltd. shall specify orally, electronically or in  writing the identified purposes to the Individual at or before the time  Personal Information is collected. Upon request, persons collecting Personal  Information shall explain these identified purposes or refer the Individual to  a designated person within Nelson Education Ltd. who shall explain the  purposes.</p>
+                        <p>2.3 Unless required by law, Nelson Education Ltd. shall not use or  disclose, for any new purpose, Personal Information that has been collected  without first identifying the new purpose and obtaining the consent of the Individual.</p>
+                        <p><strong>Principle 3 - Obtaining Consent for  Collection, Use or Disclosure of Personal Information </strong><br>
+                          <em>The knowledge and consent of an Individual  are required for the collection, use or disclosure of Personal Information,  except where inappropriate.</em></p>
+                        <p>3.1 Generally, Nelson Education Ltd. shall seek consent to use and  disclose Personal Information at the same time it collects the information.  However, Nelson Education Ltd. may seek consent to use and disclose Personal Information  after it has been collected but before it is used or disclosed for a new  purpose.</p>
+                        <p>3.2 In obtaining consent, Nelson Education Ltd. shall use reasonable  efforts to ensure that an Individual is advised of the identified purposes for  which Personal Information will be used or disclosed. Purposes shall be stated  in a manner that can be reasonably understood by the Individual.</p>
+                        <p>3.3 Where Personal Information is required for the supply of a product  or service,&nbsp; Nelson Education Ltd. will not  be able to collect, use or disclose Personal Information of an Individual for  the purpose of supplying such product or service unless the Individual has consented  to the collection, use or disclosure of Personal Information for such  identified purpose.</p>
+                        <p>3.4 In determining the appropriate form of consent, Nelson Education  Ltd. shall take into account the sensitivity of the Personal Information and  the reasonable expectations of the Individuals.</p>
+                        <p>3.5 In general, the use of products and services by an Individual constitutes  implied consent for Nelson Education Ltd. to collect, use and disclose Personal  Information for all identified purposes, so long as the Individual, as  applicable, has been made aware of the terms of this Privacy Policy.</p>
+                        <p>3.6 An Individual may withdraw consent at any time, subject to legal or  contractual restrictions and reasonable notice. An Individual may contact  Nelson Education Ltd. for more information regarding the implications of  withdrawing consent.<br>
+                          3.7 In certain circumstances Personal Information can be collected, used  or disclosed without the knowledge and consent of the Individual. For example,  Nelson Education Ltd. may collect or use Personal Information without knowledge  or consent if it is clearly in the interests of the Individual and consent  cannot be obtained in a timely way, such as when the Individual is a minor,  seriously ill or mentally incapacitated.<br>
+                          Nelson Education Ltd. may also collect, use or disclose Personal  Information without knowledge or consent if seeking the consent of the Individual  might defeat the purpose of collecting the information such as in the  investigation of a breach of an agreement or a contravention of a federal or  provincial law.</p>
+                        <p>Nelson Education Ltd. may also use or disclose Personal Information  without knowledge or consent in the case of an emergency where the life, health  or security of an individual or property is threatened.</p>
+                        <p>Nelson Education Ltd. may disclose Personal Information without  knowledge or consent to collect a debt, to comply with a subpoena, warrant or  other court order, or as may be otherwise related to the legal or regulatory  requirements described herein.</p>
+                        <p><strong>Principle 4 - Limiting Collection of  Personal Information </strong><br>
+                          <em>Nelson Education Ltd. shall limit the  collection of Personal Information to that which is necessary for the purposes  identified by Nelson Education Ltd.</em> <br>
+                          <em>Nelson Education Ltd. shall collect  Personal Information by fair and lawful means.</em></p>
+                        <p>4.1 Nelson Education Ltd. collects Personal Information primarily from  Individuals.</p>
+                        <p>4.2 Nelson Education Ltd. may also collect Personal Information from  other sources including credit bureaus (only to the extent that credit is being  extended to an Individual), employers or personal references, or other Third Parties  that represent that they have the right to disclose the information.</p>
+                        <p><strong>Principle 5 - Limiting Use, Disclosure and  Retention of Personal Information </strong><br>
+                          <em>Nelson Education Ltd. shall not use or  disclose Personal Information for purposes other than those for which it was  collected, except with the consent of the Individual or as required by law.  Nelson Education Ltd. shall retain Personal Information only as long as  necessary for the fulfillment of the purposes for which it was collected.</em></p>
+                        <p>5.1 In certain circumstances Personal Information can be collected, used  or disclosed without the knowledge and consent of the Individual. (See  Principle 3.7) </p>
+                        <p>5.2 In addition, Nelson Education Ltd. may disclose an Individual’s  Personal Information to: a) another person for the development, enhancement,  marketing or provision of any of the products or services of Nelson Education  Ltd.; b) a person who, in the reasonable judgment of Nelson Education Ltd., is  seeking the information as an agent of the Individual; c) Nelson Education Ltd.  to permit the provision of services requested by the Individual, and d) a Third  Party or Third Parties, where the Individual consents to such disclosure or  disclosure is required or permitted by law.<br>
+                          You also understand  that Nelson Education Ltd. may use and disclose your personal information to Third  Parties connected with the proposed or actual financing, insuring, sale,  securitization, assignment or other disposal of all or part of our business or  assets (including accounts) for the purposes of evaluating and/or performing  the proposed transaction.&nbsp; These purposes may include, as examples,  permitting such parties to determine whether to proceed or continue with the  transaction, fulfilling any reporting or audit requirements to such parties,  and/or disclosing Personal Information as part of concluding a sale or transfer  of assets.&nbsp; Our successors and assigns may collect, use and disclose your Personal  Information for substantially the same purposes as described in this Privacy  Policy.</p>
+                        <p>5.4 Only those employees of Nelson Education Ltd. who require access for  business reasons, or whose duties reasonably so require, or properly designated  representatives of Nelson Education Ltd., are granted access to Personal Information  about Individuals.</p>
+                        <p>5.5 Nelson Education Ltd. shall keep Personal Information only as long  as it remains necessary or relevant for the identified purposes or as required  by law. Depending on the circumstances, where Personal Information has been  used to make a decision about an Individual, Nelson Education Ltd. shall retain,  for a period of time that is reasonably sufficient to allow for access by the Individual,  either the actual information or the rationale for making the decision.</p>
+                        <p>5.6 Nelson Education Ltd. shall maintain reasonable and systematic  controls, schedules and practices for information and records retention and  destruction which apply to Personal Information that is no longer necessary or  relevant for the identified purposes or required by law to be retained. Such  information shall be destroyed, erased or made anonymous.</p>
+                        <p><strong>Principle 6 - Accuracy of Personal  Information </strong><br>
+                          <em>Personal Information shall be as accurate, complete and up-to-date as is  necessary for the purposes for which it is to be used.</em></p>
+                        <p>6.1 Personal Information used by Nelson Education Ltd. shall be  sufficiently accurate, complete and up-to-date to minimize the possibility that  inappropriate information may be used to make a decision about an Individual.</p>
+                        <p>6.2 Nelson Education Ltd. shall update Personal Information about Individuals  as and when necessary to fulfill the identified purposes or upon notification  by the Individual.</p>
+                        <p><strong>Principle 7 - Security Safeguards </strong><br>
+                          <em>Nelson Education Ltd. shall protect  Personal Information by security safeguards appropriate to the sensitivity of  the information.</em></p>
+                        <p>7.1 Nelson Education Ltd. shall protect Personal Information against  such risks as loss or theft, unauthorized access, disclosure, copying, use,  modification or destruction, through appropriate security measures. Nelson  Education Ltd. shall protect the information regardless of the format in which  it is held.</p>
+                        <p>7.2 Nelson Education Ltd. shall protect Personal Information disclosed  to Third Parties by contractual agreements stipulating the confidentiality of  the information and the purposes for which it is to be used.</p>
+                        <p>7.3 All employees of Nelson Education Ltd. with access to Personal  Information shall be required as a condition of employment to respect the  confidentiality of Personal Information.</p>
+                        <p><strong>Principle 8 - Openness Concerning Policies  and Practices </strong><br>
+                          <em>Nelson Education Ltd. shall make readily  available to Individuals specific information about its policies and practices  relating to the management of Personal Information.</em></p>
+                        <p>8.1 Nelson Education Ltd. shall make information about its policies and  practices easy to understand, including: a) the title and address of the person  or persons accountable for the compliance with the Privacy Policy and to whom  inquiries or complaints can be forwarded; b) the means of gaining access to  Personal Information held by Nelson Education Ltd.; and c) a description of the  type of Personal Information held by Nelson Education Ltd., including a general  account of its use.</p>
+                        <p>8.2 Nelson Education Ltd. shall make available information to help Individuals  exercise choices regarding the use of their Personal Information.</p>
+                        <p><strong>Principle 9 - Access to Personal Information </strong><br>
+                          <em>Nelson Education Ltd. shall inform an  Individual of the existence, use and disclosure of his or her Personal  Information upon request and shall give the Individual access to that information.</em></p>
+                        <p>An Individual shall be able to challenge the accuracy and completeness  of the Personal Information and have it amended as appropriate.</p>
+                        <p>9.1 Upon request, Nelson Education Ltd. shall afford to an Individual a  reasonable opportunity to review the Personal Information in the Individual’s  file. Personal Information shall be provided in understandable form within a  reasonable time and at minimal or no cost to the Individual.</p>
+                        <p>9.2 In certain situations, Nelson Education Ltd. may not be able to  provide access to all of the Personal Information that they hold about an  Individual. For example, Nelson Education Ltd. may not provide access to  information if doing so would likely reveal Personal Information about a Third  Party or could reasonably be expected to threaten the life or security of  another person. Also, Nelson Education Ltd. may not provide access to  information if disclosure would reveal confidential commercial information, if  the information is protected by solicitor-client privilege, if the information  was generated in the course of a formal dispute resolution process, or if the  information was collected in relation to the investigation of a breach of an  agreement or a contravention of a federal or provincial law, or if the  information was collected as part of journalistic, literary or artistic  activities. If access to Personal Information cannot be provided, Nelson  Education Ltd. shall provide the reasons for denying access upon request.</p>
+                        <p>9.3 Upon request, Nelson Education Ltd. shall provide an account of the  use and disclosure of Personal Information and, where reasonably possible,  shall state the source of the information. In providing an account of  disclosure, Nelson Education Ltd. shall provide a list of organizations to  which it may have disclosed Personal Information about the Individual when it  is not possible to provide an actual list.</p>
+                        <p>9.4 In order to safeguard Personal Information, an Individual may be  required to provide sufficient identification information to permit Nelson  Education Ltd. to account for the existence, use and disclosure of Personal  Information and to authorize access to the Individual’s file. Any such  information shall be used only for this purpose.<br>
+                          9.5 Nelson Education Ltd. shall promptly correct or complete any  Personal Information found to be inaccurate or incomplete. Any unresolved  differences as to accuracy or completeness shall be noted in the Individual’s  file. Where appropriate, Nelson Education Ltd. shall transmit to Third Parties  having access to the Personal Information in question any amended information  or the existence of any unresolved differences.</p>
+                        <p>9.6 An Individual can obtain information or seek access to his or her  Personal Information by contacting a designated representative at Nelson  Education Ltd. principal office.</p>
+                        <p><strong>Principle 10 - Challenging Compliance </strong><br>
+                          <em>An Individual shall be able to address a  challenge concerning compliance with the above principles to the designated  person or persons accountable for the compliance of Nelson Education Ltd. with  the Privacy Policy.</em></p>
+                        <p>10.1 Nelson Education Ltd. shall maintain procedures for addressing and  responding to all inquiries or complaints from Individuals about Nelson  Education Ltd.’s handling of their Personal Information. If any Individual at  any time has any questions or concerns about Nelson Education Ltd.’s Privacy  Policy or privacy practices as herein contained, the Individual can either:<br>
+                          <strong>i) </strong>write to<strong> Marlene Nyilassy, Vice  President, Privacy, at Nelson Education Ltd., 1120 Birchmount Road, Toronto,  ON, M1K 5G4, or by email at marlene.nyilassy@nelson.com; </strong>or<strong><br>
+                          </strong>ii) provide information to Nelson Education Ltd. through the form on its Internet  Privacy page.</p>
+                        <p>10.2 Nelson Education Ltd. shall inform Individuals about the existence  of these procedures as well as the availability of complaint procedures.</p>
+                        <p>10.3 The person or persons accountable for compliance with the Privacy Policy  may seek external advice where appropriate before providing a final response to  individual complaints.</p>
+                        <p>10.4 Nelson Education Ltd. shall investigate all complaints concerning  compliance with the Privacy Policy. If a complaint is found to be justified,  Nelson Education Ltd. shall take appropriate measures to resolve the complaint  including, if necessary, amending its policies and procedures. An individual  shall be informed of the outcome of the investigation regarding his or her  complaint.</p>
+                        <p><em><strong>Most recently amended </strong></em><em><strong>May 25, 2010</strong></em><em><strong>.</strong></em><br>
+                          <a name="_iDocIDField_1"></a>6514360.4 </p>
+                          <form action="/cgi-bin/dumpform.cgi" method="post" name="Privacyform">
+
+         <p class="text-v-13pt" style="width:550px">
+          <input name="log-action" type="hidden" value="mail">
+          <input name="log-mailto" type="hidden" value="privacyhr@nelson.com">
+          <input name="subject" type="hidden" value="Privacy Inquiry">
+          <input type="hidden" name="from-var" value="Email">
+          <input type="hidden" name="thankyou" value="http://www.nelson.com/nelson/privacythanks.html">
+        </p>
+        <h3> <p class="text-v-13pt" style="width:550px">Privacy Inquiry</p></h3>
+
+         <p class="text-v-13pt" style="width:550px">Please send us your privacy inquiry using the form below. All fields
+          marked with <font color="#FF0000">*</font> are mandatory except for
+          e-mail.</p>
+         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Name<br>
+            <input name="Name" type="text" id="Name" size="20" maxlength="50">
+        </p>
+         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Address<br>
+
+            <input name="Address" type="text" id="Address" size="40" maxlength="100">
+        </p>
+         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Telephone<br>
+            <input name="Telephone" type="text" id="Telephone" size="20" maxlength="30">
+        </p>
+         <p class="text-v-13pt" style="width:550px">E-Mail<br>
+            <input name="Email" type="text" id="Email" size="20" maxlength="50">
+
+        </p>
+         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Preferred method of contact. If phone,
+          please indicate the best time to call.<br>
+            <input name="Method_Of_Contact" type="text" id="Method_Of_Contact" size="20" maxlength="100">
+        </p>
+         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Nature of Inquiry<br>
+            <textarea name="Nature_Of_Inquiry" cols="40" rows="5" id="Nature_Of_Inquiry"></textarea>
+
+        </p>
+         <p class="text-v-13pt" style="width:550px">
+          <input type="submit" name="Submit" value="Send Privacy Inquiry" onclick="return validate()">
+          <input name="Reset" type="reset" id="Reset" value="Reset">
+        </p>
+         <p class="text-v-13pt" style="width:550px"><strong>You will be returned to the nelson.com home page.</strong></p>
+    </form>
+					  </div>
+			    </div>
+
+			<div>		</div>
+    </td><td align="right" valign="top">   </td>
+  </tr>
+</tbody></table>
+  <table width="1000">
+<tbody><tr align="left" valign="top">
+<td class="style1"><img src="http://www.nelson.com/nelson/common/images/spacer.gif" height="20" width="30" border="0"></td>
+    <td>     
+      <!-- footer  -->
+
+
+		<style type="text/css">
+<!--
+.style1 {color: #999999}
+-->
+        </style>
+		<div id="footer">
+		  <div class="dividerFooter"></div>
+			<a href="http://www.nelson.com/aboutus/" target="_parent" class="newfooter"> &nbsp;&nbsp;&nbsp;&nbsp;About Us </a> 
+            <span class="newfooter style1">|</span>
+			<a href="http://www.nelson.com/order/contact.html" target="_parent" class="newfooter">Contact Us</a> <span class="newfooter style1">|</span>
+			<a href="http://www.nelson.com/order/" target="_parent" class="newfooter">Customer Support</a> <span class="newfooter style1">|</span>
+            			<a href="http://www.nelsonbrain.com/" target="_parent" class="newfooter">NelsonBrain</a> <span class="newfooter style1">|</span>
+			<a href="http://sitemap.nelson.com/" target="_parent" class="newfooter">Site Map</a> <span class="newfooter style1">|</span>
+			<a href="http://replocator.nelson.com/" target="_parent" class="newfooter">Rep Locator</a> <span class="newfooter style1">|</span>
+			<a href="http://www.cengage.com/us" target="_new" class="newfooter">Cengage Learning</a> <span class="newfooter style1">|</span>
+			<a href="http://www.nelson.com/" target="_parent" class="newfooter">Nelson Education Ltd.</a> <span class="newfooter style1">|</span>
+			<a href="http://www.nelson.com/privacy.html" target="_parent" class="newfooter">Privacy Policy </a><span class="newfooter style1">|</span>
+			<a href="http://www.nelson.com/terms.html" target="_parent" class="newfooter">Terms &amp; Conditions </a> <span class="newfooter style1">|</span>
+			<a href="http://www.nelson.com/careers/" target="_parent" class="newfooter">Careers</a>        </div>
+		<!-- footer ends here -->
+
+    </td>
+  </tr></tbody></table>
+<!-- Main content area ends -->
+<!-- Omniture Code Starts -->
+
+<!-- SiteCatalyst code version: G.5.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+var s_pageName=""
+var s_server=""
+var s_channel=""
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""
+/* E-commerce Variables */
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+//--></script><script language="JavaScript" src="http://www.nelson.com/includes/nelson/omniture/corp/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.5. -->
+
+
+<!-- Omniture Code Ends -->
 
 </body></html>
