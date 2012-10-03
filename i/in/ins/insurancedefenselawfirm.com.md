@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancedefenselawfirm.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530094655id_/http%3A//insurancedefenselawfirm.com/consumers/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancedefenselawfirm.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003031828id_/http%3A//www.insurancedefenselawfirm.com/consumers/privacy/index.html) for the most accurate reproduction.*
 
 # Insurance Defence Law Firm | Lawyers, Attorneys, Law Firms, Legal Information | Privacy
 
