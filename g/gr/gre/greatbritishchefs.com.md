@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatbritishchefs.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507054621id_/http%3A//www.greatbritishchefs.com/home/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbritishchefs.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003044013id_/http%3A//greatbritishchefs.com/privacy-policy) for the most accurate reproduction.*
 
-# Home To Recipes & Chefs From The Great British Menu - Great British Chefs
+# Privacy Policy - Great British Chefs
 
 This Privacy Policy explains how we use information we collect from you when you use our site. We keep our Privacy Policy under regular review. Any updates will be posted on this web page and, where appropriate, notified to you by e-mail. This Privacy Policy was last updated on 1st June 2011.  
 If you have privacy questions which are not answered by this Privacy Policy or any other queries about how we use your information, please contact us at [info@greatbritishchefs.com](mailto:info@greatbritishchefs.com).
@@ -55,6 +55,10 @@ Our website contains links to other websites. This Privacy Policy only applies t
 
 **6 Our details**
 
-www.greatbritishchefs.com is a website owned and operated by, Great British Chefs Limited.  
-Great British Chefs Limited 72 Queen’s Head Street, London Registered in England Company number: 07470770  
-Please address any questions, comments and requests regarding our Privacy Policy to [info@greatbritishchefs.com](mailto:info@greatbritishchefs.com)
+www.greatbritishchefs.com is a website owned and operated by Great British Chefs Limited.
+
+Great British Chefs Limited , 72 Queen’s Head Street, London.  
+Registered in England  
+Company number: 07470770
+
+Please address any questions, comments and requests regarding our Privacy Policy to [info@greatbritishchefs.com](mailto:info@greatbritishchefs.com) z
