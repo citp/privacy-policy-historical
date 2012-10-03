@@ -1,0 +1,584 @@
+<!--The following is the downloaded HTML source of the bidsson.com privacy policy that was archived on 2012-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003032748id_/http%3A//www.bidsson.com/page/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<title>
+		Privacy Policy | Bidsson LLC</title>
+	<link rel="alternate" type="application/rss+xml" href="/auctions/index.rss" title="Live Auctions">
+	<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+	<meta name="description" content="Bidsson Privacy Policy"><meta name="keywords" content="Bidsson, Privacy, Policy, Bidify, Penny, Auction"><link rel="stylesheet" type="text/css" href="/css/style.css"><script type="text/javascript" src="/js/jquery/jquery.js"></script><script type="text/javascript" src="/js/jquery/ui.js"></script>	<script type="text/javascript" src="/auctionjs.php"></script>
+		<!--[if lt IE 7]>
+		<script type="text/javascript" src="/js/dropdown.js"></script>	<![endif]-->
+
+
+
+ 
+
+	<script type="text/javascript">
+	<!--
+	// page_top_scroll
+	$(function () {
+        $('#link_to_top').click(function () {
+            $(this).blur();
+
+            $('html,body').animate({ scrollTop: 0 }, 'normal');
+            return false;
+        });
+	});
+	page_name = 'view';
+	-->
+	</script>
+	
+	
+<script type="text/javascript"> 
+// waitTime is in milliseconds.
+var ScreenSaver = function (waitTime) {
+this.lastActivity = new Date().getTime();
+this.waitTime = waitTime;
+
+var $this = this;
+this._timer = setInterval(function () { $this._checkTime.call($this) }, 1000);
+document.onmousemove = function () { $this._mouseHandler.call($this) };
+};
+
+ScreenSaver.prototype = {
+_timer: null,
+
+lastActivity: 0,
+started: false,
+waitTime: 0,
+
+onstart: function () {},
+onend: function () {},
+
+dispose: function () {
+if (this._timer) clearInterval(this._timer);
+document.onmousemove = null;
+},
+
+_checkTime: function () {
+if (!this.started && new Date().getTime() - this.lastActivity >= this.waitTime) {
+this.started = true;
+this.onstart();
+}
+},
+
+_mouseHandler: function () {
+this.lastActivity = new Date().getTime();
+if (this.started) {
+this.started = false;
+this.onend();
+}
+}
+};
+
+var ss = new ScreenSaver(1200000);
+
+ss.onstart = function () {
+ window.location.href = "http://bidsson.com/idle.html"; 
+};
+
+ss.onend = function () {
+//document.getElementsByTagName("body")[0].style.backgroundColor = "#fff";
+};
+</script>
+
+		
+</head>
+<body>
+
+
+<!--[if lte IE 6]>
+<script type="text/javascript" src="/js/ie6/warning.js"></script><script>window.onload=function(){e("//js/ie6/")}</script>
+<![endif]-->
+<div class="top_feather">
+
+<div id="wrapper">
+
+<div id="header">
+		<div class="logo"><a href="/"><img src="/img/logo/logo.png"></a></div>        
+         
+        
+ <div class="header_right"> 
+ <div class="fb_top"><fb:like layout="button_count" locale="en_US" href="http://bidsson.com"></fb:like></div>
+  <style>
+.facebook_connect{
+	width:250px!important;
+	}
+</style>
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+
+	
+	<div id="fb-root"></div>
+ <script type="text/javascript">
+            function streamPublish(name, description, hrefTitle, hrefLink, userPrompt){        
+                FB.ui({ method : 'feed', 
+                        message: userPrompt,
+                        link   :  hrefLink,
+                        caption:  hrefTitle,
+                        picture: 'http://bidsson.com/img/logo/logo.png'
+               });
+
+            }
+           
+        </script>
+		<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+		 <script type="text/javascript">
+		   FB.init({
+			 appId  : '225621267545911',
+			 status : true, // check login status
+			 cookie : true, // enable cookies to allow the server to access the session
+			 xfbml  : true  // parse XFBML
+		   });
+		   
+		     /* All the events registered */
+			FB.Event.subscribe('auth.login', function(response) {
+				// do something with response
+				login();
+			});
+			FB.Event.subscribe('auth.logout', function(response) {
+				// do something with response
+				logout();
+			});
+			
+			function login(){
+                document.location.href = "http://www.bidsson.com/?login";
+            }
+            function logout(){
+                //document.location.href = "http://www.bidsson.com/?logout";
+            }
+		   
+		 </script>
+		 
+
+   
+<div class="facebook_connect">
+<fb:login-button size="medium" autologoutlink="true" perms="email,user_birthday,status_update,publish_stream">Connect with Facebook</fb:login-button>
+</div>
+
+
+   
+  <br style="clear:both;">
+ 	 <div class="user_menu">
+   		<style>
+
+.change_doller{
+       float:right;
+       padding:8px 10px 0px 0px;
+}
+</style>
+    
+<ul>
+<form action="http://www.bidsson.com/users/login" method="post" id="UserLoginForm">				
+<li class="username"><input type="text" id="UserUsername" value="username" maxlength="40" name="data[User][username]" onclick="javascript:if(this.value == 'username'){this.value='';}"><br>
+<span>Forgot Password &nbsp;<a href="/users/reset"> Click Here</a></span>
+</li>
+
+
+<li class="password"><input type="password" id="UserPassword" value="88888888__" name="data[User][password]" onclick="javascript:if(this.value == '88888888__'){this.value='';}"><br>
+<span>Not a member? &nbsp;<a href="/users/register"> Signup Now</a></span>
+</li>
+
+
+<li class="login_btn"><input type="image" label="" src="/img/login_btn.png"></li>
+
+
+</form>
+    </ul>
+    
+
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+<script type="text/javascript">
+            window.fbAsyncInit = function() {
+                FB.init({appId: '225621267545911', status: true, cookie: true, xfbml: true});
+               FB.Event.subscribe('edge.create', function(href, widget) {
+					var urlAux = href.split('=');
+					var id_asta = urlAux[1];
+					$.ajax({        
+						type: 'POST',
+						url: '/get_bid.php',
+						data: { 'userid': ''},
+						success: function(){ }   
+					});	
+				});
+            };
+			
+			(function() {
+
+                var e = document.createElement('script');
+
+                e.type = 'text/javascript';
+
+                e.src = document.location.protocol +
+
+                    '//connect.facebook.net/en_US/all.js';
+
+                e.async = true;
+
+                document.getElementById('fb-root').appendChild(e);
+
+            }());
+
+	function popup(){
+		window.open('/currency', 'Currency Convertor', 'height=180px,width=700px')
+	}
+
+</script>   	</div>
+  
+ 
+ </div>
+ 
+    
+        
+        
+        
+             
+</div>
+
+
+<div class="main_menu"><span><img src="/img/menu_leftcor.png"></span>
+<ul>    
+<li><a href="/" class="act">Home</a></li> 
+<li><a href="/auctions">Auctions</a></li>
+<li><a href="/auctions/winners">Winners</a></li> 
+
+ 
+
+        
+        
+<li><a href="/users/register">Register</a></li> 
+
+
+
+   
+   
+   
+<li><a href="http://bidsson.zendesk.com" target="_blank">Support</a></li> 
+
+ <li style="background-image:none; padding:0px 4px 0px 0px; position:relative; float:right;"><a href="#" style="line-height:35px;"><img src="/img/cat_bg.png"></a>
+
+
+<ul class="drop_menu">
+<li style="background-image:none;"><a href="/categories/">All Categories</a></li>
+<li style="background-image:none;"><a href="/categories/view/4">Bid Packages(11)</a></li>
+<li style="background-image:none;"><a href="/categories/view/9">Cellphones &amp; Telephones(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/2">Coffee &amp; Espresso(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/10">Computer Accessories(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/6">Consoles &amp; Games(1)</a></li>
+<li style="background-image:none;"><a href="/categories/view/24">Gift Cards(10)</a></li>
+<li style="background-image:none;"><a href="/categories/view/22">Gold &amp; Precious Metals(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/12">GPS(1)</a></li>
+<li style="background-image:none;"><a href="/categories/view/14">Health, Fitness &amp; Beauty(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/7">House &amp; Garden(3)</a></li>
+<li style="background-image:none;"><a href="/categories/view/5">iPods, MP3 &amp; Audio(3)</a></li>
+<li style="background-image:none;"><a href="/categories/view/21">Jewelery(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/16">Kids Toys(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/8">Laptops &amp; Notebooks(1)</a></li>
+<li style="background-image:none;"><a href="/categories/view/15">Make-Up and Perfume(2)</a></li>
+<li style="background-image:none;"><a href="/categories/view/11">Photo &amp; Video(1)</a></li>
+<li style="background-image:none;"><a href="/categories/view/23">Power Tools(1)</a></li>
+<li style="background-image:none;"><a href="/categories/view/20">Specials(1)</a></li>
+<li style="background-image:none;"><a href="/categories/view/25">Sports(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/19">Travels(0)</a></li>
+<li style="background-image:none;"><a href="/categories/view/3">TV &amp; Video(2)</a></li>
+<li style="background-image:none;"><a href="/categories/view/13">Watches &amp; Sunglasses(1)</a></li>
+</ul>
+
+</li> 
+</ul>
+<span><img src="/img/menu_rightcor.png"></span>
+    
+</div>
+<div id="container">
+
+<script>
+$("#tab1").click(function() {
+  window.location.href="/users/register";
+});
+$("#tab6").click(function() {
+  window.location.href="/users/register";
+});
+$("#tab5").click(function() {
+  window.location.href="/packages";
+});
+$("#tab3").click(function() {
+  window.location.href="/users/register";
+});
+$("#tab2").click(function() {
+  window.location.href="/users/register";
+});
+
+</script>	<div id="maincontent">
+
+				<div class="box clearfix">
+<div class="top_heading">
+<span><img alt="" src="/img/heading_left.png"></span>
+<ul>
+<li><span><img alt="" src="/img/titel_left.png"></span><h1><label><img alt="" src="/img/watch_icon.png"></label>Privacy Policy</h1><span>
+<img alt="" src="/img/titel_right.png"></span></li>
+</ul>
+<span><img alt="" src="/img/heading_right.png"></span>
+</div>
+<div class="main_content">
+
+<div class="main_content_middle">			
+<p>
+	&nbsp;</p>
+<div>
+	<strong>Bidsson Privacy Policy</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Our Commitment to Privacy</strong></div>
+<div>
+	Our Privacy Policy has been developed as an extension of our commitment to combine quality products and services with integrity in dealing with users. The Policy is designed to assist you in the understanding of how we collect, use and protect the personal information provided to us.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>What Information Do We Collect?</strong></div>
+<div>
+	When you visit our site, we collect two types of information: personal information you actively choose to disclose (“Active Information”) and Use information collected, in a way not visible to you, on an aggregate anonymous basis as you and other users browse our site (“Passive Information”).</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>1. Personally Identifiable Information</strong></div>
+<div>
+	This refers to information that lets us know specifically about you i.e. profile information.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>A. Registration</strong></div>
+<div>
+	When you register to become a customer, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed on our website. You select a Username and your own password – both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>B. Ordering</strong></div>
+<div>
+	When you place an order for products or services, we collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transactional information). We use this information to deliver your order, process payment, and to communicate the status of your order.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>C. Credit Card Storage</strong></div>
+<div>
+	Credit card information collected at registration or for product orders is used only to process payment for the transaction and, generally, is not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards to be used for product orders with our thrird party credit card processors.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>D. Surveys and Promotions</strong></div>
+<div>
+	Occasionally, you may voluntarily provide Personally Identifiable Information to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services and to ensure that we’re providing accurate disclosures. We may also use your Personally Identifiable Information to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials, by adjusting your Subscriptions &amp; Email options on the Site.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>2. Aggregate Information</strong></div>
+<div>
+	This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator (“URL”) of the website that referred you to our Site, your Internet Protocol (“IP”) address (a number automatically assigned to your computer whenever you surf the web), your operating system and browser type, and any search terms that you enter on our Site. Our web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content or our Site in order to make your visit an easy and enjoyable experience.</div>
+<div>
+	We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that such information does not personally identify you. We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Statement.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Active Information You Choose to Provide</strong></div>
+<div>
+	In order to gain use of the site (become a “user”), we require you to disclose the following information: Name, Address and Phone Number</div>
+<div>
+	We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our secure online forms. The information you provide to us is stored securely.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Passive Information Collected&nbsp;</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>What is a Cookie?</strong></div>
+<div>
+	Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a site. They are small pieces of data stored by a user’s browser to simplify subsequent interactions with the site. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.</div>
+<div>
+	Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after visiting our site. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser.&nbsp;</div>
+<div>
+	Our site’s servers also automatically identify you computer by its Internet Protocol address, which is a unique string of numbers that are assigned to your computer by your Internet Service Provider. The IP address may be used to address problems with our server or to gather broad demographic information about our users. We passively collect your IP Address.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>How Do We Use the Information Collected?</strong></div>
+<div>
+	Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer support and making available other products or services we think might be of interest to our users. We may use the Active Information or Passive Information you provide to contact you about various changes to our site, new services, features or products we offer. If at any time you do not wish to receive such information, you may “opt-out” of doing so by adjusting your email settings in the back office of the website.&nbsp;</div>
+<div>
+	We use Passive Information to gather information about our users and to enhance our site to make it easier, faster and friendlier for users. Additionally, cookies help us better understand the usage pattern of the people that visit our site, which helps us improve our services. Passive Information may result in your viewing of particular advertising based on your user habits.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Your Information In Relation to Others We Link To&nbsp;</strong></div>
+<div>
+	You might be able to access other websites through our site via hyperlinks. When you do so, you are subjecting yourself to their privacy policies and data collection. Please read the privacy policies of those sites to ensure you agree with the terms before using such sites.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Sharing Information with Advertisers or Other Third Parties&nbsp;</strong></div>
+<div>
+	We may disclose anonymous information about user habits to advertisers on our site. The parties who perform services for us (credit card processors, merchant bank, Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, which might include your information, to make business decisions as to whether to acquire such assets.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Sharing Information with the Government or As Otherwise Required by Law</strong></div>
+<div>
+	We may be required by subpoena, law or government agency to disclose both Active and Passive Information you have provided to us.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>How Do We Secure Active Information and Passive Information?</strong></div>
+<div>
+	We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss of Active and Passive Information. Individual postings on this site and other communications to our office via email or standard mail may not be secure unless we advise you that security measures are in place prior to your submission of information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we respectfully request that you do not send or post sensitive information through these means.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Accessing and Correcting Your Information</strong></div>
+<div>
+	We take reasonable measures to ensure that any Personally Identifiable Information we collect on our Site is accurate, current, complete, and reliable for its intended use. If you wish to update or otherwise correct Personally Identifiable Information provided to us, you may edit your information online.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Protecting Your Information&nbsp;</strong></div>
+<div>
+	We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information provided from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.</div>
+<div>
+	It is you responsibility to safeguard the password you use to access our Site and to promptly advise us if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your identification number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Links to Other Websites</strong></div>
+<div>
+	Links to third-party websites may be provided solely for your information and convenience or to provide additional shopping for various other goods and services through our Merchant and Services Partners. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those websites nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Children’s Privacy Protection</strong></div>
+<div>
+	We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child’s online activities. Our Site does not target and is not intended for children under the age of 18, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our site, we will eliminate that data.You may learn more about protecting children’s privacy online by visiting: http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Changes to This Statement</strong></div>
+<div>
+	Any updates or changes to the terms of this Privacy Statement will be posted on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<em><strong>YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.</strong></em></div>
+</div> 
+
+</div>
+</div>
+
+	</div>
+
+	
+</div>
+
+</div>
+<div id="footer-full">
+<div class="footer_center">
+   
+   <ul>
+	<li><h1>Quick Links</h1></li>
+		<li><a href="/users/register"> Register Now! </a></li>  
+	    
+	<li><a href="/page/whatisbidsson"> What is Bidsson? </a></li>                       
+	<li><a href="/auctions"> Live Auctions </a></li>
+    </ul>      
+      
+	
+    <ul>
+	<li><h1>Company</h1></li>      
+	<li><a href="/page/about"> About Bidsson </a></li>         
+	<li><a href="/news"> Latest News </a></li>           
+	<li><a href="/page/privacy"> Privacy Policy </a></li>
+    </ul>
+    
+    
+	<ul>   
+	<li><h1>Support</h1></li>            
+	<li><a href="/pages/howitwork"> How It Works </a></li>        
+	<li><a href="http://bidsson.zendesk.com" target="_blank"> Help &amp; Support </a></li>      
+	<li><a href="/page/terms"> Terms &amp; Conditions </a></li>
+	</ul>
+
+	<ul style="width:335px;">   
+	<li><h2>Bid Safely on Bidsson</h2></li>            
+	<li style="padding-right:10px;"><img alt="" src="/img/fot-verisign.png"></li>        
+	<li style="clear:none;"><img alt="" src="/img/fot-bbb.png"></li>          
+    <li><h1 style="padding-bottom:0px;">Follow Us</h1></li>
+	<li style="padding-right:10px;"><a style="background-image:none;padding:0px;" target="_blank" href="http://www.facebook.com/bidssonltd"><img alt="" src="/img/fot-f.png"></a>		    </li>        
+    
+	<li style="clear:none; padding-right:10px;"><a style="background-image:none;padding:0px;" target="_blank" href="http://www.twitter.com/#!/bidsson">
+    <img alt="" src="/img/fot-t.png"></a></li>           
+    
+	<li style="clear:none;padding-right:10px;"><a style="background-image:none;padding:0px;" target="_blank" href="http://www.youtube.com/bidsson">
+    <img alt="" src="/img/fot-y.png"></a></li>        
+	</ul>
+    
+    
+	<span class="copy_right">©2012 - Bidsson USA LLC. All Rights Reserved.</span>         
+    </div>
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+ 
+
+</body></html>
