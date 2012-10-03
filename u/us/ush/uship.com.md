@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626170908id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003234518id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
 # uShip - The Online Shipping Marketplace - Ship Freight, Furniture, Cars or Moves
 
