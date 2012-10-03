@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelboutiqueonline.com privacy policy that was archived on 2012-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120404014349id_/http%3A//www.travelboutiqueonline.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelboutiqueonline.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003035640id_/http%3A//travelboutiqueonline.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-`24X7 Helpdesk Numbers : +91-124-4998999` `[Home](https://web.archive.org/web/20120404014349id_/http%3A//www.travelboutiqueonline.com/Default.aspx) | [Contact us](https://web.archive.org/web/20120404014349id_/http%3A//www.travelboutiqueonline.com/contactus.htm)`
+`24X7 Helpdesk Numbers : +91-124-4998999` `[Home](https://web.archive.org/web/20121003035640id_/http%3A//travelboutiqueonline.com/Default.aspx) | [Contact us](https://web.archive.org/web/20121003035640id_/http%3A//travelboutiqueonline.com/contactus.htm)`
 
 Our Commitment To Privacy 
 
