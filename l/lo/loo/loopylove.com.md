@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507090559id_/http%3A//www.loopylove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003205528id_/http%3A//www.loopylove.com/privacy.cfm) for the most accurate reproduction.*
 
 # Your privacy and safety on Loopylove online dating
 
@@ -68,6 +68,8 @@ As we continue to develop our business, we might sell or buy assets. In such tra
 
 
 We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties.
+
+You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Company and Group's services including our various internet sites and mobile sites. 
 
 We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
