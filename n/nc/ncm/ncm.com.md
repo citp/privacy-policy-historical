@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncm.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620205205id_/http%3A//www.ncm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncm.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003213433id_/http%3A//www.ncm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NCM Cinema Advertising and Media Networks - National CineMedia
 
