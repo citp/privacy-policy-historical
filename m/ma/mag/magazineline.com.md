@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629001521id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003033243id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
 
 # Magazineline - America's First Choice Magazine Store Since 1974
 
-[Customer Service](https://web.archive.org/web/20120629001521id_/http%3A//www.magazineline.com/magazineline/customerservice.htm) Privacy & Security Policy
+[Customer Service](https://web.archive.org/web/20121003033243id_/http%3A//www.magazineline.com/magazineline/customerservice.htm) Privacy & Security Policy
 
 Privacy & Security
 
@@ -85,7 +85,7 @@ Our Security Pledge
 >  **Prefer to Order Via Phone?  
 >  **Of course, it is no problem if you prefer to place your subscription order by phone, mail, or fax. To order by phone simply call our toll-free sales number: (800) 959-1676. Someone will be there to answer your call twenty-four hours a day, seven days a week. 
 > 
-> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20120629001521id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
+> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20121003033243id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
 > 
 > Back to Top
 
