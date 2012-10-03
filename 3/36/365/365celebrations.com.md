@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,28 +6,64 @@
 
 Dancing Physicist Talk  
 
-  * [Man and Woman ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/man_and_woman/dive_into_love.html)
-  * [The Science of Awareness](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/science_awareness/Does_meditation_need_methods.html)
-  * [ The Power of Mind](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/power_mind/Mind_computer.html)
-  * [Find Yourself](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/find_yourself/Grass_greener.html)
-  * [Two-Dimensional Science ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/two_dimensions/Abundance_both_worlds.html)
-  * [Dive Into Life ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/dive_life/Perfect_imperfect_life.html)
-  * [The Phenomenon of Emotions](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/emotions/Dive_into_anger.html)
-  * [Start From Physical Body](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/physical_body/Allow_nature_flow.html)[  
-](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/main.html)[   
-](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/articles/main.html)
+  * [Man and Woman ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/man_and_woman/dive_into_love.html)
+  * [The Science of Awareness](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/science_awareness/Does_meditation_need_methods.html)
+  * [ The Power of Mind](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/power_mind/Mind_computer.html)
+  * [Find Yourself](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/find_yourself/Grass_greener.html)
+  * [Two-Dimensional Science ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/two_dimensions/Abundance_both_worlds.html)
+  * [Dive Into Life ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/dive_life/Perfect_imperfect_life.html)
+  * [The Phenomenon of Emotions](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/emotions/Dive_into_anger.html)
+  * [Start From Physical Body](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/physical_body/Allow_nature_flow.html)[  
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/main.html)[   
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/articles/main.html)
 
 
 
-Products & Services 
+Personal Success 
 
-  * [The Science of Success ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/Dimension_success/main.html)
-  * [Personal Success ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/365_personal/main.html)
-  * [Professional Success](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/365_professionals/main.html)
-  * [ Business Success ](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/365_business/main.html)
-  * [365 Celebrations](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/celebrations/main.html)
-  * [The Dancing Physicist System](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/system/main.html)
-  * [Order](https://web.archive.org/web/20120629061424id_/http%3A//www.365celebrations.com/products.html)
+  * [Become a Happy Personal Achiever](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/main.html)
+  * [Self-Awareness as the Foundation](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/self-awareness.html)  
+\- [action exercises ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/self-awareness_exercises.html)
+  * [Developing Personality](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/develop_personality.html)  
+\- [personal beliefs](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/personal_beliefs_values.html)  
+\- [set strategic goals](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/set_strategic_goals.html)  
+\- [develop positive attitude](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/Develop_positive_attitude.html)  
+\- [boost your creativity](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/boost_creativity_achieve_goals.html)  
+\- [build self-confidence](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/confidence_motivation.html)  
+\- [start acting ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/Act_achieve_goals.html)
+
+
+  * [Find Balance in Your Life ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Personal_Achiever/balance_life.html)
+
+
+
+Professional Success 
+
+  * [Become a Happy Professional Achiever](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/main.html)
+  * [The Power of Leadership  
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Power_leadership.html)\- [15 leadership roles](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Leadership_Management_Synergy.html)  
+\- [foundation of leadership](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Foundation_Leadership.html)  
+-[ 26 leadership-management lessons](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Leadership_Management_Lessons.html)
+  * [The Power of Knowledge  
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Build_cross-functional_excellence.html)\- [cross-functional learning](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Build_cross-functional_excellence.html)   
+\- [learn by doing ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Learn_by_doing.html)  
+\- [manage failures](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Manage_failures.html)   
+\- [become a strategic thinker](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Become_strategic_thinker.html)
+  * [Creative Problem Solving](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Unlock_your_creativity.html)  
+\- [unlock your creativity](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Unlock_your_creativity.html)   
+\- [power of 80/20 rule  
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Power_80-20_rule.html)-[ lateral thinking  
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Lateral_thinking.html)\- [thinking outside the box ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Thinking_outside_the_box.html)  
+-[perfect brainstorming ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Perfect_brainstorming.html)  
+\- [idea evaluation techniques](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Idea_Evaluation_Decision_Matrix.html)  
+\- [six thinking hats](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Six_Thinking_Hats.html)
+  * [The Power of People Skills  
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Power_people_skills.html)\- [rules for long-term relationships](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Power_people_skills.html)   
+\- [effective communication  
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Effective_communication.html)\- [face-to-face communication ](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Face_face_communication.html)  
+\- [learn body language  
+](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Learn_body_language.html)\- [effective speaking and presentation](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Lessons_effective_presentation.htm)
+  * [The Power of Intuition](https://web.archive.org/web/20121003033928id_/http%3A//www.365celebrations.com/Happy_Professional_Achiever/Power_intuition.html)
 
 
 
