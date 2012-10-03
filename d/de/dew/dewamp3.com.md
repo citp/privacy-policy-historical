@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dewamp3.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524092236id_/http%3A//dewamp3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewamp3.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003052123id_/http%3A//dewamp3.com/privacy-policy) for the most accurate reproduction.*
 
 # DewaMP3 - Privacy Policy
 
@@ -43,3 +43,7 @@ We automatically track and collect the following categories of information when 
 **Updates and Changes to Privacy Policy**
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site.
+
+### Trackback
+
+Powered by ArticleMS from ArticleTrader copyright act, Powered by PHPDug email account free, Powered by PHPDug system restore not working, Powered by PHPDug modification, Powered by JForum free radio advertising, Powered by JForum how to choose a graphics card, Powered by ArticleMS from ArticleTrader news in sacramento, Powered by ArticleMS from ArticleTrader google email account, 
