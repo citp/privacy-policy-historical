@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamiherald.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510071512id_/http%3A//www.miamiherald.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiherald.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003211004id_/http%3A//www.miamiherald.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | MiamiHerald.com
 
