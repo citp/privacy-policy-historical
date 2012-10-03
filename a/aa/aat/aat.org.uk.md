@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503044403id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003024310id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
 
 # AAT privacy policy | AAT
 
@@ -56,7 +56,7 @@ We may follow up some survey responses by phone or email, but only where you hav
 
 Like most websites, our server gathers limited information about you during a session, including the IP address and domain name from which you are accessing the server and your browser configuration. This information is only used to help us improve the content, design and performance of the site, and is not linked to the identity of any individual user.
 
-Our site uses cookies. Cookies are small pieces of information that are transferred to and stored by your browser on your computer.
+[Our site uses cookies.](https://web.archive.org/get-myaat/aat-cookie-policy) Cookies are small pieces of information that are transferred to and stored by your browser on your computer.
 
 In no circumstances do we collect any data that is not directly related to the use of the website (for example, we do not record other sites that you have visited).
 
