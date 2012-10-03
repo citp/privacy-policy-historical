@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitshare.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501070154id_/http%3A//bitshare.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitshare.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003025843id_/http%3A//bitshare.com/privacy-policy.html) for the most accurate reproduction.*
 
-# BitShare.com - Free File Sharing and Storage
+# BitShare.com - Free File Hosting and Cloud Storage
 
 BitShare takes your personal privacy seriously. We will not disclose any personal information about you without your prior approval.  
 In general, any information you provide to our team while contacting us will only be used within BitShare.
