@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620125439id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003155750id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy! Your privacy on this website
 
