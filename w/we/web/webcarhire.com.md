@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcarhire.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501131800id_/http%3A//www.webcarhire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcarhire.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003025158id_/http%3A//webcarhire.com/Content/documents/WebcarhirePrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Webcarhire : Privacy Policy
 
@@ -64,7 +64,7 @@ Most web browsers are set to accept cookies but you may change the settings of y
 Not accepting cookies may mean that you cannot receive the full benefits or services provided by our web site.
 
 **USE AND DISCLOSURE OF INFORMATION**  
-**WEBCARHIRE.COM** will not disclose your personal information or access your communications on our web site without your consent or unless,
+ **WEBCARHIRE.COM** will not disclose your personal information or access your communications on our web site without your consent or unless,
 
   * required by law  
 
