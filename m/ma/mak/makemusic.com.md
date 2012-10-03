@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makemusic.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203115517id_/http%3A//www.makemusic.com/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemusic.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003064646id_/http%3A//www.makemusic.com/Privacy_Statement.aspx) for the most accurate reproduction.*
 
-# MakeMusic, Inc. - Notation Software and Interactive Practice Tools for Musicians
+# Privacy Statement for MakeMusic, Inc.
 
   *  
 
@@ -12,7 +12,7 @@ MakeMusic, Inc. (the “Company”) has a strong commitment to protecting person
 
 This Privacy Statement applies to all Company websites, with homepages located at www.makemusic.com, www.smartmusic.com, and www.finalemusic.com, and all subsections under these homepages (the “Sites” or “Websites”). This Privacy Statement does not apply to information we gather by mail, telephone, or other off-line methods. 
 
-This Privacy Statement was last revised on September 9, 2011. We may change this Privacy Statement at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the Site. By using this Site or the SmartMusic software, you agree to the terms of this Privacy Statement. We did not make any substantive changes in our collection or use of personal information, but updated our policy to describe more completely our limited use of enrollment information, as defined below. If you have any questions about the changes please contact us by mail or phone as listed below. 
+This Privacy Statement was last revised on June 20, 2012. We may change this Privacy Statement at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the Site. By using this Site or our software including our SmartMusic, Garritan and Finale products, you agree to the terms of this Privacy Statement. We did not make any substantive changes in our collection or use of personal information, but updated our policy to describe more completely our limited use of enrollment information, as defined below. If you have any questions about the changes please contact us by mail or phone as listed below. 
 
 ### PROTECTING YOUR PRIVACY
 
@@ -80,7 +80,7 @@ In addition, if you are a parent/guardian and wish to review information submitt
 
 ### HOW DO YOU VIEW OR EDIT PERSONAL INFORMATION AND PREFERENCES?
 
-Go to My Account and login to view and/or update any personal information provided, such as mailing and billing addresses, e-mail addresses, or preferences. MakeMusic will never sell your name or e-mail address, but sometimes we send out information on related products. If you want to receive such offers, please adjust your Personal Information and Preferences by checking, “Yes, I’m also interested in music-related products and services.” Note we must be able to share your personal information with essential business partners, such as Visa or MasterCard, in order to provide you with services. If you do not wish to receive e-mail information (about new MakeMusic products and offers or technical updates) de-select the option “Yes, keep me informed of new MakeMusic product information, updates and special offers via e-mail”.
+Go to My Account and login to view and/or update any personal information provided, such as mailing and billing addresses, e-mail addresses, or preferences. MakeMusic will never sell your name or e-mail address, but sometimes we send out information on related products. If you want to receive such offers, please adjust your Personal Information and Preferences by checking, “Yes, I’m also interested in music-related products and services.” Note we must be able to share your personal information with essential business partners, such as Visa or MasterCard, in order to provide you with services. If you do not wish to receive e-mail information (about new MakeMusic products and offers) de-select the option “Yes, keep me informed of new MakeMusic product information, updates and special offers via e-mail”. MakeMusic may contact you for important policy or technical product updates.
 
 ### HOW TO CONTACT US?
 
