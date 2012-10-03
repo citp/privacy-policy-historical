@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcrumbs.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617040948id_/http%3A//www.bigcrumbs.com/crumbs/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcrumbs.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003025431id_/http%3A//www.bigcrumbs.com/crumbs/privacy.do) for the most accurate reproduction.*
 
 # Deals & Coupons - Earn Cash Back When You Shop.
 
@@ -71,7 +71,7 @@ There are many misconceptions about cookies. Cookies cannot "steal" your persona
 
 **How Do I Know If I Have Cookies Enabled?**
 
-For information on enabling cookies, please see [our help page](https://web.archive.org/web/20120617040948id_/http%3A//www.bigcrumbs.com/crumbs/help.do). 
+For information on enabling cookies, please see [our help page](https://web.archive.org/web/20121003025431id_/http%3A//www.bigcrumbs.com/crumbs/help.do). 
 
   
 
