@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esds.co.in privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324192244id_/http%3A//www.esds.co.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esds.co.in privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003202254id_/http%3A//www.esds.co.in/privacy_policy.php) for the most accurate reproduction.*
 
-# ESDS - Privacy Policy
+# ESDS Privacy Policy | Privacy Policies Of ESDS
 
 **Privacy Policy Statement**
 
