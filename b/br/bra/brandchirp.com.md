@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandchirp.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627071425id_/http%3A//www.brandchirp.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandchirp.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003025420id_/http%3A//www.brandchirp.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | BrandChirp | Twitter Marketing | Social Media Marketing
 
