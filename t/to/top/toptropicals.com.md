@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptropicals.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414135933id_/http%3A//toptropicals.com/html/toptropicals/sale/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptropicals.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003132255id_/http%3A//toptropicals.com/html/toptropicals/sale/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - TopTropicals.com
 
@@ -51,10 +51,4 @@ This policy was last modified on 09/28/2011
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://toptropicals.com  
-47770 Bermont Rd  
-Punta Gorda, FL 33982  
-Enail: info@toptropicals.com  
-941-575-6987
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20121003132255id_/http%3A//toptropicals.com/html/toptropicals/links/contact.htm).
