@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadplanet.net privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601001155id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadplanet.net privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032116id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
-# Our Privacy Policy - Shareme.com respects your right to privacy - Windows Shareware, Freeware, MP3, Games, DVD, Audio, Video Software
+# Our Privacy Policy - Shareme.com respects your right to privacy
 
 | [](http://shareme.com/) |   
 ---|---  
@@ -25,97 +25,97 @@
 
 ####  Top Downloads
 
-  * [XFreesoft DVD Ripper ](https://web.archive.org/details/xfreesoft-dvd-ripper.html)
+  * [Toshiba Drivers Update Utility ](https://web.archive.org/details/toshiba-drivers-update-utility.html)
 
-XFree DVD Ripper can convert DVD to any video...
+Toshiba Drivers Update Utility updates your...
 
-  * [iTake DVD Creator burner for Mac ](https://web.archive.org/details/itake-dvd-creator-burner-for-mac.html)
+  * [Word Reader ](https://web.archive.org/details/word-reader.html)
 
-Perfect for any video to DVD conversion and DVD...
+Word Reader is an easy-to-use Free Word...
 
-  * [iTake DVD Creator ](https://web.archive.org/details/itake-dvd-creator.html)
+  * [Video Capture Driver Split Cam ](https://web.archive.org/details/video-capture-driver-split-cam.html)
 
-iTake DVD Creator Burner is a powerful DVD...
+Video Capture Driver Split Cam Virtual Driver...
 
-  * [iTake DVD Ripper ](https://web.archive.org/details/itake-dvd-ripper.html)
+  * [NetQin Mobile Antivirus ](https://web.archive.org/details/netqin-mobile-antivirus.html)
 
-Remarkable with fantastic speed and quality,...
+NetQin Mobile Antivirus provides you complete...
 
-  * [MacVideo DVD Ripper ](https://web.archive.org/details/macvideo-dvd-ripper.html)
+  * [Smart Sketch ](https://web.archive.org/details/smart-sketch.html)
 
-Mac DVD Ripper can rip DVD to all popular video...
+Design environment specialized in professional...
 
-  * [XFreesoft DVD Creator for Mac ](https://web.archive.org/details/xfreesoft-dvd-creator-for-mac.html)
+  * [Bluetooth Drivers For Windows 7 Utility ](https://web.archive.org/details/bluetooth-drivers-for-windows-7-utility.html)
 
-XFreesoft DVD Creator for Mac is a super easy...
+Get official Bluetooth Drivers for your Windows...
 
-  * [MacVideo Video Converter ](https://web.archive.org/details/macvideo-video-converter.html)
+  * [Advanced ID Creator Personal ](https://web.archive.org/details/advanced-id-creator-personal.html)
 
-Mac Video Converter is a powerful yet...
+Create and print professional ID cards and...
 
-  * [XFreesoft DVD Ripper for Mac ](https://web.archive.org/details/xfreesoft-dvd-ripper-for-mac.html)
+  * [vdocapture network video server ](https://web.archive.org/details/vdocapture-network-video-server.html)
 
-If you are looking for DVD ripping software for...
+ip video server (client) that provides users...
 
-  * [MacVideo DVD Creator ](https://web.archive.org/details/macvideo-dvd-creator.html)
+  * [Avant Browser ](https://web.archive.org/details/avant-browser.html)
 
-MacVideo DVD Creator is professional DVD...
+Avant is a multi-processing browser featured...
 
-  * [iTake Video Converter ](https://web.archive.org/details/itake-video-converter.html)
+  * [AVG Anti-Virus Free Edition ](https://web.archive.org/details/avg-anti-virus-free-edition.html)
 
-iTake Video Converter is excellent video...
+Free anti-virus, easy to use, is residential...
 
 
 
 
 ####  New Downloads
 
-  * [TeeChart Pro VCL/FMX 2012](https://web.archive.org/details/teechart-pro-vcl-fmx.html)
+  * [Batch Files 5.0](https://web.archive.org/details/batch-files.html)
 
-100% VCL native Charting component library with...
+Replace, insert, delete, copy, move, format,...
 
-  * [dSHIFT Migrator for SharePoint 4.3.5.0](https://web.archive.org/details/dshift-migrator-for-sharepoint.html)
+  * [Apex PDF Split Merge 2.3.8.2](https://web.archive.org/details/apex-pdf-split-merge.html)
 
-Have you used dSHIFT Migrator for SharePoint...
+PDF split merge program organize mix up cut...
 
-  * [DWG to DXF Converter 201204 201204](https://web.archive.org/details/dwg-to-dxf-converter-201204.html)
+  * [Free Image OCR 6.3.4](https://web.archive.org/details/free-image-ocr.html)
 
-DWG to DXF Converter is a batch DWG and DXF...
+Free Image OCR allows the possibility to...
 
-  * [ID Card Creater 7.3.0.1](https://web.archive.org/details/id-card-creater.html)
+  * [BitRope Torrents 2.0.0](https://web.archive.org/details/bitrope-torrents.html)
 
-Professional design ID card creater software...
+BitRope Torrents is a brand new p2p file...
 
-  * [Corporate SMTP Server 5.23](https://web.archive.org/details/corporate-smtp-server.html)
+  * [SearchIt 1.2](https://web.archive.org/details/searchit.html)
 
-Corporate SMTP Server is outgoing SMTP server...
+SearchIt is free file search software which...
 
-  * [Word PDF Converter 5.83](https://web.archive.org/details/word-pdf-converter.html)
+  * [WinDataReflector Free 64 bit 1.1.2](https://web.archive.org/details/windatareflector-free-64-bit.html)
 
-Word PDF Converter is an easy-to-use and...
+WinDataReflector is a lightweight file...
 
-  * [Any DVD Cloner Platinum 1.1.7](https://web.archive.org/details/any-dvd-cloner-platinum.html)
+  * [PDF to Image Converter CMD for Linux 3.0](https://web.archive.org/details/pdf-to-image-converter-cmd-for-linux.html)
 
-Any DVD Cloner Platinum is an ultimate solution...
+With PDF to Image Converter Command Line for...
 
-  * [Sakina Privacy Protector 4.0.3](https://web.archive.org/details/sakina-privacy-protector.html)
+  * [Active@ Partition Recovery 7.1.2](https://web.archive.org/details/active--partition-recovery.html)
 
-Sakina Privacy Protector is an ideal program...
+Partition recovery software - Active@ Partition...
 
-  * [Ares Galaxy Turbo Booster 6.0.9](https://web.archive.org/details/ares-galaxy-turbo-booster.html)
+  * [Mask My IP 2.3.0.6](https://web.archive.org/details/mask-my-ip.html)
 
-Ares Galaxy Turbo Booster(AGTB) is a powerful...
+Mask My IP, a Free utility, hides your IP...
 
-  * [BearShare Premium P2P 6.0.8](https://web.archive.org/details/bearshare-premium-p2p.html)
+  * [AbelCam 4.2.8](https://web.archive.org/details/abelcam.html)
 
-Bearshare Premium P2P is a free peer to peer...
+Tilt/Pan/Zoom for Logitech Sphere, Creative...
 
 
 
 
 ####  Recent Searches
 
-[Advanced Id Creator Activation Key](https://web.archive.org/programs/advanced/id-creator-activation-key), [Coupon For Breakoutbras](https://web.archive.org/programs/coupon/for-breakoutbras), [Outlaw Bike..](https://web.archive.org/programs/outlaw/bike..), [Acer Windows Vista Home Basic Service Pack](https://web.archive.org/programs/acer/windows-vista-home-basic-service-pack), [Anonymous Socks Proxy List](https://web.archive.org/programs/anonymous/socks-proxy-list), [Advanced Html Tricks](https://web.archive.org/programs/advanced/html-tricks), [Acer Windows Vista Home Basic](https://web.archive.org/programs/acer/windows-vista-home-basic), [Advanced Flash Flip Book](https://web.archive.org/programs/advanced/flash-flip-book), [Advanced Html Calendar](https://web.archive.org/programs/advanced/html-calendar), [Iron Speed Designer Product Key](https://web.archive.org/programs/iron/speed-designer-product-key), [Acer Webcam Not Clear](https://web.archive.org/programs/acer/webcam-not-clear), [Igi Part1 Game Cheat](https://web.archive.org/programs/igi/part1-game-cheat), [Acer Travelmate 2490 Drivers](https://web.archive.org/programs/acer/travelmate-2490-drivers), [Advanced Find Replace Word 2007](https://web.archive.org/programs/advanced/find-replace-word-2007), [Turbocad Deluxe Tutorial For Mac](https://web.archive.org/programs/turbocad/deluxe-tutorial-for-mac)
+[Grasp Tech Xm 828 Driver](https://web.archive.org/programs/grasp/tech-xm-828-driver), [Easysoft Odbc Firebird Key](https://web.archive.org/programs/easysoft/odbc-firebird-key), [Motorola V3i File Manager](https://web.archive.org/programs/motorola/v3i-file-manager), [Norpath Elements Studio](https://web.archive.org/programs/norpath/elements-studio), [Arrl Periodicals Cd 2010](https://web.archive.org/programs/arrl/periodicals-cd-2010), [V Gear Mobidtv Pro Softwera](https://web.archive.org/programs/v/gear-mobidtv-pro-softwera), [Sagebrush Inn Taos Review](https://web.archive.org/programs/sagebrush/inn-taos-review), [Msi 108m Pci Adapter Wireless Pc60g F 108mbps](https://web.archive.org/programs/msi/108m-pci-adapter-wireless-pc60g-f-108mbps), [Windows Xp Restore Disk](https://web.archive.org/programs/windows/xp-restore-disk), [Manhattan Projects Scientists](https://web.archive.org/programs/manhattan/projects-scientists), [Navman My 50t](https://web.archive.org/programs/navman/my-50t), [Supertux Full Version Download](https://web.archive.org/programs/supertux/full-version-download), [Presenters Inc](https://web.archive.org/programs/presenters/inc), [Hp Deskjet Lnk Advantage K209 Printing](https://web.archive.org/programs/hp/deskjet-lnk-advantage-k209-printing), [Convert Corel Cdr](https://web.archive.org/programs/convert/corel-cdr)
 
   
 | 
@@ -132,10 +132,10 @@ Our site includes third-party advertising and links to other websites. We do not
 We use Google Adsense to support our site. Ads provided by Google AdSense, are targeted to be relevant to the content of the website and / or page they are on (ie they get the information from the website contents not the visitors themselves). Google Adsense uses cookies and web beacons to target and measure effectiveness of ads they serve on user pc. Here you can find [Google's Privacy](http://www.google.com/privacy.html) information.
 
 **Software Listing**  
-All the software programs published by shareme.com are provided by the third party software producers. Any questions complaints or claims related to the software should be directed to the appropriate Author or Company responsible for developing the software, not the staff working for shareme.com. All other trademarks are the sole property of their respective owners. The files and programs made available are indexed from servers all over the world. shareme.com makes no representations as to the content of such files and programs or that the files and programs are accurate, complete, virus-free or do not infringe the rights of any third party. If you found any software is in violation of any copyright or trademark, let us know and we will delete its listing from shareme.com site.
+All the software programs published by shareme.com are provided by the third party software producers. Any questions complaints or claims related to the software should be directed to the appropriate Author or Company responsible for developing the software. All other trademarks are the sole property of their respective owners. The files and programs made available are indexed from servers all over the world. If you found any software is in violation of any copyright or trademark, let us know and we will delete its listing from shareme.com site.
 
 **Disclaimer**  
-The files and programs made available are indexed from servers all over the world. shareme.com makes no representations as to the content of such files and programs or that the files and programs are accurate, complete, virus-free or do not infringe the rights of any third party. Each user is responsible to virus check any program downloaded from the site before installation. shareme.com is not responsible for any loss or damage resulting from users' downloading or use of any such programs or files.
+The files and programs made available are indexed from servers all over the world. Each user is responsible to virus check any program downloaded from the site before installation. shareme.com is not responsible for any loss or damage resulting from users' downloading or use of any such programs or files.
 
 **Links to Other Websites**  
 This site contains links to other sites. shareme.com is not responsible for the privacy practices or the content of such Web sites. We encourage you to read the privacy statements of other web sites before disclosing any personal information on another site. These other sites may independently collect data, solicit personal information, or send their own cookies to you. The Company is not responsible for any use of the information including click-stream data that you may create when using such third party web sites. You should carefully review the privacy policies of these third party web sites in order to determine how they treat your personal information. 
@@ -147,4 +147,4 @@ If you have any questions about this privacy statement, the practices of this si
   
 ---|---  
   
-Welcome to the ShareMe. Here you can free download windows shareware, freeware and demo versions of commercial software, games, mp3, dvd, audio, video programs. We do not share, host any crack, warez files either from mirrors or file hosting website rapidshare, depositfile, youtube. All software have posted by genuine software authors and we publish them, if you like it, buy the licensed full version or serial keys. Any questions, complaints or claims related to the software should be directed to the appropriate author or company responsible for developing the software, not the staff working for shareme.com 
+Welcome to the ShareMe. Shareme is a dedicated internet portal bringing users the latest shareware & freeware from the world's best Software Authors. Shareme allows Shareware & Freeware Authors to submit their latest wares, so you the user are able to download their latest software updates all the time, after they are released! Always visit Shareme for your software needs. 
