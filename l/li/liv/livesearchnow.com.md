@@ -1,100 +1,52 @@
-> *The following text is extracted and transformed from the livesearchnow.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesearchnow.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003234204id_/http%3A//www.livesearchnow.com/privacy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# livesearchnow.com
 
-**Go Daddy Respects Your Privacy**
+**livesearchnow.com EFFECTIVE DATE:** The most recent version of this Privacy Policy, as revised, is effective as of September 19, 2012.   
+This Privacy Policy applies to certain web sites that are owned and/or operated by or on behalf of livesearchnow.com, and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the "Web Site"). If you have arrived at this Privacy Policy by "clicking" on an authorized link from a Web Site, then this Privacy Policy applies to such Web Site, and the individual entity that owns and/or operates the particular Web Site from which you "clicked" to. This Privacy Policy via an authorized link shall be referred to herein as "Sponsor," "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information.   
+Please read this Privacy Policy carefully, as it acts as an official Terms of Use statement, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+ **Applicability**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Please note that this Privacy Policy only applies to Web Sites owned and/or operated by or for Sponsor, and upon which Sponsor has placed a "link" which, when "clicked", transfers you to this Privacy Policy. It is not applicable to the individual web sites owned, sponsored or operated by or for any independent television or radio stations affiliated with Sponsor. While on our Web Site, you may encounter links to these or other web sites or online material. If you "click" on a link to such a third party, the "click" takes you off our Web Site and to a third party's web site, which is beyond Sponsor's control. These other web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected by any other web site or offline by Sponsor (unless otherwise specifically stated or disclosed by Sponsor), its corporate affiliates, broadcast affiliates, licensees or any other company, and we encourage you to review the privacy policy of any other web site you visit.   
+In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in any chat rooms, message boards, or similar web pages. You should keep in mind that whenever you publicly disclose information about yourself online - for example, via message boards or chat rooms - that information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display IP addresses (as defined below) along with the message poster's name and message. Sponsor bears no responsibility for any action or policies of any third parties who collect any information users may disclose on the message boards, chat areas or other user forums, if any, on the Web Site.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Information Sponsor Collects**
 
-**Information Collection and Use**
+**Personally Identifiable Information:** Personally identifiable information is information that could reasonably be used to identify you personally (such as your name, address, birth date or e-mail address), which we refer to in this Privacy Policy as "PII." Generally, you may browse our Web Site without providing us with PII. However, there may be times when we ask you to provide us with certain PII, such as when you choose to register with our Web Site and/or for newsletters or choose to participate in an online contest, sweepstakes, survey or voting procedure. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. Sponsor reserves the right, at any time, to add features to our Web Site that require you to register or otherwise provide PII, including credit card information, or to require registration to access our Web Site. You can choose not to provide certain information, but then you may not be able to take advantage of or participate in some of the Web Site's features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. We may provide you the opportunity to e-mail a friend an article, electronic greeting card or other special feature from our Web Site. The e-mail addresses you supply us for those activities will be used to send the requested e-mail and will not be used to send you or your friend any other e-mail communications.  
+The Web Site does not knowingly collect PII from children under thirteen (13) years of age: This is not a web site directed to children under the age of 13, and Sponsor does not knowingly collect any information from children under 13 years of age at the Web Site. If you are under 13 years of age, do not send any information about yourself to Sponsor. If Sponsor discovers that a child under the age of 13 has provided the Web Site with PII, Sponsor will delete that child's PII from its system.  
+**  
+Anonymous Information:** When you visit the Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length and depth of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**IP Addresses:** An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our business partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster's name and message. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Cookies:** Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Sponsor's Use and Disclosure of Collected Information  
+Sponsor:**   
+Sponsor may use your PII to provide the information or content you have requested, to contact you or to fulfill prizes in connection with a contest or sweepstakes, to contact you about Sponsor programs, products, features or services, or for other purposes disclosed at the time of collection. We may also use your PII to contact you regarding your use of our Web Site or changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Web Site. If you e-mail someone else an article, electronic greeting card or other special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. Sponsor may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Third parties providing services on our behalf:**   
+Sponsor may employ other companies and individuals to perform functions on its behalf. Examples may include hosting the Web Site, sending communications on our behalf, hosting message boards or other user forums, analyzing data, providing marketing assistance, creating, hosting and/or running contests/sweepstakes/games and providing customer service. These third parties may have access to our users' PII in order to provide these services to us or on our behalf, but they are not permitted to use it for other purposes.  
+  
+**Other Third Parties:** Sponsor may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site, or how many men or women receive our newsletter. Sponsor does not rent, sell or otherwise disclose your PII to third parties unless disclosed to you at the time such information is collected or unless you otherwise give consent, other than in the following limited circumstances: 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+• Legal action. Sponsor may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. Sponsor may also disclose user information whenever we believe disclosure is necessary to limit our legal liability, to protect or defend our rights or property or protect the safety, rights or property of our users.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+• Corporate change. Sponsor may sell, transfer or otherwise disclose user information, including PII, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change respecting the Web Site.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Sponsor takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Sponsor cannot ensure or warrant the security of any information you transmit to Sponsor and you do so at your own risk. That said, all financial transactions completed through the Web Site use the most sophisticated e-commerce software and hardware livesearchnow.COM can provide, to ensure the utmost security for all users.
 
-**Updating Your Information**
+**Consent to Transfer**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+The Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Acceptance / Changes to Privacy Policy**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+By using the Web Site, you agree to the terms of this Privacy Policy. Sponsor reserves the right to modify, alter or otherwise update this Privacy Policy at any time in its sole discretion. We will post any changes here, so be sure to check back from time to time. However, we will only use the PII you provide to the Web Site in a manner consistent with this Privacy Policy, unless you give us your consent. 
 
-      iii.      You may call us at: (480) 505-8800
+**Contact Us**
 
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you "clicked" via an authorized link to arrive at this Privacy Policy.
