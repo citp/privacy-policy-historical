@@ -1,61 +1,87 @@
-> *The following text is extracted and transformed from the piyy.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429183118id_/http%3A//www.piyy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piyy.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032822id_/http%3A//www.piyy.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Piyy Directory
+# Privacy Policy
 
-[Top](https://web.archive.org/) » Privacy Policy
+Privacy Policy:
 
-**Information Collection and Use**
+What information do we collect?
 
-PIYY is the sole owner of the information collected on piyy.com We collect information from our users at several different points on our Web site.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-During the PIYY Submit service, we require information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
-**Information Use**
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-We store information that we collect through log files, and via the information provided during the PIYY Submit service, to create a profile of our users. A profile is stored information that we keep on individual users that details their characteristics. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the user experience. We DO NOT share your profile with other third parties.
+What do we use your information for? 
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Communications**
+\- To personalize your experience
 
-Established members will occasionally receive information on products, services, or special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+(your information helps us to better respond to your individual needs)
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications - these communications are not promotional in nature. 
+\- To improve our website
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user’s wishes.
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**Sharing**
+\- To improve customer service
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We share aggregated demographic information with our partners and advertisers. This information includes: page views, unique visitors, browsers, and additional broad demographical data. This is not linked to any personally identifiable information.
+\- To process transactions
 
-PIYY shares Web site usage information about users with reputable third party advertisers for the purpose of targeting our advertisements. Be advised that tough we make every effort to accept only reputable advertisers, that we cannot held responsible for the Privacy Policies of any advertiser, promotional link, sponsor, or other third party. Please make sure to check the individual Privacy Policy of any third party site that you visit.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**Instances in which PIYY Will Share Users' Personal Information**
+\- To send periodic emails
 
-We use an outside credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+The email address you provide for order processing will only be used to send you information and updates pertaining to your order.
 
-In the event PIYY goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+How do we protect your information? 
 
-**Links**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-This Web site contains links to other sites. Please be aware that we, PIYY, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+When placing an order, we offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-**Security**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+Do we use cookies? 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our financial department or a customer service representative) are granted access to personally identifiable information. Our employees are encouraged to use password-protected screen-savers when they leave their desk. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Our employees are reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage, in a locked facility.
+We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
 
-**Modifying Personal Information**
+Do we disclose any information to outside parties? 
 
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct or update users’ personally identifiable information.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Notice of Change**
+Third party links 
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+Childrens Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+Online Privacy Policy Only 
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions 
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://piyy.com/tos.html>
+
+Your Consent 
+
+By using our site, you consent to our web site privacy policy.
+
+Changes to our Privacy Policy 
+
+If we change our privacy policy, we will post those changes on this page. 
+
+Contacting Us 
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
