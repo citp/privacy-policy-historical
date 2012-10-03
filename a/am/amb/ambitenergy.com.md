@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambitenergy.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501174124id_/http%3A//ww2.ambitenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambitenergy.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032702id_/http%3A//ww2.ambitenergy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Ambit Energy
 
@@ -8,7 +8,7 @@ We understand the importance of safeguarding your personal information. At Ambit
 
 We only collect personal information for specific purposes, including providing you with retail energy service. We will not sell or make your personal information available to unaffiliated companies for commercial purposes unrelated to the business of Ambit Energy. However, we may use this information to inform you about goods or services that may interest you. 
 
-Ambit Energy will not disclose any information about you to unaffiliated companies or organizations without your consent, except as disclosed to you in this Policy, unless: (a) we are required to do so by law; (b) we believe it necessary to respond to an inquiry or provide you with a requested service; (c) It is necessary to make good on the Terms of Service Agreement we have entered into with you; or (d) to protect the rights, property or personal safety of any other person, including another Ambit Energy customer or any member of the public.
+Ambit Energy will not disclose any information about you to unaffiliated companies or organizations without your consent, except as disclosed to you in this Policy, unless: (a) we are required to do so by law; (b) we believe it necessary to respond to an inquiry or provide you with a requested service; (c) It is necessary to make good on the Terms of Service Agreement we have entered into with you; or (d) to protect the rights, property or personal safety of any other person, including another Ambit Energy Customer or any member of the public.
 
 Ambit Energy and its affiliates recognize that by utilizing our website, you are placing trust in us. We thank you, and we will take precautions to protect your information. In order to operate our Website and deliver retail electric service, we may share your personal information with a service partner under strict conditions. We will not otherwise disclose your personal information to other companies without your explicit consent.
 
@@ -36,11 +36,11 @@ When and if Ambit Energy requests an email address from you, you will be given t
 
 This website is owned and operated by Ambit Energy. This Privacy Policy has been established to provide you with assurance concerning your personal information, and to explain our policy concerning the protection and use of your information. 
 
-If you have questions about this Policy, please contact us at (877) 282-6248, Monday through Friday, 8:00 a.m. – 6:00 p.m. CT, Saturday, 10:00 a.m. – 5:00 p.m. CT, or write to us at: 
+If you have questions about this Policy, please contact us at (877) 282-6248, Monday through Friday, 8:00 a.m. – 6:00 p.m., Saturday, 10:00 a.m. – 5:00 p.m. CT, or write to us at: 
 
 **Ambit Energy**  
 P.O. Box 864589  
 Plano, TX 75086  
 Attn: Compliance Department
 
-If you would like to know what information Ambit retains or if you wish to have Ambit change your information because it is out of date or inaccurate, please contact us at (877) 282-6248, Monday through Friday, 8:00 a.m. – 6:00 p.m. CT, Saturday, 10:00 a.m. – 5:00 p.m. CT, and we will modify your records accordingly.
+If you would like to know what information Ambit retains or if you wish to have Ambit change your information because it is out of date or inaccurate, please contact us at (877) 282-6248, Monday through Friday, 8:00 a.m. – 6:00 p.m., Saturday, 10:00 a.m. – 5:00 p.m. CT, and we will modify your records accordingly.
