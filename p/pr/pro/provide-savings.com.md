@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the provide-savings.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501103500id_/http%3A//provide-savings.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provide-savings.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004101054id_/http%3A//provide-savings.com/content/privacy) for the most accurate reproduction.*
 
 # Fast, Free Auto Insurance Quotes
 
-Get Auto Insurance Quotes
+Get Auto Insurance Quotes 
 
 ## Privacy Policy
 
@@ -12,13 +12,13 @@ Effective date September 15, 2011
 
 provide-savings.com (herein referred to as "we", "us" or "our") is committed ensuring the privacy and security of each user that visits our website. We adhere to the Online Business Code Practices of the Better Business Bureau Online Reliability Program. This privacy statement covers our website provide-savings.com. We consider your privacy a very important issue, so we design and operate our services with the protection of your privacy as a primary concern. This privacy policy outlines the types of personal information we gather when you use our services, as well as efforts we make to safeguard it. 
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.provide-insurance.com/seal_s "Validate TRUSTe privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/AdHarmonics/validation?rid=701a86bf-5c76-408a-b0ac-67082408b710 "TRUSTe online privacy certification")
 
-provide-savings.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at compliance@adharmonics.com. If you are not satisfied with our response you can contact TRUSTe [here](http://preferences.truste.com/). The TRUSTe program covers information collected on this Web site. 
+provide-savings.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at compliance@adharmonics.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers information collected on this Web site. 
 
 ### Contact Information
 
-If you have any questions or concerns regarding this policy, you should first send an email to compliance@adharmonics.com. You can also contact us via regular mail at: provide-savings.com , PO Box 425768, Cambridge, MA. 
+If you have any questions or concerns regarding this policy, you should first send an email to compliance@adharmonics.com. You can also contact us via regular mail at: provide-savings.com, 955 Massachusetts Ave. #323, Cambridge, MA 02139. If you would prefer to contact us via phone, please call 617-466-9231. 
 
 ### Personally Identifiable Information
 
@@ -60,7 +60,7 @@ We reserve the right to disclose your PII as required by law and when we believe
 
 ### Access
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by emailing our Customer Support at compliance@adharmonics.com or by contacting us by postal mail at provide-savings.com , PO Box 425768, Cambridge, MA. 
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by emailing our Customer Support at compliance@adharmonics.com or by contacting us by postal mail at provide-savings.com , 955 Massachusetts Ave. #323, Cambridge, MA 02139. 
 
 ### Data Rentention
 
