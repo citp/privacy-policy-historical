@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calistyle101.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618154547id_/http%3A//calistyle101.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calistyle101.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004210146id_/http%3A//calistyle101.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome
 
