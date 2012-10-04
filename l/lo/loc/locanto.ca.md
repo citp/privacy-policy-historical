@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locanto.ca privacy policy that was archived on 2012-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120228224355id_/http%3A//www.locanto.ca/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locanto.ca privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004225646id_/http%3A//www.locanto.ca/info/privacy) for the most accurate reproduction.*
 
 # Locanto Info pages
 
@@ -39,3 +39,17 @@ Your privacy is important to us, so Locanto has created this Privacy Policy to e
 **Security.** We use many tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure. We can't however guarantee the continuous functionality and liability of these tools at all times. 
 
 **General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to Sorry, you need JavaScript ON to see the email address (spam protection). . 
+
+  
+
+
+## Locanto Connect (Facebook App) Privacy Policy
+
+We collect information when you register to join Locanto by logging into an account that you already have with Facebook. Locanto allows you to create an account and login to Locanto using your Facebook account credentials through Facebook Connect. If you are not currently registered for an account on Locanto and you click on “Sign in Using Facebook,” you will first be asked to enter your Facebook credentials and then be given the option to register for an account on Locanto. We do not access your personal information shared publicly on Facebook other than your email address and your birth date for age verification. 
+
+  
+
+
+  * Copyright © 2012 Locanto™
+
+
