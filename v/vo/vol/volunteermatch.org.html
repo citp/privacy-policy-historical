@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the volunteermatch.org privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523170312id_/https%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the volunteermatch.org privacy policy that was archived on 2012-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004194224id_/https%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
@@ -59,16 +59,17 @@
     <!-- Start CSS Block -->
 
 <!-- CSS Refs -->
-<link type="text/css" rel="stylesheet" media="screen" href="/include/js/build/build_974668386.1330718734000.css">
+<link type="text/css" rel="stylesheet" media="screen" href="/include/js/build/build_974668386.1348511123000.css">
 
 <!-- End CSS Block -->
 
     <script type="text/javascript" language="javascript" src="/include/js/modernizr.custom.23623.js"></script>
     <!-- Start Javascript Header -->
 
-<script type="text/javascript" language="javascript" src="/include/js/build/build_1587100091.1337366924000.js"></script>
+<script type="text/javascript" language="javascript" src="/include/js/build/build_1929385204.1337366924000.js"></script>
 <script type="text/javascript" language="javascript" src="/include/js/lib/jquery.thickbox-compressed.js"></script>
 <script type="text/javascript" language="javascript" src="/include/js/lib/jquery.watermark.js"></script>
+<script type="text/javascript" language="javascript" src="/include/js/lib/jquery.validate.min.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 
@@ -283,8 +284,8 @@
   
     <div id="global">
       <ul>
-        <li> <a href="#" onclick="getFlow('loginContainer','loginPanel').doAction('load','login');">Sign In</a></li>
-        <li><a href="#" onclick="getFlow('loginContainer','loginPanel').doAction('load','register');">Register</a></li>
+        <li> <a id="global_login_link" href="#" onclick="getFlow('loginContainer','loginPanel').doAction('load','login');">Sign In</a></li>
+        <li><a href="#" id="global_register_link" onclick="getFlow('loginContainer','loginPanel').doAction('load','register');">Register</a></li>
         
           <li>
             <a href="#" id="facebook_connect_link" onclick="doFacebookLoginOAuth('loginPanel'); return false;"><img src="/images/facebook/login.png"></a>
@@ -314,6 +315,7 @@
             <div id="secondary">
             	<ul>
                 <li><a href="/corporations/">Corporations</a></li>
+                <li><a href="http://learn.volunteermatch.org">Learning Center</a></li>
                 <li><a href="/community/">Blogs</a></li>
               </ul>
             </div><!-- end secondary -->
@@ -361,35 +363,6 @@
   
   
   <div id="content">
-    
-
-
-
-
-
-
-
-
-
-
-<!-- Since this tag is included in pub_header, we need to use a standard script element vs. vm:script -->
-<script type="text/javascript">
-  if (typeof jQuery != 'undefined') {
-    $(document).ready(function() {
-      $('.vm-closealert').click(function() {
-        var p = $(this).parents('.vm-sitealert');
-        var alert_id = p.attr("alert_id");
-        p.hide();
-        var date = new Date();
-        date.setTime(date.getTime()+(365*24*60*60*1000));
-        document.cookie = "alert" + alert_id + "=false; path=/; expires="+date.toGMTString();
-      });
-    });
-  }
-</script>
-
-
-
 
   <div id="subcolumnmain">
 
@@ -664,6 +637,7 @@ Effective Date: May 31, 2008
       
 
 
+
     <div id="global_footer">
       <div id="sociallinks">
         <a title="Twitter" target="new" href="http://twitter.com/VolunteerMatch">
@@ -692,7 +666,7 @@ Effective Date: May 31, 2008
         <li><a href="http://blogs.volunteermatch.org/volunteeringiscsr/" target="_blank" title="Corporate Blog">Corporate Blog</a> |</li>
         <li><a href="/post/register/np/org_check.jsp" title="Nonprofit Registration">Nonprofit Registration</a> |</li>
         <li><a href="http://blogs.volunteermatch.org/engagingvolunteers/" title="Nonprofit Blog">Nonprofit Blog</a> |</li> 
-        <li><a href="/nonprofits/learningcenter/" title="Learning Center">Learning Center</a></li>
+        <li><a href="http://learn.volunteermatch.org" title="Learning Center">Learning Center</a></li>
       </ul>
       <p>© <a href="/legal/" title="Legal">1998-2012 VolunteerMatch</a>. All Rights Reserved. <a href="/legal/privacy.jsp" title="Privacy Policy">Privacy Policy</a>, <a href="/legal/terms.jsp" title="Terms of Use">Terms of Use</a>
     </p></div><!-- end global_footer -->
@@ -757,7 +731,7 @@ Effective Date: May 31, 2008
           <li><a href="http://blogs.volunteermatch.org/volunteeringiscsr/">Volunteering is CSR Blog</a></li>
           <li><a href="https://www.volunteermatch.org/post/register/np/org_check.jsp">Nonprofit Registration</a></li>
           <li><a href="http://blogs.volunteermatch.org/engagingvolunteers/">Engaging Volunteers Blog</a></li>
-          <li><a href="/nonprofits/learningcenter/">Learning Center</a></li>
+          <li><a href="http://learn.volunteermatch.org">Learning Center</a></li>
         </ul>
     </div><!-- end col2 -->
     <div class="col3">
@@ -910,28 +884,28 @@ Effective Date: May 31, 2008
 						  <ul>
 				  	
           <li>
-            <h3><a href="/search?l=USA&amp;k=Animals">Animals</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Animals">Animals</a></h3>
             
           </li>
 					
         
 						
           <li>
-            <h3><a href="/search?l=USA&amp;k=Children">Children</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Children">Children</a></h3>
             
           </li>
 					
         
 						
           <li>
-            <h3><a href="/search?l=USA&amp;k=Community">Community</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Community">Community</a></h3>
             
           </li>
 					
         
 						
           <li>
-            <h3><a href="/search?l=USA&amp;k=Education">Education</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Education">Education</a></h3>
             
           </li>
 					
@@ -944,28 +918,28 @@ Effective Date: May 31, 2008
 						  <ul>
 				  	
           <li>
-            <h3><a href="/search?l=USA&amp;k=Environment">Environment</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Environment">Environment</a></h3>
             
           </li>
 					
         
 						
           <li>
-            <h3><a href="/search?l=USA&amp;k=Health">Health</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Health">Health</a></h3>
             
           </li>
 					
         
 						
           <li>
-            <h3><a href="/search?l=USA&amp;k=Mentor">Mentor</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Mentor">Mentor</a></h3>
             
           </li>
 					
         
 						
           <li>
-            <h3><a href="/search?l=USA&amp;k=Homeless">Homeless</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Homeless">Homeless</a></h3>
             
           </li>
 					
@@ -978,14 +952,14 @@ Effective Date: May 31, 2008
 						  <ul>
 				  	
           <li>
-            <h3><a href="/search?l=USA&amp;k=Women">Women</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Women">Women</a></h3>
             
           </li>
 					
         
 						
           <li>
-            <h3><a href="/search?l=USA&amp;k=Virtual">Virtual</a></h3>
+            <h3><a href="/search?l=United+States&amp;k=Virtual">Virtual</a></h3>
             
           </li>
 					
@@ -1076,8 +1050,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
   
 
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/34/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","2710c860b4",114360,"bwQAZxFQW0IHUBFQDlZOKGAzHllUAVIJFhFKCBRSAEgbWxVD",0,408,new Date().getTime()])</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","2710c860b4",114360,"bwQAZxFQW0IHUBFQDlZOKGAzHllUAVIJFhFKCBRSAEgbWxVD",0,12,new Date().getTime()])</script>
 
 
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/34/eum/rum.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
