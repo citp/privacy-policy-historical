@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ntnews.com.au privacy policy that was archived on 2012-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614084103id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ntnews.com.au privacy policy that was archived on 2012-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004155818id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title> Statement regarding privacy policy | NT News | Darwin, Northern Territory, Australia | ntnews.com.au</title>
@@ -129,7 +129,7 @@ name = "ntnews | Legal | index | Privacy Policy";
     <li class="n1"><a title="Classifieds" href="http://nt.newsclassifieds.com.au/">CLASSIFIEDS</a>
       <ul>
         <li><a href="/classifieds/">Place a Classified Ad</a></li>
-        <li><a href="https://placemyad.com.au/placeAd?deal=NTGBSC00310">Free Flea Market</a></li>
+        <li><a href="/fleamarket/">Free Flea Market</a></li>
         <li><a href="http://nt.newsclassifieds.com.au/">Browse &amp; Search</a></li>
         <li><a href="https://www.placemyad.com.au/shopper/doSelectReach?state=NT">Place a For Sale Ad</a></li>
         <li><a href="https://www.placemyad.com.au/employment/publicationSelection?publicationCode=NT">Place a Job Ad</a></li>
@@ -502,16 +502,23 @@ jQuery(document).ready(function() {
 <div class="module kit kit-footer"><script type="text/javascript">ndm.kit.footer();</script></div><!-- // .module kit -->
 <div class="module kit kit-footer"><script type="text/javascript">ndm.kit.footer();</script></div><!-- // .module kit -->
 
-<!-- START TRAKTR -->
-<script src="/scripts/track-footer.js" type="text/javascript"></script><script src="//web.archive.org/web/20101009083431/http://traktr.news.com.au/esi/traktr.js?cfg=basic:on,site:ntn,section:news.information,plugins:,release:latest.js"></script>
-<script src="/scripts/track-call.js" type="text/javascript"></script>
-<noscript>
-<div>
-<img src="//pt200194.unica.com/ntpagetag.gif?js=0&amp;sitename=ntn" height="1" width="1" alt="" />
-<img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=newscorp&amp;cg=0" alt="" />
-</div>
-</noscript>
-<!-- END TRAKTR -->
+<!-- START Tealium -->
+<script type="text/javascript">
+  var sections = section.split(".");
+  utag_data = window.utag_data || {};
+  utag_data.pn = name;
+  if (sections[0])
+    utag_data.section = sections[0];
+  if (sections[1])
+    utag_data.subsection = sections[1];
+  if (sections[2])
+    utag_data.subsubsection = sections[2];
+  if (sections[3])
+    utag_data.subsubsubsection = sections[3];
+  utag_data.contyp = (utag_data.contyp ? utag_data.contyp + "+" : "") + type;
+</script>
+<script type="text/javascript" src="//tealium.hs.llnwd.net/o43/utag/newsltd/ntn/prod/utag.js"></script>
+<!-- END Tealium -->
 
 <!-- START GOOGLE ANALYTICS -->
 <script type="text/javascript">
