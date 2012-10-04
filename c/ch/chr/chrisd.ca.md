@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrisd.ca privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511023213id_/http%3A//www.chrisd.ca/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrisd.ca privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004021915id_/http%3A//www.chrisd.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChrisD.ca
 
@@ -23,7 +23,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting us at [http://www.chrisd.ca/blog/contact/](http://www.chrisd.ca/blog/contact).
+If you do not want to receive e-mail from us in the future, please let us know by visiting us at [http://www.chrisd.ca/contact/](http://www.chrisd.ca/contact).
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: http://www.google.com/privacy.htm
 
