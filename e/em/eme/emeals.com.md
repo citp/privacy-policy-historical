@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeals.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508123056id_/http%3A//emeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeals.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004180556id_/http%3A//emeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | eMeals - a meal planning resource for busy moms and frugal family cooks.
 
