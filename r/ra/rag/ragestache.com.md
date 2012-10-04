@@ -1,79 +1,66 @@
-> *The following text is extracted and transformed from the ragestache.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531150754id_/http%3A//www.ragestache.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragestache.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004051651id_/http%3A//www.ragestache.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Ragestache
+# Privacy Policy - Rage Comics - Ragestache
 
-PRIVACY POLICY
+Your privacy is important to Spartz Media. This privacy statement provides information about the personal information Spartz Media collects, and the ways in which Spartz Media uses that personal information. 
 
-(Including Children’s Online Privacy Policy)
+### Personal information collection
 
-Last revised on February 16, 2010
+The types of personal information Spartz Media collects are: 
 
-What information do we collect?
+  * Information about your use of this website
+  * Information that you provide for the purposes of registering for this website
+  * Information about transactions carried out over this website
+  * Information you provide for the purpose of subscribing to the website services
+  * Any other information that you send Spartz Media
 
-We collect information from you when you register on our site.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-What do we use your information for?
+### Using Personal Information
 
-Any of the information we collect from you may be used in one of the following ways:
+Spartz Media may use your personal information to: 
 
-• To personalize your experience
+  * Administer this website
+  * Personalize this website for you
+  * Enable your access to and use of the website services
+  * Publish information about you on the website
+  * Send you products that you purchase
+  * Send you statements and invoices
+  * Collect payments from you and
+  * Send you marketing communications
 
-(your information helps us to better respond to your individual needs)
 
-• To improve our website
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Where Spartz Media discloses your personal information to its agents or sub-contractors, for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Spartz Media may disclose your personal information to the extent that is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
 
-• To improve customer service
+### Securing your Data
 
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Spartz Media will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. Spartz Media will store all the information you provide (on its secure servers). [Information relating to electronic transfers entered into via this website will be protected via encrypted technology.] 
 
-• To administer a contest, promotion, survey or other site feature
+### Cross-border Data Transfers
 
-• To send periodic emails
+Information that Spartz Media collects may be stored and processed in and transferred between any of the countries in which Spartz Media operates to enable the use of information in accordance with this privacy policy. [In addition, personal information that you submit for publication on this website will be published on the internet and may be available around the world.] You agree to such cross-border transfers of personal information. 
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+### Using Cookies
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit http://http://www.networkadvertising.org and http://www.networkadvertising.org/managing/opt_out.asp 
 
-How do we protect your information?
+### Consent
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
+By using our site, you consent to our website's privacy policy. 
 
-Do we use cookies?
+### Updating this Statement
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Spartz Media may update this privacy policy by posting a new version on this website. You should check the page periodically to ensure you are familiar with any changes. 
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+### Other Websites
 
-Do we disclose any information to outside parties?
+This website contains links to other websites. Spartz Media is not responsible for the privacy policies or practices of any third party. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### Children's Online Privacy Protection Act Compliance
 
-Third party links
+We do not provide services directed to children or otherwise target our site to children, and we do not collect personal information from children under the age of 13. No content that depicts, describes, identifies or otherwise relates to an individual under the age of 13 may be submitted to us, and no such content or other information relating to an individual under the age of 13 will be knowingly solicited or received by us. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+### Contact
 
-Children’s Online Privacy Protection Act Compliance
-
-We do not provide services directed to children or otherwise target our site to children, and we do not collect personal information from children under the age of 18.
-
-No content that depicts, describes, identifies or otherwise relates to an individual under the age of 13 may be submitted to us, and no such content or other information relating to an individual under the age of 13 will be knowingly solicited or received by us.
-
-Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-Your Consent
-
-By using our site, you consent to our website's privacy policy.
-
-Notification of Changes to our Privacy Policy
-
-If we change our Privacy Policy, we will notify users by posting those changes on the site. You are responsible for revisiting and reviewing our Privacy Policy as posted at the site to determine if any changes have been made. As noted above, this Privacy Policy was last revised on February 16, 2010.
-
-Contacting Us
-
-If there are any questions regarding this Privacy Policy, or if you wish to change or delete any information previously provided by you or collected from you, you may contact us at ragestache@gmail.com
+If there are any questions regarding this Privacy Policy, or if you wish to change or delete any information previously provided by you or collected from you, you may contact us at: [info@spartzmedia.com](mailto:info@spartzmedia.com) or by calling 312.880.7207. 
