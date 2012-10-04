@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aemelectronics.com privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516052237id_/http%3A//www.aemelectronics.com/viewpage/privacy-policy-6) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aemelectronics.com privacy policy that was archived on 2012-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004065348id_/http%3A//www.aemelectronics.com/viewpage/privacy-policy-6%3FCDpath%3D0) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="LTR" lang="en"><head>
 <base href="http://www.aemelectronics.com/">
@@ -166,15 +166,18 @@ var mygallery=new fadeSlideShow({
 	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
 	dimensions: [580, 250], //width/height of gallery in pixels. Should reflect dimensions of largest image
 	imagearray: [
+		["/slideshow_pics/Infinity.jpg", "http://www.aemelectronics.com/engine-management-systems-9/infinity-stand-alone-programmable-engine-management-system-90/", "", "Infinity Stand-Alone Programmable Engine Management System"],
+		["/slideshow_pics/Fuel_Pump_Homepage.jpg", "http://www.aemelectronics.com/high-flow-in-tank-fuel-pump-101/", "", "High Flow In-Tank Fuel Pump - 320LPH@43psi"],
 		["/slideshow_pics/Wideband_Failsafe.jpg", "http://www.aemelectronics.com/wideband-air-fuel-systems-15/wideband-failsafe-gauge-84/", "", "Wideband Failsafe Gauge. Save Engine if it Runs Lean. Wideband Air/Fuel and Boost in One Gauge!"],
 		["/slideshow_pics/Aasbo.jpg", "", "Papadakis Racing: Fredric Aasbo"],
 		["/slideshow_pics/50-State_Water.jpg", "http://www.aemelectronics.com/water-methanol-injection-kits-23/50-state-legal-water-injection-for-turbo-diesel-engines-82/", "", "First ever 50-State legal Water Injection for turbo diesels! Lower your EGTs on the road."],
-		["/slideshow_pics/Rhys.jpg", "", "Rhys Millen Racing: Pikes Peak"],		
+		["/slideshow_pics/Infinity.jpg", "http://www.aemelectronics.com/engine-management-systems-9/infinity-stand-alone-programmable-engine-management-system-90/", "", "Infinity Stand-Alone Programmable Engine Management System"],
+		["/slideshow_pics/Rhys_2012.jpg", "", "Rhys Millen Racing: 2012 Pikes Peak NEW World Record 9:46.164"],		
 		["/slideshow_pics/Dyno-Shaft_Homepage.jpg", "http://www.aemelectronics.com/dyno-shaft-on-vehicle-dyno-73/", "", "Dyno-Shaft On-Vehicle Dynamometer"],	
-		["/slideshow_pics/AEMdata_Homepage.jpg", "http://www.aemelectronics.com/data-loggers-66/aemdata-data-analysis-software-81/", "AEMdata Data Analysis Software"],
-		["/slideshow_pics/Corey.jpg", "", "Corey Sisler Racing: Corey Sisler"],
+		["/slideshow_pics/Douglas.jpg", "", "Douglas Motorsports: Scott Douglas"],
 		["/slideshow_pics/AQ-1_Homepage.jpg", "http://www.aemelectronics.com/data-loggers-66/aq-1-data-logger-67/", "", "AQ-1 Data Logger"],		
 		["/slideshow_pics/Adams.jpg", "", "Adams Performance"],
+		["/slideshow_pics/Infinity.jpg", "http://www.aemelectronics.com/engine-management-systems-9/infinity-stand-alone-programmable-engine-management-system-90/", "", "Infinity Stand-Alone Programmable Engine Management System"],
 		["/slideshow_pics/2.jpg", "/engine-management-systems-9/series-2-plug-play-engine-management-system-30/", "", "Plug & Play Stand Alone Engine Management - AEM Series 2 EMS."],
 		["/slideshow_pics/10.jpg", "/motorsports/", "target=_blank", "Check out our blog for race coverage!"]//<--no trailing comma after very last image element!
 		],
@@ -190,8 +193,18 @@ var mygallery=new fadeSlideShow({
 
 </script>
 
+<!-- Start Overlay Header -->
+<link rel="stylesheet" href="aemstyle.css" type="text/css">
+<style id="activeTabStyles"></style>
+<style type="text/css">
+  a:active, a:focus {
+   outline: none;
+   ie-dummy: expression(this.hideFocus=true);
+  }
+</style>
+<!-- End Overlay Header-->
 
-  </head>
+</head>
 <body><!-- warnings //-->
 <!-- warning_eof //-->
 
@@ -200,7 +213,38 @@ var mygallery=new fadeSlideShow({
       <tbody><tr><td background="images/bg-1.jpg">
         <table bordercolor="e6e6e6" cellspacing="0" cellpadding="0" border="0" width="778" align="center" bgcolor="FFFFFF">
           <tbody><tr><td bordercolor="e6e6e6">
-            <table border="0" width="100%"><tbody><tr><td>
+            <div class="xModalWrapper" id="xModalWrapper">
+		<div class="xModal" id="xModal">
+			<div class="xModalContent" id="xModalContent">
+				<div class="xModalHeader">
+					<h3>Infinity Programmable EMS</h3>
+					<span class="close action-hideXModal">Close</span>
+				</div>
+				<div class="xModalMain">					
+					<!-- X Slider Content -->
+					<div id="xSlider" class="xSlider">
+						<div id="mainNavigation" class="mainNavigation">
+							<h3><span>AEM</span></h3>
+							<ol id="mainNavigationMenu"></ol>
+						</div>
+						<div id="mainContent" class="mainContent"></div>
+						<div id="subNavigation" class="subNavigation">
+							<div class="pagination" id="pagination"></div>
+							<div class="scrollButton scrollLeftButton" id="scrollButtonLeft"><span></span></div>
+							<div class="scroller" id="scroller">
+								<div class="scrollContent" id="scrollContent">
+									<ul id="subNavigationMenu"></ul>
+								</div>
+							</div>
+							<div class="scrollButton scrollRightButton" id="scrollButtonRight"><span></span></div>
+						</div>	
+					</div>
+					<!-- End X Slider Content -->					
+				</div>
+				<div class="xModalFooter"></div>
+			</div>
+		</div>
+	</div><div class="xModalOverlay" id="xModalOverlay"></div><table border="0" width="100%"><tbody><tr><td>
 <table border="0" width="778" cellspacing="0" cellpadding="0">
   <tbody><tr>
   	<td background="/images/header.jpg" height="53">
@@ -247,7 +291,7 @@ var mygallery=new fadeSlideShow({
 <!--    
 <table width="100%" class="headerBreadCrumb">
  	<tr>
- 		<td align="left" class="headerBreadCrumb">&nbsp;&nbsp;<a href="http://www.aemelectronics.com" class="headerNavigation">Top</a> &raquo; <a href="http://www.aemelectronics.com/viewpage/" class="headerNavigation">CDS</a> &raquo; <a href="http://www.aemelectronics.com/viewpage/privacy-policy-6" class="headerNavigation">Privacy Policy</a></td>
+ 		<td align="left" class="headerBreadCrumb">&nbsp;&nbsp;<a href="http://www.aemelectronics.com" class="headerNavigation">Top</a> &raquo; <a href="http://www.aemelectronics.com/viewpage/" class="headerNavigation">CDS</a> &raquo; <a href="http://www.aemelectronics.com/viewpage/privacy-policy-6?CDpath=" class="headerNavigation">Privacy Policy</a></td>
     </tr> 
   </table>
 //-->
@@ -256,6 +300,13 @@ var mygallery=new fadeSlideShow({
 
 <!-- header_eof //-->
 <!-- header_eof //-->
+
+<!-- Start Overlay -->
+	<!-- X Modal Content -->
+	
+	
+<!-- End Overlay -->
+
 <!-- body //-->
 </tr></tbody></table><table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -444,7 +495,7 @@ var mygallery=new fadeSlideShow({
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
   </tr>
   <tr>
-    <td align="left" class="boxText"><hr><a href="http://www.aemelectronics.com/whats-new-77/"><b>Whats New</b></a><br><hr><a href="http://www.aemelectronics.com/career-opportunities-87/"><b>Career Opportunities</b></a><br><hr><a href="http://www.aemelectronics.com/engine-management-9/"><b>Engine Management Systems</b></a><br><hr><a href="http://www.aemelectronics.com/wideband-air-fuel-systems-15/"><b>Wideband Air / Fuel Systems</b></a><br><hr><a href="http://www.aemelectronics.com/water-methanol-injection-kits-23/"><b>Water / Methanol Injection Kits</b></a><br><hr><a href="http://www.aemelectronics.com/gauges-26/"><b>Gauges</b></a><br><hr><a href="http://www.aemelectronics.com/data-loggers-66/"><b>Data Loggers</b></a><br><hr><a href="http://www.aemelectronics.com/dyno-shaft-on-vehicle-dyno-73/"><b>Dyno-Shaft On-Vehicle Dyno</b></a><br><hr><a href="http://www.aemelectronics.com/boost-controllers-28/"><b>Boost Controllers</b></a><br><hr><a href="http://www.aemelectronics.com/ignition-components-18/"><b>Ignition Components</b></a><br><hr><a href="http://www.aemelectronics.com/sensors-and-connectors-14/"><b>Sensors and Connectors</b></a><br><hr><a href="http://www.aemelectronics.com/x-wifi-35/"><b>X-WiFi</b></a><br><hr><a href="http://www.aemelectronics.com/ecu-patch-extension-harness-22/"><b>ECU Patch/Extension Harness</b></a><br><hr><a href="http://www.aemelectronics.com/fuel-delivery-components-2/"><b>Fuel Delivery Components</b></a><br><hr><a href="http://www.aemelectronics.com/tru-time-adjustable-cam-gears-1/"><b>Tru-Time Adjustable Cam Gears</b></a><br><hr><a href="http://www.aemelectronics.com/powersports-53/"><b>Powersports</b></a><br><hr><a href="http://www.aemelectronics.com/catalog-software-downloads-72/"><b>Catalog &amp; Software Downloads</b></a><br><hr><a href="http://www.aemelectronics.com/video-gallery-86/"><b>Video Gallery</b></a><br><br>
+    <td align="left" class="boxText"><hr><a href="http://www.aemelectronics.com/whats-new-77/"><b>Whats New</b></a><br><hr><a href="http://www.aemelectronics.com/career-opportunities-87/"><b>Career Opportunities</b></a><br><hr><a href="http://www.aemelectronics.com/engine-management-9/"><b>Engine Management Systems</b></a><br><hr><a href="http://www.aemelectronics.com/wideband-air-fuel-systems-15/"><b>Wideband Air / Fuel Systems</b></a><br><hr><a href="http://www.aemelectronics.com/water-methanol-injection-kits-23/"><b>Water / Methanol Injection Kits</b></a><br><hr><a href="http://www.aemelectronics.com/gauges-26/"><b>Gauges</b></a><br><hr><a href="http://www.aemelectronics.com/high-flow-in-tank-fuel-pump-101/"><b>High Flow In-Tank Fuel Pump</b></a><br><hr><a href="http://www.aemelectronics.com/data-loggers-66/"><b>Data Loggers</b></a><br><hr><a href="http://www.aemelectronics.com/dyno-shaft-pro-series-on-vehicle-dynamometer-73/"><b>Dyno-Shaft Pro Series On-Vehicle Dynamometer</b></a><br><hr><a href="http://www.aemelectronics.com/boost-controllers-28/"><b>Boost Controllers</b></a><br><hr><a href="http://www.aemelectronics.com/ignition-components-18/"><b>Ignition Components</b></a><br><hr><a href="http://www.aemelectronics.com/sensors-and-connectors-14/"><b>Sensors and Connectors</b></a><br><hr><a href="http://www.aemelectronics.com/x-wifi-35/"><b>X-WiFi</b></a><br><hr><a href="http://www.aemelectronics.com/ecu-patch-extension-harness-22/"><b>ECU Patch/Extension Harness</b></a><br><hr><a href="http://www.aemelectronics.com/fuel-delivery-components-2/"><b>Fuel Delivery Components</b></a><br><hr><a href="http://www.aemelectronics.com/tru-time-adjustable-cam-gears-1/"><b>Tru-Time Adjustable Cam Gears</b></a><br><hr><a href="http://www.aemelectronics.com/powersports-53/"><b>Powersports</b></a><br><hr><a href="http://www.aemelectronics.com/catalog-software-downloads-72/"><b>Catalog &amp; Software Downloads</b></a><br><hr><a href="http://www.aemelectronics.com/video-gallery-86/"><b>Video Gallery</b></a><br><br>
 </td>
   </tr>
   <tr>
@@ -477,7 +528,7 @@ var mygallery=new fadeSlideShow({
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
   </tr>
   <tr>
-    <td align="center" class="boxText"><form name="advanced_search" method="get" action="http://www.aemelectronics.com/search/"><input type="hidden" name="search_in_description" value="1"><input type="text" name="keywords" size="10" maxlength="30" value="">&nbsp;<input type="image" src="templates/Original1/images/buttons/english/button_quick_find.gif" border="0" alt="Search" title=" Search "><br>Use vehicle names, part names or part numbers to find your parts.<br></form></td>
+    <td align="center" class="boxText"><form name="advanced_search" method="get" action="http://www.aemelectronics.com/search/results"><input type="hidden" name="osCsid" value="tlk1krm1qkvhjr5cs5d83k0l33"><input type="hidden" name="search_in_description" value="1"><input type="text" name="keywords" size="10" maxlength="30" value="">&nbsp;<input type="image" src="templates/Original1/images/buttons/english/button_quick_find.gif" border="0" alt="Search" title=" Search "><br>Use vehicle names, part names or part numbers to find your parts.<br></form></td>
   </tr>
   <tr>
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
@@ -493,7 +544,40 @@ var mygallery=new fadeSlideShow({
             </td>
           </tr>
 <!--D search_eof //-->
-<!-- articles //-->
+  <!-- whats_new //-->
+  <tr>
+    <td>
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="infoBoxHeading"><img src="templates/Original1/images/infobox/infobox_top_left.png" border="0" alt=""></td>
+    <td width="100%" class="infoBoxHeadingImage"><font color="#FFFFFF">Newest AEM Products</font></td>
+    <td class="infoBoxHeading"><a href="http://www.aemelectronics.com/new-products/"><img src="templates/Original1/images/infobox/infobox_top_right_arrow.png" border="0" alt="more" title=" more "></a></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBox">
+  <tbody><tr>
+<td class="BoxBorderLeft"><img src="images/pixel_trans.gif" border="0" alt="" width="1" height="1"></td><td><table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents">
+  <tbody><tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText"><a href="http://www.aemelectronics.com/aem-fuel-pressure-regulator-rebuild-kit-395"><img src="images/25-392_header_small.jpg" border="0" alt="AEM Fuel Pressure Regulator Rebuild Kit" title=" AEM Fuel Pressure Regulator Rebuild Kit " width="175" height="75"></a><br><a href="http://www.aemelectronics.com/aem-fuel-pressure-regulator-rebuild-kit-395">AEM Fuel Pressure Regulator Rebuild Kit</a><br>&nbsp;$43.87&nbsp;<br></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+</td><td class="BoxBorderRight"><img src="images/pixel_trans.gif" border="0" alt="" width="1" height="1"></td>  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBoxFooter">
+  <tbody><tr>
+    <td class="infoBoxFooterCenter"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+    </td>
+  </tr>
+  <!-- whats_new eof//-->
+  <!-- articles //-->
 <tr>
   <td>
     <table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -510,7 +594,7 @@ var mygallery=new fadeSlideShow({
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
   </tr>
   <tr>
-    <td class="boxText"><a href="http://www.aemelectronics.com/new-articles/">New Articles</a> (0)<br><a href="http://www.aemelectronics.com/articles/">All Articles</a> (121)<br><a href="http://www.aemelectronics.com/articles.php?tPath=13">AEM Press Releases</a>&nbsp;(32)<br><a href="http://www.aemelectronics.com/articles.php?tPath=12">AEM Product Info</a>&nbsp;(4)<br><a href="http://www.aemelectronics.com/articles.php?tPath=11">AEM Software Downloads</a>&nbsp;(1)<br><a href="http://www.aemelectronics.com/articles.php?tPath=3">AEM Videos -&gt;</a>&nbsp;(40)<br><a href="http://www.aemelectronics.com/articles.php?tPath=2">News</a>&nbsp;(41)<br><a href="http://www.aemelectronics.com/articles.php?tPath=1">Racing &amp; Projects</a>&nbsp;(5)<br><a href="http://www.aemelectronics.com/articles.php?tPath=17">Sponsorships</a>&nbsp;(1)<br></td>
+    <td class="boxText"><a href="http://www.aemelectronics.com/new-articles/">New Articles</a> (0)<br><a href="http://www.aemelectronics.com/articles/">All Articles</a> (74)<br><a href="http://www.aemelectronics.com/articles.php?tPath=13">AEM Press Releases</a>&nbsp;(33)<br><a href="http://www.aemelectronics.com/articles.php?tPath=3">AEM Videos -&gt;</a>&nbsp;(40)<br><a href="http://www.aemelectronics.com/articles.php?tPath=17">Sponsorships</a>&nbsp;(1)<br></td>
   </tr>
   <tr>
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
@@ -573,7 +657,7 @@ var mygallery=new fadeSlideShow({
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
   </tr>
   <tr>
-    <td align="left" class="boxText"><a href="http://www.aemelectronics.com/viewpage/terms-and-conditions-4">Terms and Conditions</a><br><a href="http://www.aemelectronics.com/viewpage/shipping-and-returns-5">Shipping and Returns</a><br><a href="http://www.aemelectronics.com/viewpage/privacy-policy-6"><b>Privacy Policy</b></a><br><a href="http://www.aemelectronics.com/viewpage/about-us-7">About Us</a><br><a href="http://www.aemelectronics.com/viewpage/contact-aem-10">Contact AEM</a><br></td>
+    <td align="left" class="boxText"><a href="http://www.aemelectronics.com/viewpage/terms-and-conditions-4?CDpath=0">Terms and Conditions</a><br><a href="http://www.aemelectronics.com/viewpage/shipping-and-returns-5?CDpath=0">Warranty and Returns</a><br><a href="http://www.aemelectronics.com/viewpage/privacy-policy-6?CDpath=0"><b>Privacy Policy</b></a><br><a href="http://www.aemelectronics.com/viewpage/about-us-7?CDpath=0">About Us</a><br><a href="http://www.aemelectronics.com/viewpage/contact-aem-10?CDpath=0">Contact AEM</a><br></td>
   </tr>
   <tr>
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
@@ -706,7 +790,7 @@ function couponpopupWindow(url) {
   </tr>
   <tr>
     <td align="center" class="boxText">
-        <form name="login" method="post" action="https://aemelectronics.authsecure.com/login.php?action=process">
+        <form name="login" method="post" action="https://aemelectronics.authsecure.com/login.php?action=process&amp;osCsid=tlk1krm1qkvhjr5cs5d83k0l33">
           <table border="0" width="100%" cellspacing="0" cellpadding="0">
             <tbody><tr>
               <td align="left" class="infoboxContents">
@@ -740,7 +824,7 @@ function couponpopupWindow(url) {
             </tr>
               <tr>
                 <td class="infoboxContents" align="center">
-                  <hr>Don't have an account yet? Create one! <br><a href="https://aemelectronics.authsecure.com/create_account.php"><img src="templates/Original1/images/buttons/english/button_create_account.gif" border="0" alt="Create Account" title=" Create Account " width="116" height="24">
+                  <hr>Don't have an account yet? Create one! <br><a href="https://aemelectronics.authsecure.com/create_account.php?osCsid=tlk1krm1qkvhjr5cs5d83k0l33"><img src="templates/Original1/images/buttons/english/button_create_account.gif" border="0" alt="Create Account" title=" Create Account " width="116" height="24">
                 </a></td>
               </tr>
           </tbody></table>
@@ -779,14 +863,14 @@ function couponpopupWindow(url) {
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td valign="top"><div class="cds_pages_body"><p>
-</p><p><span style="font-size: xx-small;">AEM respects the privacy of our customers. Any and all  information captured on this web site is for internal use by AEM only.  AEM does not sell mailing lists, email lists, or give out any of your  personal information in any way.</span></p>
-<p><span style="font-size: xx-small;">You  can be confident that the information you provide AEM will be kept  internally and in strict confidentiality.</span></p>
-<p><span style="font-size: xx-small;">On occasion, AEM may send you emails to give you advanced  notice of special offers and discounts. AEM will only send email to site  users who elect to sign up for AEM's Email Alerts. By signing up for  AEM's Email Alerts, you hereby give permission to AEM to send emails to  your email address.</span></p>
-<div class="red"><span style="font-size: xx-small;"><strong>What  information does AEM collect?</strong></span></div>
-<p style="margin-top: 5px;"><span style="font-size: xx-small;">AEM collects just enough  information to process your request, and contacts you if there are any  problems. AEM uses your email address as your personal identifier so we  can send you information regarding the status of your group/organization  and any updates, if you so request.</span></p>
-<div class="red"><span style="font-size: xx-small;"><strong>Does AEM use Cookies? If so, how?</strong></span></div>
-<p style="margin-top: 5px;"><span style="font-size: xx-small;">Cookies are small  amounts of information that are stored on your hard drive from your  browser. Also, cookies are used to let us know that you are logged into  the system. We do not use them to extract marketing information from  existing cookies. Cookies are widely used for this purpose on many  sites, including Yahoo!, Dell, and Amazon.com.</span></p>
-<p><span style="font-size: xx-small;">At AEM, we use cookies to track whether or not  you're logged in and are a registered member of AEM's Electronics Forum.</span></p>
+</p><p><span style="font-size: small;"><span style="font-family: verdana,geneva;">AEM respects the privacy of our customers. Any and all information captured on this web site is for internal use by AEM only. AEM does not sell mailing lists, email lists, or give out any of your personal information in any way.</span></span></p>
+<p><span style="font-size: small;"><span style="font-family: verdana,geneva;">You can be confident that the information you provide AEM will be kept internally and in strict confidentiality.</span></span></p>
+<p><span style="font-size: small;"><span style="font-family: verdana,geneva;">On occasion, AEM may send you emails to give you advanced notice of special offers and discounts. AEM will only send email to site users who elect to sign up for AEM's Email Alerts. By signing up for AEM's Email Alerts, you hereby give permission to AEM to send emails to your email address.</span></span></p>
+<div class="red"><span style="font-size: xx-small;"><strong><span style="font-size: small;"><span style="font-family: verdana,geneva;">What information does AEM collect?</span></span></strong></span></div>
+<p style="margin-top: 5px;"><span style="font-size: small;"><span style="font-family: verdana,geneva;">AEM collects just enough information to process your request, and contacts you if there are any problems. AEM uses your email address as your personal identifier so we can send you information regarding the status of your group/organization and any updates, if you so request.</span></span></p>
+<div class="red"><span style="font-size: xx-small;"><strong><span style="font-size: small;"><span style="font-family: verdana,geneva;">Does AEM use Cookies? If so, how?</span></span></strong></span></div>
+<p style="margin-top: 5px;"><span style="font-size: small;"><span style="font-family: verdana,geneva;">Cookies are small amounts of information that are stored on your hard drive from your browser. Also, cookies are used to let us know that you are logged into the system. We do not use them to extract marketing information from existing cookies. Cookies are widely used for this purpose on many sites, including Yahoo!, Dell, and Amazon.com.</span></span></p>
+<p><span style="font-size: small;"><span style="font-family: verdana,geneva;">At AEM, we use cookies to track whether or not you're logged in and are a registered member of AEM's Electronics Forum.</span></span></p>
 <p></p></div></td>
   </tr>
 </tbody></table>
@@ -816,7 +900,7 @@ function couponpopupWindow(url) {
 <hr color="c0c0c0">
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
             <tbody><tr> 
-	            <td height="33"><p align="center" class="smallTextFooter">Copyright © 2011 AEM Electronics, Inc. All Rights Reserved.<br>Best viewed with Internet Explorer 5.0+ at 800x600 resolution or higher.</p></td>
+	            <td height="33"><p align="center" class="smallTextFooter">Copyright © 2012 AEM Electronics, Inc. All Rights Reserved.<br>Best viewed with Internet Explorer 5.0+ at 800x600 resolution or higher.</p></td>
             </tr>
 
 </tbody></table>
@@ -848,6 +932,29 @@ function couponpopupWindow(url) {
 <!-- footer_eof //-->
 <!-- footer_eof //-->
 <br>
+
+
+<!-- Start Overlay -->
+	<script type="text/javascript" src="aem.js"></script>
+	<script type="text/javascript">
+		//create modal
+		var myModalMachine = new modalMachine();
+
+		//create slider
+		var myTabMachine = new tabMachine();
+		myTabMachine.init();
+	</script>
+	
+	<script type="text/javascript">
+		$(".action-showXModal").click(function() {
+			myTabMachine.switchToTab(0);
+			myModalMachine.showModal();
+		});
+		$(".action-hideXModal").click(function() {
+			myModalMachine.hideModal();
+		});
+	</script>
+<!-- End Overlay-->
 
 
 </body></html>
