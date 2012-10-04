@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the heels.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630060724id_/http%3A//www.heels.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heels.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004051742id_/http%3A//www.heels.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Women's Shoes, Dress Shoes, Evening Shoes, Guess Shoes, Jessica Simpson Shoes, LAMB Shoes, High Heels, Heels.com
 
 ## Heels.com Privacy Policy
 
-We recognize that making purchases at Heels.com or any website requires a high level of trust. We value your trust and confidence and vow to protect your privacy and the security of all personal information you provide to us. We do not and will not rent, sale, or loan your personal information to anyone.   
+We recognize that making purchases at Heels.com or any website requires a high level of trust. We value your trust and confidence and vow to protect your privacy and the security of all personal information you provide to us. We do not and will not rent, sale, or loan your personal information to anyone.
+
 It is our goal to create a long term relationship with you, our customer. To accomplish this we feel it is essential for us to communicate the information we are collecting and how we intend on using it to create a better shopping experience.
 
 ### Use of Cookies
@@ -31,7 +32,7 @@ Heels.com aims to offer you the best possible help and advice in the context of 
 
 Heels.com utilizes many social sharing technologies offered by Facebook, including allowing our customers to "Like" any of our products on our web store through the use of the Facebook "Like" button on Heels.com product pages. Users should be aware that by "Liking" a product on Heels.com using the Facebook "Like" Button, that user agrees to allow Heels.com to list their name, photo, and any other "Everyone", publicly viewable information the user has allowed to be accessed on their Facebook Profile. The use of the "Like" button may also publish the product photo, description, and link back to the Heels.com page on the users Facebook "Wall". This information may be viewable to your Facebook network, depending on your privacy settings. By using the Facebook "Like" button on a Heels.com product page, you agree to allow us to use that information, and any associated "Everyone" publicly accessible information from your Facebook profile, including your name, photo, and any comments you attach to your "Like" wall posting, for both commercial and non-commercial uses, including but not limited to promotions or advertising for Heels.com.
 
-We reserve the right to change or amend our privacy policy at any time. 
+We reserve the right to change or amend our privacy policy at any time.
 
 If you have any question concerning our policy please contact us at
 
