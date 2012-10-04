@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the qirina.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630120840id_/http%3A//www.qirina.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qirina.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004025415id_/http%3A//www.qirina.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |   
 ---  
 [Home](http://www.qirina.com/) > Privacy Policy  
-We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Qirina.com, and how we safeguard your information. We never sell your personal information to third parties. In short, this site does not store any information except your IP address, your user agent (browser) version, and which of our pages you accessed when.
+We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Qirina.com, and how we safeguard your information. We never sell your personal information to third parties. In short, this site does not store any information except your IP address, your user agent (browser) version, and which of our pages you accessed when. 
 
 ## Log Files
 
