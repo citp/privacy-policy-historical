@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prontostyle.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620171044id_/http%3A//www.prontostyle.com/help/legal/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prontostyle.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004080000id_/http%3A//www.prontostyle.com/help/legal/policy.do) for the most accurate reproduction.*
 
 # About Pronto - Privacy Policy
 
