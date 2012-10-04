@@ -1,72 +1,124 @@
-> *The following text is extracted and transformed from the rxwiki.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103114701id_/http%3A//www.rxwiki.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxwiki.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004064741id_/http%3A//www.rxwiki.com/site-policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | rxwiki.com
 
-RxWiki knows your personal privacy is very important, and we intend to earn your trust each and every day you access RxWiki.com. Our privacy policy applies to all RxWiki services, but it does not apply to third-party companies or for advertising relationships. Each of these companies has its own privacy policies, and we strongly encourage you to review the policies of each and every Web site you visit, are directed to or register for.
+Effective on July 6, 2012
 
-RxWiki.com contains links to other Web sites. Once you enter another Web site (whether through an advertisement, service or content link), please be aware that we are not responsible for the privacy practices of that external Web site and that our privacy terms do not apply.
+This privacy policy describes how RxWiki, Inc. collects and uses the personal information you provide RxWiki, [www.RxWiki.com](http://www.rxwiki.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Our privacy policy informs you specifically what information is collected, how that information is used and other related subjects about your use of our Web site. To keep current with new technologies or regulations, we may change our privacy policy from time to time at our discretion. However, if we make a change, we may post version dates with a notice banner on the Web site, in our e-newsletters or via e-mail notification.
+## TRUSTe
 
-**How We Protect Your Information**
+RxWiki, Inc.  has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information collected on mobile devices and only covers the website [www.rxwiki.com](http://www.rxwiki.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-To prevent unauthorized access to information, maintain data accuracy and ensure correct usage, we have implemented appropriate physical, electronic and workflow procedures designed to safeguard the information we collect. We limit access to your personal information to those individuals, companies and partners who have a clear need to know that information in order to support our businesses, products or services.
+If you have questions or concerns regarding this policy, you should first contact us at [info@RxWiki.com](mailto:info@RxWiki.com) . If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-The following types of personally identifiable information may be collected and stored by the Web site and used by RxWiki:
+## Collection and Use of Personal Information
 
-  * E-mail address--As part of registering for the RxWiki e-newsletter, for any other RxWiki application (individually and collectively called "eNewsletters") or for use of our sites, you will be asked to provide your e-mail address. Your e-mail address will be used to deliver newsletters and other services.
-  * Name and address--As part of registering for eNewsletters or for use of our sites, you may be asked to provide your real name, address and other such contact information. Your name will be used for eNewsletter delivery and other marketing communications.
-  * Demographic information--As part of registering for eNewsletters or for use of our sites, we may ask you for specific demographic information so we may deliver information that is more relevant to you and your interests. For example, we may ask you about your gender, race, age, areas of interest and other information that would help us deliver services targeted to you. RxWiki may also combine information that we have about you with information we obtain from business partners or other parties.
+We collect the following personal information from you
 
-
-
-**Polls and Surveys**
-
-As part of using various applications on our Web site, such as polls, surveys and other interactive features, we collect information from answers and other user input. We may share the results of these applications in aggregate with third parties.
-
-**Other Information We Collect and How We Use It**
-
-When you access the Web site, we may collect nonpersonal information about your use of our Web site. We may use cookies or Web beacons (both defined and described below) to collect or store personal information or link nonpersonal information from cookies or Web beacons to personal information without your prior permission.
-
-**Our Commitment to Protect Children's Privacy**
-
-We never collect information on our Web site from those users whom we know are under age 13, and no part of our Web site is structured to attract anyone under age 13.
-
-**Third-party Advertisers**
-
-We allow other companies, called third-party ad servers or ad networks, to serve advertisements within our Web pages. Because your Web browser must request these advertising banners from the ad network, these companies can send their own cookies to your cookie file, just as if you had requested a Web page from our Web site.
-
-**Usage Logging**
-
-Every time you visit a page of our Web site, we record a small amount of information about your activities, such as which page you view. We use this information to form an overall statistical picture of the Web site, such as popular content, other Web sites users link to and the types of Web browsers being used to access our Web site. Additionally, each time you access our Web site, we may record the network address of your computer. Although this network address is used to identify your computer, it may or may not be a unique address.
-
-**When We Disclose Your Personal Information**
-
-  1. We permit distribution of your personal information as follows:
-  2. To our employees, contractors and agents who have an express need to know such information in order to provide the site or eNewsletters to you
-  3. To third parties designated by you as required to facilitate an online transaction or registration with such third party that you initiate on our Web site
-  4. In response to a valid subpoena or other compulsory request from law enforcement
-  5. To our officers, legal counsel or their designees when necessary during the investigation of abuse, harassment or other violations of the Terms
-  6. When the information is necessary to illustrate or resolve technical issues with the site or eNewsletters
-  7. To conduct audits or other similar operations procedures, but only as minimally required to perform such procedures
-  8. When a user has violated the Terms and RxWiki will, at its discretion, block the user's network address
-  9. When we reasonably determine it is necessary to protect the rights, property or safety of RxWiki, its users or the public
-  10. For any portions of the site that specifically require you to opt in, unless you specifically opt in to such portions, you will be automatically opted out
+  * Contact Information such as name, email address, mailing address, phone number
 
 
 
-We may transfer your personal information to a successor-in-interest in connection with a merger, sale, divestiture or other transfer of assets or fundamental corporate change of the portion of our business of that provides the site or any eNewsletter.
+We also collect the following information from you
 
-We may freely distribute nonpersonal information to any party for any reason, subject to applicable laws.
+  * Demographic information such as age, education, gender, interests and zip code
+  * Health interests
 
-**How to Correct Your Information**
 
-You can obtain all your personally identifiable information that we collect online and maintain by contacting our Privacy Officer. If you have any questions, comments or complaints about this privacy policy, please contact us through the Web site, by e-mail, by phone or by post at the following addresses below.
 
-**Ownership**
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-RxWiki is owned by Patient Conversation Media, Inc.  Patient Conversation Media's corporate site can be found at www.PatientConversation.com and we can be reached by email at info@PatientConversation.com.  Our mailing address is:
+We use this information to
 
->  _Patient Conversation Media, Inc._  
->  _43 Rainey Street_  
->  _Austin, TX 78701_
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Respond to customer service requests
+  * Send you a newsletter
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
+
+
+
+#### Choice/Opt-Out
+
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@RxWiki.com](mailto:info@RxWiki.com?subject=Privacy%20Policy).
+
+We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
+
+## Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if RxWiki, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so.
+
+
+
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [info@RxWiki.com](mailto:info@RxWiki.com?subject=Privacy%20Policy).
+
+## Cookies and Other Tracking Technologies
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+ _Advertising_
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by clicking here (link to NAI opt-out: <http://www.networkadvertising.org/managing/opt_out.asp>). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+ _Web beacons_
+
+Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+ _Local Shared Objects - Flash Cookies_
+
+Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/sett...](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+
+ _Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of RxWiki, Inc.. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can contact us at [info@RxWiki.com](mailto:info@RxWiki.com)
+
+## Additional Policy Information
+
+#### Email a Friend
+
+If you choose to use our email a friend to tell a friend about an article, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the article. RxWiki does not store this information and is only used for the sole purpose of sending this one-time email. Your friend may contact us at [info@RxWiki.com](mailto:info@RxWiki.com) to request that we remove this information from our database.
+
+#### Social Media Features and Widgets
+
+Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+#### Correcting, Deleting and Updating Your Personal Information
+
+To review, delete or update your personal information, please contact us at [info@RxWiki.com](mailto:info@RxWiki.com?subject=Privacy%20Policy).
+
+We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+#### Notification of Privacy Policy Changes
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+## Contact Information
+
+You can contact us about this privacy policy by writing or email us at the address below:
+
+RxWiki, Inc.  
+4315 Guadalupe Street  
+Suite 200  
+Austin, TX, United States 78751  
+Email: [info@RxWiki.com](mailto:info@RxWiki.com?subject=Privacy%20Policy)
