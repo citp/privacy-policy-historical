@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytemplatez.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606000158id_/http%3A//www.mytemplatez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytemplatez.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004094654id_/http%3A//www.mytemplatez.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
