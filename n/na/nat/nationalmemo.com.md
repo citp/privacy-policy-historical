@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502060859id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004134937id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
 
 # The National Memo » Privacy Statement
 
