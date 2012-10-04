@@ -1,103 +1,285 @@
-> *The following text is extracted and transformed from the registertovote.org privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105151605id_/https%3A//registertovote.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registertovote.org privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004122213id_/http%3A//registertovote.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | RegistertoVote.org
+# None
 
-Last Updated: September 6, 2011 
+Last Updated: 8/23/2012
 
-Please review our Terms and Conditions which also governs your visit to our sites(s) to understand our practices.
+Please review our [Terms and Conditions](https://web.archive.org/tc.html) which also governs your visit to our sites(s) to understand our practices. 
 
-**Registertovote Privacy Policy**
+Registertovote.org Privacy Policy 
 
-Welcome to the Registertovote.org Web site ("Registertovote.org", "Registertovote," "we," "us," or "our"). Registertovote is committed to respecting the privacy rights and concerns of all users of our Registertovote.org Web site (the "Site"). As such, we have established and implemented this Privacy Policy to inform visitors to this Site how we use and protect the information we collect at this Site.
+Welcome to the Registertovote.org Web site ("Registertovote.org", "Registertovote," "we," "us," or "our"). Registertovote is committed to respecting the privacy rights and concerns of all users of our www.Registertovote.org Web site (the "Site"). As such, we have established and implemented this Privacy Policy to inform visitors to this Site how we use and protect the information we collect at this Site. 
 
-Our business changes constantly and our Privacy Policy and Terms and Conditions change also. We may e-mail, text or in other ways provide periodic reminders of but you should check our Web site frequently to see recent changes. Your continued use of the Site following any changes to this Privacy Policy will constitute your acceptance of such changes.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address you submitted to us) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement.
+If you have any questions regarding this information or our privacy practices, please contact us via email at [info@Registertovote.org](mailto:info@Registertovote.org). 
 
-**What information does Registertovote collect?**
+Registertovote.org has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@Registertovote.org](mailto:info@Registertovote.org). If you are not satisfied with our response you can contact TRUSTe here. 
 
-We collect certain types of information and ask for PERSONAL INFORMATION such as your name, age, gender, education, occupation, telephone number, mobile telephone number (if you have a mobile phone), e-mail address, home address and/or zip code, health and/or medical information and voter registration information ("PERSONAL INFORMATION"). We may collect such PERSONAL INFORMATION when you fill out the voter registration form or if you decide to participate in a survey, take a poll, sign a petition, set up an account, or it is necessary to participate, for example, in a contest, petition, sweepstakes promotion, survey or other activity. The following sections describe what type of information we collect, when we collect it and how we use it.
+REGISTERTOVOTE.ORG IS NOT A COVERED ENTITY FOR PURPOSES OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT OF 1996 ("HIPAA"). AS SUCH, THE ADDITIONAL PRIVACY AND SECURITY PROTECTIONS AFFORDED TO CONSUMERS/PATIENTS UNDER HIPAA ARE NOT CONTEMPLATED BY, NOR CONTAINED WITHIN, THIS PRIVACY POLICY. 
 
-**Information you give us**
+  
 
-We receive and store any information you enter on our Web site or give us in any other way. For example you provide information when fill out the drivers license registration and/or renewal forms or participate in a poll, provide information in your online account: communicate with us and you grant us permission to contact you by phone, e-mail, SMS/MMS or otherwise; complete any questionnaire, survey, petition or entry form; or employ any of our notification services or engage in any of our services. In order to use certain functionality of REGISTERTOVOTE, you will have to submit certain PERSONAL INFORMATION. Should a program on the Site at anytime offer a payment method of participation, you may also be asked to submit the type of payment method you would prefer to use if you choose the payment method, including your mobile phone account (if you have one) or your credit card. You will have to provide it at the point of purchase or at other points as prompted by the REGISTERTOVOTE web site. In addition we may collect information associated with your usage participation and submissions to our Web site and features. We may also collect any and all information associated with your practices and actions. We may also collect demographic information that you provide to us, such as your zip code or income level. We use your demographic information to tailor the Site to you and for internal purposes. 
 
-**Automatic Information**
+#### What information does Registertovote collect?
 
-In the process of operating our Web site(s) and interacting with you we may now or in the future automatically collect and analyze a variety of information. This information may include but is not limited to, the internet protocol (IP) address, login; e-mail address password; computer and connection setting browser plug-in types and versions operating system and platform; purchase and participation history; products you viewed or searched for; and the ways you used to contact us.
+We collect certain types of information and ask for PERSONAL INFORMATION such as your full name, age, gender, education, occupation, telephone number, ID number, date of birth, mobile telephone number (if you have a mobile phone), e-mail address, home address and/or zip code, voter and related information, have you used tobacco, height and weight, and certain questions regarding your medical history ("PERSONAL INFORMATION"). We may collect such PERSONAL INFORMATION when you fill out the Registertovote.org form or if you decide to participate in a survey, take a poll, sign a petition, set up an account, or it is necessary to participate, for example, in a contest, petition, sweepstakes promotion, survey or other activity. The following sections describe what type of information we collect, when we collect it and how we use it. 
 
-We also may use browser data such as cookies or software tools to measure and collect session information. Cookies are small bits of electronic information that a Web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many Web sites use them. Cookies allow Web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you may not have to log in using a user name or password more than once, thereby saving time. We currently save user name and password information in cookies, however, we do not receive or record any PERSONAL INFORMATION in the cookies we use. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access REGISTERTOVOTE but may not be able to participate in activities that require cookies for participation. However, to access your account, you may still have to reenter your user name and password each time you visit the Site.
+  
 
-**Information from Other Sources**
 
-We may receive information associated with your account from other sources including, but not limited to, 3rd party advertisers, affiliated companies, 3rd party billing providers, and credit card processors. REGISTERTOVOTE may also allow third-party to advertise on or link to our site(s). You can find out more about the information collection and use practices of these other parties by examining their associated policies.
+#### Information you give us
 
-**Customer Service**
+We receive and store any information you enter on our Web site or give us in any other way. For example you provide information when fill out the Registertovote.org registration and/or application forms or participate in a poll: communicate with us and you grant us permission to contact you by phone, e-mail, SMS/MMS or otherwise; complete any questionnaire, survey, petition or entry form; or employ any of our notification services or engage in any of our services. In order to use certain functionality of Registertovote.org, you will have to submit certain PERSONAL INFORMATION. In addition we may collect information associated with your usage participation and submissions to our Web site and features. We may also collect any and all information associated with your practices and actions. We may also collect demographic information that you provide to us, such as your zip code or income level. We use your demographic information to tailor the Site to you and for internal purposes. 
 
-We provide customer service support through e-mail or telephone. In order to provide customer support, we will ask for your e-mail address and phone numbers. We only use information received from customer support requests, including e-mail addresses, mobile phone numbers and user names, for customer support services and we do not transfer or share this information with any third parties, except third parties who may help us administer such customer support, if any.
+  
 
-**How do we use the information you provide us?**
 
-As stated above, we use your PERSONAL INFORMATION such as your name, address, and mailing address for customer service, to provide you with information that pertains to your place of residence or that you may request, send you newsletters and to customize your experience on the Site.
+#### Automatic Information
 
-We may use your credit card number or mobile phone account for billing purposes when we charge you (and you have agreed to be charged) for any purchases you may make, including but not limited to fees for participation in a promotional activity. By entering a contest, gift offering or sweepstakes or by making a purchase on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your transactions. These third parties may include the credit card companies and banking institutions used to process the transaction. We also will use your e-mail address and user name and/or password to send you email updates and messages about about future programs, issues, activities, offers, promotions, surveys, petitions and Site news in which we think you would have an interest, or to contact you when we provide customer support.
+In the process of operating our Web site(s) and interacting with you we may automatically collect and analyze a variety of information. This information may include but is not limited to, the internet protocol (IP) address, computer and connection setting browser plug-in types and versions operating system and platform; purchase and participation history; products you viewed or searched for; and the ways you used to contact us. Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL. 
 
-In addition, we may also use your e-mail address to send you information on updates to the REGISTERTOVOTE features and services which we may make available from time to time. To opt out of receiving these e-mails, please see the section below titled "How do you opt out. Please note that changes to your preferences may not be effective immediately.
+We also may use browser data such as cookies or software tools to measure and collect session information. Cookies are small bits of electronic information that a Web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many Web sites use them. Cookies allow us to better customize visits to our site to the visitor's individual preferences. In addition, they allow us to pre-populate your form/s based on the information you provide to us. If cookies are disabled in your browser, we will be unable to generate your form and you may receive an error. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. However, if you employ one of these utilities while using our site, we will be unable to generate your form/s. Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. We do not receive or record any PERSONAL INFORMATION in the cookies we use. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. 
 
-We may also provide information about our visitors and accountholders to outside parties from time to time. For further details, please see the section below titled, "Does Registertovote disclose the information it collects to outside parties?"
+The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies. 
 
-We may use the information we collect to tailor your experience on REGISTERTOVOTE Features and services by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us and allowing us to contact you, if necessary, such as, but not limited to, when a new issue, petition, survey or service is available..
+  
 
-We may use the information we collect to provide current and future customers with new products and services. In efforts to provide better, more tailored and higher valued services, we may market to customers existing, new or upgraded offerings, products and services.
 
-**How does Registertovote protect customer information?**
+#### Clear Gifs (Web Beacons/Web Bugs)
 
-We implement a variety of security measures to ensure the security of your PERSONAL INFORMATION on our systems. User PERSONAL INFORMATION is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. Any credit card information you supply us is transmitted and protected via Secure Socket Layer technology ("SSL") and then stored into our databases to be accessed only as stated above.
+Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user?s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers? personally identifiable information. 
 
-**Does Registertovote disclose the information it collects from its visitors to outside parties?**
+We also use clear gifs in our HTML-based e-mails so that we know which e-mails have been opened. We use this information to monitor the effectiveness of our e-mail campaigns and to validate our results to our marketing partners. 
 
-When you participate on the Registertovote website, fill out voter registration forms, participate in petitions, surveys or premium offers, the PERSONAL INFORMATION you disclose for these and similar activities may be shared with third parties, such as those who may administer and fulfill the activity for us . Purchases through our Site, if offered, may require disclosure of your PERSONAL INFORMATION your credit card information and information about the name and address of the person receiving the purchases. The credit card information may be subject to verification by the issuing credit card company or other company. Shipping information will be shared with the shipping company. Sales and shipping records will also be generated and maintained. Unless you give us permission at the time we collect such information, however, this information will not be used for any purpose except the fulfillment, and record keeping of the transaction.
+We may also use log files, which are used to track and monitor traffic patterns on our site. 
 
-We may share your PERSONAL INFORMATION with third party organizations to independently market and /or communicate with you. In addition, we may temporarily populate a third party advertising offer with your PERSONAL INFORMATION to make any ordering process more seamless and efficient for you. Should you respond to a particular offer from our business partners or advertisers that may be offered on our Site, we may also use your PERSONAL INFORMATION to provide a report to our advertisers or business partners that tells them who responded to a particular offer. Further if you accept an offer contained in, for example, an email, we may provide the advertiser or business partner with the PERSONAL INFORMATION necessary to fulfill that offer to you.
+  
 
-Your PERSONAL INFORMATION may be shared with those persons or entities that administer our Web site, with other companies and Web sites we own or operate for our behalf and/or with third parties for their internal purposes. We may share, sell or trade PERSONAL INFORMATION with third parties who may use such information to directly market offers to you. If you are a resident of California, and do not want your PERSONAL INFORMATION shared with these third parties for marketing purposes, please let us know via e-mail at info@Registertovote.com
 
-If as a result of a business transition, information will be used for a purpose different from that stated or implied at the time of collection users will be given a choice consistent with our notification of changes section.
+#### Customer Service
 
-Should you change your mind about the information you've provided to us, should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. For further details please see the section below titled, "How do you change the information we have for you?"
+We provide customer service support through e-mail. In order to provide customer support, we will ask for your e-mail address and phone numbers. We only use information received from customer support requests, including e-mail addresses, mobile phone numbers and user names, for customer support services and we do not transfer or share this information with any third parties, except third parties who may help us administer such customer support, if any. 
 
-In the event Registertovote goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, account holders' information will, in most instances, be included as part of the assets transferred. Visitors and account holders will be notified via prominent notice on the Site for 30 days prior to a change of ownership or control of information of users held by us. Notwithstanding any other term of this privacy statement, we may release any PERSONAL INFORMATION we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety. 
+  
 
-**Third party links and co-brand relationships**
 
-In an attempt to provide increased value to our visitors, we may choose various third party Web sites to link to, and/or frame within the Site. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our visitors and account holders. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party Web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such Web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of the REGISTERTOVOTE features and the links placed upon each of them and therefore request any feedback on not only the REGISTERTOVOTE features, but for sites each links to as well (including if a specific link does not work).
+#### How do we use the information you provide us?
 
-Further, any linking with any other Web site is neither an endorsement of that site nor any of the products or services which may be offered on that site. We make no representation or warranty regarding any third party Websites or their use of your PERSONAL INFORMATION.
+As stated above, we use your PERSONAL INFORMATION such as your name, address, and mailing address for customer service, to provide you with information that pertains to your place of residence or that you may request, send you newsletters and to customize your experience on the Site. 
 
-**Surveys**
+We may share the PERSONAL INFORMATION we collect with companies affiliated with the Site, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. 
 
-From time-to-time, we request information from users via surveys. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as your email address), and demographic information (such as interests or age level). Survey information may be used for purposes of monitoring or improving the use and satisfaction of the REGISTERTOVOTE Features and services. We may also use information from these surveys to better distribute market and provide products and services to new and existing users.
+Additionally, by submitting information on our forms, you are automatically subscribed to a periodic e-mail communicating various offers that we think you might like based on the information you provided, and any offers that you selected in this promotion. You may unsubscribe from e-mails at any time by clicking on the link provided at the end of the e-mail, or by emailing your unsubscription request to this address: [info@Registertovote.org](mailto:info@Registertovote.org)
 
-**Your Consent**
+  
 
-By submitting a quote request, you authorize us to provide your information to insurance agents, both local and national. You also authorize this Site to provide your information to one of our third party agent networks in the event that our primary agent network has few or no agents in your zip code. You authorize these agent networks to share your information with their vendors, suppliers, and insurance carriers in order to generate information for your quotes. By submitting a quote request, you acknowledge that this Site's service requires you to agree that our partner companies may obtain a consumer report or credit score from a consumer reporting agency (also known as a credit bureau) and that these partner companies do not have the right to obtain a consumer report or credit score without your written instruction which you are granting by clicking the submit button. Accordingly, by submitting a quote request you instruct consumer reporting agencies to provide a consumer report or credit score on you to these partner companies if requested within a reasonable date from the time you submit information to this Site . In the event that one of our partner companies obtains this credit information that partner company will not share this information with any other party, including insurance carriers, but insurance carriers may elect to obtain credit information on their own in connection with the quoting and underwriting of the requested insurance. Where permitted by law, some insurance companies or their agents may confirm your information, through the use of consumer reports, which may include credit score and driving record.
 
-**Anti-Spam Policy**
+#### Advertisers
 
-We have crafted a strong, zero-tolerance anti-spam policy to protect you. If you feel you have been sent spam, please email us at [info@registertovote.org ](https://web.archive.org/web/20120105151605id_/https%3A//registertovote.org/info@registertovote.org)and we'll immediately take steps to solve the problem. We hold the privacy of all users in the highest regard, as well as the recipients of emails sent by our advertisers. 
+When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser. When you answer a survey question, some or all of the PERSONAL INFORMATION that you submitted while using the Site will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the PERSONAL INFORMATION. 
 
-**The Federal CAN-SPAM Act**
+  
 
-The Federal CAN-SPAM Act, put into law in 2003, dictates rules in sending commercial email. We vigorously follow these rules and add a few more for added safety.
 
-**California Privacy Rights**
+#### Ad Serving Companies 
+
+We may use third party ad networks or ad serving companies to serve advertisements on our Site(s). We share and pass PERSONAL INFORMATION about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The PERSONAL INFORMATION passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number(s), date of birth, gender, and any other PERSONAL INFORMATION you provide to us or we obtain about you. 
+
+  
+
+
+#### Third Party Marketing Partners
+
+We may share, license or sell your PERSONAL INFORMATION to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, pre-recorded messages, automated attendant telemarketing, and direct mail) marketing programs. 
+
+  
+
+
+#### Data Enhancement/Appending/Validation
+
+We may use third party service providers to enhance our database with additional elements, including but not limited to the PERSONAL INFORMATION provided by you to us on the Site. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database. 
+
+Additionally, we may share, license or sell your PERSONAL INFORMATION to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services. We may also provide your PERSONAL INFORMATION to third parties to append data points they have in their database. 
+
+  
+
+
+#### Government Agencies or Other Companies
+
+We may share your PERSONAL INFORMATION with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines. We may store and share your PERSONAL INFORMATION with third parties for suppression or opt-out purposes. We also may share your PERSONAL INFORMATION with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing [Terms and Conditions](https://web.archive.org/tc.html) and/or other agreements; (4) protecting the rights, property or safety of our Site(s), our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+
+We also will use your e-mail address to send you email updates and messages about future programs, issues, activities, offers, promotions, surveys, petitions and Site news in which we think you would have an interest, or to contact you when we provide customer support. 
+
+In addition, we may also use your e-mail address to send you information on updates to the Registertovote.org features and services, which we may make available from time to time. To opt out of receiving these e-mails, please request removal by sending an email to [info@Registertovote.org](mailto:info@Registertovote.org). 
+
+We may use the information we collect to tailor your experience on Registertovote.org features and services by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us and allowing us to contact you, if necessary, such as, but not limited to, when a new issue, petition, survey or service is available. 
+
+We may use the information we collect to provide current and future customers with new products and services. In efforts to provide better, more tailored and higher valued services, we may market to customers existing, new or upgraded offerings, products and services. 
+
+  
+
+
+#### Ad Serving & Pre-select/Pre-fill Offers
+
+We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Site, Survey or Special Offer process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from you, affiliated entities and/or from third parties. Our Site technology may pre-select certain offers for you to view based on such information. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during your use of the Site in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you. 
+
+  
+
+
+#### Customer Service and Fulfillment
+
+We may use your information to operate the Site promotion, service your account and to fulfill rewards earned through our Site(s). We may also use your information to verify/confirm purchases you made from us or third party advertisers. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the Terms & Conditions of the Site promotion or any advertiser offer. We do retain customer service correspondence. 
+
+  
+
+
+#### Marketing
+
+We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs, some of which are more fully described below. 
+
+  
+
+
+#### SMS Text Messages
+
+You have the option to provide your cell phone number. If you decide to provide your cell phone number, you agree that we, any third party acting on behalf of us or a third party marketing company, may send you promotional offers and any other offer(s) we think may be of interest to you via SMS text messages. For SMS text messages, you may remove your information by replying "STOP", "END" or "QUIT" to the SMS text message you received and we will remove your personal information within 10 days of receiving such request. 
+
+Pre-recorded Messages (Special Offer Service Subscription & Express Consent to Receive Messages) 
+
+By accepting the Terms & Conditions of this Site and this Privacy Policy (and any associated offers, contests, giveaways, or other programs), and providing your telephone number, you are subscribing to a free Special Offer Service ("SOS"). SOS subscribers receive pre-recorded telephone messages regarding various special product offers and purchase incentives, and are also automatically entered into various contests and sweepstakes when you receive such calls. The service is free of charge. 
+
+  
+
+
+#### How does Registertovote.org protect customer information?
+
+We implement a variety of security measures to ensure the security of your PERSONAL INFORMATION on our systems. User PERSONAL INFORMATION is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. Any sensitive personal information (such as ID number or Social Security Number) you supply us is transmitted and protected via Secure Socket Layer technology ("SSL") and then stored into our databases to be accessed only as stated above. There is no such thing as complete security on the Internet or otherwise. We use various security techniques on our Site(s) to help protect against the loss, misuse or modification of information we've collected from you. While we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with us, or our partners and affiliates. 
+
+  
+
+
+#### How do I update my Personal Information?
+
+If your personal information changes, or if you wish to delete inaccuracies or update it, you may do so by contacting us at [info@Registertovote.org](mailto:info@Registertovote.org). We will respond to your access request within 30 days. 
+
+We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at [info@Registertovote.org](mailto:info@Registertovote.org). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+  
+
+
+#### Does Registertovote.org disclose the information it collects to outside parties?
+
+When you participate on the Registertovote.org website, fill out Registertovote.org registration and/or application forms, participate in petitions, surveys or premium offers, the PERSONAL INFORMATION you disclose for these and similar activities may be shared with third parties, such as those who may administer and fulfill the activity for us. Sales and shipping records will also be generated and maintained. Unless you give us permission at the time we collect such information, however, this information will not be used for any purpose except the fulfillment, and record keeping of the transaction. 
+
+We may share your PERSONAL INFORMATION with third party organizations to independently market and /or communicate with you. In addition, we may temporarily populate a third party advertising offer with your PERSONAL INFORMATION to make any ordering process more seamless and efficient for you. Should you respond to a particular offer from our business partners or advertisers that may be offered on our Site, we may also use your PERSONAL INFORMATION to provide a report to our advertisers or business partners that tells them who responded to a particular offer. Further if you accept an offer contained in, for example, an email, we may provide the advertiser or business partner with the PERSONAL INFORMATION necessary to fulfill that offer to you. If you no longer wish to be contacted by these third parties you must contact that third party directly. 
+
+Your PERSONAL INFORMATION may be shared with those persons or entities that administer our Web site, with other companies and Web sites we own or operate for our behalf and/or with third parties for their internal purposes. We may share, sell or trade PERSONAL INFORMATION with third parties who may use such information to directly market offers to you. 
+
+California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties, contact us and follow any of our opt-out instructions. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by e-mail to dca@dca.ca.gov. 
+
+If you are a resident of California, and do not want your PERSONAL INFORMATION shared with these third parties for marketing purposes, please let us know via e-mail at [info@Registertovote.org](mailto:info@Registertovote.org)
+
+Should you change your mind about the information you've provided to us, or should you no longer wish to receive information from us, please notify us at [info@Registertovote.org](mailto:info@Registertovote.org). 
+
+In the event Registertovote.org goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, account holders' information will, in most instances, be included as part of the assets transferred. Visitors and account holders will be notified via prominent notice on the Site for 30 days prior to a change of ownership or control of information of users held by us. Notwithstanding any other term of this privacy statement, we may release any PERSONAL INFORMATION we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety. 
+
+We share your personal information with third parties only in ways that are described in this privacy statement. 
+
+We may provide your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+
+  
+
+
+#### Third party links 
+
+This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. 
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+
+This privacy statement applies only to information collected by this Web site. 
+
+In an attempt to provide increased value to our visitors, we may choose various third party Web sites to link to, and/or frame within the Site. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our visitors and account holders. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party Web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such Web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of the Registertovote.org features and the links placed upon each of them and therefore request any feedback on not only the Registertovote.org features, but for sites each links to as well (including if a specific link does not work). 
+
+Further, any linking with any other Web site is neither an endorsement of that site nor any of the products or services which may be offered on that site. We make no representation or warranty regarding any third party Websites or their use of your PERSONAL INFORMATION. 
+
+  
+
+
+#### Distribution Partners
+
+Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number(s), date of birth, and gender. 
+
+  
+
+
+#### Publisher Partners 
+
+When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to us. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number(s), date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner. 
+
+  
+
+
+#### Marketing Partners
+
+We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number(s), from third party marketing partners that provide us with consumer data to manage on their behalf. 
+
+  
+
+
+#### Surveys
+
+From time-to-time, we request information from users via surveys. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as your email address), and demographic information (such as interests or age level). Survey information may be used for purposes of monitoring or improving the use and satisfaction of the Registertovote.org features and services. We may also use information from these surveys to better distribute market and provide products and services to new and existing users. 
+
+  
+
+
+#### Your Consent
+
+By submitting a quote request, you authorize us to provide your information to insurance agents, both local and national. You also authorize this Site to provide your information to one of our third party agent networks in the event that our primary agent network has few or no agents in your zip code. You authorize these agent networks to share your information with their vendors, suppliers, and insurance carriers in order to generate information for your quotes. By submitting a quote request, you acknowledge that this Site's service requires you to agree that our partner companies may obtain a consumer report or credit score from a consumer reporting agency (also known as a credit bureau) and that these partner companies do not have the right to obtain a consumer report or credit score without your written instruction which you are granting by clicking the submit button. Accordingly, by submitting a quote request you instruct consumer reporting agencies to provide a consumer report or credit score on you to these partner companies if requested within a reasonable date from the time you submit information to this Site. In the event that one of our partner companies obtains this credit information such partner company will not share this information with any other party, including insurance carriers, but insurance carriers may elect to obtain credit information on their own in connection with the quoting and underwriting of the requested insurance. Where permitted by law, some insurance companies or their agents may confirm your information, through the use of consumer reports, which may include credit score and driving record. 
+
+  
+
+
+#### Anti-Spam Policy
+
+We have crafted a strong, zero-tolerance anti-spam policy to protect you. If you feel you have been sent spam, please email us at [info@Registertovote.org](mailto:info@Registertovote.org) and we'll immediately take steps to solve the problem. We hold the privacy of all users in the highest regard, as well as the recipients of emails sent by our advertisers. 
+
+  
+
+
+#### The Federal CAN-SPAM Act
+
+The Federal CAN-SPAM Act, put into law in 2003, dictates rules in sending commercial email. We vigorously follow these rules and add a few more for added safety. 
+
+  
+
+
+#### Communicating with Children
+
+Our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, contact us and we will delete the information about the child referenced from our files. 
+
+  
+
+
+#### California Privacy Rights
 
 California Civil Code Section 1798.83, permits our Web site users who are California residents to request and obtain from us once a year, free of charge, information about the PERSONAL INFORMATION (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, should you be a California resident and would like to make such a request, please submit your request in writing to: Registertovote.org at 1521 Alton Road Suite 488, Miami Beach, FL 33139 
 
-**Questions?**
+  
 
-Contact us if you have any questions about our privacy practices or your dealings with the REGISTERTOVOTE , please do not hesitate to contact info@registertovote.org
 
-**Terms and Conditions**
+#### Questions?
 
-Please also read the Terms and Conditions establishing the use, disclaimers, and limitations of liability governing the use of the Site, the Registertovote services and other REGISTERTOVOTE features and applications. 
+If you have any questions about our privacy practices or your dealings with the Registertovote.org, please do not hesitate to contact [info@Registertovote.org](mailto:info@Registertovote.org)
+
+  
+
+
+#### [Terms and Conditions](https://web.archive.org/tc.html)
+
+Please also read the [Terms and Conditions](https://web.archive.org/tc.html) establishing the use, disclaimers, and limitations of liability governing the use of the Site, the Registertovote.org services and other Registertovote.org features and applications. 
+
+This site is privately owned and is neither operated by, nor affiliated with, any government agency. 
+
+Copyright ? Registertovote.org 2012 All Rights. 
