@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bevomedia.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117041008id_/http%3A//beta.bevomedia.com/PrivacyPolicyBevoMedia.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevomedia.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004152838id_/http%3A//bevomedia.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Bevo Media Affiliate Portal - Your Affiliate Marketing Homebase
+# The Bevo Media Exchange - The Performance Marketing Exchange For Affiliate Marketing
 
 BevoMedia, LLC (' **BevoMedia** ') is committed to respecting the privacy rights of users of BevoMedia's website (the ' **Website** ') and the services available through the website (the ' **Services** '). BevoMedia created this Privacy Policy to give you (' **You** ' or ' **Your** ') confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
