@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivahabandhan.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507042145id_/http%3A//www.vivahabandhan.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivahabandhan.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004081122id_/http%3A//www.vivahabandhan.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# About Vivahabandhan.com India's most comprehensive Matrimonial Web portal
+# Matrimonial Services | Free Marriage Sites | Genuine Matrimony Profiles
 
   
 
