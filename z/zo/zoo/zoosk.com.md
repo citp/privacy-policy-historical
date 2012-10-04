@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoosk.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511233514id_/https%3A//www.zoosk.com/privacy.php%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoosk.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005015817id_/https%3A//www.zoosk.com/privacy.php%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # Zoosk Privacy Policy | Zoosk.com
 
@@ -90,7 +90,7 @@ We reserve the right to modify this Policy from time to time. If we make any cha
 
   8. ### CONTACTING ZOOSK
 
-If you have questions about this Policy, please contact us at privacy@zoosk.com or by writing to us at: Zoosk, Inc., Attn: Privacy Matters, 475 Sansome Street, San Francisco, CA 94111 
+If you have questions about this Policy, please contact us at privacy@zoosk.com or by writing to us at: Zoosk, Inc., Attn: Privacy Matters, 989 Market Street, San Francisco, CA 94103 
   9. ### LAST REVISION DATE
 
 This Policy was last revised on August 11, 2011.
