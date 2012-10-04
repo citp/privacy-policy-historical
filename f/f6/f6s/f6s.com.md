@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the f6s.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506041712id_/http%3A//www.f6s.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f6s.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004123004id_/http%3A//www.f6s.com/privacy-policy) for the most accurate reproduction.*
 
-# f6s
+# Privacy policy | f6s
 
 We have written this policy to explain how Cloud Speed Ltd trading as f6s ("we", "us" or "f6s") uses the data you give us through our site(s), including but not limited to f6s.com. 
 
