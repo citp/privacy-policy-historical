@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511122738id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004173756id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
 
-# Tents | Camping Equipment | Outdoor Clothing & Waterproof Clothing
+# GO Outdoors | Tents & Camping Equipment | Outdoor Clothing & Waterproof Clothing
 
 ### We are committed to protecting your **privacy**. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
@@ -32,4 +32,8 @@ Cookies are small text files that a web site stores on a site visitor's hard dis
 
 Use of cookies is an industry standard and many web sites use them. If you do not wish to receive cookies, or want to be notified of when they are placed, you can set your web browser to do so, if your browser so permits. Please note that by disabling future cookies or deleting current ones will restrict your access to certain areas or features of our site and you will not be able to set up an account or login to an existing one.
 
-Go Outdoors only keeps cookies for the duration of your visit to our website, and they are used solely for tracking your visit through the website. Without them we couldn't keep track of what's in your shopping basket or tailor the website content to you.
+GO Outdoors only keeps cookies for the duration of your visit to our website, and they are used solely for tracking your visit through the website. Without them we couldn't keep track of what's in your shopping basket or tailor the website content to you.
+
+Third party cookies may also be used on the GO Outdoors website to tailor ads to our customers, these can be opted out of at any time. 
+
+[More info on cookies](https://web.archive.org/use-of-cookies)
