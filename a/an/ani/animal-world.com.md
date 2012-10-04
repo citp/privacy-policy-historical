@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the animal-world.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217023108id_/http%3A//animal-world.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animal-world.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004032200id_/http%3A//animal-world.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Animal-World Privacy Policy
+
+* * *
 
 ## About Us
 
