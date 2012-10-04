@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609044123id_/http%3A//www.churchstaffing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004033728id_/http%3A//www.churchstaffing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Church Jobs, Pastor Jobs, Listings, Ministry Employment, Church Ministries, Pastors Openings
 
