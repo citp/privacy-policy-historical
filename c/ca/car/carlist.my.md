@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608080448id_/http%3A//www.carlist.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004042716id_/http%3A//www.carlist.my/privacy.php) for the most accurate reproduction.*
 
 # Cars for Sale · Used Cars · Car Price › Malaysia's No.1 Car Site » Carlist.my
 
@@ -81,6 +81,6 @@ Contact Information
 
 If you have any questions or comments regarding this Privacy Policy, please fill up the Feedback form from the Site or send an email to enquiries@carlist.my.
 
-We welcome your feedback. Should you feel dissatisfied with any of our services, please contact us at Tel: +603.7710.0199, Fax: +603.7710.0197
+We welcome your feedback. Should you feel dissatisfied with any of our services, please contact us at Tel: +603.7662.6000, Fax: +603.7710.0197
 
 Our mailing address is at E-610, East Wing, Metropolitan Square, Jln PJU 8/1, Damansara Perdana, 47820, Petaling Jaya, Selangor, Malaysia.
