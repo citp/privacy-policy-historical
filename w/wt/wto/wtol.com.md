@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wtol.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323223327id_/http%3A//www.wtol.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtol.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004202707id_/http%3A//www.toledonewsnow.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WTOL.com: News, Weather and Sport for Toledo, Ohio
+# Privacy Policy - ToledoNewsNow.com: News, Weather & Sports for Toledo, OH
 
 **Privacy Policy**
 
