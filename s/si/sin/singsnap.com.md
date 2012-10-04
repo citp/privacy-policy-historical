@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the singsnap.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502192330id_/http%3A//www.singsnap.com/karaoke/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singsnap.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004152143id_/http%3A//www.singsnap.com/karaoke/home/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | SingSnap Karaoke
+# Privacy Policy | SingSnap Karaoke
 
-This privacy notice discloses the privacy practices for SingSnap. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy policy discloses the privacy practices for SingSnap. It applies solely to information collected by this web site. It will notify you of the following:
 
   * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   * What choices are available to you regarding the use of your personal data.
@@ -60,4 +60,4 @@ This web site contains links to other sites. Please be aware that we are not res
 
 From time-to-time our site requests information via surveys. Participation in these surveys is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and address), and demographic information (such as zip code, age level). Survey information will be used for purposes of improving the use and satisfaction of this site.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via private message ([SingSnapSupport](http://www.singsnap.com/karaoke/profile/message/aa1008d2)), telephone (877-867-8668) or via email ([support@singsnap.com](mailto:support@singsnap.com)).
+If you feel that we are not abiding by this privacy policy, you should contact us immediately by sending an email to [support@singsnap.com](mailto:support@singsnap.com).
