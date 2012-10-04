@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chiarafashion.co.uk privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221183217id_/http%3A//www.chiarafashion.co.uk/st/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiarafashion.co.uk privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004180209id_/http%3A//www.chiarafashion.co.uk/st/help/%3Fx%3D12) for the most accurate reproduction.*
 
-# Help zone - chiarafashion
+# ChiaraFashion-Shop Online Trendy Womens, Cheap Dresses, Party Dresses, Evening Dresses, Tops, Leggings
 
 When you provide us with your personal information, you are fully aware and consent to those information being stored in our servers. We may collect personal and financial information from you such as your name, address, email address, credit/debit card details and bank account numbers, your transactional history with us, your correspondence to us and the content you generate when you visit our site.
 
