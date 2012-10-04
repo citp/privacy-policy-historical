@@ -1,83 +1,96 @@
-> *The following text is extracted and transformed from the sportsmanswarehouse.co.za privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501045422id_/http%3A//www.sportsmanswarehouse.co.za/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmanswarehouse.co.za privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004102909id_/http%3A//www.sportsmanswarehouse.co.za/privacy-policy.html) for the most accurate reproduction.*
 
-# Sportsmans Warehouse Privacy Policy
+# Privacy Policy
 
-1 | **General**  
----|---  
-1.1 | This privacy policy sets out how Moresport (Pty) Ltd. (trading as Sportsmans Warehouse, hereafter referred to as “Sportsmans Warehouse”) uses and protects any information that you give Sportsmans Warehouse when you use this website.  
-1.2 | This online privacy policy applies only to information collected through our website and not to information collected offline.  
-1.3 | Sportsmans Warehouse is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website; you can be assured that it will only be used in accordance with this privacy statement.  
-1.4 | Sportsmans Warehouse may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 15 January 2010.  
-1.5 | Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.sportsmanswarehouse.co.za  
-1.6 | By using our site, you consent to our privacy policy  
-2. | **What we collect**  
-  | We collect information from you when you register on our site, conduct an online search or make a payment. When ordering or registering on our site, as appropriate, you may be asked to enter.  
+**MORESPORT (PTY) LTD TRADING AS SPORTMANS WAREHOUSE**
 
+  1. **Moresport's Privacy Policy**
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * phone numbers
-  * credit card or other payment information
-  * information relevant to customer surveys and/or offers
+Moresport respects consumers' constitutional rights to privacy and data protection. Accordingly, Moresport believes in protecting the personal information we collect from you when you use the www.sportmanswarehouse.co.za website ("our website"). Moresport will use its best commercial endeavours to only use or disclose your personal information in the manner stated in this policy. 
 
+This privacy policy forms part of the Moresport website terms and conditions.
+
+  2. **Personal information**
+
+Personal information refers to all information about you as an identifiable individual, including your name, address, e mail address, telephone number, and identity number.
+
+  3. **Personal information collected**
+
+3.1
+    Limited personal information is collected using cookies. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our website. It enables our own system to recognise you when you visit our website again and to improve our service to you. Cookies may also be used to compile aggregate information about areas of our website that are visited most frequently. This information can be used to enhance the content of our website and make your use of it easier. We do not monitor which pages you looked at while visiting our website. You can disable our use of cookies by configuring your browser accordingly.
+3.2
+    In order to register for certain services or to enter competitions or promotions offered through our website  Moresport will from time to time ask you for relevant personal information. Moresport will use such information to provide the services to you. Moresport may also use such information for its own internal purposes including– 
+
+3.2.1
+    establishing and verifying your identity;
+3.2.2
+    maintaining and updating our customer databases; and 
+3.2.3
+    marketing, product research and development purposes.
+  4. **Storage of personal information**
+
+4.1
+    Moresport uses all reasonable endeavours to put in place and maintain electronic procedures and systems to ensure accuracy and to prevent unauthorised access to your personal information with reference to accepted technological standards.
+4.2
+    Virtual Card Services process all credit card transactions. All credit card transactions are 128 bit Secure Socket Layers (SSL) encrypted. 
+
+VCS's registration documents and the site's registered domain name are checked and verified by Thawte, ensuring the cardholder and merchant that nobody can impersonate VCS to obtain confidential information. Virtual Card Services is committed to providing secure online services. All encryption complies with international standards. Encryption is used to protect the transmission of personal information when completing online transactions. Virtual Card Services Internet servers are protected by firewalls and intrusion detection systems. The Merchant does not have access to credit details. Virtual Card Services continually reviews and enhances its security in line with technological changes.
+
+  5. **Personal information shared**
+
+5.1
+    Moresport will not sell, rent or otherwise disclose your personal information to any third party without your consent, provided that by using our website and/or subscribing for any of our services, you provide your express and informed consent for Moresport to disclose your personal information to third parties as follows: 
+
+5.1.1
+    to third party companies employed by Moresport to provide services for us, including for example, website hosting and development. These companies require access to your personal information to perform their functions and not for any other purposes; 
+5.1.2
+    to transfer Moresport's customer database/s, including personal information contained therein, to any third party who acquires all or substantially all of the assets or shares in our company or our website service whether by sale, merger, acquisition or otherwise;
+5.1.3
+    to governmental agencies, exchanges and other regulatory or self-regulatory organisations if Moresport is required to do so by law or if we believe that such action is necessary to: 
+
+5.1.3.1
+    comply with the law or with any legal process;
+5.1.3.2
+    protect and defend our rights and property or that of our customers and companies in our group;
+5.1.3.3
+    prevent fraud or abuse, misuse or unauthorised use of our website; and/or
+5.1.3.4
+    protect the personal safety or property of our customers or the public (if you provide false or deceptive information about yourself or misrepresent yourself as being someone else, Moresport will disclose such information to the appropriate regulatory bodies and commercial entities).
+5.2
+    Moresport reserves the right to share non-personal, non-individual information in aggregate form with third parties for business purposes, for example with advertisers on our website or business associates and partners. This does not involve disclosing any personal information which can identify any individual consumer in any way.
   
-3. | **What we do with the information we gather**  
-  | We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-  * To greet you when you access the Website and/or to verify your identity when transacting on our site;
-  * To process requests: Your information, whether public or private, will not be given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested;
-  * To compile non-personal statistical information about browsing habits, click-patterns and access to the Website;
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  We will only do so when you have consented to receiving such communication – we will not send you unsolicited information; and
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests, and/or to improve our products and services.
+  6. **Legal Disclaimer**
 
+6.1
+    We reserve the right to disclose your personally identifiable information to governmental bodies, exchanges and other regulatory or self-regulatory organisations if Moresport is required to do so by law or if we believe that such action is necessary as set out in 5.1.3.
+6.2
+    In addition, we may disclose information if required to do so to any regulatory authorities in connection with any investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose Moresport to legal liability.
   
-4. | **How do we protect your information?**  
-4.1 | We implement a variety of security measures to maintain the safety of your personal information when you make use of the website, and have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online, including but not limited to: 
 
-  *  
-    * We offer the use of a secure server. 
-    * All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
-    * After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
+  7. **Links**
 
-  
-5. | **How we use cookies**  
-  | 
+Our website contains links to other websites. Please note that we are not responsible for the privacy practices of third party websites or the manner in which they use cookies and advise you to read the privacy statements of each website you visit which collects personal information.
 
-  * A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. 
-  * Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
-  * We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
-  * Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. 
-  * A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
-  * You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+  8. **Communicating with us**
 
-  
-6. | **Links to other websites**  
-  | Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. 
+It is very important that the information that Moresport has about you is accurate and current. If you would like to receive a copy of the information we hold about you (subject to our right to charge you a fee to cover our expenses in this regard), to correct or update your information, or to ask any questions about this privacy policy, please contact us.
 
-You should exercise caution and look at the privacy statement applicable to the website in question.  
-  
-7. | **Controlling your personal information**  
-7.1 | You may choose to restrict the collection or use of your personal information in the following ways: 
+  9. **Communicating with you / Opting Out**
 
-  *  
-    * whenever you are asked to fill in a form on the website, look for the box (generated by your email client, e.g. Internet Explorer, Firefox, etc.) that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-    * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by changing your registration details on our registration page, or by emailing us at websitesupport@swh.co.za. 
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information.
 
-  
-7.2 | We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential  
-7.3 | We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.  
-7.4 | We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen  
-7.5 | We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.  
-7.6 | Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.  
-8. | **Contacting Us**  
-8.1 | If there are any questions regarding this privacy policy you may contact us using the information below.   
-Website: <http://www.sportsmanswarehouse.co.za/>   
-Postal addres:  
-P.O. Box 2721  
-Cape Town  
-Western Cape  
-8000  
-South Africa E-mail: [websitesupport@swh.co.za](mailto:websitesupport@swh.co.za)  
-8.2 | You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee may be payable. If you would like a copy of the information held on you please write to us at the address as listed above.  
-8.3 | If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us on [websitesupport@swh.co.za](mailto:websitesupport@swh.co.za) as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication.
+
+  10. **Changes to this Privacy Policy**
+
+We reserve the right to modify this policy at any time, so please review it frequently. If we decide to change our privacy & security policy, we will post changes to this page. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+The amended privacy & security policy will supersede and replace any previous policies with effect from the date on which it is posted on our website.
+
+  11. **Contact Us**
+
+If you have any questions or suggestions regarding our privacy & security policy, please email the Webstore at [onlinesales@swh.co.za](mailto:onlinesales@swh.co.za).
+
+
+
