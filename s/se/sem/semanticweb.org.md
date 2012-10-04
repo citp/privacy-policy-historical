@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semanticweb.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620035417id_/http%3A//semanticweb.org/wiki/semanticweb.org%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semanticweb.org privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004053018id_/http%3A//semanticweb.org/wiki/semanticweb.org%3APrivacy_policy) for the most accurate reproduction.*
 
 # semanticweb.org:Privacy policy - semanticweb.org
 
