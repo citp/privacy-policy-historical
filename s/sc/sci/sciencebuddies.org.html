@@ -1,145 +1,133 @@
-<!--The following is the downloaded HTML source of the sciencebuddies.org privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216152645id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sciencebuddies.org privacy policy that was archived on 2012-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005013527id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml) for the most accurate reproduction.-->
 
-<html><head>
-<!-- Edit date = 07/22/2003 TL 
-TL  10/26/2005 (added COPPA compliance statement)
-DBS 05/09/2007 (changed AAEMP to CS)
-DBS 05/16/2007 (updates)
-KLH 05/17/2007 (update)
-DBS 12/2007  (new directory)
- -->
-<title>Science Buddies: Privacy Policy</title>
+<!DOCTYPE html><html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <title>Science Buddies: Privacy Policy</title>
 
-<script language="Javascript">
-// Define page specific global variables for use by scripts below.
-var page_title = "Privacy Policy";
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+   document.domain = 'sciencebuddies.org';
 </script>
 
-<link rel="stylesheet" href="style.css" type="text/css">
-<link rel="stylesheet" href="style_howto.css" type="text/css">
+<link rel="stylesheet" href="http://www.a1.sciencebuddies.org/Dirs/1/78/css/all.css" type="text/css" media="all" title="">
+<link rel="stylesheet" href="http://www.a1.sciencebuddies.org/Dirs/2/13/jquery-ui-1.7.2b.custom.css" type="text/css" media="all" title="">
+
+<script src="http://www.a1.sciencebuddies.org/Dirs/2/13/jquery-1.6.2.min.js" type="text/javascript"></script>
+<script src="http://www.a1.sciencebuddies.org/Dirs/2/13/jquery.ba-hashchange.min.js" type="text/javascript"></script>
+<script src="http://www.a1.sciencebuddies.org/Dirs/2/13/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
+<script src="http://www.a1.sciencebuddies.org/Dirs/1/78/js/sb.js" type="text/javascript"></script>
+<script type="text/javascript">
+document.write('<meta name="viewport" content="width=' + (screen.height >= 1024 ? '1024' : '980') + 'px">');
+</script><meta name="viewport" content="width=980px">
 
 
-<script language="JavaScript">
-// This routine parses the URL search string.  For example, www.xyz.com?from=homepage
-// parses into a var "from" equal to "homepage".
-// KLH 09/01/2004
-// DBS 10/12/2007 added fave argument  11/20/2007 isb friend  08/25/2008 breadcrumb_state 
-
-// Need to define a variable for which there is logic in subsequent JavaScripts.  If undefined, "if" statements containing the 
-// variable are not processed.
-var from = "empty";
-var fave = "empty";
-var isb = "empty";
-var friend = "empty";
-var breadcrumb_state = "empty";
-
-if (location.search.length > 0) { 
-	launchstring = location.search.substring(1, location.search.length); 
-	var launchstringArray = launchstring.split("&"); 
-	for (var i = 0; i <= launchstringArray.length - 1; i++) { 
-		var left = launchstringArray[i].substring(0, launchstringArray[i].indexOf("=")); 
-		var right = launchstringArray[i].substring(launchstringArray[i].indexOf("=") + 1, launchstring.length); 
-		if (isNaN(right)) { 
-			right = '"' + right + '"'; 
-		} 
-		eval("var " + left + " = " + right); 
-	} 
-} 
-</script>
 </head>
 
-<body><div align="left">
-<span class="BODYTEXT">
+<body>
 
-<script language="Javascript">
-// DBS 03/01/2007 (Howto redo - General top of page - Banner & breadcrumbs only) 
-// DBS 10/16/2007 (Remove blacklinks)
-// DBS 11/15/2007 (new tabs) 
+   
+<div id="main">
+   <div id="header" class="only-screen">
+   <a href="/" id="header-logo" onclick="sb.track(true, 'Header', 'Logo');"></a>
+   <div id="header-items">
+      <div class="non-icons">
+         <span><a href="/science-fair-projects/donating.shtml" class="donate" onclick="sb.track(true, 'Header', 'Donate');">DONATE</a></span>
+         <span><a href="#" class="login-link" onclick="sb.track(true, 'Header', 'Login');">Log In</a> / <a href="/science-fair-projects/student_parent_teacher_register.php" target="_top" onclick="sb.track(true, 'Header', 'Sign Up');">Sign Up</a></span>
+      </div>
+      <a class="print print-link" href="#" target="_top" onclick="sb.track(true, 'Header', 'Print');"></a>
+      <a class="email email-link" href="#" target="_top" onclick="sb.track(true, 'Header', 'Email');"></a>
+   </div>
 
-function SetValue1 (form) {
-	// location.href is the current page URL, split is a javascript function that splits the string on the character in it's argument.
-	form.URL.value = location.href.split("?")[0];
-	return TRUE;
-}
-  
-</script>
+   <div id="header-search">
+   <form id="search-form" action="/science-fair-projects/search.shtml">
+      <input id="search-input" name="t">
+      <input type="hidden" id="search-query" name="q" value="">
+      <input type="hidden" name="cof" value="FORID:9">
+      <input type="hidden" name="cx" value="006938645102073751460:5g77bgclmby">
+      <div id="search-menu" onmouseover="$('#search-menu').addClass('selected'); $('#search-dropdown').show();" onmouseout="$('#search-menu').removeClass('selected'); $('#search-dropdown').hide();">
+         <div id="search-text" class="text">All Results</div>
+         <a class="arrow" href="#"></a>
+         <div id="search-dropdown">
+            <div class="top"></div>
+            <div class="middle">
+               <a class="item" href="#" onclick="return searchFilter(this, '');">All Results</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'inurl:phpBB3');">Ask an Expert</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'inurl:/blog/');">Blog</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'inurl:science-engineering-careers');">Careers</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'inurl:project_ideas');">Project Ideas</a>
+            </div>
+            <div class="bottom"></div>
+         </div>
+      </div>
+      <a id="search-button" href="#" onclick="$('#search-form').submit(); return false;"></a>
+   </form>
+</div>
+</div>
+
+<div id="header-logo-print" class="only-print">
+   <img src="http://www.a1.sciencebuddies.org/Dirs/1/78/img/logo-print.jpg" alt="" width="340" height="70">
+</div>
+   <div id="tabs-menus" class="only-screen">
+   <div id="tab8-menu" onmouseout="$('#tab8-menu').hide();" onmouseover="$('#tab8-menu').show();">
+      <div class="top"></div>
+      <div class="middle">
+         <a href="/science-fair-projects/student_resources.shtml" class="item" onclick="sb.track(true, 'Tab', 'Student');">Student</a>
+         <a href="/science-fair-projects/parent_resources.shtml" class="item" onclick="sb.track(true, 'Tab', 'Parent');">Parent</a>
+         <a href="/science-fair-projects/teacher_resources.shtml" class="item" onclick="sb.track(true, 'Tab', 'Teacher');">Teacher</a>
+      </div>
+      <div class="bottom"></div>
+   </div>
+
+   <div id="tab9-menu" onmouseout="$('#tab9-menu').hide();" onmouseover="$('#tab9-menu').show();">
+      <div class="top"></div>
+      <div class="middle">
+         <a href="/science-fair-projects/aboutus.shtml" class="item" onclick="sb.track(true, 'Tab', 'About Us');">About Us</a>
+         <a href="/science-fair-projects/classroom_activity_resources.shtml" class="item" onclick="sb.track(true, 'Tab', 'Activities');">Activities</a>
+         <a class="item" href="/science-fair-projects/project_ideas.shtml#buyptojectkits" onclick="sb.track(true, 'Tab', 'Project Kits');">Project Kits</a>
+      </div>
+      <div class="bottom"></div>
+   </div>
+</div>
+
+<div id="tabs" class="only-screen">
+   <a href="/" id="tab1" onclick="sb.track(true, 'Tab', 'Home');"></a>
+   <a id="tab2" href="/science-fair-projects/project_ideas.shtml" onclick="sb.track(true, 'Tab', 'Project Ideas');"></a>
+   <a href="/science-fair-projects/project_guide_index.shtml" id="tab3" onclick="sb.track(true, 'Tab', 'Project Guide');"></a>
+   <a id="tab4" href="/science-fair-projects/ask_an_expert_intro.shtml" onclick="sb.track(true, 'Tab', 'Ask An Expert');"></a>
+   <a id="tab5" href="/blog/index.php" onclick="sb.track(true, 'Tab', 'Blog');"></a>
+   <a href="/science-fair-projects/science_careers.shtml" id="tab6" onclick="sb.track(true, 'Tab', 'Careers');"></a>
+   <a href="/science-fair-projects/mysciencebuddies.shtml" id="tab7" onclick="sb.track(true, 'Tab', 'My Science Buddies');"></a>
+   <a id="tab8" onmouseover="$('#tab8-menu').show();" href="#"></a>
+   <a id="tab9" onmouseover="$('#tab9-menu').show();" href="#" class="selected"></a>
+</div>
+   <div id="content">
+      <div id="title"><h1>Privacy Policy </h1></div>
+      <noscript class="only-screen no-js">
+Please ensure you have JavaScript enabled in your browser.  If you leave JavaScript disabled, you will only access a portion of the content we are providing. <a href="/science-fair-projects/javascript_help.php">Here's how.</a>
+</noscript>
+
+      
+<div id="menu-icons" class="nosubtab">
+   <div class="item">
+      <a class="email email-link" href="#" onclick="sb.track(true, 'MenuIcons', 'Email');"></a>
+   </div>
+   <div class="item">
+      <a class="print print-link" href="#" onclick="sb.track(true, 'MenuIcons', 'Print');"></a>
+   </div>
+</div>
 
 
-<style type="text/css"> 
-H1{  background-color: #D0C7BB}
-table#breadcrumbs {background-color:#D0C7BB}
-</style>
 
-
-<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="100%" height="85">
-	<tbody><tr>
-		<td align="left" valign="top" id="blacklink">
-			<a href="/"><img src="/science-fair-projects/bannertabs/science_fair_project_ideas_tag.gif" width="435" height="51" hspace="0" vspace="8" border="0" alt="Free Science Fair Project Ideas, Answers and Tools for Serious Students"></a>
-		</td>
-		<td align="right" valign="top">
-			<a href="/"><img src="/science-fair-projects/bannertabs/science_fair_project_ideas_logo.jpg" width="350" height="80" vspace="4" hspace="8" border="0" alt="Science Buddies"></a>
-		</td> 		
-	</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="100%" height="26">
-	<tbody><tr bgcolor="#000000" height="26"> 
-	<td valign="bottom" align="left" width="1">&nbsp;</td>   
-		<td valign="bottom" align="left" width="63">
-			<a href="/">
-			<img src="/science-fair-projects/bannertabs/tabs_tsw_01.gif" width="63" height="26" border="0" alt="Science Fair Project Ideas"></a></td>
-		<td valign="bottom" align="left" width="105">
-			<a href="/science-fair-projects/project_ideas.shtml">
-				<img src="/science-fair-projects/bannertabs/tabs_tsw_02.gif" width="105" height="26" border="0" alt="Science Fair Project Ideas"></a></td>
-		<td valign="bottom" align="left" width="107">
-			<a href="/science-fair-projects/project_guide_index.shtml">
-				<img src="/science-fair-projects/bannertabs/tabs_tsw_03.gif" width="107" height="26" border="0" alt="Science Fair Project Guide"></a></td>
-		<td valign="bottom" align="left" width="103">
-			<a href="/science-fair-projects/ask_an_expert_intro.shtml">
-				<img src="/science-fair-projects/bannertabs/tabs_tsw_04.gif" width="103" height="26" border="0" alt="Ask an Expert"></a></td>
-		<td valign="bottom" align="left" width="70">
-			<a href="/science-fair-projects/teacher_resources.shtml">
-				<img src="/science-fair-projects/bannertabs/tabs_tsw_05.gif" width="70" height="26" border="0" alt="Teacher Resources"></a></td>
-		<td valign="bottom" align="left" width="94">
-			<a href="/science-fair-projects/competitions_index.shtml">
-				<img src="/science-fair-projects/bannertabs/tabs_tsw_06.gif" width="94" height="26" border="0" alt="Science Fair Competitions "></a></td>	
-
-		<td valign="bottom" align="right" font="" size="1">
-		<form id="searchbox_006938645102073751460:5g77bgclmby" action="http://www.sciencebuddies.org/science-fair-projects/search.shtml">
-<input type="hidden" name="cx" value="006938645102073751460:5g77bgclmby">
-<input type="text" name="q" size="30" style="display: inline; width:180; height:18; font-size: 8pt; margin-top:1px; margin-bottom:1px;" maxlength="255" value=""> &nbsp; 
-<input type="submit" name="sa" value="Search" style="display: inline; width:55; height:18; border:0; color:#ffffff; background-color:#000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;   text-decoration: underline;  vertical-align: bottom; margin-bottom:0px;">&nbsp;&nbsp;&nbsp;&nbsp;
-<input type="hidden" name="cof" value="FORID:9">
-		</form></td>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_006938645102073751460%3A5g77bgclmby"></script>
-</tr>
-</tbody></table>
-
-<table border="0" cellspacing="0" id="breadcrumbs" width="100%">
-	<tbody><tr>  
-	<td align="left"><a href="/">Home</a>&nbsp;&gt;&nbsp;
-		<script type="text/javascript">
-		document.write("<A HREF=' " + document.URL +"'>" + document.title + "</A>") 
-		</script><a href=" https://web.archive.org/web/20081216152645id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml">Science Buddies: Privacy Policy</a>
-	</td>
-	</tr>
-</tbody></table>
-
-
-
-
-<!-- Enter the page contents here. -->
-
-<h1>Privacy Policy</h1>
-
-<span class="BODYTEXT">
+<span class="bodytext">
       
 <p></p><ol type="I">
 <li>Our Commitment to Privacy 
 </li><li>The Information We Collect 
 </li><li>Cookies
 </li><li>The Way We Use Information 
-</li><li>Science Buddies E-mail Policy
+</li><li>Science Buddies Email Policy
 </li><li>Our Commitment to Data Security 
 </li><li>How to Access or Correct Your Information 
 </li><li>How to Contact Us 
@@ -148,51 +136,65 @@ table#breadcrumbs {background-color:#D0C7BB}
 
 <ol type="I">
 <li><b>Our Commitment to Privacy</b>
+
 <p>Science Buddies is committed to providing a safe and secure website for people of all ages. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while exploring the Internet.  To further protect the privacy of children under 13 years of age, this website complies with the Children's Online Privacy Protection Act (COPPA).</p>
 
-<p>To help ensure a rewarding online experience for all visitors, we provide this summary of our information practices. This privacy notice governs the collection and use of information at ScienceBuddies.com.</p>
+<p>To help ensure a rewarding online experience for all visitors, we provide this summary of our information practices. This privacy notice governs the collection and use of information at ScienceBuddies.org.</p>
 
 <p>As we continue to offer our visitors new and different types of content and services, we may modify our practices from time to time. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected.</p>
 
-</li><li><b>The Information We Collect:</b>
-<p>At ScienceBuddies.com we do not collect personally identifiable information unless our visitors voluntarily provide it to us.  For some tools on our website such as the Topic Selection Wizard, we may ask visitors to provide information that is not personally identifiable. This might include zip code, gender, grade level, or ethnicity.  For other tools, such as the Help Button, Email This, and some of our online surveys, we ask visitors to provide us with an e-mail address.  E-mail addresses collected through our Help Button and Email This are deleted from our database once the help request has been filled.  For ongoing activities such as the Ask an Expert Forums (bulletin boards), we ask visitors to provide us with a username, zip code, and email address to create an online account.</p>
-<p>For select programs such as our online mentoring, we ask for more detailed information which we use to develop program requirements and ensure the safety of all participants.   To apply as a volunteer for Science Buddies or as a participant in one of our mentoring programs, visitors need to provide us with personal information so that we are better able to place participants in a suitable role or mentoring environment. The types of information collected at these pages include:  name, address, email address, phone number, academic, background, interests, (etc...)  On some pages, visitors are asked to submit information about other people. For example, student applicants will need to submit a parent's email address. In this circumstance, the types of personal information collected include:  name, address, email address, phone number, age, gender, ethnicity, parent name, parent education, school name, academic background, interests.</p>
-<p>When a child under thirteen participates in an ongoing activity that requires the collection, retention, and use of personal information, we will disclose this request to the parent either through a written request or email, so that we can notify the parent that we have received personal information from their child. We do not knowingly collect names and e-mail addresses from children under thirteen for these types of activities without notifying the parent and giving the parent the option to remove their child's e-mail address from the applicable database for that activity.</p>
+</li><li><b>The Information We Collect</b>
+<p>At ScienceBuddies.org we do not collect personally identifiable information, unless our visitors voluntarily provide it to us.  For some tools on our website, such as the Topic Selection Wizard, we may ask visitors to provide information that is not personally identifiable. This might include zip code, gender, grade level, or ethnicity.  For other tools—such as the Help button, "Email This" feature, and some of our online surveys—we ask visitors to provide us with an email address.  Email addresses collected through our Help button and "Email This" feature are deleted from our database once the help request has been filled.  For ongoing activities, such as the Ask an Expert Forums (bulletin boards), we ask visitors to provide us with a username and password, zip code, and email address to create an online account. Upon receipt, we will inform the parents of registration, via email. Once the parent has access to the username and password, he or she will be able to change and even delete any personal information. If you would like Science Buddies to stop collecting and using your child's information, please email <a href="MAILTO:scibuddy@sciencebuddies.org?subject=Privacy Policy: Stop Information">scibuddy@sciencebuddies.org</a>.</p>
+<p>For select programs, such as our online mentoring, or becoming a Science Buddies Member, we ask for more detailed information, which we use to develop program requirements and to ensure the safety 
+of all participants.   To apply as a volunteer for Science Buddies, or as a participant in one of our mentoring programs, visitors need to provide us with personal information so that we are better able to place participants in a suitable role or mentoring environment. The types of information collected at these pages include:  name, address, email address, phone number, academic, background, interests, (etc.)  On some pages, visitors are asked to submit information about other people. For example, student applicants will need to submit a parent's email address. In this circumstance, the types of personal information collected include:  name, address, email address, phone number, age, gender, ethnicity, parent name, parent education, school name, academic background, interests.</p>
+
+<p>When a child under 13 participates in an ongoing activity (i.e., online mentoring and the Ask an Expert Forums) that requires the collection, retention, and use of personal information, we will disclose 
+this request to the parent through an email, so that we can notify the parent that we have received personal information from his or her child. We do not knowingly collect names and email addresses from children under 13 for these types of activities without notifying the parent and giving the parent the option to remove his or her child's email address from the applicable database for that activity. If you would like Science Buddies to stop collecting and using your child's information, please email 
+<a href="MAILTO:scibuddy@sciencebuddies.org?subject=Privacy Policy: Stop Information">scibuddy@sciencebuddies.org</a>.</p>
+
 </li><li><b>Cookies</b>
 <p>Like many organizations, we use cookies and log files on our website. Cookies are small text files that websites often store on the computer hard drives of visitors to their sites. A cookie contains a unique code, which is used to recognize your computer when a user of your computer returns to a website that was visited previously. Log files are text files that websites like ours automatically create on our own computer servers when a user visits the site. We use cookies and log files to enhance the online experience of our visitors and to better understand how our site is used. Cookies and log files may tell us, for example, whether you have visited our site before or whether you are a new visitor.</p>
  
-<p>The "help" portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all our website features, such as our Topic Selection Wizard.</p>
+<p>The "help" portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, 
+though, without cookies, you may not be able to take full advantage of all our website features, such as our Topic Selection Wizard.</p>
 
-</li><li><b>The Way We Use Information:</b>
+</li><li><b>The Way We Use Information</b>
 <p>We may use information in the following ways: </p>
+
 <ul>
-	<li>For the purposes for which visitors specifically provided the information including, for example, to respond to an inquiry, offer online forums (bulletin boards), or to enable us to process, validate, and verify online registration or match volunteers in the mentoring programs.
-	</li><li>To send you e-mail updates about our new or existing products and services, or to otherwise contact you.
+	<li>For the purposes for which visitors specifically provided the information, including, for example, to respond to an inquiry, offer online forums (bulletin boards), or to enable us to process, validate, 
+and verify online registration or match volunteers in the mentoring programs.
+	</li><li>To send you email updates about our new or existing products and services, or to otherwise contact you.
 	</li><li>To enhance existing features or develop new features, products, and services.
 	</li><li>To communicate with our funders and colleagues about the demographics of who is using our website.
+
 </li></ul>
-<p>In the case of our online mentoring programs, we use the information you provide about yourself to ensure that you are matched with a suitable team. We do not share this information with outside parties. Personal information is used strictly for program administration. On some occasions, we may provide general background information, but not personally identifiable information, about a student and/or a student's school to enable our volunteer Mentors and Advisors to provide appropriate guidance to student participants. For example, we might share with a Mentor that the student with whom he is working is a 7th grade student at a public school in an underserved urban area in a large East Coast city.</p>
+<p>In the case of our online mentoring programs, we use the information provided to ensure that the applicant is matched with a suitable team. We do not share this information with outside parties. 
+Personal information is used strictly for program administration. On some occasions, we may provide general background information, but not personally identifiable information, about a student and/or a student's school to enable our volunteer Mentors and Advisors to provide appropriate guidance to student participants. For example, we might share with a Mentor that the student with whom he is working is a 7th-grade student at a public school in an underserved urban area in a large east coast city.</p>
 
-<p>We use the information you provide about someone else as a secondary contact in the event that you cannot be reached. We do not share this information with outside parties.</p>
+<p>We use the information provided about someone else as a secondary contact in the event that you cannot be reached. We do not share this information with outside parties.</p>
 
-<p>We use return addresses to answer the email we receive and/or to inquire about the user's desire for additional services. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
+<p>We use return addresses to answer the email we receive and/or to inquire about the user's desire for additional services. Such addresses are not used for any other purpose and are not shared with 
+outside parties.</p>
 
-<p>We use non-identifying and aggregate information to better design our program and to share with parties interested in offering financial support to our program. One of the most important uses of such information is to analyze how much traffic our different webpages and services receive.  Or, another example, we may tell a potential funder that X number of women volunteered as advisors, or that Y number of men and Z number of women completed science fair projects, but we would not disclose anything that could be used to identify those individuals.</p>
+<p>We use non-identifying and aggregate information to better design our program and to share with parties interested in offering financial support to our program. One of the most important uses of such information is to analyze how much traffic our different webpages and services receive.  Or, another example, we may tell a potential funder that X number of women volunteered as advisors, or 
+that Y number of men and Z number of women completed science fair projects, but we would not disclose anything that could be used to identify those individuals.</p>
 
-<p>We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our web site and applicable laws, or as otherwise required or permitted by law. In addition, we may transfer personally identifiable information about you if we or one of our business units are acquired by, sold to, or merged with another company. </p>
+<p>We may disclose personally identifiable information in response to legal process; for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our website and applicable laws, or as otherwise required or permitted by law. In addition, we will provide a student's information to school officials when there is any known case of cheating, plagiarism, or fraud, stemming from information provided on our website.  We may also transfer personally identifiable information about you if we or one of our business units are acquired by, sold to, or merged with another company. </p>
 
 <p>We will not use or transfer personally identifiable information in ways that are materially different from the ones described above without also providing parental notification of such practices and obtaining consent for any materially different uses.</p>
 
-<p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing visitors an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+<p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing visitors an opportunity to opt out or otherwise prohibit such unrelated uses. If you would like Science Buddies to stop collecting and using your child's information, please email 
+<a href="MAILTO:scibuddy@sciencebuddies.org?subject=Privacy Policy: Stop Information">scibuddy@sciencebuddies.org</a>.</p>
 
-</li><li><b>Science Buddies E-Mail Policy:</b>
+</li><li><b>Science Buddies Email Policy</b>
 
-<p>ScienceBuddies.com will not share, sell, rent, swap, or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact 
+<p>ScienceBuddies.org will not share, sell, rent, swap, or authorize any third party to use your email address without your permission. If you feel you have received an email from us in error, please contact 
 <a href="MAILTO:scibuddy@sciencebuddies.org?subject=Privacy Policy: Email">scibuddy@sciencebuddies.org</a>.</p>
 
-<p><b>Account and Service-Related E-mail:</b> Science Buddies reserves the right to send you e-mail relating to your account status. This includes confirmations, renewal/expiration notices, other transactional e-mails, and notifications about major changes to our Web sites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.</p>
-<p><b>E-mail Newsletters:</b> Science Buddies occasionally offers e-mail newsletters. If you do not wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter or email 
-<a href="MAILTO:scibuddy@sciencebuddies.org?subject=Privacy Policy: Unsubscribe">scibuddy@sciencebuddies.org</a> to opt-out of our mailing list.</p>
+<p><b>Account and Service-Related Email:</b> Science Buddies reserves the right to send you email relating to your account status. This includes confirmations, renewal/expiration notices, other transactional emails, and notifications about major changes to our websites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive email specific to your participation in those activities.</p>
+<p><b>Email Newsletters:</b> Science Buddies occasionally offers email newsletters. If you do not wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter or email 
+<a href="MAILTO:scibuddy@sciencebuddies.org?subject=Privacy Policy: Unsubscribe">scibuddy@sciencebuddies.org</a> to opt out of our mailing list.</p>
 
 </li><li><b>Our Commitment to Data Security</b>
 <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
@@ -201,10 +203,11 @@ table#breadcrumbs {background-color:#D0C7BB}
 <p>Visitors can access all the personally identifiable information that we collect online and maintain by emailing  
 <a href="MAILTO:scibuddy@sciencebuddies.org?subject=Privacy Policy: Personal Information">scibuddy@sciencebuddies.org</a>. We use this procedure to better safeguard visitor information.</p>
 <p>Visitors can correct factual errors in personally identifiable information by sending us a request that credibly shows error.</p>
+
 <p>To protect visitor privacy and security, we will also take reasonable steps to verify visitor identity before granting access or making corrections.</p>
 
 </li><li><b>How to Contact Us</b>
-<p>If you have any questions, comments, or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address, mailing address, and telephone number:</p>
+<p>If you have any questions, comments, or concerns regarding our privacy policy and/or practices, please contact us at the following email address or mailing address:</p>
 
 Email: <a href="MAILTO:scibuddy@sciencebuddies.org?subject=Privacy Policy: Contact Us">scibuddy@sciencebuddies.org</a>
 
@@ -213,67 +216,164 @@ Science Buddies Privacy<br>
 PO Box 5038<br>
 Carmel, CA &nbsp;93921</p>
 
-<p>Phone:  (925) 640-8770<br>  
-Fax:  (650) 461-8524</p>
-
 </li><li><b>Final Note to Parents  </b>
+
 <p>The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites, and will go a long way toward ensuring that your children have enriching online experiences.</p>
 
 </li></ol>
-
-<!-- End the page contents here. -->
-
-
-</span>
-</span></div>
-<!-- End Main Section --> 
-
-<!-- Begin footer -->
-        <div align="center"> 
-<!-- Begin copyright footer -->
-<p>&nbsp;</p>
-<p>
-<span class="CRUMBS"><b>Science Buddies gratefully acknowledges its Presenting Sponsor</b> <br>
-<a href="http://www.seagate.com"><img src="/science-fair-projects/sponsor_footer_seagate.jpg" hspace="2" border="0" align="bottom"></a> 
-</span>
-<br><br>
-
-<span class="SANSSMALL">
-<a href="/">Science Fair Project Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/aboutus_sponsors.shtml">Our Sponsors</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/aboutus.shtml">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/participate.shtml">Volunteer</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/donating.shtml">Donate</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/contactus.shtml">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/online_store/store_home.shtml">Online Store</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/privacy_policy.shtml">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/image_credits.php">Image Credits</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/SiteMap.shtml">Site Map</a>
-<br><br>
-<a href="/science-fair-projects/project_ideas.shtml">Science Fair Project Ideas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/project_guide_index.shtml">Science Fair Project Guide</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/ask_an_expert_intro.shtml">Ask an Expert</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/teacher_resources.shtml">Teacher Resources</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/science-fair-projects/competitions_index.shtml">Science Fair Competitions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>
-<br><br>
-<span class="CRUMBS">Copyright © 2002-2008 Kenneth Lafferty Hess Family Charitable Foundation. All rights reserved.<br>  Reproduction of material from this website without written permission is strictly prohibited.<br>Use of this site constitutes acceptance of our 
-<a href="/science-fair-projects/terms_conditions.shtml">Terms and Conditions of Fair Use</a>.</span>
-
-<!-- End copyright -->
-</p>
+<div id="menu-icons-share">
+   <a class="email email-link" href="#" onclick="sb.track(true, 'ShareIcons', 'Email');"></a>
+   <a class="twitter twitter-link" href="#" onclick="sb.track(true, 'ShareIcons', 'Twitter');"></a>
+   <a class="print print-link" href="#" onclick="sb.track(true, 'ShareIcons', 'Print');"></a>
+   <a class="report report-link" href="#" onclick="sb.track(true, 'ShareIcons', 'Report a Problem');"></a>
+   <a class="google google-link" href="#" onclick="sb.track(true, 'ShareIcons', 'Google+');"></a>
+   <a class="facebook facebook-link" href="#" onclick="sb.track(true, 'ShareIcons', 'Facebook');"></a>
 </div>
 
-<!-- Google Analytics Code -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-519241-1";
-urchinTracker();
-</script>
-<!-- End Google Analytics Code -->
-<!-- End footer -->
+      
+   </span></div>
+   <div class="only-print">
+   <br>
+   <hr>
+   <p>You can find this page online at: http://www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml</p>
+   <p>You may print and distribute up to 200 copies of this document annually, at no charge, for personal and classroom educational use. When printing this document, you may NOT modify it in any way.  For any other use, please contact Science Buddies.</p>
+   <hr>
+   <br>
+</div>
+   <div id="footer">
+   <div id="footer-opaque" class="only-screen"></div>
 
+   <div class="only-screen">
+      <div class="column">
+         <div class="header">COMPANY</div>
+         <a href="/science-fair-projects/aboutus.shtml" onclick="sb.track(true, 'Footer', 'About Us');">About Us</a>
+         <a href="/science-fair-projects/aboutus_sponsors.shtml" onclick="sb.track(true, 'Footer', 'Sponsors');">Sponsors</a>
+         <a href="/science-fair-projects/aboutus_partners.shtml" onclick="sb.track(true, 'Footer', 'Partners');">Partners</a>
+         <a href="/science-fair-projects/NSF-research-grants-funding.shtml" onclick="sb.track(true, 'Footer', 'Academic Outreach Partnerships');">Academic Outreach Partnerships</a>
+         <br>
+         <a href="/science-fair-projects/contactus.shtml" onclick="sb.track(true, 'Footer', 'Contact Us');">Contact Us</a>
+         <a href="/science-fair-projects/jobs.shtml" onclick="sb.track(true, 'Footer', 'Work for Us');">Work for Us</a>
+         <a href="/science-fair-projects/privacy_policy.shtml" onclick="sb.track(true, 'Footer', 'Privacy Policy');">Privacy Policy</a>
+         <a href="/science-fair-projects/image_credits.php" onclick="sb.track(true, 'Footer', 'Image Credits');">Image Credits</a>
+      </div>
+
+      <div class="column">
+         <div class="header">RESOURCES</div>
+         <a href="/science-fair-projects/mysciencebuddies.shtml" onclick="sb.track(true, 'Footer', 'My Science Buddies');">My Science Buddies</a>
+         <a href="/science-fair-projects/student_resources.shtml" onclick="sb.track(true, 'Footer', 'Student Resources');">Student Resources</a>
+         <a href="/science-fair-projects/parent_resources.shtml" onclick="sb.track(true, 'Footer', 'Parent Resources');">Parent Resources</a>
+         <a href="/science-fair-projects/teacher_resources.shtml" onclick="sb.track(true, 'Footer', 'Teacher Resources');">Teacher Resources</a>
+         <a href="/science-fair-projects/science_careers.shtml" onclick="sb.track(true, 'Footer', 'Careers');">Careers in Science</a>
+         <a href="/science-fair-projects/aboutus_newsroom.shtml" onclick="sb.track(true, 'Footer', 'Newsroom');">Newsroom</a>
+         <a href="/blog/index.php" onclick="sb.track(true, 'Footer', 'Blog');">Blog</a>
+         <a href="/science-fair-projects/SiteMap.shtml" onclick="sb.track(true, 'Footer', 'Site Map');">Site Map</a>
+      </div>
+
+      <div class="column">
+         <div class="header">PROJECT HELP</div>
+         <a href="/science-fair-projects/project_guide_index.shtml" onclick="sb.track(true, 'Footer', 'Science Fair Project Guide');">Science Fair Project Guide</a>
+         <a href="/science-fair-projects/engineering-design-process-guide.shtml" onclick="sb.track(true, 'Footer', 'Engineering Design Project Guide');">Engineering Design Project Guide</a>
+         <a href="/science-fair-projects/competitions_index.shtml" onclick="sb.track(true, 'Footer', 'Advanced Project Guide');">Advanced Project Guide</a>
+         <a href="/science-fair-projects/project_ideas.shtml" onclick="sb.track(true, 'Footer', 'Science Fair Project Ideas');">Science Fair Project Ideas</a>
+         <a href="/science-fair-projects/ask_an_expert_intro.shtml" onclick="sb.track(true, 'Footer', 'Ask an Expert');">Ask an Expert</a>
+      </div>
+
+      <div class="column">
+         <div class="header">GET INVOLVED</div>
+         <a href="/science-fair-projects/donating_now.shtml" onclick="sb.track(true, 'Footer', 'How to Donate');">How to Donate</a>
+         <a href="/science-fair-projects/participate.shtml" onclick="sb.track(true, 'Footer', 'How to Volunteer');">How to Volunteer</a>
+         <a href="/science-fair-projects/student_parent_teacher_register.php" onclick="sb.track(true, 'Footer', 'Student &amp; Parent Registration');">Student &amp; Parent Registration</a>
+         <a href="/science-fair-projects/ScienceBuddiesinAction.shtml" onclick="sb.track(true, 'Footer', 'Science Buddies in Action');">Science Buddies in Action</a>
+         <a href="/science-fair-projects/summer_science_camp.shtml" onclick="sb.track(true, 'Footer', 'Summer Science Camps');">Summer Science Camps</a>
+      </div>
+
+      <div class="column last">
+         <div class="header">FIND US HERE</div>
+         <a class="icon-share facebook" href="http://www.facebook.com/ScienceBuddies" onclick="sb.track(true, 'Footer', 'Join us on Facebook');">Join us on Facebook</a>
+         <a class="icon-share twitter" href="https://twitter.com/ScienceBuddies" onclick="sb.track(true, 'Footer', 'Follow us on Twitter');">Follow us on Twitter</a>
+         <a class="icon-share email email-link" href="#" onclick="sb.track(true, 'Footer', 'Email');">Email Us</a>
+      </div>
+   </div>
+
+   <div class="copyright">
+      <div class="logo only-screen"></div>
+      Copyright © 2002 - 2012 Science Buddies. All rights reserved.
+      Reproduction of material from this website without written permission is strictly prohibited.
+      Use of this site constitutes acceptance of our <a href="/science-fair-projects/terms_conditions.shtml">Terms and Conditions of Fair Use</a>.
+   </div>
+</div>
+   <div id="dialog_login" title="Science Buddies Login" style="display: none; width: 500px;">
+   <form id="member_login_form" method="post">
+   <fieldset>
+      <table>
+         <tbody><tr style="vertical-align: top;">
+            <td style="width: 50%;">
+               <div style="padding-top: 4px; padding-bottom: 10px;">
+                  <label for="username"><b>Log in:</b></label>
+                  <br>
+                  <i>(email address <b>or</b> username)</i>
+               </div>
+            </td>
+            <td>
+               <div style="margin-right: 5px; padding-right: 4px;">
+               </div>
+            </td>
+            <td>
+               <div style="width: 100%; padding-top: 4px; padding-bottom: 10px;">
+                  <input type="text" name="username" id="username" size="25">
+               </div>
+            </td>
+         </tr>
+         <tr style="vertical-align: top;">
+            <td>
+               <div style="padding-top: 4px; padding-bottom: 10px;">
+                  <label for="password"><b>Password:</b></label>
+               </div>
+            </td>
+            <td>
+               <div style="width: 4px; padding-right: 4px;">
+               </div>
+            </td>
+            <td>
+               <div style="width: 100%; padding-top: 4px; padding-bottom: 10px;">
+                  <input type="password" name="password" id="password" size="25">
+               </div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="3">
+               <div class="caption">
+                  <div id="dialog-login-errors" style="color: red;"></div>
+                  <p><a href="/science-fair-projects/forgot_your_password.php">Forgot your password?</a></p>
+                  <p><a href="/science-fair-projects/student_parent_teacher_register.php" onclick="sb.track(true, 'Footer', 'Student &amp; Parent Registration');">New member? Sign up here!</a></p>
+               </div>
+            </td>
+         </tr>
+      </tbody></table>
+   </fieldset>
+   </form>
+</div>
+   <script type="text/javascript">
+_qoptions={
+qacct:"p-f9-_oB9MbKYSU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-f9-_oB9MbKYSU.gif" style="display: none;" height="1" width="1" alt="Quantcast"/>
+</noscript>
+   <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-519241-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+ </div>
 
 
 
