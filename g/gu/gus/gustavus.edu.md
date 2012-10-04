@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gustavus.edu privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509210044id_/https%3A//gustavus.edu/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gustavus.edu privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004181638id_/https%3A//gustavus.edu/policy/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Policies
 
