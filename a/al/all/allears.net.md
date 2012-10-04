@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529045129id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004095420id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
