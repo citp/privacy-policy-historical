@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the e-mealz.com privacy policy that was archived on 2012-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120111091521id_/http%3A//e-mealz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mealz.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004180556id_/http%3A//emeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement | E-mealz - a meal planning resource for busy moms and frugal family cooks.
+# Privacy Policy Statement | eMeals - a meal planning resource for busy moms and frugal family cooks.
 
-This is the website of E-mealz, Inc.
+This is the website of E-Mealz, Inc.
 
 ## Our Commitment To Privacy
 
@@ -38,9 +38,9 @@ We do not partner with or have special relationships with any ad server companie
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
 
-Consumers can access this information on their individual members page by visiting <http://www.e-mealz.com/amember/member.php>.
+Consumers can access this information on their individual members page by visiting <http://www.emeals.com/amember/member.php>.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information. Consumers correct this information on their individual members page by logging in at <http://www.e-mealz.com/amember/member.php>.
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information. Consumers correct this information on their individual members page by logging in at <http://www.emeals.com/amember/member.php>.
 
 ## Our Commitment To Data Security
 
@@ -52,6 +52,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 ## Contacting Us About Our Privacy Policy
 
-For questions or concerns about this privacy policy, we can be reached via e-mail at [feedback@e-mealz.com](mailto:feedback@e-mealz.com).
+For questions or concerns about this privacy policy, we can be reached via e-mail at [support@emeals.com](mailto:support@emeals.com).
 
-Mailing Address: E-mealz Inc., 5612 Tamarac Trace, Birmingham, Alabama 35242
+Mailing Address: E-Mealz Inc., 2105 Devereux Circle, Suite 201, Birmingham, AL 35243
