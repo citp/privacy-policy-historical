@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610141654id_/http%3A//www.igindex.co.uk/spread-betting/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004195003id_/http%3A//www.igindex.co.uk/spread-betting/privacy-notice.html) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy
 
 ## Privacy Notice
 
 Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.
 
-It is our policy to respect the confidentiality of information and the privacy of individuals. We are bound by the Data Protection Principles contained in the Data Protection Act 1998.
+It is our policy to respect the confidentiality of information and the privacy of individuals. We are bound by the data protection principles contained in the Data Protection Act 1998.
 
-Our Privacy Policy Statement will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and to make sure it remains appropriate to the changing environment. Any information we hold will be governed by our most current Privacy Policy Statement.
+Our privacy policy statement will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and to make sure it remains appropriate to the changing environment. Any information we hold will be governed by our most current privacy  
+policy statement.
 
 ### Why do we collect personal information?
 
@@ -41,13 +42,14 @@ Depending on the product or service concerned and particular restrictions on sen
 
 
 
-Generally, we require that organisations outside our group of companies who handle or obtain personal information as service providers acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the Data Protection Principles and this policy.
+Generally, we require that organisations outside the IG group of companies who handle or obtain personal information as service providers acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the data protection principles and this policy. Third party service providers may keep a record of any searches performed on our behalf and may use the search details to assist other companies in performing their searches. Please note that third parties are not covered by our privacy policy and are not subject to our privacy standards and procedures.
 
 ### Management of personal information
 
 We train our employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals. We regard breaches of your privacy very seriously and will impose appropriate penalties, including dismissal.
 
-We have an appointed Privacy Officer to ensure that our management of personal information is in accordance with this statement and the Privacy Act.
+We have an appointed Privacy Officer to ensure that our management of personal information is in accordance with this statement and the  
+Privacy Act.
 
 ### How do we store personal information?
 
@@ -55,9 +57,9 @@ Safeguarding the privacy of your information is important to us, whether you int
 
 We may need to maintain records for a significant period of time. However, when we consider information is no longer needed, we will remove any details that will identify you or we will securely destroy the records.
 
-### How do we keep personal information accurate and up-to-date?
+### How do we keep personal information accurate and up to date?
 
-We endeavour to ensure that the personal information we hold is accurate and up-to-date. We realise that this information changes frequently with changes of address and other personal circumstances. We can generally update your customer information over the telephone.
+We endeavour to ensure that the personal information we hold is accurate and up to date. We realise that this information changes frequently with changes of address and other personal circumstances. We can generally update your customer information over the telephone.
 
 ### You have the right to check what personal information about you is held by us
 
@@ -69,9 +71,9 @@ We may charge a fee to cover the cost of verifying the application and locating,
 
 ### What if you have a complaint?
 
-If you consider that any action of ours breaches this Privacy Policy Statement or the Data Protection Principles or otherwise doesn't respect your privacy, you can make a complaint. This will be acted upon promptly. To make a complaint, please telephone us on 020 7896 0011.
+If you consider that any action of ours breaches this privacy policy statement or the data protection principles or otherwise doesn't respect your privacy, you can make a complaint. This will be acted upon promptly. To make a complaint, please telephone us on +44 20 7896 0011.
 
-If you are not satisfied with our response to your complaint, you can telephone the Information Commissioner's information and enquiries line on 01625 545 745.
+If you are not satisfied with our response to your complaint, you can telephone the Information Commissioner's information and enquiries line on +44 1625 545 745.
 
 ### How to contact us
 
@@ -83,35 +85,33 @@ If you want to:
 
 
 
-phone us on 020 7896 0011 or write to us at:
+phone us on +44 20 7896 0011 or write to us at:
 
 IG Index  
 Cannon Bridge House  
 25 Dowgate Hill  
 London  
-EC4R 2YA 
+EC4R 2YA
 
 **Issue 1, September 2002  
 IG Index Ltd**
 
-## Privacy: Web supplement
+### Privacy: web supplement
 
 This statement outlines some privacy issues specific to this website.
 
 We may collect personal information you enter when using our website.
 
-### What is a cookie and how do we use cookies?
+### Cookies on IG sites
 
-Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on this website, including presenting web pages according to your needs or preferences.
+For information about the cookies on this site, please visit our [managing your cookies](https://web.archive.org/spread-betting/cookies.html) page.
 
-We may also use independent external service providers to track the traffic and usage on the website.
-
-Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of this site if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
-
-### Technology improvements 
+### Technology improvements
 
 We are constantly striving to improve functionality on this site through technology changes. This may mean a change to the way in which personal information is collected or used. The impact of any technology changes which may affect your privacy, will be notified in this Supplement at the time of the change.
 
 ### Links to third party websites
 
 This website may have links to external third party websites that may benefit the user. Please note, however, that third party websites are not covered by our privacy policy and these sites are not subject to our privacy standards and procedures.
+
+Spread bets are leveraged products. Spread betting may not be suitable for everyone and can result in losses that exceed your initial deposit, so please ensure that you fully understand the risks involved.
