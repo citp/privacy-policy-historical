@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pregnancy-info.net privacy policy that was archived on 2012-03-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120302085241id_/http%3A//www.pregnancy-info.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pregnancy-info.net privacy policy that was archived on 2012-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004023009id_/http%3A//www.pregnancy-info.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,12 +8,12 @@
 <title>SELECTED: Privacy Policy PREGNANT</title>
 <meta property="og:title" content="SELECTED: Privacy Policy PREGNANT">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://www.pregnancy-info.net/privacy.html">
+<meta property="og:url" content="">
 <meta property="og:image" content="http://www.pregnancy-info.net/images/baby_small.jpg">
 <meta property="og:site_name" content="Pregnancy-Info.net">
 <meta property="og:description" content="Privacy Policy PREGNANT">
 <link rel="stylesheet" href="/images/css/styles.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/images/js/scripts.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/images/js/scripts.js"></script>
 <script type="text/javascript" src="/images/js/jquery.min.js"></script>
 <script type="text/javascript" src="http://pshared.5min.com/scripts/PlayerSeed.js"></script>
 <!-- BEGIN TRIGGER TAG INITIALIZATION -->
@@ -32,12 +32,170 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+  
+  
+  //dhtml popup code
+isIE=document.all;
+isNN=!document.all&&document.getElementById;
+isN4=document.layers;
+isHot=false;
+
+function ddInit(e){
+  topDog=isIE ? "BODY" : "HTML";
+  whichDog2=isIE ? document.all.theLayer2 : document.getElementById("theLayer2");  
+  hotDog=isIE ? event.srcElement : e.target;  
+  while (hotDog.id!="titleBar"&&hotDog.tagName!=topDog){
+    hotDog=isIE ? hotDog.parentElement : hotDog.parentNode;
+  }  
+  if (hotDog.id=="titleBar"){
+    offsetx=isIE ? event.clientX : e.clientX;
+    offsety=isIE ? event.clientY : e.clientY;
+    nowX=parseInt(whichDog.style.left);
+    nowY=parseInt(whichDog.style.top);
+    ddEnabled=true;
+    document.onmousemove=dd;
+  }
+}
+
+function dd(e){
+  if (!ddEnabled) return;
+  whichDog.style.left=isIE ? nowX+event.clientX-offsetx : nowX+e.clientX-offsetx; 
+  whichDog.style.top=isIE ? nowY+event.clientY-offsety : nowY+e.clientY-offsety;
+  return false;  
+}
+
+function ddN4(whatDog){
+  if (!isN4) return;
+  N4=eval(whatDog);
+  N4.captureEvents(Event.MOUSEDOWN|Event.MOUSEUP);
+  N4.onmousedown=function(e){
+    N4.captureEvents(Event.MOUSEMOVE);
+    N4x=e.x;
+    N4y=e.y;
+  }
+  N4.onmousemove=function(e){
+    if (isHot){
+      N4.moveBy(e.x-N4x,e.y-N4y);
+      return false;
+    }
+  }
+  N4.onmouseup=function(){
+    N4.releaseEvents(Event.MOUSEMOVE);
+  }
+}
+
+function hideMe2(){
+document.getElementById('theLayer2').style.visibility = 'hidden';
+}
+
+function showMe(){
+  if (isIE||isNN) whichDog.style.visibility="visible";
+  else if (isN4) document.theLayer2.visibility="show";
+}
+
+document.onmousedown=ddInit;
+document.onmouseup=Function("ddEnabled=false");
+  
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+
+
+function Set_Cookie( name, value, expires, path, domain, secure )
+{
+// set time, it's in milliseconds
+var today = new Date();
+today.setTime( today.getTime() );
+
+/*
+if the expires variable is set, make the correct
+expires time, the current script below will set
+it for x number of days, to make it for hours,
+delete * 24, for minutes, delete * 60 * 24
+*/
+if ( expires )
+{
+expires = expires * 1000 * 60 * 60 * 24;
+}
+var expires_date = new Date( today.getTime() + (expires) );
+
+document.cookie = name + "=" +escape( value ) +
+( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+( ( path ) ? ";path=" + path : "" ) +
+( ( domain ) ? ";domain=" + domain : "" ) +
+( ( secure ) ? ";secure" : "" );
+}
+
+function Get_Cookie( check_name ) {
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f
+
+	for ( i = 0; i < a_all_cookies.length; i++ )
+	{
+		// now we'll split apart each name=value pair
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+
+
+		// and trim left/right whitespace while we're at it
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+
+		// if the extracted name matches passed check_name
+		if ( cookie_name == check_name )
+		{
+			b_cookie_found = true;
+			// we need to handle case where cookie has no value but exists (no = sign, that is):
+			if ( a_temp_cookie.length > 1 )
+			{
+				cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+			}
+			// note that in cases where cookie is initialized but no value, null is returned
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if ( !b_cookie_found )
+	{
+		return null;
+	}
+}
 </script>
+
+<!-- BEGIN Google Plus -->
+<link href="https://plus.google.com/107808928608596699027" rel="publisher"><script type="text/javascript">
+window.___gcfg = {lang: 'en'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();
+
+var url=location.href;
+var mySplitResult = url.split("?");
+document.write('<link rel="canonical" href=" ' + mySplitResult[0] + '"/>' );
+</script><link rel="canonical" href=" https://web.archive.org/web/20121004023009id_/http%3A//www.pregnancy-info.net/privacy.html">
+<!-- END Google Plus -->
+
+
 </head>
 <body>
 <div id="main-container-top"></div>
 <div id="main-container">
     <div id="header-container">
+     
         <div id="logo">
 			<a href="/"><h1>Pregnancy Info HOME</h1></a>
 		</div>
@@ -51,7 +209,7 @@
             }else{
                 //insert default static image here as default ad
             }
-            </script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/ros;sect=ros;sz=728x90;tile=1;ord=8045336625658110?" type="text/javascript"></script>
+            </script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/ros;sect=ros;sz=728x90;tile=1;ord=9131055307689828?" type="text/javascript"></script>
             <!-- END AD TAG -->
         </div>
     </div>
@@ -67,7 +225,7 @@
 <li><a href="/babynames_intro.html">Baby Names</a></li>
 <li><a href="/topic_baby_showers.html">Baby Showers</a></li>
 <li><a href="/baby_care_home.html">Baby Care</a></li>
-<li style="border-right:none"><a href="/StemCell/Cord_Blood_Banking.html">Cord Blood Banking</a></li>
+<li style="border-right:none"><a href="/stemcell/cord_blood_banking.html">Cord Blood Banking</a></li>
 </ul>
 </div>
 	<div id="top-sub-nav">
@@ -75,6 +233,7 @@
 
     <div id="content-container" class="clearfix">
         <div id="content">
+			<div id="breadcrumb"><a href="/">Home</a> › <a style="text-decoration:underline;" href="/privacy.html">privacy.html</a></div>
 			<script type="text/javascript"><!-- 
 google_ad_client = "pub-5253809430940410"; 
 /* PregInfo Link1 468x15 */ 
@@ -85,18 +244,56 @@ google_ad_height = 15;
 </script> 
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> 
 </script>
-			<div id="add-this">
-<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=8027523607&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Pregnancy-Info/178888522172869" send="false" layout="button_count" width="90" show_faces="true" font=""></fb:like>
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style ">
-<a class="addthis_button_google_plusone"></a>
-<a class="addthis_counter addthis_pill_style"></a>
-</div>
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ataramedia"></script>
-<!-- AddThis Button END -->
-</div>
 			<!-- google_ad_section_start -->
+			<div id="theLayer2" name="theLayer2" style="visibility:hidden;position:absolute;width:60px;left:200px;z-index:9999;border:" 0";="">
+			
+<script>
+	var time = Math.floor((Math.random()*60000)+10000);
+	
+	//Determine if the user already registered (on this computer) or if they had a popup within the last 24 hours. If so, don't show popup
+	var pop = Get_Cookie( 'pop' );
+	var register = Get_Cookie( 'reg' );
+	
+	if ( pop == null && register == null) {
+	setTimeout("document.getElementById('theLayer2').style.visibility = 'visible';",time);
+	setTimeout("Set_Cookie( 'pop', 'yes', '1', '/', '', '' );",time);
+	//Set_Cookie( 'pop', 'yes', '1', '/', '', '' );
+	}
+	
+</script>	
+
+<table border="0" width="50" bgcolor="#424242" cellspacing="0" cellpadding="5">
+<tbody><tr>
+<td width="100%">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="36">
+ 
+  <tbody><tr>
+  <td width="100%" bgcolor="#FFFFFF" style="padding:4px" colspan="2" border="0">
+  
+   
+<!-- PLACE YOUR CONTENT HERE //-->  
+           <div id="newsletter_pop">
+				<div id="nav-section-name">Track Your Baby's Development</div>
+				<b>Subscribe to our free email newsletter!</b>
+				<img src="images/hhp/hhp_image3_1.jpg">
+					<div>
+                    <form name="newsletter" action="newsletter.html" method="POST" onsubmit="return checkEmail(this)&amp;&amp;hideMe2();" target="_blank">
+                        <input type="text" name="email" value="Enter Email and Press Enter" onfocus="if(this.value=='Enter Email and Press Enter') this.value=''" onblur="if(this.value=='') this.value='Enter Email and Press Enter'"><br>
+                        <!-- <input type="image" name="submit-newsletter" src="/images/btn_newsletter.jpg" height="38" width="160" /> -->
+                        <a href="#" onclick="hideMe2();return false">No, thanks!</a>
+						<input type="hidden" name="newsletter-step" value="one">
+                    </form>
+				</div>
+<!-- END OF CONTENT AREA //-->
+  </div></td>
+  </tr>
+  </tbody></table> 
+</td>
+</tr>
+</tbody></table>
+</div>
+<!-- END FLOATING LAYER CODE //--> 
+
             <h1>Privacy Policy</h1>
 <p>By using this site, you agree to the terms of this Privacy Policy and the <a href="terms_disclaimer.html">Terms of Use and Disclaimer</a>, Pregnancy-Info.net collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us. If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu.</p>
 <p>The above-described information (Personally-Identifying Information) may be used by Pregnancy-Info.net to personalize and enhance your use of this Site, including the marketing and promotion of certain products and services that might be of interest to you. Your use of this Site is a consent to the foregoing use of your Personally-Identifying Information by Pregnancy-Info.net</p>
@@ -107,24 +304,176 @@ google_ad_height = 15;
 <p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a title="networkadvertising.org" href="http://www.networkadvertising.org" target="_blank">http://www.networkadvertising.org</a>.</p>
 <p>We partner with third-party advertising companies to serve ads and/or collect certain information when you visit our website. These companies may use cookies or web beacons to collect non-personally identifiable information [not including your name, address, email address or telephone number] during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <a title="opt out" href="http://www.networkadvertising.org" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
 			<!-- google_ad_section_end -->
-			<div id="add-this">
-<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=8027523607&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Pregnancy-Info/178888522172869" send="false" layout="button_count" width="90" show_faces="true" font=""></fb:like>
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style ">
-<a class="addthis_button_google_plusone"></a>
-<a class="addthis_counter addthis_pill_style"></a>
-</div>
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ataramedia"></script>
-<!-- AddThis Button END -->
-</div>
-			
+						
 			
 			
 			<div id="comments">
+<script language="JavaScript1.2">
+
+function getQueryString() {
+  var result = {}, queryString = location.search.substring(1),
+      re = /([^&=]+)=([^&]*)/g, m;
+
+  while (m = re.exec(queryString)) {
+    result[decodeURIComponent(m[1])] = decodeURIComponent(m[2]);
+  }
+
+  return result;
+}
+
+var login = getQueryString()["log"];
+
+isIE=document.all;
+isNN=!document.all&&document.getElementById;
+isN4=document.layers;
+isHot=false;
+
+function getinfo()
+{
+document.getElementById("url").value = (document.url)
+}
+
+function ddInit(e){
+  topDog=isIE ? "BODY" : "HTML";
+  whichDog=isIE ? document.all.theLayer : document.getElementById("theLayer");  
+  hotDog=isIE ? event.srcElement : e.target;  
+  while (hotDog.id!="titleBar"&&hotDog.tagName!=topDog){
+    hotDog=isIE ? hotDog.parentElement : hotDog.parentNode;
+  }  
+  if (hotDog.id=="titleBar"){
+    offsetx=isIE ? event.clientX : e.clientX;
+    offsety=isIE ? event.clientY : e.clientY;
+    nowX=parseInt(whichDog.style.left);
+    nowY=parseInt(whichDog.style.top);
+    ddEnabled=true;
+    document.onmousemove=dd;
+  }
+}
+
+function dd(e){
+  if (!ddEnabled) return;
+  whichDog.style.left=isIE ? nowX+event.clientX-offsetx : nowX+e.clientX-offsetx; 
+  whichDog.style.top=isIE ? nowY+event.clientY-offsety : nowY+e.clientY-offsety;
+  return false;  
+}
+
+function ddN4(whatDog){
+  if (!isN4) return;
+  N4=eval(whatDog);
+  N4.captureEvents(Event.MOUSEDOWN|Event.MOUSEUP);
+  N4.onmousedown=function(e){
+    N4.captureEvents(Event.MOUSEMOVE);
+    N4x=e.x;
+    N4y=e.y;
+  }
+  N4.onmousemove=function(e){
+    if (isHot){
+      N4.moveBy(e.x-N4x,e.y-N4y);
+      return false;
+    }
+  }
+  N4.onmouseup=function(){
+    N4.releaseEvents(Event.MOUSEMOVE);
+  }
+}
+
+function hideMe(){
+  if (isIE||isNN) whichDog.style.visibility="hidden";
+  else if (isN4) document.theLayer.visibility="hide";
+}
+
+function showMe(){
+  if (isIE||isNN) whichDog.style.visibility="visible";
+  else if (isN4) document.theLayer.visibility="show";
+}
+
+document.onmousedown=ddInit;
+document.onmouseup=Function("ddEnabled=false");
+
+
+
+
+
+</script>
+
+<div id="theLayer" name="theLayer" style="position: absolute; width: 50px; left: 190px; z-index: 9999; visibility: hidden;">
+
+<table border="0" width="250" bgcolor="#424242" cellspacing="0" cellpadding="5">
+<tbody><tr>
+<td width="100%">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="36">
+  <tbody><tr>
+  <td id="titleBar" width="250px;">
+  <ilayer width="100%" onselectstart="return false">
+  <layer width="100%" onmouseover="isHot=true;if (isN4) ddN4(theLayer)" onmouseout="isHot=false">
+  <font face="Arial" color="#FFFFFF">Login to comment</font>
+  </layer>
+  </ilayer>
+  </td>
+  <td valign="top">
+   </td>
+  </tr>
+  <tr>
+  <td width="100%" bgcolor="#FFFFFF" style="padding:4px" colspan="2">
+  
+  <script>
+  if (login != "1"){
+  document.getElementById('theLayer').style.visibility = 'hidden';
+  }else{
+  document.getElementById('theLayer').style.visibility = 'true';
+  }
+  
+</script>  
+<!-- PLACE YOUR CONTENT HERE //-->  
+<a name="login" id="login"></a>
+<div class="comments-login">
+<script>
+if (login == "1"){
+var txt = "Incorrect user name or password.";
+document.write("<p>" + txt.fontcolor("red") + "</p>");
+}
+</script>
+<p><span class="comments-title">Log in</span> or <a href="/forums/register.html">sign up</a></p>
+
+<table id="comments-login-form">
+	<form name="comments-login" method="POST" action="/comments/login.html"></form>
+	
+    <tbody><tr>
+    	<td>
+      		<b>Username:</b><br>
+			<input type="text" name="user" onclick="this.value='';" value="Username" maxlength="30" size="30"><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Password:</b><br>
+			<input type="password" name="pwd" value="" maxlength="30" size="30"><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input type="submit" name="submit" id="form-button" value="LOG IN">
+			<button onclick="hideMe();return false" id="form-button">CANCEL</button>
+			<input type="hidden" name="action" value="comment-login">
+		</td>
+	</tr>
+	
+</tbody></table>
+</div>
+<!-- END OF CONTENT AREA //-->
+  </td>
+  </tr>
+  </tbody></table> 
+</td>
+</tr>
+</tbody></table>
+</div>
+<!-- END FLOATING LAYER CODE //--> 
+
+
 <div class="comments-greeting">
 	<div style="float:left;">(0 Comments)</div>
-	<div style="float:right;"><a href="/comments/login.html?r=%2Fprivacy.html">Log in</a> or <a href="/comments/signup.html?r=%2Fprivacy.html">sign up</a> to comment.</div>
+	<div style="float:right;"> <a href="#" onclick="showMe();return false"><font color="crimson" size="3"><b>Login to add a comment</b></font></a> </div>
 </div>
 <h2>Post a comment</h2>
 <div class="new-comment">
@@ -133,13 +482,21 @@ google_ad_height = 15;
 				<td class="comment-profile" valign="top"><img src="/images/profile_shadow.gif" width="35" height="35"></td>
 				<td><textarea id="disabled-comment" rows="4" cols="93" name="comment">You must be logged in to comment.</textarea></td>
 			</tr>
-			<tr><td colspan="2" align="right"><a href="/comments/login.html?r=%2Fprivacy.html">Log in</a> or <a href="/comments/signup.html?r=%2Fprivacy.html">sign up</a> to comment.</td></tr>
+			
 		</tbody></table>
 </div>
+
+
+
+
+
 
 </div>
         </div>
 		<div id="left-panel">
+		
+				
+				
 			<div id="navigation">
 				<div id="ad-160x90">
 <script type="text/javascript"><!--
@@ -165,29 +522,15 @@ google_ad_height = 90;
 <li><a href="/babynames_intro.html">Baby Names</a></li>
 <li><a href="/topic_baby_showers.html">Baby Showers</a></li>
 <li><a href="/baby_care_home.html">Baby Care</a></li>
-<li><a href="/StemCell/Cord_Blood_Banking.html">Cord Blood Banking</a></li>
+<li><a href="/stemcell/cord_blood_banking.html">Cord Blood Banking</a></li>
 </ul>
 
 			</div>
+		
 			<div id="related-articles">
 				
 			</div>
-			<div id="newsletter">
-				<div id="nav-section-name">Newsletter</div>
-				<ul>
-					<li><input type="checkbox" name="nl" value="" checked="checked"> Week by Week</li>
-					<li><input type="checkbox" name="nl" value=""> Sex and Pregnancy</li>
-					<li><input type="checkbox" name="nl" value=""> Weight Gain</li>
-					<li><input type="checkbox" name="nl" value=""> Exercise and Nutrition</li>
-				</ul>
-				<div>
-                    <form name="newsletter" action="/newsletter.html" method="POST" onsubmit="return checkEmail(this);">
-                        <input type="text" name="email" value="Enter Email and Press Enter" onfocus="if(this.value=='Enter Email and Press Enter') this.value=''" onblur="if(this.value=='') this.value='Enter Email and Press Enter'"><br>
-                        <!-- <input type="image" name="submit-newsletter" src="/images/btn_newsletter.jpg" height="38" width="160" /> -->
-						<input type="hidden" name="newsletter-step" value="one">
-                    </form>
-				</div>
-			</div>
+				
 			<div id="left-skyscraper">
 				<p>Advertisement</p>
 				<!-- 160x600 Nav -->
@@ -199,7 +542,7 @@ if ((typeof(f345212)=='undefined' || f345212 > 0) ) {
 }else{
     //insert default static image here as default ad
 }
-</script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/ros;sect=ros;sz=160x600;tile=2;ord=8045336625658110?" type="text/javascript"></script>
+</script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/ros;sect=ros;sz=160x600;tile=2;ord=9131055307689828?" type="text/javascript"></script>
 <!-- END AD TAG -->
 			</div>
 			<div id="navigation-news-box">
@@ -209,12 +552,40 @@ if ((typeof(f345212)=='undefined' || f345212 > 0) ) {
 			<div id="esp-button">
 				<a href="http://espanol.pregnancy-info.net/privacy.html" target="_blank"><img src="/images/btn_espanol.jpg"></a>
 			</div>
+			<div id="newsletter">
+			<div id="nav-section-name">Newsletter</div>
+				<ul>
+					<li><input type="checkbox" name="nl" value="" checked="checked"> Week by Week</li>
+					<li><input type="checkbox" name="nl" value=""> Sex and Pregnancy</li>
+					<li><input type="checkbox" name="nl" value=""> Weight Gain</li>
+					<li><input type="checkbox" name="nl" value=""> Exercise and Nutrition</li>
+				</ul>
+				<div>
+                    <form name="newsletter" action="newsletter.html" method="POST" onsubmit="return checkEmail(this);" target="_blank">
+                        <input type="text" name="email" value="Enter Email and Press Enter" onfocus="if(this.value=='Enter Email and Press Enter') this.value=''" onblur="if(this.value=='') this.value='Enter Email and Press Enter'"><br>
+                        <!-- <input type="image" name="submit-newsletter" src="/images/btn_newsletter.jpg" height="38" width="160" /> -->
+						<input type="hidden" name="newsletter-step" value="one">
+                    </form>
+				</div>
+			</div>
 			
 			<div id="sponsored-links">
 				
 			</div>
 		</div>
         <div id="right-panel">
+			<g:plus href="https://plus.google.com/107808928608596699027" width="300" height="69" theme="light"></g:plus>
+			<div id="add-this">
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=8027523607&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Pregnancy-Info/178888522172869" send="false" layout="button_count" width="90" show_faces="true" font=""></fb:like>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_google_plusone"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ataramedia"></script>
+<!-- AddThis Button END -->
+</div>
 			<div id="ad-300x250">
 				<!-- 300x250 Right ROS UP -->
 				        <!-- BEGIN GN Ad Tag for pregnancy-info.net 300x250 ros -->
@@ -225,7 +596,7 @@ if ((typeof(f345212)=='undefined' || f345212 > 0) ) {
         }else{
             //insert default static image here as default ad
         }
-        </script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/ros;sect=ros;sz=300x250;tile=3;ord=8045336625658110?" type="text/javascript"></script>
+        </script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/ros;sect=ros;sz=300x250;tile=3;ord=9131055307689828?" type="text/javascript"></script>
         <!-- END AD TAG -->
 		<script type="text/javascript"><!--//<![CDATA[
            var m3_u = (location.protocol=='https:'?'https://tracking.hearthstoneonline.com/www/delivery/ajs.php':'http://tracking.hearthstoneonline.com/www/delivery/ajs.php');
@@ -240,14 +611,14 @@ if ((typeof(f345212)=='undefined' || f345212 > 0) ) {
            if (document.context) document.write ("&context=" + escape(document.context));
            if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
            document.write ("'><\/scr"+"ipt>");
-        //]]>--></script><script type="text/javascript" src="https://tracking.hearthstoneonline.com/www/delivery/ajs.php?zoneid=61&amp;source=preg&amp;cb=12126298713&amp;loc=https%3A//web.archive.org/web/20120302085241id_/http%253A//www.pregnancy-info.net/privacy.html"></script><noscript><a href='http://tracking.hearthstoneonline.com/www/delivery/ck.php?n=a421f477&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tracking.hearthstoneonline.com/www/delivery/avw.php?zoneid=61&amp;source=preg&amp;n=a421f477' border='0' alt='' /></a></noscript>
+        //]]>--></script><script type="text/javascript" src="https://tracking.hearthstoneonline.com/www/delivery/ajs.php?zoneid=61&amp;source=preg&amp;cb=56556155129&amp;loc=https%3A//web.archive.org/web/20121004023009id_/http%253A//www.pregnancy-info.net/privacy.html"></script><noscript><a href='http://tracking.hearthstoneonline.com/www/delivery/ck.php?n=a421f477&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tracking.hearthstoneonline.com/www/delivery/avw.php?zoneid=61&amp;source=preg&amp;n=a421f477' border='0' alt='' /></a></noscript>
 
 			</div>
 			<div id="btn-forum-right"><a href="/forums/" title="Join our Forums!"><img src="/images/btn_forum.gif" width="303" height="52" border="0"></a></div>
 			
 			<div id="ad-300x250">
 				<span class="article-forum-threads-header"></span>
-				<div class="article-forum-threads">
+				<div class="article-forum-related">
 <ul>
 </ul>
 </div>
@@ -270,7 +641,7 @@ if ((typeof(f345212)=='undefined' || f345212 > 0) ) {
            if (document.context) document.write ("&context=" + escape(document.context));
            if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
            document.write ("'><\/scr"+"ipt>");
-        //]]>--></script><script type="text/javascript" src="https://tracking.hearthstoneonline.com/www/delivery/ajs.php?zoneid=155&amp;source=preg&amp;cb=22432050928&amp;loc=https%3A//web.archive.org/web/20120302085241id_/http%253A//www.pregnancy-info.net/privacy.html"></script><noscript><a href='http://tracking.hearthstoneonline.com/www/delivery/ck.php?n=ac9e0965&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tracking.hearthstoneonline.com/www/delivery/avw.php?zoneid=155&amp;source=preg&amp;n=ac9e0965' border='0' alt='' /></a></noscript>
+        //]]>--></script><script type="text/javascript" src="https://tracking.hearthstoneonline.com/www/delivery/ajs.php?zoneid=155&amp;source=preg&amp;cb=51986771784&amp;loc=https%3A//web.archive.org/web/20121004023009id_/http%253A//www.pregnancy-info.net/privacy.html"></script><noscript><a href='http://tracking.hearthstoneonline.com/www/delivery/ck.php?n=ac9e0965&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tracking.hearthstoneonline.com/www/delivery/avw.php?zoneid=155&amp;source=preg&amp;n=ac9e0965' border='0' alt='' /></a></noscript>
 
 			</div>
 			<div id="ad-300x250">
@@ -282,7 +653,7 @@ if ((typeof(f345222)=='undefined' || f345222 > 0) ) {
 }else{
 	//insert default static image here as default ad
 }
-</script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/home;sect=home;sz=300x100;tile=4;ord=8045336625658110?" type="text/javascript"></script>
+</script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/home;sect=home;sz=300x100;tile=4;ord=9131055307689828?" type="text/javascript"></script>
 <!-- END AD TAG -->
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://tracking.hearthstoneonline.com/www/delivery/ajs.php':'http://tracking.hearthstoneonline.com/www/delivery/ajs.php');
@@ -298,7 +669,7 @@ if ((typeof(f345222)=='undefined' || f345222 > 0) ) {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://tracking.hearthstoneonline.com/www/delivery/ajs.php?zoneid=218&amp;source=preg&amp;cb=95878003039&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120302085241id_/http%253A//www.pregnancy-info.net/privacy.html"></script><noscript><a href='http://tracking.hearthstoneonline.com/www/delivery/ck.php?n=a217cd21&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tracking.hearthstoneonline.com/www/delivery/avw.php?zoneid=218&amp;source=preg&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a217cd21' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://tracking.hearthstoneonline.com/www/delivery/ajs.php?zoneid=218&amp;source=preg&amp;cb=50522201784&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121004023009id_/http%253A//www.pregnancy-info.net/privacy.html"></script><noscript><a href='http://tracking.hearthstoneonline.com/www/delivery/ck.php?n=a217cd21&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tracking.hearthstoneonline.com/www/delivery/avw.php?zoneid=218&amp;source=preg&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a217cd21' border='0' alt='' /></a></noscript>
 
 			</div>
 			<div id="search">
@@ -329,7 +700,7 @@ if ((typeof(f345222)=='undefined' || f345222 > 0) ) {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://tracking.hearthstoneonline.com/www/delivery/ajs.php?zoneid=177&amp;source=preg&amp;cb=75645505896&amp;loc=https%3A//web.archive.org/web/20120302085241id_/http%253A//www.pregnancy-info.net/privacy.html"></script><noscript><a href='http://tracking.hearthstoneonline.com/www/delivery/ck.php?n=af6c1d48&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tracking.hearthstoneonline.com/www/delivery/avw.php?zoneid=177&amp;source=preg&amp;n=af6c1d48' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://tracking.hearthstoneonline.com/www/delivery/ajs.php?zoneid=177&amp;source=preg&amp;cb=85607745393&amp;loc=https%3A//web.archive.org/web/20121004023009id_/http%253A//www.pregnancy-info.net/privacy.html"></script><noscript><a href='http://tracking.hearthstoneonline.com/www/delivery/ck.php?n=af6c1d48&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tracking.hearthstoneonline.com/www/delivery/avw.php?zoneid=177&amp;source=preg&amp;n=af6c1d48' border='0' alt='' /></a></noscript>
 
 				</div>
             </div>
@@ -344,13 +715,6 @@ if ((typeof(f345222)=='undefined' || f345222 > 0) ) {
 			<script type="text/javascript"><!--
 	e9 = new Object();
     e9.size = "728x90,468x60";
-//--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/PregnancyInfonet/ROS/tags.js"></script>
-
-<script type="text/javascript"><!--
-	e9 = new Object();
-	e9.noAd = 1;
-	e9.popOnly = 1;
 //--></script>
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/PregnancyInfonet/ROS/tags.js"></script>
 
@@ -398,17 +762,6 @@ if ((typeof(f345222)=='undefined' || f345222 > 0) ) {
 </noscript>
 <!-- End comScore Tag -->
 
-<!-- BEGIN GN Ad Tag for pregnancy-info.net 1000x1000 ros -->
-<script type="text/javascript">
-if ((typeof(f345220)=='undefined' || f345220 > 0) ) {
-  if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
-  document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/ros;sect=ros;sz=1000x1000;dcopt=ist;type=int;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
-}else{
-	//insert default static image here as default ad
-}
-</script><script src="http://n4403ad.doubleclick.net/adj/gn.pregnancy-info.com/ros;sect=ros;sz=1000x1000;dcopt=ist;type=int;tile=5;ord=8045336625658110?" type="text/javascript"></script>
-<!-- END AD TAG -->
-
 <!-- START CHITIKA MOBILE -->
 <script type="text/javascript">
 ch_client = "atarmedia";
@@ -431,7 +784,7 @@ ch_color_bg = "#FFFFFF";
 	doclix_pid = 17936;
 	doclix_cid_anchor = 6569;
 </script>
-<script type="text/javascript" src="http://ads.doclix.com/adserver/serve/js/doclix_synd_overlay.js" async="async" charset="utf-8"></script>
+<!--<script type="text/javascript" src="http://ads.doclix.com/adserver/serve/js/doclix_synd_overlay.js" async="async" charset="utf-8"></script>-->
 <!-- END Anchor Ad -->
 
 
