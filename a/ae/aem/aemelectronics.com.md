@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aemelectronics.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516052237id_/http%3A//www.aemelectronics.com/viewpage/privacy-policy-6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aemelectronics.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004065348id_/http%3A//www.aemelectronics.com/viewpage/privacy-policy-6%3FCDpath%3D0) for the most accurate reproduction.*
 
 # Wideband O2 UEGO, Water/Methanol, Stand Alone Engine Management, Piggyback F/IC, Tru Boost Controller, Gauges, Automotive Performance Electronics - AEM Electronics Privacy Policy - AEM Electronics Privacy Policy
 
