@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyseteat.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512013621id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyseteat.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004091549id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - ConAgra Foods
 
@@ -52,6 +52,14 @@ Information gathered from polls and surveys are only for internal use of ConAgra
 _CHOICE/OPT-OUT_   
 Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us.  
 _HOW TO CONTACT US_   
-If you have any questions about this Privacy Policy, the Legal Policy, the practices of this site, your dealings with this Web site, or your Personal Information, you can always contact us at our e-mail address, [consumeraffairs@conagrafoods.com](mailto:consumeraffairs@conagrafoods.com).  
+If you have any questions about this Privacy Policy, the Legal Policy, the practices of this site, your dealings with this website, or your personal information, please contact us via email, phone or mail.
+
+Consumer Affairs  
+One ConAgra Drive  
+Omaha, NE 68102
+
+Consumer Affairs: 800-722-1344  
+Email: [consumeraffairs@conagrafoods.com](mailto:consumeraffairs@conagrafoods.com).  
+  
 _FINAL NOTE_   
 Our goal at ConAgra Foods is to provide a safe Internet environment for everyone. While children and young adults are encouraged to play our games and explore the Web sites, we remind them often that their parents will be notified if they give us their e-mail address and their parent's written permission is required for them to be eligible to win prizes. We urge parents to spend time with their children on our web sites. Sit with them and share the experience. While ConAgra Foods does everything we can to ensure your child's privacy and safety, informed parents are the best protectors of their children. 
