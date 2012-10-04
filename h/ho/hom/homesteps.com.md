@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesteps.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501215953id_/http%3A//www.homesteps.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesteps.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004100908id_/http%3A//www.homesteps.com/homesteps/terms/privacy.html) for the most accurate reproduction.*
 
 # HomeSteps Terms and Conditions: Privacy Policy
 
@@ -54,7 +54,7 @@ We restrict access to Covered Information to those who need to know the informat
 
 We strive to maintain a high standard of security and privacy. However, no information can be guaranteed to be completely secure, and we make no such warranty or guarantee. In addition, we do not commit to protecting publicly available or non-confidential information except as may be required by applicable law or regulation. 
 
-## Special Statement Regarding the "Does Freddie Mac Own Your Mortgage?" Web Form and Self–Service Tool
+## Special Statement Regarding the "Does Freddie Mac Own Your Mortgage?" Web Form and Self-Service Tool
 
 In connection with the federal _Making Home Affordable_ program, Freddie Mac has begun to provide a web form and related self-service tool on Freddiemac.com that enables individual borrowers to determine whether or not Freddie Mac owns their mortgage (the "Look-up Tool"). In order for Freddie Mac to be able to respond to those inquiries, individuals are asked to provide information that includes their Social Security number, first name, last name, property-related information and contact information. 
 
