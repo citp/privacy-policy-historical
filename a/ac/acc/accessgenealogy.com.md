@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessgenealogy.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622170426id_/http%3A//www.accessgenealogy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessgenealogy.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004104148id_/http%3A//www.accessgenealogy.com/privacy.htm) for the most accurate reproduction.*
 
 # AccessGenealogy - Our Privacy Statement
 
@@ -14,19 +14,19 @@ AccessGenealogy is committed to protecting your online privacy. We have develope
 
 **Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following option for removing their information from our database so as not to receive future communications,  and no longer receive our service. **
 
-You can fill out the form at [Comments](https://web.archive.org/web/20120622170426id_/http%3A//www.accessgenealogy.com/contact.php) **** and state at which services you have placed your information, and would like removed.
+You can fill out the form at [Comments](https://web.archive.org/web/20121004104148id_/http%3A//www.accessgenealogy.com/contact.php) **** and state at which services you have placed your information, and would like removed.
 
 **Correct/Update**
 
 **This site gives users the following options for changing and modifying information previously provided.**
 
-You can fill out the form at [Comments](https://web.archive.org/web/20120622170426id_/http%3A//www.accessgenealogy.com/contact.php) **** and correct or modify any information in our database.
+You can fill out the form at [Comments](https://web.archive.org/web/20121004104148id_/http%3A//www.accessgenealogy.com/contact.php) **** and correct or modify any information in our database.
 
 **Contacting the Web site**
 
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact**
 
-[**Comments**](https://web.archive.org/web/20120622170426id_/http%3A//www.accessgenealogy.com/contact.php)
+[**Comments**](https://web.archive.org/web/20121004104148id_/http%3A//www.accessgenealogy.com/contact.php)
 
 **Advertisements**
 
