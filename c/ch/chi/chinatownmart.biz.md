@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chinatownmart.biz privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217164022id_/http%3A//www.chinatownmart.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatownmart.biz privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004094347id_/http%3A//www.chinatownmart.biz/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Chinatownmart B2B
+# Privacy Notice : Chinatownmart
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of [Chinatownmart](http://www.chinatownmart.biz/) Inc.
 
