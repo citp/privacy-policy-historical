@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animalplanet.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501054344id_/http%3A//animal.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalplanet.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004134154id_/http%3A//animal.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Animal Planet
 
