@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606041615id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004182026id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
