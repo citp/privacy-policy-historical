@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subpop.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508070230id_/http%3A//www.subpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subpop.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004201111id_/http%3A//www.subpop.com/privacy) for the most accurate reproduction.*
 
 # Sub Pop Records
 
@@ -22,6 +22,6 @@ We will never share, sell, or rent individual personal information with anyone w
 
 #### How can you stop receiving email from us?
 
-Each email sent contains a link to [your account page](https://web.archive.org/account) where you can control your email settings. If you forgot your password and can't access your account page, visit our [password recovery page](https://web.archive.org/web/20120508070230id_/http%3A//www.subpop.com/account/forgot_password). 
+Each email sent contains a link to [your account page](https://web.archive.org/account) where you can control your email settings. If you forgot your password and can't access your account page, visit our [password recovery page](https://web.archive.org/web/20121004201111id_/http%3A//www.subpop.com/account/forgot_password). 
 
 If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [webmaster@subpop.com](mailto:webmaster@subpop.com) for review. 
