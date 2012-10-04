@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefrugaltoad.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501054847id_/http%3A//www.thefrugaltoad.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugaltoad.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004153536id_/http%3A//www.thefrugaltoad.com/privacy-policy-2) for the most accurate reproduction.*
 
-# - The Frugal Toad
+# Privacy Policy | The Frugal Toad
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -21,6 +21,6 @@ We have included links on this site for your use and reference. We are not respo
  **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of The Frugal Toad then you may contact us at thefrugaltoad@gmail.com
+If you have any questions regarding the privacy policy of The Frugal Toad then you may contact us at thefrugaltoad at gmail dot com
 
 Last updated Thu, 15 Mar 2012 06:45
