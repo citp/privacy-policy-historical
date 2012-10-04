@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509044541id_/http%3A//www.ediets.com/company/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004071550id_/http%3A//www.ediets.com/company/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
