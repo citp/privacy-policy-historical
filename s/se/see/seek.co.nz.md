@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.co.nz privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507002304id_/http%3A//www.seek.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.co.nz privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004053521id_/http%3A//www.seek.co.nz/privacy) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
@@ -140,3 +140,6 @@ Australia
 ##  More Information About Privacy
 
 For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's](http://www.privacy.gov.au/) website.
+
+  
+
