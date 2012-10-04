@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolcenter.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509073327id_/http%3A//www.poolcenter.com/security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolcenter.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004163410id_/http%3A//www.poolcenter.com/security.htm) for the most accurate reproduction.*
 
 # Privacy & Security at POOLCENTER.com: Pool Parts, Pool Toys, Pool Alarms & more
 
