@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vsp.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508042935id_/https%3A//www.vsp.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vsp.com privacy policy that was archived on 2012-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005015450id_/https%3A//www.vsp.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="content-type" content="text/html">
@@ -20,7 +20,7 @@
 <![endif]-->
 
     
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="/script/jquery.js"></script>
     <script type="text/javascript" src="/script/base.js"></script>
     <script type="text/javascript" src="/script/jquery-ui-1.8.17.custom.min.js"></script>
     <script type="text/javascript" src="/script/jquery.cookie.js"></script>
@@ -29,9 +29,10 @@
     <script type="text/javascript" src="/script/jquery.util.js"></script>
     <script type="text/javascript" src="/script/jquery.simplemodal.js"></script>
     <script type="text/javascript" src="/script/jquery.loginBlock.js"></script>
-    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/additional-methods.min.js"></script>    
+    <script type="text/javascript" src="/script/jquery.validate.js"></script>
+    <script type="text/javascript" src="/script/additional-methods.js"></script>
     <script type="text/javascript" src="/cms/script/vsp.js"></script>
+    <script type="text/javascript" src="/tiles/MP_enes.js"></script>
     
       <script language="JavaScript" type="text/javascript" src="/script/jquery.validate.js"></script>
     
@@ -62,7 +63,7 @@
 
 
 
-<div class="logo grid_4"><a href="/home.html" title="Home Page"><!-- mp_trans_remove_start --><img src="/img/vsp-logo.gif" width="68" height="55" alt="VSP(R) Vision Care" style="margin-left:20px"><!-- mp_trans_remove_end --><!-- mp_trans_add <img src="/img/vsp-logo-es.gif" width="68" height="55" alt="VSP(R) Vision Care" style="margin-left:20px" /> --></a></div>
+<div class="logo grid_4"><a href="/home.html" title="Home Page"><img src="/img/vsp-logo.gif" width="68" height="55" alt="VSP(R) Vision Care" style="margin-left:20px"></a></div>
 <div class="headerTools grid_12">
 	<div class="toolButtons">
 		
@@ -74,59 +75,60 @@
 	            <!-- LOGIN BLOCK WHEN USER NOT LOGGED IN -->
 				
 
+
+
 <div class="loginBlock loginHide">
+
 	<div class="loginHeader">
-		<div class="headerText">ALREADY REGISTERED? Log In Here: </div>
+		<div class="headerText">ALREADY HAVE A VSP.COM ACCOUNT? Log In Here: </div>
 	</div>
 	<div id="accBody">
-<form id="login" name="loginForm" action="/login.html" method="post">  
-  <fieldset>
-    <div>
-      <div class="longFieldWrapper"><input type="text" name="userid" id="userid" value="" size="16" autocomplete="off" alt="User Name"></div>
-      <div class="longFieldWrapper"><input type="password" name="password" id="password" size="16" autocomplete="off" alt="Password"></div>
-    </div>
-    <input type="submit" id="login_0" value="Log In">
+		
 
-  </fieldset> 
+
+<form id="login" name="loginForm1" action="/login.html" method="post">  
+	  <fieldset><!-- login fieldset -->
+		    <div><!-- div inside login fieldset -->
+		    	<div class="relativePosition">
+			      <label for="userid" class="loginLabel">Member User Name</label>
+			      <input type="text" name="userid" id="userid" class="longField nofull absPosition" value="" size="16" autocomplete="off" alt="Member User Name" placeholder="Member User Name">
+			    </div>  
+			    <div class="relativePosition">
+			      <label for="password" class="loginLabel">Password</label>
+			      <input type="password" name="password" id="password" class="longField nofull absPosition" size="16" autocomplete="off" alt="Password" placeholder="Password">
+			    </div>
+		      
+		    </div><!-- END div inside login fieldset -->
+	    <input type="submit" id="login_0" value="Log In">
+
+	  </fieldset><!-- END login fieldset -->
+  
   <label class="rememberME" for="login_rememberme">Remember User Name:</label>
   <input type="checkbox" name="rememberme" value="true" id="login_rememberme">
-<input type="hidden" id="__checkbox_login_rememberme" name="__checkbox_rememberme" value="true"> <br>
-  <a class="lostPassword" href="/forgot-userid.html">Forgot your user name or password?</a></form>
+<input type="hidden" id="__checkbox_login_rememberme" name="__checkbox_rememberme" value="true"> 
+  <a class="lostPassword" href="/forgot-userid.html">Forgot User Name or Password?</a>
+  
+</form>
 
 
 
 
-	</div>
-	<div class="loginHeader header_RegistrationBar">
-		<a class="headerText" href="/register.html">REGISTER NOW</a>
-	</div>
-</div>
-<script type="text/javascript" src="/script/jquery.example.js"></script>
-<script type="text/javascript">
-  $(document).ready(function() {
-   $("form[name='loginForm']").click(function(form) {
-  	$('#login').trigger('example:resetForm');
-	}).bind('loginForm.validate',function(e,validator){
-    }).validate({
-    	ignore:[],
-        highlight:false,
-        rules: {
-          "userid" : { required: true},
-          "password" : { required: true}
-        },
-        messages: {        
-          "userid": { required: " Required field"},
-          "password": { required: " Required field"}
-        }
-    });
-	$('input#userid').example('User Name');
-    $('input#password').example('Password');
-  });  
-</script>
-	               
-						
 		
-		<span><a mporgnav="" href="https://es.vsp.com/enes/privacy.html?" class="motionpoint linkButton" style="float:right">Español</a></span>    
+	</div><!-- END accBody -->
+	<div class="loginHeader header_RegistrationBar_orange">
+		<a class="headerText fullWidth" href="/register.html">REGISTER FOR A VSP.COM ACCOUNT</a>
+	</div>
+	
+</div><!-- END loginBlock loginHide -->
+	               
+					
+		
+		<span><a mporgnav="" href="https://es.vsp.com/enes/privacy.html?" class="motionpoint linkButton" onclick="return switchLanguage('es');
+		function switchLanguage(lang) {
+    		MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+			MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+			return false;
+		}">Español</a></span>    
 	</div>
 </div>
 <div style="clear:both;">&nbsp;</div>
@@ -211,9 +213,9 @@
 
 <script type="text/javascript">
   $(document).ready(function() {
-	$("form.jqtransform").jqTransform();
+	$('form[name="idCardForm1"]').jqTransform();
 	  
-    $("form[name='idCardForm1']").validate({
+    $('form[name="idCardForm1"]').validate({
     	ignore:[],
         highlight:false,
         errorPlacement: function (error,element) {
@@ -224,7 +226,11 @@
         },
         messages: {        
           "state": { required: " Required field"}
-        }
+        },
+      errorPlacement: function(error, element) {
+        error.insertAfter(element.parent("div"));
+		$('.error').css ('display', 'block');
+      }      
     });
   
     $("#card1").bind('click',function() {      
@@ -246,32 +252,33 @@
       	
 
 <div class="topCorner"></div>
-<a href="/home.html" class="selected">MEMBERS</a>
-<a href="https://visionbenefits.vsp.com ">BENEFITS MANAGERS</a>
-<a href="https://visionplans.vsp.com">BROKERS</a>
+<a href="/home.html" class="selected topNavLinkSelected">MEMBERS</a>
+<a href="https://visionbenefits.vsp.com " class="topNavLink">BENEFITS MANAGERS</a>
+<a href="https://visionplans.vsp.com" class="topNavLink">BROKERS</a>
 
       </nav>
       <nav class="subNavTop">
         
 <div class="mainContentMenuContainer">
-  <a href="/scms/benefits/how-to-use-my-benefits.html" class="first">My Benefits</a>
-  <a href="/find-doctor.html">Find a VSP Doctor</a>
-  <a href="/eye-care.html">Eye Care Information</a>
-  <a href="/glasses.html">Glasses, Contacts &amp; Lasik</a>
-  <a href="/optical-discounts.html">Special Offers</a>
-  
-  
-  	<span><a href="/vision-insurance.html">Become a Member</a></span>
-  
+	  
+	  
+	  		<a href="/vision-care.html" class="first">Become a Member</a>
+	  
+	  <a href="/scms/benefits/how-to-use-my-benefits.html">My Benefits</a>
+	  <a href="/find-doctor.html">Find a VSP Doctor</a>
+	  <a href="/eye-care.html">Eye Care Information</a>
+	  <a href="/glasses.html">Glasses, Contacts &amp; Lasik</a>
+	  <a href="/optical-discounts.html">Special Offers</a> 
 </div>
+
 
       </nav>
       <!-- END: top navigation -->
-      
+
     </div> <!-- /headerContainer -->
     <div class="clear"></div>
     <!-- END: header -->
-  
+
     <!-- middle container. All except for header and footer. -->
     <div class="bodyContainer clearfix">
       <a id="maincontent" name="maincontent"></a>
@@ -349,7 +356,7 @@
     </div> <!-- /bodyContainer -->
     <div class="clear"></div>
     <!-- END: middle container -->
-    
+
     <!-- footer -->
     <div class="footerContainer">
 		
@@ -360,7 +367,7 @@
   <a href="http://vspglobal.com/cms/careers.html" target="_blank">Careers</a><br>
   <a href="http://vspglobal.com/cms/vspglobal-outreach.html" target="_blank">Outreach</a><br>
   <a href="http://newsroom.vspglobal.com/pr/vsp/default.aspx" target="_blank">Newsroom</a><br>
-  <a href="http://vspglobal.com/cms/what-is-vspglobal/facts.html" target="_blank">Company Facts</a>
+  <a href="http://vspglobal.com/cms/doctors/be-a-vsp-doctor.html" target="_blank">Become a VSP Provider</a>
 </footer>
 <footer class="grid_3">
   <a href="/log-in-questions.html" class="r"><b>FAQs</b></a><br>
@@ -404,6 +411,7 @@
     <!-- END: footer -->
 
   </div> <!-- /fullContainer  -->
+  <script type="text/javascript" id="mpelid" src="//es.vsp.com/mpel/mpel.js"></script>
 <!-- mp_trans_remove_start -->
     <script type="text/javascript" language="javascript">
       var vsp_DCSID = "dcs8in19dek6qgrrj8bla3woy_1f3l";
