@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tcpiputils.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230061256id_/http%3A//www.tcpiputils.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpiputils.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004044214id_/http%3A//www.tcpiputils.com/policy) for the most accurate reproduction.*
 
 # Policy and Terms of Use for TCPIPUTILS.COM
-
-## Terms of Use
 
 TCPIPUTILS.COM is a free service provided for system and network administrators.
 
@@ -11,8 +9,6 @@ You are free to use this service on an As-Is basis. TCPIPUTILS.COM does not hold
 You may not send automated queries of any sort to TCPIPUTILS.COM service. TCPIPUTILS.COM limits anonymous and free usage to 200 queries per day from a single IP address. You may not use a proxy service when using TCPIPUTILS.COM to hide your IP address.
 
 You may only execute queries against IP addresses that are under your control. You may not use TCPIPUTILS.COM services to probe a network for exploits or to execute any other illegal activity. TCPIPUTILS.COM will cooperate with local, state, federal and international government to track down any unauthorized use of this site.
-
-## Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@tcpiputils.com.
 
