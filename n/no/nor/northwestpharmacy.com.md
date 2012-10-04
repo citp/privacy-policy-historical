@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501044025id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004103009id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NorthWestPharmacy.com
 
@@ -26,11 +26,11 @@ Cart is currently empty
 |  |  Pharmawest Pharmacy  
 Unit #101 20560 56th Ave  
 Langley, BC, Canada  
-V3A 3Y8  
-  
+V3A 3Y8
+
 Pharmawest Pharmacy License Number: 18978
 
-(*Not all prescriptions dispensed by Pharmawest.)  
+(*Not all prescriptions supplied by Pharmawest.)  
   
 ---|---  
   
@@ -57,7 +57,7 @@ Vancouver, BC, V6J 5C6
 ---|---  
   
   
-[ ](http://www.rxrights.org/)  
+[ ](http://www.rxrights.org/take-action)  
   
 |    
 **Privacy Policy**
@@ -90,7 +90,7 @@ We use personal information only for the purposes that we have disclosed to you.
 
 **_Agents/Service Providers_**
 
-We use other third parties such as affiliate dispensing pharmacies to fulfill orders, credit card and ACH check processing companies to bill you for goods and services and an email service provider to send out emails on our behalf. When you create an account with us to purchase prescription and non-prescription products, we may share your name, address and medical profile information [i.e. height, weight, date of birth, gender, the existence and types of drug allergies, medications requested, medical history information, details of your existing medications, prescription information, and the name of your primary physician and his or her contact information. 
+We use other third parties such as affiliate dispensing pharmacies and fulfillment centers to fulfill orders, credit card and ACH check processing companies to bill you for goods and services and an email service provider to send out emails on our behalf. When you create an account with us to purchase prescription and non-prescription products, we may share your name, address and medical profile information (i.e. height, weight, date of birth, gender, the existence and types of drug allergies, medications requested, medical history information, details of your existing medications, prescription information, and the name of your primary physician and his or her contact information.) 
 
 These third parties are prohibited from using your personally identifiable information for promotional purposes. 
 
@@ -108,7 +108,7 @@ The security of your personal information is important to us. When you enter sen
 
 **_Accessing and Amending Your Information_**
 
-If your or your family members personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within the “My Account” section of the site or by emailing our Customer Support at [CustomerService@NorthWestPharmacy.com](mailto:customerservice@northwestpharmacy.com).We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [CustomerService@NorthWestPharmacy.com](mailto:customerservice@northwestpharmacy.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If your or your family members personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within the “My Account” section of the site or by emailing our Customer Support at [CustomerService@NorthWestPharmacy.com](mailto:customerservice@northwestpharmacy.com). We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [CustomerService@NorthWestPharmacy.com](mailto:customerservice@northwestpharmacy.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **_Cookies_**
 
