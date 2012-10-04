@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoishostingthis.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521193741id_/http%3A//www.whoishostingthis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoishostingthis.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004135140id_/http%3A//www.whoishostingthis.com/privacy-policy) for the most accurate reproduction.*
 
 # WhoIsHostingThis.com Privacy Policy
 
