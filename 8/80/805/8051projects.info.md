@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603104436id_/http%3A//www.8051projects.info/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004024911id_/http%3A//www.8051projects.info/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Free 8051 Microcontroller Projects
 
