@@ -1,520 +1,114 @@
-<!--The following is the downloaded HTML source of the inetgiant.in privacy policy that was archived on 2011-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111009171852id_/http%3A//www.inetgiant.in/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inetgiant.in privacy policy that was archived on 2012-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004082419id_/http%3A//www.inetgiant.in/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-IN" lang="en-IN"><head>
-        
-        <title>InetGiant Free Advertising - Privacy Policy</title> 
-        <meta name="KEYWORDS" content="Free Advertising, Privacy Policy for InetGiant , classifieds">
-        <meta name="DESCRIPTION" content="InetGiant Free Advertising - Privacy Policy">
-        <meta name="robots" content="noodp">
-        <meta name="ROBOTS" content="INDEX,FOLLOW">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta http-equiv="content-language" content="en-IN">
-        
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-        <script src="http://ruqlip.net/all/c/mvc/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
-        <script type="text/javascript" src="http://www.google.com/jsapi"></script>
-        <script type="text/javascript" charset="utf-8">google.load('ads', '1', { packages: ['search'] });</script>
-        <script src="http://ruqlip.net/all/j/jquery.autocomplete.min.js" type="text/javascript"></script>
-        <link href="http://ruklip.net/all/inetgiantall/css/styleNew.css" rel="stylesheet" type="text/css">
-        
-	<link href="http://ruqlip.net/all/inetgiantall/css2/style_new.css" type="text/css" rel="stylesheet">
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<title>InetGiant Free Advertising - Privacy Policy</title>
+<meta name="description" content="InetGiant Free Advertising - Privacy Policy">
+<meta name="robots" content="noindex,nofollow">
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link href="http://static.inetgiant.in/styles/style.css" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/png" href="http://static.inetgiant.in/images/favicon.png">
+<script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
-    </head>
-    <body>
-        
-        
 
-<div id="follow">
-    <div class="wrap">
-        <div id="userLoggedOffContainer" style="display: none">
-            
-                <a href="http://www.inetgiant.in/LoginForm.aspx" rel="nofollow">LOGIN</a> &nbsp;|&nbsp; <a href="http://www.inetgiant.in/Registration.aspx" rel="nofollow">Registration</a>
-            
-            <div class="account">
-                Don't have an account?
-                <a href="http://www.inetgiant.in/LoginForm.aspx" rel="nofollow">Sign up</a>
-            </div>
-        </div>
-        <div id="userLoggedInContainer" style="display: none">
-            <div class="profile">
-                <img class="avatar" src="" alt="avatar">
-                <a class="name" href="#"></a>
-                <a class="signout" href="javascript:void(0)">Sign out</a>
-            </div>
-            <script type="text/javascript">
-                $('.signout').click(function () {
-                    FB.init({ appId: '110466865702884', channelUrl: 'http://www.inetgiant.in/xd_receiver.htm' }); 
-                    FB.getLoginStatus(function (response) {
-                        if (response.session) {
-                            FB.logout(function (response) {
-                                window.location = "/Logout.aspx?returnUrl=http://www.inetgiant.in";
-                            });
-                        }
-                        else {
-                            window.location = "/Logout.aspx?returnUrl=http://www.inetgiant.in";
-                        }
-                    });
-                });
-            </script>
-        </div>
-    </div>
-</div>
-<script type="text/javascript">
-        function getAdId() {
-            var urlPathArray = window.location.pathname.split('/');
-            return urlPathArray[urlPathArray.length - 1];
-        }
-        function resend_message(i) {
-            $('#loading').fadeIn();
-            $.ajax({
-                type: 'POST',
-                url: '/account/resendmsg/',
-                data: { id: i, adid: getAdId() },
-                success: function () { },
-                complete: function () { }
-            });
-        }
+							var _gaq = _gaq || [];
+							_gaq.push(['_setAccount', 'UA-2608482-8']);
+							_gaq.push(['_setDomainName', '.inetgiant.in']);
+							_gaq.push(['_trackPageview']);
+	
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-        function check_login_status(isShouldRedirectToMyHome) {
-            var noCache = Date();
-            var userId = $('#userId').val();
-            $.getJSON('/getuserstatus', { 'noCache': noCache, 'userId': userId }, function (data) {
-                if (data.isUserAmericanOrCanadian == true && $('#inetgiantContestBanner') != null) {
-                    $('#inetgiantContestBanner').css('display', 'block');
-                }
-                if (data.auth == 'Ok') {
-                    if (isShouldRedirectToMyHome == true) {
-                        window.location = '/myhome.aspx';
-                    } else {
-                        $('.profile').children('.name').attr('href', '/myhome.aspx');
-                        $('.profile').children('.name').html(data.username);
-                        $('.profile').children('.avatar').attr('src', data.userAvatar);
-                        if (data.edit)
-                            $('#manage').show();
-                        $('#userLoggedInContainer').show();
-                        $('#userLoggedOffContainer').hide();
-                        $('#loader_img').hide();
-                    }
-                }
-                else {
-                    $('#userLoggedOffContainer').show();
-                    $('#userLoggedInContainer').hide();
-                    $('#loader_img').hide();
-                }
-            });
-        }
-        $('#follow').ready(function () {
-            check_login_status();
-        });
 </script>
-        <div id="wrapper" style="">
-            
-<style type="text/css">
-    #listlocations
-    {
-        position: absolute;               
-        top: 98px;
-        width: 252px;
-        z-index: 99999;
-    }
-    #listlocations ul
-    {
-        background: #FFEFD4;
-        border: 1px solid #FFB845;
-        -webkit-border-radius: .5em;
-        -moz-border-radius: .5em;
-        border-radius: .5em;
-        overflow: hidden;
-    }
-    #listlocations ul li
-    {
-        padding: 5px;
-        text-indent: 5px;
-        border-top: 1px dashed #FFB845;
-        cursor: pointer;
-    }
-    #listlocations ul li:first-child
-    {
-        border: none;
-    }
-    #listlocations ul li:hover
-    {
-        background: #FFB845;
-        color: #fff;
-    }
-    #listlocations ul .hover
-    {
-        background: #FFB845;
-        color: #fff;
-    }
-</style>
-<div style="font-size: 80%">
-    <div id="header">
-        <h1>
-            InetGiant Free Advertising - Privacy Policy Page - Free Classifieds
-        </h1>
-        <div class="hgroup">
-            <h2 style="padding-right: 25px; background: transparent url(http://ruqlip.net/all/inetgiantall/images/flags.header/in.png) right 2px no-repeat;">
-                <a href="/" title="Free Classifieds">
-                    Free Classifieds</a></h2>
-            <div class="popup">
-                <div class="border">
-                    Thank you for visiting the Privacy Policy page for our online classifieds site. We provide high response internet advertisements for your product or service. Use our online classified ads system to sell your stuff today! If this is your first time placing classifieds with us, <a href="/Registration.aspx">click here</a> to sign up. It is easy to advertise online with InetGiant. We are the best Internet Advertisement Website.
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="logo">
-        <a href="http://www.inetgiant.in" title="">
-            <img src="http://ruqlip.net/all/inetgiantall/images/newlogo.png" alt="" title=""></a>
-    </div>
-    <div id="account">
-        <div id="userLoggedOffContainer" style="display: none">
-		
-			<a href="http://www.inetgiant.in/LoginForm.aspx" rel="nofollow">
-                LOGIN</a> &nbsp;|&nbsp; <a href="http://www.inetgiant.in/Registration.aspx" rel="nofollow">Registration</a>
-		
-        </div>
-        <div id="userLoggedInContainer" style="display: none">
-            Welcome,&nbsp;<span id="usernameContainer"></span>
-            
-            &nbsp;|&nbsp;<a href="#" id="logoutlink">LOGOUT</a>
-                &nbsp;|
-            <script type="text/javascript">
-                $('#logoutlink').click(function () {
-                    FB.getLoginStatus(function (response) {
-                        if (response.session) {
-                            FB.logout(function (response) {
-                                window.location = "/Logout.aspx?returnUrl=http://www.inetgiant.in/privacypolicy";
-                            });
-                        }
-                        else {
-                            window.location = "/Logout.aspx?returnUrl=http://www.inetgiant.in/privacypolicy";
-                        }
-                    });
-                });
-            </script>
-        </div>
-        <img src="http://ruklip.net/all/i/loader.gif" width="150px" style="padding-top: 7px" id="loader_img">
-    </div>
-    
-    <script type="text/javascript">
-        jQuery.cookie = function (name, value, options) {
-            if (typeof value != 'undefined') { // name and value given, set cookie
-                options = options || {};
-                if (value === null) {
-                    value = '';
-                    options.expires = -1;
-                }
-                var expires = '';
-                if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
-                    var date;
-                    if (typeof options.expires == 'number') {
-                        date = new Date();
-                        date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
-                    } else {
-                        date = options.expires;
-                    }
-                    expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
-                }
-                // CAUTION: Needed to parenthesize options.path and options.domain
-                // in the following expressions, otherwise they evaluate to undefined
-                // in the packed version for some reason...
-                var path = options.path ? '; path=' + (options.path) : '';
-                var domain = options.domain ? '; domain=' + (options.domain) : '';
-                var secure = options.secure ? '; secure' : '';
-                document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
-            } else { // only name given, get cookie
-                var cookieValue = null;
-                if (document.cookie && document.cookie != '') {
-                    var cookies = document.cookie.split(';');
-                    for (var i = 0; i < cookies.length; i++) {
-                        var cookie = jQuery.trim(cookies[i]);
-                        // Does this cookie string begin with the name we want?
-                        if (cookie.substring(0, name.length + 1) == (name + '=')) {
-                            cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
-                            break;
-                        }
-                    }
-                }
-                return cookieValue;
-            }
-        };
-    </script>
-    <script>
-        function fadeOutResult(successId) {
-            $('#' + successId).fadeOut();
-        }
-        function resend_message(i, loadingId, successId) {
-            $('#' + loadingId).fadeIn();
-            $.ajax({
-                type: 'POST',
-                url: '/account/resendmsg/',
-                data: { id: i, adid: getAdId() },
-                success: function () {
-                    $('#' + loadingId).hide();
-                    var $result = $('#' + successId);
-                    $result.fadeIn();
-                    setTimeout(fadeOutResult, 3000, successId);
-                },
-                complete: function () {
-                    $('#' + loadingId).hide();
-                }
-            });
-        }
-    </script>
-    <script type="text/javascript">
-        function getAdId() {
-            var urlPathArray = window.location.pathname.split('/');
-            return urlPathArray[urlPathArray.length - 1];
-        }
 
-        function check_login_status() {
-            var noCache = Date();
-            var userId = $('#userId').val();
-            $.getJSON('http://' + 'www.inetgiant.in' + '/getuserstatus', { 'noCache': noCache, 'userId': userId }, function (data) {
-                if (data.auth == 'Ok') {
-                    $('#usernameContainer').html('<a href="/myhome.aspx">' + data.UserName + '</a>');
-                    if (data.edit)
-                        $('#manage').show();
+<script src="http://static.inetgiant.in/js/jquery.js"></script>
+<script type="text/javascript">
+function setcookie(name, value, expires, path, domain, secure) {
+	expires instanceof Date ? expires = expires.toGMTString() : typeof(expires) == 'number' && (expires = (new Date(+(new Date) + expires * 1e3)).toGMTString());
+	var r = [name + "=" + escape(value)], s, i;
+	for(i in s = {expires: expires, path: path, domain: domain}){
+		s[i] && r.push(i + "=" + s[i]);
+	}
+	return secure && r.push("secure"), document.cookie = r.join(";"), true;
+}
 
-                    $('#userLoggedInContainer').css('display', 'block');
-                    $('#userLoggedOffContainer').css('display', 'none');
-                    $('#loader_img').css('display', 'none');
-                    //$('#account').html($('#userLoggedInContainer').html());
-                }
-                else {
-                    $('#userLoggedOffContainer').css('display', 'block');
-                    $('#userLoggedInContainer').css('display', 'none');
-                    $('#loader_img').css('display', 'none');
-                    //$('#account').html($('#userLoggedOffContainer').html());
-                }
-            });
-        }
-        $('#account').ready(function () {
-            check_login_status();
-        });
-    </script>
-    <div id="postads">
-        <a rel="NoFollow" href="javascript:void(0);" title="" class="button orange" id="postnewadbutton">
-            Post an ad</a>
-    </div>
-    <div id="socialsharebox" style="text-align:right">
-    <ul>
-    <li style="display:inline"><g:plusone size="tall"></g:plusone></li>
-    <li style="display:inline"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Finetgiant&amp;width=209&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:235px; height:62px;" allowtransparency="true"></iframe></li>
-    </ul>
-    </div>
-    <div id="sitemap">
-        <a href="/sitemap/archive">(Archive)</a> <a href="/sitemap/new">
-            (New)</a> <a href="/sitemap/active">(active)</a>
-    </div>
-    <div id="search">
-        <div class="tabs">
-            <ul>
-                <li><a href="http://www.inetgiant.in/classifieds">
-                    Classifieds</a></li>
-                <li><a href="/trends" style="color: #AAAAAA;">
-                    Trends</a></li>
-                
-            </ul>
-        </div>        
-        <div class="form">
-            <div class="field">
-                <div class="border">
-                    
-                    <input id="searchwhat" type="text" value="What are you looking for?" onkeydown="return locateEnterButton(event)" onfocus="if (this.value == 'What are you looking for?') { this.value = '';}" onblur="if (this.value == '') { this.value='What are you looking for?'; }">                    
-               </div>
-            </div>
-            <div class="field">
-                <div class="border" id="wherebox">
-                
+/* <![CDATA[ */
+$(document).ready(function() {
+	$.getJSON('/ajax/checkcookie', function (result){
+		setcookie(result.name, result.value, 3600, '/', '.inetgiant.in');		
+	});
+});
+/* ]]> */
+</script>
 
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+ 
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/3785247/IN_300', [300, 250], 'div-gpt-ad-1340991265825-0').addService(googletag.pubads());
+googletag.defineSlot('/3785247/IN_728', [728, 90], 'div-gpt-ad-1340991265825-1').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+</head>
 
-                     <input type="text" value="India" class="changelocation" id="location_label" onfocus="if (this.value == 'India') { this.value = ''; $('#change_label').css('display', 'none'); }" onblur="if (this.value == '') { this.value='India'; $('#change_label').css('display', 'inline'); }">                    
-                    <span id="change_label" style="position:absolute; color: #0044CC; cursor: pointer; left:450px; top:41px;" onclick="$('#location_label').focus(); $(this).css('display', 'none');">(Change)</span>
-                </div>
-            </div>
-
-            <div class="button">
-                <input type="image" src="http://ruqlip.net/all/inetgiantall/images/search.png" value="Search" id="searchbutton" class="button green">
-            </div>
-        </div>
-    </div>
-
-    <input type="hidden" value="-1" id="loc_id">
-    <script type="text/javascript">
-        var illegalCharacters = new RegExp(/[:"']/g)
-        var charactersForReplace = new RegExp(/[\.,\-]/g);
-        var pos = $('#wherebox').position().left + $('#wherebox').width() - 54;
-        $('#change_label').css('left', pos + 'px');
-
-        if ($('#container').width() > 1004)
-            $('#listlocations').css('left', 618);
-
-        $('#postnewadbutton').click(function () {
-            if ($('#loc_id').val() > 0) {
-                var url = "/postnewad.aspx?location=" + $('#loc_id').val();
-                window.location = url;
-            }
-            else
-                window.location = "/postnewad.aspx";
-        });
-
-        function locateEnterButton(e) {
-            var keynum;
-            if (window.event) // IE
-            {
-                keynum = e.keyCode
-            }
-            else if (e.which) // Netscape/Firefox/Opera
-            {
-                keynum = e.which
-            }
-            if (keynum == 13) {
-                $('#searchbutton').click();
-            }
-        }
-
-        $('#searchbutton').click(function () {
-
-            var searchWords = $('#searchwhat').val().replace(illegalCharacters, '').replace(charactersForReplace, ' ');
-            searchStart(searchWords);
-        });
-
-        function searchStart(searchWords) {
-            if ($('#loc_id').val() != "-1") {
-                if (searchWords.toString().length >= 3)
-                    window.location = "http://www.inetgiant.in/search/0/" + searchWords + "/" + $('#loc_id').val();
-            } else {
-                if (searchWords.toString().length >= 3)
-                    window.location = "http://www.inetgiant.in/search/0/" + searchWords;
-            }
-        }
-
-        var liSelected = -1;
-        $('#searchwhat').keyup(function (e) {
-            if (e.keyCode == 13) {
-                searchStart();
-            }
-        });
-        $('.changelocation').keydown(function (e) {
-            if ($('#container').width() > 1004)
-                $('#listlocations').css('left', 618);
-            else
-                $('#listlocations').css('left', 499);
-
-            if (e.keyCode == 13) {
-                if (liSelected != -1) {
-                    $('#listlocations ul li[value=' + liSelected + ']').trigger('click');
-                }
-                //                    searchStart();
-            }
-            else {
-                if (e.keyCode == 40) {
-                    if (liSelected == -1) {
-                        $('#listlocations ul li:first').attr('class', 'hover');
-                        liSelected = $('#listlocations ul li:first').attr('value');
-                    } else {
-                        var obj = $('#listlocations ul li[value=' + liSelected + ']').next();
-                        if (obj.length != 0) {
-                            obj.attr('class', 'hover');
-                            $('#listlocations ul li[value=' + liSelected + ']').attr('class', '');
-                            liSelected = $('#listlocations ul li[value=' + liSelected + ']').next().attr('value');
-                        }
-                    }
-                }
-                if (e.keyCode == 38) {
-                    if (liSelected > -1) {
-                        var obj = $('#listlocations ul li[value=' + liSelected + ']').prev();
-                        if (obj.length != 0) {
-                            obj.attr('class', 'hover');
-                            $('#listlocations ul li[value=' + liSelected + ']').attr('class', '');
-                            liSelected = $('#listlocations ul li[value=' + liSelected + ']').prev().attr('value');
-                        }
-                    }
-                }
-            }
-        });
-
-        $('#search').after('<div id="listlocations"><ul></ul></div>');
-
-        $(document).click(function () {
-            $('#listlocations ul').hide();
-        });
-
-        var isComing = false;
-        $('#listlocations ul').hide();
-        $('.changelocation').keyup(function (e) {
-            if (e.keyCode >= 37 && e.keyCode <= 40) return;
-            $('#loc_id').val("-1");
-            $('#listlocations ul li').remove();
-            var target = $(this);
-
-            if (target.val().length > 2) {
-                isComing = true;
-                $.getJSON("/masterpage/getlocationsinhelpmode", { q: $('.changelocation').val() }, function (json) {
-                    $('#listlocations ul li').remove();
-                    $('#listlocations ul').hide();
-                    var lcount = 0;
-
-                    function sortObject(o) {
-                        var a = [], i;
-                        for (i in o) {
-                            if (o.hasOwnProperty(i)) {
-                                a.push([i, o[i]]);
-                            }
-                        }
-                        a.sort(function (a, b) { return a[1] > b[1] ? 1 : -1; })
-                        return a;
-                    }
-
-                    var s = sortObject(json);
-
-                    $.each(s, function (key, value) {
-
-
-                        if (lcount <= 10) {
-                            $('#listlocations ul').show();
-                            $('#listlocations ul').append('<li value="' + value[0] + '">' + value[1] + '</li>');
-                            lcount++;
-                        }
-                    });
-
-
-                    $('#listlocations ul li').click(function () {
-                        if ($('#searchwhat').val() == "What are you looking for?") {
-                            $.getJSON("/masterpage/getlocationredirect", { locationid: $(this).attr('value') },
-                                function (data) {
-                                    window.location = data;
-                                });
-                        }
-                        target.val($(this).text());
-                        $('#change_label').css('display', 'inline');
-                        $('#listlocations ul li').remove();
-                        $('#listlocations ul').hide();
-                        $('#loc_id').val($(this).attr('value'));
-                        liSelected = -1;
-                        $('#searchwhat').focus();
-                    });
-                    isComing = false;
-                });
-            }
-        });
-            
-    </script>
-</div>
-
+<body>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
+<script type="text/javascript">_atrk_opts = { atrk_acct: "rhvSf1a0Or00M3", domain:"inetgiant.in"}; atrk ();</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=rhvSf1a0Or00M3" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<!-- Place this tag in the <head> of your document -->
+<script type="text/javascript">
+window.___gcfg = {lang: 'en'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();</script>
+<header id="header">
+  <div class="wrapper">
+    <div class="logo">
+      <h1><a href="/"><img src="http://static.inetgiant.in/images/logo.png" alt=""></a></h1>
+      <span class="in">Simple, Local, free </span> </div>
+    <div class="changelocation"><span><a href="http://www.inetgiant.in/">Free Classifieds</a> in</span> <strong><a href="http://www.inetgiant.in">India</a></strong> </div><form class="form" action="/search" method="get">
+  <input type="text" name="sPattern" class="field" placeholder="What are you looking for?" require="required">
+  <input class="button" type="submit" value="search">
+</form>
+    <div class="post"> <a href="http://www.inetgiant.in/item/new">Post An Ad</a> </div>
+    <div id="toolbar"> </div>
+  </div>
+</header>
 <style>
-.privacypolicy
-{
-    font-size: 114%;
+#footer {
+	background:url(http://static.inetgiant.in/images/footer.png) repeat-x;
+}
+#footer .wrapper {
+	background:url(http://static.inetgiant.in/images/img_footer.png) no-repeat bottom right;
 }
 </style>
- <div id="container">
-    <div id="content" class="privacypolicy">
+<div id="container">
+  <div class="wrapper">
+    	<div class="privacypolicy" id="content">
       <p><em>Last Updated on June 15, 2009</em></p>
       <p>iNetGiant takes your privacy seriously. We utilize safe, secure technology to protect your personally identifiable information. Please read the following to learn more about our Privacy Policy and how we use and protect your personal information.</p>
       <p><strong>Overview</strong> </p>
@@ -557,90 +151,73 @@
       </ol>
     </div>
   </div>
-
-            <div id="footer">
-                
-
-<div class="menu">
-    <ul>
-        
-        <li><a title="" href="/contact" rel="NoFollow">
-            Contact us</a> |</li>
-        <li><a title="" href="/privacypolicy" rel="NoFollow">
-            Privacy Policy</a> |</li>
-        <li><a title="" href="/terms" rel="NoFollow">
-            Terms of Use</a> |</li>
-        <li><a title="" href="/changelocation">
-            Browse Cities</a></li>
-		
-    </ul>
 </div>
+<footer id="footer">
+  <div class="wrapper">
+        <section class="soc_panel">
+      <div class="menu">
+        <ul>
+			         
+                                  <li><a href="http://www.inetgiant.in/inetgiant-locations" title=""> iNetGiant Locations</a> |</li> 
+          <li><a href="http://www.inetgiant.in/contact" title="Contact us" rel="nofollow"> Contact us</a> |</li>
+          <li><a href="http://www.inetgiant.in/privacypolicy" title="Privacy Policy" rel="nofollow"> Privacy Policy</a> |</li> 
+          <li><a href="http://www.inetgiant.in/terms" title="Terms of Use" rel="nofollow"> Terms of Use</a> |</li> 
+			          <li><a href="/archive" title="Archive"> Archive</a></li>
+        </ul>
+      </div>
+      <div class="copyright">Copyright © 2012 iNetGiant Media Group, LLC. All rights reserved. </div>
+          </section>
+  </div>
+<style type="text/css">
+.htmlsitemap {
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    width: 1000px;
+	padding-bottom: 10px;
+}
+.htmlsitemap ul {
+	padding: 5xp 10px;
+}
+.htmlsitemap ul li {
+	padding: 0 5px;
+	display: inline;
+}
+.htmlsitemap ul li a {
+	font-size: 80%;
+	color: #FFFFFF;
+}
+</style>
+<div class="htmlsitemap wrapper">
+<ul>
+<li style="color: #fff;"> Sitemap:</li>
+<li><a href="/htmlsitemap/automobiles">Automobiles</a></li><li><a href="/htmlsitemap/jobs-and-employment">Jobs and Employment</a></li><li><a href="/htmlsitemap/services">Services</a></li><li><a href="/htmlsitemap/electronics-and-appliances">Electronics and Appliances</a></li><li><a href="/htmlsitemap/animals-and-pets">Animals and Pets</a></li><li><a href="/htmlsitemap/for-rent">For Rent</a></li><li><a href="/htmlsitemap/items-for-sale">Items For Sale</a></li><li><a href="/htmlsitemap/real-estate">Real Estate</a></li><li><a href="/htmlsitemap/business-opportunities">Business Opportunities</a></li><li><a href="/htmlsitemap/community-and-events">Community and Events</a></li>      
+</ul>
+</div>
+</footer>
 
-                <div class="copyright"> Copyright © 2001-2011 InetGiant Media Group, LLC.</div>
-            </div>
-            
-        </div>
-        
 
-<div>
-	<script>
- window.google_analytics_uacct = "UA-2608482-8";
+<script>
+/* <![CDATA[ */
+$(document).ready(function() {
+	$.get('/ajax/checkuserlogin', function (result){
+		$('#toolbar').html(result);
+	});
+});
+/* ]]> */
 </script> 
 
-</div>
+<!-- facebook like -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script> 
+<!-- /facebook like --> 
 
-<div>
-	<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2608482-8']);
-  _gaq.push(['_setDomainName', '.inetgiant.in']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-</div>
-        <script type="text/javascript">
-            $(document).ready(function () {
-                $('#tablocation .tab li').each(function () {
-                    if (!$(this).hasClass('current')) {
-                        $('#' + $(this).attr('lang')).css('display', 'none');
-                    }
-                });
-
-                $('#tablocation .tab li').click(function () {
-                    $('#tablocation .tab li').each(function () {
-                        $(this).removeClass('current');
-                        $('#' + $(this).attr('lang')).css('display', 'none');
-                    });
-
-                    $(this).addClass('current');
-                    $('#' + $(this).attr('lang')).css('display', 'block');
-                });
-
-                $('.tabs .tab li').each(function () {
-                    if ($(this).attr('class') != 'current') {
-                        $('#' + $(this).attr('lang')).css('display', 'none');
-                    }
-                });
-
-                $('.tabs .tab li').click(function () {
-                    $(this).parents('.tab').find('li').each(function () {
-                        $(this).removeClass('current');
-                        $('#' + $(this).attr('lang')).css('display', 'none');
-                    });
-
-                    $(this).attr('class', 'current');
-                    $('#' + $(this).attr('lang')).css('display', 'block');
-                });
-            });
-        </script>
-    
-
-</body></html>
+ </body></html>
