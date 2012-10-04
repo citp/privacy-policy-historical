@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalgymdirect.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629121547id_/http%3A//www.totalgymdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalgymdirect.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004151556id_/http%3A//www.totalgymdirect.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for Total Gym Fitness, LLC
 
@@ -43,7 +43,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Please see our [Security Notice](https://web.archive.org/web/20120629121547id_/http%3A//www.totalgymdirect.com/goto.php?secure=goto.php&page=security.php) for more details.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Please see our [Security Notice](https://web.archive.org/web/20121004151556id_/http%3A//www.totalgymdirect.com/goto.php?secure=goto.php&page=security.php) for more details.
 
 **Our Commitment To Children's Privacy:**
 
