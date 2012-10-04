@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvtropes.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616060353id_/http%3A//tvtropes.org/pmwiki/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtropes.org privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004071625id_/http%3A//tvtropes.org/pmwiki/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TV Tropes
 
