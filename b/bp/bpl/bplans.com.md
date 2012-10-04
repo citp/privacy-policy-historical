@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508061401id_/http%3A//www.paloalto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004125755id_/http%3A//www.paloalto.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Palo Alto Software
+# Privacy Policy & Legal Information - Palo Alto Software
 
 Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for paloalto.com, which is owned and operated by Palo Alto Software, Inc.
 
