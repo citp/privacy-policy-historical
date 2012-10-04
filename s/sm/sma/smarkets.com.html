@@ -1,220 +1,381 @@
-<!--The following is the downloaded HTML source of the smarkets.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501073646id_/https%3A//smarkets.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smarkets.com privacy policy that was archived on 2012-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004135158id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><head>
-        <meta charset="utf-8">
-        <title>Privacy Policy - Smarkets</title>
-        <meta name="keywords" content="privacy, policy, information, collection, disclosure, smarkets, odds, betting, gaming, uk, prediction markets, markets, politicsmarkets, political">
-        <meta name="description" content="Smarkets's privacy policy, and how Smarkets deals with your private information.">
-        <meta http-equiv="X-UA-Compatible" content="IE=9">
-        
-        
-            <style type="text/css">
-@font-face {
-    font-family: KlavikaRegular;
-    src: url('/static/fonts/KlavikaWebBasic/EOT/KlavikaWebBasicRegular.eot');
-    src: url('/static/fonts/KlavikaWebBasic/EOT/KlavikaWebBasicRegular.eot#') format('embedded-opentype'),
-         url('/static/fonts/KlavikaWebBasic/WOFF/KlavikaWebBasicRegular.woff') format('woff');
-}
-@font-face {
-    font-family: KlavikaRegular;
-    font-weight: bold;
-    src: url('/static/fonts/KlavikaWebBasic/EOT/KlavikaWebBasicBold.eot');
-    src: url('/static/fonts/KlavikaWebBasic/EOT/KlavikaWebBasicBold.eot#') format('embedded-opentype'),
-         url('/static/fonts/KlavikaWebBasic/WOFF/KlavikaWebBasicBold.woff') format('woff');
-}
-@font-face {
-    font-family: KlavikaMedium;
-    font-weight: normal;
-    src: url('/static/fonts/KlavikaWebBasic/EOT/KlavikaWebBasicMedium.eot');
-    src: url('/static/fonts/KlavikaWebBasic/EOT/KlavikaWebBasicMedium.eot#') format('embedded-opentype'),
-         url('/static/fonts/KlavikaWebBasic/WOFF/KlavikaWebBasicMedium.woff') format('woff');
-}
-</style>
-            <!--[if gt IE 8]><!-->
-                
-                    <link rel="stylesheet" type="text/css" href="https://d2ddi39c2rqcmy.cloudfront.net/css/main.gz.3a223297.css">
+    <meta charset="utf-8">
+    <title>Privacy Policy - Smarkets</title>
+    <meta name="keywords" content="privacy, policy, information, collection, disclosure, smarkets, odds, betting, gaming, uk, prediction markets, markets, politicsmarkets, political, peer to peer betting">
+    <meta name="description" content="Smarkets's privacy policy, and how Smarkets deals with your private information.">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
 
-                
-            <!--<![endif]-->
-            <!--[if IE 8]>
-                
-                    <link rel="stylesheet" type="text/css" href="https://diy1dqjwmz5rw.cloudfront.net/css/main.ie8.gz.0fae80f5.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://d2ddi39c2rqcmy.cloudfront.net/beta/css/main.8487f35b.css">
+    
 
-                
-            <![endif]-->
-            <!--[if IE 7]>
-                
-                    <link rel="stylesheet" type="text/css" href="https://diy1dqjwmz5rw.cloudfront.net/css/main.ie7.gz.b065e667.css">
+    <script type="text/javascript" async="" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8">
+        // Break out of frames
+        if (window != top) top.location.href = location.href;
+        var GLOB = GLOB || {};
+        GLOB.config = 
+{
+    "user": {
+        "currencySymbol": "£",
+        "currency": "GBP",
+        "currencyRatio": "1.0",
+        "oddsChoice": "decimal",
+        "heartbeat": "60000",
+        "loggedIn": false,
+        "backerStake": true,
+        "display_name": false,
+        "id_slug": false
+    }
+};
+        GLOB.config.stream = {"secure": true, "exchange": "sio.url.<pathname>", "host": "<random>.live.smarkets.com", "timeout": "15000", "transports": ["websocket", "flashsocket"], "port": "443", "connectTimeout": "9000"};
+        WEB_SOCKET_SWF_LOCATION = '/static/swf/sio.swf';
+        // inject a class of "js" into the html element so CSS is aware of JS
+        document.documentElement.className += 'js';
+    </script>
 
-                
-            <![endif]-->
-            
-            <style type="text/css">
-                @media screen and (-webkit-min-device-pixel-ratio:0) {
-                    .date_field legend span,
-                    form.sign_up .date_field legend span,
-                    .sort_code legend span {
-                        left: 0;
-                    }
-                }
-            </style>
+    
         
+        
+            <script type="text/x-mustache-template" id="includes-_account_rows" charset="utf-8">
+                {{^no_results}}
+    &lt;table {{#show_more}} data-total=&#34;{{total}}&#34; data-limit=&#34;{{limit}}&#34;{{/show_more}}&gt;
+        &lt;thead&gt;
+            &lt;tr&gt;
+                &lt;th&gt;Event&lt;/th&gt;
+                &lt;th&gt;Time&lt;/th&gt;
+                &lt;th&gt;{{#show_backer}}Backer&#39;s{{/show_backer}} Stake&lt;/th&gt;
+                &lt;th&gt;Odds&lt;/th&gt;
+                &lt;th&gt;In/Out&lt;/th&gt;
+                &lt;th class=&#34;balance&#34;&gt;Balance&lt;/th&gt;
+                {{#show_details_link}}&lt;th class=&#34;implied&#34;&gt;More Details&lt;/th&gt;{{/show_details_link}}
+            &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          {{#results}}
+            &lt;tr class=&#34;{{#posneg}}{{posneg}}{{/posneg}}&#34; {{#contract_group_uid}} data-market_id=&#34;{{contract_group_uid}}&#34;{{/contract_group_uid}} data-source=&#34;{{source}}&#34; {{#commission}} data-commission=&#34;{{commission}}&#34;{{/commission}} {{#balance_without_commission}} data-balance_without_commission=&#34;{{balance_without_commission}}&#34;{{/balance_without_commission}} {{#change_without_commission}} data-change_without_commission=&#34;{{change_without_commission}}&#34;{{/change_without_commission}}&gt;
+              &lt;th scope=&#34;row&#34;&gt;
+                {{source_text}}
+                {{#contract}}
+                  - {{#show_side}} {{side}} {{/show_side}} {{contract}}
+                {{/contract}}
+                {{#event}}
+                  &lt;span class=&#34;event&#34;&gt;
+                  {{#contract_group}} {{contract_group}} {{/contract_group}} / {{#event_short_name}} {{event_short_name}} {{/event_short_name}}
+                  {{^event_short_name}}{{event}}{{/event_short_name}}
+                  &lt;/span&gt;
+                {{/event}}
+              &lt;/th&gt;
+              &lt;td class=&#34;timestamp&#34;&gt;{{timestamp}}&lt;/td&gt;
+              &lt;td class=&#34;amount {{#backer_stake}} backer {{/backer_stake}}&#34;&gt;{{#backer_stake}}&lt;span class=&#34;liability&#34;&gt;Liability: {{/backer_stake}} {{#stake}} {{stake}} {{/stake}} {{#backer_stake}}&lt;/span&gt;{{/backer_stake}}{{^stake}}&amp;mdash;{{/stake}} {{#backer_stake}}&lt;span class=&#34;stake&#34;&gt;{{backer_stake}}&lt;/span&gt;{{/backer_stake}}&lt;/td&gt;
+              &lt;td&gt;{{#odds}}{{odds}}{{/odds}}{{^odds}}&amp;mdash;{{/odds}}&lt;/td&gt;
+              &lt;td class=&#34;amount&#34;&gt;{{#bonus_change}}&lt;span title=&#34;{{bonus_change}} bonus applied to loss of {{original_money_change}}&#34; class=&#34;bonus_change&#34;&gt;{{/bonus_change}}{{#money_change}}{{money_change}}{{/money_change}}{{^money_change}}&amp;mdash;{{/money_change}}{{#bonus_change}}&lt;/span&gt;{{/bonus_change}}&lt;/td&gt;
+              &lt;td class=&#34;balance&#34;{{#balance_decimal}} data-money=&#34;{{balance_decimal}}&#34;{{/balance_decimal}}{{#exposure_change_decimal}} data-exposure-change=&#34;{{exposure_change_decimal}}&#34;{{/exposure_change_decimal}}{{#exposure_decimal}} data-exposure=&#34;{{exposure_decimal}}&#34;{{/exposure_decimal}}&gt;{{#balance}}{{balance}}{{/balance}}{{^balance}}&amp;mdash;{{/balance}}&lt;/td&gt;
+              {{#show_details_link}}&lt;td&gt;{{#details_url}}&lt;a href=&#34;{{details_url}}&#34;&gt;Details&lt;/a&gt;{{/details_url}}&lt;/td&gt;{{/show_details_link}}
+            &lt;/tr&gt;
+          {{/results}}
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+{{/no_results}}
+{{#no_results}}
+  &lt;p&gt;No results match your current filters.&lt;/p&gt;
+{{/no_results}}
+
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_account_overview" charset="utf-8">
+                &lt;ul id=&#34;account_tools&#34;&gt;
+    &lt;li&gt;&lt;a href=&#34;/account/&#34;&gt;Account&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;/account/settings/&#34;&gt;Settings&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;/account/deposit/&#34;&gt;Deposit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;/account/withdraw/&#34;&gt;Withdraw&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;/account/limits/&#34;&gt;Limits&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;/members/logout/&#34;&gt;Sign Out&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&#34;balance&#34;&gt;Balance: &lt;strong&gt;{{ currency_symbol }}{{ user_balance }}&lt;/strong&gt;&lt;/span&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_nav_pane" charset="utf-8">
+                &lt;ul class=&#34;panes&#34;&gt;
+    {{#items}}
+    &lt;li&gt;
+        &lt;h5&gt;&lt;a href=&#34;{{url}}&#34; data-next_level=&#34;{{child}}&#34;&gt;{{title}}&lt;/a&gt;&lt;/h5&gt;
+        &lt;a data-next_level=&#34;{{child}}&#34;&gt;&lt;span class=&#34;count&#34;&gt;{{number}}&lt;/span&gt; {{type}}&lt;/a&gt;
+    &lt;/li&gt;
+    {{/items}}
+&lt;/ul&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_nav_home_row" charset="utf-8">
+                &lt;ul id=&#34;secondary_nav&#34;&gt;
+    {{#items}}
+    &lt;li&gt;
+    	&lt;a href=&#34;{{url}}&#34; data-next_level=&#34;{{child}}&#34;&gt;{{title}}&lt;/a&gt;
+    &lt;/li&gt;
+    {{/items}}
+&lt;/ul&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_bet_button" charset="utf-8">
+                &lt;a class=&#34;{{side}} {{class_name}}&#34; {{#quantity}} data-quantity=&#34;{{quantity}}&#34;{{/quantity}} data-price=&#34;{{#price}}{{price}}{{/price}}{{^price}}50.00{{/price}}&#34;&gt;
+    &lt;strong class=&#34;price&#34;&gt;{{#odds}}{{odds}}{{/odds}}{{^odds}}Bet now{{/odds}}&lt;/strong&gt;
+    &lt;span class=&#34;qty&#34;&gt;{{#volume}}{{volume}}{{/volume}}{{^volume}}-{{/volume}}&lt;/span&gt;
+&lt;/a&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_nav_event_list" charset="utf-8">
+                &lt;ul class=&#34;nav_event_list&#34;&gt;
+    {{#items}}
+    &lt;li&gt;
+        {{#title}}&lt;h5&gt;{{title}}&lt;/h5&gt;{{/title}}
+        &lt;ul&gt;
+            {{#children}}
+            &lt;li&gt;&lt;a href=&#34;{{url}}&#34;&gt;{{title}}&lt;/a&gt;&lt;/li&gt;
+            {{/children}}
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    {{/items}}
+&lt;/ul&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_nav_col" charset="utf-8">
+                &lt;div class=&#34;col {{#children}}children{{/children}}&#34;&gt;
+	&lt;ul&gt;
+		{{#items}}
+		&lt;li&gt;
+			&lt;a href=&#34;{{url}}&#34; data-next_level=&#34;{{child}}&#34;&gt;{{title}} {{#date}}&lt;span class=&#34;start_date&#34;&gt;{{date}}&lt;/span&gt;{{/date}}&lt;/a&gt;
+			{{^children}}&lt;a href=&#34;{{url}}&#34; class=&#34;jump&#34;&gt;Go &amp;darr;&lt;/a&gt;{{/children}}
+		&lt;/li&gt;
+		{{/items}}
+	&lt;/ul&gt;
+&lt;/div&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_search_result_parent" charset="utf-8">
+                &lt;tr class=&#34;parent&#34;&gt;
+    &lt;th colspan=&#34;4&#34;&gt;
+        &lt;a href=&#34;{{url}}&#34;&gt;
+            {{ name }}
+            {{#start}}&lt;span class=&#34;start&#34;&gt;{{start}}&lt;/span&gt;{{/start}}
+        &lt;/a&gt;
+    &lt;/th&gt;
+&lt;/tr&gt;
+{{#children}}
+&lt;tr data-market_id=&#34;{{market_id}}&#34;&gt;
+    &lt;th&gt;
+        &lt;a href=&#34;{{url}}&#34;&gt;
+            {{ name }}
+            {{#start}}&lt;span class=&#34;start&#34;&gt;{{start}}&lt;/span&gt;{{/start}}
+        &lt;/a&gt;
+    &lt;/th&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td class=&#34;quote&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;quote&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+{{/children}}}
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_search_result_event" charset="utf-8">
+                &lt;tr {{#market_id}}data-market_id=&#34;{{market_id}}&#34;{{/market_id}}&gt;
+    &lt;th {{^market_id}}colspan=&#34;4&#34;{{/market_id}}&gt;
+        &lt;a href=&#34;{{url}}&#34;&gt;
+            {{ name }}
+            {{#start}}&lt;span class=&#34;start&#34;&gt;{{start}}&lt;/span&gt;{{/start}}
+        &lt;/a&gt;
+    &lt;/th&gt;
+    {{#market_id}}&lt;td&gt;&lt;/td&gt;
+    &lt;td class=&#34;quote&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;quote&#34;&gt;&lt;/td&gt;{{/market_id}}
+&lt;/tr&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_empty_button" charset="utf-8">
+                &lt;span class=&#34;{{side}} no_position {{#text}}has_msg{{/text}}&#34;&gt;&lt;strong&gt;{{#text}}{{text}}{{/text}}{{^text}}-{{/text}}&lt;/strong&gt;&lt;span&gt;{{#extra}}{{extra}}{{/extra}}{{^extra}}-{{/extra}}&lt;/span&gt;&lt;/span&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_betwidget" charset="utf-8">
+                &lt;th&gt;
+    &lt;h3&gt;{{title}}&lt;/h3&gt;
+&lt;/th&gt;
+&lt;td colspan=&#34;{{colspan}}&#34;&gt;
+    &lt;form&gt;
+        &lt;div class=&#34;bet_params&#34;&gt;
+            &lt;label for=&#34;inline_stake_{{contract_id}}&#34;&gt;{{#backer}}Backer {{/backer}}{{^backer}}Your {{/backer}}Stake ({{currency_symbol}})&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;inline_stake_{{contract_id}}&#34; id=&#34;inline_stake_{{contract_id}}&#34; value=&#34;{{stake}}&#34; class=&#34;stake&#34; maxlength=&#34;8&#34;&gt;
+            &lt;label for=&#34;inline_price_{{contract_id}}&#34;&gt;Price&lt;/label&gt;
+            {{#ticks}}&lt;span class=&#34;ticks&#34;&gt;
+                &lt;span class=&#34;tick up&#34;&gt;Price Up&lt;/span&gt;
+                &lt;span class=&#34;tick down&#34;&gt;Price Down&lt;/span&gt;
+            &lt;/span&gt;{{/ticks}}
+            &lt;input type=&#34;text&#34; name=&#34;inline_odds_{{contract_id}}&#34; value=&#34;{{odds}}&#34; class=&#34;odds&#34; maxlength=&#34;8&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;bet_confirmation&#34;&gt;You are betting &lt;strong&gt;{{^liability}}{{currency_symbol}}{{stake}}{{/liability}}{{#liability}}{{liability}}{{/liability}}&lt;/strong&gt; at &lt;strong&gt;{{odds}}&lt;/strong&gt; odds&lt;/div&gt;
+        &lt;div class=&#34;bet_info{{#liability}} with_liability{{/liability}}&#34;&gt;
+            &lt;span&gt;Return: &lt;strong class=&#34;return&#34;&gt;{{payout}}&lt;/strong&gt;&lt;/span&gt;
+            {{#liability}}&lt;span&gt;Liability: &lt;strong class=&#34;liability&#34;&gt;{{liability}}&lt;/strong&gt;&lt;/span&gt;{{/liability}}
+        &lt;/div&gt;
+        &lt;div class=&#34;bet_controls&#34;&gt;
+            &lt;input type=&#34;button&#34; name=&#34;cancel&#34; value=&#34;Cancel&#34; class=&#34;cancel_bet&#34;&gt;
+            &lt;input type=&#34;submit&#34; name=&#34;submit&#34; value=&#34;Place Bet&#34; class=&#34;check_bet&#34;&gt;
+        &lt;/div&gt;
+    &lt;/form&gt;
+    {{#error}}&lt;p class=&#34;error&#34;&gt;{{error}}&lt;/p&gt;{{/error}}
+&lt;/td&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_notifications" charset="utf-8">
+                &lt;div id=&#34;notifications&#34; class=&#34;module&#34;&gt;
+    &lt;h3&gt;Notifications &lt;a&gt;Clear All&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul class=&#34;empty&#34;&gt;
+        &lt;li&gt;&lt;span&gt;No notifications&lt;/span&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_popular_events_row" charset="utf-8">
+                &lt;li&gt;&lt;a href=&#34;{{url}}&#34;&gt;{{name}}&lt;/a&gt;&lt;/li&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_edit_betwidget" charset="utf-8">
+                &lt;td colspan=&#34;{{colspan}}&#34;&gt;
+    &lt;h3&gt;{{title}}&lt;/h3&gt;
+    &lt;form&gt;
+        &lt;div class=&#34;bet_params&#34;&gt;
+            &lt;label for=&#34;inline_stake_{{contract_id}}&#34;&gt;{{#backer}}Backer {{/backer}}{{^backer}}Your {{/backer}}Stake ({{currency_symbol}})&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;inline_stake_{{contract_id}}&#34; id=&#34;inline_stake_{{contract_id}}&#34; value=&#34;{{stake}}&#34; class=&#34;stake&#34; maxlength=&#34;8&#34;&gt;
+            &lt;label for=&#34;inline_price_{{contract_id}}&#34;&gt;Price&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;inline_odds_{{contract_id}}&#34; value=&#34;{{odds}}&#34; class=&#34;odds&#34; maxlength=&#34;8&#34;&gt;
+            &lt;span class=&#34;ticks&#34;&gt;
+                &lt;span class=&#34;tick up&#34;&gt;Price Up&lt;/span&gt;
+                &lt;span class=&#34;tick down&#34;&gt;Price Down&lt;/span&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;bet_confirmation&#34;&gt;You are betting &lt;strong&gt;{{^liability}}{{currency_symbol}}{{stake}}{{/liability}}{{#liability}}{{liability}}{{/liability}}&lt;/strong&gt; at &lt;strong&gt;{{odds}}&lt;/strong&gt; odds&lt;/div&gt;
+        &lt;div class=&#34;bet_info{{#liability}} with_liability{{/liability}}&#34;&gt;
+            &lt;span&gt;Return: &lt;strong class=&#34;return&#34;&gt;{{payout}}&lt;/strong&gt;&lt;/span&gt;
+            {{#liability}}&lt;span&gt;Liability: &lt;strong class=&#34;liability&#34;&gt;{{liability}}&lt;/strong&gt;&lt;/span&gt;{{/liability}}
+        &lt;/div&gt;
+        &lt;div class=&#34;bet_controls&#34;&gt;
+            &lt;input type=&#34;button&#34; name=&#34;cancel&#34; value=&#34;Cancel&#34; class=&#34;cancel_bet&#34;&gt;
+            &lt;input type=&#34;submit&#34; name=&#34;submit&#34; value=&#34;Place Bet&#34; class=&#34;check_bet&#34;&gt;
+        &lt;/div&gt;
+    &lt;/form&gt;
+&lt;/td&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_userbet" charset="utf-8">
+                &lt;tbody class=&#34;userbet&#34; data-market_id=&#34;{{market_id}}&#34; data-contract_id=&#34;{{contract_id}}&#34; data-side=&#34;{{side}}&#34; data-matched=&#34;{{matched}}&#34; data-price=&#34;{{price}}&#34; data-stake=&#34;{{stake}}&#34; data-order_count=&#34;{{order_count}}&#34; data-order_ids=&#34;{{orders_can_cancel}}&#34; data-name=&#34;{{outcome}}&#34;&gt;
+    &lt;tr&gt;
+        &lt;th&gt;
+            &lt;a href=&#34;/account/contract/{{contract_id}}&#34;&gt;
+                {{side_text}} {{outcome}}
+            &lt;/a&gt;
+            &lt;p&gt;&lt;a href=&#34;{{ event_url }}&#34;&gt;{{outcome_group}}&lt;/a&gt;&lt;/p&gt;
+        &lt;/th&gt;
+        &lt;td class=&#34;amounts&#34;&gt;
+            &lt;strong&gt;{{formatted_stake}}&lt;/strong&gt;
+            {{#liability}}&lt;span class=&#34;liability&#34; title=&#34;Total liability&#34;&gt;{{liability}}&lt;/span&gt;{{/liability}}
+        &lt;/td&gt;
+        &lt;td class=&#34;amounts&#34;&gt;
+            &lt;span class=&#34;price&#34;&gt;{{price}} {{#price_averaged}}&lt;a href=&#34;https://smarkets.com/faq#betting_average_odds&#34; target=&#34;_blank&#34; class=&#34;price_help&#34;&gt;{{price_averaged}}.&lt;/a&gt;{{/price_averaged}}{{#price_reduced}}&lt;a href=&#34;https://smarkets.com/faq#reduction_factor&#34; target=&#34;_blank&#34; class=&#34;price_help&#34;&gt;{{price_reduced}}&lt;/a&gt;{{/price_reduced}}&lt;/span&gt;&lt;/td&gt;
+        &lt;/td&gt;
+        {{^settled_outcome}}
+        &lt;td class=&#34;matched&#34;&gt;
+            &lt;span class=&#34;bet_status{{status_class}}&#34;&gt;{{^fully_matched}}{{#percent_matched}}{{percent_matched}}{{/percent_matched}}{{/fully_matched}}{{#fully_matched}}Matched{{/fully_matched}}&lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td class=&#34;bet_tools&#34;&gt;
+            {{#expandable}}&lt;a class=&#34;expand&#34;&gt;Expand&lt;/a&gt;{{/expandable}}
+            {{#orders_can_cancel}}&lt;a class=&#34;cancel_order&#34;&gt;&amp;times;&lt;/a&gt;{{/orders_can_cancel}}
+        &lt;/td&gt;
+        {{/settled_outcome}}
+        {{#settled_outcome}}&lt;td class=&#34;settled_outcome {{settled_outcome}}&#34;&gt;
+            {{settled_outcome}} {{#deadheat}}(Tie){{/deadheat}}
+        &lt;/td&gt;{{/settled_outcome}}
+    &lt;/tr&gt;
+    {{#expandable}}
+    {{#orders}}
+    &lt;tr class=&#34;order&#34; data-order_id=&#34;{{id}}&#34; data-price=&#34;{{price}}&#34; data-stake=&#34;{{stake}}&#34; data-matched=&#34;{{matched}}&#34;&gt;
+        &lt;td&gt;{{formatted_date}}&lt;/td&gt;
+        &lt;td class=&#34;amounts&#34;&gt;{{formatted_stake}}&lt;/td&gt;
+        &lt;td class=&#34;amounts&#34;&gt;{{price}}&lt;/td&gt;
+        &lt;td class=&#34;amounts&#34;&gt;&lt;span class=&#34;bet_status{{status_class}}&#34;&gt;{{percent_matched}}&lt;/span&gt;&lt;/td&gt;
+        &lt;td class=&#34;bet_tools&#34;&gt;{{#can_cancel}}&lt;a class=&#34;edit_order&#34;&gt;Edit&lt;/a&gt; &lt;a class=&#34;cancel_order&#34;&gt;&amp;times;&lt;/a&gt;{{/can_cancel}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/orders}}
+    {{/expandable}}
+
+&lt;/tbody&gt;
+            </script>
+        
+    
+
+    <!--[if lt IE 9]>
+        
+            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/beta/js/main.ie8.3feb88cb.js"></script>
+        
+        <script type="text/javascript">document.documentElement.className += ' ie8';</script>
+        <style type="text/css">
+            header,
+            #content,
+            #controls {
+                min-width: 970px;
+            }
+        </style>
+    <![endif]-->
+    <!--[if IE 9]>
+        
+            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/beta/js/main.ie9.a9b66407.js"></script>
+        
+    <![endif] -->
+    <!--[if gt IE 9]><!-->
+        
+            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/beta/js/main.4e2b3172.js"></script>
+        
+    <!--<![endif]-->
 
         
-        
-            
-        
+        <link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">
+        <link rel="apple-touch-icon" type="image/png" href="/static/img/apple-touch-icon.png">
 
-        
-            
-        
-
-        
-        <link rel="shortcut icon" type="image/ico" href="https://d2ddi39c2rqcmy.cloudfront.net/img/favicon.602c606e.ico">
-        <link rel="apple-touch-icon" type="image/png" href="https://diy1dqjwmz5rw.cloudfront.net/img/apple-touch-icon.b3237f5b.png">
-        <link rel="home" title="Smarkets Home" href="/">
         <meta name="MSSmartTagsPreventParsing" content="true">
-        <meta name="copyright" content="© Copyright 2011 Smarkets Limited">
-        
-        
-        
-        <meta property="og:title" content="Privacy Policy">
+        <meta name="copyright" content="© Copyright 2012 Smarkets Limited">
+        <meta property="og:title" content="Smarkets - The Thrill of Sport">
         <meta property="og:site_name" content="Smarkets">
-        <meta property="og:image" content="https://diy1dqjwmz5rw.cloudfront.net/img/icon/facebook/default.a5fe38f5.png">
-        
-        
-        <meta name="title" content="Privacy Policy">
-        <link rel="image_src" href="https://diy1dqjwmz5rw.cloudfront.net/img/apple-touch-icon.b3237f5b.png">
-        
-
-        
-        <link rel="canonical" href="http://smarkets.com/privacy-policy/">
-
-        <script type="text/javascript" async="" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-
-            // Break out of frames
-            if (window != top) top.location.href = location.href;
-
-            // Only Global variable we should ever expect to exist
-            var SMAK = SMAK || {};
-
-            // Configuration object that should be available to all scripts and modules
-            SMAK.configuration = {
-                // URLs for Javascript
-                urls: {
-                    userLogIn : "https://smarkets.com/members/login/?next=/privacy-policy/"
-                },
-                // user configuration
-                user: {
-                    currencyFormat: 'GBP',
-                    currencySymbol: '£',
-                    currencyRatio: "1.0",
-                    currencySubscribe: false,
-                    csrfToken: 'NOTPROVIDED',
-                    loggedIn : false,
-                    lastModified : '',
-                    oddsChoice : "decimal",
-                    backerStake : true,
-                    positions: {},
-                    betsCache: {},
-                    heartbeat: "60000",
-                    inlineBetWidgetEnabled: true,
-                    showMobilePrompt: true
-                }
-            };
-
-            WEB_SOCKET_SWF_LOCATION = 'https://diy1dqjwmz5rw.cloudfront.net/movies/sio.14ff3185.swf';
-
-            SMAK.flashVideos = [];
-
-            // inject a class of "js" into the html element so CSS is aware of JS
-            document.documentElement.className += 'js';
-
-            
-
-            // Active positions
-            
+        <link rel="canonical" href="http://smarkets.com/">
+</head>
+<body id=""><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
 
 
-        </script>
-        
-
-        
-
-        
-        
-    </head>
-    <body>
-
-        <ul id="skip_links">
-            <li><a href="#content">Skip to content</a></li>
-        </ul>
-        
-        <div id="header">
-            <div class="container">
-                
-                
-                    <a id="logo" href="/"><img width="190" height="44" src="https://diy1dqjwmz5rw.cloudfront.net/img/header/smarkets-logo.7b2311e4.png" alt="Smarkets"></a>
-                
-                
+    <header>
     
-    <ul id="user_tools" class="logged_out">
-        
-        <li id="user_signup"><a href="/sign-up/">Sign up</a></li>
-        <li id="user_login">
-            <a href="/members/login/?next=/privacy-policy/" rel="nofollow">Log in</a>
-            <div id="ajax_login"><form action="https://smarkets.com/members/login/?next=/privacy-policy/" method="post"><div class="form_row"><label for="id_email">Email</label><input type="email" id="id_email" name="email"></div><div class="form_row"><label for="id_password">Password</label><input type="password" id="id_password" name="password"></div><div class="form_row"><input type="submit" id="login_submit" class="submit" value="Log in"><a class="secondary" href="/forgot-password">Forgot password?</a></div></form></div>
-        </li>
-    </ul>
-
-
-                
-                
-                    
-                        
+    <a href="/" id="logo_home"><img src="/static/img/smarkets-logo.png" width="189" height="44"></a>
+    <div id="search_module">
+    <input type="text" name="search" value="" placeholder="Search Smarkets" id="search">
+</div>
     
-    <div id="primary_navigation" class="breadcrumbs">
-        <ul>
-            
-                
-    <li class="first"><a href="/"><span>Home</span></a></li>
-
-            
-                
-    <li class=""><a href="/terms-conditions/"><span>Terms of use</span></a></li>
-
-            
-                
-    <li class=" open"><a href="/privacy-policy/"><span>Privacy policy</span></a></li>
-
-            
-        </ul>
+    <div class="logged_out_tools">
+        <p>New User? <a href="/sign-up/" class="btn">Join today for 2% commission!</a></p>
     </div>
+    
+    
+    </header>
 
-                    
-                
+    <div id="content">
 
-                
-    <div id="primary_search">
-        <form action="/search/" method="get">
-            <input type="search" name="q" value="" placeholder="Search Smarkets" class="q" id="search">
-            <input type="submit" value="Search" class="search">
-        </form>
-    </div>
+    
 
-                
-            </div>
-        </div>
-        <div id="content" class=" wide_layout">
+        <div id="primary">
+        
             
-                <div id="primary">
-                    
-                    
-                    
-                    
+        
+        
+<div class="module" id="masthead">
     <h1>Privacy Policy</h1>
+</div>
+<div class="module">
     <p>
         Protecting your privacy is important to Smarkets (Malta) Limited (“the Company”). We have notified the Commissioner of Data Protection about the processing of data in accordance with the requirements of the Data Protection Act (Chapter 440 of the Laws of Malta).
     </p>
@@ -274,215 +435,197 @@
     <p>
         Last modified: May 31, 2009
     </p>
+</div>
 
-
-                </div>
-                
-            
         </div>
+
+        <div id="secondary">
         
-            <div id="footer">
+            
+            <div id="log_in" class="module">
+    <form action="/members/login/" method="POST" accept-charset="utf-8">
+        
+        <label for="email">Email</label>
+        <input type="text" name="email" value="" id="email" placeholder="Email">
+        <label for="password">Password</label>
+        <input type="password" name="password" value="" id="password" placeholder="Password">
+        
+        <input type="submit" name="log_in_submit" value="Sign In" id="log_in_submit">
+        <a href="/forgot-password/">Forgot Password?</a>
+        
+    </form>
+</div>
+            
+            
+            <div id="popular_events" class="module">
+                <h3>Popular Events Right Now</h3>
+                <ul>
                 
-                    <div id="full_navigation">
-                        
-                            
-                            
-                            <ul>
-                                
-                                
-                                    <li class=" open">
-                                        
-                                            <a href="/">Home</a>
-                                        
-                                        
-                                            <ul>
-                                    <li class="">
-                                        
-                                            <a href="/about/press/">About Smarkets</a>
-                                        
-                                        
-                                    </li>
-                                
-                                    <li class="">
-                                        
-                                            <a href="/faq/">Help &amp; FAQs</a>
-                                        
-                                        
-                                    </li>
-                                
-                                    <li class=" open">
-                                        
-                                            <a href="/terms-conditions/">Terms of use</a>
-                                        
-                                        
-                                            <ul>
-                                    <li class="no_children open">
-                                        
-                                            <strong>Privacy policy</strong>
-                                        
-                                        
-                                    </li>
-                                
-                                    <li class="no_children">
-                                        
-                                            <a href="/responsible-gaming/">Responsible gaming</a>
-                                        
-                                        
-                                    </li>
-                                
-                                    <li class="no_children">
-                                        
-                                            <a href="/community-guidelines/">Community guide</a>
-                                        
-                                        
-                                    </li>
-                                
-                                    <li class="no_children">
-                                        
-                                            <a href="/betting-rules/">Betting Rules</a>
-                                        
-                                        
-                                    </li>
-                                </ul>
-                                        
-                                    </li>
-                                </ul>
-                                        
-                                    </li>
-                                
-                            </ul>
-                        
-                    </div>
                 
-                <ul class="other">
-                    <li>
-                        <h2>About Smarkets</h2>
-                        <ul>
-                            <li><a href="/about/press/">About Us &amp; Press</a></li>
-                            <li><a href="/about/contact/">Contact Us</a></li>
-                            <li><a href="/about/team/">Team</a></li>
-                            <li><a href="/about/jobs/">Jobs</a></li>
-                            <li><a href="/about/internships/">Internships</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h2>Help &amp; <abbr title="Frequently Asked Question">FAQ</abbr>s</h2>
-                        <ul>
-                            <li><a href="/about/what-is-smarkets/">What is Smarkets?</a></li>
-                            <li><a href="/faq/">Frequently Asked Questions</a></li>
-                            <li><a href="/academy/">Smarkets Academy</a></li>
-                            <li><a href="/betting-glossary/">Betting Glossary</a></li>
-                            <li><a href="/odds-explained/">Odds Explained</a></li>
-                            <li><a href="/payment-methods/">Payment Methods</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h2>Interact &amp; API</h2>
-                        <ul>
-                            <li><a href="/api">Smarkets API</a></li>
-                            <li><a href="http://blog.smarkets.com/">Our Blog</a></li>
-                            <li><a href="http://twitter.com/smarkets">Smarkets on Twitter</a></li>
-                            <li><a href="http://www.facebook.com/smarkets">Smarkets on Facebook</a></li>
-                            <li><a href="/mailing-list">Get the Newsletter</a></li>
-                        </ul>
-                    </li>
-                    <li class="last">
-                        <h2>Legals &amp; Smallprint</h2>
-                        <ul>
-                            <li class="first"><a href="/terms-conditions/">Terms and Conditions</a></li>
-                            <li><a href="/privacy-policy/">Privacy Policy</a></li>
-                            <li><a href="/responsible-gaming/">Responsible Gaming</a></li>
-                            <li><a href="/community-guidelines/">Community Guidelines</a></li>
-                            <li><a href="/betting-rules/">Betting Rules</a></li>
-                        </ul>
-                    </li>
+                
+                
+                <li><a href="/sport/football/europe-uefa-europa-league/2012/10/04/anzhi-makhachkala-vs-young-boys">Anzhi Makhachkala vs. Young Boys</a></li>
+                
+                
+                
+                
+                <li><a href="/sport/football/europe-uefa-europa-league/2012/10/04/panathinaikos-vs-tottenham">Panathinaikos vs. Spurs</a></li>
+                
+                
+                
+                
+                <li><a href="/sport/football/europe-uefa-europa-league/2012/10/04/psv-vs-napoli">PSV vs. Napoli</a></li>
+                
+                
+                
+                
+                <li><a href="/sport/football/europe-uefa-europa-league/2012/10/04/fc-basel-vs-genk">Basel vs. Genk</a></li>
+                
+                
+                
+                
+                <li><a href="/sport/horse-racing/bangor/2012/10/04/14:50:00">14:50 Bangor</a></li>
+                
                 </ul>
             </div>
-            <div id="legal">
-                <div>
-                    <p>
-                        <a id="footer-logo" href="/"><img width="210" height="36" src="https://d2ddi39c2rqcmy.cloudfront.net/img/footer/smarkets-logo.d94a459b.png" alt="Smarkets"></a>
-                        Wholly owned and operated by Smarkets (Malta) Limited (Reg No: C 44795) of 28/19 Strait Street, Valletta, Malta under license <a id="license_number" href="http://www.lga.org.mt/lga/content.aspx?id=87005">LGA/CL3/492/2008</a> issued May 12th, 2009 and regulated by the <a href="http://lga.org.mt/">Lotteries and Gaming Authority</a>. Please gamble responsibly.
-                    </p>
-                    <ul id="legal_icons">
-                        <li><a href="http://www.gamcare.org.uk/" rel="nofollow external"><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/gamcare.281a3bcb.gif" alt="Smarkets supports GamCare" width="46" height="51"></a></li>
-                        <li><img src="https://d2ddi39c2rqcmy.cloudfront.net/img/icon/18plus.14033bfb.gif" alt="Over 18s only" width="50" height="51"></li>
-                        <li><a href="http://www.lga.org.mt/" rel="nofollow external"><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/lga_authorised.8b0795ff.png" alt="Lotteries and Gaming Authority" width="214" height="50"></a></li>
-                    </ul>
-                </div>
-            </div>
+            
         
-        
+            <div id="#notifications" style="display: none;"></div>
+        </div>
 
-        
-        
+    
+    </div>
 
-        <!--[if gte IE 7]><!-->
-    <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/js/all.982093c1.js" charset="utf-8"></script>
+    <footer>
+    
+    <ul>
+    <li>
+        <h4>About Smarkets</h4>
+        <ul>
+            <li><a href="/about/">About Us &amp; Press</a></li>
+            <li><a href="/about/contact/">Contact Us</a></li>
+            <li><a href="/about/team/">Team</a></li>
+            <li><a href="/about/jobs/">Jobs</a></li>
+            <li><a href="/about/internships/">Internships</a></li>
+        </ul>
+    </li>
+    <li>
+        <h4>Help &amp; <abbr title="Frequently Asked Question">FAQ</abbr>s</h4>
+        <ul>
+            <li><a href="/what-is-smarkets/">What is Smarkets?</a></li>
+            <li><a href="/faq/">Frequently Asked Questions</a></li>
+            <li><a href="/academy/">Smarkets Academy</a></li>
+            <li><a href="/betting-glossary/">Betting Glossary</a></li>
+            <li><a href="/odds-explained/">Odds Explained</a></li>
+            <li><a href="/payment-methods/">Payment Methods</a></li>
+        </ul>
+    </li>
+    <li>
+        <h4>Interact &amp; API</h4>
+        <ul>
+            <li><a href="/api/">Smarkets API</a></li>
+            <li><a href="http://blog.smarkets.com/" target="_blank">Our Blog</a></li>
+            <li><a href="http://twitter.com/smarkets" target="_blank">Smarkets on Twitter</a></li>
+            <li><a href="http://www.facebook.com/smarkets" target="_blank">Smarkets on Facebook</a></li>
+            <li><a href="https://smarkets.com/mailing-list" target="_blank">Get the Newsletter</a></li>
+        </ul>
+    </li>
+    <li class="last">
+        <h4>Legals &amp; Smallprint</h4>
+        <ul>
+            <li class="first"><a href="/terms/">Terms and Conditions</a></li>
+            <li><a href="/privacy/">Privacy Policy</a></li>
+            <li><a href="/responsible-gaming/">Responsible Gaming</a></li>
+            <li><a href="/community-guidelines/">Community Guidelines</a></li>
+            <li><a href="/betting-rules/">Betting Rules</a></li>
+        </ul>
+    </li>
+</ul>
 
-<!--<![endif]-->
+<div id="legal">
+    <div>
+        <p>Wholly owned and operated by Smarkets (Malta) Limited (Reg No: C 44795) of 28/19 Strait Street, Valletta, Malta under license <a id="license_number" href="http://www.lga.org.mt/lga/content.aspx?id=87005">LGA/CL3/492/2008</a> issued May 12th, 2009 and regulated by the <a href="http://lga.org.mt/">Lotteries and Gaming Authority</a>. Please gamble responsibly.</p>
+        <ul id="legal_icons">
+            <li><a href="http://www.gamcare.org.uk/" rel="nofollow external"><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/gamcare.281a3bcb.gif" alt="Smarkets supports GamCare" width="46" height="51"></a></li>
+            <li><img src="https://d2ddi39c2rqcmy.cloudfront.net/img/icon/18plus.14033bfb.gif" alt="Over 18s only" width="50" height="51"></li>
+            <li><a href="http://www.lga.org.mt/" rel="nofollow external"><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/lga_authorised.8b0795ff.png" alt="Lotteries and Gaming Authority" width="214" height="50"></a></li>
+        </ul>
+    </div>
+</div>
+    
+    </footer>
 
+
+
+
+<script type="text/javascript" charset="utf-8">
+
+    
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3239415-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+    
+    var GoSquared={};
+    GoSquared.acct = "GSN-991958-X";
+    
+    (function(w){
+        function gs(){
+            w._gstc_lt=+(new Date); var d=document;
+            var g = d.createElement("script"); g.type = "text/javascript"; g.async = true; g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+            var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);
+        }
+        w.addEventListener?w.addEventListener("load",gs,false):w.attachEvent("onload",gs);
+    })(window);
+
+    // Manage analytics for page loading via pjax
+    jQuery(document).on('pjax:success', function() {
+        "use strict";
+        if (typeof GoSquared['DefaultTracker'] !== 'undefined') {
+            GoSquared.DefaultTracker.TrackView(window.location.pathname, document.title);
+        }
+    });
+
+    // When a user logs in and has a hearbeat they'll have user data
+    // so update their GoSquared UserName and relog them on the tracker
+    jQuery(document).on('ready', function() {
+
+        GLOB.bind('heartbeat:start', function() {
+            "use strict";
+            GoSquared.UserName = GLOB.config.user.get('display_name')+'/'+GLOB.config.user.get('id_slug');
+            if (typeof GoSquared['DefaultTracker'] !== 'undefined') {
+                GoSquared.DefaultTracker.TrackView(window.location.pathname, document.title);
+            }
+        });
+
+    });
+
+</script>
 <script type="text/javascript">
-    SMAK.live.socket_host = "<random>.live.smarkets.com".replace("<random>", "" + Math.round(Math.random() * 10000000));
-    SMAK.live.socket_port = 443;
-    SMAK.live.socket_secure = true;
-    SMAK.live.socket_transports = ['websocket','flashsocket'];
-    SMAK.live.url_exchange = "sio.url./privacy-policy/";
-    SMAK.live.connect_timeout = 9000;
-    SMAK.live.heartbeat_timeout = 15000;
-    
-    
-    SMAK.live.use_socket_io = true;
-    SMAK.navigation = {
-    };
+window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=setTimeout(function(){if(c.f){(new Image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new Date};c.P=function(j){c.p[j]=new Date-c.p[0]};function d(){c.P(b);e[g](b)}e.addEventListener?e.addEventListener(b,d,false):e.attachEvent("on"+b,d); (function(){function l(j){j="head";return["<",j,"></",j,"><",z,' onl'+'oad="var d=',B,";d.getElementsByTagName('head')[0].",y,"(d.",A,"('script')).",u,"='",a,"//",c.l,"'",'"',"></",z,">"].join("")}var z="body",s=h[z];if(!s){return setTimeout(arguments.callee,100)}c.P(1);var y="appendChild",A="createElement",u="src",r=h[A]("div"),G=r[y](h[A](g)),D=h[A]("iframe"),B="document",C="domain",q;r.style.display="none";s.insertBefore(r,s.firstChild).id=g;D.frameBorder="0";D.id=g+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){D.src="javascript:false"} D.allowTransparency="true";G[y](D);try{D.contentWindow[B].open()}catch(F){i[C]=h[C];q="javascript:var d="+B+".open();d.domain='"+h.domain+"';";D[u]=q+"void(0);"}try{var H=D.contentWindow[B];H.write(l());H.close()}catch(E){D[u]=q+'d.write("'+l().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}c.P(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
+olark.identify('7270-418-10-7874');
+
+</script>
+<!-- end olark code -->
+
+
+
+<script>
+// Envolve JS
+var envoOptions = {
+    enableNewChatButton: false,
+    defaultSoundMode : false
+};
+
+
 </script>
 
-        
-        
-
-        
-        <script type="text/javascript">
-
-            // Google Analytics
-            
-                var _gaq = _gaq || [];
-            
-            _gaq.push(['_setAccount', 'UA-3239415-1']);
-            
-            _gaq.push(['_trackPageview']);
-            _gaq.push(['_trackPageLoadTime']);
-            
-                (function() {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
-                
-                var GoSquared={};
-                GoSquared.acct = "GSN-581477-U";
-                
-                (function(w){
-                    function gs(){
-                        w._gstc_lt=+(new Date); var d=document;
-                        var g = d.createElement("script"); g.type = "text/javascript"; g.async = true; g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
-                        var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);
-                    }
-                    w.addEventListener?w.addEventListener("load",gs,false):w.attachEvent("onload",gs);
-                })(window);
-            
 
 
-            
-                // Envolve JS
-                var envoOptions = {
-                    enableNewChatButton: false,
-                    defaultSoundMode : false
-                };
-                var envoSn=24267;
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//d.envolve.com/env.nocache.js' type='text/javascript'%3E%3C/script%3E"));
-            
-        </script><script src="https://d.envolve.com/env.nocache.js" type="text/javascript"></script>
-        
-        
-    
 </body></html>
