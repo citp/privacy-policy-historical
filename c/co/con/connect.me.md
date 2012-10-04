@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connect.me privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614205105id_/http%3A//connect.me/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connect.me privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004141939id_/https%3A//connect.me/c/privacy) for the most accurate reproduction.*
 
-# connect.me
+# Connect.Me
 
 The Respect Network is provided by Respect Network Corporation ( _Connect.Me_ ), and is accessible from the Connect.Me website at http://connect.me as well as from Connect.Me-enabled client sites and programs. 
 
