@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unfuddle.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518024045id_/http%3A//unfuddle.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfuddle.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004040047id_/https%3A//unfuddle.com/privacy_policy) for the most accurate reproduction.*
 
-# Subversion Hosting, Git Hosting, Project Management
+# Unfuddle - Privacy Policy
 
 Unfuddle LLC (“Unfuddle”) operates several websites including [unfuddle.com](http://unfuddle.com/) and [unfuddled.com](http://unfuddled.com/). It is Unfuddle’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
