@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infanion.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523223337id_/http%3A//www.infanion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infanion.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004163921id_/http%3A//www.infanion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Infanion - bridging the offline and online worlds
 
