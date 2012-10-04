@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508145929id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004072439id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -112,5 +112,3 @@ Weight Loss Resources may set and access Cookies on your computer.
 Weight Loss Resources reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
 
 © Simply-docs - TR.WEB.TC.18 Website Privacy Policy
-
-[](http://www.addtoany.com/share_save?linkname=Weight%20Loss%20Resources&linkurl=http%3A%2F%2Fwww.weightlossresources.co.uk%2F)
