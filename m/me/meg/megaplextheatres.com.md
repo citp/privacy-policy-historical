@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504033037id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005005818id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.*
 
-# Megaplex Theatres Privacy Policy
+# Privacy Policy
 
 **Larry H. Miller Group of Companies Privacy Statement**
 
@@ -14,18 +14,17 @@ The Larry H. Miller Group of Companies is committed to protecting your privacy. 
 
 **2\. Participating Merchant Policies**
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Larry H. Miller Group of Companies services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.  We use Secure Sockets Layer (SSL) encryption technology to protect your personal information provided on credit applications and where credit card information is required.  SSL encrypts or codes this information as it travels over the Internet, and is then decoded by Larry H. Miller Group of Companies and its business partners who facilitate your transactions on this web site.  We do not read personal communications.  We do not give out your telephone number, credit card information, or screen names, unless authorized to do so or as required by law.  The security of customer information is very important to us and we take a number of steps to safeguard it.  We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard non-public personal information about you.  We limit access to personal and account information to those employees and agents who assist us in providing products and services to you.  Employees who fail to follow our established standards are subject to disciplinary action.  We also require third parties to whom we disclose nonpublic personal information to adhere to this Privacy Policy and to establish information security procedures.  
-
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Larry H. Miller Group of Companies services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.  We use Secure Sockets Layer (SSL) encryption technology to protect your personal information provided on credit applications and where credit card information is required.  SSL encrypts or codes this information as it travels over the Internet, and is then decoded by Larry H. Miller Group of Companies and its business partners who facilitate your transactions on this web site.  We do not read personal communications.  We do not give out your telephone number, credit card information, or screen names, unless authorized to do so or as required by law.  The security of customer information is very important to us and we take a number of steps to safeguard it.  We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard non-public personal information about you.  We limit access to personal and account information to those employees and agents who assist us in providing products and services to you.  Employees who fail to follow our established standards are subject to disciplinary action.  We also require third parties to whom we disclose nonpublic personal information to adhere to this Privacy Policy and to establish information security procedures.
 
 **3\. Information We Collect and How We Use It**
 
-The Larry H. Miller Group of Companies collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with cookies.
+The Larry H. Miller Group of Companies collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with cookies. 
 
   * **Web Server Logs**.
 
 
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
   * Your Internet protocol address.
   * The kind of browser or computer you use.
