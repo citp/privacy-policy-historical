@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013657id_/http%3A//www.lotterycanada.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005014246id_/http%3A//www.lotterycanada.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Lottery Canada
 
