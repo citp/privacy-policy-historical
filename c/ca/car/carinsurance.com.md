@@ -1,57 +1,6 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508043241id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004175802id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # CarInsurance.com Privacy Policy
-
-How much could YOU save?
-
-Request free quotes; find out now.
-
-  * Someone may have  
-just saved up to
-
-$1,026/yr
-
-on car insurance.
-
-Actual quote delivered: 3 days ago
-
-Quote Range: $2,370-$3,396/yr
-
-**Age:**  41 **Sex:**  Female
-
-**State:**  New York **Tickets:**  0
-
-**Number of Quotes:**  2 
-
-Vehicle: 2012 TOYOTA PRIUS 
-
-  * Someone may have  
-just saved up to
-
-$1,136/yr
-
-on car insurance.
-
-Actual quote delivered: 4 days ago
-
-Quote Range: $1,460-$2,596/yr
-
-**Age:**  23 **Sex:**  Male
-
-**State:**  California **Tickets:**  0
-
-**Number of Quotes:**  4 
-
-Vehicle: 2004 CHRYSLER SEBRING GTC
-
-
-
-
-We Scour. You Save.
-
-We search the web to find the very best deals and money-saving tips. Then, we send them right to you.
-
-| 
 
 Updated as of April 20, 2011
 
