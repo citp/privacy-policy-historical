@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healing-crystals-for-you.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503052531id_/http%3A//www.healing-crystals-for-you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healing-crystals-for-you.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004064443id_/http%3A//www.healing-crystals-for-you.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer for Healing Crystals For You
 
@@ -76,11 +76,11 @@ I reserve the right to modify this Policy without prior notice. Accordingly, ple
 
 ## When you send me a personal story or testimonial
 
-I am grateful when people send me their success stories as well as a photograph. I'll share them to help others understand the possibilities of using my programs. When you send me a story, I may make changes including minor edits to correct any spelling and grammar mistakes or to make your story clearer. I will use your name and town unless you tell me not to. And at any time you would like me not to use your story, just send me an email via my [Contact](https://web.archive.org/web/20120503052531id_/http%3A//www.healing-crystals-for-you.com/contact.html) page.
+I am grateful when people send me their success stories as well as a photograph. I'll share them to help others understand the possibilities of using my programs. When you send me a story, I may make changes including minor edits to correct any spelling and grammar mistakes or to make your story clearer. I will use your name and town unless you tell me not to. And at any time you would like me not to use your story, just send me an email via my [Contact](http://www.healing-crystals-for-you.com/contact.html) page.
 
 ## Agreeing to Terms
 
-If you do not agree to my Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. Your use of this site indicates acceptance of this privacy policy.
+**If you do not agree to my Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. Your use of this site indicates acceptance of this privacy policy.**
 
 Reliance on information, material, advice, or other linked or recommended resources, received from me shall be at your sole risk. I assume no responsibility for any errors, omissions, or damages arising and make no guarantee as to the accuracy, reliability, or currency of information. 
 
@@ -88,6 +88,6 @@ The information on this site is provided for general information only and must n
 
 Links to other sites from this site does not suggest any form of liability accepted on behalf of Liz Oakes.
 
-If you have any questions about this Policy or the privacy practices of this Site, please [contact me here.](https://web.archive.org/web/20120503052531id_/http%3A//www.healing-crystals-for-you.com/contact.html)
+If you have any questions about this Policy or the privacy practices of this Site, please [contact me here.](http://www.healing-crystals-for-you.com/contact.html)
 
 [Back to Home from this page](http://www.healing-crystals-for-you.com/)
