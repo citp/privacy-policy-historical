@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503000021id_/http%3A//www.cartoonnetwork.com.ph/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004205924id_/http%3A//www.cartoonnetwork.com.ph/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network Philippines | Free Games and Online Video from Ben 10, Gumball and Adventure Time!
 
@@ -76,7 +76,7 @@ As we have taken special precautions to aid in the safety of your child's World 
 
 If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please contact us at the following e-mail address, mailing address and telephone number: 
 
-Email: [_privacyasiapac@turner.com_](https://web.archive.org/web/20120503000021id_/http%3A//www.cartoonnetwork.com.ph/parents/privacyasiapac@turner.com)   
+Email: [_privacyasiapac@turner.com_](https://web.archive.org/web/20121004205924id_/http%3A//www.cartoonnetwork.com.ph/parents/privacyasiapac@turner.com)   
 Mailing Address: Turner Privacy Officer   
 Turner Broadcasting System Asia Pacific, Inc.   
 30/F Oxford House, Taikoo Place, 979 King's Road,   
