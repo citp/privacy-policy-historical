@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixbook.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513125127id_/http%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixbook.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004063250id_/http%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
 
 # Mixbook Privacy Policy
 
@@ -58,7 +58,7 @@ By using Mixbook, you are consenting to have your personal data transferred to a
 
 In general, information you submit to us is used either to respond to requests that you make or to aid us in serving you better, including to fix technical problems, provide administrative services, and monitor traffic, the number of visitors, and the effectiveness of programs.  We may use aggregated user data to market the Web Site to others.  We may provide these services ourselves or share the information with partners who will provide the services for us. 
 
-We may use your Personal Information to provide you with newsletters and surveys and to notify you of important changes to the Web Site, new services, and special offers.  If you do not want to receive such email notices, you may login to your account at the Web Site and opt out of receiving such email or send email to [privacy@mixbook.com](mailto:privacy@mixbook.com) or mail to Privacy, Mixbook, 2306 Zanker Road, San Jose, CA 95131. Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers.  If we have provided any third party with your information, you will have to contact the third-party directly with any opt-out request. 
+We may use your Personal Information to provide you with newsletters and surveys and to notify you of important changes to the Web Site, new services, and special offers.  If you do not want to receive such email notices, you may login to your account at the Web Site and opt out of receiving such email or send email to [privacy@mixbook.com](mailto:privacy@mixbook.com) or mail to Privacy, Mixbook, 409 Sherman Avenue, Palo Alto, CA 94306. Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers.  If we have provided any third party with your information, you will have to contact the third-party directly with any opt-out request. 
 
 Profile information is used by Mixbook primarily to be presented back to and edited by you when you access Mixbook and to be presented to others you permit to view that information. 
 
@@ -114,4 +114,4 @@ If you choose to visit Mixbook, your visit and any dispute over privacy is subje
 
 ## Contacting Mixbook
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@mixbook.com](mailto:privacy@mixbook.com).  You may also contact us by mail at 2306 Zanker Road, San Jose, CA 95131.
+If you have any questions about this Privacy Policy, please contact us at [privacy@mixbook.com](mailto:privacy@mixbook.com).  You may also contact us by mail at 409 Sherman Avenue, Palo Alto, CA 94306.
