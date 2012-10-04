@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the us2guntur.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101919id_/http%3A//us2guntur.com/us2guntur/servlet/policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us2guntur.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004035120id_/http%3A//us2guntur.com/us2guntur/servlet/policy1) for the most accurate reproduction.*
 
-# Gifts to India, Hyderabad gifts, Gifts to Guntur, Gifts to Vijayawada, Gifts to Vizag, Flowers, Cakes, Sweets, Birthday and Wedding Gifts to India
+# Gifts to India, Gifts to Hyderabad, Gifts to Guntur, Gifts to Vijaywada, Gifts to Vizag, Flowers, Cakes, Sweets, Birthday and Wedding Gifts to India
 
 | 
 
