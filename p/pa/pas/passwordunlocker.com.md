@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passwordunlocker.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601132741id_/http%3A//www.passwordunlocker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passwordunlocker.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004162013id_/http%3A//www.passwordunlocker.com/privacy.html) for the most accurate reproduction.*
 
 # Password Unlocker Privacy Policy
 
@@ -16,7 +16,7 @@ If Password Unlocker has your email address, we may contact you by email to advi
 
 ### About Cookies
 
-In order to better understand what services are valuable to our customers, we use “cookies”. A cookie is a small text file that a Website writes to your hard drive. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
+In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
 
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages.
 
