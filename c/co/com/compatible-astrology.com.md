@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compatible-astrology.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006123013id_/http%3A//www.compatible-astrology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compatible-astrology.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004093910id_/http%3A//www.compatible-astrology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
