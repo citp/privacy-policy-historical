@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630060352id_/http%3A//www.cosmeticscop.com/help-privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004181350id_/http%3A//www.cosmeticscop.com/help-privacy-security-policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security Policy: Cosmetics Cop: Skin Care & Makeup Tips & Reviews
 
@@ -7,7 +7,7 @@ SHOP PAULA'S CHOICE
 ABOUT US
 
 [](http://www.cosmeticscop.com/cosmetics-cop-sensitive-skin-makeup-tips-videos.aspx "Cosmetics Cop - Sensitive Skin and Makeup Tips Video")   
-[](http://www.paulaschoice.com/category/books "Don't Go to the Cosmetics Counter Without Me, 8th Edition, Buy Now>>")
+[](http://www.paulaschoice.com/category/books "Don't Go to the Cosmetics Counter Without Me, 9th Edition, Buy Now>>")
 
 | 
 
