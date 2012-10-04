@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163138id_/http%3A//www.pregnancy.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004225843id_/http%3A//www.pregnancy.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Site Info
 
