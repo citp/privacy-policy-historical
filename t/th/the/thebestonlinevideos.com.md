@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestonlinevideos.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606054330id_/http%3A//thebestonlinevideos.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestonlinevideos.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005004351id_/http%3A//thebestonlinevideos.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Thebestonlinevideos.com
 
@@ -10,26 +10,26 @@
 
 ##### No information is sold or released to anyone about visitors to Thebestonlinevideos.com without prior consent or a court order. In other words, no information is released to anyone unless you give permission first.
 
-##### Thebestonlinevideos.com does not attempt to collect personal information from children. Note that  Thebestonlinevideos.com cannot always determine that a user is a child.  Thebestonlinevideos.com does not maintain databases of children or adults.
+##### Thebestonlinevideos.comÂ does not attempt to collect personal information from children. Note that Â Thebestonlinevideos.comÂ cannot always determine that a user is a child. Â Thebestonlinevideos.comÂ does not maintain databases of children or adults.
 
-##### When visiting any Internet site, your unique address called an “IP address” is recorded.  Thebestonlinevideos.com does not release any information about the collection of this address to any third party except under court order. Thebestonlinevideos.com archives the log files in order to create aggregate statistical reports, detect errors on the web site, and for security reasons. The log files are eventually deleted.
+##### When visiting any Internet site, your unique address called an â€œIP addressâ€ is recorded. Â Thebestonlinevideos.comÂ does not release any information about the collection of this address to any third party except under court order.Â Thebestonlinevideos.comÂ archives the log files in order to create aggregate statistical reports, detect errors on the web site, and for security reasons. The log files are eventually deleted.
 
 ##### IP reports for advertisement clicks are shared with the advertiser. However, they usually have this information already since it is captured by their server when you view or click an ad. This is done to verify billing for the ads. No additional information associated with any specific user is provided to the advertisers.
 
 ##### Overview
 
-##### Your privacy is important to us. Thebestonlinevideos.com service is free for all to use, and prior registration is not needed.
+##### Your privacy is important to us.Â Thebestonlinevideos.com service is free for all to use, and prior registration is not needed.
 
-##### Thebestonlinevideos.com will explicitly ask when it needs information that personally identifies you. All personally identifiable information  Thebestonlinevideos.com collects is only gathered with your voluntary act.  Thebestonlinevideos.com keeps all information private and does not, and will not, share it with any third parties except under these circumstances:
+##### Thebestonlinevideos.comÂ will explicitly ask when it needs information that personally identifies you. All personally identifiable information Â Thebestonlinevideos.comÂ collects is only gathered with your voluntary act. Â Thebestonlinevideos.comÂ keeps all information private and does not, and will not, share it with any third parties except under these circumstances:
 
 ##### \- When such action is necessary to conform to legal requirements or comply with legal process.
 
-##### \- When such action is necessary to protect and defend the rights or property of  Thebestonlinevideos.com.
+##### \- When such action is necessary to protect and defend the rights or property ofÂ Â Thebestonlinevideos.com.
 
-##### Thebestonlinevideos.com uses cookies as part of tracking process for advertisement banners so you do not see the same ad repeatedly, but cookies will not be used to personally identify you without your prior consent.
+##### Thebestonlinevideos.comÂ uses cookies as part of tracking process for advertisement banners so you do not see the same ad repeatedly, but cookies will not be used to personally identify you without your prior consent.
 
-##### Some links on  Thebestonlinevideos.com will take visitors outside its web server. Although these links were established to provide access to useful information,  Thebestonlinevideos.com is not responsible for any of these sites or their content.
+##### Some links on Â Thebestonlinevideos.comÂ will take visitors outside its web server. Although these links were established to provide access to useful information, Â Thebestonlinevideos.comÂ is not responsible for any of these sites or their content.
 
 ##### Contact
 
-##### If you have any questions about this privacy statement, you may contact  Thebestonlinevideos.com.
+##### If you have any questions about this privacy statement, you may contactÂ Â Thebestonlinevideos.com.
