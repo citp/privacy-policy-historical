@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501145758id_/http%3A//www.local10.com/-/1717430/3989770/-/9w6eiq/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004162628id_/http%3A//www.local10.com/-/1717430/3989770/-/9w6eiq/-/index.html) for the most accurate reproduction.*
 
 # Home -
 
@@ -127,3 +127,11 @@ We reserve the right, in our sole discretion, to modify, alter or otherwise upda
 If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:websitepolicy@postnewsweek.com).
 
 **Effective: June 15, 2010**
+
+Advertisement
+
+[ ](https://dadt.com/live/index.html) [ ](http://www.therickilakeshow.com/) [ ](http://www.local10.com/station/katie/-/16241476/-/105x0iu/-/index.html/) [ ](http://www.doctoroz.com//)
+
+Advertisement
+
+Advertisement
