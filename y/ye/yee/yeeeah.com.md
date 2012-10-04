@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeeeah.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508143252id_/http%3A//yeeeah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeeeah.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004133606id_/http%3A//yeeeah.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Yeeeah!
 
@@ -24,7 +24,7 @@ By setting a cookie on a Yeeeah! Media Site, users will not have to log in a pas
 Some of our business partners may use cookies on our site (for example, advertisers). However, Yeeeah! Media has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Yeeeah! Media only and does not cover the use of cookies by any advertisers.
 
 **Third Party Advertising**  
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
