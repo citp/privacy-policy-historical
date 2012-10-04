@@ -1,53 +1,160 @@
-> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520050045id_/http%3A//www.leaguerepublic.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004035950id_/http%3A//www.leaguerepublic.com/privacy.jsp) for the most accurate reproduction.*
 
 # LeagueRepublic Privacy
 
-This Policy is designed to assist you in understanding how this site collects, use and safeguards the personal information you provide to LeagueRepublic.
+This policy gives the following information about personal data:
 
-## What Information Do We Collect and How Do We Use it?
+\- what information we collect from you;
 
-When you visit this site you may provide LeagueRepublic with two types of information: 1) personal information you actively choose to disclose ("Active Information") through registering or using a league, and 2) information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse this site ("Passive Information").
+\- where we keep it;
 
-## Active Information You Disclose While Registering a League or Registering For a League.
+\- why we collect it;
 
-When you set up a League with LeagueRepublic or subscribe to a league with LeagueRepublic you may provide us with the following information. 1) Name, 2) Email Address 3) Telephone Number Contacts. We do not sell this information to other companies.
+\- how we use it; and
 
-1) Your name or names of any players, team administrators, league administrators or referees will be visible to anyone with internet access looking at your league within LeagueRepublic. They are required to show schedule, result and statistical information for certain functionality that you choose to use.
+\- your rights in relation to it.
 
-If you are sensitive about your full name being shown, ask the League Administrator to shorten your last name. If your name is Gareth Knight, you could shorten your last name to K so you are shown as Gareth K.
+## We may collect and process the following data about you
 
-2) Your email address can only be seen by people you have assigned to your League. They must logged on with their username and password. As a league administrator you have the option to revoke access for any player you choose. Players can only see email addresses of people in their team. Your email address may be used by LeagueRepublic to directly contact you about your league or additional services available with LeagueRepublic.
+\- information that you provide by filling in forms on our site www.leaguerepublic.com ("LR"). This includes information you provided at the time of registering to use certain elements of our site, subscribing to our services, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by LR, and when you report a problem with our site;
 
-3) Provision of Telephone numbers is optional for your league, it does not have to be provided. If provided it can only be seen by people you have assigned to your League. They must logged on with their username and password. As a league administrator you have the option to revoke access for any player you choose. Players can only see telephone numbers of people in their team.
+\- if you contact us, we may keep a record of that correspondence;
 
-## Active Information You Disclose While Paying for a LeagueRepublic Service.
+\- we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
 
-We do not receive any billing information from you when you pay for a LeagueRepublic service. We use PayPal for you to make your secure transaction. Your billing address, billing phone number, email and credit card information is provided directly to them. Please visit Paypal at [www.paypal.com](http://www.paypal.com/) to view their privacy policy 
+\- details of transactions you carry out through our site or via other means (e.g. telephone orders) and of the fulfilment of your orders;
 
-If you contact LeagueRepublic via email, telephone or via postal mail - LeagueRepublic may retain such information.
+\- you can access the site home page and browse the site without disclosing personal information. We collect standard Internet log information and details of visitor behaviour patterns to help us identify things such as the number of visitors to the various parts of our site. We collect this information in a way which does not identify anyone (please see our Cookie Section below for more details); and
 
-## Passive Information Collected 
+\- communication and usage data, whether this is required for our own billing purposes or otherwise and the resources that you access. We do not collect the content of emails that you have sent or received or keep a record of individual web pages that you have visited.
 
-Our site utilizes a standard technology called "cookies" to collect information about how this site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at this site, the sites visited just before and just after this site. Passive Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit "cookie" information about yourself, you may turn off the cookie function in your web browser; please consult the "Help" section of your browser to correctly do so. 
+## Where we store your personal data
 
-We use Passive Information to gather information about this users and to enhance and design this site to make it easier, faster and friendlier to use. Additionally, cookies help LeagueRepublic know information about how many people visit this site, when they visit and how they use this site. We do not connect any of this information to your personal information or email address. 
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-## What is a Cookie? 
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user's web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user's transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
+## We use information held about you in the following ways:
 
-## Sharing Information with the Government or As Otherwise Required by Law
+\- to provide you with information, products or services that you request from us or which we feel may interest you (where you have consented to be contacted for such purposes);
 
-We may be required by law or government agency to disclose both Active and Passive Information you have provided to LeagueRepublic and will do so if required by law or subpoena, or for enforcement of or claims regarding our purchase agreement license.
+\- to carry out our obligations arising from any contracts entered into between you and us;
 
-## How Do We Secure Active Information and Passive Information?
+\- to allow you to participate in any interactive features of our services, if you choose to do so;
 
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Other communications you may have with LeagueRepublic via email may not be secure unless LeagueRepublic advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with LeagueRepublic through these means, you are assuming the risk of doing so and LeagueRepublic requests that you do not send or post sensitive information through these means.
+\- to ensure that content from our site is presented in the most effective manner for you and for your computer; and
 
-## How Can You Choose Not to Receive Information from Us or to Correct, Delete or Access Your Information
+\- to notify you about changes to our service.
 
-If you desire not to receive information or if you wish to access, delete or correct you information, please contact LeagueRepublic via our [online form](https://web.archive.org/contact.jsp)
+We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone.
 
-## Changes to this policy
+If you do not want us to use your data in this way, please contact us via this [online form](https://web.archive.org/contact.jsp)
 
-We reserve the right to revise this policy at this discretion. Please check back on this site as this policy may be revised from time to time without notice to you.
+## Disclosure of your information
+
+We may disclose your personal information to third parties:
+
+\- in order to fulfil your order for services;
+
+\- to enable us to provide maintenance, engineering or troubleshooting services to you in connection with goods or services supplied to you;
+
+\- in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+
+\- if LR or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
+
+\- if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or
+
+\- to protect the rights, property, or safety of LR, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+## Your Rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also change your preferences at any time via our [online form](https://web.archive.org/contact.jsp)
+
+You have the right to access information held about you. You can find out what information we hold about you by making a Subject Access Request under the Act. If we hold personal information about you we will give you a description of it, tell you why we are holding it and let you have a copy of it. 
+
+If any of the personal information that we hold about you is incorrect or needs updating, or if you want us to delete any personal information, please contact us. We may request that you provide further information and identification to enable us to comply with this request.
+
+## Third party links
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, affiliates and other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+## Cookies
+
+This policy gives the following information about cookies:
+
+\- what they are;
+
+\- which ones are used by www.leaguerepublic.com ("LR");
+
+\- the purposes for which they are used; and
+
+\- how you can manage and/or disable them.
+
+Cookies are small text files which are placed on your device when you visit a website. They contain information that is transferred to your device's hard drive and help us to improve our site and to deliver a better and more personalised service to you. Cookies enable us to:
+
+\- estimate our audience size and usage pattern;
+
+\- store information about your preferences, and so allow us to customise our site according to your individual interests; and
+
+\- recognise you when you return to our site.
+
+The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide. A list of all the cookies used on this website by category is set out below.
+
+**Category 1 - Strictly Necessary Cookies**
+
+These cookies enable services you have specifically asked for.
+
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies, services you require, like results, statistics, standings and news cannot be provided.
+
+**Cookie Name** | **Description** | **Expiry**  
+---|---|---  
+JSESSIONID | This cookie contains a session ID which is a mechanism for distinguishing different users' visits when multiple users are visiting the website at the same time. It is essential for interactive use of the site.  | On closing the web browser  
+  
+**Category 2 - Performance Cookies**
+
+These cookies collect anonymous information about the pages visited by you
+
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+
+**Cookie Name** | **Description** | **Expiry**  
+---|---|---  
+__utma | This cookie is typically written to the browser upon the first visit to our site from that web browser. If the cookie has been deleted by the browser operator, and the browser subsequently visits our site, a new __utma cookie is written with a different unique ID. This cookie is used to determine unique visitors to our site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.  | 2 years from set/update  
+__utmb | This cookie is used to establish and continue a user session with our site. When a user views a page on our site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established. Each time a user visits a different page on our site; this cookie is updated to expire in 30 minutes, thus continuing a single session for as long as user activity continues within 30-minute intervals. This cookie expires when a user pauses on a page on our site for longer than 30 minutes. | 30 minutes from set/update  
+__utmc | This cookie operates in conjunction with the __utmb cookie to determine whether or not to establish a new session for the user.  | On closing the web browser  
+__utmz | This cookie stores the type of referral used by the visitor to reach our site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within our own site. The cookie is updated with each page view to our site.  | 6 months from set/update  
+  
+**Category 3 - Functionality Cookies**
+
+These cookies remember choices you make to improve your experience.
+
+We do not use this type of cookie directly on our website.
+
+We offer a support chat facility on our website via www.whoson.com , please visit their website for deyails of their privacy policy [here](http://www.whoson.com/privacy.aspx)
+
+**Category 4 - Targetting / Advertising Cookies**
+
+These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+
+LR does not directly store cookies related to advertising from our website. We serve adverts via Google DoubleClick for Publishers Small Business and Google Adsense. Please see their privacy statements [here](http://www.google.com/policies/privacy/ads/)
+
+**Restricting and blocking cookies**
+
+If you wish to restrict or block the cookies which are set by our websites, or any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
+
+Alternatively, visit www.aboutcookies.org which contains comprehensive information on how to restrict or block the cookies on a wide variety of browsers. This site provides details on how to delete cookies from your computer as well as more general information about cookies. 
+
+For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+To opt out of being tracked by Google Analytics across all websites visit [here](http://tools.google.com/dlpage/gaoptout)
+
+Please be aware that restricting cookies may impact on the functionality of our website.
+
+To obtain further information on the ICC (UK) UK cookie guide visit http://www.international-chamber.co.uk/our-expertise/digitaleconomy.
+
+## Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page. This policy was last updated on 28 May 2012.
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy should be addressed to LeagueRepublic, DJH Technology Ltd, Saturn Centre, Spring Road, Wolverhampton WV4 6JX or via this [online form](https://web.archive.org/contact.jsp)
