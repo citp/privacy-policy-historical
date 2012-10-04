@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamiclevels.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419182037id_/http%3A//www.dynamiclevels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamiclevels.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004191456id_/https%3A//www.dynamiclevels.com/privacy-policy) for the most accurate reproduction.*
 
 # Dynamic Levels - Policy
 
