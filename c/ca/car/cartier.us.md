@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartier.us privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627011549id_/http%3A//www.cartier.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartier.us privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004034115id_/http%3A//www.cartier.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - CARTIER US online
 
