@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.com.au privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525080004id_/http%3A//www.mtv.com.au/info/mtv-com-au-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.com.au privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004212628id_/http%3A//www.mtv.com.au/info/mtv-com-au-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info | MTV Australia
 
