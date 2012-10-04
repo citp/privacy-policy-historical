@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrader.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504164522id_/http%3A//www.autotrader.com/redirect/redirector.jsp%3Fto_url%3D/privacy.jsp%26mis%3DALLBFTLNPS1278) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004065629id_/http%3A//www.autotrader.com/redirect/redirector.jsp%3Fto_url%3D/privacy.jsp%26mis%3DALLBFTLNPS1278) for the most accurate reproduction.*
 
 # Privacy Statement - AutoTrader.com
 
