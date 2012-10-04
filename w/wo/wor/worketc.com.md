@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526010426id_/http%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004110001id_/http%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - we hate spam too. - WORKetc 2012
+# Privacy Policy - we hate spam too.
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
