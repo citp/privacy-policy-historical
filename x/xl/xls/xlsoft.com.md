@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlsoft.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621171412id_/http%3A//www.xlsoft.com/en/services/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlsoft.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004210909id_/http%3A//www.xlsoft.com/en/services/privacy.html) for the most accurate reproduction.*
 
 # XLsoft Corporation - Localization, Translation, Consulting Service
 
@@ -29,7 +29,7 @@ XLsoft may disclose your personal information if required to do so by law or in 
 Your information may be stored and processed in the United States or any other country in which XLsoft or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. XLsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 **Control of your Personal Information**  
-When you register, or otherwise give us personal information, XLsoft.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above. By registering your information to XLsoft, you may receive information news about the products and services. If you wish not to receive these services, please unsubscribe from [here](https://web.archive.org/web/20120621171412id_/http%3A//www.xlsoft.com/en/services/unsub.html).
+When you register, or otherwise give us personal information, XLsoft.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above. By registering your information to XLsoft, you may receive information news about the products and services. If you wish not to receive these services, please unsubscribe from [here](https://web.archive.org/web/20121004210909id_/http%3A//www.xlsoft.com/en/services/unsub.html).
 
 XLsoft.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
 
