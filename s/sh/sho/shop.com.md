@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515002326id_/http%3A//www.shop.com/about-privacy-a.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004181424id_/http%3A//www.shop.com/about-privacy-a.xhtml) for the most accurate reproduction.*
 
 # SHOP.COM - Privacy Policy
 
@@ -13,7 +13,7 @@ Customer Service
   
 Privacy Policy
 
-SHOP MA, Inc. and its family of sites, www.shop.com, uk.shop.com, ca.shop.com, www.shop-com.jp, shopespanol.com, theshoppingvine.com, www.shopcompanion.com, www.cataloguecity.co.uk, dwellvine.com, gadgettevine.com, glammevine.com and solevine.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information. 
+SHOP MA, Inc. and its family of sites, www.shop.com, uk.shop.com, ca.shop.com, www.shop-com.jp, Mexico(mx.shop.com), theshoppingvine.com, www.shopcompanion.com, www.cataloguecity.co.uk, dwellvine.com, gadgettevine.com, glammevine.com and solevine.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information. 
 
 Our mission is to provide the most compelling shopping experience for our customers. We we want you to feel safe while visiting the Site. 
 
@@ -59,7 +59,7 @@ We may use personally identifiable information for Operational Uses such as help
 We welcome you to post reviews, comments, articles, stories and other appropriate content; send ecards and other communications; and submit suggestions, ideas, comments, questions, or other information. You can also share your shopping ideas, ratings, reviews, purchases and other information through Facebook and other third party sharing features. Information or content submitted may be used by us or our affiliates to provide other consumers with product reviews and shopping information. If you do post content or submit material, and unless we indicate otherwise, you grant us a nonexclusive, fee-free, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You also grant us the right to use the name or home town that you submit in connection with such content. Your personally identifiable information may be used by us or any subsidiary, parent or other corporation into which we merge or are otherwise acquired or sold, in whole or in part ("affiliates"). 
 
     b. Use of Your Email Address Or Email Address You Provide to Us.  
-Your email is considered personally identifiable information. In adsition to other ways we are permitted to use personally identifiable information, we may also use your email address for processing, servicing or enforcing transactions and sending related service communications; providing users with service or product updates, promotional notices and offers; and/or responding to your questions, inquiries or comments. Your email address may be used by us or any subsidiary, parent or other corporation into which we merge or is otherwise acquired or sold, in whole or in part. 
+Your email is considered personally identifiable information. In addition to other ways we are permitted to use personally identifiable information, we may also use your email address for processing, servicing or enforcing transactions and sending related service communications; providing users with service or product updates, promotional notices and offers; and/or responding to your questions, inquiries or comments. Your email address may be used by us or any subsidiary, parent or other corporation into which we merge or is otherwise acquired or sold, in whole or in part. 
 
 If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact  [Customer Service](mailto:customerservice@shop.com) to request that we remove this information from our database.
 
@@ -76,7 +76,7 @@ In order to provide the best service to our customers, we will assign you an ind
 We may offer opportunities for you to make purchases or donations to promote the charitable mission of certain organizations. When you participate in these offers, your personally identifiable information may be forwarded to the charitable organization so that it may recognize your donation and provide follow up communication.
 
     g. Affiliate, Parent and Subsidiary Companies.  
-In order to provie the best service to our customers, we may share your personally identifiable information and information about your spending habits with our Affiliate, Parent and Subsidiary companies, including without limitation, Market America Worldwide, Inc., Market America, Inc. and Marketamerica.com, Inc.
+In order to provide the best service to our customers, we may share your personally identifiable information and information about your spending habits with our Affiliate, Parent and Subsidiary companies, including without limitation, Market America Worldwide, Inc., Market America, Inc. and Marketamerica.com, Inc.
 
     h. Companies that Facilitate Communications and Transactions with You.  
 Sometimes we hire companies to help deliver messages or services, such as a company that helps fulfill prizes for a sweepstakes or assists us in the analysis of consumer data, development of new services, sending email, credit card processing, sending catalogs or other promotional mailings; or providing customer assistance or marketing assistance. In those instances, there is a need to share your information with these companies. Sometimes we also work with other companies who help either gather your information or communicate with you. Your opt-out choices under paragraph 3 below will not apply to our sharing of your personal information with any of these companies. These third parties are required to maintain your information in strictest confidence and to ensure they honor the privacy settings you have selected for the handling of your private information. Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or as required by law. The personal identifiable information that may be shared is more fully described in paragraph 1a. above.
@@ -130,4 +130,4 @@ SHOP MA, Inc
 Miami, FL 33137  
 email:  [customerservice@shop.com](mailto:customerservice@shop.com)
 
-Updated 01/31/12
+Updated 06/04/12
