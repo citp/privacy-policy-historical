@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615233826id_/http%3A//www.forplaycatalog.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004225856id_/http%3A//www.forplaycatalog.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Sexy Costumes, Dresses, Lingerie, Clubwear, Streetwear & More with Forplay Catalog
 
