@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416022927id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004143756id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
 
 # Security & Privacy Guarantee
 
-BY CATEGORIES
+SHOP BY DESIGNER
 
 [](http://luxury.malleries.com/)
 
-| 
+| Customer Testimonials  
+---  
+  
+Hi, I just returned from Europe to find my beautiful bag waiting for me. I love it, thankyou so much, it is even better than I imagined. It has been a pleasure in dealing with such a professional seller. 
+
+_Anina, (California)_  
+  
+  
+
 
 Security & Privacy Guarantee
 
