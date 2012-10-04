@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the venturaassociates.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505132838id_/http%3A//venturaassociates.net/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturaassociates.net privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004045839id_/http%3A//venturaassociates.net/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Ventura Associates
 
 This is the website of Ventura Associates International LLC
 
 Our postal address is:  
-1040 Avenue of the Americas  
-New York, NY 10018  
+60 East 42nd Street, Ste 650  
+New York, NY 10165  
 We can be reached via e-mail at [info@sweepspros.com](mailto:info@sweepspros.com).  
 Or you can reach us by telephone at (212) 302-8277.
 
