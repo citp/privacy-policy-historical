@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soccernet.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622051046id_/http%3A//soccernet.espn.go.com/feature/_/id/882125/espnsoccernet.com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccernet.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004033158id_/http%3A//soccernet.espn.go.com/feature/_/id/882125/espnsoccernet.com-privacy-policy) for the most accurate reproduction.*
 
-# ESPNsoccernet.com Privacy Policy - ESPN Soccernet
+# ESPNsoccernet.com Privacy Policy - ESPNFC
 
 This policy tells you how ESPN (EUROPE, MIDDLE EAST, AFRICA) LTD ("ESPN") of 3 Queen Caroline Street, London, England with company registration number 06565173 collects information from you, how we protect it and how we use it, and covers all personal information which you provide when you use any of our ESPN sites (the "Sites"), unless otherwise specified on the relevant Site where a different privacy policy will be displayed.
 
