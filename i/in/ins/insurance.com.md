@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608033308id_/http%3A//www.insurance.com/about-us/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004065105id_/http%3A//www.insurance.com/about-us/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Information | Insurance.com
 
@@ -14,11 +14,11 @@
 
 **"Personal Information"** is information that identifies you as an individual, such as:
 
-  * Name 
-  * Postal address 
-  * Telephone number 
-  * Email address 
-  * Credit or debit card number 
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Credit or debit card number
 
 
 
@@ -30,15 +30,15 @@ We collect Personal Information when you interact with us on the Site. We may as
 
 We may use Personal Information:
 
-  * When you request, to connect you with vendors who will provide you with information about products and services. 
-  * to respond to your inquiries and fulfill your requests, such as to send you newsletters. 
-  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
-  * to send you surveys and marketing communications that we believe may be of interest to you. 
-  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
-  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
-  * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend's name and email address. 
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
-  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service. 
+  * When you request, to connect you with vendors who will provide you with information about products and services.
+  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
+  * to send you surveys and marketing communications that we believe may be of interest to you.
+  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you.
+  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend's name and email address.
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
+  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
 
 
 
@@ -46,17 +46,17 @@ We may use Personal Information:
 
 Your Personal Information may be disclosed:
 
-  * to our affiliates, including but not limited to QuinStreet Insurance Agency, Inc., QuinStreet Media, Inc. and WorldWideLearn, Inc., for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information. 
-  * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. 
-  * to our vendors if you request information from vendors (including insurance carriers and agents) so that they (or so that third parties who provide similar services or other vendors if you click on other vendors’ promotions) can provide you with information about their products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR VENDORS USE OF YOUR PERSONAL INFORMATION. 
-  * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources. 
-  * if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies. We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies. While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME. 
-  * to third party sponsors of sweepstakes, contests and similar promotions. 
-  * if you choose to send messages through the Site, to identify you as the sender to the recipient indicated by you. We will ask you for such recipient's name and email address and we store both email addresses for the purpose of sending such message. 
-  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. 
-  * by you, if you have provided a testimonial about a site and given us permission to post that testimonial on our site. 
-  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
-  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
+  * to our affiliates, including but not limited to QuinStreet Insurance Agency, Inc., QuinStreet Media, Inc. and WorldWideLearn, Inc., for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services.
+  * to our vendors if you request information from vendors (including insurance carriers and agents) so that they (or so that third parties who provide similar services or other vendors if you click on other vendors’ promotions) can provide you with information about their products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR VENDORS USE OF YOUR PERSONAL INFORMATION.
+  * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
+  * if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies. We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies. While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME.
+  * to third party sponsors of sweepstakes, contests and similar promotions.
+  * if you choose to send messages through the Site, to identify you as the sender to the recipient indicated by you. We will ask you for such recipient's name and email address and we store both email addresses for the purpose of sending such message.
+  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public.
+  * by you, if you have provided a testimonial about a site and given us permission to post that testimonial on our site.
+  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
 
 
@@ -66,10 +66,10 @@ Your Personal Information may be disclosed:
 
 **"Non-Personal Information"** is any information that does not reveal your specific identity, such as:
 
-  * Browser information 
-  * Information collected through cookies, pixel tags and other technologies 
-  * Demographic information and other information provided by you 
-  * Aggregated information 
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
 
 
