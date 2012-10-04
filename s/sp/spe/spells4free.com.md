@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spells4free.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502073759id_/http%3A//www.spells4free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spells4free.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004181427id_/http%3A//www.spells4free.com/privacy.php) for the most accurate reproduction.*
 
 # FREE LOVE SPELLS THAT WORK - VOODOO SPELLS BLACK MAGIC SPELLS magic spells wiccan spells
 
