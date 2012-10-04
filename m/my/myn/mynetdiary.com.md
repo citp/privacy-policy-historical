@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501051152id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004080628id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
 
 # About MyNetDiary - Online Diet Log and iPhone Calorie Counter | MyNetDiary
 
@@ -74,7 +74,7 @@ It is important for you to protect against unauthorized access to your password 
 
 ### Data Storage
 
-MyNetDiary.com uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage and related technology required to operate MyNetDiary.com. The MyNetDiary.com database is stored on secured servers owned and operated by 4Technologies Corporation. We may store encrypted database backups off site with a third party storage provider to ensure data security in the case of an emergency or catastrophe. 
+MyNetDiary.com uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage and related technology required to operate MyNetDiary.com. The MyNetDiary.com database is stored on secured servers owned and operated by MyNetDiary Inc. We may store encrypted database backups off site with a third party storage provider to ensure data security in the case of an emergency or catastrophe. 
 
 ## Business Transitions
 
@@ -97,7 +97,7 @@ You may remove your personally identifiable information from our systems, as wel
             
     
     
-            Mail:	4Technologies Corp
+            Mail:	MyNetDiary Inc.
                     Opt-Out List
                     811 Church Road, Suite 105
                     Cherry Hill, New Jersey 08002
@@ -112,7 +112,7 @@ If you have a privacy concern or question regarding MyNetDiary.com or this Priva
             
     
     
-            Mail:	4Technologies Corp
+            Mail:	MyNetDiary Inc.
                     811 Church Road, Suite 105
                     Cherry Hill, New Jersey 08002
             
