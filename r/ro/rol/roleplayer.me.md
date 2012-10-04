@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the roleplayer.me privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325182547id_/http%3A//www.roleplayer.me/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roleplayer.me privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004041329id_/http%3A//www.roleplayer.me/privacy_policy.php) for the most accurate reproduction.*
 
 # RolePlayer.me | Online Role Playing Community
 
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=2119497&afsid=1)  
-  
 |  **  Privacy Policy**  
 ---  
 **RolePlayer.me Privacy Policy** Updated: March 20, 2012 ClearVista, LLC (hereinafter “ClearVista”) has adopted this Privacy Policy (hereinafter “Privacy Policy”) to provide you with notice of its collection, use, and disclosure of personal and personally identifiable information through your use of the RolePlayer.me website and its associated content (hereinafter “Website”). You understand and agree that ClearVista may modify, amend, replace, or suspend this Privacy Policy at any time and in its sole discretion. In the event ClearVista modifies, amends, or replaces its Privacy Policy, the Effective Date, located above, will change. Your use of the Website after a modification, amendment, or replacement of this Privacy Policy constitutes your manifestation of assent to said modification, amendment, or replacement. **Information Collected**  
@@ -18,4 +16,6 @@ ClearVista may collect Personal Information from you through the storage of data
 In the event ClearVista allows you to create a Member Account, you will have the opportunity to update components of your Personal Information. You may opt-out of ClearVista’s collection of your Personal Information by deleting your Member Account and by ceasing your use of the Website. **Protection and Storage of Personal Information**  
 ClearVista undertakes commercially reasonable procedures to help protect your Personal Information from disclosure. Though ClearVista takes the security of your Personal Information very seriously, ClearVista cannot guarantee that its servers and Website are completely secure. ClearVista uses commercially reasonable efforts to protect your Personal Information, but you provide any and all Personal Information at your own risk. **California Privacy Rights**  
 California residents have the right to receive information that identifies any third party companies or individuals that ClearVista has shared your Personal Information with in the previous calendar year, as well as a description of the categories of Personal Information disclosed to that third party. You may obtain this information once a year and free of charge by contacting ClearVista at privacy@ClearVista.com. **Contact and Notices**  
-All questions and concerns regarding this Privacy Policy may be directed to ClearVista, LLC by emailing privacy@ClearVista.com 
+All questions and concerns regarding this Privacy Policy may be directed to ClearVista, LLC by emailing privacy@ClearVista.com   
+  
+
