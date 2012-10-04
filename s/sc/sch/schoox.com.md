@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the schoox.com privacy policy that was archived on 2012-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120122111627id_/http%3A//www.schoox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoox.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004132812id_/http%3A//www.schoox.com/privacy.php) for the most accurate reproduction.*
 
 # schoox - Privacy Policy
 
 * * *
 
-www.schooX.com (the “Site”) is owned and operated by PHERON INFORMATION TECHNOLOGY SERVICES LTD, 90 Giannitson Str., 54627 Thessaloniki, Greece, tel. +302310590104, e-mail info@pheron.eu (“Pheron”, “we”, “us”).
+www.schooX.com (the “Site”) is owned and operated by PHERON INFORMATION TECHNOLOGY SERVICES LTD, 25B Koletti Str., 56224 Thessaloniki, Greece, tel. +306937208876, e-mail info@pheron.eu (“Pheron”, “we”, “us”).
 
 The following Privacy Policy governs our collection and handling practices of personal information of visitors and users of the pages and services of the Site. Specifically, it outlines the types of information that we gather about you while you are visiting and using the Site and the ways in which we use and don’t use that information.
 
