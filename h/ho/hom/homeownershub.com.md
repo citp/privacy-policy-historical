@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501195936id_/http%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004102330id_/http%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
 
 # HomeOwnersHub.com Privacy Policy
 
 ##  HomeOwnersHub.com Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by visiting our [contact form page ](http://www.homeownershub.com/contact.php " HomeOwnersHub.com  Contact Page")
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by visiting our [contact form page ](https://web.archive.org/contact.php " HomeOwnersHub.com  Contact Page")
 
 At _HomeOwnersHub.com_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines what type of personal information is collected and stored by _HomeOwnersHub.com_ and how it is used. 
 
