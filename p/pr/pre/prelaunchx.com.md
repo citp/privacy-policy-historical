@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prelaunchx.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501115435id_/https%3A//www.prelaunchx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prelaunchx.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004093850id_/https%3A//www.prelaunchx.com/privacy.php) for the most accurate reproduction.*
 
 # prelaunchX
 
@@ -65,4 +65,4 @@ You can change or update your personal information at any time by logging into y
 
 [Sign up](https://web.archive.org/signup/) for PLX today and invite a few friends. It's quick, free and easy to join. Plus, it's fun to watch your launch group grow! 
 
-You were invited by PLX user: speedbird
+You were invited by PLX user: jorgefop
