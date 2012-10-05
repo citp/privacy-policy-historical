@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haven.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515220216id_/http%3A//www.haven.com/support/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haven.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005080428id_/http%3A//www.haven.com/support/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Haven - Privacy Policy
 
@@ -17,6 +17,41 @@ By visiting [www.haven.com](http://www.haven.com/) you are accepting and consent
  **Collection and Use of Personal Information**
 
 We use the information submitted on this site to handle booking requests, deliver products and services (i.e. brochures, booking confirmations), communicate with you about bookings, services and promotional offers, update our records and generally maintain your details.
+
+ **Cookies**
+
+A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. A cookie helps analyse web traffic or logs when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We, Haven and, on our behalf, Webabacus and Comscore use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to our customers needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Denial of a traffic log cookie should not prevent you from using this site.
+
+The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can visit all pages of this site without cookies, however, cookies allow you to take full advantage of some of [www.haven.com](http://www.haven.com/) useful features and we recommend that you leave them turned on.
+
+If you are using a shared computer and you choose to leave cookies turned on, be sure to log yourself and your details off when you finish using a shared computer.
+
+Below are some examples of how we use cookies to do this:
+
+1\. To gather information which allows us to identify your platform and record sales so we may improve customer experience and identify issues on the site.
+
+2\. To ensure you are provided with correct and useful information during your visit to our site.
+
+3\. To allow you to add items to the basket and proceed through our checkout.
+
+4\. To collect data which allows us to improve our services based on purchases and site usage.
+
+There are three different categories these cookies are split into:
+
+1\. Essential to Site function cookies – these cookies allow you to browse the site, search for holidays and book your holiday online.
+
+2\. Helpful, non intrusive cookies – these help improve your experience on the site
+
+3\. Third Party Cookies – to help us record customer experience and to allow us to test new services, to help us improve the customer journey on the website  
+
+
+You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at [www.aboutcookies.org](http://www.aboutcookies.org/).
+
+ **IP Tracking**
+
+When you visit our website, we store web server logs which show your IP address, this gives us information such as which pages you looked at, whether the page request was successful or not and which browser you use to view the page. The use of this data is purely for statistical purposes.
 
  **Brochure Requests, Enquiry Forms, Contact Us and Online Booking**
 
@@ -52,13 +87,3 @@ We are committed to ensuring that your information is secure. In order to preven
  **Other Websites**
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information, which you provide whilst visiting such sites and such sites are not governed by this Privacy Statement. You should exercise caution and look at the Privacy Statement applicable to the website in question.
-
- **Cookies**
-
-A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. A cookie helps analyse web traffic or logs when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We, Haven and, on our behalf, Webabacus use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to our customers needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Denial of a traffic log cookie should not prevent you from using this site.
-
-The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can visit all pages of this site without cookies, however, cookies allow you to take full advantage of some of [www.haven.com](http://www.haven.com/) useful features and we recommend that you leave them turned on.
-
-If you are using a shared computer and you choose to leave cookies turned on, be sure to log yourself and your details off when you finish using a shared computer.
