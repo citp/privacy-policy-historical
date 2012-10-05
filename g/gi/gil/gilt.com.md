@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilt.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531142915id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilt.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005105045id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gilt Groupe | About
 
