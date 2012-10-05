@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flnet.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508090211id_/http%3A//www.dtdns.com/dtsite/legalprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flnet.org privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005032939id_/http%3A//www.dtdns.com/dtsite/legalprivacy) for the most accurate reproduction.*
 
 # DtDNS :: Privacy Policy
 
