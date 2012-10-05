@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilewhack.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512203217id_/http%3A//www.mobilewhack.com/about-us/about-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilewhack.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005172834id_/http%3A//www.mobilewhack.com/about-us/about-2) for the most accurate reproduction.*
 
 # Privacy Policy - MobileWhack.com
 
