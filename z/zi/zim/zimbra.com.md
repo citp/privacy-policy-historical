@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zimbra.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606020345id_/http%3A//www.zimbra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zimbra.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005034341id_/http%3A//www.zimbra.com/privacy.html) for the most accurate reproduction.*
 
 # Zimbra - Privacy Policy
 
@@ -46,9 +46,9 @@ We may employ procedural and technological measures, consistent with industry pr
 
 ## Correction/Updating Personally Identifiable Information 
 
-Zimbra provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us, you may contact us by email at: [info@zimbra.com](mailto:info@zimbra.com). We may limit or deny access to your personally identifiable information where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by applicable laws or regulations.
+Zimbra provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us, you may contact us by email at: [privacy@vmware.com](mailto:privacy@vmware.com). We may limit or deny access to your personally identifiable information where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by applicable laws or regulations.
 
-If you have any questions regarding this Privacy Policy please contact us via email at: [info@zimbra.com](mailto:info@zimbra.com).
+If you have any questions regarding this Privacy Policy please contact us via email at: [privacy@vmware.com](mailto:privacy@vmware.com).
 
 _This Privacy Policy was last updated: June 27, 2006  
 This Privacy Policy is effective as of: June 27, 2006_
