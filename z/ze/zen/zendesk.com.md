@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zendesk.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615060006id_/http%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zendesk.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005022848id_/http%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
 
 # Zendesk Privacy Policy
 
@@ -69,7 +69,7 @@ Click [here](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) 
 
 Click [here](http://support.microsoft.com/kb/196955) to learn more about “InPrivate” and cookie setting in Internet Explorer; or
 
-Click [here](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9311.html) to learn more about “Private Browsing” and cookie setting in Safari. 
+Click [here](http://support.apple.com/kb/PH5000) to learn more about “Private Browsing” and cookie setting in Safari. 
 
 If You want to learn more about cookies, or how to control or delete them, please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
 
@@ -81,7 +81,7 @@ As is true with most web sites, Zendesk gathers certain information automaticall
 
 ### Links to Other Sites
 
-As is true with most web sites, Zendesk gathers certain information automatically and stores it in log files. This information includes internet protocol addresses as well as browser, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data. Occasionally We may connect personal information to data gathered in our log files, as necessary to improve the Service to individual customers. Otherwise We mostly use this information with no connection to individual users, to analyze trends, administer the Site, or track usage of various features within the Site.
+Our Site contains links to other websites that are not owned or controlled by Zendesk. Please be aware that We do not determine and We are not responsible for the privacy practices or content of such other sites. We encourage You to be aware when you leave our Site, and read the privacy statements of other websites linked to our Site. This Policy applies only to information collected by this Site.
 
 ### Public Forums
 
