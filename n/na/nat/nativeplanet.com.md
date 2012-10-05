@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativeplanet.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517194256id_/http%3A//www.nativeplanet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeplanet.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005115253id_/http%3A//www.nativeplanet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Native Planet | Privacy Policy | Travel Website | Travel And Tourist Information - Native Planet
 
