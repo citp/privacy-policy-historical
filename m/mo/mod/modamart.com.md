@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modamart.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501092945id_/http%3A//www.modamart.com/policies-and-terms-/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modamart.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005040018id_/http%3A//www.modamart.com/policies-and-terms-/privacy-policy.html) for the most accurate reproduction.*
 
 # Clothing, Fashion Shoes & Womens Accessories--Modamart.com - Privacy Policy
 
