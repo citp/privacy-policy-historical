@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynicespace.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507204242id_/http%3A//www.myniceprofile.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynicespace.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005035033id_/http%3A//www.myniceprofile.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy | MyNiceProfile.com
 
