@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501134933id_/http%3A//www.gaydarradio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005095604id_/http%3A//www.gaydarradio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GaydarRadio
 
-[ ](https://web.archive.org/newsletter) [ ](http://www.c4em.org.uk/) [ ](https://web.archive.org/news/2012/4/hero-and-heroine-awards-2012---winners.html) [ ](https://web.archive.org/entertainment/popcorn/2012/4/ebooker-amsterdam.html) [ ](http://www.fatboyslim.net/) [ ](https://gaydar-radio.clubtickets.com/) [ ](https://web.archive.org/news/2012/4/coalition-for-equal-marriage.html) [ ](https://web.archive.org/entertainment/popcorn/2012/4/hot-male-3-april.html)
+[ ](https://web.archive.org/newsletter)
+
+[ ](http://www.llgs.org.uk/) [ ](https://web.archive.org/competitions/2012/9/jackie-collins.html) [ ](https://web.archive.org/entertainment/popcorn/2012/10/hot-male---october-2.html) [ ](http://www.gaydarradio.com/music/outinmusic) [ ](https://web.archive.org/entertainment/popcorn/2012/6/pride-diary.html) [ ](https://web.archive.org/competitions/2012/10/pnk---tour-copy.html) [ ](https://gaydar-radio.clubtickets.com/) [ ](http://www.britishsurrogacycentre.com/)
 
 We take the privacy rights of users of this Site very seriously and seek to ensure the highest standards of compliance with UK Data Protection Laws and Regulations. 
 
