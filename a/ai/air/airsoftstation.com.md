@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511025310id_/http%3A//www.airsoftstation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005112453id_/http%3A//www.airsoftstation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AirsoftStation.com
 
@@ -36,4 +36,4 @@ Please contact those vendors and others directly if you have any questions about
 
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
-For any other information [send us a message.](https://web.archive.org/web/20120511025310id_/http%3A//www.airsoftstation.com/contact-form.html)
+For any other information [send us a message.](https://web.archive.org/web/20121005112453id_/http%3A//www.airsoftstation.com/contact-form.html)
