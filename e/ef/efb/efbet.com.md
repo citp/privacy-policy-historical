@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efbet.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619133356id_/http%3A//rules.efbet.com/Rules/Privacy-Policy/file.indexdetails.file/menu_id.48/lang.2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efbet.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005160152id_/http%3A//rules.efbet.com/Rules/Privacy-Policy/file.indexdetails.file/menu_id.48/lang.2) for the most accurate reproduction.*
 
 # Rules - Privacy Policy - EFbet - The game goes on!
 
