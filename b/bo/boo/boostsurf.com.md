@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostsurf.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628005154id_/http%3A//www.boostsurf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostsurf.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005112342id_/http%3A//www.boostsurf.com/privacy-policy) for the most accurate reproduction.*
 
 # BoostSurf - Boost Your Traffic and Income
 
@@ -8,12 +8,16 @@ This is the web site of BoostSurf.
 
 We can be reached via Support form.
 
-**_Mail:_** Under no circumstances do we ever ask for your password, account information or anything related to BoostSurf via e-mail. We do not send unauthorised emails to our members.
+**Mail: Under no circumstances do we ever ask for your password, account information or anything related to ClixScript via e-mail. We do not send unauthorised emails to our members.**
 
-**_Information we collect:_** We store some user data in cookies, under no circumstances is sensitive data (password, username, IP...) stored in your cookies. Your browser has to have cookies enabled for the website to function normally.We accumulate and store all user inputted information as well as your IP address browser information & date and time of the record conception upon registration. We store passwords in a one way encryption so it can't be reversed. We never treat users differently in anyway related to sensitive information.
+ ** **Information we collect: We store some user data in cookies, under no circumstances is sensitive data (password, username, IP...) stored in your cookies. Your browser has to have cookies enabled for the website to function normally.We accumulate and store all user inputted information as well as your IP address browser information & date and time of the record conception upon registration. We store passwords in a one way encryption so it can't be reversed. We never treat users differently in anyway related to sensitive information.****
 
-**_Account security:_** User information such as your e-mail and AlertPay/PayPal/Liberty Reserve addresses will never be revealed.
+ ** ** **Account security: User information such as your e-mail and AlertPay/PayPal/Liberty Reserve addresses will never be revealed.******
 
-**_3rd party privacy:_** For the privacy acts of 3rd party links to other sites which include banner, popup and text link adverts as well as general advertising links that may be displayed all throughout the BoostSurf website we do not take responsibility, you are viewing advertisements under your own will and risk. 
+ ** ** ** **3rd party privacy: For the privacy acts of 3rd party links to other sites which include banner, popup and text link adverts as well as general advertising links that may be displayed all throughout the ClixScript website we do not take responsibility, you are viewing advertisements under your own will and risk. ********
+
+******
 
 © 2012 BoostSurf. All Rights Reserved. Design by [EasyCloud.us](http://webdesign.easycloud.us/)
+
+******
