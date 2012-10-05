@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigscoots.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605080938id_/http%3A//www.bigscoots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscoots.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005154825id_/http%3A//www.bigscoots.com/privacy) for the most accurate reproduction.*
 
 # BigScoots - Privacy Policy
 
@@ -58,4 +58,4 @@ As with any of our policies and services we offer here at BigScoots we are alway
 
 Although BigScoots makes a conscious effort to keep our clients in the loop on any changes to this Privacy Policy that may occur, it remains possible that it can be changed without notice. It is your responsibility to review the policy regularly and communicate any discrepancies you may find.
 
-_Last Updated: Friday, October 16, 2010. 3:00PM EST_
+_Last Updated: Friday, October 16, 2011. 3:00PM EST_
