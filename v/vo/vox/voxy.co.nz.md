@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002929id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005045451id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
 
 # About Voxy | Voxy.co.nz
 
@@ -16,8 +16,6 @@ Voxy is owned by Wellington based online publisher Digital Advance Limited, whic
 ## **Contact Voxy and Submit News**
 
 To submit news tips to Voxy please email  **news@digitaladvance.co.nz**.  For all corrections or suggested changes to content on this site please email **corrections@digitaladvance.co.nz**. 
-
-If you need help crafting your message, contact us for information on our [press release writing service](http://www.digitaladvance.co.nz/pr-services/press-release-writing-service/).
 
 For website feedback, business development opportunities or advertising enquiries, team Voxy can be contacted by emailing **admin@digitaladvance.co.nz**  or by phone - (04) 889 0188. 
 
@@ -111,9 +109,9 @@ We reserve the right to change this policy at any time by notifying site users o
 
 **Holding, Correcting and Updating**
 
-Any personal information that you provide to us will be collected and held by us at 93 Boulcott Street, Wellington, New Zealand. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary.
+Any personal information that you provide to us will be collected and held by us. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary.
 
-If you have any questions about how our services work or regarding this policy, contact us by [email](https://web.archive.org/contact) or by mail to Digital Advance, PO Box 1599, Wellington, New Zealand.
+If you have any questions about how our services work or regarding this policy, contact us by [email](https://web.archive.org/contact) or by mail to Digital Advance, PO Box 12503, Thorndon, Wellington, New Zealand.
 
 For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [ click here](http://www.privacy.org.nz/home.php).
 
