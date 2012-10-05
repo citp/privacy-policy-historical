@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunelm-mill.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508043020id_/http%3A//www.dunelm-mill.com/info/dunelm_os_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelm-mill.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005035944id_/http%3A//www.dunelm-mill.com/info/dunelm_os_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunelm Mill
 
@@ -23,12 +23,19 @@ It is vital that the information you to provide when you register as a customer 
 8am – 6pm Monday–Friday  
 9am – 5pm Saturday and Sunday
 
+What happens when you sign up to receive our Newsletters?
+
+By consenting to receive marketing communicating by Dunelm Group PLP and its subsidiaries you are agreeing to receive order information & marketing updates via email, postal mail or SMS/MMS messages. Dunelm Mill will never share or sell any of your personal data with third parties.
+
+You can opt out of any marketing communication by simply clicking unsubscribe at the bottom of any email communication or [contact us ](https://web.archive.org/webapp/wcs/stores/servlet/ContactUsView?langId=-1&storeId=10551&catalogId=14100&krypto=gLcslIuEmItICMuL3rv17w%3D%3D&ddkey=http:ContactUsView) for help.
+
 Use of Cookies
 
   * Cookies are small text files of information which are stored by your browser on your computer's hard drive. If your internet browser is set to reject cookies, you will not be able to use Dunelm Mill's online store or most other online shopping sites. 
   * Cookies do not store any personal details relating to you or your credit cards nor can they find out your email address, access any other files on your hard drive or transmit viruses. 
   * Cookies are used to make your online shopping experience faster, easier and more efficient so you can move all over our website without losing what's in your basket or having to log in again and again. 
   * Using cookies also enables us to monitor site usage and customer traffic patterns which helps us develop and improve the design and layout of the website to be more user-friendly for you. 
+  * To opt out [click here](https://web.archive.org/webapp/wcs/stores/servlet/StaticPageDisplay?storeId=10551&identifier=dunelm_os_terms&brdcrmb_trail=dunelm_os_home|dunelm_os_contactus&langId=-1&catalogId=10051#Terms4)
 
 
 
