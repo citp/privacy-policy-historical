@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505233152id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005052921id_/https%3A//www.michaeljfox.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : The Michael J. Fox Foundation
+# The Michael J. Fox Foundation Privacy Policy
 
 The Michael J. Fox Foundation for Parkinson's Research is committed to safeguarding your privacy. This statement explains our online information practices and the choices you can make about the way the information you provide us is collected and used. For easy and direct access, we provide a link to this statement from our home page and all other pages of the site.
 
@@ -37,4 +37,4 @@ If you have specific questions or concerns about the Foundation's privacy policy
 The Michael J. Fox Foundation for Parkinson's Research  
 Church Street Station  
 P.O. Box 780  
-New York, NY 10008-0780 
+New York, NY 10008-0780
