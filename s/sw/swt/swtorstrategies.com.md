@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swtorstrategies.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510014551id_/http%3A//www.swtorstrategies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swtorstrategies.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005040803id_/http%3A//www.swtorstrategies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SWTOR: Strategies
+# Privacy Policy
 
 The privacy of our visitors to swtorstrategies.com is important to us.
 
