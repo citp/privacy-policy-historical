@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkhero.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501125546id_/http%3A//www.linkhero.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkhero.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005124429id_/http%3A//www.linkhero.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Link Hero | Privacy Policy
 
