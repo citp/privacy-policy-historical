@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatedesi.net privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602031506id_/http%3A//www.ultimatedesi.net/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedesi.net privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005082147id_/http%3A//www.ultimatedesi.net/static/privacy) for the most accurate reproduction.*
 
 # privacy policy - UltimateDesi.Net
 
