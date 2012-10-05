@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621112319id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005094731id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | Afternic Domain Listing Service
 
@@ -11,7 +11,7 @@ Your privacy is very important to Afternic. As part of the normal operation of o
 Afternic has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at (781) 839-2800 or Afternic, Attn: Customer Service, 738 Main Street, #389, Waltham, MA 02451. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Membership Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the  
-[AFTERNIC Membership Agreement](https://web.archive.org/web/20120621112319id_/http%3A//www.afternic.com/agreement.php).
+[AFTERNIC Membership Agreement](https://web.archive.org/web/20121005094731id_/http%3A//www.afternic.com/agreement.php).
 
 **1\. Information we collect.**  
 If you are merely visiting our site, we collect and store only the following information about you:
@@ -85,7 +85,7 @@ AFTERNIC and its users will not tolerate any spam. Without limiting the foregoin
 Except as specifically permitted by this section, you may not disclose your AFTERNIC password to any third parties nor share it with any third parties. If you lose control of your password, you will lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
 
 The AFTERNIC staff will never ask you for your password. If you receive a request from anyone claiming to represent us, do not reveal this information.  
-Instead, please [contact Afternic](https://web.archive.org/web/20120621112319id_/http%3A//www.afternic.com/msg2nbs.php).
+Instead, please [contact Afternic](https://web.archive.org/web/20121005094731id_/http%3A//www.afternic.com/msg2nbs.php).
 
 **6\. Reviewing and changing your information.**  
 Following registration, you can review the information you submitted via your personal AFTERNIC account, including your Username and encoded credit card information. 
