@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draftexpress.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616145903id_/http%3A//www.draftexpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftexpress.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005041254id_/http%3A//www.draftexpress.com/privacy.php) for the most accurate reproduction.*
 
 # DraftExpress - NBA Draft, NCAA/International Basketball Website.
 
