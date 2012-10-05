@@ -1,34 +1,44 @@
-> *The following text is extracted and transformed from the lendio.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614023917id_/http%3A//www.lendio.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendio.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005035021id_/http%3A//www.lendio.com/legal/privacy) for the most accurate reproduction.*
 
 # Lendio Privacy policy
+
+**Privacy Policy**
 
 Lendio, Inc. respects the privacy of our clients and has developed this Privacy Policy to demonstrate our commitment to protecting your privacy. This policy describes and sets forth our policies on the following topics:
 
   1. Collection and Use
+
   2. How we collect and use information
+
   3. Disclosure of your information to third-parties
+
   4. Making updates or changes to your information; Data retention
+
   5. Security
+
   6. Choice/Opt-out
+
   7. Information obtained from third-parties
+
   8. Notification of Privacy Policy changes
+
   9. Contact information
+
 
 
 
 This privacy statement describes how Lendio collects and uses the personal information you provide on our website: [www.lendio.com](http://www.lendio.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-### 1\. Collection and Use
+**1\. Collection and Use**
 
 We collect the following personal information:
 
   * Contact information such as name, mailing address, e-mail and telephone.
-  * Billing information such as credit card number and billing address.
-  * Financial information such as bank or brokerage account number and types of investments.
-  * Social Security Number
+
   * Unique identifiers such as user name, account number and password.
+
   * Preferences information such as product wish lists, order history and marketing preferences.
-  * Personal credit reports
+
 
 
 
@@ -38,7 +48,7 @@ We collect the following information regarding your business:
 
 
 
-### 2\. How we collect and use information
+**2\. How we collect and use information**
 
   * _Log Files:_ Any time you visit any of our websites, our servers automatically gather information from your browser (such as your IP addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks) to analyze trends, administer the site, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information. For example, we may log your IP address for system administration purposes. IP addresses are logged to track a user´s session. This gives us an idea of which parts of our site users are visiting. We do not share the log files externally.
 
@@ -53,7 +63,7 @@ We collect the following information regarding your business:
 
 
 
-### 3\. Disclosure of Your Information to Third Parties
+**3\. Disclosure of Your Information to Third Parties**
 
   * _Disclosure By Law:_ You acknowledge and agree that we may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is 8reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law) and (2) protect or defend Lendio´s, or a third party´s, rights or property.
 
@@ -62,7 +72,7 @@ We collect the following information regarding your business:
 
 
 
-### 4\. Making Updates or Changes to Your Information; Data Retention
+**4\. Making Updates or Changes to Your Information; Data Retention**
 
 You may update or remove your profile information at any time by going to your profile page and clicking "Edit My Profile." Any changes made will be updated immediately.
 
@@ -72,21 +82,19 @@ You may delete your account. If you choose to delete your account it will be per
 
 Lendio will retain data in a commercially reasonable manner upon deletion of an account. If an account is deleted, only Lendio will have access to the information. No third party provider will have access to your personal information. Lendio will only use your data for internal research and Lendio marketing. Data that is retained by Lendio will be retained for a commercially reasonable period of time as determined by Lendio.
 
-### 5\. Security
+**5\. Security**
 
-We have extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Socket Layer (SSL) technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information. We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and hence accept no liability for any unintentional disclosure. For further information, please see our [Terms of Use](http://www.lendio.com/terms) and [Security Policy](http://www.lendio.com/security).
+We have extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Socket Layer (SSL) technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information. We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and hence accept no liability for any unintentional disclosure. For further information, please see our [Terms of Use](http://www.lendio.com/legal/terms).
 
 In the event there is a data breach, Lendio will notify you within 45 days. We will notify you that a breach occurred, what type of information was breached, when the breach occurred, what steps you can follow to further protect your information, what actions we are taking regarding the breach and what steps we are taking to ensure the breach does not happen again.
 
-### 6\. Choice/Opt-Out
+**6\. Choice/Opt-Out**
 
 You may choose not to receive our newsletter or marketing emails prior to receiving any such materials by checking the "No" box when prompted at sign-up. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instruction included in these emails or you can contact us at [support@lendio.com](mailto:support@lendio.com).
 
-### 7\. Information Obtained from Third Parties
+**7\. Information Obtained from Third Parties**
 
 We purchase marketing data about our customers from third parties and combine it with information we already have about you, to create more tailored advertising and products.
-
-We obtain credit information about you from an outside credit-reporting agency to help us with customer authentication and credit-related decisions. The specific information obtained from a credit-reporting agency will not be shared with any third-parties.
 
 If you provide information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
@@ -94,11 +102,11 @@ Any information obtained from a third-party will be used to assist matching your
 
 If you have any questions about security on our website, you can contact us at [support@lendio.com](mailto:support@lendio.com).
 
-### 8\. Notification of Privacy Policy Changes
+**8\. Notification of Privacy Policy Changes**
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site. We encourage you to periodically review this page for the latest information on our privacy policy.
 
-### 9\. Contact Information
+**9\. Contact Information**
 
 You can contact us about this privacy policy by writing or email us at the address below:
 
@@ -107,4 +115,4 @@ Lendio, Inc.
 Email: support@lendio.com  
 Phone: 855.8.LENDIO (855.853.6346)
 
-This policy was last revised 01/16/2012
+This policy was last revised October 1, 2012
