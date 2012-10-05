@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505093916id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005124106id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
 
 # Online-Education.net Privacy Policy
 
 [ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.online-education.net/seal_m "Validate TRUSTe privacy certification")
 
-**LAST UPDATED:   **March 22, 2011
+**LAST UPDATED:  **July 31, 2012
 
-**Online-Education.net** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
+**Online-Education.net** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
 **CERTIFICATIONS**
 
-Online-Education.net has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, if you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Online-Education.net has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, if you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).  The TRUSTe program applies to the information collected on this Site.
 
 **Personal Information**
 
@@ -26,15 +26,16 @@ Online-Education.net has been awarded TRUSTe's Privacy Seal signifying that this
 
 
 
-In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information.  We will treat all such information as Personal Information as long as it is combined with Personal Information.
+In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information.  We will treat all such information as Personal Information as long as it is combined with Personal Information.
 
-We collect Personal Information when you interact with us on the Site.  We may associate Personal Information you provide through the Site with Personal Information collected from other sources.  We will use the combined information in accordance with this Privacy Policy as long as it is combined.
+We collect Personal Information when you interact with us on the Site.  We may associate Personal Information you provide through the Site with Personal Information collected from other sources.  We will use the combined information in accordance with this Privacy Policy as long as it is combined.
 
 **How We Use Personal Information**
 
 We may use Personal Information:
 
   * When you request, to connect you with vendors who will provide you with information about products and services.
+  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
   * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
   * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
   * to send you surveys and marketing communications that we believe may be of interest to you.
@@ -79,13 +80,13 @@ Your Personal Information may be disclosed:
 
 **How We Collect Non-Personal Information**
 
-We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics. We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code. We also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, or other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. We may link the information we store in cookies to any personally identifiable information you submit while on our site.
+We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics.  We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code.  We also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, or other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications.  We may link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit http://www.allaboutcookies.org/.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit <http://www.allaboutcookies.org/>.
 
 **How We Use and Disclose Non-Personal Information**
 
-Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose.  In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose.  In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location).  If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
 **IP ADDRESSES**
 
@@ -93,50 +94,52 @@ Your “ **IP Address** ” is a number that is automatically assigned to the co
 
 **How We Log IP Addresses**
 
-An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.
+An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.
 
 **How We Use and Disclose IP Addresses?   **
 
-We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law.
+We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site.  We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law.
 
 **THIRD PARTY SITES**
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site.  The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.  We may also utilize framing techniques that may make it appear that you are still on the site when you are actually on a third party web site.
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site.  The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.  We may also utilize framing techniques that may make it appear that you are still on the site when you are actually on a third party web site.
 
 **Third Party VENDORS**
 
-We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies.  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  http://www.networkadvertising.org/managing/faqs.asp#question_11.
+We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies.  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp> and <http://www.clicktale.net/disable.html>. Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see <http://www.networkadvertising.org/managing/faqs.asp#question_11>.
+
+Our Site may include social media features, such as the Facebook Like or Tweet this button.  These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly.  These features are either hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing it.
 
 PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS.
 
-**security**
+**Security**
 
-We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
 
-The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
+The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
 
 **CHOICES AND ACCESS**
 
 **Your choices regarding our use and disclosure of your Personal Information**
 
-We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from:
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from:
 
-  * **Receiving electronic communications from us and our affiliates** :  If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.
-  * **Our sharing of your Personal Information with unaffiliated third parties** :  If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis.  Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request).  If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
+  * **Receiving electronic communications from us and our affiliates** :  If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.
+  * **Our sharing of your Personal Information with unaffiliated third parties** :  If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis.  Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request).  If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
 
 
 
-We will seek to comply with your request(s) as soon as reasonably practicable.  Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+We will seek to comply with your request(s) as soon as reasonably practicable.  Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
 **How you can access, change or suppress your Personal Information**
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@online-education.com](mailto:info@online-education.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request. ** **
+If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@online-education.com](mailto:info@online-education.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
-In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information.  We will try to comply with your request as soon as reasonably practicable.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **RETENTION PERIOD**
 
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law or as necessary to resolve disputes and enforce our agreements.  If you wish to request that we no longer use your information, please follow the instructions above.
 
 **use of site by MINORS**
 
@@ -148,15 +151,15 @@ Your Personal Information may be stored and processed in any country where we ha
 
 **SENSITIVE INFORMATION**
 
-we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
+We ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
 
 **Your California Privacy Rights**
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. Online-Education.net is not obligated to respond to more than one such request from you per calendar year.
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes.  That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.  If you are a California resident you may request this information by writing to us at the address below. Online-Education.net is not obligated to respond to more than one such request from you per calendar year.
 
 **UPDATES TO THIS PRIVACY POLICY**
 
-We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised. We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.  Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
 **CONTACTING US**
 
