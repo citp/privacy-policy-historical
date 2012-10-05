@@ -1,25 +1,13 @@
-> *The following text is extracted and transformed from the thetelegram.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303071806id_/http%3A//www.transcontinental.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelegram.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005032553id_/http%3A//tctranscontinental.com/privacy-policy) for the most accurate reproduction.*
 
-# Transcontinental - Privacy Policy
+# Privacy Policy - TC Transcontinental
 
-**  
-TRANSCONTINENTAL  
-_PRIVACY POLICY_**
+Your privacy is important to us. Transcontinental Inc., its subsidiaries and affiliates (collectively, "Transcontinental", "us", "we") are committed to maintaining the privacy, security and accuracy of the personal information they collect, use and disclose in accordance with applicable legislation. This privacy policy (the "Privacy Policy") is a statement of principles and guidelines concerning the protection of personal information of our individual clients, individual service providers and other individuals ("you") (with the exception of our personnel, whose personal information is collected, used and disclosed in accordance with our Personnel Privacy Policy).  
 
-Your privacy is important to us. Transcontinental Inc., its subsidiaries and affiliates (collectively, " **Transcontinental** ", " **us** ", " **we** ") are committed to maintaining the privacy, security and accuracy of the personal information they collect, use and disclose in accordance with applicable legislation. This privacy policy (the " **Privacy Policy** ") is a statement of principles and guidelines concerning the protection of personal information of our individual clients, individual service providers and other individuals (" **you** ") (with the exception of our personnel, whose personal information is collected, used and disclosed in accordance with our Personnel Privacy Policy).
+    CONSENT
 
-|  |   
----|---|---  
-|  |   
-| 
+BY SUBMITTING PERSONAL INFORMATION TO TRANSCONTINENTAL OR ITS AGENTS, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY, THE PRIVACY PREFERENCES YOU HAVE MADE KNOWN TO US AND AS PERMITTED OR REQUIRED BY LAW. Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain of the identified purposes at any time by contacting us. If you refuse or withdraw your consent, we may not be able to provide you or continue to provide you with certain services or information that may be of value to you.
 
-**CONSENT  
-BY SUBMITTING PERSONAL INFORMATION TO TRANSCONTINENTAL OR ITS AGENTS, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY, THE PRIVACY PREFERENCES YOU HAVE MADE KNOWN TO US AND AS PERMITTED OR REQUIRED BY LAW.** Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain of the identified purposes at any time by contacting us. If you refuse or withdraw your consent, we may not be able to provide you or continue to provide you with certain services or information that may be of value to you.
-
-|   
-|  |   
-|  |   
-  
 1\. Who are we?
 
 2\. What personal information do we collect?
@@ -45,15 +33,14 @@ BY SUBMITTING PERSONAL INFORMATION TO TRANSCONTINENTAL OR ITS AGENTS, YOU AGREE 
 12\. Contact Us
 
   
-Appendix 1: What are "fair information practices"?  
-
+Appendix 1: What are "fair information practices"?
 
   
 **1\. Who are we?**
 
 Transcontinental Inc. is the "parent" of a group of companies focusing on the print and media sectors. One of the 10 largest commercial printers in North America, Transcontinental is Canada's largest printer of flyers, books and newspapers, and a strong second in the printing of magazines, catalogues and directories. Through its Canadian and U.S. direct marketing facilities, Transcontinental has the geographic platform and complete service offering needed to cover the entire North American market. The Corporation is also Canada's leading publisher of consumer magazines and the second-largest publisher of local and regional newspapers. In addition, it is engaged in the door-to-door distribution of advertising material, the development and integration of Web solutions, and the electronic aggregation of news and business information.
 
-This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publications (click [here](https://web.archive.org/web/20120317051309id_/http://tctranscontinental.com/titres.pdf) to view a list of our publications), and our individual service providers.
+This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publications (click [here](https://web.archive.org/web/20121005032553id_/http%3A//tctranscontinental.com/titres.pdf) to view a list of our publications), and our individual service providers.
 
   
 **2\. What personal information do we collect?**
@@ -81,16 +68,22 @@ We collect your personal information for the purposes listed below:
 > 
 > In addition, from time to time, we may use your personal information for the following purposes:
 > 
->   * to detect and protect Transcontinental and other third parties against error, fraud, theft and other illegal activity, and to audit compliance with Transcontinental policies and contractual obligations;
->   * to understand your needs and preferences, including to contact and communicate with you and to conduct surveys, research and evaluations;
->   * to obtain audited statements regarding numbers of subscribers per publication;
->   * to engage in business transactions, including the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving Transcontinental;
+>   * to detect and protect Transcontinental and other third parties against error, fraud, theft and other illegal activity, and to audit compliance with Transcontinental policies and contractual obligations;  
+>   
+>   * to understand your needs and preferences, including to contact and communicate with you and to conduct surveys, research and evaluations;  
+>   
+>   * to obtain audited statements regarding numbers of subscribers per publication;  
+>   
+>   * to engage in business transactions, including the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving Transcontinental;  
+>   
 >   * for any other purpose we may indicate to you from time to time.
 > 
 
 
 **  
-4\. To whom do we disclose your personal information?** We may disclose your personal information to the following third parties in the following circumstances:
+4\. To whom do we disclose your personal information?**
+
+We may disclose your personal information to the following third parties in the following circumstances:
 
   * **(a) Disclosure to Service Providers**
 
@@ -118,14 +111,18 @@ Transcontinental may disclose your personal information to a government institut
 If you would prefer for us NOT to share your information as described above in sections 4(a)-4(d), simply inform us (see "Contact Us" below).
 
   
-**5\. Control of your personal information  
-**  
+**5\. Control of your personal information**
+
 At Transcontinental, we want you to be able to maintain control over how we use your personal information. In particular:
 
-  * You may have the right to "opt out" of some or all of the identified purposes, uses and disclosures listed in sections 3 and 4 above.
-  * You always have the option to instruct us not to use your name, address, e-mail address, etc. beyond providing you with the product, service or information you requested. See "Contact Us" below.
-  * E-mail communications will always include an identification of the sender and an "Unsubscribe" option.
-  * If you receive a mailing from any of our consumer magazines and you wish to know the source of your name (i.e. what list it came from), we will make every reasonable effort to determine the source and provide you with the information. For this request, or to confirm that any personal information we may have is correct, please contact us (See "Contact Us" below). (Note that some account information can be confirmed by visiting the customer care section of our consumer magazine websites).
+  * You may have the right to "opt out" of some or all of the identified purposes, uses and disclosures listed in sections 3 and 4 above.  
+ 
+  * You always have the option to instruct us not to use your name, address, e-mail address, etc. beyond providing you with the product, service or information you requested. See "Contact Us" below.  
+ 
+  * E-mail communications will always include an identification of the sender and an "Unsubscribe" option.  
+ 
+  * If you receive a mailing from any of our consumer magazines and you wish to know the source of your name (i.e. what list it came from), we will make every reasonable effort to determine the source and provide you with the information. For this request, or to confirm that any personal information we may have is correct, please contact us (See "Contact Us" below). (Note that some account information can be confirmed by visiting the customer care section of our consumer magazine websites).  
+ 
   * We regularly use the Canadian Marketing Association "do not mail/do not call" service to remove customers from marketing campaigns. To add your name to this list, see "Canadian Marketing Association" below.
 
 
@@ -138,13 +135,13 @@ As mentioned above, we may not be able to provide you with our services if you w
 Your personal information is stored in secured locations and on servers controlled by Transcontinental, located either at our offices or at the offices of our service providers. For access to your personal information, please contact our Chief Privacy Officer using the contact information in the "Contact Us" section below.
 
   
-**7\. How can you access your personal information?  
-**  
+**7\. How can you access your personal information?**
+
 Upon written request, subject to certain exceptions, Transcontinental will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Chief Privacy Officer, using the contact information in the "Contact Us" section below.
 
   
-**8\. How do we protect your personal information?  
-**  
+**8\. How do we protect your personal information?**
+
 We make every reasonable effort to protect against the loss, misuse, and alteration of personal information under our control. Our security policies are periodically reviewed and enhanced as necessary.
 
 Only authorized employees and suppliers have access to your personal information. Where information is sent to a third party for processing, we make sure, through our contracts with them, that all your information is kept secure. We keep your information for the time we are providing you with a product or service, and for a reasonable time thereafter in the event that you wish to resume service.
@@ -158,7 +155,7 @@ Transcontinental sometimes collects personal information through its various web
 
 **Cookies** \- When an individual visitor accesses the Transcontinental websites, we may use a browser feature called a "cookie" to collect information such as the type of Internet browser and operating system the visitor uses, the domain name of the websites from which the visitor came, date and duration of the visit, number of visits, average time spent on our websites, pages viewed and number of cookies accumulated. A cookie is a small text file containing a unique identification number that identifies the visitor's browser, but not necessarily the visitor, to our computers each time our websites are visited. Unless a visitor specifically informs us (e.g. by enrolling for our services or sending us correspondence from the websites), we will not know who the individual visitors are. In addition to the identified purposes described in our Privacy Policy, we may use this website information and share it with other organizations with whom we have a commercial relationship to measure the use of our websites and to improve the functionality and content of the websites. Visitors can reset their browsers either to notify them when they have received a cookie or refuse to accept cookies. However, if a visitor refuses to accept cookies, he or she may not be able to use some of the features available on our websites.
 
-**Online Communications** \- In order to provide our website visitors with a product, service or information, visitors may voluntarily submit personal information to us for purposes such as asking a question, obtaining information, subscribing to, reviewing or downloading a publication, participating in contests and surveys. If you are known to Transcontinental as a registered user of an online service, we may combine and store personal information about your use of our websites and the online information you have provided with certain other online and offline information we may have collected. 
+**Online Communications** \- In order to provide our website visitors with a product, service or information, visitors may voluntarily submit personal information to us for purposes such as asking a question, obtaining information, subscribing to, reviewing or downloading a publication, participating in contests and surveys. If you are known to Transcontinental as a registered user of an online service, we may combine and store personal information about your use of our websites and the online information you have provided with certain other online and offline information we may have collected.
 
 **E-Mail Communications** \- Occasionally, we may send marketing or promotional e-mail communications to you with information that may be useful, including information about the products and services of Transcontinental and other third parties with whom we have a relationship. We will include instructions on how to unsubscribe and inform us of preferences if recipients decide they do not want to receive any future marketing or promotional e-mails from Transcontinental.
 
@@ -181,7 +178,9 @@ Also, if you send us an email message, we may retain that message and your email
 No information collected from online guests under 18 years of age is used for any marketing or promotional purposes whatsoever by Transcontinental. Unless otherwise disclosed at collection, we do not provide any personal information collected through any Transcontinental website from individuals under 18 years old, regardless of its source, to any third party for any purpose whatsoever.
 
   
-**10\. Canadian Marketing Association** We are a member of the Canadian Marketing Association ("CMA"), and abide by its Code of Ethics and Standards of Practice, including its Internet privacy policy. Visit the CMA's website at [www.the-cma.org](http://www.the-cma.org/) and click on "Consumer Information" for more information (including its complaint resolution service) and for comprehensive online tips. Or, call the CMA at 416-391-2362.
+**10\. Canadian Marketing Association**
+
+We are a member of the Canadian Marketing Association ("CMA"), and abide by its Code of Ethics and Standards of Practice, including its Internet privacy policy. Visit the CMA's website at [www.the-cma.org](http://www.the-cma.org/) and click on "Consumer Information" for more information (including its complaint resolution service) and for comprehensive online tips. Or, call the CMA at 416-391-2362.
 
   
 **11\. Changes to the Privacy Policy**
@@ -195,27 +194,26 @@ Prior to January 1, 2004 some Transcontinental websites may have collected perso
 
 Transcontinental has appointed a Chief Privacy Officer to oversee compliance with this Privacy Policy and applicable Privacy Laws. You can contact the Transcontinental Chief Privacy Officer at:
 
-> Transcontinental Chief Privacy Officer  
+> TC Transcontinental Chief Privacy Officer  
 >  1 Place Ville Marie, Suite 3315  
 >  Montreal, Quebec H3B 3N2  
->  e-mail: [chiefprivacyofficer@transcontinental.ca](mailto:chiefprivacyofficer@transcontinental.ca)  
+>  e-mail: chiefprivacyofficer  
 >  fax: (514) 954-2802
 
 **Appendix 1
 
 What are "fair information practices"?
 
-**  
-
+**
 
 In Canada, "fair information practices" with regards to your personal information are reflected in a series of principles developed by the Canadian Standards Association and incorporated into Canadian privacy legislation, designed to ensure that companies treat your personal information fairly, protect its confidentiality and provide the means by which individuals can maintain a reasonable level of control over how their personal information is collected, used and disclosed. Transcontinental collects, uses and discloses your personal information by employing "fair information practices" as described in the following ten privacy principles:
 
-**Principle 1 - Accountability  
-**  
+**Principle 1 - Accountability**
+
 Transcontinental is responsible for personal information under its control and has designated a Chief Privacy Officer who is accountable for Transcontinental's compliance with this Privacy Policy and the Privacy Laws. Contact information for the Chief Privacy Officer is provided in the Contact Us section of this Privacy Policy. In addition, our accountability for the personal information we collect continues even if we disclose it to other organizations. For example, whenever we disclose your information to another organization (such as to one of our service providers), we will put in place contractual and other safeguards to help ensure that they appropriately protect your personal information.
 
-**Principle 2 - Identifying the Purposes for Collection of Personal Information  
-**  
+**Principle 2 - Identifying the Purposes for Collection of Personal Information**
+
 Transcontinental will identify the purposes for which your personal information is collected at or before the time the personal information is collected. Some of the identified purposes for which Transcontinental typically collects, uses and discloses personal information are described in Section 3 of this Privacy Policy. If we intend to collect, use or disclose your personal information for additional purposes, we will either revise this Privacy Policy (and provide you with notice) or seek your consent.
 
 **Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information**
@@ -232,20 +230,20 @@ Transcontinental will not use or disclose personal information for purposes othe
 
 **Principle 6 - Accuracy of Personal Information**
 
-Transcontinental will endeavour to ensure that your personal information will be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. Transcontinental will update personal information as and when necessary to fulfill the identified purposes or upon notification from the subject individual. Transcontinental will not routinely update personal information, unless such process is necessary to fulfill the identified purposes. If ever your contact and/or other personal information changes, please feel free to contact us, so that we can update our records. 
+Transcontinental will endeavour to ensure that your personal information will be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. Transcontinental will update personal information as and when necessary to fulfill the identified purposes or upon notification from the subject individual. Transcontinental will not routinely update personal information, unless such process is necessary to fulfill the identified purposes. If ever your contact and/or other personal information changes, please feel free to contact us, so that we can update our records.
 
-**Principle 7 - Security Safeguards  
-**  
+**Principle 7 - Security Safeguards**
+
 Transcontinental will protect your personal information by security safeguards appropriate to the sensitivity of the information. For example, the computer servers on which we store your personal information are protected by firewalls and other industry standard security features. In addition, your personal information is only made available to our employees and service providers who have a "need to know" in order to offer you our services or otherwise fulfil the purposes identified in Section 3 above.
 
-**Principle 8 - Openness Concerning Policies and Practices  
-**  
-Transcontinental will make readily available to you specific information about our policies and practices relating to the management of personal information. For example, the most recent version of this Privacy Policy will always be available on the Transcontinental website at [www.transcontinental.com](https://web.archive.org/web/20120317051309id_/http://tctranscontinental.com/en/index.html) and upon request to the Chief Privacy Officer using the contact information in the "Contact Us" section.
+**Principle 8 - Openness Concerning Policies and Practices**
+
+Transcontinental will make readily available to you specific information about our policies and practices relating to the management of personal information. For example, the most recent version of this Privacy Policy will always be available on the Transcontinental website at [www.tc.tc](http://www.tctranscontinental.com/) and upon request to the Chief Privacy Officer using the contact information in the "Contact Us" section.
 
 **Principle 9 - Individual Access to Personal Information**
 
 Upon written request, subject to certain exceptions, Transcontinental will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. If access is denied, Transcontinental will notify you in writing, give reasons for the denial, and inform you of the recourses open to you. If access is granted, Transcontinental will give you a reasonable opportunity to review your personal information. You will be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
 
-**Principle 10 - Challenging Compliance  
-**  
+**Principle 10 - Challenging Compliance**
+
 You have the right to address a challenge concerning compliance with this Privacy Policy to Transcontinental's Chief Privacy Officer.
