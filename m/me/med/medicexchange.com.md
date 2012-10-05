@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicexchange.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217014744id_/http%3A//www.medicexchange.com/Documents/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicexchange.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005200117id_/http%3A//www.medicexchange.com/Documents/privacy-policy.html) for the most accurate reproduction.*
 
 # Medicexchange Privacy and Policy
 
@@ -7,8 +7,8 @@ Medicexchange collects and, in some cases, discloses information about you as pa
 Medicexchange may amend this Privacy Policy at any time by posting the amended policy on the Medicexchange site, and such amendments will become effective upon posting.
 
 If you have any questions about this policy, we can be contacted as follows:   
-By email at [support@Medicexchange.com](mailto:support@Medicexchange.com).   
-By mail at Medicexchange, Kensington Centre, 66 Hammersmith Road, London W14 8UD, United Kingdom  
+By email at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy13163%20=%20'support'%20+%20'@';%20addy13163%20=%20addy13163%20+%20'Medicexchange'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy13163%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy13163%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[support@Medicexchange.com](mailto:support@Medicexchange.com).   
+By mail at Medicexchange, 221 West 17th Street, 4th Floor, New York, NY 10011, USA   
 Attention: Privacy Policy
 
 ### Information About You
@@ -27,7 +27,8 @@ If you send us correspondence, such as emails or letters, or if other users or t
 
 Your email address and personalized content If your registration form indicates that you want to receive email updates about Medicexchange, as part of our service we may send to you periodic emails and newsletters containing information about us, updates on new product and service features, product and service usage tips, information about third party services that are likely to be of interest to our customers, and customer satisfaction questions.
 
-If you do not want us to send you periodic emails, you should make sure that the applicable box on the registration form is not checked when you submit it. In addition, at any time you can opt-out of these services by editing your account details through the 'My Account' link (located in the top right corner of any page) and unticking the check-box. Alternatively, you an send an email with "UNLIST" in the subject line to [ ](http://mce_host/)[support@Medicexchange.com](mailto:support@Medicexchange.com).
+If you do not want us to send you periodic emails, you should make sure that the applicable box on the registration form is not checked when you submit it. In addition, at any time you can opt-out of these services by editing your account details through the 'My Account' link (located in the top right corner of any page) and unticking the check-box. Alternatively, you an send an email with "UNLIST" in the subject line to [ ](http://mce_host/)[support@Medicexchange.com](mailto:support@Medicexchange.com).  
+
 
 In addition to the periodic emails described above, we may use your email address to send you administrative notices about your account (such as notices about pending activities).
 
