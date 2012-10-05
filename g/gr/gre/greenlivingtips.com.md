@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenlivingtips.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508104701id_/http%3A//www.greenlivingtips.com/pages/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenlivingtips.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005025148id_/http%3A//www.greenlivingtips.com/pages/Privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy statement | Green Living Tips
 
 GreenLivingTips.com has created this privacy statement in order to demonstrate our firm commitment to privacy to our visitors and subscribers. 
 
