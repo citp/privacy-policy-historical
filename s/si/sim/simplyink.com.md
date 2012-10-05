@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2011-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111002042241id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006001020id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simplyink
 
@@ -90,7 +90,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at [800.871.9095], send us an [email](mailto:info@simplyink.com). All mail inquiries can be sent to: 2500 Grand Ave. Long Beach, CA 90815 
+Should you have other questions or concerns about these privacy policies, please call us at [800.871.9095], send us an [email](mailto:info@simplyink.com). All mail inquiries can be sent to: 3700 Cover St. Long Beach, CA 90808 
 
   
 Effective March 2, 2010
