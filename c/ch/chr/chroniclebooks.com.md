@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524054214id_/http%3A//www.chroniclebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005052408id_/http%3A//www.chroniclebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Chronicle Books
 
@@ -6,7 +6,7 @@
 
 Your privacy and security online is very important to us, so we have written this policy to explain how we use the information we collect about you; how you can instruct us if you wish to limit the use of that information; our gathering techniques; and the procedures we have in place to safeguard your privacy.
 
-This is the privacy policy (the “Policy”) for all websites owned and made available by Chronicle Books, including, without limitation, the website currently located at www.chroniclebooks.com (the “Site”). Please carefully review this Policy to learn about how we collect, use, and protect any Personal Information (defined below) and Non-Personal Information (defined below) you provide us on or through the Site and your choices for managing your Personal Information. By using the Site, you signify your assent to this Policy.
+This is the privacy policy (the “Policy”) for all websites owned and made available by Chronicle Books, including, without limitation, the website currently located at www.chroniclebooks.com and www.mychroniclebooks.com (the “Site”). Please carefully review this Policy to learn about how we collect, use, and protect any Personal Information (defined below) and Non-Personal Information (defined below) you provide us on or through the Site and your choices for managing your Personal Information. By using the Site, you signify your assent to this Policy.
 
 **1\. INFORMATION COLLECTION AND USE**
 
@@ -40,7 +40,7 @@ We use Non-Personal Information and Personal Information for internal purposes o
 We may share Non-Personal Information and Personal Information with entities controlling, controlled by, or under common control with Chronicle Books. We will not sell or rent Personal Information to third parties, and we will not otherwise disclose Personal Information to third parties, without your express permission or as expressly disclosed in this Privacy Policy.
 
 Service Providers  
-From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, widget providers, data management services, Web hosting, and Web development.
+From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, widget providers, personalization technology partners, data management services, Web hosting, and Web development.
 
 We provide our Service Providers with the information reasonably necessary for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification, or disclosure.
 
@@ -65,7 +65,7 @@ Please be advised that, whenever you voluntarily post information to any communi
 Information Practices and Sharing for Children Under 13  
 We recognize the importance of protecting children’s information and we strongly encourage parents to be actively involved in their children’s online activities. For this reason, we have adopted a special set of practices relating to Personal Information collected relating to children under the age of 13. Before reading these policies, however, please make sure to also review the sections above, which describe our privacy practices for our typical online consumers (i.e., parents).
 
-We collect children’s Personal Information (if any at all) from adults. Access to Chronicle Books is intended to be acquired by parents and not to be acquired by children directly. We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
+We collect children’s Personal Information (for example, within the mychroniclebooks.com personalization program) from adults. Access to Chronicle Books is intended to be acquired by parents and not to be acquired by children directly. We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
 
 For activities that necessitate the use of Personal Information from children under the age of 13, Chronicle Books will notify the respective parent of our privacy policy and obtain verifiable parental consent before collecting Personal Information in compliance with the Federal Trade Commission’s Children’s Online Privacy Protection Act.
 
