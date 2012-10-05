@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paradoxplaza.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618184339id_/http%3A//www.paradoxplaza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradoxplaza.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005021617id_/http%3A//www.paradoxplaza.com/privacy) for the most accurate reproduction.*
 
 # Paradox Interactive AB - Paradox Interactive
 
@@ -67,6 +67,6 @@ This Privacy Policy is governed by and construed in accordance with the laws of 
 
  **12\. Contacting Us**
 
-If you have questions about this Privacy Policy, the information practices of Paradox Interactive or your dealings with Paradox Interactive, please contact us at **[www.paradoxplaza.com/support](http://www.paradoxplaza.com/support) or [support@paradoxplaza.com](https://web.archive.org/web/20120618184339id_/http%3A//www.paradoxplaza.com/support@paradoxplaza.com).**
+If you have questions about this Privacy Policy, the information practices of Paradox Interactive or your dealings with Paradox Interactive, please contact us at **[www.paradoxplaza.com/support](http://www.paradoxplaza.com/support) or [support@paradoxplaza.com](https://web.archive.org/web/20121005021617id_/http%3A//www.paradoxplaza.com/support@paradoxplaza.com).**
 
  ** _Date Last Modified: March 6, 2012_**
