@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613221430id_/http%3A//weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005071645id_/http%3A//weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # WeddingChannel.com Privacy Policy - Your Privacy Rights
 
@@ -15,38 +15,38 @@ So, to understand how any information collected may be used, you should review b
 
 The following are links to the privacy policies of some of the retailers and companies featured on this website that may receive your personal information:
 
-[Privacy Policy - Amazon.com](http://www.amazon.com/gp/help/customer/display.html?tag=wwwweddingcha-20&ie=UTF8&nodeId=468496)   
-[Privacy Policy - BabySuperMall](http://www.babysupermall.com/Help/Privacy.html?close=1)   
-[Privacy Policy - Bed Bath & Beyond](http://www.bedbathandbeyond.com/policyPrivacy.asp?order_num=-1&)   
+[Privacy Policy - Amazon.com](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496)   
+[Privacy Policy - BabySuperMall](http://www.babysupermall.com/Help/Privacy.html)   
+[Privacy Policy - Bed Bath & Beyond](http://www.bedbathandbeyond.com/policyPrivacy.asp)   
 [Privacy Policy - Belk](http://www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp)   
 [Privacy Policy - Bloomingdale's](http://www1.bloomingdales.com/service/policies/privacy.jsp)   
-[Privacy Policy - Bottlenotes](http://www.bottlenotes.com/wine-clubs/easypage.aspx?topic=privacy_policy)   
+[Privacy Policy - Bottlenotes](http://www.bottlenotes.com/privacy-policy)   
 [Privacy Policy - buybuy BABY](http://www.buybuybaby.com/policyPrivacy.asp?order_num=-1&)   
-[Privacy Policy - Charity Registry  
-](http://www.idofoundation.org/about/privacy.html)[Privacy Policy - Crate and Barrel](http://weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Crate-and-Barrel.aspx)   
-[Privacy Policy - giggle](http://www.giggle.com/help_privacy.aspx)   
-[Privacy Policy - Gump's](http://hosting.giftregistryworks.com/marcoleweb/html/gumps/policytext.html)   
-[Privacy Policy - JCPenney](http://www2.jcpenney.com/jcp/CustomerServiceSub.aspx?DeptID=12476&CatTyp=CSR&CatID=12490)   
+[Privacy Policy - Cord Blood Registry](http://www.cordblood.com/cbr%20home/privacy)  
+[Privacy Policy - Crate and Barrel](http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx)   
+[Privacy Policy - Crowdrise Charity Registry](http://www.crowdrise.com/about/privacy)   
+[Privacy Policy - Diapers.com](http://www.diapers.com/track.aspx?site=wc&dest=%2FHelpCenter%2FPrivacyPolicy.aspx)  
+[Privacy Policy - giggle](http://www.giggle.com/Privacy-Security/privacy-and-security,default,pg.html)   
+[Privacy Policy - Gump's](http://www.gumps.com/s/PrivacyandSecurity)   
+[Privacy Policy - I Do Charity Registry](http://www.idofoundation.org/about/privacy.html)  
+[Privacy Policy - JCPenney](http://www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp?pageId=pg4003700012&isFooter=true)   
 [Privacy Policy - Kohl's](http://www.kohls.com/upgrade/webstore/security_legal.jsp#security&privacy)   
-[Privacy Policy - The Land of Nod](http://www.landofnod.com/helpdesk/privacyPolicy.aspx)   
-[Privacy Policy - Macy's](http://www1.macys.com/service/start/safeshopping/privacy.jsp)   
+[Privacy Policy - The Land of Nod](http://www.landofnod.com/Customer-Service/Privacy-Policy.aspx)   
+[Privacy Policy - Macy's](https://customerservice.macys.com/app/answers/detail/a_id/595)   
 [Privacy Policy - Michael C. Fina](http://www.michaelcfina.com/customer-service/privacy-policy.html?id=nqe3u5Cr)   
-[Privacy Policy - Pottery Barn](http://weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Pottery-Barn.aspx)   
-[Privacy Policy - Pottery Barn Kids](http://www.potterybarnkids.com/cs/index.cfm?src=hme&s%45ct=privacy&ftest=1&flash=on)   
-[Privacy Policy - REI](http://weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-REI.aspx)   
-[Privacy Policy - Restoration Hardware](http://weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Restoration-Hardware.aspx)   
-[Privacy Policy - Restoration Hardware Baby & Child](http://www.rhbabyandchild.com/rhbc/customer-service/privacy-policy.jsp?link=botnav_privacypolicy)   
+[Privacy Policy - Pottery Barn](http://www.potterybarn.com/about-us/privacy-policy.html)   
+[Privacy Policy - Pottery Barn Kids](http://www.potterybarnkids.com/about-us/privacy-policy.html)   
+[Privacy Policy - REI](https://web.archive.org/web/20121005071645id_/http%3A//weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/3)   
+[Privacy Policy - Restoration Hardware](http://www.restorationhardware.com/customer-service/privacy-policy.jsp)   
+[Privacy Policy - Restoration Hardware Baby & Child](http://www.rhbabyandchild.com/customer-service/privacy-policy.jsp)   
+[Privacy Policy - Right Start](http://www.rightstart.com/privacy-policy)  
 [Privacy Policy - Sur La Table](http://reg.weddingchannel.com/track/link.action?r14690&fu=http%3A%2F%2Fwww.surlatable.com%2Fcommon%2FcmpyPrivacy.jsp%3Fref%3Dy%26wcsid%3DWCSID_VAL%26affsrcid%3DAff0004)  
 [Privacy Policy - Target](http://sites.target.com/site/en/spot/page.jsp?title=privacy_policy)   
-[Privacy Policy - Tiffany & Co.](http://weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Tiffany-Co.aspx)   
+[Privacy Policy - Tiffany & Co.](http://www.tiffany.com/Service/policy_vis.aspx)   
 [Privacy Policy - Traveler's Joy](http://www.travelersjoy.com/popup.php?tpl=privacy)   
-[Privacy Policy - Williams-Sonoma](http://weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Williams-Sonoma.aspx)  
-
-
+[Privacy Policy - Williams-Sonoma](http://www.williams-sonoma.com/customer-service/legal-statement.html)  
 We encourage you to read the WeddingChannel.com privacy policy, as well as those of the retailers you register with or purchase from, and of the other companies featured on our website, so you understand what types of personal information are collected and how this information may be used. WeddingChannel.com and the retailers and other companies participating in this website are committed to collecting and using your information only in accordance with their respective privacy policies.  
  **By using this website, you consent to the collection and use of your information as described in these Privacy Policies. Links to up-to-date policies will be posted on this page so you are always aware of the information collected and how it is used.**  
-
-
 As part of our Privacy Policy, we address the following:
 
   * The personal information we collect 
@@ -71,7 +71,7 @@ _Contests and Online Surveys._ WeddingChannel.com and its partners frequently sp
 
 _Cookies._ "Cookies" are small pieces of information stored by your browser on your computer's hard drive. We use cookies in several ways (and thousands of other websites are currently using them too!). Cookie files are used to better understand how you go through our website so we may tailor your experience at our website. Cookies are also used to tell us whether you have visited our website previously, and to help us determine whether you came to our website from a particular Internet link or banner advertisement. Cookies can also be used to help you to save and retrieve passwords and other information and preferences you use on our website, saving you from having to re-enter this information upon every visit to our website. Cookies cannot and will not be used by us to retrieve any personal information about you from your computer that you have not previously and voluntarily provided to us. However, cookies may also be received when you link to our partners' websites or when you view or click on banner advertisements served by our outside advertising company and we do not have control over how they use this information. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. However, most of our features will not function if you do not accept cookies. For more information on cookies, including how to opt-out of ad-serving cookies, see Terms and Conditions of Use. Please note that our "Celebrity Blog" service is hosted by a third-party company, Six-Apart TypePad. When you make use of this service, you are leaving our Web site and will be deemed to have agreed to Six-Apart's Terms of Service and Privacy Policy in effect at the time of such use. We suggest that you read Six Apart's Terms of Service and Privacy Policy before making use of the "Celebrity Blog" feature. You can find the Terms of Service at <http://www.sixapart.com/typepad_terms> and the Privacy Policy at <http://www.sixapart.com/privacy>. WeddingChannel.com, Inc. is not responsible for any personally identifiable information you choose to submit on the "Celebrity Blog."
 
-_Analysis._ We have partnered with a third party, Coremetrics, to assist us in better understanding how people use our site. Coremetrics analyzes the information collected on our website through cookies and returns it to us through a secure web connection. We use the information to help us understand your interests in our website and how to better serve you. We not allow Coremetrics to collect credit card, username or password information.
+ _Analysis._ We have partnered with a third party, Coremetrics, to assist us in better understanding how people use our site. Coremetrics analyzes the information collected on our website through cookies and returns it to us through a secure web connection. We use the information to help us understand your interests in our website and how to better serve you. We not allow Coremetrics to collect credit card, username or password information.
 
 Coremetrics may only use your personal information to perform services for us. It may not share your personal information with anyone else, or use it for any other purpose, except on an aggregate, non-personal basis (in other words, the information will not be identified with you). Coremetrics is required to maintain all of the information it collects and analyzes securely and in confidence. For more information on the Coremetrics privacy policy, [click here](http://www.coremetrics.com/company/privacy.php).
 
