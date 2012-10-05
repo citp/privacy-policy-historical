@@ -1,437 +1,434 @@
-<!--The following is the downloaded HTML source of the ratedapartments.com privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627060936id_/http%3A//www.ratedapartments.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratedapartments.com privacy policy that was archived on 2012-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005053649id_/http%3A//www.ratedapartments.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-				
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-		<title>Privacy Policy - RatedApartments.com</title>
-<meta name="Description" content="Privacy Policy - RatedApartments.com">
-<meta name="Keywords" content="privacy policy, rated apartments">
+  
+    <title>Privacy Policy - RatedApartments.com</title>
+  
 
-		<!-- Common CSS and javascript -->
-		<link href="http://www.ratedapartments.com/css/reset.css" media="screen" rel="stylesheet" type="text/css">
-		<link href="http://www.ratedapartments.com/css/main.css" media="screen" rel="stylesheet" type="text/css">
-		
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.ratedapartments.com/js/jquery.js"></script>
-		<!-- Common CSS and javascript end -->
-		
-		<!-- Top drop down menu -->
-		<link href="http://www.ratedapartments.com/css/menu.css" media="screen" rel="stylesheet" type="text/css">
-		<script type="text/javascript" src="http://www.ratedapartments.com/js/hoverIntent.js"></script>
+  
+    <meta name="description" content="Privacy Policy - RatedApartments.com">
+  
 
+  
+    <meta name="keywords" content="privacy policy, rated apartments">
+  
 
-		<script type="text/javascript">
-			jQuery(function($) {
-			function megaHoverOver(){
-			$(this).find(".sub").stop().fadeTo('fast', 1).show();
-			//Calculate width of all ul's
-			(function($) {
-			jQuery.fn.calcSubWidth = function() {
-			rowWidth = 0;
-			//Calculate row
-			$(this).find("ul").each(function() {
-			rowWidth += $(this).width();
-			});
-			};
-			})(jQuery);
-			if ( $(this).find(".row").length > 0 ) { //If row exists...
-			var biggestRow = 0;
-			//Calculate each row
-			$(this).find(".row").each(function() {
-			$(this).calcSubWidth();
-			//Find biggest row
-			if(rowWidth > biggestRow) {
-			biggestRow = rowWidth;
-			}
-			});
-			//Set width
-			$(this).find(".sub").css({'width' :biggestRow});
-			$(this).find(".row:last").css({'margin':'0'});
-			} else { //If row does not exist...
-			$(this).calcSubWidth();
-			//Set Width
-			//$(this).find(".sub").css({'width' : rowWidth});
-			$(this).find(".sub").css({'width' : auto});
-			}
-			}
-			function megaHoverOut(){
-			$(this).find(".sub").stop().fadeTo('fast', 0, function() {
-			$(this).hide();
-			});
-			}
-			var config = {
-			sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)
-			interval: 100, // number = milliseconds for onMouseOver polling interval
-			over: megaHoverOver, // function = onMouseOver callback (REQUIRED)
-			timeout: 500, // number = milliseconds delay before onMouseOut
-			out: megaHoverOut // function = onMouseOut callback (REQUIRED)
-			};
-			$("#menu li .sub").css({'opacity':'0'});
-			$("#menu li").hoverIntent(config);
-			});
-		</script>
-		<script type="text/javascript">
+  
 
+  <link href="/css/reset.css?1.362054838477774931" media="screen" rel="stylesheet" type="text/css">
+
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+  <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/ui-lightness/jquery-ui.css" rel="stylesheet" type="text/css">
+
+  <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-10454814-1']);
+  _gaq.push(['_setAccount', "UA-10454814-1"]);
   _gaq.push(['_trackPageview']);
 
-  (function() {
+  
+    (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+    })();
+  
 </script>
-		<!-- Top drop down menu end-->
-		
-		<!-- Datepicker -->
-		   <script type="text/javascript" src="http://www.ratedapartments.com/js/jquery.orbit-1.2.3.js"></script>
-		
-			
-			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>			
-			<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet" type="text/css">
-			
-			<script type="text/javascript">
-			jQuery(function($) {
-			
-		
-
-				$('#arrival, #departure, #from_date, #to_date').datepicker({
-					changeMonth: true,
-					changeYear: true,
-					dateFormat: 'dd.mm.yy',
-					minDate: new Date()
-				});
-				
-				$('#arrival').datepicker('option', 'onSelect', function(dateText, inst) {
-					var depDate = $('#arrival').datepicker('getDate');
-					depDate.setDate(depDate.getDate() + 3);
-					$('#departure').datepicker('setDate', depDate);
-				});
-				
-				$('#departure').datepicker('option', 'onSelect', function(dateText, inst) {
-					var arivalDate = $('#arrival').datepicker('getDate');
-					var depDate = $(this).datepicker('getDate');
-
-					var numdays = (depDate - arivalDate)/(24*60*60*1000);
-
-					if(numdays < 3){
-						alert("Mininum stay is three days");
-						depDate.setDate(arivalDate.getDate() + 3);
-						$('#departure').datepicker('setDate',depDate);
-					}
-
-					//depDate.setDate(depDate.getDate() + 3);
-					//$('#departure').datepicker('setDate', depDate);
-				});
-				
-				$('#from_date').datepicker('option', 'onSelect', function(dateText, inst) {
-					var depDate = $('#from_date').datepicker('getDate');
-					depDate.setDate(depDate.getDate() + 1);
-					$('#to_date').datepicker('setDate', depDate);
-				});
-				
-				$('#startdate, #enddate').datepicker({
-					changeMonth: true,
-					changeYear: true,
-					dateFormat: 'yy-mm-dd'
-				});
-				$(".button, .search").button();
-			});
-			</script>
-			
-		<!-- Datepicker end -->	
-		
-		
-	</head>
-
-	<body>
-		<div id="wrapper">
-			<ul id="top_nav">
-				<li>&nbsp;&nbsp;<!--<a href="http://www.ratedapartments.com/#" class="list_btn">List your space</a>--></li>
-				<!--<li class="lang">
-					<img src="http://www.ratedapartments.com/images/english.gif" class="eng_flag" alt="" />$USD<img src="http://www.ratedapartments.com/images/down_arrow.gif"  class="dn_arrow" alt="" />
-				</li>-->
-				<li><a href="http://www.ratedapartments.com/owner">Login</a> </li>
-				<li><a href="http://www.ratedapartments.com/user/adduser">Sign Up</a>|</li>
-				<li><a href="http://www.ratedapartments.com/Blog/" target="_blank">Blog</a>|</li>
-				<li><a href="http://www.ratedapartments.com/about_ratedapartments.html">About Us</a>|</li>
-				<li><a href="http://www.ratedapartments.com/">Home</a>|</li>
-			</ul>
-			<div class="clr"></div>
-			<div>
-				<div id="logo">
-					<a href="http://www.ratedapartments.com/"><img src="http://www.ratedapartments.com/images/logo.gif" alt="Holiday Apartments - Holiday Home Rentals"></a>
-				</div>
-				<div class="orange alignright tel_no"><span>CALL NOW</span>US: (+1) 646-915-0429  / UK: (+44) 203-051-6815</div>
-				<div id="menu">
-					<ul>
-						<li>
-							<a href="#" class="destination">DESTINATIONS</a>
-							<div class="sub">
-							 <img src="http://www.ratedapartments.com/images/menu_top.png" alt="" class="postn">
-								<div class="sub_mid">
-									<ul class="first">
-										<li><span class="region">Europe</span></li><br>
-										<li><span class="country">United Kingdom</span></li>
-										<li><a href="http://www.ratedapartments.com/london/all-short-term-lets.html">London</a></li>
-										<li><a href="http://www.ratedapartments.com/manchester/all-short-term-lets.html">Manchester</a></li>
-										<li><a href="http://www.ratedapartments.com/coventry/all-short-term-lets.html">Coventry</a></li>
-										<li><a href="http://www.ratedapartments.com/birmingham/all-short-term-lets.html">Birmingham</a></li>
-										<li><a href="http://www.ratedapartments.com/warwick/all-short-term-lets.html">Warwick</a></li>
-										<li><a href="http://www.ratedapartments.com/brighton/all-short-term-lets.html">Brighton</a></li>
-										<li><a href="http://www.ratedapartments.com/leicester/all-short-term-lets.html">Leicester</a></li>
-										<li><a href="http://www.ratedapartments.com/windsor/all-short-term-lets.html">Windsor</a></li>
-										<li><a href="http://www.ratedapartments.com/reading/all-short-term-lets.html">Reading</a></li>
-										<li><a href="http://www.ratedapartments.com/edinburgh/all-short-term-lets.html">Edinburgh</a></li>
-										<li><a href="http://www.ratedapartments.com/slough/all-short-term-lets.html">Slough</a></li>
-										<li><a href="http://www.ratedapartments.com/wolverhampton/all-short-term-lets.html">Wolverhampton</a></li>
-										<li><span class="country">France</span></li>
-										<li><a href="http://www.ratedapartments.com/paris/all-short-term-lets.html">Paris</a></li>
-										<li><a href="http://www.ratedapartments.com/cote-dazur/all-short-term-lets.html">Cote d'Azur</a></li>
-									</ul>
-									<ul class="firstb">
-										<li><span class="country">Germany</span></li>
-										<li><a href="http://www.ratedapartments.com/berlin/all-short-term-lets.html">Berlin</a></li>
-										<li><a href="http://www.ratedapartments.com/munich/all-short-term-lets.html">Munich</a></li>
-										<li><span class="country">Ireland</span></li>
-										<li><a href="http://www.ratedapartments.com/dublin/all-short-term-lets.html">Dublin</a></li>
-										<li><span class="country">Netherlands</span></li>
-										<li><a href="http://www.ratedapartments.com/amsterdam/all-short-term-lets.html">Amsterdam</a></li>
-										<li><span class="country">Spain</span></li>
-										<li><a href="http://www.ratedapartments.com/barcelona/all-short-term-lets.html">Barcelona</a></li>
-										<li><a href="http://www.ratedapartments.com/andalucia/all-short-term-lets.html">Andalucia</a></li>
-										<li><span class="country">Switzerland</span></li>
-										<li><a href="http://www.ratedapartments.com/verbier/all-short-term-lets.html">Verbier</a></li>
-										<li><a href="http://www.ratedapartments.com/interlaken/all-short-term-lets.html">Interlaken</a></li>
-										<li><span class="country">Italy</span></li>
-										<li><a href="http://www.ratedapartments.com/rome/all-short-term-lets.html">Rome</a></li>
-									</ul>
-									<ul class="second">
-										<li><span class="region">North America</span></li><br>
-										<li><span class="country">United States</span></li>
-										<li><a href="http://www.ratedapartments.com/new-york/all-short-term-lets.html">New York</a></li>
-										<li><span class="region">Asia</span></li><br>
-										<li><span class="country">India</span></li>
-										<li><a href="http://www.ratedapartments.com/delhi-ncr/all-short-term-lets.html">Delhi NCR</a></li>
-										<li><a href="http://www.ratedapartments.com/goa/all-short-term-lets.html">Goa</a></li>
-										<li><a href="http://www.ratedapartments.com/bangalore/all-short-term-lets.html">Bangalore</a></li>
-										<li><a href="http://www.ratedapartments.com/kerala/all-short-term-lets.html">Kerala</a></li>
-										<li><span class="country">United Arab Emirates</span></li>
-										<li><a href="http://www.ratedapartments.com/dubai/all-short-term-lets.html">Dubai</a></li>
-										<li><span class="country">Singapore</span></li>
-										<li><a href="http://www.ratedapartments.com/singapore/all-short-term-lets.html">Singapore</a></li>
-										<li><span class="country">Hong Kong</span></li>
-										<li><a href="http://www.ratedapartments.com/hong-kong/all-short-term-lets.html">Hong Kong</a></li>
-									</ul>
-									<ul class="third">
-										<li><span class="region">Oceania</span></li><br>
-										<li><span class="country">Australia</span></li>
-										<li><a href="http://www.ratedapartments.com/cairns/all-short-term-lets.html">Cairns</a></li>
-										<li><a href="http://www.ratedapartments.com/brisbane/all-short-term-lets.html">Brisbane</a></li>
-										<li><a href="http://www.ratedapartments.com/sydney/all-short-term-lets.html">Sydney</a></li>
-										<li><a href="http://www.ratedapartments.com/sunshine-coast/all-short-term-lets.html">Sunshine Coast</a></li>
-										<li><a href="http://www.ratedapartments.com/adelaide/all-short-term-lets.html">Adelaide</a></li>
-										<li><a href="http://www.ratedapartments.com/gold-coast/all-short-term-lets.html">Gold Coast</a></li>
-										<li><span class="country">New Zealand</span></li>
-										<li><a href="http://www.ratedapartments.com/auckland-nz/all-short-term-lets.html">Auckland NZ</a></li>
-									</ul>
-									<div class="clr"></div>
-								</div>
-								
-							</div>
-						</li>
-						<li><a href="http://www.ratedapartments.com/" class="special_offers">SPECIAL OFFERS</a>
-						
-						<div class="sub" id="dest">
-                              <img src="http://www.ratedapartments.com/images/menu_top.png" alt="" class="postn">
-								<div class="sub_mid">
-									<ul class="special">
-										<li><span class="country">United Kingdom</span></li>
-										<li><a href="http://www.ratedapartments.com/specialoffers/london/all-short-term-lets.html">London Special Offers</a></li>	
-										<li><span class="country">France</span></li>
-										<li><a href="http://www.ratedapartments.com/specialoffers/paris/all-short-term-lets.html">Paris Special Offers</a></li>	
-										<li><span class="country">Singapore</span></li>
-										<li><a href="http://www.ratedapartments.com/specialoffers/singapore/all-short-term-lets.html">Singapore Special Offers</a></li>
-										<li><span class="country">India</span></li>
-										<li><a href="http://www.ratedapartments.com/specialoffers/delhi-ncr/all-short-term-lets.html">Delhi Special Offers</a></li>										
-										<li><a href="http://www.ratedapartments.com/specialoffers/goa/all-short-term-lets.html">Goa Special Offers</a></li>
-										<li><span class="country">Switzerland</span></li>
-										<li><a href="http://www.ratedapartments.com/specialoffers/verbier/all-short-term-lets.html">Verbier Special Offers</a></li>	
-									</ul>
-									<div class="clr"></div>
-								</div>
-							
-							</div>
-						
-						</li>
-						<li><a href="http://www.ratedapartments.com/Blog/" target="_blank">RATED BLOG</a></li>
-						<li><a href="http://www.ratedapartments.com/owner">OWNERS</a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="clr"></div>
-			<div class="logo_txt">Rent nightly in dozens of cities from top rated hosts</div>
-			
-	<script type="text/javascript">
-		function submitfrm(){			
-			if(document.search.city.value == ''){
-				alert('Please Select a City');
-				document.search.city.focus();
-				return false;
-			}else{
-				var city = document.search.city.value;	
-			}			
-			
-			var propType = document.getElementById('propertyType').value;
-			if(propType ==''){
-				urlStr = 'all-short-term-lets';
-			}else{
-				arrsString = propType.split(" ");
-				urlStr = arrsString.join('-');
-			}
-			 
-			actnStr = "http://www.ratedapartments.com/"+city.toLowerCase()+'-city/'+urlStr+'.html';
-			document.search.action = actnStr;	
-			return true;
-		}
-
-	</script>
-<form name="search" method="post" action="proplist" onsubmit="return submitfrm();">
-
-<!-- Main content -->
-			<div id="main_content">
-				<p class="breadcrumb"><a href="/">Holiday Rentals Home</a> &gt;&gt; <span class="selected">Privacy Policy</span></p>
-				<div id="content_left">
-					<img src="http://www.ratedapartments.com/images/modify_search.gif" alt="">
-					<div class="blue_bg">
-						<!--input type="text" value="Enter your destination....." class="destination" name="destination" />-->
-						<select class="dest-drop" name="city" id="city">
-						<option selected="selected" value="">Select Destination</option>
-						 <option value="Adelaide">Adelaide</option><option value="amsterdam">amsterdam</option><option value="Andalucia">Andalucia</option><option value="Auckland Nz">Auckland Nz</option><option value="Bangalore">Bangalore</option><option value="Barcelona">Barcelona</option><option value="Berlin">Berlin</option><option value="Birmingham">Birmingham</option><option value="Brighton">Brighton</option><option value="Brisbane">Brisbane</option><option value="Cairns">Cairns</option><option value="Cardiff">Cardiff</option><option value="Cote Dazur">Cote Dazur</option><option value="Coventry">Coventry</option><option value="Delhi ncr">Delhi ncr</option><option value="Delhi/NCR">Delhi/NCR</option><option value="Dubai">Dubai</option><option value="Dublin">Dublin</option><option value="Edinburgh">Edinburgh</option><option value="Goa">Goa</option><option value="Gold Coast">Gold Coast</option><option value="Hong Kong">Hong Kong</option><option value="Interlaken">Interlaken</option><option value="Kerala">Kerala</option><option value="Leicester">Leicester</option><option value="London">London</option><option value="Manchester">Manchester</option><option value="Munich">Munich</option><option value="New York">New York</option><option value="Paris">Paris</option><option value="Reading">Reading</option><option value="Rome">Rome</option><option value="Singapore">Singapore</option><option value="Slough">Slough</option><option value="Sunshine Coast">Sunshine Coast</option><option value="Sydney">Sydney</option><option value="Verbier">Verbier</option><option value="Warwick">Warwick</option><option value="Windsor">Windsor</option><option value="Wolverhampton">Wolverhampton</option>					</select>
-						<p>Optional :</p>
-						<div id="optional_inner">
-							<input name="arrival" id="arrival" type="text" class="chkin_out one" value="Check In">
-						    <input name="departure" id="departure" type="text" class="chkin_out nomargin one" value="Check Out">
-							<select class="drop" name="propertyType" id="propertyType">
-								<option selected="selected" value="">Accomodation</option>
-							    <option value="all short term lets">All</option>
-							    <option value="holiday apartments">Holiday Apartments</option>
-							    <option value="serviced apartments">Serviced Apartments</option>
-							    <option value="holiday rentals">Holiday Rentals</option>
-							</select>
-							<select class="no_guest" name="guest">
-								  <option>No. of Guest(s)</option>
-								  <option label="1" value="1">1</option>
-								  <option label="2" value="2">2</option>
-								  <option label="3" value="3">3</option>
-								  <option label="4" value="4">4</option>
-								  <option label="5" value="5">5</option>
-								  <option label="6" value="6">6</option>
-								  <option label="7" value="7">7</option>
-								  <option label="8" value="8">8</option>
-								  <option label="9" value="9">9</option>
-								  <option label="10" value="10">10</option>
-								  <option label="11" value="11">11</option>
-								  <option label="12" value="12">12</option>
-							</select>
-							<div class="aligncenter">
-								<input type="image" id="search_now" onmouseout="this.src='http://www.ratedapartments.com/images/search_now.png'" onmouseover="this.src='http://www.ratedapartments.com/images/search_now_o.png'" src="http://www.ratedapartments.com/images/search_now.png">
-							</div>
-						</div>
-					</div>				
-				</div>
-				<div id="content_right">
-					<h1>Privacy Policy</h1>
-
-								--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-								<br>
-								<p class="paratext">
-								<b>Rated Interactive Media</b> and its associated websites is strongly committed to your right to privacy and to keeping your personal and financial information secure. The Personal Information that <b>RatedApartments.com</b> collects from you shall be obtained, processed and transmitted in compliance with applicable data protection legislation. We take full responsibility for ensuring that proper security measures are in place to protect your information and store the information in secure databases at secure addresses to prevent unauthorized access. <b>Rated Apartments</b> reserves the right to update information published on the site at any time including (but not exclusive to): rates, descriptions and photographs. <b>Rated Apartments</b> does not guarantee condition or suitability of any product or service as advertised on its website.
-								</p>
-								<br>	
-								--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-								<br>		
-								<p class="paratext">
-								Information collected by <b>RatedApartments.com</b> and how it is used: <b> RatedApartments.com </b>  only collects the necessary personally identifiable information in order to respond to your requests for our customized products and services. Personally identifiable information includes, but is not limited to, first and last name, physical address, e-mail address, phone number, birth date, and any other information that itself identifies or when tied to the above information, may identify you as a specific individual. This website does not collect personally identifiable information about you except when you specifically and knowingly provide it. <b> RatedApartments.com </b>  and its service partners use your personally identifiable information to operate the sites and services and to inform you of new features, services, and products from <b> RatedApartments.com </b>  and its affiliates.
-								</p>
-								<br>
-
-								--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-								<br>
-
-								<p class="paratext">
-								<b>RatedApartments.com</b> may also carefully select other companies to send you information about their products or services which are related to the site's service but are not necessary to its operation (an "Extended Service"). If <b>RatedApartments.com</b> intends to use personally identifiable information for an Extended Service, the <b>RatedApartments.com</b> site will provide you with the ability and requisite instructions to decline this service. You may also stop the delivery of informational or promotional mail from <b>RatedApartments.com</b> by following the instructions on the mail.
-
-								</p> 
-								<br>
-								--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-								<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 
 
-				</div>
-				<div class="clr"></div>
-			</div>
-			<!-- Main content end -->
-			
-			<div class="clr"></div>
-		</form></div>
+  <link href="/css/facebox.css?1.362054838477774931" media="screen" rel="stylesheet" type="text/css">
+  <script src="/js/facebox.js?1.362054838477774931" type="text/javascript"></script>
 
-		
-		
-		<div id="about">
-			<div id="long_desc">
-				<div id="about_txt">
-                					 <a href="http://www.ratedapartments.com/london/holiday-apartments.html">London Holiday Apartments</a>
-                 <a href="http://www.ratedapartments.com/london/serviced-apartments.html">London Serviced Apartments</a>
-                 <a href="http://www.ratedapartments.com/london/holiday-rentals.html">London Holiday Rentals</a>
-				                                 <a href="http://www.ratedapartments.com/london/london-short-stay-apartments.html">Short Stay London</a>
-                <a href="http://www.ratedapartments.com/london/cheap-apartments-london.html">Cheap Apartment London</a>
-                <a href="http://www.ratedapartments.com/london/holiday-homes-london.html">London Holiday Homes</a>
-                <a href="http://www.ratedapartments.com/london/london-short-lets.html">London Short Lets</a>
-                <a href="http://www.ratedapartments.com/london/serviced-apartments-canary-wharf.html">Serviced Apartments Canary Wharf</a>
-                <a href="http://www.ratedapartments.com/london/vacation-rentals-london.html">London Vacation Rentals</a>  <a href="http://www.ratedapartments.com/london/london-holiday-flats.html">London Holiday Flats</a> <a href="http://www.ratedapartments.com/london/london-short-term.html">London Short Term</a> <a href="http://www.ratedapartments.com/london/serviced-apartments-central-london.html">Serviced Apartments Central London</a>  <a href="http://www.ratedapartments.com/london/camden-serviced-apartments.html">Camden Serviced Apartments</a> <a href="http://www.ratedapartments.com/london/london-olympics-accommodation.html">London Olympics Accommodation</a>
-				                                                    				</div>
-				<div id="social">
-					<ul>
-						<li><a href="http://www.ratedapartments.com/about_ratedapartments.html" rel="NOFOLLOW">About RatedApartments.com</a></li>
-						<li><a href="http://www.ratedapartments.com/customer_support.html" rel="NOFOLLOW"> Customer Support</a></li>
-						<li><a href="http://www.ratedapartments.com/links.html"> Links</a></li>
-						<li><a href="http://www.ratedapartments.com/press-release/">Press Release</a></li>
-						<li><a href="http://www.ratedapartments.com/about-vacation-rentals/">About Vacation Rentals</a></li>
-						<li><a href="http://www.ratedapartments.com/sitemap.xml">Sitemap</a></li>
-						<li><a href="http://www.ratedapartments.com/Blog/">Rated Blog</a></li>
-					</ul>
-					<ul>
-						<li><a href="http://www.ratedapartments.com/specialoffers/london/all-short-term-lets.html">London Special Offers</a></li>
-						<li><a href="http://www.ratedapartments.com/specialoffers/paris/all-short-term-lets.html">Paris Special Offers</a></li>
-						<li><a href="http://www.ratedapartments.com/owner" rel="NOFOLLOW">Owner Login</a></li>
-						<li><a href="http://www.ratedapartments.com/online_prepayment.html">Online Prepayment</a></li>
-						<li><a href="http://www.ratedapartments.com/careers.html" rel="NOFOLLOW">Careers</a></li>
-						<li><a href="http://www.ratedapartments.com/contact.html" rel="NOFOLLOW">Contact Us</a></li>
-						<li><a href="http://www.ratedapartments.com/booking.html" rel="NOFOLLOW">How to Book</a></li>
-					</ul>
-					<ul>
-						<li><a href="http://www.facebook.com/pages/RatedApartmentscom/146117964340" class="facebook">facebook</a></li>
-						<li><a href="http://twitter.com/#!/ratedapartments" class="twitter">Twitter</a></li>
-					</ul>
-				</div>
-				<div class="clr"></div>
-			</div>
-			<div id="copyright">
-				<div id="main_txt">
-					<p>
-						©2009 - 2012 All rights reserved. Rated Interactive Media Limited. Registered in the UK and Wales (No. 06910654)
-						<span><a href="http://www.ratedapartments.com/terms.html" target="_blank" rel="NOFOLLOW">Terms and Conditions</a> and <a href="http://www.ratedapartments.com/privacy.html" target="_blank" rel="NOFOLLOW">Privacy Policy</a></span>
-					</p>
-				</div>
-			</div>
-		</div>
+  <script type="text/javascript" src="/script/base.js"></script>
 
-		
+  
+  <link href="/css/main.css?1.362054838477774931" media="screen" rel="stylesheet" type="text/css">
 
-	
-	
-	   
+  <!-- Top drop down menu -->
+  <link href="/css/menu.css?1.362054838477774931" media="screen" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="/js/hoverIntent.js?1.362054838477774931"></script>
+
+  <script type="text/javascript" src="/script/main.js"></script>
+  <!-- Top drop down menu end-->
+
+</head>
+
+<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+
+
+  <div id="wrapper">
+    
+  
+    <a href="/property/userloginsignup" class="listyourspace" rel="facebox">List Your Space</a>
+  
+
+  
+    <div id="ml-mc" onclick="javascript:toggle();" style="width:32px">
+      
+
+      <span class="currency-ico">
+        
+          <img src="/images/gbp-ico.png">
+        
+      </span>
+    </div>
+  
+
+  
+    <div style="position:relative">
+      <div id="ml-mc-shw-hide" style="display:none;right:0">
+        <img src="/images/up-arow.png" width="114" height="24">
+
+        <div id="ml-mc-list">
+          
+
+          <span>Choose Currency</span>
+
+          <ul>
+            <li>
+              <a href="/currency/GBP?next=%2Fprivacy.html" rel="nofollow">
+                GBP <img src="/images/gbp-ico.png">
+              </a>
+            </li>
+
+            <li>
+              <a href="/currency/EUR?next=%2Fprivacy.html" rel="nofollow">
+                EUR <img src="/images/euro-ico.png">
+              </a>
+            </li>
+
+            <li>
+              <a href="/currency/USD?next=%2Fprivacy.html" rel="nofollow">
+                USD <img src="/images/dollar-ico.png">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  
+
+  <ul id="top_nav">
+    <li><a href="/">Home</a>|</li> 
+    <li><a href="/owner">Login</a>|</li>
+    <li><a href="/about_ratedapartments.html">About Us</a>|</li> 
+    <li><a href="http://blog.ratedapartments.com/" target="_blank">Blog</a>|</li> 
+    <li><a href="/user/adduser">Sign Up</a></li>                             
+  </ul>
+
+  <div class="clr"></div>
+
+  <div>
+    <div id="logo">
+      <a href="/"><img src="/images/logo.gif" alt="Holiday Apartments - Serviced Apartments"></a>
+    </div>
+
+    <div class="orange alignright tel_no"><span>CALL NOW</span>US: (+1) 646-915-0429 / UK: (+44) 203-051-6815</div>
+
+    
+
+    
+      <div id="menu">
+        <ul>
+          <li>
+            <a href="#" class="destination">DESTINATIONS</a>
+
+            <div class="sub">
+              <img src="/images/menu_top.png" alt="" class="postn">
+
+              <div class="sub_mid">
+                <ul class="first">
+                  <li><span class="region">Europe</span></li><br>
+
+                  <li><span class="country">United Kingdom</span></li>
+                  <li><a href="/london/all-short-term-lets.html">London</a></li>
+                  <li><a href="/manchester/all-short-term-lets.html">Manchester</a></li>
+                  <li><a href="/coventry/all-short-term-lets.html">Coventry</a></li>
+                  <li><a href="/birmingham/all-short-term-lets.html">Birmingham</a></li>
+                  <li><a href="/warwick/all-short-term-lets.html">Warwick</a></li>
+                  <li><a href="/brighton/all-short-term-lets.html">Brighton</a></li>
+                  <li><a href="/leicester/all-short-term-lets.html">Leicester</a></li>
+                  <li><a href="/windsor/all-short-term-lets.html">Windsor</a></li>
+                  <li><a href="/reading/all-short-term-lets.html">Reading</a></li>
+                  <li><a href="/edinburgh/all-short-term-lets.html">Edinburgh</a></li>
+                  <li><a href="/slough/all-short-term-lets.html">Slough</a></li>
+                  <li><a href="/wolverhampton/all-short-term-lets.html">Wolverhampton</a></li>
+
+                  <li><span class="country">France</span></li>
+                  <li><a href="/paris/all-short-term-lets.html">Paris</a></li>
+                  <li><a href="/cote-dazur/all-short-term-lets.html">Cote d'Azur</a></li>
+                </ul>
+
+                <ul class="firstb">
+                  <li><span class="country">Germany</span></li>
+                  <li><a href="/berlin/all-short-term-lets.html">Berlin</a></li>
+                  <li><a href="/munich/all-short-term-lets.html">Munich</a></li>
+
+                  <li><span class="country">Ireland</span></li>
+                  <li><a href="/dublin/all-short-term-lets.html">Dublin</a></li>
+
+                  <li><span class="country">Netherlands</span></li>
+                  <li><a href="/amsterdam/all-short-term-lets.html">Amsterdam</a></li>
+
+                  <li><span class="country">Spain</span></li>
+                  <li><a href="/barcelona/all-short-term-lets.html">Barcelona</a></li>
+                  <li><a href="/andalucia/all-short-term-lets.html">Andalucia</a></li>
+
+                  <li><span class="country">Switzerland</span></li>
+                  <li><a href="/verbier/all-short-term-lets.html">Verbier</a></li>
+                  <li><a href="/interlaken/all-short-term-lets.html">Interlaken</a></li>
+
+                  <li><span class="country">Italy</span></li>
+                  <li><a href="/rome/all-short-term-lets.html">Rome</a></li>
+                </ul>
+
+                <ul class="second">
+                  <li><span class="region">North America</span></li><br>
+
+                  <li><span class="country">United States</span></li>
+                  <li><a href="/new-york/all-short-term-lets.html">New York</a></li>
+
+                  <li><span class="region">Asia</span></li><br>
+
+                  <li><span class="country">India</span></li>
+                  <li><a href="/delhi-ncr/all-short-term-lets.html">Delhi NCR</a></li>
+                  <li><a href="/goa/all-short-term-lets.html">Goa</a></li>
+                  <li><a href="/bangalore/all-short-term-lets.html">Bangalore</a></li>
+                  <li><a href="/kerala/all-short-term-lets.html">Kerala</a></li>
+                  <li><a href="/gurgaon/all-short-term-lets.html">Gurgaon</a></li>
+
+                  <li><span class="country">United Arab Emirates</span></li>
+                  <li><a href="/dubai/all-short-term-lets.html">Dubai</a></li>
+
+                  <li><span class="country">Singapore</span></li>
+                  <li><a href="/singapore/all-short-term-lets.html">Singapore</a></li>
+
+                  <li><span class="country">Hong Kong</span></li>
+                  <li><a href="/hong-kong/all-short-term-lets.html">Hong Kong</a></li>
+                </ul>
+
+                <ul class="third">
+                  <li><span class="region">Oceania</span></li><br>
+
+                  <li><span class="country">Australia</span></li>
+                  <li><a href="/cairns/all-short-term-lets.html">Cairns</a></li>
+                  <li><a href="/brisbane/all-short-term-lets.html">Brisbane</a></li>
+                  <li><a href="/sydney/all-short-term-lets.html">Sydney</a></li>
+                  <li><a href="/sunshine-coast/all-short-term-lets.html">Sunshine Coast</a></li>
+                  <li><a href="/adelaide/all-short-term-lets.html">Adelaide</a></li>
+                  <li><a href="/gold-coast/all-short-term-lets.html">Gold Coast</a></li>
+
+                  <li><span class="country">New Zealand</span></li>
+                  <li><a href="/auckland-nz/all-short-term-lets.html">Auckland NZ</a></li>
+                </ul>
+
+                <div class="clr"></div>
+              </div>
+            </div>
+          </li>
+          <li>
+            <a href="/" class="special_offers">SPECIAL OFFERS</a>
+
+            <div class="sub" id="dest">
+              <img src="/images/menu_top.png" alt="" class="postn">
+
+              <div class="sub_mid">
+                <ul class="special">
+                  <li><span class="country">United Kingdom</span></li>
+                  <li><a href="/london/all-short-term-lets.html">London Special Offers</a></li>
+
+                  <li><span class="country">France</span></li>
+                  <li><a href="/paris/all-short-term-lets.html">Paris Special Offers</a></li>
+
+                  <li><span class="country">Singapore</span></li>
+                  <li><a href="/singapore/all-short-term-lets.html">Singapore Special Offers</a></li>
+
+                  <li><span class="country">India</span></li>
+                  <li><a href="/delhi-ncr/all-short-term-lets.html">Delhi Special Offers</a></li>
+                  <li><a href="/goa/all-short-term-lets.html">Goa Special Offers</a></li>
+
+                  <li><span class="country">Switzerland</span></li>
+                  <li><a href="/verbier/all-short-term-lets.html">Verbier Special Offers</a></li>
+                </ul>
+
+                <div class="clr"></div>
+              </div>
+            </div>
+          </li>
+
+          <li><a href="http://blog.ratedapartments.com" target="_blank">RATED BLOG</a></li>
+          <li><a href="/owner">OWNERS</a></li>
+        </ul>
+      </div>
+    
+  </div>
+
+  <div class="clr"></div>
+
+  
+    <div class="logo_txt">
+      
+        Rent nightly in dozens of cities from top rated hosts
+      
+    </div>
+  
+
+
+    
+  <div id="main_content">
+    <p class="breadcrumb">
+      
+ <a href="/">Holiday Rentals Home</a> &gt;&gt; <span class="selected">Privacy Policy</span>
+
+    </p>
+
+    <div id="content_left">
+      <form name="search" id="search" method="post" action="/proplist/search" onsubmit="return submitfrm();">
+        
+  <img src="/images/modify_search.gif" alt="">
+
+  <div class="blue_bg">
+    <!--input name="" type="text" class="destination" value="Enter your destination....." />-->
+
+    <select class="dest-drop" id="city" name="city"><option selected="selected" value="">Select Destination</option><option value="adelaide">Adelaide</option><option value="amsterdam">Amsterdam</option><option value="andalucia">Andalucia</option><option value="auckland-nz">Auckland Nz</option><option value="bangalore">Bangalore</option><option value="barcelona">Barcelona</option><option value="berlin">Berlin</option><option value="birmingham">Birmingham</option><option value="brighton">Brighton</option><option value="brisbane">Brisbane</option><option value="cairns">Cairns</option><option value="cardiff">Cardiff</option><option value="cote-dazur">Cote Dazur</option><option value="coventry">Coventry</option><option value="delhi-ncr">Delhi/NCR</option><option value="dubai">Dubai</option><option value="dublin">Dublin</option><option value="edinburgh">Edinburgh</option><option value="goa">Goa</option><option value="gold-coast">Gold Coast</option><option value="gurgaon">Gurgaon</option><option value="hong-kong">Hong Kong</option><option value="interlaken">Interlaken</option><option value="kerala">Kerala</option><option value="leicester">Leicester</option><option value="london">London</option><option value="manchester">Manchester</option><option value="munich">Munich</option><option value="new-york">New York</option><option value="paris">Paris</option><option value="reading">Reading</option><option value="rome">Rome</option><option value="singapore">Singapore</option><option value="slough">Slough</option><option value="sunshine-coast">Sunshine Coast</option><option value="sydney">Sydney</option><option value="verbier">Verbier</option><option value="warwick">Warwick</option><option value="windsor">Windsor</option><option value="wolverhampton">Wolverhampton</option></select>
+
+    <p>Optional :</p>
+    <div id="optional_inner">
+      <input class="chkin_out one" id="arrival" name="arrival" type="text" value="">
+      <input class="chkin_out nomargin one" id="departure" name="departure" type="text" value="">
+
+      <select class="drop" id="propertyType" name="propertyType"><option selected="selected" value="">Accomodation</option><option value="all-short-term-lets">All</option><option value="holiday-apartments">Holiday Apartments</option><option value="serviced-apartments">Serviced Apartments</option><option value="holiday-rentals">Holiday Rentals</option></select>
+
+      <select class="no_guest" id="guest" name="guest"><option selected="selected" value="">No. of Guest</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select>
+
+      <div class="aligncenter">
+        <input type="image" id="search_now" onmouseout="this.src='/images/search_now.png'" onmouseover="this.src='/images/search_now_o.png'" src="/images/search_now.png">
+      </div>
+    </div>
+  </div>
+
+      </form>
+    </div>
+
+    <div id="content_right">
+      
+  <h1>Privacy Policy</h1>
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <br>
+
+  <p class="paratext">
+    <b>Rated Interactive Media</b> and its associated websites is strongly committed to your right to privacy and to keeping your personal and financial information secure. The Personal Information that <b>RatedApartments.com</b> collects from you shall be obtained, processed and transmitted in compliance with applicable data protection legislation. We take full responsibility for ensuring that proper security measures are in place to protect your information and store the information in secure databases at secure addresses to prevent unauthorized access. <b>Rated Apartments</b> reserves the right to update information published on the site at any time including (but not exclusive to): rates, descriptions and photographs. <b>Rated Apartments</b> does not guarantee condition or suitability of any product or service as advertised on its website.
+  </p>
+
+  <br>
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <br>		
+
+  <p class="paratext">
+    Information collected by <b>RatedApartments.com</b> and how it is used: <b> RatedApartments.com </b>  only collects the necessary personally identifiable information in order to respond to your requests for our customized products and services. Personally identifiable information includes, but is not limited to, first and last name, physical address, e-mail address, phone number, birth date, and any other information that itself identifies or when tied to the above information, may identify you as a specific individual. This website does not collect personally identifiable information about you except when you specifically and knowingly provide it. <b> RatedApartments.com </b>  and its service partners use your personally identifiable information to operate the sites and services and to inform you of new features, services, and products from <b> RatedApartments.com </b>  and its affiliates.
+  </p>
+
+  <br>
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <br>
+
+  <p class="paratext">
+    <b>RatedApartments.com</b> may also carefully select other companies to send you information about their products or services which are related to the site's service but are not necessary to its operation (an "Extended Service"). If <b>RatedApartments.com</b> intends to use personally identifiable information for an Extended Service, the <b>RatedApartments.com</b> site will provide you with the ability and requisite instructions to decline this service. You may also stop the delivery of informational or promotional mail from <b>RatedApartments.com</b> by following the instructions on the mail.
+  </p>
+
+  <br>
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+    </div>
+
+    <div class="clr"></div>
+  </div>
+
+
+    
+      <p style="font-size:12px;color:#aaa;margin:20px auto;width:700px;">
+        Privacy Policy - RatedApartments.com
+      </p>
+    
+  </div>
+
+  <div id="about">
+  <div id="long_desc">
+    <div class="about_txt">
+      
+        <a href="/london/holiday-apartments.html">London Holiday Apartments</a>
+        <a href="/london/holiday-rentals.html">London Holiday Rentals</a>
+        <a href="/london/cheap-apartments-london.html">Cheap Apartment London</a>
+        <a href="/london/all-short-term-lets.html">London Short Lets</a>
+        <a href="/london/vacation-rentals-london.html">London Vacation Rentals</a>
+        <a href="/london/all-short-term-lets.html">London Short Term</a>
+        <a href="/london/camden-serviced-apartments.html">Camden Serviced Apartments</a>
+      
+    </div>
+
+    <div class="about_txt">
+      
+        <a href="/london/serviced-apartments.html">London Serviced Apartments</a>
+        <a href="/london/london-short-stay-apartments.html">Short Stay London</a>
+        <a href="/london/holiday-homes-london.html">London Holiday Homes</a>
+        <a href="/london/serviced-apartments-canary-wharf.html">Serviced Apartments Canary Wharf</a>
+        <a href="/london/london-holiday-flats.html">London Holiday Flats</a>
+        <a href="/london/serviced-apartments-central-london.html">Serviced Apartments Central London</a>
+        <a href="/london/london-olympics-accommodation.html">London Olympics Accommodation</a>
+      
+    </div>
+
+    <div id="social">
+      <ul>
+        <li><a href="/about_ratedapartments.html" rel="NOFOLLOW">About RatedApartments.com</a></li>
+        <li><a href="/customer_support.html" rel="NOFOLLOW"> Customer Support</a></li>
+        <li><a href="/press-release/">Press Release</a></li>
+        <li><a href="/about-vacation-rentals/">About Vacation Rentals</a></li>
+        <li><a href="/sitemap.xml">Sitemap</a></li>
+        <li><a href="/sitemap.html">HTML Sitemap</a></li>
+      </ul>
+
+      <ul>
+        <li><a href="/special-offers.html">Special Offers</a></li>
+        <li><a href="/owner" rel="NOFOLLOW">Owner Login</a></li>
+        <li><a href="http://blog.ratedapartments.com" target="_blank">Rated Blog</a></li>
+        <li><a href="/online_prepayment.html">Online Prepayment</a></li>
+        <li><a href="/careers.html" rel="NOFOLLOW">Careers</a></li>
+        <li><a href="/contact.html" rel="NOFOLLOW">Contact Us</a></li>
+        <li><a href="/booking.html" rel="NOFOLLOW">How to Book</a></li>
+      </ul>
+
+      <ul>
+        <li><a href="http://www.facebook.com/pages/RatedApartmentscom/146117964340" class="facebook">facebook</a></li>
+        <li><a href="http://twitter.com/#!/ratedapartments" class="twitter">Twitter</a></li>
+      </ul>
+    </div>
+    <div class="clr"></div>
+  </div>
+
+  <div id="copyright">
+  <div id="main_txt">
+    <p>
+      ©2009 - 2012 All rights reserved. Rated Interactive Media Limited. Registered in the UK and Wales (No. 06910654)
+      <span><a href="/terms.html" target="_blank" rel="NOFOLLOW">Terms and Conditions</a> and <a href="/privacy.html" target="_blank" rel="NOFOLLOW">Privacy Policy</a></span>
+    </p>
+  </div>
+</div>
+</div>
+
+  
+<!-- begin olark code --><script data-cfasync="false" type="text/javascript">/*{literal}<![CDATA[*/
+window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify("5490-673-10-3316");/*]]>{/literal}*/</script><!-- end olark code -->
+
+
+
+
 </body></html>
