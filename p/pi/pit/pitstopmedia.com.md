@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603062835id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005112424id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Pitstop Media Inc - Privacy Policy
 
 |  |  |   | 
 
-410% Increase in Google AdWords Conversions in Three Months
+170% Increase in AdWords Conversions, 33% Decrease in CPC
 
-Prior to contracting us, Holy Family was managing its PPC campaigns in-house, incurring AdWords losses and a negative ROI. We helped optimize the account ...
+Horizon DataSys wanted to optimize their AdWords account to increase the number of downloads and reduce cost per conversion. Pitstop Media overachieved ...
 
-[](http://www.pitstopmedia.com/case-studies/cs-detail-holy-family.php)
+[](http://www.pitstopmedia.com/case-studies/cs-detail-horizon-data.php)
 
 | 
 
