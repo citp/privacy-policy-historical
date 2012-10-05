@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511105235id_/http%3A//www.travelport.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005044706id_/http%3A//travelport.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Travelport | Privacy Policy
 
