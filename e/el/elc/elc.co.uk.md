@@ -1,167 +1,79 @@
-> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603204808id_/http%3A//www.elc.co.uk/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005035848id_/http%3A//www.elc.co.uk/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy : Early Learning Centre UK Toy Shop
 
-### General
+Can I feel secure using this site?
 
-This privacy statement sets out how elc.co.uk will store and use information relating to you. This applies to the entire website. Any changes to these policies will be posted on Terms and Conditions. elc.co.uk is a trading name of Early Learning Centre Limited. elc.co.uk is committed to respecting your privacy. We have structured our website so that, in general, you can visit the website without identifying yourself or revealing any personal information. Once you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this Privacy Statement. For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.
+Yes. We are committed to protecting your privacy. We use the information we collect to process your order efficiently. We want you to be fully informed about how we guard your privacy, and about how we may use any information we gather about you.
 
-### Security
+Are my personal details kept private?
 
-elc.co.uk is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality. When you place orders or access account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection laws, we follow strict security procedures in the storage and disclosure of information, which you have given us, to prevent, unauthorised access. Our security procedures mean that we may occasionally require proof of identity before we are able to disclose sensitive or other information to you. If you have any further questions about our credit card security policies, please contact us. Click on the contact us tab at the top of this page. The Customer Care Centre is open from 8am to 8pm Monday to Saturday and from 9am to 5pm on Sunday.
+Any personal information provided to or gathered at [www.elc.co.uk](http://www.elc.co.uk/) is controlled by Early Learning Centre Limited, South Marston Park , Swindon SN3 4TJ. We never make your details available to any third parties without your prior written consent.
 
-Note: If you still have questions about shopping online, but want to enjoy the benefits of shopping at elc.co.uk, call our Customer Care Centre on **0871 231 3513** to place an order. 
+Why does ELC need so much information from me when I order?
 
-### What we collect
+When you order, we need to know your name, email address, delivery address, credit or debit card number and the card's expiry date. This allows us to process and fulfil your order. As an additional security precaution we also ask for your card security number. This is the last 3 digits on the signature strip on the back of your card. We ask for your telephone number, so we can contact you if there is a query with your order.
 
-We collect the following information:
+From time to time we do ask if you want to be kept you up to date with exciting offers and events at elc.co.uk and in our stores. We do not send you anything unless you have given us permission to do so.
 
-  * Where you order products, we will collect your name, contact and billing information, transaction and credit card information.
-  * When you register with us to receive our monthly newsletter or details of offers or products we will collect your e-mail address. You can also provide us with more information about you and your family so that the details of offers and products we send you will be more suited to your circumstances.
-  * Our website uses cookies, which are programs which collect additional information. In order to learn more see, How We Use Cookies below.
+If you have signed up to receive marketing communications from us, and want to change your mind, you can at any time.
 
+If you receive emails from us, simply click the ‘unsubscribe' link at the end of any email you receive from us. If you receive postal mailings simply email your name, address and postcode to [contactus@elc.co.uk](mailto:contactus@elc.co.uk) and we will remove you from our mailing list.
 
+What about entering competitions?
 
-### What do we do with the information we gather?
+When you enter an on-line competition or other promotional feature, we may ask for your name, address and email address so we can administer the competition and notify the winners.
 
-  * We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: Internal record keeping
-  * To analyse the use of the elc.co.uk website.
-  * We may use the information to improve our products and services.
-  * Our representatives may follow up, either by e-mail, phone or mail, to people who have purchased goods from our site as part of our customer care procedures.
+Why would I want to sign up, or set up an account at elc.co.uk?
 
+Setting up an account with elc.co.uk enables you to have a more personalised experience every time you shop.
 
+Signing up with us and setting up an account means that we store your delivery address details and those of anyone else to whom you might want to send an Early Learning Centre toy. When you've signed up, you don't have to retype all these details every time you order.  
+We can also let you know about specific offers you might find interesting.
 
-To send promotional e-mail about new products, special offers and services or other information for Mothercare, mothercare.com, Early Learning Centre, Early Learning Centre's sister company Mothercare, any other companies within the same group of companies and selected third party companies which we think you may find interesting using the e-mail address which you have provided unless you have asked us not to do so when you registered as a user on this site.
+I've heard how unsafe the Internet can be – how does elc.co.uk protect my details?
 
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by e-mail, phone or mail.
+We use the latest technology to ensure that all your personal and credit card details remain completely confidential. Read more about our Security policy here
 
-### Who we share the information with and your choices
+If I pay by credit card, does ELC keep hold of the details?
 
-When you use this site and have not advised us to the contrary, you are agreeing that we may use your personal information for the purposes set out in this statement.
+No. We never store credit card and other payment details.
 
-We will not sell, distribute or lease your personal information to third parties other than our subsidiaries and parent company, subsidiaries of the same parent company, or our successor in business unless we have your permission or are required by law. We may release your personal information to our authorised direct marketing agents unless you tell us that you do not wish this to happen.
+I'm still unhappy about paying online. Can I still order?
 
-This process may include sending personal information outside of the European Economic Area. The data protection laws in these countries may not be as extensive as in the European Economic Area.
+Of course, it's no problem. If you prefer not to send your card details over the Internet, you can still place your order by phoning 08705 352 352 between 8 am and 10 pm 7 days a week.
 
-When you provide any information on line, you should look for the box which you can click to say that you do not want the information to be used by anyone for direct marketing purposes. If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at:
+Will elc.co.uk disclose my information to outside parties?
 
-### Email Subscriptions
+elc.co.uk may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
-If you are opted into Early Learning Centreemails and wish to change your preferences, you can do so by logging into 'my account' at anytime.
+We employ other companies and individuals to perform functions on our behalf. These functions include fulfilling orders, delivering packages, sending postal mail and emails, removing repetitive information from customer lists, analysing data, providing marketing assistance, processing credit card payments and providing customer services.
 
-If you wish to unsubscribe from email communications from Early Learning Centre you can do so by clicking on the unsubscribe link at the bottom of any email received, or else, amend your preferences when you log into 'my account.'
+These companies and individuals will have access to the personal information they need to perform these functions, but they may not use it for any other purposes and are required to process the data in accordance with the UK 's Data Protection legislation.
 
-#### For information contact:
+We will only provide your contact details to third parties for marketing purposes if you have given us permission to do so. This means you specifically ticked the box in the “Your contact preferences” section of the site when you signed up with us and created your account.
 
-**Early Learning Centre Customer Care Team**  
-Cherry Tree Road  
-Watford  
-WD24 6SH  
-**Tel:** 0844 875 5222  
-[Email Us](http://help.mothercare.com/help/emailPage)
+What have I agreed to, by using this site?
 
-What if you think we have incorrect information or you would like a copy of the information we hold about you? You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. This fee will not exceed £10, or the prevailing statutory maximum. If you would like a copy of the information held on you, please write to:
+By using our Website, you consent to the collection and use by elc.co.uk of any information you provide.   
+If we decide to change our privacy policy, we will update the information on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
-#### The Data Protection Compliance Officer
+What about ‘cookies' – how do they affect me?
 
-**Early Learning Centre**  
-Cherry Tree Road  
-Watford  
-Herts.  
-WD24 6SH  
-**E-mail:** [privacy.matters@mothercare.co.uk](mailto:privacy.matters@mothercare.co.uk)
+This site uses cookies.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.
+Cookies are pieces of data that are sent from our website to your browser, which may then store them on your computer system. Cookies cannot gather or store personal information. We use cookies to see how our website is used, find out what areas are popular, and then improve the site.
 
-### Other web sites
+This site uses both ‘session cookies', which disappear as soon as you close your browser, and ‘permanent cookies', which are kept on your computer. Neither of these types of cookie stores or gathers any personal information about you.
 
-Our web site may contain links to enable you to visit other web sites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the web site in question.
+To shop at elc.co.uk you need to have cookies enabled on your browser. The most common browser used today is Internet Explorer. To turn cookies on in Internet Explorer, please perform the following actions:
 
-### Our Cookies Policy
+**Select the 'Tools' option in the browser window  
+Select the 'Internet Options' menu  
+Select the Privacy tab, and set the level to 'medium-high'  
+**   
+This will ensure that cookies are enabled and the site will remember your details, without exposing you to unwanted 3rd party cookies.
 
-#### What are cookies?
+I've still got questions. Who can I contact?
 
-Cookies are small text files placed on your computer by the websites that you visit. They make your online interactions faster and easier. 
-
-#### Types of cookies
-
-On this website we use two types of cookies:
-
-**Session Cookies:** These are temporary cookies which are stored during your browsing session. They are automatically deleted from your computer or device when you close your browser. 
-
-Some of the things we use session cookies for include:
-
-  * allowing you to move from page to page on our website
-  * remembering what you have in your shopping basket
-  * allowing us to take payment for and complete your order
-
-
-
-**Persistent Cookies:** These are cookies which are not deleted from your computer or device after you have visited our website. These cookies help us to remember you and your preferences when you come back to this website.
-
-Some of the things we use persistent cookies for include:
-
-  * remembering your journey around our website
-  * remembering your preferences when you come back to our website
-  * allowing you to interface with social media sites
-
-
-
-#### Cookies we use
-
-The table below contains details of the cookies we use and why. The data we collect and record via cookies are completely anonymous. The data will never contain any of your personal details.
-
-Cookie Name | Purpose  
----|---  
-**Coremetrics, Google Analytics** | Collects information about how our visitors use our website. We use this information to help us improve the website. These cookies collect information in an anonymous form such as the number of visitors to our site, where visitors have come to the site from and the pages they visited.  
-**Avail** | Provides our visitors with recommendations on what other customers have browsed and purchased on our site. This also allows our customers to participate in our social community of Mothercare  
-**Bazaarvoice** | Enables our customers to read and write reviews on products.  
-**Tradedoubler** | Shows us how our visitors find our website, which helps us identify which online channels are the most effective. We may reward certain external websites for sending visitors to our website  
-**Responsys** | This cookie allows us to track if our visitors have come to our website through our e-mail channel, allowing us to send better and more relevant e-mails to our customers  
-**Addthis, Twitter** | Allow our visitors to interface with Facebook and Twitter.  
-**Datacash** | Allows us to take payment for and complete your order.  
-**Scene7** | Allows our visitors to be served product images  
-**Doubleclick** | Shows us those visitors who use a search engine and click on a paid advertisement, helping us improve our online marketing channel and provide a better customer experience.  
-  
-#### How do I manage cookies?
-
-Most web browsers allow you to control cookies through your browser settings. You can check how to manage cookies by clicking on the link below which relates to your browser:
-
-[Microsoft Internet Explorer](http://windows.microsoft.com/en-US/windows7/How-to-manage-cookies-in-Internet-Explorer-9)
-
-[Google Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
-
-[Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
-
-[Mozilla Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
-
-If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](https://web.archive.org/web/20120603204808id_/http%3A//www.elc.co.uk/Privacy-Policy/www.allaboutcookies.org). 
-
-Please remember that all of the links above are third party websites. We do not endorse them and are not responsible for their contents.
-
-### What happens if I disable cookies?
-
-If you disable cookies it may affect the service you receive from our website. For example you many not be able to:
-
-  * view images
-  * add items to your basket or buy them
-  * see other customers' reviews or write reviews
-
-
-
-Please remember that if you wish to disable cookies you will need to do this each time you visit our website.
-
-Our Cookies Policy does not cover any third party websites that are linked to Mothercare. If you click through to these websites, they may set cookies on your computer. To understand which cookies are used by these companies and how they use your data, please read their privacy and cookies policies. We accept no responsibility or liability for these third party websites.
-
-### Contact us
-
-If you have any questions about our cookies policy please contact:
-
-#### The Data Protection Compliance Officer
-
-**The Early Learning Centre**  
-Cherry Tree Road  
-Watford  
-Herts.  
-WD24 6SH  
-**E-mail:** [privacy.matters@mothercare.co.uk](mailto:privacy.matters@mothercare.co.uk)
+elc.co.uk welcomes your questions and comments about privacy. Please send an email to [contactus@elc.co.uk](mailto:contactus@elc.co.uk)
