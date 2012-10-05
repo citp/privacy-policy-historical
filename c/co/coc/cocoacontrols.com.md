@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocoacontrols.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620132734id_/http%3A//www.cocoacontrols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocoacontrols.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005052854id_/http%3A//www.cocoacontrols.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cocoa Controls
 
@@ -97,3 +97,11 @@ By using our website, or giving us your details at an exhibition, you consent to
 ## Contacting us
 
 If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an email to us at info@cocoacontrols.com or by contacting us at Cocoa Controls, Red Gate Software Limited, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom. You are entitled to ask for a copy of the information we store about you (for which we may charge a small fee).
+
+[](http://twitter.com/cocoacontrols)    [](http://feeds.feedburner.com/cocoacontrols)
+
+[Privacy Policy](https://web.archive.org/privacy-policy)
+
+Website © 2011 - 2012 Cocoa Controls. All other content © by its creator(s).
+
+The Cocoa Controls website was originally created by Aaron Brethorst.
