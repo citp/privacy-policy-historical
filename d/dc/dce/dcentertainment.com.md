@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dcentertainment.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606023409id_/http%3A//www.dcentertainment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcentertainment.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005213753id_/http%3A//www.dcentertainment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DC Entertainment
 
-Updated: May 21, 2012
+Updated: June 12, 2012
 
-Thank you for visiting a [Warner Bros. Entertainment](http://www.warnerbros.com/main/privacy/privacy_list.html#listOne) Group ("we" or "us") Web site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit on our online and mobile Web sites, services, and applications (“Site” or “Sites”). For certain offerings on our Sites, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
+Thank you for visiting a [Warner Bros. Entertainment Group](http://www.warnerbros.com/main/privacy/privacy_list.html#listOne) ("we" or "us") offering. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit on our online and mobile Web sites, services, and applications (“Site” or “Sites”). For certain offerings on our Sites, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
 
  **THE INFORMATION WE COLLECT**
 
@@ -70,17 +70,7 @@ We may also share such information with business partners and third parties (e.g
 
  **CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes going forward, please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [privacy@wb.com](mailto:privacy@wb.com).
-
- **COLLECTION OF INFORMATION BY THIRD PARTY SITES AND SPONSORS**  
-
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties. 
-
-We sometimes may offer content or programs (e.g., contests, sweepstakes, or promotions) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. 
-
-The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
-
-At some Warner Bros. Entertainment Group Web sites, reputable third parties may present or serve the advertisements, provide us with data collection, reporting and ad response measurement, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers at our sites and your ability to opt-out of targeted advertising from such third parties, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/).
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [privacy@wb.com](mailto:privacy@wb.com).
 
  **COOKIES AND OTHER TECHNICAL INFORMATION**
 
@@ -98,9 +88,9 @@ On their own, cookies or Web beacons do not contain or reveal any personally ide
 
 **OUR COMMITMENT TO SECURITY**  
 
-We have put in place reasonable physical, electronic, and managerial procedures designed to safeguard the information we collect online at the Sites. However, we cannot assure you that personally identifiable information that we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Policy. 
+We have put in place reasonable physical, electronic, and managerial procedures designed to safeguard the information we collect online at the Sites. However, we cannot assure you that personally identifiable information that we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Policy.
 
-**HOW YOU CAN ACCESS OR CORRECT INFORMATION**  
+ **HOW YOU CAN ACCESS OR CORRECT INFORMATION**  
 
 To access the personally identifiable information that our Sites have collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your account if you have created one with us or send an email to [privacy@wb.com](mailto:privacy@wb.com).
 
@@ -114,7 +104,7 @@ Visitors to this Site may participate in many activities without providing any p
 
 As we operate internationally, and many of our computer systems are currently based in the United States, your personally identifiable information will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with our Sites as a visitor from outside the United States, you consent to the collection and/or processing in the United States of your personally identifiable information, which includes the use of cookies as described above. 
 
-Companies within the Warner Bros. Entertainment Group have certified with the U.S. Department of Commerce's Safe Harbor Program to address data transfers from the European Economic Area. For a list of these companies, please [click here](http://www.warnerbros.com/main/privacy/privacy_international.html).
+Companies within the Warner Bros. Entertainment Group have certified with the U.S. Department of Commerce's Safe Harbor Program to address data transfers from the European Union and Switzerland. For a list of these companies, please [click here](http://www.warnerbros.com/main/privacy/privacy_international.html).
 
  **NOTIFICATION REGARDING UPDATES**  
 
