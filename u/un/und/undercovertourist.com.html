@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the undercovertourist.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501134333id_/http%3A//www.undercovertourist.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the undercovertourist.com privacy policy that was archived on 2012-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005022053id_/http%3A//www.undercovertourist.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -14,14 +14,14 @@
 
   <base href="http://www.undercovertourist.com/">
 
-  <link rel="stylesheet" type="text/css" href="css/v1.5/template.css?v=1.55" media="screen">
+  <link rel="stylesheet" type="text/css" href="css/v1.5/style.css?v=1.58" media="screen">
 
-  <link rel="stylesheet" type="text/css" href="css/v1.5/index.css?v=1.56" media="screen">
+  <link rel="stylesheet" type="text/css" href="css/v1.5/index.css?v=1.58" media="screen">
 
   
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/lib/cmn.js?v=1.51"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/lib.js?v=1.53"></script>
 
-  <script type="text/javascript" src="js/index.js?v=1.50"></script>
+  <script type="text/javascript" src="js/index.js?v=1.53"></script>
 
   <script type="text/javascript">
 
@@ -36,7 +36,17 @@
   })();
 
 </script>
-</head>
+  <script type="text/javascript">
+
+var _vwo_code=(function(){
+var account_id=24533,
+settings_tolerance=2000,
+library_tolerance=1500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=24533&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121005022053id_%2Fhttp%253A%2F%2Fwww.undercovertourist.com%2Fprivacy.html&amp;r=0.701882773345482" type="text/javascript"></script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
 <div id="full1">
@@ -53,7 +63,7 @@
         <li><a href="customer-service.html" title="First class customer service; Undercover Tourist">Customer Service</a></li>
         <li><a href="feedback.html" title="customer reviews, they love us as we treat people well...">Feedback</a></li>
         <li><a href="faq.html" title="answers to your most important questions">FAQs</a></li>
-        <li class="last"><a class="modalInput" rel="#prompt" title="sign up for news, tips and fun to save time and money in the parks">Newsletter</a></li>
+        <li class="last"><a data-toggle="modal" href="#prompt" title="sign up for news, tips and fun to save time and money in the parks">Newsletter</a></li>
       </ul>
 
 
@@ -83,6 +93,7 @@
         <li id="hdrnav5"><a href="universal.html" title="Universal Studios theme parks and water parks"><span>Universal</span></a></li>
         <li id="hdrnav6"><a href="planning/disney-world-disney-iphone-app-undercover-family-tour.html" title="Disney World wait time apps on iPhone, Android and Blackberry"><span>Apps</span></a></li>
         <li id="hdrnav7"><a href="http://blog.undercovertourist.com/" title="blog posts from the frog family"><span>Blog</span></a></li>
+        <li id="hdrnav8"><a href="games.html" title="Games"><span>Disney Games</span></a></li>
       </ul>
 
     </div>
@@ -97,7 +108,7 @@
   </div>
 
 
-<div class="modal" id="prompt"><a class="close"></a>
+<div class="modal newsletter" id="prompt"><a class="newsletterclose" data-dismiss="modal"></a>
   <h2>Newsletter Sign Up</h2>
   <p><i>Packed with news, tips &amp; fun our newsletters will help you save time &amp; money in the parks!</i></p>
   <form method="get" action="nlsignup.html">
@@ -106,11 +117,11 @@
       <label>Your Email</label> <input type="text" size="30" name="nlsemail">
       <label>&nbsp;</label><input type="checkbox" name="nlsqrt" class="chck"> <span>Newsletter (Quarterly)</span>
       <label>&nbsp;</label><input type="checkbox" name="nlsrwrd" class="chck"> <span>Rewards Newsletter (Monthly)</span>
-      <input type="submit" id="submit" class="sbmt" value="Sign Up">
+      <input type="submit" id="submit" class="newslettersubmit" value="Sign Up">
     </div>
   </form>
   <div class="nlsdone off">
-    <b>Thank-you!</b> <button class="donebutton">Close</button>
+    <b>Thank-you!</b> <button class="donebutton" data-dismiss="modal">Close</button>
   </div>
 </div>
 
@@ -259,12 +270,12 @@
       <a href="orlando/attractions/tickets.html" title="Disney World, Universal Studios Florida, Sea World Orlando - buy tickets" class="ftrwhichticket"><span>The trusted name in attraction tickets</span></a>
     </div>
     <div id="ftrc2">
-      <div id="twttrftr"><div id="twttrftrpad"><b class="h"><span><i><em>Twitter</em></i></span> » <a href="http://twitter.com/ThemeParkFrog" title="Follow the family rog (Undercover Tourist) on Twitter - ThemeParkFrog">ThemeParkFrog</a></b><ul id="ftrtwttr"><ul id="ftrtwttr"><li class="ftrtwttr-item">Fun Fact: Presidents George W. Bush, Bill Clinton &amp; Barack Obama recorded their own dialog for the Hall of Presidents.</li><li class="ftrtwttr-item">Disney Tip: Arrive at the turnstiles at least 30 min. before park opening. Give yourself an extra 10 min. to get from parking to entrance.</li><li class="ftrtwttr-item">The 5 yummiest treats at Magic Kingdom &amp; where to get them. What are yours (turkey legs count)? <a href="http://t.co/RaVixYgx">http://t.co/RaVixYgx</a> #Disney</li><li class="ftrtwttr-item">NEWS: Fantasyland Expansion - opening dates for attractions &amp; restaurants announced today. <a href="http://t.co/krBb8hzp">http://t.co/krBb8hzp</a> #Disney</li><li class="ftrtwttr-item">@Eleary789 You can get Dole Whips from Aloha Isle in Adventureland (Magic Kingdom). They are delicious! -Leap</li></ul></ul></div></div>
+      <div id="twttrftr"><div id="twttrftrpad"><b class="h"><span><i><em>Twitter</em></i></span> » <a href="http://twitter.com/ThemeParkFrog" title="Follow the family rog (Undercover Tourist) on Twitter - ThemeParkFrog">ThemeParkFrog</a></b><ul id="ftrtwttr"><ul id="ftrtwttr"><li class="ftrtwttr-item">Cute idea: DIY Disney signature books. <a href="http://t.co/IWZaFgHI">http://t.co/IWZaFgHI</a></li><li class="ftrtwttr-item">A new week has been added to Leap's Crowd Calendar: see crowd levels 1 year out + park hours 6 months out: <a href="http://t.co/FLNWIeSV">http://t.co/FLNWIeSV</a></li><li class="ftrtwttr-item">Our highlights of our trip to Epcot International Food and Wine Festival with lots of photos! <a href="http://t.co/qbKNhUV6">http://t.co/qbKNhUV6</a> #Epcot</li><li class="ftrtwttr-item">@jlrhorvath, congrats you were our weekly winner yesterday! (Sent you a DM w/ info to redeem). Stay tuned next WED if you didn't win!</li><li class="ftrtwttr-item">What to expect at Walt Disney World in October: <a href="http://t.co/H8nXEEt9">http://t.co/H8nXEEt9</a> #wdw</li></ul></ul></div></div>
     </div>
     <div id="ftrc3">
       <div id="ftrpopular">
         <b class="h">Recent <a href="http://blog.undercovertourist.com/" title="Travel tips from the family frog - The Frog Blog">Frog Blog</a> posts...</b>
-        <ul id="ftrblog"><ul id="ftrtwttr"><li><a href="http://blog.undercovertourist.com/2012/04/the-5-yummiest-treats-at-magic-kingdom-where-to-get-them/">The 5 Yummiest Treats at Magic Kingdom &amp; Where to Get Them</a></li><li><a href="http://blog.undercovertourist.com/2012/04/top-5-pavilions-in-epcots-world-showcase/">Top 5 Pavilions in Epcot’s World Showcase</a></li><li><a href="http://blog.undercovertourist.com/2012/04/weekend-fun-forecast-april-27-thru-april-29/">Weekend Fun Forecast (April 27 thru April 29)</a></li><li><a href="http://blog.undercovertourist.com/2012/04/ten-tips-for-flying-with-kids/">Ten Tips for Flying with Kids</a></li><li><a href="http://blog.undercovertourist.com/2012/04/weekend-fun-forecast-april-20-thru-april-22/">Weekend Fun Forecast (April 20 thru April 22)</a></li></ul></ul>
+        <ul id="ftrblog"><ul id="ftrtwttr"><li><a href="http://blog.undercovertourist.com/2012/10/leap-and-mommy-frog-eat-their-way-around-the-world-at-the-epcot-food-and-wine-festival/">Leap and Mommy Frog Eat Their Way Around the World at the Epcot Food and Wine Festival</a></li><li><a href="http://blog.undercovertourist.com/2012/10/your-survival-guide-to-universal-orlandos-halloween-horror-nights/">Your Survival Guide to Universal Orlando’s Halloween Horror Nights</a></li><li><a href="http://blog.undercovertourist.com/2012/09/a-look-back-at-this-weeks-disney-and-related-news-september-28/">A Look Back at This Week\u2019s Disney and Related News — September 28</a></li><li><a href="http://blog.undercovertourist.com/2012/09/what-to-expect-at-walt-disney-world-in-october/">What to expect at Walt Disney World in October</a></li><li><a href="http://blog.undercovertourist.com/2012/09/were-headed-to-the-theme-parks-what-questions-do-you-have-for-us/">We’re Headed to the Theme Parks! What Questions Do You Have For Us?</a></li></ul></ul>
       </div>
     </div>
     
@@ -276,13 +287,27 @@
 
 <script type="text/javascript">
 <!--
-run();
-//-->
-</script>
-<script type="text/javascript">
-<!--
 init();
 //-->
 </script>
+<script type="text/javascript">
+
+adroll_adv_id = "TP4AWTKAKRGG3CTTZYFZSY";
+adroll_pix_id = "NFGFXDZMBZGXZJNRHPZUIE";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
 
 </body></html>
