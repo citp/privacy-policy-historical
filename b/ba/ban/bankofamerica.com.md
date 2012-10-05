@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bankofamerica.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620140943id_/https%3A//www.bankofamerica.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofamerica.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005201051id_/https%3A//www.bankofamerica.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Bank of America Privacy and Security
 
 |  |  | 
 
-Last updated March 2, 2012
+Last updated August 24, 2012
 
 This U.S. Online Privacy Notice (Notice) describes how Bank of America collects, uses and shares information from or about you through our U.S. online interfaces (e.g. website or mobile application) owned and controlled by us ("the Site"). This Notice also explains how we collect information based on your interactions with our online ads both on our Sites and on other websites.
 
@@ -107,7 +107,7 @@ Bank of America's Mobile Banking Applications for U.S. accounts ("Applications")
 
 We may provide links to non-Bank of America websites, such as credit bureaus or merchants. If you follow links to websites not controlled by Bank of America, you should review their privacy policies and other terms, as they may be different from those of our Sites. Bank of America does not guarantee and is not responsible for the privacy or security of these websites, including the accuracy, completeness, reliability or suitability of their information.
 
-Bank of America provides experiences on social media platforms such as Facebook®, Twitter® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
+Bank of America provides experiences on social media platforms such as Facebook®, Twitter® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content. In addition, please note that when visiting any official Bank of America social media pages, you are also subject to the Terms and Conditions of Bank of America’s Privacy Notices and User Terms.
 
 To protect Personal Information from unauthorized access and use, we use security measures that comply with federal law. These measures include device safeguards and secured files and buildings. For more information visit [bankofamerica.com/security](http://www.bankofamerica.com/security/).
 
