@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nativeplanet.com privacy policy that was archived on 2012-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120517194256id_/http%3A//www.nativeplanet.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nativeplanet.com privacy policy that was archived on 2012-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005115253id_/http%3A//www.nativeplanet.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,7 +9,6 @@
 
 <meta name="Generator" content="Nativeplanet">
 <meta http-equiv="content-language" content="en">
-
 <meta property="og:title" content="Native Planet | Privacy Policy | Travel Website | Travel And Tourist Information">
 <meta property="og:type" content="article">
 <meta property="og:image" content="http://www.nativeplanet.com/images/nativeplanet-fb.png">
@@ -18,31 +17,59 @@
 <meta property="fb:app_id" content="275160992568888">
     <link rel="canonical" href="http://www.nativeplanet.com/privacy-policy.html">
 
+<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=1.0; user-scalable=1;">
 
-<script type="text/javascript" async="" src="https://in-ssl.effectivemeasure.net/em.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=275160992568888"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.nativeplanet.com/js/jquery-1.4.2.min.js"></script>
- <script type="text/javascript" src="http://www.nativeplanet.com/js/jquery-ui.min.js"></script> 
-<link type="text/css" rel="stylesheet" href="http://www.nativeplanet.com/css/style-min-11052012.css">
+<!-- <link type="text/css" rel="stylesheet" href="http://www.nativeplanet.com/css/style-responsive24062012.css" />
+ -->
+<link type="text/css" rel="stylesheet" href="http://www.nativeplanet.com/min/b=css&amp;f=style-responsive20120817.css,hotels.css">
 
-<script type="text/javascript" src="http://www.nativeplanet.com/js/script.js"></script>
-<script type="text/javascript">
+
+
+<script type="text/javascript" async="" src="https://in-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     var base_url = "http://www.nativeplanet.com/";
 </script>
-<script type="text/javascript" src="http://www.nativeplanet.com/js/tabcontent.js"></script>
-<script src="http://www.nativeplanet.com/js/jquery.tinyscrollbar.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://www.nativeplanet.com/min/b=js&amp;f=jquery-1.6.2.min.js,jquery-ui.min.js,script.js,tabcontent.js,jquery.tinyscrollbar.min.js,ajax.js"></script>
 
 
-<script type="text/javascript" src="http://www.nativeplanet.com/js/ajax.js"></script>
-
-
+	<style>
+	.ui-autocomplete-category {
+	    border-bottom: 1px dashed #CCCCCC;
+	    font-weight: bold;
+	    line-height: 1.5;
+	    margin: 0.8em 0 0.2em;
+	    padding: 0.2em 0.4em;
+	    color: orange;
+	} 
+	</style>
 	<script type="text/javascript">
 	$(function() {
+		$.widget( "custom.catcomplete", $.ui.autocomplete, {
+		    _renderMenu: function( ul, items ) {
+			    var self = this,
+				    currentCategory = "";
+			    $.each( items, function( index, item ) {
+				    if ( item.category != currentCategory ) {
+					    ul.append( "<li class='ui-autocomplete-category'>" + item.category + "</li>" );
+					    currentCategory = item.category;
+				    }
+				    self._renderItem( ul, item );
+			    });
+		    }
+		});
 		$( "#destination_search" ).autocomplete({
 			source: base_url+"ajax-common.php?func=search-destination",
                         autoFocus: true,
+			minLength: 3,
 			select: function( event, ui ) {
 			    $('#search_destination_query_string').val(ui.item.query_string);
 			    var search_destination_query_string = document.getElementById("search_destination_query_string").value;
-			    window.location = base_url+"destination.php?search_destination_query_string="+search_destination_query_string;
+			    $.ajax({
+				   url: base_url+"ajax-common.php?func=insert-search-keyword&name="+ui.item.value+"&query_string="+ui.item.query_string,
+				   success: function(data){
+					 window.location = base_url+"destination.php?search_destination_query_string="+data;
+				   }
+			   });
 			}
  		});
 	});
@@ -142,9 +169,10 @@
 	<!-- Ad code ends here --> 
 
 
-<noscript>
-			<meta http-equiv="refresh" content="1; URL=http://www.nativeplanet.com/js-error.html" />
-	</noscript>
+
+<!-- start Mixpanel --><script type="text/javascript">(function(d,c){var a,b,g,e;a=d.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===d.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';b=d.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);c._i=[];c.init=function(a,d,f){var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";g="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config".split(" ");
+for(e=0;e<g.length;e++)(function(a){b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,0)))}})(g[e]);c._i.push([a,d,f])};window.mixpanel=c})(document,[]);
+mixpanel.init("83940fae8c02d864c279e7fd617e3f57");</script><!-- end Mixpanel -->
 		
 	</head>
 	<body class="np-bodyBg">
@@ -153,15 +181,6 @@
 		<div id="np-wrapper">
 			
 				
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=275160992568888";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-
 		<!-- BEGIN EFFECTIVE MEASURE CODE -->
 		<!-- COPYRIGHT EFFECTIVE MEASURE -->
 		<script type="text/javascript">
@@ -172,7 +191,7 @@
 			})();
 		</script>
 		<noscript>
-			<img src="//in.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+			<img src="in.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 		</noscript>
 		<!--END EFFECTIVE MEASURE CODE -->
 
@@ -189,7 +208,7 @@
 					<div id="np-headerRight">
 						<!-- Social Networking Links -->
 							<div id="np-socialNetworks">
-								<a href="https://www.facebook.com/nativeplanet" target="_blank"><img src="http://www.nativeplanet.com/images/icons/facebook.jpg" alt="Follow us on facebook" title="Follow us on facebook"></a> <a href="https://twitter.com/#!/oneindiatravel" target="_blank"><img src="http://www.nativeplanet.com/images/icons/twitter.jpg" alt="Follow us on twitter" title="Follow us on twitter"></a> <a href="#"><img src="http://www.nativeplanet.com/images/icons/gPlus.jpg" alt=""></a>							</div>
+								<a href="https://www.facebook.com/nativeplanet" target="_blank"><img src="http://www.nativeplanet.com/images/icons/facebook.jpg" alt="Follow us on facebook" title="Follow us on facebook"></a> <a href="https://twitter.com/#!/oneindiatravel" target="_blank"><img src="http://www.nativeplanet.com/images/icons/twitter.jpg" alt="Follow us on twitter" title="Follow us on twitter"></a> <a href="https://plus.google.com/117158661630711195042/" target="_blank"><img src="http://www.nativeplanet.com/images/icons/gplus.jpg" alt="Follow us on Google plus" title="Follow us on Google plus"></a>							</div>
 						<!-- Social Networking Links -->
 
 						<nav class="navmenu">
@@ -197,7 +216,8 @@
 								<a href="http://www.nativeplanet.com/">Home</a>
 <a href="http://www.nativeplanet.com/about-us.html">About</a>
 <a href="http://www.nativeplanet.com/tourist-places/">Destinations</a>
-<a href="http://www.nativeplanet.com/flight.html">Flights</a>
+<a href="http://www.nativeplanet.com/videos/">Videos</a>
+<a href="http://www.nativeplanet.com/flights/" class="noflights">Flights</a>
 							</div>
 						</nav>
 					</div>
@@ -214,17 +234,41 @@
 		<!-- Container Starts here -->
 			<div id="np-container">
 			
-			<!-- Search Block Goes here -->
+			<script type="text/javascript" src="http://www.nativeplanet.com/js/jquery-ui.min.js"></script>
+
+<script type="text/javascript">
+function destinationSearch(){
+    var search_destination_query_string = $.trim(document.getElementById("search_destination_query_string").value);
+    if(search_destination_query_string != ''){
+        document.destination_search_frm.action = base_url+"destination.php?search_destination_query_string="+search_destination_query_string;
+	return true;
+    }
+    var destination_name = document.getElementById("destination_search").value;
+    destination_name = $.trim(destination_name);
+    if(destination_name != 'Where do you want to go?'){
+	destination_name = destination_name.toLowerCase();
+	document.getElementById("search_destination_query_string").value = destination_name;
+	document.destination_search_frm.action = base_url+"suggestion/";
+	return true;
+    }else{
+	document.getElementById("search-error").innerHTML = "Please type destination";
+	return false; 
+    } 
+}
+</script>
+
+
+<!-- Search Block Goes here -->
 	<form name="destination_search_frm" id="destination_search_frm" method="post" action="" onsubmit="return destinationSearch();">
 	<div id="np-searchBlock" class="clear">
 	  <div class="np-right">
 		<div class="np-left">
 			<input type="hidden" name="search_destination_query_string" id="search_destination_query_string">
-			<input type="text" class="np-searchTextbox" name="destination_search" id="destination_search" value="Where do you want to go?" onblur="if (this.value=='') this.value = this.defaultValue" onfocus="if (this.value=='Where do you want to go?') this.value = ''" autocomplete="off">
+			<div id="translControl" class="np-left"></div><input type="text" class="np-searchTextbox" name="destination_search" id="destination_search" value="Where do you want to go?" placeholder="Where do you want to go?" onblur="if (this.value=='') this.value = this.defaultValue" onfocus="if (this.value=='Where do you want to go?') this.value = ''" autocomplete="off">
 			
 		</div>
 		
-		<div class="np-leftZero">
+		<div class="np-left">
 			<input type="submit" class="button red" name="submit" value="Search">
 		</div>
 		<div class="clear"></div>
@@ -318,6 +362,17 @@
 	
 
 </script>
+<style type="text/css">
+/* style for right include google text ad*/
+		.article_right_google_text_ad{width: 152px; padding-left: 1px; padding:4px 3px 4px 3px;border:solid 1px #CCCCCC;line-height:16px;overflow: hidden;text-overflow: ellipsis;}
+		.ads_by_goolge_txt_right{color:#000000 !important;font-size:12px;font-family: arial;}
+		.google_text_ad_single_link_right{text-decoration:none;font-size:12px;font-family:"Lucida Sans Unicode",arial,Helvetica,sans-serif;}
+		.google_text_ad_multi_link_right{text-decoration:none;font-size:12px;font-family: "Lucida Sans Unicode",arial,Helvetica,sans-serif;}
+		.google_text_ad_desc_right{color:#000000;font-size:11px;font-family:"Lucida Sans Unicode",arial,Helvetica,sans-serif;line-height:16px;}
+		.google_text_ad_desc_right_bottom_rt{color:#000000;font-size:12px;font-family:"Lucida Sans Unicode",arial,Helvetica,sans-serif;line-height:16px;}
+		.google_text_ad_url_right{color:#000000 !important;font-size:10px;font-family:"Lucida Sans Unicode",arial,Helvetica,sans-serif;text-decoration:none;overflow: hidden;text-decoration: underline;text-overflow: ellipsis;white-space: nowrap;}
+		/* style for right include google text ad*/
+</style>
 
 
 <div id="np-rightPanel">
@@ -339,67 +394,43 @@
 	<ul id="listoo">
 							
 			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/coorg/" title="Coorg">Coorg</a><span><a href="javascript:void(0)" onclick="removeSearchItem(19)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/bangalore/" title="Bangalore">Bangalore</a><span><a href="javascript:void(0)" onclick="removeSearchItem(1)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="oddRow">
-				<a href="http://www.nativeplanet.com/tadiandamol/" title="Tadiandamol">Tadiandamol</a><span><a href="javascript:void(0)" onclick="removeSearchItem(745)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/lakshadweep/" title="Lakshadweep">Lakshadweep</a><span><a href="javascript:void(0)" onclick="removeSearchItem(1227)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/yana/" title="Yana">Yana</a><span><a href="javascript:void(0)" onclick="removeSearchItem(743)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/nainital/" title="Nainital">Nainital</a><span><a href="javascript:void(0)" onclick="removeSearchItem(68)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="oddRow">
-				<a href="http://www.nativeplanet.com/bangalore/" title="Bangalore">Bangalore</a><span><a href="javascript:void(0)" onclick="removeSearchItem(1)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/chittorgarh/" title="Chittorgarh">Chittorgarh</a><span><a href="javascript:void(0)" onclick="removeSearchItem(330)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/karwar/" title="Karwar">Karwar</a><span><a href="javascript:void(0)" onclick="removeSearchItem(18)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/danta/" title="Danta">Danta</a><span><a href="javascript:void(0)" onclick="removeSearchItem(818)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="oddRow">
-				<a href="http://www.nativeplanet.com/shimoga/" title="Shimoga">Shimoga</a><span><a href="javascript:void(0)" onclick="removeSearchItem(720)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/bhimashankar/" title="Bhimashankar">Bhimashankar</a><span><a href="javascript:void(0)" onclick="removeSearchItem(855)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/sringeri/" title="Sringeri">Sringeri</a><span><a href="javascript:void(0)" onclick="removeSearchItem(122)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
-				<div class="clear"></div>
-			</li>
-
-							
-			<li class="oddRow">
-				<a href="http://www.nativeplanet.com/gokarna/" title="Gokarna">Gokarna</a><span><a href="javascript:void(0)" onclick="removeSearchItem(15)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
-				<div class="clear"></div>
-			</li>
-
-							
-			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/mangalore/" title="Mangalore">Mangalore</a><span><a href="javascript:void(0)" onclick="removeSearchItem(32)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
-				<div class="clear"></div>
-			</li>
-
-							
-			<li class="oddRow">
-				<a href="http://www.nativeplanet.com/maravanthe/" title="Maravanthe">Maravanthe</a><span><a href="javascript:void(0)" onclick="removeSearchItem(724)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
-				<div class="clear"></div>
-			</li>
-
-							
-			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/kukke-subramanya/" title="Kukke Subramanya">Kukke Subramanya</a><span><a href="javascript:void(0)" onclick="removeSearchItem(127)"><img src="http://www.nativeplanet.com/images/closeBtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/mount-abu/" title="Mount Abu">Mount Abu</a><span><a href="javascript:void(0)" onclick="removeSearchItem(59)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
@@ -477,8 +508,143 @@
 									</form>
 								<!-- Rounded Box Recent Search Ends here -->
 																								
+								<div class="np-ads article_right_google_text_ad">
+								
+								<script language="JavaScript">
+								<!--
+								var google_adnum = 0;/* only insert this line for your first ad unit */
 
-								</aside>
+								function google_ad_request_done(google_ads) {
+
+								/*
+								* This function is required and is used to display
+								* the ads that are returned from the JavaScript
+								* request. You should modify the document.write
+								* commands so that the HTML they write out fits
+								* with your desired ad layout.
+								*/
+
+								var s = '';
+								var i;
+
+								/*
+								* Verify that there are actually ads to display.
+								*/
+
+								if (google_ads.length == 0) {
+								return;
+								}
+
+								/*
+								* If an image, flash or html ad is returned, display that ad.
+								* Otherwise, build a string containing all of the ads and
+								* then use a document.write() command to print that string.
+								*/
+								if (google_ads[0].type == "flash") {
+								s += '<a href=\"' +
+								google_info.feedback_url + '\" class="ads_by_goolge_txt">Ads by Google</a><br>' +
+								'<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+								' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' +
+								google_ad.image_width + '" HEIGHT="' +
+								google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' +
+								google_ad.image_url + '">' +
+								'<PARAM NAME="quality" VALUE="high">' +
+								'<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+								'<EMBED src="' +
+								google_ad.image_url + '" WIDTH="' +
+								google_ad.image_width + '" HEIGHT="' +
+								google_ad.image_height +
+								'" TYPE="application/x-shockwave-flash"' +
+								' AllowScriptAccess="never" ' +
+								' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+								} else if (google_ads[0].type == "image") {
+								s += '<a href=\"' +
+								google_info.feedback_url + '\" class="ads_by_goolge_txt_right">Ads by Google</a><br> <a href="' +
+								google_ads[0].url + '" target="_top" title="go to ' +
+								google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+								google_ads[0].visible_url + '\';return true"><img border="0" src="' +
+								google_ads[0].image_url + '"width="' +
+								google_ads[0].image_width + '"height="' +
+								google_ads[0].image_height + '"></a>';
+								} else if (google_ads[0].type == "html") {
+								s += '<a href=\"' +
+								google_info.feedback_url + '\" style="color:000000;font-size:11px;font-family: arial;">Ads by Google</a><br>' +
+								google_ads[0].snippet;
+								} else {
+								if (google_ads.length == 1) {
+
+								/*
+								* Partners should adjust text sizes
+								* so ads occupy the majority of ad space.
+								*/
+
+								s += '<a href=\"' +
+								google_info.feedback_url + '\" class="ads_by_goolge_txt_right" style="font-family: arial;font-size:12px;color:#000000;text-decoration:none;" target="_blank">Ads by Google</a><br> <a target="_blank" style="text-decoration:none" href="' +
+								google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+								google_ads[0].visible_url + '\';return true"> <span class="google_text_ad_single_link_right"> <b>' +
+								google_ads[0].line1 + '</b>&nbsp;</span></a><br/> <span class="google_text_ad_desc_right">' +
+								google_ads[0].line2 + '&nbsp;' +
+								google_ads[0].line3 + '<br></span> <a target="_blank" class="google_text_ad_url_right" style="text-decoration:none;" href="' +
+								google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+								google_ads[0].visible_url + '\';return true"><span>' +
+								google_ads[0].visible_url + '</span></a>';
+
+								} else if (google_ads.length > 1) {
+
+								s += '<a target="_blank" href=\"' + google_info.feedback_url + '\" class="ads_by_goolge_txt" style="font-family: arial;font-size:12px;color:#000000;text-decoration:none;">Ads by Google</a>'
+
+								/*
+								* For text ads, append each ad to the string.
+								*/
+
+								for(i = 0; i < google_ads.length; ++i) {
+								s += '<br style="margin-bottom:15px;"><a target="_blank" style="text-decoration:none" href="' +
+								google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+								google_ads[i].visible_url + '\';return true"> <span class="google_text_ad_multi_link_right"> <b>' +
+								google_ads[i].line1 + '</b>&nbsp;</span></a><br> <span class="google_text_ad_desc_right_bottom_rt">' +
+								google_ads[i].line2 + ' ' +
+								google_ads[i].line3 + '<br></span> <a target="_blank" class="google_text_ad_url_right" style="text-decoration:none;" href="' +
+								google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+								google_ads[i].visible_url + '\';return true"><span>' +
+								google_ads[i].visible_url + '</span></a>';
+								}
+								}
+								}
+								if (google_ads[0].bidtype == "CPC") {/* insert this snippet for each ad call */
+								google_adnum = google_adnum + google_ads.length;
+								}
+
+								document.write(s);
+								return;
+								}
+								google_ad_client = 'pub-6601380052549923';/* substitute your client_id (pub-#) */
+								google_ad_channel = '4986458515';
+								google_ad_output = 'js';
+								google_max_num_ads = '6';
+								google_ad_type = 'text_html';
+								//google_image_size = '160x600';
+								google_feedback = 'on';
+								google_language = 'en';
+								google_encoding = 'utf8';
+								google_skip = google_adnum;/* to skip for multiple units, insert this snippet for each ad call */
+								// -->
+
+								</script>
+
+								<!--
+								/*
+								* The JavaScript returned from the following page uses
+								* the parameter values assigned above to populate an array
+								* of ad objects. Once that array has been populated,
+								* the JavaScript will call the google_ad_request_done
+								* function to display the ads.
+								*/
+								-->
+
+								<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+								</script>
+								
+								</div></aside>
 							</div>	
 					<!-- rightPanel Ends here -->
 
@@ -490,7 +656,7 @@
 			<!-- Content Ends here -->
 			
 			<!-- Footer Starts here -->
-							<!-- Footer Starts here -->
+											<!-- Footer Starts here -->
 				<footer>
 					<div id="np-footer">
 						
@@ -501,12 +667,12 @@
 							</div>
 						</div>
 						<div class="np-footerLeft">
-							<h4>Places Around</h4>
+							<h4>Travel This Season</h4>
 							<ul>
-																<li><a href="http://www.nativeplanet.com/bangalore/">Bangalore</a></li>
-																<li>Mumbai</li>
-																<li>Ahmedabad</li>
-																<li>Srinagar</li>
+																<li><a href="http://www.nativeplanet.com/kochi/">Kochi</a></li>
+																<li><a href="http://www.nativeplanet.com/mumbai/">Mumbai</a></li>
+																<li><a href="http://www.nativeplanet.com/coorg/">Coorg</a></li>
+																<li><a href="http://www.nativeplanet.com/lakshadweep/">Lakshadweep</a></li>
 															</ul>
 						</div>
 						<div class="np-footerLeft">
@@ -524,6 +690,7 @@
 						<div class="clear"></div>
 					</div>
 				</footer>
+
 			<!-- Footer  Ends here -->	
 			<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>			<!-- Footer  Ends here -->	
 			
