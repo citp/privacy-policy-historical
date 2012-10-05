@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the regattacentral.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503180257id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the regattacentral.com privacy policy that was archived on 2012-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005142359id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -30,6 +30,8 @@
 <script type="text/javascript" src="/js/tipped-2.4.3/js/excanvas/excanvas.js"></script>
 <script type="text/javascript" src="/js/tipped-2.4.3/js/spinners/spinners.js"></script>
 <script type="text/javascript" src="/js/tipped-2.4.3/js/tipped/tipped.js"></script>
+
+<script type="text/javascript" src="/js/moment.min.js"></script>
 
 <script type="text/javascript" src="/js/swfobject.js"></script>
 
@@ -94,9 +96,6 @@
 
 
 
-
-
-
 <script type="text/javascript">
   $(document).ready(function() {
     Tipped.create('.tipped',{
@@ -117,132 +116,148 @@
 
 
 
-
-
-
-
-
- 
-<div id="headerWrapper">
-<div id="header">
-<div style="font-size:0.9em;text-align:right;margin-bottom:1px;border-bottom:1px solid #344462;color:#f0f0f6;padding:2px;padding-right:5px" class="clear">
-
-<a style="color:#f0f0f6;" href="/support.jsp">Support</a> <span style="padding-left:5px;padding-right:5px">|</span><span id="langBox" style="padding-right:5px">
-<span class="tipped" data-tipped="langMenu">
-<span>
-	<a onclick="return false;" id="lang_in" style="color:#f0f0f6" href="#">English<span style="font-size:smaller">▼</span></a>
-	</span>
-</span>
-  <span id="viewBox">
-  	<span style="padding-left:0px;padding-right:5px">|</span>
-  		<span class="tipped" data-tipped="viewMenu">
-  			<a onclick="return false;" id="view_in" style="color:#f0f0f6" href="#">View <span style="font-size:smaller">▼</span></a>
-  		</span>
-  </span>
-</span></div>
-
-<noscript>
-<div class="error">
-JavaScript is required for this website. Please edit your browser's settings and enable JavaScript to ensure RegattaCentral functions properly
-</div>
-</noscript>
-<div style="height:60px;padding:10px;padding-left:5px;">
-
-<div style="float:left">
-<a href="/" border="0" title="RegattaCentral"><img style="margin-top:0px" src="/images/logo.png" alt="RegattaCentral" border="0"></a>
-</div>
-
-	<div id="loginBarWrapper" style="float:left;margin-left:10px;">
-		<div id="loginBar">
-			<div style="float:left">
-			<div id="loginLogout">
-		
-		<a href="#" id="sign_in">Login</a> <span style="color:#001133;"></span> <span style="color:grey">|</span> <a style="color:#001333;padding-right:3px" href="/user/newUser.jsp">Join</a>  
-		<div id="sign_box">
-		
-		<form method="post" id="signinForm" action="/information/privacy.jsp">
-		
-					<input type="hidden" name="tab" value="merchandise">
-					
-		
-		<table>
-			<tbody><tr>
-				<td><label for="usr">Username</label></td>
-				<td><input type="text" size="15" id="uid" maxlength="120" name="uid"></td>
-			</tr>
-			<tr>
-				<td><label for="password">Password</label></td>
-				<td><input type="password" id="pwd" size="15" maxlength="20" name="pwd"></td>
-			</tr>
-			<tr>
-			<td colspan="2"><input style="float:left" type="checkbox" value="true" id="persistent" name="persistent"> 
-		<label style="padding-left:3px;padding-bottom:4px;white-space: nowrap" for="persistent">Keep me logged in</label>
-			</td>
-			</tr>
-		</tbody></table>
-		<p style="clear:both;padding-top:5px;padding-bottom:5px">
-		
-		</p>
-		<div style="text-align:center;padding-top:3px;clear:both">
-		<input type="submit" value=" Login">
-		<a href="#" style="color:blue" id="cancelLogin">cancel</a>
-		</div>
-		</form>
-		<p style="padding-top:5px"><a onclick="" href="/password.jsp">Forget your password?</a></p>
-		</div>
-		
-		</div>
-			</div>
-		
+	
+	
+	<div id="headerWrapper">
+		<div id="header">
+			<div id="topBar" style="height:1.5em;font-size:0.9em;text-align:right;margin-bottom:1px;border-bottom:1px solid #344462;color:#f0f0f6;padding:4px;padding-right:5px" class="clear">
+				
+				
+				
+				<a style="color:#f0f0f6;" href="/support.jsp">Support
+				</a> <span style="padding-left:5px;padding-right:5px">|</span><span id="langBox" style="padding-right:5px"> <span class="tipped" data-tipped="langMenu"> <span> <a onclick="return false;" id="lang_in" style="color:#f0f0f6" href="#">English<span style="font-size:smaller">▼</span>
+						</a> </span> </span> <span id="viewBox"> <span style="padding-left:0px;padding-right:5px">|</span> <span class="tipped" data-tipped="viewMenu"> <a onclick="return false;" id="view_in" style="color:#f0f0f6" href="#">View <span style="font-size:smaller">▼</span>
+						</a> </span> </span>
+			</span></div>
 			
+			<noscript>
+				<div class="error">JavaScript is required for this website.
+					Please edit your browser's settings and enable JavaScript to ensure
+					RegattaCentral functions properly</div>
+			</noscript>
+			<div style="height:60px;padding:10px;padding-left:5px;">
+				
+				<div style="float:left">
+					<a href="/" border="0" title="RegattaCentral"><img style="margin-top:0px" src="/images/logo.png" alt="RegattaCentral" border="0">
+					</a>
+				</div>
+				
+				<div id="loginBarWrapper" style="float:left;margin-left:10px;">
+					<div id="loginBar">
+						<div style="float:left">
+							<div id="loginLogout">
+								
+								<a href="#" id="sign_in">Login
+								</a> <span style="color:#001133;"></span> <span style="color:grey">|</span>
+								<a style="color:#001333;padding-right:3px" href="/user/newUser.jsp">Join
+								</a>
+								<div id="sign_box">
+									
+									<form method="post" id="signinForm" action="/information/privacy.jsp">
+										
+										<input type="hidden" name="tab" value="merchandise">
+										
+										
+										<table>
+											<tbody><tr>
+												<td><label for="usr">Username
+												</label>
+												</td>
+												<td><input type="text" size="15" id="uid" maxlength="120" name="uid">
+												</td>
+											</tr>
+											<tr>
+												<td><label for="password">Password
+												</label>
+												</td>
+												<td><input type="password" id="pwd" size="15" maxlength="20" name="pwd">
+												</td>
+											</tr>
+											<tr>
+												<td colspan="2"><input style="float:left" type="checkbox" value="true" id="persistent" name="persistent"> <label style="padding-left:3px;padding-bottom:4px;white-space: nowrap" for="persistent">Keep me logged in
+												</label></td>
+											</tr>
+										</tbody></table>
+										<p style="clear:both;padding-top:5px;padding-bottom:5px">
+										</p>
+										<div style="text-align:center;padding-top:3px;clear:both">
+											<input type="submit" value=" Login"> <a href="#" style="color:blue" id="cancelLogin">cancel</a>
+										</div>
+									</form>
+									<p style="padding-top:5px">
+										<a onclick="" href="/password.jsp">Forget your password?</a>
+									</p>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				<div style="float:left;padding-top:2px;padding-left:10px">
+					<a target="_new" href="http://www.facebook.com/pages/RegattaCentral/65903962694"><img border="0" src="/images/facebook_24.png">
+					</a> <a target="_new" href="http://www.twitter.com/regattacentral"><img border="0" src="/images/twitter_24.png">
+					</a>
+				</div>
+				
+				<div style="float:right">
+					
+					
+					<a style="padding-top:5px" href="/servlet/VendorRedirector?vid=51" target="_new"><img src="/images/ads/rn.gif" title="RowingNews" name="ad" width="468" height="60" border="0" align="absbottom" id="ad">
+					</a>
+					
+					
+				</div>
+			</div>
+			<ul id="css3menu1" class="topmenu">
+				<li class="topfirst"><a href="/" target="_top" title="Home" style="width:62px;height:15px;line-height:15px;">Home
+				</a>
+				</li>
+				<li class="topmenu"><a href="/regattas/" target="_top" title="Regattas" style="width:95px;height:15px;line-height:15px;"><span>Regattas
+					</span>
+				</a> 
+				</li>
+				<li class="topmenu"><a href="/results/" target="_top" title="Results" style="width:82px;height:15px;line-height:15px;"><span>Results
+					</span>
+				</a> 
+				</li>
+				<li class="topmenu"><a href="/clubs/" title="Clubs" style="width:62px;height:15px;line-height:15px;">Clubs
+				</a>
+				</li>
+				<li class="topmenu"><a href="/programs/" target="_top" title="Programs" style="width:103px;height:15px;line-height:15px;">Programs
+				</a>
+				</li>
+				<li class="topmenu"><a href="/ltr/" target="_top" title="Learn-To-Row" style="width:149px;height:15px;line-height:15px;">Learn-To-Row
+				</a>
+				</li>
+				<li class="topmenu"><a href="/camps/" target="_top" title="Camps &amp; Clinics" style="width:166px;height:15px;line-height:15px;">Camps &amp; Clinics
+				</a>
+				</li>
+				<li class="toplast"><a href="/volunteer/" target="_top" title="Volunteer" style="width:106px;height:15px;line-height:15px;">Volunteer
+				</a>
+				</li>
+			</ul>
 		</div>
 	</div>
-	<div style="float:left;padding-top:2px;padding-left:10px">
-			<a target="_new" href="http://www.facebook.com/pages/RegattaCentral/65903962694"><img border="0" src="/images/facebook_24.png"></a>
-			<a target="_new" href="http://www.twitter.com/regattacentral"><img border="0" src="/images/twitter_24.png"></a>
+	<div id="viewMenu" style="display:none">
+		<ul style="font-size:1.2em;margin-left:15px;padding-left:0px">
+			<li id="viewFixed"><a onclick="setFixedWidth();return false;" href="#">Default (1024p)</a>
+			</li>
+			
+			<li id="viewFull"><a onclick="setFullWidth();return false;" href="#">Full Width</a>
+			</li>
+		</ul>
 	</div>
 	
-<div style="float:right">
-
-	
-	<a style="padding-top:5px" href="/servlet/VendorRedirector?vid=56" target="_new"><img src="/images/ads/philasculling.gif" title="Philadelphia Sculling Club" name="ad" width="468" height="60" border="0" align="absbottom" id="ad"></a>
-	
-
-</div> 
-
-</div>
-<ul id="css3menu1" class="topmenu">
-	<li class="topfirst"><a href="/" target="_top" title="Home" style="width:62px;height:15px;line-height:15px;">Home</a></li>
-	<li class="topmenu"><a href="/regattas/" target="_top" title="Regattas" style="width:95px;height:15px;line-height:15px;"><span>Regattas</span></a>
-
-	</li>
-	<li class="topmenu"><a href="/results/" target="_top" title="Results" style="width:82px;height:15px;line-height:15px;"><span>Results</span></a>
-	
-	</li>
-	<li class="topmenu"><a href="/clubs/" title="Clubs" style="width:62px;height:15px;line-height:15px;">Clubs</a></li>
-
-	<li class="topmenu"><a href="/programs/" target="_top" title="Programs" style="width:103px;height:15px;line-height:15px;">Programs</a></li>
-	<li class="topmenu"><a href="/ltr/" target="_top" title="Learn-To-Row" style="width:149px;height:15px;line-height:15px;">Learn-To-Row</a></li>
-	<li class="topmenu"><a href="/camps/" target="_top" title="Camps &amp; Clinics" style="width:166px;height:15px;line-height:15px;">Camps &amp; Clinics</a></li>
-	<li class="toplast"><a href="/volunteer/" target="_top" title="Volunteer" style="width:106px;height:15px;line-height:15px;">Volunteer</a></li>
-</ul>
-</div>
-</div>
-<div id="viewMenu" style="display:none">
-   <ul style="font-size:1.2em;margin-left:15px;padding-left:0px">
-  	<li id="viewFixed"><a onclick="setFixedWidth();return false;" href="#">Default (1024p)</a></li>
-  	
-  	<li id="viewFull"><a onclick="setFullWidth();return false;" href="#">Full Width</a></li>
-  </ul>
-</div>
-
-<div id="langMenu" style="display:none">
-  <ul style="font-size:1.2em;margin-left:15px;padding-left:0px">
-  	<li id="langGerman"><a href="/information/privacy.jsp?lang=de">Deutsch</a></li>
-  	<li id="langEnglish" style="list-style:disc"><a href="/information/privacy.jsp?lang=en">English</a></li>
-  	<li id="langFrench"><a href="/information/privacy.jsp?lang=fr">Français</a></li>
-  </ul>
-</div>
+	<div id="langMenu" style="display:none">
+		<ul style="font-size:1.2em;margin-left:15px;padding-left:0px">
+			<li id="langGerman"><a href="/information/privacy.jsp?lang=de">Deutsch</a>
+			</li>
+			<li id="langEnglish" style="list-style:disc"><a href="/information/privacy.jsp?lang=en">English</a>
+			</li>
+			<li id="langFrench"><a href="/information/privacy.jsp?lang=fr">Français</a>
+			</li>
+		</ul>
+	</div>
 
 
 		<div id="content">
@@ -379,16 +394,17 @@ ul
 	</td>
 	<td align="right">
 		<ul id="footerMenu">
-			<li><a href="../information/about.jsp">About</a></li>
-			<li><a href="../information/privacy.jsp">Privacy Policy</a></li>
-			<li><a href="../information/terms.jsp">Terms &amp; Conditions</a></li>
-			<li><a href="../support.jsp">Help</a></li>
+			<li><a href="/information/about.jsp">About</a></li>
+			<li><a href="/information/privacy.jsp">Privacy Policy</a></li>
+			<li><a href="/information/terms.jsp">Terms &amp; Conditions</a></li>
+			<li><a href="/support.jsp">Help</a></li>
 		</ul>
 	</td>
 	</tr>
 	</tbody></table>
 	</div>
 </div>
+
 
 
 
