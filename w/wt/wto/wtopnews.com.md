@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232411id_/http%3A//www.wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005035231id_/http%3A//www.wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.*
 
 # Privacy Policy - WTOP.com
-
-**Privacy Policy**  
-Updated: April 26, 2011 
 
 **General.** This website (the "Site") is operated by Hubbard Radio, LLC ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted above on this page. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
 
@@ -19,20 +16,14 @@ Updated: April 26, 2011
 
 **Contact Information**. Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to jmeyer@wtop.com. 
 
-[](https://web.archive.org/209/2851475/Shoe-Shopping)
+[](https://web.archive.org/256/3065477/Judgment-Day)
 
-##### [Shoe Shopping](https://web.archive.org/209/2851475/Shoe-Shopping)
+##### [Judgment Day ](https://web.archive.org/256/3065477/Judgment-Day)
 
-America's tallest man seeks shoes and normalcy in Mass.
+Big Bird is endangered, and Jim Lehrer lost control.
 
-[](https://web.archive.org/681/2851356/Toddler-Tartar)
+[](https://web.archive.org/541/3014603/Kiss-Off)
 
-##### [Toddler Tartar](https://web.archive.org/681/2851356/Toddler-Tartar)
+##### [Kiss Off](https://web.archive.org/541/3014603/Kiss-Off)
 
-Tip to zoo visitors: Don't dress like the prey of a hungry predator (Video).
-
-[](https://web.archive.org/220/2851965/Meow-Latte)
-
-##### [Meow Latte ](https://web.archive.org/220/2851965/Meow-Latte)
-
-Want a cat with your coffee? If so, check out Vienna's newest cafe.
+The clock is ticking and the end is near for "Jersey Shore."
