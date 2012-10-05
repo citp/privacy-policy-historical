@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aggressivemall.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604041913id_/http%3A//www.aggressivemall.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aggressivemall.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005093157id_/http%3A//www.aggressivemall.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Aggressivemall - Aggressive Skates, Custom Skates, Parts
+# Terms: Privacy
 
 ****
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20120604041913id_/http%3A//www.aggressivemall.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20121005093157id_/http%3A//www.aggressivemall.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
