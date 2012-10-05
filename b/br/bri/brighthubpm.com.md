@@ -1,100 +1,114 @@
-> *The following text is extracted and transformed from the brighthubpm.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthubpm.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006015129id_/http%3A//www.brighthubpm.com/content/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Bright Hub Project Management - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Effective as of: January 1, 2012**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This is the privacy policy (“Privacy Policy”) for Bright Hub, Inc. (“Bright Hub”, "we", "us" or "our") websites (collectively, "Site"). We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.brighthubpm.com. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## INFORMATION COLLECTION AND USE
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### Personally Identifiable Information
 
-**Information Collection and Use**
+During your interactions with the Site, such as when you register with the Site, Bright Hub may collect personally identifiable information, such as your name, date of birth, postal address, email address, and telephone number. We use this information to validate Site users and facilitate participation in various Bright Hub services as specified on the Site. If we need to contact you regarding the Site, our services, your account or your use of the Site, this information may be used to contact you. If you send us e-mail, we will retain your email and any applicable response in order to handle any follow-up questions you may have and to measure how effectively we address your concerns. Bright Hub retains such personally identifiable information only for as long as is necessary depending on the reason for your submission, and collects no more personally identifiable information than is reasonably necessary to provide you with the services for which such information is collected.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### Non-Personally Identifiable Information
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+To help us enhance and optimize users' overall Site experience, we may collect non-personally identifiable information during your visit. Examples of non-personally-identifiable information may include your Internet access provider, your computer’s Internet protocol (IP) address, your user profile, your browser and operating system, the date and time of your visit, and data based on your use of the Site. Bright Hub collects non-personally-identifiable information in order to, among other things, provide you with or assist in the provision of information through the Site and to maintain the performance of the Site. This data is not associated with any of your personal information and is not shared with any third parties.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+### Disclosure of Information to Third Party Vendors
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Bright Hub may also use third party advertisers and service providers to help present customized content and advertisements on the Site. These providers may use cookies, web beacons, or other similar tools on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. Bright Hub may share certain non-personally identifiable information about you as a Site user with certain advertisers and service providers to help them deliver more relevant content and advertisements through their networks. These nonaffiliated third parties may include, but are not limited to: (i) vendors; (ii) retailers; and (iii) online advertising agencies and direct marketers, including without limitation telemarketers. These parties may compensate us for your information. We may also disclose the information to investors, potential investors, business partners and others. The use of cookies, web beacons, or other similar tools by these advertisers and providers is subject to their own privacy policies, not Bright Hub’s.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+### Consumer Opt-out Choices
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Most browsers are initially set up to accept cookies. Although no personally identifying information is collected by our cookies, if you prefer, you can set your browser to reject cookies, or to reject third party cookies only. If you reject cookies, you may not be able to sign in or use other features of websites that rely on cookies to enable the user experience. If you do not wish to have information about your activities traveling to and from our Site to be collected by our third party partners, you can opt-out of different ad networks below:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Network Advertising Alliance — an association of advertising networks, data exchanges, and marketing analytics services providers provides information to consumers about internet advertising practices. Click [here](http://www.networkadvertising.org/index.asp) to learn more about the practice of collecting and using non-personally identifiable information and the choices you have about these tools.
 
-**Security**
+Advertising Option Program — an online behavioral advertising industry self regulatory program. Click [here](http://www.aboutads.info/choices/)
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Yahoo Analytics — Click [here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html)
 
-**Updating Your Information**
+Google Advertising FAQs and Opt-out — Click [here](http://www.google.com/intl/en/privacy/ads/)
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+DoubleClick Interest-Based Advertising — Click [here](http://www.google.com/intl/en/privacy/ads/)
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## SECURITY
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Encryption
 
-      iii.      You may call us at: (480) 505-8800
+Bright Hub takes extensive precautions to protect our users' information, both online and offline.
 
-       iv.      You may fax us at: (480) 505-8844
+If you submit sensitive personal information through the Site such as credit card information, we have implemented what we believe to be industry-standard robust encryption in order to help us keep your information secure and accurate.
 
-**Sending Emails**
+### Additional Safeguards
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Bright Hub maintains physical, electronic and procedural safeguards to protect the confidentiality and security of any personally identifiable information that you disclose to Bright Hub. Bright Hub utilizes what Bright Hub believes to be industry best security measures to protect personally identifiable information under Bright Hub’s control, and Bright Hub limits access to your personally identifiable information within Bright Hub and Bright Hub’s affiliates to those employees who need to know such personally identifiable information to provide information, services and/or products to you. However, due to the nature of the Internet and computer systems, no transmission of data over the Internet is guaranteed to be completely secure, regardless of Bright Hub’s best intentions. As such, Bright Hub cannot ensure or warrant the security of any personally identifiable information you transmit to Bright Hub.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+### External Links or References
 
-**Compliance with Laws and Law Enforcement**
+The Site may contain links or references to other parties' sites, including sponsors of Bright Hub or Bright Hub’s services. Bright Hub is not responsible for the privacy or other practices of any such outside sites, and Bright Hub expressly disclaims any and all liability related to such sites. We encourage our users to consider this before deciding to visit such outside sites and to read the applicable privacy policies and terms of use of each such site.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## COMMUNICATIONS FROM BRIGHT HUB
 
-**Third Party Service Providers**
+We send all new members a welcome email. From time to time, we will also send email notification, mail or call you to provide you with information concerning updates or enhancements to our service, account issues, or service-related announcements. Generally, you may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## DISCLOSURE OF INFORMATION
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+### Disclosure to Agents of BRIGHT HUB
 
-**Supplementation of Information**
+From time to time, Bright Hub may share the information you provide to Bright Hub, including personally identifiable information, with outside contractors, auditors, consultants, or others hired by Bright Hub to assist in providing financial or operational activities on Bright Hub’s behalf. Bright Hub requires these parties to use such personally identifiable information only for an authorized purpose on behalf of Bright Hub and consistent with this Privacy Policy.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+### Opting In Through Other Venues
 
-**Contests/Surveys**
+Please be advised that if you provide consent and allow Bright Hub to disclose your personally identifiable information through one Bright Hub venue (such as the Site), you will be deemed to have “opted in” through all Bright Hub venues.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+### Legal Proceedings
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law or where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us.
 
-**Tell-A-Friend**
+### Business Transitions
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+In the event Bright Hub goes through a business transition, such as a merger, being acquired by another company, bankruptcy, or selling a portion of its assets, users' personally identifiable information may be part of the assets transferred.
 
-**What Happens to my Personal Information if I Opt Out?**
+## VERIFYING AND UPDATING INFORMATION
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+### Verification
 
-**Transfer of Data Abroad**
+We use outside sources to verify a user's accounting credentials to validate that users access to our system.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+### Correcting/Updating/Deleting/Deactivating Personal Information
 
-**Changes in Our Practices**
+A user may review, request corrections, ask that we delete, or refuse further collection or use of the personally identifiable information Bright Hub collects from such user. Such user may do this by contacting Bright Hub using the contact information provided at the end of this document.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## GENERAL
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+### Privacy Policy Changes
 
-**Contacting Our Site**
+Our Privacy Policy is intended to provide you with a safe and secure experience. We reserve the right to change, modify, add or remove portions of our Privacy Policy at any time without prior notice at our sole discretion. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy, on the Site and other places we deem appropriate. We will use information in accordance with the Privacy Policy under which the information was collected. All Privacy Policy changes are effective immediately upon posting. The last date on which this Privacy Policy has been updated is noted above.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+### Consent to Receive Notices Via the Site
 
-* * *
+Users who register with the Site are agreeing that Bright Hub may deliver all privacy and opt out notices to you in the manners described in this Section (GENERAL).
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+### Web Logs and Other Forums
+
+The Site may offer web logs, web postings, bulletin boards, chat rooms, newsgroups or other forums which permit users to interact online. Any information you transmit online in such forums will be made public and Bright Hub cannot control nor is it responsible for the use any third party may make of such information
+
+## CONTACT INFORMATION
+
+Questions or comments regarding this Privacy Policy should be directed to Bright Hub using the following contact information:
+
+Postal Address:
+
+Privacy Matters c/o Bright Hub, Inc.   
+270 River Street, Suite 405   
+Troy, NY 12180   
+Email: [privacy@brighthub.com](mailto:privacy@brighthub.com)   
+Telephone: +1 (518) 833-0233   
+Fax: +1 (703) 738-1772 
+
+## LIMITATION OF LIABILITY
+
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITION OF THIS PRIVACY POLICY AND BRIGHT HUB Project Management’S [TERMS OF USE](http://www.brighthubpm.com/content/terms/) (INCLUDING ANY INDEMNIFICATION AND LIMITATIONS ON DAMAGES CONTAINED THEREIN).
