@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marutidzire.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630154229id_/http%3A//www.marutidzire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marutidzire.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005170911id_/http%3A//www.marutidzire.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
