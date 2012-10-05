@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531044109id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005020104id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
-# destinationmaternity.com Privacy Policy
+# retailsitesprivacypolicy | Destination Maternity
 
   
 
@@ -9,17 +9,17 @@
 
 ## Your Privacy
 
-We respect your privacy. Our goal is to be your trusted, objective source of information, products and services for all of your maternity and nursing needs. We want you to make the most of our products and services and feel confident while doing so online. We have a clear privacy policy: we collect no private, personal information unless you voluntarily supply it. This privacy statement explains under what circumstances we gather your individually identifiable information, how we use it, and who may access that information. It also provides you the means to “opt-out” of providing personal information that you do not wish to provide and to access, change, or remove any identifying information already collected.
+We respect your privacy. Our goal is to be your trusted, objective source of information, products and services for all of your maternity and nursing needs. We want you to make the most of our products and services and feel confident while doing so online. We have a clear privacy policy: we collect no private, personal information unless you voluntarily supply it. This privacy policy explains under what circumstances we gather your individually identifiable information, how we use it, and who may access that information. It also provides you the means to “opt-out” of providing personal information that you do not wish to provide and to access, or change any identifying information already collected.
 
 We believe that your privacy is of the utmost importance, which is why this statement regarding privacy of personally identifiable information provided online conforms to the Federal Trade Commission’s fair information practices of notice, choice, access, and security. We hope that you will provide comments on how we can improve our privacy policy so that we may better accommodate your needs. Please provide any comments to [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com)[](mailto:ci@destinationmaternity.com).
 
 By using our web site, you consent to the collection and use of information as set forth in this privacy policy, and to our right to amend this privacy policy. All revisions made to this privacy policy will be posted on this page.
 
-**This Privacy Policy applies only to the retail and e-commerce web sites operated by Destination Maternity Corporation. and its affiliates, which include, without limitation,[www.apeainthepod.com](http://www.apeainthepod.com/);  [www.motherhood.com](http://www.motherhood.com/); [www.motherhoodnursing.com](http://www.motherhoodnursing.com/); [www.destinationmaternity.com](http://www.destinationmaternity.com/); [m.destinationmaternity.com](http://m.destinationmaternity.com/);  and/or [www.edamamespa.com](http://www.edamamespa.com/) (the "Retail Web Sites"). **
+**This Privacy Policy applies only to the retail and e-commerce web sites operated by Destination Maternity Corporation and its affiliates, which include, without limitation:[www.apeainthepod.com](http://www.apeainthepod.com/);  [www.motherhood.com](http://www.motherhood.com/); [www.motherhoodnursing.com](http://www.motherhoodnursing.com/); [www.destinationmaternity.com](http://www.destinationmaternity.com/);  [m.destinationmaternity.com](http://m.destinationmaternity.com/);  and [www.edamamespa.com](http://www.edamamespa.com/) (the "Retail Web Sites"). **
 
-**For the Privacy Policy that applies to our corporate informational web site (www.destinationmaternitycorporation.com), please click[here](http://www.destinationmaternitycorporation.com/CorporatePrivacyPolicy2007.asp).**
+**For the Privacy Policy that applies to our corporate informational web site (www.destinationmaternitycorporation.com), please click[here](http://www.destinationmaternitycorporation.com/CorporatePrivacyPolicy.asp).**
 
-**Access to and use of the Retail Web Sites is also governed by our[Terms and Conditions of Use](http://www.destinationmaternity.com/Terms.asp). **
+**Access to and use of the Retail Web Sites is also governed by our[Terms and Conditions of Use](http://www.destinationmaternity.com/TermsandConditions.asp). **
 
 ## Personal Information We Collect Online
 
@@ -27,31 +27,31 @@ When you visit any of the Retail Web Sites, we do not collect any personally ide
 
 No personally identifiable information is transmitted via these cookies. Cookies, by themselves, cannot be used to reveal or discover the identity of the individual user; your acceptance of our cookie will not compromise your anonymity while using our web site. If you choose to reject the cookie, you may still use our web site although certain functions and applications may be disallowed as a result, and you will not benefit from the personalized and enhanced services discussed throughout this policy.
 
-In order to purchase an item from any of the Retail Web Sites, or enter into a sweepstakes sponsored by any of the Retail Web Sites, you will be required to enter certain personal information (e.g. name, address, email address, etc.). In addition, you will be asked to enter certain demographic information (e.g. age, pregnancy related information, etc), however, disclosure of this information is not required to complete a purchase from any of the Retail Web Sites. We encourage you to volunteer such optional information so we may provide a more personalized experience on our web sites and thus deliver greater value to you, our guest. Demographic information is specifically used for purposes of monitoring or improving the use of and satisfaction with the retail Web Sites. Personal information disclosed during a purchase will be utilized to complete your purchase transaction and ship the purchased items to you, and information collected in connection with a sweepstakes will be utilized to contact you in the event you win one of the offered prizes.
+In order to purchase an item from any of the Retail Web Sites, or enter into a sweepstakes sponsored by any of the Retail Web Sites, you will be required to enter certain personal information (e.g. name, address, email address, etc.). In addition, you will be asked to enter certain demographic information (e.g. age, pregnancy related information, etc.); however, disclosure of this information is not required to complete a purchase from any of the Retail Web Sites. We encourage you to volunteer such optional information so we may provide a more personalized experience on our web sites and thus deliver greater value to you, our guest. Demographic information is specifically used for purposes of monitoring or improving the use of and satisfaction with the Retail Web Sites. Personal information disclosed during a purchase will be utilized to complete your purchase transaction and ship the purchased items to you, and information collected in connection with a sweepstakes will be utilized to contact you in the event you win one of the offered prizes.
 
 ## How We Protect Your Information
 
 We are dedicated to the security of your personal information, and take every commercially reasonable precaution to maintain that protection. To prevent unauthorized access or disclosure, maintain data accuracy, and facilitate the appropriate use of information, we use physical, electronic, and managerial procedures to attempt to protect the personal information we collect online. Encryption tools are used when collecting or transferring sensitive information such as name and addresses. Additional database content is protected either by means of a two key encryption algorithm or behind a firewall using security software. Access to the database is limited to our employees who have a legitimate business need to access the personal information contained therein and our contractors and service providers who we require to keep all information to which they have access completely confidential.
 
-If you have any questions about the security at any of our Retail Sites, please contact us by email at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com)[](mailto:ci@destinationmaternity.com). 
+If you have any questions about the security at any of our Retail Web Sites, please contact us by email at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com)[](mailto:ci@destinationmaternity.com). 
 
 ## Our Use of Your Personal Information
 
-In addition to the uses of personal information listed above, we may utilize personal information that you provide to us to contact you regarding products, services, and information we believe you would find useful, and we may also contact you to ask your opinion of various topics that may be of interest to you and/or may help us serve you better. We also may store and use your personal information for our own internal purposes including list management and demographic matching with other internal database information.
+In addition to the uses of personal information listed above, we may utilize personal information that you provide to us to contact you regarding products, services, and information we believe you would find useful, and we may also contact you to ask your opinion on various topics that may be of interest to you and/or may help us serve you better. We also may store and use your personal information for our own internal purposes including list management and demographic matching with other internal database information.
 
 Additionally, composite tracking information generated by cookies for traffic accounting and content analysis may be shared with third parties for the purpose of documenting site activity and other trends. We emphasize that the foregoing statistical information is not linked to any personal information and cannot identify any individual user of our web site.
 
-At times we may also share your personal information with other companies or organizations that have a product or service we believe may be of interest to you or that would like to contact you to ask your opinion of various topics that may be of interest to you and/or may help them serve you better. However, you always have the right to direct us not to share your information with third parties (see “Choice” below).
+At times we may also share your personal information with other companies or organizations that have a product or service we believe may be of interest to you or that would like to contact you to ask your opinion on various topics that may be of interest to you and/or may help them serve you better. However, you always have the right to direct us not to share your information with third parties (see “Choice” below).
 
-Please note that you will not be able to opt out with regard to the collection and disclosure of aggregate information. Such information does not include anything personally identifiable, however, and simply reflects statistical analysis of various aspects of site usage. Also, we reserve the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.
+Please note that you will not be able to opt out with regard to the collection and disclosure of aggregate information. Such information does not include anything personally identifiable, however, and simply reflects statistical analysis of various aspects of web site usage. Also, we reserve the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the web site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.
 
 ## Choice
 
 We believe that choice is one of the most important privacy principles. You have the choice not to submit any personally identifiable information to us (although under such circumstances you would be unable to purchase items from the Retail Web Sites or participate in our contests and sweepstakes). You also may choose to submit only those mandatory fields of data absolutely required for purchases and contest participation. Finally, you may choose to limit the use of or access to your personally identifiable information by requesting that we refrain from sharing all such information with any third parties. You may “opt out” in this way at any time simply by contacting us at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com), or at the address and phone number listed at the end of this privacy policy.
 
-Likewise, should you prefer not to receive email communications from us, we provide a mechanism for opting out of this service by clicking off the box that states “Please include me on the mailing list for special offers and great savings for pregnant women.” Additionally, each email message we send you will clearly state how you may remove your name from the email list. Please note however that requests to remove yourself from our email list may take up to ten business days, and it is possible that in that time you may receive further emails from us. We apologize for any inconvenience this may cause. In addition, despite previously having opted out of receiving emails from us, you may still receive emails regarding sweepstakes sponsored by any of the Retail Web Sites in which you participate.
+Likewise, should you prefer not to receive email communications from us, we provide a mechanism for opting out of this service at the time of data collection. Additionally, each email message we send you will clearly state how you may opt out of receiving emails. Please note however that requests to opt out from our email list may take up to ten business days to process, and it is possible that in that time you may receive further emails from us. We apologize for any inconvenience this may cause. In addition, despite previously having opted out of receiving emails from us, you may still receive emails regarding sweepstakes sponsored by any of the Retail Web Sites in which you participate.
 
-Please note that you will not be able to opt out with regard to the collection and disclosure of aggregate information. Such information does not include anything personally identifiable, however, and simply reflects statistical analysis of various aspects of site usage.
+Please note that you will not be able to opt out with regard to the collection and disclosure of aggregate information. Such information does not include anything personally identifiable, however, and simply reflects statistical analysis of various aspects of web site usage.
 
 In the event that any of the Retail Web Sites is merged with or sold to another company, your personal information will be transferred to the surviving company, who will be bound by the terms of this privacy policy.
 
@@ -61,7 +61,7 @@ We believe that it's especially important to protect children's privacy online a
 
 ## Access and Accuracy
 
-We aim to keep your personally identifiable information as accurate as possible. By contacting us at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com), or at the address or phone number at the end of this Privacy Policy, you may add to, delete, or change any individual information you have provided to us. Should you at any time desire to remove your name from our customer list, you may contact us at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com). After receipt of such a request, we will remove your personal information from our records as soon as commercially reasonable.
+We aim to keep your personally identifiable information as accurate as possible. By contacting us at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com), or at the address or phone number at the end of this privacy policy, you may add to or change any individual information you have provided to us. Should you at any time desire to opt out from receiving communications from us, you may contact us at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com). After receipt of such a request, we will designate your information as “Do Not Contact” as soon as commercially reasonable.
 
 ## Links; Online Discussions
 
@@ -73,4 +73,14 @@ From time to time, it may be necessary for us to change this privacy policy. If 
 
 ## Give Us Your Feedback
 
-Our goal is to protect your privacy. To comment on or help us improve this privacy policy, please contact us by email at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com).
+Our goal is to protect your privacy. To comment on or help us improve this privacy policy, please contact us by email at [ci@destinationmaternity.com](mailto:ci@destinationmaternity.com) or at
+
+Destination Maternity Corporation
+
+Attn: Customer Service
+
+456 North Fifth Street
+
+Philadelphia, Pennsylvania 19123
+
+1 800-4Mom2Be (1 800-466-6223)
