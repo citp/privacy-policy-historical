@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521152053id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005065529id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Delphi Forums
 
 Your privacy is of the utmost importance to Delphi Forums. Because we ask for some basic personal information during registration, we want you to be fully informed of how this information is gathered and used. 
 
@@ -33,7 +33,7 @@ When you register, you are asked to give demographic information (like birth yea
 
    -top-  
   
-**Children’s Online Privacy Protection Act**  
+**Children's Online Privacy Protection Act**  
 No children under 13 are allowed to participate in Delphi Forums. 
 
    -top-  
@@ -70,7 +70,7 @@ Delphi Forums' site has security measures in place to protect the loss, misuse a
    -top-  
   
 **Termination**  
-You can elect to terminate your membership with Delphi Forums at any time. Simply go to your [My Forums](http://forums.delphiforums.com/my-forums) page, select "My Preferences," scroll down to "Account Status," and click the "Close Account" button. Upon termination, your account information will _not_ necessarily be removed entirely from Delphi Forums - this is to reserve your identity so that no one else can create a new account with your membername or email address, and also allows you the privilege of reactivating your account at a later date if you wish to use Delphi Forums again. The termination of your Delphi Forums membership will not automatically terminate any affiliated memberships or registrations you have formed through Delphi Forums. If, after having joined a Delphi partner's service, you wish to be removed, you should contact that service directly to have your membership terminated. 
+You can elect to terminate your membership with Delphi Forums at any time. Simply go to your [My Preferences](http://profiles.delphiforums.com/n/pfx/profile.aspx?webtag=dfpprofile000&nav=myprofile&profilenav=preferences) page, scroll down to Account Status, and click the Close Account button. Upon termination, your account information will _not_ necessarily be removed entirely from Delphi Forums - this is to reserve your identity so that no one else can create a new account with your membername or email address, and also allows you the privilege of reactivating your account at a later date if you wish to use Delphi Forums again. The termination of your Delphi Forums membership will not automatically terminate any affiliated memberships or registrations you have formed through Delphi Forums. If, after having joined a Delphi partner's service, you wish to be removed, you should contact that service directly to have your membership terminated. 
 
    -top-  
   
