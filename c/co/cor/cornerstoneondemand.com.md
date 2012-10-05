@@ -1,80 +1,136 @@
-> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304070702id_/http%3A//www.cornerstoneondemand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005043744id_/http%3A//www.cornerstoneondemand.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CSOD
+# Privacy Policy - Cornerstone OnDemand
 
-## Introduction
+##  Introduction 
 
 * * *
 
-Cornerstone OnDemand considers the protection and management of your personal information to be of the utmost importance. Cornerstone is committed to the highest standards in protecting and safeguarding your right to privacy while using and interacting with our website. This privacy statement is designed to assist you in understanding how we collect, manage, and protect personal information you provide to us, and in making informed decisions when using our website and products. By using this website or providing any personal information using our website, you are agreeing to the collection and use of information in the manner described in this Privacy Policy. As the Cornerstone service offering and privacy/data laws change, so to may this privacy statement.
+Our Privacy Policy is designed to assist you in understanding how we collect and use personally identifiable information ("Personal Information") that you provide to us and to assist you in making informed decisions when using our website and services (collectively, "Cornerstone" or "Website"). We will not use or share your Personal Information with anyone except as described in this Privacy Policy. 
 
-## Data Collection Overview: What Information Do We Collect?
+Our company is certified to the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-Visitors to the Cornerstone website may provide us with two types of information: Personal information, such as your name, address, e-mail address, etc; and general web usage information, such as your browser type, domain name, etc.
+By visiting or using any part of this Website, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Website, this Privacy Policy may change, so please check this web page for updates to our Privacy Policy. Further, this Privacy Policy is incorporated into, and is a part of, this Website's Terms of Use agreement, which also governs your use of this Website.
 
-In addition, users of Cornerstone's applications may also provide information relating to your training and performance, including data related to your certifications, competencies and job performance.
+##  Collection of Information 
 
-## Personal Information
+When you visit our Website we may collect information regarding your visit from your computer. Such information helps us to determine information about how you found our Website, the date that you visited our Website and search engines that may have led you to our Website. We collect this information in order to continually improve and enhance the functionality of Cornerstone. 
 
-Cornerstone asks for personal information from you when you become a registered user of the Cornerstone website. You are required to register and receive a logon name to be able to access and use certain features of the Cornerstone site. We also request certain other optional information that will enable us to provide you with a more personalized experience when using the Cornerstone site. We will let you know what information is optional, and you decide whether or not you want to provide that information or to receive newsletters or third party correspondence. 
+Generally, you may provide us with two types of information, User Provided Information and Website Usage Information, both of which are discussed in greater detail below. 
 
-Also, if you choose to send us personal correspondence, such as e-mails or letters, we may keep a record of that correspondence. We also periodically ask users for feedback that we use to improve our service and products and add new features. If you respond to these requests, we may keep a record of your response.
+##  Personal Information You Choose to Provide 
 
-## General Information
+In order to make your visits to our Website as enjoyable as possible, we may ask you for Personal Information. Personal Information includes, for example, your name and email address, both of which you may be asked to provide when registering with Cornerstone. Below is a description of some of the ways that you may provide Personal Information to us, as well as further details on how we may use such Personal Information.
 
-In the course of routine visits to our website, the Cornerstone web server software gathers in log files, general demographic information from all users of our websites. For each visitor, our web server automatically recognizes the visitor's domain name, browser type, operating system, referring domains, entry page, exit page, and average time on the Web site. This information is used in the aggregate for internal purposes only.
+##  1\. Contact Us/Feedback 
 
-## Training and Performance Information
+If you email us through a [contact us](http://www.cornerstoneondemand.com/contact-us) link on our Website, we may ask you for information such as your name and email address so we can respond to your questions and comments. If you choose to correspond with us via email, we may retain the content of your email messages, your email address and our response to you. In certain cases, and with your permission, we may post content from your emails to us on the Website.
 
-Through the use of Cornerstone's applications, users may be asked to provide information on themselves, their managers and their subordinates related to their training, performance or career development. Depending on how your organization utilizes the applications, this information may be optional or required, and you may or may not have access to the information based on permissions set by your organization's administrators. For example, you typically would not have access to information your manager provides about you during a succession planning process.
+##  2\. Questionnaires and Surveys 
 
-## Data Usage: How Do We Use the Information That You Provide to Us?
+We may occasionally ask viewers of our Website to complete online surveys and opinion polls about their activities, attitudes and interests. These surveys help us better serve you and improve the usefulness of Cornerstone. In requesting your participation in these surveys we may ask you to provide you name and email address to us.
 
-Cornerstone uses the personal information it collects for purposes of administering our business activities, providing customer service, and making available other products and services to our customers and prospective customers. We use the personal information you give us to provide you with up-to-date information about Cornerstone's products and services. Occasionally, we may also use the information we collect to notify you about important changes to our website, and new services and special offers we think you will find valuable.
+##  3\. Bulletin Boards 
 
-Cornerstone does not sell, trade, or rent your personal information to others. In the future, we may choose to do so with trustworthy third parties if you consent to receiving newsletters, correspondence and e-mails from third parties on the registration page on our website.
+Our Website may offer its users the opportunity to use bulletin board blogs, chat rooms, and engage in discussions with other users. If you choose to use these features, you should be aware that any Personal Information you submit through these features can be read, collected, or used by other viewers of these forums and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in these forums. 
 
-## What are Cookies?
+##  1\. Cookies 
 
-Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a Web site. A cookie is a chunk of data that is sent to your browser from a web server and stored by your browser on the hard drive of your computer. Your browser settings must be set to accept cookies before you can login or customize. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them.
+When visiting Cornerstone, we may use "cookies" on or in connection with our Website to maintain information about you. A cookie is a very small text document, which often includes an anonymous unique identifier. Cornerstone employs the use of both "session" cookies and "persistent" cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser.
 
-Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that website by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from webpage to webpage and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
+When you visit our Website, our computer may ask your computer for permission to employ the use of a session or persistent cookie. Our Website will then send a cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits our Website to access the cookies it has already sent to you and not the cookies sent to you by other websites. 
 
-## How Do We Use Information We Collect From Cookies?
+Most web browsers can be adjusted to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, our Website or certain areas or features of our Website. 
 
-Cornerstone uses cookies to find your name and account information when you log in to our website so that you can access your personal account information. When you log in, a cookie is set, and when you sign-out, the cookie is modified. Cookies can also be used to estimate the number of registered and unregistered users who visit our website. We can also take advantage of cookies to measure the number of visitors to various pages of our website. All of this information helps us to design and arrange our web pages in the most user-friendly manner and to continually improve our website to better meet the needs of our visitors and customers.
+##  2\. Clear GIFs 
 
-## Protecting Your Information
+When visiting Cornerstone, we may also use "Clear GIFs" (aka "web beacons" or "pixel tags") or similar technologies in our Website and/or in our communications with you. A Clear GIF is typically a one-pixel, transparent image located on a web page or in an e-mail or other type of message, which helps us to verify an individual's viewing or receipt of a web page or message. Clear GIFs allow us to know whether you have viewed a web page prior to visiting our Website and may enable us to relate such information to other information, including your Personal Information. We use information provided from Clear GIFs to enable more accurate reporting, improve the effectiveness of our marketing, and make Cornerstone better for our users. 
 
-Information Security - When appropriate, we utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
+##  3\. IP Address and Clickstream Data 
 
-Evaluation of Information Protection Practices - Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
+Our servers automatically collect data about your Internet Protocol address when you visit us. When you request pages from our Website, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another website or a search engine); the pages you visit on this Website; the website you visit after this Website; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Website or a referral website; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our servers and to administer our Website. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We may also link this information with Personal Information. 
 
-Access and Correct Your Information - You may request access to all your personally identifiable information that we collect online and maintain in our database by e-mailing: [info@cornerstoneondemand.com](mailto:info@cornerstoneondemand.com)
+Any or all of these activities with regard to the above-described Website Usage Information may be performed on our behalf by our third-party service providers. (See Sharing Information with Third Parties section below. 
 
-Disclosure of Information to Outside Parties - We may provide aggregate information about our customers, sales, Web site traffic patterns and related website information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy. For our consumer websites, should you not wish to have your personal information shared with an Outside Party, you may opt-out by sending an email with the words "Opt-Out Request" in the subject line to [info@cornerstoneondemand.com](mailto:info@cornerstoneondemand.com). Personal information obtained by us through our corporate websites is not shared with Outside Parties.
+##  Rights to Out In/Opt Out 
 
-Legally Compelled Disclosure of Information - We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+You have the right to "opt in" and/or "opt out" of certain of our uses of your Personal Information. For example, if you are prompted to provide Personal Information on this Website or in connection with our communications to you, you may have the opportunity to elect whether you would like to receive such correspondence from us. You may opt out of Cornerstone's promotional e-mails by clicking on the opt-out or "unsubscribe" link within the email you receive. You can also make this request by sending an email to [info@csod.com](mailto:info@csod.com), specifying whether: (i) you would like to opt out of receiving promotional correspondence from Cornerstone in general, or just via e-mail, postal mail and/or by phone, and/or whether (ii) you would only like to opt out of certain of Cornerstone's e-newsletters or correspondence. 
 
-Websites Linked to Cornerstone - We are not responsible for the practices employed by websites linked to or from our website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our website. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites that have a link to our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. 
 
-## Your Consent
+##  Use and Disclosure of Personal Information 
 
-By using our website you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+We will use your Personal Information for various purposes, including, for example, to respond to your requests and to provide you with our product and service offerings. We may also use your Personal Information to maintain our internal record keeping. We may match information collected from you through different means or at different times, including both Personal Information and Website Usage Information, and use such information along with information obtained from other sources, including (without limitation) any of our other websites and third parties. In addition, we may send you notices (for example, in the form of emails, mailings, and the like), and otherwise correspond with you, about products, services, companies, events, sponsored by us and others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the Rights to Opt In/Opt Out section above. 
 
-## Safe Harbor 
+In addition, we may analyze user behavior as a measure of interest in, and use of, our Website and emails, both on an individual basis and in the aggregate. Cornerstone will not share, rent or sell your Personal Information to other parties. 
 
-Cornerstone adheres to the "safe harbor" framework that resulted from the European Commission's Directive on Data Protection. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor "www.export.gov/safeharbor").
+##  1\. Service Providers 
 
-## Opt Out
+We may use third-party partners to help us operate and maintain our Website and deliver our products and services. We may also share your information with our service providers and other third parties ("Affiliated Parties") that provide products or services for or through this Website or for our business (such as website or database hosting companies, address list hosting companies, communications providers, email service providers, analytics companies, distribution companies, fulfillment companies, credit card processing companies and other similar service providers that use such information on our behalf). 
 
-If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, then you may simply follow the opt-out procedure specified in such e-mail. In the case of our enterprise applications, please note that email reminders and similar notifications may be configured by your administrators and are not controlled by Cornerstone. Cornerstone provides the following choices for electing not to receive communications from us: Send an email request to [info@cornerstoneondemand.com](mailto:info@cornerstoneondemand.com).
+Third-party service providers are contractually restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements.  
+ 
 
-## Send your request via mail to the following postal address:
+##  2\. Aggregate Statistics 
+
+We may disclose non-personally identifiable aggregate statistics regarding user behavior as a measure of interest in, and use of, our Website and emails to third parties in the form of aggregate data, such as overall patterns or demographic reports, which do not describe or identify any individual user. Information relating to aggregate statistics will be collected through the use of third-party cookies and other third party tracking devices. 
+
+##  3\. Legally Compelled Disclosures 
+
+**We may disclose your Personal Information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with a judicial or court order or comply with legal process served on us or Affiliated Parties; (b) protect and defend our rights and property, the Website, the users of the Website, and/or our Affiliated Parties; or (c) act under circumstances to protect the safety of users of our Website, us, or third parties.**
+
+##  4\. Business Transfer 
+
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided through this Website in a manner that is consistent with this Privacy Statement. If this occurs, we will notify you as described in "Updates to our Privacy Statement." 
+
+##  5\. "Tell a Friend" Feature 
+
+If you choose to use our "Tell a Friend" referral service on our Website, we will ask you to provide your friend's name and email address. After submitting this information, we will automatically send your friend an email inviting him or her to visit Cornerstone, as well as one follow up email reminder. We do not store this information after submitting a request. Your friend may contact us at [info@csod.com](mailto:info@csod.com) to request that we remove his or her information from our database. 
+
+**Consent to Worldwide Transfer and Processing of Personal Data (applies unless otherwise agreed in writing between you or your organization and Cornerstone)**
+
+By providing Personal Information to us through this Website, you agree that it may be used by us and our Affiliated Parties for the purposes described herein and you further understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories, which may have different privacy laws from your country of residence and which may afford varying levels of protection for your Personal Information. Regardless of the laws in place in these countries, we will treat the privacy of your information in accordance with this Privacy Policy. **By providing your Personal Information to this Website, you consent to our transmission to, and processing of, your information in any jurisdiction in accordance with this Privacy Policy.**
+
+##  Your Access and Correction Rights 
+
+If you choose to use our "Tell a Friend" referral service on our Website, we will ask you to provide your friend's name and email address. After submitting this information, we will automatically send your friend an email inviting him or her to visit Cornerstone, as well as one follow up email reminder. We do not store this information after submitting a request. Your friend may contact us at [info@csod.com](mailto:info@csod.com) to request that we remove his or her information from our database. 
+
+##  Third-Party Websites 
+
+When you are on this Website you may have the opportunity to visit, or link to, other websites, including other websites operated by us or by unaffiliated third parties. These websites may collect Personal Information about you, and because this Privacy Policy does not address the information practices of those other websites, you should review the privacy policies of such other websites to see how they treat your Personal Information. 
+
+##  Privacy of Minors 
+
+This Website is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on our Website. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Website, we will delete the information from our records. 
+
+##  Security 
+
+We use commercially reasonable and industry standard physical, managerial and technical safeguards to preserve the integrity and security of your Personal Information. We also use Secure Sockets Layer (SSL) encryption to transmit sensitive information. While we endeavor to protect the security and integrity of sensitive Personal Information provided to this Website, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. 
+
+If you contact us by email or a "contact us" or similar feature on the Website, you should be aware that your transmission might not be secure. An unaffiliated third party could view information you send by these methods in transit. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. **You consent to our use of email as a means of such notification. If you prefer for us to use another method to notify you in this situation, please email us at[info@csod.com](mailto:info@csod.com) with the alternative contact information you wish to be used.**
+
+##  Updates to Our Privacy Statement 
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our online information practices. We will post a prominent notice on this Website to notify you of any significant changes to our Privacy Statement and indicate at the top of the statement when it was most recently updated.  
+ 
+
+##  Conditions of Use 
+
+If you choose to visit www.csod.com, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use Agreement, including limitations on damages, arbitration of disputes and application of the law of the State of California.  
+ 
+
+##  Language 
+
+The governing language of this Privacy Policy is English, which shall prevail over any other language used in any translated document.  
+ 
+
+##  Contact Us 
+
+If you have any questions or comments about this Privacy Policy, or if you would like to review, delete or update information we have about you or your preferences, please contact us at the following address: 
 
 Cornerstone OnDemand  
 Attn: Corporate Marketing  
 1601 Cloverfield Blvd. Suite 620 South  
 Santa Monica, CA 90404 
-
-Bookmark/Search this post with: 
