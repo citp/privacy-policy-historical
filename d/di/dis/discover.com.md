@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221912id_/https%3A//www.discover.com/credit-cards/help-center/account/privacy-policies/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005115403id_/https%3A//www.discover.com/credit-cards/help-center/account/privacy-policies/index.html) for the most accurate reproduction.*
 
-# Privacy Policies - Providing You With Peace of Mind :: Discover Financial Services
+# Discover Card Privacy Policy | Discover Card
 
 Rev. 8/11
 
