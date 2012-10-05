@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newfaces.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509235330id_/http%3A//www.newfaces.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newfaces.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005092454id_/http%3A//www.newfaces.com/privacy.html) for the most accurate reproduction.*
 
 # NEW FACES MODELS, FREE MODEL PORTFOLIOS & MODELING PICTURES & MODELING AGENCIES
 
