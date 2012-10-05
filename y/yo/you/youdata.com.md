@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youdata.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311123555id_/http%3A//www.youdata.com/documentation/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youdata.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005130736id_/http%3A//www.youdata.com/documentation/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # YouData - About YouData
 
