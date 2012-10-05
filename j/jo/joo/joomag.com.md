@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the joomag.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510214352id_/http%3A//www.joomag.com/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomag.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005130007id_/http%3A//www.joomag.com/en/Privacy) for the most accurate reproduction.*
 
 # Joomag - Privacy Policy
-
-JOOMAG'S PRIVACY NOTICE
-
-* * *
 
 **_Updated as of December 20, 2009_**
 
