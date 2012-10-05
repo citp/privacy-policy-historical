@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankwithsterling.com privacy policy that was archived on 2012-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515140022id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankwithsterling.com privacy policy that was archived on 2012-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005124840id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="text/javascript" http-equiv="Content-Script-Type"><meta content="text/css" http-equiv="Content-Style-Type"><meta id="MetaDescription" name="DESCRIPTION" content="Sterling Bank’s Privacy Policy."><meta id="MetaKeywords" name="KEYWORDS" content="Sterling Bank"><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2009 by DotNetNuke Corporation"><meta id="MetaAuthor" name="AUTHOR" content="Sterling Bank"><meta name="RESOURCE-TYPE" content="DOCUMENT"><meta name="DISTRIBUTION" content="GLOBAL"><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><meta name="REVISIT-AFTER" content="1 DAYS"><meta name="RATING" content="GENERAL"><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)"><style id="StylePlaceholder" type="text/css"></style><link rel="SHORTCUT ICON" href="/Portals/SterlingBank/favicon.ico"><script type="text/javascript" src="/Portals/SterlingBank/Skins/SterlingSkin/scripts/jquery.min.js"></script><title>
 	Sterling Bank | Privacy and Security | Privacy Policy
@@ -47,11 +47,11 @@
     <a href="/Home.aspx" title="Home"><img src="/Portals/SterlingBank/Skins/SterlingSkin/skin_parts/../img/global_sterling_logo.jpg" class="logo" width="201" height="40" alt="Sterling Bank"></a>
 
    <!-- DDRmenu v01.02.00 - Menus\Top template --><nav class="nav-banner"><ul class="group">
-    <li><a href="https://bankwithsterling.com/Home.aspx" class="externalLink">Home</a></li>
-    <li><a href="https://bankwithsterling.com/Locations.aspx" class="externalLink">Locations</a></li>
-    <li><a href="https://bankwithsterling.com/CustomerResources.aspx" class="externalLink">Customer Resources</a></li>
-    <li><a href="https://bankwithsterling.com/Careers.aspx" class="externalLink">Careers</a></li>
-    <li><a href="https://bankwithsterling.com/ContactUs.aspx" class="externalLink">Contact Us</a></li>
+    <li><a href="https://bankwithsterling.com/Home.aspx">Home</a></li>
+    <li><a href="https://bankwithsterling.com/Locations.aspx">Locations</a></li>
+    <li><a href="https://bankwithsterling.com/CustomerResources.aspx">Customer Resources</a></li>
+    <li><a href="https://bankwithsterling.com/Careers.aspx">Careers</a></li>
+    <li><a href="https://bankwithsterling.com/ContactUs.aspx">Contact Us</a></li>
   </ul></nav>
 
 	<div class="form-banner">
@@ -69,40 +69,48 @@
 		<div id="form-signin">
 			<select id="account_select" value="#none" class="styled" style="width:200px">
 				<option value="#pib">Personal Online Banking</option>
-				<option value="#bib">Small Business Online Banking</option>
+				<option value="#bib">Small Business Online Banking</option>                
 				<option value="#bnb">Business Net Banking</option>
 				<option value="#cnb">Corporate Net Banking</option>
+                <option value="#bob">Business Online Banking</option>
 			</select>
 			<div id="form-signin-real">
 				<div class="slerror" style="color:#FF0000;">
 				
 				</div>
-				<input type="text" class="form" name="useridCEB" id="useridCEB2" autocapitalize="off" onblur="setField(this, 'Enter User ID');" onfocus="clearField(this, 'Enter User ID');" value="Enter User ID">
-				<input type="hidden" name="userid" value="">
+                <input type="text" class="form" style="display:none;" name="companyidBIB" id="companyidBIB2" autocapitalize="off" onblur="setField(this, 'Enter Company ID');" onfocus="clearField(this, 'Enter Company ID');" value="Enter Company ID">
+				<input maxlength="26" type="text" class="form" name="useridCEB" id="useridCEB2" autocapitalize="off" onblur="setField(this, 'Enter User ID');" onfocus="clearField(this, 'Enter User ID');" value="Enter User ID">				
+                <input type="hidden" name="userid" value="">
 				<input type="hidden" name="password" value="none">
 				<input type="hidden" name="target" value="ceb">
 				<input type="hidden" name="FIORG" value="552">
 				<input type="hidden" name="FIFID" value="325171740">			
-				<div id="pib" class="group login_frame" style="display: block;">
+				<div id="pib" class="group login_frame">
 					<input type="submit" class="button action" value="Sign On" title="Sign On to Personal Online Banking">				  
 					<div class="helper-links">					
 					<a href="https://cibng.ibanking-services.com/cib/themes/cib_enroll/enroll/enroll.jsp?FIORG=552&amp;FIFID=325171740&#10;" target="_blank" class="ssbExternal">Enroll</a> | <a href="/CustomerResources/PasswordHelp.aspx">Help</a> 
 					</div>
 				</div>
-				<div id="bib" class="group login_frame" style="display: none;">
+				<div id="bib" class="group login_frame">
 					<input type="submit" class="button action" value="Sign On" title="Sign On to Small Business Online Banking">
 					<div class="helper-links">			
 					<a href="/utility/ceb/sbob_termsandconditions.aspx" class="frame">Enroll</a> | <a href="/CustomerResources/PasswordHelp.aspx">Help</a>
 					</div>									
 				</div>
-				<div id="bnb" class="group login_frame hide_user_id" style="display: none;">
+                <div id="bob" class="group login_frame has_company_id">
+					<input type="submit" class="button action" value="Sign On" title="Sign On to Business Online Banking">
+					<div class="helper-links">			
+					<a href="https://bankwithsterling.ebanking-services.com/nubi/trace/Enroll.aspx" class="ssbExternal" target="_blank">Enroll</a> | <a href="/docs/beb/demo/signIn/signin_sa.html">Demo</a>
+					</div>								
+				</div>
+				<div id="bnb" class="group login_frame hide_user_id">
 					<input type="submit" class="button action" value="Sign On" title="Sign On to Business Net Banking">		
-					<div class="helper-links">					
-					<a class="frame" href="/utility/bnb/bnbsignup.aspx">Register</a> | <a href="http://www.cmdemo.com/customer_demo/index.html" target="_blank" class="ssbExternal">Demo</a>
-					</div>
+					<!--<a class="genPopUp" href="#bnbReg">Register</a> |--><!--<div class="helper-links">					
+					 <a href="http://www.cmdemo.com/customer_demo/index.html" target="_blank" class="ssbExternal">Demo</a>
+					</div>-->
 				
 				</div>
-				<div id="cnb" class="group login_frame hide_user_id" style="display: none;">
+				<div id="cnb" class="group login_frame hide_user_id">
 					<input type="submit" class="button action" value="Sign On" title="Sign On to Corporate Net Banking">
 					
 				</div>
@@ -116,7 +124,7 @@
 				<optgroup label="Personal">				
 					<option value="https://www.clarkeamerican.com/caccp/catalogview.jsp?exp=P">
 						Order Checks</option>
-					<option value="http://www.directcardaccess.com/dca/html/en/personal/personal.html">
+					<option value="http://www.firstbankcard.com">
 						Personal Visa Login</option>
 					<option value="/Products/Personal/AdditionalServices.aspx">Update ATM Overdraft Protection</option>
 					<option value="/Products/Personal/AdditionalServices.aspx">Update Check Overdraft Protection</option>
@@ -129,6 +137,8 @@
 					<option value="https://www.ezbusinesscardmanagement.com/">Commercial Card Login</option>
 					<option value="https://www.merchante-solutions.com/jsp/secure/b2f/b2flogin.jsp">Merchant Card Services Login</option>
 					<option value="https://www.govone.com/tpp/sterling">mytaxpayer Login</option>
+                    <option value="https://myaccount.iconnect2invest.com/bankr/login.do?webcontext=firstindy">FIFA/PrimeVest Investment Login</option>
+                    <option value="https://secure12.innovestsystems.com/TO4/ExternalAccess/">Trust Account Login</option>
 				</optgroup>
 
 			</select>
@@ -138,9 +148,9 @@
 </header>
 <nav class="nav-primary">
 		<!-- DDRmenu v01.02.00 - Menus\Main template --><nav class="nav-primary"><ul class="group" id="dnn_headerSSB_ddrMenuTop">
-    <li><a href="https://bankwithsterling.com/Products.aspx" class="externalLink">Products</a></li>
-    <li><a href="https://bankwithsterling.com/AboutUs.aspx" class="externalLink">About Us</a></li>
-    <li><a href="https://bankwithsterling.com/Community.aspx" class="externalLink">Community</a></li>
+    <li><a href="https://bankwithsterling.com/Products.aspx">Products</a></li>
+    <li><a href="https://bankwithsterling.com/AboutUs.aspx">About Us</a></li>
+    <li><a href="https://bankwithsterling.com/Community.aspx">Community</a></li>
   </ul></nav>
 	</nav>
 <a id="lnkboxExternalSiteWarning" href="#boxExternalSiteWarning"></a>
@@ -164,7 +174,41 @@
         </div>
     </div>
 </div>
-
+<div style="display:none">
+    <div id="bnbReg">
+        <div style="padding-bottom: 10px;">
+            <strong>Thank you for your interest in Business Net Banking.</strong>
+            <br>
+        </div>
+        <p>
+            Sterling Bank is pleased to announce our new and improved 
+            Online Banking service: Business Online Banking will be 
+            launching to all customers on Tuesday, September 4, 2012. 
+            This enhanced system offers improved usability, new features
+            and expanded functionality. 
+        </p>
+        <p>
+            Customers on <strong>Business Net Banking will be transitioning</strong> 
+            to the new Business Online Banking service after the close
+            of business <strong>on Friday, October 19, 2012</strong>. As a result, 
+            Business Net Banking registration will be unavailable after
+            <strong>August 24, 2012</strong> . 
+        </p>
+        <p>
+            <strong>Questions?</strong>
+            Contact your local Sterling Bank branch or call Customer Care
+            at 800-650-7141, Monday through Friday, 6:00 a.m. to 
+            8:00 p.m. PT and Saturday and Sunday, 8:00 a.m. to 
+            5:00 p.m. PT. You may also e-mail us at 
+            customer.care@bankwithsterling.com.
+        </p>
+        <div>
+            <a href="/utility/bnb/bnbsignup.aspx" class="button extra-pad green frame" style="width: 100px; float: left;
+                margin-top: 0px"><span>Continue</span></a> <a class="genPopUpCancle" style="float: left;
+                    vertical-align: baseline; margin-top: 10px; margin-left: 20px">Cancel</a>
+        </div>
+    </div>
+</div>
 
 
         <div id="dnn_TopPane" class="TopPane DNNEmptyPane">
@@ -175,16 +219,16 @@
 					<tbody><tr>
 						<td id="dnn_LeftPane" valign="top" class="LeftPane">
                         <!-- DDRmenu v01.02.00 - Menus\Left template --><nav class="nav-sidebar"><ul class="group" id="dnn_ddrMenuLeft">
-    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/OnlineSafety.aspx" class="externalLink"><div style="padding-left:0px;">Online Safety</div></a></li>
-    <li class="active"><a href="https://bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx" class="externalLink"><div style="padding-left:0px;">Privacy Policy</div></a><ul>
-        <li><a href="https://bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy/AdditionalInformation.aspx" class="externalLink"><div style="padding-left:10px;">Additional Information</div></a></li>
-        <li><a href="https://bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy/SharingYourPersonalInformation.aspx" class="externalLink"><div style="padding-left:10px;">Sharing Your Personal Information</div></a></li>
+    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/OnlineSafety.aspx"><div style="padding-left:0px;">Online Safety</div></a></li>
+    <li class="active"><a href="https://bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx"><div style="padding-left:0px;">Privacy Policy</div></a><ul>
+        <li><a href="https://bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy/AdditionalInformation.aspx"><div style="padding-left:10px;">Additional Information</div></a></li>
+        <li><a href="https://bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy/SharingYourPersonalInformation.aspx"><div style="padding-left:10px;">Sharing Your Personal Information</div></a></li>
       </ul>
     </li>
-    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/EmailFraud.aspx" class="externalLink"><div style="padding-left:0px;">E-mail Fraud</div></a></li>
-    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/MemberFDIC.aspx" class="externalLink"><div style="padding-left:0px;">Member FDIC </div></a></li>
-    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/IdentityTheft.aspx" class="externalLink"><div style="padding-left:0px;">Identity Theft</div></a></li>
-    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/ReportLostorStolenCard.aspx" class="externalLink"><div style="padding-left:0px;">Report Lost or Stolen Card</div></a></li>
+    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/EmailFraud.aspx"><div style="padding-left:0px;">E-mail Fraud</div></a></li>
+    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/MemberFDIC.aspx"><div style="padding-left:0px;">Member FDIC </div></a></li>
+    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/IdentityTheft.aspx"><div style="padding-left:0px;">Identity Theft</div></a></li>
+    <li><a href="https://bankwithsterling.com/PrivacyandSecurity/ReportLostorStolenCard.aspx"><div style="padding-left:0px;">Report Lost or Stolen Card</div></a></li>
   </ul></nav>
 						</td>
 
@@ -239,6 +283,8 @@
 </div>
 <a name="13682"></a>
 
+<script type="text/javascript" src="/Portals/SterlingBank/Containers/SterlingSkinContainers/Script/jquery.cycle.min.js"></script>
+
 <div class="Standard">
     
     <div id="dnn_ctr13682_ContentPane" class="Content"><!-- Start_Module_13682 --><div id="dnn_ctr13682_ModuleContent" class="LiveWrapperContent">
@@ -249,31 +295,33 @@
     
 </div><a name="13676"></a>
 
+<script type="text/javascript" src="/Portals/SterlingBank/Containers/SterlingSkinContainers/Script/jquery.cycle.min.js"></script>
+
 <div class="Standard">
     
     <div id="dnn_ctr13676_ContentPane" class="Content"><!-- Start_Module_13676 --><div id="dnn_ctr13676_ModuleContent" class="DNN_HTMLContent">
 	<div id="dnn_ctr13676_HtmlModule_lblContent" class="Normal">
-		<table cellspacing="0" cellpadding="0" border="0" class="table-default quarter">
+		<table class="table-default quarter" border="0" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <th style="text-align: left; ">
+            <th style="text-align: left">
             <h3>FACTS</h3>
             </th>
-            <th colspan="2" style="background-color: rgb(247, 247, 247);">
-            <h3>What does Sterling Bank do with your personal information?</h3>
+            <th colspan="2">
+            <h3 style="text-align: left">What does Sterling Savings Bank do with your personal information?</h3>
             </th>
         </tr>
         <tr>
             <td>
             <p><strong>Why?</strong></p>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
+            <td colspan="2">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
         </tr>
         <tr>
             <td>
             <p><strong>What?</strong></p>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">
+            <td colspan="2">
             <p>The types of personal information we collect and share depend on the product or service you have with us. This information can include:<br>
             - Social Security number and income<br>
             - Account balances and payment history<br>
@@ -285,11 +333,11 @@
             <td>
             <p><strong>How?</strong></p>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Sterling Savings Bank chooses to share; and whether you can limit this sharing.</td>
+            <td colspan="2">All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Sterling Savings Bank chooses to share; and whether you can limit this sharing.</td>
         </tr>
     </tbody>
 </table>
-<p style="text-align: left; ">&nbsp;</p>
+<p style="text-align: left">&nbsp;</p>
 	</div>
 
 </div><!-- End_Module_13676 --></div>
@@ -297,20 +345,22 @@
     
 </div><a name="13683"></a>
 
+<script type="text/javascript" src="/Portals/SterlingBank/Containers/SterlingSkinContainers/Script/jquery.cycle.min.js"></script>
+
 <div class="Standard">
     
     <div id="dnn_ctr13683_ContentPane" class="Content"><!-- Start_Module_13683 --><div id="dnn_ctr13683_ModuleContent" class="DNN_HTMLContent">
 	<div id="dnn_ctr13683_HtmlModule_lblContent" class="Normal">
-		<table cellspacing="0" cellpadding="0" border="0" class="table-default quarter center">
+		<table class="table-default quarter center" border="0" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <th>
             <h3>Reasons we can share your personal information</h3>
             </th>
-            <th style="background-color: rgb(247, 247, 247);">
-            <h3>Does Sterling Bank share?</h3>
+            <th>
+            <h3 style="text-align: center">Does Sterling Savings Bank share?</h3>
             </th>
-            <th style="background-color: rgb(238, 238, 238);">
+            <th>
             <h3>Can you limit this sharing?</h3>
             </th>
         </tr>
@@ -318,56 +368,56 @@
             <td>
             <p><strong>For our everyday business purpose -</strong> such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</p>
             </td>
-            <td style="text-align: center; background-color: rgb(247, 247, 247);">Yes</td>
-            <td style="text-align: center; background-color: rgb(238, 238, 238);">No</td>
+            <td style="text-align: center">Yes</td>
+            <td style="text-align: center">No</td>
         </tr>
         <tr>
             <td>
             <p><strong>For our marketing purposes - </strong>to offer our products and services to you</p>
             </td>
-            <td style="text-align: center; background-color: rgb(247, 247, 247);">Yes</td>
-            <td style="text-align: center; background-color: rgb(238, 238, 238);">No</td>
+            <td style="text-align: center">Yes</td>
+            <td style="text-align: center">No</td>
         </tr>
         <tr>
             <td>
             <p><strong>For joint marketing with other financial companies</strong></p>
             </td>
-            <td style="text-align: center; background-color: rgb(247, 247, 247);">Yes</td>
-            <td style="background-color: rgb(238, 238, 238);">
-            <p style="text-align: center; ">No</p>
+            <td style="text-align: center">Yes</td>
+            <td>
+            <p style="text-align: center">No</p>
             </td>
         </tr>
         <tr>
             <td>
             <p><strong>For our affiliates' everyday business purposes -</strong> information about your transactions and experiences</p>
             </td>
-            <td style="text-align: center; background-color: rgb(247, 247, 247);">No</td>
-            <td style="text-align: center; background-color: rgb(238, 238, 238);">&nbsp;We don't share</td>
+            <td style="text-align: center">No</td>
+            <td style="text-align: center">&nbsp;We don't share</td>
         </tr>
         <tr>
             <td>
             <p><strong>For our affiliates' everyday &nbsp;business purposes -</strong> information about your creditworthiness</p>
             </td>
-            <td style="text-align: center; background-color: rgb(247, 247, 247);">No</td>
-            <td style="text-align: center; background-color: rgb(238, 238, 238);">&nbsp;We don't share</td>
+            <td style="text-align: center">No</td>
+            <td style="text-align: center">&nbsp;We don't share</td>
         </tr>
         <tr>
             <td>
             <p><strong>For our affiliates to market to you</strong></p>
             </td>
-            <td style="background-color: rgb(247, 247, 247);">
-            <p style="text-align: center; ">No</p>
+            <td>
+            <p style="text-align: center">No</p>
             </td>
-            <td style="text-align: center; background-color: rgb(238, 238, 238);">&nbsp;We don't share</td>
+            <td style="text-align: center">&nbsp;We don't share</td>
         </tr>
         <tr>
             <td><strong>For non-affiliates to market to you</strong></td>
-            <td style="text-align: center; background-color: rgb(247, 247, 247);">No</td>
-            <td style="text-align: center; background-color: rgb(238, 238, 238);">We don't share</td>
+            <td style="text-align: center">No</td>
+            <td style="text-align: center">We don't share</td>
         </tr>
         <tr>
             <td><strong>Questions?</strong></td>
-            <td style="text-align: center; background-color: rgb(247, 247, 247);" colspan="2">Call toll-free 1-800-772-7791 or visit <a href="https://www.bankwithsterling.com" class="externalLink"><strong>www.bankwithsterling.com</strong></a></td>
+            <td colspan="2" style="text-align: center">Call toll-free 1-800-650-7141 or visit <a href="https://www.bankwithsterling.com"><strong>www.bankwithsterling.com</strong></a></td>
         </tr>
     </tbody>
 </table>
@@ -379,6 +429,8 @@
     
 </div><a name="13799"></a>
 
+<script type="text/javascript" src="/Portals/SterlingBank/Containers/SterlingSkinContainers/Script/jquery.cycle.min.js"></script>
+
 <div class="Standard">
     
     <div id="dnn_ctr13799_ContentPane" class="Content"><!-- Start_Module_13799 --><div id="dnn_ctr13799_ModuleContent" class="DNN_HTMLContent">
@@ -386,13 +438,13 @@
 		<table cellspacing="0" cellpadding="0" border="0" class="table-default quarter">
     <tbody>
         <tr>
-            <th colspan="3" style="text-align: left; ">Who we are</th>
+            <th style="text-align: left; " colspan="3">Who we are</th>
         </tr>
         <tr>
             <td>
             <h3>Who is providing this notice?</h3>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">Sterling Savings Bank and its affiliates including Intervest-Mortgage Investment Company and Mason-McDuffie Financial Corporation. Sterling Savings Bank operates under the following registered trade names: Sterling Bank, First Independent Bank and Sonoma Bank. Sterling Savings Bank operates as Sonoma Bank only in the State of California..</td>
+            <td colspan="2">Sterling Savings Bank and its affiliates including Intervest-Mortgage Investment Company and Mason-McDuffie Financial Corporation. Sterling Savings Bank operates under the following registered trade names: Sterling Bank and Sonoma Bank. Sterling Savings Bank operates as Sonoma Bank only in the State of California..</td>
         </tr>
     </tbody>
 </table>
@@ -402,6 +454,8 @@
     <div class="clear"></div>
     
 </div><a name="13800"></a>
+
+<script type="text/javascript" src="/Portals/SterlingBank/Containers/SterlingSkinContainers/Script/jquery.cycle.min.js"></script>
 
 <div class="Standard">
     
@@ -416,7 +470,7 @@
             <td>
             <h3>How does Sterling Savings Bank protect my personal information?</h3>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">
+            <td colspan="2">
             <p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We restrict access to customer information to employees requiring that information to provide products or services to you. We educate our employees about the importance of confidentiality and customer privacy.</p>
             </td>
         </tr>
@@ -424,7 +478,7 @@
             <td>
             <h3>How does Sterling Savings Bank collect my personal information?</h3>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">
+            <td colspan="2">
             <p>We collect your personal information, for example, when you <br>
             - open an account or deposit money<br>
             - pay your bills or apply for a loan<br>
@@ -436,7 +490,7 @@
             <td>
             <h3>Why can't I limit all sharing?</h3>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">
+            <td colspan="2">
             <p>Federal law gives you the right to limit only<br>
             - sharing for affiliates’ everyday business purposes—information about your creditworthiness<br>
             - affiliates from using your information to market to you<br>
@@ -455,6 +509,8 @@
     
 </div><a name="13801"></a>
 
+<script type="text/javascript" src="/Portals/SterlingBank/Containers/SterlingSkinContainers/Script/jquery.cycle.min.js"></script>
+
 <div class="Standard">
     
     <div id="dnn_ctr13801_ContentPane" class="Content"><!-- Start_Module_13801 --><div id="dnn_ctr13801_ModuleContent" class="DNN_HTMLContent">
@@ -468,21 +524,21 @@
             <td>
             <h3>Affiliates</h3>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">Companies related by common ownership or control. They can be financial and nonfinancial companies.<br>
+            <td colspan="2">Companies related by common ownership or control. They can be financial and nonfinancial companies.<br>
             - <em>Sterling Savings Bank does not share with our affiliates.</em></td>
         </tr>
         <tr>
             <td>
             <h3>Non-affiliates</h3>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">Companies not related by common ownership or control. They can be financial and non-financial companies.<br>
+            <td colspan="2">Companies not related by common ownership or control. They can be financial and non-financial companies.<br>
             &nbsp;<em>- Sterling Savings Bank does not share with non-affiliates so they can market to you.</em></td>
         </tr>
         <tr>
             <td>
             <h3>Joint marketing</h3>
             </td>
-            <td colspan="2" style="background-color: rgb(247, 247, 247);">A formal agreement between non-affiliated financial companies that together market financial products or services to you.<br>
+            <td colspan="2">A formal agreement between non-affiliated financial companies that together market financial products or services to you.<br>
             <em>&nbsp;- Our joint marketing partners include issuer of Sterling's credit card and credit life insurance provider.</em></td>
         </tr>
     </tbody>
@@ -495,7 +551,7 @@
     
 </div><a name="13670"></a><div id="dnn_ctr13670_ContentPane"><!-- Start_Module_13670 --><div id="dnn_ctr13670_ModuleContent" class="LiveWrapperContent">
 	<h3>Other Important Information</h3>
-<p>For Sterling Savings Bank, insurance product customers in Montana: We will safeguard your Customer Information in accordance with the most protective applicable law, whether state or federal.</p>
+<p>For Sterling Savings Bank insurance product customers in Montana: We will safeguard your Customer Information in accordance with the most protective applicable law, whether state or federal.</p>
 <p>For California residents only: California law places additional limits on sharing information about California residents. In accordance with California law, we will not share information we collect about California residents with outside companies, except as permitted by law, such as with the consent of the customer or to service the customer's accounts.</p>
 <p>For Sterling Savings Bank insurance product customers: Pursuant to certain state privacy laws, you may have the right to learn the substance of customer information collected about you and to learn whether the customer information has been disclosed to our affiliates and nonaffiliated third parties within the last two years. If you would like this information, please send your request in writing to: Sterling Savings Bank , 111 N. Wall St., Spokane, WA 99201.</p>
 </div><!-- End_Module_13670 --></div>
@@ -583,11 +639,11 @@
               <ul class="column">
                 <h5><a href="/Products/Personal.aspx" title="Personal Products">Personal Products</a></h5>
                 <li><a href="/Products/Personal/Checking.aspx" title="Checking">Checking</a></li>
-                <li><a href="/Products/Personal/SavingsandCDs.aspx" title="Savings &amp; CDs">Savings &amp; CDs</a></li>
+                <li><a href="/Products/Personal/SavingsCDsandIRAs.aspx" title="Savings, CDs and IRAs">Savings, CDs and IRAs</a></li>
                 <li><a href="/Products/Personal/PrivateBanking.aspx" title="Private Banking">Private Banking</a></li>
                 <li><a href="/Products/Personal/LoansandCreditLines.aspx" title="Loans &amp; Credit Lines">Loans and Credit Lines</a></li>
                 <li><a href="/Products/Personal/LoansandCreditLines.aspx#CreditCards" title="Credit Cards">Credit Cards</a></li>
-                <li><a href="/Products/Personal/RetirementandInvestmentServices.aspx" title="Retirement and Investment Services">Retirement and Investment Services</a></li>
+                <li><a href="/Products/Personal/WealthManagement.aspx" title="Wealth Management">Wealth Management</a></li>
                 <li><a href="/Products/Personal/AdditionalServices.aspx" title="Additional Services">Additional Services</a></li>
               </ul>
 
@@ -678,4 +734,4 @@ Sys.Application.initialize();
                 </script>            
             
 
-<div id="cluetip-waitimage" style="position: absolute; display: none;"></div><div class="hidden_container"><div id="cluetip_content_temp_div"></div></div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+</body></html>
