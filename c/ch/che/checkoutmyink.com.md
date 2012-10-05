@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkoutmyink.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626113948id_/http%3A//www.checkoutmyink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkoutmyink.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005063309id_/http%3A//www.checkoutmyink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Checkoutmyink.com
 
