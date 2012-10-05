@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622022521id_/http%3A//www.insight.org/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005120036id_/http%3A//www.insight.org/general/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
