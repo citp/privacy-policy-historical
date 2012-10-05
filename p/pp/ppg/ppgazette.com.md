@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ppgazette.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609115754id_/http%3A//www.ppgazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppgazette.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006014038id_/http%3A//www.ppgazette.com/privacy.php) for the most accurate reproduction.*
 
-# Printable Grocery Coupons, free online coupons | PPGazette
+# Privacy | PPGazette
 
-PPGazette.com (Company) recognizes online privacy as a valid and important issue. The following Policy outlines what information we collect, how we go about collecting it, under what circumstances the information is shared with third parties, and your choices to determine what communications you receive from us and from our marketing partners. 
+Penny Pincher Gazette (Company) recognizes online privacy as a valid and important issue. The following Policy outlines what information we collect, how we go about collecting it, under what circumstances the information is shared with third parties, and your choices to determine what communications you receive from us and from our marketing partners. 
 
 IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, DO NOT PROVIDE THE COMPANY WITH ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON COMPANY WEB SITES. 
 
@@ -14,7 +14,7 @@ Beginning January 1, 2005, California residents who provide personal information
 
 To opt-out of having your information shared with third parties, send your request, including your full name, email address and postal address to: 
 
-Penny Pincher Gazette, PO Box 303393, Austin, TX 78703
+Penny Pincher Gazette, 213 W. 4th Street Suite 203, Austin, TX 78701
 
 How We Use The Information We Collect 
 
@@ -26,7 +26,7 @@ We request a limited amount of personal information from consumers who participa
 
 Your name, email address, mailing address, birth date, password
 
-THE COMPANY MAY USE THE INFORMATION PROVIDED BY YOU FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANYS SOLE DISCRETION. PLEASE BE ADVISED THAT WE MAY TRANSFER YOUR INFORMATION TO THIRD PARTY ADVERTISERS AND MARKETERS FOR VARIOUS MARKETING PURPOSES, INCLUDING THEIR ON-LINE AND/OR OFF-LINE PROGRAMS OR SERVICES. 
+THE COMPANY MAY USE THE INFORMATION PROVIDED BY YOU FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION. PLEASE BE ADVISED THAT WE MAY TRANSFER YOUR INFORMATION TO THIRD PARTY ADVERTISERS AND MARKETERS FOR VARIOUS MARKETING PURPOSES, INCLUDING THEIR ON-LINE AND/OR OFF-LINE PROGRAMS OR SERVICES. 
 
 By subscribing to the PPGazette.com newsletter, you are consenting to receive commercial e-mail that informs you about new merchandise, sales, special discounts and promotions. If you no longer wish to receive email, follow the instructions at the bottom of every email. 
 
@@ -34,7 +34,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 We use information provided by users of this Web site to enhance their usage of this and similar Web sites. We create internal reports on user demographics and traffic patterns to measure the effectiveness of our marketing campaigns and promotions, and to report results to our marketing partners. We do not use any personally identifiable information to compile these reports. 
 
-Company may disclose your information if it is required to do so by law, or in the good-faith belief that such action is necessary to (i) conform to edicts of law or comply with legal processes; (ii) protect and defend the rights or property of the Companys advertising service, or (iii) act under exigent circumstances to protect the personal safety of any user of the Companys advertising service. 
+Company may disclose your information if it is required to do so by law, or in the good-faith belief that such action is necessary to (i) conform to edicts of law or comply with legal processes; (ii) protect and defend the rights or property of the Company's advertising service, or (iii) act under exigent circumstances to protect the personal safety of any user of the Company's advertising service. 
 
 How We Collect Information 
 
@@ -50,7 +50,7 @@ The Company collects information regarding consumers when a consumer provides in
 
 Cookies 
 
-A cookie is a small text file stored on a users computer for record-keeping purposes. The Company uses cookies to enable users to be routed properly through our site. We also provide links to external advertisers and marketing partner companies; these sites may choose to use cookies to better promote their products and services. 
+A cookie is a small text file stored on a user?s computer for record-keeping purposes. The Company uses cookies to enable users to be routed properly through our site. We also provide links to external advertisers and marketing partner companies; these sites may choose to use cookies to better promote their products and services. 
 
 Our advertisers and marketing partners have their own privacy procedures and policies that are not controlled by the Company. We encourage our users to be aware of the individual privacy policies of every Web site that the user contacts. 
 
@@ -60,24 +60,24 @@ Log files are also used to track and monitor traffic patterns on our site. They 
 
 User Feedback/Inquiries 
 
-Users may contact the Company with feedback, questions or comments or for assistance, either through the Companys customer service department or otherwise. The Company uses this information to respond to the feedback, questions or comments and to provide customer service. 
+Users may contact the Company with feedback, questions or comments or for assistance, either through the Company's customer service department or otherwise. The Company uses this information to respond to the feedback, questions or comments and to provide customer service. 
 
 No Information Collected from Children
 
-We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Childrens Online Privacy Protection Act (COPPA). Per COPPA guidelines, we do not knowingly collect personally identifiable information from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information through any point of contact, we ask to be contacted at Contact Us and we will delete the information about the child referenced from our files. 
+We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act (COPPA). Per COPPA guidelines, we do not knowingly collect personally identifiable information from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information through any point of contact, we ask to be contacted at Contact Us and we will delete the information about the child referenced from our files. 
 
 Delete/Deactivate Policy 
 
 A user may unsubscribe from our electronic mailings by following the instructions that we include at the end of every mailing. To correct, update or request that we delete information you provided, please email us at info@PPGazette.com, or write to us at: 
 
-Penny Pincher Gazette, 9430 Research Blvd. Suite 200, Austin, TX 78759
+Penny Pincher Gazette, 213 W. 4th Street Suite 203, Austin, TX 78701
 
 Notification Of Changes To Privacy Policy 
 
->From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future we will revise this Policy accordingly. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future we will revise this Policy accordingly. If you are concerned about how your information is used, you should check back at our Web site periodically. 
 
 General Security Policy 
 
 The Company attempts to meet and/or exceed standards of online privacy. When you submit information, your information is protected both on-line and off-line in accordance with applicable laws, regulations and industry standards. 
 
-Last revised: June 10, 2008
+Last revised: April 3, 2012
