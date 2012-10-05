@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketingblogonline.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530094047id_/http%3A//marketingblogonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingblogonline.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005141330id_/http%3A//marketingblogonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ Marketingblogonline.com
 
 **[Privacy Policy](http://marketingblogonline.com/privacy-policy "Privacy Policy") for www.marketingblogonline.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at choirultw@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://marketingblogonline.com/contact "contact us") by email at choirultw@gmail.com.
 
 At [www.marketingblogonline.com](http://www.marketingblogonline.com/ "Online Marketing Bloggers"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.marketingblogonline.com and how it is used.
 
@@ -18,7 +18,7 @@ www.marketingblogonline.com does use cookies to store information about visitors
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Widget Bucks, Adbrite, Amazon, .
 
-These third-party ad servers or ad networks use [technology](http://www.debtloanweb.info/ "technology") to the advertisements and [links](http://marketingblogonline.com/links "links") that appear on www.marketingblogonline.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use [technology](http://www.debtloanweb.info/ "technology") to the advertisements and links that appear on www.marketingblogonline.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 www.marketingblogonline.com has no access to or control over these cookies that are used by third-party advertisers.
 
