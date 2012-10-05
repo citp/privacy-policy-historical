@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502001039id_/http%3A//www.investmentu.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005194541id_/http%3A//www.investmentu.com/privacypolicy.html) for the most accurate reproduction.*
 
 # The Investment U Privacy Policy
 
@@ -33,3 +33,11 @@ If at any time you wish to be removed from our mailing list, please [click here]
 If you subscribe to _The Investment U E-Letter_ , your name and e-mail address will be placed in a database. As with all other personal information, only employees of _Investment U_ have access to this data. We do not give _Investment U_ addresses to outside companies.
 
 Any e-mail you send to _Investment U_ is completely confidential. We will not add your name to our e-mail list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
+
+**Unsolicited Email Messages**
+
+Policy against advertising our website using unsolicited email messages
+
+We require that all e-mails promoting InvestmentU.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+
+If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department at: [ **CustomerService@InvestmentUInfo.com**](mailto:CustomerService@InvestmentUInfo.com?subject=). We will immediately investigate all allegations made related to unsolicited messages.
