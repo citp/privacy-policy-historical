@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scarletbits.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419024123id_/http%3A//scarletbits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarletbits.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005065726id_/http%3A//scarletbits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scarletbits
 
