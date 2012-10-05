@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505073850id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005064506id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,10 +24,6 @@ You can correct or update your personal data using the appropriate online form, 
 The RSC takes care to protect the data it collects about site users, using Secure Site License-approved technology where appropriate. Pages that use this technology are flagged with a padlock symbol as shown.  
 
 ### Cookies
-
-The law relating to cookies changed on 26 May 2011. The new rules require that cookies can only be placed on machines where the user has given their consent.
-
-The government's view is that there should be a phased approach to the implementation of these changes. The RSC is working on developing the best methods for obtaining your consent.
 
 A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
 
@@ -61,7 +57,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
 
  ** _Disabling/Enabling Cookies_**. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. 
 
-To find out how to disable/enable cookies, please consult the Help features of your browser.
+To find out how to disable/enable cookies, please see / use the links at the bottom of this page. Unless you adjust your browser setting to disable Cookies in the aforementioned manner, we will issue Cookies when you access and/or log on to our website.
 
 ### Email communications
 
