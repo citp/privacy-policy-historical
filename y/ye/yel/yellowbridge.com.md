@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yellowbridge.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419173140id_/http%3A//www.yellowbridge.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbridge.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005104208id_/http%3A//www.yellowbridge.com/general/privacy.php) for the most accurate reproduction.*
 
 # YellowBridge Privacy Policy
-
-## PRIVACY POLICY
 
 ## Our Commitment To Privacy
 
@@ -28,7 +26,7 @@ We never use or share the personally identifiable information provided to us onl
 
 ## Online Behavioral Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. Some of these ads may place third-party cookies on your computer in order to serve ads based on your prior visits to one or more sites. These companies may use aggregated information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [http://www.networkadvertising.org /managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our website. Some of these ads may place third-party cookies on your computer in order to serve ads based on your prior visits to one or more sites. These companies may use aggregated information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [http://www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Our Commitment to Children's Privacy
 
@@ -36,5 +34,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please send us an email at support@yellowbridge.com.  
-
+Should you have other questions or concerns about these privacy policies, please send us an email at support@yellowbridge.com.
