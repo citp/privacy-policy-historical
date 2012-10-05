@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the songkick.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621195304id_/http%3A//www.songkick.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the songkick.com privacy policy that was archived on 2012-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005135835id_/http%3A//www.songkick.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <title>Privacy Policy | Songkick</title>
@@ -10,16 +10,28 @@
     <meta name="description" content="Songkick allows you to organize and track your favorite bands and track concerts and dates. Get instant tour dates from your music library.">
     <meta property="fb:app_id" content="308540029359">
     
-    <link href="http://www2.sk-static.com/stylesheets/bundles/info-privacy.min.9494d7b.css" media="screen,projection" rel="stylesheet" type="text/css">
+      <meta name="apple-itunes-app" content="app-id=438690886">
+    
+    
+    <link href="http://www1.sk-static.com/stylesheets/bundles/info-privacy.min.bcc6bb8.css" media="screen,projection" rel="stylesheet" type="text/css">
     
     <!--[if IE 7]>
-      <link href="http://www1.sk-static.com/stylesheets/bundles/info-privacy-ie7.min.7f520d0.css" media="screen,projection" rel="stylesheet" type="text/css" />
+      <link href="http://www1.sk-static.com/stylesheets/bundles/info-privacy-ie7.min.e8bcb84.css" media="screen,projection" rel="stylesheet" type="text/css" />
     <![endif]-->
     <!--[if IE 8]>
-      <link href="http://www2.sk-static.com/stylesheets/bundles/info-privacy-ie8.min.8b4bb50.css" media="screen,projection" rel="stylesheet" type="text/css" />
+      <link href="http://www2.sk-static.com/stylesheets/bundles/info-privacy-ie8.min.aee8d4f.css" media="screen,projection" rel="stylesheet" type="text/css" />
     <![endif]-->
     <script>
-    SK_ASSET_HOST  = "http://www1.sk-static.com";
+      window.onerror = function(errorMessage, url, line) {
+      var loggerUrl = "http://d3633l6m214e44.cloudfront.net/skweb-jserrors.png";
+      var parameters = "?description=" + escape(errorMessage)
+          + "&amp;url=" + escape(url)
+          + "&amp;line=" + escape(line)
+          + "&amp;parent_url=" + escape(document.location.href)
+          + "&amp;user_agent=" + escape(navigator.userAgent);
+      new Image().src = loggerUrl + parameters;
+      };
+      SK_ASSET_HOST  = "http://www1.sk-static.com";
     </script>
     
   </head>
@@ -54,15 +66,16 @@
   <ul>
         <li class="meta">
           
-            <a href="http://tourbox.songkick.com/" class="traking-button">Sign up as an artist</a>
+            <a href="http://tourbox.songkick.com/?utm_medium=referral&amp;utm_source=songkick.com&amp;utm_campaign=visitor" class="traking-button">Sign up as an artist</a>
           
         </li><li class="nav home">
       <a href="/">Home</a>
-    </li><li class="nav events">
+    </li><li class="nav">
       
-        <a href="/metro_areas/54536-us-amityville">amityville concerts</a>
-        <span class="change"><a href="/session/filter_metro_area" rel="modal">(Change&nbsp;location)</a></span>
+        <a href="/metro_areas/26330-us-sf-bay-area">SF Bay Area concerts</a>
       
+    </li><li class="nav">
+       <a href="/session/filter_metro_area">Change&nbsp;location</a>
     </li>
   </ul>
   
@@ -165,6 +178,7 @@
   <ul>
     <li><a href="http://help.songkick.com/">Help &amp; FAQ</a></li>
     <li><a href="/info/guidelines">Community guidelines</a></li>
+    <li><a href="/press">Press</a></li>
     <li><a href="/info/terms">Terms of use</a></li>
     <li><a href="/info/privacy">Privacy policy</a></li>
   </ul>
@@ -196,35 +210,39 @@
       </li>
     </ul>
   </div>
-
-  <p><span class="lastfm-related-artists">Similar artists powered by <a href="http://www.last.fm/" target="_blank"><img src="http://www2.sk-static.com/images/nw/components/footer/lastfm.png" width="58" height="15" alt="last.fm"></a></span> Copyright © 2012 Songkick.com, Inc. All rights reserved.</p>
+  
+    <p><span class="lastfm-related-artists">Similar artists powered by <a href="http://www.last.fm/" target="_blank"><img src="http://www2.sk-static.com/images/nw/components/footer/lastfm.png" width="58" height="15" alt="last.fm"></a></span> Copyright © 2012 Songkick.com, Inc. All rights reserved.</p>
+  
 </div>
 
     
   <div class="sticky-footer component">
 
-    <form action="/session/create" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="9ada3d62dbe936858ae7dbc2dbc389a1baf3b5d8"></div>
+    <form action="https://www.songkick.com/session/create" class="facebook-connect" data-require-facebook="true" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="2023124c41c83206a85447745c4398e0fb2a8363"></div>
       <p class="facebook">
       Track your favorite artists and never miss them live.
       <input type="hidden" name="sticky_footer" value="logged_out_sticky_footer">
-      <input type="submit" value="Sign up" class="cssbutton facebook-connect" data-success-url="/info/privacy" data-require-facebook="true">
+      <input type="hidden" name="success_url" value="/info/privacy">
+      <input type="submit" value="Sign up" class="cssbutton">
     </p>
     </form>
 
     <a class="close"><img src="http://www2.sk-static.com/images/nw/components/sticky-footer/close.png" alt="close" height="14" width="15"></a>
   </div>
 
+
     <div id="fb-root"></div>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-<script src="http://www1.sk-static.com/javascripts/bundles/manifests.min.aa66a3f.js" type="text/javascript"></script>
-<script src="http://www2.sk-static.com/javascripts/bundles/app.min.c7292b4.js" type="text/javascript"></script>
+<script src="http://www1.sk-static.com/javascripts/bundles/manifests.min.99bfaf9.js" type="text/javascript"></script>
+<script src="http://www2.sk-static.com/javascripts/bundles/app.min.28a2a77.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
   SK = typeof(SK) == 'undefined' ? {} : SK;
   SK.logged_in_user = {
-    id:null
+    id:null,
+    analyticsUserType: 'visitor'
   }
 
   JS.require("twttr");
@@ -236,7 +254,7 @@
       {events: Songkick.EventBus}
     );
   });
-  Songkick.FORM_AUTHENTICITY_TOKEN = "9ada3d62dbe936858ae7dbc2dbc389a1baf3b5d8";
+  Songkick.FORM_AUTHENTICITY_TOKEN = "2023124c41c83206a85447745c4398e0fb2a8363";
   Songkick.EventBus.trigger('app:initialize', {events: Songkick.EventBus});
 </script>
 
