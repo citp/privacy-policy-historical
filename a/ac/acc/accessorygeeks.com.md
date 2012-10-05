@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624153912id_/http%3A//www.accessorygeeks.com/about.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005062331id_/http%3A//www.accessorygeeks.com/about.html) for the most accurate reproduction.*
 
 # About Us - Free Shipping.
 
@@ -24,7 +24,7 @@ Need help with a product or have a concern? You don't need a Bat-signal to call 
 
 **What makes her A Geek?**
 
-This month’s Featured Geek is outgoing, funny, and all around awesome.  Ana exemplifies what customer service should be, and stays true to the Geek values!  She is sincerely enthusiastic with customers, embraces changes with new items, and communicates openly within the office to make sure the customer has the best shopping experience. Ana always shows up to work with a fantastic attitude and a wonderful work ethic.  In between helping customers you might catch her joking around, or snacking on some cheese or Nutella.  Whether it’s taking care of her kids, or taking care of the customers, Ana always has a smile on her face and pep in her step.  AccessoryGeeks is delighted to have such a hardworking, outgoing individual on their team.
+Sienna makes being a Geek look good. Her great taste in fashion and bright smile break down the common stereotype associated with being a Geek. Not only does Sienna shine on the outside, she’s got brains to boot, killer ideas, and great organizational skills. Sienna will lend a hand without being asked, provide delicious snacks for the entire office, and even have happy hour for us! Sienna always works together to succeed and embraces changes as they come. She is an all around wonderful person and the Geeks are extremely fortunate to have her on our team.
 
 |  |   
 |   
