@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eskhosting.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623082756id_/http%3A//www.eskhosting.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eskhosting.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005141021id_/http%3A//www.eskhosting.com/policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
