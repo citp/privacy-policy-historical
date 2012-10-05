@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516061321id_/http%3A//www.geron.org/component/content/article/380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005140804id_/http%3A//www.geron.org/component/content/article/380) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -15,13 +15,13 @@ Our postal address is:
 Suite 901  
 Washington, D.C. 20005
 
-We can be reached via our [Contact Us](https://www.geron.org/About%20Us/Contact%20Us) form or you can reach us by telephone at 202-842-1275.
+We can be reached via our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form or you can reach us by telephone at 202-842-1275.
 
 GSA will ensure all email promotional announcements contain a marketing-specific subject line, concise promotional copy, accurate reply instructions, appropriate legal disclaimers, and unsubscribe instructions. 
 
 GSA will honor in a timely manner all "unsubscribe" requests by properly coding the database. GSA will not share, rent, or sell member email list to other parties for the purposes of promoting outside products or services or for any reason whatsoever. 
 
-GSA makes its membership list available for rental for one-time use to other associations or companies that have products or services that we deem to be of interest to our members. Additionally, GSA will make its conference attendee list available to exhibiting companies for one-time use. If you are a GSA member or conference attendee and do not wish to have your name included in these rented lists, please contact us through our [Contact Us](https://www.geron.org/About%20Us/Contact%20Us) form with your request. 
+GSA makes its membership list available for rental for one-time use to other associations or companies that have products or services that we deem to be of interest to our members. Additionally, GSA will make its conference attendee list available to exhibiting companies for one-time use. If you are a GSA member or conference attendee and do not wish to have your name included in these rented lists, please contact us through our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form with your request. 
 
 For each visitor to our site, our Web server automatically recognizes the consumer's domain name and email address (where possible). We collect the email addresses of those who post messages to our listserv; communicate with us via email;  post to our chat areas; volunteer information during surveys and/or site registrations, and submit payment information (e.g., credit card number and billing address). Data collected is used to track the areas of our site that are most frequently visited to help us continuously improve this site. In addition, this data can help diagnose problems with our server.
 
@@ -41,15 +41,15 @@ Cookies are files that contain information created by a web server that can be s
 
 Moreover, GSA may use a cookie to store a unique user ID in our system. Any such cookie will not collect personal information, cannot read data off your disk, and cannot read cookie files that were created by other websites.
 
-You may remove yourself from a distribution list by following the procedures provided when you subscribed, following the unsubscribe directions in the email, or contacting us through our [Contact Us](https://www.geron.org/About%20Us/Contact%20Us) form.
+You may remove yourself from a distribution list by following the procedures provided when you subscribed, following the unsubscribe directions in the email, or contacting us through our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form.
 
 This website has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as “perfect security” on the Internet, we will take reasonable steps to insure the safety of your personal information.
 
 This site contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our members and visitors to be aware when they leave our site, and to read the privacy statement of any linked site.
 
-Upon request, we provide site visitors with access to information that we have collected and that we maintain about them. GSA members can review and modify their profile using the [Update Member Profile Form](https://www.geron.org/Membership/Update%20Member%20Profile). All other user can request to review their personal information collected by this site, please contact our webmaster using our [Contact Us](https://www.geron.org/About%20Us/Contact%20Us) form. Please specify the information being requested; and include in the email your name, address, and telephone number. Consumers can have this information corrected by sending us email at the above address.
+Upon request, we provide site visitors with access to information that we have collected and that we maintain about them. GSA members can review and modify their profile using the [Update Member Profile Form](http://www.geron.org/Membership/Update%20Member%20Profile). All other user can request to review their personal information collected by this site, please contact our webmaster using our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form. Please specify the information being requested; and include in the email your name, address, and telephone number. Consumers can have this information corrected by sending us email at the above address.
 
-If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events.   If you do not wish to receive such mailings, please contact our webmaster using our [Contact Us](https://www.geron.org/About%20Us/Contact%20Us) form. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events.   If you do not wish to receive such mailings, please contact our webmaster using our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
 
 Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us email at the above address.
 
@@ -67,7 +67,7 @@ GSA hosts two online job boards operated by JobTarget. For more information how 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future, we will post the policy changes to our website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our website periodically.
 
-Please contact our webmaster using our [Contact Us](https://www.geron.org/About%20Us/Contact%20Us) form if you feel that your privacy has been infringed upon. We will make every effort to resolve this problem.  
+Please contact our webmaster using our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form if you feel that your privacy has been infringed upon. We will make every effort to resolve this problem.  
 
 
    
