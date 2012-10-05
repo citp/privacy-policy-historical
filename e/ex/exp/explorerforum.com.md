@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503155219id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005092729id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
 
 # Serious Explorations Privacy Policy February 28
 
   
 Serious Explorations Privacy Policy
 
-April 21, 2010
+May 31, 2012
 
 At Serious Explorations we recognize that your privacy is important. This document outlines the types of personal   
 information we receive and collect when you use Serious Explorations's services, as well as some of the steps we   
