@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralrestaurant.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509102952id_/http%3A//www.centralrestaurant.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralrestaurant.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005125302id_/http%3A//www.centralrestaurant.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Central Restaurant Products
 
