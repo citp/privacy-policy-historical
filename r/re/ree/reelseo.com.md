@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reelseo.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605030259id_/http%3A//www.reelseo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelseo.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005142127id_/http%3A//www.reelseo.com/privacy) for the most accurate reproduction.*
 
 # ReelSEO.com Privacy Policy
 
@@ -6,9 +6,9 @@ At ReelSEO, we have created this privacy statement in order to show our commitme
 
 ## Information Gathering
 
-As with most other websites, we automatically collect and utilize the data contained in our site log files. The information in the log files will include your IP (internet protocol) address, your ISP, browser used (IE, Firefox, Safari, etc...), the date and time you visited our site and which URLs you visited throughout our site.
+As with most other websites, we automatically collect and utilize the data contained in our site log files. The information in the log files will include your IP (internet protocol) address, your ISP, browser used (IE, Firefox, Safari, etc…), the date and time you visited our site and which URLs you visited throughout our site.
 
-We track your activity with Google Analytics, Quantcast, and WordPress Analytics.
+We track your activity with [Google](http://www.reelseo.com/royalty-free-music/ "Proper use of music and sound can make or break your video or film production. However, for those who use YouTube in a professional way, \[...\]") Analytics, Quantcast, and WordPress Analytics.
 
 ## Advertising
 
