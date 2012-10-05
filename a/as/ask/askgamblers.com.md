@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606073825id_/http%3A//www.askgamblers.com/privacy-policy-p64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005152917id_/http%3A//www.askgamblers.com/privacy-policy-p64) for the most accurate reproduction.*
 
 # Please read AskGamblers privacy policy | AskGamblers
 
