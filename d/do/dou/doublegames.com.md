@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doublegames.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513183519id_/http%3A//www.doublegames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doublegames.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005073522id_/http%3A//www.doublegames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DoubleGames: Free download games, Play online games, Free games
 
@@ -90,5 +90,3 @@ It is important that you understand that advertisers or Web sites that link to a
 ### Are you concerned about our use of personal information?
 
 If, for any reason, you are concerned with the way that we may be using your personal information, you may request that we cease to use your information or you may file a complaint by contacting us. Send all feedbacks using [contact form](https://web.archive.org/contact.html). 
-
-﻿ 
