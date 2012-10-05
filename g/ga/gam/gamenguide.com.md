@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamenguide.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511064358id_/http%3A//www.gamenguide.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenguide.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005024910id_/http%3A//www.gamenguide.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
-# Video Game News, Cheats, Videos, Reviews - Game N Guide
+# Gamenguide
 
 ## Privacy policy
 
@@ -115,7 +115,7 @@ Some Device manufacturers may preset their browsers to block Tracking Technologi
 
 
 
-### 5\. Wireless Marketing Services and Associated Promotional Opportunities.
+### 5\. Wireless Marketing Services and Associated Promotional Opportunities.h3>
 
 Gamenguide may provide users and viewers with the opportunity to register for special Promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their consent to receive such information from Gamenguide, either by registering on the Site or via their wireless device. Such services and promotional opportunities are provided by the Parent Companies and/or Affiliates for Gamenguide. The Information requested as part of the online registration process may include a user's telephone number or a wireless email address, but only if specifically requested, and the carrier's name. Additional Information may be requested for specific Promotions, such as a user's preferences regarding goods or services, choices of music or artists, or other similar survey information. Depending on the Promotion, we may also collect an Internet email address or other Information and, depending on the Information collected, the user may also be required to confirm his or her agreement to this Privacy Policy and the Terms of Use Agreement.  
 We caution that most wireless transmissions are not secured and there is a greater risk of an unknown third party's interception of messages or a user's Personal Information when using a wireless communications device.  
