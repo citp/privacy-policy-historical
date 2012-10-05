@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the gadgetsandgear.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509195811id_/http%3A//www.gadgetsandgear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsandgear.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005093126id_/http%3A//www.gadgetsandgear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the  [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
-
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo![click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com)
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
 **Our Privacy& Security Statement**
 
 Unfortunately, we live in a very litigious society. GadgetsandGear.com has developed the following policies to protect us and our valued customers from fraudulent transactions.  
 
 
-At GadgetsandGear.com, we are committed to protecting your privacy. We only use the information we collect about you to process orders and to provide a better shopping experience. We've partnered with world leaders in technology and security to provide you with an easy to use, fully secure on-line shopping experience.  **We will NEVER sell, rent or give your personal information away.**
+At GadgetsandGear.com, we are committed to protecting your privacy. We only use the information we collect about you to process orders and to provide a better shopping experience. We've partnered with world leaders in technology and security to provide you with an easy to use, fully secure online shopping experience.  **We will NEVER sell, rent or give your personal information away.**
 
 **Collecting Information**
 
-When you order from GadgetsandGear.com, we ask for specific information so that we can fulfill your order, send you messages regarding your order by e-mail and further enhance your shopping experience. The customer's contact information is also used to get in touch with the visitor when necessary. The information collected will be kept confidential and used to support your transaction with BrickHouse Electronics. This site uses an order form to process all transactions.
+When you order from GadgetsandGear.com, we ask for specific information so that we can fulfill your order, send you messages regarding your order by e-mail and further enhance your shopping experience. The customer's contact information is also used to get in touch with the visitor when necessary. The information collected will be kept confidential and used to support your transaction with Gadgets and Gear Enterprises Corp. This site uses an order form to process all transactions.
 
 Here is a list of the information we collect at GadgetsandGear.com, as well as how we use it:  
 
@@ -49,5 +47,5 @@ GadgetsandGear.com respects your privacy. GadgetsandGear.com does not sell, trad
 
 **Credit Card Fraud Protection**
 
-GadgetsandGear.com employs various Credit Card Fraud Prevention Services, provided by our Online Merchant Processor, in order to insure purchases made from GadgetsandGear.com are not fraudulent. When you transmit credit card information to complete a purchase or verify data, we always transmit that credit card number in an encrypted format (SSL) to prevent unauthorized transactions. Federal Law states that your credit card provider cannot hold you liable for more than $50 of any fraudulent charge. In the event of an unauthorized use of your credit card, you must report this problem immediately to your credit card provider in accordance with its terms of use.  
+GadgetsandGear.com employs various Credit Card Fraud Prevention Services, provided by our Online Merchant Processor, in order to ensure purchases made from GadgetsandGear.com are not fraudulent. When you transmit credit card information to complete a purchase or verify data, we always transmit that credit card number in an encrypted format (SSL) to prevent unauthorized transactions. Federal Law states that your credit card provider cannot hold you liable for more than $50 of any fraudulent charge. In the event of an unauthorized use of your credit card, you must report this problem immediately to your credit card provider in accordance with its terms of use.  
 
