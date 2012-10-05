@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwithsterling.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515140022id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwithsterling.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005124840id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sterling Bank | Privacy and Security | Privacy Policy
 
@@ -10,7 +10,7 @@
 
 | 
 
-### What does Sterling Bank do with your personal information?  
+### What does Sterling Savings Bank do with your personal information?  
   
 ---|---  
   
@@ -36,7 +36,7 @@ When you are _no longer_ our customer, we continue to share your information as 
 
 | 
 
-### Does Sterling Bank share?
+### Does Sterling Savings Bank share?
 
 | 
 
@@ -74,14 +74,14 @@ No
 
 |  We don't share  
 **For non-affiliates to market to you** | No | We don't share  
-**Questions?** | Call toll-free 1-800-772-7791 or visit [**www.bankwithsterling.com**](https://www.bankwithsterling.com/)  
+**Questions?** | Call toll-free 1-800-650-7141 or visit [**www.bankwithsterling.com**](https://www.bankwithsterling.com/)  
   
 Who we are  
 ---  
   
 ### Who is providing this notice?
 
-| Sterling Savings Bank and its affiliates including Intervest-Mortgage Investment Company and Mason-McDuffie Financial Corporation. Sterling Savings Bank operates under the following registered trade names: Sterling Bank, First Independent Bank and Sonoma Bank. Sterling Savings Bank operates as Sonoma Bank only in the State of California..  
+| Sterling Savings Bank and its affiliates including Intervest-Mortgage Investment Company and Mason-McDuffie Financial Corporation. Sterling Savings Bank operates under the following registered trade names: Sterling Bank and Sonoma Bank. Sterling Savings Bank operates as Sonoma Bank only in the State of California..  
   
 What we do  
 ---  
@@ -133,7 +133,7 @@ _  \- Our joint marketing partners include issuer of Sterling's credit card and
   
 ### Other Important Information
 
-For Sterling Savings Bank, insurance product customers in Montana: We will safeguard your Customer Information in accordance with the most protective applicable law, whether state or federal.
+For Sterling Savings Bank insurance product customers in Montana: We will safeguard your Customer Information in accordance with the most protective applicable law, whether state or federal.
 
 For California residents only: California law places additional limits on sharing information about California residents. In accordance with California law, we will not share information we collect about California residents with outside companies, except as permitted by law, such as with the consent of the customer or to service the customer's accounts.
 
