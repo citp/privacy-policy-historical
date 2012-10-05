@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfcbank.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615130202id_/https%3A//www.hdfcbank.com/aboutus/terms_conditions/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcbank.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005163213id_/http%3A//www.hdfcbank.com/aboutus/terms_conditions/privacy.htm) for the most accurate reproduction.*
 
 # HDFC Bank - Leading Bank in India, Banking Services, Private Banking, Personal Loan, Car Loan
 
