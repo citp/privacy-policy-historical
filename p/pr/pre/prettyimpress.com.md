@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prettyimpress.com privacy policy that was archived on 2012-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120224212621id_/http%3A//prettyimpress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyimpress.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006004624id_/http%3A//prettyimpress.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Customer Service - Privacy Notice - Free Shipping
+# Cycling Jersey, Custom Cycling Jersey, Customer Service - Privacy Notice - Free Shipping
 
 PrettyImpress respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
