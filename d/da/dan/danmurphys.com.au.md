@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the danmurphys.com.au privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205044822id_/http%3A//danmurphys.com.au/help/privacy-policy-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danmurphys.com.au privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005090637id_/http%3A//danmurphys.com.au/help/privacy-policy-content) for the most accurate reproduction.*
 
-# Dan Murphy's | Buy Wine, Champagne, Beer & Spirits Online | Privacy Policy
+# 
 
 Dan Murphy's is committed to supporting the 'National Privacy Principles for the Fair Handling of Personal Information' which set clear standards for the collection, access, storage and use of personal information which we obtain as part of our business operations.
 
