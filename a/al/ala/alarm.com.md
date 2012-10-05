@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607065645id_/http%3A//www.alarm.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005093517id_/http%3A//www.alarm.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ Contact Information
 
 ###  Our Privacy Mission 
 
-Alarm.com provides subscribers numerous advanced-technology security and automation services not available anywhere else on the market. We are sensitive to the private nature of the information you provide to us over the internet. Our privacy policy is designed to maximize your ability to protect your personal, private data while at the same time giving you the opportunity to remotely monitor and access your security system. Our mission in implementing this privacy policy is to, first, protect your personal information, and second, use it only to provide you with the highest quality services always for your own benefit and exclusively on your behalf. This policy states our privacy practices for you, the subscriber, and your use of the [www.alarm.com](https://web.archive.org/web/20120607065645id_/http%3A//www.alarm.com/) website, our Mobile site, our Voice Portal, and all interactions between you and Alarm.com. Please read the Privacy Policy carefully.
+Alarm.com provides subscribers numerous advanced-technology security and automation services not available anywhere else on the market. We are sensitive to the private nature of the information you provide to us over the internet. Our privacy policy is designed to maximize your ability to protect your personal, private data while at the same time giving you the opportunity to remotely monitor and access your security system. Our mission in implementing this privacy policy is to, first, protect your personal information, and second, use it only to provide you with the highest quality services always for your own benefit and exclusively on your behalf. This policy states our privacy practices for you, the subscriber, and your use of the [www.alarm.com](https://web.archive.org/web/20121005093517id_/http%3A//www.alarm.com/) website, our Mobile site, our Voice Portal, and all interactions between you and Alarm.com. Please read the Privacy Policy carefully.
 
 ###  Information Collection and Use
 
@@ -46,7 +46,7 @@ Alarm.com has security measures in place to protect the loss, misuse, and altera
 
 ###  Viewing, Updating, and Deleting Information
 
-You may view, update, or delete your personally identifiable information at any time by following the links at [www.alarm.com](https://web.archive.org/web/20120607065645id_/http%3A//www.alarm.com/) to your profile and address book pages. These changes will be immediately made to our records. If you wish to stop notifications, you may do so through the website.
+You may view, update, or delete your personally identifiable information at any time by following the links at [www.alarm.com](https://web.archive.org/web/20121005093517id_/http%3A//www.alarm.com/) to your profile and address book pages. These changes will be immediately made to our records. If you wish to stop notifications, you may do so through the website.
 
 Customers of Alarm.com Dealers: Changes to your user profile will not affect the records of your dealer. You should contact your dealer directly to make changes to its records.
 
@@ -69,6 +69,7 @@ or
 Alarm.com - Privacy  
 Suite #1400  
 8150 Leesburg Pike  
-Vienna, VA 22182
+Vienna, VA 22182  
+USA
 
 Last updated: April 26, 2012
