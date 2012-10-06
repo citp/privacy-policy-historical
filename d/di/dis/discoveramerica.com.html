@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discoveramerica.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623115501id_/http%3A//www.discoveramerica.com/usa/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discoveramerica.com privacy policy that was archived on 2012-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006042617id_/http%3A//www.discoveramerica.com/usa/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,7 +18,7 @@
 		<link rel="shortcut icon" href="http://www.discoveramerica.com/media/images/header/favicon.ico">
 
 		<!-- CSS -->
-<link rel="stylesheet" type="text/css" href="http://www.discoveramerica.com/includes/cssbin/mini/da.css.1459842895190.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.discoveramerica.com/includes/cssbin/mini/da.css.1523327099696.css" media="all">
 		
 		
 
@@ -31,7 +31,7 @@
 		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
 
-<script type="text/javascript" src="http://www.discoveramerica.com/includes/jsbin/mini/da.js.1205958028220.js"></script>
+<script type="text/javascript" src="http://www.discoveramerica.com/includes/jsbin/mini/da.js.1205960733763.js"></script>
         <script type="text/javascript" src="/includes/scripts/cookie-popup.js"></script>
 		<script type="text/javascript" src="http://www.discoveramerica.com/includes/scripts/jquery.lazyload.js"></script>
 
@@ -54,16 +54,21 @@
 		    if ($.cookie('cookieOptIn') != 'optedOut') {
 		        // Analytics variable
 		        var _gaq = _gaq || [],
-		            liveDomains = ['discoveramerica.com', 'discoveramerica.jp', 'discoveramerica.fr', 'discoveramerica.ca'],
-		            url = document.domain,
-		            account,
-		            domainName;
+                    liveDomains = ['discoveramerica.jp', 'discoveramerica.fr', 'discoveramerica.ca', 'discoveramerica.co.kr', 'discoveramerica.com.br', 'discoveramerica.com'], // make sure 'discoveramerica.com' is last in the array
+		            isPreview = 'false',
+			        url = document.domain,
+			        account,
+			        domainName = 'none';
+
+		        // check if is preview site
+		        if (url.indexOf('preview.') > -1) isPreview = 'true';
 		        // check if is live production site and set domainName
-		        domainName = 'none';
-		        for (var i = 0; i < liveDomains.length; i++) {
-		            if (url.indexOf(liveDomains[i]) != -1) {
-		                domainName = liveDomains[i];
-		                break;
+		        if (isPreview !== 'true') {
+		            for (var i = 0; i < liveDomains.length; i++) {
+		                if (url.indexOf(liveDomains[i]) != -1) {
+		                    domainName = liveDomains[i];
+		                    break;
+		                }
 		            }
 		        }
 
@@ -97,6 +102,16 @@
 <body class="page column2 nojs anonymous">
 
 
+<script type="text/javascript">
+    var ebRand = Math.random() + '';
+    ebRand = ebRand * 1000000;
+    //<![CDATA[ 
+    document.write('<scr' + 'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=189238&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+    //]]>
+</script><script src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=189238&amp;rnd=460253.5651560005"></script>
+<noscript>
+    <img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=189238&amp;ns=1"/>
+</noscript>
 
 <!-- #da-background-color-div provides the background stripe for pages -->
 <div id="da-background-color-div"></div>
@@ -137,8 +152,8 @@
 
 												<span>Connect</span>
 						<div id="header-menu-facebook-twitter" class="inline-block">
-														<a href="http://www.facebook.com/DiscoverAmerica" title="Facebook" target="_blank"><div class="button inline-block"><div class="icon facebook"></div></div></a>
-														<a href="https://twitter.com/#!/discoveramerica" title="Twitter" target="_blank"><div class="button inline-block"><div class="icon twitter"></div></div></a>
+														<a href="http://www.facebook.com/DiscoverAmericaUK" title="Facebook" target="_blank"><div class="button inline-block"><div class="icon facebook"></div></div></a>
+														<a href="https://twitter.com/discoverusaUK" title="Twitter" target="_blank"><div class="button inline-block"><div class="icon twitter"></div></div></a>
 														<a href="http://youtube.com/yourdiscoveramerica" title="Youtube" target="_blank"><div class="button inline-block"><div class="icon youtube"></div></div></a>
 						</div>
 						<div id="header-menu-languages" class="inline-block nojs">
@@ -147,7 +162,13 @@
 							<div class="options">
 																
 <div class="language">
-	<a href="http://www.discoveramerica.com/handlers/redirect.aspx" title="English"><div class="inline-block"><div class="name inline-block active">English</div><div class="flag inline-block"><img src="http://www.discoveramerica.com/~/media/795caec1a34c4bf9bd13030ec2999275/gbrpng.png?w=16&amp;h=16&amp;bg=ffffff" width="16" height="16" title="Great Britain" alt="Great Britain"></div></div></a>
+	<a href="http://www.discoveramerica.co.kr/" title="한국어 "><div class="inline-block"><div class="name inline-block">한국어 </div><div class="flag inline-block"><img src="http://www.discoveramerica.com/~/media/1608ba8fbe0d4bf4a1612d6cd29659b2/korpng.png?w=16&amp;h=16&amp;bg=ffffff" width="16" height="16" title="Korea, Republic of" alt="Korea, Republic of"></div></div></a>
+</div>
+<div class="language">
+	<a href="http://www.discoveramerica.com.br/" title="Português"><div class="inline-block"><div class="name inline-block">Português</div><div class="flag inline-block"><img src="http://www.discoveramerica.com/~/media/2d1bae1a66124145b549c68d935ce30d/brapng.png?w=16&amp;h=16&amp;bg=ffffff" width="16" height="16" title="Brazil" alt="Brazil"></div></div></a>
+</div>
+<div class="language">
+	<a href="http://www.discoveramerica.com/" title="English"><div class="inline-block"><div class="name inline-block active">English</div><div class="flag inline-block"><img src="http://www.discoveramerica.com/~/media/795caec1a34c4bf9bd13030ec2999275/gbrpng.png?w=16&amp;h=16&amp;bg=ffffff" width="16" height="16" title="Great Britain" alt="Great Britain"></div></div></a>
 </div>
 <div class="language">
 	<a href="http://www.discoveramerica.fr/" title="Français"><div class="inline-block"><div class="name inline-block">Français</div><div class="flag inline-block"><img src="http://www.discoveramerica.com/~/media/d1c043b854d842c48c70b0de3862593b/quebec.png?w=16&amp;h=16&amp;bg=ffffff" width="16" height="16" title="Quebec" alt="Quebec"></div></div></a>
@@ -199,7 +220,7 @@
 			</div>
 
 		</div>
-        
+
         <!--
 		<div id="header-menu-button-container">
 			<div id="header-menu-button">
@@ -210,7 +231,7 @@
 				<div class="inline-block">
 					<img src="http://www.discoveramerica.com/media/images/header/orange-arrow-up.png" width="6" height="6" alt= "" />
 				</div>
-		    </div>            
+		    </div>
          </div>
          -->
 	</div>
