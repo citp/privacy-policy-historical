@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501051228id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006063023id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirrorcreator.com - Upload Your files to multiple hosts
 
@@ -10,16 +10,17 @@
 * Timestamp of the upload
 * MD5 checksum of the uploaded file
 * The e-mail address entered by the uploader
+* The file URL link entered by the uploader for remote uploads
 
 All files uploaded to our servers are stored temporarily for delivery and are deleted when they have been uploaded to third-party websites.
 
 **Logging IP Addresses**
 
-We automatically receive certain types of information when you interact with our Web pages, services and communications. This information includes your computer or digital device's IP address, access times, your browser type and language. We may also collect information about the type of operating system you use, your account activity, and accessed pages. These information are logged and used by Mirrorcreator for measuring usage.
+We automatically receive certain types of information when you interact with our Web pages, services and communications. This information includes your computer or digital device's IP address, access times, your browser type and language, type of operating system you use, your account activity and accessed pages. These information are logged and used by Mirrorcreator for measuring usage.
 
 **Account Information**
 
-We may ask for some personal information when you create an account, including, but not limited to, your email address and a password, which is used to protect your account from unauthorized access. We also store the third party hosting account details you choose to enter in your account page. Any information you choose to provide should reflect how much you want others to know about you. You may review, update, correct or delete personal information or your account on your My Account page. In the event that Mirrorcreator is acquired, sold or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control.
+We may ask for some personal information when you create an account, including, but not limited to, your email address and a password, which is used to protect your account from unauthorized access. We also store the third party hosting account details you choose to enter in your account page. Any information you choose to provide should reflect how much you want others to know about you. You may review, update, correct or delete personal information or your account on your My Account page. In the event that Mirrorcreator is sold or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control.
 
 **Certain Exceptional Disclosures**
 
@@ -45,4 +46,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 By using our Web site, you consent to the collection and use of these information by Mirrorcreator. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you have any questions about this Privacy Policy, [contact us](https://web.archive.org/p/contact).
 
-Last update: March 17, 2012
+Last update: August 16, 2012
