@@ -1,21 +1,123 @@
-<!--The following is the downloaded HTML source of the holidaycottages.co.uk privacy policy that was archived on 2012-01-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120106080259id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the holidaycottages.co.uk privacy policy that was archived on 2012-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006042401id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head id="ctl00_mainHead"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="imagetoolbar" content="no"><meta id="ctl00_robots" name="robots" content="all"><meta name="google-site-verification" content="RKN9O80oDTvR10-Bu9uMpPdc5MJO-HCvFcRDLYCwuOI"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_mainHead"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="imagetoolbar" content="no"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta id="ctl00_robots" name="robots" content="all"><meta name="google-site-verification" content="RKN9O80oDTvR10-Bu9uMpPdc5MJO-HCvFcRDLYCwuOI"><title>
 	Privacy Policy - Farm &amp; Cottage Holidays
 </title>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-	<script src="/js/flashobject.js" type="text/javascript"></script>
-    <script type="text/javascript" language="javascript">
+    <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-1.7.1.min.js"></script>
+    
+    <script src="/js/jquery.qtip.js" type="text/javascript"></script>
+    <script src="/js/flashobject.js" type="text/javascript"></script>
+    <script src="/js/jquery.tinyscrollbar.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+     /* <![CDATA[ */
+
         function showsbinfo() {
-            $('#shortBreaksPop').css({ top: $('a.sblink').offset().top - 322, left: $('a.sblink').offset().left - 128, display: 'block' });
+            $('#shortBreaksPop').css({ top: $('a.sblink').offset().top - 362, left: $('a.sblink').offset().left - 128, display: 'block' });
         }
         function hidesbinfo() {
             $('#shortBreaksPop').css({ top: '-300px', left: '-9999px' });
         }
-    </script>
-    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon"><link href="/css/main.css" rel="stylesheet" type="text/css" media="screen"><link href="/css/table.css" rel="stylesheet" type="text/css" media="screen"><link href="/css/colourbox.css" rel="stylesheet" type="text/css" media="screen"><link id="ctl00_Link1" href="/css/print.css" rel="stylesheet" type="text/css" media="print">
 
+        $(document).ready(function () {
+
+            $('h2.expand').click(function () {
+                $('h2.expand').css({ display: 'none' })
+                $('h2.collapse').css({ display: 'block' })
+                $('div.seoContent').slideToggle('slow', function () {
+
+                });
+            });
+
+            $('h2.collapse').click(function () {
+                $('div.seoContent').slideToggle('slow', function () {
+                    $('h2.expand').css({ display: 'block' });
+                    $('h2.collapse').css({ display: 'none' });
+                });
+            });
+
+
+//            $('select.from option.ddldisabled').qtip({
+//                content: {
+//                    text: 'There is no availabilty for this week with the options you have selected below.'
+//                },
+//                show: {
+//                    event: 'mouseenter'
+//                },
+//                hide: {
+//                    event: 'mouseleave'
+//                },
+//                position: {
+//                    my: 'left center',  // Position my top left...
+//                    at: 'right center',
+//                    adjust: {
+//                        x: 20
+//                    }
+//                },
+//                style: {
+//                    classes: 'ui-tooltip-green ui-tooltip-shadow'
+//                }
+//            })
+
+//            $('select.duration option.ddldisabled').qtip({
+//                content: {
+//                    text: 'There is no availabilty for this duration for the date you have chosen with the options you have selected below.'
+//                },
+//                show: {
+//                    event: 'mouseenter'
+//                },
+//                hide: {
+//                    event: 'mouseleave'
+//                },
+//                position: {
+//                    my: 'left center',  // Position my top left...
+//                    at: 'right center'
+//                },
+//                style: {
+//                    classes: 'ui-tooltip-green ui-tooltip-shadow'
+//                }
+//            })
+
+//            $('select.changeOver option.ddldisabled').qtip({
+//                content: {
+//                    text: 'There is no availabilty for this changeover day with the options you have selected below.'
+//                },
+//                show: {
+//                    event: 'mouseenter'
+//                },
+//                hide: {
+//                    event: 'mouseleave'
+//                },
+//                position: {
+//                    my: 'left center',  // Position my top left...
+//                    at: 'right center'
+//                },
+//                style: {
+//                    classes: 'ui-tooltip-green ui-tooltip-shadow'
+//                }
+//            })
+
+            $('select.from option.ddldisabled').each(function(){
+                $(this).attr('title', 'There is no availabilty for this week with the options you have selected below.');
+                $(this).attr('disabled', 'disabled');
+            })
+
+            $('select.duration option.ddldisabled').each(function(){
+                $(this).attr('title', 'There is no availabilty for this duration for the date you have chosen with the options you have selected below.');
+                $(this).attr('disabled', 'disabled');
+            })
+
+            $('select.changeOver option.ddldisabled').each(function(){
+                $(this).attr('title', 'There is no availabilty for this changeover day with the options you have selected below.');
+                $(this).attr('disabled', 'disabled');
+            })
+
+        });
+        /* ]]> */
+
+    </script>
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon"><link id="ctl00_Link1" href="/css/main.css" rel="stylesheet" type="text/css" media="screen"><link id="ctl00_Link5" href="/css/jquery.qtip.min.css" rel="stylesheet" type="text/css" media="screen"><link id="ctl00_Link2" href="/css/table.css" rel="stylesheet" type="text/css" media="screen"><link id="ctl00_Link3" href="/css/colourbox.css" rel="stylesheet" type="text/css" media="screen"><link id="ctl00_Link4" href="/css/print.css" rel="stylesheet" type="text/css" media="print">
     <!--[if IE 6]>
     <script type="text/javascript" src="/js/DD_belatedPNG.js"></script>    
     <link href="/css/ie6.css" rel="stylesheet" type="text/css" media="screen" />
@@ -27,42 +129,79 @@
     <!--[if IE 8]>
     <link href="/css/ie8.css" rel="stylesheet" type="text/css" media="screen" />
     <![endif]-->
-     
+    
         <!--page title tag-->
     
-    
-        <!--DC Storm tracking-->
+    <!--DC Storm tracking-->
     <script type="text/javascript">var __stormJs = 't1.stormiq.com/dcv4/jslib/3021_EA2986BF_D359_4CD2_A9F1_250DC0E185D5.js';</script><script type="text/javascript" src="/js/DCStorm_track.js"></script>
-   <!-- END DC Storm tracking-->
-    
+    <!-- END DC Storm tracking-->
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
         { lang: 'en-GB' }
     </script>
+    <link href="https://plus.google.com/115709780174527674230" rel="publisher">
+    <script type="text/javascript">
+        //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1534554-1']);
+        _gaq.push(['_setDomainName', 'holidaycottages.co.uk']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
 
-    <link href="https://plus.google.com/115709780174527674230" rel="publisher"><meta name="description" content="View the Privacy Policy for the Farm &amp; Cottage Holidays website."><meta name="keywords" content="Farm &amp; Cottage Holidays, Cornwall, Devon, Somerset, Dorset, UK, Privacy"><link id="ctl00_SiteCanonicalUrl" rel="canonical" href="http://www.holidaycottages.co.uk/privacy"><noscript></noscript></head>
-<body id="ctl00_mainBody" class="infoPage">
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+
+        var __lc = {};
+        __lc.license = 1169711;
+
+        (function () {
+            var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+            lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+        })();
+    
+	    
+
+	    //]]>
+    </script>
+<meta name="description" content="View the Privacy Policy for the Farm &amp; Cottage Holidays website."><meta name="keywords" content="Farm &amp; Cottage Holidays, Cornwall, Devon, Somerset, Dorset, UK, Privacy"><link id="ctl00_SiteCanonicalUrl" rel="canonical" href="http://www.holidaycottages.co.uk/privacy"></head>
+<body id="ctl00_mainBody" class="infoPage"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 108px; padding-right: 20px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxClose" class="" style="display: none;"></div><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; display: none;"></div><div id="cboxLoadingOverlay" class="" style="display: none;"></div><div id="cboxLoadingGraphic" class="" style="display: none;"></div><div id="cboxTitle" class="" style="display: none;"></div><div id="cboxCurrent" class="" style="display: none;"></div><div id="cboxSlideshow" class="" style="display: none;"></div><div id="cboxNext" class="" style="display: none;"></div><div id="cboxPrevious" class="" style="display: none;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div></div>
     
     <form name="aspnetForm" method="post" action="/privacy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPZwUPOGNlOWE2MGJlMGY1MTE52DJPFMop+bSi73HeX9IU8E3mefs=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPZwUPOGNmNzE5OWVlMTExYTAyOK52wXKrdhZ9ONxOYgLhA2tiPDw=">
 
 
-<script src="/ScriptResource.axd?d=2s68Q9XCLk4r0lyt2ik19BQX5uG_ip4ToX3qF0THoUtNlqQpW9jsc7ZDzON8l35X6atkW_xVN5ohNUEiaSgIJKIsGPhS1fl35Wv1Y9n9TFE1&amp;t=5efb0bb2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=HTYXcE76Xi256HShjQJ8vetwbJ3FSSak6jR9fUA6mf1LYQRCagiwecj1mqnOw5mfevJX9yOSE5fL1pmyEjEWyUauUC_WjJmuZjy91eu973dAHHIAjA1IhVO23k-13i2lr_DUUMmMSgSnRA8xWWyWfOoqitvH_0g6Nz0Hnt72xAZcxAwH0&amp;t=43cf3ffe" type="text/javascript"></script>
+<script src="js/webkit.js" type="text/javascript"></script>
 <script src="/js/JS_Rationalized.js" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKGlc/3AgLWhv3DAnDRhNYXslGbjhkh+z1JazZFvjZx">
-
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLCneOHCQLWhv3DApdMDlzlcLcQH84N9CJwEaZWcr4n">
+    
     <div id="shortBreaksPop">
         <div id="shortBreaksPopInner">
             <a href="Javascript:void(0)" onclick="javascript:hidesbinfo()" class="close-modal">Close</a>
-            <h3>Short Breaks</h3><p><br>Most of the time our holiday properties book out for the Full week (7 nights), however there are times during some Off Peak periods or last minute where Short Breaks may be arranged with certain properties. They can be either 3, 4, 5 or 6 nights and are priced accordingly. Please remember that all short break enquiries have to be checked prior to booking, simply find your perfect cottage, get in touch and we will help finalise your enquiry.
-        </p></div>
+            <h3>
+                Short Breaks</h3>
+            <p>
+                <br>
+                Most of the time our holiday properties book out for the Full week (7 nights), however there are times during some Off Peak periods or last minute where Short Breaks may be arranged with certain properties. They can be either 3, 4, 5 or 6 nights and are priced accordingly. Please remember that all short break enquiries have to be checked prior to booking, simply find your perfect cottage, get in touch and we will help finalise your enquiry either
+                <a href="mailto:info@holidaycottages.co.uk">
+                    email</a>
+                or phone our Reservation Team.
+            </p>
+            <p>
+                <br>
+                Our offices are open every day.
+            </p>
+        </div>
     </div>
-
     
-
-        <input type="hidden" name="ctl00$ScriptManager1" id="ctl00_ScriptManager1">
-        <div id="grad">
-            <div id="wrapper">
-                
+    
+    <div id="grad">
+        <div id="wrapper">
+            
 <ul class="hidden">
 	<li><a href="#nav">Skip to Navigation</a></li>
 	<li><a href="#content">Skip to Main content</a></li>
@@ -73,11 +212,11 @@
 </div>
 <div class="helpBack"></div>	
 <div class="needHelp" id="divNeedHelp" style="display:none">
-	<a href="#" title="Need help?" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/62406806/?cmd=file&amp;file=visitorWantsToChat&amp;site=62406806&amp;imageUrl=https://www.holidaycottages.co.uk/uploads/farmcott/liveperson&amp;referrer=http://www.holidaycottages.co.uk/','chat62406806','width=475,height=400,resizable=yes');return false;">Need help? Chat to one of our team online</a>							
-</div>	
 								
-				<!-- TOP NAV AREA -->
-                <input type="hidden" name="ctl00$checkJS$hfClientJSEnabled" id="ctl00_checkJS_hfClientJSEnabled" value="True">
+</div>
+            
+            <!-- TOP NAV AREA -->
+            <input type="hidden" name="ctl00$checkJS$hfClientJSEnabled" id="ctl00_checkJS_hfClientJSEnabled" value="True">
 
 <script type="text/javascript">
     document.getElementById('ctl00_checkJS_hfClientJSEnabled').value = "True";
@@ -88,16 +227,16 @@
     }
 
 </script>
-				
+            
 <ul class="topnav">
-	<li class="phone"><span id="ctl00_TopNav1_lblPhoneNo">01237 459888</span></li>
+	<li class="phone"><span id="ctl00_TopNav1_lblPhoneNo">01237 426276</span></li>
 	<li class="last"><a href="/faqs" id="ctl00_TopNav1_top_nav_faq_a">FAQs</a></li>
 	<li><a href="/cottage-owners" id="ctl00_TopNav1_top_nav_owners_a">Owners</a></li>
 	<li><a href="/brochure" id="ctl00_TopNav1_top_nav_brochures_a">Brochures</a></li>
 	<li><a href="/login" id="ctl00_TopNav1_linkLogin" rel="nofollow">Log in</a></li>
-</ul>	
-				<!-- MAIN NAV AREA -->
-				
+</ul>
+            <!-- MAIN NAV AREA -->
+            
 <ul id="nav">
 		<li class="home"><a href="/"><span class="hidden">Home</span></a></li>
 		<li class="search"><a href="/cottages"><span class="hidden">Search &amp; book</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
@@ -198,82 +337,237 @@
 		</li>
 		<li class="offers"><a href="/special-offers"><span class="hidden">Special offers</span></a></li>
 		<li class="contact"><a href="/contact"><span class="hidden">Contact us</span></a></li>
-	</ul>	
-                <!-- CONTENT AREA -->
-				
-    <div class="backgroundImage" style="background: url(/images/hero/Boats.jpg) no-repeat;">
-	<ul id="breadcrumb">
-		<li class="first"><a href="/">Home</a></li>
-		<li>Privacy policy</li>
 	</ul>
-	<div id="content">
-		<div class="plainContent">
-			<h1>Privacy policy</h1>
-			<h4>COMMITMENT TO YOUR PRIVACY</h4>
-			<p>This site is owned and operated by Farm &amp; Cottage Holidays Ltd. Your privacy on the Internet is of the utmost importance to us. At Farm &amp; Cottage Holidays, we want to make your experience online satisfying and safe.</p>
-			<p>Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.</p>
-			<h4>INFORMATION FARM &amp; COTTAGE HOLIDAYS GATHERS AND TRACKS</h4>
-			<p>Farm &amp; Cottage Holidays gathers two types of information about users:</p>			
+            <!-- CONTENT AREA -->
+            
+    <script type="text/javascript">
+        $(document).ready(function () {
 
-			    <p>Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters and to email a friend.</p>
-			    <p>Information Farm &amp; Cottage Holidays gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. Under no circumstances does Farm &amp; Cottage Holidays Ltd divulge any information about an individual user to a third party. </p>
-			
-			<p>We offer the following free services, which require some type of voluntary submission of personal information by users:</p>
-			<ol>
-			<li>Electronic newsletters policy (Dispatches) 
-			<p>We will offer a free electronic newsletter to users. Farm &amp; Cottage Holidays gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter.</p>
-			</li><li>"E-mail a friend" policy 
-			<p>Our site users can choose to electronically forward a link to a property page to someone else by clicking "e-mail a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.</p>
-			</li><li>"Live Chat" policy 
-			
-			<p>When the online customer service chat first begins, users are asked to enter their names in whatever format or detail they prefer. During the chat, users enter into a live question and answer session with an operator from Farm &amp; Cottage Holidays. We maintain dialogue transcripts of these chats. After the chat, we ask users to fill out an exit survey in order to obtain valuable feedback about our service. Filling out the exit survey is completely voluntary.</p></li></ol>
-			<h4>Usage tracking</h4>
-			<p>Farm &amp; Cottage Holidays Ltd tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Farm &amp; Cottage Holidays does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).</p>
-			<p>This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
-			<h4>Cookies</h4>
-			<p>We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Farm &amp; Cottage Holidays uses cookies to track user traffic patterns (as described above).</p>
-			<p>You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. You can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalised features enjoyed by other visitors to our site such as adding properties to your favourite list.</p>
-			
-			<h4>Children</h4>
-			<p>Consistent with the Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.</p>
-			<h4>USE OF INFORMATION</h4>
-			<p>Farm &amp; Cottage Holidays Ltd uses any information voluntarily given by our users to enhance their experience in our sites, whether to provide interactive or personalised elements on the sites or to better prepare future content based on the interests of our users.</p>
-			<p>As stated above, we use information that users voluntarily provide in order to send out electronic newsletters. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Farm &amp; Cottage Holidays Ltd never shares newsletter mailing lists with any third parties.</p>
-			<p>We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered into search engines as one of many measures of what interests our users. But we don't track which terms a particular user enters.</p>
-			<h4>SHARING OF THE INFORMATION</h4>
-			<p>Farm &amp; Cottage Holidays Ltd uses the above-described information to tailor our content to suit your needs. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.</p>
-			
-			<h4>SECURITY</h4>
-			<p>Farm &amp; Cottage Holidays Ltd operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised individuals have access to the information provided by our customers.</p>
-			<h4>OPT-OUT POLICY</h4>
-			<p>We give users options wherever necessary and practical. Such choices include opting not to register to receive our electronic newsletters.</p>
-			<h4>YOUR CONSENT</h4>
-			<p>By using this site, you consent to the collection and use of this information by Farm &amp; Cottage Holidays Ltd. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
-		</div>
-	</div>
-</div>
+            if ($.cookie('CookieLawCompliance') == null) {
+                $("#give-consent").text('disable');
+            } else {
+                $("#give-consent").text('enable');
+            }
 
+            $("#give-consent").click(function (event) {
+                event.preventDefault();
 
+                if ($.cookie('CookieLawCompliance') == null) {
+                    //disable click
+                    var options = { path: '/', expires: 365 };
+                    $.cookie("CookieLawCompliance", 'true', options);
+                    $("#give-consent").text('enable');
+                } else {
+                    $("#give-consent").text('disable');
+                    $.cookie("CookieLawCompliance", "any_value", { expires: -1 })
+                }
 
-				
+            });
+        });
+    </script>
+    <div class="backgroundImage" style="background: url(/images/hero/Boats.jpg) no-repeat;">
+        <ul id="breadcrumb">
+            <li class="first"><a href="/">Home</a></li>
+            <li>Privacy policy</li>
+        </ul>
+        <div id="content">
+            <div class="plainContent" id="privContent">
+                <h1>
+                    Privacy policy</h1>
+                <h4>
+                    COMMITMENT TO YOUR PRIVACY</h4>
+                <p>
+                    This site is owned and operated by Farm &amp; Cottage Holidays Ltd. Your privacy
+                    on the Internet is of the utmost importance to us. At Farm &amp; Cottage Holidays,
+                    we want to make your experience online satisfying and safe.</p>
+                <p>
+                    Because we gather certain types of information about our users, we feel you should
+                    fully understand our policy and the terms and conditions surrounding the capture
+                    and use of that information. This privacy statement discloses what information we
+                    gather and how we use it.</p>
+                <h4>
+                    INFORMATION FARM &amp; COTTAGE HOLIDAYS GATHERS AND TRACKS</h4>
+                <p>
+                    Farm &amp; Cottage Holidays gathers two types of information about users:</p>
+                <p>
+                    Information that users provide through optional, voluntary submissions. These are
+                    voluntary submissions to receive our electronic newsletters and to email a friend.</p>
+                <p>
+                    Information Farm &amp; Cottage Holidays gathers through aggregated tracking information
+                    derived mainly by tallying page views throughout our sites. This information allows
+                    us to better tailor our content to readers' needs. Under no circumstances does Farm
+                    &amp; Cottage Holidays Ltd divulge any information about an individual user to a
+                    third party.
+                </p>
+                <p>
+                    We offer the following free services, which require some type of voluntary submission
+                    of personal information by users:</p>
+                <ol>
+                    <li>Electronic newsletters policy (Dispatches)
+                        <p>
+                            We will offer a free electronic newsletter to users. Farm &amp; Cottage Holidays
+                            gathers the email addresses of users who voluntarily subscribe. Users may remove
+                            themselves from this mailing list by following the link provided in every newsletter.</p>
+                    </li>
+                    <li>"E-mail a friend" policy
+                        <p>
+                            Our site users can choose to electronically forward a link to a property page to
+                            someone else by clicking "e-mail a friend". The user must provide their
+                            email address, as well as that of the recipient. This information is used only in
+                            the case of transmission errors and, of course, to let the recipient know who sent
+                            the email. The information is not used for any other purpose.</p>
+                    </li>
+                    <li>"Live Chat" policy
+                        <p>
+                            When the online customer service chat first begins, users are asked to enter their
+                            names in whatever format or detail they prefer. During the chat, users enter into
+                            a live question and answer session with an operator from Farm &amp; Cottage Holidays.
+                            We maintain dialogue transcripts of these chats. After the chat, we ask users to
+                            fill out an exit survey in order to obtain valuable feedback about our service.
+                            Filling out the exit survey is completely voluntary.</p>
+                    </li>
+                </ol>
+                <h4>
+                    Usage tracking</h4>
+                <p>
+                    Farm &amp; Cottage Holidays Ltd tracks user traffic patterns throughout all of our
+                    sites. However, we do not correlate this information with data about individual
+                    users. Farm &amp; Cottage Holidays does break down overall usage statistics according
+                    to a user's domain name, browser type, and MIME type by reading this information
+                    from the browser string (information contained in every user's browser).</p>
+                <p>
+                    This website uses Google Analytics, a web analytics service provided by Google,
+                    Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on
+                    your computer, to help the website analyse how users use the site. The information
+                    generated by the cookie about your use of the website (including your IP address)
+                    will be transmitted to and stored by Google on servers in the United States. Google
+                    will use this information for the purpose of evaluating your use of the website,
+                    compiling reports on website activity for website operators and providing other
+                    services relating to website activity and internet usage. Google may also transfer
+                    this information to third parties where required to do so by law, or where such
+                    third parties process the information on Google's behalf. Google will not associate
+                    your IP address with any other data held by Google. You may refuse the use of cookies
+                    by selecting the appropriate settings on your browser, however please note that
+                    if you do this you may not be able to use the full functionality of this website.
+                    By using this website, you consent to the processing of data about you by Google
+                    in the manner and for the purposes set out above.</p>
+                <h4>
+                    COOKIES</h4>
+
+                <p>
+                    To comply with EU legislation that was introduced in May 2012, this section documents how this website might collect information as you browse and use it to provide a tailored service to improve your online experience.
+                </p>
+                <p>
+                    We may place a text file called a "cookie" in the browser files of your
+                    computer. The cookie itself does not contain Personal Information although it will
+                    enable us to relate your use of this site to information that you have specifically
+                    and knowingly provided. But the only personal information a cookie can contain is
+                    information you supply yourself. A cookie can't read data off your hard disk or
+                    read cookie files created by other sites. Farm &amp; Cottage Holidays uses cookies
+                    to track user traffic patterns (as described above).</p>
+                
+                <p>
+                    You do not need to have cookies turned on to use this site. You can set your browser
+                    not to accept cookies, but if you do, you may not be able to take advantage of the
+                    personalised features enjoyed by other visitors to our site such as adding properties
+                    to your favourite list and LiveChat.</p>
+                
+                
+                <br>
+                <strong>Cookies for sharing our pages</strong>
+                <p>We use AddThis on many of our pages to enable you to socially bookmark content from the site. The selection of buttons displayed is tailored to each visitor’s past use of social media sites to enable you to quickly post a link to a page on our site from the services you use most frequently.</p>
+                
+                <br>
+                <strong>Cookies for site functionality</strong>
+                <p>We use a facility called LiveChat in order to provide site users with a means of contacting a member of staff for help using the site. LiveChat sets cookies to allow us to improve the behaviour of features such as chat invitations.</p>
+                
+                <br>
+                <strong>Cookies for relevant advertising</strong>
+                <p>We use cookies from DoubleClick and Right Media, to present you with adverts that may be based on the content you visit the most on our websites. The cookies show us where you saw the advert; help us measure the effectiveness of our advertising campaigns; and limit the number of times you see an advert.</p>
+                
+                <br>
+                <strong>Cookies for improving service</strong>
+                <p>Google Analytics and DC Storm set cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This is to ensure that we provide a fast service that is available when you want it.</p>
+                
+                <br>
+
+                <h4>
+                    CHILDREN</h4>
+                <p>
+                    Consistent with the Children's Online Privacy Protection Act of 1998 (COPPA), we
+                    will never knowingly request personally identifiable information from anyone under
+                    the age of 13 without requesting parental consent.</p>
+                <h4>
+                    USE OF INFORMATION</h4>
+                <p>
+                    Farm &amp; Cottage Holidays Ltd uses any information voluntarily given by our users
+                    to enhance their experience in our sites, whether to provide interactive or personalised
+                    elements on the sites or to better prepare future content based on the interests
+                    of our users.</p>
+                <p>
+                    As stated above, we use information that users voluntarily provide in order to send
+                    out electronic newsletters. We send out newsletters to subscribers on a regular
+                    schedule (depending on the newsletter), and occasionally send out special editions
+                    when we think subscribers might be particularly interested in something we are doing.
+                    Farm &amp; Cottage Holidays Ltd never shares newsletter mailing lists with any third
+                    parties.</p>
+                <p>
+                    We use tracking information to determine which areas of our sites users like and
+                    don't like based on traffic to those areas. We do not track what individual users
+                    read, but rather how well each page performs overall. This helps us continue to
+                    build a better service for you. We track search terms entered into search engines
+                    as one of many measures of what interests our users. But we don't track which terms
+                    a particular user enters.</p>
+                <h4>
+                    SHARING OF THE INFORMATION</h4>
+                <p>
+                    Farm &amp; Cottage Holidays Ltd uses the above-described information to tailor our
+                    content to suit your needs. We will not share information about individual users
+                    with any third party, except to comply with applicable law or valid legal process
+                    or to protect the personal safety of our users or the public.</p>
+                <h4>
+                    SECURITY</h4>
+                <p>
+                    Farm &amp; Cottage Holidays Ltd operates secure data networks protected by industry
+                    standard firewall and password protection systems. Our security and privacy policies
+                    are periodically reviewed and enhanced as necessary and only authorised individuals
+                    have access to the information provided by our customers.</p>
+                <h4>
+                    OPT-OUT POLICY</h4>
+                <p>
+                    We give users options wherever necessary and practical. Such choices include opting
+                    not to register to receive our electronic newsletters.</p>
+                <h4>
+                    YOUR CONSENT</h4>
+                <p>
+                    By using this site, you consent to the collection and use of this information by
+                    Farm &amp; Cottage Holidays Ltd. If we decide to change our privacy policy, we will
+                    post those changes on this page so that you are always aware of what information
+                    we collect, how we use it, and under what circumstances we disclose it.</p>
+            </div>
+        </div>
+    </div>
+
+            
 <div id="footer">
+    
 	<ul class="actionNav">
-		<li id="litNeedHelp" class="last" style="display:none"><a href="#" class="help" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/62406806/?cmd=file&amp;file=visitorWantsToChat&amp;site=62406806&amp;imageUrl=https://www.holidaycottages.co.uk/uploads/farmcott/liveperson&amp;referrer=http://www.holidaycottages.co.uk/','chat62406806','width=475,height=400,resizable=yes');return false;">Need Help?</a> Chat to our team online</li>
-		<li class="middle"><a href="/cottages">Book online</a> or call <b>01237 459888</b></li>
+		<li id="litNeedHelp" class="last" style="display:none"><a href="#" class="help" onclick="return false;">Need Help?</a> Chat to our team online</li>
+		<li class="middle"><a href="/cottages">Book online</a> or call <b>01237 426276</b></li>
 		<li class="middle"><a href="/brochure">Request a brochure</a></li>
 		<li class="middle"><a href="/newsletter">Join our newsletter</a></li>
 		<li class="first socialLi">
             <a href="http://www.facebook.com/farmandcottageholidays" target="_blank"><img src="/images/facebook.jpg" alt="Facebook" title="Facebook" style="display:inline;margin-right:4px;"></a>
             <a href="http://www.youtube.com/user/FarmCottageHolidays" target="_blank"><img src="/images/youtube.jpg" alt="You Tube" title="You Tube" style="display:inline;margin-right:4px;"></a>
             <a href="http://twitter.com/FarmandCottage" target="_blank"><img src="/images/twitter.jpg" alt="Twitter" title="Twitter" style="display:inline;"></a>
-            <span class="plus_one"><a href="https://plus.google.com/115709780174527674230?prsrc=3" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:0;width:19px;height:19px;"></a></span>
+            <span class="plus_one"><a href="https://plus.google.com/115709780174527674230?prsrc=3" style="text-decoration:none;" title="Google plus"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="Google plus" style="border:0;width:19px;height:19px;"></a></span>
         </li>
 	</ul>
 	<ul class="bottomNav">
 		<li class="last"><a href="/sitemap">Site map</a></li>
         <li><a href="/links" rel="nofollow">Links</a></li>
 		<li><a href="/terms">Terms of use</a></li>
-		<li><a href="/privacy">Privacy</a></li>        
+		<li><a href="/privacy">Privacy &amp; Cookies</a></li>        
 		<li><a href="/full-booking-terms">Booking terms</a></li>
 		<li><a href="/faqs">FAQs</a></li>
 		<li><a href="/owner-login">Owner login</a></li>		
@@ -286,42 +580,22 @@
     <p id="copyright">© Farm &amp; Cottage Holidays 2012</p>
 </div>
 
-            </div>            
         </div>
+    </div>
     
 
 <script type="text/javascript">
 //<![CDATA[
-Init_sIFR();externalLinks();InitHoverButtons();
-Sys.Application.setServerId("ctl00_ScriptManager1", "ctl00$ScriptManager1");
-
-Sys.Application._enableHistoryInScriptManager();
-Sys.Application.initialize();
+Init_sIFR();externalLinks();InitHoverButtons();Sys.Application.initialize();
 //]]>
 </script>
 </form>
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        var pageTracker = _gat._getTracker("UA-1534554-1");
-        pageTracker._setDomainName("none");
-        pageTracker._setAllowLinker(true); 
-        pageTracker._initData();
-        pageTracker._trackPageview();
-    </script>
-    <!-- liveperson status checker -->
-    <script language="JavaScript" type="text/javascript" src="https://server.iad.liveperson.net/hcp/html/lpCheckRepState.js"></script>
     <script src="https://www.dwin1.com/2743.js" type="text/javascript" defer="defer"></script>
     <!-- Google Code for All Remarketing List -->
-    <script type="text/javascript">/* <![CDATA[ */var google_conversion_id = 1065287639;var google_conversion_language = "en";var google_conversion_format = "3";var google_conversion_color = "666666";var google_conversion_label = "8kmDCMGY2AEQ1__7-wM";var google_conversion_value = 0;/* ]]> */</script><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1065287639/?label=8kmDCMGY2AEQ1__7-wM&amp;guid=ON&amp;script=0"/></div></noscript>    
-    <iframe id="ctl00_KeepAliveFrame" src="/KeepAlive.aspx" frameborder="0" width="0" height="0"></iframe>    
+    <script type="text/javascript">/* <![CDATA[ */var google_conversion_id = 1065287639;var google_conversion_language = "en";var google_conversion_format = "3";var google_conversion_color = "666666";var google_conversion_label = "8kmDCMGY2AEQ1__7-wM";var google_conversion_value = 0;/* ]]> */</script><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1065287639/?label=8kmDCMGY2AEQ1__7-wM&amp;guid=ON&amp;script=0"/></div></noscript>
+    <iframe id="ctl00_KeepAliveFrame" frameborder="0" width="0" height="0" src="/KeepAlive.aspx?q=634850978420562434">
+    </iframe>
     
 
-<noscript>    
-    javascript not supported
-</noscript>
 
-
-</body></html>
+<div id="tooltip" style="display: none;"><h6></h6></div></body></html>
