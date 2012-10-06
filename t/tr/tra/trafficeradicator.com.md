@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficeradicator.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528002725id_/http%3A//trafficeradicator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficeradicator.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006082623id_/http%3A//www.trafficeradicator.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy —
+# Privacy Policy | Trafficeradicator
 
 Welcome to http://trafficeradicator.com/ (the “Site”).
 
@@ -52,7 +52,7 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 **How can Visitors correct any inaccuracies in Personally Identifiable Information?**
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [traffic@trafficeradicator.com](mailto:support@ezherbgarden.com)
+Visitors and Authorized Customers may [contact us](http://www.trafficeradicator.com/contact-us/ "contact us") to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [traffic@trafficeradicator.com](mailto:support@ezherbgarden.com)
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
 
