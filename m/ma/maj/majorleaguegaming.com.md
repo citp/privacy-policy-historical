@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorleaguegaming.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508065054id_/http%3A//accounts.majorleaguegaming.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorleaguegaming.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006135706id_/http%3A//accounts.majorleaguegaming.com/privacy_policy) for the most accurate reproduction.*
 
 # MLGid Account Management - MLG - Major League Gaming
 
