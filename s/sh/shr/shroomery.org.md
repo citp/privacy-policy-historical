@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427021514id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006095354id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
 
 # Privacy statement - Shroomery Message Board
 
@@ -15,8 +15,11 @@ Cookies are small pieces of data which the Shroomery stores on your hard drive. 
 
 The Shroomery sets many cookies to enhance the browsing experience. They are used to store user preferences, technical data, and for statistical tracking. You can prevent the Shroomery from setting cookies on your hard drive by configuring your web browser to reject cookies, to prompt you before accepting them, or by installing a third party cookie utility. The site's functionality may be impaired when cookies are disabled.
 
-_Third Parties:_  
-Like many websites, The Shroomery may display ads which are provided by third parties and hosted on domains we do not control. In such a situation, the third party would be capable of logging your IP and technical information when the ad is displayed. We will only accept hosted ads from established, responsible third parties who themselves have a published privacy policy. To prevent third party advertisers from receiving your information, you must access the site through a proxy server. Alternately, [supporters](https://web.archive.org/store/home.php?cat=248) have the option of disabling all banner advertising. 
+_Third Parties:_
+
+Like many websites, The Shroomery may display ads which are provided by third parties and hosted on domains we do not control. In such a situation, the third party would be capable of logging your IP and technical information when the ad is displayed. We will only accept hosted ads from established, responsible third parties who themselves have a published privacy policy. To prevent third party advertisers from receiving your information, you must access the site through a proxy server. Alternately, [supporters](https://web.archive.org/store/home.php?cat=248) have the option of disabling all banner advertising.
+
+The Shroomery also uses [CloudFlare](https://www.cloudflare.com/overview) to help improve performance and protect against online threats. As part of this service, CloudFlare intercepts and analyzes traffic from this site. However, they have their own [privacy policy](https://www.cloudflare.com/security-policy) and have established a [good record](http://blog.cloudflare.com/58611873) of protecting their clients. There is currently no way to bypass CloudFlare when visiting the Shroomery, but [supporters](https://web.archive.org/store/home.php?cat=248) who enable SSL will always receive end-to-end encryption to and from our servers. 
 
 _Usage:_  
 The Shroomery will never sell, give, share or transfer any information we collect about our users, except as outlined below: 
@@ -32,4 +35,4 @@ The Shroomery is very concerned with maintaining our users' privacy and we are c
 
 * * *
 
-Last Updated: July 27th, 2008 by Ythan
+Last Updated: August 16th, 2012 by Ythan
