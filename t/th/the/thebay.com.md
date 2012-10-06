@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebay.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624073630id_/http%3A//www.thebay.com/eng/aboutUs/privacylegalinfo.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebay.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006211702id_/http%3A//www.thebay.com/eng/aboutUs/privacylegalinfo.cfm) for the most accurate reproduction.*
 
 # the Bay
 
