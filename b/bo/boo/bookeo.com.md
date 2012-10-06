@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629080459id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006032104id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | appointments | Bookeo.com
+# Privacy Policy | tours and activities | Bookeo.com
 
 Bookeo Pty Ltd (referred to here as “Bookeo”, "us", "we") provides its Service (as defined below) to you through its web site located at bookeo.com and any of the internet subdomains of bookeo.com (the “Site”). The “Service” includes (a) the Site, (b) the system, tools and services provided by Bookeo through the Site, and (c) all software, data, text, images, sounds, video, and content made available through the Site or Service (collectively referred to as the “Content”). Any new features added to or augmenting the Service are also subject to thhis Privacy Policy. 
 
