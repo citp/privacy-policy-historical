@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the dotmed.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501142627id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotmed.com privacy policy that was archived on 2012-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121007001817id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<link rel="stylesheet" href="http://www.dotmed.com/style/style.css" type="text/css">
+	<link rel="stylesheet" href="http://dotmed-images.s3.amazonaws.com/style/style.css" type="text/css">
 	<link rel="stylesheet" href="http://dotmed-images.s3.amazonaws.com/style/index.css" type="text/css">
 	<link rel="stylesheet" href="http://dotmed-images.s3.amazonaws.com/style/news_style.css" type="text/css">
 	<link rel="stylesheet" href="http://dotmed-images.s3.amazonaws.com/style/listings_table.css" type="text/css">
@@ -60,17 +60,43 @@ Welcome!  <a href="https://secure.dotmed.com/login.html?backfromssl=1">Sign In</
 	</div>
 	<div id="myMenu">
 			<div id="myMenuTop_language">
- 	 <div style="width:80px" id="chooseflag" class="chooseflag">
-		<a id="zh" class="flag" title="Chinese (Simplified)" style="margin-left: 1px;" href="http://zh.dotmed.com/legal/privacynotice.html">
-		<img style="border: 0" alt="Chinese (Simplified)" src="http://cdn.dotmed.com/images/countries/small_flags/zh.gif"></a>
-		<a id="fr" class="flag" title="French" style="margin-left: 1px;" href="http://fr.dotmed.com/legal/privacynotice.html">
-		<img style="border: 0" alt="French" src="http://cdn.dotmed.com/images/countries/small_flags/fr.gif"></a>
-		<a id="en" class="flag" title="English" style="margin-left: 1px;display:none" href="http://www.dotmed.com/legal/privacynotice.html?lang=en">
-		<img style="border: 0" alt="English" src="http://cdn.dotmed.com/images/countries/small_flags/en.gif"></a>
-		<a id="pt" class="flag" title="Portuguese" style="margin-left: 1px;" href="http://pt.dotmed.com/legal/privacynotice.html">
-		<img style="border: 0" alt="Portuguese" src="http://cdn.dotmed.com/images/countries/small_flags/pt.gif"></a>
-		<a id="es" class="flag" title="Spanish" style="margin-left: 1px;" href="http://es.dotmed.com/legal/privacynotice.html">
-		<img style="border: 0" alt="Spanish" src="http://cdn.dotmed.com/images/countries/small_flags/es.gif"></a></div><div id="langu" style="display:none" name="en"> </div>
+ 	<script>
+document.observe("dom:loaded", function() {
+
+	var el = $$('#langs-drop-button');
+
+	el.each(function(ul) {
+		// On mouseover
+		ul.observe('mouseover', function(e) {
+			ul.addClassName('active');
+			ul.down('ul').addClassName('show');
+		});
+		
+		// On mouseout
+		ul.observe('mouseout', function(e) {
+			var mouse_over_element;
+			
+			if (e.toElement) {
+				mouse_over_element = e.toElement;
+			} else if (e.relatedTarget) {
+				mouse_over_element = e.relatedTarget;
+			}
+		
+			if (mouse_over_element == null) {
+				return;
+			}
+
+			if (!mouse_over_element.descendantOf(ul) && ul != mouse_over_element) {
+				ul.down('ul').removeClassName('show');
+				ul.removeClassName('active');
+			}
+		});
+	});
+});
+</script>
+<ul id="langs-drop-button">
+<li><a id="selected-lang"><img style="border: 0" alt="English" src="http://cdn.dotmed.com/images/countries/small_flags/en.gif">English</a><ul><li><a href="http://zh.dotmed.com/legal/privacynotice.html" title="Chinese (Simplified)"><img style="border: 0" alt="Chinese (Simplified)" src="http://cdn.dotmed.com/images/countries/small_flags/zh.gif">Chinese (Simplified)</a></li><li><a href="http://fr.dotmed.com/legal/privacynotice.html" title="French"><img style="border: 0" alt="French" src="http://cdn.dotmed.com/images/countries/small_flags/fr.gif">French</a></li><li><a href="http://pt.dotmed.com/legal/privacynotice.html" title="Portuguese"><img style="border: 0" alt="Portuguese" src="http://cdn.dotmed.com/images/countries/small_flags/pt.gif">Portuguese</a></li><li><a href="http://es.dotmed.com/legal/privacynotice.html" title="Spanish"><img style="border: 0" alt="Spanish" src="http://cdn.dotmed.com/images/countries/small_flags/es.gif">Spanish</a></li><li><a href="http://de.dotmed.com/legal/privacynotice.html" title="German"><img style="border: 0" alt="German" src="http://cdn.dotmed.com/images/countries/small_flags/de.gif">German</a></li></ul></li></ul>
+<div id="langu" style="display:none" name="en"> </div>
 
 
 	</div>
@@ -89,62 +115,158 @@ Welcome!  <a href="https://secure.dotmed.com/login.html?backfromssl=1">Sign In</
 </div>
 
 
-              <style>
-div.autocomplete {
-font-size:10px;
-font-family : tahoma, arial, helvetica, sans-serif;
-background: #fff;
-z-index:100;
-}
-div.autocomplete ul {
-border:1px solid #888;
-background-color: #FFFFFF;
-margin:0;
-padding:0;
-width:100%;
-list-style-type:none;
-}
-div.autocomplete ul li.selected {background-color: #44DDFF;}
-div.autocomplete ul li {
-margin:0;
-padding:3px;
-cursor:pointer;
-text-align:left;
-}
-</style>
+
+		<div id="topMenu">
+	<ul> 
+		<li class="home"><a href="http://www.dotmed.com/">Home</a></li>
+		<li id="category"><a href="/listings/equipment/" onclick="return false;">Equipment</a>
+<ul id="categoryMenu" class="categoryMenuC" style="display:none;">
+<li>
+<ul id="categoryMenu-col2">
+<li><a href="/equipment/41">Beds, Stretchers and Furniture</a></li>
+<li><a href="/equipment/34">Cardiology</a></li>
+<li><a href="/equipment/24">Consumables and Supplies</a></li>
+<li><a href="/equipment/30">Cosmetic</a></li>
+<li><a href="/equipment/31">Defibrillator</a></li>
+<li><a href="/equipment/13">Dental</a></li>
+<li><a href="/equipment/28">EMS/Rescue</a></li>
+<li><a href="/equipment/29">Endoscopy</a></li>
+<li><a href="/equipment/35">Exam Room</a></li>
+<li><a href="/equipment/7">Homecare/Rehab</a></li>
+<li><a href="/equipment/2">Imaging</a></li>
+<li><a href="/equipment/5">Laboratory</a></li>
+<!-- end categoryMenu-col2 --></ul>
+<ul id="categoryMenu-col4">
+<li><a href="/equipment/33">Monitors/ICU/CCU</a></li>
+<li><a href="/equipment/36">Neonatal</a></li>
+<li><a href="/equipment/40">Neurology</a></li>
+<li><a href="/equipment/37">Ophthalmology</a></li>
+<li><a href="/equipment/25">Physical Therapy</a></li>
+<li><a href="/equipment/32">Pumps</a></li>
+<li><a href="/equipment/26">Radiation Therapy</a></li>
+<li><a href="/equipment/38">Respiratory</a></li>
+<li><a href="/equipment/39">Sterile Processing</a></li>
+<li><a href="/equipment/23">Surgical</a></li>
+<li><a href="/equipment/14">Veterinary</a></li>
+<li><a href="/equipment/1">All Others</a></li>
+<!-- end categoryMenu-col4 --></ul>
+</li>
+
+<!-- end Menu -->
+</ul>
+</li>
+		<li id="parts_category"><a href="/listings/parts/" onclick="return false;">Parts</a>
+<ul id="partsCategoryMenu" class="categoryMenuC" style="display:none;">
+<li>
+<ul id="partsCategoryMenu-col2">
+<li><a href="/parts/41">Beds, Stretchers and Furniture</a></li>
+<li><a href="/parts/34">Cardiology</a></li>
+<li><a href="/parts/24">Consumables and Supplies</a></li>
+<li><a href="/parts/30">Cosmetic</a></li>
+<li><a href="/parts/31">Defibrillator</a></li>
+<li><a href="/parts/13">Dental</a></li>
+<li><a href="/parts/28">EMS/Rescue</a></li>
+<li><a href="/parts/29">Endoscopy</a></li>
+<li><a href="/parts/35">Exam Room</a></li>
+<li><a href="/parts/7">Homecare/Rehab</a></li>
+<li><a href="/parts/2">Imaging</a></li>
+<li><a href="/parts/5">Laboratory</a></li>
+<!-- end partsCategoryMenu-col2 --></ul>
+<ul id="partsCategoryMenu-col4">
+<li><a href="/parts/33">Monitors/ICU/CCU</a></li>
+<li><a href="/parts/36">Neonatal</a></li>
+<li><a href="/parts/40">Neurology</a></li>
+<li><a href="/parts/37">Ophthalmology</a></li>
+<li><a href="/parts/25">Physical Therapy</a></li>
+<li><a href="/parts/32">Pumps</a></li>
+<li><a href="/parts/26">Radiation Therapy</a></li>
+<li><a href="/parts/38">Respiratory</a></li>
+<li><a href="/parts/39">Sterile Processing</a></li>
+<li><a href="/parts/23">Surgical</a></li>
+<li><a href="/parts/14">Veterinary</a></li>
+<li><a href="/parts/1">All Others</a></li>
+<!-- end partsCategoryMenu-col4 --></ul>
+</li>
+
+<!-- end Menu -->
+</ul>
+</li>
+		<li><a href="http://www.dotmed.com/auctions/featured/">Auctions</a></li>
+		<li><a onclick="_gaq.push(['_trackPageview', '/vts_tab']);" href="http://www.dotmed.com/virtual-trade-show/">Virtual Trade Show</a></li>
+		<li><a href="http://www.dotmed.com/news/">Today's News</a></li>
+		<li><a href="http://www.dotmed.com/virtual-trade-show/category/forums/">Forums</a></li>
+		<li><a onclick="_gaq.push(['_trackPageview', '/find_service_tab']);" href="http://www.dotmed.com/virtual-trade-show/">Find Service</a></li>
+		<li><a href="http://www.dotmed.com/careers/">Careers</a></li>
+	</ul>
+</div>  
+
+
+
+
+
+	              
 <script>
     Event.observe(window,'load',function(){
-        $('searchbox').focus();
-    });
+		var search_focus = true;
+//if there is a login box or an anchor name 
+		search_focus = $$('td.login').length > 0 ? false : true;
+		search_focus = !search_focus ? false : ($$('a[name!=""]').length > 0 ? false : true);
+
+		if(search_focus){
+	        $('searchbox').focus();
+		}
+
+		$('searchDropdown').observe('mouseover',function(e){
+			$('searchDropdown').down('ul').show();
+
+		});
+
+		$('searchDropdown').observe('mouseout',function(e){
+			var mouse_over_element;
+			if (e.toElement) {
+				mouse_over_element = e.toElement;
+			} else if (e.relatedTarget) {
+				mouse_over_element = e.relatedTarget;
+			}
+			if (mouse_over_element == null) {
+				return;
+			}
+			if (!mouse_over_element.descendantOf($('searchDropdown')) && $('searchDropdown') != mouse_over_element) {
+				$('searchDropdown').down('ul').hide();
+			} 
+		});
+	});
 </script>
-<div id="search">
-	<div id="autocomplete_choices" class="autocomplete"></div><table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
+<div id="searchTop">
+<form action="http://www.dotmed.com/listings/search_equipment.html" method="post" name="dotmedSearch" style="display:inline;margin-right:50px" onsubmit="choose_search()">
 
-<form action="http://www.dotmed.com/listings/search_equipment.html" method="post" name="dotmedSearch"></form>
-		<td width="276">
-<input id="searchbox" title="Equipment type, model or mfg" type="text" onfocus="if (this.value == 'Equipment type, model or mfg') { this.value=''; }" value="Equipment type, model or mfg" name="key" style="margin-right:10px;">
- 		</td>	
-					<input type="hidden" name="search_cat" value="entire">
+	<div style="display:inline;background-color:white;border:1px solid #CCCCCC;float:left;">
+		<a href="#" onclick="choose_search();return false"><img src="http://cdn.dotmed.com/images/search-icon.png" style="float:left;margin-top:5px;"></a>
+		<input id="searchbox" title="Equipment type, model or mfg" type="text" onfocus="if (this.value == 'Equipment type, model or mfg') { this.value=''; }" value="Equipment type, model or mfg" name="key">
 
-<td>
-<a href="javascript:document.dotmedSearch.submit();"><img align="bottom" src="http://cdn.dotmed.com/images/search_equipment_btn.gif" alt="dotmed" border="0"></a></td>
-						
-		<input type="hidden" name="mode" value="all">
-		<input type="hidden" name="header" value="0">
-		<input type="hidden" name="pcode" value="0">
-		<input type="hidden" name="description" value="0">
-		<input type="hidden" name="mfg" value="all">
-<!--		<input type='hidden' name='mfg' value="0">  
-Sept 23  because we don't all filtering by mfg.. you can refine a search that way but not search_cating -->
-			<td id="searchmore"><a href="/equipment/newest">New Listings</a> | <a href="/listings/post">Post Listing</a> | <a href="/features/auctions.html">Post Auction</a> | <a href="/virtual-trade-show/">Find Service</a></td>
-
-		</tr>
-	</tbody></table>
-
-
+	</div>
+		<ul id="searchDropdown">
+			<li id="search_selected_box"><a id="search_selected" href="#">Equipment</a><br>
+				<ul style="display:none">
+<li id="search_Equipment" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Equipment</a></li><li id="search_Parts" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Parts</a></li><li id="search_People" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">People</a></li><li id="search_Services" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Services</a></li><li id="search_Equipment_Guide" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Equipment Guide</a></li><li id="search_Forums" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Forums</a></li><li id="search_News" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">News</a></li>				</ul>
+			</li>
+		</ul>
+	<a href="#" onclick="choose_search();return false;" style="float:left;padding:8px 20px;margin:0px;border-radius:0px;" class="myButton">SEARCH</a>
+</form>
+	<div id="searchRightLinks">
+		<a style="color:#000000" href="/equipment/newest">New Listings</a>
+		&nbsp;
+		<a style="color:#000000" href="/listings/post">Post Listing</a>
+		&nbsp;
+		<a style="color:#000000" href="/features/auctions.html">Post Auction</a>
+		&nbsp;
+		<a style="color:#000000;" href="/features/advertise.html">Advertise</a>
+	</div>
 </div>
+<div id="autocomplete_choices" class="autocomplete"></div>
+
 <script language="javascript" charset="UTF-8">
+
 Ajax.Autocompleter.prototype.updateChoices=function(choices) {
     if(!this.changed && this.hasFocus) {
       this.update.innerHTML = choices;
@@ -177,99 +299,6 @@ Ajax.Autocompleter.prototype.updateChoices=function(choices) {
 new Ajax.Autocompleter("searchbox", "autocomplete_choices", "/ajax/requests/search/complete", {method:'get',paramName: 'key',frequency:'.6' } );
 </script>
 
-
-
-		<div id="topMenu">
-	<ul> 
-		<li class="home"><a href="http://www.dotmed.com/">Home</a></li>
-		<li id="category"><a href="/listings/equipment/" onclick="return false;">Equipment</a>
-<ul id="categoryMenu" class="categoryMenuC" style="display:none;">
-<li>
-<ul id="categoryMenu-col2">
-<li><a href="/equipment/41">Beds, Stretchers and Furniture</a></li>
-<li><a href="/equipment/34">Cardiology</a></li>
-<li><a href="/equipment/24">Consumables and Supplies</a></li>
-<li><a href="/equipment/30">Cosmetic</a></li>
-<li><a href="/equipment/31">Defibrillator</a></li>
-<li><a href="/equipment/13">Dental</a></li>
-<!-- end categoryMenu-col2 --></ul>
-<ul id="categoryMenu-col4">
-<li><a href="/equipment/28">EMS/Rescue</a></li>
-<li><a href="/equipment/29">Endoscopy</a></li>
-<li><a href="/equipment/35">Exam Room</a></li>
-<li><a href="/equipment/7">Homecare/Rehab</a></li>
-<li><a href="/equipment/2">Imaging</a></li>
-<li><a href="/equipment/5">Laboratory</a></li>
-<!-- end categoryMenu-col4 --></ul>
-<ul id="categoryMenu-col6">
-<li><a href="/equipment/33">Monitors/ICU/CCU</a></li>
-<li><a href="/equipment/36">Neonatal</a></li>
-<li><a href="/equipment/40">Neurology</a></li>
-<li><a href="/equipment/37">Ophthalmology</a></li>
-<li><a href="/equipment/25">Physical Therapy</a></li>
-<li><a href="/equipment/32">Pumps</a></li>
-<!-- end categoryMenu-col6 --></ul>
-<ul id="categoryMenu-col8">
-<li><a href="/equipment/26">Radiation Therapy</a></li>
-<li><a href="/equipment/38">Respiratory</a></li>
-<li><a href="/equipment/39">Sterile Processing</a></li>
-<li><a href="/equipment/23">Surgical</a></li>
-<li><a href="/equipment/14">Veterinary</a></li>
-<li><a href="/equipment/1">All Others</a></li>
-<!-- end categoryMenu-col8 --></ul>
-</li>
-
-<!-- end Menu -->
-</ul>
-</li>
-		<li id="parts_category"><a href="/listings/parts/" onclick="return false;">Parts</a>
-<ul id="partsCategoryMenu" class="categoryMenuC" style="display:none;">
-<li>
-<ul id="partsCategoryMenu-col2">
-<li><a href="/parts/41">Beds, Stretchers and Furniture</a></li>
-<li><a href="/parts/34">Cardiology</a></li>
-<li><a href="/parts/24">Consumables and Supplies</a></li>
-<li><a href="/parts/30">Cosmetic</a></li>
-<li><a href="/parts/31">Defibrillator</a></li>
-<li><a href="/parts/13">Dental</a></li>
-<!-- end partsCategoryMenu-col2 --></ul>
-<ul id="partsCategoryMenu-col4">
-<li><a href="/parts/28">EMS/Rescue</a></li>
-<li><a href="/parts/29">Endoscopy</a></li>
-<li><a href="/parts/35">Exam Room</a></li>
-<li><a href="/parts/7">Homecare/Rehab</a></li>
-<li><a href="/parts/2">Imaging</a></li>
-<li><a href="/parts/5">Laboratory</a></li>
-<!-- end partsCategoryMenu-col4 --></ul>
-<ul id="partsCategoryMenu-col6">
-<li><a href="/parts/33">Monitors/ICU/CCU</a></li>
-<li><a href="/parts/36">Neonatal</a></li>
-<li><a href="/parts/40">Neurology</a></li>
-<li><a href="/parts/37">Ophthalmology</a></li>
-<li><a href="/parts/25">Physical Therapy</a></li>
-<li><a href="/parts/32">Pumps</a></li>
-<!-- end partsCategoryMenu-col6 --></ul>
-<ul id="partsCategoryMenu-col8">
-<li><a href="/parts/26">Radiation Therapy</a></li>
-<li><a href="/parts/38">Respiratory</a></li>
-<li><a href="/parts/39">Sterile Processing</a></li>
-<li><a href="/parts/23">Surgical</a></li>
-<li><a href="/parts/14">Veterinary</a></li>
-<li><a href="/parts/1">All Others</a></li>
-<!-- end partsCategoryMenu-col8 --></ul>
-</li>
-
-<!-- end Menu -->
-</ul>
-</li>
-		<li><a href="http://www.dotmed.com/auctions/featured/">Auctions</a></li>
-		<li><a href="http://www.dotmed.com/virtual-trade-show/">Virtual Trade Show</a></li>
-		<li><a href="http://www.dotmed.com/news/">Today's News</a></li>
-		<li><a href="http://www.dotmed.com/virtual-trade-show/category/forums/">Forums</a></li>
-		<li><a href="http://www.dotmed.com/careers/">Careers</a></li>
-		<li><a href="http://www.dotmed.com/features/advertise.html">Advertise</a></li>
-	</ul>
-</div>  
 
 
 
@@ -399,7 +428,7 @@ new Ajax.Autocompleter("searchbox", "autocomplete_choices", "/ajax/requests/sear
 			Property of and Proprietary to DOTmed.com, Inc.
 			<a href="/copyright.html">Copyright ©2001-2012
  DOTmed.com, Inc.</a><br>
-			ALL RIGHTS RESERVED<br>
+		ALL RIGHTS RESERVED<br>
 	<!-- end div above copyright notice -->
 	</div>
 
@@ -421,23 +450,6 @@ new Ajax.Autocompleter("searchbox", "autocomplete_choices", "/ajax/requests/sear
   })();
 
 </script>
-<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
-<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
-<script type="text/javascript">
- var _rsCI="us-bpaww";
- var _rsCG="0";
- var _rsDN="//secure-us.imrworldwide.com/";
- var _rsPLfl=0;
- var _rsSE=1;
- var _rsSM=1.0;
- var _rsCL=1;
-</script>
-<script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
-<noscript>
- <div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-bpaww&amp;cg=0&amp;cc=1" alt=""/></div>
-</noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
-
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-a27_zNj5w4mxQ";quantserve();</script>
@@ -445,6 +457,7 @@ new Ajax.Autocompleter("searchbox", "autocomplete_choices", "/ajax/requests/sear
 <a href="http://www.quantcast.com/p-a27_zNj5w4mxQ" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-a27_zNj5w4mxQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
+
 
 
 
