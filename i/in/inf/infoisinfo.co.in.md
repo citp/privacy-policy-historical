@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoisinfo.co.in privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206045923id_/http%3A//www.infoisinfo.co.in/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoisinfo.co.in privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006084028id_/http%3A//www.infoisinfo.co.in/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
