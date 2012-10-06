@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415014043id_/http%3A//help.golfonline.co.uk/Privacy-and-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006060234id_/http%3A//help.golfonline.co.uk/PrivacyandSecurity) for the most accurate reproduction.*
 
 # Privacy and Security : Help Section
 
 Since we launched in 2000, online privacy has been a priority for us.  It’s changed a lot, but over the years we have found that it is best to do two things.  Make sure that our privacy is in line with the law, and a recognised industry standard.  As such, our privacy policy is in line with both the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents) and the best practices of the [Which? Web Trader Code of Practice](http://www.trustedwebtraders.com/Internet-Code-of-Practice).  Below are the main subjects our customers need information about, but for anything else, please feel free to [contact us](http://www.golfonline.co.uk/contact-us) anytime. 
+
+Cookies
+
+A Cookie is a small file created by your browser and stored on your hard drive. It picks up useful bits of information about your time on our site and makes the experience smoother. For example, at GolfOnline, we use cookies to collect information about which items you are choosing whilst you shop with us, and then we place the information about the products you finally choose into the checkout, ready for you to pay for once you are ready. No other personal information is contained or transmitted in the cookie. If you reject cookies, you will be unable to place orders on the GolfOnline.co.uk website.
 
 Security
 
@@ -15,10 +19,6 @@ We use Internet Protocol (IP) addresses to assist us in gathering broad demograp
 Passwords
 
 When you submit sensitive information via the website, your information is protected on-line, off-line and in transit. We do not store your actual password. Instead, a system know as MD5 hashing is used to ‘one-way encrypt’ your password, meaning we can only receive a correct password from you, not send your chosen password outwards from us to you or anyone else. Should you lose you password, you can void it and reset it, without worrying about it turning up in any of your mail.
-
-Cookies
-
-A Cookie is a small file created by your browser and stored on your hard drive. It picks up useful bits of information about your time on our site and makes the experience smoother. For example, at GolfOnline, we use cookies to collect information about which items you are choosing whilst you shop with us, and then we place the information about the products you finally choose into the checkout, ready for you to pay for once you are ready. No other personal information is contained or transmitted in the cookie. If you reject cookies, you will be unable to place orders on the GolfOnline.co.uk website.
 
 Newsletters
 
