@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webrootanywhere.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611104616id_/http%3A//www.webroot.com/En_US/about-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webrootanywhere.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006231320id_/http%3A//www.webroot.com/En_US/about-privacy.html) for the most accurate reproduction.*
 
-# About Webroot | Webroot
+# Webroot's Privacy Policy | Webroot
 
 [](http://www.truste.org/ivalidate.php?url=www.webroot.com&sealid=102)WEBROOT ADHERES TO THE SEVEN SAFE HARBOR PRINCIPLES INCORPORATED IN THE SAFE HARBOR FRAMEWORK ESTABLISHED BY THE U.S. DEPARTMENT OF COMMERCE AND THE EUROPEAN COMMISSION REGARDING THE COLLECTION, TRANSFER, USE, AND RETENTION OF PERSONAL DATA RECEIVED FROM THE EUROPEAN UNION. 
 
