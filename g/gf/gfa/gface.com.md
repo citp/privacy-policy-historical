@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gface.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413145333id_/http%3A//www.gface.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gface.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006063740id_/http%3A//www.gface.com/privacy) for the most accurate reproduction.*
 
 # Play. Together. Live.
 
