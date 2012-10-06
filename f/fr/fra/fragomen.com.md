@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629104050id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006074707id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Fragomen global corporate immigration law | News & Alerts - RSS Registration
 
 Effective March 23, 2012  
   
-Fragomen, Del Rey, Bernsen & Loewy, LLP, Fragomen Global LLP, and their related affiliates and subsidiaries (collectively “Fragomen”) respect your concerns about privacy. This Online Privacy Notice applies only to personal information collected on [http://www.fragomen.com/](https://web.archive.org/web/20120629104050id_/). This notice describes the types of personal information we collect on this website, how we may use that information and with whom we share it. Our Online Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can reach us to answer any questions you may have about our online privacy practices.
+Fragomen, Del Rey, Bernsen & Loewy, LLP, Fragomen Global LLP, and their related affiliates and subsidiaries (collectively “Fragomen”) respect your concerns about privacy. This Online Privacy Notice applies only to personal information collected on [http://www.fragomen.com/](https://web.archive.org/web/20121006074707id_/). This notice describes the types of personal information we collect on this website, how we may use that information and with whom we share it. Our Online Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can reach us to answer any questions you may have about our online privacy practices.
 
  **INFORMATION WE COLLECT AND HOW WE USE IT** **
 
