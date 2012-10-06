@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citruslane.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195754id_/http%3A//www.citruslane.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citruslane.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006105851id_/https%3A//www.citruslane.com/privacy.html) for the most accurate reproduction.*
 
 # Citrus Lane: Privacy Policy
 
@@ -74,7 +74,7 @@ Citrus Lane takes reasonable steps to protect the Personal Data provided via the
 
 ### Other Terms and Conditions:
 
-Your access to and use of this Site is subject to the [Terms of Service](http://www.citruslane.com/terms.html).
+Your access to and use of this Site is subject to the [Terms of Service](https://www.citruslane.com/terms.html).
 
 ### Changes to Citrus Lane’s Privacy Policy:
 
