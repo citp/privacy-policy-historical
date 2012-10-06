@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanexcess.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508210655id_/http%3A//www.urbanexcess.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanexcess.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006074522id_/http%3A//www.urbanexcess.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
