@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateprofits.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605075023id_/http%3A//www.dateprofits.com/webmaster/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateprofits.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007002134id_/http%3A//www.dateprofits.com/webmaster/privacy) for the most accurate reproduction.*
 
 # None
 
