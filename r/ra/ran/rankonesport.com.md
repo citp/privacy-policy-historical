@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankonesport.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202230605id_/https%3A//www.rankonesport.com/%3Fm%3DContent%26n%3DPrivacy_Policy%26i%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankonesport.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006132402id_/http%3A//rankonesport.com/Main/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Rank One Sport Athlete Management and Scheduling Software
 
   
 Rank One Sport LP, a Texas limited partnership (“ROS”), has created this Privacy Policy in order to demonstrate our firm commitment to the privacy of your personal information. The following discloses our information gathering and dissemination practices for the site located atwww.rankonesport.com and other affiliated websites owned and operated by ROS and its affiliates (the “Site”).   
