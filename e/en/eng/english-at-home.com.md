@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613050419id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006122840id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - english-at-home.com
-
-## Privacy Policy
+# Privacy Policy
 
 Your privacy is important to us.
 
