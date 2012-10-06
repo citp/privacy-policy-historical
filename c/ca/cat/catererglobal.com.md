@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626040013id_/http%3A//www.catererglobal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006035014id_/http%3A//www.catererglobal.com/privacy.html) for the most accurate reproduction.*
 
 # Catererglobal.com - Privacy Policy - International Hospitality Jobs - Hotel and catering jobs abroad
 
@@ -23,7 +23,7 @@ When registering your profile, you can choose to prevent our customers from acce
 
 IMPORTANT: Your current employer may be a customer of catererglobal.com, or a client of one of our consultancy customers. Catererglobal.com cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process catererglobal.com offers you the option of remaining anonymous.
 
-Catererglobal.com will also use the aggregate data to identify trends, such as salary averages and experience/skills levels. This information will not be capable of being linked to any personally identifying information about users.
+Catererglobal.com will also use the aggregate data to identify trends, such as salary averages and experience/skills levels.
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed. Once your profile and CV are on our database we will contact you every six months using your most recent contact details to ask whether you want it to remain there. If we do not hear from you, your profile and CV will be removed from our database.
 
