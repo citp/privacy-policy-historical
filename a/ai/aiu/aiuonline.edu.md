@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aiuonline.edu privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626184327id_/http%3A//www.aiuniv.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuonline.edu privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006043133id_/http%3A//www.aiuniv.edu/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 The Effective Date of this Privacy Policy is April 13, 2009.
 
-This and certain other linked web pages on servers owned by Career Education Corporation (otherwise noted as the "Sites") are owned and operated by Career Education Corporation, a Delaware corporation ("Career Education Corporation"). Please read the following sections carefully, as they contain the Privacy Policies covering the use of the Sites. Additionally, you should review our [Legal Terms and Conditions](https://web.archive.org/Terms). Inquiries or concerns regarding this Privacy policy or the Legal Terms and Conditions may be sent by any of the following: via e-mail to [privacymatters@careered.com](mailto:privacymatters@careered.com) or by mail to Privacy Matters, Career Education Corporation, 2895 Greenspoint Parkway, Suite 600, Hoffman Estates, IL 60196.
+This and certain other linked web pages on servers owned by Career Education Corporation (otherwise noted as the "Sites") are owned and operated by Career Education Corporation, a Delaware corporation ("Career Education Corporation"). Please read the following sections carefully, as they contain the Privacy Policies covering the use of the Sites. Additionally, you should review our [Legal Terms and Conditions](https://web.archive.org/Terms). Inquiries or concerns regarding this Privacy policy or the Legal Terms and Conditions may be sent by any of the following: via e-mail to [privacymatters@careered.com](mailto:privacymatters@careered.com) or by mail to Privacy Matters, Career Education Corporation, 231 N Martingale Road, Schaumburg, IL 60173.
 
 PLEASE READ THE FOLLOWING PRIVACY POLICY (OTHERWISE NOTED AS THIS "AGREEMENT") CAREFULLY BEFORE USING THE SITES. BY USING THE SITES, YOU SIGNIFY YOUR ASSENT TO THIS AGREEMENT. IF YOU DO NOT ASSENT TO THIS AGREEMENT, PLEASE DO NOT USE THE SITE: <http://www.aiuniv.edu/>.
 
@@ -47,7 +47,6 @@ To remove or change your contact information in our database, or to not receive 
 2\. Contact us at:
 
 Career Education Corporation  
-2895 Greenspoint Parkway  
-Suite 600  
-Hoffman Estates, Illinois 60195  
+251 N. Martingale Road  
+Schaumburg, IL 60173  
 Phone: 847-781-3600
