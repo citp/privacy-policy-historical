@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbeds.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604055617id_/http%3A//www.quickbeds.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbeds.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006204821id_/http%3A//www.quickbeds.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Quickbeds.com Privacy Policy
 
