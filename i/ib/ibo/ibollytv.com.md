@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615121446id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007011026id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ibollytv.com
 
