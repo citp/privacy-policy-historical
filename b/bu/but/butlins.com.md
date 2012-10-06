@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butlins.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517194814id_/http%3A//www.butlins.com/privacy-statement/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butlins.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006122340id_/http%3A//www.butlins.com/privacy-statement/index.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -318,7 +318,7 @@ These cookies facilitate targeting of relevant ads, control the number of times 
 
 2 years  
   
-You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at www.allaboutcookies.org.
+You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at [www.aboutcookies.org](http://www.aboutcookies.org/).
 
  **  
 IP Tracking**  
