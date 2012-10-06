@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512041108id_/http%3A//www.beyond.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006081956id_/http%3A//www.beyond.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Find Jobs, Post Your Resume - Beyond.com
 
@@ -128,7 +128,7 @@ Back to top
 
 * * *
 
-Rev. October 2010
+Rev. May 2012
 
 * * *
 
