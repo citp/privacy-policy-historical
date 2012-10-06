@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerrysartarama.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105235519id_/http%3A//www.jerrysartarama.com/quick-links/privacy-info.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerrysartarama.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006124721id_/http%3A//www.jerrysartarama.com/quick-links/privacy-info.htm) for the most accurate reproduction.*
 
 # Jerry's Artarama Privacy Policy - JerrysArtarama.com
 
