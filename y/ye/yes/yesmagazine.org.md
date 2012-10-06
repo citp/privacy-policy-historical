@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523212535id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006155319id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — YES! Magazine
 
@@ -9,6 +9,15 @@ Join over 62,000 others already signed up for FREE YES! news.
 
     [](http://www.yesmagazine.org/whatcounts/signup_weekly.php?ica=Signup_tn_YTW_signup&icl=All_800)  
 [Sign up](http://www.yesmagazine.org/whatcounts/signup_weekly.php?ica=Signup_txt_YTW_signup&icl=All_800) for our weekly highlights email. 
+
+     [ National Conference on Dialogue & Deliberation  Seattle, Washington ,   
+Oct 12, 2012  ](http://www.yesmagazine.org/events/national-conference-on-dialogue-deliberation "The framing question for the 2012 conference: “How can we build a more robust civic infrastructure for our practice, our communities and our country?”")
+     [ World On Your Plate 2012 Amherst, New York,   
+Oct 12, 2012  ](http://www.yesmagazine.org/events/world-on-your-plate-2012 "The 9th Annual Conference on Food and Sustainable Living will feature workshops, guest presenters, discussion, and more. ")
+     [ Shift Change Documentary World Premiere Oakland, California,   
+Oct 18, 2012  ](http://www.yesmagazine.org/events/shift-change-documentary-world-premiere "New documentary highlights worker-owned enterprises in North America and in Mondragon, Spain. ")
+     [ Raffi #Belugagrads Concert Seattle, WA,   
+Oct 27, 2012  ](http://www.yesmagazine.org/events/raffi-belugagrads-concert-1 "One day only in Seattle! Proceeds from this special concert benefit the Centre for Child Honouring. ")
 
 [](http://store.yesmagazine.org/products/books/7/agenda-for-a-new-economy-2nd-edition/?ica=DKbk_port&icl=All_2000)
 
@@ -126,7 +135,7 @@ We do not intentionally collect any personally identifiable information from ind
 
 _This Privacy Policy may be amended from time to time. Any such changes will be posted on this page so you should check here from time to time._
 
-YES! Magazine encourages you to make free use of this article by taking these [easy steps](http://www.yesmagazine.org/about/reprints). lotto. (2009, June 30). Privacy Policy. Retrieved May 23, 2012, from YES! Magazine Web site: http://www.yesmagazine.org/about/privacy-policy. This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
+YES! Magazine encourages you to make free use of this article by taking these [easy steps](http://www.yesmagazine.org/about/reprints). lotto. (2009, June 30). Privacy Policy. Retrieved October 06, 2012, from YES! Magazine Web site: http://www.yesmagazine.org/about/privacy-policy. This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
 
 [ ](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
 
