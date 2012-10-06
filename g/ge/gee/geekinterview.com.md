@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615164543id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006092105id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
 
 # GeekInterview.com - Privacy Policy
 
