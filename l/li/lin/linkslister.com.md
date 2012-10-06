@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkslister.com privacy policy that was archived on 2012-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120316034931id_/http%3A//www.linkslister.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkslister.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006135737id_/http%3A//www.linkslister.com/privacy.php) for the most accurate reproduction.*
 
 # Free Link Exchange, Link Swap, and Link Trade Directory
 
