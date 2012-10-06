@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luggagepros.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619074800id_/http%3A//www.luggagepros.com/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luggagepros.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006175516id_/http%3A//www.luggagepros.com/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement - Luggage Pros
 
@@ -17,7 +17,7 @@ We will not collect your name, address, telephone number, or e-mail address unle
 We have no intention of collecting any personal information (that is, name, address, telephone number, or e-mail address) from individuals under eighteen years of age. Where appropriate, we will specifically instruct children not to submit such information on our website. If a child has provided us with personally identifiable information, a parent or guardian of that child should contact us at the e-mail address listed at the bottom of this Statement to request that this information be deleted from our records. We will use reasonable efforts to delete the child's information from our existing files. 
 
 **Other Information Collected Automatically**   
-In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the origin of the website from which you linked to our website. 
+In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, the origin of the website from which you linked to our website and and third party vendors may use cookies to serve ads and/or badges based on a user's prior visits. Users may opt out of third party cookie use by visting the [ Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Information We May Place Automatically On Your Computer's Hard Drive**   
 When you view our website, we may store some information on your computer. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor our website to better match your interests and preferences. With most Internet Browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
