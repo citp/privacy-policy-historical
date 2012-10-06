@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the bannerbuzz.com privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531132702id_/http%3A//www.bannerbuzz.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bannerbuzz.com privacy policy that was archived on 2012-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006141903id_/http%3A//www.bannerbuzz.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
 <base href="http://www.bannerbuzz.com/">
-<link rel="shortcut icon" type="image/x-icon" href="images/header/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.bannerbuzz.com/images/header/favicon.ico">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="css/ie.css" />
@@ -11,12 +11,9 @@
 	<script type="text/javascript" src="js/jquery.min.js"></script> 
 	<script type="text/javascript" src="js/scrolltopcontrol.js"></script>
 
-<script language="javascript" type="text/javascript" charset="utf-8" src="js/top-menubar.js"></script>
-<script type="text/javascript" src="js/tooltip/ajax-dynamic-content.js"></script>
-<script type="text/javascript" src="js/tooltip/ajax.js"></script>
-<script type="text/javascript" src="js/tooltip/ajax-tooltip.js"></script>
+<script language="javascript" src="js/top-menubar.js" type="text/javascript"> </script>
 
-<meta name="rating" content="general">
+
 <meta name="google-site-verification" content="5CEhoVxqe63sxsinqLanew6QvfvhUDRkWr6AmrZug8Y">
 <meta name="y_key" content="18565b18b6c22dc6">
 <meta name="msvalidate.01" content="A7F4D9018AF303B12CD3C2110AF65463">
@@ -27,10 +24,14 @@
  <meta name="robots" content="index, follow">
  <meta name="robots" content="noodp">
  <!-- EOF: Generated Meta Tags -->
+
+<script language="javascript" src="js/commonfunctions.js" type="text/javascript"> </script>
 <script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '61c93f5394a6040474433e1be7803d47')</script></head>
 <body>
 <center>
   <div>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/country_dropdown.js"> </script>
 <script type="text/javascript">
     	function NewWindow(page, name, w, h, location, scroll) { //alert(page);
 			var winl = (screen.width - w) / 2;
@@ -64,14 +65,31 @@
 				}
 	}
 	
+	  ddsmoothmenu.init({
+        mainmenuid: "smoothmenu1", //menu DIV id
+        orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+        classname: 'ddsmoothmenu', //class added to menu's outer DIV
+        //customtheme: ["#1c5a80", "#18374a"],
+        contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+        })
+        
+        ddsmoothmenu.init({
+        mainmenuid: "smoothmenu2", //Menu DIV id
+        orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+        classname: 'ddsmoothmenu-v', //class added to menu's outer DIV
+        //customtheme: ["#804000", "#482400"],
+        contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+        })
+		
     </script>
-    
+  
+  
 <!-- main div start-->
 </div>
 <div class="main">
 <div class="header">
   <!--header main div start-->
-  <div class="logo"><a href="http://www.bannerbuzz.com"><img src="images/header/logo.png" title="BannerBuzz.com" alt="BannerBuzz.com" width="238" height="86"></a></div>
+  <div class="logo" style="margin:0px 0px 0px 0px"><a href="http://www.bannerbuzz.com"><img src="images/header/logo.png" title="BannerBuzz.com" alt="BannerBuzz.com" width="238" height="86"></a></div>
   <div class="header-linkpart">
     <div class="homeofftext">Home Of $0.99*/Sq.Ft Banners<br>
       <span class="headerFreeshipping float-L" onclick="NewWindow('shippingrate.php','ShippingRate','600','400','0','yes')">FREE SHIPPING</span> <span class="float-L" id="shipping_span" onmouseover="ajax_showTooltip(window.event,'shippingrate_tooltip.php',this);return false" onmouseout="ajax_hideTooltip()" style="cursor: pointer;"><div class="headerFreeshipping-icon"></div></span>
@@ -85,34 +103,36 @@
       </div>
       
       
-    <div style=" width:155px; float:left">
+   <div style=" width:160px; float:left">
       <div class="flag float-L">
-        <ul>
-          <li class="float-L usa" onclick="select_country('usa');"></li>
-          <li id="country_ul" style="" class="float-L caneda" onmouseover="ajax_showTooltip(window.event,'canada.php',this);return false" onmouseout="ajax_hideTooltip()" onclick="select_country('canada');"></li>
-        </ul>
-      </div>
+        <div id="smoothmenu1" class="ddsmoothmenu">
+            <ul>
+                <li class="bg"><a href="#" class="flag-sprite us" title="United States">United States</a>
+                    <ul class="bdr">
+                        <li><a href="http://www.bannerbuzz.com.au/" class="flag-sprite" title="Australia">Australia</a></li>
+                        <li><a href="http://www.bannerbuzz.ca/" class="flag-sprite ca" title="Canada">Canada</a></li>
+                        <li><a href="http://www.bannerbuzz.co.uk/" class="flag-sprite uk" title="United Kingdom">United Kingdom</a></li>
+
+                    </ul>
+                </li>        
+                </ul>        
+        </div>
+     </div>
+      
       <div class="livesupport">
-        <!--<img src="images/header/online-support-icon.gif" title="Online" />-->
-        <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-        <div id="cii0CU" style="z-index:100;position:absolute"></div>
-        <div id="sci0CU" style="display:inline"></div>
-        <div id="sdi0CU" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/bannerbuzz/safe-standard.js?ps_h=i0CU&amp;ps_t=1580381414839"></script></div>
-        <script type="text/javascript">var sei0CU=document.createElement("script");sei0CU.type="text/javascript";var sei0CUs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/bannerbuzz/safe-standard.js?ps_h=i0CU&ps_t="+new Date().getTime();setTimeout("sei0CU.src=sei0CUs;document.getElementById('sdi0CU').appendChild(sei0CU)",1)</script>
-        <noscript>
-        <div style="display:inline"><a href="https://www.providesupport.com?messenger=bannerbuzz">Live Support Chat</a></div>
-        </noscript>
-        <!-- END ProvideSupport.com Graphics Chat Button Code -->
+      <a onclick="window.open('https://messenger.providesupport.com/messenger/bannerbuzz.html', '_blank','menubar=0,location=0,scrollbars=auto,resizable=1,status=0,width=600,height=550');return false;" href="#" rel="nofollow"><img src="https://image.providesupport.com/image/bannerbuzz/current" align="bottom" title="Live Support" alt="Live Support"></a>
       </div>
     </div>
     <div class="servicelink">
       <ul>
-                <li><a href="shopping_cart.php?osCsid=" rel="nofollow" title="View Cart">View Cart</a></li>
+                                    <li><a href="http://www.bannerbuzz.com/my-saved-designs.html" rel="nofollow" title="My Designs">My Designs</a></li>
+                            <li><span>|</span></li>
+                                    <li><a href="shopping_cart.php?osCsid=" rel="nofollow" title="View Cart">View Cart</a></li>
         <li><span>|</span></li>
         <li><a href="account.php?osCsid=" rel="nofollow" title="My Account">My Account</a></li>
         <li class="contactlink" onmouseover="ajax_showTooltip(window.event,'existing_orders.php',this);return false" onmouseout="ajax_hideTooltip()"><a href="mailto:sales@bannerbuzz.com" title="sales@bannerbuzz.com" rel="nofollow">sales@bannerbuzz.com</a></li>
         <li class="contactlink">800-580-4489</li>
-        <li class="contactlink"><a title="Instant Quote" class="pricelink" href="javascript:NewWindow('http://www.bannerbuzz.com/quotation.php','InstantPrice','1250','650','0','yes');">INSTANT QUOTE</a></li>
+        <li class="contactlink"><a title="Instant Quote" class="pricelink" rel="nofollow" href="javascript:NewWindow('http://www.bannerbuzz.com/quotation.php','InstantPrice','1550','650','0','yes');">INSTANT QUOTE</a></li>
       </ul>
     </div>
     <div class="header-logo-module">
@@ -153,7 +173,6 @@
     <li><h2><a href="http://www.bannerbuzz.com/trade-show-banners.html" title="Trade Show Banners">Trade Show Banners</a></h2></li>
     <li><h2><a href="http://www.bannerbuzz.com/indoor-vinyl-banners.html" title="Indoor Vinyl Banners">Indoor Vinyl Banners</a></h2></li>
     <li><h2><a href="http://www.bannerbuzz.com/merry-christmas-banners.html" title="Merry Christmas Banners">Merry Christmas Banners</a></h2></li>
-    <li><h2><a href="http://www.bannerbuzz.com/billboard-printing.html" title="Billboard Printing">Billboard Printing</a></h2></li>
     <li><h2><a href="http://www.bannerbuzz.com/matte-banners.html" title="Matte Banners">Matte Banners</a></h2></li>
 	 <li><h2><a href="http://www.bannerbuzz.com/pole-banners.html" title="Pole Banners">Pole Banners</a></h2></li>
     
@@ -188,24 +207,39 @@
     <li><h2><a href="http://www.bannerbuzz.com/34-4/backlit-banners.html" title="Backlit Banners">Backlit Banners</a></h2></li>
     <li><h2><a href="http://www.bannerbuzz.com/33-3/canvas-banners.html" title="Canvas Banners">Canvas Banners</a></h2></li>
     <li><h2><a href="http://www.bannerbuzz.com/banners-and-signs.html" title="Banners and Signs">Banners and Signs</a></h2></li>
+    <li><h2><a href="http://www.bannerbuzz.com/event-vinyl-banners.html" title="Event Banners">Event Banners</a></h2></li>
+    <li><h2><a href="http://www.bannerbuzz.com/floor-decals-signs.html" title="Floor Decals / Signs">Floor Decals / Signs</a></h2></li>
+    <li><h2><a href="http://www.bannerbuzz.com/accessories.html" title="Accessories"> <b> Accessories </b>   </a></h2></li>
 </ul>
 
 <ul class="float-L morelinks" style="width:175px; border-left:1px dotted #CCCCCC;">
-        <li><h2><a href="http://www.bannerbuzz.com/event-vinyl-banners.html" title="Event Banners">Event Banners</a></h2></li>
+        <li><h2><a href="http://www.bannerbuzz.com/billboard-printing.html" title="Billboard Printing">Billboard Printing</a></h2></li>
         <li><h2><a href="http://www.bannerbuzz.com/business-vinyl-banners.html" title="Business Banners">Business Banners</a></h2></li>
         <li><h2><a href="http://www.bannerbuzz.com/real-estate-vinyl-banners.html" title="Real Estate Banners">Real Estate Banners</a></h2></li>
         <li><h2><a href="http://www.bannerbuzz.com/sports-vinyl-banners.html" title="Sports Banners">Sports Banners </a></h2></li>
         <li><h2><a href="http://www.bannerbuzz.com/grand-opening-vinyl-banners.html" title="Grand Opening Banners">Grand Opening Banners</a></h2></li>
         <li><h2><a href="http://www.bannerbuzz.com/street-vinyl-banners.html" title="Street Banners">Street Banners</a></h2></li>
+        <li><h2><a href="http://www.bannerbuzz.com/political-vinyl-banners.html" title="Political Banners">Political Banners</a></h2></li>
+        <li><h2><a href="http://www.bannerbuzz.com/magnetic-signs.html" title="Magnetic Signs">Magnetic Signs</a></h2></li>
+        <li><h2><a href="http://www.bannerbuzz.com/magnetic-stickers.html" title="Magnetic Stickers">Magnetic Stickers</a></h2></li>
+         
+        
 </ul>
 
 <ul class="float-L morelinks" style="width:235px; border-left:1px dotted #CCCCCC;">
-        <li><h2><a href="http://www.bannerbuzz.com/political-vinyl-banners.html" title="Political Banners">Political Banners</a></h2></li>
-        <li><h2><a href="http://www.bannerbuzz.com/sales-vinyl-banners.html" title="Sales Banners">Sales Banners</a></h2></li>
-        <li><h2><a href="http://www.bannerbuzz.com/holiday-vinyl-banners.html" title="Holiday Banners">Holiday Banners</a></h2></li>
+       
+         <li><h2><a href="http://www.bannerbuzz.com/sales-vinyl-banners.html" title="Sales Banners">Sales Banners</a></h2></li> 
+        <li><h2><a href="http://www.bannerbuzz.com/holiday-vinyl-banners.html" title="Holiday Banners">Holiday Banners</a></h2></li>  
+          <li><h2><a href="http://www.bannerbuzz.com/cloth-banners.html" title="Cloth / Fabric Banners">Cloth / Fabric Banners  </a></h2></li>
+        <li><h2><a href="http://www.bannerbuzz.com/step-and-repeat-banners.html" title="Step and Repeat Banners">Step and Repeat Banners</a></h2></li>
+      
         <li><h2><a href="http://www.bannerbuzz.com/wedding-anniversary-vinyl-banners.html" title="Wedding and Anniversary Banners">Wedding and Anniversary Banners</a></h2></li>
         <li><h2><a href="http://www.bannerbuzz.com/art-music-entertainment-vinyl-banners.html" title="Art, Music &amp; Entertainment Banners">Art, Music &amp; Entertainment Banners</a></h2></li>
         <li><h2><a href="http://www.bannerbuzz.com/automotive-transpotation-vinyl-banners.html" title="Automotive &amp; Transportation Banners">Automotive &amp; Transportation Banners</a></h2></li>
+      
+        <li><h2><a href="http://www.bannerbuzz.com/custom-table-covers.html" title="Custom Table Covers / Table Throw">Custom Table Covers / Table Throw </a></h2></li>
+         <li><h2><a href="http://www.bannerbuzz.com/vehicle-magnetic-signs.html" title="Vehicle Magnetic Signs">Vehicle Magnetic Signs</a></h2></li>
+        
 </ul>
 </div>
 
@@ -347,8 +381,8 @@ cssdropdown.startchrome("chromemenu")</script></div>
         <li class="aboutus"><a href="http://www.bannerbuzz.com/about-us.html" title="About us">About us</a></li>
         <li class="sitemap"><a href="http://www.bannerbuzz.com/sitemap.html" title="Sitemap">Sitemap</a></li>
         <li class="testimonials"><a href="http://www.bannerbuzz.com/testimonial.html" title="Testimonials">Testimonials</a></li>
-        <li class="contactus"><a href="http://www.bannerbuzz.com/contact-us.html" title="Contact us">Contact us</a></li>
-        <li class="order-tracking"><a href="http://www.bannerbuzz.com/tracking.php" title="Order Tracking">Order Tracking</a></li>
+        <li class="contactus"><a href="http://www.bannerbuzz.com/contact-us.html" title="Contact us" rel="nofollow">Contact us</a></li>
+        <li class="order-tracking"><a href="http://www.bannerbuzz.com/tracking.php" title="Order Tracking" rel="nofollow">Order Tracking</a></li>
       </ul>
     </div>
     <div class="footerlink-box">
@@ -392,7 +426,7 @@ cssdropdown.startchrome("chromemenu")</script></div>
       <ul>
         <li class="emailicon" onmouseover="ajax_showTooltip(window.event,'existing_orders.php',this);return false" onmouseout="ajax_hideTooltip()"><a href="mailto:sales@bannerbuzz.com" title="sales@bannerbuzz.com" rel="nofollow">sales@bannerbuzz.com</a></li>
         <li class="phoneicon">800-580-4489</li>
-        <li class="none"> <a onclick="window.open('https://messenger.providesupport.com/messenger/bannerbuzz.html', '_blank','menubar=0,location=0,scrollbars=auto,resizable=1,status=0,width=600,height=550');return false;" href="#"><img src="https://image.providesupport.com/image/bannerbuzz/current" align="bottom" title="Live Support" alt="Live Support"></a> </li>
+        <li class="none"> <a onclick="window.open('https://messenger.providesupport.com/messenger/bannerbuzz.html', '_blank','menubar=0,location=0,scrollbars=auto,resizable=1,status=0,width=600,height=550');return false;" href="#" rel="nofollow"><img src="https://image.providesupport.com/image/bannerbuzz/current" align="bottom" title="Live Support" alt="Live Support"></a> </li>
       </ul>
     </div>
     <div class="footer-feather-line"></div>
@@ -401,8 +435,9 @@ cssdropdown.startchrome("chromemenu")</script></div>
 <a href="http://www.bannerbuzz.com/pre-printed-vinyl-banners.html" title="Pre – Printed Vinyl Banners"> Pre – Printed Vinyl Banners </a> | <a href="http://www.bannerbuzz.com/school-banners.html" title="School Banners"> School Banners </a> | <a href="http://www.bannerbuzz.com/trade-show-banners.html" title="Trade Show Banners"> Trade Show Banners </a> | <a href="http://www.bannerbuzz.com/indoor-vinyl-banners.html" title="Indoor Vinyl Banners"> Indoor Vinyl Banners </a> | <a href="http://www.bannerbuzz.com/merry-christmas-banners.html" title="Merry Christmas Banners"> Merry Christmas Banners</a> |
 <a href="http://www.bannerbuzz.com/billboard-printing.html" title="Billboard Printing"> Billboard Printing </a> <br> 
 <a href="http://www.bannerbuzz.com/matte-banners.html" title="Matte Banners"> Matte Banners </a> | <a href="http://www.bannerbuzz.com/pole-banners.html" title="Pole Banners"> Pole Banners </a> | <a href="http://www.bannerbuzz.com/32-7/vinyl-decals.html" class="color" title="Vinyl Decals">Vinyl Decals</a> | <a href="http://www.bannerbuzz.com/window-decals.html" title="Window Decals"> Window Decals </a> | <a href="http://www.bannerbuzz.com/window-clings.html" title="Window Clings"> Window Clings </a> | <a href="http://www.bannerbuzz.com/vinyl-posters.html" title="Vinyl Posters"> Vinyl Posters </a> | <a href="http://www.bannerbuzz.com/car-decals.html" title="Car Decals"> Car Decals </a><br> <a href="http://www.bannerbuzz.com/clear-window-decals.html" title="Clear Window Decals"> Clear Window Decals </a> |
-<a href="http://www.bannerbuzz.com/31-6/perforated-window-signs.html" class="color" title="Window Signs">Window Signs</a> | <a href="http://www.bannerbuzz.com/31-6/perforated-window-signs.html" title="Perforated Window Signs"> Perforated Window Signs </a> | <a href="http://www.bannerbuzz.com/31-6/perforated-window-clings.html" title="Perforated Window Clings"> Perforated Window Clings </a> | <a href="http://www.bannerbuzz.com/one-way-vision-signs.html" title="One Way Vision Signs"> One Way Vision Signs </a> | <a href="http://www.bannerbuzz.com/custom-signs.html" title="Custom Signs"> Custom Signs </a><br>  <a href="http://www.bannerbuzz.com/mesh-banners.html" class="color" title="Mesh Banners">Mesh Banners</a> | <a href="http://www.bannerbuzz.com/banner-stands.html" class="color" title="Banner Stands">Banner Stands</a> |
-<a href="http://www.bannerbuzz.com/yard-signs.html" class="color" title="Yard Signs">Yard Signs</a> | <a href="http://www.bannerbuzz.com/vinyl-lettering.html" class="color" title="Vinyl Lettering">Vinyl Lettering</a> | <a href="http://www.bannerbuzz.com/34-4/backlit-banners.html" class="color" title="Backlit Banners">Backlit Banners</a> | <a href="http://www.bannerbuzz.com/33-3/canvas-banners.html" class="color" title="Canvas Banners">Canvas Banners</a> | <a href="http://www.bannerbuzz.com/banners-and-signs.html" class="color" title="Banners and Signs">Banners and Signs</a> | <a href="http://www.canvaschamp.com" target="_blank" class="color" title="Canvas Prints">Canvas Prints</a>
+
+<a href="http://www.bannerbuzz.com/magnetic-signs.html" title="Magnetic Signs"> Magnetic Signs </a> | <a href="http://www.bannerbuzz.com/magnetic-stickers.html" title="Magnetic Stickers "> Magnetic Stickers  </a> | <a href="http://www.bannerbuzz.com/vehicle-magnetic-signs.html" title="Vehicle Magnetic Signs"> Vehicle Magnetic Signs </a>  | <a href="http://www.bannerbuzz.com/31-6/perforated-window-signs.html" class="color" title="Window Signs">Window Signs</a> | <br> <a href="http://www.bannerbuzz.com/31-6/perforated-window-signs.html" title="Perforated Window Signs"> Perforated Window Signs </a> | <a href="http://www.bannerbuzz.com/31-6/perforated-window-clings.html" title="Perforated Window Clings"> Perforated Window Clings </a> | <a href="http://www.bannerbuzz.com/one-way-vision-signs.html" title="One Way Vision Signs"> One Way Vision Signs </a> | <a href="http://www.bannerbuzz.com/custom-signs.html" title="Custom Signs"> Custom Signs </a><br>  <a href="http://www.bannerbuzz.com/mesh-banners.html" class="color" title="Mesh Banners">Mesh Banners</a> | <a href="http://www.bannerbuzz.com/banner-stands.html" class="color" title="Banner Stands">Banner Stands</a> |
+<a href="http://www.bannerbuzz.com/yard-signs.html" class="color" title="Yard Signs">Yard Signs</a> | <a href="http://www.bannerbuzz.com/vinyl-lettering.html" class="color" title="Vinyl Lettering">Vinyl Lettering</a> | <a href="http://www.bannerbuzz.com/34-4/backlit-banners.html" class="color" title="Backlit Banners">Backlit Banners</a> | <a href="http://www.bannerbuzz.com/33-3/canvas-banners.html" class="color" title="Canvas Banners">Canvas Banners</a> | <a href="http://www.bannerbuzz.com/banners-and-signs.html" class="color" title="Banners and Signs">Banners and Signs</a>   <br> <a href="http://www.bannerbuzz.com/cloth-banners.html" class="color" title="Cloth / Fabric Banners">Cloth / Fabric Banners</a> | <a href="http://www.bannerbuzz.com/custom-table-covers.html" class="color" title="Custom Table Covers / Table Throw ">Custom Table Covers / Table Throw </a> | <a href="http://www.bannerbuzz.com/step-and-repeat-banners.html" class="color" title=" Step and Repeat Banners "> Step and Repeat Banners  </a> | <a href="http://www.bannerbuzz.com/floor-decals-signs.html" title="Floor Decals / Signs">Floor Decals / Signs</a> | <a href="http://www.bannerbuzz.com/accessories.html" class="color" title="Accessories">Accessories</a>  | <a href="http://www.canvaschamp.com" target="_blank" class="color" title="Canvas Prints">Canvas Prints</a>
     </div>
     <div class="footer-feather-line-christmas">&nbsp;</div>
     <div class="payment-section">
@@ -414,7 +449,7 @@ cssdropdown.startchrome("chromemenu")</script></div>
           <li><a href="https://plus.google.com/102410165993342351067" target="_blank" class="gplus"></a></li>
           <li><a href="http://pinterest.com/bannerbuzz/" class="pinterest" target="_blank"></a></li>
 			<li><a href="http://www.bannerbuzz.com/blog" target="_blank" class="blog"></a></li>
-           <li><a class="tf_upfront_badge" href="http://www.thefind.com/store/about-bannerbuzz" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/r/61/c9/61c93f5394a6040474433e1be7803d47.png" alt="Banner is an Upfront Merchant on TheFind. Click for info."></a>
+           <li><a class="tf_upfront_badge" href="http://www.thefind.com/store/about-bannerbuzz" title="TheFind Upfront" rel="nofollow"><img border="0" src="//upfront.thefind.com/images/badges/r/61/c9/61c93f5394a6040474433e1be7803d47.png" alt="Banner is an Upfront Merchant on TheFind. Click for info."></a>
 <script type="text/javascript">
 (function() { var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true; upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js"; upfront.text = "thefind.upfront.init('tf_upfront_badge', '61c93f5394a6040474433e1be7803d47')"; document.getElementsByTagName('HEAD')[0].appendChild(upfront); })();
 </script>
@@ -487,10 +522,11 @@ if(document.getElementById('qty_disc_div'))
 	document.getElementById('qty_disc_div').style.display = '';
 }
 </script>
-
 <script type="text/javascript" src="js/tooltip/ajax-dynamic-content.js"></script>
 <script type="text/javascript" src="js/tooltip/ajax.js"></script>
-<script type="text/javascript" src="js/tooltip/ajax-tooltip.js"></script></center>
+<script type="text/javascript" src="js/tooltip/ajax-tooltip.js"></script>
+
+</center>
 
 
 </body></html>
