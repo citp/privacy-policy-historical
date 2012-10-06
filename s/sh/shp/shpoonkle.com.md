@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shpoonkle.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501113304id_/http%3A//www.shpoonkle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shpoonkle.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006114435id_/http%3A//www.shpoonkle.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Shpoonkle.com
 
 * * *
 
@@ -73,15 +73,15 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.shpoonkle.com/terms-and-conditions](http://www.shpoonkle.com/tac)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.shpoonkle.com/terms-and-conditions>
 
-## your consent
+## Your consent
 
-By using our site, you consent to our **Terms Conditions.**
+By using our site, you consent to our[  **Terms Conditions.**](http://www.shpoonkle.com/terms-and-conditions "Terms and Conditions")
 
 ## Changes to our Privacy Policy
 
-If we decide to change our **Privacy Policy** we will post those changes on this page, send an email notifying you of any changes and/or update the **Privacy Policy** modification date below.
+If we decide to change our  **Privacy Policy**  we will post those changes on this page, send an email notifying you of any changes and/or update the  **Privacy Policy  **modification date below.
 
 This Policy was last modified on January 30, 2011
 
