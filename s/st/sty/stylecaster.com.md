@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylecaster.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501070213id_/http%3A//www.stylecaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylecaster.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006113758id_/http%3A//www.stylecaster.com/privacy-policy) for the most accurate reproduction.*
 
 # StyleCaster
 
