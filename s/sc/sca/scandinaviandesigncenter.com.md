@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620153849id_/http%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006052953id_/http%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy) for the most accurate reproduction.*
 
 # Security and privacy policy at scandinaviandesigncenter.com
 
