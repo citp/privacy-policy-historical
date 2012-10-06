@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302184350id_/http%3A//www.interlinkexpress.com/content/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006082744id_/http%3A//www.interlinkexpress.com/content/privacy.jsp) for the most accurate reproduction.*
 
-# Interlink Express - Privacy Policy
+# Interlink Express - Privacy & Cookie Policy
 
 This Policy applies to the use of personal data collected through the Site, i.e. data which relates to an identifiable individual, for example, names, addresses, email addresses and telephone numbers ("Customer Information").
 
