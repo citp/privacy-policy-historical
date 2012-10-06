@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bullhornreach.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229001608id_/http%3A//www.bullhornreach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullhornreach.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006100617id_/http%3A//www.bullhornreach.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bullhorn Reach
 
 _Introduction_
 
-Bullhorn, Inc. ("Bullhorn" or "we") knows that you care how information about you is used and shared and that you want to understand the privacy-related choices that you can make. This Privacy Policy states Bullhorn's Privacy Policy for the Bullhorn Reach? web site, services, and functions including free services and Premium Services (collectively "Bullhorn Reach" or the "Service"). This Privacy Policy does not apply to Bullhorn's other services and sites. 
+Bullhorn, Inc. ("Bullhorn" or "we") knows that you care how information about you is used and shared and that you want to understand the privacy-related choices that you can make. This Privacy Policy states Bullhorn's Privacy Policy for the Bullhorn Reach? web site, services, and functions including free services and Premium Services (collectively "Bullhorn Reach" or the "Service"). This Privacy Policy does not apply to Bullhorn's other services and sites.
 
 _The Use of Your Information Can Depend on How You Use the Service_
 
@@ -40,19 +40,19 @@ _Use of Your Information Generally_
 
 Generally speaking, we use personal information that we collect to process your requests or transactions, to provide you with information or services you request, to provide you with content or services that suit your interests and needs, to monitor your use of the Service, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of the Service, and for the purpose for which the information was provided.
 
-For example, we may use the information that we collect: 
+For example, we may use the information that we collect:
 
-  * to send you a welcoming email and to contact you about your use of the Service, to provide the services, products or information you request and to process any transactions in connection therewith; 
-  * to respond to your emails, submissions, comments, requests or complaints; 
-  * to request feedback and to enable us to develop, customize and improve the Service and our publications, products and services; 
-  * to contact you about our or a third party's services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes; 
-  * to personalize and improve site content and features and your experience on the site, such as providing ads, content or features to match your Profile and interests; 
-  * to notify contest winners; and 
-  * for the specific purpose for which the information was provided. 
+  * to send you a welcoming email and to contact you about your use of the Service, to provide the services, products or information you request and to process any transactions in connection therewith;
+  * to respond to your emails, submissions, comments, requests or complaints;
+  * to request feedback and to enable us to develop, customize and improve the Service and our publications, products and services;
+  * to contact you about our or a third party's services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes;
+  * to personalize and improve site content and features and your experience on the site, such as providing ads, content or features to match your Profile and interests;
+  * to notify contest winners; and
+  * for the specific purpose for which the information was provided.
 
 
 
-Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Privacy Policy governs this information. 
+Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Privacy Policy governs this information.
 
 _Emails and Opt-Out_
 
@@ -68,7 +68,7 @@ Bullhorn may use third-party processors to manage credit card processing informa
 
 _Anonymous Data_
 
-Bullhorn may track your use of the Service, including IP addresses of Users, to analyze trends, administer the Service, record transactions, and gather demographic information for aggregate use or for other uses. 
+Bullhorn may track your use of the Service, including IP addresses of Users, to analyze trends, administer the Service, record transactions, and gather demographic information for aggregate use or for other uses.
 
 Bullhorn may share aggregated demographic and usage information with its partners and advertisers or other third parties. This aggregated information is not linked to any personal information that can identify any individual person. Bullhorn is the owner of aggregated demographic and usage information.
 
@@ -106,7 +106,7 @@ We do not share the personal information we collect from you through this Servic
 
 _Changes to this Privacy Policy_
 
-Bullhorn reserves the right to change this Privacy Policy by posting changes on the Service at any time. Unless there is need for change on an expedited basis, we will give thirty (30) days notice. Please check back from time to time so that you can understand how our policies may have changed. 
+Bullhorn reserves the right to change this Privacy Policy by posting changes on the Service at any time. Unless there is need for change on an expedited basis, we will give thirty (30) days notice. Please check back from time to time so that you can understand how our policies may have changed.
 
 _EU Safe Harbor Principles_
 
@@ -114,7 +114,7 @@ Bullhorn, with regard to Bullhorn Reach, adheres to the Safe Harbor Agreement co
 
 _Your Questions_
 
-If you have questions or concerns regarding privacy or security, you can send Bullhorn an email at privacy@bullhorn.com, or contact us at:
+If you have questions or concerns regarding privacy or security, you can send Bullhorn an email at [privacy@bullhorn.com](mailto:privacy@bullhorn.com), or contact us at:
 
 _Office of Information Security & Compliance_
 
