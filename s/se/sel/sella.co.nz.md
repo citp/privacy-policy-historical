@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sella.co.nz privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501143809id_/http%3A//www.sella.co.nz/help/legal-and-rules/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sella.co.nz privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006125520id_/http%3A//www.sella.co.nz/help/legal-and-rules/privacy-policy) for the most accurate reproduction.*
 
 # sella Online Auctions & Classifieds | New Zealand
 
