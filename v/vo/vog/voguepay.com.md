@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voguepay.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502083105id_/https%3A//voguepay.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguepay.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006145439id_/https%3A//voguepay.com/privacy-policy) for the most accurate reproduction.*
 
-# VoguePay
+# VoguePay - Voguepay - Privacy policy
 
 VoguePay.com, its subsidiaries, marketing partners and affiliated companies respect the privacy of our partners and suppliers of products or services, clients and their customers. The purpose of this privacy statement is to provide you with information concerning our services, the types of information we are provided or obtain ourselves through visits to or use of our Website, how we use that information, whether we disclose the information provided to us to others and the options you have with regard to the use of and correction of that information.   
 Our goal in handling information provided to us in connection with the processing of transactions on our Website is to comply with applicable data privacy laws and to offer users of our Website notice, choice, consent, security, data integrity, access and enforcement with regard to personal information provided to us by individuals in conjunction with those transactions.
@@ -81,4 +81,16 @@ VoguePay.com may amend this Policy from time-to-time. We suggest you visit this 
 
 ### VoguePay.com's Contact Information
 
-If you have questions or comments or would like to contact us concerning our Privacy Statement, please contact us online at [our help center](https://voguepay.com/help) or use the live chat button on our homepage. 
+If you have questions or comments or would like to contact us concerning our Privacy Statement, please contact us online at [our help center](https://voguepay.com/menu-help) . 
+
+  
+
+
+* * *
+
+## Register now and see how simple we've made online payments!
+
+* * *
+
+  
+
