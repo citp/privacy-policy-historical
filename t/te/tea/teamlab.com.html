@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teamlab.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617211646id_/http%3A//www.teamlab.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teamlab.com privacy policy that was archived on 2012-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006093327id_/http%3A//www.teamlab.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy - TeamLab
@@ -8,6 +8,7 @@
     <link href="/css/correct_style.css" rel="stylesheet" type="text/css">
     <link href="/css/help.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="/css/mobile.css" media="only screen and (max-device width:480px)">
+    <link href="https://plus.google.com/117615698622542654288" rel="publisher">
      <!--[if IE]><link rel="stylesheet" href="/css/for_ie.css" type="text/css" />
      <![endif]-->
     <meta name="keywords" content="project management, personal information, property rights"><meta name="description" content="TeamLab is a free open-source platform for business collaboration and project management.">  
@@ -48,13 +49,13 @@
 </head>
 <body>
     <div id="cinGYk" style="z-index:100;position:absolute"></div>
-    <div id="scnGYk" class="ProvideSupport"></div><div id="sdnGYk" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/ascensio_system_sia/safe-standard.js?ps_h=nGYk&amp;ps_t=1582528928260"></script></div>
+    <div id="scnGYk" class="ProvideSupport"></div><div id="sdnGYk" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/ascensio_system_sia/safe-standard.js?ps_h=nGYk&amp;ps_t=1582528928574"></script></div>
     <div class="BaseSide">
-        <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+        <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="
 __VIEWSTATE" value="">
 
-<script type="text/javascript" language="javascript">var iSignInIdent = 'ctl00_ctl00_ctl07_ctl00_ctl00_ucSignIn_ctl00_ctl00_signin';</script>
+<script type="text/javascript" language="javascript">var iSignInIdent = 'ctl00_ctl00_ctl08_ctl00_ctl00_ucSignIn_ctl00_ctl00_signin';</script>
 <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQL+raDpAgL53+TPBAKp2su/CALp5on1CQKVy/LjBHJeccFAy+2K55xXMP75D5KBRj/+">
             
             
@@ -62,7 +63,7 @@ __VIEWSTATE" value="">
 
 <div class="headerConteiner">
     <div class="BaseHeader">
-        <a id="ctl00_ctl00_ctl07_ctl00_ctl00_HyperLink1" class="home" href="./"> </a>
+        <a id="ctl00_ctl00_ctl08_ctl00_ctl00_HyperLink1" class="home" href="./"> </a>
         <div class="navMenu">
             <div id="navitem_solutions" name="sm_solutions" class="navItem">
                  <div class="left"></div>
@@ -160,7 +161,7 @@ __VIEWSTATE" value="">
               
 
 
-<div id="ctl00_ctl00_ctl07_ctl00_ctl00_ucSignIn_ctl00_ctl00_signin" class="dSignin" onclick="return false;">
+<div id="ctl00_ctl00_ctl08_ctl00_ctl00_ucSignIn_ctl00_ctl00_signin" class="dSignin" onclick="return false;">
     <div class="body">       
         <div class="reducer"> 
             <div class="top"></div>
@@ -178,59 +179,6 @@ __VIEWSTATE" value="">
                     Error</div>  
             <input type="button" value="Sign in" onclick="LoginToPortal(); return false;" tabindex="3" class="signin">
             <a href="javascript:void(0);" onclick="PasswordRestoreController.DisplayPasswordRestore();" class="forgotPassword">Forgot password?</a>
-            <hr>
-             <div class="text" style="display:inline;">Or login with:</div>             
-             <div id="divSigninAccountProgress" class="Progress">Please wait...</div>
-             
-
-<script type="text/javascript">
-    $(function() {
-    $('#accountLinks .popup').live('click', function() {
-            var obj = $(this);
-            
-            var link = obj.attr('href');
-            window.open(link, 'login', 'width=800,height=500,status=no,toolbar=no,menubar=no,resizable=yes,scrollbars=no');
-            return false;
-        });
-    });
-
-    function loginCallback(profile) {
-
-        $.ajax({
-            type: "POST",
-            url: "post.ashx",
-            data: "type=account&hash=" + profile.HashId,
-            success: function(response) {
-            if (SignInPortal.OnComplete!= null) {
-               /* console.log(response);*/
-
-                SignInPortal.InitAccountMsg();             
-                SignInPortal.ClearErrors();
-                SignInPortal.oPrgs.style.display = 'block';
-                SignInPortal.OnComplete(response);
-                }
-            }
-        });
-    }   
-</script>
-            <div id="accountLinks">
-                <ul>
-                      
-                  <li><a href="/login.ashx?auth=openid&amp;mode=popup&amp;callback=loginCallback&amp;oid=https%3a%2f%2fwww.google.com%2faccounts%2fo8%2fid" class="popup openid " id="openid"></a>
-                    </li>
-            
-                  <li><a href="/login.ashx?auth=facebook&amp;mode=popup&amp;callback=loginCallback" class="popup facebook " id="facebook"></a>
-                    </li>
-            
-                  <li><a href="/login.ashx?auth=twitter&amp;mode=popup&amp;callback=loginCallback" class="popup twitter " id="twitter"></a>
-                    </li>
-            
-                  <li><a href="/login.ashx?auth=linkedin&amp;mode=popup&amp;callback=loginCallback" class="popup linkedin " id="linkedin"></a>
-                    </li>
-            
-                </ul>
-            </div>
-
              <div class="SignInAccountError" id="divSigninAccountError">Error</div>
             <hr>
             <div class="text">Don't have an account?</div>
@@ -450,20 +398,20 @@ __VIEWSTATE" value="">
         <div class="caption_registration">Registration</div>
         <div class="dataItem">
           <div class="error" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtFirstName_errorArea">&nbsp;</div>
-          <input name="ctl00$ctl00$BaseContent$LocalizeContent1$ctl00$txtFirstName" type="text" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtFirstName"> 
+          <input name="ctl00$ctl00$BaseContent$LocalizeContent1$ctl00$txtFirstName" type="text" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtFirstName" style="color: rgb(42, 131, 189);"> 
         </div>
         <div class="dataItem">
                <div class="error" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtLastName_errorArea">&nbsp;</div>
-               <input name="ctl00$ctl00$BaseContent$LocalizeContent1$ctl00$txtLastName" type="text" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtLastName">
+               <input name="ctl00$ctl00$BaseContent$LocalizeContent1$ctl00$txtLastName" type="text" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtLastName" style="color: rgb(42, 131, 189);">
         </div>
         <div class="dataItem">
             <div class="error" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtEmail_errorArea">&nbsp;</div>
-            <input name="ctl00$ctl00$BaseContent$LocalizeContent1$ctl00$txtEmail" type="text" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtEmail">
+            <input name="ctl00$ctl00$BaseContent$LocalizeContent1$ctl00$txtEmail" type="text" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtEmail" style="color: rgb(42, 131, 189);">
         </div>
         <div class="dataItem">
                <div class="error tlErr" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtPortalName_errorArea">&nbsp;</div>
                <div class="teamlabTxt">
-               <input name="ctl00$ctl00$BaseContent$LocalizeContent1$ctl00$txtPortalName" type="text" maxlength="100" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtPortalName">
+               <input name="ctl00$ctl00$BaseContent$LocalizeContent1$ctl00$txtPortalName" type="text" maxlength="100" id="ctl00_ctl00_BaseContent_LocalizeContent1_ctl00_txtPortalName" style="color: rgb(42, 131, 189);">
                <b>&nbsp;.teamlab.com</b></div>
         </div>
         <div class="botton_registration">
