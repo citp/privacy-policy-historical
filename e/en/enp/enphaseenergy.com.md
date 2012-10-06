@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enphaseenergy.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501081333id_/http%3A//enphase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enphaseenergy.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006063328id_/http%3A//enphase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Enphase Energy
 
@@ -128,5 +128,5 @@ We may update this privacy statement to reflect changes to our information pract
 
 If you have any comments or questions regarding Enphase Energy’s privacy policies, please contact us at [support@enphaseenergy.com](mailto:support@enphaseenergy.com). We are located at:
 
-201 1st Street  
-Petaluma, CA 94925
+1420 N. McDowell Blvd  
+Petaluma, CA 94954
