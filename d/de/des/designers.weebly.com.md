@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designers.weebly.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618134852id_/http%3A//designers.weebly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designers.weebly.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006071707id_/http%3A//designers.weebly.com/privacy.php) for the most accurate reproduction.*
 
 # Weebly - Create a free website and a free blog
 
@@ -120,4 +120,4 @@ Weebly is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an indepen
 
 If you have questions or concerns regarding this statement, you should first contact us at support@weebly.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-**Last updated on June 13th 2012.**
+**Last updated on October 4th 2012.**
