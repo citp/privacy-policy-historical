@@ -1,0 +1,214 @@
+<!--The following is the downloaded HTML source of the hdb.gov.sg privacy policy that was archived on 2012-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006140026id_/http%3A//www.hdb.gov.sg/fi10/fi10320p.nsf/w/PrivacyPS%3FOpenDocument) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<title>HDB InfoWEB: Privacy Statement : Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/fi10/fi10297p.nsf/ImageView/INFOWEBCOMMONCSS/$file/CommonCSS.css" type="text/css" rel="stylesheet">
+<!--[if lt IE 7]><link href='/fi10/fi10297p.nsf/ImageView/INFOWEBCOMMONCSS/$file/ie6extra.css' type='text/css' rel='stylesheet' /><![endif]-->
+<link href="/fi10/fi10297p.nsf/ImageView/JQUERYPLUGINSTAB/$file/jquery.tabs.css" type="text/css" rel="stylesheet">
+<link href="/fi10/fi10297p.nsf/ImageView/JQUERYPLUGINSCLUETIP/$file/jquery.cluetip.css" type="text/css" rel="stylesheet">
+<script src="/fi10/fi10297p.nsf/ImageView/JQUERY/$file/jquery-1.2.6.js" type="text/javascript"></script>
+<script src="/fi10/fi10297p.nsf/ImageView/JQUERYPLUGINSTAB/$file/jquery.tabs.pack.js" type="text/javascript"></script>
+<script src="/fi10/fi10297p.nsf/ImageView/SGMS/$file/SGMSDecentralised.js" type="text/javascript"></script>
+<script src="/fi10/fi10301p.nsf/ImageView/INTERNETCOMMONHEADERFOOTER/$file/InternetCommonHeaderFooter.js" type="text/javascript"></script>
+<script src="/fi10/fi10297p.nsf/ImageView/INFOWEBCOMMONSCRIPT/$file/InfoWEBCommonScript.js" type="text/javascript"></script>
+<script src="/fi10/fi10297p.nsf/ImageView/JQUERYPLUGINSCLUETIP/$file/jquery.cluetip.js" type="text/javascript"></script>
+<script src="/fi10/fi10297p.nsf/ImageView/INFOWEBFLASH/$file/InfoWEBFlash.js" type="text/javascript"></script>
+<script src="/fi10/fi10297p.nsf/ImageView/INFOWEBCOMMONSCRIPT/$file/chrisdomroll.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+$(document).ready
+(
+	function()
+	{
+		// generate page content
+		var PackageName 	= $("#PackageName").val();
+		var PackageAcronym 	= $("#PackageAcronym").val();
+		var ActiveTab 		= $("#ActiveTab").val();
+		var PageAcronym 	= $("#PageAcronym").val();
+		var Status 		= $("#Status").val();
+
+		generatePackageInfo( PackageName );
+		generatePackageTabs( PackageAcronym, ActiveTab );
+		generateLeftNav( PackageAcronym, ActiveTab, PageAcronym, Status );
+
+
+		// resize images that exceed the upper limit (444 pixels wide)
+		//var MaxWidth = getMaxWidth();
+		
+		//alert(MaxWidth);
+		/*
+		setTimeout
+		(
+			function()
+			{
+				$('#WebPageBody img').each
+				(
+					function()
+					{
+						if ( $(this).attr("width") > MaxWidth )
+						{
+							$(this).hide().attr("width",MaxWidth).fadeIn(1000);
+						}
+					}
+				);
+			}, 
+			1000
+		);
+		*/
+		rollOver();	// scan through the page and prepare IMG tags that have mouse-over images
+
+		stripeTableRows(); // "stripe" the odd-numbered rows		
+		
+		$('font').removeAttr('color');	// remove font colors
+		FetchAcronyms();				// load Acronyms
+	}
+);
+
+function stripeTableRows() {
+
+	/* PJJ1 First function of year 2010 */
+	/* January 04, 2010 */
+	/* Standards(ISO), why couldn't you just have some fun :)*/	
+	// updated the code below because it will stripe the matched rows as a set 
+	// not by table (i.e in a given 2 tables, row 2 in table 2 is odd if table 1 has a single row)
+	//$('table.table_content tr:odd').addClass('alternate-row');	// "stripe" the odd-numbered rows
+	
+	//Updated code:
+	//collect all table with class 'content_table'
+	var elems = $('table.table_content');
+	
+	//stripe the rows by table
+	if (elems.size()>0) { //test first if there are valid table(s)
+		elems.each( //begin each open parenthesis
+			function() { // begin each function
+				var tableObj = $(this);
+				$('tr:odd', tableObj).addClass('alternate-row'); //stripe				
+			} // close each function
+		); //end each close parenthesis
+	}
+	
+}
+
+
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/fi10/fi10320p.nsf/w/PrivacyPS?OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+
+<form action=""><input type="hidden" id="DatabaseName" value="fi10/fi10320p.nsf">
+<input type="hidden" id="PageTitle" value="Privacy Statement">
+<input type="hidden" id="PageURL" value="/fi10/fi10320p.nsf/w/PrivacyPS?OpenDocument">
+<input type="hidden" id="HTTPServer" value="http://www.hdb.gov.sg">
+<input type="hidden" id="Form" value="FI10FWebPage">
+<input type="hidden" id="CurrentPackageName" value="Privacy Statement">
+<input type="hidden" id="CurDomain" value="HDBinternet">
+<input type="hidden" id="PackageName" value="Privacy Statement">
+<input type="hidden" id="PackageAcronym" value="Privacy">
+<input type="hidden" id="ActiveTab" value="">
+<input type="hidden" id="PageAcronym" value="PS">
+<input type="hidden" id="Status" value="Production">
+<input type="hidden" id="WebClient" value="1">
+<!-- for resetting images' size -->
+<input type="hidden" id="MaxImgWidthNoBar" value="910">
+<input type="hidden" id="MaxImgWidthOneBar" value="675">
+<input type="hidden" id="MaxImgWidthTwoBars" value="440">
+<input type="hidden" id="hidPrintContent" name="hidPrintContent">
+<input type="hidden" name="hidCustomPrefix" value="0">
+<input type="hidden" name="hidReferer">
+<noscript><div class="GreyContainer"><br />&nbsp;<br />This page requires your browser to be enabled with javascript. You may check the <a href="http://www.hdb.gov.sg/fi10/fi10218p.nsf/FI10VStatPgLookup/BF02FHDB%20Security%20PIN%20-%20SingPassFAQ?OpenDocument#Q9">guide to enable the script</a> before you refresh this page.<br />&nbsp;<br />&nbsp;<br /></div></noscript>
+<script type="text/javascript">
+	commonHeader();
+	$("#SubContainer").css( "display", "none" );		// hide to user while being built; shown later via generateLeftNav()
+</script>
+<div id="Content-Wrapper">
+	<div id="WebPageTitle" class="PageTitle">Privacy Statement</div>
+	<div class="PageContentBody">
+		<div class="roundRight"><div class="roundLeft"><div class="roundMid">&nbsp;</div></div></div>		
+		<div class="inner-wrapper">
+			<div id="PageTools"></div>						
+			<div id="WebPageBody"><br>
+ <div class="para"><span class="ParaNumber">1</span>This is the Housing &amp; Development Board corporate website. Thank you for examining our privacy statement.</div><br>
+<br>
+ <div class="para"><span class="ParaNumber">2</span>If you are only browsing this website, we do not capture data that allows us to identify you individually.</div><br>
+<br>
+ <div class="para"><span class="ParaNumber">3</span>If you choose to make an application or send us an e-mail, HDB may collect personal information from you to administer HDB's public housing programmes and services. We may share the necessary data with other Government agencies. This is to enable us to serve you in the most convenient, efficient and effective way, unless such sharing is prohibited by legislation.</div><br>
+<br>
+ <div class="para"><span class="ParaNumber">4</span>We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</div><br>
+<br>
+ <div class="para"><span class="ParaNumber">5</span>For your convenience, we may also display to you data that you have previously supplied to us or to other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only if it is necessary for the effective delivery of public services to you.</div><br>
+<br>
+ <div class="para"><span class="ParaNumber">6</span>To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.</div><br>
+<br>
+ <div class="para"><span class="ParaNumber">7</span>This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</div><br>
+<br>
+  <div class="para"><span class="ParaNumber">8</span>Please email HDB at  <a href="mailto:qsm@hdb.gov.sg">qsm@hdb.gov.sg</a></div>  <div class="para"><span class="ParaNumber"> </span>a. For any enquires or feedback on our data protection policies and procedures,</div>
+ <div class="para"><span class="ParaNumber"> </span>b. If you have any queries regarding the use and access of your data which you have earlier provided to us.</div>
+<p></p></div>
+
+			<div id="LastUpdatedCont">Last Updated on 06 Dec 2011</div> 
+		</div>
+	</div>
+</div>
+
+<br class="clearfloat">
+<div id="RateOurInfoCont" style="display: none">&nbsp;</div>
+
+<script type="text/javascript">
+	$(document).ready
+	( 
+		function()
+		{
+			setTimeout
+			(
+				function()
+				{
+					$("#RateOurInfoCont").load
+					( 
+						CurHost + '/fi10/fi10298p.nsf/ROS2?OpenForm&ParentDB=fi10/fi10320p.nsf',
+						function ()
+						{
+							//display page common tools
+							//load page tools
+							genToolsLink("www.hdb.gov.sg","fi10/fi10301p.nsf","fi10/fi10320p.nsf");
+							//render links in new window
+			   renderNewWinLinks('a.newWin');
+							$('#RateOurInfoCont :radio :first').removeClass('RdSpacer');	// call this upon successful loading
+														if (typeof(initializeROI) != undefined) { initializeROI() }	// child script from Rate Our Info
+												}
+					).fadeIn(1000);
+				}, 
+				500		// 0.5 seconds
+			);
+			dispErrorIfTimeOut();
+				    
+		}
+	);
+</script>
+
+<script type="text/javascript">commonFooter();</script></form>
+
+
+</body></html>
