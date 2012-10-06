@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the apptha.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501105739id_/http%3A//www.apptha.com/privacy-plan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptha.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006055510id_/http%3A//www.apptha.com/privacy-plan) for the most accurate reproduction.*
 
-# apptha - Privacy Policy
+# Privacy Policy
 
-### Privacy Policy
-
-## Information that we collect and how we use it
+### Information that we collect and how we use it
 
 Contus Support respects your privacy and is committed to protect the information you provide us through this website. We do not sell or distribute user information to third parties unless it is legally required. We gather user information in order to serve your needs and respond to your information requests.
 
