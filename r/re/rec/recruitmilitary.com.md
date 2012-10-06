@@ -1,68 +1,72 @@
-> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219154806id_/http%3A//recruitmilitary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006103707id_/http%3A//recruitmilitary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## RecruitMilitary is a registered trademark of RecruitMilitary LLC, Loveland, Ohio.
+RecruitMilitary LLC (“RecruitMilitary”) has created this privacy policy to demonstrate our firm commitment to protecting the privacy of our users. Your privacy is very important to us. We want to provide a safe, secure experience for all of our users. Because we gather certain types of information about users of our site, we feel you should be aware of the terms surrounding the gathering and use of that information. 
 
-All trademarks, service marks and trade names of RecruitMilitary LLC used in the website (including but not limited to the RecruitMilitary name and the RecruitMilitary logo) are registered trademarks of RecruitMilitary LLC. They may not be used without RecruitMilitary's prior written permission. Any other intellectual property in the website, including but not limited to patents, issued or pending, are the sole property of RecruitMilitary LLC.
+##  WHAT INFORMATION DO WE COLLECT, AND HOW DO WE USE IT? 
 
-RecruitMilitary has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy of our users. Your privacy is very important to us. We want to provide a safe, secure experience for all of our users. Because we gather certain types of information about users of our site, we feel you should be aware of the terms surrounding the capture and use of that information. Strong electronic privacy is an essential ingredient in the success of the Internet as an online medium. The following discloses what information we gather, how we use or disseminate it, and how you can change it.
+###  Personal Information 
 
-## Information We Gather
+We collect personally identifiable information that you supply to us voluntarily through the use of our website, such as your name, résumé, personal references, payment information, feedback, or email address. 
 
-We collect statistical information such as page views on an aggregated basis. Such information allows us to find out what areas users visit most frequently and what services users access the most. It also allows us to create a better overall experience for our users. We may share this information with our partners, but only in the aggregate, so that they too may understand how RecruitMilitary.com visitors use our site, so they may create a better overall experience for you, as well. Aggregated data is essential to keeping RecruitMilitary.com free to users.
+We may use that information to respond to an email or other inquiry or request, to help improve our website or our services, to customize your experience using our website, or to send updates, electronic newsletters, or notices about RecruitMilitary or the services we offer, which we believe may be of some interest to you. We may combine this information with other generally or publicly available information in order to help us identify the preferences or interests of visitors to our website. 
 
-### Email this job to a friend
+Subject to the restrictions described in the “Résumés” section below, we may share this information with client companies that utilize our service to place or hire candidates into specific job positions. If you have indicated that you have an interest in franchising, entrepreneurial, or educational activities, we may also share this information with client and affiliate companies who utilize our service for assisting candidates with such activities. We may also provide this information to companies that assist us in the provision of our services, including helping us fulfill your request for information or placement in a job position. Finally, we may share this information with select third party companies that may contact you directly with special and promotional offers for their goods or services. 
 
-On certain pages at our site, users may elect to electronically forward a job listing to a friend by clicking a link adjacent to the specific job listing. The user must provide two email addresses: one for the user and one for the friend. This information is used only to let the recipient know who sent the job listing.
+We also reserve the right to disclose personally identifiable information if: (1) the disclosure is necessary or useful to our provision of services; (2) we believe in good faith the disclosure is required by law (such as a search warrant, subpoena or court order); (3) we believe in good faith the disclosure is necessary to protect our rights, interests, or property; or (4) we are acting in good faith to protect an individual’s personal safety. 
 
-### Cookies
+Except as described in this Privacy Policy, we do not disclose information about your individual visits to RecruitMilitary.com or your personal information to any outside parties. 
 
-To enhance your experience at RecruitMilitary.com, we use a feature on your Internet browser called a "cookie". Cookies are small bits of data that are written to your hard drive when you visit a web site. A cookie file can contain information such as a user or session ID to track the pages you've visited or a user name and password so you don't have to re-enter it throughout your visit. A cookie can't read data off of your hard drive or read other cookies created by other web sites. We use cookies for remembering user names and passwords and preferences, tracking click streams, and for load balancing. We also use cookies at our site to better understand how users visit our site so that we know what areas and features are the most popular. Because of our use of cookies, we can deliver quicker service and a more personalized site experience for our users. You are always free to reject cookies by turning them off in your browser. However, doing this will hinder performance and negatively impact your experience at our site.
+###  Résumés and Profiles 
 
-### Feedback
+If you submit your résumé and profile information to the RecruitMilitary online job board database, it will be viewable by potential employers, and all employers and recruiters who have access to our résumé database will have access to your résumé. We use our best efforts to grant access to this database only to employers, educational institutions, franchisors, recruiters, hiring managers, headhunters, and human resource professionals, but cannot guarantee that other parties will not, without our consent, gain access to this database. You may remove your information from our searchable database at any time; however, parties who have access to the database may have retained a copy of your information, including your résumé and profile information, in their own files or databases. We are not responsible for the retention, use, or privacy of résumés in these instances, or for the use or privacy of your information by any of such parties while résumés are in the database. 
 
-RecruitMilitary.com has an area on the site where you can submit feedback. Any feedback that is submitted through this area becomes the property of RecruitMilitary.com. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site.
+Please be aware that the Department of Labor, Office of Federal Contract Compliance Programs regulation at 41 CFR Part 60-1 (Obligation to Solicit Race and Gender Data for Agency Enforcement Purposes, also known as “Internet Applicant” rule), requires RecruitMilitary to maintain your records for a period of two years. 
 
-### Resumes
+###  Cookies 
 
-RecruitMilitary.com gives you two options when submitting your resume to our online database:
+To enhance your experience at RecruitMilitary, we use a feature on your Internet browser called “cookies”. Cookies are small bits of data that are written to your hard drive when you visit a website and that contain information such as a user or session ID to track the pages you’ve visited or a username and password so you don’t have to re-enter it throughout your visit. 
 
-  1. You can store your resume in our database, but not allow certain features such as name or personal references to be viewable by potential employers. The resume is still searchable however.
-  2. If you allow your resume to be searchable, then all employers and recruiters who have access to our resume database will have access to your resume. We use our best efforts to grant access to this database only to paying employers, recruiters, hiring managers, headhunters, and human resource professionals, but cannot guarantee that other parties will not, without our consent, gain access to this database. You may remove your resume from our searchable database at any time. However, employers and recruiters who have access to the database, and other parties who have otherwise gained access to the database, may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties while resumes are in the database.
-  3. The Department of Labor, Office of Federal Contract Compliance Programs regulation at 41 CFR Part 60-1 (Obligation to Solicit Race and Gender Data for Agency Enforcement Purposes, also known as "Internet Applicant" rule), requires RecruitMilitary to maintain your records for a period of two years.
+We use cookies, including third-party cookies such as Google Analytics, in the administration of our website in order to keep track of movement of an individual user from one screen to another, and to remember user names, passwords, user preferences. This information may be used by us to detect or resolve website problems, to assist with customer support issues, to better understand how users visit our site. 
 
+If you do not wish to share this information, please refer to the “Help” category on your browser’s toolbar for information on how to customize or disable cookies. Please be aware that you will not be able to use RecruitMilitary.com if you disable cookies in your browser. 
 
+###  Aggregate Information 
 
-### Links
+Like most websites, we automatically gather and log information about your computer and navigation patterns, including your IP address, browser type, operating system, internet service provider, referring/exit pages, the specific web pages that you visited during your connection to our website, and time/date information about your visit. 
 
-This site may contain links to other sites. We are not responsible for the privacy practices or the content of such web sites. We do not control cookies from other outside sites.
+We may use this information, in aggregate form, for system maintenance or to gain a better understanding of how our website is used. We share this information, in aggregate form, with third parties for research or marketing purposes. 
 
-## How We Use the Information
+##  CONTROLLING AND UPDATING YOUR PERSONALLY IDENTIFIABLE INFORMATION 
 
-RecruitMilitary.com uses your information on an aggregated basis to create traffic reports, deliver up-to-date information, and enhance user experience. This also allows us to better anticipate the needs of our users and tailor future content based on user interest. Clients will be able to better understand our demographics and response rates to job listings.
+If you wish to change or correct your personal information, or “opt out” of receiving notices or updates sent by RecruitMilitary, you may log into your account and edit your profile information or change your settings. 
 
-We will not sell your e-mail address or your name and personal demographic information to mass marketers or mailing list distributors. Except as described in this privacy policy, we do not disclose information about your individual visits to RecruitMilitary.com, or personal information that you provide, such as your name, address, e-mail address, telephone number, personal references, etc., to any outside parties, except when we believe it is required by law or to protect RecruitMilitary.com. We do share information, with candidate permission, with client companies who utilize our service to place candidates into specific job positions. In addition, if you have indicated that you have an interest in franchising or entrepreneurial opportunities, we do share information with client and affiliate companies who utilize our service for franchise candidate referral. You might receive email, or other communications from these client or affiliate companies promoting their opportunities or services. 
+##  LINKED SITES 
 
-RecruitMilitary.com may, from time to time, use e-mail addresses that users voluntarily provide in order to send out electronic newsletters. We may use the mailing list to occasionally send users information about new job positions or updates to the site.
+Other websites that you visit, including those linked from or to our website, may have separate privacy policies or no policy at all. Other websites may use personal information differently than our policy permits so we strongly encourage you to review the privacy policies of any site before you provide your personal information on the internet. 
 
-## How You Can Change the Information
+##  DATA INTEGRITY AND SECURITY 
 
-RecruitMilitary.com gives its users an option to "Opt Out" of receiving information such as e-mail updates or newsletters via their user accounts. Users are free to deactivate their profile at any time. RecruitMilitary.com allows you to change or correct your personal information at any time. To do so, simply log into your account, go to your account profile, and you will find options for editing the information you submitted during initial registration.
+We utilize information technology security to keep the information that you provide to us via our website secure. We also attempt to have privacy protection controls in place with our vendors in order to ensure that your personal information is protected from unauthorized access or disclosure. All of our employees must abide by our Privacy Policy. If an employee violates our privacy policies, he or she will be subject to our disciplinary action, up to and including termination. 
 
-## Security
+##  CHILDREN’S PRIVACY 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We will ensure the proper safeguarding of your personal information.
+RecruitMilitary is not designed to attract individuals under the age of 18. In accordance with the Children's Online Privacy Protection Act (COPPA), we do not collect or store any personal information, even in aggregate, about children under the age of 13. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe that RecruitMilitary has any information from or about anyone under the age of 13, please contact us at [support@recruitmilitary.com](mailto:support@recruitmilitary.com). 
 
-## Children's Guidelines
+##  BUSINESS TRANSITIONS 
 
-We do not specifically collect information about children. We believe that children should get their parents' consent before giving out personal information. If you are concerned about your child's use of this site, we encourage you to use Web filtering technology to supervise your child's access to the site. We also encourage you to participate in your child's experience whenever they are using the Internet.
+If RecruitMilitary goes through a business transaction, such as a merger, acquisition, or asset sale, your personally identifiable information will likely be among the assets transferred. We will notify you via prominent notice on our website of any such change of ownership or control of your personally identifiable information. 
 
-## Contact Information
+##  REVISIONS 
 
-This Privacy Policy may be modified from time to time. Any notices that reflect a change will be posted on this page, so check back often. We hope this privacy policy clarifies our handling of your personal information. If, at any time, you have questions or concerns about our privacy policy, please feel free to contact us.
+RecruitMilitary reserves the right to periodically revise this policy. In the event we modify our policy, we will give reasonable notice. Since notice of any such policy change will not appear on our website indefinitely and may only be posted for a limited time, it will be incumbent upon you to check our Privacy Policy regularly to see if we have made any modifications. 
 
-RecruitMilitary LLC  
-Attn: Privacy Issues  
-422 West Loveland Avenue  
+You can contact us at: 
+
+RecruitMilitary LLC   
+ATTN: Privacy Issues   
+422 West Loveland Avenue   
 Loveland, OH 45140 
+
+Last Revised: June 15, 2012
