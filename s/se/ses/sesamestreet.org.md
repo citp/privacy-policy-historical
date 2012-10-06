@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sesamestreet.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510042605id_/http%3A//www.sesamestreet.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamestreet.org privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006120633id_/http%3A//www.sesamestreet.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sesame Street
+
+## Privacy Policy
 
 Thank you for visiting our web sites located at sesameworkshop.org and sesamestreet.org which we will refer to collectively below as the “ **Sites.** ”  Through the Sites, Sesame Workshop aims to extend our mission to use educational media to help children reach their highest potential. Sesame Workshop has been trusted by parents for decades to provide safe, entertaining and educational content. We take this trust seriously and recognize the importance of privacy concerns especially in the Internet environment. With this in mind, we have adopted this Privacy Policy for the Sites.  “Sesame Workshop” also is referred to as “we,” “us” or “our” in this Privacy Policy.
 
