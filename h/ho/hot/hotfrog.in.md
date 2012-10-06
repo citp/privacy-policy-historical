@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfrog.in privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612233150id_/http%3A//www.hotfrog.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.in privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006044152id_/http%3A//www.hotfrog.in/Privacy.aspx) for the most accurate reproduction.*
 
 # Hotfrog Privacy Policy
 
