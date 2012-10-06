@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamlab.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617211646id_/http%3A//www.teamlab.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamlab.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006093327id_/http%3A//www.teamlab.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - TeamLab
 
