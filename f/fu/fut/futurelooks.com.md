@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurelooks.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501133104id_/http%3A//www.futurelooks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurelooks.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006123251id_/http%3A//www.futurelooks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Futurelooks
 
