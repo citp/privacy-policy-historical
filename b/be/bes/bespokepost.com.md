@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bespokepost.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190722id_/http%3A//bespokepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bespokepost.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007203224id_/http%3A//bespokepost.com/privacy) for the most accurate reproduction.*
 
 # Bespoke Post - Privacy Policy
 
@@ -108,7 +108,7 @@ In some cases, we may choose to buy or sell assets. In these types of transactio
 
 Information Disclosed for Our Protection and the Protection of Others 
 
-We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the [Terms of Service](https://web.archive.org/web/20120630190722id_/http%3A//bespokepost.com/tos.html) or other user policies and agreements, including investigation of potential violations thereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention. 
+We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the [Terms of Service](https://web.archive.org/web/20121007203224id_/http://bespokepost.com/privacy/tos.html) or other user policies and agreements, including investigation of potential violations thereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention. 
 
 Information We Share With Your Consent 
 
