@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the bk.com privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509234749id_/http%3A//www.bk.com/en/us/company-info/legal/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bk.com privacy policy that was archived on 2012-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121008001512id_/http%3A//www.bk.com/en/us/company-info/legal/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=211653768888938"></script><script type="text/javascript">
 var BK = BK || {};
 var CulturePrefix = "/en/us/";
+var CultureLanguage = "en";
+var CultureCountry = "us";
 var PageHasSound = false;
 </script>
 
@@ -13,7 +15,7 @@ var language_array = null;</script>
 <title>
 	Privacy Policy | BURGER KING®
 </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    
+
     <meta name="viewport" content="width=1024">
     <meta name="verify-v1" content="+uoHBSwaShUeohn5VF/cufjSCx0qPi44UzYrMzyG2Gw=">
 
@@ -26,7 +28,8 @@ var language_array = null;</script>
 	<link rel="stylesheet" href="/styles/layout.css" type="text/css" media="all" charset="utf-8">
 	<link rel="stylesheet" href="/skins/default/skin.css" type="text/css" media="all" charset="utf-8">
 	<link rel="stylesheet" href="/skins/dark/skin.css" type="text/css" media="all" charset="utf-8">
-    <link rel="stylesheet" href="/styles/jquery-ui-1.8.17.custom.css" type="text/css">
+	<link rel="stylesheet" href="/styles/jquery-ui-1.8.17.custom.css" type="text/css" media="all" charset="utf-8">
+    <!--script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js"></script-->
 	<!--link rel="stylesheet" href="/page_templates/cultures/en/us/css/local.css" type="text/css" media="all" charset="utf-8" /-->
 	<link rel="stylesheet" href="/page_templates/cultures/en/us/styles/layout.css" type="text/css" media="all" charset="utf-8">
 	<!--link rel="stylesheet" href="/en/us/css/home-grids.css" type="text/css" media="all" charset="utf-8" /-->
@@ -51,6 +54,41 @@ var language_array = null;</script>
 	<script type="text/javascript" src="/scripts/bk.js"></script>
     <script type="text/javascript" src="/plugins/socialshare/socialshare.js"></script>
     <script type="text/javascript" src="/plugins/webtoolkit/urlquerystring.js"></script>
+
+    <!-- BEGIN: IP geolocation code -->
+    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCr5yIAybyCuQLTTmmY0S9uqjkdDe7rEBw&amp;sensor=false&amp;language=en-us"></script>
+    <script type="text/javascript" src="/scripts/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/scripts/bk/ip_geolocator.js"></script>
+    <script type="text/javascript" src="/scripts/bk/country_redirect_controller.js"></script>
+    <script type="text/javascript" src="/scripts/bk/restaurant_location_model.js"></script>
+    <script type="text/javascript" src="/scripts/bk/restaurant_location_controller.js"></script>
+    <script type="text/javascript" src="/scripts/bk/map_info_window.js"></script>
+
+    <script type="text/javascript">
+        var intRestaurantSearchRadius = 15;
+        var intRestaurantSearchThreshold = 5;
+        // Call before anything else is loaded to redirect immediately
+        checkCookieAndRedirectImmediately();
+
+        // Global controllers for all controls to use
+        var ipGeolocator = BK.IPGeolocator;
+        var countryRedirectController = BK.CountryRedirectController;
+        var restaurantController = BK.restaurantLocationController;
+
+        // Exposed variables from code-behind
+        var countdownSeconds = 10;
+        var countdownCancelled = false;
+
+        countryRedirectController.setCheckCountryWebServiceUrlPrefix('http://redesign.bk.com/en/us/countryredirect/');
+            
+        ipGeolocator.setCityLocationCacheTimeout(60);
+        ipGeolocator.setCountryLocationCacheTimeout(180);
+        ipGeolocator.setCityGeolocationWebServiceUrl('http://redesign.bk.com/ipgeolocationcity.json');
+        ipGeolocator.setCountryGeolocationWebServiceUrl('http://redesign.bk.com/ipgeolocationcountry.json');
+
+        restaurantController.setIPGeolocator(ipGeolocator);
+    </script>
+    <!-- END: IP geolocation code -->
 
 	<!--script type="text/javascript" src="/scripts/bk/slider_tracking.js"></script-->
 
@@ -120,31 +158,10 @@ var language_array = null;</script>
 
 	
 
-<meta name="DCSext.locale" content="/en/us/"><meta name="WT.sv" content="www.bk.com"><meta name="WT.cg_n" content="/Legal"><meta name="WT.cg_s" content="/Legal/PrivacyPolicy"><meta name="keywords" content="Burger King, BK, Burger King Privacy Policy"><meta name="description" content="All the necessary privacy-related info for BK.com visitors."><script type="text/javascript"> var menu_cat = '[{"ID":"201","DisplayTitle":"Breakfast Menu","subcats":[{"ID":"211","Title":"Combo Meals"},{"ID":"212","Title":"Sandwiches & Burritos"},{"ID":"213","Title":"Platters"},{"ID":"214","Title":"Oatmeal, Sweets & Sides"},{"ID":"215","Title":"<i>BK</i><sup>&reg;</sup> Value Menu"},{"ID":"217","Title":"Drinks & Coffee"},{"ID":"216","Title":"Real Fruit Smoothies & Frapp\u00E9s"},{"ID":"218","Title":"<i>BK</i><sup>&reg;</sup> Kids Meal"}]},{"ID":"202","DisplayTitle":"Lunch & Dinner Menu","subcats":[{"ID":"219","Title":"Combo Meals"},{"ID":"220","Title":"Flame-Broiled Burgers"},{"ID":"221","Title":"Chicken & Fish Sandwiches"},{"ID":"222","Title":"Salads & Wraps"},{"ID":"223","Title":"Chicken Strips & Tenders"},{"ID":"224","Title":"French Fries & Onion Rings"},{"ID":"225","Title":"<i>BK</i><sup>&reg;</sup> Value Menu"},{"ID":"226","Title":"Desserts"},{"ID":"227","Title":"Drinks & Coffee"},{"ID":"228","Title":"Real Fruit Smoothies & Frapp\u00E9s"},{"ID":"229","Title":"<i>BK</i><sup>&reg;</sup> Kids Meal"}]},{"ID":"203","DisplayTitle":"Snacks","subcats":[{"ID":"230","Title":"Salads & Wraps"},{"ID":"231","Title":"Chicken Strips & Tenders"},{"ID":"232","Title":"French Fries & Onion Rings"},{"ID":"233","Title":"Oatmeal"},{"ID":"234","Title":"Desserts"},{"ID":"236","Title":"Drinks & Coffee"},{"ID":"235","Title":"Real Fruit Smoothies & Frapp\u00E9s"}]}]'; </script></head>
+<meta name="DCSext.locale" content="/en/us/"><meta name="WT.sv" content="www.bk.com"><meta name="WT.cg_n" content="/Legal"><meta name="WT.cg_s" content="/Legal/PrivacyPolicy"><meta name="keywords" content="Burger King, BK, Burger King Privacy Policy"><meta name="description" content="All the necessary privacy-related info for BK.com visitors."><script type="text/javascript"> var menu_cat = '[{"ID":"201","DisplayTitle":"Breakfast Menu","subcats":[{"ID":"211","Title":"Combo Meals"},{"ID":"212","Title":"Sandwiches & Burritos"},{"ID":"213","Title":"Platters"},{"ID":"214","Title":"Oatmeal, Sweets & Sides"},{"ID":"215","Title":"<i>BK</i><sup>&reg;</sup> Value Menu"},{"ID":"217","Title":"Drinks & Coffee"},{"ID":"216","Title":"Real Fruit Smoothies & Frapp\u00E9s"},{"ID":"218","Title":"<i>BK</i><sup>&reg;</sup> Kids Meal"}]},{"ID":"202","DisplayTitle":"Lunch & Dinner Menu","subcats":[{"ID":"219","Title":"Combo Meals"},{"ID":"220","Title":"Fire-Grilled Burgers"},{"ID":"221","Title":"Chicken & Fish Sandwiches"},{"ID":"222","Title":"Salads & Wraps"},{"ID":"223","Title":"Chicken Strips & Nuggets"},{"ID":"224","Title":"French Fries & Onion Rings"},{"ID":"225","Title":"<i>BK</i><sup>&reg;</sup> Value Menu"},{"ID":"226","Title":"Desserts"},{"ID":"227","Title":"Drinks & Coffee"},{"ID":"228","Title":"Real Fruit Smoothies & Frapp\u00E9s"},{"ID":"229","Title":"<i>BK</i><sup>&reg;</sup> Kids Meal"}]},{"ID":"203","DisplayTitle":"Snacks","subcats":[{"ID":"230","Title":"Salads & Wraps"},{"ID":"231","Title":"Chicken Strips & Nuggets"},{"ID":"232","Title":"French Fries & Onion Rings"},{"ID":"233","Title":"Oatmeal"},{"ID":"234","Title":"Desserts"},{"ID":"236","Title":"Drinks & Coffee"},{"ID":"235","Title":"Real Fruit Smoothies & Frapp\u00E9s"}]}]'; </script></head>
     <body class="skin-default">
-        <script type="text/javascript" src="/scripts/bk/tracking.js"></script>
-        <!-- BEGIN location code -->
-        <script type="text/javascript">
-            var intRestaurantSearchRadius = 15;
-            var intRestaurantSearchThreshold = 5;
-        </script>
-        <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCr5yIAybyCuQLTTmmY0S9uqjkdDe7rEBw&amp;sensor=false"></script>
         <script type="text/javascript" charset="utf-8" src="/plugins/webtoolkit/trim.js"></script>
-    	<script type="text/javascript" src="/scripts/jquery.cookie.js"></script>
-        <script type="text/javascript" src="/scripts/bk/ip_geolocator.js"></script>
-        <script type="text/javascript" src="/scripts/bk/restaurant_location_model.js"></script>
-        <script type="text/javascript" src="/scripts/bk/restaurant_location_controller.js"></script>
-        <script type="text/javascript" src="/scripts/bk/map_info_window.js"></script>
-        <script type="text/javascript">
-            // Global restaurantLocationController object for all controls to use
-            var restaurantController = BK.restaurantLocationController;
-            var ipGeolocator = BK.IPGeolocator;
-
-            ipGeolocator.setSessionLocationCacheTimeout(60);
-            ipGeolocator.setGeolocationWebServiceUrl('http://redesign.bk.com/ipgeolocation.json');
-            restaurantController.setIPGeolocator(ipGeolocator);
-            restaurantController.locateRestaurant();
-        </script>
+        <script type="text/javascript" src="/scripts/bk/tracking.js"></script>
 
         
     <!--div id="AccessibilityLinks">
@@ -190,8 +207,8 @@ var language_array = null;</script>
                 <a class="nolink">MENU</a>
                 <div class="navpane" style="left: -5000px; visibility: visible;">
                     <div class="content full_width">
-                        <ul class="category areaBox first" style="height: 292px;"><li class="root"><a href="/en/us/menu-nutrition/breakfast-menu-201/index.html" class="titleLink lnkNutrition category201 first-list">Breakfast Menu<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/combo-meals-211/index.html" class="lnkNutrition category211 first-list">Combo Meals</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/sandwiches-and-burritos-212/index.html" class="lnkNutrition category212 first-list">Sandwiches &amp; Burritos</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/platters-213/index.html" class="lnkNutrition category213 first-list">Platters</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/oatmeal-sweets-and-sides-214/index.html" class="lnkNutrition category214 first-list">Oatmeal, Sweets &amp; Sides</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/bk-and-reg-value-menu-215/index.html" class="lnkNutrition category215 first-list"><i>BK</i><sup>®</sup> Value Menu</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/drinks-and-coffee-217/index.html" class="lnkNutrition category217 first-list">Drinks &amp; Coffee</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/real-fruit-smoothies-and-frapp-s-216/index.html" class="lnkNutrition category216 first-list">Real Fruit Smoothies &amp; Frappés</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/bk-and-reg-kids-meal-218/index.html" class="lnkNutrition category218 first-list"><i>BK</i><sup>®</sup> Kids Meal</a></li></ul><ul class="category areaBox" style="height: 292px;"><li class="root"><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/index.html" class="titleLink lnkNutrition category202 first-list">Lunch &amp; Dinner Menu<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/combo-meals-219/index.html" class="lnkNutrition category219 first-list">Combo Meals</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/flame-broiled-burgers-220/index.html" class="lnkNutrition category220 first-list">Flame-Broiled Burgers</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/chicken-and-fish-sandwiches-221/index.html" class="lnkNutrition category221 first-list">Chicken &amp; Fish Sandwiches</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/salads-and-wraps-222/index.html" class="lnkNutrition category222 first-list">Salads &amp; Wraps</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/chicken-strips-and-tenders-223/index.html" class="lnkNutrition category223 first-list">Chicken Strips &amp; Tenders</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/french-fries-and-onion-rings-224/index.html" class="lnkNutrition category224 first-list">French Fries &amp; Onion Rings</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/bk-and-reg-value-menu-225/index.html" class="lnkNutrition category225 first-list"><i>BK</i><sup>®</sup> Value Menu</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/desserts-226/index.html" class="lnkNutrition category226 first-list">Desserts</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/drinks-and-coffee-227/index.html" class="lnkNutrition category227 first-list">Drinks &amp; Coffee</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/real-fruit-smoothies-and-frapp-s-228/index.html" class="lnkNutrition category228 first-list">Real Fruit Smoothies &amp; Frappés</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/bk-and-reg-kids-meal-229/index.html" class="lnkNutrition category229 first-list"><i>BK</i><sup>®</sup> Kids Meal</a></li></ul><ul class="category areaBox" style="height: 292px;"><li class="root"><a href="/en/us/menu-nutrition/snacks-203/index.html" class="titleLink lnkNutrition category203 first-list">Snacks<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li><li><a href="/en/us/menu-nutrition/snacks-203/salads-and-wraps-230/index.html" class="lnkNutrition category230 first-list">Salads &amp; Wraps</a></li><li><a href="/en/us/menu-nutrition/snacks-203/chicken-strips-and-tenders-231/index.html" class="lnkNutrition category231 first-list">Chicken Strips &amp; Tenders</a></li><li><a href="/en/us/menu-nutrition/snacks-203/french-fries-and-onion-rings-232/index.html" class="lnkNutrition category232 first-list">French Fries &amp; Onion Rings</a></li><li><a href="/en/us/menu-nutrition/snacks-203/oatmeal-233/index.html" class="lnkNutrition category233 first-list">Oatmeal</a></li><li><a href="/en/us/menu-nutrition/snacks-203/desserts-234/index.html" class="lnkNutrition category234 first-list">Desserts</a></li><li><a href="/en/us/menu-nutrition/snacks-203/drinks-and-coffee-236/index.html" class="lnkNutrition category236 first-list">Drinks &amp; Coffee</a></li><li><a href="/en/us/menu-nutrition/snacks-203/real-fruit-smoothies-and-frapp-s-235/index.html" class="lnkNutrition category235 first-list">Real Fruit Smoothies &amp; Frappés</a></li></ul><ul id="pdfdownload" class="category areaBox last" style="height: 292px;">
-<li class="root"><a class="titleLink nolink">PDF DOWNLOADS<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li>
+                        <ul class="category areaBox first" style="height: 292px;"><li class="root"><a href="/en/us/menu-nutrition/breakfast-menu-201/index.html" class="titleLink lnkNutrition category201 first-list">Breakfast Menu<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/combo-meals-211/index.html" class="lnkNutrition category211 first-list">Combo Meals</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/sandwiches-and-burritos-212/index.html" class="lnkNutrition category212 first-list">Sandwiches &amp; Burritos</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/platters-213/index.html" class="lnkNutrition category213 first-list">Platters</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/oatmeal-sweets-and-sides-214/index.html" class="lnkNutrition category214 first-list">Oatmeal, Sweets &amp; Sides</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/bk-and-reg-value-menu-215/index.html" class="lnkNutrition category215 first-list"><i>BK</i><sup>®</sup> Value Menu</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/drinks-and-coffee-217/index.html" class="lnkNutrition category217 first-list">Drinks &amp; Coffee</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/real-fruit-smoothies-and-frapp-s-216/index.html" class="lnkNutrition category216 first-list">Real Fruit Smoothies &amp; Frappés</a></li><li><a href="/en/us/menu-nutrition/breakfast-menu-201/bk-and-reg-kids-meal-218/index.html" class="lnkNutrition category218 first-list"><i>BK</i><sup>®</sup> Kids Meal</a></li></ul><ul class="category areaBox" style="height: 292px;"><li class="root"><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/index.html" class="titleLink lnkNutrition category202 first-list">Lunch &amp; Dinner Menu<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/combo-meals-219/index.html" class="lnkNutrition category219 first-list">Combo Meals</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/fire-grilled-burgers-220/index.html" class="lnkNutrition category220 first-list">Fire-Grilled Burgers</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/chicken-and-fish-sandwiches-221/index.html" class="lnkNutrition category221 first-list">Chicken &amp; Fish Sandwiches</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/salads-and-wraps-222/index.html" class="lnkNutrition category222 first-list">Salads &amp; Wraps</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/chicken-strips-and-nuggets-223/index.html" class="lnkNutrition category223 first-list">Chicken Strips &amp; Nuggets</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/french-fries-and-onion-rings-224/index.html" class="lnkNutrition category224 first-list">French Fries &amp; Onion Rings</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/bk-and-reg-value-menu-225/index.html" class="lnkNutrition category225 first-list"><i>BK</i><sup>®</sup> Value Menu</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/desserts-226/index.html" class="lnkNutrition category226 first-list">Desserts</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/drinks-and-coffee-227/index.html" class="lnkNutrition category227 first-list">Drinks &amp; Coffee</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/real-fruit-smoothies-and-frapp-s-228/index.html" class="lnkNutrition category228 first-list">Real Fruit Smoothies &amp; Frappés</a></li><li><a href="/en/us/menu-nutrition/lunch-and-dinner-menu-202/bk-and-reg-kids-meal-229/index.html" class="lnkNutrition category229 first-list"><i>BK</i><sup>®</sup> Kids Meal</a></li></ul><ul class="category areaBox" style="height: 292px;"><li class="root"><a href="/en/us/menu-nutrition/snacks-203/index.html" class="titleLink lnkNutrition category203 first-list">Snacks<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li><li><a href="/en/us/menu-nutrition/snacks-203/salads-and-wraps-230/index.html" class="lnkNutrition category230 first-list">Salads &amp; Wraps</a></li><li><a href="/en/us/menu-nutrition/snacks-203/chicken-strips-and-nuggets-231/index.html" class="lnkNutrition category231 first-list">Chicken Strips &amp; Nuggets</a></li><li><a href="/en/us/menu-nutrition/snacks-203/french-fries-and-onion-rings-232/index.html" class="lnkNutrition category232 first-list">French Fries &amp; Onion Rings</a></li><li><a href="/en/us/menu-nutrition/snacks-203/oatmeal-233/index.html" class="lnkNutrition category233 first-list">Oatmeal</a></li><li><a href="/en/us/menu-nutrition/snacks-203/desserts-234/index.html" class="lnkNutrition category234 first-list">Desserts</a></li><li><a href="/en/us/menu-nutrition/snacks-203/drinks-and-coffee-236/index.html" class="lnkNutrition category236 first-list">Drinks &amp; Coffee</a></li><li><a href="/en/us/menu-nutrition/snacks-203/real-fruit-smoothies-and-frapp-s-235/index.html" class="lnkNutrition category235 first-list">Real Fruit Smoothies &amp; Frappés</a></li></ul><ul id="pdfdownload" class="category areaBox last" style="height: 292px;">
+<li class="root"><a class="titleLink nolink">NUTRITION &amp; ALLERGEN DOWNLOADS<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li>
 <li class="document"><a href="/cms/en/us/cms_out/digital_assets/files/pages/MenuNutritionInformation.pdf">Full Menu</a></li>
 <li class="document"><a href="/cms/en/us/cms_out/digital_assets/files/pages/MenuGlutenFree.pdf">Gluten Sensitive List</a></li>
 </ul>
@@ -202,7 +219,7 @@ var language_array = null;</script>
             </li>
             <li class="separator"></li>
             <li id="niFreshOffers" class="navitem module">
-                <a class="nolink">FRESH OFFERS</a>
+                <!--a class="nolink"--><a href="/coupon" target="bkcoupon">FRESH OFFERS</a>
                 <div class="navpane" style="left: -5000px; visibility: visible;">
                     <div class="content">
                         <div class="areaBox actions">
@@ -236,7 +253,7 @@ var language_array = null;</script>
 <li><a href="/en/us/company-info/careers/videos.html">Videos</a></li>
                             </ul>
                         </ul>
-                        <ul class="areaBox">
+                        <ul class="areaBox b2-esWidth">
                             <ul class="areaBox">
                                 <li class="root"><a class="titleLink" href="/en/us/company-info/news-press/index.html">News &amp; Press<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li>
 <li style="display: none;">
@@ -247,6 +264,9 @@ var language_array = null;</script>
                             </ul>
                             <ul class="areaBox">
                                 <li class="root"><a class="titleLink" href="/en/us/company-info/franchise/index.html">Franchising<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li>
+<li><a href="/en/us/company-info/franchise/about-bk.html">Acquisition Opportunities (U.S.)</a></li>
+<li><a href="/en/us/company-info/franchise/new-restaurant-development.html">New Restaurant Development</a></li>
+<li><a href="/en/us/company-info/franchise/index.html">International Opportunities</a></li>
                             </ul>
                         </ul>
                         <ul class="areaBox">
@@ -257,7 +277,7 @@ var language_array = null;</script>
 <li><a href="/en/us/company-info/investor-relations/services.html">Investor Relations Services</a></li>
 <li><a href="/en/us/company-info/investor-relations/corporate-governance.html">Corporate Governance</a></li>
                         </ul>
-                        <ul class="areaBox">
+                        <ul class="areaBox b4-esWidth">
                             <ul class="areaBox">
                                 <li class="root"><a class="titleLink" href="/en/us/company-info/corporate-responsibility/index.html">Corporate Responsibility<img class="arrow" src="/images/nav/link_arrow.png" border="0" width="5" height="9"></a></li>
 <li><a href="/en/us/company-info/corporate-responsibility/food.html">Commitment to Food</a></li>
@@ -281,12 +301,12 @@ var language_array = null;</script>
                         <div class="areaBox actions">
                             <div class="areaBox search">
                                 <div>Enter your address, city, state, or zip code.</div>
-                                <form action="/en/us/restaurant-locator/index.html" method="get" accept-charset="utf-8" onsubmit="return headerGetFormattedAddressFromGeocoder(this);">
+                                <form id="form_find_bk" action="/en/us/restaurant-locator/index.html" method="get" accept-charset="utf-8" onsubmit="return headerLocationHasGeocodedResult;">
                                 <fieldset>
-                                    <input value="" id="nav_find_bk" name="s" type="text" maxlength="100">
+                                    <input value="" id="nav_find_bk" name="s" type="text" maxlength="100" onkeypress="headerRestaurantLocatorOnKeyPress(this, event)">
                                     <br>
                                     <div style="height: 8px;"></div>
-                                    <div class="rbuttonwrap"><div class="left"></div><button class="rbutton" onclick="this.form.submit();">Find Your <i>BK</i><sup>®</sup></button><div class="right"></div></div>
+                                    <div class="rbuttonwrap"><div class="left"></div><button class="rbutton" onclick="headerGetFormattedAddressFromGeocoder();">Find Your <i>BK</i><sup>®</sup></button><div class="right"></div></div>
                                 </fieldset>
                                 </form>
                             </div>
@@ -506,25 +526,38 @@ var language_array = null;</script>
 
     $(document).ready(function () {
 
-        freshOffersController.registerLoadCallback(function (promotionItems) {
-            var featured = promotionItems.filter(function () { return this.IsNavFeatured && this.IsAvailableAtThisTime(); })
-                                         .first();
-            if (featured.length > 0) {
-                featured = featured[0];
-                if (featured.NavFeaturedHtmlOverride != '') {
-                    $('#headerFeaturedOffer').html(featured.NavFeaturedHtmlOverride);
-                } else {
-                    $('#headerFeaturedOffer').html('<a href="' + featured.GetRefItemUrl() + '" target="' + featured.GetRefItemTarget() + '">' +
-                                                     '<img src="' + featured.NavFeaturedImagePath + '" border="0" />' +
-                                                   '</a>');
+        restaurantController.registerLocationResolutionCallback(function initMyMealYourBKInfo(objRestaurant, objIPGeolocatedLatLng) {
+            freshOffersController.registerLoadCallback(function (promotionItems) {
+                var featured = promotionItems.filter(function () { return this.IsNavFeatured && this.IsAvailableAtThisTime() && this.IsAvailableAtRestaurant(objRestaurant); })
+                                             .first();
+                if (featured.length > 0) {
+					// Need to set values in cases it was hide before.
+					 $("ul#MainNavigation #niFreshOffers .content").css("width","677px");
+					 $("ul#MainNavigation #niFreshOffers .content > .areaBox.featured ").show();
+					 
+                    featured = featured[0];
+                    if (featured.NavFeaturedHtmlOverride != '') {
+                        $('#headerFeaturedOffer').html(featured.NavFeaturedHtmlOverride);
+                    } else {
+                        $('#headerFeaturedOffer').html('<a href="' + featured.GetRefItemUrl() + '" target="' + featured.GetRefItemTarget() + '">' +
+                                                         '<img src="' + featured.NavFeaturedImagePath + '" border="0" />' +
+                                                       '</a>');
+                    }
+
+                    $('#headerFeaturedOffer .rbutton').rbutton();
                 }
+				else
+				{
+					// Hide unused spaces
+					 $("ul#MainNavigation #niFreshOffers .content").css("width","194px");
+					 $("ul#MainNavigation #niFreshOffers .content > .areaBox.featured ").hide();
+					 
+				}
 
-                $('#headerFeaturedOffer .rbutton').rbutton();
-            }
-
-            initAreaBoxes($('ul#MainNavigation > li.navitem#niFreshOffers'));
+                initAreaBoxes($('ul#MainNavigation > li.navitem#niFreshOffers'));
+            });
         });
-        
+
         setTimeout(UpdateYourBkCrossDomain, 3000);
     });
 
@@ -691,26 +724,33 @@ var language_array = null;</script>
 <script type="text/javascript">
     var globalHeaderLocation = BK.globalHeaderLocation;
     var headerLocationHasGeocodedResult = false;
-
-    function headerGetFormattedAddressFromGeocoder(sender) {
-        if (headerLocationHasGeocodedResult) {
-            return true;
-        } else {
-            geocoder = new google.maps.Geocoder();
-            geocoder.geocode({ 'address': $("#nav_find_bk").val(), 'region': strCountry },
-                             function (response, status) {
-                                 headerLocationHasGeocodedResult = true;
-                                 if (status == google.maps.GeocoderStatus.OK) {
-                                     $("#nav_find_bk").val(response[0].formatted_address);
-                                 }
-                                 sender.submit();
-                             });
+    
+    function headerRestaurantLocatorOnKeyPress(control, e) {
+        if (e.keyCode == 13 && $(control).val() != '') {
+            // Use timeout to wait for form auto complete
+            setTimeout(headerGetFormattedAddressFromGeocoder, 250);
             return false;
+        } else {
+            return true;
         }
     }
 
+    function headerGetFormattedAddressFromGeocoder() {
+        geocoder = new google.maps.Geocoder();
+        geocoder.geocode({ 'address': $("#nav_find_bk").val(), 'region': CultureCountry },
+                            function (response, status) {
+                                if (status == google.maps.GeocoderStatus.OK) {
+                                    $("#nav_find_bk").val(response[0].formatted_address);
+                                }
+                                headerLocationHasGeocodedResult = true;
+                                $("#form_find_bk").submit();
+                            });
+    }
+
     $(document).ready(function () {
-        globalHeaderLocation.initialize();
+        restaurantController.registerLocationResolutionCallback(function () {
+            globalHeaderLocation.initialize();
+        });
     });
 </script>
 
@@ -721,18 +761,22 @@ var language_array = null;</script>
 		    <div id="ContentWrapper">
 			    <a id="ContentTop" name="ContentTop"><!-- link target --></a>
 			    
-  <div class="ordinaryWrapper">
-    
-    <div class="contentArea">
-      
-      
-        <div class="contentH1Title">
-          <h1>
+    <div class="ordinaryWrapper">
+        
+        
+        <div class="contentArea">
+            
+            
+                <div class="contentH1Title">
+                    <h1>
+                        
 	</h1><h1><div>Privacy Policy</div></h1>
 
-          <div class="clear"></div>      
-        </div>
-        
+                    
+                    <div class="clear">
+                    </div>
+                </div>
+                
   <div class="frameContentWrapper">
     <div class="borderTop"></div>
     <div class="contentBody">
@@ -740,7 +784,8 @@ var language_array = null;</script>
   <div class="corporateContent">
     
     <div>
-<h3 id="burger_king_corporation_general_online_privacy_policy">BURGER KING CORPORATION GENERAL ONLINE PRIVACY POLICY <span>Last Revised: December 23, 2011</span></h3>
+<h3 id="burger_king_corporation_general_online_privacy_policy">BURGER KING CORPORATION GENERAL ONLINE PRIVACY POLICY</h3>
+<p>Last Revised: December 23, 2011</p>
 <p>Burger King Corporation is sensitive to the privacy concerns of visitors to its websites. The purpose of this General Online Privacy Policy is to describe what types of personal information we collect from visitors to Burger King Corporation’s website, http://www.bk.com or any other site operated by Burger King Corporation or by a Service Provider on behalf of Burger King Corporation, including without limitation www.bkdelivers.com (collectively the “BKC Websites”), the purposes for which we use the information, what rights you have regarding your personal information, and to whom and under what circumstances we disclose your personal information. This General Online Privacy Policy applies to our information collection, use, and disclosure practices for website visitors ages 13 and over. Our <a rel="noprompt" href="http://www.clubbk.com/Legal/ChildrensPolicy.aspx">Children’s Online Privacy Policy</a> describes our information collection, use, and disclosure practices for visitors to any BKC Website directed to children under the age of 13.</p>
 <h3 id="web_site_operators">WEB SITE OPERATORS</h3>
 <p>BKC Websites are operated by Burger King Corporation. Certain companies including, but not limited to, advertising, promotional, internet and public relations service providers (collectively, "Service Providers") assist BKC with respect to its websites. In this Online Privacy Policy, Burger King Corporation and Service Providers are referred to collectively as "we" or "our". Burger King Corporation is the sponsor of a BKC Website. Service Providers will develop and/or host BKC Websites, provide other services such as customer service support for BKC Websites or analysis of the performance of BKC Websites.</p>
@@ -782,11 +827,12 @@ www.bk.com/contactus<br>
     </div>
     <div class="borderBottom"></div>
   </div>
-    
-      
+
+            
+        </div>
+        
+        
     </div>
-    
-  </div>
 
 		    </div>
 		    <!-- END: content -->
@@ -869,39 +915,47 @@ www.bk.com/contactus<br>
     }
 
     $(document).ready(function () {
-        freshOffersController.registerLoadCallback(function (promotionItems) {
-            $('#FooterOffers > ul').empty();
+        restaurantController.registerLocationResolutionCallback(function initMyMealYourBKInfo(objRestaurant, objIPGeolocatedLatLng) {
+            freshOffersController.registerLoadCallback(function (promotionItems) {
+                $('#FooterOffers > ul').empty();
 
-            var featuredItems = promotionItems.filter(function () { return this.IsFooterFeatured && this.IsAvailableAtThisTime(); })
-                                              .slice(0, 2);
-            featuredItems.each(function () {
-                var li = $('<li class="promoitem"></li>');
+                var featuredItems = promotionItems.filter(function () { return this.IsFooterFeatured && this.IsAvailableAtThisTime() && this.IsAvailableAtRestaurant(objRestaurant); })
+                                                  .slice(0, 2);
+                featuredItems.each(function () {
+                    var li = $('<li class="promoitem"></li>');
 
-                if (this.FooterFeaturedHtmlOverride != '') {
-                    li.append(this.FooterFeaturedHtmlOverride);
-                } else {
-                    var aTagAttrs = 'href="' + this.GetRefItemUrl() + '" target="' + this.GetRefItemTarget() + '"';
+                    if (this.FooterFeaturedHtmlOverride != '') {
+                        li.append(this.FooterFeaturedHtmlOverride);
+                    } else {
+                        var aTagAttrs = 'href="' + this.GetRefItemUrl() + '" target="' + this.GetRefItemTarget() + '"';
 
-                    li.append('<div class="text">' +
-                                (this.FooterFeaturedTitleText == '' ? '' : ('<div class="title"><a ' + aTagAttrs + '>' + this.FooterFeaturedTitleText + '</a></div>')) +
-                                (this.FooterFeaturedLinkText == '' ? '' : ('<div class="link"><a ' + aTagAttrs + '>' + this.FooterFeaturedLinkText + '</a></div>')) +
-                              '</div>' +
-                              (this.FooterFeaturedImagePath == '' ? '' : ('<div class="image"><a ' + aTagAttrs + '><img src="' + this.FooterFeaturedImagePath + '" border="0" /></a></div>')) +
-                              (this.FooterFeaturedDisclaimerText == '' ? '' : ('<div class="disclaimer">' + this.FooterFeaturedDisclaimerText + '</div>'))
-                             );
-                }
+                        li.append('<div class="text">' +
+                                    (this.FooterFeaturedTitleText == '' ? '' : ('<div class="title"><a ' + aTagAttrs + '>' + this.FooterFeaturedTitleText + '</a></div>')) +
+                                    (this.FooterFeaturedLinkText == '' ? '' : ('<div class="link"><a ' + aTagAttrs + '>' + this.FooterFeaturedLinkText + '</a></div>')) +
+                                  '</div>' +
+                                  (this.FooterFeaturedImagePath == '' ? '' : ('<div class="image"><a ' + aTagAttrs + '><img src="' + this.FooterFeaturedImagePath + '" border="0" /></a></div>')) +
+                                  (this.FooterFeaturedDisclaimerText == '' ? '' : ('<div class="disclaimer">' + this.FooterFeaturedDisclaimerText + '</div>'))
+                                 );
+                    }
 
-                $('#FooterOffers > ul').append(li);
+                    $('#FooterOffers > ul').append(li);
+                });
+
+                $("#FooterOffers .promoitem:first").addClass('first');
+                $('#FooterOffers a.video').modalVideo();
             });
-
-            $("#FooterOffers .promoitem:first").addClass('first');
-            $('#FooterOffers a.video').modalVideo();
         });
 
         $("#FooterNavigation ul > li:first-child").addClass('first');
         $("#FooterNavigation ul > li:last-child").addClass('last');
         $("#FooterSubNavigation ul > li:first-child").addClass('first');
         $("#FooterSubNavigation ul > li:last-child").addClass('last');
+
+        if ($.browser.msie && $.browser.version == "7.0") {
+            // Fix Sign up for BK in ES, IE7 ... widthFix only available in es
+            $("#FooterBottomRight #SignUpBox a").addClass("widthFix");
+            $("#FooterSubNavigation ul").css("white-space", "nowrap");
+        }
     });
 </script>
 
@@ -927,6 +981,103 @@ www.bk.com/contactus<br>
     <!-- END: Facebook -->
     
     <!-- END: Twitter -->
+
+    <!-- BEGIN: IP geolocation code -->
+
+    
+
+    <script type="text/javascript">
+        // Child pages should override performRedirect to false if there should be no redirection for this page.
+        var performRedirect = true;
+        var redirectTargetURL = null;
+
+        function closeRedirectLightbox() {
+            countdownCancelled = true;
+            if (typeof triggerHomeContent == 'function') {
+                triggerHomeContent("resume");
+            }
+            $('#redirectOverlay').hide();
+
+            restaurantController.locateRestaurant();
+        }
+
+        function setRedirectExceptionCookie() {
+            $.cookie("CountryRedirectException", "true", { expires: 0, path: '/' });
+        }
+
+        function onStayAtBKButtonClicked() {
+            countdownCancelled = true;
+            setRedirectExceptionCookie();
+            closeRedirectLightbox();
+        }
+
+        function onContinueToMyCountrysSiteButtonClicked() {
+            redirectToTargetURL();
+        }
+
+        function redirectToTargetURL() {
+            if (redirectTargetURL != null) {
+                window.location = redirectTargetURL;
+            }
+            closeRedirectLightbox();
+        }
+
+        function decrementRedirectCountdown() {
+            if (!countdownCancelled) {
+                $('#redirectCountdown').html(--countdownSeconds);
+                if (countdownSeconds > 0) {
+                    setTimeout(decrementRedirectCountdown, 1000);
+                } else {
+                    redirectToTargetURL();
+                }
+            }
+        }
+
+        $(document).ready(function () {
+            ipGeolocator.registerCountryLocationResolutionCallback(function (countryLocation) {
+                countryRedirectController.registerCheckCountryResolutionCallbackFn(function (defaultRedirect, boolRedirect, strWebsiteURL) {
+                    if (!performRedirect || $.trim(boolRedirect) == "false") {
+                        restaurantController.locateRestaurant();
+                    } else {
+                        if ($.cookie("CountryRedirectException") != null && $.trim($.cookie("CountryRedirectException")) == "true") {
+                            setRedirectExceptionCookie();
+                            restaurantController.locateRestaurant();
+                        } else {
+                            redirectTargetURL = strWebsiteURL;
+                            $('#continueToMyCountrysSite').html('%{country} Website'.replace('%{country}', countryRedirectController.getCountryName()));
+                            $('#redirectCountdown').html(countdownSeconds);
+                            setTimeout(decrementRedirectCountdown, 1000);
+                            $('#redirectOverlay').show();
+                        }
+                    }
+                });
+                countryRedirectController.checkCountryRedirect(countryLocation);
+            });
+            ipGeolocator.getCountryGeolocation();
+        });
+    </script>
+    <div id="redirectOverlay">
+        <div class="redirectLightboxWrap">
+            <img onclick="closeRedirectLightbox()" class="redirectLightboxClose" src="/images/modalbox-btn-close.png">
+            <div class="redirectLightbox">
+                <p>
+                    </p><h4>You are now being redirected to your country’s BURGER KING<sup>®</sup> website.</h4>
+<h4>Usted está siendo redireccionado a la página web de BURGER KING<sup>®</sup> en su país.</h4>
+<h4>Voce esta sendo direcionado a pagina da BURGER KING<sup>®</sup> no seu país.</h4>
+                    <div id="redirectCountdown"></div>
+                    The terms and conditions of use and policies, including the privacy policy, of the website to  which you are being redirected may vary from Burger King Corporation's policies.  Please be sure to review the policies of every web site you visit as Burger King  Corporation is not responsible for the policies and practices of other companies.
+                <p></p>
+                <br>
+                <div class="redirectLightboxButtons" style="margin-top: 5px;">
+                    <div class="rbuttonwrap"><div class="left"></div><button onclick="onStayAtBKButtonClicked()" class="rbutton">
+                        US Website</button><div class="right"></div></div>&nbsp;&nbsp;&nbsp;
+                    <div class="rbuttonwrap"><div class="left"></div><button id="continueToMyCountrysSite" onclick="onContinueToMyCountrysSiteButtonClicked()" class="rbutton">My Country's Site</button><div class="right"></div></div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END: country geolocation-based redirection code -->
 
 
         
