@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bk.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509234749id_/http%3A//www.bk.com/en/us/company-info/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bk.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008001512id_/http%3A//www.bk.com/en/us/company-info/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BURGER KING®
 
-### BURGER KING CORPORATION GENERAL ONLINE PRIVACY POLICY Last Revised: December 23, 2011
+### BURGER KING CORPORATION GENERAL ONLINE PRIVACY POLICY
+
+Last Revised: December 23, 2011
 
 Burger King Corporation is sensitive to the privacy concerns of visitors to its websites. The purpose of this General Online Privacy Policy is to describe what types of personal information we collect from visitors to Burger King Corporation’s website, http://www.bk.com or any other site operated by Burger King Corporation or by a Service Provider on behalf of Burger King Corporation, including without limitation www.bkdelivers.com (collectively the “BKC Websites”), the purposes for which we use the information, what rights you have regarding your personal information, and to whom and under what circumstances we disclose your personal information. This General Online Privacy Policy applies to our information collection, use, and disclosure practices for website visitors ages 13 and over. Our [Children’s Online Privacy Policy](http://www.clubbk.com/Legal/ChildrensPolicy.aspx) describes our information collection, use, and disclosure practices for visitors to any BKC Website directed to children under the age of 13.
 
