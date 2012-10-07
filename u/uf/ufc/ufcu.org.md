@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufcu.org privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118205018id_/https%3A//www.ufcu.org/about/legal/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcu.org privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007091033id_/https%3A//www.ufcu.org/about/legal/privacy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ This policy is provided by University Federal Credit Union (UFCU) and the UFCU i
 
 At UFCU and its affiliated companies, protecting your privacy and your financial assets is central to our mission. We understand it is important for you to know how we collect, retain, and use information about you. We recognize you have a right to expect your personal information remain private and secure, and we commit fully to meet your expectations. 
 
-UFCU and its affiliated companies are committed to providing you a broad array of competitive products and services to meet your financial needs. Sometimes that necessitates sharing pertinent information we collect about you to help us (1) process transactions you initiate, and (2) offer you competitive financial products and services from the UFCU insurance brokerage and real estate affiliated companies. 
+UFCU and its affiliated companies are committed to providing you a broad array of competitive products and services to meet your financial needs. Sometimes that necessitates sharing pertinent information we collect about you to help us (1) process transactions you initiate, and (2) offer you competitive financial products and services from the UFCU affiliated companies. 
 
-Except to process your transactions or as required by law, we do not provide your nonpublic personal information to anyone other than our affiliated companies. When we provide your information to our affiliated companies, it is only for the purpose of introducing you to our affiliated companies’ products and services, which we believe will be of value and interest to you. UFCU and our affiliated companies maintain strict confidentiality standards, and we limit the use of the information we provide to one another. **Under no circumstances does UFCU or the UFCU affiliated companies sell the nonpublic personal information we receive from you.**
+Except to process your transactions or as required by law, we do not provide your nonpublic personal information to anyone other than our affiliated companies and service providers. When we provide your information to our affiliated companies, it is for the purpose of introducing you to our affiliated companies’ products and services, which we believe will be of value and interest to you. UFCU and our affiliated companies maintain strict confidentiality standards, and we limit the use of the information we provide to one another. **Under no circumstances does UFCU or the UFCU affiliated companies sell the nonpublic personal information we receive from you.**
 
 ###  Information We Collect and Disclose About You 
 
