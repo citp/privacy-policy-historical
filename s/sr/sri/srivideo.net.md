@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srivideo.net privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601034039id_/http%3A//www.srivideo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srivideo.net privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007192352id_/http%3A//www.srivideo.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Watch Online Sun Tv Shows, Vijay Tv Shows, Jaya Tv Shows, kalaignar Tv shows, Movies, Hot news-Daily Update Center!
 
@@ -46,6 +46,3 @@ You should consult the respective privacy policies of these third-party ad serve
 For questions concerning the product or your account, please. For more information about our privacy practices, 
 
 write to us at: **SriMeGavid@gmail.com**
-
-  
-
