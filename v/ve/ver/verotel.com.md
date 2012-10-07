@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502073106id_/http%3A//www.verotel.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007042508id_/http%3A//www.verotel.com/privacystatement.html) for the most accurate reproduction.*
 
 # Verotel Privacy Policy | Verotel
 
