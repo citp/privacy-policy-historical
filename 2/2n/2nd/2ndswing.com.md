@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415011937id_/http%3A//www.2ndswing.com/t-PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008013053id_/http%3A//www.2ndswing.com/t-PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,8 +63,13 @@ If you choose to use PayPal or Google Checkout to finalize and pay for your orde
 
 ## Cookies and Other Tracking Technologies 
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. **Links to Other Web Sites**  
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. **Links to Other Web Sites**
+
 Our Site includes links to other Web sites whose privacy practices may differ from those of 2ndSwing.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+Third party vendors, including Google, use cookies to serve the badge on your website and to serve ads based on a user's prior visits to your website.
+
+Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/)
 
 ## Security 
 
