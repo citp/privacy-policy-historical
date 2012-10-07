@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trillian.im privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603034905id_/http%3A//www.trillian.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trillian.im privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007082129id_/http%3A//www.trillian.im/privacy) for the most accurate reproduction.*
 
 # Cerulean Studios' Privacy Policy
 
