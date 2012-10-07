@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localschooldirectory.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629052659id_/http%3A//www.localschooldirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localschooldirectory.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008010102id_/http%3A//www.localschooldirectory.com/privacy.php) for the most accurate reproduction.*
 
 # LocalSchoolDirectory.com Privacy Policy
 
