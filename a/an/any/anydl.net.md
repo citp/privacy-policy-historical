@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anydl.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502070421id_/http%3A//www.anydl.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anydl.net privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007190245id_/http%3A//www.anydl.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
