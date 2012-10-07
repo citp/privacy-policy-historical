@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418113724id_/http%3A//youthcentral.vic.gov.au/ViewPage.action%3FsiteNodeId%3D19%26repositoryName%3Dwww.youthcentral) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007042332id_/http%3A//www.youthcentral.vic.gov.au/ViewPage.action%3FsiteNodeId%3D19%26repositoryName%3Dwww.youthcentral) for the most accurate reproduction.*
 
 # Privacy - Youth Central
 
