@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklysauce.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629035208id_/http%3A//weeklysauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklysauce.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008024255id_/http%3A//weeklysauce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Your Privacy Rights | Weeklysauce
 
@@ -29,9 +29,11 @@ WeeklySauce.com may share your information with our affiliates or with service p
 
 For information about Coupons.com privacy, please [click here](http://www.couponsinc.com/corporate/Privacy.aspx).
 
+We serve some third-party ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
 **What are my choices?**
 
-If you would like WeeklySauce.com to stop providing your information to these third parties, please send a “do not share” request to WeeklySauce.com by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com), or by contacting us as directed below under “Additional Information.”
+If you would like WeeklySauce.com to stop providing your information to these third parties, please send a “do not share” request to WeeklySauce.com by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com?subject=WeeklySauce.com), or by contacting us as directed below under “Additional Information.”
 
 **WeeklySauce.com’s special note to parents**
 
