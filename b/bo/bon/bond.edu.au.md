@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501140620id_/http%3A//www.bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008033350id_/http%3A//bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy | Bond University | Gold Coast, Australia
 
@@ -53,8 +53,7 @@ Generally, BU only uses and/or discloses personal information about you for the 
   * in the case of untrue or misleading information, the Australian Vice-Chancellors Committee (‘AVCC’) or any AVCC member institution;
   * in the case of an emergency involving you, your nominated next of kin;
   * your agent and/or your next of kin for the purpose of processing an application you may have made; and
-  * the Commonwealth Government Department of Education, Science and Training; and
-  * the Department of Immigration & Multicultural & Indigenous Affairs Security
+  * Federal, State or Local Government Departments or Agencies who require the information for official purposes.
 
 
 
