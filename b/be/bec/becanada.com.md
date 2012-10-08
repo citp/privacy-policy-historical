@@ -1,38 +1,6 @@
-> *The following text is extracted and transformed from the becanada.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123000554id_/http%3A//www.becanada.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becanada.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008044854id_/http%3A//www.becanada.com/internet/1349159600/privacy.html) for the most accurate reproduction.*
 
 # Becanada : Privacy Policy
-
-**Becanada Privacy Policy: **
-
-Becanada has been in business now for over 15 years and has 1000s of clients worldwide. Becanada is committed to creating and selling quality products and services and supporting said products and services with prompt support service. These policies apply to ALL Becanada products and services; including all sites/services owned by or sold by Becanada directly. If you have ANY questions about these policies and/or any other questions ; including questions about our products/services - please [contact us](http://www.becanada.com/internet/1322006098/email.htm). 
-
-**What information do we collect?**
-
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
-
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-; To process transactions 
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-
-  
-; To send periodic emails 
-
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
 **How do we protect your information?**
 
@@ -72,7 +40,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms of service](http://www.becanada.com/internet/1322006098/tos.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms of service](http://www.becanada.com/internet/1348538837/tos.html)
 
 **Your Consent**
 
