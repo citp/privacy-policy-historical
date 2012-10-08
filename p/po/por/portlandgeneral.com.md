@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509001029id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008034828id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
@@ -18,11 +18,11 @@ We value our customer relationships and recognize that when you provide personal
 
 
 What personal information do we collect?  
-As a visitor to this website, your identity will remain anonymous unless you register for online account services, enter a sweepstakes or enroll in a program. In such cases you will be notified that personal information, such as your name, address, phone number and e-mail address, is required. We may use this information, along with third party sources, to provide information based on your preferences. We may tie personally identifiable information to your profile to improve the website content available to you and to provide e-mail messages suited to your needs and interests. See “E-mail communications to customers” below for opt-out instructions.
+As a visitor to this website, your identity will remain anonymous unless you register for online account services, enter a sweepstakes or enroll in a program. In such cases you will be notified that personal information, such as your name, address, phone number and email address, is required. We may use this information, along with third party sources, to provide information based on your preferences. We may tie personally identifiable information to your profile to improve the website content available to you and to provide email messages suited to your needs and interests. See “email communications to customers” below for opt-out instructions.
 
-If you are starting a new electric service account, we will ask for additional personal information for credit verification and security purposes only. This information will be used to provide a requested service, to facilitate purchases and to provide you with e-mail communications. See “E-mail communications to customers” below for opt-out instructions.
+If you are starting a new electric service account, we will ask for additional personal information for credit verification and security purposes only. This information will be used to provide a requested service, to facilitate purchases and to provide you with email communications. See “email communications to customers” below for opt-out instructions.
 
-If you choose to use our service to share pages on our site with a friend, we will ask you to provide your friend’s e-mail address. We will automatically send a one-time e-mail to your friend with the requested information. PGE does not store this information.
+If you choose to use our service to share pages on our site with a friend, we will ask you to provide your friend’s email address. We will automatically send a one-time email to your friend with the requested information. PGE does not store this information.
 
 PGE will not sell or rent the information collected at this site to any party or share it in ways different from those disclosed in this statement.
 
@@ -35,12 +35,12 @@ If you no longer wish to access your account online, you can cancel your online 
 
 Back to top
 
-E-mail communications to customers  
-Online account e-mails: We send registered customers e-mails related to their PGE electric service and their online account. These may include welcome messages, online transaction confirmations, customer service notices and messages required by the Oregon Public Utility Commission. Generally, customers may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account.
+Email communications  
+Online account emails: We send registered customers emails related to their PGE electric service and their online account. These may include welcome messages, online transaction confirmations, customer service notices and messages required by the Oregon Public Utility Commission. Generally, customers may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account.
 
-Other e-mail communications: By establishing service online or by registering for a PGE online account, you agree to receive the following types of e-mail communications: newsletters and occasional e-mails related to your PGE service, including information on energy efficiency, safety and outages, surveys and promotions such as energy-saving offers. You may opt out of specific types of e-mail communications at any time using the link provided in each e-mail: “Manage Your Subscriptions/Unsubscribe.”
+Other email communications: By establishing service online or by registering for a PGE online account, you agree to receive the following types of email communications: newsletters and occasional emails related to your PGE service, including information on energy efficiency, safety and outages, surveys and promotions. You may opt out of specific types of email communications at any time using the Manage Subscriptions and Unsubscribe links provided at the bottom of each email message.
 
-Participants in PGE programs and sweepstakes may receive occasional e-mail communications about them. You may opt-out of these communications at any time using the link provided in each e-mail: “Manage Your Subscriptions/Unsubscribe.”
+Participants in PGE programs may receive occasional email communications about them. You may opt out of these communications at any time by unsubscribing from all email communications using the Unsubscribe link at the bottom of each email.
 
 Back to top
 
@@ -50,7 +50,7 @@ A cookie is a small text file stored on your computer by a Web site to give you 
   * Indicate whether you are signed in as a registered user of the website. 
   * Enhance your privacy and security while doing business with PGE. If you step away from your computer or don’t sign out, you will be signed out automatically after 10 idle minutes. 
   * Ensure your website experience will not be disrupted if a load-balancing server is down or busy.
-  * Activate the “Remember me” feature. If you check this box when logging into your account, it stores your e-mail address on your computer so the information is provided automatically when you log in.
+  * Activate the “Remember me” feature. If you check this box when logging into your account, it stores your email address on your computer so the information is provided automatically when you log in.
 
 
 
@@ -67,7 +67,7 @@ Another third-party vendor uses cookies for the following functions in our Inves
 
   * The session cookie determines the last visit date, which changes the content on the “What’s New” page.
   * The identity cookie represents a user who has entered personal information and has clicked the “remember me” option. The cookie contains the user’s first name, last name and investor type. This cookie improves server performance by minimizing database look ups for pages that display “Welcome John Smith.” These cookies are tied to personally identifiable information.
-  * The recipient cookie is a “logged in” cookie and allows the user to change their contact information and e-mail alerts. The only way to create this cookie is to click on an e-mail confirmation link that is sent to verify the authenticity of the person requesting e-mail alerts.
+  * The recipient cookie is a “logged in” cookie and allows the user to change their contact information and email alerts. The only way to create this cookie is to click on an email confirmation link that is sent to verify the authenticity of the person requesting email alerts.
   * The briefcase cookie allows the user to add documents to his or her briefcase for later downloading.
   * The opt-out cookie allows users to opt out of using cookies to store information.
 
@@ -92,7 +92,7 @@ As an added security measure, we encourage you to sign out of the interactive po
 Back to top
 
 Contact information?  
-We welcome your questions and comments on this policy. [E-mail Customer Service](mailto:customer.service@pgn.com "E-mail Customer Service") or call 800-542-8818. The address for PGE headquarters is 121 SW Salmon St., Portland, OR 97204.
+We welcome your questions and comments on this policy. [email Customer Service](mailto:customer.service@pgn.com "email Customer Service") or call 800-542-8818. The address for PGE headquarters is 121 SW Salmon St., Portland, OR 97204.
 
 Back to top
 
