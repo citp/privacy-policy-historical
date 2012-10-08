@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224818id_/http%3A//www.readersdigest.co.za/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008071732id_/http%3A//www.readersdigest.co.za/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Reader's Digest
 
 **General statement**  
 Many Internet users are unaware of how easy it is to give away information about themselves when they navigate the web. We respect and protect the privacy of our users. Reader's Digest (RD) wishes the users of its online presence to know that it seeks to comply with all elements of the Privacy Act 1988.
