@@ -1,74 +1,113 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509194343id_/http%3A//www.newstatesman.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008181245id_/http%3A//www.newstatesman.com/privacy-policy) for the most accurate reproduction.*
 
-# New Statesman - Privacy Policy
+# Privacy Policy
 
-The New Statesman is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the website without having to reveal more information than is necessary.
+This Privacy Policy governs the manner in which New Statesman collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.newstatesman.com](http://www.newstatesman.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by New Statesman.
 
-However, knowing some information about our users is necessary to ensure that our service is continually improved. To be able to communicate with you we need to build an accurate picture of the needs and wishes of our users. This enables us to offer a service that is relevant and interactive. 
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Q: "What information do you collect about me?"
-    
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-A. This depends on the nature of your involvement with our website. We may ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then up to you whether give us this information.
+**Web browser cookies**  
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-If you enter our competitions, promotions or participate in other online offers you will need to give us some details about yourself. You may also choose to email us or [contact us](https://web.archive.org/nscontactus.htm) in other ways. Such contact gives us information about you.
+**How we use collected information**  
+New Statesman collects and uses Users personal information for the following purposes:
 
-If you have any financial dealings or make purchases with our trading partners they will ask for certain information. Some of this information will be shared with us so that we can send you your purchases. We do not see or keep credit card details unless you specifically send them to us.
-
-Q: "For what purposes do you collect and use this information?"
-    
-
-A: We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the website and audit its use.
-
-The information about you as an identifiable individual, including contact details, may be used in the following ways:
-
-  * to conduct market research and other surveys.
-  * to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.
-  * to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also share the information that they obtain about their users, which may include you.
+  * To personalize user experience
 
 
 
-### Cookies
+    We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-We use cookies to help personalise your use of our sites. A cookie is a small piece of information sent to your computer's hard drive by the web server so that our website can remember who you are. This information may include information relating to your use of our sites, information about your computer such as the computer's IP address and browser type, demographic data and, if you arrived at our site via a link from third party site, the URL of the linking page. If you are a registered user or subscriber this may include your name and email address for verification purposes.
-
-We use information from cookies for purposes which may include:
-
-  * identifying returning users, registrants and subscribers and to allow subscribers to be presented with a personalised version of the site
-  * enabling you to move more easily around our site
-  * tracking your use of our site to better develop our sites in accordance with your requirements
-  * building up a demographic profile
+  * To improve our Site
 
 
 
-Remember, you can delete cookies from your hard drive at any time however this will mean that any settings such as your stored username and password will have to be reset. You can set your internet browser so that it will not allow cookies to be stored on your computer. This may reduce functionality of the site, prevent access to subscriber-only areas of the site and mean that certain features or content will not be available to you. Further information on how to prevent cookies from being stored on your computer can be found on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) under the "manage cookies" section. Alternatively go to the help menu within your internet browser.
+    We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
-From time to time we may permit 3rd party companies to set cookies on New Statesman sites for purposes which may include market research, serving advertisements, revenue tracking or to improve functionality of the site.
-
-### Adviva
-
-We may use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, Adviva. These files enable Adviva to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website.
-
-### Google Analytics
-
-Some New Statesman websites use Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to help us to analyse how users use New Statesman sites. The information generated by the cookie about your use of our sites (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our sites, compiling reports on website activity for us and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of New Statesman. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
-
-Q: "How private are my details?"
-    
-
-A: We only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. New Statesman complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, nor for any breach of security.
-
-If you tell us that you do not want us to use your details, then data about your use of the website would then only form part of aggregated statistics and would not be related to you as an individual.
-
-Q: "What do I do if I am not happy for you to share information about me with others?"
-    A: You may not wish us to share personal details about you with third parties outside the New Statesman, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at [info@newstatesman.co.uk](mailto:info@newstatesman.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data. In any event your personal details may be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.  
+  * To improve customer service
 
 
-## International transfer of personal data
 
-As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries and you agree to your personal data being transferred or processed in this way.
+    Your information helps us to more effectively respond to your customer service requests and support needs.
 
-Further information about the Data Protection Act can be found here:  
-[www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)
+  * To process transactions
 
-Last updated: November 2006
+
+
+    We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+
+  * To administer a content, promotion, survey or other Site feature
+
+
+
+    To send Users information they agreed to receive about topics we think will be of interest to them.
+
+  * To send periodic emails
+
+
+
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+  **How to switch off cookies**  
+By changing your browser settings you can choose to no longer accept cookies for individual websites. Links to the revelant pages relating to the most popular browsers are listed below: 
+
+  [Google Chrome: 'Manage Cookies'](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
+[Mozilla Firefox: 'Google settings'](http://support.mozilla.org/en-US/kb/Cookies)  
+[Microsoft Internet Explorer: 'How to manage cookies'](http://windows.microsoft.com/en-US/windows7/How-to-manage-cookies-in-Internet-Explorer-9)  
+[Safari: 'Managing cookies'](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)  
+[Opera: 'Security and Privacy'](http://www.opera.com/browser/tutorials/security/privacy/)
+
+  And here you will find instructions to help you change settings for mobile devices:
+
+  [Android](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)  
+[BlackBerry ](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)  
+[Safari](http://support.apple.com/kb/HT1677)  
+[Windows](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)
+
+  Alternatively, if you wish to swich off **third party cookies** (usually from advertisers) visit [Your online choices](http://www.youronlinechoices.com/uk/). Google provides detailed information about its own advertising network, and how to edit preferences [here](http://www.google.com/policies/privacy/ads/). The cookies accompanying adverts may allow advertisers to monitor the effectiveness of the ads (eg by using statistical analysis cookies) and make the ads more relevant to you (eg if you use our sites from outside of the UK, you may get ads from your local country).
+
+  More information can be found at the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+**Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+**Third party websites**  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+**Advertising**  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Google Adsense**  
+Some of the ads on the Site may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**Changes to this privacy policy**  
+New Statesman has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+New Statesman  
+[http://www.newstatesman.com](http://www.newstatesman.com/ "http://www.newstatesman.com")  
+New Statesman  
+7th Floor  
+John Carpenter House  
+7 Carmelite Street  
+Blackfriars  
+EC4Y 0AN  
+United Kingdom
+
+Tel: +44 (0)20 7936 6400  
+[info@newstatesman.co.uk](mailto:info@newstatesman.co.uk?subject=Privacy%20policy)
+
+This document was last updated on May 27, 2012
