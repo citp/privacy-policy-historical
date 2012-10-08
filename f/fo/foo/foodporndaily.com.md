@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodporndaily.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512093430id_/http%3A//foodporndaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodporndaily.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008020449id_/http%3A//foodporndaily.com/privacy) for the most accurate reproduction.*
 
-# Privacy « FoodPornDaily
+# Privacy « FoodPornDaily | Food Porn, Food Photography
 
   
 This is the web site of Amanda Simpson.
