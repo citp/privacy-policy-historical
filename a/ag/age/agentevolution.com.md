@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agentevolution.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618124706id_/http%3A//www.agentevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agentevolution.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008044031id_/http%3A//www.agentevolution.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Agent Evolution
 
 **Your privacy is critically important to us. At Agent Evolution we have a few fundamental principles:**
 
@@ -13,7 +13,7 @@
 
 
 
-Agent Evolution LLC. (“ **Agent Evolution** ”) operates several websites including [ **agentevolution.com**](http://www.automattic.com/),  and [ **mytechopinion.com**](http://www.akismet.com/). It is Agent Evolution’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Agent Evolution LLC. (“ **Agent Evolution** ”) operates several websites including [ **agentevolution.com**](http://www.agentevolution.com/),  and [ **mytechopinion.com**](http://www.mytechopinion.com/). It is Agent Evolution’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 **Website Visitors**
 
@@ -23,7 +23,7 @@ Agent Evolution also collects potentially personally-identifying information lik
 
 **Gathering of Personally-Identifying Information**
 
-Certain visitors to Agent Evolution’s websites choose to interact with Agent Evolution in ways that require Agent Evolution to gather personally-identifying information. The amount and type of information that Agent Evolution gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [ **agentevolution.com**](http://www.wordpress.com/) to provide a username and email address. Those who engage in transactions with Agent Evolution – by purchasing access to the Agent Evolution service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Agent Evolution collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Agent Evolution. Agent Evolution does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Agent Evolution’s websites choose to interact with Agent Evolution in ways that require Agent Evolution to gather personally-identifying information. The amount and type of information that Agent Evolution gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [ **agentevolution.com**](http://www.agentevolution.com/) to provide a username and email address. Those who engage in transactions with Agent Evolution – by purchasing access to the Agent Evolution service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Agent Evolution collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Agent Evolution. Agent Evolution does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **Protection of Certain Personally-Identifying Information**
 
