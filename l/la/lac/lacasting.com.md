@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacasting.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520055807id_/http%3A//cni2.lacasting.com/wsdl/webservice.svc/GetCurrentPolicy%3FsiteId%3DLA%26policyType%3DPrivacy%2520Policy%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacasting.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008033052id_/http%3A//cni2.lacasting.com/wsdl/webservice.svc/GetCurrentPolicy%3FsiteId%3DLA%26policyType%3DPrivacy%2520Policy%23privacypolicy) for the most accurate reproduction.*
 
 # 
 
