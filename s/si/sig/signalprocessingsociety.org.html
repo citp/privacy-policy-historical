@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the signalprocessingsociety.org privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629215321id_/http%3A//www.ieee.org/about/help/security_privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the signalprocessingsociety.org privacy policy that was archived on 2012-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121008095424id_/http%3A//www.ieee.org/about/help/security_privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us"><head><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
    var _U = "undefined";
@@ -156,9 +156,15 @@
   <div id="outer-container">
     <script id="ieee-meta-nav-include" language="JavaScript" type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/meta-nav/ieee-meta-nav-include.js"></script>
 <script>
-$(function() {
-	mn_initMetaNav();
-});
+      try
+       {
+             if(typeof mn_initMetaNav == 'function'){
+                   mn_initMetaNav();
+             }
+       }catch(e){
+             //do nothing
+       }  
+
 </script>
 
 <!--[if !IE]> BEGIN INNER CONTAINER <![endif]-->
@@ -1239,6 +1245,26 @@ _tag.dcsCollect();
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcsffy6hd1000008apcpjx4aq_6c1z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;DCS.dcscfg=1&amp;WT.tv=9.4.0&amp;dcssip=ucmweb.ieee.org"/></div>
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->
+
+<!-- This is to overwrite the trackEvent method bcos the clash between meta-nav -->
+<script type="text/javascript">
+	function trackEvent(si_n, si_p){
+		if(typeof dcsMultiTrack == "function"){
+			if(typeof si_p !== 'undefined' ) {
+				if(si_p.indexOf('ORDERCONFIRMATION') != -1){
+					dcsMultiTrack('WT.si_n',si_n,'WT.si_p',si_p,'WT.si_cs','1');//for conversion pages.
+				}
+				else {
+					dcsMultiTrack('WT.si_n',si_n,'WT.si_p',si_p);//WT_si_n
+				}
+			} else {
+				dcsMultiTrack('WT.mc_id', si_n);
+			}
+	
+			setTimeout('donothing()', 250);
+ 		}
+	}
+</script>
 
 
 
