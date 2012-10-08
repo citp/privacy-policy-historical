@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602084758id_/http%3A//www.zyoin.com/web/guest/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008181421id_/http%3A//www.zyoin.com/web/guest/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - zyoin.com
 
