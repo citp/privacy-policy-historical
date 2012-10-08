@@ -1,63 +1,74 @@
-> *The following text is extracted and transformed from the cheapstingybargains.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202011709id_/http%3A//cheapstingybargains.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapstingybargains.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008115910id_/http%3A//www.deals2buy.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Deals2Buy - Privacy Policy
 
-**Privacy Statement**
+Deals2buy.com takes your privacy very seriously. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. By visiting Deals2Buy.com, you are accepting the practices described in this Privacy Notice. 
 
-www.CheapStingyBargains.com (CSB) takes privacy seriously. You can browse the entire CSB Website without giving any of your personal information, including your email address. This privacy statement applies to those instances when you do provide personal information.� 
+For some services, we direct you to other stores through links on our site who may collect and use your personal information. In those cases the third-party service provider or store's privacy policy will govern how your information is handled. We encourage you to ask questions and to be very cautious before you disclose your personal information to others. 
 
-We will always disclose the CSB practices of gathering and disseminating personal information. 
+This Privacy Policy will explain the following regarding use of our site:
 
-**Collection and Use of Information**
-
-Personal information such as your name, email address and other details you choose to disclose, are collected when you submit a request for information, a comment, register to receive the newsletter, register for our forums or when you submit personal details for any other reason, e.g. information left within a comment or forum post, etc. Personal information is not collected without your consent. 
-
-When you browse the CSB Website, your IP address (the Internet address of your computer) may also be tracked to give us an idea of which part of the CSB Website you visit and how much time you spend there. Your IP address is never linked to any other personal information that you send to us. Like many other websites, we may use a "cookie" to collect information about how you use the CSB Website. 
-
-Except for the use of cookies, which is a code embedded in your browser to track referrals, we do not keep track of or collect personal data apart from information you specifically provide to us.
-
-We use the information you provide for various purposes, such as requests for information made by you and providing you with the CSB newsletter. The CSB Website provides all users with the opportunity to opt-out of receiving the CSB Deal Alert (our electronic newsletter), or any other communication we send you. At the bottom of every newsletter there is a link to unsubscribe from the CSB Deal Alert newsletter.
-
-All reasonable care is taken to prevent unauthorized access to your personal information, and personal information is never sold or transferred to any third parties for their promotional use. CSB does not share, sell, rent or trade any personal information collected with third parties for promotional purposes. 
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process served on our Web site. 
-
-**Security**
-
-While we take every measure to protect the loss, misuse and alteration of personal information provided to us, the nature of the Internet means that any personal information publicly posted on the CSB Website is accessible by any person who visits the site.
-
-Subsequently, you should be aware that when you disclose personal information on the CSB Website it may be collected by other visitors and result in unsolicited email(s). We are not responsible for the personally identifiable information you choose to submit in any comment or in the CSB forum, which is hosted on VBulletin, a third party software application.
-
-**Service Providers**
-
-We use a third party to provide the newsletter to those individuals who have signed up to receive it. Keep in mind that when you�re signing up for the newsletter your personal information is being collected by a third party service provider and is subject to the privacy policy of the third party collecting the information. CSB maintains a co-branded relationship with Constant Contact, our email newsletter provider. Personal information is shared between both parties for the sole purpose of sending newsletters to users who have desired to receive them. 
-
-When you sign up for the CSB newsletter, we will use your email address only as necessary for the third party to complete the action of sending the newsletter. This third party is prohibited from using your personally identifiable information for any other purpose and CSB retains ownership of any personal information provided to send the newsletter. 
-
-**Changes to Your Personal Information**
-
-At any time, you may change or modify personal information previously provided by you by sending a request to modify information to [cheapstingybargains@gmail.com](mailto:csbaff@yahoo.com). We will make every reasonable effort to update your personal information as requested, provided it does not compromise our security.
-
-**Changes to this Policy**
-
-This policy may periodically change. Any material changes to this policy will be posted on this page and a prominent notice that a policy change has been made will be placed on the CSB home page.
-
-The CSB website contains links to other sites. We are not responsible for the privacy practices or the content of such Websites.
-
-CSB Media is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site www.cheapstingybargains.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact us at [cheapstingybargains@gmail.com](mailto:csbaff@yahoo.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-If you have any questions regarding this privacy statement, or regarding the CSB Website in general, you may contact us at any time.
-
-_Cheap Stingy Bargains_
-
-[cheapstingybargains@gmail.com](mailto:cheapstingybargains@gmail.com)
-
-2711 Centerville Rd., Suite 120   
+  * What information does Deals2Buy.com collect from you?
+  * What is your cookie policy?
+  * Does Deals2buy.com Share the Information It Receives?
+  * How does Deals2buy.com uses the information that we collect?
+  * What About Third-Party Advertisers and Links to Other Websites?
+  * Are Children Allowed to Use Deals2buy.com?
+  * What are your choices regarding collection, use, and distribution of your information?
+  * CHOICE/OPT-OUT
+  * Contacting Deals2Buy.com about privacy questions or concerns
+  * Privacy Policy changes
 
 
-PMB #5956   
 
+##  What information does Deals2Buy.com collect from you?
 
-Wilmington, DE 19808
+###  Personal Information
 
-Effective March 4, 2009
+We receive and store any information you enter on our Subscribe page. We only store information that you enter in the subscription page and no other page.
+
+###  Non-Personal Information
+
+Automatic Transactional Information. Certain Non-personal Information may be collected automatically as part of your use of this Site, as well as from your transactions with us and our affiliates or nonaffiliated third parties. This Non-personal Information is used to improve the overall Site operations, functionality and appearance. Non-personal Information may include your IP address, web browser type, domain name and the time or date upon which you visited the Site.
+
+##  What is your cookie policy?
+
+We do not set any cookie in your machine. However we provide links to other third part websites. The third party website may set cookies and it is governed by their privacy policy.
+
+##  Does Deals2buy.com Share the Information It Receives?
+
+We do not share your information to any third party. All information that we collect are kept securely and confidentially with us. They are used as per policy mentioned in this statement.
+
+##  How does Deals2buy.com uses the information that we collect?
+
+Personal Information is used by Deals2buy.com for the purpose for which it was submitted. For example, if you submit your email address and other information required to subscribe to our newsletter, we will use that Personal Information to send you our newsletter. Please see below for your Choice/Opt Out options. If you to use our "Tell A Friend" referral service to inform a friend about our Site or a deal, we will use your email to inform your friend. We will send the friend a one-time email inviting them to visit the Site, all email addresses entered in "Tell A Friend" are not stored.
+
+##  What security precautions are in place to protect against the loss, misuse, or alteration of your information?
+
+Deals2buy.com makes every reasonable effort to preserve user privacy. However we reserve the right to disclose Personal Information when required or permitted by law and we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on us.
+
+##  What About Third-Party Advertisers and Links to Other Websites?
+
+Linking. This Statement applies only to http://www.deals2buy.com. Please be aware that our site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linking from or to our site are not covered by this Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies or ad servers, which place advertising on our site may collect information about you through the use of cookies when you view or click on their advertising. We cannot control this collection of information. You should contact advertisers directly if you have any questions about their use of the information that they collect.
+
+Co-Branding. We also have co-branding relationships with other organizations. Our price comparison function is run by PriceGrabber. Although these areas of the Site may have the same (or a similar) look and feel as our Site and therefore may appear to be part of our Site, PriceGrabber has its own privacy policy. We encourage you to familiarize yourself with their policies prior to using these services.
+
+##  Are Children Allowed to Use Deals2buy.com?
+
+You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please Contact Us so that we may delete the child's information.
+
+##  CHOICE/OPT-OUT
+
+Our Site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request Information from you. Visitors may Un-Subscribe from Deal Alert/News Letter Mailing list by visiting us at [subscribe](https://web.archive.org/subscribe).
+
+##  Contacting Deals2Buy.com about privacy questions or concerns
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact Deals2Buy.com through our contact page.
+
+##  Privacy Policy changes
+
+If Deals2Buy.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
+
+##  Need more Help?
+
+You can find the answers to most questions in the Deals2Buy.com FAQ page , or Contact Us.
