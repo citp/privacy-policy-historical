@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerzbank.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322122022id_/https%3A//www.commerzbank.com/en/metanavigation/datenschutz/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerzbank.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009111437id_/https%3A//www.commerzbank.com/en/metanavigation/datenschutz/datenschutz.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,7 +20,7 @@ Occasionally, visits to our internet site will lead to cookies being copied onto
 
 
 
-On this website data are collected and stored through web-controlling technologies in an anonymous form and solely for the purpose of optimization measures. User profiles are created under a pseudonym from this data. Cookies may also be used for this purpose which collect and store data solely in a pseudonym form. The data are not utilised to personally identify the visitor of this website and will not be collated with data via the bearer of the pseudonym. No personal data are stored. Further to the law this also includes the so called IP-address of the user. The IP-address will be made unrecognizeable and will not enable any inferences to be made about the visitor of the web site. This procedure was approved by the data protection officer of Hamburg further to §38 section 1 of the Federal Data Protection Law.  
+On this website data are collected and stored through web-controlling technologies in an anonymous form and solely for the purpose of optimization measures. User profiles are created under a pseudonym from this data. Cookies may also be used for this purpose which collect and store data solely in a pseudonym form. The data are not utilised to personally identify the visitor of this website and will not be collated with data via the bearer of the pseudonym. No personal data are stored. Further to the law this also includes the so called IP-address of the user. The IP-address will be made unrecognizable and will not enable any inferences to be made about the visitor of the web site. This procedure was approved by the data protection officer of Hamburg further to §38 section 1 of the Federal Data Protection Law.  
 
 
 **
