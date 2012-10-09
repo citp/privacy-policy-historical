@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the creditorwatch.com.au privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103102705id_/https%3A//creditorwatch.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditorwatch.com.au privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009095039id_/https%3A//creditorwatch.com.au/page/privacy) for the most accurate reproduction.*
 
-# Creditor Watch Privacy Policy | Creditor Watch | Credit Watch | Minimise risk and protect your bottom line | Australia's online debt registry | Credit Review Tool |Exposing Bad Debtors | CreditorWatch | CreditWatch | Credit report | Credit repair | Bad credit
-
-  * [](https://web.archive.org/signup)
-
-
-  * [Video Tour](https://web.archive.org/page/howitworks)
-  * [Benefits](https://web.archive.org/page/Benefits)
-  * [Pricing](https://web.archive.org/signup)
-  * [Login](https://web.archive.org/login)
-
-
+# Creditor Watch Privacy Policy | Creditor Watch | Credit Watch | Minimise risk and protect your bottom line | Australia's online debt registry | Credit Review Tool | Exposing Bad Debtors | CreditorWatch | CreditWatch | Credit report | Credit repair | Bad credit
 
 ## Privacy policy statement
 
