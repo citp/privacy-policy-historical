@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503165121id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009085542id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy (Victoria Online)
+# Privacy | Victorian Government
 
 ## Application of this Privacy Statement
 
@@ -31,7 +31,7 @@ Melbourne Vic 3001
 The Privacy Officer for the Department of Business and Innovation may also be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement:
 
 by email at:
-    [privacy@diird.vic.gov.au](mailto:privacy@diird.vic.gov.au)
+    [privacy@dbi.vic.gov.au](mailto:privacy@dbi.vic.gov.au)
 by telephone on:
     03 9651 9749 (between 9.00 am and 5.00 pm on weekdays except public holidays in Melbourne) 
 by post at:
@@ -88,14 +88,6 @@ Victoria Online currently uses two web measurement service providers. They are G
 
 [Google Analytics](http://www.google.com/analytics/) uses a first-party cookie and JavaScript code to collect information about visitors to Victoria Online. Google Analytics anonymously tracks how our visitors interact with this website, including where they came from, what they did on the site, and whether they completed any transactions on the site such as newsletter registration.
 
-### Omniture SiteCatalyst - Use of Cookies
-
-[Omniture SiteCatalyst](http://www.omniture.com/en/) uses first party cookies both to differentiate requests from different web browsers and to store helpful information that can be used by the application at a later time. In particular SiteCatalyst uses cookies to anonymously define new visitors, help analyze clickstream data within the website, and track historical activity on the web site for responses to particular campaigns such as the site's RSS news feed usage.
-
-SiteCatalyst cookies contain no personally identifiable information. All cookie data is completely anonymous and is used to distinguish one web browser from another.
-
-The SiteCatalyst cookies belong to the Victoria Online web site.
-
 ## Data Collection
 
 While the anonymous statistical data Victoria Online collects may be aggregated and used in broader statistical analysis by the State of Victoria, at no time can we personally identify you as the source of that data.
@@ -104,4 +96,4 @@ While the anonymous statistical data Victoria Online collects may be aggregated 
 
 The Contacts & Services Directory aims to assist citizens to find relevant services, websites or contacts within the Victorian Government.
 
-To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Contacts & Services directory website there is a link to a feedback form for the general public to alert Victoria Online to errors or omissions in data for resolution or referral. The Information Victoria Call Centre phone number is displayed to allow for verbal feedback.
+To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Contacts & Services directory website there is a link to a feedback form for the general public to alert Victoria Online to errors or omissions in data for resolution or referral. The Victorian Government Contact Centre phone number is displayed to allow for verbal feedback.
