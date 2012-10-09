@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trolism.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610183839id_/http%3A//www.trolism.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolism.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009074625id_/http%3A//www.trolism.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Trolism
+# Privacy Policy - Funny Pictures | Comics | Celebs | Chicks | Troll | Texting Fail | Animals | Quotes
 
-## Privacy Policy for Trolism
+## Privacy Policy for Funny Pictures | Comics | Celebs | Chicks | Troll | Texting Fail | Animals | Quotes
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at damnlol.com{at}gmail.com
 
