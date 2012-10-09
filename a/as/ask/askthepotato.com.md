@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askthepotato.com privacy policy that was archived on 2012-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120216201423id_/http%3A//askthepotato.com%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askthepotato.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009061020id_/http%3A//askthepotato.com%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # AskThePotato: Save money by shopping online for Travel Deals, Computers, Music, Fashion and more
 
