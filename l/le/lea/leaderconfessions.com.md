@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaderconfessions.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524054523id_/http%3A//leaderconfessions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaderconfessions.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010011140id_/http%3A//leaderconfessions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
