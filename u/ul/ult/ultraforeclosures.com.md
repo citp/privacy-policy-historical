@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultraforeclosures.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611040740id_/http%3A//www.ultraforeclosures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraforeclosures.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009080520id_/http%3A//www.ultraforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Ultraforeclosures.com
+# Ultra Foreclosure: Contact Us to find out more about Foreclosure Listings in your area
 
 ###### **We respect and protect your privacy**
 
@@ -11,7 +11,9 @@ This Privacy Policy explains our policy regarding the collection, use and disclo
 **Collection and Use of Information**   
 Personal information means information that can be used to identify and contact you, specifically your name, e-mail address, payment method, telephone number, postal delivery address, profession, company name, company website address, business telephone number, personal photo, as well as other information when such information is combined with your personal information. We may use, sell or distribute certain individual personal information to other companies, including related interests or vendors so as to provide you with important offers.
 
-When you register for any of our services, we ask you to provide us with personal information so that we can provide and personalize our services and marketing efforts. We use this personal information to process your registration and payments, create your profile and to communicate with you regarding our service. Because email is an integral part of our services, your signup ensures that you'll receive information relative to your interests at the time of your enrollment, from both UltraForeclosures.com and its partners. If you later wish to cease participation in this portion of our services, you may do so at any time by clicking the unsubscribe link to be found in all of our marketing emails, or you can submit your unsubscribe request at [http://www.ULTRAforeclosures.com/unsubscribe.html](http://www.ultraforeclosures.com/unsubscribe.html).
+When you register for any of our services, we ask you to provide us with personal information so that we can provide and personalize our services and marketing efforts. We use this personal information to process your registration and payments, create your profile and to communicate with you regarding our service. Because email is an integral part of our services, your signup ensures that you'll receive information relative to your interests at the time of your enrollment, from both UltraForeclosures.com and its partners. If you later wish to cease participation in this portion of our services, you may do so at any time by clicking the unsubscribe link to be found in all of our marketing emails, or you can submit your unsubscribe request at <http://www.ultraforeclosures.com/unsubscribe.html>.
+
+When you join the UltraForeclosures.com Professional Network, your profile information, including your name, professional information, photo, and any other information that you share will be visible to any person who has access to the Network. All such sharing of information is done at your own risk. Please be aware that we may amend this policy at our sole discretion. You can check back to view changes at anytime by visiting the site www. UltraForeclosures.com and clicking on the privacy link at the bottom of the page.
 
 Please note that opting not to receive email does not exempt you from receiving administrative emails, which include but are not limited to, notices about membership status changes and alterations to our Terms of Use.
 
@@ -38,6 +40,10 @@ We use other companies, agents or contractors to perform services on our behalf.
 Except as otherwise provided herein, the information we collect from you is shared with our marketing partners. If you elect to check the box stating “I'd also like to receive offers from ultraforeclosure-news.com” you agree to allow us to send your information to All Inbox, LLC only. We also reserve the right to share any other additional information you provide us to our other third party marketing partners. UltraForeclosures.com may sell or rent aggregated statistical information and user specific information to our marketing partners or other third-parties.
 
 UltraForeclosures.com also reserves the right to disclose personal information when we reasonably believe disclosure is required by law or if we reasonably believe disclosure is necessary to establish or exercise legal rights. In the event that UltraForeclosures.com is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
+
+**Special Notification for California Residents:**  
+Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address: CA Privacy, 638 Lindero Canyon Rd. Ste 382 Oak Park, CA 91377.  
+This request may be made no more than once per calendar year. 
 
 **Contact**   
 If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please contact us. Our address is 638 Lindero Canyon Rd. Ste 382, Oak Park, CA 91377.
