@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgetechcorp.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510134555id_/http%3A//www.edgetechcorp.com/help/%3Fp%3Dpriva-pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgetechcorp.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009123500id_/http%3A//www.edgetechcorp.com/help/%3Fp%3Dpriva-pol) for the most accurate reproduction.*
 
 # Help - Edge Tech Corp
 
