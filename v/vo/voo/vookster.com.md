@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vookster.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621200909id_/http%3A//www.vookster.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vookster.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009184710id_/http%3A//www.vookster.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » A.P First Telugu Friends Finder Network - Log In, Sign Up or Learn More
+# Privacy Policy » Telugu Friends Network - Log In, Sign Up or Learn More
 
 **Data Use Policy**  
 Date of Last Revision: September 23, 2011
