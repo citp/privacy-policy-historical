@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cencelx.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610063800id_/http%3A//www.cencelx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cencelx.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010001756id_/http%3A//www.cencelx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Posted on September 4, 2008 at 2:57 pm 
 
 **Privacy Policy for cencelx.com**
 
@@ -35,5 +33,3 @@ Spam in any form will not be accepted.
 **Copyrights**
 
 Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please [contact m](http://www.cencelx.com/contact-me/)e immediately.
-
-» Filed Under | [Leave a Comment](http://www.cencelx.com/privacy-policy/#respond "Comment on Privacy Policy")
