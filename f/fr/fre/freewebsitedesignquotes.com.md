@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebsitedesignquotes.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604014520id_/http%3A//www.freewebsitedesignquotes.com/web-design/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsitedesignquotes.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009235204id_/http%3A//www.freewebsitedesignquotes.com/web-design/home/privacy) for the most accurate reproduction.*
 
 # Website design services. Risk free quote. No Obligations!
 
