@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerktastic.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504064141id_/http%3A//www.jerktastic.com/%3Fctr%3Dcustom%26act%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerktastic.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010195213id_/http%3A//www.jerktastic.com/%3Fctr%3Dcustom%26act%3Dprivacy) for the most accurate reproduction.*
 
 # Jerktastic - Jerktastic
 
