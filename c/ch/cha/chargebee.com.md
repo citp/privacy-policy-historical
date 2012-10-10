@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222245id_/http%3A//chargebee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010070915id_/http%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
 
-# ChargeBee - Subscription billing. Simple, secure & affordable | Recurring Billing
+# ChargeBee Privacy policy - Affordable Subscription billing for small and emerging businesses.
 
 ## What information do we collect?
 
@@ -34,7 +34,7 @@ After a transaction, your private information (credit cards, financials, etc.) w
 
 ## Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 ## Do we disclose any information to outside parties? 
 
@@ -56,17 +56,17 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.chargebee.com 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.chargebee.com 
 
 ## Your Consent
 
-By using our site, you consent to our online [privacy policy](https://web.archive.org/web/20120503222245id_/http%3A//chargebee.com/privacy.html). 
+By using our site, you consent to our online [privacy policy](https://web.archive.org/web/20121010070915id_/http%3A//www.chargebee.com/privacy.html). 
 
 ## Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 31-Mar-2012.
+This policy was last modified on 14-Jun-2012 to correct a typo.
 
 ## Contacting Us
 
