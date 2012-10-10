@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usdirect.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507135241id_/http%3A//www.usdirect.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdirect.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010160829id_/http%3A//www.usdirect.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ All of your Customer Information is used in an effort to process your orders and
 
 ### Opt-out Procedures
 
-To opt out from receiving further communications from us regarding other offers and promotions, or to opt out from having your information shared with any Third Party Advertisers, you may email us at [privacy@clear-link.com](https://web.archive.org/web/20120507135241id_/http%3A//www.usdirect.com/privacy@clear-link.com) or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at <http://clear-link.com/unsubscribe>. 
+To opt out from receiving further communications from us regarding other offers and promotions, or to opt out from having your information shared with any Third Party Advertisers, you may email us at [privacy@clear-link.com](https://web.archive.org/web/20121010160829id_/http%3A//www.usdirect.com/privacy@clear-link.com) or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at <http://clear-link.com/unsubscribe>. 
 
 ### Telemarketing
 
@@ -48,7 +48,7 @@ We will update this Privacy Policy from time to time to reflect changes in our b
 
 ### Access to information
 
-Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at [privacy@clear-link.com](https://web.archive.org/web/20120507135241id_/http%3A//www.usdirect.com/privacy@clear-link.com) or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clear Link Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
+Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at [privacy@clear-link.com](https://web.archive.org/web/20121010160829id_/http%3A//www.usdirect.com/privacy@clear-link.com) or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clear Link Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
 
 ### If You Are a Resident of California
 
@@ -60,5 +60,7 @@ If you are a California resident, in addition to the rights set forth above, you
   4. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@clear-link.com.
 
 
+
+In the event that a customer desires to request a refund or address fulfillment issues regarding the DirecTV service, all such requests shall be directed to DirecTV.
 
 The Effective Date hereto shall be June 01, 2009
