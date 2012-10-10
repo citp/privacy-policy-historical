@@ -1,149 +1,129 @@
-> *The following text is extracted and transformed from the buyads.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyads.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010161916id_/https%3A//www.buyads.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# BuyAds.com
 
-#### Find Answers To Your Questions:
+##  Privacy Policy 
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+BuyAds values your privacy. We make every reasonable effort to protect and respect your personal and sensitive information. 
 
-### Privacy Policy
+This document will describe how we handle your personal information on the BuyAds website. This Privacy Policy applies to BuyAds.com and other related websites where this policy appears in the footer of the page. 
 
-**Why A Privacy Policy?**  
+By agreeing to the Terms of Service and using this site, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on May 14, 2008. 
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+## Information Collected
 
- **This Privacy Policy protects your privacy by:**
+You can enter BuyAds and browse sockets and our sites without giving out personal information. We collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website. 
 
- **Informing you about:**
+If you sign up for an account, we ask you to input the following information: 
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+  * first and last name 
+  * email address 
+  * physical contact information 
+  * password 
 
 
 
-**Empowering you to choose:**
+When you sign up for additional services or Buy/Sell advertising opportunities on BuyAds.com we ask you to provide the following information 
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+  * financial information, such as credit card or bank account numbers; 
+  * transactional information based on your activities on the sites (such as bidding, buying, selling, item and content you generate or that relates to your account); 
+  * shipping, billing and other information you provide to purchase or ship materials; 
+  * community discussions, chats, dispute resolution, correspondence through our sites, and correspondence sent to us; 
+  * other information from your interaction with our sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information; 
+  * information from other companies, such as demographic and traffic data; and 
+  * other supplemental information from third parties (if you incur a debt to BuyAds or need to verify your information, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law; or if the information you provide cannot be verified, we may ask you to send us additional information, such as your driver license, credit card statement, or a recent utility bill or other information confirming your address, or to answer additional questions online to help verify your information). 
 
 
 
-**Assuring you that Network Solutions:**
+## Additional Verification
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+There are times when the BuyAds team needs to verify your identity for your safety and the safety of other users. We may ask you to provide additional information we can use to verify your identity, address, organization, billing or invoicing information and managed risk. The following information may be asked of you to provide: 
 
+  * date of birth 
+  * social security number 
+  * EIN number 
 
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
 
-  
-**Third Party Advertising and Cookies**
+We may also obtain information about you from third parties such as credit bureaus and identity verification services. 
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+When you are using our Service, we collect information about your account transactions and we may collect information about your computer or other access device for fraud prevention purposes. 
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+## Use of Cookies
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+When you access BuyAds.com, we, or third party companies we use to better understand how our website is used, may send one or more cookies to your computer that uniquely identifies your browser. 
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+We use these cookies sent to browser to recognize you and if you visit multiple pages on our site during the same session we dont need keep asking you for your password on every page. Once you log out or close your browser, this cookie will expire and will no longer interact with BuyAds.com. 
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+We can also use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't need to retype the e-mail address each time you log in to your account. 
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+Cookies are optional and most browsers allow you to block cookies from certain sites. However, by blocking cookies from BuyAds.com, certain features and functions will not be able to be used. 
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+## Protect and Store Information
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+At BuyAds, your security is a primary concern. We use the lasted and most secure measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
 
- **Getting to Know Our Customers**
+All personal information is stored on our computers in the US, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. 
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+We also use SSL encrypted transmissions between your Web browser and our Web server for personal and financial information. This is designed to reduce the chance that someone on your network at work or at your Internet service provider may try to compromise your private information as it travels from your Web browser to our secure server. When transmitted data is encrypted you will see a security notice when you enter an encrypted page, and by the presence of an icon on your browser, either a key for Netscape or a lock for Microsoft Internet Explorer. The pages where you submit your account information, place a bid, and receive confirmation of a successful bid are all encrypted. In addition, your credit card information is encrypted within our database and access to such information is restricted. 
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+## Use of Information
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to: 
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+  * process transactions and send notices about your transactions 
+  * resolve disputes, collect fees, and troubleshoot problems; 
+  * prevent potentially prohibited or illegal activities, and enforce our User Agreement; 
+  * customize, measure, and improve our services and the content and layout of our website; 
+  * send you targeted marketing, service update notices, and promotional offers based on your communication preferences; 
+  * compare information for accuracy and verify it with third parties. 
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+If BuyAds becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+## Sharing Information
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+To purchase or sell advertising opportunities, we need to share some of your personal information with the person or company that you are involved in a transaction with. Your contact information, date of sign-up, the number of transactions you have completed, and other information may be viewed by other users. 
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+We will never disclose your credit card number or bank account number to anyone you have entered in a transaction with, except with your express permission or if we are required to do so to comply with a subpoena or other legal process. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+We may share your personal information with: 
 
-b. Click “Edit User Info” in the left menu;
+  * Other companies to help detect and prevent potentially illegal acts, provide joint services and for other business purposes. However, these corporate affiliates will not use this information to market their services to you unless you have approved it. 
+  * Service providers under contract who help with parts of our business operations; (fraud prevention, bill collection, marketing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit. 
+  * Financial institutions that we partner with to process payments and provide other services to you. 
+  * Credit bureaus to report outstanding negative balance accounts, as allowed by law. 
+  * Companies that we plan to merge with or to be acquired by. 
+  * Law enforcement, government officials, or other third parties when 
+    * we are compelled to do so by a subpoena, court order or similar legal procedure 
+    * we need to do so to comply with law 
+    * we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement. 
+  * Other third parties with your consent or direction to do so. 
 
-c. Scroll to the bottom of the page;
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
 
-e. Click “SAVE.”
+BuyAds will not sell or rent any of your personal information to third parties in the normal course of doing business and only shares your personal information with third parties as described in this policy. 
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+## Settings
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+You can at any time control how we use your contact information to market our services to you in the notifications preferences under 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+## My Account
 
-b. Click “Edit User Info” in the left menu;
+You can review your personal information and make any necessary changes, at any time by logging in to your account and changing your preferences in the Profile page of the 
 
-c. Scroll to the bottom of the page;
+## Contact
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+If you have questions or concerns regarding this policy, you can contact us by email: [support@BuyAds.com](mailto:support@BuyAds.com)
 
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+Or write to us at: 
+    
+    
+      BuyAds  C/O Privacy
+      270 East Ln.
+      Suite #1
+      Burlingame, CA 94010
+    
