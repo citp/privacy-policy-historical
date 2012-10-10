@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504082059id_/http%3A//www.arcadelots.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010080641id_/http%3A//www.arcadelots.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Car Racing Games | Car Games | Racing Games
+# Privacy Policy - Arcadelots
+
+[ ](http://www.car-racing-games.org/)
+
+[ ](http://www.racing-games.org/)
 
 Privacy Policy  
 
@@ -48,7 +52,7 @@ We believe that parents should supervise their children's online activities and 
 
 We have security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. 
 
-We may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by our Terms of Use. You should take care to not use personal information in your screen name or other information that might be publicly available to other users. 
+We may offer chat, user reviews, multi-player games[Adventure Games](http://www.adventuregame.cc/), bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by our Terms of Use. You should take care to not use personal information in your screen name or other information that might be publicly available to other users. 
 
 If a user elects to use our site for informing a friend about our site or particular features or content, we ask them for the friend's name and e-mail address. We will automatically send the friend a one-time e-mail inviting them to visit our site. We store this information for the sole purpose of sending this one-time e-mail. 
 
