@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619071756id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010072347id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
 
 # eFunda Privacy Notice
 
-|   
+| • [Materials](https://web.archive.org/web/20121010072347id_/http%3A//www.efunda.com/materials/materials_home/materials.cfm)  
+---  
+• [Design Center](https://web.archive.org/web/20121010072347id_/http%3A//www.efunda.com/designstandards/design_home.cfm)  
+• [Processes](https://web.archive.org/web/20121010072347id_/http%3A//www.efunda.com/processes/processes_home/process.cfm)  
+• [Units & Constants](https://web.archive.org/web/20121010072347id_/http%3A//www.efunda.com/units/index.cfm)  
+• [Formulas](https://web.archive.org/web/20121010072347id_/http%3A//www.efunda.com/formulae/formula_index.cfm)  
+• [Mathematics](https://web.archive.org/web/20121010072347id_/http%3A//www.efunda.com/math/math_home/math.cfm)  
+  
 ---  
 | [**Login**](http://www.efunda.com/members/login/login.cfm?direct=y)  
   
@@ -47,8 +54,4 @@ In particular:
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-  
----  
-[**Home**](http://www.efunda.com/home.cfm)  [Membership](http://www.efunda.com/whyjoin.cfm)  [About Us](http://www.efunda.com/about/about.cfm)  [Privacy](http://www.efunda.com/members/privacy.cfm)  [Disclaimer](http://www.efunda.com/disclaimer.cfm)  [Contact](http://www.efunda.com/about/contact.cfm)  [Advertise](http://dhmedia.com/media-sales/efunda.html)   
-  
-Copyright © 2012 eFunda, Inc.
+
