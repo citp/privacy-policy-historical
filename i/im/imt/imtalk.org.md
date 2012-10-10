@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imtalk.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612180803id_/http%3A//www.imtalk.org/cmps_index.php%3Fpageid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtalk.org privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010071207id_/http%3A//www.imtalk.org/cmps_index.php%3Fpageid%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Internet Marketing & SEO Forum - Privacy Policy
+# IMTalk.org - Privacy Policy
 
 IMTalk.org Privacy Policy
 
@@ -88,6 +88,3 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page. 
 
 This policy was last modified on 2010/12/10
-
-  
-
