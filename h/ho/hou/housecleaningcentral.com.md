@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housecleaningcentral.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505051029id_/http%3A//www.housecleaningcentral.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housecleaningcentral.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010125353id_/http%3A//www.housecleaningcentral.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
 # Mrs Clean Privacy Policy | Mrs Clean
 
