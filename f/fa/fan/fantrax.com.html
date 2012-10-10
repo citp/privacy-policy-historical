@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the fantrax.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603065233id_/http%3A//www4.fantrax.com/showPage.go%3Fpage%3DprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fantrax.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010073813id_/http%3A//www7.fantrax.com/showPage.go%3Fpage%3DprivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="htMain"><head>
 
 		<link rel="shortcut icon" href="/fantrax2.ico" type="image/x-icon" title="Fantrax">
 	
-<link rel="stylesheet" type="text/css" href="/css/style.cass?id=w51g5uijh2td91op" title="Fantrax">
+<link rel="stylesheet" type="text/css" href="/css/style.cass?id=8rggipblh7u9o5g2" title="Fantrax">
 <style>
 .container {position:relative; width:1000px; padding:0px; background:url(http://img.fantrax.com/icons/bg2.jpg) no-repeat #5A83C0;}
 .globalContainerShade {width:1010px; background:url(http://img.fantrax.com/icons/bgShade.gif) repeat-y; padding:0px;}
@@ -18,7 +18,7 @@
 ul.menuCount0 {height:100%; background:url(http://img.fantrax.com/icons/globalRightNavBG.gif) repeat-x #5A83C0 left top; margin:0px; padding:0px 0px 0px 0px; border-bottom:1px solid #74A2D3;}
 ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px solid #02103A; background:url(http://img.fantrax.com/icons/globalRightFlyoutBG.gif) repeat-x #11305E left top !important;}
 </style>
-<link rel="stylesheet" href="/css/print.css" media="print" title="Fantrax - Print">
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script>
 	if (!window.console){window.console = {log:function(){}};}
 </script>
@@ -28,7 +28,7 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
       sgi_tile=1;
     </script>
     
-    <script type="text/javascript" src="/js/trax.jas?id=1scc1pwqh10bz5se"></script>
+    <script type="text/javascript" src="/js/trax.jas?id=3hahi4qxh7p9n72x"></script>
   
 
 <title>
@@ -213,6 +213,9 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 		var msg = ex['message'];
 		if (msgType == 'REFRESH_PAGE')
 		{
+			if (isNull(msg))
+				msg = 'Sorry, we were not able to process that request, likely because the page you are viewing is outdated. This may be corrected by refreshing this page. Please click <b>OK</b> to refresh the page now so you can try again, or <b>Cancel</b> to remain on the page, though your error will likely occur again. The page will automatically refresh in 20 seconds if you do not click anything.';
+
 			alertMe(msg, 'OK|Cancel', 'INFO', 'refreshPage()|cancelRefreshPage()');
 			allowRefreshPage = true;
 			setTimeout('refreshPageIfAllowed()', 20000);
@@ -458,6 +461,8 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 				
 						<li><p><a href="/allForums.go"><b>Forums</b></a></p></li>
 					
+				<li><p><a href="/showPage.go?page=podcasts"><b>Podcasts</b></a></p></li>
+				
 				<li><p><a href="/showPage.go?page=newFeatures"><b style="color:#AA2222 !important;">New Features</b></a></p></li>
 				
 			</ul>
@@ -484,6 +489,31 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 	<div class="topnavBlock" id="topnavBlock">
 	  
 
+<script>
+function __showBigSub(subName) 
+{
+	var theH, theW;
+	//alert("here");
+	//var theClass = "on";
+	changeClass("sub"+subName,'');
+	//theH = getHeight("sub"+subName);
+	//theW = getWidth("sub"+subName);
+	//changeClass("top"+subName,theClass);
+	setHeight("iframe"+subName,theH-2);
+	setWidth("iframe"+subName,theW-2);
+	visibleMe("iframe"+subName);
+}
+
+function __hideBigSub(subName) 
+{
+	var theClass = "";
+	changeClass("top"+subName,theClass);
+	changeClass("sub"+subName,'subnav');
+	invisibleMe("iframe"+subName);
+}
+
+
+</script>
 <ul class="headerMenuInclude">
 				<li class="first mainSportLeague" id="topMyLeagues" onmouseover="showSub('MyLeagues', 'first mainon')" onmouseout="hideSub('MyLeagues');"><p class="mainSport "><a href="/fantasy/leagueHistory.go">MY LEAGUES</a></p>
 			    <iframe class="subnav" id="iframeMyLeagues" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
@@ -495,84 +525,206 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 				</li>
 				
 				
-				  <li class="" style="position:relative;" id="topMLB" onmouseover="showSub('MLB', 'mainon')" onmouseout="hideSub('MLB');"><p class="mainSport">
-				  <a href="/MLB/home.go">MLB</a></p>
-				    <iframe class="subnav" id="iframeMLB" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subMLB">
-				      <li><p><a href="/MLB/home.go" style="color:#FFFFFF">Home</a></p></li><li><p><a href="/MLB/scores.go" style="color:#FFFFFF">Scores</a></p></li><li><p><a href="/MLB/standings.go" style="color:#FFFFFF">Standings</a></p></li><li><p><a href="/MLB/statsPlayers.go" style="color:#FFFFFF">Stats</a></p></li><li><p><a href="/MLB/schedules.go" style="color:#FFFFFF">Schedules</a></p></li><li><p><a href="/MLB/teams.go" style="color:#FFFFFF">Teams</a></p></li><li><p><a href="/MLB/players.go" style="color:#FFFFFF">Players</a></p></li><li><p><a href="/MLB/injuries.go" style="color:#FFFFFF">Injuries</a></p></li><li><p><a href="/MLB/transactions.go" style="color:#FFFFFF">Transactions</a></p></li><li><p><a href="/columnsHome.go?sport=MLB" style="color:#FFFFFF">Fantasy Columns</a></p></li><li><p><a href="/MLB/viewAllGames.go" style="color:#FFDC28">Fantasy Games</a></p></li>
-				    </ul>
-				  </li>
-				
-				  <li class="" style="position:relative;" id="topNHL" onmouseover="showSub('NHL', 'mainon')" onmouseout="hideSub('NHL');"><p class="mainSport">
-				  <a href="/NHL/home.go">NHL</a></p>
-				    <iframe class="subnav" id="iframeNHL" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subNHL">
-				      <li><p><a href="/NHL/home.go" style="color:#FFFFFF">Home</a></p></li><li><p><a href="/NHL/scores.go" style="color:#FFFFFF">Scores</a></p></li><li><p><a href="/NHL/standings.go" style="color:#FFFFFF">Standings</a></p></li><li><p><a href="/NHL/statsPlayers.go" style="color:#FFFFFF">Stats</a></p></li><li><p><a href="/NHL/schedules.go" style="color:#FFFFFF">Schedules</a></p></li><li><p><a href="/NHL/teams.go" style="color:#FFFFFF">Teams</a></p></li><li><p><a href="/NHL/players.go" style="color:#FFFFFF">Players</a></p></li><li><p><a href="/NHL/injuries.go" style="color:#FFFFFF">Injuries</a></p></li><li><p><a href="/NHL/transactions.go" style="color:#FFFFFF">Transactions</a></p></li><li><p><a href="/columnsHome.go?sport=NHL" style="color:#FFFFFF">Fantasy Columns</a></p></li><li><p><a href="/NHL/viewAllGames.go" style="color:#FFDC28">Fantasy Games</a></p></li>
-				    </ul>
-				  </li>
-				
-				  <li class="" style="position:relative;" id="topNBA" onmouseover="showSub('NBA', 'mainon')" onmouseout="hideSub('NBA');"><p class="mainSport">
-				  <a href="/NBA/home.go">NBA</a></p>
-				    <iframe class="subnav" id="iframeNBA" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subNBA">
-				      <li><p><a href="/NBA/home.go" style="color:#FFFFFF">Home</a></p></li><li><p><a href="/NBA/scores.go" style="color:#FFFFFF">Scores</a></p></li><li><p><a href="/NBA/standings.go" style="color:#FFFFFF">Standings</a></p></li><li><p><a href="/NBA/statsPlayers.go" style="color:#FFFFFF">Stats</a></p></li><li><p><a href="/NBA/schedules.go" style="color:#FFFFFF">Schedules</a></p></li><li><p><a href="/NBA/teams.go" style="color:#FFFFFF">Teams</a></p></li><li><p><a href="/NBA/players.go" style="color:#FFFFFF">Players</a></p></li><li><p><a href="/NBA/injuries.go" style="color:#FFFFFF">Injuries</a></p></li><li><p><a href="/NBA/transactions.go" style="color:#FFFFFF">Transactions</a></p></li><li><p><a href="/columnsHome.go?sport=NBA" style="color:#FFFFFF">Fantasy Columns</a></p></li><li><p><a href="/NBA/viewAllGames.go" style="color:#FFDC28">Fantasy Games</a></p></li>
-				    </ul>
-				  </li>
-				
-				  <li class="" style="position:relative;" id="topNCAAB" onmouseover="showSub('NCAAB', 'mainon')" onmouseout="hideSub('NCAAB');"><p class="mainSport">
-				  <a href="/NCAAB/home.go">NCAAB</a></p>
-				    <iframe class="subnav" id="iframeNCAAB" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subNCAAB">
-				      <li><p><a href="/NCAAB/home.go" style="color:#FFFFFF">Home</a></p></li><li><p><a href="/NCAAB/scores.go" style="color:#FFFFFF">Scores</a></p></li><li><p><a href="/NCAAB/standings.go" style="color:#FFFFFF">Standings</a></p></li><li><p><a href="/NCAAB/statsPlayers.go" style="color:#FFFFFF">Stats</a></p></li><li><p><a href="/NCAAB/schedules.go" style="color:#FFFFFF">Schedules</a></p></li><li><p><a href="/NCAAB/teams.go" style="color:#FFFFFF">Teams</a></p></li><li><p><a href="/NCAAB/players.go" style="color:#FFFFFF">Players</a></p></li><li><p><a href="/NCAAB/viewAllGames.go" style="color:#FFDC28">Fantasy Games</a></p></li>
-				    </ul>
-				  </li>
-				
-				  <li class="" style="position:relative;" id="topNASCAR" onmouseover="showSub('NASCAR', 'mainon')" onmouseout="hideSub('NASCAR');"><p class="mainSport">
-				  <a href="/NASCAR/home.go">NASCAR</a></p>
-				    <iframe class="subnav" id="iframeNASCAR" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subNASCAR">
-				      <li><p><a href="/NASCAR/home.go" style="color:#FFFFFF">Home</a></p></li><li><p><a href="/NASCAR/scores.go" style="color:#FFFFFF">Scores</a></p></li><li><p><a href="/NASCAR/standings.go" style="color:#FFFFFF">Standings</a></p></li><li><p><a href="/NASCAR/statsPlayers.go" style="color:#FFFFFF">Stats</a></p></li><li><p><a href="/NASCAR/schedules.go" style="color:#FFFFFF">Schedules</a></p></li><li><p><a href="/NASCAR/players.go" style="color:#FFFFFF">Players</a></p></li><li><p><a href="/leaguePlayerNews.go?sport=NASCAR" style="color:#FFFFFF">Player News</a></p></li><li><p><a href="/columnsHome.go?sport=NASCAR" style="color:#FFFFFF">Fantasy Columns</a></p></li><li><p><a href="/NASCAR/viewAllGames.go" style="color:#FFDC28">Fantasy Games</a></p></li>
-				    </ul>
-				  </li>
-				
-				  <li class="" style="position:relative;" id="topPGA" onmouseover="showSub('PGA', 'mainon')" onmouseout="hideSub('PGA');"><p class="mainSport">
-				  <a href="/PGA/home.go">PGA</a></p>
-				    <iframe class="subnav" id="iframePGA" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subPGA">
-				      <li><p><a href="/PGA/home.go" style="color:#FFFFFF">Home</a></p></li><li><p><a href="/PGA/schedules.go" style="color:#FFFFFF">Schedules</a></p></li><li><p><a href="/PGA/players.go" style="color:#FFFFFF">Players</a></p></li><li><p><a href="/leaguePlayerNews.go?sport=PGA" style="color:#FFFFFF">Player News</a></p></li><li><p><a href="/columnsHome.go?sport=PGA" style="color:#FFFFFF">Fantasy Columns</a></p></li><li><p><a href="/PGA/viewAllGames.go" style="color:#FFDC28">Fantasy Games</a></p></li>
-				    </ul>
-				  </li>
-				
 				  <li class="" style="position:relative;" id="topNFL" onmouseover="showSub('NFL', 'mainon')" onmouseout="hideSub('NFL');"><p class="mainSport">
 				  <a href="/NFL/home.go">NFL</a></p>
 				    <iframe class="subnav" id="iframeNFL" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subNFL">
-				      <li><p><a href="/NFL/home.go" style="color:#FFFFFF">Home</a></p></li><li><p><a href="/NFL/scores.go" style="color:#FFFFFF">Scores</a></p></li><li><p><a href="/NFL/standings.go" style="color:#FFFFFF">Standings</a></p></li><li><p><a href="/NFL/statsPlayers.go" style="color:#FFFFFF">Stats</a></p></li><li><p><a href="/NFL/schedules.go" style="color:#FFFFFF">Schedules</a></p></li><li><p><a href="/NFL/teams.go" style="color:#FFFFFF">Teams</a></p></li><li><p><a href="/NFL/players.go" style="color:#FFFFFF">Players</a></p></li><li><p><a href="/NFL/injuries.go" style="color:#FFFFFF">Injuries</a></p></li><li><p><a href="/NFL/transactions.go" style="color:#FFFFFF">Transactions</a></p></li><li><p><a href="/columnsHome.go?sport=NFL" style="color:#FFFFFF">Fantasy Columns</a></p></li><li><p><a href="/NFL/viewAllGames.go" style="color:#FFDC28">Fantasy Games</a></p></li>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subNFL">
+				      <li><p><a href="/NFL/home.go">Home</a></p></li><li><p><a href="/NFL/scores.go">Scores</a></p></li><li><p><a href="/NFL/standings.go">Standings</a></p></li><li><p><a href="/NFL/statsPlayers.go">Stats</a></p></li><li><p><a href="/NFL/schedules.go">Schedules</a></p></li><li><p><a href="/NFL/teams.go">Teams</a></p></li><li><p><a href="/NFL/players.go">Players</a></p></li><li><p><a href="/NFL/injuries.go">Injuries</a></p></li><li><p><a href="/NFL/transactions.go">Transactions</a></p></li><li><p><a href="/columnsHome.go?sport=NFL">Fantasy Columns</a></p></li><li><p><a href="/NFL/viewAllGames.go" style="color:#FFD911">Fantasy Games</a></p></li>
 				    </ul>
 				  </li>
 				
 				  <li class="" style="position:relative;" id="topNCAAF" onmouseover="showSub('NCAAF', 'mainon')" onmouseout="hideSub('NCAAF');"><p class="mainSport">
 				  <a href="/NCAAF/home.go">NCAAF</a></p>
 				    <iframe class="subnav" id="iframeNCAAF" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subNCAAF">
-				      <li><p><a href="/NCAAF/home.go" style="color:#FFFFFF">Home</a></p></li><li><p><a href="/NCAAF/scores.go" style="color:#FFFFFF">Scores</a></p></li><li><p><a href="/NCAAF/standings.go" style="color:#FFFFFF">Standings</a></p></li><li><p><a href="/NCAAF/statsPlayers.go" style="color:#FFFFFF">Stats</a></p></li><li><p><a href="/NCAAF/schedules.go" style="color:#FFFFFF">Schedules</a></p></li><li><p><a href="/NCAAF/teams.go" style="color:#FFFFFF">Teams</a></p></li><li><p><a href="/NCAAF/players.go" style="color:#FFFFFF">Players</a></p></li><li><p><a href="/leaguePlayerNews.go?sport=NCAAF" style="color:#FFFFFF">Player News</a></p></li><li><p><a href="/columnsHome.go?sport=NCAAF" style="color:#FFFFFF">Fantasy Columns</a></p></li><li><p><a href="/NCAAF/viewAllGames.go" style="color:#FFDC28">Fantasy Games</a></p></li>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subNCAAF">
+				      <li><p><a href="/NCAAF/home.go">Home</a></p></li><li><p><a href="/NCAAF/scores.go">Scores</a></p></li><li><p><a href="/NCAAF/standings.go">Standings</a></p></li><li><p><a href="/NCAAF/statsPlayers.go">Stats</a></p></li><li><p><a href="/NCAAF/schedules.go">Schedules</a></p></li><li><p><a href="/NCAAF/teams.go">Teams</a></p></li><li><p><a href="/NCAAF/players.go">Players</a></p></li><li><p><a href="/leaguePlayerNews.go?sport=NCAAF">Player News</a></p></li><li><p><a href="/columnsHome.go?sport=NCAAF">Fantasy Columns</a></p></li><li><p><a href="/NCAAF/viewAllGames.go" style="color:#FFD911">Fantasy Games</a></p></li>
+				    </ul>
+				  </li>
+				
+				  <li class="" style="position:relative;" id="topNHL" onmouseover="showSub('NHL', 'mainon')" onmouseout="hideSub('NHL');"><p class="mainSport">
+				  <a href="/NHL/home.go">NHL</a></p>
+				    <iframe class="subnav" id="iframeNHL" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subNHL">
+				      <li><p><a href="/NHL/home.go">Home</a></p></li><li><p><a href="/NHL/scores.go">Scores</a></p></li><li><p><a href="/NHL/standings.go">Standings</a></p></li><li><p><a href="/NHL/statsPlayers.go">Stats</a></p></li><li><p><a href="/NHL/schedules.go">Schedules</a></p></li><li><p><a href="/NHL/teams.go">Teams</a></p></li><li><p><a href="/NHL/players.go">Players</a></p></li><li><p><a href="/NHL/injuries.go">Injuries</a></p></li><li><p><a href="/NHL/transactions.go">Transactions</a></p></li><li><p><a href="/columnsHome.go?sport=NHL">Fantasy Columns</a></p></li><li><p><a href="/NHL/viewAllGames.go" style="color:#FFD911">Fantasy Games</a></p></li>
+				    </ul>
+				  </li>
+				
+				  <li class="" style="position:relative;" id="topNBA" onmouseover="showSub('NBA', 'mainon')" onmouseout="hideSub('NBA');"><p class="mainSport">
+				  <a href="/NBA/home.go">NBA</a></p>
+				    <iframe class="subnav" id="iframeNBA" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subNBA">
+				      <li><p><a href="/NBA/home.go">Home</a></p></li><li><p><a href="/NBA/scores.go">Scores</a></p></li><li><p><a href="/NBA/standings.go">Standings</a></p></li><li><p><a href="/NBA/statsPlayers.go">Stats</a></p></li><li><p><a href="/NBA/schedules.go">Schedules</a></p></li><li><p><a href="/NBA/teams.go">Teams</a></p></li><li><p><a href="/NBA/players.go">Players</a></p></li><li><p><a href="/NBA/injuries.go">Injuries</a></p></li><li><p><a href="/NBA/transactions.go">Transactions</a></p></li><li><p><a href="/columnsHome.go?sport=NBA">Fantasy Columns</a></p></li><li><p><a href="/NBA/viewAllGames.go" style="color:#FFD911">Fantasy Games</a></p></li>
+				    </ul>
+				  </li>
+				
+				  <li class="" style="position:relative;" id="topNCAAB" onmouseover="showSub('NCAAB', 'mainon')" onmouseout="hideSub('NCAAB');"><p class="mainSport">
+				  <a href="/NCAAB/home.go">NCAAB</a></p>
+				    <iframe class="subnav" id="iframeNCAAB" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subNCAAB">
+				      <li><p><a href="/NCAAB/home.go">Home</a></p></li><li><p><a href="/NCAAB/scores.go">Scores</a></p></li><li><p><a href="/NCAAB/standings.go">Standings</a></p></li><li><p><a href="/NCAAB/statsPlayers.go">Stats</a></p></li><li><p><a href="/NCAAB/schedules.go">Schedules</a></p></li><li><p><a href="/NCAAB/teams.go">Teams</a></p></li><li><p><a href="/NCAAB/players.go">Players</a></p></li><li><p><a href="/NCAAB/viewAllGames.go" style="color:#FFD911">Fantasy Games</a></p></li>
+				    </ul>
+				  </li>
+				
+				  <li class="" style="position:relative;" id="topMLB" onmouseover="showSub('MLB', 'mainon')" onmouseout="hideSub('MLB');"><p class="mainSport">
+				  <a href="/MLB/home.go">MLB</a></p>
+				    <iframe class="subnav" id="iframeMLB" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subMLB">
+				      <li><p><a href="/MLB/home.go">Home</a></p></li><li><p><a href="/MLB/scores.go">Scores</a></p></li><li><p><a href="/MLB/standings.go">Standings</a></p></li><li><p><a href="/MLB/statsPlayers.go">Stats</a></p></li><li><p><a href="/MLB/schedules.go">Schedules</a></p></li><li><p><a href="/MLB/teams.go">Teams</a></p></li><li><p><a href="/MLB/players.go">Players</a></p></li><li><p><a href="/MLB/injuries.go">Injuries</a></p></li><li><p><a href="/MLB/transactions.go">Transactions</a></p></li><li><p><a href="/columnsHome.go?sport=MLB">Fantasy Columns</a></p></li><li><p><a href="/MLB/viewAllGames.go" style="color:#FFD911">Fantasy Games</a></p></li>
+				    </ul>
+				  </li>
+				
+				  <li class="" style="position:relative;" id="topNASCAR" onmouseover="showSub('NASCAR', 'mainon')" onmouseout="hideSub('NASCAR');"><p class="mainSport">
+				  <a href="/NASCAR/home.go">NASCAR</a></p>
+				    <iframe class="subnav" id="iframeNASCAR" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subNASCAR">
+				      <li><p><a href="/NASCAR/home.go">Home</a></p></li><li><p><a href="/NASCAR/scores.go">Scores</a></p></li><li><p><a href="/NASCAR/standings.go">Standings</a></p></li><li><p><a href="/NASCAR/statsPlayers.go">Stats</a></p></li><li><p><a href="/NASCAR/schedules.go">Schedules</a></p></li><li><p><a href="/NASCAR/players.go">Players</a></p></li><li><p><a href="/leaguePlayerNews.go?sport=NASCAR">Player News</a></p></li><li><p><a href="/columnsHome.go?sport=NASCAR">Fantasy Columns</a></p></li><li><p><a href="/NASCAR/viewAllGames.go" style="color:#FFD911">Fantasy Games</a></p></li>
+				    </ul>
+				  </li>
+				
+				  <li class="" style="position:relative;" id="topPGA" onmouseover="showSub('PGA', 'mainon')" onmouseout="hideSub('PGA');"><p class="mainSport">
+				  <a href="/PGA/home.go">PGA</a></p>
+				    <iframe class="subnav" id="iframePGA" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subPGA">
+				      <li><p><a href="/PGA/home.go">Home</a></p></li><li><p><a href="/PGA/schedules.go">Schedules</a></p></li><li><p><a href="/PGA/players.go">Players</a></p></li><li><p><a href="/leaguePlayerNews.go?sport=PGA">Player News</a></p></li><li><p><a href="/columnsHome.go?sport=PGA">Fantasy Columns</a></p></li><li><p><a href="/PGA/viewAllGames.go" style="color:#FFD911">Fantasy Games</a></p></li>
 				    </ul>
 				  </li>
 				
 				  <li class="" style="position:relative;" id="topCFL" onmouseover="showSub('CFL', 'mainon')" onmouseout="hideSub('CFL');"><p class="mainSport">
 				  <a>CFL</a></p>
 				    <iframe class="subnav" id="iframeCFL" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subCFL">
-				      <li><p><a href="/columnsHome.go?sport=CFL" style="color:#FFFFFF">Columns</a></p></li>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subCFL">
+				      <li><p><a href="/columnsHome.go?sport=CFL">Columns</a></p></li>
 				    </ul>
 				  </li>
 				
 				  <li class="" style="position:relative;" id="topUFC" onmouseover="showSub('UFC', 'mainon')" onmouseout="hideSub('UFC');"><p class="mainSport">
 				  <a>UFC</a></p>
 				    <iframe class="subnav" id="iframeUFC" style="position:absolute; left:0px; top:24px; z-index:1;" src="about:blank" width="150" height="100" border="0" frameborder="0" scrolling="No"></iframe>
-						<ul style="z-index:2; position:absolute; " class="subnav" id="subUFC">
-				      <li><p><a href="/columnsHome.go?sport=UFC" style="color:#FFFFFF">Columns</a></p></li>
+						<ul style="z-index:2; padding:0px 0px 5px 0px; position:absolute; " class="subnav" id="subUFC">
+				      <li><p><a href="/columnsHome.go?sport=UFC">Columns</a></p></li>
 				    </ul>
+				  </li>
+				
+				  <li class="off" style="position:relative;" id="topSOCCER" onmouseover="showSub('SOCCER','mainon')" onmouseout="hideSub('SOCCER');"><p class="mainSport">
+				  <a>Soccer (Beta)</a></p>
+				    <iframe class="subnav" id="iframeSOCCER" style="position:absolute; left:-550px; top:24px; z-index:1;" src="about:blank" width="730" height="100" border="0" frameborder="0" scrolling="No"></iframe>
+				      <ul style="z-index:2; position:absolute;width:663px; height:35px; margin-left:-550px; border-bottom:1px solid #000000 !important" class="subnav" id="subSOCCER">
+		                
+		                  <li style="width:110px; clear:none !important; float:left !important;">
+							<div><p style="font-size:12px !important">Premier League</p></div>
+		                  	<div><ul style="margin:0px; padding:0px 0px 5px 0px; border-right:0px;">
+						      
+		                        <li style="clear:none !important;"><p><a href="/EPL/scores.go">Scores</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/EPL/standings.go">Standings</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/EPL/statsPlayers.go">Stats</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/EPL/schedules.go">Schedules</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/EPL/players.go">Players</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/EPL/viewAllGames.go" style="color:#FFD911 !important">Fantasy Games</a></p></li>
+		                      
+							</ul></div>
+						  </li>
+		                
+		                  <li style="width:110px; clear:none !important; float:left !important;">
+							<div><p style="font-size:12px !important">Bundesliga</p></div>
+		                  	<div><ul style="margin:0px; padding:0px 0px 5px 0px; border-left:0px;border-right:0px;">
+						      
+		                        <li style="clear:none !important;"><p><a href="/BUND/scores.go">Scores</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/BUND/standings.go">Standings</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/BUND/statsPlayers.go">Stats</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/BUND/schedules.go">Schedules</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/BUND/players.go">Players</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/BUND/viewAllGames.go" style="color:#FFD911 !important">Fantasy Games</a></p></li>
+		                      
+							</ul></div>
+						  </li>
+		                
+		                  <li style="width:110px; clear:none !important; float:left !important;">
+							<div><p style="font-size:12px !important">La Liga</p></div>
+		                  	<div><ul style="margin:0px; padding:0px 0px 5px 0px; border-left:0px;border-right:0px;">
+						      
+		                        <li style="clear:none !important;"><p><a href="/LIGA/scores.go">Scores</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIGA/standings.go">Standings</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIGA/statsPlayers.go">Stats</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIGA/schedules.go">Schedules</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIGA/players.go">Players</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIGA/viewAllGames.go" style="color:#FFD911 !important">Fantasy Games</a></p></li>
+		                      
+							</ul></div>
+						  </li>
+		                
+		                  <li style="width:110px; clear:none !important; float:left !important;">
+							<div><p style="font-size:12px !important">Serie A</p></div>
+		                  	<div><ul style="margin:0px; padding:0px 0px 5px 0px; border-left:0px;border-right:0px;">
+						      
+		                        <li style="clear:none !important;"><p><a href="/ITA/scores.go">Scores</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/ITA/standings.go">Standings</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/ITA/statsPlayers.go">Stats</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/ITA/schedules.go">Schedules</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/ITA/players.go">Players</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/ITA/viewAllGames.go" style="color:#FFD911 !important">Fantasy Games</a></p></li>
+		                      
+							</ul></div>
+						  </li>
+		                
+		                  <li style="width:110px; clear:none !important; float:left !important;">
+							<div><p style="font-size:12px !important">Ligue 1</p></div>
+		                  	<div><ul style="margin:0px; padding:0px 0px 5px 0px; border-left:0px;border-right:0px;">
+						      
+		                        <li style="clear:none !important;"><p><a href="/LIG1/scores.go">Scores</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIG1/standings.go">Standings</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIG1/statsPlayers.go">Stats</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIG1/schedules.go">Schedules</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIG1/players.go">Players</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/LIG1/viewAllGames.go" style="color:#FFD911 !important">Fantasy Games</a></p></li>
+		                      
+							</ul></div>
+						  </li>
+		                
+		                  <li style="width:110px; clear:none !important; float:left !important;">
+							<div><p style="font-size:12px !important">MLS</p></div>
+		                  	<div><ul style="margin:0px; padding:0px 0px 5px 0px; border-left:0px;">
+						      
+		                        <li style="clear:none !important;"><p><a href="/MLS/scores.go">Scores</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/MLS/standings.go">Standings</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/MLS/statsPlayers.go">Stats</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/MLS/schedules.go">Schedules</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/MLS/players.go">Players</a></p></li>
+		                      
+		                        <li style="clear:none !important;"><p><a href="/MLS/viewAllGames.go" style="color:#FFD911 !important">Fantasy Games</a></p></li>
+		                      
+							</ul></div>
+						  </li>
+		                
+		              </ul>
 				  </li>
 				
 
@@ -795,35 +947,53 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 		  
 				<li id="mainRightNav_3" onmouseover="showRightFlyout('3');changeClass('mainRightNav_3','on');" onmouseout="hideMe('subFlyout_3');hideMe('flyoutIframe_3');hideMe('invisible_3');changeClass('mainRightNav_3','')"><div class="lobbyHighlight">	
 		        
-		      	        <a href="/mainLobby.go" title="Single screen to view all Classic Draft leagues that can be joined">Classic Draft Lobby</a>	
+		      	        <a href="/classicDraftLobby.go" title="Single screen to view all Classic Draft leagues that can be joined">Classic Draft Lobby</a>	
 				</div></li>
 				
 		  
-				<li id="mainRightNav_4" onmouseover="showRightFlyout('4');changeClass('mainRightNav_4','on');" onmouseout="hideMe('subFlyout_4');hideMe('flyoutIframe_4');hideMe('invisible_4');changeClass('mainRightNav_4','')"><div class="createLeagueHighlight">	
+				<li id="mainRightNav_4" onmouseover="showRightFlyout('4');changeClass('mainRightNav_4','on');" onmouseout="hideMe('subFlyout_4');hideMe('flyoutIframe_4');hideMe('invisible_4');changeClass('mainRightNav_4','')"><div class="lobbyHighlight">	
+		        
+		      	        <a href="/mockDraftLobby.go" title="Single screen to view all Mock Drafts that can be joined">Mock Draft Lobby</a>	
+				</div></li>
+				
+		  
+				<li id="mainRightNav_5" onmouseover="showRightFlyout('5');changeClass('mainRightNav_5','on');" onmouseout="hideMe('subFlyout_5');hideMe('flyoutIframe_5');hideMe('invisible_5');changeClass('mainRightNav_5','')"><div class="createLeagueHighlight">	
 		        
 		      	        <span class="createLeagueHighlight" title="Create a new Fantasy Commissioner League">Create League</span>
 		      	        
-							<iframe style="display:none;" src="about:blank" width="1" height="1" id="flyoutIframe_4" class="rightFlyout" border="0" frameborder="0"></iframe>
-							<div style="display:none;" id="subFlyout_4" class="rightFlyout" onmouseover="showRightFlyout('4');" onmouseout="hideMe('subFlyout_4');hideMe('flyoutIframe_4');">
+							<iframe style="display:none;" src="about:blank" width="1" height="1" id="flyoutIframe_5" class="rightFlyout" border="0" frameborder="0"></iframe>
+							<div style="display:none;" id="subFlyout_5" class="rightFlyout" onmouseover="showRightFlyout('5');" onmouseout="hideMe('subFlyout_5');hideMe('flyoutIframe_5');">
 								<table>
 								
-										<tbody><tr><td class="flyoutBlock  firstFlyout"><div onmouseover="changeClass('sub_4_1','flyoutItem on');" onmouseout="changeClass('sub_4_1','flyoutItem');" id="sub_4_1" title="Create MLB Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=200">MLB Commissioner (FREE)</a></div></td></tr>
+										<tbody><tr><td class="flyoutBlock  firstFlyout"><div onmouseover="changeClass('sub_5_1','flyoutItem on');" onmouseout="changeClass('sub_5_1','flyoutItem');" id="sub_5_1" title="Create MLB Fantasy Commissioner League for the playoffs" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=204">MLB Playoff Commissioner</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_4_2','flyoutItem on');" onmouseout="changeClass('sub_4_2','flyoutItem');" id="sub_4_2" title="Create NFL Fantasy Commissioner" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=100">NFL Commissioner (FREE)</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_2','flyoutItem on');" onmouseout="changeClass('sub_5_2','flyoutItem');" id="sub_5_2" title="Create NBA Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=300">NBA Commissioner (FREE)</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_4_3','flyoutItem on');" onmouseout="changeClass('sub_4_3','flyoutItem');" id="sub_4_3" title="Create NBA Fantasy Commissioner League for playoffs" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=304">NBA Playoff Commissioner</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_3','flyoutItem on');" onmouseout="changeClass('sub_5_3','flyoutItem');" id="sub_5_3" title="Create NCAA (College Basketball) Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=600">NCAAB Commissioner (FREE)</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_4_4','flyoutItem on');" onmouseout="changeClass('sub_4_4','flyoutItem');" id="sub_4_4" title="Create NHL Fantasy Commissioner League for playoffs" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=404">NHL Playoff Commissioner</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_4','flyoutItem on');" onmouseout="changeClass('sub_5_4','flyoutItem');" id="sub_5_4" title="Create MLB Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=200">MLB Commissioner (FREE)</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_4_5','flyoutItem on');" onmouseout="changeClass('sub_4_5','flyoutItem');" id="sub_4_5" title="Create NASCAR Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=700">NASCAR Commissioner (FREE)</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_5','flyoutItem on');" onmouseout="changeClass('sub_5_5','flyoutItem');" id="sub_5_5" title="Create NFL Fantasy Commissioner" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=100">NFL Commissioner (FREE)</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_4_6','flyoutItem on');" onmouseout="changeClass('sub_4_6','flyoutItem');" id="sub_4_6" title="Create PGA Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=800">PGA Commissioner (FREE)</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_6','flyoutItem on');" onmouseout="changeClass('sub_5_6','flyoutItem');" id="sub_5_6" title="Create NCAA (College Football) Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=500">NCAAF Commissioner (FREE)</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_4_9','flyoutItem on');" onmouseout="changeClass('sub_4_9','flyoutItem');" id="sub_4_9" title="Create NBA Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=300">NBA Commissioner (FREE)</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_7','flyoutItem on');" onmouseout="changeClass('sub_5_7','flyoutItem');" id="sub_5_7" title="Create NHL Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=400">NHL Commissioner (FREE)</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_4_10','flyoutItem on');" onmouseout="changeClass('sub_4_10','flyoutItem');" id="sub_4_10" title="Create NHL Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=400">NHL Commissioner (FREE)</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_8','flyoutItem on');" onmouseout="changeClass('sub_5_8','flyoutItem');" id="sub_5_8" title="Create Premier League Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=900">Premier League Commissioner (FREE) (Beta)</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_4_12','flyoutItem on');" onmouseout="changeClass('sub_4_12','flyoutItem');" id="sub_4_12" title="Create NCAA (College Football) Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=500">NCAAF Commissioner (FREE)</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_9','flyoutItem on');" onmouseout="changeClass('sub_5_9','flyoutItem');" id="sub_5_9" title="Create Bundesliga Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1600">Bundesliga Commissioner (FREE) (Beta)</a></div></td></tr>
+								
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_10','flyoutItem on');" onmouseout="changeClass('sub_5_10','flyoutItem');" id="sub_5_10" title="Create La Liga Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1700">La Liga Commissioner (FREE) (Beta)</a></div></td></tr>
+								
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_11','flyoutItem on');" onmouseout="changeClass('sub_5_11','flyoutItem');" id="sub_5_11" title="Create Serie A Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1200">Serie A Commissioner (FREE) (Beta)</a></div></td></tr>
+								
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_12','flyoutItem on');" onmouseout="changeClass('sub_5_12','flyoutItem');" id="sub_5_12" title="Create Ligue 1 Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1300">Ligue 1 Commissioner (FREE) (Beta)</a></div></td></tr>
+								
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_13','flyoutItem on');" onmouseout="changeClass('sub_5_13','flyoutItem');" id="sub_5_13" title="Create MLS Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1800">MLS Commissioner (FREE) (Beta)</a></div></td></tr>
+								
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_14','flyoutItem on');" onmouseout="changeClass('sub_5_14','flyoutItem');" id="sub_5_14" title="Create NASCAR Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=700">NASCAR Commissioner (FREE)</a></div></td></tr>
+								
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_15','flyoutItem on');" onmouseout="changeClass('sub_5_15','flyoutItem');" id="sub_5_15" title="Create PGA Fantasy Commissioner League" class="flyoutItem"><a href="/fantasy/createLeagueStart.go?x=y&amp;gameId=800">PGA Commissioner (FREE)</a></div></td></tr>
 								
 									</tbody></table>
 							</div>
@@ -831,19 +1001,21 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 				</div></li>
 				
 		  
-				<li id="mainRightNav_5" class="last" onmouseover="showRightFlyout('5');changeClass('mainRightNav_5','on');" onmouseout="hideMe('subFlyout_5');hideMe('flyoutIframe_5');hideMe('invisible_5');changeClass('mainRightNav_5','')"><div class="">	
+				<li id="mainRightNav_6" class="last" onmouseover="showRightFlyout('6');changeClass('mainRightNav_6','on');" onmouseout="hideMe('subFlyout_6');hideMe('flyoutIframe_6');hideMe('invisible_6');changeClass('mainRightNav_6','')"><div class="">	
 		        
 		      	        <span style="cursor:pointer; font-weight:normal" title="Join a public or private Fantasy Commissioner League">Join League (FREE!)</span>
 		      	      
-							<iframe style="display:none;" src="about:blank" width="1" height="1" id="flyoutIframe_5" class="rightFlyout" border="0" frameborder="0"></iframe>
-							<div style="display:none;" id="subFlyout_5" class="rightFlyout" onmouseover="showRightFlyout('5');" onmouseout="hideMe('subFlyout_5');hideMe('flyoutIframe_5');">
+							<iframe style="display:none;" src="about:blank" width="1" height="1" id="flyoutIframe_6" class="rightFlyout" border="0" frameborder="0"></iframe>
+							<div style="display:none;" id="subFlyout_6" class="rightFlyout" onmouseover="showRightFlyout('6');" onmouseout="hideMe('subFlyout_6');hideMe('flyoutIframe_6');">
 								<table>
 								
-										<tbody><tr><td class="flyoutBlock  firstFlyout"><div onmouseover="changeClass('sub_5_14','flyoutItem on');" onmouseout="changeClass('sub_5_14','flyoutItem');" id="sub_5_14" title="Join a Fantrax League to win Cash Prizes" class="flyoutItem"><a href="/viewAllGames.go">$$ Money Leagues $$</a></div></td></tr>
+										<tbody><tr><td class="flyoutBlock  firstFlyout"><div onmouseover="changeClass('sub_6_21','flyoutItem on');" onmouseout="changeClass('sub_6_21','flyoutItem');" id="sub_6_21" title="Join a Fantrax League to win Cash Prizes" class="flyoutItem"><a href="/viewAllGames.go">$$ Money Leagues $$</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_15','flyoutItem on');" onmouseout="changeClass('sub_5_15','flyoutItem');" id="sub_5_15" title="Join a Fantasy Commissioner League open to all Fantrax users" class="flyoutItem"><a href="/publicLeagues.go">Published</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_6_22','flyoutItem on');" onmouseout="changeClass('sub_6_22','flyoutItem');" id="sub_6_22" title="Join a Mock Draft" class="flyoutItem"><a href="/mockDraftLobby.go">Mock Drafts</a></div></td></tr>
 								
-										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_5_16','flyoutItem on');" onmouseout="changeClass('sub_5_16','flyoutItem');" id="sub_5_16" title="Join a private Fantasy Commissioner League in which you have been given the League ID and Password" class="flyoutItem"><a href="/fantasy/joinLeague.go">Private</a></div></td></tr>
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_6_23','flyoutItem on');" onmouseout="changeClass('sub_6_23','flyoutItem');" id="sub_6_23" title="Join a Fantasy Commissioner League open to all Fantrax users" class="flyoutItem"><a href="/publicLeagues.go">Published</a></div></td></tr>
+								
+										<tr><td class="flyoutBlock "><div onmouseover="changeClass('sub_6_24','flyoutItem on');" onmouseout="changeClass('sub_6_24','flyoutItem');" id="sub_6_24" title="Join a private Fantasy Commissioner League in which you have been given the League ID and Password" class="flyoutItem"><a href="/fantasy/joinLeague.go">Private</a></div></td></tr>
 								
 									</tbody></table>
 							</div>
@@ -855,7 +1027,17 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 			<div style="padding:0px 0px 0px 8px; margin-top:5px"></div>
 
   	<div class="rightAds">
-		<iframe marginwidth="0" marginheight="0" src="/ajaxAd.go?sport=&amp;size=160X600" name="adFrameRight" id="adFrameRight" border="0" scrolling="no" frameborder="0" width="160" height="600" style="padding-bottom:6px"></iframe>
+
+		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-1265055087905438";
+			/* Right Vertical - Top */
+			google_ad_slot = "1948101739";
+			google_ad_width = 160;
+			google_ad_height = 600;
+			//-->
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<div style="height:8px"></div>
 		<script type="text/javascript"><!--
 			google_ad_client = "ca-pub-1265055087905438";
 			/* Right vertical */
@@ -864,13 +1046,15 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 			google_ad_height = 600;
 			//-->
 		</script>
-		<div class="clearfix"></div>
 		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		
+		<div class="clearfix"></div>
 		<div style="text-align:center; padding:7px 0px 0px 0px"><a href="http://www.fsta.org"><img src="http://img.fantrax.com/fstaMember.png" border="0"></a></div>
 		
 		  <div style="text-align:center; padding:7px 0px 0px 0px"><img src="http://img.fantrax.com/statsIncLogo.gif"></div>
 		
-		<div style="text-align:center; padding:7px 0px 0px 0px"><img src="http://img.fantrax.com/fantasyPlayersNetwork.png"></div>	
+		<div style="text-align:center; padding:7px 0px 0px 0px"><a href="http://www.fantasyhockeycoach.com"><img src="http://img.fantrax.com/fhcLogo150w.gif" border="0"></a></div>	
+		<div style="text-align:center; padding:7px 0px 0px 0px"><img src="http://img.fantrax.com/fantasyPlayersNetwork.png"></div>
   	</div>  
   
 		</div>
@@ -901,6 +1085,13 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
   </script>
   <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 
+<div style="height:10px"></div>
+
+	<iframe marginwidth="0" marginheight="0" src="/ajaxAd.go?sport=&amp;size=728X90&amp;footer=true" name="adFrame" id="adFrame" border="0" scrolling="no" frameborder="0" width="728" height="90"></iframe>
+	<form id="ajaxAdForm" action="/ajaxAd.go?sport=&amp;size=728X90" method="post" target="adFrame">
+	</form>
+
+
 
 <div class="footerArea">
 	
@@ -908,7 +1099,7 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 		<div style="padding:0px;">
 			
 			  <div style="float:left; padding:9px 0px 0px 100px">
-			    We've just started a facebook page, please click "Like" to spread the word. Thanks!
+			    We've just started a facebook page, please click "Like" and spread the word. Thanks!
 			  </div>
 			
 			  <div style="float:left;">
@@ -926,12 +1117,11 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 		<div style="padding:0px 0px 6px 0px">
 	    <a href="/showPage.go?page=aboutUs">About Us</a> |
 	    <a href="/showPage.go?page=contactUs" rel="nofollow">Contact Us</a> |
-	    
-		    <a href="/showPage.go?page=links">Links</a> |
 		  
+		
 	    <a href="/showPage.go?page=termsOfService" rel="nofollow">Terms of Service</a> |
-	    <a href="/showPage.go?page=privacyPolicy" rel="nofollow">Privacy Policy</a> |
-	    <a href="/showPage.go?page=siteMap">Site Map</a>
+	    <a href="/showPage.go?page=privacyPolicy" rel="nofollow">Privacy Policy</a>
+	    
 	    </div>
 	</div>
 	<div class="footerCopyright">
@@ -941,11 +1131,11 @@ ul.menuCount0 div.rightFlyout {border-top:1px solid #02103A; border-left:1px sol
 					Fantrax
 				
 			</div>
-		  <div class="date">Sun Jun 03 02:52:33 EDT 2012</div>
+		  <div class="date">Wed Oct 10 03:38:13 EDT 2012</div>
 		  <div class="other">Some content provided by Rotoworld.</div>
 		</div>
 	</div>
-	<div style="padding-bottom:8px">Your free fantasy sports commissioner and games service<br>Part of the USA Today Sports Media Group</div>
+	<div style="padding-bottom:8px">Your free and premium fantasy sports commissioner and games service<br>Part of the USA Today Sports Media Group</div>
 </div>
 
 		  </div>
