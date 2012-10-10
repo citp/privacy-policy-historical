@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.co.id privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614075606id_/http%3A//disdus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.co.id privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010173912id_/http%3A//disdus.com/privacy.php) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - groupon.co.id
 
