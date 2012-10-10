@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513141627id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010221107id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Carzone.ie - New & Used Cars in Ireland - Privacy Policy
 
@@ -7,6 +7,7 @@
   * [Online Advertiser Terms & Conditions ](https://web.archive.org/index.cfm?fuseaction=TermsConditions#start)
   * [Car Dealership Terms & Conditions ](https://web.archive.org/index.cfm?fuseaction=DealerTermsConditions)
   * [Privacy Policy ](https://web.archive.org/index.cfm?fuseaction=privacypolicy)
+  * [Carbase Software Usage](https://web.archive.org/index.cfm?fuseaction=CarbaseSoftwareUsage)
 
 
 
