@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the happycodings.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011847id_/http%3A//happycodings.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happycodings.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010105828id_/http%3A//happycodings.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Happy Codings - Privacy Policy
+
+|          | 
 
 Privacy Policy for HappyCodings.com 
 
@@ -24,5 +26,3 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
  Our website runs on a very stable and secure [dedicated server](http://www.webhostingsearch.com/dedicated-server.php) so that you can browse around with confidence.
-
-[ Privacy Policy](http://happycodings.com/privacy-policy.html) | [ Link to Us](http://happycodings.com/link-to-us.html) | [ Links](http://happycodings.com/Links/index.html)
