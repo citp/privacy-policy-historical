@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515002048id_/http%3A//rapid-i.com/content/view/361/235/lang%2Cen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010204354id_/http%3A//rapid-i.com/content/view/361/235/lang%2Cen) for the most accurate reproduction.*
 
 # Rapid - I - Privacy Policy
 
@@ -8,7 +8,7 @@ Privacy is a major concern for the Rapid-I GmbH (hereinafter "we" or "us"), beca
 
 Controller for the purposes of data protection is the Rapid-I GmbH. This privacy statement applies to this and all web pages that refer to it. There may apply separate privacy policies to our particular business units, websites or components. We therefore recommend to read the privacy statements of the websites you visit carefully. 
 
-In addition, we are constantly striving to improve and accordingly adjust the protection of your personal data and this declaration wherever possible due to technical advancement. Changes to the Privacy Policy will be published on this website, so that you are always informed about the data we store and what happens to it. 
+In addition, we are constantly striving to improve and accordingly adjust the protection of your personal data and this declaration wherever possible due to technical advancement and if there are good reasons. We inform you about these changes via e-mail and you are of course permitted to oppose within an appropriate period. Changes to the Privacy Policy will also be published on this website, so that you are always informed about the data we store and what happens to it. 
 
 As far as applicable law requires your explicit affirmation, we present to you the present information for prior consent. Your consent is recorded and the recording can be accessed at any time. You can also check the content of your consent and information at any time. 
 
