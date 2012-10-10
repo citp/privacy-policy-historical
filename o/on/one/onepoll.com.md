@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepoll.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525022305id_/http%3A//www.onepoll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepoll.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010145805id_/http%3A//www.onepoll.com/privacy) for the most accurate reproduction.*
 
 # OnePoll Respects the Privacy Rights of Our Members and Website Users: OnePoll
 
@@ -21,14 +21,13 @@ The terms defined in the Terms and Conditions shall have the same meaning when u
   3. Please be assured that we will never disclose your Data to a third party in such a manner that could lead to identification of you as an individual.
   4. In respect of both Website Users and Members, we may gather further Data from you, for example, if you email comments, request further services or enter a competition or promotion offered by the Company. Furthermore, the Company may have access to details of your Website habits including the dates and number of times you visit the Website and the transactions you carry out through the Website.
   5. In order to provide the Website and Surveys we may enter into contracts with third parties for the provision of the Website, for example, our internet service provider and Website host. In facilitating the Website such third parties may have access to your Data.
-  6. From time to time we may forward your Data to third parties whose products or services we believe may be of interest to you. If you do not wish your Data to be forwarded to such third parties please tick [insert box].
-  7. In addition to using the Data to provide the Services, Data held by us may also be used for our internal purposes. For example, we may analyse the Data to help us develop and improve the Website and/or Surveys.
-  8. We may use your email addresses to send emails to you regarding further information about the Company's services which we think you might find useful and interesting. Also, we may use your email address to invite you to participate in Surveys or in case studies or to inform you if you are a Prize winner. In every email we send we will provide instructions on how to unsubscribe so that you will not receive any further emails regarding such matters.
-  9. In order to enable us to provide you with a personalised browsing experience the Website may use "cookie" information collection technology. We may also use your IP address to help diagnose problems with our server, to administer the Website and/or to gather broad demographic information.
-  10. We may use third party advertising agencies to display banner ads on the Website. Banner ads may contain cookies, and appear to be coming from the Website but in reality they are coming from our third party advertising partners, who are providing advertisements on the Website. As such [if you click on the third party banner] your Data may be accessible to the relevant third party advertising agencies.
-  11. The Website contains links to third party websites. Also, in order to access certain parts of the Website, promotions or offers you may have to download software from the third parties. In using third party links and/or downloading software from third parties, you may make your Data accessible to those third parties. Please note that we do not have any control over such websites or downloads. Therefore we cannot be liable for the protection and privacy of any Data which you provide whilst visiting such facilities. For the avoidance of doubt, no third party websites are governed by this Privacy Policy so you should carefully review the privacy policy contained on the relevant website.
-  12. The Company may disclose your Data where it is under a duty to disclose or share your Data in order to comply with any legal obligation, or in order to enforce or apply the Terms and Conditions and other agreements; or to protect the rights, property or safety of the Company, our customers or others.
-  13. If you wish us to remove your Data please contact the Data Controller at anne@swns.com. We will remove your Data as soon as reasonably practicable.
+  6. In addition to using the Data to provide the Services, Data held by us may also be used for our internal purposes. For example, we may analyse the Data to help us develop and improve the Website and/or Surveys.
+  7. We may use your email addresses to send emails to you regarding further information about the Company's services which we think you might find useful and interesting. Also, we may use your email address to invite you to participate in Surveys or in case studies or to inform you if you are a Prize winner. In every email we send we will provide instructions on how to unsubscribe so that you will not receive any further emails regarding such matters.
+  8. In order to enable us to provide you with a personalised browsing experience the Website may use "cookie" information collection technology. We may also use your IP address to help diagnose problems with our server, to administer the Website and/or to gather broad demographic information.
+  9. We may use third party advertising agencies to display banner ads on the Website. Banner ads may contain cookies, and appear to be coming from the Website but in reality they are coming from our third party advertising partners, who are providing advertisements on the Website. As such [if you click on the third party banner] your Data may be accessible to the relevant third party advertising agencies.
+  10. The Website contains links to third party websites. Also, in order to access certain parts of the Website, promotions or offers you may have to download software from the third parties. In using third party links and/or downloading software from third parties, you may make your Data accessible to those third parties. Please note that we do not have any control over such websites or downloads. Therefore we cannot be liable for the protection and privacy of any Data which you provide whilst visiting such facilities. For the avoidance of doubt, no third party websites are governed by this Privacy Policy so you should carefully review the privacy policy contained on the relevant website.
+  11. The Company may disclose your Data where it is under a duty to disclose or share your Data in order to comply with any legal obligation, or in order to enforce or apply the Terms and Conditions and other agreements; or to protect the rights, property or safety of the Company, our customers or others.
+  12. If you wish us to remove your Data please contact the Data Controller at anne@swns.com. We will remove your Data as soon as reasonably practicable.
 
 
   1. ### Aggregate Information
@@ -70,25 +69,13 @@ The terms defined in the Terms and Conditions shall have the same meaning when u
 
 
 
-  * ### Testimonials
+  * [
 
-  * The team at OnePoll knows precisely what editors want, how to present the material and how, at the same time, to get a key message across to a mass or targeted audience. It is, without question, the best operation of its kind in the country.
+### Testimonials
 
+](https://web.archive.org/clients)
+  * OnePoll are fast and efficient with a quick turn-around, making them our first choice when planning a survey campaign to generate national news coverage.
 
-
-  * ### OnePoll in the Media
-
-  * [EuroCamp ](https://web.archive.org/press/view/15723)2012-05-23
-
-  * [Beneden Healthcare ](https://web.archive.org/press/view/15719)2012-05-23
-
-  * [Naturally Different ](https://web.archive.org/press/view/15709)2012-05-23
-
-  * [Whole Foods Market ](https://web.archive.org/press/view/15693)2012-05-22
-
-  * [Siteopia ](https://web.archive.org/press/view/15620)2012-05-14
-
-  * [More](https://web.archive.org/press)
 
 
 
