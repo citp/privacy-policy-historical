@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobo-web.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504102955id_/http%3A//www.hobo-web.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobo-web.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010063454id_/http%3A//www.hobo-web.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - hobo
 
@@ -22,7 +22,7 @@ We may collect, store and use the following kinds of personal data:
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may use both â€œsessionâ€ cookies and â€œpersistentâ€ cookies on the website.  We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
+We may use both ‘session’ cookies and ‘persistent’ cookies on the website.  We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
 
 Session cookies will be deleted from your computer when you close your browser.  Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
@@ -32,7 +32,7 @@ Our payment services providers may also send you cookies.
 
 We publish Google Adsense interest-based advertisements on our website.  These are tailored by Google to reflect your interests.  To determine your interests, Google will track your behaviour across the web using cookies.  You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: http://www.google.com/ads/preferences/.  You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html.  However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking â€œToolsâ€, â€œInternet Optionsâ€, â€œPrivacyâ€, and selecting â€œBlock all cookiesâ€ using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking ‘Tools’, ‘Internet Options’, ‘Privacy’, and selecting ‘Block all cookies’ using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
 **(3)       Using your personal data**
 
@@ -110,4 +110,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(11)    Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [info@hobo-web.co.uk](mailto:mail@therapyadvertising.com) or by post to Hobo-Web LTD, The Stables, 24 Patrick Street, Greenock, PA16 8NB, Scotland, UK.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [info@hobo-web.co.uk](mailto:mail@therapyadvertising.com) or by post to Hobo-Web LTD, The Stables, 24 Patrick Street, Greenock, PA16 8NB, Scotland, UK.
