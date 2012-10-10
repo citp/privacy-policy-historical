@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzuki.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609071212id_/http%3A//www.suzuki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzuki.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010081905id_/http%3A//www.suzuki.com/privacy) for the most accurate reproduction.*
 
 # American Suzuki Motor Corporation
 
