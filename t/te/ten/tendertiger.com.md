@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tendertiger.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223182347id_/http%3A//www.tendertiger.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendertiger.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010192559id_/http%3A//www.tendertiger.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Terms and condition
+# Privacy Policy : www.TenderTiger.com
 
 |  **E-Procurement Technologies Limited (ETPL),** the owner of this website, has created this privacy statement in order to demonstrate our deep commitment to the privacy of our site, visitors and customers. As a company, we strictly adhere to all industry guidelines and we continually review our policy and procedures to ensure the safety and protection of our visitor and customer information. We request all the users of our website to go through this policy to understand how their personal & business information will be treated as they make full use of our services to their benefit. 
 
