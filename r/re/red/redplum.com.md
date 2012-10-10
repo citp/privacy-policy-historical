@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504092620id_/http%3A//www.redplum.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010203815id_/http%3A//www.redplum.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - RedPlum.com
 
@@ -35,11 +35,24 @@ In some of our email to you, we may use a "click-through URL." When you click on
 This allows us to measure relative consumer interest in the various areas of this website for product and service development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our site, to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We do not send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent. 
 
 **Contacting Us Regarding Your Personally Identifiable Information**  
-If you have submitted personally-identifiable information through a redplum.com website and would like to have that information deleted from our marketing databases, please contact us. We will then use reasonable efforts to remove your personally identifiable information from our files. You may also contact us through either of the above methods to request the personally identifiable information that redplum.com has collected about you through its websites or interactive advertisements. Redplum.com will use reasonable efforts to supply you with this information and correct any factual inaccuracies in this information. To correct inaccuracies in your personal contact information email us: [cs-alert@redplum.com](mailto:cs-alert@redplum.com). 
+If you have submitted personally-identifiable information through a redplum.com website and would like to have that information deleted from our marketing databases, please contact us. We will then use reasonable efforts to remove your personally identifiable information from our files. You may also contact us through either of the above methods to request the personally identifiable information that redplum.com has collected about you through its websites or interactive advertisements. Redplum.com will use reasonable efforts to supply you with this information and correct any factual inaccuracies in this information.
 
 **Use of Materials**  
-The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of redplum.com is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [cs-alert@redplum.com](mailto:cs-alert@redplum.com). 
+The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of redplum.com is strictly prohibited. 
+
+**Opting Out of Behavioral Advertising Targeting**  
+All of Valassis’ ad network partners are members of NAI, the [Network Advertising Initiative](http://www.networkadvertising.org/), a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies.
+
+If you prefer not to have online advertising tailored to a user interest profile, you may opt out at any time by one of the following methods:
+
+  * Opt out of targeting from all NAI member networks by visiting the Network Advertising Initiative at [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). This uses a cookie that blocks the use of any kind of targeting methodology. Once the opt out cookie is placed in the user profile all tracking and targeting methodologies are rendered inoperative. We absolutely do not utilize cookies, pixels or any other method of tracking or targeting when the opt out cookie is present in a user profile. Please note that as with any cookie, if you delete your cookies, change browsers, or use a different computer, you will need to opt out again. 
+
+  * Disable cookies in your browser (typically under Tools-Options-Privacy, but this varies between browser types and versions). Please note that cookies are used for a variety of reasons, not just targeting advertising, so this may adversely impact your online experience.
+
+
+
+It should also be noted that opting out does not mean you will not see advertisements online, but these advertisements will not be targeted based on your online user interest profile from us as an individual vendor.
 
 The redplum.com Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes. 
 
-Last Updated 12/27/07
+This policy was last updated on 5/10/12
