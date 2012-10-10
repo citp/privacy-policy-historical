@@ -1,0 +1,430 @@
+<!--The following is the downloaded HTML source of the eurodirectory.eu privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010073520id_/http%3A//eurodirectory.eu/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Free Web Directory&nbsp;- Privacy Statement  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/DirectHoo4.1/style/main.css">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+</head>
+<body>
+<script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.eurodirectory.eu/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<div class="header_bg">
+<div class="header_top">
+<div class="header_top_res">
+<p>
+<a href="/profile.php?mode=register" title="Register new user" class="btn-slide">Register</a>
+|
+<a href="/login.php" class="btn-slide">Login</a>&nbsp;
+</p>
+</div>
+</div>
+<div class="backgr">
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div style="padding:auto;">
+<div class="headerLogo">
+<a href="/"><img src="/templates/DirectHoo4.1/images/logo.png" border="0" alt="logo"></a>
+</div>
+<div id="searchBox" style="padding:0;">
+<form class="headerSearch" action="/index.php" method="get" id="search_form">
+
+<button type="submit" class="searchBtnCenter"></button>
+<input onfocus="javascript: if (this.value=='Search') this.value='';" type="text" value="Search" name="search">
+</form>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hMenu">
+<ul id="nav">
+<li style="height:58px; width: 9px; background: url('/templates/DirectHoo4.1/images/hmenu_left.png') no-repeat;">&nbsp;</li>
+<li>
+<img width="3" height="58" alt="" src="/templates/DirectHoo4.1/images/separ.png">
+</li>
+<li class="li_left">
+<a href="/submit.php" title="Submit your link to the directory">Submit Link</a>
+</li>
+<li>
+<img width="3" height="58" alt="" src="/templates/DirectHoo4.1/images/separ.png">
+</li>
+<li class="li_left">
+<a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a>
+</li>
+<li>
+<img width="3" height="58" alt="" src="/templates/DirectHoo4.1/images/separ.png">
+</li>
+<li class="li_left">
+<a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a>
+</li>
+<li>
+<img width="3" height="58" alt="" src="/templates/DirectHoo4.1/images/separ.png">
+</li>
+<li class="li_left">
+<a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a>
+</li>
+<li>
+<img width="3" height="58" alt="" src="/templates/DirectHoo4.1/images/separ.png">
+</li>
+<li class="li_left">
+<a href="/index.php?list=top" title="Browse most popular links">Top Hits</a>
+</li>
+<li>
+<img width="3" height="58" alt="" src="/templates/DirectHoo4.1/images/separ.png">
+</li>
+<li class="li_left">
+<a href="/contact.php" title="Contact directory owner">Contact</a>
+</li>
+<li>
+<img width="3" height="58" alt="" src="/templates/DirectHoo4.1/images/separ.png">
+</li>
+<li class="li_left">
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a>
+</li>
+<li>
+<img width="3" height="58" alt="" src="/templates/DirectHoo4.1/images/separ.png">
+</li>
+<li class="li_left">
+</li>
+<li style="height:58px; width: 9px; background: url('/templates/DirectHoo4.1/images/hmenu_right.png') no-repeat;">&nbsp;</li>
+</ul>
+</div>
+</div><div class="path"><a href="/" style="font-weight: bold;">EuroDirectory</a> <img src="/templates/DirectHoo4.1/images/pathArrow.gif" alt=" - "> Privacy Statement</div><div class="center1"><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Information Collection and Use </strong></p>
+<p><strong>EuroDirectory.eu </strong>is the sole owner of the information collected from this site, if any. We respect the privacy of every individual who visits our website. Information submitted by a visitor or buyer will not be shared, sold, reused in lists, or be used for any other purpose than to complete a transaction or address a customer service concern. This Privacy Policy outlines the information we might collect and how we may use any information collected. This Policy will also instruct you what to do if you do not want your personal information collected when you visit our website.</p>
+<p><strong>Collecting Information from Children</strong></p>
+<p>We have no intention of collecting any personal information from individuals under eighteen years of age. Where appropriate, we will specifically instruct children not to submit such information to our website. Should a child provide us with personally identifiable information, a parent or guardian of that child should contact us to request the child’s information be deleted from our records. We will use reasonable efforts to delete the child’s information from our existing files.</p>
+<p><strong>Personal Information</strong></p>
+<p>We will not collect your name, address, telephone number, or e-mail address unless you provide it to us voluntarily. Should you provide us with any of this information. However, we may attempt to collect such information if we believe your use of this website violates any laws or our terms of use. If you do not want this information collected, please do not submit it to us.</p>
+<p>If you have already submitted this information and would like for us to remove it from our records, please contact us. We will use reasonable efforts to delete your information from our files.</p>
+<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p>
+<p><strong>Cookies</strong></p>
+<p>A cookie is a piece of data stored on a visitor’s hard drive containing information about the visitor. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. A cookie is used on our site only to keep track of a user’s session. If a user rejects the cookie, they may still browse our site but may encounter other than intended results. Most Internet Browsers allows you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions to learn more about these functions.</p>
+<p><strong>Log Files </strong></p>
+<p>In some cases, we may collect additional not personally identifiable information. Examples of this type of information may include the type of Internet browser and operating system you are using, and the URL of the website from which you entered our website. We use IP addresses to analyze trends, track visitor’s movements, and gather broad demographic and geographic information for aggregate use.</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have any questions or comments about our privacy policy, please contact us.</p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div class="centerContainerB"></div></div><div class="rightContainer">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="17">
+<div class="box">
+<div class="boxTopCenter">Important Information</div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/privacy.html" title="Privacy Statement">Privacy Statement</a> 
+</li>
+<li>
+<a href="/legal.html" title="Legal Notice">Legal Notice</a> 
+</li>
+<li>
+<a href="/guidelines.html" title="Submission Guidelines">Submission Guidelines</a> 
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="20">
+<div class="box">
+<div class="boxTopCenter">My Account</div>
+<div class="boxMiddle">		 
+<ul class="boxPopCats">   <li>   <a href="/login.php" title="Log In to your account">Login</a>   </li> 
+<li>     <a href="/profile.php?mode=register" title="Register new user">Register</a> </li> 
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="5">
+<div class="box">
+<div class="boxTopCenter">Latest Featured Links</div>
+<div class="boxMiddle">			 <ul class="boxPopCats">
+<li>
+<a href="                                                /detail/link-317.htm" title="Read more about: LinkPal Directory">LinkPal Directory </a>
+</li>
+<li>
+<a href="                                                /detail/link-7.htm" title="Read more about: Reusable Transport Packaging">Reusable Transport Packaging</a>
+</li>
+<li>
+<a href="                                                /detail/link-6.htm" title="Read more about: Beverley Hyde | Prop Sytlist &amp; Set Design">Beverley Hyde | Prop Sytlis...</a>
+</li>
+<li>
+<a href="                                                /detail/link-5.htm" title="Read more about: RE Hyde Construction Ltd">RE Hyde Construction Ltd</a>
+</li>
+<li>
+<a href="                                                /detail/link-4.htm" title="Read more about: Sean Frederick Hyde">Sean Frederick Hyde</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="8">
+<div class="box">
+<div class="boxTopCenter">Latest Links</div>
+<div class="boxMiddle">		 <ul class="boxPopCats">
+<li>
+<a href="                                            /detail/link-349.htm" title="Read more about: Australia Directory Submission List">Australia Directory Submiss...</a>
+</li>
+<li>
+<a href="                                            /detail/link-348.htm" title="Read more about: Study Centres in Gurgaon">Study Centres in Gurgaon</a>
+</li>
+<li>
+<a href="                                            /detail/link-347.htm" title="Read more about: Auto Insurance">Auto Insurance</a>
+</li>
+<li>
+<a href="                                            /detail/link-346.htm" title="Read more about: Chess Opening Moves">Chess Opening Moves</a>
+</li>
+<li>
+<a href="                                            /detail/link-345.htm" title="Read more about: Gambling Uk">Gambling Uk</a>
+</li>
+<li>
+<a href="                                            /detail/link-344.htm" title="Read more about: Silver bracelets">Silver bracelets</a>
+</li>
+<li>
+<a href="                                            /detail/link-343.htm" title="Read more about: Online Casino Blackjack">Online Casino Blackjack</a>
+</li>
+<li>
+<a href="                                            /detail/link-342.htm" title="Read more about: Pet Friendly Hotels">Pet Friendly Hotels</a>
+</li>
+<li>
+<a href="                                            /detail/link-341.htm" title="Read more about: Concrete Floor Finishing">Concrete Floor Finishing</a>
+</li>
+<li>
+<a href="                                            /detail/link-340.htm" title="Read more about: Stainless Steel Product Supplier">Stainless Steel Product Sup...</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="11">
+<div class="box">
+<div class="boxTopCenter">Statistics</div>
+<div class="boxMiddle">		<ul class="boxStats">
+<li><strong>Active Links:</strong> 315</li>
+<li><strong>Pending Links:</strong> 8</li>
+<li><strong>Active Articles:</strong> 70</li>
+<li><strong>Pending Articles:</strong> 7</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
+</div><div style="clear: both; height: 30px;"></div></div><div style="clear: both; height: 30px; background-color:#0d59a6;margin-top: 10px;">&nbsp;</div><div style="clear: both; height: 1px; background-color:#000;">&nbsp;</div><div style="clear: both; height: 1px; background-color:#0d59a6;">&nbsp;</div><div class="footer"><div style="width: 990px; margin: 0 auto; text-align: left;"><p style="text-align:center">© 2012 <a href="http://eurodirectory.eu">EuroDirectory.eu</a> - All rights reserved | Power by <a title="Directory Script by PHP Link Directory" href="http://www.phplinkdirectory.com">PHPLD</a> - <a href="http://www.prchecker.info/" title="Free PageRank Checker" target="_blank"><img src="http://pr.prchecker.info/getpr.php?codex=aHR0cDovL2V1cm9kaXJlY3RvcnkuZXU=&amp;tag=3" alt="Free PageRank Checker" style="border:0;"></a></p></div></div></body></html>
