@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchwiz.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531052259id_/http%3A//searchwiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchwiz.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010122830id_/http%3A//searchwiz.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome To Searchwiz.com
 
