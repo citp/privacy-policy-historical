@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsteamblog.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619064452id_/http%3A//windowsteamblog.com/p/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsteamblog.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010081836id_/http%3A//windowsteamblog.com/p/privacy.aspx) for the most accurate reproduction.*
 
 # The Windows Blog
 
