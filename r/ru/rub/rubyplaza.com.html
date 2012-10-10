@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rubyplaza.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511012958id_/http%3A//www.rubyplaza.com/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rubyplaza.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010063308id_/http%3A//www.rubyplaza.com/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <title>Privacy Policy</title>
-<link rel="stylesheet" href="http://image0-rubylane.s3.amazonaws.com/0/rubyplaza.css?1336644019">
+<link rel="stylesheet" href="http://image0-rubylane.s3.amazonaws.com/0/rubyplaza.css?1349811717"> 
 <style type="text/css">
 	@media print {
 		div.advan_bronze div.printimg, div.advan_gold div.printimg, div.advan_silver div.printimg, div.advan_platinum div.printimg, div.advan_ div.printimg { display:block; }
@@ -20,7 +20,7 @@
 		div.navleft {display: none;}
 		.main1, #maincontent {float: none; margin: 0px; min-height: 100px; height: auto; width: auto !important;}
 		div#item-main-group {width:375px;}
-		div#item-img-main a img {float:left; margin:0px; width:300px;}
+		div#item-img-main a img {float:left; margin:0px; max-width:365px;}
 	}
 
 </style>
@@ -30,11 +30,10 @@
     height: 100%;
 }
 </style><![endif]-->
-<script type="text/javascript" async="" defer="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
-<link rel="stylesheet" href="http://image0-rubylane.s3.amazonaws.com/0/rubyplaza/jquery-ui-1.8.12.custom.css">	
+<script type="text/javascript" async="" defer="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script><link rel="stylesheet" href="http://image0-rubylane.s3.amazonaws.com/0/rubyplaza/jquery-ui-1.8.12.custom.css">	
 <script type="text/javascript" src="http://image0-rubylane.s3.amazonaws.com/0/jquery.form.js"></script>	
-<script type="text/javascript" src="http://image0-rubylane.s3.amazonaws.com/0/jquery.hoverIntent.minified.js"></script>
-<script type="text/javascript" src="http://image0-rubylane.s3.amazonaws.com/0/rubyplaza.js?1336644019"></script>
+<script type="text/javascript" src="http://image0-rubylane.s3.amazonaws.com/0/jquery.hoverIntent.minified.js"></script><script type="text/javascript" src="http://image0-rubylane.s3.amazonaws.com/0/jquery.placeholder.min.js"></script>
+<script type="text/javascript" src="http://image0-rubylane.s3.amazonaws.com/0/rubyplaza.js?1349811717"></script>
 <script type="text/javascript">  (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.defer = true;
     ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
@@ -57,8 +56,9 @@ $('.btnloading').click(function() {
 	
 
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="mainbody">
+
 
 <!--[if lt IE 7]><div style='clear: both; height: 59px; padding:0 0 0 15px; text-align: center; margin: 0 auto; position: relative;'> <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div> <![endif]--> 
 
@@ -84,30 +84,30 @@ $('.btnloading').click(function() {
 	</li><li><a class="topnav" href="http://www.rubyplaza.com/ni/info/myaccount.html">My Account</a>
 	</li><li><a class="topnav" href="http://www.rubyplaza.com/ni/info/watchlist_view.html">Wish List</a>
 	</li><li><a class="topnav loginuser" href="http://www.rubyplaza.com/ni/info/loginuser.html?returnurl=http%3a%2f%2fwww%2erubyplaza%2ecom%2finfo%2fprivacy" id="signinout">Sign In</a>
-        <div id="dialogContainer"></div>
+	<div id="dialogContainer"></div>
 
 <script type="text/javascript">
- $(document).ready(function(){
-        $('#signinout').click(function(event){
-		var signinout_title = 'Sign Out';
-		if ($(this).html() != signinout_title) {
-			var signinout_tcl = 'loginuser.html';
-			var signinout_title = 'Sign In';
-			event.preventDefault();
-			$('#dialogContainer').load(
-				'/ni/dialog/' + signinout_tcl + '',
-				{'returnurl':'http://www.rubyplaza.com/info/privacy'}
-			).dialog({
-				title: signinout_title,
-				position: ['center',10],
-				hide: 'scale',
-				autoOpen:false,
-				width: 600,
-				modal: true
-			}).dialog('open');
-		}
-         });
- });
+	$(document).ready(function(){
+		$('#signinout').click(function(event){
+			var signinout_title = 'Sign Out';
+			if ($(this).html() != signinout_title) {
+				var signinout_tcl = 'loginuser.html';
+				var signinout_title = 'Sign In';
+				event.preventDefault();
+				$('#dialogContainer').load(
+					'/ni/dialog/' + signinout_tcl + '',
+					{'returnurl':'http://www.rubyplaza.com/info/privacy'}
+				).dialog({
+					title: signinout_title,
+					position: ['center',10],
+					hide: 'scale',
+					autoOpen:false,
+					width: 600,
+					modal: true
+				}).dialog('open');
+			}
+		});
+	});
 </script>
 
 		</li></ul>
@@ -194,7 +194,7 @@ if ($('span#withinsearch').length != 0) {
 		
 <span class="crumb">
 <a href="http://www.rubyplaza.com">Ruby Plaza Home</a>  &gt; 
-<a class="nav" href="http://www.rubyplaza.com/info/helpdesk.html">Help Desk</a> &gt; <a class="nav" href="http://www.rubyplaza.com/info/safetyprivacy.html">Safety &amp; Privacy</a>  &gt; 
+<a class="nav" href="http://www.rubyplaza.com/info/helpdesk.html">Help Desk</a>  &gt; 
 
 <span class="hilite">Privacy Policy</span></span>
 	</div>
@@ -202,7 +202,7 @@ if ($('span#withinsearch').length != 0) {
 
 </div>
 
-<div id="maincontent">
+<div id="maincontent" data-role="content">
 	<div class="main1">
 		
 		
@@ -324,21 +324,18 @@ respect to your privacy rights under California law, you may contact us using th
 		</p><div class="floatbuster"></div>
 	</div>
 	
-
-	<div class="navleft navleft_rubyplaza">
+<div class="navleft navleft_rubyplaza">
 	
 	
 	
-	<p class="lane_heading lane_heading_info">Help Desk</p><div class="lnav_shoptools"><a href="http://www.rubyplaza.com/info/helpdesk.html">Help Desk</a><div style="margin: 0px 0px 8px 8px;"><a href="http://kb.rubyplaza.com/category.php?catID=21">New Visitors</a><a href="http://kb.rubyplaza.com/category.php?catID=19">Ordering</a><a href="http://kb.rubyplaza.com/question.php?ID=87">Returns</a><a href="http://www.rubyplaza.com/info/safetyprivacy.html">Safety &amp; Privacy</a><a href="http://www.rubyplaza.com/ni/info/myaccount.html">My Account</a><div style="margin: 0px 0px 8px 8px;"><a href="http://www.rubyplaza.com/ni/info/accountuser.html">Edit Member Info</a><a href="http://www.rubyplaza.com/ni/info/passwordchange.html">Change Password</a><a href="http://www.rubyplaza.com/ni/info/changeaddr.html">Edit Address Book</a><a href="http://www.rubyplaza.com/ni/info/mailinglists.html">Subscriptions</a><a href="http://www.rubyplaza.com/ni/info/accountactivity.html">Account Activity</a><div style="margin: 0px 0px 8px 8px;"><a href="http://www.rubyplaza.com/ni/info/accountdetails/,ihstatus=buy.html">Purchase Orders</a><a href="http://www.rubyplaza.com/ni/info/accountdetails/,ihstatus=offer.html">Make an Offer</a><a href="http://www.rubyplaza.com/ni/info/accountdetails/,ihstatus=coffer.html">Countered Offers</a><a href="http://www.rubyplaza.com/ni/info/accountdetails/,ihstatus=quest.html">Questions</a></div></div><a href="http://www.rubyplaza.com/info/foryou.html">For You</a><div style="margin: 0px 0px 8px 8px;"><a href="http://fashion.rubyplaza.com">Fashion &amp; Accessories</a><a href="http://rpjewelry.rubyplaza.com">Jewelry</a></div><a href="http://www.rubyplaza.com/info/foryourhome.html">For Your Home</a><div style="margin: 0px 0px 8px 8px;"><a href="http://homedecor.rubyplaza.com">Home Decor</a><p></p></div><a href="http://www.rubyplaza.com/info/sell.html">Sell</a><a href="http://www.rubyplaza.com/court/piazza.html">Piazza</a><a href="http://www.rubyplaza.com/info/aboutus.html">About Ruby Lane, Inc.</a><a href="http://www.rubyplaza.com/info/comments.html">Email Ruby Plaza</a></div></div>
-
+	<p class="lane_heading lane_heading_info">Help Desk</p><div class="lnav_shoptools"><a href="http://www.rubyplaza.com/info/helpdesk.html">Help Desk</a><div style="margin: 0px 0px 8px 8px;"><a href="http://kb.rubyplaza.com/category.php?catID=21">New Visitors</a><a href="http://kb.rubyplaza.com/category.php?catID=19">Ordering</a><a href="http://kb.rubyplaza.com/question.php?ID=87">Returns</a><div style="margin: 0px 0px 8px 8px;"><a href="http://www.rubyplaza.com/info/rp.html">Return Policy</a></div><a href="http://www.rubyplaza.com/ni/info/myaccount.html">My Account</a><div style="margin: 0px 0px 8px 8px;"><a href="http://www.rubyplaza.com/ni/info/accountuser.html">Edit Member Info</a><a href="http://www.rubyplaza.com/ni/info/passwordchange.html">Change Password</a><a href="http://www.rubyplaza.com/ni/info/changeaddr.html">Edit Address Book</a><a href="http://www.rubyplaza.com/ni/info/mailinglists.html">Subscriptions</a><a href="http://www.rubyplaza.com/ni/info/accountactivity.html">Account Activity</a><div style="margin: 0px 0px 8px 8px;"><a href="http://www.rubyplaza.com/ni/info/accountdetails/,ihstatus=buy.html">Purchase Orders</a><a href="http://www.rubyplaza.com/ni/info/accountdetails/,ihstatus=offer.html">Make an Offer</a><a href="http://www.rubyplaza.com/ni/info/accountdetails/,ihstatus=coffer.html">Countered Offers</a><a href="http://www.rubyplaza.com/ni/info/accountdetails/,ihstatus=quest.html">Questions</a></div></div><a href="http://www.rubyplaza.com/info/foryou.html">For You</a><div style="margin: 0px 0px 8px 8px;"><a href="http://fashion.rubyplaza.com">Fashion &amp; Accessories</a><a href="http://rpjewelry.rubyplaza.com">Jewelry</a></div><a href="http://www.rubyplaza.com/info/foryourhome.html">For Your Home</a><div style="margin: 0px 0px 8px 8px;"><a href="http://homedecor.rubyplaza.com">Home Decor</a><p></p></div><a href="http://www.rubyplaza.com/info/sell.html">Sell</a><a href="http://www.rubyplaza.com/court/piazza.html">Piazza</a><a href="http://www.rubyplaza.com/info/safetyprivacy.html">Safety &amp; Privacy</a><div style="margin: 0px 0px 8px 8px;"><a href="http://www.rubyplaza.com/info/privacy.html">Privacy Policy</a><a href="http://www.rubyplaza.com/info/termsofuse.html">Terms of Use</a><a href="http://www.rubyplaza.com/info/copyright.html">Copyright &amp; Trademark Statement</a><a href="http://www.rubyplaza.com/info/dmca.html">Copyright Infringement Policy</a></div><a href="http://www.rubyplaza.com/info/aboutus.html">About Ruby Lane, Inc.</a><div style="margin: 0px 0px 8px 8px;"><a href="http://www.rubyplaza.com/info/mediakit.html">Media Kit</a></div><a href="http://www.rubyplaza.com/info/comments.html">Email Ruby Plaza</a></div></div>
 	
-	</div>
-	
+	</div>	
 
 	<div class="floatbuster"></div>
 </div>
 
-<div id="footer">
+<div id="footer" data-role="footer" class="">
 	
 		<div id="footer-util">
                 <a href="http://www.rubyplaza.com/info/aboutus.html">About Ruby Lane, Inc.</a>•
@@ -350,9 +347,25 @@ respect to your privacy rights under California law, you may contact us using th
                 <a href="http://kb.rubyplaza.com/">FAQ Knowledge Base</a>
 		</div>
 		<div class="floatbuster"></div>
-		<p><a href="http://www.rubylane.com/info/copyright.html">Copyright</a> © 1998-2012 Ruby Lane Inc. ® <br><i>All Rights Reserved.</i> • <a class="nav" href="http://www.rubyplaza.com">Ruby Plaza</a> • Powered by <a class="nav" href="http://www.rubylane.com">Ruby Lane ®</a>
+		<p><a href="http://www.rubylane.com/info/copyright.html" data-ajax="false">©</a> 1998-2012 <a href="http://www.rubylane.com/info/aboutus.html">Ruby Lane Inc.</a> ® <i>All Rights Reserved.</i> • <a class="nav" href="http://www.rubyplaza.com">Ruby Plaza</a> • Powered by <a class="nav" href="http://www.rubylane.com">Ruby Lane ®</a>
 		</p><div id="rubyplaza_holiday_c"></div>
-		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script><script type="text/javascript">
+				adroll_adv_id = "E73PA3AAS5AQLNEPIDZUOY";
+				adroll_pix_id = "ZFWBPAVSKNCJ3DHCH4TDJ3";
+				(function () {
+				var oldonload = window.onload;
+				window.onload = function(){
+					__adroll_loaded=true;
+					var scr = document.createElement("script");
+					var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+					scr.setAttribute('async', 'true');
+					scr.type = "text/javascript";
+					scr.src = host + "/j/roundtrip.js";
+					((document.getElementsByTagName('head') || [null])[0] ||
+					document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+					if(oldonload){oldonload()}};
+				}());
+				</script>
 		
 </div>
 
@@ -361,7 +374,7 @@ respect to your privacy rights under California law, you may contact us using th
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-3725559-2']);	
 	_gaq.push(['_setDomainName', '.rubyplaza.com']);	
-	_gaq.push(['_trackPageview', ''/info/privacy'']);	
+	_gaq.push(['_trackPageview', '/info/privacy']);	
 </script>
 
 
