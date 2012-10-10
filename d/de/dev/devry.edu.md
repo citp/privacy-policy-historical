@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624030342id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010120249id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | DeVry University
 
@@ -6,7 +6,7 @@
 
 #### 1) General.
 
-DeVry University, Inc. and its related companies or affiliates ("DVU" or "we") respect the privacy of every individual who visits our web sites or responds to our promotions. DeVry intends to act reasonably to protect your privacy, but obviously cannot guaranty security against "hackers" or other issues beyond our control. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on DVU web sites, unless otherwise posted.
+DeVry University, Inc. and its related companies or affiliates ("DVU" or "we") respect the privacy of every individual who visits our websites or responds to our promotions. DeVry intends to act reasonably to protect your privacy, but obviously cannot guaranty security against "hackers" or other issues beyond our control. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on DVU websites, unless otherwise posted.
 
 #### 2) Information Collected From You.
 
@@ -32,7 +32,7 @@ Generally we do not give or sell your information, including your personally ide
 
 #### 5) Children (under age 17).
 
-All persons age 17 or under must ask for and receive their parents' or guardian's permission before sending any information about themselves to us or to anyone online or over the Internet. Parents or guardians of persons under age 17 must send us an email indicating their approval of the child's participation in any of the services/resources that require collection of personal information on our web sites.
+All persons age 17 or under must ask for and receive their parents' or guardian's permission before sending any information about themselves to us or to anyone online or over the Internet. Parents or guardians of persons under age 17 must send us an email indicating their approval of the child's participation in any of the services/resources that require collection of personal information on our websites.
 
 #### 6) Parents/Guardians.
 
@@ -40,7 +40,7 @@ Any information collected by DeVry from children is used only for the sole purpo
 
 #### 7) Third-party websites.
 
-Links to third-party web sites on DeVry sites are provided solely as a convenience to you. If you use these links, you will leave the DeVry site. DeVry does not review all third-party sites, nor does it control or assume responsibility for the content or privacy policies of any of these sites. Thus, DeVry does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access a third-party site linked to a DeVry web site, you do so at your own risk.
+Links to third-party websites on DeVry sites are provided solely as a convenience to you. If you use these links, you will leave the DeVry site. DeVry does not review all third-party sites, nor does it control or assume responsibility for the content or privacy policies of any of these sites. Thus, DeVry does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access a third-party site linked to a DeVry website, you do so at your own risk.
 
 #### 8) How can you correct your information?
 
