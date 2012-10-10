@@ -1,0 +1,1025 @@
+<!--The following is the downloaded HTML source of the mongolab.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010055343id_/https%3A//mongolab.com/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><meta content="MongoLab is a cloud-based database provider that hosts MongoDB databases on various cloud providers such as Amazon EC2 and the Rackspace Cloud." name="Description">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Privacy Policy | MongoLab</title>
+    
+
+
+
+<!-- General -->
+<meta content="hosted mongodb, hosted mongo, mongodb hosting, mongodb host, mongo host, mongo hosting, cloud mongodb, cloud mongo, mongodb cloud, objectlabs, hosted nosql database, mongodb api, mongodb rest api, mongodb gui, mongodb" name="Keywords">
+<link href="/css/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<!-- OLABS  -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/objectlabs/olabs-util.js" type="text/javascript" encoding="utf-8"></script>
+
+<!-- JSON -->
+<script src="/js/json-util/json2.js" type="text/javascript" encoding="utf-8"></script>
+
+<!-- YUI -->
+<link href="/css/yui/cssreset/reset-min.css" rel="stylesheet" type="text/css">
+<link href="/css/yui/cssfonts/fonts-min.css" rel="stylesheet" type="text/css">
+<link href="/css/yui/cssgrids/grids-min.css" rel="stylesheet" type="text/css">
+
+<!-- jQuery -->
+<script src="/js/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+
+<!-- jQuery UI -->
+<link href="/css/jquery-ui/smoothness/jquery-ui-1.8.custom.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-ui/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
+
+<!-- jQuery plugins -->
+<script src="/js/jquery-plugins/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/js/jquery-plugins/jquery.safeEnter.min.js" type="text/javascript"></script>
+<script src="/js/jquery-plugins/jquery.curvycorners.packed.js" type="text/javascript"></script>
+
+<!-- Other Javascript packages -->
+<script src="/js/codemirror/codemirror.min.js" type="text/javascript" encoding="utf-8"></script>
+
+<!-- Google web fonts -->
+<link href="//fonts.googleapis.com/css?family=Questrial" rel="stylesheet" type="text/css">
+
+<!-- Custom CSS -->
+<link href="/css/main.css" rel="stylesheet" type="text/css">
+
+<!-- Custom Javascript -->
+<script src="/js/objectlabs/resource.js" type="text/javascript"></script>
+
+<!-- More custom Javascript -->
+<script type="text/javascript" encoding="utf-8">
+
+  //
+  // When the DOM is fully loaded...
+  //
+  $(document).ready(function() {
+
+
+      //
+      // If title and/or meta description doesn't exist, add the default one(s)
+      //
+      jQuery.fn.exists = function(){return jQuery(this).length>0;}
+      if (!$("head meta[name='Description']").exists()) {
+        $("head").prepend("<meta content='MongoLab is a cloud-based database provider that hosts MongoDB databases on various cloud providers such as Amazon EC2 and the Rackspace Cloud.' name='Description' />");
+      }
+      if (!$("head title").exists()) {
+        $("head").prepend("<title>MongoLab - MongoDB Hosting | Cloud Hosted MongoDB</title>");
+      };
+      //alert ($("head meta[name='Description']").attr("content"));
+
+      //
+      // Round corners
+      //
+      // NOTE: jquery.curvycorners does not work with input tags in IE, 
+      // so jQuery UI's ui-corner-all class was used
+      //
+      $("input[type='text'], input[type='password'], textarea")
+	  .addClass("ui-corner-all");
+      $(".account").addClass("roundedCorners");
+      $("#modalLoadingIndicator").addClass("roundedCorners");
+      $("#keyMetadata").addClass("roundedCorners");
+      $("#secondaryDataWarning").addClass("roundedCorners");
+      $(".connectionInfo").addClass("roundedCorners");
+      $(".generalHelp").addClass("roundedCorners");
+      $(".specificHelp").addClass("roundedCorners");
+      $(".inlineHelp").addClass("roundedCorners");
+
+      // 
+      // Apply the 'pointer' cursor to rows that don't have the 'nolink' class
+      //
+      $("tr[class='even']").addClass("link");
+      $("tr[class='odd']").addClass("link");
+
+      // 
+      // Remove the onclick attribute from rows that have the 'nolink' class
+      //
+      $("tr.nolink").removeAttr("onclick");
+
+      //
+      // Apply the 'help' cursor to anything with a mouseover specified
+      //
+      $("*[onmouseover]").addClass("help");
+
+      //
+      // Have all external links  go to new tab
+      //
+      $("a[href^='http:']").attr("target", "_blank");
+      
+      //
+      // Give focus to the first visible input tag
+      //
+      $("input:visible:first").focus();
+
+      //
+      // Listen for the 'Enter' key inside of all forms
+      //
+      $("form").not(".noSubmitOnEnter")
+	  .listenForEnter().bind("pressedEnter", function() {
+
+	  // if the form is valid
+	  if ($(this).valid()) {
+
+	      // click on all 'a' tags with class 'button' in the form
+	      $("form a.button").click();
+          $("form input.submit").click();
+
+              // click on the first button in any visible jQuery UI
+	      // Dialog button pane - the first button will always be the
+	      // submit button
+	      $(".ui-dialog-buttonpane:visible button:first").click();
+          }
+      });
+
+      //
+      // Listen for the 'Enter' key inside of all message dialogs
+      //
+      $(".ui-dialog.msgDialog").listenForEnter().bind("pressedEnter", function() {
+        $(".ui-dialog .ui-dialog-buttonpane:visible button:first").click();
+      });
+
+      //
+      // Allow tabbing to occur to buttons
+      //
+      $("a.button").attr("tabindex", "0");
+
+      //
+      // Unhighlight the submit buttons in the following two cases where
+      // pressing the 'Enter' key does not submit: 
+      // (1) delete confirmation, (2) HTTP POST
+      //
+      $("button:contains('Delete')").addClass("noSubmitOnEnter");
+      $("button:contains('Issue POST')").addClass("noSubmitOnEnter");
+
+      //      
+      // Define a general MongoDB custom validator
+      //      
+      $.validator.addMethod("mongoDBName", function( value, element ) {      
+	  var result = this.optional(element) || ( value.length < 80  && (/[$."]+/.test(value) == false) );
+	  return result;
+      }, "The name you choose must have fewer than 80 chracters and cannot have double quotes.  In addition, $ and . are reserved characters in MongoDB.");
+  
+      //
+      // Define a database name custom validator
+      //
+      $.validator.addMethod("databaseName", function( value, element ) {
+	  var result = this.optional(element) || ( value.length < 64  && /^([a-z0-9_-])*$/.test(value) );
+	  return result;
+      }, "The name you choose must be lowercase.  It also must have fewer than 64 characters and cannot have any spaces or special characters (hyphens and underscores are OK) in it.");
+
+      //
+      // Define a collection name custom validator
+      //
+      $.validator.addMethod("collectionName", function( value, element ) {
+	  var result = this.optional(element) || ( value.length < 80 && (value.indexOf('system.') != 0) && (value.indexOf('objectlabs-system.') != 0) && /^([A-Za-z_])+([A-Za-z0-9_-]|\.)*$/.test(value) );
+	  return result;
+      }, "The name you choose must begin with a letter or underscore and must not begin with 'system.' or 'objectlabs-system.'.  It also must have fewer than 80 characters and cannot have any spaces or special characters (hyphens, underscores and periods are OK) in it.");
+
+      // 
+      // Override the 'password' validator
+      //
+      $.validator.addMethod("password", function( value, element ) {
+	  var result = this.optional(element) || 
+	      value.length >= 6 && /\d/.test(value) && /[a-z]/i.test(value);
+	  if (!result) {
+	      element.value = "";
+	  }
+	  return result;
+      }, "Your password must be at least 6 characters long and contain at least one number and one character.");
+
+      //
+      // Round to 3 decimal places
+      // 
+      $(".round").round();
+
+      //
+      // Add commas to numbers; also, columns that are numbers don't wrap
+      //
+      $(".number").commas();
+      $(".number").attr("nowrap", true);
+
+    // apply expand effect to connection info boxes
+    $(".connectionInfo").filter( function() {
+      var contentWidth = $("#connectionInfoContent").width();
+      var currentWidth = $(this).width();
+      return contentWidth > currentWidth;
+    } ).each( function() {
+      $(this).append('<div id="horizontalFade"></div>');
+      $(this).hover(
+        function() {
+          var contentWidth = $(this).find("span:first").width();
+          $(this).css("border-style", "solid");
+          $(this).stop().animate(
+             { "width": contentWidth },
+             { "complete" : function() { $(this).find("#horizontalFade").hide(); } }
+          );
+        },
+        function() {
+          $(this).css("border-style", "dotted");
+          $(this).after('<div class="connectionInfo" style="padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0; height: 0;"></div>');
+          var normalWidth = $(this).next().width();
+          var $fader = $(this).find("#horizontalFade");
+          var $this = $(this);
+          $(this).next().remove();
+          if( $(this).width != normalWidth ) {
+            $fader.show();
+            $this.stop().animate( { "width": normalWidth } );
+          }
+        }
+      );
+    });
+
+    // add Delete button tooltips
+    //$("button.delete").append('<div class="tooltip">Delete</div>');
+    // add Edit button tooltips
+    //$("button.edit").append('<div class="tooltip">Edit</div>');
+
+    // add beta content
+    $(".beta").html("beta");
+
+  }); // END $(document).ready()
+
+  //
+  // Constants
+  // 
+  var JSON_DISPLAY_SIZE_LIMIT = 300000;
+  var JSON_TRUNCATE_SIZE = 30000;
+
+  // 
+  // Initialize a jQuery UI Modal Message Dialog 
+  // (just an 'OK' button)
+  // 
+  function initMsgDialog(dialogId, width, height, okFunction) {
+    $(dialogId).dialog({
+      autoOpen: false,
+      modal: true,
+      buttons: {
+        OK: function() {
+          if(okFunction) {
+            okFunction();
+          } else {
+            $(this).dialog('close');
+          }
+        }
+      },
+      width: width,
+      height: height,
+      maxWidth: 1000
+    });
+
+    $(dialogId).parent().addClass("msgDialog");
+  }
+
+  // 
+  // Initialize a jQuery UI Modal Message Dialog 
+  // ('Yes'/'No')
+  // 
+  function initYesNoDialog(dialogId, width, height, noFunction, yesFunction) {
+    $(dialogId).dialog({
+      autoOpen: false,
+      modal: true,
+      buttons: {
+        Yes: function() {
+          if(yesFunction) {
+            yesFunction();
+          }
+          $(this).dialog('close');
+        },
+        No: function() {
+          if(noFunction) {
+            noFunction();
+          }
+          $(this).dialog('close');
+        }
+      },
+      width: width,
+      height: height,
+      maxWidth: 1000
+    });
+
+    $(dialogId).parent().addClass("yesNoDialog");
+  }
+
+
+  //
+  // Initialize a jQuery UI Modal Form Dialog w/ a CodeMirror JSON editor
+  // 
+  function initEditorDialog(dialogId, editor, hiddenInputName, submitLabel) {
+      var buttons = {};
+
+      buttons[submitLabel] = function () {
+
+          // if form is valid, show the loading indicator
+          if ($(this).valid()) {
+            $("div.loadingIndicator").show();
+          }
+
+          // set the form's hidden input to be the contents of the editor's
+          // textbox
+          var json = $(dialogId).data(editor).getCode();
+          $("input[name='"+hiddenInputName+"']").val(json);
+
+          // validate the JSON; if valid, submit the form
+          try {
+            var jsonObj = JSON.parse(json);
+          }
+          catch (e) {
+
+            // if JSON is invalid, remove the loading indicator and display
+            // the JSON Validation Error modal dialog (defined in header.jsp)
+            $("div.loadingIndicator").hide();
+            openDialog("#jsonErrorDialog", null);
+            return;                              
+          }
+
+          $(this).submit();
+      };
+      
+      buttons["Cancel"] = function () {
+          $(".message.error").remove();
+	  $(dialogId).dialog('close');
+      };
+      
+      $(dialogId).dialog( {
+          autoOpen: false,
+          modal: true,
+          buttons: buttons
+      });
+  }
+
+  //
+  // Initialize a jQuery UI Modal Form Dialog
+  // with custom width & height
+  // 
+  function initDialog(dialogId, submitLabel, width, height) {
+
+      var buttons = {};
+
+      buttons[submitLabel] = function () {
+          if ($(this).valid()) {
+            $("div.loadingIndicator").show();
+          }
+          
+          $(this).submit();
+      };
+      
+      buttons["Cancel"] = function () {
+          $(".message.error").remove();
+	  $(dialogId).dialog('close');
+      };
+
+      $(dialogId).dialog( {
+          autoOpen: false,
+          modal: true,
+          buttons: buttons,
+          width: width,
+          height: height,
+          position: 'center'
+      });
+  }
+  function createPlainDialog(dialogId, width, height) {
+     $(dialogId).dialog( {
+         autoOpen: false,
+         modal: true,
+         width: width,
+         height: height,
+         position: 'center'
+    });
+  }
+  //
+  // Add loading indicator wheel to dialogs
+  // NOTE: this must be called AFTER the dialog is initialized
+  //
+  function addLoadingIndicator() {
+    $(".ui-dialog .ui-dialog-buttonpane:not(:has(div.loadingIndicator))").
+	  append("<div class='loadingIndicator'></div>");
+  }
+
+  //
+  // Validate the specified form
+  // 
+  function validateForm(formId) {
+      $(formId).validate({
+	  onkeyup: false,
+	  messages: {
+		password2: {
+	  	    equalTo: "Please enter the same password as above."
+		}
+	  }
+      });
+  }
+
+  //
+  // Open the specified jQuery UI Dialog
+  // 
+  function openDialog(dialogId, e) {
+
+      if (e != null) {
+	  if (!e) var e = window.event;
+          e.cancelBubble = true;
+	  if (e.stopPropagation) {
+	      e.stopPropagation();
+          }
+      }
+
+      $(dialogId).dialog('open');
+      
+      $("input:visible:first").focus();
+  }
+
+  //
+  // Open the specified jQuery UI Dialog and CodeMirror JSON editor
+  // 
+  function openDefaultEditorDialog(dialogId, textAreaId, defaultJSONStr, e) {
+
+      openDialog(dialogId, e);
+
+      openCodeMirrorEditor(dialogId, textAreaId, defaultJSONStr, true, "273px", "100px"); 
+  }
+
+  function openEditorDialog(dialogId, textAreaId, defaultJSONStr, width, height, e) {
+
+      openDialog(dialogId, e);
+
+      openCodeMirrorEditor(dialogId, textAreaId, defaultJSONStr, true, width, height); 
+  }
+
+  //
+  // Open the CodeMirror JSON editor
+  // 
+  function openCodeMirrorEditor(editorId, textAreaId, defaultJSONStr, prettyFlag, width, height) {
+      if ($(editorId).data(textAreaId)) {
+        $(editorId+" .CodeMirror-wrapping").remove();
+      }
+
+      var jsonStr = $("#"+textAreaId).val();
+      if (jQuery.trim(jsonStr) == "") {
+        jsonStr = defaultJSONStr;
+      }
+      if (prettyFlag) {
+        jsonStr = prettifyJSONStr(jsonStr);
+      }
+
+      $(editorId).data(textAreaId, CodeMirror.fromTextArea(textAreaId, {
+          content: jsonStr,
+	  width: width,
+	  height: height,
+          parserConfig: {json: true},
+	  stylesheet: "/css/CodeMirror.css",
+	  basefiles: ["/js/codemirror/codemirror_base.min.js"],
+	  autoMatchParens: true,
+          indentUnit: 4,
+          initCallback: function (ed) {
+            initCallback();
+            if (ed.win.addEventListener) {
+              ed.win.addEventListener('focus', function() {removeContentOnFocus(ed);}, false);
+            }
+            else { // IE does not have addEventListener
+              ed.win.attachEvent('onfocus', function() {removeContentOnFocus(ed);});
+            }
+            ed.win.editor = ed;
+          }
+      }));
+      
+  }
+
+  function removeContentOnFocus(ed) {
+    // empty by default
+  }
+
+  function initCallback() {
+    // empty by default
+  }
+  
+  //
+  // Return a pretty JSON string given a JSON string
+  //
+  function prettifyJSONStr(jsonStr) {
+
+    var prettyJSON = "";
+    try {
+      if (jsonStr != null && jQuery.trim(jsonStr) != "") {
+         prettyJSON = JSON.stringify(JSON.parse(jsonStr), null, "    ");
+      }
+    }
+    catch (e) {
+      return jsonStr;
+    }
+
+    return prettyJSON;
+  }
+
+  //
+  // Return a pretty JSON string given a JSON object
+  //
+  function prettifyJSONObj(jsonObj) {
+    var prettyJSON = "";
+
+    try {
+      if (jsonObj != null) {
+         prettyJSON = JSON.stringify(jsonObj, null, "    ");
+      }
+    }
+    catch (e) { alert("prettifyJSONObj -" + e); }
+
+    return prettyJSON;
+  }
+
+  //
+  // Show the specified help box
+  //
+  function showHelp (topic, event) {
+    var $help = $(".specificHelp:has(h1:contains("+topic+"))");
+    if($help.css("opacity") == 0 || $help.css("display") == "none") {
+      positionSpecificHelp($help, event);
+    }
+    var numShown = $(".specificHelp.showing").length;
+    $help.addClass("showing");
+    $help.css("z-index", numShown * 2 + 100);
+    var dimmerId = 'generalHelpDimmer'+$(".specificHelp").index($help);
+    if($("#"+dimmerId).length == 0) {
+      // add the generalHelpDimmer
+      $(".generalHelp:first").before('<div class="generalHelpDimmer" id="'+dimmerId+'" style="display:none"></div>');
+      $("#"+dimmerId).css("z-index", numShown * 2 - 1 + 100);
+      $("#"+dimmerId).css("height", $(document).height()-120);
+    }
+    $("#"+dimmerId).stop().fadeTo("normal", 1);
+    $help.stop().fadeTo("normal", 1);
+  }
+
+  function bindSpecificHelp( $jquerySet, topic ) {
+    $jquerySet.addClass('help');
+    $jquerySet.hover(
+      function(event) {
+        showHelp(topic, event);
+      },
+      function() {
+        hideHelp(topic);
+      }
+    );
+  }
+
+  //
+  // Hide the specified help box
+  //
+  function hideHelp (topic) {
+    var $help = $(".specificHelp:has(h1:contains("+topic+"))");
+    $help.removeClass("showing");
+    $help.stop().fadeTo("normal", 0, function() { $help.hide() });
+    var dimmerId = 'generalHelpDimmer'+$(".specificHelp").index($help);
+    $("#"+dimmerId).stop().fadeTo("normal", 0, function() {
+      // remove dimmer
+      $("#"+dimmerId).remove();
+    });
+  }
+
+  function positionSpecificHelp($help, event) {
+    var top = event.pageY - Math.round($help.height() / 2);
+    var min = $(window).scrollTop() + 10;
+    var max = $(window).scrollTop() + $(window).height() - $help.height() - 40 - 10;
+    if(max < 0) {
+      max = 0;
+    }
+    if(top > max) {
+      top = max;
+    }
+    if(top < min) {
+      top = min;
+    }
+    $help.css("top", top);
+  }
+
+  function showInlineHelp(id) {
+    var $div = $("#"+id);
+    if(!$div.hasClass("showing")) {
+      hideInlineHelp();
+      $div.addClass("showing");
+      $div.slideDown();
+    }
+  }
+
+  function hideInlineHelp() {
+    var $helps = $(".inlineHelp.showing");
+    $helps.removeClass("showing");
+    $helps.slideUp();
+  }
+
+  function closeInlineHelp() {
+    var $helps = $(".inlineHelp.showing");
+    $helps.removeClass("showing");
+    $helps.hide();
+  }
+
+  function centerDiv(selector) {
+    $(selector).css('top', Math.max(0, (($(window).height() - $(selector).outerHeight()) / 2) + $(window).scrollTop()) + "px");
+    $(selector).css('left', Math.max(0, (($(window).width() - $(selector).outerWidth()) / 2) + $(window).scrollLeft()) + "px");
+  }
+
+  //
+  // Open the specified Modal Loading Indicator (defined in header.jsp)
+  //
+  function openModalLoadingIndicator(formId, title) {
+    // if the specified form is valid
+    if ($(formId).valid()) {
+
+      // show the mask
+      $('#modalMask').show();
+      $('#modalMask').fadeTo("fast", 0.6);
+
+      // set the specified title
+      $("#modalLoadingIndicator .title").html(title);
+
+      // center the modal loading indicator
+      centerDiv("#modalLoadingIndicator");
+      $("#modalLoadingIndicator").show();
+    }
+  }
+
+  function closeModalLoadingIndicator() {
+	  $('#modalMask').hide();
+      $("#modalLoadingIndicator").hide();
+  }
+
+  //
+  // Function to add commas to numbers
+  //  
+  $.fn.commas = function() { 
+    return this.each(function(){ 
+      $(this).text( $(this).text().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,") ); 
+    })
+  }
+
+  //
+  // Function to round to 3 decimal places
+  //  
+  $.fn.round = function() { 
+    return this.each(function(){ 
+      $(this).text( $(this).text(parseFloat($(this).text()).toFixed(3)));
+    })
+  }
+
+  var CURRENT_PATH_INFO = [];
+  
+    
+    
+      
+      
+    
+  
+  
+  
+
+  function getEntityUrl(entityType) {
+    var url = "";
+    var documentId = null;
+
+    for(var i in CURRENT_PATH_INFO) {
+      var k = CURRENT_PATH_INFO[i]["type"];
+      var name = CURRENT_PATH_INFO[i]["name"];
+      if(k != "document") {
+        url += '/' + k + 's/' + name;
+      } else {
+        documentId = name;
+      }
+
+      if(k == entityType || (k == "connection" && CURRENT_PATH_INFO[i]["connectionType"] == entityType)) {
+        break;
+      }
+    }
+
+    if(documentId) {
+      url += '/'+documentId;
+    }
+
+    return url;
+  }
+
+  function getApiUrl(resourceType) {
+    
+      
+        return "https://api.mongolab.com/api/1"+getEntityUrl(resourceType);
+      
+      
+    
+  }
+
+  var PAGE_ERRORS = {};
+
+    </script>
+
+
+
+
+
+
+    <style type="text/css">
+
+      h4 {
+        text-decoration: none;
+        font-weight: bold;
+      }
+      
+    </style>
+  </head>
+
+  <body>
+
+    
+      
+    
+
+
+
+
+
+<div id="header">
+
+  <div id="logoIcon" title="MongoDB Hosting" class="link">
+    <span id="logoText">API</span>
+  </div>
+
+  <!-- if accountNav param is true -->
+  
+
+    <!-- if not logged in -->
+    
+      <ul id="accountNavTop">
+        
+          <li class="first"><a href="/login/">Login</a></li>
+        
+        <li><a href="http://support.mongolab.com" target="_blank">Support</a></li>
+        <li><a href="http://blog.mongolab.com" target="_blank">Blog</a></li> 
+        <li><a href="/about/products/#/pricing">Pricing</a></li>
+        <li class="last"><a href="/about/products/">Products</a></li>
+      </ul>
+    
+    <!-- if logged in -->
+    
+     
+
+  <div id="headerDivider" class="clearer"></div>
+
+  <!-- Modal Loading Indicator -->
+  <div id="modalLoadingIndicator" style="display: none;" class="roundedCorners">
+    <div>
+      <div class="title">[This is the title]</div>
+      <div class="loadingIndicatorBig"></div>
+    </div>
+  </div>
+  <div id="modalMask"></div>
+
+  <!-- Modal JSON Validation Error Dialog -->
+  <div id="jsonErrorDialog" title="JSON Validation Error" style="display: none;">
+    <span class="ui-icon ui-icon-alert"></span>
+    We encountered an error while trying to parse your JSON.  Please check your syntax and try again.
+  </div>
+
+  <script type="text/javascript">
+
+    <!-- Set logo's link; this link is different for the API pages -->
+    $("#logoIcon").click(function() {
+      location.href="/";
+    });
+
+    <!-- Google Analytics -->
+    
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-307557-3']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+
+    //
+    // Mailto specified address and include username, if available
+    //
+    function mailto(email) {
+        var email = "MongoLab Support <support@mongolab.com>";
+        var username = '';
+        var subject = "Message from "+username;
+        if (username == null || username == "") {
+            location.href="mailto:"+email;
+        }
+        else {
+            location.href="mailto:"+email+"?subject="+subject;
+        }
+    }
+
+    function openCurrentApiView(endpoint) {
+      var params = getUrlParams();
+
+      delete params["pageNum"];
+      delete params["pageSize"];
+      params.view = 'admin';
+      params.apiKey = '';
+
+      if(endpoint) {
+        endpoint = "/"+endpoint;
+      }
+
+      window.open(getApiUrl()+(endpoint || '')+serializeUrlParams(params));
+    }
+  </script>
+
+</div>
+
+
+
+    <div id="body" class="legal">
+      <div id="colWrapper">
+        <div id="mainCol">
+          <div id="ef1524ef-7360-42e3-a746-8128371f26b4" style="margin: 15px 15px 10px 10px; width: 143px; float:right;">
+            <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/ObjectLabs-Corporation/asc?rid=ef1524ef-7360-42e3-a746-8128371f26b4"></script>
+            <a href="//privacy.truste.com/privacy-seal/ObjectLabs-Corporation/validation?rid=0b3d2e88-4f2d-4b57-b108-b3e56f301569" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/ObjectLabs-Corporation/seal?rid=0b3d2e88-4f2d-4b57-b108-b3e56f301569" alt="TRUSTe European Safe Harbor certification"></a>
+          </div>
+          <h1>Privacy Policy</h1>
+          <p><em>Last Revised: May 17, 2012</em></p>
+          <p>
+            ObjectLabs Corporation (henceforward "MongoLab", "we" or "us") understands that users care about their privacy and how their personal information is used and shared. As such, we at MongoLab have a firm commitment to the privacy and protection of our users.
+          </p>
+          <p>
+            This privacy policy applies to <a href="https://mongolab.com">mongolab.com</a>, owned and operated by ObjectLabs Corporation. This policy describes how we collect and use the personal information you provide on our web site.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  By visiting our site, you are consenting to the practices described in this privacy policy.
+          </p>
+          <p>
+            Please also visit our <a href="https://mongolab.com/legal/terms/">Terms of Service</a> which establishes the use, disclaimers and limitations of liability governing the users of our website.  Capitalized terms that are not defined in this document have been defined in our Terms of Service.
+          </p>
+          <p>
+            ObjectLabs Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers only information that is collected through this web site, mongolab.com, and its sub domains, and does not cover information that may be collected through our database management and hosting service.
+          </p>
+          <p>
+            TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please send an email to <a href="mailto:support@mongolab.com">support@mongolab.com</a>.  If you are nto satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>.
+          </p>
+          <p>ObjectLabs Corporation also complies with the U.S. - E.U. Safe Harbor Framework and U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <a href="http://www.export.gov/safeharbor" target="_blank">http://www.export.gov/safeharbor</a>.
+          </p>
+          <h3>Our guiding principles</h3>
+
+          <ol>
+            <li>We only collect necessary information about you</li>
+            <li>We do not share personally identifiable information except for obvious reasons</li>
+            <li>We will not spam you</li>
+          </ol>
+
+          <h3>What information do we collect about you?</h3>
+          <p>
+            <em>User-provided information—</em> MongoLab only collects personally identifiable information that users have voluntarily provided to us. We only ask for information that's necessary for you to access, use and pay for our Service. This information may include, but is not limited to, names, email addresses, mailing addresses and credit card numbers. If you correspond with us by email, we may retain the content of your email messages and our responses so that we can provide you with better customer service. We also store information that you have indirectly provided to us via your Content and Application(s).
+
+          </p>
+          <p>
+            <em>Log file information—</em> Information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.  We use this information, which does not identify individual users, to analyze trends, to administer the site, to track averaged usersâ movements around the site and to gather demographic information about our user base as a whole.
+
+          </p>
+          <h3>What do we use your information for?</h3>
+          <p>We use your personal information only to provide you with the expected features and functionality of the Service and respond to customer service requests. By providing MongoLab your email address you consent to our using the email address to send you critical Service notices, including any notices required by law, in lieu of communication by postal mail.
+
+          </p><p>
+            We may also use your email address to send you other messages, including company news, updates, related product or service information, etc. Out of respect for your privacy, you may choose to stop receiving these messages by following unsubscribe instructions included in these emails or you can email us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.
+          </p>
+          <h3>When would we share your information?</h3>
+          <p>
+            MongoLab does not sell, trade, rent or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you (e.g. to process your credit card transactions or provide customer support services).  These companies are authorized to use your personal information only as necessary to provide these services to us. If we do this, such third parties' use of your information will be bound by this privacy policy.
+          </p>
+          <p>
+            We may store personal information in locations outside the direct control of MongoLab (e.g. on servers at hosting providers).
+          </p>
+          <p>
+            We may also disclose your personal information:
+          </p>
+          <ul>
+            <li>as required by law, such as to comply with a subpoena, or similar legal process
+            </li><li>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+            </li><li>if ObjectLabs Corporation is involved in a merger, acquisition, or sale of all or a portion of its assets (you would be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information),
+            </li><li>to any other third party with your prior consent to do so
+          </li></ul>
+          <p>
+            If you invite another user to share your Application (e.g. by adding an additional account user), we will share the Application and associated Content with that user. </p>
+          <h3>How can you access your information?</h3>
+          <p>
+            If your personally identifiable information changes, or if you no longer desire our Service, you may correct, update, amend or remove it by making the change on our member information page or by contacting us by email, telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.</p>
+          <p>
+            We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+          </p>
+          <h3>What tracking technologies do you utilize?</h3>
+          <p>
+            We use cookies on our site.  A cookie is a small text file that is stored on a userâs computer for record-keeping purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+          </p>
+          <p>
+            We use both session ID cookies and persistent cookies.  Session cookies are required for most of the functionality of our web site and for web tools such as our administrative application. These cookies are used to implement application authentication, allowing us to implement secure access to your data. A session ID cookie expires when you close your browser.
+          </p>
+          <p>
+            A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browserâs âhelpâ file. Persistent cookies enable us to track and target the interests of our users and to improve our site. For security reasons, we do not use persistent cookies for application authentication.
+          </p>
+
+          If you reject cookies, you may still use our site, but your ability to use some key areas of our site, such as our administrative application tools, will be disabled.
+          <p></p>
+          <p>
+            We also partner with a third party ad network to either display advertising on our web site or to manage our advertising on other sites.  Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" target="_blank">here</a>.  Please note this does not opt you out of being served advertising; you will continue to receive generic ads.
+          </p>
+          <p>
+            Network Advertising Initiative ("NAI") is a coalition of over 80 online advertising companies committed to complying with tough self-regulatory standards that establish and reward responsible business and data management practices. We are in compliance with NAI's Self-Regulatory Code of Conduct. To opt out of an NAI member's behavioral advertising program, click <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a>.
+          </p>
+          <h3>How do we protect your information?</h3>
+          <p>
+            The security of your personal information is important to us.  On those pages where our users can register for our service and/or log-in, we encrypt the transmission of that information using secure socket layer technology (SSL).
+          </p>
+          <p>
+            We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our web site, you can email us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.
+          </p>
+          <h3>What else should you know about?</h3>
+          <h4>Links to 3rd Party Sites</h4>
+          <p>
+            Our web site includes links to other web sites whose privacy practices may differ from those of MongoLab. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
+          </p>
+          <h4>Blog / Support Forum</h4>
+          <p>
+            Our web site offers a publicly accessible blog and a community forum in the customer support section of our site. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+          <h4>Testimonials</h4>
+          <p>
+            We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial.  If you wish to update or delete your testimonial, you can contact us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.</p>
+          <h4>Single Sign-On</h4>
+          <p>
+            In the customer support area of our site, you can log in using sign-in services such as "Sign in Using Google". These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services of this nature give you the option to sync and share information with others within your network.
+          </p>
+          <h4>Social Media Widgets</h4>
+          <p>
+            Certain portions of our web site, such as the blog, include Social Media Features, such as the Facebook Like button or Twitter âTweetâ button.  These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+          </p>
+
+          <h3>Changes to our privacy policy</h3>
+          <p>
+            We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this web site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+          </p>
+          <h3>Questions or comments?</h3>
+          <p>
+            If you have any questions, concerns or comments regarding this privacy policy, please do not hesitate to contact us. We're serious about making you feel comfortable about your security and privacy with us.
+          </p>
+          <h3>Contact us</h3>
+          <p>
+            ObjectLabs Corporation<br>
+            660 York St Suite 101<br>
+            San Francisco, CA 94110
+          </p>
+          (415) 758-2748<br>
+          <a href="mailto:support@mongolab.com">support@mongolab.com</a>
+        </div> <!-- END #colWrapper -->
+      </div> <!-- END #mainCol -->
+    </div> <!-- END #body -->
+
+    
+
+
+<div class="clearer"></div>
+
+<div id="footer">
+
+  <div id="copyright">
+    <span>© 2012 ObjectLabs Corporation
+  </span></div>
+
+  <div id="footerNav">
+    <div>
+      <a href="/about/">About Us</a><span class="divider"></span>
+      <a href="/legal/terms/">Terms of Service</a><span class="divider"></span>
+      <a href="/legal/privacy/">Privacy Policy</a><span class="divider"></span>
+      <a href="http://mongolab.org" title="mongolab.org" target="_blank">Open-source Projects</a><span class="divider"></span>
+      <a href="http://status.mongolab.com" title="Status page for MongoLab services" target="_blank">MongoLab Status</a>
+    </div>
+    <div>
+    </div>
+  </div>
+
+  <div style="margin-top: 32px;">
+    <a href="http://mongodb.org" target="_blank">
+      <img src="/css/images/PoweredMongoDBblue50.png" height="40" width="105" alt="MongoDB" title="MongoDB"></a>
+  </div>
+  <div style="margin-top: -37px; margin-left: 20px; float: right; padding-top: 0px;">
+    <a href="//www.export.gov/safeharbor" title="U.S.-EU &amp; U.S.-Swiss Safe Harbor" target="_blank"><img style="border: none" height="35" src="/css/images/safe-harbor-mark.jpg" alt="U.S.-EU &amp; U.S.-Swiss Safe Harbor certification"></a>
+  </div>
+  <div id="ef1524ef-7360-42e3-a746-8128371f26b4" style="margin-top: -37px; float: right;">
+    <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/ObjectLabs-Corporation/asc?rid=ef1524ef-7360-42e3-a746-8128371f26b4"></script>
+    <a href="//privacy.truste.com/privacy-seal/ObjectLabs-Corporation/validation?rid=0b3d2e88-4f2d-4b57-b108-b3e56f301569" title="TRUSTe European Safe Harbor certification" target="_blank">
+      <!--<img style="border: none" height="35" src="//privacy-policy.truste.com/privacy-seal/ObjectLabs-Corporation/seal?rid=0b3d2e88-4f2d-4b57-b108-b3e56f301569" alt="TRUSTe European Safe Harbor certification"/></a>-->
+      <img style="border: none" height="35" src="/css/images/truste-mark.jpg" alt="TRUSTe European Safe Harbor certification"></a>
+  </div>
+
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://snapabug.appspot.com":"http://www.snapengage.com") + "/snapengage-mongolab.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapengage-mongolab.js" type="text/javascript"></script><script type="text/javascript">
+SnapABug.setButton("https://mongolab.com/css/images/button-snapengage.gif");
+
+SnapABug.addButton("43487a64-584c-49c5-a8c9-1766b6316043","0","252px");
+
+
+</script>
+
+
+
+
+
+
+  
+
+
+</div></body></html>
