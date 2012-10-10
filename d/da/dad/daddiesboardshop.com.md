@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625020937id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010095108id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Daddies Board Shop - Longboard Skateboard & Snowboard Store - Privacy Policy
 
@@ -25,5 +25,9 @@ We reserve the right to monitor, and disclose to, government officials or law en
 ---  
   
 [](http://www.stellaservice.com/profile/4168)   
+  
 [](https://web.archive.org/daddies-awards.aspx)  
+
+
+  
 
