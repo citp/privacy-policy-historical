@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the dakkadakka.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510055912id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dakkadakka.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010081000id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
-<title>DakkaDakka - Privacy Policy | You can never have too much Dakka.</title>
+<title>DakkaDakka - Privacy Policy | Our forums 'run hot'.</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="AUTHOR" content="Dakkadakka.com">
 <meta name="COPYRIGHT" content="Copyright (c) by Dakkadakka.com">
@@ -39,6 +39,7 @@ headerlist[headercount++]=["2", "X", "Switch Theme", "#", "id='themeswl' onclick
 headerlist[headercount++]=["X", "2", "Switch Theme", "#", "id='themeswl' onclick=\"return simpleoverlay(this, \'themesw\', \'bottomleft\');\""];
 
 </script>
+
 </head>
 <body marginheight="0" topmargin="0" vspace="0" marginwidth="0" leftmargin="0" hspace="0" style="margin-left:0; margin-right:0" onload="onloadfunc()"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 799px; left: -800px; top: 0px;"></div>
 <script type="text/javascript" src="/s/j/wz_tooltip.compressed1.js"></script>
@@ -54,7 +55,7 @@ headerlist[headercount++]=["X", "2", "Switch Theme", "#", "id='themeswl' onclick
 </tr>
 <tr>
  <td colspan="2" bgcolor="#333333" valign="bottom" class="OtherTabs">
-  <table border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td align="left"><a href="/dakkaforum/forums/list.page" class="navlink">Forum</a><a href="/gallery/" class="navlink">Gallery</a><a href="/wiki/en/Articles" class="navlink">Articles</a><a href="/wiki/en/Army_Profiles" class="navlink"><nobr>Army Profiles</nobr></a><a href="/core/store_finder.jsp" class="navlink"><nobr>Store Finder</nobr></a><a href="/core/inat_faq.jsp" class="navlink"><nobr>INAT FAQ</nobr></a><script language="JavaScript">drawHeaderList(1,"mt")</script><a href="/core/services.jsp" class="navlink"><nobr>Services</nobr></a><a href="/dakkaforum/user/login.page" class="navlink"><nobr>Login</nobr></a><a href="/dakkaforum/user/insert.page" class="navlink" rel="nofollow"><nobr>Join Us!</nobr></a><div class="popupfield" id="themesw"><table border="0"><tbody><tr><td class="title">Switch Theme:</td></tr><tr><td class="form"><form name="themeswf" id="themeswf" style="display:inline;"><select name="theme"><option value="mt">Dakka 2012 - Dark/Orange</option><option value="classic2">Classic - Grey/Gold</option><option value="new">Worksafe - Green/White</option><option value="mobile">Mobile Friendly (lite dakka 2012)</option><option value="print">Print friendly (less colour)</option></select><br><input type="button" value="GO" onclick="return switchActiveStyleSheetNew();"></form></td></tr></tbody></table></div></td>
+  <table border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td align="left"><a href="/dakkaforum/forums/list.page" class="navlink">Forum</a><a href="/gallery/" class="navlink">Gallery</a><a href="/wiki/en/Articles" class="navlink">Articles</a><a href="/core/video.jsp" class="navlink">Video</a><a href="/wiki/en/Army_Profiles" class="navlink"><nobr>Army Profiles</nobr></a><a href="/core/store_finder.jsp" class="navlink"><nobr>Store Finder</nobr></a><a href="/core/inat_faq.jsp" class="navlink"><nobr>INAT FAQ</nobr></a><script language="JavaScript">drawHeaderList(1,"mt")</script><a href="/core/services.jsp" class="navlink"><nobr>Services</nobr></a><a href="/dakkaforum/user/login.page" class="navlink"><nobr>Login</nobr></a><a href="/dakkaforum/user/insert.page" class="navlink" rel="nofollow"><nobr>Join Us!</nobr></a><div class="popupfield" id="themesw"><table border="0"><tbody><tr><td class="title">Switch Theme:</td></tr><tr><td class="form"><form name="themeswf" id="themeswf" style="display:inline;"><select name="theme"><option value="mt">Dakka 2012 - Dark/Orange</option><option value="classic2">Classic - Grey/Gold</option><option value="new">Worksafe - Green/White</option><option value="mobile">Mobile Friendly (lite dakka 2012)</option><option value="print">Print friendly (less colour)</option></select><br><input type="button" value="GO" onclick="return switchActiveStyleSheetNew();"></form></td></tr></tbody></table></div></td>
 <script language="JavaScript">
  if (thiscss=="mt"||thiscss=="mobile") {
   document.write('<td></td>');
@@ -66,6 +67,8 @@ headerlist[headercount++]=["X", "2", "Switch Theme", "#", "id='themeswl' onclick
 </script><td></td>
 </tr></tbody></table></td></tr>
 <script language="JavaScript">
+ var doBigBanner=false;
+ if (readCookie("nopromo")==1) doBigBanner=false;
  if (thiscss=="mt"||thiscss=="mobile") {
   document.write('<tr><td colspan="2" valign="bottom" class="subnav">');
   if (hasdropdownmenu()) {
@@ -75,8 +78,15 @@ headerlist[headercount++]=["X", "2", "Switch Theme", "#", "id='themeswl' onclick
   }
   drawHeaderList(2,"mt");
   document.write('</span></td></tr>');
+  if (doBigBanner) { document.write('<tr id="bannerpromo"><td colspan="2" valign="bottom" class="headerMessageTd" align="center"><iframe src="/core/promo.jsp" height="80" width="99%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></td></tr>'); }
  } else {
-  document.write('<tr><td colspan="2" valign="bottom" class="headerMessageTd"><div id="headerMessage">Welcome to Dakka!</div></td></tr>');
+  if (doBigBanner) { document.write('<tr id="bannerpromo"><td colspan="2" valign="bottom" class="headerMessageTd" align="center"><iframe src="/core/promo.jsp" height="80" width="99%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></td></tr>'); }
+  else document.write('<tr><td colspan="2" valign="bottom" class="headerMessageTd"><div id="headerMessage">Welcome to Dakka!</div></td></tr>');
+ }
+
+ function hidebanner(bannerval) {
+  createCookie("nopromo",bannerval,365);
+  document.getElementById("bannerpromo").style.display="none";
  }
 </script><tr><td colspan="2" valign="bottom" class="subnav"> <a href="#" class="OtherTabs" id="themeswl" onclick="return simpleoverlay(this, 'themesw', 'bottom');"><nobr>Switch Theme</nobr></a> </td></tr>
 <tr>
@@ -101,7 +111,7 @@ headerlist[headercount++]=["X", "2", "Switch Theme", "#", "id='themeswl' onclick
 <script language="JavaScript">
 <!--
 function validateregform() {
- document.lformregister.nhdsjkfdsa.value="daifdihoshh";
+ document.lformregister.nhdsufdsa.value="dazihoshh";
  return true;
 }
 //-->
@@ -110,19 +120,7 @@ function validateregform() {
    </tr>
    <tr>
     <td class="NormalBold"><h2>Popular Forum Posts</h2>
-<a href="/dakkaforum/posts/list/233422.page">Your best conversion model</a><br><span class="gensmall">2012-05-09 10:49:49<br></span><a href="/dakkaforum/posts/list/403994.page">Necron rumor &amp; pics summary in 1st post (now with 2nd wave pics!)</a><br><span class="gensmall">2012-05-01 12:17:12<br></span><a href="/dakkaforum/posts/list/289929.page">Rebuilding the Mantis Warriors (5/9: MoTF WIP 5)</a><br><span class="gensmall">2012-05-10 04:12:46<br></span><a href="/dakkaforum/posts/list/222318.page">LBursley's WIP</a><br><span class="gensmall">2012-04-25 13:40:50<br></span><a href="/dakkaforum/posts/list/205219.page">4 Warhounds Mega-Build *5-3 Update* Gold test</a><br><span class="gensmall">2012-05-06 09:41:48<br></span><a href="/dakkaforum/posts/list/233990.page">:: Legion at Rhisienne :: (Artistic endeavors and musings)</a><br><span class="gensmall">2012-05-01 10:41:12<br></span><a href="/dakkaforum/posts/list/208707.page">Jade Vessel - an =I=munda Blog</a><br><span class="gensmall">2012-05-03 14:02:12<br></span><a href="/dakkaforum/posts/list/342213.page">Imperial steampunk....  knight of rivets with sewlled chest</a><br><span class="gensmall">2012-05-10 03:02:30<br></span>
-<br>
-    </td>
-   </tr>
-   <tr>
-    <td class="NormalBold"><h2>Top Users This Week</h2>
-1. <a href="/dakkaforum/user/profile/34168.page">Amaya</a> (340 posts)<br>2. <a href="/dakkaforum/user/profile/6646.page">Morathi's Darkest Sin</a> (320 posts)<br>3. <a href="/dakkaforum/user/profile/51344.page">BlapBlapBlap</a> (308 posts)<br>4. <a href="/dakkaforum/user/profile/32169.page">Rogue Wolves</a> (284 posts)<br>5. <a href="/dakkaforum/user/profile/9217.page">KingCracker</a> (282 posts)<br>
-<br>
-    </td>
-   </tr>
-   <tr>
-    <td class="NormalBold"><h2>Top Users This Month</h2>
-1. <a href="/dakkaforum/user/profile/51344.page">BlapBlapBlap</a> (1808 posts)<br>2. <a href="/dakkaforum/user/profile/6646.page">Morathi's Darkest Sin</a> (1251 posts)<br>3. <a href="/dakkaforum/user/profile/24297.page">Viktor von Domm</a> (1236 posts)<br>4. <a href="/dakkaforum/user/profile/46864.page">Deadshot</a> (1233 posts)<br>5. <a href="/dakkaforum/user/profile/29408.page">Melissia</a> (1002 posts)<br>6. <a href="/dakkaforum/user/profile/32169.page">Rogue Wolves</a> (909 posts)<br>7. <a href="/dakkaforum/user/profile/15358.page">Vitruvian XVII</a> (903 posts)<br>8. <a href="/dakkaforum/user/profile/48594.page">dsteingass</a> (885 posts)<br>9. <a href="/dakkaforum/user/profile/27391.page">purplefood</a> (855 posts)<br>10. <a href="/dakkaforum/user/profile/722.page">Kanluwen</a> (828 posts)<br>
+<a href="/dakkaforum/posts/list/233422.page">Your best conversion model</a><br><span class="gensmall">2012-10-08 06:01:09<br></span><a href="/dakkaforum/posts/list/289929.page">Rebuilding the Mantis Warriors</a><br><span class="gensmall">2012-10-06 19:19:44<br></span><a href="/dakkaforum/posts/list/399826.page">The Necromunda Project:  -=]_,=- It's all about Fallout now</a><br><span class="gensmall">2012-10-10 06:16:32<br></span><a href="/dakkaforum/posts/list/342213.page">Imperial steampunk...update: green with new update on greenness 09.10.2012</a><br><span class="gensmall">2012-10-10 08:01:07<br></span><a href="/dakkaforum/posts/list/476112.page">CSM Roundup</a><br><span class="gensmall">2012-10-01 00:08:08<br></span><a href="/dakkaforum/posts/list/284081.page">MaxMini.eu previews and new releases (OCT 3 - Ash Junkers heads and Anti-riot gear - pg52)</a><br><span class="gensmall">2012-10-03 13:19:35<br></span><a href="/dakkaforum/posts/list/356404.page">INFINITY - The Ongoing News and Rumors Thread</a><br><span class="gensmall">2012-10-09 22:14:27<br></span><a href="/dakkaforum/posts/list/315548.page">Quest for Perfection, Rogue Trader/necromunda Blog. Now With Extra Genestealer Hybrids</a><br><span class="gensmall">2012-10-08 14:57:40<br></span>
 <br>
     </td>
    </tr>
@@ -171,7 +169,7 @@ google_ad_height = 200;
 <form id="lformregister" accept-charset="UTF-8" name="lformregister" action="/dakkaforum/jforum.page" method="post" onsubmit="return validateregform();">
 <input type="hidden" name="action" value="insertSave">
 <input type="hidden" name="module" value="user">
-<input type="hidden" name="nhdsjkfdsa" value="">
+<input type="hidden" name="nhdsufdsa" value="">
 <table border="0">
 <tbody><tr>
  <td>Username</td>
@@ -264,7 +262,7 @@ Dakka Dakka welcomes your comments regarding this Statement of Privacy. If you b
  </tr>
  <tr>
   <td align="right" class="OtherTabs" bgcolor="#333333">
-   <table border="0"><tbody><tr><td><b>Dakka 5.36</b> - <a href="/core/privacy.jsp" rel="nofollow" class="OtherTabs">Privacy Policy</a> - <a href="/core/legal.jsp" rel="nofollow" class="OtherTabs">Legal Stuff</a> - <a href="/core/forum_rules.jsp" rel="nofollow" class="OtherTabs">Forum Rules</a></td></tr></tbody></table>
+   <table border="0"><tbody><tr><td><b>Dakka 5.37</b> - <a href="/core/privacy.jsp" rel="nofollow" class="OtherTabs">Privacy Policy</a> - <a href="/core/legal.jsp" rel="nofollow" class="OtherTabs">Legal Stuff</a> - <a href="/core/forum_rules.jsp" rel="nofollow" class="OtherTabs">Forum Rules</a></td></tr></tbody></table>
   </td>
  </tr>
 </tbody></table>
