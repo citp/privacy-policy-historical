@@ -1,772 +1,350 @@
-<!--The following is the downloaded HTML source of the pennystocks.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604035421id_/http%3A//www.individualinvestor.com/help/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pennystocks.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010154702id_/http%3A//www.pennystocks.com/privacy) for the most accurate reproduction.-->
 
-<html><head><script src="http://www.wordplanet.com/pub/individualinvestor.js">/*AADCOM.com Home of the Megastitial*/</script>
-
-<script language="javascript"><!--
-
-// start options block
-var myURL='http://media.fastclick.net/w/click.here?gid=435&v=1.7&cache=1';
-var myDomain=''; // domain of site ex. "mydomain.com" [optional]
-var myWidth='720';
-var myHeight='300';
-var myDelay='0'; // pop-under delay in seconds
-var myMinTimeOut='480'; // pop-under frequency specified in minutes
-var myCookieChk='yes'; // yes(check if cookies enabled) or no
-// end options block
-
-{var dz=document;
- var dt=new Date();
- var cck=myCookieChk;
- if(dz.domain.indexOf(myDomain)==-1){
-  myDomain='';
- }
- if(cck=='yes'){
-  dz.cookie='h2=o; path=/;';
- }
- if(myDomain.length>0){
-  myDomain='domain=.'+myDomain+'; ';
- }
- var ck=dz.cookie;
- var id=ck.indexOf('yum_yum');
- if(id<=0&&(cck=='no'||(cck=='yes'&&ck.indexOf('2=o')>0))){
-   setTimeout('fastClickpopWindow()',myDelay*1000);
- }
- function fastClickpopWindow(){
-  var pop='width='+myWidth+',height='+myHeight+',titlebar=1,toolbar=1,location=1,';
-  pop+='menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1';
-  if(parseFloat(navigator.appVersion)>=5){
-   var myTI=screen.height/2-myHeight/2;
-   var myLI=screen.width/2-myWidth/2;
-	pop+=',top='+myTI+',left='+myLI;
-  }
-  var xw=window.open("",'cool', pop, true);
-  xw.blur();
-  xw.location=myURL;
-  xw.opener.focus();
-  dt.setTime(dt.getTime()+(myMinTimeOut*60*1000));
-  dz.cookie='oatmeal_ck=yum_yum; path=/; '+myDomain+'expires='+ dt.toGMTString();
- }
-}
-/* © 2001 Fastclick.com All Rights Reserved.*/     // -->
-</script>
-<!-- FASTCLICK.COM NETWORK POPUNDER v1.7 for Winstar (Individual Investor) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head><meta http-equiv="content-type">
 
 
 
+<title>Privacy | 100% Free Penny Stocks Newsletter: Get Alerts on Stocks Before They go up!</title>
+<meta name="keywords" content="pennystocks, pennystock, free pennystocks newsletetrs,free penny stocks alerts, best pennystocks">
+<meta name="description" content="PennyStocks.com has come in to level the playing field and we have succeeded. This is our way of supporting the " occupy="" wallstreet"="" movement.="" now="" everyone="" can="" get="" the="" edge="" when="" trading="" penny="" stocks="" thanks="" to="" pennystocks.com."="">
+
+    <link rel="shortcut icon" href="/css/images/favicon.ico">
+    <link rel="stylesheet" href="/css/style.css" type="text/css" media="all">
+    <link href="http://fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
+    <!--<script src="http://www.pennystocks.com/js/506dc01e4fba2.min.js.gz" type="text/javascript"></script>-->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="/js/functions.js"></script>
+    <script language="JavaScript" type="text/javascript">
 
 
+        
+        var listIdForm = '2479382';
+        var listIdFB = '2479382';
+        var listIdPopup = '2525534';
 
-	<!-- Serv: 0 : Redesign01 -->
+        function addEmail(form)
+        {
+            var email;
+            var listId;
 
+            //Processing Code
+            if (form == 'top') $('#submit-top').attr("value","Processing...").css('background-image','url(/css/images/biggreysubmit.png)'); else if (form == 'bottom') $('#submit-bottom').attr("value","Processing...").css('background-image','url(/css/images/smallgreysubmit.png)'); else if (form == 'popup') $('#submit-popup').attr("value","Processing...").css('background-image','url(/css/images/biggreysubmit.png)');
 
+            if (form == 'top') email = $("#email1").val(); else if (form == 'bottom') email = $("#email2").val(); else if (form == 'popup') email = $("#email3").val();
 
-<script language="javascript">
-<!--
-function launch(frm)
-{
-	var varURL = frm.url[frm.url.selectedIndex].value
+            if (form == 'top' || form == 'bottom') listId = listIdForm; else if (form == 'popup') listId = listIdPopup;
 
-	if (varURL.indexOf('/quotes/company.asp?ticker=') == -1)
-	{
-		var varText  = frm.ticker.value
-
-		if(varText.indexOf(',') > -1 )
-		{
-			alert('We are sorry, only quote lookups allow multiple tickers. \nPlease change the drop down option to Quote(s), or enter only one ticker.')
-			return false;
-		}
-	}
-	if (frm.ticker.value.length > 0)
-	{
-		location.href = frm.url[frm.url.selectedIndex].value + frm.ticker.value;
-	}
-	return false;
-}
-
-function ShowPromo(promoName,newUrl,winWidth,winHeight,probability) {
-	if (document.cookie.indexOf(promoName) == -1) {
-		var Temp = 100 * Math.random();
-		if (Temp <= probability) {
-			window.open(newUrl,promoName,"height=" + winHeight + ",width=" + winWidth + ",location=no,menubar=no,status=no")
-		}
-	}
-}
-
-//-->
-</script>
-
-	<meta name="resource-type" content="document">
-	<meta name="description" content="Individual Investor Online provides financial research and small cap stock analysis for personal portfolio management.  Watch the Magic 25 for 'Insider Ideas for the Rest of Us'">
-	<meta name="keywords" content="individual investor proprietary analysis personal finance insider ideas exclusive research market original financial portfolio management business reports stock indi smallcap 500 small cap magic 25 industry advice news mutual funds jonathan steinberg steve taub individual investor proprietary analysis personal finance insider ideas exclusive research market original financial portfolio management business reports stock indi smallcap 500 small cap magic 25 industry advice news mutual funds jonathan steinberg steve taub individual investor proprietary analysis personal finance insider ideas exclusive research market original financial portfolio management business reports stock indi smallcap 500 small cap magic 25 industry advice news mutual funds jonathan steinberg steve taub">
-	<meta name="distribution" content="Global">
-	<meta name="copyright" content="1998 Individual Investor Group">
-	<meta name="author" content="Individual Investor Group">
-	<meta name="robots" content="All">
-	<meta name="rating" content="General">
-
-
-<!--sGoodBrowser:True:--><!--sBrowser:Default:--><!--iBrowserVersion:0:-->
-	<style type="text/css">
-		
-		.select-grey {background-color:#003399;font-family:arial;font-weight:bold;font-size:7pt;color:#ffffff }
-		.buttonTextwhite { font-family: Arial,Verdana,Tahoma,sans serif; font-size:9pt; font-weight: bold; cursor: hand; color: #FFFFFF; text-decoration: none }
-		.buttonTextblack { font-family: Arial,Verdana,Tahoma,sans serif; font-size:9pt; font-weight: bold; cursor: hand; color: #000000; text-decoration: none }
-		.navitemhot {font-family:arial;font-size:9pt;font-weight:bold;text-decoration:none;color:#ffffff;background-color:#0066FF }
-		.navitemnot {font-family:arial;font-size:9pt;font-weight:bold;text-decoration:none;color:#ffffff;background-color:#003399 }
-		.select {font-family:tahoma,arial;font-size:8pt;color:#0033CC;font-weight:bold;background-color:#DAF1F3 }
-
-
-	</style>
-
-  
-	<title>Individual Investor </title>
-</head>
-
-    <body bgcolor="#FFFFFF" vlink="#999999" link="#CC0000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" "="">
-
-<base target="_top">
-
-
-	<table width="760" cellspacing="0" cellpadding="0" border="0">
-
- <tbody><tr>
-
- </tr><tr>
-     <td rowspan="4" valign="top">&nbsp;&nbsp;</td>
- </tr>
- <tr><td width="760" valign="top" colspan="2">
-   <table cellpadding="0" cellspacing="0" border="0" width="760">
-      <tbody><tr><td bgcolor="white"><img src="/gfx/x.gif" width="630" height="3"></td></tr>
-      <tr><td bgcolor="black"><img src="/gfx/x.gif" width="630" height="1"></td></tr>
-      <tr><td align="left"><font face="arial" size="-2">&nbsp;<a href="http://www.individualinvestor.com/guest/icom/main.asp?sec=store" style="color: red; text-decoration:none;">COMPANY STORE</a> | <a href="http://www.individualinvestor.com/help/login.asp" style="color: black; text-decoration:none;">LOGIN</a> | <a href="http://www.individualinvestor.com/help/" style="color: black; text-decoration:none;">HELP</a>|<a href="http://www.individualinvestor.com/magazine/" style="color: red; text-decoration:none;"> INDIVIDUAL INVESTOR MAGAZINE </a>|<a href="http://www.individualinvestor.com/ndi_500/" style="color: red; text-decoration:none;"> AMERICA'S FASTEST GROWING COMPANIES™ INDEX</a></font></td></tr>
-      <tr><td bgcolor="black"><img src="/gfx/x.gif" width="630" height="1"></td></tr>
-      <tr><td bgcolor="white"><img src="/gfx/x.gif" width="630" height="4"></td></tr>
-   </tbody></table>
-    </td>
-  </tr>
- <tr>
-    <td valign="top">
-
- <table cellpadding="0" cellspacing="0" width="550" border="0" bgcolor="#EFEFEF">
-	<form id="form2" name="form2"></form>
-
-		 <tbody><tr>
-		<td width="550" valign="top" bgcolor="#EFEFEF">
-		 <table width="550" cellspacing="0" cellpadding="0" border="0" bgcolor="#EFEFEF">
-		 
-
-            <tbody><tr bgcolor="#EFEFEF">
-                <td width="10"><img src="/gfx/x.gif" width="10" height="1" alt="" vspace="0" hspace="0" border="0"></td>
-                <td width="136"><a href="http://www.individualinvestor.com"><img src="/NewHP/images/logo.gif" width="136" height="67" alt="" border="0"></a></td>
-                <td width="16"><img src="/gfx/x.gif" width="16" height="1" alt="" vspace="0" hspace="0" border="0"></td>
-                <td width="468"> 
-
-
-	<!-- Banner Ad  -->
-		
-			<a href="http://ad.doubleclick.net/jump/home.indi/home.banner;cat=home.banner;pos=1;sz=468x60;ord=?" target="_">
-			<img src="http://ad.doubleclick.net/ad/home.indi/home.banner;cat=home.banner;pos=1;sz=468x60;ord=?" border="0" height="60" width="468"></a>
-
-		</td>
-                <td width="10">&nbsp;</td>
-            </tr>
-             <tr bgcolor="#EFEFEF">
-               <!--- <td width="630" bgcolor="#EFEFEF" valign=top> --->
-			   <td width="550" bgcolor="#EFEFEF" valign="top"><img src="/gfx/x.gif" width="1" height="7" alt="" border="0"></td>
-            </tr>
-
-             <tr bgcolor="#EFEFEF">
-                 <td colspan="8" bgcolor="#EFEFEF">
-                   <table width="550" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Home</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/strategies/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Stocks</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/boards/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Boards</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/news/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>News</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/reg/portfolio/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Portfolios</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/magic25/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Magic 25</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/investor_university/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Education</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="http://www.shortinterest.com/tools/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Tools</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/archive/default.asp" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Archives</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td></tr></tbody></table>
-                 </td>
-              </tr>
-
-        </tbody></table>
-
-	</td>
- <td valign="top">
- </td>
- </tr>
-
-<tr>
-	<td bgcolor="White" valign="top">
-	   <table width="600" border="0" cellspacing="0" cellpadding="0">
-	     <tbody><tr>
-	      <td width="330" valign="top">
-		     
-<script language="javascript">
-function DoSubmit() {
-       window.open(document.SearchForm.url.options[document.SearchForm.url.selectedIndex].value + document.SearchForm.ticker.value,"_self");
-	 
-     return false;
-}
-
-//-->
-</script>
-
-
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<form name="SearchForm" onsubmit="return DoSubmit();" action="" method="get"></form>
-             <tbody><tr bgcolor="#dddddd" height="7">
-                <td colspan="3">
-                     
-					 </td></tr>
-					 <tr><td colspan="3" align="center" bgcolor="#dddddd"><font face="Tahoma,arial" size="2"><b>Search</b></font>&nbsp;
-						<select name="url" class="select">
-							<option value="/quotes/company.asp?ticker=">Quote(s)</option>
-							<option value="/quotes/pricecharts/default.asp?ticker=">Charts</option>
-							<option value="/boards/boards.asp?ticker=">Message Boards</option>
-							<option value="http://www.insidertrader.com/cobrands/individualinvestor/search.asp?search=1&amp;criteria=">	Insiders</option>
-						</select>
-						 &nbsp;
-						<input type="text" name="ticker" size="10" value="ticker">
-						<input type="submit" name="go" value="Go!"><br>
-						<font face="tahoma,verdana,arial" size="-2" color="#330066"><b><a href="/quotes/">Ticker Symbol Search</a></b></font>
-						</td>
-						</tr>
-						
-			<tr bgcolor="#dddddd">
-		<td align="left" valign="top"><img src="/img/crn_ll.gif" width="10" height="7" alt="" border="0"></td>
-		<td><spacer type="block" align="middle" height="7" width="1"></spacer></td>
-	    <td align="RIGHT" valign="top"><img src="/img/crn_lr.gif" width="10" height="7" alt="" border="0"></td>
-	</tr>
-	
-</tbody></table>
-
-
-
-
-
-
-
-	     </td>
-		 <td align="center" width="270">
-
-			<a href="http://ad.doubleclick.net/jump/home.indi/diamond.quote;pos=1;sz=120x60;ord=?" target="_">
-			<img src="http://ad.doubleclick.net/ad/home.indi/diamond.quote;pos=1;sz=120x60;ord=?" border="0">
-			</a>
-
-
-			<!--<A href="http://www.individualinvestor.com/boards/contest/" ><img src="/ads/120x60DiamontWonNow.gif"  border=0 ></a>
-			-->
-
-		 </td>
-	  </tr>
-	  </tbody></table>
-	</td>
-</tr>
-</tbody></table>
-
-  <table width="100%" border="0">
-      <tbody><tr bgcolor="White">
-         <td align="left" bgcolor="White" style="COLOR: #800000;FONT-FAMILY: Arial; FONT-SIZE: 9pt;FONT-STYLE: normal;FONT-WEIGHT: bold;TEXT-DECORATION:NONE">
-
-
-			 
-		</td>
-	</tr><tr>
-
-   </tr></tbody></table>
-
-
-<style>               
-               <!--
-               A:hover  {
-               	text-decoration : none;
-               }
-                
-               .link  {
-                font-family : Arial;
-                color : #800000;
-                text-decoration : underline;
+            $.post("/inc/ajax/addEmail.php", { email: email, listId : listId }, function(data)
+            {
+                if (data == "error1" || data == "error2")
+                {
+                    $('#submit-top').attr("value","Subscribe Now").css('background-image','url(/css/images/submit.png)');
+                    $('#submit-bottom').attr("value","Subscribe Now").css('background-image','url(/css/images/submit-sprite.png)');
+                    $('#submit-popup').attr("value","Subscribe Now").css('background-image','url(/css/images/submit.png)');
                 }
-                
-                .header  {
-                font-size : 12pt;
-                font-family : Arial;
-                color : #000000;
-                text-decoration : underline;
-                }
-                
-                .linkB  {
-                font-size : 9pt;
-                font-family : Arial;
-                text-decoration : none;
-                }
-                
-                .linkRnav  {
-                font-size : 9pt;
-                font-family : Arial;
-                color : #ffffff;
-                text-decoration : underline;
-                }
-                
-               .number  {
-                font-size : 9pt;
-                font-family : Arial;
-                color : #000000;
-                text-decoration : none;
-                }
-                
-               .sect  {
-                font-size : 11pt;
-                font-family : Arial, helvetica, tahoma, sans-serif;
-                font-weight : bold;
-                color : #000080;
-                text-decoration : underline;
-                }
-               -->
-               </style>
-<table width="535" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	
-		<td>
-			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
-				<tbody><tr bgcolor="#333399">
-					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
-					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="default.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>FAQ</b></font></a>&nbsp;</td>
-					<td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td>
-			
 
-		<td>
-			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
-				<tbody><tr bgcolor="#333399">
-					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
-					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="use.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Site Tour</b></font></a>&nbsp;</td>
-					<td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td>
-			
+                if (data == "error1")
+                    alert("Please enter an email.");
+                else if (data == "error2")
+                    alert("Please make sure your email is correct.");
+                else
+                    window.location = "http://www.pennystocks.com/confirm";
+            });
+        }
 
-		<td>
-			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
-				<tbody><tr bgcolor="#333399">
-					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
-					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="member_splash.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Membership</b></font></a>&nbsp;</td>
-					<td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td>
-			
+        $(document).ready(function() {
 
-		<td>
-			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
-				<tbody><tr bgcolor="#333399">
-					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
-					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="registration.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Register</b></font></a>&nbsp;</td>
-					<td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td>
-			
+            if (document.images) {
+                img1 = new Image();
+                img1.src = "/css/images/biggreysubmit.png";
+                img2 = new Image();
+                img2.src = "/css/images/smallgreysubmit.png";
+            }
 
-		<td>
-			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
-				<tbody><tr bgcolor="#333399">
-					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
-					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="user.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Account Info</b></font></a>&nbsp;</td>
-					<td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td>
-			
+            $("#top-form").submit(function (event) {
+                event.preventDefault();
+                addEmail("top");
+            });
 
-		<td>
-			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
-				<tbody><tr bgcolor="#333399">
-					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
-					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="tech.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Technical Info</b></font></a>&nbsp;</td>
-					<td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td>
-			
+            $("#bottom-form").submit(function (event) {
+                event.preventDefault();
+                addEmail("bottom");
+            });
 
-		<td>
-			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
-				<tbody><tr bgcolor="#333399">
-					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
-					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="contact.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Contact Us</b></font></a>&nbsp;</td>
-					<td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td>
-			
-
-		<td>
-			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
-				<tbody><tr bgcolor="#333399">
-					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
-					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="sitemap.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Site Map</b></font></a>&nbsp;</td>
-					<td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td>
-			
-
-	
-	</tr>
-</tbody></table>
+            $("#popup-form").submit(function (event) {
+                event.preventDefault();
+                addEmail("popup");
+            });
+        });
 
 
-<table cellpadding="0" cellspacing="0" border="0" width="620">
-	<tbody><tr>
-		<td width="620" height="30" bgcolor="#eeeeee" valign="bottom"><b><font face="arial, helvetica, tahoma, sans-serif" size="3" color="#000000">&nbsp;Privacy Statement for individualinvestor.com:</font></b></td>
-		<td width="5" height="30" bgcolor="#eeeeee" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
-	</tr>
-	<tr>
-		<td width="620" colspan="2" bgcolor="#eeeeee" valign="top">
-			<table width="620" cellpadding="5" cellspacing="0" border="0">
-				<tbody><tr>
-					<td valign="top">
+    </script>
 
-
-
-<table width="100" border="0" cellspacing="0" cellpadding="0" align="right">
-	<tbody><tr bgcolor="#333399">
-	   <td align="left" valign="top"><img src="/gifs/help/tab_left_rn.gif" width="5" height="5" border="0" alt=""></td>
-	   <td align="center" valign="middle"><font face="arial, helvetica, tahoma, sans-serif" size="-1" color="#FFFFFF"><b>HELP</b></font></td>
-	   <td align="right" valign="top"><img src="/gifs/help/tab_right_rn.gif" width="5" height="5" border="0" alt=""></td>
-	</tr>
-	<tr>
-	<td colspan="3" align="center" valign="middle" bgcolor="#333399">
-<table width="100%" border="0" cellspacing="1" cellpadding="2">
-	
-	<tbody><tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="activate.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2"></font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="lost_pass.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Get Password</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="login.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Log-In</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="logoff.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Log-Off</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="subscribe.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Newsletter</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="staff.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Masthead</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="mag_help.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Magazine Help</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="http://corp.individualinvestor.com/corp-about.htm" target="_blank" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">About Us</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="http://corp.individualinvestor.com/press.htm" target="_blank" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Press Releases</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#eeeeee"><a href="privacy.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Privacy Statement</font></a></td>
-	</tr>
-	
-	<tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="termsofuse.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Terms of Use</font></a></td>
-	</tr>
-	
-	</tbody></table>
-	
-</td>
-	</tr>
-	<tr bgcolor="#333399">
-	   	<td height="10" align="left" valign="bottom"><img src="/gifs/help/tab_left_bot_rn_b.gif" width="5" height="5" border="0" alt=""></td>
-		<td height="10" align="center" valign="middle"><a href="/" class="linkRnav"><font face="arial, helvetica, tahoma, sans-serif" size="-1" color="#FFFFFF"><b>Home</b></font></a></td>
-		<td height="10" align="right" valign="bottom"><img src="/gifs/help/tab_right_bot_rn_b.gif" width="5" height="5" border="0" alt=""></td>
-	</tr>
-</tbody></table>
-
-
-
-
-<font size="-1" face="arial, helvetica, tahoma, sans-serif">
-Individual Investor Group, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: <b>www.individualinvestor.com</b>.
-
-<p>individualinvestor.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you, your individualinvestor.com portfolio, your message board posts and / or to gather broad demographic information.
-
-</p><p>individualinvestor.com uses cookies to keep track of your portfolio, your message board identity and to make sure you don't see the same interstitial promotion repeatedly. We use cookies to deliver content that may be specific to your browser, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
-
-</p><p>individualinvestor.com requires users to give us certain contact information (like their name and email address) and demographic information (like their zip code, age, or income level) at various times:  including <b>registration forms, order forms</b> and <b>online surveys</b>. We use the contact information we collect from such forms and surveys to send the user individualinvestor.com's daily newsletter, information about our company and promotional material from some of our partners. The user's contact information is also used to contact the user when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.  We use the demographic information we collect from such forms and surveys to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.  We also use this information for other internal purposes.  We also share this information on an aggregate basis with advertisers and partners.
-
-</p><p><b>WE WILL NEVER SHARE WITH ANY THIRD PARTY ANY INFORMATION THAT SPECIFICALLY IDENTIFIES YOU, WITHOUT FIRST RECEIVING YOUR CONSENT.</b>
-
-</p><p>individualinvestor.com contains links to other sites. individualinvestor.com is not responsible for the privacy practices or the content of such Web sites.  This site also contains links to certain co-branded pages hosted by other parties.  The privacy practices applicable to those co-branded pages will be the privacy practices applied by the parties hosting those pages. 
-
-</p><p>individualinvestor.com uses an outside advertising company to display certain ads on our site. These ads may contain cookies. While we use cookies in other parts of our web site, cookies received with ads displayed by our ad company are collected by our ad company, and we may not have access to this information.  Our ad company's privacy policies may be different than ours.
-
-</p><p><b>Public Forums</b>
-<br>individualinvestor.com makes message boards, contests and/or other community related features available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-</p><p><b>Security</b>
-<br>individualinvestor.com has security measures in place to protect the loss, misuse and alteration of the information under our control. Examples of those measures include firewalls, encryption, one-time passwords and site monitoring.
-
-</p><p><b>Children's Guidelines</b>
-<br>With respect to persons whom we believe to be minors, individualinvestor.com will
-</p><ul>
-<li><b>not</b> collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes;
-</li><li><b>not</b> collect personally identifiable offline contact information without prior parental consent;
-</li><li><b>not</b> distribute to third parties any personally identifiable information without prior parental consent;
-</li><li><b>not</b> give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity 
-</li></ul>
-<p><b>Choice/Opt-Out</b>
-<br>individualinvestor.com provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. We give users the following options for removing their information from our database to not receive future communications or to no longer receive our service:
-
-</p><ul>
-<li><p>Mailing Address
-<br>You can send mail to the following postal address:
-<br>125 Broad Street, 14th Floor, New York, NY 10004<br>
-
-</p></li><li><p>Correct/Update
-<br>This site gives users the following options for changing and modifying information previously provided. visit <a href="http://www.individualinvestor.com/help/">http://www.individualinvestor.com/help/</a> or from the site directory, choose "Your Account".<br>
-
-</p></li><li><p>Contacting the Web Site
-<br>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-</p><p>Greg Barton
-<br>Individual Investor Group, Inc.
-<br>125 Broad St
-<br>14th Floor
-<br>New York, NY 10004
-<br><a href="mailto:gbarton@individualinvestor.com">gbarton@individualinvestor.com</a>
-</p></li></ul>
-</font></td></tr></tbody></table>
-</td></tr></tbody></table>
-<!--New II_bottom  -->
-</td>
-      <td rowspan="2" valign="top" bgcolor="#EFEFEF">
-          <table border="0" cellpadding="3" cellspacing="2" align="left" valign="top">
-  <tbody><tr><td align="center" valign="middle">
-        <a href="http://ad.doubleclick.net/jump/home.indi/home.sponsor.quote;cat=home.sponsor.quote;sz=120x90;pos=1;ord=44379?" target="_44379?">
-		<img src="http://ad.doubleclick.net/ad/home.indi/home.sponsor.quote;cat=home.sponsor.quote;sz=120x90;pos=1;ord=44379?" border="0" align="center" valign="middle"></a>
-  </td></tr>
-  
-  <!-- <tr> 
-    <td ALIGN="center" VALIGN="middle">
     
-   <A HREF="http://www.stocktalkcentral.net" TARGET="_new">
-	<IMG SRC="/gfx/weekly/stc_ls_wed.gif" WIDTH="120" HEIGHT="90" BORDER="0">
-	</a>-->
-	
-	<!--<A HREF="http://www.individualinvestor.com/tbd/article.asp?ID=22972" TARGET="_new">
-	<IMG SRC="/gfx/weekly/aol_dp_thurs.gif" WIDTH="120" HEIGHT="90" BORDER="0">
-	</a>
-	
-    </td>
-   </tr>---> 
-  
-  <tr><td align="center" valign="top">
-  
+<script type="text/javascript">
 
-   
+    window.fbAsyncInit = function()
+    {
+        FB.init({
+            appId      : '195776867219925',
+            status     : true,
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true
+        });
+    };
 
-		<a href="http://ad.doubleclick.net/jump/home.indi/home.skyscraper;pos=1;sz=125x615;tile=1">
-		<img src="http://ad.doubleclick.net/ad/home.indi/home.skyscraper;pos=1;sz=125x615;tile=1" border="0">
-		</a>
-		
-	<br>
-		<a href="http://ad.doubleclick.net/jump/home.indi/home.middle.promo;pos=1;sz=120x90;tile=1">
-		<img src="http://ad.doubleclick.net/ad/home.indi/home.middle.promo;pos=1;sz=120x90;tile=1" border="0">
-		</a>
-	<br>
-		 <a href="http://ad.doubleclick.net/jump/home.indi/home.skyscraper2;pos=1;sz=125x615;tile=1">
-		<img src="http://ad.doubleclick.net/ad/home.indi/home.skyscraper2;pos=1;sz=125x615;tile=1" border="0">
-		</a>
-  
-  </td></tr>
-  </tbody></table>
-  
+    (function(d){
+        var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
 
-	 </td>
- </tr>
- 
-<tr>
-    <td>
+    function fbLogin()
+    {
+        FB.login(function(response)
+        {
+            $.post("/inc/ajax/fbConnector.php", { listId : listIdFB }, function(data)
+            {
+                if (data.status == 1)
+                    window.location.href = "http://www.pennystocks.com/confirm";
 
-<!-- begin bottom include - Alex Zubriy -->
-	<br>
- <center>
-	<table border="0" cellspacing="3" cellpadding="1">
-	<tbody><tr>
-	<td rowspan="8"><img src="http://www.individualinvestor.com/gfx/x.gif" width="100" height="1" vspace="0" hspace="0" border="0"></td>
-	<td align="center">
-	
-		
-		<!--	
-				<A HREF="https://commerce.cdsfulfillment.com/IDI/giftform.htm" target="_">
-				<IMG SRC="/gifs/magazine/subscribe/ban-468x60-2.gif"></A>
-		-->				
-		     <a href="http://ad.doubleclick.net/jump/home.indi/home.banner2;pos=1;sz=468x60;tile=1;ord=?">
-			<img src="http://ad.doubleclick.net/ad/home.indi/home.banner2;pos=1;sz=468x60;tile=1;ord=?" border="0" height="60" width="468">
-			</a>		
-	
-	</td></tr>
-	<tr>
+            }, "json");
 
-		<td align="center"><a href="#top"><font size="-2" face="arial" color="#CC0000">Back to Top</font></a><br><br></td>
-	</tr>
-	<tr>
+        }, {scope: 'email,publish_stream'});
 
-		<td align="center"><nobr>
-		<font size="-2" face="arial">
-		
-		&nbsp;<a href="/" target="_top"><font size="-2" face="arial" color="#CC0000">Home</font></a>&nbsp; 
-		|
-		&nbsp;<a href="/strategies/" target="_top"><font size="-2" face="arial" color="#CC0000">Stocks</font></a>&nbsp; 
-		|
-		&nbsp;<a href="/boards/" target="_top"><font size="-2" face="arial" color="#CC0000">Boards</font></a>&nbsp; 
-		|
-		&nbsp;<a href="/news/" target="_top"><font size="-2" face="arial" color="#CC0000">News</font></a>&nbsp; 
-		|
-		&nbsp;<a href="/reg/portfolio/" target="_top"><font size="-2" face="arial" color="#CC0000">Portfolios</font></a>&nbsp; 
-		|
-		&nbsp;<a href="/magic25/" target="_top"><font size="-2" face="arial" color="#CC0000">Magic 25</font></a>&nbsp; 
-		|
-		&nbsp;<a href="/investor_university/" target="_top"><font size="-2" face="arial" color="#CC0000">Education</font></a>&nbsp; 
-		|
-		&nbsp;<a href="http://www.shortinterest.com/tools/" target="_top"><font size="-2" face="arial" color="#CC0000">Tools</font></a>&nbsp; 
-		|
-		&nbsp;<a href="/archive/default.asp" target="_top"><font size="-2" face="arial" color="#CC0000">Archives</font></a>&nbsp; 
-		
-		</font>
-		</nobr></td>
-	</tr>
+        return false;
+    }
 
-<form name="Form1"></form> 
-	<tr>
+    $(document).ready(function()
+    {
+        $("#top-facebook-subscribe").click(function() { return fbLogin()});
+        $("#bottom-facebook-subscribe").click(function() { return fbLogin()});
+    });
+</script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script>
+    <script type="text/javascript">
+        $(function() {
 
-		<td align="center">
-			<select language="JavaScript" onchange="parent.location.href=options[selectedIndex].value" style="background-color:#660000;font-family:arial;font-weight:bold;font-size:9pt;color:#ffffff" name="DropDown1">
-						<option value="/">Site Directory</option>
-				<option value="/quotes/company.asp?ticker=GFF">Stocks</option>
-				<option value="/quotes/company.asp?ticker=GFF">---Stock of the Day</option>
-				<option value="/strategies/">---Our Stock Picks</option>
-				<option value="/earnings/">---Earnings Calendar</option>
-				<option value="/ipos/">---IPO Center</option>
-				<option value="http://www.insiderTrader.com">---Insider Trading</option>
-				<option value="/"> </option>
-				<option value="/archive/">Analysis &amp; Opinion</option>
-				<option value="/archive/default.asp">---Archives</option>
-				<option value="/guest/cht_arc/yho_home.asp">---Yahoo Chats Archive</option>
-				<option value="/"> </option>
-				<option value="/boards">Boards</option>
-				<option value="/boards/managers">---Board Managers</option>
-				<option value="/boards/top40.asp?knd=stock">---Top Stock Boards</option>
-				<option value="/boards/top40.asp?knd=topic">---Top Topic Boards</option>
-				<option value="/"> </option>
-				<option value="/boards">Community</option>
-				<option value="/lunch_bytes/">---Beat the Magic 25</option>
-				<option value="/boards/contest/">---Contests</option>
-				<option value="/guest/cht_arc/yho_home.asp">---Chat Center</option>
-				<option value="/vote/homevote_res.asp">---The Indi Poll</option>
-				<option value="/boards/user/form.asp">---My Profile</option>
-				<option value="/quotes/poll/poll_arch.asp">---Stock of the Day Poll</option>
-				<option value="/"> </option>
-				<option value="/investor_university/">Education</option>
-				<option value="/investor_university/">---Investor University ®</option>
-				<option value="/guest/401kafe/Default_frm.htm">---401(k) ForumTM</option>
-				<option value="/profiles/retire.asp">---Financial Planning</option>
-				<option value="/"> </option>
-				<option value="/">Features</option>
-				<option value="/reg/portfolio">---Your Portfolio</option>
-				<option value="/magic25/">---Magic 25</option>
-				<option value="/ndi_500/">---America's Fastest Growing Companies™ Index</option>
-				<option value="/funds/">---Mutual Funds</option>
-				<option value="/news/">---News</option>
-				<option value="/industry/default.asp">---Industry Reports</option>
-				<option value="/"> </option>
-				<option value=" ">Tools</option>
-				<option value="http://www.eoenabled.com/individualinvestor/default.asp">---Web Research</option>
-				<option value="/"> </option>
-				<option value="/magazine/">Individual Investor Magazine</option>
-				<option value="https://commerce.cdsfulfillment.com/ID5/subscriptions.cgi?IN_Code=ISESD">---Subscribe</option>
-				<option value="https://commerce.cdsfulfillment.com/ID1/giftform.htm">---Give a Gift Subscription</option>
-				<option value="https://commerce.cdsfulfillment.com/IDI/custserv.cgi">---Renew Your Subscription</option>
-				<option value="https://commerce.cdsfulfillment.com/IDI/custserv.cgi">---Pay Your Subscription Bill</option>
-				<option value="https://commerce.cdsfulfillment.com/IDI/custserv.cgi">---Change Your Address</option>
-				<option value="https://commerce.cdsfulfillment.com/IDI/custserv.cgi">---Questions About Your Subscription?</option>
-				<option value="http://www.individualinvestor.com/Magazine/">---Last Month's Issue</option>
-				<option value="/"> </option>
-				<option value="https://commerce.cdsfulfillment.com/SSR/subscriptions.cgi?IN_Code=I0ASD">Special Situations Report</option>
-				<option value="https://commerce.cdsfulfillment.com/SSR/subscriptions.cgi?IN_Code=I0ASD">---Subscribe</option>
-				<option value="https://commerce.cdsfulfillment.com/SSR/custserv.cgi">---Renew Your Subscription</option>
-				<option value="https://commerce.cdsfulfillment.com/SSR/custserv.cgi">---Change Your Address</option>
-				<option value="https://commerce.cdsfulfillment.com/SSR/custserv.cgi">---Questions About Your Subscription?</option>
-				<option value="/"> </option>
-				<option value=" ">Products and Services</option>
-				<option value="http://www.invest-store.com/iionline/">---Individual Investor Bookstore</option>
-				<option value="http://www.tradingmarkets.com/gall_iig.site">---TradersGalleria</option>
-				<option value="http://www.individualinvestor.com/guest/icom/tools.asp">---Online Newsletters</option>
-				<option value="/guest/berkshire/ber_frm.asp?FFI=FFI">---Fast, Free Product Info</option>
-				<option value="/tools/">---Free CD-ROM</option>
-				<option value="http://www.individualinvestor.com/guest/icom/main.asp?sec=store">---Company Store</option>
-				<option value="https://new.movecentral.com/default.asp?partner=II">---Change of Address Service</option>
-				<option value="/"> </option>
-				<option value="/help/">Help</option>
-				<option value="/help/sitemap.asp">---Site Map</option>
-				<option value="/help/user.asp">---Your Account</option>
-				<option value="/help/login.asp">---Log In</option>
-				<option value="/help/logoff.asp">---Log Off</option>
+                var mouse_is_inside;
 
-			</select>
-		</td>
-	</tr>
-	
+                $('.pop-up .pop-up-holder').hover(function(){
+                        mouse_is_inside=true;
+                    }, function(){
+                        mouse_is_inside=false;
+                    });
 
-	
+                    $(document).mouseup(function(){
+                        if(!mouse_is_inside) $('.pop-up').hide();
+                });
 
-	<tr>
-		<td align="center"><font size="-2" face="arial">Copyright © 1997-2001 Individual Investor Group, Inc. All Rights Reserved.<br>
-		<a href="http://www.indi.com/corp-about.asp" target="" <font="" size="-2" face="arial" color="#CC0000">About Us</a></font> | <a href="http://www.indi.com/adv.asp" target=""><font size="-2" face="arial" color="#CC0000">Advertising</font></a> | <a href="http://www.indi.com/hr-emp-ops.asp" target=""><font size="-2" face="arial" color="#CC0000">Jobs</font></a> | <a href="http://www.indi.com/ir.asp" target=""><font size="-2" face="arial" color="#CC0000">Investor Relations</font></a> | <a href="http://www.indi.com/prod-contact.asp" target=""><font size="-2" face="arial" color="#CC0000">Subscribe</font></a> | <a href="/help/termsofuse.asp"><font size="-2" face="arial" color="#CC0000">Terms of Use</font></a> | <font size="-2" face="arial" color="#CC0000"><a href="/help/privacy.asp">Privacy</a></font> | <a href="/help/contact.asp"><font size="-2" face="arial" color="#CC0000">Feedback</font></a>
-</td>
-	</tr>
-	<tr><td>&nbsp;
-	
-	</td></tr>
-	
-	<tr><td>
-	<table width="100%" cellpadding="10">
-			<tbody><tr>
-				<td>
-				<a href="http://www.hyperfeed.com" target="_new">
-					<img src="/gfx/hyperfeed.gif" border="0">
-				</a>
-				</td>
-				<td>
-				<span style="font-family: arial; font-size: 9px; color: 444444;">
-					The Market data on this site is powered by HyperFeed™ market data. Data is delayed 20 minutes unless otherwise noted, is believed accurate but is not warranted or guaranteed by HyperFeed Technologies, Inc. and is subject to HyperFeed™ Technologies, Inc. terms. All times are Eastern United States.
-					</span>
-				</td>
-			</tr>
-		</tbody></table>
-	</td></tr>
-	</tbody></table>
-</center></td>
-</tr>
-</tbody></table>
+            });
+    </script>
 
+    <!-- Start Visual Website Optimizer Asynchronous Code -->
+    <script type="text/javascript">
+        var _vwo_code=(function(){
+            var account_id=26340,
+                settings_tolerance=2000,
+                library_tolerance=1500,
+                use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+                f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=26340&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121010154702id_%2Fhttp%253A%2F%2Fwww.pennystocks.com%2Fprivacy&amp;r=0.6812914347692021" type="text/javascript"></script>
+    <!-- End Visual Website Optimizer Asynchronous Code -->
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-34108506-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+</head>
+<body>
+
+
+<div class="pop-up" id="newsletter-popup-div">
+    <div class="pop-up-holder">
+        <img src="/css/images/nsrs-pop-up-img.jpg" width="594" height="70" alt="">
+        <span class="altered">GET ALERTS ON STOCKS BEFORE THEY GO UP !</span>
+        <form id="popup-form" method="post" class="af-form-wrapper" action="">
+
+            <div class="input-holder">
+                <input id="email3" class="field" type="text" value="" tabindex="500" title="Enter Your Email Here">
+            </div>
+            <input type="submit" class="submit" id="submit-popup" value="Subscribe Now">
+
+        </form>
+        <span class="privacy">By submitting your email, you agree to our <a href="/privacy">Privacy Policy</a> and <a href="/disclaimer">Disclaimer</a>.</span>
+    </div>
+</div>
+
+<div id="fb-root"></div>
+
+    <!-- Header -->
+    <div id="header">
+        <div class="holder">
+            <div class="shell">
+                <!-- Navigation -->
+                <div id="navigation">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/articles">Articles</a></li>
+                        <li><a href="/faq">FAQ</a></li>
+                        <li><a href="/privacy">Privacy</a></li>
+                        <li><a href="/disclaimer">Disclaimer</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                    </ul>
+                </div>
+                <!-- END Navigation -->
+                <!-- Logo -->
+                <h1 id="logo"><a href="index.php">PennyStocks.com</a></h1>
+                <!-- END Logo -->
+                <!-- Subscribe Form -->
+                <div class="subscribe">
+                    <h3>Sign up to our 100% free newsletter right now</h3>
+                    <a href="#" class="facebook right" id="top-facebook-subscribe">Subscribe  with Facebook</a>
+                    <div class="cl">&nbsp;</div>
+                    <form method="POST" action="" id="top-form" accept-charset="UTF-8">
+
+                        <div class="input-holder">
+                            <input id="email1" name="email" type="text" class="field" value="Enter Your Email Here" title="Enter Your Email Here">
+                        </div>
+                        <input name="submit" type="button" class="submit" value="Subscribe Now" onclick="$(this).submit();" id="submit-top">
+
+                        <span class="privacy">By submitting your email, you agree to our <a href="/privacy">Privacy Policy</a> and <a href="/disclaimer">Disclaimer</a>.</span>
+                    </form>
+                </div>
+                <!-- END Subscribe Form -->
+            </div>
+        </div>
+    </div>
+    <!-- END Header -->
+<!--#include virtual="ssi-header.html" -->
+	<!-- Content -->
+	<div id="content" class="priv-page">
+		<div class="shell">
+			<div class="inner-holder">
+				<div class="cl">&nbsp;</div>
+				<div class="heading">
+					<img src="css/images/privacy-policy.png" width="260" height="46" alt="">
+				</div>
+				<!-- Main Content -->
+				<div id="main-content" class=" left">
+				  <p>PennyStocks.com is Acqua Impero Energia, Praia do Botafogo 300/5 Andar, 22250-040 Rio de Janeiro, Rio de Janeiro, Brazil. <br>
+				    <br>
+				    This policy covers how PennyStocks treats personal information that PennyStocks collects and receives. <br>
+				    <br>
+				    Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. PennyStocks, Inc. collects personal information when you register anywhere on PennyStocks. We ask for information such as your full name, full address, email address and phone number. Once you register with PennyStocks and sign in to our website, you are not anonymous to us. By becoming a member of PennyStocks, you are giving us the permission to contact you via telephone (voice broadcast/live person), text message (SMS-standard messaging rates apply-contact your carrier for details), email, direct mail and by any means necessary. <br>
+				    <br>
+				    PennyStocks, Inc. automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you request. PennyStocks, Inc. uses information for the following general purposes: to personalize the content you see, fulfill your requests, contact you, and to improve our services. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We may place a cookie on your personal computer. A cookie is a small computer file that our computer sends to your computer and that your computer sends back to us each time you make a request from our site. Cookies help us recognize you when you visit our site again. We use cookies on our site to collect session data for several purposes to personalize and improve your individual viewing experiences on our site. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. <br>
+				    <br>
+				    PennyStocks, Inc. may update this policy at anytime. It is up to the user to check back regularly to see if there have been changes made. The PennyStocks website requires consideration for and as a condition of allowing you access. Reading and accepting the terms of use and reading and accepting the provisions of our privacy policy are required considerations for granting you the right to visit, read or interact with it. All persons under the age of 18 are denied access to this website. If you are under 18 years of age, it is unlawful for you to visit, read, or interact with this website or its contents in any manner. This website specifically denies access to any individual that is covered by the Child Online Privacy Act (COPA) of 1998. This website reserves the right to deny access to any person or viewer for any reason. Under the terms of the privacy policy, which you accept as a condition for viewing, the website is allowed to collect and store data and information for the purpose of exclusion and for many other uses. The terms of use agreement may change from time to time. Visitors have an affirmative duty, as part of the consideration for permission to view this website, to keep themselves informed of changes. <br>
+				    <br>
+				    Viewers, users, or customers, collectively referred to herein as "Visitors," are parties to this agreement. The website (www.PennyStocks.com) and its owners and/or operators are parties to this agreement, herein referred to as "Website." Unless you have entered into an express written contract with this website to the contrary, visitors have no right to use this information in a commercial or public setting; they have no right to broadcast it, copy it, save it, print it, sell it, or publish any portions of the content of this website. By viewing the contents of this website you agree this condition of viewing and you acknowledge that any unauthorized use is unlawful and may subject you to civil or criminal penalties. The website and its contents are owned or licensed by the website. Material contained on the website must be presumed to be proprietary and copyrighted. Visitors have no rights whatsoever in the site content. Use of website content for any reason is unlawful unless it is done with express contract or permission of the website. The website disclaims any responsibility for the accuracy of the content of this website. Visitors assume the all risk of viewing, reading, using, or relying upon this information. Unless you have otherwise formed an express contract to the contrary with the website, you have no right to rely on any information contained herein as accurate. The website makes no such warranty. The website assumes no responsibility for damage to computers or software of the visitor or any person the visitor subsequently communicates with from corrupting code or data that is inadvertently passed to the visitor's computer. <br>
+				    <br>
+				    Again, visitor views and interacts with this site, or banners or pop-ups or advertising displayed thereon, at his own risk. By viewing, using, or interacting in any manner with this site, including banners, advertising, or pop-ups, and as a condition of the website to allow his lawful viewing, Visitor forever waives all right to claims of damage of any and all description based on any causal factor resulting in any possible harm, no matter how heinous or extensive, whether physical or emotional, foreseeable or unforeseeable, whether personal or business in nature. Visitor agrees as a condition of viewing, that any communication between Visitor and Website is deemed a submission. All submissions, including portions thereof, graphics contained thereon, or any of the content of the submission, shall become the exclusive property of the Website and may be used, without further permission, for commercial use without additional consideration of any kind. OPT-OUT FROM MAIL LIST At any time you may request to be removed from our mailing list by clicking the unsubscribe link provided in each newsletter.
+				    <!-- END Main Content -->
+				    <!-- Siderbar -->
+			      </p>
+			  </div>
+				<!-- END Main Content -->
+				<!-- Siderbar -->
+				<div id="sidebar" class="right">
+                  <div class="graphs">
+    <ul>
+        <li class="nsrss" id="sidebar-ticker-1" onclick="showPopup();">
+            <div class="graph-holder">
+                <div class="inner"></div>
+            </div>
+            <a href="#"><img src="/css/images/nsrs2.png" width="263" height="169" alt=""></a>
+        </li>
+        <li class="nsrss" id="sidebar-ticker-2" onclick="showPopup();">
+            <div class="graph-holder">
+                <div class="inner"></div>
+            </div>
+            <a href="#"><img src="/css/images/snpk2.png" width="263" height="169" alt=""></a>
+        </li>
+        <li class="nsrss" id="sidebar-ticker-3" onclick="showPopup();">
+            <div class="graph-holder">
+                <div class="inner"></div>
+            </div>
+            <a href="#"><img src="/css/images/gwbu2.png" width="263" height="169" alt=""></a>
+        </li>
+    </ul>
+    <div class="cl">&nbsp;</div>
+</div>
+
+				  <div class="testimonials">
+						<img src="/css/images/testimonials-text-img.png" width="228" height="41" alt="">
+						<div class="inner1">
+							<p>PennyStocks.com has been a life saver for me. I use it in conjunction with my day job to make a few extra bucks, and it actually works</p>
+							<span class="author">Jonathan L.</span>
+						</div>
+						<div class="spacing-bg">&nbsp;</div>
+						<div class="inner2">
+							<p>My wife and I were able to pay off our mortgage thanks to your newsletter, and what's crazy is that we made it all on just ONE stock!</p>
+							<span class="author">Mike S.</span>
+						</div>
+					</div>
+				</div>
+				<!-- END  Siderbar -->
+				<div class="cl">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- END Content -->
+<!--#include virtual="ssi-footer.html" -->
+
+<!-- Footer -->
+    <div id="footer">
+        <div class="shell">
+            <div class="mini-logo left">
+                <img src="/css/images/footer-logo.png" width="317" height="58" alt="">
+            </div>
+            <div class="footer-text right">
+                <p>Acqua Impero Energia<br>
+                    Praia do Botafogo  300/ 5Âº Andar<br>
+                    22250-040 Rio de Janeiro<br>
+                    Rio de Janeiro, Brazil</p>
+            </div>
+        </div>
+    </div>
+    <!-- END Footer -->
+    <div class="fixed-subscribe">
+        <div class="shell">
+            <!-- Subscribe Form -->
+            <div class="subscribe-holder">
+                <div class="left-side left">
+                    <h3>Sign up to our<br>
+                        100% Free newsletter right now</h3>
+                </div>
+                <div class="right-side left">
+                    <h4>Get Alerts Before They go up!</h4>
+                    <a href="#" class="facebook" id="bottom-facebook-subscribe">Subscribe  with Facebook</a>
+
+                    <form method="POST" action="" id="bottom-form" accept-charset="UTF-8">
+
+                        <input name="submit" type="button" class="submit" value="Subscribe Now" onclick="$(this).submit();" id="submit-bottom">
+                        <input id="email2" name="email" type="text" class="field" value="Enter Your Email Here" title="Enter Your Email Here">
+
+
+                    </form>
+
+                    <span>By submitting your email, you agree to our <a href="/privacy">Privacy Policy</a> and <a href="/disclaimer">Disclaimer</a>.</span>
+                </div>
+            </div>
+            <!-- END Subscribe Form -->
+        </div>
+    </div>
 
 </body></html>
