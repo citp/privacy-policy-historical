@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myownbusiness.org privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117082641id_/http%3A//www.myownbusiness.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myownbusiness.org privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011001318id_/http%3A//www.myownbusiness.org/privacy.html) for the most accurate reproduction.*
 
 # My Own Business Inc - Privacy Policy
 
-|  [home](https://web.archive.org/web/20120117082641id_/http%3A//www.myownbusiness.org/index.html) | [about us](https://web.archive.org/web/20120117082641id_/http%3A//www.myownbusiness.org/mission_purpose.html) | privacy policy  |   
+|  [home](http://www.myownbusiness.org/) | [about us](http://www.myownbusiness.org/mission_purpose.html) | privacy policy  |   
    
 |  **Privacy Policy**
 
