@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505061043id_/http%3A//www.wacotrib.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010065310id_/http%3A//www.wacotrib.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Wacotrib.com
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 * * *
 
-**LAST UPDATED: July 26, 2010**
+**LAST UPDATED: July 23, 2012**
 
 We care about your privacy. We will not sell your name or e-mail address to any third party advertisers without your permission. **Please read our Privacy Policy below for further details.**
 
@@ -16,7 +16,7 @@ DISCLOSURE OF INFORMATION | SHOPPING | OPTING OUT
 
 STORAGE OF INFORMATION | CHANGES TO THIS PRIVACY POLICY
 
-WacoTrib.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Robinson Media Company, LLC, d/b/a _Waco Tribune-Herald_ (“we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our Content Director:
+WacoTrib.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Waco Media Company, Inc., d/b/a _Waco Tribune-Herald_ (“we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our Content Director:
 
 Bruce Kabat  
 _Waco Tribune-Herald_  
@@ -38,7 +38,7 @@ The information we gather falls into two categories: (1) information (for exampl
 
 The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don’t supply the information we need, we may be unable to provide you with services we make available to other visitors to our site. And we can’t send you e-mail alerting you to a new service we’re offering, or breaking news that may interest you if you don’t tell us what you’re interested in and give us your e-mail address. Please see the “Shopping” section below to learn more about purchasing products or services on our site.
 
-**Contests and Other Promotions.** From time to time, we may offer contests, sweepstakes or other promotions on our site. If you enter one of these promotions, you’ll have to provide information about yourself (such as your name, address, telephone number and e-mail address) so that we can contact you if you win. We may share this information with any wholly or majority-owned subsidiary of Robinson Media Company, LLC and any co-sponsor of the promotion (we will identify any co-sponsor in the official rules for the promotion). If you don’t want us to collect the information requested in the registration form or to provide it to any wholly or majority-owned subsidiary of Robinson Media Company, LLC or contest co-sponsors, please do not enter the contest or sweepstakes.
+**Contests and Other Promotions.** From time to time, we may offer contests, sweepstakes or other promotions on our site. If you enter one of these promotions, you’ll have to provide information about yourself (such as your name, address, telephone number and e-mail address) so that we can contact you if you win. We may share this information with any wholly or majority-owned subsidiary of Waco Media Company, Inc. and any co-sponsor of the promotion (we will identify any co-sponsor in the official rules for the promotion). If you don’t want us to collect the information requested in the registration form or to provide it to any wholly or majority-owned subsidiary of Waco Media Company, Inc. or contest co-sponsors, please do not enter the contest or sweepstakes.
 
 **E-mail Newsletters.** We may also offer you the opportunity to subscribe to e-mail newsletters on topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See “Opting Out” below.
 
@@ -60,7 +60,7 @@ Back to top
 
 **Vendors and Service Providers.** To make our sites more valuable to our visitors, we may offer some features in conjunction with other providers (“Provider Partners”). Our e-mail newsletters, e-mail services, and online classifieds, for example, may be made available through cooperative arrangements with providers that specialize in operating such services. In some instances, our Provider Partners will have the same access to your information as we do. Their use of the information will be subject to the terms of their respective privacy policies, which you can find on their Web sites.
 
-**Our Affiliates.** We may share the information that we collect from you with any wholly or majority-owned subsidiary of Robinson Media Company, LLC so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you.
+**Our Affiliates.** We may share the information that we collect from you with any wholly or majority-owned subsidiary of Waco Media Company, Inc. so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you.
 
 **Statistical Information.** Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our sites, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to third parties as we see fit.
 
