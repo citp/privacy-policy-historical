@@ -1,27 +1,49 @@
-> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519153854id_/https%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010192040id_/https%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: TheSSL Store.com Read our Privacy Policy
 
-**Our commitment to your privacy**  
-Your privacy is important to us at TheSSLStore.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available as a link on the bottom of every page on the TheSSLStore.com site.
+## Your privacy is important to us
 
-**The information we collect**  
-This notice applies to all information collected or submitted on the TheSSLStore.com website. We may collect personal information about you, but the type of personal information collected is for delivery and billing purpose only. 
+  
 
-**Cookies**  
-We may use cookies to avoid fraud transactions and to collect statistics to make your browsing experience better. 
 
-**The way we use information**  
-We do not share this information with outside parties except to the extent necessary to inform service providers about services for which you have expressed an interest and requested additional information regarding that service. We use return email addresses to answer the email we receive for tech support, customer service, refer-a-friend, email updates and to send registered users their passwords. Such addresses are not used for any other purpose and are not shared with outside parties. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+**What information do we collect?**  
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
 
-**Our commitment to data security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+**What do we use your information for?**  
+Any of the information we collect from you may be used in one of the following ways:
 
-**How you can access or correct your information**  
-At any time, you may review or update the personal information we have collected online from you by Login into your account or send us at: support@TheSSLStore.com. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+  
 
-**Change in policy**  
-Our policies may be changed from time to time without any prior notification. 
 
-**How to contact us**  
-Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@TheSSLStore.com](mailto:privacy@TheSSLStore.com)
+  * To personalize your experience 
+  * To improve our website   
+
+  * To improve customer service   
+
+  * To process transactions   
+
+  * To send periodic emails 
+
+
+
+**How do we protect your information?**  
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we disclose any information to outside parties?**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. 
+
+**Your Consent**  
+By using our site, you consent to our privacy policy.  
+To view our entire detailed Privacy Policy [click here](https://web.archive.org/detailedprivacypolicy.aspx)
+
+**Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+The SSL Store  
+146 2nd Street North, Suite 106  
+St. Petersburg, Florida 33701  
+United States  
+[Send an E-mail for Information](mailto:%69%6E%66%6F%40%74%68%65%53%53%4C%73%74%6F%72%65%2E%63%6F%6D)
