@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sugarondemand.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616105704id_/http%3A//www.sugarcrm.com/about/sugarcrm-inc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarondemand.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011001551id_/http%3A//www.sugarcrm.com/about/sugarcrm-inc-privacy-policy) for the most accurate reproduction.*
 
-# SugarCRM Inc. Privacy Policy | SugarCRM.com
+# SugarCRM Inc. Privacy Policy | SugarCRM.com English (Americas)
 
 [](http://www.truste.org/ivalidate.php?url=www.sugarcrm.com&sealid=102)Thank you for visiting one of SugarCRM Inc.’s ("SugarCRM") Internet websites. This Privacy Policy details certain policies implemented throughout SugarCRM, governing SugarCRM's use of personally identifiable information about users on www.sugarcrm.com web site and users of our On-Demand services (“Services”).
 
 SugarCRM is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.sugarcrm.com](http://www.sugarcrm.com/) (the “Site”). Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Site, and does not cover information that may be collected through software downloaded from the Site or through our Services.
-
-[](http://www.truste.org/ivalidate.php?url=www.sugarcrm.com&sealid=102) SugarCRM complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use and retention of data from the European Union.
 
 If you have questions or concerns regarding this Privacy Policy statement, you should first contact SugarCRM at [trust@sugarcrm.com](mailto:trust@sugarcrm.com) or mail SugarCRM Inc., 10050 N. Wolfe Rd. SW2-130, Cupertino CA 95014, USA. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed with respect to this Site, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -58,5 +56,5 @@ SugarCRM provides user with the ability to review and update user contact inform
 
 If you choose not to receive SugarCRM sent emails or newsletters, you can opt-out or unsubscribe by emailing [news@sugarcrm.com](mailto:news@sugarcrm.com), by following the opt-out instructions in the email or newsletter, or by sending mail to SugarCRM Inc., 10050 N. Wolfe Rd. SW2-130, Cupertino CA 95014, USA or call +1 408.454.6900.
 
-This Privacy Policy was last updated: March 11, 2008  
-This Privacy Policy is effective as of: March 11, 2008
+This Privacy Policy was last updated: August 16, 2012  
+This Privacy Policy is effective as of: August 16, 2012
