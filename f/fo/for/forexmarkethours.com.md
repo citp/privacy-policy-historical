@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexmarkethours.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605235549id_/http%3A//www.forexmarkethours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmarkethours.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010144801id_/http%3A//www.forexmarkethours.com/privacy) for the most accurate reproduction.*
 
 # Forex Market Hours
 
