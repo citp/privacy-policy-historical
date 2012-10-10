@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directline-holidays.co.uk privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607014122id_/http%3A//www.directline-holidays.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directline-holidays.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010060229id_/http%3A//www.directline-holidays.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
 # Book Cheap Package Holidays | Late Deals | All Inclusive Holidays from Directline Holidays
 
@@ -69,6 +69,6 @@ For more information please see: 
 
   * [Directline Holidays booking conditions](https://web.archive.org/booking_conditions.cfm)
   * [Contact Us](https://web.archive.org/contact_us.cfm)
-  * [Frequently Asked Questions](https://web.archive.org/faqs.cfm)
+  * [Frequently Asked Questions](https://web.archive.org/faq)
 
 
