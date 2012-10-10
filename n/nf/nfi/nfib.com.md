@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfib.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616120439id_/http%3A//www.nfib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfib.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010060548id_/http%3A//www.nfib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NFIB
 
