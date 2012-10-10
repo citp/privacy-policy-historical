@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504234431id_/http%3A//cablemover.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010214919id_/http%3A//cablemover.com/Privacy-Policy) for the most accurate reproduction.*
 
-# CableMover - Cable TV, High-Speed Internet and Phone
+# Privacy Policy | CableMover
 
 CableMover.com and associated web sites (the “Website”) is offered by sponsoring cable companies as listed on our home page (the “Cable Providers”) and is powered by CTAM Marketing Corp. ("we," "our" or "us"). This Privacy Policy discloses the privacy policy and security practices for this Website. We also work with third parties that provide services to you relating to moving and relocation, such as change of address, moving quotes and other related services (the “Service Providers”) This Website is specifically designed for persons who are 18 years of age or older.
 
 **Information Collected About You**  
-We collect information about you that is provided by you to us or a Cable Provider or Service Provider, such as your name, address, telephone numbers, e-mail addresses and other information that can identify you as a specific individual ("Information"). On those pages of the Website where Information is collected in order for you to purchase or request further information about a product or service, we describe what information is required in order to provide you with the product, service or information that you have requested. We do not knowingly collect information from children under 13. If a Service Provider requires a birth date to order a specific product or service, you may not be able to enter a birth date that indicates that you are less than 13 years old. We collect Information when you: 
+We collect information about you that is provided by you to us or a Cable Provider or Service Provider, such as your name, address, telephone numbers, e-mail addresses and other information that can identify you as a specific individual ("Information"). On those pages of the Website where Information is collected in order for you to purchase or request further information about a product or service, we describe what information is required in order to provide you with the product, service or information that you have requested. We do not knowingly collect information from children under 13. If a Service Provider requires a birth date to order a specific product or service, you may not be able to enter a birth date that indicates that you are less than 13 years old. We collect Information when you:
 
   * Become authorized to use the Website
   * Purchase a product or service
@@ -31,7 +31,7 @@ It is our intention to maintain reputable Service Providers to offer users a var
 We will not sell, share or rent your Information in ways different from what is disclosed in this statement unless you specifically elect to make your Information available to third parties by checking the applicable opt in box or boxes located on the Website.
 
 **Use of Your Information**  
-Information collected on this site may be used to: 
+Information collected on this site may be used to:
 
   * Facilitate your orders for services and products
   * Send notifications
@@ -54,4 +54,4 @@ If required by law, we may disclose information you have provided in connection 
 We reserve the right to modify or amend this Privacy Policy at any time and for any reason. If we are going to use your Information in a manner materially different from that stated at the time of collection we will notify you via e-mail or other available means. You will have a choice as to whether or not we use your Information in this materially different manner. In addition, if we make any material changes in our privacy practices that do not affect Information already stored in our database, we will post a prominent notice on our Website notifying users of the change. In some cases where we post the notice we will also e-mail users, notifying them of the changes in our privacy practices.
 
 **Contacting Us**  
-If you need help using our service or have a question regarding the products or services offered by any of our service providers, email us at [info@ctam.com](mailto:info@ctam.com) or call us at 301-485-8900.
+If you need help using our service or have a question regarding the products or services offered by any of our service providers, email us at [info@ctam.com](mailto:info@ctam.com) or call us at 703-549-4200.
