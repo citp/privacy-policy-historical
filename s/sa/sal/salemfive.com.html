@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salemfive.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504003645id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salemfive.com privacy policy that was archived on 2012-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010113150id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 	<meta name="verify-v1" content="88I5w+Mk7Bh5qiYJjyU+HaBHs4nCr/7Px0Swc8yBpPU=">
@@ -28,6 +28,7 @@
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 	<!--script type="text/javascript" src="/templates/salemfive/scripts/jquery.js"></script --> 
 	<script type="text/javascript" src="/templates/salemfive/scripts/jqcookie.js"></script>
+	<script type="text/javascript" src="/templates/salemfive/scripts/jquery.hoverIntent.minified.js"></script>
 	<script type="text/javascript" src="/templates/salemfive/scripts/cufon.js"></script>
 	<script type="text/javascript" src="/templates/salemfive/scripts/VAG_Rounded_Std_250.font.js"></script>
         <script type="text/javascript" src="/templates/salemfive/scripts/supersized.2.0.js"></script>
@@ -46,17 +47,21 @@
 				$('ul#utility-nav > li:last, ul#main-nav > li:last, div#footer ul > li:last').addClass('last');
 				$('#footer ul li a').after('<span class="line">|</span>');
 
-				$('ul#main-nav > li').hover(
-					function(){
+				hiConfig = {
+					sensitivity: 3, // number = sensitivity threshold (must be 1 or higher)
+					interval: 200, // number = milliseconds for onMouseOver polling interval
+					timeout: 200, // number = milliseconds delay before onMouseOut
+					over: function() {
 						$(this).addClass('selected');
 						$(this).children('ul').show();
-						//$(this).find('a span.spacer').show();
-					},
-					function(){
+					}, // function = onMouseOver callback (REQUIRED)
+					out: function() { 
 						$(this).removeClass('selected');
 						$(this).children('ul').hide();
-						//$(this).find('a span.spacer').hide();
-				});
+					} // function = onMouseOut callback (REQUIRED)
+				}				
+
+				$('ul#main-nav > li').hoverIntent(hiConfig);
 
 				//$('#main-nav > li > a').append('<span class="spacer"></span>');
                                $('ul#social-media li#twitter a, ul#social-media li#facebook a').attr("target", "_blank");
@@ -238,10 +243,10 @@
 		<h1 id="logo">
 			<a href="/"><img src="/images/salem-five-logo.png" alt="Logo title" title="Take me home"></a>
 		</h1>
-		<p class="date">Thursday, May 3, 2012</p>
+		<p class="date">Wednesday, October 10, 2012</p>
 		<ul class="menu" id="utility-nav"><li class="parent item10"><a href="/index.php/locations"><span>Locations</span></a></li><li class="parent item22"><a href="/index.php/open-an-account"><span>Open An Account</span></a></li><li class="parent item3"><a href="/index.php/about-salem-five"><span>About Salem Five</span></a></li><li class="parent item26"><a href="/index.php/in-the-community"><span>In The Community</span></a></li><li class="parent item27"><a href="/index.php/careers"><span>Careers</span></a></li></ul><ul id="social-media">
-	<li id="twitter"><a href="https://twitter.com/#!/SalemFive" alt="Follow Salem Five on Twitter" title="Follow Salem Five on Twitter">twitter</a></li>
-	<li id="facebook"><a href="https://www.facebook.com/salemfivebank" alt="Follow Salem Five on Facebook" title="Follow Salem Five on Facebook">facebook</a></li>
+	<li id="twitter"><a href="/index.php/twitter" alt="Follow Salem Five on Twitter" title="Follow Salem Five on Twitter">twitter</a></li>
+	<li id="facebook"><a href="/index.php/facebook" alt="Follow Salem Five on Facebook" title="Follow Salem Five on Facebook">facebook</a></li>
 </ul>
 <form action="index.php" method="post">
 	<div class="search">
@@ -349,8 +354,8 @@
 						</a>
 					</li>
 					<li class="item219">
-						<a href="/index.php/personal/banking/account-rates">
-							<span>Rates</span>
+						<a href="/index.php/personal/mortgage/rates">
+							<span>Get Mortgage Rates</span>
 						</a>
 					</li>
 					<li class="item228">
@@ -410,14 +415,14 @@
 							<span>Life</span>
 						</a>
 					</li>
-					<li class="parent item196">
-						<a href="/index.php/personal/insurance/commercial">
-							<span>Commercial</span>
-						</a>
-					</li>
 					<li class="item200">
 						<a href="/index.php/personal/insurance/request-a-quote">
 							<span>Request a Quote</span>
+						</a>
+					</li>
+					<li class="parent item954">
+						<a href="/index.php/personal/insurance/commercial">
+							<span>Commercial</span>
 						</a>
 					</li>
 					<li class="item796">
@@ -575,24 +580,24 @@
 							<span>Payroll Services</span>
 						</a>
 					</li>
+					<li class="parent item196">
+						<a href="/index.php/business/business-services/commercial">
+							<span>Commercial</span>
+						</a>
+					</li>
 					<li class="item268">
 						<a href="/index.php/business/business-services/employee-banking-services">
 							<span>Employee Banking</span>
 						</a>
 					</li>
 					<li class="item262">
-						<a href="/index.php/business/business-services/commercial-insurance">
-							<span>Commercial Insurance</span>
+						<a href="/index.php/business/business-services/insurance">
+							<span>Insurance</span>
 						</a>
 					</li>
 					<li class="item267">
 						<a href="/index.php/business/business-services/salem-five-investment-services">
 							<span>Investment Services</span>
-						</a>
-					</li>
-					<li class="item265">
-						<a href="/index.php/business/business-services/ttaxplus-services">
-							<span>TTaxPlus™ Services</span>
 						</a>
 					</li>
 					<li class="item456">
@@ -945,6 +950,11 @@
 							<span>Ask Salem Five</span>
 						</a>
 					</li>
+					<li class="item948">
+						<a href="/index.php/customer-support/contact-us/service-notices">
+							<span>Service Notices</span>
+						</a>
+					</li>
 				</ul>
 			</li>
 			<li class="parent item86">
@@ -987,14 +997,14 @@
 							<span>Mortgages</span>
 						</a>
 					</li>
-					<li class="item551">
-						<a href="/index.php/customer-support/frequently-asked-questions/wireless-mobile-banking">
-							<span>Mobile Banking</span>
-						</a>
-					</li>
 					<li class="item552">
 						<a href="/index.php/customer-support/frequently-asked-questions/fdic-dif">
 							<span>FDIC/DIF</span>
+						</a>
+					</li>
+					<li class="item880">
+						<a href="/index.php/customer-support/frequently-asked-questions/stoneham-savings">
+							<span>Stoneham Savings</span>
 						</a>
 					</li>
 				</ul>
@@ -1048,6 +1058,16 @@
 					<span>Security Center</span>
 				</a>
 				<ul>
+					<li class="item168">
+						<a href="/index.php/customer-support/security-center/id-theft-resources">
+							<span>ID Theft Resources</span>
+						</a>
+					</li>
+					<li class="parent item861">
+						<a href="/index.php/customer-support/security-center/infoarmor">
+							<span>Salem Five InfoArmor</span>
+						</a>
+					</li>
 					<li class="item169">
 						<a href="/index.php/customer-support/security-center/security-support">
 							<span>Security Support</span>
@@ -1066,11 +1086,6 @@
 					<li class="item167">
 						<a href="/index.php/customer-support/security-center/password-security">
 							<span>Password Security</span>
-						</a>
-					</li>
-					<li class="item168">
-						<a href="/index.php/customer-support/security-center/identity-theft-protection">
-							<span>Identity Theft Protection</span>
 						</a>
 					</li>
 					<li class="item166">
@@ -1461,7 +1476,7 @@ function block_hideshow(obj,act) {
         <img src="/templates/salemfive/images/bg/content-bot.png" style="width:965px; height:27px; border: 0px;">
 </div><!--content-wrap-->
 	<div id="footer">
-		<ul class="menu"><li class="item8"><a href="/index.php/member-fdic"><span>Member FDIC</span></a></li><li class="item9"><a href="/index.php/member-dif"><span>Member DIF</span></a></li><li class="item18"><a href="/index.php/terms-and-conditions"><span>Terms &amp; Conditions</span></a></li><li id="current" class="active item19"><a href="/index.php/privacy-policy"><span>Privacy Notice</span></a></li><li class="parent item20"><a href="/index.php/disclosures"><span>Disclosures</span></a></li><li class="item21"><a href="/index.php/external-links"><span>External Links</span></a></li><li class="item621"><a href="http://www.hud.gov/library/bookshelf09/index.cfm"><span>Equal Housing Lender</span></a></li></ul>
+		<ul class="menu"><li class="item8"><a href="/index.php/member-fdic"><span>Member FDIC</span></a></li><li class="item9"><a href="/index.php/member-dif"><span>Member DIF</span></a></li><li class="item18"><a href="/index.php/terms-and-conditions"><span>Terms &amp; Conditions</span></a></li><li id="current" class="active item19"><a href="/index.php/privacy-policy"><span>Privacy Notice</span></a></li><li class="parent item20"><a href="/index.php/disclosures"><span>Disclosures</span></a></li><li class="item21"><a href="/index.php/external-links"><span>External Links</span></a></li><li class="item621"><a href="/index.php/hud"><span>Equal Housing Lender</span></a></li></ul>
 	</div>
 <script type="text/javascript">Cufon.now();</script>
 
