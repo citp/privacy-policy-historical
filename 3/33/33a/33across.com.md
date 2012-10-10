@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621044628id_/http%3A//33across.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010104652id_/http%3A//33across.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 33Across | Your Brand Graph
 
@@ -10,7 +10,7 @@ _August 15, 2011_
 
 ## USER PREFERENCES MANAGER
 
-[Click here](http://socialdna.33across.com/preferences.php) to Explore your preferences as predicted by 33Across.
+[Click here](https://web.archive.org/web/20121010104652id_/http%3A//33across.com/preferences.php) to Explore your preferences as predicted by 33Across.
 
 ## PRIVACY PRACTICES FOR OUR TECHNOLOGY
 
@@ -18,7 +18,7 @@ _August 15, 2011_
 
 33Across provides technology services to Clients that enable them to collect and use Social Engagement Data to improve the relevance of advertising which appears on web pages. "Social Engagement Data" consists of anonymous information regarding the relationships between people, the website pages they visit and/or the actions they take on a website, such as installing or sharing applications, widgets or other content. For example, 33Across may collect Social Engagement Data when an individual visits a Client's webpage, installs or shares an application, or connects with friends from within one of our Client(s) websites. Data is only collected from the websites of Clients who use our services.
 
-Clients use the Social Engagement Data we capture to classify website users who are likely to share similar interests or preferences. For example, if a person expresses an interest in comedy films, our technology would help our Clients identify other people who are likely to enjoy comedy films based on similarities in Social Engagement Data between the different people. By using our technology, Clients categorize people with similar characteristics or interests, improving their ability to deliver more relevant advertising. 33Across maintains Social Engagement Data for up to 60 days for purposes of identifying people with similar characteristics or interests. After 60 days, Social Engagement Data is no longer used for these purposes, but is used for research and reporting on an aggregated basis for up to 2 years. The cookies we use to improve the relevance of advertising which appears on web pages are set to expire after 1 year.
+Clients use the Social Engagement Data we capture to classify website users who are likely to share similar interests or preferences. For example, if a person expresses an interest in comedy films, our technology would help our Clients identify other people who are likely to enjoy comedy films based on similarities in Social Engagement Data between the different people. By using our technology, Clients categorize people with similar characteristics or interests, improving their ability to deliver more relevant advertising. 33Across maintains Social Engagement Data for up to 90 days for purposes of identifying people with similar characteristics or interests. After 90 days, Social Engagement Data is no longer used for these purposes, but is used for research and reporting on an aggregated basis for up to 2 years. The cookies we use to improve the relevance of advertising which appears on web pages are set to expire after 1 year.
 
 You may encounter our technology when: you visit one of our Clients' websites; we purchase online advertisements on a website that you visit; and/or when our Clients purchase online advertisements on a website that you visit.
 
