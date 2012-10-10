@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtbot.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510081841id_/http%3A//www.rtbot.net/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtbot.net privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010155112id_/http%3A//www.rtbot.net/p/privacy-policy) for the most accurate reproduction.*
 
 # RTBot - Privacy Policy
 
@@ -16,7 +16,7 @@ Links to Other Sites
 
 As a provider of advertising and publisher services, you will find various links on our sites and clients' sites, including but not limited to: Sponsored Listings, RTBot' Partners, banners, pops, interstitials, etc. The sites these all link to are owned and maintained by independent companies, over which RTBot has no control, and who are not covered by this privacy policy. RTBot is not responsible or liable for the content of these sites, or their collection of information and its use. If you have any concerns about your privacy at one of these sites, please review their sites' policies or contact them directly.
 
-Cookies
+Cookies and Web Beacons
 
 Cookies and web beacons are small files that are downloaded to your computer, and that allow RTBot to collect aggregate statistical information. They are not in any way harmful to your computer, nor are they capable of personally identifying you. Rather, they are only capable of collecting anonymous information, and letting us know basic information about your visit.
 
