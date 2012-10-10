@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamenutt.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518103457id_/http%3A//gamenutt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenutt.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010025233id_/http%3A//gamenutt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » GameNutt
 
@@ -66,7 +66,7 @@ Flash LSOs On some of Our sites Our third party gaming partners use local shared
 
 **Links from the Site** The Site provides links to the websites of many of Our Business Partners. If You link to any of these third party Web sites, Our privacy policy will not apply to Your use of, and activities on, those sites. We encourage You to read the legal notices posted on these sites, including their privacy policies. We shall have no responsibility or liability for Your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of PII by a third party must be communicated to that third party and not to Us.
 
-**Deactivate Software** Premium Users who have downloaded the Software and who do not want their NPII collected as described above should immediately deactivate the Software. You may deactivate the Software by visiting the [Uninstall Page](https://web.archive.org/web/20120518103457id_/http://gamenutt.com/uninstall/) and following the directions to remove the Software from Your computer, or by selecting the appropriate entry in Your Control Panel using the “Add or Remove Programs” icon. Deactivating the Software means that You will no longer have access to the Games on Our Site.
+**Deactivate Software** Premium Users who have downloaded the Software and who do not want their NPII collected as described above should immediately deactivate the Software. You may deactivate the Software by visiting the [Uninstall Page](https://web.archive.org/web/20121010025233id_/http://gamenutt.com/uninstall/) and following the directions to remove the Software from Your computer, or by selecting the appropriate entry in Your Control Panel using the “Add or Remove Programs” icon. Deactivating the Software means that You will no longer have access to the Games on Our Site.
 
 **QUESTIONS AND CONCERNS** If You have any questions or concerns about this Policy or its implementation, please email Us at [GameNutt Support](mailto:support@GameNutt.com) or via postal mail at:
 
