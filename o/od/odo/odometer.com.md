@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2011-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110716083400id_/http%3A//www.odometer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010110035id_/http%3A//www.odometer.com/privacy.html) for the most accurate reproduction.*
 
 # Odometer.com | Privacy Policy
 
